@@ -1,13 +1,13 @@
 # Notable Alumni of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 40*
+*Status: E1-reviewed | Sources: 42*
 *Last Updated: 2026-07-11*
 
 ## Overview
 
 Camp Kanawana has produced a remarkable number of alumni who achieved distinction in public life. Since 2007, the Pip Alumni Award has formally recognized some of these individuals, but the camp's alumni network extends well beyond award recipients. This article collects biographical notes on notable alumni not covered by standalone articles elsewhere in the wiki.
 
-For alumni who have standalone articles, see: [[people/notable-alumni/stuart-mclean|Stuart McLean]] (Pip Award 2009), [[people/notable-alumni/terry-mosher|Terry Mosher / Aislin]] (Pip Award 2015), [[people/dave-twynam|G. David Twynam]], [[people/edgar-smee|Edgar E. Smee]], [[people/sean-day|Sean Day]], [[people/notable-alumni/john-cleghorn|John Cleghorn]] (Pip Award 2012), [[people/notable-alumni/chris-adam|Chris Adam]] (Pip Award 2017), [[people/notable-alumni/james-orbinski|James Orbinski]] (Pip Award 2024), [[people/bruce-netherwood|Bruce Netherwood]] (Pip Award 2011), [[people/richard-patten|Richard Patten]] (Pip Award 2008), [[people/notable-alumni/carol-skinner|Carol Skinner]] (Pip Award 2016), [[people/notable-alumni/sam-lazarus|Sam Lazarus]] (Pip Award 2013, posthumous), [[people/rl-charlton|R.L. Charlton]]. For full details on the award itself and the Caddell family, see [[traditions/pip-alumni-award|The Pip Alumni Award]].
+For alumni who have standalone articles, see: [[people/notable-alumni/stuart-mclean|Stuart McLean]] (Pip Award 2009), [[people/notable-alumni/terry-mosher|Terry Mosher / Aislin]] (Pip Award 2015), [[people/dave-twynam|G. David Twynam]], [[people/edgar-smee|Edgar E. Smee]], [[people/sean-day|Sean Day]], [[people/notable-alumni/john-cleghorn|John Cleghorn]] (Pip Award 2012), [[people/notable-alumni/chris-adam|Chris Adam]] (Pip Award 2017), [[people/notable-alumni/james-orbinski|James Orbinski]] (Pip Award 2024), [[people/bruce-netherwood|Bruce Netherwood]] (Pip Award 2011), [[people/notable-alumni/richard-patten|Richard Patten]] (Pip Award 2008), [[people/notable-alumni/carol-skinner|Carol Skinner]] (Pip Award 2016), [[people/sam-lazarus|Sam Lazarus]] (Pip Award 2013, posthumous), [[people/rl-charlton|R.L. Charlton]]. For full details on the award itself and the Caddell family, see [[traditions/pip-alumni-award|The Pip Alumni Award]].
 
 ## Pip Award Recipients Without Standalone Articles
 
@@ -17,7 +17,7 @@ Richard Kerr, known by his camp nickname "Itche," was the inaugural Pip Award re
 
 ### Richard Patten (1942–2021) (Pip Award 2008)
 
-Liberal Ontario MPP for Ottawa Centre (1987–90, 1995–2007) with an extensive prior YMCA international career. See [[people/richard-patten|Richard Patten]] for full biography.
+Liberal Ontario MPP for Ottawa Centre (1987–90, 1995–2007) with an extensive prior YMCA international career. See [[people/notable-alumni/richard-patten|Richard Patten]] for full biography.
 
 ### Bruce Netherwood (Pip Award 2011)
 
@@ -29,7 +29,7 @@ Former Chairman and CEO of the Royal Bank of Canada (1994–2001), Kanawana camp
 
 ### Sam Lazarus (1978–2004) (Pip Award 2013, posthumous)
 
-Camper and staff member who died volunteering in Ghana at 25; the Sam Lazarus Fund, established by his family, continues to send children to Kanawana. See [[people/notable-alumni/sam-lazarus|Sam Lazarus]] for full biography. His mother, Janet Torge, is a Montreal-based writer and television documentary producer whose varied career has included radio talk-show host, traffic reporter, Montreal Gazette columnist, prenatal teacher and doula, construction site manager, and co-founder of Canada's first Rape Relief Centre (1973);^25 she published *Dear Sam: Grieving the Death of My Son* (iUniverse) and *I Can't Believe I'm Old: Essays on Aging* (Linda Leith Publishing),^26 ^27 founded Radical Resthomes, a co-living housing model for seniors, and serves on the CIHR Institute of Aging Older Adult Advisory Council.^25 Her documentary producer credits include *Harry Gulkin: Red Dawn on Main Street* (2004) and *The Gig Is Up* (2021).^28
+Camper and staff member who died volunteering in Ghana at 25; the Sam Lazarus Fund, established by his family, continues to send children to Kanawana. See [[people/sam-lazarus|Sam Lazarus]] for full biography. His mother, Janet Torge, is a Montreal-based writer and television documentary producer whose varied career has included radio talk-show host, traffic reporter, Montreal Gazette columnist, prenatal teacher and doula, construction site manager, and co-founder of Canada's first Rape Relief Centre (1973);^25 she published *Dear Sam: Grieving the Death of My Son* (iUniverse) and *I Can't Believe I'm Old: Essays on Aging* (Linda Leith Publishing),^26 ^27 founded Radical Resthomes, a co-living housing model for seniors, and serves on the CIHR Institute of Aging Older Adult Advisory Council.^25 Her documentary producer credits include *Harry Gulkin: Red Dawn on Main Street* (2004) and *The Gig Is Up* (2021).^28
 
 ### Jeniene Phillips Birks (Pip Award 2014)
 
@@ -49,9 +49,7 @@ Former camper and Kanawana staff member.^13 Educated at McGill (BA Economics, LL
 
 ### Dr. James Orbinski (Pip Award 2024)
 
-Born 1960 in England; grew up in Notre-Dame-de-Grâce, Montreal.^15 Attended John XXIII High School and Dawson CEGEP in Montreal, then earned a BA in Psychology from Trent University (1984), MD from McMaster University (1990), and MA in International Relations from the University of Toronto (1998).^15 ^24 Camper and counsellor at Kanawana in the 1980s–1990s.^15
-
-Orbinski co-founded MSF Canada (1990) and served as President of the International Council of MSF (1998–2001), accepting the 1999 Nobel Peace Prize on behalf of the organization.^6 ^15 His MSF field missions included Peru (1992), Somalia (1992–93), Afghanistan (1994), Rwanda during the 1994 genocide, and Zaire during the refugee crisis (1996–97).^6 He received the Meritorious Service Cross (1997) for his work during the Rwandan genocide and the Concordia University Loyola Medal (2017).^24 He co-founded Dignitas International (2004), a medical/research NGO focusing on HIV/AIDS and TB. Officer of the Order of Canada (2009).^15 He authored *An Imperfect Offering: Humanitarian Action for the 21st Century* (2008), winner of the Shaughnessy Cohen Award for Political Writing.^24 Currently Principal of Massey College at the University of Toronto.^15
+Camper and counsellor at Kanawana in the 1980s–1990s.^15 Co-founder of MSF Canada and President of the International Council of MSF (1998–2001), he accepted the 1999 Nobel Peace Prize on the organization's behalf; he is an Officer of the Order of Canada and Principal of Massey College at the University of Toronto.^6 ^15 See [[people/notable-alumni/james-orbinski|James Orbinski]] for the full biography.
 
 ## Other Notable Alumni
 
@@ -115,7 +113,21 @@ Attended Camp Kanawana for six summers before becoming a camp counsellor and can
 ## Open Questions
 
 1. [Critical] What are the years that Richard "Itche" Kerr attended Camp Kanawana? Was he a camper, counsellor, or both?
-2. [Important, re-confirmed exhausted 2026-07-09] Which other notable individuals attended Camp Kanawana who are not Pip Award recipients? The camp has operated for 130+ years — there must be many more. (Harold H. Potter, pioneering Black Canadian sociologist, identified as 1930s counsellor.) A systematic 18-query, 7-surface sweep (Google web, LinkedIn, Facebook, Instagram, TikTok, Newspapers.com, Wikipedia, Google Books) found no previously undocumented, independently-notable/public alumni — every result was either already-documented or a generic camp/marketing page. The easily-discoverable public web is genuinely saturated for this topic; further progress likely requires oral history or physical archive access.
+2. [Important, re-confirmed exhausted 2026-07-09] Which other notable individuals attended Camp Kanawana who are not Pip Award recipients? The camp has operated for 130+ years — there must be many more. (Harold H. Potter, pioneering Black Canadian sociologist, identified as 1930s counsellor.) A systematic 18-query, 7-surface sweep (Google web, LinkedIn, Facebook, Instagram, TikTok, Newspapers.com, Wikipedia, Google Books) found no previously undocumented, independently-notable/public alumni — every result was either already-documented or a generic camp/marketing page. The easily-discoverable public web is genuinely saturated for this topic; further progress likely requires oral history or physical archive access. **One lead was tested against that conclusion on 2026-08-25 and remains unresolved.** Jessica
+Wong's CBC feature of 29 April 2021 names **Gaëtane Verna** as a former counsellor and section leader
+at Kanawana, then based in Toronto, with two daughters at the camp.^41 A curator of the same name is
+internationally prominent — Musée d'art de Joliette, then The Power Plant in Toronto, then the Wexner
+Center. A full research loop found **four converging attributes and no source that links them**: the
+name is rare and exact; the curator was raised in Montreal after her family moved from Kinshasa when
+she was two, matching CBC's "growing up in Quebec"; the curator directed The Power Plant in Toronto
+across April 2021, matching "now based in Toronto"; and her bachelor's degree is from **Concordia** —
+the institution descended from the Sir George Williams YMCA, the same lineage that supplied Kanawana
+staff.^42 Against that: not one of her professional profiles mentions camp, the YMCA, or Kanawana.
+A Toronto Life feature reportedly gives her daughters' ages, which would settle it either way, but
+that page could not be read through any available route — direct fetch, archive, and text proxy all
+refused — so the decisive evidence is *unread*, not *absent*. **Verna is therefore not listed on this
+page.** She is recorded in [[history/modern-era|The Modern Era]] as what the source actually
+establishes: a former counsellor and section leader, and a camp parent.
 3. ~~[Important] What is Bruce Netherwood's specific role history at Kanawana — was he a camp director? Pip Award describes him as "YMCA leader and author" — what did he author?~~ [Partially resolved] Director at Kanawana 1988–1994 per oral history (f_1212). No published books found via web search; "author" in Pip citation may refer to internal YMCA publications or reports. 30+ years in YMCA camping confirmed.
 4. ~~[Nice-to-have] What is Jeniene Phillips Birks's broadcasting career? Which network/station?~~ [Resolved] CBC Montreal television journalist; fill-in anchor circa 2009.^19
 5. [Nice-to-have] Can any notable alumni from the 1894–1930 era be identified?
@@ -162,8 +174,11 @@ Attended Camp Kanawana for six summers before becoming a camp counsellor and can
 36. Obituary, Douglas Warren Marston, Toronto Star / Legacy.com (2011). URL: https://www.legacy.com/obituaries/thestar/obituary.aspx?n=douglas-warren-marston&pid=154662261
 37. Obituary comment, Peter Goddard (Legacy Remembers / Toronto Star, 2022); Wikipedia, "Peter Goddard (journalist)."
 38. Cohen, Mike. "Cohen Chatter." *The Suburban* (Montreal), July 26–August 2, 2015. Column covering Terry Mosher Pip Award ceremony and personal camp memories. URL: http://blog.thesuburban.com/2015_07_26_archive.html
+
 39. Buckland, Smillie. "How Summer Camp Shapes Lives." *Reader's Digest Canada*. URL: https://www.readersdigest.ca/culture/how-summer-camp-shapes-lives/
 40. Prabook, "Charles Smillie Buckland." URL: https://prabook.com/web/charles_smillie.buckland/3371993
+41. Wong, Jessica. "With camps, summer programs awaiting the go-ahead, what are kids in for this summer?" *CBC News*, 29 April 2021 [src_cbc_wong_camps_2021]. Names Verna as counsellor and section leader at Kanawana; makes no claim about any other career. See [f_0924].
+42. Wikipedia, "Gaëtane Verna" [src_wikipedia_gaetane_verna]; Wexner Center and OSU biographies. Held only as the comparison biography for the identification question — none of them mentions Kanawana, the YMCA, or summer camp. See [f_2257].
 
 ## Research Notes
 

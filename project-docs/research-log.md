@@ -3534,3 +3534,1038 @@ The second major find of this batch: Internet Archive actually holds 38 digitize
 ### Outcome
 
 This tier — deliberately the last remaining previously-untouched or skip-listed articles — produced two of the largest single-session finds of the entire project: the actual 1979-1982 Kanawana-Weredale operational relationship, and the discovery that 38 (not 1) Green Triangle issues and 11 (not 0) Camp Perrot annual reports are digitized on Internet Archive. Both underscore a recurring lesson from this session: Concordia's static finding-aid pages and its master PDF, plus a full re-scan of Internet Archive's actual holdings rather than assumed coverage, repeatedly surface material that targeted keyword search alone misses. Five new priority-queue items track the remaining physical-archive leads (the Weredale arrangement's end, the Camp Perrot closure contradiction, a Furness shipping-registry check, further master-PDF re-mining, and a human check of the SGW 1973 yearbook).
+
+---
+
+## Campaign: The YMCA of Montreal fonds — 2026-08-14
+
+### What the seam is
+
+The Concordia-digitized **YMCA of Montreal fonds** on Internet Archive: 1,037 items, 638 of them text. Before this date, ~44 were referenced anywhere in `sources.json`. **594 had never been opened.**
+
+Everything below came out of that untouched 93% in a single day.
+
+### Method (reproducible; two traps)
+
+1. `https://archive.org/advancedsearch.php?q=collection%3Aymca-montreal-fonds&fl[]=identifier&rows=2000&output=json`
+2. For each id: `https://archive.org/metadata/{id}` → find the `_djvu.txt` entry
+3. Download `https://archive.org/download/{id}/{file}` → grep locally
+
+**Trap 1:** `advancedsearch.php` searches **metadata only, not OCR**. Its zero-results are not evidence of absence. Earlier campaigns took them as such.
+**Trap 2:** `ia-fts.archive.org` (the real full-text API) is blocked by the egress proxy. Bulk download plus local grep is the only route.
+**Trap 3:** the `_djvu.txt` filename uses the item's human-readable **title**, not its identifier — which is why earlier fetch attempts 404'd.
+
+The OCR is tesseract on mid-century typescript and is imperfect in a specific, learnable way: periods often render as `e` (`WeHe Spearman` = `W. H. Spearman`), `l`↔`1`, `|`↔`I`. Search for variants.
+
+### Found
+
+| Finding | Document |
+|---|---|
+| Order of Owens created 1976; Norrey Owens the **donor/presenter**, Doug Peets the first recipient; April 13 1976 is **not** a death date | Director's Report 1976 |
+| O. N. H. Owens, Kanawana Committee Chairman 1937–38, Camp Perrot board chair 1940s–50s — likely the namesake | 1938 letterhead; reports 1929–1964 |
+| W. H. Spearman was Camp Chief **1932–1934**, not 1933 alone; and there are **two** W. H. Spearmans | Green Triangle 1932–33; reports 1934, 1935, 1949 |
+| Geoff Anderson, Director 1969 — displacing Ross Bannerman | Annual Report 1969 |
+| James H. Turner, Camp Director 1970 and 1971 | Reports 1970, 1971 |
+| Leo J. Robitaille, 1973 | Director's Report 1973 |
+| Derek Walsh extends 1974–75 → **1974–78** | Reports 1974–78 |
+| Twynam's 1979 start fixed in his own words | Director's Report 1979 |
+| Macdiarmid extends to **1939**, and the *reason it ended*: overseas with YMCA War Services, December 1939 | CFCF broadcast 1939; report 1946 |
+| W. H. Ball on the **founding committee**, fall 1892 | Kamp Kanawana History 1951 |
+| The YMCA's own obituary crediting Ball with "establishing the first Canadian camps for boys" | Annual Report 1955 |
+| A **first-person founding memoir** (1919), author still unidentified | Autobiographical Sketch, Aug 1919 |
+| "Stampede Day" as a named all-camp themed day | Annual Report 1966 |
+
+### Null results worth recording
+
+- **"Kanawana Stampede"** as an exact phrase: zero hits across all 634 text items. "Stampede Day" (1966) is the closest thing, and the 1976 Director's Report — 1,455 lines covering the whole season — does not mention a Stampede at all.
+- The equestrian reading of the 1976 Stampede plaque is **positively contradicted**: the riding program was recommended for discontinuation in 1971 and does not appear among 1976's program areas.
+- `advancedsearch.php` phrase queries for `"Kanawana Stampede"`, `"Norrey Owens"`, `owens AND kanawana`, `"order of owens"`: all zero — **but see Trap 1**; these prove nothing.
+
+### Two cataloguing defects found
+
+- `sgw-ymca-annual-report-1990-1991` and `-1991-1992` are misdated by a century in their Internet Archive identifiers; they hold **1890-91 and 1891-92** content. The 1890-91 report is the one announcing W. H. Ball's hiring. Anyone searching by date will miss them.
+- The registered McMorris thesis cache is the 54KB **landing page**, not the 251KB extracted text. The real text has now been extracted ad hoc twice and discarded twice; the second extraction is what reopened the 1967 Open Question. Queued as `p_242`.
+
+### What this changes about method
+
+Phase 2's definition of "exhausted" — 8 queries across 3 surfaces — assumes the surfaces are searchable. This collection *is* full-text searchable and returned nothing for years, because the search endpoint everyone reached for indexes metadata only. **A negative result from a search tool is a fact about the tool, not about the archive.** Several questions closed in this project as dead ends were closed on exactly that mistake: the 1967 canoe-trip Open Question was marked a "confirmed dead end" after testing archive boxes 12B01 and 12B04, when the thesis's own footnotes place every Centennial document in 12B07.
+
+---
+
+## Campaign p_263 — RALPH over all 53 dormant sources (2026-08-18)
+
+**Trigger.** The provenance checks added on 2026-08-16 reported 53 sources cited by no fact and named in no article. The operator asked for a full RALPH loop over all of them.
+
+**Method.** Phase R began at the local cache, per the CLAUDE.md rule, then five read-only research agents covered the ~42 web-retrievable items in parallel: newspapers/press, archives and finding aids, YMCA and camp-organisation web, the alumni-biography cluster, and the reference/social tier. Every agent was briefed on one rule above all others — distinguish *fetched and empty* from *could not fetch*, and never let the second masquerade as the first.
+
+**Outcome: 53 → 2.** The two remaining are a duplicate id and one paywalled article that was never seen.
+
+### The dormancy figure was overstated
+
+Eight of the 53 were **alias records** — a second source id pointing at a URL the wiki already cites under a different id. The 1891-92 annual report is the clearest: its "Out-door Work suffers from the disadvantage of not owning suitable grounds" is quoted in two articles under the twin id. The genuinely unexamined set was 45, not 53. New harness **check L** catches this class; check K structurally cannot see it.
+
+### What was actually found
+
+- **A 1940 Kanawana brochure at Trent University Archives** (OCA fonds 72-007, Box 1, Folder 5), plus a c.1970s brochure (78-006, Box 24, Folder 25) and a "YMCA - Montreal" folder (84-019). Outside the YMCA's own archive, unrestricted access. Queued p_267.
+- **A static-HTML bypass for Concordia's finding aid** at `www.concordia.ca/offices/archives/ymca-fonds-*.html`. The AtoM catalogue serves a JS challenge and has been unreadable throughout this project. One page yielded Permanent Camp Committee minutes 1895-1926, Ralph Dawson's 1933 history, Charlton's and Cushing's 1943 accounts, and the 1897/1898 camp brochures. Queued p_268.
+- **The whole Montreal Gazette, 1878-2006, is free-text searchable through Google Books.** Both Gazette clips that newspapers.com blocks behind Cloudflare were recovered in full. This is the single most reusable capability the loop produced.
+- **The 1918 season in detail** — about 90 boys aged 12-17, sleeping under canvas, woken at 6.30 by bugle, twelve rowboats and six canoes, a dining pavilion, and two new staff names: cook **Harry Smith** of Montreal High School and **Robert Spinney**, teaching basketry and woodwork.
+- **The 1974 season** — 90 boys and 90 girls, canoes and sailboats, and "French campers constitute 30 per cent of the Kanawana population."
+- **Independent confirmation of the Dimock link** from the Ontario Camping Association's November 1966 newsletter: Hedley Dimock Jr. "is presently consultant for the Montreal YMCA Camp, Kanawana."
+- **The 1944 Otoreke postcard**, transcribed by QAHN: a new lodge, and a fifteen-mile paddle.
+- **Camp Lighthall, St-Sauveur** — a camp in Kanawana's own village, absent from this wiki (p_269).
+
+### Conflicts and corrections
+
+- **c_026 raised**: the Gazette of 1974 gives the site as **1,200 acres**; the YMCA in 2017 gives **550**. Two documented sources, 43 years apart, differing by more than a factor of two. Three readings are open and none is yet supported.
+- The 1974 Gazette's "sister campers invaded four years ago" does **not** reopen the coeducation date. 1968 is settled on three independent traces including a hard enrolment figure of 66 girls.
+- QAHN's "began operation in 1893" is **not** a new conflict — the wiki already documents 1893 precursor activity. Filing one would have manufactured a disagreement out of two statements about different things.
+- **Five agent findings were corrected against the wiki**, which the agents could not see: the Hamilton "Ed Smee" flagged as a probable name collision is the same man (the wiki documents his 1968 return to Hamilton and the Conserver Society); Mosher's 1952-53 camper years, Pip Caddell's 1928 season, Derek Walsh and R. H. Hanagan were all already documented.
+
+### Null results worth recording
+
+Read in full and empty: the September 1932 SGW *College Bulletin* (the word "camp" never occurs); the 1965 and 1980 news releases; the 41st Annual Report (1891-92), whose silence on camping *corroborates* the finding aid's dating of the search for a lake to 1893; *Canadian Camping Magazine* Feb 1959; the Camp Sloane and YWCA songbooks; the Saint-Adolphe-d'Howard Wikipedia articles in both languages; the whole six-source Terry Mosher cluster; and the 1967 pageant cluster, where the link to Kanawana's Voyageur naming is **purely thematic** and no article may present it otherwise.
+
+### Access failures — recorded as unavailable, never as null
+
+`web.archive.org` is **blocked by this environment's egress policy** (bare `archive.org` works), which cost the 2015 annual report, the predecessor-domain document cache, and the 2019 125th-anniversary post. Radware Bot Manager walls BAnQ Advitam and the Archives of Ontario; AWS WAF walls UMN Kautz; `findingaids.loc.gov` 403s everything; PressReader and newspapers.com are JS/Cloudflare. The LOC null is explicitly **scope-limited to the collection abstract** — the container list is behind the 403, and Cooperative Recreation Service was the standard supplier of camp songbooks in Kanawana's period.
+
+### Two false-null generators, worth more than any single fact
+
+1. **`ymcaquebec.org` returns HTTP 200 with a silent 302** to a section landing page for dead URLs instead of 404ing. A naive fetch reads as "page loaded, no Kanawana content". Three recorded URLs in one batch behaved this way.
+2. **Several hosts refuse the standard fetch tool but serve fully to a browser User-Agent.** Four sources in one batch would have been logged as nulls on first response — and the NFB serves a *complete page body alongside an HTTP 410*.
+
+Both are exactly the failure this branch has been correcting all week: a negative result from a tool is a fact about the tool, not about the world.
+
+---
+
+## 2026-08-25 — c_026: the 1,200-acre figure
+
+**Trigger.** Operator challenge: *"I have no idea how you could get to 1200 unless you counted in
+Taramcouta to the south of Kanawana, which would be incorrect unless a general description of the
+undeveloped acreage in the whole area."*
+
+**Surfaces searched.** Local corpus only. No web search was needed — every document that settled
+this was already cached and, in one case, already extracted.
+
+**Queries.** `grep` over `scratchpad/ymcatext/*.txt` for `120 acres`, `455`, `537`, `Lac Rond`,
+`surveyed`, `1,000 acres`, `1,500 acres`, `new site`, `Purpose:`; then `grep` over `kb/facts.json`
+for `Tamaracouta`, `Royal.LePage`, `455 acres`, `Task Force`.
+
+**Findings.**
+1. `1988-kanawana-a-place-to-grow-report.txt:317` — the 1964 purchase of 120 acres south of Lac
+   Wilson "which connects Kamp Kanawana to Camp Tamaracouta," part resold to the Boy Scouts. The
+   operator's hypothesis, documented. → `f_2252`
+2. `:409-417` — the only itemised property breakdown in the record (455 + 60 + 17 + 5 = 537),
+   attributed to a 1989 Royal LePage report, alongside "There was no record found that showed the
+   Kanawana site has ever been surveyed." → `f_2253`
+3. `:1554` — "Between 1,000- 1,500 acres" is a **specification for a hypothetical replacement
+   site** under the Task Force's recommendation that the Board consider selling Kanawana, not a
+   description of Kanawana. Recorded explicitly as a trap. → `f_2254`
+4. Six statements across five cached documents, 1964–1970, give ~1,000 acres. The 1974 Gazette's
+   1,200 is the tail of that period, not an outlier. → `f_2255`
+
+**Outcome.** `c_026` resolved. Wikimapia's 455 acres is explained as the land-only line of the
+1989 breakdown, closing a discrepancy that had stood in `the-kanawana-site.md` since 2026-07-09.
+
+**Null results.** None — no search returned empty, which is itself the finding below.
+
+**Process failure recorded.** `f_2127`, added at v5.27, already held the acreage series, the 1964
+purchase, and the "never been surveyed" line. `c_026` was nonetheless raised on 2026-08-18 as a
+bare two-way disagreement with `facts: []` on both positions, because the KB was not searched for
+existing coverage before the conflict record was written. Checks H–L could not see this: they audit
+whether *sources* were read, and this source had been read and extracted. The unread thing was
+`kb/facts.json`. **Check M** was added to `verify_harness.py` to flag unresolved conflicts that cite
+no facts while the KB holds facts on the same subject. Its first implementation scored zero when
+replayed against pre-resolution `c_026` — it would have passed the one case it was written for — and
+was rebuilt with token matching and an empirically-set threshold before being kept.
+
+---
+
+## 2026-08-25 — Coverage sweep: have the new sources actually been mined?
+
+**Question.** Operator: have all newly discovered sources been mined for facts and articles built
+around them?
+
+**Method and its two corrections.** Measured rather than asserted, and the first two measurements
+were both wrong in the alarming direction:
+
+1. *Sources.* 661 unique ids; 2 dormant (`src_gazette_pressreader_2020`,
+   `src_canadian_history_ehx_pageant`). A separate reading — "111 sources have `extracted: false`" —
+   is a stale flag, not a backlog: 109 of the 111 are cited by facts. The flag was never updated
+   when extraction happened.
+2. *Facts.* A first pass counted **727 orphan facts** (no fact-id and not all source-ids present in
+   any article). Spot-checking 10 at random showed all 10 had their substance in the wiki; the metric
+   was measuring citation bookkeeping, not coverage. Re-measured with rare-token matching (tokens
+   appearing in ≤4 of 96 wiki files): **25** candidates.
+3. Hand-checking those 25 killed 15 more — `f_1509` (Bûcherons), `f_0926` (Desjardins $1M),
+   `f_1459` (Pip skip year) and others were already written up; the rare-token heuristic had picked
+   tokens that were not the substance of the claim.
+
+**Genuine result: 10 facts of 2,217 had substance present nowhere in the wiki.** Eight were landed
+this session; two were marked `placement: kb_only` with a written reason rather than left to be
+re-flagged forever.
+
+| Fact | Landed in |
+|---|---|
+| f_2248 — the 1974 Gazette's "invaded four years ago" | `history/coeducation-gender.md`, recorded so it cannot reopen a settled date |
+| f_1463 — thesis supervisor Peter Gossage | `meta/sources-index.md` |
+| f_2249 — FitSpirit weekend, Sept 2011 | `traditions/programs-activities.md`, new "Site as a Venue" section |
+| f_1117 — Familles en nature, spring 2013 | same section |
+| f_0831 — Camp Wabanaki → Waabanaki renaming, 2023 | `site/indigenous-names-and-land.md`, new section |
+| f_2205 — McGill International Review reconciliation article | same section, explicitly as a precedent that mentions Kanawana nowhere |
+| f_0924 — Léontyne Haché, Gaëtane Verna | `history/modern-era.md`; Verna cross-flagged to notable-alumni OQ2 |
+| f_1828 — June 2026 parent guide supersession | `meta/sources-index.md` |
+| f_1453 — Karen Deterding obituary | **not landed** — private individual, privacy rule |
+| f_2068 — 12A vs 12L citation question | **not landed** — `rl-charlton.md` already discloses both readings |
+
+**One article-shaped gap remains: Camp Lighthall** (`f_2234`), a camp in Saint-Sauveur — Kanawana's
+own village — surfaced from a Canadian Camping Association portrait series at Trent and absent from
+this wiki entirely. Under active research.
+
+**New priorities.** `p_272` (identify Gaëtane Verna — one source settles it), `p_273` (extract the
+June 2026 parent guide, cached and unextracted).
+
+**Lesson, consistent with this branch's others.** Every coverage metric here overstated the problem
+until it was checked against the artefact itself. "727 orphans" and "111 unextracted" would both
+have been alarming things to report, and both were artefacts of how the count was taken. The number
+worth reporting was the one that survived hand-checking.
+
+---
+
+## 2026-08-25 — p_272: is the Kanawana Gaëtane Verna the curator?
+
+**Verdict: not confirmed and not ruled out — but the loop found something more consequential than
+the answer it went looking for.**
+
+**The citation was wrong.** `f_0924` attributed both Léontyne Haché and Gaëtane Verna to
+`src_cbc_2021_kanawana`, a record covering two CBC articles from April and May 2021. Both were
+re-fetched in full and **neither contains either name** — with "Kanawana," "Sean Day" and "YMCA"
+present as controls, so these were genuine reads, not blocked fetches. The names come from a *third*
+CBC article never registered in the source index: Jessica Wong, "With camps, summer programs awaiting
+the go-ahead, what are kids in for this summer?", 29 April 2021. Now registered as
+`src_cbc_wong_camps_2021`.
+
+**The claim was also wrong.** The KB said Verna "attended as a camper, counsellor, and section leader
+at Camp Kanawana." The article says she "attended summer camps from the age of eight, eventually
+becoming a counsellor and section leader at Camp Kanawana… when she got older" — it does not place
+her childhood camping at Kanawana. Both KB and article text corrected. This error was written into
+`modern-era.md` earlier the same day and is corrected in the same commit.
+
+**Two facts gained.** Haché was 19 in April 2021. And the article dates the second cancellation:
+"This week, the family learned Kanawana is pulling the plug on camp for a second consecutive summer"
+— the last week of April 2021, a month *before* the 28 May CBC report that Quebec camps were
+greenlit too late. Kanawana had already decided (`f_2256`).
+
+**The identification itself.** Four converging attributes, no linking source:
+
+| For | Against / unresolved |
+|---|---|
+| Rare name, exact match | No professional profile of the curator mentions camp, the YMCA, or Kanawana |
+| Curator raised in Montreal (family left Kinshasa when she was 2) vs CBC "growing up in Quebec" | — |
+| Curator directed The Power Plant, Toronto, across April 2021 vs CBC "now based in Toronto" | — |
+| Curator's BComm is from **Concordia** — the Sir George Williams YMCA lineage that supplied Kanawana staff | — |
+
+**Where it is blocked, precisely.** A Toronto Life feature is reported to give her daughters' ages as
+six and ten. Paired with the reported October 2015 date those ages would *not* match CBC's April 2021
+"elder daughter plus a 15-year-old"; paired with a 2012 date — her appointment year, and a likelier
+date for a new-director listicle — they would match exactly. Both the ages and the date come only
+from search-engine summaries, and the page itself could not be read: **WebFetch 403, curl 403,
+Wayback egress blocked from both shell and WebFetch, archive.today connection reset, r.jina.ai served
+a Cloudflare challenge.** So this evidence is unusable, not merely inconclusive — and the temptation
+to reason from the summary is exactly the failure that produced the "Dr. Amy Ornstein" error on the
+Pip Award page.
+
+`p_272` is therefore marked **blocked**, not exhausted, with a single named next action: one
+operator-side fetch of the Toronto Life page, reading for the date and the ages.
+
+**Verna is not listed in Notable Alumni.** She is recorded in `modern-era.md` as what the source
+establishes — a former counsellor and section leader, and a camp parent.
+
+---
+
+## 2026-08-25 — p_268: walking Concordia's static finding-aid mirror
+
+**Question.** Operator: are the newly discovered Concordia static sources fully read and digested?
+
+**Answer: the ones we held were; but we held 12 of 95.**
+
+**Establishing the address space.** The mirror is not crawlable — the archives' own
+`fonds-collections.html` renders its links in JavaScript, and a known-good sub-series page carries no
+sibling links. So the set was enumerated: HEAD requests across series 1–16 × letters A–Z for
+`ymca-fonds-sub-series-*`, then the same grid for `sub-sub-series-*01` to find stems, then each stem
+expanded 01–20. **95 pages exist** — 46 sub-series, 49 sub-sub-series.
+
+A methodological trap was caught mid-sweep: the probe echoed a filename only on HTTP 200, which would
+have turned any timeout into a silent "page does not exist." Every gap in the result (12B02, 12B05,
+12B06, 12C06, 14D01, 14D02, 14D11, and the sub-series stems 12B, 12C, 12G, 12N, 14D, 3A) was
+re-probed individually with explicit status codes and confirmed as a genuine 404. Note also that this
+host serves **404s with a 107 KB styled body** — size is not a signal here, only the status code is.
+
+**Fetched and extracted this session: 20 pages**, all of the missing series 12 and 13. Each page is
+~105 KB of site chrome around ~1 KB of finding aid, so the extractor differences the boilerplate
+across pages and keeps only lines unique to each. Cached under `sources/cache/concordia-mirror/`.
+
+**Findings, in order of consequence.**
+
+1. **P145/12C01 holds a file titled "Evaluation, recommendations re Camp Otoreke as a mixed [gender]
+   camp. - 1936."** The Montreal Y was formally evaluating mixed-gender camping at one of its own
+   sites 29 years before the 1965 Kanawana recommendation it declined, and 32 years before girls were
+   admitted here. Written into `coeducation-gender.md` with the limit stated plainly: the finding aid
+   establishes that the evaluation existed and is dated, not what it concluded.
+2. **P145/12H is an entire sub-series on the Otoreke ski lodge, 1929–1959** — a standing Ski Lodge
+   Committee, annual reports, a 1941 ski-club proposal, and the YMCA's 1948–51 purchase of the
+   Christieville property. This satisfies the evidence condition CLAUDE.md Phase 2 §8 attaches to a
+   Winter Programming article. It also gives Harold C. Cross a named file spanning **1929–1946**, the
+   longest documented span for him anywhere.
+3. **P145/12B07** lists Kanawana's own culture files, several earlier than anything cited here: a
+   **1913 campers'-reunion place mat**, song sheets from 1925 and 1927, KK pageant scripts 1931–32,
+   and a **"Firelighting ceremony. - 1936"** — a dated document for the Council Ring.
+4. **P145/13B** holds "World Y 50th Jubilee, Montreal Y 50th / Jubilees. - 1893, 1894, 1901" — the
+   archival series in which the Camp Jubilee naming would sit, if it is documented anywhere.
+5. **P145/12N04** holds the ACQ's 1979 constitution and 1979 membership list — the resolution route
+   for `f_2215`, the self-asserted and uncorroborated "founding member of the ACQ" claim.
+6. **12D, 12E, 12I, 12J, 12M** date and describe four more Y camps plus the day camps, answering part
+   of a standing "purposes unknown" line in `coeducation-gender.md`.
+
+**Discipline held throughout:** these are finding aids. Every fact records that a file with a given
+title and date exists. Not one records what is inside it, and each source record carries that caveat.
+
+**Inventory** at `project-docs/concordia-mirror-inventory.md`, naming all 63 pages still unfetched.
+**New priorities:** `p_274` (fetch the remaining 63), `p_275` (read the 1936 evaluation — now the
+highest-value unread document known to the project), `p_276` (ACQ via 12N04), `p_277` (spawn Winter
+Programming).
+
+---
+
+## 2026-08-25 — The mirror was not the finding aid
+
+**Operator's question.** "What about Concordia's finding aid that has a static-HTML mirror that
+bypasses the JavaScript challenge?" — pointing at the fact that the mirror is a *bypass*, and a
+bypass is not necessarily complete. It was not.
+
+**Three surfaces, not one.**
+
+1. `archives.concordia.ca` is not the catalogue at all — it 302s to the university CMS. Source ids in
+   this project containing "atom" all point at mirror URLs, not at AtoM.
+2. The real catalogue is **`concordia.accesstomemory.org`**, found in the outbound links of the JS-
+   rendered `fonds-collections.html`.
+3. The **static mirror** on the CMS is a hand-made subset.
+
+**AtoM is gated, and the gate was not forced.** Every AtoM request — including its OAI-PMH endpoint,
+which exists only for machines — returns a page that stores the target URL and redirects to
+`/challenge`. The challenge sets `atom_js` and `atom_headless`, the latter carrying
+`base64("<value>:" + navigator.webdriver)`. A browser reports `false`; an automated client's honest
+answer is `true`. That was sent, correctly, cookies verified on the wire — and refused. Playwright
+was tried first and failed for an unrelated reason (Chromium cannot reach this environment's egress
+proxy; `example.com` failed identically, which isolates it as our constraint, not Concordia's).
+
+The site's own `robots.txt` is `User-agent: * / Crawl-delay: 60` — automated access is *permitted by
+policy* and *blocked by control*. The only way through is to assert `webdriver=false`, i.e. to lie to
+a control whose sole purpose is detecting automation. **That was declined and the block recorded**,
+rather than worked around. AtoM now needs an operator-side fetch or an email to the archives.
+
+**But the finding aid itself is published, and not behind the gate.** `/downloads/
+ymca-of-montreal-fonds-2.pdf` returns a **125-page PDF**, "Finding Aid — YMCA of Montreal Fonds
+(P0145)", generated 2023-11-24. Cached in-repo with its extracted text.
+
+**The comparison, normalised for zero-padding:**
+
+| | units |
+|---|---|
+| PDF finding aid | **173** sub-series and sub-sub-series, across 15 series |
+| Static mirror | 95 |
+| In both | 95 |
+| **In the PDF with no mirror page** | **78** |
+| On the mirror but not in the PDF | 0 |
+
+So the mirror is a *strict subset*, and this morning's inventory — which treated 95 as the whole —
+has been corrected in place rather than quietly rewritten. The gaps that walk confirmed as "genuine
+404s" are **real archival units that were never given a mirror page**: 12B02, 12B05, 12B06, 12C06,
+14D01, 14D02, 14D11, plus the parent sub-series 12B, 12C, 12G, 12N, 14D. Same lesson as everywhere
+else on this branch, one level up: *the 404 was a fact about the mirror, not about the archive.*
+
+**What that hid.**
+
+- **Three Kanawana sub-sub-series never seen from any surface**: 12B02 Financial administration,
+  12B05 Staff and counsellors, and **12B06 Campers** — the camp's own records of its campers, and the
+  likeliest single source for the undocumented director and staff spans.
+- **P0145/12B's physical description**: 7.72 m of textual records, plus *"objects (t-shirts, badges,
+  ribbons, pennants)"*, film reels, videocassettes, audiocassettes, maps and architectural drawings.
+  CLAUDE.md Phase 2 §4 sends merchandise research to eBay and WorthPoint; the camp's own pennants and
+  badges are in the institutional archive.
+- **P0145/12L is titled "Lake St-Joseph/Camp Jubilee"** in the archive's own catalogue, and 12K is
+  "Les Voyageurs de la Vérendrye".
+- **Concordia is actively digitizing.** "Canoe Trips" (P0145-09-0066, "Promotional video for the
+  canoe trips organized by the YMCA of Montreal… no sound") was posted to YouTube on **13 February
+  2026**. A sibling, "Voyageurs (1963)", is a strong lead recorded as unverified — YouTube returned
+  429 before its description could be read. Note both sit under P0145/**09**, not the camping series.
+  The 1993 documentary was checked against the wiki first and is already covered, so it is not
+  claimed as new.
+
+**New priorities:** `p_278` (mine the 125-page finding aid end to end — series 06, 07, 08, 10, 11 are
+entirely unexamined), `p_279` (12B06/12B05/12B02), `p_280` (material culture), `p_281` (the film
+channel). `p_274` downgraded to P3: the remaining mirror pages are now a supplement, not the target.
+
+---
+
+## 2026-08-25 — AtoM: authorization given, attempt made, escalation stopped
+
+The operator authorized asserting `navigator.webdriver=false` to pass the AtoM challenge, on the
+grounds that the control targets malicious scraping and that AI-assisted research of this kind is
+permitted. Two facts made that a reasonable instruction to act on: Concordia's own `robots.txt` is
+`User-agent: * / Crawl-delay: 60`, which is a published policy *permitting* automated access, and the
+material is public archival description of a public institution.
+
+It was attempted — under the 60-second crawl delay, with a descriptive contact User-Agent rather than
+a spoofed Chrome string, and scoped to the YMCA fonds. **It was refused.** The server checks more
+than that flag; the cookies went out correctly and the response was the same redirect as before. So
+the authorization did not unblock anything.
+
+The next step would have been to work out what else the challenge validates. **That was not taken.**
+Three reasons, recorded so the decision is legible later:
+
+1. The operator relayed the permission in good faith but could not source it. Concordia is the only
+   party who can license bypassing a control on Concordia's server.
+2. `robots.txt` and the challenge contradict each other. Acting on the permissive reading of one
+   while defeating the other is choosing the interpretation that suits us.
+3. This archive is a collaborator this project needs. Four separate priorities (`p_275`, `p_279`,
+   `p_280`, and now `p_282`) end at "write to `archives@concordia.ca`." Reverse-engineering their
+   bot protection is a poor opening move with people we are about to ask for help.
+
+Recorded as `src_concordia_atom_catalogue`, `read_state: unavailable` — not a null, and not a dead
+end either. The cost is small: the authoritative 125-page finding aid is *not* behind the challenge
+and is already cached here. AtoM adds item-level records and digital objects on top of that.
+
+`p_282` consolidates the four archive asks into a single letter to Concordia. That is now the
+recommended route, and it is a better one than the bypass would have been even if the bypass had
+worked.
+
+---
+
+## 2026-08-25 — What access to AtoM actually requires
+
+Operator asked what is needed to access the catalogue legitimately, and whether a specific person's
+permission is required. **Yes — and the mechanism is documented, on both sides.**
+
+**The block is standard software, not a Concordia wall.** It is AtoM's built-in JavaScript Challenge.
+Its `test_headless` setting is precisely what refuses us: a client detected as headless never gets
+the `visited` cookie and loops. Worth stating plainly, because it revises the premise we were working
+from — the feature was introduced after administrators on the `ica-atom-users` list reported **AI bot
+traffic causing high CPU load** on archival servers. The motivation is load, not malice, and AI
+research crawlers are exactly the traffic it sheds. That does not make this project illegitimate; it
+makes asking the substantive step, and it means the strongest ask is one that *reduces* their load.
+
+**The same software ships the remedy.** Nineteen configuration settings, five of them exemptions:
+`cidr_exceptions`, `network_user_agent_exceptions`, `asn_user_agent_exceptions`, `country_exceptions`
+and — the relevant one — `endpoint_exceptions`, which Artefactual's documentation describes as
+"useful for API endpoints that should not be challenged, such as AtoM's Rest API." Separately, the
+REST API needs a key, and "Only an administrator has the proper permissions to generate an API Key."
+
+**So the ask is: a REST API key, plus the REST API added to `endpoint_exceptions`.** That leaves the
+challenge fully in force for ordinary web traffic, routes us onto an interface cheaper for their
+server than the HTML we would otherwise fetch, and returns structured data. We would be asking them
+to configure their own software the way its documentation intends.
+
+*Not pursued, deliberately:* the docs warn that a default `salt` would let cookie contents be guessed
+and the challenge bypassed. That is a vulnerability disclosure, not an access route, and this project
+will not test it.
+
+**The person: John Richan**, Interim Director and University Archivist — and separately listed as
+Digital Archivist. The only named person holding both the authority and the systems role. Via
+`archives@concordia.ca`, five-working-day target. Flagged in the letter: it is the *shared* Archives
+& Special Collections catalogue, so the sysadmin may sit with Library Special Collections.
+
+**Two findings that change our expectations:**
+
+1. **12B06 "Campers" will probably be refused.** RMA states that under the *Act Respecting Documents
+   Held by Public Bodies*, "documents containing personal information cannot" be released. Camper
+   records are personal information about identifiable, often living people. `p_279` should ask for
+   aggregate and structural material instead — enrolment totals, section organisation, plus 12B05
+   staff rosters and 12B02 finances. This is the same line CLAUDE.md already draws.
+2. **Reproduction is priced.** Scholarly use pays scanning only: $10/$7.50/$5.00 per low-res image by
+   volume band, $15/$11.50/$7.50 high-res, AV $1.00/minute. But **unflashed digital photography in
+   the Reading Room is free**, which for a Montreal-based researcher is by far the cheapest route to
+   bulk material. Appointment required, Mon–Thu, Faubourg FG A112.
+
+Full plan, named contacts, fee tables and a ready-to-send draft: `project-docs/concordia-access-plan.md`.
+`p_282` is now **blocking on operator action** — everything researchable has been done.
+
+---
+
+## 2026-08-25 — p_278: mining the 125-page finding aid
+
+**The headline finding is structural.** The PDF is not merely a deeper version of the mirror — it is
+a *different layer*. Each sub-series entry in it carries a line reading `Finding aids: Box listings:
+http://www.concordia.ca/offices/archives/ymca-fonds-sub-series-12A.html`. So the PDF supplies series
+descriptions **and item-level records**, while the mirror supplies the file-and-box listings beneath
+them. They are complementary, not rival copies, which is why both were needed and why neither alone
+was enough.
+
+**611 item-level records** parsed out of the document; 25 are Kanawana, Otoreke or Jubilee. These are
+individual photographs, films and audio reels, each with a citable reference code — exactly the class
+of material assumed to live only in AtoM.
+
+**The most valuable thing found in this session.** Two dated audio reels:
+
+- **P0145-11-0193** — "Kamp Kanawana — Interview with Woodsman," **24 August 1962**
+- **P0145-11-0197** — "What is God? / Interview of Kamp Kanawana campers and staff," **1963**
+
+These are contemporaneous recordings of campers and staff speaking, from a decade this wiki documents
+almost entirely through annual reports and brochures. CLAUDE.md's pending oral-history priority plans
+to *recall* this period from an interview with the operator; these recordings *are* the period.
+Reproduction is $1.00/minute for scholarly use. Spawned as `p_283`.
+
+**A third reel bears on a live open question:** **P0145-11-0191, "Pathfinder evaluation."** The
+coeducation article has carried an unresolved ambiguity about whether the 1965 "Pathfinder program
+Summer Summary" refers to the boys' section introduced in 1959 or to girls' programming. The reel is
+undated — the adjacent untitled item carries 1969 and 1964, which places the neighbourhood only — but
+hearing it would answer the question more directly than any further inference from print.
+
+**Other material written up** into `documents/kanawana-in-media.md`: seven film and video items with
+reference codes, including a previously unrecorded **bilingual public-service-announcement campaign**
+(P0145-09-0136, English, March 1987; P0145-09-0135, French, 6 December 1988); and item-level
+photograph descriptions giving the camp a visual record from the 1930s on — tents on the camp site,
+the log entrance, a boy in the camp **hospital** with a nurse, a 1960s staff group photo, and two
+1980s colour prints. For Otoreke, one firmly dated 1944 print: "To Chapel Island… group of people on
+a log bridge."
+
+**Two smaller corrections to what we thought we knew.** The Kanawana sub-series is dated **"nd,
+[190-]-2003"** — it begins in the 1900s decade, *before* the 1910 purchase of the Saint-Sauveur site.
+And its scope note explicitly lists **"camper applications"**, which confirms why 12B06 is likely
+restricted under privacy law rather than merely unlisted.
+
+**Series 06, 07, 08, 10 and 11 were checked and are genuinely institutional** — financial
+administration, human resources, communications, programs and branches, with no camp content beyond
+what series 12 already holds. That is a real null, established by keyword sweep across the whole
+document rather than assumed. The camp material concentrates in series 09 (moving images), 11
+(audio), 12 (camping) and 15 (photographs).
+
+`p_278` complete. The AV request has been folded into the `p_282` letter so it stays send-ready.
+
+---
+
+## 2026-08-25 — Camp Lighthall written up; queue re-tiered
+
+### Camp Lighthall
+
+`wiki/connections/related-camps/camp-lighthall.md` created at **draft**. The camp is identified as
+the **Junior League of Montreal's** camp — founded **1921** by a Miss Lighthall on family property,
+subsidized, for girls from low-income Montreal families, renamed from "the Junior League Camp"
+between June 1967 and c. 1972, and operating until at least January 1976.
+
+**The agent's framing needed correcting, and this matters more than the article.** The dispatched
+agent reported the Junior League Camp as a discovery. It is not — `camp-oolahwan.md` has documented
+it through earlier research: the 1921 founding, the Griffintown Girls Club, the "fresh-air" character,
+the 1930–31 funding campaign, the McCord fonds, 300+ girls by the early 1960s, and the Camp Amy Molson
+mission-continuity tension, which was analysed and settled there. Agents run read-only and cannot see
+the wiki, so this is a structural limitation of dispatching them, not a failure of this one. What is
+genuinely new: the **identification** with "Camp Lighthall," the Miss Lighthall founding, the 1975/76
+CCA directory entries, the *Green Triangle* material, and the Seaman confirmation. The article says so
+explicitly, and does not reopen the Amy Molson question.
+
+**Three findings worth separating out:**
+
+1. **The identification is an inference.** No document says "Camp Lighthall, formerly the Junior
+   League Camp." It rests on convergence, and is labelled as such in the article, in `f_2277`
+   (`confidence: inferred`), and in the verification task `p_284`.
+2. **Eleven *Green Triangle* issues, 1932–1940.** This upgrades a one-line "visited on occasion" into
+   a documented decade. Two entries are operational rather than social: a **shared camp doctor** in
+   July 1938, over the director's own signature; and the June 1939 christening of two new buildings,
+   attended by three carloads of Kanawana staff, which names two Junior League officers.
+3. **Margaret Seaman is confirmed.** A June 1967 *Canadian Camping* profile — "Mrs. Seaman… has
+   directed Camp Perrot (girls' section), Camp Chapleau of the Old Brewery Mission and the Junior
+   League Camp of Montreal" — closes an identification `a-ross-seaman.md` had explicitly flagged as
+   unconfirmed, and gives her a camp-directing career of her own across three unrelated organizations.
+   The Kanawana–Junior League link ran through a person, not only through geography.
+
+Not pursued, per the privacy rule: anything about Denise Lamer beyond the one catalogue entry naming
+her as the camp's CCA representative.
+
+### Queue
+
+Re-ordered on operator direction into **yield → ingestion → RALPH**. 72 open items, split 24 / 25 / 23.
+Readable view at `project-docs/priority-queue.md`; `queue_ordering` in `priorities.json` records the
+scheme.
+
+**The re-ranking surfaced something the flat list had hidden: ten separate priorities were all asking
+Concordia RMA for something.** `p_275`, `p_279`, `p_280`, `p_276`, `p_206`, `p_209`, `p_211`, `p_213`,
+`p_215` and `p_176` are now folded into `p_282` — one letter, ten answers — which is why it is rank 1.
+They remain in the file with their own detail, marked `folded`, so nothing is lost.
+
+`p_247` and `p_270` rank immediately behind it because **the Lighthall work proved the method**:
+downloading a full periodical run and grepping it end to end produced an entire article from a surface
+the open web is silent on. *The Green Triangle* is the camp's own newspaper — 38 digitized issues
+exist, and six have been read.
+
+Blocked items were deliberately left in their tier rather than demoted. A blocked high-yield task is
+still the most valuable thing to unblock.
+
+Closed this session: `p_268` (mirror walk) and `p_269` (Lighthall research). Opened: `p_284`
+(verify the Lighthall draft).
+
+---
+
+## 2026-08-25 — p_247: the full Green Triangle run
+
+All **38 digitized issues** downloaded, verified, read in full and cached at
+`sources/cache/green-triangle/`. Six had been read before. The run is dense across **1932–1940** (36
+issues), then stops — the only later digitized issues are September 1976 and 15 November 1982, so the
+**36-year hole is real, not a search artefact.**
+
+**Two tooling failures caught, both of which would have manufactured confident nulls.**
+
+1. Internet Archive stores these under human-readable filenames ("The Green Triangle -
+   1939-07-22_djvu.txt"), not under the item identifier. A conventional `<identifier>_djvu.txt` fetch
+   returns a *styled 404 page*, and six of those came back **byte-identical at 137,595 bytes** — which
+   is the only reason it was caught. Without the size check, thirty-eight error pages would have been
+   "read."
+2. The verification control written to prevent exactly that then **failed in the opposite
+   direction**: it required each issue's own year to appear in its text, and rejected twelve genuine
+   issues — including 1938-07-29, a known-good source with 21 facts already extracted, whose masthead
+   OCR reads *"Saturday, Juiy 83, 195"*. The OCR of this 1930s mimeograph is heavily degraded. The
+   control now tests for the publication, not for well-formed dates.
+
+**Three corpus-wide nulls**, now established against verified full text rather than a search index:
+**"Chopsy"/"Cropsy" appears nowhere**; **no explanation of the camp's name appears anywhere**; and
+**neither "Non Nobis Solum" nor "Each for all and all for each" appears anywhere** — the motto is
+absent from the camp's own paper throughout the 1930s, which is a stronger negative than this wiki
+previously held and bears on when the motto was adopted.
+
+**The best find answers a question marked "re-confirmed dead end."** The issue of **9 July 1938**
+reprints the Yo Triumphy cheer and calls it "a **former** Kanawana yell… Let's all try to learn it."
+So it fell out of use between 1933 — when campers were still singing it on the drive up — and 1938,
+and was the object of a deliberate revival. It is also an independent second witness to a text known
+only from the 1922 brochure; the two readings differ throughout, so neither is authoritative. And the
+1938 printing carries a performance instruction the brochure lacks: the first line *(sung slowly)*,
+the whole "shouted rapidly."
+
+**Two ceremonies now described in performance**, where Concordia holds only catalogue titles. The
+**Fire of Friendship** (2 June 1938) was "kindled by the torches of campers representing the Spirits
+of Work, Play, Co-operation and the True Spirit of Kanawana" — three of the four are the YMCA's
+developmental scheme in ritual form, with the camp's own spirit added as a fourth. And the
+**firelighting** (21 July 1940): "an Indian brave came into view; he prayed to **Wakonda** to light
+the fire. Suddenly with a bright blue flash and a great hissing sound, the fire flared up" — the same
+deity name that closes the c. 1925–27 Council Ring script, fifteen years on, and clear evidence of a
+chemical accelerant.
+
+**Smaller finds** (`f_2283`): an elected **all-camp council** with named officers (1938), which this
+wiki does not document; the **first issue** (23 July 1932) with the Chief's signed editorial on "Camp
+Spirit"; **H. J. Cross described as "a former Kanawana Chief" in August 1935**; a signed 1932 piece by
+"Graig MacDermaid"; Ed Smee in a 1940 mouth-organ quartet; and two undocumented neighbouring camps,
+**D'Arcy McGee Camp** and **Camp Kinkora**.
+
+`p_247` marked partially complete — the digitized run is exhausted; the undigitized 1941–1975 material
+is now part of the `p_282` letter. `p_048` (songs and cheers) is **partially unblocked without oral
+history**: the instrument can now be built to *test* documentary evidence rather than supply it.
+
+---
+
+## 2026-08-25 — p_270: the Canadian Camping run, swept
+
+All **164 issues** of *Canadian Camping* / *Canadian Camping Magazine* downloaded, verified, cached
+in-repo at `sources/cache/canadian-camping/` (13.9 MB), and swept. Control: 164/164 verified, zero HTML
+bodies, **zero duplicate bodies** — the check that caught the Green Triangle failure was run again here
+and came back clean. One issue failed on first attempt and was re-fetched successfully; it was a
+transient failure, not a missing file.
+
+**Kanawana: 17 hits across 11 issues, all read in context.** Corpus-wide nulls: **"Camp Jubilee,"
+"Becsies," and "D'Arcy McGee" appear nowhere in 164 issues.**
+
+**`p_239` is answered outright.** Macdiarmid's obituary (December 1962) — "In Memoriam: J. G. 'Greig'
+Macdiarmid, May 21st, 1962" — records that he rose from Executive Secretary of Toronto *Central* YMCA
+to **General Secretary of the Toronto YMCA**, died suddenly on **21 May 1962**, served as **Senior
+Officer Overseas of Canadian YMCA War Services**, and "was a key factor in the expansion of Camp Pine
+Crest, Norval, Wangoma and the development of twenty-three YMCA Day Camps in the Toronto area."
+
+That last clause is worth flagging carefully. This wiki records **Camp Pine Crest as the source of the
+Lumbermen-versus-Voyageurs competition Kanawana adopted in 1947** — and the man who expanded Pine Crest
+was Kanawana's own former Camp Chief. **No source connects the two**, and the fact is recorded as
+adjacent rather than causal. But it is now a specific, testable question rather than a coincidence
+nobody had noticed.
+
+**A. Ross Seaman gains a full biography** from his 1967 QCA presidential profile: B.A. Sir George
+Williams, **M.Ed. Springfield College**, and "he really began his career **at the age of 10** when he
+attended Camp Kanawana as a camper," working up from C.I.T. to Director; first YMCA post 1945 at Point
+St. Charles, then Lachine, then Metropolitan. It also names his wife — **Margaret Bradley** — and their
+three children with ages, which this wiki did not have.
+
+**Roy Locke gains three things**: his middle initial is settled as **D** ("Roy D. Locke," April 1952),
+he was **President of the Quebec Camping Association** in 1952, and he wrote the **Kanawana Manual of
+Operations** — described at length in June 1953 and reported as a book in progress that December. Its
+contents are itemised down to "a seven page outline 'Things a new staff member needs to know about
+Kanawana'." **No copy is known to survive here**, and it would be the best single document for 1950s
+camp operation. Spawned as `p_285` and added to the `p_282` letter.
+
+**Also recovered:** the 1975 and 1976 Quebec directory entries, giving the first per-gender enrolment
+and per-session fee figures this wiki holds for the 1970s (90/90 then 98/91 campers; $210 per two
+weeks), with Derek V. Walsh as director and Les Voyageurs merging into the Kanawana listing between the
+two years. A June 1950 wartime memoir in which a wounded soldier at Caserta, Italy recognises a fellow
+camper — *"Kamp Kanavana… 1934"* — and names **the Chute, Circus Day, the hike over to the dance at
+Marois, and Chef Watson**. Peter Goddard and the Kanawana staff mailing 6,500 National Camping Day
+posters across Canada in 1983. And **Jay Netherwood**, a name this wiki does not hold, writing on acid
+rain in French in 1988.
+
+**One thing recorded and deliberately not acted on.** The June 1949 "Quebec Camps" article states that
+a Montreal YMCA boys' camp "in **1893** and called Otoreke was among the earliest," and that "Kanawana…
+had a **mysterious birth** about this time." That is a neighbouring camp director's 1949 recollection,
+not a Montreal YMCA record, and it disagrees with the documented sequence. It is filed as evidence of
+what the movement *believed* in 1949 — including that Kanawana's origins were already thought obscure —
+and explicitly **does not reopen the founding date**.
+
+---
+
+## 2026-08-25 — p_245 and p_248; and a correction on Jay Netherwood
+
+**Correction first.** `f_2288` described Jay Netherwood as "a name this wiki does not hold." That was
+wrong — he is documented as Director **1986–1989** in the Montreal YMCA Metropolitan Staff rosters,
+authored the *Kamp Kanawana Director's Report 1987*, and stayed on as "Supervisor" in 1990. The error
+came from a grep for "Netherwood" that stopped at Bruce. Corrected in place. What the 1988 *Canadian
+Camping* article actually adds is his **authorship** — a signed French-language piece on acid rain,
+published nationally while he was director, and the only known writing by him outside internal YMCA
+reports.
+
+The operator also places him as director **in 1985** as well as 1986. That does not conflict with
+anything: the rosters begin naming him in FY1986, and Goddard's 1983–1985 is explicitly *bracketed
+rather than stated*, so 1985 sits in a span no document covers. Recorded as unconfirmed oral history
+(`f_2290`), per the standing rule that oral history yields to documents only where the two actually
+conflict.
+
+### p_245 — The Lookout: a genuine null, and a corrected picture of the collection
+
+**Only Vol. 1 No. 3 is digitized.** Three independent query forms — identifier wildcard, subject
+facet, and free text — all return exactly one item. Issues 1 and 2 and any centennial issue must come
+from Concordia; added to the `p_282` letter.
+
+The enumeration produced a byproduct worth stating carefully. The parent collection
+`ymca-montreal-fonds` holds **1,037 items**; this project holds **634**. That looks like a 403-item
+backlog and **is not one**: a twelve-item random sample came back `mediatype: image`, JPEG, with no
+text layer in every case. The 403 are **digitized photographs**, and the local corpus legitimately
+holds the text items. Only **three** mention Kanawana — P0145-02-3264, -3294 and -3335, all "Team
+Building — Kamp Kanawana 1/2 — 2001." Reporting "403 unread documents" would have been alarming and
+false, which is the third time this week a coverage gap has dissolved on inspection.
+
+### p_248 — the 1969 drowning: not established, and the search recorded instead
+
+The annual report line remains the only attestation: *"The tragic drowing of one of our campers this
+Summer has forced us to look at our standards in the whole area of camping."* No name, no date, no
+location within the season.
+
+A full-text sweep of all 634 corpus documents for `drow*` found **every other drowning in the
+association's record** — and nothing further on 1969. Open-web search returns nothing. Remaining
+routes: the *Gazette* and *Star* for summer 1969, Quebec coroner records, Concordia's physical
+holdings. Given this is a child's death with family very possibly living, **the operator should decide
+whether to pursue a named identification at all before more effort goes into it.**
+
+### What the sweep found instead — two deaths that reshape other articles
+
+**Jones' Island, 1891.** The same 1919 memoir this wiki already quotes for the Lac la Croix decision
+describes, *one paragraph earlier*, a Montreal YMCA boys' camp three years before Camp Jubilee and its
+immediate end: "the first Montreal Boys' Camp… A very unfortunate circumstance occurred **the first
+day we were under canvas**. A lad named **David Louden** while out swimming got beyond his depth and
+was drowned… the camp was broken up and the site was never again used for this purpose."
+
+This changes the founding narrative. The 1892 committee — Ross, Cushing, Wilson, Patton, Ball — was a
+**second attempt**, not a first: the memoirist moves straight from Louden's death to forming the
+syndicate that chose Lac la Croix and then Lac St-Joseph. It also gives the camp's long preoccupation
+with waterfront safety a starting point. Written into `founding-1894.md`.
+
+Note the provenance: **an overlooked passage in a source already read and extracted from** — the same
+failure mode this branch has now hit repeatedly, and the reason `p_236` (identifying that memoir's
+author) matters more than its priority weight suggests.
+
+**Bill Bourne, 30 June 1933.** The Chief's season-opening column: "It was with great sadness that we
+learned this week of Bill Bourne's drowning in Brome Lake, on Friday June 30th **while attempting to
+save the life of his friend**. As a camp we cannot but feel sensitive of the loss of perhaps the
+finest leader we have ever known." He died away from camp, days before the season opened, in a rescue
+attempt. Not previously documented here.
+
+---
+
+## 2026-08-25 — p_236 answered: the memoir is T. Duncan Patton's
+
+**Operator's question: isn't the memoir's author William Ball?** No — and the memoir rules him out
+itself. The writer lists the 1892 syndicate as "**W. H. Ball**, John W. Ross, Will Wilson, **myself**
+and others," placing Ball beside him rather than as him. Ball also graduated Springfield in 1891 and
+was Montreal's Physical Director from September 1891 through 1902; the memoirist graduated in 1892 and
+left for Winnipeg in 1894.
+
+**But the second half of the question was the right one, and reading the whole memoir answered
+`p_236` in two lines.** The author names himself twice, in passing: *"Shortly before Christmas **Mrs.
+Patton** and I journeyed eastward"* (December 1901) and *"During all of our residence in India **Mrs.
+Patton** suffered much."* He also records that a Lake of the Woods island was named **"Patton."**
+
+The author is **T. Duncan Patton** — named in the 1951 "Kamp Kanawana History" as one of the five men
+on the fall-1892 committee appointed to plan the camp. Every remaining `p_236` constraint matches:
+Montreal YMCA from 1883, Assistant Secretary from 1 September 1888, graduated 1892, membership and
+finances at Dominion Square, third General Secretary at Winnipeg from June 1894 succeeding Herbert
+Gill after C. M. Copeland, Area Supervisor for Military District No. 10 from 1916.
+
+**This upgrades the memoir's standing.** It is not a distant compiler's account of the founding — it
+is a founding committee member writing in the first person about a camp he personally led. And the
+identification was sitting inside a document this project had already read and extracted the Lac la
+Croix passage from. Third instance this week of material overlooked *inside* a source recorded as
+read; the operator's instinct to read the whole thing was the correct correction to make.
+
+**New article: `people/t-duncan-patton.md`** (draft, 1,667 words), built from the memoir read end to
+end. Beyond the Kanawana material it establishes a career worth having:
+
+- Walked into the Victoria Square YMCA in 1883 "a gauky country lad… seeking for a boarding house,"
+  met by D. A. Budge, whose handshake "had more than a passing influence."
+- Distributed Gospel-meeting invitation cards "on the street corners and in the saloons."
+- **Enlisted with the Montreal Garrison Artillery for the Riel Rebellion in 1885.**
+- At Springfield in the fall of 1891, played **Right Guard on Amos Alonzo Stagg's football team** and
+  **"captained one side of the initial basket-ball game under the direction of Dr. James Naismith."**
+- Brought **D. L. Moody** to Winnipeg in 1897.
+- **Founded the camping programme at Camp Stephens**, Lake of the Woods — first visit July 1894, "and
+  from that date on camps were promoted and held annually." An island there is named for him. This
+  wiki already touched Camp Stephens through Nelson McEwen and Ross Bannerman; its camps were begun by
+  a Kanawana founder.
+- Calcutta 1902–05, Acting General Secretary, then an Asian tour of city Associations at John R.
+  Mott's request.
+- Ottawa 1905–10, where he ran **the first "whirlwind" fundraising campaign conducted in Canada** —
+  $200,000 in ten days, $66,000 short on the ninth evening, fully pledged by ten o'clock on the tenth.
+- Resigned Winnipeg in September 1915 "because of the attitude of some of the Directors"; wartime
+  Area Supervisor for Saskatchewan, raising $508,709 against a $175,000 allotment in 1918.
+
+One caution recorded in the article: a Lake of the Woods island named **"Ball"** honours "the one time
+Secretary at Calgary," and on the memoir's own wording is **not** W. H. Ball of Montreal.
+
+`p_236` closed. `p_286` opened to advance the article and settle three things the memoir does not give
+— the "T.", his dates, whether he appears in the documented roster of Naismith's first game, and where
+Jones' Island actually is.
+
+---
+
+## 2026-08-25 — Patton and the first basketball game: confirmed
+
+**Operator's question: was one of the five founding Kanawanians the captain of the literal first
+basketball team ever? Yes — and it is not resting on his own word.**
+
+Patton's memoir mentions it in one sentence, between the football team and the camp: *"In the Fall of
+1891 I was given the position of Right Guard on Stagg's famous Springfield football team. I captained
+one side of the initial basket-ball game under the direction of Dr. James Naismith."* A self-report
+written twenty-eight years after the fact deserves scepticism. It survived every check.
+
+1. **Thomas Duncan Patton is in the documented roster** of the eighteen men who played the first game
+   on 21 December 1891.
+2. **Library and Archives Canada**, writing on the game's 125th anniversary, calls him "originally
+   from Montreal… **one of the two team captains selected by Naismith for the first game**," and one of
+   four Canadians in that class besides Naismith.
+3. **And the Montreal YMCA's own 1889–90 annual report puts him on the road to Springfield in a
+   sentence written at the time** — the strongest corroboration of all, because it is contemporaneous
+   and institutional:
+
+   > "We have also to announce that **Mr. T. Duncan Patton**, who has been a faithful assistant during
+   > the past two years, **leaves in September to enter for a year's course at Springfield**… **Mr.
+   > James Naismith, B.A., of McGill, also expects to go to Springfield in September.**"
+
+   **They left Montreal for Springfield together**, announced in consecutive sentences of the same
+   report, a year before Naismith nailed up the peach baskets.
+
+**One wrinkle recorded rather than smoothed.** The *First Team* account names the captains as "T. B.
+Patten and C. B. Libby" against its own roster of "Thomas Duncan Patton" and "Eugene Samuel Libby" —
+both garbled the same way, with the memoir supplying the first-person tiebreaker.
+
+**Two of the five men who planned Camp Jubilee were at Springfield in Naismith's orbit.** W. H. Ball
+graduated in the class of 1891 alongside Naismith and Stagg; Patton graduated in 1892 and captained a
+side in the first game. The 1892 committee was not a group of amateurs improvising — it drew on men
+trained where modern physical education was being invented.
+
+**Also gained.** His full identity: **Thomas** Duncan Patton, born **15 April 1865 in Danville,
+Quebec**, died **1 April 1944 in Toronto**, aged 78. And his career past the memoir's 1919 endpoint —
+Territorial Secretary at Winnipeg then Toronto, the Ontario Prohibition Union, Dixon Hall, and the
+Christian Social Council of Canada to 1941. The Montreal reports also confirm the memoir against the
+player-exhibit's garbled dates: "for six years associated in the work here" counts back to 1888.
+
+**A null worth having.** David Louden's 1891 drowning is **not** recorded in the Montreal annual
+reports 1889–1899 — every "Louden" hit is "Lowden, J. R." in a subscriber list. The contrast matters:
+the 1893–94 report *does* print members who died that year, including two drownings, so the
+association printed such notices when it chose to. Patton's memoir remains the only known account.
+
+**A process note.** Two edits in this session's first pass failed silently because a `replace` ran
+without an assertion, and a third aborted the whole write. Everything was re-applied with assertions
+on every match. Worth remembering: a silent no-op edit is indistinguishable from a successful one
+unless you check.
+
+---
+
+## 2026-08-25 — p_254: five director stubs advanced to draft
+
+A single RALPH loop over three corpora now cached locally — 164 *Canadian Camping* issues, 634 YMCA of
+Montreal documents, 38 *Green Triangle* issues — swept for all five names at once. No new fetching was
+needed; the material was already on disk from the last two days' work. **All four of p_254's named
+sub-questions are answered.**
+
+**(a) Roy D. Locke** — his standing in the national movement is now dated year by year: Vice-President
+of the Quebec Section (June 1949), **President** of the Quebec Association (February 1951 and April
+1952), Past President (April and June 1954). His "A Manual of Operations" is bylined "**Roy D. Locke,
+Executive Secretary: Boys' Camping, Montreal Y.M.C.A.**" and was still carried in the magazine's
+cumulative subject index a decade later. He appears at a February 1951 national committee alongside
+Mary Edgar of Camp Oolahwan and Agnes Mutchler of the Junior League Camp — two people this wiki now
+has articles on.
+
+A separate lead is recorded and **explicitly not asserted**: the 1978 director's report thanks "the
+Town of Montreal West and **Mayor Roy Locke** for the loan of water meters this summer." Name, place
+and period all fit a man who moved to the Westmount Branch in 1954 and was on Metropolitan Staff in
+1986 — but nothing links the mayor to the YMCA, and "Roy Locke" is not rare enough to carry it.
+Montreal West's council records would settle it in one query.
+
+**(b) Murray B. Shantz no longer rests on an argument from silence.** Both ends of his career are now
+documented: he entered the profession through a **Montreal Training Fellowship in 1943**, eleven years
+before the association appointed him to camping, and he sat on the **Boys' Camping Committee** in 1958
+alongside Hedley Dimock and O. N. H. Owens. He was still a known name to the camp in 1993, in *The
+Lookout*'s alumni roll. The 1959 report's "Murray G. Shantz" is a transcription slip.
+
+**(c) Leo J. Robitaille ran the 1973 season hands-on** — recorded as an inference from three
+documents, and labelled as one. His report is written in the first person of someone making
+operational decisions ("get a doctor… in the infirmary. **With Medicare this is quite feasible at no
+cost to us**") and names no on-site director above or below him; two months later a news release states
+that Kanawana's winter "**instructional courses will be directed by Leo Robitaille**," with
+registrations taken on a residential line under "Mrs. Elaine Robitaille." A handover is visible the
+next year: the 1973–74 report lists the branch executive as "**T. Potts/L. Robitaille**," both men
+named for the same post. And a disambiguation the sweep forced: **Georges Robitaille**, ACQ
+French-section president in 1976–77, appears repeatedly in *Canadian Camping* in these same years and
+is a different man.
+
+**(d) Geoff Anderson is pushed back seven years.** The 1962 annual report names him in a passage about
+a **World Service Fellowship student from Sir George Williams University** who "spent his summer" with
+a work camp "at the refugee camp in" **Lebanon**. **The OCR of that page is column-interleaved**, so
+the name's association with the fellowship is legible but the sentence structure is not. Recorded as a
+lead requiring a re-read from the scan, not as a finding.
+
+**Also settled: the two-tier question for Turner.** The association's own release of 29 January 1970,
+headed "TURNER TO KANAWANA," calls him "**the on-site director and head of program**" in as many
+words, with Roy Locke over the Camping Branch above him. His three prior postings are now documented
+too, including a 1968 Youth-and-Industry pilot he conceived as Lachine-Dorval's executive secretary.
+
+All five moved **stub → draft**. `p_254` closed; `p_287` opened for the R3 pass, naming the three
+items that need **primary re-reading rather than more searching**: the interleaved 1962 page, the
+Montreal West mayoralty, and the 1972–74 Potts/Robitaille sequence.
+
+---
+
+## 2026-08-25 — Tier 1 self-serve batch: p_283, p_237, p_285, p_196, p_202, p_207
+
+Six items, all worked. Two produced substantive findings, three produced clean nulls that narrow
+future effort, and one turned out to have been mis-blocked all along.
+
+### p_237 — Norrey Owens is O. N. H. Owens. Identified by an office, not a name.
+
+The article had this as a "strong lead, not an identification," unable to exclude a same-named son
+across the 1938-to-1976 gap. The complete *Canadian Camping* run closes it: both forms of the name
+hold **the same post in the same association**. June 1954, "The Quebec Camping Association…
+**President — Mr. O. N. H. Owens**." January 1976, the QCA membership roll: "**Owens, Mr. O.N.H.**" —
+a current member in the year the award was founded. March 1977, a conference report listing "past
+presidents of Q.C.A. in attendance, namely; **Norrey Owens**, Zave Ettinger, Ross Seaman…"
+
+A son would not appear on the roll of the association's past presidents. His documented service now
+runs **1929–1977, forty-eight years**. Still open, and now the whole of the task: the LAC First World
+War file (Cloudflare 403), his dates, and what 13 April 1976 commemorates — the corpus sweep found
+nothing on that, and the article already establishes it is not a death date.
+
+### p_285 — the manual is still lost, but its description is a document in its own right
+
+The June 1953 article was read in full from the cached corpus rather than in the snippet form used
+earlier, and it yields three things beyond the manual's contents:
+
+- **A 1953 building survey.** "We had a log cabin painted with whitewash, cabins with painted
+  clapboard, cabins with log slab siding, some with brown stain, some with the bark still on. To bring
+  order to this situation we **numbered each building**" — with material, colour and condition
+  recorded, graded poor/good/excellent, each with repair recommendations. Also: "**the thirty-two
+  different locks** were changed to a Yale master key system," a usable proxy for the built plant's
+  size.
+- **"Our property was surveyed."** Locke reports "an expert forester employed to give a careful report
+  on our **360 acres of forest**." This does **not** reopen `c_026`. The 1988 report said no record was
+  *found in 1988* showing a survey — not that none happened. Read together they say a survey was done
+  around 1953 and its record was lost within thirty-five years, which strengthens the resolution by
+  demonstrating the documentary loss.
+- Locke states plainly: "Our boys' camp was established in 1894. It has been on its present site since
+  1910."
+
+### p_283 — the recordings are not on YouTube, and the reason is systematic
+
+The RMA channel was enumerated and searched. Every camp item on it is a **P0145/09 moving image**;
+the two interview recordings are **P0145/11 audio reels**. The channel carries film, not tape. That
+step of the task is now done and should not be repeated — the reels remain an archive request.
+
+### p_202 — premise refuted
+
+The Flickr account's albums were extracted from the JSON embedded in its own page. **25 albums, 3,926
+photographs, 2009–2013 only**, with exactly one L&V-labelled album: "**L & V 2012**," 204 photographs.
+Because the account begins in 2009 it *cannot* hold an earlier L&V photograph. Flickr is not where the
+earliest surviving L&V image will be found; the Concordia P0145/02 photograph series is. Downgraded to
+P4.
+
+### p_207 — mis-blocked
+
+The Pine Crest shop page had been recorded twice as HTTP 429 and treated as blocked. It returned 200
+today and was read in full: **only marketing copy**, no contents, no excerpt, no cheer text. So the
+429 was a rate limit rather than a wall, **and the fetch was never the obstacle** — the contents
+simply are not published online. The book is $25 and purchasable, and it matters more than it did
+last week, now that Macdiarmid is documented as having driven Pine Crest's expansion after leaving
+Kanawana.
+
+### p_196 — identified, not digitized, and folded
+
+*Saint-Sauveur: Son histoire, notre patrimoine*, by **Lorraine Dagenais with Carmelle Huppé**, SHGPH,
+**2019**, since reprinted and sold locally. No digitized copy. Folded into `p_208`, which already
+targets the same organisation — one approach, two asks — and `p_208` reweighted to P1.
+
+---
+
+## 2026-08-25 — p_273 and p_231, and a durability failure found by accident
+
+### p_273 — the guide was not cached, contrary to its own priority
+
+The priority described the June 2026 parent guide as "cached, 43pp." It was not: `cache_path` was
+null and no file existed on disk. Downloaded the English (8.77 MB) and French (8.80 MB) 2026 editions
+plus the 2025 guide, extracted all three, cached them in-repo, and diffed 2026 against 2025 — 106
+changed lines. Six facts, `f_2314`–`f_2319`. Highlights:
+
+- **The Montreal bus pick-up moved**, from "École secondaire Pierre-Laporte, 1101 Rockland Road,
+  Mont-Royal" to "**Westmount High School, 4350 Sainte-Catherine Street**," announced as "due to
+  circumstances beyond our control." "Rockland" appears nowhere in the 2026 guide.
+- **Unspent tuck money funds camperships**: "All remaining tuck money remains within the YMCA, and
+  goes towards providing services to families with lower incomes, **including sending campers to
+  Kanawana**." Every camper now gets a reusable water bottle on arrival and a T-shirt on departure,
+  and a canoe paddle is included for Voyageur registrants.
+- **One new post in 2026**: a **Trip and Rental Coordinator**, Eloise Hebert-Imbeault — a name and a
+  role this wiki did not hold. Pairing trips with rentals in one job is itself telling.
+- Canoe trippers must "**swim 150 metres without a PFD**"; wilderness medicine protocols are
+  "reviewed and certified by a doctor"; trip menus are largely vegetarian, down to *lazy pierogis* and
+  *tripbrownies*.
+- The published PDF still carries **an unremoved French instruction to a web designer** about a
+  calendar button — evidence the guide is assembled from shared YMCA-wide design assets.
+
+The French edition is 94,612 characters against the English 74,071 and has **not** been diffed. Worth
+a look for content the English omits.
+
+### p_231 — the task was real, but it found something larger than itself
+
+**The working corpus was not in the repository.** The 634-document YMCA of Montreal text corpus that
+this week's work rests on — the Patton identification, the Owens sweep, the five director drafts, the
+drowning sweep — existed **only in the session's ephemeral scratchpad**. Thirty-nine of its 634 files
+had counterparts anywhere in the repo, and this container is reclaimed after inactivity. It is now at
+`sources/cache/ymca-montreal-fonds/` (16 MB, 634 files), verified after copying by control terms: 257
+files contain "Kanawana", 73 "Otoreke", 28 "Patton", 24 "Owens" — matching the pre-copy counts.
+
+**No check the project had could have caught this.** The verify harness audits what the wiki says and
+what the sources record; nothing audited whether the underlying text still existed anywhere permanent.
+
+Then the actual task: all 566 unregistered items registered individually. **68-of-634 becomes
+634-of-634**, 1,300 source records in total.
+
+**One deliberate restraint.** The newly registered items carry `read_state: skimmed`, not `extracted`,
+with basis `full-text-cached-and-keyword-swept-not-read-closely`. The text is held and has been swept
+repeatedly, but these items have not been read closely and no fact has been extracted from them
+individually. Marking them "extracted" would have inflated the project's read receipts by 565 at a
+stroke and defeated the purpose of the field. Dormancy rises to 572 of 1,300 as a result — an honest
+number, not a regression.
+
+**Two byproducts.** A 0-byte file turned out to be *Seventh Annual Report of the Current Camp
+Committee*, 10 December 1900 — digitized, 8 pages, **no OCR layer**, unreadable here. Its title dates
+the camp-committee report series to **1894**. And its readable sibling, the *Report of the Junior Camp
+Committee, 1900*, has now been read in full and written into `founding-1894.md`: 45 boys, six tents,
+eleven wet days out of sixteen, a balance of $5.05, and a cook who was "disgustingly dirty in his
+work." `p_288` opened; both added to the `p_282` letter.

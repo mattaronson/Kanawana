@@ -1,7 +1,7 @@
 # Hedley Dimock and the Science of Camping
 
-*Status: E1-reviewed | Sources: 20*
-*Last Updated: 2026-07-09*
+*Status: E1-reviewed | Sources: 24*
+*Last Updated: 2026-09-04*
 
 ## Overview
 
@@ -24,6 +24,8 @@ Dimock enlisted with the Princess Patricia's Canadian Light Infantry via the Uni
 In 1923, Dimock and Charles E. Hendry — both then affiliated with Columbia University, New York — began a pioneering study at Camp Ahmek in Algonquin Park, Ontario.^1 ^10 The study was published as *Camping and Character: A Camp Experiment in Character Education* (Association Press, New York, 1929/1931), with a foreword by William H. Kilpatrick, the progressive educator and colleague of John Dewey at Columbia.^11 The book runs 364 pages, illustrated, and is divided into two parts: Part 1 covers camp experience and character-building potential; Part 2 presents a case study of character education at Camp Ahmek.^11 It was among the first systematic studies to measure the effects of summer camp on child development and has been described as "one of the earliest recorded research efforts into camp experience" and "a collaborative effort between the U.S. and Canada."^10
 
 Dimock also co-authored *Talks to Counselors* (1939) with [[connections/institutional-lineage/taylor-statten|Taylor Statten]], the founder of Camp Ahmek.^12 Co-researcher Charles E. Hendry went on to serve at the University of Toronto School of Social Work, retiring in 1969.^10
+
+That book was still working thirty-four years later. When *Canadian Camping*, the Canadian Camping Association's magazine, printed a model outline for a camp staff manual in Winter 1973 — compiled from an Ontario Camping Association conference session by the directors of Camp Ponacka and Camp Wakana and the former Director of Camping for the Kitchener-Waterloo YMCA — its recommended bibliography listed eight titles. "Talks to Counsellors" by "Dimock and Statten" was among them, alongside Mary G. Hamilton's *The Call of Algonquin* and Northway and Lowes's *The Camp Counsellor's Book*.^20 A camp counsellor being trained in Canada in 1973 was still being pointed at a book the elder Dimock wrote in 1939, which is a more concrete measure of his reach into Canadian camping practice than any citation count.
 
 ### Academic Career
 
@@ -51,6 +53,18 @@ Hedley Gardner Dimock earned a BA from Beloit College; MA and EdD from Columbia 
 
 In 1960–1961, Dimock conducted research at Camp Kanawana on camp counsellor effectiveness, publishing two studies: "A Study of the Change in Attitudes and Temperament of Counselors during a Summer in Camp" (1961) and "A Study of the Prediction of Success of Twenty-Seven Camp Counselors" (1961).^2 ^3 **Resolved 2026-07-09**: these are unpublished internal YMCA/camp administrative research reports, not journal articles -- both sit in Concordia Archives Box HA2323, alongside "Interpretation of scores for counselors participating in a research project at Kamp Kanawana" (1960, sub-series P0145/12B) and 1961 opinion/attitude questionnaires and score sheets.^P This explains why no journal-publication citation for either study exists in JSTOR, Google Scholar, HathiTrust, or ERIC (all checked, all null) -- the material was never published outside internal YMCA channels. Related preliminary materials sit in Box HA2317: a "Camp Leadership Project Interim Report" (1959), an application questionnaire (1960), and "Montreal YMCA 1960 Research Project -- Study Group One/Two" plus "1960 YMCA Camping Research Project" folders 1-7 (1960-1961). A previously undocumented **third** report extends Dimock's Kanawana-linked research to 1970: "Research on the Selection and Training of Camp Leaders" (1970), also in Box HA2323.^P Separately, a full-text search of Grace McMorris's thesis found zero mentions of "Dimock" anywhere in the 129-page document -- it is not a source for his counsellor-research studies, despite being cited elsewhere in this KB.
 
+### The 1967 keynote, and "participative camping"
+
+Dimock's influence on Canadian camping ran well beyond the Kanawana studies, and the national camping magazine records it in three places.
+
+At the Canadian Camping Association conference of **2–4 March 1967**, Dimock gave the keynote address. *Canadian Camping*'s report of the conference is blunt about its content and its reception: "the delegates were in a position to hear **Dr. Hedley Dimock's keynote address on the Individual**. From 'Springboard No. 1' Dr. Dimock lectured to camp directors **urging them to change from repressive to participative methods of programming**. In the 'Feedback' sessions the directors 'participated' by getting back at him."^21 The address had a title, supplied seven years later by a camp director citing it: "**Canadian Camping — Its Resistance to Change**", which Al Knox describes as discussing the concepts "in depth from the perspectives of 1) camper development and 2) the function and influence of the camp director."^22
+
+It took effect quickly. By the autumn 1967 issue a Manitoba camp director was writing that, "**Heavily impressed by Hedley Dimock at the Canadian Camping Association Conference we are introducing some measure of participatory camping at the camp this year.**"^23 And seven years on, Al Knox — then Director of Camp Wanakita, an Ontario YMCA camp — built a whole article in the same magazine around "participative camping" as a named style of resident camping, describing camper councils, a three-phase system moving campers from counsellor-planned to camper-planned programme, and decentralised cabin-based senior sections, and closing by recommending readers go and read the 1967 Dimock address.^22
+
+That is a measurable trace. A man who had spent 1960–61 studying counsellor effectiveness at Kanawana went on to give the address that put "participative camping" into the vocabulary of Canadian camp directors, and camps were still citing it by name in 1974. It also gives the Kanawana research a purpose it did not obviously have on its own: the studies of what makes a counsellor effective sit directly behind an argument that camps should stop programming *at* their campers.
+
+**The 1967 address itself has not been located.** It was delivered to the CCA conference and reported in the magazine but not, so far as this read has found, printed there. The OCA Conference Digests for 1966–68 (sold by the CCA at the time) and the Canadian Camping Association's own archive — the collection the CCA resolved in 1973 to deposit at the University of Waterloo — are the places to look for a text.
+
 ### Founding the Department (1963)
 
 In 1962, Dimock and Richard D. McDonald co-initiated a Community Development Study of the Cree of the Mistassini-Chibougamau Region of Quebec; a related publication, "The Impact of Culture Change on Mistassini Cree Youth," appeared in the *Canadian Psychiatric Association Journal*, Vol. 19, No. 4 (1974).^6
@@ -68,6 +82,12 @@ From 1972, he collaborated extensively with Dr. Raye Kass on group development p
 Richard D. McDonald, who joined the department in 1965, succeeded Dimock as Centre Director upon Dimock's retirement in 1980.^2 In November 1997, Applied Social Science amalgamated with Leisure Studies to form the Department of Applied Human Sciences.^2
 
 After retirement from Concordia, Dimock became Director of the Centre for Human Resource Development, an independent consulting and research organization in Puslinch, Ontario, and adjunct professor at the University of Guelph. He served on the faculties of eight universities including McGill, Columbia, Toronto, and Concordia, and worked with over 300 organizations across Canada.^2
+
+### On the programme of the first International Camping Congress, 1983
+
+Sixteen years after the 1967 keynote, Dimock was still on the national association's platform. The Spring 1982 Congress update names him among the speakers and session leaders already committed to the **first International Camping Congress**, held at Toronto's Sheraton Centre, **26-29 January 1983**, co-sponsored by the Canadian and Ontario camping associations.^24 The company he is listed in indicates the event's scale: **Sir Edmund Hillary** opened it and **Leo Buscaglia** closed it, and the session leaders announced by that spring included **Dr. Betty van der Smissen**, then President of the American Camping Association, **Steve Van Matre**, **Kirk Wipper**, **Bill Mason**, **Bruno Morawetz**, **Bryce Taylor** — described by the association as "one of Canada's most significant authorities on Indian Lore and Culture" — and a NASA speaker, with delegates sought through the Department of External Affairs in thirty-two countries.^24
+
+This bears on a claim recorded elsewhere in this wiki. [[connections/institutional-lineage/sgw-concordia-connection|Raye Kass]], Dimock's collaborator and Program Director of his Centre for Human Relations and Community Studies, is recorded as having "presented on camp leadership at the International Camping Congress", with no date attached. She is **not** on this preliminary list — but the list is explicitly partial ("there are so many more from whom we have yet to hear"), and her closest colleague is on it. **The 1983 programme is the document that would settle it**, and obtaining it from the CCA fonds at Trent University is queued as `p_325`. Nothing about Kass is asserted here on the strength of Dimock's listing.
 
 ## The YMCA-to-University Pipeline
 
@@ -112,6 +132,11 @@ P. Concordia University Archives, P0145/12B: "Interpretation of scores for couns
 17. FamilySearch, Hedley Seldon Dimock (LHRF-7ZS): birth/death, immigration 1895, marriage 17 Aug 1922 Regina, children Dorothy (1925-2005), Hedley Jr. (b.1928), Elizabeth (1934-1988). URL: https://ancestors.familysearch.org/en/LHRF-7ZS
 18. Concordia University Archives, YMCA of Montreal fonds sub-series 12A (Box HA2317, HA2323 finding aid) [src_concordia_p0145_12a_finding_aid].
 19. American Camp Association, Hedley S. Dimock Award press releases, 2022-2026 [src_aca_dimock_award_recipients_2022_2026].
+20. "Two Approaches to Camp Staff Manuals," a revised OCA conference session by Bruno Morawetz (Camp Ponacka), Fred Dier (Camp Wakana) and Don Groff (ex-Director of Camping, Kitchener-Waterloo YMCA), *Canadian Camping* Vol. 25 No. 2 (Winter 1973), pp. 12-13. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 97).
+21. Conference report, *Canadian Camping* Vol. 19 No. 3 (April 1967), p. 87 [src_ia_canadian_camping_collection].
+22. Al Knox (former Director, Camp Wanakita), "A Case for 'Participative' Camping," *Canadian Camping* Vol. 26 No. 2 (Winter/Spring 1974), pp. 6-7, which names the address as "Canadian Camping — Its Resistance to Change" and dates the meeting 2-4 March 1967. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 101).
+23. Manitoba camp director quoted in *Canadian Camping* Vol. 20 No. 1 (Autumn 1967), p. 11 [src_ia_canadian_camping_collection].
+24. John Latimer, "International Camping Congress Update," *Canadian Camping* Vol. 34 No. 1 (Spring 1982), p. 13, with the accompanying fund-raising appeal signed by Al Goodman [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 141). A list of speakers committed as of spring 1982, not the final programme.
 
 ## Research Notes
 

@@ -447,6 +447,35 @@ Search public content only:
 Do not extract personal information about living private individuals. Extract only institutional
 facts, historical information, and information about public figures.
 
+**Amendment, 2026-09-03 — record everything; embargo is metadata.** The rule above was being
+followed by not writing the material down, which loses it: a later pass cannot tell the
+difference between "the source says nothing" and "someone decided not to write it down," and
+reads the same document to the same dead end. A hole in the record looks exactly like an absence
+of evidence, which is a serious thing to manufacture for anyone who later relies on this
+research.
+
+**Publication policy belongs to the wiki's UI layer, not to collection.** For collecting data and
+writing articles, the repo and the wiki are both fine and both should be COMPLETE. So:
+
+1. **Extract it.** Sensitive material goes into `kb/facts.json` like any other fact, carrying a
+   `publication` block: `{"status": "embargoed", "register_id": "r_NNNN", "review_on":
+   "YYYY-MM-DD", "basis": "...", "why": "..."}`.
+2. **Write it where it belongs** in the article, wrapped in `<!-- embargo:r_NNNN -->` …
+   `<!-- /embargo:r_NNNN -->`, with a one-line note saying what it is and when it reviews.
+3. **Register it** in `kb/restricted/register.jsonl` — which facts, which document and lines,
+   what kind, why, the basis, the review date. See `kb/restricted/README.md`.
+4. **Say something about it.** Material like this usually needs context a reader fifty years on
+   will not have — who was judging whom, at what age, in what kind of document. Supply it
+   outside the block.
+
+Default embargo for personal assessments of identifiable private individuals: the later of
+record date + 75 years and estimated birth + 100, released earlier on consent or confirmed
+death. `review_on` is a date to look again, never a date to publish automatically.
+
+`scripts/verify/restricted_guard.py` checks the labelling, not the content: every embargoed fact
+registered and dated, every marker paired, and no name occurring only in embargoed facts
+appearing in an article outside a block. **Unlabelled is the failure, not present.**
+
 ### 8. Autonomous Article Spawning
 
 Spawn new article stubs for any of the following once ≥5 facts exist:

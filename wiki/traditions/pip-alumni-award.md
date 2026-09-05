@@ -1,7 +1,7 @@
 # The Pip Alumni Award
 
-*Status: E1-reviewed | Sources: 19*
-*Last Updated: 2026-07-09*
+*Status: E1-reviewed | Sources: 20*
+*Last Updated: 2026-08-14*
 
 ## Overview
 
@@ -37,7 +37,7 @@ Caddell died on October 16, 2005 in Tupiza, Bolivia, at age 32, of pulmonary ede
 | 2010 | — | *No documented recipient* | — |
 | 2011 | Bruce Netherwood | Staff, late 1980s–1990s | VP Camping Services, South Shore YMCA (Massachusetts)^3 |
 | 2012 | John Cleghorn | Alumnus; chaired Montreal YMCA | Chairman and CEO, Royal Bank of Canada; Officer of the Order of Canada^3 ^10 |
-| 2013 | Sam Lazarus (posthumous) & family | Camper and staff | Died 2004 (age 25) of cerebral malaria in Ghana while working at orphanage. SAM JAM annual fundraiser at Kanawana (17+ years).^3 ^19 |
+| 2013 | Sam Lazarus (posthumous) & family | Camper and staff | Died 2004 (age 25) of cerebral malaria in Ghana while working at orphanage. SAM JAM annual fundraiser, 17+ years.^3 ^19 ^20 |
 | 2014 | Jeniene Phillips Birks | Alumna | CBC Montreal television journalist; community volunteer^3 |
 | 2015 | Terry "Aislin" Mosher | Camper 1952–53 | Montreal Gazette editorial cartoonist; Officer of the Order of Canada^2 |
 | 2016 | Carol Skinner | Counsellor/Section Director 1990–95 | ALS advocate; Master's in Art Therapy; Director of YMCA Camp Hayward; CMHA Art Therapist^1 |
@@ -45,7 +45,7 @@ Caddell died on October 16, 2005 in Tupiza, Bolivia, at age 32, of pulmonary ede
 | 2018 | Dr. Marina Sharpe | Former camper and staff | DPhil Law (Oxford, Trudeau Scholar); Assoc. Professor of International Law, RMC Saint-Jean; Director, Trudeau Foundation; author of *The Regional Law of Refugee Protection in Africa* (OUP, 2018)^4 |
 | 2024 | Dr. James Orbinski | Camper/counsellor 1980s–90s | President MSF International Council; accepted 1999 Nobel Peace Prize; Officer of the Order of Canada; Principal, Massey College, U of T^5 |
 
-The YMCA Quebec page for Orbinski describes him as "the 15th recipient" of the Pip Award.^5 With 12 documented recipients through 2018 and Orbinski as the 15th in 2024, exactly 3 awards were given in the 2019–2023 period, while 2 years had no award (most likely 2020 and 2021 due to COVID camp closures). The 2019 recipient's name appears truncated to "2019 Dr." on Andrew Caddell's LinkedIn profile, suggesting the recipient holds a doctoral degree; no YMCA Quebec press release was published for any award in 2019–2023. The 2010 gap is confirmed by the numbering: Mosher was the 8th recipient in 2015, meaning only 7 recipients preceded him in eight years (2007–2014), confirming one skip year — which is 2010.
+The YMCA Quebec page for Orbinski describes him as "the 15th recipient" of the Pip Award.^5 The table above names **11** recipients through 2018 — 2010 has no documented recipient. If Orbinski is the fifteenth, fourteen preceded him, so **three or four awards were given in 2019–2023** and one or two of those five years had none. Which it is turns on 2010: the table records that year as *undocumented*, not as confirmed skipped, and if an award was in fact given in 2010 then twelve preceded 2019 and exactly three fall in 2019–2023. *(This paragraph previously stated "12 documented recipients through 2018", which the table does not support; the count is corrected and the dependency on 2010 is now stated rather than assumed away. 2026-08-28.)*
 
 **Two specific candidate identities for the 2019 recipient were investigated and explicitly DEBUNKED, not merely left unconfirmed (2026-07-09):** "Dr. Amy Ornstein" is a pediatrics faculty member at Dalhousie University (Halifax) specializing in child-maltreatment pediatrics, with no connection whatsoever to Camp Kanawana, YMCA Quebec, or Montreal found in any source. "David Bryfman" is CEO of The Jewish Education Project (New York); no source connects him to the Pip Award or Camp Kanawana. Both names appear to be search-engine confabulation, possibly conflated with equally-unverified 2019 American Camp Association Hedley S. Dimock Award claims (see [[people/hedley-dimock|Hedley Gardner Dimock]]). **Neither should be treated as the 2019 recipient.** An additional ~20 queries across new surfaces (YMCA Quebec French/English newsroom, Facebook, LinkedIn, Wayback Machine, archive.ph, PressReader, newspapers.com) this session reconfirmed the 2019-2023 gap is genuinely exhausted for agent-accessible web research.
 
@@ -61,11 +61,13 @@ Caddell holds a BA and MA in Journalism from Carleton University (MA 2002).^11 ^
 
 ## The Sam Lazarus Legacy
 
-Samuel Karl Lazarus (1978–2004) was a Kanawana camper and staff member "for most of his childhood."^19 He worked with children at an orphanage in Ghana, where he died in 2004 of cerebral malaria at age 25.^12 ^19 His obituary appeared in the Montreal Gazette on January 24, 2004, with directions for donations to the Samuel Lazarus Fund at Kamp Kanawana, 1435 Drummond Street, 4th Floor, Montreal.^12 The fund was established by his mother Janet Torge and brother Riel Lazarus.^19 His family received the Pip Award posthumously in 2013.^3 In his memory, the annual "SAM JAM" fundraiser has been held at Camp Kanawana for 17+ years, raising approximately $230,000 and sending over 50 children to camp.^3 ^19 Rochelle Lazarus, a Concordia Sociology undergraduate, was a founding member of the YMCA Kanawana Sam Lazarus Fund, recognized at Concordia in 2011.^19 The fund continues through the Fondation des YMCA du Québec.
+Samuel Karl Lazarus (1978–2004) was a Kanawana camper and staff member "for most of his childhood."^19 He worked with children at an orphanage in Ghana, where he died in 2004 of cerebral malaria at age 25.^12 ^19 His obituary, published January 23, 2004, gave directions for donations to the Samuel Lazarus Fund at Kamp Kanawana, 1435 Drummond Street, 4th Floor, Montreal.^12 The fund was established by his mother Janet Torge and brother Riel Lazarus.^19 His family received the Pip Award posthumously in 2013.^3
+
+In his memory, the annual "Five-Hole Sam" street hockey jamboree ("SAM JAM"), organized by Riel Lazarus, has been held for over seventeen years. **Its running totals must be read with their dates attached, and this article previously reported them without.** CBC, covering the 2015 jamboree, put the cumulative total at over $260,000 and more than seventy children sent to camp.^20 This article until 2026-08-14 carried "approximately $230,000 and over 50 children" with no date — figures *below* the 2015 CBC numbers, which is impossible for a cumulative fundraising total and marks them as an earlier snapshot that was never updated. The dated 2015 figures are used here. The fund continues through the Fondation des YMCA du Québec, and as of 2024 has supported camperships for dozens of families over seventeen-plus years; no cumulative dollar figure more recent than 2015 has been located.^19 Rochelle Lazarus, a Concordia Sociology undergraduate, was a founding member of the YMCA Kanawana Sam Lazarus Fund, recognized at Concordia in 2011.^19 The fund continues through the Fondation des YMCA du Québec.
 
 ## Open Questions
 
-1. [Important, re-confirmed genuine dead end 2026-07-09] Who were the 3 recipients in 2019–2023? The 2019 recipient's title begins with "Dr." (Andrew Caddell LinkedIn). 3 awards given (Orbinski = 15th), 2 years skipped (likely 2020-2021 COVID). No YMCA newsroom press releases published for any award 2019–2023. Two specific candidate names ("Dr. Amy Ornstein," "David Bryfman") were checked and explicitly debunked, not merely unconfirmed — see above. Recommend either a direct contact to YMCA Quebec or the oral-history instrument already planned per CLAUDE.md's Phase 2 pending priority.
+1. [Important, re-confirmed genuine dead end 2026-07-09] Who were the 3 recipients in 2019–2023? The 2019 recipient's title begins with "Dr." (Andrew Caddell LinkedIn). Three or four awards given (Orbinski = 15th), one or two years skipped — the ambiguity turns on whether 2010 had a recipient (likely COVID years 2020-2021 among the skips). No YMCA newsroom press releases published for any award 2019–2023. Two specific candidate names ("Dr. Amy Ornstein," "David Bryfman") were checked and explicitly debunked, not merely unconfirmed — see above. Recommend either a direct contact to YMCA Quebec or the oral-history instrument already planned per CLAUDE.md's Phase 2 pending priority.
 2. ~~[Important] Were awards given in 2020, 2021, 2022, and/or 2023?~~ [Resolved] Orbinski = 15th recipient (2024). With 12 documented through 2018, exactly 3 awards were given in 2019–2023, and 2 years had no award (likely COVID years 2020 and 2021).
 3. ~~[Nice-to-have] What are the exact dates and causes of Philip "Pip" Caddell's birth and death?~~ [Resolved] Born July 7, 1913 in Brantford, Ontario; died July 24, 2004 in Ottawa (age 91). Full genealogy via The Peerage database. No formal obituary located, but biographical details confirmed through multiple sources.
 4. [Nice-to-have] Is there a physical award object (plaque, trophy)?
@@ -78,6 +80,7 @@ Samuel Karl Lazarus (1978–2004) was a Kanawana camper and staff member "for mo
 - [[people/notable-alumni/stuart-mclean|Stuart McLean]]
 - [[people/notable-alumni/terry-mosher|Terry Mosher (Aislin)]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
+- [[traditions/order-of-owens|The Order of Owens]] — the camp's canoe-tripping award, presented for conduct at camp rather than for later-life achievement
 - [[traditions/traditions-and-culture|Traditions and Culture at Kanawana]]
 
 ## Sources
@@ -93,14 +96,15 @@ Samuel Karl Lazarus (1978–2004) was a Kanawana camper and staff member "for mo
 9. Wikipedia, "Richard Patten." URL: https://en.wikipedia.org/wiki/Richard_Patten
 10. Wikipedia, "John Cleghorn." URL: https://en.wikipedia.org/wiki/John_Cleghorn
 11. Atwater Library, "Andrew Caddell biography" (August 2024). URL: https://atwaterlibrary.ca/files/Caddell-Andrew_Biography_Aug-2024.pdf
-12. Montreal Gazette, obituary for Samuel Karl Lazarus (January 24, 2004).
+12. Samuel Lazarus obituary, published January 23, 2004, retrieved via Legacy.com [src_legacy_lazarus_obituary_2004]. *The Montreal Gazette masthead and a January 24 date were previously asserted here; neither is confirmed from the located record, which carries January 23. Flagged for a human check.*
 13. The Peerage genealogical database: Philip Mortimer Caddell and William Persse Caddell entries. URL: http://www.thepeerage.com/p15180.htm
 14. Caddell, Andrew, and Dave Stubbs. *The Goal: Stories about Our National Passion.* Deux Voiliers Publishing, 2015 (revised 2017). Contains Philip "Pip" Caddell's story "The Black Horse."
 15. CMAT memorial pages, "James Caddell, Soldier, Adventurer (1973-2005)." URLs: https://cmat.ca/james-caddell-soldier-adventurer-1973-2005/ and https://cmat.ca/james-caddell-1973-2005-2/. Royal Canadian Hussars History (rch.ca/wp-content/uploads/B05a_Marcotte_Caddell_Mihaljevic_20210105E.pdf).
 16. Wikipedia, "James Caddell." URL: https://en.wikipedia.org/wiki/James_Caddell. BillionGraves, "Lawrence James Caddell." URL: https://billiongraves.com/grave/Lawrence-James-Caddell/13894960.
 17. CARE Canada, "CARE Canada Welcomes Tara Newell" (August 2025). URL: https://care.ca/2025/08/29/care-canada-welcomes-tara-newell/
 18. Canadian Global Affairs Institute, "Andrew Caddell" Fellow page. URL: https://www.cgai.ca/andrew_caddell. Heritage Lower St. Lawrence community profile.
-19. Sam Lazarus Fund, Zeffy fundraising page (https://www.zeffy.com/fundraising/8bc0b92d-1ae8-4791-8eeb-d890713c2360); Legacy.com obituary; Concordia University, "Recognizing Outstanding Concordians" (2011); Facebook SAM JAM event pages.
+19. Sam Lazarus Fund, Zeffy fundraising page (https://www.zeffy.com/fundraising/8bc0b92d-1ae8-4791-8eeb-d890713c2360); Concordia University, "Recognizing Outstanding Concordians" (2011); Facebook SAM JAM event pages. *(The Legacy.com obituary, formerly bundled into this composite entry, is now cited separately and precisely as source 12.)*
+20. CBC News, "Annual street hockey jamboree honours Montreal West native" (August 21, 2015) [src_cbc_sam_jam_2015].
 
 ## Research Notes
 

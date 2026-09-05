@@ -1,7 +1,7 @@
 # R.L. Charlton
 
 *Status: draft | Sources: 5*
-*Last Updated: 2026-07-11*
+*Last Updated: 2026-08-14*
 
 ## Overview
 
@@ -13,19 +13,22 @@ Charlton was a Montreal-based independent marine surveyor who maintained his own
 
 ## Proposing the Name "Kanawana"
 
-A 1951 primary source, "Kamp Kanawana History" (presented at a training course on June 6, 1951), states: "A great deal of thought was given to choosing a name for the camp. Mr. Charlton suggested Kanawana which was like the name of a Furness Steamer. At a later meeting the name Kanawana was adopted, which means in the Indian language lots to eat."^2 This is the only source identifying who specifically proposed the camp's name, and independently confirms the "lots to eat" translation from a primary rather than secondary account. No corroboration has been found of an actual ship named "Kanawana" in Furness Withy or Furness Bermuda Line vessel records, despite a five-surface search (two published fleet lists, a general Furness Withy history, and Lloyd's Register Foundation's digitized register collection) turning up zero matches. See [[traditions/myths-and-legends|Myths and Legends of Camp Kanawana]] for the full naming-origin discussion and search detail.
+A 1951 primary source, "Kamp Kanawana History" (presented at a training course on June 6, 1951), states: "A great deal of thought was given to choosing a name for the camp. Mr. Charlton suggested Kanawana which was like the name of a Furness Steamer. At a later meeting the name Kanawana was adopted, which means in the Indian language lots to eat."^2 This is the only source identifying who specifically proposed the camp's name, and independently confirms the "lots to eat" translation from a primary rather than secondary account. No corroboration has been found of an actual ship named "Kanawana" in Furness Withy or Furness Bermuda Line vessel records, despite a four-surface search (two published fleet lists, a general Furness Withy history, and Lloyd's Register Foundation's digitized register collection) turning up zero matches. See [[traditions/myths-and-legends|Myths and Legends of Camp Kanawana]] for the full naming-origin discussion and search detail.
 
 ## The 1943 "Early Days" Manuscript
 
 In 1943, Charlton authored "Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana," held in Concordia Archives sub-series P0145/12A.^3 ^4 This manuscript, along with W.E. Cushing's companion 1943 piece "Historical sketches — Lake St. Joseph," forms one of the two primary founding-era camp histories besides Ralph Dawson's 1933 "History of Kamp Kanawana" — see [[people/ralph-dawson|Ralph Dawson]] for the fuller founding-era documentary picture.^3 Both Charlton's and Cushing's manuscripts exist only as physical, non-digitized items in Concordia's archives (Box HA1881), limiting what can currently be extracted from them.^3
 
-The Concordia Archives also hold undated photographs of "R. H. Dawson" (likely Ralph H. Dawson) and R. L. Charlton filed together in sub-series 12L (Lac St-Joseph / Camp Jubilee), suggesting the two men were associates in the early camp movement.^5 Charlton is also named among roughly 50 individuals studied for a "Material for Book of Remembrance and History" project compiled by Joyce Oliver (1939–1940), held in Concordia sub-series 13D — Dawson does not appear in the same summarized listing, though this is a secondary AI-summarized extraction rather than a verbatim primary read.
+The Concordia Archives also hold undated photographs of "R. H. Dawson" (likely Ralph H. Dawson) and R. L. Charlton filed together, suggesting the two men were associates in the early camp movement.^5 **Which sub-series holds them is not settled:** this article previously stated sub-series 12L (Lac St-Joseph / Camp Jubilee) while citing a source that says 12A. Two KB facts disagree, and the article had silently picked one and cited the other. Both are recorded here; neither is asserted.
+
+**A claim removed, 2026-08-14.** This section previously stated that Charlton is named among roughly fifty individuals studied for a "Material for Book of Remembrance and History" project compiled by Joyce Oliver (1939–1940), held in Concordia sub-series 13D. **No source supports it.** The KB fact behind the Joyce Oliver project names **D. A. Budge**, not Charlton, and records the contents as "not yet read." The sentence also carried its own defeater — it conceded the listing was "a secondary AI-summarized extraction rather than a verbatim primary read" — while stating Charlton's inclusion as fact. The project itself is real and is a genuine lead for founding-era biography; whether Charlton appears in it is unknown.
 
 ## Open Questions
 
+0. [New 2026-08-14, Important] Does R. L. Charlton in fact appear in Joyce Oliver's 1939–1940 "Material for Book of Remembrance and History" (Concordia sub-series 13D)? This article asserted he did, without a source; the assertion has been removed. The project is a real and promising founding-era lead whose contents have never been read.
 1. [Important] What was Charlton's specific role at Kanawana — was he a committee member, camp visitor, or held some other formal position? His YMCA and CBMU career is documented, but his direct camp involvement is inferred from the two manuscripts and the archival photograph pairing with Dawson.
 2. [Important] The 1943 "Notes re Early Days" manuscript remains undigitized (Concordia Box HA1881); physical archive access is the only path to its full content.
-3. ~~[Nice-to-have] Can the "Furness Steamer" analogy be corroborated against actual Furness Withy or Furness Bermuda Line vessel names of the period?~~ [Exhausted 2026-07-11] A five-surface search (two fleet lists, a general history, Lloyd's Register Foundation's digitized collection) found zero matches. Does not rule out an unindexed register year or smaller subsidiary, but remains uncorroborated.
+3. ~~[Nice-to-have] Can the "Furness Steamer" analogy be corroborated against actual Furness Withy or Furness Bermuda Line vessel names of the period?~~ [Exhausted 2026-07-11; count corrected 2026-08-14] A **four**-surface search (two fleet lists, a general history, Lloyd's Register Foundation's digitized collection) found zero matches — the article said "five" twice while enumerating four both times, and the KB fact lists four. Does not rule out an unindexed register year or smaller subsidiary, but remains uncorroborated.
 4. [Nice-to-have] What was Charlton's relationship to Ralph Dawson — co-leaders, committee colleagues, or fellow alumni? The only documented connection is the shared archival photo filing.
 
 ## Related Articles

@@ -1,6 +1,6 @@
 # Justin Caldwell
 
-*Status: draft | Sources: 5*
+*Status: draft | Sources: 6*
 *Last Updated: 2026-07-11*
 
 ## Overview
@@ -9,11 +9,11 @@ Justin Caldwell has been Kanawana's on-site Summer Camp Director since 2025, suc
 
 ## Career Path to the Directorship (2004–2025)
 
-The YMCA Quebec "Our Team" page for Camp YMCA Kanawana lists Caldwell's title as "Summer Camp Director," noting he has been "part of the Kanawana family since 2004," with a professional journey described as: Junior Counsellor, Counsellor, Section Director, Canoe Guide, Camping Programs Coordinator, (Guide Again), and Summer Camp Assistant Director — a more than 20-year internal career progression before reaching the top on-site role.^1 A July 25, 2018 Camp YMCA Kanawana Facebook video, "Hike and Trip at Camp Kanawana," names "Tripper Justin Caldwell" introducing the Voyageurs canoe-trip program, independently confirming a genuine, camp-specific role at that stage of his career.^2 ^3 Two independent commercial contact-data aggregators, ZoomInfo and Datanyze, separately list a "Justin Caldwell" with the title "Summer Camp Director at YMCA of Quebec," based in Westmount — YMCA Quebec's head-office location — consistent with, though not proof beyond the primary source itself of, his documented role.^4
+The YMCA Quebec "Our Team" page for Camp YMCA Kanawana lists Caldwell's title as "Summer Camp Director," noting he has been "part of the Kanawana family since 2004," with a professional journey described as: Junior Counsellor, Counsellor, Section Director, Canoe Guide, Camping Programs Coordinator, (Guide Again), and Summer Camp Assistant Director — a more than 20-year internal career progression before reaching the top on-site role.^1 A July 25, 2018 Camp YMCA Kanawana Facebook video, "Hike and Trip at Camp Kanawana," names "Tripper Justin Caldwell" introducing the Voyageurs canoe-trip program, independently confirming a genuine, camp-specific role at that stage of his career.^2 ^3 Two independent commercial contact-data aggregators, ZoomInfo and Datanyze, separately list a "Justin Caldwell" with the title "Summer Camp Director at YMCA of Quebec," based in Westmount — consistent with, though not proof beyond the primary source itself of, his documented role.^4
 
 ## Directorship (2025–Present)
 
-Caldwell has served as on-site Camp Director for the summers of 2025 and 2026, succeeding Kevin Slezak, under Executive Director Marie-Pierre Lacasse.^5 The 2025 camp preparation guide's staff contact page independently confirms the current management team, listing Caldwell as Summer Camp Director alongside Lacasse and Quinn Durand as Summer Camp Assistant Director.^6
+Caldwell has served as on-site Camp Director for the summers of 2025 and 2026, succeeding Kevin Slezak, under Executive Director Marie-Pierre Lacasse.^5 The 2025 camp preparation guide's staff contact page confirms the 2025 management team, listing Caldwell as Summer Camp Director alongside Lacasse and Quinn Durand as Summer Camp Assistant Director.^6
 
 ## Open Questions
 

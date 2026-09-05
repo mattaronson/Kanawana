@@ -1,6 +1,6 @@
 # James Orbinski
 
-*Status: draft | Sources: 6*
+*Status: draft | Sources: 5*
 *Last Updated: 2026-07-11*
 
 ## Overview

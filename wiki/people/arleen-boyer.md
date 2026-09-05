@@ -1,6 +1,6 @@
 # Arleen Boyer
 
-*Status: draft | Sources: 3*
+*Status: draft | Sources: 4*
 *Last Updated: 2026-07-11*
 
 ## Overview
@@ -13,7 +13,7 @@ Boyer became Kanawana's first Executive Director when the camp split its single 
 
 ## The Name Correction
 
-Boyer's name was originally recorded in this KB, via oral history, as "Arlene Boyle." An "Arleen Boyer" was independently found on Kamp Kanawana's fiscal-year-2003-2004 local volunteer advisory committee in the Montreal YMCA's own annual report — initially flagged only as a phonetically-close, unconfirmed lead.^2 On 2026-07-07 the operator corrected both the first name ("Arlene" to "Arleen") and surname ("Boyle" to "Boyer"), confirming that the annual report's spelling had been correct all along, and that this is a positive identification of the same person rather than a coincidental match.^3 Her committee appearance five years after her Executive Directorship ended is consistent with a pattern seen with several other former Kanawana directors who remained connected to the camp as volunteers. A 2005 Camp YMCA Kanawana Parent Handbook carries the document-author metadata "aboyer" — a plausible but unconfirmed further trace, postdating her documented tenure by about five years.
+Boyer's name was originally recorded in this KB, via oral history, as "Arlene Boyle." An "Arleen Boyer" was independently found on Kamp Kanawana's fiscal-year-2003-2004 local volunteer advisory committee in the Montreal YMCA's own annual report — initially flagged only as a phonetically-close, unconfirmed lead.^2 On 2026-07-07 the operator corrected both the first name ("Arlene" to "Arleen") and surname ("Boyle" to "Boyer"), confirming that the annual report's spelling had been correct all along, and that this is a positive identification of the same person rather than a coincidental match.^3 Her committee appearance three to four years after her Executive Directorship ended is consistent with a pattern seen with several other former Kanawana directors who remained connected to the camp as volunteers. A 2005 Camp YMCA Kanawana Parent Handbook carries the document-author metadata "aboyer" — a plausible but unconfirmed further trace, postdating her documented tenure by about five years.^4
 
 ## Open Questions
 
@@ -32,6 +32,7 @@ Boyer's name was originally recorded in this KB, via oral history, as "Arlene Bo
 1. Oral history, Matt Aronson [src_oral_aronson].
 2. Montreal YMCA Annual Report, fiscal year 2003–2004 (Wayback Machine) [src_wayback_ymcamontreal_annualreport_2003_2004].
 3. Oral history, Matt Aronson, name correction confirmation [src_oral_aronson].
+4. Camp YMCA Kanawana Parent Handbook, 2005 — document-author metadata "aboyer" [src_ymcakanawana_2005_handbook].
 
 ## Research Notes
 

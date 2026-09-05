@@ -1,7 +1,7 @@
 # The 1967 Centennial and Kanawana
 
-*Status: E1-reviewed | Sources: 19*
-*Last Updated: 2026-07-10*
+*Status: E1-reviewed | Sources: 24*
+*Last Updated: 2026-09-04*
 
 ## Summary
 
@@ -23,7 +23,12 @@ The Pageant's significance as a nationalist project has been analyzed by Misao D
 
 ## The CCA Centenary Journey
 
-Running in parallel with the competitive Pageant, the Canadian Camping Association organized its own Centenary Journey — a coast-to-coast youth canoe trip with campers from every province responsible for paddling a different section of the route in a relay structure.^9 This was a camping and educational program rather than a race, organized primarily by Bruce W. Hodgins (1931–2019), a professor of History at Trent University and director of Camp Wanapitei.^10 John Latimer, OCA President 1967-68 and owner of Camp Kilcoo (author of *Maker of Men: The Kilcoo Story*), coordinated the overall journey.^16
+Running in parallel with the competitive Pageant, the Canadian Camping Association organized its own Centenary Journey — a coast-to-coast youth canoe trip with campers from every province responsible for paddling a different section of the route in a relay structure.^9 This was a camping and educational program rather than a race, organized primarily by Bruce W. Hodgins (1931–2019), a professor of History at Trent University and director of Camp Wanapitei.^10 A third name attaches to its origin: John Latimer, recalling 1967 in a 1982 interview, said "**my first vivid C.C.A. recollection was 1967 when I was asked to Chair the Centenary Journey, an idea formulated by Kirk Wipper**."^23 Originator, organiser and coordinator can be three different people and these accounts are not necessarily in conflict, but Wipper — founder of the Kanawa canoe collection and a CCA figure throughout this period — has not previously been credited with the idea, and the attribution is recorded here as Latimer's. John Latimer, OCA President 1967-68 and owner of Camp Kilcoo (author of *Maker of Men: The Kilcoo Story*), coordinated the overall journey.^16 May Brown, President of the Canadian Camping Association from 1965 to 1967, confirmed both the chairmanship and the money in a 1976 interview: "We were also working at that time (1967), **with John Latimer as Chairman, on the Centenary Journey and we did have some funding under that Centennial Project**."^23 That funding mattered more than the amount suggests, because in her account **the federal government did not otherwise fund the association at all** in those years — "the CCA had no funds for me to travel as President" — and the board met only once a year, piggybacked on trips people were making anyway. The Centenary Journey was, on this evidence, among the first things the CCA was ever paid to do.
+
+**What it cost, and who paid.** The association's own president recorded the figure in the autumn of 1967, while the relay was still running: "**The Centenary Journey project, now in its final stages, received a grant of $12,000.00 from the National Centennial Commission.**"^24 That is the first documented cost or funding source for the Journey found by this project, and it places the event squarely inside the federal centennial grant machinery rather than the association's own resources. The same passage records that the CCA was also receiving travel grants for board members to attend annual meetings, and "a sizeable grant… for the conduct of five regional training events," from the **Fitness and Amateur Sport Branch of the Department of National Health and Welfare** — the beginning of the federal funding relationship that would sustain the national association until 1988.
+
+
+The same interview records a second federal partnership of the period that this project had not documented: work "**with the Secretary of State on inter-cultural camping; bringing ethnic children into the organized camping experience. This is very much taken for granted today, but at that time we were really pushing it**", including a large Secretary of State seminar in Winnipeg drawing people "from all parts of the country".^23 It is not connected to Kanawana in the source, and no such connection is claimed; it is recorded because it dates a national programme aimed at widening who went to camp, in the Centennial years.
 
 Known section assignments included:^16
 
@@ -38,15 +43,74 @@ Known section assignments included:^16
 
 Kirk Wipper (Camp Kandalore, founder of the Canadian Canoe Museum) volunteered his camp for the dangerous Lake Superior section when no youth camp stepped forward, using Nor'wester alumni staff paddling two 25-foot Chestnut wood-canvas canoes.^16
 
+Latimer's own prospectus for the relay, "Our Centenary Journey," appeared in *Canadian Camping* in June 1966 — a year ahead of the event — and confirms from the organizers' side that Quebec's assigned leg was the Ottawa River. It names Peter Van Wagner and Father Guy Allard as the province's co-chairs, the two people who would have arranged which Quebec camp took that section.^21
+
 ## Kanawana's Participation
 
-Six Kanawana boys and two counsellors paddled from Deep River, Ontario to Britannia Beach on the west side of Ottawa — a distance described as 150 miles — between August 2 and August 9, 1967.^1 Deep River, historically the oldest and most well-established site of voyageur ritual baptism on the fur trade route, was chosen as the starting point for the Quebec section.^1 The trip leader, Yves St. Pierre, wrote the required historical essay documenting the route, covering the Ottawa River valley from its archaeological prehistory through Champlain's 1613 exploration and the fur trade era.^1 Phase 2 research identified an obituary lead: an Yves St-Pierre died on January 31, 2020, at age 76, in Montreal — consistent with a person who would have been approximately 23 in 1967 and thus of counsellor age.^17 Participants wore colourful plaid "lumberman" shirts and decorated their canoes with decals and crests.^1 [*Note: The navigable Ottawa River distance between these points is approximately 120 miles; the 150-mile figure may include tributary detours or portage distances.*]
+Six Kanawana boys and two counsellors paddled from Deep River, Ontario to Britannia Beach on the west side of Ottawa — a distance described as 150 miles — between August 2 and August 9, 1967.^1 This account does not originate with the thesis: McMorris cites it to a contemporaneous "Letter to Parents, 1 August 1967, from A. Ross Seaman, Camp Director," written by Kanawana's own director the day before the party set out and held at Concordia in P145/12B07.^20 Deep River, historically the oldest and most well-established site of voyageur ritual baptism on the fur trade route, was chosen as the starting point for the Quebec section.^1 Yves St. Pierre — described in the thesis as "one of the trip leaders," not merely the report's author — wrote the required historical essay documenting the route, covering the Ottawa River valley from its archaeological prehistory through Champlain's 1613 exploration and the fur trade era.^1 Phase 2 research identified an obituary lead: an Yves St-Pierre died on January 31, 2020, at age 76, in Montreal — consistent with a person who would have been approximately 23 in 1967 and thus of counsellor age.^17 Participants wore colourful plaid "lumberman" shirts and decorated their canoes with decals and crests.^1 [*Note: The navigable Ottawa River distance between these points is approximately 120 miles; the 150-mile figure may include tributary detours or portage distances.*]
 
 Derek Walsh represented "Kamp Kanawana, YMCA, Montreal, Quebec" in CCA Centenary Journey planning, as documented in the CCA fonds at Trent University Archives. It is unclear whether Walsh served as the second counsellor or was involved only in planning.^16
 
 Upon the paddlers' arrival at Britannia Beach, a busload of Kanawana campers greeted them, singing the Kanawana camp song.^1 The *Ottawa Journal* covered the arrival on August 10, 1967 (Figure 3.5 in the McMorris thesis shows the campers arriving).^1 ^15
 
 A published account of the full journey, *A Log of Canada's Centenary Journey* (1971), likely contains participant rosters by section, but appears out of print and not digitized.^16
+
+## The National Campfire, 9 August 1967
+
+The Centenary Journey had a second half that reached every camp in the country, not only
+the ones that paddled. The CCA asked every camp in Canada to light a campfire at the same
+moment on the night of **Wednesday, 9 August 1967** — "at varying times from 7 p.m. in the
+Yukon to 12:30 a.m. in Newfoundland," which places a Quebec camp's fire at about 11 p.m.
+Eastern Daylight Time.^22 The plan was announced in December 1966 and the finished script
+was distributed by John Latimer at the CCA annual meeting on 1 March 1967, then printed in
+full in the June 1967 issue of *Canadian Camping* so that any camp could use it.^22 It was
+explicitly for everyone: "designed for campfires in every campsite across Canada — whether
+it be at the home base, on the Centenary Journey Route, or any canoe trip or hike."^22
+
+**Kanawana's crew reached Britannia Beach on 9 August**, the same day. Whether they lit the
+national campfire on the water, at the finish, or whether the campers at Saint-Sauveur lit
+one at home — or both — is not documented here, and is worth asking of any surviving 1967
+camp log or Seaman correspondence.
+
+The ceremony ran as follows.^22 The camp assembles in a circle round an unlit fire and the
+person in charge calls, "O Fire-lighter, we await your arrival! Come forth now, into this
+circle! We bid you kindle for us this National Campfire for our Centennial Year!" The
+Fire-lighter enters "(in costume if desired)" and lights the fire in silence; the camp sings
+"O Canada," then hears an oration whose theme is that the voyageurs were campers — "We
+Campers of 1967 are thrilled with the realization that we belong to an illustrious line of
+Campers who helped to create our Country's colourful story… They ventured forth as
+explorers, coureurs de bois, voyageurs, fur-traders and priests, assisted by the earliest
+campers of all — their Indian guides." A prayer follows, headed "an Indian prayer from the
+Centennial Anthology of Prayer" (the anthology, not any named nation, is the only source
+given for it).
+
+The opening closes with a hymn written for the occasion by **Mary S. Edgar** — founder and
+first editor of *Canadian Camping*, founder of Glen Bernard Camp, and the CCA's honorary
+president — titled "**Canada's Our Country**," set to the hymn tune *Hermas*.^22 It was sung
+by a Toronto boys' choir at the March annual meeting.^22 Its first verse and chorus:
+
+> From the western Mountains / To the eastern seas / O'er the boundless prairies / Lakes and
+> land of trees: / From our Arctic tundras / To the southernland, / Canada's our Country. /
+> Pledge we heart and hand.
+>
+> *Chorus:* Proudly we proclaim it / Over land and sea, / Canada's our Country! / May we
+> worthier be.
+
+The middle of the campfire was left to each camp, with suggestions including a "Council Ring
+ceremony with challenges," pageants, tableaux and dramatized historical incidents. The
+suggested songs are a useful record of what a Canadian camp was expected to be able to sing
+in 1967: "My Paddles Keen and Bright," "The Canadian Boat Song," "Alouette," "Squid Jigging
+Ground," "Blow The Man Down," "Red River Valley," "Old Man Great Chief," "Bonhomme!
+Bonhomme!," "Land of the Silver Birch," "À la Claire Fontaine," "Vive La Canadienne," "Vive
+L'Amour" and "Hiawatha"; closing with Bobby Gimby's "Canada," "Some Call it Canada But I Call
+it Home," "This Land Belongs to You and Me," "One Hundred Years Ago" and "God Save the
+Queen."^22 The ceremony ends with "a torch-light circle or procession, followed by the singing
+or playing of TAPS," and a suggested birthday cake — "fun to bake on a canoe trip or with
+reflector ovens."^22
+
+The Centennial Commission did fund the project: the CCA's 1966 accounts record **$6,000 from
+the Centennial Commission for the Centenary Journey**, alongside $2,490 in membership fees and
+Fitness and Amateur Sport administrative grants of $976 and $1,676.^22
 
 ## The Centennial in Broader Context
 
@@ -60,7 +124,9 @@ The McMorris thesis devotes its third chapter — "The National(ist) Vehicle" �
 
 ## Open Questions
 
-1. [Critical, confirmed dead end 2026-07-10] Who were the six Kanawana boys and two counsellors on the 1967 Centenary Journey? One counsellor was Yves St. Pierre (trip report author), but names of the other counsellor and six boys remain unknown. Direct fetches of Concordia sub-sub-series 12B01 and 12B04 confirmed neither holds this material online. The recommended local-PDF-extraction retry was completed 2026-07-10 (direct `curl` download of the actual thesis PDF plus `pdftotext`, succeeding where WebFetch/jina.ai had failed): the thesis text itself does not name the six campers anywhere — it only includes an uncaptioned-by-name photograph (Figure 3.5, "Kanawana campers arriving in Ottawa"), sourced to *The Ottawa Journal*, August 10, 1967 (already cited as source #15 below). This newspaper issue was not retrievable via any tool available this session (Newspapers.com blocked by a Cloudflare bot check). This question is now genuinely exhausted for online/automated research; only a physical or paid-subscription read of that specific Ottawa Journal issue could resolve it.
+1. [Critical, **reopened with a specific archival target** 2026-08-14 — supersedes the "confirmed dead end" verdict of 2026-07-10] Who were the six Kanawana boys and two counsellors on the 1967 Centenary Journey? One was Yves St. Pierre, now identified as *one of the trip leaders* rather than only the report's author.
+   The earlier dead-end finding remains accurate as far as it went — the thesis text names no campers, Figure 3.5 is uncaptioned by name, and *The Ottawa Journal* of August 10, 1967 is behind a Cloudflare bot check — **but it ruled out the wrong boxes.** It tested Concordia sub-sub-series 12B01 and 12B04. The thesis's own footnotes 54–61 and 70 place every Kanawana Centennial document in a *different* box: **P145/12B07, "Canadian Centennial Canoe Trip"** — which holds the Seaman letter to parents, the St. Pierre historical sketch (22 September 1967), the CCA trip-report guidelines, a letter by Bill Pigot, the 1945 canoe-trip notebook, and the "Quebec Section of Centenary Journey 1967" map (Figure 3.6). A participant roster, if one survives, is most likely in that box. A second candidate holding is Trent University Archives, OCA fonds 72-007, Box 6, files 12–13 (Centenary Journey administration).
+   This is no longer an exhausted question but a specific unpulled request at two named archives. It still requires physical or mediated archival access; no online surface will resolve it.
 2. [Resolved] The route ran from Deep River, Ontario to Britannia Beach (west Ottawa), August 2-9, 1967 (8 days, ~150 miles). Trip report by Yves St. Pierre covers the Ottawa River route history. Resolved via McMorris thesis Ch.3.
 3. [Important] What was the "Canadian Centennial family camping project" at Kanawana in 1966-1967? Concordia archives reference but no details.
 4. [Important, advanced 2026-07-09] Did Kanawana send any delegation to Expo '67? Concordia sub-series P0145/13E (Expo 1967/Canadian Centennial) lists an item, "Expo 67-canoe tripping program. -- 1964" (Box HA1930), showing canoe-trip/Expo-67 planning was underway three years ahead of the Centennial — but the item does not name Kanawana explicitly, so this remains a lead, not a confirmed delegation/visit.
@@ -97,9 +163,16 @@ The McMorris thesis devotes its third chapter — "The National(ist) Vehicle" �
 17. cfgrandmontreal.com obituary notice: Yves St-Pierre, died January 31, 2020, age 76, Montreal. (Possible match for CCA Centenary Journey trip leader — age consistent.)
 18. Mes Aieux genealogy database, Yves St-Pierre/Lucette Gregoire 1970 marriage record [src_mesaieux_st_pierre] — weak, non-confirming corroboration only.
 19. Concordia University Archives finding aid, sub-series 13E (direct fetch, 2026-07-09), confirming the "Expo 67-canoe tripping program" item [src_concordia_13E_expo67]; sub-sub-series 12B01/12B04 (confirming these do NOT hold the missing 1967 material) [src_concordia_p0145_12a_finding_aid].
+20. "Letter to Parents, 1 August 1967, from A. Ross Seaman, Camp Director," YMCA of Montreal fonds, Kanawana Program, P145/12B07, Canadian Centennial Canoe Trip, CURMA — cited as footnotes 54–55 of the McMorris thesis and the origin of the six-boys/two-counsellors account [src_seaman_letter_parents_1967].
+21. Latimer, John. "Our Centenary Journey," *Canadian Camping*, June 1966, in the digitized 1949–1988 run [src_ia_canadian_camping_magazine].
+22. "Across the Land" (the National Campfire ceremony, printed in full, including Mary S. Edgar's "Canada's Our Country"), and May Brown, "Annual Meeting 1967," *Canadian Camping* Vol. 19 No. 4, June 1967, pp. 122–123, 130–133, in the digitized 1949–1988 run [src_ia_canadian_camping_magazine]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 75); an earlier pass took the A. Ross Seaman profile from this same issue and left the ceremony untouched.
+23. "Interview: May Brown," Jay Haddad's interview at Vancouver, 25 November 1976, *Canadian Camping* Vol. 34 No. 2 (Summer 1982), pp. 4-5 [src_ia_canadian_camping_collection]. Found by the same read (issue 142). May Brown was CCA President 1965-67.
+24. Douglas G. McEwen, "Canadian Camping Association Comes of Age," *Canadian Camping*, Autumn 1967, reprinted in Vol. 37 No. 3 (Autumn 1985), pp. 11-12 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 156).
 
 ## Research Notes
 
 <!-- R1 formal RALPH loop completed 2026-02-11. Rich KB material (22 facts from McMorris thesis extraction). Web research confirmed two distinct 1967 events and added significant detail on the Voyageur Canoe Pageant. Key gap: the identities of the six Kanawana boys and two counsellors. Concordia Archives sub-series 12B01 (season reports 1967) and 13E (Centennial records) are the priority leads. The McMorris thesis Figure 3.5 is a primary visual source. -->
 <!-- V1 VERIFY pass completed 2026-02-14. 9/10 factual claims independently confirmed via web sources. All Voyageur Canoe Pageant claims (dates, distances, teams, results, key figures) verified against Wikipedia, Canadian History Ehx, Manitoba Sports Hall of Fame, CBC archives. Bruce Hodgins dates confirmed. Don Starkell distance confirmed (12,181 mi matches Guinness). One flag: "150 miles from Montreal to Ottawa" exceeds known Ottawa River distance (~120 mi); McMorris thesis is sole source — flagged with editorial note. Kanawana-specific claims (6 boys, 2 counsellors) sourced to McMorris thesis only — cannot independently verify without archival access. -->
+<!-- Research pass 2026-08-14 (deep-research agent, thesis re-read from a full 251KB pdftotext extraction rather than the earlier 54KB landing-page cache). Three changes: (1) the six-boys/two-counsellors account is now attributed to its actual origin, Seaman's 1 August 1967 letter to parents, not to McMorris's own narration -- footnotes 54-55; (2) Yves St. Pierre is upgraded from "trip report author" to "one of the trip leaders," the thesis's own wording at footnote 58's context; (3) Open Question 1 is REOPENED. The 2026-07-10 "confirmed dead end" was a sound piece of work that tested the wrong boxes: it ruled out 12B01 and 12B04, but the thesis's footnotes put every Centennial document in 12B07. Reopening a question that a previous pass closed is the correct move here -- the closure rested on a negative result about material that was never in those boxes to begin with.
+     Also recorded (not yet a conflict): footnote 70 cites a "Centenary Canoe Trip 1967 letter by Bill Pigot." The KB separately holds a "Bill Pigott" on the 1988-89 Kamp Kanawana Committee. One-letter spelling difference, no source links them, twenty-one years apart -- plausible as the same person, but recorded as UNCONFIRMED (f_2030) rather than merged. -->
 <!-- E1 REVIEW pass completed 2026-02-14. Systematic quality review: (1) All claims cited — PASS. (2) Dates consistent with timeline — PASS. (3) Names cross-checked — PASS. (4) Cross-links all valid — PASS. (5) Encyclopedic tone — minor fix: removed "dramatically" from Lachine Rapids sentence. (6) Open Questions actionable with archival leads — PASS. (7) No unsourced speculation — PASS. Article advanced R3-verified → E1-reviewed. -->

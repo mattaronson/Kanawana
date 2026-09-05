@@ -1,6 +1,6 @@
 # Chris Adam
 
-*Status: draft | Sources: 6*
+*Status: draft | Sources: 8*
 *Last Updated: 2026-07-11*
 
 ## Overview

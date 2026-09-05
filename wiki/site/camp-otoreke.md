@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 16*
+*Status: E1-reviewed | Sources: 18*
 *Last Updated: 2026-07-09*
 
 ## Overview
@@ -14,6 +14,8 @@ Lake Saint-Joseph is located in the Township of Howard (now Saint-Adolphe-d'Howa
 Saint-Adolphe-d'Howard is a municipality in the Laurentians region of Quebec, in the Pays-d'en-Haut Regional County Municipality.^2 The Township of Howard was created in 1873, named after Frederick Howard, 5th Earl of Carlisle, a Commissioner of the Colonies during the American Revolution.^15 The municipality changed its name from Howard Township to Saint-Adolphe-d'Howard in 1939; the area was popularly known as "Villa Howard" and earned the reputation "Miami of the Laurentians" in the 1950s.^11
 
 ## Founding as Camp Jubilee (1894)
+
+*A note on the name: "Camp Jubilee" is the archival name for this site, used by Concordia's description of the YMCA of Montreal fonds and by QAHN, but never by the association itself while the camp ran — its own reports say simply "the Summer Camp at Lake St. Joseph." **Otoreke is the earlier-attested proper name of the two**, appearing in the annual reports from 1921-22. See [[history/founding-1894|The Founding of Camp Kanawana]] for the full explanation.*
 
 In 1892, Lemuel Cushing of the Montreal YMCA inaugurated the camping program by bringing a group of boys to Lake Saint-Joseph.^1 In 1893, YMCA staff conducted an exploration trip to the area, described as "the first Montreal YMCA venture to explore the country round about St. Agathe with the view of securing a lake on which to establish a Summer Camp."^4 Billy Ball formally established Camp Jubilee in summer 1894, bringing 20 campers to the Lake Saint-Joseph site.^5 ^6 The camp was named to commemorate the YMCA's 50th anniversary (founded 1844).^6
 
@@ -32,6 +34,45 @@ Camp Otoreke remained an active YMCA facility through the mid-twentieth century.
 The Concordia Archives hold dedicated Camp Otoreke records in sub-series P0145/12C, including situation reports (1977-1980) that profiled Otoreke alongside Kanawana and Camp Weredale as part of the YMCA's camping operations.^4 The sub-series is organized into seven sub-sub-series: 12C01 (General administration), 12C02 (Financial administration), 12C03 (Land/facilities/equipment/supplies), 12C04 (Communications), 12C05 (Staff/counsellors), 12C06 (Campers), 12C07 (Program).^4 The finding aid confirms the *existence*, though not the online content, of 1982 revenue/expenditure and tax-status records within 12C02 -- suggesting the closure year's finances were documented, though only a physical archive visit can retrieve them.^4
 
 Two cataloguing ambiguities surfaced in 2026-07-09 research, both unresolved without a physical visit: (1) two separate 1967 catalog entries — "Report of the Boys' and Girls' Camping Committee to the Metropolitan Planning and Development Committee of the YMCA of Montreal" (Box HA1881) and "Camp Otoreke report — Planning and Development" (Box HA2367) — may be the same document cross-referenced or two distinct related documents; (2) W.E. Cushing's 1943 manuscript appears under two variant titles/locations, "Early Days at Lake St. Joseph" (Box HA1881) and the previously-cited "Historical sketches — Lake St. Joseph" (Box HA2307) — possibly the same manuscript catalogued twice, or two distinct short pieces.^4
+
+## The Ski Lodge and Winter Operations (1929-1959)
+
+Otoreke was not only a summer site. Concordia's finding aid gives the ski lodge an entire sub-series
+of its own — **P145/12H, "Ski lodge"** — running from 1929 to 1959 and fetched for the first time in
+the 2026-08-25 mirror walk.^17 Its contents show a sustained winter operation with its own governance:
+a **"Ski lodge-H. C. Cross' file. - 1929-1946"**; a **"Memorandum proposing ski club. - 1941"**;
+**"Correspondence, memoranda, reports on ski facilities. - 1946-1950"**; a **"Ski program-
+correspondence. - 1948-1949"**; annual reports for **1954-1955** and **1955-1956**; and a file
+recording **"What the Otoreke Ski Lodge Committee wants in facilities at the Mainland Inn"** — so
+there was a standing Ski Lodge Committee with stated requirements. Ski lodge photographs survive,
+dated only to the 1940s, 1950s or 1960s.^17
+
+The sub-series also documents a property purchase this wiki had no record of: **"Purchase by YMCA of
+Christieville property. - 1948-1951,"** with related files on a "Friendly Home-Christieville rental"
+(1948), the "Christieville site" (1949), and "Christieville ski lodge correspondence" (1959).^17 The
+Y appears to have acquired a separate winter property and run it for at least a decade.
+
+Two consequences for the rest of this wiki. First, the H. C. Cross file spanning **1929-1946** is the
+longest single documented span for [[people/harold-cross|Harold C. Cross]] anywhere in the archive,
+and it ties him specifically to winter programming. Second, CLAUDE.md's Phase 2 mandate lists
+"Winter Programming (if evidence found)" as an article to spawn conditionally. **The evidence is
+found** — though it is winter programming at Otoreke, not at Kanawana, which is a distinction the
+eventual article will have to hold onto.
+
+**None of these files has been read.** The finding aid establishes that they exist, with those titles
+and those dates. It says nothing about what is in them.
+
+## Newly Read Finding Aids for Otoreke Itself
+
+The same walk fetched six sub-sub-series covering Otoreke's own administration, none previously held:
+general administration (12C01), finance (12C02), land and facilities (12C03), communications (12C04),
+staff (12C05), and programme (12C07).^18 Items worth naming: a **1921 surveyor's blueprint of Lacs
+St-Joseph, Ste-Marie and Théodore**; the **"Dedication service of the chapel. - 1941"**; a
+**"Submarine telephone cable across Lake St. Joseph. - 1963"**; **"Camp Otoreke songs. - 1941"**; a
+**1938 "Campers' petition re director's re-appointment"**; and, in Box HA160, HA2321 and HA2652,
+**film reels and sound recordings** related to the camp — the only known moving-image and audio
+material for either site. The 1936 mixed-gender evaluation from 12C01 is treated in
+[[history/coeducation-gender|Coeducation and Gender at Kanawana]].
 
 ## Relationship to Kanawana
 
@@ -88,6 +129,8 @@ Camp Otoreke closed in 1982 after nearly 90 years of continuous operation.^1 The
 14. BaladoDecouverte, Saint-Adolphe-d'Howard heritage tour: YMCA island acquisition 1897, 80 campers. (Note: conflicts with QAHN on island count — see c_008.)
 15. Phase 2 research (recovered June 2026): Township of Howard created 1873, named for Frederick Howard, 5th Earl of Carlisle.
 16. "Camp Otoreke Blog" (self-published alumni blog, est. 2005) [src_otoreke_blog_2005]. Low reliability — single uncorroborated source with anonymous commenters.
+17. Concordia University Archives, YMCA of Montreal fonds P145/12H — Ski lodge (finding aid) [src_concordia_mirror_12h]. Static-HTML mirror, fetched and extracted 2026-08-25. See [f_2259].
+18. Concordia University Archives, YMCA of Montreal fonds P145/12C01–12C07 (finding aids) [src_concordia_mirror_12c01, src_concordia_mirror_12c02, src_concordia_mirror_12c03, src_concordia_mirror_12c04, src_concordia_mirror_12c05, src_concordia_mirror_12c07]. Same walk. See [f_2258].
 
 ## Research Notes
 

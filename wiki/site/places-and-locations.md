@@ -1,7 +1,7 @@
 # Places and Locations at Camp Kanawana
 
-*Status: E1-reviewed | Sources: 20*
-*Last Updated: 2026-07-09 (systematic open-questions pass: full place-name catalogue of the 1941, 1980-2001, and 2025 camp maps; Concordia P145/12B03 finding aid read directly; "Indian Grave" location resolved; the Millen Memorial Craft Shop and a near-complete current cabin inventory added)*
+*Status: E1-reviewed | Sources: 21*
+*Last Updated: 2026-08-14*
 
 ## Overview
 
@@ -72,6 +72,20 @@ A named location on the shoreline/peninsula between Lake Wilson and Lake Kanawan
 
 A building labeled at the southwest corner of the property, near the camp's entrance road, on the 1941 map [f_1789]. Not identifiable with any building named on later maps — possibly renamed, demolished, or simply outside the area later maps cover.
 
+### The c.1978 building legend — 32 named structures
+
+A camp orienteering map in the digitized fonds carries the fullest building legend the project has, thirty-two numbered structures plus named natural features:^21
+
+> 1 SANCTUM · 2 BATHROOM · 3 COMPASS · 4 KATIMAVIK · 5 GRAND PORTAGE · 6 NORTHERN LIGHT · 7 INFIRMARY · 8 LA CACHE · 9 NORTH WIND · 10 TRIPPERS' INN · 11 MIDI DU SOLEIL · 12 DINING HALL · 13 CAR WASH · 14 B.O./MAINTENANCE SHED · 15 WASHUM · 16 PROGRAMMING OFFICE · 17 CHIEF'S CABIN · 18 LODGE · 19 BATHROOM · 20 SOUTH WIND/ICEBOX · 21 ARTS & CRAFTS · 22 LIGHTHOUSE · 23 LADIES SHOWER · 24 BATHROOM · 25 TEPEE · 26 LOOKOUT · 27 WATERFRONT CABIN · 28 CARETAKER'S HOME · 29 CABOOSES · 30 FARMHOUSE · 31 BLOCKHOUSE · 32 BARN
+
+Plus, as separate labels: FIELD, ARCHERY FIELD, SWIMMING, BOATING WATERFRONT, CHAPEL, SAUNA, WOODSMAN'S POINT, FAREWELL ROCK, SUNSET, KAMPSITE.
+
+A **compass-and-light naming scheme** is visible here — North Wind, South Wind, Northern Light, Midi du Soleil, Lighthouse, Compass — and the 1979 director's report confirms it was live, listing "pioneer cabins and Lighthouse," "Southwind," "Grande Portage," "Northern Wind" and "Cabooses" among buildings needing work.^21
+
+**A dating warning.** This map is catalogued as **1974** and cannot be. It shows **Katimavik**, which the 1978 director's report calls "the new recreation hall"; the **sauna**, built in summer 1974; and the **Grand Portage**, first named in 1976. The map is **c. 1978–1982 at the earliest**. The "1974" is Internet Archive metadata, not the document's own date — the same class of error as the two annual reports in that collection misdated by a century.
+
+Two earlier undated hand maps give an older set — CRAFTSHOP, LODGE, **LONG HOUSE**, DINING HALL, BUSINESS OFFICE, CHIEF'S CABIN, PUMP HOUSE/CARWASH, WINDWARD HO!, COMPASS, HOSPITAL, TEE PEE, LOOKOUT, plus SNOWSHOE as a lake name. Because they show the Long House, they must date between **1952 and 1978**.^21
+
 ### Named Places on the 1928 and 1962 Maps
 
 Direct examination of the McMorris thesis's embedded map figures (2026-07-09) — the first time this project has viewed the 1928 and 1962 maps directly rather than through her prose description — surfaces many names not otherwise documented:
@@ -101,7 +115,9 @@ Grand Portage was demolished around 2006 to make way for the new washroom buildi
 
 A large **2- or 3-story pavilion/boathouse** on the Boating Waterfront (due south of the Dining Hall), right at the shoreline of Lake Kanawana.^15 It was used for **large group gatherings and dances**, and the **Boating Director** — at one point known by the title "**the Admiral**" — had living quarters in it.^15
 
-The Longhouse was demolished by **controlled fire** around 1979 because it was in an irreparable condition.^15 The demolition falls within the Dave Twynam directorship era. A "Long House" also appears, numbered, on the 1962 camp map [f_1812] — plausibly the same building at an earlier point in its history, though this hasn't been explicitly confirmed by any single source connecting the two.
+**The Longhouse is now dated precisely at both ends: built 1952, demolished 1978.**^21 The Montreal YMCA's 1952 Annual Report announces it: "Campers and staff will look back on 1952 as the year of the '**Long House**'. Officially opened and dedicated in mid-July, this spacious waterfront recreation hall was a great asset, especially for rainy weather program, with its **large stone fireplace and stage**. It also provides winter storage space for the entire camp fleet of **50 boats and canoes**, and quarters for the waterfront directors." It needed roof work by 1969, ranked second only to the dining hall among capital priorities that year, was still on the 1976 major-concerns list, and the 1978 director's report records "**demolition of the old 'Longhouse' (32' x 70')**" — giving both the year and the building's dimensions.
+
+That supersedes the "c. 1979, controlled fire" account below, at least as to date. This article previously said the Longhouse was demolished by **controlled fire** around 1979 because it was in an irreparable condition.^15 The demolition falls within the Dave Twynam directorship era. A "Long House" also appears, numbered, on the 1962 camp map [f_1812] — plausibly the same building at an earlier point in its history, though this hasn't been explicitly confirmed by any single source connecting the two.
 
 ### The Lookout (Pre-1894)
 
@@ -292,7 +308,22 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 | 1922 | Council Ring built by senior campers | [f_0231] |
 | 1923 | Two pavilions, chapel, icehouse, hospital, Council Ring all operational | [src_brochure_1923] |
 | 1927 | Totem pole and teepee added to Council Ring under Harold Cross | [f_0233, f_0234] |
-| 1929 | Council Ring rebuilt to seat 325 | [f_0235] |
+| **1928** | Council Ring enlarged and rebuilt to seat 325, under **Karol Perry**. *Corrected from 1929 on 2026-08-14: the annual report describing it is the 1929 one, which covers the 1928 season; the 1932 Green Triangle independently attributes the work to 1928* | ^21 |
+| **1932** | Council Ring **completely rebuilt** with stronger foundations under **Jim Carnegie** | ^21 |
+| **1936** | Bantam cabins erected | ^21 |
+| **1938** | Water system and latrines constructed | ^21 |
+| **1939** | Showers installed | ^21 |
+| **1942** | Junior cabins built and fourteen new tent platforms constructed for Intermediate and Senior campers; in the fall, seven new open-sided Junior cabins under Ross Wiggs, contracted to **E. C. Page** | ^21 |
+| **1947-51** | Under Roy Locke: a completely new main wharf, a new cabin for the Senior Section Director, electrification, an automatic chlorinated water system, and electric refrigeration | ^21 |
+| **Sept 1951** | New boat house planned, to replace the lower pavilion | ^21 |
+| **1952** | **The Long House** built and dedicated mid-July — waterfront recreation hall, large stone fireplace and stage, winter storage for 50 boats and canoes, 32' x 70' | ^21 |
+| **1953** | New **craft shop** opened, overlooking the lake, "similar to the Long House" in structure | ^21 |
+| **1954** | The Y's Men's Club of Westmount "provided Kanawana with an Indian Council Ring" — a donated rebuild or second ring, **not** a founding | ^21 |
+| **1974** | Outdoor **sauna** built across the lake by the oldest senior boys | ^21 |
+| **1976** | **Grand Portage** first named, with balconies repaired that year; its interior was still unfinished in 1979 | ^21 |
+| **1978** | **Katimavik** recreation hall opened, with its own opening ceremony; the Longhouse demolished (32' x 70'); a new tipi erected across the lake | ^21 |
+| **1987** | Council Ring razed and rebuilt by a senior boys' tent under **Toby Desjardins**; the **Suez** bridge razed and rebuilt by the entire senior boys section; "the cave" stripped, scrubbed and repaired with new steps | ^21 |
+| 1929 | *(superseded — see the 1928 entry above)* Council Ring rebuilt to seat 325 | [f_0235] |
 | 1935 | Golf course, open-air chapel, and "the haunted house" all referenced | [src_history_1935] |
 | 1938 | Dining pavilion/hall, outdoor chapel with choir documented | [src_green_triangle_1938] |
 | 1959 | Section names changed to Pioneers, Woodsmen, Coureurs des Bois, Pathfinders | [f_0216] |
@@ -382,3 +413,4 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 18. McConnell Foundation, "YMCAs of Quebec" funding database [src_mcconnell_foundation_ymca]
 19. Concordia University Archives, YMCA of Montreal fonds, sub-sub-series P145/12B03 (Land, facilities, equipment, supplies) [src_concordia_12B03]
 20. Camp YMCA Kanawana Preparation Guide, Summer 2025 [src_kk_prep_guide_2025]
+21. Kanawana material in the Concordia-digitized YMCA of Montreal fonds: the camp orienteering map (catalogued 1974, internally c.1978+); "Kamp Kanawana History," 6 June 1951 [src_ia_kanawana_history_1951]; YMCA of Montreal Annual Reports 1929, 1952, 1953, 1954 [src_ia_ymca_montreal_annual_reports_collection]; *The Green Triangle* 13 August 1932; Kanawana season reports 1969, 1974, 1976, 1978, 1979 and 1987 [src_ia_kanawana_report_1969, src_ia_kanawana_report_1974, src_ia_kanawana_directors_report_1976, src_ia_kanawana_report_1978, src_ia_kanawana_report_1979, src_ia_kanawana_report_1987]; and *Kanawana… A Place to Grow*, 1988 [src_ia_kanawana_place_to_grow_1988] — whose facilities table gives bracketed construction years including house [1935], infirmary [1945], **lodge [1880's]**, dining hall/kitchen [1919], arts & crafts centre [1932] and bathroom buildings [1945]. *Two of those conflict with the 1951 history, which gives the dining hall as 1920 and the lodge as 1927. The 1880s lodge date is the harder problem: the site was not purchased until 1910, so it would have to be a pre-existing farm structure later converted. Both readings are defensible and neither is adopted here.*

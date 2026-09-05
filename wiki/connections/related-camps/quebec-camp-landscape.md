@@ -1,7 +1,7 @@
 # The Quebec Camping Landscape
 
-*Status: E1-reviewed | Sources: 23*
-*Last Updated: 2026-07-10*
+*Status: E1-reviewed | Sources: 25*
+*Last Updated: 2026-09-04*
 
 ## Overview
 
@@ -26,8 +26,8 @@ This is also the wiki's answer to a question the folder structure alone doesn't 
 | Camp B'nai Brith | B'nai Brith Canada (Mount Royal Lodge) | Regional peer (Jewish) | 1921– | Not confirmed in current sources | *(covered above, no standalone article)* |
 | Camp Massad Montreal | Montreal Va'ad Ha'ir | Regional peer (Jewish, Orthodox) | 1947– | Not confirmed in current sources | *(covered above, no standalone article)* |
 | Colonie de vacances Sainte-Jeanne-d'Arc | Independent (Catholic) | Regional peer (Catholic, girls) | 1926– | Not confirmed in current sources | *(covered above, no standalone article)* |
-| Big Cove YMCA Camp | YMCA (Nova Scotia) | National peer; Canada's oldest residential camp, 5 years older than Kanawana | 1889– | Not confirmed in current sources | *(covered above, no standalone article)* |
-| Camp Pine Crest | YMCA of Greater Toronto | Direct source of Kanawana's L&V Games tradition (adopted 1947) | 1910– | Not confirmed in current sources (Pine Crest Games described as an unbroken tradition since 1940) | [[connections/related-camps/camp-pine-crest\|Camp Pine Crest]] |
+| Big Cove YMCA Camp | YMCA (Nova Scotia) | National peer; claims to be Canada's oldest residential camp. Founding date disputed: 1889, 1890 or 1891 — see note below | 1889/1891– | Not confirmed in current sources | *(covered above, no standalone article)* |
+| Camp Pine Crest | YMCA of Greater Toronto | Stated inspiration for Kanawana's L&V Games (adopted 1947), per YMCA Quebec | 1910– | Not confirmed in current sources (Pine Crest Games described as an unbroken tradition since 1940) | [[connections/related-camps/camp-pine-crest\|Camp Pine Crest]] |
 | Camp Kitchikewana | YMCA (Simcoe/Muskoka) | National peer; listed alongside Kanawana in OCA "Y camps" records | 1919– | Active (over 105 years of continuous operation, per source) | *(covered above, no standalone article)* |
 | Camp Wanakita | YMCA Hamilton-Burlington-Brantford | National peer | 1953– | Not confirmed in current sources | *(covered above, no standalone article)* |
 | John Island Camp | YMCA of Northeastern Ontario | National peer | 1954– | Not confirmed in current sources | *(covered above, no standalone article)* |
@@ -68,6 +68,15 @@ Camp B'nai Brith of Montreal was established in 1921 by the Mount Royal Lodge of
 
 Camp Massad is a Hebrew-speaking Jewish summer camp founded in 1947 on Lac Quenouille in Sainte-Agathe-des-Monts.^8 It is shomer Shabbat with a kosher kitchen under the Montreal Va'ad Ha'ir. Founded in modern Orthodox practice but welcoming children from all Jewish backgrounds, Camp Massad represents the religiously-affiliated camp tradition that developed alongside the secular YMCA model.^8
 
+### Camp Lighthall / the Junior League Camp (1921–at least 1976)
+
+A subsidized girls' camp in the Saint-Sauveur / Sainte-Marguerite area, founded 1921 by a Miss
+Lighthall on family property and sponsored by the Junior League of Montreal. Known as "the Junior
+League Camp" until some point between 1967 and 1972, then as Camp Lighthall. **Kanawana's nearest
+documented camp neighbour** — it appears in eleven issues of *The Green Triangle* between 1932 and
+1940, shared a camp doctor with Kanawana in 1938, and was directed at some point by Margaret Seaman,
+wife of Kanawana's own director. See [[connections/related-camps/camp-lighthall|Camp Lighthall]].
+
 ## Women's Camps and the YWCA
 
 The Montreal region produced some of Canada's earliest girls' and women's camps:
@@ -88,7 +97,9 @@ The connection between these women's camps and Kanawana is more than geographic.
 
 Kanawana's institutional connections extend across Canada through the YMCA network. These camps shared programming traditions, staff training models, and in some cases direct influence on each other's development:
 
-- **Big Cove YMCA Camp** (1889, Merigomish, Nova Scotia): Canada's oldest residential camp, five years older than Kanawana.^12
+- **Big Cove YMCA Camp** (Merigomish, Nova Scotia): described in its own national magazine as "the oldest camp in Canada," but with **three founding dates in circulation — 1889, 1890 and 1891** — the last given by the camp's own director in 1987.^12 ^25
+
+**A note on "oldest", added 2026-09-05.** This article opens by calling Kanawana "the oldest residential summer camp in Quebec," which no source disputes. It has elsewhere carried the further claim that Kanawana was **Canada's second-oldest**, and that ranking has been withdrawn. Big Cove's dates range over 1889-1891, and in the summer of 1987 **YM-YWCA Camp Stephens** on the Lake of the Woods stated in the same magazine that it "has been providing resident camping experiences for youth **since 1891**" and was planning a centenary for 1991 — while this wiki separately holds [[people/t-duncan-patton|T. Duncan Patton]]'s account dating annual camps there from **July 1894**.^25 Three of the four candidate dates for Canada's oldest camp fall in 1889-1891, and Kanawana's 1894 follows all of them. The Quebec claim stands; the national ranking does not. See conflict `c_031` and [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]].
 - **[[connections/related-camps/camp-pine-crest|Camp Pine Crest]]** (1910, Muskoka, Ontario): Source of the Lumbermen-versus-Voyageurs tradition that Kanawana adopted in 1947 as its L&V Games.^13
 - **Camp Kitchikewana** (1919, Beausoleil Island, Georgian Bay): Over 105 years of continuous operation. Listed alongside Kanawana in OCA "Y camps" records.^14
 - **Camp Wanakita** (1953, Koshlong Lake, Ontario): Named after a beach at Camp Kitchikewana. First season: 373 boys, 38 staff, $18,882 budget. YMCA Hamilton-Burlington-Brantford.^15
@@ -104,9 +115,11 @@ Several patterns emerge from the Quebec and Canadian camp landscape:
 
 **The Laurentian geography.** The concentration of camps in the Laurentians — Kanawana at Lac Kanawana, Otoreke at Lake Saint-Joseph, Tamaracouta at Mille-Isles, Pripstein at Saint-Adolphe-d'Howard, Weredale at Lac l'Achigan, Oolahwan at Lake Walfred — reflects the region's accessibility from Montreal by rail and later by road, and its abundance of suitable lake-and-forest terrain.
 
-**Parallel traditions.** The [[traditions/lv-games|Lumbermen-versus-Voyageurs]] team division appears at Pine Crest (since 1940), Kanawana (since 1947), and Hayo-Went-Ha in Michigan (as "Woodsmen vs Voyageurs"), suggesting a shared YMCA programming tradition rather than a single point of origin.^18
+**Parallel traditions.** The [[traditions/lv-games|Lumbermen-versus-Voyageurs]] team division appears at Pine Crest (from 1940) and Kanawana (from 1947), with YMCA Quebec's own history naming Pine Crest as the inspiration. A Hayo-Went-Ha (Michigan) parallel was previously cited here as evidence of a diffuse shared tradition rather than a single origin — that reading was **retracted on 2026-07-09** after direct fetches showed Hayo-Went-Ha's "Woodsmen" and "Voyageurs" are age-based program levels, not competing teams. The wider ancestor is the American "Color War" genre (Schroon Lake Camp, 1916), not a YMCA-specific lineage.^18
 
 **Religious and cultural diversity.** The Quebec camp landscape encompasses Protestant (YMCA/YWCA), Catholic (Sainte-Jeanne-d'Arc), Jewish (Massad, Pripstein), and secular traditions, each serving distinct communities but occupying the same regional geography.
+
+**Who else was in the association.** Two Quebec camping institutions appear in the Canadian Camping Association's April 1978 newsletter that this article had not recorded.^24 **Pripstein's Camp** is identified there as "a Q.C.A. member" — so the independent Jewish camp at Saint-Adolphe-d'Howard described above belonged to the same accrediting association as Kanawana, and its director, a Mr. Braverman, was writing to the American Medical Association about whether a trampoline was safe at a children's camp. And **Wilfred A. Jackson**, who chaired the Quebec Camping Association English Section's 40th anniversary conference in March 1977, is identified as "**Director of Camps and Conference Centre of the Catholic Community Services, Inc., Montreal**."^24 Catholic Community Services was therefore a Montreal camp operator substantial enough to employ a full-time director of camps, and that person was senior enough in the provincial association to run its fortieth-anniversary conference. Both belong in any account of who actually sat around the Quebec association's table with Kanawana's director.
 
 ## Open Questions
 
@@ -142,6 +155,8 @@ Several patterns emerge from the Quebec and Canadian camp landscape:
 21. "Report on Camp Dorval - Season 1928," Internet Archive [src_camp_dorval_1928]. Verified genuine via archive.org metadata API and direct OCR text fetch, 2026-07-10.
 22. Concordia University Archives, sub-series 12N (Camping associations), sub-sub-series 12N01-12N04 [src_concordia_12N_camping_associations].
 23. Trent University Archives, Quebec Camping Association fonds (85-013, 1948-1982) [src_trent_qca_fonds].
+24. Wilfred A. Jackson, "Planning Your Years — A Maintenance Program," and "Trampolines," *Canadian Camping* Vol. 30 No. 2 (April 1978), pp. 8-9, 11-12 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 118); Jackson's role at the QCA's 40th anniversary conference is from Vol. 29 No. 2 (March 1977), p. 1 (issue 112).
+25. "Y.M.-Y.W.C.A. Camp Stephens," by Grant Platts, Scott McGregor and Juliane Schaible, p. 21, and "What's In A Name? Camp Stephens," p. 27, *Canadian Camping Magazine* Vol. 39 No. 1 (Summer 1987); with Kelley Byrne, "A Tribute to the Oldest Camp in Canada! Big Cove YMCA Camp," *Canadian Camping Magazine* Vol. 38 No. 3 (Winter 1987), p. 8 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issues 160 and 162).
 
 ## Research Notes
 

@@ -1,7 +1,7 @@
 # Camp Ouareau and Its Connections to Kanawana
 
-*Status: E1-reviewed | Sources: 10*
-*Last Updated: 2026-07-10*
+*Status: E1-reviewed | Sources: 13*
+*Last Updated: 2026-09-04*
 
 ## Overview
 
@@ -9,7 +9,7 @@ Camp Ouareau is an all-girls summer camp (now serving girls and gender minoritie
 
 ## Founding and Early History
 
-In 1921, Jamieson and Halliday acquired land from Mr. Leguerrier on Lac Ouareau. Under Quebec law at the time, the women needed their fathers' permission to purchase property.^2 The camp opened in 1922, with both co-founders serving as directors for the first two seasons (1922–1923). Jamieson became sole director from 1924, serving until 1934.^1
+In 1921, Jamieson and Halliday acquired land from Mr. Leguerrier on Lac Ouareau. Under Quebec law at the time, the women needed their fathers' permission to purchase property.^2 The camp opened in 1922, with both co-founders serving as directors for the first two seasons (1922–1923). **The 1922 date is independently corroborated by the national association**, whose Central Region report for Spring 1982 lists among "some special anniversaries in the Central Region": "**(Qué) Camp Ouareau — 60 years**", alongside Glen Bernard Camp in Ontario at the same age.^11 A sixtieth anniversary observed in 1982 puts the founding at 1922, which is the camp's own date and not the competing 1920 claim — a second source, in a different decade and a different country's-worth of records, saying the same thing. Jamieson became sole director from 1924, serving until 1934.^1
 
 The Lodge, built in 1922, is one of the oldest log buildings still in use in Canada.^3 The property encompasses 14.5 hectares on Leguerrier Bay, including a peninsula and two islands, at 2464 Route 125, Notre-Dame-de-la-Merci.^2
 
@@ -36,6 +36,60 @@ Jamieson's role at the YMCA or YWCA of Montreal placed her within the same organ
 Although Camp Ouareau operated in English from its founding, it became bilingual in 1976, and today roughly half of registrations are francophone.^4
 
 In 2014, Camp Ouareau changed its team names from Iroquois, Algonquin, and Micmac.^8
+
+## Madeleine Allen's 1977 Survey of Camp Parents
+
+In March 1977 Camp Ouareau's director published Part 1 of a survey asking parents why they sent their daughters to camp — the only systematic study of Quebec camp parents in the *Canadian Camping* run, and the closest thing this project has to evidence about what a Quebec camp's clientele actually wanted in the 1970s.^9
+
+The method is given in full. A questionnaire went to **150 parents** with the May camp mailing, against a total registration of **195 campers over the two-month season** (the gap accounts for families with more than one child, and for six-week and season campers; "the usual registration period is four weeks"). Returns were **unsigned and uncoded** "to encourage frankness," and **100 of 150 came back — a 66% response**. Parents ranked seven reasons for sending a child to camp: learning to live with others, widening contacts, developing independence, learning another language, family situations, fun in the out-of-doors, and learning skills.
+
+The results, by first-choice priority: **living with others 40%**, **fun in the out-of-doors 28%**, and **skills last**. Allen's own explanation for the last of these is a fact about her camp's families rather than about camping: "**Eighty-two per cent of the families have summer cottages available**," and most campers "come from large cities where swimming and sports are available in the schools and youth clubs." Broken down by age, "living with others" mattered about equally to parents of every group, but **fun was named first by 45% of parents of 13-15s against 15% of parents of 6-9s** — which prompted the survey's sharpest passage, a director questioning her own profession's structures:
+
+> "This leads me to question camps' emphasis on skills and of giving this older age group any automatic, built-in over emphasis of responsibility. **Should we not continue, or go back to, letting them just be themselves, to relax and have fun without the stresses and challenges of responsibility… be it tribal chiefs, test passing, 'super senior' programs, team leadership**, or what have we, unless they themselves, the individual camper, really wants it?"
+
+That is a Quebec camp director in 1977 asking whether the senior-camper leadership apparatus — the same family of structures as Kanawana's sections, tests and honours — served the campers or the camp.
+
+Two further findings are worth recording. On language, Allen states that "**Ouareau is the only English speaking, private, girls' camp in the province of Quebec**," that there was "a great desire on the part of many French speaking parents to have their children learn English," and that the camp therefore **capped francophone registration at 10% per section** so that those who came "will have the experience of almost total immersion." (The article's note above that Ouareau "became bilingual in 1976" should be read against this: in 1977 its own director describes an English-immersion camp with a francophone quota.) And on the parents themselves: **44 mothers and 47 fathers had been campers**, 14 and 15 of them on staff; **35 families had no camping experience at all**, and 26 had two camp-going parents. Of the campers, only a third had been to any other camp, and 60% of those to private camps.
+
+Allen closes with a caution this project can borrow: "Research was defined as the satisfying of curiosity… **a great number of children attend a certain camp because of a friend, or because of good advertising, or because a parent may just think it is a good idea.** I don't think for a moment that very many parents have all the criteria which I have listed in their minds when they make the decision to send a child to camp." Part 2 was promised but has not yet been reached in the read.
+
+## Madelene Allen on the French-speaking child at an English camp (1985)
+
+In 1985 Allen won a Society of Camp Directors Awards Paper prize for an essay printed in *Canadian Camping* in English and in full French translation: "The Kid Who Doesn't Speak English… How Do We Help?" / "L'enfant qui ne parle pas anglais". It is the fullest treatment of the question anywhere in the magazine's digitized run, 1949-1988, and it opens by saying the profession was failing at it:
+
+> "We all know these children. They are the ones who step off the bus with big frightened eyes… **In too many cases the most short changed children at our summer camps are these children who don't speak English. Camps are not in tune with this growing segment of our camper population.**"^12
+
+Her method is specific enough to be tested against any camp's records. **Before arrival**, a letter from the director in the child's language — "translation can be expensive, but it is a worthwhile and necessary investment. You will find language students at your local university more than willing to earn a few dollars" — enclosing the daily timetable and "**a dictionary of fifty or so basic camp words… words such as assembly, bug juice, morning dip… words that he would never meet in his English class**." **On arrival**, the director meets the child personally, and if the response is tearful, "listen and then give him the biggest hug you can. **Body language is the most crucial communication tool you have at this moment.**"
+
+**Then two deliberate refusals.** Do not place the child in a cabin with a fluent speaker of his own language: "Like a drowning man clinging to a life preserver, Jean Pierre will cling to that camper. Let him make the effort to find someone else who speaks French. In his search he will meet others who do not and **he will learn the magic of a smile**." And do not give him a fluent counsellor either — "a little is better than a lot in this case" — but do free one staff member for a few minutes each day, with a method shared consistently across the whole staff rather than delegated to one person.
+
+The teaching method is the "**core phrase**", demonstrated by a swimming instructor who has other campers dive before asking the new child to, so that the word arrives attached to an action. Around it Allen sets out what staff should expect: exasperation ("it doesn't matter that they have told him something five times. **He didn't understand five times!**"); predictable withdrawal at bedtime, because "**it is absolutely exhausting to live in a foreign language. It is an indescribable form of fatigue which attacks body and soul as well as brain**" — with the instruction not to skip the tuck-in even so, since "he will recognize the kind tone of his voice"; a regression about ten days in, "a well documented effect of immersion," which she explains by the analogy of driving in a snowstorm, concentrating so hard on the road that no landmark registers; and, rarely and in younger children, "**an irrational fear of losing his own language and following from this the fear that his parents will not understand him when he returns home**."
+
+Two practical rules close it. The **25% rule**: "assume that he understands about 25% of what he appears to understand. **Living in another language makes one a wonderful actor.**" And the **cabin dictionary**, built at rest hour by the whole cabin, each new English word illustrated and the French equivalent written beside it by the child himself — "he may think he doesn't know it, but as soon as he sees the picture the word will come to mind and he will discover he knows far more than he thought he did."^12
+
+Her ethical line is unqualified: "**A camp should not, under any circumstances, accept a child who does not speak English unless it is willing to become totally involved in giving the child the time and the teaching necessary to overcome the initial panic which comes from not understanding what is going on around him.**"
+
+**For this project the essay is a standard, not a finding about Kanawana.** Kanawana was an English-language YMCA camp drawing on a bilingual city, and nothing in the record so far describes how it handled French-speaking campers. Allen was running a Quebec camp with the same problem twenty miles away and wrote down what she thought it required; any future evidence of Kanawana's practice should be read against it.
+
+## Madelene Allen supplies the national devotional page (1987)
+
+In the spring of 1987 the national magazine's "Under Open Skies" devotional pages carried three texts "submitted by **Madelene Allen, Camp Ouareau, St. Donat, Quebec**": "A Camper's Prayer," a version of the Cub-Scout Prayer adapted from Catherine Marshall's *God Loves You*, and "**A Benediction**".^13
+
+The last is worth setting down, because it is the same formula the magazine had printed anonymously as a "Council Closing" five months earlier, in different words:
+
+> "May the Silence of the hills, / The Joy of the wind, / The Music of the birds, / The Fire of the sun, / The strength of the trees, / And the Faith of youth, / In all of which is God, / Be in our hearts / Now and evermore."
+
+Two things follow. Allen is the only Quebec camp director this read has found supplying content to the national magazine's devotional pages, which is a small measure of the province's presence in the movement's shared material at a period when its presence in the movement's business was thinning. And the pairing of the two versions is evidence about how camp liturgy travelled — orally, in variants, without authors — which is set out at [[site/council-ring|The Council Ring]].
+
+## Edgar Blais, the camp's chef
+
+Camp records rarely name kitchen staff, and almost never remember them. Camp Ouareau's director wrote a tribute to hers in October 1979, and it is the only piece in the whole 1949-1988 run of *Canadian Camping* about a camp cook.^10
+
+> "Last week we lost our chef who had been with us for seven years. No famous man whose death would make headlines, but a simple man who did so much for camping by making campers happy with what came from the kitchen. **No executive post on the association, no articles written, just work at a hot stove for long hours.** Contributions to camping vary and I would like to ask you to spare a thought for an unknown to you, **Edgar Blais**, and to stop for a moment and appreciate your own chefs."
+
+The verse that follows records how he was hired and how he died: "**To our door he came, out of work, dejected. Sent to camp's winter door by Manpower. 'Can you cook? Do you like children?' 'Mais oui.' 'Can you take long hours and little help?' 'Mais oui.'**" — and, at the end, "**Edgar is gone, not by choice… But a notice in a small town paper was the final severance: 'est décédé accidentellement M. Edgar Blais.'**" He had been at Ouareau seven years, so from about 1972, and the tribute is bilingual in the way the camp was not: an English camp, a francophone cook, "Je t'aime Madame."
+
+It is worth recording here for two reasons. It is a dated fact about Camp Ouareau — a named employee, his years, his hiring through Canada Manpower, his accidental death in 1979. And it is the closest thing this project has to evidence about a category of camp worker who appears in no plaque, no directory and no accreditation report: at Kanawana as at Ouareau, the kitchen staff are almost entirely absent from the record, and this tribute is a reminder that the absence is a property of the records rather than of the camps.
 
 ## Open Questions
 
@@ -64,6 +118,11 @@ In 2014, Camp Ouareau changed its team names from Iroquois, Algonquin, and Micma
 6. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University. 1946 Oolahwan visit incident.
 7. YWCA Camp Oolahwan centennial reunion announcement (dates disputed — see conflicts.json).
 8. Camp Ouareau 2014 team name change announcement (campouareau.com).
+9. Madeleine Allen, "Parental Motivation Affecting the Attendance of Children at Summer Camp, Part 1: Information collected from data from Camp Ouareau, a summer camp for girls," *Canadian Camping* Vol. 29 No. 2 (March 1977), pp. 4-7 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 112). Her surname is spelled "Madelene" in the 1974 issue cited elsewhere in this wiki and "Madeleine" here; both are the director of Camp Ouareau.
+10. Madelene Allen, "A Tribute," *Canadian Camping* Vol. 31 No. 5 (October 1979), p. 7 [src_ia_canadian_camping_collection]. Found by the same read (issue 127). Her surname is spelled "Madelene" here and in 1974, "Madeleine" in the March 1977 survey; the same person.
+11. Jane McCutcheon, "Central Region News," *Canadian Camping* Vol. 34 No. 1 (Spring 1982), p. 6 [src_ia_canadian_camping_collection]. Found by the same read (issue 141).
+12. Madelene Ferguson Allen, "The Kid Who Doesn't Speak English… How Do We Help?" / "L'enfant qui ne parle pas anglais," a Society of Camp Directors Awards Paper, *Canadian Camping* Vol. 37 No. 2 (Summer 1985), pp. 12-17 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 155).
+13. "Under Open Skies" / "À ciel ouvert," three texts submitted by Madelene Allen, Camp Ouareau, St. Donat, Quebec, *Canadian Camping Magazine* Vol. 38 No. 4 (Spring 1987), p. 28 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 161).
 
 ## Research Notes
 

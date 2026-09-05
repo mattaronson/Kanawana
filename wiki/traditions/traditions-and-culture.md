@@ -1,7 +1,7 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 31*
-*Last Updated: 2026-07-09 (Batch 6 research pass: itemized brochure box list and a Boy Scout provenance note for the Fire of Friendship programme found; Shawbridge Meet end-date and other Green Triangle issues re-confirmed as archive-access-only dead ends)*
+*Status: E1-reviewed | Sources: 35*
+*Last Updated: 2026-08-14*
 
 ## Overview
 
@@ -58,6 +58,8 @@ The **Council of the Tribes of Kanawana** was newly introduced in 1935, reflecti
 Documented ceremonies from the archives include:^10 ^11
 
 - **Firelighting ceremony** (1936): Catalogued in the Concordia archives (Box HA2315) but no detailed description has been recovered.^30
+- **Fire of Friendship** (1938, described): *The Green Triangle* of **2 June 1938** gives the only known description of the ceremony in performance, where the archive holds only a catalogue title: "The **Fire of Friendship** in the centre of the council ring was kindled by the torches of campers representing the **Spirits of Work, Play, Co-operation and the True Spirit of Kanawana** in a very impressive ritual. The serious part of the programme was followed by several rollicking songs led by Chief and Norm Wallace. Following the singing of 'Abide With Me' the campers slowly wended their ways through the trail to their respective tents."^35 Three of the four torch-bearing Spirits — Work, Play, Co-operation — are a plain restatement of the YMCA's developmental scheme in ritual form, with the camp's own spirit added as a fourth.
+- **Firelighting by chemical flash** (1940): *The Green Triangle* of **21 July 1940** describes the mechanics: "around the rocks, an Indian brave came into view; he prayed to **Wakonda** to light the fire. Suddenly with a bright blue flash and a great hissing sound, the fire flared up."^35 The same deity name closes the c. 1925–27 Council Ring script ("Wakonda, dhe-dhu, wapdhin atonhe"), so the invocation persisted across at least fifteen years — and the blue flash and hissing show it was staged with a chemical accelerant. See [[site/council-ring|The Council Ring]].
 - **Fire of Friendship / Kanawana Show** (1939): A combined ceremony and performance event, catalogued at Box HA2315.^30 In 1942, the Fire of Friendship programme was used to welcome the Boys of Tamaracouta (a Scout camp), featuring fire-lighting, hymns, and prayers.^4 The thesis's full text adds that the suggested programme itself was designed "to be used at the end of a Boy Scout day" — indicating it was adapted directly from Boy Scout ceremonial material rather than composed originally for Kanawana.^4
 - **KK pageant scripts** (1931–1932): Theatrical performances for campers and visitors.
 - **Council Ring closing and time capsule**: A season-end gathering where a record of the season's activities was buried, followed by a "Leaders Grand Feed."^7 Oral history confirms this tradition continued into the 2000s era: a "time capsule" containing the summer's record of important people, events, and moments is burned at the Closing Fire, then dug up the following year to be read aloud at the Opening Fire. The tradition is believed to be very old, possibly dating to the 1920s or 1930s.^21
@@ -84,11 +86,65 @@ The 1922 brochure documented a 32-subject Honour System, with the Large K as the
 - **KLS (Kanawana Life Saver)**: Based on the RLSS Award of Merit
 - **The Green Triangle**: Described as "the coveted Green Triangle" in a Reader's Digest account, this award was given to campers who accomplished a specified series of feats. Charles "Smillie" Buckland was the first recipient.^19
 
+### The M. E. Williams cups (1917–1922)
+
+A competition this wiki had no record of, with a winners roll thirty years older than the L&V trophy's. The *Gas Bag* "Extra, Vol. 13 No. 1" of 1923 asks "**Which branch will win the M. E. Williams cups?**" and prints a two-column table of winners for **Aquatics** and **Athletics**, 1917 through 1922.^34
+
+Crucially it was an **inter-branch** competition — North Branch, Central and Westmount contending against each other — not the intra-camp two-team format the [[traditions/lv-games|L&V Games]] adopted from 1947. Kanawana in this period drew from several YMCA branches, and the cups pitted them against one another at camp.
+
+| Year | Aquatics | Athletics |
+|---|---|---|
+| 1917 | North Branch | Westmount |
+| 1918 | *[ditto]* | Central |
+| 1919 | *[ditto]* | *[ditto]* |
+| 1920 | Central | *[ditto]* |
+| 1921 | Westmount | Westmount |
+| 1922 | *[ditto]* | *[ditto]* |
+
+**The ditto readings are an inference and are marked as such.** The OCR renders the repeat marks as garbage characters — "sf", "s", "ce", "ef", "es" — which is consistent with ditto marks but not proof of them. The *named* entries are certain; the repeats need a page image to confirm. Who M. E. Williams was, when the cups were first given, and when they lapsed are all undocumented.
+
+### Two lost honours, recovered 2026-08-14
+
+The season reports and camp newsletters document two further Kanawana awards that appeared nowhere in this wiki.
+
+**The Order of the Red Feather** ran from at least 1940 to at least 1965 and was tied to the Council Ring ceremonies. It worked by degrees: the *Green Triangle* of 29 July 1940 reports under "RED FEATHER TESTS PASSED" that "Alec Cherney has finally succeeded in passing his **third degree**, thus entitling him to become a full member of the Order of the Red Feather. This coveted honour is very rare indeed, and to attain it requires a good deal of hard industrious work."^33 The order survived the collapse of the camp's "Indian lore" programming: a 1965 camp publication still refers to "the man in the Red Feather" and to "a Red Feather Revue."^33 What the three degrees tested, and when the order lapsed, are undocumented.
+
+**The Golden Arrow** was instituted in 1965 — the report announcing it explains both the award and, unusually, what it was designed *not* to be: "At the closing camp fire he was presented with a 'Golden Arrow' which is an award that has been instituted at camp this summer and presented at the discretion of the staff to any boy in camp who shows extraordinary personal achievement during his stay. **This is not a 'popularity poll'** but an award that is given on recommendation only."^33 The first recipient described is a boy named Gordon — a foster child, almost totally blind, who "learned to go off the high dive at camp."
+
+Both belong to a pattern this wiki can now see across a century: Kanawana kept inventing named honours. The Large K and Altruism badge (1922–23), the Green Triangle, the Red Feather (by 1940), the Golden Arrow (1965), [[traditions/order-of-owens|the Order of Owens]] (1976), the Knights of Kanawana (1979), and the Walden Solos (1982) are seven distinct recognition systems, most of which ran for decades and then quietly stopped.
+
 ## The Pip Alumni Award
 
 The Pip Alumni Award was established in 2007 in memory of Philip "Pip" Caddell (1913–2004), a Kanawana camper in 1928, WWII Canadian Army officer, and community volunteer, and his grandson James Caddell (1973–2005), a camper and counsellor from 1983 to 1991 who became a UN Peacekeeper and public servant before dying of altitude sickness in Bolivia.^13 The award recognizes alumni who embody camp values.
 
 Known recipients include: Richard "Itche" Kerr (2007, composer of the camp song), Richard Patten (2008, former Ontario cabinet minister), Stuart McLean (2009, CBC broadcaster), Bruce Netherwood (2011), John Cleghorn (2012, former CEO of the Royal Bank), the late Sam Lazarus and family (2013, posthumous), Jeniene Phillips Birks (2014), Terry "Aislin" Mosher (2015), Carol Skinner (2016), Chris Adam (2017), Marina Sharpe (2018), and Dr. James Orbinski (2024). No 2010 recipient is documented.^13 ^14
+
+### The Order of the Knights of Kanawana
+
+The Knights of Kanawana was proclaimed, in the charter's own words, "in this Year of Our Lord Nineteen Hundred and Eighty," establishing "a select group of Kanawanians who upon proving themselves worthy, will then become Ladies and Knights of the Land." Aspirants would be "challenged Aquatically and Terrestrially, Morally and Intellectually," judged by a council only after every challenge had been met, and invested "in a secret ceremony, at the discretion of the council." Those invested "shall retain their positions of honour forever."^32
+
+**The founding year is 1979, not 1980.** The camp's own 1988 report dates it under Programme Highlights: "**1979** Knights of Kanawana is instituted. This is a recognition of campers who have acquired an advanced level of various outdoor skills."^33 The charter's "Year of Our Lord Nineteen Hundred and Eighty" is the year the charter document was drawn up, one season after the order itself began — the same 1988 list separately dates the Order of Owens to 1976 and the **Walden Solos** to 1982 ("a programme that enables CITs to participate in a 48 hour controlled solo experience"), and adds that as of 1988 "all the programmes and activities listed here are still in effect at Kanawana." An Arthurian all-camp day, "Sir Kay, or Arthur's Lost Knight," ran in 1987 — presumably built on the Knights' framing, and rated by the director as "slightly less than mediocre."^33
+
+The charter sets out **six challenges**, documented here for the first time — the KB previously held the order's oath text and its 1980–2009 roll of knights, but not the criteria by which they were earned:^32
+
+1. Participate in at least **two five-day canoe trips**, displaying leadership in trip preparation and planning, en route, and in the campsite.
+2. Achieve one **A** and one **B** in kampcraft and canoeing, plus **C**-level standing in other approved areas — sailing, orienteering, archery, rock climbing among those named.
+3. Complete a **distance swim of at least two miles**.
+4. **Assist in teaching an interest group** throughout an entire session.
+5. **Contribute something of permanence to camp** — the charter's own examples are "a substantial part of a totem pole, or a bridge."
+6. Learn something of the environment: be able to **identify six different trees and three edible plants**.
+
+Taken together these criteria are notable for how closely they track the camp's documented programming — canoe tripping, the badge/skill grading system, the Council Ring and totem-pole construction tradition, and environmental education — making the Knights less a ceremonial honour than a capstone assembled from the camp's own curriculum. Challenge 5 in particular ties the order directly to the physical fabric of the site.
+
+Two further details are legible on the charter itself.^32 First, challenge 2 shows the camp operating a **lettered A/B/C skill-grading system** across named activity areas — sailing, orienteering, archery and rock climbing are listed by name, alongside kampcraft and canoeing — a more granular scheme than the count-based badge system otherwise documented here, and the clearest surviving statement of how camp skills were ranked. Part of that clause, including what appears to be a ball-game activity name and an equivalence notation, is not legible in the available photograph.
+
+Second, the charter spells the camp "**Kamp**" in challenge 5 ("contribute something of permanence to Kamp"), consistent with the K-spelling being the camp's own usage in 1980–81 and with the transition to "Camp" not occurring until spring 2005 as established above.
+
+The charter is a **birchbark sheet**, not paper: a painted black lake-and-island scene with conifers and a lone standing dead tree occupies the upper half, pressed maple and fern leaves run down both margins, the proclamation and challenges are hand-lettered in two columns below, and a drawn log carrying further lettering closes the foot of the sheet, signed and dated 1981. The medium is itself in keeping with challenge 5's ethic — the document is made of the woods it describes.
+
+The order overlaps in membership with [[traditions/order-of-owens|the Order of Owens]]: Denys Lawrence was an Owens recipient in 1977 and among the first knights in 1980, and Dylan Applebaum was knighted in 2009 and received the Owens in 2010. Whether the two honours are formally related is undocumented.
+
+**The roll itself.** Twenty-nine people were invested between 1980 and 2009, each named on a dining-hall board with their year and the title Sir or Lady. This wiki recorded three of them until the [[meta/plaque-audit|plaque audit]] of August 2026 recovered the full list. The roll, the cross-references it opens up, and what its considerable gaps might mean are set out in **[[traditions/knights-of-kanawana|The Order of the Knights of Kanawana]]**.
 
 ## Images
 
@@ -127,6 +183,7 @@ Known recipients include: Richard "Itche" Kerr (2007, composer of the camp song)
 - [[history/centennial-1967|The 1967 Centennial and Kanawana]]
 - [[traditions/camp-songs-cheers|Camp Songs, Cheers, and Musical Traditions]]
 - [[traditions/myths-and-legends|Kanawana Myths and Legends]]
+- [[traditions/order-of-owens|The Order of Owens]]
 
 ## Sources
 
@@ -161,3 +218,8 @@ Known recipients include: Richard "Itche" Kerr (2007, composer of the camp song)
 29. "Serment du campeur / Camper's Oath," Camp YMCA Kanawana (2010, 2013 versions), recovered via Wayback from the predecessor ymcakanawana.ca domain [src_camper_oath_2010_2013].
 30. Concordia University Archives, static finding-aid pages for sub-sub-series 12A (Committees), 12B04 (Communications, Box HA1874), and 12B07 (Program, Box HA2315) [src_concordia_atom_12A, src_concordia_ymca_fonds_12B04_finding_aid, src_concordia_atom_12B07]. Direct fetch 2026-07-09.
 31. QAHN, dedicated Shawbridge local-history article; Internet Archive, "Ka-News," May 1980 [src_ka_news_1980]. Both checked directly 2026-07-09, no Shawbridge/motto content found.
+32. Photograph of the birchbark charter of the Order of the Knights of Kanawana (proclaimed 1980; document dated 1981), supplied by the operator 2026-08-14 [src_photo_knights_charter_challenges]. Source of the six challenges and the proclamation text.
+33. Kamp Kanawana season reports and newsletters in the Concordia-digitized YMCA of Montreal fonds: *The Green Triangle*, 29 July 1940 (Red Feather); the 1965 camp publication *The Chestnut* (Golden Arrow, Red Feather Revue); *Kanawana… A Place to Grow*, 1988 (founding dates for the Order of Owens, Knights of Kanawana and Walden Solos); *Kamp Kanawana Director's Report 1987* [src_ia_ymca_montreal_fonds_collection, src_ia_kanawana_place_to_grow_1988, src_ia_kanawana_report_1987].
+34. *The Gas Bag*, "Extra, Vol. 13 No. 1" (1923), Kamp Kanawana official paper (Internet Archive, Concordia-digitized fonds) [src_ia_ymca_montreal_fonds_collection].
+35. *The Green Triangle*, issues of 2 June 1938 and 21 July 1940 [src_ia_green_triangle_collection]. Full-text read of the verified 38-issue corpus, 2026-08-25. See [f_2281].
+

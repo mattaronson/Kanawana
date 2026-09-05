@@ -1,7 +1,7 @@
 # Camp Songs, Cheers, and Musical Traditions
 
-*Status: E1-reviewed | Sources: 18*
-*Last Updated: 2026-07-09*
+*Status: E1-reviewed | Sources: 23*
+*Last Updated: 2026-09-04*
 
 ## Overview
 
@@ -12,6 +12,12 @@ The camp's musical heritage is preserved in several archival collections at Conc
 ## The Camp Song: "On My Way to Kanawana"
 
 The official camp song, **"On My Way to Kanawana,"** was composed and performed by **Richard "Itch" Kerr**, a Kanawana alumnus who received the inaugural Pip Alumni Award circa 2007.^5 The song is preserved at Concordia University as **P145/SR0001** (Sound Recordings) on CD, with a duration of 4 minutes and 30 seconds. It accompanies the 1993/1996 YMCA film *Kamp Kanawana: The Experience that Lasts a Lifetime*, produced by Cathy Reeves (9 minutes, colour VHS).^5 It is the only known audio recording in the Kanawana archival collection.
+
+**Kerr's own account of writing it survives, and it dates the song precisely.** Writing in the Kanawana alumni newsletter *The Lookout* in autumn 1993, he describes the closing banquet:
+
+> "My invitation to this year's closing banquet was written at **summer's end 1977**. I wrote it myself late one night with some help from **three friends**. What we wrote was as spontaneous as love itself. One moment there was nothing the next, a song which payed tribute to friends, a place, an experience we loved. I had forgotten all about the song. Something as ethereal as a song at a summer camp should have easily vanished into the mists of time. Somehow, **the next summer it was remembered and it has been sung every summer since**. Much like the names on the ancient plaques that haunt the dining hall; my Kamp nickname has always accompanied any introduction to the song as the mysterious author of long ago."^19
+
+So: written in one night at the end of summer **1977**, by Kerr with three unnamed collaborators; revived in **1978** and sung annually thereafter. Kerr was on the Kanawana staff in 1975 (filling in as a counsellor for a week), 1976 (taking over the CIT program mid-summer) and 1977 (CIT Director), and returned to run a song workshop at pre-camp in 1992.^19 **Note what this account does not support:** no contemporaneous 1977 or 1978 document naming Kerr as composer has been found. His own 1993 retrospective is the sole source, and it is a memoir written sixteen years after the fact — reliable on authorship, less so on detail.
 
 The song held particular significance in camp culture. In 1967, a busload of Kanawana campers singing the camp song greeted the CCA Centenary Journey paddlers upon their arrival in Ottawa.^13 No lyrics, sheet music, or digital copy of the recording have been found in any online source. The Concordia Archives CD is the sole known copy. Its exact box number is now confirmed: Concordia's static finding-aid page for sub-sub-series 12B04 gives the catalog entry "On My Way to Kanawana. Song composed and performed by Richard Itch Kerr. CD. 4'30. - nd." at **Box HA2559**; the item is undated ("nd") in the finding aid itself.^16
 
@@ -100,6 +106,75 @@ The earliest documented Kanawana cheer predates the Marching Song and comes from
 
 The cheer is entirely nonsensical, concluding only with the camp name. This structure — using pseudo-foreign or deliberately absurd syllables as a rallying cry — was characteristic of early twentieth-century camp yells. The origin and meaning of "Yo Triumphy" have not been identified. The cheer does not appear in any other known camp's repertoire.
 
+### A second attestation, 1938 — and the date it fell out of use
+
+*The Green Triangle* of **9 July 1938** reprints the same cheer, sixteen years after the brochure, with
+a framing that answers a question this article had recorded as a dead end:^20
+
+> "The following is a **former** Kanawana yell, which is very effective when shouted
+> rapidly…—Let's all try to learn it:—
+>
+> Yo triumphy, yo triumphy, *(sung slowly)*
+> Hobben slobben rebeqca le-am,
+> De whoop, de whoop, de shol-de-vere,
+> De boom de rye, de hi-de-pock,
+> Hoonica heenica, whack-de-whack,
+> Hoh dob de bowl de barra,
+> Con slob de hol dobra,
+> KANAWANA…rah!"
+
+Three things follow. First, **by July 1938 the cheer was already "former"** and had to be taught back
+to the camp — so it went out of general use at some point between 1933, when campers were still
+singing it on the drive up, and 1938. That is the closest dating this article has been able to put on
+its disappearance, and it comes from the camp's own paper rather than from inference.
+
+Second, this is an **independent second witness to the text**. The two readings differ throughout —
+"Hoben Sloben Rebecca Leeammour" against "Hobben slobben rebeqca le-am," "de Shalla de Veer" against
+"de shol-de-vere" — which is what one expects of a spoken nonsense cheer written down twice by
+different hands, and confirms that neither version is authoritative. The 1938 text carries OCR damage
+of its own; both are recorded here so either can be checked against the originals.
+
+Third, the 1938 printing adds a **performance instruction absent from the brochure**: the opening line
+is marked *(sung slowly)* while the whole is "very effective when shouted rapidly." The cheer had a
+slow opening and an accelerating body.
+
+## The 1938 broadcast set list
+
+A CBM radio broadcast of 10 November 1938, "The Voice of Youth," was performed by the boys of Kanawana and its script survives — giving a set list of what the camp actually sang:^19
+
+1. **"Kanawana Marching Song"** — a distinct title, not otherwise attested, and not necessarily the same as the "camp song" of 1933
+2. **"Hi-Ho, Hi-Ho"**
+3. **"My Old Kentucky Home"** — sung solo by twelve-year-old Sandy Spence
+4. **"The World is Waiting for the Sunrise"** — chorus only
+5. **"Johnny Verbec"** — introduced as Dick Abraham's "Kanawana song specialty," with guitar, and called "the sausage song"
+6. **"Taps"** — to close
+
+**"Johnny Verbec" is a second "Alabama Jubilee"-type lead.** It is the folk song usually spelled *Johnny Verbeck* or *Dunderbeck's Machine*, a comic song about a sausage-machine inventor with a long and traceable history outside camp — yet the script calls it a "Kanawana song specialty," exactly the way a borrowed song becomes a house song.
+
+The same script records where singing happened — "those zippy camp sing-songs in the dining hall, at **Farewell Rock**, around the fire-rafts on the lake, and — of course — at our Saturday Night Shows" — and names **John Pearson** as the song leader, "waving his arms at us when leading the sing-songs."^19 A 1936 broadcast adds that there was a **daily** song-and-music period after dinner at which "new songs are learned."^19
+
+## Four named songs from 1933
+
+The *Green Triangle* of 29 July 1933 describes campers singing on the way up to camp and names four songs by title — **"Marois," "The Nonsense Song," "Sea-Side"** and **"Yo Triumphy"** — alongside an unnamed "the camp song" distinct from all four.^19 "Marois" is almost certainly connected to Lake Marois and to Marois Day, the 1935 season's most anticipated event; "Yo Triumphy" is the 1922 cheer below, still in the repertoire eleven years later, which is the only continuity this article can demonstrate between the 1920s and 1930s material.
+
+**No lyrics survive for any of these.** Across the entire digitized corpus there are song *titles* and one complete *yell* text, and no camp-song lyrics whatsoever.
+
+## The Pathfinder yell (1965)
+
+This is the only complete Kanawana cheer text recovered from the corpus besides the 1922 brochure cheer. Printed in a 1965 camp publication, in capitals, with OCR damage — reconstructed here, with the raw text in the source note:^19
+
+> Tents, trails, trees and tracks,
+> Paths, paddles, pets and packs,
+> We're the boys with the strongest backs,
+> We're the boys who swing the axe.
+> Here we are, there we are,
+> Tripping men from near and far,
+> Swish, swash, splish, splash,
+> We're at Kamp to have a bash.
+> **YEA, PATHFINDERS!**
+
+The article printing it explains its function: "This yell, which was original to the Pathfinders in 1965, required maximum participation and group effort in order for it to sound really good **in the dining hall**." It gives the section's motto — "one for all and all for one" — and a closing call-and-response: "Pathfinders, ARE YOU READY?" answered "WE ARE." The dining hall was the venue for section yells generally: the 1970 season report notes a section that "seemed to act and react as one section most of the time (ie Pathfinder yell in the dining hall)," and an all-camp "Kanawana Yell" existed as early as 1932.^19
+
 ## Section Cheers
 
 One section cheer has been recorded in a written source (see Revision History): the handwritten "Medley '81" cheer sheet (see Images below) records an actual Voyageurs sound-off chant ("Said 1-2-3-4-5 / Said Junior Girls don't take no jive / Ya-Ya") and a girls'-section cheer verbatim (f_1566). No further Voyageur, Lumberman, or other section cheers beyond what's on that one sheet have been recorded in any accessible archive or publication. The Color War / L&V Games tradition at YMCA camps across North America typically features team cheers, fight songs, and an "Alma Mater" presented during a culminating event called "Sing."^9 This framework almost certainly applies to the L&V Games at Kanawana.
@@ -140,6 +215,18 @@ A morning devotional practice at meals is documented from at least 1922. The bro
 
 By the 2000s era, Grace was not a single fixed prayer but a rotation of several **sung graces**. Two identified graces are: (1) **"Johnny Appleseed"** — the folk grace widely used at North American camps ("Oh, the Lord is good to me, and so I thank the Lord..."); and (2) the lyrics of **"Joy to the World"** by Three Dog Night ("Jeremiah was a bullfrog...") adapted as a grace.^14
 
+## How the repertoire was passed on
+
+The transmission of a camp's songs is almost never described, because it happened in the ordinary run of the day and nobody wrote it down. One counsellor did, in October 1980. Christine Nixon of Camp Oconto, writing on music for young campers, sets out the mechanism:^22
+
+> "**Because they are new to camp, many of the camp songs, graces, chants etc. that staff and older campers take for granted, will be unknown to younger campers. Counsellors should give these campers an 'intensive course' in the learning of these old favourites during the first few days of camp — singing them over and over, anywhere and anytime! This will help them to quickly feel like a part of camp and that they really belong.**"
+
+That is the whole mechanism in three sentences, and it explains two things about the record this article works from. A camp's repertoire lived in the memory of returning campers and staff and was reinstalled in newcomers by deliberate repetition in the first days of each season — which is why songs survive across decades with no written source, and why a break of a season or two can lose one completely. And it makes the song a membership rite rather than an entertainment: the argument for the intensive course is belonging, not music.
+
+Her practical advice describes what that teaching looked like: "**echo songs, or songs that build are good**"; "**teach slowly, break up the song into very small parts**"; "speak clearly, look at each child individually"; repeat a new song often; and choose by mood, because "**there is nothing like a singsong to bring a rowdy group of youngsters down to earth**." She also names the occasions music filled — "waiting periods, energy-spending device, or **fearful times (ie thunderstorms)**" — which matches the advice the same publication gave counsellors during thunderstorms two years earlier — get young campers "sitting in a circle on the cabin floor" and singing "the louder the better to out-sound the storm" — and lists sea shanties used "to maintain a steady stroke in canoeing."^22
+
+A second mechanism appears in the same period and is worth recording beside it, because it produced paper. YMCA Camp Howdy near Vancouver sent every camper home with a "**Camper Care Package**", packed into the luggage by the counsellor on the last day and not to be opened until the child was home; among its eight contents were "**the words for some of the more popular camp songs, announcements, graces, etc.**", remade every year "so that returning campers have something new to look forward to."^22 Where a camp did this, its repertoire left the site in writing, in a child's suitcase — which is one route by which a camp song sheet can survive in a family's papers when nothing survives in the camp's.
+
 ## Song Books and Archival Collections
 
 The Concordia University Archives hold the following music-related materials in the Kanawana fonds (P145):^5 ^6
@@ -156,9 +243,15 @@ The Concordia University Archives hold the following music-related materials in 
 
 These archival materials are the definitive source for documenting Kanawana's historical song repertoire and are not accessible online — the box numbers above are confirmed at the folder level via Concordia's static finding-aid pages, but no individual song titles or lyrics are itemized in the finding aid itself.^16 ^18 Physical access to Concordia University Archives is required.
 
+**A national songbook was solicited in 1972 — and Kanawana may have answered it.** In the Fall 1972 issue of *Canadian Camping*, the magazine of the Canadian Camping Association, the new editor Helen E. Stewart ran a boxed appeal to every camp in the country: "We want to compile a songbook and make it available to all camps in Canada. You must have a popular camp song. Would you please send in to the magazine the words and list the tune of your camp song so that it can be shared across Canada."^21 The same page asked all directors to send the CCA office "two copies of your camp brochure — they are needed for the C.C.A. Archives."^21
+
+Two things follow for this article. Kanawana was an accredited Quebec camp and a member camp through the Quebec Camping Association, so it was among the camps this appeal was addressed to; if it replied, **the words and the tune of a Kanawana camp song were written down in 1972 and sent to Toronto**. That would be the earliest identification of a tune for any Kanawana song outside the "Battle Hymn of the Republic" attribution for "Dear Old Kanawana", and it falls in the undocumented window between the 1941-1945 song books and the modern Marching Song. And the appeal establishes that **a C.C.A. Archives existed and was actively collecting camp material in 1972**, distinct from the Ontario Camping Association's archives deposited at Trent University in October 1970. Whether the songbook was ever published, and where the CCA's own archive went, are both open and both worth pursuing; the later issues of the run should answer the first.
+
 ## YMCA Camp Song Tradition: Context
 
 Campfire singing is a foundational tradition across YMCA camps in North America. The American Camp Association traces the modern campfire song tradition to the late 19th century, coinciding with the rise of organized camping.^9 The Canadian YMCA had specific connections to this tradition: Gary Schofield, Boys' Work secretary at the Ottawa Canada YMCA, directed Camp On-Da-Da-Waks and was active in the Canadian Fellowship of YMCA Retirees.^9 The iconic camp song "Kum Bah Yah" was introduced at a YMCA National Conference at Green Lake, Wisconsin in the early 1950s.^9
+
+**A national grace, and its borrowed tune.** The Alabama Jubilee finding above is not an isolated case of a camp song turning out to be a popular tune with new words; the practice was general and the association printed an instance of it. In spring 1983 the CCA's Executive Director noted that "**Thank You Lord**" "**has been sung for years as a chapel hymn or grace in many Canadian camps**", used it as the grace at the closing banquet of the International Camping Congress, and printed both verses — attributed **Anonymous**, with the tune given as "**Sung to the tune: Edelweiss**".^23 A grace in the general Canadian camp repertoire by 1983, set to a 1959 Broadway melody, and circulated further by the national office. It is not attested at Kanawana and no claim is made that it was sung there; it is recorded because it dates and names one more song of exactly the Marching Song's type, and because if "Thank You Lord" turns up on a Kanawana song sheet its tune and its route into the repertoire are already known.
 
 The Color War tradition (known at Kanawana as the L&V Games) typically includes team cheers, fight songs, marches, and Alma Maters as central components, presented during a culminating event called "Sing."^9 Songs are commonly rewrites of popular tunes with team-specific lyrics. This provides the likely framework for L&V section cheers at Kanawana.
 
@@ -174,7 +267,8 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 3. ~~[Critical] What is the full text of the Kamp Kanawana Marching Song?~~ [Largely resolved] Full 2000s-era text recorded from oral history (f_1196).^14 Remaining: the rediscovered lost verses from Concordia (2006) for comparison against the modern version.
 4. ~~[Important] What are the words of Grace as said at Kanawana?~~ [Partially resolved] Rotating sung graces: Johnny Appleseed and Joy to the World ("Jeremiah was a Bullfrog") identified (f_1195).^14 Remaining: any other graces in the rotation, and when the rotation replaced a single fixed grace.
 5. [Important, re-confirmed dead end 2026-07-09] What songs are in the 1925/1927 song sheets and the 1941-1945 Kanawana song books? Box number now confirmed (HA2315, along with two previously undocumented adjacent items — "KK pageant scripts" 1931-32 and "Fire of Friendship, Kanawana show" 1939 — see [[traditions/traditions-and-culture|Traditions and Culture]]) but the finding aid is folder-level only; no song titles are itemized online.
-6. [Important, re-confirmed dead end 2026-07-09] When was the "Yo Triumphy" cheer replaced by the Marching Song? Did both coexist? A 12+ query sweep across web search, the Spirit of Kanawana blog, and general camp-yell-history sources found no trace of "Yo Triumphy" (under any spelling variant) anywhere outside this wiki's own 1922 brochure citation. Only physical Green Triangle/Ka-News issues (1932-1982, Concordia) can resolve this.
+6. [PARTIALLY ANSWERED 2026-08-25] When was the "Yo Triumphy" cheer replaced by the Marching Song? Did both coexist? **The cheer was already described as a "former Kanawana yell" in *The Green Triangle* of 9 July 1938, and reprinted so campers could learn it again** — so it fell out of general use between 1933 (when campers were still singing it) and 1938, and was the object of a deliberate revival attempt that year. Whether the Marching Song displaced it, and whether the two overlapped, remains open. The earlier note that "only physical Green Triangle/Ka-News issues (1932-1982, Concordia) can resolve this" was correct — this came from the digitized 1938 run. The 1941-1975 issues remain undigitized and would settle the rest.
+7. [Critical, new 2026-09-04] Did the Canadian Camping Association's 1972 national songbook appeal produce a published songbook, and did Kanawana submit a song to it? The appeal asked every camp in Canada for the words and the tune of its camp song.^21 Two searches follow: forward through the 1973-1975 issues of *Canadian Camping* for an announcement of the songbook, and for the disposition of the "C.C.A. Archives" named in the same notice, which was collecting camp brochures at the time.
 7. [Nice-to-have] What songs were commonly sung at campfire sing-songs across different eras?
 8. ~~[Nice-to-have] Did the camp song change over time, or has "On My Way to Kanawana" always been the primary camp song?~~ [Resolved] Yes — "Dear Old Kanawana" (to the Battle Hymn of the Republic) was the camp song during the pre-war and mid-century periods. "On My Way to Kanawana" by Richard Kerr is a later composition (date unknown).^13
 9. [Nice-to-have, re-confirmed dead end 2026-07-09] Who adapted "Alabama Jubilee" into the Kanawana Marching Song, and when? Independently re-searched this session (web, LinkedIn/Facebook, the primary blog source) — only the famous pop songwriter Richard Kerr (co-writer of "Mandy") surfaces, with no documented YMCA/camp connection; the Kanawana alumnus "Richard Itch Kerr" has no trace anywhere online outside the Concordia catalog entry and Pip Award recipient lists. This is now independently confirmed exhausted across two separate sessions.
@@ -209,6 +303,12 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 16. Concordia University Archives, static finding-aid page for sub-sub-series 12B04 (Communications) [src_concordia_ymca_fonds_12B04_finding_aid]. Direct fetch 2026-07-09: Box HA2559 (SR0001 catalog entry).
 17. YMCA of Greater Toronto blog, "Celebrating Tradition with the Pine Crest Games" [src_ymcagta_pinecrest_games].
 18. Concordia University Archives, sub-sub-series 12B07 (Program) [src_concordia_atom_12B07]. Direct fetch 2026-07-09: Box HA2315 (song sheets, song books, pageant scripts).
+
+19. Kanawana material in the Concordia-digitized YMCA of Montreal fonds: *The Lookout* Vol. 1 No. 3, autumn 1993 (Richard "Itche" Kerr's first-person account of writing the camp song) [src_ia_the_lookout_1993]; the CBM "Voice of Youth" broadcast script, 10 November 1938; the CFCF broadcast of 1936; *The Green Triangle* of 29 July 1933 and 13 August 1932; the 1965 camp publication *The Chestnut*, for the Pathfinder yell; and the *Kamp Kanawana Annual Report 1970* [src_ia_ymca_montreal_fonds_collection, src_ia_kanawana_report_1970]. *OCR note: the Pathfinder yell survives only as damaged uppercase OCR ("TENTS, FRAILS, TREES AND TRACKS, / PATHS, PADOLES, PETS AND. PACKS, / LERE THE 30YS 1TH THE STRONGEST RACKS / SE'RE THE 30S SHO S"ING THE AXE..."). The reading given above is a reconstruction; the raw text is recorded here so the reconstruction can be checked.*
+20. *The Green Triangle*, 9 July 1938 [src_ia_green_triangle_collection]. Full-text read of the verified 38-issue corpus, 2026-08-25. See [f_2280].
+21. "Attention! All Camp Directors" (boxed notice), *Canadian Camping* Vol. 25 No. 1 (Fall 1972), p. 3. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 96).
+22. Christine Nixon (Camp Oconto), "Music for Young Campers," *Canadian Camping* Vol. 32 No. 5 (October 1980), pp. 6, 12 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 133). Written about camps generally, not about Kanawana. The thunderstorm advice quoted alongside it is from "Storms Ahead," *Canadian Camping* Vol. 30 No. 4 (June 1978), pp. 4-5 (issue 120). The Camp Howdy "Camper Care Package," from the B.C.C.A. Newsletter of October/November 1980, is reprinted in *Canadian Camping* Vol. 32 No. 6 (December 1980), p. 4 (issue 134).
+23. Marjorie Booth, "Camp Music Idea," *Canadian Camping* Vol. 35 No. 1 (Spring 1983), p. 13 [src_ia_canadian_camping_collection]. Found by the same read (issue 146).
 
 ## Research Notes
 
