@@ -52,6 +52,13 @@ jobs:
         # the derived-value registry and the general table check.
         run: python scripts/verify/consistency.py
 
+      - name: Citation aim
+        # Advisory. The harness above checks that every [f_NNNN] RESOLVES; this
+        # checks that it POINTS AT SOMETHING RELEVANT. A wrong-but-real id is
+        # invisible to a resolver and reads as authority downstream. Exits 0
+        # while the back catalogue is triaged (p_401).
+        run: python scripts/verify/citation_aim.py
+
       - name: Embargo labelling
         # Every embargoed fact registered and dated, every marker paired, and
         # no embargoed-only name loose in an article. Unlabelled is the

@@ -5030,6 +5030,17 @@
       "created": "2026-09-05",
       "source": "citation audit of myths-and-legends.md during the c_031 ranking withdrawal",
       "blocked_on": null
+    },
+    {
+      "priority_id": "p_401",
+      "rank": 400,
+      "type": "VERIFY",
+      "description": "TRIAGE THE CITATION-AIM BACK CATALOGUE AND MAKE THE CHECK BLOCKING. scripts/verify/citation_aim.py is advisory and currently reports two thin citations: (1) places-and-locations.md:223 cites f_0226 ('A 1928 Kanawana map and a 1962 Kanawana map were analyzed in the McMorris thesis') for the claim that an 'Indian Grave' marking existed on the camp map -- the fact establishes the maps but says nothing about the marking, so the specific claim is uncited; (2) myths-and-legends.md:108 cites f_0536 (a list of Cropsey name variants) for 'Both films derive from the same campfire tradition', which the fact does not state. Resolve both by finding the right fact or rewording the claim, then flip the script to exit 1 and move its workflow step above the embargo step. NOTE the check is a deliberately weak heuristic -- it compares distinctive tokens and passes any citation sharing one -- so a clean run is not proof of correct aim, only absence of the grossest shape.",
+      "weight": 6,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "built after mis-citing fact ids three times in one session; the check found two more pre-existing",
+      "blocked_on": null
     }
   ],
   "queue_ordering": {
