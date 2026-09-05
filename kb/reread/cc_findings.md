@@ -26593,11 +26593,11 @@ answer to what a camp was being asked to do about acid rain. **Recorded in
 **★★ National office turnover, and two new committee chairmen.** From the rotated National Office News:
 **Mrs. Irene Knapp** appointed Secretary at the National Office — a native of Glasgow who came to Canada
 on a working holiday, with secretarial and bookkeeping experience, hours Monday to Friday 9:00 to 4:00;
-**Mary Roy** confirmed gone after "8½ years of service" and now freelancing from home, still "at the end
+**Mary Roy** confirmed gone after "8½ years of service" [**corrected at issue 151**: the Executive Director's report, in clean type, says she left in **September** after **eight** years] and now freelancing from home, still "at the end
 of the phone" for bookkeeping questions; and **Sharon Freedman**, the office typist "since November
 1982," who "did an outstanding job… especially on the myriad of tasks surrounding the International
 Camping Congress last January," left in October before the birth of her second child. From the
-President's Perspective: **Jean Punk (Alta.)**, back from world travels and working as a freelance
+President's Perspective: **Jean Funk (Alta.)** [decoded here as "Jean Punk"; **corrected at issue 151**, which prints the name in clean type], back from world travels and working as a freelance
 consultant to the Alberta Forest Service, is **the new chairperson of the Environment Committee** — the
 committee the editorial in the same issue says has produced nothing — and **Paul Potter (Nova Scotia)**,
 a programme consultant developing emergency training and physical fitness programmes for offshore oil
@@ -26620,7 +26620,7 @@ Jean's election and around the time he left the executive for the ACQ's staff.**
 null of the kind that only a full read produces.
 
 **★ Minor, and one correction to issue 148.** The next International Camping Congress was set for
-**1-2 March 1987 at Washington, D.C.**, with the CCA agreeing to promote and take part in the planning;
+**3-5 March 1987 at Washington, D.C.** [decoded here as "1-2 March"; **corrected at issue 151**], with the CCA agreeing to promote and take part in the planning;
 the ACA's own 1984 convention was **21-24 February at San Diego**. The subscription card offers a rate
 this project should record for `meta/sources-index.md`: after the first two full-rate subscriptions at
 **$6.00 a year, additional one-year subscriptions at $4.00**, pitched at directors subscribing their
@@ -26781,3 +26781,201 @@ Society* on personal computers lifting education "out of the restrictions of for
 mailing label again reads **CAMP RICHILDACA, KETTLEBY ON**, with the initials OCR'd here as "W. J.
 BABCOCK" against issue 149's "R. J."; the camp name is the stable part and the initials should not be
 relied on.
+
+## 151 — Vol. 36 No. 2, Summer 1984 — the 1983 Annual Report
+
+Twenty pages plus the **1983 Annual Report / Rapport Annuel** insert. Contents page checked; every item
+read: two Letters to the Editor and the continuation of Kirsty Griffiths's "Camping: The Last Word"
+with its twelve resources; the bilingual Editorial, "The Bible Tells Me so!" / "C'est écrit dans la
+Bible!"; the masthead; The Camping Advisor (four questions); James Taylor's summary of the United
+Church of Canada's report on human sexuality to its 30th General Council; **Colette Pouliot-Marier, "Le
+Comité des camps d'expression française"**; Catherine Ross, "Focus on Pre-Camp: The Camper!"; John
+Latimer on Operation Raleigh Canada; Kelly Lendsay on National Lifeguard Service certification; John
+Roberts's Group Dynamics Exercise on difficult questions; Michael Kenny's review of *Outdoor Safety &
+Survival*; **Adele and Harry Ebbs, "Memorable Quotes from 'Blackie' Blackstock"**; Dave Sands, "Kidney
+Kids Camp Out Overnight"; J. H. Ebbs, M.D., on rabies; Jean Funk's environmental magazines list; the
+Society of Camp Directors Awards Papers notice; the Youth Camp Director Institute notices; the 1987
+Congress announcements; Kirsty Griffiths's "Camping… The Last Word!"; and the whole annual report —
+President, Executive Director, nine provincial reports, eleven committee and task force reports, the
+four-year national statistics series, the 1983 provincial table and the foreign-counsellor table.
+
+**★★★★ THE ACQ'S OWN 1983 REPORT, AND TWO THINGS IN IT ARE ACTIONABLE.** Signed **Claire Menard**:
+
+> "Les activités de l'ACQ, cette année, ont [été] ajustées aux besoins des membres. **Un questionnaire a
+> été envoyé à l'automne, pour connaître les besoins des camps et les services qu'ils attendent de leur
+> Association.** Des journées thématiques sur '**La gestion par informatique**', '**Les nouveaux jeux**',
+> et '**La place des parents au camp**' ont retenu l'intérêt de plusieurs membres. **La Semaine des Camps
+> du 23 au 28 avril sera la principale activité de promotion au printemps. Un projet spécial, en
+> collaboration avec le Ministère du Loisir, de la Chasse et de la Pêche, nous permettra d'avoir un
+> 'message radio' durant cette semaine.**
+>
+> **Au Québec, la Loi de la protection du consommateur a fait l'objet de plusieurs rencontres avec
+> différents intervenants afin d'obtenir une exemption pour les camps de vacances.**"
+
+**First, an exact week of Quebec camp promotion: 23-28 April 1984**, with a radio campaign paid for
+jointly with the **Ministère du Loisir, de la Chasse et de la Pêche** — the most precisely dated
+searchable window this read has produced for Quebec camping press and broadcast coverage, and Kanawana
+was an accredited ACQ member camp throughout. **Second, and new to this project entirely: the ACQ spent
+1983-84 lobbying for camps to be exempted from Quebec's *Loi sur la protection du consommateur*.** That
+is a regulatory fact that applied directly to Kanawana — how camp fees, refunds and contracts with
+parents were governed under Quebec law — and it opens a documentary trail through the Office de la
+protection du consommateur and the National Assembly record. **A fall 1983 ACQ questionnaire of member
+camps' needs also exists**, i.e. Kanawana probably answered one. **All added to
+`canadian-camping-movement.md` and `p_326`.**
+
+**★★★★ THE 1983 STATISTICS — QUEBEC AGAIN 100% ACCREDITED, AND A WARNING ABOUT THE TABLE.** The 1983
+provincial table gives Quebec **117 member camps, all 117 accredited, none non-accredited** — the second
+consecutive year in which Quebec's two numbers are identical, which puts the finding written up from
+issue 147 beyond a single year's accident. Quebec's other 1983 figures: 103 resident and 5 day camps
+plus 9 "other"; 50 four-season and 18 three-season; **16,568 camper-beds**; **75,768 individual
+campers**; **790,595 camper-days**; 239 foreign campers; **1,395 volunteer and 3,788 paid staff**;
+$3,285,885 food and $4,894,456 wages; and a **return rate of 41%**, down from 48%.
+
+**Two cautions, both written into the article rather than left for a later reader to discover.** Quebec's
+membership **fell from 129 camps in 1982 to 117 in 1983**, a loss of twelve, at the same time as its
+response rate fell seven points — so year-on-year movement in the Quebec column mixes real change with
+sampling change and should not be read as either alone. And **the printed table does not add up**: the
+national "Paid Staff" total of 38,592 is roughly twice the sum of the provincial columns, and Alberta's
+camper-days are given as 5,403 where the neighbouring provinces run to hundreds of thousands. **The
+provincial figures are usable; the 1983 national totals in that table are not**, and the four-year
+national series printed above it is the better source. Recorded as a defect in the source, not smoothed
+over.
+
+**★★★★ THE FRENCH LANGUAGE COMMITTEE HAS A FOUNDING DATE — autumn 1974.** Colette Pouliot-Marier, who
+told Jocelyn Palm on **22 April 1984** that she would succeed **Pauline Rondeau, directrice du Camp
+Claret**, as its president:
+
+> "Qu'il me soit permis de rappeler que **ce comité qui a été mis sur pied à l'automne 1974** a pour but
+> d'assurer une présence active des camps francophones et de faire entendre le point de vue des camps de
+> langue française au sein de l'Association… rappelons, entre autres, **le congrès du printemps 1976 qui
+> a réuni des directeurs de camps de vacances et personnes intéressées au phénomène des camps, venus de
+> toutes les provinces, autour du thème de 'L'activité pédagogique du camp de vacances'.**"
+
+**This article has traced the association's bilingualism from 1971 without a date for the committee
+itself. It is autumn 1974.** And it names a second event this project did not know about: **a spring
+1976 congress of French-language camps drawing directors from every province** on the theme of the
+pedagogical activity of the summer camp, after which "bien des membres ont maintenu des contacts" — a
+national francophone camping gathering held in Kanawana's own linguistic community, whose proceedings or
+programme may survive. **Pauline Rondeau is also now identified with a camp**, Camp Claret. Ken Willis's
+committee report adds that Rondeau "resigned as Chairman at the end of this year due to severe time
+restraints," and that Pouliot-Marier "plans to continue with the tasks of generating articles in French
+for *Canadian Camping* and **establishing priorities and procedures for translation**." **Added to
+`canadian-camping-movement.md` and `p_326`.**
+
+**★★★ FOUR CORRECTIONS TO THE ROTATED DECODE OF ISSUE 149 — the flag was justified.** Issue 149's
+President's Perspective and National Office News were recovered from a 180°-rotated scan and every
+quotation was marked as a reconstruction, with years explicitly not asserted. This issue prints the same
+material in clean type, and it corrects four things. **(1) The environment chairman is JEAN FUNK of
+Edmonton, not "Jean Punk."** **(2) The International Youth Year is 1985, not the "1986" the decoder
+produced** — the task force reports throughout on "International Youth Year… in 1985," and the celebration
+day is **August 1985**. **(3) The Washington congress is 3-5 March 1987, not "1-2 March."** **(4) Mary Roy
+left in September after "eight years," where the decode gave "8½ years."** Two things it *confirms*
+exactly: "**Ken [Willis] replaced Louis Jean who resigned after accepting a position with ACQ**" — the
+substantive Quebec finding of issue 149, now corroborated in clean text and with the successor named —
+and "**Plans for CCA's 50th Anniversary in 1986 from Cliff Labbett**", which corroborates in clean type
+the issue 148 finding that the association dated its own founding to **1936**. **The relevant blocks and
+articles have been corrected in place.**
+
+**★★★ TRENT HOLDS TRANSCRIBED ORAL HISTORIES — this is stated outright.** Adele and Harry Ebbs's tribute
+to **C. R. "Blackie" Blackstock** prints several hundred words of his speech and says where they come
+from: "**The following quotes are excerpts from the Camping Archives at Trent University.**" **That is
+the first explicit statement in this read that the Trent collection contains transcribed interviews with
+camping figures, not only institutional paper** — and it means the Jay Haddad interview series this read
+has drawn on so heavily (Plewman, May Brown, Latimer, Booth) may exist there in fuller form than the
+edited magazine versions. **The single most important line in the issue for `p_319`**, and added to it.
+
+The tribute also adds to Blackstock's biography beyond the 1979 obituary already used in
+`connections/related-camps/camp-pine-crest.md`: he was at **Pickering College in 1928**, in Taylor
+Statten's time; he was a **Kitchikewana "original," starting the first year of that YMCA camp on
+Beausoleil Island in 1921 as a very young counsellor** under **Ernie Thurlow**, boys' work secretary for
+Simcoe County, rising to assistant director under **Win Smith**; he was a **Founding Fellow of the
+Society of Camp Directors** and an Honourary Life Member of the OCA; he took summer courses at Wisconsin
+in outdoor education, a B.Sc. at **McGill** and an honorary LL.D. at York in **1974**; he introduced
+winter school camping at **Limberlost Lodge** through Pickering College; he founded **Camp Mazinaw in
+1940**; and he was later executive secretary of the **Canadian Association of Physical and Health
+Education**. On canoe tripping he "alleged that canoe trippers should be trained to handle risk and to
+anticipate it," given as input to research then being done by the Society of Camp Directors. His own
+words on the origins of camp conservation teaching are worth keeping: "**conservation isn't something
+that needs to be taught; you expose people to the situation, and they're sharp enough to see**." **Added
+to `camp-pine-crest.md`.**
+
+**★★★ EVERY MEMBER CAMP IN CANADA WAS TO HOLD A CELEBRATION DAY IN AUGUST 1985 — with a "historical
+roots" programme kit.** Hugh Phillips's International Youth Year Task Force, struck March 1983, meeting
+in Toronto on **16-17 April** and **22-23 October 1983**, settled three national projects:
+
+> "1. **National Celebration Event: a special summer day in Aug. of 1985 where all campers in CCA help
+> celebrate the international year of youth. Program kits for the themes of fitness, environment,
+> historical roots and peace will be developed by the IYY Task Force.** 2. **Youth Camp Director
+> Institute**: proposed for Jan. 31-Feb. 1, 1985 at Bolton Camp, Ontario… 3. **Special CCA Magazine
+> Edition**: an entire issue of *Canadian Camping* will be devoted to our youth."
+
+**Kanawana was an accredited ACQ member camp, and in Quebec every member camp was an accredited one**,
+so a **"historical roots" programme kit was due to reach Kanawana in the summer of 1985** — which is a
+concrete institutional reason a camp might have compiled or rehearsed its own history that year, nine
+years before its centennial. **Nothing is claimed about what Kanawana did with it**; the kit's despatch
+is what is documented. The Institute is advertised elsewhere in the issue as **31 January to 3 February
+1985**, $145 all inclusive, at Bolton Camp. **Added to `canadian-camping-movement.md`, and the Spring
+1985 magazine issue and the Summer 1985 issue — the latter carrying the Society of Camp Directors
+prize-winning articles — are both flagged for close reading when this pass reaches them.**
+
+**★★ Quebec could not use its national consultant, and Marnie Ellis worked from Montreal.** Paul Potter's
+Leadership Development report tabulates every Consultant/Advisor visit of 1983-84 with its cost — Jack
+Pearse to B.C., George Matthews to Newfoundland, Jane McCutcheon to New Brunswick, Jay Haddad to Nova
+Scotia, Alberta and B.C., Martha Knowlton to New Brunswick, Mickey Johnston to Manitoba, $2,474.45 in
+total — and records two failures, one of them Quebec's: "**The Association des camps du Québec could not
+use their Consultant/Advisor due to insufficient registration for their Winter Conference.**" **So the
+ACQ's winter conference of 1983-84 did not draw enough registrations to run its national session** — a
+small, dated, unflattering fact about the state of the Quebec association in exactly the years Kanawana's
+own record is thinnest, and the kind of thing only a full read surfaces. Separately, Marnie Ellis's
+Publicity report describes Marjorie Booth helping "**the chairman, in Montreal**, coordinate with them
+and the provincial representatives," and Jocelyn Palm doing National Camping Day interviews "out West,
+and **by phone to Quebec**" — confirming that **Marnie Ellis, who thanked Kanawana for the 1983 national
+poster mailing, was herself based in Montreal**, which is very likely why the job went to Kanawana. The
+president's report lists her as "**Marnie Ellis of Montreal**." **Added to `canadian-camping-movement.md`.**
+
+**★★ The environment committee restarted, and the Environmental Ethic was still not adopted.** Jean
+Funk's report: "**October 1983 saw a fresh start for the Environment Committee**," with a revised action
+plan, review of Environment Canada material, a recommended liaison with the **National Trail
+Association**, correspondence with forestry industries, a proposed **Energy Camp as a joint venture with
+the Terry Fox Centre in Ottawa**, and — "**drafted the 'CCA Environmental Ethic'**… I am looking forward
+to… the acceptance of the 'CCA Environmental Ethic' in 1984." **The Environmental Ethic that
+`traditions/environmental-history.md` has tracked since 1982 was still only a draft in the spring of
+1984**, which is the measure of the institutional inertia the Winter 1984 editorial complained of.
+**Written in.**
+
+**★★ Fifty-fifth-anniversary plans, and the archives "brown bag."** Clifford Labbett's 50th Anniversary
+Task Force lists five ideas for **1986**: "1. **Kite flying across Canada.** 2. **Be a part of the annual
+July 1st celebrations in Ottawa.** 3. **Tie in with National Camping Day** and sponsorship by private
+industry in a salute to Children's Camping across Canada. 4. **Official recognition from UNESCO for
+camping's contribution to protection of our environment.** 5. **Across Canada campfires.**" He also
+records that he "**was President of CCA when this concept [the International Congress] was first
+established**." Bruno Morawetz's archives report describes the collection method: "**Each Provincial
+Association was sent a large brown envelope marked 'Archives' under which are listed the kinds of
+materials that should be saved and placed in the envelope for mailing at a later date when the envelope
+is about to burst**" — so provincial deposits at Trent arrive as irregular bulk envelopes rather than
+ordered transfers, which is worth knowing before asking Trent what Quebec sent. **Both added to
+`p_319`.** Brian Law's Standards report sets as an objective for the autumn of 1984 "**a new provincial
+comparison of existing practices, the education of visitors, and an examination of the process of
+accreditation**" — **added to `p_323`**, which is now chasing two successive editions of the provincial
+standards comparison.
+
+**★ Minor, and one table declared unusable.** The **Second International Camping Congress** was fixed for
+**3-5 March 1987 at the Shoreham Hotel, Washington, D.C.**, theme "**Our Fragile World — A Challenge for
+the Outdoor Community**," jointly sponsored by the American, Canadian, Jamaican and Japanese associations
+and cooperating with fourteen bodies including **the World Alliance of YMCAs** and **the European YMCA
+Camping Group** — the only point in this run where Kanawana's parent movement appears as an institutional
+partner of the camping associations. The **Newsletter Committee** report supplies the magazine's own
+production chain for `meta/sources-index.md`: Jay Haddad editing, **Marc Côté** on layout and photographs,
+**Thérèse Wong** typesetting, and **Ken Smith at the National Sport & Recreation Centre** guiding it
+"through the printing and mailing process in Ottawa" — with the editor noting "we are now in the enviable
+position of having **too much material** for some issues." The **Publications Committee** (Wendy Wren and
+Judy Richards, succeeding Fred Okada) reports Book Store gross sales up **$8,776** on the year, a second
+printing of the CIT Manual required **by 30 June**, and a Fitness Canada-funded market study by **Jack
+Zoubie** into a family-camping publication. The **Education Committee** (Dorothy Walter) has the
+"Curriculum for Camp Directors" onto word processing, assisted by **Stan Talesnick** and **John
+Wilkinson**. **The foreign camp counsellor table (CCDO 2333-126) is printed with its columns broken in
+the OCR** — the province headings and the number pairs do not align, and the Quebec column cannot be read
+with confidence; **only the totals are recorded here: 732 foreign camp counsellors in 1982 and 708 in
+1983**, and the per-province figures are deliberately not extracted. Mailing label: **MISS JANE
+MCCUTCHEON, C/O CAMP TANINGU, HUNTSVILLE ON** — a seventh deposit hand, and one that identifies a figure
+who recurs throughout this read with a camp of her own.

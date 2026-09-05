@@ -1,6 +1,6 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 42*
+*Status: E1-reviewed | Sources: 43*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -170,7 +170,7 @@ Kanawana sits on Lac Wilson at Saint-Sauveur, in the Laurentians, north of the S
 
 > "Yet **the Canadian Coalition on Acid Rain has indicated that the Canadian Camping Association is not even a member!!** Why is it that those with so much to lose often have little to say?… **We have, on paper, a national environment committee and still no word on acid rain, no position, no dissemination of information, no commitment!**"
 
-A member's letter in the same issue makes the charge from outside: Doug Caldwell of the Federation of Ontario Naturalists lists the fifty organizations in the Canadian Coalition on Acid Rain — from the Inuit Tapirisat of Canada to Resorts Ontario — and observes that "**noticeably absent in this list is the Canadian Camping Association or any Provincial Camping Associations. Is it the mandate of your Association to remain apolitical?**"^42 That is the national environment committee traced above, from Peter Rasberry's 1981 report through the 1982 Environmental Ethic and the Acid Rain Education Kit, assessed by its own association's magazine as having produced nothing on the defining environmental question of the period. In the same issue **Jean Punk of Alberta** is announced as the committee's new chairperson.
+A member's letter in the same issue makes the charge from outside: Doug Caldwell of the Federation of Ontario Naturalists lists the fifty organizations in the Canadian Coalition on Acid Rain — from the Inuit Tapirisat of Canada to Resorts Ontario — and observes that "**noticeably absent in this list is the Canadian Camping Association or any Provincial Camping Associations. Is it the mandate of your Association to remain apolitical?**"^42 That is the national environment committee traced above, from Peter Rasberry's 1981 report through the 1982 Environmental Ethic and the Acid Rain Education Kit, assessed by its own association's magazine as having produced nothing on the defining environmental question of the period. In the same issue **Jean Funk of Alberta** is announced as the committee's new chairperson, and her own report a few months later shows how little had been in place: "**October 1983 saw a fresh start for the Environment Committee**," with a revised action plan, a review of Environment Canada material, a recommended liaison with the National Trail Association, correspondence with forestry industries, a proposed **Energy Camp as a joint venture with the Terry Fox Centre in Ottawa** — and, listed among the year's initiatives, "**drafted the 'CCA Environmental Ethic'**," with the hope of "the acceptance of the 'CCA Environmental Ethic' in 1984."^43 **The Environmental Ethic traced above from 1982 was therefore still an unadopted draft in the spring of 1984** — which is the measure of the inertia the Winter 1984 editorial was complaining about.
 
 ## Alumni Environmental Impact
 
@@ -260,6 +260,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 40. Peter Rasberry, "Environment Committee," in the CCA/ACC Annual Report 1981, *Canadian Camping* Vol. 34 No. 2 (Summer 1982), pp. 9-10 [src_ia_canadian_camping_collection]. Found by the same read (issue 142).
 41. CCA/ACC *Publications 1982-83* catalogue, bound as an insert to *Canadian Camping* Vol. 34 No. 3 (Autumn 1982), pp. 17-18 [src_ia_canadian_camping_collection]. Found by the same read (issue 144).
 42. Jeff Reading (Kilcoo Camp), "Acid Rain: Understanding the Problem at Camp," pp. 13-16; the bilingual editorial "Acid Rain: Not Just A Catchphrase!"; the letter from Doug Caldwell; and Jocelyn Palm, "President's Perspective" — all in *Canadian Camping* Vol. 35 No. 4 (Winter 1984) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 149). The President's Perspective page is printed 180° rotated in the scan and was decoded with `scripts/reread/unrotate.py`.
+43. Jean Funk, "Environment Committee," in the CCA/ACC Annual Report 1983, *Canadian Camping* Vol. 36 No. 2 (Summer 1984) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 151).
 
 ## Research Notes
 
