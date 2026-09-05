@@ -1,7 +1,7 @@
 # Indigenous Place Names and Land History
 
-*Status: R3-verified | Sources: 28*
-*Last Updated: 2026-09-04*
+*Status: R3-verified | Sources: 30*
+*Last Updated: 2026-09-05*
 
 ## Overview
 
@@ -85,6 +85,50 @@ An "Indian Grave" marking existed on the Kanawana camp map, though no documentat
 **A fourth possibility, now documented.** In June 1975 Bruno Morawetz, Director of Camp Ponacka, wrote in *Canadian Camping* that "the one thing which occupies a large part of our time is **our annual Hoax (Indian Burial ground, unidentified flying object, glabergoof egg, etc.)**."^17 A staged Indian burial ground was, in other words, a recognised camp-hoax type of the period — named by a camp director in the national trade press as one of his camp's rotating annual productions, alongside the fabricated spaceship crash and the prehistoric "glabergoof egg" that the same camp's Bob Attfield had described in the same magazine three years earlier.^18
 
 This is not evidence about Kanawana's marking. It is a fourth candidate explanation to set beside the three above — a real burial site, a naturalistic feature, a campfire-story location, or **a deliberately staged hoax site of a kind camps of this period are documented as building**. Kanawana's own hoax tradition is discussed at [[traditions/myths-and-legends|Myths and Legends]]. What would distinguish the possibilities is the marking's date and its persistence: a hoax site is typically built for one season, while the map marking suggests something treated as a fixed feature.
+
+### Two pages of the same magazine, Fall 1972
+
+The clearest single illustration of what "Indian programming" meant in Canadian camping — and of how
+little the movement distinguished between learning from Indigenous people and inventing on their
+behalf — is not an argument. It is a layout. Within two pages, *Canadian Camping* for Fall 1972
+printed both of the following, apparently without noticing any difference between them.^29
+
+**The first is a real transmission of knowledge from a named living chief.** Claude Cousineau's "Have
+a 'Wigwas Teiman' in Your Camp," printed in English and French, records that **William Commanda,
+Traditional Chief of the Algonquin Nation**, was building birch bark canoes at **Maniwaki** — Kitigan
+Zibi, the Algonquin community about ninety miles north of Ottawa — and that "**This past summer, a few
+camps had the opportunity to acquire a Commanda birch bark canoe.**" The article is specific about
+method in the way only genuine instruction is: a white cedar frame, a birch bark covering, ash
+thwarts, black spruce roots for the lashing, and spruce gum mixed with animal fat for pitch.
+Photographs show Commanda **teaching Gaston Lemire**, the instructor at the CCA's own Canoeing School,
+and an Algonquin canoe built in July 1972 at the University of Ottawa camp.^30
+
+This matters for Kanawana specifically. The camp sits on **Weskarini Algonquin** territory, its
+canoe-tripping programme is the oldest continuous thing it does, and here is an Algonquin chief
+teaching Algonquin canoe construction to the national association's own canoeing instructor, in
+Quebec, in the summer of 1972. **No source places Kanawana among the "few camps" that acquired a
+Commanda canoe**, and none is claimed here — but it establishes that the opportunity existed, in the
+right province and the right craft, and that the question "did Kanawana ever learn anything from the
+people whose territory it camps on?" has at least one documented place to be asked.
+
+**The second, two pages away, is a missionary composition presented as an Indigenous one.** "An Indian
+Version of the Twenty-Third Psalm" is printed with an editor's note explaining that it "originated
+many years ago with Arizona Indians… **A white missionary then retranslated it into literal English —
+Indian style.**" The note describes the process of manufacture in plain sight and the magazine prints
+the result as Indigenous devotion regardless.^29
+
+**The two items are not in tension in the magazine, and that is the finding.** A national trade
+journal could carry, in one issue, the transmission of a real craft from a named chief and a settler
+pastiche in an invented register, and treat both as "Indian programming" — the same category, the
+same value. It is the most economical illustration this project has found of the confusion that
+Kanawana's own Council Ring, totem pole and Council of Tribes sat inside. **It is not evidence about
+Kanawana**, which left no comparable statement. It is the shape of the surrounding practice, which is
+the only thing Kanawana's silence can be read against.
+
+The pattern this article traces elsewhere is the same one: consultation and invention in one
+programme, from one person, in one issue, without the practitioners appearing to feel a tension. The
+1978 reprint below, the 1983 printing of a screenplay as Chief Seattle's speech, and the 1987 critique
+that finally names the problem are the later stages of it.
 
 ### Seton's creed still in print in 1978
 
@@ -181,6 +225,8 @@ The Kanawana site sits in the municipality of Saint-Sauveur, in the Laurentian h
 26. "Personality Profile — Mary S. Edgar," interview with Barbara and John Gilchrist, *Canadian Camping Magazine* Vol. 38 No. 3 (Winter 1987), pp. 9-15 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 160).
 27. Wendell White (Director, Camp Quin-Mo-Lac), "A Psalm of Praise," *Canadian Camping Magazine* Vol. 39 No. 1 (Summer 1987), p. 24, printed with "Sweet Grass and Candle" (words by Rev. John W. Oldham, music by R. Henry Kilborn and Oldham, written 26 March 1987) and Rev. David Spivey's psalm [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 162).
 28. Mary Northway, "Blue Lake and Rocky Shore," her Ontario Camping Association banquet speech of 1968, reprinted in *Canadian Camping Magazine* Vol. 39 No. 2 (Fall 1987), p. 17 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 163).
+29. "An Indian Version of the Twenty-Third Psalm," with editor's note, *Canadian Camping* Vol. 25 No. 1 (Fall 1972) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (`kb/reread/cc_findings.md`, issue 96). See [f_3667].
+30. Claude Cousineau, "Have a 'Wigwas Teiman' in Your Camp," *Canadian Camping* Vol. 25 No. 1 (Fall 1972), printed in English and French [src_ia_canadian_camping_collection]. Found by the re-read (issue 96). See [f_3666].
 
 ## Research Notes
 
