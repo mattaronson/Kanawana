@@ -5212,6 +5212,17 @@
       "created": "2026-09-05",
       "source": "formal RALPH cycle on carol-skinner, 2026-09-05",
       "blocked_on": "blocked in this environment; not blocked for a human"
+    },
+    {
+      "priority_id": "p_417",
+      "rank": 416,
+      "type": "VERIFY",
+      "description": "MAKE articles.json's DERIVED COUNTS SELF-MAINTAINING, OR STOP CARRYING THEM. On 2026-09-05 a recompute found 54 OF 104 RECORDS -- better than half -- carrying a stale word_count or open_questions. Two causes. (1) Nothing recomputes them: they are written by hand whenever an article is edited, so they drift from the moment they are set, and a reader has no way to tell a current figure from a year-old one. (2) Six articles numbered their Open Questions list from 0 rather than 1, so every count taken off those lists was short by one; all six are now renumbered. The word_count field also uses Python str.split() semantics, which do not match `wc -w` -- a difference that misled this project's own operator report today until it was checked directly. FIX: either add a builder like scripts/plaque/build_index.py and have data_integrity.py assert the file matches it -- the pattern this repo already uses for the multi-year index and which works -- or drop both fields, since a stale number is worse than no number. Prefer the builder: word_count and open_questions are genuinely useful for triage, and p_412 showed how quickly an unmaintained field stops being read at all.",
+      "weight": 6,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "checking the matt-aronson record, 2026-09-05",
+      "blocked_on": null
     }
   ],
   "queue_ordering": {
