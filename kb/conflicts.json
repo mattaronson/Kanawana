@@ -644,6 +644,15 @@
       "flagged_at": "2026-09-05",
       "status": "open",
       "notes": "Human decision point: documented sources disagreeing. Bears on canadian-camping-movement.md, which should state founding and incorporation as distinct events rather than letting one date stand for both, and on people/nelson-mcewen.md, which should carry the co-founder claim and the fact that CCA president Doug McEwen was his son."
+    },
+    {
+      "conflict_id": "c_036",
+      "entity": "Camp Ecole Trois-Saumons (year founded)",
+      "description": "TWO DATES, BOTH FROM CANADIAN CAMPING, TWO YEARS APART. (a) 1946: Huguette Dagenais's \"Nouvelles du Quebec\" in Vol. 23 No. 3 (Spring 1971) congratulates \"le Camp Ecole Trois Saumons qui fete cette annee son 25e anniversaire,\" naming l'abbe Raoul Cloutier as founder and Lucie Samson and l'abbe Patrice Turcotte as current co-directors -- a 25th anniversary in 1971 counts back to 1946. (b) about 1948: Cousineau's account in Vol. 21 (1969) describes the camp as founded \"some 21 years ago,\" which points to 1948. Two documented sources in the same magazine disagreeing with each other is a human decision point under the 2026-07-07 directive, not something the oral-history rule resolves. Trois-Saumons matters to this project because it is the camp credited with introducing hebertisme to North America, and because Cloutier's post-war camp founding bears on the Quebec association's own origins traced at issues 79 and 82 -- though the two-year difference does not change the conclusion there.",
+      "facts": [],
+      "flagged_at": "2026-09-05",
+      "status": "open",
+      "notes": "Opened during the KB extraction pass over the word-for-word read of Canadian Camping (issues 90-91). Both claims are recorded in kb/facts.json with confidence 'disputed'. Resolution would need a third source: the camp's own records, the Quebec association's directory listings, or diocesan records for l'abbe Raoul Cloutier."
     }
   ]
 }
