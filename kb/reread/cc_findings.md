@@ -26465,4 +26465,176 @@ orientation, **staff dating policy**." Kanawana was a co-educational camp in Mon
 initials fit nothing this project holds. **It cannot be attributed and is not being attributed**; it is
 recorded because a later pass finding two Montreal co-ed camp counsellors writing about staff dating in
 1983 should know it has already been seen and rejected as unattributable. The mailing label on this copy
-reads **HUGH BABCOCK, KETTLEBY, ONT.** — a sixth deposit hand in the Internet Archive run.
+reads **HUGH BABCOCK, KETTLEBY, ONT.** — a sixth deposit hand in the Internet Archive run. **[Corrected at issue 149:** the next issue's label on the same subscription reads "CAMP RICHILDACA / MR. & MRS. R. J. BABCOCK / KETTLEBY ON", so the deposit hand is **Camp Richildaca** of Kettleby, Ontario, and the initial is **R. J.**, not Hugh.**]**
+
+## 149 — Vol. 35 No. 4, Winter 1984 — ★★★★★ PETER GODDARD (QUÉ.) ON A CCA NATIONAL TASK FORCE
+
+Twenty pages. Contents page checked; every item read: six Letters to the Editor with editor's replies;
+the bilingual Editorial, "Acid Rain: Not Just A Catchphrase!" / "La pluie acide — plus qu'une simple
+rengaine!"; the masthead; The Camping Advisor (three questions); Jocelyn Palm's President's Perspective
+and the National Office News column; Marjorie Booth, "Volunteer Leaders Sharpen Executive Skills";
+John Roberts's Group Dynamics Exercise; the anonymous poem "About School"; Jeff Reading, "Acid Rain:
+Understanding the Problem at Camp" with its pH chart, acid-rain-cycle diagram and five camp
+experiments; "That's The Way The Cooky Crumbles" reprinted from *Forever Green*; Gordon Webber, "Sow
+Seeds — Trust The Promise"; Colin Lumby on the Alberta association; the Northern Illinois
+assistantships notice; Rick Ireland, "Environmental Education: Not an Endangered Species!"; the
+National Camping Day house advertisement in both languages; the Summer Canada Student Employment
+Program advertisement in both languages; the "Attitude Commandments"; the subscription rate special;
+two bookstore order forms; and the Royal Chinet advertisement. **Explicit null: the contents page
+announces a "SPECIAL INSERT — 1984 PUBLICATIONS CATALOGUE" and the insert is not present in this scan**
+— the 1984 catalogue is therefore a known, named, missing document, on the pattern of the 1981 and
+1982-83 catalogues this read has used.
+
+**PAGES 6-7 ARE PRINTED UPSIDE DOWN IN THE SCAN, as in issue 145**, and were read through
+`scripts/reread/unrotate.py`. **Everything quoted from those two pages is a reconstruction and is marked
+as such.** The decoder is lossy and ambiguous by construction — issue 146 already corrected one decoded
+date — so proper names below were checked glyph by glyph against the raw OCR before being written down,
+and **years from the rotated pages are treated as unreliable and are not asserted.**
+
+**★★★★★ PETER GODDARD IS NAMED, WITH "(QUÉ.)" AFTER HIS NAME, ON A CCA NATIONAL TASK FORCE.** In
+Jocelyn Palm's President's Perspective, listing the membership of the association's International Year
+of Youth Task Force chaired by Hugh Phillips:
+
+> "[The] committee chaired by Hugh has the following members: **IAN FOWLER (N.B.), JOHN LATIMER (Ont.),
+> PETER GODDARD (Qué.) and SYLVIA HAYNES (B.C.)**." *(reconstructed from the rotated scan)*
+
+**The name was verified character by character rather than trusted to the decoder.** The raw OCR reads
+`( ano) OHVdOOO H313d`. Reversing and un-rotating gives `H313d` → **PETER** (d→P, 3→E, 1→T, 3→E, H→R,
+the same substitutions that render LATIMER and FOWLER correctly on the same line) and `OHVdOOO` →
+**GODDARD** (G→O, O→O, D→O, D→d, A→V, R→H, D→O — an exact seven-for-seven match), with `( ano)` →
+**(Qué.)**. Two independent checks support it: the surrounding names on the same line decode to people
+this read already knows in exactly their stated provinces, and Peter Goddard is already documented in
+Quebec camping.
+
+**What it adds, stated carefully.** `people/directors-index.md` had Goddard signing as Director in
+**November 1982** and on the YMCA's **FY1986** roster, with "1983-1985… bracketed between those two
+points, not stated"; issue 147 placed him and "the staff of Kamp Kanawana" at the national poster
+mailing in **early 1983**. This is a third fixed point, at the **turn of 1983-84**: Peter Goddard,
+identified by province rather than by camp, sitting on a national CCA task force. **The source does not
+name Kanawana and does not give his title** — it establishes him as an active figure in Quebec camping
+at that date, not his office. But three documents now fall inside the four-year gap, at its start, its
+first spring, and its second winter, and the run of the bracket is no longer inference from its two
+endpoints alone. **Written into `people/directors-index.md` and `history/between-centennials.md` on
+exactly those terms, with the reconstruction flagged in both.**
+
+**★★★★ LOUIS JEAN LEFT THE NATIONAL EXECUTIVE BECAUSE HE JOINED THE ACQ'S STAFF — and this corrects
+what was written from issue 147.** From the same rotated page:
+
+> "**LOUIS JEAN has joined the staff of the Association des Camps du Québec. As employees are not
+> permitted to serve in Executive roles, Louis has resigned as Central Vice President.** Good wishes
+> Louis! **A new vice president has not yet been named.**" *(reconstructed from the rotated scan)*
+
+**Issue 147 recorded Louis Jean elected Central Vice-President by acclamation, taking office 6 May
+1983, and `canadian-camping-movement.md` was written to say so. That is now incomplete and has been
+corrected in place** rather than left standing: he held the office for something under nine months and
+resigned it before the winter of 1984. Three things follow. **Quebec's seat on the national executive
+went vacant** and was still vacant when the issue went to press, so the province had no regional
+vice-president again. **Louis Jean becomes an ACQ staff member** — a paid officer of the association
+that accredited Kanawana, and therefore a name to look for on ACQ correspondence and accreditation
+paper of 1984 onward, not merely a volunteer. And **the CCA had a written rule barring employees from
+executive office**, which is a small constitutional fact about the body and explains other
+disappearances from officer lists.
+
+**★★★★ THE ACID RAIN ISSUE — and the Laurentians are named.** The whole issue is given to acid rain,
+and Jeff Reading of Kilcoo Camp's feature carries the passage this project has been waiting for:
+
+> "**In Quebec the problem may be more serious.** When the glaciers retreated across this region they
+> removed much of the buffering material from the northern lakes and deposited them in the south.
+> **Most lakes north of the St. Lawrence River have already been acidified. Further, eighty percent of
+> the lakes and streams in the Laurentian Shield have acid levels high enough to kill plankton and
+> interfere with fish reproduction.**"
+
+**Kanawana sits on Lac Wilson at Saint-Sauveur, in the Laurentians, north of the St. Lawrence.** This is
+the first statement in the whole run that describes the acidification of Kanawana's own water by name
+of region rather than by national aggregate, and it is dated to the winter of 1984, inside the decade
+for which the camp's own records are thinnest. Reading also gives the mechanism (glacial stripping of
+buffering material from the northern lakes), the national average pH of rainfall at **4.3**, the
+"spring shock" of acid stored in snow releasing at melt, and the finding that acid kills or deforms fry
+"before acid levels reach a point dangerous to adult fish" — so a lake could be failing while still
+looking and fishing normal to a camp. The editorial adds TIME's figure of "**some 1,300 [lakes] in
+Quebec… in the process of being destroyed**" and a Gallup finding that **77% of Canadians thought acid
+rain the gravest environmental problem the country faced**. **Written into
+`traditions/environmental-history.md`.**
+
+**★★★★ AND THE ASSOCIATION HAD SAID NOTHING — its own editor says so, in print.** The same editorial:
+
+> "Yet **the Canadian Coalition on Acid Rain has indicated that the Canadian Camping Association is not
+> even a member!!** Why is it that those with so much to lose often have little to say?… **We have, on
+> paper, a national environment committee and still no word on acid rain, no position, no dissemination
+> of information, no commitment!** To be selectively mute in this area is to be irresponsible and
+> out-of-touch with a growing movement."
+
+A member's letter in the same issue makes the same charge from outside: Doug Caldwell of the Federation
+of Ontario Naturalists lists the fifty organizations in the Canadian Coalition on Acid Rain — from the
+Inuit Tapirisat of Canada to Resorts Ontario — and observes that "**noticeably absent in this list is
+the Canadian Camping Association or any Provincial Camping Associations. Is it the mandate of your
+Association to remain apolitical?… I challenge the Camping Associations of Canada to take a stand.**"
+**This is the environment committee this read has traced since Peter Rasberry's 1981 report, assessed by
+the association's own magazine as having produced nothing on the defining environmental question of the
+period.** It belongs in `environmental-history.md` beside the 1982 Environmental Ethic and the Acid Rain
+Education Kit as the measure of what the movement's environmental machinery actually delivered.
+**Written in.**
+
+**★★★ Five acid-rain experiments a camp could run — including one built on canoe tripping.** Reading
+sets out a programme any camp could adopt: wind charts traced back to the emitting region; a
+four-container pH comparison of rainwater, distilled water, vinegar and ammonia, with questions about
+whether it matters where in the storm, where on the site, and what season the sample comes from; daily
+pH logging of lake water, rainfall, post-rain lake water and tap water as part of a camp weather
+station; a bedrock-sensitivity experiment comparing marble against crushed local granite; and —
+**"Experiment 4: Canoe Trip Testing"** — "if you are a camp that has a reasonably extensive canoe
+tripping program (to distinctly different water sheds) then test the pH levels of the various lakes
+visited over the course of the summer… examine how the pH of frequently visited lakes changes during
+the summer." **Kanawana was exactly such a camp.** No evidence exists that it did this; what exists is
+the dated, published proposal that a tripping camp turn its route into a monitoring transect, and it is
+worth having beside `traditions/canoe-trips.md` and the environmental article as the contemporary
+answer to what a camp was being asked to do about acid rain. **Recorded in
+`traditions/environmental-history.md` as a programme proposal, not as Kanawana practice.**
+
+**★★ National office turnover, and two new committee chairmen.** From the rotated National Office News:
+**Mrs. Irene Knapp** appointed Secretary at the National Office — a native of Glasgow who came to Canada
+on a working holiday, with secretarial and bookkeeping experience, hours Monday to Friday 9:00 to 4:00;
+**Mary Roy** confirmed gone after "8½ years of service" and now freelancing from home, still "at the end
+of the phone" for bookkeeping questions; and **Sharon Freedman**, the office typist "since November
+1982," who "did an outstanding job… especially on the myriad of tasks surrounding the International
+Camping Congress last January," left in October before the birth of her second child. From the
+President's Perspective: **Jean Punk (Alta.)**, back from world travels and working as a freelance
+consultant to the Alberta Forest Service, is **the new chairperson of the Environment Committee** — the
+committee the editorial in the same issue says has produced nothing — and **Paul Potter (Nova Scotia)**,
+a programme consultant developing emergency training and physical fitness programmes for offshore oil
+rigs, becomes **CCA Leadership Development Programs chairman** and will coordinate the Consultant/Advisor
+programme. Three task forces were wound up and disbanded, their chairmen thanked: **Jack Pearse** for a
+feasibility study on a national conference, **Janet Adamson** for the hasti-notes trial, and **Terry
+Burkhalter** for the Volunteer Executive Development seminar. *(All reconstructed from the rotated
+scan.)*
+
+**★★ The Volunteer Executive Development Workshop, and who went.** Marjorie Booth's account: twenty-one
+provincial and national leaders at **Bolton Camp and Conference Centre, 13-15 October 1983**, chaired by
+Terry Burkhalter, facilitated by **Arnie Cohen** — a long-time camp leader, by then a consultant in
+psychological matters in Winnipeg, who said at the end that he felt as though he had "come home" being
+with camping people again — on goal-setting, consensus decision-making, "Synergistic Planning" against
+"Traditional Planning," managerial grid theory and communication. Fitness Canada paid the delegates'
+airfares. **The full delegate list is printed, and Quebec sends nobody**: Newfoundland, Nova Scotia, New
+Brunswick, Ontario (Liz Greenway, Fred Okada, Dorothy Walter), Manitoba, Saskatchewan, Alberta and B.C.
+are all represented; **Quebec is absent from a national leadership event held six months after Louis
+Jean's election and around the time he left the executive for the ACQ's staff.** Recorded as an explicit
+null of the kind that only a full read produces.
+
+**★ Minor, and one correction to issue 148.** The next International Camping Congress was set for
+**1-2 March 1987 at Washington, D.C.**, with the CCA agreeing to promote and take part in the planning;
+the ACA's own 1984 convention was **21-24 February at San Diego**. The subscription card offers a rate
+this project should record for `meta/sources-index.md`: after the first two full-rate subscriptions at
+**$6.00 a year, additional one-year subscriptions at $4.00**, pitched at directors subscribing their
+senior staff — "many counsellors are requesting reprints of articles and/or entire issues." Reading's
+feature lists its own further-reading addresses, including **Acid Precipitation Awareness, Harriet
+Stubbs, Project Director, St. Paul, Minnesota**. The Camping Advisor answers a parent of a
+newly-disabled ten-year-old on integrated versus specialty camps — "many people feel that integration is
+a better philosophical stand than segregation" — and promises that "the next issue of Canadian Camping
+will deal specifically with some of the issues facing disabled campers," a forward lead. Colin Lumby
+reports Alberta's 1983 pre-camp workshops (33 volunteer resource people for 120 camp personnel, at
+Yo-Wo-Ch-As and Yamnuska) and Rick Ireland describes Alberta Education's **Environmental Education
+Manual for Grades 1-12** — a provincial curriculum an outdoor centre could sell into, and the clearest
+statement in this run of environmental education becoming school business rather than camp business.
+**Correction to issue 148:** the mailing label there was recorded as "Hugh Babcock, Kettleby, Ont."; this
+copy's label reads **"CAMP RICHILDACA / MR. & MRS. R. J. BABCOCK / KETTLEBY ON"**, so the sixth deposit
+hand is a camp, Camp Richildaca of Kettleby, Ontario, and the initial is R. J. rather than Hugh.
+Corrected in block 148.

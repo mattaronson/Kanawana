@@ -1,6 +1,6 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 41*
+*Status: E1-reviewed | Sources: 42*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -156,6 +156,22 @@ The camp's stated acreage varies by a factor of nearly seven across the record, 
 
 The 1964 purchase is itself notable: lot 215 was bought **jointly with the Boy Scouts' Camp Tamaracouta**, and lots 216–217 outright, expressly to block "a proposed summer colony of some 200 lots."^33 And the 1988 report contains the line that explains the whole table: **"There was no record found that showed the Kanawana site has ever been surveyed."**
 
+### Acid rain reaches the Laurentians by name, 1984
+
+The whole of the Winter 1984 issue of *Canadian Camping* was given to acid rain, and it carries the first statement in the magazine's entire run that describes the acidification of **Kanawana's own water by region** rather than by national aggregate. Jeff Reading of Kilcoo Camp wrote:
+
+> "**In Quebec the problem may be more serious.** When the glaciers retreated across this region they removed much of the buffering material from the northern lakes and deposited them in the south. **Most lakes north of the St. Lawrence River have already been acidified. Further, eighty percent of the lakes and streams in the Laurentian Shield have acid levels high enough to kill plankton and interfere with fish reproduction.**"^42
+
+Kanawana sits on Lac Wilson at Saint-Sauveur, in the Laurentians, north of the St. Lawrence. Reading gives the mechanism — glacial stripping of buffering material from the northern lakes — a national average rainfall pH of **4.3**, the "spring shock" of acid stored in snow releasing at melt, and the finding that acid kills or deforms fry "before acid levels reach a point dangerous to adult fish," so a lake could be failing while still looking and fishing normally to the people on it. The accompanying editorial adds *TIME*'s figure of "**some 1,300 [lakes] in Quebec… in the process of being destroyed**" and a Gallup finding that **77% of Canadians thought acid rain the gravest environmental problem the country faced**. None of this is a measurement of Lac Wilson, and none is presented as one; it is the contemporary description of the water system Kanawana's canoe trips ran through, published in the year the camp's own record is thinnest.^42
+
+**What a camp was being asked to do about it.** Reading set out five experiments requiring almost no equipment: wind charts traced back to the emitting region; a four-container pH comparison of rainwater, distilled water, vinegar and ammonia, with questions about where in a storm, where on a site and in what season a sample is taken; daily pH logging of lake water, rainfall, post-rain lake water and tap water as part of a camp weather station; a bedrock-sensitivity experiment comparing marble against crushed local granite; and **"Canoe Trip Testing" — "if you are a camp that has a reasonably extensive canoe tripping program (to distinctly different water sheds) then test the pH levels of the various lakes visited over the course of the summer… examine how the pH of frequently visited lakes changes during the summer."** Kanawana was exactly such a camp; **no evidence has been found that it did this**, and the proposal is recorded here as what the movement was asking of tripping camps in 1984, not as Kanawana practice. Reading also warned camps in affected areas to run the taps for several minutes after a period of non-use, because acidified water leaches aluminum, lead and copper out of plumbing — a closing-and-opening precaution with obvious application to a seasonal camp.^42
+
+**And the association itself had said nothing — its own magazine says so.** The editorial of the same issue:
+
+> "Yet **the Canadian Coalition on Acid Rain has indicated that the Canadian Camping Association is not even a member!!** Why is it that those with so much to lose often have little to say?… **We have, on paper, a national environment committee and still no word on acid rain, no position, no dissemination of information, no commitment!**"
+
+A member's letter in the same issue makes the charge from outside: Doug Caldwell of the Federation of Ontario Naturalists lists the fifty organizations in the Canadian Coalition on Acid Rain — from the Inuit Tapirisat of Canada to Resorts Ontario — and observes that "**noticeably absent in this list is the Canadian Camping Association or any Provincial Camping Associations. Is it the mandate of your Association to remain apolitical?**"^42 That is the national environment committee traced above, from Peter Rasberry's 1981 report through the 1982 Environmental Ethic and the Acid Rain Education Kit, assessed by its own association's magazine as having produced nothing on the defining environmental question of the period. In the same issue **Jean Punk of Alberta** is announced as the committee's new chairperson.
+
 ## Alumni Environmental Impact
 
 Several Kanawana alumni have built careers in environmental stewardship:
@@ -243,6 +259,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 39. "Announcing: Acid Rain Awareness Twinning Project" and Peter Rasberry, "From the Environment Committee," *Canadian Camping* Vol. 33 No. 6 (Winter 1982), pp. 14-15 [src_ia_canadian_camping_collection]. Found by the same read (issue 140).
 40. Peter Rasberry, "Environment Committee," in the CCA/ACC Annual Report 1981, *Canadian Camping* Vol. 34 No. 2 (Summer 1982), pp. 9-10 [src_ia_canadian_camping_collection]. Found by the same read (issue 142).
 41. CCA/ACC *Publications 1982-83* catalogue, bound as an insert to *Canadian Camping* Vol. 34 No. 3 (Autumn 1982), pp. 17-18 [src_ia_canadian_camping_collection]. Found by the same read (issue 144).
+42. Jeff Reading (Kilcoo Camp), "Acid Rain: Understanding the Problem at Camp," pp. 13-16; the bilingual editorial "Acid Rain: Not Just A Catchphrase!"; the letter from Doug Caldwell; and Jocelyn Palm, "President's Perspective" — all in *Canadian Camping* Vol. 35 No. 4 (Winter 1984) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 149). The President's Perspective page is printed 180° rotated in the scan and was decoded with `scripts/reread/unrotate.py`.
 
 ## Research Notes
 
