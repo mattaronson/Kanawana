@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 4102,
+  "fact_count": 4141,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -72888,6 +72888,719 @@
         "Canadian Camping Association"
       ],
       "date_ref": "1980-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4141",
+      "issue": 133,
+      "claim": "The Canadian Camping Association printed the distinction beside its cut-out logo sheet in October 1980: \"Your camp can only be accredited by your Provincial Camping Association and not by the C.C.A. Therefore your camp is a member camp of the C.C.A. and not an accredited member.\" Kanawana was accredited by the Quebec association and a member camp of the Canadian one, the membership flowing automatically from the accreditation.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Quebec Camping Association",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1980-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4142",
+      "issue": 133,
+      "claim": "The Canadian Camping Association's \"A Counsellor and C.I.T. Training Program\" (October 1980) sets out nine headings for in-camp staff training, of which the first is Camp History, containing: \"organization history, camp's history, rationale for founding, camp traditions, site: how secured and legal status, facility developments: past, present and future, program development, administration and policy setting procedures.\" A Canadian camp in 1980 was expected to give its counsellors and CITs an annual account of its own founding, its traditions and how it came by its land.",
+      "category": "traditions",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1980-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4143",
+      "issue": 133,
+      "claim": "The 1980 national training outline recommends where a camp's own history would be written down: \"A CAMP MANUAL covering the specific details of each section will be most helpful... 1) a written reminder of details for the staff 2) a method of consolidating and finalizing your thoughts 3) a written report for future directors and boards.\" This retrospectively explains a document this project already holds: the \"Kamp Kanawana History\" presented at a staff training course in 1951 is exactly the historical sketch such an outline prescribes, which suggests the practice was old at Kanawana and may have produced others.",
+      "category": "archives",
+      "entities": [
+        "Camp Kanawana",
+        "Canadian Camping Association"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1980-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4144",
+      "issue": 133,
+      "claim": "Christine Nixon of Camp Oconto described how a camp's songs were passed on, in October 1980: \"Because they are new to camp, many of the camp songs, graces, chants etc. that staff and older campers take for granted, will be unknown to younger campers. Counsellors should give these campers an 'intensive course' in the learning of these old favourites during the first few days of camp — singing them over and over, anywhere and anytime! This will help them to quickly feel like a part of camp and that they really belong.\"",
+      "category": "traditions",
+      "entities": [
+        "Christine Nixon",
+        "Camp Oconto"
+      ],
+      "date_ref": "1980-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4145",
+      "issue": 133,
+      "claim": "A camp repertoire lived in the memory of returning campers and staff and was reinstalled in newcomers by deliberate repetition in the first days of each season. That is why camp songs survive for decades with no written source, why a break of a season or two can lose one completely, and why the song functioned as a membership rite rather than an entertainment — the stated argument for the intensive course being belonging.",
+      "category": "traditions",
+      "entities": [
+        "Christine Nixon",
+        "Camp Kanawana"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1980",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4146",
+      "issue": 133,
+      "claim": "Christine Nixon's 1980 method for teaching camp songs: echo songs and songs that build; teach slowly in very small parts; look at each child individually; repeat often; and choose by mood, because \"there is nothing like a singsong to bring a rowdy group of youngsters down to earth.\" The occasions music filled were \"waiting periods, energy-spending device, or fearful times (ie thunderstorms),\" plus sea shanties \"to maintain a steady stroke in canoeing.\"",
+      "category": "traditions",
+      "entities": [
+        "Christine Nixon",
+        "Camp Oconto"
+      ],
+      "date_ref": "1980-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4147",
+      "issue": 133,
+      "claim": "Bill Mason's Path of the Paddle was published by Van Nostrand Reinhold in early November 1980, 160 pages, with a foreword by Pierre Elliott Trudeau: \"I have known Bill Mason for many years. I have paddled with him, traded outrageous stories with him about past canoeing expeditions.\" The notice records that \"Mason is no stranger to resident camping in Canada having learned a great deal about the art of canoeing at Pioneer Camp in Manitoba while on staff there,\" and that his four Path of the Paddle films of 1978 \"have become the most popular films ever produced by the NFB.\"",
+      "category": "canoe_trips",
+      "entities": [
+        "Bill Mason",
+        "Pierre Elliott Trudeau",
+        "National Film Board"
+      ],
+      "date_ref": "1980",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4148",
+      "issue": 133,
+      "claim": "The Canadian Camping Association's Leadership Training Committee invited camps into a national counsellor exchange in October 1980, through Bev Bullock of Kamloops, with an argument about retention: \"How often is camp manpower lost simply because kids tire of repeating the same or similar experiences. Staff could be motivated to continue in the camping field if offered the exciting opportunity of a new camp experience in a different part of the country.\" The idea had been recommended by Granek's 1978 thesis and by Blackstock the same year.",
+      "category": "staff",
+      "entities": [
+        "Bev Bullock",
+        "Canadian Camping Association",
+        "Marvin Granek"
+      ],
+      "date_ref": "1980-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4149",
+      "issue": 133,
+      "claim": "From October 1980 Canadian Camping was mailed from the National Sport and Recreation Centre in Ottawa off a computerised list — a change in the distribution chain, and a reason the Trent deposit copies exist.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping (magazine)",
+        "National Sport and Recreation Centre",
+        "Trent University"
+      ],
+      "date_ref": "1980-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4150",
+      "issue": 134,
+      "claim": "The Nova Scotia camp songbook has a title and an exact count: \"Come On... Let's Sing — Nova Scotia Camping Association, 156p, 1979, $3.75. Words to 583 favorite camp songs compiled by the N.S.C.A.\" It is words only, without music, and is searchable in library catalogues.",
+      "category": "traditions",
+      "entities": [
+        "Nova Scotia Camping Association"
+      ],
+      "date_ref": "1979",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4151",
+      "issue": 134,
+      "claim": "The printed camp song repertoire a Canadian camp could buy in 1980, from the CCA's first full bilingual publications catalogue: Come On... Let's Sing (583 songs, words only, NSCA 1979); Sing! (ACA/World Around Songs, revised 1978, words and music); Tent and Trail Songs (116 songs, 1966); Sing with Jack Pearse (37 pages, 31 songs with music, Camp Tawingo Publications 1980); and Tobitt's A Counselor's Guide to Camp Singing, with Sing (One More Time) with Jack Pearse due early 1981. That is the comparison set for deciding which Kanawana songs are house compositions.",
+      "category": "traditions",
+      "entities": [
+        "Canadian Camping Association",
+        "Jack Pearse",
+        "Nova Scotia Camping Association",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1980-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4152",
+      "issue": 134,
+      "claim": "Camp Amy Molson's December 1980 advertisement for an executive director requires \"formal training in a child related profession... working knowledge of French and fluency in English; meet age and experience requirements of A.C.Q.\" By 1980 the Association des camps du Quebec set minimum standards for the director's post, not only for the camp's facilities and programme, and a Montreal camp advertised compliance as a condition of employment.",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Amy Molson",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1980-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4153",
+      "issue": 134,
+      "claim": "YMCA Camp Howdy near Vancouver packed a \"Camper Care Package\" into every camper's luggage on the last day, not to be opened until the child was home. Its eight contents included \"the words for some of the more popular camp songs, announcements, graces, etc.\"; a poem about camp; age-banded craft and game activities; a list of January-to-June camp and local YMCA programmes; \"an evaluation form for parent(s) and child to complete together and return to our camp office\"; and a family activity. Where a camp did this, its repertoire left the site in writing, in a child's suitcase — one route by which a camp song sheet can survive in a family's papers when nothing survives in the camp's.",
+      "category": "traditions",
+      "entities": [
+        "Camp Howdy",
+        "YMCA"
+      ],
+      "date_ref": "1980-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4154",
+      "issue": 134,
+      "claim": "Walter Mingie wrote a Canadian Camping Association publication: \"Outdoor Education — Guidelines for Camp — W. Mingie, 17p, CCA, revised 1981. Information for Camp Directors on campsite use for school programs.\" Mingie appears in this run as the Quebec association's Outdoor Education chairman and the author of its 1972 hebertisme article.",
+      "category": "sources",
+      "entities": [
+        "Walter Mingie",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1981",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4155",
+      "issue": 134,
+      "claim": "The Alberta Camping Association's Director's Guide for Counsellor Training is dated 1976, not 1978: \"Director's Guide for Counsellor Training — Alberta Camping Assoc., 41p, 1976. Reprinted in 1980 by C.C.A.\" It existed by 1976 and the CCA reprinted it four years later.",
+      "category": "sources",
+      "entities": [
+        "Alberta Camping Association",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1976",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4156",
+      "issue": 134,
+      "claim": "The Canadian Camping Association's constitution provided three regional vice-presidents from 1980: \"Derek Walsh of Montreal\" agreeing to stay on as the representative of Quebec and Ontario until May 1981; George Matthews for the Atlantic provinces until May 1983; and Gary Luthy for the West until May 1981. The description \"of Montreal\" contradicts the Camp Thunderbird, Victoria entry recorded elsewhere for Walsh in 1979.",
+      "category": "people",
+      "entities": [
+        "Derek Walsh",
+        "George Matthews",
+        "Gary Luthy",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1980-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4157",
+      "issue": 134,
+      "claim": "The planned 1983 International Congress lost its American partner: \"Finances proved to be too big an obstacle so that regretfully the joint effort of C.C.A./O.C.A. and A.C.A. has been dropped. However, C.C.A. and O.C.A. have agreed to jointly sponsor the International Congress in Toronto in March of '83.\" A Leadership Resources Workshop at Camp Wanakita, 16-18 October 1980, produced \"a three to five year plan for the C.C.A.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Ontario Camping Association",
+        "American Camping Association"
+      ],
+      "date_ref": "1980-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4158",
+      "issue": 134,
+      "claim": "The Canadian Camping Association \"is the sole distributor in Canada for books published by the American Camping Association,\" and its first full bilingual catalogue of December 1980 carries only about fifteen asterisked Canadian titles among more than a hundred entries. ACA health forms are listed individually at 5 cents each with the note \"These forms are not to be reproduced by any other agency\" — Accident Report Form, Health Record Card, Camp Health Record Form, Girl's Health Examination Card, Boy's Health Examination Card, Camp Health Examination Form and Camp Staff Application.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping Association",
+        "American Camping Association"
+      ],
+      "date_ref": "1980-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4159",
+      "issue": 134,
+      "claim": "The Project Reach series from the University of Kentucky, funded by the US Department of Health, Education and Welfare and sold through the CCA in 1980, supplies six counsellor-training modules and four job-specific manuals — Camp Food Service Supervisor, Camp Maintenance Supervisor, Camp Nurse and Camp Secretary — the first published treatments this read has seen of the camp jobs that leave no trace in camp records.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1980-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4160",
+      "issue": 135,
+      "claim": "Canadian Camping's \"Camp Staff Issue\" of February 1981 specifies the camp staff manual in full: \"A STAFF MANUAL is a booklet prepared by the camp for the purpose of informing its future staff about the camp and their role in it,\" in seven parts. Part II, Facts About Camp, requires a directional map, \"a sketch of site showing trails, program areas, buildings,\" a description of the setting's special features and \"special problems which site gives rise to\"; statements of traditions and philosophy; \"a brief historical sketch of the camp\"; and \"explanation of role that camping plays in the total program of the sponsoring organization.\" Personnel Policies must cover \"sickness allowance; employment and dismissal procedures; salary scales and payment procedures; travel to and from camp, charges for laundry.\"",
+      "category": "archives",
+      "entities": [
+        "Canadian Camping Association",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1981-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4161",
+      "issue": 135,
+      "claim": "A single surviving Kanawana staff manual would carry, in one binder, the camp's own historical sketch, a site map with its problems named, its dismissal procedures, its salary scales, its blank forms and its job descriptions. The 1981 specification also explains the \"Kamp Kanawana History\" presented at a staff training course in 1951: it is exactly the \"brief historical sketch of the camp\" the list prescribes, so it was probably extracted from or written for a manual of this kind.",
+      "category": "archives",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1981",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4162",
+      "issue": 135,
+      "claim": "Part IV of the 1981 staff manual specification lists the sample forms used at camp: \"test sheets (swimming, canoeing, camp crafts, etc.); tripping reports, what to take, hints for safety; parent reports, reports to section heads, etc.; counsellor evaluation.\" Part III's counsellor curriculum lists under Discipline \"meaning of discipline; what kinds of punishment, if any; factors in group discipline; building of esprit de corps\"; under The Cabin Counsellor the routines \"rising, ablutions, meals, clean-up, rest-hour, parent letters, parcels, prayers\"; under Counsellor Duties \"night patrol; life guard; evening snacks; records and reports\"; and under Public Relations \"deportment on days off; consideration for cottagers, neighbors, nearby communities.\"",
+      "category": "archives",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1981-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4163",
+      "issue": 135,
+      "claim": "Ron Johnstone, Executive Administrator of Camp Tawingo, asked a senior staff member to canvass the rest on why they returned, and reported the answer in February 1981: an atmosphere where \"I can express myself... in many different ways... through developing programme with our campers... through experimentation with my own philosophy,\" with \"a feeling of being able to express creativity without threat — without ridicule.\" His questions to directors: \"Do we as Camp Directors really appreciate and encourage initiative? Or do we as Camp Administrators see initiative as a threat? Do we hire staff because of their personality and then say to them... 'this is the way I want you to do it'? Do we let our staff make mistakes?... What a terrific way to teach!\" And: \"Our staff are people with the same basic needs and desires as our campers.\"",
+      "category": "staff",
+      "entities": [
+        "Ron Johnstone",
+        "Camp Tawingo"
+      ],
+      "date_ref": "1981-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4164",
+      "issue": 135,
+      "claim": "The counsellors' page of February 1981 on homesickness: \"All homesick campers do not act the same way. There is not always tears and stomach aches. Some homesick campers become very reserved, withdrawn, and even very temperamental, angry and resentful. Be sensitive to this very real 'sickness'.\" It advises \"be cautious with ghost stories\" under knowing when campers are scared, and on discipline: \"Don't use 'archaic' physical punishment or 'torture and endurance' tests. Make the punishment fit the crime.\"",
+      "category": "programs",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1981-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4165",
+      "issue": 135,
+      "claim": "Ralph H. Raymer died on 20 November 1980 at Beaver, Pennsylvania. With his late wife Elizabeth he was co-director of Camp Tanamakoon from 1953 to 1974; they were founding members of the Society of Camp Directors and Honorary Life Associates of the Ontario Camping Association. He chaired the OCA's Finance Committee, where \"he organized the books and recording methods,\" and its Standards Committee in 1965-66.",
+      "category": "biography",
+      "entities": [
+        "Ralph H. Raymer",
+        "Camp Tanamakoon",
+        "Society of Camp Directors",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1980-11-20",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4166",
+      "issue": 135,
+      "claim": "Paul Pichard's \"Voyage, fantaisies et aventures en plein air,\" 212 pages, Distributions Reliv inc., Isle-Verte, Quebec, $9.95, is the only francophone outdoor title the Canadian Camping Association drew attention to in this run, and was \"published in French only.\" Its argument is domestic rather than expeditionary: \"nul n'est besoin d'escalader de hauts sommets... avec un peu d'originalite et de fantaisie, de nombreuses aventures peuvent se derouler a proximite de votre cour ou de votre chalet.\"",
+      "category": "sources",
+      "entities": [
+        "Paul Pichard"
+      ],
+      "date_ref": "1981-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4167",
+      "issue": 135,
+      "claim": "W. J. Babcock, owner-director of Camp Richildaca, Kettleby, names a further camp record class in February 1981: \"Get permission from the director. Draw a sketch of the route of the hike. A list of all those going on the hike should be attached to it along with the proposed time of departure and return. Keep this all on file.\" The road rule of the period: \"Two counsellors go on each hike, with one at the head of the group and one at the rear. When on the road, walk at the left side, single file, facing the traffic.\"",
+      "category": "archives",
+      "entities": [
+        "W. J. Babcock",
+        "Camp Richildaca"
+      ],
+      "date_ref": "1981-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4168",
+      "issue": 136,
+      "claim": "Canadian Camping's Indigenous-themed material shifts across three years: February 1978, Ernest Thompson Seton's \"The Indian's Creed\" printed entire and unattributed to any Indigenous source; May 1979, Chief Dan George's \"And My Heart Soars\" printed in full; April 1981, \"Great Spirit Make Me,\" headed \"Translated from the Sioux.\" The framework of borrowing is unchanged; the sources it draws on are not. But the shift is real only for the material the editors foregrounded: the back cover of the June 1981 issue prints \"legend of the white canoe,\" the Victorian Niagara human-sacrifice invention, unattributed and uncommented. The sourcing had been supplemented, not replaced.",
+      "category": "context",
+      "entities": [
+        "Ernest Thompson Seton",
+        "Chief Dan George",
+        "Canadian Camping (magazine)"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1981-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4169",
+      "issue": 136,
+      "claim": "Professor F. M. Chapman, teaching Camp Administration at the University of Minnesota, published \"Security and Disaster at Camp\" in April 1981, naming nine catastrophic camp occurrences — \"Accidents, Asphyxiation, Bombs, Drowning, Epidemics, Murder, Rape, Storms, Theft\" — with footnotes to actual American incidents including a 1962 bomb at a Wisconsin Scout camp and the 1977 Oklahoma Girl Scout murders. \"There is no longer room for naivety nor carelessness when it comes to securely guiding the camp community... The term 'security' now presents itself as a fact of life,\" and \"Today's camp director can no longer assume that disaster happens only at the other camp.\" It is American in evidence and general in application, and nothing connects it to Kanawana; it is the clearest statement in the run of how the liability and security anxiety of these years felt from inside.",
+      "category": "context",
+      "entities": [
+        "F. M. Chapman"
+      ],
+      "date_ref": "1981-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4170",
+      "issue": 136,
+      "claim": "The research behind the HELP posture was Canadian and dated: in 1971 a team at the University of Victoria — Dr. John Hayward, Dr. Martin Collis and Dr. John Eckerson — began studying the body's response to long-term immersion, over more than 500 immersions in water from 4 to 15 degrees Celsius. Their findings: holding still rather than swimming increases survival time by a third; in 10-degree water an average person can swim \"a little less than a mile before being completely incapacitated by cold\"; drownproofing, then widely taught, cools 35% faster than treading water because of heat loss from the head; and the HELP posture for individuals and the Huddle for groups roughly double survival time, to nearly four hours in 10-degree water. Their conclusion: \"A P.F.D. is not really a life jacket unless it provides a measure of thermal protection.\"",
+      "category": "programs",
+      "entities": [
+        "John Hayward",
+        "Martin Collis",
+        "University of Victoria"
+      ],
+      "date_ref": "1971",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4171",
+      "issue": 136,
+      "claim": "The fire-safety guidelines reprinted for Canadian camps in April 1981 require a named safety officer responsible for a written fire emergency plan distributed to every staff member with evacuation routes posted; fire drills within the first 24 hours of each camping session; fire watches in all buildings sleeping more than 12 persons where no detection system exists; a posted roster of fire departments, physicians, hospitals, police and ambulance at every telephone; weekly checks of alarms and extinguishers; smoke detectors in all separate sleeping cabins; 100 feet of hose with an adjustable nozzle as a minimum; backpack water pumps by the door of every large tent; and a written camp policy on smoking, fuel storage and refuelling. Two record classes follow — the written fire emergency plan and the weekly safety inspection.",
+      "category": "facilities",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1981-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4172",
+      "issue": 136,
+      "claim": "The mailing label on the Internet Archive copy of Canadian Camping Vol. 33 No. 2 (April 1981) reads \"Camp Richildaca, Mr & Mrs W. J. Babcock, Kettleby\" rather than Trent — a reminder that the cached run is assembled from more than one deposit.",
+      "category": "methodology",
+      "entities": [
+        "Camp Richildaca",
+        "Canadian Camping (magazine)",
+        "Trent University"
+      ],
+      "date_ref": "1981-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4173",
+      "issue": 137,
+      "claim": "Camps, Their Planning and Management was written by Robert E. Wilkinson, Ph.D., Professor in the Department of Physical Education at McGill University, Montreal, and published by C.V. Mosby, Toronto, in 1981, 291 pages, $19.95, sold through the CCA's own publications service. The publisher describes the author as a \"Member of Canadian Camping Association through the Association des Camps du Quebec,\" and Eanswythe Flynn's review adds \"and Camp Nominingue\" — F. M. Van Wagner's camp.",
+      "category": "sources",
+      "entities": [
+        "Robert E. Wilkinson",
+        "McGill University",
+        "Association des camps du Quebec",
+        "Camp Nominingue"
+      ],
+      "date_ref": "1981",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4174",
+      "issue": 137,
+      "claim": "Wilkinson's Camps, Their Planning and Management (1981) prints the Canadian Camping Association's national code of ethics in full, and, per Eanswythe Flynn's review, \"scores of charts, sketches, plans and specimens of every kind of business form any camp records would require,\" with fifty-two sketches and charts by Mrs. Wilkinson. Flynn: \"Not since Dimock and Hendry's Camping and Character (1929) has a Canadian textbook of this size and depth been so all embracing.\" A book with specimens of every camp business form, by a member of Kanawana's own provincial association, published in the year the camp's own record is thinnest.",
+      "category": "sources",
+      "entities": [
+        "Robert E. Wilkinson",
+        "Eanswythe Flynn",
+        "Hedley Dimock",
+        "Canadian Camping Association",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1981",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4175",
+      "issue": 137,
+      "claim": "The Canadian Camping Association issued a memo in May 1981: \"Remember, camps are only accredited by Provincial Associations NOT by the C.C.A... It has come to our attention that some camps are still using the wording 'accredited by C.C.A.' on their literature. This is incorrect and should be changed.\" Any Kanawana printed material claiming accreditation by the national body is using wording the association was actively trying to stamp out, and should not be read as evidence of a second accreditation.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1981-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4176",
+      "issue": 137,
+      "claim": "The Canadian Camping Association's executive met the Fitness and Amateur Sport Directorate in Ottawa on 7 April 1981 for a review of its work and federal funding, with Jay Haddad giving a slide presentation. Cliff Labbett reported the department's concern: \"Ottawa is concerned with the continuing accidents resulting from poorly-equipped and ill-trained (or untrained) persons who go on camping trips, canoe trips, mountain climbing and wilderness travel.\" Three years after the 1978 tragedy the federal funder was still pressing the point, and the association's answer was its \"HOW TO\" series of monographs, for which it was soliciting authors.",
+      "category": "camping_movement",
+      "entities": [
+        "Jay Haddad",
+        "Clifford Labbett",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1981-04-07",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4177",
+      "issue": 137,
+      "claim": "Jocelyn Palm was elected Canadian Camping Association President for two years in 1981; Jane McCutcheon succeeded Derek Walsh as Vice-President of the Central Region; Gary Luthy was elected for the West and George Matthews continued for the Atlantic. Cliff Labbett's closing judgement: \"C.C.A. has made tremendous strides forward in the past ten years.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Jocelyn Palm",
+        "Jane McCutcheon",
+        "Derek Walsh",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1981-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4178",
+      "issue": 137,
+      "claim": "John Latimer's list of what parents expect of a camp counsellor (May 1981) runs to twenty-one items. The custodial ones come first: a counsellor who \"constantly watches out to see the child is healthy and CLEAN including TEETH\"; who checks \"that toilet habits are regular\"; who \"will not let sunstroke strike\"; who \"is aware of the whereabouts of their child at all times\"; and who \"sees to it that P.F.D's (life jackets) are properly used.\" The developmental ones come last: a good listener and \"a sounding board for their child's values, ideals, dreams and perceptions of the world\"; \"has a sense of humour ALL summer\"; \"does not expend too much time with friends on staff and ignore the children in consequence\"; and \"senses when a camper is homesick or lonely.\" One in the middle: \"supports established values such as religious beliefs.\"",
+      "category": "staff",
+      "entities": [
+        "John Latimer"
+      ],
+      "date_ref": "1981-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4179",
+      "issue": 137,
+      "claim": "John Latimer's survey of visiting-day practice in May 1981 is the only one in this run: \"Some camps have it any time and some camps do not allow the parents to visit the camps at all. Other camps, probably the majority, will have one day or period put aside.\" The argument against is disruption, difficulty for the counsellor, and that \"it is often very difficult for those children whose parents do not attend.\" The argument for is that \"it is a very rewarding experience for a parent to meet their child's counsellor, probably the most significant person in the child's life at camp.\" And: \"Counsellors should be given some training before visiting times.\"",
+      "category": "programs",
+      "entities": [
+        "John Latimer"
+      ],
+      "date_ref": "1981-05",
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
