@@ -4447,6 +4447,83 @@
       "created": "2026-09-05",
       "source": "word-for-word read of Canadian Camping, issues 84-86, converted to KB facts",
       "blocked_on": null
+    },
+    {
+      "priority_id": "p_348",
+      "rank": 347,
+      "type": "RESEARCH",
+      "description": "QUERY TRENT UNIVERSITY ARCHIVES FOR THE ONTARIO CAMPING ASSOCIATION FONDS -- AND SPECIFICALLY FOR ITS TAPED INTERVIEWS. Mary Northway's account in Canadian Camping, November 1970, dates the deposit exactly: 22 October 1970, past president John Latimer handing the archives to Dr. T. H. B. Symons at Trent, six years' work by a committee chaired successively by Adele Ebbs, Margaret Govan and Northway herself, catalogued at the OCA office by Mrs. Shirley Hall. Contents as she lists them: early brochures, photographs, programmes and schedules, films, financial accounts, diaries, AND TAPED INTERVIEWS OF PROMINENT CAMP PERSONALITIES. The collecting policy was 'everything. Let the archivist decide what is not important' -- so the fonds should contain national and inter-provincial material, not only Ontario. Three specific asks: (a) the taped interviews, and whether any interviewee had Quebec or YMCA connections; (b) the minute David Palter quotes from the Legislative Committee meeting of 7 March 1957, which should be in these papers; (c) whether the fonds includes CCA material from the years the national office was at 102 Eglinton Ave. East inside the OCA office (from 1971). A duplicate file was kept at the camping office; the originals went to Trent.",
+      "weight": 9,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 87-89, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_349",
+      "rank": 348,
+      "type": "RESEARCH",
+      "description": "FIND MARY S. EDGAR'S 'ONCE THERE WAS A CAMPER' (G. R. Welch, Toronto, 1970) AND RECORD 'HYMN FOR THE SPACE-AGE'. Canadian Camping, November 1970, announces the book as 'a little book of 23 delightful rhymes on kids at camp' with the author's own line drawings, and prints in the same issue Edgar's 'Hymn for the Space-Age' (Tune: Forest Green), an explicitly environmental hymn by the CCA's honorary president -- the third Edgar hymn this read has found, after 'Canada's Our Country' (June 1967) and 'This Fair Land, Our Canada' (1969). Search: Library and Archives Canada, Toronto Public Library, University of Toronto, Trent (the OCA fonds), AbeBooks and Internet Archive. The hymn text belongs in environmental-and-ecological-history and alongside the Edgar material in centennial-1967.md.",
+      "weight": 8,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 87-89, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_350",
+      "rank": 349,
+      "type": "RESEARCH",
+      "description": "DID KANAWANA SEND A DELEGATE TO THE CCA NATIONAL CONFERENCE ON CAMPING STANDARDS AND RESEARCH, HALIFAX, 22-23 FEBRUARY 1971? The conference was one delegate per member camp, with the CCA board meeting 20-21 February and the annual meeting on the evening of the 21st; delegates were asked to propose topics under standards and accreditation, health and safety, leadership development, and pollution and conservation. A delegate list, if it was printed in a later issue of Canadian Camping, would place a named Kanawana staff member at a national meeting on a precise date. Check the Spring and Summer 1971 issues in the cached run when the read reaches them, and the YMCA of Montreal's own 1971 records.",
+      "weight": 7,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 87-89, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_351",
+      "rank": 350,
+      "type": "WRITE",
+      "description": "READ KANAWANA'S SONG RECORD AGAINST JACK PEARSE'S 'SONG LEADING' (Canadian Camping, June 1970) -- the p_048 comparator the read was looking for. Pearse, director of Camp Tawingo, sets out the period's own five-category taxonomy (novelty numbers, action songs, rounds, spirituals and folk songs, quiet songs) with a named repertoire under each, plus the rule that all sing-songs end quietly and the advice that leaders should make up songs for their own groups. This does three things for the Kanawana song question: it dates the common stock (so a Kanawana song found in Pearse's lists is movement-wide, not camp-specific); it supplies the vocabulary the period actually used for its own singing; and it establishes that camp-specific songs were an advised practice, not an accident. Any traditions article on Kanawana singing should distinguish the common stock from the camp's own on this basis, and say which it is doing.",
+      "weight": 8,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 87-89, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_352",
+      "rank": 351,
+      "type": "RESEARCH",
+      "description": "REVISE THE CHOPSY LINE OF ENQUIRY (p_045) IN LIGHT OF DAVID HARTRY'S 'SNARK HUNTING' (Canadian Camping, Winter 1971). Hartry, then CCA president, documents his own camp's legend from the inside: invented for the first official hunt in 1968 at the Anglican Youth Camp near Halifax, staged by setting campers' watches ahead, the creature built by campers who had been let in on the secret the year before, given a spurious documentary pedigree by a book found in the camp library, and within three years expected annually and already being elaborated in campers' own vocabulary. It tells us nothing about Chopsy. It tells us what kind of evidence a legend like Chopsy leaves: the staging is remembered, the invention is not, and apparent corroboration may be part of the hoax. The DRAFT_ORAL_HISTORY_INSTRUMENT should therefore ask about staging, about who was let in on it and when, and about whether anyone was ever shown 'proof' -- not only about the story as told.",
+      "weight": 7,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 87-89, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_353",
+      "rank": 352,
+      "type": "STUB",
+      "description": "SPAWN STUBS FOR THE THREE FOUNDERS' NAMES NOW DOCUMENTED FROM CANADIAN CAMPING: Charles Plewman (owner-director of Kilcoo Camp, past president of the OCA, camping from 1909, made an Honorary Member at the Society of Camp Directors' Founders' Meeting, wrote Ethel Statten's obituary); W. Bertram Danson (Camp Winnebagoe, present at the 7 March 1957 OCA Legislative Committee meeting, author of the June 1970 'Do's and Don'ts for Counsellors' with its ban on physical punishment); and David Palter, B.Sc., P.Eng., camp consultant, appointed OCA Standards Committee chairman 29 April 1957 and the man who started Canadian camp accreditation. NOTE FOR THE STUB ON PALTER: he is not David Paltiel, the Kanawana name on the Knights of Kanawana roll, the 1975 board and the 1976 staff list. Different names, no evidence of any link; the stub must say so.",
+      "weight": 6,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 87-89, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_354",
+      "rank": 353,
+      "type": "RESEARCH",
+      "description": "CHECK BRITISH COLUMBIA'S SUMMER CAMP LICENSING AGAINST GERTRUDE 'DINTY' MOORE'S STANDARDS. Her obituary in Canadian Camping, November 1970, states that she founded the BC Camping Association in 1939, was its first president, and that during her ten years in executive office the association drew up standards for camping in the province with the provincial government, 'Later this research and study was used as a basis for Government licensing of summer camps in B.C.' If that holds, British Columbia licensed camps on standards a camp director wrote -- the outcome David Palter was still arguing for in Ontario in 1969, achieved a generation earlier. A checkable claim: search BC statutes and regulations on summer camps, the BC Camping Association's own history, and Moorecroft (the United Church site near Nanoose Bay she sold on retirement). Bears on how to read Quebec's own accreditation arrangements, which never became licensing.",
+      "weight": 6,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 87-89, converted to KB facts",
+      "blocked_on": null
     }
   ],
   "queue_ordering": {

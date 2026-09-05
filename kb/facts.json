@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 3359,
+  "fact_count": 3466,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -59108,6 +59108,1979 @@
         "Kamp Kanawana"
       ],
       "claim": "Mandatory national camp standards arrive in 1970. The April 1970 provincial column reports Ron Johnstone, National Chairman of Standards, with co-chairman Al Goodman, implementing \"a new set of Mandatory Standards -- Over 20 items are mandatory for a Camp to be an accredited member.\" The same column records the Ontario Counsellors' Conference at York University on 9 May drawing 1,200 delegates; Stanley Burke, \"the ex-voice of the National News,\" and Pollution Probe at the OCA annual meeting of 29 April, introducing \"an exciting programme which will bring Ontario Camps into the fight against pollution\"; and the Society of Camp Directors meeting in April with papers by Don Groff on Intercultural Camping and Bruno Morawetz on Drugs.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3398",
+      "issue": 87,
+      "claim": "The June 1970 issue of Canadian Camping carries the association's French name, \"L'Association des camps du Canada,\" beside the English name on the cover masthead.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3399",
+      "issue": 87,
+      "claim": "The provincial officers list in Canadian Camping, June 1970, names the Quebec Camping Association's president as Cy Bekoff (2233 Belgrave Avenue) and L'Association des camps de Quebec's president as Lionel Perras (952 Cherrier Avenue) — two separate presidents at two separate addresses as of June 1970.",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec Camping Association",
+        "Association des camps du Quebec",
+        "Cy Bekoff",
+        "Lionel Perras"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3400",
+      "issue": 87,
+      "claim": "The provincial presidents listed in Canadian Camping, June 1970, are: British Columbia Grant McKeen; Alberta Colin Hatcher, with J. E. Hanlin for the Northern Alberta Branch; Saskatchewan Eileen Mayotte; Manitoba David Loewen; Ontario Ivan Robinson; Nova Scotia Tom Creighton; Newfoundland and Labrador Elizabeth Mouland.",
+      "category": "camping_movement",
+      "entities": [
+        "Grant McKeen",
+        "Colin Hatcher",
+        "J. E. Hanlin",
+        "Eileen Mayotte",
+        "David Loewen",
+        "Ivan Robinson",
+        "Tom Creighton",
+        "Elizabeth Mouland"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3401",
+      "issue": 87,
+      "claim": "Bob Lazanik is listed as 3rd Vice-President of the Canadian Camping Association in June 1970, c/o 2233 Belgrave Avenue, Montreal — the Quebec Camping Association English section's address.",
+      "category": "camping_movement",
+      "entities": [
+        "Robert Lazanik",
+        "Canadian Camping Association",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3402",
+      "issue": 87,
+      "claim": "An editorial note in Canadian Camping, June 1970, describes Charles Plewman as \"former Owner and Director of Kilcoo Camp, and former President of O.C.A.,\" appointed an Honorary Member at the Society of Camp Directors' Founders' Meeting.",
+      "category": "biography",
+      "entities": [
+        "Charles Plewman",
+        "Kilcoo Camp",
+        "Ontario Camping Association",
+        "Society of Camp Directors"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3403",
+      "issue": 87,
+      "claim": "Charles Plewman, addressing the Society of Camp Directors' Fall Dinner Meeting at Hart House, University of Toronto, on 26 November 1969, dated his own start in camping: \"I think it was in 1909 I took my first group camping.\"",
+      "category": "biography",
+      "entities": [
+        "Charles Plewman",
+        "Society of Camp Directors",
+        "Hart House",
+        "University of Toronto"
+      ],
+      "date_ref": "1969-11-26",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3404",
+      "issue": 87,
+      "claim": "In his 26 November 1969 address to the Society of Camp Directors, Charles Plewman warned the new profession against credentialism: \"What we do not need is a lot of efficient technocrats... no amount of knowledge and no amount of skill is going to suffice if a man lacks a sympathetic understanding of youth on one hand, or hasn't got his heart in the right place on the other.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Charles Plewman",
+        "Society of Camp Directors"
+      ],
+      "date_ref": "1969-11-26",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3405",
+      "issue": 87,
+      "claim": "Charles Plewman, in his November 1969 address, recounted his fifteen-year-old granddaughter telling him \"Grandad, 50% of the kids in Grades 9 and 10 in our school use drugs,\" and added his own qualification: \"Now let's say that's an exaggeration, but it's significant that the kids think that.\"",
+      "category": "context",
+      "entities": [
+        "Charles Plewman"
+      ],
+      "date_ref": "1969-11-26",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3406",
+      "issue": 87,
+      "claim": "Jack Pearse, Director of Camp Tawingo, published \"Song Leading\" in Canadian Camping, June 1970, setting out a five-category taxonomy of camp songs: novelty numbers, action songs, rounds, spirituals and folk songs, and quiet songs.",
+      "category": "traditions",
+      "entities": [
+        "Jack Pearse",
+        "Camp Tawingo"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3407",
+      "issue": 87,
+      "claim": "Jack Pearse's June 1970 \"Song Leading\" article lists the novelty numbers of the period repertoire as: One Flea Fly; Hole in the Bottom of the Sea; Tipperary; Pack up Your Troubles; Long, Long Trail; She'll Be Coming Round the Mountain; Bingo; My Bonnie; Beans in my Ears; Old MacDonald.",
+      "category": "traditions",
+      "entities": [
+        "Jack Pearse"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3408",
+      "issue": 87,
+      "claim": "Jack Pearse's June 1970 \"Song Leading\" article lists the action songs of the period repertoire as: My Hat it Has Three Corners; The Old Mill Stream; Deep and Wide; Under the Spreading Chestnut Tree; Heads and Shoulders, Knees and Toes; This Old Man; Little Cabin in the Wood; One Finger, One Thumb, Keep Moving; Grand Old Duke of York.",
+      "category": "traditions",
+      "entities": [
+        "Jack Pearse"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3409",
+      "issue": 87,
+      "claim": "Jack Pearse's June 1970 \"Song Leading\" article classifies camp rounds as rousers (Little Tommy Tinker, Row Row Row Your Boat), fun (Kookaburra, Three Blind Mice), and quiet (Fire's Burning, Oh How Lovely is the Evening, Rosen Fra Fjun, Hey Ho).",
+      "category": "traditions",
+      "entities": [
+        "Jack Pearse"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3410",
+      "issue": 87,
+      "claim": "Jack Pearse's June 1970 \"Song Leading\" article names Alouette among the folk songs in the standard Canadian camp repertoire, alongside Blue Tail Fly, Green Grow the Rushes Ho, Matilda, If I Had a Hammer, Workin' On the Railroad, Loch Lomond, On Top of Old Smokey, Home on the Range and When I'm on My Journey.",
+      "category": "traditions",
+      "entities": [
+        "Jack Pearse"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3411",
+      "issue": 87,
+      "claim": "Jack Pearse credits the camp folk-song revival of the period to \"the Weavers, Pete Seeger, Woody Guthrie, Harry Belafonte, Bob Dylan, Joan Baez... as well as Canada's Oscar Brand, the Journeymen, Ottawa's Couriers,\" and names We Shall Overcome, This Land is Your Land, Where Have All the Flowers Gone and Deep Blue Sea as songs that entered camp singing through it.",
+      "category": "traditions",
+      "entities": [
+        "Jack Pearse",
+        "Oscar Brand"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3412",
+      "issue": 87,
+      "claim": "Jack Pearse's June 1970 rule for the shape of a camp sing-song is stated in capitals: \"ALL SING SONGS SHOULD END WITH QUIET SINGING,\" and he notes the change from an earlier era \"when the louder and more boisterous was the singing, the more successful was the sing song.\"",
+      "category": "traditions",
+      "entities": [
+        "Jack Pearse"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3413",
+      "issue": 87,
+      "claim": "Jack Pearse advises camp song leaders to \"be original\" — \"It's fun, too, to make up songs, particularly for the group you are leading\" — establishing that composing songs for one's own camp group was standard advised practice in Canadian camping in 1970.",
+      "category": "traditions",
+      "entities": [
+        "Jack Pearse"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3414",
+      "issue": 87,
+      "claim": "Kirk A. W. Wipper wrote in Canadian Camping, June 1970, that the search for historic original watercraft had been under way \"for more than twenty years\" — dating the origin of the collection that became the Canadian Canoe Museum to about 1950.",
+      "category": "context",
+      "entities": [
+        "Kirk Wipper",
+        "Camp Kandalore",
+        "Canadian Canoe Museum"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3415",
+      "issue": 87,
+      "claim": "Kirk Wipper reported in June 1970 that \"a building of pine logs two storeys high and sixty-six feet square is being constructed to house the collection\" at Camp Kandalore, twenty-two miles north of Minden, Ontario, with visitors welcome.",
+      "category": "context",
+      "entities": [
+        "Kirk Wipper",
+        "Camp Kandalore"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3416",
+      "issue": 87,
+      "claim": "Kirk Wipper's June 1970 account of his watercraft collection includes \"the canoe of a chief from near Ft. Coulonge, Quebec\" (photograph caption), a Labrador freighter canoe built from one immense piece of birch bark, a butternut kayak by the Lakefield Canoe Company predating 1900, and a racing shell over 100 years old and still usable.",
+      "category": "context",
+      "entities": [
+        "Kirk Wipper",
+        "Lakefield Canoe Company",
+        "Fort Coulonge"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3417",
+      "issue": 87,
+      "claim": "Kirk Wipper's June 1970 article states that \"In 1844, four grey nuns undertook to travel in canoes from Montreal to the Red River Settlement,\" and names Simon Fraser's descent of 28 May to 1 July 1808 among the canoe journeys of Canadian history.",
+      "category": "context",
+      "entities": [
+        "Kirk Wipper",
+        "Simon Fraser",
+        "Grey Nuns"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3418",
+      "issue": 87,
+      "claim": "Jocelyn Palm, Executive Secretary of the Royal Life Saving Society Ontario, published \"Waterfront Activities — What Can Be Accomplished At Camps With 8-12 Day Periods\" in Canadian Camping, June 1970, holding that one organised swimming lesson a day is sufficient and that camps should teach to national standards even where the award cannot be completed within the period.",
+      "category": "programs",
+      "entities": [
+        "Jocelyn Palm",
+        "Royal Life Saving Society"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3419",
+      "issue": 87,
+      "claim": "Jocelyn Palm's June 1970 waterfront article states that non-swimmers should not be permitted in canoes at all, and in rowboats only while wearing lifejackets, and names the awards achievable in an 8-12 day camp period as the Beginner Red Cross and the Elementary and Junior Resuscitation Awards of the Royal Life Saving Society.",
+      "category": "programs",
+      "entities": [
+        "Jocelyn Palm",
+        "Royal Life Saving Society",
+        "Canadian Red Cross"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3420",
+      "issue": 87,
+      "claim": "Jocelyn Palm's June 1970 canoeing teaching progression runs: introduction, bow strokes, launching/docking/beaching, capsize procedure, stern strokes, landing, a specified course, solo, jump out and in, canoe-over-canoe rescue, portaging, artificial respiration by the Direct Method using the canoe as a buoyant aid, and gunwale bobbing and other stunts.",
+      "category": "programs",
+      "entities": [
+        "Jocelyn Palm"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3421",
+      "issue": 87,
+      "claim": "John Latimer of Camp Kilcoo published \"Cabin Counselling: How to Stay on Your Toes From 'Wake-up' to 'Flake-out'\" in Canadian Camping, June 1970, printed also in a French translation by Anne Thompson of Camp Ouareau under the title \"Grand Frere? Grande Soeur? Maman? Moniteur!!\"",
+      "category": "sources",
+      "entities": [
+        "John Latimer",
+        "Camp Kilcoo",
+        "Anne Thompson",
+        "Camp Ouareau"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3422",
+      "issue": 87,
+      "claim": "John Latimer wrote in June 1970 that \"Bed time, in my view, is just about the most important time of day in working with children,\" naming the topics campers raise then as \"religion, space, history, drugs, sex,\" and directing counsellors to add \"information and accurate knowledge... not necessarily his own prejudices and biases.\"",
+      "category": "programs",
+      "entities": [
+        "John Latimer"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3423",
+      "issue": 87,
+      "claim": "John Latimer's June 1970 counsellor guidance holds that \"the punishment should fit the crime\" — misbehave at table, leave the table; push someone off the dock, leave the swimming area — and that \"a good Counsellor will not hesitate to consult with his unit head or Director... Asking for advice is not a sign of weakness.\"",
+      "category": "programs",
+      "entities": [
+        "John Latimer"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3424",
+      "issue": 87,
+      "claim": "John Latimer's June 1970 article names the experiences he believed campers remember for life: \"Wake the group up at night to see the Northern Lights; if the Camp rules permit it take the group out in the lake on a starry night, lash the canoes together and drift; dress them properly to watch a good storm coming across the lake... or if it's warm enough and not dangerous let them get soaked in a good storm.\"",
+      "category": "programs",
+      "entities": [
+        "John Latimer"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3425",
+      "issue": 87,
+      "claim": "Joyce Bertram of Camp Ouareau described a bilingual experiment at a Quebec camp in \"L'Amie de ma Tente,\" first published in Canadian Camping in December 1964 and reprinted in June 1970: a compiled camp vocabulary list of words absent from school grammars (ant, snake, spider, thunderstorm, sailboat, \"summer complaint\"), about thirty idiomatic expressions, French on Tuesday, Thursday and Saturday and English on Monday, Wednesday and Friday, and a rule of \"pas de mains pour parler\" — no hands while speaking.",
+      "category": "programs",
+      "entities": [
+        "Joyce Bertram",
+        "Camp Ouareau"
+      ],
+      "date_ref": "1964-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3426",
+      "issue": 87,
+      "claim": "Joyce Bertram's account of bilingual practice at Camp Ouareau notes campers \"huddled in corners with English-French dictionaries, au contraire French-English ditto depending on whether elles demeurent a Outremont ou Westmount\" — a Montreal class-and-language marker recorded as written in 1964.",
+      "category": "context",
+      "entities": [
+        "Joyce Bertram",
+        "Camp Ouareau",
+        "Outremont",
+        "Westmount"
+      ],
+      "date_ref": "1964-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3427",
+      "issue": 87,
+      "claim": "Eanswythe Flynn's June 1970 account of the Duke of Edinburgh's Award Scheme states it was introduced to Canada in 1963, with two separate schemes for girls and boys, each of four sections at three levels (Bronze, Silver, Gold), non-competitive, all four sections required; the Canadian office was Commander George Manson, Suite 810, 135 James Street South, Hamilton.",
+      "category": "context",
+      "entities": [
+        "Eanswythe Flynn",
+        "Duke of Edinburgh's Award",
+        "George Manson"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3428",
+      "issue": 87,
+      "claim": "The Duke of Edinburgh's Award girls' scheme as described in June 1970 included a \"Design for Living\" section with topics such as \"Art of Make-up and Hairstyles,\" \"Entertaining,\" \"Food and Your Health\" and \"What to Wear and When To Wear It,\" while the boys' equivalent sections were The Expedition and Physical Fitness — the girls' scheme domestic where the boys' was physical. Recorded as the period's own design, not endorsed.",
+      "category": "context",
+      "entities": [
+        "Duke of Edinburgh's Award"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3429",
+      "issue": 87,
+      "claim": "W. Bertram Danson wrote \"Do's and Don'ts for Counsellors\" in Canadian Camping, June 1970, from Camp Winnebagoe — identifying the Danson whom J. Harry Ebbs named among the founders of Canadian boys' camping as Camp Winnebagoe's director.",
+      "category": "biography",
+      "entities": [
+        "W. Bertram Danson",
+        "Camp Winnebagoe",
+        "J. Harry Ebbs"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3430",
+      "issue": 87,
+      "claim": "W. Bertram Danson's June 1970 \"Do's and Don'ts for Counsellors\" instructs: \"Don't resort to physical punishment, or other off-beat methods that might have been used on you when you were a camper\" — a prohibition of corporal punishment framed as breaking a generational chain.",
+      "category": "programs",
+      "entities": [
+        "W. Bertram Danson",
+        "Camp Winnebagoe"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3431",
+      "issue": 87,
+      "claim": "W. Bertram Danson's June 1970 counsellor list also forbids profanity and slang (\"never tell your campers to 'shut-up'!\"), embarrassing a child in front of others, \"docking\" as a punishment, brow-beating, threatening, nagging, sarcasm and belittling, allowing campers to use a counsellor's last name only (\"It is a mark of disrespect\"), and taking food from the cabin tuck larder other than when shared by everyone.",
+      "category": "programs",
+      "entities": [
+        "W. Bertram Danson"
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3432",
+      "issue": 87,
+      "claim": "The Newfoundland and Labrador Camping Association held its annual meeting and conference on 17-18 April 1970 with a keynote by CCA president David Hartry and Dr. Richard Warner, Director of the Centre for Environmental Biology at Memorial University, speaking on the theme Pollution; Elizabeth Mouland was elected president.",
+      "category": "camping_movement",
+      "entities": [
+        "David Hartry",
+        "Richard Warner",
+        "Elizabeth Mouland",
+        "Memorial University"
+      ],
+      "date_ref": "1970-04-17",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3433",
+      "issue": 87,
+      "claim": "Canadian Camping, June 1970, carried an advertisement from the Rural Toilet Specialty Co. under the slogan \"Well Equipped Camps Have Inside Toilets,\" offering septic tanks serving six or more toilets and gasoline pumps and pressurised tanks \"for camps with no hydro facilities\" — dating the point at which indoor plumbing was being sold to Canadian camps as a competitive feature.",
+      "category": "facilities",
+      "entities": [
+        "Rural Toilet Specialty Co."
+      ],
+      "date_ref": "1970-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3434",
+      "issue": 88,
+      "claim": "Huguette Dagenais reported in Canadian Camping, November 1970: \"Le programme d'accreditation de l'A.C.Q.C.A. s'est poursuivi durant tout l'ete '70. ENVIRON 75 CAMPS DANS LA SECTION ANGLAISE ET LA SECTION FRANCAISE ONT ETE VISITES PAR TROIS EQUIPES D'INSPECTEURS\" — about 75 Quebec camps in both sections visited by three inspection teams in the summer of 1970.",
+      "category": "archives",
+      "entities": [
+        "Huguette Dagenais",
+        "Quebec Camping Association",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1970-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3435",
+      "issue": 88,
+      "claim": "Three documented Quebec camp inspection rounds are now on record from Canadian Camping: Murray McFarlane's visits to twenty-seven camps in summer 1965, Lionel Perras's account of a 1966 round, and about seventy-five camps visited by three teams in summer 1970 — each round producing a written report on each camp. Kanawana was an accredited Quebec camp throughout this period, so a written accreditation report on it is likely to exist, though none has yet been located.",
+      "category": "archives",
+      "entities": [
+        "Murray McFarlane",
+        "Lionel Perras",
+        "Quebec Camping Association",
+        "Camp Kanawana"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1965/1970",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3436",
+      "issue": 88,
+      "claim": "L'Association des camps du Quebec received a letter of intent for renewal of a $30,000 grant for its provincial secretariat in 1970, after representations to the Hon. Jean-Paul L'Allier, minister responsible for the Haut-Commissariat a la Jeunesse, aux Loisirs et aux Sports.",
+      "category": "camping_movement",
+      "entities": [
+        "Association des camps du Quebec",
+        "Jean-Paul L'Allier"
+      ],
+      "date_ref": "1970-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3437",
+      "issue": 88,
+      "claim": "A commission d'etudes sur les vacances familiales a prix modique was formed in late August 1970 by the ACQ, the Confederation des Loisirs du Quebec, the Touring Club du Quebec, the Cooperative de vacances familiales, the Conseil des Oeuvres de Bienetre de Quebec and the Unions de familles, reporting on 6 November 1970.",
+      "category": "camping_movement",
+      "entities": [
+        "Association des camps du Quebec",
+        "Confederation des Loisirs du Quebec"
+      ],
+      "date_ref": "1970-11-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3438",
+      "issue": 88,
+      "claim": "The Quebec Camping Association (English Section) executive elected at the annual meeting of 2 June 1970 for 1970-72 was: Past President Cy Bekoff; President Peter Van Wagner; Vice-Presidents Mrs. Nicholas D. Demetelin and Zave Ettinger; Secretary Mrs. Kenneth R. Willis; Treasurer Mrs. D. Jacques Reeves.",
+      "category": "camping_movement",
+      "entities": [
+        "Cy Bekoff",
+        "Peter Van Wagner",
+        "Sophia Demetelin",
+        "Zave Ettinger",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1970-06-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3439",
+      "issue": 88,
+      "claim": "Ron Johnstone, Director of Camp White Bear and Chairman of Standards for the Canadian Camping Association, introduced the Ontario Camping Association's Mandatory Standards, approved at the OCA's November 1969 board meeting after a standards programme \"going on for over twenty-five years\" — dating the OCA's standards work to about 1945.",
+      "category": "camping_movement",
+      "entities": [
+        "Ron Johnstone",
+        "Camp White Bear",
+        "Ontario Camping Association",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1969-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3440",
+      "issue": 88,
+      "claim": "Ron Johnstone framed the 1969 OCA Mandatory Standards as \"MINIMUM standards for safe camping... no more than a minimum guarantee, to the camping public of our Province, that their children will be safe both physically and mentally,\" with \"Desirable Camping Practices\" remaining the basis of accreditation alongside them, and a third purpose in liability protection: \"The liability we face is equated on what is the 'accepted common practice' within our profession.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Ron Johnstone",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1970-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3441",
+      "issue": 88,
+      "claim": "The Ontario Camping Association's Mandatory Standards for resident camps, printed in full in Canadian Camping, November 1970, comprise 23 items including: a current Ontario Department of Health licence under Public Health Act O. Reg. 518-1960; a signed medical history form for every camper and staff person; toilets at one seat per 8-10 people; water supply tested before camp and re-tested weekly; a camp director aged 25 or older with at least two years' staff leadership experience; a minimum of one third of counsellor staff being new; facilities enabling staff privacy from campers off duty; emergency numbers posted by the telephone; safety inspections carried out personally by the director and re-checked within 24 hours; and a minimum of one staff member per five campers on trips away from camp, never fewer than two.",
+      "category": "camping_movement",
+      "entities": [
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1970-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3442",
+      "issue": 88,
+      "claim": "The OCA's 1969 Mandatory Standards require that the person in charge of an out-of-camp trip be at least 18, familiar with the territory and aware where help can be obtained, with an assistant at least 17; the day-camp equivalents are a trip leader of 18 and assistant of 16, one trained person per ten campers, and a director aged 21 or older with two seasons' experience.",
+      "category": "camping_movement",
+      "entities": [
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1970-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3443",
+      "issue": 88,
+      "claim": "The OCA's 1969 Mandatory Standards include a consumer-protection clause: \"Does the Camp adequately provide all facilities and activities listed in its brochure and advertising material?\"",
+      "category": "camping_movement",
+      "entities": [
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1970-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3444",
+      "issue": 88,
+      "claim": "David Palter, B.Sc., P.Eng., Camp Consultant, told the Society of Camp Directors on 26 November 1969 that \"As early as 1952, the Board of O.C.A. adopted accreditation of children's camps in principle,\" that the first attempt at \"Minimum Standards\" failed because \"there is no minimum when it comes to the physical property,\" and that a 1954 self-evaluation questionnaire brought only 44 responses.",
+      "category": "camping_movement",
+      "entities": [
+        "David Palter",
+        "Ontario Camping Association",
+        "Society of Camp Directors"
+      ],
+      "date_ref": "1969-11-26",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3445",
+      "issue": 88,
+      "claim": "David Palter quoted the Ontario Camping Association's own archives: a minuted meeting of the Legislative Committee at the Park Plaza Hotel, noon, Thursday 7 March 1957, present Lloyd Perry, Dr. J. Harry Ebbs, Irwin Haladner, W. E. Yard, Mrs. Ralph Raymer, W. B. Danson and Mrs. G. W. Flynn, recommending \"that the Ontario Camping Association endorse and encourage the formation of an association of professional camp directors... to provide a government-recognized organization through which the public will be protected against the operation of children's camps by undesirable and untrained directors.\" It was approved in principle in 1957.",
+      "category": "camping_movement",
+      "entities": [
+        "David Palter",
+        "Lloyd Perry",
+        "J. Harry Ebbs",
+        "Irwin Haladner",
+        "W. E. Yard",
+        "W. B. Danson",
+        "Eanswythe Flynn",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1957-03-07",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3446",
+      "issue": 88,
+      "claim": "David Palter was appointed chairman of the Ontario Camping Association's Standards Committee on 29 April 1957 and charged with initiating accreditation; camp visiting began on a friendly, voluntary basis, with visitors chosen from directors having at least five years' administrative experience.",
+      "category": "camping_movement",
+      "entities": [
+        "David Palter",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1957-04-29",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3447",
+      "issue": 88,
+      "claim": "David Palter warned in November 1970, with camp visiting now mandatory in the OCA, other provincial associations and the American Camping Association: \"there is a great danger that the visit could become an inspection. If it becomes a mechanical routine chore that a camp must submit to, in order to receive the blessing of the Association and in order to show the emblem to the public, all value of the program is lost.\" He recalled the practice it replaced: \"I am sure you can recall the day when it was unheard of to go to see your competitor... Directors met at arms length — fully extended — at association meetings.\"",
+      "category": "camping_movement",
+      "entities": [
+        "David Palter",
+        "Ontario Camping Association",
+        "American Camping Association"
+      ],
+      "date_ref": "1969-11-26",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3448",
+      "issue": 88,
+      "claim": "David Palter, camp consultant and OCA standards chairman, and David Paltiel, a Kanawana name appearing on the Knights of Kanawana roll, the 1975 board and the 1976 staff list, are different names appearing in different records. No evidence links them and they must not be merged.",
+      "category": "methodology",
+      "entities": [
+        "David Palter",
+        "David Paltiel",
+        "Camp Kanawana"
+      ],
+      "confidence": "inferred",
+      "date_ref": null,
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3449",
+      "issue": 88,
+      "claim": "The Ontario Camping Association's archives were presented to Trent University, Peterborough, on 22 October 1970, past president John Latimer handing them to Dr. T. H. B. Symons, president of the University, with about thirty OCA members attending.",
+      "category": "archives",
+      "entities": [
+        "John Latimer",
+        "T. H. B. Symons",
+        "Trent University",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1970-10-22",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3450",
+      "issue": 88,
+      "claim": "Mary L. Northway records that the Ontario Camping Association archives deposited at Trent in October 1970 were assembled over six years by an archives committee under three successive chairs — Mrs. Adele Ebbs, Miss Margaret Govan and Dr. Mary Northway — with records collected, stored and catalogued at the OCA office by Mrs. Shirley Hall; the holdings comprise \"early brochures, photographs, programmes and schedules, films, financial accounts, diaries, and taped interviews of prominent camp personalities,\" with a duplicate file kept at the camping office and the originals at Trent.",
+      "category": "archives",
+      "entities": [
+        "Mary L. Northway",
+        "Adele Ebbs",
+        "Margaret Govan",
+        "Shirley Hall",
+        "Trent University",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1970-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3451",
+      "issue": 88,
+      "claim": "Mary Northway states the collecting policy behind the OCA archive: asked what to collect, the answer was \"everything. Let the archivist decide what is not important,\" and material \"should not be sorted by amateurs, but stored in its original packages and catalogued from these.\"",
+      "category": "archives",
+      "entities": [
+        "Mary L. Northway",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1970-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3452",
+      "issue": 88,
+      "claim": "The authors of The Camp Counsellor's Book turned over the book's royalties to the Ontario Camping Association to fund its archive, and the manuscript of the book is itself part of the Trent archives.",
+      "category": "archives",
+      "entities": [
+        "Ontario Camping Association",
+        "Trent University"
+      ],
+      "date_ref": "1970-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3453",
+      "issue": 88,
+      "claim": "Mary S. Edgar's \"A Page of Poems\" in Canadian Camping, November 1970, prints four texts: \"A Director's Meditation,\" \"Hymn for the Space-Age\" (Tune: Forest Green), \"Postpone the Verdict\" and \"Outdoor Beauty Clinic.\"",
+      "category": "sources",
+      "entities": [
+        "Mary S. Edgar"
+      ],
+      "date_ref": "1970-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3454",
+      "issue": 88,
+      "claim": "Mary S. Edgar's \"Hymn for the Space-Age,\" printed in Canadian Camping in November 1970 to the tune Forest Green, is explicitly a conservation hymn: \"Keeping our skies and waters clean / Our forests freshly green / Thus through the ever-circling years / True gratitude is seen,\" with the verse \"Inheritors, our debt is paid / By passing beauty on.\" It is the third Edgar hymn found in this read, after \"Canada's Our Country\" (June 1967) and \"This Fair Land, Our Canada\" (1969).",
+      "category": "sources",
+      "entities": [
+        "Mary S. Edgar"
+      ],
+      "date_ref": "1970-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3455",
+      "issue": 88,
+      "claim": "Once There Was a Camper — Rhymes and Drawings by Mary S. Edgar, \"a little book of 23 delightful rhymes on kids at camp\" with line drawings by the author, was published by G. R. Welch, Toronto, and announced in Canadian Camping in November 1970.",
+      "category": "sources",
+      "entities": [
+        "Mary S. Edgar",
+        "G. R. Welch"
+      ],
+      "date_ref": "1970",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3456",
+      "issue": 88,
+      "claim": "Bruno Morawetz delivered \"Youth and Drugs\" to the Society of Camp Directors on 9 April 1970; the paper was copyrighted by the Society and Morawetz, with reproduction permission from Box 173, Station S, Toronto. It is a named, dated, formally copyrighted position paper of the professional body of Canadian camp directors on drug use.",
+      "category": "sources",
+      "entities": [
+        "Bruno Morawetz",
+        "Society of Camp Directors"
+      ],
+      "date_ref": "1970-04-09",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3457",
+      "issue": 88,
+      "claim": "In \"Youth and Drugs\" (9 April 1970) Bruno Morawetz argued his fellow camp directors out of panic about drug use, admitting \"the spectre of a drug using youth haunted me terribly a few years ago. I remember the panic which came over me when I imagined my counsellors or campers stealthily smoking pot behind the craft area,\" reading the counterculture as \"a spiritual revolution\" happening \"in every industrialized society,\" and predicting that \"when this Society meets again in 1990 the smells of marijuana cigarettes may well waft through this room.\" Recorded as evidence of what Canadian camp leadership said in 1970, not endorsed.",
+      "category": "context",
+      "entities": [
+        "Bruno Morawetz",
+        "Society of Camp Directors"
+      ],
+      "date_ref": "1970-04-09",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3458",
+      "issue": 88,
+      "claim": "Canadian Camping, November 1970, printed the badges-and-awards question as two facing essays: Jocelyn Palm of the Royal Life Saving Society for, and John H. Walker of Springfield College and Kilcoo Camp against.",
+      "category": "camping_movement",
+      "entities": [
+        "Jocelyn Palm",
+        "John H. Walker",
+        "Springfield College",
+        "Kilcoo Camp"
+      ],
+      "date_ref": "1970-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3459",
+      "issue": 88,
+      "claim": "Jocelyn Palm's November 1970 argument for camp badges rests partly on staffing: \"A prospective staff member may claim to have all the required safety skills in riflery and aquatics, but without credentials to prove his capabilities the camp director should be reluctant to hire such an individual. The legal implications in hiring staff without current qualifications are of the utmost significance. Most camps obtain their senior personnel through the ranks of their own organization. Then, is it not fair to provide the opportunity for campers to achieve recognized awards while they are campers?\"",
+      "category": "camping_movement",
+      "entities": [
+        "Jocelyn Palm"
+      ],
+      "date_ref": "1970-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3460",
+      "issue": 88,
+      "claim": "John H. Walker's November 1970 argument against camp badges holds that \"Camp should be a place where there is no system of badges and awards... The achievement of a badge or award overshadows the amount of learning which takes place,\" and that \"It is often the weak instructor who relies on tests to accomplish what he himself can not do.\"",
+      "category": "camping_movement",
+      "entities": [
+        "John H. Walker"
+      ],
+      "date_ref": "1970-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3461",
+      "issue": 88,
+      "claim": "Pierre Cote, S.J., delivered \"Besoins spirituels dans les camps\" to the ACQ congress on 21 February 1970, defining the spiritual dimension without requiring religious practice or Catholic faith — \"Par dimension spirituelle faut-il entendre une pratique religieuse intense? Non. Faut-il entendre une foi en l'Eglise Catholique? Non\" — and holding that a director must not impose \"un horaire et une facon de vivre contraire a l'option du milieu dont ils sont issus.\"",
+      "category": "programs",
+      "entities": [
+        "Pierre Cote",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1970-02-21",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3462",
+      "issue": 88,
+      "claim": "Pierre Cote, S.J., graduated the demand on camp staff by their own belief: a staff member who believes nothing must still \"respecter une option differente de la votre, sans la mepriser... sans en rire et sans la ridiculiser\"; one who believes a little should help the camper discover the dimension; one who believes much may share it.",
+      "category": "programs",
+      "entities": [
+        "Pierre Cote"
+      ],
+      "date_ref": "1970-02-21",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3463",
+      "issue": 88,
+      "claim": "Eanswythe Flynn's obituary of Gertrude Evelyn \"Dinty\" Moore records that she was born and educated in Toronto, graduated from the Margaret Eaton School of Physical Education, was waterfront director at Glen Bernard Camp, Director of Physical Education at the Vancouver YWCA and Director of Women's Physical Education at UBC, and opened her own girls' camp near Nanoose Bay in 1934, \"the first private camp for girls in the West,\" selling the seventy-five-acre site on retirement to the United Church, which runs it as Moorecroft.",
+      "category": "biography",
+      "entities": [
+        "Gertrude Evelyn Moore",
+        "Glen Bernard Camp",
+        "University of British Columbia",
+        "Moorecroft"
+      ],
+      "date_ref": "1970-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3464",
+      "issue": 88,
+      "claim": "Gertrude \"Dinty\" Moore founded the British Columbia Camping Association in 1939 and was its first president, and was its honorary president at her death; during her ten years in executive office the association drew up standards for camping in the province in co-operation with the provincial government, and \"Later this research and study was used as a basis for Government licensing of summer camps in B.C.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Gertrude Evelyn Moore",
+        "British Columbia Camping Association"
+      ],
+      "date_ref": "1939",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3465",
+      "issue": 88,
+      "claim": "CCA president David Hartry's November 1970 letter names as \"prominent Camp Directors in Canada\" John Latimer, Robert Lazanik, Sophia Demetelin, Zave Ettinger, Tony Fry, Ivan Robinson, Tom Creighton and Peter Harris — three of the eight from Quebec.",
+      "category": "camping_movement",
+      "entities": [
+        "David Hartry",
+        "John Latimer",
+        "Robert Lazanik",
+        "Sophia Demetelin",
+        "Zave Ettinger",
+        "Tony Fry",
+        "Ivan Robinson",
+        "Tom Creighton",
+        "Peter Harris"
+      ],
+      "date_ref": "1970-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3466",
+      "issue": 88,
+      "claim": "David Hartry's November 1970 president's letter records visits to B'nai Brith Camp in Ste. Agathe du Mont, \"with over 800 people in camp at one time,\" directed by Zave Ettinger; Bob Lazanik at Pine Valley, with \"hundreds of people in Pine Valley's week-long grey cup games\"; John Latimer's Kilcoo; and Tony Fry at Pine Crest YMCA Camp, Toronto.",
+      "category": "inter-camp",
+      "entities": [
+        "David Hartry",
+        "Zave Ettinger",
+        "Robert Lazanik",
+        "John Latimer",
+        "Tony Fry",
+        "B'nai Brith Camp",
+        "Pine Valley",
+        "Camp Kilcoo",
+        "Pine Crest YMCA Camp"
+      ],
+      "date_ref": "1970-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3467",
+      "issue": 88,
+      "claim": "Joint Canadian Camping Association / American Camping Association standards visits began in the summer of 1970 at two Ontario camps, saving those camps two visits in one year, under a new ACA rule that a camp outside the USA must first be a member of its own national camping association before the ACA will accredit it; all accredited camps must now sign an undertaking to abide by the mandatory standards before membership renewal and directory listing are approved.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "American Camping Association",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1970-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3468",
+      "issue": 88,
+      "claim": "The Ontario Camping Association moved on 1 November 1970 to 102 Eglinton Avenue East, Suite 203, Toronto, and Stan Wild was promoted to Executive Director.",
+      "category": "camping_movement",
+      "entities": [
+        "Ontario Camping Association",
+        "Stan Wild"
+      ],
+      "date_ref": "1970-11-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3469",
+      "issue": 88,
+      "claim": "Jack MacKenzie, Supervisor of Physical Education for the Regina Board of Education for thirteen years, became president of the Saskatchewan Camping Association in 1970; profiled by Eileen Mayotte, his camping work included \"canoe trips on the Churchill River for boys, including inter-cultural trips (Indian boys and white boys),\" and he chaired the Saskatchewan section of the CCA Centenary Cross Canada Canoe Journey of 1967. Terminology recorded as written in 1970.",
+      "category": "biography",
+      "entities": [
+        "Jack MacKenzie",
+        "Eileen Mayotte",
+        "Saskatchewan Camping Association",
+        "Centenary Cross Canada Canoe Journey"
+      ],
+      "date_ref": "1970-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3470",
+      "issue": 88,
+      "claim": "The Canadian Camping Association scheduled a National Conference on Camping Standards and Research at Halifax on 22-23 February 1971, one delegate per member camp, with the board meeting 20-21 February and the annual meeting on the evening of the 21st; delegates were asked to propose topics under standards and accreditation, health and safety, leadership development, and pollution and conservation.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1971-02-22",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3471",
+      "issue": 88,
+      "claim": "Harry Brown of Camp Tawingo argued in \"Everybody Talks About It\" (November 1970) that \"Nature is the prime reason for having or going to camp... when the site is destroyed so too, is any camp,\" proposing that camps measure the pollution around them and identify its sources, run a camper-oriented Nature Centre with live animals, build their own weather station, and have campers plant trees.",
+      "category": "programs",
+      "entities": [
+        "Harry Brown",
+        "Camp Tawingo"
+      ],
+      "date_ref": "1970-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3472",
+      "issue": 88,
+      "claim": "A photograph in Canadian Camping, November 1970, is captioned \"Camp Northway Lodge; Circa 1910\" — an image caption independently placing Northway Lodge in existence by about 1910.",
+      "category": "inter-camp",
+      "entities": [
+        "Northway Lodge"
+      ],
+      "date_ref": "1970-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3473",
+      "issue": 89,
+      "claim": "The provincial offices entry in Canadian Camping, Winter 1971, reads: \"L'association des camps du Quebec, and Quebec Camping Association — 952 Cherrier Ave., Montreal, P.Q. (Lionel Perras, pres.) English Section: 2233 Belgrave Ave., Montreal 261 (Peter Van Wagner, Pres.) Section francaise: 952 Cherrier Ave., Montreal. (Rosaire Corbin, pres.)\" — one president over the merged body with a separate president and address for each section.",
+      "category": "camping_movement",
+      "entities": [
+        "Lionel Perras",
+        "Peter Van Wagner",
+        "Rosaire Corbin",
+        "Quebec Camping Association",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1971-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3474",
+      "issue": 89,
+      "claim": "A New Brunswick Camping Association appears in Canadian Camping in Winter 1971, based at the Moncton YMCA with Robert Cameron as president — the ninth provincial body and the last Atlantic province to organise.",
+      "category": "camping_movement",
+      "entities": [
+        "New Brunswick Camping Association",
+        "Robert Cameron",
+        "Moncton YMCA"
+      ],
+      "date_ref": "1971-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3475",
+      "issue": 89,
+      "claim": "The Canadian Camping Association's address in Winter 1971 is Suite 203, 102 Eglinton Avenue East, Toronto — the Ontario Camping Association's new office — so the national office left Ottawa less than two years after moving there.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1971-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3476",
+      "issue": 89,
+      "claim": "Robert Lazanik's Canadian Camping Association address changes in Winter 1971 from 2233 Belgrave Avenue to 5465 Queen Mary Road, Suite 460, Montreal 29 — his own office rather than the Quebec Camping Association's.",
+      "category": "camping_movement",
+      "entities": [
+        "Robert Lazanik",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1971-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3477",
+      "issue": 89,
+      "claim": "David Hartry, president of the Canadian Camping Association, wrote in Winter 1971 that \"the first official snark hunt was held in the year 1968... on the shores of Mason's Point\" at the Anglican Youth Camp twenty miles outside Halifax — a dated, first-hand account of the invention of a camp legend by the staff who invented it.",
+      "category": "legends",
+      "entities": [
+        "David Hartry",
+        "Anglican Youth Camp",
+        "Mason's Point"
+      ],
+      "date_ref": "1968",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3478",
+      "issue": 89,
+      "claim": "David Hartry's Winter 1971 account describes the snark as \"a cross between a fish, an animal and a human being. It goes on land; it goes on water, but it cannot go too far on land or too far in the water... sometimes eighty feet long, sometimes only ten. Many bumps protrude from his back. He has antennae and his eyes usually shine in the dark,\" catchable only \"at 3 in the morning on a foggy night on the Atlantic coast\" and only with a WHOMPHUM STICK, \"a very large stick with a huge bump on the end.\"",
+      "category": "legends",
+      "entities": [
+        "David Hartry"
+      ],
+      "date_ref": "1971-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3479",
+      "issue": 89,
+      "claim": "David Hartry describes the staging of the snark hunt without concealment: staff set the campers' watches ahead and woke them soon after they fell asleep; the snark was built by campers who knew the secret from the previous year, from green garbage bags stuffed with styrofoam and tied in a row, with bicycle reflectors for eyes and coat-hanger antennae, floated off the wharf; the waterfront director lay hidden on the wharf blowing through a long cylinder to make gurgling sounds and once used a hand-pressure fire extinguisher for the spout; the director waded in to the knees and struck three times shouting \"WHOMPHUM! WHOMPHUM! WHOMPHUM!\" after which \"everyone gives the camp yell or sings the camp song.\"",
+      "category": "legends",
+      "entities": [
+        "David Hartry"
+      ],
+      "date_ref": "1971-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3480",
+      "issue": 89,
+      "claim": "David Hartry records that the snark hunt acquired a spurious documentary pedigree: \"much to our surprise at one time, we found, in the library a book actually called 'Snark Hunting'... we showed this to the children and this made our fictitious story even more convincing!\"",
+      "category": "legends",
+      "entities": [
+        "David Hartry"
+      ],
+      "date_ref": "1971-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3481",
+      "issue": 89,
+      "claim": "David Hartry records that within three years of its invention the snark hunt was expected annually (\"it is quite amusing each year as we are asked, 'When will the snark hunt be?'\") and that campers were already elaborating its vocabulary, one writing: \"The bump on the snark stick is called sarcophagus and the part you hold onto is called the handle. The part above the bump is called the framis.\"",
+      "category": "legends",
+      "entities": [
+        "David Hartry"
+      ],
+      "date_ref": "1971-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3482",
+      "issue": 89,
+      "claim": "David Hartry's snark-hunt account carries his own caution: \"One has to be careful that the children don't become frightened by the darkness and the whomphum stick and the enthusiasm of the staff. I found that I got so excited one time that it was almost dangerous in the sense that some child might panic and get really scared.\"",
+      "category": "legends",
+      "entities": [
+        "David Hartry"
+      ],
+      "date_ref": "1971-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3483",
+      "issue": 89,
+      "claim": "Hartry's 1968 snark hunt is a documented instance of how a Canadian camp legend was made, staged, elaborated by campers, given spurious corroboration and then expected annually, all recorded by its inventor within three years. It says nothing about Kanawana's Chopsy legend directly, but it indicates what evidence of such a legend would and would not survive: the staging is remembered, the invention is not, and the corroborating \"old book\" was part of the hoax. Any oral history instrument on Chopsy should ask about staging and about who knew the secret, not only about the story.",
+      "category": "methodology",
+      "entities": [
+        "David Hartry",
+        "Chopsy",
+        "Camp Kanawana"
+      ],
+      "confidence": "inferred",
+      "date_ref": null,
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3484",
+      "issue": 89,
+      "claim": "Adele Ebbs of Camp Wapomeo wrote \"The Campers — They Are Yours to Motivate\" in Canadian Camping, Winter 1971, drawing a distinction she states plainly: \"Award and reward are not synonymous.\" She quotes \"A. J. Neil of Summerhill school in England\" (A. S. Neill): \"To offer a prize for doing a deed is tantamount to declaring that the deed is not worth doing for its own sake.\"",
+      "category": "programs",
+      "entities": [
+        "Adele Ebbs",
+        "Camp Wapomeo",
+        "A. S. Neill"
+      ],
+      "date_ref": "1971-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3485",
+      "issue": 89,
+      "claim": "Adele Ebbs reports in Winter 1971 that one camp surveyed its campers and 97% favoured the competitive programme; the following year the camp eliminated competition and \"the final consensus of opinion was that the summer had been more fun.\" Her four motivating techniques are positive suggestion rather than negative command, co-operation rather than bossing, faith, and commendation.",
+      "category": "programs",
+      "entities": [
+        "Adele Ebbs"
+      ],
+      "date_ref": "1971-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3486",
+      "issue": 89,
+      "claim": "In the Winter 1971 letters column the editor of Canadian Camping conceded, replying to Mrs. Gail Brown, that the two badges-and-awards essays were \"incorrectly titled\" as positive and negative viewpoints and stated: \"There is no official Association viewpoint\" — establishing that the Canadian Camping Association had no policy on badges and awards in 1971, so a camp's badge scheme in this period was its own choice rather than a national requirement.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Gail Brown"
+      ],
+      "date_ref": "1971-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3487",
+      "issue": 89,
+      "claim": "John R. Latimer, president-elect of the Ontario Camping Association, told its conference on 7 March 1970 in \"The Youth 'Revolution' — How It Can Save Our Camps\" that camp staffing depended on taking the young seriously, quoting Barry Lowes: \"this is the first generation in history in which our young people have not been needed. There's no depression — There is not a world war — They aren't needed.\"",
+      "category": "camping_movement",
+      "entities": [
+        "John Latimer",
+        "Barry Lowes",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1970-03-07",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3488",
+      "issue": 89,
+      "claim": "John Latimer described an experiment in camper self-government: the six oldest campers, the \"Super Senior Cabin,\" were given no counsellor, with safety rules and camp relations set but programme, bedtimes and discipline their own. \"For two weeks they operated on their own. However, near the middle of the third week, they came and asked me if they could please have a Counsellor.\"",
+      "category": "programs",
+      "entities": [
+        "John Latimer"
+      ],
+      "date_ref": "1970-03-07",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3489",
+      "issue": 89,
+      "claim": "Bruno Morawetz's \"Bermudians Camping in Canada\" and Richard Kinch's \"Camping in Bermuda\" in Canadian Camping, Winter 1971, record the first Bermuda-Canada camper exchange, of twelve campers each way, arranged with Mr. Reginald Ming, Director of Youth, for August 1970 \"with very little red tape.\"",
+      "category": "inter-camp",
+      "entities": [
+        "Bruno Morawetz",
+        "Richard Kinch",
+        "Reginald Ming",
+        "Camp Ponacka",
+        "Camp Wahoo"
+      ],
+      "date_ref": "1970-08",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3490",
+      "issue": 89,
+      "claim": "Bruno Morawetz recorded of the twelve Bermudian campers who visited Ontario in August 1970: \"The revelation that white people are not ogres came as quite a surprise to some of them. One boy said that he had never shaken hands with a white person and most of them had had no previous contact with white people.\" Morawetz, a white Canadian camp director writing about Black children in 1970, also described them as \"polite, clean, well-spoken, well-mannered and well-dressed.\" Recorded exactly as written and dated, not endorsed.",
+      "category": "context",
+      "entities": [
+        "Bruno Morawetz",
+        "Pembroke Youth Club"
+      ],
+      "date_ref": "1970-08",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3491",
+      "issue": 89,
+      "claim": "Bruno Morawetz reported that the visiting Bermudian campers found it hard to split into different tent groups \"because as members of the Pembroke Youth Club, they had been accustomed always to do things together,\" that Ontario lakes were much colder than they expected, and that \"several of them could not swim at all and most of the others had never developed a clearly definable stroke. The waves around Bermuda do encourage bathing, but not swimming.\"",
+      "category": "inter-camp",
+      "entities": [
+        "Bruno Morawetz",
+        "Pembroke Youth Club"
+      ],
+      "date_ref": "1970-08",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3492",
+      "issue": 89,
+      "claim": "Richard Kinch of Camp Ponacka recorded that the Canadian campers visiting Bermuda in 1970 were met at the airport by television cameras and newsmen and made a presentation to the Hon. Lancelot Swan, Member of Parliament for Youth, with Lloyd James as their government guide; housed at the former British officers' headquarters at Somerset after plans to stay at Camp Wahoo fell through.",
+      "category": "inter-camp",
+      "entities": [
+        "Richard Kinch",
+        "Camp Ponacka",
+        "Lancelot Swan",
+        "Lloyd James",
+        "Camp Wahoo"
+      ],
+      "date_ref": "1970-08",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3493",
+      "issue": 89,
+      "claim": "Richard Kinch described Camp Wahoo, the government-owned Bermuda camp on Port's Island, as taking close to 100 boys, offering leather crafts, nature, sports fundamentals and swimming, booked about a week at a time by church clubs and scout troops, and providing \"only the physical layout. The campers themselves do most of their own work, housekeeping, assisting in main meal preparation\" — concluding \"We couldn't help wondering if this camp with its limited facilities didn't offer a great deal more than our modern multi-programmed set-ups in Ontario. It really helped point out the importance of the human side of camping.\"",
+      "category": "inter-camp",
+      "entities": [
+        "Richard Kinch",
+        "Camp Wahoo"
+      ],
+      "date_ref": "1971-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3494",
+      "issue": 89,
+      "claim": "M. C. MacCulloch, Director of the Bolton Summer Camp (Rotary Unit), wrote in \"The Camper in the Dining Room\" (Winter 1971): \"eating is a right, not a privilege. For that reason, meals, nor any part of them should ever be denied the camper. Coaxing, rewarding, punishments or ridicule at the dining room table are wasted. Desserts are never denied the camper. It is an unfair and unnecessary punishment.\"",
+      "category": "programs",
+      "entities": [
+        "M. C. MacCulloch",
+        "Bolton Summer Camp"
+      ],
+      "date_ref": "1971-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3495",
+      "issue": 89,
+      "claim": "M. C. MacCulloch listed poverty at home twice among the causes of poor appetite at camp in 1971: \"at some homes, the family diet which the child is accustomed to is inadequate from a dietetic point of view and the foods provided at camp will appear unnecessary and too much... Some children from the metropolitan areas make their own meals due to family circumstances and three courses at a meal is out of proportion to a jam and peanut butter sandwich for lunch... Limited budgets at home which provide spaghetti and bread as fillers will cause the child's perspectives re his own needs to be shaded.\"",
+      "category": "context",
+      "entities": [
+        "M. C. MacCulloch",
+        "Bolton Summer Camp"
+      ],
+      "date_ref": "1971-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3496",
+      "issue": 89,
+      "claim": "M. C. MacCulloch's 1971 dining-room guidance directs camps to \"hold off section cheers, and camp songs, until after the meal is completed, or at least towards the end of dessert,\" to schedule open periods for free time before meals, to allow no seconds on dessert until every camper has had a first, to ration sugar and jam as the most expensive items on a tight budget, and not to pour milk until dessert is served.",
+      "category": "programs",
+      "entities": [
+        "M. C. MacCulloch"
+      ],
+      "date_ref": "1971-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3497",
+      "issue": 89,
+      "claim": "J. D. Walker, Provincial Supervisor of Camping and Recreation for the Alberta Rehabilitation Council for the Disabled, published \"Handicapped Camping in Alberta: A Five-Year Projection 1970-1975\" in Canadian Camping, Winter 1971, recording that five years earlier an observer had objected that for the money proposed \"two hundred youngsters could be flown to Hawaii every summer for five years\"; Alberta built two camps instead. Terminology of 1971 recorded as written.",
+      "category": "programs",
+      "entities": [
+        "J. D. Walker",
+        "Alberta Rehabilitation Council for the Disabled"
+      ],
+      "date_ref": "1971-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3498",
+      "issue": 89,
+      "claim": "J. D. Walker's 1971 Alberta projection admits that \"maximum occupancy has been the goal, and very, very few applications have been refused,\" with the result that \"some children with multiple handicaps and behaviour problems, which are beyond the competence of the staff to deal with, have been accepted,\" and proposes structuring camp periods \"on the basis of level of activity, area of interest or intellectual capacity rather than an arbitrary age or disability structure.\"",
+      "category": "programs",
+      "entities": [
+        "J. D. Walker"
+      ],
+      "date_ref": "1971-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3499",
+      "issue": 89,
+      "claim": "J. D. Walker's 1971 Alberta staffing figures give a maximum twelve-week season, staff drawn from university and senior high school students available for about four summers, at least 25% turnover a year, an age range of 17 to 21 with a median of 19, senior staff encouraged to commit to three consecutive seasons with stipends set accordingly, and training comprising a three-day May seminar plus an on-site orientation weekend immediately before opening.",
+      "category": "staff",
+      "entities": [
+        "J. D. Walker"
+      ],
+      "date_ref": "1971-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3500",
+      "issue": 89,
+      "claim": "Charles A. Ceglar, sdb, of Camp Savio published \"Quelques notions generales sur le repos et le sommeil\" in Canadian Camping, Winter 1971, a physiological essay on sleep for camp staff citing Dr. L. Boisvert, the Encyclopedie Larousse pour la jeunesse, Paul Chauchard, C. T. Morgan, Brown-Sequard and Kleitman (1949).",
+      "category": "sources",
+      "entities": [
+        "Charles A. Ceglar",
+        "Camp Savio"
+      ],
+      "date_ref": "1971-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3501",
+      "issue": 89,
+      "claim": "Charles Ceglar's 1971 essay on sleep notes that during sleep \"la calorification est moins energique, aussi l'homme a-t-il besoin d'etre plus chaudement couvert durant le sommeil\" — a physiological reason for extra blankets at camp — that \"on ne dort jamais 'comme une pierre'\" with a small movement about every quarter hour, that \"le sommeil est plus long et plus necessaire dans la jeunesse,\" and that \"il n'y a pas de lien direct entre l'intensite du sommeil et sa valeur recuperatrice; les dernieres heures sont aussi importantes\" — an argument against cutting the morning end of a camper's night.",
+      "category": "programs",
+      "entities": [
+        "Charles A. Ceglar"
+      ],
+      "date_ref": "1971-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3502",
+      "issue": 89,
+      "claim": "Tremblay Canoes of St-Felicien, Quebec, advertised a full page in Canadian Camping, Winter 1971: \"60 years experience,\" cedar canoes with \"Verolite,\" a plastic-coated canvas in use six years by \"more than 60 Boys' and Girls' camps and by various police units and several governmental departments in Ontario and Quebec,\" in 38 sizes and models, of No. 1 Eastern Canada cedar with solid brass nails and screws and white birch decks and thwarts.",
+      "category": "facilities",
+      "entities": [
+        "Tremblay Canoes",
+        "Saint-Felicien"
+      ],
+      "date_ref": "1971-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3503",
+      "issue": 89,
+      "claim": "Continental Casualty's Camp-Guard advertisement in Canadian Camping, Winter 1971, had changed its pitch to cover \"the extra medical expenses not covered by Government Health Insurance Plans\" — the arrival of public health insurance visible in camp insurance advertising.",
+      "category": "context",
+      "entities": [
+        "Continental Casualty"
+      ],
+      "date_ref": "1971-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3504",
+      "issue": 89,
+      "claim": "Camp Nagiwa advertised its complete camping equipment and supplies for sale through the Guelph YM-YWCA in Canadian Camping, Winter 1971 — a camp closing.",
+      "category": "inter-camp",
+      "entities": [
+        "Camp Nagiwa",
+        "Guelph YM-YWCA"
+      ],
+      "date_ref": "1971-01",
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
