@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 3255,
+  "fact_count": 3287,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -57213,6 +57213,577 @@
         "Margaret Govan"
       ],
       "claim": "Jean Darrach's Winter 1968 piece on Sidney J. Parnes's Creative Behaviour Guidebook contains one quotable line from a Toronto conference: \"Professor Alan Klein told his audience they paid only lip service to creativity; the truth was they 'really hated creative kids' who made them uncomfortable and disrupted all their planning. The response of the group suggested that he had flicked a tender spot.\" Set beside Margaret Govan's February 1967 list of campers she could do without, where \"the creative camper\" appears at number seven, this is the same admission made twice in a year.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3294",
+      "issue": 78,
+      "category": "people",
+      "date_ref": "1968-spring",
+      "entities": [
+        "Sophia Demetelin",
+        "Quebec Camping Association",
+        "Camp Demetelin"
+      ],
+      "claim": "Frances Kelly, Executive Director of the Quebec Camping Association, profiles Sophia Demetelin in Spring 1968. She was \"born and educated in Montreal, receiving a special teacher's certificate in the Greek language,\" mother of two daughters, living at 515 Rockland Road, Town of Mount Royal. And: \"Camp Demetelin, an accredited member of both the Quebec Camping Association and the American Camping Association (a private co-ed camp, situated at St. Donat in the Laurentians) is owned and operated by Mr. and Mrs. N. D. Demetelin.\" A private coeducational camp at St-Donat, ACA- and QCA-accredited, absent from this project's Quebec camp landscape. Her election is dated precisely: \"It was at this meeting [International Camping Day at Expo] that our new president was elected to the provincial board (co-ordinating body English and French Sections), on September 23, 1967.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3295",
+      "issue": 78,
+      "category": "people",
+      "date_ref": "1968-spring",
+      "entities": [
+        "Sophia Demetelin"
+      ],
+      "claim": "Sophia Demetelin's civic work, recorded in her Spring 1968 profile: \"In order to show the Hellenic community's appreciation for many free services rendered by the Royal Victoria Hospital to the Greek immigrants in Montreal, Mrs. Demetelin conceived the idea of a Hellenic festival, the proceeds of which were donated to the Royal Victoria Hospital. With this donation, the Royal Victoria Hospital built a new laboratory for detecting rare blood diseases in women, and named it 'the Hellenic Research Laboratory'. Mrs. Demetelin is a volunteer interpreter in the laboratory.\" Her memberships include the Hellenic Ladies' Benevolent Society, the Quebec Society for Crippled Children (Tony Shorgan's organisation), the Montreal Folk-Lore Festival and the Montreal Greek Orthodox Youth Association.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3296",
+      "issue": 78,
+      "category": "directors",
+      "date_ref": "1968-spring",
+      "entities": [
+        "A. Ross Seaman",
+        "Canadian Camping Association",
+        "Sophia Demetelin",
+        "John Latimer"
+      ],
+      "claim": "The Spring 1968 masthead lists the CCA vice-presidencies for Ontario and Quebec as John R. Latimer and Mrs. N. D. Demetelin, so A. Ross Seaman is off the CCA executive, having also stepped down from the QCA presidency in September 1967. Kanawana's director's association offices can now be dated: QCA president to September 1967, CCA vice-president for Quebec from December 1966 to spring 1968.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3297",
+      "issue": 78,
+      "category": "canoe_trips",
+      "date_ref": "1968-spring",
+      "entities": [
+        "Faye Eccleston",
+        "Camp Deka",
+        "Kamp Kanawana"
+      ],
+      "claim": "Faye Eccleston's account of British Columbia's completed Centenary Journey, Spring 1968: 230 participants, a 900-mile trek as \"a continuous journey of 40 days, July 7th to August 15th\" 1967. Continuity was kept by passing a beaver pelt, trapped and donated by Rocky Mountain Boys' Camp, on which \"each participating group inscribed names, dates and area covered\" -- a relay token of exactly the kind John Latimer had proposed, and worth asking whether Quebec's section had one. Highlights: Camp Deka's 414-mile paddle down the Fraser with eight campers and two leaders, Camp Deka being the national president's own camp; the Quesnel Land Rangers hiking 52 miles of the old Fur Brigade Trail in Centennial costume because \"the horses were needed for unexpected haying\"; interior stretches covered \"by foot, bicycle, haywagon and canoe\"; and a final relay in which \"15 Victoria Y.M.-Y.W.C.A. campers jogged the 7 1/2 miles, relay style, one-half mile each, (oh yes, carrying the beaver pelt).\" The pelt went to the B.C. Centennial Chairman and thence \"to be mounted in the Provincial Museum.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3298",
+      "issue": 78,
+      "category": "archives",
+      "date_ref": "1968-spring",
+      "entities": [
+        "Faye Eccleston",
+        "Canadian Camping Association",
+        "Kamp Kanawana"
+      ],
+      "claim": "The Centenary Journey document chain is confirmed in operation, Spring 1968: \"Each participating organization has forwarded reports of its section including log, history, map, coloured slides and black and white pictures. These are being sent to Toronto for a national Centenary Journey publication, and a cross-country coloured slide collection which will be on loan to interested organizations.\" So beyond the 1971 book there was a national collection of colour slides and photographs from every participating camp, assembled in Toronto and lent out -- a second, distinct archival target alongside the Quebec provincial log. Also noted: at the B.C. reception of 14 October 1967, congratulatory wires from Prime Minister Lester B. Pearson and Secretary of State Judy LaMarsh were read, and \"Mrs. Marianne Linnell, a Director of the Canadian Centennial Commission, presented certificates to the participants\" -- so participation certificates were issued, and one may survive in a paddler's papers.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3299",
+      "issue": 78,
+      "category": "staff",
+      "date_ref": "1968-spring",
+      "entities": [],
+      "claim": "\"The Gap Doesn't Need to Get Wider!\", Spring 1968, is a reply to the previous issue's complaint about young staff, compiled from \"a group of Counsellors from 7 different camps.\" Their case: \"Just as there can be a lack of communication between two adults so there can be a lack of communication between a counsellor and a director... Our parents hid many of their problems and concerns behind veils of hypocrisy; and now, when their children do what they wished they could have done, and say what they wished they could have said, the parents throw up their arms in alarm.\" On rewards: \"How can these rewards -- satisfaction and pride in oneself -- be attained by those who have not applied themselves? Aren't these the same benefits which the Camp Director who sits back thinking of the 'good old days' also strived for?\" And on being characterised: \"The author sees us as a nameless, faceless, groping mass, desperately searching for boundaries... We aren't special!\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3300",
+      "issue": 78,
+      "category": "methodology",
+      "date_ref": "1968-spring",
+      "entities": [],
+      "claim": "The counsellors' list of what they want from a director, Spring 1968, is a period document of staff expectations and the first statement in this run about evaluation from the evaluated side: \"We want to know where we stand!... We distrust the Camp Director who criticizes the whole staff for the mistakes of a few... we don't want a Camp Director who capitulates his position and refuses to offer guidelines... We want a Director who isn't afraid to be 'square' if the welfare of Camp and Campers is at stake... We don't want our Camp Director sitting in an Ivory tower, never welcoming us into his cabin... We want a Camp Director who has a clear cut definite philosophy about camping... We need to know our weaknesses and need to be recognized for our strengths... not just by a Section Director or Programme Director, but by the man who is directly responsible for our hiring and firing.\" Their close: \"So fear not Camp Directors ... we're not about to overthrow or abandon you, as long as you are determined not to write us off as a dead loss. Meet you half-way!\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3301",
+      "issue": 78,
+      "category": "methodology",
+      "date_ref": "1968-spring",
+      "entities": [
+        "Peter Moon"
+      ],
+      "claim": "Dr. Peter Moon, a consulting psychologist, gives the first professional treatment of camp staff hiring in this run, Spring 1968: \"We are attempting to gather enough information about a person to make a predictive statement about his success or failure on the job... There is a risk in all selection procedures -- a risk of hiring failures and of rejecting people who might do well on the job. You can only minimize this risk, you cannot eliminate it.\" On the interviewer: \"Unguided practice does not make perfect. You can interview for years and do nothing but perfect your own mistakes\"; \"Before you try to judge people know yourself. Know your own biases, your own prejudices... So listen to your own thoughts when you see people with faces you don't like, physical handicaps or big smiles.\" On the application form as evidence: \"What does it tell you about the person beyond what he wants you to know? Is it neat or careless in format?... Does his job history reflect any purpose or direction?\" This is the period's professional framing of the hiring record, the counterpart to the evaluation record, and it explains why staff application files contain judgements as well as facts.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3302",
+      "issue": 78,
+      "category": "programs",
+      "date_ref": "1968-spring",
+      "entities": [
+        "Marion Roseborough",
+        "Girl Guides of Canada"
+      ],
+      "claim": "Marion Roseborough's \"When Guides Go Camping,\" Spring 1968, gives the clearest statement in this read of how the patrol system differs from the counsellor system. \"Instead of the counsellor, each patrol of not more than eight girls has a leader elected from its own membership. We have a minimum of one adult to every eight guides, but they are distributed differently, to give the patrol leader as much opportunity to lead as possible.\" Camps of \"not more than 36 girls... aged 10-14\"; the girls plan the camp themselves -- \"make out menus, buy the groceries, figure out the cost per person, make out time tables, arrange the tenting, and in fact make the adults quite unnecessary\"; duties rotate through a Wood and Water Patrol, Sanitation Patrol and Cooks; and \"Tent inspection is VERY important -- if they are badly pitched and not properly cared for, where do you go when it rains?\" Scale: \"Last year 1,200 Nova Scotia Girl Guides spent anywhere from two days to two weeks enjoying this type of camping.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3303",
+      "issue": 78,
+      "category": "canoe_trips",
+      "date_ref": "1968-spring",
+      "entities": [
+        "Boy Scouts of Canada"
+      ],
+      "claim": "\"Safe Out-Trip Swimming Area,\" Spring 1968, describes making a waterfront out of nothing on a canoe trip: a flag buoy from two crossed sticks with a vertical piece, \"a flag on top (neckerchief or rag) and a rock on the bottom for an anchor\"; a buddy board from whittled pegs flat on one side, one per camper, stuck in the ground in buddy pairs on check-in and pulled on check-out; and a heaving line made by threading quarter-inch rope through a four-inch sponge rubber ball. The Boy Scout Defence Plan sets the ratios: areas marked at three and a half feet for non-swimmers; \"A minimum of two lifeguards to be on duty with extra lifeguards on the basis of one per 20 swimmers\"; ability groups tested at 50 feet and 100 yards (\"25 of them on back\"); buddies \"within 10 ft of each other at all times,\" with a buddy signal \"approx. every five minutes.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3304",
+      "issue": 78,
+      "category": "media",
+      "date_ref": "1968-spring",
+      "entities": [],
+      "claim": "Mrs. W. Haynes's \"Films At Camp,\" Spring 1968, gives the supplier list by which Canadian camps obtained films: Crawley Films of Ottawa, which \"publish a list of free films annually\"; the Canadian Industries Ltd. Film Library in Montreal; the Canadian Film Institute; the National Museum of Canada (\"Eskimos, birds, geology, botany, mammals\"); the Ontario Department of Tourism (\"adventure, historical places, outdoor living\"); the Canadian Citizenship Council; Columbia Pictures; and the Anti-Defamation League of B'nai B'rith (\"counselling, prejudice, racial discrimination, anti-semitism\"). Most were free on condition of prompt prepaid return. Method: choose in spring, \"make up a list according to the weeks in which we feel the films might be shown,\" and have them delivered to camp on schedule.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3305",
+      "issue": 79,
+      "category": "camping_movement",
+      "date_ref": "1968-03-16",
+      "entities": [
+        "Quebec Camping Association",
+        "Alta Kahn",
+        "F. M. Van Wagner",
+        "Raoul Cloutier",
+        "Kamp Kanawana"
+      ],
+      "confidence": "disputed",
+      "claim": "At the closing banquet of the 1968 Quebec Camping Association Conference, Windsor Hotel, Montreal, 16 March, Mrs. Alta R. Kahn, the Rev. Raoul Cloutier and F. M. Van Wagner were honoured with \"Indian-like plaques made by a penitentiary prisoner,\" presented by Mrs. N. D. Demetelin. The citation: \"Mrs. Kahn and Father Cloutier were both instrumental in the founding of the Quebec Association, the latter being the first president. Mr. Van Wagner was president for four years and introduced standards in children's summer camps for the Province of Quebec.\" Two things follow. Van Wagner introduced camp standards in Quebec -- so the man who founded Camp Nominingue in 1925 built the inspection regime under which Kanawana was later accredited. And \"the Quebec Association\" is ambiguous: a francophone priest as first president does not sit easily with this project's record that the QCA was formed in 1937 as a chartered unit of the CCA, nor with O. N. H. Owens in QCA office from 1929. The likeliest reading is that the citation means the French section founded in 1958, but the text does not say so, and nothing should be written into the wiki until which association is meant is settled.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3306",
+      "issue": 79,
+      "category": "camping_movement",
+      "date_ref": "1968-03",
+      "entities": [
+        "Quebec Camping Association"
+      ],
+      "claim": "Five hundred delegates attended the 1968 Quebec Camping Association conference at the Windsor Hotel, Montreal. Jean-Marie Morin, MPP for Levis, told them \"youth of both French communities on both sides of the Atlantic will be brought together in the exchange of summer camp staff\" -- a Quebec-France camp staff exchange, on the record in 1968. The provincial offices list gives the Quebec Camping Association at 2233 Belgrave Ave., Montreal 28 -- the same address the CCA itself used before 1963, and the address the October 1976 directory gives for Derek Walsh as QCA president.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3307",
+      "issue": 79,
+      "category": "people",
+      "date_ref": "1968-summer",
+      "entities": [
+        "Eileen Mayotte",
+        "Quebec Camping Association",
+        "Sir George Williams University",
+        "McGill University"
+      ],
+      "claim": "Eileen Mayotte, elected first president of the re-formed Saskatchewan Camping Association at its first conference since 1957 (Saskatoon, 22-24 March 1968), has a Quebec-to-prairie career: she began camping at fourteen at a C.G.I.T. camp in Quebec, put herself through university working in the Laurentians as swimming instructor, programme person, assistant director and director; took her B.Sc. in Biology at Sir George Williams University and her MSW at McGill; and \"In the '40s she was Secretary of the Quebec Camping Association.\" With her husband Al she directed coeducational camps out of Montreal before moving to Saskatchewan in 1955. A named QCA secretary for the 1940s -- a decade this project has almost nothing on -- and one more instance of the Sir George Williams and Laurentian camping pipeline that runs through Kanawana's own staff.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3308",
+      "issue": 79,
+      "category": "camping_movement",
+      "date_ref": "1968-03",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "claim": "Recommendations from the CCA Annual Meeting, Winnipeg International Inn, 27-28 March 1968: a National Camping Office in Ottawa; a National Camp Directors' Conference in 1969; a National Camping Day beginning 1968; national recognition of the Ottawa canoe instructors' course; discussion with government on exempting camps from Canada Pension Plan contributions for counsellors; and special CCA recognition for Accredited camps. The Canada Pension Plan item dates the moment the movement began treating summer counselling as a payroll question.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3309",
+      "issue": 79,
+      "category": "operations",
+      "date_ref": "1968-summer",
+      "entities": [
+        "Kirk Wipper",
+        "Canadian Red Cross Society",
+        "Royal Life Saving Society",
+        "Kamp Kanawana"
+      ],
+      "claim": "Kirk Wipper reports in Summer 1968 that negotiations were under way to integrate the Canadian Red Cross Water Safety Service with the Royal Life Saving Society-Canada, \"planned to take effect early in 1969,\" producing one progression from beginner swimmer to advanced life saving and dual instructor qualification. This dates the standards regime behind every later Kanawana waterfront record: an award named in a 1970s camp report belongs to the merged scheme, not to either predecessor. His companion piece, \"Aquatic Calculations,\" gives waterfront practice as of 1968: guards to be drilled, tested and given a bonus or time off; checking systems covering every waterfront activity; written search plans; facility hazard review; and trip precautions -- upsetting with clothes on, canoe-over-canoe rescue, paddling awash. On life jackets, the D.O.T.-approved keyhole type and a new air-filled pocket type demonstrated by Jack Watson, \"not yet approved by the D.O.T. but under current consideration.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3310",
+      "issue": 79,
+      "category": "traditions",
+      "date_ref": "1968-summer",
+      "entities": [
+        "Bruno Morawetz",
+        "Canadian Camping Association"
+      ],
+      "claim": "Bruno Morawetz, chairing the CCA Outdoor Education Committee, opens \"Outdoor Education -- are you with it?\" in Summer 1968 with housewives buying bottled drinking water at the supermarket (\"This is 1968\"), quoting Prince Philip to the Audubon Society in Toronto: \"Conservation is a case of now, or never.\" His definition is education in and for the out-of-doors; his challenge to camps is pointed -- are we \"merely transferring city activities to the northern parts of our country?\" -- and his statistic is worth keeping: \"no more than 5% of all our youngsters have the opportunity to go to camp.\" He notes the Ontario College of Education's outdoor education conference the previous autumn, a Peterborough high school \"Outers\" programme modelled on Outward Bound techniques used at Atikokan High School, Toronto-area school boards acquiring land, and an Oshawa principals' conference for August 1968. The camping movement's claim to be the original outdoor-education provider, made the year it started losing that monopoly to school boards.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3311",
+      "issue": 79,
+      "category": "camping_movement",
+      "date_ref": "1968-summer",
+      "entities": [
+        "Lorne E. Brown",
+        "May Brown"
+      ],
+      "claim": "Prof. Lorne Brown of UBC told the BC association's annual meeting in 1968 that camping \"is not taking city activities into the natural environment and calling it camping... It is not competing with others in organized sports or cabin cleanliness,\" but \"living close to nature twenty-four hours a day.\" His one-word guide: SIMPLICITY. And a hard economic argument: \"no longer can we put children and young people in the hands of 'amateurs'... Camp fees must be based on costs and enough to enable the camp to operate so that staff and counsellors can be paid. No longer can we run our camps on a basis of free contributions and subsidization for all,\" with camperships and grants for those who cannot pay. Brown is the husband of May Brown, the Camp Oolahwan director identified in December 1966.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3312",
+      "issue": 79,
+      "category": "sources",
+      "date_ref": "1968-03-09",
+      "entities": [
+        "Mary S. Edgar",
+        "Mary L. Northway",
+        "Canadian Camping"
+      ],
+      "claim": "Mary S. Edgar received the Canadian Centennial Medal at the OCA closing banquet on 9 March 1968, \"on behalf of the Canadian Camping Association,\" with the citation read by Dr. Mary L. Northway. The citation is a compact authority-grade summary: founding member and past president of the OCA, Honorary President of the CCA, \"the originator of our camping magazine,\" author of hymns \"that will be remembered as long as campers sing.\" Northway's own recollection adds the personal detail -- \"my camp director, mentor and friend... known affectionately to her fellow villagers of Sundridge and surreptitiously by the campers as 'Mamie' Edgar,\" at Lake Bernard.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3313",
+      "issue": 79,
+      "category": "methodology",
+      "date_ref": "1968-summer",
+      "entities": [
+        "Walter Lampe",
+        "Manitoba Camping Association",
+        "A. Ross Seaman"
+      ],
+      "claim": "Walter Lampe's Camper Change: By Accident or Design, published by the Manitoba Camping Association at 50 cents and noticed in Summer 1968, is a named published methodology for measuring camper change -- the outcome-measurement counterpart to A. Ross Seaman's own \"Methods of Measurement in Camping\" seminar teaching in November 1967. The same issue carries Peter Moon's \"Interview! Part Two,\" with a full \"Interview Signs Related To Personality Factors\" checklist covering emotional maturity, immaturity, dependability, self-confidence, objectivity, values and attitudes, and his rule that \"the poorer the interviewer, the more he talks.\" Together these show that the assessments in camp files were written against a published national methodology, not made up on the spot.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3314",
+      "issue": 80,
+      "category": "operations",
+      "date_ref": "1968-fall",
+      "entities": [
+        "Ron Poole"
+      ],
+      "claim": "Ron Poole of Tomenson Saunders Ltd. gives the fullest account of camp risk and insurance practice in this run, Fall 1968. On fire and site: camps \"are usually in an area which is not accessible to public protection,\" so fire fighting must be self-contained -- foam extinguishers at key points, sand buckets, water pails, hand pumps, spades. The kitchen hood and vent system is the common hazard, needing an automatic CO2 system: \"not only is the dining lodge and kitchen frequently the most expensive structure on the building schedule, but its loss at the beginning of the season could cause a serious shutdown.\" Separation of buildings should be planned against fire spread and prevailing winds, not only convenience; brush and grass kept short, since \"the most dangerous season for brush and grass fires is in early May.\" On valuation: operators routinely omit hydro and telephone poles, yard lamps, fencing and bridges from schedules of value; square-footage indices are unreliable because remoteness raises construction cost; and under-insurance is prevalent. On liability, camp limits are \"almost uniformly inadequate\"; $500,000 inclusive is the floor, and going to $1,000,000 costs only 15 to 25 per cent more. Risks named include botulism in the kitchen and destruction of valuable timber rights through negligence.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3315",
+      "issue": 80,
+      "category": "staff",
+      "date_ref": "1968-fall",
+      "entities": [
+        "Ron Poole"
+      ],
+      "claim": "Ron Poole on Workmen's Compensation and camp counsellors, Fall 1968, is the passage most worth quoting: \"when is a counsellor covered by Workman's Compensation? If he breaks his leg getting out of bed in the morning? If he suffers concussion during a game of volleyball with other counsellors? As he is walking across the camp grounds to his first supervisory task of the day?\" A residential camp job has no clean boundary between work and life, and the insurance industry knew it in 1968; he recommends an Employers' Liability endorsement to catch what the Act does not. He also advises adding employees as additional named insureds, at no extra premium, because a counsellor supervising an activity that injures a guest would likely be named personally in the suit and \"would not likely have any personal insurance which would respond,\" having to fund his own defence.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3316",
+      "issue": 80,
+      "category": "context",
+      "date_ref": "1968-fall",
+      "entities": [
+        "Ron Poole"
+      ],
+      "claim": "A documented 1968 statement that corporal punishment at Canadian camps was live enough to be an insurance-drafting question. Ron Poole notes that the standard liability policy excludes bodily injury \"caused intentionally by, or at the direction of the Insured,\" and advises deleting the exclusion, as school programmes do, \"since there can be some concern about physical punishment meted out to young guests, whether it be authorized or unauthorized by the senior executive of a school or a camp's management... One conjectures that at least some camp operations are directed towards corrective conditions for child behaviour.\" He explicitly declines to say whether physical punishment is enlightened or not. This is a statement about the industry, not about any named person or camp. He also notes the vehicles problem: the owned policy's passenger-fare exclusion must be struck, since a camp station wagon carrying children could be construed as carrying fare-paying passengers via the camp fee, leaving no operative cover.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3317",
+      "issue": 80,
+      "category": "facilities",
+      "date_ref": "1968-fall",
+      "entities": [
+        "Eanswythe Flynn"
+      ],
+      "claim": "Eanswythe Flynn's \"Have You Stored This One?\", Fall 1968, is a complete off-season shutdown procedure for a Canadian camp, item by item -- the closest thing in this run to a physical-plant operations manual. The piano is kept in an evenly warm room, or left open with keyboard exposed and NOT covered, because a tarp \"holds dampness inside to rust strings and damage the felts.\" Medical supplies go back to the city and are replenished each spring, since drugs deteriorate and \"ASA and other tablets crumble\" and \"adhesives can perish.\" Batteries out of flashlights; hot water bottles hung upside down with stoppers removed and tied to the bottle; mattresses left on beds under naphtha flakes and cedar boughs, and not stacked, since \"in this way we are told they form another fire hazard.\" Rugs off the floor because \"mice tear them apart... threads and tufts make perfect lining for nests.\" Windows covered or camouflaged, because \"grouse or partridge, in particular, will fly through clear glass.\" Saddles saddle-soaped; removable docks sheltered \"in the lee o' the land\" until after ice break-up; diving boards stored flat and oiled against drying.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3318",
+      "issue": 80,
+      "category": "facilities",
+      "date_ref": "1968-fall",
+      "entities": [
+        "Eanswythe Flynn"
+      ],
+      "claim": "More from Flynn's Fall 1968 camp shutdown procedure: vinegar survives if bottles are two-thirds full; juices and soft drinks do not; canned goods are never used after freezing. Dry staples may stay in sealed tins or heavy plastic pails -- \"but not powdered egg for trips.\" Coal oil stays; gas stays in Fire-Marshal-approved containers in a separate building; boat motors are drained and then run until they run dry; propane taps shut at the outdoor tanks; water lines drained by a maintenance man who knows how; the washing machine pump hose drained downward. Oily rags are removed as \"one of the greatest fire hazards.\" Directors' hints: heat the walk-in refrigerator with an enclosed unit and use it as winter storage; and build a cedar-lined room also lined with tin or fine door screening for mattresses, blankets, tents, sails and pillows, \"without benefit of mice.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3319",
+      "issue": 80,
+      "category": "traditions",
+      "date_ref": "1968-08-01",
+      "entities": [
+        "Ross Cumming"
+      ],
+      "claim": "Ross Cumming's \"Muskrat With A Mission,\" reprinted in Fall 1968 from The United Church Observer of 1 August 1968, is a parable in which a muskrat swims up a manse's sewage tile into the basement toilet and delivers an environmental sermon: \"You New World people are a filthy bunch... You were given the largest body of fresh water in the world. And you have used it as a cheap, handy cesspool... Dirty air is a mass murderer... Clear water is life; defiled water is death.\" It then turns on the church itself: \"Why is the manse one of the last homes in your town to have its plumbing up to the mark? Why wasn't it the first? Why are you lagging instead of leading?\" and closes on Genesis: \"the Lord God took man and put him in the garden to dress it and to keep it. That is your job: what are you doing about it?\" With Morawetz in the same year, this is the camping press turning to environmental argument in 1968, in explicitly religious terms -- the period when a YMCA camp's conservation language would have been formed.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3320",
+      "issue": 80,
+      "category": "traditions",
+      "date_ref": "1968-fall",
+      "entities": [
+        "May Brown",
+        "Camp Deka"
+      ],
+      "claim": "May Brown's \"How Do I Budget My Time?\", Fall 1968, is a camp director's job description in her own voice. Her argument: the ideal director is \"sitting on a log chatting with a 'loner', or inviting the boy showing first signs of homesickness to paddle in a canoe,\" and a director who does not budget for it \"really [is] not fulfilling our role.\" Three prescriptions: frequent general staff meetings where policy, not programme detail, is agreed; a part of each day set aside for camper contact -- \"What a highlight it is for a camper to have the 'Big Chief' take the time\"; and taking charge of one major assembly daily -- chapel, morning assembly, after lunch or evening campfire -- because \"most camps reflect the personal philosophy of the director.\" She adds that the director should deliberately build \"certain kinds of ceremonial activities\" around himself: a direct statement of why camp ceremonial exists and who it is for. Everything organisational belongs before the season: \"Let us not in camp make the same error found in schools and many recreational agencies whereby the head of the institution finds himself shut off from the people involved.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3321",
+      "issue": 80,
+      "category": "canoe_trips",
+      "date_ref": "1968-fall",
+      "entities": [
+        "Kirk Wipper",
+        "Camp Kandalore"
+      ],
+      "claim": "Kirk Wipper reports the Glengarry canoe race in Fall 1968: descendants of the Nor'Wester voyageurs, under Hugh MacMillan, challenged two Camp Kandalore crews to a seven-mile race up the Raisin River from Lancaster to Williamstown, at the site of the 1783 North West Company recruiting ground where the Glengarry Historical Society had set up a museum; there was a portage with two sixteen-foot canoes \"through a hornet's nest\" and the Glengarry Pipe Band in attendance; Kandalore gave pemmican from Northern Manitoba to the museum and received a Nor'Wester pennant and plaque. The voyageur-revival current continuing past the 1967 pageant.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3322",
+      "issue": 80,
+      "category": "staff",
+      "date_ref": "1968-fall",
+      "entities": [
+        "Bruno Morawetz",
+        "Camp Ponacka"
+      ],
+      "claim": "A named 1968 staff-meeting technique, taught to some thirty Ontario directors at a weekend at the Aurora Conference Centre by Prof. Laurence Taylor, Vice-President for Leadership Development at Hillsdale College, Michigan, and reported by Bruno Morawetz: break into groups of six, each with chairman and recording secretary; the leader poses a question (\"what would be the best way to improve the morale in the camp?\"); each person gets one minute, so six minutes gives every staff member a turn; the group takes one further minute to choose what to report back; then a second round on implementation. \"The timid ones are not afraid to speak to an intimate group of six persons; the vocal and verbose ones are given the same one minute.\" Staff-meeting method of this kind arrives at a camp through exactly this channel -- a director's weekend, then a magazine article.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3323",
+      "issue": 80,
+      "category": "founding",
+      "date_ref": "1968-fall",
+      "entities": [
+        "Ann Prewitt",
+        "Fannie Case",
+        "Northway Lodge"
+      ],
+      "confidence": "disputed",
+      "claim": "Ann Prewitt, Director of Camp Northway Lodge, writes in Fall 1968 that \"Northway Camp Chats date back to 1906\" -- a fourth data point in the carried-forward Northway Lodge founding conflict (1905, 1906, 1917), and the strongest kind, since a camp magazine cannot predate the camp. It puts the camp's existence at 1906 or earlier and is independent of Fannie Case's own recollection, which the previous autumn's issue gave as 1906.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3324",
+      "issue": 80,
+      "category": "programs",
+      "date_ref": "1968-fall",
+      "entities": [
+        "Ann Prewitt",
+        "Northway Lodge"
+      ],
+      "claim": "Ann Prewitt describes a sixty-girl camp from inside, Fall 1968. The TRIPPING programme works so that \"anyone who has passed any part of it is qualified to teach, and pass, another -- provided safety is not involved,\" so an eleven-year-old teaches thirteen- and fifteen-year-olds to find Labrador tea for Hudson's Bay tea \"the way the Voyageurs did.\" In the dining room anyone may sit anywhere but \"no one may save a place for another\" -- \"this in itself creates new friendships and dissolves cliques\" -- and anyone may stand and make an announcement. Three campers and one counsellor share a tent, with the three deliberately split across three different morning \"Workshift\" groups of twenty so that each shift draws one camper from every tent, and each shift chooses its own constructive job for the whole camp. Delicate matters -- \"such as a death in the family\" -- are handled through tent groups rather than a general announcement, counsellors coaching campers on how to behave toward the bereaved. Sunday night 'Talks' have topics chosen in Council and \"no subject barred\": in summer 1968 the camp discussed Drugs and Hippies. Beyond a mimeographed philosophy, rules and job analysis, \"there is little or no need for written or printed communication.\" Her staffing principle: \"She will flounder if she feels that someone is always watching over her shoulder. I, myself, would never accept a job unless I was also given the authority and responsibility to do that job.\" And: \"Only when safety is involved does the Director rear her ugly head.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3325",
+      "issue": 80,
+      "category": "context",
+      "date_ref": "1968-fall",
+      "entities": [
+        "Clifford Labbett",
+        "Camp Oconto"
+      ],
+      "claim": "A rare price for a whole Ontario camp property in 1968: Camp Kasawamak for sale, 60 miles north-west of Kingston, about 20 acres, 1,200 feet of shoreline, 16 buildings, hydro and telephone -- $47,000. The same classified page carries a Hobart AM-7 dishwasher for sale at Camp Oconto, contact C. Labbett -- the Clifford Labbett who later becomes CCA president. The Continental Casualty back-cover advertisement adds the scale of camp accident insurance: \"Since 1954 campers have been paid over one quarter of a million dollars from this plan.\"",
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
