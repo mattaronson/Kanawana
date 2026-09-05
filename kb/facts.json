@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 4194,
+  "fact_count": 4218,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -74574,6 +74574,459 @@
         "Camp Kanawana"
       ],
       "date_ref": "1982-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4233",
+      "issue": 141,
+      "claim": "Canadian Camping's masthead of Spring 1982 states its particulars for the first time in this run: \"Canadian Camping (ISSN 008-3119) is published quarterly. CCA/ACC membership includes a subscription; non-member subscription $6.00 a year or $15.00 – 3 years... Material in Canadian Camping may not be reproduced in any form, without written permission of the editor. Copyright 1982.\" Editor Jay Haddad; Editorial Board John Latimer, John Walker and Murray Wickwire. The six-times-a-year cadence of the newsletter era has become four.",
+      "category": "sources",
+      "entities": [
+        "Jay Haddad",
+        "John Latimer",
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1982-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4234",
+      "issue": 141,
+      "claim": "Canadian Camping's editorial of Spring 1982, printed entire in English and French, tells member camps to abolish competition, prizes and badges: \"As soon as a race is organized with ten children where one child wins, you have nine losers; if four relay teams compete, three are losers; if you have a first prize, you have losers!... our cities, through competition, create losers — MILLIONS OF THEM! Our camps, unfortunately, are doing the same thing! Awards, prizes, badges, competition, material success should all be discouraged in camp programming.\" Its five instructions: eliminate competition with winners and losers; give no material reward; encourage co-operation through tasks, chores, canoe trips and games; make the activity an end in itself; and \"Never belittle or berate a person; a behaviour or remark, yes; the person, never.\" It closes: \"Competition, as we know it, is a destructive force in our society — it should NOT be tolerated, reinforced or accepted in our camps!\"",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4235",
+      "issue": 141,
+      "claim": "In the spring of 1982 Kanawana was running an inter-section competition with an annual trophy and a shield, and an honour society with an award ceremony, while the national association's own editorial board was telling every member camp that trophies, prizes and badges were destructive and should be dropped. There is no evidence that Kanawana changed anything; this is the argument its competitive traditions were operating against, dated and in the camp's own trade press.",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "Canadian Camping Association"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4236",
+      "issue": 141,
+      "claim": "John Latimer's update on the first International Camping Congress, Toronto, January 1983, names the speakers committed so far: Sir Edmund Hillary at the opening session on 26 January, Dr. Leo Buscaglia at the closing banquet on 29 January, and among session leaders \"Bruce Werber from the Colorado Outdoor Education Center for the Handicapped; Barbara Hertell, Youth Programmes Alberta Forest Service; Bryce Taylor, one of Canada's most significant authorities on Indian Lore and Culture; Dr. Hedley Dimock; Steve Van Matre; Dr. Betty van der Smissen; Chuck Kujawa; Nelson Weiters; Ron Johnstone; Barry Lowes; Bruno Morawetz; Brian Law; Kirk Wipper; Ken Low; Bill Mason; and Richard Underwood (N.A.S.A.),\" with speakers committed from Tokyo and New Delhi.",
+      "category": "camping_movement",
+      "entities": [
+        "John Latimer",
+        "Edmund Hillary",
+        "Hedley Dimock",
+        "Bryce Taylor",
+        "Kirk Wipper",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4237",
+      "issue": 141,
+      "claim": "Hedley Dimock — the Concordia professor who conducted the 1960-61 counsellor-effectiveness research at Kanawana, built the Department of Applied Social Science out of the Montreal YMCA, and gave the CCA's 1967 keynote urging camps to move from repressive to participative programming — was a committed session leader at the first International Camping Congress, Toronto, January 1983.",
+      "category": "biography",
+      "entities": [
+        "Hedley Dimock",
+        "Camp Kanawana",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4238",
+      "issue": 141,
+      "claim": "The 1983 International Camping Congress's backers, recorded in its fund-raising appeal: the Society of Camp Directors donated $1,500, with each member asked to match it by giving $19.83; the Protocol Office of the Ontario Government gave a grant; the Nova Scotia Camping Association sent a cheque; the Estate of Flora Morrison donated \"a sizeable amount in memory of one of Ontario's camping leaders\"; and the Camp Services Co-Op gave $2,000. The Department of External Affairs sent information to 32 countries. The appeal promised that \"every member who makes a donation... will be acknowledged in our printed programme material\" — so the printed programme contains a donor list.",
+      "category": "camping_movement",
+      "entities": [
+        "Society of Camp Directors",
+        "Canadian Camping Association",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1982-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4239",
+      "issue": 141,
+      "claim": "Jocelyn Palm's President's Perspective of Spring 1982 lists committee chairmen by province and records that \"Derek Walsh (Que.) is investigating the realities of publishing a Canadian Camping Magazine\" and that \"Marnie Ellis (Que.) is gearing up her Public Relations and Promotions Committee for a Workshop in Toronto prior to the '82 Congress.\" The national president assigning her own volunteers by province puts Walsh in Quebec in 1982 — the third Quebec attribution after 1979 and December 1980, against a single 1979 line placing him at Camp Thunderbird, Victoria.",
+      "category": "people",
+      "entities": [
+        "Derek Walsh",
+        "Marnie Ellis",
+        "Jocelyn Palm",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4240",
+      "issue": 141,
+      "claim": "Rosaire Corbin held the Association des Camps du Quebec's chief executive post and the Canadian Camping Association's French Language chairmanship at once in 1981-82: \"Rosaire Corbin (Que.) chairs the French Language Committee and we are constantly seeking his input in order to develop an adequate picture of the French Language members of CCA/ACC.\" The national body was still trying to get \"an adequate picture\" of its French-language membership.",
+      "category": "camping_movement",
+      "entities": [
+        "Rosaire Corbin",
+        "Association des camps du Quebec",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4241",
+      "issue": 141,
+      "claim": "The Canadian Camping Association's committee chairmen in 1982: Eileen Mayotte (Saskatchewan) Archives; Dorothy Walter (Ontario) Education; Rick Ryan (BC) Funding; Linda Arnold (BC) Research; Jay Haddad (Ontario) Newsletter; Wendy Wren, Judy Richards and Beth Moon (Ontario) Publications Service; Dinny Biggs (Ontario) Leadership Development; Peter Rasberry (Ontario) Environmental Issues; John Latimer (Ontario) the 1983 Congress; Brian Law (Manitoba) a review of provincial Standards; Wayne Perkins (Alberta) a National Consultation and Speakers' Bureau; Barry Lowes (Ontario), who \"continues to monitor and represent the CCA/ACC membership to the Federal Ministry of Employment and Immigration\"; Ivan Robinson (Ontario) an annual executive workshop; Jack Pearse (Ontario) a study of a national conference in 1985; and Janet Adamson (Ontario) product sales. Executive Director Marjorie Booth, Office Administrator Mary Roy.",
+      "category": "camping_movement",
+      "entities": [
+        "Eileen Mayotte",
+        "Barry Lowes",
+        "Marjorie Booth",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4242",
+      "issue": 141,
+      "claim": "Jocelyn Palm presented \"Miss Frances Kelly, former secretary of the English Section of the Quebec Camping Association, with a CCA/ACC Certificate of Appreciation\" at the ACQ Conference at Laval in the spring of 1982. \"Although Miss Kelly was honoured in Quebec, her long service to the camping movement was recognized by the CCA/ACC Board.\" This is the second national Certificate of Appreciation to a Quebec English-section officer — Derek Walsh received his in January 1983 with the same \"former English Section\" wording.",
+      "category": "camping_movement",
+      "entities": [
+        "Frances M. Kelly",
+        "Jocelyn Palm",
+        "Derek Walsh",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1982-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4243",
+      "issue": 141,
+      "claim": "Members of the Canadian Camping Association executive were interviewed at the Laval conference in March 1982 by a Globe and Mail writer for a national article on \"Choosing a Camp for your child,\" to appear in the June 1982 Lifestyles issue — a findable press item carrying the association's own advice to parents, and a possible source of a camp list.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4244",
+      "issue": 141,
+      "claim": "Ron Johnstone of Camp Tawingo argued against camp director certification in Spring 1982: \"We in Ontario seem to have a tendency to think that all camping in Canada is the same... in reality it isn't! There are whole degrees of difference in sophistication in camping in Canada. I have no difficulty at all in seeing the Camping Associations as educational and inspirational organizations but I have some real trouble when we start into the business of regulating the industry.\" On protecting the public: \"If 'camping' was a high profit business that attracted unscrupulous operators I would be concerned, but that is not so, all that wheeler-dealers have to do is look at the balance sheets of most Camps in Canada and they couldn't run fast enough to stay out of the business.\" And: \"I know some of our numbers who claim ten years experience in camping but in reality have had one year ten times.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Ron Johnstone",
+        "Camp Tawingo",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4245",
+      "issue": 141,
+      "claim": "Lorne Bowering, President of the British Columbia Camping Association, replied qualifiedly in favour of camp director certification in Spring 1982: \"The American Camping Association Certification system seems cumbersome to me — too many levels and a rat's nest to administer. I have always thought certification of Directors is at least as important as the Facilities/Program standards approach... The topic has been considered for years though and the problem is usually the 'How' to do, rather than the 'Why'. Camping people are diverse and what may be a high standard for one may be a very low standard for another.\" The American association had a director certification system in 1982 and the Canadian one did not, by settled position rather than oversight.",
+      "category": "camping_movement",
+      "entities": [
+        "Lorne Bowering",
+        "British Columbia Camping Association",
+        "American Camping Association",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4246",
+      "issue": 141,
+      "claim": "Jay Haddad interviewed June Labbett at the Royal York Hotel on 8 March 1980. Her account of acquiring Camp Oconto: she first went to Camp Ahshunyoong on Lake Simcoe, then Oconto at about twelve, then Glen Bernard at seventeen under Miss Edgar; she directed Camp Tapawingo for the YWCA from about 1944, her first directorship; she met Cliff Labbett on a ski train going to Sainte-Adele in 1948, married him on 4 March 1949, and \"we told Miss Halliday we would buy Oconto on 24 May 1949.\" Ferna Halliday \"was 55 years old,\" was nursing her mother \"who died in May of 1949,\" and \"had other people look at the camp and had openly talked to some of her own staff about taking over\"; she stayed at Oconto through the 1949 season with the Labbetts.",
+      "category": "biography",
+      "entities": [
+        "June Labbett",
+        "Clifford Labbett",
+        "Ferna Graham Halliday",
+        "Camp Oconto",
+        "Jay Haddad"
+      ],
+      "date_ref": "1949",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4247",
+      "issue": 141,
+      "claim": "June Labbett on camp awards, in the same issue as the editorial against them: \"There used to be a cup given for the Best All-Around Camper and I just couldn't live with that; we changed it our first year to a tribe Shield (camp has two tribes) and this was a fun thing, not a competitive thing; any silly little game or challenge earned points toward this shield; everyone worked together for this.\" And on the trend: \"we had many [tests and awards], but there has been a definite decrease. Tests are available, but they're not stressed or emphasized now... The skill level is perhaps as good or better than when they were motivated by badges.\"",
+      "category": "traditions",
+      "entities": [
+        "June Labbett",
+        "Camp Oconto"
+      ],
+      "date_ref": "1949",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4248",
+      "issue": 141,
+      "claim": "June Labbett's first-hand account of the earliest Ontario camp standards dispute, which was about showers: \"I remember these fights and arguments over showers! We had a meeting at the Royal York Hotel and I remember A. L. Cochrane standing up and saying, 'What's the matter with having showers? You can get a watering can and fill it full of water and pour it over somebody's head and call it a shower'. I remember one camp pulling out of O.C.A. because of that... others thought you should have the freedom to soap up and dive into the lake. You must remember that no one had showers at all in those days. Clothes were washed in the lake; I remember all of us diving deep with our toothbrushes in our mouths to ensure we were getting fresh water!\"",
+      "category": "camping_movement",
+      "entities": [
+        "June Labbett",
+        "A. L. Cochrane",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1980-03-08",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4249",
+      "issue": 141,
+      "claim": "June Labbett described Glen Bernard's \"Indian night\" from the inside, as a camper in the 1930s: \"they have a real indian night at Glen Bernard; I had never been exposed to any kind of indian programme at Oconto so this was unique for me. My friends told me to wear a robe and dress a certain way and line up and then O-kee-mak-wah will come out of the woods... I remember Miss Edgar tripping down out of the trees and everyone saying chants and prayers. This was a very significant part of the programme and I grew to love it, respect it and understand it.\" The same structure as Kanawana's council ring, at a girls' camp, with the director's own assumed Indigenous-styled name.",
+      "category": "traditions",
+      "entities": [
+        "June Labbett",
+        "Mary S. Edgar",
+        "Glen Bernard Camp",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1980-03-08",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4250",
+      "issue": 141,
+      "claim": "June Labbett records that two five-minute hurricanes hit Camp Oconto on Sundays, the first taking eighteen tents, after which cabins were built; that staff girls were allowed to smoke in their tents in the late 1940s until it was stopped as unsafe; and that every counsellor was addressed as \"Miss\" until a staff vote dropped it about 1976. On leadership qualification: \"we can pass leaders on their Bronze and so on, but how do you measure what's really important — maturity of judgement?\"",
+      "category": "inter-camp",
+      "entities": [
+        "June Labbett",
+        "Camp Oconto"
+      ],
+      "date_ref": "1980-03-08",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4251",
+      "issue": 141,
+      "claim": "Jane McCutcheon's Central Region report of Spring 1982 records two sixtieth anniversaries — \"(Ont) Glen Bernard Camp — 60 years; (Que) Camp Ouareau — 60 years\" — putting both foundings at 1922, which independently corroborates the 1922 date this project holds for Camp Ouareau against the competing 1920 claim. Gary Luthy's Western report dates Camp Elphinstone's 75th anniversary celebration to 22 May 1982, putting its founding at 1907.",
+      "category": "inter-camp",
+      "entities": [
+        "Jane McCutcheon",
+        "Camp Ouareau",
+        "Glen Bernard Camp",
+        "Camp Elphinstone"
+      ],
+      "date_ref": "1922",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4252",
+      "issue": 141,
+      "claim": "J. Harry Ebbs summarised the standing medical advice on blackflies in Spring 1982, from a February 1980 Medical Post report: \"There are 76 known species in Canada and the U.S.A.\"; the fly \"breeds in shallow running water\"; they are \"attracted to humans by the carbon dioxide and water vapour in the breath\"; they \"bite at partially covered areas — the wrists, ankles, neck, scalp and waist\"; and the bite \"deposits a small amount of fluid into the skin which acts as an anaesthetic and also keeps the blood from clotting.\" Four known human reaction types, with severe reactors told to see a doctor and be desensitised.",
+      "category": "context",
+      "entities": [
+        "J. Harry Ebbs"
+      ],
+      "date_ref": "1982-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4253",
+      "issue": 141,
+      "claim": "Jay Haddad's \"Lost At Sea\" group dynamics exercise was printed in full with worksheet and answer sheet in Spring 1982, \"a good one because it can be used effectively with campers as young as 8 and 9 years, as well as older campers, CIT's and Counsellors\": fifteen items ranked individually in five minutes, then by group consensus — \"there should not be voting or majority rules... each item should be 'talked out' until everyone feels comfortable with it\" — scored against the U.S. Merchant Marines' order. Its two printed principles: \"1) The group score should always be better than each individual score. 2) Conflict is a necessary ingredient toward creativity.\" A complete, usable 1982 staff-training instrument; a copy surfacing in Kanawana's papers would be datable to this printing.",
+      "category": "staff",
+      "entities": [
+        "Jay Haddad",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1982-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4254",
+      "issue": 141,
+      "claim": "The Great Canadian Canoe Exposition was held at Harbourfront, Toronto, 12-13 June 1982, free: craftsmen building wood and canvas, birchbark, stripper, fibreglass and kevlar canoes in public view; exhibits from the Kanawa International Canoe Museum; a group from Ste. Marie Among the Hurons; Bill Mason's films; Omar Stringer; and a Voyageur Rendezvous of North Canoes with tumplining races, pipelighting contests and tug-of-war — the voyageur pageantry Kanawana built a whole section around, staged as a public exhibition.",
+      "category": "context",
+      "entities": [
+        "Kanawa International Museum",
+        "Bill Mason",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1982-06-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4255",
+      "issue": 141,
+      "claim": "Agriculture Canada's food safety guidance for camps, reprinted in Spring 1982, is addressed to \"you in the camp kitchen\" with sixteen rules and a temperature threshold of 40 degrees Fahrenheit for four hours, and states the period assumption plainly: \"If the camp cook attends to the simple rules listed below she will do much to reduce the risk.\"",
+      "category": "operations",
+      "entities": [
+        "Agriculture Canada"
+      ],
+      "date_ref": "1982-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4256",
+      "issue": 141,
+      "claim": "The Royal Life Saving Society Canada's advertised waterfront kit of 1982: an eleven-foot fibreglass paddleboard; California-designed rescue cans \"employed in over 30,000 rescues per year in North America\"; a windsail PFD, noting that \"federal government regulations require an approved PFD or life jacket be worn by board sailors\"; first aid kits \"designed by lifeguards\"; and an Audiopack portable PA \"that projects your voice in full circle, loud and clear up to a block away... hands-free camp communication\" at 6.5 pounds.",
+      "category": "programs",
+      "entities": [
+        "Royal Life Saving Society"
+      ],
+      "date_ref": "1982-04",
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
