@@ -5129,6 +5129,17 @@
       "created": "2026-09-05",
       "source": "operator surfaced Kitchikewana and RKY on 2026-09-05; two searches had missed both",
       "blocked_on": null
+    },
+    {
+      "priority_id": "p_410",
+      "rank": 409,
+      "type": "VERIFY",
+      "description": "FIX THE START DATE OF KANAWANA'S L&V GAMES FROM A CONTEMPORARY DOCUMENT. This wiki asserts 1947, sourced to the YMCA's modern count of a 78th edition in 2025. That arithmetic does not yield 1947: run without gaps it gives 1948, and excluding the two COVID years it gives 1946. The earliest contemporary mention in this project's cache is the 1950 annual report, which already calls the tradition established and says the two-team week 'again' met with enthusiasm. The annual reports for 1947, 1948 and 1949 are silent on it, and the camp's own 1951 history never mentions it while listing Locke's other innovations. WHERE TO LOOK: Concordia P0145/12B, the Kanawana season and director's reports for 1946-1949; the Green Triangle and other camp newsletters of those years; and the YMCA's own basis for the edition count. Until then the 1947 date should be described as approximate wherever it appears -- traditions/lv-games.md, the timeline, and points-of-contact.md.",
+      "weight": 8,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "chasing the Locke transmission hypothesis, 2026-09-05",
+      "blocked_on": null
     }
   ],
   "queue_ordering": {

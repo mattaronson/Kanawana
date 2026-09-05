@@ -1,6 +1,6 @@
 # Points of Contact: Kanawana and the Other YMCA Camps
 
-*Status: draft | Sources: 21*
+*Status: draft | Sources: 23*
 *Last Updated: 2026-09-05*
 
 ## Overview
@@ -142,11 +142,38 @@ Toronto's account of the Pine Crest Games nor any other source consulted says wh
 the teams carry those names, or whether the tradition was ever deliberately passed to another camp.^8
 **The route from Pine Crest to Kanawana in 1947 is undocumented** [f_4759].
 
-**One coincidence of dates, recorded as a lead and not as an answer.** Kanawana's L&V began in the
-summer of 1947, and **Roy D. Locke "became Camp Chief during the summer of '47"** in that same season.
-No source consulted connects Locke to Pine Crest or to Toronto, and no document names whoever introduced
-the competition [f_4760]. A second date sits nearby without explaining anything: **W. E. Ted Yard took
-over Camp Pine Crest in 1946**, the year before.
+**The Locke lead was chased, and it is dead.** Kanawana's L&V began about the summer of 1947, and
+**Roy D. Locke "became Camp Chief during the summer of '47"** in that same season, which made him the
+obvious candidate for whoever carried the tradition in. The YMCA of Montreal's own annual reports settle
+it: the 1947 report lists him among secretaries certified by the Association of Secretaries; the 1948
+report records that the Executive Secretary of Eastern Communities Branch "was succeeded by **Roy D.
+Locke, Boys' Work Secretary of Notre Dame de Grâce Branch**"; and the 1949 report records "**ROY D.
+LOCKE, Executive Secretary of Eastern Communities was appointed Metropolitan Boys' Work Secretary**."^22
+**He rose entirely through Montreal branches** — Notre Dame de Grâce, then Eastern Communities, then
+Metropolitan — and came to Kanawana from inside his own association. **He is not the route** [f_4793].
+The other nearby date, **W. E. Ted Yard taking over Camp Pine Crest in 1946**, explains nothing either.
+
+**And chasing it turned up something more awkward: the tradition's own start date is shakier than this
+wiki has been saying.** The earliest contemporary mention of L&V at Kanawana anywhere in this project's
+cache is the **1950 annual report**, and it already treats the thing as established: "'Lumbermen~
+Voyageur' Week, as a closing feature of camp programme **has become a whorthwhile tradition** of
+Kanawana. A striking, lerge fireplace mural in the dining hall makes use of this motif… **again** met
+with tremendous enthusiasm on the part of campers."^22 *(OCR as cached.)* Both "has become" and "again"
+imply earlier seasons.
+
+**But the years that should carry those earlier seasons are silent.** The annual reports for **1947,
+1948 and 1949 do not mention the tradition at all**, though the 1949 report describes Kanawana's
+programme in some detail, noting that swimming and paddling tests "reached 'four-star' proportions". And
+the camp's own **"Kamp Kanawana History" of 6 June 1951 never mentions it either**, while listing
+Locke's innovations since 1947 — a new main wharf, a cabin for the Senior Section Director,
+electrification, an automatic chlorinated water system, electric refrigeration.^23 [f_4795]
+
+**The 1947 date rests on a modern edition count, and the arithmetic does not yield 1947.** This
+project's basis for it is the YMCA's statement that 2025 saw the **78th** edition. Run without gaps, a
+78th edition in 2025 implies a **first edition in 1948**. Excluding the two COVID years, 78 editions
+span eighty calendar years and imply **1946**. **1947 is what neither reading gives** [f_4796]. The date
+should be treated as approximate until a contemporary document fixes it — and the 1948 or 1949 Kanawana
+season reports at Concordia are where to look.
 
 **Where the answer probably is.** Camp Pine Crest published a centennial history, ***Lumbermen &
 Voyageurs: The YMCA Pine Crest Story***.^12 It is the single most likely place for the origin of the
@@ -275,9 +302,12 @@ decline should be tested against the YMCA's own records before it is asserted.
 
 ## Open Questions
 
-1. [Critical] **How did the L&V Games reach Kanawana in 1947?** Read *Lumbermen & Voyageurs: The YMCA
-   Pine Crest Story*; check whether Roy D. Locke had any Toronto or Pine Crest posting before summer
-   1947; look for correspondence between the two camps in Concordia P0145/12B.
+1. [Critical] **How did the L&V Games reach Kanawana, and in what year exactly?** The Locke route is
+   closed — he was a Montreal branch man throughout [f_4793]. Two things remain: read *Lumbermen &
+   Voyageurs: The YMCA Pine Crest Story* (`p_404`), and **fix the start date from a contemporary
+   document**. The earliest cached mention is the 1950 annual report, which calls the tradition
+   established; 1947, 1948 and 1949 are silent, and the edition count implies 1946 or 1948 rather than
+   1947. The 1948 and 1949 Kanawana season reports in Concordia P0145/12B are the place to settle it.
 2. [Important] **Who created the Pine Crest Games in 1940, and why those team names?** Unanswered by the
    camp's own public account.
 3. [Critical] **When did the Lumberman and Voyageur Games begin at Camp Kitchikewana and RKY, and in
@@ -328,3 +358,5 @@ decline should be tested against the YMCA's own records before it is asserted.
 19. YMCA of Southwestern Ontario, Camp Queen Elizabeth [src_ymcaswo_cqe]. See [f_4782], [f_4783].
 20. YMCA of Three Rivers, Camp Waabanaki and its Voyageur Extended Tripping Program [src_ymca_three_rivers_wabanaki]. See [f_4784].
 21. Ontario YMCA overnight camps surveyed under p_409: YMCA of Three Rivers, YMCA Hamilton-Burlington-Brantford, YMCA of Southwestern Ontario, YMCA of Northeastern Ontario, YMCA of the National Capital Region, YMCA of Owen Sound Grey Bruce [src_ymca_ontario_camp_enumeration]. See [f_4788], [f_4789], [f_4790].
+22. YMCA of Montreal annual reports for 1947, 1948, 1949 and 1950 [src_cache_sgw_ymca_annual_report_1894_1895] — Locke's branch career, and the earliest cached mention of the tradition. See [f_4793], [f_4794], [f_4796].
+23. "Kamp Kanawana History", presented at a training course, 6 June 1951 [src_ia_kanawana_history_1951]. Lists Locke's innovations and never mentions the L&V tradition. See [f_4795].

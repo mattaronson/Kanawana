@@ -10289,11 +10289,17 @@
         "f_4789",
         "f_4790",
         "f_4791",
-        "f_4792"
+        "f_4792",
+        "f_4793",
+        "f_4794",
+        "f_4795",
+        "f_4796"
       ],
       "sources_cited": [
+        "src_cache_sgw_ymca_annual_report_1894_1895",
         "src_campstephens_alumni_blog",
         "src_ia_canadian_camping_collection",
+        "src_ia_kanawana_history_1951",
         "src_ia_ymca_montreal_fonds_collection",
         "src_knowhistory_beausoleil",
         "src_oca_camp_directory",
@@ -10317,7 +10323,7 @@
         "connections/institutional-lineage/canadian-camping-movement"
       ],
       "file_id": null,
-      "word_count": 3853
+      "word_count": 4322
     }
   ],
   "article_count": 93

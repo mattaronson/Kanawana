@@ -1,8 +1,8 @@
 {
-  "version": "6.12",
-  "kb_version": "6.12",
+  "version": "6.13",
+  "kb_version": "6.13",
   "migrated_from": "3.3",
-  "fact_count": 4754,
+  "fact_count": 4759,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -85097,6 +85097,92 @@
       "conflicts_with": [],
       "added_version": "6.12",
       "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4793",
+      "claim": "THE LOCKE HYPOTHESIS IS DEAD: ROY D. LOCKE WAS A MONTREAL YMCA MAN THROUGHOUT, AND DID NOT COME FROM PINE CREST OR ONTARIO. The YMCA of Montreal's own annual reports track his career: the 1947 report lists him among secretaries who secured Certification by the Association of Secretaries; the 1948 report records that the Executive Secretary of Eastern Communities Branch \"was succeeded by Roy D. Locke, Boys' Work Secretary of Notre Dame de Grace Branch\"; and the 1949 report records \"ROY D. LOCKE, Executive Secretary of Eastern Communities was appointed Metropolitan Boys' Work Secretary.\" He rose through Montreal branches -- Notre Dame de Grace, then Eastern Communities, then Metropolitan -- and became Kanawana's Camp Chief in the summer of 1947 from inside the Montreal association. The coincidence of his arrival with the first L&V season is therefore just a coincidence, and he is not the route by which the tradition reached the camp.",
+      "category": "directors",
+      "entities": [
+        "Roy D. Locke",
+        "Camp Kanawana",
+        "Camp Pine Crest",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1947-1949",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1894_1895"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.13",
+      "added_by": "cache_research"
+    },
+    {
+      "fact_id": "f_4794",
+      "claim": "THE EARLIEST CONTEMPORARY DOCUMENT MENTIONING THE L&V TRADITION AT KANAWANA IN THIS PROJECT'S CACHE IS THE 1950 ANNUAL REPORT, AND IT ALREADY CALLS IT ESTABLISHED: \"'Lumbermen~ Voyageur' Week, as a closing feature of camp programme has become a whorthwhile tradition of Kanawana. A striking, lerge fireplace mural in the dining hall makes use of this motif. Division of the entire camp into two teams for this final week of goodenatured competition again met with tremendous enthusiasm on the part of campers.\" (OCR as cached.) The word \"again\" and the phrase \"has become\" both imply prior seasons.",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1950",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1894_1895"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.13",
+      "added_by": "cache_research"
+    },
+    {
+      "fact_id": "f_4795",
+      "claim": "EXPLICIT NULL, AND A POINTED ONE: the YMCA of Montreal annual reports for 1947, 1948 and 1949 do not mention the Lumbermen-and-Voyageur tradition at all, although the 1949 report describes Kanawana's programme in some detail, noting that swimming and paddling tests \"reached 'four-star' proportions\". And the camp's own \"Kamp Kanawana History\", presented at a training course on 6 June 1951, never mentions the tradition either, though it lists Roy Locke's innovations since 1947 -- a new main wharf, a cabin for the Senior Section Director, electrification, an automatic chlorinated water system and electric refrigeration. Three annual reports and the camp's own history are silent on a tradition the 1950 report calls established.",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana",
+        "Roy D. Locke"
+      ],
+      "date_ref": "1947-1951",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1894_1895",
+        "src_ia_kanawana_history_1951"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.13",
+      "added_by": "cache_research"
+    },
+    {
+      "fact_id": "f_4796",
+      "claim": "THE 1947 START DATE FOR KANAWANA'S L&V GAMES RESTS ON A MODERN EDITION COUNT, NOT ON A CONTEMPORARY DOCUMENT, AND THE ARITHMETIC DOES NOT CLEANLY YIELD 1947. This project's basis for 1947 is the YMCA's statement that 2025 saw the 78th edition. If the Games ran every year without a gap, the 78th edition in 2025 implies a first edition in 1948. If the two COVID years of 2020 and 2021 are excluded from the count, 78 editions span eighty calendar years and imply a first edition in 1946. 1947 is what neither reading yields. The earliest contemporary mention in this project's cache is the 1950 annual report. The 1947 date should be treated as approximate, and the discrepancy resolved before it is relied on.",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1946-1948",
+      "sources": [
+        "src_ymca_website",
+        "src_cache_sgw_ymca_annual_report_1894_1895"
+      ],
+      "confidence": "disputed",
+      "conflicts_with": [],
+      "added_version": "6.13",
+      "added_by": "cache_research"
+    },
+    {
+      "fact_id": "f_4797",
+      "claim": "A CACHED FILE THAT IS NOT WHAT ITS NAME SUGGESTS: sources/cache/web-pages/pine_crest_book.txt is the Shopify PRODUCT PAGE for \"Lumbermen & Voyageurs: The YMCA Pine Crest Story\" -- HTML, title, price of $25.00 CAD and a marketing blurb -- and not the book's content. Priority p_404 to read the book is therefore not satisfied by anything on disk, and the file should not be mistaken for the source.",
+      "category": "sources",
+      "entities": [
+        "Camp Pine Crest"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymcagta_pinecrest_games"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.13",
+      "added_by": "cache_research"
     }
   ]
 }
