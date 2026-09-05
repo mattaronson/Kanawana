@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 3220,
+  "fact_count": 3255,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -56573,6 +56573,646 @@
         "Kamp Kanawana"
       ],
       "claim": "R. H. Perry's The Canoe and You, out of print for two years, was reissued by Association Press in 1967 as Canoeing for Beginners at $1.10 -- described in the April 1967 book note as \"the standby and guideline for our canoeing standards programme,\" which identifies the manual behind the canoe tests a Canadian camp waterfront ran. The same review page notes the Camp and Trail Pocket Library at $1.10 each, including Oscar E. Norbeck's Indian Crafts for Campers, introduced with a Centennial framing worth recording as period voice: \"Maybe because it is Centennial Year, it seems as if interest in our first Canadians has increasingly expanded. After all, our fellow Canadians, the Indians, were the very first campers in this country.\" Also advertised, Chapbook 2, \"a revision of The Chapbook... Includes hymns, fun songs (with music), and worship resources,\" at 65 cents -- a named camp songbook in print in 1967.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3259",
+      "issue": 75,
+      "category": "traditions",
+      "date_ref": "1967-08-09",
+      "entities": [
+        "John Latimer",
+        "Canadian Camping Association",
+        "Kamp Kanawana"
+      ],
+      "claim": "The National Centenary Campfire ceremony was printed in full in June 1967 and distributed to every camp in Canada. Timing: \"August 9, 1967 is an eagerly anticipated date for on that night at varying times from 7 p.m. in the Yukon to 12:30 a.m. in Newfoundland, fires will be lighted in camps all across Canada. You know the standard time in your community and if your camp is operating on Daylight time, remember to make the necessary allowance.\" A single simultaneous moment across six time zones, which places a Quebec camp's fire at about 11 p.m. EDT on Wednesday 9 August 1967. The instruction is explicit that this was for every camp, not only journey participants: \"designed for campfires in every campsite across Canada -- whether it be at the home base, on the Centenary Journey Route, or any canoe trip or hike.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3260",
+      "issue": 75,
+      "category": "traditions",
+      "date_ref": "1967-06",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "claim": "The National Campfire script as printed in June 1967. The camp assembles in a circle round an unlit fire and the director, \"Chief or Counsellor in charge,\" calls: \"O Fire-lighter, we await your arrival! Come forth now, into this circle! We bid you kindle for us this National Campfire for our Centennial Year!\" The Fire-lighter enters, \"(in costume if desired)\"; the fire is lit in silence -- \"Silently we stand in our circle for the first blue wisps of smoke to curl upward and the tongues of flame to catch and soar\" -- then \"O Canada,\" then \"Be Seated!\" and the oration, whose central passage is: \"On this night, across our land the flames of a thousand Campfires will ascend. We who have gathered around this fire at (name of Camp) are a part of a great chain of campfires... We Campers of 1967 are thrilled with the realization that we belong to an illustrious line of Campers who helped to create our Country's colourful story. For it was indeed Campers, with daring and faith, who blazed the first trails... They ventured forth as explorers, coureurs de bois, voyageurs, fur-traders and priests, assisted by the earliest campers of all -- their Indian guides.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3261",
+      "issue": 75,
+      "category": "naming",
+      "date_ref": "1967-06",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "claim": "The National Campfire script includes a prayer \"from the Centennial Anthology of Prayer,\" introduced as \"an Indian prayer\" and printed complete: \"O Father, Great Spirit, whose voice we hear in the wind and whose breath gives life to all living things, we are small and weak and we need Thy strength and wisdom... We seek not strength in order to be superior to our brothers, but strength to fight the greatest of all enemies -- ourselves.\" Recorded with the same care as the rest of the Indian-lore material in this run: a prayer of this kind, printed without attribution to any nation and headed simply \"an Indian prayer,\" is a composition in the Indian register, and the Centennial Anthology of Prayer is a findable book that would settle its provenance.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3262",
+      "issue": 75,
+      "category": "traditions",
+      "date_ref": "1967-06",
+      "entities": [
+        "Mary S. Edgar",
+        "May Brown",
+        "John Latimer"
+      ],
+      "claim": "The Mary S. Edgar text commissioned for the National Campfire, printed in June 1967 under the heading \"CANADA'S OUR COUNTRY / Words -- Miss Mary S. Edgar / Tune Hermas... First line of the hymn to this tune: 'On our way rejoicing'.\" Three verses and a chorus: \"From the western Mountains / To the eastern seas / O'er the boundless prairies / Lakes and land of trees: / From our Arctic tundras / To the southernland, / Canada's our Country. / Pledge we heart and hand.\" Chorus: \"Proudly we proclaim it / Over land and sea, / Canada's our Country! / May we worthier be.\" Second verse: \"Many are the races / Who have brought to thee / All their thought and labour / All their artistry. / Eskimo and Indian, / Folk from all the earth, / Every gift enriching / Thine uncounted worth.\" Third: \"May we catch the vision, -- / Land which is to be! / Strong within thy borders / Blest with Unity: / Leader 'mong the nations / In the cause of peace / Dreaming, daring, striving; / Till Earth's wars shall cease.\" May Brown's report of the annual meeting confirms both distribution and a performance: Latimer \"distributed the script for the Ceremonial Opening of the programme which had been written by Miss Edgar and we listened to her Centennial Hymn sung by a Toronto boy's choir\" at the Inn on the Park on 1 March 1967.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3263",
+      "issue": 75,
+      "category": "traditions",
+      "date_ref": "1967-06",
+      "entities": [
+        "Canadian Camping Association",
+        "Kamp Kanawana"
+      ],
+      "claim": "The song list camps were given for the middle of the National Campfire -- the songs a Canadian camp was expected to know in 1967: \"My Paddles Keen and Bright, The Canadian Boat Song, Alouette, Squid Jigging Ground, Blow The Man Down, Remember the Red River Valley, Old Man Great Chief, Bonhomme! Bonhomme!, Land of the Silver Birch, A la Claire Fontaine, Vive La Canadienne, Vive L'Amour, Hiawatha.\" Closing songs: \"Canada by Robert Gimby\" (Bobby Gimby's \"Ca-na-da\"), \"Some Call it Canada But I Call it Home,\" \"This Land Belongs to You and Me,\" \"One Hundred Years Ago,\" \"This is Canada (eleven songs -- Gordon Thompson Co.),\" and \"God Save the Queen.\" \"Land of the Silver Birch\" is already recorded in this project as sung at Camp Oolahwan; this places it in a nationally distributed 1967 programme. Camper participation in the middle was left to each camp, with suggestions: \"Council Ring ceremony with challenges, Skits, plays or Pageant, Stories and songs, Historical Tableau or charades, Amusing historical incidents dramatized.\" The closing \"may be in charge of senior campers, tribal chiefs or Counsellors-in-Training,\" followed by \"a torch-light circle or procession, followed by the singing or playing of TAPS,\" and -- \"If refreshments are to be served, we would suggest a Birthday Cake. (Such a cake would be fun to bake on a canoe trip or with reflector ovens).\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3264",
+      "issue": 75,
+      "category": "camping_movement",
+      "date_ref": "1967-04-09",
+      "entities": [
+        "Quebec Camping Association",
+        "Robert Lazanik",
+        "A. Ross Seaman"
+      ],
+      "claim": "The Quebec Camping Association's English and French Sections held a Sugaring Off Party on Saturday 9 April 1967 at the Cabane Chez Michel, St-Esprit, County Montcalm, reported by Sophia Demetelin: \"It was so gratifying to see the French and English sections together thoroughly enjoying themselves. Camp Directors came out with their families and the children had a ball!... much of the success of this gay and happy affair was due to Bob Lazanik who brought his accordion and soon had everyone singing English and French songs, dancing square dances.\" A specific, dated occasion at which Kanawana's director -- then president of the QCA English Section -- would have been present.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3265",
+      "issue": 75,
+      "category": "camping_movement",
+      "date_ref": "1967-06",
+      "entities": [
+        "Canadian Camping Association",
+        "Kamp Kanawana"
+      ],
+      "claim": "The Canadian Camping Association's institutional figures for 1966, from Peggy Etchell's report: membership 720 in total, up 119 on 1965 -- 342 camps, 268 individuals, 110 students. Sponsorship of member camps: organizations and agencies 40 per cent, private 32 per cent, churches 23 per cent, others 5 per cent, which puts Kanawana in the largest bloc and is the clearest statement in this run of the sector's shape. Finances: $2,490 in membership fees; $2,000 from the Citizenship Branch for the Intercultural Camping Project; $6,000 from the Centennial Commission for the Centenary Journey; and Fitness and Amateur Sport administrative grants of $976 for 1965 and $1,676 for 1966, against disbursements \"slightly over $10,000.\" The Centennial Commission did fund the Journey, which qualifies Latimer's June 1966 complaint that Ottawa \"is not convinced that we deserve their support.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3266",
+      "issue": 75,
+      "category": "camping_movement",
+      "date_ref": "1967-03-01",
+      "entities": [
+        "Canadian Camping Association",
+        "Nelson McEwen",
+        "Taylor Statten"
+      ],
+      "confidence": "disputed",
+      "claim": "The CCA annual meeting of 1 March 1967 \"marked the 27th Anniversary of the national association,\" which implies a 1940 founding -- a third date against this project's record of a 1936 founding with Taylor Statten as first president, and against the twice-documented 1949 incorporation. All three are attested, the last two in this magazine. A possible resolution is that 1936 is the Quebec/Ontario section origin, 1940 a national organizing meeting and 1949 the incorporation, but that is a hypothesis, not a finding. Related and important: Doug McEwen's own profile states that \"it was Mr. Nelson McEwen who, in conjunction with the late Mr. Taylor Statten, founded the Canadian Camping Association. He served as its first Secretary when he was the National Boys' Work Secretary of the YMCA\" -- and Doug McEwen, the new CCA president, is F. Nelson McEwen's son.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3267",
+      "issue": 75,
+      "category": "camping_movement",
+      "date_ref": "1967-03",
+      "entities": [
+        "Canadian Camping Association",
+        "Kirk Wipper",
+        "Robert Lazanik",
+        "Bruno Morawetz"
+      ],
+      "claim": "Business of record from the CCA annual meeting of 1 March 1967: the Board approved a set of \"Desirable Practices for Resident Camps,\" with implementation left to the provinces; the CCA hoped to mount displays on camping in the Youth Pavilion at Expo '67 early in September, with provincial associations asked for materials and personnel; Bob Lazanik is the CCA representative to the Canadian Symposium on Recreation in Montreal, 11-16 June 1967; an Intercultural Camping Workshop for western directors was to run at Harrison, B.C., funded again by the Canadian Citizenship Branch; Bruno Morawetz was to chair a new Outdoor Education Committee surveying university courses; the CCA had written to the federal government about the new National Park Policy; and Kirk Wipper reported progress on Life Jacket Specifications and a canoeing course at the University of Ottawa in June 1967. The national office moves to 301 Vaughan St., Winnipeg, and Don Groff announced the Board \"was working out arrangements with a new Publisher.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3268",
+      "issue": 75,
+      "category": "coeducation",
+      "date_ref": "1967-06",
+      "entities": [
+        "Eanswythe Flynn",
+        "Camp Brigadoon"
+      ],
+      "claim": "Sex education in camps, argued by a doctor and a director in June 1967. Dr. R. A. H. Kinch, Professor and Chairman of Obstetrics and Gynaecology at the University of Western Ontario, describes lectures to London secondary-school girls built \"on typical questions actually asked by girls between 15 and 16 years\": \"A lowering of the age of puberty is a natural consequence of improved health and modern nutrition,\" but emotional and economic maturity lag; \"Reluctant educators have allowed the popular press, the advertisers, radio and television to usurp their function\"; and, citing Michael Schofield, \"the problem is that boys and girls may engage in intercourse not because they want to but because conformity to the group standards demands it.\" He rejects scare teaching -- \"It is clumsy and immoral, and quite ineffective, to use a frightening 'truth and consequence' method\" -- and notes: \"I am continually impressed by the maturity of the teenage patient, compared with the extremely immature attitude displayed by her scandalized parents.\" Eanswythe Flynn of Camp Brigadoon answers from the camp side: a camp cannot teach sex education in two weeks, \"BUT ONLY IF, AS AND WHEN CAMPERS THEMSELVES BRING THEM UP\" should the subject be taken up -- \"There is most certainly no need, nor is there time, to deliberately create a 'now we are going to learn about sex' class during camp, but we must be prepared with answers when the occasion arises.\" Her instruction dates the practice: \"It's up to directors to set aside time in pre-camp training to discuss this whole aspect with staff, and prepare them for the part they can play.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3269",
+      "issue": 75,
+      "category": "operations",
+      "date_ref": "1967-06",
+      "entities": [
+        "Margaret Ann Glover"
+      ],
+      "claim": "Margaret Ann Glover's \"Send Them Home Alive,\" June 1967, is a waterfront search procedure written with unusual bluntness: \"one camper is missing!... is the camper on the bottom of the lake?!... Can you find this child soon enough to return all your campers home in the same living condition in which you received them or is this child going home before camp end in a box?\" Preconditions for a safe waterfront: staff who \"know every inch of the bottom of each pool,\" can \"retrieve a body from the bottom without endangering their lives,\" practise underwater swims daily and artificial respiration weekly, hold unannounced drills, and keep posted by the telephone the numbers for doctor, health department, fire, hospital, police and hydro-electric. Her list of why a camper goes missing is a counsellor-conduct audit: \"Was the guard ignorant of the number in her pool?... Was the guard on cloud 9?... Was she burning both ends of the candle and really too tired to work?... The waterfront is the last place in camp for dead wood!\" The search runs in two halves, land and water, with expert swimmers in criss-cross pattern over the deep area with face masks and flippers and a rescue boat outside them, artificial respiration begun in the water where depth allows, and drills practised with a weighted dummy.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3270",
+      "issue": 75,
+      "category": "camping_movement",
+      "date_ref": "1967-06",
+      "entities": [
+        "Joyce Bertram",
+        "Camp Ouareau"
+      ],
+      "claim": "Joyce Bertram's \"Magic is Slipping,\" June 1967, is the sharpest thing she wrote in this run. \"Think back to the last Camping Convention you attended... My guess is that it was held in the poshest hotel in town with piped-in music for every conference room, broadloom (albeit green) on every floor... Did you sit around an open fire watching blueberry muffins cooking in a reflector oven? My guess is that you sat back in an upholstered chair listening to an 'expert' tell you how to put camp back into camping!\" Her charge is that camping, in shedding \"the 'retarded boy scout' image,\" has bought a worse one: \"Are we not perhaps exchanging our retarded boy scout image for that of a grey flannel suited executive with pine panelled administration offices and all the latest data on P.R. and motivational research?\" On programme: \"we have to confess that most if not all of these things can be taught just as effectively in the city... We are not providing more -- we are providing more of the same.\" Her answer: \"Magic is the word I would like to suggest... Camp should help a child to sense the miracle of growing things, the spectacle of dusk and the evening star... It should provide him with the raw materials to form his own cushion against the world, his own wide margins of peace and serenity.\" And on the word holiday: \"let us not be too quick to discard the original spelling of 'holy days'.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3271",
+      "issue": 75,
+      "category": "staff",
+      "date_ref": "1967-06",
+      "entities": [
+        "Bruno Morawetz",
+        "McGill University",
+        "Macdonald College"
+      ],
+      "claim": "Bruno Morawetz's national survey of university extension courses for camp staff, June 1967, with Quebec content: \"Limiting ourselves to the English Universities in Quebec, McGill seems to be the only institution which offers in its extension programme a short course in the out-of-doors. During the Spring and Fall Terms, three Field Trips are arranged on succeeding weekends, the last of which is overnight. It bears the appropriate title: 'Week-end Explorers'. McGill also offers a course for Food Service Supervisors... Its agricultural sister institution, Macdonald College, features a series of very practical courses in leather-craft, weaving, woodworking, ceramics, fine arts and child development.\" Two named Montreal-area training routes for camp staff, both checkable against Kanawana's own staff.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3272",
+      "issue": 75,
+      "category": "operations",
+      "date_ref": "1967-06",
+      "entities": [
+        "Ian K. Barker",
+        "Kirk Wipper"
+      ],
+      "claim": "Ian K. Barker, a third-year veterinary student at the Ontario Veterinary College and former naturalist at Camp Ponacka, on rabies, June 1967: \"most cases in both wild and domestic animals are centered in Ontario and adjoining Quebec, where the disease is maintained in the fox and skunk population.\" His rules: \"DO NOT HANDLE ANIMALS WHICH APPEAR STRANGELY FRIENDLY OR UNAFRAID OF HUMANS\"; do not reach into burrows or under logs; vaccinate camp dogs and cats annually; report every bite and scratch; wash with soap or detergent and do not stitch; capture the animal alive if possible and, \"if the animal is killed, the head must not be crushed or mutilated,\" so it can be tested. This explains why Kirk Wipper's senior wildlife syllabus of June 1966 says \"Live trap one wild living specimen (not wild animals because of rabies).\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3273",
+      "issue": 76,
+      "category": "sources",
+      "date_ref": "1967-autumn",
+      "entities": [
+        "Eanswythe Flynn",
+        "Canadian Camping"
+      ],
+      "claim": "Canadian Camping changed hands in autumn 1967. From that issue it is \"published four times a year by Town Talk Publications\" rather than by the Canadian Camping Magazine Co., and the publisher is Mrs. G. W. Flynn -- Eanswythe Flynn, the former editor who appears throughout this run as a contributor and stand-in editor. The price to non-members rises to 85 cents a copy, and the issue is the first dated by season (\"Autumn\") rather than by month. The source's provenance changes here, and its frequency and dating convention with it.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3274",
+      "issue": 76,
+      "category": "people",
+      "date_ref": "1967-06-05",
+      "entities": [
+        "Catherine Van Wagner",
+        "Camp Nominingue",
+        "Quebec Camping Association"
+      ],
+      "claim": "Catherine Van Wagner died on 5 June 1967. Ross Paul's tribute: \"For the first time since Camp Nominingue was founded in 1925, Catherine Van Wagner, affectionately known by camper and staff member alike as Mrs. Van, had missed a camping season.\" (Note the date against G. H. Merrill's February 1963 profile, which has Van Wagner and Hay Finlay founding Nominingue in autumn 1924 -- almost certainly founding against first season, but both are recorded.) Her work was the nature programme: \"She could usually be found near the Nature Cabin... It was never just facts that she passed on, but a love, an awareness and a quiet feeling of pride in our natural resources.\" The editor's note adds an institutional detail that explains much about this source: \"Until two years ago, she was Editorial Representative for the Quebec Camping Association, motivating and encouraging her camping associates to write for us.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3275",
+      "issue": 76,
+      "category": "traditions",
+      "date_ref": "1967-autumn",
+      "entities": [
+        "Mary S. Edgar",
+        "Camp Nominingue"
+      ],
+      "claim": "A second eyewitness to Mary Edgar's hymn in actual camp use, this time at a Quebec camp: \"The most peaceful and meaningful moments of the 1967 season were spent in the camp's simple outdoor chapel when, nestled among the birches and overlooking the lake, we sang the familiar words of Mary Edgar's hymn... 'God who touchest earth with beauty / Make me lovely too.'\" With the Camp Kandalore sighting of February 1966, that is the same hymn documented in outdoor chapel at two camps in two provinces.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3276",
+      "issue": 76,
+      "category": "camping_movement",
+      "date_ref": "1968-03",
+      "entities": [
+        "Quebec Camping Association",
+        "Robert Lazanik",
+        "Frances Kelly"
+      ],
+      "claim": "Frances M. Kelly, Executive Secretary of the Quebec Camping Association, sends advance word in autumn 1967 that the 1968 conference will be 14-16 March 1968 at the Windsor Hotel, Montreal, \"held jointly by the English and French sections of the Association and will be bilingual with simultaneous translation throughout the entire programme.\" Chairmen: Robert Lazanik for the English Section and Rev. Pere Lionel Perras for the French Section. Simultaneous translation throughout is a landmark in the story Tony Shorgan began in 1957.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3277",
+      "issue": 76,
+      "category": "camping_movement",
+      "date_ref": "1967-autumn",
+      "entities": [
+        "Douglas McEwen",
+        "Quebec Camping Association",
+        "Canadian Camping Association"
+      ],
+      "claim": "A fact that qualifies the whole French-section story, from Doug McEwen's presidential address of autumn 1967: \"the French section of the Quebec Camping Association are still not members of the Canadian Association.\" So as of autumn 1967 the French section belonged to the QCA but not to the CCA -- nine years after its formation and two years after the CCA approved a national French section in principle.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3278",
+      "issue": 76,
+      "category": "camping_movement",
+      "date_ref": "1967-autumn",
+      "entities": [
+        "Douglas McEwen",
+        "Canadian Camping Association"
+      ],
+      "claim": "Doug McEwen's presidential programme, autumn 1967, in three areas. On services he wants \"Regular visitation of all camps through their Provincial Associations\" -- which the QCA was already doing -- and \"the development of a certification system by the C.C.A. of camp directors should be begun immediately,\" the question W. E. Yard argued against in 1965 and the Aurora retreat raised in 1966, now national policy. On internal organisation: \"For the first 20 years of its life the Canadian Camping Association's strength has lain in strong provincial associations\"; he wants a full-time Executive Secretary and admits a structural problem plainly -- \"the entire National Executive resides in Manitoba... Information as to decisions about to be taken is shared with Provincial Associations but frequently no response from Provincial Associations is taken as assent.\" On money: \"The Centenary Journey project, now in its final stages, received a grant of $12,000.00 from the National Centennial Commission\" -- double the $6,000 in the 1966 accounts, evidently the two-year total -- plus travel grants from Fitness and Amateur Sport and \"a sizeable grant... for the conduct of five regional training events.\" His closing: \"We are an organization worthy of support, funds are available, and it is now time for us to state clearly where we are going.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3279",
+      "issue": 76,
+      "category": "canoe_trips",
+      "date_ref": "1967-05",
+      "entities": [
+        "Kirk Wipper",
+        "University of Toronto",
+        "Kamp Kanawana"
+      ],
+      "claim": "Kirk Wipper's \"Paddles in the Spring -- Prelude to the Centenary Journey\" describes the first party on the national route: 8-10 May 1967, his fourth-year class from the University of Toronto School of Physical and Health Education, ten canoes, on the Mattawa. Conditions: snow on the branches on the way to North Bay, twenty-degree nights with \"Woollen blankets... placed inside the sleeping robes,\" snow all the way to Mattawa town, the river in flood, and \"at one point before the Talon chutes every canoe arrived at the foot of the rapids with at least six inches of water in it.\" They stopped to build bonfires and dry \"socks and mitts and toques\" -- \"to grip the paddles under such weather conditions, it was necessary to wear socks or mitts to keep our hands from capitulating.\" The close: \"On the final evening as we reached the historic junction of the Mattawa and Ottawa Rivers, the Church bells beside the river tolled... it is inspiring to know that they were the first to be on the route of the Voyageurs, the National Centenary Route in 1967. The natives along the way perhaps regarded the project as a rather puzzling venture under such conditions.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3280",
+      "issue": 76,
+      "category": "site",
+      "date_ref": "1967-autumn",
+      "entities": [
+        "Ann Prewitt",
+        "Algonquin Provincial Park",
+        "Fannie Case"
+      ],
+      "claim": "Ann Prewitt interviewed William Hueston, Superintendent of Algonquin Park and Regional Forester for Ontario Lands and Forests, in autumn 1967 and reports policy this project has nowhere else: \"Now 25% of the shore line of all lakes must be retained by the crown... even though many desirable sections, such as the whole Muskoka Lakes area, are already gone.\" And a new category: \"the Department of Lands and Forests is setting up a number of 'Wild River Parks' -- designated sections of rivers along whose shores no more Crown Land will be sold. Maps will be supplied and camping spots indicated. Also the rivers will be graded... other fiercer rapids will be labeled 'for experts only'.\" Her forecast for camps: \"Within the next twenty-five years established camps will be surrounded by cottages, perhaps villages or cities,\" and a camp can score highest on a Standards visitation while \"the vital necessity of living close to nature has almost disappeared. Out-trips are the only answer for such a camp. But where to go?\" She also quotes \"Fannie L. Case, who started Camp Northway Lodge in 1906\" on why she left teaching -- \"unhampered by tradition, we were ripe for a break in the usual physical circumstances also accompanying education -- close air, hard seats nailed down in rows, the clock ticking away our precious time and the bell cutting in just as an absorbed interest was reaching a climax.\" Note the 1906 date, a third figure against the Northway Lodge 1905 and 1917 dates already carried.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3281",
+      "issue": 76,
+      "category": "programs",
+      "date_ref": "1967-autumn",
+      "entities": [
+        "Austin Matthews",
+        "Camp Kitchikewana",
+        "Kamp Kanawana"
+      ],
+      "claim": "Austin Matthews, General Secretary of the Midland YMCA and Director of Camp Kitchikewana, describes a fully documented school-camp week in autumn 1967 -- the clearest model in this run of the arrangement that later became Kanawana's own outdoor-education work with schools. All the grade-four children of the Midland public school system, 170 children, went to the YMCA resident camp in three groups of five days each during June, Sunday noon to Friday noon, two teachers per group, high-school volunteers as counsellors, volunteer nurses, university students supervising recreation. Teachers designed the educational half around \"nature lore, camp craft, marine life, water safety, sketching, natural history, geography and archaeology,\" using outside resource people including \"a full-blooded Ojibway Indian,\" a representative of the Department of Lands and Forests, and the Warden of the National Park. Financing: \"this school camp was totally sponsored by Midland Public School Board and, therefore, no fees were charged the individual camper,\" which reached children who \"would never be able to attend a regular camp.\" Benefits to the camp: off-season use, longer staff employment, press coverage, and \"we were able to observe in a practical counselling situation many high school students,\" aiding future selection.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3282",
+      "issue": 76,
+      "category": "staff",
+      "date_ref": "1967-autumn",
+      "entities": [
+        "Bruno Morawetz",
+        "Camp Ponacka"
+      ],
+      "claim": "Bruno Morawetz's \"Building Self-Confidence,\" autumn 1967. Before camp: \"The director can make the camper aware of his worth by writing him a personal letter upon registration and asking him to let the director know what he would like to do and accomplish at camp. This makes him feel that he is not a parcel which is being wrapped up and sent away.\" On arrival: \"it is a great mistake to have the bus disgorge its cargo all at once. It is much better... to have each camper alight singly and to introduce him to his counsellor who is waiting and ready for him.\" On the counsellor: \"One of the essentials is that he be 'always there'... Even if he reads or writes in his cabin he is spreading a re-assuring glow over his campers.\" On teaching, steps small enough to succeed -- \"In archery he moves close enough to the target to succeed in hitting it\" -- and one specific piece of tact: \"as soon as [the instructor] sees that the child could not possibly pass the [first-day swimming] test he urges him not even to try his test, but promises to assess his ability at a later time. The camper has thus not 'failed' his deep water test.\" On competition: \"It is bad when campers of varied abilities are pitted against each other involuntarily and indiscriminately. The kind of competition which builds self-confidence is the one where a camper strives to reach a certain level of excellence. Failure to meet this standard is seldom public and never final.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3283",
+      "issue": 76,
+      "category": "archives",
+      "date_ref": "1967-autumn",
+      "entities": [
+        "Camp Wabanaki",
+        "Kitchener-Waterloo YMCA"
+      ],
+      "claim": "A named, camp-produced anthology of campers' own religious writing is identified in autumn 1967: the \"Sermons Under the Sun\" entry is taken from \"'Sermons from a Summer Chapel'... Produced by the Kitchener-Waterloo YMCA Camping Department, 'it records and preserves some of the original creative efforts of Camp Wabanaki campers and staff as they have expressed their religious feelings and thoughts'.\" The editor adds: \"Undoubtedly 'Sermons from a Summer Chapel' is the kind of publication that other camps across the country would find both stimulating and useful.\" Proof that YMCA camps in this period were printing collections of their campers' own writing.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3284",
+      "issue": 76,
+      "category": "methodology",
+      "date_ref": "1967-autumn",
+      "entities": [
+        "Hedley Gardner Dimock",
+        "Don Atkinson"
+      ],
+      "claim": "Direct evidence that Hedley Dimock's March 1967 keynote changed practice at a named camp. Rev. Don Atkinson, President of the Manitoba Camping Association and director of the United Church Fresh Air Camps in Winnipeg -- offering \"a 20-bed hospital for convalescents, a facility for mothers and children camping and a camp for 80 children co-educationally\" -- writes in his own profile: \"Heavily impressed by Hedley Dimock at the Canadian Camping Association Conference we are introducing some measure of participatory camping at the camp this year.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3285",
+      "issue": 76,
+      "category": "context",
+      "date_ref": "1967-autumn",
+      "entities": [
+        "Federation of Catholic Charities"
+      ],
+      "claim": "A senior Montreal camping salary of 1967: the Federation of Catholic Charities, \"planning organization for the English-speaking Catholic community of Montreal,\" seeks a Director of Catholic Youth Services of Montreal responsible for \"recreation and leisure time services, comprehensive day and residence camping services, and community extension services,\" at $10,500 to $13,000, with \"Bilingualism and familiarity with social research programming\" as assets. Set against the $1,000 to $1,500 seasonal camp directorships advertised in 1966, and evidence of a third Montreal denominational camping network alongside the YMCA and YWCA.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3286",
+      "issue": 77,
+      "category": "biography",
+      "date_ref": "1967-12-01",
+      "entities": [
+        "Wallace Forgie",
+        "J. Harry Ebbs",
+        "Camp Tonakela",
+        "Hedley S. Dimock"
+      ],
+      "confidence": "disputed",
+      "claim": "Wallace Forgie's obituary, signed by J. H. Ebbs, M.D., F.R.C.P.(C) -- Adele Ebbs's husband, and so Forgie's nephew by marriage -- printed Winter 1968. Born 1883; died 1 December 1967. \"He was known as 'Commodore' by the many young leaders who came under his influence in Canada from 1908 until 1927,\" which brackets exactly the Canadian span this read had dated from both ends. \"Many men knew him when he served five years overseas in the First World War with the Y.M.C.A.\" \"Boys work in Western Canada then occupied a number of years during which he conducted many canoe trips into the north-west.\" \"He was an associate of the late Dr. Hedley Dimock who was succeeded by Professor Charles E. Hendry.\" \"In 1935 he built Camp Tonakela near Madras, which was officially opened by Mr. and Mrs. Taylor Statten. He then began thirty-two years of voluntary service\" -- 1935 plus 32 being 1967, internally consistent. He was known as \"Tah-Tah\" by the Indian children, and the head of the Child Health Institute of Madras said \"Wallace Forgie will be remembered in this part of the world as an Albert Schweitzer.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3287",
+      "issue": 77,
+      "category": "camping_movement",
+      "date_ref": "1967-09-23",
+      "entities": [
+        "Sophia Demetelin",
+        "Quebec Camping Association",
+        "A. Ross Seaman",
+        "Tony Shorgan"
+      ],
+      "claim": "International Camping Day at Expo 67. Sophia Demetelin, writing as President of the Quebec Camping Association Inc.: \"Saturday, September 23, 1967 was an exciting day for the Quebec Camping Association Inc. -- Association des Camps du Quebec Inc. for that was the date set for the long anticipated International Camping Day at Expo. The theme was 'The Camper and His World -- Terre des Jeunes'.\" The luncheon speaker was Howard G. Gibbs of the Boys' Clubs of America, who argued that \"present day society is robbing children of their childhood because 'we want them to be adults'.\" The report and photograph caption together give the QCA's new Provincial Board, elected at Expo on 23 September 1967: \"Mrs. Nicholas D. Demetelin, president; Robert Lazanik, A. Ross Seaman and Reverend Lionel Perras, vice-presidents; Paul Moreau, secretary; and Tony Shorgan, past president.\" So Sophia Demetelin becomes president of the Quebec Camping Association -- on the evidence of this run, its first woman president; Tony Shorgan, who founded the French section in 1958, had been president; and A. Ross Seaman of Kanawana steps down from the presidency to a vice-presidency, which dates his QCA presidency to roughly 1966 to September 1967.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3288",
+      "issue": 77,
+      "category": "directors",
+      "date_ref": "1967-11",
+      "entities": [
+        "A. Ross Seaman",
+        "Kamp Kanawana"
+      ],
+      "claim": "Kanawana's own director was, in late 1967, the person the Maritimes brought in to teach camp measurement and evaluation. From the Atlantic Provinces report by Tom Creighton: \"Ross Seaman, immediate past president of the English Section of the Quebec Camping Association, was the resource person\" for the first Atlantic Provinces Regional Camp Directors' and Administrators' Seminar, Moncton, N.B., 17-19 November 1967, with eighteen delegates from Newfoundland to Halifax representing the Anglican, Baptist and United churches, YMCAs, Guides, Scouts, Boys' Clubs, \"a camp run by the Co-op Services, the 4H Clubs, and the Zionist Organization.\" The theme was \"the Human Relations Aspect in Camping,\" with sessions on \"the Role of Leadership, Selection of Leadership, Methods of Measurement in Camping, Group Function, and Methods of Evaluation.\" A strong argument that any Kanawana staff-assessment material from this period reflects a considered method rather than casual note-taking.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3289",
+      "issue": 77,
+      "category": "staff",
+      "date_ref": "1968-winter",
+      "entities": [],
+      "claim": "\"The Gap Is Getting Wider,\" an unsigned piece of Winter 1968, is the most substantial account in this run of the generational break in camp staffing. Its picture of the 1968 counsellor: \"Not having grown up in a depression he or she has very little idea of the real value of money\"; senior staff are \"second-year college students, worried about the pressure of courses, troubled by the new morality and their own lapses, in revolt against their parents and the authority of The Establishment... scornful of religion.\" On competence: \"A counsellor, who on a bitterly windy cold morning arrives to breakfast wearing two sweaters, wool slacks and ski mitts accompanied by her campers in shorts and sleeveless blouses, is too young to be in charge of children.\" On promotion pressure, a real structural finding: \"Counsellors used to stay with one Camp for three or four summers as a general counsellor then finally assume a position of importance... Now, in order to keep these young people, we must advance them both money-wise and position-wise every year whether they are really old enough or not. If we don't, some other camp will\" -- a mechanism that would show in any camp's staff lists as rapid turnover and young section heads.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3290",
+      "issue": 77,
+      "category": "traditions",
+      "date_ref": "1968-winter",
+      "entities": [
+        "W. Donald Smith",
+        "Kamp Kanawana"
+      ],
+      "claim": "The best short answer in this run to why a camp's own customs go undocumented, from \"The Gap Is Getting Wider,\" Winter 1968: \"Perhaps at your camp you have some traditions, passed down from year to year, basically unchanged since the camp was started. They may be a little bit corny -- but corny or not they call forth a tremendous upsurge of loyalty from campers and former staff members. How do we get these across to new staff -- people who have come to us from other camps who already have a loyalty to other traditions... Schools and colleges have so much longer. Camps have two or four or eight weeks.\" That is the transmission problem W. D. Smith named in February 1967, stated from the tradition's side. The author is also fair to the young: \"When I was young and thoughtless, I didn't get all worked up about the Negro, the under-privileged, the war in Viet Nam... Not for me the protest marches, the money drives, the sit-in strikes. They have a feeling for humanity these young people, that you and I lacked.\" And the conclusion: \"young counsellors still feel much the same. They want some standards, they want boundaries, they want to feel that someone cares whether or not they come up to expectations.\" Things camps were actually trying: \"One camp has a Counsellor Council which decides matters of curfew, drinking, smoking, time-off and staff recreation\"; another holds year-round senior staff meetings; \"Some camps hire a psychiatrist and psychologist for counsellors as well as campers.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3291",
+      "issue": 77,
+      "category": "biography",
+      "date_ref": "1968-winter",
+      "entities": [
+        "John Latimer",
+        "Charles F. Plewman",
+        "Camp Kilcoo"
+      ],
+      "claim": "C. F. Plewman profiles John R. Latimer in Winter 1968: born Toronto 1930, educated at Lawrence Park Collegiate, Victoria College and Lorne Greene's Academy of Radio Arts; President of the OCA and for twelve years Director of Kilcoo Camp, where he had seventeen seasons as camper, CIT, counsellor, waterfront director, section director and director. Plewman remembers him at seven or eight: \"Turning to me he said, 'You know, Chief, someday I'm going to be a C.I.T. and a Counsellor at this Camp', and not many years later he was saying, 'someday I'm going to own this Camp!'\" A second camper-to-director progression in the run, alongside A. Ross Seaman's from age ten at Kanawana.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3292",
+      "issue": 77,
+      "category": "context",
+      "date_ref": "1967-06",
+      "entities": [
+        "Kirk Wipper",
+        "Wilder Penfield"
+      ],
+      "claim": "Kirk Wipper's summary of the Canadian Symposium on Recreation, Winter 1968: 10-16 June 1967 at the Convention Hotel in Place Bonaventure, Montreal; the founding members adopted the title \"Man and his Leisure / L'Homme au Loisir\" in recognition of the Expo theme; the founding group was the Parks and Recreation Association of Canada, the Association Canadienne des Centres de Loisirs, and the Recreation Division of the Parks Department, City of Montreal. \"The Symposium succeeded in drawing together the largest gathering of its kind ever assembled in Canada.\" Speakers quoted include Allan J. MacEachen, Minister of National Health and Welfare (\"The quality of a society is determined by what it does with its leisure\"); Dr. Celeste Ulrich (\"We are moving away from the puritan ethic in North America that insists work is worth but play is passion and therefore shameful\"); and Dr. Wilder Penfield, the Montreal neurosurgeon -- \"In our great democracy all men are free to discover, each for himself, an impelling purpose in life... when purpose comes, idleness is changed to opportunity.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3293",
+      "issue": 77,
+      "category": "programs",
+      "date_ref": "1968-winter",
+      "entities": [
+        "Margaret Govan"
+      ],
+      "claim": "Jean Darrach's Winter 1968 piece on Sidney J. Parnes's Creative Behaviour Guidebook contains one quotable line from a Toronto conference: \"Professor Alan Klein told his audience they paid only lip service to creativity; the truth was they 'really hated creative kids' who made them uncomfortable and disrupted all their planning. The response of the group suggested that he had flicked a tender spot.\" Set beside Margaret Govan's February 1967 list of campers she could do without, where \"the creative camper\" appears at number seven, this is the same admission made twice in a year.",
       "sources": [
         "src_ia_canadian_camping_collection"
       ],

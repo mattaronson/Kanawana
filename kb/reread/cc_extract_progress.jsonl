@@ -72,9 +72,9 @@
 {"n": 72, "title": "## 72", "chars": 19447, "status": "extracted", "facts": 12}
 {"n": 73, "title": "## 73", "chars": 20818, "status": "extracted", "facts": 10}
 {"n": 74, "title": "## 74", "chars": 20504, "status": "extracted", "facts": 12}
-{"n": 75, "title": "## 75", "chars": 22133, "status": "pending", "facts": 0}
-{"n": 76, "title": "## 76", "chars": 15142, "status": "pending", "facts": 0}
-{"n": 77, "title": "## 77", "chars": 14096, "status": "pending", "facts": 0}
+{"n": 75, "title": "## 75", "chars": 22133, "status": "extracted", "facts": 14}
+{"n": 76, "title": "## 76", "chars": 15142, "status": "extracted", "facts": 13}
+{"n": 77, "title": "## 77", "chars": 14096, "status": "extracted", "facts": 8}
 {"n": 78, "title": "## 78", "chars": 15721, "status": "pending", "facts": 0}
 {"n": 79, "title": "## 79. Vol. 20 No. 4, Summer 1968 — `canadiancampingmagazine_vol20_no4_1968summer.txt`", "chars": 11830, "status": "pending", "facts": 0}
 {"n": 80, "title": "## 80. Vol. 21 No. 1, Fall 1968 — `canadiancampingmagazine_vol21_no1_1968fall.txt`", "chars": 16792, "status": "pending", "facts": 0}
