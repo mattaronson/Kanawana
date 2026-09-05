@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 4351,
+  "fact_count": 4427,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -77526,6 +77526,1427 @@
         "src_ia_canadian_camping_collection"
       ],
       "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4390",
+      "issue": 149,
+      "claim": "Canadian Camping Vol. 35 No. 4, Winter 1984, prints Jocelyn Palm's President's Perspective listing the membership of the association's International Year of Youth Task Force chaired by Hugh Phillips as \"IAN FOWLER (N.B.), JOHN LATIMER (Ont.), PETER GODDARD (Que.) and SYLVIA HAYNES (B.C.)\". The passage is on a page printed 180 degrees rotated in the Internet Archive scan and the reading is a reconstruction; the name PETER GODDARD was verified glyph by glyph against the raw OCR string \"( ano) OHVdOOO H313d\" rather than trusted to the decoder.",
+      "category": "people",
+      "entities": [
+        "Peter Goddard",
+        "Hugh Phillips",
+        "Ian Fowler",
+        "John Latimer",
+        "Sylvia Haynes",
+        "Jocelyn Palm",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "Winter 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4391",
+      "issue": 149,
+      "claim": "The Winter 1984 task force listing identifies Peter Goddard by province (Que.) and does not name Kanawana or give his title. It establishes him as an active figure in Quebec camping at the turn of 1983-84, which is a third dated fixed point inside the 1981-1985 Kanawana directorship bracket, alongside his November 1982 signature as Director and the early 1983 national poster mailing at Kamp Kanawana.",
+      "category": "directors",
+      "entities": [
+        "Peter Goddard",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1983-1984",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4392",
+      "issue": 149,
+      "claim": "Canadian Camping Winter 1984 National Office News reports: \"LOUIS JEAN has joined the staff of the Association des Camps du Quebec. As employees are not permitted to serve in Executive roles, Louis has resigned as Central Vice President. Good wishes Louis! A new vice president has not yet been named.\" (Reconstructed from a 180-degree rotated page; corroborated in clean type at issue 151.)",
+      "category": "camping_movement",
+      "entities": [
+        "Louis Jean",
+        "Association des camps du Quebec",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "Winter 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4393",
+      "issue": 149,
+      "claim": "Louis Jean, elected Canadian Camping Association Central Vice-President by acclamation and taking office 6 May 1983, held the office for under nine months and had resigned it before the winter of 1984. This corrects the record written from issue 147, which recorded only the election. Quebec's seat on the national executive was vacant when the Winter 1984 issue went to press.",
+      "category": "camping_movement",
+      "entities": [
+        "Louis Jean",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983-1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4394",
+      "issue": 149,
+      "claim": "The Canadian Camping Association had a written rule barring employees of the association from serving in executive roles, stated in the Winter 1984 explanation of Louis Jean's resignation.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Louis Jean"
+      ],
+      "date_ref": "1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4395",
+      "issue": 149,
+      "claim": "Jeff Reading of Kilcoo Camp, \"Acid Rain: Understanding the Problem at Camp,\" Canadian Camping Winter 1984: \"In Quebec the problem may be more serious. When the glaciers retreated across this region they removed much of the buffering material from the northern lakes and deposited them in the south. Most lakes north of the St. Lawrence River have already been acidified. Further, eighty percent of the lakes and streams in the Laurentian Shield have acid levels high enough to kill plankton and interfere with fish reproduction.\"",
+      "category": "context",
+      "entities": [
+        "Jeff Reading",
+        "Kilcoo Camp",
+        "Laurentians",
+        "Quebec"
+      ],
+      "date_ref": "Winter 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4396",
+      "issue": 149,
+      "claim": "Reading's Winter 1984 acid rain feature gives the national average pH of Canadian rainfall as 4.3, describes the \"spring shock\" of acid stored in snow releasing at melt, and states that acid kills or deforms fry before acid levels reach a point dangerous to adult fish - so a lake could be failing while still looking and fishing normal to a camp.",
+      "category": "context",
+      "entities": [
+        "Jeff Reading"
+      ],
+      "date_ref": "Winter 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4397",
+      "issue": 149,
+      "claim": "The bilingual Winter 1984 editorial \"Acid Rain: Not Just A Catchphrase!\" cites TIME's figure of \"some 1,300 [lakes] in Quebec... in the process of being destroyed\" and a Gallup finding that 77% of Canadians thought acid rain the gravest environmental problem the country faced.",
+      "category": "context",
+      "entities": [
+        "Quebec"
+      ],
+      "date_ref": "Winter 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4398",
+      "issue": 149,
+      "claim": "The Winter 1984 editorial of Canadian Camping states: \"Yet the Canadian Coalition on Acid Rain has indicated that the Canadian Camping Association is not even a member!! Why is it that those with so much to lose often have little to say?... We have, on paper, a national environment committee and still no word on acid rain, no position, no dissemination of information, no commitment! To be selectively mute in this area is to be irresponsible and out-of-touch with a growing movement.\" The masthead attributes editorial opinion to the editor, not to the association.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Canadian Coalition on Acid Rain",
+        "Jay Haddad"
+      ],
+      "date_ref": "Winter 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4399",
+      "issue": 149,
+      "claim": "Doug Caldwell of the Federation of Ontario Naturalists, in a letter in Canadian Camping Winter 1984, lists the fifty organizations in the Canadian Coalition on Acid Rain - from the Inuit Tapirisat of Canada to Resorts Ontario - and writes: \"noticeably absent in this list is the Canadian Camping Association or any Provincial Camping Associations. Is it the mandate of your Association to remain apolitical?... I challenge the Camping Associations of Canada to take a stand.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Doug Caldwell",
+        "Federation of Ontario Naturalists",
+        "Canadian Coalition on Acid Rain",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "Winter 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4400",
+      "issue": 149,
+      "claim": "Reading's Winter 1984 feature sets out five acid-rain experiments a camp could run: wind charts traced back to the emitting region; a four-container pH comparison of rainwater, distilled water, vinegar and ammonia; daily pH logging of lake water, rainfall, post-rain lake water and tap water as part of a camp weather station; a bedrock-sensitivity experiment comparing marble against crushed local granite; and \"Experiment 4: Canoe Trip Testing\" - \"if you are a camp that has a reasonably extensive canoe tripping program (to distinctly different water sheds) then test the pH levels of the various lakes visited over the course of the summer... examine how the pH of frequently visited lakes changes during the summer.\"",
+      "category": "programs",
+      "entities": [
+        "Jeff Reading"
+      ],
+      "date_ref": "Winter 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4401",
+      "issue": 149,
+      "claim": "No evidence exists that Kanawana ran acid-rain pH testing on its canoe trips. What is documented is the dated, published 1984 proposal that a tripping camp turn its routes into a monitoring transect; Kanawana was a camp with an extensive canoe tripping programme of the kind the proposal addresses.",
+      "category": "canoe_trips",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1984",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4402",
+      "issue": 149,
+      "claim": "Canadian Camping Winter 1984 National Office News reports Mrs. Irene Knapp appointed Secretary at the CCA National Office, a native of Glasgow who came to Canada on a working holiday, with secretarial and bookkeeping experience, hours Monday to Friday 9:00 to 4:00; and Sharon Freedman, office typist since November 1982, who worked on the tasks surrounding the International Camping Congress of January 1983, leaving in October 1983 before the birth of her second child. (Reconstructed from a rotated page.)",
+      "category": "camping_movement",
+      "entities": [
+        "Irene Knapp",
+        "Sharon Freedman",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983-1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4403",
+      "issue": 149,
+      "claim": "Mary Roy left the Canadian Camping Association national office in September 1983 after eight years of service and continued freelancing from home, still available by phone for bookkeeping questions. The rotated Winter 1984 scan decoded her tenure as \"8 1/2 years\"; the Executive Director's report in issue 151, in clean type, gives September and eight years.",
+      "category": "camping_movement",
+      "entities": [
+        "Mary Roy",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "September 1983",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4404",
+      "issue": 149,
+      "claim": "Jean Funk of Alberta, back from world travels and working as a freelance consultant to the Alberta Forest Service, became chairperson of the CCA Environment Committee, announced in the Winter 1984 President's Perspective. The rotated scan decoded the name as \"Jean Punk\"; issue 151 prints it in clean type as Jean Funk.",
+      "category": "camping_movement",
+      "entities": [
+        "Jean Funk",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4405",
+      "issue": 149,
+      "claim": "Paul Potter of Nova Scotia, a programme consultant developing emergency training and physical fitness programmes for offshore oil rigs, became CCA Leadership Development Programs chairman and coordinator of the Consultant/Advisor programme, announced Winter 1984.",
+      "category": "camping_movement",
+      "entities": [
+        "Paul Potter",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4406",
+      "issue": 149,
+      "claim": "Three CCA task forces were wound up and disbanded as reported in Winter 1984, their chairmen thanked: Jack Pearse for a feasibility study on a national conference, Janet Adamson for the hasti-notes trial, and Terry Burkhalter for the Volunteer Executive Development seminar. (Reconstructed from a rotated page.)",
+      "category": "camping_movement",
+      "entities": [
+        "Jack Pearse",
+        "Janet Adamson",
+        "Terry Burkhalter",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4407",
+      "issue": 149,
+      "claim": "Marjorie Booth, \"Volunteer Leaders Sharpen Executive Skills,\" Canadian Camping Winter 1984: twenty-one provincial and national leaders met at Bolton Camp and Conference Centre, 13-15 October 1983, chaired by Terry Burkhalter and facilitated by Arnie Cohen, a long-time camp leader then a consultant in psychological matters in Winnipeg, on goal-setting, consensus decision-making, \"Synergistic Planning\" against \"Traditional Planning,\" managerial grid theory and communication. Fitness Canada paid the delegates' airfares.",
+      "category": "camping_movement",
+      "entities": [
+        "Marjorie Booth",
+        "Terry Burkhalter",
+        "Arnie Cohen",
+        "Bolton Camp",
+        "Fitness Canada"
+      ],
+      "date_ref": "13-15 October 1983",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4408",
+      "issue": 149,
+      "claim": "The printed delegate list for the October 1983 Volunteer Executive Development Workshop names representatives of Newfoundland, Nova Scotia, New Brunswick, Ontario (Liz Greenway, Fred Okada, Dorothy Walter), Manitoba, Saskatchewan, Alberta and British Columbia. Quebec is absent - an explicit null, at a national leadership event held six months after Louis Jean's election and around the time he left the executive for the ACQ's staff.",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec",
+        "Louis Jean",
+        "Liz Greenway",
+        "Fred Okada",
+        "Dorothy Walter"
+      ],
+      "date_ref": "October 1983",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4409",
+      "issue": 149,
+      "claim": "The contents page of Canadian Camping Vol. 35 No. 4, Winter 1984, announces a \"SPECIAL INSERT - 1984 PUBLICATIONS CATALOGUE\" which is not present in the Internet Archive scan. The 1984 CCA publications catalogue is therefore a known, named, missing document, on the pattern of the 1981 and 1982-83 catalogues.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4410",
+      "issue": 149,
+      "claim": "The Winter 1984 subscription card offers, after the first two full-rate subscriptions at $6.00 a year, additional one-year subscriptions at $4.00, pitched at directors subscribing their senior staff, with the note that \"many counsellors are requesting reprints of articles and/or entire issues.\"",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping"
+      ],
+      "date_ref": "1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4411",
+      "issue": 149,
+      "claim": "The Camping Advisor column in Canadian Camping Winter 1984 answers a parent of a newly-disabled ten-year-old on integrated versus specialty camps - \"many people feel that integration is a better philosophical stand than segregation\" - and promises that \"the next issue of Canadian Camping will deal specifically with some of the issues facing disabled campers.\" Recorded as period language and period practice, dated, and not adopted in this project's own voice.",
+      "category": "context",
+      "entities": [
+        "Canadian Camping"
+      ],
+      "date_ref": "Winter 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4412",
+      "issue": 149,
+      "claim": "Colin Lumby reports in Canadian Camping Winter 1984 that Alberta's 1983 pre-camp workshops used 33 volunteer resource people for 120 camp personnel, at Yo-Wo-Ch-As and Yamnuska; Rick Ireland describes Alberta Education's Environmental Education Manual for Grades 1-12, a provincial curriculum an outdoor centre could sell into.",
+      "category": "camping_movement",
+      "entities": [
+        "Colin Lumby",
+        "Rick Ireland",
+        "Alberta"
+      ],
+      "date_ref": "1983-1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4413",
+      "issue": 149,
+      "claim": "Correction to the record taken from issue 148: the mailing label on the Internet Archive copy of the Winter 1984 issue reads \"CAMP RICHILDACA / MR. & MRS. R. J. BABCOCK / KETTLEBY ON\". The sixth deposit hand in this run is therefore a camp, Camp Richildaca of Kettleby, Ontario, and the initials are R. J. rather than the \"Hugh Babcock\" recorded from issue 148. Issue 150's label on the same subscription OCRs the initials as \"W. J.\"; the camp name is the stable part and the initials should not be relied on.",
+      "category": "sources",
+      "entities": [
+        "Camp Richildaca",
+        "Kettleby"
+      ],
+      "date_ref": "1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4414",
+      "issue": 150,
+      "claim": "Canadian Camping Vol. 36 No. 1, Spring 1984, contains no mention of Kanawana, the Association des camps du Quebec, or any Quebec camp anywhere in the issue, and Quebec's seat on the national executive is still recorded as unfilled after Louis Jean's resignation. Explicit null from a word-for-word read of the whole issue.",
+      "category": "sources",
+      "entities": [
+        "Camp Kanawana",
+        "Association des camps du Quebec",
+        "Quebec"
+      ],
+      "date_ref": "Spring 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4415",
+      "issue": 150,
+      "claim": "The Ontario Camping Association's fifty-year history was published as BLUE LAKE AND ROCKY SHORE, 112 pages, illustrated, written by a selected committee of OCA Executive Members, published by Natural Heritage, Toronto, and launched to coincide with the OCA Annual Conference of 23-25 February 1984 at the Inn On The Park, Toronto. It was available from the CCA Bookstore for $8.95.",
+      "category": "sources",
+      "entities": [
+        "Ontario Camping Association",
+        "Natural Heritage",
+        "Blue Lake and Rocky Shore"
+      ],
+      "date_ref": "February 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4416",
+      "issue": 150,
+      "claim": "The Canadian Camping review of Blue Lake and Rocky Shore frames it as the first published history of Canadian children's camping - \"a book of this calibre, looking at the world of children's camping from the turn of the century, has never before been written\" - appearing ten years before Kanawana's own centennial. The review says only that the OCA was \"founded in the early Thirties'\", which is consistent with the 1930-1933 uncertainty in this project's records and settles nothing.",
+      "category": "sources",
+      "entities": [
+        "Ontario Camping Association",
+        "Blue Lake and Rocky Shore"
+      ],
+      "date_ref": "1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4417",
+      "issue": 150,
+      "claim": "Jocelyn Palm's President's Perspective, Canadian Camping Spring 1984: \"Our Association has been awarded a grant of $10,000 by The Neathern Trust. The objectives of the grant are to provide projects which foster: the acquisition of appropriate practices in simple outdoor living; the appreciation and increased understanding of the natural world; the expansion of education to reflect the concern for conservation of our environment and energy resources. The principal and interest are to be expended after 10 years... This grant was instigated by Dr. Mary L. Northway, a long time camper and friend of CCA.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Jocelyn Palm",
+        "Neathern Trust",
+        "Mary L. Northway",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4418",
+      "issue": 150,
+      "claim": "The Neathern Trust grant of $10,000 to the CCA was a ten-year endowment whose principal and interest were to be expended after 10 years, placing its projects in 1984-1994 - the decade running up to Kanawana's centennial.",
+      "category": "camping_movement",
+      "entities": [
+        "Neathern Trust",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1984-1994",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4419",
+      "issue": 150,
+      "claim": "Jocelyn Palm gives Dr. Mary L. Northway's camp biography, Canadian Camping Spring 1984: \"Dr. Northway was a camper then staff member at Glen Bernard Camp near Sundridge, Ontario from 1922-1939. In 1940, Dr. Northway and Flora Morrison founded Windy Pine, a tripping camp near Minden, Ontario.\"",
+      "category": "biography",
+      "entities": [
+        "Mary L. Northway",
+        "Flora Morrison",
+        "Glen Bernard Camp",
+        "Windy Pine"
+      ],
+      "date_ref": "1922-1940",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4420",
+      "issue": 150,
+      "claim": "Canadian Camping Spring 1984 prints John Latimer's Group Dynamics Exercise on sociometry, comparing \"the counsellor's perception vs. the camper's perception\" of friendship, trust and leadership within a cabin group, with worked questions and a sample sociogram. The magazine does not link this to Mary Northway, whose academic reputation was made in sociometry and who instigated the Neathern Trust grant announced in the same issue; no link is claimed here.",
+      "category": "programs",
+      "entities": [
+        "John Latimer",
+        "Mary L. Northway"
+      ],
+      "date_ref": "Spring 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4421",
+      "issue": 150,
+      "claim": "Canadian Camping created a new column, \"Camping... The Last Word!\", in the Spring 1984 issue expressly to hold exchanges too long for the letters page. Its first subject was co-ed sleeping accommodation.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping",
+        "Jay Haddad"
+      ],
+      "date_ref": "Spring 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4422",
+      "issue": 150,
+      "claim": "In the first \"Camping... The Last Word!\" column, A.B. Thiessen of Winnipeg - twelve years in corrections, six in education, three in mental health - challenges the editor's earlier endorsement of a proposal that boys and girls share dorms, cabins or tents, demanding \"that you make available the studies you refer to\" and raising the short camp period, \"the varied ethnic, religious and cultural backgrounds of many campers,\" and \"the difficulties and problems experienced by early sexual involvement.\"",
+      "category": "coeducation",
+      "entities": [
+        "A.B. Thiessen",
+        "Canadian Camping"
+      ],
+      "date_ref": "Spring 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4423",
+      "issue": 150,
+      "claim": "Editor Jay Haddad answers Thiessen at more than a page in Canadian Camping Spring 1984, naming the original correspondent as Harry Rokkos, citing Humber College's daycare with shared washrooms, Mary Calderone of SIECUS, Alex Comfort and the NFB's Why Men Rape, and arguing that \"close to 90% of the world's population from the beginning of time to the present day has lived communally... Our society is, in fact, the historical and statistical anomaly\" - closing with a bibliography of twenty titles offered as containing \"well over 300 studies.\" The masthead attributes editorial opinion to the editor, not to the association.",
+      "category": "coeducation",
+      "entities": [
+        "Jay Haddad",
+        "Harry Rokkos",
+        "Canadian Camping"
+      ],
+      "date_ref": "Spring 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4424",
+      "issue": 150,
+      "claim": "The Spring 1984 Canadian Camping exchange on co-ed sleeping accommodation documents the state of the argument in Canadian organized camping seventeen years after Kanawana's coeducation pilot, at a period when Kanawana's own section structure had settled into parallel girls' and boys' sections. The exchange says nothing about Kanawana.",
+      "category": "coeducation",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1984",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4425",
+      "issue": 150,
+      "claim": "The bilingual Spring 1984 editorial \"segregation... It Still Exists!!!\" recounts an experiment initiated in the summer of 1983 in \"a large, private Ontario camp which sees 600 able-bodied campers pass through its gates each summer\": \"6 physically-disabled adolescents co-existed with their own little camp and camp programme within the framework of the larger camp. A few ramps were built leading into the dining hall and dormitory; otherwise, there was little disruption.\" The editor argues the six hundred gained more than the six. Recorded as period language and practice, dated, and not adopted in this project's voice.",
+      "category": "context",
+      "entities": [
+        "Canadian Camping"
+      ],
+      "date_ref": "1983-1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4426",
+      "issue": 150,
+      "claim": "Rick Ireland in Canadian Camping Spring 1984, on adapting a camp for disabled campers: \"Our ramps are a little too steep and our showers are a little too narrow. The mud on the paths becomes a little too muddy but now we know. We now know the value of obtaining advice from the 'real' people as well as the experts.\"",
+      "category": "context",
+      "entities": [
+        "Rick Ireland"
+      ],
+      "date_ref": "Spring 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4427",
+      "issue": 150,
+      "claim": "Sylvia Haynes, \"Camping is Fun! And it is For Everyone!\", Canadian Camping Spring 1984, includes a detailed accessibility audit checklist - shower stalls with regulated water temperature, ramps at one foot rise in twelve, non-slip surfaces, handrails, washbasin and mirror heights, drinking fountains under 34 inches with knee room, picnic tables accessible from both sides, flashing lights for the deaf, bells in washrooms - and suggests a target of 20-30% disabled campers in an integrated programme. This is the contemporary standard against which any future evidence of Kanawana's accessibility in this period should be read; no Kanawana integration practice of this period is documented.",
+      "category": "context",
+      "entities": [
+        "Sylvia Haynes",
+        "Camp Kanawana"
+      ],
+      "date_ref": "Spring 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4428",
+      "issue": 150,
+      "claim": "The Camp Counsellor's Handbook, 2nd edition, by Brian Blackstock and John Latimer, \"totally revised,\" $9.95 paperback, was advertised in Canadian Camping Spring 1984 for publication March 1984, covering \"programs, daily life, the needs and characteristics of various age groups, counselling the physically or mentally handicapped, activities.\"",
+      "category": "sources",
+      "entities": [
+        "Brian Blackstock",
+        "John Latimer"
+      ],
+      "date_ref": "March 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4429",
+      "issue": 150,
+      "claim": "The CIT Instructor's Manual and CIT Manual ($14.95 with binder; the camper manual $9.95, or $8.00 for ten or more) are reviewed by Mary Milne in Canadian Camping Spring 1984, in eleven chapters whose first is \"Camp History & Philosophy\" - evidence that a camp's own history was a formal element of Canadian counsellor-in-training curriculum by 1984.",
+      "category": "programs",
+      "entities": [
+        "Mary Milne",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4430",
+      "issue": 150,
+      "claim": "The Canadian Heritage Rivers System was announced 18 January 1984 by the federal Ministers of the Environment and of Indian and Northern Affairs, its board meeting for the first time 19-20 January 1984 with representatives of the federal government and of Newfoundland, New Brunswick, Ontario, Manitoba, Saskatchewan, the Yukon and the Northwest Territories, Manitoba taking the chair. The first candidate rivers were the Athabasca and the South Nahanni, with the Bloodvein and the French to follow. Quebec is not among the participating governments.",
+      "category": "context",
+      "entities": [
+        "Canadian Heritage Rivers System",
+        "Quebec"
+      ],
+      "date_ref": "18 January 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4431",
+      "issue": 150,
+      "claim": "The Society of Camp Directors, \"in cooperation with the Canadian Camping Association,\" announced $450 in Awards Papers prizes - $200 director, $150 staff, $100 camper - for articles on camping in French or English, deadline 15 November 1984, winners to be published in the Summer 1985 issue of Canadian Camping.",
+      "category": "camping_movement",
+      "entities": [
+        "Society of Camp Directors",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4432",
+      "issue": 150,
+      "claim": "The Canadian Camping Association's annual meeting for 1983 was set for Friday 4 May 1984, 7:30 p.m., at the Nova Scotia Agricultural College, Truro. The spring 1984 leadership-development calendar lists events in New Brunswick, Nova Scotia and Ontario only, with no Quebec entry.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Quebec"
+      ],
+      "date_ref": "4 May 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4433",
+      "issue": 150,
+      "claim": "Sam Hambly of Camp Allsaw gives full construction and operating instructions in Canadian Camping Spring 1984 for the Allsaw Composter, a styrofoam-insulated year-round composting unit charged with horse manure and earthworm culture - the most detailed camp composting method in this run of the magazine.",
+      "category": "programs",
+      "entities": [
+        "Sam Hambly",
+        "Camp Allsaw"
+      ],
+      "date_ref": "Spring 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4434",
+      "issue": 150,
+      "claim": "Bruce Elkin of the Yamnuska Mountain School argues in Canadian Camping Spring 1984 that camps should become \"integrated centres for personal growth\" teaching \"generic skills\" - Will, Wisdom and Wherewithal - and quotes Masuda's The Information Society on personal computers lifting education \"out of the restrictions of formal schools.\"",
+      "category": "context",
+      "entities": [
+        "Bruce Elkin",
+        "Yamnuska Mountain School"
+      ],
+      "date_ref": "Spring 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4435",
+      "issue": 151,
+      "claim": "The Association des camps du Quebec's 1983 report to the Canadian Camping Association, signed Claire Menard: \"Les activites de l'ACQ, cette annee, ont [ete] ajustees aux besoins des membres. Un questionnaire a ete envoye a l'automne, pour connaitre les besoins des camps et les services qu'ils attendent de leur Association. Des journees thematiques sur 'La gestion par informatique', 'Les nouveaux jeux', et 'La place des parents au camp' ont retenu l'interet de plusieurs membres.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Claire Menard",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1983-1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4436",
+      "issue": 151,
+      "claim": "The ACQ's 1983 report states: \"La Semaine des Camps du 23 au 28 avril sera la principale activite de promotion au printemps. Un projet special, en collaboration avec le Ministere du Loisir, de la Chasse et de la Peche, nous permettra d'avoir un 'message radio' durant cette semaine.\" This dates a Quebec camp promotion week to 23-28 April 1984 with a radio campaign run jointly with the Ministere du Loisir, de la Chasse et de la Peche.",
+      "category": "camping_movement",
+      "entities": [
+        "Association des camps du Quebec",
+        "Ministere du Loisir, de la Chasse et de la Peche"
+      ],
+      "date_ref": "23-28 April 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4437",
+      "issue": 151,
+      "claim": "The ACQ's 1983 report states: \"Au Quebec, la Loi de la protection du consommateur a fait l'objet de plusieurs rencontres avec differents intervenants afin d'obtenir une exemption pour les camps de vacances.\" The Quebec camping association spent 1983-84 lobbying for camps to be exempted from Quebec's Loi sur la protection du consommateur - a regulatory question bearing directly on how camp fees, refunds and contracts with parents were governed under Quebec law.",
+      "category": "context",
+      "entities": [
+        "Association des camps du Quebec",
+        "Quebec"
+      ],
+      "date_ref": "1983-1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4438",
+      "issue": 151,
+      "claim": "The ACQ sent a questionnaire to member camps in the autumn of 1983 to establish their needs and the services they expected of the association. Kanawana was an accredited ACQ member camp at that date, so a Kanawana response to that questionnaire may exist in ACQ records; the magazine does not name any respondent.",
+      "category": "archives",
+      "entities": [
+        "Association des camps du Quebec",
+        "Camp Kanawana"
+      ],
+      "date_ref": "autumn 1983",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4439",
+      "issue": 151,
+      "claim": "The 1983 CCA annual report's provincial table gives Quebec 117 member camps, all 117 accredited and none non-accredited - the second consecutive year in which Quebec's membership and accreditation figures are identical, after 129 of 129 in 1982.",
+      "category": "camping_movement",
+      "entities": [
+        "Association des camps du Quebec",
+        "Canadian Camping Association",
+        "Quebec"
+      ],
+      "date_ref": "1983",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4440",
+      "issue": 151,
+      "claim": "Quebec's other figures in the 1983 CCA provincial table: 103 resident and 5 day camps plus 9 \"other\"; 50 four-season and 18 three-season; 16,568 camper-beds; 75,768 individual campers; 790,595 camper-days; 239 foreign campers; 1,395 volunteer and 3,788 paid staff; $3,285,885 food and $4,894,456 wages; and a return rate of 41%, down from 48%.",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4441",
+      "issue": 151,
+      "claim": "Quebec's membership in the CCA statistics fell from 129 camps in 1982 to 117 in 1983, a loss of twelve, at the same time as its survey response rate fell seven points from 48% to 41%. Year-on-year movement in the Quebec column therefore mixes real change with sampling change and should not be read as either alone.",
+      "category": "methodology",
+      "entities": [
+        "Quebec",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-1983",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4442",
+      "issue": 151,
+      "claim": "The 1983 provincial statistics table printed in Canadian Camping Summer 1984 does not add up: the national \"Paid Staff\" total of 38,592 is roughly twice the sum of the provincial columns, and Alberta's camper-days are given as 5,403 where neighbouring provinces run to hundreds of thousands. The provincial figures are usable; the 1983 national totals in that table are not, and the four-year national series printed above it is the better source. Recorded as a defect in the source.",
+      "category": "methodology",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4443",
+      "issue": 151,
+      "claim": "Colette Pouliot-Marier, writing in Canadian Camping Summer 1984: \"Qu'il me soit permis de rappeler que ce comite qui a ete mis sur pied a l'automne 1974 a pour but d'assurer une presence active des camps francophones et de faire entendre le point de vue des camps de langue francaise au sein de l'Association.\" The CCA's French language committee was founded in the autumn of 1974.",
+      "category": "camping_movement",
+      "entities": [
+        "Colette Pouliot-Marier",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "autumn 1974",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4444",
+      "issue": 151,
+      "claim": "Pouliot-Marier also records: \"rappelons, entre autres, le congres du printemps 1976 qui a reuni des directeurs de camps de vacances et personnes interessees au phenomene des camps, venus de toutes les provinces, autour du theme de 'L'activite pedagogique du camp de vacances'\", after which \"bien des membres ont maintenu des contacts\" - a spring 1976 national congress of French-language camps drawing directors from every province.",
+      "category": "camping_movement",
+      "entities": [
+        "Colette Pouliot-Marier",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "spring 1976",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4445",
+      "issue": 151,
+      "claim": "Colette Pouliot-Marier told Jocelyn Palm on 22 April 1984 that she would succeed Pauline Rondeau, directrice du Camp Claret, as president of the CCA's French language committee. Ken Willis's committee report adds that Rondeau \"resigned as Chairman at the end of this year due to severe time restraints,\" and that Pouliot-Marier \"plans to continue with the tasks of generating articles in French for Canadian Camping and establishing priorities and procedures for translation.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Colette Pouliot-Marier",
+        "Pauline Rondeau",
+        "Camp Claret",
+        "Ken Willis",
+        "Jocelyn Palm"
+      ],
+      "date_ref": "22 April 1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4446",
+      "issue": 151,
+      "claim": "The Executive Director's report in Canadian Camping Summer 1984 states in clean type: \"Ken [Willis] replaced Louis Jean who resigned after accepting a position with ACQ\" - corroborating the substantive finding recovered from issue 149's rotated pages and naming Louis Jean's successor.",
+      "category": "camping_movement",
+      "entities": [
+        "Ken Willis",
+        "Louis Jean",
+        "Association des camps du Quebec",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4447",
+      "issue": 151,
+      "claim": "The Canadian Camping Summer 1984 annual report records \"Plans for CCA's 50th Anniversary in 1986 from Cliff Labbett\" - corroborating in clean type the issue 148 finding that the association dated its own founding to 1936.",
+      "category": "camping_movement",
+      "entities": [
+        "Clifford Labbett",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1984",
+      "confidence": "stated",
+      "conflicts_with": [
+        "c_035"
+      ],
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4448",
+      "issue": 151,
+      "claim": "Adele and Harry Ebbs, \"Memorable Quotes from 'Blackie' Blackstock,\" Canadian Camping Summer 1984, state the source of the several hundred words of his speech they print: \"The following quotes are excerpts from the Camping Archives at Trent University.\" This is the first explicit statement in this run of the magazine that the Trent collection contains transcribed interviews with camping figures, not only institutional paper.",
+      "category": "archives",
+      "entities": [
+        "Adele Ebbs",
+        "J. Harry Ebbs",
+        "C. R. Blackstock",
+        "Trent University"
+      ],
+      "date_ref": "1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4449",
+      "issue": 151,
+      "claim": "The Ebbs tribute adds to C. R. \"Blackie\" Blackstock's biography: he was at Pickering College in 1928, in Taylor Statten's time; he was a Kitchikewana \"original,\" starting the first year of that YMCA camp on Beausoleil Island in 1921 as a very young counsellor under Ernie Thurlow, boys' work secretary for Simcoe County, rising to assistant director under Win Smith; he was a Founding Fellow of the Society of Camp Directors and an Honourary Life Member of the OCA; he took summer courses at Wisconsin in outdoor education, a B.Sc. at McGill and an honorary LL.D. at York in 1974; he introduced winter school camping at Limberlost Lodge through Pickering College; he founded Camp Mazinaw in 1940; and he was later executive secretary of the Canadian Association of Physical and Health Education.",
+      "category": "biography",
+      "entities": [
+        "C. R. Blackstock",
+        "Pickering College",
+        "Taylor Statten",
+        "Camp Kitchikewana",
+        "Ernie Thurlow",
+        "Win Smith",
+        "Camp Mazinaw",
+        "McGill University"
+      ],
+      "date_ref": "1921-1974",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4450",
+      "issue": 151,
+      "claim": "Blackstock on camp conservation teaching, quoted from the Trent Camping Archives in Canadian Camping Summer 1984: \"conservation isn't something that needs to be taught; you expose people to the situation, and they're sharp enough to see.\" On canoe tripping he \"alleged that canoe trippers should be trained to handle risk and to anticipate it,\" given as input to research then being done by the Society of Camp Directors.",
+      "category": "camping_movement",
+      "entities": [
+        "C. R. Blackstock",
+        "Society of Camp Directors"
+      ],
+      "date_ref": "1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4451",
+      "issue": 151,
+      "claim": "Hugh Phillips's International Youth Year Task Force, struck March 1983 and meeting in Toronto on 16-17 April and 22-23 October 1983, settled three national projects: \"1. National Celebration Event: a special summer day in Aug. of 1985 where all campers in CCA help celebrate the international year of youth. Program kits for the themes of fitness, environment, historical roots and peace will be developed by the IYY Task Force. 2. Youth Camp Director Institute: proposed for Jan. 31-Feb. 1, 1985 at Bolton Camp, Ontario... 3. Special CCA Magazine Edition: an entire issue of Canadian Camping will be devoted to our youth.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Hugh Phillips",
+        "Canadian Camping Association",
+        "Bolton Camp"
+      ],
+      "date_ref": "1983-1985",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4452",
+      "issue": 151,
+      "claim": "A CCA \"historical roots\" programme kit was to be developed and distributed to member camps for a national celebration day in August 1985. Kanawana was an accredited ACQ member camp and in Quebec every member camp was an accredited one, so the kit was due to reach Kanawana in the summer of 1985. Nothing is claimed about what Kanawana did with it; the kit's despatch is what is documented.",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "August 1985",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4453",
+      "issue": 151,
+      "claim": "The Youth Camp Director Institute is advertised in Canadian Camping Summer 1984 as running 31 January to 3 February 1985, $145 all inclusive, at Bolton Camp.",
+      "category": "camping_movement",
+      "entities": [
+        "Bolton Camp",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1985",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4454",
+      "issue": 151,
+      "claim": "Paul Potter's Leadership Development report in the 1983 CCA annual report tabulates every Consultant/Advisor visit of 1983-84 with its cost - Jack Pearse to B.C., George Matthews to Newfoundland, Jane McCutcheon to New Brunswick, Jay Haddad to Nova Scotia, Alberta and B.C., Martha Knowlton to New Brunswick, Mickey Johnston to Manitoba, $2,474.45 in total - and records: \"The Association des camps du Quebec could not use their Consultant/Advisor due to insufficient registration for their Winter Conference.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Paul Potter",
+        "Association des camps du Quebec",
+        "Jack Pearse",
+        "Jay Haddad",
+        "Jane McCutcheon"
+      ],
+      "date_ref": "1983-1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4455",
+      "issue": 151,
+      "claim": "Marnie Ellis, who thanked Peter Goddard and the staff of Kamp Kanawana for the 1983 national poster mailing, was herself based in Montreal: the president's report in the 1983 CCA annual report lists her as \"Marnie Ellis of Montreal,\" and her own Publicity report describes Marjorie Booth helping \"the chairman, in Montreal,\" and Jocelyn Palm doing National Camping Day interviews \"out West, and by phone to Quebec.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Marnie Ellis",
+        "Marjorie Booth",
+        "Jocelyn Palm",
+        "Camp Kanawana",
+        "Montreal"
+      ],
+      "date_ref": "1983-1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4456",
+      "issue": 151,
+      "claim": "Jean Funk's environment committee report in the 1983 CCA annual report: \"October 1983 saw a fresh start for the Environment Committee,\" with a revised action plan, review of Environment Canada material, a recommended liaison with the National Trail Association, correspondence with forestry industries, a proposed Energy Camp as a joint venture with the Terry Fox Centre in Ottawa, and \"drafted the 'CCA Environmental Ethic'... I am looking forward to... the acceptance of the 'CCA Environmental Ethic' in 1984.\" The Environmental Ethic tracked since 1982 was therefore still only a draft in the spring of 1984.",
+      "category": "camping_movement",
+      "entities": [
+        "Jean Funk",
+        "Canadian Camping Association",
+        "Terry Fox Centre"
+      ],
+      "date_ref": "1983-1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4457",
+      "issue": 151,
+      "claim": "Clifford Labbett's 50th Anniversary Task Force report lists five ideas for 1986: \"1. Kite flying across Canada. 2. Be a part of the annual July 1st celebrations in Ottawa. 3. Tie in with National Camping Day and sponsorship by private industry in a salute to Children's Camping across Canada. 4. Official recognition from UNESCO for camping's contribution to protection of our environment. 5. Across Canada campfires.\" Labbett also records that he \"was President of CCA when this concept [the International Congress] was first established.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Clifford Labbett",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4458",
+      "issue": 151,
+      "claim": "Bruno Morawetz's archives report in the 1983 CCA annual report describes the collection method: \"Each Provincial Association was sent a large brown envelope marked 'Archives' under which are listed the kinds of materials that should be saved and placed in the envelope for mailing at a later date when the envelope is about to burst.\" Provincial deposits at Trent therefore arrive as irregular bulk envelopes rather than ordered transfers.",
+      "category": "archives",
+      "entities": [
+        "Bruno Morawetz",
+        "Canadian Camping Association",
+        "Trent University"
+      ],
+      "date_ref": "1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4459",
+      "issue": 151,
+      "claim": "Brian Law's Standards report in the 1983 CCA annual report sets as an objective for the autumn of 1984 \"a new provincial comparison of existing practices, the education of visitors, and an examination of the process of accreditation\" - a second edition of the provincial standards comparison.",
+      "category": "camping_movement",
+      "entities": [
+        "Brian Law",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4460",
+      "issue": 151,
+      "claim": "The Second International Camping Congress was fixed for 3-5 March 1987 at the Shoreham Hotel, Washington, D.C., theme \"Our Fragile World - A Challenge for the Outdoor Community,\" jointly sponsored by the American, Canadian, Jamaican and Japanese camping associations and cooperating with fourteen bodies including the World Alliance of YMCAs and the European YMCA Camping Group. This is the only point in this run of the magazine where Kanawana's parent movement appears as an institutional partner of the camping associations.",
+      "category": "camping_movement",
+      "entities": [
+        "World Alliance of YMCAs",
+        "European YMCA Camping Group",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "3-5 March 1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4461",
+      "issue": 151,
+      "claim": "The Newsletter Committee report in the 1983 CCA annual report gives Canadian Camping's production chain: Jay Haddad editing, Marc Cote on layout and photographs, Therese Wong typesetting, and Ken Smith at the National Sport & Recreation Centre guiding it \"through the printing and mailing process in Ottawa\" - with the editor noting \"we are now in the enviable position of having too much material for some issues.\"",
+      "category": "sources",
+      "entities": [
+        "Jay Haddad",
+        "Marc Cote",
+        "Therese Wong",
+        "Ken Smith",
+        "National Sport and Recreation Centre"
+      ],
+      "date_ref": "1983-1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4462",
+      "issue": 151,
+      "claim": "The Publications Committee report (Wendy Wren and Judy Richards, succeeding Fred Okada) records CCA Book Store gross sales up $8,776 on the year, a second printing of the CIT Manual required by 30 June 1984, and a Fitness Canada-funded market study by Jack Zoubie into a family-camping publication. The Education Committee (Dorothy Walter) has the \"Curriculum for Camp Directors\" onto word processing, assisted by Stan Talesnick and John Wilkinson.",
+      "category": "camping_movement",
+      "entities": [
+        "Wendy Wren",
+        "Judy Richards",
+        "Fred Okada",
+        "Jack Zoubie",
+        "Dorothy Walter",
+        "Stan Talesnick",
+        "John Wilkinson",
+        "Fitness Canada"
+      ],
+      "date_ref": "1983-1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4463",
+      "issue": 151,
+      "claim": "The foreign camp counsellor table (CCDO 2333-126) in the 1983 CCA annual report is printed with its columns broken in the OCR; the province headings and the number pairs do not align and the Quebec column cannot be read with confidence. Only the totals are recorded: 732 foreign camp counsellors in 1982 and 708 in 1983. The per-province figures are deliberately not extracted.",
+      "category": "methodology",
+      "entities": [
+        "Canadian Camping Association",
+        "Quebec"
+      ],
+      "date_ref": "1982-1983",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4464",
+      "issue": 151,
+      "claim": "The mailing label on the Internet Archive copy of Canadian Camping Vol. 36 No. 2, Summer 1984, reads MISS JANE MCCUTCHEON, C/O CAMP TAWINGO, HUNTSVILLE ON - a seventh deposit hand in this run, identifying a figure who recurs throughout it with a camp of her own. (OCR'd on this copy as \"CAMP TANINGU\"; corrected against the label on issue 156, which reads CAMP TAWINGO.)",
+      "category": "sources",
+      "entities": [
+        "Jane McCutcheon",
+        "Camp Tawingo",
+        "Huntsville"
+      ],
+      "date_ref": "1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4465",
+      "issue": 151,
+      "claim": "Four readings taken from issue 149's 180-degree rotated pages are corrected by the same material printed in clean type in issue 151: the environment chairman is Jean Funk, not \"Jean Punk\"; the International Youth Year is 1985, not the \"1986\" the decoder produced, with the celebration day in August 1985; the Washington congress is 3-5 March 1987, not \"1-2 March\"; and Mary Roy left in September after eight years, not \"8 1/2 years\". This is a second demonstration, after the issue 146 date correction, of the unreliability the rotated-scan decoder warning exists for.",
+      "category": "methodology",
+      "entities": [
+        "Jean Funk",
+        "Mary Roy"
+      ],
+      "date_ref": "1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
       "conflicts_with": [],
       "added_version": "6.06",
       "added_by": "reread_extraction"
