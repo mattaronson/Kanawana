@@ -27237,3 +27237,118 @@ Bark Lake, Ontario, June 1984**, and by-lined "Co-ordinator of Development at Ca
 set-piece on the counsellor as "doctor, lawyer, indian and chief," paid "enough to buy the second text
 in psychology, some aspirin, some new socks." The mailing label reads **MR & MRS J. JORGENSON,
 HUNTSVILLE ON** — an eighth deposit hand, and the John Jorgenson who co-authored the Tawingo books.
+
+## 154 — Vol. 37 No. 1, Spring 1985 — ★★★★★ PETER GODDARD OF MONTREAL, IN CLEAN TYPE, TWICE
+
+Sixteen pages, the **International Youth Year special edition**, produced not by the editor but by the
+CCA's IYY Task Force. Contents page checked; every item read: the bilingual IYY collage cover text; Hugh
+Phillips's "Chairman's Perspective"; Jocelyn Palm's "President's Perspective"; Phillips's "Camp Youth In
+Action"; the masthead and task-force colophon; Milton McClaren, "Youth and the Environment"; Mall
+Peepre, "Getting Fit" and its French twin "La condition physique"; Ian Fowler's "CCA Joins Together for
+International Youth Year"; Fred Weir, "Peace: Our Bold New Hope"; Bob Stewart, "Tracing Your Roots" with
+its family-tree chart; "Kindred Groups Celebrate International Youth Year"; the New Brunswick Youth
+Investment Program notice; the "Science Is…" resource notice; two poems by **Mary S. Edgar**; and the
+Fitness Canada and Royal Chinet advertisements.
+
+**★★★★★ "PETER GODDARD, MONTREAL" — printed in clean type, twice, in the spring of 1985.** The
+president's perspective:
+
+> "The CCA salutes and thanks Hugh Phillips of Edmonton, our IYY Chairman and his Committee **Sylvia
+> Haynes, Vancouver, Peter Goddard, Montreal, John Latimer, Toronto and Ian Fowler, Moncton.** **Each has
+> done an excellent job over many months** to bring the CCA's focus on youth to the forefront in this
+> special year."
+
+And the issue's own colophon: "This Special Edition of *Canadian Camping* has been produced by the CCA
+International Youth Year Task Force. The IYY volunteers are: Marjorie Booth (Ontario), Ian Fowler (New
+Brunswick), **Peter Goddard (Quebec)**, Sylvia Haynes (British Columbia), John Latimer (Ontario), and
+Hugh Phillips (Alberta)."
+
+**This settles three things at once.**
+
+**First, it retroactively confirms the rotated-scan decode of issue 149.** That reading — "Peter Goddard
+(Qué.)" recovered from a 180°-rotated page, verified glyph by glyph, and flagged in every article as a
+reconstruction — is now printed in clean type on the same task force fifteen months later. **The decoder
+was right, and the caution was still correct to state.** The flag in `people/directors-index.md`,
+`history/between-centennials.md` and the findings can now be joined by a clean-type citation rather than
+removed.
+
+**Second, it is "Montreal", not merely "Quebec."** Kanawana's office was in Montreal, and the YMCA of
+Montreal ran the camp. The 1983 poster mailing named "Peter Goddard and the staff of Kamp Kanawana **in
+Montreal**"; this names "Peter Goddard, **Montreal**" as the province's representative on a national task
+force. Neither states his title, and neither is treated here as stating it.
+
+**Third, and most importantly: the 1983-1985 gap is effectively closed.** `people/directors-index.md`
+has said, since this project began, that "**1983-1985 is bracketed between those two points, not
+stated**." There are now five fixed points, and no year in the span is uncovered:
+
+| Date | Document | What it says |
+|---|---|---|
+| 15 November 1982 | Kanawana newsletter | signs "Peter G. Goddard, **Director**" |
+| early 1983 | CCA Publicity report, 1982-83 | "Peter Goddard and the staff of **Kamp Kanawana in Montreal**" mailed 6,500 posters |
+| winter 1983-84 | President's Perspective (rotated scan) | "Peter Goddard **(Qué.)**" on the IYY Task Force |
+| **spring 1985** | **President's Perspective and colophon, clean type** | **"Peter Goddard, Montreal" / "Peter Goddard (Quebec)", "an excellent job over many months"** |
+| FY1986 | YMCA of Montreal Metropolitan Staff roster | "Goddard, P. (**Director of Kamp Kanawana**)" |
+
+**The wording of the wiki must change accordingly** — not to claim a documented directorship for every
+year, which no source gives, but to stop describing 1983-1985 as a bracket inferred from two endpoints
+when four of those five points fall inside or on it. **What is documented is continuous presence in
+Montreal camping, at national level, from November 1982 to FY1986, with the office stated at both ends
+and not in the middle.** Written into `people/directors-index.md` and `history/between-centennials.md`
+in exactly those terms, and `history/between-centennials.md` Open Question 2 is rewritten from "what are
+his exact years?" to the much narrower question that actually remains.
+
+**★★★★★ A "HISTORICAL ROOTS" KIT WAS MAILED TO KANAWANA IN EARLY MAY 1985 — the author is named.** Ian
+Fowler, National Co-ordinator:
+
+> "The Canadian Camping Association will provide **each member camp with a kit of program material**
+> suitable for the day's event. **The kit will be directly mailed to each camp in early May.** Kit
+> contents include: **Historical Roots Activities — Dr. Bruno Morawetz, Camp Ponacka**; Environmental
+> Activities — Mike Walters, Camp Chief Hector; Fitness Activities — Fitness Canada; Peace Activities —
+> Canadian Peace Congress; **IYY Campfire Program — Jack Pearse, Jane McCutcheon, John Jorgenson, Camp
+> Tawingo**."
+
+The National Celebration Event was fixed for **Wednesday, 24 July 1985**, and every camp was asked "at
+least [to] use the special IYY campfire program giving the CCA salute to youth one common denominator."
+
+**Three things follow, and the first is the strongest lead this pass has produced for the 1980s.** A
+**named document about how to do camp history — written by the CCA's own archives chairman — was posted
+directly to every member camp, Kanawana included, in early May 1985**, for use on a fixed date eleven
+weeks later. That is not a general exhortation; it is a specific mailing with a specific author, a
+specific title and a specific delivery window, into a period for which no Kanawana season report
+survives. **A copy exists at Trent if it exists anywhere**, and it is now the single most concrete thing
+to ask for. **Second**, the man who sat on the task force that commissioned it, for Quebec, was Peter
+Goddard of Montreal — so Kanawana's own director was, on the balance of what is documented, party to
+sending a history kit to his own camp. **That is stated as what it is: an inference from two documented
+facts, not a fact.** **Third**, the campfire programme was designed to be the one element every camp in
+Canada used on the same evening, so if any Kanawana record of 24 July 1985 survives, a Tawingo-written
+campfire is what it should show. **All added to `p_319` and `canadian-camping-movement.md`.**
+
+**★★ What the "historical roots" theme actually asked campers to do.** Bob Stewart's "Tracing Your Roots"
+is the theme article, and it is a genealogy primer for children at camp: make a family tree, "be very
+careful and organized if you are to have a tree that is accurate," start with one side at a time, and —
+because "you are a long way from old diaries and photographs and archives" — **do at camp the one thing
+that can be done there, which is to tell and listen to family stories**. His questions for campers are
+worth recording because they are the era's model for oral history with children: "Do you know how your
+parents met?… Most of our families immigrated to Canada at one time or another. Do you know when your
+family did?… Do you have a favourite family relation?" He also gives the warning any oral historian
+would: "Gather family 'stories'. But treat them with a bit of care. **Time has a way of adding to old
+family stories**… Sometimes they can be very interesting without being very true." His four-book reading
+list heads with **Angus Baxter, *In Search of Your Roots: A Guide for Canadians Seeking Their Ancestors*
+(Macmillan of Canada, 1978)**. Recorded as the content of the theme, not as anything Kanawana did.
+
+**★ Minor.** Palm's figures have grown since the winter: "**Over 450,000 campers and 70,000 staff will be
+at CCA member camps this summer**," against 400,000 and 54,000 three months earlier — a reminder that
+these are estimates, not returns. **Milton McClaren of Simon Fraser University** contributes the best
+piece of environmental-education writing in the run, arguing that ecological thinking needs eight
+processes — knowing, imagining, valuing, connecting, judging, opening, inquiring, acting — and that "**every
+day that we decide NOT to act on acid rain we are in fact DOING something by NOT ACTING, because time is
+still operating.**" **Fred Weir of the Canadian Peace Congress** writes the peace article, the only
+explicitly disarmament-political piece in this run, proposing a Canadian nuclear-weapons-free zone, a
+superpower freeze and an end to cruise missile testing — a reminder that the CCA's IYY themes included a
+politically contested one, distributed to every member camp. **Scouts Canada's 6th Canadian Jamboree** was
+set for **3-12 July 1985 at Guelph** (15,000 Scouts and Venturers, 2,000 leaders), and the **CGIT**
+planned its **first national camp since 1956**, at Camp Brereton, Manitoba, **16-27 August 1985**, for its
+70th anniversary — forty-eight girls from eight regions. Two poems by **Mary S. Edgar**, "One World" and
+"To Youth", close the issue: "When the atom re-employed / Shall build the bridge of peace." **No mailing
+label is legible on this copy** — recorded as an explicit null, the deposit-hand series having run to
+eight.
