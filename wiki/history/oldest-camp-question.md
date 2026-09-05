@@ -1,6 +1,6 @@
 # Is Kanawana the Oldest Camp in Canada?
 
-*Status: draft | Sources: 15*
+*Status: draft | Sources: 17*
 *Last Updated: 2026-09-05*
 
 ## Overview
@@ -197,7 +197,41 @@ as a live rival until it was tested.
 **What survives from Ottawa is 1893.** Charles Plewman, who directed for the Ottawa YMCA himself, wrote
 in December 1964: "When the **Ottawa YMCA in 1893**, and Camp Temagami in 1900, began taking older boys
 to camp, they were really breaking new ground" [f_3121]. That is one year before Kanawana's first
-season, it comes from a participant, and **the Ottawa 1893 claim has never been tested** [f_4756].
+season, and until 2026-09-05 the Ottawa 1893 claim stood untested in this project [f_4756].
+
+**Tested, 2026-09-05, and it holds up less well than it reads.** Two things came out of the test, and
+the first is a word this article had passed over. The documentary half of the Ottawa 1893 claim is not
+an Ottawa YMCA record. It is Arnold Fraser's June 1954 profile of Ace Milks, which says: "the origin of
+Y.M.C.A. camping in Ottawa is somewhat lost in the mists of history. The first actual word of the camp,
+which was to become Camp On-Da-Da-Waks, is to be found in the minutes of an **Ottawa Y.W.C.A. Board
+meeting**. It states that a camp had been held in 1893 on the Ottawa River across from Quyon, Quebec"
+[f_4835]. Because a W and an M are the kind of thing OCR invents, the printed page was checked
+directly — the Internet Archive scan of that issue, leaf 12, at the line itself — and it reads Y.W.C.A.
+[f_4835].^16 So the one piece of paper behind Ottawa 1893 is a minute of the **YWCA** recording that a
+camp was held, the man writing the Ottawa Y camp's own history says its origins are lost, and the next
+dated point in his account is Marshall's Bay in **1907**, fourteen years later [f_2662]. What is left
+on the YMCA side is Plewman's sentence, written seventy-one years after the fact.
+
+**The contemporaneous record says nothing, about anyone.** The obvious place to test a claim about
+YMCA camping in 1893 is the movement's own annual volume, the *Year Book and Official Roster of the
+Young Men's Christian Associations of North America*, which prints a narrative report for every state
+and province written by its corresponding member. All five volumes from 1893 to 1897 were read: the
+Ontario and Quebec reports in full, the whole of each volume searched for "camp" and "tent". Neither
+Ottawa nor Montreal has a camp in any of them. The volumes are perfectly capable of reporting camps
+where they existed — boys' summer camps in New York state in 1893, a boys' camp at Campobello Island in
+1895, boys' camps "increasing" as a summer recreation, a "leader of the Maritime camps" in 1897 — but
+Ontario's report is about secretaries and Bible classes and Quebec's is about buildings, libraries and
+educational work [f_4836].^17
+
+**This is a null that cuts both ways, and it is the reason to state it.** The 1895 volume reports on
+the year 1894 and does not mention Kanawana's first season either; the 1897 volume, which would be
+Kanawana's fourth, mentions no camp in Quebec at all [f_4836]. A negative from a source that would not
+have recorded the thing anyway is a fact about the source. So the Year Book cannot be used to knock
+down Ottawa 1893, and could not be used to knock down Kanawana 1894 — which is worth saying plainly,
+because the temptation runs the other way when the null is convenient. **Ottawa 1893 is now tested and
+stands as one man's recollection, with a YWCA minute behind a differently-sponsored camp.** The
+untried routes are named in the Open Questions: the Ottawa YMCA's own annual reports of the 1890s,
+which are not online, and the Ottawa YWCA minute book itself.
 
 **Chance Harbour, 1889.** A claim about the first Canadian YMCA boys' camp, printed in February 1959
 from "the depths of a file of O.C.A. research material" and written by the late Ace Milks [f_2843]. It
@@ -389,9 +423,14 @@ across the country, and the century that closed its own sibling camp on the orig
 6. [Nice-to-have] Is there a documented date for the start of Big Cove's *continuous annual* series, as
    distinct from its first camp? Byrne's "quickly became an annual event" implies one exists.
 7. ~~[Critical] Resolve the Ottawa YMCA / Golden Lake claim.~~ **[Resolved 2026-09-05]** The 1884
-   figure is Sumner Dudley's, not Ottawa's, and Golden Lake dates to 1908 [f_4754]. **What remains open
-   is the narrower question**: Plewman dates Ottawa YMCA camping to 1893, one year before Kanawana, and
-   that has not been tested against Ottawa YMCA records [f_4756].
+   figure is Sumner Dudley's, not Ottawa's, and Golden Lake dates to 1908 [f_4754]. **The narrower
+   1893 question was then tested on 2026-09-05** and narrowed again rather than closed: the documentary
+   half of it is an Ottawa *YWCA* board minute, checked against the page image, and the *Year Book of
+   the YMCAs of North America* records no camp for Ottawa in 1893-1897 — nor for Montreal, which is why
+   that null settles nothing [f_4835, f_4836]. **Two routes remain untried, both offline:** the Ottawa
+   YMCA's own annual reports of the 1890s, and the Ottawa YWCA minute book that Fraser was reading in
+   1954. Ottawa's own Y and the City of Ottawa Archives are the places to ask. Until one of them is
+   read, Ottawa 1893 is one man's recollection plus a minute about a camp whose sponsor is not stated.
 8. [Important] Is **Chance Harbour, N.S., 1889** the same camp as Big Cove, or a separate one? [f_2843]
 9. [Important] Fold the six competing origin claims into **one conflict record**, as [f_2845] already
    recommends, rather than leaving them scattered across facts and articles.
@@ -423,3 +462,5 @@ across the country, and the century that closed its own sibling camp on the orig
 13. CBC News, "In the summers without summer camps, staff get creative to stay afloat" [src_cbc_bigcove_pandemic_summers]. **Not read directly** — cbc.ca returns HTTP 403 to this project's fetch tool while serving browsers; known only through search-result summaries and recorded `read_state: unavailable`. See [f_4749].
 14. YMCAs of Quebec impact report 2022 [src_ymf_ymca_impact_report_2022_eng]; CBC News, 29 April 2021 [src_cbc_wong_camps_2021]. The two lost Kanawana seasons. See [f_2135], [f_2256].
 15. RKY Camp history page [src_rky_camp] — the 1943-1945 wartime closure. See [f_4776].
+16. Arnold Fraser, "Personality: A. 'Ace' Milks," *Canadian Camping* Vol. 6 No. 3, June 1954 [src_ia_canadian_camping_1954_06]. The Ottawa YWCA board minute of 1893, the Marshall's Bay camp of 1907 and the 1908 move to Golden Lake. The Y.W.C.A. reading was checked against the page image of the Internet Archive scan, leaf 12, rather than taken from the OCR. See [f_2662], [f_4835].
+17. *Year Book and Official Roster of the Young Men's Christian Associations of North America*, 1893, 1894, 1895, 1896 and 1897 [src_ymca_yearbook_1893], [src_ymca_yearbook_1894], [src_ymca_yearbook_1895], [src_ymca_yearbook_1896], [src_ymca_yearbook_1897]. Ontario and Quebec narrative reports read in full; each volume searched whole for "camp" and "tent". See [f_4836], [f_4837].

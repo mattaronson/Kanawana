@@ -1,7 +1,7 @@
 # The Cushing Family and YMCA Camping
 
-*Status: E1-reviewed | Sources: 12*
-*Last Updated: 2026-07-10*
+*Status: E1-reviewed | Sources: 13*
+*Last Updated: 2026-09-05*
 
 ## Summary
 
@@ -64,6 +64,8 @@ His identification as the manuscript's author is retained here on the judgment t
 
 **Charles Cushing** is mentioned in YMCA research reports held in Concordia Archives sub-series 13D, suggesting involvement with YMCA governance or legal affairs alongside his notarial career.^5
 
+**Charles Cushing held a named office in the international YMCA, and it dates.** The *Year Book and Official Roster of the Young Men's Christian Associations of North America* lists "Quebec — CHARLES CUSHING, Montreal" as the International Committee's **Corresponding Member for the province** in its 1893, 1894 and 1895 volumes, and he signs Quebec's annual narrative report in 1893 and 1895 — the second of which covers the year 1894, Kanawana's first season. By the 1897 volume the office has passed to William Tees.^13 The name was read off the page image rather than the OCR, which renders it "GUSHING" in both the 1893 and 1895 volumes; the 1894 roster prints it plainly [f_4837]. This is the first dated YMCA office this project has for any Charles Cushing. It does **not** establish that the corresponding member, the notary (son of Lemuel Sr., active 1869-1910), and the Charles Cushing named in the Concordia research reports are one man — three appearances of a common name in one city are three appearances of a common name. What it does is give the name a place and a date to be tested against: whoever wrote those reports was the province's link to the International Committee in the two years on either side of Kanawana's founding, and his own reports say nothing about a camp.
+
 **Dr. Cushing** advised keeping Camp Kanawana open during the 1946 polio outbreak — six cases were reported, canoe trips were cancelled, but the camp remained open on his advice.^4 Phase 2 research confirmed that Harold Beveridge Cushing founded McGill's Department of Pediatrics in 1937 and co-founded the Montreal Children's Hospital in 1904 — as the leading pediatric specialist in Montreal, he was the natural choice for advising on a children's camp during a polio outbreak.^8
 
 ## Disambiguation: Other Walter Edgar Cushings
@@ -100,6 +102,7 @@ A different **Walter Edgar Cushing** (Dartmouth College, Class of 1909) served w
 10. FamilySearch, Cushing genealogy supplement 1905-1969 (item 235744).
 11. YMCA of Montreal Annual Report (41st, 1892) and Historical Sketch of the YMCA of Montreal 1851-1901 (Internet Archive), read in full 2026-07-08. Its own presidents list gives 1867-68 for Lemuel Cushing Jr.'s main-organization presidency, 1869-73 for T. James Claxton, and separately names Cushing as president of a distinct Point St. Charles branch YMCA — see conflict c_012 (likely resolved).
 12. Cushing genealogy supplement, 1905-1969, FamilySearch item 235744 — read in full 2026-07-09 [src_familysearch_cushing_supp]. McMorris thesis, full-text search for "Cushing"/"1892" [src_mcmorris_thesis].
+13. *Year Book and Official Roster of the Young Men's Christian Associations of North America*, 1893, 1894, 1895 and 1897 [src_ymca_yearbook_1893], [src_ymca_yearbook_1894], [src_ymca_yearbook_1895], [src_ymca_yearbook_1897], downloaded from the Internet Archive and cached 2026-09-05. The Quebec corresponding-member listings and provincial reports; the 1895 signature verified against the page image, leaf 0072. See [f_4837].
 
 ## Research Notes
 

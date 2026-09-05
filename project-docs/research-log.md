@@ -4569,3 +4569,56 @@ the camp-committee report series to **1894**. And its readable sibling, the *Rep
 Committee, 1900*, has now been read in full and written into `founding-1894.md`: 45 boys, six tents,
 eleven wet days out of sixteen, a balance of $5.05, and a cook who was "disgustingly dirty in his
 work." `p_288` opened; both added to the `p_282` letter.
+
+## 2026-09-05 — p_405: the Ottawa YMCA 1893 claim, tested
+
+**Topic.** Charles Plewman's statement, printed December 1964, that "the Ottawa YMCA in 1893 ... began
+taking older boys to camp" — the last surviving pre-1894 rival after the Golden Lake 1884 claim
+dissolved. Never tested.
+
+**Surfaces searched.** Web search (four query shapes: Ottawa YMCA 1893 camp history, On-Da-Da-Waks
+founding, Ottawa YWCA 1893 Quyon, Marshall's Bay YMCA camp); the Internet Archive advanced-search API;
+Internet Archive item downloads; the project's own cached *Canadian Camping* run; the Internet Archive
+IIIF image service, for reading the printed page rather than its OCR.
+
+**Results.**
+
+1. **The 1893 minute is a YWCA minute.** The documentary half of the claim is Arnold Fraser's June 1954
+   profile of Ace Milks, in the cached *Canadian Camping* run, which says the origin of YMCA camping in
+   Ottawa is "somewhat lost in the mists of history" and that the first actual word of the camp that
+   became On-Da-Da-Waks is a minute of an Ottawa **Y.W.C.A.** Board meeting recording a camp held in
+   1893 across from Quyon. A W and an M are exactly what OCR invents, so the page image was fetched —
+   leaf 12 of the Internet Archive scan, cropped to the line using the word coordinates in the item's
+   own `_djvu.xml` — and the printed text reads Y.W.C.A. The KB fact written from the OCR (f_2662) had
+   transcribed it correctly all along; the wiki article was the thing reading it as a YMCA record.
+   New fact f_4835.
+
+2. **The contemporaneous record is silent about everybody.** All five volumes of the *Year Book and
+   Official Roster of the YMCAs of North America*, 1893 through 1897, were downloaded, cached in
+   `sources/cache/ymca-yearbooks/`, and read: Ontario and Quebec narrative reports in full, each volume
+   searched whole for "camp" and "tent". No camp for Ottawa. No camp for Montreal either — including in
+   the 1895 volume, which reports on 1894, and the 1897 volume, which would be Kanawana's fourth season.
+   The volumes report boys' camps elsewhere quite happily (New York state 1893, Campobello Island 1895,
+   Northfield 1896-97, "leader of the Maritime camps" 1897), so the silence is about coverage, not about
+   the camps. **A null from a source that would not have recorded the thing anyway is a fact about the
+   source**, and this one cannot be used against Ottawa 1893 without also being used against
+   Kanawana 1894. New fact f_4836. Five new source records.
+
+3. **Byproduct: Charles Cushing, dated.** The same volumes list "Quebec — CHARLES CUSHING, Montreal" as
+   the International Committee's Corresponding Member for the province in 1893, 1894 and 1895; he signs
+   Quebec's annual report in 1893 and 1895, and by 1897 the office is William Tees's. The OCR reads
+   GUSHING in two volumes, so the 1895 signature was checked against the page image (leaf 0072) and
+   reads CUSHING; the 1894 roster prints it plainly. First dated YMCA office this project has for any
+   Charles Cushing — written into `cushing-family.md` with the explicit caveat that three appearances of
+   a common name in one city are three appearances of a common name. New fact f_4837.
+
+**Left open, and why.** Two routes remain, both offline and both named in the article's Open Question 7:
+the Ottawa YMCA's own annual reports of the 1890s, and the Ottawa YWCA minute book Fraser was reading in
+1954. Ottawa's own Y and the City of Ottawa Archives are where to ask. Queued as p_419.
+
+**Method note worth keeping.** Reading the page image instead of the OCR cost about six tool calls and
+changed the reading of the evidence twice in one session — Y.W.C.A. confirmed, GUSHING refuted. The
+route: fetch the item's `_djvu.xml`, find the word's coordinates and its leaf, then either the IIIF
+image API (`/max/0/default.jpg`, not `/full/`) or `archive.org/download/<id>/page/n<leaf>_w2560.jpg`,
+remembering that DjVu y-coordinates count from the bottom and that the `page/nN` endpoint can be offset
+by one from the djvu leaf number.

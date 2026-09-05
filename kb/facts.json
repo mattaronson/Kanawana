@@ -1,8 +1,8 @@
 {
-  "version": "6.26",
-  "kb_version": "6.26",
+  "version": "6.27",
+  "kb_version": "6.27",
   "migrated_from": "3.3",
-  "fact_count": 4796,
+  "fact_count": 4799,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -84531,7 +84531,7 @@
     },
     {
       "fact_id": "f_4756",
-      "claim": "With the Golden Lake 1884 claim resolved as an artefact, the surviving pre-1894 rival to Kanawana from the Ottawa YMCA is 1893 -- the date Charles Plewman, who directed for the Ottawa Y himself, gives in December 1964: \"When the Ottawa YMCA in 1893, and Camp Temagami in 1900, began taking older boys to camp, they were really breaking new ground.\" That is one year before Kanawana's first season and remains untested.",
+      "claim": "With the Golden Lake 1884 claim resolved as an artefact, the surviving pre-1894 rival to Kanawana from the Ottawa YMCA is 1893 -- the date Charles Plewman, who directed for the Ottawa Y himself, gives in December 1964: \"When the Ottawa YMCA in 1893, and Camp Temagami in 1900, began taking older boys to camp, they were really breaking new ground.\" That is one year before Kanawana's first season and remains untested. [AMENDED 2026-09-05: it has now been tested (p_405). The claim is not withdrawn -- 1893 is still the surviving pre-1894 Ottawa date -- but the tail of this fact, 'remains untested', is no longer true, and what the test found weakens the claim: the documentary half of it is an Ottawa YWCA board minute rather than a YMCA record (f_4835), and the North American Year Books of 1893-1897 record no camp for Ottawa, nor for Montreal, which is why that null settles nothing either way (f_4836).]",
       "category": "camping_movement",
       "entities": [
         "Charles Plewman",
@@ -85956,6 +85956,73 @@
       "conflicts_with": [],
       "added_version": "6.26",
       "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4835",
+      "claim": "THE OTTAWA 1893 DATUM IS A YWCA BOARD MINUTE, AND THE PAGE IMAGE CONFIRMS IT. The documentary half of the Ottawa 1893 claim comes from Arnold Fraser's June 1954 Personality profile of Ace Milks, which states: \"the origin of Y.M.C.A. camping in Ottawa is somewhat lost in the mists of history. The first actual word of the camp, which was to become Camp On-Da-Da-Waks, is to be found in the minutes of an Ottawa Y.W.C.A. Board meeting. It states that a camp had been held in 1893 on the Ottawa River across from Quyon, Quebec.\" The W was verified against the page image (Internet Archive scan of Canadian Camping Vol. 6 No. 3, leaf 0012, region around the printed line) and is not an OCR error: the printed text reads Y.W.C.A. So the one piece of PAPER behind Ottawa 1893 is a minute of the Ottawa YWCA recording that a camp was held, not an Ottawa YMCA record, and Fraser -- who was writing the Ottawa Y camp's own history -- says plainly that its origins are lost. Fraser also records no continuity between that 1893 camp and the camp Milks knew: the next dated point is Marshall's Bay in 1907, fourteen years later, and the move to Golden Lake in 1908.",
+      "sources": [
+        "src_ia_canadian_camping_1954_06",
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "category": "camp_history",
+      "entities": [
+        "Ottawa YMCA",
+        "Ottawa YWCA",
+        "Camp On-Da-Da-Waks",
+        "Ace Milks",
+        "Arnold Fraser",
+        "Quyon"
+      ],
+      "date_ref": "1893",
+      "conflicts_with": [],
+      "added_version": "6.27",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4836",
+      "claim": "THE NORTH AMERICAN YMCA YEAR BOOKS OF 1893-1897 RECORD NO BOYS' CAMP FOR EITHER OTTAWA OR MONTREAL, AND THE SILENCE IS SYMMETRIC. All five volumes of the Year Book and Official Roster of the Young Men's Christian Associations of North America for 1893, 1894, 1895, 1896 and 1897 were downloaded, cached and searched whole for 'camp' and 'tent', with the Ontario and Quebec narrative reports read in full. The volumes DO report boys' camps where they existed: boys' summer camps in New York state (1893), a boys' camp at Campobello Island and boys' camps 'increasing' as a summer recreation (1895), an Association camp at Northfield, Massachusetts (1896, 1897), and a chairman of the Maritime boys' work committee who is also 'leader of the Maritime camps' (1897). Neither Ottawa nor Montreal appears in any of it. The Ontario report of 1893 speaks only of secretaries, Bible and training classes; the Quebec reports of 1893, 1895 and 1897 speak of secretaries, buildings, libraries and educational work. THIS CUTS BOTH WAYS AND IS THEREFORE NOT EVIDENCE AGAINST EITHER CAMP: the 1895 volume, reporting on the year 1894, does not mention Kanawana's own first season either, nor does the 1897 volume in what would be Kanawana's fourth. The Year Book is simply not a surface on which a Canadian association's summer camp was recorded in this period, so its silence about Ottawa 1893 is worth exactly as much as its silence about Kanawana 1894, which is nothing.",
+      "sources": [
+        "src_ymca_yearbook_1893",
+        "src_ymca_yearbook_1894",
+        "src_ymca_yearbook_1895",
+        "src_ymca_yearbook_1896",
+        "src_ymca_yearbook_1897"
+      ],
+      "confidence": "stated",
+      "category": "camp_history",
+      "entities": [
+        "Ottawa YMCA",
+        "YMCA of Montreal",
+        "Camp Kanawana",
+        "Year Book of the YMCAs of North America"
+      ],
+      "date_ref": "1893-1897",
+      "conflicts_with": [],
+      "added_version": "6.27",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4837",
+      "claim": "CHARLES CUSHING HELD A NAMED INTERNATIONAL YMCA OFFICE AT THE TIME KANAWANA WAS FOUNDED. The Year Book and Official Roster of the YMCAs of North America lists 'Quebec -- CHARLES CUSHING, Montreal' as the International Committee's Corresponding Member for the province in its 1893, 1894 and 1895 volumes, and he signs the province's annual narrative report in 1893 and 1895 -- the second of which reports on the year 1894, Kanawana's first season. By the 1897 volume the office is held by William Tees. The name was verified against the page image (1895 volume, leaf 0072) because the OCR of both the 1893 and 1895 volumes reads 'GUSHING'; the printed text reads CUSHING, and the 1894 roster prints it correctly in a line the OCR renders as 'Quebec CHARLES CUSHING Montreal'. This is a dated, documented YMCA office for a Charles Cushing of Montreal, alongside f_0434's notary (son of Lemuel Sr., active 1869-1910) and the Charles Cushing named in the Concordia fonds research reports (f_0385). It does NOT by itself establish that these are one man.",
+      "sources": [
+        "src_ymca_yearbook_1893",
+        "src_ymca_yearbook_1894",
+        "src_ymca_yearbook_1895",
+        "src_ymca_yearbook_1897"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Charles Cushing",
+        "William Tees",
+        "YMCA of Montreal",
+        "Cushing family"
+      ],
+      "date_ref": "1893-1897",
+      "conflicts_with": [],
+      "added_version": "6.27",
+      "added_by": "ralph_loop"
     }
   ]
 }

@@ -5079,9 +5079,9 @@
       "priority_id": "p_405",
       "rank": 404,
       "type": "RESEARCH",
-      "description": "TEST THE OTTAWA YMCA 1893 CLAIM AGAINST OTTAWA YMCA RECORDS. With Golden Lake 1884 resolved as an artefact of Sumner Dudley's American date, the surviving pre-Kanawana rival is Charles Plewman's statement that 'the Ottawa YMCA in 1893... began taking older boys to camp'. That is one year before Kanawana's first season and comes from a man who directed for the Ottawa Y himself. It has never been tested. Look for Ottawa YMCA annual reports of the 1890s, the 1893 board minute referenced in the Ace Milks profile, and any Camp On-Da-Da-Waks history. If 1893 holds, Kanawana is fourth rather than third among Canadian camps by founding date.",
+      "description": "TEST THE OTTAWA YMCA 1893 CLAIM AGAINST OTTAWA YMCA RECORDS. With Golden Lake 1884 resolved as an artefact of Sumner Dudley's American date, the surviving pre-Kanawana rival is Charles Plewman's statement that 'the Ottawa YMCA in 1893... began taking older boys to camp'. That is one year before Kanawana's first season and comes from a man who directed for the Ottawa Y himself. It has never been tested. Look for Ottawa YMCA annual reports of the 1890s, the 1893 board minute referenced in the Ace Milks profile, and any Camp On-Da-Da-Waks history. If 1893 holds, Kanawana is fourth rather than third among Canadian camps by founding date. | COMPLETED 2026-09-05. Tested on two surfaces and narrowed rather than closed. (1) The documentary half of the claim is an Ottawa YWCA board minute, not a YMCA record: Fraser's June 1954 profile says the origin of YMCA camping in Ottawa is 'somewhat lost in the mists of history' and that the first actual word of the camp that became On-Da-Da-Waks is a minute of an Ottawa Y.W.C.A. Board meeting recording a camp held in 1893 across from Quyon. Because OCR invents W/M, the page image was read directly (IA scan, leaf 12, cropped by the djvu word coordinates) and the printed text reads Y.W.C.A. f_2662 had it right; the wiki article was reading it as a YMCA record. New fact f_4835. (2) The Year Books of the YMCAs of North America 1893-1897, all five downloaded, cached in sources/cache/ymca-yearbooks/ and read (Ontario and Quebec reports in full, whole-volume search for 'camp' and 'tent'), record no camp for Ottawa -- and none for Montreal either, including the 1895 volume that reports on 1894. They report boys' camps elsewhere, so the silence is about coverage. That null cannot be used against Ottawa 1893 without also being used against Kanawana 1894. New fact f_4836, five new source records. (3) Byproduct: Charles Cushing was the International Committee's Corresponding Member for Quebec in 1893, 1894 and 1895 and signed the province's report in 1893 and 1895 -- name verified against the page image because the OCR reads GUSHING. New fact f_4837, written into cushing-family.md. f_4756 amended in place: not withdrawn, but its 'remains untested' tail is no longer true. What remains is offline and is now p_419.",
       "weight": 9,
-      "status": "pending",
+      "status": "completed",
       "created": "2026-09-05",
       "source": "expanded oldest-camp research and the inter-camp contact inquiry, 2026-09-05",
       "blocked_on": null
@@ -5234,6 +5234,17 @@
       "created": "2026-09-05",
       "source": "operator-supplied photograph of the framed Trudeau letter, 2026-09-05",
       "blocked_on": null
+    },
+    {
+      "priority_id": "p_419",
+      "rank": 418,
+      "type": "RESEARCH",
+      "description": "THE TWO OFFLINE ROUTES TO OTTAWA 1893, THE ONLY ONES LEFT. p_405 tested the claim on every surface reachable from here and narrowed it: what is left is one man's recollection (Plewman, December 1964) plus a minute of an Ottawa YWCA board meeting, quoted second-hand in 1954, about a camp whose sponsor is not stated (f_4835). Neither has been seen. TWO DOCUMENTS WOULD SETTLE IT. (1) The Ottawa YMCA's own annual reports of the 1890s -- not digitized anywhere this project can reach; the YMCA-YWCA of the National Capital Region and the City of Ottawa Archives (which holds Ottawa Y material) are the places to ask. (2) The Ottawa YWCA minute book Arnold Fraser was reading in 1954, which is the actual paper behind the 1893 date. NOTE THE SHAPE OF THE QUESTION: if the 1893 camp was a YWCA camp, it is not a rival to Kanawana at all on the YMCA-camp comparison, and Plewman's sentence stands alone. If it was a joint or YMCA camp that the YWCA board happened to minute, Ottawa is one year ahead. Do not record either reading without the document. NEEDS A HUMAN or a written enquiry -- this is an archive request, not a search.",
+      "weight": 7,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "p_405 test of the Ottawa YMCA 1893 claim, 2026-09-05",
+      "blocked_on": "offline archives; needs a written enquiry to Ottawa"
     }
   ],
   "queue_ordering": {

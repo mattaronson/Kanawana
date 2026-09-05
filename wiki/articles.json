@@ -2575,6 +2575,12 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 4,
@@ -2598,6 +2604,11 @@
         "f_0483",
         "f_0484",
         "f_0485",
+        "f_1160",
+        "f_1161",
+        "f_1162",
+        "f_1163",
+        "f_1164",
         "f_1171",
         "f_1172",
         "f_1173",
@@ -2605,11 +2616,6 @@
         "f_1175",
         "f_1176",
         "f_1177",
-        "f_1160",
-        "f_1161",
-        "f_1162",
-        "f_1163",
-        "f_1164",
         "f_1511",
         "f_1512",
         "f_1513",
@@ -2624,11 +2630,16 @@
         "f_1779",
         "f_1909",
         "f_1910",
-        "f_1911"
+        "f_1911",
+        "f_4837"
       ],
       "sources_cited": [
         "src_familysearch_cushing_supp",
-        "src_mcmorris_thesis"
+        "src_mcmorris_thesis",
+        "src_ymca_yearbook_1893",
+        "src_ymca_yearbook_1894",
+        "src_ymca_yearbook_1895",
+        "src_ymca_yearbook_1897"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -2640,7 +2651,7 @@
         "founding-1894"
       ],
       "file_id": null,
-      "word_count": 2613,
+      "word_count": 2885,
       "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header, moved the c_019 contradiction/editorial-resolution narrative into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -10147,9 +10158,15 @@
           "at": "2026-09-05T16:19:54Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0018",
         "f_0224",
@@ -10209,7 +10226,10 @@
         "f_4754",
         "f_4755",
         "f_4756",
-        "f_4776"
+        "f_4776",
+        "f_4835",
+        "f_4836",
+        "f_4837"
       ],
       "sources_cited": [
         "src_cache_sgw_ymca_annual_report_1894_1895",
@@ -10217,12 +10237,18 @@
         "src_cbc_bigcove_pandemic_summers",
         "src_cbc_wong_camps_2021",
         "src_concordia_fonds",
+        "src_ia_canadian_camping_1954_06",
         "src_ia_canadian_camping_collection",
         "src_ia_ymca_montreal_fonds_collection",
         "src_mcmorris_thesis",
         "src_newspapers_gazette_1918",
         "src_rky_camp",
         "src_ymca_halifax_165th_yearbook",
+        "src_ymca_yearbook_1893",
+        "src_ymca_yearbook_1894",
+        "src_ymca_yearbook_1895",
+        "src_ymca_yearbook_1896",
+        "src_ymca_yearbook_1897",
         "src_ymcahfx_bigcove_page",
         "src_ymf_ymca_impact_report_2022_eng",
         "src_ywinnipeg_camp_stephens"
@@ -10238,7 +10264,7 @@
         "connections/related-camps/quebec-camp-landscape"
       ],
       "file_id": null,
-      "word_count": 5170
+      "word_count": 5903
     },
     {
       "article_id": "points-of-contact",
