@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 4141,
+  "fact_count": 4168,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -73601,6 +73601,502 @@
         "John Latimer"
       ],
       "date_ref": "1981-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4180",
+      "issue": 138,
+      "claim": "Larry Bagnell's \"White Water Canoeing — Should Camps Offer White Water Canoeing?\", summarising an OCA conference session and printed in June 1981, opens on the frame: \"The decision one makes regarding what high risk activities and styles he adopts for himself are entirely different from those he makes for someone else's children under his guardianship.\" Bagnell was then Director of Algonquin Experience, a programme for disadvantaged youth run by the Toronto YMCA and the Ontario Ministry of Natural Resources, and the CCA's Liaison with National Agencies.",
+      "category": "canoe_trips",
+      "entities": [
+        "Larry Bagnell",
+        "YMCA of Metropolitan Toronto",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1981-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4181",
+      "issue": 138,
+      "claim": "Larry Bagnell set out in June 1981 the five precautions taken at the National Canoe School \"where some of the best canoeists in the country are taught to be instructors\": a day of specialised-stroke practice on the lake; capsize and rescue drill in safe slow-moving water; \"proper life jackets and helmets... worn at all times\"; long bow and stern painters on every canoe; and rescue personnel with throwing lines on both banks with rescue canoes and crews above and below the rapids. \"Camps should not attempt white water instruction with any less than the above.\"",
+      "category": "canoe_trips",
+      "entities": [
+        "Larry Bagnell",
+        "Canadian Recreational Canoeing Association"
+      ],
+      "date_ref": "1981-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4182",
+      "issue": 138,
+      "claim": "Larry Bagnell argued in 1981 that white-water safety is a whole-camp matter rather than a specialist one: \"It does no good if a camper from a capsized canoe is drifting or swimming toward a strainer or souse hole if the guide is the only one who knows what a strainer or souse hole is.\" All staff and campers on any trip encountering white water, \"whether planning to shoot or not,\" were to be trained to detect and avoid fourteen named dangers, of which he calls the foot-trap and strainers \"the greatest killers.\"",
+      "category": "canoe_trips",
+      "entities": [
+        "Larry Bagnell"
+      ],
+      "date_ref": "1981-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4183",
+      "issue": 138,
+      "claim": "Larry Bagnell's closing image, June 1981: \"A wild river is like a wild animal — indecipherable unless one knows it and what to look for... The largest standing waves in the world (15-20 feet high in the Ottawa River) could be harmless, while a tiny, one foot dam on the Humber River can be a killer, constantly taking lives... A river alone cannot create a tragedy... but tragedy may await the laughing, naive and unaware campers and staff innocently floating along.\"",
+      "category": "canoe_trips",
+      "entities": [
+        "Larry Bagnell"
+      ],
+      "date_ref": "1981-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4184",
+      "issue": 138,
+      "claim": "The back cover of Canadian Camping, June 1981, prints \"legend of the white canoe\" unattributed and uncommented — the Victorian Niagara tourist legend of an annual human sacrifice \"paddled over the terrible cliff by the fairest girl of the tribe who had just arrived at the age of womanhood.\" It is a nineteenth-century white invention of a custom no Haudenosaunee nation practised, and it appears two months after the April 1981 prayer \"translated from the Sioux.\" Both registers were live in the same volume.",
+      "category": "context",
+      "entities": [
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1981-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4185",
+      "issue": 138,
+      "claim": "Jocelyn Palm was installed as Canadian Camping Association President at the annual meeting held in Moncton, New Brunswick, 21-24 May 1981, in conjunction with the New Brunswick Camping Association conference. Her record: staff member at Camp Memphremagog, Glen Bernard Camp and the Ontario Camp Leadership Centre, now owner-director of Glen Bernard; President of the Ontario Camping Association 1977-1979; \"Managing Director of 'Canadian Camping' Magazine from 1974 to 1977\"; and Executive Director of the Royal Life Saving Society of Canada.",
+      "category": "biography",
+      "entities": [
+        "Jocelyn Palm",
+        "Glen Bernard Camp",
+        "Camp Memphremagog",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1981-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4186",
+      "issue": 138,
+      "claim": "The Canadian Camping Association's 1981-1983 executive: President Jocelyn Palm; Past President Cliff Labbett; Eastern Vice-President George Matthews; Central Vice-President Jane McCutcheon, the office Derek Walsh had held; Western Vice-President Gary Luthy; Secretary Jan James; Treasurer George Ross. They were to implement \"the Action Plan adopted by the C.C.A./A.C.C. Board last January\" — a January 1981 national planning document named here and nowhere else in the run.",
+      "category": "camping_movement",
+      "entities": [
+        "Jocelyn Palm",
+        "Jane McCutcheon",
+        "Derek Walsh",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1981-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4187",
+      "issue": 138,
+      "claim": "The Canadian Recreational Canoeing Association's revised Standards Manual, announced in June 1981, sets out a five-level national canoeing award scheme: \"Revised Standards Tests of Achievement in Canoeing\" including binder $10.00, checklists at 50 for 10 cents each down to 500 for 5 cents each, and \"Award Cards, Levels 1, 2, 3, 4, 5, each 5 cents\" — with \"All Standards, Checklists and Awards are available in both French and English.\" A Quebec camp could therefore have issued CRCA award cards, and any Kanawana canoeing certificate of this period should be checked against these five levels before being read as a camp-invented award.",
+      "category": "programs",
+      "entities": [
+        "Canadian Recreational Canoeing Association",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1981-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4188",
+      "issue": 138,
+      "claim": "The Canadian Camping Association launched its \"HOW TO\" monograph series by June 1981 with two titles in both languages: \"How To Promote Your Camp\" / \"Comment promouvir votre camp vacances\" and \"Composting for Pleasure and Profit\" / \"Le compostage pour le plaisir et la gain,\" at 75 cents each or both with a CCA three-ring binder for $4.00. The May 1981 issue shows the series was still soliciting authors in April, so Derek Walsh's pamphlet was written and printed inside about two months, by the man who had just finished four years as the association's national Public Relations chairman.",
+      "category": "sources",
+      "entities": [
+        "Derek Walsh",
+        "Sam Hambly",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1981-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4189",
+      "issue": 138,
+      "claim": "Mary I. Casey's The Nurse and the Health Program at Camp appeared in a revised and expanded edition of 101 pages at $6.50 in 1981. The read first met the book in 1978 as a CCA publication at $2.00; at fifty-one pages more and three times the price the 1981 edition is a different book, and it is the one to seek for any account of what a camp infirmary was expected to keep and record.",
+      "category": "sources",
+      "entities": [
+        "Mary I. Casey",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1981",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4190",
+      "issue": 138,
+      "claim": "Rev. E. J. Dinsley's letter to CCA Executive Director Marjorie Booth, condensed in June 1981, is the only description of organised camping in the territories in this run: \"I understood that there was some evidence of a Yukon Camping Association several years ago and that C.C.A. records of 1972 mentioned a Mr. W.A. Farley of Yellowknife, N.W.T. in connection with a Territorial Youth Camping Association. Both of these are now defunct.\" He found an inter-denominational church camp at Braeburn Lake outside Whitehorse, thirteen years old; a resident camp at Marsh Lake; and a Christian camp at Watson Lake — with his own caveat, \"I would suggest that the above list would include one half or two-thirds of the resident camps in the Yukon.\"",
+      "category": "camping_movement",
+      "entities": [
+        "E. J. Dinsley",
+        "Marjorie Booth",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1981-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4191",
+      "issue": 138,
+      "claim": "The 1981 National Wilderness Travel Leadership School was held at the Yamnuska Centre, \"the Calgary YMCA's outdoor recreation headquarters,\" about two hours from Calgary, with twelve participants from Manitoba, Saskatchewan, Ontario, Quebec, New Brunswick, Newfoundland and Nova Scotia. The programme ran triangulation and mountain navigation, emergency response and \"the generic leadership model that provided the basis for the whole course,\" an ascent of Mount Yamnuska, sessions on tripping nutrition and thermal balance, formal one-to-one instructor-participant meetings, and a four-day hike with participants taking turns leading, one-to-one evaluation of each day leader, and simulated accidents staged to test emergency response.",
+      "category": "camping_movement",
+      "entities": [
+        "Yamnuska Centre",
+        "YMCA",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1981",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4192",
+      "issue": 138,
+      "claim": "The Association for Experiential Education held Experience '81 at Harbourfront, Toronto, 30 September to 3 October 1981, with pre-conference programmes across Ontario from 27 September — the American association's conference coming to Canada.",
+      "category": "camping_movement",
+      "entities": [
+        "Association for Experiential Education"
+      ],
+      "date_ref": "1981-09-30",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4193",
+      "issue": 138,
+      "claim": "The mailing label on the Internet Archive copy of Canadian Camping Vol. 33 No. 4 (June 1981) reads \"Miss Marion Babcock, Newmarket\" — a third deposit hand in the cached run, after Trent University and Camp Richildaca.",
+      "category": "methodology",
+      "entities": [
+        "Canadian Camping (magazine)",
+        "Trent University",
+        "Camp Richildaca"
+      ],
+      "date_ref": "1981-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4194",
+      "issue": 139,
+      "claim": "Canadian Camping's national camping statistics for 1980-81, printed in October 1981, give by province: Newfoundland 29 camps, 12,974 and 353; Nova Scotia 37, 7,704 and 1,078; New Brunswick 21, 35,764 and 4,497; QUEBEC 125, 63,243 and 5,694; Ontario 197, 91,281 and 13,339; Manitoba 33, 10,047 and 2,228; Saskatchewan 19, 3,677 and 422; Alberta 62, 60,804 and 8,356; British Columbia 51, 19,459 and 1,723; total 574 camps, 313,953 and 37,690. The column headings are set in rotated type and are illegible in this scan, which is a defect of the copy and not an absence in the source.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1981-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4195",
+      "issue": 139,
+      "claim": "Quebec had about 125 organized camps in 1980-81 and Kanawana was one of them, in a national field of about 574. The second and third columns of the 1980-81 table total 313,953 and 37,690, which sit in line with the association's 1976 figures of 260,000 campers and 32,000 staff, so campers and staff is the natural reading — an inference from the totals, not from a heading, and a clean copy of the page should be obtained before the columns are labelled in any article.",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Kanawana",
+        "Quebec Camping Association",
+        "Canadian Camping Association"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1981",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4196",
+      "issue": 139,
+      "claim": "Rosaire Corbin, directeur general of the Association des Camps du Quebec, explained in October 1981 why the national statistics table existed: \"Quoi de plus difficile d'entamer une discussion ou une negociation lorsqu'aux premieres questions posees: 'qui representez-vous?, combien d'enfants accueillez-vous dans vos camps? combien de personnes engagez-vous?' il faut faire preceder les reponses des mots 'a peu pres'.\" He notes the figures \"ont la valeur objective de savants calculs d'extrapolation effectues afin de remedier aux 45% des non-repondants\" — extrapolations covering a 45% non-response rate, which must travel with any number taken from the table.",
+      "category": "camping_movement",
+      "entities": [
+        "Rosaire Corbin",
+        "Association des camps du Quebec",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1981-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4197",
+      "issue": 139,
+      "claim": "The Canadian Camping Association's 1981 catalogue names the authors of its HOW TO monographs: \"'How to Promote Your Camp' — D. Walsh, CCA/ACC, 1981\" and \"'Comment promouvir votre camp vacances' — D. Walsh, CCA/ACC, 1981,\" each asterisked as a Canadian book at 75 cents, with the companion \"'Composting for Pleasure and Profit' — S. Hambly.\" This is the first place in the run where Derek Walsh's authorship is stated as authorship rather than inferred from the committee he chaired.",
+      "category": "people",
+      "entities": [
+        "Derek Walsh",
+        "Sam Hambly",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1981-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4198",
+      "issue": 139,
+      "claim": "Rosaire Corbin is named as \"directeur general — A.C.Q.\" in October 1981, over a signed special report — the Association des Camps du Quebec's chief executive, and the same Corbin who translated Kirk Wipper's Woodsmanship Leaders' Guide into French and appears in the QCA directory listings of 1975 and 1978 as the French section's contact at 952 rue Cherrier.",
+      "category": "camping_movement",
+      "entities": [
+        "Rosaire Corbin",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1981-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4199",
+      "issue": 139,
+      "claim": "The National Survival Institute's fact sheet \"Preservation of Wildlife and its Habitat,\" reprinted in Canadian Camping in October 1981, states that \"we are destroying wildlife, and this deprives native people of their traditional way of life,\" and gives specific Canadian cases: in Ontario alone \"some 200 lakes are already 'dead' and 48,000 may be lost by the turn of the century\"; \"Between 1962 and 1970 Dryden Chemicals Ltd. dumped nearly 10,000 kilograms (20,000 lbs) of mercury into the English-Wabigoon River system... making its fish — the staple diet of the Indian villages of White Dog and Grassy Narrows — unsafe to eat\"; the 1979 federal regulation allowing Amax of Canada to dump molybdenum tailings at \"concentrations 16,000 times higher than allowed by the Fisheries Act\" into \"the traditional fishing ground of the Nishga Indians\"; the Dempster Highway bisecting the Porcupine caribou range; and the George River herd endangered by excessive hunting in Northern Quebec.",
+      "category": "context",
+      "entities": [
+        "National Survival Institute",
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1981-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4200",
+      "issue": 139,
+      "claim": "The same magazine that filled its June 1981 back cover with an invented Victorian legend of an Indian maiden sacrificed at Niagara printed, five months later, an account of mercury poisoning at Grassy Narrows and tailings dumped on Nishga fishing grounds. Both registers were live in the same volume, addressed to the same readership of camp directors.",
+      "category": "context",
+      "entities": [
+        "Canadian Camping (magazine)"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1981",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4201",
+      "issue": 139,
+      "claim": "Three of the Canadian Camping Association's small list of asterisked Canadian titles have Quebec authorship: Robert Wilkinson's textbook Camps, Their Planning and Management; Derek Walsh's How to Promote Your Camp; and Walter Mingie's Outdoor Education — Guidelines for Camps (17 pages, CCA, revised 1981, $1.00). Mingie is recorded in this run in June 1961 as \"Director, Canoe Trips and Intermediate Section, Camp Nominingue\" — F. M. Van Wagner's camp, and Wilkinson's. The association whose publications list looks overwhelmingly American was drawing more of its own writing from Quebec than the run's Ontario centre of gravity suggests.",
+      "category": "camping_movement",
+      "entities": [
+        "Robert E. Wilkinson",
+        "Derek Walsh",
+        "Walter Mingie",
+        "Camp Nominingue",
+        "Canadian Camping Association"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1981-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4202",
+      "issue": 139,
+      "claim": "ACA health forms sold through the CCA doubled in price from 5 to 10 cents each between December 1980 and October 1981, still with the note \"these forms are not to be reproduced by any other agency,\" and the list is unchanged: Accident Report Form; Health Record Card; Camp Health Record Form; Girl's Health Examination Card; Boy's Health Examination Card; Camp Health Examination Form for Children, Youth & Adults; Camp Staff Application Form — with the ACA Health Record Log, \"a stitched log book with numbered pages (8.5 by 11), space for 25 entries per,\" at $3.25.",
+      "category": "archives",
+      "entities": [
+        "Canadian Camping Association",
+        "American Camping Association"
+      ],
+      "date_ref": "1981-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4203",
+      "issue": 139,
+      "claim": "Robert Wilkinson's Camps, Their Planning and Management was listed at $23.50 with a \"special price of $19.95 until December 31, 1981\" — so a copy inscribed or invoiced at $19.95 is from 1981.",
+      "category": "sources",
+      "entities": [
+        "Robert E. Wilkinson"
+      ],
+      "date_ref": "1981-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4204",
+      "issue": 139,
+      "claim": "New Canadian camping titles of 1981 in the CCA catalogue: Jack Pearse, Sing (One More Time) with Jack Pearse, Camp Tawingo, 1981 — \"53 great 'singing songs' with music,\" a companion to the 31 songs of the 1980 volume; Jack Pearse, Clouds on the Clothesline and Other Games, 225 pages, Tawingo, 1981, 201 games; and Laurie Macintosh, The Kitchen Makes the Camp Go 'Round, 88 pages, 1981 — \"lots of good recipes in quantities to serve 50 campers, by a camp cook.\"",
+      "category": "sources",
+      "entities": [
+        "Jack Pearse",
+        "Camp Tawingo",
+        "Laurie Macintosh"
+      ],
+      "date_ref": "1981",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4205",
+      "issue": 139,
+      "claim": "The Canadian Camping Association sold Margaret Bemister's Thirty Indian Legends of Canada to camp directors in 1981 — 153 pages, J.J. Douglas, 1973, $5.95, \"Mythology of Canada's Indians, a rich source of story and legend,\" described as \"a reset, handsomely illustrated edition of Ms Bemister's collection,\" first published in 1912. The campfire-story supply line was a commercial one, and it ran through the association's own bookstore.",
+      "category": "context",
+      "entities": [
+        "Margaret Bemister",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1981-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4206",
+      "issue": 139,
+      "claim": "The Canadian Camping Association's 1981 catalogue restates its founding year as 1936 in both languages — \"The C.C.A. was founded in 1936 as a non-profit organization\" / \"creee en 1936\" — a further printing of the date against the competing 1946 and 1949 claims. Members of the Canadian Camping Association and Christian Camping International were entitled to member registration fees at the American Camping Association's 1982 national convention, a reciprocal arrangement that made the American convention affordable to any accredited Canadian camp's director.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "American Camping Association"
+      ],
+      "date_ref": "1981-10",
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
