@@ -91,9 +91,9 @@
 {"n": 91, "title": "## 91. Vol. 23 No. 4, Summer 1971 — `canadiancampingmagazine_vol23_no4_1971summer.txt`", "chars": 23324, "status": "extracted", "facts": 26}
 {"n": 92, "title": "## 92. Vol. 24 No. 1, Fall 1971 — `canadiancampingmagazine_vol24_no1_1971fall.txt`", "chars": 24457, "status": "extracted", "facts": 32}
 {"n": 93, "title": "## 93. Vol. 24 No. 2, Winter 1972 — `canadiancampingmagazine_vol24_no2_1972winter.txt`", "chars": 22997, "status": "extracted", "facts": 25}
-{"n": 94, "title": "## 94 — Vol. 24 No. 3, Spring 1972", "chars": 18426, "status": "pending", "facts": 0}
-{"n": 95, "title": "## 95 — Vol. 24 No. 4, Summer 1972", "chars": 17822, "status": "pending", "facts": 0}
-{"n": 96, "title": "## 96 — Vol. 25 No. 1, Fall 1972", "chars": 17247, "status": "pending", "facts": 0}
+{"n": 94, "title": "## 94 — Vol. 24 No. 3, Spring 1972", "chars": 18426, "status": "extracted", "facts": 20}
+{"n": 95, "title": "## 95 — Vol. 24 No. 4, Summer 1972", "chars": 17822, "status": "extracted", "facts": 20}
+{"n": 96, "title": "## 96 — Vol. 25 No. 1, Fall 1972", "chars": 17247, "status": "extracted", "facts": 22}
 {"n": 97, "title": "## 97 — Vol. 25 No. 2, Winter 1973", "chars": 21747, "status": "pending", "facts": 0}
 {"n": 98, "title": "## 98 — Vol. 25 No. 3, Spring 1973", "chars": 18556, "status": "pending", "facts": 0}
 {"n": 99, "title": "## 99 — Vol. 25 No. 4, Summer 1973", "chars": 23021, "status": "pending", "facts": 0}

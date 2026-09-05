@@ -662,6 +662,15 @@
       "flagged_at": "2026-09-05",
       "status": "open",
       "notes": "Opened during the KB extraction pass over the word-for-word read of Canadian Camping (issues 92-93). Both claims are in kb/facts.json, the later one with confidence 'disputed'. Resolution would need the Society's own minutes, which by Labbett's account are held with its secretary (David Palter in 1971), or the OCA archives at Trent."
+    },
+    {
+      "conflict_id": "c_038",
+      "entity": "Hebertisme (origin of Georges Hebert's method)",
+      "description": "TWO ACCOUNTS IN CANADIAN CAMPING, THREE YEARS APART. (a) Claude Cousineau, Vol. 21 (1969): a pre-war methode naturelle, demonstrated in 1913, carried to Quebec after the Second World War by l'abbe Raoul Cloutier and Gauvreau, with Camp Ecole Trois-Saumons as the point of entry to North America. (b) Walter Mingie, Director of Camp Carowanis, Vol. 24 No. 3 (Spring 1972): Hebert \"was charged with the responsibility of training or conditioning the men of France's navy during World War I... giving the men three week's training on an obstacle course in the forests of France.\" Two documented sources in the same magazine disagreeing about when and for whom the method was devised. Not a Kanawana fact, but hebertisme is the named ancestor of the rope- and obstacle-course programming that Quebec camps ran, and the project should not smooth the two accounts into one.",
+      "facts": [],
+      "flagged_at": "2026-09-05",
+      "status": "open",
+      "notes": "Opened during the KB extraction pass over the word-for-word read of Canadian Camping (issues 94-96). Both claims are in kb/facts.json, the later with confidence 'disputed'. Resolution needs a source outside this magazine: Hebert's own published works, or French military physical-training records."
     }
   ]
 }
