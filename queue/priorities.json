@@ -4425,6 +4425,28 @@
       "created": "2026-09-05",
       "source": "word-for-word read of Canadian Camping, issues 75-77, converted to KB facts",
       "blocked_on": null
+    },
+    {
+      "priority_id": "p_346",
+      "rank": 345,
+      "type": "RESEARCH",
+      "description": "RECOVER THE QUEBEC CAMP ACCREDITATION STANDARDS THROUGH THEIR FRENCH TRANSLATION. Lionel Perras, president of l'Association des camps du Quebec, writing in Canadian Camping Vol. 22 No. 3 (April 1970): \"L'Association fournit aux camps avec le texte des normes actuelles dernierement traduites de la QCA\" -- the ACQ's standards are a recent translation of the Quebec Camping Association's. So if the English QCA text Kanawana was measured against is lost, the French version recovers its content. Perras also points directly at where to look: accreditation \"fut l'une des premieres preoccupations des fondateurs de l'ACQ en 1958... il suffit de relire les proces-verbaux des assemblees\" -- the ACQ's own minutes from 1958 onward. His article sets out the eleven characteristics assessed and the six-heading self-critique in full, so even without the standards text the shape of a camp's accreditation file is now known: administration (including \"Y a-t-il un Coutumier du camp?\", a book of the camp's own customs, required by the accreditation process); programme; resources; la vie des campeurs; finances; and hygiene, health and safety. He refers besides to \"des camps visites au cours de l'ete 1966\" -- a second Quebec visiting round, the year after Murray McFarlane's twenty-seven-camp round of 1965 (p_339). Chase both rounds together. NOTE ALSO the mandatory national standards implemented in 1970 under Ron Johnstone as National Chairman of Standards, \"Over 20 items are mandatory for a Camp to be an accredited member\" -- which is the regime Kanawana operated under from that year.",
+      "weight": 9,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 84-86, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_347",
+      "rank": 346,
+      "type": "RESEARCH",
+      "description": "READ THE FRENCH-LANGUAGE CONTENT OF CANADIAN CAMPING FROM APRIL 1970. The magazine went bilingual with Vol. 22 No. 3 (April 1970): cover, masthead, the Prime Minister's editorial and Elsie Palter's article all in both languages, and Lionel Perras contributing a full-length article IN FRENCH ONLY. That is a fact about the source as much as about the movement: from April 1970 the run carries French-language material that an English-only search would never surface, and the word-for-word read has been catching it only because it is a word-for-word read. When the remaining issues are extracted, the French content needs the same attention as the English -- and any earlier pass over this corpus that used English keyword search should be assumed to have missed it entirely. The provincial offices list from that issue gives two addresses to chase separately: Quebec Camping Association, 2233 Belgrave Ave., Montreal 261, and L'Association des camps de Quebec, 952 Cherrier Ave., Montreal.",
+      "weight": 6,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 84-86, converted to KB facts",
+      "blocked_on": null
     }
   ],
   "queue_ordering": {
