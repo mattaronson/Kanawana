@@ -27352,3 +27352,135 @@ planned its **first national camp since 1956**, at Camp Brereton, Manitoba, **16
 "To Youth", close the issue: "When the atom re-employed / Shall build the bridge of peace." **No mailing
 label is legible on this copy** — recorded as an explicit null, the deposit-hand series having run to
 eight.
+
+## 155 — Vol. 37 No. 2, Summer 1985
+
+Twenty pages. Contents page checked; every item read: four Letters to the Editor; the bilingual
+Editorial, "Here's to You(th)!!" / "Aux jeunes, à votre santé"; the masthead; **Janet Adamson**'s first
+President's Message in both languages; The Camping Advisor (two questions); the first "**Camping… A
+Retrospective**" — Barry Lowes's address to the Ontario Camping Association's annual banquet of **19
+March 1966**; **Gail McClintock, "The Challenge of Camping"**; **Madelene Ferguson Allen, "The Kid Who
+Doesn't Speak English… How Do We Help?"** in English and in full French translation; and Jay Haddad's
+"Camping… The Last Word!"
+
+**★★★★ A CORRECTION TO MY OWN WRITE-UP: KEN WILLIS IS OF MAGOG, QUEBEC — so Quebec never lost its
+national seat.** A letter in this issue is signed "**Ken Willis, Magog, Quebec**." At issue 151 I wrote
+into `canadian-camping-movement.md` that Louis Jean's successor as Central Vice-President was "**Ken
+Willis** of Ontario," and at issue 149 that Quebec's seat "went vacant." **The province is my own
+inference and it is wrong.** The article's own earlier text should have caught it: Ken Willis is already
+recorded there as the man who **invited the CCA to hold its 1980 annual meeting in Quebec**. Correcting
+it changes the substance, not just a label:
+
+- Louis Jean resigned the Central Vice-Presidency in late 1983 on joining the ACQ's staff. The seat was
+  briefly vacant — the Winter 1984 issue says "a new vice president has not yet been named."
+- **It was then filled by another Quebecer.** So Quebec's representation on the national executive was
+  interrupted for a matter of months, not lost, and the picture of a province drifting out of national
+  affairs after 1983 — which the Bolton delegate list and the unused Consultant/Advisor seemed to
+  support — is **too strong as I wrote it**.
+- Willis was Central Vice-President when the French Language Committee reported through him in the 1983
+  annual report, which now reads differently: a Quebec vice-president reporting on the francophone
+  committee, not an Ontario one.
+
+**Corrected in place in `canadian-camping-movement.md`, and the surrounding claim about Quebec's
+withdrawal softened to what the evidence actually supports.**
+
+His letter also gives the **stated reason for the funding cut**, from someone who was in the room: "I was
+on the Board and Executive at the time discussions centred around what the Canadian Camping Magazine
+could do for the Association in its present financial crisis … **resultant upon Fitness Canada's thinking
+that camping is not within their jurisdiction**." That is the rationale behind the decision recorded at
+issue 153, and it is a jurisdictional judgement rather than a general austerity measure. **Added.**
+
+**★★★★★ THE FULLEST TREATMENT IN 155 ISSUES OF THE FRENCH-SPEAKING CHILD AT AN ENGLISH CAMP — by a
+Quebec director, printed in both languages.** Madelene Ferguson Allen, director of **Camp Ouareau**, won
+a Society of Camp Directors Awards Paper prize with an essay that this project should have gone looking
+for and has now found by reading everything:
+
+> "We all know these children. They are the ones who step off the bus with big frightened eyes… They are
+> 'the kids who don't speak English'… **In too many cases the most short changed children at our summer
+> camps are these children who don't speak English. Camps are not in tune with this growing segment of
+> our camper population.**"
+
+**Why this matters to Kanawana.** Kanawana is an English-language YMCA camp in the Laurentians whose
+catchment was and is a bilingual city, and whose own French-language provision this project has traced
+only through the ACQ and the section names. Here is a Quebec director setting out, in 1985, exactly what
+it took to run an English camp for francophone children — and the answer is that most camps were doing
+it badly. **No claim is made about Kanawana's practice**, which is undocumented; this is the standard
+against which any evidence of it should be read. Its specifics are worth keeping:
+
+- **Before arrival**: a letter from the director, translated ("translation can be expensive, but it is a
+  worthwhile and necessary investment. You will find language students at your local university more
+  than willing"), with the daily timetable and **"a dictionary of fifty or so basic camp words… words
+  such as assembly, bug juice, morning dip… words that he would never meet in his English class."**
+- **Do not** put the child in a cabin with a fluent speaker of his language: "Like a drowning man
+  clinging to a life preserver, Jean Pierre will cling to that camper."
+- **Do not** give him a counsellor fluent in his language either — "a little is better than a lot in
+  this case" — but do have one staff member free for a few minutes daily, with a consistent method
+  shared across the whole staff.
+- **The "core phrase" method**, demonstrated with a swimming instructor teaching the word "dive" by
+  having other campers do it first.
+- **Predictable withdrawal at bedtime**: "It is absolutely exhausting to live in a foreign language. It
+  is an indescribable form of fatigue which attacks body and soul as well as brain" — and the
+  instruction not to short-change him a tuck-in even so, because "he will recognize the kind tone of his
+  voice."
+- **The ten-day regression**, "a well documented effect of immersion," explained with the analogy of
+  driving in a snowstorm — concentrating so hard on the road that you notice no landmarks.
+- **The rarer fear**, "especially in a young child, [of] an irrational fear of losing his own language
+  and following from this the fear that his parents will not understand him when he returns home."
+- **The 25% rule**: "assume that he understands about 25% of what he appears to understand. **Living in
+  another language makes one a wonderful actor.**"
+- **The cabin dictionary** at rest hour, illustrated by the whole cabin, with the francophone child
+  teaching the French word beside each English one.
+- And the flat ethical line: "**A camp should not, under any circumstances, accept a child who does not
+  speak English unless it is willing to become totally involved in giving the child the time and the
+  teaching necessary.**"
+
+**Written into `connections/related-camps/camp-ouareau.md`** — Allen's own camp, where this article
+already records her 1977 parent survey — **and into `canadian-camping-movement.md`** as the movement's
+standard for a problem that was Quebec's before it was anyone else's.
+
+**★★ Two of the prize papers are by Quebec directors.** The other Society of Camp Directors Awards Paper
+in this issue is **Gail McClintock of St Lambert, Quebec**, "The Challenge of Camping" — a practical
+essay on preparation, new projects, encouraging new staff, "those magic moments of camping," and
+flexibility, with a charming set-piece on a "chocolate cakewalk" invented as a whole-camp project. **St
+Lambert is on Montreal's south shore**, so both papers printed here come from the Montreal region. A new
+name for the Quebec camping index; her camp is not stated. Recorded, with that gap noted.
+
+**★★ A new president, and the association's own numbers shrinking.** **Janet Adamson** took office at the
+Regina annual meeting in **April 1985**, succeeding Jocelyn Palm; she describes the CCA as having "an
+impressive archival collection… in place at Trent University," a new "Curriculum of Study for camp
+directors," and **609 member camps** — against 616 in 1983 and 618 in 1982. John Fisher's preliminary
+restructuring report was received at Regina, with a final report due to the Executive in **June 1985**,
+and **a copy of the CCA's 1984 Annual Report was available from the office on request** — a document this
+read has not seen and which would be the last full one before the cuts bit. She confirms the **campfire
+to be held across Canada on 24 July 1985** and the Bolton institute of January as "highly successful."
+**Added to `canadian-camping-movement.md`.**
+
+**★★ "Camping… A Retrospective" begins — and the first instalment is from 1966.** The magazine launches
+a feature reprinting older addresses "each issue… back many many years to a previously spoken or
+published work," explicitly so readers can "examine to what degree the atmosphere, thrusts and
+initiatives of bygone days are relevant today." **That is a reprint series, and it means later issues of
+this run may carry pre-1949 material that predates the magazine itself** — worth watching for in the
+remaining nine issues. The first is **Barry Lowes at the OCA annual banquet, Inn-on-the-Park, 19 March
+1966**, and it is a bleak, excellent piece: camping threatened by summer schools, cottage real estate,
+teenage travel abroad and the possibility of a longer school year; "**we talk a better game than we
+play**"; "the claims have been mostly shadows without substance." Three things in it are worth recording.
+The OCA had **just appointed its first executive secretary, Mr. Stan Wild**, and Lowes warns that "the
+strength of OCA has been its voluntary nature." He attacks the profit/non-profit distinction as
+"anathema… A camp is a camp, and a child is a child." And, three months before Canada's centennial year
+began, he writes: "**Canada stands in danger of coming apart at the seams, after 100 years**… If the 3½
+millions of dollars that have been poured down the drain on the **Bilingual and Bicultural Commission**
+had been spent instead to exchange young people, getting them into homes and camps across Canada, to
+live together for a time. **What a bridge of understanding such exchanges could form!**" — which is,
+almost exactly, the inter-cultural camping exchange the Secretary of State went on to fund and which
+this wiki has traced through the 1967 Centenary Journey. Recorded beside it.
+
+**★ Minor.** **Terry Burkhalter**, Western Vice-President and executive director of "Camps with Meaning,"
+announces he is leaving Manitoba for the Lakewood Retreat Centre in Brooksville, Florida, effective 1
+August 1985, saying "the Conference of Mennonites in Manitoba do not have a very high profile of camping
+as a profession." The Camping Advisor answers a question about children jogging with **Dr. Lyle
+Micheli** of Boston Children's Hospital — "legs can be punished with six to eight times the body weight
+while running… no competitors under 16 years of age are allowed to compete in the Boston Marathon" — and
+distinguishes free running (harmless) from timed competitive running. Haddad's closing column is a long
+defence of teaching uncomfortable material, built on a student he calls Miss Schmidt, Bettelheim's *The
+Uses of Enchantment*, Plato's *Ion*, and Pope's "A little learning is a dangerous thing." **No mailing
+label is legible on this copy** — an explicit null.

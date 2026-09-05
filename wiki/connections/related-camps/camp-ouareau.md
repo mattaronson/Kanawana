@@ -1,6 +1,6 @@
 # Camp Ouareau and Its Connections to Kanawana
 
-*Status: E1-reviewed | Sources: 11*
+*Status: E1-reviewed | Sources: 12*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -53,6 +53,24 @@ Two further findings are worth recording. On language, Allen states that "**Ouar
 
 Allen closes with a caution this project can borrow: "Research was defined as the satisfying of curiosity… **a great number of children attend a certain camp because of a friend, or because of good advertising, or because a parent may just think it is a good idea.** I don't think for a moment that very many parents have all the criteria which I have listed in their minds when they make the decision to send a child to camp." Part 2 was promised but has not yet been reached in the read.
 
+## Madelene Allen on the French-speaking child at an English camp (1985)
+
+In 1985 Allen won a Society of Camp Directors Awards Paper prize for an essay printed in *Canadian Camping* in English and in full French translation: "The Kid Who Doesn't Speak English… How Do We Help?" / "L'enfant qui ne parle pas anglais". It is the fullest treatment of the question anywhere in the magazine's digitized run, 1949-1988, and it opens by saying the profession was failing at it:
+
+> "We all know these children. They are the ones who step off the bus with big frightened eyes… **In too many cases the most short changed children at our summer camps are these children who don't speak English. Camps are not in tune with this growing segment of our camper population.**"^12
+
+Her method is specific enough to be tested against any camp's records. **Before arrival**, a letter from the director in the child's language — "translation can be expensive, but it is a worthwhile and necessary investment. You will find language students at your local university more than willing to earn a few dollars" — enclosing the daily timetable and "**a dictionary of fifty or so basic camp words… words such as assembly, bug juice, morning dip… words that he would never meet in his English class**." **On arrival**, the director meets the child personally, and if the response is tearful, "listen and then give him the biggest hug you can. **Body language is the most crucial communication tool you have at this moment.**"
+
+**Then two deliberate refusals.** Do not place the child in a cabin with a fluent speaker of his own language: "Like a drowning man clinging to a life preserver, Jean Pierre will cling to that camper. Let him make the effort to find someone else who speaks French. In his search he will meet others who do not and **he will learn the magic of a smile**." And do not give him a fluent counsellor either — "a little is better than a lot in this case" — but do free one staff member for a few minutes each day, with a method shared consistently across the whole staff rather than delegated to one person.
+
+The teaching method is the "**core phrase**", demonstrated by a swimming instructor who has other campers dive before asking the new child to, so that the word arrives attached to an action. Around it Allen sets out what staff should expect: exasperation ("it doesn't matter that they have told him something five times. **He didn't understand five times!**"); predictable withdrawal at bedtime, because "**it is absolutely exhausting to live in a foreign language. It is an indescribable form of fatigue which attacks body and soul as well as brain**" — with the instruction not to skip the tuck-in even so, since "he will recognize the kind tone of his voice"; a regression about ten days in, "a well documented effect of immersion," which she explains by the analogy of driving in a snowstorm, concentrating so hard on the road that no landmark registers; and, rarely and in younger children, "**an irrational fear of losing his own language and following from this the fear that his parents will not understand him when he returns home**."
+
+Two practical rules close it. The **25% rule**: "assume that he understands about 25% of what he appears to understand. **Living in another language makes one a wonderful actor.**" And the **cabin dictionary**, built at rest hour by the whole cabin, each new English word illustrated and the French equivalent written beside it by the child himself — "he may think he doesn't know it, but as soon as he sees the picture the word will come to mind and he will discover he knows far more than he thought he did."^12
+
+Her ethical line is unqualified: "**A camp should not, under any circumstances, accept a child who does not speak English unless it is willing to become totally involved in giving the child the time and the teaching necessary to overcome the initial panic which comes from not understanding what is going on around him.**"
+
+**For this project the essay is a standard, not a finding about Kanawana.** Kanawana was an English-language YMCA camp drawing on a bilingual city, and nothing in the record so far describes how it handled French-speaking campers. Allen was running a Quebec camp with the same problem twenty miles away and wrote down what she thought it required; any future evidence of Kanawana's practice should be read against it.
+
 ## Edgar Blais, the camp's chef
 
 Camp records rarely name kitchen staff, and almost never remember them. Camp Ouareau's director wrote a tribute to hers in October 1979, and it is the only piece in the whole 1949-1988 run of *Canadian Camping* about a camp cook.^10
@@ -93,6 +111,7 @@ It is worth recording here for two reasons. It is a dated fact about Camp Ouarea
 9. Madeleine Allen, "Parental Motivation Affecting the Attendance of Children at Summer Camp, Part 1: Information collected from data from Camp Ouareau, a summer camp for girls," *Canadian Camping* Vol. 29 No. 2 (March 1977), pp. 4-7 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 112). Her surname is spelled "Madelene" in the 1974 issue cited elsewhere in this wiki and "Madeleine" here; both are the director of Camp Ouareau.
 10. Madelene Allen, "A Tribute," *Canadian Camping* Vol. 31 No. 5 (October 1979), p. 7 [src_ia_canadian_camping_collection]. Found by the same read (issue 127). Her surname is spelled "Madelene" here and in 1974, "Madeleine" in the March 1977 survey; the same person.
 11. Jane McCutcheon, "Central Region News," *Canadian Camping* Vol. 34 No. 1 (Spring 1982), p. 6 [src_ia_canadian_camping_collection]. Found by the same read (issue 141).
+12. Madelene Ferguson Allen, "The Kid Who Doesn't Speak English… How Do We Help?" / "L'enfant qui ne parle pas anglais," a Society of Camp Directors Awards Paper, *Canadian Camping* Vol. 37 No. 2 (Summer 1985), pp. 12-17 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 155).
 
 ## Research Notes
 
