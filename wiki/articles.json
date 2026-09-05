@@ -8960,6 +8960,12 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -8969,16 +8975,17 @@
         "f_0083",
         "f_0670",
         "f_0716",
-        "f_1841"
+        "f_1841",
+        "f_4853"
       ],
       "sources_cited": [
         "src_green_triangle_1938",
         "src_history_1935",
+        "src_ia_canadian_camping_1962_12",
         "src_ia_ymca_annual_1937",
         "src_ia_ymca_montreal_annual_reports_collection",
         "src_ia_ymca_montreal_fonds_collection",
-        "src_mcmorris_thesis",
-        "src_ia_canadian_camping_1962_12"
+        "src_mcmorris_thesis"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -8988,7 +8995,7 @@
         "camp-becsies"
       ],
       "file_id": null,
-      "word_count": 1965,
+      "word_count": 2183,
       "notes": "2026-07-11: Spawned per operator's revised C5 policy -- mis-categorized originally, since he's a substantially-documented 1935-1938 Camp Chief, not a plaque-only name. No new research conducted.",
       "tags": {
         "era": [

@@ -1,7 +1,7 @@
 # Greig Macdiarmid
 
-*Status: draft | Sources: 10*
-*Last Updated: 2026-08-14*
+*Status: draft | Sources: 11*
+*Last Updated: 2026-09-05*
 
 ## Overview
 
@@ -34,8 +34,16 @@ Macdiarmid was at Kanawana on staff before he ran it, overlapping with [[people/
 | December 1939 | Went overseas with YMCA War Services |
 | 1942–1943 | Senior YMCA Supervisor for Great Britain |
 | 1946 | Senior Secretary for War Services in the United Kingdom; resigned from the Montreal Association to become Executive Secretary, Toronto Central YMCA, effective September 1 |
-| 1946–1962 | Rose to **General Secretary of the Toronto YMCA** — the whole association, not the Central branch he joined in 1946.^10 Drove the expansion of **Camp Pine Crest**, **Camp Norval** and **Camp Wangoma**, developed **twenty-three YMCA day camps** in the Toronto area, and "set the stage for the Y's co-operation in the operation of Camp Illahee for medically handicapped children"^10 |
-| **21 May 1962** | **Died suddenly**, in office.^10 |
+| 1946–1962 | Rose to **General Secretary of the Toronto YMCA** — the whole association, not the Central branch he joined in 1946.^11 Drove the expansion of **Camp Pine Crest**, **Camp Norval** and **Camp Wangoma**, developed **twenty-three YMCA day camps** in the Toronto area, and "set the stage for the Y's co-operation in the operation of Camp Illahee for medically handicapped children"^10 |
+| **21 May 1962** | **Died suddenly**, in office.^11 |
+
+**Two details from the obituary itself, which this article had been quoting at second hand.** It gives
+his wartime post as **"Senior Officer Overseas of Canadian YMCA War Services"** — a third form of the
+title, recorded here beside the two the Montreal annual reports give ("Senior Y.M.C.A. Supervisor for
+Great Britain," 1942–43, and "Senior Secretary for War Services in the United Kingdom," 1946) rather
+than collapsed into them, because three wordings across three documents is what the record actually
+says. And it ends: **"To those who knew him, he was truly 'THE CHIEF'."** That is the only epithet any
+source attaches to him, and it matches what the camp called its director in the 1930s.^11
 
 His Montreal career and Spearman's ran closely parallel — both entered the association in the 1920s, both ran Kanawana in the 1930s, both went into YMCA War Services, and both are listed together in the wartime annual reports' roll of Montreal secretaries serving overseas.^7 Spearman returned to Montreal in 1945 and stayed until 1954; Macdiarmid did not return at all.
 
@@ -47,7 +55,13 @@ What "W. J." stood for is still unknown, and the 1926 report complicates rather 
 
 ## Open Questions
 
-1. [Important, narrowed 2026-08-25] What do the "W." and "J." stand for? The 1962 obituary heads him "**J. G. 'Greig' Macdiarmid**", which agrees with the 1926 report's "J. Greig Macdiarmid" and puts the J first, but still expands nothing. A Toronto obituary of May 1962 is now a dated, findable target.^10 The 1926 Annual Report's "J. Greig Macdiarmid" establishes that "Greig" is a given name, but leaves the first two initials unexpanded, and the "W. J. G." / "J. Greig" orderings are not obviously reconcilable. Likely routes: Toronto Central YMCA records from 1946 onward, Ontario vital records, or a Toronto obituary.
+1. [Important, narrowed 2026-09-05] What do the "W." and "J." stand for? **The obituary this project has
+   is the one in *Canadian Camping*, Vol. 15 No. 1, December 1962, p. 18 — read in full, cited here as
+   source 11, and not to be hunted for again.** It heads him "J. G. 'Greig' Macdiarmid," which agrees
+   with the 1926 report's "J. Greig Macdiarmid" and puts the J first, but expands neither initial. What
+   is still unfound is a **Toronto newspaper** obituary of late May 1962 — the *Globe and Mail* or the
+   *Toronto Daily Star* — which is the kind of notice that prints a man's full given names, his birth
+   place and his survivors. That, not the camping-magazine notice, is the outstanding target.
 2. ~~[Nice-to-have] Did Macdiarmid's tenure begin before 1935 or extend beyond 1938?~~ **[Resolved 2026-08-14 — both halves.]** It extended to **1939** (CFCF broadcast, June 10, 1939, "Mr. Macdiarmid, the director"), and ended because he went overseas with YMCA War Services that December. It did *not* begin before 1935: W. H. Spearman was Camp Chief 1932–1934, and Macdiarmid appears in the 1933 *Green Triangle* as returning **staff**, not as Chief. This question previously read "No source before or after this four-year window has been found" — an overstatement of the absence of evidence; the sources existed and had not been looked at.
 3. ~~[Important] What did Macdiarmid do at Toronto Central YMCA, and when did he die?~~ **[ANSWERED 2026-08-25.]** His *Canadian Camping* obituary — "**J. G. 'Greig' Macdiarmid, May 21st, 1962**" — records that he rose to **General Secretary of the Toronto YMCA**, died **suddenly in May 1962**, and that "his interest and enthusiasm was a key factor in the expansion of Camp Pine Crest, Norval, Wangoma and the development of twenty-three YMCA Day Camps in the Toronto area," besides setting the stage for Camp Illahee for medically handicapped children. It also confirms his wartime role as "**Senior Officer Overseas of Canadian YMCA War Services**."^10 **Note the Pine Crest connection**: this wiki records Camp Pine Crest as the source of the Lumbermen-versus-Voyageurs competition Kanawana adopted in 1947 — and the man who expanded Pine Crest was Kanawana's own former Camp Chief. Whether he carried the idea in either direction is not documented, but the two facts now sit next to each other. See [[traditions/lv-games|The L&V Games]] and [[connections/related-camps/camp-pine-crest|Camp Pine Crest]].
 4. [Nice-to-have] How far back does his Kanawana involvement run? The 1933 newsletter's "with us **again** this summer" implies at least 1932, and possibly earlier — the same seasons Spearman was Chief.
@@ -73,6 +87,7 @@ What "W. J." stood for is still unknown, and the 1926 report complicates rather 
 8. "Kanawana Goes on the Air," November 7, 1938 — camp letterhead reading "O. N. H. OWENS, Chairman   W. J. G. MACDIARMID, Director" [src_ia_ymca_montreal_fonds_collection].
 9. Kamp Kanawana broadcast, Station CFCF, June 10, 1939 [src_ia_ymca_montreal_fonds_collection].
 10. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University [src_mcmorris_thesis].
+11. "In Memoriam: J. G. 'Greig' Macdiarmid, May 21st, 1962," *Canadian Camping* Vol. 15 No. 1, December 1962, p. 17–18 [src_ia_canadian_camping_1962_12]. The obituary itself, read in full. Grace McMorris was quoting this notice; the Toronto General Secretaryship, the Pine Crest, Norval and Wangoma expansions, the twenty-three day camps, the Camp Illahee sentence, the 21 May 1962 death and the "J. G. 'Greig'" heading all come from here, and are cited to it rather than to the thesis quoting it.
 
 ## Research Notes
 

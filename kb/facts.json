@@ -1,8 +1,8 @@
 {
-  "version": "6.31",
-  "kb_version": "6.31",
+  "version": "6.32",
+  "kb_version": "6.32",
   "migrated_from": "3.3",
-  "fact_count": 4814,
+  "fact_count": 4815,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -86302,6 +86302,27 @@
       "date_ref": "1906",
       "conflicts_with": [],
       "added_version": "6.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4853",
+      "claim": "GREIG MACDIARMID'S OBITUARY, READ IN THE ORIGINAL RATHER THAN THROUGH THE THESIS QUOTING IT. \"In Memoriam: J. G. 'Greig' Macdiarmid, May 21st, 1962\", Canadian Camping Vol. 15 No. 1, December 1962, p. 17-18, in full: \"Camping, in Canada, lost a knowledgeable and ardent supporter with the sudden death, in May, of Greig Macdiarmid, General Secretary of the Toronto Young Men's Christian Association. A former director of Camp Kanawana, he served the Y's in Montreal and Toronto and during World War II was Senior Officer Overseas of Canadian YMCA War Services. His interest and enthusiasm was a key factor in the expansion of Camp Pine Crest, Norval, Wangoma and the development of twenty-three YMCA Day Camps in the Toronto area. He set the stage for the Y's co-operation in the operation of Camp Illahee for medically handicapped children. Camping in Canada is richer and stronger and serves youth better because of his worth and work. To those who knew him, he was truly 'THE CHIEF'.\" TWO THINGS THE SECOND-HAND VERSION DID NOT CARRY. The wartime title is given as SENIOR OFFICER OVERSEAS OF CANADIAN YMCA WAR SERVICES -- a third wording, beside the Montreal annual reports' \"Senior Y.M.C.A. Supervisor for Great Britain\" (1942-43) and \"Senior Secretary for War Services in the United Kingdom\" (1946); three documents, three wordings, recorded side by side rather than merged. And the epithet \"THE CHIEF\", the only one any source attaches to him. NOTE ON FINDING IT: the OCR renders the surname \"Macdiarniid\" throughout the notice, so a search on the correct spelling returns nothing in this issue -- the passage is found on \"Wangoma\", \"Illahee\" or \"CHIEF\".",
+      "sources": [
+        "src_ia_canadian_camping_1962_12"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Greig Macdiarmid",
+        "Toronto YMCA",
+        "Camp Pine Crest",
+        "Camp Norval",
+        "Camp Wangoma",
+        "Camp Illahee"
+      ],
+      "date_ref": "1962-12",
+      "conflicts_with": [],
+      "added_version": "6.32",
       "added_by": "ralph_loop"
     }
   ]
