@@ -30,14 +30,14 @@
 {"n": 30, "title": "## 30 — Vol. 8 No. 3, April 1956", "chars": 13500, "status": "extracted", "facts": 10}
 {"n": 31, "title": "## 31 — Vol. 8 No. 4, June 1956", "chars": 12120, "status": "extracted", "facts": 8}
 {"n": 32, "title": "## 32 — Vol. 9 No. 1, December 1956", "chars": 12957, "status": "extracted", "facts": 7}
-{"n": 33, "title": "## 33 — Vol. 9 No. 2, February 1957", "chars": 11341, "status": "pending", "facts": 0}
-{"n": 34, "title": "## 34 — Vol. 9 No. 3, April 1957", "chars": 11417, "status": "pending", "facts": 0}
-{"n": 35, "title": "## 35 — Vol. 9 No. 4, June 1957", "chars": 10387, "status": "pending", "facts": 0}
-{"n": 36, "title": "## 36 — Vol. 10 No. 1, December 1957", "chars": 10863, "status": "pending", "facts": 0}
-{"n": 37, "title": "## 37 — Vol. 10 No. 2, February 1958 ★", "chars": 9062, "status": "pending", "facts": 0}
-{"n": 38, "title": "## 38 — Vol. 10 No. 3, April 1958 ★★", "chars": 11868, "status": "pending", "facts": 0}
-{"n": 39, "title": "## 39 — Vol. 10 No. 4, June 1958 ★★★", "chars": 11165, "status": "pending", "facts": 0}
-{"n": 40, "title": "## 40 — Vol. 11 No. 1, December 1958 ★★", "chars": 12022, "status": "pending", "facts": 0}
+{"n": 33, "title": "## 33 — Vol. 9 No. 2, February 1957", "chars": 11341, "status": "extracted", "facts": 17}
+{"n": 34, "title": "## 34 — Vol. 9 No. 3, April 1957", "chars": 11417, "status": "extracted", "facts": 16}
+{"n": 35, "title": "## 35 — Vol. 9 No. 4, June 1957", "chars": 10387, "status": "extracted", "facts": 14}
+{"n": 36, "title": "## 36 — Vol. 10 No. 1, December 1957", "chars": 10863, "status": "extracted", "facts": 12}
+{"n": 37, "title": "## 37 — Vol. 10 No. 2, February 1958 ★", "chars": 9062, "status": "extracted", "facts": 10}
+{"n": 38, "title": "## 38 — Vol. 10 No. 3, April 1958 ★★", "chars": 11868, "status": "extracted", "facts": 12}
+{"n": 39, "title": "## 39 — Vol. 10 No. 4, June 1958 ★★★", "chars": 11165, "status": "extracted", "facts": 11}
+{"n": 40, "title": "## 40 — Vol. 11 No. 1, December 1958 ★★", "chars": 12022, "status": "extracted", "facts": 12}
 {"n": 41, "title": "## 41 — Vol. 11 No. 2, February 1959 ★★", "chars": 11086, "status": "pending", "facts": 0}
 {"n": 42, "title": "## 42 — Vol. 11 No. 3, April 1959 ★★★", "chars": 14946, "status": "pending", "facts": 0}
 {"n": 43, "title": "## 43 — Vol. 11 No. 4, June 1959 ★★★", "chars": 14087, "status": "pending", "facts": 0}
