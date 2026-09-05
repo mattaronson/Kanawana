@@ -10276,19 +10276,30 @@
         "f_4776",
         "f_4777",
         "f_4778",
-        "f_4779"
+        "f_4779",
+        "f_4780",
+        "f_4781",
+        "f_4782",
+        "f_4783",
+        "f_4784",
+        "f_4785",
+        "f_4786",
+        "f_4787"
       ],
       "sources_cited": [
         "src_campstephens_alumni_blog",
         "src_ia_canadian_camping_collection",
         "src_ia_ymca_montreal_fonds_collection",
         "src_knowhistory_beausoleil",
+        "src_oca_camp_directory",
         "src_rky_camp",
         "src_wikipedia_big_cove_sections",
         "src_ymca_simcoe_kitchikewana",
+        "src_ymca_three_rivers_wabanaki",
         "src_ymca_website",
         "src_ymcabc_camps",
-        "src_ymcagta_pinecrest_games"
+        "src_ymcagta_pinecrest_games",
+        "src_ymcaswo_cqe"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -10300,7 +10311,7 @@
         "connections/institutional-lineage/canadian-camping-movement"
       ],
       "file_id": null,
-      "word_count": 2911
+      "word_count": 3461
     }
   ],
   "article_count": 93

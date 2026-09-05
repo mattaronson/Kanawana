@@ -28063,7 +28063,61 @@
       "read_state": "extracted",
       "read_state_basis": "direct: summer-camp and history pages fetched 2026-09-05",
       "notes": "Names 'The RKY Games... a special 3-day camp-wide competition in 4th Session between the Lumbermen and Voyageurs' -- a fourth camp with the tradition. History page gives the 1930 purchase, the three founding clubs, Kingston YMCA camping from about 1902, and a wartime closure 1943-1945. EXPLICIT NULL: the history page does not date the Games or say where they came from."
+    },
+    {
+      "source_id": "src_oca_camp_directory",
+      "type": "web",
+      "title": "Ontario Camps Association — Camp and Outdoor Education Centre Directory",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://ontariocampsassociation.ca/find/camp-directory/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-05T17:44:12Z",
+      "extracted": true,
+      "extraction_version": "p_409",
+      "reliability": "primary",
+      "read_state": "extracted",
+      "read_state_basis": "direct: fetched or search-surfaced 2026-09-05 under p_409",
+      "notes": "163 member camps and outdoor education centres, paginated alphabetically by ?alpha=N. The Y page carries 61 YMCA and YWCA entries. This is the systematic instrument the earlier YMCA-camp counting lacked."
+    },
+    {
+      "source_id": "src_ymcaswo_cqe",
+      "type": "web",
+      "title": "YMCA of Southwestern Ontario — Camp Queen Elizabeth",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://www.ymcaswo.ca/camps/camp-queen-elizabeth",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-05T17:44:12Z",
+      "extracted": true,
+      "extraction_version": "p_409",
+      "reliability": "primary",
+      "read_state": "extracted",
+      "read_state_basis": "direct: fetched or search-surfaced 2026-09-05 under p_409",
+      "notes": "Overnight camp on Beausoleil Island, Georgian Bay Islands National Park, since 1953 -- the second YMCA camp on the same island as Kitchikewana. EXPLICIT NULL: no Lumbermen or Voyageurs teams and no camp-wide two-team competition found; 'Voyageur canoe' appears only as a craft type."
+    },
+    {
+      "source_id": "src_ymca_three_rivers_wabanaki",
+      "type": "web",
+      "title": "YMCA of Three Rivers — Camp Waabanaki, Voyageur Extended Tripping Program",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://www.ymcathreerivers.ca/overnight-camp",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-05T17:44:12Z",
+      "extracted": true,
+      "extraction_version": "p_409",
+      "reliability": "primary",
+      "read_state": "extracted",
+      "read_state_basis": "direct: fetched or search-surfaced 2026-09-05 under p_409",
+      "notes": "Camp Waabanaki on Lake Vernon near Huntsville. Its 'Voyageurs' is an Extended Tripping Program for ages 13-15 (Killarney canoe routes, La Cloche Silhouette, Georgian Bay sea kayak) -- a rank, not a team. EXPLICIT NULL: no Lumbermen, no two-team competition. The older CKW YMCA page for the same programme is at a domain that no longer resolves (ymcayouthcentre.com, DNS ENOTFOUND)."
     }
   ],
-  "source_count": 1559
+  "source_count": 1562
 }

@@ -1,8 +1,8 @@
 {
-  "version": "6.10",
-  "kb_version": "6.10",
+  "version": "6.11",
+  "kb_version": "6.11",
   "migrated_from": "3.3",
-  "fact_count": 4741,
+  "fact_count": 4749,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -84860,6 +84860,149 @@
       "confidence": "inferred",
       "conflicts_with": [],
       "added_version": "6.10",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4780",
+      "claim": "P_409 SURVEY, INSTRUMENT FOUND. The Ontario Camps Association publishes a browsable member directory of 163 camps and outdoor education centres at ontariocampsassociation.ca/find/camp-directory/, paginated alphabetically by a ?alpha=N parameter. Its Y page carries 61 YMCA and YWCA entries. This is the systematic instrument the earlier attempt to count Canadian YMCA camps lacked, and it was not found by any of the general searches run before.",
+      "category": "methodology",
+      "entities": [
+        "Ontario Camps Association",
+        "YMCA"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_oca_camp_directory"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.11",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4781",
+      "claim": "THIS PROJECT'S EARLIER COUNT OF YMCA CAMPS WAS BADLY LOW. The points-of-contact article named six, then seven, YMCA overnight camps in Canada and called the number a floor. The OCA directory alone lists 61 YMCA and YWCA entries in Ontario, of which more than a dozen are overnight camps or outdoor education centres rather than branch day camps -- Pine Crest, Kitchikewana, Wanakita, Waabanaki, Belwood, Ki-Wa-Y, Heidelberg, Tillicum, John Island, Camp Henry, Camp Queen Elizabeth, Otonabee, Geneva Park, Cedar Glen and Rotary Youth Camp Presqu'ile among them. The earlier figure was assembled from famous names and should be read as a count of what this project had heard of, not of what exists.",
+      "category": "camping_movement",
+      "entities": [
+        "YMCA",
+        "Ontario Camps Association"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_oca_camp_directory"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.11",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4782",
+      "claim": "TWO YMCA CAMPS SHARE BEAUSOLEIL ISLAND. YMCA Camp Kitchikewana (YMCA of Simcoe/Muskoka, from 1919) and YMCA Camp Queen Elizabeth (YMCA of Southwestern Ontario, since 1953) both operate on Beausoleil Island in Georgian Bay Islands National Park. Charles Plewman was recorded as instrumental in organising the training camp at Beausoleil Island, and C. R. Blackstock started at Kitchikewana there.",
+      "category": "camping_movement",
+      "entities": [
+        "YMCA Camp Kitchikewana",
+        "Camp Queen Elizabeth",
+        "Beausoleil Island",
+        "Charles Plewman"
+      ],
+      "date_ref": "1919-2026",
+      "sources": [
+        "src_ymcaswo_cqe",
+        "src_oca_camp_directory"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.11",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4783",
+      "claim": "NEGATIVE RESULT, CAMP QUEEN ELIZABETH: no Lumbermen or Voyageurs teams and no camp-wide two-team competition were found on the camp's pages or in searches of them. \"Voyageur canoe\" appears as a craft type only. A YMCA overnight camp on the same island as one that does run the competition apparently does not run it.",
+      "category": "traditions",
+      "entities": [
+        "Camp Queen Elizabeth",
+        "YMCA Camp Kitchikewana"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymcaswo_cqe"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.11",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4784",
+      "claim": "NEGATIVE RESULT, CAMP WAABANAKI, AND IT CONFIRMS THE BIG COVE DISTINCTION. The YMCA of Three Rivers' Camp Waabanaki runs a \"Voyageur Extended Tripping Program\" for ages 13-15 -- Killarney canoe routes, the La Cloche Silhouette trail, sea kayaking on Georgian Bay -- with no Lumbermen team and no two-team competition. This is the same shape as Big Cove's Voyageur programme: \"Voyageur\" as an advanced tripping RANK is a separate and commoner thing from \"Lumbermen versus Voyageurs\" as a two-team GAMES tradition, and the two must not be conflated.",
+      "category": "traditions",
+      "entities": [
+        "Camp Waabanaki",
+        "Big Cove YMCA Camp",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymca_three_rivers_wabanaki"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.11",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4785",
+      "claim": "P_409 RESULT AS OF 2026-09-05: four camps confirmed running a Lumbermen-and-Voyageurs competition (Pine Crest, Kanawana, Kitchikewana, RKY); three checked and negative (Camp Queen Elizabeth, Camp Waabanaki, Big Cove); the remaining dozen-plus Ontario YMCA overnight camps unchecked. No camp beyond the four was found, and no camp's Games were dated beyond Pine Crest's 1940 and Kanawana's 1947. The survey did not settle the direction of travel.",
+      "category": "methodology",
+      "entities": [
+        "Camp Pine Crest",
+        "Camp Kanawana",
+        "YMCA Camp Kitchikewana",
+        "RKY Camp"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_oca_camp_directory",
+        "src_ymcaswo_cqe",
+        "src_ymca_three_rivers_wabanaki"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.11",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4786",
+      "claim": "A SECOND ROTARY-YMCA HYBRID CAMP EXISTS: the OCA directory lists \"YMCA Rotary Youth Camp Presqu'ile\", alongside RKY Camp, whose initials stand for Rotary, Kiwanis and YMCA. Joint service-club-and-YMCA ownership is therefore not unique to RKY, and camps of that kind may be a category worth searching for the Lumbermen-and-Voyageurs tradition rather than searching YMCA-owned camps alone.",
+      "category": "camping_movement",
+      "entities": [
+        "RKY Camp",
+        "Ontario Camps Association"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_oca_camp_directory"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.11",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4787",
+      "claim": "General phrase searching does not find camps running the Lumbermen-and-Voyageurs competition. Searches on \"Lumbermen\" with \"Voyageurs\", and on the exact strings \"Lumberman and Voyageur\" and \"Lumbermen and Voyageurs\", returned Kanawana's own TikTok, unrelated colour-war material and lumber-themed video games -- but not Kitchikewana's or RKY's programme pages, both of which use the phrase. Camp programme pages sit too deep in site structures to rank. Enumeration through an association directory is the method that works; phrase search is not.",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_oca_camp_directory"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.11",
       "added_by": "web_research"
     }
   ]

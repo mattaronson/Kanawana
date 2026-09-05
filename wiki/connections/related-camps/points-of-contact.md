@@ -1,6 +1,6 @@
 # Points of Contact: Kanawana and the Other YMCA Camps
 
-*Status: draft | Sources: 17*
+*Status: draft | Sources: 20*
 *Last Updated: 2026-09-05*
 
 ## Overview
@@ -152,6 +152,49 @@ over Camp Pine Crest in 1946**, the year before.
 Voyageurs: The YMCA Pine Crest Story***.^12 It is the single most likely place for the origin of the
 Games and any account of their spread, and **this project has not read it**.
 
+### The p_409 survey: what a systematic search found, and what it did not
+
+Two camps arrived in this article by the operator recognising them, not by anything this project
+searched. So the search was rebuilt on a proper instrument: the **Ontario Camps Association's member
+directory**, 163 camps and outdoor education centres, paginated alphabetically — whose **Y page carries
+61 YMCA and YWCA entries**.^18
+
+**The first result is against this article.** It named six YMCA overnight camps in Canada, then seven,
+and called the number a floor. The floor was far too low. Ontario alone has more than a dozen YMCA
+overnight camps and outdoor centres in that directory — Pine Crest, Kitchikewana, Wanakita, Waabanaki,
+Belwood, Ki-Wa-Y, Heidelberg, Tillicum, John Island, Camp Henry, Camp Queen Elizabeth, Otonabee, Geneva
+Park, Cedar Glen and Rotary Youth Camp Presqu'ile among them.^18 **The earlier figure was a count of
+what this project had heard of, not of what exists** [f_4781]. The table above is left standing as a
+list of the camps this article discusses, not as a census.
+
+**Three camps checked for the Games, three negatives.**
+
+- **Camp Queen Elizabeth** (YMCA of Southwestern Ontario, since 1953) — no Lumbermen, no Voyageurs, no
+  camp-wide two-team competition found. "Voyageur canoe" appears only as a craft type.^19 It is on
+  **Beausoleil Island**, the same island as Kitchikewana, which does run the Games [f_4783].
+- **Camp Waabanaki** (YMCA of Three Rivers) — its "Voyageurs" is a **Voyageur Extended Tripping
+  Program** for ages 13–15, with no Lumbermen and no competition.^20
+- **Big Cove** — established earlier in this article.
+
+**Two of those three confirm the distinction that Big Cove first forced.** "Voyageur" as an **advanced
+tripping rank** is a separate and commoner thing from "Lumbermen versus Voyageurs" as a **two-team games
+tradition** [f_4784]. Finding the word is not finding the tradition.
+
+**And a method finding worth more than the negatives.** General phrase searching does not locate these
+camps. Searches on "Lumbermen" with "Voyageurs", and on the exact strings "Lumberman and Voyageur" and
+"Lumbermen and Voyageurs", returned Kanawana's own TikTok, unrelated colour-war material and
+lumber-themed video games — **but not Kitchikewana's or RKY's programme pages, both of which use the
+phrase** [f_4787]. Camp programme pages sit too deep in site structures to rank. **Enumeration through
+an association directory is the method that works.** That is why the operator found two camps this
+project's searches had missed, and it is the method p_409 should continue with.
+
+**Where the survey leaves the question.** Four camps confirmed, three negative, **a dozen-plus Ontario
+YMCA overnight camps unchecked**, no camp found beyond the four, and no Games dated beyond Pine Crest's
+1940 and Kanawana's 1947 [f_4785]. **The direction of travel is still not established.** One further
+lead: the directory also lists **"YMCA Rotary Youth Camp Presqu'ile"**, so RKY's Rotary-Kiwanis-YMCA
+ownership is not unique, and service-club hybrids may be a category worth searching in their own
+right [f_4786].
+
 ## Resemblances that are not contact
 
 **Big Cove is the important case.** Its 1987 tribute records that "**Our Voyageur program dates back to
@@ -176,8 +219,10 @@ both drew on the same national idiom; it does not establish that either learned 
 **In 1989 there were about twenty-nine.** The centenary relay ran twenty-nine hours precisely because
 Kanawana and twenty-eight other YMCA camps each took one [f_4762].
 
-**In 2026, the overnight camps this project can name are seven**, and this is a floor rather than a
-roster — YMCA Canada's own national camps page names no individual camp at all:
+**In 2026 this article names seven YMCA overnight camps**, and the p_409 survey below shows that figure
+is far too low: the Ontario Camps Association directory alone carries **61 YMCA and YWCA entries**, more
+than a dozen of them overnight camps or outdoor centres. The table is a list of the camps discussed
+here, **not a census**:
 
 | Camp | Location | Operated by |
 |---|---|---|
@@ -251,3 +296,6 @@ decline should be tested against the YMCA's own records before it is asserted.
 15. YMCA of Simcoe/Muskoka, Camp Kitchikewana camp and programmes pages [src_ymca_simcoe_kitchikewana]; Know History, *Rooted: Beausoleil Island*, ch. 5, **not read** (HTTP 403) [src_knowhistory_beausoleil]. See [f_4766], [f_4767], [f_4769].
 16. Austin Matthews on the 1967 Midland school-camp week, and the Wanakita naming, *Canadian Camping* [src_ia_canadian_camping_collection]. See [f_3281], [f_1302], [f_4770].
 17. RKY Camp, summer-camp and history pages [src_rky_camp]. The Games, the three founding clubs, the 1930 purchase, Kingston YMCA camping from 1902, and the 1943-1945 wartime closure. See [f_4773], [f_4774], [f_4775], [f_4776].
+18. Ontario Camps Association, Camp and Outdoor Education Centre Directory [src_oca_camp_directory]. See [f_4780], [f_4781], [f_4786].
+19. YMCA of Southwestern Ontario, Camp Queen Elizabeth [src_ymcaswo_cqe]. See [f_4782], [f_4783].
+20. YMCA of Three Rivers, Camp Waabanaki and its Voyageur Extended Tripping Program [src_ymca_three_rivers_wabanaki]. See [f_4784].
