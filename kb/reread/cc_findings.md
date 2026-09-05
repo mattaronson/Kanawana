@@ -8339,8 +8339,23 @@ run. Second, and more to the point of this pass, **it is a checklist against my 
 blocks**. Every article the index lists for an issue read here should appear in that
 issue's block; any that does not is a hole of exactly the kind found at issue 51. A
 spot-check on six entries found five already recorded and one ("By Emberglow —
-Chas. E. Hendry, Apr. 1950") not obviously so. **The full cross-check against issues 1–60
-should be run before this pass is converted into KB facts**, and any gaps patched in place.
+Chas. E. Hendry, Apr. 1950") not obviously so.
+
+**[Cross-check run, 2026-09-05.** `scripts/reread/catalogue_check.py` now screens every
+dated catalogue entry against the block for its issue; the output is kept at
+`kb/reread/cc_catalogue_check.txt`. Of 299 entries falling in issues 1–60, 55 did not
+match their block. The spot-check's own worry was unfounded: **"By Emberglow" IS recorded**,
+in the issue 6 block, at some length — that entry does not appear in the screen's misses.
+Most of the 55 are artefacts rather than holes. The index is OCR of small type set in
+columns, and it mangles titles past matching ("Cfimping and Citizcnshipi-—John P, Kidd",
+an article this pass records in full) and drops or misaligns dates, so that "Closed
+Oceans — Rev. Wilbur Howard" is filed under Dec. 1951 when the article this pass read is
+Dec. 1961, and "Pioneers Go Camping" appears twice under two different years. Others are
+advertisements, poems and one-column notices that the early blocks summarise without
+naming. A residue is genuinely worth patching — "An Experiment in Handi-crafts — Gisella
+Commanda" (Dec. 1949) is the clearest, since Commanda turns up later in this run hiring
+Indian regalia to camps — and is queued rather than done here. The screen is a screen: it
+reports candidates, it does not certify the blocks.**]
 
 Cautions about the index itself: it is OCR of a small-type list and carries noise; it
 misattributes "Hang On To Your Teen-Agers" to "Barry Powers" (it is Barry Lowes); and it

@@ -4293,6 +4293,28 @@
       "created": "2026-09-05",
       "source": "word-for-word read of Canadian Camping, issues 41-56, converted to KB facts",
       "blocked_on": null
+    },
+    {
+      "priority_id": "p_334",
+      "rank": 333,
+      "type": "RESEARCH",
+      "description": "PATCH THE RESIDUE FROM THE CATALOGUE CROSS-CHECK. scripts/reread/catalogue_check.py screens every dated entry in W. E. Yard's 1949-1963 index of Canadian Camping against this pass's own block for that issue; kb/reread/cc_catalogue_check.txt holds the output. Of 299 entries in issues 1-60, 55 did not match. Most are artefacts: the index is OCR of small type set in columns, so it mangles titles past matching and misaligns dates (\"Closed Oceans -- Rev. Wilbur Howard\" is filed under Dec. 1951 when the article read in this pass is Dec. 1961; \"Pioneers Go Camping\" appears under two different years). Others are advertisements, poems and short notices that the terser early blocks summarise without naming. The clearest genuine candidate is \"An Experiment in Handi-crafts -- Gisella Commanda\" (Dec. 1949, issue 4), which matters because Commanda turns up later in the same run hiring Indian regalia to camps -- a 1949 signed article by her would be an early and direct source on how that material reached Canadian camps. Work the flagged list against the cached OCR issue by issue, patch any real holes in place in cc_findings.md and say so, and re-run the screen. The screen reports candidates; it does not certify the blocks.",
+      "weight": 6,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 57-60, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_335",
+      "rank": 334,
+      "type": "RESEARCH",
+      "description": "FIND THE CAMP COUNSELOR'S BOOK (Northway and Lowes, Longmans Canada, Spring 1963). Announced in Canadian Camping Vol. 15 No. 3 (April 1963) and advertised with its full contributor list in Vol. 15 No. 4 (June 1963), $1.95 paper / $3.50 cloth: edited by Dr Mary L. Northway of the Institute of Child Study and Barry G. Lowes of Camp Timberlane, with Joyce Bertram (Camp Ouareau), Margaret Govan (Camp Onawa), Flora Morrison (Camp Windy Pine Point), David and Elsie Palter (Camp Kawagama), Elizabeth Raymer (Camp Tanamakoon) and Kirk Wipper (Camp Kandalore). Ten chapters, listed in the KB. Endorsed by the CCA president; reviewed by Catherine T. Hammett as the replacement for the out-of-print American Charting the Counselor's Course. This is the single most likely printed source for what a Canadian camp counsellor in the 1960s was told to do, which is the decade of Kanawana's own CIT/LIT programme and of the counsellor research done there. TWO SIDE BENEFITS: it identifies \"Mrs David Palter\" -- one of only two people who answered the CCA's own \"History of Canadian Camping\" enquiry -- as Elsie Palter of Camp Kawagama, making her a locatable person; and it confirms Joyce Bertram, this magazine's editor for four issues, as director of Camp Ouareau, which camp-ouareau.md should carry. WHERE TO LOOK: Library and Archives Canada; university education libraries; AbeBooks and the used trade.",
+      "weight": 7,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 57-60, converted to KB facts",
+      "blocked_on": null
     }
   ],
   "queue_ordering": {
