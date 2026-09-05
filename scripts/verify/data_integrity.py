@@ -7,9 +7,13 @@ been caught here in a second:
      tuple, kb/facts.json was never written, and the commit went through with
      only half the change in it.
 
-  2. DUPLICATE OR MALFORMED IDS. fact_id, source_id, article_id and
-     conflict_id must each be unique and well formed; a duplicated source_id
-     makes every [src_x] citation to it ambiguous.
+  2. DUPLICATE OR MALFORMED IDS, AND FIELDS OF THE WRONG TYPE. fact_id,
+     source_id, article_id and conflict_id must each be unique and well
+     formed; a duplicated source_id makes every [src_x] citation to it
+     ambiguous. A fact's claim must be a non-empty string and its sources,
+     entities and conflicts_with must be lists -- a claim that is not a string
+     parses as valid JSON, passes every id check, and then crashes three other
+     verify scripts on the regex that reads it.
 
   3. GENERATED FILES OUT OF DATE. kb/plaque-audit/person-index.json and the
      table in wiki/people/multi-year-index.md are outputs of build_index.py and
@@ -84,7 +88,21 @@ def main():
         if facts.get('fact_count') != len(ids):
             bad.append('kb/facts.json: fact_count is %r, there are %d facts'
                        % (facts.get('fact_count'), len(ids)))
+        # A claim that is not a string parses as valid JSON and passes every id
+        # check, then crashes three other verify scripts on the regex that reads
+        # it. That happened on 2026-09-05, from a stray comma turning a claim
+        # into a tuple; the file was committed-clean by this script and broken
+        # for citation_aim, staleness and restricted_guard. Types are checked
+        # here so the failure lands where the defect is.
+        SHAPE = {'claim': str, 'sources': list, 'confidence': str,
+                 'entities': list, 'conflicts_with': list}
         for f in facts['facts']:
+            for field, want in SHAPE.items():
+                if field in f and not isinstance(f[field], want):
+                    bad.append('%s: %s is %s, expected %s'
+                               % (f['fact_id'], field, type(f[field]).__name__, want.__name__))
+            if isinstance(f.get('claim'), str) and not f['claim'].strip():
+                bad.append('%s: claim is empty' % f['fact_id'])
             pub = f.get('publication')
             if pub and pub.get('status') not in (None, 'embargoed', 'released'):
                 bad.append('%s: publication.status %r is not recognised' % (f['fact_id'], pub['status']))

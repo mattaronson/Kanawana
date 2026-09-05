@@ -1,8 +1,8 @@
 {
-  "version": "6.33",
-  "kb_version": "6.33",
+  "version": "6.34",
+  "kb_version": "6.34",
   "migrated_from": "3.3",
-  "fact_count": 4819,
+  "fact_count": 4820,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -86402,6 +86402,24 @@
       "date_ref": "1912-1973",
       "conflicts_with": [],
       "added_version": "6.33",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4858",
+      "claim": "NULL RESULT, DIMOCK'S 1967 ADDRESS (p_374), with the surfaces named. Searched 2026-09-05: the complete cached run of Canadian Camping, 164 issues, in which \"resistance to change\" occurs in ONE issue only -- Al Knox's article of Winter/Spring 1974, the recollection that gives the address its title -- so the magazine reported the address twice and printed it never. The Internet Archive holds 22 items under creator \"Dimock, Hedley\", spanning 1931 to 2011: Camping and Character (1931, the father's), Rediscovering the Adolescent (1937), Administration of the Modern Camp (1948, 1950), Studies on the Affect of Participation in Training and Supervisory Programs (1969), Planning Staff Training Programs (1973), and the later organisational-development titles. NONE IS THE 1967 ADDRESS. A NOTE ON THE TITLE ITSELF: the only source for \"Canadian Camping -- Its Resistance to Change\" is Knox writing seven years later; the contemporaneous April 1967 report calls it a \"keynote address on the Individual\" delivered from \"Springboard No. 1\". The two need not be the same address, and this project should not treat Knox's title as the document's own until one of them is seen.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Hedley Gardner Dimock",
+        "Canadian Camping Association",
+        "Al Knox"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "6.34",
       "added_by": "ralph_loop"
     }
   ]

@@ -4405,6 +4405,12 @@
           "at": "2026-09-04",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 2,
@@ -4418,16 +4424,16 @@
         "f_0598",
         "f_0599",
         "f_0600",
-        "f_0639",
-        "f_0640",
-        "f_0641",
-        "f_0642",
-        "f_0643",
         "f_0631",
         "f_0632",
         "f_0633",
         "f_0634",
         "f_0635",
+        "f_0639",
+        "f_0640",
+        "f_0641",
+        "f_0642",
+        "f_0643",
         "f_0646",
         "f_0647",
         "f_0648",
@@ -4446,15 +4452,16 @@
         "f_0661",
         "f_0662",
         "f_0937",
-        "f_1279",
         "f_1092",
         "f_1093",
         "f_1094",
+        "f_1279",
         "f_1548",
         "f_1878",
         "f_1879",
         "f_1880",
-        "f_1881"
+        "f_1881",
+        "f_4858"
       ],
       "sources_cited": [
         "src_aca_dimock_award_recipients_2022_2026",
@@ -4468,7 +4475,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 3474,
+      "word_count": 3621,
       "notes": "E1 REVIEW (2026-03-02): 10 fixes applied. Father-son inference reframed as neutral hypothesis. Earliest publication contradiction resolved. Kamp→Camp standardized. Hendry relocated. Unsourced synthesis removed. All 7 criteria PASS. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
