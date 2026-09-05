@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 4483,
+  "fact_count": 4532,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -80002,6 +80002,909 @@
         "Mary S. Edgar"
       ],
       "date_ref": "1985",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4522",
+      "issue": 155,
+      "claim": "A letter in Canadian Camping Vol. 37 No. 2, Summer 1985, is signed \"Ken Willis, Magog, Quebec.\" Louis Jean's successor as CCA Central Vice-President was therefore a Quebecer, not an Ontarian. Ken Willis is already recorded in this project as the man who invited the CCA to hold its 1980 annual meeting in Quebec.",
+      "category": "camping_movement",
+      "entities": [
+        "Ken Willis",
+        "Magog",
+        "Quebec",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1985",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4523",
+      "issue": 155,
+      "claim": "Quebec's representation on the CCA national executive was interrupted for a matter of months after Louis Jean resigned the Central Vice-Presidency in late 1983, not lost: the Winter 1984 issue records the seat unfilled, and the seat was then taken by Ken Willis of Magog, Quebec. The picture of a province drifting out of national affairs after 1983 - which the October 1983 Bolton delegate list and the unused Consultant/Advisor seemed to support - is stronger than the evidence sustains.",
+      "category": "camping_movement",
+      "entities": [
+        "Louis Jean",
+        "Ken Willis",
+        "Quebec",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983-1985",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4524",
+      "issue": 155,
+      "claim": "Ken Willis was Central Vice-President when the CCA's French Language Committee reported through him in the 1983 annual report - a Quebec vice-president receiving the francophone committee's report, not an Ontario one.",
+      "category": "camping_movement",
+      "entities": [
+        "Ken Willis",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1984",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4525",
+      "issue": 155,
+      "claim": "Ken Willis, writing in Canadian Camping Summer 1985 as a member of the board and executive at the time, gives the stated reason for the Fitness Canada withdrawal: \"I was on the Board and Executive at the time discussions centred around what the Canadian Camping Magazine could do for the Association in its present financial crisis ... resultant upon Fitness Canada's thinking that camping is not within their jurisdiction.\" The cut was a jurisdictional judgement rather than a general austerity measure.",
+      "category": "sources",
+      "entities": [
+        "Ken Willis",
+        "Fitness Canada",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1985",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4526",
+      "issue": 155,
+      "claim": "Madelene Ferguson Allen, director of Camp Ouareau, won a Society of Camp Directors Awards Paper prize with \"The Kid Who Doesn't Speak English... How Do We Help?\", printed in English and in full French translation in Canadian Camping Summer 1985: \"We all know these children. They are the ones who step off the bus with big frightened eyes... They are 'the kids who don't speak English'... In too many cases the most short changed children at our summer camps are these children who don't speak English. Camps are not in tune with this growing segment of our camper population.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Madelene Ferguson Allen",
+        "Camp Ouareau",
+        "Society of Camp Directors"
+      ],
+      "date_ref": "1985",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4527",
+      "issue": 155,
+      "claim": "Allen's 1985 prize essay prescribes, before the francophone child arrives at an English camp, a letter from the director in translation (\"translation can be expensive, but it is a worthwhile and necessary investment. You will find language students at your local university more than willing\") with the daily timetable and \"a dictionary of fifty or so basic camp words... words such as assembly, bug juice, morning dip... words that he would never meet in his English class.\"",
+      "category": "programs",
+      "entities": [
+        "Madelene Ferguson Allen",
+        "Camp Ouareau"
+      ],
+      "date_ref": "1985",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4528",
+      "issue": 155,
+      "claim": "Allen's 1985 essay advises against putting the non-English-speaking child in a cabin with a fluent speaker of his own language - \"Like a drowning man clinging to a life preserver, Jean Pierre will cling to that camper\" - and against giving him a counsellor fluent in his language, \"a little is better than a lot in this case,\" while having one staff member free for a few minutes daily with a method shared across the whole staff. She sets out the \"core phrase\" method, demonstrated with a swimming instructor teaching the word \"dive\" by having other campers do it first.",
+      "category": "programs",
+      "entities": [
+        "Madelene Ferguson Allen"
+      ],
+      "date_ref": "1985",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4529",
+      "issue": 155,
+      "claim": "Allen's 1985 essay describes predictable withdrawal at bedtime - \"It is absolutely exhausting to live in a foreign language. It is an indescribable form of fatigue which attacks body and soul as well as brain\" - with the instruction not to short-change the child a tuck-in even so, \"he will recognize the kind tone of his voice\"; the ten-day regression, \"a well documented effect of immersion,\" explained by the analogy of driving in a snowstorm; and the rarer fear \"especially in a young child, [of] an irrational fear of losing his own language and following from this the fear that his parents will not understand him when he returns home.\"",
+      "category": "programs",
+      "entities": [
+        "Madelene Ferguson Allen"
+      ],
+      "date_ref": "1985",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4530",
+      "issue": 155,
+      "claim": "Allen's 1985 essay gives the 25% rule - \"assume that he understands about 25% of what he appears to understand. Living in another language makes one a wonderful actor\" - the cabin dictionary compiled at rest hour and illustrated by the whole cabin with the francophone child teaching the French word beside each English one, and the ethical line: \"A camp should not, under any circumstances, accept a child who does not speak English unless it is willing to become totally involved in giving the child the time and the teaching necessary.\"",
+      "category": "programs",
+      "entities": [
+        "Madelene Ferguson Allen"
+      ],
+      "date_ref": "1985",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4531",
+      "issue": 155,
+      "claim": "Allen's 1985 essay is the fullest treatment in this run of the magazine of the French-speaking child at an English-language camp, written by a Quebec director. Kanawana is an English-language YMCA camp in the Laurentians drawing on a bilingual city, and its own French-language provision is undocumented in this period. The essay is the contemporary standard against which any evidence of Kanawana's practice should be read; no claim is made here about that practice.",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana",
+        "Madelene Ferguson Allen"
+      ],
+      "date_ref": "1985",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4532",
+      "issue": 155,
+      "claim": "The other Society of Camp Directors Awards Paper printed in Canadian Camping Summer 1985 is by Gail McClintock of St Lambert, Quebec, \"The Challenge of Camping\" - a practical essay on preparation, new projects, encouraging new staff, \"those magic moments of camping,\" and flexibility, with a set-piece on a \"chocolate cakewalk\" invented as a whole-camp project. Her camp is not stated. Both prize papers in the issue come from the Montreal region.",
+      "category": "camping_movement",
+      "entities": [
+        "Gail McClintock",
+        "St Lambert",
+        "Society of Camp Directors"
+      ],
+      "date_ref": "1985",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4533",
+      "issue": 155,
+      "claim": "Janet Adamson took office as CCA president at the Regina annual meeting in April 1985, succeeding Jocelyn Palm. Her first President's Message describes the association as having \"an impressive archival collection... in place at Trent University,\" a new \"Curriculum of Study for camp directors,\" and 609 member camps - against 616 in 1983 and 618 in 1982.",
+      "category": "camping_movement",
+      "entities": [
+        "Janet Adamson",
+        "Jocelyn Palm",
+        "Trent University",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "April 1985",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4534",
+      "issue": 155,
+      "claim": "John Fisher's preliminary restructuring report was received at the CCA's Regina meeting of April 1985, with a final report due to the Executive in June 1985, and a copy of the CCA's 1984 Annual Report was available from the national office on request. That 1984 annual report - the last full one before the funding cuts bit - has not been seen by this project.",
+      "category": "sources",
+      "entities": [
+        "John Fisher",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1985",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4535",
+      "issue": 155,
+      "claim": "Canadian Camping launched a reprint feature, \"Camping... A Retrospective,\" in Summer 1985, reprinting older addresses \"each issue... back many many years to a previously spoken or published work,\" explicitly so readers could \"examine to what degree the atmosphere, thrusts and initiatives of bygone days are relevant today.\" Later issues of this run may therefore carry material predating the magazine itself.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping"
+      ],
+      "date_ref": "1985",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4536",
+      "issue": 155,
+      "claim": "The first \"Camping... A Retrospective\" reprints Barry Lowes's address to the Ontario Camping Association annual banquet, Inn-on-the-Park, 19 March 1966: camping threatened by summer schools, cottage real estate, teenage travel abroad and the possibility of a longer school year; \"we talk a better game than we play\"; \"the claims have been mostly shadows without substance.\" The OCA had just appointed its first executive secretary, Mr. Stan Wild, and Lowes warns that \"the strength of OCA has been its voluntary nature.\" He attacks the profit/non-profit distinction as \"anathema... A camp is a camp, and a child is a child.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Barry Lowes",
+        "Stan Wild",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "19 March 1966",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4537",
+      "issue": 155,
+      "claim": "Barry Lowes, three months before Canada's centennial year began, in his March 1966 OCA address: \"Canada stands in danger of coming apart at the seams, after 100 years... If the 3 1/2 millions of dollars that have been poured down the drain on the Bilingual and Bicultural Commission had been spent instead to exchange young people, getting them into homes and camps across Canada, to live together for a time. What a bridge of understanding such exchanges could form!\" - almost exactly the inter-cultural camping exchange the Secretary of State went on to fund and which this project traces through the 1967 Centenary Journey.",
+      "category": "context",
+      "entities": [
+        "Barry Lowes",
+        "Canada"
+      ],
+      "date_ref": "March 1966",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4538",
+      "issue": 155,
+      "claim": "Terry Burkhalter, CCA Western Vice-President and executive director of \"Camps with Meaning,\" announced in Canadian Camping Summer 1985 that he was leaving Manitoba for the Lakewood Retreat Centre in Brooksville, Florida, effective 1 August 1985, saying \"the Conference of Mennonites in Manitoba do not have a very high profile of camping as a profession.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Terry Burkhalter",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1985",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4539",
+      "issue": 155,
+      "claim": "No mailing label is legible on the Internet Archive copy of Canadian Camping Vol. 37 No. 2, Summer 1985. Explicit null.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping"
+      ],
+      "date_ref": "1985",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4540",
+      "issue": 156,
+      "claim": "Canadian Camping Vol. 37 No. 3, Autumn 1985, reprints Douglas G. McEwen's presidential article of Autumn 1967 under \"Camping... A Retrospective,\" containing the sentence: \"For the first 20 years of its life the Canadian Camping Association's strength has lain in strong provincial associations.\" Twenty years before 1967 is 1947: the sitting president in 1967 described the span of his own association's life as beginning two decades back, not three.",
+      "category": "camping_movement",
+      "entities": [
+        "Douglas G. McEwen",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "Autumn 1967",
+      "confidence": "stated",
+      "conflicts_with": [
+        "c_029",
+        "c_035"
+      ],
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4541",
+      "issue": 156,
+      "claim": "The same issue that reprints McEwen's c.1947 dating also carries Janet Adamson's president's message opening \"In 1986 CCA/ACC will be celebrating fifty years of service to children and youth in Canada,\" and a bound-in 1985-86 catalogue repeating in both languages that \"The Canadian Camping Association was founded in 1936.\" The association printed both datings in one issue without noticing. The 1936 dating is what the association said about itself in the 1980s; the c.1947 dating is what its president said about itself in 1967, closer to the event and from a Manitoba executive. Neither is preferred here.",
+      "category": "camping_movement",
+      "entities": [
+        "Janet Adamson",
+        "Douglas G. McEwen",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1985",
+      "confidence": "disputed",
+      "conflicts_with": [
+        "c_029",
+        "c_035"
+      ],
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4542",
+      "issue": 156,
+      "claim": "McEwen's 1967 dating is the strongest single piece of evidence yet for the two-stage reading of the CCA's founding - a 1936 Ontario-centred founding, then national incorporation at Ottawa across 1946-49 - because it shows people inside the association operating on both datings at once.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1967",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4543",
+      "issue": 156,
+      "claim": "Douglas G. McEwen may be related to Nelson McEwen, whom the Camp Stephens Alumni blog credits with founding the CCA in 1946 and who directed Kanawana c.1927-47. No source establishes the relationship and no weight is placed on it here; it is flagged because if it held, the coincidence of two McEwens both placing the founding in the later 1940s would stop being a coincidence.",
+      "category": "people",
+      "entities": [
+        "Douglas G. McEwen",
+        "Nelson McEwen",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1967",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4544",
+      "issue": 156,
+      "claim": "McEwen's 1967 presidential article lists the association's gaps: \"There are still camps and groups of camps who have not sought membership in the National Association. No Association exists in Saskatchewan, some camps in the Maritimes are not members of the Association and the French section of the Quebec Camping Association are still not members of the Canadian Association.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Douglas G. McEwen",
+        "Quebec Camping Association",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1967",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4545",
+      "issue": 156,
+      "claim": "Joining the Quebec provincial body did not make the French section a member of the national association: as late as 1967 - six years after the Conseil Provincial and four years before the CCA took its bilingual name - the francophone half of Quebec camping was formally outside the Canadian Camping Association. The 1971 name change and the 1974 French Language Committee were therefore the machinery of bringing a French section in, not the movement catching up with one it already had.",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec Camping Association",
+        "Association des camps du Quebec",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1967-1974",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4546",
+      "issue": 156,
+      "claim": "McEwen's 1967 article records: \"With the adoption this year of a set of Desirable Practices, camps now have a guide from their camping association.\" The CCA's first national statement of practice dates to 1967 and was explicitly a guide rather than standards.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1967",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4547",
+      "issue": 156,
+      "claim": "McEwen's 1967 article records: \"During the past four years... the CCA executive has been in the Western Provinces,\" and \"at present the entire National Executive resides in Manitoba\" - a Winnipeg-run national association from about 1963 to 1967 - with the admission that \"no response from Provincial Associations is taken as assent.\" No full-time executive officer existed; McEwen argues one should be employed, which the association did not manage until 1979.",
+      "category": "camping_movement",
+      "entities": [
+        "Douglas G. McEwen",
+        "Canadian Camping Association",
+        "Manitoba"
+      ],
+      "date_ref": "1963-1967",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4548",
+      "issue": 156,
+      "claim": "McEwen's 1967 article records: \"The Centenary Journey project, now in its final stages, received a grant of $12,000.00 from the National Centennial Commission\", with travel grants for board members and \"a sizeable grant... for the conduct of five regional training events\" from the Fitness and Amateur Sport Branch of the Department of National Health and Welfare.",
+      "category": "context",
+      "entities": [
+        "Canadian Camping Association",
+        "National Centennial Commission"
+      ],
+      "date_ref": "1967",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4549",
+      "issue": 156,
+      "claim": "McEwen's 1967 article records that at \"the Symposium of Recreation in Montreal,\" a group of twenty-five could not discuss the issues Kirk Wipper had raised \"because of an involved discussion that developed as to what was meant by the word, camping.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Kirk Wipper",
+        "Montreal"
+      ],
+      "date_ref": "1967",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4550",
+      "issue": 156,
+      "claim": "The 1985-86 CCA Publications Catalogue lists as new: \"High Above the Thundercloud, Jack Pearse and Bruce Taylor, Camp Tawingo Publications, 165 p., 1985\" - \"a one-of-a-kind resource for developing a full and rewarding Indian lore program... complete Indian council ceremonies which include a call to Council, traditional prayers, games, contests, story dances, legends, and closing events... how to build a magic fire, how to set up a council ring, how to teach native dance steps, how to make a drum... The authors have had over 70 years' involvement with Indian traditions and ceremonies.\"",
+      "category": "sources",
+      "entities": [
+        "Jack Pearse",
+        "Bruce Taylor",
+        "Camp Tawingo"
+      ],
+      "date_ref": "1985",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4551",
+      "issue": 156,
+      "claim": "A full instructional manual for staging council ceremonies, sold by the national camping association in 1985, shows the practice was being systematised rather than winding down - which bears on the arc this project traces from Seton's creed reprinted in 1978, an invented legend in 1981, and Ted Perry's screenplay text printed as Chief Seattle's speech in 1983.",
+      "category": "traditions",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1985",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4552",
+      "issue": 156,
+      "claim": "Elizabeth Raymer of Camp Tanamakoon, addressing the Ontario Conference in March 1963 and reprinted in Canadian Camping Autumn 1985, lists the five-minute counsellor-training topics a director should be ready with at general staff meetings: \"What is leadership. What to do about 'mush mags' and comic books. Why we teach children to be courteous - or tidy, etc. Open your eyes to nature. Vandalism. Homosexuality. Discipline.\" Recorded exactly as printed; nothing in the source says what the session would have contained.",
+      "category": "context",
+      "entities": [
+        "Elizabeth Raymer",
+        "Camp Tanamakoon"
+      ],
+      "date_ref": "March 1963",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4553",
+      "issue": 156,
+      "claim": "Elizabeth Raymer on staff evaluation forms, March 1963: \"only God Himself could have sufficient insight into human nature and character to fill out some of the evaluation forms that comes to one's notice,\" and directors should tell supervisors what is useful \"to avoid setting up a system which invites the supervisor to hyper-critical observations, and delving into personalities almost to the extent of psychoanalysis. What we need to know really is - is the job being done well?\" She also recommends asking staff to \"tell all of us what the Psychology Dept. at McGill teaches on this matter.\"",
+      "category": "operations",
+      "entities": [
+        "Elizabeth Raymer",
+        "McGill University"
+      ],
+      "date_ref": "March 1963",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4554",
+      "issue": 156,
+      "claim": "Janet Adamson reports in Autumn 1985 that the CCA reorganization continued, with a board meeting at Fredericton in October 1985 and Karen O'Neill as the Fitness Canada consultant now taking part in discussions, and the reassurance that \"our funding although changing is not disappearing\" - a softer account than Jocelyn Palm's of nine months earlier.",
+      "category": "camping_movement",
+      "entities": [
+        "Janet Adamson",
+        "Karen O'Neill",
+        "Fitness Canada",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "October 1985",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4555",
+      "issue": 156,
+      "claim": "The 1985-86 catalogue's new Canadian titles include Doreen Kronick's three learning-disability guides for CACALD/ACETA (1984), each in English and French - Camp Directors' Guide on Integration / Guide d'integration pour Directeurs de Camps, Guide for Directors of Specialized Camps, and Parents' Guide to Camping - the largest single addition of French camp literature in any catalogue in this run.",
+      "category": "sources",
+      "entities": [
+        "Doreen Kronick"
+      ],
+      "date_ref": "1984",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4556",
+      "issue": 156,
+      "claim": "The SofterWare \"EZ-Camp\" advertisement in Canadian Camping Autumn 1985, from Fort Washington, Pennsylvania, \"the ACA-recognized supplier of computers for camp management,\" is the first camp-management software advertised anywhere in this run of the magazine.",
+      "category": "context",
+      "entities": [
+        "SofterWare"
+      ],
+      "date_ref": "1985",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4557",
+      "issue": 156,
+      "claim": "Correction to the record taken from issue 151: the mailing label there was OCR'd as \"MISS JANE MCCUTCHEON, C/O CAMP TANINGU, HUNTSVILLE ON\"; the label on the Autumn 1985 copy of the same subscription reads CAMP TAWINGO, which is Jane McCutcheon's camp throughout this run. \"Taningu\" was an OCR error.",
+      "category": "sources",
+      "entities": [
+        "Jane McCutcheon",
+        "Camp Tawingo"
+      ],
+      "date_ref": "1985",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4558",
+      "issue": 157,
+      "claim": "Janet Adamson's tribute in Canadian Camping Vol. 37 No. 4, Winter 1986: \"For four and a half years Jay Haddad edited this magazine in a volunteer capacity... Jay is now retiring as editor.\" Four and a half years back from Winter 1986 places his appointment in the middle of 1981, matching the editorial-board notice found at issue 139.",
+      "category": "sources",
+      "entities": [
+        "Jay Haddad",
+        "Janet Adamson",
+        "Canadian Camping"
+      ],
+      "date_ref": "1981-1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4559",
+      "issue": 157,
+      "claim": "The CCA executive report in Winter 1986 states: \"The Newsletter under the Communications Committee will be the responsibility of a group from Camp Tawingo. This edition of the magazine is a transitional issue. With the Spring issue we will have a 'new look'.\" From Spring 1986 the magazine is made by a camp rather than by an editor.",
+      "category": "sources",
+      "entities": [
+        "Camp Tawingo",
+        "Canadian Camping",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4560",
+      "issue": 157,
+      "claim": "Canadian Camping Winter 1986 is twelve pages with no editorial, no letters column, no Camping Advisor and no French translation of the main article - the handover issue between Jay Haddad's editorship and the Camp Tawingo group. The magazine's character changes here for institutional reasons, not editorial ones, and anyone reading the last eight issues of this run needs to know it.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping"
+      ],
+      "date_ref": "Winter 1986",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4561",
+      "issue": 157,
+      "claim": "Canadian Camping Winter 1986 prints in both languages: \"CELEBRATE CCA's 50th BIRTHDAY WITH AN ADVENTURE INTO THE PAST - 1936-1986. 1986 is the CCA's fiftieth birthday. Your camp can take part in the celebration this summer! All across the country camps will participate by including one or all of the following activities in their programs: historical journeys; re-enactment of early camping lifestyles; ceremonies and theme events. Each participating camp will be recognized with a wall certificate and those camps pre-registering will receive cards for each of their campers.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4562",
+      "issue": 157,
+      "claim": "For the second year running every CCA member camp was asked to put its own past into its summer programme - the International Youth Year \"historical roots\" kit mailed in early May 1985, then \"An Adventure into the Past\" in 1986, registered through the provincial associations. The 1986 scheme produced physical objects: a wall certificate for the camp and a printed card for every participating camper. Whether Kanawana registered is not documented and is not assumed.",
+      "category": "archives",
+      "entities": [
+        "Camp Kanawana",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1985-1986",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4563",
+      "issue": 157,
+      "claim": "The 1986 anniversary notice prints \"1936-1986\" as the span and the French text \"le cinquantieme anniversaire de l'ACC\" - a further statement of the 1936 dating that the same magazine's reprint of Douglas G. McEwen's 1967 article contradicts.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "conflicts_with": [
+        "c_029",
+        "c_035"
+      ],
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4564",
+      "issue": 157,
+      "claim": "The \"Between the Covers\" new-additions list in Canadian Camping Winter 1986 is almost entirely French: \"I. SERIE 'UN CAMP A FAIRE' - A) MANUEL DE GESTION: 1. Aspects generaux de l'administration; 2. Gestion des ressources humaines; 3. Gestion des programmes; 4. Gestion des equipements; 5. Gestion financiere. B) 1. Evaluation du rendement; 2. Les objectifs et le programme; 3. La planification des ressources humaines et selection du personnel. II. Les colonies de vacances d'expression francaise en Belgique (communaute Wallonie-Bruxelles) et les camps de vacances au Quebec.\"",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping Association",
+        "Quebec"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4565",
+      "issue": 157,
+      "claim": "A comparative study of French-language holiday camps in Belgium (Wallonie-Bruxelles) and camps in Quebec was sold through the Canadian Camping Association in 1986 - a description of the Quebec camp sector from outside, previously unknown to this project. Neither its authorship nor its publisher is given in the catalogue entry, and the attribution of the \"Un camp a faire\" management series to the ACQ or to the Quebec government would be an inference the source does not support.",
+      "category": "sources",
+      "entities": [
+        "Quebec",
+        "Belgium",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4566",
+      "issue": 157,
+      "claim": "Gordon C. Allan, Director of Program & Personnel, Camp Nominingue, Quebec, contributes \"Dolittle for Camping\" to Canadian Camping Winter 1986 - an allegory in which a bored kingdom turns a bequest of one acre, two wooden boats and a pet dragon into a camp, and a boy from the far richer Camp Wakanda, with \"seven boats, six pet dragons and lots of neat things,\" discovers that \"it was not the facilities that made a camp great, but the spirit of wanting to do things.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Gordon C. Allan",
+        "Camp Nominingue"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4567",
+      "issue": 157,
+      "claim": "Jan James of Edmonton, who appears earlier in this run as the CCA's secretary, is Vice-President by Winter 1986. Her article on preparing parents of new campers is a fifteen-point list drawn from the Fund for the Advancement of Camping, the ACA, and a 1971 Margaret Mead piece in Redbook, \"How Summer Camp Changes a Child.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Jan James",
+        "Margaret Mead",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4568",
+      "issue": 157,
+      "claim": "The CCA committee reorganization is reported nearly complete in Winter 1986: Nancy Barker of Camp Gay Venture chairs Publications, Glenn Barned of New Brunswick the new National Conference and Workshop Committee, and a new promotional pamphlet for parents was to go to the provincial associations in early February 1986. The Youth Science Foundation's Science Is..., \"four years in the making,\" 400 pages in a three-ring binder at $12.75, was to appear in March 1986 - an all-Canadian science activity book for campers aged 7 to 14, field-tested in camps.",
+      "category": "camping_movement",
+      "entities": [
+        "Nancy Barker",
+        "Glenn Barned",
+        "Youth Science Foundation",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4569",
+      "issue": 157,
+      "claim": "The Canadian Wildlife Service's northern-delta poster notice in Canadian Camping Winter 1986 records that \"60% of the St. Lawrence River estuary marshes\" had been lost to development within three decades, alongside 88% of southern Ontario's wetlands.",
+      "category": "context",
+      "entities": [
+        "Canadian Wildlife Service",
+        "St. Lawrence River"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4570",
+      "issue": 157,
+      "claim": "The cover of Canadian Camping Vol. 37 No. 4, Winter 1986, is credited \"Archives Photo; Sherwood Forest Camp, 1957\" - the first time in this run that the magazine put a picture from its own archives on its cover. The mailing label reads MISS JANE MCCUTCHEON, C/O CAMP TAWINGO, R.R. #1, HUNTSVILLE ON.",
+      "category": "sources",
+      "entities": [
+        "Jane McCutcheon",
+        "Camp Tawingo",
+        "Sherwood Forest Camp"
+      ],
+      "date_ref": "1986",
       "confidence": "stated",
       "sources": [
         "src_ia_canadian_camping_collection"
