@@ -27106,3 +27106,134 @@ publisher: **Methuen, 124 p., 1984**, $11.95. **Blue Lake & Rocky Shore** is lis
 members). And Helen E. Stewart's ***Cookery for Kids, Kamp n' Kicks*** is described as "an anthology of
 recipes used extensively at **Camp Wahcahmie** in Ontario" — placing the archives figure Helen Stewart at
 a camp of her own.
+
+## 153 — Vol. 36 No. 4, Winter 1985 — ★★★★★ THE FUNDING COLLAPSE THAT ENDED THIS SOURCE
+
+Sixteen pages. Contents page checked; every item read: two Letters to the Editor; the obituary of **Alta
+R. Kahn**, signed by **Frances Kelly** and **Robert Lazanik**; the bilingual Editorial, "CCA — In
+Transition" / "L'ACC — en pleine transition," by **Jocelyn Palm**; the masthead; Jean Funk's "Dear CCA
+Member Camps"; the full text of the **CCA Environmental Ethic**; The Camping Advisor (two questions, on
+weight loss and on Good Samaritan liability); the PARTICIPaction advertisement; "Celebrate Canada's
+Heritage" — seventy-plus numbered suggestions in English and French for Heritage '85; and Jane
+McCutcheon's "The Counsellor, Camper and Director." **No mention of Kanawana or the ACQ**, though the
+Quebec association's own institutional history is the subject of the obituary.
+
+**★★★★★ WHY THIS SOURCE STOPS IN 1988 — the answer is printed here, three and a half years early.**
+Jocelyn Palm's editorial is the single most important document in this run for understanding the run
+itself:
+
+> "In October 1984, the CCA began searching for an individual to replace Marjorie Booth. Since the
+> position was supported by Fitness Canada, permission is required prior to selecting the replacement.
+> **At the end of November we were advised by the Director of Fitness Canada, Mr. Michel Bedard, that
+> Fitness Canada would no longer provide funds for the position. In addition, Mr. Bedard advised that
+> support of all management aspects, re travel for meetings, office functions, administrative
+> assistance, would be reduced each year by 33-1/3% to terminate completely in 1988.**"
+
+**This project has read 153 issues of a magazine that stops in 1988 without knowing why. Now it does.**
+The federal grant that paid for the national office, the executive director, the delegates' travel and
+the special projects was cut by a third a year from 1985 and ended in **1988** — the exact year the
+magazine ends. **That is not a coincidence and should never again be described as an unexplained gap in
+the source.** Every judgement this wiki makes about the thinness of the record after 1988 needs to carry
+it. **Written into the deferred `meta/sources-index.md` anchor notes and flagged as the first thing that
+section must say.**
+
+The same editorial is the association's own institutional autobiography, and it dates things this read
+had only inferred. **The national office with paid secretarial staff and a permanent address was
+established in 1971** — "prior to that time, the CCA office resided in the home of the elected
+President." **A full-time Executive Director was funded from 1979**, and **Marjorie Booth held the post
+until October 1984.** The CCA shared the Ontario Camping Association's office space. **National
+Conferences were held in 1972, 1973, 1975 and 1978**, before the 1983 Congress. **The Canadian
+Recreational Canoeing Association "was an outgrowth of CCA with an initial board of CCA personnel"** —
+which matters to `traditions/canoe-trips.md`, where the CRCA's award scheme has been recorded without
+knowing where the body came from. And the 1982 decision to reduce dependence on Ottawa produced "a hefty
+increase in CCA fees paid through the provincial associations" — **so the fees Kanawana paid through the
+ACQ went up in 1982 because of a national funding strategy.** A consultant, **Mr. John Fisher**, was
+engaged in March 1985 to advise on restructuring, reporting first to the Regina board meeting and AGM of
+**25-26 April 1985**. Palm's own summary of the choice: "Shall we return to the methods of the CCA
+pioneer camp directors of the '30s, '40s, '50s and '60s? Shall we withdraw from some or all of the
+national initiatives that we have begun?"
+
+Her figures for the association in 1985 are worth keeping: **some 400,000 campers, approximately 11,000
+of them from outside Canada; over 38,000 paid staff and over 16,000 volunteer staff; an estimated 80% of
+staff aged 13-24.**
+
+**★★★★ THE ENVIRONMENTAL ETHIC WAS ADOPTED, AND EVERY MEMBER CAMP GOT ONE — including Kanawana.** The
+thread this project has traced since 1982, through the slipped deadline of September 1982 and Jean
+Funk's report that it was still only "drafted" in the spring of 1984, closes here. Funk, writing to
+member camps:
+
+> "**This summer you received the Canadian Camping Association Environmental Ethic, and the accompanying
+> sheet 'We, the campers and staff of Camp ______'**… we encourage you to have all participating campers
+> and staff **sign** the 'We, the campers and staff of Camp ______' sheet and **post it in a visible
+> place, near the Ethic Statement, at your camp**."
+
+The full text is printed, and it is short enough to matter: a preamble on "the finiteness of the earth's
+natural resources," the "sensitive dynamic balance… among all living organisms and the non-living
+elements," and "the moral and ethical responsibility of each person to care for the earth, both now and
+for future generations"; a personal and a professional pledge; and five undertakings — aesthetic
+appreciation, the rights and responsibilities of all people, lifelong environmental attitudes, the
+essential concepts of ecology, and "the wise use of our natural heritage — woods, water, wildlife, air
+and soils." **Two things follow for Kanawana.** It was an accredited ACQ member camp, and in Quebec every
+member camp was accredited, so **the Ethic and the pledge sheet reached Kanawana in the summer of 1984**.
+And the pledge sheet was designed to be **signed by campers and staff and posted at the camp** — a
+physical object, bearing a camp's name and a summer's worth of signatures, that may survive in the
+camp's own papers or in a photograph. **Written into `traditions/environmental-history.md`.** Funk's
+accompanying suggestions are the era's environmental programme menu: adopt a stream or a series of
+out-trip sites; water, light, heating, waste-recycling and transport conservation; "**plan for the
+campers of 2085, by planting trees this year**"; nest-box trails and winter bird feeding; and "where does
+your waste water go?"
+
+**★★★ ALTA R. KAHN DIED ON 7 MARCH 1985 — and her obituary reworks the 1973 tribute this project already
+used, with three additions and one discrepancy.** The tribute read on her appointment as Honorary
+President was read at issue 100 and is already written into `canadian-camping-movement.md` as source
+`8u`; this obituary repeats much of it. Checked line by line against what is already recorded, **four
+things are new**:
+
+- **She died on Thursday, 7 March 1985.** The article had no death date.
+- **"From 1960-1962, Alta Kahn was President of the English section of the Quebec Camping
+  Association."** A named president of the QCA English Section for a two-year term.
+- **She "was a major contributor to the realization of the founding of the Provincial Board
+  (co-ordinating board of the English and French sections) and served as the Board's second President
+  from 1963 to 1965."** The article dates the Conseil Provincial to 1961 from the association's own 1975
+  self-description; this names its **second president and her term**, and credits Kahn with its founding.
+- **Robert Lazanik** co-signs with Frances Kelly — a new Quebec name.
+
+**And one documented discrepancy, recorded rather than smoothed over.** The 1973 tribute gives her
+service as Executive Secretary of the Jewish Community Camps of Montreal as **1946 to 1949**; this 1985
+obituary gives **1946 to 1969**. Both are printed in the same magazine, twelve years apart, and the
+second appears to be a rewriting of the first. A single-digit OCR or typesetting slip (4/6) is the most
+economical explanation and is stated as such, but **it is two documented sources disagreeing and is not
+resolved here.** The twenty-three-year reading fits the sentence that follows it — "During her years in
+this position, Mrs. Kahn instituted many new projects" — slightly better than a three-year one; the
+three-year reading fits her Young Women's Hebrew Association term of 1936-1945 and her 1946 arrival at
+the QCA. **Recorded as conflict `c_030` and noted in the article.**
+
+**★★ The Good Samaritan question, answered by an Attorney General.** The Camping Advisor prints the
+Attorney General of Ontario's own guidance, over the name of **the Hon. R. Roy McMurtry**, in answer to
+counsellors who feared being sued for intervening on a canoe trip: "**While no specific 'Good Samaritan'
+statute exists in Ontario, you can feel confident that if you act reasonably in giving emergency
+assistance you will not be found liable**… the courts expect you to do only what is reasonable,
+considering the situation and your skills," with the rule that "**once you have accepted responsibility
+for giving emergency assistance… you must continue to give help until another person is able to take
+over**," because the first helper may have deterred others. Ontario law, not Quebec's — and Quebec's
+Civil Code duty to rescue is materially different — so it is recorded as movement context and **not**
+applied to Kanawana. It is nonetheless the clearest statement in the run of what camp counsellors of
+this period were told about their legal exposure on out-trips.
+
+**★ Minor.** **1985 was Heritage Year**, marking a century since land was set aside near Banff, and the
+issue prints **seventy-plus suggestions in both languages** for camps, schools, individuals and
+organisations. Several read as instructions this project could have written: "**Record the oral history
+of your community on audio or video tape by interviewing senior citizens and local historians**";
+"produce an historical atlas of your community… use old maps, photographs, diary accounts and memoirs";
+"produce an historic newspaper, reprinting the reports of important and interesting things that have
+happened in your community"; "compare the local natural environment with various periods in the past,
+using archives, oral histories, wildlife and bird counts." **Camps across Canada were being urged in
+1985 to record oral history and compile local heritage material** — which, with the taping instruction of
+issue 152 and the August 1985 "historical roots" programme kit of issue 151, means **three separate
+national prompts to Canadian camps to write down their own history all landed in the same year**. If
+Kanawana ever produced heritage material outside its annual reports, 1985 is the year to look. **Added
+to `p_319`.** Jane McCutcheon's article — excerpted from her keynote at **The Camp Directors' Workshop,
+Bark Lake, Ontario, June 1984**, and by-lined "Co-ordinator of Development at Camp Tawingo" — is a comic
+set-piece on the counsellor as "doctor, lawyer, indian and chief," paid "enough to buy the second text
+in psychology, some aspirin, some new socks." The mailing label reads **MR & MRS J. JORGENSON,
+HUNTSVILLE ON** — an eighth deposit hand, and the John Jorgenson who co-authored the Tawingo books.

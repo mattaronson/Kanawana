@@ -1,6 +1,6 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 43*
+*Status: E1-reviewed | Sources: 44*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -172,6 +172,12 @@ Kanawana sits on Lac Wilson at Saint-Sauveur, in the Laurentians, north of the S
 
 A member's letter in the same issue makes the charge from outside: Doug Caldwell of the Federation of Ontario Naturalists lists the fifty organizations in the Canadian Coalition on Acid Rain — from the Inuit Tapirisat of Canada to Resorts Ontario — and observes that "**noticeably absent in this list is the Canadian Camping Association or any Provincial Camping Associations. Is it the mandate of your Association to remain apolitical?**"^42 That is the national environment committee traced above, from Peter Rasberry's 1981 report through the 1982 Environmental Ethic and the Acid Rain Education Kit, assessed by its own association's magazine as having produced nothing on the defining environmental question of the period. In the same issue **Jean Funk of Alberta** is announced as the committee's new chairperson, and her own report a few months later shows how little had been in place: "**October 1983 saw a fresh start for the Environment Committee**," with a revised action plan, a review of Environment Canada material, a recommended liaison with the National Trail Association, correspondence with forestry industries, a proposed **Energy Camp as a joint venture with the Terry Fox Centre in Ottawa** — and, listed among the year's initiatives, "**drafted the 'CCA Environmental Ethic'**," with the hope of "the acceptance of the 'CCA Environmental Ethic' in 1984."^43 **The Environmental Ethic traced above from 1982 was therefore still an unadopted draft in the spring of 1984** — which is the measure of the inertia the Winter 1984 editorial was complaining about.
 
+**It was adopted that summer, and every member camp received one.** Writing to member camps in the winter of 1985, Funk opens: "**This summer you received the Canadian Camping Association Environmental Ethic, and the accompanying sheet 'We, the campers and staff of Camp ______'**."^44 The Ethic's text is short — a preamble recognising "the finiteness of the earth's natural resources," the "sensitive dynamic balance which exists among all living organisms and the non-living elements," and "the moral and ethical responsibility of each person to care for the earth, both now and for future generations"; a personal pledge "to strive to learn and live in a manner in which I use responsibly the earth's resources" and a professional one "to design, develop, operate and maintain all programs, sites and facilities in an ecologically sound manner"; and five undertakings, of which the last is "to promote the wise use of our natural heritage — woods, water, wildlife, air and soils."
+
+**Two things follow for Kanawana.** It was an accredited member camp of the ACQ, and in Quebec every member camp was an accredited one, so **the Ethic and its pledge sheet reached Kanawana in the summer of 1984**. And the sheet was meant to become an object: camps were asked to have "all participating campers and staff **sign**" it and "**post it in a visible place, near the Ethic Statement, at your camp**" — so a Kanawana sheet bearing a season's signatures may survive in the camp's papers or in a photograph, and is worth looking for. What Kanawana did with either document is not recorded anywhere this project has found; the despatch is what is documented.^44
+
+Funk's accompanying suggestions are the era's environmental programme menu in one page: adopt a stream, a series of out-trip sites or a roadway and keep it clean; run water, light, heating, waste-recycling and transport conservation programmes, "skills and knowledge to campers and staff — and savings for you"; reclaim an eyesore; teach planting, thinning and pruning, and "**plan for the campers of 2085, by planting trees this year**"; build a nest-box trail and feed birds in winter; and ask "**where does your waste water go? What garbage can you reuse, reduce, or recycle?**"^44
+
 ## Alumni Environmental Impact
 
 Several Kanawana alumni have built careers in environmental stewardship:
@@ -261,6 +267,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 41. CCA/ACC *Publications 1982-83* catalogue, bound as an insert to *Canadian Camping* Vol. 34 No. 3 (Autumn 1982), pp. 17-18 [src_ia_canadian_camping_collection]. Found by the same read (issue 144).
 42. Jeff Reading (Kilcoo Camp), "Acid Rain: Understanding the Problem at Camp," pp. 13-16; the bilingual editorial "Acid Rain: Not Just A Catchphrase!"; the letter from Doug Caldwell; and Jocelyn Palm, "President's Perspective" — all in *Canadian Camping* Vol. 35 No. 4 (Winter 1984) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 149). The President's Perspective page is printed 180° rotated in the scan and was decoded with `scripts/reread/unrotate.py`.
 43. Jean Funk, "Environment Committee," in the CCA/ACC Annual Report 1983, *Canadian Camping* Vol. 36 No. 2 (Summer 1984) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 151).
+44. Jean Funk, "Dear CCA Member Camps," and the full text of the "Canadian Camping Association Environmental Ethic," *Canadian Camping* Vol. 36 No. 4 (Winter 1985), pp. 5-6 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 153).
 
 ## Research Notes
 
