@@ -901,7 +901,7 @@
         "timeline-overview"
       ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
-      "word_count": 5170,
+      "word_count": 5179,
       "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_001 editorial-resolution narrative into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H2 into Research Notes. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -3941,7 +3941,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 8496,
+      "word_count": 8509,
       "notes": "R1-R2 RALPH completed 2026-02-27. Four myths documented (oldest camp, name meaning, Indian heritage, founding narrative). Legends: haunted house (1935), Cropsey archetype, Anson Minor (Canadian parallel), Chopsy (Kanawana-local). Quebec folklore context. Fireside Canada podcast as source. 17 KB facts cited. 19 sources. Chopsy needs oral history. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical, moved the embedded 'Update (2026-07-10)' and 'Correction (2026-07-10)' paragraphs into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Fixed link-text bug (\"R.L. Charlton\" text was linked to people/ralph-dawson); now correctly points to the new people/rl-charlton.md. | 2026-07-11: p_214 VERIFY -- searched Furness Withy/Bermuda Line fleet records for a ship named Kanawana (5 surfaces, zero matches); updated Myth 2 prose and Sources with the null result.",
       "tags": {
         "era": [
@@ -4118,7 +4118,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 5622,
+      "word_count": 5631,
       "notes": "R1 RALPH completed 2026-02-27. 14 new KB facts. 23 KB facts total. 15 sources. Key findings: Marching Song traced to Alabama Jubilee (1915), lost verses found at Concordia 2006; full 1922 Yo Triumphy cheer; 1923 Gas Bag original songs; 1935 musicale; 1938 choir by Leshley; Kerr song on CD P145/SR0001 (4:30). Blocked on: oral history for section cheers/Grace/campfire repertoire; Concordia archives for song books 1925-1945. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the 'Correction (2026-07-09)' paragraph into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
