@@ -1,8 +1,8 @@
 {
-  "version": "6.18",
-  "kb_version": "6.18",
+  "version": "6.19",
+  "kb_version": "6.19",
   "migrated_from": "3.3",
-  "fact_count": 4764,
+  "fact_count": 4766,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -85356,7 +85356,7 @@
     },
     {
       "fact_id": "f_4801",
-      "claim": "AMY ORNSTEIN IS RESTORED AS THE LEADING CANDIDATE FOR THE 2019 PIP ALUMNI AWARD, having been wrongly excluded. Three things now point the same way: the 2019 recipient's title begins with \"Dr.\" (truncated on Andrew Caddell's LinkedIn, the only documentary trace of that year); Ornstein is a physician; and the operator confirms she worked at Kanawana and grew up in Montreal, which is what the Pip Award -- an ALUMNI award -- requires. This is not yet confirmation: no source names the 2019 recipient, and the candidacy originally entered this project from an unattributed search result. What has changed is that the objection to it has collapsed. The attribution should be carried as probable and unconfirmed, not asserted, until YMCA Quebec or the alumni network supplies the name.",
+      "claim": "[CONFIRMED 2026-09-05, same day: see f_4803. Matt Aronson, a member of the Pip Awards committee, states the 2019 recipient was Dr. Amy Ornstein. This fact's hedging is superseded -- it was written before that confirmation and correctly declined to assert the attribution on inference alone. Kept as the record of the reasoning that pointed the right way before the answer arrived.] AMY ORNSTEIN IS RESTORED AS THE LEADING CANDIDATE FOR THE 2019 PIP ALUMNI AWARD, having been wrongly excluded. Three things now point the same way: the 2019 recipient's title begins with \"Dr.\" (truncated on Andrew Caddell's LinkedIn, the only documentary trace of that year); Ornstein is a physician; and the operator confirms she worked at Kanawana and grew up in Montreal, which is what the Pip Award -- an ALUMNI award -- requires. This is not yet confirmation: no source names the 2019 recipient, and the candidacy originally entered this project from an unattributed search result. What has changed is that the objection to it has collapsed. The attribution should be carried as probable and unconfirmed, not asserted, until YMCA Quebec or the alumni network supplies the name.",
       "category": "awards",
       "entities": [
         "Amy Ornstein",
@@ -85385,6 +85385,45 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.18",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4803",
+      "claim": "CONFIRMED: the 2019 recipient of Camp Kanawana's Pip Alumni Award was Dr. Amy Ornstein. Confirmed 2026-09-05 by Matt Aronson, stating his standing as a member of the Pip Awards committee -- that is, from the body that administers the award and keeps its list, not from recollection at a distance. This is the strongest attestation available for this award: YMCA Quebec published no newsroom item for any recipient 2019-2023, and roughly sixty queries across every agent-accessible surface failed to name the 2019 recipient. It closes the first of the five undocumented years. It also settles, from the other direction, that Ornstein is a Kanawana alumna -- the award requires it -- corroborating f_4800 and finishing the withdrawal of this project's earlier 'debunking' of her (f_1882).",
+      "category": "awards",
+      "entities": [
+        "Amy Ornstein",
+        "Pip Alumni Award",
+        "Camp Kanawana",
+        "Matt Aronson"
+      ],
+      "date_ref": "2019",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "conflicts_with": [],
+      "added_version": "6.19",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4804",
+      "claim": "PIP AWARD COUNT, RECALCULATED WITH 2019 FILLED. YMCA Quebec's 2024 newsroom item calls Dr. James Orbinski 'the 15th recipient', so fourteen preceded him. This wiki names eleven recipients through 2018; Amy Ornstein's confirmed 2019 makes twelve. TWO RECIPIENTS THEREFORE REMAIN UNACCOUNTED FOR, distributed among 2010 and 2020-2023. If an award was given in 2010 -- recorded here as undocumented, NOT as confirmed skipped -- then exactly ONE award falls in 2020-2023 and three of those four years had none. If 2010 had no award, TWO fall in 2020-2023. The confirmation of 2019 narrows the open range from 'three or four awards across 2019-2023' to 'one or two across 2020-2023', and the ambiguity still turns entirely on 2010.",
+      "category": "awards",
+      "entities": [
+        "Pip Alumni Award",
+        "Camp Kanawana",
+        "James Orbinski",
+        "Amy Ornstein"
+      ],
+      "date_ref": "2010-2023",
+      "sources": [
+        "src_ymca_quebec_pip_orbinski_2024",
+        "src_oral_aronson"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.19",
       "added_by": "manual"
     }
   ]
