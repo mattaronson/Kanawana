@@ -1,8 +1,8 @@
 {
-  "version": "6.06",
-  "kb_version": "6.06",
+  "version": "6.07",
+  "kb_version": "6.07",
   "migrated_from": "3.3",
-  "fact_count": 4700,
+  "fact_count": 4714,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -84115,6 +84115,251 @@
       "conflicts_with": [],
       "added_version": "6.06",
       "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4739",
+      "claim": "The YMCA of Greater Halifax/Dartmouth's own 165th anniversary yearbook states on page 8: \"Our very own Big Cove YMCA Camp, in Pictou County, Nova Scotia, is the oldest continuously running residential camp in Canada.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Big Cove YMCA Camp",
+        "YMCA of Greater Halifax/Dartmouth"
+      ],
+      "date_ref": "2023",
+      "sources": [
+        "src_ymca_halifax_165th_yearbook"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [
+        "c_031"
+      ],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4740",
+      "claim": "The same YMCA of Greater Halifax/Dartmouth yearbook, in its historical timeline on page 28, records: \"1975 - 1980 Big Cove Camp operated the last season since opening as the children's residential summer camp, until 1980 when it reopened for resident camping once again.\" Resident camping therefore ceased after the 1975 season and resumed in 1980 -- four missed summers, 1976 through 1979.",
+      "category": "camping_movement",
+      "entities": [
+        "Big Cove YMCA Camp",
+        "YMCA of Greater Halifax/Dartmouth"
+      ],
+      "date_ref": "1975-1980",
+      "sources": [
+        "src_ymca_halifax_165th_yearbook"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [
+        "c_031"
+      ],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4741",
+      "claim": "One publication of the YMCA of Greater Halifax/Dartmouth contains both the claim that Big Cove is \"the oldest continuously running residential camp in Canada\" (p. 8) and a timeline entry recording that its resident camping stopped after 1975 and did not resume until 1980 (p. 28). The two statements are twenty pages apart and the publication does not reconcile them.",
+      "category": "methodology",
+      "entities": [
+        "Big Cove YMCA Camp",
+        "YMCA of Greater Halifax/Dartmouth"
+      ],
+      "date_ref": "2023",
+      "sources": [
+        "src_ymca_halifax_165th_yearbook"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [
+        "c_031"
+      ],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4742",
+      "claim": "Big Cove's four-summer gap was a closure and recovery, not a planned fallow period. Kelley Byrne, the camp's own director, wrote in 1987 that it \"closed in 1976 for want of repairs and reopened in 1980\"; the owner's 2023 yearbook independently records 1975 as the last season before it \"reopened for resident camping once again\" in 1980. Both sources describe a cessation followed by a reopening, and the stated cause is the physical condition of the plant.",
+      "category": "camping_movement",
+      "entities": [
+        "Big Cove YMCA Camp",
+        "Kelley Byrne"
+      ],
+      "date_ref": "1976-1980",
+      "sources": [
+        "src_ymca_halifax_165th_yearbook",
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4743",
+      "claim": "Big Cove YMCA Camp's current website claims it is \"Canada's oldest overnight camp\" with roots \"back to 1889\" and makes no mention of the 1976-1979 interruption. Its Wikipedia article likewise gives a 1889 founding and records no closure. Explicit null on both surfaces.",
+      "category": "sources",
+      "entities": [
+        "Big Cove YMCA Camp"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymcahfx_bigcove_page"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4744",
+      "claim": "The Camp Stephens Alumni blog states in a December 2020 post that COVID-19 \"Restrictions made it impossible to open camp this past summer (the first closure since 1917).\" The alumni association therefore dates the camp's First World War closure to 1917. Secondary summaries of the camp's history give 1918 instead; the two are not reconciled here and no source consulted gives both.",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Stephens"
+      ],
+      "date_ref": "1917",
+      "sources": [
+        "src_campstephens_alumni_blog"
+      ],
+      "confidence": "disputed",
+      "conflicts_with": [],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4745",
+      "claim": "An August 2020 Camp Stephens Alumni post records that \"Due to the pandemic, in the best interest of the health and safety of campers, staff and the surrounding community, camp and the wilderness canoe program was cancelled in May,\" and that \"With no campers, camp has no income. Yet the work still has to get done.\" Camp Stephens therefore lost the 2020 season. Camp Stephens is at Kenora, Ontario, so the prohibition that closed it was Ontario's, not Manitoba's.",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Stephens"
+      ],
+      "date_ref": "2020",
+      "sources": [
+        "src_campstephens_alumni_blog"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4746",
+      "claim": "The Camp Stephens Alumni blog claims that \"One of the reasons why Camp Stephens is the longest-serving summer camp in Canada is due to the generosity of alumni and our donors.\" This is a third distinct superlative in play, alongside Big Cove's \"oldest continuously running residential camp in Canada\" and Kanawana's withdrawn \"second-oldest.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Stephens"
+      ],
+      "date_ref": "2020",
+      "sources": [
+        "src_campstephens_alumni_blog"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4747",
+      "claim": "EXPLICIT NULL: whether Camp Stephens operated in the summer of 2021 could not be established. Its own site, its About Us page and the alumni blog's 2021 archive say nothing about that season, and the alumni blog's only 2021 post concerns an unrelated island preservation effort. Recorded as unknown, not as evidence that it ran.",
+      "category": "methodology",
+      "entities": [
+        "Camp Stephens"
+      ],
+      "date_ref": "2021",
+      "sources": [
+        "src_campstephens_alumni_blog",
+        "src_ywinnipeg_camp_stephens"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4748",
+      "claim": "Camp Stephens' own current pages give 1891 for the first Winnipeg YMCA camp at Keewatin Beach on Lake of the Woods, 1893 for the location of the five-island site, 1896 for the adoption of the name Camp Stephens, and \"over 130 years\" of operation. EXPLICIT NULL: they record no closure of any kind, neither the wartime one their own alumni association documents nor the 2020 one.",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Stephens",
+        "YMCA-YWCA of Winnipeg"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ywinnipeg_camp_stephens"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4749",
+      "claim": "Big Cove YMCA Camp also lost its overnight seasons to COVID-19 and, like Kanawana, kept its site in alternative use rather than ceasing operations: in 2020 it did not run overnight camp but allowed families to rent cabins, and in 2021 it operated as a campground offering canoeing and archery and sustained itself through its leadership training programme, returning to normal operations in 2022. The distinction between a camp that closed and a camp that kept staff and site working therefore does not separate Kanawana from Big Cove in 2020-21.",
+      "category": "camping_movement",
+      "entities": [
+        "Big Cove YMCA Camp",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2020-2022",
+      "sources": [
+        "src_cbc_bigcove_pandemic_summers"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4750",
+      "claim": "All three claimants to \"Canada's oldest camp\" lost overnight seasons to COVID-19 in 2020, and at least Kanawana and Big Cove lost 2021 as well. The pandemic interruption is therefore common to the sector and does not distinguish any claimant from another; it is the interruptions BEFORE 2020 that differ.",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana",
+        "Big Cove YMCA Camp",
+        "Camp Stephens"
+      ],
+      "date_ref": "2020-2021",
+      "sources": [
+        "src_campstephens_alumni_blog",
+        "src_cbc_bigcove_pandemic_summers",
+        "src_ymf_ymca_impact_report_2022_eng"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4751",
+      "claim": "Measured as the longest unbroken run of consecutive seasons, Kanawana leads every claimant: 1894 to 2019 inclusive is 126 consecutive seasons. Camp Stephens, closed in 1917 by its alumni association's own account, has a longest run of about 102 seasons (1918-2019). Big Cove, whose resident camping ceased after 1975, has a longest run of about 87 seasons (1889-1975) and only 40 since reopening (1980-2019). This holds on any of Big Cove's three candidate founding dates.",
+      "category": "founding",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Stephens",
+        "Big Cove YMCA Camp"
+      ],
+      "date_ref": "1894-2019",
+      "sources": [
+        "src_ymca_halifax_165th_yearbook",
+        "src_campstephens_alumni_blog"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4752",
+      "claim": "The 126-consecutive-season figure for Kanawana depends on the camp having missed no season between 1894 and 2019. No source records a missed season, and the years most likely to have broken the run are documented as operating: the camp ran through both world wars with boy-weeks flat to rising across 1940-45, ran in 1918 with 223 campers while Camp Stephens did not run, and stayed open through the 1946 polio outbreak on Dr. Cushing's advice with only canoe trips cancelled. But the attendance series has no figure at all for many years, and absence of a figure is not evidence of operation. The claim is stated on that basis and the assumption is named.",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1894-2019",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1894_1895"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.07",
+      "added_by": "web_research"
     }
   ]
 }
