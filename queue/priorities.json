@@ -4353,7 +4353,7 @@
       "priority_id": "p_339",
       "rank": 338,
       "type": "RESEARCH",
-      "description": "FIND THE QCA'S 1965 INSPECTION REPORT ON KANAWANA. Canadian Camping Vol. 18 No. 3 (April 1966), \"From the Provinces\": \"Quebec's concern for standards resulted in their securing the services of Mr. Murray McFarlane who visited twenty-seven camps during the summer months, and completed an exhaustive report on each camp. The camps were charged $25.00 for the visit, said visit to be made one every three years. A detailed report was submitted to the Standards Committee, and letters of accreditation were then forwarded to twenty-five camps which passed. Notices went to the two who did not meet the standards.\" That is the Quebec Camping Association's first documented accreditation round: a paid inspector, twenty-seven camps, an individual written report on each, a three-year cycle. Kanawana was a QCA member camp of exactly this size and type, so an exhaustive written 1965 report on the camp -- site, sanitation, waterfront, programme, staff -- was very probably produced and filed. This is the most specific and most promising archival lead the whole word-for-word read has produced for this wiki's own subject. WHERE TO LOOK: the Association des camps du Quebec's own records; the CCA/ACC fonds at Trent; the YMCA of Montreal fonds at Concordia for the camp's own copy and for the $25 payment in the accounts. NAME CAUTION: the inspector is very likely the P. M. McFarlane who wrote the Montreal MacKay Centre camp article in April 1965 -- a former camp director, therefore qualified to inspect -- but the given names differ in the two notices; record both and do not merge without a third source.\n\nAMENDMENT (extraction pass, issue 100): QUEBEC ACCREDITATION IS OLDER THAN 1965. The tribute read when the QCA English Section made Mrs. Alta R. Kahn its first Honorary President on 23 May 1973 records that she was Co-Chairman of the QCA Standards Committee in 1959-60, 'when inspection of camps and accreditation were in the pioneer stage.' So the machinery predates the 1965 McFarlane round by five or six years, and the search window for a written Kanawana accreditation report opens correspondingly earlier. The same tribute dates the association's Provincial Charter to 1961 -- a corporate record Quebec's register of enterprises should hold, and the most concrete handle yet on where the association's own papers went.",
+      "description": "FIND THE QCA'S 1965 INSPECTION REPORT ON KANAWANA. Canadian Camping Vol. 18 No. 3 (April 1966), \"From the Provinces\": \"Quebec's concern for standards resulted in their securing the services of Mr. Murray McFarlane who visited twenty-seven camps during the summer months, and completed an exhaustive report on each camp. The camps were charged $25.00 for the visit, said visit to be made one every three years. A detailed report was submitted to the Standards Committee, and letters of accreditation were then forwarded to twenty-five camps which passed. Notices went to the two who did not meet the standards.\" That is the Quebec Camping Association's first documented accreditation round: a paid inspector, twenty-seven camps, an individual written report on each, a three-year cycle. Kanawana was a QCA member camp of exactly this size and type, so an exhaustive written 1965 report on the camp -- site, sanitation, waterfront, programme, staff -- was very probably produced and filed. This is the most specific and most promising archival lead the whole word-for-word read has produced for this wiki's own subject. WHERE TO LOOK: the Association des camps du Quebec's own records; the CCA/ACC fonds at Trent; the YMCA of Montreal fonds at Concordia for the camp's own copy and for the $25 payment in the accounts. NAME CAUTION: the inspector is very likely the P. M. McFarlane who wrote the Montreal MacKay Centre camp article in April 1965 -- a former camp director, therefore qualified to inspect -- but the given names differ in the two notices; record both and do not merge without a third source.\n\nAMENDMENT (extraction pass, issue 100): QUEBEC ACCREDITATION IS OLDER THAN 1965. The tribute read when the QCA English Section made Mrs. Alta R. Kahn its first Honorary President on 23 May 1973 records that she was Co-Chairman of the QCA Standards Committee in 1959-60, 'when inspection of camps and accreditation were in the pioneer stage.' So the machinery predates the 1965 McFarlane round by five or six years, and the search window for a written Kanawana accreditation report opens correspondingly earlier. The same tribute dates the association's Provincial Charter to 1961 -- a corporate record Quebec's register of enterprises should hold, and the most concrete handle yet on where the association's own papers went.\n\nFURTHER AMENDMENT (extraction pass, issue 103): QUEBEC RE-ACCREDITED EVERY CAMP ANNUALLY. John Hasell, chairman of the CCA National Standards Committee, in the January 1975 Directory Issue: other provinces required 'a visit every two or three years, but Quebec has developed its programme to the point where every camp is re-accredited annually' -- printed in both languages. So what is missing is not one report but a SERIES: an annual, itemised, externally written assessment of Kanawana's administration, personnel practices, site, programme, health and safety, running from about 1960 (Kahn's 'pioneer stage', 1959-60) to whenever the camp's accreditation lapsed. Two named handles for the request: the QCA English Section had an ARCHIVES chairman in 1975, Mr. Joseph A. Hood, so the Section was actively keeping records; and its Executive Secretary, Miss Frances M. Kelly, ran a STAFF PLACEMENT BUREAU from 2233 Belgrave Avenue, which would have generated its own record of who worked at which Quebec camp. Ask for both by name.",
       "weight": 10,
       "status": "pending",
       "created": "2026-09-05",
@@ -4787,6 +4787,83 @@
       "status": "pending",
       "created": "2026-09-05",
       "source": "word-for-word read of Canadian Camping, issues 100-102, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_379",
+      "rank": 378,
+      "type": "RESEARCH",
+      "description": "RECOVER KANAWANA'S 1975 SEASON AND FEES FROM THE SCANNED DIRECTORY IMAGES. The January 1975 Directory Issue of Canadian Camping (Vol. 27 No. 2) carries a SEASON/FEES column, but in the OCR of the cached scan it appears as a floating block of dates and prices detached from their rows, so Kanawana's season and fee are on the printed page and cannot be safely attributed from the text layer. Go to the Internet Archive page images for this issue and read the Quebec table visually, recovering the season dates and fee for KANAWANA and for LES VOYAGEURS DE LA VERENDRYE. A camp fee for 1975 is a hard economic datum this project does not otherwise have, and it sits beside the capacity figures the same table gives. While in the images, also confirm the two entries' full text against the transcription in kb/facts.json.",
+      "weight": 9,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 103-105, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_380",
+      "rank": 379,
+      "type": "RESEARCH",
+      "description": "FIND F. M. VAN WAGNER'S 1955 MANUAL OF STANDARDS FOR CHILDREN'S SUMMER CAMPS IN THE PROVINCE OF QUEBEC. Frances M. Kelly's tribute in Canadian Camping (April 1975): 'In 1955 he formulated and first introduced a Manual of Standards for children's summer camps in the Province of Quebec.' This is the origin of the document Kanawana was measured against, and it now has an author and a date. The Quebec standards chain is: Van Wagner's Manual, 1955; accreditation 'in the pioneer stage' under Alta Kahn, 1959-60; provincial incorporation 23 January 1961; annual re-accreditation of every Quebec camp by 1975. Search: Camp Nominingue, which Van Wagner founded in 1925 and whose successors may hold his papers; the QCA English Section's own archives (Joseph A. Hood, chairman 1975); the CCA material at Trent; and Concordia's YMCA of Montreal fonds, since an accredited camp would have held a copy. The same tribute names him as the QCA's founder and first president, and records that he was CCA president 'with Office in Montreal from 1958 to 1961' -- three years in which national camping records were kept in Kanawana's own city.",
+      "weight": 9,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 103-105, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_381",
+      "rank": 380,
+      "type": "WRITE",
+      "description": "RECORD LES VOYAGEURS DE LA VERENDRYE AS A SEPARATELY ACCREDITED CAMP IN canoe-trips.md AND THE VOYAGEUR MATERIAL. The January 1975 national directory lists it in its own right, not as a Kanawana programme: 'LES VOYAGEURS DE LA VERENDRYE (YMCA); Director Derek V. Walsh; c/o Kamp Kanawana, P.O. Box 310, St. Sauveur des Monts; Activities: Wilderness, Canoe Trips, Fishing, Campcraft; Accommodation: 15 boys 13-17 / 5 girls 13-17.' Two things follow that the wiki does not currently say. First, the Quebec Camping Association treated the trip programme as a distinct wilderness camp operating out of the Kanawana site, which means it was separately accredited and would have generated its own annual visitation report. Second, the project now has a number for its scale and its gender composition in 1975: twenty places, fifteen boys' and five girls', ages 13 to 17 -- the girls' places existed but were a quarter of the boys'. Kanawana's own entry in the same directory gives 90 boys and 90 girls aged 8-15 at exactly equal capacity, so the trip programme's imbalance is not explained by the main camp's.",
+      "weight": 8,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 103-105, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_382",
+      "rank": 381,
+      "type": "RESEARCH",
+      "description": "FIND THE 'DIRECTORY OF YMCA/YM-YWCA/YWCA RESIDENCE CAMPS IN CANADA', c. 1975. Advertised on the back page of Canadian Camping's January 1975 Directory Issue as 'to be available soon at all Y's,' from the National Council, YMCA of Canada, 2160 Yonge Street, Toronto M4S 2A9, and the YWCA of Canada, 571 Jarvis Street, Toronto M4Y 2J1. A national directory of YMCA residence camps in which Kanawana would necessarily appear, published by Kanawana's own parent movement rather than by the camping association -- so its entry may carry different fields: sponsorship, the branch responsible, the relationship to the Montreal association. Search: YMCA Canada's national records, the YMCA of the USA's Kautz Family Archives (which holds Canadian material), Library and Archives Canada, and Concordia's YMCA of Montreal fonds.",
+      "weight": 8,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 103-105, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_383",
+      "rank": 382,
+      "type": "RESEARCH",
+      "description": "FIND THE MINUTES OF THE CCA ANNUAL MEETING OF OCTOBER 1974, HELD IN MONTREAL. Stated twice in the April 1975 issue, in the tributes to F. M. Van Wagner and Charles Plewman, both made Honorary Members there. A national camping association annual meeting in Kanawana's own city, in a year for which this project's Quebec record is thin, whose minutes would name the Quebec camps and people present -- and Kanawana's director was on the QCA English Section executive at the time. The same search should pick up the QCA Director and Senior Staff Seminar held in Montreal 14-16 March 1975 with Dr. Don Ehat as keynote, which Wilfred A. Jackson announces in the same issue.",
+      "weight": 7,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 103-105, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_384",
+      "rank": 383,
+      "type": "RESEARCH",
+      "description": "CHASE THE 1975 CONFERENCE TAPES ON STAFF SUPERVISION AND EVALUATION. The CCA's publications catalogue (April 1975) sells seventeen cassette tapes of the January 1975 Geneva Park national conference at $4.00 each, ten of them Canadian sessions: 'Recruiting, Hiring, Interviewing' (Bruce Harris), 'Evaluating Your Camp' (Barry Lowes), 'Staff Training' (John Boutin), 'Staff Supervision' (Brian Law), 'Develop Staff From Within Your Camp' (Al Knox), plus budget, recruiting and PR, camp philosophy and committees. A recorded, purchasable 1975 seminar on camp staff supervision and evaluation is directly relevant to p_307, and cassettes sold in quantity to member camps sometimes survive where paper does not. Ask the CCA's successor body and the Trent holdings. The same catalogue lists two new Canadian titles to find: the Camp Counsellor's Handbook by Blackstock and Latimer (1975, 128 pp.) and Tolbitt's Counsellor's Guide to Camp Singing (44 pp.), the nearest thing yet found to the national camp songbook p_311 is chasing.",
+      "weight": 7,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 103-105, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_385",
+      "rank": 384,
+      "type": "WRITE",
+      "description": "UPDATE derek-walsh.md WITH HIS QUEBEC ASSOCIATION CHRONOLOGY. Two independent sightings in this run fix it: the January 1975 Directory Issue lists him as Director of both Kanawana and Les Voyageurs de la Verendrye, and as chairman of the QCA English Section's Publicity and Public Relations committee; by October 1976 the stub already has him as President of the Section. So the presidency followed a committee chairmanship in the same portfolio he would later hold nationally. The directory also gives his name with the middle initial -- Derek V. Walsh -- and corroborates the stub's 1974-to-February-1979 directorship from an independent source. Note in the same article that A. R. Seaman, Kanawana's director of 1959-67, was an Honorary Member of the same Section in January 1975: two Kanawana directors on the provincial association's English Section at once.",
+      "weight": 7,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 103-105, converted to KB facts",
       "blocked_on": null
     }
   ],

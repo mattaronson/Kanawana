@@ -100,9 +100,9 @@
 {"n": 100, "title": "## 100 — Vol. 26 No. 1, Fall 1973", "chars": 18896, "status": "extracted", "facts": 26}
 {"n": 101, "title": "## 101 — Vol. 26 No. 2, Winter/Spring 1974", "chars": 17669, "status": "extracted", "facts": 21}
 {"n": 102, "title": "## 102 — Vol. 27 No. 1, November 1974", "chars": 12322, "status": "extracted", "facts": 13}
-{"n": 103, "title": "## 103 — Vol. 27 No. 2, January 1975 — THE DIRECTORY ISSUE", "chars": 18886, "status": "pending", "facts": 0}
-{"n": 104, "title": "## 104 — Vol. 27 No. 3, April 1975", "chars": 16887, "status": "pending", "facts": 0}
-{"n": 105, "title": "## 105 — Vol. 27 No. 4, June 1975", "chars": 13300, "status": "pending", "facts": 0}
+{"n": 103, "title": "## 103 — Vol. 27 No. 2, January 1975 — THE DIRECTORY ISSUE", "chars": 18886, "status": "extracted", "facts": 22}
+{"n": 104, "title": "## 104 — Vol. 27 No. 3, April 1975", "chars": 16887, "status": "extracted", "facts": 22}
+{"n": 105, "title": "## 105 — Vol. 27 No. 4, June 1975", "chars": 13300, "status": "extracted", "facts": 12}
 {"n": 106, "title": "## 106 — Vol. 28 No. 1, November 1975 — A FOUR-PAGE NEWSLETTER", "chars": 6010, "status": "pending", "facts": 0}
 {"n": 107, "title": "## 107 — Vol. 28 No. 2, January 1976 — THE SECOND DIRECTORY ISSUE", "chars": 14506, "status": "pending", "facts": 0}
 {"n": 108, "title": "## 108 — Vol. 28 No. 3, June 1976 — \"THIS ISSUE OF CANADIAN CAMPING IS ITS LAST\"", "chars": 10471, "status": "pending", "facts": 0}

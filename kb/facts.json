@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 3773,
+  "fact_count": 3829,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -66794,6 +66794,1059 @@
         "Quebec Camping Association"
       ],
       "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3812",
+      "issue": 103,
+      "claim": "The Canadian Camping Association's national Directory Issue of January 1975 lists Kanawana as printed: \"KANAWANA (1894) (YMCA); Director Derek V. Walsh; Summer: P.O. Box 310, St. Sauveur des Monts, Que. (514-227-2414); Winter office: 1441 Drummond St., Montreal, H3G 1W5 (514-849-5331); Activities: Tripping, Swimming, Sailing, Arts & Crafts, C.I.T. Program; Accommodation: 90 boys 8-15 / 90 girls 8-15.\" It is filed in the Quebec grouped index under \"Organizational Residential — Co-ed.\"",
+      "category": "site",
+      "entities": [
+        "Camp Kanawana",
+        "Derek Walsh",
+        "YMCA Montreal",
+        "Saint-Sauveur"
+      ],
+      "date_ref": "1975-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3813",
+      "issue": 103,
+      "claim": "The Quebec Camping Association's own accredited-camp listing, printed nationally in 20,000 copies in January 1975, gives Kanawana's founding year as 1894 — the camp's own claim as the provincial association held it.",
+      "category": "founding",
+      "entities": [
+        "Camp Kanawana",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1975-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3814",
+      "issue": 103,
+      "claim": "Kanawana's January 1975 directory entry gives its registered capacity as 90 boys aged 8 to 15 and 90 girls aged 8 to 15 — exactly equal capacity by sex — and the Quebec Camping Association classified it as co-ed. This is the camp's own registered capacity rather than an inference that it had become co-educational by that date.",
+      "category": "coeducation",
+      "entities": [
+        "Camp Kanawana",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1975-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3815",
+      "issue": 103,
+      "claim": "Kanawana's January 1975 directory entry lists a C.I.T. programme among its five headline activities, alongside tripping, swimming, sailing and arts and crafts.",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1975-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3816",
+      "issue": 103,
+      "claim": "The January 1975 national directory lists Les Voyageurs de la Verendrye as a separately accredited camp in its own right: \"LES VOYAGEURS DE LA VERENDRYE (YMCA); Director Derek V. Walsh; c/o Kamp Kanawana, P.O. Box 310, St. Sauveur des Monts, Quebec (514-227-2414); Winter: 1441 Drummond St., Montreal H3G 1W5; Activities: Wilderness, Canoe Trips, Fishing, Campcraft; Accommodation: 15 boys 13-17 / 5 girls 13-17.\" The La Verendrye canoe trip programme was therefore, in the eyes of the Quebec Camping Association, a distinct wilderness camp operating out of the Kanawana site, with fifteen boys' and five girls' places for ages 13 to 17.",
+      "category": "canoe_trips",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "Camp Kanawana",
+        "Derek Walsh"
+      ],
+      "date_ref": "1975-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3817",
+      "issue": 103,
+      "claim": "Kanawana's winter office in January 1975 was 1441 Drummond Street, Montreal H3G 1W5, telephone 514-849-5331 — the YMCA of Montreal's address.",
+      "category": "site",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA Montreal"
+      ],
+      "date_ref": "1975-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3818",
+      "issue": 103,
+      "claim": "The January 1975 directory carries a SEASON/FEES column, but in the OCR of the cached scan it appears as a floating block of dates and prices detached from their rows. Kanawana's season and fee are present on the printed page but are not safely attributable from the OCR, and are recoverable only from the scanned images.",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana",
+        "Canadian Camping (magazine)"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1975-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3819",
+      "issue": 103,
+      "claim": "The Quebec association's own corporate history, printed in both languages in the January 1975 directory: \"The QUEBEC CAMPING ASSOCIATION INC. — L'ASSOCIATION DES CAMPS DU QUEBEC INC. is a bilingual non-profit organization incorporated under Quebec law, January 23rd, 1961. The English Section was started in 1937, and was incorporated by Federal Charter in 1949. It is affiliated with the CANADIAN CAMPING ASSOCIATION.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec Camping Association",
+        "Association des camps du Quebec",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1961-01-23",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3820",
+      "issue": 103,
+      "claim": "The Quebec Camping Association's English Section was incorporated by Federal Charter in 1949 and the joint bilingual association by Quebec provincial charter on 23 January 1961 — two separate incorporations twelve years apart, federal then provincial. The 1949 federal charter is previously unrecorded in this project, and it explains how a body founded in 1937 could describe itself as newly chartered in 1961 without contradiction.",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1949",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3821",
+      "issue": 103,
+      "claim": "The joint Quebec association's officer list of January 1975 gives its Past Presidents as M. Lionel Perras, M. Tony Shorgan, Mme N.D. Demetelin, Mme Alta R. Kahn and H. Capt. Abbe Raoul Cloutier, and lists Cloutier separately as an Honorary Member alongside Jules Leavitt, Q.C. The rank \"H. Capt.\" — Honorary Captain, a military chaplaincy title he still carried in 1975 — independently corroborates the wartime service Claude Cousineau described. The founder of hebertisme in Quebec presided over the province's camping association and was still an honorary member of it in the year Kanawana was accredited by it.",
+      "category": "camping_movement",
+      "entities": [
+        "Raoul Cloutier",
+        "Lionel Perras",
+        "Tony Shorgan",
+        "Sophia Demetelin",
+        "Alta Kahn",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1975-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3822",
+      "issue": 103,
+      "claim": "John Hasell, Chairman of the Canadian Camping Association's National Standards Committee, wrote in January 1975 that re-accreditation intervals varied \"with some provinces requiring a visit every two or three years, but Quebec has developed its programme to the point where every camp is re-accredited annually\" — repeated in French as \"quelques-uns sont raccredites tous les deux ou tous les trois annees tandis qu'au Quebec chaque camp est raccredite chaque annee.\"",
+      "category": "archives",
+      "entities": [
+        "John Hasell",
+        "Quebec Camping Association",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1975-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3823",
+      "issue": 103,
+      "claim": "If Quebec re-accredited every camp annually, then a written visitation report on Kanawana exists for every year of its accreditation rather than one every two or three years — a series, not a document. Combined with Quebec accreditation dating to the pioneer years of 1959-60 and Madelene Allen's account of what a visitation covered, the shape of the missing record is an annual, itemised, externally written assessment of Kanawana's administration, personnel practices, site, programme, health and safety, running from about 1960.",
+      "category": "archives",
+      "entities": [
+        "Camp Kanawana",
+        "Quebec Camping Association"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3824",
+      "issue": 103,
+      "claim": "John Hasell specifies what a 1975 accreditation visitation covered: written and implemented objectives; \"sound financial control... through the use of budgets, financial statements and properly maintained accounts, records and inventories\"; insurance including comprehensive liability, motor vehicle, fire and theft, passenger hazard, health and workmen's compensation; that \"the visitation or accreditation team will make certain that the camp publicity is accurate and not misleading\"; programme; facilities, site, equipment and transportation; diet and feeding; and staff, with \"at least one experienced camp director who will be able to assess the effectiveness and competence of the staff.\" His framing: visitations are \"regarded not so much as an inspection as a consultative service,\" and \"Standards do not mean standardization.\"",
+      "category": "archives",
+      "entities": [
+        "John Hasell",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1975-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3825",
+      "issue": 103,
+      "claim": "The Quebec Camping Association English Section's officer list of January 1975 names Mr. Derek Walsh as chairman of Publicity and Public Relations and Mr. A. R. Seaman among its Honorary Members — Kanawana's serving director and its director of 1959-67 both on the provincial association's English Section at the same time. Walsh chaired that committee in January 1975 and was President by October 1976, so the presidency followed a committee chairmanship in the same portfolio he would later hold nationally.",
+      "category": "people",
+      "entities": [
+        "Derek Walsh",
+        "A. Ross Seaman",
+        "Quebec Camping Association",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1975-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3826",
+      "issue": 103,
+      "claim": "The Quebec Camping Association English Section's full 1975 list: Honorary President Mrs. Alta R. Kahn; Honorary Members Mr. and Mrs. Neil B. Powter, Mr. A. R. Seaman, Mr. T. Shorgan, Miss A. I. Vail and Mr. F. M. Van Wagner; President Mrs. Val Willis; Vice-Presidents Mrs. Barbara Patterson and Mr. Wilfred Jackson; Treasurer Mrs. D. Jacques Reeves; Secretary Mr. Joseph A. Friedman; Past President Mr. Zave Ettinger. Anne I. Vail — the Montreal CCA past president unasterisked in the 1972 list — was alive and honoured in 1975.",
+      "category": "camping_movement",
+      "entities": [
+        "Alta Kahn",
+        "Neil B. Powter",
+        "A. Ross Seaman",
+        "Anne I. Vail",
+        "F. M. Van Wagner",
+        "Val Willis",
+        "Zave Ettinger",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1975-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3827",
+      "issue": 103,
+      "claim": "The Quebec Camping Association English Section's committee chairmen in January 1975 included Mrs. J. Robin Allen and Mr. Doug Anakin on Staff Training, Mrs. Nicholas D. Demetelin on Directory of Membership, Mr. Joseph A. Hood on Archives, Mr. Isaac Katofsky on Senior Citizens, Miss Frances M. Kelly on the Staff Placement Bureau (she was also the Section's Executive Secretary at 2233 Belgrave Avenue), Mr. Walter Mingie on Outdoor Education and Mr. Peter Van Wagner on Standards. An Archives chairman means the Section was actively keeping records in 1975 — where annual Kanawana accreditation reports would most naturally sit — and a Staff Placement Bureau means there was a central Quebec clearing-house for camp staff, generating its own records of who worked where.",
+      "category": "archives",
+      "entities": [
+        "Joseph A. Hood",
+        "Frances M. Kelly",
+        "Doug Anakin",
+        "Walter Mingie",
+        "Peter Van Wagner",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1975-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3828",
+      "issue": 103,
+      "claim": "An advertisement on the back page of the January 1975 Directory Issue announces a \"DIRECTORY OF YMCA/YM-YWCA/YWCA RESIDENCE CAMPS IN CANADA — to be available soon at all Y's,\" from the National Council, YMCA of Canada, 2160 Yonge Street, Toronto, and the YWCA of Canada, 571 Jarvis Street, Toronto. A national directory of YMCA residence camps published about 1975, in which Kanawana would necessarily appear.",
+      "category": "sources",
+      "entities": [
+        "YMCA of Canada",
+        "YWCA of Canada",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3829",
+      "issue": 103,
+      "claim": "The January 1975 Quebec directory lists \"PERROT DAY CAMP (1948) (Y.M.C.A.)\", director Mr. Paul Cappelli, 2467 Ile Perrot Blvd., office 170 St. Louis Ave., Pointe Claire; activities swimming, gymnastics, archery, games, arts and crafts; 410 boys and 291 girls, ages 4 to 12 — seven hundred children, by far the largest camp in the Quebec listing.",
+      "category": "site",
+      "entities": [
+        "Camp Perrot",
+        "Paul Cappelli",
+        "YMCA Montreal"
+      ],
+      "date_ref": "1975-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3830",
+      "issue": 103,
+      "claim": "Camp Oolahwan and Camp Lighthall were both still accredited and operating in January 1975, listed in the Quebec directory under Organizational Residential — Girls, alongside Marian, Quebec Lodge and Wa-Thik-Ane (GGOC).",
+      "category": "inter-camp",
+      "entities": [
+        "Camp Oolahwan",
+        "Camp Lighthall",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1975-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3831",
+      "issue": 103,
+      "claim": "The January 1975 Quebec directory lists \"JEWISH LAURENTIAN FRESH AIR CAMP (1927) (Golden Age Association),\" St. Hippolyte, for 35 men and 35 women aged 60 and over — one of the three Jewish Community Camps Alta Kahn ran as Executive Secretary from 1946 to 1949, now a seniors' camp under a different sponsor. Wooden Acres, another of the three, is also still listed.",
+      "category": "inter-camp",
+      "entities": [
+        "Jewish Laurentian Fresh Air Camp",
+        "Wooden Acres",
+        "Alta Kahn"
+      ],
+      "date_ref": "1975-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3832",
+      "issue": 103,
+      "claim": "Val Willis's National Code of Ethics, printed in full in both languages in January 1975 over her name as Chairman of the National Ethics Committee, sets out nine principles including: \"We will familiarize ourselves with and comply with all government laws and regulations governing the operation of camps\"; \"We shall concern ourselves with the welfare of our natural environment and encourage others to do likewise\"; \"Our advertising and publicity shall avoid misleading statements and superlatives\"; and \"We shall refer to the Executive Committee any unethical practices which could be detrimental to the integrity and dignity of the Association.\" Willis was simultaneously President of the QCA English Section that accredited Kanawana.",
+      "category": "camping_movement",
+      "entities": [
+        "Val Willis",
+        "Canadian Camping Association",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1975-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3833",
+      "issue": 103,
+      "claim": "Jack Pearse's \"If I Were to Send My Child to Camp\" (January 1975), drawn from the OCA directory's \"In Choosing your Child's Camp Be Sure,\" gives a parent's checklist and a diagnostic reading of a camp's equipment: \"if there are a dozen power boats, six dozen pairs of water skis and one leaky canoe, that should tell you something about the waterfront program. If the horseback riding stables are in better shape than the camper cabins, that ought to tell you something.\" On staffing: \"As a good rule of thumb, a camp should have one staff for every three campers.\" He quotes John Ledlie's Managing the Y.M.C.A. Camp at length, and a director's line, \"We don't teach the reef knot, we teach the camper.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Jack Pearse",
+        "John Ledlie",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1975-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3834",
+      "issue": 104,
+      "claim": "Frances M. Kelly's tribute to F. M. Van Wagner (Canadian Camping, April 1975), written on his being made an Honorary Member of the CCA, states: \"As early as 1937, as promoter and charter member of the C.C.A., Mr. 'Van' organized the Quebec Camping Association, English Section, to improve the camping methods and to raise the standard of the camps throughout the Province of Quebec. He was also the first President of the Q.C.A.\"",
+      "category": "camping_movement",
+      "entities": [
+        "F. M. Van Wagner",
+        "Frances M. Kelly",
+        "Quebec Camping Association",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1937",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3835",
+      "issue": 104,
+      "claim": "\"In 1955 he formulated and first introduced a Manual of Standards for children's summer camps in the Province of Quebec\" — F. M. Van Wagner is the author of the first Quebec camp standards manual, and it has a name and a date. The chain of Quebec standards is therefore: Manual of Standards, Van Wagner, 1955; accreditation practice \"in the pioneer stage\" under Alta Kahn, 1959-60; the association's provincial incorporation, 23 January 1961; annual re-accreditation of every Quebec camp by 1975. Kanawana was measured against a document written by a named man in a named year.",
+      "category": "archives",
+      "entities": [
+        "F. M. Van Wagner",
+        "Alta Kahn",
+        "Quebec Camping Association",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1955",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3836",
+      "issue": 104,
+      "claim": "F. M. Van Wagner \"was President of the Canadian Camping Association with Office in Montreal from 1958 to 1961\" — the national association's office was in Montreal for three years under a Montreal president, a period in which national camping records were kept in Kanawana's own city.",
+      "category": "camping_movement",
+      "entities": [
+        "F. M. Van Wagner",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1958",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3837",
+      "issue": 104,
+      "claim": "F. M. Van Wagner was born in Hyde Park, New York, had a farm childhood and a career in physical education, and was aged 80 in 1975, so born about 1894-95. He founded Camp Nominingue in 1925 on Petit Lac Nominingue in the Laurentians, and \"In 1974, the camp celebrated its 50th season.\" He received the Centennial Medal in 1967, an Award of Merit from the Provincial Board of the QCA English and French Sections in 1968, and Honorary Membership of the CCA at the Annual Meeting in October 1974; he had been ski-touring since the mid-1930s and \"next to the famous 'Jackrabbit' Johannsen, 'Van' has probably travelled more ski-miles in the Laurentians than anyone.\"",
+      "category": "biography",
+      "entities": [
+        "F. M. Van Wagner",
+        "Camp Nominingue",
+        "Herman Smith-Johannsen"
+      ],
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3838",
+      "issue": 104,
+      "claim": "F. M. Van Wagner's 1975 tribute gives Camp Nominingue's founding as 1925, and the fiftieth-season arithmetic (fiftieth season in 1974) agrees. This project's records carry a 1924/1925 discrepancy for Nominingue; the founder's own tribute is recorded here as evidence for 1925 without unilaterally resolving it.",
+      "category": "inter-camp",
+      "entities": [
+        "F. M. Van Wagner",
+        "Camp Nominingue"
+      ],
+      "confidence": "disputed",
+      "date_ref": "1925",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3839",
+      "issue": 104,
+      "claim": "The Canadian Camping Association's Annual Meeting of October 1974 was held in Montreal, stated twice in the April 1975 issue in the tributes to F. M. Van Wagner and Charles Plewman, both of whom were made Honorary Members there. Its minutes would name the Quebec camps and people present.",
+      "category": "archives",
+      "entities": [
+        "Canadian Camping Association",
+        "F. M. Van Wagner",
+        "Charles Plewman"
+      ],
+      "date_ref": "1974-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3840",
+      "issue": 104,
+      "claim": "Charles Plewman's career as dated in his April 1975 tribute: first attended camp as a camper in 1903; ran his first short-term camp in 1909; Director of Camp On-Da-Da-Waks 1913-1916; then three years directing Camp Stephens; Inter-Church camps thereafter; opened his own boys' camp, Kilcoo, in 1932 and owned it until 1955; helped found the Ontario Camping Association and was its President in 1945. \"He and some of his associates began publishing a 'Camp Bulletin'... the forerunner of 'Canadian Camping'.\"",
+      "category": "biography",
+      "entities": [
+        "Charles Plewman",
+        "Camp On-Da-Da-Waks",
+        "Camp Stephens",
+        "Kilcoo Camp",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3841",
+      "issue": 104,
+      "claim": "Three accounts of Canadian Camping's parentage now stand together without needing to be reconciled: Charles Plewman's own (1971), Mary Northway's on Mary Edgar (1973), and Plewman's 1975 tribute — an Ontario \"Camp Bulletin\" begun by Plewman and associates, with Mary Edgar as its first editor, becoming the national Canadian Camping Bulletin whose first printed issue was February 1949.",
+      "category": "sources",
+      "entities": [
+        "Charles Plewman",
+        "Mary S. Edgar",
+        "Mary L. Northway",
+        "Canadian Camping (magazine)"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3842",
+      "issue": 104,
+      "claim": "Abbe Paul Belanger, Director of Camp Ecole Keno and the magazine's Quebec correspondent, opened his April 1975 Viewpoint with the practice he was arguing against: \"due to our selection processes, we have taken the habit of accepting in our camps normal children only, refusing systematically children with behaviour problems or with physical handicaps. These children were grouped in specialized camps, sheltered from the 'dangers of the outdoors', where they could not contaminate 'good children' or run the risk of being ridiculed by them.\" Recorded exactly as written in 1975.",
+      "category": "programs",
+      "entities": [
+        "Paul Belanger",
+        "Camp Ecole Keno"
+      ],
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3843",
+      "issue": 104,
+      "claim": "Paul Belanger records that Camp Ecole Keno had integrated blind campers since 1971: \"with the help of people responsible for the education of blind and half-blind children, we have continued each summer to take as campers 8 to 10 of these children and integrated them in groups of 10 campers, one handicapped child to a group.\" His four stated conditions: do not water down the programme; aim at true integration and avoid treating the child as \"a second-class camper\"; keep one or two staff who know the children as resource persons, not necessarily as their counsellors; and never more than one such camper per cabin.",
+      "category": "programs",
+      "entities": [
+        "Paul Belanger",
+        "Camp Ecole Keno"
+      ],
+      "date_ref": "1971",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3844",
+      "issue": 104,
+      "claim": "Paul Belanger's 1975 case study is Francois, blind from birth and twelve at his first summer at Camp Ecole Keno, integrated fully into a normal cabin group. Two of his teachers were on staff that year and it was deliberately decided neither would be his counsellor; they \"insisted that nothing be changed in the camp program because of Francois.\" He swam, did hebertisme once he had learned the course, shot archery using a small bell pinned to the centre of the target sounded by a rope he touched with his foot when ready to aim, passed all the canoeing safety tests, and went on canoe trips. Walking the beach he stayed exactly at the water line without getting wet, and when asked how, said \"I can smell the water!\"",
+      "category": "programs",
+      "entities": [
+        "Paul Belanger",
+        "Camp Ecole Keno"
+      ],
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3845",
+      "issue": 104,
+      "claim": "Stan Talesnick of the Camp Tawingo Outdoor Centre described group initiative tasks used in Staff Orientation Week in April 1975: staff split into twelve groups of ten, deliberately mixed for \"ages, experiences, camp responsibilities, leadership abilities and personalities,\" rotating through ten of twelve fifteen-minute tasks over two and a half hours. The sources are named: \"Most of the tasks are collected from the Colorado Outward Bound School, via Bob Woodburn of York University, or from the Canadian Outward Bound School.\"",
+      "category": "staff",
+      "entities": [
+        "Stan Talesnick",
+        "Camp Tawingo",
+        "Colorado Outward Bound School",
+        "Bob Woodburn"
+      ],
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3846",
+      "issue": 104,
+      "claim": "The twelve group initiative tasks Stan Talesnick printed in 1975 are the recognisable ancestors of the modern team-building course: the Beam (a 6-inch log lashed 8 feet up between two trees, everyone over including the last person, who cannot be helped from below); Pole and Tire; Electric Fence; setting up a tent with no talking and optionally blindfolded; blindfold walks led non-verbally; simulated first aid situations using red dye; measuring tree heights without instruments; Diverging Bridge; Tea in a Tree; getting the whole group onto a rock or stump; loading a canoe anchored five feet out without touching the water; and a rope maze crawled out of blindfolded. The debrief questions are the point: \"Did one or two people repeatedly assume leadership, or was the role passed around? Was everyone listened to? Did any group members behave 'out of character'? If so, how?\"",
+      "category": "staff",
+      "entities": [
+        "Stan Talesnick",
+        "Camp Tawingo"
+      ],
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3847",
+      "issue": 104,
+      "claim": "Dr. John J. Kirk, Director of the New Jersey School of Conservation, dated organized camping's origin to 1861 at Milford-on-the-Sound, Connecticut, under Fred Gunn, headmaster of the Gunnery School, who moved his whole student body to a camp site for two weeks after students asked \"to be given the opportunity to live like soldiers,\" and gave about ten million children in Canadian and American camps in the summer of 1975.",
+      "category": "camping_movement",
+      "entities": [
+        "John J. Kirk",
+        "Fred Gunn"
+      ],
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3848",
+      "issue": 104,
+      "claim": "John J. Kirk's April 1975 critique of camping is the period's own indictment from inside: \"Many children attend organized camps today, and in the four-, six-, or eight-week experience may never have the thrill of cooking a meal over an open fire, may never have the challenge of pitching a tent or the enjoyment of sleeping under the stars\"; camps use the natural environment \"as a theatrical backdrop\"; the old nature study required campers to learn \"the names of ten trees, fifteen flowers, six birds and three animals; and for this monumental achievement they would receive the 'looney bird award'\"; and \"Camping people will sit around the campfires, sing their quaint little songs and toast their marshmallows while the world collapses around them. This unrealistic approach, if allowed to continue, may well cause the camping movement to become an endangered species and ultimately to become extinct.\"",
+      "category": "camping_movement",
+      "entities": [
+        "John J. Kirk"
+      ],
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3849",
+      "issue": 104,
+      "claim": "Grant McKeen reported that the British Columbia Camping Association surveyed its camps in 1974 and 43 returned material: \"Over 20,000 children were registered in these camps — 2,100 staff were employed — $400,000 was spent on salaries — $275,000 was spent on food.\" Registration was increasing at 22 camps, constant at 17 and decreasing at only 4. From the start of 1974 only accredited camps could join the BCCA.",
+      "category": "camping_movement",
+      "entities": [
+        "Grant McKeen",
+        "British Columbia Camping Association"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3850",
+      "issue": 104,
+      "claim": "J. Harry Ebbs reported in April 1975 that \"The camp Health form for both campers and staff should have smallpox deleted from the list of vaccinations\" — so camp health forms before about 1975 asked for smallpox vaccination and after it did not, which dates a form. He also noted tetanus toxoid was now known effective for at least ten years.",
+      "category": "archives",
+      "entities": [
+        "J. Harry Ebbs"
+      ],
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3851",
+      "issue": 104,
+      "claim": "Catherine Thomas of Camp Northway set out how to organise a camp sailing programme in April 1975: minimum recommended age nine; sessions of at least two weeks and preferably three or four; a waterfront needing \"a traffic-free area on the water... It is unnerving for the novice sailor to have to negotiate his way through the canoeing program\"; and twelve rules for choosing a boat, of which \"be sure the boat you choose is CAMPER PROOF\" and don't buy the racing model, \"too light and... equipped with too many lines and gadgets.\" The Canadian Yachting Association administered a loan fund for boats bought for junior training, open to camps holding CYA membership.",
+      "category": "programs",
+      "entities": [
+        "Catherine Thomas",
+        "Camp Northway",
+        "Canadian Yachting Association"
+      ],
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3852",
+      "issue": 104,
+      "claim": "Wilfred A. Jackson of Quebec reported in April 1975 that \"the Keynote Speaker, Dr. Don Ehat, has been secured for the Q.C.A. Director and Senior Staff Seminar to be held March 14-16 in Montreal\" — a Quebec directors' and senior staff seminar in Montreal in March 1975, which Kanawana's director, then on the QCA English Section executive, would have been in a position to attend.",
+      "category": "camping_movement",
+      "entities": [
+        "Wilfred Jackson",
+        "Don Ehat",
+        "Quebec Camping Association",
+        "Derek Walsh"
+      ],
+      "date_ref": "1975-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3853",
+      "issue": 104,
+      "claim": "The Canadian Camping Association sold seventeen cassette tapes of its January 1975 Geneva Park national conference at $4.00 each, including seven Don Ehat sessions and ten Canadian ones: \"Recruiting, Hiring, Interviewing\" (Bruce Harris), \"Evaluating Your Camp\" (Barry Lowes), \"Staff Training\" (John Boutin), \"Staff Supervision\" (Brian Law), \"Develop Staff From Within Your Camp\" (Al Knox), budget (Ron Johnstone), recruiting and PR (Doug McEwan), camp philosophy (Arnie Cohen) and working with committees (Tony Fry). A recorded 1975 seminar on camp staff supervision and evaluation, sold on tape, which may survive.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping Association",
+        "Don Ehat",
+        "Brian Law",
+        "Barry Lowes",
+        "Al Knox"
+      ],
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3854",
+      "issue": 104,
+      "claim": "The Canadian Camping Association's 1975 publications catalogue announces \"CAMP COUNSELLOR'S HANDBOOK. Blackstock & Latimer. — 1975 publication. New, up-to-date! 128 p. $4.95\" — the CCA president and the publications chairman co-writing the national counsellor manual — and \"Counsellor's Guide to Camp Singing\" by Tolbitt, 44 pages, which is the nearest thing yet found to the national camp songbook.",
+      "category": "sources",
+      "entities": [
+        "Brian Blackstock",
+        "John Latimer",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3855",
+      "issue": 104,
+      "claim": "The February 1974 National Standards Workshop at Camp Richildaca, Kettleby, defined day camping: \"Day Camping was defined as an experience in group living in a natural environment. It is a sustained experience carried on during the daytime under the supervision of trained leadership.\" It also recorded that \"In response to concern for a low standard of supervision in some government-funded day camps, letters were sent to government project officers requesting them to consult with the Standards Committees of provincial camping associations before approving outdoor recreation projects\" — the camping establishment lobbying in writing against government-funded youth camps.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1974-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3856",
+      "issue": 105,
+      "claim": "Bruno Morawetz, Director of Camp Ponacka, wrote in Canadian Camping, June 1975: \"The one thing which occupies a large part of our time is our annual Hoax (Indian Burial ground, unidentified flying object, glabergoof egg, etc.). With the bombardment from noise and the mass media, the imagination is frequently overlaid and buried. Camp is a good place to re-awaken it.\" The camp hoax was therefore annual, institutional and directed from the top at that camp, and the glabergoof egg invented in Bob Attfield's 1972 article appears here three years later as a past year's hoax.",
+      "category": "legends",
+      "entities": [
+        "Bruno Morawetz",
+        "Camp Ponacka",
+        "Bob Attfield"
+      ],
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3857",
+      "issue": 105,
+      "claim": "A staged \"Indian Burial ground\" is documented as a recognised camp-hoax type of the period, named by a camp director in the national trade press in June 1975. Kanawana's camp map carried an \"Indian Grave\" marking for which no documentation has been found explaining whether it referred to an actual burial site, a naturalistic feature or a campfire-story location. A staged hoax is a fourth possibility, not an answer, but it is the first evidence of any kind bearing on that question.",
+      "category": "legends",
+      "entities": [
+        "Bruno Morawetz",
+        "Camp Kanawana"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3858",
+      "issue": 105,
+      "claim": "Bruno Morawetz argued in June 1975 that a camper's \"fourteen hour day consists of hundreds of minute incidents\" which \"make or break his camping experience,\" so the director should delegate the important things — daily routines, maintenance, buying — and keep himself free for the unimportant ones, \"being free to talk to a camper on the path or tell a bedtime story to one little group.\" On staff applications: \"I am always suspicious when a staff application is accompanied by a long resume listing dozens of qualifications, courses taken, tests passed... A good counsellor needs ears tuned to the ripples of a child. He needs more the ability to listen than the skill to teach.\" On facilities: \"A highly developed campsite may prove to be a real handicap. When our camp was young, the campers derived great satisfaction from creating a new path or cutting trees for a new tent. Now it's all done.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Bruno Morawetz",
+        "Camp Ponacka"
+      ],
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3859",
+      "issue": 105,
+      "claim": "Don Dickie, a Royal Life Saving Society summer field representative, printed a timed water search procedure in June 1975 in which everything is done correctly and the camper dies: buddy check at 0 seconds, missing camper discovered at 10, emergency signal at 15, waterfront cleared at 20, counsellors report at 40, attendance taken at 1 minute, search groups formed at 1:10, full water search begun at 1:30, one sweep concluded at 3:00, the body found within five feet of where the camper was last seen at 3:05, artificial respiration commenced at 3:30. \"The camper has been without oxygen for a minimum of 3 min. & 30 sec.... Brain damage may have set in after 3 min.\" His conclusion: \"It took 1 min. & 15 sec. from the time the camper was discovered missing until the water search was initiated. It was in these wasted seconds that the chance of reviving the subject was lost.\"",
+      "category": "programs",
+      "entities": [
+        "Don Dickie",
+        "Royal Life Saving Society"
+      ],
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3860",
+      "issue": 105,
+      "claim": "Don Dickie's 1975 article gives the signs of a non-swimmer in difficulty — vertical body position, no supporting kick, eyes wide open, no call for help because \"priority is breathing\" — notes that a drowning non-swimmer usually stays conscious about forty seconds after his last breath and that a body after unconsciousness is usually within eight feet of the surface, and requires that a camp's search procedure be \"written up and posted,\" taught to each new intake of campers, and tried at least once a season with no advance warning: \"Many procedures that look adequate on paper and in controlled trials, may not work in practice.\"",
+      "category": "programs",
+      "entities": [
+        "Don Dickie",
+        "Royal Life Saving Society"
+      ],
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3861",
+      "issue": 105,
+      "claim": "A boxed note in Canadian Camping, June 1975: \"Legislation under Small Vessels Regulations now requires a Ministry of Transport approved lifejacket or Personal Flotation Device for each person in any vessel at all times. Canoes and rowboats were previously exempted but are now included.\" This is the outcome of the life-jacket policy committee Claude Cousineau was appointed CCA liaison to in 1973, and 1975 is the year canoes came under the requirement.",
+      "category": "canoe_trips",
+      "entities": [
+        "Claude Cousineau",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3862",
+      "issue": 105,
+      "claim": "Bob Attfield's \"The Successful Singsong\" (June 1975) records that \"Some of our best song leaders seldom, if ever, use any song books,\" because distributing books and flipping pages \"detracts from the spontaneity,\" and \"If song words can be taught without the use of books, so much the better\" — a direct explanation of why camp song repertoires of the period are so poorly documented: the good practice was deliberately not to use printed books.",
+      "category": "traditions",
+      "entities": [
+        "Bob Attfield"
+      ],
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3863",
+      "issue": 105,
+      "claim": "Bob Attfield's 1975 singsong method: start the day with a quick singsong right after breakfast; three or four songs is enough, and \"it is better to cut a song period short than to let it drag on.\" His named repertoire: warm-ups \"The Grand Old Duke of York,\" \"When the Saints Go Marching In\" and \"The Junior Birdsmen\"; competition song \"The Quarter Master's Store,\" \"great for inducing each cabin group to produce an original rhyme\"; rounds \"Frere Jacques,\" \"Row, Row, Row Your Boat\" and \"Good News\"; and the daily bookends — \"How rewarding for a camper to be able to begin the day with 'Alouette' and retire with an appropriately soothing melody like 'Land of the Silverbirch'.\"",
+      "category": "traditions",
+      "entities": [
+        "Bob Attfield"
+      ],
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3864",
+      "issue": 105,
+      "claim": "\"L'Expedition Bostochouane\" (Canadian Camping, June 1975) records a 150-mile canoe expedition by Camp Richelieu Quatre-Saisons, Ste-Therese: eight people, Jean-Pierre as animateur on his fourth such expedition, Denis as co-animateur, and six boys aged 14 to 17. Preparation began in January with fortnightly meetings, each boy taking a portfolio — Alain cartographer, Michel F. treasurer, Andre minutes and correspondence, Pierre canoe repair, Michel B. menu and food, Daniel equipment. It was financed at about $100 a head by member contributions, a sale of kites the team built themselves, circular distribution and grounds-clearing work in May.",
+      "category": "canoe_trips",
+      "entities": [
+        "Camp Richelieu Quatre-Saisons",
+        "Sainte-Therese"
+      ],
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3865",
+      "issue": 105,
+      "claim": "The Bostochouane expedition departed on 15 August from Lac Montagnais in the Parc des Laurentides, down the Metascouac to the Metabetchouane, then Grand lac Bostonnais and the Bostonnais river to La Tuque — about 150 miles. The hard section was \"les Neuf milles de rapides,\" which they were advised to run without baggage in open canoes; one canoe was swamped in a class 3 rapid hidden in a sharp bend, the occupants saved by life jackets and companions with only leg grazes, the canoe patched with strong adhesive tape for the rest of the trip.",
+      "category": "canoe_trips",
+      "entities": [
+        "Camp Richelieu Quatre-Saisons",
+        "La Tuque"
+      ],
+      "date_ref": "1975-08-15",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3866",
+      "issue": 105,
+      "claim": "The Canadian Camping Association's executive from mid-1975 was President Ron Johnstone, Vice-President Jack Pearse, Secretary Jay Haddad, Treasurer Bill Swift; John Latimer left the masthead after four years as president.",
+      "category": "camping_movement",
+      "entities": [
+        "Ron Johnstone",
+        "Jack Pearse",
+        "Jay Haddad",
+        "John Latimer",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1975",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3867",
+      "issue": 105,
+      "claim": "Catherine Thomas's second sailing article (June 1975) requires an approved life preserver per person in all sailboats \"and they are to be worn,\" plus two paddles and a bailer secured against a capsize, and notes that the Canadian Yachting Association Standards were new — \"Until recently there was no standardized criteria available for the evaluation of sailing ability from one program to another\" — recommending that camps add their own swimming requirements at the higher sailing levels since the Standards do not.",
+      "category": "programs",
+      "entities": [
+        "Catherine Thomas",
+        "Canadian Yachting Association"
+      ],
+      "date_ref": "1975",
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
