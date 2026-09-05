@@ -28351,7 +28351,43 @@
       "read_state": "read",
       "read_state_basis": "downloaded from the Internet Archive and cached in repo 2026-09-05 (p_405); provincial narrative reports for Ontario and Quebec read in full, whole volume searched for 'camp', 'tent' and 'Ottawa'",
       "notes": "The International Committee's annual volume: a roster of every association in North America plus a narrative report per state and province, written by that jurisdiction's corresponding member. Consulted to test the Ottawa YMCA 1893 claim against a contemporaneous source. Quebec report signed William Tees, Cor. Mem., naming only Quebec, Sherbrooke, Montreal and McGill; no camp. New Brunswick report names a chairman of the Maritime boys' work committee and 'leader of the Maritime camps'. Nothing for Ottawa or Montreal."
+    },
+    {
+      "source_id": "src_muse_kenora_camp_stephens_125",
+      "type": "periodical",
+      "title": "Katelyn Charlebois, \"Camp Stephens Celebrates 125 Years,\" Lake of the Woods Museum Newsletter Vol. 26 No. 3, Summer 2016",
+      "date": "2016",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://themusekenora.ca/camp-stephens-celebrates-125-years/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-05T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.28",
+      "reliability": "secondary",
+      "read_state": "read",
+      "read_state_basis": "fetched and read in full 2026-09-05 (c_061). WebFetch returned 403; a plain request with a browser user-agent returned the page",
+      "notes": "The local museum's own newsletter account of the camp's 125th anniversary, written by a summer student. States the camp 'has only closed for one summer, 1918, due to World War I' and that 54 older campers who enlisted did not return. Also names the five islands' namesakes -- C.M. Copeland, Mr. Fleming, Mr. T.D. Patton, Mr. James Ball and Sir George Williams -- independently of T. Duncan Patton's own 1919 memoir."
+    },
+    {
+      "source_id": "src_campstephens_125_chapel_2016",
+      "type": "web",
+      "title": "\"Camp Stephens 125th Anniversary Chapel Service ~ July 31, 2016\", Camp Stephens Alumni blog, posted 3 December 2016",
+      "date": "2016-07-31",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "http://campstephensalumni.blogspot.com/2016/12/camp-stephens-125th-anniversary-chapel.html",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-05T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.28",
+      "reliability": "secondary",
+      "read_state": "read",
+      "read_state_basis": "fetched and read in full 2026-09-05 (c_061)",
+      "notes": "The full script of the anniversary chapel service, a dramatised history in which named alumni read first-person 'voices' of figures from the camp's past, linked by a narrator's chronology. It is a commemorative performance, not a history, and its dates contradict one another in places -- but the narrator's chronology is the camp community's own account of itself and it is specific. Carries the 1918 closure, the 1911 first boys' camp, and an 1898 founding date for the Bible Institute that its own 125th anniversary contradicts."
     }
   ],
-  "source_count": 1575
+  "source_count": 1577
 }

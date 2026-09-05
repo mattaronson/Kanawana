@@ -1,8 +1,8 @@
 {
-  "version": "6.27",
-  "kb_version": "6.27",
+  "version": "6.28",
+  "kb_version": "6.28",
   "migrated_from": "3.3",
-  "fact_count": 4799,
+  "fact_count": 4802,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -84317,7 +84317,7 @@
     },
     {
       "fact_id": "f_4744",
-      "claim": "The Camp Stephens Alumni blog states in a December 2020 post that COVID-19 \"Restrictions made it impossible to open camp this past summer (the first closure since 1917).\" The alumni association therefore dates the camp's First World War closure to 1917. Secondary summaries of the camp's history give 1918 instead; the two are not reconciled here and no source consulted gives both.",
+      "claim": "The Camp Stephens Alumni blog states in a December 2020 post that COVID-19 \"Restrictions made it impossible to open camp this past summer (the first closure since 1917).\" The alumni association therefore dates the camp's First World War closure to 1917. Secondary summaries of the camp's history give 1918 instead; the two are not reconciled here and no source consulted gives both. [RESOLVED 2026-09-05, see f_4838: the year is 1918. This blog's own 125th-anniversary chapel service and the Lake of the Woods Museum newsletter both give 1918 and both give the mechanism -- not enough men left to staff the season. The '1917' here is a parenthesis in a fundraising appeal, and is superseded as a date while being kept as a record of what the post said.]",
       "category": "camping_movement",
       "entities": [
         "Camp Stephens"
@@ -86022,6 +86022,69 @@
       "date_ref": "1893-1897",
       "conflicts_with": [],
       "added_version": "6.27",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4838",
+      "claim": "C_061 RESOLVED: CAMP STEPHENS CLOSED IN 1918, NOT 1917, AND THE 1917 CAME FROM A FUNDRAISING PARENTHESIS. Two documented accounts from 2016 give 1918 and give a mechanism. (1) The camp's own 125th Anniversary Chapel Service, 31 July 2016, narrated by alumni on Copeland Island and posted in full on the alumni blog: \"Even camp faced difficulties like food rationing and some of the favourite camp leaders were overseas. In 1918 there were not enough men to act as counselors and camp closed for that season.\" (2) The Lake of the Woods Museum's own newsletter, Summer 2016: \"Camp Stephens has only closed for one summer, 1918, due to World War I. The war impacted the lives of camp-goers further since many of the older campers enlisted and, sadly, 54 of them did not return home.\" Against these, the 1917 date rests on a single parenthesis -- \"(the first closure since 1917)\" -- in a December 2020 fundraising appeal written by an alumnus on the same blog that carries the chapel service. A passing aside in an appeal letter, contradicted by the same site's own commemorative history and by the local museum, is a slip. THE YEAR IS 1918.",
+      "sources": [
+        "src_campstephens_125_chapel_2016",
+        "src_muse_kenora_camp_stephens_125",
+        "src_campstephens_alumni_blog"
+      ],
+      "confidence": "stated",
+      "category": "camp_history",
+      "entities": [
+        "Camp Stephens",
+        "Winnipeg YMCA",
+        "First World War"
+      ],
+      "date_ref": "1918",
+      "conflicts_with": [],
+      "added_version": "6.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4839",
+      "claim": "THE FIVE ISLANDS' NAMESAKES, CORROBORATED FROM OUTSIDE THE MEMOIR. The Lake of the Woods Museum newsletter of Summer 2016 gives the 1893 search party as R. C. Richardson, C. M. Copeland, W. D. Bayly Sr. and J. Ball, rowing weekends on the Lake of the Woods for a new site, and names the five islands they found after C. M. Copeland, Mr. Fleming, MR. T. D. PATTON, Mr. James Ball and Sir George Williams. This corroborates, from a source ninety-seven years later and wholly independent of it, T. Duncan Patton's own 1919 statement that the largest island was named Copeland, another Sir George, and the smaller island to the east Patton -- and it supplies the two names his memoir does not give. The same newsletter adds that 1947 was the first year registrations exceeded the space available, and that the camp had no communication link to the mainland until a radio telephone was installed in 1962.",
+      "sources": [
+        "src_muse_kenora_camp_stephens_125",
+        "src_ia_1919_autobiographical_sketch"
+      ],
+      "confidence": "stated",
+      "category": "camp_history",
+      "entities": [
+        "Camp Stephens",
+        "T. Duncan Patton",
+        "C. M. Copeland",
+        "Lake of the Woods"
+      ],
+      "date_ref": "1893",
+      "conflicts_with": [],
+      "added_version": "6.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4840",
+      "claim": "THE CAMP'S OWN ANNIVERSARY SERVICE DATES BOYS' CAMPING AT STEPHENS TO 1911, WHICH WOULD CHANGE THE COMPARISON IF IT HOLDS. The 125th Anniversary Chapel Service of 31 July 2016 narrates: \"For the first twenty years of Stephens, it was predominantly an adult and family Bible camp\", and \"It wasn't until 1911 that the first boys' camp was organized at Camp Stephens. The parent YMCA was recognizing the importance of development work with young boys... Men like T.D. Patton, H.R. Hadcock and Fletcher Argue gave it leadership.\" If that is right, the institution on the Lake of the Woods predates Kanawana but its BOYS' CAMP does not, by seventeen years -- and the man the script names first as giving it leadership is the same T. Duncan Patton who ran Montreal's 1891 Jones' Island camp and sat on the 1892 committee that planned Camp Jubilee. HANDLE WITH CARE. This is a dramatised commemorative script, not a history, and it contradicts itself and its own occasion: it has Copeland searching for a site after \"Mr. Browne first started the Institute in 1898\", while the service celebrates 125 years in 2016 (so 1891) and the Lake of the Woods Museum dates the search to 1893. Recorded as a documented statement by the camp community about itself, and as a question that changes the SHAPE of the oldest-camp comparison. It does not settle it, and must not be written up as though it had.",
+      "sources": [
+        "src_campstephens_125_chapel_2016"
+      ],
+      "confidence": "disputed",
+      "category": "camp_history",
+      "entities": [
+        "Camp Stephens",
+        "T. Duncan Patton",
+        "Winnipeg YMCA",
+        "H. R. Hadcock",
+        "Fletcher Argue"
+      ],
+      "date_ref": "1911",
+      "conflicts_with": [
+        "f_4665",
+        "f_4748"
+      ],
+      "added_version": "6.28",
       "added_by": "ralph_loop"
     }
   ]

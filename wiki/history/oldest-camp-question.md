@@ -1,6 +1,6 @@
 # Is Kanawana the Oldest Camp in Canada?
 
-*Status: draft | Sources: 17*
+*Status: draft | Sources: 19*
 *Last Updated: 2026-09-05*
 
 ## Overview
@@ -283,12 +283,31 @@ own history: "**In 1943 RKY Camp was forced to close down due to a lack of staff
 for 1944**, the second its highest figure of the war. A camp of the same movement, five hundred
 kilometres away, could not find the staff to open while Kanawana was posting its best wartime numbers.
 
-**And Camp Stephens lost a season to the First.** Its alumni association, writing in December 2020,
-records that COVID restrictions "made it impossible to open camp this past summer (**the first closure
-since 1917**)"
-[f_4744]^11. Secondary summaries of the camp's history give the wartime closure as **1918** instead. The
-two are not reconciled by any source consulted, and the year is recorded here as disputed. Either way,
-**Kanawana operated the season Camp Stephens lost.**
+**And Camp Stephens lost a season to the First: 1918.** This wiki carried the year as disputed until
+2026-09-05, because the alumni association, writing in December 2020, recorded that COVID restrictions
+"made it impossible to open camp this past summer (**the first closure since 1917**)" [f_4744]^11 while
+summaries of the camp's history gave 1918. The disagreement dissolved on reading the alumni blog past
+its front page. **The camp's own 125th Anniversary Chapel Service**, read on Copeland Island on 31 July
+2016 and posted there in full, says: "Even camp faced difficulties like food rationing and some of the
+favourite camp leaders were overseas. **In 1918 there were not enough men to act as counselors and camp
+closed for that season**" [f_4838]^18. The Lake of the Woods Museum's own newsletter agrees in the same
+year: the camp "has only closed for one summer, **1918**, due to World War I," and 54 of the older
+campers who enlisted did not come home [f_4838]^19. The 1917 was a parenthesis in a fundraising appeal,
+contradicted by its own site. **The year is 1918, and Kanawana operated the season Camp Stephens
+lost.**
+
+**A larger question came out of the same document, and it is not resolved here.** The chapel service
+narrates that "for the first twenty years of Stephens, it was predominantly an adult and family Bible
+camp," and that "it wasn't until **1911** that the first boys' camp was organized at Camp Stephens" —
+under, among others, **T. D. Patton**, the same man who ran Montreal's 1891 Jones' Island camp and sat
+on the 1892 committee that planned Camp Jubilee [f_4840]. If that holds, the institution on the Lake of
+the Woods is older than Kanawana but its *boys' camp* is seventeen years younger, and the comparison
+this article makes is between two different kinds of place for its first two decades. It is **not**
+being written up as a finding. The script is a commemorative performance, it contradicts itself (it has
+the Bible Institute founded in 1898, which its own 125-year occasion denies), and the reading happens to
+favour this project's own camp — which is a reason to go slower, not faster. It is recorded as
+**conflict c_063**, and what would settle it is the Winnipeg YMCA's annual reports of the 1890s and
+1900s.
 
 ### The 1918 influenza pandemic does not appear in these records at all
 
@@ -298,7 +317,8 @@ a camp season — an explicit null across the annual reports, the camp's own pub
 the pandemic's lethal Canadian wave fell in the autumn of 1918, after the camp season had closed. That
 explanation is general historical context, not a finding from this project's sources, and is offered as
 such. What the sources establish is only the null, and that Camp Stephens' 1917-or-1918 closure is
-attributed by its own alumni to **the war**, not to influenza.
+attributed by its own alumni to **the war** — specifically to a shortage of men to counsel — not to
+influenza [f_4838].
 
 ### Polio was the pandemic that reached the camps
 
@@ -373,7 +393,8 @@ different reason: it makes **2019 a clean common cutoff** for measuring what cam
 | **Oldest continuously operating, strictly** | **Nobody.** All three have interruptions | Fails (2020-21) |
 | **Longest unbroken run of seasons** | **Kanawana — 126, 1894 to 2019** | **First**, by roughly 25 seasons |
 
-Camp Stephens' longest unbroken run is about **102 seasons** (1918-2019, after its wartime closure).
+Camp Stephens' longest unbroken run is about **102 seasons** (1919-2019, after the 1918 closure —
+the closure year is now settled, so this figure no longer rests on a disputed date [f_4838]).
 Big Cove's is about **87** (to 1975), with only 40 since reopening in 1980. Kanawana leads on any of
 Big Cove's three candidate founding dates [f_4751].
 
@@ -414,8 +435,12 @@ across the country, and the century that closed its own sibling camp on the orig
    1894-2019 so that the 126-season figure rests on evidence of operation rather than on the absence of
    evidence of closure (`p_403`).
 2. [Important] Did Camp Stephens operate in the summer of 2021? Currently an explicit null [f_4747].
-3. [Important] Was Camp Stephens' wartime closure in 1917 or 1918? Its alumni say 1917; secondary
-   summaries say 1918 [f_4744].
+3. ~~[Important] Was Camp Stephens' wartime closure in 1917 or 1918?~~ **[Resolved 2026-09-05 — 1918.]**
+   The camp's own 125th Anniversary Chapel Service and the Lake of the Woods Museum newsletter both give
+   1918 with the same mechanism, a shortage of men to counsel; the 1917 was a parenthesis in a
+   fundraising post [f_4838]. **In its place, a bigger question:** the same chapel service dates the
+   first boys' camp at Stephens to 1911 and calls the first twenty years an adult and family Bible camp
+   [f_4840]. Conflict c_063; the Winnipeg YMCA's own annual reports would settle it.
 4. [Important] What is Big Cove's actual founding year? Three values are in play — 1889, 1890 and 1891
    — the last from the camp's own director [f_4622].
 5. [Nice-to-have] Did the 1918-19 influenza pandemic affect any Canadian camp season? This project holds
@@ -464,3 +489,5 @@ across the country, and the century that closed its own sibling camp on the orig
 15. RKY Camp history page [src_rky_camp] — the 1943-1945 wartime closure. See [f_4776].
 16. Arnold Fraser, "Personality: A. 'Ace' Milks," *Canadian Camping* Vol. 6 No. 3, June 1954 [src_ia_canadian_camping_1954_06]. The Ottawa YWCA board minute of 1893, the Marshall's Bay camp of 1907 and the 1908 move to Golden Lake. The Y.W.C.A. reading was checked against the page image of the Internet Archive scan, leaf 12, rather than taken from the OCR. See [f_2662], [f_4835].
 17. *Year Book and Official Roster of the Young Men's Christian Associations of North America*, 1893, 1894, 1895, 1896 and 1897 [src_ymca_yearbook_1893], [src_ymca_yearbook_1894], [src_ymca_yearbook_1895], [src_ymca_yearbook_1896], [src_ymca_yearbook_1897]. Ontario and Quebec narrative reports read in full; each volume searched whole for "camp" and "tent". See [f_4836], [f_4837].
+18. "Camp Stephens 125th Anniversary Chapel Service ~ July 31, 2016," Camp Stephens Alumni blog [src_campstephens_125_chapel_2016]. The 1918 closure for want of counsellors, the first twenty years as an adult and family Bible camp, and the 1911 first boys' camp. A dramatised commemorative script read by alumni, not a history. See [f_4838], [f_4840].
+19. Katelyn Charlebois, "Camp Stephens Celebrates 125 Years," Lake of the Woods Museum Newsletter Vol. 26 No. 3, Summer 2016 [src_muse_kenora_camp_stephens_125]. "Only closed for one summer, 1918"; 54 enlisted campers who did not return; the five islands' namesakes, T. D. Patton among them. See [f_4838], [f_4839].

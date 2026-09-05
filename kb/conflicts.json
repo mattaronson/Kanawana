@@ -969,13 +969,13 @@
       "conflict_id": "c_061",
       "entity": "Camp Stephens's First World War closure: 1917 or 1918",
       "description": "THE ALUMNI ASSOCIATION AGAINST THE SECONDARY SUMMARIES. The Camp Stephens Alumni blog states in December 2020 that COVID-19 restrictions made it 'impossible to open camp this past summer (the first closure since 1917)', dating the wartime closure to 1917. Secondary summaries of the camp's history give 1918. This matters beyond Camp Stephens: the year is load-bearing for the longest-unbroken-run comparison in wiki/history/oldest-camp-question.md.",
-      "fact_ids": [
-        "f_4744"
-      ],
-      "status": "open",
+      "status": "resolved",
       "flagged_at": "2026-09-05T00:00:00Z",
-      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
-      "affects_articles": []
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact. | RESOLVED 2026-09-05 in favour of 1918 (f_4838). Two 2016 accounts give 1918 with a mechanism: the camp's own 125th Anniversary Chapel Service ('In 1918 there were not enough men to act as counselors and camp closed for that season') and the Lake of the Woods Museum newsletter ('only closed for one summer, 1918'). The 1917 rests on a parenthesis in a December 2020 fundraising post on the same blog that carries the chapel service -- an aside contradicted by its own site. Not a human decision point after all: the two 'documented sources' were not of equal weight, and reading the alumni blog past its front page settled it. oldest-camp-question.md updated.",
+      "facts": [
+        "f_4744",
+        "f_4838"
+      ]
     },
     {
       "conflict_id": "c_062",
@@ -988,6 +988,19 @@
       "flagged_at": "2026-09-05T00:00:00Z",
       "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
       "affects_articles": []
+    },
+    {
+      "conflict_id": "c_063",
+      "entity": "Camp Stephens: continuous camp from 1891, or adult/family Bible camp until a first boys' camp in 1911",
+      "description": "THE CAMP'S OWN ANNIVERSARY SERVICE AGAINST THE CAMP'S OWN ANNIVERSARY. Camp Stephens dates itself to 1891 -- its current pages, its 125th anniversary in 2016, and two 1987 items in Canadian Camping written by its own directors (f_4665, f_4748). The script of its 125th Anniversary Chapel Service, read on the island on 31 July 2016, says something different about what was there: 'For the first twenty years of Stephens, it was predominantly an adult and family Bible camp', and 'It wasn't until 1911 that the first boys' camp was organized at Camp Stephens' (f_4840). The same script also has the Bible Institute founded in 1898, which its own 125-year occasion contradicts and which the Lake of the Woods Museum's 1893 site search sits against. THIS MATTERS TO KANAWANA'S OWN RECORD: the comparison in wiki/history/oldest-camp-question.md treats Camp Stephens as a rival resident camp from 1891-1893, and if boys' camping there began in 1911 the comparison is between two different kinds of institution for its first two decades. It is not resolved by preferring the more convenient reading. What would settle it: Winnipeg YMCA annual reports of the 1890s and 1900s, or the camp's own registers.",
+      "facts": [
+        "f_4840",
+        "f_4665",
+        "f_4748"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05",
+      "notes": "Raised 2026-09-05 while resolving c_061. HUMAN DECISION POINT in the proper sense: a commemorative script and an institution's own dating disagree about what the institution WAS, and neither is a document from the period. Note the incentive runs against this project's interest in one direction and with it in the other, which is a reason to be slower rather than quicker: a 1911 boys' camp would put Kanawana ahead of Stephens on the boys'-camp measure."
     }
   ]
 }

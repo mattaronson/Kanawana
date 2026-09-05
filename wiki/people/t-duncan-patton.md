@@ -1,7 +1,7 @@
 # Thomas Duncan Patton (1865–1944)
 
-*Status: draft | Sources: 10*
-*Last Updated: 2026-08-25*
+*Status: draft | Sources: 12*
+*Last Updated: 2026-09-05*
 
 ## Overview
 
@@ -134,7 +134,24 @@ a cost of $100,000.^1
 that date on camps were promoted and held annually." The five islands, about seven miles north-west of
 Kenora through the Devil's Gap and totalling roughly 27 acres, passed to the Winnipeg YMCA in 1907. The
 largest was named "Copeland," another "Sir George" after the Association's founder, and **the smaller
-island to the east "Patton."** The camp was styled **Camp Stephens**.^1 This wiki already touches Camp
+island to the east "Patton."** The camp was styled **Camp Stephens**.^1
+
+**Corroborated from outside the memoir, ninety-seven years later.** The Lake of the Woods Museum's own
+newsletter of Summer 2016 names the 1893 search party — R. C. Richardson, C. M. Copeland, W. D. Bayly Sr.
+and J. Ball, rowing weekends until they found the five islands — and gives all five namesakes: Copeland,
+Mr. Fleming, **Mr. T. D. Patton**, Mr. James Ball and Sir George Williams. Patton's memoir gave three of
+the five; the museum supplies the other two, from a source with no connection to it [f_4839].^11 That a
+Winnipeg island still carried his name in a Kenora museum's account in 2016 is the longest-lived trace of
+him this project has found.
+
+**And the camp's own anniversary service puts him at the start of its boys' camping.** The script of the
+Camp Stephens 125th Anniversary Chapel Service, read on Copeland Island on 31 July 2016, says the first
+twenty years there were "predominantly an adult and family Bible camp" and that "it wasn't until 1911
+that the first boys' camp was organized at Camp Stephens," with "men like T.D. Patton, H.R. Hadcock and
+Fletcher Argue" giving it leadership [f_4840].^12 If that is right, the man who took Montreal's boys to
+Jones' Island in 1891 and sat on the committee that planned Camp Jubilee in 1892 started boys' camping in
+Winnipeg too, twenty years later. It is a commemorative script rather than a history and it contradicts
+itself on dates elsewhere, so it is recorded as **conflict c_063** and not relied on. This wiki already touches Camp
 Stephens through [[people/nelson-mcewen|Nelson McEwen]] and [[people/ross-bannerman|Ross Bannerman]];
 its camping programme was begun by a Kanawana founder.
 
@@ -224,6 +241,8 @@ neither is obviously wrong.
 8. "Thomas D. Patton," *The First Basket Ball Players* exhibit [src_omeka_first_basketball_players]. Birth 15 April 1865, Danville, Quebec; death 1 April 1944, Toronto; full YMCA career 1892–1941.
 9. YMCA of Montreal Annual Reports, 1889–90, 1892–93, 1893–94, 1895–96, 1897–98 and 1899 [src_ia_ymca_montreal_annual_reports_collection]. Read 2026-08-25. See [f_2299], [f_2300].
 10. "Y.M.-Y.W.C.A. Camp Stephens," by Grant Platts, Scott McGregor and Juliane Schaible, p. 21, and "What's In A Name? Camp Stephens," p. 27, *Canadian Camping Magazine* Vol. 39 No. 1 (Summer 1987) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 162).
+11. Katelyn Charlebois, "Camp Stephens Celebrates 125 Years," Lake of the Woods Museum Newsletter Vol. 26 No. 3, Summer 2016 [src_muse_kenora_camp_stephens_125]. The 1893 search party and all five island namesakes. See [f_4839].
+12. "Camp Stephens 125th Anniversary Chapel Service ~ July 31, 2016," Camp Stephens Alumni blog [src_campstephens_125_chapel_2016]. The 1911 first boys' camp and Patton's part in it; a commemorative script, not a history. See [f_4840].
 
 ## Research Notes
 

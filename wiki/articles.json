@@ -2312,6 +2312,12 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 137 (Vol. 33 No. 3, May 1981): new section on Robert E. Wilkinson's 'Camps, Their Planning and Management' (C.V. Mosby, 1981) -- the first comprehensive Canadian camp administration text, by a McGill physical education professor who was a CCA member through the Association des Camps du Quebec and associated with Camp Nominingue, containing specimens of every kind of camp business form and the CCA's national code of ethics. Also added the association's May 1981 memo that 'accredited by C.C.A.' is incorrect wording some camps were still using, with the consequence that any such Kanawana material should not be read as evidence of a second accreditation. Sub-source 8ao; feeds p_323."
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -2371,7 +2377,8 @@
         "f_1360",
         "f_1883",
         "f_1884",
-        "f_1889"
+        "f_1889",
+        "f_4838"
       ],
       "sources_cited": [
         "src_concordia_atom_12B05",
@@ -2387,7 +2394,7 @@
         "sources-index"
       ],
       "file_id": null,
-      "word_count": 31733,
+      "word_count": 31840,
       "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -9717,6 +9724,12 @@
           "at": "2026-08-25T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 1,
@@ -9727,15 +9740,19 @@
         "f_2297",
         "f_2298",
         "f_2299",
-        "f_2300"
+        "f_2300",
+        "f_4839",
+        "f_4840"
       ],
       "sources_cited": [
         "src_camp_stephens_alumni_blog",
+        "src_campstephens_125_chapel_2016",
         "src_ia_autobiographical_sketch_1919",
         "src_ia_canadian_camping_collection",
         "src_ia_kanawana_history_1951",
         "src_ia_ymca_montreal_annual_reports_collection",
         "src_lac_first_basketball_game",
+        "src_muse_kenora_camp_stephens_125",
         "src_omeka_first_basketball_players",
         "src_qahn_howard",
         "src_wikipedia_first_team"
@@ -9749,7 +9766,7 @@
         "camp-otoreke"
       ],
       "file_id": null,
-      "word_count": 2810
+      "word_count": 3128
     },
     {
       "article_id": "multi-year-index",
@@ -10164,6 +10181,12 @@
           "at": "2026-09-05T00:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 2,
@@ -10229,10 +10252,13 @@
         "f_4776",
         "f_4835",
         "f_4836",
-        "f_4837"
+        "f_4837",
+        "f_4838",
+        "f_4840"
       ],
       "sources_cited": [
         "src_cache_sgw_ymca_annual_report_1894_1895",
+        "src_campstephens_125_chapel_2016",
         "src_campstephens_alumni_blog",
         "src_cbc_bigcove_pandemic_summers",
         "src_cbc_wong_camps_2021",
@@ -10241,6 +10267,7 @@
         "src_ia_canadian_camping_collection",
         "src_ia_ymca_montreal_fonds_collection",
         "src_mcmorris_thesis",
+        "src_muse_kenora_camp_stephens_125",
         "src_newspapers_gazette_1918",
         "src_rky_camp",
         "src_ymca_halifax_165th_yearbook",
@@ -10253,7 +10280,7 @@
         "src_ymf_ymca_impact_report_2022_eng",
         "src_ywinnipeg_camp_stephens"
       ],
-      "open_questions": 8,
+      "open_questions": 7,
       "cross_links": [
         "history/founding-1894",
         "history/timeline-overview",
@@ -10264,7 +10291,7 @@
         "connections/related-camps/quebec-camp-landscape"
       ],
       "file_id": null,
-      "word_count": 5903
+      "word_count": 6415
     },
     {
       "article_id": "points-of-contact",
