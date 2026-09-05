@@ -15,8 +15,12 @@ been caught here in a second:
      table in wiki/people/multi-year-index.md are outputs of build_index.py and
      build_table.py. Editing either by hand, or changing the builder without
      re-running it, is how the wiki came to state three counts its own index
-     contradicted. This regenerates both into a scratch copy and fails if the
-     committed files differ.
+     contradicted. Three fields of wiki/articles.json -- word_count,
+     open_questions and article_count -- are likewise outputs, of
+     scripts/wiki/build_article_counts.py; they were hand-written until
+     2026-09-05, when half the file turned out to be stale (p_417). This
+     regenerates all three files into a scratch copy and fails if the committed
+     files differ.
 
 BLOCKING vs ADVISORY. A check earns the right to fail a build by being
 actionable by whoever just pushed. Duplicate source_ids are real -- twenty of
@@ -101,19 +105,27 @@ def main():
     try:
         for rel in ['kb', 'wiki', 'scripts', 'sources']:
             shutil.copytree(P(rel), os.path.join(tmp, rel), dirs_exist_ok=True)
-        for script in ['scripts/plaque/build_index.py', 'scripts/plaque/build_table.py']:
+        for script in ['scripts/plaque/build_index.py', 'scripts/plaque/build_table.py',
+                       'scripts/wiki/build_article_counts.py']:
             r = subprocess.run([sys.executable, script], cwd=tmp,
                                capture_output=True, text=True)
             if r.returncode != 0:
                 bad.append('%s: exits %d when re-run -- %s'
                            % (script, r.returncode, (r.stderr or '').strip()[-300:]))
-        for rel in ['kb/plaque-audit/person-index.json', 'wiki/people/multi-year-index.md']:
+        for rel in ['kb/plaque-audit/person-index.json', 'wiki/people/multi-year-index.md',
+                    'wiki/articles.json']:
             a, b = P(rel), os.path.join(tmp, rel)
             if os.path.exists(a) and os.path.exists(b):
                 if io.open(a, encoding='utf-8').read() != io.open(b, encoding='utf-8').read():
-                    bad.append('%s is not what its builder produces. Re-run '
-                               'scripts/plaque/build_index.py then build_table.py and commit '
-                               'the result -- do not edit it by hand.' % rel)
+                    builder = ('scripts/wiki/build_article_counts.py'
+                               if rel == 'wiki/articles.json'
+                               else 'scripts/plaque/build_index.py then build_table.py')
+                    detail = ('' if rel != 'wiki/articles.json' else
+                              ' Only word_count, open_questions and article_count are '
+                              'generated; every other field in that file is hand-maintained.')
+                    bad.append('%s is not what its builder produces. Re-run %s and commit '
+                               'the result -- do not edit those fields by hand.%s'
+                               % (rel, builder, detail))
     finally:
         shutil.rmtree(tmp, ignore_errors=True)
 

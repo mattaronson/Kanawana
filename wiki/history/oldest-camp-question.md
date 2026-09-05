@@ -197,7 +197,7 @@ as a live rival until it was tested.
 **What survives from Ottawa is 1893.** Charles Plewman, who directed for the Ottawa YMCA himself, wrote
 in December 1964: "When the **Ottawa YMCA in 1893**, and Camp Temagami in 1900, began taking older boys
 to camp, they were really breaking new ground" [f_3121]. That is one year before Kanawana's first
-season, it comes from a participant, and **it has not been tested** [f_4756].
+season, it comes from a participant, and **the Ottawa 1893 claim has never been tested** [f_4756].
 
 **Chance Harbour, 1889.** A claim about the first Canadian YMCA boys' camp, printed in February 1959
 from "the depths of a file of O.C.A. research material" and written by the late Ace Milks [f_2843]. It
@@ -290,7 +290,7 @@ it "**closed in 1976 for want of repairs and reopened in 1980**" [f_4623].
 
 **This was a closure and a recovery, not a planned fallow period.** Both independent accounts describe a
 cessation followed by a reopening, and both attribute it to the physical condition of the plant. Neither
-describes a deliberate resting of the site [f_4742].
+account of Big Cove's four-summer gap describes a deliberate resting of the site [f_4742].
 
 **And the same publication calls the camp continuously running.** Twenty pages before that timeline, on
 page 8, the yearbook states: "Our very own Big Cove YMCA Camp… is **the oldest continuously running

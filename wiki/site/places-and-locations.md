@@ -1,7 +1,7 @@
 # Places and Locations at Camp Kanawana
 
 *Status: E1-reviewed | Sources: 22*
-*Last Updated: 2026-08-14*
+*Last Updated: 2026-09-05*
 
 ## Overview
 
@@ -230,7 +230,7 @@ A lacrosse field was among the historical camp facilities [f_0230]. The sport re
 
 ### "Indian Grave" Marking
 
-An "Indian Grave" marking existed on the Kanawana camp map [f_0226]. Direct re-examination of the 1941 map (2026-07-09) locates it precisely: on the shoreline/peninsula between Lake Wilson and Lake Kanawana, immediately next to a place labeled "Camp Cliff" [f_1789]. This resolves *where* the marking sits on camp maps, but not what it refers to — no documentation has been found explaining whether this referred to an actual burial site, a naturalistic feature given a romantic name, or a campfire-story location. The marking is consistent with the early camp's broader engagement with romanticized Indigenous imagery documented in the McMorris thesis [src_mcmorris_thesis].
+An "Indian Grave" marking existed on the Kanawana camp map [f_0228]. Direct re-examination of the 1941 map (2026-07-09) locates it precisely: on the shoreline/peninsula between Lake Wilson and Lake Kanawana, immediately next to a place labeled "Camp Cliff" [f_1789]. This resolves *where* the marking sits on camp maps, but not what it refers to — no documentation has been found explaining whether this referred to an actual burial site, a naturalistic feature given a romantic name, or a campfire-story location. The marking is consistent with the early camp's broader engagement with romanticized Indigenous imagery documented in the McMorris thesis [src_mcmorris_thesis].
 
 ### Superintendent's House (Destroyed by Fire, 2023)
 
