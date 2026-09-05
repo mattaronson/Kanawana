@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 4608,
+  "fact_count": 4650,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -82381,6 +82381,791 @@
         "Blyth Thomas"
       ],
       "date_ref": "1937-1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4647",
+      "issue": 161,
+      "claim": "The contents page of Canadian Camping Vol. 38 No. 4, Spring 1987, lists \"BETWEEN THE COVERS - Nancy Barker\" and the OCR of the Internet Archive scan contains no such section: page 7 produced no machine-readable text. Nothing is known about the page beyond its title and author. This is a gap in the tool, not an absence in the record.",
+      "category": "methodology",
+      "entities": [
+        "Nancy Barker",
+        "Canadian Camping"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4648",
+      "issue": 161,
+      "claim": "Canadian Camping Spring 1987 reports the result of the CCA's 50th Anniversary Patrons' Fund appeal for $30,000: \"To date, the donations total $11,918.11\" - forty per cent of the target, from a list of fifty-five individuals and eighteen camps, printed in full.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4649",
+      "issue": 161,
+      "claim": "Every one of the eighteen camps that gave to the CCA's 50th Anniversary Patrons' Fund is Ontarian - Canadian Adventure, Gay Venture, Haliburton Hockey Haven, Kawabi, New Moon, Oconto, Robin Hood, Tanamakoon, Tawingo, the Taylor Statten Camps, Trailfinder, Wahanowin, White Pine, YMCA Wanakita among them. No Quebec camp appears, and no camp from any province west or east of Ontario. A national appeal sent to about a hundred people produced money from the private Ontario camps and from individual officers elsewhere, but not one institutional gift from a Quebec camp.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Ontario",
+        "Quebec"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4650",
+      "issue": 161,
+      "claim": "Six of the individual donors to the 1987 Patrons' Fund are Quebec names or Quebec-connected: Gerard Bachand of Rawdon, chairman of the French Language Committee; Maurice Blaquiere; Jacqueline Lavoie; Dr. Ken Willis of Magog, the Quebec vice-president; Peter & F. M. Van Wagner of Pointe-Claire, the President Emeritus; and Eileen Mayotte - the QCA secretary of the 1940s, here alive, findable and giving money in 1987, which is the latest fixed point this project has for her.",
+      "category": "people",
+      "entities": [
+        "Gerard Bachand",
+        "Ken Willis",
+        "F. M. Van Wagner",
+        "Eileen Mayotte",
+        "Quebec"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4651",
+      "issue": 161,
+      "claim": "Canadian Camping issue 159 printed an unattributed \"Council Closing\" for camper delivery - \"May the Peace of the Forest, / The Song of the Birds, / The Inspiration of the Hills, / The Warmth of the Sun, / The Strength of the Trees, / The Fragrance of the Flowers, / The Joy of the Wind, / The Calm of the Lake, / In All of Which is the Creator of Good Things be in Your Hearts Tonight and Always.\"",
+      "category": "traditions",
+      "entities": [
+        "Canadian Camping"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4652",
+      "issue": 161,
+      "claim": "Two issues later, \"Under Open Skies\" prints \"A BENEDICTION\", submitted by Madelene Allen, Camp Ouareau, St. Donat, Quebec: \"May the Silence of the hills, / The Joy of the wind, / The Music of the birds, / The Fire of the sun, / The strength of the trees, / And the Faith of youth, / In all of which is God, / Be in our hearts / Now and evermore.\" Same construction, same closing turn, different nouns and a different name for God. Neither text is attributed to an author.",
+      "category": "traditions",
+      "entities": [
+        "Madelene Ferguson Allen",
+        "Camp Ouareau"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4653",
+      "issue": 161,
+      "claim": "The two benedictions printed two issues apart in Canadian Camping are a camp liturgy circulating orally and being written down in variants - one an anonymous council-ring text, the other from a named director of a Quebec girls' camp forty minutes from Kanawana. This is the first time in this read that the same formula has been caught twice in different words, and it shows the Quebec end of the circulation.",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Ouareau"
+      ],
+      "date_ref": "1986-1987",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4654",
+      "issue": 161,
+      "claim": "The Second International Camping Congress at Washington, March 1987, drew 1,700 delegates from sixteen to eighteen countries, over 150 CCA members of whom 27 presented, 160-plus exhibitors and 73 sessions on the Tuesday alone. Opening night featured Nancy Reagan, T. N. Kaul giving the Otto Rosahn Memorial Lecture, and Up With People; the Canadian reception was at the residence of Ambassador Allan Gotlieb. Alberta reported 27 delegates and the Atlantic provinces 18.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Washington",
+        "Nancy Reagan",
+        "T. N. Kaul",
+        "Allan Gotlieb"
+      ],
+      "date_ref": "March 1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4655",
+      "issue": 161,
+      "claim": "\"Camping From Coast To Coast\" in the Washington congress issue of Canadian Camping has no Quebec entry: Atlantic, New Brunswick, Ontario, Nova Scotia, Alberta and British Columbia file reports and Quebec does not, in the issue devoted to the largest international gathering the movement had held. This is a null result and does not establish that no Quebec delegates attended.",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec",
+        "Canadian Camping"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4656",
+      "issue": 161,
+      "claim": "The International Camping Fellowship was founded at the Washington congress of March 1987. Delegates from the USA, Canada, Jamaica, Japan, India, Australia, England, Ghana, Costa Rica, Ecuador, Bermuda, Kenya, Israel, Belgium and the People's Republic of China adopted a five-point agreement presented by Tom Slater of Australia: to coordinate internationally and facilitate exchanges; to evaluate direction within two years; to ask the ACA to produce an international newsletter, first copy deadline 1 June; to ask the ACA to convene five or six delegates within twelve months; and \"to do these things under the name of the International Camping Fellowship.\" The CCA - Kanawana's national association - is one of the two hosts.",
+      "category": "camping_movement",
+      "entities": [
+        "International Camping Fellowship",
+        "Tom Slater",
+        "Canadian Camping Association",
+        "American Camping Association"
+      ],
+      "date_ref": "March 1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4657",
+      "issue": 161,
+      "claim": "Gerard Bachand's committee note in Canadian Camping Spring 1987: \"Des la fin janvier nous publiions la deuxieme edition du repertoire des camps d'expression francaise, hors Quebec (Incef '87), et ce grace au Conseil de la Vie Francaise en Amerique et du Ministre des Affaires Intergouvernementales. Des exemplaires sont disponibles au bureau de l'ACC/CCA a Toronto.\" A mini-survey of the INCEF camps was under way to identify their needs.",
+      "category": "sources",
+      "entities": [
+        "Gerard Bachand",
+        "Conseil de la Vie francaise en Amerique",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "January 1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4658",
+      "issue": 161,
+      "claim": "Bachand also reports: \"Nous avons aussi elabore une politique linguistique pour l'ACC/CCA afin de nous rendre conformes aux lois du bilinguisme des organismes nationaux,\" with a translation policy attached for Board approval by spring. The Canadian Camping Association acquired a formal language policy only in 1987 - thirteen years after founding a French Language Committee in autumn 1974 and sixteen after taking its bilingual name in 1971 - and did so to comply with federal bilingualism requirements on national organisations rather than on its own initiative.",
+      "category": "camping_movement",
+      "entities": [
+        "Gerard Bachand",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4659",
+      "issue": 161,
+      "claim": "Bruno Morawetz reports in Canadian Camping Spring 1987 that \"in February of this year a letter was sent to all Provincial Archives Chairmen, or to the Provincial President concerning the collection of material for C.C.A./A.C.C. Archives at Trent University,\" instructing: \"I would urge your member camps to collect as much written material as possible and have it lodged in your own provincial archives... One of the ways of collecting archival material is to interview persons who are playing important roles in camping - these too can be lodged and catalogued in an archival collection.\"",
+      "category": "archives",
+      "entities": [
+        "Bruno Morawetz",
+        "Trent University",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "February 1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4660",
+      "issue": 161,
+      "claim": "A letter went to the Quebec association in February 1987 asking it to gather its camps' records and to tape its people. With the ACQ's own archive reclassification of summer 1986 and Morawetz's note that some provincial associations already hold their own archives, that is a third documented prompt in eighteen months for Quebec camping records to be assembled somewhere other than Trent.",
+      "category": "archives",
+      "entities": [
+        "Association des camps du Quebec",
+        "Trent University"
+      ],
+      "date_ref": "1986-1987",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4661",
+      "issue": 161,
+      "claim": "Shannon Etkin of the Family Service Association of Metropolitan Toronto, writing on quality assurance in Canadian Camping Spring 1987: \"In a recent court case, one of my camp staff was accused by a mother of physically assaulting her son... The proceedings took a year before the judge threw the case out saying it was based on pure fabrications. One crucial part of the evidence that led the judge to his decision was based on the camp providing detailed documentation showing its hiring and training procedures, supervisory system and written policies and practices. We also had to show that management enforced its rules.\" This is a dated, concrete statement of the institutional reason camps of this period kept personnel records.",
+      "category": "operations",
+      "entities": [
+        "Shannon Etkin"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4662",
+      "issue": 161,
+      "claim": "Nancy Reagan's opening address to the Washington congress is printed in full in Canadian Camping Spring 1987: a camper at \"Camp Katchewa\" run by \"the three Ross sisters,\" every summer from about age nine \"until the age limit forced me to stop,\" sleeping in tents, brushing teeth with salt water, and expert at removing leeches; her message is self-esteem, quoting Martin Luther King Jr., \"First teach them to believe in themselves.\"",
+      "category": "context",
+      "entities": [
+        "Nancy Reagan"
+      ],
+      "date_ref": "March 1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4663",
+      "issue": 161,
+      "claim": "Canadian Camping began taking commercial advertising again in Spring 1987 \"for the first time in some time,\" and adopted a \"look back to look forward\" policy of reprinting each new advertiser's own item from thirty years earlier - here Starkman Chemists' advertisement from the April 1957 issue beside its 1987 successor, and a Tandy Leather advertisement noting the company had been \"in the camp craft business for over 60 years.\"",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4664",
+      "issue": 161,
+      "claim": "The CCA's Curriculum for Camp Directors was printed in binders and delivered on the eve of the Ontario conference in January 1987, distribution to the provinces beginning at once; Nova Scotia's May conference at Camp Hillis was built around it. The Ontario-Belgium counsellor exchange with Jeunesse et Sante, an International Youth Year project run with the Ontario Ministry of Tourism and Recreation, sent twelve Belgian counsellors to six Ontario camps in July 1986 and eleven Ontario counsellors to Belgium in August.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Jeunesse et Sante",
+        "Ontario"
+      ],
+      "date_ref": "1986-1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4665",
+      "issue": 162,
+      "claim": "Canadian Camping Vol. 39 No. 1, Summer 1987, dates YM-YWCA Camp Stephens on the Lake of the Woods to 1891 in two separate items: \"Y.M.-Y.W.C.A. Camp Stephens has been providing resident camping experiences for youth since 1891. It is one of the oldest resident camps in North America and has been continuously operated by the Y.M.C.A. of Winnipeg... Camp Stephens is looking forward to celebrating its 100th anniversary in 1991\"; and \"Originally known in 1891 as the Lake of the Woods Institute, the Y.M.C.A. Camp Stephens took its present name in 1896. G. F. Stephens, a successful businessman and the founder of the Stephens Paint Co., was a long time member and President of Winnipeg Y.M.C.A.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Stephens",
+        "Winnipeg YMCA",
+        "Lake of the Woods"
+      ],
+      "date_ref": "1891",
+      "confidence": "stated",
+      "conflicts_with": [
+        "c_031"
+      ],
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4666",
+      "issue": 162,
+      "claim": "If Camp Stephens has run since 1891, this project's assertion in three places that Kanawana, founded 1894, is \"Canada's second-oldest camp, after Big Cove (1889)\" is wrong: Kanawana would be third at best. The difficulty is sharper than a stranger's claim, because this project already carries a conflicting date for the same camp from a Kanawana founder - T. Duncan Patton's memoir gives his first visit to the Lake of the Woods islands as July 1894, \"and from that date on camps were promoted and held annually,\" with the islands passing to the Winnipeg YMCA only in 1907.",
+      "category": "founding",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Stephens",
+        "T. Duncan Patton"
+      ],
+      "date_ref": "1891-1894",
+      "confidence": "disputed",
+      "conflicts_with": [
+        "c_031"
+      ],
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4667",
+      "issue": 162,
+      "claim": "The Camp Stephens dating is two documented sources from inside the same institution, three years apart: the camp's own directors writing in the national magazine in 1987 and planning a centenary around 1891, and T. Duncan Patton writing about the Winnipeg association he served and giving 1894. The 1891 \"Lake of the Woods Institute\" may have been a conference-and-encampment for men rather than a children's resident camp, which would reconcile them, but nothing in either source says so and the reconciliation is not asserted here. Opened as conflict c_031.",
+      "category": "founding",
+      "entities": [
+        "Camp Stephens",
+        "T. Duncan Patton"
+      ],
+      "date_ref": "1891-1894",
+      "confidence": "disputed",
+      "conflicts_with": [
+        "c_031"
+      ],
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4668",
+      "issue": 162,
+      "claim": "Three of the four candidate dates for \"Canada's oldest camp\" now cluster on 1889-1891 - Big Cove at 1889, 1890 or 1891, and Camp Stephens at 1891 - and Kanawana's 1894 sits behind all of them. What is not in doubt is that Kanawana is Quebec's first residential summer camp and among the oldest in Canada; the \"second-oldest\" claim has been qualified rather than restated.",
+      "category": "founding",
+      "entities": [
+        "Camp Kanawana",
+        "Big Cove YMCA Camp",
+        "Camp Stephens"
+      ],
+      "date_ref": "1889-1894",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4669",
+      "issue": 162,
+      "claim": "Wendell White, Director of Camp Quin-Mo-Lac, writing in Canadian Camping Summer 1987 as someone \"relatively active in native affairs for seventeen years\" and describing a United Church camp theme built around the church's \"Dialogue with Native Peoples\" mandate: \"The immediate concern became - How do you create a sense of appreciation and understanding of a contemporary people while at the same time be sensitive to the subtle and not too subtle stereotypes?... no child would leave camp without hearing or seeing, that native peoples in 1986, do not live in a tipi, nor do they wear a head dress or moccasins every day.\"",
+      "category": "traditions",
+      "entities": [
+        "Wendell White",
+        "Camp Quin-Mo-Lac"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4670",
+      "issue": 162,
+      "claim": "Wendell White, 1987: \"What concerns me... is that, so often native programs begin and end at the traditional level. Native programs, innocently, often fall short of establishing native people in the twentieth century and consequently build upon the imagery of the noble purist conservationist, captured in a vacuum, more comfortable with the past than with the present.\" He dates his exasperation to \"the recent lack of success at the First Ministers Conference on Aboriginal Rights (March 1987, the last of four such conferences).\" He proposes a method rather than an abolition: \"One of the first ways to achieve this is by first inviting a native person to your training week to discuss nativeness.\"",
+      "category": "traditions",
+      "entities": [
+        "Wendell White"
+      ],
+      "date_ref": "March 1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4671",
+      "issue": 162,
+      "claim": "White's 1987 critique is the fourth and last position on camp \"Indian programming\" that this run of the magazine supplies - after Jack Eastaugh's 1973 defence, Ted Yard's 1950s restraint and Mary Edgar's invented legends - and the only one that names the problem as stereotyping. Fourteen years after Eastaugh answered \"I think not\" to the minstrel-show comparison, a serving camp director says in the same magazine that the programme as usually run leaves campers believing Indigenous people live in the past.",
+      "category": "traditions",
+      "entities": [
+        "Wendell White",
+        "Jack Eastaugh",
+        "W. E. Ted Yard",
+        "Mary S. Edgar"
+      ],
+      "date_ref": "1973-1987",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4672",
+      "issue": 162,
+      "claim": "The same article prints \"Sweet Grass and Candle,\" words by Rev. John W. Oldham, music by R. Henry Kilborn and Oldham, written 26 March 1987 after a joint Roman Catholic-Protestant service attended by native and non-native people \"to pray for recognition of native rights.\"",
+      "category": "traditions",
+      "entities": [
+        "John W. Oldham",
+        "R. Henry Kilborn"
+      ],
+      "date_ref": "26 March 1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4673",
+      "issue": 162,
+      "claim": "The CCA Board of Management and President's Council held their annual meeting in Quebec City on 1-3 May 1987, the ACQ hosting, with visits arranged to the Camp Keno headquarters office (Marist Fathers, chemin Saint-Louis) and to Camp Oasis Notre-Dame (lac Simon, comte de Portneuf), where Pere Paul Belanger, a former CCA Vice-President, greeted the President's Council. Colette Pouliot-Marier reports the ACQ \"very pleased to report an increase in its members' participation.\" Quebec had not hosted the national body in the whole span this read covers from 1983 onward, and did so in the same year it gained a vice-presidency of its own.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Association des camps du Quebec",
+        "Quebec City",
+        "Paul Belanger",
+        "Colette Pouliot-Marier"
+      ],
+      "date_ref": "1-3 May 1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4674",
+      "issue": 162,
+      "claim": "The ACQ's own annual colloque of 2-5 April 1987 was held at the Base de plein air La Vigie, lac Saint-Joseph, comte de Portneuf, under the theme \"Demain... c'est maintenant,\" with more than 125 camp directors, cadres and moniteurs attending. This Lac Saint-Joseph is not the Laurentian lake of the same name where Camp Jubilee began in 1894; the names coincide and the places do not.",
+      "category": "camping_movement",
+      "entities": [
+        "Association des camps du Quebec",
+        "Camp Jubilee"
+      ],
+      "date_ref": "2-5 April 1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4675",
+      "issue": 162,
+      "claim": "The \"Changes!!\" notice in Canadian Camping Summer 1987: \"We welcome Gerard Bachand as Vice-President for Quebec. To retiring Quebec VP, Ken Willis, we offer a thank you for a job very well done over the past six years. The CCA/ACC Certificate of Honour that Ken received is indeed very well deserved.\" That fixes Willis's national tenure at roughly 1981-1987. Colette Pouliot-Marier of Quebec City takes the French Language committee chair from Bachand, so both Quebec seats are held by Quebec people and the French Language chair sits in Quebec City rather than Rawdon.",
+      "category": "camping_movement",
+      "entities": [
+        "Ken Willis",
+        "Gerard Bachand",
+        "Colette Pouliot-Marier",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1981-1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4676",
+      "issue": 162,
+      "claim": "Fitness Canada returned to the CCA in 1987 with project money rather than operating money: \"PARC STANDS FOR PHYSICAL [ACTIVITY] RESPONSIBILITY CENTRE, so named by Fitness Canada. Through PARC, and our new PARC employee, Aniko Varpalotai, the CCA/ACC plans to take an active leadership role in increasing the quality and quantity of physical activity in Canadian Camps,\" under five headings - Awareness, Leadership, Programs, Network, Management. Fitness Canada also \"received, reviewed and applauded\" the Curriculum for Camp Directors and had funded its printing.",
+      "category": "camping_movement",
+      "entities": [
+        "Fitness Canada",
+        "Aniko Varpalotai",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4677",
+      "issue": 162,
+      "claim": "After the November 1984 withdrawal of its operating grant, the national camping association survived by becoming a delivery agent for a federal programme rather than a body with its own funded staff. This is the shape of the settlement reached by 1987.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Fitness Canada"
+      ],
+      "date_ref": "1984-1987",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4678",
+      "issue": 162,
+      "claim": "Mary L. Northway died 26 February 1987. Jocelyn Palm's memorial records that she \"attended Northway Lodge, Camp Wapomeo, and Glen Bernard Camp\"; founded Windy Pine, a canoe-tripping camp, with Flora Morrison; took an MA at Toronto, studied at Cambridge, returned for a PhD; lectured for many years at the Institute of Child Study and on retirement founded the Brora Centre; and received an honorary doctorate from Trent in 1979. Windy Pine was deeded to Trent University in 1983.",
+      "category": "biography",
+      "entities": [
+        "Mary L. Northway",
+        "Jocelyn Palm",
+        "Flora Morrison",
+        "Windy Pine",
+        "Trent University"
+      ],
+      "date_ref": "26 February 1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4679",
+      "issue": 162,
+      "claim": "Jocelyn Palm's 1987 memorial states of Mary Northway: \"She established the OCA Research Committee and also engineered the collection and organization of the OCA and CCA Archives now at Trent University.\" Her gift funded the Neathern Trust.",
+      "category": "archives",
+      "entities": [
+        "Mary L. Northway",
+        "Trent University",
+        "Neathern Trust",
+        "Ontario Camping Association",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4680",
+      "issue": 162,
+      "claim": "Jocelyn Palm records in 1987: \"In 1981, I interviewed Dr. Northway in order that the tape could be added to the CCA Archives. I have just listened to that tape...\" A 1981 Palm-Northway interview tape exists in the CCA fonds at Trent, and Palm was still able to play it in 1987. Northway's advice to Palm on taking over Glen Bernard: \"You'll get lots of advice on how to run the camp and here's mine... Do your own thing.\"",
+      "category": "archives",
+      "entities": [
+        "Jocelyn Palm",
+        "Mary L. Northway",
+        "Trent University"
+      ],
+      "date_ref": "1981",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4681",
+      "issue": 162,
+      "claim": "Armand Ball, executive vice-president of the American Camping Association, keynoting the January 1987 OCA conference and printed in full in Canadian Camping Summer 1987, lists what changed in camping over 1977-87: a dramatic drop in the camper-age population followed by a mini baby boom, forcing diversification into adults, seniors and disease-specific weeks; agencies closing camps (\"we had five camps and then three\"); private camps sold for lakefront development; camper fees roughly doubled in ten years; sessions shortened; insurance tripling and quadrupling in one to two years, at \"$1600 for horse insurance per horse,\" with rappelling, trampolines and ropes courses becoming uninsurable; 35% of children not living with both biological parents; day camps roughly doubling; a 25% shrinkage in the young-adult population making international staff \"25% or more\" in many camps; year-round schooling; and referral agencies taking 10-15% of fees.",
+      "category": "context",
+      "entities": [
+        "Armand Ball",
+        "American Camping Association"
+      ],
+      "date_ref": "January 1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4682",
+      "issue": 162,
+      "claim": "Armand Ball on child abuse, January 1987: \"it exists in camps, it always has... I think we have always dealt with that issue, those of us who have faced it in camp in the past, we have dealt with it as honestly and as humanely and as well as we could given the circumstances of the situation. But that was a different age, today we don't have that freedom. Because suddenly in our country every state requires the reporting of such an incident to a state body.\" He reports an award of \"a quarter of a million dollars for one child that has been allegedly abused in a camp situation,\" that \"most insurance policies in our country today will not cover sexual abuse in a camp setting,\" and an ACA crisis hotline run for two summers.",
+      "category": "context",
+      "entities": [
+        "Armand Ball",
+        "American Camping Association"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4683",
+      "issue": 162,
+      "claim": "Armand Ball on the second-order effect, January 1987: \"We have children getting off the camp bus at camp and saying to the camp counsellor 'Don't you touch me'... an arm around the shoulder or a hug or walking with a child along the path and talking becomes a very precarious situation for a counsellor.\" Ball repeatedly warns his Canadian audience that this is the American picture and not to assume it applies, but it is the fullest account in this run of why camp record-keeping and camp physical practice changed in the 1980s, and it dates the change.",
+      "category": "context",
+      "entities": [
+        "Armand Ball"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4684",
+      "issue": 162,
+      "claim": "Over 400,000 children and youth were expected in CCA camps in the summer of 1987. A CCA/ACC National Conference was announced for 1989, though the magazine itself stops in 1988. The magazine's price rose from $8.00 to $10.00 a year and from $2.00 to $3.00 an issue, and an ISSN appears for the first time: 0834325.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4685",
+      "issue": 162,
+      "claim": "Canadian Camping Summer 1987 prints \"Francophones... a l'aide\" - a direct appeal for French copy: \"Nous voulons savoir, en francais, ce qui ce passe chez-vous,\" with the standing offer to translate any article on request.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4686",
+      "issue": 162,
+      "claim": "A new CCA publication, \"Exploring Environmental Change,\" co-authored by Jan James, comprises five illustrated panels showing the same lakeside camp in the 1940s-50s, 1960, 1970, 1980 and 1986, with a 42-page leader's guide, at $48 to members - a purpose-built teaching kit about a camp watching its own landscape change.",
+      "category": "sources",
+      "entities": [
+        "Jan James",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4687",
+      "issue": 162,
+      "claim": "Camp Stephens is described in Canadian Camping Summer 1987 as running twelve-day sessions for boys and girls aged 8-15, a Wilderness Adventure Program for 13-17s with trips up to six weeks, a fourteen-boat sailing fleet, a fifteen-year-old kayaking programme, Lount Lodge built by camp staff from local logs 1980-82, and a standing international-education programme with a half-day session in its ten-day pre-camp training.",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Stephens"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4688",
+      "issue": 162,
+      "claim": "Provincial changes reported in Canadian Camping Summer 1987: Judy May of Corner Brook replaced Frank O'Connor as Newfoundland president; Jean Bowering replaced Jack Way for British Columbia; Calvin Desmarais replaced Grant Platts for Manitoba; Jane McCutcheon became Ontario's representative and OCA president; and Dorothy Walter, Anne Prewitt-Eaton and Bruno Morawetz were made OCA Honorary Life Members. The New Brunswick association was fighting minimum-wage legislation it had been refused exemption from.",
+      "category": "camping_movement",
+      "entities": [
+        "Jane McCutcheon",
+        "Dorothy Walter",
+        "Bruno Morawetz",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1987",
       "confidence": "stated",
       "sources": [
         "src_ia_canadian_camping_collection"
