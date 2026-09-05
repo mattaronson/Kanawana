@@ -1,7 +1,7 @@
 # Sources and Archives
 
 *Status: E1-reviewed | Sources: 643 (this article catalogs the project's sources; see Source Statistics, below)*
-*Last Updated: 2026-07-10*
+*Last Updated: 2026-09-05*
 
 ## Summary
 
@@ -124,6 +124,98 @@ Note also that `archives.concordia.ca` is **not** the catalogue — it redirects
 | Montreal Gazette — "YMCA Boys Leave for Kamp Kanawana" | 1913-07-07 | Two detachments, M.F. Furey, Dr. Hamilton. Behind paywall. |
 | La Presse — Desjardins $1M donation | 2018-05-15 | New pavilion construction. |
 
+### *Canadian Camping* Magazine, February 1949 – Winter 1988 (164 issues, read in full)
+
+The largest single body of source material this project holds. The complete digitized run of the
+national camping association's own magazine — 164 issues, Vol. 1 No. 1 (February 1949) to Vol. 39
+No. 3 (Winter 1988) — cached from the Internet Archive and read word for word, page by page, in
+2026. The copies scanned are Trent University's own deposit set: the mailing labels on the later
+issues are addressed to the CCA archives and to individual camp directors who forwarded them there.
+
+**Why the run stops in 1988.** It is not a gap in the digitization and should never be described as
+one. Fitness Canada told the association at the end of November 1984 that it would no longer fund
+the executive director's post, and that support for "all management aspects, re travel for meetings,
+office functions, administrative assistance, would be reduced each year by 33-1/3% to terminate
+completely in 1988" [f_4487]. The last issue says so in its own voice — "1988 is an historic year.
+It is this year that the Canadian Camping Association is no longer receiving funding for its
+operating expenses from the Federal Government through Fitness Canada. Will we survive?" — and
+records that "there is no money left in the budget to produce this very C.C.A./A.C.C. Magazine you
+now hold in your hands," the issue having been underwritten by a single camp, Camp Tawingo
+[f_4722]. A member of the board who was present gives the reason as a jurisdictional
+judgement rather than austerity: Fitness Canada's "thinking that camping is not within their
+jurisdiction" [f_4525]. Every judgement this wiki makes about the thinness of the Canadian camping
+record after 1988 has to carry that.
+
+**Where the run begins, and what precedes it.** Charles F. Plewman's "The Canadian Camping Magazine
+and How We Came By It" (Vol. 24 No. 1, Fall 1971) is the magazine's founding history written by its
+founder [f_3564]. Drafted into the presidency of the Ontario Camping Association in the autumn of
+1944 — the OCA having been formed eleven years before, in 1933 — he found an association that "was
+an Ontario Camping Association but in name only," ninety per cent of its camps and all its officers
+from Toronto, and concluded "we needed a magazine or bulletin of some kind to draw us closer
+together" [f_3565]. The T. Eaton Company financed the first edition, "As an association we were poor
+and just didn't have the money," and "Next I asked the one and only Mary Edgar to act as Editor and
+she agreed" [f_3566]. The OCA "closed out the Ontario Bulletin in 1947 and threw its entire
+resources behind 'Canadian Camping', a mimeographed bulletin published quarterly and edited as
+before by Mary Edgar" [f_3569]. Then: "The first real Canadian Camping 'magazine' was published in
+February of 1949 when for the first time it appeared in print" [f_3570] — which is exactly where
+this project's cached run begins. **The run is therefore complete from the magazine's first printed
+issue.** The mimeographed 1947–48 quarterly that preceded it is a separate, earlier body of material
+this project does not hold and has never seen. The move into print "would not have been possible had
+not Mr. Fred Haiblen of Toronto stepped in and assumed the financial responsibility"; Edgar edited
+five more years and was succeeded by Mrs. G. W. Flynn [f_3571]. One caution: the Summer 1986
+anniversary issue calls Mary S. Edgar "the Founder of Canadian Camping Magazine" [f_4589], which sits
+beside Plewman's account of producing the first bulletin himself. The two may describe the same thing
+from different angles; neither is preferred here.
+
+**Production, format and price, as the magazine states them.**
+
+| Date | Change |
+|------|--------|
+| Feb 1949 | First printed issue, "the natural evolution of two years of mimeographed bulletins"; quarterly, 25 cents a copy [f_2475] |
+| 1967 | Publisher change to Town Talk Publications; Eanswythe Flynn editing |
+| Dec 1969 | Publisher change to Broydon Printers Ltd., Peterborough. Don Groff's summary: "From mimeograph to letterpress to offset; from stationery size to fold-over booklet, to display size" [f_3358] |
+| Apr 1970 | Bilingual publication begins — masthead, editorial and articles in both languages, with French-only content that no English keyword search will ever surface [f_3385] |
+| mid-1981 | Jay Haddad becomes editor, in a volunteer capacity [f_4558] |
+| Winter 1986 | Haddad retires after four and a half years; the magazine passes to a group from Camp Tawingo, this issue being "a transitional issue" [f_4558, f_4559] |
+| Winter 1988 | Final issue of the run, production underwritten by Camp Tawingo [f_4722] |
+
+Subscription rates as printed: $3.00 a year and $8.00 for three years in 1970; a $2.00 staff rate
+from 1971; $1.00 a single copy from Winter 1972; $6.00 a year with additional staff subscriptions at
+$4.00 in 1984 [f_4410]; $8.00 a year and $2.00 an issue to 1987 [f_4616]; $10.00 and $3.00 from 1987,
+when an ISSN appears for the first time, 0834325 [f_4684]. In Fall 1971 the magazine stated: "CANADIAN
+CAMPING is a 100% Canadian magazine and is not subsidized in any way. It is supported solely by
+advertisements" [f_3594] — which is worth setting against the federal operating grant that the
+association itself depended on by the 1980s.
+
+**Two warnings for anyone using the French text.** The Fall 1986 masthead carries a standing offer:
+"If you would like to receive a complete English translation of any article in Canadian Camping
+Magazine, send a stamped self addressed envelope," and the same in reverse for French [f_4616]. The
+French-language material in this run was therefore *not* systematically translated, and the two
+columns are not always the same text. Where they differ, the French is sometimes the sounder: the
+Fall 1987 English rendering of the ACQ's report garbles a single Quebec ministry into two [f_4698].
+
+**What the run contains about Kanawana, stated plainly.** Kanawana is named in 164 issues perhaps
+two dozen times across thirty-nine years, almost always inside a directory listing, and exactly once
+does one of its own people write in it — Jay Netherwood's "L'Étranger / The Stranger" in the final
+issue, printed in both languages with the French set first [f_4708, f_4713]. The camp was a member of
+the ACQ and through it of the CCA for the whole period, and the national magazine of its own movement
+recorded that membership almost entirely as an absence. Everything of Quebec substance the run
+yielded — the provincial association's competing founding dates, its accreditation régime, its
+statistics, its French-language commission, its officers — came out of issues that never mention
+Kanawana at all, which is the argument for reading a source in full rather than searching it for a
+name [f_4738].
+
+**Known defects in the scanned copies**, recorded so a later pass does not read a hole as an absence:
+pages 6–7 of issue 149 (Winter 1984) and the whole of issue 145 are printed 180° rotated and were
+recovered through a lossy decoder — every quotation from them is flagged as a reconstruction, and
+four of its readings were later corrected against clean type [f_4465]; page 7 of the Spring 1987
+issue and pages 13 and 19 of the Fall 1987 issue produced no machine-readable text at all
+[f_4647, f_4690]; the 1983 national totals in the Summer 1984 statistics table do not add up and are
+not usable, though the provincial columns are [f_4442]; and the foreign-counsellor table in the same
+report has its columns broken in the OCR, so only its totals are extracted [f_4463]. A separate
+absence is in the source rather than the tool: a postal strike, named by the editor, is why several
+provinces are silent in the Fall 1987 issue [f_4689].
+
 ## Secondary Sources (37)
 
 ### Academic Works
@@ -187,9 +279,13 @@ John Wilson McConnell, Lemuel Cushing Jr., Centennial Voyageur Canoe Pageant, Br
 
 | Metric | Count |
 |--------|-------|
-| Total facts | 1941 |
-| Fact categories | 77 (stale tally, not recomputed) |
-| KB version | v5.07 |
+| Total facts | 4700 |
+| Fact categories | 83 |
+| KB version | v6.06 |
+
+Of those 4,700 facts, **2,264 came from the word-for-word read of the 164-issue *Canadian Camping*
+run** described above — the single largest extraction this project has run, and the reason the fact
+count roughly doubled between v5.07 and v6.06.
 
 ## Related Articles
 
