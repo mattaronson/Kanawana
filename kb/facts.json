@@ -1,8 +1,8 @@
 {
-  "version": "6.22",
-  "kb_version": "6.22",
+  "version": "6.23",
+  "kb_version": "6.23",
   "migrated_from": "3.3",
-  "fact_count": 4781,
+  "fact_count": 4784,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -26409,7 +26409,7 @@
     },
     {
       "fact_id": "f_1565",
-      "claim": "A dining-hall roll plaque for 'The Order of the Knights of Kanawana' ('an honour bestowed upon a select few campers who have excelled in mastering important skills and who reflect the spirit that is Kanawana', crest motto 'Non Nobis') lists knighted campers by year from 1980 to 2009, including Sir Denys Lawrence and Lady Lindsay Hertland (1980) through Sir Dylan Applebaum (2009). || FULL ROSTER AS TRANSCRIBED FROM THE IMAGE (p_292, 2026-08-28, from knights-of-kanawana.jpg): roll: Sir Denys Lawrence (1980); Lady Lindsay Kertland (1980); Sir Elias Furdon (1980); Lady Avril Chaplain (1980); Sir Mark Gillett (1981); Sir Jonathan Shrier (1981); Sir Ian Davis (1981); Sir Craig Gillett (1982); Sir Dave Paltiel (1982); Sir Eyal Artzy (1987); Sir Micheal Zeitzer (1987); Sir Misha Artzy (1988); Sir Adrian Di Giovanni (1992); Lady Susan Gamberg (1992); Sir Andrew Henle (1992); Sir Ryan Harbinson (1992); Sir Matthew Chown (1993); Lady Lauren Katz (1993); Sir Alexander Aylett (1994); Sir Daniel Sokoloff (1994); Sir Christian Eichler (1994); Sir Josh Usheroff (1998); Sir Conor Ohiel (1999); Lady Ali Olshefsky (2002); Sir Ian Braide (2002); Lady Caroline Noble (2002); Sir Scott Harman-Heath (2008); Sir Dylan Applebaum (2009); Sir Dylan O'Brien (2009) | citation: The Order of the Knights of Kanawana is an honour bestowed upon a select few campers who have excelled in mastering important skills and who reflect the spirit that is Kanawana | crest motto: NON NOBIS SOLUM. This fact previously carried 3 of the 29 names on the object. READINGS HELD AT REDUCED CONFIDENCE: Sir Elias Furdon (may be Purdon); Sir Conor Ohiel (very likely CONNOR O'NEIL, who is a CIT in 2000); Lady Caroline Noble and Sir Dylan O'Brien -- both painted in a lighter hand and faded. The text before this marker is the original record and is preserved unchanged. || NAME CORRECTED: 'Lady Lindsay Hertland' is LADY LINDSAY KERTLAND -- and a Lindsay Kertland is a CIT in 1985 (f_1611) and on the 1983 canoe-staff paddle (f_1646), so the misreading was concealing a person this KB already held. (p_292, 2026-08-28.) || CORRECTION TO THE p_291 AUDIT NOTE (p_293, 2026-08-28): that note claimed the Knights of Kanawana appeared in this wiki 'nowhere except passing mentions'. THAT WAS WRONG. traditions-and-culture.md already carried a substantial treatment -- the charter text, the oath, the six challenges, the birchbark medium, and the 1979-versus-1980 founding question (f_2110). What was genuinely missing was only the ROLL: 26 of its 29 names. The erroneous claim was made from a grep for the word 'Knights' rather than from reading the section it hit, which is the same failure of method the audit exists to correct.",
+      "claim": "A dining-hall roll plaque for 'The Order of the Knights of Kanawana' ('an honour bestowed upon a select few campers who have excelled in mastering important skills and who reflect the spirit that is Kanawana', crest motto 'Non Nobis') lists knighted campers by year from 1980 to 2009, including Sir Denys Lawrence and Lady Lindsay Hertland (1980) through Sir Dylan Applebaum (2009). || FULL ROSTER AS TRANSCRIBED FROM THE IMAGE (p_292, 2026-08-28, from knights-of-kanawana.jpg): roll: Sir Denys Lawrence (1980); Lady Lindsay Kertland (1980); Sir Elias Furdon (1980); Lady Avril Chaplain (1980); Sir Mark Gillett (1981); Sir Jonathan Shrier (1981); Sir Ian Davis (1981); Sir Craig Gillett (1982); Sir Dave Paltiel (1982); Sir Eyal Artzy (1987); Sir Micheal Zeitzer (1987); Sir Misha Artzy (1988); Sir Adrian Di Giovanni (1992); Lady Susan Gamberg (1992); Sir Andrew Henle (1992); Sir Ryan Harbinson (1992); Sir Matthew Chown (1993); Lady Lauren Katz (1993); Sir Alexander Aylett (1994); Sir Daniel Sokoloff (1994); Sir Christian Eichler (1994); Sir Josh Usheroff (1998); Sir Conor Ohiel (1999); Lady Ali Olshefsky (2002); Sir Ian Braide (2002); Lady Caroline Poole (2002); Sir Scott Harman-Heath (2008); Sir Dylan Applebaum (2009); Sir Dylan O'Brien (2009) | citation: The Order of the Knights of Kanawana is an honour bestowed upon a select few campers who have excelled in mastering important skills and who reflect the spirit that is Kanawana | crest motto: NON NOBIS SOLUM. This fact previously carried 3 of the 29 names on the object. READINGS HELD AT REDUCED CONFIDENCE: Sir Elias Furdon (may be Purdon); Sir Conor Ohiel (very likely CONNOR O'NEIL, who is a CIT in 2000); Lady Caroline Poole and Sir Dylan O'Brien -- both painted in a lighter hand and faded. The text before this marker is the original record and is preserved unchanged. || NAME CORRECTED: 'Lady Lindsay Hertland' is LADY LINDSAY KERTLAND -- and a Lindsay Kertland is a CIT in 1985 (f_1611) and on the 1983 canoe-staff paddle (f_1646), so the misreading was concealing a person this KB already held. (p_292, 2026-08-28.) || CORRECTION TO THE p_291 AUDIT NOTE (p_293, 2026-08-28): that note claimed the Knights of Kanawana appeared in this wiki 'nowhere except passing mentions'. THAT WAS WRONG. traditions-and-culture.md already carried a substantial treatment -- the charter text, the oath, the six challenges, the birchbark medium, and the 1979-versus-1980 founding question (f_2110). What was genuinely missing was only the ROLL: 26 of its 29 names. The erroneous claim was made from a grep for the word 'Knights' rather than from reading the section it hit, which is the same failure of method the audit exists to correct. [CORRECTED 2026-09-05: the 2002 entry read here as 'Caroline Noble' is CAROLINE POOLE, confirmed by the operator who was staff that season (f_4820). The entry is faded and was flagged as unsettled between the two readings from the outset.]",
       "sources": [
         "src_flickr_kanawana_plaque_album"
       ],
@@ -85694,6 +85694,61 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.21",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4820",
+      "claim": "RESOLVED: the third Knight of Kanawana of 2002 is CAROLINE POOLE, not Caroline Noble. Confirmed 2026-09-05 by Matt Aronson, who was on staff that season. This is NOT a case of oral history overriding a document: the plaque entry is FADED and was recorded from the outset as an unsettled reading, painted 'in a lighter hand' and flagged in the plaque audit as 'my Caroline Noble reading on the Knights roll is unsettled against Caroline Poole'. Where a document is illegible it states nothing to be overridden, and a person who was present supplies what the surviving strokes cannot. Caroline Poole was already documented in this project on the 'Last Trip of 2000' board, so the resolution attaches the knighthood to a person the KB already holds rather than introducing a new name. The 2002 knights are therefore Ali Olshefsky, Ian Braide and Caroline Poole.",
+      "category": "people",
+      "entities": [
+        "Caroline Poole",
+        "Order of the Knights of Kanawana",
+        "Camp Kanawana",
+        "Matt Aronson"
+      ],
+      "date_ref": "2002",
+      "sources": [
+        "src_oral_aronson",
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "user_knowledge",
+      "conflicts_with": [],
+      "added_version": "6.23",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4821",
+      "claim": "CAROL SKINNER'S ALS, from press coverage located 2026-09-05 but NOT read in full (see the access note below). Search-result summaries of a Montreal Gazette feature of 20 September 2016 and an Ottawa Citizen feature of 16 June 2018 give: symptoms began in early 2013, when her legs would not hold her as she tried to skate on the Rideau Canal; she was diagnosed with amyotrophic lateral sclerosis on 19 SEPTEMBER 2013; she was a longtime Kirkland resident and a McGill University art history graduate; she made her home in Ottawa with her husband, TRAVIS SKINNER; she gave up her work as an art therapist with the Canadian Mental Health Association because of the illness; and her teams raised more than $26,000 over four years of the annual ALS walk. SHE WAS ALIVE AS OF JUNE 2018. This adds a husband's name, a diagnosis date, a city of residence and a McGill degree to a person this wiki had recorded only as a Kanawana counsellor and Section Director 1990-95 and 2016 Pip recipient.",
+      "category": "people",
+      "entities": [
+        "Carol Skinner",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2013-2018",
+      "sources": [
+        "src_gazette_skinner_als_2016",
+        "src_ottawa_citizen_skinner_als_2018"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.23",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4822",
+      "claim": "CAROL SKINNER'S DEATH DATE IS NOT FOUND, AND ONE ROUTE IS AN ACCESS FAILURE RATHER THAN A NULL. The 2026 Pip release calls her 'the late' without a date (f_4812), which places her death between June 2018 -- when the Ottawa Citizen reported her alive -- and August 2026. THREE SEARCHES RUN 2026-09-05 across obituary aggregators, funeral homes and general web surfaces returned no obituary for this Carol Skinner; the several Carol/Carol Ann Skinner obituaries that surfaced belong to other people, at unrelated funeral homes. ACCESS FAILURE, NOT A NULL: the two pieces of press coverage that would carry her details in full -- the Montreal Gazette of 20 September 2016 and the Ottawa Citizen of 16 June 2018 -- are hosted on PressReader, which returned HTTP 403 to the fetch tool. NOT YET TRIED: the Ottawa Citizen and Montreal Gazette obituary sections directly, ALS Society of Canada and ALS Ottawa memorial notices, the Canadian Mental Health Association, and the National Capital ALS walk pages. The operator expects an obituary exists in the Gazette or online, so this should be treated as unfound rather than absent.",
+      "category": "people",
+      "entities": [
+        "Carol Skinner"
+      ],
+      "date_ref": "2018-2026",
+      "sources": [
+        "src_gazette_skinner_als_2016",
+        "src_ottawa_citizen_skinner_als_2018"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.23",
       "added_by": "manual"
     }
   ]

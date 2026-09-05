@@ -42,7 +42,7 @@ Each entry is given as the board paints it. The right-hand column records where 
 | 1999 | Sir Conor Ohiel | *(probably the Connor O'Neil of CIT 2000)* |
 | 2002 | Lady Ali Olshefsky | Rangers 2002; **Pip Alumni Award 2025** |
 | 2002 | Sir Ian Braide | Rangers 2002; Senior Boys 2007 |
-| 2002 | Lady Caroline Noble | *(reading unsettled — see Open Questions)* |
+| 2002 | Lady Caroline Poole | *"Last Trip of 2000" board; reading resolved 2026-09-05*^5 |
 | 2008 | Sir Scott Harman-Heath | — |
 | 2009 | Sir Dylan Applebaum | Order of Owens 2010 |
 | 2009 | Sir Dylan O'Brien | Chopsys 2008 |
@@ -63,7 +63,7 @@ Each entry is given as the board paints it. The right-hand column records where 
 
 1. [Important] Do the roll's gaps mean no one qualified, that the order lapsed, or that the board is incomplete? The 1988 report's "still in effect" makes the 1989–91 silence the sharpest test case.
 2. [Important] Is the 1982 knight **Sir Dave Paltiel** the same person as the **David Paltiel** named among the 1975 CITs? Seven years separate them and the order honoured campers, so a 1975 CIT being knighted as a camper in 1982 does not fit the pattern. A younger sibling is at least as likely. Not merged in [[people/multi-year-index|the index]].
-3. [Important] The faded 2002 entry read here as **Lady Caroline Noble** may instead be **Caroline Poole**, who is documented on the "Last Trip of 2000" board. Both readings fit the surviving strokes; the plaque should be re-examined before either is relied on. **A route to an answer exists:** the operator was on staff in 2002 and has already supplied first-hand detail on that year's knights [f_4816], so the Noble/Poole reading is a question that can be *asked* rather than re-photographed.
+3. ~~[Important] The faded 2002 entry read here as **Lady Caroline Noble** may instead be **Caroline Poole**.~~ **[Resolved 2026-09-05]** It is **Caroline Poole**, confirmed by the operator, who was on staff that season [f_4820]. This was never a case of testimony overriding a document: the entry is painted in a lighter hand and was flagged as an unsettled reading from the moment it was transcribed. **An illegible document states nothing to be overridden** — a person who was present supplies what the surviving strokes cannot. Poole was already documented here on the "Last Trip of 2000" board, so the correction attaches the knighthood to a person this project already held rather than introducing a new name. The 2002 knights are **Ali Olshefsky, Ian Braide and Caroline Poole**.
 4. [Nice-to-have] Are the Knights and [[traditions/order-of-owens|the Order of Owens]] formally related? Two people hold both — Denys Lawrence (Owens 1977, knighted 1980) and Dylan Applebaum (knighted 2009, Owens 2010) — and in both cases the two honours fall close together but in opposite orders.
 5. [Nice-to-have] Eyal Artzy (1987) and Misha Artzy (1988) are knighted in consecutive years, and Mark Gillett (1981) and Craig Gillett (1982) likewise. Sibling pairs are the obvious reading; no source states it.
 6. [Nice-to-have] Was the investiture ceremony ever photographed or described? The charter calls for "a secret ceremony, at the discretion of the council," and nothing describing one survives in this project.

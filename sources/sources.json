@@ -28171,6 +28171,42 @@
       "read_state": "read",
       "read_state_basis": "supplied by the operator and read in full 2026-09-05",
       "notes": "YMCA Quebec news release for the 2026 award, supplied by the operator as a .docx. The file's document properties give the author as \"Caddell, Andrew -BBI\" -- Andrew Caddell sponsors the award, so this is the sponsor's own text, the best provenance available for this award. Names TWO recipients previously unknown to this project (Dr. Karl Cernovich, Alexandra Olshefsky), documents Amy Ornstein's 2019 award in print for the first time, and gives MacSween's ordinal as 17th, which fixes the count."
+    },
+    {
+      "source_id": "src_gazette_skinner_als_2016",
+      "type": "periodical",
+      "title": "Montreal Gazette, \"A voice for those who don't have one\" — Carol Skinner and ALS",
+      "date": "2016-09-20",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://www.pressreader.com/canada/montreal-gazette/20160920/282295319672146",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-05T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.23",
+      "reliability": "secondary",
+      "read_state": "unavailable",
+      "read_state_basis": "located 2026-09-05; PressReader returned HTTP 403 to the fetch tool. Content known only from search-result summaries.",
+      "notes": "ACCESS FAILURE, NOT A NULL. Carries Carol Skinner's ALS diagnosis date, residence, husband's name and career detail; read only in summary. Worth retrying by another route."
+    },
+    {
+      "source_id": "src_ottawa_citizen_skinner_als_2018",
+      "type": "periodical",
+      "title": "Ottawa Citizen, \"My dad's been my biggest hero my whole life\" — Carol Skinner and ALS",
+      "date": "2018-06-16",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://www.pressreader.com/canada/ottawa-citizen/20180616/282308205816260",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-05T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.23",
+      "reliability": "secondary",
+      "read_state": "unavailable",
+      "read_state_basis": "located 2026-09-05; PressReader returned HTTP 403 to the fetch tool. Content known only from search-result summaries.",
+      "notes": "ACCESS FAILURE, NOT A NULL. Carries Carol Skinner's ALS diagnosis date, residence, husband's name and career detail; read only in summary. Worth retrying by another route."
     }
   ],
   "source_count": 1563

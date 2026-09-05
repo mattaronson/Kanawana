@@ -73,7 +73,7 @@ Recorded because the audit's value depends on them being visible: "Sassim" was
 **Saddam** · "Waff" was **Watt** · a 1944 dating guess was **1999** · two boards I
 called uncatalogued were objects the KB already had, seen obliquely · my Aurelie
 Tanguy lead gained a better same-year competitor in Charles-Eric Tanguay · my
-"Caroline Noble" reading on the Knights roll is unsettled against Caroline Poole.
+"Caroline Noble" reading on the Knights roll was WRONG — it is CAROLINE POOLE, confirmed 2026-09-05 by the operator, who was on staff in 2002 (f_4820). Correcting it made her traceable: she now appears in the multi-year index as Caroline "Big Ro Plo Plo" Poole, 2000–2002, Participant → Knight. **A misread name does not merely lose one entry; it hides a person from every cross-reference built on the transcription.**
 
 ## Method notes for anyone re-reading these boards
 

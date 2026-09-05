@@ -1,6 +1,6 @@
 # The Pip Alumni Award
 
-*Status: E1-reviewed | Sources: 23*
+*Status: E1-reviewed | Sources: 25*
 *Last Updated: 2026-08-14*
 
 ## Overview
@@ -55,7 +55,9 @@ Caddell died on October 16, 2005 in Tupiza, Bolivia, at age 32, of pulmonary ede
 
 **On the spelling.** Three documents give **Olshefsky** — both 2002 plaques and the 2026 release; the operator recalled *Olshevsky*. The documented spelling stands under the standing directive, and two of the three documents are contemporary painted records of that season [f_4817].
 
-**A death newly indicated.** The 2026 release describes four past recipients as "the late" — Richard Patten (2008), Stuart McLean (2009), Sam Lazarus (2013) and **Carol Skinner** (2016). The first three were already recorded here as deceased; for Skinner, an ALS advocate who was herself living with the disease when she received the award, this is the first indication in any of this project's sources that she has died. No date is given [f_4812].
+**A death newly indicated, and still undated.** The 2026 release describes four past recipients as "the late" — Richard Patten (2008), Stuart McLean (2009), Sam Lazarus (2013) and **Carol Skinner** (2016). The first three were already recorded here as deceased; for Skinner this is the first indication in any of this project's sources that she has died, and no date is given [f_4812]. Press coverage places her **alive in June 2018**, so the death falls between then and August 2026 [f_4822].
+
+Searching for an obituary on 2026-09-05 found none — the several Carol and Carol Ann Skinner obituaries that surface belong to other people. It did, however, recover biography this article did not have: she was diagnosed with **ALS on 19 September 2013**, after her legs failed her while she was skating on the Rideau Canal earlier that year; she was a longtime **Kirkland** resident and a **McGill art history graduate**; she lived in **Ottawa** with her husband **Travis Skinner**; she gave up her work as an art therapist with the Canadian Mental Health Association because of the illness; and her teams raised more than **$26,000** across four annual ALS walks [f_4821].^24 ^25 **The two newspaper features that carry all this in full were not read** — both sit on PressReader, which returned HTTP 403. That is an access failure, not an absence, and the same is true of the obituary: it is unfound, not shown not to exist.
 
 **One recipient is still unaccounted for.** Fourteen preceded Orbinski. This article names twelve through 2019 (2010 excepted, recorded as *undocumented*), and Cernovich makes thirteen — so exactly one remains, and it is **either a 2010 recipient or a second award somewhere in 2020–2023** [f_4809]. The gap was two; it is now one. It is *not* resolved in favour of 2010: the release drops two known names, so it could as easily be dropping a third from the 2020s.
 
@@ -126,6 +128,8 @@ In his memory, the annual "Five-Hole Sam" street hockey jamboree ("SAM JAM"), or
 21. Amy Ornstein faculty page, Department of Pediatrics, Dalhousie University [src_dal_pediatrics_ornstein]. Credential line "Amy Ornstein, MDCM, MSc, FRCPC, FAAP"; degrees listed as BSc (Concordia), MDCM (McGill), MSc (Dalhousie), FRCPC (Toronto). Fetched 2026-09-05 specifically to test this article's claim that no Montreal connection existed in any source. See [f_4799].
 22. Matt Aronson, member of the Camp Kanawana Pip Awards committee, 2026-09-05 [src_oral_aronson]. Confirms Dr. Amy Ornstein as the 2019 recipient, and that she grew up in Montreal and worked at Kanawana. Testimony from the body that administers the award and holds its list — the strongest attestation available for a year YMCA Quebec never published. See [f_4800], [f_4803].
 23. YMCA Quebec news release, "Jared MacSween Receives Camp YMCA Kanawana 'Pip' Award", Saint-Sauveur, 31 August 2026 [src_ymca_quebec_pip_macsween_2026]. Supplied by the operator; the file's document properties give Andrew Caddell, who sponsors the award, as its author. Source of the 17th-recipient ordinal, of MacSween's biography, of the first documentary attestation of Ornstein's 2019 award, and of the two previously unknown recipients. See [f_4805], [f_4806], [f_4807], [f_4808], [f_4809].
+24. Montreal Gazette, "A voice for those who don't have one", 20 September 2016 [src_gazette_skinner_als_2016]. **Not read** — PressReader returned HTTP 403; known only from search-result summaries. See [f_4821], [f_4822].
+25. Ottawa Citizen, "My dad's been my biggest hero my whole life", 16 June 2018 [src_ottawa_citizen_skinner_als_2018]. **Not read** — same block. Establishes that Carol Skinner was alive in June 2018. See [f_4821], [f_4822].
 
 ## Research Notes
 
