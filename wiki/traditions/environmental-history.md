@@ -1,6 +1,6 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 44*
+*Status: E1-reviewed | Sources: 45*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -178,6 +178,26 @@ A member's letter in the same issue makes the charge from outside: Doug Caldwell
 
 Funk's accompanying suggestions are the era's environmental programme menu in one page: adopt a stream, a series of out-trip sites or a roadway and keep it clean; run water, light, heating, waste-recycling and transport conservation programmes, "skills and knowledge to campers and staff — and savings for you"; reclaim an eyesore; teach planting, thinning and pruning, and "**plan for the campers of 2085, by planting trees this year**"; build a nest-box trail and feed birds in winter; and ask "**where does your waste water go? What garbage can you reuse, reduce, or recycle?**"^44
 
+### Kanawana's own director answers, 1988
+
+The acid-rain thread above runs from October 1979, when the movement first put the subject to camp directors as their own problem, through the 1982 teaching kit posted to member camps, Jeff Reading's "Understanding the Problem at Camp" in 1984, and the Environmental Ethic adopted that year. In every one of those, Kanawana is part of the audience and never part of the record.
+
+In the **last issue *Canadian Camping* ever published**, Winter 1988, that changes. The magazine printed, in French and then in English, an article bylined "**by Jay Netherwood, Camp Kanawana**" — the camp's own director, writing to the camp directors of his province.^45 It is titled "**L'Étranger / The Stranger**":
+
+> "**Would you let a stranger walk around your camp with a chain saw, cutting down all the mature trees? Of course not. Well in fact we camp directors in Quebec are doing exactly that. The stranger's name is acid rain**, or more properly, acid precipitation, for melting snow is the deadliest form this stranger assumes.
+>
+> **If your camp is located in the Canadian Shield (especially the Laurentians) or south of the St.-Lawrence River then your flora and fauna have been irreparably damaged.**… The problem with acid precipitation is that it is a slow killer; our lakes look healthy, the outer branches of our coniferous trees look green and vibrant… **But walk away from your birches and maples and look at the top, where the new growth should be — notice the bare branches? Look at the inside part of the branch of your pines and spruces — are the needles brown? Have you seen more dead tadpoles floating near the edge of your lake? Have you noticed how much quieter your site is on a warm July night when you used to be able to drift off to sleep, serenaded by a frog chorus?**
+>
+> **Our lakes are becoming vinegar.** Our mature trees are suffering from die-back… **Our amphibious life is dying. And what are we doing? Nothing.**
+>
+> **In 1978, concerned maple syrup producers banded together to form a body to lobby governments and industry, but in 1987 what have we camp directors done?**… **Our responsibility must expand beyond ensuring that our campers have a safe and rewarding summer experience, it must also include that we are guardians of our fragile environment**… what is at stake here is much more than a few camp directors' jobs — **it's an industry devoted to people — an industry that is concerned and scared.**
+>
+> Individually, we should as educators, promote environmental literacy, **for our campers and staff of today will become tomorrow's industrialists and politicians. Let's become acquainted with this stranger. Let's take the chain saw out of its hands.**"
+
+**This is the only article by a Kanawana person in the 164 issues of the run**, and it is the only place in that run where someone at Kanawana acts on the movement's environmental programme rather than being counted by it. It also corrects this project's own earlier note: the article was catalogued as French-language; **it is bilingual, French set first**.
+
+**What it is not.** Netherwood names no lake, gives no pH, cites no measurement, and does not mention Kanawana's own water. Nothing here is a record of the chemistry of Lake Kanawana, Lake Wilson or Round Lake, and none is inferred. **What it is** is a general statement made by a person with particular knowledge: the sentence "if your camp is located in the Canadian Shield (especially the Laurentians)… then your flora and fauna have been irreparably damaged" is written by the director of a camp in exactly that position, and the questions he puts to his readers — bare crowns on the birches, brown needles on the inside of the spruce branches, dead tadpoles at the lake edge, a July night gone quiet — read as a list of things he had gone and looked for. That is the closest this project has come to an observation of Kanawana's own ecology in the 1980s, and it is offered at that strength and no higher.
+
 ## Alumni Environmental Impact
 
 Several Kanawana alumni have built careers in environmental stewardship:
@@ -268,6 +288,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 42. Jeff Reading (Kilcoo Camp), "Acid Rain: Understanding the Problem at Camp," pp. 13-16; the bilingual editorial "Acid Rain: Not Just A Catchphrase!"; the letter from Doug Caldwell; and Jocelyn Palm, "President's Perspective" — all in *Canadian Camping* Vol. 35 No. 4 (Winter 1984) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 149). The President's Perspective page is printed 180° rotated in the scan and was decoded with `scripts/reread/unrotate.py`.
 43. Jean Funk, "Environment Committee," in the CCA/ACC Annual Report 1983, *Canadian Camping* Vol. 36 No. 2 (Summer 1984) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 151).
 44. Jean Funk, "Dear CCA Member Camps," and the full text of the "Canadian Camping Association Environmental Ethic," *Canadian Camping* Vol. 36 No. 4 (Winter 1985), pp. 5-6 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 153).
+45. Jay Netherwood (Camp Kanawana), "L'Étranger" / "The Stranger," *Canadian Camping Magazine* Vol. 39 No. 3 (Winter 1988), pp. 18-19, printed in French and English [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 164). The only article by a Kanawana person in the magazine's 1949-1988 run.
 
 ## Research Notes
 

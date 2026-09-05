@@ -1,5 +1,13 @@
 # Canadian Camping — full word-for-word read
 
+**COMPLETE, 2026-09-05: all 164 cached issues (1949-1988) read word for word.** The ledger at
+`kb/reread/cc_progress.jsonl` has 164 of 164 rows marked read. Known holes, all in the tool rather than
+the record, and all labelled in their own blocks: issue 161 p. 7, issue 163 pp. 13 and 19 produced no
+machine-readable text in the Internet Archive scans; issues 145 and 149 are printed 180 degrees rotated
+and were machine-decoded (issue 151 corrected four of those readings, issue 154 confirmed another in
+clean type). Issue 163's own editor records that a postal strike, not silence, is why several provincial
+reports are missing from that issue.
+
 Started 2026-09-04. Every issue read in full, not term-searched. One block per
 issue: what it is, what it contains that bears on Kanawana, the YMCA of Montreal,
 Quebec camping, or the people already in the KB — and an explicit "nothing" when
@@ -28849,3 +28857,249 @@ Indigenous rendering of the name of its founder **Dr. John Hunt**. Nova Scotia's
 Make A Difference." Newfoundland's association moved its address from St. John's to **Corner Brook** under
 Judy May. The **Manitoba** association moved to 1495 St. Matthews Ave., Winnipeg. Rates are $10.00 a year
 and $3.00 an issue; the copyright line still reads 1986.
+
+## 164 — Vol. 39 No. 3, Winter 1988 — ★★★★★ THE LAST ISSUE, AND KANAWANA'S DIRECTOR WRITES IN IT
+
+Thirty-two pages, **the final issue of the digitized run**. Printed contents page checked item by item;
+every item read: the President's Message in both languages; the Patrons' Fund pledge form; "Camping
+From Coast To Coast" (Newfoundland, New Brunswick, Atlantic, **Quebec**, Ontario region, OCA, Manitoba,
+Prairie); "Got A Minute?"; Committee Notes (**Camps d'expression française**, Public Relations); the
+**Personality Profile of Lorne Brown, interviewing May Brown**; **"L'Étranger / The Stranger" by Jay
+Netherwood, Camp Kanawana**; "Camp Massad" (Manitoba); "Mount Pleasant Neighbourhood House"; **the A.
+Ross Seaman Leadership Development Fund notice**; the P.A.R.C. Notebook with the national survey
+results, in both languages; "Between the Covers"; the Bubby Nash notice; "Under Open Skies"; "What's In
+A Name?" (Camp He Ho Ha); and "What's 'In' Outdoors." The contents also list "Programming En Route" and
+"Conference Tender", which appear in the list only — no such sections are in the scanned text, and
+whether they were dropped in production or lost in the scan is not determinable from this copy.
+
+---
+
+**★★★★★ KANAWANA'S OWN DIRECTOR WRITES IN THE NATIONAL MAGAZINE — the only such article in 164 issues.**
+
+After a hundred and sixty-four issues in which Kanawana is named perhaps two dozen times and always by
+someone else, **the last issue of the run carries an article by the man running the camp.** It is printed
+in full in both languages, French first, and bylined "**by Jay Netherwood, Camp Kanawana**." Its subject
+is acid rain, and it is addressed to his own province's camp directors:
+
+> "**Would you let a stranger walk around your camp with a chain saw, cutting down all the mature trees?
+> Of course not. Well in fact we camp directors in Quebec are doing exactly that. The stranger's name is
+> acid rain**, or more properly, acid precipitation, for melting snow is the deadliest form this stranger
+> assumes.
+>
+> **If your camp is located in the Canadian Shield (especially the Laurentians) or south of the
+> St.-Lawrence River then your flora and fauna have been irreparably damaged.**… The problem with acid
+> precipitation is that it is a slow killer; our lakes look healthy, the outer branches of our
+> coniferous trees look green and vibrant… **But walk away from your birches and maples and look at the
+> top, where the new growth should be — notice the bare branches? Look at the inside part of the branch
+> of your pines and spruces — are the needles brown? Have you seen more dead tadpoles floating near the
+> edge of your lake? Have you noticed how much quieter your site is on a warm July night when you used
+> to be able to drift off to sleep, serenaded by a frog chorus?**
+>
+> **Our lakes are becoming vinegar.** Our mature trees are suffering from die-back, caused by stress from
+> acid precipitation which weakens the trees and makes them prone to shoestring root-rot… **Our
+> amphibious life is dying. And what are we doing? Nothing.**
+>
+> **In 1978, concerned maple syrup producers banded together to form a body to lobby governments and
+> industry, but in 1987 what have we camp directors done? Surely we have as much to lose as the maple
+> syrup producers.** Walk around your site and envision it 5-10 years from now, when you may well be
+> camping in a field and tripping down rivers flanked by shrubs and devoid of life.
+>
+> **Our responsibility must expand beyond ensuring that our campers have a safe and rewarding summer
+> experience, it must also include that we are guardians of our fragile environment.** Let's get together
+> and create a united voice — a voice that will be heard. We have to make government aware that what is
+> at stake here is much more than a few camp directors' jobs — **it's an industry devoted to people — an
+> industry that is concerned and scared.**
+>
+> Together, we should form a united front. Individually, we should as educators, promote environmental
+> literacy, **for our campers and staff of today will become tomorrow's industrialists and politicians.**
+>
+> **Let's become acquainted with this stranger. Let's take the chain saw out of its hands.**"
+
+**Why this matters beyond its content.** `directors-index.md` already knew the article existed — it was
+listed in a catalogue check as "a signed French-language article on acid rain, 'L'Étranger'… the only
+known writing by him outside internal YMCA reports." **What the read supplies is the text, and a
+correction: it is printed in both French and English, not French only, with the French set first** —
+which for a Quebec YMCA camp in 1988 is itself a statement. It also supplies:
+
+- **An independent, dated, printed document placing Jay Netherwood at Camp Kanawana as its public voice
+  in the winter of 1988**, over his own name. Every other document for his directorship is an internal
+  YMCA of Montreal roster or his own director's report. This is outside the institution.
+- **The completion of a thread this article has followed for nine years.** `environmental-history.md`
+  records the movement putting acid rain to camp directors as *their* problem from October 1979, the
+  National Survival Institute's teaching kit posted to member camps in 1982, Jeff Reading's "Acid Rain:
+  Understanding the Problem at Camp" in 1984, and the CCA's Environmental Ethic of 1984. **In 1988 a
+  Kanawana director answers it in print, in his own words, having plainly walked his own site looking
+  at treetops.** Nothing else in the run shows a Kanawana person acting on the movement's programme
+  rather than being counted by it.
+- **A near-observation of Kanawana's own lakes.** He does not name Lake Kanawana, Lake Wilson or Round
+  Lake, and he gives no measurement. But "if your camp is located in the Canadian Shield (especially the
+  Laurentians)… **then your flora and fauna have been irreparably damaged**" is written by the director
+  of a camp in exactly that position, and the questions he asks — bare crowns on the birches, brown
+  needles inside the spruce branches, dead tadpoles, a silent July night — read as things he had
+  looked for. **Recorded as what it is: a general statement by a person with particular knowledge, not
+  a record of Kanawana's water chemistry.**
+
+**Written into `traditions/environmental-history.md`, `history/between-centennials.md` and
+`people/directors-index.md`.**
+
+**★★★★ A. ROSS SEAMAN DIED 23 OCTOBER 1987 — the exact date, which this wiki did not have.** The same
+issue carries the founding notice of the **A. Ross Seaman Leadership Development Fund**, and it supplies
+several things `people/a-ross-seaman.md` records only approximately or not at all:
+
+- **The date: "the passing of A. Ross Seaman on October 23, 1987."** The wiki has had only "October
+  1987." **This closes part of Open Question 1 on his article** and gives a date to search obituary
+  archives with — *The Review* of Vankleek Hill for late October or early November 1987.
+- **The fund's origin:** "a group of family, friends, and colleagues met in **early November** and
+  proposed a living memorial through the establishment of a **fellowship/scholarship/bursary fund**…
+  Our aim is to use **only the interest of the fund, leaving the capital intact**… we have set as our
+  minimum goal the sum of **$25,000.00**."
+- **Its address and its status:** "Fonds Commémoratif A. Ross Seaman, **Université Concordia, Bureau des
+  finances AD 130, 7141 ouest, rue Sherbrooke, Montréal, Québec H4B 1R6**," with the explicit note in
+  capitals: "**THIS IS NOT AN OFFICIAL CCA/ACC FUND-RAISING EFFORT. IT HAS BEEN ORGANIZED FOR AND
+  THROUGH CONCORDIA UNIVERSITY.**"
+- **What his colleagues said he was:** "a community leader, educational innovator, and consummate
+  teacher and mentor… on the leading edge of bringing the best possible resources to bear on the issues
+  that engaged his energy — **camping and leadership training, recreation leadership, and community
+  organization, particularly as it relates to adolescent life and latterly as it related to an aging
+  population**. One colleague refers to him as **a cheerleader of the human race**." And: "One of Ross'
+  philosophies was to '**pass it on**' whenever he was on the receiving end of something meaningful."
+
+**So the last issue of the run carries a memorial to one Kanawana director and an article by another.**
+That is not a pattern; it is a coincidence of one issue. It is also the only issue in the whole run in
+which Kanawana appears twice in its own right.
+
+**★★★★ "WILL WE SURVIVE?" — the association states the ending in its own words.** Janet Adamson's
+president's message is the last one printed, and it says plainly what this project has been assembling
+from Palm's 1985 editorial onward:
+
+> "**For those intimately involved with the Canadian Camping Association, 1988 is an historic year. It is
+> this year that the Canadian Camping Association is no longer receiving funding for its operating
+> expenses from the Federal Government through Fitness Canada. Will we survive?**
+>
+> For many years the C.C.A. received handsome funding for its general operation from the Federal
+> Government. **We had an executive director's salary, twice yearly board meetings to which all
+> provincial presidents were flown at government expense, conferences funded by government, and Federal
+> Government administrative money. This funding has been phased out over the past three years, and
+> despite economies, budget cutting and fund raising we are now operating at a deficit each year.**"
+
+She counts the association at "**nine provincial associations and six hundred camps and their
+directors**… for fifty years." Two of her seven appeals are worth recording as fact rather than
+rhetoric: "**Because we are facing a deficit in this year, Camp Tawingo is underwriting the complete
+cost of production of this winter issue of the magazine**" — so **the last issue of *Canadian Camping* was
+paid for by a single camp** — and, of the foreign-counsellor protocol, "**Each year Barry [Lowes], at his
+own expense, flies to Ottawa and negotiates the foreign camp counsellor agreement for C.C.A. He donates
+his time, the office work involved and the airfare.**" The board's own minutes, printed two pages later,
+are blunter still: "**There is no money left in the budget to produce this very C.C.A./A.C.C. Magazine
+you now hold in your hands.**" and "**Deep concern was expressed by all over the financial outlook.**"
+
+**That is the end of the run explained from inside, in the issue that turns out to be the last.** Written
+into `canadian-camping-movement.md`. The same minutes record plans that did not visibly happen in this
+corpus: a **third International Congress proposed for Toronto**, a **1989 Directors' Institute**, and (from
+the previous issue) a **1989 national conference**.
+
+**★★★ THE DECENTRALISATION OF THE CCA, DATED PROPERLY — and a correction to what this read wrote at issue
+159.** Interviewed about her husband, **May Brown** — CCA president 1965-67 — gives the sequence:
+
+> "**Don Smith from Alberta was President just before I was and I think that was the first move out of
+> Ontario and Quebec.** It really solidified our whole country, because, for the next 10 years, it moved
+> from Alberta to B.C. to Manitoba, where **Doug McEwen** was President and, eventually, **David Hartry** in
+> Nova Scotia became the President."
+
+At issue 159 the magazine's interviewer told Shirley Yard that "**shortly after** you made your
+cross-Canada trip, it began that Presidents and Executives and Boards of the Canadian Camping
+Association were provincially-located" — the trip being Ted Yard's of 1953-55. **May Brown, who was
+herself the second such president, dates the actual break to Don Smith of Alberta in about 1963-65 — a
+decade later.** Both are printed recollections, and the discrepancy is between "shortly after" and a
+named sequence; **the named sequence is the more precise and is preferred, and the movement article has
+been amended to say so.** Brown adds the mechanism: "**The CCA, at that stage, was very small and we had
+no money** so I took advantage of those trips [on the National Advisory Council for Fitness and Amateur
+Sports] to go all across the country, stopping off with my air ticket and going to camping meetings in
+Alberta and Winnipeg."
+
+**★★★ MAY BROWN IS A THIRD NAMED DIRECTOR OF CAMP OOLAHWAN — and the Ottawa founding meeting has a
+sender.** "**I had directed Camp Oolawhan out of the Montreal YWCA**," she says of 1947, and:
+
+> "I was going to be directing Camp Oolawhan for the summer but I was looking for something for the
+> fall so **I was sent by the Montreal YWCA to a meeting in Ottawa which was the first meeting of the…
+> when they were going to establish a Canadian Camping Association.** **Blackie Blackstock** was there and
+> he introduced me to **Marion Henderson Penney** from U.B.C."
+
+This wiki already records May Brown at "one of its first meetings at Ottawa in the spring of 1947" as
+one of four items pointing at Ottawa and the later 1940s (see `c_029`). **What is new is that she was
+sent there by the YWCA of Montreal, and that she was Camp Oolahwan's director that summer** — making her
+the **third named Oolahwan director** this project holds, after Mary S. Edgar (1915-19) and Marjorie
+Booth (late 1970s), and filling a name into a thirty-year gap. She had taken her Physical Education
+degree at **McGill**, finishing in 1947. Added to `camp-oolahwan.md`; the Ottawa detail is added to
+`c_029` as sharpening an existing item rather than as a new one.
+
+**★★ MADELENE ALLEN REPLACES KEN WILLIS ON THE ACQ BOARD.** Gérard Bachand, in his first Quebec regional
+report as vice-president: "I also want to extend a warm thank you to **Mr. Ken Willis** for all the years
+he spent working for the QCA… By the same token, I wish to welcome **Mrs. Madelene Allen** who will be
+taking Ken's place" — "**qui prend la relève de Ken au sein du Conseil d'Administration**." **So the
+director of Camp Ouareau, whose 1985 prize paper on French-speaking children at English camps this wiki
+sets out in full, joined the ACQ's board of directors at the start of 1988.**
+
+**★★ THE ACQ AT THE START OF 1988, from Bachand.** A new leadership programme for administrators; a new
+advanced course for directors ("**Directeur 2**") begun in December, with a "**Formateur-plus**" course for
+those responsible for training inside camps; **two major studies with the M.L.C.P., one on insurance and
+one on summer-camp clientele (a market study)** — confirming from a second source the study Chalifoux
+described in the previous issue; the development plan going to the Conseil d'administration in
+mid-January after the orientation plan of May 1987; and "**une Foire des Camps se prépare pour le début
+de 88, où l'ACQ est le maître d'oeuvre. Le tout se déroulera au Complexe Desjardins de Montréal**" — **a
+camp fair at Complexe Desjardins in Montreal in early 1988, organised by the ACQ**, which Kanawana as a
+member camp would have had every reason to attend. Added to `p_319`.
+
+**★★ THE PARC SURVEY, the last piece of national data the run produces.** Of "**close to 600 CCA member
+camps**" sent the questionnaire, **197 (33%) replied** — **70 religious camps, 52 private, 50 agency, 14
+special-needs and 11 other; 179 residential and 18 day camps.** Findings: 53% call physical activity
+"very important"; **67.5% say more than half their programme is physical activity**; the top five priority
+programmes are **swimming, religion, canoeing, boating and land sports**; **70% have water, forest and
+fields on site** and 28% large hills or mountains; **campers are mostly 8-15 with almost equal numbers of
+girls and boys**; objectives are new skills, lifelong leisure activities and fitness, with competition
+preparation rare; **"a large number of camps expressed a preference for cooperative 'New Games', as
+opposed to the more traditional, competitive, team and individual sports"**; and the problems named are
+finding qualified staff for non-waterfront activities, the cost of facilities and equipment, motivating
+sedentary campers, and the want of cheap new ideas. **This is the only statistical portrait of Canadian
+camp programming in the whole run built from a designed survey with a stated response rate**, and its
+composition — a third religious, a quarter private, a quarter agency — is the best available answer to
+what kind of institution a "Canadian camp" was in 1987. A fuller report was to be mailed to all member
+camps early in 1988; whether it was is not known here.
+
+**★ SMALLER THINGS.** The **Personality Profile of Lorne Brown (1908-1976)** completes the magazine's
+series on "some of the pioneers of camping in Canada" — Taylor Statten, Mary S. Edgar, Ted Yard and
+Brown — and the editor promises "the start of a different series of personalities in our next issue",
+which never came. Brown directed **Camp Deka** in the Cariboo 1961-1975 (property bought 1958, lodge
+begun 1960, opened 1961 with 24 campers, never larger than 48 boys), was at the Vancouver YMCA's **Camp
+Elphinstone** from 1925 and co-director in 1950, founded the **B.C. Outdoor Educators**, chaired the CCA's
+first **Nature Awareness Committee** under John Latimer's presidency, was president of **CAHPER** 1955-57
+and chaired UBC's Physical Education department in the Faculty of Education. On the **B.C. Camping
+Association's founding date** — recorded as disputed at issue 160, "1937 in my records… but there are
+people in B.C. who tell me it was 1940" — May Brown, wife of a founder, says: "**as far as I can trace,
+I believe B.C.C.A. started in 1940**… I think it was incorporated in 1940." Deka's council-ring practice
+is described with unusual candour: "**it came out of an Indian Council idea, but it wasn't too formal.
+We used to have a Challenge Night and Lorne was the Chief and actually did have an Indian jacket that he
+wore at it**… because we had loons on the lake, we called it 'The Camp where wild loons call.' **The boys
+called him Chief Loony Loon**" — a fifth position on the question, and the most casual. **Camp Massad** in
+this issue is the **Manitoba** camp fifty miles north of Winnipeg, thirty-five years old in 1987 and the
+only Hebrew-immersion camp in western Canada — **not the Camp Massad Montreal (1947, Lac Quenouille)
+recorded in `quebec-camp-landscape.md`**; the two share a name and should not be conflated. Ontario gave
+Larry Bell of Camp Robin Hood the **Dorothy Walter Award of Excellence**; **Bert Fine** of Forest Valley
+Day Camp became an OCA Life Member; the OCA ran a **lottery** and completed an **Operational Review**.
+Colette Pouliot-Marier reports that Quebec francophones were now providing the magazine's translation
+under the new language policy — "**des Francophones du Québec assument, depuis quelques mois, la tâche
+délicate de traduire les textes anglais en français, et vice versa**" — and appeals, twice, for French
+copy: "**Il est up to us, Francophones. Our contribution is lacking.**" **INCEF 88** was expected early in
+the year. **Nancy Bramm of Camp Gay Venture** is pictured receiving the 1987 Bubby Nash award from Anne
+Nashman. Rates remain $10.00 a year, $3.00 an issue; ISSN 0834325; the copyright line still reads 1986.
+
+---
+
+**THE READ IS COMPLETE. 164 of 164 issues of *Canadian Camping* (1949-1988) have been read word for
+word.** What the run does not contain is as much a finding as what it does: **Kanawana is named in it
+perhaps two dozen times across thirty-nine years**, almost always in a list, and exactly once does one of
+its people write in it. The camp was a member of the ACQ and through it of the CCA for the whole period,
+and the national magazine of its own movement recorded that membership almost entirely as an absence.
+The Quebec material that does exist — the ACQ's founding datings, its accreditation régime, its
+statistics, its French-language commission, its officers — was found because the read went page by page
+through issues that never mention Kanawana at all, which is the case for reading a source in full rather
+than searching it for a name.
