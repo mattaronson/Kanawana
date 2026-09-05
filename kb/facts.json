@@ -1,8 +1,8 @@
 {
-  "version": "6.13",
-  "kb_version": "6.13",
+  "version": "6.14",
+  "kb_version": "6.14",
   "migrated_from": "3.3",
-  "fact_count": 4759,
+  "fact_count": 4760,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -33914,7 +33914,7 @@
     },
     {
       "fact_id": "f_1997",
-      "claim": "The L&V Games annual trophy's shields have NOT been reliably transcribed: the available photographs are angled, several plaques sit behind the crossed paddle and axe, and older shields are faded or silvered. A careful read would yield a near-complete 79-season winners roll and settle which season was skipped, which currently rests on arithmetic from YMCA Quebec's '78th edition' claim for 2025.",
+      "claim": "[SUPERSEDED 2026-08-14: the shields WERE subsequently transcribed -- see f_2000 (1947-1975) and f_2001 (1976-2025), with the four illegible shields supplied by the operator in f_2010. The skipped season is 2021, read off the trophy, not inferred from arithmetic.] The L&V Games annual trophy's shields have NOT been reliably transcribed: the available photographs are angled, several plaques sit behind the crossed paddle and axe, and older shields are faded or silvered. A careful read would yield a near-complete 79-season winners roll and settle which season was skipped, which currently rests on arithmetic from YMCA Quebec's '78th edition' claim for 2025.",
       "sources": [
         "src_photo_lv_annual_trophy"
       ],
@@ -85153,7 +85153,7 @@
     },
     {
       "fact_id": "f_4796",
-      "claim": "THE 1947 START DATE FOR KANAWANA'S L&V GAMES RESTS ON A MODERN EDITION COUNT, NOT ON A CONTEMPORARY DOCUMENT, AND THE ARITHMETIC DOES NOT CLEANLY YIELD 1947. This project's basis for 1947 is the YMCA's statement that 2025 saw the 78th edition. If the Games ran every year without a gap, the 78th edition in 2025 implies a first edition in 1948. If the two COVID years of 2020 and 2021 are excluded from the count, 78 editions span eighty calendar years and imply a first edition in 1946. 1947 is what neither reading yields. The earliest contemporary mention in this project's cache is the 1950 annual report. The 1947 date should be treated as approximate, and the discrepancy resolved before it is relied on.",
+      "claim": "[SUPERSEDED 2026-09-05: wrong on both halves. The 1947 date does NOT rest only on the edition count -- the camp's own 1988 report states it outright, and the perpetual trophy's first shield reads 47. And the arithmetic does yield 1947: only ONE season was lost, 2021, not two. See the reconciliation fact f_4798.] THE 1947 START DATE FOR KANAWANA'S L&V GAMES RESTS ON A MODERN EDITION COUNT, NOT ON A CONTEMPORARY DOCUMENT, AND THE ARITHMETIC DOES NOT CLEANLY YIELD 1947. This project's basis for 1947 is the YMCA's statement that 2025 saw the 78th edition. If the Games ran every year without a gap, the 78th edition in 2025 implies a first edition in 1948. If the two COVID years of 2020 and 2021 are excluded from the count, 78 editions span eighty calendar years and imply a first edition in 1946. 1947 is what neither reading yields. The earliest contemporary mention in this project's cache is the 1950 annual report. The 1947 date should be treated as approximate, and the discrepancy resolved before it is relied on.",
       "category": "methodology",
       "entities": [
         "Camp Kanawana"
@@ -85183,6 +85183,28 @@
       "conflicts_with": [],
       "added_version": "6.13",
       "added_by": "cache_research"
+    },
+    {
+      "fact_id": "f_4798",
+      "claim": "RESOLUTION of the L&V start date (p_410): 1947 is CONFIRMED, and this project's own doubt of 2026-09-05 (f_4796) was an error. Three independent lines converge. (1) THE OBJECT: the perpetual Kanawana Annual Trophy for Lumbermen Voyageur Games carries a shield for every season, and the first reads 47 -- 1947, Voyageurs. (2) THE CAMP'S OWN RECORD: \"Kanawana... A Place to Grow\" (YMCA of Montreal, 1988) lists under PROGRAMME HIGHLIGHTS: \"1947 Kanawana introduces new camp wide event to highlight the final session of camp. Lumbermen and Voyageurs competition is created.\" (3) THE ARITHMETIC, CORRECTED: YMCA Quebec calls 2025 the 78th edition. 1947 through 2025 inclusive is 79 calendar seasons; exactly one was lost, 2021, which has no shield -- 2020 WAS contested, remotely, and does have one. 79 minus 1 is 78. The count lands on 1947 to the year, and independently confirms 2026 as the 79th edition. The earlier arithmetic failed only because it deducted two pandemic seasons where the trophy and the operator's account both record one. What survives of the doubt is narrower and still open: the annual reports for 1947, 1948 and 1949 are silent on the tradition and the camp's own 1951 history does not mention it (f_4795), so no CONTEMPORARY document from the founding seasons has yet been found -- the 1988 report is retrospective and the trophy's early shields could in principle have been back-filled. That is a gap in the contemporary record, not a competing date: nothing anywhere proposes a year other than 1947.",
+      "category": "traditions",
+      "entities": [
+        "Lumbermen and Voyageurs Games",
+        "Camp Kanawana",
+        "Kanawana Annual Trophy"
+      ],
+      "date_ref": "1947",
+      "sources": [
+        "src_photo_lv_annual_trophy",
+        "src_ia_kanawana_place_to_grow_1988",
+        "src_ymca_website"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [
+        "f_4796"
+      ],
+      "added_version": "6.14",
+      "added_by": "manual"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Points of Contact: Kanawana and the Other YMCA Camps
 
-*Status: draft | Sources: 23*
+*Status: draft | Sources: 26*
 *Last Updated: 2026-09-05*
 
 ## Overview
@@ -13,7 +13,8 @@ traditions that demonstrably travelled, and the institutional occasions on which
 together — and separates them from the resemblances that look like contact and are not.
 
 Two of its findings are negative and worth stating first. **The route by which the L&V Games reached
-Kanawana in 1947 is undocumented on every surface searched** — and the direction of travel is now less
+Kanawana in 1947 is undocumented on every surface searched** — the year itself is firm; it is the
+passage that is missing — — and the direction of travel is now less
 certain than it looked, because **four** camps run them, two of the four are older than the one assumed
 to have originated the tradition, and only Kanawana's adoption carries a date. And **Big Cove appears not to have had a Lumbermen-and-Voyageurs competition at all**,
 despite sharing the word "Voyageur" with Kanawana's.
@@ -91,8 +92,9 @@ vice-president for Quebec from December 1966; Derek Walsh chaired the English Se
 Camp Pine Crest in Muskoka has run **"The Pine Crest Games" — a two-day all-camp contest between the
 Voyageurs and the Lumbermen — every summer since 1940**, seven years before Kanawana's version began.^8
 Pine Crest uses the same two symbols Kanawana uses, the paddle and the axe.^9 Kanawana's
-Lumberman-Voyageur Week was created in **1947**, and the YMCA's own count of editions confirms that
-start.^10
+Lumberman-Voyageur Week was created in **1947** — a date carried by the camp's perpetual trophy, whose
+first shield reads 47, by the camp's own 1988 report, and by the YMCA's count of editions, which lands
+on 1947 to the year.^24 ^25 ^10
 
 **And there are at least four Canadian camps running it — which this article got wrong on first
 writing, twice.**
@@ -168,12 +170,33 @@ the camp's own **"Kamp Kanawana History" of 6 June 1951 never mentions it either
 Locke's innovations since 1947 — a new main wharf, a cabin for the Senior Section Director,
 electrification, an automatic chlorinated water system, electric refrigeration.^23 [f_4795]
 
-**The 1947 date rests on a modern edition count, and the arithmetic does not yield 1947.** This
-project's basis for it is the YMCA's statement that 2025 saw the **78th** edition. Run without gaps, a
-78th edition in 2025 implies a **first edition in 1948**. Excluding the two COVID years, 78 editions
-span eighty calendar years and imply **1946**. **1947 is what neither reading gives** [f_4796]. The date
-should be treated as approximate until a contemporary document fixes it — and the 1948 or 1949 Kanawana
-season reports at Concordia are where to look.
+**But 1947 itself is not in doubt, and the paragraph that stood here saying otherwise was wrong.**
+It argued that the 1947 date rested only on a modern edition count whose arithmetic missed 1947 by a
+year in either direction. Both halves were mistaken, and both were checkable against material this
+project already held: the trophy, the 1988 report, and a corrected count of the seasons lost to the
+pandemic [f_4798].
+
+The date does not rest on the edition count. It rests first on **the object**: Kanawana keeps a
+perpetual trophy for the Games, and beneath the crossed paddle and axe hangs a shield for every season
+played. The first one reads **47** — 1947, Voyageurs.^24 It rests second on **the camp's own record**:
+*Kanawana… A Place to Grow* (1988) lists, under Programme Highlights, "**1947** Kanawana introduces new
+camp wide event to highlight the final session of camp. Lumbermen and Voyageurs competition is
+created."^25
+
+And the arithmetic does work, once it is done correctly. YMCA Quebec calls 2025 the **78th** edition.
+1947 through 2025 is **79** calendar seasons, and exactly **one** of them was lost: **2021**, the only
+year with no shield on the trophy. 2020 was contested — remotely, by alumni and campers in their
+distanced bubbles — and has a shield of its own.^26 Seventy-nine seasons less one lost is seventy-eight.
+The count lands on 1947 to the year, and independently confirms the 2026 Games as the 79th edition. The
+earlier reading deducted two pandemic seasons where the record carries one.
+
+**What survives of the doubt is narrower, and worth keeping.** No *contemporary* document from the
+founding seasons has been found. The 1988 report is retrospective by forty years, and a perpetual
+trophy's early shields could in principle have been cut and lettered after the fact. Against that, the
+annual reports for 1947, 1948 and 1949 say nothing of the tradition, and the camp's own 1951 history
+does not mention it [f_4795]. That is a hole in the contemporary record — not a competing date. Nothing
+found anywhere proposes a year other than 1947. The 1948 and 1949 Kanawana season reports at Concordia
+would close it.
 
 **Where the answer probably is.** Camp Pine Crest published a centennial history, ***Lumbermen &
 Voyageurs: The YMCA Pine Crest Story***.^12 It is the single most likely place for the origin of the
@@ -302,28 +325,31 @@ decline should be tested against the YMCA's own records before it is asserted.
 
 ## Open Questions
 
-1. [Critical] **How did the L&V Games reach Kanawana, and in what year exactly?** The Locke route is
-   closed — he was a Montreal branch man throughout [f_4793]. Two things remain: read *Lumbermen &
-   Voyageurs: The YMCA Pine Crest Story* (`p_404`), and **fix the start date from a contemporary
-   document**. The earliest cached mention is the 1950 annual report, which calls the tradition
-   established; 1947, 1948 and 1949 are silent, and the edition count implies 1946 or 1948 rather than
-   1947. The 1948 and 1949 Kanawana season reports in Concordia P0145/12B are the place to settle it.
-2. [Important] **Who created the Pine Crest Games in 1940, and why those team names?** Unanswered by the
+1. [Critical] **How did the L&V Games reach Kanawana?** The year is settled — 1947, on the trophy, in
+   the 1988 report and in the edition count [f_4798]. The route is not. The Locke lead is closed: he was
+   a Montreal branch man throughout [f_4793]. What remains is to read *Lumbermen & Voyageurs: The YMCA
+   Pine Crest Story* (`p_404`).
+2. [Important] **Is there a contemporary document from the founding seasons?** Nothing yet written in
+   1947, 1948 or 1949 mentions the tradition; the earliest cached mention is the 1950 annual report,
+   which already calls it established, and the camp's own 1951 history omits it [f_4795]. This does not
+   put 1947 in question — nothing proposes another year — but the first four seasons are attested only
+   retrospectively. The Kanawana season reports for 1947-1949 in Concordia P0145/12B would close it.
+3. [Important] **Who created the Pine Crest Games in 1940, and why those team names?** Unanswered by the
    camp's own public account.
-3. [Critical] **When did the Lumberman and Voyageur Games begin at Camp Kitchikewana and RKY, and in
+4. [Critical] **When did the Lumberman and Voyageur Games begin at Camp Kitchikewana and RKY, and in
    which direction did the tradition travel?** Ten other Ontario YMCA overnight camps have been checked
    and none runs it, so the route was specific rather than systemic — look for a person who moved
    between the four camps. Kitchikewana (founded 1919) predates the Pine Crest Games
    (1940) by twenty-one years, so the assumption that Pine Crest originated the competition is now
    untested. Read Know History's *Rooted: Beausoleil Island*, chapter 5.
-4. [Important] **Are there Canadian YMCA camps beyond the seven listed here?** This list grew by one the
+5. [Important] **Are there Canadian YMCA camps beyond the seven listed here?** This list grew by one the
    day after it was written, on the operator's recognition rather than on any search result.
-5. [Important] **What is the actual number of YMCA camps in Canada, now and over time?** The 1989 figure
+6. [Important] **What is the actual number of YMCA camps in Canada, now and over time?** The 1989 figure
    of twenty-nine is solid; 2026 is a floor of six overnight camps assembled from separate association
    websites. YMCA Canada would have the real series.
-6. [Nice-to-have] What became of the nine camps on Symington's 1953 list — Naskapie, Pascobac, Wapomeo,
+7. [Nice-to-have] What became of the nine camps on Symington's 1953 list — Naskapie, Pascobac, Wapomeo,
    Barachois, Magaguadavic, Y's Acres, Sherbrooke, Holland Cove?
-7. [Nice-to-have] Is there a record of what Kanawana did at its hour of the 1989 relay campfire, or of
+8. [Nice-to-have] Is there a record of what Kanawana did at its hour of the 1989 relay campfire, or of
    the time capsule buried at the CCA congress that October?
 
 ## Related Articles
@@ -358,5 +384,8 @@ decline should be tested against the YMCA's own records before it is asserted.
 19. YMCA of Southwestern Ontario, Camp Queen Elizabeth [src_ymcaswo_cqe]. See [f_4782], [f_4783].
 20. YMCA of Three Rivers, Camp Waabanaki and its Voyageur Extended Tripping Program [src_ymca_three_rivers_wabanaki]. See [f_4784].
 21. Ontario YMCA overnight camps surveyed under p_409: YMCA of Three Rivers, YMCA Hamilton-Burlington-Brantford, YMCA of Southwestern Ontario, YMCA of Northeastern Ontario, YMCA of the National Capital Region, YMCA of Owen Sound Grey Bruce [src_ymca_ontario_camp_enumeration]. See [f_4788], [f_4789], [f_4790].
-22. YMCA of Montreal annual reports for 1947, 1948, 1949 and 1950 [src_cache_sgw_ymca_annual_report_1894_1895] — Locke's branch career, and the earliest cached mention of the tradition. See [f_4793], [f_4794], [f_4796].
+22. YMCA of Montreal annual reports for 1947, 1948, 1949 and 1950 [src_cache_sgw_ymca_annual_report_1894_1895] — Locke's branch career, and the earliest cached mention of the tradition. See [f_4793], [f_4794].
 23. "Kamp Kanawana History", presented at a training course, 6 June 1951 [src_ia_kanawana_history_1951]. Lists Locke's innovations and never mentions the L&V tradition. See [f_4795].
+24. Photographs of the Kanawana Annual Trophy for Lumbermen Voyageur Games, supplied by the operator 2026-08-14 [src_photo_lv_annual_trophy]. A perpetual trophy whose shields run from 47 to 25; the first reads 1947, Voyageurs. Transcribed in full at [[traditions/lv-games|The L&V Games]]. See [f_1996], [f_2000], [f_2001].
+25. *Kanawana… A Place to Grow*, YMCA of Montreal report, 1988, "Programme Highlights" [src_ia_kanawana_place_to_grow_1988]. States the 1947 creation of the Lumbermen and Voyageurs competition outright. See [f_4798].
+26. Operator account (Matt Aronson), 2026-08-14: the 2020 Games were contested remotely and the 2021 Games were not held [src_oral_aronson_lv_2020_remote]; and the four shields illegible in the photographs, supplied directly [src_oral_aronson_lv_trophy_gaps_2026]. See [f_2007], [f_2010].
