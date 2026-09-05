@@ -1,6 +1,6 @@
 # Kanawana Myths and Legends
 
-*Status: E1-reviewed | Sources: 25*
+*Status: E1-reviewed | Sources: 26*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -62,6 +62,20 @@ Internet Archive holds 38 digitized issues of *The Green Triangle*, spanning 193
 **A whole-corpus null result, 2026-08-14.** The 634 digitized text items of the Concordia YMCA of Montreal fonds — roughly 870 KB of Kanawana-specific material spanning 1921 to 1993, including every surviving season report, newsletter, brochure, map and broadcast transcript — were searched for "Chopsy". **Zero hits.** A search for "Chops" returned one nineteenth-century usage unrelated to camp. Searches for *ghost*, *haunt*, *legend*, *myth* and *spirit* across every Kanawana file return the Haunted House material below and nothing else. This is a far stronger negative than the earlier 38-issue read: it is the whole digitized documentary record of the camp, and Chopsy is not in it.
 
 That does not make the story late or invented, and one finding below cuts the other way. A full read of all 38 digitized *Green Triangle* issues confirms the Haunted House tradition above (1933-1940) is genuine ghost-story-adjacent content (see Revision History), though none of the 38 issues mention "Chopsy" or "Cropsy" by name, and none contain a specific ghost-story *narrative* beyond the generic Haunted House framing. No Kanawana-specific ghost story with a full narrative (comparable to Chopsy, below) has been found in the *Gas Bag* (1923), camp brochures, or online alumni accounts. This is consistent with the nature of camp ghost stories, which are overwhelmingly transmitted as oral tradition. A 2019 Slate article noted that scary stories at summer camps have been declining, with about a third of camps prohibiting them, though the tradition remains strong at camps that maintain it.
+
+### How camp legends were made, said by the people who made them
+
+This article has had to reason about the origin of Kanawana's own lore without a single contemporary statement of how such lore was produced. One now exists, from the neighbouring end of the same movement, and it is unusually blunt.
+
+In the winter of 1987 the national magazine interviewed **Barbara and John Gilchrist**, who had taken over **Glen Bernard Camp** from **Mary S. Edgar** in 1956. Asked where the camp's Indigenous-themed programme came from, John Gilchrist traced it to the Mohawk poet Pauline Johnson, who had performed at Sundridge and stayed in the Edgar family home when Mary was a child, and then said this:^26
+
+> "Pauline Johnson's type of writing inspired Mary to write legends, **Indian legends of her own, built around Lake Bernard and the tribes of Glen Bernard which, in fact, were make-believe but she made them sound the real thing in her story.**"
+
+And of the storytelling bench in her cabin, the Wigwam, where campers came to ask for stories: "**How many of them were her own fertile imagination or she had read about was hard to say.**"
+
+That is a camp's own successors describing the manufacture of its folklore, in print, naming both the method — legends written for the camp, sited on its own lake, attached to its own invented tribes — and the effect intended: that they "sound the real thing." The speaker is not a critic; he is the nephew who inherited the camp and is paying tribute.
+
+**Nothing here concerns Kanawana, and nothing about Chopsy follows from it.** What it changes is the default. An undated camp legend of this period, with no documentary trace before living memory, need not be either a genuine local survival or a wandering variant of a regional archetype: **deliberate authorship dressed as tradition is a documented practice of the era, by a named and celebrated practitioner, at a camp of the same generation.** That is a third possibility to hold open alongside the two this article already weighs — and it is the one that would leave exactly the evidentiary trace Chopsy leaves, which is none.
 
 ### The Cropsey Legend: The "Maniac in the Woods" Archetype
 
@@ -196,6 +210,7 @@ These Quebec folk traditions are strong candidates for Kanawana campfire storyte
 23. *Kamp Kanawana Director's Report 1987* (Internet Archive), documenting "the cave" as the hike-and-trip equipment store [src_ia_kanawana_report_1987]; and the whole-corpus null search across the digitized YMCA of Montreal fonds [src_ia_ymca_montreal_fonds_collection].
 24. *Canadian Camping* magazine: David Hartry, "Snark Hunting," Vol. 24 No. 1 (Fall 1971); Bob Attfield (Camp Ponacka), "Camp Hoax Costs Director $25,000 in Legal Damages," Vol. 24 No. 3 (Spring 1972), pp. 18-19; Walter Greenway (Camp Ponacka), "Pre-Camp Training, The Critical Period," Vol. 24 No. 3 (Spring 1972). Read in full during the word-for-word pass over the cached 1949-1988 run [src_ia_canadian_camping_collection].
 25. Mary L. Northway (Brora Centre, Toronto), "Camp Counsellors Should Be Camp Counsellors," *Canadian Camping* Vol. 25 No. 4 (Summer 1973), pp. 18-19. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 99).
+26. "Personality Profile — Mary S. Edgar," interview with Barbara and John Gilchrist, *Canadian Camping Magazine* Vol. 38 No. 3 (Winter 1987), pp. 9-15 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 160). Movement context, not a Kanawana document.
 
 ## Research Notes
 

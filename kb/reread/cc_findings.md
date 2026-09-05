@@ -28075,3 +28075,246 @@ encircling "Gramp Capilano," a 700-year-old fir. Books on the Christmas 10% disc
 *Photography of Natural Things* (Freeman Patterson, Van Nostrand Reinhold, 1982), *Magic Ring* (ACA,
 1985), *Clouds on the Clothesline* (Camp Tawingo Publications, 1981) and *The Earth Speaks*
 (Acclimatization Experiences Institute, 1983).
+
+## 160 — Vol. 38 No. 3, Winter 1987 — ★★★★★ QUEBEC CAMPING "WAS BORN IN 1938" — A FOURTH DATE, FROM THE NATIONAL VICE-PRESIDENT
+
+Thirty-two pages. Printed contents page checked line by line against this block; every item read: the
+President's Message in both languages; "Got A Minute?" (extracts from the Board of Management minutes);
+"Camping From Coast To Coast" (Atlantic, New Brunswick, **Quebec**, Ontario, Alberta); "What's In A Name?"
+(Camp Ectus); Committee Notes (Immigration, French Language, Archives); **"A Tribute to the Oldest Camp
+in Canada — Big Cove YMCA Camp"**; the **Personality Profile of Mary S. Edgar**, interviewing Barbara and
+John Gilchrist; "Between the Covers"; "Under Open Skies," seven pages given over to Edgar's own verse
+and prose; the Camp Oconto dining-hall fire (two accounts); "Camp Cheboygan"; "Going Up The Wall";
+the 1987 O.C.A. Conference photo page; the Bubby Nash award; "A Program Parade"; "Canada Celebrates
+100 Years of Wildlife Conservation"; "Some Thoughts for the Day"; the Second International Camping
+Congress programme listing; the Northern Illinois University advertisement; the cover key; the
+provincial address list and subscription notice. **Kanawana is not named.**
+
+**★★★★★ "THE ORGANIZED CAMPING MOVEMENT IN QUEBEC WAS BORN IN 1938."** From the Quebec regional column,
+signed **Ken Willis, C.C.A./A.C.C. Vice-President (Quebec Region)**:
+
+> "**The organized camping movement in Quebec was born in 1938.** Tony Shorgun, who has been involved in
+> camping during many of the intervening years, is already at work laying plans for the **50th
+> Anniversary of this birth** which, obviously, will be held next year."
+
+**This is a fourth date for the origin of Kanawana's own provincial association, and it comes from the
+Quebec seat on the national board.** The wiki already holds three: **1937**, from the archival holdings
+and independently corroborated by Alta Kahn's 1958 "coming-of-age party" (a twenty-first birthday);
+**January 1961**, which the ACQ itself used in 1986 when it celebrated its twenty-fifth (issue 158); and
+the founding of the French section in **1958**. Willis adds **1938**, prospectively, with a fiftieth
+anniversary being planned around it for 1988 — which means the date was not a slip in a column but the
+premise of an event.
+
+**And it is the same year Adele Ebbs gave for the national association.** At issue 158 Ebbs said the CCA
+was founded in 1938 *because* her father helped F. M. Van Wagner form the Quebec association in 1937.
+Willis now dates Quebec camping to 1938. **The two recollections cannot both be right in the way each
+was offered, and between them they show that the 1937/1938 boundary was genuinely unclear to the people
+who were there.** Recorded in `c_029` and written into `canadian-camping-movement.md`. **Actionable:
+if a 50th anniversary of Quebec camping was held in 1988, it produced a programme, a press notice or a
+commemorative publication, and Tony Shorgun — a name new to this project — assembled it. That document
+would be a history of Quebec camping written by a participant, and Kanawana would be in it.** Added to
+`p_319`.
+
+**★★★★ THE OLDEST CAMP IN CANADA SAYS 1891 — from its own director.** Kelley Byrne, President of the
+Camping Association of Nova Scotia **and Director of Big Cove YMCA Camp**, writes the issue's tribute
+under the heading "A TRIBUTE TO THE OLDEST CAMP IN CANADA!": "**The Maritime YMCA, based in Truro, held
+the first Maritime Boys' Camp in 1891.** This Camp quickly became an annual event, and the area of Big
+Cove in Pictou County became the gathering grounds for large numbers of boys and men." The French
+summary is flatter still: "Big Cove Camp en Nouvelle Ecosse était établi en 1891 par le Y.M.C.A. de
+Pictou County."
+
+**So the date for Canada's oldest camp now has three values — 1889, 1890 and 1891 — and the newest comes
+from the best-placed source yet.** This wiki has carried 1889 from Big Cove's encyclopaedic entry and
+recorded Jack Pearse's 1890, spoken to the Nova Scotia association on its own ground in 1979. Byrne is
+the camp's own director and the province's association president, writing a commemorative history in the
+national magazine. **None of the three is preferred here, and Kanawana's position as Canada's
+second-oldest camp is unaffected by any of them** — 1894 follows all three. The discrepancy note in
+`canadian-camping-movement.md` has been updated from two dates to three.
+
+**What else the tribute fixes about Big Cove**, all of it new to this project: floorless bell tents
+pitched together on the grassy hills overlooking **Merigomish Harbour**; the site "officially became
+known as Big Cove YMCA Camp" and passed to the **Halifax YMCA about 1905**; **girls came in 1939**, and the
+first building — a dining hall — was put up for them; about **100 boys per session**, with "particular
+emphasis… on providing spaces for underprivileged youths"; financial and leadership support from the
+**Halifax Y's Men's Club and New Glasgow Gyro Club**; a **ten-day Girls Camp in 1961** that became regular
+sessions; **closed in 1976** for want of repairs and **reopened in 1980**. Two items are worth setting
+beside Kanawana specifically: the camp's traditional pageants include "**Indian Ceremonial Night**",
+described as still running in 1987, and "**Our Voyageur program dates back to this time** [the late
+1940s], challenging older youth to develop expert outtripping, canoeing, axemanship and woodcraft
+skills." **A YMCA camp at the other end of the country adopting a Voyageur programme in the late 1940s
+is the same decade in which Kanawana took up the Lumbermen-and-Voyageurs competition (1947).** Nothing
+connects the two beyond the YMCA; the coincidence of date and idiom is recorded, not explained.
+
+**★★★★ HOW A CAMP LEGEND WAS MADE, said plainly by the people who inherited the camp.** The Mary S.
+Edgar profile contains the most useful sentence this read has found on the manufacture of camp folklore.
+John Gilchrist, on the influence of Pauline Johnson: "Pauline Johnson's type of writing inspired Mary to
+write legends, **Indian legends of her own, built around Lake Bernard and the tribes of Glen Bernard
+which, in fact, were make-believe but she made them sound the real thing in her story.**" And of the
+storytelling bench in her cabin: "**How many of them were her own fertile imagination or she had read
+about was hard to say.**"
+
+**This is a camp legend's own manufacturers describing the process, in print, and naming the effect they
+were after.** It bears directly on Kanawana's Chopsy legend and on `traditions/myths-and-legends.md`,
+which has had to reason about the origins of camp lore without any contemporary statement of how such
+lore was made. It does not tell us anything about Chopsy. What it does is remove a step from the
+argument: the default assumption for an undated camp legend of this period should be deliberate
+authorship dressed as tradition, because that is what a documented practitioner says she was doing.
+**Written into `traditions/myths-and-legends.md`.**
+
+**★★★ A CAMP THAT ASKED AN INDIGENOUS PERSON FOR THE NAME — 1955.** Barbara Gilchrist, describing the
+handover of the directorship at the last Council Ring of the summer of 1955: Mary Edgar "**had been
+corresponding with Dawendini, the daughter of the Chief of the Mohawks in Brantford, and received the
+recommendation that Yehjenhiosta meant 'she who takes over someone else's job or she who keeps the fire
+burning brightly'.**" Edgar's own council-ring name had been **Ogimaqua**, given as Ojibwa for "Friend of
+Children"; Gilchrist took Yehjenhiosta and used it "twice each Saturday night from our first year 1956
+through to our last year."
+
+Set beside Ted Yard's refusal of an Indigenous name at issue 159 and Jack Eastaugh's 1973 defence of
+Indian Lore already in `site/council-ring.md`, this is a third position: **consulting a named Indigenous
+person about the meaning of a name before taking it.** It is also, in the same interview, adjacent to
+the make-believe legends above and to Edgar learning "the customs of the Indians… and the peace pipe…
+and initiations and challenges" on "her trips west" and introducing them into the Council Ring — a
+fourth transmission channel alongside the three `site/indigenous-names-and-land.md` already records from
+Edgar's own account. **Consultation and invention in the same programme, from the same person.** Written
+into `site/indigenous-names-and-land.md`.
+
+**The Glen Bernard Council Ring, in operating detail**, for comparison with Kanawana's: **two rings on the
+same night** — juniors at seven in a hollow, seniors at eight in the natural glen — **every Saturday for
+eight weeks**; senior campers **elected as Chiefs** by their fellow campers, "given reference books to refer
+to, to learn of the various tribes in North America," each choosing a tribe name, colour scheme, tribal
+song and yell in the first day or two of camp; an initiation Council Ring, then weekly ones, with "the
+whole Camp program built around tribal events" and a winning tribe announced at the end of the summer.
+The opening liturgy was John Oxenham's "**Kneel always when you light a fire, kneel reverently and
+grateful be**," recited from memory. That is Kanawana's own structure — elected chiefs, named tribes,
+season-long inter-tribal competition — in a girls' private camp in Ontario, and the two are not known to
+be connected.
+
+**★★★ QUEBEC GETS ITS OWN VICE-PRESIDENCY.** The masthead has changed since the autumn. The three regional
+vice-presidencies (Eastern, Western, Central) are now **four: Eastern (Ian Fowler), Western (Jan James),
+Quebec (Ken Willis) and Ontario (Sally Moore, newly appointed and welcomed in the President's message)**.
+**Quebec is no longer half of a "central" region shared with Ontario; it is a named seat on the national
+executive in its own right.** Against the drift this read has traced from 1983 onward — Quebec absent
+from Bolton, no Quebec name on the Washington congress faculty, the national seat interrupted for months
+in 1985 — this is the opposite motion, and it is worth recording as such. Written into
+`canadian-camping-movement.md`.
+
+**★★★ THE ACQ's POSITION AT THE START OF 1987, from the same column.** "**The A.C.Q. has, over the past
+years, received very significant funding from the Provincial Government. The degree of this funding has
+been reduced somewhat over the past couple of years and the A.C.Q. now expects there will be significant
+cut backs due to the financial condition of the Government.**" The association was moving to
+self-financing, and Willis warns that members "will be expected to contribute much more of their time…
+or they will have to dig further into their pockets." **Membership is given as "holding well at about
+110"** — against 117 in 1983 and 129 in 1982 (issues 147 and 151) — "with a few being dropped each year
+because they do not meet standards and a few new ones being added," and the board "each year agonizes
+over a few camps which seem careless about the paperwork involved in meeting standards." So the
+provincial body Kanawana belonged to was, at the start of 1987, losing government money on the same
+curve as the national one and shedding a handful of member camps a year to the standards it enforced.
+Written into `canadian-camping-movement.md`.
+
+**★★ THE 1963 NATIONAL CONFERENCE, dated.** The cover photograph is captioned "taken at a Canadian
+Camping Association Conference at **Banff, Alberta in February, 1963**." This wiki already records that
+the affiliation-formula question was first raised at the CCA's 1963 annual meeting at Banff; the caption
+adds the **month**. It is also worth noting against Jocelyn Palm's 1985 list of national conferences
+("1972, 1973, 1975 and 1978" before the 1983 Congress) — the association plainly held national gatherings
+before 1972, and the Edgar interview independently mentions "**a C.C.A. Conference at Geneva Park**" in
+1973 at which Edgar gave the keynote at 83. Palm's list should be read as post-reorganisation
+conferences, not as the complete series.
+
+**The cover key names eleven office-holders** and is a small prosopography of the movement in 1963:
+**Dr. J. Harry Ebbs** (first President, Society of Camp Directors); **Adele Ebbs** (President OCA, President
+Society of Camp Directors, Chair CCA Archives Committee); **June Labbett** (President Soc. Camp Dirs.,
+Chair OCA Education Cte.); **May Brown** (President CCA, President BCCA); **Cliff Labbett** (President, VP and
+Treasurer CCA; President and Treasurer OCA; President Soc. Camp Dirs.); **John Gilchrist** (VP and
+Treasurer OCA, President Soc. Camp Dirs.); **Barb Gilchrist** (President OCA, CCA board, Chair OCA Archives
+Cte.); **Lorne Brown** (President BCCA, first President of the BC Outdoor Educators, Chair CCA Nature Lore
+Cte.).
+
+**★★ MARY S. EDGAR — what the profile adds to the Oolahwan article.** Her route into camping is stated
+outright: "**it was her background in the YWCA when she was introduced to camping at YWCA Camp Oolahwan
+in Quebec. That was her first taste of Camping**" — and she came to it already trained, having "**took
+training for girls' work in the Y in New York**," not as a camper. The Quebec YWCA camp that visited
+Kanawana repeatedly through the 1940s is therefore where the first editor of *Canadian Camping* and the
+Honorary President of the CCA learned the work. Other details new here: her father was a Sundridge
+general merchant who supplied the lumber mills and was eventually **MPP for Parry Sound District**, and
+bought the lumber for the first cabins; all four Edgar daughters were educated at **Havergal College**;
+Glen Bernard opened in 1922 with "about 30" campers ("under 40… but over 30") — against the **38** this
+wiki records — and more than doubled in year two; the property, an abandoned farm, grew to **590 acres**;
+**Mary Northway was one of her earliest campers**; the fireplaces were built by **Angus Buchanan**, a
+Sundridge stone mason; the New Lodge went up in **1932** (builder **Hugo Grimm**) and the new Dining Room in
+**1966**, with two back-to-back fireplaces Edgar herself donated and a bronze plaque carrying her motto
+"**The best of each for the good of all**." She handed the camp to the Gilchrists at the last Council Ring
+of **1955**, they ran it from **1956**, and **Jocelyn Palm** — who "came recommended from **Dais Gass'
+Memphremagog**," a Quebec camp, and whose predecessor as CCA president Gass had been — succeeded them
+about 1977. Edgar's world tour with her parents was in **1921**; her Sundridge park at **High Rock**, five and
+a half acres bought with stock-market money and landscaped at her expense, was her **1967 Centennial
+project**, given to the town of Sundridge and Strong Township; and she received the **Centennial Medal on
+9 March 1968 at the Ontario Camping Association's closing banquet, the citation read by Dr. Mary L.
+Northway**.
+
+**Two documented disagreements to record, not resolve.** (1) This issue dates ***Under Open Skies* to
+1955** (Clarke, Irwin & Company) in the "Under Open Skies" feature's own attribution line; the wiki
+records **1956** from her fonds description. (2) The same feature calls her "author of **three** delightful,
+inspirational books," and the profile headnote lists three; the wiki records **four**, adding *The
+Christmas Wreath of Verse* (1967). Both are one-item differences on a bibliography, and both are noted
+in `camp-oolahwan.md` rather than decided. New and not previously recorded: the music for "**God Who
+Touchest Earth With Beauty**" was written by **Magistrate James Edmund Jones**, founder of the Aura-Lee
+Boys' Club, whose cottage was on Lake Bernard; the hymn was translated into many languages, and in
+Japanese the pine had to be replaced by a straight tree. A second Edgar hymn is printed with music by
+**Jack Pearse** (© 1979 Jack Pearse Limited), "God of the night, the stars, the skies."
+
+**★★ THE OCA's FOUNDING SIX, CONFIRMED FROM A SECOND WITNESS — and correctly attached.** John Gilchrist,
+unprompted: "she was in with the founding fathers… I should mention the six of them. There was **Taylor
+Statten, Ferna Halliday, A. L. Cochrane, Mary Hamilton, Ernie Chapman**… and **Mary S. Edgar**. They got
+together and decided they wanted to form a Camping Association as a vehicle where they could exchange
+ideas and learn things from one another." The interviewer supplies: "**That was the Ontario Camping
+Association. Taylor Statten was the first President, in 1933**," and Edgar the second, in 1939.
+
+**That is the same six Adele Ebbs named at issue 158, from an entirely independent witness — and it
+settles what they founded.** Ebbs described the six as a social supper club of private directors whose
+secretary she became; Gilchrist says the same six formed **the Ontario association** in 1933. **So the
+"founding circle" this read has been tracking is the OCA's, not the CCA's**, which removes one source of
+confusion from `c_029`: the six of the early 1930s are the provincial founders, and whatever happened
+nationally in 1936, 1938 or 1947 is a separate act. Recorded in `c_029`.
+
+**★ THE IMMIGRATION PROTOCOL, and a medical examination.** Barry Lowes's committee report: a new
+requirement of "**a Medical Examination for all foreign camp counsellors**" disrupted the protocol in 1986;
+a personal meeting with **Jake Epp, Minister of Health and Welfare, in early May** got it amended, and a
+November meeting in Ottawa simplified it further. "**Hiring foreign camp counsellors is a privilege
+granted, not a right of Canadian camps.**" The liaison at Employment and Immigration is named as **Rick
+Morrison**. Recorded because Kanawana's staffing records for the 1980s are thin and this is the national
+framework any foreign hire went through.
+
+**★ ARCHIVES, and a standing request.** Bruno Morawetz reports that the provincial associations were asked
+to send newsletters, minutes and notices to Trent "in order that they would constitute a permanent
+record of camping in Canada during 1986," and that the archivist **Mrs. Bernadine Dodge** "has received
+several of the brown envelopes commonly known as the '**Brown Bag**'." He adds that "**some Provincial
+Associations have their own archives** where they collect printed material about their member camps and it
+is hoped that before long all Provincial Associations will establish their own archives committees" —
+which, with the ACQ's 1986 archive reclassification recorded at issue 159, is two independent reasons to
+ask the Quebec association what it holds rather than only Trent. The committee's own framing is worth
+keeping: "**It has always been difficult to make people aware that the events of today will form an
+interesting piece of history in two or three decades.**"
+
+**★ SMALLER THINGS, recorded and not carried into articles.** The **Curriculum for Camp Directors** was
+published; the Professional Development Committee is named as **Dorothy Walter (chair), Stan Talesnick,
+Marjorie Booth and John Wilkinson**, with Fitness Canada thanked for financial support — the same body
+whose management funding was being cut to zero by 1988 was paying for this. **Over one hundred Canadians**
+were expected at the Washington congress, every province represented, with a reception at the **Canadian
+Embassy**; the printed programme lists the Canadian sessions, and **no Quebec presenter appears among the
+nineteen**. Janet Adamson planned visits to British Columbia in March, Newfoundland in April and
+**Quebec in May 1987**. The French Language Committee would present "**a first copy of the language policies
+of the CCA/ACC**" at the January meeting and send a needs questionnaire to identified French-language
+camps early in 1987; **INCEF 87**, the second edition, was in production. The CCA was looking for a
+Promotions Chairman and hoped to publish a revised **Woodsmanship Leader's Guide** and a revised statistics
+form. **Jan James visited three centres in four days in the Yukon and Northwest Territories and made 17
+speeches.** **Camp Oconto's dining hall burned at about 5:45 a.m. on 24 June 1986**, three days before camp
+opened — the Wilsons' account of feeding 300 people from rented ATCO trailers, with the Army supplying
+stoves, tables and chairs, is the most detailed camp-crisis document in the run, and Lisa Wilson is the
+daughter of **June and Cliff Labbett**, both on the 1963 cover. **Camp Cheboygan**, on the south shore of
+Skeleton Lake, Muskoka, lost its lodge to fire on the evening of **25 August 1937**; the Archives Committee
+was appealing for information about it and its director **Blyth Thomas**. The Bubby Nash award deadline was
+extended to 31 May 1987. The Ontario association joined the **Parks and Recreation Federation of Ontario**,
+and liability insurance is named as Ontario's live issue. Ontario's president is **Fred Okada of Bolton
+Camp**; **Liz Greenway** is OCA vice-president and of **YWCA Camp Tapawingo**; **David Sands** of Illahee
+Northwoods Camp is the CCA's 1987 Congress liaison. Subscription terms are unchanged from issue 159, and
+the copyright line still reads 1986.
