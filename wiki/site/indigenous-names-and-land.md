@@ -1,6 +1,6 @@
 # Indigenous Place Names and Land History
 
-*Status: R3-verified | Sources: 30*
+*Status: R3-verified | Sources: 31*
 *Last Updated: 2026-09-05*
 
 ## Overview
@@ -77,6 +77,25 @@ The second is a consultation, and it is the only one of its kind this project ha
 Northway's aside is worth keeping as well, because it is the only retrospective judgement by a *camper* this read has found: "**I had never seen an Indian and far less knew anything of our historical dealings or misdealings with them.**" She said it in 1968, of 1922, to a room full of camp directors, and it was printed again in 1987 without comment.
 
 **And the ceremony itself has a named author.** In Spring 1973 Jack Eastaugh of the Taylor Statten Camps stated the Council Ring's origin outright: the ceremony was "devised by **Ernest Thompson Seton** in the years following the first great war and refined by **Taylor Statten** who taught the ceremonies to camp leaders in the 20's."^16 Kanawana's own Council Ring script dates from c. 1925-1927 and its totem pole from 1927 — the years Statten was teaching it. Eastaugh also translates the chant that closes Kanawana's script: "Wakonda dhe dhu" is rendered "Father a needy one stands before thee; I who sing am he."^16 The full argument and the comparison it invites are set out at [[site/council-ring|The Council Ring]].
+
+**Named, and now traced to the page.** Seton's *Book of Woodcraft and Indian Lore* was read in full on
+2026-09-05, and the chant Kanawana closed on turns out to have a printed pedigree and a credit line. At
+page 145 Seton prints "THE OMAHA TRIBAL PRAYER, harmonized by Prof. J. C. Fillmore," the words
+"*Wa-kon-da dhe-dhu Wa-pa-dhin a-ton-he*," and the acknowledgement "(By permission from **Alice C.
+Fletcher's** *Indian Story and Song*)." So what a Laurentian boys' camp sang at the close of its council
+ring by 1927 was **an Omaha prayer, taken down by an American ethnographer in the 1890s, harmonised for
+piano by a musicologist, reprinted by a British-born naturalist, and taught to Quebec camp leaders by a
+Toronto YMCA man** — five hands between the people whose prayer it was and the boys singing it, and not
+one of them Omaha [f_4855].
+
+**And the rite was a composite before it ever reached Canada.** Seton's own ceremony mixes Lakota
+address and pipe invocations — *Neetah Kola nayhoon-po*, *Maka Ina*, *Wazi-yata*, *Noon-way* — with that
+Omaha song from a different nation entirely; and the "Departure of Hiawatha" that Eastaugh lists among
+the standard parts is neither, but Longfellow, an American poem of 1855 [f_4857]. This matters for how
+the practice is described here. It was not a borrowing from one people, badly done. It was an assembly
+of pieces from several peoples and one poet, performed as though it were a single living tradition, and
+the assembling was done in print, deliberately, by a named author whose book the association was still
+reprinting in 1978.
 
 Eastaugh's article is worth reading beside Edgar's talk, because it is the same tradition defending itself twenty months later and conceding more. He compares camp Indian Lore to the minstrel show in order to deny the parallel, then grants the substance of the charge: "Indian Lore in the summer camp is guilty of ignoring cultural facts … **We have stolen the tepee from the people of the plains, the grotesque and marvellously hideous masks of the Iroquois, the birch bark crafts of the Hurons and the rich and colourful designs of the West Coast Indians.**" His remedy is attribution rather than discontinuation. He also records that "the Y.M.C.A. camps in Eastern and Western Canada for years have welcomed the participation of, and appreciated the contribution of local Indians in their programs," naming Golden Lake, Couchiching, Georgian Bay, Brantford and Moosonee — which, for a YMCA camp, is a claim about Kanawana's own movement that no Kanawana source has yet confirmed or denied.^16
 
@@ -227,6 +246,7 @@ The Kanawana site sits in the municipality of Saint-Sauveur, in the Laurentian h
 28. Mary Northway, "Blue Lake and Rocky Shore," her Ontario Camping Association banquet speech of 1968, reprinted in *Canadian Camping Magazine* Vol. 39 No. 2 (Fall 1987), p. 17 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 163).
 29. "An Indian Version of the Twenty-Third Psalm," with editor's note, *Canadian Camping* Vol. 25 No. 1 (Fall 1972) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (`kb/reread/cc_findings.md`, issue 96). See [f_3667].
 30. Claude Cousineau, "Have a 'Wigwas Teiman' in Your Camp," *Canadian Camping* Vol. 25 No. 1 (Fall 1972), printed in English and French [src_ia_canadian_camping_collection]. Found by the re-read (issue 96). See [f_3666].
+31. Ernest Thompson Seton, *The Book of Woodcraft and Indian Lore* (Doubleday, Page, 1912) [src_seton_book_of_woodcraft_1912]. The Omaha Tribal Prayer and its Fletcher credit at p. 145; the Peace Pipe Ceremony at pp. 148-149. Read in full 2026-09-05. See [f_4855], [f_4857].
 
 ## Research Notes
 

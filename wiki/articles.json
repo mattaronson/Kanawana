@@ -407,9 +407,15 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 125: new section on a third Canadian camp with the Wakonda invocation -- Blackstock had Fred Hagan carve 'May Wakonda whose messenger is the Thunderbird, smile upon His children and send down the sacred fire from Heaven' over the lodge fireplace at Camp Mazinaw, and had been waterfront director at Camp Ahmek in 1930-31, which is the Seton-Statten transmission route Eastaugh describes. Sources 13 -> 14."
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0031",
         "f_0038",
@@ -427,14 +433,19 @@
         "f_1563",
         "f_1925",
         "f_1926",
-        "f_1927"
+        "f_1927",
+        "f_4854",
+        "f_4855",
+        "f_4856",
+        "f_4857"
       ],
       "sources_cited": [
+        "src_ia_canadian_camping_collection",
         "src_ia_kanawana_place_to_grow_1988",
         "src_ia_kanawana_report_1987",
         "src_ia_ymca_montreal_annual_reports_collection",
         "src_ia_ymca_montreal_fonds_collection",
-        "src_ia_canadian_camping_collection"
+        "src_seton_book_of_woodcraft_1912"
       ],
       "open_questions": 0,
       "cross_links": [
@@ -446,7 +457,7 @@
         "lv-games"
       ],
       "file_id": "13YtmB0kQvK5oBY-Kz_88vIgztYAH5x2e",
-      "word_count": 4869,
+      "word_count": 5527,
       "notes": "v4.75: 2020 Opening Campfire confirmed (Facebook Live). Tamaracouta totem pole theft noted.",
       "tags": {
         "era": [
@@ -7091,6 +7102,12 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 136 (Vol. 33 No. 2, April 1981): extended the Seton section with the dated trajectory of the association's Indigenous-themed material -- Seton's composite creed unattributed in February 1978, Chief Dan George's 'And My Heart Soars' in May 1979, and a Sioux prayer in translation in April 1981. The framework of borrowing is unchanged; the sources it draws on are not. Sources 19 -> 20."
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 1,
@@ -7109,10 +7126,13 @@
         "f_1527",
         "f_1557",
         "f_1558",
-        "f_1559"
+        "f_1559",
+        "f_4855",
+        "f_4857"
       ],
       "sources_cited": [
-        "src_ia_canadian_camping_collection"
+        "src_ia_canadian_camping_collection",
+        "src_seton_book_of_woodcraft_1912"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -7125,7 +7145,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 6910,
+      "word_count": 7215,
       "tags": {
         "era": [],
         "region": "not-applicable",

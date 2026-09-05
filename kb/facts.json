@@ -1,8 +1,8 @@
 {
-  "version": "6.32",
-  "kb_version": "6.32",
+  "version": "6.33",
+  "kb_version": "6.33",
   "migrated_from": "3.3",
-  "fact_count": 4815,
+  "fact_count": 4819,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -86323,6 +86323,85 @@
       "date_ref": "1962-12",
       "conflicts_with": [],
       "added_version": "6.32",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4854",
+      "claim": "SETON'S PEACE PIPE CEREMONY, THE SOURCE TEXT, READ IN FULL (The Book of Woodcraft and Indian Lore, 1912, pp. 148-149). The Medicine Man, standing before the ready-laid fire, opens Council: \"Neetah Kola nayhoon-po omnicheeyay nee-chopt -- Hear me, my friends, we are about to hold a council. Now light we the Council Fire after the manner of the Forest children, not in the way of the white man, but even as Wakonda himself doth light his fire -- by the rubbing together of two trees in the storm-wind, so cometh forth the sacred fire from the wood of the forest.\" He uses the drill; the flame bursts forth. \"Now know we that WAKONDA, WHOSE DWELLING IS ABOVE THE THUNDER-BIRD, WHOSE MESSENGER IS THE THUNDER-BIRD, HATH BEEN PLEASED TO SMILE ON HIS CHILDREN, HATH SENT DOWN THE SACRED FIRE. By this we know he will be present at our Council, that his wisdom will be with us. This is a Council of Peace, so light we first the Pipe of Peace.\" The pipe is then offered to Wakonda, to Maka Ina (Mother Earth) and to each of the four winds -- Weeyo-peata the Sunset Wind, Wazi-yata the Winter Wind, Weeyo-hinyan-pata the Sunrise Wind, Okaga the Hot Wind -- with the assembly answering \"Noon-way\" (Amen) to each.",
+      "sources": [
+        "src_seton_book_of_woodcraft_1912"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Ernest Thompson Seton",
+        "Council Ring",
+        "Wakonda"
+      ],
+      "date_ref": "1912",
+      "conflicts_with": [],
+      "added_version": "6.33",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4855",
+      "claim": "THE CHANT KANAWANA SANG IS AN OMAHA PRAYER COLLECTED BY ALICE FLETCHER, AND SETON'S BOOK SAYS SO ON THE PAGE. The Book of Woodcraft prints \"THE OMAHA TRIBAL PRAYER, harmonized by Prof. J. C. Fillmore\" at p. 145, with the words \"Wa-kon-da dhe-dhu Wa-pa-dhin a-ton-he\", the credit line \"(By permission from Alice C. Fletcher's 'Indian Story and Song')\", and the translation \"Father a needy one stands before thee; I that sing am he.\" Kanawana's c.1925-27 script closes \"Wakonda, dhe-dhu, wapdhin atonhe\" (f_0690) and Jack Eastaugh remembered the Taylor Statten camps closing on \"Wakonda dhe dhu\" with the translation \"I WHO sing am he\" (f_3710) -- a one-word drift from Seton's printed \"I THAT sing am he\". SO THE LINE OF DESCENT IS NOW DOCUMENTED END TO END: an Omaha prayer, recorded by the ethnographer Alice C. Fletcher and published in Indian Story and Song from North America (1900), harmonised for piano by John Comfort Fillmore, reprinted by Seton in 1912, taught to Canadian camp leaders by Taylor Statten in the 1920s, and sung at a Laurentian boys' camp by 1927. Seton also prescribes it institutionally: his Herald degree requires knowing \"the Omaha Invocation\" and his Gleeman degree requires singing \"the Mudji-mukasin, Omaha, Zonzimondi, Bark Canoe\".",
+      "sources": [
+        "src_seton_book_of_woodcraft_1912"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Ernest Thompson Seton",
+        "Alice C. Fletcher",
+        "J. C. Fillmore",
+        "Council Ring",
+        "Taylor Statten",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1912",
+      "conflicts_with": [],
+      "added_version": "6.33",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4856",
+      "claim": "THE MAZINAW FIREPLACE INSCRIPTION IS A CONDENSED LINE OF SETON'S. C. R. Blackstock had Fred Hagan carve over the lodge fireplace at Camp Mazinaw: \"May Wakonda whose messenger is the Thunderbird, smile upon His children and send down the sacred fire from Heaven\" (f_4072). Seton's Peace Pipe Ceremony reads: \"Now know we that Wakonda, whose dwelling is above the Thunder-bird, whose messenger is the Thunder-bird, hath been pleased to smile on his children, hath sent down the sacred fire.\" The carving keeps the messenger-Thunderbird clause, the smiling on his children and the sending down of the sacred fire, turns the statement into a petition, and drops \"whose dwelling is above the Thunder-bird\". It is not an allusion to Seton, it is Seton's sentence with the tenses changed -- which settles that the three camps' shared Wakonda material (f_4073) is one text and not three independent borrowings.",
+      "sources": [
+        "src_seton_book_of_woodcraft_1912",
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "inferred",
+      "category": "traditions",
+      "entities": [
+        "Ernest Thompson Seton",
+        "C. R. Blackstock",
+        "Camp Mazinaw",
+        "Wakonda"
+      ],
+      "date_ref": "1912-1979",
+      "conflicts_with": [],
+      "added_version": "6.33",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4857",
+      "claim": "WHAT SETON'S CEREMONY IS MADE OF, AND THE ONE PART OF KANAWANA'S THAT IS NOT HIS. Seton's council ceremony is a composite: the opening address and the pipe invocations are Lakota/Dakota (\"Neetah Kola nayhoon-po\", \"Maka Ina\", \"Wazi-yata\", \"Noon-way\"), while the closing song is an OMAHA prayer from a different nation and a different ethnographer's fieldwork. His Scalp Dance opens with the dancers standing, both hands raised, singing that Omaha prayer. Against Jack Eastaugh's 1973 list of the standard parts -- Fire Lighting, Peace Pipe Ceremony, Indian Games, Dances, Departure of Hiawatha -- the first four are Seton's, in Seton's order. THE DEPARTURE OF HIAWATHA IS NOT: it is Longfellow, an 1855 American poem, and no part of the Book of Woodcraft ceremony. The camps' council ring was therefore assembled from at least three sources -- Lakota phrases, an Omaha prayer and a New England poem -- and presented as one Indigenous rite.",
+      "sources": [
+        "src_seton_book_of_woodcraft_1912",
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "inferred",
+      "category": "traditions",
+      "entities": [
+        "Ernest Thompson Seton",
+        "Council Ring",
+        "Jack Eastaugh",
+        "Longfellow"
+      ],
+      "date_ref": "1912-1973",
+      "conflicts_with": [],
+      "added_version": "6.33",
       "added_by": "ralph_loop"
     }
   ]

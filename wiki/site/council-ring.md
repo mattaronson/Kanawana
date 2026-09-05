@@ -1,7 +1,7 @@
 # The Council Ring
 
-*Status: E1-reviewed | Sources: 18*
-*Last Updated: 2026-09-04*
+*Status: E1-reviewed | Sources: 19*
+*Last Updated: 2026-09-05*
 
 The Council Ring was built by senior campers in 1922, sited between the cabins and the chapel. It served from the start as the camp's ceremonial gathering place, a tiered outdoor amphitheatre where the whole community could assemble for evening programs, campfires, and ritual events. The choice of the name "Council Ring" reflected the broader "playing Indian" aesthetic that shaped YMCA camping in this period, drawing on romanticized ideas about Indigenous governance and ceremony that were common across North American organized camping. The council-ring form itself is generally traced to landscape architect Jens Jensen and to Ernest Thompson Seton's Woodcraft Indians (Silver Bay camp, 1910), from which it spread through the camping movement — context for Kanawana's adoption of it in 1922.^11
 
@@ -67,6 +67,7 @@ Ebbs also names a parallel figure, **Ellsworth Jaeger** of the **Camp of the Red
 16. "Personality Profile: Taylor Statten — Interview with Adele Ebbs," *Canadian Camping Magazine* Vol. 38 No. 1 (Summer 1986), pp. 10-16 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 158).
 17. "Personality Profile: W. E. (Ted) Yard (1919-1983)" — interview with Shirley Yard and Ted Yard Jr., pp. 10-15, and the unattributed inter-tribal gift speeches and "Council Closing," p. 24 — *Canadian Camping Magazine* Vol. 38 No. 2 (Fall 1986) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 159).
 18. "Under Open Skies" / "À ciel ouvert" — "A Benediction," submitted by Madelene Allen, Camp Ouareau, St. Donat, Quebec, *Canadian Camping Magazine* Vol. 38 No. 4 (Spring 1987), p. 28 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 161).
+19. Ernest Thompson Seton, *The Book of Woodcraft and Indian Lore* (Doubleday, Page, 1912) [src_seton_book_of_woodcraft_1912]: the Omaha Tribal Prayer at p. 145, the Peace Pipe Ceremony at pp. 148–149, the Scalp Dance, and the Herald and Gleeman degree requirements. Read in full on 2026-09-05. See [f_4854], [f_4855], [f_4856], [f_4857].
 
 ### R3 Verification Notes
 
@@ -92,11 +93,60 @@ Eastaugh's article is also, in its own right, the clearest surviving statement o
 
 One practical note of his bears on how Kanawana's own ring must have operated: a council ring "must be a total, all-camp program", because "**distractions of any kind are 'killers'**" and a handful of scoffers can break the "make believe atmosphere that is so essential." At Ahmek the camp was split by age, eleven-and-under at one sitting and twelve-and-up at another, after early years of interference. Attendance was compulsory where other activities were not.
 
+### The source text, read at last
+
+Eastaugh named Seton in 1973; nobody here had opened Seton. His *Book of Woodcraft and Indian Lore*
+(1912) prints the ceremony in full, and set beside what this project knows of Kanawana's, the descent is
+not a resemblance but a text [f_4854].^19
+
+Seton's **Peace Pipe Ceremony** (pp. 148–149) opens with the Medicine Man standing before the ready-laid
+fire: "*Neetah Kola nayhoon-po omnicheeyay nee-chopt* — Hear me, my friends, we are about to hold a
+council. Now light we the Council Fire after the manner of the Forest children, not in the way of the
+white man, but even as **Wakonda** himself doth light his fire — by the rubbing together of two trees in
+the storm-wind." He works a fire drill; the flame comes; and he says:
+
+> "Now know we that **Wakonda, whose dwelling is above the Thunder-bird, whose messenger is the
+> Thunder-bird, hath been pleased to smile on his children, hath sent down the sacred fire**."
+
+The pipe then goes to Wakonda, to Maka Ina the Mother Earth, and to each of the four winds, the assembly
+answering "*Noon-way*" — Amen — to each. *The Green Triangle* of 21 July 1940 describes Kanawana's own
+fire-lighting in one line that fits this exactly: "an Indian brave came into view; he prayed to Wakonda
+to light the fire."
+
+**And the closing chant has a printed origin with a credit line on it.** At page 145 Seton prints "THE
+OMAHA TRIBAL PRAYER, harmonized by Prof. J. C. Fillmore" — "*Wa-kon-da dhe-dhu Wa-pa-dhin a-ton-he*" —
+credited "(By permission from **Alice C. Fletcher's** *Indian Story and Song*)" and translated "Father a
+needy one stands before thee; **I that sing am he**." Kanawana's script closes "Wakonda, dhe-dhu, wapdhin
+atonhe." Eastaugh remembered it as "I *who* sing am he," one word adrift from the printed line after
+fifty years of singing [f_4855].^19
+
+So the line of descent is now documented end to end: **an Omaha prayer, recorded by the ethnographer
+Alice C. Fletcher and published in 1900, harmonised for piano by John Comfort Fillmore, reprinted by a
+British-born naturalist in 1912, taught to Canadian camp leaders by Taylor Statten in the 1920s, and
+sung at a Laurentian boys' camp by 1927.** Seton also made it institutional: his Herald degree required
+knowing "the Omaha Invocation," his Gleeman degree required singing it.
+
+**What the ceremony is made of.** Seton's own text is a composite. The opening address and the pipe
+invocations are Lakota — *Neetah Kola nayhoon-po*, *Maka Ina*, *Wazi-yata*, *Noon-way* — while the
+closing song is an Omaha prayer from a different nation and a different ethnographer's fieldwork. Set
+against Eastaugh's list of the standard parts (Fire Lighting, Peace Pipe Ceremony, Indian Games, Dances,
+Departure of Hiawatha), the first four are Seton's, in Seton's order. **The Departure of Hiawatha is
+not.** That is Longfellow, an American poem of 1855, and appears nowhere in the Book of Woodcraft
+ceremony. What the camps performed as a single Indigenous rite was assembled from at least three
+places: Lakota phrases, an Omaha prayer and a New England poem [f_4857].^19
+
 ### A third Canadian camp with Wakonda over the fireplace
 
 That the invocation travelled is confirmed by an obituary. When C. R. "Blackie" Blackstock died in 1979, Adele and J. Harry Ebbs wrote that "**Council Ring and Indian Lore is a part of Mazinaw because Blackie had a 'feeling' for our native people**," and that over the lodge fireplace at his own camp he had his friend Fred Hagan carve:^14
 
 > "**May Wakonda whose messenger is the Thunderbird, smile upon His children and send down the sacred fire from Heaven.**"
+
+**That carving is Seton's sentence with the tenses changed.** Beside "Now know we that Wakonda, whose
+dwelling is above the Thunder-bird, whose messenger is the Thunder-bird, hath been pleased to smile on
+his children, hath sent down the sacred fire," the Mazinaw inscription keeps the messenger-Thunderbird
+clause, the smiling on his children and the sending down of the sacred fire, turns a statement into a
+petition, and drops the dwelling. It is not an allusion. It settles that the three camps' shared Wakonda
+material is **one text**, not three independent borrowings [f_4856].^19
 
 Camp Mazinaw was founded in 1940 at Bon Echo, and Blackstock had been a founding counsellor at YMCA Camp Kitchikewana in 1921 and waterfront director at Taylor Statten's Camp Ahmek in 1930 and 1931 — so the transmission route is the same one Eastaugh describes, from Seton through Statten's camps into the leaders trained there.^14 Kanawana's script (c. 1925-1927), the Taylor Statten close Eastaugh remembered, and a sentence carved into a Bon Echo fireplace are three instances of one borrowed prayer, at three camps, over sixty years. The name was not local colour that each camp invented; it was inherited, and its bearers knew where it came from.
 
