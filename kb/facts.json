@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 3882,
+  "fact_count": 3932,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -68830,6 +68830,937 @@
         "Eanswythe Flynn"
       ],
       "date_ref": "1976-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3921",
+      "issue": 110,
+      "claim": "Canadian Camping's Quebec column of December 1976 reports: \"A somewhat scary proposal is now being made by the Department of Labour...Waterfronts in camps may not be deeper than six feet!!! Another highlight in Quebec is that they have formed a very active Day Camp Standards Committee.\" The exclamation marks are the association's. A six-foot depth limit is not a rule a camp on a natural lake can comply with by adjusting anything; whether it was ever enacted is not stated.",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec Camping Association",
+        "Quebec Department of Labour"
+      ],
+      "date_ref": "1976-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3922",
+      "issue": 110,
+      "claim": "By 1976 the Quebec government appears on both sides of the ledger at once: the High Commission of Leisure and Sports was funding a full-time provincial camp training post at the ACQ-QCA, while the Department of Labour was drafting a camp waterfront rule of its own. If a ministry was regulating camp waterfronts from 1976-77, a governmental inspection file on Kanawana may exist distinct from the association's annual accreditation reports.",
+      "category": "archives",
+      "entities": [
+        "Quebec Camping Association",
+        "Camp Kanawana"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1976",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3923",
+      "issue": 110,
+      "claim": "Voluntary camp accreditation had become the gatekeeper for public money across Canada by December 1976: New Brunswick — \"The government has been very helpful in giving grants to camps — but such grants are only given if a camp is a member of the N.B.C.A.\"; Saskatchewan — \"Government grants are not given to camps which are not accredited by the S.C.A.\"; Manitoba — a $46,000 government student-employment grant to MCA camps, the province paying the salary of a standards visitor, and the government having purchased six camps; British Columbia — \"The B.C. Association has been asked to operate an in-service training programme for those inspectors hired by the Department of Health who will be visiting camps.\"",
+      "category": "camping_movement",
+      "entities": [
+        "New Brunswick Camping Association",
+        "Saskatchewan Camping Association",
+        "Manitoba Camping Association",
+        "British Columbia Camping Association"
+      ],
+      "date_ref": "1976-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3924",
+      "issue": 110,
+      "claim": "The Taylor Statten Memorial Fellowship as announced in December 1976: annual value $1,000, open to applicants from any Canadian university and tenable at any university considered appropriate, \"to assist post-baccalaureate study in any professional field or career related to youth services, such as, but not restricted to, physical and health education, psychology, teaching, the ministry, and social work.\" Applications by 1 March with a transcript and three letters of recommendation, at least two from university teachers; \"Only candidates under the age of 25 will be considered\"; forms from the Office of Student Awards, Room 107, Simcoe Hall, University of Toronto.",
+      "category": "camping_movement",
+      "entities": [
+        "Taylor Statten",
+        "University of Toronto"
+      ],
+      "date_ref": "1976-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3925",
+      "issue": 110,
+      "claim": "The memorial to Taylor Statten, the central figure of Canadian camping, took the form of a graduate award in youth services generally, held at a university rather than by the camping association: the Taylor Statten Memorial Fund launched at the University of Toronto in 1962 with over $20,000 from 400 contributors, the first Taylor Statten Memorial Lecture given by Charles Hendry at Hart House on 24 March 1962, and the Fellowship in its mature form by 1976.",
+      "category": "camping_movement",
+      "entities": [
+        "Taylor Statten",
+        "Charles Hendry",
+        "University of Toronto"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1976",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3926",
+      "issue": 110,
+      "claim": "Cliff Labbett wrote in December 1976: \"In 1976, the Canadian Recreational Canoeing Association took over the operation of the Canoe Instructors Schools which were founded in 1967 by Professors Kirk Wipper of the University of Toronto, and Claude Cousineau of the University of Ottawa. This modest beginning at the University of Ottawa's camp site near Gracefield, Quebec has now blossomed into six schools across Canada.\" The 1967 founding and the two founders match Andrea Dillon's 1972 account exactly — two independent attestations of the same origin.",
+      "category": "camping_movement",
+      "entities": [
+        "Clifford Labbett",
+        "Kirk Wipper",
+        "Claude Cousineau",
+        "Canadian Recreational Canoeing Association"
+      ],
+      "date_ref": "1976",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3927",
+      "issue": 110,
+      "claim": "The 1976 canoe instructor schools produced 189 candidates in one summer, 84 of them certified as instructors: Atlantic at Camp Kadimah near Bridgewater, N.S., 11-20 June, 25 students; French-language Gracefield, 41 students; English Gracefield in early August, 30 students; Ontario at Camp Kandalore, \"overwhelmed with applications,\" 44 students; Mid-West near Kenora, 24 students; Western near Calgary, 25 students. Two of the six schools were held in Quebec.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Recreational Canoeing Association",
+        "Camp Kandalore",
+        "Gracefield"
+      ],
+      "date_ref": "1976",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3928",
+      "issue": 110,
+      "claim": "Alberta's Department of Recreation and Parks gave funds to three camps in 1976 to set up hebertisme courses, from whose experience a \"Practical Guide to Hebertism\" was to be produced. With New Brunswick's report that hebertisme was spreading \"due to the tremendous influence of Claude Cousineau's book on the subject,\" this is the method reaching Alberta with provincial funding within a year of the booklet.",
+      "category": "programs",
+      "entities": [
+        "Claude Cousineau",
+        "Alberta Camping Association"
+      ],
+      "date_ref": "1976",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3929",
+      "issue": 110,
+      "claim": "The December 1976 masthead states: \"Canadian Camping is published 6 times a year. Subscription Rates: $5.00 — 1 year; $12.00 — 3 years. C.C.A. membership includes subscription.\" That confirms the newsletter-era cadence of five or six issues a year against four in the magazine era, and gives the subscription price at the changeover.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1976-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3930",
+      "issue": 110,
+      "claim": "The Canadian Camping Association's water-safety concern of December 1976 locates the problem in retail equipment rather than training: drownings in canoe accidents due \"not only to inexperienced people; cold weather and water; but above all, to the poor quality of canoes sold extensively in super markets,\" together with \"a great concern about the quality of some of the approved P.F.Ds. as well as the fact that there is not a wide variety of such approved P.F.Ds.\"",
+      "category": "canoe_trips",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1976-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3931",
+      "issue": 110,
+      "claim": "W. Grant Kerr's camp insurance article, reprinted from the United Church publication Church Camping (Spring 1976), gives recommended minimum liability cover in 1976 as \"not less than $200,000 for bodily injury and $20,000 for property damage,\" better $500,000 with some camps carrying a million, and automobile liability from $100,000 up to $5,000,000. Liability is scheduled \"in the per-camper per day charges,\" with rowboats, canoes, power-driven boats, motors, sailboats, malpractice, products coverage and horses scheduled separately. Fire rates were reduced by a full-time caretaker on the property, fire-resistant roofing, distance between structures and extinguishers in all buildings, with 90% co-insurance typical.",
+      "category": "operations",
+      "entities": [
+        "W. Grant Kerr"
+      ],
+      "date_ref": "1976",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3932",
+      "issue": 110,
+      "claim": "John Beedell of the Bark Lake Camp Leadership Centre set out winter camping requirements in December 1976: sleeping bags at $100-$150, or a summer down bag inside a Black Icelandic Special or Woods Mount Whitney, with closed-cell foam beneath; layered clothing; moccasins with rubber bottoms or oversized boots with snowmobile liners; chopping a three-foot ice hole for water; snow shelters entered below floor level so cold air cannot pour in; toboggans fitted with a wooden box; and the governing rule that \"the biggest fear is sweating.\"",
+      "category": "programs",
+      "entities": [
+        "John Beedell",
+        "Bark Lake"
+      ],
+      "date_ref": "1976",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3933",
+      "issue": 111,
+      "claim": "Canadian Camping's Quebec column of February 1977: \"Support from the Provincial Government is still very evident in this Province, and a close liaison exists when it comes to new legislation. $300,000 is being given to the Association for their spring Training Programme.\" Set beside Nova Scotia's $3,600 provincial recreation grant reported two months earlier, this is the scale of Quebec's investment, and it was for staff training — the function the association had performed on its own since 1937.",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec Camping Association",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1977-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3934",
+      "issue": 111,
+      "claim": "Quebec ran a provincial \"Camp Week\" from 5 to 11 March 1977, with \"promotional spots on radio and television; advertisements and public service announcements in every newspaper; buttons, posters, badges etc.\" — a government-funded advertising campaign on behalf of every accredited camp in Quebec, inside which Kanawana's 1977 recruitment took place.",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec Camping Association",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1977-03-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3935",
+      "issue": 111,
+      "claim": "The Quebec Camping Association English Section held its 40th Anniversary Banquet on 26 March 1977, dating its founding to 1937 for the fourth independent time — after the Concordia holdings, Alta Kahn's 1958 \"coming-of-age\" conference, and F. M. Van Wagner's 1975 tribute. Rosaire Corbin had returned to the ACQ-QCA staff and was responsible for all its training programmes.",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec Camping Association",
+        "Rosaire Corbin"
+      ],
+      "date_ref": "1977-03-26",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3936",
+      "issue": 111,
+      "claim": "Canadian Camping, February 1977: \"The Employment Visa Certification Waiver has been amended to permit non-immigrants to work as camp counsellors, or in similar leadership roles, (not as kitchen staff or maintenance workers) in camps operated by the Canadian Camping Association. They do not need Canada Manpower certification that residents of Canada are unavailable for such employment.\" The mechanism required a letter from the camp director naming the occupation, location and duration \"and particularly, that the employer is a member of the Canadian Camping Association,\" presented with a passport or birth certificate at the point of entry; provincial associations were told to send their member-camp directories to every port of entry.",
+      "category": "staff",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1977-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3937",
+      "issue": 111,
+      "claim": "Camp accreditation in 1977 was a standards regime, a condition of government grants and a hiring instrument at once: any foreign staff member at an accredited Canadian camp from 1977 onward entered the country on the Employment Visa Certification Waiver, which applied only to member camps of the Canadian Camping Association.",
+      "category": "staff",
+      "entities": [
+        "Canadian Camping Association",
+        "Camp Kanawana"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1977",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3938",
+      "issue": 111,
+      "claim": "Charles Plewman, on being made an Honorary Member of the Canadian Camping Association, said: \"When the Canadian Camping Association was formed back in 1936, it was an act of faith, pure and simple. It was only a dream... because after all there were only two provinces in the whole of Canada that even had Camp Associations. In the thirty-eight years that have elapsed since that time, we have made that dream come true.\" The internal arithmetic — 1936 plus 38 — places the address at the October 1974 annual meeting in Montreal; the February 1977 newsletter is reprinting it.",
+      "category": "camping_movement",
+      "entities": [
+        "Charles Plewman",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1974-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3939",
+      "issue": 111,
+      "claim": "Charles Plewman was 87 in February 1977, which places his birth at about 1889-90 — the first birth estimate this project has for him. In the same address he gave organized camping as reaching \"some 500,000 of our Canadian youth,\" complained that \"the Federal Government had not begun to appreciate\" it, named \"Taylor Statten and Mary Edgar, just to mention two\" among the founders, and held that \"the Golden Age of Camping still lies ahead.\"",
+      "category": "biography",
+      "entities": [
+        "Charles Plewman",
+        "Taylor Statten",
+        "Mary S. Edgar"
+      ],
+      "date_ref": "1977-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3940",
+      "issue": 111,
+      "claim": "John Latimer, Director of Kilcoo Camp, set out the Canadian Camping Association's promotion doctrine in February 1977: the primary source of campers is old campers, so leave room on the application for names of friends and relatives; \"be wary about advertising in large urban newspapers\" — suburban weeklies, school yearbooks and home-and-school publications reach the right homes more cheaply; brochures should last three or four years with only the application reprinted annually; then a home visit at which \"the first item to be 'sold' is of course — the Director\"; then birthday cards, Christmas cards, calendars, two or three newsletters a year, and separate reunions for new campers. Chase every unreturned application, \"because those with the criticisms... are those who are the most reluctant to let you know what went wrong the previous year.\" The summary word is \"PERSONAL.\"",
+      "category": "camping_movement",
+      "entities": [
+        "John Latimer",
+        "Kilcoo Camp",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1977-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3941",
+      "issue": 111,
+      "claim": "John Latimer told directors in February 1977 that \"at the end of the summer, a letter of assessment from the Director\" should go to each camper's parents, and that this \"will mean that there must be a very accurate method of receiving a full report from each counsellor.\" This is assessment of campers, not of staff, so it is a different document type from a staff evaluation; but it establishes that a director writing down judgements of the children who passed through his camp in August was following national practice.",
+      "category": "staff",
+      "entities": [
+        "John Latimer",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1977-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3942",
+      "issue": 111,
+      "claim": "The Canadian Camping Association's five best-selling books of 1976: Camp Counsellor's Handbook by Blackstock and Latimer ($4.95); Acclimatization ($5.25) and Acclimatizing ($5.95) by Steve Van Matre; The Camp Counsellor's Book edited by Northway and Lowes ($1.95); and Nessmuk's Woodcraft and Camping ($1.75). Punch Jackson of Winnipeg was building a book service for directors through the CCA, and Sharon Brown \"a complete bibliography of all books, catalogues, papers, magazines etc. which would be of any interest to anyone in the camping and related fields,\" due mid-April 1977.",
+      "category": "sources",
+      "entities": [
+        "Brian Blackstock",
+        "John Latimer",
+        "Mary L. Northway",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1977-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3943",
+      "issue": 111,
+      "claim": "The six Canadian Recreational Canoeing Association instructor schools for 1977 included only one in Quebec — the French-language school at the University of Ottawa Camp near Gracefield, 20-30 June, under Jacques Grenier. The English-language Gracefield session of 1976 is gone, so English-speaking Quebec candidates would have had to travel to Ontario. Three Woodsmanship Instructors Schools were promised conditionally: \"If Government funds are available to be used by the C.C.A. for certain projects in 1977.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Recreational Canoeing Association",
+        "Jacques Grenier",
+        "Gracefield"
+      ],
+      "date_ref": "1977",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3944",
+      "issue": 111,
+      "claim": "Hart M. Devenney's obituary by Kirk Wipper (February 1977) records a Springfield College B.Sc. and a McGill M.A., a year at Yale Divinity, marriage to Rena Bickerton in 1929, Director of Urban Youth Centres in Manitoba in 1939, RCAF auxiliary services in England, the Middle East, North Africa and Italy, Director of Physical Education and Recreation for Manitoba for a decade from 1945, inspector then consultant in Physical Education and Camping for Ontario from 1955, managing editor and assistant director of CAHPER for thirteen years, President of CAHPER 1952-54, and from 1957 Director of the Ontario Camp Leadership Centre at Bark Lake.",
+      "category": "biography",
+      "entities": [
+        "Hart M. Devenney",
+        "McGill University",
+        "Bark Lake"
+      ],
+      "date_ref": "1977-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3945",
+      "issue": 111,
+      "claim": "May Brown closed Camp Deka in British Columbia in 1977 — \"truly one of the finest independent camps in this country... An era has come to an end!!!\" — her husband Lorne Brown having predeceased her; she moved on to Vancouver municipal politics.",
+      "category": "biography",
+      "entities": [
+        "May Brown",
+        "Lorne Brown",
+        "Camp Deka"
+      ],
+      "date_ref": "1977",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3946",
+      "issue": 112,
+      "claim": "Canadian Camping, March 1977, reports the Quebec Camping Association English Section's 40th anniversary conference: \"The 40th Anniversary of the English section of the Q.C.A. was indeed a great celebration. Telegrams from several spots around the world were received by President Derek Walsh and the weekend Conference (March 25 - 27) was a tremendous success due to the efforts of so many people including Chairman Wilf Jackson. There was an impressive list of past presidents of Q.C.A. in attendance, namely; Norrey Owens, Zave Ettinger, Ross Seaman, Bob Lazanick, Peter van Wagner, Bill McCarthy and Val Willis. Special recognition was given to Miss Frances Kelly who for many years has been the backbone of the English section of Q.C.A.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Derek Walsh",
+        "Norrey Owens",
+        "A. Ross Seaman",
+        "Zave Ettinger",
+        "Robert Lazanik",
+        "Peter Van Wagner",
+        "Bill McCarthy",
+        "Val Willis",
+        "Frances M. Kelly",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1977-03-25",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3947",
+      "issue": 112,
+      "claim": "Three Kanawana-connected people were at the Quebec Camping Association English Section's fortieth anniversary conference of 25-27 March 1977: Derek Walsh, then Kanawana's director, presiding as Section president; A. Ross Seaman, Kanawana's director of 1959-67, among the past presidents; and Norrey Owens, eight months after he endowed the Order of Owens at Kanawana. Seaman and Owens had sat on the same QCA executive in 1954, Owens as president and Seaman as conference chairman.",
+      "category": "people",
+      "entities": [
+        "Derek Walsh",
+        "A. Ross Seaman",
+        "Norrey Owens",
+        "Camp Kanawana",
+        "Quebec Camping Association"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1977-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3948",
+      "issue": 112,
+      "claim": "Frances Kelly is described in March 1977 as \"the backbone of the English section of Q.C.A.\" She appears in this run as the office secretary of the early 1950s, the executive secretary of the 1960s and 1970s, and the author of the F. M. Van Wagner tribute in 1975 — twenty-five years in the same office.",
+      "category": "biography",
+      "entities": [
+        "Frances M. Kelly",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1977-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3949",
+      "issue": 112,
+      "claim": "Robert Lazanik's surname is spelled \"Lazanick\" in the March 1977 newsletter against \"Lazanik\" elsewhere in the run. The same man; the spelling is unstable in the source and should be flagged before any name-matching pass.",
+      "category": "methodology",
+      "entities": [
+        "Robert Lazanik"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1977",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3950",
+      "issue": 112,
+      "claim": "The Canadian Camping Association published the results of its first annual statistical questionnaire in March 1977: \"68,000 Camper Spaces Available in 1976. 260,000 Campers attended Member Camps. Of the 32,000 staff members in 1976, 22,000 were paid and 10,000 were volunteers, while 1,600 came from outside Canada. Food Costs equalled $8,000,000 (not including Salaries, fuel and kitchen supplies); Other costs (excluding food and salaries) totalled $14,000,000.\" Quebec was among four associations — with New Brunswick, Alberta and British Columbia — whose members responded at over 50%.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1977-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3951",
+      "issue": 112,
+      "claim": "The Canadian Camping Association wanted 1976 statistics \"in order to appear to be an organization with a strong foundation, and a knowledgeable spokesman for camping\" when facing \"members of the media, as well as Government officials,\" and reported that \"some Camp Directors refused to co-operate... feeling that we were invading their privacy, or that the figures would be used to embarrass them,\" to which the editor replied: \"if we are unable to provide reasonable figures for the Government, we will then be legislated into answering certain questions... with no option to be coy or evasive!\"",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1977-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3952",
+      "issue": 112,
+      "claim": "Madeleine Allen's \"Parental Motivation Affecting the Attendance of Children at Summer Camp\" (March 1977) surveyed parents at Camp Ouareau: 150 questionnaires sent with the May camp mailing against a registration of 195 campers over the two-month season, unsigned and uncoded \"to encourage frankness,\" 100 returned — 66%. Of seven ranked reasons, living with others was the first choice of 40%, fun in the out-of-doors of 28%, and skills last, the last explained by her clientele since \"eighty-two per cent of the families have summer cottages available.\" Fun was first for 45% of parents of 13-15s against 15% for 6-9s.",
+      "category": "context",
+      "entities": [
+        "Madelene Allen",
+        "Camp Ouareau"
+      ],
+      "date_ref": "1977-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3953",
+      "issue": 112,
+      "claim": "Madeleine Allen drew a conclusion from her 1977 parent survey that questions her own profession's senior programming: \"This leads me to question camps' emphasis on skills and of giving this older age group any automatic, built-in over emphasis of responsibility. Should we not continue, or go back to, letting them just be themselves, to relax and have fun without the stresses and challenges of responsibility... be it tribal chiefs, test passing, 'super senior' programs, team leadership, or what have we, unless they themselves, the individual camper, really wants it?\"",
+      "category": "programs",
+      "entities": [
+        "Madelene Allen",
+        "Camp Ouareau"
+      ],
+      "date_ref": "1977-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3954",
+      "issue": 112,
+      "claim": "Madeleine Allen describes Camp Ouareau in March 1977 as \"the only English speaking, private, girls' camp in the province of Quebec,\" with francophone registration capped at 10% per section so those who came would get \"almost total immersion in the English language.\" Her survey also records that 44 mothers and 47 fathers had been campers (14 and 15 of them staff), 35 families had neither parent at camp and 26 had both, and only a third of campers had been to any other camp.",
+      "category": "inter-camp",
+      "entities": [
+        "Madelene Allen",
+        "Camp Ouareau"
+      ],
+      "date_ref": "1977-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3955",
+      "issue": 112,
+      "claim": "Jack Pearse was elected incoming President of the Canadian Camping Association in 1977, with Paul Belanger acclaimed Vice-President. The Ontario Camping Association elected Jocelyn Palm incoming President, Mrs. Barbara Gilchrist President Elect and Mrs. Phil Lowes Vice-President; its annual conference of 3-6 March at the Royal York drew \"a record number of 552 Directors and Senior Staff,\" and a lucky draw raised \"a little more than $3000.00, thereby putting the O.C.A. out of the red for the first time in a couple of years.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Jack Pearse",
+        "Paul Belanger",
+        "Jocelyn Palm",
+        "Barbara Gilchrist",
+        "Ontario Camping Association",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1977-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3956",
+      "issue": 112,
+      "claim": "The newsletter that replaced Canadian Camping magazine in October 1976 was \"Design and/Dessin et Printed by/Imprime par National Sport and Recreation Centre Inc. / Centre National du Sport et de la Recreation Inc.\" — the federal sport body, which is part of how the association cut the cost that had killed the magazine.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping (magazine)",
+        "National Sport and Recreation Centre"
+      ],
+      "date_ref": "1977",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3957",
+      "issue": 113,
+      "claim": "Jocelyn Palm's survey of camps on the Small Vessels Regulations, reported in May 1977, records the reception of the November 1975 federal rule requiring an approved lifejacket or Personal Flotation Device for every person in every craft: \"Almost 50% of the camps responding required the presence of the lifejacket or P.F.D. prior to the regulation... 18% of the camps were unaware of the regulation until they read about it in the June 'Canadian Camping' magazine, and another 10% of camps were unaware of the regulation prior to receiving the questionnaire.\" More than a quarter of accredited Canadian camps were operating boats in breach of a federal regulation they had not heard of, and this magazine was the instrument that told 18% of them.",
+      "category": "canoe_trips",
+      "entities": [
+        "Jocelyn Palm",
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1977-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3958",
+      "issue": 113,
+      "claim": "Jocelyn Palm's May 1977 waterfront syllabus distinguishes a lifejacket — 29 lb buoyancy, with a righting movement — from a PFD, 15 lb and less bulky, \"designed to encourage Canadians to wear the devices\"; notes that the regulation requires the device to be carried, not worn; and teaches donning on land, in the craft and while immersed, entering the water from a low dock to see what position the body takes, HELP (heat escape lessening posture) for water below 60 degrees Fahrenheit, and helping an injured partner into a device in the water.",
+      "category": "programs",
+      "entities": [
+        "Jocelyn Palm",
+        "Royal Life Saving Society"
+      ],
+      "date_ref": "1977-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3959",
+      "issue": 113,
+      "claim": "Every La Verendrye trip from the summer of 1976 carried approved flotation for every paddler because federal law required it from November 1975, so any 1975-76 bulk purchase of flotation devices in Kanawana's records is explained by the regulation rather than by a change of camp policy.",
+      "category": "canoe_trips",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "Camp Kanawana"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1976",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3960",
+      "issue": 113,
+      "claim": "Charles W. Tisdall, managing partner of Tisdall Clark Lesly & Partners, reviewed some 50 Ontario camp brochures with his graphics staff for the 1977 OCA annual meeting and reported what he found: staff group photographs \"sitting and standing row after row, clean and neat in their Sunday best,\" never with names; collages; under- and over-exposed pictures; inconsistent writing, \"good basic English on one page, and then, an informal and 'slang' English on the next\"; trite phrases — \"our camp is a melting pot,\" \"we are one big happy family\"; logos \"tucked away in corners... as if camps were ashamed of them\"; loose inserted fee schedules; and \"the fifty brochures reviewed, submitted from Ontario camps, all said pretty much the same thing.\"",
+      "category": "sources",
+      "entities": [
+        "Charles W. Tisdall",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1977-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3961",
+      "issue": 113,
+      "claim": "Charles Tisdall's 1977 prescribed contents list for a camp brochure is a checklist against which any surviving camp brochure of the period can be read: management qualifications, activities, senior staff backgrounds, safety precautions including water safety, supervision, doctors and nurses, first aid and emergency measures, fee schedule, contact telephone and address, a short history of the camp, directions, arrangements for eating, sleeping, clothing and washing, a statement of what kind of camp it is, a return envelope, and \"Display your accreditation logo clearly, and large enough to be seen — the Canadian Camping Association — your Provincial Association. Be proud of it.\"",
+      "category": "sources",
+      "entities": [
+        "Charles W. Tisdall",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1977-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3962",
+      "issue": 113,
+      "claim": "The Canadian Camping Association held its annual meeting in late April 1977 at the Easter Seal Camp in Squamish, British Columbia, concurrently with the Canadian Recreational Canoeing Association's: \"Musical Chairs was played by Ron Johnstone, who became Past-President of the C.C.A., and the new President of C.R.C.A. John Latimer became Past-President of the C.R.C.A.\" Awards of Honour went to May Brown, Adele Ebbs, Bryan Graham, Ron Johnstone, Cliff Labbett, Barry Lowes, Grant McKeen, Bill Swift and Barbara Taylor; Certificates of Thanks went to Recreation Canada, Fitness and Amateur Sport Branch, \"in appreciation for their tremendous financial support.\" The 1978 annual meeting was set for Winnipeg.",
+      "category": "camping_movement",
+      "entities": [
+        "Ron Johnstone",
+        "John Latimer",
+        "May Brown",
+        "Adele Ebbs",
+        "Canadian Camping Association",
+        "Canadian Recreational Canoeing Association"
+      ],
+      "date_ref": "1977-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3963",
+      "issue": 113,
+      "claim": "The Canadian Camping Association's Task Force, created \"with the support of Recreation Canada\" and reporting in 1977 after \"several meetings with hundreds of Canadian Camping leaders,\" recommended that camps continue to join the CCA only through their provincial associations; that many committee tasks be devolved to provincial associations; that the CCA keep organising national conferences of the Geneva Park type; that the national board keep meeting in conjunction with provincial workshops; and that \"A National Publications Service should be a strong priority,\" covering new books, reports, theses and speeches. Its committee was John Latimer (Chairman), Paul Belanger, Barry Lowes, Jack Pearse, Jay Haddad and George Robitaille, with Ron Johnstone as consultant. The full report \"along with all of the background material is available in every Provincial Association office,\" so a copy was deposited in the Quebec office.",
+      "category": "camping_movement",
+      "entities": [
+        "John Latimer",
+        "Paul Belanger",
+        "Jack Pearse",
+        "Georges Robitaille",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1977",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3964",
+      "issue": 113,
+      "claim": "The Employment Visa Certification Waiver for foreign camp staff was narrowed and confirmed in May 1977: \"The ruling about foreign staff applies only to those young men and women who will be instructing and counselling... and only in Accredited Camps.\" Directors were urged to notify the point of entry of names and addresses in advance.",
+      "category": "staff",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1977-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3965",
+      "issue": 113,
+      "claim": "The Canadian Camping Association adopted a new logo in 1977, chosen from a competition and designed by Mrs. Daphne Kaye of Camp Voyageur, Ontario, with \"a cut of the Logo... made available to Camp Directors so that our National symbol can be part of all publicity and correspondence sent out from every accredited Camp in Canada.\" Any Kanawana letterhead or brochure of 1977 or later may carry it, which is a dating aid for undated printed material.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping Association",
+        "Daphne Kaye",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1977",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3966",
+      "issue": 113,
+      "claim": "The provincial association addresses printed in May 1977 give the Quebec Camping Association, Inc. (English) at 2233 Belgrave Avenue, Montreal H4A 2L9, and the Association des Camps du Quebec, Inc. (French) at 1415 est, rue Jarry, Montreal H2E 2L9.",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec Camping Association",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1977-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3967",
+      "issue": 113,
+      "claim": "The Canadian Camping Association's 1977 publications catalogue lists among its Canadian titles the Log of Canada's Centenary Journey, published by the CCA at $3.00 — the Centennial canoe-journey record, still purchasable ten years after the event.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping Association",
+        "Centenary Cross Canada Canoe Journey"
+      ],
+      "date_ref": "1977-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3968",
+      "issue": 113,
+      "claim": "Brian Blackstock is named as Editor of Canadian Camping for the first time in the newsletter era, in the May 1977 masthead — the same Blackstock who co-authored the Camp Counsellor's Handbook the association was selling. The masthead's French line in that issue reads \"Publication Officielle L'Association des Camps du Quebec\" where every other issue reads du Canada — a printing error, not a fact.",
+      "category": "sources",
+      "entities": [
+        "Brian Blackstock",
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1977-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3969",
+      "issue": 113,
+      "claim": "Song-leading advice from the Boy Scouts of Canada, Greater Toronto Region Training Resource Library, printed in May 1977, includes \"Consider the songbook as a teaching aid. Use the books when you need them; put them aside when you don't\" and \"Keep a File or List — Start now to accumulate songs that your group likes to sing\" — the practice that would have produced a camp songbook had anyone at a given camp followed it.",
+      "category": "traditions",
+      "entities": [
+        "Boy Scouts of Canada"
+      ],
+      "date_ref": "1977-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3970",
+      "issue": 113,
+      "claim": "The 1978 Geneva Park national conference was set for 19-22 January 1978, with a charter committee including Rosaire Corbin of the Association des Camps du Quebec, Virginia Fraser of Etobicoke Parks and Recreation for day camping, Bruce Harris of Camp Kawabi for independent camps, Wayne Perkins of Camp Wanakita for the YMCA, Mardi Tindal for United Church camping, Barry Lowes of Camp Timberlane, and Dorothy Walters on Government Liaison — a standing government-liaison post on a conference committee.",
+      "category": "camping_movement",
+      "entities": [
+        "Rosaire Corbin",
+        "Wayne Perkins",
+        "Barry Lowes",
+        "Canadian Camping Association",
+        "Geneva Park"
+      ],
+      "date_ref": "1978-01-19",
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
