@@ -29,10 +29,10 @@ Both Manitt and Bollhorn appear again two years later on the "Kanawana Staff 97"
 
 ## Open Questions
 
-0. [Bookkeeping] How many other plaque facts in this KB are partial transcriptions cited as complete ones? The 1995 CIT plaque held 29 names where this project recorded 11, and the Staff '97 plaque holds roughly 100 where it recorded 3. Tracked as p_291.
+1. [Bookkeeping] How many other plaque facts in this KB are partial transcriptions cited as complete ones? The 1995 CIT plaque held 29 names where this project recorded 11, and the Staff '97 plaque holds roughly 100 where it recorded 3. Tracked as p_291.
 
-1. [Important] What years did Dan Aronson attend or work at Kanawana beyond the two documented plaque appearances (1995, 2002)? What roles did he hold?
-2. [Nice-to-have] Is there a family relationship to [[people/matt-aronson|Matt Aronson]], who appears on the same 2002 staff plaque? (Presumed given the shared surname and this wiki project's own operator connection, but not itself documented by any source independent of that context.)
+2. [Important] What years did Dan Aronson attend or work at Kanawana beyond the two documented plaque appearances (1995, 2002)? What roles did he hold?
+3. [Nice-to-have] Is there a family relationship to [[people/matt-aronson|Matt Aronson]], who appears on the same 2002 staff plaque? (Presumed given the shared surname and this wiki project's own operator connection, but not itself documented by any source independent of that context.)
 
 ## Related Articles
 

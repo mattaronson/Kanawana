@@ -1,8 +1,8 @@
 {
-  "version": "6.06",
-  "kb_version": "6.06",
+  "version": "6.26",
+  "kb_version": "6.26",
   "migrated_from": "3.3",
-  "fact_count": 4700,
+  "fact_count": 4796,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -3370,11 +3370,11 @@
     },
     {
       "fact_id": "f_0200",
-      "claim": "YMCA Kamp Kanawana became coeducational in 1969",
+      "claim": "[SUPERSEDED 2026-08-14, recorded 2026-09-05: the date is 1968. The camp's own 1988 report, the annual reports' camper-weeks tables and the 1970 season report all give 1968 (f_2101); the undated Facts sheet this fact rests on is simply wrong. Preserved, not deleted; see c_001.] YMCA Kamp Kanawana became coeducational in 1969",
       "sources": [
         "src_kanawana_facts"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "coeducation",
       "entities": [
         "Camp Kanawana"
@@ -3382,18 +3382,19 @@
       "date_ref": "1969",
       "conflicts_with": [
         "f_0201",
-        "f_1777"
+        "f_1777",
+        "c_001"
       ],
       "added_version": "4.0",
       "added_by": "auto_extraction"
     },
     {
       "fact_id": "f_0201",
-      "claim": "YMCA Kamp Kanawana became coeducational in 1968",
+      "claim": "YMCA Kamp Kanawana became coeducational in 1968 [CONFIRMED 2026-08-14: documented independently by the 1988 report, the camper-weeks tables and the 1970 season report (f_2101), and by the YMCA Quebec official history (f_1777). No longer disputed; c_001 resolved.]",
       "sources": [
         "src_oral_aronson"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "coeducation",
       "entities": [
         "Camp Kanawana"
@@ -14659,7 +14660,8 @@
       ],
       "date_ref": "1917",
       "conflicts_with": [
-        "f_0413"
+        "f_0413",
+        "c_041"
       ],
       "added_version": "4.20",
       "added_by": "ralph_loop"
@@ -14883,7 +14885,9 @@
         "YWCA"
       ],
       "date_ref": "1915-1922",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_039"
+      ],
       "added_version": "4.22",
       "added_by": "ralph_loop"
     },
@@ -15468,7 +15472,9 @@
         "Camp Ouareau"
       ],
       "date_ref": "1915-1920",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_039"
+      ],
       "added_version": "4.24",
       "added_by": "ralph_loop"
     },
@@ -19360,11 +19366,11 @@
     },
     {
       "fact_id": "f_1169",
-      "claim": "Search-engine snippets of the Concordia 12B01 finding aid (retrieved 2026-06-11, two independent queries) describe correspondence from 'Camp director Dave Twynam' dated 1976, which if accurate would extend his directorship back to 1976. An earlier extraction of the same finding aid (f_0752) dated such correspondence to 1979. Whether the finding aid lists two separate correspondence files (1976 and 1979) or one of the datings is an error is unresolved.",
+      "claim": "[SUPERSEDED 2026-07-07 (recorded 2026-09-05): c_007 resolved against this reading. A direct fetch of the Concordia 12B01 page shows the finding aid's own text reads 'Camp director Dave Twynam-correspondence. - 1979'. The 1976 here was an artefact of search-engine snippet rendering, not the finding aid. Preserved as the record of how the wrong date entered, not deleted.] Search-engine snippets of the Concordia 12B01 finding aid (retrieved 2026-06-11, two independent queries) describe correspondence from 'Camp director Dave Twynam' dated 1976, which if accurate would extend his directorship back to 1976. An earlier extraction of the same finding aid (f_0752) dated such correspondence to 1979. Whether the finding aid lists two separate correspondence files (1976 and 1979) or one of the datings is an error is unresolved.",
       "sources": [
         "src_concordia_atom_12B01"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "directors",
       "entities": [
         "Dave Twynam",
@@ -19372,7 +19378,8 @@
       ],
       "date_ref": "1976",
       "conflicts_with": [
-        "f_0752"
+        "f_0752",
+        "c_007"
       ],
       "added_version": "v4.36",
       "added_by": "ralph_loop"
@@ -19507,7 +19514,9 @@
         "Lemuel Cushing Sr."
       ],
       "date_ref": "1806",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_043"
+      ],
       "added_version": "v4.36",
       "added_by": "ralph_loop"
     },
@@ -20899,7 +20908,9 @@
         "Mary Susanna Edgar"
       ],
       "date_ref": "1915-1917",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_040"
+      ],
       "added_version": "v4.66",
       "added_by": "ralph_loop"
     },
@@ -23248,7 +23259,8 @@
       ],
       "date_ref": "1936-1946",
       "conflicts_with": [
-        "f_1360"
+        "f_1360",
+        "c_035"
       ],
       "added_version": "4.76",
       "added_by": "ralph_loop"
@@ -25286,7 +25298,7 @@
       "sources": [
         "src_baladodecouverte_howard"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "places",
       "entities": [
         "Camp Otoreke",
@@ -25295,7 +25307,8 @@
       ],
       "date_ref": "1897",
       "conflicts_with": [
-        "f_0486"
+        "f_0486",
+        "c_008"
       ],
       "added_version": "v4.86",
       "added_by": "ralph_loop"
@@ -25933,7 +25946,8 @@
       ],
       "date_ref": "1867-1868",
       "conflicts_with": [
-        "f_1160"
+        "f_1160",
+        "c_012"
       ],
       "added_version": "v4.88",
       "added_by": "browser_research"
@@ -25998,7 +26012,7 @@
         "src_crel_kanawana",
         "src_rsvl_melccfp"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "environment",
       "entities": [
         "Lac Kanawana",
@@ -26008,7 +26022,8 @@
       "conflicts_with": [
         "f_1146",
         "f_0615",
-        "f_1401"
+        "f_1401",
+        "c_009"
       ],
       "added_version": "v4.88",
       "added_by": "browser_research"
@@ -26027,7 +26042,9 @@
         "directors"
       ],
       "date_ref": "1960",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_013"
+      ],
       "added_version": "v5.67",
       "added_by": "browser_research"
     },
@@ -26392,7 +26409,7 @@
     },
     {
       "fact_id": "f_1565",
-      "claim": "A dining-hall roll plaque for 'The Order of the Knights of Kanawana' ('an honour bestowed upon a select few campers who have excelled in mastering important skills and who reflect the spirit that is Kanawana', crest motto 'Non Nobis') lists knighted campers by year from 1980 to 2009, including Sir Denys Lawrence and Lady Lindsay Hertland (1980) through Sir Dylan Applebaum (2009). || FULL ROSTER AS TRANSCRIBED FROM THE IMAGE (p_292, 2026-08-28, from knights-of-kanawana.jpg): roll: Sir Denys Lawrence (1980); Lady Lindsay Kertland (1980); Sir Elias Furdon (1980); Lady Avril Chaplain (1980); Sir Mark Gillett (1981); Sir Jonathan Shrier (1981); Sir Ian Davis (1981); Sir Craig Gillett (1982); Sir Dave Paltiel (1982); Sir Eyal Artzy (1987); Sir Micheal Zeitzer (1987); Sir Misha Artzy (1988); Sir Adrian Di Giovanni (1992); Lady Susan Gamberg (1992); Sir Andrew Henle (1992); Sir Ryan Harbinson (1992); Sir Matthew Chown (1993); Lady Lauren Katz (1993); Sir Alexander Aylett (1994); Sir Daniel Sokoloff (1994); Sir Christian Eichler (1994); Sir Josh Usheroff (1998); Sir Conor Ohiel (1999); Lady Ali Olshefsky (2002); Sir Ian Braide (2002); Lady Caroline Noble (2002); Sir Scott Harman-Heath (2008); Sir Dylan Applebaum (2009); Sir Dylan O'Brien (2009) | citation: The Order of the Knights of Kanawana is an honour bestowed upon a select few campers who have excelled in mastering important skills and who reflect the spirit that is Kanawana | crest motto: NON NOBIS SOLUM. This fact previously carried 3 of the 29 names on the object. READINGS HELD AT REDUCED CONFIDENCE: Sir Elias Furdon (may be Purdon); Sir Conor Ohiel (very likely CONNOR O'NEIL, who is a CIT in 2000); Lady Caroline Noble and Sir Dylan O'Brien -- both painted in a lighter hand and faded. The text before this marker is the original record and is preserved unchanged. || NAME CORRECTED: 'Lady Lindsay Hertland' is LADY LINDSAY KERTLAND -- and a Lindsay Kertland is a CIT in 1985 (f_1611) and on the 1983 canoe-staff paddle (f_1646), so the misreading was concealing a person this KB already held. (p_292, 2026-08-28.) || CORRECTION TO THE p_291 AUDIT NOTE (p_293, 2026-08-28): that note claimed the Knights of Kanawana appeared in this wiki 'nowhere except passing mentions'. THAT WAS WRONG. traditions-and-culture.md already carried a substantial treatment -- the charter text, the oath, the six challenges, the birchbark medium, and the 1979-versus-1980 founding question (f_2110). What was genuinely missing was only the ROLL: 26 of its 29 names. The erroneous claim was made from a grep for the word 'Knights' rather than from reading the section it hit, which is the same failure of method the audit exists to correct.",
+      "claim": "A dining-hall roll plaque for 'The Order of the Knights of Kanawana' ('an honour bestowed upon a select few campers who have excelled in mastering important skills and who reflect the spirit that is Kanawana', crest motto 'Non Nobis') lists knighted campers by year from 1980 to 2009, including Sir Denys Lawrence and Lady Lindsay Hertland (1980) through Sir Dylan Applebaum (2009). || FULL ROSTER AS TRANSCRIBED FROM THE IMAGE (p_292, 2026-08-28, from knights-of-kanawana.jpg): roll: Sir Denys Lawrence (1980); Lady Lindsay Kertland (1980); Sir Elias Furdon (1980); Lady Avril Chaplain (1980); Sir Mark Gillett (1981); Sir Jonathan Shrier (1981); Sir Ian Davis (1981); Sir Craig Gillett (1982); Sir Dave Paltiel (1982); Sir Eyal Artzy (1987); Sir Micheal Zeitzer (1987); Sir Misha Artzy (1988); Sir Adrian Di Giovanni (1992); Lady Susan Gamberg (1992); Sir Andrew Henle (1992); Sir Ryan Harbinson (1992); Sir Matthew Chown (1993); Lady Lauren Katz (1993); Sir Alexander Aylett (1994); Sir Daniel Sokoloff (1994); Sir Christian Eichler (1994); Sir Josh Usheroff (1998); Sir Conor Ohiel (1999); Lady Ali Olshefsky (2002); Sir Ian Braide (2002); Lady Caroline Poole (2002); Sir Scott Harman-Heath (2008); Sir Dylan Applebaum (2009); Sir Dylan O'Brien (2009) | citation: The Order of the Knights of Kanawana is an honour bestowed upon a select few campers who have excelled in mastering important skills and who reflect the spirit that is Kanawana | crest motto: NON NOBIS SOLUM. This fact previously carried 3 of the 29 names on the object. READINGS HELD AT REDUCED CONFIDENCE: Sir Elias Furdon (may be Purdon); Sir Conor Ohiel (very likely CONNOR O'NEIL, who is a CIT in 2000); Lady Caroline Poole and Sir Dylan O'Brien -- both painted in a lighter hand and faded. The text before this marker is the original record and is preserved unchanged. || NAME CORRECTED: 'Lady Lindsay Hertland' is LADY LINDSAY KERTLAND -- and a Lindsay Kertland is a CIT in 1985 (f_1611) and on the 1983 canoe-staff paddle (f_1646), so the misreading was concealing a person this KB already held. (p_292, 2026-08-28.) || CORRECTION TO THE p_291 AUDIT NOTE (p_293, 2026-08-28): that note claimed the Knights of Kanawana appeared in this wiki 'nowhere except passing mentions'. THAT WAS WRONG. traditions-and-culture.md already carried a substantial treatment -- the charter text, the oath, the six challenges, the birchbark medium, and the 1979-versus-1980 founding question (f_2110). What was genuinely missing was only the ROLL: 26 of its 29 names. The erroneous claim was made from a grep for the word 'Knights' rather than from reading the section it hit, which is the same failure of method the audit exists to correct. [CORRECTED 2026-09-05: the 2002 entry read here as 'Caroline Noble' is CAROLINE POOLE, confirmed by the operator who was staff that season (f_4820). The entry is faded and was flagged as unsettled between the two readings from the outset.]",
       "sources": [
         "src_flickr_kanawana_plaque_album"
       ],
@@ -29444,14 +29461,16 @@
       "sources": [
         "src_oral_aronson"
       ],
-      "confidence": "disputed",
+      "confidence": "user_knowledge",
       "category": "directors",
       "entities": [
         "Nicolas Garcia",
         "Sean Day"
       ],
       "date_ref": "2005-2012",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_016"
+      ],
       "added_version": "v4.91",
       "added_by": "oral_history"
     },
@@ -31175,7 +31194,7 @@
       "sources": [
         "src_otoreke_blog_2005"
       ],
-      "confidence": "disputed",
+      "confidence": "inferred",
       "category": "places",
       "entities": [
         "Camp Otoreke",
@@ -31193,7 +31212,7 @@
       "sources": [
         "src_otoreke_blog_2005"
       ],
-      "confidence": "disputed",
+      "confidence": "inferred",
       "category": "people",
       "entities": [
         "Ron Huppfield",
@@ -31820,7 +31839,7 @@
       "sources": [
         "src_wikipedia_alabama_jubilee"
       ],
-      "confidence": "disputed",
+      "confidence": "inferred",
       "category": "people",
       "entities": [
         "Richard Kerr"
@@ -31837,7 +31856,7 @@
         "src_mccord_junior_league_fonds",
         "src_camp_amy_molson_mcgill_paper"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "places",
       "entities": [
         "Junior League Camp",
@@ -31846,7 +31865,8 @@
       ],
       "date_ref": "1921-1944",
       "conflicts_with": [
-        "f_1844"
+        "f_1844",
+        "c_018"
       ],
       "added_version": "v5.04",
       "added_by": "ralph_loop"
@@ -31973,7 +31993,7 @@
       "sources": [
         "src_aca_dimock_award_recipients_2022_2026"
       ],
-      "confidence": "disputed",
+      "confidence": "inferred",
       "category": "people",
       "entities": [
         "Hedley S. Dimock Award"
@@ -31985,7 +32005,7 @@
     },
     {
       "fact_id": "f_1882",
-      "claim": "Two specific claimed identities for the 2019 Camp YMCA Kanawana Pip Alumni Award recipient were investigated and explicitly DEBUNKED, not merely unconfirmed: 'Dr. Amy Ornstein' is a pediatrics faculty member at Dalhousie University (Halifax) specializing in child-maltreatment pediatrics, with no connection whatsoever to Camp Kanawana, YMCA Quebec, or Montreal found in any source. 'David Bryfman' is CEO of The Jewish Education Project (New York); no source connects him to the Pip Award or Camp Kanawana. Both names appear to be search-engine confabulation/conflation (likely with the separately-unverified 2019 ACA Dimock Award claims). Neither should be added to the KB as the 2019 recipient. The 2019-2023 Pip Award recipient gap otherwise remains unresolved after an additional ~20 queries across new surfaces (YMCA Quebec newsroom, Facebook, LinkedIn, Wayback Machine, archive.ph, PressReader, newspapers.com) -- genuinely exhausted for agent-accessible web research.",
+      "claim": "[SUPERSEDED 2026-09-05 AS TO AMY ORNSTEIN, AND THE REASONING BEHIND IT WITHDRAWN. The operator states directly that Amy Ornstein grew up in Montreal and worked at Kanawana, and one search corroborates the Montreal half from her employer's own faculty page: BSc Concordia, MDCM McGill. So the sole stated ground for the 'debunking' -- 'no connection whatsoever to Camp Kanawana, YMCA Quebec, or Montreal found in any source' -- was false against a source on the first page of a basic search. The error was not a failed search but a bad inference: I turned 'I did not find a connection' into 'there is no connection', and wrote DEBUNKED, a word that asserts disproof. Being a Halifax pediatrician is not evidence against having worked at a Quebec camp twenty years earlier; it is a later stage of the same life. The David Bryfman half is NOT debunked either -- it is merely unevidenced, which is a different and weaker claim. See f_4799, f_4800, f_4801.] Two specific claimed identities for the 2019 Camp YMCA Kanawana Pip Alumni Award recipient were investigated and explicitly DEBUNKED, not merely unconfirmed: 'Dr. Amy Ornstein' is a pediatrics faculty member at Dalhousie University (Halifax) specializing in child-maltreatment pediatrics, with no connection whatsoever to Camp Kanawana, YMCA Quebec, or Montreal found in any source. 'David Bryfman' is CEO of The Jewish Education Project (New York); no source connects him to the Pip Award or Camp Kanawana. Both names appear to be search-engine confabulation/conflation (likely with the separately-unverified 2019 ACA Dimock Award claims). Neither should be added to the KB as the 2019 recipient. The 2019-2023 Pip Award recipient gap otherwise remains unresolved after an additional ~20 queries across new surfaces (YMCA Quebec newsroom, Facebook, LinkedIn, Wayback Machine, archive.ph, PressReader, newspapers.com) -- genuinely exhausted for agent-accessible web research.",
       "sources": [
         "src_aca_dimock_award_recipients_2022_2026"
       ],
@@ -32298,7 +32318,7 @@
       "sources": [
         "src_mesaieux_st_pierre"
       ],
-      "confidence": "disputed",
+      "confidence": "inferred",
       "category": "people",
       "entities": [
         "Yves St-Pierre"
@@ -32413,7 +32433,7 @@
       "sources": [
         "src_camp_ouareau_history"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "context",
       "entities": [
         "Camp Ouareau",
@@ -32430,13 +32450,15 @@
       "sources": [
         "src_familysearch_cushing_supp"
       ],
-      "confidence": "disputed",
+      "confidence": "inferred",
       "category": "people",
       "entities": [
         "Walter Edgar Cushing"
       ],
       "date_ref": "1870-1935",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_019"
+      ],
       "added_version": "v5.05",
       "added_by": "ralph_loop"
     },
@@ -32512,7 +32534,7 @@
       "sources": [
         "src_concordia_seaman_fund"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "people",
       "entities": [
         "A. Ross Seaman"
@@ -32593,14 +32615,16 @@
       "sources": [
         "src_burry_thesis_1985"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "context",
       "entities": [
         "Ontario Camping Association",
         "Taylor Statten"
       ],
       "date_ref": "1930-1938",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_020"
+      ],
       "added_version": "v5.05",
       "added_by": "ralph_loop"
     },
@@ -32675,7 +32699,7 @@
       "sources": [
         "src_websearch_edgar_robinson"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "people",
       "entities": [
         "Joanna Hoad"
@@ -33006,7 +33030,9 @@
         "the Kanawana site"
       ],
       "date_ref": null,
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_044"
+      ],
       "added_version": "v5.06",
       "added_by": "ralph_loop"
     },
@@ -33154,7 +33180,7 @@
       "sources": [
         "src_gulf_islands_driftwood_braide_obit"
       ],
-      "confidence": "disputed",
+      "confidence": "inferred",
       "category": "people",
       "entities": [
         "Rob Braide",
@@ -33191,7 +33217,7 @@
       "sources": [
         "src_mediaterre_kanawana_2009"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "programs",
       "entities": [
         "environmental education",
@@ -33261,7 +33287,7 @@
       "sources": [
         "src_mcmorris_thesis"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "context",
       "entities": [
         "Camp Weredale",
@@ -33329,7 +33355,7 @@
       "sources": [
         "src_banq_numerique_general"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "sources",
       "entities": [
         "BAnQ numérique",
@@ -33463,7 +33489,7 @@
       "sources": [
         "src_1951_kamp_kanawana_history"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "chronology",
       "entities": [
         "Kanawana (name)",
@@ -33480,7 +33506,7 @@
       "sources": [
         "src_campratingz_2012"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "programs",
       "entities": [
         "Camp Kanawana",
@@ -33495,7 +33521,7 @@
       "fact_id": "f_1972",
       "claim": "A 9-query sweep for camp legends shared with comparable YMCA/Canadian camps (Pine Crest, John Island, Camp Weredale, Camp Ouareau) found no published, camp-specific ghost story matching Kanawana's for any of them. Camp Weredale was independently reconfirmed to be a Rotary Club/Batshaw-affiliated at-risk-youth camp, not a YMCA-of-Montreal camp. An American Camp Association message-board thread on camp ghost stories confirmed the same generic archetypes already documented in this wiki, but contained no Canadian or YMCA-specific references at all.",
       "sources": [],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "programs",
       "entities": [
         "Camp Kanawana",
@@ -33553,7 +33579,9 @@
         "Camp Perrot"
       ],
       "date_ref": "1958-1964",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_045"
+      ],
       "added_version": "v5.07",
       "added_by": "ralph_loop"
     },
@@ -33891,7 +33919,9 @@
         "Order of Owens"
       ],
       "date_ref": "2008-2009",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_046"
+      ],
       "added_version": "v5.11",
       "added_by": "manual"
     },
@@ -33914,7 +33944,7 @@
     },
     {
       "fact_id": "f_1997",
-      "claim": "The L&V Games annual trophy's shields have NOT been reliably transcribed: the available photographs are angled, several plaques sit behind the crossed paddle and axe, and older shields are faded or silvered. A careful read would yield a near-complete 79-season winners roll and settle which season was skipped, which currently rests on arithmetic from YMCA Quebec's '78th edition' claim for 2025.",
+      "claim": "[SUPERSEDED 2026-08-14: the shields WERE subsequently transcribed -- see f_2000 (1947-1975) and f_2001 (1976-2025), with the four illegible shields supplied by the operator in f_2010. The skipped season is 2021, read off the trophy, not inferred from arithmetic.] The L&V Games annual trophy's shields have NOT been reliably transcribed: the available photographs are angled, several plaques sit behind the crossed paddle and axe, and older shields are faded or silvered. A careful read would yield a near-complete 79-season winners roll and settle which season was skipped, which currently rests on arithmetic from YMCA Quebec's '78th edition' claim for 2025.",
       "sources": [
         "src_photo_lv_annual_trophy"
       ],
@@ -34855,7 +34885,7 @@
         "src_ia_kanawana_report_1977",
         "src_ia_kanawana_report_1978"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "people",
       "entities": [
         "Derek V. Walsh",
@@ -35113,7 +35143,7 @@
       "fact_id": "f_2067",
       "claim": "CORRECTION: no source establishes that R. L. Charlton appears in Joyce Oliver's 1939-1940 \"Material for Book of Remembrance and History\" (Concordia sub-series 13D). rl-charlton.md asserted this without a citation until 2026-08-14. The KB fact behind that project (f_1913) names D. A. Budge, not Charlton, and records the contents as not yet read. The claim is removed; the project remains a genuine unread founding-era lead.",
       "sources": [],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "meta",
       "entities": [
         "R. L. Charlton",
@@ -35136,7 +35166,9 @@
         "Ralph Dawson"
       ],
       "date_ref": null,
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_047"
+      ],
       "added_version": "v5.22",
       "added_by": "manual",
       "placement": "kb_only",
@@ -35146,7 +35178,7 @@
       "fact_id": "f_2069",
       "claim": "UNCONFIRMED IDENTIFICATION: the \"Advance Guard '63\" dining-hall plaque names a \"Rick Patten\" alongside Julien Tasse, Wally Leemans, Rusty McKay, Buppy Warren, John Clement and Ron Parker. richard-patten.md stated as fact that this is the Ontario MPP Richard Patten (1942-2021) until 2026-08-14. Nothing links them. Against: directors-index.md independently records Patten's camp involvement as the Montreal YMCA DAY camps, not residential Kanawana, and he would have been 21 in 1963. For: \"Rick\" is a standard short form of Richard, the surname is uncommon, and he was a Montreal YMCA figure in that period. Plausible, unproven.",
       "sources": [],
-      "confidence": "disputed",
+      "confidence": "inferred",
       "category": "people",
       "entities": [
         "Richard Patten",
@@ -36006,7 +36038,9 @@
         "Council Ring"
       ],
       "date_ref": "1954",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_048"
+      ],
       "added_version": "v5.26",
       "added_by": "ralph_loop"
     },
@@ -36061,7 +36095,9 @@
         "Dining Hall"
       ],
       "date_ref": "1880-1927",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_049"
+      ],
       "added_version": "v5.26",
       "added_by": "ralph_loop"
     },
@@ -36512,7 +36548,9 @@
         "Kamp Kanawana"
       ],
       "date_ref": "1940",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_050"
+      ],
       "added_version": "v5.30",
       "added_by": "ralph_loop"
     },
@@ -37084,7 +37122,9 @@
         "Camp Jubilee"
       ],
       "date_ref": "1909-1922",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_051"
+      ],
       "added_version": "v5.34",
       "added_by": "ralph_loop"
     },
@@ -37379,7 +37419,7 @@
       "sources": [
         "src_ebay_valcartier_ymca_postcard"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "sources",
       "entities": [
         "Camp Valcartier"
@@ -37541,7 +37581,7 @@
       "sources": [
         "src_ymca_125th_2019"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "meta",
       "entities": [
         "Kamp Kanawana"
@@ -37606,7 +37646,7 @@
         "src_ymcaquebec_annualreport_2015",
         "src_ymcakanawana_predecessor_domain_cache"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "meta",
       "entities": [
         "Kamp Kanawana"
@@ -37639,7 +37679,7 @@
         "src_acq_kanawana_listing",
         "src_ymcaquebec_kanawana_history"
       ],
-      "confidence": "disputed",
+      "confidence": "inferred",
       "category": "connections",
       "entities": [
         "Association des camps du Quebec"
@@ -37813,7 +37853,7 @@
         "src_guysborough_journal",
         "src_cbc_archives_pageant"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "connections",
       "entities": [
         "Centennial Voyageur Canoe Pageant"
@@ -37830,7 +37870,7 @@
         "src_cmat_caddell_obituary",
         "src_cja_annual_2008"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "sources",
       "entities": [
         "James Caddell"
@@ -38104,7 +38144,7 @@
         "src_ontario_archives_potter_hill",
         "src_loc_crs_collection"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "meta",
       "entities": [
         "sources.json"
@@ -38252,7 +38292,7 @@
       "sources": [
         "src_banq_le_petit_journal_collection"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "sources",
       "entities": [
         "BAnQ"
@@ -38361,7 +38401,7 @@
         "src_cbc_wong_camps_2021",
         "src_wikipedia_gaetane_verna"
       ],
-      "confidence": "disputed",
+      "confidence": "inferred",
       "category": "people",
       "entities": [
         "Gaetane Verna",
@@ -38574,7 +38614,7 @@
       "sources": [
         "src_concordia_p0145_full_findingaid_pdf"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "documents",
       "entities": [
         "Kamp Kanawana",
@@ -38944,7 +38984,9 @@
         "Camp Jubilee"
       ],
       "date_ref": "1949",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_033"
+      ],
       "added_version": "v5.49",
       "added_by": "ralph_loop"
     },
@@ -42824,7 +42866,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_052"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -43631,7 +43675,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_053"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -45981,7 +46027,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_033"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -46148,7 +46196,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_041"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -46494,7 +46544,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_039"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -47040,7 +47092,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_039"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -49046,7 +49100,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_033"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -49643,7 +49699,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_032"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -49661,7 +49719,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_034"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -51126,7 +51186,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_033"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -51595,7 +51657,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_033"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -54070,7 +54134,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_033"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -55294,7 +55360,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_034"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -56727,7 +56795,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_035"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -57096,7 +57166,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_034"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -57433,7 +57505,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_030"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -57756,7 +57830,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_042"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -58119,7 +58195,7 @@
       "entities": [
         "Mary S. Edgar"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "claim": "A second Mary S. Edgar Centennial hymn, distinct from \"Canada's Our Country\" of 1967, printed in Spring 1969: \"This Fair Land, Our Canada -- A Centennial Hymn... by Mary S. Edgar,\" sung to Saints' Days and Other Holy Days and \"Accepted by the Canadian Interfaith Committee for the Centennial collection.\" Note a source problem: the hymn is bylined \"By: D. W. Dearle (Anglican Hymn Book)\" at the head and signed \"-- Mary S. Edgar\" at the foot. Most likely Dearle is the tune's composer and Edgar the author, but as printed it is ambiguous.",
       "sources": [
         "src_ia_canadian_camping_collection"
@@ -61185,7 +61261,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_056"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -61386,7 +61464,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_036"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -62372,7 +62452,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_037"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -63477,7 +63559,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_038"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -65914,7 +65998,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_058"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -66131,7 +66217,7 @@
         "Camp Kandalore",
         "Ron Johnstone"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "date_ref": "1972-09-28",
       "sources": [
         "src_ia_canadian_camping_collection"
@@ -67318,7 +67404,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_057"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -71365,7 +71453,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_054"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -71833,7 +71923,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_033"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -74161,7 +74253,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_035"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -75156,7 +75250,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_055"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -75815,7 +75911,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_055"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -76753,7 +76851,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_041"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -81285,7 +81385,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_058"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -81376,7 +81478,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_060"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -81917,7 +82021,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_033"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -82227,7 +82333,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_059"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -84115,6 +84223,1739 @@
       "conflicts_with": [],
       "added_version": "6.06",
       "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4739",
+      "claim": "The YMCA of Greater Halifax/Dartmouth's own 165th anniversary yearbook states on page 8: \"Our very own Big Cove YMCA Camp, in Pictou County, Nova Scotia, is the oldest continuously running residential camp in Canada.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Big Cove YMCA Camp",
+        "YMCA of Greater Halifax/Dartmouth"
+      ],
+      "date_ref": "2023",
+      "sources": [
+        "src_ymca_halifax_165th_yearbook"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [
+        "c_031"
+      ],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4740",
+      "claim": "The same YMCA of Greater Halifax/Dartmouth yearbook, in its historical timeline on page 28, records: \"1975 - 1980 Big Cove Camp operated the last season since opening as the children's residential summer camp, until 1980 when it reopened for resident camping once again.\" Resident camping therefore ceased after the 1975 season and resumed in 1980 -- four missed summers, 1976 through 1979.",
+      "category": "camping_movement",
+      "entities": [
+        "Big Cove YMCA Camp",
+        "YMCA of Greater Halifax/Dartmouth"
+      ],
+      "date_ref": "1975-1980",
+      "sources": [
+        "src_ymca_halifax_165th_yearbook"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [
+        "c_031"
+      ],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4741",
+      "claim": "One publication of the YMCA of Greater Halifax/Dartmouth contains both the claim that Big Cove is \"the oldest continuously running residential camp in Canada\" (p. 8) and a timeline entry recording that its resident camping stopped after 1975 and did not resume until 1980 (p. 28). The two statements are twenty pages apart and the publication does not reconcile them.",
+      "category": "methodology",
+      "entities": [
+        "Big Cove YMCA Camp",
+        "YMCA of Greater Halifax/Dartmouth"
+      ],
+      "date_ref": "2023",
+      "sources": [
+        "src_ymca_halifax_165th_yearbook"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [
+        "c_031"
+      ],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4742",
+      "claim": "Big Cove's four-summer gap was a closure and recovery, not a planned fallow period. Kelley Byrne, the camp's own director, wrote in 1987 that it \"closed in 1976 for want of repairs and reopened in 1980\"; the owner's 2023 yearbook independently records 1975 as the last season before it \"reopened for resident camping once again\" in 1980. Both sources describe a cessation followed by a reopening, and the stated cause is the physical condition of the plant.",
+      "category": "camping_movement",
+      "entities": [
+        "Big Cove YMCA Camp",
+        "Kelley Byrne"
+      ],
+      "date_ref": "1976-1980",
+      "sources": [
+        "src_ymca_halifax_165th_yearbook",
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4743",
+      "claim": "Big Cove YMCA Camp's current website claims it is \"Canada's oldest overnight camp\" with roots \"back to 1889\" and makes no mention of the 1976-1979 interruption. Its Wikipedia article likewise gives a 1889 founding and records no closure. Explicit null on both surfaces.",
+      "category": "sources",
+      "entities": [
+        "Big Cove YMCA Camp"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymcahfx_bigcove_page"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4744",
+      "claim": "The Camp Stephens Alumni blog states in a December 2020 post that COVID-19 \"Restrictions made it impossible to open camp this past summer (the first closure since 1917).\" The alumni association therefore dates the camp's First World War closure to 1917. Secondary summaries of the camp's history give 1918 instead; the two are not reconciled here and no source consulted gives both.",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Stephens"
+      ],
+      "date_ref": "1917",
+      "sources": [
+        "src_campstephens_alumni_blog"
+      ],
+      "confidence": "disputed",
+      "conflicts_with": [
+        "c_061"
+      ],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4745",
+      "claim": "An August 2020 Camp Stephens Alumni post records that \"Due to the pandemic, in the best interest of the health and safety of campers, staff and the surrounding community, camp and the wilderness canoe program was cancelled in May,\" and that \"With no campers, camp has no income. Yet the work still has to get done.\" Camp Stephens therefore lost the 2020 season. Camp Stephens is at Kenora, Ontario, so the prohibition that closed it was Ontario's, not Manitoba's.",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Stephens"
+      ],
+      "date_ref": "2020",
+      "sources": [
+        "src_campstephens_alumni_blog"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4746",
+      "claim": "The Camp Stephens Alumni blog claims that \"One of the reasons why Camp Stephens is the longest-serving summer camp in Canada is due to the generosity of alumni and our donors.\" This is a third distinct superlative in play, alongside Big Cove's \"oldest continuously running residential camp in Canada\" and Kanawana's withdrawn \"second-oldest.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Stephens"
+      ],
+      "date_ref": "2020",
+      "sources": [
+        "src_campstephens_alumni_blog"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4747",
+      "claim": "EXPLICIT NULL: whether Camp Stephens operated in the summer of 2021 could not be established. Its own site, its About Us page and the alumni blog's 2021 archive say nothing about that season, and the alumni blog's only 2021 post concerns an unrelated island preservation effort. Recorded as unknown, not as evidence that it ran.",
+      "category": "methodology",
+      "entities": [
+        "Camp Stephens"
+      ],
+      "date_ref": "2021",
+      "sources": [
+        "src_campstephens_alumni_blog",
+        "src_ywinnipeg_camp_stephens"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4748",
+      "claim": "Camp Stephens' own current pages give 1891 for the first Winnipeg YMCA camp at Keewatin Beach on Lake of the Woods, 1893 for the location of the five-island site, 1896 for the adoption of the name Camp Stephens, and \"over 130 years\" of operation. EXPLICIT NULL: they record no closure of any kind, neither the wartime one their own alumni association documents nor the 2020 one.",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Stephens",
+        "YMCA-YWCA of Winnipeg"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ywinnipeg_camp_stephens"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4749",
+      "claim": "Big Cove YMCA Camp also lost its overnight seasons to COVID-19 and, like Kanawana, kept its site in alternative use rather than ceasing operations: in 2020 it did not run overnight camp but allowed families to rent cabins, and in 2021 it operated as a campground offering canoeing and archery and sustained itself through its leadership training programme, returning to normal operations in 2022. The distinction between a camp that closed and a camp that kept staff and site working therefore does not separate Kanawana from Big Cove in 2020-21.",
+      "category": "camping_movement",
+      "entities": [
+        "Big Cove YMCA Camp",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2020-2022",
+      "sources": [
+        "src_cbc_bigcove_pandemic_summers"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4750",
+      "claim": "All three claimants to \"Canada's oldest camp\" lost overnight seasons to COVID-19 in 2020, and at least Kanawana and Big Cove lost 2021 as well. The pandemic interruption is therefore common to the sector and does not distinguish any claimant from another; it is the interruptions BEFORE 2020 that differ.",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana",
+        "Big Cove YMCA Camp",
+        "Camp Stephens"
+      ],
+      "date_ref": "2020-2021",
+      "sources": [
+        "src_campstephens_alumni_blog",
+        "src_cbc_bigcove_pandemic_summers",
+        "src_ymf_ymca_impact_report_2022_eng"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4751",
+      "claim": "Measured as the longest unbroken run of consecutive seasons, Kanawana leads every claimant: 1894 to 2019 inclusive is 126 consecutive seasons. Camp Stephens, closed in 1917 by its alumni association's own account, has a longest run of about 102 seasons (1918-2019). Big Cove, whose resident camping ceased after 1975, has a longest run of about 87 seasons (1889-1975) and only 40 since reopening (1980-2019). This holds on any of Big Cove's three candidate founding dates.",
+      "category": "founding",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Stephens",
+        "Big Cove YMCA Camp"
+      ],
+      "date_ref": "1894-2019",
+      "sources": [
+        "src_ymca_halifax_165th_yearbook",
+        "src_campstephens_alumni_blog"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4752",
+      "claim": "The 126-consecutive-season figure for Kanawana depends on the camp having missed no season between 1894 and 2019. No source records a missed season, and the years most likely to have broken the run are documented as operating: the camp ran through both world wars with boy-weeks flat to rising across 1940-45, ran in 1918 with 223 campers while Camp Stephens did not run, and stayed open through the 1946 polio outbreak on Dr. Cushing's advice with only canoe trips cancelled. But the attendance series has no figure at all for many years, and absence of a figure is not evidence of operation. The claim is stated on that basis and the assumption is named.",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1894-2019",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1894_1895"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4753",
+      "claim": "Camp Dudley, founded by Sumner F. Dudley, dates its origin to 1884, when Dudley \"was asked in 1884 to take 'young honor YMCA members' camping,\" and to 1885, when \"he took seven boys for a week's encampment at Orange Lake, N. J.\" It describes itself as \"the oldest continually running boys camp in the United States.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Dudley",
+        "Sumner F. Dudley"
+      ],
+      "date_ref": "1884-1885",
+      "sources": [
+        "src_wikipedia_camp_dudley"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4754",
+      "claim": "THE GOLDEN LAKE 1884 CLAIM APPEARS TO BE AN ARTEFACT, NOT A CANADIAN CAMP. The February 1955 Ontario survey asserted \"In Canada in 1884, the Ottawa Y went camping at Golden Lake and in all probability established the first Canadian camp.\" 1884 is Sumner Dudley's date -- the year the American YMCA camping movement's founder was asked to take boys camping, a year before the first camp at Orange Lake, New Jersey. The Ottawa YMCA did not reach Golden Lake until 1908, on the independent agreement of Ace Milks's own account and a Lost Ottawa photograph caption. The survey appears to have grafted the American movement's origin year onto a Canadian site the Ottawa Y occupied twenty-four years later.",
+      "category": "methodology",
+      "entities": [
+        "Camp Dudley",
+        "Ottawa YMCA",
+        "Golden Lake"
+      ],
+      "date_ref": "1884-1908",
+      "sources": [
+        "src_wikipedia_camp_dudley",
+        "src_lostottawa_ondadawaks",
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [
+        "c_031"
+      ],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4755",
+      "claim": "Camp On-Da-Da-Waks, the Ottawa YMCA's camp at Golden Lake, was founded in 1908 -- agreeing with Ace Milks's account in Canadian Camping that he attended the Ottawa YMCA camp at Marshall's Bay in 1907 and that it moved to Golden Lake in 1908 \"because there was too much sawdust in the water.\" Golden Lake is therefore not a candidate for the earliest Canadian camp.",
+      "category": "camping_movement",
+      "entities": [
+        "Camp On-Da-Da-Waks",
+        "Ottawa YMCA",
+        "Golden Lake"
+      ],
+      "date_ref": "1908",
+      "sources": [
+        "src_lostottawa_ondadawaks",
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4756",
+      "claim": "With the Golden Lake 1884 claim resolved as an artefact, the surviving pre-1894 rival to Kanawana from the Ottawa YMCA is 1893 -- the date Charles Plewman, who directed for the Ottawa Y himself, gives in December 1964: \"When the Ottawa YMCA in 1893, and Camp Temagami in 1900, began taking older boys to camp, they were really breaking new ground.\" That is one year before Kanawana's first season and remains untested.",
+      "category": "camping_movement",
+      "entities": [
+        "Charles Plewman",
+        "Ottawa YMCA",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1893",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4757",
+      "claim": "YMCA Camp Pine Crest states on its own pages that it has been \"Operating continually since 1910 on Clear Lake\" and is \"one of the longest operating summer camps in North America.\" Its longest possible unbroken run to 2019 is therefore about 110 seasons, against Kanawana's 126.",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Pine Crest"
+      ],
+      "date_ref": "1910",
+      "sources": [
+        "src_ymcagta_pinecrest_games"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4758",
+      "claim": "The YMCA of Greater Toronto states: \"Since 1940, the Pine Crest community has come together every summer for The Pine Crest Games\" -- a two-day all-camp competition between two teams, the Voyageurs and the Lumbermen. Pine Crest's version therefore predates Kanawana's 1947 adoption by seven years.",
+      "category": "traditions",
+      "entities": [
+        "Camp Pine Crest",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1940",
+      "sources": [
+        "src_ymcagta_pinecrest_games"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4759",
+      "claim": "EXPLICIT NULL ON THE TRANSMISSION OF L&V. Neither the YMCA of Greater Toronto's account of the Pine Crest Games nor any source consulted says who created the Games, why the teams were named Lumbermen and Voyageurs, or whether the tradition moved between camps. How the competition reached Kanawana in 1947 is undocumented on every surface searched. The camp's own centennial history, \"Lumbermen & Voyageurs: The YMCA Pine Crest Story,\" is the most likely place for an answer and has not been read.",
+      "category": "methodology",
+      "entities": [
+        "Camp Pine Crest",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1940-1947",
+      "sources": [
+        "src_ymcagta_pinecrest_games"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4760",
+      "claim": "Kanawana's L&V Games began in the summer of 1947, and Roy D. Locke \"became Camp Chief during the summer of '47\" in the same season. No source consulted connects Locke to Camp Pine Crest or to Toronto, and no document states who introduced the competition. The coincidence of dates is recorded as a lead, not as an explanation.",
+      "category": "traditions",
+      "entities": [
+        "Roy D. Locke",
+        "Camp Kanawana",
+        "Camp Pine Crest"
+      ],
+      "date_ref": "1947",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4761",
+      "claim": "BIG COVE HAS NO LUMBERMEN-AND-VOYAGEURS COMPETITION ON THE EVIDENCE AVAILABLE. Its programme sections are Little Big Cove, Juniors, Seniors and Leadership (L1 and L2), and the tradition its Wikipedia article names is \"the Keeper of the Cove.\" There is no Voyageur section, no Lumbermen team and no colour-war competition. What Big Cove does have is a \"Voyageur program\" dating to the late 1940s -- an advanced outtripping track \"challenging older youth to develop expert outtripping, canoeing, axemanship and woodcraft skills\" -- and a place on site called the Voyageur Trail. The shared word is fur-trade vocabulary common to Canadian camping, not a shared institution.",
+      "category": "traditions",
+      "entities": [
+        "Big Cove YMCA Camp",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1940s-2026",
+      "sources": [
+        "src_wikipedia_big_cove_sections",
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4762",
+      "claim": "The 1989 relay campfire marking the Centenary of YMCA Camping in Canada involved Kanawana and twenty-eight other YMCA camps, each burning a campfire for one hour of a twenty-nine hour relay. That gives a count of approximately twenty-nine YMCA camps in Canada in 1989.",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA"
+      ],
+      "date_ref": "1989",
+      "sources": [
+        "src_ia_ymca_montreal_fonds_collection"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4763",
+      "claim": "YMCA overnight camps identifiable in Canada in 2026 across the surfaces searched: Camp Kanawana (Saint-Sauveur, Quebec); Big Cove (Sutherlands River, Nova Scotia); YM-YWCA Camp Stephens (Lake of the Woods, near Kenora, Ontario, run from Winnipeg); YMCA Camp Pine Crest (Torrance, Muskoka, Ontario, YMCA of Greater Toronto); YMCA Wanakita (Haliburton, Ontario, YMCA of Hamilton-Burlington-Brantford); and YMCA Camp Elphinstone (Gibsons, British Columbia). YMCA Camp Kanannaq near Prince George runs day camps only. This is a floor, not a complete roster: ymca.ca's national camps page names no individual camps at all.",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Kanawana",
+        "Big Cove YMCA Camp",
+        "Camp Stephens",
+        "Camp Pine Crest",
+        "YMCA Camp Wanakita",
+        "Camp Elphinstone"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymcabc_camps",
+        "src_ymcagta_pinecrest_games",
+        "src_ymcahfx_bigcove_page",
+        "src_ywinnipeg_camp_stephens"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4764",
+      "claim": "The number of YMCA camps in Canada appears to have fallen sharply since 1989, when twenty-nine took part in the centenary relay. Stan Symington's 1953 tour of eastern Canada alone named nine YMCA camps -- Naskapie, Pascobac, Wapomeo, Barachois, Magaguadavic, Y's Acres, Sherbrooke, Holland Cove and Big Cove -- of which only Big Cove is identifiable as still operating. This is a comparison of two lists gathered by different methods, not a measured decline, and is recorded as an observation requiring proper testing.",
+      "category": "camping_movement",
+      "entities": [
+        "YMCA",
+        "Big Cove YMCA Camp"
+      ],
+      "date_ref": "1953-2026",
+      "sources": [
+        "src_ia_canadian_camping_collection",
+        "src_ia_ymca_montreal_fonds_collection"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4765",
+      "claim": "YMCA Hayo-Went-Ha Camps (founded 1904, Central Lake, Michigan) use \"Woodsmen\" and \"Voyageurs\" as programme group names, and the wider \"colour war\" genre is documented by historian Leslie Paris as originating with \"Red and Gray Week\" in 1916 at Schroon Lake Camp in the Adirondacks. Kanawana's L&V is therefore best understood as a Canadian YMCA fur-trade-themed variant of a North American camp form, rather than as a tradition unique to Pine Crest and Kanawana.",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Pine Crest",
+        "Leslie Paris"
+      ],
+      "date_ref": "1904-1947",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4766",
+      "claim": "YMCA CAMP KITCHIKEWANA RUNS THE LUMBERMAN AND VOYAGEUR GAMES -- A THIRD CANADIAN YMCA CAMP WITH THE TRADITION. Its programmes page names the \"Lumberman and Voyageur Games\" among the special programmes of its two-week Traditional Camp, alongside the Annual Musical, Sailing Regattas and Talent Show. This corrects this project's earlier statement that only Camp Pine Crest and Kanawana are documented as running the competition.",
+      "category": "traditions",
+      "entities": [
+        "YMCA Camp Kitchikewana",
+        "Camp Pine Crest",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymca_simcoe_kitchikewana"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.09",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4767",
+      "claim": "YMCA Camp Kitchikewana is on Beausoleil Island in Georgian Bay Islands National Park, Honey Harbour, Ontario, operated by the YMCA of Simcoe/Muskoka and founded by the Midland YMCA. Its own pages state \"YMCA Camp Kitchikewana has been in operation since 1919\" and \"For the last 105 years YMCA Camp Kitchikewana has been offering a values based camp experience.\"",
+      "category": "camping_movement",
+      "entities": [
+        "YMCA Camp Kitchikewana",
+        "Midland YMCA",
+        "Beausoleil Island"
+      ],
+      "date_ref": "1919",
+      "sources": [
+        "src_ymca_simcoe_kitchikewana"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.09",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4768",
+      "claim": "A DATE CONFLICT ON KITCHIKEWANA'S FOUNDING, CARRIED IN THIS PROJECT'S OWN RECORDS. The camp and this KB give 1919, but C. R. \"Blackie\" Blackstock's 1979 obituary and the 1984 Ebbs tribute both describe him as a Kitchikewana \"original\" who \"started the first year of that 'Y' camp on Beausoleil Island in 1921 as a very young counsellor\" under Ernie Thurlow. Two years apart, and the 1921 version comes from a man who says he was there. Not resolved here.",
+      "category": "camping_movement",
+      "entities": [
+        "YMCA Camp Kitchikewana",
+        "C. R. Blackstock",
+        "Ernie Thurlow"
+      ],
+      "date_ref": "1919-1921",
+      "sources": [
+        "src_ymca_simcoe_kitchikewana",
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "disputed",
+      "conflicts_with": [
+        "c_062"
+      ],
+      "added_version": "6.09",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4769",
+      "claim": "EXPLICIT NULL: when the Lumberman and Voyageur Games began at Camp Kitchikewana, and whether they arrived from Camp Pine Crest, travelled to it, or developed independently, is not stated on the camp's own pages or on any surface searched. The camp's founding in 1919 predates Pine Crest's Games (1940) by twenty-one years, so Kitchikewana cannot be ruled out as an earlier or parallel source of the tradition on present evidence. Know History's commissioned study \"Rooted: Beausoleil Island\" has a chapter on the camp and is the most likely published source; it returns HTTP 403 to this project's fetch tool and has not been read.",
+      "category": "methodology",
+      "entities": [
+        "YMCA Camp Kitchikewana",
+        "Camp Pine Crest"
+      ],
+      "date_ref": "1919-2026",
+      "sources": [
+        "src_ymca_simcoe_kitchikewana",
+        "src_knowhistory_beausoleil"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.09",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4770",
+      "claim": "Kitchikewana already has documented points of contact with Kanawana independent of the L&V Games. Austin Matthews, General Secretary of the Midland YMCA and Director of Camp Kitchikewana, described a fully documented school-camp week in autumn 1967 -- 170 grade-four children of the Midland public school system in three five-day groups -- which is the clearest model in the Canadian Camping run of the arrangement that later became Kanawana's own outdoor-education work with schools. Charles Plewman was \"instrumental in organising some thirty-five camps, notably the training camp at Beausoleil Island, Georgian Bay.\" And Camp Kitchikewana supplied the name of YMCA Camp Wanakita, taken from its own Wanakita Beach.",
+      "category": "camping_movement",
+      "entities": [
+        "YMCA Camp Kitchikewana",
+        "Austin Matthews",
+        "Charles Plewman",
+        "YMCA Camp Wanakita",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1919-1967",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.09",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4771",
+      "claim": "Camp Kitchikewana is a seventh YMCA overnight camp operating in Canada in 2026, missing from this project's earlier list of six, which was explicitly recorded as a floor rather than a roster. Its presence confirms that the floor was too low and that no complete list of Canadian YMCA camps has been assembled from any national source.",
+      "category": "camping_movement",
+      "entities": [
+        "YMCA Camp Kitchikewana",
+        "YMCA"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymca_simcoe_kitchikewana"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.09",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4772",
+      "claim": "Kitchikewana's \"in operation since 1919\" and \"for the last 105 years\" is a fourth long-continuity claim among Canadian YMCA camps, alongside Big Cove's \"oldest continuously running residential camp in Canada\", Camp Stephens' \"longest-serving summer camp in Canada\" and Camp Pine Crest's \"operating continually since 1910\". Founded 1919, its longest possible unbroken run to 2019 is about 101 seasons, behind Kanawana's 126. Whether it lost seasons to the wars or to COVID-19 is not stated on its own pages.",
+      "category": "camping_movement",
+      "entities": [
+        "YMCA Camp Kitchikewana",
+        "Big Cove YMCA Camp",
+        "Camp Stephens",
+        "Camp Pine Crest",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1919-2026",
+      "sources": [
+        "src_ymca_simcoe_kitchikewana"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.09",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4773",
+      "claim": "A FOURTH CAMP RUNS THE TRADITION. RKY Camp at Parham, Ontario, on Eagle Lake, states: \"The RKY Games is a special 3-day camp-wide competition in 4th Session between the Lumbermen and Voyageurs.\" With Camp Pine Crest, Kanawana and Camp Kitchikewana, that makes four Canadian camps documented as running a Lumbermen-and-Voyageurs competition.",
+      "category": "traditions",
+      "entities": [
+        "RKY Camp",
+        "Camp Pine Crest",
+        "Camp Kanawana",
+        "YMCA Camp Kitchikewana"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_rky_camp"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.10",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4774",
+      "claim": "RKY Camp's initials stand for Rotary, Kiwanis and YMCA: it was founded jointly by the Rotary Club of Kingston, the Kingston Kiwanis Club and the Kingston YMCA, and is described as the only camp in Ontario jointly owned by three service clubs. The Chair of the YMCA Committee, Professor C. E. Walker of Queen's University, approached the two service clubs in 1929; on 3 July 1930 a 25-acre site was purchased from W. Goodfellow and J. Snider for $925.00, with the YMCA supplying about $500.00 of equipment. \"The name RKY Eagle Lake Camp was decided to be both 'representative and pronounceable'.\"",
+      "category": "camping_movement",
+      "entities": [
+        "RKY Camp",
+        "Kingston YMCA",
+        "C. E. Walker"
+      ],
+      "date_ref": "1929-1930",
+      "sources": [
+        "src_rky_camp"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.10",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4775",
+      "claim": "The Kingston YMCA had offered annual camping experiences for local boys as early as 1902, before the permanent RKY site was acquired -- another instance of the pattern by which an association's camping predates the camp it is remembered by, as at Montreal (1891-93 before 1894), Winnipeg (Keewatin Beach 1891 before the islands) and the Maritimes.",
+      "category": "camping_movement",
+      "entities": [
+        "Kingston YMCA",
+        "RKY Camp"
+      ],
+      "date_ref": "1902",
+      "sources": [
+        "src_rky_camp"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.10",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4776",
+      "claim": "RKY CAMP CLOSED FOR THE WAR AND KANAWANA DID NOT. RKY's own history states: \"In 1943 RKY Camp was forced to close down due to a lack of staff. It reopened in 1945.\" Kanawana ran both of those seasons -- the attendance series gives 1,343 boy-weeks for 1943 and 1,450 for 1944, the second of those its highest figure of the war. This is the second documented wartime closure among the camps compared in this project, after Camp Stephens in 1917 or 1918, and Kanawana operated through both.",
+      "category": "camping_movement",
+      "entities": [
+        "RKY Camp",
+        "Camp Kanawana",
+        "Camp Stephens"
+      ],
+      "date_ref": "1943-1945",
+      "sources": [
+        "src_rky_camp",
+        "src_cache_sgw_ymca_annual_report_1894_1895"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.10",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4777",
+      "claim": "EXPLICIT NULL: RKY Camp's own history page does not date the RKY Games or say where the Lumbermen-and-Voyageurs idea came from, exactly as Camp Kitchikewana's and Camp Pine Crest's pages do not. Three of the four camps running the tradition give no origin for it, and the only dated adoption in the group is Kanawana's own, 1947.",
+      "category": "methodology",
+      "entities": [
+        "RKY Camp",
+        "YMCA Camp Kitchikewana",
+        "Camp Pine Crest",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_rky_camp",
+        "src_ymca_simcoe_kitchikewana",
+        "src_ymcagta_pinecrest_games"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.10",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4778",
+      "claim": "ALL FOUR CAMPS RUNNING THE LUMBERMEN-AND-VOYAGEURS COMPETITION HAVE YMCA ROOTS, AND THREE OF THE FOUR ARE IN ONTARIO. Camp Pine Crest (Muskoka, YMCA of Greater Toronto), Camp Kitchikewana (Georgian Bay, YMCA of Simcoe/Muskoka) and RKY Camp (Eagle Lake near Kingston, founded in part by the Kingston YMCA) are Ontario camps; Kanawana, in the Quebec Laurentians, is the outlier. Kanawana is also the only one of the four whose adoption of the tradition carries a date, 1947. The shape of the evidence is an Ontario YMCA camp tradition that reached Quebec, but the direction and the mechanism remain undocumented.",
+      "category": "traditions",
+      "entities": [
+        "Camp Pine Crest",
+        "YMCA Camp Kitchikewana",
+        "RKY Camp",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1919-1947",
+      "sources": [
+        "src_rky_camp",
+        "src_ymca_simcoe_kitchikewana",
+        "src_ymcagta_pinecrest_games"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.10",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4779",
+      "claim": "The count of camps documented as running the Lumbermen-and-Voyageurs competition has risen from two to four within a day, both additions supplied by the operator rather than by any search this project ran. The working conclusion should be that the tradition is more widespread than the evidence assembled here shows, and that the number four is a floor.",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_rky_camp",
+        "src_ymca_simcoe_kitchikewana"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.10",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4780",
+      "claim": "P_409 SURVEY, INSTRUMENT FOUND. The Ontario Camps Association publishes a browsable member directory of 163 camps and outdoor education centres at ontariocampsassociation.ca/find/camp-directory/, paginated alphabetically by a ?alpha=N parameter. Its Y page carries 61 YMCA and YWCA entries. This is the systematic instrument the earlier attempt to count Canadian YMCA camps lacked, and it was not found by any of the general searches run before.",
+      "category": "methodology",
+      "entities": [
+        "Ontario Camps Association",
+        "YMCA"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_oca_camp_directory"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.11",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4781",
+      "claim": "THIS PROJECT'S EARLIER COUNT OF YMCA CAMPS WAS BADLY LOW. The points-of-contact article named six, then seven, YMCA overnight camps in Canada and called the number a floor. The OCA directory alone lists 61 YMCA and YWCA entries in Ontario, of which more than a dozen are overnight camps or outdoor education centres rather than branch day camps -- Pine Crest, Kitchikewana, Wanakita, Waabanaki, Belwood, Ki-Wa-Y, Heidelberg, Tillicum, John Island, Camp Henry, Camp Queen Elizabeth, Otonabee, Geneva Park, Cedar Glen and Rotary Youth Camp Presqu'ile among them. The earlier figure was assembled from famous names and should be read as a count of what this project had heard of, not of what exists.",
+      "category": "camping_movement",
+      "entities": [
+        "YMCA",
+        "Ontario Camps Association"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_oca_camp_directory"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.11",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4782",
+      "claim": "TWO YMCA CAMPS SHARE BEAUSOLEIL ISLAND. YMCA Camp Kitchikewana (YMCA of Simcoe/Muskoka, from 1919) and YMCA Camp Queen Elizabeth (YMCA of Southwestern Ontario, since 1953) both operate on Beausoleil Island in Georgian Bay Islands National Park. Charles Plewman was recorded as instrumental in organising the training camp at Beausoleil Island, and C. R. Blackstock started at Kitchikewana there.",
+      "category": "camping_movement",
+      "entities": [
+        "YMCA Camp Kitchikewana",
+        "Camp Queen Elizabeth",
+        "Beausoleil Island",
+        "Charles Plewman"
+      ],
+      "date_ref": "1919-2026",
+      "sources": [
+        "src_ymcaswo_cqe",
+        "src_oca_camp_directory"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.11",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4783",
+      "claim": "NEGATIVE RESULT, CAMP QUEEN ELIZABETH: no Lumbermen or Voyageurs teams and no camp-wide two-team competition were found on the camp's pages or in searches of them. \"Voyageur canoe\" appears as a craft type only. A YMCA overnight camp on the same island as one that does run the competition apparently does not run it.",
+      "category": "traditions",
+      "entities": [
+        "Camp Queen Elizabeth",
+        "YMCA Camp Kitchikewana"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymcaswo_cqe"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.11",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4784",
+      "claim": "NEGATIVE RESULT, CAMP WAABANAKI, AND IT CONFIRMS THE BIG COVE DISTINCTION. The YMCA of Three Rivers' Camp Waabanaki runs a \"Voyageur Extended Tripping Program\" for ages 13-15 -- Killarney canoe routes, the La Cloche Silhouette trail, sea kayaking on Georgian Bay -- with no Lumbermen team and no two-team competition. This is the same shape as Big Cove's Voyageur programme: \"Voyageur\" as an advanced tripping RANK is a separate and commoner thing from \"Lumbermen versus Voyageurs\" as a two-team GAMES tradition, and the two must not be conflated.",
+      "category": "traditions",
+      "entities": [
+        "Camp Waabanaki",
+        "Big Cove YMCA Camp",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymca_three_rivers_wabanaki"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.11",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4785",
+      "claim": "P_409 RESULT AS OF 2026-09-05: four camps confirmed running a Lumbermen-and-Voyageurs competition (Pine Crest, Kanawana, Kitchikewana, RKY); three checked and negative (Camp Queen Elizabeth, Camp Waabanaki, Big Cove); the remaining dozen-plus Ontario YMCA overnight camps unchecked. No camp beyond the four was found, and no camp's Games were dated beyond Pine Crest's 1940 and Kanawana's 1947. The survey did not settle the direction of travel.",
+      "category": "methodology",
+      "entities": [
+        "Camp Pine Crest",
+        "Camp Kanawana",
+        "YMCA Camp Kitchikewana",
+        "RKY Camp"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_oca_camp_directory",
+        "src_ymcaswo_cqe",
+        "src_ymca_three_rivers_wabanaki"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.11",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4786",
+      "claim": "A SECOND ROTARY-YMCA HYBRID CAMP EXISTS: the OCA directory lists \"YMCA Rotary Youth Camp Presqu'ile\", alongside RKY Camp, whose initials stand for Rotary, Kiwanis and YMCA. Joint service-club-and-YMCA ownership is therefore not unique to RKY, and camps of that kind may be a category worth searching for the Lumbermen-and-Voyageurs tradition rather than searching YMCA-owned camps alone.",
+      "category": "camping_movement",
+      "entities": [
+        "RKY Camp",
+        "Ontario Camps Association"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_oca_camp_directory"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.11",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4787",
+      "claim": "General phrase searching does not find camps running the Lumbermen-and-Voyageurs competition. Searches on \"Lumbermen\" with \"Voyageurs\", and on the exact strings \"Lumberman and Voyageur\" and \"Lumbermen and Voyageurs\", returned Kanawana's own TikTok, unrelated colour-war material and lumber-themed video games -- but not Kitchikewana's or RKY's programme pages, both of which use the phrase. Camp programme pages sit too deep in site structures to rank. Enumeration through an association directory is the method that works; phrase search is not.",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_oca_camp_directory"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.11",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4788",
+      "claim": "P_409 ENUMERATION COMPLETE FOR ONTARIO'S YMCA OVERNIGHT CAMPS: TEN CHECKED, TEN NEGATIVE. Camp Belwood, Camp Ki-Wa-Y and Camp Waabanaki (YMCA of Three Rivers); YMCA Wanakita (Hamilton-Burlington-Brantford); Camp Henry and Camp Queen Elizabeth (Southwestern Ontario); Camp Tillicum and John Island Camp (Northeastern Ontario); Camp Otonabee (National Capital Region); and Rotary YMCA Camp Presqu'ile (Owen Sound Grey Bruce) were each checked for a Lumbermen-and-Voyageurs competition. None runs one. The count of camps with the tradition stands at four: Camp Pine Crest, Kanawana, Camp Kitchikewana and RKY Camp.",
+      "category": "traditions",
+      "entities": [
+        "Camp Pine Crest",
+        "Camp Kanawana",
+        "YMCA Camp Kitchikewana",
+        "RKY Camp"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymca_ontario_camp_enumeration"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.12",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4789",
+      "claim": "THE COLOUR-WAR GENRE IS COMMON AT ONTARIO YMCA CAMPS; THE LUMBERMEN-AND-VOYAGEURS NAMING IS NOT. John Island Camp (YMCA of Northeastern Ontario) lists among its traditions \"evening programs, theme days, and Colour Wars\" -- the genre under its generic name. Rotary YMCA Camp Presqu'ile runs \"Presqu'ile Bound,\" described as \"an epic adventure where campers conquer challenges and earn valuable points to determine who will reign over camp\" -- the same competitive form under a local name. Neither uses the fur-trade naming. The question worth asking is therefore not which camps run a camp-wide competition, which many do, but which use the Lumbermen-and-Voyageurs names, which is the narrow thing Kanawana shares with three others.",
+      "category": "traditions",
+      "entities": [
+        "John Island Camp",
+        "Rotary YMCA Camp Presqu'ile",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymca_ontario_camp_enumeration"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.12",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4790",
+      "claim": "SERVICE-CLUB AND YMCA JOINT OWNERSHIP IS A COMMON ONTARIO PATTERN, NOT AN ODDITY OF RKY. Three examples are now documented: RKY Camp (Rotary Club of Kingston, Kingston Kiwanis Club and Kingston YMCA, from 1930); Rotary Camp Tillicum (YMCA of Northeastern Ontario in partnership with the Rotary Club of North Bay); and Rotary YMCA Camp Presqu'ile (YMCA of Owen Sound Grey Bruce with the Owen Sound Rotary Club, providing overnight camp \"for the past 90+ years\", so from about 1935). Of the three, only RKY runs the Lumbermen-and-Voyageurs competition.",
+      "category": "camping_movement",
+      "entities": [
+        "RKY Camp",
+        "Rotary YMCA Camp Presqu'ile",
+        "Camp Tillicum"
+      ],
+      "date_ref": "1930-2026",
+      "sources": [
+        "src_ymca_ontario_camp_enumeration"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.12",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4791",
+      "claim": "THE ENUMERATION DID NOT SETTLE THE DIRECTION OF TRAVEL, AND ON PRESENT EVIDENCE NOTHING SHORT OF THE TWO CAMP HISTORIES WILL. Ten Ontario YMCA overnight camps were checked and none runs the Lumbermen-and-Voyageurs competition; no camp's Games were dated beyond Camp Pine Crest's 1940 and Kanawana's 1947; and neither Camp Kitchikewana (founded 1919) nor RKY Camp (founded 1930) dates its own. The remaining routes are the two published camp histories -- \"Lumbermen & Voyageurs: The YMCA Pine Crest Story\" (p_404) and Know History's \"Rooted: Beausoleil Island\" chapter on Kitchikewana (p_408) -- and the archival records of the four camps.",
+      "category": "methodology",
+      "entities": [
+        "Camp Pine Crest",
+        "YMCA Camp Kitchikewana",
+        "RKY Camp",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymca_ontario_camp_enumeration"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.12",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4792",
+      "claim": "That the four Lumbermen-and-Voyageurs camps are Pine Crest, Kitchikewana, RKY and Kanawana -- and that ten other Ontario YMCA overnight camps are not among them -- makes the tradition a minority practice within its own movement rather than a general YMCA camp form. Three of the four are in Ontario and one is in Quebec; the ten negatives are all Ontario. Whatever carried the competition between camps was specific rather than systemic, which makes a personal route more likely than an association-wide one and raises the value of finding who moved between Pine Crest, Kitchikewana, RKY and Kanawana.",
+      "category": "traditions",
+      "entities": [
+        "Camp Pine Crest",
+        "YMCA Camp Kitchikewana",
+        "RKY Camp",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1919-1947",
+      "sources": [
+        "src_ymca_ontario_camp_enumeration"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.12",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4793",
+      "claim": "THE LOCKE HYPOTHESIS IS DEAD: ROY D. LOCKE WAS A MONTREAL YMCA MAN THROUGHOUT, AND DID NOT COME FROM PINE CREST OR ONTARIO. The YMCA of Montreal's own annual reports track his career: the 1947 report lists him among secretaries who secured Certification by the Association of Secretaries; the 1948 report records that the Executive Secretary of Eastern Communities Branch \"was succeeded by Roy D. Locke, Boys' Work Secretary of Notre Dame de Grace Branch\"; and the 1949 report records \"ROY D. LOCKE, Executive Secretary of Eastern Communities was appointed Metropolitan Boys' Work Secretary.\" He rose through Montreal branches -- Notre Dame de Grace, then Eastern Communities, then Metropolitan -- and became Kanawana's Camp Chief in the summer of 1947 from inside the Montreal association. The coincidence of his arrival with the first L&V season is therefore just a coincidence, and he is not the route by which the tradition reached the camp.",
+      "category": "directors",
+      "entities": [
+        "Roy D. Locke",
+        "Camp Kanawana",
+        "Camp Pine Crest",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1947-1949",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1894_1895"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.13",
+      "added_by": "cache_research"
+    },
+    {
+      "fact_id": "f_4794",
+      "claim": "THE EARLIEST CONTEMPORARY DOCUMENT MENTIONING THE L&V TRADITION AT KANAWANA IN THIS PROJECT'S CACHE IS THE 1950 ANNUAL REPORT, AND IT ALREADY CALLS IT ESTABLISHED: \"'Lumbermen~ Voyageur' Week, as a closing feature of camp programme has become a whorthwhile tradition of Kanawana. A striking, lerge fireplace mural in the dining hall makes use of this motif. Division of the entire camp into two teams for this final week of goodenatured competition again met with tremendous enthusiasm on the part of campers.\" (OCR as cached.) The word \"again\" and the phrase \"has become\" both imply prior seasons.",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1950",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1894_1895"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.13",
+      "added_by": "cache_research"
+    },
+    {
+      "fact_id": "f_4795",
+      "claim": "EXPLICIT NULL, AND A POINTED ONE: the YMCA of Montreal annual reports for 1947, 1948 and 1949 do not mention the Lumbermen-and-Voyageur tradition at all, although the 1949 report describes Kanawana's programme in some detail, noting that swimming and paddling tests \"reached 'four-star' proportions\". And the camp's own \"Kamp Kanawana History\", presented at a training course on 6 June 1951, never mentions the tradition either, though it lists Roy Locke's innovations since 1947 -- a new main wharf, a cabin for the Senior Section Director, electrification, an automatic chlorinated water system and electric refrigeration. Three annual reports and the camp's own history are silent on a tradition the 1950 report calls established.",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana",
+        "Roy D. Locke"
+      ],
+      "date_ref": "1947-1951",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1894_1895",
+        "src_ia_kanawana_history_1951"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.13",
+      "added_by": "cache_research"
+    },
+    {
+      "fact_id": "f_4796",
+      "claim": "[SUPERSEDED 2026-09-05: wrong on both halves. The 1947 date does NOT rest only on the edition count -- the camp's own 1988 report states it outright, and the perpetual trophy's first shield reads 47. And the arithmetic does yield 1947: only ONE season was lost, 2021, not two. See the reconciliation fact f_4798.] THE 1947 START DATE FOR KANAWANA'S L&V GAMES RESTS ON A MODERN EDITION COUNT, NOT ON A CONTEMPORARY DOCUMENT, AND THE ARITHMETIC DOES NOT CLEANLY YIELD 1947. This project's basis for 1947 is the YMCA's statement that 2025 saw the 78th edition. If the Games ran every year without a gap, the 78th edition in 2025 implies a first edition in 1948. If the two COVID years of 2020 and 2021 are excluded from the count, 78 editions span eighty calendar years and imply a first edition in 1946. 1947 is what neither reading yields. The earliest contemporary mention in this project's cache is the 1950 annual report. The 1947 date should be treated as approximate, and the discrepancy resolved before it is relied on.",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1946-1948",
+      "sources": [
+        "src_ymca_website",
+        "src_cache_sgw_ymca_annual_report_1894_1895"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.13",
+      "added_by": "cache_research"
+    },
+    {
+      "fact_id": "f_4797",
+      "claim": "A CACHED FILE THAT IS NOT WHAT ITS NAME SUGGESTS: sources/cache/web-pages/pine_crest_book.txt is the Shopify PRODUCT PAGE for \"Lumbermen & Voyageurs: The YMCA Pine Crest Story\" -- HTML, title, price of $25.00 CAD and a marketing blurb -- and not the book's content. Priority p_404 to read the book is therefore not satisfied by anything on disk, and the file should not be mistaken for the source.",
+      "category": "sources",
+      "entities": [
+        "Camp Pine Crest"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymcagta_pinecrest_games"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.13",
+      "added_by": "cache_research"
+    },
+    {
+      "fact_id": "f_4798",
+      "claim": "RESOLUTION of the L&V start date (p_410): 1947 is CONFIRMED, and this project's own doubt of 2026-09-05 (f_4796) was an error. Three independent lines converge. (1) THE OBJECT: the perpetual Kanawana Annual Trophy for Lumbermen Voyageur Games carries a shield for every season, and the first reads 47 -- 1947, Voyageurs. (2) THE CAMP'S OWN RECORD: \"Kanawana... A Place to Grow\" (YMCA of Montreal, 1988) lists under PROGRAMME HIGHLIGHTS: \"1947 Kanawana introduces new camp wide event to highlight the final session of camp. Lumbermen and Voyageurs competition is created.\" (3) THE ARITHMETIC, CORRECTED: YMCA Quebec calls 2025 the 78th edition. 1947 through 2025 inclusive is 79 calendar seasons; exactly one was lost, 2021, which has no shield -- 2020 WAS contested, remotely, and does have one. 79 minus 1 is 78. The count lands on 1947 to the year, and independently confirms 2026 as the 79th edition. The earlier arithmetic failed only because it deducted two pandemic seasons where the trophy and the operator's account both record one. What survives of the doubt is narrower and still open: the annual reports for 1947, 1948 and 1949 are silent on the tradition and the camp's own 1951 history does not mention it (f_4795), so no CONTEMPORARY document from the founding seasons has yet been found -- the 1988 report is retrospective and the trophy's early shields could in principle have been back-filled. That is a gap in the contemporary record, not a competing date: nothing anywhere proposes a year other than 1947.",
+      "category": "traditions",
+      "entities": [
+        "Lumbermen and Voyageurs Games",
+        "Camp Kanawana",
+        "Kanawana Annual Trophy"
+      ],
+      "date_ref": "1947",
+      "sources": [
+        "src_photo_lv_annual_trophy",
+        "src_ia_kanawana_place_to_grow_1988",
+        "src_ymca_website"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [
+        "f_4796"
+      ],
+      "added_version": "6.14",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4799",
+      "claim": "Dr. Amy Ornstein's credential line on the Dalhousie University Department of Pediatrics faculty page reads \"Amy Ornstein, MDCM, MSc, FRCPC, FAAP\". The degrees and granting institutions listed are BSc (Concordia University), MDCM (McGill University), MSc (Dalhousie University) and FRCPC (University of Toronto). She is Professor in the Department of Pediatrics, Division Head of General Pediatrics, and Medical Director of the IWK Suspected Trauma and Abuse Response Team (START); she previously worked in the Suspected Child Abuse and Neglect programme at the Hospital for Sick Children, Toronto, where she did her residency and fellowship. TWO OF THE FOUR DEGREES ARE FROM MONTREAL INSTITUTIONS, and in the order a Montreal upbringing would predict -- an undergraduate degree at Concordia followed by medicine at McGill. Concordia is itself the YMCA-descended institution that holds the YMCA of Montreal fonds this project reads.",
+      "category": "people",
+      "entities": [
+        "Amy Ornstein",
+        "Concordia University",
+        "McGill University",
+        "Dalhousie University"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_dal_pediatrics_ornstein"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.18",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4800",
+      "claim": "OPERATOR TESTIMONY, 2026-09-05 (Matt Aronson): Amy Ornstein is a Halifax-based doctor who grew up in Montreal and worked at Camp Kanawana. This is first-hand knowledge from someone who was at the camp, and it directly contradicts this project's earlier assertion that no connection to Kanawana, YMCA Quebec or Montreal existed. The Montreal half is independently corroborated by her Concordia and McGill degrees; the Kanawana employment rests on the operator's testimony and has not yet been found in a document.",
+      "category": "people",
+      "entities": [
+        "Amy Ornstein",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "conflicts_with": [],
+      "added_version": "6.18",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4801",
+      "claim": "[CONFIRMED 2026-09-05, same day: see f_4803. Matt Aronson, a member of the Pip Awards committee, states the 2019 recipient was Dr. Amy Ornstein. This fact's hedging is superseded -- it was written before that confirmation and correctly declined to assert the attribution on inference alone. Kept as the record of the reasoning that pointed the right way before the answer arrived.] AMY ORNSTEIN IS RESTORED AS THE LEADING CANDIDATE FOR THE 2019 PIP ALUMNI AWARD, having been wrongly excluded. Three things now point the same way: the 2019 recipient's title begins with \"Dr.\" (truncated on Andrew Caddell's LinkedIn, the only documentary trace of that year); Ornstein is a physician; and the operator confirms she worked at Kanawana and grew up in Montreal, which is what the Pip Award -- an ALUMNI award -- requires. This is not yet confirmation: no source names the 2019 recipient, and the candidacy originally entered this project from an unattributed search result. What has changed is that the objection to it has collapsed. The attribution should be carried as probable and unconfirmed, not asserted, until YMCA Quebec or the alumni network supplies the name.",
+      "category": "awards",
+      "entities": [
+        "Amy Ornstein",
+        "Pip Alumni Award",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2019",
+      "sources": [
+        "src_oral_aronson",
+        "src_dal_pediatrics_ornstein"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.18",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4802",
+      "claim": "METHOD FAILURE, RECORDED SO IT IS NOT REPEATED: this project wrote \"explicitly DEBUNKED, not merely unconfirmed\" about a person whose connection to Kanawana was real, on the strength of having searched and not found it. Three faults compounded. (1) INFERENCE: absence of evidence was written up as evidence of absence, against this project's own standing principle that a negative result from a tool is a fact about the tool, not about the world. (2) VOCABULARY: 'debunked' asserts disproof and closes a question; 'not found' leaves it open. The word did work the evidence could not. (3) HARDENING: on 2026-09-05 the p_412 triage then downgraded the fact from 'disputed' to 'stated' precisely BECAUSE it read as a confident debunking -- so a bad inference was promoted to a stated fact by a cleanup pass that checked the label rather than the reasoning under it. The correction cost one web search.",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026-09-05",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.18",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4803",
+      "claim": "CONFIRMED: the 2019 recipient of Camp Kanawana's Pip Alumni Award was Dr. Amy Ornstein. Confirmed 2026-09-05 by Matt Aronson, stating his standing as a member of the Pip Awards committee -- that is, from the body that administers the award and keeps its list, not from recollection at a distance. This is the strongest attestation available for this award: YMCA Quebec published no newsroom item for any recipient 2019-2023, and roughly sixty queries across every agent-accessible surface failed to name the 2019 recipient. It closes the first of the five undocumented years. It also settles, from the other direction, that Ornstein is a Kanawana alumna -- the award requires it -- corroborating f_4800 and finishing the withdrawal of this project's earlier 'debunking' of her (f_1882).",
+      "category": "awards",
+      "entities": [
+        "Amy Ornstein",
+        "Pip Alumni Award",
+        "Camp Kanawana",
+        "Matt Aronson"
+      ],
+      "date_ref": "2019",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "conflicts_with": [],
+      "added_version": "6.19",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4804",
+      "claim": "PIP AWARD COUNT, RECALCULATED WITH 2019 FILLED. YMCA Quebec's 2024 newsroom item calls Dr. James Orbinski 'the 15th recipient', so fourteen preceded him. This wiki names eleven recipients through 2018; Amy Ornstein's confirmed 2019 makes twelve. TWO RECIPIENTS THEREFORE REMAIN UNACCOUNTED FOR, distributed among 2010 and 2020-2023. If an award was given in 2010 -- recorded here as undocumented, NOT as confirmed skipped -- then exactly ONE award falls in 2020-2023 and three of those four years had none. If 2010 had no award, TWO fall in 2020-2023. The confirmation of 2019 narrows the open range from 'three or four awards across 2019-2023' to 'one or two across 2020-2023', and the ambiguity still turns entirely on 2010.",
+      "category": "awards",
+      "entities": [
+        "Pip Alumni Award",
+        "Camp Kanawana",
+        "James Orbinski",
+        "Amy Ornstein"
+      ],
+      "date_ref": "2010-2023",
+      "sources": [
+        "src_ymca_quebec_pip_orbinski_2024",
+        "src_oral_aronson"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.19",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4805",
+      "claim": "The 2026 Camp YMCA Kanawana “Pip” Award went to Jared MacSween, announced in a YMCA Quebec news release dated Saint-Sauveur, 31 August 2026. The release states he “is the 17th person to receive the award, established in 2007 to recognize the contributions of distinguished Kanawana alumni.” He received it at camp on 31 July 2026 and was to receive it again on 12 September at the annual Kanawana alumni weekend.",
+      "category": "awards",
+      "entities": [
+        "Jared MacSween",
+        "Pip Alumni Award",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymca_quebec_pip_macsween_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.20",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4806",
+      "claim": "Jared MacSween, 2026 Pip Award recipient, was a Kanawana CAMPER FROM 1982 TO 1986 AND STAFF FROM 1987 TO 1991. He is General Manager of the YMCA Cedar Glen Outdoor Centre, holds a B.A. in Applied Human Science and a Diploma in Social Studies from Concordia University, and lives in Toronto, where he volunteers as a house-league hockey coach. From 2012 to 2024 he was Manager, Training for the YMCA Ontario Regional Development Centre. He had previously spent over twenty years in youth work: a transitional housing programme for young adults in Toronto, managing a youth drop-in centre with the City of Montreal and the YMCA, and child, youth and camping programmes with the YMCAs of Quebec.",
+      "category": "people",
+      "entities": [
+        "Jared MacSween",
+        "Camp Kanawana",
+        "YMCA Cedar Glen Outdoor Centre",
+        "Concordia University"
+      ],
+      "date_ref": "1982-2026",
+      "sources": [
+        "src_ymca_quebec_pip_macsween_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.20",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4807",
+      "claim": "AMY ORNSTEIN'S PIP AWARD IS NOW DOCUMENTED IN PRINT. The 2026 news release lists among previous recipients “Dr. Amy Ornstein, an advocate for abused children”. This is the first documentary attestation of an award this project had earlier called “explicitly DEBUNKED”, and it independently corroborates the operator's confirmation (f_4803) from the sponsor's own text.",
+      "category": "awards",
+      "entities": [
+        "Amy Ornstein",
+        "Pip Alumni Award"
+      ],
+      "date_ref": "2019",
+      "sources": [
+        "src_ymca_quebec_pip_macsween_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.20",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4808",
+      "claim": "[CORRECTED 2026-09-05, within the hour: the clause 'Neither appears anywhere else in this wiki, the KB or the sources index' WAS FALSE FOR ALEXANDRA OLSHEFSKY. She was already in the KB twice -- f_1677, the Rangers 2002 plaque, under her full name; and f_1565, the Order of the Knights of Kanawana roll, as 'Lady Ali Olshefsky, 2002' -- and already in wiki/traditions/knights-of-kanawana.md as a table row. I asserted a negative across four files without searching any of them. Dr. Karl Cernovich IS genuinely new. See the correction facts below.] TWO PIP RECIPIENTS PREVIOUSLY UNKNOWN TO THIS PROJECT, named in the 2026 release's list of previous recipients: “Dr. Karl Cernovich, a leader in emergency medicine” and “Alexandra Olshefsky, public defender and community volunteer”. Neither appears anywhere else in this wiki, the KB or the sources index. No years are given for either.",
+      "category": "awards",
+      "entities": [
+        "Karl Cernovich",
+        "Alexandra Olshefsky",
+        "Pip Alumni Award"
+      ],
+      "date_ref": null,
+      "sources": [
+        "src_ymca_quebec_pip_macsween_2026"
+      ],
+      "confidence": "disputed",
+      "conflicts_with": [],
+      "added_version": "6.20",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4809",
+      "claim": "THE PIP AWARD COUNT, FIXED AND NARROWED BY THE 2026 RELEASE. Ordinals: Orbinski is the 15th (2024) and MacSween the 17th (2026), so the 16th falls in 2025. The release's list of previous recipients is SELECTIVE -- it omits Bruce Netherwood (2011) and Chris Adam (2017) -- but the names it does carry run in chronological order, which places Karl Cernovich between Amy Ornstein (2019) and James Orbinski (2024), and Alexandra Olshefsky after Orbinski. On that reading Olshefsky is the 16th recipient, of 2025, and Cernovich took one of 2020-2023. ARITHMETIC: fourteen recipients preceded Orbinski. This wiki names twelve through 2019 (2010 excepted, recorded as undocumented), and Cernovich makes thirteen. EXACTLY ONE REMAINS UNACCOUNTED FOR, and it is either a 2010 recipient or a second award somewhere in 2020-2023. The previous open range was two unaccounted across 2010 and 2020-2023; it is now one. Note this does NOT settle 2010 -- the release's omission of Netherwood and Adam shows its list drops names, so the missing person could equally sit in the 2020s.",
+      "category": "awards",
+      "entities": [
+        "Pip Alumni Award",
+        "Karl Cernovich",
+        "Alexandra Olshefsky",
+        "James Orbinski",
+        "Jared MacSween"
+      ],
+      "date_ref": "2010-2026",
+      "sources": [
+        "src_ymca_quebec_pip_macsween_2026",
+        "src_ymca_quebec_pip_orbinski_2024"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.20",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4810",
+      "claim": "ANDREW CADDELL SPONSORS THE PIP AWARD, in his own words in the 2026 release: “says Andrew Caddell, who sponsors the award”, quoted as “The ‘Pip’ Committee recognizes Jared MacSween's lifelong dedication to work in the community… The purpose of this award is to recognize people who have taken the values they learned at Kanawana and applied them to the larger world.” The release also states that “The ‘Pip’ Award Committee is composed of camp alumni.” The .docx supplied to this project carries “Caddell, Andrew -BBI” as its document author, so the release is the sponsor's own text.",
+      "category": "awards",
+      "entities": [
+        "Andrew Caddell",
+        "Pip Alumni Award"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymca_quebec_pip_macsween_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.20",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4811",
+      "claim": "THE PIP AWARD'S DOUBLE DEDICATION, stated in the 2026 release: it “is a memorial to Philip ‘Pip’ Caddell (1913-2004), Second World War officer, Montreal executive and community volunteer, and his grandson, James Caddell (1973-2005), UN Peacekeeper and public servant. Both attended Camp YMCA Kanawana -- ‘Pip’ as a camper in 1928 and James as a camper and counsellor from 1983 to 1991.” PIP CADDELL'S CAMPER YEAR OF 1928 AND JAMES CADDELL'S 1983-1991 SPAN ARE BOTH RECORDED HERE FROM A PRIMARY SOURCE.",
+      "category": "people",
+      "entities": [
+        "Philip Caddell",
+        "James Caddell",
+        "Pip Alumni Award",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1928-2005",
+      "sources": [
+        "src_ymca_quebec_pip_macsween_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.20",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4812",
+      "claim": "FOUR PIP RECIPIENTS ARE DESCRIBED AS “the late” IN THE 2026 RELEASE: Richard Patten (2008), Stuart McLean (2009), Sam Lazarus (2013) and Carol Skinner (2016). For Skinner this is the first indication in this project's sources that she has died; the others were already recorded as deceased. The release also identifies the 2008 recipient as “former Ontario cabinet minister”, confirming that the Pip recipient Richard Patten is the Ontario politician -- which does NOT bear on the separate, still-unconfirmed identification of a ‘Rick Patten’ on the 1963 Advance Guard plaque (f_2069).",
+      "category": "people",
+      "entities": [
+        "Richard Patten",
+        "Stuart McLean",
+        "Sam Lazarus",
+        "Carol Skinner",
+        "Pip Alumni Award"
+      ],
+      "date_ref": "2008-2026",
+      "sources": [
+        "src_ymca_quebec_pip_macsween_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.20",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4813",
+      "claim": "KANAWANA'S ACQ FOUNDING-MEMBER CLAIM IS REPEATED IN AN OFFICIAL 2026 NEWS RELEASE: “It is accredited by the Association des camps du Québec and is a founding member of the Association.” This is a SECOND instance of the claim but NOT independent corroboration -- both are the YMCA speaking about itself, and f_2215 records that the ACQ's own listing for Kanawana carries no founding-member statement. What it adds is that the claim is made in a formal release over the sponsor's and the association's names, not only in website copy.",
+      "category": "connections",
+      "entities": [
+        "Camp Kanawana",
+        "Association des camps du Québec"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymca_quebec_pip_macsween_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.20",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4814",
+      "claim": "THE YMCAs OF QUÉBEC STATE, in the 2026 release, that they are “part of the Canadian network of 47 YMCA associations”, and that their centres, International Language School, Residence, Camp Kanawana and service sites are visited by more than 115,000 people a year. The figure of 47 ASSOCIATIONS is a count of member associations, not of camps, and should not be confused with either -- but it is the first hard national figure this project holds for the denominator behind its unanswered question of how many YMCA camps exist in Canada (p_406).",
+      "category": "connections",
+      "entities": [
+        "YMCA of Quebec",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymca_quebec_pip_macsween_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.20",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4815",
+      "claim": "ALEXANDRA OLSHEFSKY'S KANAWANA RECORD WAS ALREADY DOCUMENTED HERE, on two photographed dining-hall plaques. (1) The 'Rangers 2002' board names her among eight Rangers -- Hannah Shizgal-Paris, Alexandra Olshefsky, Ian Braide, Andrew Pare, Alexandre Lebrun, Katie Smith, Matthew Held, Jasmine Carrier -- under co-ordinators Louis Lessard and Helena Longpre, with the motto 'Leadership - Knowledge - Respect - Trust - Tradition' (f_1677). (2) The Order of the Knights of Kanawana roll carries 'Lady Ali Olshefsky' with the year 2002, one of three knighted that year alongside Sir Ian Braide and the unsettled Lady Caroline Noble (f_1565). Both boards are contemporary painted records of the 2002 season.",
+      "category": "people",
+      "entities": [
+        "Alexandra Olshefsky",
+        "Camp Kanawana",
+        "Order of the Knights of Kanawana"
+      ],
+      "date_ref": "2002",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.21",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4816",
+      "claim": "[RESOLVED 2026-09-05, same day: the operator confirms it was RANGER, not 'Tanger' -- a slip in the original message, not a camp term. This closes the question in the only way that adds nothing false to the record: no new vocabulary entry is created, and her Ranger standing was already documented on the Rangers 2002 plaque (f_1677), so the testimony and the board now agree completely. Worth noting that the restraint was the right call -- had this been guessed the other way, site/named-places-and-camp-vocabulary.md would now carry an invented Kanawana term sourced to a typo.] OPERATOR TESTIMONY, 2026-09-05 (Matt Aronson, who was staff in 2002): Alexandra Olshefsky was a CAMPER UNTIL 2002, was 'a Tanger', and was made a member of the Order of the Knights of Kanawana in 2002. The camper-through-2002 and the 2002 knighthood are independently corroborated by the two plaques (f_f_4815). The word 'TANGER' APPEARS NOWHERE IN THIS PROJECT -- not in the wiki, the KB, the sources index or the 151 transcribed plaques, whose only near matches are the surnames Tanguy and Tanguay. It is either a Kanawana term this project has never recorded, or a rendering of 'Ranger', which she demonstrably was in 2002. NOT RESOLVED EITHER WAY HERE: guessing between them would either invent a camp term or erase one.",
+      "category": "people",
+      "entities": [
+        "Alexandra Olshefsky",
+        "Camp Kanawana",
+        "Matt Aronson"
+      ],
+      "date_ref": "2002",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "conflicts_with": [],
+      "added_version": "6.21",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4817",
+      "claim": "SPELLING, THREE DOCUMENTS AGAINST ONE RECOLLECTION: the surname is written OLSHEFSKY on the Rangers 2002 plaque, OLSHEFSKY on the Knights of Kanawana roll, and OLSHEFSKY in YMCA Quebec's 2026 news release. The operator wrote 'Olshevsky' with a v. Under the standing directive that oral history yields to documented sources where they directly conflict, the documented spelling stands -- and here two of the three documents are contemporary painted records of the season in question. The operator's spelling is recorded, not deleted. The release gives her first name as Alexandra and the Knights roll as 'Ali', which are consistent.",
+      "category": "people",
+      "entities": [
+        "Alexandra Olshefsky"
+      ],
+      "date_ref": "2002-2026",
+      "sources": [
+        "src_flickr_kanawana_plaque_album",
+        "src_ymca_quebec_pip_macsween_2026",
+        "src_oral_aronson"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.21",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4818",
+      "claim": "ALEXANDRA OLSHEFSKY IS THE ONLY DOCUMENTED PERSON TO HOLD BOTH OF KANAWANA'S NAMED CAMPER HONOURS. Checking the twenty-nine-name Knights of Kanawana roll (f_1565) against the sixteen known Pip Alumni Award recipients, hers is the single overlap: knighted as a camper in 2002, and awarded the Pip -- which recognises what an alumnus did afterwards in the wider world -- in 2025. The two honours sit at opposite ends of a camp life, one for mastery inside the camp and one for what was carried out of it, and this is the first case the project can trace across both. It also gives the Knights roll its first external outcome: nothing else in the KB follows a knight past camp.",
+      "category": "awards",
+      "entities": [
+        "Alexandra Olshefsky",
+        "Order of the Knights of Kanawana",
+        "Pip Alumni Award"
+      ],
+      "date_ref": "2002-2025",
+      "sources": [
+        "src_flickr_kanawana_plaque_album",
+        "src_ymca_quebec_pip_macsween_2026"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.21",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4819",
+      "claim": "THE SAME METHOD FAILURE TWICE IN ONE DAY, RECORDED BECAUSE THE REPETITION IS THE POINT. At roughly 21:40 I wrote f_4802, on having asserted that Amy Ornstein had 'no connection whatsoever' to Kanawana without searching. At roughly 22:10 I wrote in f_4808 that two newly-named Pip recipients appeared 'nowhere else in this wiki, the KB or the sources index' -- again without searching. One of them was in the KB twice and in a wiki table. Writing down the lesson did not prevent the repeat, because the failure is not ignorance of the principle but the absence of a step: a claim of the form 'X appears nowhere in this project' is CHEAPLY CHECKABLE with one grep, and must never be written without running it. That check costs seconds; both errors would have been caught by it.",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026-09-05",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.21",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4820",
+      "claim": "RESOLVED: the third Knight of Kanawana of 2002 is CAROLINE POOLE, not Caroline Noble. Confirmed 2026-09-05 by Matt Aronson, who was on staff that season. This is NOT a case of oral history overriding a document: the plaque entry is FADED and was recorded from the outset as an unsettled reading, painted 'in a lighter hand' and flagged in the plaque audit as 'my Caroline Noble reading on the Knights roll is unsettled against Caroline Poole'. Where a document is illegible it states nothing to be overridden, and a person who was present supplies what the surviving strokes cannot. Caroline Poole was already documented in this project on the 'Last Trip of 2000' board, so the resolution attaches the knighthood to a person the KB already holds rather than introducing a new name. The 2002 knights are therefore Ali Olshefsky, Ian Braide and Caroline Poole.",
+      "category": "people",
+      "entities": [
+        "Caroline Poole",
+        "Order of the Knights of Kanawana",
+        "Camp Kanawana",
+        "Matt Aronson"
+      ],
+      "date_ref": "2002",
+      "sources": [
+        "src_oral_aronson",
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "user_knowledge",
+      "conflicts_with": [],
+      "added_version": "6.23",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4821",
+      "claim": "CAROL SKINNER'S ALS, from press coverage located 2026-09-05 but NOT read in full (see the access note below). Search-result summaries of a Montreal Gazette feature of 20 September 2016 and an Ottawa Citizen feature of 16 June 2018 give: symptoms began in early 2013, when her legs would not hold her as she tried to skate on the Rideau Canal; she was diagnosed with amyotrophic lateral sclerosis on 19 SEPTEMBER 2013; she was a longtime Kirkland resident and a McGill University art history graduate; she made her home in Ottawa with her husband, TRAVIS SKINNER; she gave up her work as an art therapist with the Canadian Mental Health Association because of the illness; and her teams raised more than $26,000 over four years of the annual ALS walk. SHE WAS ALIVE AS OF JUNE 2018. This adds a husband's name, a diagnosis date, a city of residence and a McGill degree to a person this wiki had recorded only as a Kanawana counsellor and Section Director 1990-95 and 2016 Pip recipient.",
+      "category": "people",
+      "entities": [
+        "Carol Skinner",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2013-2018",
+      "sources": [
+        "src_gazette_skinner_als_2016",
+        "src_ottawa_citizen_skinner_als_2018"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.23",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4822",
+      "claim": "CAROL SKINNER'S DEATH DATE IS NOT FOUND, AND ONE ROUTE IS AN ACCESS FAILURE RATHER THAN A NULL. The 2026 Pip release calls her 'the late' without a date (f_4812), which places her death between June 2018 -- when the Ottawa Citizen reported her alive -- and August 2026. THREE SEARCHES RUN 2026-09-05 across obituary aggregators, funeral homes and general web surfaces returned no obituary for this Carol Skinner; the several Carol/Carol Ann Skinner obituaries that surfaced belong to other people, at unrelated funeral homes. ACCESS FAILURE, NOT A NULL: the two pieces of press coverage that would carry her details in full -- the Montreal Gazette of 20 September 2016 and the Ottawa Citizen of 16 June 2018 -- are hosted on PressReader, which returned HTTP 403 to the fetch tool. NOT YET TRIED: the Ottawa Citizen and Montreal Gazette obituary sections directly, ALS Society of Canada and ALS Ottawa memorial notices, the Canadian Mental Health Association, and the National Capital ALS walk pages. The operator expects an obituary exists in the Gazette or online, so this should be treated as unfound rather than absent.",
+      "category": "people",
+      "entities": [
+        "Carol Skinner"
+      ],
+      "date_ref": "2018-2026",
+      "sources": [
+        "src_gazette_skinner_als_2016",
+        "src_ottawa_citizen_skinner_als_2018"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.23",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4823",
+      "claim": "CAROL SKINNER DIED ON THE WEEKEND OF 30-31 JANUARY 2021. ALS Canada's memorial post of 4 February 2021 (a Thursday) opens: 'With great sadness, we recognize the incredible contributions of Carol Skinner, who passed away last weekend.' No exact day is given, so the date is a two-day window, not a point. This closes the gap left by the 2026 Pip release calling her 'the late' without a date (f_4812), which had placed the death anywhere between June 2018 and August 2026.",
+      "category": "people",
+      "entities": [
+        "Carol Skinner"
+      ],
+      "date_ref": "2021-01-30",
+      "sources": [
+        "src_alscanada_skinner_memorial_2021"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4824",
+      "claim": "CAROL SKINNER'S ALS ADVOCACY RECORD, from ALS Canada's memorial post: diagnosed in 2013, she 'soon after became an ALS advocate and an ambassador for ALS Canada'; she 'attended the first meeting of the all-party ALS Caucus on Parliament Hill in November 2016 and many other government meetings thereafter'; she worked 'with others in the community to spearhead a letter-writing campaign calling on the federal government to provide dedicated ALS research funding'; she was 'a regular attendee and speaker at the Ottawa Walk to End ALS'; she kept a blog, 'Live Love Laugh with Carol', described as 'a source of positivity and strength for many'; and she sat on the International Alliance of ALS/MND Associations' pALS and cALS Advisory Council. ALS Canada closes: 'Carol, your contributions were many, and so very meaningful.'",
+      "category": "people",
+      "entities": [
+        "Carol Skinner",
+        "ALS Canada"
+      ],
+      "date_ref": "2013-2021",
+      "sources": [
+        "src_alscanada_skinner_memorial_2021"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4825",
+      "claim": "CAROL SKINNER'S OWN BLOG IS LOST TO A DOMAIN TAKEOVER, not to time. 'Live Love Laugh with Carol' (livelovelaughwithcarol.com), named by ALS Canada in 2021 as a source of strength for many people living with ALS, now resolves to an Indonesian online-gambling site. Search indexes still carry the old navigation -- Love Story, ALS, Blog, Tips & Tricks, Gallery, Travel, Media -- and both her and Travis Skinner's contact details, so the site stood in that form recently. web.archive.org is blocked by this environment's egress policy, so no archived copy could be reached. THIS IS THE ONLY FIRST-PERSON SOURCE THIS PROJECT HAS EVER IDENTIFIED FOR A KANAWANA ALUMNA WRITING ABOUT HER OWN LIFE AT LENGTH, and it is currently unreadable. ACCESS FAILURE, NOT AN ABSENCE.",
+      "category": "sources",
+      "entities": [
+        "Carol Skinner"
+      ],
+      "date_ref": "2026-09-05",
+      "sources": [
+        "src_skinner_blog_livelovelaugh"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4826",
+      "claim": "DEREK WALSH IS CREDITED FOR STUART McLEAN'S FAMILY CAMP PHOTOGRAPHS in CBC News's 2017 report on the Stuart McLean Camp Kanawana Fund -- SEARCH-SNIPPET LEVEL ONLY, NOT READ: cbc.ca returns HTTP 403 to this project's fetch tool, so the credit line has not been seen directly. If it holds, it places Kanawana's 1974-79 director still connected to the camp's alumni network in 2017 and holding personal photographs of McLean's camp years -- the only trace of Walsh found anywhere outside the camping press, and a lead toward a private photographic holding. To be confirmed by reading the article through a route that is not blocked.",
+      "category": "people",
+      "entities": [
+        "Derek Walsh",
+        "Stuart McLean",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2017",
+      "sources": [
+        "src_cbc_mclean_fund_2017"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4827",
+      "claim": "EXPLICIT NULL ON DEREK WALSH'S BIOGRAPHY (RALPH cycle, 2026-09-05). Searches for an obituary or biographical record under 'Derek Walsh' and 'Derek V. Walsh' against the Canadian Camping Association, Quebec camping organisations, and Montreal YMCA contexts returned NOTHING: no obituary, no birth or death date, no record of his life before 1973 or after 1981. The only new trace is the CBC photo credit above. His article's own statement that it had had 'no obituary search' is now false -- the search was run and came back empty. That is a different and weaker claim than 'he cannot be found': the surfaces tried were general web search, and the routes NOT tried remain substantial -- Quebec and Ontario obituary aggregators by name alone, Concordia's YMCA fonds for personnel files, the CCA's own membership records, and asking the operator's alumni network.",
+      "category": "people",
+      "entities": [
+        "Derek Walsh"
+      ],
+      "date_ref": "2026-09-05",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4828",
+      "claim": "A LETTER FROM THE PRIME MINISTER OF CANADA TO KAMP KANAWANA, framed and photographed, on Prime Minister / Premier Ministre letterhead with the Canadian coat of arms and a pen signature over the typed name Pierre Elliott Trudeau. DATED ON ITS FACE: the dateline stands at the foot of the sheet, letter-spaced in the typewriter style of the period, \"O t t a w a ,  1 9 7 8 .\" -- place and year, no month or day. (This project first recorded the letter as undated; that was an artefact of the first photograph's crop, which cut off the foot of the sheet, not a property of the document. See the correction note in f_4834.) TRANSCRIBED IN FULL: \"I am happy to send my greetings and congratulations to all campers and staff of Kamp Kanawana as you officially open your new recreational building. // Kamp Kanawana provides an opportunity for many young people across Canada to learn about each other's culture in a natural and healthy environment. // La dimension internationale qui s'est ajoutée cette année rehaussera sûrement l'esprit d'entraide et de coopération afin de cultiver une jeunesse saine et vigoureuse. // Dans cet esprit, je suis heureux de vous souhaiter de bonnes vacances. Mes meilleurs voeux à tous pour une célébration réussie.\" Two paragraphs in English, then two in French, without translation of either -- a genuinely bilingual letter rather than a translated one.",
+      "category": "documents",
+      "entities": [
+        "Pierre Elliott Trudeau",
+        "Camp Kanawana",
+        "Katimavik"
+      ],
+      "date_ref": "1978",
+      "sources": [
+        "src_photo_trudeau_letter_1978"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.25",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4829",
+      "claim": "[AMENDED 2026-09-05: the letter carries its own dateline, \"Ottawa, 1978.\", so the 1978 dating no longer RESTS on the director's report -- the two now corroborate each other independently. Everything below about the printed version being an abridgement still stands and is unaffected.] THE TRUDEAU LETTER IS DATED TO 1978 BY THE CAMP'S OWN REPORT, and the framed original turns out to be the fuller text. An abridged version of the same letter is the FRONTISPIECE of the 1978 Kamp Kanawana Director's Annual Report, printed above the report proper and signed the same way. The printed version drops two things the framed original has: the words \"and congratulations\", and the entire clause \"as you officially open your new recreational building\" -- so the report's version reads as generic seasonal greetings with no occasion attached. It also restyles \"campers\" as \"Kampers\" in the camp's own orthography. THE FRAMED LETTER IS THEREFORE THE PRIMARY DOCUMENT AND THE REPORT A PARTIAL RESETTING OF IT: anyone working only from the digitized report would never learn what the letter was for.",
+      "category": "documents",
+      "entities": [
+        "Pierre Elliott Trudeau",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1978",
+      "sources": [
+        "src_photo_trudeau_letter_1978",
+        "src_ia_kanawana_report_1978"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.25",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4830",
+      "claim": "THE NEW RECREATIONAL BUILDING TRUDEAU CONGRATULATED IS THE KATIMAVIK, AND IT OPENED IN THE 1978 SEASON. The 1978 director's report lists \"Opening Ceremony for Katimivik\" among the season's special events, records the work item \"stain various parts of new recreation building\", and concludes: \"The new recreation hall (Katimivik) is very functional and will be...\". The camp spells it Katimivik in 1978; the current spelling is Katimavik. THIS CLOSES AN OPEN QUESTION this project had carried as unanswerable -- site/places-and-locations.md asked \"When was the Katimavik gymnasium built?\" and its own Katimavik section said \"No documentation has been found for when the Katimavik was constructed or named.\" It also fits the $850,000 two-site reconstruction begun in 1977-78 (f_2443).",
+      "category": "site",
+      "entities": [
+        "Katimavik",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1978",
+      "sources": [
+        "src_photo_trudeau_letter_1978",
+        "src_ia_kanawana_report_1978"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.25",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4831",
+      "claim": "1978 WAS KANAWANA'S 85TH SEASON, stated in the opening line of the 1978 director's report: \"The 85th season of Kamp Kanawana has come to an end.\" Counting back, an 85th season in 1978 puts the first in 1894 -- an independent arithmetical confirmation of the founding year from a document that is not making a claim about the founding at all, which is the most reliable kind.",
+      "category": "history",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1978",
+      "sources": [
+        "src_ia_kanawana_report_1978"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.25",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4832",
+      "claim": "A KANAWANA STAFF MEMBER WAS IN THE FEDERAL KATIMAVIK PROGRAMME THE SAME YEAR THE CAMP OPENED ITS KATIMAVIK. The Ka-News of October 1978 lists staff forwarding addresses including \"John Lawrence, c/o Katimavik, Box 354, Bridgetown, N.S.\", and the December 1978 issue reports \"John Lawrence is really enjoying Katimavik, he heads out west soon with his group\" -- the rotating inter-provincial group structure of the national youth service programme of that name, created by the federal government in 1977 under the same Prime Minister who signed this camp's letter.",
+      "category": "people",
+      "entities": [
+        "John Lawrence",
+        "Katimavik",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1978",
+      "sources": [
+        "src_ia_ymca_montreal_fonds_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.25",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4833",
+      "claim": "AN OPEN QUESTION, NOT A FINDING: was Kanawana's Katimavik named after the federal Katimavik programme, or did both draw independently on the Inuktitut word for \"meeting place\"? Three things sit together in 1978 and no source connects them. The camp opened a recreation hall it called Katimavik; a Kanawana staff member was living inside the federal Katimavik programme, created in 1977; and Pierre Elliott Trudeau, whose government created that programme, sent the camp a letter congratulating it on the opening. The letter itself says nothing about the building's name. THE COINCIDENCE IS STRIKING AND THAT IS EXACTLY WHY IT SHOULD NOT BE WRITTEN UP AS A CONNECTION: a camp naming a building in Inuktitut in the 1970s needs no federal explanation, and the wider Ka-News run, the 1977-79 reports, or anyone who was there could settle it.",
+      "category": "site",
+      "entities": [
+        "Katimavik",
+        "Camp Kanawana",
+        "Pierre Elliott Trudeau"
+      ],
+      "date_ref": "1977-1978",
+      "sources": [
+        "src_photo_trudeau_letter_1978",
+        "src_ia_kanawana_report_1978",
+        "src_ia_ymca_montreal_fonds_collection"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.25",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4834",
+      "claim": "A CORRECTION ABOUT A REPRODUCTION, NOT A DOCUMENT. This project recorded the Trudeau letter as \"undated on its face\" and dated it to 1978 by matching it against the 1978 director's report. The letter was never undated: a second, fuller photograph supplied the same day shows the dateline at the foot of the sheet, \"O t t a w a ,  1 9 7 8 .\", letter-spaced in the typewriter style of the period. The first photograph was cropped above it. THE LESSON IS ABOUT PHOTOGRAPHS OF DOCUMENTS: a crop removes evidence silently and leaves no mark that anything is missing, so a property of the image gets recorded as a property of the artefact. The inference drawn from the report happened to be right, which is the uncomfortable part -- a correct answer reached from a false premise would have survived unexamined if the second photograph had never arrived. WHERE A DOCUMENT IS KNOWN ONLY FROM AN IMAGE, 'the document does not say X' should be written as 'the image does not show X'.",
+      "category": "methodology",
+      "entities": [
+        "Pierre Elliott Trudeau",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026-09-05",
+      "sources": [
+        "src_photo_trudeau_letter_1978"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.26",
+      "added_by": "manual"
     }
   ]
 }

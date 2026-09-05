@@ -21,9 +21,9 @@ Patten served as a Liberal MPP for Ottawa Centre (1987–1990, 1995–2007), hol
 
 ## Open Questions
 
-0. [New 2026-08-14, Important] Is the "Rick Patten" on the Advance Guard '63 dining-hall plaque this Richard Patten? The article asserted it as fact until 2026-08-14 and now records it as plausible-but-unproven. Resolvable by an obituary or biography that names Kanawana specifically (his 2021 obituary does not), or by a camper roster for 1963.
-1. [Nice-to-have] What years, if any, did Patten attend residential Kanawana as a camper? The only candidate evidence is the 1963 "Rick Patten" plaque, whose identification is now open (question 0). His documented camp work is the Montreal YMCA **day camps**.
-2. [Nice-to-have, **premise corrected 2026-08-14**] What connection, if any, existed between Patten's 1976–79 YMCA role and his earlier camp years? The premise as previously written — that he was "YMCA Montreal Executive Director (overseeing Kanawana)" — is **wrong**. He was Executive Director of the **Centre-ville/Downtown branch**, one branch among several; the association's chief executive across those years was Ross Bannerman, and Camping and Outdoor Education was a separate parallel branch under Derek Walsh and then G. David Twynam. Patten had no line authority over Kanawana.
+1. [New 2026-08-14, Important] Is the "Rick Patten" on the Advance Guard '63 dining-hall plaque this Richard Patten? The article asserted it as fact until 2026-08-14 and now records it as plausible-but-unproven. Resolvable by an obituary or biography that names Kanawana specifically (his 2021 obituary does not), or by a camper roster for 1963.
+2. [Nice-to-have] What years, if any, did Patten attend residential Kanawana as a camper? The only candidate evidence is the 1963 "Rick Patten" plaque, whose identification is now open (question 0). His documented camp work is the Montreal YMCA **day camps**.
+3. [Nice-to-have, **premise corrected 2026-08-14**] What connection, if any, existed between Patten's 1976–79 YMCA role and his earlier camp years? The premise as previously written — that he was "YMCA Montreal Executive Director (overseeing Kanawana)" — is **wrong**. He was Executive Director of the **Centre-ville/Downtown branch**, one branch among several; the association's chief executive across those years was Ross Bannerman, and Camping and Outdoor Education was a separate parallel branch under Derek Walsh and then G. David Twynam. Patten had no line authority over Kanawana.
 
 ## Related Articles
 

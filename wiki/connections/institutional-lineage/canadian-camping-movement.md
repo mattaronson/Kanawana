@@ -1,7 +1,7 @@
 # The Canadian Camping Movement
 
-*Status: E1-reviewed | Sources: 13*
-*Last Updated: 2026-09-04*
+*Status: E1-reviewed | Sources: 18*
+*Last Updated: 2026-09-05*
 
 ## Summary
 
@@ -424,6 +424,73 @@ A reconciliation suggests itself — the 1891 "Lake of the Woods Institute" may 
 
 What is not in doubt is the claim worth making: **Kanawana is Quebec's first residential summer camp, and one of the oldest in Canada.** The ordinal ranking has been removed from this article, from [[connections/related-camps/quebec-camp-landscape|The Quebec Camp Landscape]] and from [[history/timeline-overview|Timeline Overview]], and the disagreement is recorded as conflict `c_031`.
 
+### Continuity, tested: every claimant has an interruption
+
+The ranking above was withdrawn on founding dates. A separate question is whether Kanawana can claim
+to be Canada's **oldest continuously operating** camp — a stricter test, since a camp that stops and
+restarts is disqualified however early it began. That test was run in September 2026 against all three
+claimants, and the results are set out here because the answer is not the flattering one and should not
+have to be rediscovered.
+
+**Big Cove stopped for four summers, and its owner both documents and contradicts this.** The YMCA of
+Greater Halifax/Dartmouth's own 165th anniversary yearbook states on page 8 that "**Our very own Big
+Cove YMCA Camp, in Pictou County, Nova Scotia, is the oldest continuously running residential camp in
+Canada**."^14 Twenty pages later, in the same publication's historical timeline, it records: "**1975 -
+1980 Big Cove Camp operated the last season since opening as the children's residential summer camp,
+until 1980 when it reopened for resident camping once again.**"^14 Resident camping therefore ceased
+after the 1975 season and resumed in 1980 — **four missed summers, 1976 through 1979** — in the same
+document that calls the camp continuously running. The two statements are not reconciled there.
+
+**It was a closure, not a planned fallow period.** Both independent accounts describe a cessation
+followed by a reopening, and both give the reason as the state of the plant: the camp's own director
+Kelley Byrne wrote in 1987 that it "closed in 1976 for want of repairs and reopened in 1980,"^8bl and
+the owner's yearbook speaks of the camp having "reopened for resident camping once again."^14 Neither
+describes a deliberate rest of the site. Big Cove's current website and its Wikipedia article both
+carry the "oldest" claim and mention the interruption nowhere.^15
+
+**Camp Stephens stopped for a wartime summer.** Its alumni association, writing in December 2020,
+records that COVID restrictions "made it impossible to open camp this past summer (**the first closure
+since 1917**)."^16 That dates its First World War closure to 1917; secondary summaries of the camp's
+history give 1918 instead, and no source consulted gives both, so the year is recorded as disputed.
+Either way Kanawana **ran** that season — the 1918 report gives 223 campers — while Camp Stephens did
+not. The camp's own current pages describe "over 130 years" and mention no closure of any kind.^17
+
+**And Kanawana stopped for two summers.** The 2020 and 2021 residential seasons were lost to Quebec's
+prohibition on overnight camps, which the YMCAs of Quebec's own impact report calls "two years of
+closures."
+
+**The pandemic does not separate anyone.** All three claimants lost overnight seasons in 2020, and the
+distinction that suggests itself — that Kanawana kept its site and staff working while others simply
+shut — does not survive checking. **Big Cove did the same thing.** It ran no overnight camp in 2020 but
+rented cabins to families; in 2021 it operated as a campground offering canoeing and archery and
+sustained itself through its leadership training programme; it returned to normal operations in
+2022.^18 Kanawana's alternative operations in those summers — ten day camps in city neighbourhoods, a
+virtual campfire, a fundraiser — are the same species of thing. Whether Camp Stephens ran in 2021 could
+not be established from any surface consulted, and is recorded as unknown rather than assumed either
+way.
+
+**What survives is a different and better-defined claim.** Measured as the longest unbroken run of
+consecutive seasons — one neutral metric applied identically to all three — the order is unambiguous:
+
+| Camp | Interruptions on record | Longest unbroken run |
+|---|---|---|
+| **Camp Kanawana** | 2020–21 (provincial prohibition) | **126 seasons, 1894–2019** |
+| Camp Stephens | 1917 or 1918 (war); 2020 (provincial prohibition) | ~102 seasons, 1918–2019 |
+| Big Cove | 1976–79 (want of repairs); 2020–21 | ~87 seasons, 1889–1975 |
+
+Kanawana leads by roughly a quarter-century of seasons, and does so on any of Big Cove's three
+candidate founding dates. **The defensible superlative is therefore not "oldest" but "longest
+continuously operating" — 126 consecutive seasons, 1894 to 2019.**
+
+**The assumption inside that number is named rather than buried.** It depends on Kanawana having missed
+no season between 1894 and 2019. No source records one, and the years most likely to have broken the
+run are documented as operating: the camp ran through both world wars with boy-weeks flat to rising
+across 1940–45, ran in 1918 while Camp Stephens did not, and stayed open through the 1946 polio
+outbreak on Dr. Cushing's advice with only canoe trips cancelled. But [[meta/attendance-series|the
+attendance series]] has no figure at all for many years, and **absence of a figure is not evidence of
+operation**. The 126 is stated on that basis. Anyone wishing to rely on it publicly should first close
+the gaps in the series for the years it covers.
+
 ### The association after the money stopped: a delivery agent with a federal programme
 
 The last chapter of the funding story this article tells is not a collapse but a change of form. By the summer of 1987 the association that had lost its executive director's funding in November 1984 had **a Fitness Canada-named programme and a Fitness Canada-funded employee**: "**PARC stands for Physical [Activity] Responsibility Centre, so named by Fitness Canada.** Through PARC, and our new PARC employee, **Aniko Varpalotai**, the CCA/ACC plans to take an active leadership role in increasing the quality and quantity of physical activity in Canadian Camps," under five headings — Awareness, Leadership, Programs, Network, Management. Fitness Canada had also funded the printing of the Curriculum for Camp Directors and "received, reviewed and applauded" it.^8bn
@@ -570,6 +637,11 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 8bn. "Y.M.-Y.W.C.A. Camp Stephens," by Grant Platts, Scott McGregor and Juliane Schaible, p. 21, and "What's In A Name? Camp Stephens," p. 27; "Changes!!" (Board of Management and committee announcements), p. 9; Ken Willis, "Whither C.C.A.'s Physical Activity Emphasis?", p. 10; "What is PARC?" with the profile of Aniko Varpalotai, p. 11; Colette Pouliot-Marier, "Quebec's Camp Association," p. 6, and the CCA Annual Meeting photo pages, pp. 6-7; and Jocelyn Palm, "A Final Salute to a Friend, Mary Northway," p. 27 — all *Canadian Camping Magazine* Vol. 39 No. 1 (Summer 1987) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 162).
 8bo. Henri Chalifoux, "Quebec Camping Association" / "Association des camps du Québec," p. 4; Committee Notes — Colette Pouliot-Marier, "Le comité des camps d'expression française," and Jack Pearse, "Fund Raising," p. 7; Aniko Varpalotai, "The P.A.R.C. Notebook," p. 8; "Jackpot!", p. 18; the "In This Issue" editorial note, p. 1; and the masthead, p. 2 — all *Canadian Camping Magazine* Vol. 39 No. 2 (Fall 1987) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 163). Pages 13 (Nancy Bramm's Bubby Nash article) and 19 (the Camp Cheboygan memorabilia spread) produced no machine-readable text in the Internet Archive scan and have not been read.
 8bp. Janet Adamson, "President's Message," pp. 3-4; "Got A Minute?", p. 10; Gérard Bachand, "Quebec's Region Report," p. 6; Colette Pouliot-Marier, "Committee For Camps of French Expression," p. 11; Aniko Varpalotai, "The P.A.R.C. Notebook," pp. 22-24; and "Personality Profile: Lorne Brown (1908-1976)" — interview with May Brown, pp. 12-18 — all *Canadian Camping Magazine* Vol. 39 No. 3 (Winter 1988), the final issue of the run [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 164).
+14. YMCA of Greater Halifax/Dartmouth, *165 Years of Community Building* (anniversary yearbook, 2023), p. 8 (the "oldest continuously running residential camp in Canada" claim) and p. 28 (the 1975–1980 timeline entry) [src_ymca_halifax_165th_yearbook]. The PDF's text could not be read by the fetch tool and was extracted locally; cached at `sources/cache/continuity/ymca-halifax-165th-yearbook.txt`. See [f_4739], [f_4740], [f_4741].
+15. Big Cove YMCA Camp, YMCA of Greater Halifax and Dartmouth camp page [src_ymcahfx_bigcove_page], and the Wikipedia article on the camp. Both give the "oldest" claim; neither mentions the 1976–79 interruption. See [f_4743].
+16. Camp Stephens Alumni blog, December 2020 and August 2020 posts [src_campstephens_alumni_blog] — the same alumni source cited in `c_029` for the Nelson McEwen founding claim. See [f_4744], [f_4745], [f_4746].
+17. YMCA-YWCA of Winnipeg, Camp Stephens "About Us" and history pages [src_ywinnipeg_camp_stephens]. See [f_4748].
+18. CBC News, "In the summers without summer camps, staff get creative to stay afloat" [src_cbc_bigcove_pandemic_summers]. **Not read directly**: cbc.ca returns HTTP 403 to the fetch tool while serving browsers, so this is known only through search-result summaries and is recorded in the source index as `unavailable`. See [f_4749].
 
 ## Research Notes
 
@@ -578,7 +650,7 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 - **2026-07-10** — Conflict c_020 (OCA founding: 1930 vs. 1933 vs. 1938, three different sources) resolved editorially: read as three distinct milestones rather than one disputed date — informal organization in 1930, formal chartering in 1933, Statten's first full presidency in 1938. See [[connections/institutional-lineage/taylor-statten|Taylor Statten]] for full reasoning; an editorial judgment, not new evidence.
 
 <!-- RALPH process log (informal, not reader-facing). -->
-<!-- R1 formal RALPH loop completed 2026-02-11. Strong web sources available. Big Cove YMCA Camp (1889) predates Kanawana — important correction to any "first in Canada" claims. Kanawana's position as second-oldest and Quebec's first is well-supported. Taylor Statten's YMCA background directly parallels Kanawana's institutional origins. Trent University Archives are a major untapped resource for Kanawana context within the broader movement. Ernest Thompson Seton / Woodcraft League connection to Kanawana's 1922 charter merits further investigation. -->
+<!-- R1 formal RALPH loop completed 2026-02-11. Strong web sources available. Big Cove YMCA Camp (1889) predates Kanawana — important correction to any "first in Canada" claims. Kanawana's position as Quebec's first is well-supported. [STALE 2026-09-05: this note also called the second-oldest ranking well-supported. That ranking was withdrawn on 2026-09-05 and the Summary above no longer asserts it; see c_031. The rest of the note is left as written.] Taylor Statten's YMCA background directly parallels Kanawana's institutional origins. Trent University Archives are a major untapped resource for Kanawana context within the broader movement. Ernest Thompson Seton / Woodcraft League connection to Kanawana's 1922 charter merits further investigation. -->
 
 <!-- V1 VERIFY pass completed 2026-02-14. 17/19 claims independently confirmed. Corrections applied: (1) Keewaydin founded 1893 not 1894, per Wikipedia and Keewaydin.org. (2) Camp Oolahwan was NOT first girls' camp in Canada — Camp Northway (1906) predates it by 11 years. Wording corrected to "one of the earliest." (3) Taylor Statten's 1906 YMCA role clarified as regional/early, national secretary by 1912. All other claims confirmed: Big Cove 1889, Montreal YMCA 1851, Camp Pine Crest 1910, CSET 1914, TUXIS/Trail Rangers 1918, Camp Ahmek 1921, Wapomeo 1924, Pierre Trudeau at Ahmek, OCA 1933, CCA 1936, Camp Tanamakoon 1925, Camp Ouareau 1922, Cochrane 1900, Wall 2009, Canadian Camping magazine 1949-1988. -->
 <!-- E1 REVIEW pass completed 2026-02-14. Systematic quality review: (1) All major claims cited — two general contextual sentences in Origins lack inline citations but are supported by referenced works. (2) Table reordered chronologically (Keewaydin 1893 now before Camp Jubilee 1894). (3) Names all cross-checked in V1 pass. (4) Cross-links valid. (5) Encyclopedic tone, neutral voice. (6) Open Questions actionable with archival leads. Article advanced R3-verified → E1-reviewed. -->

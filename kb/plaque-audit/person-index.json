@@ -15681,10 +15681,11 @@
   "span": 0,
   "initial_only": false
  },
- "caroline noble": {
-  "display": "Lady Caroline Noble",
+ "caroline poole": {
+  "display": "Caroline 'Big Ro Plo Plo' Poole",
   "forms": [
-   "Lady Caroline Noble"
+   "Caroline 'Big Ro Plo Plo' Poole",
+   "Lady Caroline Poole"
   ],
   "appearances": [
    {
@@ -15692,13 +15693,21 @@
     "group": "Knights",
     "role": "Knight",
     "image": "knights-of-kanawana.jpg",
-    "as_written": "Lady Caroline Noble"
+    "as_written": "Lady Caroline Poole"
+   },
+   {
+    "year": 2000,
+    "group": "Chopsy",
+    "role": "Participant",
+    "image": "last-trip-2000.jpg",
+    "as_written": "Caroline 'Big Ro Plo Plo' Poole"
    }
   ],
   "years": [
+   2000,
    2002
   ],
-  "span": 0,
+  "span": 2,
   "initial_only": false
  },
  "scott harman-heath": {
@@ -26597,26 +26606,6 @@
    2006
   ],
   "span": 6,
-  "initial_only": false
- },
- "caroline poole": {
-  "display": "Caroline 'Big Ro Plo Plo' Poole",
-  "forms": [
-   "Caroline 'Big Ro Plo Plo' Poole"
-  ],
-  "appearances": [
-   {
-    "year": 2000,
-    "group": "Chopsy",
-    "role": "Participant",
-    "image": "last-trip-2000.jpg",
-    "as_written": "Caroline 'Big Ro Plo Plo' Poole"
-   }
-  ],
-  "years": [
-   2000
-  ],
-  "span": 0,
   "initial_only": false
  },
  "florion saux": {

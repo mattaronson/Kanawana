@@ -15,14 +15,15 @@
         "1969 (Kanawana Facts sheet)",
         "1968 (YMCA Quebec website)"
       ],
-      "status": "resolved_editorially",
-      "notes": "YMCA website says 1968; Kanawana Facts sheet says 1969. Both are official YMCA sources. v49 handoff confirmed the discrepancy exists on the live site. Update 2026-07-08: direct fetch of the live YMCA Quebec history page confirms it currently states \"1968 - Kanawana starts to welcome girl campers\" as an official institutional milestone (f_1777) -- this is a genuine second documented source for 1968, not just oral history (f_0201's oral-history sourcing was a KB gap; the article prose already correctly attributed 1968 to the YMCA website, the fact record just hadn't caught up). So this remains a genuine two-documented-source conflict (YMCA Quebec's official timeline: 1968; the YMCA Kamp Kanawana Facts sheet: 1969) with oral history corroborating the 1968 side -- not resolved by the oral-history-yields-to-documents policy, since both sides have documentary backing. Still needs an editorial call, or the Co-ed Camping Pilot Project records (1967-1970) at Concordia, which could support both being correct at different phases (pilot vs. full integration).",
+      "status": "resolved",
+      "notes": "YMCA website says 1968; Kanawana Facts sheet says 1969. Both are official YMCA sources. v49 handoff confirmed the discrepancy exists on the live site. Update 2026-07-08: direct fetch of the live YMCA Quebec history page confirms it currently states \"1968 - Kanawana starts to welcome girl campers\" as an official institutional milestone (f_1777) -- this is a genuine second documented source for 1968, not just oral history (f_0201's oral-history sourcing was a KB gap; the article prose already correctly attributed 1968 to the YMCA website, the fact record just hadn't caught up). So this remains a genuine two-documented-source conflict (YMCA Quebec's official timeline: 1968; the YMCA Kamp Kanawana Facts sheet: 1969) with oral history corroborating the 1968 side -- not resolved by the oral-history-yields-to-documents policy, since both sides have documentary backing. Still needs an editorial call, or the Co-ed Camping Pilot Project records (1967-1970) at Concordia, which could support both being correct at different phases (pilot vs. full integration).\n\nUPDATE 2026-09-05 (build sweep): this record was stale. It carried the 2026-07-10 editorial reading while wiki/history/coeducation-gender.md had already superseded it on 2026-08-14 on documentary grounds. The phased reading is withdrawn; see the resolution field.",
       "created_at": "2026-02-11T06:00:00Z",
       "affects_articles": [
         "coeducation-gender"
       ],
-      "resolution": "Editorial judgment (2026-07-10, operator-approved pass): both dates treated as correct about different milestones rather than one being an error -- a pilot cohort of girls in summer 1968, with full coeducational integration formalized in 1969, consistent with the Co-ed Camping Pilot Project documentation spanning 1967-1970 and the \"Boys' Camping Committee\" persisting through 1968-1969. Editorial call, not new evidence; the Concordia pilot-project reports remain the only way to confirm directly. See wiki/context/coeducation-gender.md.",
-      "resolved_at": "2026-07-10T09:00:00Z"
+      "resolution": "RESOLVED ON EVIDENCE, 2026-08-14 (recorded here 2026-09-05): the date is 1968 and the undated Kamp Kanawana Facts sheet's 1969 is an error, not a second milestone. Three independent traces (f_2101): the camp's own 1988 report -- \"1968 Kamp Kanawana admits female campers for the first time. 66 girls registered\"; the annual reports' camper-weeks tables, where bracketed girl-camper figures first appear in the 1968 column; and the 1970 season report calling that summer the camp's \"third year as a coeducational camp\", which counts back to 1968. This supersedes the 2026-07-10 editorial judgment (a 1968 pilot with 1969 formalization), which was a reasonable call on the evidence then available and is preserved in the notes rather than deleted. The first female waterfront staff were hired in 1969, which is a separate milestone and may be what the Facts sheet half-remembered.",
+      "resolved_at": "2026-08-14T00:00:00Z",
+      "resolution_recorded_at": "2026-09-05T00:00:00Z"
     },
     {
       "conflict_id": "c_002",
@@ -61,7 +62,8 @@
       "affects_articles": [
         "taylor-statten",
         "canadian-camping-movement"
-      ]
+      ],
+      "resolution": "RESOLVED 2026-07-08: the conflict record had cited the wrong fact_id (f_0892, an unrelated Camp Ouareau fact -- a data-entry error) for the '1942' side; the correct corroborating fact was f_1277. A direct re-fetch of the ACA presidents page confirms Statten is listed under 1942, with a separate 1941 entry belonging to Esther Waldo of the YWCA -- the original 1941 reading (f_0938) was a straightforward misextraction of the same source, not a genuine second source. f_0938's claim text corrected in place; wiki/people/taylor-statten.md updated to 1942 and its inline 'discrepancy logged as c_003' note removed.  [Moved 2026-09-05 from the notes field, where it had been recorded. The resolution was never missing; it was in the wrong field, so a reader checking `resolution` on these records saw a blank and could reasonably have concluded nothing had been decided.]"
     },
     {
       "conflict_id": "c_004",
@@ -184,7 +186,8 @@
       "affects_articles": [
         "environmental-history"
       ],
-      "resolved_at": "2026-06-26T00:00:00Z"
+      "resolved_at": "2026-06-26T00:00:00Z",
+      "resolution": "Resolved: adopt RSVL/MELCCFP figure 1,239,000 m³ as canonical (official monitoring body); earlier 1,273,000 m³ treated as superseded estimate.  [Moved 2026-09-05 from the notes field, where it had been recorded. The resolution was never missing; it was in the wrong field, so a reader checking `resolution` on these records saw a blank and could reasonably have concluded nothing had been decided.]"
     },
     {
       "conflict_id": "c_010",
@@ -205,7 +208,8 @@
       "affects_articles": [
         "environmental-history"
       ],
-      "resolved_at": "2026-06-26T00:00:00Z"
+      "resolved_at": "2026-06-26T00:00:00Z",
+      "resolution": "Resolved: adopt RSVL/MELCCFP renewal time 0.36 years as canonical; 0.43 years superseded.  [Moved 2026-09-05 from the notes field, where it had been recorded. The resolution was never missing; it was in the wrong field, so a reader checking `resolution` on these records saw a blank and could reasonably have concluded nothing had been decided.]"
     },
     {
       "conflict_id": "c_011",
@@ -226,7 +230,8 @@
       "affects_articles": [
         "environmental-history"
       ],
-      "resolved_at": "2026-06-26T00:00:00Z"
+      "resolved_at": "2026-06-26T00:00:00Z",
+      "resolution": "Resolved: RSVL volunteer-monitoring dataset ran 2010-2011 (ended 2011); the 2013-2024 CRE Laurentides \"technical support reports\" are a separate document series. Both true at different scopes — not a true contradiction.  [Moved 2026-09-05 from the notes field, where it had been recorded. The resolution was never missing; it was in the wrong field, so a reader checking `resolution` on these records saw a blank and could reasonably have concluded nothing had been decided.]"
     },
     {
       "conflict_id": "c_012",
@@ -290,7 +295,8 @@
       "created_at": "2026-07-05T00:00:00Z",
       "affects_articles": [
         "directors-index"
-      ]
+      ],
+      "resolution": "RESOLVED 2026-07-05 via operator oral history (f_1728-f_1739): from 1995, Kanawana's directorship was split into a year-round Executive Director and a three-season on-site Camp Director (colloquially 'Chief' until the title was retired in the early 2020s as part of reconciliation efforts). Morgan Carter was the on-site Camp Director for summers 2001-2003 (f_1732, extending the prior 2001-2002 record); Dave Leduc's on-site directorship was a single summer, 2004 (f_1733), not 2003 as f_1215 stated. The JBC 2003 plaque's 'Camp Director: Morgan' is now fully corroborated. Its 'Chief: Dave' remains a minor open question -- since Morgan, not Dave, held the on-site directorship ('Chief') in 2003 per this corrected timeline, 'Dave' on that plaque was either a different Dave in a distinct (non-director) role, or Dave Leduc in some other capacity the year before his 2004 promotion; this residual ambiguity is not worth its own conflict record. f_1215 (Leduc directorship dated 2003) is superseded by f_1733 but left in the KB as a preserved historical record per conflict-handling convention.  [Moved 2026-09-05 from the notes field, where it had been recorded. The resolution was never missing; it was in the wrong field, so a reader checking `resolution` on these records saw a blank and could reasonably have concluded nothing had been decided.]"
     },
     {
       "conflict_id": "c_015",
@@ -583,7 +589,9 @@
       "conflict_id": "c_030",
       "entity": "Alta R. Kahn (years as Executive Secretary, Jewish Community Camps of Montreal)",
       "description": "TWO PRINTINGS OF THE SAME TRIBUTE GIVE DIFFERENT END DATES. The tribute read on Alta R. Kahn's appointment as the Quebec Camping Association English Section's first Honorary President, printed in Canadian Camping Vol. 26 No. 1 (Fall 1973), p. 12, gives her service as Executive Secretary of the Jewish Community Camps of Montreal -- Camp B'nai Brith, the Jewish Laurentian Fresh Air Camp and Wooden Acres -- as 1946 to 1949. Her obituary in Canadian Camping Vol. 36 No. 4 (Winter 1985), p. 2, signed by Frances Kelly and Robert Lazanik and clearly reworked from the 1973 text, gives the same service as 1946 to 1969. A single-digit typesetting or OCR slip (4 for 6, or 6 for 4) is the most economical explanation and neither reading is preferred here. Arguments each way: 1946-1969 fits the following sentence, 'During her years in this position, Mrs. Kahn instituted many new projects', and gives a 23-year tenure ending at a plausible retirement; 1946-1949 fits her preceding term as Executive Director of the Young Women's Hebrew Association (1936-1945) and her 1946 arrival in Quebec Camping Association work, and would leave her free for the QCA offices she held from 1958. The point is minor for Kanawana -- Kahn matters to this project as the co-chairman of the Quebec standards committee from 1959-60 -- but it is recorded because the no-silent-overwrite rule applies to small facts as well as large ones.",
-      "facts": [],
+      "facts": [
+        "f_3305"
+      ],
       "status": "unresolved",
       "flagged_at": "2026-09-05",
       "notes": "Found by the full word-for-word read of Canadian Camping, issue 153. HUMAN DECISION POINT under CLAUDE.md only in the formal sense: two documented sources disagreeing. In practice a scan of the printed 1973 and 1985 pages, or an obituary in the Montreal press for March 1985, would settle it. canadian-camping-movement.md states both readings and points here; neither is used as fact."
@@ -595,7 +603,7 @@
       "facts": [],
       "flagged_at": "2026-09-05",
       "status": "open",
-      "notes": "Human decision point under the standing directive: two DOCUMENTED sources disagreeing with each other, not oral history against a document. No resolution is offered. The wiki text has been made safe in the meantime by dropping the claim that depends on the disagreement rather than by choosing a side."
+      "notes": "Human decision point under the standing directive: two DOCUMENTED sources disagreeing with each other, not oral history against a document. No resolution is offered. The wiki text has been made safe in the meantime by dropping the claim that depends on the disagreement rather than by choosing a side.\n\n[2026-09-05, continuity test] The operator asked whether 'oldest CONTINUOUSLY OPERATING camp' salvages the withdrawn ranking. Web research says no on the ordinal but yes on a better-defined claim. EVERY claimant has an interruption. Big Cove: its owner's own 165th anniversary yearbook says on p.8 that it is 'the oldest continuously running residential camp in Canada' and on p.28 that resident camping ceased after 1975 and resumed in 1980 -- four missed summers, in one publication, unreconciled. The gap was a closure for want of repairs (Byrne 1987) and a reopening, NOT a planned fallow period. Camp Stephens: its alumni association dates a wartime closure to 1917 ('the first closure since 1917'), where secondary summaries say 1918 -- disputed; Kanawana ran that season. Kanawana: 2020-21 lost to Quebec's prohibition. The pandemic separates nobody -- Big Cove also lost 2020-21 overnight and also kept its site in alternative use (cabin rentals, campground, leadership training), so 'we kept staff and site working' does NOT distinguish Kanawana. What does distinguish it is the longest unbroken run: 126 consecutive seasons 1894-2019, against ~102 for Stephens and ~87 for Big Cove, on any of Big Cove's candidate dates. This does not resolve c_031, which remains a founding-date conflict and a human decision point per the operator's instruction of 2026-09-05 to leave it as conflicting sources. See f_4739..f_4752."
     },
     {
       "conflict_id": "c_032",
@@ -616,7 +624,12 @@
         "f_2843",
         "f_2845",
         "f_2959",
-        "f_3121"
+        "f_3121",
+        "f_2674",
+        "f_2985",
+        "f_4081",
+        "f_4622",
+        "f_2289"
       ],
       "flagged_at": "2026-09-05",
       "status": "open",
@@ -628,7 +641,8 @@
       "description": "THREE DATES, ALL PRINTED IN CANADIAN CAMPING, NONE RECONCILED BY IT. (a) 1935: the unsigned Camp Tonakela report in Vol. 11 No. 4 (June 1959) dates the camp's inception to 1935; and, independently, J. H. Ebbs's signed obituary of Wallace Forgie in Vol. 20 No. 1 states \"In 1935 he built Camp Tonakela near Madras, which was officially opened by Mr. and Mrs. Taylor Statten,\" crediting him with \"thirty-two years of voluntary service,\" which from his death on 1 December 1967 counts back exactly to 1935. Ebbs was Adele Statten Ebbs's husband and so Forgie's nephew by marriage -- a close relative writing a signed memorial. (b) 1937: Adele Statten Ebbs, writing as Canadian Chairman of the Camp Tonakela Association after visiting the camp, states in Vol. 18 No. 2 (February 1966) \"Camp Tonakela has been a demonstration of an overseas fellowship of campers and camping people since 1937\"; and the camp's twenty-first birthday was celebrated on 21 February 1958, which implies February 1937. (c) JANUARY 1938: Vol. 10 No. 3 (April 1958) records Mr. and Mrs. Taylor Statten travelling to Madras to open the camp officially, citing The Madras Mail of 17 January 1938; J. Alex Edmison's Taylor Statten memorial in Vol. 14 No. 4 (June 1962) independently gives 1938 as the year Tonakela was established. THE LIKELIEST RECONCILIATION -- built 1935, camping from 1937, officially opened January 1938 -- fits every source, but it reconciles them rather than reporting any of them, and no source states it. An earlier pass in this project recommended resolving in favour of 1937 and marking 1935 superseded; that recommendation was too confident and is withdrawn, because 1935 has two independent documented supports of its own, one a signed memorial by a close relative.",
       "facts": [
         "f_3188",
-        "f_3286"
+        "f_3286",
+        "f_2877"
       ],
       "flagged_at": "2026-09-05",
       "status": "open",
@@ -639,7 +653,9 @@
       "entity": "The Canadian Camping Association (year founded)",
       "description": "THREE DATES, ALL ATTESTED. (a) 1936: kb/facts.json records the CCA as founded in 1936 with Taylor Statten as its first president. (b) 1940: the CCA's own annual meeting of 1 March 1967 \"marked the 27th Anniversary of the national association,\" per May Brown's report in Canadian Camping Vol. 19 No. 4 (June 1967), which implies 1940. (c) 1949: Mrs. J. Wesley Campbell's Centenary Journey statement in Vol. 17 No. 2 (February 1965) says \"the Canadian Camping Association itself was incorporated in 1949,\" and the run's own first issue, February 1949, reports a new CCA constitution just accepted by the Secretary of State; W. E. Yard's 1966 tribute to Dais Gass adds that she chaired the meetings in Montreal, Toronto and Kingston that worked out \"the first official charter of the Canadian Camping Association,\" which he first attended \"early in 1949.\" A LIKELY RESOLUTION SUGGESTS ITSELF and is not adopted: that 1936 marks the founding of a Canadian section within the American Camping Association, 1940 a national organizing step, and 1949 the incorporation as an independent body -- consistent with Mary Edgar's statement that the CCA \"no longer a section of the American Camping Association, held its first conference in Ottawa in May of 1947,\" and with Nan Vail's memory that the Gass years \"were difficult times because the Executive was determined to have our Association become a National body separated from the American Camping Association.\" But no source states that sequence, and the 1940 figure is unexplained by it. Note also, from the same June 1967 issue, that Doug McEwen's profile credits \"Mr. Nelson McEwen who, in conjunction with the late Mr. Taylor Statten, founded the Canadian Camping Association,\" serving as its first Secretary while National Boys' Work Secretary of the YMCA -- a co-founder this project's account does not name. EXTENDED (extraction pass, issue 92): Charles F. Plewman, who founded the magazine and was OCA president from the autumn of 1944, writes in Canadian Camping Vol. 24 No. 1 (Fall 1971): \"Before very long, I think it was in 1946, the Canadian Camping Association was formed at a meeting held in the Chateau Laurier in Ottawa,\" adding that nearly all its members were representatives of the Ontario and Quebec associations, that no other province then had one, and that \"for the moment it had no corporate existence.\" He also names \"Miss Dais L. Gass, president of the C.C.A. in 1946\" as author of the magazine's first editorial. This is a second, independent, first-hand source for a 1946 founding event, with a venue -- and it hedges the year, not the event. It does not overturn 1936, but it makes the 1946-reorganisation reading of the Camp Stephens claim about Nelson McEwen substantially more likely than an error, and turns the question into a checkable one: what happened at the Chateau Laurier in 1946. The CCA's own minutes should be in the OCA archives deposited at Trent in October 1970 (see p_348). EXTENDED AGAIN (extraction pass, issue 107): A DOCUMENTARY INCORPORATION DATE. The Newfoundland & Labrador Camping Association's entry in the January 1976 Directory Issue states that the CCA 'was incorporated by Letters Patent at Ottawa November 5, 1949.' That fits Plewman's own qualification exactly -- he put the founding meeting at the Chateau Laurier in 1946 and added that 'for the moment it had no corporate existence.' The three dates may therefore be three stages of one process rather than three rival claims: organising activity from 1936-37 (the Concordia holdings, and Van Wagner calling himself 'promoter and charter member' in 1937), a founding meeting in 1946, and incorporation on 5 November 1949. The QCA English Section took its own Federal Charter in 1949 as well, which suggests a single round of formalisation. The conflict stays open -- this places the dates in a sequence, it does not prove the sequence -- but the 1949 letters patent is the first documentary date in the record. EXTENDED AGAIN (extraction pass, issue 111): A FOUNDER SAYS 1936 IN HIS OWN PERSON. Charles Plewman, on being made an Honorary Member of the CCA: 'When the Canadian Camping Association was formed back in 1936, it was an act of faith, pure and simple. It was only a dream... because after all there were only two provinces in the whole of Canada that even had Camp Associations. In the thirty-eight years that have elapsed since that time, we have made that dream come true.' The internal arithmetic (1936 + 38 = 1974) places the address at the October 1974 annual meeting in Montreal; the February 1977 newsletter reprints it. So the SAME witness who dated a founding meeting to the Chateau Laurier in 1946 (issue 92) elsewhere dates the association's formation to 1936 -- which is a reason to read the two as stages rather than as rivals, and a reason not to treat Plewman as a witness for 1946 against 1936.",
       "facts": [
-        "f_3266"
+        "f_3266",
+        "f_4209",
+        "f_1385"
       ],
       "flagged_at": "2026-09-05",
       "status": "open",
@@ -649,7 +665,9 @@
       "conflict_id": "c_036",
       "entity": "Camp Ecole Trois-Saumons (year founded)",
       "description": "TWO DATES, BOTH FROM CANADIAN CAMPING, TWO YEARS APART. (a) 1946: Huguette Dagenais's \"Nouvelles du Quebec\" in Vol. 23 No. 3 (Spring 1971) congratulates \"le Camp Ecole Trois Saumons qui fete cette annee son 25e anniversaire,\" naming l'abbe Raoul Cloutier as founder and Lucie Samson and l'abbe Patrice Turcotte as current co-directors -- a 25th anniversary in 1971 counts back to 1946. (b) about 1948: Cousineau's account in Vol. 21 (1969) describes the camp as founded \"some 21 years ago,\" which points to 1948. Two documented sources in the same magazine disagreeing with each other is a human decision point under the 2026-07-07 directive, not something the oral-history rule resolves. Trois-Saumons matters to this project because it is the camp credited with introducing hebertisme to North America, and because Cloutier's post-war camp founding bears on the Quebec association's own origins traced at issues 79 and 82 -- though the two-year difference does not change the conclusion there.",
-      "facts": [],
+      "facts": [
+        "f_3520"
+      ],
       "flagged_at": "2026-09-05",
       "status": "open",
       "notes": "Opened during the KB extraction pass over the word-for-word read of Canadian Camping (issues 90-91). Both claims are recorded in kb/facts.json with confidence 'disputed'. Resolution would need a third source: the camp's own records, the Quebec association's directory listings, or diocesan records for l'abbe Raoul Cloutier."
@@ -658,7 +676,9 @@
       "conflict_id": "c_037",
       "entity": "Society of Camp Directors (date of the founding banquet, 1969)",
       "description": "TWO DATES, BOTH IN CANADIAN CAMPING, TWO YEARS APART. (a) 21 May 1969: J. Harry Ebbs's founding address as printed in Vol. 21 (1969) is headed as delivered at \"the Founding Banquet held at the Rosedale Golf Club, Toronto on May 21st, 1969.\" (b) 12 May 1969: Clifford Labbett, Director of Camp Oconto and the Society's president, writes in Vol. 24 No. 1 (Fall 1971) that the inaugural dinner was \"held at the Rosedale Golf & Country Club, Toronto, on May 12, 1969,\" with fifty-seven members attending. Same venue, same event, nine days apart. Two documented sources disagreeing with each other is a human decision point under the 2026-07-07 directive. Not a Kanawana date, but the Society's founding is load-bearing for the professionalisation chronology this read has been assembling, and the discrepancy should not be silently smoothed.",
-      "facts": [],
+      "facts": [
+        "f_3573"
+      ],
       "flagged_at": "2026-09-05",
       "status": "open",
       "notes": "Opened during the KB extraction pass over the word-for-word read of Canadian Camping (issues 92-93). Both claims are in kb/facts.json, the later one with confidence 'disputed'. Resolution would need the Society's own minutes, which by Labbett's account are held with its secretary (David Palter in 1971), or the OCA archives at Trent."
@@ -667,10 +687,307 @@
       "conflict_id": "c_038",
       "entity": "Hebertisme (origin of Georges Hebert's method)",
       "description": "TWO ACCOUNTS IN CANADIAN CAMPING, THREE YEARS APART. (a) Claude Cousineau, Vol. 21 (1969): a pre-war methode naturelle, demonstrated in 1913, carried to Quebec after the Second World War by l'abbe Raoul Cloutier and Gauvreau, with Camp Ecole Trois-Saumons as the point of entry to North America. (b) Walter Mingie, Director of Camp Carowanis, Vol. 24 No. 3 (Spring 1972): Hebert \"was charged with the responsibility of training or conditioning the men of France's navy during World War I... giving the men three week's training on an obstacle course in the forests of France.\" Two documented sources in the same magazine disagreeing about when and for whom the method was devised. Not a Kanawana fact, but hebertisme is the named ancestor of the rope- and obstacle-course programming that Quebec camps ran, and the project should not smooth the two accounts into one.",
-      "facts": [],
+      "facts": [
+        "f_3632"
+      ],
       "flagged_at": "2026-09-05",
       "status": "open",
       "notes": "Opened during the KB extraction pass over the word-for-word read of Canadian Camping (issues 94-96). Both claims are in kb/facts.json, the later with confidence 'disputed'. Resolution needs a source outside this magazine: Hebert's own published works, or French military physical-training records."
+    },
+    {
+      "conflict_id": "c_039",
+      "entity": "Mabel C. Jamieson's institutional role, and when she founded Camp Ouareau",
+      "description": "FOUR ACCOUNTS, TWO OF THEM FIRST-HAND, AND THEY DO NOT AGREE. (a) Camp Ouareau's own history, repeated by Wikipedia, calls Jamieson 'secretary general of the Y.M.C.A. of Montreal at least from 1915 to 1920' -- a role this project could not verify and which looks like a YMCA/YWCA conflation, since she was National Student Secretary of the YWCA of Canada in 1915. (b) Ferna Graham Halliday's 1955 profile says she was General Secretary of the Montreal YWCA, established Camp Oolahwan for it, resigned the Montreal post in 1921, and came back in 1922 to organize Ouareau. (c) Jamieson's own first-person account, December 1956: her YWCA association 'was broken off during the summer of 1919' and the camp follows from 1920. (d) The founding year itself is given as 1922 by the camp and implied earlier by Jamieson. Two of these are first-hand and they still disagree about the year she left the YWCA.",
+      "fact_ids": [
+        "f_0912",
+        "f_0944",
+        "f_2702",
+        "f_2732"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
+    },
+    {
+      "conflict_id": "c_040",
+      "entity": "Camp Oolahwan's opening year: 1915 or 1917",
+      "description": "TWO YWCA SOURCES, EIGHT YEARS APART IN THE TELLING. The YWCA Montreal 150-year timeline (2025) states Camp Oolahwan opened in 1915; the camp's own dedicated YWCA page and the 2017 centennial both use 1917. Mary Edgar served as Director from 1915 to 1919, which is compatible with either a 1915 trial season on another site or a 1915 appointment preceding a 1917 establishment on Lake Walfred. Same institution, two dates, no reconciliation offered by either.",
+      "fact_ids": [
+        "f_1253"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
+    },
+    {
+      "conflict_id": "c_041",
+      "entity": "Which was Canada's first summer camp for girls",
+      "description": "THREE CAMPS CLAIMED AS THE FIRST, IN THREE DIFFERENT DECADES. (a) OOLAHWAN, 1917: the YWCA Montreal claims it as the first summer camp for girls in Canada. (b) NORTHWAY LODGE, c.1905-06: Joyce Plumptre Tyrrell's 1955 obituary of Fannie L. Case says Case 'founded Northway Lodge as the first girls' camp in Canada', out of her 1905 Algonquin trips. (c) GLEN BERNARD / OUAREAU, 1922: Marnie Ellis's review of Legacy to a Camper claims Mary S. Edgar 'created the first Canadian private camp for girls', which collides with Camp Ouareau of the same year, itself recorded as one of the two oldest girls' camps. The claims may be reconcilable by qualifier -- first, first PRIVATE, first YWCA -- but no source supplies the qualifier, and each is stated flatly.",
+      "fact_ids": [
+        "f_0900",
+        "f_2683",
+        "f_4347"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
+    },
+    {
+      "conflict_id": "c_042",
+      "entity": "Camp Northway Lodge's founding year: 1905, 1906 or 1917",
+      "description": "A FOURTH DATA POINT ON A CARRIED-FORWARD DISAGREEMENT, AND THE STRONGEST KIND. Ann Prewitt, Director of Camp Northway Lodge, writes in Fall 1968 that 'Northway Camp Chats date back to 1906.' A camp magazine cannot predate its camp, so this puts the camp at 1906 or earlier and bears against 1917. This project's records carry 1905, 1906 and 1917.",
+      "fact_ids": [
+        "f_3323"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
+    },
+    {
+      "conflict_id": "c_043",
+      "entity": "Lemuel Cushing Sr.'s birth date, inside one genealogy",
+      "description": "A PRIMARY SOURCE DISAGREEING WITH ITSELF. The 1905 Cushing genealogy gives two birth dates for Lemuel Cushing Sr., both at Three Rivers: the child listing under Job Cushing says 29 April 1806, his own full entry says 26 April 1806. Most likely a typesetting or OCR slip, but which figure is the error is not determinable from the text, and neither reading has been checked against a register.",
+      "fact_ids": [
+        "f_1177"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
+    },
+    {
+      "conflict_id": "c_044",
+      "entity": "Kanawana's acreage: 455 or 550",
+      "description": "TWO FIGURES, ONE OF THEM THE CAMP'S OWN. Wikimapia's entry states 455 acres, in phrasing near-identical to promotional copy used elsewhere; the YMCA's current claim is 550 acres. The near-identical wording suggests both descend from a common promotional text, which would make this one figure that changed rather than two independent measurements -- but Wikimapia's page could not be fetched directly to check. A deed or survey would settle it.",
+      "fact_ids": [
+        "f_1943"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
+    },
+    {
+      "conflict_id": "c_045",
+      "entity": "When Camp Perrot's resident programme closed",
+      "description": "TWO INTERNAL DOCUMENTS, GENUINELY IRRECONCILABLE ON A SINGLE DATE. A 1959 memo by director Donald Cochrane rebuts a July 1958 Camp Committee decision to close the resident camp once a new site was found, which places the resident programme fully operating in 1958-59. A separate strand records the site as a family centre by 1969. Between those two the closure is undated, and the 1958 committee decision shows that closure was being planned years before it happened -- so a decision date and a closing date are being conflated somewhere.",
+      "fact_ids": [
+        "f_1975"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
+    },
+    {
+      "conflict_id": "c_046",
+      "entity": "Two Order of Owens name spellings, paddle against roster",
+      "description": "THE OBJECT AND THE ROSTER DISAGREE, AND SO DO TWO PADDLES. The 2008 recipient is 'Oscar Newsam' on the paddles and 'Oskar Newsam' in the operator-supplied roster. The 2009 recipient is 'Russell Donahue' on the blackletter paddle and 'Russel Donahue' on the cursive one. Small, but these are people's names on an honour roll, and the wiki has to print one spelling. Resolvable by asking the recipients or by a higher-resolution photograph.",
+      "fact_ids": [
+        "f_1995"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
+    },
+    {
+      "conflict_id": "c_047",
+      "entity": "Which Concordia sub-series holds the Dawson and Charlton photographs",
+      "description": "TWO KB FACTS DISAGREE AND THE ARTICLE FOLLOWED THE WRONG ONE. The paired undated photographs of 'R. H. Dawson' and R. L. Charlton are placed in sub-series 12L (Lac St-Joseph / Camp Jubilee) by one fact and 12A by the cited source. rl-charlton.md stated 12L while citing the 12A source. Both readings are now recorded in the article and neither is asserted. A direct read of the finding aid settles it.",
+      "fact_ids": [
+        "f_2068"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
+    },
+    {
+      "conflict_id": "c_048",
+      "entity": "The 1954 'Indian Council Ring' -- new structure, or rebuilt one",
+      "description": "A LITERAL READING OF THE 1954 ANNUAL REPORT IS IMPOSSIBLE. It states that 'The Y's Men's Club of Westmount provided Kanawana with an Indian Council Ring, which greatly enhanced the Indian Lore Program.' Read literally this is a new council ring in 1954, but a council ring is continuously documented from about 1920. Most likely a rebuilding, a relocation or a donation of furnishings described as a provision -- but the report does not say so, and the wording is the kind that gets quoted as a founding.",
+      "fact_ids": [
+        "f_2118"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
+    },
+    {
+      "conflict_id": "c_049",
+      "entity": "Dining hall and lodge construction dates",
+      "description": "TWO CAMP DOCUMENTS, THIRTY-SEVEN YEARS APART, ON THE SAME TWO BUILDINGS. The 1988 facilities table gives the dining hall as 1919 and the lodge as 1880s. The 1951 camp history gives the dining hall as 1920 and says 'In 1927 the lodge and museum was built.' The dining-hall gap may be construction start against completion. The lodge gap cannot be: 1880s and 1927 are not the same building event, and an 1880s date would predate the camp's arrival on the site.",
+      "fact_ids": [
+        "f_2121"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
+    },
+    {
+      "conflict_id": "c_050",
+      "entity": "The scarlet fever quarantine: which summer",
+      "description": "THE OUTBREAK IS CERTAIN, THE YEAR IS OFF BY ONE. The YMCA of Montreal Annual Report for 1941 records that 'a mild case of scarlet fever developed, followed by two others, so that the camp had to be quarantined for about four weeks.' Annual reports of this period routinely describe the PRECEDING season, so the outbreak may belong to 1940 rather than 1941. The wiki has carried it under one year without recording that the reporting convention makes the other possible.",
+      "fact_ids": [
+        "f_2147"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
+    },
+    {
+      "conflict_id": "c_051",
+      "entity": "When Camp Jubilee was renamed Camp Otoreke: 1909 or 1910",
+      "description": "TWO RETROSPECTIVE SOURCES, NEITHER CONTEMPORANEOUS. QAHN dates the renaming to 1909; the camp's own 1988 retrospective dates it to 1910. Both postdate the event by decades. The earliest attestation of 'Otoreke' anywhere in this corpus is the 1921-22 Annual Report, so no contemporaneous document has yet been found on either side.",
+      "fact_ids": [
+        "f_2181"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
+    },
+    {
+      "conflict_id": "c_052",
+      "entity": "The CCA National Office street number, in one issue",
+      "description": "A SOURCE CONTRADICTING ITSELF ON THE SAME ADDRESS. The December 1949 Canadian Camping gives the CCA National Office as 2045 Coursol St. on the masthead and 2035 Coursol St. in Anne Vail's own message on p. 12. Trivial in itself, but it is the association's own address in its own first year, and it is the kind of detail a later history will cite from whichever page it happens to read.",
+      "fact_ids": [
+        "f_2504"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
+    },
+    {
+      "conflict_id": "c_053",
+      "entity": "The venue of the 1951 National-Quebec Conference",
+      "description": "AN ANNOUNCED VENUE THAT CHANGED, OR AN ERROR. February 1951 Canadian Camping announced the Grenadier Guards' Armoury; April 1951 announces the Sir Arthur Currie Gymnasium, 475 Pine Avenue West (McGill), twice and in an advertisement. The later notice is the better evidence of where the conference actually sat, but nothing states that a change occurred, so this may equally be a corrected error.",
+      "fact_ids": [
+        "f_2547"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
+    },
+    {
+      "conflict_id": "c_054",
+      "entity": "The date of the CCA's Letters Patent: 4 or 5 November 1949",
+      "description": "THIS PROJECT'S OWN SOURCES DISAGREE BY ONE DAY. canadian-camping-movement.md source 8c gives 4 November 1949; the association's own 1976 directory gives 5 November 1949. A transcription slip on one side or the other. Flagged rather than silently harmonised, because the incorporation date is the kind of fact that gets repeated for a century.",
+      "fact_ids": [
+        "f_4056"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
+    },
+    {
+      "conflict_id": "c_055",
+      "entity": "When the CCA presidency passed to May Brown in 1965",
+      "description": "TWO FIRST-HAND ACCOUNTS OF THE SAME YEAR, IN DIFFERENT CITIES. May Brown says she became president at the 1965 annual meeting at Parkesville, British Columbia, having proposed there that the executive move west, succeeding Don Smith of Alberta (1963-65). John Latimer says 'My first meeting with the then President of C.C.A., David Hartry was in the basement of a synagogue in Halifax -- the year was 1965.' Both may be right if the handover fell between the two occasions, but as recorded they put two different people in the office in the same year.",
+      "fact_ids": [
+        "f_4262",
+        "f_4297"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
+    },
+    {
+      "conflict_id": "c_056",
+      "entity": "Camp Oconto's first summer: 1924 or 1925",
+      "description": "A ONE-YEAR DISCREPANCY AGAINST THIS WIKI'S OWN ARTICLE. June Labbett's 1971 memorial states that 'in 1925 Oconto opened for its first summer' and calls Ferna Graham Halliday 'its Director from 1925 to 1949'; camp-oolahwan.md gives Camp Oconto in Tichborne, Ontario, as 1924. Both dates recorded, neither asserted.",
+      "fact_ids": [
+        "f_3509"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
+    },
+    {
+      "conflict_id": "c_057",
+      "entity": "Camp Nominingue's founding: 1924 or 1925",
+      "description": "THE FOUNDER'S OWN TRIBUTE AGAINST THIS PROJECT'S CARRIED DISCREPANCY. F. M. Van Wagner's 1975 tribute gives Camp Nominingue's founding as 1925, and the fiftieth-season arithmetic agrees -- a fiftieth season in 1974 counts back to 1925. This project's records carry both 1924 and 1925. Recorded as evidence for 1925 without unilaterally overwriting the other.",
+      "fact_ids": [
+        "f_3838"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
+    },
+    {
+      "conflict_id": "c_058",
+      "entity": "Who founded and first edited the Canadian Camping Bulletin",
+      "description": "THREE ATTRIBUTIONS, TWO OF THEM TO THE SAME WOMAN BUT FOR DIFFERENT THINGS. Mary Northway writes that Mary S. Edgar was 'the right person to initiate and become first editor of the Canadian Camping Bulletin (February 1949', remaining so until April 1953. 'Under Open Skies' in Summer 1986 calls Edgar 'the Founder of Canadian Camping Magazine'. Charles Plewman separately credits Edgar as first editor of an EARLIER bulletin -- so 'the Bulletin' may not be the same publication in each account, and 'founder of the magazine' may be a later gloss on 'first editor of the bulletin it grew from.'",
+      "fact_ids": [
+        "f_3763",
+        "f_4589"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
+    },
+    {
+      "conflict_id": "c_059",
+      "entity": "Mary S. Edgar's bibliography: two dates and a title",
+      "description": "TWO DOCUMENTED DISAGREEMENTS, RECORDED AND NOT RESOLVED. The Winter 1987 'Under Open Skies' attribution line dates Under Open Skies to 1955 (Clarke, Irwin & Company) where this project records 1956 from her fonds description; and the same feature gives a title differing from the fonds record. A library catalogue record would settle both.",
+      "fact_ids": [
+        "f_4638"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
+    },
+    {
+      "conflict_id": "c_060",
+      "entity": "The Second International Camping Congress: 2-5 or 3-5 March 1987",
+      "description": "ONE PUBLICATION, TWO DATE RANGES. Canadian Camping Summer 1986 gives 2-5 March 1987; issues 151, 155 and 159 give 3-5 March. An internal inconsistency in the same source run, recorded as such. The three-against-one weighting favours 3-5, but the outlier is the earliest notice and may record a date later shortened.",
+      "fact_ids": [
+        "f_4594"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
+    },
+    {
+      "conflict_id": "c_061",
+      "entity": "Camp Stephens's First World War closure: 1917 or 1918",
+      "description": "THE ALUMNI ASSOCIATION AGAINST THE SECONDARY SUMMARIES. The Camp Stephens Alumni blog states in December 2020 that COVID-19 restrictions made it 'impossible to open camp this past summer (the first closure since 1917)', dating the wartime closure to 1917. Secondary summaries of the camp's history give 1918. This matters beyond Camp Stephens: the year is load-bearing for the longest-unbroken-run comparison in wiki/history/oldest-camp-question.md.",
+      "fact_ids": [
+        "f_4744"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
+    },
+    {
+      "conflict_id": "c_062",
+      "entity": "Camp Kitchikewana's founding: 1919, or earlier",
+      "description": "THE CAMP'S OWN DATE AGAINST TWO OBITUARY NOTICES. The camp and this KB give 1919. C. R. 'Blackie' Blackstock's 1979 obituary and the 1984 Ebbs tribute both describe him as a Kitchikewana 'original' who 'started the first year of that Y camp on Beausoleil Island' in terms that read as earlier. If Kitchikewana predates 1919 it bears on the L&V transmission question, since Kitchikewana is one of only four camps known to run the Games and does not date its own.",
+      "fact_ids": [
+        "f_4768"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-05T00:00:00Z",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "affects_articles": []
     }
   ]
 }

@@ -1,6 +1,6 @@
 # The Order of the Knights of Kanawana
 
-*Status: R3-verified | Sources: 4*
+*Status: R3-verified | Sources: 5*
 *Last Updated: 2026-09-02*
 
 ## Overview
@@ -40,9 +40,9 @@ Each entry is given as the board paints it. The right-hand column records where 
 | 1994 | Sir Christian Eichler | — |
 | 1998 | Sir Josh Usheroff | Staff 02 |
 | 1999 | Sir Conor Ohiel | *(probably the Connor O'Neil of CIT 2000)* |
-| 2002 | Lady Ali Olshefsky | Rangers 2002 |
+| 2002 | Lady Ali Olshefsky | Rangers 2002; **Pip Alumni Award 2025** |
 | 2002 | Sir Ian Braide | Rangers 2002; Senior Boys 2007 |
-| 2002 | Lady Caroline Noble | *(reading unsettled — see Open Questions)* |
+| 2002 | Lady Caroline Poole | *"Last Trip of 2000" board; reading resolved 2026-09-05*^5 |
 | 2008 | Sir Scott Harman-Heath | — |
 | 2009 | Sir Dylan Applebaum | Order of Owens 2010 |
 | 2009 | Sir Dylan O'Brien | Chopsys 2008 |
@@ -55,13 +55,15 @@ Each entry is given as the board paints it. The right-hand column records where 
 
 **Knighthood sat early on the camp's career ladder, not at the end of it — with one clear exception.** Eight of the twenty-nine knights appear on some other board, and the order of their credits is the evidence. Susan Gamberg, Andrew Henle and Ryan Harbinson were all knighted in 1992 and are CITs on the 1993 plaque; Dylan O'Brien is on a 2008 section board and knighted in 2009; Josh Usheroff was knighted in 1998 and is on the Staff 02 plaque. Five of the eight were knighted *before* the credit that follows, which is what an early rung looks like. The exception is **Denys Lawrence**, on the Staff of '79 board the year before his 1980 investiture — knighted as staff, not as a camper. **Lindsay Kertland** and **Ian Braide** fit neither pattern cleanly: Kertland's credits run Knight 1980, canoe-staff paddle 1983, CIT 1985, and Braide's run Rangers 2002 to Senior Boys 2007, both of which put a junior credit *after* a senior one. Those two are flagged in [[people/multi-year-index|the multi-year index]] as cases where the board labels may be misleading or where two people share a name. So the roll is consistent with an early rung for most of the knights it can be checked against — eight is a small sample, and one of the eight points the other way.
 
+**The roll now has one traceable outcome, and it is the only one.** **Lady Ali Olshefsky**, knighted in 2002 and named on the Rangers 2002 board the same season, received Camp Kanawana's [[traditions/pip-alumni-award|Pip Alumni Award]] in 2025 — identified from YMCA Quebec's 2026 news release for the following year's award.^5 Checked name by name, hers is the **only** overlap between these twenty-nine knights and the sixteen known Pip recipients [f_4818]. The two honours measure opposite things: knighthood is for mastery *inside* the camp, awarded to a camper; the Pip is for what an alumnus did *afterwards* in the wider world. Twenty-three years separate them in her case. Nothing else in this project follows a knight past the gate, so this is the first evidence of any kind about what the order's honorands went on to do — a sample of one, which is worth stating plainly rather than dressing up as a pattern.
+
 **The roll has large gaps, and they are ambiguous.** Investitures are recorded in thirteen distinct years only: 1980–82, 1987–88, 1992–94, 1998–99, 2002, 2008–09. Nothing appears for 1983–86, 1989–91, 1995–97, 2000–01, or 2003–07. Two readings are possible and the board cannot distinguish them. Either **the order ran continuously and simply produced no one worthy in those years** — entirely consistent with six challenges that include two five-day canoe trips and a two-mile swim — or **the order lapsed and was revived**. The camp's own 1988 report states that all its listed programmes, the Knights included, were "still in effect" that year — which sits against a roll that is then silent from 1989 to 1991.^2 A third possibility, that the board is simply an incomplete record, cannot be excluded either.
 
 ## Open Questions
 
 1. [Important] Do the roll's gaps mean no one qualified, that the order lapsed, or that the board is incomplete? The 1988 report's "still in effect" makes the 1989–91 silence the sharpest test case.
 2. [Important] Is the 1982 knight **Sir Dave Paltiel** the same person as the **David Paltiel** named among the 1975 CITs? Seven years separate them and the order honoured campers, so a 1975 CIT being knighted as a camper in 1982 does not fit the pattern. A younger sibling is at least as likely. Not merged in [[people/multi-year-index|the index]].
-3. [Important] The faded 2002 entry read here as **Lady Caroline Noble** may instead be **Caroline Poole**, who is documented on the "Last Trip of 2000" board. Both readings fit the surviving strokes; the plaque should be re-examined before either is relied on.
+3. ~~[Important] The faded 2002 entry read here as **Lady Caroline Noble** may instead be **Caroline Poole**.~~ **[Resolved 2026-09-05]** It is **Caroline Poole**, confirmed by the operator, who was on staff that season [f_4820]. This was never a case of testimony overriding a document: the entry is painted in a lighter hand and was flagged as an unsettled reading from the moment it was transcribed. **An illegible document states nothing to be overridden** — a person who was present supplies what the surviving strokes cannot. Poole was already documented here on the "Last Trip of 2000" board, so the correction attaches the knighthood to a person this project already held rather than introducing a new name. The 2002 knights are **Ali Olshefsky, Ian Braide and Caroline Poole**.
 4. [Nice-to-have] Are the Knights and [[traditions/order-of-owens|the Order of Owens]] formally related? Two people hold both — Denys Lawrence (Owens 1977, knighted 1980) and Dylan Applebaum (knighted 2009, Owens 2010) — and in both cases the two honours fall close together but in opposite orders.
 5. [Nice-to-have] Eyal Artzy (1987) and Misha Artzy (1988) are knighted in consecutive years, and Mark Gillett (1981) and Craig Gillett (1982) likewise. Sibling pairs are the obvious reading; no source states it.
 6. [Nice-to-have] Was the investiture ceremony ever photographed or described? The charter calls for "a secret ceremony, at the discretion of the council," and nothing describing one survives in this project.
@@ -79,6 +81,7 @@ Each entry is given as the board paints it. The right-hand column records where 
 2. *Kanawana… A Place to Grow*, 1988, Programme Highlights [src_ia_kanawana_place_to_grow_1988]. See [f_2110].
 3. Kanawana Flickr "Plaque" album, the Knights of Kanawana roll board [src_flickr_kanawana_plaque_album]. See [f_1565].
 4. Cross-references drawn from the full transcription of all 151 plaque images [src_flickr_kanawana_plaque_album]. See [f_2335], [f_2336].
+5. YMCA Quebec news release, "Jared MacSween Receives Camp YMCA Kanawana 'Pip' Award", 31 August 2026 [src_ymca_quebec_pip_macsween_2026]. Names Alexandra Olshefsky among past Pip recipients; her 2025 year follows from the release's ordinals. Operator testimony on her 2002 camper year and knighthood [src_oral_aronson]. See [f_4808], [f_4815], [f_4816], [f_4818].
 
 ## Research Notes
 

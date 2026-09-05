@@ -27,10 +27,10 @@ Those two roles — Westmount councillor and Kanawana alumnus — met in the spr
 
 ## Open Questions
 
-0. [Bookkeeping] This article records a Program Director role for 2001–2002, but [[people/directors-index|Directors and Staff of Camp Kanawana]]'s "Section and Program Directors" table — whose stated purpose is exactly that class of role — has no row for it. The index and this article disagree by omission; adding the row is tracked with the other index corrections in p_227.
+1. [Bookkeeping] This article records a Program Director role for 2001–2002, but [[people/directors-index|Directors and Staff of Camp Kanawana]]'s "Section and Program Directors" table — whose stated purpose is exactly that class of role — has no row for it. The index and this article disagree by omission; adding the row is tracked with the other index corrections in p_227.
 
-1. [Nice-to-have] Did Aronson ever publish the promised follow-up post elaborating on his Green Triangle/marching-song theory? None has been found as of this writing.
-2. [Nice-to-have] What prompted Aronson's transition from camp staff (Packer, 1995–96) to Program Director (2001–02) — was there a gap in his camp involvement between these roles?
+2. [Nice-to-have] Did Aronson ever publish the promised follow-up post elaborating on his Green Triangle/marching-song theory? None has been found as of this writing.
+3. [Nice-to-have] What prompted Aronson's transition from camp staff (Packer, 1995–96) to Program Director (2001–02) — was there a gap in his camp involvement between these roles?
 
 ## Related Articles
 

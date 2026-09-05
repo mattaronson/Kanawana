@@ -25,11 +25,11 @@ The Concordia Archives also hold undated photographs of "R. H. Dawson" (likely R
 
 ## Open Questions
 
-0. [New 2026-08-14, Important] Does R. L. Charlton in fact appear in Joyce Oliver's 1939–1940 "Material for Book of Remembrance and History" (Concordia sub-series 13D)? This article asserted he did, without a source; the assertion has been removed. The project is a real and promising founding-era lead whose contents have never been read.
-1. [Important] What was Charlton's specific role at Kanawana — was he a committee member, camp visitor, or held some other formal position? His YMCA and CBMU career is documented, but his direct camp involvement is inferred from the two manuscripts and the archival photograph pairing with Dawson.
-2. [Important] The 1943 "Notes re Early Days" manuscript remains undigitized (Concordia Box HA1881); physical archive access is the only path to its full content.
-3. ~~[Nice-to-have] Can the "Furness Steamer" analogy be corroborated against actual Furness Withy or Furness Bermuda Line vessel names of the period?~~ [Exhausted 2026-07-11; count corrected 2026-08-14] A **four**-surface search (two fleet lists, a general history, Lloyd's Register Foundation's digitized collection) found zero matches — the article said "five" twice while enumerating four both times, and the KB fact lists four. Does not rule out an unindexed register year or smaller subsidiary, but remains uncorroborated.
-4. [Nice-to-have] What was Charlton's relationship to Ralph Dawson — co-leaders, committee colleagues, or fellow alumni? The only documented connection is the shared archival photo filing.
+1. [New 2026-08-14, Important] Does R. L. Charlton in fact appear in Joyce Oliver's 1939–1940 "Material for Book of Remembrance and History" (Concordia sub-series 13D)? This article asserted he did, without a source; the assertion has been removed. The project is a real and promising founding-era lead whose contents have never been read.
+2. [Important] What was Charlton's specific role at Kanawana — was he a committee member, camp visitor, or held some other formal position? His YMCA and CBMU career is documented, but his direct camp involvement is inferred from the two manuscripts and the archival photograph pairing with Dawson.
+3. [Important] The 1943 "Notes re Early Days" manuscript remains undigitized (Concordia Box HA1881); physical archive access is the only path to its full content.
+4. ~~[Nice-to-have] Can the "Furness Steamer" analogy be corroborated against actual Furness Withy or Furness Bermuda Line vessel names of the period?~~ [Exhausted 2026-07-11; count corrected 2026-08-14] A **four**-surface search (two fleet lists, a general history, Lloyd's Register Foundation's digitized collection) found zero matches — the article said "five" twice while enumerating four both times, and the KB fact lists four. Does not rule out an unindexed register year or smaller subsidiary, but remains uncorroborated.
+5. [Nice-to-have] What was Charlton's relationship to Ralph Dawson — co-leaders, committee colleagues, or fellow alumni? The only documented connection is the shared archival photo filing.
 
 ## Related Articles
 

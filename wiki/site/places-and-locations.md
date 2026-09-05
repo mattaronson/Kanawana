@@ -1,6 +1,6 @@
 # Places and Locations at Camp Kanawana
 
-*Status: E1-reviewed | Sources: 21*
+*Status: E1-reviewed | Sources: 22*
 *Last Updated: 2026-08-14*
 
 ## Overview
@@ -44,7 +44,17 @@ The camp dining hall has a capacity of over 300 people [src_ymca_website]. The 1
 
 ### Katimavik (Gymnasium)
 
-The camp's indoor gymnasium is named the **Katimavik** [src_ymca_website]. The word "katimavik" is Inuktitut for "meeting place." No documentation has been found for when the Katimavik was constructed or named, but it appears by name and location (west side of camp, near the Rock Climbing Wall, Indian Council Ring, and Chapel) on both the 1980-2001 site map and the current 2025 official map, showing at least 40+ years of continuous use [f_1791, f_1800].
+The camp's indoor gymnasium is named the **Katimavik** [src_ymca_website]. The word "katimavik" is Inuktitut for "meeting place." It appears by name and location — west side of camp, near the Rock Climbing Wall, Indian Council Ring and Chapel — on both the 1980-2001 site map and the current 2025 official map [f_1791], [f_1800].
+
+**It opened in the 1978 season, and the Prime Minister of Canada wrote to mark it.** The 1978 director's report lists "Opening Ceremony for Katimivik" among that season's special events, carries the work item "stain various parts of new recreation building", and concludes that "the new recreation hall (Katimivik) is very functional" [f_4830].^22 The camp spelled it *Katimivik* in 1978; the current spelling is *Katimavik*. The opening belongs to the **$850,000 two-site reconstruction begun in 1977–78** [f_2443].
+
+**The letter.** A framed letter on Prime Minister / Premier Ministre letterhead, under the Canadian coat of arms and over Pierre Elliott Trudeau's signature, datelined at the foot **"Ottawa, 1978."** — place and year, letter-spaced in the typewriter style of the period, with no month or day. It reads: *"I am happy to send my greetings and congratulations to all campers and staff of Kamp Kanawana as you officially open your new recreational building."* It continues in English on what the camp offers "many young people across Canada", then switches to French for two further paragraphs — *"La dimension internationale qui s'est ajoutée cette année rehaussera sûrement l'esprit d'entraide et de coopération…"* — without translating either half [f_4828].^22
+
+**The framed original says more than the camp's own printed copy.** An abridged version of the letter is the frontispiece of the 1978 director's report, and it drops both "and congratulations" and the whole clause "as you officially open your new recreational building" — leaving generic seasonal greetings with no occasion attached. Anyone working from the digitized report alone would never learn what the letter was *for* [f_4829].
+
+**A note on how this article first got it wrong.** For a few hours this section said the letter was *undated*, and dated it to 1978 by matching it against the report. The letter was never undated — the first photograph of it was simply cropped above the dateline. The inference happened to land on the right year, which is the uncomfortable part: a correct answer from a false premise leaves nothing to trip over. Where a document is known only from an image, "the document does not say X" should be written as "the image does not show X" [f_4834].
+
+**A coincidence this article declines to resolve.** In the same year the camp opened a hall called Katimavik, a Kanawana staff member was living inside the *federal* **Katimavik** programme — the national youth service created in 1977 — with the October 1978 Ka-News listing "John Lawrence, c/o Katimavik, Box 354, Bridgetown, N.S." and the December issue reporting he "heads out west soon with his group" [f_4832]. The Prime Minister whose government created that programme is the one who signed this camp's letter. **No source connects the two**, and a camp naming a building in Inuktitut in the 1970s needs no federal explanation, so the question is recorded rather than answered [f_4833].
 
 ### Millen Memorial Craft Shop (dedicated 1960)
 
@@ -321,7 +331,7 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 | **1954** | The Y's Men's Club of Westmount "provided Kanawana with an Indian Council Ring" — a donated rebuild or second ring, **not** a founding | ^21 |
 | **1974** | Outdoor **sauna** built across the lake by the oldest senior boys | ^21 |
 | **1976** | **Grand Portage** first named, with balconies repaired that year; its interior was still unfinished in 1979 | ^21 |
-| **1978** | **Katimavik** recreation hall opened, with its own opening ceremony; the Longhouse demolished (32' x 70'); a new tipi erected across the lake | ^21 |
+| **1978** | **Katimavik** recreation hall opened, with its own opening ceremony and a congratulatory letter from **Prime Minister Pierre Elliott Trudeau**; the Longhouse demolished (32' x 70'); a new tipi erected across the lake | ^21 ^22 |
 | **1987** | Council Ring razed and rebuilt by a senior boys' tent under **Toby Desjardins**; the **Suez** bridge razed and rebuilt by the entire senior boys section; "the cave" stripped, scrubbed and repaired with new steps | ^21 |
 | 1929 | *(superseded — see the 1928 entry above)* Council Ring rebuilt to seat 325 | [f_0235] |
 | 1935 | Golf course, open-air chapel, and "the haunted house" all referenced | [src_history_1935] |
@@ -367,7 +377,7 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 
 1. ~~[Critical] What are/were the Grand Portage and Longhouse?~~ [Resolved] Oral history (2026-06-13): Grand Portage was an early cabin (CIT director's, demolished ~2006 for washrooms). Longhouse was a 2-3 story boathouse on the waterfront (demolished by controlled fire ~1979). The Lookout (pre-1894) and "the Cave" (Hike & Trip equipment room) also documented.
 2. [Critical] Which historical buildings (1922 Lakeside Pavilion, Hospital, Icehouse, Chapel) are still present on the site in some form, and which have been demolished? Still open, though Katimavik, Lodge, Chief's, and several others are now confirmed continuously present from at least 1980 through 2025.
-3. [Important] When was the Katimavik gymnasium built? What was on that site previously? Still undated, but now confirmed present continuously since at least 1980-2001 (and still present in 2025).
+3. ~~[Important] When was the Katimavik gymnasium built?~~ **[Resolved 2026-09-05]** It opened in the **1978 season**, marked by an opening ceremony and a letter from Prime Minister Pierre Elliott Trudeau [f_4830], [f_4828]. **What was on that site previously is still unknown**, as is whether the building's name is connected to the federal Katimavik programme of 1977 [f_4833].
 4. [Important, pending further research] What is the history of the Farmhouse? Does it predate the YMCA's 1910 purchase of the property?
 5. [Important, narrowed 2026-07-09] When was the golf course decommissioned? What is the current use of that land? Confirmed present on the 1928 and 1941 maps but absent from the 1962 map (which shows the same area in comparable detail) — narrowing the decommissioning window to sometime between 1941 and 1962, though no exact date is documented.
 6. ~~[Important] What was "the haunted house" referenced in 1935?~~ [Largely resolved 2026-07-09] Both the 1928 and 1962 maps explicitly draw and label a "Haunted House" building at the same spot — southwest corner of the property, next to a waterfall ("Falls"), near Round Lake — confirming it as a real, persistently-named building rather than a figure of speech. What stories attached to it and whether it survives today remain undocumented despite a dedicated web campaign and a direct oral-history question to the operator.
@@ -414,3 +424,4 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 19. Concordia University Archives, YMCA of Montreal fonds, sub-sub-series P145/12B03 (Land, facilities, equipment, supplies) [src_concordia_12B03]
 20. Camp YMCA Kanawana Preparation Guide, Summer 2025 [src_kk_prep_guide_2025]
 21. Kanawana material in the Concordia-digitized YMCA of Montreal fonds: the camp orienteering map (catalogued 1974, internally c.1978+); "Kamp Kanawana History," 6 June 1951 [src_ia_kanawana_history_1951]; YMCA of Montreal Annual Reports 1929, 1952, 1953, 1954 [src_ia_ymca_montreal_annual_reports_collection]; *The Green Triangle* 13 August 1932; Kanawana season reports 1969, 1974, 1976, 1978, 1979 and 1987 [src_ia_kanawana_report_1969, src_ia_kanawana_report_1974, src_ia_kanawana_directors_report_1976, src_ia_kanawana_report_1978, src_ia_kanawana_report_1979, src_ia_kanawana_report_1987]; and *Kanawana… A Place to Grow*, 1988 [src_ia_kanawana_place_to_grow_1988] — whose facilities table gives bracketed construction years including house [1935], infirmary [1945], **lodge [1880's]**, dining hall/kitchen [1919], arts & crafts centre [1932] and bathroom buildings [1945]. *Two of those conflict with the 1951 history, which gives the dining hall as 1920 and the lodge as 1927. The 1880s lodge date is the harder problem: the site was not purchased until 1910, so it would have to be a pre-existing farm structure later converted. Both readings are defensible and neither is adopted here.*
+22. Letter from Prime Minister Pierre Elliott Trudeau to Kamp Kanawana on the opening of its new recreational building, framed original photographed by the operator, 2026-09-05 [src_photo_trudeau_letter_1978]; and the *Kamp Kanawana Director's Annual Report 1978* [src_ia_kanawana_report_1978], which prints an abridged version of the same letter as its frontispiece and supplies the date. Image at `assets/images/documents/trudeau-letter-1978-katimavik.jpg`. See [f_4828], [f_4829], [f_4830].
