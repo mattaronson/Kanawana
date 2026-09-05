@@ -125,11 +125,11 @@
 {"n": 125, "title": "## 125 — Vol. 31 No. 3, May 1979", "chars": 10680, "status": "extracted", "facts": 9}
 {"n": 126, "title": "## 126 — Vol. 31 No. 4, June 1979", "chars": 8067, "status": "extracted", "facts": 8}
 {"n": 127, "title": "## 127 — Vol. 31 No. 5, October 1979", "chars": 8820, "status": "extracted", "facts": 10}
-{"n": 128, "title": "## 128 — Vol. 31 No. 6, December 1979", "chars": 9071, "status": "pending", "facts": 0}
-{"n": 129, "title": "## 129 — Vol. 32 No. 1, February 1980", "chars": 9402, "status": "pending", "facts": 0}
-{"n": 130, "title": "## 130 — Vol. 32 No. 2, March 1980", "chars": 8758, "status": "pending", "facts": 0}
-{"n": 131, "title": "## 131 — Vol. 32 No. 3, May 1980", "chars": 11220, "status": "pending", "facts": 0}
-{"n": 132, "title": "## 132 — Vol. 32 No. 4, June 1980", "chars": 7755, "status": "pending", "facts": 0}
+{"n": 128, "title": "## 128 — Vol. 31 No. 6, December 1979", "chars": 9071, "status": "extracted", "facts": 9}
+{"n": 129, "title": "## 129 — Vol. 32 No. 1, February 1980", "chars": 9402, "status": "extracted", "facts": 9}
+{"n": 130, "title": "## 130 — Vol. 32 No. 2, March 1980", "chars": 8758, "status": "extracted", "facts": 6}
+{"n": 131, "title": "## 131 — Vol. 32 No. 3, May 1980", "chars": 11220, "status": "extracted", "facts": 10}
+{"n": 132, "title": "## 132 — Vol. 32 No. 4, June 1980", "chars": 7755, "status": "extracted", "facts": 10}
 {"n": 133, "title": "## 133 — Vol. 32 No. 5, October 1980", "chars": 8643, "status": "pending", "facts": 0}
 {"n": 134, "title": "## 134 — Vol. 32 No. 6, December 1980", "chars": 8981, "status": "pending", "facts": 0}
 {"n": 135, "title": "## 135 — Vol. 33 No. 1, February 1981 — THE CAMP STAFF ISSUE", "chars": 9008, "status": "pending", "facts": 0}

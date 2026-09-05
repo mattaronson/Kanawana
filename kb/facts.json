@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 4058,
+  "fact_count": 4102,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -72089,6 +72089,805 @@
         "Canadian Camping Association"
       ],
       "date_ref": "1979-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4097",
+      "issue": 128,
+      "claim": "The Canadian Camping Association appointed its first Executive Director in November 1979: Miss Marjorie A. Booth of the Montreal YWCA, on a Fitness and Amateur Sport grant. Her immediately preceding post is given plainly — \"most recently as the director of Camp Oolahwan, the Montreal Y.W.C.A. camp, located north of Montreal.\" She was a native of Toronto with an honours degree in Recreation from the University of Waterloo, several years full-time with the Saint John YWCA, and a Fellow of the Society of Camp Directors since 1977.",
+      "category": "biography",
+      "entities": [
+        "Marjorie Booth",
+        "Camp Oolahwan",
+        "YWCA Montreal",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1979-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4098",
+      "issue": 128,
+      "claim": "Marjorie A. Booth is the second named director of Camp Oolahwan the project holds — camp-oolahwan.md names nobody in charge between Mary Edgar's departure in 1919 and the final season in 2004. Her appointment establishes that Oolahwan was an operating YWCA residential camp in the late 1970s with a professional director recruited from another province, not a survival running on inertia.",
+      "category": "inter-camp",
+      "entities": [
+        "Marjorie Booth",
+        "Camp Oolahwan",
+        "YWCA Montreal"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1979",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4099",
+      "issue": 128,
+      "claim": "The Quebec Camping Association English Section disappears from Canadian Camping's printed list of provincial associations between October 1978 and December 1979. The October 1978 list carried three Quebec entries — the Quebec Camping Association Inc. under Dr. Ken Willis at 2233 Belgrave Avenue, the ACQ under Rene Rousseau, and the joint Provincial Board under Maisonneuve; the December 1979 list carries only \"Association des Camps du Quebec — M. Raymond Bonneau, President — 1415 est, rue Jarry.\" Absence from a list is weak evidence, but it is consistent with the citation for Derek Walsh's 1983 CCA award, which thanks him \"as a Past President of the former English Section – Quebec Camping Association.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec Camping Association",
+        "Association des camps du Quebec",
+        "Derek Walsh",
+        "Raymond Bonneau"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1979-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4100",
+      "issue": 128,
+      "claim": "CCA President Cliff Labbett wrote in December 1979: \"Derek Walsh, the Vice-President, is a past-president of Q.C.A. and will retain the Chairmanship of the C.C.A. Public Relations and Promotions Committee, a position he has held for the past two years, along with his duties as V.P.\" — independent confirmation from the association's president of the 1977-79 span built from the two committee lists.",
+      "category": "people",
+      "entities": [
+        "Derek Walsh",
+        "Clifford Labbett",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1979-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4101",
+      "issue": 128,
+      "claim": "The Canadian Camping Association's 1979-81 executive was almost entirely YMCA and YWCA staff: Elizabeth Greenway, Secretary, Director of Camping for the Toronto YWCA; Wayne Perkins, Treasurer, Director of Camp Wanakita for the Hamilton YMCA; Derek Walsh, Vice-President, a former Quebec YMCA camp director; and Marjorie Booth, its first Executive Director, from the Montreal YWCA. That is the institutional world Kanawana belonged to.",
+      "category": "camping_movement",
+      "entities": [
+        "Elizabeth Greenway",
+        "Wayne Perkins",
+        "Derek Walsh",
+        "Marjorie Booth",
+        "Canadian Camping Association",
+        "YMCA",
+        "YWCA"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1979-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4102",
+      "issue": 128,
+      "claim": "Cliff Labbett's report from the CCA board meeting of 1-2 November 1979 states the association's decentralisation model: \"C.C.A. started the Canoe Instructor's Schools which have now been turned over to the Provinces and also the Woodsmanship School which is almost ready to be turned over,\" with new schools under consideration in Social Recreation, Nature Awareness, Fitness, Camp Organization and Administration, Native and Pioneer Crafts and Communication, \"once they have been developed it is hoped that they too will be taken over by the Provinces.\" The records of the Quebec versions of these schools would therefore be in Quebec, not Toronto.",
+      "category": "archives",
+      "entities": [
+        "Clifford Labbett",
+        "Canadian Camping Association",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1979-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4103",
+      "issue": 128,
+      "claim": "The Canadian Camping Association approved in principle in November 1979 an international camping conference in Toronto in 1983, \"with the Canadian Camping Association, the Ontario Camping Association and the American Camping Association joining forces. It is hoped that representation will also come from several European countries, Japan and India,\" John Latimer chairing.",
+      "category": "camping_movement",
+      "entities": [
+        "John Latimer",
+        "Canadian Camping Association",
+        "Ontario Camping Association",
+        "American Camping Association"
+      ],
+      "date_ref": "1979-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4104",
+      "issue": 128,
+      "claim": "The Victoria YM-YWCA put a forestry counsellor on Camp Thunderbird's 1,300-acre site from early May 1979: with foresters Mark Atherton and Vlad Korelus, campers used an increment borer, chain, diameter tapes, compass and clinometer to age trees, calculate height and compute wood volume, while property lines were located and marked, a base map at 1:5000 was drawn, forest units needing treatment were identified and a fire-safety programme implemented — \"By the end of August, a base map and forest cover management plan were completed.\" Advice was available from the Canadian Institute of Forestry, c/o Macdonald College, Montreal.",
+      "category": "programs",
+      "entities": [
+        "Camp Thunderbird",
+        "Victoria YM-YWCA",
+        "Canadian Institute of Forestry"
+      ],
+      "date_ref": "1979",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4105",
+      "issue": 128,
+      "claim": "Canadian Camping recommended in December 1979 that camps number each canoe by purchase year and sequence — \"this was the sixth canoe purchased in 1975\" — which \"aids in easy camper and staff identification as well as instilling an attitude of care and respect... makes it easy to assign canoes for trips as well as checking for damage upon their return.\" If Kanawana used a numbering scheme of this kind, its canoe fleet is datable from photographs.",
+      "category": "canoe_trips",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1979-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4106",
+      "issue": 129,
+      "claim": "Canadian Camping began serialising the Quebec Camping Association's Director Education Program in February 1980, printed in French as \"Formateurs-multiplicateurs\" and dated in the accompanying note: \"Ce programme... etait prepare par l'Association des Camps du Quebec en fevrier 1976.\" It is the only Quebec camp training document this project has seen in full, and it covers the period of Kanawana's thinnest records.",
+      "category": "staff",
+      "entities": [
+        "Association des camps du Quebec",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1976-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4107",
+      "issue": 129,
+      "claim": "The ACQ's 1976 training programme names its recruitment sources — \"le personnel actuel, les anciens du camp, le milieu scolaire, collegial, universitaire,\" specialised faculties in \"recreologie, education physique, psychologie,\" the centre de main-d'oeuvre, and \"le service offert par l'A.C.Q.\", so the association ran its own placement service — and records that it issued a standard interview sheet to member camps: \"un formulaire est necessaire pour obtenir les renseignements utiles... (cf. feuille A.C.Q.).\"",
+      "category": "staff",
+      "entities": [
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1976",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4108",
+      "issue": 129,
+      "claim": "The ACQ's 1976 interview guidance: \"Le style de l'entrevue determine le style de leadership d'un camp.\" Questions must draw out ideas and feelings, not yes or no, and must not be confined to the camp; the printed samples include \"Qu'est-ce que tu respectes chez les autres?\" and \"Quel genre de musique preferes-tu ecouter lorsque tu es joyeux?\" The interviewer must then evaluate himself: \"Avez-vous ecoute ou avez-vous trop parle?... Avez-vous vraiment ecoute ou si vous etiez impatient d'entendre la reponse que vous desiriez? Avez-vous trop insiste sur vos propres valeurs plutot que de laisser le candidat s'exprimer?\"",
+      "category": "staff",
+      "entities": [
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1976",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4109",
+      "issue": 129,
+      "claim": "The Canadian Camping Association's 1980 committee list reads \"Archives and Oral History — Miss Helen Stewart\": the separate oral history project under Jay Haddad has been merged into the Archives committee under one chairman. The tapes and the 1976 pioneer list should therefore be wherever the Archives committee's material went, which Adele Ebbs says was Trent.",
+      "category": "archives",
+      "entities": [
+        "Helen Stewart",
+        "Jay Haddad",
+        "Adele Ebbs",
+        "Trent University",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1980-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4110",
+      "issue": 129,
+      "claim": "The Canadian Camping Association's 1980 slate gives Derek Walsh two chairmanships — Public Relations and Promotion, and Legislation — while he was Vice-President. The rest: Education, Linda Arnold; Finance, Wayne Perkins; Leadership Development, Jean Funk; Constitutional Review and Nominations, Jack Pearse; Concerns, Murray Wickwire; French Language, Abbe Rosaire Corbin; Liaison, Larry Bagnell; Publications, Fred Okada; Skill Schools, LaVerne Jantz; Conferences, John Latimer; Woodsmanship, Kirk Wipper; Newsletter, Brian Blackstock; Immigration task force, Barry Lowes; Membership, Shanley Parkinson; Recreation Canada, Ron Johnstone; Standards task force, Peter Van Wagner.",
+      "category": "camping_movement",
+      "entities": [
+        "Derek Walsh",
+        "Peter Van Wagner",
+        "Rosaire Corbin",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1980-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4111",
+      "issue": 129,
+      "claim": "The Canadian Camping Association moved its executive meeting from Halifax on 17 February 1980 to Montreal on 13-14 March 1980, and the ACQ's Semaine des Camps was moved to 12-18 March 1980 — so the national executive met in Montreal during Quebec's camp week.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1980-03-13",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4112",
+      "issue": 129,
+      "claim": "Bruce Harris asked thirty-five experienced camp people at Geneva Park why they returned for a second summer: \"Out of 35 responses, salary was only mentioned once, and as a secondary reason.\" They returned \"because it was a satisfying experience, they felt needed, they enjoyed the atmosphere, the feelings of responsibility.\" His principles include: \"The first efforts of a staff member must be simple enough to insure success... Frustration at the outset is death to the efforts of a staff member\"; \"It is difficult to lose a cook in the middle of a summer. But what about a person doing dishes? It could take only one set of dishes done poorly to lead to an outbreak of disease, serious sickness, possible loss of health license and closing of camp\"; and on burnout, \"Can your head of sailing be effective four summers in a row? Where is the challenge?\"",
+      "category": "staff",
+      "entities": [
+        "Bruce Harris",
+        "Geneva Park"
+      ],
+      "date_ref": "1980-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4113",
+      "issue": 129,
+      "claim": "Bruce Harris proposed in 1980 that a director open pre-camp by announcing \"As of this moment we have no camp policies regarding days-off, curfew, drugs, alcohol, use of the camp kitchen after regular hours, staff lounge... in fact no major policies at all,\" and asking the staff to write them. That list is itself a record of what a Canadian camp in 1980 had policies about.",
+      "category": "staff",
+      "entities": [
+        "Bruce Harris"
+      ],
+      "date_ref": "1980-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4114",
+      "issue": 129,
+      "claim": "Marjorie Booth's first column as the CCA's Executive Director asked provincial associations to keep the national body on their newsletter mailing lists: \"Many times I've come across great articles in provincial newsletters. If each province can continue (or begin?) to include C.C.A. on their mailing list for a few copies of newsletters, conference programs, etc., 'Canadian Camping' will be able to carry articles from all parts of the country.\" Much of what the run prints from 1980 onward is therefore reprinted from provincial newsletters — a parallel body of material this project has never touched.",
+      "category": "sources",
+      "entities": [
+        "Marjorie Booth",
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1980-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4115",
+      "issue": 130,
+      "claim": "The Ontario Camping Association sold a kit of \"Suggested Camp Forms\" at $3.30 per set, 8.5 by 11 inches, from the Avenue Road office it shared with the CCA, containing nine documents: Camper Application Form; Camp Staff Application Form; Staff Health Certificate; Camper's Health Certificate; Staff Contract Letter; Staff Reference Form; Counsellor Evaluation Form; Camper Evaluation Report Form; Accident Report Form — with the note \"These forms may be copied or you may add or delete anything that may be desirable or undesirable for your own special situation.\"",
+      "category": "archives",
+      "entities": [
+        "Ontario Camping Association",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1980-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4116",
+      "issue": 130,
+      "claim": "Every camp document class this read has reconstructed piecemeal existed as a standardised, purchasable set of nine forms by 1980. Anyone searching Kanawana's records should ask for them by these names. Two of them are sensitive on their face: the Counsellor Evaluation Form and Staff Reference Form are the instruments behind the project's embargoed staff-assessment material, and the Camper's Health Certificate carries medical and, for girls, menarche information.",
+      "category": "archives",
+      "entities": [
+        "Camp Kanawana",
+        "Ontario Camping Association"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1980",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4117",
+      "issue": 130,
+      "claim": "The Camper's Health Certificate reproduced in Canadian Camping in March 1980 shows the record a Canadian camp kept on each child. The parent's checklist covers chicken pox, asthma, hepatitis, red and german measles, frequent colds, hernia, hay fever, rheumatic fever, fainting spells \"of any kind,\" heart condition, sinus trouble, severe stomach aches, diabetes, mumps, recent whooping cough, sleep walking, bed wetting — and, for girls, \"Has girl menstruated? Yes/No. If not, has she been told about menstruation? Yes/No.\" The physician certifies immunisation against poliomyelitis, tetanus, pertussis, diphtheria and smallpox with booster dates, records allergies, and states \"any physical or emotional abnormalities.\" The parent grants advance surgical consent. The foot of the form is headed \"FOR CAMP USE ONLY\" with columns for date admitted and discharged, diagnosis, treatment and \"admissions as bed patients\" — so the same sheet served as the infirmary's own log.",
+      "category": "archives",
+      "entities": [
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1980-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4118",
+      "issue": 130,
+      "claim": "Part 2 of the ACQ's 1976 training programme prescribes three levels of staff integration: into the world of camps, where new staff must understand \"la dimension et la particularite du phenomene loisir et camp de vacances\" and answer \"Le loisir au Quebec, comment est-il organise? Les camps de vacances se sont regroupes en association, pourquoi?\"; into the specific camp, under \"milieu physique, milieu administratif, milieu humain\"; and into the specific task, with the staff categories named as \"les cuisiniers, le personnel de soutien, les animateurs, les moniteurs, les specialistes\" — cooks and support staff listed first, the opposite of every English-language treatment in this run.",
+      "category": "staff",
+      "entities": [
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1976",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4119",
+      "issue": 130,
+      "claim": "Peter Moon's interview method, reprinted in March 1980 \"from an early edition of Canadian Camping,\" holds that \"you can judge the quality of the interview by the ratio of talk between the interviewer and interviewee. The poorer the interviewer, the more he talks\"; that the application itself is evidence — \"Is it neat or careless in format?... What is his skill with language?\"; that family and personal questions \"require a maximum of sensitivity and tact\"; and that a director should \"leave medical questions to the physician.\" Its second half is a taxonomy, \"Interview Signs Related to Personality Factors,\" listing observable indicators under emotional maturity, dependability, self-confidence, objectivity, values, attitudes and social intelligence — the vocabulary in which a camp director of the period would have written down a judgement of a young staff member.",
+      "category": "staff",
+      "entities": [
+        "Peter Moon"
+      ],
+      "date_ref": "1980-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4120",
+      "issue": 130,
+      "claim": "Bruce Harris wrote on camp pay in March 1980: \"no matter what the salary, it must be the same for everyone who is doing the same job with the same experience... I sincerely believe that salary has absolutely no bearing on how well a person does their job.\" And on turnover: \"most camps, because of their financial limitations, cannot realistically provide the necessary monetary needs over an infinite amount of time. Staff must move into permanent jobs... and they must move on from the camp family to allow younger staff the opportunity to grow.\"",
+      "category": "staff",
+      "entities": [
+        "Bruce Harris"
+      ],
+      "date_ref": "1980-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4121",
+      "issue": 131,
+      "claim": "Canadian Camping printed about fifty free-text answers to question 139 of the Society of Camp Directors' canoe-tripping questionnaire — \"Do you have any thoughts or concerns on the matter of canoe tripping in camps?\" — unattributed and unedited, in May 1980. The questionnaire therefore ran to at least 139 questions and its results were tabulated.",
+      "category": "canoe_trips",
+      "entities": [
+        "Society of Camp Directors"
+      ],
+      "date_ref": "1980-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4122",
+      "issue": 131,
+      "claim": "Canadian camp directors did not agree about tripping standards in 1980, and the disagreement is the finding. For regulation: \"standardization is necessary\"; \"In our province, canoe tripping is carried on by too many inexperienced or unqualified leaders.\" Against: \"we need standards, but let's beware of setting standards so rigid or impractical that we cannot function properly,\" with a four-head case against certification — \"a) who sets criteria b) dogmatism in tripping c) bureaucratization and government regulation d) inappropriateness of tests to area/culture.\" The recurring objection: \"proliferation and dependence upon qualification — the majority of which assess skill but not either experience of leadership or judgement,\" and \"the key attribute of any trip leader must be good judgement. This cannot be taught, but comes with experience.\"",
+      "category": "canoe_trips",
+      "entities": [
+        "Society of Camp Directors"
+      ],
+      "date_ref": "1980-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4123",
+      "issue": 131,
+      "claim": "Other free-text answers to the 1980 tripping survey: on liability, \"nothing can be done when an accident occurs on a safe well-planned trip, but something can and should be done when the accident is clearly the result of criminal negligence\"; on ethics, \"the pioneer ethic is out of date and replaced by the wilderness ethic and minimal impact technique. Don't push the trip\"; on conduct, \"I sincerely feel that many camps in our area abuse campsites, the garbage left is terrible... the axe should be illegal\"; and on purpose, \"tripping allows children a chance to 'shine' who ordinarily would not in camp living\" and \"trip leaders, once they sever their group from the relative safety of base camp, have their responsibilities and concerns multiplied tenfold.\"",
+      "category": "canoe_trips",
+      "entities": [
+        "Society of Camp Directors"
+      ],
+      "date_ref": "1980-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4124",
+      "issue": 131,
+      "claim": "The Ontario Camping Association distributed written emergency procedures to all member camps and adopted a reporting policy \"effective February, 1980.\" The fifteen-step procedure for a serious accident or death on camp property is legal as much as medical: confirm care is under way and \"if death has occurred, cover body and keep others away\"; \"begin to log each action; both the time and procedure, including all phone calls\"; call legal counsel, and in the case of death the police, who \"MUST be called\"; inform staff, then campers, then the parents named on the camper application; take written statements from everyone involved, each writing their own, plus a record of conditions before the accident and photographs \"if at all possible\"; and \"only the Camp Director or his designate speaks to the press.\"",
+      "category": "operations",
+      "entities": [
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1980-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4125",
+      "issue": 131,
+      "claim": "The Ontario Camping Association's 1980 reporting policy required a member camp to telephone the president within 24 hours of a serious accident or death and to file a written report within 20 days naming the person injured or deceased with date, time and place; the association would then decide \"the position to be taken by the O.C.A. at the inquest,\" who would appear as its witness, and \"methods by which the learning gained as a result of the incident might be usefully shared with the membership.\" This is Ontario policy and there is no evidence here of what Quebec adopted — but by February 1980 the reporting of a camp death to a provincial association was a written rule with a deadline.",
+      "category": "operations",
+      "entities": [
+        "Ontario Camping Association",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1980-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4126",
+      "issue": 131,
+      "claim": "The off-camp emergency procedure adopted by the Ontario Camping Association in 1980 requires the trip leader to delegate first aid, send a message by the fastest route with someone kept at the telephone, log every call in and out, and gives the senior person on the trip the recommendation \"concerning the remainder of the trip, that is, to be continued, aborted, altered.\" It closes: \"The Camp stands behind its staff members and expects each member to perform to the best of his/her capabilities and training.\"",
+      "category": "canoe_trips",
+      "entities": [
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1980-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4127",
+      "issue": 131,
+      "claim": "The mailing label on the back page of Canadian Camping Vol. 32 No. 3 (May 1980) reads \"Trent University, Archives Dept., Peterborough, Attention: K. Johnson\" — the archivist Adele Ebbs named in October 1976. The Internet Archive run of Canadian Camping that this project is reading is Trent's own deposit copy, addressed to the man who received the Canadian Camping Archives.",
+      "category": "sources",
+      "entities": [
+        "Trent University",
+        "Kenneth Johnson",
+        "Canadian Camping (magazine)",
+        "Adele Ebbs"
+      ],
+      "date_ref": "1980-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4128",
+      "issue": 131,
+      "claim": "Camp Tawingo published \"Sing with Jack Pearse\" in 1980 — the CCA catalogue gives it as 37 pages, 31 songs with music, \"delightfully illustrated, many actions included,\" at $4.00 through the CCA Publications Service, the first Camp Tawingo Publication, by Jack Pearse, immediate past president of the CCA. Two sequels were announced: \"Campfire Programs with Jack Pearse\" and \"Sing (One More Time) with Jack Pearse.\" Unlike the Nova Scotia collection it carries the tunes.",
+      "category": "traditions",
+      "entities": [
+        "Jack Pearse",
+        "Camp Tawingo",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1980",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4129",
+      "issue": 131,
+      "claim": "Larry Bagnell dates the Canadian equivalent of the American national agency camping group: \"that historic, first meeting of the C.C.A. National Agency Group which met for the first time in the Board Room of the National Council of Y.M.C.A.'s on February 7, 1979.\" The Canadian entry in the international contact list is \"Larry Bagnell, C.C.A. Liaison w/National Agencies, Y.M.C.A. Camping Service, 36 College Street, Toronto\" — the YMCA's own camping service acting as the CCA's liaison arm.",
+      "category": "camping_movement",
+      "entities": [
+        "Larry Bagnell",
+        "YMCA of Canada",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1979-02-07",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4130",
+      "issue": 131,
+      "claim": "Ruth Wortman's article on children of separated parents, reprinted in May 1980, gives camp administrative practice: at the interview establish who pays and get both natural parents' signatures where possible, since \"the camp is not bound by the parent's own agreement\"; ask directly about visiting — \"an inquiry regarding 'more than one visiting day' is often a clue to separation of parents\" — and request a copy of any court order, because \"if there is no court order, the camp cannot stop a parent from seeing a child\"; provide alternative visiting days so estranged parents can come separately; and on letter-writing day, \"write the mother on one writing day and the father the next, rather than requiring two letters each time.\" It warns that counsellors \"from certain backgrounds might tend to pass moral judgments on divorce.\"",
+      "category": "operations",
+      "entities": [
+        "Ruth Wortman"
+      ],
+      "date_ref": "1980-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4131",
+      "issue": 132,
+      "claim": "Michael Hoyer, assistant camp director of Camp Oconto, wrote up the Society of Camp Directors' canoe-tripping survey in Canadian Camping, June 1980, with thanks to Mary Northway and the Neathern Trust for \"moral and financial support.\" Its first paragraph explains the whole 1979-80 exercise: \"Following a number of tragic canoeing and tripping accidents in Canada, the Society of Camp Directors became alarmed to hear of the number of organizations and associations which initiated plans to establish yet more sets of standards and rules which many felt should then be imposed on camps... There seemed to be little direction or concerted purpose in these deliberations. The Society felt that perhaps our greatest contribution to wilderness travel safety in this country would be to gather information as to the practices which presently exist in Canadian Camps.\" Note the plural: \"a number of tragic canoeing and tripping accidents.\"",
+      "category": "canoe_trips",
+      "entities": [
+        "Michael Hoyer",
+        "Society of Camp Directors",
+        "Mary L. Northway",
+        "Camp Oconto"
+      ],
+      "date_ref": "1980-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4132",
+      "issue": 132,
+      "claim": "The Society of Camp Directors' 1980 tripping survey sent about 120 questionnaires to resident, agency, church, private and outdoor-education camps and tripping businesses and received about 60 responses, mostly resident camps, a majority Ontario members but with eight provinces represented. Trips were classified as short (1-2 nights), moderate (3-5), long (6-9) and extended (10 or more).",
+      "category": "canoe_trips",
+      "entities": [
+        "Society of Camp Directors"
+      ],
+      "date_ref": "1980-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4133",
+      "issue": 132,
+      "claim": "National norms for Canadian camp canoe trips in 1980: leaders a minimum of 18 on short and moderate trips and 19 to 21 on extended; Bronze Medallion the usual swimming qualification throughout; canoeing qualification usually \"experience or a test set by the camp,\" with Senior OCA or CRCA III/IV only on longer trips; one to two years' experience minimum, two to four on extended; assistants 17, or 18 on extended; ratios about 1:5, tightening to 1:3 on long trips; and campers from eight on short trips (average ten) to fourteen on long and extended.",
+      "category": "canoe_trips",
+      "entities": [
+        "Society of Camp Directors"
+      ],
+      "date_ref": "1980-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4134",
+      "issue": 132,
+      "claim": "The equipment Canadian camps carried on canoe trips in 1980, in ranked order: first aid boxes, water purifiers, towing ropes, stern lines, bailers, swede saw, spades, long handled axe, wanigans and hatchets — with \"many camp directors expressed the concern away from the use of hatchets or axes, stating that there is usually enough brush available,\" the leave-no-trace argument reaching the kit list. Bailers were cans, cups, Javex bottles, sponges, billy cans, pots and buckets.",
+      "category": "canoe_trips",
+      "entities": [
+        "Society of Camp Directors"
+      ],
+      "date_ref": "1980-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4135",
+      "issue": 132,
+      "claim": "In 1980 the canvas canoe was still the Canadian camp's normal boat: \"Two thirds of the camps still use the canvas canoe; half, the aluminum or fibreglass. Few are using the newer plastic models.\" Standard length was 16 or 17 feet with a few war canoe types; half required a spare paddle per canoe; three to a canoe was most favoured; and trips ran from six canoes minimum with nine or twelve average. This bears on how any undated photograph of Kanawana's fleet is read.",
+      "category": "canoe_trips",
+      "entities": [
+        "Society of Camp Directors",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1980-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4136",
+      "issue": 132,
+      "claim": "Five years after the November 1975 federal flotation regulation, \"about a third of the camps maintain a standard that makes wearing a lifejacket mandatory on trips. Others just expect it in rough weather, when the leader deems it.\" The law required a device to be carried; two-thirds of Canadian camps had not gone on to require that it be worn.",
+      "category": "canoe_trips",
+      "entities": [
+        "Society of Camp Directors"
+      ],
+      "date_ref": "1980-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4137",
+      "issue": 132,
+      "claim": "Canadian camp tripping practice in 1980: a rest day about one in five on longer trips; night tripping not favoured; existing campsites preferred; garbage \"burned and carried out\"; town visits discouraged; campers not allowed to smoke, staff smoking divided, alcohol \"overwhelmingly rejected for staff on trips\"; campers \"quite involved in route and menu planning, packing and the program\"; and the trip group met the director before departure in two-thirds of camps.",
+      "category": "canoe_trips",
+      "entities": [
+        "Society of Camp Directors"
+      ],
+      "date_ref": "1980-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4138",
+      "issue": 132,
+      "claim": "The 1980 tripping survey records the records camps kept: \"Logs are kept for future occasions, evaluations of campers for post camp evaluations, staff evaluations for future reference, are all carried on in some form or other\" — a fourth record class to seek in Kanawana's papers alongside the nine standard forms: trip logs, and camper and staff evaluations written from trips.",
+      "category": "archives",
+      "entities": [
+        "Society of Camp Directors",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1980-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4139",
+      "issue": 132,
+      "claim": "Only 15 of the camps surveyed in 1980 treated white water canoeing as integral to their programme; where it was taught the skills were river reading, position in white water after upset, scouting the shore, high and low braces, lining and tracking, rescue procedures and eddy turns. On accident prevention directors preferred discussion over instruction, and on emotional stress in campers admitted \"there were two opinions. One was that directors did not really cover this aspect in pre-camp, and expected their staff to be on top of this. The other group did discuss it but suggested that probably they did not do it justice.\"",
+      "category": "canoe_trips",
+      "entities": [
+        "Society of Camp Directors"
+      ],
+      "date_ref": "1980-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4140",
+      "issue": 132,
+      "claim": "Michael Hoyer's closing note on the 1980 tripping survey — \"the questionnaire and the tabulated responses can be obtained from the C.C.A. office\" — means a full data set once existed on paper. Neither the report nor the free-text answers names the 1978 Quebec incident.",
+      "category": "archives",
+      "entities": [
+        "Michael Hoyer",
+        "Society of Camp Directors",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1980-06",
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
