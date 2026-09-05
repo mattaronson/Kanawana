@@ -4381,6 +4381,28 @@
       "created": "2026-09-05",
       "source": "word-for-word read of Canadian Camping, issues 69-71, converted to KB facts",
       "blocked_on": null
+    },
+    {
+      "priority_id": "p_342",
+      "rank": 341,
+      "type": "WRITE",
+      "description": "ANSWER OPEN QUESTION 8 IN camp-oolahwan.md. That article records as a confirmed dead end -- \"Confirmed dead end across Trent, McCord, and LAC catalog descriptions -- no successor-director name found online\" -- the question of who directed Camp Oolahwan after Mary Edgar left in 1919. Faye Ecclestone's profile of the Canadian Camping Association's national president, Canadian Camping Vol. 19 No. 1 (December 1966), supplies a name: \"she went east to Montreal where she joined the staff of the Y.W.C.A. in that city. Her responsibilities included directing Camp Oolawahn and she also took the opportunity of completing her B.Sc. in Physical Education at McGill University.\" That is Mrs. Lorne E. (May) Brown, CCA president 1964-67 and later a Vancouver Parks Board figure. Internal dating from the same profile -- UBC teaching after graduation, marriage, children born about 1950 and 1955, an M.P.E. in 1961, Camp Deka founded about 1961 -- puts the Oolahwan directorship in the 1940s, most plausibly the later 1940s. WRITE IT UP WITH THE CAVEAT: the exact years still need a second source, and the LAC series that article already flags, \"Camp Oolahwan committee minutes, reports and training programmes, 1916-1974,\" should settle them. Note also that Camp Deka, Brown's own camp, is already recorded in voyageur-canoe-pageant.md as a Centenary Journey participant -- so the national president's camp paddled the journey Kanawana paddled.",
+      "weight": 8,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 72-74, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_343",
+      "rank": 342,
+      "type": "RESEARCH",
+      "description": "FIND THE MARY S. EDGAR POEM WRITTEN FOR THE NATIONAL CENTENARY CAMPFIRE. The OCA's \"OCAsional News\" of December 1966, quoted in Canadian Camping Vol. 19 No. 2 (February 1967): \"The biggest of these activities is the National Campfire to be held Wednesday, August 9, 1967. On this night each camp will be provided with ideas for suitable programmes, centering around the Voyageur theme. It is hoped that a common opening and closing can be written including a poem for the occasion by Miss Mary Edgar. At the pre-set time every camp across the country will light its campfire!... There may even be a programme on a coast to coast radio network to coincide with the lighting of the campfires.\" Edgar founded and first edited this magazine and wrote \"God Who Touchest Earth With Beauty.\" A poem written for a single simultaneous national campfire is a findable text, and if Kanawana lit a fire that night its campers heard it. WHERE TO LOOK: Edgar's collections A Christmas Wreath of Verse (1965) and Once There Was a Camper (1970); her fonds at Trent and Queen's; the OCA archive founded in 1966 under Margaret Govan; and the prepared programme packet camps were sent, which is itself a distributable document to hunt for. ALSO FIND: the 1967 Canadian Camping Conference \"Digest,\" sold at three dollars, which Bruno Morawetz calls \"that encyclopedia of camping\" -- the fullest single record of Canadian camping thinking in the Centennial year.",
+      "weight": 7,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 72-74, converted to KB facts",
+      "blocked_on": null
     }
   ],
   "queue_ordering": {
