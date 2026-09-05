@@ -4364,7 +4364,7 @@
       "priority_id": "p_340",
       "rank": 339,
       "type": "RESEARCH",
-      "description": "SPAWN A STUB FOR DAIS L. GASS, and one for Camp Memphremagog. Gass appears on every masthead in this read as a Montreal past president of the Canadian Camping Association with nothing else attached. Five tributes printed in Vol. 18 No. 4 (June 1966), after her death on 14 February 1966, give her a life: born in Nova Scotia, a graduate of Mount Allison University; to Montreal as a teacher at Trafalgar Girls' School; later personnel worker for the T. Eaton Company; a CGIT leader and YWCA camp volunteer; founder of Camp Memphremagog for Girls in the Eastern Townships in 1946, where campers called her \"Kolali\", \"Friend\"; second President of the CCA, 1946-49, succeeding Taylor Statten; chair of the meetings in Montreal, Toronto and Kingston that produced \"the first official charter of the Canadian Camping Association\"; and Past-President of the Quebec Camping Association. Camp Memphremagog was sold to the United Church in 1959 and run thereafter as a boys' camp. She is one of very few women among the movement's founders and a Montreal figure this project has been listing without knowing anything about. NOTE A DISCREPANCY TO CARRY, NOT RESOLVE: Mary Edgar's tribute says \"During her twenty-three years as Director,\" which does not square with 1946-59 and may count her whole camping career.",
+      "description": "SPAWN A STUB FOR DAIS L. GASS, and one for Camp Memphremagog. Gass appears on every masthead in this read as a Montreal past president of the Canadian Camping Association with nothing else attached. Five tributes printed in Vol. 18 No. 4 (June 1966), after her death on 14 February 1966, give her a life: born in Nova Scotia, a graduate of Mount Allison University; to Montreal as a teacher at Trafalgar Girls' School; later personnel worker for the T. Eaton Company; a CGIT leader and YWCA camp volunteer; founder of Camp Memphremagog for Girls in the Eastern Townships in 1946, where campers called her \"Kolali\", \"Friend\"; second President of the CCA, 1946-49, succeeding Taylor Statten; chair of the meetings in Montreal, Toronto and Kingston that produced \"the first official charter of the Canadian Camping Association\"; and Past-President of the Quebec Camping Association. Camp Memphremagog was sold to the United Church in 1959 and run thereafter as a boys' camp. She is one of very few women among the movement's founders and a Montreal figure this project has been listing without knowing anything about. NOTE A DISCREPANCY TO CARRY, NOT RESOLVE: Mary Edgar's tribute says \"During her twenty-three years as Director,\" which does not square with 1946-59 and may count her whole camping career.\n\nAMENDMENT (extraction pass, issue 92): DAIS L. GASS IS NOW IDENTIFIED WELL ENOUGH TO WRITE. Charles Plewman's founding history of the magazine (Vol. 24 No. 1, Fall 1971) names \"Miss Dais L. Gass, president of the C.C.A. in 1946\" as the author of Canadian Camping's first editorial, and quotes it in full: \"Now it starts in its humble way -- may it grow like the acorn and the oak, but most of all may it prove a tie between all of us in Canada... May Canadian Camping weave a bond of understanding, of mutual helpfulness and good will from sea to sea, and from the rivers to the end of the earth.\" With W. E. Yard's 1966 tribute, which credits her with chairing the Montreal, Toronto and Kingston meetings that produced the CCA's first official charter, she is now a Montreal woman who presided over the national association at its formation and wrote the first words of its magazine, and still has no KB fact of her own beyond this read. That is enough for a stub. Search: Montreal YWCA records, Camp Memphremagog, McGill and Sir George Williams alumni records, and Gazette obituaries.",
       "weight": 7,
       "status": "pending",
       "created": "2026-09-05",
@@ -4567,6 +4567,50 @@
       "status": "pending",
       "created": "2026-09-05",
       "source": "word-for-word read of Canadian Camping, issues 90-91, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_359",
+      "rank": 358,
+      "type": "WRITE",
+      "description": "WRITE THE CANADIAN CAMPING SECTION OF meta/sources-index.md. The 164-issue run is the largest single body of source material this project holds and meta/sources-index.md still has no section on it at all. Charles Plewman's 'The Canadian Camping Magazine and How We Came By It' (Vol. 24 No. 1, Fall 1971) is the founding document and should anchor the section: the OCA formed 1933; Plewman drafted into its presidency autumn 1944; the T. Eaton Company financing the first edition; Mary Edgar as first editor; the Ontario Bulletin closed out in 1947 in favour of a mimeographed quarterly called Canadian Camping; and 'The first real Canadian Camping magazine was published in February of 1949 when for the first time it appeared in print' -- which is exactly where this project's cached run begins, so the run is complete from the first printed issue and the 1947-48 mimeographed bulletin is a separate body of material the project does not hold. Fred Haiblen of Toronto assumed the financial responsibility for going to print; Edgar edited five more years and was succeeded by Mrs. G. W. Flynn. THE SECTION'S FIRST STATEMENT MUST BE THE 1988 FUNDING CUT-OFF as the explanation of the run's end date. Other anchor facts already extracted: Jay Haddad's editorship mid-1981 to Winter 1986; the magazine passing to a Camp Tawingo group from Spring 1986; the 1967 publisher change to Town Talk Publications under Eanswythe Flynn; the December 1969 change to Broydon Printers and Groff's 'From mimeograph to letterpress to offset'; the April 1970 turn to bilingual publication (and with it the French-only content an English keyword search never surfaces -- see p_347); subscription rates ($3/year and $8/three in 1970, a $2 staff rate from 1971, $1.00 a single copy from Winter 1972, $8/$2 to 1987 and $10/$3 from 1987; ISSN 0834325); and the Fall 1971 statement that 'CANADIAN CAMPING is a 100% Canadian magazine and is not subsidized in any way. It is supported solely by advertisements.'",
+      "weight": 9,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 92-93, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_360",
+      "rank": 359,
+      "type": "RESEARCH",
+      "description": "FIND OUT WHAT HAPPENED AT THE CHATEAU LAURIER IN 1946. Charles Plewman, first-hand, in Fall 1971: 'Before very long, I think it was in 1946, the Canadian Camping Association was formed at a meeting held in the Chateau Laurier in Ottawa' -- nearly all members representatives of the Ontario and Quebec associations, no other province then having one, and the body having 'no corporate existence' at that point. That is a second independent first-hand source for a 1946 event, against this project's documented 1936 founding at the Central YMCA, Toronto, and it corroborates the Camp Stephens claim that Nelson McEwen founded the CCA in 1946 (see c_035). The question is now concrete and checkable. Search: the CCA's own minutes, which by Mary Northway's account should be in the OCA archives deposited at Trent in October 1970 (p_348); Chateau Laurier function records; Ottawa press for 1946; and the incorporation file behind the 1949 charter, which Dais L. Gass chaired the meetings for.",
+      "weight": 7,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 92-93, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_361",
+      "rank": 360,
+      "type": "RESEARCH",
+      "description": "CHECK WHETHER KANAWANA APPEARS AT THE CCA'S MONTREAL MEETINGS OF APRIL 1972. John Latimer's Winter 1972 newsletter gives the dates and the venue: the CCA Board meeting at the Queen Elizabeth Hotel, Montreal, 19-20 April 1972, the Annual Meeting the night of 20 April, and the QCA-ACQ Conference 20-22 April at the same hotel, with a separate Quebec Camping Association annual meeting on 24 May. A national camping conference held in Montreal, hosted by the Quebec association Kanawana belonged to, is the single most likely occasion in the whole run for the camp to appear by name -- as a host, a tour stop, a delegate, or an exhibitor. Read the Spring and Summer 1972 issues of the run for the conference report with this specifically in mind, and search Montreal press for 19-24 April 1972.",
+      "weight": 6,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 92-93, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_362",
+      "rank": 361,
+      "type": "STUB",
+      "description": "SPAWN A STUB FOR THE SOCIETY OF CAMP DIRECTORS. Two accounts in the run now give it a full institutional history: J. Harry Ebbs's founding address (1969) and Clifford Labbett's 'The Society of Camp Directors' (Fall 1971). Ebbs's questionnaire to OCA members in 1968 was the seed; the founding banquet was at the Rosedale Golf Club, Toronto, in May 1969 (12 May per Labbett, 21 May per Ebbs -- see c_037), fifty-seven members attending; the purpose was 'to establish and maintain professional practices in the directing of childrens' camps and to ensure qualified directorship in such camps'; a board of five on three-year terms; three membership classes with Honorary Fellows Mary Edgar, Ferna Halliday, Mary Hamilton, Charles Plewman and Mrs. Taylor Statten elected at the inaugural dinner; meetings on the second Thursday of November and April; a $500 undergraduate research fund; and a joint proposal with the OCA for stricter licensing of children's camps with the OCA as governing body. The Society matters to this project because so many of the papers this read has surfaced were delivered to it, and because its licensing campaign is the professionalisation argument Quebec never resolved the same way.",
+      "weight": 6,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 92-93, converted to KB facts",
       "blocked_on": null
     }
   ],

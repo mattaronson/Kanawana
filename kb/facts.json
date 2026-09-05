@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 3525,
+  "fact_count": 3582,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -62170,6 +62170,1080 @@
         "Canadian Camping (magazine)"
       ],
       "date_ref": "1971",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3564",
+      "issue": 92,
+      "claim": "Charles F. Plewman's \"The Canadian Camping Magazine and How We Came By It\" (Canadian Camping, Fall 1971) is the magazine's own founding history, written by the man who founded it. He was drafted into the presidency of the Ontario Camping Association in the autumn of 1944, the OCA having been formed \"eleven years before\" — that is, 1933.",
+      "category": "sources",
+      "entities": [
+        "Charles Plewman",
+        "Ontario Camping Association",
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1944",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3565",
+      "issue": 92,
+      "claim": "Charles Plewman's diagnosis of the Ontario Camping Association in 1944: \"Ninety percent of all the camps in Ontario emanated from Toronto and all of the O.C.A. officers came from the same place. We were an Ontario Camping Association but in name only.\" With war having reduced camp conferences to sporadic events, \"the answer was clear, we needed a magazine or bulletin of some kind to draw us closer together.\"",
+      "category": "sources",
+      "entities": [
+        "Charles Plewman",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1944",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3566",
+      "issue": 92,
+      "claim": "Charles Plewman records that the T. Eaton Company financed the first edition of the Ontario camping bulletin — \"As an association we were poor and just didn't have the money\" — and that \"Next I asked the one and only Mary Edgar to act as Editor and she agreed.\"",
+      "category": "sources",
+      "entities": [
+        "Charles Plewman",
+        "Mary S. Edgar",
+        "T. Eaton Company"
+      ],
+      "date_ref": "1971",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3567",
+      "issue": 92,
+      "claim": "Charles Plewman wrote in 1971: \"Before very long, I think it was in 1946, the Canadian Camping Association was formed at a meeting held in the Chateau Laurier in Ottawa,\" adding that \"while it was called the Canadian Camping Association, in reality, nearly all of its members were representatives from the Ontario and Quebec Associations. To the best of my knowledge no other Province had a camping association,\" and that \"for the moment it had no corporate existence.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Charles Plewman",
+        "Canadian Camping Association",
+        "Chateau Laurier"
+      ],
+      "date_ref": "1946",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3568",
+      "issue": 92,
+      "claim": "Charles Plewman is a second, independent, first-hand source for a Canadian Camping Association founding event in 1946, and supplies a venue the project did not have: the Chateau Laurier, Ottawa. He hedges the year (\"I think it was in 1946\") but not the event. This does not overturn the documented 1936 founding at the Central YMCA, Toronto, but it makes the 1946-reorganisation reading of the Camp Stephens claim about Nelson McEwen substantially more likely than an error, and turns it into a checkable question: what happened at the Chateau Laurier in 1946. The CCA's own minutes should be in the OCA archives deposited at Trent in 1970.",
+      "category": "camping_movement",
+      "entities": [
+        "Charles Plewman",
+        "Canadian Camping Association",
+        "Nelson McEwen",
+        "Trent University"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1946",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3569",
+      "issue": 92,
+      "claim": "Charles Plewman records that \"To the credit of the Ontario Camping Association, and its vision of the Canada of to-morrow, it closed out the Ontario Bulletin in 1947 and threw its entire resources behind 'Canadian Camping', a mimeographed bulletin published quarterly and edited as before by Mary Edgar... It was not by accident that we called it the Canadian Camping 'bulletin'. One could not call a mimeographed affair a magazine.\"",
+      "category": "sources",
+      "entities": [
+        "Charles Plewman",
+        "Mary S. Edgar",
+        "Ontario Camping Association",
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1947",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3570",
+      "issue": 92,
+      "claim": "Charles Plewman states that \"The first real Canadian Camping 'magazine' was published in February of 1949 when for the first time it appeared in print\" — which is exactly where this project's 164-issue cached run begins. The run is therefore complete from the magazine's first printed issue, and the mimeographed 1947-48 quarterly bulletin that preceded it is a separate, earlier body of material that this project does not hold.",
+      "category": "sources",
+      "entities": [
+        "Charles Plewman",
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1949-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3571",
+      "issue": 92,
+      "claim": "Charles Plewman records that the move from mimeograph to print in 1949 \"would not have been possible had not Mr. Fred Haiblen of Toronto stepped in and assumed the financial responsibility,\" and that Mary Edgar \"gave continuity to the magazine by acting as its editor for five more years and was succeeded by Mrs. G. W. Flynn.\"",
+      "category": "sources",
+      "entities": [
+        "Charles Plewman",
+        "Fred Haiblen",
+        "Mary S. Edgar",
+        "Eanswythe Flynn",
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1949",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3572",
+      "issue": 92,
+      "claim": "Charles Plewman identifies the author of Canadian Camping's first editorial as \"Miss Dais L. Gass, president of the C.C.A. in 1946,\" quoting it: \"Now it starts in its humble way — may it grow like the acorn and the oak, but most of all may it prove a tie between all of us in Canada. We can learn much from each other. May Canadian Camping weave a bond of understanding, of mutual helpfulness and good will from sea to sea, and from the rivers to the end of the earth.\"",
+      "category": "sources",
+      "entities": [
+        "Dais L. Gass",
+        "Charles Plewman",
+        "Canadian Camping Association",
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1946",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3573",
+      "issue": 92,
+      "claim": "Clifford Labbett, Director of Camp Oconto and President of the Society of Camp Directors, gives the Society's inaugural dinner as \"held at the Rosedale Golf & Country Club, Toronto, on May 12, 1969,\" with fifty-seven members attending. J. Harry Ebbs's founding address as printed in Canadian Camping in 1969 was delivered at \"the Founding Banquet held at the Rosedale Golf Club, Toronto on May 21st, 1969.\" Same venue, same event, nine days apart in the magazine's own two accounts. Both are recorded; neither is resolved.",
+      "category": "camping_movement",
+      "entities": [
+        "Clifford Labbett",
+        "J. Harry Ebbs",
+        "Society of Camp Directors",
+        "Camp Oconto"
+      ],
+      "confidence": "disputed",
+      "date_ref": "1969-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3574",
+      "issue": 92,
+      "claim": "Clifford Labbett records that \"The Society is the brain child of Dr. Harry Ebbs of Taylor Statten Camps,\" the first seeds being a questionnaire sent to Ontario Camping Association members in 1968 and reported back at the OCA spring conference that year; its purpose is \"to establish and maintain professional practices in the directing of childrens' camps and to ensure qualified directorship in such camps.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Clifford Labbett",
+        "J. Harry Ebbs",
+        "Society of Camp Directors",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1968",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3575",
+      "issue": 92,
+      "claim": "The Society of Camp Directors has a board of five serving three-year terms and three membership classes — Fellows, Honorary Fellows and Emeritus Fellows. The Honorary Fellows elected at the inaugural dinner in May 1969 were Mary Edgar, Ferna Halliday, Mary Hamilton, Charles Plewman and Mrs. Taylor Statten; the first board was Ebbs, Ron Johnstone, Clifford Labbett, Bruno Morawetz and Dr. Elsie Palter, with Ebbs elected first president.",
+      "category": "camping_movement",
+      "entities": [
+        "Society of Camp Directors",
+        "Mary S. Edgar",
+        "Ferna Graham Halliday",
+        "Mary Hamilton",
+        "Charles Plewman",
+        "Ethel Statten",
+        "J. Harry Ebbs",
+        "Ron Johnstone",
+        "Clifford Labbett",
+        "Bruno Morawetz",
+        "Elsie Palter"
+      ],
+      "date_ref": "1969-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3576",
+      "issue": 92,
+      "claim": "Four of the five Honorary Fellows elected by the Society of Camp Directors in May 1969 had died or would die within four years — Ferna Halliday in 1970, Ethel Statten in 1970, Mary Edgar in 1973. The roll is effectively the movement's surviving founders honoured at the last moment.",
+      "category": "camping_movement",
+      "entities": [
+        "Society of Camp Directors",
+        "Ferna Graham Halliday",
+        "Ethel Statten",
+        "Mary S. Edgar"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1969-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3577",
+      "issue": 92,
+      "claim": "The Society of Camp Directors met twice a year, on the second Thursday of November and April, at a fee of $25 a year covering two dinner meetings and copies of the papers; its secretary in 1971 was David Palter, 80 Old Colony Road, Willowdale. Papers delivered to it by 1971 were by Donald Groff, Joseph Kronick, Bruno Morawetz, Mary Northway, David Palter, Jack Pearse, Elizabeth Raymer, Stanley Wild and Kirk Wipper, \"many of these papers have been reproduced in Canadian Camping and American publications.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Society of Camp Directors",
+        "David Palter"
+      ],
+      "date_ref": "1971",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3578",
+      "issue": 92,
+      "claim": "The Society of Camp Directors had two projects under way in 1971: a $500 Research Fund for any undergraduate wishing to research some aspect of children's camping, and, with the Ontario Camping Association, \"a joint proposal to have stricter licensing of childrens' camps in Ontario and to have the O.C.A. made the governing body in Ontario.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Society of Camp Directors",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1971",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3579",
+      "issue": 92,
+      "claim": "Charles Plewman replied in print to ed la Pierre's unedited article of the previous issue, defending directors' parental authority: la Pierre had written that \"most camp administrators and supervisors look upon their authority as replacing that of the parent\"; Plewman answered, \"What is wrong with that? I would say that it is to the credit of Camp Directors that they have personally felt a real responsibility for everything that had to do with the welfare and happiness of those entrusted to their care. Organized camping has flourished in Canada because of the confidence that parents have come to feel about those who operate them.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Charles Plewman",
+        "ed la Pierre"
+      ],
+      "date_ref": "1971",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3580",
+      "issue": 92,
+      "claim": "Charles Plewman conceded to ed la Pierre in Fall 1971 that \"adults should have done a better job in sharing with the campers on the decision making level, but to say that we should abdicate and turn everything over to inexperienced youngsters to run is sheer unadulterated nonsense... The program and the ongoing life of camp should be the results of two age groups sharing and not of any one age group dominating,\" and objected that la Pierre's argument applied to those aged 17 and over but not to campers of 7 to 16.",
+      "category": "camping_movement",
+      "entities": [
+        "Charles Plewman",
+        "ed la Pierre"
+      ],
+      "date_ref": "1971",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3581",
+      "issue": 92,
+      "claim": "Charles Plewman, aged about 81, offered a corrective to the period's own crisis talk about camps losing children: \"I have just passed through a camp of 200 boys. I don't know where you could find a happier gang of kids... camps are just as popular as ever with the 8 to 14 year olds and as for those older, it never has had too great an appeal.\" He closed his reply by turning on his own generation: \"a good group of 35-year-olds, if sitting in the seats of the mighty, would do a better job of solving the world's problems than the present tired outfit schooled in the out moded practices of the past.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Charles Plewman",
+        "ed la Pierre"
+      ],
+      "date_ref": "1971",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3582",
+      "issue": 92,
+      "claim": "Andrea Dillon records that \"The Canoeing Instructor's School was first started in 1967 with a small group of enthusiastic canoeists under the direction and guidance of Claude Cousineau and Professor Kirk Wipper. The canoe school has just finished its fifth year.\" After four years the single course split into two eight-day sessions, one French and one English, because \"much of the course's time was taken up in translating material due to the two languages.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Andrea Dillon",
+        "Claude Cousineau",
+        "Kirk Wipper"
+      ],
+      "date_ref": "1967",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3583",
+      "issue": 92,
+      "claim": "The 1971 Canoeing Instructors School was held at the University of Ottawa Camp near Gracefield, Quebec, with the French session 8-15 June and the English 16-24 June, administered by the Department of Recreology, University of Ottawa, with a second-year grant from the Fitness and Amateur Sport Division covering travel for candidates from outside Quebec and Ontario and reducing the fee to $30.00 for eight days; about seventy candidates attended from almost every province and 34 received the \"Instructor\" mention. Staff included Claude Cousineau as director and Kirk Wipper as guest professor.",
+      "category": "camping_movement",
+      "entities": [
+        "Claude Cousineau",
+        "Kirk Wipper",
+        "University of Ottawa",
+        "Gracefield"
+      ],
+      "date_ref": "1971-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3584",
+      "issue": 92,
+      "claim": "The 1971 Canoeing Instructors School introduced a canoe trip within the session and the use of a video-tape machine (\"L'introduction du ruban magnetoscopique facilita l'apprentissage de certaines manoeuvres en canot\"), and shifted its emphasis from stroke and dock teaching toward tripping programme organisation — budgeting, equipment, food and pre-trip training — because \"many canoe programs are now increasing the performance of tripping.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Claude Cousineau",
+        "Andrea Dillon"
+      ],
+      "date_ref": "1971-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3585",
+      "issue": 92,
+      "claim": "Bruno Roy of Camp St-Arsene published \"Relations moniteurs-campeurs\" in both languages in Fall 1971, working through three leadership types — autocracy, anarchy and democracy — and stating on discipline: \"la discipline est avant tout une attitude de cooperation. Cette attitude elimine le pesant probleme de l'autorite,\" and \"moins on a d'autorite reelle plus les marques exterieures se font importantes et repetees.\"",
+      "category": "programs",
+      "entities": [
+        "Bruno Roy",
+        "Camp St-Arsene"
+      ],
+      "date_ref": "1971",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3586",
+      "issue": 92,
+      "claim": "Bruno Roy wrote in Fall 1971 that where a sanction must be imposed \"elle ne sera ni collective ni corporelle\" — neither collective nor corporal — adding \"Il doit eviter egalement d'humilier un campeur en public.\" This is the fourth explicit prohibition of physical punishment recorded in this run of Canadian Camping, after MacCulloch (1969), Danson (June 1970) and MacCulloch again.",
+      "category": "programs",
+      "entities": [
+        "Bruno Roy"
+      ],
+      "date_ref": "1971",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3587",
+      "issue": 92,
+      "claim": "Bruno Roy wrote on fairness in 1971 that \"La segregation reside souvent dans la tete du moniteur\" and that \"justice ne veut pas dire 'rasage' (tout le monde au meme niveau)... Chaque campeur a un droit strict d'etre eduque pour lui-meme\"; and on affection, warning that young counsellors must not seek gratitude, quoted a teacher friend: \"Il n'y a pas de plus riche amour que la depossession... Ce sont mes eleves et non pas 'mes' eleves 'a moi'. Ils s'appartiennent.\"",
+      "category": "programs",
+      "entities": [
+        "Bruno Roy"
+      ],
+      "date_ref": "1971",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3588",
+      "issue": 92,
+      "claim": "Hendrick \"Hank\" Roessingh of Silvercreek Ranch, Calgary, National Standards Chairman of the CCA, wrote in Fall 1971: \"After twelve years of operating a camp with a horseback riding program as one of the main features, my wife and I have come to the firm conclusion that it isn't worth it... We are going to trade in our horses for canoes, flood part of our campsite, and have a waterfront program,\" citing staffing, the year-round cost of horses against canoes, and dishonesty in the horse trade — \"No seller will ever admit to selling a horse more than eight years old.\"",
+      "category": "programs",
+      "entities": [
+        "Hendrick Roessingh",
+        "Silvercreek Ranch",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1971",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3589",
+      "issue": 92,
+      "claim": "M. C. MacCulloch's \"As Camp Closes\" (Fall 1971) prints four letters between a director and a departing counsellor. The counsellor's case for not returning: \"There is a magic about camp — but prolonged magic is unreal... Camp is for the kids — and if I went back for the purpose of having a good time or recapturing memories rather than for the kids, I would be a hypocrite.\" The director's reply: \"Camp doesn't drain into your system any 'X' amount of happiness, fulfilment, reward or experience and then stop, measuring your portion as complete... the magic is not childlike. It is not prolonged for adults. Every new camper, every new counsellor, every new day starts it all over again.\"",
+      "category": "staff",
+      "entities": [
+        "M. C. MacCulloch"
+      ],
+      "date_ref": "1971",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3590",
+      "issue": 92,
+      "claim": "Tom Creighton, Director of YMCA Big Cove Camp and former president of the Nova Scotia Camping Association, wrote the only saltwater-camp article in this run, \"Unique Aspects of Waterfronts in Ocean Environments\" (Fall 1971), stating that camps in the Bay of Fundy \"must realistically develop swimming pools rather than utilize the ocean as the costs and difficulties of dealing with 24-foot tidal variations are staggering,\" that a tidal waterfront \"may only be one third usable at low tide,\" and that \"A piece of wood left in warm salt water will be reduced to a sponge-like consistency within a summer,\" with \"aluminum construction impossible as electrolysis develops.\"",
+      "category": "inter-camp",
+      "entities": [
+        "Tom Creighton",
+        "YMCA Big Cove Camp"
+      ],
+      "date_ref": "1971",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3591",
+      "issue": 92,
+      "claim": "Tom Creighton recorded in Fall 1971 that his own camp's cove had been polluted out of use: \"Our beautiful cove now has phosphate enriched eel grass growing abundantly, its shell fish are now condemned because of the effluent from nearby communities.\" He also noted a season when jellyfish \"were particularly virulent\" and \"we had an alarming drop in swimming participation.\"",
+      "category": "inter-camp",
+      "entities": [
+        "Tom Creighton",
+        "YMCA Big Cove Camp"
+      ],
+      "date_ref": "1971",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3592",
+      "issue": 92,
+      "claim": "Canadian Camping advertised a \"FRENCH-ENGLISH CAMPER EXCHANGE\" for summer 1972, camps to send brochures to the editor: \"CANADIAN CAMPING is interested in promoting bi-lingualism and friendship among our Canadian Campers.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1971",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3593",
+      "issue": 92,
+      "claim": "John Latimer's Fall 1971 letter announces a National Standards Workshop at Banff, 20-23 January 1972, tied to the Alberta association's annual meeting, with two representatives per provincial association \"perhaps your President and Standards Chairman\"; Claude Cousineau to chair a National Canoe School committee; and a Constitutional Task Force meeting in Vancouver 11-13 November because \"the constitution of C.C.A. has many inadequacies.\"",
+      "category": "camping_movement",
+      "entities": [
+        "John Latimer",
+        "Claude Cousineau",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1971",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3594",
+      "issue": 92,
+      "claim": "A full-page thank-you in Canadian Camping, Fall 1971, lists forty-six advertisers and states: \"CANADIAN CAMPING is a 100% Canadian magazine and is not subsidized in any way. It is supported solely by advertisements.\"",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1971",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3595",
+      "issue": 92,
+      "claim": "Eric Russell of St. John's, who founded the Newfoundland and Labrador Camping Association and was its president when the association became a member of the Canadian Camping Association, died in 1971.",
+      "category": "camping_movement",
+      "entities": [
+        "Eric Russell",
+        "Newfoundland and Labrador Camping Association"
+      ],
+      "date_ref": "1971",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3596",
+      "issue": 93,
+      "claim": "Charles F. Plewman's biographical note in Canadian Camping, Winter 1972, is the fullest account of him the run carries: eight years Boys' Work Secretary for the YMCA in Ottawa and Winnipeg; eleven years Secretary for the Ontario Boys' Work Board; founded Kilcoo Camp for boys in Haliburton in 1932; later assisted in the formation of the Ontario Camping Association, of which he is past president and Honorary member; Honorary member of the Society of Camp Directors; during the Second World War Secretary for the Toronto Branch of the Canadian Red Cross with a staff of 65 and 40,000 volunteers, where he instituted the Toronto Mobile Blood Donor Service; and \"although in his 83rd year... still active in Rotary and Camp circles.\"",
+      "category": "biography",
+      "entities": [
+        "Charles Plewman",
+        "Kilcoo Camp",
+        "YMCA",
+        "Ontario Camping Association",
+        "Canadian Red Cross"
+      ],
+      "date_ref": "1972",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3597",
+      "issue": 93,
+      "claim": "Charles Plewman held the YMCA Boys' Work Secretaryship at Ottawa and Winnipeg before founding Kilcoo Camp — the same office Roy Locke and Nelson McEwen held at Montreal, and the standard route into camp directing that this project has repeatedly traced.",
+      "category": "biography",
+      "entities": [
+        "Charles Plewman",
+        "Roy Locke",
+        "Nelson McEwen",
+        "YMCA"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1972",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3598",
+      "issue": 93,
+      "claim": "Charles Plewman published an eyewitness account of Tom Thomson's burial in Canadian Camping, Winter 1972, fifty-five years after the event: he arrived at Mowat Lodge, Algonquin Park, in July 1917 for a two-month stay after his health broke down — \"Taylor Statten, who was interested in my welfare, arranged for me to go to Mowat Lodge\" — and acted as a pallbearer, one of a group of \"something like 12 or 13\" at the graveside, in rain, with no minister, no family member and none of the painters present. \"The Stattens, whose cabin was nearby were absent.\" Park Ranger Mark Robinson \"appeared to be in charge.\" Marked \"Copyright, Canadian Camping.\"",
+      "category": "context",
+      "entities": [
+        "Charles Plewman",
+        "Tom Thomson",
+        "Taylor Statten",
+        "Mark Robinson",
+        "Algonquin Park",
+        "Mowat Lodge"
+      ],
+      "date_ref": "1917-07",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3599",
+      "issue": 93,
+      "claim": "Charles Plewman's 1972 account records Winnie Trainor demanding to see Tom Thomson's remains and insisting on foul play, and Shannon Fraser of Mowat Lodge confiding afterwards that Thomson was engaged to Trainor, that she was coming for a showdown, and that \"Tom was a shy and sensitive person and... he just could not face the music.\" Plewman sets out all three theories with the evidence for each and declines to choose: \"Actually the truth regarding what happened to Tom may never be known with certainty.\" His reason for speaking: \"At 82 I now feel that I should say what I know. It is quite possible that I am the only person living who participated in Tom Thomson's burial in Algonquin Park.\"",
+      "category": "context",
+      "entities": [
+        "Charles Plewman",
+        "Tom Thomson",
+        "Winnie Trainor",
+        "Shannon Fraser"
+      ],
+      "date_ref": "1972",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3600",
+      "issue": 93,
+      "claim": "Charles Plewman recorded how little Tom Thomson's death meant at the time: \"When I arrived back at the Lodge I was still quite oblivious to the fact that we had just buried a man who is now recognized as one of Canada's foremost artists... he might as well have been Algonquin Park's 'Unknown Man'... I was back at Canoe Lake in 1921, four years later, but no one up there was talking about Tom Thomson. He seemed 'forgotten'.\" And: \"Mowat Lodge was full of 8.5 by 10.5 inch sketches that Tom had painted. I could have had them for about a dime a dozen.\"",
+      "category": "context",
+      "entities": [
+        "Charles Plewman",
+        "Tom Thomson"
+      ],
+      "date_ref": "1972",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3601",
+      "issue": 93,
+      "claim": "Dr. Elsie Palter's \"Exceptional Children\" / \"Enfants inadaptes\" (Canadian Camping, Winter 1972), printed in both languages, is the most complete statement in this run of who was actually attending Canadian camps. Her test for admitting a child with a physical disability is the camp's programme, not the child's condition: \"If a camp is geared to an athletic type programme... then a child with a physical handicap does not belong there. However, in camps where the programme offers a choice of activities... then a camp experience with normal children should be planned for him.\" She states that \"The deaf can fit into a regular camp with very little trouble, and should not be excluded for this reason.\" Terminology of 1972 recorded as written.",
+      "category": "programs",
+      "entities": [
+        "Elsie Palter"
+      ],
+      "date_ref": "1972",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3602",
+      "issue": 93,
+      "claim": "Elsie Palter wrote in 1972 that perceptual handicap was a category \"fifteen years ago... a term seldom heard,\" and gave a figure: \"Many of our campers have some perceptual deficiency, statistically 10-15%... They need extra help, in order to keep up with their fellow campers, but they do belong with other 'normal children'.\" She notes that \"the simple act of walking up an inclined plank comes easily to most children, but to the perceptually handicapped it is an insurmountable task.\"",
+      "category": "programs",
+      "entities": [
+        "Elsie Palter"
+      ],
+      "date_ref": "1972",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3603",
+      "issue": 93,
+      "claim": "Elsie Palter distinguished slow learners from children described as retarded in 1972: \"Sickness, emotional disturbance, poverty, may have held a child below his age level... These children are often sensitive, the butt of jokes... wander by themselves at camp, unless someone is aware of their deficiency and has helped that child to find some area in which he can be made to feel competent.\" On aggression: \"A child who has suffered physical abuse in his home often resorts to aggressive behaviour.\" On withdrawal: \"A child who is excessively timid... who internalizes all his feelings, is just as ill mentally as the overly aggressive youngster.\"",
+      "category": "programs",
+      "entities": [
+        "Elsie Palter"
+      ],
+      "date_ref": "1972",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3604",
+      "issue": 93,
+      "claim": "Elsie Palter's section \"Culturally Enriched or Culturally Deprived\" (1972) describes agency camp children in the period's own terms: their \"communication is often physical, and their language, limited as it is, coloured with obscenity. Social behaviour and personal hygiene do not fit middle class standards. Agency camp staff are more familiar with these children\" — and itemises what camp offered them: \"He is assured three good meals, seated in a dining room, a clean bed of his own, facilities for washing and bathing... away from the city slums... and is exposed to adults who care about him.\" Recorded exactly as written and dated, not adopted in this project's voice.",
+      "category": "context",
+      "entities": [
+        "Elsie Palter"
+      ],
+      "date_ref": "1972",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3605",
+      "issue": 93,
+      "claim": "Elsie Palter names foster children as a distinct part of the agency camp population in 1972: \"They often come from culturally deprived settings, have been rejected by their parents, and are as they call themselves the 'Aid' or 'Children's Aid'... they may have been in several different foster homes, sometimes returned to their natural parents and then placed again... They have witnessed desertion, alcoholism, promiscuity and neglect in their homes... Camp is often the most meaningful experience in their lives.\" Children placed by Children's Aid Societies were therefore part of the agency camp population, and some arrived with case histories attached.",
+      "category": "context",
+      "entities": [
+        "Elsie Palter",
+        "Children's Aid Society"
+      ],
+      "date_ref": "1972",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3606",
+      "issue": 93,
+      "claim": "John Latimer's Winter 1972 newsletter dates and locates the CCA's Montreal meetings: the Board meeting at the Queen Elizabeth Hotel, Montreal, 19-20 April 1972, the Annual Meeting the night of 20 April, and the QCA-ACQ Conference 20-22 April at the same hotel, with a separate Quebec Camping Association annual meeting on 24 May.",
+      "category": "camping_movement",
+      "entities": [
+        "John Latimer",
+        "Canadian Camping Association",
+        "Quebec Camping Association",
+        "Queen Elizabeth Hotel"
+      ],
+      "date_ref": "1972-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3607",
+      "issue": 93,
+      "claim": "The Girl Guides Association of Canada was welcomed as the Canadian Camping Association's first Affiliate in 1972; the Constitution Task Force met in Vancouver under Stan Wild; membership certificates in French and annual seals for member camps were to be issued; and National Camping Day was set for Wednesday 19 July 1972 under Doug Dent.",
+      "category": "camping_movement",
+      "entities": [
+        "Girl Guides Association of Canada",
+        "Canadian Camping Association",
+        "Stan Wild",
+        "Doug Dent"
+      ],
+      "date_ref": "1972",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3608",
+      "issue": 93,
+      "claim": "Bob Lazanik and David Hartry were working in 1972 on a committee to establish a Canadian Camping Association Award for significant contribution to camping in Canada — the origin of the CCA award scheme under which Derek Walsh received an Award of Excellence in 1983.",
+      "category": "camping_movement",
+      "entities": [
+        "Robert Lazanik",
+        "David Hartry",
+        "Canadian Camping Association",
+        "Derek Walsh"
+      ],
+      "date_ref": "1972",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3609",
+      "issue": 93,
+      "claim": "A new Canadian Camping Association Committee on Outdoor Education first met on 1 January 1972 with Brian Blackstock, David Brown, Margaret Govan, Sam Hambly, Marjorie Howard of the Girl Guides and Flo Woods of the National Council of the YWCA; a separate committee was formed to counteract press coverage \"which give a completely misleading picture of camping in Canada.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Brian Blackstock",
+        "Margaret Govan",
+        "Sam Hambly",
+        "Marjorie Howard",
+        "Flo Woods",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1972-01-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3610",
+      "issue": 93,
+      "claim": "John Latimer reported in Winter 1972 that \"Camping Sunday\" had been introduced into the Anglican churches of Newfoundland in spring 1971 and would be extended in April 1972 to the United Church and the Salvation Army — special services across the province conducted largely by campers and young staff, \"highlighting the importance and value of camping.\"",
+      "category": "camping_movement",
+      "entities": [
+        "John Latimer",
+        "Newfoundland and Labrador Camping Association"
+      ],
+      "date_ref": "1971",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3611",
+      "issue": 93,
+      "claim": "Max Campbell, Director of Arrowhead Ranch, objected in print to Hank Roessingh's \"Horses for Sale,\" making a structural criticism of the movement: \"Both the Ontario Camping Association and the Canadian Camping Association have on occasion conveyed the impression of being unquestionably waterfront camp-oriented with an inherent lack of interest in the merits of any other type of Camp Program. Question — would the Executive of the Canadian Camping Association have permitted the publication of a similar article on canoeing — even if it had been written in jest? I doubt it.\" Roessingh replied that \"for too many of us being dedicated to camping is synonymous with being deadly serious about it at all times,\" made the case for riding as work with a living creature, and withdrew his offer to sell his horses.",
+      "category": "camping_movement",
+      "entities": [
+        "Max Campbell",
+        "Hendrick Roessingh",
+        "Arrowhead Ranch",
+        "Canadian Camping Association",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1972",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3612",
+      "issue": 93,
+      "claim": "Sam G. Hambly, Director of Camp Allsaw, published a complete buildable camp composting system in Canadian Camping, Winter 1972: a 12-foot circle of snow fence, an 18-inch layer of dry organic material inside it, a 45-gallon steel drum with top and bottom removed set in the centre as a funnel for kitchen waste with a tight fly screen on top, dry material packed between drum and fence, and the drum rocked and raised as the pile fills. Re-piling to admit air \"will produce offensive odours and for this reason should be avoided during the camp period.\"",
+      "category": "facilities",
+      "entities": [
+        "Sam Hambly",
+        "Camp Allsaw"
+      ],
+      "date_ref": "1972",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3613",
+      "issue": 93,
+      "claim": "Sam Hambly connected camp composting to the waterfront in 1972: garden soil made \"open and porous... absorbs the rain and melting snow water. Underground reservoirs are filled up. Hence, the water emerges to provide crystal clear water for swimming and canoeing... campers who like to have quality conditions on the waterfront have a responsibility for the conservation practices of the watershed.\"",
+      "category": "programs",
+      "entities": [
+        "Sam Hambly"
+      ],
+      "date_ref": "1972",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3614",
+      "issue": 93,
+      "claim": "David Hodgetts, Director of Hurontario Wilderness Camp, set out a whitewater teaching document in Canadian Camping, Winter 1972, with a threshold: \"I think not for campers under twelve... I think not if the staff members are inexperienced or if your equipment is not suited to running rapids,\" and three hard rules — wear lifejackets, always carry a spare paddle in each canoe, never underestimate the power of running water, especially if it is cold. He teaches the terminology of the \"V,\" standing waves (runnable if not over 2.5 feet), rock, boil and back eddies, and the two-man division of labour between the critical man and the power man.",
+      "category": "programs",
+      "entities": [
+        "David Hodgetts",
+        "Hurontario Wilderness Camp"
+      ],
+      "date_ref": "1972",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3615",
+      "issue": 93,
+      "claim": "David Hodgetts's 1972 whitewater article states the key safety point twice — \"always have the canoe tilted downstream on a turn\" — because eddy turns \"cause about 80% of all turn-overs in rapids,\" and advises on standing waves: \"If they are huge — portage. If between 2 and 3 feet hit them right dead centre... If you hit them sideways you'll probably have to build a drying fire that evening.\"",
+      "category": "programs",
+      "entities": [
+        "David Hodgetts"
+      ],
+      "date_ref": "1972",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3616",
+      "issue": 93,
+      "claim": "Margaret Govan, the former Camp Onawa director, in her seventies, made a 200-mile inflatable-raft float down the Teslin and Yukon rivers with Wilderness Unlimited (John and Mickey Lammers), sponsored by the Federation of Ontario Naturalists — six adventurers from Ontario, four days on each river with two lay-off days, eight campsites, ending at Carmacks. Her account was reprinted in Canadian Camping, Winter 1972, from The Liberal, Richmond Hill, 7 October 1971.",
+      "category": "biography",
+      "entities": [
+        "Margaret Govan",
+        "Camp Onawa",
+        "Federation of Ontario Naturalists"
+      ],
+      "date_ref": "1971-10-07",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3617",
+      "issue": 93,
+      "claim": "Helen Stewart, Director of Camp Wahcahmie, described a Mother and Daughter Weekend in Canadian Camping, Winter 1972, held the second weekend in June \"so that Camp will be ready for parental inspection and we have a 'breather' of a few weeks before Pre-camp begins,\" and offered explicitly as a homesickness preventive. Terms: expenses divided equally, dish-washing shared by the group, staff present with their own mothers NOT on duty, and all participants required to abide by the camp's waterfront and safety rules.",
+      "category": "programs",
+      "entities": [
+        "Helen Stewart",
+        "Camp Wahcahmie"
+      ],
+      "date_ref": "1972",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3618",
+      "issue": 93,
+      "claim": "Joyce Bertram of Camp Ouareau published \"Camping on the Avon\" in Winter 1972, a comic essay arguing from quotation that Shakespeare was a camp director — a period inventory of a director's grievances hung on quotations: the bank, the health inspector, staff, senior staff, Parents' Day and the queue of cars, duty counsellors, the weather, the night rounds, and the maintenance man at dawn.",
+      "category": "sources",
+      "entities": [
+        "Joyce Bertram",
+        "Camp Ouareau"
+      ],
+      "date_ref": "1972",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3619",
+      "issue": 93,
+      "claim": "Officer changes recorded in Canadian Camping, Winter 1972: Levi Mehaney succeeds Elizabeth Mouland as Newfoundland president, Mouland having gone to head a national Girl Guide Ranger training programme; Marion Rosborough is Nova Scotia president; Robert Lazanik is listed as president of the merged Quebec association in the provincial offices block; and Huguette Dagenais joins the Publications Committee.",
+      "category": "camping_movement",
+      "entities": [
+        "Levi Mehaney",
+        "Elizabeth Mouland",
+        "Marion Rosborough",
+        "Robert Lazanik",
+        "Huguette Dagenais"
+      ],
+      "date_ref": "1972",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3620",
+      "issue": 93,
+      "claim": "Canadian Camping sold at $1.00 a single copy from Winter 1972 and printed its subscription rates on the masthead for the first time.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1972",
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
