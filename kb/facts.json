@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 4279,
+  "fact_count": 4315,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -76189,6 +76189,668 @@
         "Robert E. Wilkinson"
       ],
       "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4318",
+      "issue": 145,
+      "claim": "Every page of Canadian Camping Vol. 34 No. 4 (Winter 1983) was scanned 180 degrees rotated in the cached copy, and the OCR read the rotated glyphs, substituting upright look-alikes. The issue was decoded with a purpose-written script and read end to end, but the decoding is lossy and ambiguous by construction — rotated b and q both come through as b, rotated a arrives as e, B or q — so the output is roughly 80% clean and is not a faithful transcript. Every quotation from this issue is reconstructed, and every figure should be re-checked against a clean copy before being relied on.",
+      "category": "methodology",
+      "entities": [
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1983-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4319",
+      "issue": 145,
+      "claim": "Marjorie Booth, the CCA's Executive Director, interviewed in Toronto on 20 November 1982 and asked what percentage of Canadian camps were members of the association, answered \"Depending on the area of the country, probably 10 to 12\"; the interviewer restated it as \"roughly then, only 10% of camps operating in this country are members of their provincial association,\" and she did not correct him. Quotation reconstructed from a rotated scan.",
+      "category": "camping_movement",
+      "entities": [
+        "Marjorie Booth",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-11-20",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4320",
+      "issue": 145,
+      "claim": "If association membership was 10 to 12 per cent of the field, Canada had on the order of five thousand camps operating in the early 1980s, and the national statistics of 574 or 590 member camps describe a small, self-selected, better-resourced minority. Kanawana's membership of the Quebec association is therefore not a neutral fact but a marker of a particular kind of camp, and any comparison of Kanawana with \"Canadian camps\" drawn from CCA data is a comparison with the accredited tenth.",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Kanawana",
+        "Canadian Camping Association"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4321",
+      "issue": 145,
+      "claim": "Marjorie Booth explained who stayed out of the camping associations: \"there are a number of small organizations or church-affiliated camping programmes in this country that don't have the financial resources — at least in their minds — to meet some of the recommended practices and so they choose not to belong,\" and \"if camp directors don't know we exist, they can't join the association... Nationally, we're not well known.\" She also states the rule that applied to Kanawana: in \"Ontario and Quebec... in order to become a member camp, you must meet the standards or recommended practices and be visited by a consultant or your peers\" — so in Quebec, membership and accreditation were the same gate. Reconstructed from a rotated scan.",
+      "category": "camping_movement",
+      "entities": [
+        "Marjorie Booth",
+        "Quebec Camping Association",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1982-11-20",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4322",
+      "issue": 145,
+      "claim": "Marjorie Booth described her Montreal years: \"I left Glenburn in the fall of 1976 and started immediately at the Montreal Y.W.C.A. My first summer directing Oolahwan was its sixtieth anniversary so it was an exciting project... That site was beautiful too. We had 160 acres on a completely private lake right in the middle of the Laurentians near Ste-Marguerite. Our campers were 60% French and 40% English so it was a good mixture and announcements were all made in both languages.\" Reconstructed from a rotated scan.",
+      "category": "inter-camp",
+      "entities": [
+        "Marjorie Booth",
+        "Camp Oolahwan",
+        "YWCA Montreal",
+        "Sainte-Marguerite"
+      ],
+      "date_ref": "1977",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4323",
+      "issue": 145,
+      "claim": "Camp Oolahwan's sixtieth anniversary fell in Marjorie Booth's first summer directing it, 1977, which confirms its founding in 1917 from inside the camp against the competing 1915 date. Its site was 160 acres on a private lake near Sainte-Marguerite in the Laurentians, and in 1977 its campers were 60% francophone and 40% anglophone with announcements made in both languages — a Montreal YWCA camp running bilingually at exactly the period when the Quebec Camping Association's English Section was disappearing from the national directory, and a direct comparator for Kanawana forty minutes away.",
+      "category": "inter-camp",
+      "entities": [
+        "Camp Oolahwan",
+        "Marjorie Booth",
+        "Camp Kanawana",
+        "YWCA Montreal"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1977",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4324",
+      "issue": 145,
+      "claim": "Bruno Morawetz's essay \"The Importance of the Unimportant\" was printed a third time in Winter 1983, and this printing carries an attribution the 1975 and 1977 printings did not: \"Reprinted with permission from the CCA Conference Digest, 19[??]\". The year is not legible in the rotated scan; the decoded characters are consistent with 1961 or 1971. So the essay this project has quoted from the June 1975 and June 1977 issues is itself a reprint of a paper given at a Canadian Camping Association conference years earlier, and both its origin and the first date of the \"woe to the camp which yearly changes its directors\" line may need moving.",
+      "category": "methodology",
+      "entities": [
+        "Bruno Morawetz",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4325",
+      "issue": 145,
+      "claim": "Bruno Morawetz's geranium parable, from the fullest printing of his essay: a friend admired his wife's tall spindly geraniums and was told they would only grow into beautiful plants \"if you keep nipping off the new shoots, just as any fruit tree needs annual pruning\" — from which \"a camp director is like a gardener, and his geraniums are children. If a youngster grows without structure, without limits, without the occasional pruning, he may come back from camp... saying 'I did not really learn anything at camp, I accomplished nothing, it was a waste of time.'\" And his scepticism about credentials: \"I am always suspicious when a staff application is accompanied by a long resume listing dozens of qualifications... perhaps he has never taken the time to sit quietly by a brook, to listen to the gay laughter of its ripples.\" Reconstructed from a rotated scan.",
+      "category": "camping_movement",
+      "entities": [
+        "Bruno Morawetz",
+        "Camp Ponacka"
+      ],
+      "date_ref": "1983-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4326",
+      "issue": 145,
+      "claim": "John Latimer wrote to Canadian Camping in Winter 1983 on the association's own history of silence: \"Until three years ago, in the CCA conferences, there was never a session on sexual attitudes and awareness. We talked about everything else related to a growing, questioning child and adolescent, but we never talked about sex. To some, this was shocking; to others it was a 'breakthrough'.\" And on the substance: \"I would be much more concerned about a heterosexual teacher or counsellor who is cruel, sadistic, and morally corrupt, than I would about a homosexual teacher or counsellor who was kind, understanding, and a human with high values.\" Reconstructed from a rotated scan.",
+      "category": "context",
+      "entities": [
+        "John Latimer",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4327",
+      "issue": 145,
+      "claim": "John Latimer's answer to the proposal that camps let staff drink, Winter 1983: \"In Ontario the legal age is 19. I have counsellors who are 17 and 18. If I let them drink in camp, I am knowingly condoning the breaking of the law. As a leader, I should be helping young people (through example) not to break the law.\" He notes he gives \"an 18 year old exactly the same responsibility as I have given to a 19 year old (looking after children for 24 hours),\" that a split rule would be intolerable — \"some of you may only drink milk shakes, while others are allowed that 'adult' stuff. How divisive!\" — accepts the danger of the counsellor driving back from a pub, \"where the potentially lethal weapon of a car forces a counsellor to play russian roulette on the trip back to camp,\" and concludes: \"As I said, I'm torn and frustrated, and I haven't got an answer... I'm not ready for that yet.\" Reconstructed from a rotated scan.",
+      "category": "staff",
+      "entities": [
+        "John Latimer"
+      ],
+      "date_ref": "1983-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4328",
+      "issue": 145,
+      "claim": "John Latimer wrote in Winter 1983: \"It will be interesting for a young camping researcher to look through the archives of the CCA in the year 2020 and read this particular issue — and study the comments which you will no doubt receive.\" Reconstructed from a rotated scan.",
+      "category": "sources",
+      "entities": [
+        "John Latimer",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4329",
+      "issue": 145,
+      "claim": "Canadian Camping's Winter 1983 editorial, \"Lest we forget our purpose,\" prints the UN Declaration of the Rights of the Child entire in both languages, with the note that 1979 was the International Year of the Child, \"the year, of course, has come and gone. Children still suffer.\" Its argument: \"Camp activities are not an 'end' in themselves; they are a 'means' toward an 'end', the 'end' being the enrichment of a camper's life and development.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4330",
+      "issue": 145,
+      "claim": "Marjorie Booth stated what Fitness Canada paid for in 1982-83: two staff positions, one full-time and one part-time; the travel costs of two Board meetings and two Executive meetings a year; and special project funding. Her justification: \"we are a significant delivery system of physical activity for about 600,000 Canadian children every year\" — a figure that must cover the whole field rather than the membership, and which should be reconciled with the member camps' reported 313,953 campers before either is used. She dates the Action Plan's origin to the Camp Wanakita workshop of October 1980 and gives its target: \"in our Action Plan, we intend to be 50% self-supporting in our core operation by the year 1985-86.\" Reconstructed from a rotated scan.",
+      "category": "camping_movement",
+      "entities": [
+        "Marjorie Booth",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-11-20",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4331",
+      "issue": 145,
+      "claim": "Marjorie Booth was explicit about what the January 1983 standards workshop was not: \"we're not trying at all to introduce a National Accreditation programme; that's years away,\" though national recognition of recommended practices \"might well come at it from a promotional point of view — it would be in our favour to be able to say when asked: 'when you choose a CCA camp, you get assured of...' whatever those areas of common agreement are.\" Reconstructed from a rotated scan.",
+      "category": "camping_movement",
+      "entities": [
+        "Marjorie Booth",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-11-20",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4332",
+      "issue": 145,
+      "claim": "Marjorie Booth's account of regional difference in Canadian camping: \"In the prairies and Atlantic provinces, most of the camps are organization-run, agency-run or religiously based. There is a huge difference in Ontario, Quebec, and to some degree British Columbia, where many camps operate for longer periods of time — two or four weeks for a session. As well, most of the camps are non-denominational and are able to attract a clientele who are able to pay more to go to camp than you would find in other parts of the country. Population density and factors like the economy are therefore significant.\" And on campers: \"this is so foreign to camps in Quebec and Ontario, for example, where you'll often have 16 and 17 year-old campers who return year after year.\" Quebec and Ontario camps were the long-session, non-denominational, higher-fee, older-camper end of Canadian camping — the category Kanawana sat in. Reconstructed from a rotated scan.",
+      "category": "camping_movement",
+      "entities": [
+        "Marjorie Booth",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1982-11-20",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4333",
+      "issue": 145,
+      "claim": "The Camping Advisor of Winter 1983 answered a section director who had found two counsellors smoking marijuana in camp and told no one: the editor held that he was not wrong, but \"perhaps you should have shared what happened with the Director and explained how you handled the situation... the Director would most probably have supported your judgement 100%,\" warning that \"a precedent of leniency may have been falsely assumed by others on staff.\" Reconstructed from a rotated scan.",
+      "category": "staff",
+      "entities": [
+        "Jay Haddad",
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1983-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4334",
+      "issue": 146,
+      "claim": "W. E. (Ted) Yard died on 3 January 1983. His notice gives him as born in Vancouver in 1919, B.A. from the University of British Columbia, M.S. from George Williams College, Chicago, in the YMCA from 1942 in Vancouver, Toronto and Sault Ste. Marie until he bought Camp Hollyburn in 1967, \"particularly during his tenure as Director of Toronto's Camp Pinecrest in the '50s and early '60s,\" and President of the Ontario Camping Association 1949-51 and of the Canadian Camping Association 1953-55.",
+      "category": "biography",
+      "entities": [
+        "W. E. Yard",
+        "Camp Pine Crest",
+        "Camp Hollyburn",
+        "YMCA",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983-01-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4335",
+      "issue": 146,
+      "claim": "W. E. (Ted) Yard's reprinted article describes Camp Pine Crest's Voyageur-Lumberman ceremony from inside, including its spoken text: \"Let us pause for a moment, and viewing the truly beautiful shades of our Muskoka evening, let us this day drink deep of the beauty in lake and sky and stately pine. Let us cherish the deep friendships discovered at this spot; may they give deeper meaning to lives already dedicated to helpful, purposeful ends.\" Then the lumberman \"clad in high boots, mackinaw shirt, and peak cap. With an axe on his capable shoulders he strode quietly along the shoreline to take his place against a giant pine... silhouetted in the sunset\" — \"It is the Lumberman... craftsman, pioneer, conservationist... he is a living symbol of Canada's great forest lands.\" Then \"a canoe skimmed into silhouette. The paddler in buckskin coat and tasselled toque, skillfully set his craft ashore, and took his place opposite the Lumberman\" — \"It is the Voyageur... explorer, adventurer, master of his craft, he looks to new horizons... for he, too, is Canada.\"",
+      "category": "traditions",
+      "entities": [
+        "W. E. Yard",
+        "Camp Pine Crest"
+      ],
+      "date_ref": "1983-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4336",
+      "issue": 146,
+      "claim": "At Camp Pine Crest the Lumbermen and Voyageurs were not only competition teams but a ceremony with a liturgy — a tableau staged at sunset with an axe and a canoe and two spoken parts. Kanawana adopted the Lumbermen-and-Voyageurs format in 1947 from Pine Crest, where the competition had run since 1940. No claim is made that Kanawana used this text or anything like it: nothing in Yard's article mentions Kanawana, the ceremony he describes is undated, and he directed Pine Crest in the 1950s, after Kanawana's borrowing.",
+      "category": "traditions",
+      "entities": [
+        "Camp Pine Crest",
+        "Camp Kanawana",
+        "W. E. Yard"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1983",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4337",
+      "issue": 146,
+      "claim": "W. E. Yard's article describes three further Camp Pine Crest observances: a sunset sharing circle where \"over a hundred children\" watched the sun go down and rose one by one to say \"I remember...\"; a campfire induction ceremony in which inductees accept the Pine as a symbol of Strength and Fortitude (\"as the Pine roots cling to the crevices of solid Muskoka rock to hold firm in all weather, so will we hold firm to the principles of good living\"), of Personal Growth and of Purity (\"clean speech, clean sportsmanship, and clear minds\"); and a widening-circles ceremony in which a boy dropped a stone in the lake and campers rose in turn — \"Our widening friendship circles take us to Poland, my homeland\" — followed by boys from Holland, Greece, Estonia, Scotland and Australia, dating a postwar YMCA camp's immigrant intake as a programme element.",
+      "category": "traditions",
+      "entities": [
+        "W. E. Yard",
+        "Camp Pine Crest",
+        "YMCA"
+      ],
+      "date_ref": "1983-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4338",
+      "issue": 146,
+      "claim": "The first International Camping Congress was held at the Sheraton Centre, Toronto, 26-29 January 1983: \"over 1000 delegates from around the world — Japan, England, New Zealand, United States, Australia, Norway and Canada — participated in over 90 sessions,\" with 1,100 at the closing banquet, and \"it was four years in the planning stages.\" Sir Edmund Hillary opened it with \"Camping is for Everyone\"; Dave Broadfoot entertained; Dr. Alec Dickson spoke on \"Camping and Caring: Crossing New Frontiers\"; and Leo Buscaglia closed after a slide presentation, \"The Universal Child,\" by Jay Haddad and Doug Caldwell. The next congress was planned for 1987 in Washington, D.C.",
+      "category": "camping_movement",
+      "entities": [
+        "Edmund Hillary",
+        "Leo Buscaglia",
+        "Jay Haddad",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983-01-26",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4339",
+      "issue": 146,
+      "claim": "Every session of the 1983 International Camping Congress was recorded and sold: \"Audio Cassettes Available — Recorded live at the International Camping Congress,\" from AUDIO ARCHIVES OF CANADA, 1140 Victoria Park Avenue, Markham, Ontario L3R 1B2, at $9 a cassette with a six-cassette binder free with every order of six, and the full session list printed with codes and speakers. Titles include \"Camp Leadership — The State of the Art\"; \"Legal Liability of Organized Camps & Youth Organizations\" in two parts; \"Camper Safety and the Law\"; \"Cults: A Threat to Campers and Staff\"; \"Your Staff Deserve Good Supervision\" in two parts; \"Non-Threatening Evaluation — Almost\"; and \"Safe Whitewater Canoeing at Camp.\"",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping Association",
+        "Audio Archives of Canada"
+      ],
+      "date_ref": "1983",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4340",
+      "issue": 146,
+      "claim": "Dr. Robert E. Wilkinson of McGill University, Montreal, ran the session \"Camper Safety and the Law\" at the January 1983 International Camping Congress, \"dwelling on legal responsibility for camper injury, common areas of litigation and appropriate preventative measures.\" He is the author of the movement's textbook and a member of the Canadian Camping Association through the Association des Camps du Quebec, so the Montreal presence at the Congress is confirmed as delivered rather than merely announced.",
+      "category": "camping_movement",
+      "entities": [
+        "Robert E. Wilkinson",
+        "McGill University",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4341",
+      "issue": 146,
+      "claim": "National Camping Day 1983 was Thursday 14 April, \"chosen as April 14 by the Board of CCA at its meeting last May in Saskatoon.\" This corrects a decoding error in the rotated Winter 1983 scan, which rendered Marjorie Booth's statement of the date as 1 April. Campers were urged \"to wear their camp shirts, hats or jackets, or some identification of their camp on this special day.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Marnie Ellis",
+        "Jocelyn Palm"
+      ],
+      "date_ref": "1983-04-14",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4342",
+      "issue": 146,
+      "claim": "Marnie Ellis's account of National Camping Day 1983: the project came out of \"the CCA Task Force and the original five-year plan,\" worked on for eighteen months; the pre-Congress workshop of 25-26 January 1983 had 18 delegates from the nine member provinces, of whom the second day was devoted to the day; the date was chosen for the gap after the workshop and because it was \"still early enough that the publicity would benefit the majority of camps doing their registration.\" Jocelyn Palm adds a history: \"National Camping Day is not a new idea. Conceived in the 1960's... The B.C. Camping Association spawned the t-shirt day... The idea was endorsed by all provinces at a Halifax meeting in 1981.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Marnie Ellis",
+        "Jocelyn Palm",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4343",
+      "issue": 146,
+      "claim": "\"Derek Walsh was awarded the CCA Certificate of Appreciation at the reception prior to the Congress Banquet last January 29th\" — 29 January 1983. The citation adds one item this project did not have: \"Most recently Derek completed a feasibility study on a proposed magazine.\"",
+      "category": "people",
+      "entities": [
+        "Derek Walsh",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983-01-29",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4344",
+      "issue": 146,
+      "claim": "Brian Blackstock received the Canadian Camping Association's Award of Honour at the January 1983 Congress, \"a long-time member of the Ontario Camping Association and Owner/Director of Camp Mazinaw,\" the award \"bestowed as a tribute to Brian's consistent efforts as Editor of Canadian Camping from 1977 to 1981.\" That dates his editorship exactly and separates him from C. R. \"Blackie\" Blackstock, who died in 1979.",
+      "category": "sources",
+      "entities": [
+        "Brian Blackstock",
+        "Camp Mazinaw",
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1983-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4345",
+      "issue": 146,
+      "claim": "John Eberhard, past president of the Canadian Recreational Canoeing Association, was honoured at the January 1983 Congress because he \"contributed his time as a lawyer to pursue the CCA's application for charitable status through the national Department of Revenue\" — naming who did the work behind the association's 1982 charity registration.",
+      "category": "camping_movement",
+      "entities": [
+        "John Eberhard",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4346",
+      "issue": 146,
+      "claim": "Legacy to a Camper: The Story of Mary S. Edgar, by Jocelyn Palm, was published by the Canadian Camping Association, copyright 1982, first edition 1983, at $7.95 — \"the biography of Mary S. Edgar who was a pioneer in children's camping and a faithful supporter of the Canadian and Ontario Camping Associations; the YWCA, CGIT and the Girl Guides of Canada,\" with 38 of her verses and material for campfires, quiet times and chapel programmes, covering Glen Bernard Camp, which she founded in 1922 at Sundridge, Ontario. All proceeds went to the CCA. Palm \"worked at Glen Bernard from 1959 until 1965 and knew Miss Edgar well,\" with input from Dr. Mary Northway and Maria McCollum Wilson and from Barbara and John Gilchrist, and photographs spanning fifty-two years.",
+      "category": "sources",
+      "entities": [
+        "Jocelyn Palm",
+        "Mary S. Edgar",
+        "Glen Bernard Camp",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4347",
+      "issue": 146,
+      "claim": "Marnie Ellis's review of Legacy to a Camper claims for Mary S. Edgar that she \"created the first Canadian private camp for girls.\" That sits against this project's record of Camp Ouareau as founded in the same year, 1922, and as \"one of the two oldest summer camps exclusively for young girls still in operation in Canada.\" Both were founded in 1922, and both anniversaries were announced in the same sentence in Spring 1982. \"First\" and \"oldest still operating\" are different claims and both sources are promotional.",
+      "category": "inter-camp",
+      "entities": [
+        "Mary S. Edgar",
+        "Glen Bernard Camp",
+        "Camp Ouareau"
+      ],
+      "confidence": "disputed",
+      "date_ref": "1922",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4348",
+      "issue": 146,
+      "claim": "Mary Casey, R.N., author of the camp nursing manual, specified a camp medication cupboard in Spring 1983 in five categories: \"analgesics for pain; antihistamines for allergic reactions; antitussives for coughs; decongestants for colds; laxatives for constipation\" — \"the old motto, 'Keep it Simple'.\" She prefers salt-water gargles and hard candy for sore throats over lozenges containing an anaesthetic \"with a name ending with the letters 'caine'\" that \"may cause future reaction to novocaine used by the dentist or the surgeon,\" and quotes Dr. James C. Fallis of Toronto's Hospital for Sick Children: \"current knowledge suggests that acetaminophen is probably the antipyretic of choice for stocking a camp infirmary,\" because of the emerging Reye's Syndrome association with aspirin.",
+      "category": "facilities",
+      "entities": [
+        "Mary I. Casey",
+        "James C. Fallis"
+      ],
+      "date_ref": "1983-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4349",
+      "issue": 146,
+      "claim": "Marjorie Booth printed the camp grace \"Thank You Lord\" in Spring 1983, noting it \"has been sung for years as a chapel hymn or grace in many Canadian camps,\" that it was used as the grace at the Congress closing banquet and as the youth hymn at the Scout-Guide Thinking Day service on 22 February. Both verses are printed, attributed Anonymous, and the tune is given: \"Sung to the tune: Edelweiss\" — a grace in the Canadian camp repertoire in 1983 set to a 1959 Broadway tune, the same kind of borrowing this project documented for \"Alabama Jubilee.\"",
+      "category": "traditions",
+      "entities": [
+        "Marjorie Booth",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4350",
+      "issue": 146,
+      "claim": "The Camping Advisor of Spring 1983 answered \"M.C., Montreal, Quebec,\" a director asking how to run pre-camp training when returning staff have heard it \"for 5 or 6 years\" and whether experienced staff might arrive later. The reply lists what camps actually did: mixed old-and-new teams; emergency procedures sprung at 4:00 a.m. with the staff unaware; \"a lot of Ontario camps 'switch' Directors for an entire day in pre-camp in order to hear leadership sessions and philosophy from different, and sometimes neighbouring, Directors\"; free sessions from government-funded summer arts groups; and a buddy system pairing each new staff member with a returning one. It advises against later arrival: \"this could prove quite divisive as the morale you are trying to achieve in pre-camp far transcends skills and safety training and moves into the arena of 'camp spirit'.\"",
+      "category": "staff",
+      "entities": [
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1983-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4351",
+      "issue": 146,
+      "claim": "The Canadian Camping Association's member camp certificate system, described in Spring 1983: \"there is one for camps accredited by the provincial standards committee and another for member camps who are not accredited. Once the camp receives the member camp certificate, the CCA/ACC forwards the 'year stickers' to all the provincial presidents. These are sent to each camp to keep the certificate up to date.\" A Kanawana CCA/ACC member camp certificate with year stickers is therefore a specific, describable object to ask about — it would have hung in the office, and its stickers would date the camp's membership year by year.",
+      "category": "archives",
+      "entities": [
+        "Canadian Camping Association",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1983-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4352",
+      "issue": 146,
+      "claim": "The Camping Advisor of Spring 1983 on directors playing favourites: \"it is undoubtedly natural and 'human'... to have favourites. To play favourites, though, is unprofessional!\", with examples — the favourite who \"gets to use camp vehicles when others cannot or is allowed to come back to camp later from time off without recourse\" — and the observation that a director \"needs a confidante, a friend, someone to 'blow off steam' with or have a drink with.\"",
+      "category": "staff",
+      "entities": [
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1983-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4353",
+      "issue": 146,
+      "claim": "A CIT Manual published by the Canadian Camping Association was available from 1 May 1983 — the manual begun by Jean Funk's Leadership Training Committee in 1978 and redrafted, now in print. The Congress Photo Competition results were printed, including Sharon Hodgins of Camp Wanapitei, David Latimer of Camp Mazinaw and David Godwin of John Bosco Camp, so a set of prize-winning Canadian camp photographs from 1983 existed and was held by the association.",
+      "category": "sources",
+      "entities": [
+        "Jean Funk",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983",
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
