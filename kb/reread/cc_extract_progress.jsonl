@@ -58,10 +58,10 @@
 {"n": 58, "title": "## 58 — Vol. 15 No. 3, April 1963 ★★★", "chars": 19421, "status": "extracted", "facts": 13}
 {"n": 59, "title": "## 59 — Vol. 15 No. 4, June 1963 ★★★", "chars": 21549, "status": "extracted", "facts": 13}
 {"n": 60, "title": "## 60 — Vol. 16 No. 1, December 1963 ★★★", "chars": 16431, "status": "extracted", "facts": 10}
-{"n": 61, "title": "## 61 — Vol. 16 No. 2, February 1964 ★★", "chars": 15280, "status": "pending", "facts": 0}
-{"n": 62, "title": "## 62 — Vol. 16 No. 3, April 1964 ★★★", "chars": 23541, "status": "pending", "facts": 0}
-{"n": 63, "title": "## 63", "chars": 11662, "status": "pending", "facts": 0}
-{"n": 64, "title": "## 64", "chars": 19753, "status": "pending", "facts": 0}
+{"n": 61, "title": "## 61 — Vol. 16 No. 2, February 1964 ★★", "chars": 15280, "status": "extracted", "facts": 11}
+{"n": 62, "title": "## 62 — Vol. 16 No. 3, April 1964 ★★★", "chars": 23541, "status": "extracted", "facts": 16}
+{"n": 63, "title": "## 63", "chars": 11662, "status": "extracted", "facts": 7}
+{"n": 64, "title": "## 64", "chars": 19753, "status": "extracted", "facts": 14}
 {"n": 65, "title": "## 65", "chars": 15655, "status": "pending", "facts": 0}
 {"n": 66, "title": "## 66", "chars": 21234, "status": "pending", "facts": 0}
 {"n": 67, "title": "## 67", "chars": 19573, "status": "pending", "facts": 0}

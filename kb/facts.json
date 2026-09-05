@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 3048,
+  "fact_count": 3096,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -53428,6 +53428,876 @@
         "Eanswythe Flynn"
       ],
       "claim": "Eanswythe Flynn's salute to the Red Cross on its centenary and third Nobel Peace Prize gives 1963 figures: the Canadian Red Cross gave waterfront instruction to 300,000 people that year, about 140,000 of whom qualified for Red Cross certificates \"in camps, in school and community swimming pools,\" plus over 22,000 new leaders and instructors and 1,400 re-qualified, for a reserve of over 5,000 qualified water safety instructors.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3087",
+      "issue": 61,
+      "category": "camping_movement",
+      "date_ref": "1964-02",
+      "entities": [
+        "Mary S. Edgar",
+        "Anne I. Vail",
+        "Canadian Camping Association",
+        "American Camping Association"
+      ],
+      "claim": "Mary S. Edgar, writing as \"Founder of Glen Bernard Camp\" in February 1964, records the Canadian Camping Association's separation from the American Camping Association: \"It was an historic gathering when the Canadian Camping Association, no longer a section of the American Camping Association, held its first conference in Ottawa in May of 1947 ... in the conference room of the Chateau Laurier.\" Anne Vail of Montreal was elected CCA Secretary there under President Dais Gass, and CCA President in the autumn of 1949. This is the separation from the ACA, a different event from the founding date of 1936 the wiki uses, and should be recorded as such.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3088",
+      "issue": 61,
+      "category": "media",
+      "date_ref": "1964-02",
+      "entities": [
+        "Anne I. Vail",
+        "Mary S. Edgar",
+        "Camp Ahmek"
+      ],
+      "claim": "Within months of the 1947 Ottawa conference Anne Vail toured the newly formed western associations -- Vancouver, Calgary, Edmonton, Saskatoon, Winnipeg -- with Mary Edgar, and \"answered questions, interpreted C.C.A. and showed the film 'Canadians are Campers', a record in technicolor of our first National Camp held at Camp Ahmek.\" A named Canadian camping film in colour, made about 1947, of the first National Camp.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3089",
+      "issue": 61,
+      "category": "people",
+      "date_ref": "1964-02",
+      "entities": [
+        "Anne I. Vail",
+        "Camp Chapleau",
+        "Iverley Community Centre",
+        "McGill University"
+      ],
+      "claim": "Mary Edgar's February 1964 biography of Anne Vail: born in New Brunswick; St. Stephen's High School; Normal School of Fredericton; taught two years; a diploma course in Religious Education in Toronto; graduated from the McGill School of Social Work; then executive-secretary of the Iverley Community Centre, a large Montreal settlement house, which carried with it the directorship of Camp Chapleau in the Laurentians, \"one of the largest agency camps in Canada,\" where \"every summer hundreds of mothers and children went in ever-changing groups.\" In 1948 she was invited to Britain by the National Council of Social Service for an informal survey of youth work and recreation -- eight months in England, Scotland, Wales, France and Holland -- and represented Canada at the Conference of the International Federation of Settlements in Paris. She retired in 1960, returned to her native New Brunswick village, took a teaching post, became chairman of the school board and president of St Stephen's Presbyterial of the United Church, and in 1962 went to Camp Wilbaken on Lake Memphremagog as director of counsellor education.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3090",
+      "issue": 61,
+      "category": "traditions",
+      "date_ref": "1964-02",
+      "entities": [
+        "W. E. (Ted) Yard",
+        "Camp Pine Crest",
+        "Ernest Thompson Seton"
+      ],
+      "claim": "W. E. Yard's \"The Pinecrest Woodcraft Programme,\" February 1964, is the most complete description of a camp award system in this run. It grew out of a question asked in the camp's Fall Programme Evaluation sessions \"year after year\" -- \"Do we really lead our campers to a thorough and genuine appreciation for the out-of-doors?\" -- and out of working meetings running from October 1961 through spring 1963. The syllabus: building shelters; axe and knife; knot tying; safety in the woods; conservation; canoeing and portaging; tent pitching; weather; identification of birds, mammals, insects and reptiles; campfire programming; building, extinguishing and fighting fires; map and compass; splicing and lashing; wilderness first aid; survival swimming; hiking, trail blazing and marking; camp cooking; stars and constellations; trees and wildflowers. Three levels, with a card the camper carries and instructors initial: OUTDOORSMAN, awarded a blue woodsman's scarf \"cut and sewn by enthusiastic staff wives\"; WOODSMAN, awarded a Mora knife, \"a small Swedish steel sheath knife with a wooden handle on which a distinctive emblem was cut and burned\"; and SOURDOUGH, of which \"Few people, even among staff achieved this level,\" awarded a hand-crafted sheath cover for the knife.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3091",
+      "issue": 61,
+      "category": "traditions",
+      "date_ref": "1964-02",
+      "entities": [
+        "W. E. (Ted) Yard",
+        "Camp Pine Crest",
+        "Sass Peepre"
+      ],
+      "claim": "Yard credits three things for the Pine Crest woodcraft programme's success: a highly skilled leader with personal enthusiasm -- \"Sass\" Peepre, the Estonian-Canadian figure in Canadian wilderness canoeing; a long preparation \"involving many people who would have a share in implementing the eventual recommendations\"; and a refusal of \"the superficial and irrelevant.\" Staff took the woodcraft skills during a six-day pre-camp orientation course, and \"by the end of this course, many of the staff were wearing the knife.\" An old building was moved into the woods, campers helped clear and level it, it was \"decorated with a pair of moose horns and dedicated as 'Moose Lodge',\" and at the dedication \"every cabin group brought something in the line of a nature lore discovery, or a project related to the advancement of the woodcraft idea.\" He closes by acknowledging the writings of Ernest Thompson Seton, of whom the camp has built \"a considerable library.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3092",
+      "issue": 61,
+      "category": "methodology",
+      "date_ref": "1964-02",
+      "entities": [
+        "J. Harry Ebbs",
+        "Camp Wapomeo"
+      ],
+      "claim": "A second camp research study on named children: J. H. Ebbs, M.D., and assistants, \"A Tripping Fitness Programme,\" at Camp Wapomeo in the summer of 1962. Sixty-seven senior girls aged 14 to 16 were tested on arrival for \"organic endurance, and strength of hand, arm, shoulder and leg,\" then assigned by cabin into control and experimental groups. The experimental group did five exercises for about ten minutes after breakfast plus ten minutes a day on a mock portage built in camp -- uphill and downhill grades, flat ground, stepping stones, a low beam to stoop under, a fallen tree to walk along -- where they were taught to flip packs and use a tumpline, \"the aim being to increase the number of circuits completed in the time limit ... every girl competed with herself.\" Both groups then took five- or six-day trips and were retested. Conclusions: canoe tripping itself produced marked fitness gains in both groups, but the conditioning gave no measurable advantage, the week being too short, though the experimental group \"did not suffer from muscle stiffness on the first day.\" The authors judged the formal calisthenics \"too formal for the camp situation.\" Camper reaction is recorded too: \"there was much good natured kidding about being a weakling or a 'Miss Atlas'.\" A third instance in this read of measurement being done on identifiable camp children, after Hendry's 1949 sociometric study and Dimock's 1960-61 Kanawana work -- the practice was routine.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3093",
+      "issue": 61,
+      "category": "programs",
+      "date_ref": "1964-02",
+      "entities": [
+        "P. M. Taschereau",
+        "Woodland Boys' Camp"
+      ],
+      "claim": "P. M. Taschereau, Naturalist at Woodland Boys' Camp, Quebec and the Nova Scotia Museum of Science, gives the fullest nature-programme method in this run, from the Nova Scotia CA's 1963 directors' seminar: a small library and a space for specimens as the first step; a camp museum with a curator; a nature bulletin board near the dining hall with \"pictures of poison ivy, or the plant itself behind a plastic sheet\"; the naturalist outlining the camp boundaries, waterfront, history and expected wildlife on the first day; extra inspection points for cabins that landscape with transplanted wild material; a bracket-fungus hunt with an art competition. On answering questions: \"'What is it?' ... will become familiar ... as will the reply 'I don't know' to which should be added 'Let's see if we can find out'.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3094",
+      "issue": 61,
+      "category": "programs",
+      "date_ref": "1964-02",
+      "entities": [
+        "P. M. Taschereau"
+      ],
+      "claim": "Taschereau's February 1964 observations on children in a camp nature programme, including the uncomfortable ones: boys of 9 to 13 \"enthusiastic about all aspects of nature\"; older campers taking to service projects, live-trapping small mammals for release, \"living off the land and working for nature badges,\" and to questions \"of a deeper philosophic nature dealing with the infinity of space ('What is behind the stars?'), God, evolution, the Bible\"; \"Some boys appear to enjoy killing living things (notably snakes, frogs, even squirrels). Many others will take an active part in defending living creatures from harm, some objecting to the idea of killing an insect for a collection\" -- the naturalist's job being \"to instil the right spirit of reverence for life, with a distaste for purposeless killing and yet a balanced attitude\"; and girls interested in wildflowers, rocks and minerals, nature art, \"and -- when properly introduced -- in small salamanders, turtles and even snakes and mice.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3095",
+      "issue": 61,
+      "category": "programs",
+      "date_ref": "1964-02",
+      "entities": [
+        "C. R. Blackstock"
+      ],
+      "claim": "C. R. Blackstock's full axe-teaching method, February 1964 -- grip, stance, pick-up, swing, bite, wrist snap -- with the recommended camp tool \"the 27\\\" handle with a head of a pound-and-a-quarter to a pound-and-a-half ... ideal for teaching campers of eight years of age and up,\" a preference for teaching the two-handed axe before the hatchet (\"He learns to respect both the better\"), and the splitting rule \"There should always be wood between the axe head and the axeman.\" The editor appends a conservation caution about practising only on dead, fallen or properly condemned wood.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3096",
+      "issue": 61,
+      "category": "staff",
+      "date_ref": "1964-02",
+      "entities": [
+        "Barry Lowes",
+        "Camp Timberlane"
+      ],
+      "claim": "Barry Lowes, \"Making Campcraft Palatable,\" February 1964, writes against the tradition that \"on a trip campers eat anything. A camper who made a face at burned oatmeal, the ashes, dirt, grass or flies in his stew was a 'softy'.\" Timberlane made every pre-camp lunch a two-hour cook-out, bought a dozen reflector ovens, and had every staff member bake; counsellors were put in cooking groups of eight and reshuffled daily \"so that everyone had a chance to cook with everyone else\" -- which turned out to integrate new and old staff faster than anything they had tried.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3097",
+      "issue": 61,
+      "category": "traditions",
+      "date_ref": "1964-02",
+      "entities": [
+        "Mary Paton",
+        "Camp Onawaw"
+      ],
+      "claim": "Mary Paton of Camp Onawaw on worship with eight- and nine-year-olds, February 1964: a deliberately unhurried, dawdling walk to the lake's edge because \"an essential ingredient of worship is the ability to wonder\"; ten minutes; a shared litany of thank-yous (\"One day, though, I was startled to hear, 'Thank you, God, for Klondike Day'\"); beavers, dragonflies emerging, two baby raccoons; and \"Camp staff has to be trained to appreciate the importance of wondering. Sometimes scheduled activities must be postponed.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3098",
+      "issue": 62,
+      "category": "methodology",
+      "date_ref": "1964-04",
+      "entities": [
+        "Hedley Gardner Dimock",
+        "Sir George Williams University",
+        "Kamp Kanawana"
+      ],
+      "claim": "Hedley G. Dimock published the findings of his counsellor research in April 1964, bylined \"Centre for Human Relations and Community Studies, Sir George Williams University, Montreal,\" from his five lectures at the 7th Annual Camp Directors' Seminar of the Alberta Camping Association, 5-8 February 1964: \"In the past few years my colleagues and I have done considerable research in identifying characteristics of successful camp and agency leaders (to improve selection), using these characteristics as the focus of training programmes, and then measuring change toward these characteristics. Out of some fifteen areas of attitude or behaviour we found four that correlated significantly with success on the job. These were group-centered leadership attitudes, non-authoritarian beliefs, flexible as opposed to rigid attitudes, and a friendly or accepting orientation to others. Counsellors who ranked high on these qualities tended to be identified most frequently by senior staff as the best counsellors. Training programmes in camp, in Sir George Williams University classes, and in training laboratories have been conducted focusing on these attitudes and behaviours as training goals. Most of these programmes have significantly modified or developed these characteristics in the desired direction.\" He does not name Kanawana -- this is his summary of a research programme of which the Kanawana work of 1960-61 was part, not a report on Kanawana specifically.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3099",
+      "issue": 62,
+      "category": "methodology",
+      "date_ref": "1964-04",
+      "entities": [
+        "Hedley Gardner Dimock",
+        "Kamp Kanawana"
+      ],
+      "confidence": "inferred",
+      "claim": "Dimock's April 1964 summary makes the method of his counsellor research legible: fifteen measured attitude and behaviour dimensions per counsellor, correlated against senior staff's identification of \"the best counsellors\" -- that is, against ranked judgements of named young people by their supervisors. That is the third distinct research instrument this read has documented, after Hendry's 1949 peer sociometry and Ebbs's 1962 fitness testing, and it is the one that ran at Kanawana. Anyone who later opens the Kanawana counsellor files now knows what the numbers in them are likely to be.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3100",
+      "issue": 62,
+      "category": "staff",
+      "date_ref": "1964-04",
+      "entities": [
+        "Hedley Gardner Dimock"
+      ],
+      "claim": "Dimock's April 1964 leadership theory, the framework the Kanawana counsellors were measured against: against trait theory, \"The 'leaders are born' theory of leadership has been abandoned because of lack of scientific support\" -- leadership is \"a function of the situation as it interacts with the personalities of the members, and their needs or tasks,\" so hiring \"campus or athletic leaders ... with the expectation that they would be successful staff\" is unsound, since \"The campus athlete may be scared of the woods or find it hard to be patient with rowdy ten-year-olds.\" Leadership is defined as \"doing something that helps solve a problem or accomplish an objective,\" split into task and group-building functions: \"Any member who helps the group achieve its goals, or influences the behaviour of the group, is a 'leader'.\" He reports Fiedler's finding that leaders of effective groups keep \"a certain social distance\"; that \"Sociometric methods for determining acceptance have been rather accurate in predicting degree of leadership\"; and Stogdill's 1957 four factors, with consideration accounting for fifty per cent of the leadership dimensions.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3101",
+      "issue": 62,
+      "category": "staff",
+      "date_ref": "1964-04",
+      "entities": [
+        "Hedley Gardner Dimock",
+        "A. Ross Seaman",
+        "Kamp Kanawana"
+      ],
+      "claim": "Dimock's ten criteria for choosing camp counsellors, April 1964: normal or above intelligence; emotional and social maturity; ability to observe and discriminate among people; competence in personal relationships; empathy; open communication; ability to share leadership with campers; ability to help campers make their own decisions and plan their own programme; ability to use systematic group work methods and benefit from supervision in them; and -- \"I have left it 'till last\" -- \"compatible with camp life and technically competent in camping skills.\" On style he reports that group-centred counsellors produce campers who are \"more self-reliant and responsible, showing initiative and creativity in new situations,\" with the warning that \"Group-centered leadership cannot flourish in a dominating climate established by the senior staff.\" Set against A. Ross Seaman's description of Kanawana as a \"participatory democracy\" in the 1966-67 YMCA annual report, this is the theory Seaman's camp was running on, published by the researcher who had been measuring its counsellors five years earlier.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3102",
+      "issue": 62,
+      "category": "canoe_trips",
+      "date_ref": "1964-04",
+      "entities": [
+        "Canadian Camping Association",
+        "Kamp Kanawana"
+      ],
+      "claim": "The original Centenary Journey proposal was printed in April 1964, headed in both languages (\"Retrospectives sur la Centenaire -- Voyageurs de Passe\"). The chronology: the Canadian Citizens' Centenary Committee asked the CCA to form a committee; it reported to the 1963 annual meeting and was told to keep studying; and this proposal \"was enthusiastically endorsed\" at the 1964 annual meeting, with provincial associations then forming their own committees. The wiki's centennial-1967.md dates the organisers' side from John Latimer's June 1966 prospectus; this is the founding document, two years earlier. Three elements: mapping the historic fur-trade routes \"in their entirety in every province\"; a co-ordinated relay in which \"organized groups of Association members would paddle and portage along these routes, each group within its own province\"; and a publicity campaign.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3103",
+      "issue": 62,
+      "category": "canoe_trips",
+      "date_ref": "1964-04",
+      "entities": [
+        "Canadian Camping Association",
+        "Eric Morse",
+        "Kamp Kanawana"
+      ],
+      "claim": "The 1964 Centenary Journey proposal specifies the route: \"From the St. Lawrence the route would be the historic one used by Indians, voyageurs and traders alike: beginning at Lachine, ascending the Ottawa and Mattawa rivers, crossing Lake Nipissing, descending the French River, traversing the northern waters of Lakes Huron and Superior\" to Grand Portage and the International Boundary -- exactly the Ottawa River leg Kanawana's six boys and two counsellors would paddle in 1967, specified here in 1964. Eric Morse's \"The Routes of the Voyageurs\" in Canadian Geographic Magazine is named as the reference work. Also specified: no outboard engines, \"particularly on large open stretches of water (e.g. Lake Superior)\"; a distinctive national symbol \"on each route marker; on all pamphlets, newsletters or other publications; perhaps available as crests and lapel pins\"; a possible National Film Board documentary, with every route team \"equipped to bring back both still and motion pictures\"; and a master route log compiled during the centenary year and afterwards issued to campers as a \"kit.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3104",
+      "issue": 62,
+      "category": "context",
+      "date_ref": "1964-04",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "claim": "The rationale paragraph of the 1964 Centenary Journey proposal is of its moment: the project would show \"that Canada is a nation built of many parts, each one of which has made its own significant contribution to our common weal -- beginning with the Indian and Eskimo and leading to the New Canadian of to-day,\" and \"Wherever there are Indian settlements, Indians should be encouraged to participate, especially younger Indians and those who may spend a great part of their lives in cities because of their training and occupations.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3105",
+      "issue": 62,
+      "category": "methodology",
+      "date_ref": "1964-04",
+      "entities": [
+        "W. Jack Eastaugh",
+        "Camp Ahmek"
+      ],
+      "claim": "W. J. Eastaugh, Assistant Director of Camp Ahmek, describes the practice that generated camp staff records, April 1964: \"Before the supervisor can engage the cabin leader or activity instructor in a meaningful discussion of his work, he should plan to make a 'supervisory observation'. A good beginning is the staff application file and then camper records. Try to see a wide range of activity. Note such factors as the physical setting ... Try to observe inter-personal relationships -- the way group members get along or relate one to the other and what the counsellor does about it. Note his techniques of leadership ... and when you are satisfied you have really seen this person at work, talk with him about his feelings and your observations.\" He lists eight values of the practice, including that the supervisor \"sees conditions as they really are -- not as reported\" and that \"the 'stuff' of observations assists in evaluating the effectiveness of the camp\" -- and, immediately, the caution: \"Great care must be taken to avoid embarrassment to staff by pinpointing weaknesses in such sessions.\" Of five reasons for scheduling supervisory conferences with every staff member at least twice a summer, the fifth is \"Provide an opportunity for commendation. (A time for reprimand is usually always found -- not so for commendation.)\" A fourth contemporary voice on the ethics of these records, and the one that says most plainly what went into them.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3106",
+      "issue": 62,
+      "category": "staff",
+      "date_ref": "1964-04",
+      "entities": [
+        "W. Jack Eastaugh",
+        "Camp Ahmek"
+      ],
+      "claim": "Eastaugh's April 1964 portrait of camp employment. On pay and openness: \"Might it not serve as a means of establishing a basis for frankness if the camp books were to be opened for inspection? ... Most private camp owners might be pleasantly surprised at the added rapport that would develop when his staff realized that their estimate of profit (for they do calculate) was far in excess of reality.\" And: \"The camp director who believes he can prevent his staff from discussing salaries is unrealistic.\" On promoting campers to staff: \"To deny this opportunity, or to neglect to encourage young campers to aspire to staff status, is tantamount to condemning the quality of the camp programme.\" On contracts: \"Vague promises and 'understandings' have a way of losing any original meaning as the summer develops ... Any attempt to avoid income tax by 'special arrangements' places the camp and the staff at a disadvantage.\" On fatigue, the standard he reports is \"at least one-half to one day a week free from responsibility and at least two hours every day free from camp duties. This should hold true for the director too.\" And a title change worth dating: \"The use of the term Director of Programme is becoming obsolete in many camps, and in its place is a much more functional title, Programme Co-ordinator.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3107",
+      "issue": 62,
+      "category": "staff",
+      "date_ref": "1964-04",
+      "entities": [
+        "W. Jack Eastaugh"
+      ],
+      "claim": "Eastaugh on liquor, smoking and cars, April 1964: no compromise on liquor in camp, but \"To forbid its use when staff are away from camp on a day off ... conflicts with our concept of personal freedom\" -- the enforceable rule being no return to camp under the influence, \"since their co-operation might be required in an emergency,\" with dismissal if proved. On smoking, \"with our enlightened knowledge about the harmful effects,\" a camp might help addicts quit; \"What to do about staff smoking on canoe trips is a real problem.\" On cars: \"The legal driving age of sixteen is considered too low by many camps.\" His closing: \"It is generally accepted that no one ever really owns a cat. The same is true of a camp ... As long as our camp directors understand they are proprietors of a trust rather than owners of camps, Canadian parents will continue to entrust their children to their care.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3108",
+      "issue": 62,
+      "category": "staff",
+      "date_ref": "1964-04",
+      "entities": [
+        "Elsie Palter",
+        "Camp Kawagama"
+      ],
+      "claim": "Elsie K. Palter of Camp Kawagama -- the \"Mrs David Palter\" of the CCA's history-of-camping returns -- published \"Counsellors Can Help Their Campers\" in April 1964, from her OCA conference presentation on \"Behaviour Problems at Camp\" of March 1963. She works from A. H. Maslow's hierarchy, printed in full and explicitly credited, probably the earliest appearance of Maslow in Canadian camping literature: \"A child who is hungry, insecure, or unloved, whose confidence has been undermined by failures, or who feels disapproved would not be expected to reach this fifth level.\" On what children bring: \"In addition to these possessions, our campers bring with them other things which are not so obvious ... Some come laden down with parental expectations -- they have been told they must learn to swim, to play the games ... These burdens can make them anxious and worried if they do not succeed. These are burdens for us too.\" Her limits are explicit: \"Problem campers need professional help and it is unwise for a counsellor to attempt to be an amateur psychologist\"; \"One cannot diagnose the cause of a behaviour problem or a personality problem from the symptom alone\"; \"the same misbehaviour does not always have the same cause.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3109",
+      "issue": 62,
+      "category": "staff",
+      "date_ref": "1964-04",
+      "entities": [
+        "Elsie Palter",
+        "Camp Kawagama"
+      ],
+      "claim": "Elsie Palter's ten discipline rules, April 1964, include \"Punishment should not be humiliating. Once administered it should be forgotten,\" \"Don't 'horse trade',\" \"Don't threaten to withdraw affection. This is as cruel as it is dangerous,\" and \"Set behaviour goals at a level the child can reach.\" Her closing test of a counsellor: \"A real love of working with children, not just with the pretty, appealing little girl or the all-round athlete, but with the clumsy, poorly co-ordinated child and the slow child.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3110",
+      "issue": 62,
+      "category": "operations",
+      "date_ref": "1964-04",
+      "entities": [
+        "Joy M. Ballard",
+        "Camp Brigadoon"
+      ],
+      "claim": "Joy M. Ballard, B.A.-M.D., of Camp Brigadoon gives the clearest statement of camp medical practice in this run, April 1964: counsellors trained to watch for \"fatigue, rashes, pallor, loss of appetite, coughs, sneezes and sniffles, lassitude, irritability, depression, drowsiness or insomnia\"; a complete health history including allergies, immunisations and \"emotional problems or difficulties in adjustments\"; all medicines from campers' trunks surrendered to the infirmary and locked up, counsellors forbidden to dispense anything, treat cuts or blisters, or remove slivers -- \"Even the common aspirin can be fatal in large enough doses\"; a first aid kit on top of one named pack on every out-trip, returned to the infirmary at once; \"Thongs are forbidden for camp use at any time\"; campers to sleep in socks and a sweater over pyjamas in cold or damp; and a portable roll-up stretcher kept at the waterfront with a drill. On staff: a pre-camp medical and dental check-up with immunisation, and a full personal kit, since \"many of these items are borrowed without permission from the campers.\" And on example: the rules \"apply to every person who is in camp, whether maintenance staff, camp members or visiting relatives and friends; and this includes the Director.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3111",
+      "issue": 62,
+      "category": "traditions",
+      "date_ref": "1964-04",
+      "entities": [
+        "Margaret Govan",
+        "YMCA of Canada"
+      ],
+      "claim": "Margaret Govan's \"On Leading Worship,\" April 1964: \"Now-a-days everybody must be trained, with certificates and badges to prove that they are capable of being counsellors or instructors or secretaries or cooks. But what about leadership in worship? O, anybody can do that! Choose a prayer: there are lots of books. Read a pretty poem. Tell a story with a moral. And we dare call that worship!\" Her remedy is to employ a properly trained person with other duties as well (\"It would be very sad if campers were to think that religion is separated from other life experiences\") -- and, on where to find one, \"What about church camp staff? And in order to be ethical, let's trade. Most of them would be more than grateful for waterfront men!\" The accompanying \"How to Plan Devotions\" is adapted from the National Council of YMCAs of Canada \"Hi-Y Devotions Booklet\" (Toronto, 1960) -- a YMCA source, and therefore one Kanawana would plausibly have used.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3112",
+      "issue": 62,
+      "category": "traditions",
+      "date_ref": "1964-04",
+      "entities": [
+        "Margaret Govan"
+      ],
+      "claim": "A complete worship-service plan grid printed in April 1964 -- occasion, objectives, theme, duration, feature, and five atmosphere rows (seating, worship centre, music, lighting, other) against equipment, then a minute-by-minute programme. Its content: the opening service of a season, theme Dedication, thirty minutes, seated informally in a grove, worship centre \"a clump of small trees,\" music \"Bless This Camp,\" staff representatives in white blouses, T-shirts and shorts seated facing the assembly; then the poem \"When As Trees\" read by the chaplain, the song \"Kum ba yah\" led by the music counsellor, the reading \"My Life Shall Touch\" by a previous-season camper, a fifteen-minute chat by the director on interdependence, the St Francis prayer, and a recessional Camp Hymn led by the chaplain. A second dated Canadian \"Kum ba yah\" after the 1961 Camp Belwood instance, and this one printed in a Canadian order of service.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3113",
+      "issue": 62,
+      "category": "context",
+      "date_ref": "1964-04",
+      "entities": [
+        "Lorne Bowering",
+        "British Columbia Camping Association"
+      ],
+      "claim": "Lorne Bowering's Vice-President's Page on British Columbia, April 1964: \"While one hundred camps are licensed each year by the Provincial Government, only forty-two of these are listed in the most recent Camp Directory\" -- six privately owned, twenty-two church-related, the rest with national youth organisations or local institutions; fees of five, ten, twenty and twenty-five dollars a week; minimum standards expected before the next season; and the frank admission that \"attendance is still considered a luxury, one which is readily sacrificed when economic conditions fluctuate.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3114",
+      "issue": 63,
+      "category": "canoe_trips",
+      "date_ref": "1964-06",
+      "entities": [
+        "Kirk Wipper",
+        "Canadian Camping Association",
+        "Kamp Kanawana"
+      ],
+      "claim": "Kirk Wipper's \"Canoe Safety Practices and Procedures,\" June 1964, is the direct sequel to the Department of Transport life-jacket fight. Wipper states it is \"the result of a summary derived from the submissions of a number of Canadian camps ... requested in reference to the Department of Transport legislation proposals\" -- the camps, asked to justify their exemption, answered by writing down the standard they said they already kept. The result is a national minimum standard for camp canoeing in 1964, and the standard Kanawana's canoe-trip programme would have been running under. Swimming prerequisites are graded against paddling privilege, with 20 yards, 100 yards and 200 yards buying successively wider water. General procedures: permission required before any canoe leaves; staff on duty; a prescribed observable area; a checking system using numbered canoes and camper identification tags; no canoeing at night or in storms; load limits; the canoe taught as a rescue device; patrols; and \"Rubber boots or large leather boots cannot be permitted.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3115",
+      "issue": 63,
+      "category": "canoe_trips",
+      "date_ref": "1964-06",
+      "entities": [
+        "Kirk Wipper",
+        "Kamp Kanawana"
+      ],
+      "claim": "The 1964 national canoe-trip prerequisites as summarised by Wipper: swim 200 yards free style; swim 50 yards clothed and shod, then remove clothes and shoes in deep water; upset a canoe, hang on to it, and demonstrate its use as a rescue device; perform a canoe-over-canoe rescue with assistance; and drownproof or tread water for five minutes. Trip rules: the trip leader must maintain contact between canoes with an enforced means of communication; laced shoes to be untied while in the canoe; every trip to carry a spare paddle and a painter long enough to serve for rescue; and \"Campers or staff who stern canoes ought to have the Bronze Medallion or equivalent.\" On age: \"Up to the age of about fourteen, campers should generally serve as bowmen or middlemen rather than sternsmen.\" The Bronze Medallion line dates this project's record of three Kanawana CITs taking Bronze Medallions in 1978 as a fourteen-year-old national expectation for anyone sterning, not a local enthusiasm.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3116",
+      "issue": 63,
+      "category": "naming",
+      "date_ref": "1964-06",
+      "entities": [
+        "E. F. Johnston",
+        "Camp Chief Hector"
+      ],
+      "claim": "E. F. Johnston of Camp Chief Hector, Alberta, describes an \"Indian Day\" in June 1964 that is materially different from the costume-and-ceremony Indian lore documented in six other issues of this run. Chief Hector invites \"our camp neighbours -- four to six hundred Stoney Indians\" to a special events day: eight to ten events (archery, volley ball, tug-of-war, horse shoes, foot races), with \"the Indian children assigned to groups with our campers\" and the adults taking part in the mammoth tug-of-war and archery; camp kitchen supper of barbecued hot dogs, cake and punch; and then \"our guests put on a display of their culture through Indian dances, songs and stories.\" Johnston frames it as \"a very effective programme in human understanding\" and \"a wonderful public relations venture.\" This is the one instance in this run where the Indigenous people are present as themselves rather than represented by white campers in costume.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3117",
+      "issue": 63,
+      "category": "traditions",
+      "date_ref": "1964-06",
+      "entities": [
+        "P. M. Taschereau",
+        "Woodland Boys' Camp",
+        "Kamp Kanawana"
+      ],
+      "claim": "P. M. Taschereau's \"Hey-Ho! Up the Creek We Go\" describes the Mudpuppy Society, a Quebec camp's homemade honour society and a close structural cousin to Kanawana's Order of Owens: secret invitation, an ordeal that is really a nature walk, a badge given out at the last council fire, and a speech that reframes the badge as a token of an inner one. Entry is by nature hike; groups of two to six boys wade a muddy creek barefoot under four rules (never leave the water for the bank; stay close with a leader front and back; general quiet; leaders point things out on the way up, campers point them out on the way back). Marks are deducted for guessing, results withheld until the last council fire, and fewer than a third of campers are invited to try -- sworn to secrecy. The badge is cardboard cut to the shape of Necturus maculosus and spattered with creek mud; the leader's speech: \"Unlike other badges, which are worn on the outside to tell of the wearer's skills or accomplishments, the Mudpuppy Badge won't stand up to much wear. It only represents the real badge inside.\" Taschereau admits at the end that no camper has ever failed.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3118",
+      "issue": 63,
+      "category": "context",
+      "date_ref": "1964-06",
+      "entities": [
+        "Howard G. Gibbs"
+      ],
+      "claim": "Howard G. Gibbs of the Boys' Clubs of America, \"Camping Imperatives for the Future,\" from the 1964 OCA convention, criticises pushing children into early adulthood (\"we are forcing grown-up ways on childhood days\"), \"parenthood as a competitive sport,\" and permissiveness misread as licence \"to do nothing.\" He treats at length Margaret Lear's The Child Worshippers and its camp chapter \"Snakebite Is Not The Problem,\" which calls camps \"a summer resting place for over-privileged children\" whose \"so-called real camping consist[s] of a safari by station wagon to a barbecue pit presided over by the camp chef.\" A useful external attack on the private-camp model in the same years Kanawana was arguing its own case as a YMCA camp.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3119",
+      "issue": 63,
+      "category": "operations",
+      "date_ref": "1964-06",
+      "entities": [
+        "W. Donald Smith",
+        "Canadian Camping Association"
+      ],
+      "claim": "W. D. Smith's \"Camp Safety,\" June 1964: drinking water boiled thirty minutes or two halazone tablets per quart; waterfront staff \"at least eighteen years of age\" and certified by the Red Cross, YMCA or RLSS, with a 1:10 lifeguard-to-non-swimmer ratio; three poisonous plants named (water hemlock, death cup mushroom, baneberry); rattlesnake procedure; orienteering by map and compass as \"a valuable adjunct to the camp programme and an aid to the camper who may become lost\"; during electrical storms \"STAY OFF THE WATER AND OUT OF BOATS. NO SWIMMING SHOULD BE ALLOWED\"; and safe campsite selection away from large trees. With Wipper's canoe standard in the same issue, this is effectively the CCA's 1964 safety code in two halves, water and land.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3120",
+      "issue": 63,
+      "category": "canoe_trips",
+      "date_ref": "1964-06",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "claim": "An unattributed standalone page in June 1964, \"Bibliography of Original Journals of Early Travellers on the Voyageurs' Highway,\" lists Alexander Mackenzie (1789/1793), Alexander Henry (1760-1776), Pere G. A. Belcourt (Mon Itineraire du Lac des Deux Montagnes a la Riviere Rouge, 1831), Elliott Coues ed., Dr. J. J. Bigsby (The Shoe and the Canoe, 1850), Paul Fountain (1904), George M. Grant (Ocean to Ocean, 1873), Paul Kane (1858), Daniel Harmon (1800), W. H. Keating (1824) and H. Y. Hind (1857); secondary works by Arthur S. Morton, Harold Innis and Marjorie Wilkins Campbell; and Canoe Routes of the Voyageurs from the Quetico Foundation. The reading list a 1964 camp tripping director was pointed at, and the same literature the CCA's Centenary Journey was built on.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3121",
+      "issue": 64,
+      "category": "founding",
+      "date_ref": "1964-12",
+      "entities": [
+        "Charles F. Plewman",
+        "Ottawa YMCA"
+      ],
+      "confidence": "disputed",
+      "claim": "C. F. Plewman, \"Formerly YMCA camp director, Founder of Camp Kilcoo,\" who directed for the Ottawa YMCA himself, writes in December 1964: \"When the Ottawa YMCA in 1893, and Camp Temagami in 1900, began taking older boys to camp, they were really breaking new ground.\" This is a participant's account rather than a compiler's, and it corroborates the 1893 date against the 1884 Ottawa claim printed in February 1955 and alongside the Ottawa YWCA minute of 1893. The 1884 claim now stands against three independent 1893 sightings, one from a man who ran the camp. Two documented sources still conflict, so this remains a human decision point, but the weight has shifted.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3122",
+      "issue": 64,
+      "category": "biography",
+      "date_ref": "1964-12",
+      "entities": [
+        "Charles F. Plewman",
+        "Wallace Forgie",
+        "Camp Couchiching"
+      ],
+      "claim": "Plewman's first-person datable statements, December 1964: 1903, his own first camp, \"at the YMCA camp on Lake Couchiching,\" of which he still keeps \"a picture of myself taken by Wallie Forgie\" -- the same Wallace Forgie who moved the Ottawa camp to Golden Lake, placing him at a YMCA camp with a camera five years earlier. 1913, Plewman directs \"my first organized camp for the Ottawa YMCA at Golden Lake, near Pembroke\": \"It was strictly a he-man affair for teen-aged boys with 'nary a skirt' of any kind in sight, not even in the kitchen.\" He was \"camp director, doctor, nurse, business manager and programme director all rolled up in one\"; nearest doctor twelve miles away, no car, no telephone; average camper age fourteen and a half; a day's programme of walking seven miles round Golden Lake, playing hardball against Killaloe, and walking ten miles back, 9 a.m. to 10.30 p.m.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3123",
+      "issue": 64,
+      "category": "context",
+      "date_ref": "1964-12",
+      "entities": [
+        "Charles F. Plewman"
+      ],
+      "claim": "Plewman on nineteenth-century resistance to camping, December 1964: \"camps were anything but popular during the latter part of the nineteenth century... had to combat the prevailing opinion that night air was bad. In those days people didn't open their windows on retiring, they closed them.\" Useful context for why Kanawana's own 1894 founding was unusual.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3124",
+      "issue": 64,
+      "category": "coeducation",
+      "date_ref": "1964-12",
+      "entities": [
+        "Charles F. Plewman",
+        "Taylor Statten",
+        "Camp Wapomeo"
+      ],
+      "claim": "Plewman on girls' camping and coeducation, December 1964: the first Canadian camps for girls he knows of ran 1922-25; the Girl Guides began camping in 1911; the Dominion Council YWCA held a camp at Geneva Park, Lake Couchiching, in 1910. \"It took almost twenty-five years for parents to come round to considering camping appropriate for girls.\" Statten opened Wapomeo in 1924 on the same lake as his boys' camp with inter-camp activities in mind, and a director tried to dissuade him -- \"Taylor, it's a mistake, it won't work.\" Plewman: \"It was the thin edge of the wedge in breaking down the segregation of the sexes and the developing of co-educational camps by 1933.\" A dated national benchmark against which Kanawana's own path to coeducation can be measured.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3125",
+      "issue": 64,
+      "category": "camping_movement",
+      "date_ref": "1964-12",
+      "entities": [
+        "Charles F. Plewman",
+        "Taylor Statten",
+        "Ontario Camping Association",
+        "Mary S. Edgar"
+      ],
+      "claim": "Plewman names the OCA's founding circle from inside it, December 1964: \"It was about 1930 to 1932 when Taylor Statten invited me to join a small group of private camp directors who met occasionally in each other's homes. This was the group which was to bring the Ontario Camping Association into being.\" They debated whether it should be private-camp-only or all-inclusive and chose all-inclusive -- the decision that made a YMCA camp like Kanawana eligible for the associations that followed. The group: A. L. Cochrane, Mr. and Mrs. Taylor Statten, Ernest Chapman, Mary Edgar, Mary Hamilton, Ferna Halliday, plus \"Mr. and Mrs. Danson (who were soon to found Camp Winnebagoe).\" Also: \"Camps had been operating in Ontario for about thirty years before the Ontario Camping Association... For some years previous to that time Canada was a section of the American Camping Association.\" And on what changed: \"In those days no license was required, there was no government inspection, and... no codified set of health and safety regulations. As for minimum standards of camping, they didn't exist.\" \"In the early days camps were more programme-centered, today they are far more child-centered,\" with the old-style director as a \"stunt artist.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3126",
+      "issue": 64,
+      "category": "context",
+      "date_ref": "1964-12",
+      "entities": [
+        "Dorene E. Jacobs",
+        "Ontario Human Rights Commission"
+      ],
+      "claim": "Dorene E. Jacobs, Education Officer of the Ontario Human Rights Commission, wrote \"Camps and the Ontario Human Rights Code\" at the magazine's commission in December 1964 -- the first anti-discrimination material in this run. The Code covers employment, public accommodation and multiple housing on grounds of race, creed, colour, nationality, ancestry or place of origin. Applied to camps, it binds camps operated for private profit that advertise to the public: they may not restrict admission on those grounds, nor ask about race, religion or nationality on camper application forms. On the common defence that a camp asks a camper's religion so it can point parents at nearby services, the Commission's answer is to list all services available instead. In hiring: no specification in advertising, no questions on forms or in interview.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3127",
+      "issue": 64,
+      "category": "context",
+      "date_ref": "1964-12",
+      "entities": [
+        "Dorene E. Jacobs",
+        "Ontario Human Rights Commission",
+        "Kamp Kanawana"
+      ],
+      "claim": "The Ontario Human Rights Code of 1964 exempted \"exclusively religious, philanthropic, educational, fraternal or social organizations that are not operated for private profit\" and non-profits \"operated primarily to foster the welfare of particular religious or ethnic groups,\" plus employers with fewer than five staff -- which is the category a YMCA camp such as Kanawana sits in. Jacobs presses those camps toward voluntary compliance, notes approvingly that \"many Jewish and Christian camps are already following a policy of hiring on the basis of ability,\" and asks camps to run human-rights education as part of programme, to instruct counsellors to stop using \"words such as 'nigger,' 'kike,' 'wop,' 'dago,' 'Jap',\" to report discrimination against their campers to the Commission, and to hang the Commission's framed bilingual scroll of the Code. She closes by noting that in other provinces anti-discrimination legislation generally sat with the provincial Department of Labour -- the pointer a Quebec camp would have followed, the Quebec Charter of Human Rights and Freedoms being a decade away.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3128",
+      "issue": 64,
+      "category": "traditions",
+      "date_ref": "1964-12",
+      "entities": [
+        "Hart Devenney",
+        "Bark Lake",
+        "Kamp Kanawana"
+      ],
+      "claim": "Hart M. Devenney, Director of the Ontario Camp Leadership Centre, gives the fullest CIT curriculum in this run, from the OCA Conference of March 1963. His history of the CIT idea: wartime and immediate-postwar staffing pressure forced a \"do-it-yourself plan\"; older campers could earn \"more than attractive remuneration\" in summer jobs, so the programme had to offer \"a continuity of experience, growth, status, responsibility and recognition... weighed against the fleeting attractiveness of commercial financial success\"; then \"bridging the gap from camper to counsellor\" became a separate, identifiable part of programme. Five planning areas: Selection, on criteria beyond \"age and longevity,\" drawn from the camper's record, readiness, leadership potential, \"known place of acceptance in his community,\" and intellectual capacity, with a warning that \"'In-breeding' can be dangerous\" and outsiders should be invited in; a pre-training novitiate; two summers, citing Eugene A. Turner, Jr.; outcomes framed \"in terms of acceptable minimums and not... completed expectations,\" covering swimming, diving, canoeing, sailing, crafts, campcraft, nature, first aid, life saving, story telling, song leading, dramatics, out-tripping, council fire leadership and camp games; and evaluation.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3129",
+      "issue": 64,
+      "category": "methodology",
+      "date_ref": "1964-12",
+      "entities": [
+        "Hart Devenney",
+        "Martin Gold",
+        "Barry Lowes"
+      ],
+      "claim": "Devenney's evaluation stage for CITs, December 1964, is a fifth contemporary voice on evaluation ethics and the first to separate two questions: the trainee is assessed on a form at regular intervals by a supervisor, keeps his own evaluative log, and is told his progress through periodic interviews; but the trainee's evaluation of the camp \"should be done anonymously; that is, the C.I.T. should not be required to sign the evaluation.\" Signing is required of the supervisor's record, per Martin Gold in 1959 and Barry Lowes in 1962; anonymity is granted to the trainee's upward feedback.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3130",
+      "issue": 64,
+      "category": "operations",
+      "date_ref": "1964-12",
+      "entities": [
+        "W. E. (Ted) Yard"
+      ],
+      "claim": "W. E. Yard's \"Your Camp Director's Calendar,\" December 1964, is a month-by-month checklist of the camp director's administrative year -- the closest thing in this run to a job description for the post Kanawana's directors held. January: folder mailing, home visits to campers, reunion dates, year-end reports. February: maintenance schedule, hiring, counsellor-training plans, insurance review, \"Attend your Camping Conference.\" March: \"Suggestions to Parents\" letter, fire equipment, menus with a dietician, job analyses for staff. April: spring equipment check and specific orders -- fuel, kitchen equipment, staples, expendables, programme and waterfront equipment, medical and first aid, \"Articles for resale -- uniforms, crests, etc.,\" mattresses. May: finalising staff, transportation, a doctor \"on call,\" and initial milk, bread, vegetable and meat deliveries. June: opening, \"Pre-camp staff conference -- not a 'work party',\" staff committees, the season's special-events calendar, detailed first-day plans, and arranging a photographer. September: staff list circulated, \"Send reports on campers to parents when request same,\" thank-you letters, inventories in eight categories, first draft of next year's orders, closing and battening, \"Write account of interesting project for Canadian Camping Magazine.\" October: father-son or mother-daughter weekend, repairs schedule, folder pictures, newsletter, fee adjustment, \"How about a holiday now?\" November: long-range plan, folder to printers. December: Christmas rallies, \"Camping Association activities -- do your part!\", senior staff meeting.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3131",
+      "issue": 64,
+      "category": "coeducation",
+      "date_ref": "1964-12",
+      "entities": [
+        "Joyce Bertram",
+        "Camp Ouareau"
+      ],
+      "claim": "Joyce Bertram's \"L'Amie de ma Tente,\" December 1964, is the only sustained treatment of bilingualism at a Quebec camp in this read. Camp Ouareau tried alternating language days -- \"mardi, jeudi et samedi nous parlerions francais,\" English Monday, Wednesday, Friday -- after most of the monitrices \"having fortunately learned their French en Suisse\" volunteered. A camp vocabulary had to be built from scratch because school French did not cover \"ant, as opposed to la tante, snake, spider, thunderstorm, sailboat and 'summer complaint',\" plus a counsellor committee's thirty idiomatic expressions \"sans lesquelles la vie est insupportable.\" The campers, \"qui vivent tout le temps en Quebec,\" were far ahead of the staff -- \"It is a humbling thing for a Director to have to admit that la plupart de ses campeurs can do something more mieux than she can.\" A rule \"pas de mains pour parler\" was needed at table. She notes campers reaching for dictionaries \"depending on whether elles demeurent a Outremont ou Westmount\" -- a Montreal class-and-language marker. A Laurentian girls' camp was consciously working the language question in 1964, in the same hills as Kanawana.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3132",
+      "issue": 64,
+      "category": "canoe_trips",
+      "date_ref": "1964-12",
+      "entities": [
+        "Margaret Govan",
+        "Canadian Camping Association"
+      ],
+      "claim": "An unsigned Centenary Journey progress report of December 1964 gives a third dated stage in the story, after the 1964 proposal and before the 1966 prospectus the wiki cites. Status: Nova Scotia has mapped a provincial canoe route with help from its Museum staff; Ontario has had nine camps participate in Phase One of its section plan; Saskatchewan, which has no association, has formed its own committee. Miss Margaret Govan chairs the Cross-Canada Centenary Journey Committee -- the name to pursue for the committee papers.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3133",
+      "issue": 64,
+      "category": "naming",
+      "date_ref": "1964-12",
+      "entities": [],
+      "claim": "\"An Indian Version of the Twenty-Third Psalm\" was printed as devotional material in December 1964 with an editor's note that it \"originated many years ago with Arizona Indians who translated it into a universal sign language... A white missionary then retranslated it into literal English -- Indian style.\" A further instance of the pattern this read has tracked: the \"Indian\" register in camp devotional and ceremonial practice is, on the magazine's own account of its provenance, a white retranslation. It appears one issue after E. F. Johnston's Indian Day, at which the Stoney people were present as themselves.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3134",
+      "issue": 64,
+      "category": "facilities",
+      "date_ref": "1964-12",
+      "entities": [
+        "David Palter",
+        "Camp Kawagama"
+      ],
+      "claim": "David Palter's \"Paint, Stain or Varnish?\", December 1964, is evidence of camp material practice: buy \"the cheapest quality made by a reputable paint manufacturer\" and order in 50-gallon commercial quantities to a special formula; canoes painted every year outside (\"a distinguishing colour, a trade mark of the camp\") with cheap enamel cut 50/50 with thinner to stop an \"alligator skin\" build-up, and varnished inside with spar varnish every second or third year; floors sealed with three or four coats and rescrubbed with soap and lye annually, a regime that \"has preserved a dining room floor for 18 years.\" A specimen spring paint order for about forty camp buildings is itemised: 50 gallons stain preservative, 25 floor sealer, 4 boat enamel, 2 spar varnish, 4 thinners, 3 porch enamel, 4 white enamel, 2 exterior enamel, and 6 to 8 assorted for crafts.",
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
