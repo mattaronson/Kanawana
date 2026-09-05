@@ -4348,6 +4348,39 @@
       "created": "2026-09-05",
       "source": "word-for-word read of Canadian Camping, issues 65-68, converted to KB facts",
       "blocked_on": null
+    },
+    {
+      "priority_id": "p_339",
+      "rank": 338,
+      "type": "RESEARCH",
+      "description": "FIND THE QCA'S 1965 INSPECTION REPORT ON KANAWANA. Canadian Camping Vol. 18 No. 3 (April 1966), \"From the Provinces\": \"Quebec's concern for standards resulted in their securing the services of Mr. Murray McFarlane who visited twenty-seven camps during the summer months, and completed an exhaustive report on each camp. The camps were charged $25.00 for the visit, said visit to be made one every three years. A detailed report was submitted to the Standards Committee, and letters of accreditation were then forwarded to twenty-five camps which passed. Notices went to the two who did not meet the standards.\" That is the Quebec Camping Association's first documented accreditation round: a paid inspector, twenty-seven camps, an individual written report on each, a three-year cycle. Kanawana was a QCA member camp of exactly this size and type, so an exhaustive written 1965 report on the camp -- site, sanitation, waterfront, programme, staff -- was very probably produced and filed. This is the most specific and most promising archival lead the whole word-for-word read has produced for this wiki's own subject. WHERE TO LOOK: the Association des camps du Quebec's own records; the CCA/ACC fonds at Trent; the YMCA of Montreal fonds at Concordia for the camp's own copy and for the $25 payment in the accounts. NAME CAUTION: the inspector is very likely the P. M. McFarlane who wrote the Montreal MacKay Centre camp article in April 1965 -- a former camp director, therefore qualified to inspect -- but the given names differ in the two notices; record both and do not merge without a third source.",
+      "weight": 10,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 69-71, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_340",
+      "rank": 339,
+      "type": "RESEARCH",
+      "description": "SPAWN A STUB FOR DAIS L. GASS, and one for Camp Memphremagog. Gass appears on every masthead in this read as a Montreal past president of the Canadian Camping Association with nothing else attached. Five tributes printed in Vol. 18 No. 4 (June 1966), after her death on 14 February 1966, give her a life: born in Nova Scotia, a graduate of Mount Allison University; to Montreal as a teacher at Trafalgar Girls' School; later personnel worker for the T. Eaton Company; a CGIT leader and YWCA camp volunteer; founder of Camp Memphremagog for Girls in the Eastern Townships in 1946, where campers called her \"Kolali\", \"Friend\"; second President of the CCA, 1946-49, succeeding Taylor Statten; chair of the meetings in Montreal, Toronto and Kingston that produced \"the first official charter of the Canadian Camping Association\"; and Past-President of the Quebec Camping Association. Camp Memphremagog was sold to the United Church in 1959 and run thereafter as a boys' camp. She is one of very few women among the movement's founders and a Montreal figure this project has been listing without knowing anything about. NOTE A DISCREPANCY TO CARRY, NOT RESOLVE: Mary Edgar's tribute says \"During her twenty-three years as Director,\" which does not square with 1946-59 and may count her whole camping career.",
+      "weight": 7,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 69-71, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_341",
+      "rank": 340,
+      "type": "RESEARCH",
+      "description": "SEARCH THE SAINT-SAUVEUR AND MONTREAL PRESS OF SUMMER 1967 FOR KANAWANA'S CENTENARY JOURNEY DEPARTURE. John Latimer, chairman of the CCA's Centenary Journey Committee, wrote in Vol. 18 No. 4 (June 1966) that \"the administration in Ottawa is not convinced that we deserve their support\" and asked every director to contact local radio, TV and newspaper editors when a trip left camp. That is a direct instruction to generate local press coverage of departing trips, which makes the local papers a much better bet for a Kanawana notice than this project has assumed. The same article describes the NATIONAL CENTENARY CAMPFIRE -- \"hundreds and hundreds of Campfires, lit at exactly the same time, on the same day in the summer of 1967 ... with the same opening and closing used by everyone who participates,\" in every camp in Canada and on every canoe trip. voyageur-canoe-pageant.md records that a National Campfire was held on 9 August 1967; this is the plan behind it, and it means Kanawana almost certainly lit one, from a prescribed text that is itself a specific thing to look for. Also findable: the minutes of the March 1966 Toronto conference of all ten provincial Centenary chairmen, at which \"the final and official routes were mapped ... safety standards were developed ... Rendezvous Points were established\" -- which would fix Kanawana's leg exactly.",
+      "weight": 8,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 69-71, converted to KB facts",
+      "blocked_on": null
     }
   ],
   "queue_ordering": {
