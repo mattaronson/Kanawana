@@ -5063,6 +5063,50 @@
       "created": "2026-09-05",
       "source": "continuity research after the operator's question of 2026-09-05",
       "blocked_on": null
+    },
+    {
+      "priority_id": "p_404",
+      "rank": 403,
+      "type": "RESEARCH",
+      "description": "READ 'LUMBERMEN & VOYAGEURS: THE YMCA PINE CREST STORY'. Camp Pine Crest's centennial history is the single most likely place for the origin of the Pine Crest Games (run every summer since 1940) and for any account of how the Lumbermen-and-Voyageurs competition reached Kanawana in 1947. Every public surface searched -- the YMCA of Greater Toronto's own blog on the Games, the camp pages, Wikipedia -- is silent on who created the Games, why the team names, and whether the tradition was passed to another camp. The book is sold through the camp's Shopify store. Buying or borrowing it is the action. Secondary: check whether Roy D. Locke, who became Kanawana's Camp Chief in the summer of 1947, had any prior Toronto or Pine Crest posting, and search Concordia P0145/12B for correspondence between the two camps in 1946-47.",
+      "weight": 10,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "expanded oldest-camp research and the inter-camp contact inquiry, 2026-09-05",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_405",
+      "rank": 404,
+      "type": "RESEARCH",
+      "description": "TEST THE OTTAWA YMCA 1893 CLAIM AGAINST OTTAWA YMCA RECORDS. With Golden Lake 1884 resolved as an artefact of Sumner Dudley's American date, the surviving pre-Kanawana rival is Charles Plewman's statement that 'the Ottawa YMCA in 1893... began taking older boys to camp'. That is one year before Kanawana's first season and comes from a man who directed for the Ottawa Y himself. It has never been tested. Look for Ottawa YMCA annual reports of the 1890s, the 1893 board minute referenced in the Ace Milks profile, and any Camp On-Da-Da-Waks history. If 1893 holds, Kanawana is fourth rather than third among Canadian camps by founding date.",
+      "weight": 9,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "expanded oldest-camp research and the inter-camp contact inquiry, 2026-09-05",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_406",
+      "rank": 405,
+      "type": "RESEARCH",
+      "description": "ESTABLISH THE REAL NUMBER OF YMCA CAMPS IN CANADA, NOW AND OVER TIME. This project can date one solid figure -- twenty-nine YMCA camps took part in the 1989 centenary relay campfire, one hour each over twenty-nine hours -- and can name only six overnight YMCA camps in 2026 from separate association websites, because ymca.ca's national camps page names no individual camp. Stan Symington's 1953 tour of eastern Canada alone named nine, of which only Big Cove is identifiable as still operating. The apparent contraction is a comparison of three different instruments and must not be asserted until measured. YMCA Canada's national office would hold the series.",
+      "weight": 7,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "expanded oldest-camp research and the inter-camp contact inquiry, 2026-09-05",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_407",
+      "rank": 406,
+      "type": "VERIFY",
+      "description": "FOLD THE SIX COMPETING ORIGIN CLAIMS FOR CANADIAN CAMPING INTO ONE CONFLICT RECORD, as f_2845 recommended and as history/oldest-camp-question.md now needs. In play: Big Cove 1889/1890/1891; Camp Stephens 1891 vs Patton's 1894; Chance Harbour N.S. 1889; Ottawa YMCA 1893 (untested); Golden Lake 1884 (RESOLVED as an artefact, f_4754); Keewaydin 1893 (unsourced, p_400). They are currently scattered across c_029, c_031, individual facts and two articles.",
+      "weight": 7,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "expanded oldest-camp research and the inter-camp contact inquiry, 2026-09-05",
+      "blocked_on": null
     }
   ],
   "queue_ordering": {

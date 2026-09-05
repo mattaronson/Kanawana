@@ -13,8 +13,9 @@ camp in Canada." All three are YMCA camps. All three claims are made in good fai
 right.
 
 Nor are those three the whole field. This project's own sources carry **at least three further printed
-claims** about where Canadian camping began, two of which predate Kanawana — the earliest putting the
-Ottawa YMCA at Golden Lake in **1884**.
+claims** about where Canadian camping began. One of them — the Ottawa YMCA at Golden Lake in **1884** —
+dissolves on inspection into the American movement's founding date; another, the Ottawa YMCA in
+**1893**, survives and is one year older than Kanawana.
 
 This article does not pick a winner by choosing the most flattering definition. It sets out **what
 question each claim is actually answering**, tests each one against the same evidence for every camp,
@@ -171,18 +172,32 @@ Restricting the question to Kanawana, Big Cove and Camp Stephens is itself a cho
 own sources do not support it. The 1949-1988 run of *Canadian Camping* carries **at least four further
 printed claims** about where Canadian camping began, and two of them predate Kanawana.
 
-**Ottawa YMCA at Golden Lake — the strongest rival, and the least stable.** "A Survey of Junior Camping
+**Ottawa YMCA at Golden Lake — the claim that dissolved on inspection.** "A Survey of Junior Camping
 in Ontario" (February 1955), conducted by the Toronto Nursery Education Association, chaired by **Flora
 Morrison** and prepared with the advice of **Dr. Mary L. Northway**, states in its historical preamble:
 "**In Canada in 1884, the Ottawa Y went camping at Golden Lake and in all probability established the
-first Canadian camp**" [f_2674]. That is five years before Big Cove's earliest date and ten before
-Kanawana's. But the same magazine contradicts it twice. Its own profile of "Ace" Milks dates the Ottawa
-camp's earliest trace to an **1893** board minute and the move to **Golden Lake to 1908**, "because there
-was too much sawdust in the water" [f_2662]. And **Charles Plewman**, who directed for the Ottawa YMCA
-himself and is as close to a participant as this run supplies, wrote in December 1964: "When the
-**Ottawa YMCA in 1893**, and Camp Temagami in 1900, began taking older boys to camp, they were really
-breaking new ground" [f_3121]. **Three values — 1884, 1893, 1908 — and two of them are earlier than
-1894.**
+first Canadian camp**" [f_2674]. That would be five years before Big Cove's earliest date and ten
+before Kanawana's.
+
+**It does not survive checking, and what it turns out to be is more interesting than what it claimed.**
+**1884 is Sumner F. Dudley's date.** Dudley, the founder of the American YMCA camping movement, "was
+asked in 1884 to take 'young honor YMCA members' camping," and in 1885 "took seven boys for a week's
+encampment at Orange Lake, N. J." — the camp that became Camp Dudley, "the oldest continually running
+boys camp in the United States" [f_4753]. And the Ottawa YMCA did not reach Golden Lake until **1908**:
+its own director Ace Milks recorded attending the Ottawa camp at Marshall's Bay in 1907 and its move to
+Golden Lake in 1908 "because there was too much sawdust in the water" [f_2662], and an independent
+photographic record dates Camp On-Da-Da-Waks to 1908 [f_4755].
+
+**The 1955 survey appears to have grafted the American movement's origin year onto a Canadian site the
+Ottawa Y occupied twenty-four years later** [f_4754]. Golden Lake is not a contender. This is worth
+stating at length because the claim was not fringe: it was printed in a survey prepared with the advice
+of the most rigorous camp researcher of the period, and it stood in this project's own knowledge base
+as a live rival until it was tested.
+
+**What survives from Ottawa is 1893.** Charles Plewman, who directed for the Ottawa YMCA himself, wrote
+in December 1964: "When the **Ottawa YMCA in 1893**, and Camp Temagami in 1900, began taking older boys
+to camp, they were really breaking new ground" [f_3121]. That is one year before Kanawana's first
+season, it comes from a participant, and **it has not been tested** [f_4756].
 
 **Chance Harbour, 1889.** A claim about the first Canadian YMCA boys' camp, printed in February 1959
 from "the depths of a file of O.C.A. research material" and written by the late Ace Milks [f_2843]. It
@@ -310,7 +325,7 @@ different reason: it makes **2019 a clean common cutoff** for measuring what cam
 | Test | Winner | Kanawana's position |
 |---|---|---|
 | **Earliest documented camping outing** | Kanawana (Jones' Island, 1891) — but the camp lasted one day, ended in a drowning, and the site was never used again | Would win on a reading this project declines to adopt |
-| **Earliest founding date as claimed** | Ottawa YMCA at Golden Lake (1884), if that claim stands; otherwise Big Cove (1889, 1890 or 1891) | Fourth or later, at 1894 |
+| **Earliest founding date as claimed** | Big Cove (1889, 1890 or 1891) — the Golden Lake 1884 claim dissolves on inspection | Third or fourth, at 1894, behind an untested Ottawa YMCA 1893 |
 | **Earliest start of continuous annual activity** | Indeterminate — all three clocks start in the middle 1890s and no source resolves them | Tied, roughly 1894 |
 | **Permanent organisation on a permanent site** | Camp Stephens (islands from 1893, named 1896) | 1910 at Saint-Sauveur, after the 1909-10 split |
 | **Oldest continuously operating, strictly** | **Nobody.** All three have interruptions | Fails (2020-21) |
@@ -333,9 +348,9 @@ Stated in descending order of how well the evidence supports it:
 
 1. **Quebec's first residential summer camp.** Uncontested by any source this project has found, and
    unaffected by everything above.
-2. **Among the oldest camps in Canada**, founded 1894, with **at least four** plausible contenders for
-   an earlier start — Big Cove, Camp Stephens, the Ottawa YMCA at Golden Lake, and Chance Harbour — and
-   no way to rank them that survives scrutiny.
+2. **Among the oldest camps in Canada**, founded 1894, with three surviving contenders for an earlier
+   start — Big Cove, Camp Stephens, and an untested Ottawa YMCA claim of 1893 — and no way to rank them
+   that survives scrutiny. A fourth, Golden Lake 1884, was tested and dissolved.
 3. **The holder of the longest unbroken run of seasons of any Canadian camp examined here** — 126
    consecutive summers, 1894 to 2019 — subject to the gap-closing above.
 4. **Not** Canada's oldest camp, on any test.
@@ -365,10 +380,10 @@ across the country, and the century that closed its own sibling camp on the orig
    an explicit null and a timing hypothesis, and no evidence either way.
 6. [Nice-to-have] Is there a documented date for the start of Big Cove's *continuous annual* series, as
    distinct from its first camp? Byrne's "quickly became an annual event" implies one exists.
-7. [Critical] **Resolve the Ottawa YMCA / Golden Lake claim.** Three values are in print in one magazine
-   — 1884, 1893 and 1908 — and two of them predate Kanawana. The 1884 figure comes from a survey
-   prepared with Mary Northway's advice and has never been tested here. Ottawa YMCA records and the
-   Camp On-Da-Da-Waks history are the places to look.
+7. ~~[Critical] Resolve the Ottawa YMCA / Golden Lake claim.~~ **[Resolved 2026-09-05]** The 1884
+   figure is Sumner Dudley's, not Ottawa's, and Golden Lake dates to 1908 [f_4754]. **What remains open
+   is the narrower question**: Plewman dates Ottawa YMCA camping to 1893, one year before Kanawana, and
+   that has not been tested against Ottawa YMCA records [f_4756].
 8. [Important] Is **Chance Harbour, N.S., 1889** the same camp as Big Cove, or a separate one? [f_2843]
 9. [Important] Fold the six competing origin claims into **one conflict record**, as [f_2845] already
    recommends, rather than leaving them scattered across facts and articles.

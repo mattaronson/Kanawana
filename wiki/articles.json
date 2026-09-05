@@ -10173,7 +10173,53 @@
         "connections/related-camps/quebec-camp-landscape"
       ],
       "file_id": null,
-      "word_count": 4843
+      "word_count": 5035
+    },
+    {
+      "article_id": "points-of-contact",
+      "title": "Points of Contact: Kanawana and the Other YMCA Camps",
+      "wiki_folder": "connections/related-camps",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T16:53:19Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_4757",
+        "f_4758",
+        "f_4759",
+        "f_4760",
+        "f_4761",
+        "f_4762",
+        "f_4763",
+        "f_4764",
+        "f_4765"
+      ],
+      "sources_cited": [
+        "src_campstephens_alumni_blog",
+        "src_ia_canadian_camping_collection",
+        "src_ia_ymca_montreal_fonds_collection",
+        "src_wikipedia_big_cove_sections",
+        "src_ymca_website",
+        "src_ymcabc_camps",
+        "src_ymcagta_pinecrest_games"
+      ],
+      "open_questions": 6,
+      "cross_links": [
+        "history/oldest-camp-question",
+        "traditions/lv-games",
+        "connections/related-camps/camp-pine-crest",
+        "people/t-duncan-patton",
+        "people/a-ross-seaman",
+        "connections/institutional-lineage/canadian-camping-movement"
+      ],
+      "file_id": null,
+      "word_count": 2112
     }
   ],
   "article_count": 93

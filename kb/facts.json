@@ -1,8 +1,8 @@
 {
-  "version": "6.07",
-  "kb_version": "6.07",
+  "version": "6.08",
+  "kb_version": "6.08",
   "migrated_from": "3.3",
-  "fact_count": 4714,
+  "fact_count": 4727,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -84359,6 +84359,245 @@
       "confidence": "inferred",
       "conflicts_with": [],
       "added_version": "6.07",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4753",
+      "claim": "Camp Dudley, founded by Sumner F. Dudley, dates its origin to 1884, when Dudley \"was asked in 1884 to take 'young honor YMCA members' camping,\" and to 1885, when \"he took seven boys for a week's encampment at Orange Lake, N. J.\" It describes itself as \"the oldest continually running boys camp in the United States.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Dudley",
+        "Sumner F. Dudley"
+      ],
+      "date_ref": "1884-1885",
+      "sources": [
+        "src_wikipedia_camp_dudley"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4754",
+      "claim": "THE GOLDEN LAKE 1884 CLAIM APPEARS TO BE AN ARTEFACT, NOT A CANADIAN CAMP. The February 1955 Ontario survey asserted \"In Canada in 1884, the Ottawa Y went camping at Golden Lake and in all probability established the first Canadian camp.\" 1884 is Sumner Dudley's date -- the year the American YMCA camping movement's founder was asked to take boys camping, a year before the first camp at Orange Lake, New Jersey. The Ottawa YMCA did not reach Golden Lake until 1908, on the independent agreement of Ace Milks's own account and a Lost Ottawa photograph caption. The survey appears to have grafted the American movement's origin year onto a Canadian site the Ottawa Y occupied twenty-four years later.",
+      "category": "methodology",
+      "entities": [
+        "Camp Dudley",
+        "Ottawa YMCA",
+        "Golden Lake"
+      ],
+      "date_ref": "1884-1908",
+      "sources": [
+        "src_wikipedia_camp_dudley",
+        "src_lostottawa_ondadawaks",
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [
+        "c_031"
+      ],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4755",
+      "claim": "Camp On-Da-Da-Waks, the Ottawa YMCA's camp at Golden Lake, was founded in 1908 -- agreeing with Ace Milks's account in Canadian Camping that he attended the Ottawa YMCA camp at Marshall's Bay in 1907 and that it moved to Golden Lake in 1908 \"because there was too much sawdust in the water.\" Golden Lake is therefore not a candidate for the earliest Canadian camp.",
+      "category": "camping_movement",
+      "entities": [
+        "Camp On-Da-Da-Waks",
+        "Ottawa YMCA",
+        "Golden Lake"
+      ],
+      "date_ref": "1908",
+      "sources": [
+        "src_lostottawa_ondadawaks",
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4756",
+      "claim": "With the Golden Lake 1884 claim resolved as an artefact, the surviving pre-1894 rival to Kanawana from the Ottawa YMCA is 1893 -- the date Charles Plewman, who directed for the Ottawa Y himself, gives in December 1964: \"When the Ottawa YMCA in 1893, and Camp Temagami in 1900, began taking older boys to camp, they were really breaking new ground.\" That is one year before Kanawana's first season and remains untested.",
+      "category": "camping_movement",
+      "entities": [
+        "Charles Plewman",
+        "Ottawa YMCA",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1893",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4757",
+      "claim": "YMCA Camp Pine Crest states on its own pages that it has been \"Operating continually since 1910 on Clear Lake\" and is \"one of the longest operating summer camps in North America.\" Its longest possible unbroken run to 2019 is therefore about 110 seasons, against Kanawana's 126.",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Pine Crest"
+      ],
+      "date_ref": "1910",
+      "sources": [
+        "src_ymcagta_pinecrest_games"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4758",
+      "claim": "The YMCA of Greater Toronto states: \"Since 1940, the Pine Crest community has come together every summer for The Pine Crest Games\" -- a two-day all-camp competition between two teams, the Voyageurs and the Lumbermen. Pine Crest's version therefore predates Kanawana's 1947 adoption by seven years.",
+      "category": "traditions",
+      "entities": [
+        "Camp Pine Crest",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1940",
+      "sources": [
+        "src_ymcagta_pinecrest_games"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4759",
+      "claim": "EXPLICIT NULL ON THE TRANSMISSION OF L&V. Neither the YMCA of Greater Toronto's account of the Pine Crest Games nor any source consulted says who created the Games, why the teams were named Lumbermen and Voyageurs, or whether the tradition moved between camps. How the competition reached Kanawana in 1947 is undocumented on every surface searched. The camp's own centennial history, \"Lumbermen & Voyageurs: The YMCA Pine Crest Story,\" is the most likely place for an answer and has not been read.",
+      "category": "methodology",
+      "entities": [
+        "Camp Pine Crest",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1940-1947",
+      "sources": [
+        "src_ymcagta_pinecrest_games"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4760",
+      "claim": "Kanawana's L&V Games began in the summer of 1947, and Roy D. Locke \"became Camp Chief during the summer of '47\" in the same season. No source consulted connects Locke to Camp Pine Crest or to Toronto, and no document states who introduced the competition. The coincidence of dates is recorded as a lead, not as an explanation.",
+      "category": "traditions",
+      "entities": [
+        "Roy D. Locke",
+        "Camp Kanawana",
+        "Camp Pine Crest"
+      ],
+      "date_ref": "1947",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4761",
+      "claim": "BIG COVE HAS NO LUMBERMEN-AND-VOYAGEURS COMPETITION ON THE EVIDENCE AVAILABLE. Its programme sections are Little Big Cove, Juniors, Seniors and Leadership (L1 and L2), and the tradition its Wikipedia article names is \"the Keeper of the Cove.\" There is no Voyageur section, no Lumbermen team and no colour-war competition. What Big Cove does have is a \"Voyageur program\" dating to the late 1940s -- an advanced outtripping track \"challenging older youth to develop expert outtripping, canoeing, axemanship and woodcraft skills\" -- and a place on site called the Voyageur Trail. The shared word is fur-trade vocabulary common to Canadian camping, not a shared institution.",
+      "category": "traditions",
+      "entities": [
+        "Big Cove YMCA Camp",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1940s-2026",
+      "sources": [
+        "src_wikipedia_big_cove_sections",
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4762",
+      "claim": "The 1989 relay campfire marking the Centenary of YMCA Camping in Canada involved Kanawana and twenty-eight other YMCA camps, each burning a campfire for one hour of a twenty-nine hour relay. That gives a count of approximately twenty-nine YMCA camps in Canada in 1989.",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA"
+      ],
+      "date_ref": "1989",
+      "sources": [
+        "src_ia_ymca_montreal_fonds_collection"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4763",
+      "claim": "YMCA overnight camps identifiable in Canada in 2026 across the surfaces searched: Camp Kanawana (Saint-Sauveur, Quebec); Big Cove (Sutherlands River, Nova Scotia); YM-YWCA Camp Stephens (Lake of the Woods, near Kenora, Ontario, run from Winnipeg); YMCA Camp Pine Crest (Torrance, Muskoka, Ontario, YMCA of Greater Toronto); YMCA Wanakita (Haliburton, Ontario, YMCA of Hamilton-Burlington-Brantford); and YMCA Camp Elphinstone (Gibsons, British Columbia). YMCA Camp Kanannaq near Prince George runs day camps only. This is a floor, not a complete roster: ymca.ca's national camps page names no individual camps at all.",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Kanawana",
+        "Big Cove YMCA Camp",
+        "Camp Stephens",
+        "Camp Pine Crest",
+        "YMCA Camp Wanakita",
+        "Camp Elphinstone"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymcabc_camps",
+        "src_ymcagta_pinecrest_games",
+        "src_ymcahfx_bigcove_page",
+        "src_ywinnipeg_camp_stephens"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4764",
+      "claim": "The number of YMCA camps in Canada appears to have fallen sharply since 1989, when twenty-nine took part in the centenary relay. Stan Symington's 1953 tour of eastern Canada alone named nine YMCA camps -- Naskapie, Pascobac, Wapomeo, Barachois, Magaguadavic, Y's Acres, Sherbrooke, Holland Cove and Big Cove -- of which only Big Cove is identifiable as still operating. This is a comparison of two lists gathered by different methods, not a measured decline, and is recorded as an observation requiring proper testing.",
+      "category": "camping_movement",
+      "entities": [
+        "YMCA",
+        "Big Cove YMCA Camp"
+      ],
+      "date_ref": "1953-2026",
+      "sources": [
+        "src_ia_canadian_camping_collection",
+        "src_ia_ymca_montreal_fonds_collection"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4765",
+      "claim": "YMCA Hayo-Went-Ha Camps (founded 1904, Central Lake, Michigan) use \"Woodsmen\" and \"Voyageurs\" as programme group names, and the wider \"colour war\" genre is documented by historian Leslie Paris as originating with \"Red and Gray Week\" in 1916 at Schroon Lake Camp in the Adirondacks. Kanawana's L&V is therefore best understood as a Canadian YMCA fur-trade-themed variant of a North American camp form, rather than as a tradition unique to Pine Crest and Kanawana.",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Pine Crest",
+        "Leslie Paris"
+      ],
+      "date_ref": "1904-1947",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.08",
       "added_by": "web_research"
     }
   ]
