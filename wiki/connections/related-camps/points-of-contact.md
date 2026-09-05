@@ -1,6 +1,6 @@
 # Points of Contact: Kanawana and the Other YMCA Camps
 
-*Status: draft | Sources: 20*
+*Status: draft | Sources: 21*
 *Last Updated: 2026-09-05*
 
 ## Overview
@@ -188,12 +188,38 @@ phrase** [f_4787]. Camp programme pages sit too deep in site structures to rank.
 an association directory is the method that works.** That is why the operator found two camps this
 project's searches had missed, and it is the method p_409 should continue with.
 
-**Where the survey leaves the question.** Four camps confirmed, three negative, **a dozen-plus Ontario
-YMCA overnight camps unchecked**, no camp found beyond the four, and no Games dated beyond Pine Crest's
-1940 and Kanawana's 1947 [f_4785]. **The direction of travel is still not established.** One further
-lead: the directory also lists **"YMCA Rotary Youth Camp Presqu'ile"**, so RKY's Rotary-Kiwanis-YMCA
-ownership is not unique, and service-club hybrids may be a category worth searching in their own
-right [f_4786].
+**The enumeration was then completed for Ontario's YMCA overnight camps: ten checked, ten negative.**
+Camp Belwood, Camp Ki-Wa-Y and Camp Waabanaki (YMCA of Three Rivers); YMCA Wanakita
+(Hamilton-Burlington-Brantford); Camp Henry and Camp Queen Elizabeth (Southwestern Ontario); Camp
+Tillicum and John Island Camp (Northeastern Ontario); Camp Otonabee (National Capital Region); and
+Rotary YMCA Camp Presqu'ile (Owen Sound Grey Bruce). **None runs a Lumbermen-and-Voyageurs
+competition.**^21 The count stands at four.
+
+**And the negatives produced a sharper finding than a fifth camp would have.** Two of the ten run a
+camp-wide competition under a different name: **John Island Camp** lists among its traditions "evening
+programs, theme days, and **Colour Wars**" — the genre under its generic name — and **Rotary YMCA Camp
+Presqu'ile** runs "**Presqu'ile Bound**," described as "an epic adventure where campers conquer
+challenges and earn valuable points to determine who will reign over camp."^21 **So the colour-war form
+is common at Ontario YMCA camps; the fur-trade naming is not** [f_4789]. The question worth asking is
+not which camps run a camp-wide competition — many do — but which use the Lumbermen-and-Voyageurs names,
+which is the narrow thing Kanawana shares with exactly three others.
+
+**That makes the tradition a minority practice inside its own movement.** Four camps have it; ten
+comparable Ontario YMCA camps do not. **Whatever carried it between camps was specific rather than
+systemic** — which makes a personal route more likely than an association-wide one, and raises the value
+of finding who moved between Pine Crest, Kitchikewana, RKY and Kanawana [f_4792].
+
+**Service-club ownership turns out to be an ordinary Ontario pattern, not an oddity of RKY.** Three
+examples are now documented: RKY (Rotary, Kiwanis and the Kingston YMCA, 1930), **Rotary Camp Tillicum**
+(YMCA of Northeastern Ontario with the Rotary Club of North Bay) and **Rotary YMCA Camp Presqu'ile**
+(with the Owen Sound Rotary Club, providing overnight camp "for the past 90+ years", so from about
+1935).^21 Of the three, only RKY runs the Games [f_4790].
+
+**Where the survey leaves the question.** No Games dated beyond Pine Crest's 1940 and Kanawana's 1947;
+neither Kitchikewana (1919) nor RKY (1930) dates its own. **The direction of travel is not established,
+and on present evidence nothing short of the two published camp histories or the four camps' archives
+will settle it** [f_4791] — *Lumbermen & Voyageurs: The YMCA Pine Crest Story* (`p_404`) and Know
+History's *Rooted: Beausoleil Island* (`p_408`).
 
 ## Resemblances that are not contact
 
@@ -254,8 +280,10 @@ decline should be tested against the YMCA's own records before it is asserted.
    1947; look for correspondence between the two camps in Concordia P0145/12B.
 2. [Important] **Who created the Pine Crest Games in 1940, and why those team names?** Unanswered by the
    camp's own public account.
-3. [Critical] **When did the Lumberman and Voyageur Games begin at Camp Kitchikewana, and in which
-   direction did the tradition travel?** Kitchikewana (founded 1919) predates the Pine Crest Games
+3. [Critical] **When did the Lumberman and Voyageur Games begin at Camp Kitchikewana and RKY, and in
+   which direction did the tradition travel?** Ten other Ontario YMCA overnight camps have been checked
+   and none runs it, so the route was specific rather than systemic — look for a person who moved
+   between the four camps. Kitchikewana (founded 1919) predates the Pine Crest Games
    (1940) by twenty-one years, so the assumption that Pine Crest originated the competition is now
    untested. Read Know History's *Rooted: Beausoleil Island*, chapter 5.
 4. [Important] **Are there Canadian YMCA camps beyond the seven listed here?** This list grew by one the
@@ -299,3 +327,4 @@ decline should be tested against the YMCA's own records before it is asserted.
 18. Ontario Camps Association, Camp and Outdoor Education Centre Directory [src_oca_camp_directory]. See [f_4780], [f_4781], [f_4786].
 19. YMCA of Southwestern Ontario, Camp Queen Elizabeth [src_ymcaswo_cqe]. See [f_4782], [f_4783].
 20. YMCA of Three Rivers, Camp Waabanaki and its Voyageur Extended Tripping Program [src_ymca_three_rivers_wabanaki]. See [f_4784].
+21. Ontario YMCA overnight camps surveyed under p_409: YMCA of Three Rivers, YMCA Hamilton-Burlington-Brantford, YMCA of Southwestern Ontario, YMCA of Northeastern Ontario, YMCA of the National Capital Region, YMCA of Owen Sound Grey Bruce [src_ymca_ontario_camp_enumeration]. See [f_4788], [f_4789], [f_4790].

@@ -28117,7 +28117,25 @@
       "read_state": "extracted",
       "read_state_basis": "direct: fetched or search-surfaced 2026-09-05 under p_409",
       "notes": "Camp Waabanaki on Lake Vernon near Huntsville. Its 'Voyageurs' is an Extended Tripping Program for ages 13-15 (Killarney canoe routes, La Cloche Silhouette, Georgian Bay sea kayak) -- a rank, not a team. EXPLICIT NULL: no Lumbermen, no two-team competition. The older CKW YMCA page for the same programme is at a domain that no longer resolves (ymcayouthcentre.com, DNS ENOTFOUND)."
+    },
+    {
+      "source_id": "src_ymca_ontario_camp_enumeration",
+      "type": "web",
+      "title": "Ontario YMCA overnight camps — association pages surveyed under p_409",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://www.ymcathreerivers.ca/overnight-camp",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-05T17:56:59Z",
+      "extracted": true,
+      "extraction_version": "p_409",
+      "reliability": "primary",
+      "read_state": "extracted",
+      "read_state_basis": "direct: association overnight-camp pages fetched or search-surfaced 2026-09-05",
+      "notes": "Composite record for the p_409 enumeration of 2026-09-05: YMCA of Three Rivers (Belwood, Ki-Wa-Y, Waabanaki), YMCA HBB (Wanakita), YMCA SWO (Camp Henry, Camp Queen Elizabeth), YMCA Northeastern Ontario (Camp Tillicum, John Island Camp), YMCA National Capital Region (Camp Otonabee), YMCA Owen Sound Grey Bruce (Rotary YMCA Camp Presqu'ile). All checked for a Lumbermen-and-Voyageurs competition; all negative. ymcaswo.ca returns HTTP 403 to the fetch tool and was covered by search summaries instead."
     }
   ],
-  "source_count": 1562
+  "source_count": 1563
 }

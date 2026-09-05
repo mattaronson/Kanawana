@@ -1,8 +1,8 @@
 {
-  "version": "6.11",
-  "kb_version": "6.11",
+  "version": "6.12",
+  "kb_version": "6.12",
   "migrated_from": "3.3",
-  "fact_count": 4749,
+  "fact_count": 4754,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -85003,6 +85003,99 @@
       "confidence": "inferred",
       "conflicts_with": [],
       "added_version": "6.11",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4788",
+      "claim": "P_409 ENUMERATION COMPLETE FOR ONTARIO'S YMCA OVERNIGHT CAMPS: TEN CHECKED, TEN NEGATIVE. Camp Belwood, Camp Ki-Wa-Y and Camp Waabanaki (YMCA of Three Rivers); YMCA Wanakita (Hamilton-Burlington-Brantford); Camp Henry and Camp Queen Elizabeth (Southwestern Ontario); Camp Tillicum and John Island Camp (Northeastern Ontario); Camp Otonabee (National Capital Region); and Rotary YMCA Camp Presqu'ile (Owen Sound Grey Bruce) were each checked for a Lumbermen-and-Voyageurs competition. None runs one. The count of camps with the tradition stands at four: Camp Pine Crest, Kanawana, Camp Kitchikewana and RKY Camp.",
+      "category": "traditions",
+      "entities": [
+        "Camp Pine Crest",
+        "Camp Kanawana",
+        "YMCA Camp Kitchikewana",
+        "RKY Camp"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymca_ontario_camp_enumeration"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.12",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4789",
+      "claim": "THE COLOUR-WAR GENRE IS COMMON AT ONTARIO YMCA CAMPS; THE LUMBERMEN-AND-VOYAGEURS NAMING IS NOT. John Island Camp (YMCA of Northeastern Ontario) lists among its traditions \"evening programs, theme days, and Colour Wars\" -- the genre under its generic name. Rotary YMCA Camp Presqu'ile runs \"Presqu'ile Bound,\" described as \"an epic adventure where campers conquer challenges and earn valuable points to determine who will reign over camp\" -- the same competitive form under a local name. Neither uses the fur-trade naming. The question worth asking is therefore not which camps run a camp-wide competition, which many do, but which use the Lumbermen-and-Voyageurs names, which is the narrow thing Kanawana shares with three others.",
+      "category": "traditions",
+      "entities": [
+        "John Island Camp",
+        "Rotary YMCA Camp Presqu'ile",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymca_ontario_camp_enumeration"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.12",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4790",
+      "claim": "SERVICE-CLUB AND YMCA JOINT OWNERSHIP IS A COMMON ONTARIO PATTERN, NOT AN ODDITY OF RKY. Three examples are now documented: RKY Camp (Rotary Club of Kingston, Kingston Kiwanis Club and Kingston YMCA, from 1930); Rotary Camp Tillicum (YMCA of Northeastern Ontario in partnership with the Rotary Club of North Bay); and Rotary YMCA Camp Presqu'ile (YMCA of Owen Sound Grey Bruce with the Owen Sound Rotary Club, providing overnight camp \"for the past 90+ years\", so from about 1935). Of the three, only RKY runs the Lumbermen-and-Voyageurs competition.",
+      "category": "camping_movement",
+      "entities": [
+        "RKY Camp",
+        "Rotary YMCA Camp Presqu'ile",
+        "Camp Tillicum"
+      ],
+      "date_ref": "1930-2026",
+      "sources": [
+        "src_ymca_ontario_camp_enumeration"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.12",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4791",
+      "claim": "THE ENUMERATION DID NOT SETTLE THE DIRECTION OF TRAVEL, AND ON PRESENT EVIDENCE NOTHING SHORT OF THE TWO CAMP HISTORIES WILL. Ten Ontario YMCA overnight camps were checked and none runs the Lumbermen-and-Voyageurs competition; no camp's Games were dated beyond Camp Pine Crest's 1940 and Kanawana's 1947; and neither Camp Kitchikewana (founded 1919) nor RKY Camp (founded 1930) dates its own. The remaining routes are the two published camp histories -- \"Lumbermen & Voyageurs: The YMCA Pine Crest Story\" (p_404) and Know History's \"Rooted: Beausoleil Island\" chapter on Kitchikewana (p_408) -- and the archival records of the four camps.",
+      "category": "methodology",
+      "entities": [
+        "Camp Pine Crest",
+        "YMCA Camp Kitchikewana",
+        "RKY Camp",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymca_ontario_camp_enumeration"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.12",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4792",
+      "claim": "That the four Lumbermen-and-Voyageurs camps are Pine Crest, Kitchikewana, RKY and Kanawana -- and that ten other Ontario YMCA overnight camps are not among them -- makes the tradition a minority practice within its own movement rather than a general YMCA camp form. Three of the four are in Ontario and one is in Quebec; the ten negatives are all Ontario. Whatever carried the competition between camps was specific rather than systemic, which makes a personal route more likely than an association-wide one and raises the value of finding who moved between Pine Crest, Kitchikewana, RKY and Kanawana.",
+      "category": "traditions",
+      "entities": [
+        "Camp Pine Crest",
+        "YMCA Camp Kitchikewana",
+        "RKY Camp",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1919-1947",
+      "sources": [
+        "src_ymca_ontario_camp_enumeration"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.12",
       "added_by": "web_research"
     }
   ]
