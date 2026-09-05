@@ -1,8 +1,8 @@
 {
-  "version": "6.23",
-  "kb_version": "6.23",
+  "version": "6.24",
+  "kb_version": "6.24",
   "migrated_from": "3.3",
-  "fact_count": 4784,
+  "fact_count": 4789,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -85750,6 +85750,87 @@
       "conflicts_with": [],
       "added_version": "6.23",
       "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4823",
+      "claim": "CAROL SKINNER DIED ON THE WEEKEND OF 30-31 JANUARY 2021. ALS Canada's memorial post of 4 February 2021 (a Thursday) opens: 'With great sadness, we recognize the incredible contributions of Carol Skinner, who passed away last weekend.' No exact day is given, so the date is a two-day window, not a point. This closes the gap left by the 2026 Pip release calling her 'the late' without a date (f_4812), which had placed the death anywhere between June 2018 and August 2026.",
+      "category": "people",
+      "entities": [
+        "Carol Skinner"
+      ],
+      "date_ref": "2021-01-30",
+      "sources": [
+        "src_alscanada_skinner_memorial_2021"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4824",
+      "claim": "CAROL SKINNER'S ALS ADVOCACY RECORD, from ALS Canada's memorial post: diagnosed in 2013, she 'soon after became an ALS advocate and an ambassador for ALS Canada'; she 'attended the first meeting of the all-party ALS Caucus on Parliament Hill in November 2016 and many other government meetings thereafter'; she worked 'with others in the community to spearhead a letter-writing campaign calling on the federal government to provide dedicated ALS research funding'; she was 'a regular attendee and speaker at the Ottawa Walk to End ALS'; she kept a blog, 'Live Love Laugh with Carol', described as 'a source of positivity and strength for many'; and she sat on the International Alliance of ALS/MND Associations' pALS and cALS Advisory Council. ALS Canada closes: 'Carol, your contributions were many, and so very meaningful.'",
+      "category": "people",
+      "entities": [
+        "Carol Skinner",
+        "ALS Canada"
+      ],
+      "date_ref": "2013-2021",
+      "sources": [
+        "src_alscanada_skinner_memorial_2021"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4825",
+      "claim": "CAROL SKINNER'S OWN BLOG IS LOST TO A DOMAIN TAKEOVER, not to time. 'Live Love Laugh with Carol' (livelovelaughwithcarol.com), named by ALS Canada in 2021 as a source of strength for many people living with ALS, now resolves to an Indonesian online-gambling site. Search indexes still carry the old navigation -- Love Story, ALS, Blog, Tips & Tricks, Gallery, Travel, Media -- and both her and Travis Skinner's contact details, so the site stood in that form recently. web.archive.org is blocked by this environment's egress policy, so no archived copy could be reached. THIS IS THE ONLY FIRST-PERSON SOURCE THIS PROJECT HAS EVER IDENTIFIED FOR A KANAWANA ALUMNA WRITING ABOUT HER OWN LIFE AT LENGTH, and it is currently unreadable. ACCESS FAILURE, NOT AN ABSENCE.",
+      "category": "sources",
+      "entities": [
+        "Carol Skinner"
+      ],
+      "date_ref": "2026-09-05",
+      "sources": [
+        "src_skinner_blog_livelovelaugh"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4826",
+      "claim": "DEREK WALSH IS CREDITED FOR STUART McLEAN'S FAMILY CAMP PHOTOGRAPHS in CBC News's 2017 report on the Stuart McLean Camp Kanawana Fund -- SEARCH-SNIPPET LEVEL ONLY, NOT READ: cbc.ca returns HTTP 403 to this project's fetch tool, so the credit line has not been seen directly. If it holds, it places Kanawana's 1974-79 director still connected to the camp's alumni network in 2017 and holding personal photographs of McLean's camp years -- the only trace of Walsh found anywhere outside the camping press, and a lead toward a private photographic holding. To be confirmed by reading the article through a route that is not blocked.",
+      "category": "people",
+      "entities": [
+        "Derek Walsh",
+        "Stuart McLean",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2017",
+      "sources": [
+        "src_cbc_mclean_fund_2017"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4827",
+      "claim": "EXPLICIT NULL ON DEREK WALSH'S BIOGRAPHY (RALPH cycle, 2026-09-05). Searches for an obituary or biographical record under 'Derek Walsh' and 'Derek V. Walsh' against the Canadian Camping Association, Quebec camping organisations, and Montreal YMCA contexts returned NOTHING: no obituary, no birth or death date, no record of his life before 1973 or after 1981. The only new trace is the CBC photo credit above. His article's own statement that it had had 'no obituary search' is now false -- the search was run and came back empty. That is a different and weaker claim than 'he cannot be found': the surfaces tried were general web search, and the routes NOT tried remain substantial -- Quebec and Ontario obituary aggregators by name alone, Concordia's YMCA fonds for personnel files, the CCA's own membership records, and asking the operator's alumni network.",
+      "category": "people",
+      "entities": [
+        "Derek Walsh"
+      ],
+      "date_ref": "2026-09-05",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.24",
+      "added_by": "ralph_loop"
     }
   ]
 }

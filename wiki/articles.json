@@ -7795,16 +7795,22 @@
       "article_id": "carol-skinner",
       "title": "Carol Skinner",
       "wiki_folder": "people/notable-alumni",
-      "status": "stub",
+      "status": "draft",
       "status_history": [
         {
           "status": "stub",
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0421",
         "f_0447",
@@ -7815,16 +7821,21 @@
         "f_1460"
       ],
       "sources_cited": [
+        "src_alscanada_skinner_memorial_2021",
+        "src_gazette_skinner_als_2016",
+        "src_ottawa_citizen_skinner_als_2018",
+        "src_skinner_blog_livelovelaugh",
         "src_ymca_pip_skinner",
+        "src_ymca_quebec_pip_macsween_2026",
         "src_ymca_quebec_pip_skinner"
       ],
-      "open_questions": 3,
+      "open_questions": 5,
       "cross_links": [
         "notable-alumni",
         "pip-alumni-award"
       ],
       "file_id": null,
-      "word_count": 428,
+      "word_count": 1367,
       "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. Set to stub (not draft) per CLAUDE.md pipeline requirements -- only 2 genuinely distinct sources exist, below the 3+ threshold for draft.",
       "tags": {
         "era": [
@@ -10030,7 +10041,7 @@
       "article_id": "derek-walsh",
       "title": "Derek Walsh",
       "wiki_folder": "people",
-      "status": "stub",
+      "status": "draft",
       "status_history": [
         {
           "status": "stub",
@@ -10092,9 +10103,15 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 128: CCA president Cliff Labbett independently confirms the two-year PR chairmanship ('a position he has held for the past two years'). Open Question 1 furnished on both sides -- the same issue confirms Camp Thunderbird as a real Victoria YM-YWCA camp of 1,300 acres, making a move between Y camps coherent, while Labbett describes Walsh entirely by his Quebec offices and says nothing of a move west. Question left open. Source 9 extended."
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 0,
+      "ralph_loops_completed": 1,
       "kb_facts_used": [
         "f_2424",
         "f_2429",
@@ -10106,11 +10123,12 @@
         "f_2470"
       ],
       "sources_cited": [
-        "src_ia_ymca_montreal_annual_reports_collection",
+        "src_cbc_mclean_fund_2017",
         "src_ia_canadian_camping_collection",
-        "src_ia_kanawana_report_1977",
         "src_ia_kanawana_report_1973",
-        "src_ia_kanawana_report_1974"
+        "src_ia_kanawana_report_1974",
+        "src_ia_kanawana_report_1977",
+        "src_ia_ymca_montreal_annual_reports_collection"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -10120,7 +10138,7 @@
         "connections/institutional-lineage/canadian-camping-movement"
       ],
       "file_id": null,
-      "word_count": 981
+      "word_count": 3472
     },
     {
       "article_id": "oldest-camp-question",

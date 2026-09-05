@@ -5195,10 +5195,23 @@
       "type": "RESEARCH",
       "description": "PARTIALLY DONE 2026-09-05. (1) RESOLVED: the faded third 2002 knight is CAROLINE POOLE, not Caroline Noble, per the operator who was staff that season (f_4820). Correcting it made her traceable across years for the first time — she now appears in the multi-year index as Caroline 'Big Ro Plo Plo' Poole, 2000-2002, Participant -> Knight. (2) STILL OPEN — CAROL SKINNER'S DEATH DATE. Three searches on 2026-09-05 found no obituary; the Carol/Carol Ann Skinner obituaries that surface belong to other people. The death falls between June 2018 (Ottawa Citizen reports her alive) and August 2026 (the Pip release calls her 'the late'). RECOVERED ALONG THE WAY: ALS diagnosed 19 September 2013, symptoms from early 2013 on the Rideau Canal; longtime Kirkland resident; McGill art history graduate; lived in Ottawa with husband TRAVIS SKINNER; art therapist with the CMHA until the illness; teams raised over $26,000 across four ALS walks (f_4821). ACCESS FAILURE, NOT A NULL: the Montreal Gazette (20 Sept 2016) and Ottawa Citizen (16 June 2018) features are on PressReader, HTTP 403. NOT YET TRIED: Gazette and Citizen obituary sections directly, ALS Society of Canada and ALS Ottawa memorial notices, the CMHA, National Capital ALS walk pages, and a 'Travis Skinner' approach. The operator expects an obituary exists — treat as unfound, not absent.",
       "weight": 6,
-      "status": "partially_complete",
+      "status": "completed",
       "created": "2026-09-05",
       "source": "operator testimony on Alexandra Olshefsky, 2026-09-05",
-      "blocked_on": null
+      "blocked_on": null,
+      "completed": "2026-09-05",
+      "resolution": "BOTH ASKS CLOSED. The 2002 knight is Caroline Poole (f_4820). Carol Skinner died on the weekend of 30-31 JANUARY 2021, from ALS Canada's memorial post of 4 February 2021 -- 'passed away last weekend' -- a two-day window, not a date (f_4823). The obituary was never found; the memorial post closed it instead, which is why the search should have gone to the advocacy organisation before the obituary aggregators."
+    },
+    {
+      "priority_id": "p_416",
+      "rank": 415,
+      "type": "RESEARCH",
+      "description": "RECOVER CAROL SKINNER'S BLOG FROM THE INTERNET ARCHIVE. 'Live Love Laugh with Carol' (livelovelaughwithcarol.com) was her own long-form account of living with ALS, named by ALS Canada in its 2021 memorial as 'a source of positivity and strength for many'. IT IS THE ONLY FIRST-PERSON, LONG-FORM SOURCE THIS PROJECT HAS EVER IDENTIFIED FOR ANY KANAWANA PERSON WRITING ABOUT THEIR OWN LIFE. The domain has since been taken over and now serves an Indonesian online-gambling site (f_4825), so a reader who checks the address today would reasonably conclude the blog never existed. web.archive.org is blocked by THIS ENVIRONMENT'S egress policy, not by the archive -- ANYONE WITH AN ORDINARY BROWSER CAN DO THIS IN MINUTES. Known section structure from search indexes: Love Story, ALS, Blog, Tips & Tricks, Gallery, Travel, Media. Look for: her Kanawana years in her own words, the section(s) she directed 1990-95, her Camp Hayward years, and anything on the camp's influence on her later work. HIGH VALUE, LOW EFFORT, AND DEGRADING -- archived captures are not guaranteed to persist.",
+      "weight": 9,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "formal RALPH cycle on carol-skinner, 2026-09-05",
+      "blocked_on": "blocked in this environment; not blocked for a human"
     }
   ],
   "queue_ordering": {
