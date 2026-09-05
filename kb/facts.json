@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 4315,
+  "fact_count": 4351,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -76849,6 +76849,677 @@
       "entities": [
         "Jean Funk",
         "Canadian Camping Association"
+      ],
+      "date_ref": "1983",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4354",
+      "issue": 147,
+      "claim": "Marnie Ellis's Publicity and Public Relations report for 1982-83, describing the launch of the first National Camping Day: \"6,500 posters have been distributed across the country to member camps. Delay in the distribution was unfortunate, and I apologize, but one learns from all experiences and the 1984 posters will be out by January 1. A special public thanks goes to Peter Goddard and the staff of Kamp Kanawana in Montreal for accepting the tremendous task of mailing to every camp.\"",
+      "category": "site",
+      "entities": [
+        "Peter Goddard",
+        "Camp Kanawana",
+        "Marnie Ellis",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4355",
+      "issue": 147,
+      "claim": "Peter Goddard is documented at Kanawana in the late winter or early spring of 1983: Marnie Ellis's report was written before 14 April 1983 and describes work already done. This narrows the near end of the 1981-1985 bracket around his directorship from inference to record. The source names \"Peter Goddard and the staff of Kamp Kanawana\" and does not give his title; that he is named ahead of the staff reads as the person in charge, and his signature as Director on a Kanawana newsletter of 15 November 1982 settles what that role was, but the 1983 item on its own attests presence and responsibility, not the office.",
+      "category": "people",
+      "entities": [
+        "Peter Goddard",
+        "Camp Kanawana"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1983",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4356",
+      "issue": 147,
+      "claim": "Kanawana took on the national mailing of 6,500 National Camping Day posters to every member camp in Canada for the Canadian Camping Association's largest-ever promotional project — a dated act of national service performed from Montreal, which also means a mailing list of every CCA member camp in Canada passed through Kanawana's office in the winter of 1983.",
+      "category": "site",
+      "entities": [
+        "Camp Kanawana",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4357",
+      "issue": 147,
+      "claim": "The Canadian Camping Association's \"CCA/ACC STATISTICS 1982 - SUMMER\" gives Quebec's column with every heading legible: member camps total 129, of which accredited 129 and non-accredited none; day camps 10; resident camps 117; \"other\" camps 2; four-season 49; three-season 22; camper beds 15,791; individual campers 52,977; camper/days 820,812; foreign campers 432; volunteer staff 790; paid staff 4,618; staff/days 321,841; foreign staff 33; staff who were students 3,975; food $3,208,000; wages $5,371,000; and a return rate of 48%. National totals: 618 member camps, 500 accredited, 293,941 individual campers, 6,103,253 camper/days, 20,080 paid staff.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4358",
+      "issue": 147,
+      "claim": "Every Quebec member camp was an accredited member camp in 1982 — 129 total, 129 accredited, none non-accredited, the only province in the table where the two numbers are identical. So in Quebec there was no such thing as an unaccredited member camp, and \"member of the ACQ\" and \"accredited by the ACQ\" name one status, not two.",
+      "category": "camping_movement",
+      "entities": [
+        "Association des camps du Quebec",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4359",
+      "issue": 147,
+      "claim": "The 1982 statistics table prints a response-rate row by province: Quebec 48%, Alberta 75%, Saskatchewan 68%, Nova Scotia 56%, Manitoba 54%, Ontario 51.5%, British Columbia 49%, Newfoundland 24% and New Brunswick 16%. Quebec's figures therefore rest on returns from about half its member camps.",
+      "category": "methodology",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4360",
+      "issue": 147,
+      "claim": "Quebec camping ran on wages where prairie and western camping largely ran on volunteers: in 1982 Quebec reported 4,618 paid staff against 790 volunteers, nearly six to one, where Alberta reported 1,232 paid against 5,000 volunteers and British Columbia 726 against 2,884. Quebec's wage bill of $5.37 million against 52,977 individual campers is about $101 of wages per camper, and its food bill of $3.21 million about $61 a camper.",
+      "category": "camping_movement",
+      "entities": [
+        "Association des camps du Quebec"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4361",
+      "issue": 147,
+      "claim": "The Association des Camps du Quebec's annual report for 1982-83, signed Claire Menard: \"Le programme d'accreditation de l'Association des camps du Quebec a fait l'objet d'un renouvellement important. Ce programme est oriente vers une auto-evaluation des membres, le respect des normes universelles et du code d'ethique. Une etude de marche a ete realisee cette annee et demontre le haut taux de satisfaction de la clientele. Un guide d'evaluation des services est actuellement en phase de realisation... La Semaine des camps, activite importante et connue au Quebec depuis plus de cinq ans. Salons d'expositions, centres commerciaux, emissions de radio et de television, articles de journaux et revues permettent a l'ACQ de faire connaitre ses membres et sa propre existence... Au printemps, un colloque pour les directeurs, le personnel-cadre et les moniteurs se tiendra les 13-14-15 mai 1983.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Claire Menard",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1983",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4362",
+      "issue": 147,
+      "claim": "The accreditation programme Kanawana was subject to was substantially rewritten in 1982-83, reoriented toward member self-evaluation against universal standards and a code of ethics — so a Kanawana accreditation file from before and after that change would be different documents. An ACQ market study of Quebec camp clientele was carried out in the same year, and a guide d'evaluation des services was in preparation: two named Quebec documents about camp customers and camp service quality not previously known to this project. La Semaine des camps had been running \"depuis plus de cinq ans\" by 1983, so from about 1977.",
+      "category": "archives",
+      "entities": [
+        "Association des camps du Quebec",
+        "Camp Kanawana"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1983",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4363",
+      "issue": 147,
+      "claim": "Canadian Camping's Summer 1983 editorial was given over entirely to a text headed \"This is a speech made in 1851 by Seattle, Chief of the Suquamish,\" printed in full in English and French on the authority of Buckminster Fuller's Critical Path (1981), which calls it \"one of the most beautiful and profound environmental statements ever made.\" The version printed is not an 1851 speech: it contains \"I have seen a thousand rotting buffaloes on the prairie, left by the white man who shot them from a passing train,\" \"talking wires\" and \"the end of living and the beginning of survival\" — wording written by Ted Perry, a screenwriter, for the 1972 film Home, and circulated thereafter as though it were Seattle's. What Chief Seattle said in 1851 or 1854 survives, if at all, only in Henry A. Smith's much later newspaper reconstruction of 1887, which contains none of this.",
+      "category": "context",
+      "entities": [
+        "Canadian Camping (magazine)",
+        "Chief Seattle",
+        "Ted Perry"
+      ],
+      "date_ref": "1983-07",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4364",
+      "issue": 147,
+      "claim": "The sequence of Indigenous-themed material in Canadian Camping runs: Seton's composite creed presented as ethnography (1978); Chief Dan George printed in full (1979); a Sioux prayer in translation (April 1981); the invented white-canoe legend on a back cover (June 1981); and in 1983 a white screenwriter's text presented in two languages as the words of a named historical Indigenous leader, given the whole editorial page and offered to every member camp as the movement's environmental creed. The trajectory is not from invention to authenticity: it is a movement that could not reliably tell the difference, and whose best-intentioned material was as likely to be manufactured as its worst.",
+      "category": "context",
+      "entities": [
+        "Canadian Camping (magazine)",
+        "Ernest Thompson Seton",
+        "Chief Seattle"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1983",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4365",
+      "issue": 147,
+      "claim": "The same Summer 1983 issue prints an attributed prayer — \"O Father, whose voice I hear in the winds, and whose breath gives life to all the world, hear me, I am a child before You... I seek strength, Father — not to be superior to my brothers, but to be able to fight my greatest enemy, myself\" — attributed to Tom Whitecloud and described as a \"prayer inscribed on monument at St. Regis Reservation — Akwesane Mohawk.\" Its attribution is complicated, since the text circulates widely as a Lakota or Sioux prayer and Tom Whitecloud was a Chippewa writer, but the magazine states a specific physical monument at a specific named community, which is checkable.",
+      "category": "context",
+      "entities": [
+        "Tom Whitecloud",
+        "Akwesasne",
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1983-07",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4366",
+      "issue": 147,
+      "claim": "Bruno Morawetz's Archives report on the January 1983 Congress: \"requests went to the Provincial Associations for slide trays depicting camp scenes representative of that province. The following Provincial Associations brought slide carousels and slides which were shown in the Archives Room: Newfoundland, Manitoba, New Brunswick, Ontario, Saskatchewan and Nova Scotia. Due to the efforts of a large number of people, but notably Helen Stewart, Bernadine Dodge and Ken Johnston, the Archives Room contained a splendid display of archival material enriched by exhibits from the Kanawa Museum provided by Professor Kirk Wipper... a photographic record of all former CCA Presidents was prepared consisting of two frames with empty spaces for the next five CCA Presidents.\" He urged members to \"send all materials relating to the business of the Provincial Association to the CCA office for deposit at Trent University.\" Quebec is not among the six provinces that sent slides.",
+      "category": "archives",
+      "entities": [
+        "Bruno Morawetz",
+        "Helen Stewart",
+        "Bernadine Dodge",
+        "Kirk Wipper",
+        "Trent University"
+      ],
+      "date_ref": "1983",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4367",
+      "issue": 147,
+      "claim": "Provincial camping association business records were to go through the Canadian Camping Association's national office to Trent University, on the Archives chairman's explicit 1983 instruction — so anything the Quebec association sent is at Trent, not in Quebec.",
+      "category": "archives",
+      "entities": [
+        "Trent University",
+        "Association des camps du Quebec",
+        "Canadian Camping Association"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1983",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4368",
+      "issue": 147,
+      "claim": "Brian Law's National Standards Workshop of 25-26 January 1983 had two objectives — to \"update the existing comparative analysis of provincial standards for organized camping\" and to \"review and document extensively the visitation process\" — with delegates preparing their provincial comparisons in advance, so a written comparative analysis of provincial standards including Quebec's exists. Its conclusion: \"The Workshop has proposed that CCA/ACC should not accredit camps but should promote good camping practices through education of camp directors. This, of course, has important implications for our future action plan and for provincial camping associations.\"",
+      "category": "archives",
+      "entities": [
+        "Brian Law",
+        "Canadian Camping Association",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1983-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4369",
+      "issue": 147,
+      "claim": "The Canadian camping movement settled two questions in a single year: no national certification of camp directors (1982) and no national accreditation of camps (January 1983). Accreditation stayed provincial, which is why Kanawana's status was always an ACQ matter.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Association des camps du Quebec",
+        "Camp Kanawana"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1983",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4370",
+      "issue": 147,
+      "claim": "The first National Camping Day was held on 14 April 1983 and its results were printed: \"Quebec coordinated their annual 'Semaine des camps' or camp week to coincide with April 14th and featured a media blitz... Senator Ray Perrault greeted CCA/ACC representatives and two camp counsellors presented him with a Special T-Shirt... Calgary Herald did a feature article on Youth Camping... Kitchener-Waterloo Record gave full page coverage... Over 600 weekly papers received information on National Camping Day and sample articles... New Brunswick Premier Richard Hatfield declared Camp Week for the province... Nova Scotia's Minister, Fisher Hudson, declared April 14 as Camp Counsellor Acknowledgement Day.\" So Quebec press coverage of camping in the week of 14 April 1983 is findable, and Kanawana was a member camp that had just mailed the national posters.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Association des camps du Quebec",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1983-04-14",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4371",
+      "issue": 147,
+      "claim": "The Canadian Camping Association's 1983-85 executive was elected by acclamation, taking office at the annual meeting of 6 May 1983: President Jocelyn Palm (Ontario); Eastern Vice-President George Matthews (Nova Scotia); Central Vice-President Louis Jean (Quebec); Western Vice-President Terry Burkhalter (Manitoba). Louis Jean is the first Quebec regional vice-president since Derek Walsh, succeeding Jane McCutcheon of Ontario. Pauline Rondeau was confirmed as Chairman of the French Language Committee in March 1983 after the post \"was vacant for several months this year.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Jocelyn Palm",
+        "Louis Jean",
+        "Pauline Rondeau",
+        "Derek Walsh",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983-05-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4372",
+      "issue": 147,
+      "claim": "Jane McCutcheon's French Language Committee report records what was delivered at the January 1983 Congress: \"the provision of simultaneous interpretation of all key-note speakers at the Congress, in addition to three French sessions offered to francophone delegates. The bilingual text provided in the promotional literature and program of the Congress also reflected the effort to include both language groups.\" Eight French sessions were planned in 1982; three were delivered.",
+      "category": "camping_movement",
+      "entities": [
+        "Jane McCutcheon",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4373",
+      "issue": 147,
+      "claim": "John Latimer's summary of the January 1983 Congress: \"over 1,000 delegates... speakers and delegates from Canada, U.S.A., Norway, Japan, Great Britain, Jamaica, Mexico, Australia and New Zealand. After four years of hard work... Special thanks should go to all the 60 volunteers who worked on the organizing committees.\" Provincial delegations: Alberta 45, \"the largest delegation outside of Ontario\"; Nova Scotia over 30; Saskatchewan 15-16 on a $5,000 SASKSPORT grant; British Columbia 12. No Quebec delegation figure is given anywhere in the annual report.",
+      "category": "camping_movement",
+      "entities": [
+        "John Latimer",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4374",
+      "issue": 147,
+      "claim": "Janet Adamson reported that 1983 was the Ontario Camping Association's fiftieth anniversary, with a celebration on 25 April at its annual meeting, and that \"The Archives Committee is publishing a booklet of the OCA's history to commemorate this anniversary. This will be available in the Autumn.\" A 1983 booklet history of the Ontario Camping Association therefore exists. She also reports forty-nine Standards visits in the summer of 1982 and a \"last minute placement camper service\" matching parents to camp vacancies by telephone.",
+      "category": "sources",
+      "entities": [
+        "Janet Adamson",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1983",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4375",
+      "issue": 147,
+      "claim": "Two provincial associations confirmed Marjorie Booth's 10-12% membership estimate from the ground in 1983. Nova Scotia: \"our staff... visited all the camps to carry the message of the Association... Interestingly enough, and maybe not so, but some of the Directors operating camps had never heard of the Association! Apparently, our message and material is not filtering down to the camp level.\" Saskatchewan: \"We speak for about twenty camps but there are probably more than one hundred other camps out there who may or may not know we exist to speak for them.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Nova Scotia Camping Association",
+        "Saskatchewan Camping Association",
+        "Marjorie Booth"
+      ],
+      "date_ref": "1983",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4376",
+      "issue": 147,
+      "claim": "Lorne Bowering reported for British Columbia in 1982-83: \"Despite careful monitoring in previous years, our system of visits and subsequent accreditation had broken down. As a result of this summer project the records were updated and visits were completed,\" with government funding retaining Dr. Don Arnold & Associates, a major November meeting on accreditation \"Myth or Mandate,\" and \"regular meetings of the B.C. Camping Association were not held during the winter of 1982-83\" for want of participation.",
+      "category": "camping_movement",
+      "entities": [
+        "Lorne Bowering",
+        "British Columbia Camping Association"
+      ],
+      "date_ref": "1983",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4377",
+      "issue": 147,
+      "claim": "The Camping Advisor of Summer 1983 answered a director who had argued at the Congress for spanking campers — \"several of us felt that children grow up with too much leniency today and that a good spanking is often a way of letting a child know you care about him\" — unequivocally: \"if you strike anyone — camper or Staff — you are committing the crime of ASSAULT... If a leader in a camp situation strikes a child, we are of the position of siding with the child, IRRESPECTIVE OF CIRCUMSTANCES.\" It is the clearest statement in this run of the Canadian camping movement's position on corporal punishment.",
+      "category": "programs",
+      "entities": [
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1983-07",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4378",
+      "issue": 147,
+      "claim": "The Royal Life Saving Society's Aquatic Emergency Care programme was introduced in 1978, grew 50% a year, and certified over 2,300 staff in 1982 — about twenty hours for a Bronze Medallion holder, endorsed by St. John Ambulance, with a syllabus covering near-drowning physiology, spinal injuries, hypothermia and CPR. \"Municipalities and camps most often use AEC as the core of their pre-season or in-service training,\" so an AEC card is a 1980s camp waterfront qualification to look for.",
+      "category": "programs",
+      "entities": [
+        "Royal Life Saving Society"
+      ],
+      "date_ref": "1983",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4379",
+      "issue": 147,
+      "claim": "Pam Robbins of the Taylor Statten Camps contributed a natural history of the loon to Canadian Camping in Summer 1983, whose closing paragraph joins the acid rain thread: \"in the next few years many lakes in the eastern part of the continent may lose their ability to neutralize acid rain... Unless something is done, a painful silence may descend on our cherished lakes.\" Her photograph won first prize in the Canadian Nature category at the January 1983 Congress.",
+      "category": "context",
+      "entities": [
+        "Pam Robbins",
+        "Taylor Statten Camps"
+      ],
+      "date_ref": "1983-07",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4380",
+      "issue": 148,
+      "claim": "Bruno Morawetz's Archives Update of Autumn 1983: \"Cliff Labbett, Immediate Past President, is currently canvassing all the CCA Past Presidents for ideas to celebrate CCA's 50th Anniversary in 1986.\" In the autumn of 1983 the association's immediate past president and its archives chairman were jointly planning a fiftieth anniversary for 1986, which places the founding in 1936 and not in 1946 or 1949 — the association speaking about itself, through the two officers most likely to have checked. It does not touch the Ottawa-versus-Toronto question, on which Plewman and the archival holdings disagree while both giving 1936.",
+      "category": "camping_movement",
+      "entities": [
+        "Clifford Labbett",
+        "Bruno Morawetz",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4381",
+      "issue": 148,
+      "claim": "Jack Pearse's tribute to Mary Roy on her departure gives the national office's history from 1975 to 1983: \"Mary came to the CCA at the tail-end of John Latimer's presidency in the spring of 1975 and she served the camping community with great commitment and quality supporting John's successors in office — Ron Johnstone, Jack Pearse, Cliff Labbett and Jocelyn Palm... She negotiated a super arrangement with the American Camping Association for the distribution of their books throughout Canada — not only to camping folk but to libraries, schools and university courses. She was meticulous in co-ordinating Canada's participation and involvement in the first international conference on camping which was jointly sponsored by CCA and ACA at Minneapolis, Minnesota in 1979. With Brian Blackstock's leadership, Mary designed the format, layout and distributions of the new Canadian Camping Newsletter, beginning in the fall of 1976 and through her good friend, Ken Smith, the Director of the Non-Residents Branch of the National Sport & Recreation Centre, Mary Roy and Cliff Labbett arranged for the nationwide distribution of Canadian Camping.\"",
+      "category": "sources",
+      "entities": [
+        "Mary Roy",
+        "Jack Pearse",
+        "Brian Blackstock",
+        "Canadian Camping (magazine)",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4382",
+      "issue": 148,
+      "claim": "The Canadian Camping Newsletter began in the autumn of 1976, its format and layout designed by Mary Roy under editor Brian Blackstock, whose named editorship of the magazine ran 1977-1981. National distribution was arranged by Roy and Cliff Labbett through Ken Smith at the Non-Residents Branch of the National Sport and Recreation Centre in Ottawa, the same body that printed it. The CCA was the Canadian distributor of American Camping Association books by a negotiated arrangement into libraries, schools and university courses — which is why ACA titles fill the Canadian catalogue, and why an ACA book in a Canadian camp library of this period is not evidence of an American connection.",
+      "category": "sources",
+      "entities": [
+        "Mary Roy",
+        "Brian Blackstock",
+        "Canadian Camping (magazine)",
+        "American Camping Association"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1976",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4383",
+      "issue": 148,
+      "claim": "Jack Pearse credits Mary Roy with \"preparing grant submissions to the Federal Government and... the reconciliation of the financial statements for each project that was federally funded,\" and with encouraging provincial associations to exchange \"Provincial Newsletters, Board Minutes and Conference Reports\" with the National Office — which means Quebec material may sit in the national office's files and thence at Trent.",
+      "category": "archives",
+      "entities": [
+        "Mary Roy",
+        "Trent University",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1983-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4384",
+      "issue": 148,
+      "claim": "Bruno Morawetz reported in Autumn 1983: \"We have a new archivist working on our collection at Trent University. Congratulations to Mrs. Bernadine Dodge on her recent appointment at Trent. Interested members may contact Bernadine Dodge at: Bata Library, Trent University, Peterborough, Ontario K9L 7B8.\" So the CCA fonds had a named professional custodian from 1983. He repeated the deposit instruction in a narrower form: \"as many of you head into a new season of workshops, conferences and training events, now is the time to send copies of last year's conference programs to the CCA Archives c/o the National Office\" — so provincial and camp conference programmes, including any Quebec ones, were actively solicited into the fonds in 1983-84.",
+      "category": "archives",
+      "entities": [
+        "Bernadine Dodge",
+        "Bruno Morawetz",
+        "Trent University",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4385",
+      "issue": 148,
+      "claim": "National Camping Day 1984 was fixed for 21 March, the first day of spring, on the argument of Dennis McLelland that \"the first day of Spring is one that everyone knows but no other group «has» as their official day,\" with the theme \"Don't Wait for Summer — Think Camping Now!\" Posters went to the provincial offices in early November 1983 for distribution at pre-Christmas meetings or in seasonal mailings to member camps, each with a letter to the Director and an inquiry form, and \"each province should have a list of all its member camps ready to send out to those filling in the inquiry form.\" So the 1984 mailing did not route through Kanawana as the 1983 one did, and the ACQ was to hold a ready list of Quebec member camps in the winter of 1983-84.",
+      "category": "camping_movement",
+      "entities": [
+        "Marnie Ellis",
+        "Canadian Camping Association",
+        "Association des camps du Quebec",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1984-03-21",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4386",
+      "issue": 148,
+      "claim": "The whole front of Canadian Camping's Autumn 1983 issue — a bilingual editorial, the Camping Advisor's lead question, a four-page Council on Mind Abuse feature and a commissioned reply from a Presbyterian minister — is given to the death of twelve-year-old John Yarbough over the weekend of 3 July 1983 at the House of Judah camp, \"his neck and wrists... locked into the camp's stocks and, hunched over, he was beaten thirty times on his behind with a stick the size of a broom handle,\" with an autopsy finding at least one blow to the spine, sixty-six other children removed by court order and a manslaughter charge laid. It is the event behind the Summer 1983 Camping Advisor's unequivocal statement on striking children, and it dates precisely when the Canadian camping movement's public position on corporal punishment hardened.",
+      "category": "context",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983-07-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4387",
+      "issue": 148,
+      "claim": "John Vissers — a Presbyterian minister, former director of Glen Mhor Camp and former vice-president of Christian Camping International Canada — wrote the movement's most careful statement on religion in camping in this run, arguing that \"a neutral position of a 'no belief system' under the name of secularism or humanism is a myth\" and that the test is not the content of a camp's beliefs but the method of communicating them. Kanawana was a YMCA camp whose religious character moved from explicit Protestant devotion to none; Vissers's frame is the contemporary vocabulary for that change.",
+      "category": "context",
+      "entities": [
+        "John Vissers",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1983-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4388",
+      "issue": 148,
+      "claim": "Canadian Camping Vol. 35 No. 3 (Autumn 1983) contains no mention of Kanawana, of any Quebec camp, or of the ACQ anywhere in the issue. The Quebec-facing content of this run stops after the Summer 1983 annual report. The null is recorded explicitly.",
+      "category": "methodology",
+      "entities": [
+        "Canadian Camping (magazine)",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1983-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4389",
+      "issue": 148,
+      "claim": "The second annual British Columbia Leadership Development Camp of 1983, with over fifty counsellors from about twenty-five camps, had Jack Pearse as its special guest for two and a half hours on song-leading technique, gave every participant a copy of his Lead on... Counsellor, and ended with Pearse leading \"Let There Always Be a Song, that great new song by Mark Baldwin that everyone who was at the International Camping Congress will remember\" — a datable 1983 camp song spreading by exactly the mechanism that carries songs between camps, a national figure teaching at a provincial leadership camp.",
+      "category": "traditions",
+      "entities": [
+        "Jack Pearse",
+        "Mark Baldwin",
+        "British Columbia Camping Association"
       ],
       "date_ref": "1983",
       "sources": [
