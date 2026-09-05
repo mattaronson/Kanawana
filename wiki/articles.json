@@ -2318,6 +2318,12 @@
           "at": "2026-09-05T00:00:00Z",
           "by": "auto",
           "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -2378,7 +2384,12 @@
         "f_1883",
         "f_1884",
         "f_1889",
-        "f_4838"
+        "f_4838",
+        "f_4843",
+        "f_4845",
+        "f_4846",
+        "f_4847",
+        "f_4848"
       ],
       "sources_cited": [
         "src_concordia_atom_12B05",
@@ -2394,7 +2405,7 @@
         "sources-index"
       ],
       "file_id": null,
-      "word_count": 31840,
+      "word_count": 31932,
       "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -9633,21 +9644,55 @@
           "at": "2026-08-14T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
-      "ralph_loops_completed": 0,
-      "kb_facts_used": [],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0666",
+        "f_2015",
+        "f_4843",
+        "f_4844",
+        "f_4845",
+        "f_4846",
+        "f_4847",
+        "f_4848",
+        "f_4849"
+      ],
       "sources_cited": [
+        "src_ia_kanawana_directors_report_1976",
         "src_ia_kanawana_place_to_grow_1988",
         "src_ia_kanawana_report_1964",
         "src_ia_kanawana_report_1969",
+        "src_ia_kanawana_report_1970",
+        "src_ia_kanawana_report_1971",
+        "src_ia_kanawana_report_1973",
+        "src_ia_kanawana_report_1974",
+        "src_ia_kanawana_report_1975",
+        "src_ia_kanawana_report_1977",
+        "src_ia_kanawana_report_1978",
         "src_ia_kanawana_report_1979",
+        "src_ia_kanawana_report_1987",
         "src_ia_sgw_annual_report_1894_1895",
         "src_ia_sgw_annual_report_1910",
         "src_ia_ymca_montreal_annual_reports_collection",
-        "src_ia_ymca_montreal_fonds_collection"
+        "src_ia_ymca_montreal_fonds_collection",
+        "src_ymf_1900_11_30_report_of_the_junior_camp_committee",
+        "src_ymf_sgw_ymca_annual_report_1903",
+        "src_ymf_sgw_ymca_annual_report_1906",
+        "src_ymf_sgw_ymca_annual_report_1908",
+        "src_ymf_sgw_ymca_annual_report_1909",
+        "src_ymf_sgw_ymca_annual_report_1951",
+        "src_ymf_sgw_ymca_annual_report_1960",
+        "src_ymf_sgw_ymca_annual_report_1961",
+        "src_ymf_sgw_ymca_annual_report_1962"
       ],
-      "open_questions": 5,
+      "open_questions": 4,
       "cross_links": [
         "history/timeline-overview",
         "history/founding-1894",
@@ -9658,7 +9703,7 @@
         "site/camp-otoreke"
       ],
       "file_id": null,
-      "word_count": 2596,
+      "word_count": 3707,
       "notes": "Created 2026-08-14 (p_256) from the 114-annual-report sweep. ~60 seasons of camper counts and camper-weeks, 1894-2023, with SIX internal inconsistencies carried as flags rather than resolved -- every one of them the association contradicting itself. Kept as a separate article so the contradictions travel with the numbers. No aggregate totals computed: too many missing years, the 1998-2001 rows count a different population, and the two documented lifetime totals (40,000 in 1964, 34,000 in 1984) contradict each other. Marked draft, not stub, because it is transcription of primary figures rather than synthesis; NOT yet VERIFY-passed -- figures should be spot-checked against the OCR before advancing."
     },
     {
@@ -10187,6 +10232,12 @@
           "at": "2026-09-05T00:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 2,
@@ -10254,7 +10305,10 @@
         "f_4836",
         "f_4837",
         "f_4838",
-        "f_4840"
+        "f_4840",
+        "f_4843",
+        "f_4846",
+        "f_4848"
       ],
       "sources_cited": [
         "src_cache_sgw_ymca_annual_report_1894_1895",
@@ -10291,7 +10345,7 @@
         "connections/related-camps/quebec-camp-landscape"
       ],
       "file_id": null,
-      "word_count": 6415
+      "word_count": 6534
     },
     {
       "article_id": "points-of-contact",

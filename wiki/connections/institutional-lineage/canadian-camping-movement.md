@@ -495,9 +495,17 @@ no season between 1894 and 2019. No source records one, and the years most likel
 run are documented as operating: the camp ran through both world wars with boy-weeks flat to rising
 across 1940–45, ran in 1918 while Camp Stephens did not, and stayed open through the 1946 polio
 outbreak on Dr. Cushing's advice with only canoe trips cancelled. But [[meta/attendance-series|the
-attendance series]] has no figure at all for many years, and **absence of a figure is not evidence of
-operation**. The 126 is stated on that basis. Anyone wishing to rely on it publicly should first close
-the gaps in the series for the years it covers.
+attendance series]] had no figure at all for many years, and **absence of a figure is not evidence of
+operation**.
+
+**Twenty-two of those years were closed on 2026-09-05, from documents already held here.** The camp's
+own directors' reports and the association's annual reports attest seasons for 1900, 1902–03, 1905,
+1907–08, 1950–51, 1960–62, 1970–71, 1973–79 and 1985–87 — the 1970s now run unbroken with camper-week
+figures for every season from 1970 to 1979 [f_4843, f_4845, f_4846, f_4847, f_4848]. The gap was not an
+absence of evidence but an absence of assembly: every one of those documents was already catalogued
+here and marked read. **Still blank: 1911, 1914, 1919, 1920, 1981–1984, 1989–1993, 1995–1997, 2002–04
+and most of 2006–19.** Until those are closed the 126 remains a claim resting partly on silence, and
+anyone wishing to use it publicly should say so.
 
 ### The association after the money stopped: a delivery agent with a federal programme
 

@@ -401,9 +401,15 @@ Big Cove's three candidate founding dates [f_4751].
 **The assumption inside the 126 is named, not buried.** It requires that Kanawana missed no season
 between 1894 and 2019. No source records a missed season, and the years most likely to have broken the
 run are documented as operating — both wars, 1918 specifically, and the 1946 polio season. But
-[[meta/attendance-series|the attendance series]] has no figure at all for many of those years, and
-**absence of a figure is not evidence of operation** [f_4752]. Closing those gaps is queued as `p_403`,
-and the figure should not be used publicly until it is done.
+[[meta/attendance-series|the attendance series]] had no figure at all for many of those years, and
+**absence of a figure is not evidence of operation** [f_4752].
+
+**Twenty-two of those years were closed on 2026-09-05** from documents already in this repository — the
+camp's own directors' reports and the association's annual reports — covering 1900, 1902-03, 1905,
+1907-08, 1950-51, 1960-62, 1970-71, 1973-79 and 1985-87, with the 1970s now unbroken and carrying a
+camper-week figure for every season [f_4843, f_4846, f_4848]. **Still blank: 1911, 1914, 1919, 1920,
+1981-1984, 1989-1993, 1995-1997, 2002-04 and most of 2006-19.** Until those close the 126 rests partly
+on silence, and should be used publicly only with that said.
 
 ## What Kanawana actually is
 
@@ -431,9 +437,12 @@ across the country, and the century that closed its own sibling camp on the orig
 
 ## Open Questions
 
-1. [Critical] Close the operation gaps in [[meta/attendance-series|the attendance series]] for
-   1894-2019 so that the 126-season figure rests on evidence of operation rather than on the absence of
-   evidence of closure (`p_403`).
+1. [Critical, advanced 2026-09-05] Close the operation gaps in [[meta/attendance-series|the attendance
+   series]] for 1894-2019 so that the 126-season figure rests on evidence of operation rather than on
+   the absence of evidence of closure (`p_403`). Twenty-two seasons closed; **1911, 1914, 1919, 1920,
+   1981-1984, 1989-1993, 1995-1997, 2002-04 and most of 2006-19 remain**. The 1990s are within reach
+   through the plaque corpus and the L&V winners roll, the 2010s through the YMCAs of Quebec annual
+   reports; 1911, 1914 and 1915 need annual-report volumes this project does not hold.
 2. [Important] Did Camp Stephens operate in the summer of 2021? Currently an explicit null [f_4747].
 3. ~~[Important] Was Camp Stephens' wartime closure in 1917 or 1918?~~ **[Resolved 2026-09-05 — 1918.]**
    The camp's own 125th Anniversary Chapel Service and the Lake of the Woods Museum newsletter both give

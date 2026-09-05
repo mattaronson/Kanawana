@@ -1,8 +1,8 @@
 {
-  "version": "6.29",
-  "kb_version": "6.29",
+  "version": "6.30",
+  "kb_version": "6.30",
   "migrated_from": "3.3",
-  "fact_count": 4804,
+  "fact_count": 4811,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -86125,6 +86125,132 @@
       "date_ref": "1919",
       "conflicts_with": [],
       "added_version": "6.29",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4843",
+      "claim": "THE 1970s ATTENDANCE SERIES, COMPLETE, FROM THE CAMP'S OWN DIRECTORS' REPORTS ALREADY IN THIS REPO. Kanawana's directors' reports for 1971 and 1973-1979 are cached in sources/cache/ymca-montreal-fonds/ and were marked extracted, but their attendance figures had never been carried into the attendance series. 1971: 481 campers (284 boys, 197 girls) and 1,247 camper weeks (743 boys, 504 girls). 1975: 475 different children, 1,356 kamper weeks, the report also giving 1,264 for 1974 and 1,276 for 1973. 1976: 480 different children from six provinces and seven countries, 1,358 kamper weeks against a budget of 1,250. 1977: 414 different children, 1,174 kamper weeks, a significant decrease, with 108 kamper weeks of cancellations after 1 June. 1978: 442 different children, 1,227 camper weeks, up 9% on 1977. 1979: 441 kampers plus 18 C.I.T.s, 1,375 kamper weeks including 132 for the C.I.T.s, returnee rate 48.80%. Seven consecutive seasons of documented operation, 1973 to 1979, in the camp's own records, plus 1971.",
+      "sources": [
+        "src_ia_kanawana_report_1971",
+        "src_ia_kanawana_report_1975",
+        "src_ia_kanawana_directors_report_1976",
+        "src_ia_kanawana_report_1977",
+        "src_ia_kanawana_report_1978",
+        "src_ia_kanawana_report_1979"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1971-1979",
+      "conflicts_with": [],
+      "added_version": "6.30",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4844",
+      "claim": "THE MID-1980s, FROM THE 1987 DIRECTOR'S REPORT'S OWN COMPARATIVE TABLE: camper weeks 1,412 in summer 1987 (93 per cent occupancy), 1,400 in summer 1986 (92.5 per cent), 1,214 in summer 1985 (80 per cent). Les Voyageurs de la Verendrye ran 46 weeks in summer 1987 against 22 in summer 1986. Three consecutive seasons documented as operating, in a stretch where the attendance series previously carried nothing at all.",
+      "sources": [
+        "src_ia_kanawana_report_1987"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Camp Kanawana",
+        "Les Voyageurs de la Verendrye"
+      ],
+      "date_ref": "1985-1987",
+      "conflicts_with": [],
+      "added_version": "6.30",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4845",
+      "claim": "1970: 1,442 CAMPER WEEKS. The 1970 Kamp Kanawana annual report, written by a Director of Program who took up the post on 1 March 1970, records that registration started slowly \"but our drench mailings helped it increase to 1442 weeks this Summer\".",
+      "sources": [
+        "src_ia_kanawana_report_1970"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1970",
+      "conflicts_with": [],
+      "added_version": "6.30",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4846",
+      "claim": "1962: 590 BOYS AND 12,425 CAMPER DAYS, from the statistical summary of the YMCA of Montreal's 1962 annual report, which reports resident boys' camping separately from the city day camps and fun clubs. The 1960 report records that \"Kamp Kanawana for boys operated for eight weeks at near capacity\" and the 1961 that the camp ran \"for the second season\" on a basis of planned group development, with the Zeller Family Foundation study's first findings tested \"last summer at Kanawana\". Three seasons attested that the series carried nothing for.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1962",
+        "src_ymf_sgw_ymca_annual_report_1960",
+        "src_ymf_sgw_ymca_annual_report_1961"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1960-1962",
+      "conflicts_with": [],
+      "added_version": "6.30",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4847",
+      "claim": "THE 1950 AND 1951 SEASONS, ATTESTED WITHOUT A FIGURE FOR EITHER. The YMCA of Montreal's report for the year ending 31 December 1951 -- the hundredth annual report, and the first under a fiscal year matching the calendar -- states: \"Our three well-equipped summer camps experienced successful seasons... In spite of an unusually wet summer, aggregate attendance at Kamp Kanawana was above the previous year.\" That sentence attests two seasons at once: 1951, which it reports, and 1950, which it compares against -- a camp cannot be above a previous year's attendance in a year that had none. The 1950 season falls in the gap left by the association's change of fiscal year, when the reporting period moved from ending 31 March to ending 31 December.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1951"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1950-1951",
+      "conflicts_with": [],
+      "added_version": "6.30",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4848",
+      "claim": "THE EARLY GAP YEARS AT LAC ST. JOSEPH, ATTESTED FROM THE ASSOCIATION'S OWN REPORTS. Reading each report as covering the PREVIOUS summer, which the association's fiscal year ending 30 April requires: 1900 -- the Report of the Junior Camp Committee, 1900, records the camp held 28 June to 14 July with 45 boys, 6 leaders and 17 visitors under Mr. Calhoun and Mr. Brown, six tents, eleven wet days out of sixteen, a cook \"disgustingly dirty in his work\", and a balance of $5.05; 1902 -- the 1903 report describes a Junior Committee with charge of the Boys' Camp from mid-June to 12 July and a Senior Committee taking the balance of the season; 1905 -- the 1906 report, \"We consider it to have been one of the most successful Camps we have ever held\"; 1907 -- the 1908 report, \"The Junior Camp was held in two sections, commencing June 15th, the first two weeks for Business Boys, with 28 registered; the second, two weeks for the School Boys, with 41 and eight leaders, making a total attendance of 77\"; 1908 -- the 1909 report thanks \"the volunteer leaders with the Junior Camp\" for making \"this season's Camp a success\". 1903 already had a figure in this knowledge base that the attendance series had never carried: 210 campers at Camp Jubilee (f_0666).",
+      "sources": [
+        "src_ymf_1900_11_30_report_of_the_junior_camp_committee",
+        "src_ymf_sgw_ymca_annual_report_1903",
+        "src_ymf_sgw_ymca_annual_report_1906",
+        "src_ymf_sgw_ymca_annual_report_1908",
+        "src_ymf_sgw_ymca_annual_report_1909"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Camp Jubilee",
+        "Camp Kanawana",
+        "Lac St. Joseph"
+      ],
+      "date_ref": "1900-1908",
+      "conflicts_with": [],
+      "added_version": "6.30",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4849",
+      "claim": "\"THE EIGHTY-SECOND YEAR OF KAMP KANAWANA HAS COME TO AN END\" -- the opening line of the 1975 director's report. 1894 plus 81 is 1975, so the camp's own director was counting from 1894 in the middle of the 1970s. This is a fifth season-count in the same line: the 1946 report's \"52nd for boys arranged by the Montreal Association\" (1945), the 1966-67 report's \"seventy-third year of operation\" (1966), the 1968 report's 75th anniversary (1968) and the 1988 report's \"94th year of operation this past summer\". Each is a statement by the institution that the seasons had been running without interruption to that point, made by people in a position to know, and they agree with one another. That is a different kind of evidence from a per-year attendance figure and a weaker one -- a round anniversary is a thing an institution can get wrong, and this one demonstrably ran two competing clocks, 1894 and 1910 (f_2145) -- but five counts, spread across forty-two years and consistent with a single unbroken series, is not nothing.",
+      "sources": [
+        "src_ia_kanawana_report_1975"
+      ],
+      "confidence": "inferred",
+      "category": "attendance",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1975",
+      "conflicts_with": [],
+      "added_version": "6.30",
       "added_by": "ralph_loop"
     }
   ]

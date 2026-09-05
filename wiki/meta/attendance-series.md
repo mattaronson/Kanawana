@@ -1,7 +1,7 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 5*
-*Last Updated: 2026-08-14*
+*Status: draft | Sources: 8*
+*Last Updated: 2026-09-05*
 
 ## Overview
 
@@ -23,8 +23,14 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1897 | 24 | — | 25 June – 9 July |
 | 1898 | 20 | 85 | Junior camp 23 June – 7 July |
 | 1899 | 37 | 72 | Log clubhouse opened, cost $700 |
+| **1900** | **45** | — | 28 June – 14 July, under Mr. Calhoun and Mr. Brown; 6 leaders, 17 visitors, six tents; eleven wet days out of sixteen; the cook "disgustingly dirty in his work"; balance $5.05 [f_4848] |
 | 1901 | 60 | 147 | Split by age: 17 "Business Boys," 43 "School" — the earliest documented sectioning |
+| **1902** | *(ran)* | *(ran)* | The Junior Committee had charge of the Boys' Camp "from the middle of June to the 12th of July," the Senior Committee the balance to 6 September [f_4848] |
+| **1903** | **210** | — | "210 campers attended Camp Jubilee in 1903" — a figure this project already held and this series had never carried [f_0666] |
 | 1904 | 79 | — | "the largest camp ever conducted" |
+| **1905** | *(ran)* | — | "We consider it to have been one of the most successful Camps we have ever held" [f_4848] |
+| **1907** | **77** | — | Two sections from 15 June: 28 Business Boys, then 41 School Boys with eight leaders [f_4848] |
+| **1908** | *(ran)* | — | The report thanks "the volunteer leaders with the Junior Camp" for making "this season's Camp a success" [f_4848] |
 | 1909 | 66 | — | 19 June – 17 July |
 
 ## Kanawana (1910–1949)
@@ -69,10 +75,12 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1948 | 328 | 1,327 | 585 parents' visits |
 | 1949 | 557 | 1,464 | 57 personnel; **1,210 Sunday chapel attendances** |
 
-## Kanawana (1952–2023)
+## Kanawana (1950–2023)
 
 | Season | Campers | Camper-weeks | Notes |
 |---|---|---|---|
+| **1950** | *(ran)* | — | Attested only in comparison: the 1951 report has Kanawana's attendance "above the previous year." The season falls in the gap left when the association moved its fiscal year from ending 31 March to ending 31 December [f_4847] |
+| **1951** | *(ran)* | — | "In spite of an unusually wet summer, aggregate attendance at Kamp Kanawana was above the previous year" [f_4847] |
 | 1952 | ~406 | — | The Long House built and dedicated mid-July |
 | 1953 | 450 | — | Avg stay 3.5 weeks |
 | 1954 | 446 | — | "the year of great rains" |
@@ -81,6 +89,9 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1957 | 558 | — | |
 | 1958 | 528 | — | |
 | 1959 | 526 | — | Voyageurs pilot, 30 boys |
+| **1960** | *(ran)* | — | "Kamp Kanawana for boys operated for eight weeks at near capacity"; the Zeller Family Foundation study of leadership and camper growth begins [f_4846] |
+| **1961** | *(ran)* | — | The second season run on "planned group development"; the study's first findings tested "last summer at Kanawana" [f_4846] |
+| **1962** | **590** | 12,425 *camper days* | From the statistical summary, which counts the city day camps separately [f_4846] |
 | 1963 | 602 | — | Includes Voyageurs; 75 leaders |
 | 1964 | 535 (+64 leaders) | — | 120 acres acquired |
 | 1965 | 420 | 1,200 or 1,182 ⚠️ | Attributed to weather, summer school, changed family holidays |
@@ -88,9 +99,20 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1967 | 421 | 1,098 | Plus 3,000 meals and 2,170 bed-nights for 664 Expo visitors |
 | 1968 | — | +35% on 1967 | **Coeducation begins**; 66 girls registered |
 | 1969 | 622 | 1,613 | A camper drowned this summer |
+| **1970** | — | **1,442** | Registration started slowly and was pulled up by "drench mailings" [f_4845] |
+| **1971** | **481** (284 boys, 197 girls) | **1,247** (743 + 504) | The first year the director's report breaks registration out by sex [f_4843] |
 | 1972 | 523 | — | **Over 35% of campers first-language French** |
-| 1974 | 475 | — | "second highest registration in 25 years" |
+| **1973** | — | **1,276** | From the 1975 report's own comparative [f_4843] |
+| **1974** | — | **1,264** | Same source. **See the correction below: the 475 this table carried at 1974 belongs to 1975** |
+| **1975** | **475** | **1,356** | "The eighty-second year of Kamp Kanawana has come to an end"; children from Canada, the U.S., Europe and Abu Dhabi; ~25 sponsored, plus children from an orphanage and Weredale House [f_4843, f_4849] |
+| **1976** | **480** | **1,358** | Six provinces and seven countries; budget was 1,250 weeks [f_4843] |
+| **1977** | **414** | **1,174** | A significant decrease, with 108 kamper weeks of cancellations after 1 June [f_4843] |
+| **1978** | **442** | **1,227** | Up 9% on 1977 [f_4843] |
+| **1979** | **441** + 18 C.I.T.s | **1,375** *(incl. 132 C.I.T. weeks)* | Returnee rate 48.8%, down 7.3 points [f_4843] |
 | 1980 | 750+ | — | |
+| **1985** | — | **1,214** | 80% occupancy [f_4844] |
+| **1986** | — | **1,400** | 92.5% occupancy; Les Voyageurs de la Verendrye 22 weeks [f_4844] |
+| **1987** | — | **1,412** | 93% occupancy; Les Voyageurs 46 weeks [f_4844] |
 | 1988 | — | 750 of 756 available = **99.2% occupancy** | |
 | 1994 | 101% of capacity | — | 70% return rate; centennial |
 | 1996 | 92% occupancy | — | |
@@ -123,6 +145,37 @@ And one that is not an arithmetic problem but a reporting one: **the 1918 report
 
 **A scope note that matters for the pre-1921 rows.** Those figures count the **boys' camp only**. The reports give the senior/members' camp separately, and it is often the larger of the two — the 1918 report, for instance, gives the Senior Camp "Attendance 90, as compared with 130, last year" under W. H. Henderson, W. A. MacLaren and M. F. Furey, right beside the 168 boys. The two series must not be added together.^1
 
+## The 2026-09-05 fill, and one correction it forced
+
+Twenty-two seasons were added to the tables above on 2026-09-05, and not one came from a new source.
+Every document behind them was already in this repository, catalogued and marked *extracted* — the
+camp's own directors' reports for 1971 and 1973–1979 and 1987, the YMCA of Montreal's annual reports,
+the Report of the Junior Camp Committee of 1900. **The gap was never an absence of evidence. It was an
+absence of assembly**: these documents had been mined for programme, staff and buildings, and their
+attendance lines had never been carried across [f_4843, f_4844, f_4845, f_4846, f_4847, f_4848].
+
+**The correction.** This table carried **475 campers at 1974**, with the note "second highest
+registration in 25 years," taken from the YMCA of Montreal's annual report for 1974–1975. The camp's
+own 1975 director's report says "This summer, we worked with 475 different children," and gives camper
+weeks of 1,356 for 1975 against 1,264 for 1974 and 1,276 for 1973 — so 475 is the **1975** figure, and
+1974 was the lower year of the two. The 475 has been moved and 1974 now carries its camper-week figure
+instead. The likely cause is the association's June-to-May fiscal year: a report labelled 1974–1975
+sits across two summers, and the wrong one was picked. That is the fourth dated error in this wiki
+traceable to the fiscal-year problem the Dating note warns about.
+
+**What the fill does not do is prove continuity.** These are seasons *attested*, and several are
+attested only in the weakest way the tables mark as *(ran)* — a season named in a sentence about
+something else, or, for 1950, attested only because the next year's report compares against it. That is
+still evidence of operation, which is what the 126-consecutive-seasons claim needs; it is not an
+attendance figure, and the tables do not pretend otherwise.
+
+**Still nothing at all for these seasons:** 1911, 1914, 1919 (as distinct from the disputed 289-boy
+season), 1920, 1981–1984, 1989–1993, 1995–1997 and most of 2010–2019. Some are close to reach: the
+Order of Owens roll, the plaque corpus and the L&V winners roll each carry named campers and results
+in years the annual reports skip, and the L&V roll alone runs unbroken across 1991–1998 [f_2015]. The
+years 1911, 1914, 1919 and 1920 are the hard ones, and the reports for 1912 and 1915 are the volumes
+this project does not hold.
+
 ## What the shape of the series shows
 
 Three things stand out and none of them is visible from any single article.
@@ -136,7 +189,13 @@ Three things stand out and none of them is visible from any single article.
 ## Open Questions
 
 1. [Important] Settle the 289-boy season. The FY1919-20 report's own audit date makes 1919 the natural reading, but three later tables disagree. A 1920 or 1921 season report, if one survives at Concordia, would fix the column.
-2. [Important] What are the missing years? No figure has been located for 1900, 1902–03, 1905–08, 1911, 1914, 1920, 1950–51, 1960–62, 1970–71, 1973, 1975–79, 1981–87, 1989–93, 1995, 1997, 2002–04 or 2006–19. Many are recoverable — the annual reports carry a Kanawana line most years, and the 1970s–80s season reports survive.
+2. [Important, largely closed 2026-09-05] What are the missing years? **Twenty-two were filled on
+   2026-09-05 from documents already in this repository** — 1900, 1902–03, 1905, 1907–08, 1950–51,
+   1960–62, 1970–71, 1973–79 and 1985–87 — and the 1974 figure was corrected. See "The 2026-09-05 fill"
+   above. **What is still blank: 1911, 1914, 1919, 1920, 1981–1984, 1989–1993, 1995–1997, 2002–04 and
+   most of 2006–19.** The nearest sources are the Order of Owens roll, the plaque corpus and the L&V
+   winners roll for the 1990s, the YMCAs of Quebec annual reports for the 2010s, and — for 1911, 1914
+   and 1915 — annual report volumes this project does not hold.
 3. [Nice-to-have] Reconcile the 40,000 (1964) and 34,000 (1984) lifetime totals, or establish that both are institutional round numbers rather than counts.
 4. [Nice-to-have] The balance-sheet property valuations run in every annual report from 1925 ($17,876.39) through at least 1951 ($70,567.80). A book-value series across eighty years is extractable but the columnar OCR is badly damaged and each figure needs checking against the page image — queued as `p_259`.
 5. [Nice-to-have] Fee data is sparse but now spans seven years: **$8.50/week is documented for 1923** (the *Gas Bag* Extra: "The cost is $8.50 per week. This includes one return trip from Montreal to Camp") **and again for 1927, 1928 and 1929** — unchanged across at least that span, each time with the note that it was deliberately below every other permanent camp "to keep the cost within reach of the average home."
@@ -158,6 +217,9 @@ Three things stand out and none of them is visible from any single article.
 3. YMCAs of Québec annual impact and community reports, 2020–2025, for the modern residential figures [src_ia_ymca_montreal_fonds_collection].
 4. Kamp Kanawana season reports, 1964–1979 and 1987 (Internet Archive), for figures the annual reports omit [src_ia_kanawana_report_1964, src_ia_kanawana_report_1969, src_ia_kanawana_report_1979].
 5. *Kanawana… A Place to Grow*, YMCA of Montreal report, 1988, for the 99.2% occupancy figure [src_ia_kanawana_place_to_grow_1988].
+6. Kamp Kanawana directors' reports, 1971 and 1973–1979 and 1987, read for attendance on 2026-09-05 [src_ia_kanawana_report_1971], [src_ia_kanawana_report_1973], [src_ia_kanawana_report_1974], [src_ia_kanawana_report_1975], [src_ia_kanawana_directors_report_1976], [src_ia_kanawana_report_1977], [src_ia_kanawana_report_1978], [src_ia_kanawana_report_1979], [src_ia_kanawana_report_1987], [src_ia_kanawana_report_1970]. See [f_4843], [f_4844], [f_4845], [f_4849].
+7. YMCA of Montreal annual reports for 1903, 1906, 1908, 1909, 1951, 1960, 1961 and 1962, read for the gap seasons on 2026-09-05 [src_ymf_sgw_ymca_annual_report_1903], [src_ymf_sgw_ymca_annual_report_1906], [src_ymf_sgw_ymca_annual_report_1908], [src_ymf_sgw_ymca_annual_report_1909], [src_ymf_sgw_ymca_annual_report_1951], [src_ymf_sgw_ymca_annual_report_1960], [src_ymf_sgw_ymca_annual_report_1961], [src_ymf_sgw_ymca_annual_report_1962]. See [f_4846], [f_4847], [f_4848].
+8. Report of the Junior Camp Committee, 1900, dated 30 November 1900 [src_ymf_1900_11_30_report_of_the_junior_camp_committee]. The 45 boys, the six tents, the eleven wet days and the $5.05. See [f_4848].
 
 ## Research Notes
 
