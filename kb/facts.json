@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 3713,
+  "fact_count": 3773,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -65675,6 +65675,1125 @@
         "W. Bertram Danson"
       ],
       "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3752",
+      "issue": 100,
+      "claim": "On 23 May 1973 the Quebec Camping Association's English Section made Mrs. Alta R. Kahn the first Honorary President in the Association's history; the tribute read on that occasion, printed in Canadian Camping, Fall 1973, is the fullest internal history of the Quebec association in this run.",
+      "category": "camping_movement",
+      "entities": [
+        "Alta Kahn",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1973-05-23",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3753",
+      "issue": 100,
+      "claim": "Alta R. Kahn began with the Quebec Camping Association in 1946; in 1958 she chaired the joint QCA/CCA conference and \"courageously suggested that the Quebec Camping Association celebrate its 'coming-of-age' party by holding, for the first time, its Conference in a hotel.\" A twenty-first birthday in 1958 puts the Quebec Camping Association's founding at 1937 — independent corroboration of the date this project holds from archival sources.",
+      "category": "camping_movement",
+      "entities": [
+        "Alta Kahn",
+        "Quebec Camping Association",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1958",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3754",
+      "issue": 100,
+      "claim": "Alta R. Kahn was Co-Chairman of the Quebec Camping Association's Standards Committee in 1959-60, \"when inspection of camps and accreditation were in the pioneer stage.\" This pushes Quebec camp accreditation back to 1959-60, several years before the 1965 round under Murray McFarlane that this read had as the earliest documented. Kanawana was an accredited Quebec camp, and the accreditation machinery existed earlier than the project had assumed.",
+      "category": "archives",
+      "entities": [
+        "Alta Kahn",
+        "Quebec Camping Association",
+        "Murray McFarlane",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1959",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3755",
+      "issue": 100,
+      "claim": "Alta R. Kahn was President of the Quebec Camping Association's English Section from 1960 to 1962 and simultaneously a CCA executive member; she was \"a major contributor to the realization of the founding of the Provincial Board (co-ordinating body of the English and French Sections), and served as the Board's second President from 1963 to 1965.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Alta Kahn",
+        "Quebec Camping Association",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1963",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3756",
+      "issue": 100,
+      "claim": "\"It was through Mrs. Kahn's efforts that the Quebec Camping Association finally secured its Provincial Charter in 1961\" — a checkable corporate fact, which Quebec's register of enterprises should hold.",
+      "category": "camping_movement",
+      "entities": [
+        "Alta Kahn",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1961",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3757",
+      "issue": 100,
+      "claim": "In 1973 Alta R. Kahn was still Chairman of the Quebec Camping Association English Section's Standards Committee, Co-Chairman of the joint QCA-ACQ Provincial Board Standards Committee, and a member of the Canadian Camping Association's National Standards Committee, credited with having \"assisted greatly in the establishing of Standards in the French-speaking Camps.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Alta Kahn",
+        "Quebec Camping Association",
+        "Association des camps du Quebec",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3758",
+      "issue": 100,
+      "claim": "Alta R. Kahn's career before camping, as given in the 1973 tribute: in 1908 the first Jewish teacher to graduate from Macdonald College, then five years teaching; 1909 active in Zionist work and the first campaign of the Federation of Jewish Charities; 1918 a founder of Montreal Hadassah; 1920 organiser of the first Junior Hadassah chapter in Canada; 1928-30 vice-president of the Eastern Division of Canadian Hadassah; 1931-33 its Chairman of Education; 1936-45 Executive Director of the Young Women's Hebrew Association; and 1946-49 Executive Secretary of the Jewish Community Camps (B'nai B'rith, Jewish Laurentian Fresh Air, and Wooden Acres), during which she \"instituted many new projects, including the first Pre-Camp Training Programs for Staff.\"",
+      "category": "biography",
+      "entities": [
+        "Alta Kahn",
+        "Macdonald College",
+        "Montreal Hadassah",
+        "Young Women's Hebrew Association",
+        "B'nai B'rith"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3759",
+      "issue": 100,
+      "claim": "Mary S. Edgar died on 17 September 1973. Mary L. Northway's memorial in Canadian Camping, Fall 1973, is the fullest account of her in the run.",
+      "category": "biography",
+      "entities": [
+        "Mary S. Edgar",
+        "Mary L. Northway"
+      ],
+      "date_ref": "1973-09-17",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3760",
+      "issue": 100,
+      "claim": "Mary Northway records the moment the Glen Bernard programme was invented. Aged about eleven in April 1922 she was taken to tea to meet the woman starting a girls' camp, having announced \"I'll only stay five minutes because I'm not going to her silly camp,\" and told Edgar about the Knights' club she had founded and her secret love of poetry. Edgar replied: \"Well, we won't have Knights at camp but we will have Indians. Perhaps you would help me organize the tribes,\" and offered her the chance to write poetry \"for the Scroll which would be read out in Council Ring.\"",
+      "category": "traditions",
+      "entities": [
+        "Mary S. Edgar",
+        "Mary L. Northway",
+        "Glen Bernard Camp"
+      ],
+      "date_ref": "1922-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3761",
+      "issue": 100,
+      "claim": "Mary Northway's 1973 memorial adds biographical facts about Mary S. Edgar: her parents Joseph and Mary Edgar settled Sundridge in 1885, before the railway, running the general store; her father went into lumbering and later became M.P.P. for the District of Parry Sound; her sisters were Margaret (Gilchrist), Anne and Betty (McTavish); her nephew John Gilchrist and his wife Barb took over Glen Bernard in 1955; she was made Honorary Reeve of Strong, Joly Township and Sundridge in 1967; and as a centennial project she bought the \"High Rock\" property and made it a park for the village \"because the cottagers have taken all the lakeshore and the village people have no campsite of their own.\" She is buried at Sundridge.",
+      "category": "biography",
+      "entities": [
+        "Mary S. Edgar",
+        "John Gilchrist",
+        "Glen Bernard Camp",
+        "Sundridge"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3762",
+      "issue": 100,
+      "claim": "Mary Northway records a near-complete unpublished manuscript by Mary S. Edgar on her family's early days, under the working title \"Turn of the Century for Suzanne Marie,\" and calls its publication \"a challenge to the Canadian Camping Association\" — a findable lost document.",
+      "category": "sources",
+      "entities": [
+        "Mary S. Edgar",
+        "Mary L. Northway",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3763",
+      "issue": 100,
+      "claim": "Mary Northway writes that Mary S. Edgar was \"the right person to initiate and become first editor of the Canadian Camping Bulletin (February 1949, and remained such until April 1953. The Bulletin has evolved into this Magazine.)\" Charles Plewman credits Edgar as first editor of the earlier Ontario bulletin financed by the T. Eaton Company, and dates the first printed national magazine to February 1949. The two accounts are reconcilable but are separate claims from separate witnesses, and neither is being used to settle the other.",
+      "category": "sources",
+      "entities": [
+        "Mary S. Edgar",
+        "Mary L. Northway",
+        "Charles Plewman",
+        "Canadian Camping (magazine)"
+      ],
+      "confidence": "disputed",
+      "date_ref": "1949-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3764",
+      "issue": 100,
+      "claim": "Mary Northway states that Mary S. Edgar had recently established a trust fund for publications of the Canadian Camping Association, and was made Honorary President of the CCA in April 1960. The same issue's masthead reads \"The Canadian Camping Association is indebted to The NEATHERN Trust for its support of 'Canadian Camping' through a substantial donation to assist in the publication of this issue,\" and Brian Blackstock's 1972 age-group study was financed by the same Neathern Trust. Whether the Neathern Trust is Edgar's publications fund is not stated anywhere and is not assumed here.",
+      "category": "sources",
+      "entities": [
+        "Mary S. Edgar",
+        "Canadian Camping Association",
+        "Neathern Trust",
+        "Brian Blackstock"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3765",
+      "issue": 100,
+      "claim": "Mary S. Edgar's last public address was at the National Camp Directors and Camping Standards Workshop at Geneva Park in February 1973: \"I don't know whether you realize how fortunate you are in just having the Canadian Camping Association,\" followed by three of her own poems, her favourite quotation — \"To the worker who can dream and the dreamer who can work, life surrenders all things\" — and a standing ovation. The Glen Bernard camp hymn she wrote in 1924 was sung at her funeral.",
+      "category": "biography",
+      "entities": [
+        "Mary S. Edgar",
+        "Geneva Park",
+        "Glen Bernard Camp"
+      ],
+      "date_ref": "1973-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3766",
+      "issue": 100,
+      "claim": "The Canadian Camping Association abandoned National Camping Day in 1973: the president's message states \"National Camping Day will not be held again until 1976,\" and the news column gives the evaluation that killed it — \"The Committee mailed out approximately 600 evaluation forms to member camps across Canada and received 48 replies indicating that 24 camps participated, 24 did not.\" Of roughly 600 member camps, twenty-four are known to have taken part, so the absence of any recorded Kanawana observance is not evidence of anything.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3767",
+      "issue": 100,
+      "claim": "Stan Wild reported in Fall 1973 that \"sufficient votes were received by the deadline date, Nov. 20th, to approve the new Constitution\" of the Canadian Camping Association, to be instituted by the April 1974 annual meeting, with a National Vice-President to be elected by 31 January 1974. He credited Quebec for the bilingual text: \"It is completely bilingual, accomplished by our friends in Quebec, Yves Beauregard in particular.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Stan Wild",
+        "Yves Beauregard",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1973-11-20",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3768",
+      "issue": 100,
+      "claim": "The Canadian Camping Association's 1973 government relations, as reported by John Latimer: dialogue continuing with the Secretary of State, Hon. Hugh Faulkner, on Opportunities for Youth grants and camping programmes; communication with Hon. Robert Andras, Manpower and Immigration, concerning foreign students, with no indication yet whether \"another year's exemption will be granted\" — a live employment-law issue for camps hiring foreign staff in 1974; and continuing financial support from Recreation Canada.",
+      "category": "camping_movement",
+      "entities": [
+        "John Latimer",
+        "Hugh Faulkner",
+        "Robert Andras",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3769",
+      "issue": 100,
+      "claim": "A \"Central Information Bureau\" under Brian Blackstock was announced in Fall 1973, to be built from provincial reports, documents, research papers and books solicited by the president — a second national collecting effort alongside the archive the CCA planned to deposit at the University of Waterloo.",
+      "category": "archives",
+      "entities": [
+        "Brian Blackstock",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3770",
+      "issue": 100,
+      "claim": "The Quebec Camping Association / Association des camps du Quebec conference for 1974 was set for the Queen Elizabeth Hotel, Montreal, 28-30 March — a joint English-and-French provincial conference in Kanawana's own city. The Canadian Camping Association's own 1974 calendar also included a National Workshop at Camp Richildaca near Toronto, 26-28 February, with emphasis on day camping standards, and its Board and Annual Meeting at St. John's, 25-26 April.",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec Camping Association",
+        "Association des camps du Quebec",
+        "Canadian Camping Association",
+        "Queen Elizabeth Hotel"
+      ],
+      "date_ref": "1974-03-28",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3771",
+      "issue": 100,
+      "claim": "Helen Stewart met Chief Dan George at the Toronto Camping Show in 1973, where his voice over a loon's cry had been used in radio advertising: \"To set up camp beside a lake or stream, to know the freedom of the winds, the dancing of the sun on the water, it makes my heart soar like an eagle.\" She told him \"about the many campers across Canada and our keen interest in Indian Lore,\" and he inscribed his photograph \"To all campers of Canada.\" The note gives him as Honorary Chief of the Squamish and Shuswap, Academy Award nominee for Old Lodge Skins in Little Big Man, twenty-seven years a longshoreman, and recently awarded the Human Relations Award by the Canadian Council of Christians and Jews.",
+      "category": "context",
+      "entities": [
+        "Chief Dan George",
+        "Helen Stewart"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3772",
+      "issue": 100,
+      "claim": "Mors Kochanski's \"Winter Wilderness Survival\" (Canadian Camping, Fall 1973) is an early published piece by the freelance instructor who later became the standard authority on northern bushcraft. Its governing formulation: \"a person of average health can last four days without water and ten times longer with unlimited drinking water. It is the cold that makes the difference because, in general, the cold may allow an hour of survival for each day of survival in the summer.\" Being prepared means \"carrying matches and an axe with a handle at least 28 inches long and a head at least 3 lbs.\"",
+      "category": "programs",
+      "entities": [
+        "Mors Kochanski"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3773",
+      "issue": 100,
+      "claim": "Mors Kochanski's 1973 survival article states that \"it takes an average of five days for a search to get underway when someone realizes that you are missing\"; that three of anything signals distress and one of anything is the answer; that \"Their greatest asset at that moment was time and the situation could best be handled by 'hibernating' rather than frenzied activity... Once you lose your will to live, the inevitable will happen\"; and that \"As the bush is neutral, neither for nor against you, it will be up to you what you get out of it.\"",
+      "category": "programs",
+      "entities": [
+        "Mors Kochanski"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3774",
+      "issue": 100,
+      "claim": "Brian Blackstock's \"Extend Your Season by Winterizing\" (Fall 1973) describes how a Canadian camp converted a summer cabin for off-season school and community use: choose a building close to a water source, preferably with sleeping quarters separate from living and dining; work done by \"former staff or friends who would like to 'get away from it all and do something'\"; electric heating, \"not as expensive as we were warned it would be\"; and a wall build-up of stapled insulation, a plastic moisture barrier, tar paper stapled horizontally, then unfinished pine boards nailed a quarter to half an inch apart so the tar paper shows.",
+      "category": "facilities",
+      "entities": [
+        "Brian Blackstock"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3775",
+      "issue": 100,
+      "claim": "Kirk Wipper reviewed \"Outdoor Education — 'Without Boundaries', Proceedings of the International Conference in Outdoor Education held at Camp Kandalore and the Forest Technical School, 28 September - 1 October 1972,\" conducted \"for nearly six hundred persons\" and available from Wipper at the University of Toronto for $3.00 plus 50 cents postage; its contents include summaries of the Chapel Service and an Indian Council night, and a full list of speakers and delegates. Ron Johnstone placed the same October 1972 gathering of 600 outdoor-education leaders at Dorset; the two locations are both in the Haliburton area and the discrepancy is recorded, not resolved.",
+      "category": "sources",
+      "entities": [
+        "Kirk Wipper",
+        "Camp Kandalore",
+        "Ron Johnstone"
+      ],
+      "confidence": "disputed",
+      "date_ref": "1972-09-28",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3776",
+      "issue": 100,
+      "claim": "Tony Fry of the YMCA of Metropolitan Toronto Camping Service advertised in Fall 1973 for a Director of an Ontario co-ed resident camp of one hundred six-to-ten-year-olds and thirty staff, minimum twenty-five years of age — a YMCA co-ed camp directorship specification from 1973.",
+      "category": "inter-camp",
+      "entities": [
+        "Tony Fry",
+        "YMCA of Metropolitan Toronto"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3777",
+      "issue": 100,
+      "claim": "Canadian Camping's subscription rose from $3 to $4 a year and single copies from $1 to $1.25 with the Fall 1973 issue; the editor admitted the editorial committee \"with the exception of two people... is Ontario-oriented,\" and reported that the CCA's fee income \"has for several years been around the $3000.00 figure, but it is now quite unrealistic.\"",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping (magazine)",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3778",
+      "issue": 101,
+      "claim": "Al Knox, former Director of Camp Wanakita, wrote in Canadian Camping, Winter/Spring 1974: \"If you want to pursue the concept of participative camping further I recommend that you read Hedley G. Dimock's address to the Canadian Camping Association meeting (March 2-4, 1967), 'Canadian Camping — Its Resistance to Change'. Hedley discusses these concepts in depth from the perspectives of 1) camper development and 2) the function and influence of the camp director.\"",
+      "category": "biography",
+      "entities": [
+        "Al Knox",
+        "Hedley Dimock",
+        "Camp Wanakita",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1967-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3779",
+      "issue": 101,
+      "claim": "Canadian Camping's own April 1967 conference report records: \"the delegates were in a position to hear Dr. Hedley Dimock's keynote address on the Individual. From 'Springboard No. 1' Dr. Dimock lectured to camp directors urging them to change from repressive to participative methods of programming. In the 'Feedback' sessions the directors 'participated' by getting back at him.\"",
+      "category": "biography",
+      "entities": [
+        "Hedley Dimock",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1967-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3780",
+      "issue": 101,
+      "claim": "A Manitoba camp director wrote in Canadian Camping, Autumn 1967: \"Heavily impressed by Hedley Dimock at the Canadian Camping Association Conference we are introducing some measure of participatory camping at the camp this year.\"",
+      "category": "biography",
+      "entities": [
+        "Hedley Dimock",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1967",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3781",
+      "issue": 101,
+      "claim": "Hedley G. Dimock, who spent 1960-61 studying counsellor effectiveness at Camp Kanawana, gave the March 1967 Canadian Camping Association keynote address \"Canadian Camping — Its Resistance to Change,\" which put \"participative camping\" into the working vocabulary of Canadian camp directors; camps were still citing it by name seven years later. The address itself has not yet been located; the OCA Conference Digests for 1966-68 and the CCA's own archive are where to look.",
+      "category": "biography",
+      "entities": [
+        "Hedley Dimock",
+        "Camp Kanawana",
+        "Canadian Camping Association"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1967-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3782",
+      "issue": 101,
+      "claim": "Al Knox's 1974 statement of participative camping distinguishes \"a more traditional style in which the benefits of good camp program are stressed\" from \"a more 'participative' style in which program is seen as a tool to help the participant learn more about himself\" — the difference being \"the extent to which program is seen as a goal or as a tool.\" His challenge to camps: \"How many of our camps or programs are evaluated on the extent (or the effort made) to which such growth has been achieved versus evaluation based on number of participants, degree of fun (alone)? For that matter, do criteria exist in our evaluation processes to measure such personal development?\"",
+      "category": "programs",
+      "entities": [
+        "Al Knox",
+        "Camp Wanakita"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3783",
+      "issue": 101,
+      "claim": "Al Knox names three participative mechanisms tried at Camp Wanakita: camper councils open to any interested camper (\"Don't sell the junior campers short. You will find that they have the creative ideas — not being hindered by tradition\"); a three-phase system in the junior section moving from counsellor-planned programme, to campers and counsellors planning together, to campers planning as a group with the counsellor \"assuming a truly advisory role\"; and decentralised cabin-centred seniors where \"counsellors are challenged to be 'advisors' vs. leaders.\"",
+      "category": "programs",
+      "entities": [
+        "Al Knox",
+        "Camp Wanakita"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3784",
+      "issue": 101,
+      "claim": "Madelene Allen, Director of Camp Ouareau and a member of the Quebec Camping Association Standards Committee, described the provincial standards from inside an accredited Quebec camp in Winter/Spring 1974: \"We, in Quebec, are familiar with our provincial standards. We view this tome in different lights depending on the time of year... Even though we know we have done our best, we view it with slight trepidation as we leaf through its pages the night before the visitor is expected.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Madelene Allen",
+        "Camp Ouareau",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3785",
+      "issue": 101,
+      "claim": "Madelene Allen gave the Quebec standards document and its marking scheme to her five CITs at the six-week point of their training, in pairs, a week each on different sections: they interviewed the director with pencil and notebook, shadowed senior staff, were given the records of programmes and staff lists, and \"inspected the waterfront, examined the canoes, counted the toilets, and checked the outlets of the septic tanks after a heavy rain.\" This is what a Quebec standards visitation covered in 1974, and it confirms there was a written marking scheme as well as a standards document.",
+      "category": "archives",
+      "entities": [
+        "Madelene Allen",
+        "Camp Ouareau",
+        "Quebec Camping Association",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3786",
+      "issue": 101,
+      "claim": "Rev. Philip A. Giberson of the Saint John Valley Bible Camp, New Brunswick, summed up twenty-five years of watching camping change in Winter/Spring 1974: \"I have watched the changes in camping patterns in the past 25 years and see little change in the actual camper. They still want camping and not glorified entertainment.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Philip Giberson"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3787",
+      "issue": 101,
+      "claim": "Neil Graham of Pioneer Ranch Camp defines a wide game in Canadian Camping, Winter/Spring 1974, as \"a game involving large teams of people over a large area of land,\" credits Joe Curry as \"the basic 'brain' behind many of these games,\" and sets out Capture the Flag in full: two teams, territories with a clearly marked boundary, flags placed in a circle of flour or toilet paper and visible from a stated distance, attackers \"killed\" by having an article seized — \"a crepe paper arm band, a piece of adhesive off the forehead, a hat\" — and a prisoner's base freed by a comrade touching a prisoner without being caught.",
+      "category": "programs",
+      "entities": [
+        "Neil Graham",
+        "Pioneer Ranch Camp",
+        "Joe Curry"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3788",
+      "issue": 101,
+      "claim": "Neil Graham's 1974 wide-game design principles include: make sure everyone can play to the end and that \"people are 'recycled'\"; \"try to design your games so there is a role for the quieter, non-athletic campers\"; make the scores high; check the ground beforehand and \"get rid of barbed wire, open wells, dangerous holes\"; \"Night games in the bush are dangerous. Emphasize skulking at night rather than running. You've got to be sneaky, not fast\"; and \"get the whole camp excited about the game ahead of time, by having some kind of confrontation between the teams before the game — even just a put-on fight or verbal attack between the leaders will help to polarize feeling in the camp.\" Wide games were \"generally given some added meaning by involving a theme taken from past or contemporary history\" — the same device as Kanawana's Lumbermen and Voyageurs.",
+      "category": "programs",
+      "entities": [
+        "Neil Graham",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3789",
+      "issue": 101,
+      "claim": "Neil Graham records a co-ed convention and its reception in 1974: \"In Co-ed games we sometimes make a rule that only girls can attack other girls, but often the girls want to be 'liberated' from the role!\"",
+      "category": "coeducation",
+      "entities": [
+        "Neil Graham"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3790",
+      "issue": 101,
+      "claim": "Arnold R. Cohen described a 1973 \"Earth Day\" at the Y.M.H.A.-B'nai B'rith camp on Lake of the Woods — 120 boys and girls aged 9 to 16 in three two-week sessions. Campers were woken at 11 p.m. for a mass assembly and the film The Rise and Fall of the Great Lakes, with an oil drum hung in effigy and a scroll proclaiming Earth Day; at breakfast staff read world news bulletins every two or three minutes; swimming and canoeing instructors then presented what Lake of the Woods would be like in 1980; and the whole camp was taken by canoe and chartered boat to a littered public island and cleaned it. The argument put to the campers: \"it really does not matter if we personally litter... The result affects us.\"",
+      "category": "programs",
+      "entities": [
+        "Arnold Cohen",
+        "B'nai B'rith Camp",
+        "Lake of the Woods"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3791",
+      "issue": 101,
+      "claim": "Sam G. Hambly of Camp Allsaw published a buildable year-round camp composting unit in Winter/Spring 1974 — quarter-inch aspenite panels 2 by 4 feet in 2 by 2 frames bolted into a square, two squares making a two-storey unit, a plywood lid and a plastic lid that \"conserves moisture and keeps out flies in summer weather. It also enables the facility to be used as a hotbed for growing seedlings in the spring,\" a 4-to-1 mix of organic waste to farm manure, and a bottomless plastic garbage pail set in the centre to funnel fresh waste to the bottom of the mass. His framing: \"If Youth as citizens, electors and legislators are to solve environmental problems on which survival depends, it seems logical that practical experience be provided at an early age... Camp is a good place for this experience.\"",
+      "category": "facilities",
+      "entities": [
+        "Sam Hambly",
+        "Camp Allsaw"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3792",
+      "issue": 101,
+      "claim": "Viiu Kanep of Camp Wapomeo wrote to contracted counsellors in mid-winter 1974 against amateur psychology: \"So often, inexperienced counsellors feel they should carry out psychological experiments with their cabin group, or use each camper as a case study for a sociological report... In my opinion this is not summer camp counselling.\" Her self-audit runs under six headings including self discipline and discipline: \"no matter what your philosophy is, you must have the ability to say 'NO'. Saying 'YES' to everything does not automatically make you a good counsellor.\"",
+      "category": "staff",
+      "entities": [
+        "Viiu Kanep",
+        "Camp Wapomeo"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3793",
+      "issue": 101,
+      "claim": "Viiu Kanep's 1974 list of what a counsellor should prepare before camp includes a stock of bedtime and rainy-day stories from the public library; a long list of songs, because \"a singing camp is a happy camp\"; group games for every size and energy level; knowledge of the camp's own surroundings, \"points of interest and areas of historical importance\"; local natural history; the weather; and the night sky.",
+      "category": "staff",
+      "entities": [
+        "Viiu Kanep"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3794",
+      "issue": 101,
+      "claim": "Paul Belanger began reporting the Quebec scene in French in Canadian Camping in 1974, recording that Yves Beauregard, \"directeur executif permanent de l'A.C.Q.-Q.C.A. depuis plusieurs annees,\" had been appointed Directeur du Camp des Enfants Infirmes (Societe des Enfants Infirmes du Quebec) — so the joint Quebec association had a permanent paid executive director.",
+      "category": "camping_movement",
+      "entities": [
+        "Paul Belanger",
+        "Yves Beauregard",
+        "Association des camps du Quebec",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3795",
+      "issue": 101,
+      "claim": "From January 1974 the ACQ-QCA ran several training courses for camp monitors, basic and specialist, in both Quebec City and Montreal, \"en grande partie subventionnes par le Haut-Commissariat a la Jeunesse, aux Loisirs et aux Sports du Gouvernement du Quebec\" — a provincially subsidised camp-staff training system in Kanawana's own province. The theme of the 28-30 March 1974 ACQ-QCA congress at the Reine Elisabeth, Montreal, was \"Une Dynamique du Changement.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Association des camps du Quebec",
+        "Quebec Camping Association",
+        "Haut-Commissariat a la Jeunesse"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3796",
+      "issue": 101,
+      "claim": "Kirk Wipper received an Ontario Government plaque in 1973 for his contribution during the Queen's visit: the International Museum of Canoes and Kayaks, \"located adjacent to Camp Kandalore in Dorset,\" provided a Canot du Maitre, \"known as the Montreal canoe\" — 36 feet long, entirely birch bark and natural material, no nails — with paddles and sail, for the pageant at Old Fort William.",
+      "category": "context",
+      "entities": [
+        "Kirk Wipper",
+        "Camp Kandalore",
+        "Old Fort William"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3797",
+      "issue": 101,
+      "claim": "The Canadian Camping Association's canoe schools for 1974: Atlantic at Camp Wapomeo, Yarmouth, Nova Scotia, 10-19 June, Susan Cousineau director; English Eastern at the University of Ottawa camp at Gracefield, Quebec, 30 May-8 June, Doug Wipper; French Eastern at the same site 10-19 June, Gaston Lemire; Mid-West at Camp B'nai B'rith, Kenora, 1-10 June, Jim King; Western at Camp Chief Hector, Banff, 19-28 June, Claude Cousineau and Kirk Wipper.",
+      "category": "camping_movement",
+      "entities": [
+        "Susan Cousineau",
+        "Doug Wipper",
+        "Gaston Lemire",
+        "Claude Cousineau",
+        "Kirk Wipper",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3798",
+      "issue": 101,
+      "claim": "John Latimer's president's message of Winter/Spring 1974 is a sustained complaint — \"I'm frustrated, discouraged and just plain mad!\" — against \"phony make-work programs of certain Governments — programmes which allow some incompetent teenagers to operate Camps on their own, at salaries which Camps are unable to afford,\" against the Unemployment Insurance Commission, and, substantively, against the camping movement having let outdoor education be taken from it: \"Since the beginning of the Century, Camps have been in the field of Outdoor Education. Now some outsiders have found a label... And that's our fault! We let Camps sit idle, complain about high costs, and watch School Boards build elaborate, beautiful Outdoor Education Centres.\"",
+      "category": "camping_movement",
+      "entities": [
+        "John Latimer",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3799",
+      "issue": 102,
+      "claim": "Jocelyn Palm, writing as the new Managing Director in Canadian Camping, November 1974: \"In the last three years, the magazine was financially sliding downhill to the extent that an unrealistic portion of the CCA budget was consumed to keep Canadian Camping coming off the press. As a result of this situation, the Board of Directors temporarily suspended publication of future magazines effective in February 1974.\" A Task Force was appointed at once and reported to the April 1974 board meeting.",
+      "category": "sources",
+      "entities": [
+        "Jocelyn Palm",
+        "Canadian Camping (magazine)",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1974-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3800",
+      "issue": 102,
+      "claim": "The run of Canadian Camping is not continuous across 1974: Vol. 26 No. 2 is a combined \"Winter/Spring 1974\" issue, then nothing until Vol. 27 No. 1, November 1974. The gap is a real suspension of publication, not a hole in this project's holdings.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping (magazine)"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3801",
+      "issue": 102,
+      "claim": "The 1974 Task Force on Canadian Camping reported six findings: direct mail to members essential; a newspaper format rejected because it \"would not serve as an effective reference tool for schools and camp staffs nor would it be as appealing to advertisers\"; the magazine format retained \"because of the public relations values\"; content to \"inform and educate in order to upgrade camp directors and staffs in all provinces\"; \"the information should be as bilingual as possible\"; and the magazine to be self-supporting \"and be set up on a more professional basis.\" The new masthead was Managing Director Jocelyn Palm, Editor Helen Stewart, Circulation Manager Mary Pat Bradbury, Advertising Manager Doug Dent, Directory Issue Peter Gilbert; subscription $5 a year, $1.50 a copy.",
+      "category": "sources",
+      "entities": [
+        "Jocelyn Palm",
+        "Helen Stewart",
+        "Doug Dent",
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1974-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3802",
+      "issue": 102,
+      "claim": "Canadian Camping announced in November 1974 that \"the January Issue of the magazine should be a 'Directory Issue' and contain a complete listing of all CCA Member Camps in each province along with the full editorial content... The Directory Issue has been accepted by all provinces and over 20,000 copies will be issued as the next magazine.\"",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping (magazine)",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1974-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3803",
+      "issue": 102,
+      "claim": "The January 1975 Directory Issue of Canadian Camping lists Kanawana: the directory line reads \"KANAWANA (1894) (YMCA),\" with St. Sauveur des Monts and a \"c/o Kamp Kanawana\" address nearby. This is the first direct Kanawana appearance in the 1970s stretch of this read.",
+      "category": "sources",
+      "entities": [
+        "Camp Kanawana",
+        "Canadian Camping (magazine)",
+        "Saint-Sauveur"
+      ],
+      "date_ref": "1975-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3804",
+      "issue": 102,
+      "claim": "Robert P. Attfield's \"Things Go Better With... Good Public Relations\" (November 1974) lists what a parent should find in a camp brochure: director's qualifications; camp philosophy; camp location and physical structure; number and sex of campers accommodated; religious or other ties; number and qualifications of staff; fee scale; activities offered; length of camping periods; transportation routes and arrangements; information on communications; nearby lodging and visitors' day; description of meals and camp policies; and a guide to clothing and weather conditions. That is a checklist for reading any surviving Kanawana brochure of the period, and for knowing what is missing from one.",
+      "category": "sources",
+      "entities": [
+        "Bob Attfield",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3805",
+      "issue": 102,
+      "claim": "Robert Attfield printed a dismissal anecdote as a cautionary example in November 1974: \"If it becomes necessary to dismiss a staff member, how is the situation handled? Not too long ago in one camp a counsellor was told over the loudspeaker system to leave the premises within an hour!\" It is offered as a public-relations failure rather than an ethical one, and records both that summary dismissal happened and how the profession judged that handling of it.",
+      "category": "staff",
+      "entities": [
+        "Bob Attfield"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3806",
+      "issue": 102,
+      "claim": "Robert Attfield's 1974 guidance on counsellor conduct off site: dress the group properly leaving camp because \"Campers fitted out like hobos for a canoe excursion won't feel like voyageurs, and may give the impression that they come from a shoddy camp\"; the local store owner \"acts as a barometer of good or bad will\"; ask permission to cross private land; telephone ahead before visiting a neighbouring camp. For directors: invite local residents to camp shows, join the area cottagers' association, buy food and supplies locally \"if it is financially feasible,\" tell neighbours what camp facilities they may use in an emergency, and keep photographs of cabin groups hung \"in a suitable area for permanent display\" as \"a good historical camp record.\"",
+      "category": "staff",
+      "entities": [
+        "Bob Attfield"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3807",
+      "issue": 102,
+      "claim": "Roger Coles, former Director of Camp Belwood, Belwood, Ontario — \"the first camp in Ontario operated by the Ontario Association for the Mentally Retarded,\" founded 1956 — described in November 1974 how for five weeks each summer the camp became \"Belwood Lodge\" for adults, who \"like other adults... get time off from jobs\" and come \"as full persons — persons with the need of self-worth, the need to feel useful, the need of responsibility,\" with counsellors becoming \"resource staff and friends,\" choice of activity \"paramount,\" and the operation running under a Lodge Council elected at the start of each session. Terminology recorded as written in 1974.",
+      "category": "inter-camp",
+      "entities": [
+        "Roger Coles",
+        "Camp Belwood",
+        "Ontario Association for the Mentally Retarded"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3808",
+      "issue": 102,
+      "claim": "Jocelyn Palm's Alert: Aquatic Supervision in Action, \"the textbook of The National Lifeguard Service,\" was published by the Royal Life Saving Society Canada at $5.95 with a French edition due December 1974; its chapters include \"Liability for Swimming Accidents and Drownings\" and \"Regulations, Legislation and Good Sense.\" Palm was by then Executive Director of the Canadian National Branch of the RLSS and Managing Director of Canadian Camping.",
+      "category": "sources",
+      "entities": [
+        "Jocelyn Palm",
+        "Royal Life Saving Society"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3809",
+      "issue": 102,
+      "claim": "Rev. Morley G. Clarke's \"Church Camping Futuribles\" (November 1974) prints sixteen future scenarios written as cards for a learning game played at a Presbyterian camping consultation in February 1974. The pessimistic one: \"Legislation may force some camps to close down because of exorbitant costs — e.g., full taxation; minimum wage requirements for all leaders, including Counsellors; unattainable accommodation requirements; unattainable acreage standards; school boards may buy up some of our Church Camps to use for outdoor education programs; Churches may rent them back as needed.\" Others foresee language immersion camps in Quebec, consolidation of less effective camps into larger operations, year-round sites with a full-time director, and \"camping without camps\" run out of a church hall.",
+      "category": "camping_movement",
+      "entities": [
+        "Morley G. Clarke"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3810",
+      "issue": 102,
+      "claim": "J. A. Craig's camp astronomy programme in Canadian Camping, November 1974, lists Canadian observatories and planetariums for camp use, giving for Montreal the Royal Astronomical Society centre and the Dow Planetarium at 1000 St. James Street West.",
+      "category": "programs",
+      "entities": [
+        "J. A. Craig",
+        "Dow Planetarium"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3811",
+      "issue": 102,
+      "claim": "Provincial officer changes recorded in November 1974: Val Willis is President of the Quebec Camping Association English Section, Abbe Rosaire Corbin heads the joint association and Abbe Robert Maisonneuve the section francaise; Rev. Philip Giberson is president in New Brunswick and Barbara Taylor in Newfoundland — the first woman president named in that province in this run.",
+      "category": "camping_movement",
+      "entities": [
+        "Val Willis",
+        "Rosaire Corbin",
+        "Robert Maisonneuve",
+        "Philip Giberson",
+        "Barbara Taylor",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1974",
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
