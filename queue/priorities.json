@@ -5223,6 +5223,17 @@
       "created": "2026-09-05",
       "source": "checking the matt-aronson record, 2026-09-05",
       "blocked_on": null
+    },
+    {
+      "priority_id": "p_418",
+      "rank": 417,
+      "type": "RESEARCH",
+      "description": "SETTLE WHETHER KANAWANA'S KATIMAVIK IS NAMED FOR THE FEDERAL KATIMAVIK PROGRAMME, and read the 1977-79 record around the opening. Three things sit together in 1978 and nothing connects them (f_4833): the camp opened a recreation hall called Katimavik; staff member John Lawrence was living inside the federal Katimavik programme, created 1977, per Ka-News October and December 1978 (f_4832); and Pierre Elliott Trudeau, whose government created that programme, sent the camp a congratulatory letter (f_4828). A camp naming a building in Inuktitut in the 1970s needs no federal explanation, so this must not be written up as a connection on the coincidence alone. WHERE TO LOOK: the full Ka-News run for 1977-79 (several issues are already cached and were read only for other purposes), the 1977 and 1979 director's reports, and the $850,000 reconstruction file behind f_2443 -- a building that size will have a naming decision somewhere. ALSO WORTH ASKING ANYONE WHO WAS THERE. SECOND QUESTION, SAME SOURCES: what stood on the Katimavik site before 1978, which places-and-locations.md Open Question 3 still carries. THIRD: whether other framed correspondence hangs at camp -- this letter was unknown to the project until the operator photographed it, and a Prime Minister's letter is unlikely to be the only thing on those walls.",
+      "weight": 7,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "operator-supplied photograph of the framed Trudeau letter, 2026-09-05",
+      "blocked_on": null
     }
   ],
   "queue_ordering": {

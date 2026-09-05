@@ -28243,6 +28243,24 @@
       "read_state": "unavailable",
       "read_state_basis": "DOMAIN TAKEN OVER. Fetched 2026-09-05: the address now serves an Indonesian online-gambling site. Search indexes still carry the old navigation (Love Story, ALS, Blog, Tips & Tricks, Gallery, Travel, Media) and both Carol and Travis Skinner's contact details, so the site existed in this form recently. web.archive.org is blocked by this environment's egress policy, so no archived copy could be reached from here.",
       "notes": "HER OWN VOICE, AND IT IS GONE. Named by ALS Canada as 'a source of positivity and strength for many'. A first-person account of living with ALS by a Kanawana alumna, lost to a lapsed domain rather than to time. Recoverable only through an archive."
+    },
+    {
+      "source_id": "src_photo_trudeau_letter_1978",
+      "type": "report",
+      "title": "Letter from Prime Minister Pierre Elliott Trudeau to Kamp Kanawana on the opening of its new recreational building (framed original, photographed)",
+      "date": "1978",
+      "date_precision": "year",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": "assets/images/documents/trudeau-letter-1978-katimavik.jpg",
+      "char_count": 0,
+      "ingested_at": "2026-09-05T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.25",
+      "reliability": "primary",
+      "read_state": "read",
+      "read_state_basis": "photograph supplied by the operator and transcribed in full 2026-09-05",
+      "notes": "The framed original, on Prime Minister/Premier Ministre letterhead with the Canadian coat of arms and a pen signature. Bilingual: two English paragraphs then two French. UNDATED ON ITS FACE -- dated to 1978 because an abridged version of the same text is the frontispiece of the 1978 Kamp Kanawana Director's Annual Report. The framed text is FULLER than the printed one."
     }
   ],
   "source_count": 1563

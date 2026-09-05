@@ -1,7 +1,7 @@
 {
   "_comment": "Provenance manifest for the Camp Kanawana visual archive. Every identified pre-2016 image gets an entry here BEFORE the image file lands, so provenance and rights are recorded. When an image is added to this directory, set status='acquired' and fill 'filename'. Canadian copyright note: photographs created before 1949 are generally public domain in Canada (and most pre-1972 published works), so the early archival images below are safely displayable. Photo-integration batch 'photodownloads-2026-06-29' added 2026-07-02: 234 images filed from three delivered archives (Concordia historical album, dining-hall plaque album, physical-artifact/art scans). See project-docs/research-log.md.",
   "version": "1.0",
-  "updated": "2026-07-05",
+  "updated": "2026-09-05",
   "images": [
     {
       "id": "img_flagraising_c1910",
@@ -5002,6 +5002,19 @@
       "status": "acquired",
       "priority": null,
       "acquisition_batch": "mcmorris-thesis-figures-2026-07-09"
+    },
+    {
+      "id": "img_trudeau_letter_1978",
+      "file": "documents/trudeau-letter-1978-katimavik.jpg",
+      "title": "Letter from Prime Minister Pierre Elliott Trudeau on the opening of Kamp Kanawana's new recreational building",
+      "caption_on_original": "I am happy to send my greetings and congratulations to all campers and staff of Kamp Kanawana as you officially open your new recreational building. / Pierre Elliott Trudeau, Prime Minister — Premier Ministre",
+      "date": "1978",
+      "date_precision": "year",
+      "source": "Operator photograph of the framed original held at Camp Kanawana",
+      "source_ref": "src_photo_trudeau_letter_1978",
+      "source_url": null,
+      "rights": "Crown copyright, Government of Canada, 1978. Photograph of the framed original supplied by the operator. Reproduced here as a documentary record; not cleared for redistribution.",
+      "notes": "Undated on its face. Dated to 1978 because an abridged version is the frontispiece of the 1978 Kamp Kanawana Director's Annual Report. The framed original is the fuller text: the printed version drops 'and congratulations' and the clause naming the occasion. Bilingual, English then French, neither half a translation of the other. See f_4828, f_4829, f_4830."
     }
   ],
   "moving_images": [

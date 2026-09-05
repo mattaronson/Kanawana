@@ -1,8 +1,8 @@
 {
-  "version": "6.24",
-  "kb_version": "6.24",
+  "version": "6.25",
+  "kb_version": "6.25",
   "migrated_from": "3.3",
-  "fact_count": 4789,
+  "fact_count": 4795,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -85831,6 +85831,114 @@
       "conflicts_with": [],
       "added_version": "6.24",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4828",
+      "claim": "A LETTER FROM THE PRIME MINISTER OF CANADA TO KAMP KANAWANA, framed and photographed, on Prime Minister / Premier Ministre letterhead with the Canadian coat of arms and a pen signature over the typed name Pierre Elliott Trudeau. Undated on its face. TRANSCRIBED IN FULL: \"I am happy to send my greetings and congratulations to all campers and staff of Kamp Kanawana as you officially open your new recreational building. // Kamp Kanawana provides an opportunity for many young people across Canada to learn about each other's culture in a natural and healthy environment. // La dimension internationale qui s'est ajoutée cette année rehaussera sûrement l'esprit d'entraide et de coopération afin de cultiver une jeunesse saine et vigoureuse. // Dans cet esprit, je suis heureux de vous souhaiter de bonnes vacances. Mes meilleurs voeux à tous pour une célébration réussie.\" Two paragraphs in English, then two in French, without translation of either -- a genuinely bilingual letter rather than a translated one.",
+      "category": "documents",
+      "entities": [
+        "Pierre Elliott Trudeau",
+        "Camp Kanawana",
+        "Katimavik"
+      ],
+      "date_ref": "1978",
+      "sources": [
+        "src_photo_trudeau_letter_1978"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.25",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4829",
+      "claim": "THE TRUDEAU LETTER IS DATED TO 1978 BY THE CAMP'S OWN REPORT, and the framed original turns out to be the fuller text. An abridged version of the same letter is the FRONTISPIECE of the 1978 Kamp Kanawana Director's Annual Report, printed above the report proper and signed the same way. The printed version drops two things the framed original has: the words \"and congratulations\", and the entire clause \"as you officially open your new recreational building\" -- so the report's version reads as generic seasonal greetings with no occasion attached. It also restyles \"campers\" as \"Kampers\" in the camp's own orthography. THE FRAMED LETTER IS THEREFORE THE PRIMARY DOCUMENT AND THE REPORT A PARTIAL RESETTING OF IT: anyone working only from the digitized report would never learn what the letter was for.",
+      "category": "documents",
+      "entities": [
+        "Pierre Elliott Trudeau",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1978",
+      "sources": [
+        "src_photo_trudeau_letter_1978",
+        "src_ia_kanawana_report_1978"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.25",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4830",
+      "claim": "THE NEW RECREATIONAL BUILDING TRUDEAU CONGRATULATED IS THE KATIMAVIK, AND IT OPENED IN THE 1978 SEASON. The 1978 director's report lists \"Opening Ceremony for Katimivik\" among the season's special events, records the work item \"stain various parts of new recreation building\", and concludes: \"The new recreation hall (Katimivik) is very functional and will be...\". The camp spells it Katimivik in 1978; the current spelling is Katimavik. THIS CLOSES AN OPEN QUESTION this project had carried as unanswerable -- site/places-and-locations.md asked \"When was the Katimavik gymnasium built?\" and its own Katimavik section said \"No documentation has been found for when the Katimavik was constructed or named.\" It also fits the $850,000 two-site reconstruction begun in 1977-78 (f_2443).",
+      "category": "site",
+      "entities": [
+        "Katimavik",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1978",
+      "sources": [
+        "src_photo_trudeau_letter_1978",
+        "src_ia_kanawana_report_1978"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.25",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4831",
+      "claim": "1978 WAS KANAWANA'S 85TH SEASON, stated in the opening line of the 1978 director's report: \"The 85th season of Kamp Kanawana has come to an end.\" Counting back, an 85th season in 1978 puts the first in 1894 -- an independent arithmetical confirmation of the founding year from a document that is not making a claim about the founding at all, which is the most reliable kind.",
+      "category": "history",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1978",
+      "sources": [
+        "src_ia_kanawana_report_1978"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.25",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4832",
+      "claim": "A KANAWANA STAFF MEMBER WAS IN THE FEDERAL KATIMAVIK PROGRAMME THE SAME YEAR THE CAMP OPENED ITS KATIMAVIK. The Ka-News of October 1978 lists staff forwarding addresses including \"John Lawrence, c/o Katimavik, Box 354, Bridgetown, N.S.\", and the December 1978 issue reports \"John Lawrence is really enjoying Katimavik, he heads out west soon with his group\" -- the rotating inter-provincial group structure of the national youth service programme of that name, created by the federal government in 1977 under the same Prime Minister who signed this camp's letter.",
+      "category": "people",
+      "entities": [
+        "John Lawrence",
+        "Katimavik",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1978",
+      "sources": [
+        "src_ia_ymca_montreal_fonds_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.25",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4833",
+      "claim": "AN OPEN QUESTION, NOT A FINDING: was Kanawana's Katimavik named after the federal Katimavik programme, or did both draw independently on the Inuktitut word for \"meeting place\"? Three things sit together in 1978 and no source connects them. The camp opened a recreation hall it called Katimavik; a Kanawana staff member was living inside the federal Katimavik programme, created in 1977; and Pierre Elliott Trudeau, whose government created that programme, sent the camp a letter congratulating it on the opening. The letter itself says nothing about the building's name. THE COINCIDENCE IS STRIKING AND THAT IS EXACTLY WHY IT SHOULD NOT BE WRITTEN UP AS A CONNECTION: a camp naming a building in Inuktitut in the 1970s needs no federal explanation, and the wider Ka-News run, the 1977-79 reports, or anyone who was there could settle it.",
+      "category": "site",
+      "entities": [
+        "Katimavik",
+        "Camp Kanawana",
+        "Pierre Elliott Trudeau"
+      ],
+      "date_ref": "1977-1978",
+      "sources": [
+        "src_photo_trudeau_letter_1978",
+        "src_ia_kanawana_report_1978",
+        "src_ia_ymca_montreal_fonds_collection"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.25",
+      "added_by": "manual"
     }
   ]
 }
