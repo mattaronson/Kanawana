@@ -1,8 +1,8 @@
 {
-  "version": "6.20",
-  "kb_version": "6.20",
+  "version": "6.21",
+  "kb_version": "6.21",
   "migrated_from": "3.3",
-  "fact_count": 4776,
+  "fact_count": 4781,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -85482,7 +85482,7 @@
     },
     {
       "fact_id": "f_4808",
-      "claim": "TWO PIP RECIPIENTS PREVIOUSLY UNKNOWN TO THIS PROJECT, named in the 2026 release's list of previous recipients: “Dr. Karl Cernovich, a leader in emergency medicine” and “Alexandra Olshefsky, public defender and community volunteer”. Neither appears anywhere else in this wiki, the KB or the sources index. No years are given for either.",
+      "claim": "[CORRECTED 2026-09-05, within the hour: the clause 'Neither appears anywhere else in this wiki, the KB or the sources index' WAS FALSE FOR ALEXANDRA OLSHEFSKY. She was already in the KB twice -- f_1677, the Rangers 2002 plaque, under her full name; and f_1565, the Order of the Knights of Kanawana roll, as 'Lady Ali Olshefsky, 2002' -- and already in wiki/traditions/knights-of-kanawana.md as a table row. I asserted a negative across four files without searching any of them. Dr. Karl Cernovich IS genuinely new. See the correction facts below.] TWO PIP RECIPIENTS PREVIOUSLY UNKNOWN TO THIS PROJECT, named in the 2026 release's list of previous recipients: “Dr. Karl Cernovich, a leader in emergency medicine” and “Alexandra Olshefsky, public defender and community volunteer”. Neither appears anywhere else in this wiki, the KB or the sources index. No years are given for either.",
       "category": "awards",
       "entities": [
         "Karl Cernovich",
@@ -85493,7 +85493,7 @@
       "sources": [
         "src_ymca_quebec_pip_macsween_2026"
       ],
-      "confidence": "stated",
+      "confidence": "disputed",
       "conflicts_with": [],
       "added_version": "6.20",
       "added_by": "manual"
@@ -85607,6 +85607,93 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.20",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4815",
+      "claim": "ALEXANDRA OLSHEFSKY'S KANAWANA RECORD WAS ALREADY DOCUMENTED HERE, on two photographed dining-hall plaques. (1) The 'Rangers 2002' board names her among eight Rangers -- Hannah Shizgal-Paris, Alexandra Olshefsky, Ian Braide, Andrew Pare, Alexandre Lebrun, Katie Smith, Matthew Held, Jasmine Carrier -- under co-ordinators Louis Lessard and Helena Longpre, with the motto 'Leadership - Knowledge - Respect - Trust - Tradition' (f_1677). (2) The Order of the Knights of Kanawana roll carries 'Lady Ali Olshefsky' with the year 2002, one of three knighted that year alongside Sir Ian Braide and the unsettled Lady Caroline Noble (f_1565). Both boards are contemporary painted records of the 2002 season.",
+      "category": "people",
+      "entities": [
+        "Alexandra Olshefsky",
+        "Camp Kanawana",
+        "Order of the Knights of Kanawana"
+      ],
+      "date_ref": "2002",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.21",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4816",
+      "claim": "OPERATOR TESTIMONY, 2026-09-05 (Matt Aronson, who was staff in 2002): Alexandra Olshefsky was a CAMPER UNTIL 2002, was 'a Tanger', and was made a member of the Order of the Knights of Kanawana in 2002. The camper-through-2002 and the 2002 knighthood are independently corroborated by the two plaques (f_f_4815). The word 'TANGER' APPEARS NOWHERE IN THIS PROJECT -- not in the wiki, the KB, the sources index or the 151 transcribed plaques, whose only near matches are the surnames Tanguy and Tanguay. It is either a Kanawana term this project has never recorded, or a rendering of 'Ranger', which she demonstrably was in 2002. NOT RESOLVED EITHER WAY HERE: guessing between them would either invent a camp term or erase one.",
+      "category": "people",
+      "entities": [
+        "Alexandra Olshefsky",
+        "Camp Kanawana",
+        "Matt Aronson"
+      ],
+      "date_ref": "2002",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "conflicts_with": [],
+      "added_version": "6.21",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4817",
+      "claim": "SPELLING, THREE DOCUMENTS AGAINST ONE RECOLLECTION: the surname is written OLSHEFSKY on the Rangers 2002 plaque, OLSHEFSKY on the Knights of Kanawana roll, and OLSHEFSKY in YMCA Quebec's 2026 news release. The operator wrote 'Olshevsky' with a v. Under the standing directive that oral history yields to documented sources where they directly conflict, the documented spelling stands -- and here two of the three documents are contemporary painted records of the season in question. The operator's spelling is recorded, not deleted. The release gives her first name as Alexandra and the Knights roll as 'Ali', which are consistent.",
+      "category": "people",
+      "entities": [
+        "Alexandra Olshefsky"
+      ],
+      "date_ref": "2002-2026",
+      "sources": [
+        "src_flickr_kanawana_plaque_album",
+        "src_ymca_quebec_pip_macsween_2026",
+        "src_oral_aronson"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.21",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4818",
+      "claim": "ALEXANDRA OLSHEFSKY IS THE ONLY DOCUMENTED PERSON TO HOLD BOTH OF KANAWANA'S NAMED CAMPER HONOURS. Checking the twenty-nine-name Knights of Kanawana roll (f_1565) against the sixteen known Pip Alumni Award recipients, hers is the single overlap: knighted as a camper in 2002, and awarded the Pip -- which recognises what an alumnus did afterwards in the wider world -- in 2025. The two honours sit at opposite ends of a camp life, one for mastery inside the camp and one for what was carried out of it, and this is the first case the project can trace across both. It also gives the Knights roll its first external outcome: nothing else in the KB follows a knight past camp.",
+      "category": "awards",
+      "entities": [
+        "Alexandra Olshefsky",
+        "Order of the Knights of Kanawana",
+        "Pip Alumni Award"
+      ],
+      "date_ref": "2002-2025",
+      "sources": [
+        "src_flickr_kanawana_plaque_album",
+        "src_ymca_quebec_pip_macsween_2026"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.21",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4819",
+      "claim": "THE SAME METHOD FAILURE TWICE IN ONE DAY, RECORDED BECAUSE THE REPETITION IS THE POINT. At roughly 21:40 I wrote f_4802, on having asserted that Amy Ornstein had 'no connection whatsoever' to Kanawana without searching. At roughly 22:10 I wrote in f_4808 that two newly-named Pip recipients appeared 'nowhere else in this wiki, the KB or the sources index' -- again without searching. One of them was in the KB twice and in a wiki table. Writing down the lesson did not prevent the repeat, because the failure is not ignorance of the principle but the absence of a step: a claim of the form 'X appears nowhere in this project' is CHEAPLY CHECKABLE with one grep, and must never be written without running it. That check costs seconds; both errors would have been caught by it.",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026-09-05",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.21",
       "added_by": "manual"
     }
   ]

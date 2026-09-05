@@ -5182,11 +5182,22 @@
       "priority_id": "p_414",
       "rank": 413,
       "type": "RESEARCH",
-      "description": "THREE NEW NAMED PEOPLE FROM THE 2026 PIP RELEASE, none previously in this project: JARED MACSWEEN (2026 recipient; Kanawana camper 1982-86 and staff 1987-91; GM of YMCA Cedar Glen Outdoor Centre; Manager of Training at the YMCA Ontario Regional Development Centre 2012-24; BA Applied Human Science and Diploma in Social Studies, Concordia), DR. KARL CERNOVICH (emergency medicine) and ALEXANDRA OLSHEFSKY (public defender). MacSween already clears this project's article-spawning threshold on the biography alone -- a named person who held a camp role, with dated camper and staff years and a documented career -- and his YMCA Ontario posting is directly relevant to the L&V transmission question, since Cedar Glen and the Ontario RDC sit inside the same association network as Pine Crest and Kitchikewana. ASSESS whether to spawn stubs; if so they go in people/ (core), not people/notable-alumni/, since the defining connection for MacSween is a career inside the YMCA rather than a life lived outside it. Cernovich and Olshefsky have one line each and should probably wait for their camp years.",
+      "description": "THREE NEW NAMED PEOPLE FROM THE 2026 PIP RELEASE, none previously in this project: JARED MACSWEEN (2026 recipient; Kanawana camper 1982-86 and staff 1987-91; GM of YMCA Cedar Glen Outdoor Centre; Manager of Training at the YMCA Ontario Regional Development Centre 2012-24; BA Applied Human Science and Diploma in Social Studies, Concordia), DR. KARL CERNOVICH (emergency medicine) and ALEXANDRA OLSHEFSKY (public defender). MacSween already clears this project's article-spawning threshold on the biography alone -- a named person who held a camp role, with dated camper and staff years and a documented career -- and his YMCA Ontario posting is directly relevant to the L&V transmission question, since Cedar Glen and the Ontario RDC sit inside the same association network as Pine Crest and Kitchikewana. ASSESS whether to spawn stubs; if so they go in people/ (core), not people/notable-alumni/, since the defining connection for MacSween is a career inside the YMCA rather than a life lived outside it. REVISED 2026-09-05: OLSHEFSKY IS NO LONGER A ONE-LINE ENTRY and was never new to this project -- she is on the Rangers 2002 plaque and the Knights of Kanawana roll (f_4815), was a camper through 2002 per the operator who was staff that year (f_4816), and is the only person documented holding both a knighthood and the Pip Award (f_4818). That is enough for a stub. DR. KARL CERNOVICH genuinely is new and has one line; he should wait for a year and a camp connection. Ask the operator, who plainly knows this cohort, for Olshefsky's staff years if any, and for Cernovich's year.",
       "weight": 6,
       "status": "pending",
       "created": "2026-09-05",
       "source": "2026 Pip Award release supplied by the operator, 2026-09-05",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_415",
+      "rank": 414,
+      "type": "RESEARCH",
+      "description": "ASK THE OPERATOR ABOUT THE 2002 COHORT WHILE THE THREAD IS OPEN -- he was staff that season and has already resolved two questions from it. THREE SPECIFIC ASKS. (1) 'TANGER': the operator described Alexandra Olshefsky as 'a Tanger'. The word appears nowhere in this project -- not the wiki, the KB, the sources index, or the 151 transcribed plaques, whose only near matches are the surnames Tanguy and Tanguay. It is either a Kanawana term never recorded here or a rendering of 'Ranger', which she demonstrably was in 2002 (f_4816). If it is a real term it needs an entry in site/named-places-and-camp-vocabulary.md. (2) CAROLINE NOBLE OR CAROLINE POOLE: the third 2002 knight is faded on the board and both readings fit the strokes (knights-of-kanawana.md Open Question 3). A person who was there in 2002 can settle in a sentence what re-photography might not. (3) CAROL SKINNER'S DEATH DATE: the 2026 Pip release calls her 'the late' and gives no date (f_4812). CROSS-CHECK BEFORE ASKING: questions 1 and 2 both concern 2002 and should go in one message, not three.",
+      "weight": 7,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "operator testimony on Alexandra Olshefsky, 2026-09-05",
       "blocked_on": null
     }
   ],

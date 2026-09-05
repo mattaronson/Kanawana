@@ -3510,7 +3510,7 @@
         "traditions/order-of-owens"
       ],
       "file_id": null,
-      "word_count": 3430,
+      "word_count": 3640,
       "notes": "v4.75: Pip Caddell full genealogy (The Peerage). James Caddell biography expanded (CMAT memorial). Andrew Caddell career timeline. Tara Newell post-2005 career. Pip Award 2019-2023 exhausted. OQ3 resolved. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header (was listing raw source IDs). Body prose was already clean. No facts, citations, or open questions dropped; status unchanged. | 2026-08-14: cross-linked to the new traditions/order-of-owens.md.",
       "tags": {
         "era": [
@@ -9853,9 +9853,11 @@
         "f_2342"
       ],
       "sources_cited": [
-        "src_photo_knights_charter_challenges",
+        "src_flickr_kanawana_plaque_album",
         "src_ia_kanawana_place_to_grow_1988",
-        "src_flickr_kanawana_plaque_album"
+        "src_oral_aronson",
+        "src_photo_knights_charter_challenges",
+        "src_ymca_quebec_pip_macsween_2026"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -9866,7 +9868,7 @@
         "history/coeducation-gender"
       ],
       "file_id": null,
-      "word_count": 1512
+      "word_count": 1754
     },
     {
       "article_id": "named-places-and-camp-vocabulary",
