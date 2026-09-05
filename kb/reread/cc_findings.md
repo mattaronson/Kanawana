@@ -26638,3 +26638,146 @@ statement in this run of environmental education becoming school business rather
 copy's label reads **"CAMP RICHILDACA / MR. & MRS. R. J. BABCOCK / KETTLEBY ON"**, so the sixth deposit
 hand is a camp, Camp Richildaca of Kettleby, Ontario, and the initial is R. J. rather than Hugh.
 Corrected in block 148.
+
+## 150 — Vol. 36 No. 1, Spring 1984
+
+Twenty pages. Contents page checked; every item read: two Letters to the Editor; the bilingual
+Editorial, "segregation… It Still Exists!!!" / "La ségrégation… un mal qui persiste!!!"; the masthead;
+The Camping Advisor (three questions, including Sam Hambly of Camp Allsaw on the Allsaw Composter);
+Jocelyn Palm's President's Perspective; Laura Schnellert, "Families with a Handicapped Child"; Sylvia
+Haynes, "Camping is Fun! And it is For Everyone!"; the notice of annual meeting in both languages;
+Clifford Knapp's notice of a Human Relations Skills Training Network; Bruce Elkin, "Camp, Growth and the
+Power of the Person"; John Latimer's Group Dynamics Exercise on sociometry; the book review of *Blue
+Lake and Rocky Shore*; Rick Ireland, "Real Programs for Real People"; Donna Silver's poem; Mary Milne's
+review of the CIT Manual; the Society of Camp Directors Awards Papers announcement in both languages;
+the Canadian Conservation Directory notice; the leadership-development calendar; the Canadian Heritage
+Rivers System notice in both languages; the new "Camping… The Last Word!" column; and the advertisements
+(*Camp Counsellor's Handbook* 2nd edition, Royal Chinet, Inter City Papers, Canada Fitness Award).
+**Explicit null: no mention of Kanawana, the ACQ, or any Quebec camp anywhere in the issue**, and
+Quebec's seat on the national executive is still unfilled after Louis Jean's resignation.
+
+**★★★★ THE OCA'S FIFTY-YEAR HISTORY IS PUBLISHED AND NAMED — `p_319` has its object.** Issue 148 recorded
+Janet Adamson's promise of "a booklet of the OCA's history to commemorate this anniversary… available in
+the Autumn." It appeared, later than promised and much bigger than a booklet:
+
+> "**BLUE LAKE AND ROCKY SHORE** is the history of children's camping, which had its formal beginning and
+> first expansion in the Province of Ontario. **Official launching of the attractive 112 page book was
+> timed to coincide with the Annual Conference of The Ontario Camping Association, Feb. 23, 24, 25, Inn
+> On The Park, Toronto**… written by a selected committee of Ontario Camping Association Executive
+> Members… **BLUE LAKE AND ROCKY SHORE is available from the CCA Bookstore for $8.95.**"
+
+The advertisement beside the review gives the publisher: **Natural Heritage, Toronto, (416) 694-7907**,
+112 pages, illustrated. **This is now a findable book with a title, a publisher, a page count and a
+year, not a rumoured booklet** — and it is the association whose own founding date this project has
+three competing versions of, writing its own history at fifty. The review's own phrasing is worth
+noting for that question: it says only that the OCA was "**founded in the early Thirties'**", which is
+consistent with the 1930-1933 uncertainty and settles nothing. It also frames the book as the history
+of Canadian children's camping as such — "a book of this calibre, looking at the world of children's
+camping from the turn of the century, has never before been written" — so it is the first published
+history of the movement Kanawana belonged to, appearing ten years before Kanawana's own centennial.
+**Added to `p_319` with the ordering details.**
+
+**★★★ A $10,000 ENDOWMENT FOR OUTDOOR LIVING AND CONSERVATION, AND WHO GAVE IT.** Jocelyn Palm:
+
+> "Our Association has been awarded **a grant of $10,000 by The Neathern Trust.** The objectives of the
+> grant are to provide projects which foster: **the acquisition of appropriate practices in simple
+> outdoor living; the appreciation and increased understanding of the natural world; the expansion of
+> education to reflect the concern for conservation of our environment and energy resources.** The
+> principal and interest are to be expended after 10 years… **This grant was instigated by Dr. Mary L.
+> Northway**, a long time camper and friend of CCA. Dr. Northway was **a camper then staff member at Glen
+> Bernard Camp near Sundridge, Ontario from 1922-1939. In 1940, Dr. Northway and Flora Morrison founded
+> Windy Pine, a tripping camp near Minden, Ontario.**"
+
+**The Neathern Trust has appeared twice in this read** — thanked for "moral and financial support" in a
+CCA publication, and flagged at issue 143 as a lead worth pursuing alongside Mary Northway's own papers.
+**This is its size, its date, its terms and its author.** Three things follow. The trust was a **ten-year
+endowment**, so its projects fall in **1984-1994** — precisely the decade running up to Kanawana's
+centennial, and its three objectives are exactly the programme areas this wiki tracks. **Mary Northway
+now has a documented camp biography**: Glen Bernard 1922-1939, then co-founder of **Windy Pine** with
+**Flora Morrison** in 1940. And the same issue prints **John Latimer's Group Dynamics Exercise on
+sociometry** — the technique Northway made her academic name in — used to compare "the counsellor's
+perception vs. the camper's perception" of friendship, trust and leadership within a cabin group, with
+worked questions and a sample sociogram. The two items are not linked by the magazine and no link is
+claimed here; they are recorded together because they show the same intellectual current reaching camp
+practice from the same person's world.
+
+**★★★ THE MOVEMENT'S FULLEST PUBLISHED ARGUMENT ABOUT MIXED-SEX ACCOMMODATION — and it is an argument.**
+A new column, "**Camping… The Last Word!**", is created in this issue expressly for exchanges too long
+for the letters page, and its first subject is co-ed sleeping accommodation. A.B. Thiessen of Winnipeg —
+twelve years in corrections, six in education, three in mental health — challenges the editor's earlier
+endorsement of a proposal that boys and girls share dorms, cabins or tents, demanding "**that you make
+available the studies you refer to**" and raising the short camp period, "the varied ethnic, religious
+and cultural backgrounds of many campers," and "the difficulties and problems experienced by early
+sexual involvement." Jay Haddad answers at more than a page, naming the original correspondent as
+**Harry Rokkos**, citing Humber College's daycare with shared washrooms, Mary Calderone of SIECUS, Alex
+Comfort, the NFB's *Why Men Rape*, and the claim that "**close to 90% of the world's population from the
+beginning of time to the present day has lived communally… Our society is, in fact, the historical and
+statistical anomaly**" — closing with a bibliography of **twenty titles** offered as containing "well
+over 300 studies."
+
+**This belongs in `history/coeducation-gender.md`**, and it is written in there with care about what it
+is and is not. It says nothing about Kanawana. What it gives is **the actual state of the argument in
+Canadian organized camping in the spring of 1984**, seventeen years after Kanawana's coeducation pilot
+and at a moment when the camp's own section structure had settled into parallel girls' and boys'
+sections. The wiki has documented *that* Kanawana went co-ed and *how* it structured itself afterwards;
+it has had nothing on what the movement around it thought co-education meant in practice, or how
+contested the sleeping-accommodation question still was a generation later. **A national association's
+own magazine had to invent a new column to hold the disagreement.** Recorded with the editorial position
+attributed to the editor, not to the association — the masthead says so explicitly.
+
+**★★ The whole issue is about integrating disabled campers, and one experiment is described in detail.**
+The editorial recounts "an experiment… initiated in a large, private Ontario camp which sees **600
+able-bodied campers** pass through its gates each summer" in the summer of 1983: "**6 physically-disabled
+adolescents co-existed with their own little camp and camp programme within the framework of the larger
+camp. A few ramps were built leading into the dining hall and dormitory; otherwise, there was little
+disruption**"; the intended beneficiaries were the six, and the editor argues the six hundred gained
+more. Sylvia Haynes's article and Rick Ireland's give the practical side — Ireland candidly: "**Our ramps
+are a little too steep and our showers are a little too narrow. The mud on the paths becomes a little
+too muddy but now we know.** We now know the value of obtaining advice from the 'real' people as well as
+the experts." Haynes's piece includes a **detailed accessibility audit checklist** — shower stalls with
+regulated water temperature, ramps at one foot rise in twelve, non-slip surfaces, handrails, washbasin
+and mirror heights, drinking fountains under 34 inches with knee room, picnic tables accessible from
+both sides, flashing lights for the deaf, bells in washrooms — and suggests a target of **20-30%
+disabled campers** in an integrated programme. **Recorded as movement context**; no Kanawana integration
+practice of this period is documented, and the checklist is the contemporary standard against which any
+future evidence of the camp's accessibility should be read.
+
+**★★ Two Canadian training texts published or in print for the 1984 season.** ***The Camp Counsellor's
+Handbook*, 2nd edition, by Brian Blackstock and John Latimer**, "totally revised," $9.95 paperback,
+**publication March 1984** — the magazine's editor of 1977-1981 and the chairman of the 1983 Congress
+co-authoring the standard Canadian counselling text, covering "programs, daily life, the needs and
+characteristics of various age groups, **counselling the physically or mentally handicapped**,
+activities." And the **CIT Instructor's Manual and CIT Manual** ($14.95 with binder; the camper manual
+$9.95, or $8.00 for ten or more), reviewed by **Mary Milne**, in eleven chapters whose first is "**Camp
+History & Philosophy**" — evidence that a camp's own history was a formal element of Canadian
+counsellor-in-training curriculum by 1984, which bears on `traditions/cit-lit-program.md`. **Both added
+there and to `canadian-camping-movement.md`.**
+
+**★★ The Canadian Heritage Rivers System was founded — without Quebec.** Announced **18 January 1984**
+by the federal Ministers of the Environment and of Indian and Northern Affairs with participating
+provinces and territories, its board meeting for the first time on **19-20 January 1984** with
+representatives of the federal government and of **Newfoundland, New Brunswick, Ontario, Manitoba,
+Saskatchewan, the Yukon and the Northwest Territories**; Manitoba took the chair. The first candidate
+rivers were the **Athabasca** and the **South Nahanni**, with the **Bloodvein** and the **French** to
+follow. **Quebec is not among the participating governments** — an explicit null with a bearing on
+`traditions/canoe-trips.md` and `site/indigenous-names-and-land.md`: the national river-heritage
+designation system that would come to protect canoe routes began without the province Kanawana's trips
+ran in. Recorded.
+
+**★ Minor.** The **Society of Camp Directors**, "in cooperation with the Canadian Camping Association,"
+announced **$450 in Awards Papers prizes** — $200 director, $150 staff, $100 camper — for articles on
+camping, in French or English, deadline **15 November 1984**, winners to be published in the **Summer
+1985** issue. That is a standing invitation to camp directors to write history and description for
+publication, and a reason to read the Summer 1985 issue closely when this pass reaches it. The **1983
+annual meeting** was set for **Friday 4 May 1984, 7:30 p.m., Nova Scotia Agricultural College, Truro**.
+The leadership calendar lists spring 1984 events in New Brunswick, Nova Scotia and Ontario only — again
+no Quebec. Sam Hambly of Camp Allsaw gives full construction and operating instructions for the
+**Allsaw Composter**, a styrofoam-insulated year-round composting unit charged with horse manure and
+earthworm culture — the most detailed camp composting method in the run, worth having beside
+`traditions/environmental-history.md` as what a camp of this period could actually build. Bruce Elkin of
+the Yamnuska Mountain School argues that camps should become "integrated centres for personal growth"
+teaching "generic skills" — **Will, Wisdom and Wherewithal** — and quotes Masuda's *The Information
+Society* on personal computers lifting education "out of the restrictions of formal schools." The
+mailing label again reads **CAMP RICHILDACA, KETTLEBY ON**, with the initials OCR'd here as "W. J.
+BABCOCK" against issue 149's "R. J."; the camp name is the stable part and the initials should not be
+relied on.

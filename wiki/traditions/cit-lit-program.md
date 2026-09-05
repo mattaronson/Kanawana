@@ -1,6 +1,6 @@
 # The CIT/LIT Program
 
-*Status: draft | Sources: 9*
+*Status: draft | Sources: 10*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -39,6 +39,14 @@ That makes a Kanawana staff or camp manual a specific document to look for, and 
 
 The three-day weekend schedule is worth recording as the shape of a 1980 pre-camp: arrival, camp tour, and rules and boundaries on the first afternoon, then "a special campfire including: mixer · **camp history and philosophy** · **introduction to camp traditions** · job descriptions · **introduction to camp songs, games, campfire procedures** · quiet time and discussions"; day two on camp operation, health and safety, camper needs, special groups and an activity session, with a cookout supper and basic leadership skills in the evening; day three on programming and public relations before packing up. The recommended reading is **Blackstock and Latimer's *Camp Counsellor's Handbook***.
 
+### A published CIT curriculum, 1984 — and camp history is chapter one
+
+By the spring of 1984 the Canadian Camping Association was selling a complete counsellor-in-training package rather than an outline: a **CIT Manual** for the trainee ($9.95, or $8.00 for ten or more) and a matching **CIT Instructor's Manual** for the CIT director ($14.95 with binder), the latter supplying objectives, suggested methods of presentation, evaluation techniques, further references and an answer guide for each chapter. The reviewer, Mary Milne, described it as "a virtual gold mine for both the CIT Director and the CIT" and noted that the ring-binder form "makes it easy to add personal notes or individual camp anecdotes."^10
+
+Its eleven chapters were: **Camp History & Philosophy**; Camp Facilities, Policies and Procedures; The Role of the CIT; Health and Safety at Camp; The World of the Camper; Communication; The Effective Teacher; Leadership; Program Organization; Public Relations; and Evaluation.^10
+
+**The first chapter is camp history**, which continues the pattern this article traces from the 1980 national training outline: a camp's own past was treated as formal curriculum for the people about to lead it, not as folklore. It also means that Kanawana CITs of the mid-1980s — if the camp used the CCA package, which is not documented — would have been taught the camp's history from material the camp itself compiled, and that such material would have been written for teaching rather than for the record. In the same season **the second edition of *The Camp Counsellor's Handbook* by Brian Blackstock and John Latimer** appeared (March 1984, $9.95), "totally revised," covering programme, daily life, the needs and characteristics of different age groups, counselling physically or mentally disabled campers, and activities — the standard Canadian counselling text, by the magazine's former editor and the chairman of the 1983 International Camping Congress.^10
+
 ## Current Structure: Trailblazers
 
 As of 2026, the CIT program is branded "Trailblazers": a 48-day program (four sessions of 12 days each) for campers aged 16–17.^5 Participants complete over 200 hours of workshops, training sessions, and activities covering creative programming, risk management, team building, and effective communication, capped by a five-day canoe trip.^5 Certifications earned include Standard First Aid and CPR (a 16-hour course) and a CIT certificate from the Association des camps certifiés du Québec (ACC).^5 A separate "Leaders in Training Information Guide" for Summer 2026 documents the current LIT program structure specifically, published as a PDF on the YMCA Quebec website.^6
@@ -68,6 +76,7 @@ As of 2026, the CIT program is branded "Trailblazers": a 48-day program (four se
 7. *Kamp Kanawana* broadcast script, station CFCF, 26 June 1941 [src_ia_kanawana_broadcast_cfcf_1941]. Full text cached at `sources/cache/ymca-montreal-fonds/1941-06-26-ymca-kamp-kanawana-broadcast-station-cfcf.txt`; read end to end 2026-09-03 under p_304. See [f_2461].
 8. Barry Lowes, "And How Was Your Summer? — Evaluating Your Camp," *Canadian Camping* Vol. 29 No. 5 (October 1977), p. 4 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 115).
 9. "A Counsellor and C.I.T. Training Program," *Canadian Camping* Vol. 32 No. 5 (October 1980), pp. 4-5, 12 [src_ia_canadian_camping_collection]. Found by the same read (issue 133). A national outline circulated to member camps, not a Kanawana document.
+10. Mary Milne, "Counsellor in Training Manual Review," p. 15, with the CCA Bookstore order form and chapter list; and the *Camp Counsellor's Handbook* 2nd edition advertisement, p. 8 — both *Canadian Camping* Vol. 36 No. 1 (Spring 1984) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 150).
 
 ## Research Notes
 
