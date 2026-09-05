@@ -1,6 +1,6 @@
 # Thomas Duncan Patton (1865–1944)
 
-*Status: draft | Sources: 9*
+*Status: draft | Sources: 10*
 *Last Updated: 2026-08-25*
 
 ## Overview
@@ -138,6 +138,8 @@ island to the east "Patton."** The camp was styled **Camp Stephens**.^1 This wik
 Stephens through [[people/nelson-mcewen|Nelson McEwen]] and [[people/ross-bannerman|Ross Bannerman]];
 its camping programme was begun by a Kanawana founder.
 
+**A conflicting date, added 2026-09-05.** In the summer of 1987 Camp Stephens's own directors wrote in *Canadian Camping Magazine* that the camp "**has been providing resident camping experiences for youth since 1891**" and was planning its **100th anniversary in 1991**; the same issue's "What's In A Name?" adds that it was "**originally known in 1891 as the Lake of the Woods Institute**," taking the name Camp Stephens in 1896.^10 Patton's memoir gives **July 1894** and annual camps from that date. Both are documented statements from inside the Winnipeg association, ninety years apart, and neither is preferred here. The likely reconciliation — an 1891 men's conference-encampment, youth camping from 1894 — is not stated by either source. It matters beyond this article, because it bears on whether Kanawana (1894) can be called Canada's second-oldest camp; see conflict `c_031` and [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]].
+
 Note one detail against a possible confusion: a small island was named **"Ball" after "the one time
 Secretary at Calgary"** — on the memoir's own wording this is *not* [[people/billy-ball|W. H. Ball]] of
 Montreal.
@@ -221,6 +223,7 @@ neither is obviously wrong.
 7. Library and Archives Canada, "125 years ago today: the invention of basketball and the Canadian participants in the first ever basketball game," 21 December 2016 [src_lac_first_basketball_game]. "Originally from Montreal… one of the two team captains selected by Naismith for the first game."
 8. "Thomas D. Patton," *The First Basket Ball Players* exhibit [src_omeka_first_basketball_players]. Birth 15 April 1865, Danville, Quebec; death 1 April 1944, Toronto; full YMCA career 1892–1941.
 9. YMCA of Montreal Annual Reports, 1889–90, 1892–93, 1893–94, 1895–96, 1897–98 and 1899 [src_ia_ymca_montreal_annual_reports_collection]. Read 2026-08-25. See [f_2299], [f_2300].
+10. "Y.M.-Y.W.C.A. Camp Stephens," by Grant Platts, Scott McGregor and Juliane Schaible, p. 21, and "What's In A Name? Camp Stephens," p. 27, *Canadian Camping Magazine* Vol. 39 No. 1 (Summer 1987) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 162).
 
 ## Research Notes
 

@@ -1,6 +1,6 @@
 # Indigenous Place Names and Land History
 
-*Status: R3-verified | Sources: 26*
+*Status: R3-verified | Sources: 27*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -104,6 +104,22 @@ That is the fourth and most consequential item in the sequence traced above, and
 
 **The same issue prints a text with a checkable attribution, and the contrast is the point.** Two pages on, under the heading "A Prayer": "O Father, whose voice I hear in the winds, and whose breath gives life to all the world, hear me, I am a child before You… I seek strength, Father — not to be superior to my brothers, but to be able to fight my greatest enemy, myself." It is attributed to **Tom Whitecloud** and described as a "prayer inscribed on monument at St. Regis Reservation — Akwesane Mohawk."^24 That names **Akwesasne** — the Mohawk community straddling the Quebec, Ontario and New York borders — in a magazine going to every Canadian member camp. Its attribution is itself complicated: the text circulates widely as a Lakota or Sioux prayer, and Tom Whitecloud was a Chippewa writer. But unlike the editorial, it points at a specific physical monument in a specific named community, which is a claim someone can go and check.
 
+### A camp director names the problem, 1987
+
+The run supplies four positions on camp Indigenous programming, and this is the last and the sharpest. **Wendell White**, Director of Camp Quin-Mo-Lac, writing in the summer of 1987 as someone "relatively active in native affairs for seventeen years," describes building a United Church camp theme around that church's "Dialogue with Native Peoples" mandate and states the difficulty at the outset:^27
+
+> "The immediate concern became — **How do you create a sense of appreciation and understanding of a contemporary people while at the same time be sensitive to the subtle and not too subtle stereotypes?**… no matter what was designed for the program in the traditional context, **no child would leave camp without hearing or seeing, that native peoples in 1986, do not live in a tipi, nor do they wear a head dress or moccasins every day.**"
+
+And the diagnosis:
+
+> "**What concerns me… is that, so often native programs begin and end at the traditional level. Native programs, innocently, often fall short of establishing native people in the twentieth century and consequently build upon the imagery of the noble purist conservationist, captured in a vacuum, more comfortable with the past than with the present.**"
+
+He dates his impatience precisely — "the recent lack of success at the **First Ministers Conference on Aboriginal Rights (March 1987, the last of four such conferences)**" — and proposes a method rather than an abolition: "**One of the first ways to achieve this is by first inviting a native person to your training week to discuss nativeness**," followed by Indigenous performers for the campers, and he notes "there are many Inuit people out there who are extremely talented and who offer a fresh and exciting perspective to Native camp content."
+
+**Set against the other three positions this wiki now records — Jack Eastaugh defending the full ceremony in 1973, Ted Yard cutting it to one fire a week across the 1950s, and Mary S. Edgar consulting a Mohawk chief's daughter while writing her own "make-believe" legends — White is the only one who names the harm as stereotyping and locates it in what the programme teaches campers to believe about the present.** Fourteen years after Eastaugh answered "I think not" to the minstrel-show comparison, a serving director says in the same magazine that camp programmes as usually run leave children believing Indigenous people live in the past.
+
+That is where the movement's internal argument stood in 1987. Kanawana's own scripts, totem pole and Council of Tribes are from sixty years earlier, and this project has found no statement by anyone at Kanawana about any of it, in any decade. The four positions are what the question looked like to people in the same movement; the silence at Kanawana is the finding.
+
 ## Pre-Colonial and Land History
 
 The Weskarini Algonquin were dispersed by Iroquois warfare in the 1650s; a major massacre occurred in 1653 near Petit Lac Nominingue, northwest of Arundel — roughly 70-80 km north of the Camp Kanawana site, but within the same territorial zone.^12 Archaeological fieldwork in the Laurentians since 2015 (researchers Francis Lamothe, Karine Taché, and Roland Tremblay) has shown that the Laurentian landscape was integrated within Indigenous interaction networks spanning several regions of the greater Northeast — evidence of land use long predating European settlement.^12 The camp's watershed, the Rivière du Nord, flows approximately 125-137 km from Sainte-Agathe-des-Monts through Val-David, Sainte-Adèle, Saint-Sauveur, Prévost, and Saint-Jérôme before reaching the Ottawa River at the Lake of Two Mountains.^12
@@ -155,6 +171,7 @@ The Kanawana site sits in the municipality of Saint-Sauveur, in the Laurentian h
 24. Editorial, "How Can You Buy or Sell the Sky? / Comment pouvez-vous acheter ou vendre le ciel?", and "A Prayer" attributed to Tom Whitecloud, *Canadian Camping* Vol. 35 No. 2 (Summer 1983) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 147). The attribution of the editorial text to Ted Perry's 1972 screenplay for *Home*, rather than to Chief Seattle, is the settled scholarly position and is not stated by the magazine.
 25. "Personality Profile: W. E. (Ted) Yard (1919-1983)" — interview with Shirley Yard and Ted Yard Jr., pp. 10-15, and "What's in a Name?", p. 5 — *Canadian Camping Magazine* Vol. 38 No. 2 (Fall 1986) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 159). The Chinook Jargon derivation of *illahee* is not stated by the magazine and is supplied here.
 26. "Personality Profile — Mary S. Edgar," interview with Barbara and John Gilchrist, *Canadian Camping Magazine* Vol. 38 No. 3 (Winter 1987), pp. 9-15 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 160).
+27. Wendell White (Director, Camp Quin-Mo-Lac), "A Psalm of Praise," *Canadian Camping Magazine* Vol. 39 No. 1 (Summer 1987), p. 24, printed with "Sweet Grass and Candle" (words by Rev. John W. Oldham, music by R. Henry Kilborn and Oldham, written 26 March 1987) and Rev. David Spivey's psalm [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 162).
 
 ## Research Notes
 

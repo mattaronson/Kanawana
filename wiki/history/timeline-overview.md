@@ -32,7 +32,7 @@ This is a navigation hub, not a new research article: it draws together what the
 
 ## The 1890s–1910s: Founding
 
-Camp Jubilee was founded in 1894 by Billy Ball at Lake Saint-Joseph, in the Township of Howard (now Saint-Adolphe-d'Howard) — Quebec's first residential summer camp and Canada's second-oldest, after Big Cove YMCA Camp (1889). The camp moved to its present Saint-Sauveur site around 1910, adopting the name "Kanawana." Full detail, including the still-unresolved 1902–1920 directorial gap, is in [[history/founding-1894|Founding of Camp Kanawana (1894)]]; the original Lake Saint-Joseph site continued independently as [[site/camp-otoreke|Camp Otoreke]].
+Camp Jubilee was founded in 1894 by Billy Ball at Lake Saint-Joseph, in the Township of Howard (now Saint-Adolphe-d'Howard) — Quebec's first residential summer camp and among the oldest in Canada. (This page previously said "Canada's second-oldest, after Big Cove YMCA Camp (1889)"; that ranking was withdrawn on 2026-09-05 because Big Cove's own director dates his camp to 1891 and YMCA Camp Stephens claims a start in 1891 — see [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]] and conflict `c_031`.) The camp moved to its present Saint-Sauveur site around 1910, adopting the name "Kanawana." Full detail, including the still-unresolved 1902–1920 directorial gap, is in [[history/founding-1894|Founding of Camp Kanawana (1894)]]; the original Lake Saint-Joseph site continued independently as [[site/camp-otoreke|Camp Otoreke]].
 
 ## The 1920s–1930s: Growth Between the Wars
 

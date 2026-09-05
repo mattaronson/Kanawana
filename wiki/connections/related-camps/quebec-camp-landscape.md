@@ -1,6 +1,6 @@
 # The Quebec Camping Landscape
 
-*Status: E1-reviewed | Sources: 24*
+*Status: E1-reviewed | Sources: 25*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -26,7 +26,7 @@ This is also the wiki's answer to a question the folder structure alone doesn't 
 | Camp B'nai Brith | B'nai Brith Canada (Mount Royal Lodge) | Regional peer (Jewish) | 1921– | Not confirmed in current sources | *(covered above, no standalone article)* |
 | Camp Massad Montreal | Montreal Va'ad Ha'ir | Regional peer (Jewish, Orthodox) | 1947– | Not confirmed in current sources | *(covered above, no standalone article)* |
 | Colonie de vacances Sainte-Jeanne-d'Arc | Independent (Catholic) | Regional peer (Catholic, girls) | 1926– | Not confirmed in current sources | *(covered above, no standalone article)* |
-| Big Cove YMCA Camp | YMCA (Nova Scotia) | National peer; Canada's oldest residential camp, 5 years older than Kanawana | 1889– | Not confirmed in current sources | *(covered above, no standalone article)* |
+| Big Cove YMCA Camp | YMCA (Nova Scotia) | National peer; claims to be Canada's oldest residential camp. Founding date disputed: 1889, 1890 or 1891 — see note below | 1889/1891– | Not confirmed in current sources | *(covered above, no standalone article)* |
 | Camp Pine Crest | YMCA of Greater Toronto | Stated inspiration for Kanawana's L&V Games (adopted 1947), per YMCA Quebec | 1910– | Not confirmed in current sources (Pine Crest Games described as an unbroken tradition since 1940) | [[connections/related-camps/camp-pine-crest\|Camp Pine Crest]] |
 | Camp Kitchikewana | YMCA (Simcoe/Muskoka) | National peer; listed alongside Kanawana in OCA "Y camps" records | 1919– | Active (over 105 years of continuous operation, per source) | *(covered above, no standalone article)* |
 | Camp Wanakita | YMCA Hamilton-Burlington-Brantford | National peer | 1953– | Not confirmed in current sources | *(covered above, no standalone article)* |
@@ -97,7 +97,9 @@ The connection between these women's camps and Kanawana is more than geographic.
 
 Kanawana's institutional connections extend across Canada through the YMCA network. These camps shared programming traditions, staff training models, and in some cases direct influence on each other's development:
 
-- **Big Cove YMCA Camp** (1889, Merigomish, Nova Scotia): Canada's oldest residential camp, five years older than Kanawana.^12
+- **Big Cove YMCA Camp** (Merigomish, Nova Scotia): described in its own national magazine as "the oldest camp in Canada," but with **three founding dates in circulation — 1889, 1890 and 1891** — the last given by the camp's own director in 1987.^12 ^25
+
+**A note on "oldest", added 2026-09-05.** This article opens by calling Kanawana "the oldest residential summer camp in Quebec," which no source disputes. It has elsewhere carried the further claim that Kanawana was **Canada's second-oldest**, and that ranking has been withdrawn. Big Cove's dates range over 1889-1891, and in the summer of 1987 **YM-YWCA Camp Stephens** on the Lake of the Woods stated in the same magazine that it "has been providing resident camping experiences for youth **since 1891**" and was planning a centenary for 1991 — while this wiki separately holds [[people/t-duncan-patton|T. Duncan Patton]]'s account dating annual camps there from **July 1894**.^25 Three of the four candidate dates for Canada's oldest camp fall in 1889-1891, and Kanawana's 1894 follows all of them. The Quebec claim stands; the national ranking does not. See conflict `c_031` and [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]].
 - **[[connections/related-camps/camp-pine-crest|Camp Pine Crest]]** (1910, Muskoka, Ontario): Source of the Lumbermen-versus-Voyageurs tradition that Kanawana adopted in 1947 as its L&V Games.^13
 - **Camp Kitchikewana** (1919, Beausoleil Island, Georgian Bay): Over 105 years of continuous operation. Listed alongside Kanawana in OCA "Y camps" records.^14
 - **Camp Wanakita** (1953, Koshlong Lake, Ontario): Named after a beach at Camp Kitchikewana. First season: 373 boys, 38 staff, $18,882 budget. YMCA Hamilton-Burlington-Brantford.^15
@@ -154,6 +156,7 @@ Several patterns emerge from the Quebec and Canadian camp landscape:
 22. Concordia University Archives, sub-series 12N (Camping associations), sub-sub-series 12N01-12N04 [src_concordia_12N_camping_associations].
 23. Trent University Archives, Quebec Camping Association fonds (85-013, 1948-1982) [src_trent_qca_fonds].
 24. Wilfred A. Jackson, "Planning Your Years — A Maintenance Program," and "Trampolines," *Canadian Camping* Vol. 30 No. 2 (April 1978), pp. 8-9, 11-12 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 118); Jackson's role at the QCA's 40th anniversary conference is from Vol. 29 No. 2 (March 1977), p. 1 (issue 112).
+25. "Y.M.-Y.W.C.A. Camp Stephens," by Grant Platts, Scott McGregor and Juliane Schaible, p. 21, and "What's In A Name? Camp Stephens," p. 27, *Canadian Camping Magazine* Vol. 39 No. 1 (Summer 1987); with Kelley Byrne, "A Tribute to the Oldest Camp in Canada! Big Cove YMCA Camp," *Canadian Camping Magazine* Vol. 38 No. 3 (Winter 1987), p. 8 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issues 160 and 162).
 
 ## Research Notes
 

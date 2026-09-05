@@ -28470,3 +28470,193 @@ Brunswick's camp guidelines. **Camp Cadicasu** is glossed as an acronym of "Calg
 renamed from St. Mary's Camp by contest in the 1950s. Photographs in this issue come from **Camp
 Chiplaquorgan (N.B.), Big Cove (N.S.), Gracefield Centre Presbyterian Church Camp (Que.) and the Ontario
 March of Dimes Camp**. The copyright line still reads 1986.
+
+## 162 — Vol. 39 No. 1, Summer 1987 — ★★★★★ CAMP STEPHENS SAYS 1891, AND KANAWANA'S "SECOND-OLDEST" IS IN DOUBT
+
+Thirty-two pages. Printed contents page checked item by item; every item read: the President's Message
+in both languages; "Camping From Coast To Coast" (Ontario, Nova Scotia, Atlantic, **Quebec**, Alberta,
+Ontario again); the **CCA Annual Meeting photo pages, Quebec City, 1-3 May 1987**; Committee Notes and
+the "Changes!!" board announcement; Ken Willis, "Whither C.C.A.'s Physical Activity Emphasis?"; Janet
+Adamson, "Thoughts on the Installation of New Boards"; "What is PARC?" and the profile of **Aniko
+Varpalotai**; the Curriculum corrections notice; "Between the Covers"; the Camp Sudaca reunion notice;
+**Armand Ball, "Camping Tomorrow — What Does Today Tell"**, printed in full; **"Y.M.-Y.W.C.A. Camp
+Stephens"**; Dorothy Walter, "Campwide Program with Meaning"; **Wendell White, "A Psalm of Praise"** with
+the hymn "Sweet Grass and Candle" and David Spivey's psalm; "Under Open Skies" (Eanswythe Flynn);
+**Jocelyn Palm, "A Final Salute to a Friend, Mary Northway"**; "What's In A Name?" (Camp Stephens);
+"What's 'In' Outdoors"; Jim Hopkins, "Restorative Ecology"; the "Francophones… à l'aide" appeal;
+"What Do You Do Now?"; the photo appeal, address list and subscription notice. **Kanawana is not named.**
+
+**★★★★★ THE OLDEST-CAMP QUESTION HAS A THIRD CLAIMANT, AND IT IS ONE THIS WIKI ALREADY KNOWS.** Two
+separate items in this issue date **YM-YWCA Camp Stephens** on the Lake of the Woods to **1891**:
+
+> "Y.M.-Y.W.C.A. Camp Stephens **has been providing resident camping experiences for youth since 1891**.
+> **It is one of the oldest resident camps in North America** and has been continuously operated by the
+> Y.M.C.A. of Winnipeg… Camp Stephens is looking forward to **celebrating its 100th anniversary in
+> 1991**."
+
+and, in "What's In A Name?":
+
+> "**Originally known in 1891 as the Lake of the Woods Institute**, the Y.M.C.A. Camp Stephens took its
+> present name in 1896. G. F. Stephens, a successful businessman and the founder of the Stephens Paint
+> Co., was a long time member and President of Winnipeg Y.M.C.A."
+
+**This wiki asserts in three places that Kanawana, founded 1894, is "Canada's second-oldest camp, after
+Big Cove (1889)." If Camp Stephens has run since 1891, that is wrong — Kanawana would be third at
+best.** And the difficulty is sharper than a stranger's claim, because **this wiki already carries a
+conflicting date for the same camp from a Kanawana founder**: T. Duncan Patton's memoir says his first
+visit to the Lake of the Woods islands was **July 1894**, "and from that date on camps were promoted and
+held annually," with the islands passing to the Winnipeg YMCA only in **1907**.
+
+**Two documented sources, both from inside the institution, three years apart.** Camp Stephens's own
+directors, writing in the national magazine in 1987 and planning a centenary around the date, say 1891
+and name the camp's original title. Patton, who helped found Kanawana and was writing about the Winnipeg
+association he served, says 1894. The 1891 "Lake of the Woods Institute" may have been a
+conference-and-encampment for men rather than a children's resident camp — which would reconcile them —
+but **nothing in either source says so, and it is not this project's place to invent the reconciliation
+that saves its own camp's ranking.** Opened as conflict `c_031`, and **the "second-oldest" claim in
+`canadian-camping-movement.md`, `quebec-camp-landscape.md` and `timeline-overview.md` has been
+qualified rather than restated.** Note also that Big Cove's own director dated that camp to **1891** at
+issue 160. **Three of the four candidate dates for "Canada's oldest camp" now cluster on 1889-1891, and
+Kanawana's 1894 sits behind all of them.** What is not in doubt — and what the wiki should be saying
+instead — is that **Kanawana is Quebec's first residential summer camp and among the oldest in Canada**.
+
+**★★★★ THE SHARPEST CONTEMPORARY CRITIQUE OF CAMP "INDIAN PROGRAMMING" IN THE WHOLE RUN.** Wendell
+White, Director of Camp Quin-Mo-Lac, writing in the summer of 1987 as someone "relatively active in
+native affairs for seventeen years," describes designing a United Church camp theme, "Who is my
+Neighbour," around the church's "Dialogue with Native Peoples" mandate — and states the problem
+directly:
+
+> "The immediate concern became — **How do you create a sense of appreciation and understanding of a
+> contemporary people while at the same time be sensitive to the subtle and not too subtle
+> stereotypes?**… **no child would leave camp without hearing or seeing, that native peoples in 1986, do
+> not live in a tipi, nor do they wear a head dress or moccasins every day.**"
+
+and:
+
+> "**What concerns me… is that, so often native programs begin and end at the traditional level. Native
+> programs, innocently, often fall short of establishing native people in the twentieth century and
+> consequently build upon the imagery of the noble purist conservationist, captured in a vacuum, more
+> comfortable with the past than with the present.**"
+
+He dates his exasperation: "the recent lack of success at the **First Ministers Conference on Aboriginal
+Rights (March 1987, the last of four such conferences)** where native peoples, Indian, Inuit and Metis,
+were held at bay by the political brokers of this country." And he proposes a method rather than an
+abolition: "**One of the first ways to achieve this is by first inviting a native person to your training
+week to discuss nativeness**," followed by native performers for the campers, and he notes that "there are
+many Inuit people out there who are extremely talented."
+
+**Against Eastaugh's 1973 defence, Ted Yard's 1950s restraint and Mary Edgar's invented legends, this is
+the fourth and last position the run supplies, and the only one that names the problem as
+stereotyping.** Fourteen years after Eastaugh answered "I think not" to the minstrel-show comparison, a
+serving camp director says in the same magazine that the programme as usually run leaves campers
+believing Indigenous people live in the past. **Written into `site/indigenous-names-and-land.md`.** The
+same article prints "**Sweet Grass and Candle**," words by Rev. John W. Oldham, music by R. Henry Kilborn
+and Oldham, written **26 March 1987** after a joint Roman Catholic-Protestant service attended by native
+and non-native people "to pray for recognition of native rights."
+
+**★★★ THE NATIONAL ASSOCIATION MET IN QUEBEC CITY.** The CCA Board of Management and President's Council
+held their annual meeting in **Quebec City on 1-3 May 1987** — the ACQ hosting, with visits arranged to
+the **Camp Keno headquarters office (Marist Fathers, chemin Saint-Louis)** and to **Camp Oasis Notre-Dame
+(lac Simon, comté de Portneuf)**, where **Père Paul Bélanger**, a former CCA Vice-President, greeted the
+President's Council. Colette Pouliot-Marier reports the ACQ "very pleased to report an increase in its
+members' participation." **Quebec had not hosted the national body in the whole span this read has
+covered from 1983 onward**, and it did so in the same year it gained a vice-presidency of its own. Written
+into `canadian-camping-movement.md`. *(Note for anyone reading quickly: the ACQ's own annual colloque,
+2-5 April 1987, was at the **Base de plein air La Vigie, lac Saint-Joseph, comté de Portneuf** — a
+different Lac Saint-Joseph from the one in the Laurentians where Camp Jubilee began in 1894. The names
+coincide; the places do not.)* **More than 125 camp directors, cadres and moniteurs** attended it under
+the theme "**Demain… c'est maintenant**."
+
+**★★★ KEN WILLIS SERVED SIX YEARS AS QUEBEC VICE-PRESIDENT, and left with a Certificate of Honour.** From
+the "Changes!!" notice: "We welcome **Gérard Bachand as Vice-President for Quebec**. To retiring Quebec
+VP, **Ken Willis**, we offer a thank you for a job very well done over the **past six years**. The CCA/ACC
+**Certificate of Honour** that Ken received is indeed very well deserved."^ That fixes Willis's national
+tenure at roughly **1981-1987** and closes a figure this read has followed since he invited the CCA to
+Quebec in 1980. **Colette Pouliot-Marier of Quebec City takes the French Language committee chair** from
+Bachand — so both Quebec seats are now held by Quebec people, and the French Language chair sits in
+Quebec City rather than Rawdon. Also new: **Alayne Scanlon** (Public Relations), **Diane Blair** (PARC
+Advisory), **Fred Okada** (National Conference Task Force), **Dorothy Walter** (Seminar Task Force).
+
+**★★★ FITNESS CANADA CAME BACK — with project money, not operating money.** The association that lost its
+executive director's funding in November 1984 and was being cut 33⅓% a year to zero by 1988 now has a
+**Fitness Canada-named programme and a Fitness Canada-funded employee**: "**PARC STANDS FOR PHYSICAL
+[ACTIVITY] RESPONSIBILITY CENTRE, so named by Fitness Canada.** Through PARC, and our new PARC employee,
+**Aniko Varpalotai**, the CCA/ACC plans to take an active leadership role in increasing the quality and
+quantity of physical activity in Canadian Camps," under five headings — Awareness, Leadership, Programs,
+Network, Management. Fitness Canada also "received, reviewed and applauded" the Curriculum for Camp
+Directors and had funded its printing.
+
+**This is the shape of the settlement after the 1984 withdrawal, and it is worth stating plainly: the
+national association survived by becoming a delivery agent for a federal programme rather than a body
+with its own funded staff.** Varpalotai came from Queen's (physical and health education, then an MA in
+the Sociology of Sport and Leisure), directed the Niagara Falls YMCA and YWCA day camps for three
+summers, attended the Bark Lake Camp Directors' Workshop, worked at Quanahar Ringette Camp, and was
+completing a PhD at OISE on the leisure education of adolescent girls. Written into
+`canadian-camping-movement.md`.
+
+**★★ MARY NORTHWAY DIED 26 FEBRUARY 1987 — and she is the reason the archives this project depends on
+exist.** Jocelyn Palm's memorial: Northway "attended **Northway Lodge, Camp Wapomeo, and Glen Bernard
+Camp**"; founded **Windy Pine**, a canoe-tripping camp, with **Flora Morrison**; took an MA at Toronto,
+studied at Cambridge, returned for a PhD; lectured for many years at the **Institute of Child Study** and
+on retirement founded the **Brora Centre**; received an honorary doctorate from **Trent in 1979**. She was
+at Glen Bernard "**from 1922 until 1939**" as camper and staff member, and "several of her research
+papers were based on her studies of campers' relationships in a group situation." **Windy Pine was deeded
+to Trent University in 1983.** And the sentence that matters most here: "She established the OCA Research
+Committee and also **engineered the collection and organization of the OCA and CCA Archives now at Trent
+University**." Her gift funded the **Neathern Trust**, already recorded in this project from 1984.
+
+**An archive lead, precisely dated.** "**In 1981, I interviewed Dr. Northway in order that the tape could
+be added to the CCA Archives. I have just listened to that tape…**" — so a 1981 Palm-Northway interview
+tape exists in the CCA fonds at Trent, and Palm was still able to play it in 1987. Added to `p_319`.
+Northway's advice to Palm on taking over Glen Bernard, worth keeping: "**You'll get lots of advice on how
+to run the camp and here's mine… Do your own thing.**"
+
+**★★ ARMAND BALL'S "CAMPING TOMORROW" — the movement's own diagnosis of the 1977-87 decade, printed in
+full.** The American Camping Association's executive vice-president, keynoting the January 1987 OCA
+conference, lists what changed: a **dramatic drop in the camper-age population** followed by a mini baby
+boom, forcing camps to diversify into adults, seniors and disease-specific weeks; **agencies closing
+camps** to fill the rest ("we had five camps and then three"); private camps sold for lakefront
+development because the owner had no retirement and the land was worth four times its value as a camp;
+camper fees roughly **doubled in ten years**; sessions shortened; **insurance tripling and quadrupling in
+one to two years**, at "$1600 for horse insurance per horse," with **rappelling, trampolines and ropes
+courses becoming uninsurable** and camps dropping programmes rather than carry the risk; **35% of children
+not living with both biological parents**; day camps roughly doubling; a **25% shrinkage in the young-adult
+population** making staff "the name of the game," met by international staff at "25% or more" in many
+camps; year-round schooling; and referral agencies taking 10-15% of fees.
+
+On child abuse he is unusually direct, and the passage is worth preserving as the movement's own
+statement of when its practice changed: "**it exists in camps, it always has**… I think we have always
+dealt with that issue, those of us who have faced it in camp in the past, we have dealt with it as
+honestly and as humanely and as well as we could given the circumstances of the situation. **But that was
+a different age, today we don't have that freedom.** Because suddenly in our country **every state requires
+the reporting of such an incident to a state body**." He reports an award of "**a quarter of a million
+dollars for one child that has been allegedly abused in a camp situation**," that "most insurance policies
+in our country today **will not cover sexual abuse in a camp setting**," an ACA crisis hotline run for two
+summers, and the second-order effect: "**We have children getting off the camp bus at camp and saying to
+the camp counsellor 'Don't you touch me'**… an arm around the shoulder or a hug or walking with a child
+along the path and talking becomes a very precarious situation for a counsellor." This is the American
+picture, stated as such — Ball repeatedly warns his Canadian audience not to assume it applies — but it
+is the fullest account in the run of why camp record-keeping and camp physical practice changed in the
+1980s, and it dates the change.
+
+**★ SMALLER THINGS.** **Over 400,000 children and youth** were expected in CCA camps in the summer of 1987
+— against the "some 400,000" Jocelyn Palm gave at the movement's high-water mark. A **CCA/ACC National
+Conference was announced for 1989** (the magazine itself stops in 1988). The **10% tariff on imported
+books was dropped**, with the 1987 catalogue reflecting it from 1 May. The magazine's price rose from
+**$8.00 to $10.00 a year** and from **$2.00 to $3.00** an issue, and an ISSN appears for the first time:
+**0834325**. **"Francophones… à l'aide"** — a direct appeal for French copy: "Nous voulons savoir, en
+français, ce qui ce passe chez-vous," with the standing offer to translate any article on request.
+New CCA publication: **"Exploring Environmental Change"**, five illustrated panels showing the same
+lakeside camp in the 1940s-50s, 1960, 1970, 1980 and 1986, with a 42-page leader's guide, co-authored by
+**Jan James** — a purpose-built teaching kit about a camp watching its own landscape change, at $48
+members. **Camp Sudaca** (City of Sudbury) marked its 20th anniversary in 1987. **Judy May of Corner
+Brook** replaced **Frank O'Connor** as Newfoundland president; **Jean Bowering** replaced Jack Way for BC;
+**Calvin Desmarais** replaced Grant Platts for Manitoba; **Jane McCutcheon** became Ontario's
+representative and OCA president; **Dorothy Walter, Anne Prewitt-Eaton and Bruno Morawetz** were made OCA
+Honorary Life Members. The New Brunswick association was fighting **minimum-wage legislation** it had been
+refused exemption from. Camp Stephens is described as running **twelve-day sessions for boys and girls
+8-15**, a **Wilderness Adventure Program** for 13-17s with trips up to six weeks, a **fourteen-boat sailing
+fleet**, a fifteen-year-old **kayaking** programme, **Lount Lodge** built by camp staff from local logs
+1980-82, and a standing **international-education programme** with a half-day session in its ten-day
+pre-camp training — the last a YMCA camp doing deliberately what Kanawana's own YMCA did through the
+1967 Centenary Journey.
