@@ -62,10 +62,10 @@
 {"n": 62, "title": "## 62 — Vol. 16 No. 3, April 1964 ★★★", "chars": 23541, "status": "extracted", "facts": 16}
 {"n": 63, "title": "## 63", "chars": 11662, "status": "extracted", "facts": 7}
 {"n": 64, "title": "## 64", "chars": 19753, "status": "extracted", "facts": 14}
-{"n": 65, "title": "## 65", "chars": 15655, "status": "pending", "facts": 0}
-{"n": 66, "title": "## 66", "chars": 21234, "status": "pending", "facts": 0}
-{"n": 67, "title": "## 67", "chars": 19573, "status": "pending", "facts": 0}
-{"n": 68, "title": "## 68", "chars": 17865, "status": "pending", "facts": 0}
+{"n": 65, "title": "## 65", "chars": 15655, "status": "extracted", "facts": 11}
+{"n": 66, "title": "## 66", "chars": 21234, "status": "extracted", "facts": 14}
+{"n": 67, "title": "## 67", "chars": 19573, "status": "extracted", "facts": 15}
+{"n": 68, "title": "## 68", "chars": 17865, "status": "extracted", "facts": 13}
 {"n": 69, "title": "## 69", "chars": 20062, "status": "pending", "facts": 0}
 {"n": 70, "title": "## 70", "chars": 22075, "status": "pending", "facts": 0}
 {"n": 71, "title": "## 71", "chars": 25396, "status": "pending", "facts": 0}

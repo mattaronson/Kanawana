@@ -4315,6 +4315,39 @@
       "created": "2026-09-05",
       "source": "word-for-word read of Canadian Camping, issues 57-60, converted to KB facts",
       "blocked_on": null
+    },
+    {
+      "priority_id": "p_336",
+      "rank": 335,
+      "type": "VERIFY",
+      "description": "REWRITE THE ACQ'S DESCENT IN canadian-camping-movement.md. That article says \"The modern successor to the QCA is the Association des camps du Quebec (ACQ)\", which makes the ACQ a renamed Quebec Camping Association. Tony Shorgan -- who did the organising -- gives a different descent in Canadian Camping Vol. 17 No. 3 (April 1965), with dates: 1957, he asks at a conference planning meeting whether a few sessions could be held in French, and calls a meeting on twenty-four hours' notice at which, \"Despite one of the worst blizzards we have ever had, there were some 18 French-speaking Camp Directors attending\"; 12 April 1958, a special session at the Windsor Hotel strikes a committee for a year's trial under his presidency, which adopts the name \"Association des Camps Canadiens Francais\"; 17 July 1958, a meeting at the Crippled Children's Camp, St-Alphonse, under the honorary presidency of Monsignor J. A. Papineau, Bishop of Joliette, resolves to apply to join the QCA; 15 November 1958, permanent officers elected in the Mont St-Louis gymnasium; 1959, a bi-monthly newsletter and inter-camp visits; 1960, the name changes to \"Association des Camps du Quebec (Section Francaise)\"; then merger with the English-section QCA Inc. So the body Kanawana is accredited by today carries the FRENCH SECTION'S name, not a renamed QCA. Rewrite with Shorgan's dates, and spawn a Shorgan stub -- this article alone supplies well over the five-fact threshold, and he is separately documented as director of the Province of Quebec Society for Crippled Children's camp and first president of the section.",
+      "weight": 8,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 65-68, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_337",
+      "rank": 336,
+      "type": "RESEARCH",
+      "description": "FIND KANAWANA'S CENTENARY JOURNEY TRIP LOG. John Scott, Chairman of the Ontario section of the Cross-Canada Centenary Canoe Journey, closes his June 1965 briefing to participating camps: \"don't forget that your Provincial Centennial Committee wants a detailed log of your encounters en route!\" So a log of the 1967 Kanawana paddle was expected to exist and to have been submitted to the Quebec Camping Association, not merely kept at camp. Two supporting facts narrow the search: Robert Lazanik, QCA president, wrote in March 1965 that Quebec \"already ha[d] our route marked and ha[d] begun to line up member camps who will be taking part in the trip\" -- so a QCA committee file exists from 1965 -- and Margaret Govan chaired the national Cross-Canada Centenary Journey Committee from at least December 1964. WHERE TO LOOK: the Association des camps du Quebec's own archives; the CCA/ACC fonds at Trent; the Canadian Centennial Commission records at Library and Archives Canada; and the YMCA of Montreal fonds at Concordia for the camp's own copy. This would be the fullest surviving account of the 1967 trip and is the strongest single archival lead in the 1965 issues.",
+      "weight": 8,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 65-68, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_338",
+      "rank": 337,
+      "type": "RESEARCH",
+      "description": "ESTABLISH WHETHER KANAWANA RAN AN INTERCULTURAL CAMPING PROJECT IN 1965. May Brown's president's report, Canadian Camping Vol. 18 No. 1 (December 1965), records \"Intercultural or Intergroup Camping projects\" run by \"a number of our member camps\" over the summer of 1965, with the CCA executive gathering information and exploring an Evaluation and Training Seminar. Kanawana was a member camp, and the movement is the same one Hedley Dimock reported on from Goldeye Lake, Alberta in April 1965 -- Dimock being the man who had run counsellor research at Kanawana five years earlier and who by then chaired the Applied Social Science Division at Sir George Williams. Check the YMCA of Montreal annual reports for 1965 and 1966 and the CCA's own files for the list of participating camps.",
+      "weight": 6,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 65-68, converted to KB facts",
+      "blocked_on": null
     }
   ],
   "queue_ordering": {
