@@ -5166,6 +5166,17 @@
       "blocked_on": null,
       "completed": "2026-09-05",
       "resolution": "DONE. All 93 read in full and triaged; decisions recorded per fact in kb/triage/p412_disputed_triage.json. 29 linked to conflicts that already existed; 24 new conflict records raised (c_039-c_062) covering 32 facts, grouped so that one disagreement seen from two sides produces one record; 32 downgraded because 'disputed' was never right for them -- 21 to stated (nulls, access failures, exhausted searches, one debunking) and 9 to inferred (single low-reliability sources and unproven identifications) and 2 superseded facts set to stated behind their markers. One kept disputed on purpose: f_2229, whose own text records the decision not to escalate discrepancies that touch no Kanawana claim. Disputed 100 -> 60; without a conflict record 93 -> 1; conflicts 38 -> 62. SECOND PASS: the linking itself surfaced ten facts still disputed under already-resolved conflicts, invisible until the link existed; each adjudicated by reading which side of the resolution it fell on. Also normalised five conflicts whose resolution text sat in the notes field, where a reader checking `resolution` would have seen a blank and concluded nothing was decided."
+    },
+    {
+      "priority_id": "p_413",
+      "rank": 412,
+      "type": "RESEARCH",
+      "description": "CONFIRM THE 2019 PIP ALUMNI AWARD RECIPIENT BY ASKING, NOT BY SEARCHING. Dr. Amy Ornstein is the leading candidate and the objection to her has collapsed (f_4801): the 2019 recipient's title begins with 'Dr.' on Andrew Caddell's LinkedIn, the only documentary trace of that year; she is a physician; and the operator confirms she worked at Kanawana and grew up in Montreal, corroborated for the Montreal half by BSc Concordia and MDCM McGill (f_4799, f_4800). But no source names the 2019 recipient, and the candidacy first entered this project from an unattributed search result -- so it must be carried as probable and unconfirmed. Roughly 60 queries across every agent-accessible surface have now failed on this year; more searching is not the route. THE ROUTE IS A DIRECT ASK: YMCA Quebec (who administer the award and hold the list), the camp's alumni network, or Dr. Ornstein herself, whose contact details are public through Dalhousie. The same ask would close 2020-2023, which are equally undocumented. Fold into the oral-history instrument CLAUDE.md already has pending rather than sending an ad hoc enquiry.",
+      "weight": 7,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "operator correction of the Ornstein debunking, 2026-09-05",
+      "blocked_on": null
     }
   ],
   "queue_ordering": {

@@ -1,6 +1,6 @@
 # The Pip Alumni Award
 
-*Status: E1-reviewed | Sources: 20*
+*Status: E1-reviewed | Sources: 21*
 *Last Updated: 2026-08-14*
 
 ## Overview
@@ -47,7 +47,13 @@ Caddell died on October 16, 2005 in Tupiza, Bolivia, at age 32, of pulmonary ede
 
 The YMCA Quebec page for Orbinski describes him as "the 15th recipient" of the Pip Award.^5 The table above names **11** recipients through 2018 — 2010 has no documented recipient. If Orbinski is the fifteenth, fourteen preceded him, so **three or four awards were given in 2019–2023** and one or two of those five years had none. Which it is turns on 2010: the table records that year as *undocumented*, not as confirmed skipped, and if an award was in fact given in 2010 then twelve preceded 2019 and exactly three fall in 2019–2023. *(This paragraph previously stated "12 documented recipients through 2018", which the table does not support; the count is corrected and the dependency on 2010 is now stated rather than assumed away. 2026-08-28.)*
 
-**Two specific candidate identities for the 2019 recipient were investigated and explicitly DEBUNKED, not merely left unconfirmed (2026-07-09):** "Dr. Amy Ornstein" is a pediatrics faculty member at Dalhousie University (Halifax) specializing in child-maltreatment pediatrics, with no connection whatsoever to Camp Kanawana, YMCA Quebec, or Montreal found in any source. "David Bryfman" is CEO of The Jewish Education Project (New York); no source connects him to the Pip Award or Camp Kanawana. Both names appear to be search-engine confabulation, possibly conflated with equally-unverified 2019 American Camp Association Hedley S. Dimock Award claims (see [[people/hedley-dimock|Hedley Gardner Dimock]]). **Neither should be treated as the 2019 recipient.** An additional ~20 queries across new surfaces (YMCA Quebec French/English newsroom, Facebook, LinkedIn, Wayback Machine, archive.ph, PressReader, newspapers.com) this session reconfirmed the 2019-2023 gap is genuinely exhausted for agent-accessible web research.
+**On the 2019 recipient, and a correction this article owes.** Until 2026-09-05 this section stated that two candidate identities had been "investigated and explicitly DEBUNKED, not merely left unconfirmed," and said of **Dr. Amy Ornstein** that she was a Dalhousie pediatrics faculty member "with no connection whatsoever to Camp Kanawana, YMCA Quebec, or Montreal found in any source." **That was wrong, and the reasoning behind it was worse than the conclusion.** The operator states directly that Amy Ornstein grew up in Montreal and worked at Kanawana [f_4800]. One search corroborates the Montreal half from her employer's own faculty page: her degrees are **BSc (Concordia University)** and **MDCM (McGill University)**, alongside an MSc from Dalhousie and FRCPC from Toronto — an undergraduate degree in Montreal followed by medicine in Montreal, which is the pattern a Montreal upbringing predicts [f_4799].^21 The claim that no Montreal connection existed *in any source* was false against a source on the first page of a basic search.
+
+**The fault was not a failed search but a bad inference.** "I did not find a connection" was written up as "there is no connection," against this project's own standing principle that a negative result from a tool is a fact about the tool and not about the world. And *debunked* is a word that asserts disproof; it did work the evidence could not do. That she is a Halifax pediatrician was treated as evidence against her having worked at a Quebec camp two decades earlier, when it is simply a later stage of the same life [f_4802].
+
+**Where that leaves 2019.** Amy Ornstein is restored as the **leading candidate**, and three things now point the same way: the 2019 recipient's title begins with "Dr." — the only documentary trace of that year, truncated on Andrew Caddell's LinkedIn; she is a physician; and she is a Kanawana alumna, which is what an *alumni* award requires. **This is not confirmation.** No source names the 2019 recipient, and the candidacy first entered this project from an unattributed search result. It is carried here as probable and unconfirmed until YMCA Quebec or the alumni network supplies the name [f_4801].
+
+**"David Bryfman" is not debunked either**, and this article should not have said so. He is CEO of The Jewish Education Project in New York and no source connects him to the Pip Award or to Kanawana — which makes the attribution *unevidenced*, a weaker and different claim than disproved. It is not pursued here, but neither is it closed.
 
 ## Ceremony
 
@@ -67,7 +73,7 @@ In his memory, the annual "Five-Hole Sam" street hockey jamboree ("SAM JAM"), or
 
 ## Open Questions
 
-1. [Important, re-confirmed genuine dead end 2026-07-09] Who were the 3 recipients in 2019–2023? The 2019 recipient's title begins with "Dr." (Andrew Caddell LinkedIn). Three or four awards given (Orbinski = 15th), one or two years skipped — the ambiguity turns on whether 2010 had a recipient (likely COVID years 2020-2021 among the skips). No YMCA newsroom press releases published for any award 2019–2023. Two specific candidate names ("Dr. Amy Ornstein," "David Bryfman") were checked and explicitly debunked, not merely unconfirmed — see above. Recommend either a direct contact to YMCA Quebec or the oral-history instrument already planned per CLAUDE.md's Phase 2 pending priority.
+1. [Critical] **Who were the 3 recipients in 2019–2023?** The 2019 recipient's title begins with "Dr." (Andrew Caddell LinkedIn). **Dr. Amy Ornstein is the leading candidate for 2019** — a physician, a Kanawana alumna per the operator, Montreal-raised on the evidence of her Concordia and McGill degrees — but no source names her, and this article's earlier "debunking" of her is withdrawn as unsound rather than replaced with an equally unsourced assertion [f_4801]. Three or four awards were given (Orbinski = 15th), one or two years skipped; the ambiguity turns on whether 2010 had a recipient. No YMCA newsroom press releases for any award 2019–2023. **The route to an answer is a direct ask of YMCA Quebec or of Dr. Ornstein**, not further web search.
 2. ~~[Important] Were awards given in 2020, 2021, 2022, and/or 2023?~~ [Resolved] Orbinski = 15th recipient (2024). With 12 documented through 2018, exactly 3 awards were given in 2019–2023, and 2 years had no award (likely COVID years 2020 and 2021).
 3. ~~[Nice-to-have] What are the exact dates and causes of Philip "Pip" Caddell's birth and death?~~ [Resolved] Born July 7, 1913 in Brantford, Ontario; died July 24, 2004 in Ottawa (age 91). Full genealogy via The Peerage database. No formal obituary located, but biographical details confirmed through multiple sources.
 4. [Nice-to-have] Is there a physical award object (plaque, trophy)?
@@ -105,6 +111,7 @@ In his memory, the annual "Five-Hole Sam" street hockey jamboree ("SAM JAM"), or
 18. Canadian Global Affairs Institute, "Andrew Caddell" Fellow page. URL: https://www.cgai.ca/andrew_caddell. Heritage Lower St. Lawrence community profile.
 19. Sam Lazarus Fund, Zeffy fundraising page (https://www.zeffy.com/fundraising/8bc0b92d-1ae8-4791-8eeb-d890713c2360); Concordia University, "Recognizing Outstanding Concordians" (2011); Facebook SAM JAM event pages. *(The Legacy.com obituary, formerly bundled into this composite entry, is now cited separately and precisely as source 12.)*
 20. CBC News, "Annual street hockey jamboree honours Montreal West native" (August 21, 2015) [src_cbc_sam_jam_2015].
+21. Amy Ornstein faculty page, Department of Pediatrics, Dalhousie University [src_dal_pediatrics_ornstein]. Credential line "Amy Ornstein, MDCM, MSc, FRCPC, FAAP"; degrees listed as BSc (Concordia), MDCM (McGill), MSc (Dalhousie), FRCPC (Toronto). Fetched 2026-09-05 specifically to test this article's claim that no Montreal connection existed in any source. See [f_4799].
 
 ## Research Notes
 

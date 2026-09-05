@@ -1,8 +1,8 @@
 {
-  "version": "6.17",
-  "kb_version": "6.17",
+  "version": "6.18",
+  "kb_version": "6.18",
   "migrated_from": "3.3",
-  "fact_count": 4760,
+  "fact_count": 4764,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -32005,11 +32005,11 @@
     },
     {
       "fact_id": "f_1882",
-      "claim": "Two specific claimed identities for the 2019 Camp YMCA Kanawana Pip Alumni Award recipient were investigated and explicitly DEBUNKED, not merely unconfirmed: 'Dr. Amy Ornstein' is a pediatrics faculty member at Dalhousie University (Halifax) specializing in child-maltreatment pediatrics, with no connection whatsoever to Camp Kanawana, YMCA Quebec, or Montreal found in any source. 'David Bryfman' is CEO of The Jewish Education Project (New York); no source connects him to the Pip Award or Camp Kanawana. Both names appear to be search-engine confabulation/conflation (likely with the separately-unverified 2019 ACA Dimock Award claims). Neither should be added to the KB as the 2019 recipient. The 2019-2023 Pip Award recipient gap otherwise remains unresolved after an additional ~20 queries across new surfaces (YMCA Quebec newsroom, Facebook, LinkedIn, Wayback Machine, archive.ph, PressReader, newspapers.com) -- genuinely exhausted for agent-accessible web research.",
+      "claim": "[SUPERSEDED 2026-09-05 AS TO AMY ORNSTEIN, AND THE REASONING BEHIND IT WITHDRAWN. The operator states directly that Amy Ornstein grew up in Montreal and worked at Kanawana, and one search corroborates the Montreal half from her employer's own faculty page: BSc Concordia, MDCM McGill. So the sole stated ground for the 'debunking' -- 'no connection whatsoever to Camp Kanawana, YMCA Quebec, or Montreal found in any source' -- was false against a source on the first page of a basic search. The error was not a failed search but a bad inference: I turned 'I did not find a connection' into 'there is no connection', and wrote DEBUNKED, a word that asserts disproof. Being a Halifax pediatrician is not evidence against having worked at a Quebec camp twenty years earlier; it is a later stage of the same life. The David Bryfman half is NOT debunked either -- it is merely unevidenced, which is a different and weaker claim. See f_4799, f_4800, f_4801.] Two specific claimed identities for the 2019 Camp YMCA Kanawana Pip Alumni Award recipient were investigated and explicitly DEBUNKED, not merely unconfirmed: 'Dr. Amy Ornstein' is a pediatrics faculty member at Dalhousie University (Halifax) specializing in child-maltreatment pediatrics, with no connection whatsoever to Camp Kanawana, YMCA Quebec, or Montreal found in any source. 'David Bryfman' is CEO of The Jewish Education Project (New York); no source connects him to the Pip Award or Camp Kanawana. Both names appear to be search-engine confabulation/conflation (likely with the separately-unverified 2019 ACA Dimock Award claims). Neither should be added to the KB as the 2019 recipient. The 2019-2023 Pip Award recipient gap otherwise remains unresolved after an additional ~20 queries across new surfaces (YMCA Quebec newsroom, Facebook, LinkedIn, Wayback Machine, archive.ph, PressReader, newspapers.com) -- genuinely exhausted for agent-accessible web research.",
       "sources": [
         "src_aca_dimock_award_recipients_2022_2026"
       ],
-      "confidence": "stated",
+      "confidence": "disputed",
       "category": "people",
       "entities": [
         "Pip Alumni Award"
@@ -85316,6 +85316,75 @@
         "f_4796"
       ],
       "added_version": "6.14",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4799",
+      "claim": "Dr. Amy Ornstein's credential line on the Dalhousie University Department of Pediatrics faculty page reads \"Amy Ornstein, MDCM, MSc, FRCPC, FAAP\". The degrees and granting institutions listed are BSc (Concordia University), MDCM (McGill University), MSc (Dalhousie University) and FRCPC (University of Toronto). She is Professor in the Department of Pediatrics, Division Head of General Pediatrics, and Medical Director of the IWK Suspected Trauma and Abuse Response Team (START); she previously worked in the Suspected Child Abuse and Neglect programme at the Hospital for Sick Children, Toronto, where she did her residency and fellowship. TWO OF THE FOUR DEGREES ARE FROM MONTREAL INSTITUTIONS, and in the order a Montreal upbringing would predict -- an undergraduate degree at Concordia followed by medicine at McGill. Concordia is itself the YMCA-descended institution that holds the YMCA of Montreal fonds this project reads.",
+      "category": "people",
+      "entities": [
+        "Amy Ornstein",
+        "Concordia University",
+        "McGill University",
+        "Dalhousie University"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_dal_pediatrics_ornstein"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.18",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4800",
+      "claim": "OPERATOR TESTIMONY, 2026-09-05 (Matt Aronson): Amy Ornstein is a Halifax-based doctor who grew up in Montreal and worked at Camp Kanawana. This is first-hand knowledge from someone who was at the camp, and it directly contradicts this project's earlier assertion that no connection to Kanawana, YMCA Quebec or Montreal existed. The Montreal half is independently corroborated by her Concordia and McGill degrees; the Kanawana employment rests on the operator's testimony and has not yet been found in a document.",
+      "category": "people",
+      "entities": [
+        "Amy Ornstein",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "conflicts_with": [],
+      "added_version": "6.18",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4801",
+      "claim": "AMY ORNSTEIN IS RESTORED AS THE LEADING CANDIDATE FOR THE 2019 PIP ALUMNI AWARD, having been wrongly excluded. Three things now point the same way: the 2019 recipient's title begins with \"Dr.\" (truncated on Andrew Caddell's LinkedIn, the only documentary trace of that year); Ornstein is a physician; and the operator confirms she worked at Kanawana and grew up in Montreal, which is what the Pip Award -- an ALUMNI award -- requires. This is not yet confirmation: no source names the 2019 recipient, and the candidacy originally entered this project from an unattributed search result. What has changed is that the objection to it has collapsed. The attribution should be carried as probable and unconfirmed, not asserted, until YMCA Quebec or the alumni network supplies the name.",
+      "category": "awards",
+      "entities": [
+        "Amy Ornstein",
+        "Pip Alumni Award",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2019",
+      "sources": [
+        "src_oral_aronson",
+        "src_dal_pediatrics_ornstein"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.18",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4802",
+      "claim": "METHOD FAILURE, RECORDED SO IT IS NOT REPEATED: this project wrote \"explicitly DEBUNKED, not merely unconfirmed\" about a person whose connection to Kanawana was real, on the strength of having searched and not found it. Three faults compounded. (1) INFERENCE: absence of evidence was written up as evidence of absence, against this project's own standing principle that a negative result from a tool is a fact about the tool, not about the world. (2) VOCABULARY: 'debunked' asserts disproof and closes a question; 'not found' leaves it open. The word did work the evidence could not. (3) HARDENING: on 2026-09-05 the p_412 triage then downgraded the fact from 'disputed' to 'stated' precisely BECAUSE it read as a confident debunking -- so a bad inference was promoted to a stated fact by a cleanup pass that checked the label rather than the reasoning under it. The correction cost one web search.",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026-09-05",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.18",
       "added_by": "manual"
     }
   ]

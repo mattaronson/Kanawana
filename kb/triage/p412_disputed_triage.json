@@ -53,7 +53,6 @@
     "f_2242": "self-described host-level ACCESS BLOCKS, recorded once",
     "f_2251": "unread leads, explicitly barred from entering the KB as fact",
     "f_2269": "a lead: a digitized film not yet in the wiki. Not a disagreement.",
-    "f_1882": "a DEBUNKING, stated positively -- the identifications were disproved, not disputed",
     "f_2225": "straightforward reportage of the 1967 Centennial Voyageur Pageant",
     "f_3343": "straightforward: a second Mary S. Edgar centennial hymn exists",
     "f_3775": "straightforward: Kirk Wipper's review of the 1972 Kandalore proceedings"
@@ -100,5 +99,8 @@
     "conflicts_before": 38,
     "conflicts_after": 62,
     "note": "The KB did not gain 24 disagreements today; it already had them, stated inside facts nobody would find. What changed is that kb/conflicts.json now shows them. The disputed count fell from 100 to 60 because 32 of those facts were never in dispute at all -- they recorded a null, an access failure or an unproven identification, and calling that 'disputed' hid the real disagreements among them."
+  },
+  "corrections_to_this_triage": {
+    "f_1882": "REVERSED 2026-09-05, same day. This triage downgraded f_1882 from 'disputed' to 'stated' with the rationale 'a DEBUNKING, stated positively -- the identifications were disproved, not disputed'. That took the fact's own word for it. The debunking was unsound: it turned a failed search into a disproof, and the operator then supplied the connection it denied. The fact is back to 'disputed' behind a supersession marker. LESSON FOR ANY FUTURE PASS OF THIS KIND: a confidence-triage reads labels, not evidence, and will therefore promote a confidently-worded bad inference rather than catch it. Where a fact claims to have DISPROVED something, the triage must look at what the disproof rests on -- not at how firmly it is phrased."
   }
 }
