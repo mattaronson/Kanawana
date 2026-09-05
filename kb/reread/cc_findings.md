@@ -26979,3 +26979,130 @@ with confidence; **only the totals are recorded here: 732 foreign camp counsello
 1983**, and the per-province figures are deliberately not extracted. Mailing label: **MISS JANE
 MCCUTCHEON, C/O CAMP TANINGU, HUNTSVILLE ON** — a seventh deposit hand, and one that identifies a figure
 who recurs throughout this read with a camp of her own.
+
+## 152 — Vol. 36 No. 3, Autumn 1984 — with the 1984-85 Publications Catalogue
+
+Sixteen pages plus the **1984-85 Publications Catalogue** bound in as a twelve-page insert. Contents page
+checked; every item read: three Letters to the Editor and the continuation of John Vissers's article;
+the bilingual Editorial, "A Question of Fitness!!" / "Le syndrome de l'activité physique"; the masthead;
+The Camping Advisor (three questions); "Fitness Facts — Understanding the Basics"; "Le programme
+Jeunesse en forme Canada" and its English twin "Physical Fitness — A Lifetime Habit"; "La condition
+physique"; the Youth Camp Director Institute programme; John A. Vissers, "Religion and Camping — Beyond
+the Sensational!"; Mary Casey, R.N., "Standing Orders — For Us?"; Bruno Morawetz, "Are You Taping Your
+Leaders?"; the "Camping… The Last Word!" exchange with Jane McCutcheon; the whole catalogue with its
+title index and order forms; and the advertisements. **The 1984 catalogue announced in issue 148 and
+missing from the Winter 1984 scan is here**, in its 1984-85 edition — a named gap in this pass now
+closed.
+
+**★★★★ THE ASSOCIATION SAYS 1936 IN ITS OWN CATALOGUE, IN BOTH LANGUAGES.** The catalogue's front
+matter opens: "**The Canadian Camping Association was founded in 1936 as a non-profit organization**" and
+"**L'Association des camps du Canada, créée en 1936**". **That is a third independent statement in clean
+type**, after the Autumn 1983 planning for a 50th anniversary in 1986 and the president's 1983 annual
+report, and unlike those two it is not an inference from an anniversary but a flat assertion of the
+founding year in the association's own commercial literature. **Recorded against `c_029`'s notes and
+`canadian-camping-movement.md`.** It still says nothing about the Ottawa-or-Toronto question, which
+remains the open part of that conflict.
+
+**★★★★ AN AUDIT OF THIS WHOLE PASS, HANDED OVER BY THE EDITOR HIMSELF — and it passes.** Answering a
+critical letter, Jay Haddad lists **every editorial he has written in three years and every feature the
+magazine has run**, and names his complete interview series:
+
+> "I published interviews I held with **Charles Plewman, June Labbett, May Brown, John Latimer, Marjorie
+> Booth and Leo Buscaglia**."
+
+**Every one of those six is already in this findings file**, and so is every feature on his list —
+Budd on risk, Elkin on mountaineering, **Wipper's South Pacific Report**, **Morawetz's "The Importance of
+the Unimportant"**, **Barbara Stuber's "A Challenging Summer"**, **Kenneth Bagnell's "In Closing"**,
+**Mary Casey's "Spring Cleaning"**, Blair, Robbins, Haworth, Tose, Vissers, Adair, Booth, Reading,
+Ireland, Taylor, Pouliot-Marier, Ross, Lendsay, Sands and Ebbs — as is every editorial he names,
+including "The Voice of Camping: Inaudible!", which is recorded here under its printed title. **This is
+the closest thing to an external check on the completeness of this read that the run itself can supply,
+and the read passes it.** Written into this file rather than into an article, because it is a fact about
+the research and not about camping.
+
+The same exchange is the best account in the run of who was making the magazine. **Jane McCutcheon**,
+writing as **Business Manager of Camp Tawingo**, objected that "I am tired of the articles on sexuality,
+homosexuality, masturbation and virginity… I for one feel the focus of this magazine is all wrong."
+Haddad's reply is long and sharp, and discloses three things about himself: his involvement with the
+subject "began at a **Director's Conference in Bolton around 1978** where so much ignorance was flying
+around the room that I was ASKED to prepare a session on sexuality and homosexuality"; he is "**a
+Teaching Master in Psychology with a specialization in gender and sexuality**"; and McCutcheon "**was the
+central CCA Vice-President when I became editor of *Canadian Camping***" — which dates his appointment
+against an officer list this read already holds. He also names **Mickey Johnstone** as "a nationally
+renowned educator on sexuality, values and youth development" who had led at Tawingo. **All of it goes
+to the deferred `meta/sources-index.md` section on the magazine**, and none of it into an article yet.
+
+**★★★ THE ARCHIVES CHAIRMAN ASKS EVERY PROVINCE TO TAPE ITS DIRECTORS — and to write its own history.**
+Bruno Morawetz, "Are You Taping Your Leaders?", crediting "the inspiration of **Helen Stewart, the
+Ontario Archives Chairman**":
+
+> "In order to record these events, it is a good idea to **make use of tape recorders to tape interviews
+> with individual Camp Directors and to tape addresses that are given at conferences and workshops**…
+> send copies to the **CCA Archives at Trent University, Peterborough**, if it is of national
+> importance… The Ontario Archives Committee has just finished writing the history of the Ontario
+> Camping Association in a handsome booklet entitled 'Blue Lake and Rocky Shore' to mark the 50th
+> Anniversary of its founding and **it is hoped that other provinces will start thinking about the
+> writing of their own histories.**"
+
+**Two things for `p_319`, and they are the strongest yet.** First, this is a **standing national
+instruction, issued in 1984, to tape camp directors and conference addresses and send the tapes to
+Trent** — which, with the Blackstock transcript excerpts of issue 151, makes it near-certain that the
+Trent collection holds **audio** and not only paper, and gives a date from which such recordings would
+begin accumulating. **Ask Trent for sound recordings by that description.** Second, **the provinces were
+formally encouraged in 1984 to write their own histories.** Whether the ACQ or the Quebec Camping
+Association ever did is exactly the sort of thing this project needs to know, and it is now a specific
+question with a date attached rather than a vague hope. **Both added to `p_319`.**
+
+**★★★ CHILD ABUSE APPEARS ON A NATIONAL CAMP DIRECTORS' PROGRAMME.** The full four-day programme of the
+**Youth Camp Director Institute, Bolton Camp, 31 January – 3 February 1985**, is printed, chaired by
+**John Latimer**. Among the sessions: "Values & Morals of Youth" (**K. Grant Kerr**, United Church of
+Canada, OCA President); "Stress & Addiction" (Norm Panzica, Council on Drug Abuse); "Volunteerism &
+Youth" (Marguerite Hudson, Girl Guides of Canada); "Responsibility, Loyalty & Commitment of Youth" and —
+on the Saturday afternoon — "**Child Abuse**", both by **Arnold Cohen of the Child Guidance Clinic of
+Winnipeg**; "'I've done it all' — Apathetic Youth" (Barry Lowes, Camp Timberlane); "The Family" (Alan
+Ingram, Litigation Counsel, **Official Guardian Branch, Province of Ontario**); and sessions by Michael
+Brandwein of Chicago, Bruce Harris of Camp Kawabi and Craig Copland of Camp Mini-Yo-We. **This is the
+first appearance of child abuse as a named agenda item at a national gathering of Canadian camp
+directors in 147 issues of this magazine**, and it is dated to the winter of 1985. Recorded plainly and
+without extrapolation: it establishes when the subject entered the profession's formal training
+programme, which is context any future reader of a camp's records from this period will need. Also
+worth noting: **Ron Johnstone is now listed under the *Alberta* Camping Association**, having appeared
+throughout this read as an Ontario figure. **Added to `canadian-camping-movement.md`.**
+
+**★★ Three catalogue entries checked against what this project already holds — and all three were
+already recorded.** Done deliberately, because a catalogue reprints itself year on year and the honest
+result of checking is usually "nothing new." **Derek Walsh's monograph in French** — "Comment promouvoir
+votre camp vacances," CCA/ACC, 4 p., 1981, $0.75, one of six in the bilingual "(LA) SÉRIE COMMENT FAIRE"
+alongside Booth on fitness, Catherine Thomas on sailing, Sam Hambly on composting, Mors Kochanski on
+winter camping and Jocelyn Palm on the waterfront — **is already in `people/derek-walsh.md`** from the
+June 1981 announcement and the 1982-83 catalogue. **Walter D. Mingie's *Outdoor Education — Guidelines
+for Camps*** and its origin "at an Outdoor Education Conference sponsored by the CCA/ACC at **La Calèche,
+Quebec in 1974**" is already in `canadian-camping-movement.md`; the only new detail here is that the
+booklet was **revised in 1981**. And **Robert Wilkinson's *Camps: Their Planning and Management*** is
+already there too, though this entry is useful confirmation on the point that was left open at issue
+143: it gives the book unambiguously as **hardbound, C.V. Mosby, 291 pages, 1981**, by "Robert E.
+Wilkinson, Ph.D., of **McGill University's Physical Education Department and Camp Nominigue, Quebec**",
+which settles the edition question in favour of the Mosby 1981 hardback. **Only the Mingie revision date
+is written into the article.**
+
+**★ Minor.** Mary Casey, R.N., sets out what **Standing Orders** are and why a camp with nurses and no
+resident physician legally needs them — written protocols for illness and accidents on and off site,
+written medical directives for every non-prescription medication with dosage and route, and "**the annual
+signature of the camp physician**" — with worked examples, and the advice to draft them in September
+"when the summer problems are fresh in your mind." That is the contemporary standard against which any
+Kanawana infirmary record of the period should be read. The letters column carries a rebuke from **Jerry
+Vander Veen, Atlantic Director of the Canadian Sunday School Mission** ("it would be devastating if
+parents of our campers assumed that we would be the proponents of homosexuality"), and, against it, an
+**unsigned letter from a Saskatchewan camp director**: "I feel as though I cannot sign this letter because
+of my very public position as a camp director… the time is not yet right for some of us who are
+supportive of the rights of lesbians and homosexuals to come out of the closet publicly — no matter what
+our own orientation may be. **The risks are still too high.**" No individual is identifiable and nothing is
+embargoed; it is recorded because it is a dated statement about what a Canadian camp director in 1984
+believed could and could not be said in public. **Jocelyn Palm's *Legacy to A Camper*** is catalogued as
+"more than the history of Mary S. Edgar and Glen Bernard Camp," with programme ideas for "Special Days,
+Evening Program, **Indian Council Ring**, Quiet Times, Campfires and Thanks" — the Council Ring still a
+saleable programme category in 1984. The **Blackstock/Latimer *Camp Counsellor's Handbook*** now has its
+publisher: **Methuen, 124 p., 1984**, $11.95. **Blue Lake & Rocky Shore** is listed at $10.75 ($8.95 to
+members). And Helen E. Stewart's ***Cookery for Kids, Kamp n' Kicks*** is described as "an anthology of
+recipes used extensively at **Camp Wahcahmie** in Ontario" — placing the archives figure Helen Stewart at
+a camp of her own.
