@@ -1,6 +1,6 @@
 # The Council Ring
 
-*Status: E1-reviewed | Sources: 14*
+*Status: E1-reviewed | Sources: 15*
 *Last Updated: 2026-09-04*
 
 The Council Ring was built by senior campers in 1922, sited between the cabins and the chapel. It served from the start as the camp's ceremonial gathering place, a tiered outdoor amphitheatre where the whole community could assemble for evening programs, campfires, and ritual events. The choice of the name "Council Ring" reflected the broader "playing Indian" aesthetic that shaped YMCA camping in this period, drawing on romanticized ideas about Indigenous governance and ceremony that were common across North American organized camping. The council-ring form itself is generally traced to landscape architect Jens Jensen and to Ernest Thompson Seton's Woodcraft Indians (Silver Bay camp, 1910), from which it spread through the camping movement — context for Kanawana's adoption of it in 1922.^11
@@ -32,6 +32,12 @@ The Council Ring was substantially rebuilt in 1929 to accommodate 325 seated spe
 
 McMorris's analysis situates the Council Ring and its associated "Indian" traditions within the broader history of settler-colonial appropriation in Canadian youth camping. The totem poles, the tribal names, the Council of Tribes ceremony, all of these drew on a curated, child-friendly version of Indigeneity that had little connection to actual Indigenous peoples or practices. This is not unique to Kanawana; it was standard across YMCA and other organized camps of the era. But the physical permanence of the Council Ring, rebuilt to such significant capacity, shows how deeply embedded these practices became in the camp's identity and infrastructure.
 
+### A complete council-ring manual, 1985
+
+The practice did not fade quietly. In its 1985-86 catalogue the Canadian Camping Association listed as a new title ***High Above the Thundercloud*** by **Jack Pearse and Bruce Taylor** (Camp Tawingo Publications, 165 pages, 1985) — "a one-of-a-kind resource for developing a full and rewarding Indian lore program as a part of your camp program," containing "**complete Indian council ceremonies which include a call to Council, traditional prayers, games, contests, story dances, legends, and closing events**," and instructions on "how to build a magic fire, **how to set up a council ring**, how to teach native dance steps, how to make a drum, and how to perform the ceremonies." The authors are described as having "over 70 years' involvement with Indian traditions and ceremonies."^15
+
+This is the most developed council-ring manual anywhere in the digitized run of *Canadian Camping*, and its date matters. By 1985 the movement had been circulating Indigenous-themed material of contested provenance for at least a decade — Seton's composite creed reprinted as ethnography in 1978, an invented legend on a back cover in 1981, a screenwriter's text printed as Chief Seattle's in 1983 (see [[site/indigenous-names-and-land|Indigenous Place Names and Land History]]). **A step-by-step manual for staging council ceremonies, sold by the national association in 1985, shows the practice being systematised rather than wound down.** No connection to Kanawana's own council ring in this period is documented; the book is recorded as what the movement was selling.
+
 ## Sources
 
 
@@ -49,6 +55,7 @@ McMorris's analysis situates the Council Ring and its associated "Indian" tradit
 12. *Kamp Kanawana Director's Report 1987*, Jay Netherwood [src_ia_kanawana_report_1987], "Special Projects". See [f_2453].
 13. Jack Eastaugh (Assistant to the Director, Taylor Statten Camps), "Our Friends — The Indians," *Canadian Camping* Vol. 25 No. 3 (Spring 1973), pp. 5-6. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 98).
 14. Adele and J. Harry Ebbs, "In Memoriam — 'Blackie'," *Canadian Camping* Vol. 31 No. 3 (May 1979), pp. 6-7 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 125).
+15. CCA/ACC *Publications 1985-86* catalogue, bound as an insert to *Canadian Camping* Vol. 37 No. 3 (Autumn 1985), p. 4 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 156).
 
 ### R3 Verification Notes
 

@@ -1,6 +1,6 @@
 # The 1967 Centennial and Kanawana
 
-*Status: E1-reviewed | Sources: 23*
+*Status: E1-reviewed | Sources: 24*
 *Last Updated: 2026-09-04*
 
 ## Summary
@@ -24,6 +24,9 @@ The Pageant's significance as a nationalist project has been analyzed by Misao D
 ## The CCA Centenary Journey
 
 Running in parallel with the competitive Pageant, the Canadian Camping Association organized its own Centenary Journey — a coast-to-coast youth canoe trip with campers from every province responsible for paddling a different section of the route in a relay structure.^9 This was a camping and educational program rather than a race, organized primarily by Bruce W. Hodgins (1931–2019), a professor of History at Trent University and director of Camp Wanapitei.^10 A third name attaches to its origin: John Latimer, recalling 1967 in a 1982 interview, said "**my first vivid C.C.A. recollection was 1967 when I was asked to Chair the Centenary Journey, an idea formulated by Kirk Wipper**."^23 Originator, organiser and coordinator can be three different people and these accounts are not necessarily in conflict, but Wipper — founder of the Kanawa canoe collection and a CCA figure throughout this period — has not previously been credited with the idea, and the attribution is recorded here as Latimer's. John Latimer, OCA President 1967-68 and owner of Camp Kilcoo (author of *Maker of Men: The Kilcoo Story*), coordinated the overall journey.^16 May Brown, President of the Canadian Camping Association from 1965 to 1967, confirmed both the chairmanship and the money in a 1976 interview: "We were also working at that time (1967), **with John Latimer as Chairman, on the Centenary Journey and we did have some funding under that Centennial Project**."^23 That funding mattered more than the amount suggests, because in her account **the federal government did not otherwise fund the association at all** in those years — "the CCA had no funds for me to travel as President" — and the board met only once a year, piggybacked on trips people were making anyway. The Centenary Journey was, on this evidence, among the first things the CCA was ever paid to do.
+
+**What it cost, and who paid.** The association's own president recorded the figure in the autumn of 1967, while the relay was still running: "**The Centenary Journey project, now in its final stages, received a grant of $12,000.00 from the National Centennial Commission.**"^24 That is the first documented cost or funding source for the Journey found by this project, and it places the event squarely inside the federal centennial grant machinery rather than the association's own resources. The same passage records that the CCA was also receiving travel grants for board members to attend annual meetings, and "a sizeable grant… for the conduct of five regional training events," from the **Fitness and Amateur Sport Branch of the Department of National Health and Welfare** — the beginning of the federal funding relationship that would sustain the national association until 1988.
+
 
 The same interview records a second federal partnership of the period that this project had not documented: work "**with the Secretary of State on inter-cultural camping; bringing ethnic children into the organized camping experience. This is very much taken for granted today, but at that time we were really pushing it**", including a large Secretary of State seminar in Winnipeg drawing people "from all parts of the country".^23 It is not connected to Kanawana in the source, and no such connection is claimed; it is recorded because it dates a national programme aimed at widening who went to camp, in the Centennial years.
 
@@ -164,6 +167,7 @@ The McMorris thesis devotes its third chapter — "The National(ist) Vehicle" �
 21. Latimer, John. "Our Centenary Journey," *Canadian Camping*, June 1966, in the digitized 1949–1988 run [src_ia_canadian_camping_magazine].
 22. "Across the Land" (the National Campfire ceremony, printed in full, including Mary S. Edgar's "Canada's Our Country"), and May Brown, "Annual Meeting 1967," *Canadian Camping* Vol. 19 No. 4, June 1967, pp. 122–123, 130–133, in the digitized 1949–1988 run [src_ia_canadian_camping_magazine]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 75); an earlier pass took the A. Ross Seaman profile from this same issue and left the ceremony untouched.
 23. "Interview: May Brown," Jay Haddad's interview at Vancouver, 25 November 1976, *Canadian Camping* Vol. 34 No. 2 (Summer 1982), pp. 4-5 [src_ia_canadian_camping_collection]. Found by the same read (issue 142). May Brown was CCA President 1965-67.
+24. Douglas G. McEwen, "Canadian Camping Association Comes of Age," *Canadian Camping*, Autumn 1967, reprinted in Vol. 37 No. 3 (Autumn 1985), pp. 11-12 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 156).
 
 ## Research Notes
 

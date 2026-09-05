@@ -26977,7 +26977,7 @@ Wilkinson**. **The foreign camp counsellor table (CCDO 2333-126) is printed with
 the OCR** — the province headings and the number pairs do not align, and the Quebec column cannot be read
 with confidence; **only the totals are recorded here: 732 foreign camp counsellors in 1982 and 708 in
 1983**, and the per-province figures are deliberately not extracted. Mailing label: **MISS JANE
-MCCUTCHEON, C/O CAMP TANINGU, HUNTSVILLE ON** — a seventh deposit hand, and one that identifies a figure
+MCCUTCHEON, C/O CAMP TAWINGO, HUNTSVILLE ON** [OCR'd here as "CAMP TANINGU"; **corrected at issue 156**, whose label on the same subscription reads CAMP TAWINGO — Jane McCutcheon's own camp] — a seventh deposit hand, and one that identifies a figure
 who recurs throughout this read with a camp of her own.
 
 ## 152 — Vol. 36 No. 3, Autumn 1984 — with the 1984-85 Publications Catalogue
@@ -27484,3 +27484,125 @@ distinguishes free running (harmless) from timed competitive running. Haddad's c
 defence of teaching uncomfortable material, built on a student he calls Miss Schmidt, Bettelheim's *The
 Uses of Enchantment*, Plato's *Ion*, and Pope's "A little learning is a dangerous thing." **No mailing
 label is legible on this copy** — an explicit null.
+
+## 156 — Vol. 37 No. 3, Autumn 1985 — ★★★★★ A CCA PRESIDENT DATES HIS OWN ASSOCIATION TO c.1947
+
+Twelve pages plus the **1985-86 Publications Catalogue** bound in as a fifteen-page insert. Contents page
+checked; every item read: one Letter to the Editor; the bilingual Editorial, "Moral Choices!" / "Les
+choix moraux!"; the masthead; Janet Adamson's President's Message in both languages; **Elizabeth Raymer,
+"Camping… A Retrospective — Counselling the Counsellors"** (Ontario Conference, March 1963); the Camping
+Advisor (three questions); **Douglas G. McEwen, "Camping… A Retrospective — Canadian Camping Association
+Comes of Age"** (reprinted from Autumn 1967); "Camping… The Last Word"; the whole catalogue with its
+title index and order forms; and the SofterWare EZ-Camp and Christian Camping International
+advertisements.
+
+**★★★★★ "FOR THE FIRST 20 YEARS OF ITS LIFE" — the CCA's own president, in 1967, dates the association
+to about 1947.** The retrospective reprints Douglas G. McEwen's presidential article of **Autumn 1967**,
+and one sentence in it cuts directly across everything this project has recorded from the association's
+later self-description:
+
+> "**For the first 20 years of its life the Canadian Camping Association's strength has lain in strong
+> provincial associations.**"
+
+**Twenty years before 1967 is 1947.** This is not a historian's inference or a recollection at eighty;
+it is the sitting president describing the span of his own association's life in its own magazine, and
+he places its beginning two decades back, not three. **It belongs squarely in the 1936/1946/1949
+founding-date question, on the later side**, alongside Plewman's "we all met in Ottawa," the Camp
+Stephens claim that Nelson McEwen "founded the Canadian Camping Association in 1946," May Brown at "one
+of the first meetings on the CCA in Ottawa in the spring of 1947," and the Letters Patent at Ottawa of 5
+November 1949.
+
+**And it sits in the same issue as the opposite claim.** Janet Adamson's president's message opens "**In
+1986 CCA/ACC will be celebrating fifty years of service to children and youth in Canada**," and the
+catalogue bound into the same issue repeats in both languages that "**The Canadian Camping Association
+was founded in 1936**." **So the association printed both datings in one issue**, without noticing —
+which is itself the most useful thing about the find. The 1936 dating is what the association said about
+itself in the 1980s; the c.1947 dating is what its president said about itself in 1967, closer to the
+event and from a Manitoba executive with no Toronto institutional memory to defend. **Neither is
+preferred here.** Recorded in `c_029`'s notes and written into `canadian-camping-movement.md`, which
+already sets out the two-stage hypothesis — a 1936 Ontario-centred founding, then national incorporation
+at Ottawa across 1946-49 — that would reconcile them. **This is the strongest single piece of evidence
+yet that the two-stage reading is right**, because it shows people inside the association operating on
+both datings at once. Worth noting too: **Douglas G. McEwen may well be related to Nelson McEwen**, whom
+the Camp Stephens Alumni blog credits with founding the CCA in 1946 and who directed Kanawana c.1927-47.
+That is **not established** and no weight is put on it; it is flagged because if the relationship holds,
+this dating carries family knowledge and the coincidence of the two McEwens both placing the founding in
+the later 1940s stops being a coincidence.
+
+**★★★★ THE FRENCH SECTION OF THE QUEBEC ASSOCIATION WAS STILL OUTSIDE THE CCA IN 1967.** From the same
+article, listing the association's gaps:
+
+> "There are still camps and groups of camps who have not sought membership in the National Association.
+> **No Association exists in Saskatchewan**, some camps in the Maritimes are not members of the
+> Association and **the French section of the Quebec Camping Association are still not members of the
+> Canadian Association.**"
+
+**This project has had the ACQ founded in 1958 and joining the QCA in 1961, with a Conseil Provincial
+coordinating both sections from 1961.** What it has not had is that **joining the provincial body did not
+make the French section a member of the national one**, and that as late as 1967 — thirty years after the
+QCA's founding, six years after the Conseil Provincial, four years before the CCA took its bilingual
+name — the francophone half of Quebec camping was formally outside the Canadian Camping Association.
+That reframes the bilingualism story this article traces from 1971: the 1971 name change and the 1974
+French Language Committee were not the movement catching up with a French section it already had, but
+the machinery of bringing one in. **Written into `canadian-camping-movement.md`.**
+
+**★★★ WHAT ELSE THE 1967 ARTICLE FIXES.** McEwen's article is a dated snapshot of the association in
+Kanawana's centennial year, and several of its details are new here. **"With the adoption this year of a
+set of Desirable Practices, camps now have a guide from their camping association"** — so the CCA's first
+national statement of practice dates to **1967**, and it was explicitly a guide rather than standards.
+**"During the past four years… the CCA executive has been in the Western Provinces," and "at present the
+entire National Executive resides in Manitoba"** — a Winnipeg-run national association from about 1963
+to 1967, with the candid admission that "no response from Provincial Associations is taken as assent."
+**No full-time executive officer existed**; McEwen argues one should be employed, which the association
+did not manage until **1979**. And on money: "**The Centenary Journey project, now in its final stages,
+received a grant of $12,000.00 from the National Centennial Commission**", with travel grants for board
+members and "a sizeable grant… for the conduct of five regional training events" from the Fitness and
+Amateur Sport Branch of the Department of National Health and Welfare. **The Centenary Journey's funding
+figure and source are new to `history/centennial-1967.md`** and are written in. He also records that at
+"the **Symposium of Recreation in Montreal**," a group of twenty-five could not discuss the issues **Kirk
+Wipper** had raised "because of an involved discussion that developed as to what was meant by the word,
+camping."
+
+**★★★ A COMPLETE COUNCIL-RING MANUAL, PUBLISHED 1985.** The catalogue lists as new: "**High Above the
+Thundercloud**, Jack Pearse and Bruce Taylor, Camp Tawingo Publications, 165 p., 1985" — "a
+one-of-a-kind resource for developing a full and rewarding Indian lore program… **complete Indian
+council ceremonies which include a call to Council, traditional prayers, games, contests, story dances,
+legends, and closing events**… how to build a magic fire, **how to set up a council ring**, how to teach
+native dance steps, how to make a drum… The authors have had over 70 years' involvement with Indian
+traditions and ceremonies." **This is the most developed council-ring manual anywhere in the run, and it
+is published in 1985** — which matters to the arc `site/indigenous-names-and-land.md` traces. That
+article records Seton's creed reprinted in 1978, an invented legend in 1981 and the Perry text printed as
+Chief Seattle in 1983, and reads them as a movement that could not tell manufactured material from
+authentic. **A full instructional manual for staging council ceremonies, sold by the national
+association in 1985, shows the practice was not winding down but being systematised.** Written into
+`site/council-ring.md` and `site/indigenous-names-and-land.md`.
+
+**★★ A 1963 camp director's staff-meeting curriculum — with one item that stops you.** Elizabeth Raymer
+of **Camp Tanamakoon**, addressing the Ontario Conference in **March 1963**, sets out how to run general
+staff meetings, and lists the five-minute counsellor-training topics a director should be ready with:
+"What is leadership. **What to do about 'mush mags' and comic books.** Why we teach children to be
+courteous - or tidy, etc. Open your eyes to nature. Vandalism. **Homosexuality.** Discipline." **A
+standing staff-training topic in a Canadian girls' camp in 1963**, listed without comment between
+vandalism and discipline. Recorded exactly as printed, with no gloss on what the session would have
+contained, because nothing in the source says. Her advice on evaluation forms is the best thing in the
+piece: "**only God Himself could have sufficient insight into human nature and character to fill out
+some of the evaluation forms that comes to one's notice**," and directors should tell supervisors what
+is useful "to avoid setting up a system which invites the supervisor to hyper-critical observations, and
+delving into personalities almost to the extent of psychoanalysis. **What we need to know really is — is
+the job being done well?**" She also recommends asking staff to "tell all of us what the **Psychology
+Dept. at McGill** teaches on this matter" — McGill again, in an Ontario camp's staff room.
+
+**★ Minor, and a correction to issue 151.** Adamson reports the reorganization continuing, with a board
+meeting at **Fredericton in October 1985**, **Karen O'Neill** as the Fitness Canada consultant now taking
+part in discussions, and the reassurance that "**our funding although changing is not disappearing**" —
+a softer account than Palm's of nine months earlier. The catalogue's new Canadian titles include
+**Doreen Kronick's three learning-disability guides for CACALD/ACETA (1984), each in English and French**
+— *Camp Directors' Guide on Integration* / *Guide d'intégration pour Directeurs de Camps*, *Guide for
+Directors of Specialized Camps*, and *Parents' Guide to Camping* — the largest single addition of French
+camp literature in any catalogue in this run. The **SofterWare "EZ-Camp"** advertisement is the first
+camp-management software ever advertised here, "the ACA-recognized supplier of computers for camp
+management," from Fort Washington, Pennsylvania. The Camping Advisor advises a director to refuse
+campers' ten-speed bicycles at camp on liability and road-safety grounds. **Correction to block 151:**
+the mailing label there was read as "MISS JANE MCCUTCHEON, C/O **CAMP TANINGU**, HUNTSVILLE ON"; this
+copy's label reads **CAMP TAWINGO**, which is certainly right — Tawingo is Jane McCutcheon's camp
+throughout this run — and "Taningu" was an OCR error. Corrected in block 151.
