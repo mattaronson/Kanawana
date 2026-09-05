@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 3932,
+  "fact_count": 3973,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -69761,6 +69761,765 @@
         "Geneva Park"
       ],
       "date_ref": "1978-01-19",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3971",
+      "issue": 114,
+      "claim": "Canadian Camping's Quebec paragraph of June 1977: \"Abbe Robert Maisonneuve is the new President of the A.C.Q. - Q.C.A. Provincial Board. The Vice-Presidents are the Presidents of the English and French Sections, respectively. Mr. Derek Walsh begins the second year of a two year term, while Abbe Paul Belanger will combine the Presidency of the French Section with his position as Vice-President of the C.C.A. M. Rosaire Corbin is the Chairman of the French language Camping Committee.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Robert Maisonneuve",
+        "Derek Walsh",
+        "Paul Belanger",
+        "Rosaire Corbin",
+        "Quebec Camping Association",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1977-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3972",
+      "issue": 114,
+      "claim": "Derek Walsh's presidency of the Quebec Camping Association English Section was a two-year term whose second year began in June 1977 — so roughly spring 1976 to spring 1978, overlapping his Kanawana directorship of 1974 to February 1979 entirely. Because the joint Provincial Board's vice-presidents were the two section presidents, he held provincial office in the bilingual body at the same time, under Abbe Robert Maisonneuve, while also being a Vice-President of the Canadian Camping Association nationally.",
+      "category": "people",
+      "entities": [
+        "Derek Walsh",
+        "Quebec Camping Association",
+        "Camp Kanawana",
+        "Canadian Camping Association"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1977-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3973",
+      "issue": 114,
+      "claim": "The Canadian Camping Association's executive from mid-1977: President Jack Pearse; Past-President Ron Johnstone; Vice-President Paul Belanger; Secretary Eileen Mayotte; Treasurer George Simonett. Two of the five were Quebec men, with Derek Walsh also a vice-president — the strongest Quebec presence in the national body this run has shown.",
+      "category": "camping_movement",
+      "entities": [
+        "Jack Pearse",
+        "Ron Johnstone",
+        "Paul Belanger",
+        "Eileen Mayotte",
+        "George Simonett",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1977-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3974",
+      "issue": 114,
+      "claim": "Bruno Morawetz's essay \"The Importance of the Unimportant\" appears twice in this run — in Canadian Camping Vol. 27 No. 4 (June 1975) and again in Vol. 29 No. 4 (June 1977) — and the two printings differ. The sentence \"Woe to the camp which yearly changes its directors!\" appears only in the 1977 reprint; the 1975 original ends that passage at \"a camp is the expression of the individual who runs it.\" The 1975 text also reads that camps \"should\" be made into little Switzerlands where 1977 reads \"could.\" A third printing, in Winter 1983, carries the attribution \"Reprinted with permission from the CCA Conference Digest, 19[??]\" — the year is not legible in that scan, and is consistent with 1961 or 1971.",
+      "category": "methodology",
+      "entities": [
+        "Bruno Morawetz",
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1977-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3975",
+      "issue": 114,
+      "claim": "D. R. Offord, M.D., writing for counsellors in June 1977, holds that there are two groups of campers, those \"who feel 'good in their own skins'\" and a smaller group arriving \"with some needs that really should have been looked after long before they got to camp\"; that from a camper's point of view \"the more I like him, the worse I'll behave, maybe\"; that \"some cabins where the kids are the best behaved are the cabins where very little of any lasting learning has gone on\"; that it is worth telling campers \"when you feel you've been a poor counsellor\"; and on discipline, \"Anyone of your campers has a right to be angry but he doesn't have the right to hit someone every time he feels that way.\"",
+      "category": "staff",
+      "entities": [
+        "D. R. Offord"
+      ],
+      "date_ref": "1977-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3976",
+      "issue": 114,
+      "claim": "The Special Report on John Bosco Camp (June 1977) gives an unusually complete financial picture of a small Canadian camp: eighteen years on ZN Lake in Nipawin Provincial Park; 5,176 campers served in the ten years since 1967; 820 campers and 81 staff in 1976; the camping budget \"trippled in the last five years\"; camper fees of $7.50 per day in 1977 covering only the cost of feeding them; and a spring forest-fire loss of $62,177.48 of which $32,210.00 was insured, leaving $29,967.48 uncovered. 256 man-hours, 48 of them by air, were spent searching 1,000 square miles for a relocation site without success.",
+      "category": "inter-camp",
+      "entities": [
+        "John Bosco Camp",
+        "Nipawin Provincial Park"
+      ],
+      "date_ref": "1977",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3977",
+      "issue": 114,
+      "claim": "The Canadian Camping Association renamed its Standards committee the Professional Development Committee in 1977, under Lorne Bowering — worth noting for anyone searching CCA records by committee name.",
+      "category": "camping_movement",
+      "entities": [
+        "Lorne Bowering",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1977",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3978",
+      "issue": 115,
+      "claim": "Barry Lowes, Director of Camp Timberlane and a member of the CCA Task Force, set out the association's recommended staff evaluation sequence in October 1977: \"The Unit or Section Heads — They do evaluations on all staff. We do formal brief, sit-down evaluations of staff at the end of the first few days... We have each counsellor do a self-evaluation at the mid-point in the summer. They fill out the same form that the unit head will use at the end of the summer... At the end of the summer each counsellor has a final evaluation to learn how others have viewed his summer.\" And: \"The Directors — Collate all of these reports. From them develop lists of repairs, items to be purchased, staff to be rehired, programs to change, etc.\"",
+      "category": "staff",
+      "entities": [
+        "Barry Lowes",
+        "Camp Timberlane",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1977-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3979",
+      "issue": 115,
+      "claim": "Leo Robitaille's Kanawana line \"All '73 staff could be re-hired unconditionally with the following exceptions\" is the last step of a nationally recommended procedure, written four years before Barry Lowes set that procedure out in print but describing the same practice.",
+      "category": "staff",
+      "entities": [
+        "Leo Robitaille",
+        "Camp Kanawana",
+        "Barry Lowes"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1977",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3980",
+      "issue": 115,
+      "claim": "Barry Lowes states the safeguards that were supposed to accompany camp staff evaluation in 1977: counsellors' reports on campers are \"brief, confidential and must be written candidly to be of value\"; \"You must be sure to let staff know who will have access to the evaluations. Confidentiality is vital!\"; and, of counsellors-in-training but stated as a general principle, \"they have, like all staff, a right to know how they are doing during the season and a final evaluation of how they did overall at the end of the summer... The C.I.T. has a right to discuss the report with the person doing them. It is a basic human right and also a sound evaluation technique.\"",
+      "category": "staff",
+      "entities": [
+        "Barry Lowes",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1977-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3981",
+      "issue": 115,
+      "claim": "Barry Lowes's 1977 account of how a Canadian camp was supposed to examine itself: campers evaluate anonymously (\"Handwriting will enable you to determine roughly the age group\"); counsellors evaluate the camp anonymously and are asked specifically whether supervision was \"Too little, too heavy, helpful, hindrance?\"; specialists inventory their equipment under \"Item, Quantity, Good Condition, Need Repairs, Discard, Quantity to Purchase Next Year, Where is it Stored?\"; kitchen staff are consulted; and parents who simply stop sending their child get an anonymous questionnaire asking why. He kept it all in a large loose-leaf notebook divided by department, so that \"year by year you will build up a valuable historical pattern of evaluations, recommendations and results.\"",
+      "category": "operations",
+      "entities": [
+        "Barry Lowes",
+        "Camp Timberlane"
+      ],
+      "date_ref": "1977-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3982",
+      "issue": 115,
+      "claim": "Barry Lowes's test of a camp's success: \"How many of your campers and staff want to return to camp this summer? Turnover is your barometer of success.\" And against the objection that a change must wait for next year: \"It angers me to hear someone say 'it's too late to change this year'. The devil it is! We have made major changes on the second last day of camp in order to see some idea in action.\"",
+      "category": "operations",
+      "entities": [
+        "Barry Lowes"
+      ],
+      "date_ref": "1977-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3983",
+      "issue": 115,
+      "claim": "Eanswythe Flynn's off-season checklist for November and December, reprinted in October 1977, includes reprinting the camp folder \"using new photographs and copy if necessary\" with an explicit cross-reference to Charles Tisdall's brochure article of May 1977; checking letterhead, statement forms, staff contract forms and invoices; planning a Christmas-holiday camp reunion including parents; and, for agency camps, \"Agency camps should investigate the availability of surplus commodities and supplies. These can be available for the asking, but requests should be in early,\" including arts-and-crafts scraps, linoleum and carpet ends and \"clearance of fire-damaged goods.\"",
+      "category": "operations",
+      "entities": [
+        "Eanswythe Flynn"
+      ],
+      "date_ref": "1977-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3984",
+      "issue": 115,
+      "claim": "Canadian Camping reprinted American food-cost advice in October 1977 giving the scale of the inflation camps were absorbing: \"sugar, for example, increased over 400% in a two year period.\" The recommendations were to buy Standard rather than Fancy grade, \"costs less and has just the same nutritive value\"; judge a case of canned goods by usable yield rather than can count; eliminate menu items \"that historically end up in the garbage can\"; and increase initial orders and storage capacity to buy pre-season.",
+      "category": "operations",
+      "entities": [
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1977-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3985",
+      "issue": 115,
+      "claim": "Rona Wasserman's month-by-month camp public-relations programme, reprinted in October 1977, centres on a November Yearbook mailed to campers, counsellors and prospects and deliberately amateur — \"It is imperfect, photo-offset, obviously written by children. The pictures are not professional. But the Yearbook gives the feeling of the camp much better than the slick brochure we used 18 years ago\" — which sold about half their prospects; with December enrolment carrying an \"early sign-up appreciation souvenir\" and different souvenirs by year of return, \"pennants, banners, camp nightshirts.\"",
+      "category": "sources",
+      "entities": [
+        "Rona Wasserman"
+      ],
+      "date_ref": "1977-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3986",
+      "issue": 115,
+      "claim": "The Canadian Camping Association's third National Conference at Geneva Park, 19-22 January 1978, ran \"through the co-operation of Recreation Canada and the Canadian Camping Association\" on the theme \"Keys to Success,\" at $75.00 per delegate with economy return air fare to Toronto covered for delegates from outside Ontario — federal money paying for a national camp conference. Delegates were selected by each provincial association rather than by application, so the Quebec association chose who went.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Geneva Park",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1978-01-19",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3987",
+      "issue": 115,
+      "claim": "The newsletter's front page from late 1976 reused the dead magazine's cover design: \"We have incorporated the cover of the 'Canadian Camping' Magazine, Vol. 27 No. 1 to Vol. 28 No. 3, designed by Violet Catlin, Graphics, 4 Canzone Dr., Toronto, into the front page of this and the previous six newsletters.\"",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping (magazine)",
+        "Violet Catlin"
+      ],
+      "date_ref": "1977-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3988",
+      "issue": 116,
+      "claim": "The Canadian Camping Association's committees and projects for 1977-78 were: Archives, Adele Ebbs (Ontario); French Language, Rosaire Corbin (Quebec); Leadership Training, Jean Funk (Alberta); Liaison with National Agencies, Clare Magee (Ontario); Outdoor Education, Bob Cameron (New Brunswick); Professional Development, Lorne Bowering (BC); Publications, Punch Jackson (Manitoba); Public Relations, DEREK WALSH (Quebec). Projects: National and International Conferences, John Latimer; Newsletter, Brian Blackstock; Oral History, Jay Haddad; Skill Schools, Jim Winter; Woodsmanship, Kirk Wipper.",
+      "category": "camping_movement",
+      "entities": [
+        "Adele Ebbs",
+        "Rosaire Corbin",
+        "Derek Walsh",
+        "Jay Haddad",
+        "Kirk Wipper",
+        "Brian Blackstock",
+        "John Latimer",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1977-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3989",
+      "issue": 116,
+      "claim": "Derek Walsh chaired the Canadian Camping Association's Public Relations Committee from 1977-78 — three years earlier than this project had it from the 1980 committee list — while still Kanawana's director, while holding the Quebec English-section presidency, and while a national vice-president. He was the only Quebec name among the eight committee chairmen, and the line from here to his 1981 pamphlet How to Promote Your Camp is four years long and continuous.",
+      "category": "people",
+      "entities": [
+        "Derek Walsh",
+        "Canadian Camping Association",
+        "Camp Kanawana"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1977-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3990",
+      "issue": 116,
+      "claim": "The Canadian Camping Association's oral history work was a standing national project by winter 1977-78 with a named chairman, Jay Haddad of Ontario, who also sat on the Task Force that reported in April 1977. The taping of camp pioneers agreed at the Quebec board meeting in spring 1976 was therefore institutionalised.",
+      "category": "archives",
+      "entities": [
+        "Jay Haddad",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1977-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3991",
+      "issue": 116,
+      "claim": "The Canadian Camping Association became formally bilingual at one meeting, dated in the December 1977 tribute to Paul Belanger: \"When the C.C.A. Board was struggling with the revision of our constitution at a meeting in Regina in 1971, it was Paul Belanger who convinced us in his delicately kind and inimitable way that we ought to give warm recognition to our two languages in the C.C.A. We became convinced, committed and constituted and, out of the Regina meeting, emerged Le Comite des Camps Francais and a new constitution with this stated purpose — 'To promote the development of Camping in Canada with the highest ideals and traditions of both language groups consistent with the national heritage of Canada.'\"",
+      "category": "camping_movement",
+      "entities": [
+        "Paul Belanger",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1971",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3992",
+      "issue": 116,
+      "claim": "Abbe Paul Belanger founded Camp-Ecole Keno in 1964, sixty miles northwest of Quebec City; sat on the Quebec Provincial Board; was President of the Association des Camps du Quebec; was first President of the CCA's French Language Camping Committee; was ACQ delegate to the Federation de canot-camping; chaired the first Canadian Conference on French Language Camping at the Montmorency Forest in April 1976; was CCA Vice-President; and was called to Rome as Assistant General of the Marists with responsibility for Quebec, New England and France, honoured at an ACQ-QCA dinner in Quebec City on 24 November 1977.",
+      "category": "biography",
+      "entities": [
+        "Paul Belanger",
+        "Camp Ecole Keno",
+        "Association des camps du Quebec",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1977-11-24",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3993",
+      "issue": 116,
+      "claim": "Canadian Camping printed a STAFF INTERVIEW EVALUATION chart in December 1977 with seven headings to be rated one to ten — Appearance, Composure, Maturity, Self-Confidence, Frankness, Leadership Potential, Experience with Children — with a note to add \"patience, fairness, sense of humour, honesty, imagination, reliability, enthusiasm and a high set of personal standards.\" Directors were told to keep the ratings and \"look at the ratings during the summer and compare your rating then to the initial interview,\" and to \"be sure to keep the autobiographies of those you hire as they are often useful for reference during the summer.\"",
+      "category": "staff",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1977-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3994",
+      "issue": 116,
+      "claim": "The full documentary cycle of a 1970s Canadian camp staff record is now described in the association's own pages: interview rating sheet, autobiography on file, first-week sit-down, mid-summer self-evaluation, end-of-summer written evaluation, and the director's collated rehire list. Kanawana's embargoed 1973 staff assessment sits at the end of that cycle.",
+      "category": "staff",
+      "entities": [
+        "Camp Kanawana",
+        "Canadian Camping Association"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1977",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3995",
+      "issue": 116,
+      "claim": "The Canadian Camping Association's 1977 hiring advice gives a memorable test — \"How would I feel about letting this person take a group of my campers on a trip?\" — with suggested interview questions \"What would you do if one of your campers was missing when you woke up in the morning?\" and \"Suppose you broke your leg on a trip fifty miles from camp.\" On personality: \"a Camp can handle a limited number of 'characters'... they are like the paint on the paddle. The blade, however, is what does the work.\" On references: \"Some of those 'saints in script' you may read of in letters of reference don't turn out that way on the job. PHONE one of the referees if you want more information in confidence.\"",
+      "category": "staff",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1977-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3996",
+      "issue": 116,
+      "claim": "A joke column in Canadian Camping, December 1977, pairs polite formulas with what a director actually means, ending: \"You have learned a great deal from your summer with us, I am sure. Perhaps another year you might find it challenging to try a (a) larger, (b) smaller, (c) different, (d) American camp.\" = \"Thank heavens you won't be back!\" Published as humour in the association's own newsletter, it is evidence that the not-rehire decision was an ordinary and even jokable part of camp directing culture in the period.",
+      "category": "context",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1977-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3997",
+      "issue": 116,
+      "claim": "The Quebec camping calendar for 1978 shows an annual provincial campaign: \"2-9 March 1978, ACQ-QCA semaine de Camps\" — so Camp Week was a yearly March fixture and not the one-off of March 1977. The Montreal souper-causerie series had published themes: \"Plein air — publicite, depliants\" on 30 January, \"Recrutement — mode de selection\" on 22-23 February, and \"formulaires — Mecanismes de controle\" on 15-16 March, with a seminaire des directeurs de camps 7-9 April.",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec Camping Association",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1978-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3998",
+      "issue": 116,
+      "claim": "On Paul Belanger's departure for Rome, Eileen Mayotte of Saskatchewan became CCA Vice-President and Jane McCutcheon of Ontario replaced her as Secretary; M. Rene Rousseau, Director of Camp Edphy at Val-Morin, Quebec, became the new President of the Association des Camps du Quebec; and Jocelyn Palm, President of the OCA, became the new owner and director of Camp Glen Bernard.",
+      "category": "camping_movement",
+      "entities": [
+        "Eileen Mayotte",
+        "Jane McCutcheon",
+        "Rene Rousseau",
+        "Camp Edphy",
+        "Jocelyn Palm",
+        "Glen Bernard Camp"
+      ],
+      "date_ref": "1977-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3999",
+      "issue": 116,
+      "claim": "Jack Pearse's presidential travelogue of December 1977 records that he directed Holland Cove Camp on the south shore of Prince Edward Island in the summer of 1949; was at Burry Heights Camp, Newfoundland, in 1969, the year the Newfoundland and Labrador Camping Association \"had just been born\"; that the CCA Annual Meeting of late winter 1976 was at the Montmorency Forest outside Quebec City, joined to Canada's first French Language Camping Conference; and that in June 1967 he opened Bird's Hill Park north of Winnipeg and sang camp songs with twenty-four thousand Guides, Brownies, Scouts and Cubs.",
+      "category": "camping_movement",
+      "entities": [
+        "Jack Pearse",
+        "Newfoundland and Labrador Camping Association",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1977-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4000",
+      "issue": 116,
+      "claim": "Eanswythe Flynn's January checklist directs directors to order crests, pennants, camp T-shirts and postcards; to \"Engage staff, nurse and doctor for the summer as soon as possible. Have contracts signed and sealed\"; and to \"get last year's staff together for suggestions — new canoe routes or out-trip hikes to new sites.\" Her February checklist directs them to consult the Counsellor Placement Service and to \"Review and prepare rules for counsellors, regarding duties, responsibilities, time off, behavior in camp and out of camp, supervision of campers and cabins, and discuss them with staff during interviews.\"",
+      "category": "operations",
+      "entities": [
+        "Eanswythe Flynn"
+      ],
+      "date_ref": "1977-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4001",
+      "issue": 116,
+      "claim": "The Royal Life Saving Society Canada convened a national symposium, \"Alcohol & Aquatics,\" and published the proceedings at $3.50 in 1977 — a findable Canadian document on drinking and drowning.",
+      "category": "sources",
+      "entities": [
+        "Royal Life Saving Society"
+      ],
+      "date_ref": "1977",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4002",
+      "issue": 116,
+      "claim": "Winter maintenance advice in Canadian Camping, December 1977: mothballs on mattresses; screens taken off, \"they will last about three times longer\"; wax paper over stove grills; the walk-in refrigerator left open because it is \"a great place to grow MOLD\"; canoes stored on benches or rafters so both gunwales carry the weight rather than flat on the floor; and mattresses left in their own cabins rather than piled, \"also combustion hazard.\"",
+      "category": "facilities",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1977-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4003",
+      "issue": 117,
+      "claim": "Canadian Camping printed Ernest Thompson Seton's \"The Indian's Creed\" in full in February 1978 — all fourteen articles verbatim over Seton's name, cited to The Book of Woodcraft and Indian Lore, without comment, introduction or context. It is a white naturalist's idealised composite in the past tense and the singular: \"he believed in the sacredness of property. Theft among Indians was unknown\"; \"he believed that the noblest of virtues was courage... the most shameful of crimes was being afraid.\" Recorded exactly as printed and dated, not adopted in this project's voice.",
+      "category": "context",
+      "entities": [
+        "Ernest Thompson Seton",
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1978-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4004",
+      "issue": 117,
+      "claim": "The Seton framework this project traces from Seton through Taylor Statten into Kanawana's council ring had not been retired by the Canadian camping establishment by February 1978: it was reprinted verbatim and without comment eight years after the Red Power movement and five after Wounded Knee, in the same run that had already carried Mary S. Edgar's and Jack Eastaugh's more self-conscious pieces on the same subject. That is a datable fact about the institutional context of Kanawana's own ceremonies in the late 1970s.",
+      "category": "traditions",
+      "entities": [
+        "Ernest Thompson Seton",
+        "Camp Kanawana",
+        "Canadian Camping Association"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1978-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4005",
+      "issue": 117,
+      "claim": "J. Harry Ebbs's camp infirmary inventory was reprinted in Canadian Camping in February 1978, five years after its first appearance in Spring 1973. The drug list is the striking part: beyond ASA, milk of magnesia, calamine, kaopectate and ear and toothache drops, a camp was expected to stock ASA with codeine, 100 tablets of phenobarbital, 100 tablets of penicillin at 250,000 units, 100 tablets of triple sulpha and 100 capsules of Achromycin — a barbiturate and three antibiotic lines held in a camp cupboard — with the attending doctor separately supplying narcotic drugs, penicillin for injection, anaesthetic material, adrenalin, steroids and intravenous sets, plus a snake bite kit where required.",
+      "category": "facilities",
+      "entities": [
+        "J. Harry Ebbs"
+      ],
+      "date_ref": "1978-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4006",
+      "issue": 117,
+      "claim": "Eileen Mayotte's CCA executive profile of February 1978 records: \"During her illustrious career in camping, Eileen has had responsibility for camps and campers in four provinces — Ontario, Quebec, Saskatchewan, and B.C. Her camping endeavors have lead her into church camping, YWCA and camps for underprivileged children. In the distant past she was the Secretary of the Quebec Camping Association. She was one of the founders of the Saskatchewan Camping Association, and for many years was its President.\" She was appointed CCA Secretary at Squamish in April 1977 and elected Vice-President at Moncton in November on Belanger's departure.",
+      "category": "biography",
+      "entities": [
+        "Eileen Mayotte",
+        "Quebec Camping Association",
+        "Saskatchewan Camping Association",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1978-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4007",
+      "issue": 117,
+      "claim": "Jack Pearse, CCA President 1977-1979, of Waterloo, began directing camps in 1949 with the YMCAs of Charlottetown and Ottawa, has been Director of Camp Tawingo, a year-round camp, since 1961, was first President of the Eastern Ontario Camping Association, and is a past president of the Ontario Camping Association and chairman of its Past Presidents' Council.",
+      "category": "biography",
+      "entities": [
+        "Jack Pearse",
+        "Camp Tawingo",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1978-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4008",
+      "issue": 117,
+      "claim": "Ron Johnstone's CCA profile of February 1978: YMCA camps in Ontario and Saskatchewan; settled in London in 1955; operated Camp White Bear on Lake Temagami until the fall of 1976; joined the Ontario Camping Association in 1946; Conference and Standards Chairman before becoming OCA President 1972-74, and \"combined this presidency with that of the Society of Camp Directors in 1973\"; founding executive of the Council of Outdoor Educators; first President of Canoe Ontario; and President of the Canadian Recreational Canoeing Association.",
+      "category": "biography",
+      "entities": [
+        "Ron Johnstone",
+        "Camp White Bear",
+        "Ontario Camping Association",
+        "Society of Camp Directors"
+      ],
+      "date_ref": "1978-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4009",
+      "issue": 117,
+      "claim": "The Quebec Camping Association's executive met at the Montreal YMCA on 13 February, 13 March, 10 April, 8 May and 12 June 1978 — the provincial body that accredited Kanawana, presided over by Kanawana's own director, holding its monthly executive meetings in the building of the institution that owned the camp. Its 1978 public programme: 28 February, general meeting, \"Looking at Camp Thru the Eyes of a Camper,\" a panel of four campers; 17-18 March, QCA Conference; 18 April, general meeting, \"Let's Get Ready for the Summer\"; 27 May, QCA Counsellor Conference and a QCA Standards Meeting.",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec Camping Association",
+        "YMCA Montreal",
+        "Derek Walsh",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1978",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4010",
+      "issue": 117,
+      "claim": "Elmer Bogyay, food manager at Trinity College School, gave the economics of camp catering in February 1978: \"What you can buy today, you cannot buy tomorrow\" — he bought a year's coffee in June 1976 and it appreciated \"almost 100%\"; sugar went from $21 a bag to $91 at peak. He dealt with 25 companies, kept charts by company by month, and carried $35,000-$40,000 of inventory. Practical rules: convert prices ounce by ounce because packaging sizes differ deliberately; test a large purchase on ten or fifteen pounds first; check the weight of the garbage bag every day; and be present when a big delivery arrives, because \"once the truck pulls out, they are no longer responsible.\"",
+      "category": "operations",
+      "entities": [
+        "Elmer Bogyay"
+      ],
+      "date_ref": "1978-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4011",
+      "issue": 117,
+      "claim": "Elmer Bogyay's menu rule of 1978: \"NO ROTATING MENUS. I cannot press this point strongly enough... the kids coming into the dining room will know that the first Wednesday is macaroni and cheese, the first Saturday is spaghetti.\" And on the kitchen against the tripping department: \"Don't let your tripping director influence you, even if he has been doing it his way for fifteen years. If you are running the food service he is going to change. His job is to make sure the kids have a good route, your job is to make sure the kids have good food at the best possible price\" — with the instruction to buy juice crystals in five-pound packages and have the trip room repackage them, since \"75% of the food could come from the kitchen and not the trip room and be bulk packaged.\"",
+      "category": "operations",
+      "entities": [
+        "Elmer Bogyay"
+      ],
+      "date_ref": "1978-02",
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
