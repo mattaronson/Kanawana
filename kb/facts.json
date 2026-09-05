@@ -1,8 +1,8 @@
 {
-  "version": "6.09",
-  "kb_version": "6.09",
+  "version": "6.10",
+  "kb_version": "6.10",
   "migrated_from": "3.3",
-  "fact_count": 4734,
+  "fact_count": 4741,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -84728,6 +84728,138 @@
       "confidence": "inferred",
       "conflicts_with": [],
       "added_version": "6.09",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4773",
+      "claim": "A FOURTH CAMP RUNS THE TRADITION. RKY Camp at Parham, Ontario, on Eagle Lake, states: \"The RKY Games is a special 3-day camp-wide competition in 4th Session between the Lumbermen and Voyageurs.\" With Camp Pine Crest, Kanawana and Camp Kitchikewana, that makes four Canadian camps documented as running a Lumbermen-and-Voyageurs competition.",
+      "category": "traditions",
+      "entities": [
+        "RKY Camp",
+        "Camp Pine Crest",
+        "Camp Kanawana",
+        "YMCA Camp Kitchikewana"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_rky_camp"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.10",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4774",
+      "claim": "RKY Camp's initials stand for Rotary, Kiwanis and YMCA: it was founded jointly by the Rotary Club of Kingston, the Kingston Kiwanis Club and the Kingston YMCA, and is described as the only camp in Ontario jointly owned by three service clubs. The Chair of the YMCA Committee, Professor C. E. Walker of Queen's University, approached the two service clubs in 1929; on 3 July 1930 a 25-acre site was purchased from W. Goodfellow and J. Snider for $925.00, with the YMCA supplying about $500.00 of equipment. \"The name RKY Eagle Lake Camp was decided to be both 'representative and pronounceable'.\"",
+      "category": "camping_movement",
+      "entities": [
+        "RKY Camp",
+        "Kingston YMCA",
+        "C. E. Walker"
+      ],
+      "date_ref": "1929-1930",
+      "sources": [
+        "src_rky_camp"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.10",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4775",
+      "claim": "The Kingston YMCA had offered annual camping experiences for local boys as early as 1902, before the permanent RKY site was acquired -- another instance of the pattern by which an association's camping predates the camp it is remembered by, as at Montreal (1891-93 before 1894), Winnipeg (Keewatin Beach 1891 before the islands) and the Maritimes.",
+      "category": "camping_movement",
+      "entities": [
+        "Kingston YMCA",
+        "RKY Camp"
+      ],
+      "date_ref": "1902",
+      "sources": [
+        "src_rky_camp"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.10",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4776",
+      "claim": "RKY CAMP CLOSED FOR THE WAR AND KANAWANA DID NOT. RKY's own history states: \"In 1943 RKY Camp was forced to close down due to a lack of staff. It reopened in 1945.\" Kanawana ran both of those seasons -- the attendance series gives 1,343 boy-weeks for 1943 and 1,450 for 1944, the second of those its highest figure of the war. This is the second documented wartime closure among the camps compared in this project, after Camp Stephens in 1917 or 1918, and Kanawana operated through both.",
+      "category": "camping_movement",
+      "entities": [
+        "RKY Camp",
+        "Camp Kanawana",
+        "Camp Stephens"
+      ],
+      "date_ref": "1943-1945",
+      "sources": [
+        "src_rky_camp",
+        "src_cache_sgw_ymca_annual_report_1894_1895"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.10",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4777",
+      "claim": "EXPLICIT NULL: RKY Camp's own history page does not date the RKY Games or say where the Lumbermen-and-Voyageurs idea came from, exactly as Camp Kitchikewana's and Camp Pine Crest's pages do not. Three of the four camps running the tradition give no origin for it, and the only dated adoption in the group is Kanawana's own, 1947.",
+      "category": "methodology",
+      "entities": [
+        "RKY Camp",
+        "YMCA Camp Kitchikewana",
+        "Camp Pine Crest",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_rky_camp",
+        "src_ymca_simcoe_kitchikewana",
+        "src_ymcagta_pinecrest_games"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.10",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4778",
+      "claim": "ALL FOUR CAMPS RUNNING THE LUMBERMEN-AND-VOYAGEURS COMPETITION HAVE YMCA ROOTS, AND THREE OF THE FOUR ARE IN ONTARIO. Camp Pine Crest (Muskoka, YMCA of Greater Toronto), Camp Kitchikewana (Georgian Bay, YMCA of Simcoe/Muskoka) and RKY Camp (Eagle Lake near Kingston, founded in part by the Kingston YMCA) are Ontario camps; Kanawana, in the Quebec Laurentians, is the outlier. Kanawana is also the only one of the four whose adoption of the tradition carries a date, 1947. The shape of the evidence is an Ontario YMCA camp tradition that reached Quebec, but the direction and the mechanism remain undocumented.",
+      "category": "traditions",
+      "entities": [
+        "Camp Pine Crest",
+        "YMCA Camp Kitchikewana",
+        "RKY Camp",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1919-1947",
+      "sources": [
+        "src_rky_camp",
+        "src_ymca_simcoe_kitchikewana",
+        "src_ymcagta_pinecrest_games"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.10",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4779",
+      "claim": "The count of camps documented as running the Lumbermen-and-Voyageurs competition has risen from two to four within a day, both additions supplied by the operator rather than by any search this project ran. The working conclusion should be that the tradition is more widespread than the evidence assembled here shows, and that the number four is a floor.",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_rky_camp",
+        "src_ymca_simcoe_kitchikewana"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.10",
       "added_by": "web_research"
     }
   ]

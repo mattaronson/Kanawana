@@ -1,6 +1,6 @@
 # Is Kanawana the Oldest Camp in Canada?
 
-*Status: draft | Sources: 14*
+*Status: draft | Sources: 15*
 *Last Updated: 2026-09-05*
 
 ## Overview
@@ -242,8 +242,16 @@ boy-weeks run flat to slightly up — 1,438 / 1,266 / 1,330 / 1,343 / 1,450 / 1,
 of staff leaving for war service, and the camp's own reports insist on the point as early as 1915:
 "The season of 1915 was highly successful notwithstanding the war."
 
-**Camp Stephens did not.** Its alumni association, writing in December 2020, records that COVID
-restrictions "made it impossible to open camp this past summer (**the first closure since 1917**)"
+**Two other camps did not, and one of them lost the Second World War outright.** RKY Camp near
+Kingston — founded in 1930 by the Rotary Club, the Kiwanis Club and the Kingston YMCA — records in its
+own history: "**In 1943 RKY Camp was forced to close down due to a lack of staff. It reopened in
+1945.**"^15 Kanawana ran both seasons; the attendance series gives **1,343 boy-weeks for 1943 and 1,450
+for 1944**, the second its highest figure of the war. A camp of the same movement, five hundred
+kilometres away, could not find the staff to open while Kanawana was posting its best wartime numbers.
+
+**And Camp Stephens lost a season to the First.** Its alumni association, writing in December 2020,
+records that COVID restrictions "made it impossible to open camp this past summer (**the first closure
+since 1917**)"
 [f_4744]^11. Secondary summaries of the camp's history give the wartime closure as **1918** instead. The
 two are not reconciled by any source consulted, and the year is recorded here as disputed. Either way,
 **Kanawana operated the season Camp Stephens lost.**
@@ -414,3 +422,4 @@ across the country, and the century that closed its own sibling camp on the orig
 12. YMCA-YWCA of Winnipeg, Camp Stephens "About Us" and history pages [src_ywinnipeg_camp_stephens]. See [f_4747], [f_4748].
 13. CBC News, "In the summers without summer camps, staff get creative to stay afloat" [src_cbc_bigcove_pandemic_summers]. **Not read directly** — cbc.ca returns HTTP 403 to this project's fetch tool while serving browsers; known only through search-result summaries and recorded `read_state: unavailable`. See [f_4749].
 14. YMCAs of Quebec impact report 2022 [src_ymf_ymca_impact_report_2022_eng]; CBC News, 29 April 2021 [src_cbc_wong_camps_2021]. The two lost Kanawana seasons. See [f_2135], [f_2256].
+15. RKY Camp history page [src_rky_camp] — the 1943-1945 wartime closure. See [f_4776].

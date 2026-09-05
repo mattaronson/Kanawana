@@ -1,6 +1,6 @@
 # Points of Contact: Kanawana and the Other YMCA Camps
 
-*Status: draft | Sources: 16*
+*Status: draft | Sources: 17*
 *Last Updated: 2026-09-05*
 
 ## Overview
@@ -14,8 +14,8 @@ together — and separates them from the resemblances that look like contact and
 
 Two of its findings are negative and worth stating first. **The route by which the L&V Games reached
 Kanawana in 1947 is undocumented on every surface searched** — and the direction of travel is now less
-certain than it looked, because a third camp runs them and is older than the one assumed to have
-originated them. And **Big Cove appears not to have had a Lumbermen-and-Voyageurs competition at all**,
+certain than it looked, because **four** camps run them, two of the four are older than the one assumed
+to have originated the tradition, and only Kanawana's adoption carries a date. And **Big Cove appears not to have had a Lumbermen-and-Voyageurs competition at all**,
 despite sharing the word "Voyageur" with Kanawana's.
 
 ## People who worked at Kanawana and elsewhere
@@ -94,7 +94,8 @@ Pine Crest uses the same two symbols Kanawana uses, the paddle and the axe.^9 Ka
 Lumberman-Voyageur Week was created in **1947**, and the YMCA's own count of editions confirms that
 start.^10
 
-**And there is a third Canadian camp running it — which this article got wrong on first writing.**
+**And there are at least four Canadian camps running it — which this article got wrong on first
+writing, twice.**
 **YMCA Camp Kitchikewana**, on Beausoleil Island in Georgian Bay, names the "**Lumberman and Voyageur
 Games**" among the special programmes of its two-week Traditional Camp, alongside its Annual Musical and
 Sailing Regattas.^15 This article previously stated that only Pine Crest and Kanawana were documented as
@@ -102,10 +103,32 @@ running the competition. **That was wrong, and the correction matters for the tr
 Kitchikewana was founded in **1919**, twenty-one years before the Pine Crest Games began, so on present
 evidence it cannot be ruled out as an earlier or parallel source rather than a third recipient.
 
-**When Kitchikewana's Games began is not stated anywhere this project can reach.** Neither its camp page
-nor its programmes page dates them or says where they came from.^15 Know History's commissioned study
-*Rooted: Beausoleil Island* has a chapter on the camp and is the most likely published source; it
-returns HTTP 403 to this project's fetch tool and **has not been read** [f_4769].
+**And a fourth: RKY Camp**, at Parham on Eagle Lake north of Kingston. "The RKY Games is a special
+3-day camp-wide competition in 4th Session between the **Lumbermen and Voyageurs**."^17 RKY's initials
+stand for **Rotary, Kiwanis and YMCA** — it was founded jointly by the Rotary Club of Kingston, the
+Kingston Kiwanis Club and the **Kingston YMCA**, and is described as the only camp in Ontario jointly
+owned by three service clubs. Professor C. E. Walker of Queen's, chair of the YMCA committee, approached
+the service clubs in 1929; the 25-acre site was bought on **3 July 1930** for $925.00, the YMCA supplying
+about $500.00 of equipment.^17 The Kingston YMCA had been running annual camping for local boys **as
+early as 1902**.^17
+
+**None of the other three dates its Games.** Neither Kitchikewana's camp page nor its programmes page
+says when the tradition began or where it came from;^15 neither does RKY's history page.^17 **Kanawana's
+1947 is the only dated adoption in the group** [f_4777]. Know History's commissioned study *Rooted:
+Beausoleil Island* has a chapter on Kitchikewana and is the most likely published source for one of
+them; it returns HTTP 403 to this project's fetch tool and **has not been read** [f_4769].
+
+**What the four have in common, and what that shape suggests.** All four have YMCA roots — RKY through
+the Kingston association, one of its three founders. **Three of the four are in Ontario**; Kanawana, in
+the Quebec Laurentians, is the outlier and the last to take it up. The shape of the evidence is **an
+Ontario YMCA camp tradition that reached Quebec**, which is consistent with the Pine Crest → Kanawana
+story this project began with — but Kitchikewana was founded in 1919 and RKY in 1930, both before the
+Pine Crest Games of 1940, and neither dates its own. **The direction of travel is not established**
+[f_4778].
+
+**A caution about the number itself.** It went from two to four in a day, and **both additions came
+from the operator rather than from any search this project ran** [f_4779]. Four should be read as a
+floor.
 
 **And it is not unique to Canada either.** YMCA Hayo-Went-Ha Camps in Michigan, founded 1904, use
 "Woodsmen" and "Voyageurs" as programme group names, and the wider **"colour war"** genre is documented
@@ -227,3 +250,4 @@ decline should be tested against the YMCA's own records before it is asserted.
 14. YMCA BC camps; YMCA of Greater Toronto; YMCA-YWCA of Winnipeg; YMCA of Greater Halifax [src_ymcabc_camps]. See [f_4762], [f_4763], [f_4764].
 15. YMCA of Simcoe/Muskoka, Camp Kitchikewana camp and programmes pages [src_ymca_simcoe_kitchikewana]; Know History, *Rooted: Beausoleil Island*, ch. 5, **not read** (HTTP 403) [src_knowhistory_beausoleil]. See [f_4766], [f_4767], [f_4769].
 16. Austin Matthews on the 1967 Midland school-camp week, and the Wanakita naming, *Canadian Camping* [src_ia_canadian_camping_collection]. See [f_3281], [f_1302], [f_4770].
+17. RKY Camp, summer-camp and history pages [src_rky_camp]. The Games, the three founding clubs, the 1930 purchase, Kingston YMCA camping from 1902, and the 1943-1945 wartime closure. See [f_4773], [f_4774], [f_4775], [f_4776].
