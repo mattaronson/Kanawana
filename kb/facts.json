@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 4250,
+  "fact_count": 4279,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -75631,6 +75631,562 @@
       "entities": [
         "Jane McCutcheon",
         "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4289",
+      "issue": 143,
+      "claim": "The Canadian Camping Association printed a boxed appeal over the Trent archivist's name in Autumn 1982: \"Children's camping is older than most of us realize. In time for the coming International Camping Congress and for our own information, we need to know who opened the first camp in Canada. As well, we would like to co-ordinate a list of camps in Canada which were opened prior to 1900, 1910, and 1920. Please dig into provincial government departments (education, health, land titles/surveys) as well as those of Church, YWCA, YMCA, Boy Scouts, Girl Guides, CGIT, and private records. This kind of information has never been researched in detail — we may be surprised at the number of early camps established in Canada. Help us know our heritage!\" Contact: Mr. Ken Johnson, Archivist, Thomas J. Bata Library, Trent University.",
+      "category": "archives",
+      "entities": [
+        "Kenneth Johnson",
+        "Trent University",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4290",
+      "issue": 143,
+      "claim": "Kanawana dates itself from 1894 and would belong on the \"prior to 1900\" list the Canadian Camping Association solicited in 1982. Whatever answers came back went to Trent, gathered in time for the January 1983 Congress, and would sit in the CCA/ACC fonds beside the Congress papers. A Quebec answer naming Kanawana would be the earliest independent statement of its founding date outside the YMCA's own papers. The appeal's own admission — \"this kind of information has never been researched in detail\" — is the national association saying in 1982 that the early history of Canadian camping was unwritten.",
+      "category": "archives",
+      "entities": [
+        "Camp Kanawana",
+        "Trent University",
+        "Canadian Camping Association"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4291",
+      "issue": 143,
+      "claim": "John Latimer, interviewed at his Toronto home on 4 August 1982, said of his CCA presidency of 1971-75: \"I personally felt uncomfortable about the relationship between French camps and camps in English-speaking Canada. This, unfortunately, is an ongoing concern even today, wrought with political overtones — I know I've made enemies over this issue but I keep thinking we're forgetting the campers and their collective interests which aren't being served by our politics.\" It is the first time anyone in this run says plainly that the language relationship was a problem, and it is said by the man who was national president in the years the constitution changed.",
+      "category": "camping_movement",
+      "entities": [
+        "John Latimer",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-08-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4292",
+      "issue": 143,
+      "claim": "John Latimer said in 1982 that national camp standards remained unachieved: \"When we talked of National Standards, people feared 'regulations' or 'imposed standards' but our intention was always an initiative of education and information — sharing only. This issue still isn't resolved — there are no national standards and I think it would be very difficult to implement the same standards to all camps across the country.\" On the association's name: \"I remember wanting the name changed because we were and still are assumed by the public to be 'that group in charge of trailer camping throughout Canada'... we never did change our name.\"",
+      "category": "camping_movement",
+      "entities": [
+        "John Latimer",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-08-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4293",
+      "issue": 143,
+      "claim": "John Latimer records the origin of the International Camping Congress: \"The idea of an International Congress started several years ago when I was President of the C.C.A. and I was down in New York City at an A.C.A. meeting. John Kirk was their President and a man by the name of Commander Kohli from India was President of the Indian Camping Association. We went out one evening and began to fantasize a little about the possibility of a World Association in Camping.\" A joint congress with the Americans was explored \"but unfortunately, that didn't work out because the financial restrictions presented too many complications,\" and he notes that \"Christian Camping International have had international ventures before but this is really the first sponsored by the C.C.A.\"",
+      "category": "camping_movement",
+      "entities": [
+        "John Latimer",
+        "John J. Kirk",
+        "Canadian Camping Association",
+        "American Camping Association"
+      ],
+      "date_ref": "1982-08-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4294",
+      "issue": 143,
+      "claim": "John Latimer describes how the Second World War was present inside a Canadian camp. He first went to Kilcoo in 1938; his first memory of Charles Plewman is \"leading songs,\" and the second is the war: \"so many of his Staff were away fighting and Charlie was very close to them. Some, of course, were killed; I remember being very moved when he announced to the camp in the dining hall that last year's swimming instructor was killed or the counsellor of a certain tent had been taken prisoner. Every Sunday night during these war years, Charles Plewman would assemble the entire camp in the dining hall and at one end he had huge maps and he would go through where the allies were, and where the Germans, Italians, Japanese were advancing.\"",
+      "category": "context",
+      "entities": [
+        "John Latimer",
+        "Charles Plewman",
+        "Kilcoo Camp"
+      ],
+      "date_ref": "1982-08-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4295",
+      "issue": 143,
+      "claim": "John Latimer bought Kilcoo Camp from Charles Plewman in 1955 after telling him at about nine years old that he would own it. Asked \"wasn't there a slight problem in that you couldn't match the offer of another group... And then a mystery offer came to you and your bid matched the other group and the camp was sold to you?\" he answered: \"Yes, and when I later found out that the donor of the mystery offer was none other than Charles Plewman, I cried!\" Plewman took him to his first OCA meeting at the Park Plaza Hotel in the autumn of 1955 and introduced him to Taylor Statten, Ernie Chapman and A. L. Cochrane. His successor at Kilcoo was Hal Hannaford, a former camper and counsellor.",
+      "category": "biography",
+      "entities": [
+        "John Latimer",
+        "Charles Plewman",
+        "Kilcoo Camp",
+        "Taylor Statten",
+        "A. L. Cochrane"
+      ],
+      "date_ref": "1955",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4296",
+      "issue": 143,
+      "claim": "John Latimer credits the idea of the 1967 Centenary Journey to Kirk Wipper: \"My first vivid C.C.A. recollection was 1967 when I was asked to Chair the Centenary Journey, an idea formulated by Kirk Wipper.\" This project's centennial-1967.md records Bruce W. Hodgins of Trent as the primary organiser and Latimer as coordinator — not a contradiction, since originator, organiser and coordinator can be three people, but a third name for the origin.",
+      "category": "camping_movement",
+      "entities": [
+        "John Latimer",
+        "Kirk Wipper",
+        "Bruce W. Hodgins",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1967",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4297",
+      "issue": 143,
+      "claim": "John Latimer says \"My first meeting with the then President of C.C.A., David Hartry was in the basement of a synagogue in Halifax — the year was 1965,\" where May Brown says she became president at the 1965 annual meeting at Parkesville, British Columbia. Both may be right if the handover fell mid-1965, but the two statements sit awkwardly and are recorded as a minor unresolved discrepancy in the presidential sequence.",
+      "category": "camping_movement",
+      "entities": [
+        "John Latimer",
+        "David Hartry",
+        "May Brown",
+        "Canadian Camping Association"
+      ],
+      "confidence": "disputed",
+      "date_ref": "1965",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4298",
+      "issue": 143,
+      "claim": "Jay Haddad, editor of Canadian Camping, replied in print in Autumn 1982 to a reader who objected to a photograph credited to Camp Gay Venture on the ground that \"It disturbs me that a magazine of this caliber would give homosexuality this kind of exposure.\" Haddad corrected the factual error — Camp Gay Venture is \"one of Canada's premiere girls' camps for over 30 years... 'Gay' means 'light and fun' and Gay Venture was the name of a horse back in the 1940's which prompted the camp name\" — and answered the substance: \"approximately one person in ten is homosexual; whether it's good or bad is not the point — it's just a fact of life. There is obviously a sizeable number of campers and staff in ALL our camps who must deal with this reality; to make them feel unduly shameful, anxious or guilty seems very wrong... you see, one's sexual orientation has little to do with morality. There are surgeons, presidents, lawyers, camp directors, etc. who are homosexual AND are of high moral fabric.\" It is the clearest surviving evidence of how sexuality was discussed in Canadian camping's own press in 1982. No private individual is identified in the letter or the reply.",
+      "category": "context",
+      "entities": [
+        "Jay Haddad",
+        "Camp Gay Venture",
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1982-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4299",
+      "issue": 143,
+      "claim": "The Camping Advisor column of Autumn 1982 answered an unsigned question about a camp director not rehired after an acknowledged relationship with a counsellor. The camp, the province, the board and both individuals are unnamed in the source. The editor's published position is the only statement in this run of a rule about relationships between camp directors and their staff: \"The question is not one of homosexuality — it is a question of BEHAVIOUR unbecoming of a camp director! It would have been equally wrong if the camp director was male and the affair was with a female staff member... Your camp director was not guilty of her sexual orientation, but rather of her unwise and untimely expression of it!\"",
+      "category": "staff",
+      "entities": [
+        "Jay Haddad",
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1982-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4300",
+      "issue": 143,
+      "claim": "The Camping Advisor's 1982 comparison of canoe hull materials, from Michael Hatton's Lightweight Camping: wood and canvas, 16 feet, about 75 lb, \"quiet, good performers and high aesthetic value but allergic to rocks, can become waterlogged and high maintenance\"; aluminum, 17 feet, about 75 lb, \"very strong but noisy, conducts cold temperatures\"; fibreglass, 16 feet, about 65 lb, \"light, easy to repair and inexpensive but not as strong\"; Kevlar-49, 16 feet, about 48 lb, \"high tear resistance, very light but very expensive\"; and Royalex, 16 feet, about 75 lb, \"very strong but will deform under high stress.\" With the advice that \"few serious canoeists would purchase a hull less than 16 feet in length, and in fact, there is a growing move to 17 and 18 foot models.\" Read against the 1980 finding that two-thirds of Canadian camps were still paddling canvas, this dates the moment the fleet was changing.",
+      "category": "canoe_trips",
+      "entities": [
+        "Michael Hatton",
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1982-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4301",
+      "issue": 143,
+      "claim": "Canadian Camping's Autumn 1982 editorial, \"Beer in the Ballparks — Camps are Next!\", printed in both languages, argues that camps should let staff drink on site: \"Industrious, sensible, committed staff members, who care for our campers all week long with enormous responsibility, become drunken, reckless, irresponsible, immature 'adolescents' on their days off... at its worst, we witness violent automobile accidents causing severe bodily injury and even death!\" Its diagnosis: the no-drinking rule displaces the drinking off-site, \"like the Ontario Government's policy of 'no beer in the ballparks' which never did stop people from drinking but it did stop stadium officials from effectively controlling it.\" In 1982 most Canadian camps had a \"NO DRINKING IN CAMP\" policy and the national editor thought that a mistake.",
+      "category": "staff",
+      "entities": [
+        "Jay Haddad",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4302",
+      "issue": 143,
+      "claim": "The Autumn 1982 editorial gives the fullest description in this run of what a camp counsellor's day consisted of — wake-up bell, washing and teeth, breakfast, activity periods, control of the noon meal, rest period, afternoon activities, supper, an evening challenge or campfire, bed, a story and lights out — \"and all this assuming no discipline problems arise... or a camper gets sick in the middle of the night and the counsellor sits with him/her for an hour or two in the infirmary. It's a pressure-cooker of a job but we don't always admit it!\" And its argument from comparison: \"we entrust a 19 or 20 year-old counsellor with human life... more vital responsibility, I might add, than most 40 or 50 year-olds have with their city occupations.\"",
+      "category": "staff",
+      "entities": [
+        "Jay Haddad"
+      ],
+      "date_ref": "1982-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4303",
+      "issue": 143,
+      "claim": "Pre-Congress events for January 1983 included six Kindred Group meetings, among them YMCA, coordinated by Rob Fleming, c/o Camp Wanakita, Hamilton YMCA, from 25 January 9 a.m. to 26 January noon — a YMCA camping meeting at the Congress, the most likely single occasion for a Kanawana or YMCA of Montreal representative to have been present. The Promotions (Marnie Ellis, Quebec), Standards (Brian Law) and Education (Dorothy Walter) workshops each ran 25-26 January with four representatives per provincial association whose travel was paid by the CCA and Fitness Canada, so the ACQ sent four people to Toronto at national expense and their names would be in the CCA's records.",
+      "category": "camping_movement",
+      "entities": [
+        "Rob Fleming",
+        "Camp Wanakita",
+        "YMCA",
+        "Marnie Ellis",
+        "Canadian Camping Association",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1983-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4304",
+      "issue": 143,
+      "claim": "Claire Menard of the Association des Camps du Quebec and Michel Charron taught \"Parachute Play to Music\" at the Saskatchewan Camping Association's spring conference at the Kelsey Institute, Saskatoon, on 1 May 1982, \"proving that there is no language division where fun and laughter are concerned.\" The ACQ's own officer travelled to Saskatchewan to teach, with a second Quebec name.",
+      "category": "camping_movement",
+      "entities": [
+        "Claire Menard",
+        "Michel Charron",
+        "Association des camps du Quebec",
+        "Saskatchewan Camping Association"
+      ],
+      "date_ref": "1982-05-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4305",
+      "issue": 143,
+      "claim": "Ian Fowler's report on the third annual New Brunswick Counsellor Conference at Camp Glenburn, 28-30 May 1982 — 82 counsellors from 18 camps — records that the Saturday evening session was \"devoted to the development of an Indian Program at camp,\" led by John Jorgenson of Camp Tawingo as the CCA-funded Consultant/Advisor: \"The program began with a slide presentation on a typical Indian Council Ceremony... Following this the group had the opportunity to view first hand many costumes and props all transported by Jorgi from Tawingo. The highlight of the evening was just beginning, however, as everyone paraded to the beach for an Indian Council Ceremony... To many of the delegates this was their first experience with Indian Programs.\"",
+      "category": "traditions",
+      "entities": [
+        "Ian Fowler",
+        "John Jorgenson",
+        "Camp Tawingo",
+        "Camp Glenburn",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-05-28",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4306",
+      "issue": 143,
+      "claim": "The council ring practice this project traces from Seton through Statten into Kanawana's own script of c. 1925-27 was still being actively propagated by the national association in 1982, with federal money: an Ontario camp's director drove his camp's costumes and props to New Brunswick and taught a provincial counsellor conference to run the ceremony, for most of them for the first time — four years after the Seton creed reprint and one year after the white-canoe legend.",
+      "category": "traditions",
+      "entities": [
+        "John Jorgenson",
+        "Ernest Thompson Seton",
+        "Canadian Camping Association",
+        "Camp Kanawana"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4307",
+      "issue": 143,
+      "claim": "Canadian Camping printed a correction in Autumn 1982: \"the CCA/ACC questionnaire was sent with the wrong year typed in the Camper Data Section,\" with camps asked to send 1982 totals — a known data-entry fault in the national statistics series for that year. A subscription offer to camp directors of two subscriptions at $6.00 and any further at $4.00 a year is Derek Walsh's first magazine recommendation in action within a quarter.",
+      "category": "methodology",
+      "entities": [
+        "Canadian Camping Association",
+        "Derek Walsh"
+      ],
+      "date_ref": "1982-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4308",
+      "issue": 143,
+      "claim": "Jay Haddad's \"Alligator River\" group dynamics exercise, supplied by Jude de Guerre of Wolfville, Nova Scotia and first seen by the editor at Camp Hillis, Paradise, N.S., in June 1982, was printed in Autumn 1982 with the warning that \"very volatile feelings will erupt with regard to issues like honesty, morality, fidelity, proper parenting, friendship, love and emotions\" and that a time limit is needed — a second complete, datable 1982 staff-training instrument after \"Lost At Sea.\"",
+      "category": "staff",
+      "entities": [
+        "Jay Haddad"
+      ],
+      "date_ref": "1982-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4309",
+      "issue": 144,
+      "claim": "The Canadian Camping Association's HOW TO series, complete in the 1982-83 catalogue, comprises six 4- or 6-page monographs, each in English and French: \"Composting for Pleasure and Profit\" by Sam Hambly (1981, $0.75); \"How to Promote Your Camp\" by Derek Walsh (1981, $0.75); \"Fun and Fitness at Camp\" by Marjorie Booth (1982, $1.00); \"Maximum Participation at the Waterfront\" by Jocelyn Palm (1982, $1.00); \"Organizing a Sailing Program\" by Catherine Thomas (1982, $1.00); and \"Winter Camping Skills\" by Mors Kochanski (1982, $1.00). The binder is \"a good quality, dark green plastic binder\" at $4.00 including any two monographs.",
+      "category": "sources",
+      "entities": [
+        "Derek Walsh",
+        "Sam Hambly",
+        "Marjorie Booth",
+        "Jocelyn Palm",
+        "Mors Kochanski",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4310",
+      "issue": 144,
+      "claim": "Derek Walsh's \"How to Promote Your Camp\" is confirmed at 4 or 6 pages, 1981, 75 cents, and the series it opened had reached six titles within eighteen months, written by the association's own executive director and its president among others.",
+      "category": "sources",
+      "entities": [
+        "Derek Walsh",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4311",
+      "issue": 144,
+      "claim": "The Canadian Camping Association sponsored an Outdoor Education Conference at La Caleche, Quebec, in 1974, at which a committee chaired by Walter D. Mingie developed the guidelines published as \"Outdoor Education — Guidelines for Camps,\" covering \"the administrative, staffing and camp resources necessary for such programs\" for camps letting outside groups use the site in the off-season. A national conference held in Quebec in 1974, chaired by a Camp Nominingue man, on a subject that bears directly on what a Quebec camp could do with its buildings outside July and August.",
+      "category": "camping_movement",
+      "entities": [
+        "Walter Mingie",
+        "Canadian Camping Association",
+        "Camp Nominingue"
+      ],
+      "date_ref": "1974",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4312",
+      "issue": 144,
+      "claim": "Mary S. Edgar's poem \"Legacy to a Camper\" is printed in the 1982-83 CCA catalogue signed \"Mary S. Edgar, Honourary President, Canadian Camping Association 1960-1973\" — a dated thirteen-year national office for the founder of the programme at Camp Oolahwan.",
+      "category": "biography",
+      "entities": [
+        "Mary S. Edgar",
+        "Canadian Camping Association",
+        "Camp Oolahwan"
+      ],
+      "date_ref": "1960",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4313",
+      "issue": 144,
+      "claim": "The Canadian Camping Association's planned life of Mary S. Edgar changed shape between the Summer and Autumn of 1982. In the annual report the Publications Committee described \"a brief biography of Mary S. Edgar and her contribution to camping,\" available July 1982; by the autumn catalogue it is \"Legacy to a Camper, by Jocelyn Palm... a book of program ideas and poems for quiet times at camp,\" available Spring 1983. Anyone looking for a CCA life of Mary Edgar should expect to find an anthology instead.",
+      "category": "sources",
+      "entities": [
+        "Mary S. Edgar",
+        "Jocelyn Palm",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4314",
+      "issue": 144,
+      "claim": "Brian Blackstock and John Latimer's 1975 Camp Counsellor's Handbook was being revised for publication in spring 1983 by Gage Publishing Company. Blackstock died in 1979, so a 1983 revision is posthumous for one author and was being prepared by the other in the months he was chairing the International Camping Congress. A second edition would be a different document from the 1975 one and should be sought as such.",
+      "category": "sources",
+      "entities": [
+        "Brian Blackstock",
+        "John Latimer",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4315",
+      "issue": 144,
+      "claim": "The French edition of Kirk Wipper's woodsmanship manual is listed in the 1982-83 catalogue as \"(Le) Manuel du Coureur des Bois, le Professeur Kirk A. Wipper... L'Association des Camps du Canada, 155 p., 1979\" at $6.00, the translation Rosaire Corbin carried out. Its French description names the doctrine plainly — \"le mouvement 'impact minimum' en camping\" — and the English entry counts the code: \"the Woodsman's Code, a list of thirty-three points anyone using the wilderness should obey in order to make a minimum impact there.\"",
+      "category": "sources",
+      "entities": [
+        "Kirk Wipper",
+        "Rosaire Corbin",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1979",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4316",
+      "issue": 144,
+      "claim": "The Canadian Camping Association's bookstore carried four Indigenous-themed titles at once in 1982: W. Ben Hunt's The Complete How To Book of Indian Crafts (\"actual techniques and designs developed and perfected by the Indians... a remarkably interesting source of information about the first Americans\"); Bernard S. Mason's Drums, Tom-Toms and Rattles; Arthur C. Parker (Gawaso Wanneh), The Indian How Book — \"Elementary level; sound anthropologically\" — Parker being himself Seneca and the only Indigenous author on the list; and Margaret Bemister's Thirty Indian Legends of Canada, described here as \"a moving introduction to the heritage of Canada's native peoples, Ojibway and Iroquois, Cree and Okanagan showing their sense of identity with the land and its natural wonders.\" The catalogue's own descriptions run from \"the first Americans\" to \"Canada's native peoples\" in the same list.",
+      "category": "context",
+      "entities": [
+        "Arthur C. Parker",
+        "Margaret Bemister",
+        "Bernard S. Mason",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4317",
+      "issue": 144,
+      "claim": "ACA health forms sold through the CCA doubled again, from 10 cents in 1981 to 25 cents each in the 1982-83 catalogue, with the same list and the same \"not to be reproduced by any other agency\" rule — so the seven form names carry across all three catalogues. Wilkinson's textbook is now $24.95.",
+      "category": "archives",
+      "entities": [
+        "Canadian Camping Association",
+        "American Camping Association",
+        "Robert E. Wilkinson"
       ],
       "date_ref": "1982",
       "sources": [
