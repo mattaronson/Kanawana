@@ -596,6 +596,29 @@
       "flagged_at": "2026-09-05",
       "status": "open",
       "notes": "Human decision point under the standing directive: two DOCUMENTED sources disagreeing with each other, not oral history against a document. No resolution is offered. The wiki text has been made safe in the meantime by dropping the claim that depends on the disagreement rather than by choosing a side."
+    },
+    {
+      "conflict_id": "c_032",
+      "entity": "Hedley S. Dimock (date of death)",
+      "description": "TWO DOCUMENTED SOURCES, SIX DAYS APART. (a) 4 OCTOBER 1958: wiki/people/hedley-dimock.md states he died 4 October 1958 at Burlingame, San Mateo, California, citing an Oakland Tribune obituary published the following day. (b) 10 OCTOBER 1958: the unsigned Camp Tonakela report in Canadian Camping Vol. 11 No. 4 (June 1959), p. 205, states: \"Dr. Hedley S. Dimock passed away at his home in San Francisco, on October 10th, 1958, and a tablet to his memory has been unveiled at the camp.\" San Francisco against Burlingame is loose usage and not itself a conflict -- Burlingame is a San Francisco suburb. The date is. Source (a) is a contemporary newspaper obituary published the day after the event; source (b) is a memorial notice written eight months later by an organisation Dimock had chaired (he was U.S.A. Chairman of the North American Committee for Camp Tonakela, per Canadian Camping Vol. 12 No. 3, April 1960, p. 136). The next-day obituary is the stronger source and the wiki's date should stand pending resolution, but the discrepancy is recorded rather than silently ignored. Resolving it properly needs a death certificate, a probate record, or a second independent obituary.",
+      "facts": [
+        "f_2876"
+      ],
+      "flagged_at": "2026-09-05",
+      "status": "open",
+      "notes": "Human decision point under the standing directive: two documented sources disagreeing with each other, not oral history against a document. No wiki text has been changed; hedley-dimock.md continues to state 4 October 1958 on the strength of the next-day obituary. A minor companion discrepancy in the same source, not separately recorded: Camp Tonakela's own inception is dated 1935 in June 1959, while April 1958 has Taylor Statten opening it in 1938 and its twenty-first birthday falling 21 February 1958 (implying 1937) -- three dates in the same magazine within fifteen months. That one does not bear on Kanawana and is noted here only so a later pass does not re-derive it."
+    },
+    {
+      "conflict_id": "c_033",
+      "entity": "The origin point of organized camping in Canada -- four competing printed claims, and Kanawana's place among them",
+      "description": "FOUR DISTINCT CLAIMS PRINTED IN THE SAME MAGAZINE WITHIN FIVE YEARS, NONE RECONCILED BY IT. (a) 1884, OTTAWA: a February 1955 item dates the first Canadian camp to an Ottawa YMCA camp at Golden Lake in 1884. (b) 1893/1908, OTTAWA YWCA: a December 1954 item cites an Ottawa YWCA minute of 1893 and dates Golden Lake camping to 1908 -- contradicting (a) about the same lake and city three months later. (c) 1889, CHANCE HARBOUR: \"Ace\" Milks, former director of Camp On-Da-Da-Waks at Golden Lake out of the Ottawa YMCA, writing about 1948 and printed February 1959: \"The first Canadian Y.M.C.A. boys' camp, so far as we can discover, was organized by the Y.M.C.A. Committee of the Maritime Province and held at Chance Harbour, N.S., in the summer of 1889.\" Note that this is a hedged claim by a named individual retrieved from an Ontario Camping Association research file -- NOT, as f_2241 previously recorded it, a 1959 position of the Canadian Camping Association. Note also that Chance Harbour is in New Brunswick, not Nova Scotia, and that Big Cove -- the 1889 camp this project already carries with seven facts, and whose own director later dated it to 1891 -- is likewise in New Brunswick. Chance Harbour 1889 and Big Cove 1889 may be one camp under two descriptions or two separate camps; nothing in the record settles it. (d) 1905, NORTHWAY LODGE: Fannie Case's Northway Lodge, April 1955, claimed as \"first girls' camp in Canada\" -- a narrower claim that may not conflict with the others at all. WHY IT MATTERS: Kanawana's founding, dated July 1894 by T. Duncan Patton, follows (a) and (c) and precedes (d). Any ordinal claim this wiki makes about Kanawana's age depends on which of these is true, and none of them can currently be preferred on the evidence.",
+      "facts": [
+        "f_2843",
+        "f_2845"
+      ],
+      "flagged_at": "2026-09-05",
+      "status": "open",
+      "notes": "Human decision point: documented sources disagreeing with each other. Related to c_031 (Camp Stephens 1891 vs 1894), which covers the other half of the same question. The two should probably be resolved together. The wiki has already been made safe by withdrawing the 'Canada's second-oldest camp' ordinal from three articles in favour of 'Quebec's first residential summer camp and among the oldest in Canada'; nothing further should be asserted until the underlying institutional records -- Maritime YMCA committee minutes, Ottawa YMCA and YWCA minute books -- are consulted directly. Corrects the attribution in f_2241, which credited claim (c) to the CCA rather than to Milks."
     }
   ]
 }
