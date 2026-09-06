@@ -25,14 +25,14 @@ Camp Weredale        4 report(s) name it |   0 cited by its own article |   2 ci
         2 mentions  sgw-ymca-annual-report-1931.txt
         1 mentions  sgw-ymca-annual-report-1932.txt
 
-Kamp Kanawana      114 report(s) name it |   5 cited by its own article |  51 cited ANYWHERE in the wiki |  63 cited nowhere
+Kamp Kanawana      114 report(s) name it |   6 cited by its own article |  60 cited ANYWHERE in the wiki |  54 cited nowhere
        18 mentions  sgw-ymca-annual-report-2007-fr.txt
-       17 mentions  sgw-ymca-annual-report-2006.txt
        17 mentions  sgw-ymca-annual-report-2006-fr.txt
-       15 mentions  sgw-ymca-annual-report-2004-2005.txt
        14 mentions  sgw-ymca-annual-report-2004-2005-fr.txt
-       13 mentions  sgw-ymca-annual-report-2009.txt
        13 mentions  sgw-ymca-annual-report-2009-fr.txt
-       12 mentions  sgw-ymca-annual-report-2005-2006-fr.txt
-      ... and 55 more uncited
+       11 mentions  sgw-ymca-annual-report-1926.txt
+        9 mentions  sgw-ymca-annual-report-2008-fr.txt
+        8 mentions  sgw-ymca-annual-report-2002-2003-fr.txt
+        8 mentions  sgw-ymca-annual-report-1988.txt
+      ... and 46 more uncited
 

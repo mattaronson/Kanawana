@@ -1,6 +1,6 @@
 # Places and Locations at Camp Kanawana
 
-*Status: E1-reviewed | Sources: 24*
+*Status: E1-reviewed | Sources: 25*
 *Last Updated: 2026-09-06*
 
 ## Overview
@@ -122,6 +122,32 @@ The camp's indoor gymnasium is named the **Katimavik** [src_ymca_website]. The w
 **A note on how this article first got it wrong.** For a few hours this section said the letter was *undated*, and dated it to 1978 by matching it against the report. The letter was never undated — the first photograph of it was simply cropped above the dateline. The inference happened to land on the right year, which is the uncomfortable part: a correct answer from a false premise leaves nothing to trip over. Where a document is known only from an image, "the document does not say X" should be written as "the image does not show X" [f_4834].
 
 **A coincidence this article declines to resolve.** In the same year the camp opened a hall called Katimavik, a Kanawana staff member was living inside the *federal* **Katimavik** programme — the national youth service created in 1977 — with the October 1978 Ka-News listing "John Lawrence, c/o Katimavik, Box 354, Bridgetown, N.S." and the December issue reporting he "heads out west soon with his group" [f_4832]. The Prime Minister whose government created that programme is the one who signed this camp's letter. **No source connects the two**, and a camp naming a building in Inuktitut in the 1970s needs no federal explanation, so the question is recorded rather than answered [f_4833].
+
+### The Trimingham beacon (unveiled 23 August 1925)
+
+**The camp's earliest documented memorial, and it was a light.** The association's annual report for
+the year ending 31 March 1926, covering the season of 1925: "**A memorial monument in the form of a
+beacon light** in memory of the late **John Trimingham**, a former camp leader, was unveiled on
+**Sunday, August 23rd**, **Rev. Canon Howard** conducting the ceremony of dedication in the presence
+of a large company of campers and friends."^25
+
+The report prints the tablet's wording in full:
+
+> "In memory of
+> **JOHN LOCH TRIMINGHAM**
+> who as a Camper
+> and Leader in Kanawana
+> inspired others by
+> his unselfish life."^25
+
+**Nothing else in this project mentions Trimingham, the beacon, or Canon Howard.** Three things
+follow that are worth stating as questions rather than filling in. **Whether the beacon still
+stands** is unknown — it appears on no map or plaque inventory held here, and a beacon light on a
+lake shore is the kind of structure that is replaced rather than preserved. **How he died** is not
+stated; "the late" and a memorial raised by campers suggest a young death, and 1925 is seven years
+after the Great War, but the report says nothing and neither does this article. And **it predates
+the [[#millen-memorial-craft-shop-dedicated-1960|Millen Memorial Craft Shop]] by thirty-five years**,
+which makes it the earliest memorial structure at Kanawana this project can date.
 
 ### Millen Memorial Craft Shop (dedicated 1960)
 
@@ -414,6 +440,7 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 | 1928 | Boathouse construction records | [f_1787] |
 | 1937 | Trail mapping | [f_1786] |
 | 1941 | Camp map shows Golf Course, Lacrosse Field, Camp Cliff, Indian Grave, Mountain House, Junior Camp | [f_1789, f_1790] |
+| **1925** | **Trimingham memorial beacon light unveiled, 23 August** | ^25 |
 | 1960 | Millen Memorial Craft Shop dedicated | [f_1788] |
 | 1980-2001 | Site map shows Katimavik, Chief's, Lodge, Bunkhouse, Farm House, Block House, and more | [f_1791] |
 | 2018 | Desjardins donates $1M for new community pavilion | [src_lapresse_ymca_2018] |
@@ -495,3 +522,4 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 22. Letter from Prime Minister Pierre Elliott Trudeau to Kamp Kanawana on the opening of its new recreational building, framed original photographed by the operator, 2026-09-05 [src_photo_trudeau_letter_1978]; and the *Kamp Kanawana Director's Annual Report 1978* [src_ia_kanawana_report_1978], which prints an abridged version of the same letter as its frontispiece and supplies the date. Image at `assets/images/documents/trudeau-letter-1978-katimavik.jpg`. See [f_4828], [f_4829], [f_4830].
 23. Commission de toponymie du Québec: the *Toponymes officiels* and *Toponymes désofficialisés* datasets, and the fiches for Lac Kanawana, Lac Wilson, Camp Kanawana and the lieu-dit Kanawana [src_donneesquebec_bnlq_2026], [src_ct_fiches_kanawana_2026]. Queried 2026-09-06 (p_264). See [f_4874], [f_4877], [f_4890], [f_4891].
 24. *The Gas-Bag Extra*, Volume 13 Number 1 (1923), p. 2, "Kamp Kanawana Pictorial Review" [src_ymf_the_gas_bag_extra_vol_13_no_1]. Page image fetched and read 2026-09-06. Images cropped to `assets/images/historical/` and registered in `assets/images/credits.json`. See [f_4927].
+25. YMCA of Montreal annual report for the year ending 31 March 1926 [src_ymf_sgw_ymca_annual_report_1926], covering the camping season of 1925, the Kamp Kanawana pages. Read 2026-09-06 under p_454.

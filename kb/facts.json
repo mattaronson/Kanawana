@@ -1,8 +1,8 @@
 {
-  "version": "8.19",
-  "kb_version": "8.19",
+  "version": "8.20",
+  "kb_version": "8.20",
   "migrated_from": "3.3",
-  "fact_count": 5119,
+  "fact_count": 5120,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -92269,6 +92269,24 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.19",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5158",
+      "category": "site",
+      "date_ref": "1925",
+      "entities": [
+        "Kamp Kanawana",
+        "John Loch Trimingham",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE CAMP'S EARLIEST DOCUMENTED MEMORIAL IS A BEACON LIGHT, UNVEILED 23 AUGUST 1925, AND NOTHING IN THIS PROJECT MENTIONED IT. The YMCA of Montreal's annual report for the year ending 31 March 1926, covering the season of 1925: 'A MEMORIAL MONUMENT IN THE FORM OF A BEACON LIGHT in memory of the late JOHN TRIMINGHAM, A FORMER CAMP LEADER, was unveiled on SUNDAY, AUGUST 23RD, REV. CANON HOWARD conducting the ceremony of dedication in the presence of a large company of campers and friends.' The tablet's wording is printed in full: 'In memory of JOHN LOCH TRIMINGHAM who as a CAMPER AND LEADER IN KANAWANA inspired others by his unselfish life.' THE DATE CHECKS: an unveiling of 23 August 1925 sits inside a year ending 31 March 1926, which is the four-regime rule working as it should. NEITHER TRIMINGHAM NOR THE BEACON NOR CANON HOWARD APPEARS ANYWHERE ELSE IN THIS PROJECT -- not in the plaque audit, not on any map held here. THREE THINGS LEFT AS QUESTIONS RATHER THAN FILLED IN: whether the beacon still stands (a beacon light on a lake shore is the kind of structure replaced rather than preserved); how Trimingham died ('the late' plus a memorial raised by campers suggests a young death, and 1925 is seven years after the Great War, but the report says nothing and neither does the article); and who Canon Howard was. IT PREDATES THE MILLEN MEMORIAL CRAFT SHOP BY THIRTY-FIVE YEARS and is now the earliest memorial structure at Kanawana this project can date.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1926"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.20",
       "added_by": "manual"
     }
   ]
