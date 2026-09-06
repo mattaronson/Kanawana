@@ -1,8 +1,8 @@
 {
-  "version": "8.40",
-  "kb_version": "8.40",
+  "version": "8.42",
+  "kb_version": "8.42",
   "migrated_from": "3.3",
-  "fact_count": 5157,
+  "fact_count": 5162,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -92961,6 +92961,96 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.40",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5196",
+      "category": "institutional",
+      "date_ref": "1945",
+      "entities": [
+        "Camp Otoreke",
+        "YMCA of Montreal",
+        "Canadian Youth Commission"
+      ],
+      "claim": "CAMP OTOREKE MADE SUBMISSIONS TO A NATIONAL YOUTH INQUIRY IN 1945, AND ONE OF THEM WAS EQUAL PAY. The Canadian Youth Commission's *Youth & Jobs in Canada* (Toronto: Ryerson Press, 1945) attributes two recommendations in its text to Montreal's YMCA camp: 'encourage public works (when needed) TO CONTROL CAPITAL INVESTMENTS, etc. (CAMP OTOREKE, MONTREAL, Y.M.C.A.)' and '... that there should be EQUAL PAY FOR EQUAL WORK AS BETWEEN THE SEXES. (CAMP OTOREKE, Y.M.C.A., MONTREAL.)' THE CANADIAN YOUTH COMMISSION was the wartime national inquiry into the postwar prospects of Canadian young people, which gathered briefs from youth groups across the country; a parenthesis of this form is how it credits the group a recommendation came from. SO A GROUP MEETING AT OTOREKE PUT EQUAL PAY FOR EQUAL WORK TO A NATIONAL COMMISSION IN OR BEFORE 1945. Ten years after the camp went coeducational on its own staff's proposal (1935, site/camp-otoreke.md), and decades before anything in history/coeducation-gender.md's own record. WHAT IS NOT ESTABLISHED, and must not be inferred: WHO. The parenthesis names the camp, not a person or a committee, and the report is lending-restricted and has not been read -- these are two search highlights. Whether this was the camp's own staff, a young adults' discussion group meeting there, or a conference the camp hosted, the snippets do not say, and the difference matters for what the wiki can claim. THE BOOK IS THE PLACE TO SETTLE IT: its list of contributing groups, and the surrounding chapter, would name the body.",
+      "sources": [
+        "src_cyc_youth_and_jobs_1945"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.41",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5197",
+      "category": "media",
+      "date_ref": "1936",
+      "entities": [
+        "Camp Otoreke",
+        "Doris Robertson",
+        "Art Association of Montreal"
+      ],
+      "claim": "SOMEBODY MADE A PRINT OF THE CAMP AND HUNG IT IN THE ART ASSOCIATION OF MONTREAL'S SPRING EXHIBITION OF 1936. Evelyn de R. McMann's catalogue *Montreal Museum of Fine Arts, formerly Art Association of Montreal: Spring Exhibitions 1880-1970* (University of Toronto Press, 1988), under ROBERTSON, DORIS: '1936  565  CAMP OTOREKE, LAURENTIANS  LINO BLOCK  $7'. HER FULL ENTRY, reconstructed by walking six overlapping phrase queries backwards from that line to her name -- the original hit did not contain it -- reads: 'ROBERTSON, DORIS  addr: Montreal: 1509 Bishop St, 1933; 3555 University St, 1935-6; 1461 Mountain St, 1938-46 | 1933 484 Moving in wd cut $3.50 | 485 Whither lino cut $4 | 486 Supplication wd cut $4 | 1935 436 Native carrying fruit wd cut $6 | 1936 565 Camp Otoreke, Laurentians lino block $7 | 566 Heavyweight wd cut $6 | 1938 177 Indian and totem lino cut $7 | 1946 209 Laurentian window $100'. The next artist alphabetically, ROBERTSON, HAZEL M., is what fixed the surname. THIS IS THE EARLIEST DEPICTION OF EITHER MONTREAL YMCA CAMP THIS PROJECT HAS FOUND IN ANY MEDIUM OTHER THAN PHOTOGRAPHY, and the only one exhibited publicly as art. A Montreal printmaker working in woodcut and linocut, exhibiting at the AAM from 1933 to 1946, priced her Camp Otoreke block at $7 in 1936. WHAT THIS DOES NOT SAY: whether she was connected to the camp, whether the print survives, or where it is. WHERE TO LOOK NEXT: the MMFA's own collection and the National Gallery's, print dealers, and Doris Robertson herself, who is not otherwise in this project.",
+      "sources": [
+        "src_mcmann_aam_spring_exhibitions_1988"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.41",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5198",
+      "category": "people",
+      "date_ref": "1947",
+      "entities": [
+        "Camp Otoreke",
+        "Arthur Ney",
+        "YMCA of Montreal"
+      ],
+      "claim": "A WARSAW UPRISING SURVIVOR SPENT THE SUMMER OF 1947 AT CAMP OTOREKE, AND THERE IS A PHOTOGRAPH. Arthur Ney's memoir *W Hour* (Toronto: The Azrieli Foundation, 2014), a photograph caption: '1947. 2  SUMMER VACATION WITH FRIENDS AT YMCA CAMP OTOREKE IN THE LAURENTIANS. ARTHUR IS IN FRONT, CENTRE.' Ney was born in 1930 and the book belongs to the Azrieli Foundation's Holocaust survivor memoir series; its title refers to 'W hour', the hour the Warsaw Uprising began. So a seventeen-year-old survivor newly arrived in Canada is at a Montreal YMCA camp in the summer of 1947, photographed with friends. THIS IS THE THIRD AZRIELI-SERIES MEMOIR THIS PROJECT HAS FOUND NAMING A MONTREAL YMCA CAMP -- after Judy Abrams (f_4937) and Michael Kutz (f_4938), both found the same week. THREE IS A PATTERN WORTH SAYING OUT LOUD: the camps were a place where Jewish refugee and survivor children in postwar Montreal ended up, often enough that three published memoirs mention it in passing, and this project has no institutional record of it at all. AND 1947 SITS INSIDE THE POSTWAR GAP -- history/postwar-gap.md covers 1947-1958, from which almost nothing survives. NOT READ: the book is lending-restricted and this is one caption. Whether Ney went once or every summer, how he got there, and who paid are all unknown.",
+      "sources": [
+        "src_ney_w_hour_2014"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.41",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5199",
+      "category": "operations",
+      "date_ref": "1967",
+      "entities": [
+        "Camp Otoreke",
+        "Kairos",
+        "United Church of Canada"
+      ],
+      "claim": "KAIROS WAS AT OTOREKE IN 1967, TWO YEARS BEFORE THE KANAWANA MENTION THIS PROJECT ALREADY HAD, AND THE SUBJECT WAS AUTOMATION. The United Church of Canada's Board of Evangelism and Social Service, Annual Report 1967, vol. 42: 'meeting was held in conjunction with the \"SUMMER EVENT\" OF KAIROS AT CAMP OTOREKE IN THE LAURENTIANS, AUGUST 29TH-SEPTEMBER 2ND ... theology relevant to TECHNOLOGY AND AUTOMATION. At Otoreke we held a JOINT CONSULTATION WITH THE KAIROS EXECUTIVE.' WHY THIS MATTERS. This KB already records a Kairos group among the outside users of KANAWANA in 1969 (director's report), noting that outside-group use predates the wiki's green-shift framing by decades. This puts the same body at OTOREKE two years earlier, on named dates, with a named subject, and with a national church board's own executive meeting there. It also joins the 1967 Young Adult Centennial Conference at Otoreke that site/camp-otoreke.md records from the Concordia finding aid (P0145/14D10, 8-15 July 1967) -- two separate conferences at the camp in the same summer, five weeks apart. NOT THE SAME EVENT: different dates, different bodies. NOT READ: one search highlight from a lending-restricted volume.",
+      "sources": [
+        "src_ucc_evangelism_social_service_1967"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.41",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5200",
+      "category": "site",
+      "date_ref": "1985",
+      "entities": [
+        "Camp Otoreke",
+        "Saint-Adolphe-d'Howard"
+      ],
+      "claim": "OTOREKE HAD ITS OWN POST OFFICE, AND IT CLOSED THE SAME WAY KANAWANA'S DID. Three items from the same sweep, all gazetteers or postal directories. (1) The McGraw-Hill postal directory series -- the same series this project used for Kanawana's post office -- carries 'OTOREKE, PQ (S), see ... St-Adolphe-de-Howard', the closed-and-renamed cross-reference form, and elsewhere 'Otoreke, PQ (S) M' and 'Otoreke, PQ (S) *' in the railway postal lines tables. (2) The *Canadian Almanac*: 'Otoreke ... Argenteuil ... Ste. Agathe'. (3) A 1985 *Repertoire a l'usage des astrologues des longitudes et latitudes des villes, villages et lieux du Quebec* lists 'Otoreke (Argenteuil)' among Quebec places, and a road-atlas gazetteer has 'Otoreke, UP (Que.) 18 F4' -- UP for unincorporated place. SO THE PATTERN THE PROJECT ESTABLISHED FOR KANAWANA HOLDS FOR OTOREKE TOO: a summer post office in the camp's name, in Argenteuil county, served through Sainte-Agathe, later closed and cross-referenced to the surrounding municipality. THE DATES ARE NOT ESTABLISHED HERE and the volumes have not been read -- these are search highlights, and the Kanawana post-office work took a run of dated almanacs to bracket its opening and closing. THE SAME METHOD WOULD WORK ON OTOREKE and has not been applied. THE 1985 REPERTOIRE AND THE ROAD ATLAS ARE NOT SEPARATELY REGISTERED as sources here -- they are listed with their identifiers in sources/cache/openlibrary-search-inside/2026-09-06-otoreke-corpus-sweep.txt and nothing is claimed from them beyond the two quoted lines. Note also that Otoreke persists as a named place in a 1985 gazetteer, three years after the camp closed.",
+      "sources": [
+        "src_mcgraw_hill_directory_almanac_canada_1960s",
+        "src_canadian_almanac_1917_1918"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.41",
       "added_by": "manual"
     }
   ]

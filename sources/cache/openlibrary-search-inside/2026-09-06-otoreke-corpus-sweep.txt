@@ -1,0 +1,86 @@
+"OTOREKE" ACROSS THE INTERNET ARCHIVE BOOK CORPUS — ALL 15 ITEMS
+================================================================
+Swept 2026-09-06 under p_454's successor work. Open Library search-inside,
+`openlibrary.org/search/inside.json`, exact phrase, page 1 (total 15, all on one page).
+
+WHY THIS SWEEP AND NOT AN EARLIER ONE. This project has enumerated "Kanawana" (76 items,
+cached beside this file) and run "Camp Kanawana" (8) and "Kamp Kanawana" (13). IT HAD NEVER RUN
+THE CAMP'S OTHER NAME. Twelve of the fifteen items below were not in sources.json.
+
+WHAT ELSE WAS TRIED, AND THE NULLS, WHICH ARE FACTS ABOUT THE ENDPOINT AND NOT ABOUT THE WORLD:
+  "YMCA camp Saint-Sauveur"   total 0   — a descriptive phrase, not a phrase anyone prints
+  "Lake Wilson Quebec"        total 0   — same
+  "Kanawanian"                total 0   — the camp's own word for its alumni is in no digitized book
+  "Lake Wilson"               total 1916 — too generic to enumerate
+  "Saint-Sauveur-des-Monts"   total 657  — same
+  "Camp Otoreke"              total 5    — a subset of the 15
+The exact-phrase endpoint answers names, not descriptions. Two of the three phrases the
+standing research note listed as untried were never going to return anything, and that is worth
+recording so nobody tries them a third time.
+
+THE FIFTEEN
+-----------
+ 1. lequbecenpleinai0000laru      Larue & Belec, Le Quebec en plein air (2016). ALREADY HELD.
+ 2. youthjobsincanad0000cana      Canadian Youth Commission, "Youth & Jobs in Canada"
+                                  (Toronto: Ryerson Press, 1945). NEW — see f_5196.
+ 3. rpertoirelusaged0000unse      "Repertoire a l'usage des astrologues des longitudes et
+                                  latitudes des villes, villages et lieux du Quebec" (1985).
+                                  "Otoreke (Argenteuil)" in a place-name list. NEW.
+ 4. whour0000neya                 Arthur Ney, "W Hour" (Azrieli Foundation, 2014).
+                                  Photo caption, 1947. NEW — see f_5198.
+ 5. annualreport1st40000unit_i6g0 United Church of Canada, Board of Evangelism and Social
+                                  Service, Annual Report 1967, vol. 42. NEW — see f_5199.
+ 6. spanishstageinti0000hugo_m9h5 FALSE FRIEND. "carep otoreke corots Yohe totolons" — OCR noise
+                                  in a book on the Spanish stage. Not a hit in any real sense.
+ 7. montrealmuseumof0000mcma      Evelyn de R. McMann, "Montreal Museum of Fine Arts, formerly
+                                  Art Association of Montreal: Spring Exhibitions 1880-1970"
+                                  (University of Toronto Press, 1988). NEW — see f_5197.
+ 8. isbn_0888500963               A road atlas gazetteer: "Otoreke, UP (Que.) 18 F4". NEW.
+ 9-12. mcgrawhilldirect0000unse and three sibling scans — the McGraw-Hill postal directory
+                                  series this project already used for KANAWANA's post office.
+                                  One of them carries "Otoreke, PQ (S), see ... St-Adolphe-de-
+                                  Howard", the same closed-and-renamed cross-reference form.
+                                  One item HELD; the three siblings are not.
+13-15. canadianalmanacd0000unse and two sibling scans — Canadian Almanac, "Otoreke ...
+                                  Argenteuil ... Ste. Agathe". Two are already cited in the KB.
+
+THE SNIPPETS, VERBATIM
+----------------------
+youthjobsincanad0000cana:
+  "encourage public works (when needed) to control capital investments, etc. (Camp Otoreke,
+   Montreal, Y.M.C.A.)"
+  "...that there should be equal pay for equal work as between the sexes. (Camp Otoreke,
+   Y.M.C.A., Montreal.)"
+
+montrealmuseumof0000mcma, walked backwards over six overlapping queries to reach the artist's
+name, which the hit itself does not contain:
+  "ROBERTSON, DORIS  addr: Montreal: 1509 Bishop St, 1933; 3555 University St, 1935-6; 1461
+   Mountain St, 1938-46 | 1933 484 Moving in wd cut $3.50 | 485 Whither lino cut $4 |
+   486 Supplication wd cut $4 | 1935 436 Native carrying fruit wd cut $6 |
+   1936 565 CAMP OTOREKE, LAURENTIANS  LINO BLOCK  $7 | 566 Heavyweight wd cut $6 |
+   1938 177 Indian and totem lino cut $7 | 1946 209 Laurentian window $100 |
+   ROBERTSON, HAZEL M. addr: Montreal..."
+  The next artist alphabetically is what fixed the surname: the entries sort between ROBERTSON,
+  DORIS and ROBERTSON, HAZEL M.
+
+whour0000neya:
+  "1947. 2  Summer vacation with friends at ymca Camp Otoreke in the Laurentians. Arthur is in
+   front, centre."
+
+annualreport1st40000unit_i6g0:
+  "meeting was held in conjunction with the 'Summer Event' of Kairos at Camp Otoreke in the
+   Laurentians, August 29th-September 2nd ... theology relevant to technology and automation.
+   At Otoreke we held a joint consultation with the Kairos Executive"
+
+rpertoirelusaged0000unse:
+  "(Gaspe) Oskelaneo (Abitibi) Otis (Chicoutimi) OTOREKE (ARGENTEUIL) Otter (Saguenay)
+   Otterburn (Temiscouata)"
+
+isbn_0888500963:
+  "Oswald, UP (Man.) 29 H3  Othello, UP (BC) 35 B4  OTOREKE, UP (QUE.) 18 F4  Otosquen, UP
+   (Sask.) 32 H3"
+
+METHOD NOTE. `identifier` in each hit is a LIST, not a string — extract `[0]`. Paging is
+`&page=N`; `&from=` and `&offset=` are accepted and silently ignored. None of these books was
+read: every passage above is a search highlight, and the four longer reconstructions were built
+by walking overlapping phrase queries outward from the first hit.
