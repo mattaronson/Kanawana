@@ -49,3 +49,31 @@ A CAUTION ABOUT THE PAGE BEFORE IT.
   is bought, not editorial, and adjacency is not attribution. If the route can be placed
   against Kanawana's known trip country the question reopens; until then it is a High School
   of Montreal canoe trip and nothing more.
+
+  THE ROUTE HAS SINCE BEEN PLACED, 2026-09-06, against Natural Resources Canada's geographical
+  names service (geogratis.gc.ca/services/geoname). Five of the nine lakes land in one tight
+  block in the LAC-LEGENDRE and SAINT-DONAT country of the MATAWINIE regional county
+  municipality:
+
+      Lac du Diable    Lac-Legendre, Matawinie   46.548 N  74.290 W   78 km from Kanawana
+      Lac Batiment     Lac-Legendre, Matawinie   46.522 N  74.297 W   75 km
+      Lac McLaren      Lac-Legendre, Matawinie   46.511 N  74.234 W   73 km
+      Lac des Cypres   Lac-Legendre, Matawinie   46.504 N  74.195 W   73 km
+      Lac la Clef      Saint-Donat, Matawinie    46.384 N  74.219 W   59 km
+
+  Cluster centre 46.494 N, 74.247 W -- about SEVENTY-TWO KILOMETRES NORTH of Kanawana
+  (45.851 N, 74.194 W). LAC BATIMENT AND LAC McLAREN ARE EACH UNIQUE IN THE PROVINCE, which is
+  what makes the identification firm rather than a coincidence of common lake names -- the same
+  kind of control that Kanawyer, California, provided for the postal list.
+
+  "Lac Daby" and "Lac Boisfranc" return nothing from that service or from a web search, and are
+  probably OCR manglings or unofficial local names. "Lac Bois" and "Lac Caribou" are too common
+  to place.
+
+  WHAT THIS DOES AND DOES NOT DO. It converts a vague lead into a located one. It does NOT settle
+  the attribution: a seven-week camp six years established at Saint-Sauveur could have sent a
+  party seventy kilometres north, and equally the High School of Montreal could have run its own
+  trip there. THE TEST FOR THE NEXT PASS IS NOW SPECIFIC: does any Kanawana record -- the 1920s
+  brochures, the Gas Bag runs, the directors' reports -- name Saint-Donat, Lac-Legendre, Lac
+  Batiment, Lac McLaren or the Rouge-Matawin country? None of the nine lake names appears
+  anywhere in this project's source cache outside this file.
