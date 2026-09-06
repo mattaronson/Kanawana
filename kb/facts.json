@@ -1,8 +1,8 @@
 {
-  "version": "7.60",
-  "kb_version": "7.60",
+  "version": "7.62",
+  "kb_version": "7.62",
   "migrated_from": "3.3",
-  "fact_count": 5035,
+  "fact_count": 5037,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -90795,6 +90795,45 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.60",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5074",
+      "category": "history",
+      "date_ref": "1944",
+      "entities": [
+        "Camp Perrot",
+        "Kamp Kanawana",
+        "Ile Perrot",
+        "YMCA of Montreal"
+      ],
+      "claim": "CAMP PERROT WAS BOUGHT BY THE KAMP KANAWANA COMMITTEE FOR $8,500, AFTER 'MANY YEARS OF SEARCH'. The annual report for the year ending 31 March 1945 says it outright: 'AFTER MANY YEARS OF SEARCH FOR SUITABLE CAMPING FACILITIES NEAR THE CITY FOR A LOW COST CAMP, THE KAMP KANAWANA COMMITTEE WAS SUCCESSFUL IN LOCATING A PROPERTY ON THE SOUTH SIDE OF [ILE] DE PERROT ABOUT 50 MILES FROM MONTREAL, WHICH AFTER CAREFUL INVESTIGATION WAS ACQUIRED FOR $8,500. The transaction was completed in time for a successful low cost camp to be conducted during the 1944 summer season.' FOUR THINGS THIS SETTLES OR SHARPENS. (1) THE BUYER WAS KANAWANA'S OWN COMMITTEE, not a separate body -- so Camp Perrot is institutionally Kanawana's offspring, which no document this project held had said. (2) THE PRICE IS $8,500 and the acquisition was completed in time for the 1944 season, confirming the 1944 founding that five annual reports' season-ordinals imply. (3) 'AFTER MANY YEARS OF SEARCH' CLOSES A THREAD THIS PROJECT HAS BEEN PULLING ALL DAY: the association reported experimenting with 'the idea of a \"near-the-city\" camp for older boys' at Camp Dorval in 1929 and finding 'a very important need' (f_5066), ran the Camp Thunderbird island experiment in 1942 and 1943 and concluded it 'has proven the need for a permanent camp of this nature, which could be used by boys and girls throughout the summer' (f_5037) -- and here, in the same breath, is the purchase that ended the search. The succession Thunderbird-to-Perrot is still not stated by any document, but the SEARCH is, and Perrot is its stated end. (4) A DISCREPANCY TO FLAG, NOT RESOLVE: this report says 'ABOUT 50 MILES FROM MONTREAL' while the camp's own brochures and wiki/site/camp-perrot.md say about 28. Ile Perrot is roughly 20 miles west of downtown Montreal, so 28 is the plausible figure and 50 is likely loose or a misprint; NEITHER IS PREFERRED HERE and the brochure is the nearer witness.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1945"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.61",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5075",
+      "category": "programs",
+      "date_ref": "1939-1944",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE WAR YEARS AT KANAWANA: A THIRTIETH SEASON, BRITISH VISITORS, CHLORINATED WATER AND A STAFF OF MEN AND WOMEN. THE 1939 SEASON, called 'THE THIRTIETH SEASON at Kanawana' -- a sixth independent instance of the camp counting from 1910 (f_5030, f_5047, f_5073) -- took 526 boys for 1477 weeks. 'FIVE GROUPS OF ENGLISH AND SCOTTISH BOYS MAKING TOURS OF CANADA each included visits of from four days to a week at Kanawana in their itinerary. These visits were greatly appreciated by our boys, and THE 133 OLD COUNTRY BOYS seemed to enjoy themselves immensely in our north woods camp.' THE PROPERTY WORK OF THAT YEAR is a small portrait of a camp modernising: 'new parking space for the cars of parent-visitors, HOT AND COLD SHOWERS, INSTALLATION OF CHLORINATING SYSTEM FOR DRINKING WATER'. A GRADUATE NURSE was added to the staff and 'from the standpoint of health, the camp had one of its best years', with the programme 'intensified through greater emphasis on canoe tripping, handicraft...'. THE 1942 SEASON was 'THE THIRTY-THIRD SEASON' -- a seventh instance of the same count, and it checks: 1910 plus thirty-two is 1942 -- 'one of the best in several years, with an attendance of 319 boys for a total of 1,330 camper-weeks, compared with 1,266 in the 1941 season. THE CAMP WAS OPEN FOR EIGHT WEEKS.' THE 1943 SEASON also ran eight weeks, 368 boys for 1,343 weeks, and the staffing line is the one worth having: 'AN EXPERIENCED STAFF OF 24 MEN AND WOMEN WAS IN CHARGE.' THE 1944 SEASON: 400 boys, 1,450 camper-weeks, again 'a capable staff of 24 MEN AND WOMEN', and 'SEVERAL PARTIES OF SKIERS USED THE CAMP IN WINTER'. WOMEN ON THE KANAWANA STAFF IN 1943 AND 1944, STATED PLAINLY AND TWICE, is worth setting beside wiki/history/coeducation-gender.md, which records the camp as boys-only until 1967 and has had to assemble the presence of women from a director's wife, a nurse and a 'camp mother'. [CORRECTED 2026-09-06 BEFORE FIRST USE: an earlier draft of this fact wrote 'a quarter of a wartime staff of twenty-four', which is arithmetic THE REPORTS DO NOT CONTAIN. They give the total, 24, and the words 'men and women'. THEY DO NOT SAY HOW MANY WERE WOMEN.] What is stated is that women were on the staff of a boys' camp in two consecutive wartime seasons, twenty-four years before girls were admitted as campers. IT DOES NOT MAKE THE CAMP COEDUCATIONAL -- the campers were boys -- and the reports do not say what the women did.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1940",
+        "src_ymf_sgw_ymca_annual_report_1943",
+        "src_ymf_sgw_ymca_annual_report_1944",
+        "src_ymf_sgw_ymca_annual_report_1945"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.61",
       "added_by": "ralph_loop"
     }
   ]

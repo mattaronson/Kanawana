@@ -6904,3 +6904,49 @@ developed for describing somebody else's.**
 One error caught by the checks: I cited `src_ymf_sgw_ymca_annual_report_1930`, which does not exist.
 The 1930 report's record is `src_cache_sgw_ymca_annual_report_1930`. `data_integrity` refused the
 commit, which is the second time today an invented source id has been stopped at that gate.
+
+## 2026-09-06 — The war-years annual reports, and the sentence that ends a fifteen-year search
+
+Read: the YMCA of Montreal annual reports for the years ending 31 March 1940, 1943, 1944 and 1945.
+Under the 31 March rule these are the 1939, 1942, 1943 and 1944 seasons.
+
+The 1945 report contains the sentence this project has been circling for a day: "after many years
+of search for suitable camping facilities near the city for a low cost camp, the Kamp Kanawana
+Committee was successful in locating a property on the south side of [Île] de Perrot about 50 miles
+from Montreal, which after careful investigation was acquired for $8,500. The transaction was
+completed in time for a successful low cost camp to be conducted during the 1944 summer season."
+
+Three things come out of it. Camp Perrot was bought by Kanawana's own committee, which no document
+this project holds had said, so Perrot is institutionally Kanawana's offspring rather than a
+sibling. The 1944 founding, previously an inference from five reports' season-ordinals, is stated.
+And the near-the-city thread now has a documented end: the association reported experimenting with
+"the idea of a 'near-the-city' camp for older boys" at Camp Dorval in 1929, ran the Camp Thunderbird
+island experiment in 1942 and 1943 and concluded it "proven the need for a permanent camp of this
+nature," and here is the purchase that closed the search. The succession Thunderbird-to-Perrot is
+still not stated by any document. The search is, and Perrot is its stated end.
+
+The "about 50 miles from Montreal" conflicts with the 28 miles the Perrot brochures give. Île Perrot
+sits roughly 30 km west of downtown Montreal, call it 19 miles, which puts the brochures closer to
+the geography — but that is my own reading of a map, not a source, and an annual report is a primary
+institutional document. I have no documented basis for deciding which number the association meant. Both are recorded; neither is preferred.
+
+The second find is smaller and harder. The 1943 and 1944 seasons each ran with "a staff of 24 men
+and women," stated in those words two years running. `coeducation-gender.md` has had to assemble the
+presence of women in the boys-only era out of a director's wife, a nurse and a "camp mother"; this
+is the association saying it plainly. It does not make the camp coeducational — the campers were
+boys until 1968 — and the reports do not say how many of the twenty-four were women or what work
+they did.
+
+I nearly made that worse. My first draft of f_5075 wrote "a quarter of a wartime staff of
+twenty-four," which is a number the reports do not contain; I had invented a proportion out of the
+word "women." Corrected in place before the fact was ever used, with the correction visible in the
+fact text. That is the second time today I have written arithmetic a source does not perform, after
+"roughly two campers in three went out on a trip." The pattern is specific enough to name: when a
+source gives a total and a category, the temptation is to supply the split. The split is not there.
+
+Also from these four reports: 1939 was "the thirtieth season" and 1942 "the thirty-third," a sixth
+and seventh independent instance of the camp counting from 1910 against the 1894 centennial. In 1939
+the camp installed hot and cold showers, a chlorinating system for drinking water and parking for
+parent-visitors' cars, hired a graduate nurse, and hosted 133 "Old Country" boys in five touring
+groups of English and Scottish boys. In the winter of 1944-45, "several parties of skiers used the
+camp in winter" — one line, but the first documented winter use this project has found.

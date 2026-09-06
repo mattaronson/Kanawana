@@ -1,6 +1,6 @@
 # Camp Perrot
 
-*Status: E1-reviewed | Sources: 13*
+*Status: E1-reviewed | Sources: 14*
 *Last Updated: 2026-09-06 (the 1947 and 1948 reports read whole; the Thunderbird question)*
 
 ## Overview
@@ -12,6 +12,31 @@ Camp Perrot was a low-cost, branch-referral summer camp for boys and girls opera
 Camp Perrot's exact site is now confirmed by two digitized period brochures: "the south shore of Isle Perrot, looking out over the St. Lawrence River, with Beauharnois on the left and the Ottawa and St. Lawrence Rivers merging on the right" — a 45-acre property with 600 feet of sandy shoreline, mailing address "Y.M.C.A. Camp Perrot, Ile Perrot North, Que."^5
 
 ## Founding and Operating Span
+
+**Who bought it, for how much, and after how long a search.** The association's report for the year
+ending 31 March 1945 states all three:
+
+> "**After many years of search for suitable camping facilities near the city for a low cost camp,
+> the Kamp Kanawana Committee was successful in locating a property on the south side of [Île] de
+> Perrot** about 50 miles from Montreal, which after careful investigation **was acquired for
+> $8,500**. The transaction was completed in time for a successful low cost camp to be conducted
+> during the 1944 summer season."^14
+
+Three things follow. **The buyer was Kanawana's own committee**, which makes Perrot institutionally
+Kanawana's offspring rather than a parallel venture — nothing this project held had said so. The
+price and the timing confirm the 1944 founding that five annual reports' season-ordinals imply. And
+"after many years of search" closes a thread that runs through this wiki: the association reported
+experimenting with "the idea of a 'near-the-city' camp for older boys" at [[site/camp-otoreke|Camp
+Dorval]] in 1929 and finding "a very important need," ran the [[site/camp-thunderbird|Camp
+Thunderbird]] island experiment in the early 1940s and concluded it had "proven the need for a
+permanent camp of this nature, which could be used by boys and girls throughout the summer" — and
+here is the purchase that ended the search. *No document still says Perrot succeeded Thunderbird,
+but the search is documented and Perrot is its stated end.*
+
+*One discrepancy, flagged not resolved:* this report says "about 50 miles from Montreal" where the
+camp's own brochures say about 28. Île Perrot is roughly twenty miles west of downtown, so 28 is the
+plausible figure and the brochure is the nearer witness; neither is preferred here.
+
 
 The camp's founding is now dated to 1944, not the "1945" previously inferred from the earliest surviving document. Five independent annual reports self-describe their season number relative to a consistent start year: the 1947 report calls itself the "fourth season," 1948 the "fifth season," 1950 the "seventh consecutive season," 1951 the "eighth year of operation," and 1952 the "ninth summer" (for both boys' and girls' sessions) — all counting from 1944.^5
 
@@ -194,6 +219,7 @@ The earliest known Kanawana-side documentary evidence is a "Comparison of Two Bo
 11. "Suggestions / Recommendations, Camp Perrot 1948" [src_ymf_1948_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls]. **The catalogue files this as a season report and it is not one**: unsigned, no attendance figures, no staff list, a building-by-building list of works wanted before 1949. See [f_5034].
 12. YMCA of Montreal Annual Report, 1944, on Camp Thunderbird [src_ymf_sgw_ymca_annual_report_1944]. See [f_5037] and [[site/camp-thunderbird|Camp Thunderbird]].
 13. Camp Perrot annual reports for 1950, 1951 (eighth), 1952 (ninth), 1953 (tenth), 1954 and 1958 [src_ymf_1950_camp_perrot_annual_report, src_ymf_1951_camp_perrot_annual_report, src_ymf_1952_camp_perrot_annual_report, src_ymf_1953_camp_perrot_annual_report, src_ymf_1954_camp_perrot_annual_report, src_ymf_1958_camp_perrot_annual_report]. **Read for their title-page officer blocks and signatures only** — the bodies are not read, and the source records say so. See [f_5048].
+14. YMCA of Montreal Annual Report for the year ending 31 March **1945** [src_ymf_sgw_ymca_annual_report_1945]. See [f_5074].
 
 ## Research Notes
 
