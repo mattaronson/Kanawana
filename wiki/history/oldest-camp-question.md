@@ -1,7 +1,7 @@
 # Is Kanawana the Oldest Camp in Canada?
 
 *Status: draft | Sources: 23*
-*Last Updated: 2026-09-05*
+*Last Updated: 2026-09-06 (named as the canonical home for this argument; a duplicate copy elsewhere was retired)*
 
 ## Overview
 
@@ -523,6 +523,8 @@ across the country, and the century that closed its own sibling camp on the orig
    recommends, rather than leaving them scattered across facts and articles.
 
 ## Related Articles
+
+*This article is the canonical home for the oldest-camp argument. [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]] carried a second, earlier version of the same case until 2026-09-06; the two were compared paragraph by paragraph, nothing there was found that is not here, and that copy was deleted rather than merged. If the argument changes, it changes here.*
 
 - [[history/founding-1894|Founding of Camp Kanawana (1894)]]
 - [[history/timeline-overview|Timeline Overview: Camp Kanawana Decade by Decade]]

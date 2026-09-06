@@ -1,8 +1,8 @@
 {
-  "version": "7.96",
-  "kb_version": "7.96",
+  "version": "7.97",
+  "kb_version": "7.97",
   "migrated_from": "3.3",
-  "fact_count": 5079,
+  "fact_count": 5080,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91617,6 +91617,20 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.96",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5118",
+      "category": "methodology",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project"
+      ],
+      "claim": "TWO ARTICLES WERE CARRYING THE SAME ARGUMENT, AND THE COPIES HAD DRIFTED. Found 2026-09-06 while spinning material out of connections/institutional-lineage/canadian-camping-movement.md under p_452. That article's subsections 'A third claimant to \"Canada's oldest camp\", and why the ranking is withdrawn' and 'Continuity, tested: every claimant has an interruption' -- 1,463 words -- were A SECOND VERSION OF THE ARGUMENT ALREADY MADE IN history/oldest-camp-question.md. Not a cross-reference, not a summary: the same case, made twice, in two files. I ALMOST MOVED IT INSTEAD OF DELETING IT. The plan was to relocate the material to the article where it belonged. Checking first showed the destination already had all of it -- Camp Stephens appears 30 times in oldest-camp-question against 19 in the movement article, and the four-summer Big Cove closure, the 165th anniversary yearbook, the page-8 self-contradiction, the COVID closures and the longest-unbroken-run table were all already there. AND THE COPY IN THE MOVEMENT ARTICLE WAS THE WEAKER ONE. It floats a reconciliation as speculation -- the 1891 'Lake of the Woods Institute' 'may have been a men's conference-encampment rather than a children's resident camp' -- and correctly declines to adopt it for want of a source. oldest-camp-question.md HAS THE SOURCE: a narrative that 'for the first twenty years of Stephens, it was predominantly an adult and family Bible camp' and that 'it wasn't until 1911 that the first boys' camp was organized at Camp Stephens'. The duplicate presented as open a question its twin had settled. It also lacked the 101-season correction note that oldest-camp-question carries. SO IT WAS DELETED, NOT MERGED, after a paragraph-by-paragraph comparison, and the parent keeps a summary, a link and a note saying what happened. oldest-camp-question.md is now marked in its own text as THE CANONICAL HOME for the argument. Sources 14-18 in the movement article, orphaned by the cut, were removed and 19-22 renumbered to 14-17; all four of their source ids are already cited in the destination article, so nothing left the corpus. Parent 35,476 -> 34,023 words. THE GENERAL PROBLEM THIS EXPOSES, WHICH IS BIGGER THAN THIS INSTANCE: nothing in this project detects an argument being made in two articles. The source-record duplicate detector (scripts/reread/duplicate_sources.py) finds documents catalogued twice; there is no equivalent for PROSE. Two copies of a case will drift, and the reader has no way to know which is current -- here the weaker copy sat in a spoke article where a reader arriving from the movement side would have found it first. HOW MANY OTHER PAIRS EXIST IS NOT KNOWN AND HAS NOT BEEN MEASURED.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.97",
       "added_by": "ralph_loop"
     }
   ]
