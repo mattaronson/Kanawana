@@ -1,8 +1,8 @@
 {
-  "version": "8.66",
-  "kb_version": "8.66",
+  "version": "8.67",
+  "kb_version": "8.67",
   "migrated_from": "3.3",
-  "fact_count": 5191,
+  "fact_count": 5192,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93591,6 +93591,25 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.66",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5230",
+      "category": "programs",
+      "date_ref": "1969",
+      "entities": [
+        "N.W.T. Camping Association",
+        "Jean-Paul Patinaude",
+        "Kamp Kanawana",
+        "Jack Eastaugh"
+      ],
+      "claim": "p_369 ANSWERED, IN THE NEGATIVE, WITH THE INSTRUMENT CALIBRATED. THE NULL: every cached document in this project was swept for the Quebec Indigenous community names nearest the camp (Kahnawake and the older Caughnawaga, Kanesatake, Odanak, Wendake, Maniwaki, Restigouche) and for Indian / Native / Autochtone / Amerindien / Mohawk / Cree / Algonquin / Montagnais / Iroquois occurring in the same line as staff, counsellor, guide, hired, cook, tripper, instructor, leader or visit. NOT ONE HIT IS ABOUT A PERSON AT KANAWANA. 'Caughnawaga' occurs exactly once in the whole cache -- in McMorris, about the camp's NAME. THE CALIBRATION, WHICH IS WHAT MAKES THE NULL WORTH ANYTHING: the same magazine that carried Jack Eastaugh's 1973 claim that YMCA camps east and west 'have welcomed the participation of, and appreciated the contribution of local Indians in their programs' had four years earlier printed the plain version of that sentence about a different association, unprompted. Jean-Paul Patinaude, 'Camping in the North', Canadian Camping Vol. 21 No. 2 (Winter 1969) p. 47, on the N.W.T. Camping Association's camps at Yellowknife and Hay River: 'The native staff members are very gifted in nature activities such as Hiking and canoeing for the boys and games and leather handicraft (beadwork and moccassins) for the girls. Approximately one-half of the camping personnel is Indian: no segregation here. All counsellors and directors learn to live under the same roof in sometimes hard conditions of life. It's a share and share alike job.' f_3331 recorded this article in detail and left that passage out. SO THE LITERATURE DID REPORT INDIGENOUS CAMP STAFF WHEN THERE WERE ANY, which makes Kanawana's silence evidence rather than an absence of evidence -- WITH THE LIMIT STATED: it is silence in a partial record, and the Concordia staff files, payroll and camp committee minutes this project cannot open could still hold a name.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.67",
       "added_by": "ralph_loop"
     }
   ]

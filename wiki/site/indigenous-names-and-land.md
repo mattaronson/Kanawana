@@ -1,7 +1,7 @@
 # Indigenous Place Names and Land History
 
-*Status: R3-verified | Sources: 34*
-*Last Updated: 2026-09-06*
+*Status: R3-verified | Sources: 35*
+*Last Updated: 2026-09-06 (p_369 answered, in the negative and with the instrument calibrated)*
 
 ## Overview
 
@@ -147,6 +147,12 @@ the assembling was done in print, deliberately, by a named author whose book the
 reprinting in 1978.
 
 Eastaugh's article is worth reading beside Edgar's talk, because it is the same tradition defending itself twenty months later and conceding more. He compares camp Indian Lore to the minstrel show in order to deny the parallel, then grants the substance of the charge: "Indian Lore in the summer camp is guilty of ignoring cultural facts … **We have stolen the tepee from the people of the plains, the grotesque and marvellously hideous masks of the Iroquois, the birch bark crafts of the Hurons and the rich and colourful designs of the West Coast Indians.**" His remedy is attribution rather than discontinuation. He also records that "the Y.M.C.A. camps in Eastern and Western Canada for years have welcomed the participation of, and appreciated the contribution of local Indians in their programs," naming Golden Lake, Couchiching, Georgian Bay, Brantford and Moosonee — which, for a YMCA camp, is a claim about Kanawana's own movement that no Kanawana source has yet confirmed or denied.^16
+
+### What a systematic search returns, and what that is worth
+
+**The search has now been run, and it comes back empty.** Every cached document in this project — annual reports, director's reports, brochures, staff newsletters, the *Green Triangle*, the McMorris thesis, the full *Canadian Camping* run — was swept for the names of the Quebec Indigenous communities nearest the camp (Kahnawake and its older spelling **Caughnawaga**, Kanesatake, Odanak, Wendake, Maniwaki, Restigouche) and for every occurrence of *Indian*, *Native*, *Autochtone*, *Amérindien*, *Mohawk*, *Cree*, *Algonquin*, *Montagnais* or *Iroquois* sitting in the same line as a word for employment or attendance — staff, counsellor, guide, hired, cook, tripper, instructor, leader, visit. **Not one hit is about a person at Kanawana.** "Caughnawaga" occurs exactly once in the whole cache, in McMorris, and it is about the camp's *name* rather than anyone who came to it. Kanawana's Indigenous material is scripts, a totem pole, a teepee of old canvas and a vocabulary; there is no documented Indigenous person in it.
+
+**A null result is only worth what the instrument is worth, and here the instrument can be calibrated.** The same magazine that printed Eastaugh's claim had, four years earlier, printed the opposite kind of sentence about a different camping association without any prompting: Jean-Paul Patinaude, describing the camps the N.W.T. Camping Association ran at Yellowknife and Hay River, wrote that "the **native staff members** are very gifted in nature activities such as hiking and canoeing for the boys and games and leather handicraft (beadwork and moccassins) for the girls. **Approximately one-half of the camping personnel is Indian: no segregation here.** All counsellors and directors learn to live under the same roof."^35 So the literature of the movement did report Indigenous camp staff, in plain terms, when there were any. **That makes Kanawana's silence evidence rather than merely an absence of evidence** — though it remains silence in a partial record, and the Concordia holdings this project cannot open (staff files, payroll, the camp committee minutes) could still contain a name. What can be said is that in everything held here, across a hundred and thirty years, Kanawana's relationship to Indigenous people is a relationship to an idea of them.
 
 An "Indian Grave" marking existed on the Kanawana camp map, though no documentation has been found explaining whether this referred to an actual burial site, a naturalistic feature, or a campfire-story location.^8
 
@@ -299,6 +305,7 @@ The Kanawana site sits in the municipality of Saint-Sauveur, in the Laurentian h
 32. Commission de toponymie du Québec, official fiches for **Lac Kanawana** (no_seq 31996), the lieu-dit **Kanawana** (31995), **Lac Wilson** (67247) and **Camp Kanawana** (144200), each stamped "dernière mise à jour: 7 octobre 2020" [src_ct_fiches_kanawana_2026]. Fetched and read 2026-09-06 (p_264); cached at `sources/cache/toponymie/`. The fiche pages answer a direct GET on `no_seq`; the Commission's search form is an ASP.NET postback and returned no results to a scripted POST, so the fiches were located through the open dataset at note 34. See [f_4874], [f_4875].
 33. The 1951 Kamp Kanawana history, on both renamings [src_ia_kanawana_history_1951]. See [f_2371] (Lac Desjardins to Lake Wilson, for J. W. McConnell's son), [f_2372] (Lake St. Louis to Lake Kanawana). The oral-history version of the Desjardins renaming is [f_1206].
 34. Données Québec open datasets published by the Commission de toponymie: *Toponymes officiels* (131,634 rows), *Toponymes désofficialisés* (13,951 rows) and *Noms traditionnels autochtones* (2,675 rows) [src_donneesquebec_bnlq_2026]. Downloaded and queried 2026-09-06; not cached in the repo (27 MB), with every row that matters quoted in [f_4874], [f_4876], [f_4877], [f_4878].
+35. Jean-Paul Patinaude, "Camping in the North," *Canadian Camping* Vol. 21 No. 2 (Winter 1969), p. 47 [src_ia_canadian_camping_collection]. Patinaude is the spelling taken from the full word-for-word read of the run, where this author is recorded writing in Winter 1969 ([f_3331]); this scan's OCR renders the surname "Paiinaude". See [f_5230].
 
 ## Research Notes
 
