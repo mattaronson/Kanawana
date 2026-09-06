@@ -1,8 +1,8 @@
 {
-  "version": "8.08",
-  "kb_version": "8.08",
+  "version": "8.09",
+  "kb_version": "8.09",
   "migrated_from": "3.3",
-  "fact_count": 5095,
+  "fact_count": 5097,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91863,6 +91863,41 @@
         "f_5091"
       ],
       "added_version": "8.08",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5134",
+      "category": "sources",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kamp Kanawana",
+        "Kanawana wiki project"
+      ],
+      "claim": "A SWEEP OF 'CAMP KANAWANA' ACROSS THE WHOLE OPEN LIBRARY BOOK CORPUS RETURNS EIGHT BOOKS, AND THIS PROJECT ALREADY HELD SEVEN. Run 2026-09-06 against https://openlibrary.org/search/inside.json, the endpoint that recovered the Hay Finlay passage (f_4959). The seven already held: Michael Kutz's 'If, by Miracle' (the diabetic children from Camp Kanawana passage, already written up in programs-activities.md); 'Les Laurentides, peintures et paysage'; 'My Canada-Such a Mechiah!'; 'Retenue par un fil'; 'Le Quebec en plein air'; the biography of J.W. McConnell; and an obituary reading 'Locke headed the financial campaign for the Fraser Hickson Library in Notre Dame de Grace, Quebec, and was a director of Camp Kanawana, a children's camp in the Laurentians. He is survived by his wife' -- ALREADY QUOTED AT people/roy-locke.md line 89, and reached here only by walking backwards through five overlapping queries because the OCR breaks 'di- rector' across a line. THE ONE NEW BOOK is L. Ian MacDonald's 'Politics, People, and Potpourri' (2009), a collection of the Montreal columnist's columns: 'Because she recently went on a five-day canoe trip at Camp Kanawana in the Laurentians, she is the family expert...'. THE CAMPER IS A PRIVATE INDIVIDUAL, A CHILD AT THE TIME, AND IS NOT IDENTIFIED; the institutional fact is an outside published attestation that Kanawana ran five-day canoe trips. THE TRIP IS UNDATED: the book collects earlier columns, so 'recently' places it only before the 2009 imprint. THE SWEEP'S REAL VALUE IS THE SEVEN, not the one: a corpus-wide phrase search over the whole of Open Library now returns almost nothing this project has not seen, which is a measure of the book-search surface being close to exhausted for this phrase. Other phrasings -- 'Kamp Kanawana', 'YMCA camp Saint-Sauveur', 'Lake Wilson' -- have not been swept the same way.",
+      "sources": [
+        "src_macdonald_potpourri_2009"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.09",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5135",
+      "category": "sources",
+      "date_ref": "1967-1968",
+      "entities": [
+        "Canadian Camping Association",
+        "Les Voyageurs de la Vérendrye",
+        "Kamp Kanawana"
+      ],
+      "claim": "THE CCA GUIDE BOOK THAT KANAWANA'S 1967 FIELD NOTES WENT INTO IS NOT IN THE MAGAZINE RUN OR THE ASSOCIATION'S OWN CATALOGUES. ACCESS FAILURE / NULL, recorded so the ground is not re-covered. f_5097 has the 1967 Voyageurs report saying seven boys and two counsellors retraced 150 miles of fur trade routes, logging wildlife, currents, camping facilities, weather and land structure, and that 'THIS DATA, TOGETHER WITH SIMILAR INFORMATION BY OTHER CAMPS, IS BEING ASSEMBLED INTO A GUIDE BOOK FOR THE CANADIAN CAMPING ASSOCIATION.' SEARCHED 2026-09-06 across the digitized Canadian Camping run 1949-1988, already read word for word: 'fur trade route', 'fur trade', 'guide book', 'guidebook', 'route guide', 'canoe route(s)', 'waterway', 'wild river', 'historic route', 'trip guide'. NO ANNOUNCEMENT, NO REVIEW, NO CATALOGUE ENTRY. The association's own publication catalogues of 1981, 1982 and 1984-85 list only outside titles under tripping -- Canoe Routes of British Columbia, of Ontario, of the Yukon (Douglas & McIntyre and the Ontario Ministry of Natural Resources) and the Canoe Travel Handbook. The only in-run hits for 'guidebook' are a KOA Kampgrounds advertisement and a 'Creative Behaviour Guidebook'. A CANDIDATE EXISTS AND IS EXPLICITLY NOT A MATCH: Eric W. Morse, 'Fur Trade Canoe Routes of Canada: Then and Now', published 1968, right subject and right year. IT IS A QUEEN'S PRINTER / GOVERNMENT OF CANADA PUBLICATION (R64-35/1968E) by the national director of Canadian Clubs, described by its publisher as a by-product of Morse's OWN summer canoe trips, not of camps' field notes, and not a Canadian Camping Association book. NOTHING HERE CONNECTS IT TO KANAWANA AND NO CONNECTION IS ASSERTED. So either the CCA book was never published, or it was published under a title none of these searches reach. UNTRIED ROUTES: the CCA fonds at Trent (where the 1983 Congress papers also sit), Library and Archives Canada's published-material catalogue, and the acknowledgements of Morse's own book, which is lending-restricted on the Internet Archive.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.09",
       "added_by": "manual"
     }
   ]
