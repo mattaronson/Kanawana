@@ -2647,10 +2647,11 @@
         "sources-index",
         "association-founding-dates",
         "quebec-camping-association",
-        "hay-finlay"
+        "hay-finlay",
+        "cca-national-office"
       ],
       "file_id": null,
-      "word_count": 27497,
+      "word_count": 24964,
       "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -2681,6 +2682,36 @@
         ],
         "is_hub": false
       }
+    },
+    {
+      "article_id": "cca-national-office",
+      "title": "The National Office and the Federal Money, 1969-1988",
+      "wiki_folder": "connections/institutional-lineage",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06",
+          "by": "auto",
+          "task": "WRITE",
+          "note": "Seventh cut under p_452. The funding arc was scattered through a 5,566-word chronological section named 'The money stops' that mostly was not about the money stopping. Pulled into one arc: the Ottawa office of 1969, its abandonment inside two years, the 1971 Toronto arrangement and the end of the travelling executive, Fitness Canada's withdrawal in November 1984, the 1986 appeal and Patrons' Fund, survival as a delivery agent, and 'Will we survive?'. Entered as draft: the material was E1-reviewed inside the parent but the arc, its overview and its open questions are new."
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [],
+      "sources_cited": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "cross_links": [
+        "canadian-camping-movement",
+        "quebec-camping-association",
+        "association-founding-dates",
+        "sources-index",
+        "a-ross-seaman"
+      ],
+      "file_id": null,
+      "word_count": 3624,
+      "open_questions": 4
     },
     {
       "article_id": "billy-ball",
@@ -11343,12 +11374,13 @@
         "quebec-camp-landscape",
         "camp-ouareau",
         "oldest-camp-question",
-        "ymca-quebec-history"
+        "ymca-quebec-history",
+        "cca-national-office"
       ],
       "file_id": null,
-      "word_count": 8886,
+      "word_count": 9268,
       "open_questions": 8
     }
   ],
-  "article_count": 111
+  "article_count": 112
 }

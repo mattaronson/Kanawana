@@ -30,10 +30,23 @@ def sections(text):
 
 
 def subsections(text):
-    parts = re.split(r"\n(?=### )", text)
-    for p in parts:
-        head = p.split("\n", 1)[0].lstrip("# ").strip()
-        yield head, len(p.split())
+    """Split on ### headings, STOPPING at the next heading of any level.
+
+    The obvious version -- re.split(r"\n(?=### )", text) -- is wrong and was wrong
+    here until 2026-09-06, though nothing called it. It runs a ### subsection past
+    the next ## and swallows everything after it, so the last subsection before a
+    section break is reported at several times its real length. Measured with that
+    bug, canadian-camping-movement.md's decline arc looked like 12,700 words and was
+    reported to the operator as such; it is 7,289. A measurement tool that overstates
+    is worse than none, because the number gets repeated.
+    """
+    heads = [i for i, l in enumerate(text.split("\n")) if re.match(r"^#{2,3} ", l)]
+    lines = text.split("\n")
+    for k, i in enumerate(heads):
+        if not lines[i].startswith("### "):
+            continue
+        j = heads[k + 1] if k + 1 < len(heads) else len(lines)
+        yield lines[i].lstrip("# ").strip(), len(" ".join(lines[i:j]).split())
 
 
 SKIP = {"sources", "related articles", "research notes", "open questions",

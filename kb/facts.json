@@ -1,8 +1,8 @@
 {
-  "version": "8.00",
-  "kb_version": "8.00",
+  "version": "8.01",
+  "kb_version": "8.01",
   "migrated_from": "3.3",
-  "fact_count": 5086,
+  "fact_count": 5088,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91719,6 +91719,34 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.00",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5125",
+      "category": "methodology",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project"
+      ],
+      "claim": "AN ARTICLE FILE CAN EXIST, BE LINKED FROM THREE OTHER ARTICLES, AND BE INVISIBLE TO EVERY CHECK. wiki/connections/institutional-lineage/cca-national-office.md was written and linked, and the full verify suite passed with it unregistered in wiki/articles.json. The reason is structural: EVERY PER-ARTICLE CHECK ITERATES articles.json, so a file missing from it is not checked, it is unseen. Link integrity resolves file paths and was satisfied. An unregistered article has no status, so it never enters the draft passes; no sources_cited, so A2 has nothing to compare; and it is absent from every count the wiki reports about itself, including article_count. A whole-wiki pass comparing wiki/**/*.md against articles.json was added to verify_harness.py and made blocking, with the three README files excluded; it was tested against a planted file and fired. Wiki-wide the count is zero. THIS IS THE THIRD SCOPE FAILURE OF THE SESSION (with f_5120, [src_] checked on drafts only, and f_5124, prose duplication checked between files only) AND THE MOST INSTRUCTIVE, because the other two checked the wrong SUBSET while this one checked the wrong LIST: it took articles.json as the definition of what the wiki contains, rather than as a claim about it that could be wrong.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.01",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5126",
+      "category": "methodology",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project"
+      ],
+      "claim": "A SIZE I REPORTED TO THE OPERATOR WAS WRONG BY 74 PER CENT, FROM MY OWN BAD SPLIT. I told the operator the movement article's decline arc was 'one story of about 12,700 words across four headings'. It is 7,289. The error came from an ad-hoc script splitting on re.split(r'\\n(?=### )'), which runs a ### subsection past the next ## and swallows everything after it -- so '\"Will we survive?\"' measured 6,305 words when it is 795, the difference being the people profiles and the apparatus sections that follow it under a ## heading. scripts/wiki/spinout_audit.py carried the identical bug in a subsections() function that was DEAD CODE and had never run; its printed table splits on '## ' and is correct. The dead function was fixed rather than deleted, with the failure written into its docstring, because the next person to want per-subsection numbers would have called it. THE POINT IS NOT THE ARITHMETIC: a measurement stated to the operator gets repeated and planned against, and 12,700 words versus 7,289 is the difference between 'the largest single spinout left' and 'a normal one'.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.01",
       "added_by": "manual"
     }
   ]

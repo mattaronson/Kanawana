@@ -1,6 +1,6 @@
 # The Quebec Camping Association / Association des Camps du Québec
 
-*Status: draft | Sources: 25*
+*Status: draft | Sources: 26*
 *Last Updated: 2026-09-06 (spun out of [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]; the 1982-84 Quebec material followed on 2026-09-06)*
 
 ## Overview
@@ -181,6 +181,14 @@ may be a directory in the CCA's fuller sense — address, director, capacity, ag
 structure — or it may be a list of names and addresses and nothing more. Nobody here has seen one, and
 this article does not know.
 
+## Quebec at the very end, 1988
+
+The national association's last two issues carry the Quebec association's last reports to it. They are the final entries in the record this project holds, and neither knows it is the last.
+
+**Quebec at the start of 1988.** Gérard Bachand's first report as vice-president records a new leadership programme for administrators, an advanced directors' course ("Directeur 2") begun in December, a "Formateur-plus" course for camps' own trainers, **two studies with the M.L.C.P. — one on insurance and one a market study of summer-camp clientele** (confirming from a second source the study Henri Chalifoux described in the autumn), the development plan going to the Conseil d'administration in mid-January, and "**une Foire des Camps se prépare pour le début de 88, où l'ACQ est le maître d'oeuvre. Le tout se déroulera au Complexe Desjardins de Montréal**."^26 He also records a handover on the provincial board: "I also want to extend a warm thank you to **Mr. Ken Willis** for all the years he spent working for the QCA… By the same token, I wish to welcome **Mrs. Madelene Allen** who will be taking Ken's place" — so **the director of Camp Ouareau joined the ACQ's board of directors at the start of 1988**.
+
+**The last of the language question.** Colette Pouliot-Marier reports that under the new policy Quebec francophones had for some months been doing the magazine's translation in both directions, "**une amélioration importante**" that francophone readers appreciated — and then appeals, twice, for French copy, because "**les derniers numéros témoignent toujours de la rareté des textes en français**."^26 Thirteen years of committee work produced a policy, a translation service and an inventory; what it could not produce was contributors.
+
 ## Open Questions
 
 1. **What happened to the English Section between October 1978 and December 1979?** It appears
@@ -223,6 +231,7 @@ this article does not know.
 - [[people/derek-walsh|Derek Walsh]] — Kanawana's director, president of the English Section, and the CCA's Quebec vice-president
 - [[connections/related-camps/quebec-camp-landscape|The Quebec Camping Landscape]] — the other camps in the association
 - [[connections/related-camps/camp-ouareau|Camp Ouareau]] — Madelene Allen's account of what an accreditation visit actually covered
+- [[connections/institutional-lineage/cca-national-office|The National Office and the Federal Money, 1969-1988]] — the national funding story this association's seat sat inside
 - [[history/oldest-camp-question|The Oldest-Camp Question]]
 - [[connections/institutional-lineage/ymca-quebec-history|The YMCA of Montreal]] — the institution that owned Kanawana and housed the association's meetings
 
@@ -253,3 +262,4 @@ this article does not know.
 23. CCA/ACC **Annual Report 1983 / Rapport Annuel 1983**, the insert to *Canadian Camping* Vol. 36 No. 2 (Summer 1984): the President's and Executive Director's reports; the Quebec provincial report signed Claire Menard; the French Language Committee report (Ken Willis); the Leadership Development Programs report (Paul Potter); the Public Relations and Promotion report (Marnie Ellis); the Newsletter Committee report (Jay Haddad); the International Youth Year Task Force report (Hugh Phillips); and the CCA/ACC national and provincial statistics for 1983. With Colette Pouliot-Marier, "Le Comité des camps d'expression française," p. 7 of the same issue [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 151).
 24. Henri Chalifoux, "Quebec Camping Association" / "Association des camps du Québec," p. 4; Committee Notes — Colette Pouliot-Marier, "Le comité des camps d'expression française," and Jack Pearse, "Fund Raising," p. 7; Aniko Varpalotai, "The P.A.R.C. Notebook," p. 8; "Jackpot!", p. 18; the "In This Issue" editorial note, p. 1; and the masthead, p. 2 — all *Canadian Camping Magazine* Vol. 39 No. 2 (Fall 1987) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 163). Pages 13 (Nancy Bramm's Bubby Nash article) and 19 (the Camp Cheboygan memorabilia spread) produced no machine-readable text in the Internet Archive scan and have not been read.
 25. The Annuaire trail, assembled 2026-09-06: the ACQ report of 1981-82 naming *l'Annuaire 82* (source 19 above); "Annuaire des Membres et Associés de Camps de l'Association des Camps de l'Ontario," quoted in the French article on choosing a camp, *Canadian Camping* Vol. 27 No. 2 (January 1975); the title page "Annuaire National des Camps 1976," *Canadian Camping* Vol. 28 No. 2 (January 1976) [src_ia_canadian_camping_collection]; and Concordia University Archives, P145/12N04 (Quebec Camping Association / Association des camps du Québec), box HA1888, item "Annuaire 1979, liste des membres. - 1979" [src_concordia_mirror_12n04]. See [f_4873]. The catalogue surfaces that would locate a copy of the *Annuaire 82* itself could not be searched from here — BAnQ's IRIS catalogue and Library and Archives Canada's Voilà were refused at the network gateway, WorldCat and the Google Books API returned HTTP 429 — and BAnQ numérique's holding of the association's own annual report begins only with 2012/2013 [src_banq_acq_rapport_annuel]. That is an access failure, not evidence that the *Annuaire 82* does not survive. See [f_4871], [f_4872].
+26. Janet Adamson, "President's Message," pp. 3-4; "Got A Minute?", p. 10; Gérard Bachand, "Quebec's Region Report," p. 6; Colette Pouliot-Marier, "Committee For Camps of French Expression," p. 11; Aniko Varpalotai, "The P.A.R.C. Notebook," pp. 22-24; and "Personality Profile: Lorne Brown (1908-1976)" — interview with May Brown, pp. 12-18 — all *Canadian Camping Magazine* Vol. 39 No. 3 (Winter 1988), the final issue of the run [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 164).

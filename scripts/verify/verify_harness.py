@@ -91,7 +91,7 @@ record as though it were a finding.
 These are deliberately NON-BLOCKING and print as a separate section. They
 measure the project's reading discipline, not any article's correctness.
 """
-import json, os, re
+import json, os, pathlib, re
 from collections import defaultdict
 
 # Derived, not hardcoded: this runs on a CI runner as well as in the session
@@ -285,6 +285,28 @@ if not wide_a1:
 for k in sorted(wide_a1):
     st, hdr, n = wide_a1[k]
     print('    %-32s [%s] header says %d, %d entries present' % (k, st, hdr, n))
+
+# WHOLE-WIKI: a .md under wiki/ that articles.json has never heard of. Added
+# 2026-09-06. A spinout wrote cca-national-office.md, three articles linked to it,
+# and EVERY CHECK PASSED -- because every per-article check iterates articles.json,
+# so a file missing from it is not checked, it is invisible. Link integrity resolves
+# file paths and was satisfied. An unregistered article has no status, so it never
+# appears in the draft passes; it has no sources_cited, so A2 cannot compare
+# anything; and it is absent from every count the wiki reports about itself.
+_reg = {os.path.join(ROOT, 'wiki', a['wiki_folder'], a['article_id'] + '.md') for a in arts}
+_skip = {os.path.join(ROOT, 'wiki', 'README.md'),
+         os.path.join(ROOT, 'wiki', 'articles', 'README.md'),
+         os.path.join(ROOT, 'wiki', 'sources', 'README.md')}
+_ondisk = {str(f) for f in pathlib.Path(os.path.join(ROOT, 'wiki')).rglob('*.md')} - _skip
+wide_r = sorted(_ondisk - _reg)
+
+print('\n' + '=' * 70)
+print('WHOLE-WIKI: .md files under wiki/ missing from articles.json (%d)' % len(wide_r))
+print('=' * 70)
+if not wide_r:
+    print('    none')
+for k in wide_r:
+    print('    %s' % os.path.relpath(k, ROOT))
 
 print('\n' + '=' * 70)
 print('WHOLE-WIKI: [src_] refs that are not source ids (%d article(s), all statuses)' % len(wide_d))
@@ -575,7 +597,7 @@ if m_unreadable:
 # out to have no sys.exit at all: it reported everything and always exited 0,
 # so nothing it found could ever fail a build.
 #
-# BLOCKING: A1, A2, B, D, E, F, G on drafts, and all four whole-wiki passes.
+# BLOCKING: A1, A2, B, D, E, F, G on drafts, and all five whole-wiki passes.
 # These are integrity failures -- a marker that resolves nowhere, a source id
 # that is not a source, a header that miscounts its own list.
 #
@@ -588,15 +610,16 @@ if m_unreadable:
 BLOCKING_CLASSES = {'A1', 'A2', 'B', 'D', 'E', 'F', 'G'}
 _blocking = sorted({k for v in dirty.values() for i in v
                     if (k := i.split(':')[0]) in BLOCKING_CLASSES})
-_wide = len(wide) + len(wide_a1) + len(wide_g) + len(wide_d)
+_wide = len(wide) + len(wide_a1) + len(wide_g) + len(wide_d) + len(wide_r)
 
 print('\n' + '=' * 70)
 if _blocking or _wide:
     print('FAIL -- blocking issue classes present: %s' % (_blocking or 'none'))
     if _wide:
         print('       plus %d whole-wiki finding(s): %d unresolvable marker(s), '
-              '%d header mismatch(es), %d numbering break(s), %d dead source id(s)'
-              % (_wide, len(wide), len(wide_a1), len(wide_g), len(wide_d)))
+              '%d header mismatch(es), %d numbering break(s), %d dead source id(s), '
+              '%d unregistered file(s)'
+              % (_wide, len(wide), len(wide_a1), len(wide_g), len(wide_d), len(wide_r)))
     print('=' * 70)
     sys.exit(1)
 print('PASS -- no blocking issue class, no whole-wiki finding')
