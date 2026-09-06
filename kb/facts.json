@@ -1,8 +1,8 @@
 {
-  "version": "7.32",
-  "kb_version": "7.32",
+  "version": "7.33",
+  "kb_version": "7.33",
   "migrated_from": "3.3",
-  "fact_count": 4978,
+  "fact_count": 4981,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -89601,6 +89601,65 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.32",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5017",
+      "category": "programs",
+      "date_ref": "1959",
+      "entities": [
+        "Older Boys Camp",
+        "Les Voyageurs de la Verendrye",
+        "Lake Wilson",
+        "La Verendrye Park",
+        "Kamp Kanawana"
+      ],
+      "claim": "THE VOYAGEURS' FIRST SUMMER, FROM INSIDE, AND IT WAS NOT YET IN THE PARK AND NOT YET CALLED THAT. The 'Report of Older Boys Camp, Summer 1959' opens by calling 1959 'THE INITIAL YEAR OF OPERATION' and describes what that year actually was: BASE CAMP ON 'LAKE WILSON' -- that is, at Kanawana itself -- with SIX TRIPS run out of it into La Verendrye Park. The programme is called the OLDER BOYS CAMP, abbreviated OBC throughout; the name 'Les Voyageurs de la Verendrye' does not appear. A ratio of FIVE BOYS TO ONE LEADER 'worked out very satisfactorily', six to a canoe being 'good for movement in woods'. The report's own verdict on scale: 'the decision to keep the camp small in this initial year was good judgement... yet permitted the staff to anticipate some of the future problems of a larger decentralized camp of this nature.' AND ITS FIRST RECOMMENDATION IS THE MOVE: 'If the OBC is to be continued, it should be PERMANENTLY ESTABLISHED IN LA VERENDRYE PARK', with 'a camp under canvas... until a final location is established'. WHAT THIS SHARPENS. This wiki's canoe-trips article has the committee choosing La Verendrye in 1959 and securing the Lac Landron lease, which reads as one event. The report shows the sequence: in 1959 the park was a destination reached from a Kanawana base, and a permanent base there was a recommendation for the future, not a fact of that summer. The report also sets out a proposed staff structure -- Director over two Assistant Directors over four Leaders -- with the Director responsible for stores, transport and 'liaison with director of camping.'",
+      "sources": [
+        "src_ymf_1959_report_of_older_boys_camps_summer"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.33",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5018",
+      "category": "programs",
+      "date_ref": "1959",
+      "entities": [
+        "Older Boys Camp",
+        "Kamp Kanawana",
+        "Pathfinders",
+        "Lake Wilson"
+      ],
+      "claim": "THE NEW PROGRAMME'S FIRST PROBLEM WAS THE CAMP ITSELF. The 1959 report is blunt about basing the Older Boys Camp at Kanawana: 'It was in this area that a good deal of the problems were realized. First off, THE CLOSE PROXIMITY OF K.K. RETARDS THE NATURAL AND FULL DEVELOPMENT OF THE OBC AND ITS CAMPERS. In order to attract and maintain the interest of the older boy, THE IDENTITY OF THE OBC MUST BE ESTABLISHED AND MAINTAINED. Administration of the camp, with regard to its contact with K.K. was difficult and cumbersome.' Travel ate the days -- 'too much of the time was wasted in the process of travelling to and from camp, and then to the park and back' -- so 'the period of time spent at Wilson was reduced as much as possible.' And two frictions are named outright: 'THE PRESTIGE FACTOR BETWEEN PATHFINDERS VS OBC', and 'the conflict that did and might arise over the use of the Wilson camp sites.' THIS IS WORTH HAVING because the wiki's account of the Voyageurs is a story of geography -- cottagers crowding the old routes, so the camp went north. The report says the push was also INSTITUTIONAL: an older-boys programme could not become itself inside a boys' camp that already had a senior section with standing of its own. The report's questions to itself are equally frank: 'Is the camp to be more than canoe tripping, and if so what?' and 'What about the boy who gets to camp, but who is unable to fit in?'",
+      "sources": [
+        "src_ymf_1959_report_of_older_boys_camps_summer"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.33",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5019",
+      "category": "programs",
+      "date_ref": "undated",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "Lac Landron",
+        "Camp Widjiwagan",
+        "La Verendrye Park",
+        "Kamp Kanawana"
+      ],
+      "claim": "A SECOND, UNDATED DOCUMENT IS BOUND INTO THE SAME FILE, AND IT IS FROM AFTER THE MOVE. Following the 1959 report, the same scan carries a letter opening 'Dear Dave (Boss)' with 'a few brief comments and suggestions on the camp which is run by the Montreal YMCA'. IT CARRIES NO DATE AND NONE IS ASSIGNED. It is later than the report it is bound with, because its base camp is IN the park -- it discusses lease rights 'on what we might be able to get on Landron', proposes 'the northern side of Camachigama lake or Portage Bay' as better, complains of 'tourists, noise from route 30', and mentions yokes 'made and padded during the week at Kanawana', which is now a week rather than a base. WHAT IT IS: a tripper's equipment-and-food memorandum, and the most detailed description of Voyageur outfitting this project holds. Canoes: 16-footers 'are just too small', 17s and 18s wanted for 'a crack crew with 6 kids out for a month'; fibreglass over stripped canvas to save hulls written off; and on colour, 'yellow is offensive to the eye... green is nice, but used by scouts and Kapitachuan. Therefore SKY BLUE is recommended.' LIFE PRESERVERS ARE ARGUED AGAINST -- 'they should be done away with except for non-swimmers' -- which is worth recording precisely because the wiki's own canoe-trips article dates compulsory lifejackets to a federal law of November 1975. Food: dehydrate everything but corn, stock staples for variety ('five kinds of meat and potatoes, macaroni and rice give the possibility of 15 kinds of stew'), and adopt 'the WIDJI STANDARDIZED LUNCH' -- cheese, salami, chocolate, peanut butter, kool aid, rye crisp and raisins -- named for the YMCA's Camp Widjiwagan, so an inter-camp borrowing stated as such. Also public relations: a sweatshirt line, a staff-and-alumni snowshoe trip as reunion and publicity, parents invited to stay a day at pickup, and two proposed advertisement photographs captioned 'This is one camp where he'll get his feet wet' and 'If he watches his step.'",
+      "sources": [
+        "src_ymf_1959_report_of_older_boys_camps_summer"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.33",
       "added_by": "ralph_loop"
     }
   ]

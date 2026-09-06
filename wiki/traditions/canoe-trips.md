@@ -1,6 +1,6 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 25*
+*Status: E1-reviewed | Sources: 26*
 *Last Updated: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *Last Updated: 2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
 *Last Updated: 2026-07-05 (named trip staff added from photo-mined canoe-trip plaques, p_191 ENRICH pass) — photo gallery added 2026-07-02*
@@ -12,6 +12,51 @@ The program expanded significantly through the 1930s. In 1936, trips began depar
 By 1945, the routes were codified into a tiered system: a 3-day Lachute trip for beginners, 7-8 day trips to Île Perrot and Grenville for intermediates, and a 10-day Ottawa River trip for seniors.^mc The program continued to expand: by 1950, six canoe trips per week were departing, with routes extending beyond Archambault to include the Ottawa and Pembina rivers. Six trips per week meant that canoe tripping had become not a special activity but a core, ongoing feature of the summer, with groups constantly rotating through departure and return.
 
 By 1962, the growth of cottager communities near Kanawana meant canoe trips had to drive over 150 km to reach suitable launch points.^mc The appetite for more remote territory led the camp committee to begin searching in 1956 for a northern site that could serve older, more experienced trippers. After three years of scouting, they chose La Vérendrye Park in 1959 as a base camp for campers aged 15 and older. The YMCA secured a 25-acre lease at Lac Landron as a base camp, and the program was formally named **"Les Voyageurs de La Vérendrye."**^mc That first summer, the Pathfinder section alone went on eighteen canoe trips — to the Rouge River, North River, Lake Kiamika, and Taureau.^mc By 1964, over twenty trips were departing each season.^mc The La Vérendrye canoe trip program, and the L&V Games competition that grew up alongside it, became inseparable from the camp's identity in the decades that followed.
+
+### 1959 from inside: the Older Boys Camp, based at Kanawana
+
+The paragraph above compresses two things into one year, and the programme's own first-season
+report separates them. **In 1959 there was no base camp in the park.** "Report of Older Boys Camp,
+Summer 1959" calls that summer "the initial year of operation" and puts base camp "on 'Lake
+Wilson'" — at Kanawana — with **six trips** run out of it into La Vérendrye.^26 The name in use
+is the **Older Boys Camp**, OBC throughout; "Les Voyageurs de la Vérendrye" appears nowhere in it.
+A permanent base in the park is the report's **first recommendation**, not its description: "If
+the OBC is to be continued, it should be permanently established in La Vérendrye Park," with "a
+camp under canvas… until a final location is established."^26 So Lac Landron is what the report
+asked for, and the lease this article dates loosely came after.
+
+The other thing the report supplies is a reason. This article explains the move north as
+geography — cottagers crowding the old launch points — and the 1959 staff give an institutional
+reason alongside it: "**the close proximity of K.K. retards the natural and full development of
+the OBC and its campers.** In order to attract and maintain the interest of the older boy, the
+identity of the OBC must be established and maintained."^26 Travel ate the days, and two frictions
+are named outright: "the prestige factor between Pathfinders vs OBC," and "the conflict that did
+and might arise over the use of the Wilson camp sites." An older-boys programme could not become
+itself inside a boys' camp that already had a senior section of its own standing.
+
+**Five boys to one leader**, six to a canoe, "good for movement in woods" — the ratio the first
+season settled on.^26
+
+### What a Voyageur crew carried, in a letter with no date
+
+Bound into the same scan, after the report, is a tripper's memorandum to "Dear Dave (Boss)" that
+**carries no date and is not given one here**. It is later than the report it sits with: its base
+camp is inside the park, it argues about lease rights "on Landron," it wants "the northern side
+of Camachigama lake or Portage Bay" instead, it complains of "tourists, noise from route 30," and
+Kanawana has shrunk to "the week at Kanawana" when yokes get padded.^26
+
+It is the most detailed description of Voyageur outfitting this project holds. Sixteen-foot canoes
+"are just too small" for "a crack crew with 6 kids out for a month"; fibreglass over stripped
+canvas will save hulls otherwise written off; and on colour, "yellow is offensive to the eye…
+green is nice, but used by scouts and Kapitachuan. Therefore **sky blue** is recommended." Food
+runs to dehydrating everything but corn and stocking staples for variety — "five kinds of meat and
+potatoes, macaroni and rice give the possibility of 15 kinds of stew" — and to adopting "the
+**Widji standardized lunch**" of cheese, salami, chocolate, peanut butter, kool aid, rye crisp and
+raisins, named for the YMCA's Camp Widjiwagan and so an inter-camp borrowing stated as one.
+
+One passage is worth reading against the section below on the 1975 lifejacket law: the writer
+argues life preservers "should be done away with except for non-swimmers," being bulky, heavy in
+rain and ignored by the CIP men they met on the water.^26
 
 ## Coeducation and Later Developments
 
@@ -223,3 +268,4 @@ This is the only itemised cost of a 1920s Canadian canoe trip found by this proj
 23. The 1979 leave-no-trace sequence in *Canadian Camping* [src_ia_canadian_camping_collection]: Kevin Redmond, "No Trace Camping" (March 1979); the twenty Environmental Maintenance Standards from a Conference of Canadian Interpreters, reprinted from the Alberta Camping Association Newsletter of May 1979 (June 1979); and Hartwick, Jorgenson and Gear, "Canoe Tripping in the Twentieth Century" (October 1979). See [f_4061], [f_4082], [f_4091], [f_4092].
 24. Porter Sargent Publishers, *The Guide to Summer Camps and Summer Schools*, 1983-1984 (23rd edition) and December 1987, the KANAWANA entries [src_porter_sargent_guides_1983_1987]. **One entry from each edition**, reconstructed 2026-09-06 from fifteen overlapping Open Library search-inside queries; both books are lending-restricted and neither has been read. Cached with the queries at `sources/cache/openlibrary-search-inside/2026-09-06-porter-sargent-guides-1983-84-and-1987.txt`. See [f_4946].
 25. *The Lookout* Vol. 1 No. 3 (Kanawana Alumni Committee, autumn 1993), "Summer Report" by Bruce Netherwood, Director [src_ia_the_lookout_1993]. See [f_5008].
+26. "Report of Older Boys Camp, Summer 1959", YMCA of Montreal fonds [src_ymf_1959_report_of_older_boys_camps_summer]. Cached at `sources/cache/ymca-montreal-fonds/1959-report-of-older-boys-camps-summer.txt`. See [f_5017], [f_5018] and [f_5019]. **Two documents are bound into this one scan**: the 1959 report, and an undated tripper's letter to "Dave (Boss)" which is later than it — its base camp is inside the park and Kanawana is down to a week. No year is assigned to the letter.

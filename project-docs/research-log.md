@@ -6447,3 +6447,40 @@ that line drawn explicitly. It is the habit, not the thing.
 page that names him, because the scan reads "Budee" and the initial reads "4." Two documents into
 p_441, and both have paid out on material that no keyword sweep could have surfaced. That is the
 argument for p_441 stated better than the priority states it.
+
+## 2026-09-06 — p_441, third document: the Voyageurs' first summer, in their own words
+
+`src_ymf_1959_report_of_older_boys_camps_summer`, read whole. This is the one that repays the
+priority outright.
+
+The wiki's canoe-trips article had the committee scouting from 1956, choosing La Vérendrye in
+1959, and securing a 25-acre lease at Lac Landron, all running together as one event. The
+programme's own first-season report separates them. In 1959 base camp was **on Lake Wilson**, at
+Kanawana, with six trips run out of it into the park. The programme was called the **Older Boys
+Camp**, OBC throughout; "Les Voyageurs de la Vérendrye" does not occur. And a permanent base in
+the park is the report's **first recommendation** — "If the OBC is to be continued, it should be
+permanently established in La Vérendrye Park," under canvas until a final location is settled.
+Landron is what the report asked for.
+
+The second thing it supplies is a motive the article did not have. The move north has been told
+here as geography: cottagers crowding the launch points. The staff who ran that first summer give
+an institutional reason beside it, and they are blunt about it — "the close proximity of K.K.
+retards the natural and full development of the OBC and its campers. In order to attract and
+maintain the interest of the older boy, the identity of the OBC must be established and
+maintained." They name the friction: "the prestige factor between Pathfinders vs OBC," and
+"the conflict that did and might arise over the use of the Wilson camp sites." An older-boys
+programme could not become itself inside a camp that already had a senior section with standing.
+
+**And the scan binds two documents.** After the report comes a tripper's memorandum to "Dear Dave
+(Boss)" with no date on it, later than the report — its base camp is in the park, Kanawana is down
+to "the week at Kanawana," and it argues about lease rights on Landron. No year has been assigned
+to it. It is the fullest account of Voyageur outfitting this project holds: sixteen-foot canoes
+too small for a crew of six out for a month, fibreglass over stripped canvas, sky blue because
+"yellow is offensive to the eye… green is nice, but used by scouts and Kapitachuan," the Widji
+standardized lunch borrowed from Camp Widjiwagan, and an argument that life preservers "should be
+done away with except for non-swimmers" — which sits interestingly beside the November 1975
+federal law this same article covers.
+
+One scan, two documents, one catalogue date. That is the fourth distinct way this corpus has
+turned out to be mislabelled, after the multi-volume Year Book scans, the shadow source records
+and a catalogue title calling an autobiography a biography.
