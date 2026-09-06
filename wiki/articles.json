@@ -2721,7 +2721,7 @@
         "french-language-camping-national"
       ],
       "file_id": null,
-      "word_count": 19849,
+      "word_count": 19635,
       "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -11601,7 +11601,7 @@
         "french-language-camping-national"
       ],
       "file_id": null,
-      "word_count": 9305,
+      "word_count": 9524,
       "open_questions": 8
     },
     {

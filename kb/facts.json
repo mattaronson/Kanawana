@@ -1,8 +1,8 @@
 {
-  "version": "8.72",
-  "kb_version": "8.72",
+  "version": "8.73",
+  "kb_version": "8.73",
   "migrated_from": "3.3",
-  "fact_count": 5197,
+  "fact_count": 5198,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93708,6 +93708,25 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.72",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5236",
+      "category": "method",
+      "date_ref": "1986",
+      "entities": [
+        "Association des Camps du Québec",
+        "Kamp Kanawana",
+        "Peter Goddard",
+        "Jay Netherwood"
+      ],
+      "claim": "THE PARAGRAPH THE ELEVENTH CUT DELIBERATELY LEFT BEHIND IS NOW IN THE RIGHT ARTICLE, AND IT CARRIES A LIVE ASK. The ACQ's own Quebec column for the summer of 1986: 'quatre consultants visiteront pres de soixante (60) camps de vacances. Ce programme exige que les camps accredites soient visites tous les deux ans. Les camps de vacances qui ont connu des changements majeurs au cours de l'annee (le changement de directeur, par exemple) sont egalement visites.' So Quebec had moved from the annual visitation praised in 1975 to a TWO-YEAR CYCLE worked by FOUR CONSULTANTS, and a camp that changed director in a year was visited regardless of where it stood in the cycle. KANAWANA'S DIRECTORSHIP PASSED FROM PETER GODDARD TO JAY NETHERWOOD INSIDE THE YMCA'S FY1986, so on the association's own stated rule Kanawana should have been visited in 1986 and a visitation report should exist. That is a specific document to ask the ACQ and Concordia for, and it was sitting in an article about the national movement rather than in the article about the body that did the accrediting. Moved to quebec-camping-association.md as note 27; label 8bj was left with zero citations in the parent by the move and its entry removed.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.73",
       "added_by": "manual"
     }
   ]
