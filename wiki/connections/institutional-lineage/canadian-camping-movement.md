@@ -1,7 +1,7 @@
 # The Canadian Camping Movement
 
 *Status: E1-reviewed | Sources: 18*
-*Last Updated: 2026-09-06*
+*Last Updated: 2026-09-06 (p_357: the 1969 Ottawa office, the December 1970 memo that closed it, and the 1971 regional restructuring; conflict c_064 raised)*
 
 ## Summary
 
@@ -355,6 +355,53 @@ In the same issue the president announced that the association had been awarded 
 ### The money stops: why the national record thins after 1985
 
 In the winter of 1985 the association's president published the reason its own paper trail — and this article's principal source — comes to an end. Fitness Canada had funded the CCA's national office since 1971, its full-time executive director since 1979, and the travel that let volunteers from every province attend board meetings. At the end of November 1984 its director, **Michel Bedard**, told the association that Fitness Canada **would no longer fund the executive director's post at all**, and that support for "all management aspects, re travel for meetings, office functions, administrative assistance, would be **reduced each year by 33-1/3% to terminate completely in 1988**."^8be
+
+**The office's own history is older than the association later remembered, and this article had taken
+the later account.** The paragraph below, and the one after it, are drawn from Jocelyn Palm's winter
+1985 editorial. On one point the association's contemporaneous copy disagrees with it, and the
+disagreement is recorded as conflict `c_064` rather than settled here.
+
+The **CCA had a permanent national office with paid staff from February 1969, in Ottawa, on a federal
+grant.** The magazine reported it from the annual meeting of **28 February 1969**: "Through a
+[grant] from the **Fitness and Amateur Sports Branch of the Department of National Health and
+Welfare**, CCA is now able to maintain its own **National Office in Ottawa**, plus the services of an
+**Executive Secretary in the person of Mr. Barry Bryant**," at Box 2773, Station D, with extra
+secretarial help available through the Downtown Branch of the Ottawa YM-YWCA.^8bs
+
+**It lasted under two years, and the president wrote down why.** David Hartry's "C.C.A. — New National
+Office", dated **14 December 1970**, records the executive's decision after meetings with the Fitness
+and Amateur Sport consultant **Cor Westland**, the Ontario Camping Association executive and the head
+of the Administrative Centre in Ottawa: "It was felt strongly that the establishment of a National
+Office in Ottawa **would be of no benefit to C.C.A.**" The association moved instead into the OCA's
+Toronto office from January 1971 — a desk and filing cabinets at **$45.00 a month**, with use of the
+OCA's typewriter, duplicator, collator and board room, and the president picking up the mail daily —
+and Hartry states the financial position plainly: "**Project Grants are still available to C.C.A. but
+little is available for administrative Grant to operate office anywhere whether Toronto or Ottawa.
+With the offer of O.C.A., C.C.A. will be able to operate from its own income.**"^8bs
+
+So on the contemporaneous record the office does not date from 1971 and federal administrative money
+did not begin in 1971 — it *stopped* around then, and the 1971 arrangement is what an association
+operating on its own income could afford. Palm, writing fourteen years later, most likely dates the
+office from the Toronto arrangement she knew and reads later Fitness Canada support back over it. That
+is a reading and not a source; both texts are the association's own, and `c_064` is open.
+
+**1971 also ended the travelling executive, which is why Quebec's seat becomes a permanent one.** John
+Latimer's first president's letter, in the summer of 1971: "since the Association was founded, **the
+Executive moved from province to province every two years. Now there are five Vice-Presidents on the
+Executive of C.C.A. who represent various regions in Canada**" — **Tom Creighton** (Atlantic), **Bob
+Lazanik** (Quebec), **Jack Pearse** (Ontario), **Eileen Mayotte** (Prairie), **Tanya Krisman** (British
+Columbia) — with Brian Graham as treasurer and Rick Bendera as secretary, both of Toronto. "The Board
+of C.C.A. is now made up of the Executive, the Provincial Association Presidents and the Committee
+Chairmen."^8bs
+
+This is the structural change behind everything this article records about Quebec's place nationally
+from the 1970s on. Before 1971 a province held the national executive for two years and then handed it
+on — which is why the head office had been in Montreal to 1963, then Calgary, then Winnipeg, and why
+[[people/a-ross-seaman|A. Ross Seaman]] could be the national secretary in 1962 simply by living in
+Lachine while the office was on Belgrave Avenue. After 1971 Quebec holds a standing regional
+vice-presidency instead, and the office stays in Toronto. The seat this article follows through Bob
+Lazanik, Derek Walsh, Paul Belanger and Ken Willis is that seat, and it exists because of this
+reorganisation.
 
 *Canadian Camping* ceased publication in 1988. The two facts belong together, and any account of the thinning of the national camping record after the mid-1980s should start here rather than treating it as an unexplained gap.
 
@@ -812,6 +859,7 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 8bq. Tony Shorgan, "Birth of the French Camping Association (l'Association des Camps du Québec)," *Canadian Camping* Vol. 17 No. 3, April 1965, pp. 83-84 [src_cache_canadiancampingmagazine_vol17no3_1965april]. His own account of 1957-1960, read in full 2026-09-05. See [f_4863], [f_4864], [f_4865].
 8bq2. Facts held in this project's knowledge base from the 1949-1988 run of *Canadian Camping* [src_ia_canadian_camping_collection], for people who appeared in no wiki article until 2026-09-05: Wallace Forgie ([f_3286], [f_3247]); Elsie and David Palter ([f_3395], [f_3108], [f_3060]); John Hoyle ([f_2567], [f_2745]); Keith Cleverdon ([f_2686]); M. C. MacCulloch ([f_3352]); Elizabeth Wardley Raymer ([f_2815]); Doug Dent ([f_3801]); Sam Hambly ([f_4280]).
 8br. The Annuaire trail, assembled 2026-09-06: the ACQ report of 1981-82 naming *l'Annuaire 82* (see 8at); "Annuaire des Membres et Associés de Camps de l'Association des Camps de l'Ontario," quoted in the French article on choosing a camp, *Canadian Camping* Vol. 27 No. 2 (January 1975); the title page "Annuaire National des Camps 1976," *Canadian Camping* Vol. 28 No. 2 (January 1976) [src_ia_canadian_camping_collection]; and Concordia University Archives, P145/12N04 (Quebec Camping Association / Association des camps du Québec), box HA1888, item "Annuaire 1979, liste des membres. - 1979" [src_concordia_mirror_12n04]. See [f_4873]. The catalogue surfaces that would locate a copy of the *Annuaire 82* itself could not be searched from here — BAnQ's IRIS catalogue and Library and Archives Canada's Voilà were refused at the network gateway, WorldCat and the Google Books API returned HTTP 429 — and BAnQ numérique's holding of the association's own annual report begins only with 2012/2013 [src_banq_acq_rapport_annuel]. That is an access failure, not evidence that the *Annuaire 82* does not survive. See [f_4871], [f_4872].
+8bs. "1969 Annual Meeting," *Canadian Camping* Vol. 21 No. 4 (Summer 1969), p. 88 — the Ottawa national office and Executive Secretary Barry Bryant; David Hartry, "Canadian Camping Association — New National Office," dated 14 December 1970, Vol. 23 No. 3 (Spring 1971), p. 26; and John Latimer, "A Letter from the President," Vol. 23 No. 4 (Summer 1971), with the regional officer list on the masthead, p. 2 [src_ia_canadian_camping_collection]. Written up 2026-09-06 under p_357. See [f_3334], [f_3525], [f_3542]. The discrepancy with note 8be's account of the office's dates is conflict `c_064`.
 14. YMCA of Greater Halifax/Dartmouth, *165 Years of Community Building* (anniversary yearbook, 2023), p. 8 (the "oldest continuously running residential camp in Canada" claim) and p. 28 (the 1975–1980 timeline entry) [src_ymca_halifax_165th_yearbook]. The PDF's text could not be read by the fetch tool and was extracted locally; cached at `sources/cache/continuity/ymca-halifax-165th-yearbook.txt`. See [f_4739], [f_4740], [f_4741].
 15. Big Cove YMCA Camp, YMCA of Greater Halifax and Dartmouth camp page [src_ymcahfx_bigcove_page], and the Wikipedia article on the camp. Both give the "oldest" claim; neither mentions the 1976–79 interruption. See [f_4743].
 16. Camp Stephens Alumni blog, December 2020 and August 2020 posts [src_campstephens_alumni_blog] — the same alumni source cited in `c_029` for the Nelson McEwen founding claim. See [f_4744], [f_4745], [f_4746].
