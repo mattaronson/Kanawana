@@ -1,7 +1,7 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 36*
-*Last Updated: 2026-09-06*
+*Status: E1-reviewed | Sources: 37*
+*Last Updated: 2026-09-06 (a last-day ritual the camp never printed, from an American family's memoir of the late 1920s)*
 
 ## Overview
 
@@ -66,6 +66,10 @@ Documented ceremonies from the archives include:^10 ^11
 - **Dam release**: The dam was opened at the end of the 1935 season as a ceremonial close.^5 By the mid-1980s, this ceremony was no longer practiced.^21
 
 End-of-season traditions included all-season camper banquets (1938 and 1939), Best Camper Shields, and time capsule burials.^5 ^11
+
+**And one the camp itself never printed.** Everything above comes from Kanawana's own paper — programmes, newsletters, catalogue titles, a thesis working from the fonds. A book about something else entirely gives a ceremony none of them mentions. Jan Elvin's *The Box from Braunau: In Search of My Father's War* (2009), describing her father's Quebec boyhood, says that at the end of a session "**early in the morning, all the campers observed the camp ritual of jumping into the cool lake bare naked**."^37 Her father and his brother went "every summer" after the family moved to Drummondville in 1926, so this is the Harold Cross years.
+
+It is worth being plain about why this is not in the camp's own record. A camp writing to parents prints the 6.30 morning dip with its physical exercises, which this project has from the camp's own early literature, and does not print the naked one on the last morning. That is not concealment; it is what a brochure is for. The consequence for anyone using this wiki is that **the absence of a tradition from the camp's publications is not evidence that it did not exist**, and the way to find the rest of them is books by people who were not writing for the camp.
 
 ## The Camper's Oath
 
@@ -240,4 +244,4 @@ The order overlaps in membership with [[traditions/order-of-owens|the Order of O
 34. *The Gas Bag*, "Extra, Vol. 13 No. 1" (1923), Kamp Kanawana official paper (Internet Archive, Concordia-digitized fonds) [src_ia_ymca_montreal_fonds_collection].
 35. *The Green Triangle*, issues of 2 June 1938 and 21 July 1940 [src_ia_green_triangle_collection]. Full-text read of the verified 38-issue corpus, 2026-08-25. See [f_2281].
 36. The 1923 *Gas-Bag Extra*, page 1, **read from the page image** on 2026-09-06 [src_ymf_the_gas_bag_extra_vol_13_no_1]; and the YMCA of Montreal annual reports 1913–1924 for the Williams disambiguation [src_ia_ymca_montreal_annual_reports_collection]. See [f_4925], [f_4926].
-
+37. Jan Elvin, *The Box from Braunau: In Search of My Father's War* (New York: AMACOM, 2009), Internet Archive scan leaf 296 [src_elvin_box_from_braunau_2009]. **One passage only**, reconstructed 2026-09-06 from thirty-eight overlapping Open Library search-inside queries and walked to a subject boundary in both directions; the book is lending-restricted, page images return HTTP 403, and it has not been read. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-two-family-memoirs-elvin-and-torge.txt`. See [f_4952].

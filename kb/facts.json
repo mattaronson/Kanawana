@@ -1,8 +1,8 @@
 {
-  "version": "6.89",
-  "kb_version": "6.89",
+  "version": "6.90",
+  "kb_version": "6.90",
   "migrated_from": "3.3",
-  "fact_count": 4913,
+  "fact_count": 4915,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88258,6 +88258,45 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.89",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4952",
+      "category": "traditions",
+      "date_ref": "c.1927-1935",
+      "entities": [
+        "Kamp Kanawana",
+        "William John Elvin",
+        "Drummondville",
+        "Lake Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "A LAST-DAY NAKED SWIM CALLED 'THE CAMP RITUAL', FROM A FAMILY MEMOIR OF THE LATE 1920s. Jan Elvin's The Box from Braunau: In Search of My Father's War (AMACOM, 2009), writing about her father William John Elvin's Quebec boyhood: \"Every summer, Dad and Georgie went off to Kamp Kanawana, a YMCA camp located on a remote lake in the Laurentians north of Montreal -- one of what seemed to my father to be an endless series of thousands. The first time Georgie went, he was supposed to spend a week there but got so homesick he wouldn't stay. Dad stayed two weeks, improving his swimming to the point where he finally made it across the lake. ON THE LAST DAY OF CAMP, EARLY IN THE MORNING, ALL THE CAMPERS OBSERVED THE CAMP RITUAL OF JUMPING INTO THE COOL LAKE BARE NAKED.\" FOUR THINGS. (1) THE RITUAL IS NEW HERE. This project holds a morning dip from the camp's own early literature -- reveille at 6.30 by bugle, physical exercises, then the dip -- but not a last-day, whole-camp, undressed one, and not the word 'ritual' attached to it. The camp's own publications had every reason to print the 6.30 dip and none to print this, which is why an outside memoir is worth reading. (2) A DATE BRACKET: the same page says \"In 1926, when Dad was eight and the family had spent two years in Maryland, Jim announced that the company was dispatching him to Quebec to help purchase and install the machinery for a new plant in Drummondville on the Saint-Francois River\" -- so 'every summer' begins in or after 1927, in the Harold Cross era. (3) A CATCHMENT FACT: an AMERICAN family, posted to DRUMMONDVILLE for industrial work, sending two boys to the Montreal YMCA's camp a hundred kilometres away every summer. Drummondville is not Montreal and the Elvins were not Montrealers; whatever channel carried them there -- the company, the local Y, an English-speaking congregation -- is not in the passage and is a question this project had not thought to ask. (4) A CAMPER'S OWN MEASURE: swimming across the lake, in a fortnight, at eight or nine. CAVEAT: lending-restricted and not read; the passage was reconstructed from thirty-eight overlapping Open Library search-inside queries and walked to a subject boundary in both directions. No year is given for any particular summer, and no section, tent or counsellor is named.",
+      "sources": [
+        "src_elvin_box_from_braunau_2009"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.90",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4953",
+      "category": "people",
+      "date_ref": "1986-2004",
+      "entities": [
+        "Sam Lazarus",
+        "Janet Torge",
+        "Kamp Kanawana",
+        "CIT"
+      ],
+      "claim": "SAM LAZARUS'S CAMP YEARS, FROM HIS MOTHER'S PUBLISHED BOOK -- WHICH THIS PROJECT HAD CITED FOR A YEAR WITHOUT READING. Janet Torge, Dear Sam: Grieving the Death of My Son (iUniverse, 2007), scan leaf 150: \"His employment options in Montreal were severely limited by his poor grasp of French. To escape the decision about what to do next, he applied for a position as a counselor-in-training at Kamp Kanawana, THE PLACE HE HAD SPENT PRACTICALLY EVERY SUMMER SINCE HE WAS EIGHT, and was accepted. That summer was terrific. Sam was considered a good counselor with the kids, especially the younger ones, WHO CALLED HIM 'DADDY' and ran to him whenever a bout of homesickness came over them. He was able to share with them a child's enthusiasm for the outdoors while using a firm, older hand to keep them in line.\" Three further windows: he \"quickly went off to spend another summer as a camp counselor at Kamp Kanawana\"; he meant \"to spend the summer again as a counselor at Kamp Kanawana, but he continued making arrangements to leave\" (for Ghana); and, of the funeral in January 2004, \"COUNSELORS AND KIDS FROM KAMP KANAWANA ARE EVERYWHERE, MANY AT THEIR FIRST FUNERAL. I can see the shock on their young [faces]\". WHAT IT SETTLES: he was a camper FROM THE SUMMER OF 1986, being born 3 March 1978, which answers the start of the open question in sam-lazarus.md about his years. WHAT IT COMPLICATES: the CIT application came AFTER HE LEFT SCHOOL, not at the usual CIT age of sixteen, and NO YEAR IS GIVEN -- so it should not be converted into a year by arithmetic. A DATING LEAD, NOT AN IDENTIFICATION: the camp's 2003 Junior Boys counsellors plaque carries a 'Sam L' and a 'Sam W', two Sams distinguished by initial, and 2003 would have been his last summer on the account above. Consistent, and not proof; one initial is not a name, and this is deliberately not folded into the plaque index. ON HOW THIS WAS READ: the book is a mother's letters to a dead son, published in print under her name with his in the title. The walk was stopped at the camp material and the sentences that place it and not extended into the surrounding chapters. Everything found is recorded and nothing was withheld; no embargo applies, this being a published memoir about a person this wiki already documents rather than a confidential assessment of a private individual.",
+      "sources": [
+        "src_torge_dear_sam_2007"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.90",
       "added_by": "ralph_loop"
     }
   ]

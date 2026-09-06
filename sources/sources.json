@@ -29323,7 +29323,43 @@
       "read_state": "snippet",
       "read_state_basis": "NINE VOLUMES, ALL LENDING-RESTRICTED, NONE READ. One entry was walked in each, 2026-09-06, from the D-U-N-S number that opens it to the one that opens the next, using overlapping Open Library search-inside queries. Page images return HTTP 403, so the column alignment of the officer titles could not be checked against the page.",
       "notes": "Four volumes (1994, 1997, 1999, 2000) name Kamp Kanawana as a division of the Y M C A de Montreal at 1441 rue Drummond; five more (1993, 1995, 1998, 2001 and one undated) carry the same association entry without the division line. THE EMPLOYMENT AND SALES FIGURES ARE THE ASSOCIATION'S, NOT THE CAMP'S: D-U-N-S 20-765-0813 resolves, across 24 hits in older volumes, to YOUNG MENS CHRISTIAN ASSOC MTL at the same address, so the camp had no number of its own. See f_4951."
+    },
+    {
+      "source_id": "src_elvin_box_from_braunau_2009",
+      "type": "oral_history",
+      "title": "Jan Elvin, The Box from Braunau: In Search of My Father's War (AMACOM, 2009) — the Kamp Kanawana passage",
+      "date": "2009",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/boxfrombraunauin0000elvi",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-two-family-memoirs-elvin-and-torge.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.90",
+      "reliability": "secondary",
+      "read_state": "snippet",
+      "read_state_basis": "LENDING-RESTRICTED; NOT READ. One passage on scan leaf 296 (the index gives 'Kamp Kanawana, 24') reconstructed 2026-09-06 from thirty-eight overlapping Open Library search-inside queries and walked to a subject boundary in both directions. Page images return HTTP 403.",
+      "notes": "A daughter's book about her father's Second World War service; the camp appears in the boyhood chapter. William John Elvin and his brother 'Georgie', an American family posted to Drummondville in 1926, went to Kamp Kanawana every summer thereafter. Gives a LAST-DAY, WHOLE-CAMP, UNDRESSED MORNING DIP described as 'the camp ritual', which this project has from nowhere else, and a swim across the lake as a boy's measure of the fortnight. See f_4952."
+    },
+    {
+      "source_id": "src_torge_dear_sam_2007",
+      "type": "oral_history",
+      "title": "Janet Torge, Dear Sam: Grieving the Death of My Son (iUniverse, 2007) — the Kamp Kanawana passages",
+      "date": "2007-05-27",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/dearsamgrievingd0000jane",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-two-family-memoirs-elvin-and-torge.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.90",
+      "reliability": "primary",
+      "read_state": "snippet",
+      "read_state_basis": "LENDING-RESTRICTED; NOT READ. Four windows on scan leaf 150, reconstructed 2026-09-06 from twenty-five overlapping Open Library search-inside queries. THE WALK WAS DELIBERATELY STOPPED at the camp material and the sentences that place it, and was not extended into the surrounding chapters: this is a mother's book of letters to a son who died, and reading a published book is not the same as mining it. Everything found is recorded; nothing was withheld. Page images return HTTP 403.",
+      "notes": "The book this project has cited since March 2026 from listings alone (f_1135) has now been read where it touches the camp. Sam Lazarus was a camper 'practically every summer since he was eight' -- from summer 1986, on his 3 March 1978 birth -- applied for a CIT position AFTER leaving school rather than at the usual CIT age, was remembered as good with the youngest campers, who called him 'Daddy', and meant to return as a counsellor the summer he instead left for Ghana. Torge's own sentence on the funeral: 'Counselors and kids from Kamp Kanawana are everywhere, many at their first funeral.' See f_4953."
     }
   ],
-  "source_count": 1629
+  "source_count": 1631
 }

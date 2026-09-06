@@ -2967,7 +2967,8 @@
         "src_oral_aronson",
         "src_photo_knights_charter_challenges",
         "src_ymf_the_gas_bag_extra_vol_13_no_1",
-        "src_ia_ymca_montreal_annual_reports_collection"
+        "src_ia_ymca_montreal_annual_reports_collection",
+        "src_elvin_box_from_braunau_2009"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -2986,7 +2987,7 @@
         "traditions/knights-of-kanawana"
       ],
       "file_id": null,
-      "word_count": 5540,
+      "word_count": 5836,
       "notes": "E1 REVIEW (2026-02-19): Fixed non-existent src_concordia_12B04 in header (removed; src_concordia_atom_12B04 already present). Fixed '131-year history' ambiguity to 'more than 130 years'. All claims cited, dates consistent, names cross-checked, tone encyclopedic. | 2026-08-14: cross-linked to the new traditions/order-of-owens.md. | 2026-08-14: NEW prose section on the Order of the Knights of Kanawana, giving the proclamation text and the six challenges for knighthood (previously the KB held the oath and the 1980-2009 roll but not the criteria). NOTE: this article is E1-reviewed and has received substantive new content; warrants a re-REVIEW pass. | 2026-08-14 (2nd pass): charter mined further -- A/B/C skill-grading system across named activities (f_2004), 'Kamp' spelling in challenge 5 corroborating the pre-2005 usage (f_2005), and the birchbark medium/composition (f_2006).",
       "tags": {
         "era": [
@@ -8118,15 +8119,16 @@
         "src_cbc_sam_jam_2015",
         "src_legacy_lazarus_obituary_2004",
         "src_myjewishlearning_lazarus",
-        "src_zeffy_lazarus_fund"
+        "src_zeffy_lazarus_fund",
+        "src_torge_dear_sam_2007"
       ],
-      "open_questions": 2,
+      "open_questions": 3,
       "cross_links": [
         "notable-alumni",
         "pip-alumni-award"
       ],
       "file_id": null,
-      "word_count": 1080,
+      "word_count": 1752,
       "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. No new research conducted. Noted but did not fix a pre-existing fact-to-source mis-citation (f_0611 cites src_newspapers_gazette_1913, an unrelated 1913 article) -- flagged as a KB cleanup item rather than guessed at.",
       "tags": {
         "era": [

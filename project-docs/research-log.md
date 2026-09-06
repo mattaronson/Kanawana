@@ -4832,3 +4832,61 @@ was compiled deliberately and carefully, by someone who had just learned that `"
 returns eight items where `"Kanawana"` returns seventy-six — and it still missed two, because
 `"Kamp Kanawana"` is a third string and nobody ran it against the full list. The camp has spelled its
 own name two ways for a century. Run both.
+
+---
+
+## Phase 2 campaign — two family memoirs, and the tradition the camp never printed (2026-09-06)
+
+**Topic.** p_430's group 6, listed there as "three possible memoirs, unexamined" and ranked last on
+the worklist. Two of the three turned out to carry the sort of material the camp's own archive
+structurally cannot.
+
+**Surfaces.** Open Library search-inside (63 queries across the two books) · Internet Archive
+metadata · the project's own plaque index and KB.
+
+**Jan Elvin, *The Box from Braunau* (2009).** A book about her father's Second World War service.
+The camp is in the boyhood chapter, and the sentence that matters is: at the end of a session,
+"early in the morning, all the campers observed **the camp ritual of jumping into the cool lake bare
+naked**." This project holds a morning dip from Kanawana's own early literature — bugle at 6.30,
+physical exercises, then the dip — and has never seen this one.
+
+The reason is not concealment and is worth stating as a research principle rather than a curiosity.
+**A camp writing to parents prints the 6.30 dip and does not print the naked one on the last
+morning.** Kanawana's surviving record is overwhelmingly its own promotional and administrative
+paper: brochures, newsletters, directors' reports, annual reports. All of it was written for
+somebody. So *the absence of a tradition from the camp's publications is not evidence that the
+tradition did not exist*, and the place to find the missing ones is books by people who were not
+writing for the camp — memoirs, family histories, obituaries, novels.
+
+The same page also gives a catchment fact nobody here had thought to ask about: the Elvins were an
+**American** family posted to **Drummondville** in 1926 for industrial work, and they sent two boys a
+hundred kilometres to the **Montreal** YMCA's camp every summer. Drummondville is not Montreal and
+the Elvins were not Montrealers. Whatever carried them there — the company, a local Y, an
+English-speaking congregation — is not in the passage. **f_4952.**
+
+**Janet Torge, *Dear Sam* (2007).** This one is a reproach. The book has been in `sources.json`
+since 24 March 2026 and cited in `sam-lazarus.md` — as a title, from a bookseller's listing, for the
+fact that it exists. Nobody read it. It answers that article's own Open Question 1: Sam Lazarus was
+a camper "practically every summer since he was eight", so from the summer of 1986. It also
+complicates the staff years rather than settling them — the CIT application came *after* he left
+school, "to escape the decision about what to do next", and **no year is given**, so the obvious
+arithmetic from his birth date would have produced a wrong answer confidently. **f_4953.**
+
+A lead came out of pairing it with this project's own data: the 2003 Junior Boys counsellors plaque
+carries a "Sam L" and a "Sam W" — two Sams distinguished by initial — and 2003 would have been his
+last summer. It fits. It is one initial. It is recorded as a lead, hedged in the article, and
+deliberately not folded into the plaque index, because a plaque index that absorbs plausible guesses
+stops being a record of what the boards say.
+
+**On how the second book was read.** *Dear Sam* is a mother's letters to a son who died at
+twenty-five. It is published, in print, under her name, with his in the title, and this project
+disclosed nothing she did not. But there is a difference between reading a published book and mining
+a grieving parent's sentences for data, and the difference is how far you walk. The walk stopped at
+the camp material and the sentences that place it. Everything found is recorded and nothing was
+withheld — the 2026-09-03 amendment is explicit that a hole in the record looks exactly like an
+absence of evidence, and the way to be careful is to bound the collection, not to censor the file.
+
+**The lesson.** *A source in `sources.json` is not a source that has been read.* `read_state` exists
+for exactly this and the record was honest — "derived:cited-by-fact" is what it said — but a listing
+sat in the citation slot of a live article for five months while the book itself, freely searchable,
+answered a question the same article was asking three screens further down.
