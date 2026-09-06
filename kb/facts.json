@@ -1,8 +1,8 @@
 {
-  "version": "7.56",
-  "kb_version": "7.56",
+  "version": "7.57",
+  "kb_version": "7.57",
   "migrated_from": "3.3",
-  "fact_count": 5028,
+  "fact_count": 5030,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -90655,6 +90655,40 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.56",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5067",
+      "category": "programs",
+      "date_ref": "1926",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE CAMP'S EVENINGS AND ITS RELIGION, 1926, AND THE FIRST NAMED APPEARANCE OF THE 'KANAWANA SPIRIT'. The annual report for the year ending 31 March 1927 -- the summer of 1926 -- describes what filled 'evenings, rainy days and open periods': 'weekly entertainments, COUNCIL RING, popcorn and marshmallow roasts, camp fires, ping-pong, checkers, QUOITS, story telling, MOCK TRIALS, treasure hunts, games of ATTACKERS AND DEFENDERS, INDIANS AND SETTLERS. THE ELECTIONS ALWAYS PROVED A REAL ENTERTAINMENT, WITH THE \"KING,\" ELECTION SPEECHES, ETC.' A camp election with a King and campaign speeches is a tradition this project has not recorded. AND THE PHRASE ITSELF: 'A sincere attempt was made to continue and intensify the \"KANAWANA SPIRIT\" OF OTHER YEARS, THE SOMETHING WHICH ACTUALLY DECIDED THE DEGREE OF SUCCESS OF OUR CAMP SEASON. The majority of the campers gradually absorb this intangible camp spirit and are helped by it. Some need encouragement and handling of a disciplinary nature; VERY FEW GIVE ANY REAL TROUBLE.' The camp was already speaking of its spirit as an inheritance from 'other years' in 1926, and treating it as the operative variable in a season's success. THE RELIGIOUS PRACTICE IS SET OUT IN DETAIL, which the project has largely had to infer: morning chapel every morning around the flag pole; an evening quiet hour in the tents 'following this season A SERIES OF DEVOTIONAL TOPICS ISSUED BY THE NEW YORK STATE Y.M.C.A. FOR CAMP USE'; Bible study weekly as part of regular instruction; church service in the outdoor chapel on all but two Sunday mornings, when weather drove it into the lower pavilion; and SONG SERVICES EVERY SUNDAY EVENING 'either around the camp fire OR ON THE LAKE WITH THE BOATS AND CANOES GROUPED FOR THE SING'. THE MONEY WENT OUT OF THE COUNTRY: 'the Sunday collections, amounting to $73.00, as compared with $57.00 the previous year, were given to the BOYS OF INDIA FUND.' And officials of the POCKET TESTAMENT LEAGUE visited, 'a large number of boys pledged themselves to read daily, and were donated Testaments.' Visitors including many parents were 'without exception... cordial in their appreciation of both equipment and administration.'",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1927"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.57",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5068",
+      "category": "history",
+      "date_ref": "1926",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE CAMP COUNTED THE NATIONALITIES OF ITS 1926 CAMPERS AND CALLED IT A STEP IN INTER-RACIAL RELATIONS. The annual report for the year ending 31 March 1927, immediately after describing the Sunday collections sent to the Boys of India Fund, says: 'WE FEEL THAT A REAL STEP WAS TAKEN IN THE LONG PROCESS OF BUILDING UP IN OUR BOYS NEW ATTITUDES IN THE IMPORTANT MATTER OF INTER-RACIAL RELATIONSHIPS. It is interesting to note that we had in our camp this season the following nationalities:-- FRENCH, AMERICAN, GERMAN, DUTCH, NEGRO, GREEK, ITALIAN, SYRIAN, BESIDES OUR BRITISH BOYS. It is significant that lads of these varying nationalities can live together so satisfactorily, appreciating the good in each.' THIS IS THE EARLIEST STATEMENT THIS PROJECT HOLDS ABOUT WHO WAS AT THE CAMP BEYOND ITS ANGLO-PROTESTANT CORE, and it is worth setting down exactly as written, in 1926's terms, rather than paraphrased. THE PHRASING IS THE EVIDENCE. 'Nationalities' does the work of several categories at once: French and Greek and Syrian are origins, 'Negro' is not a nationality at all, and 'BESIDES OUR BRITISH BOYS' marks the default against which the rest are counted. The achievement claimed is that the boys 'can live together so satisfactorily' -- a low bar stated as a real step, which is what it was for a Protestant boys' camp in Montreal in 1926, eleven years before the Duplessis era and in a city organised along confessional and linguistic lines. WHAT IT DOES NOT SAY: how many boys of any group, whether any were campers on scholarship (the Fossils Club places were 'chosen through the Branches', f_5066), whether the categories were self-reported or assigned, or whether the same counting was done in other years. THE PASSAGE IS NOT EMBARGOED. It describes groups, not identifiable individuals, and the embargo machinery in this project covers personal assessments of private persons. Recording a period document's own language, marked as such, is different from repeating it.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1927"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.57",
       "added_by": "ralph_loop"
     }
   ]

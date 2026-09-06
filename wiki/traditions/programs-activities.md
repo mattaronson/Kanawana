@@ -23,6 +23,53 @@ The 1923 Gas Bag, the camp's first known in-house publication, provides a camper
 
 The Camp Leaders' Training Class, documented in the Concordia archives with evaluations and charting from 1922-1927 and 1930, represents an early formalization of the idea that camp should produce leaders, not just entertain children. This training infrastructure would later evolve into the CIT programme.
 
+### 1926: evenings, elections, and the "Kanawana spirit"
+
+The previous year's report describes what filled "evenings, rainy days and open periods": weekly
+entertainments, the **council ring**, popcorn and marshmallow roasts, camp fires, ping-pong,
+checkers, **quoits**, story telling, **mock trials**, treasure hunts, and "games of attackers and
+defenders, Indians and settlers." And one tradition this article has not carried: "**The elections
+always proved a real entertainment, with the 'King,' election speeches, etc.**"^ar27
+
+The report also names the thing the camp thought it was really running on: "A sincere attempt was
+made to continue and intensify the **'Kanawana spirit' of other years, the something which actually
+decided the degree of success of our Camp season**. The majority of the campers gradually absorb
+this intangible camp spirit and are helped by it. Some need encouragement and handling of a
+disciplinary nature; very few give any real trouble."^ar27 In 1926 the spirit was already being
+described as an inheritance.
+
+**The religious practice is set out in full**, where this wiki has mostly had to infer it: chapel
+every morning around the flag pole; an evening quiet hour in the tents following "a series of
+devotional topics issued by the New York State Y.M.C.A. for camp use"; Bible study weekly as part
+of regular instruction; church in the outdoor chapel on every Sunday morning but two, when weather
+drove it into the lower pavilion; and song services every Sunday evening "either around the camp
+fire **or on the lake with the boats and canoes grouped for the sing**."^ar27 The Sunday
+collections — $73.00, against $57.00 the previous year — went to the **Boys of India Fund**, and
+officials of the **Pocket Testament League** visited, after which "a large number of boys pledged
+themselves to read daily, and were donated Testaments."
+
+### Who was at camp in 1926, in the report's own words
+
+Immediately after the Boys of India collection, the same report says this:
+
+> "We feel that a real step was taken in the long process of building up in our boys new attitudes
+> in the important matter of **inter-racial relationships**. It is interesting to note that we had
+> in our camp this season the following nationalities:— **French, American, German, Dutch, Negro,
+> Greek, Italian, Syrian, besides our British boys**. It is significant that lads of these varying
+> nationalities can live together so satisfactorily, appreciating the good in each."^ar27
+
+It is quoted exactly because the phrasing is the evidence. "Nationalities" is doing the work of
+several categories at once — French and Greek and Syrian are origins, "Negro" is not a nationality
+at all, and *besides our British boys* marks the default against which everyone else is counted.
+The achievement claimed is that the boys "can live together so satisfactorily," which is a low bar
+described as a real step, and for a Protestant boys' camp in a Montreal organised along confessional
+and linguistic lines it plausibly was one.
+
+What the passage does not give: how many boys of any group, whether any came on the Fossils Club
+scholarships, whether the categories were self-reported or assigned, or whether the count was made
+in any other year. It is the earliest statement this project holds about who was at Kanawana beyond
+its Anglo-Protestant core.
+
 ### 1927: fifteen subjects, and a shift away from "city" games
 
 The association's annual report for the year ending 31 March 1928 describes the **summer of 1927**
@@ -277,6 +324,7 @@ environmental-education positioning without originating from it.
 8. What was the Pathfinder program Summer Summary (1965 archives listing)? Was it the existing boys' section (est. 1959) or something new?
 
 ## Sources
+- **ar27** — YMCA of Montreal, 76th Annual Report, for the year ending 31 March 1927 [src_ymf_sgw_ymca_annual_report_1927]. Its camping season is the summer of **1926**. Read for its Kanawana season narrative 2026-09-06 under p_441; the rest is not read. See [f_5067] and [f_5068].
 - **ar28** — YMCA of Montreal, 77th Annual Report, for the year ending 31 March 1928 [src_ymf_sgw_ymca_annual_report_1928]. Its camping season is the summer of **1927** (see [f_5039] on the reports' 31 March year-end). Read for its Boys' Work and Kanawana sections 2026-09-06 under p_441; the rest of a 105,000-character report is not read. See [f_5064].
 - CFCF radio broadcast script, 1936, "Kamp Kanawana Broadcast — Station CFCF" [src_ymf_1936_kamp_kanawana_broadcast_station_cfcf], Concordia-digitized YMCA of Montreal fonds. Marked `cfcf36` above. **The earliest of the CFCF series and the only one surviving as text**; it had been in this repo's cache labelled *skimmed*, cited by no article, and was read on 2026-09-06 under p_441. See [f_5003].
 
