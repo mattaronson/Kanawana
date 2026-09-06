@@ -1,8 +1,8 @@
 {
-  "version": "8.48",
-  "kb_version": "8.48",
+  "version": "8.49",
+  "kb_version": "8.49",
   "migrated_from": "3.3",
-  "fact_count": 5166,
+  "fact_count": 5167,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93128,6 +93128,25 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.48",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5205",
+      "category": "people",
+      "date_ref": "1891",
+      "entities": [
+        "T. Duncan Patton",
+        "James Naismith",
+        "Camp Kanawana"
+      ],
+      "claim": "PATTON'S PLACE IN THE FIRST BASKETBALL GAME IS NOW CORROBORATED FROM PRINT, AND THE BEST SOURCE ON HIM IS NAMED AND UNREAD. people/t-duncan-patton.md rests its basketball claim on three sources, all of them online: a Wikipedia roster, a Library and Archives Canada blog post and an Omeka exhibit. TWO PUBLISHED BOOKS SAY THE SAME THING. Terry Dunnahoo's *Basketball Hall of Fame* (Crestwood House, 1994), in a photograph caption of the first-game players: '... Libby, Edwin Ruggles, William Chase and T. DUNCAN PATTON. Center row, from left: Frank Mahan ...'. And a second book, *Hoosier Hysteria*, carries the same caption in a fuller form and again in a list: 'Finlay G. MacDonald, Frank Mahan, T. DUNCAN PATTON, Dr. Edwin P. Ruggles, John G. Thompson'. Neither adds anything the article does not have; what they add is that the claim no longer rests only on web sources. THE LEAD IS THE OTHER BOOK AND IT IS THE POINT OF THIS FACT. Rob Rains's *James Naismith: The Man Who Invented Basketball* (Temple University Press, 2009) INDEXES T. DUNCAN PATTON ON FIVE PAGES -- 28, 35, 45, 60 AND 192. That is not a roster listing; it is a man appearing five times across a scholarly biography, and it is very probably the fullest treatment of Patton anywhere outside this project. NONE OF THOSE PASSAGES WAS RECOVERED: the book is lending-restricted, and phrase queries on 'Duncan Patton', 'T. Duncan Patton' and 'Patton and Libby' return the index entry alone, which means the running text uses the surname by itself and the search-inside window-walking method cannot get at it. RECORDED AS A NAMED, UNREAD SOURCE rather than as a dead end -- a library copy or an interlibrary loan would settle it in an afternoon. HOW IT WAS FOUND, which is the transferable part: the INDEX FORM of the name, 'Patton, T. Duncan', returns nine items where the running form returns 107. The same inversion found Owens's day job (f_5204). Directories, indexes and back-of-book indexes all invert.",
+      "sources": [
+        "src_dunnahoo_basketball_hall_of_fame_1994",
+        "src_rains_naismith_2009"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.49",
       "added_by": "manual"
     }
   ]

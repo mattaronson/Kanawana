@@ -30187,7 +30187,43 @@
       "notes": "The standard periodical index for art and architecture. LENDING-RESTRICTED AND NOT READ: one author heading, 'OWENS, Owen N. H. Incorporating a parking garage in the office building. Arch Forum 52:897-902'. It is the only source found that spells the leading given name. See f_5204.",
       "read_state": "snippet",
       "read_state_basis": "snippet:one-author-heading-book-lending-restricted-and-not-read"
+    },
+    {
+      "source_id": "src_rains_naismith_2009",
+      "type": "web",
+      "title": "Rob Rains (with Hellen Carpenter), James Naismith: The Man Who Invented Basketball (Philadelphia: Temple University Press, 2009)",
+      "date": "2009",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/jamesnaismithman0000rain",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "secondary",
+      "notes": "Found 2026-09-06 under p_430 by the index-form query 'Patton, T. Duncan'. ITS INDEX PUTS T. DUNCAN PATTON ON FIVE PAGES -- 28, 35, 45, 60 and 192 -- and none of those passages has been recovered: the book is lending-restricted, and phrase queries on 'Duncan Patton', 'T. Duncan Patton' and 'Patton and Libby' return the index entry only, so the running text evidently uses the surname alone. NOT READ, NOT EXTRACTED. This is the fullest treatment of Patton outside this project and it is a named lead, not a source used. See f_5205.",
+      "read_state": "unread",
+      "read_state_basis": "unread:index-entry-only-book-lending-restricted-running-text-not-recovered"
+    },
+    {
+      "source_id": "src_dunnahoo_basketball_hall_of_fame_1994",
+      "type": "web",
+      "title": "Terry Dunnahoo, Basketball Hall of Fame (Crestwood House / Maxwell Macmillan, 1994)",
+      "date": "1994",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/basketballhallof00dunn",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-owens-day-job.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v8.49",
+      "reliability": "secondary",
+      "notes": "One photograph caption naming the first-game players, including 'T. Duncan Patton'. LENDING-RESTRICTED AND NOT READ. See f_5205.",
+      "read_state": "snippet",
+      "read_state_basis": "snippet:one-photograph-caption-book-lending-restricted-and-not-read"
     }
   ],
-  "source_count": 1677
+  "source_count": 1679
 }

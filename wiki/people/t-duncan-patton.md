@@ -1,6 +1,6 @@
 # Thomas Duncan Patton (1865–1944)
 
-*Status: draft | Sources: 17*
+*Status: draft | Sources: 18*
 *Last Updated: 2026-09-06 (the 1922 roster has him as Assistant Territorial Secretary)*
 
 ## Overview
@@ -19,7 +19,9 @@ the single richest first-person account of Kanawana's origins in this project's 
 And he was **one of the two captains in the first game of basketball ever played**, on 21 December
 1891 at the International YMCA Training School in Springfield, under James Naismith. That is not a
 family legend or a claim resting on his own memoir: he is named in the documented roster of the
-eighteen original players, and two independent sources identify him as a captain.^6 ^7 ^8
+eighteen original players, and two independent sources identify him as a captain.^6 ^7 ^8 **Two published books carry it as well** — a photograph caption of the first-game players in Terry Dunnahoo's *Basketball Hall of Fame* (1994) reads "…Libby, Edwin Ruggles, William Chase and **T. Duncan Patton**" — so the claim no longer rests only on web sources.^18
+
+**And the fullest account of him anywhere is named, unread, and probably obtainable.** Rob Rains's *James Naismith: The Man Who Invented Basketball* (Temple University Press, 2009) **indexes T. Duncan Patton on five pages — 28, 35, 45, 60 and 192**. That is not a roster listing but a man appearing five times across a scholarly biography, very likely the fullest treatment of Patton outside this article. None of those passages has been recovered: the book is lending-restricted, and phrase queries return its index entry alone, which means the running text uses the surname by itself and the window-walking method cannot reach it. **A library copy would settle it in an afternoon.**^18
 
 ## The Identification
 
@@ -347,6 +349,7 @@ neither is obviously wrong.
 15. YMCA of Montreal, **Annual Report 1890-91**, presented 28 May 1891 [src_ymf_sgw_ymca_annual_report_1990_1991] — cached under a filename misnumbered by a century; see [f_4901]. The Volunteer Camp work under Mr. Patton, and his resignation to enter the Springfield School. Read 2026-09-06 (p_253). See [f_4902].
 16. YMCA of Montreal, **41st Annual Report, 1891-92** (published 19 May 1892) [src_cache_sgw_ymca_annual_report_1991_1992] — the staff list and "Committees of the Board, 1892-93". Also cached under a filename misnumbered by a century; see [f_4901]. Read 2026-09-06 (p_253). See [f_4904], [f_4905].
 17. YMCA of Montreal, **Annual Report 1893-94**, section "MILITARY CAMP" [src_ia_ymca_montreal_annual_reports_collection]. Read 2026-09-06. The Laprairie tent under Patton's charge in June 1893, and the work running "for many years". See [f_4906] for the Laprairie tent under Patton in June 1893; and [f_1537] for the same militia-not-summer-camping pattern in the 1901 Historical Sketch.
+18. Terry Dunnahoo, *Basketball Hall of Fame* (Crestwood House, 1994) [src_dunnahoo_basketball_hall_of_fame_1994], a photograph caption of the first-game players; and Rob Rains, *James Naismith: The Man Who Invented Basketball* (Temple University Press, 2009) [src_rains_naismith_2009], **cited here for its index alone** — the book is lending-restricted, none of its five Patton pages has been recovered, and it is a named lead rather than a source used. Found 2026-09-06 under p_430 by the index-form query "Patton, T. Duncan". See [f_5205].
 
 ## Research Notes
 

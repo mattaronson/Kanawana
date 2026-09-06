@@ -10588,7 +10588,8 @@
         "f_4904",
         "f_4905",
         "f_4906",
-        "f_4907"
+        "f_4907",
+        "f_5205"
       ],
       "sources_cited": [
         "src_camp_stephens_alumni_blog",
@@ -10608,7 +10609,9 @@
         "src_donneesquebec_bnlq_2026",
         "src_ymf_sgw_ymca_annual_report_1990_1991",
         "src_cache_sgw_ymca_annual_report_1991_1992",
-        "src_ymca_yearbook_1922"
+        "src_ymca_yearbook_1922",
+        "src_dunnahoo_basketball_hall_of_fame_1994",
+        "src_rains_naismith_2009"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -10619,7 +10622,7 @@
         "camp-otoreke"
       ],
       "file_id": null,
-      "word_count": 4645
+      "word_count": 4877
     },
     {
       "article_id": "multi-year-index",
