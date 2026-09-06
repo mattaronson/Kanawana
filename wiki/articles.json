@@ -904,11 +904,19 @@
       ],
       "sources_cited": [
         "src_concordia_12L",
+        "src_concordia_mirror_12c01",
+        "src_concordia_mirror_12d",
+        "src_concordia_mirror_12e",
+        "src_concordia_mirror_12i",
+        "src_concordia_mirror_12j",
+        "src_concordia_p0145_full_findingaid_pdf",
         "src_facebook_trans_inclusion",
+        "src_ia_canadian_camping_collection",
         "src_ia_kanawana_place_to_grow_1988",
         "src_ia_kanawana_report_1965",
         "src_ia_kanawana_report_1969",
-        "src_ia_kanawana_report_1970"
+        "src_ia_kanawana_report_1970",
+        "src_newspapers_gazette_1974"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -923,7 +931,7 @@
         "timeline-overview"
       ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
-      "word_count": 5179,
+      "word_count": 5470,
       "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_001 editorial-resolution narrative into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H2 into Research Notes. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -5412,7 +5420,7 @@
         "coeducation-gender"
       ],
       "file_id": null,
-      "word_count": 6275,
+      "word_count": 6401,
       "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header, moved the c_018 and c_002 editorial-resolution narratives out of prose into a new visible Revision History section, trimmed the header's dated parenthetical. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

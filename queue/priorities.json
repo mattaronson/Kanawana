@@ -4390,10 +4390,12 @@
       "type": "WRITE",
       "description": "ANSWER OPEN QUESTION 8 IN camp-oolahwan.md. That article records as a confirmed dead end -- \"Confirmed dead end across Trent, McCord, and LAC catalog descriptions -- no successor-director name found online\" -- the question of who directed Camp Oolahwan after Mary Edgar left in 1919. Faye Ecclestone's profile of the Canadian Camping Association's national president, Canadian Camping Vol. 19 No. 1 (December 1966), supplies a name: \"she went east to Montreal where she joined the staff of the Y.W.C.A. in that city. Her responsibilities included directing Camp Oolawahn and she also took the opportunity of completing her B.Sc. in Physical Education at McGill University.\" That is Mrs. Lorne E. (May) Brown, CCA president 1964-67 and later a Vancouver Parks Board figure. Internal dating from the same profile -- UBC teaching after graduation, marriage, children born about 1950 and 1955, an M.P.E. in 1961, Camp Deka founded about 1961 -- puts the Oolahwan directorship in the 1940s, most plausibly the later 1940s. WRITE IT UP WITH THE CAVEAT: the exact years still need a second source, and the LAC series that article already flags, \"Camp Oolahwan committee minutes, reports and training programmes, 1916-1974,\" should settle them. Note also that Camp Deka, Brown's own camp, is already recorded in voyageur-canoe-pageant.md as a Centenary Journey participant -- so the national president's camp paddled the journey Kanawana paddled.",
       "weight": 8,
-      "status": "pending",
+      "status": "complete",
       "created": "2026-09-05",
       "source": "word-for-word read of Canadian Camping, issues 72-74, converted to KB facts",
-      "blocked_on": null
+      "blocked_on": null,
+      "resolved": "2026-09-06",
+      "resolution": "ALREADY DONE, AND THE ARTICLE HAD OVERTAKEN IT. Camp Oolahwan's article named May Brown on 2026-09-04 and since then acquired two FIRST-HAND accounts that date her better than Ecclestone's undated 1966 profile could: her 1976 interview printed in 1982 (\"In 1945 I went back to Montreal... began to work for the YWCA at Camp Oolahwan as programme director and then as Director after a few summers\", leaving in the autumn of 1947) and her 1988 interview about her husband (\"I had directed Camp Oolawhan out of the Montreal YWCA\", the summer after her 1947 McGill degree). So the years are 1945-1947, not \"probably the 1940s\". What this pass actually fixed on 2026-09-06 is that TWO PLACES IN THE ARTICLE WERE LEFT BEHIND BY ITS OWN BODY: the paragraph built on Ecclestone still said the dating was inference that \"should be confirmed before being stated as fact\", and Open Question 8 still said her exact years were unfixed. Both now point to the first-hand accounts, and Open Question 8 also names Marjorie A. Booth as the second dated successor and states the two spans that are still blank, 1919-1945 and 1948-1979."
     },
     {
       "priority_id": "p_343",
@@ -4819,10 +4821,12 @@
       "type": "WRITE",
       "description": "RECORD LES VOYAGEURS DE LA VERENDRYE AS A SEPARATELY ACCREDITED CAMP IN canoe-trips.md AND THE VOYAGEUR MATERIAL. The January 1975 national directory lists it in its own right, not as a Kanawana programme: 'LES VOYAGEURS DE LA VERENDRYE (YMCA); Director Derek V. Walsh; c/o Kamp Kanawana, P.O. Box 310, St. Sauveur des Monts; Activities: Wilderness, Canoe Trips, Fishing, Campcraft; Accommodation: 15 boys 13-17 / 5 girls 13-17.' Two things follow that the wiki does not currently say. First, the Quebec Camping Association treated the trip programme as a distinct wilderness camp operating out of the Kanawana site, which means it was separately accredited and would have generated its own annual visitation report. Second, the project now has a number for its scale and its gender composition in 1975: twenty places, fifteen boys' and five girls', ages 13 to 17 -- the girls' places existed but were a quarter of the boys'. Kanawana's own entry in the same directory gives 90 boys and 90 girls aged 8-15 at exactly equal capacity, so the trip programme's imbalance is not explained by the main camp's.",
       "weight": 8,
-      "status": "pending",
+      "status": "complete",
       "created": "2026-09-05",
       "source": "word-for-word read of Canadian Camping, issues 103-105, converted to KB facts",
-      "blocked_on": null
+      "blocked_on": null,
+      "resolved": "2026-09-06",
+      "resolution": "PARTLY DONE ALREADY, AND THE MISSING HALF IS NOW WRITTEN. The separate accreditation of Les Voyageurs de la Verendrye was recorded on 2026-09-04 in canoe-trips.md and in between-centennials.md, both from the January 1975 QCA directory. The half nobody had written was the gender comparison, and it belonged in coeducation-gender.md, which had nothing from the directory at all: Kanawana 90 boys and 90 girls aged 8-15, exact parity six years after full integration, against Les Voyageurs 15 boys and 5 girls aged 13-17, three boys for every girl, under the same director in the same table. Written into coeducation-gender.md 2026-09-06 with the point that the main camp's even intake cannot explain the tripping programme's imbalance, and that whether five was a ceiling or a floor is not recorded. Both entries also appear in the directory's Grouped Index under 'Organizational Residential -- Co-ed'."
     },
     {
       "priority_id": "p_382",

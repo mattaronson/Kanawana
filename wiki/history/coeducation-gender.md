@@ -1,7 +1,7 @@
 # Coeducation and Gender at Kanawana
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-08-14*
+*Last Updated: 2026-09-06 (p_381: what co-ed meant in numbers in the 1975 directory)*
 
 ## Overview
 
@@ -90,6 +90,10 @@ The first female waterfront staff were hired in **1969**.^ia
 
 The Facts sheet records that in 1972, the first all-female Voyageur canoe trip departed. This is notable because the Voyageurs de la Verendrye programme, introduced in the 1950s, had been one of Kanawana's most demanding and symbolically masculine offerings. Extending it to all-female crews within three years of formal coeducation suggests the integration was substantive, not tokenistic.
 
+**What "co-ed" meant in numbers, 1975.** The Quebec Camping Association's directory of accredited member camps for January 1975 carries two entries under the same director, **Derek V. Walsh**, and they say different things about girls. Kanawana itself is filed under "Organizational Residential — Co-ed" at **90 boys and 90 girls, aged 8-15** — exact parity, six years after full integration. **Les Voyageurs de la Vérendrye**, accredited in its own right out of the same site, is **15 boys and 5 girls, aged 13-17**: five girls' places against fifteen boys'.^dir75
+
+The two figures sit badly together, and that is the point of putting them side by side. The imbalance in the tripping programme cannot be explained by the main camp's intake, because the main camp's intake was even. Three years after the first all-female Voyageur trip departed in 1972, the wilderness programme was still built to take three boys for every girl, while the camp feeding it took equal numbers of each. Whether the five places were a ceiling the programme set or a floor that demand set is not recorded anywhere this project holds, and the difference is the whole question: one is a policy and the other is who applied. The directory records the outcome, not the reason.
+
 The section structure that emerged from coeducation reassigned the 1959 section names along gender lines. By the early 1980s, Pathfinders and Pioneers served girls, while Coureurs des Bois and Woodsmen served boys — a structure that persists today. The camp also developed specialized programs: Voyageurs (all-gender canoe trips), Trailblazers (Leaders-in-Training, age 16), and Foresters (canoe trip leader specialization). The Mountaineer all-gender section (2022) represents a further evolution beyond the binary coeducation model.
 
 The Concordia archives show the camping administration continuing to evolve through the 1970s: "Camping and Outdoor Education Branch of Management minutes. - 1975-1978" replaced the earlier committee structures, and "Situation reports profiling Kamp Kanawana, Camp Otoreke and Camp Weredale" from 1980 suggest the three camps were being assessed as a portfolio.
@@ -174,6 +178,7 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 - [cm] Concordia University Archives static finding-aid mirror, YMCA of Montreal fonds P145 sub-series 12C01, 12D, 12E, 12I, 12J [src_concordia_mirror_12c01, src_concordia_mirror_12d, src_concordia_mirror_12e, src_concordia_mirror_12i, src_concordia_mirror_12j]. Fetched and extracted 2026-08-25 in the p_268 mirror walk. Finding aids: they establish that a file of a given title and date exists, not its contents. See [f_2258], [f_2264].
 - [lw] "Camping… The Last Word!" (the A.B. Thiessen exchange with editor Jay Haddad); the bilingual editorial "segregation… It Still Exists!!!"; and Sylvia Haynes, "Camping is Fun! And it is For Everyone!", *Canadian Camping* Vol. 36 No. 1 (Spring 1984), pp. 3, 8-9, 19 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 150).
 - [ty] "Personality Profile: W. E. (Ted) Yard (1919-1983)" — interview with Shirley Yard and Ted Yard Jr., *Canadian Camping Magazine* Vol. 38 No. 2 (Fall 1986), pp. 10-15 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 159). Movement context, not a Kanawana document.
+- [dir75] *Canadian Camping* Vol. 27 No. 2 (January 1975), the Canadian Camping Association Directory Issue — the Quebec Camping Association's "Accredited Member Camps" table and its "Grouped Index of Accredited Member Camps" [src_ia_canadian_camping_collection]. Kanawana (90 boys / 90 girls, 8-15) and Les Voyageurs de la Vérendrye (15 boys / 5 girls, 13-17) are listed separately under Derek V. Walsh, both under "Organizational Residential — Co-ed". Cached at `sources/cache/canadian-camping/canadiancampingmagazine_vol27_no2_1975january.txt`. See [f_3816], [f_2287].
 
 ## Research Notes
 
