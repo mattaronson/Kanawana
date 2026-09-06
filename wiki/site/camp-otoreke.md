@@ -1,7 +1,7 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 37*
-*Last Updated: 2026-09-06 (the Otoreke Project dated to 1969 and sized: 25 families, then over a thousand people)*
+*Status: E1-reviewed | Sources: 38*
+*Last Updated: 2026-09-06 (the camp's 1956 purchase of ninety mainland acres, the first acreage figure this article has had)*
 
 ## Overview
 
@@ -12,6 +12,8 @@ Camp Otoreke was the YMCA of Montreal's original camping site, located on island
 Lake Saint-Joseph is located in the Township of Howard (now Saint-Adolphe-d'Howard).^2 The lake measures approximately 3 km long by 1 km at maximum width.^2 The YMCA purchased three islands in the lake for the camp, which had a landing area on the shore.^1 A historical postcard titled "A View of The YMCA Camp Landing, Otoreke, Quebec" shows a developed landing dock and waterfront facilities.^3
 
 Saint-Adolphe-d'Howard is a municipality in the Laurentians region of Quebec, in the Pays-d'en-Haut Regional County Municipality.^2 The Township of Howard was created in 1873, named after Frederick Howard, 5th Earl of Carlisle, a Commissioner of the Colonies during the American Revolution.^15 The municipality changed its name from Howard Township to Saint-Adolphe-d'Howard in 1939; the area was popularly known as "Villa Howard" and earned the reputation "Miami of the Laurentians" in the 1950s.^11
+**The camp grew onto the mainland in 1956.** The association's annual report for the year ending 31 December 1956 states it in two sentences under Camp Otoreke: "In 1956 the Camp acquired an **additional ninety acres**, which is **on the mainland opposite the Otoreke landing**. The Camp Committee is **considering the use of this property to expand its program to include family camping**."^38 That is the first acreage figure this article has for Otoreke, and it moves the camp off its islands: everything above concerns the three islands in the lake, and this is land across the water from the landing. **The family-camping intention is recorded as an intention.** Nothing found here says the ninety acres were ever used that way, and the family programmes this article does document at Otoreke — the Otoreke Project's twenty-five inner-city families in 1969, grown to over a thousand people by 1972 — are thirteen years later and are described in the sources as citizen groups organising for themselves. Whether the 1956 purchase is what made room for them is not stated anywhere read so far, and is not assumed here.
+
 
 ## Founding as Camp Jubilee (1894)
 
@@ -622,6 +624,7 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 35. Montreal YMCA bilingual news release, **28 November 1969** [src_ymf_news_release_1969_11_28], French column. Cached at `sources/cache/ymca-montreal-fonds/news-release-1969-11-28.txt`; read 2026-09-06 under p_451. See [f_5104].
 36. YMCA of Montreal annual report for the year ended **31 May 1971** [src_ymf_sgw_ymca_annual_report_1970_1971], French column. Read 2026-09-06 under p_441. See [f_5110].
 37. YMCA of Montreal annual report for the year ended **31 May 1973** [src_cache_sgw_ymca_annual_report_1972_1973], the item headed "All-year proposal made for Kanawana." Read 2026-09-06 under p_441. See [f_5111].
+38. YMCA of Montreal annual report for the year ending 31 December 1956, the 105th [src_ymf_sgw_ymca_annual_report_1956], p. 9 under "Camp Otoreke". Read 2026-09-06 while testing a different question -- the 600-to-1,000 acre jump at Kanawana (f_5093) -- against the cached committee minutes, which turned out to be the wrong committee.
 
 ## Research Notes
 

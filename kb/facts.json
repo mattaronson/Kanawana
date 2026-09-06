@@ -1,8 +1,8 @@
 {
-  "version": "8.10",
-  "kb_version": "8.10",
+  "version": "8.11",
+  "kb_version": "8.11",
   "migrated_from": "3.3",
-  "fact_count": 5098,
+  "fact_count": 5100,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91910,6 +91910,39 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.10",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5137",
+      "category": "site",
+      "date_ref": "1956",
+      "entities": [
+        "Camp Otoreke",
+        "YMCA of Montreal",
+        "Lake Saint-Joseph"
+      ],
+      "claim": "CAMP OTOREKE ACQUIRED NINETY ACRES ON THE MAINLAND IN 1956, FOR FAMILY CAMPING. The YMCA of Montreal's annual report for the year ending 31 December 1956, the 105th, p. 9 under Camp Otoreke: 'In 1956 the Camp acquired an ADDITIONAL NINETY ACRES, which is ON THE MAINLAND OPPOSITE THE OTOREKE LANDING. The Camp Committee is CONSIDERING THE USE OF THIS PROPERTY TO EXPAND ITS PROGRAM TO INCLUDE FAMILY CAMPING.' THIS IS THE FIRST ACREAGE FIGURE THIS PROJECT HAS FOR OTOREKE AT ALL -- site/camp-otoreke.md carried none -- and it moves the camp off its islands, the whole of that article's site account being about the three islands in Lake Saint-Joseph. The report is a December year-end so it describes its own summer; no season-shifting applies. THE FAMILY-CAMPING INTENTION IS AN INTENTION AND IS RECORDED AS ONE. Nothing found says the ninety acres were ever used that way. The family programmes this project does document at Otoreke -- Projet Otoreke's twenty-five inner-city families in 1969, over a thousand people by 1972 (f_5111) -- are thirteen years later and are described in the sources as citizen groups organising for themselves. WHETHER THE 1956 PURCHASE MADE ROOM FOR THEM IS NOT STATED ANYWHERE READ AND IS NOT ASSUMED.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1956"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.11",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5138",
+      "category": "methodology",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE CACHED 'METROPOLITAN BUILDING COMMITTEE' MINUTES ARE THE WRONG COMMITTEE FOR CAMP LAND. NULL, recorded so f_5093's lead is not re-worked from them. f_5093 wants the deed or camp committee minutes behind Kanawana's jump from 600 acres (annual reports 1949-1959) to about 1,000 (1964), against a 1963-64 report line reading only 'additional property was purchased by Kamp Kanawana'. The cache holds ELEVEN Metropolitan Building Committee minute sets covering exactly 1963-64, and twenty-five in all from 1963 to 1967. 'KANAWANA' APPEARS IN NONE OF THE TWENTY-FIVE. Their business is urban building: the Lakeshore Building, Sir George Williams University's new building and its site acquisition, the Central Scientific Company, laboratory furnishings. The one 'STATUS OF SITE ACQUISITION' entry, of 21 October 1963, is the purchase of a strip of City-owned land for the university downtown at $3,200, not camp land. NOR DOES THE CACHE HOLD CAMP COMMITTEE MINUTES FOR THE 1960s: the camp-committee material on disk is annual reports and camp season reports, plus a 1900 junior camp committee report. UNTRIED ROUTES for f_5093: Concordia P0145's camp committee series for the 1960s, and the Quebec land register for the Saint-Sauveur parcels.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.11",
       "added_by": "manual"
     }
   ]
