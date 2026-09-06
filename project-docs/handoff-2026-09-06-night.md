@@ -1,6 +1,6 @@
 # Session handoff prompt — Camp Kanawana wiki
 
-Written 2026-09-06 (night), with PR #10 open, green, and 88 commits ahead of `main`. Copy everything
+Written 2026-09-06 (night), revised the same night, with PR #10 open, green, and 93 commits ahead of `main`. Copy everything
 below the line into a new session.
 
 ---
@@ -12,7 +12,7 @@ and it has been amended twice.
 ## Where things stand
 
 `origin/main` is at **`c5cbdd6`**. **PR #10** (`claude/kanawana-research-continue-spy7u9`) is open as
-a draft, **88 commits** ahead, green on every commit, mergeable clean, no review threads. Most of the
+a draft, **93 commits** ahead, green on every commit, mergeable clean, no review threads. Most of the
 diff is cached source material; the wiki and data changes are small.
 
 **All seven verify scripts pass, plus one new advisory.**
@@ -29,8 +29,8 @@ python3 scripts/verify/footnote_labels.py     # advisory
 python3 scripts/verify/oq_kb_cross.py         # advisory, NEW — see rule 20
 ```
 
-Totals: **4,923 facts** (KB v6.96) · **65 conflicts** (34 open) · **1,639 sources** ·
-**106 articles** (52 E1-reviewed, 8 R3-verified, 43 draft, 3 stub) · **118 pending priorities** of 431.
+Totals: **4,928 facts** (KB v6.99) · **65 conflicts** (34 open) · **1,642 sources** ·
+**106 articles** (52 E1-reviewed, 8 R3-verified, 43 draft, 3 stub) · **119 pending priorities** of 432.
 
 `scripts/wiki/build_article_counts.py` generates `word_count`, `open_questions` and `article_count`.
 Run it after every article edit; `data_integrity.py` fails if `wiki/articles.json` differs from what
@@ -53,8 +53,8 @@ header". Unrestricted items can be downloaded whole:
 
 ## The rules that actually govern the work
 
-Twenty now. Each exists because it was violated and cost something. Fifteen carried over; five were
-earned on 2026-09-06.
+Twenty-one now. Each exists because it was violated and cost something. Fifteen carried over; six
+were earned on 2026-09-06.
 
 1. **A negative result from a tool is a fact about the tool, not about the world.** Record it as an
    ACCESS FAILURE with the untried routes named. Never as "does not exist."
@@ -108,6 +108,44 @@ earned on 2026-09-06.
     `--since <fact number>` at the end of a research burst, it reports only what your own new facts
     may have answered. It caught a third case on its first run.
 
+21. **(New) A source marked READ is read FOR SOMETHING.** Five volumes of the *YMCA Year Book and
+    Official Roster* — 1893 to 1897, the camp's founding years — were downloaded, cached in this
+    repo and marked `read_state: read` on 2026-09-05. Their basis line is honest and specific: the
+    provincial narrative reports were read, and the volumes were searched for "camp", "tent" and
+    "Ottawa". **None of those strings reaches a line that reads "Phys. Director, W. H. Ball, Jr."**
+    The Montreal association's complete founding-era staff sat unread in a file marked read for a
+    day. `read_state` records what was read; nothing records the question that had not been asked
+    yet. **A cache of read files is not a cache of exhausted files** — so before searching the world
+    for a name, grep the cache for it.
+    *And the failure that produced this rule was mine and worse than that:* I wrote that the series
+    was "unknown to this project" in two facts, a priority, a cache file, an article and a commit
+    message, without running the one grep rule 2 requires. All of it is corrected in place.
+
+## The capability that opened this evening
+
+**The `YMCA Year Book and Official Roster` series, and it is on the Internet Archive unrestricted.**
+Annual, continent-wide, published by Association Press. For every YMCA in the United States and
+Canada it prints **the complete named paid staff, branch by branch**, and an **Alphabetical List of
+Employed Officers** giving every man's post and, by its own printed legend, **his year of entry into
+Association work**.
+
+Nineteen items, enumerated via `archive.org/services/search/v1/scrape?q=identifier:ymcayearbook*`
+and written into **p_433**. The catalogue's `year` field is **wrong** — it reads 1890 for all ten
+University of Toronto scans; the year is in the identifier and should be confirmed inside the volume.
+
+Read so far: **1893-97** (already in this repo; rosters read 2026-09-06, f_4966) and **1921**
+(f_4964, f_4965). Unread: 1891, 1892, **1906, 1907, 1908**, 1922, four Google scans, and 1936.
+**Take 1906-1908 next** — they would name W. H. Ball Jr.'s successor as Montreal's Physical Director
+after his 1901/02 departure, and they sit either side of the camp's move to Saint-Sauveur.
+
+**Know the limit before starting.** "Kanawana" occurs zero times in the 1921 volume, and so do
+"summer camp" and "boys' camp". The series rosters associations and their staff, not their
+programmes. **It will never name the camp. It names the men**, which is the thing missing for the
+camp's first forty years. And the men it does *not* name are informative too: Spinney, Powter,
+Ereaux, Charlton and Owens are absent from the 1921 employed-officers list, consistent with the
+camp's educational and section staff being schoolmasters and seasonal hires rather than association
+secretaries.
+
 ## What this session did (2026-09-06, night)
 
 **p_430 is nearly finished.** Groups 1, 2, 3, 4 and 5 are complete and two of group 6's three
@@ -138,6 +176,19 @@ memoirs are read. What it produced:
   athletic histories, not YMCA literature, which is already read to the end.
 - **The 1898 camp leadership**, six named men, added to `directors-index.md` from facts that had been
   in the KB for a day (f_4908, f_4911, f_4913).
+- **The founding-era staff of the YMCA of Montreal, 1893-1897, year by year** (f_4966) — including
+  "**W. H. Ball, Jr.**" in all five volumes, which gives the camp's founder a father of the same name
+  and `billy-ball.md` the first genealogical handle it has ever had; **W. F. Chapman** as Assistant
+  Secretary for four years before the 1898 junior camp; and **C. B. Powter** as Ball's Assistant
+  Physical Director from 1896, closing a career built from four sources in one day.
+- **Harold C. Cross documented as Boys' Work Secretary at Victoria, B.C.**, where the article said
+  "likely", and his entry into YMCA work dated to **1912**, seven years earlier than anything held
+  here — which opens a new question: where was he from 1912 to 1919? (f_4965)
+- **Henry Foss Hall's *The Georgian Spirit* closed as a null.** Six pairings return zero, with a
+  control pairing proving the AND works. The Montreal YMCA's own historian supplied the research for
+  Sir George Williams University's official history and the camp is nowhere in it.
+- **`scripts/verify/oq_kb_cross.py`**, and it caught three real cases — one from weeks ago, one from
+  the previous day, and two of this session's own omissions when run with `--since`.
 
 ## Highest-value open work
 
