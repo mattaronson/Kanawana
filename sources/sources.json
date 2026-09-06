@@ -29755,7 +29755,43 @@
       "read_state": "partial",
       "read_state_basis": "Six complete djvu texts (schoolmagazinede06/07/08/09/10/11univuoft, 12,262,992 bytes in total) downloaded and searched 2026-09-06 under p_432. THIS RECORD EXISTS TO HOLD A NULL. 'Kanawana' occurs zero times in all six. 'Spinney' occurs zero times in volumes 6, 7, 8 and 11; the three hits in volume 9 and two in volume 10 are Nova Scotians and NOT this man. Volume years were read off each title page. Nothing else in these volumes has been read.",
       "notes": "The negative half of p_432, registered so the same six volumes are not downloaded and searched again. The Spinney hits that are not him: 'Hon. E. K. Spinney, member for Yarmouth and Clare, N.S.', a Minister without Portfolio in the Meighen ministry (vol 9 lines 1781 and 40152; vol 10 line 9873), and 'Miss Catherine Spinney has transferred herself from Truro to Halifax' (vol 10 line 8144). Also recorded here: VOLUME 3 (1914-15) IS NOT ON THE INTERNET ARCHIVE and remains unread anywhere -- that is a hole in the run, not a null."
+    },
+    {
+      "source_id": "src_ymca_yearbook_1899",
+      "type": "periodical",
+      "title": "Year Book of the Young Men's Christian Associations of North America, for the Year 1899 — Montreal roster",
+      "date": "1899",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/yearbookyoungme01commgoog",
+      "cache_path": "sources/cache/ymca-yearbooks/1899-1900-ymca-year-book-montreal-roster.txt",
+      "char_count": 1095671,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "7.06",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "NOT lending-restricted. The full djvu text of Internet Archive item yearbookyoungme01commgoog was downloaded and searched 2026-09-06 under p_433. TWO ANNUAL VOLUMES ARE BOUND IN THIS ONE ITEM -- 1899 (scan lines 1-67820) and 1900 (67821-end) -- and the catalogue names only 1899; both years are read off the volumes' own title pages. For the 1899 volume the Quebec branch directory and the complete Montreal block of the alphabetical list of paid officers were read, with the legend that dates each man's entry into Association work. 'Kanawana', 'summer camp' and 'camping' occur zero times. The rest is unread.",
+      "notes": "THE MONTREAL ASSOCIATION'S PAID STAFF FOR 1899, filling two years of this project's 1898-1905 hole in the series. D. A. Budge (Gen. Sec., entered 1874); C. K. Calhoun (Asst., 1890); JOHN ROY (Asst., entered 1899 -- a name on the directors-index sweep list, though this John Roy is NOT established as the camp's); E. G. RANDAL (Educational Director, entered 1893, training-school man -- A NAME THAT OCCURS NOWHERE ELSE IN THIS PROJECT, and the earliest Educational Director it has by nearly twenty years); W. H. BALL, JR. (Physical Director, ENTERED ASSOCIATION WORK 1889, training-school man -- still in post five years after founding the camp); F. A. Crowe (Junior Dept., 1894); F. S. Morrison (Railroad Dept., 1893); A. H. Grace (McGill University, 1897). The alphabetical list's OCR renders Ball as 'BiUl'; it is settled as Ball by its position between 'Ball, W. D., Los Angeles' and 'Ballantine', and by the branch directory printing it cleanly. See f_4976."
+    },
+    {
+      "source_id": "src_ymca_yearbook_1900",
+      "type": "periodical",
+      "title": "Year Book of the Young Men's Christian Associations of North America, for the Year 1900 — bound with the 1899 volume in the same scan",
+      "date": "1900",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/yearbookyoungme01commgoog",
+      "cache_path": "sources/cache/ymca-yearbooks/1899-1900-ymca-year-book-montreal-roster.txt",
+      "char_count": 1095671,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "7.06",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "NOT lending-restricted. Bound as the second half (scan lines 67821 onwards) of Internet Archive item yearbookyoungme01commgoog, whose catalogue record names only 1899; the year is read off this volume's own title page at scan line 67857. Downloaded and searched 2026-09-06 under p_433. 'Kanawana' occurs zero times. THE MONTREAL ROSTER IN THIS VOLUME HAS NOT BEEN READ -- see the notes.",
+      "notes": "REGISTERED FOR THE YEAR IT COVERS AND FOR AN ACCESS FAILURE, NOT FOR A FINDING. The 1900 half of this scan is far more OCR-degraded than the 1899 half: a loose search for any spelling of Montreal returns only 'Burgeoii, F. B., Montreal, Ant., 99' (a surname mangled past recovery) and 'CalhODD, C. X.. Montreal. Aaat., M', and the alphabetical list has a broken line in the B's precisely where Ball would fall. SO THE 1900 MONTREAL ROSTER IS UNKNOWN, AND THE VOLUME'S SILENCE ABOUT W. H. BALL IS A FACT ABOUT THE SCANNER AND NOT EVIDENCE THAT HE HAD LEFT THE POST. UNTRIED ROUTE: the item is not lending-restricted, so its page images are fetchable and would settle it directly; that has not been done. See f_4976."
     }
   ],
-  "source_count": 1653
+  "source_count": 1655
 }

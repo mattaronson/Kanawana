@@ -1,7 +1,7 @@
 # Directors and Staff of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 42*
-*Last Updated: 2026-09-06 (the Educational Director's first name, and the basketry class he started in Montreal in 1914)*
+*Status: E1-reviewed | Sources: 43*
+*Last Updated: 2026-09-06 (the 1899 Montreal roster, and an Educational Director the project had never heard of)*
 
 ## Summary
 
@@ -176,6 +176,16 @@ The 1921 brochure puts him at Kanawana in his fifth year, which means he started
 | 1897 | D. A. Budge | C. K. Calhoun; **W. F. Chapman** | **W. H. Ball, Jr.** | **C. B. Powter** |
 
 Three things in that table are new here. **"W. H. Ball, Jr."** — the *Jr.* is printed in all five volumes and this project has never had it; the camp's founder had a father of the same name. **W. F. Chapman** was the association's Assistant Secretary for four consecutive years before he supervised the 1898 junior camp, which is all this project knew of him. And **C. B. Powter** appears as **Assistant Physical Director under Ball** in the 1896 volume, which completes a career assembled from four sources in one day: assistant to the camp's founder by 1896, in charge of the Y's senior camp in 1898, founder of his own camp on the same lake in 1902, and a physical-training master in a Montreal high school by 1908-09.
+
+**And 1899, found under a title the earlier sweep never searched.**^43
+
+| Volume | General Secretary | Assistants | Educational Director | Physical Director | Other |
+|---|---|---|---|---|---|
+| 1899 | D. A. Budge *(entered 1874)* | C. K. Calhoun *(1890)*; **John Roy** *(1899)* | **E. G. Randal** *(1893)* | **W. H. Ball, Jr.** *(1889)* | F. A. Crowe, Junior Dept. *(1894)*; F. S. Morrison, Railroad *(1893)*; A. H. Grace, McGill *(1897)* |
+
+The years in italics are each man's **entry into Association work**, printed by the volume's own legend — not his year in the post. Two of these are new. **E. G. Randal, Educational Director**, occurs nowhere else in this project, and is the earliest Educational Director it has by nearly twenty years; the next is F. H. Spinney from about 1917. And **W. H. Ball entered Association work in 1889** and is still Physical Director in 1899 — five years after founding the camp, one year after the annual report has him running the 1898 senior camp. By the 1906 volume the post is J. E. Merritt's, so Ball leaves it somewhere in 1900-1905. **John Roy** is a name that also appears on this project's list of camp people awaiting research; here he is an assistant new in post in 1899, and that is a coincidence of a common name until something joins them, so it is not treated as one.
+
+*Two cautions on that row.* The 1899 volume's alphabetical list renders Ball as "BiUl"; it is read as Ball because it sits between "Ball, W. D., Los Angeles" and "Ballantine" — a name spelled Bill would sort two hundred entries later — and because the branch directory prints it cleanly. And **the 1900 volume, bound into the same scan and never named by its catalogue record, has not been read**: that half is too OCR-degraded to take a roster off, with a broken line in the B's exactly where Ball would fall. Its silence about him says something about the scanner and nothing about the man.^43
 
 **And three more volumes carry it to the eve of the move.** The 1906, 1907 and 1908 rosters give the association a decade on:^41
 
@@ -436,6 +446,8 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 41. *Year Book and Official Roster of the Young Men's Christian Associations of North America*, the volumes for 1893, 1894, 1895, 1896, 1897, **1906, 1907, 1908** and **1922** [src_ymca_yearbook_1906, src_ymca_yearbook_1907, src_ymca_yearbook_1908, cached at `sources/cache/ymca-yearbooks/1906-1908-ymca-year-book-montreal-roster.txt`, see [f_4967]; and src_ymca_yearbook_1922, cached at `sources/cache/ymca-yearbooks/1922-ymca-year-book-montreal-roster.txt`, see [f_4968]]. The 1893-97 volumes [src_ymca_yearbook_1893, src_ymca_yearbook_1894, src_ymca_yearbook_1895, src_ymca_yearbook_1896, src_ymca_yearbook_1897] — cached in this repo since 2026-09-05, their *Paid Officers* section read 2026-09-06; see [f_4966] — and *YMCA Year Book and Official Rosters* (New York: Association Press, 1921) [src_ymca_year_book_official_rosters_1921]. **Not lending-restricted**: the full djvu text was downloaded and searched 2026-09-06. "Kanawana", "summer camp" and "boys' camp" occur in it zero times — it rosters associations and their paid staff, not their programmes. The complete Quebec section, the employed-officers legend and the relevant index lines are cached at `sources/cache/ymca-yearbooks/1921-ymca-year-book-official-rosters-montreal.txt`. See [f_4964], [f_4965].
 
 42. *The School: A Magazine Devoted to Elementary and Secondary Education*, vols. 2 (Sept 1913 - June 1914) [src_the_school_magazine_vol2_1913_14], 4 (Sept 1915 - June 1916) [src_the_school_magazine_vol4_1915_16] and 5 (Sept 1916 - June 1917) [src_the_school_magazine_vol5_1916_17], with the null sweep of vols. 6-11 (Sept 1917 - June 1923) [src_the_school_magazine_vols6_11_null_sweep]. **None is lending-restricted**: ten complete djvu texts were downloaded and searched 2026-09-06 under p_432, and "Kanawana" occurs zero times in all ten. Every occurrence of "Spinney", "Alexandra School" and "basket" was read, plus each volume's title page — **the years above are read off the title pages, not from the Internet Archive metadata, which labels every item in the run "1912-35"**. Volume 3 is not on the Archive and is unread. The by-line table, the *Montreal Daily Star* basketry item in full, the two Nova Scotian Spinneys, and a note on the OCR double-spacing that hid the first name from the volume-1 search are cached at `sources/cache/periodicals/1913-1923-the-school-magazine-spinney-full-run.txt`. See [f_4972], [f_4973], [f_4974], [f_4975].
+
+43. *Year Book of the Young Men's Christian Associations of North America*, the volumes **for 1899** [src_ymca_yearbook_1899] **and for 1900** [src_ymca_yearbook_1900] — **both bound into a single Internet Archive scan whose catalogue record names only 1899**, their years read off their own title pages. **Not lending-restricted**: the full djvu text was downloaded and searched 2026-09-06 under p_433. The Quebec branch directory and the complete Montreal block of the 1899 alphabetical list of paid officers were read, with the printed legend dating each man's entry into Association work; **the 1900 half was not, its OCR being too degraded to take a roster off**. "Kanawana", "summer camp" and "camping" occur zero times in either. The item was reachable only by searching the series' *other* title — an identifier-stem enumeration returns three volumes and never these. Quoted in full, with the OCR slips and the reasoning that settles "BiUl" as Ball, at `sources/cache/ymca-yearbooks/1899-1900-ymca-year-book-montreal-roster.txt`. See [f_4976], [f_4977], [f_4978].
 
 ## Research Notes
 

@@ -1,0 +1,176 @@
+SOURCE EXTRACT — read from the full djvu text, 2026-09-06 (p_433)
+=================================================================
+YEAR BOOK OF THE YOUNG MEN'S CHRISTIAN ASSOCIATIONS OF NORTH AMERICA
+Internet Archive: yearbookyoungme01commgoog — NOT lending-restricted, djvu text 1,095,671 bytes
+
+TWO VOLUMES ARE BOUND IN THIS ONE ITEM, AND THE CATALOGUE ONLY NAMES ONE
+------------------------------------------------------------------------
+Internet Archive metadata gives `year: 1899, date: 1899`. The scan contains TWO complete annual
+volumes:
+
+    scan line    107  "YEAR BOOK ... For the Year 1899."
+    scan line  67857  "YEAR BOOK ... For the Year 1900."
+
+Both years are read off the volumes' own title pages. So this single item fills TWO of the years
+in the project's 1898-1905 hole, and a reader who trusted the catalogue field would have taken
+only one. (The line at 67857+397 reading "FOR THE YEAR 1899." sits inside the 1900 volume and is
+a retrospective statistics heading, not a second title page.)
+
+For working purposes: lines 1-67820 are the 1899 volume, 67821-end the 1900 volume.
+
+
+I. THE MONTREAL ASSOCIATION'S PAID STAFF, 1899
+==============================================
+The branch-by-branch directory, Quebec section (scan line 16796 onwards), quoted with the OCR's
+own slips left where they fall:
+
+    Quebec*
+    Montreal                     D A. Budge
+        A«tt..                   C. K. Calhonn
+        Ami.,                    John Roy
+        Educaticnal Dir..        B. G. Randal
+        Phy§. Director,          W. H. Ball, Jr.
+        " Junior Dept.           V A.C^rowe
+        " R.R. Dept —            F.S.Morrison
+
+Read against the alphabetical list (below), which is set in cleaner type, that is:
+
+    General Secretary        D. A. BUDGE
+    Assistant                C. K. CALHOUN
+    Assistant                JOHN ROY
+    Educational Director     E. G. RANDAL
+    Physical Director        W. H. BALL, JR.
+    Junior Department        F. A. CROWE
+    Railroad Department      F. S. MORRISON
+    (McGill University)      A. H. GRACE
+
+II. THE SAME MEN IN THE ALPHABETICAL LIST, WITH THEIR YEARS OF ENTRY
+====================================================================
+The list is headed "General Secretaries and Other Paid Officers in Alphabetical Order.
+APRIL 1, 1899." and carries its own legend, printed above it:
+
+    "The figures after each name indicate the year of entry into Association work."
+    "The men whose names are marked thus * have taken a course of instruction in one of the
+     [training schools]"
+
+The Montreal entries (scan lines 19651-20666), verbatim:
+
+    *BiUl, W. H., Montreal. Ph. Dir., 89          [= BALL — see the note below]
+    BudK«>. D- A., Montreal. Set;., 74            [= BUDGE, Sec., 74]
+    Calhoun, C. K.. Montreal, Asst., 90
+    Crowe. F. A., Montreal, Asst., 94
+    Grace, A. H., McGiU Univ., Montreal Sec, 97
+    Morrison, F S., Montreal RR. Sec, 93
+    ♦Randal E. G., Montreal Ed. Dir., 93
+    Roy, John, Montreal, Asst., 99
+
+So, dated:
+    W. H. BALL, JR.   Physical Director   entered Association work 1889   *training school
+    D. A. BUDGE       General Secretary   entered 1874
+    C. K. CALHOUN     Assistant           entered 1890
+    F. A. CROWE       Assistant           entered 1894
+    A. H. GRACE       Secretary, McGill   entered 1897
+    F. S. MORRISON    Railroad Secretary  entered 1893
+    E. G. RANDAL      Educational Dir.    entered 1893   *training school
+    JOHN ROY          Assistant           entered 1899
+
+WHY "BiUl" IS BALL AND NOT BILL, settled on the page rather than by preference. The entry sits
+in an alphabetical list between
+
+    Ball. W. D., Los Angeles, Cal„ Sec., 90
+    *BiUl, W. H., Montreal. Ph. Dir., 89
+    Ballaiitine,W.G., Springfield, Mass.,Tr.Sch.97
+
+— i.e. between Ball, W. D. and Ballantine. A name spelled Bill would sort roughly two hundred
+entries later. It is Ball. The branch directory at line 16803 prints it cleanly as
+"Phy§. Director, W. H. Ball, Jr." in any case; the two agree.
+
+
+III. WHAT IS NEW HERE AND WHAT ALREADY EXISTED
+==============================================
+Checked by grep against the repo before being written down.
+
+  NEW — the year. This project held the Year Book for 1891-1897, 1906-1908, 1921 and 1922. It did
+    not hold 1899 or 1900. Two years of the 1898-1905 hole are now filled.
+
+  NEW — E. G. RANDAL, Educational Director of the Montreal association, in Association work since
+    1893 and a training-school man. The name occurs nowhere in this project. It is the earliest
+    Educational Director the project has by nearly twenty years: the next is F. H. Spinney, from
+    about 1917.
+
+  NEW as a date — JOHN ROY. The name is on the directors-index sweep list as an unswept camp
+    name. Here he is an Assistant at the Montreal association who ENTERED ASSOCIATION WORK IN
+    1899, i.e. he is new in post in this volume. Whether this John Roy is the John Roy on the
+    camp's own boards is NOT established and must not be assumed from the name alone.
+
+  NEW as a date — A. H. GRACE at McGill University, entered 1897.
+
+  ALREADY HELD — "W. H. Ball, Jr." with the Jr., which the 1893-1897 volumes print in all five
+    (see f_4966 and the roster table in wiki/people/directors-index.md). What 1899 adds is that
+    HE IS STILL PHYSICAL DIRECTOR IN 1899, five years after founding the camp and one year after
+    the annual report has him running the 1898 senior camp, and that HIS YEAR OF ENTRY INTO
+    ASSOCIATION WORK IS 1889, which this project did not have. By the 1906 volume the Physical
+    Director is J. E. Merritt, so Ball leaves the post somewhere in 1900-1905.
+
+  ALREADY HELD — Budge and Calhoun.
+
+
+IV. THE 1900 VOLUME: PRESENT, READ, AND MOSTLY UNREADABLE
+=========================================================
+The 1900 volume's alphabetical list survives the scanner far worse than the 1899 one. A loose
+search for any spelling of Montreal in it returns only two entries:
+
+    Burgeoii, F. B., Montreal, Ant., 99
+    CalhODD, C. X.. Montreal. Aaat., M
+
+The first is a Montreal assistant whose surname the OCR has mangled past recovery (Burgeon?
+Bourgeois?) with an entry year of 99; the second is Calhoun. Neighbouring lines in the same
+column run "•B«ni«, F. B.. (hnnhfc Neb.. Ph. Dir., BO" and ".. Ph. Dir., " — a broken line in
+the B's precisely where Ball would fall.
+
+THE HONEST STATEMENT: the 1900 Montreal roster HAS NOT BEEN READ. The OCR of that half of the
+scan is too degraded to read a roster off, and its silence about Ball is a fact about the
+scanner, NOT evidence that he had left. Whether Ball is in the 1900 volume is UNKNOWN. The item
+is not lending-restricted, so the page images are fetchable and would settle it; that has not
+been done. Queued.
+
+V. "KANAWANA" OCCURS ZERO TIMES IN EITHER VOLUME
+================================================
+So do "summer camp" and "camping". The three hits on "boys' camp" are elsewhere in North America.
+The single "camp" occurring near Montreal or Quebec is "winter campaign work". This is the same
+result the 1921 volume gave and for the same reason: the Year Book rosters ASSOCIATIONS AND THEIR
+PAID STAFF, not their programmes. A camp does not appear in it even when the association running
+the camp does.
+
+
+VI. A TOOLING FINDING THAT MATTERS MORE THAN THIS VOLUME
+========================================================
+This item was found only because the enumeration was re-run on a TITLE rather than an identifier
+stem. `identifier:ymcayearbookoffi*` returns three items. A title query returns nine under that
+title and four more under a second title the series also used, "Year Book of the Young Men's
+Christian Associations of North America" — which is where the 1899/1900 item lives. It was never
+reachable from the stem the earlier sweep used. (Rule 16: an enumeration is only as wide as the
+string it was run on.)
+
+AND, SERIOUSLY: THE INTERNET ARCHIVE SCRAPE ENDPOINT SERVED STALE RESULTS FOR A DIFFERENT QUERY.
+`https://archive.org/services/search/v1/scrape` was observed, repeatedly and reproducibly on
+2026-09-06, returning the result set of a PREVIOUS query while reporting it as the answer to the
+current one — `identifier:ymcayearbookoffi*` returned eleven items, all of them volumes of The
+School magazine from an enumeration run minutes earlier. A quoted, non-wildcard query for a
+single known identifier returned the same eleven. Two further traps on the same endpoint: adding
+`year` to the `fields` list returns ITEMS UNRELATED TO THE QUERY ("Scream In The Night",
+"Scrooge"), and adding `date` returns zero.
+
+An enumeration that silently answers a question you did not ask is worse than one that fails.
+USE `https://archive.org/advancedsearch.php?q=...&fl[]=identifier&fl[]=title&rows=N&page=1&output=json`
+INSTEAD — it was tested against the same queries and returned correct, query-specific results
+every time. (A claim was made earlier in this session's working notes that advancedsearch returns
+HTML rather than JSON, which is why the scrape endpoint was used at all. That claim was wrong and
+never reached the repo: advancedsearch returns JSON when `output=json` is set, and the parameter
+had been omitted. This project has used it successfully before — see the Green Triangle
+enumeration.) A helper is at the scratchpad's `ias.py`.
+
+QUERIES RUN: title:("official rosters") AND title:("year book"); title:("year book of the young
+men's christian associations"); title:("young men's christian associations of north america") AND
+title:("year book"); title:("year book") AND title:("christian associations");
+identifier:ymcayearbookoffi*; and archive.org/metadata/<id> on each of the eleven items found.

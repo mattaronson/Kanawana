@@ -5575,3 +5575,57 @@ not put the camp's Educational Director in the federal cabinet.
 not a null, and it sits exactly where the basketry class was starting. Volumes 12 onward
 (1923-1935) are unread; only the 1935 scan was located. Low expected yield, but an obituary of a
 Montreal principal is the kind of thing this journal printed, and his death date is unknown.
+
+## Campaign: p_433 — the YMCA Year Book, enumerated properly
+*2026-09-06*
+
+**What went wrong first, because it is the more useful half.** The sweep was running against the
+identifier stem `ymcayearbookoffi*`, which returns three items. Re-run against the series *title*,
+the Internet Archive holds nine under "YMCA Year Book and Official Rosters" and **four more under
+a second title the same series used**, "Year Book of the Young Men's Christian Associations of
+North America". Those four were never reachable from the stem. Rule 16 again, and it cost this
+project a decade of rosters.
+
+**And the endpoint was lying.** `archive.org/services/search/v1/scrape` was observed, repeatedly,
+returning the result set of a *previous* query while reporting it as the answer to the current
+one: `identifier:ymcayearbookoffi*` came back with eleven items, every one a volume of *The
+School* magazine from an enumeration run minutes earlier, and a quoted non-wildcard query for a
+single known identifier returned the same eleven. Adding `year` to the `fields` list returns items
+unrelated to the query outright. An enumeration that silently answers a question you did not ask
+is worse than one that fails, because it looks like an answer. Use
+`advancedsearch.php?...&output=json`, which returned correct query-specific results on every test.
+The `output=json` parameter is required; omitting it is what produced the HTML page and the wrong
+working note that sent this project to the scrape endpoint in the first place. Recorded as f_4978.
+
+**What the title query found.** `yearbookyoungme01commgoog`, unrestricted, catalogued `year: 1899`
+— and containing **two complete annual volumes**, "For the Year 1899." at scan line 107 and "For
+the Year 1900." at line 67857, both read off their own title pages. One item, two years of the
+1898-1905 hole, and the catalogue names one of them.
+
+**The 1899 Montreal roster.** The Quebec branch directory gives Budge as General Secretary,
+Calhoun and **John Roy** as assistants, **E. G. Randal** as Educational Director, **W. H. Ball,
+Jr.** as Physical Director, Crowe on the Junior Department and Morrison on Railroad; the
+alphabetical list dates each man's entry into Association work by its own printed legend. Two
+things are new. **E. G. Randal occurs nowhere else in this project** and is the earliest
+Educational Director it has by nearly twenty years — the next is Spinney, from about 1917. And
+**Ball entered Association work in 1889**, three years before the 1892 volume introduces him to
+Montreal as "a new man, from the Springfield Training School", and is **still Physical Director in
+1899**, five years after the founding trip. The 1906 volume has J. E. Merritt in the post, so he
+leaves it between 1900 and 1905.
+
+The list renders his surname "BiUl". It is read as Ball because it sits between "Ball, W. D., Los
+Angeles" and "Ballantine", where a name spelled Bill would sort two hundred entries later, and
+because the branch directory prints it cleanly.
+
+**A side effect worth more than it cost.** billy-ball.md's open question 8 asked whether "John W.
+Ross" and "John Roy" were the same man. They are not: the 1899 volume has John Roy as *paid*
+staff, an assistant new in post that year, while John W. Ross appears in a list of lay Montreal
+figures and, in the 1900 volume, as Quebec's own representative in the continental list — the post
+H. B. Ames held in 1899. Two men, two sections, one book.
+
+**Not read, and said so.** The 1900 half of the scan is far more OCR-degraded; a loose search for
+any spelling of Montreal returns two mangled entries, and the alphabetical list breaks in the B's
+precisely where Ball would fall. **The 1900 Montreal roster is unknown**, and that volume's
+silence about Ball is a fact about the scanner. The item is unrestricted, so its page images would
+settle it. Queued as p_435 along with the nine other scans the title query surfaced and the
+remaining holes at 1898, 1901-1905 and 1909-1920.

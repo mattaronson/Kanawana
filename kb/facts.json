@@ -1,8 +1,8 @@
 {
-  "version": "7.05",
-  "kb_version": "7.05",
+  "version": "7.06",
+  "kb_version": "7.06",
   "migrated_from": "3.3",
-  "fact_count": 4937,
+  "fact_count": 4940,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88756,6 +88756,65 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4976",
+      "category": "people",
+      "date_ref": "1899",
+      "entities": [
+        "W. H. Ball, Jr.",
+        "E. G. Randal",
+        "John Roy",
+        "D. A. Budge",
+        "C. K. Calhoun",
+        "F. A. Crowe",
+        "F. S. Morrison",
+        "A. H. Grace",
+        "YMCA of Montreal",
+        "McGill University"
+      ],
+      "claim": "THE MONTREAL YMCA'S PAID STAFF FOR 1899, WITH EACH MAN'S YEAR OF ENTRY INTO ASSOCIATION WORK -- AND A NEW EDUCATIONAL DIRECTOR. The Year Book of the Young Men's Christian Associations of North America for 1899 gives, in its Quebec branch directory: 'Montreal / D A. Budge / Asst., C. K. Calhoun / Asst., John Roy / Educational Dir., E. G. Randal / Phys. Director, W. H. Ball, Jr. / Junior Dept., F. A. Crowe / R.R. Dept., F. S. Morrison'. Its alphabetical list of paid officers, headed 'APRIL 1, 1899' with the printed legend 'The figures after each name indicate the year of entry into Association work' and a star marking men who took a training-school course, dates them: *W. H. BALL, Ph. Dir., 89; D. A. Budge, Sec., 74; C. K. Calhoun, Asst., 90; F. A. Crowe, Asst., 94; A. H. Grace, McGill Univ., Sec., 97; F. S. Morrison, RR. Sec., 93; *E. G. RANDAL, Ed. Dir., 93; John Roy, Asst., 99. TWO THINGS ARE NEW. E. G. RANDAL, Educational Director, in Association work since 1893 and a training-school man, OCCURS NOWHERE ELSE IN THIS PROJECT and is the earliest Educational Director it has by nearly twenty years -- the next is F. H. Spinney from about 1917. And W. H. BALL, JR., the camp's founder, ENTERED ASSOCIATION WORK IN 1889 and is STILL PHYSICAL DIRECTOR IN 1899, five years after founding the camp and one year after the annual report has him running the 1898 senior camp; by the 1906 volume the post is J. E. Merritt's, so Ball leaves it somewhere in 1900-1905. JOHN ROY, a name on the directors-index sweep list, is here an assistant NEW IN POST IN 1899 -- but this John Roy is NOT established to be the camp's John Roy, and must not be joined to him on the name alone. ON THE OCR: the alphabetical list renders Ball as 'BiUl'; it is settled as Ball by its position between 'Ball, W. D., Los Angeles' and 'Ballantine' -- a name spelled Bill would sort some two hundred entries later -- and by the branch directory printing it cleanly as 'W. H. Ball, Jr.'",
+      "sources": [
+        "src_ymca_yearbook_1899"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4977",
+      "category": "sources",
+      "date_ref": "1899-1900",
+      "entities": [
+        "Year Book of the Young Men's Christian Associations",
+        "Internet Archive",
+        "Kamp Kanawana"
+      ],
+      "claim": "ONE INTERNET ARCHIVE ITEM HOLDS TWO ANNUAL VOLUMES AND THE CATALOGUE NAMES ONLY ONE. Item yearbookyoungme01commgoog is catalogued 'year: 1899, date: 1899'. It contains TWO complete Year Books: 'For the Year 1899.' at scan line 107 and 'For the Year 1900.' at scan line 67857, both read off the volumes' own title pages. So the item fills TWO years of this project's 1898-1905 hole in the series, and a reader trusting the catalogue field would have taken one. THE 1900 HALF HAS NOT BEEN READ: its OCR is far more degraded, a loose search for any spelling of Montreal returns only two mangled entries, and the alphabetical list breaks precisely in the B's where Ball would fall -- so the 1900 Montreal roster is UNKNOWN and that volume's silence about W. H. Ball is a fact about the scanner, not evidence he had left the post. Untried route: the item is not lending-restricted, so its page images are fetchable and would settle it. ALSO: 'Kanawana', 'summer camp' and 'camping' occur ZERO times in either volume, and the only 'camp' near Montreal or Quebec is 'winter campaign work' -- the same result the 1921 volume gave, and for the same reason, since the Year Book rosters associations and their paid staff and not their programmes.",
+      "sources": [
+        "src_ymca_yearbook_1899",
+        "src_ymca_yearbook_1900"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4978",
+      "category": "methodology",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Internet Archive",
+        "Kanawana wiki project"
+      ],
+      "claim": "TOOLING CONTRACT: THE INTERNET ARCHIVE SCRAPE ENDPOINT SERVED STALE RESULTS FOR A DIFFERENT QUERY, AND MUST NOT BE TRUSTED FOR ENUMERATION. Observed repeatedly and reproducibly on 2026-09-06: https://archive.org/services/search/v1/scrape returned the result set of a PREVIOUS query while reporting it as the answer to the current one -- 'identifier:ymcayearbookoffi*' returned eleven items, every one a volume of The School magazine from an enumeration run minutes earlier, and a quoted non-wildcard query for a single known identifier returned the same eleven. Two further traps on the same endpoint: adding 'year' to the fields list returns items UNRELATED to the query (a horror film, a Dickens adaptation), and adding 'date' returns zero. An enumeration that silently answers a question you did not ask is worse than one that fails, because the result looks like an answer. USE INSTEAD https://archive.org/advancedsearch.php?q=...&fl[]=identifier&fl[]=title&rows=N&page=1&output=json, which was tested against the same queries and returned correct query-specific results every time; the OUTPUT=JSON PARAMETER IS REQUIRED and its omission is what produced an HTML page and the mistaken working note, made earlier the same day and never written to the repo, that advancedsearch could not return JSON. This project has used advancedsearch successfully before -- the Green Triangle enumeration. COROLLARY, and the reason this was caught: an enumeration is only as wide as the string it was run on. 'identifier:ymcayearbookoffi*' returns three items; a TITLE query returns nine under that title and four more under a second title the same series used, 'Year Book of the Young Men's Christian Associations of North America', which is where the 1899 and 1900 volumes live. They were never reachable from the identifier stem.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.06",
       "added_by": "ralph_loop"
     }
   ]

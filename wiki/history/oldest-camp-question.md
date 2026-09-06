@@ -1,6 +1,6 @@
 # Is Kanawana the Oldest Camp in Canada?
 
-*Status: draft | Sources: 19*
+*Status: draft | Sources: 20*
 *Last Updated: 2026-09-05*
 
 ## Overview
@@ -228,7 +228,12 @@ the year 1894 and does not mention Kanawana's first season either; the 1897 volu
 Kanawana's fourth, mentions no camp in Quebec at all [f_4836]. A negative from a source that would not
 have recorded the thing anyway is a fact about the source. So the Year Book cannot be used to knock
 down Ottawa 1893, and could not be used to knock down Kanawana 1894 — which is worth saying plainly,
-because the temptation runs the other way when the null is convenient. **Ottawa 1893 is now tested and
+because the temptation runs the other way when the null is convenient. **The 1899 and 1900 volumes, read
+on 2026-09-06, extend the same null by two more years and in a way that makes the point harder:** by 1899
+Montreal had been running its camp for five summers and the volume's own Quebec pages name the man running
+it, W. H. Ball, Jr., as the association's Physical Director — and still record no camp, for Montreal or for
+anyone in the province [f_4977].^20 A source that omits a camp it demonstrably knew about is not evidence
+about camps at all. **Ottawa 1893 is now tested and
 stands as one man's recollection, with a YWCA minute behind a differently-sponsored camp.** The
 untried routes are named in the Open Questions: the Ottawa YMCA's own annual reports of the 1890s,
 which are not online, and the Ottawa YWCA minute book itself.
@@ -509,3 +514,4 @@ across the country, and the century that closed its own sibling camp on the orig
 17. *Year Book and Official Roster of the Young Men's Christian Associations of North America*, 1893, 1894, 1895, 1896 and 1897 [src_ymca_yearbook_1893], [src_ymca_yearbook_1894], [src_ymca_yearbook_1895], [src_ymca_yearbook_1896], [src_ymca_yearbook_1897]. Ontario and Quebec narrative reports read in full; each volume searched whole for "camp" and "tent". See [f_4836], [f_4837].
 18. "Camp Stephens 125th Anniversary Chapel Service ~ July 31, 2016," Camp Stephens Alumni blog [src_campstephens_125_chapel_2016]. The 1918 closure for want of counsellors, the first twenty years as an adult and family Bible camp, and the 1911 first boys' camp. A dramatised commemorative script read by alumni, not a history. See [f_4838], [f_4840].
 19. Katelyn Charlebois, "Camp Stephens Celebrates 125 Years," Lake of the Woods Museum Newsletter Vol. 26 No. 3, Summer 2016 [src_muse_kenora_camp_stephens_125]. "Only closed for one summer, 1918"; 54 enlisted campers who did not return; the five islands' namesakes, T. D. Patton among them. See [f_4838], [f_4839].
+20. *Year Book of the Young Men's Christian Associations of North America*, the volumes for **1899** [src_ymca_yearbook_1899] and **1900** [src_ymca_yearbook_1900] — both bound into a single Internet Archive scan whose catalogue record names only 1899. **Not lending-restricted**; downloaded and searched 2026-09-06. "Kanawana", "summer camp" and "camping" occur zero times in either, and the only "camp" near Montreal or Quebec is "winter campaign work" — while the same 1899 volume's Quebec branch directory names the Montreal association's Physical Director as W. H. Ball, Jr. Cached at `sources/cache/ymca-yearbooks/1899-1900-ymca-year-book-montreal-roster.txt`. See [f_4976], [f_4977].
