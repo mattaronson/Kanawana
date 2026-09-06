@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 17*
+*Status: draft | Sources: 18*
 *Last Updated: 2026-09-06 (the 1916 fee and season, from a school magazine advertisement)*
 
 ## Overview
@@ -99,7 +99,7 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1964 | 535 (+64 leaders) | — | 120 acres acquired |
 | 1965 | 420 | 1,200 or 1,182 ⚠️ | Attributed to weather, summer school, changed family holidays |
 | 1966 | 488 | 1,323 | 73rd year |
-| 1967 | 421 | 1,098 | Plus 3,000 meals and 2,170 bed-nights for 664 Expo visitors |
+| 1967 | 421 | 1,098 | Plus 3,000 meals and 2,170 bed-nights for 664 Expo visitors. **32% of campers were Y members; almost 40% had spent one or more two-week periods at Kanawana in previous summers**^18 |
 | 1968 | — | +35% on 1967 | **Coeducation begins**; 66 girls registered |
 | 1969 | 622 | 1,613 | A camper drowned this summer |
 | **1970** | — | **1,442** | Registration started slowly and was pulled up by "drench mailings" [f_4845] |
@@ -129,6 +129,8 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | **2023** | **780** | — | |
 
 **A caution on the 1998–2001 figures.** Those four-digit numbers are not comparable with the residential camper counts above them — the 1999-2000 report describes its 1,150 as ages "3–60," which means rentals and off-season use are included. The series breaks there. The 2022 and 2023 figures are residential camper counts again and *are* comparable with the twentieth-century rows.^3
+
+**The one year with a returning-camper rate.** The 1967 report is the only volume in this series that says how many campers had been before: "Some 32% of those who spent their vacation at Kanawana were Y members. Almost 40% had spent one or more two-week periods there during previous summers."^18 Nearly two campers in five were returning, and barely a third came through YMCA membership. No other season in this table has either figure, so neither can be set against a trend.
 
 ### How old the campers were, 1957 and 1958
 
@@ -330,6 +332,7 @@ Three things stand out and none of them is visible from any single article.
 15. YMCA of Montreal annual report for the year ending **31 December 1958** [src_ymf_sgw_ymca_annual_report_1958], the "Kanawana Statistics" table. Read 2026-09-06 under p_441. See [f_5085].
 16. YMCA of Montreal annual reports for the years ending **31 December 1955** and **31 December 1957** [src_ymf_sgw_ymca_annual_report_1955, src_ymf_sgw_ymca_annual_report_1957]. December-year volumes, so their seasons are 1955 and 1957 (see [f_5081]). Read 2026-09-06 under p_441. See [f_5086].
 17. The YMCA of Montreal annual report ordinals, which date both year-end changes and show no volume missing: the 97th (year ending 31 March 1948) through the 100th (31 December 1951), and the 109th through 113th (December 1960, 1961, 1962, then the years ended 31 May 1964 and 1965) [src_ymf_sgw_ymca_annual_report_1948, src_ymf_sgw_ymca_annual_report_1950, src_ymf_sgw_ymca_annual_report_1951, src_ymf_sgw_ymca_annual_report_1962, src_ymf_sgw_ymca_annual_report_1963]. Read 2026-09-06 under p_450. See [f_5090].
+18. YMCA of Montreal annual report for **1967** [src_cache_sgw_ymca_annual_report_1967], camping section. Read 2026-09-06 under p_441. See [f_5096].
 
 ## Research Notes
 

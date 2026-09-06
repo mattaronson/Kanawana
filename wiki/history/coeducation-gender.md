@@ -1,7 +1,7 @@
 # Coeducation and Gender at Kanawana
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-09-06 (a staff of 24 men and women at Kanawana; Camp Perrot's girls' camp, 1945-1948)*
+*Last Updated: 2026-09-06 (the co-ed announcement of 1967, with Seaman's reason in his own words)*
 
 ## Overview
 
@@ -83,6 +83,16 @@ The archives also list a "Boys' Camping Committee. - 1968-1969" alongside a "Cam
 ### The Date Question
 
 There is a discrepancy in the available sources regarding when girls first attended Kanawana:
+
+**The decision was announced publicly, months ahead, and the director said why.** The association's annual report for 1967 carries a section headed simply "Co-ed Camping":
+
+> **Plans to accommodate girls, aged 9-11, at Kamp Kanawana were announced several months before the start of the 1968 summer season.**
+>
+> "**It is natural for boys and girls to grow up together**," commented A. Ross Seaman, Director of Camping. "In providing them with opportunities to do so, **we help prepare them for adolescence**."^ar67
+
+Three things follow. This was a planned, publicised admission rather than a quiet pilot — which is a further reason the "1968 pilot, 1969 formalization" reading below was wrong. It gives the camp's stated reason, in the director's own words, which this article did not have: a developmental argument about children growing up, not an argument about demand, revenue or the camp's survival. And it names an age band.
+
+**On that band, two sources give different numbers and this article is not going to average them.** The announcement plans for girls aged **9 to 11**. McMorris's thesis says the first girls admitted were aged **10 to 12**. A plan is not an outcome and the band may well have been shifted between the announcement and the season, so these need not conflict — but they come from different kinds of source and anyone citing an age range should say which one they are using.
 
 The YMCA Quebec website's official history timeline states "1968" under the heading "Kanawana starts to welcome girl campers." McMorris's thesis confirms that the first girls admitted were aged 10 to 12, entering the youngest section of the camp.^mc The YMCA Kamp Kanawana Facts sheet, a separate institutional document, states that the camp "became coeducational" in 1969. The Concordia archives' Co-ed Camping Pilot Project records span 1967-1970. And the Pathfinder program summary from 1965 may push the timeline even earlier, depending on whether it refers to programming at Kanawana itself.
 
@@ -206,6 +216,7 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 - [dir75] *Canadian Camping* Vol. 27 No. 2 (January 1975), the Canadian Camping Association Directory Issue — the Quebec Camping Association's "Accredited Member Camps" table and its "Grouped Index of Accredited Member Camps" [src_ia_canadian_camping_collection]. Kanawana (90 boys / 90 girls, 8-15) and Les Voyageurs de la Vérendrye (15 boys / 5 girls, 13-17) are listed separately under Derek V. Walsh, both under "Organizational Residential — Co-ed". Cached at `sources/cache/canadian-camping/canadiancampingmagazine_vol27_no2_1975january.txt`. See [f_3816], [f_2287].
 - [ar4345] YMCA of Montreal annual reports for the years ending 31 March **1944** and 31 March **1945**, camps sections [src_ymf_sgw_ymca_annual_report_1944, src_ymf_sgw_ymca_annual_report_1945]. Under the 31 March rule (f_5039) these cover the 1943 and 1944 summer seasons. Read 2026-09-06 under p_441. See [f_5075].
 - [ar4649] YMCA of Montreal annual reports for the years ending 31 March **1946**, **1947**, **1948** and **1949** [src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1947, src_ymf_sgw_ymca_annual_report_1948, src_ymf_sgw_ymca_annual_report_1949]. Under the 31 March rule (f_5039) these cover the 1945-1948 seasons. Camps sections read 2026-09-06 under p_441. See [f_5078], [f_5079].
+- [ar67] YMCA of Montreal annual report for **1967** [src_cache_sgw_ymca_annual_report_1967], the "Co-ed Camping" section. Read 2026-09-06 under p_441. See [f_5095]. *(This volume had a second source record, `src_ia_sgw_annual_report_1967`, marked "extracted" on the strength of two facts citing it rather than on a read; the volume itself had not been read through. See p_442.)*
 
 ## Research Notes
 

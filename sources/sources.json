@@ -7542,7 +7542,7 @@
       "reliability": "primary",
       "notes": "YMCA Montreal annual report 1966-67. Falls within A. Ross Seaman's directorship (1959-1967) and the year Kanawana transitioned to co-ed. Uploaded by Concordia University Records Management. WebFetch returns 403; manual browser download may succeed. THIS IS THE ONLY 1940s-1960s ANNUAL REPORT KNOWN TO BE DIGITIZED. Extracted 2026-07-08 (direct fetch, previously 403-blocked -- see p_159 2026-06-21 note): yielded 5 new facts f_1771-f_1775 (Seaman's 'Director of Camping' title, 1966 season stats, staff training, CIT program, 'participatory democracy' philosophy quote).",
       "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact"
+      "read_state_basis": "derived:cited-by-fact -- NOT a read. [ANNOTATED 2026-09-06: this 'extracted' state was inferred from facts citing the record, not from anyone reading the document. The same volume is cached under a src_cache_ record, which was marked 'unread', and reading it on 2026-09-06 produced three new facts (f_5095, f_5096, f_5097) including the 1967 co-ed camping announcement. DO NOT TREAT 'extracted' ON THIS RECORD AS EVIDENCE THE VOLUME HAS BEEN READ. See p_442.]"
     },
     {
       "source_id": "src_canadiana_ymca_reports",
@@ -12204,7 +12204,7 @@
       "reliability": "primary",
       "notes": "Branch officers table under headings \"BRANCHES / CHAIRMEN / EXECUTIVE SECRETARY\" lists \"Kamp Kanawana  J. Breckenridge  A. Ross Seaman\" -- Kanawana is carried as a BRANCH of the association, with its director in the Executive Secretary column. Also records D.R. Bannerman transferring from Executive Secretary, West Island Branch to Associate Executive Secretary, Metropolitan Office.",
       "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact"
+      "read_state_basis": "derived:cited-by-fact -- NOT a read. [ANNOTATED 2026-09-06: this 'extracted' state was inferred from facts citing the record, not from anyone reading the document. The same volume is cached under a src_cache_ record, which was marked 'unread', and reading it on 2026-09-06 produced three new facts (f_5095, f_5096, f_5097) including the 1967 co-ed camping announcement. DO NOT TREAT 'extracted' ON THIS RECORD AS EVIDENCE THE VOLUME HAS BEEN READ. See p_442.]"
     },
     {
       "source_id": "src_ia_ymca_news_release_1971_01",
@@ -27520,8 +27520,8 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "read_state": "unread",
-      "read_state_basis": "none: catalogued 2026-09-02 from a cached file that belonged to no source record",
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_441: the CAMPING section read end to end -- Kamp Kanawana, Les Voyageurs, Co-ed Camping, fur trade routes, Camp Otoreke, Camp Perrot, day camps, and the Expo retrospective (f_5095, f_5096, f_5097). The rest of the volume is NOT read. DUPLICATE WARNING: this document also has a record under an Internet Archive id, marked 'extracted' on the basis 'derived:cited-by-fact' -- that is, because some fact cited it, NOT because anyone read the volume. The volume had not in fact been read through before today. See p_442.",
       "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read."
     },
     {
@@ -27538,8 +27538,8 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "read_state": "unread",
-      "read_state_basis": "none: catalogued 2026-09-02 from a cached file that belonged to no source record",
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_441: the CAMPING section read end to end -- Kamp Kanawana, Les Voyageurs, Co-ed Camping, fur trade routes, Camp Otoreke, Camp Perrot, day camps, and the Expo retrospective (f_5095, f_5096, f_5097). The rest of the volume is NOT read. DUPLICATE WARNING: this document also has a record under an Internet Archive id, marked 'extracted' on the basis 'derived:cited-by-fact' -- that is, because some fact cited it, NOT because anyone read the volume. The volume had not in fact been read through before today. See p_442.",
       "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read."
     },
     {

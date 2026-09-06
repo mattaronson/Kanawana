@@ -1,7 +1,7 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 33*
-*Last Updated: 2026-09-06 (1,055 campers in 1947, and the women outnumbered the men)*
+*Status: E1-reviewed | Sources: 34*
+*Last Updated: 2026-09-06 (in 1967 it became a department of Downtown Branch)*
 
 ## Overview
 
@@ -143,6 +143,8 @@ decade later helped choose the ski lodge site at Christieville.^32
 **This matters beyond Otoreke.** This wiki treats coeducation as a Kanawana question of the late
 1960s and 1970s. The same association had been running a coeducational camp since 1935, on the very
 islands Kanawana came from.
+
+**In 1967 it stopped being its own unit.** "Camp Otoreke **became a department of Downtown Branch**. It continued to operate a weekend Ski Lodge for young adults and a vacation centre during the summer."^34 Eleven years earlier the association had listed Otoreke among its *branch* chairmen, alongside Central, Westmount and Lachine; now it was a department inside one of them. The report gives no reason and records no change to what the site actually did.
 
 **And by 1947 it was the association's largest camp operation, with women slightly outnumbering men.** The annual report for the year ending 31 March 1948: "The registration was **475 young men, 482 young women and 49 married couples**, a total of **1,055 persons for 11,942 camper-days**. The camp period extended from **June first to September first**, with a daily average of 160 persons during the mid[-season]."^33 Twelve years after the 115 young men and women of that first mixed summer, Otoreke was running a three-month season for over a thousand people, and the women's registration had passed the men's. Kanawana in the same season took 320 boys for 1,394 camper-weeks and would remain boys-only for another twenty years.
 
@@ -602,6 +604,7 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 31. YMCA of Montreal, 78th Annual Report, for the year ending 31 March 1929 [src_ymf_sgw_ymca_annual_report_1929] — camping season the summer of **1928**. See [f_5066].
 32. YMCA of Montreal annual reports for the years ending 31 March **1934** and **1936** [src_cache_sgw_ymca_annual_report_1934, src_cache_sgw_ymca_annual_report_1936] — camping seasons 1933 and 1935. See [f_5071].
 33. YMCA of Montreal annual report for the year ending 31 March **1948** [src_ymf_sgw_ymca_annual_report_1948], camps section — the 1947 season. Read 2026-09-06 under p_441. See [f_5079].
+34. YMCA of Montreal annual report for **1967** [src_cache_sgw_ymca_annual_report_1967], camping section. Read 2026-09-06 under p_441. See [f_5096].
 
 ## Research Notes
 

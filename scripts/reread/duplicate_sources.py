@@ -62,6 +62,11 @@ def load():
     return json.loads((ROOT / "sources" / "sources.json").read_text())["sources"]
 
 
+# Fraction of a cache filename's tokens that must appear in a title for the pair
+# to be reported. 1.0 is strict containment, which is what this script did until
+# 2026-09-06 and which misses the "sgw" case described at the match site below.
+MIN_OVERLAP = 0.75
+
 STOP = {"the", "a", "of", "on", "in", "and", "for", "to", "no", "vol", "pt",
         "txt", "pdf", "report", "season", "s"}
 
@@ -106,7 +111,15 @@ def report_stems(records) -> int:
             if other["source_id"] == r["source_id"]:
                 continue
             title = tokens(other["title"])
-            if stem and stem <= title:
+            # Strict containment misses a pair whose FILENAME carries a token the
+            # title does not. Found 2026-09-06: the stem
+            # "sgw-ymca-annual-report-1966-67" against the title "YMCA Montreal
+            # Annual Report 1966-67" -- the filename says "sgw", the title says
+            # "montreal", and neither is a subset of the other, so a real duplicate
+            # went unreported and the volume was read as if unread. Requiring most
+            # of the stem rather than all of it catches that shape.
+            overlap = (len(stem & title) / len(stem)) if stem else 0.0
+            if stem and (stem <= title or overlap >= MIN_OVERLAP):
                 key = tuple(sorted((r["source_id"], other["source_id"])))
                 if key not in seen:
                     seen.add(key)

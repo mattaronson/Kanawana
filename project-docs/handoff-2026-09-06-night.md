@@ -519,3 +519,43 @@ check cannot see this class of error at all; only the ordering discipline preven
 
 **Run the script first. Put the number it gives you in the prose. There is no version of this where
 you know the number in advance.**
+
+## 39. "extracted" can mean "one fact cites this," and 635 records say it that way
+
+The annual reports for 1966-67 and 1967 were nearly skipped as done. Their Internet Archive
+records read `read_state: extracted`. The basis string, which nobody had looked at, reads
+`derived:cited-by-fact` — the state was inferred from the existence of facts citing the record,
+not from anyone reading the document. Six facts cited one volume and two cited the other.
+
+Neither had been read through. Reading them produced three new facts, one of which is the 1967
+report's **"Co-ed Camping"** section: the public announcement of coeducation months before the
+1968 season, an age band of 9-11, and A. Ross Seaman's reason in his own words. That is among the
+most consequential documents this project has found for `coeducation-gender.md`, and it was
+sitting behind a record that said the volume was finished.
+
+Then the count: **639 of 1,668 source records carry a derived basis**, 635 of them "extracted"
+via `derived:cited-by-fact`. Thirty-eight per cent of the corpus.
+
+Be precise about what that means. It does not mean 635 documents are unread — many were properly
+read and only the basis string is uninformative. It means **the basis cannot distinguish a
+document somebody read from a document one fact happens to cite**, so `extracted` on such a
+record is not evidence of anything. p_441's "729 skimmed sources" is not the unread pile; it is
+the part of the unread pile that admits to being unread. Raised as p_451.
+
+**The check to run before skipping any source as done:** read its `read_state_basis`, not its
+`read_state`. If the basis starts `derived:`, treat the document as unread.
+
+## 40. A subset test fails on the token the filename adds
+
+`duplicate_sources.py --stems` required a cache filename's tokens to be a subset of another
+record's title. The stem `sgw-ymca-annual-report-1966-67` against the title *YMCA Montreal Annual
+Report 1966-67* fails that test in the direction nobody thinks about: the filename says **sgw**,
+the title says **montreal**, and neither set contains the other. A real duplicate went unreported
+and the volume was read as though it were fresh.
+
+Relaxed to require 75% of the stem's tokens rather than all of them. Candidate pairs went 207 to
+283, read-state disagreements 54 to 117.
+
+This is rule 36 again — matching on tokens means matching on how someone chose to spell them —
+but with the twist that the *extra* token is as dangerous as the missing one. A containment test
+has a direction, and the direction is an assumption about which name is fuller. It was wrong here.

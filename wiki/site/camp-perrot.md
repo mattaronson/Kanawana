@@ -1,7 +1,7 @@
 # Camp Perrot
 
-*Status: E1-reviewed | Sources: 18*
-*Last Updated: 2026-09-06 (what it became: a family recreation centre, built up in 1963-64)*
+*Status: E1-reviewed | Sources: 19*
+*Last Updated: 2026-09-06 (130 families in 1966, and a trailer park and pool built for Expo 67)*
 
 ## Overview
 
@@ -49,6 +49,10 @@ That is a distinction the closure question needs. In 1961 the property was still
 The same report does **not** say whether a resident season ran at Perrot in 1961. It describes only the day camp. That is not evidence that none ran.
 
 **And by 1963-64 the association was building it into something else.** The property section of the 112th annual report, covering 1 January 1963 to 31 May 1964, records: "At Camp Perrot, **additional facilities were constructed in conjunction with the development of this property as a family recreation centre**."^18
+
+**And in 1966 and 1967 the property was built out for Expo, and the family programme had a size.** The 1966-67 report: "In preparation initially for the accommodation of Expo visitors, and subsequently **as an expanded site for summer day camp activity**, the Ile Perrot property was developed as a **camping and trailer site** for Expo visitors. It is expected that **two-thirds of the capital investment will be recovered from Expo operations**."^19 The same report gives the programme's scale: "The Ile Perrot family camping program **organized by the West Island Branch** of the Montreal YMCA accommodated **130 families plus 27 groups** from the community."^19 A year later: "To help accommodate Expo visitors, a **trailer park** was built on previously undeveloped sections of the Camp Perrot property. The development included a **new swimming pool** which will be available to participants in the family camping program there."^19
+
+So the site's second life is documented end to end: day camps from 1961, development as a family recreation centre by 1963-64, a family camping programme under West Island Branch taking 130 families in 1966, and a trailer park and pool built for Expo in 1967. The resident boys' and girls' camp is absent from every one of those records, and none of them says when it stopped.
 
 So the shape of the ending is now visible even though its date is not. The residential boys' and girls' camp stopped; the site did not. It carried day camps for two city branches in 1961 and was being built up as a **family recreation centre** two years later. "When did Camp Perrot close" is the wrong question, and the contested chronology above is contested partly because it asks it: what closed was one use of a property the association kept, spent money on, and repurposed. The report does not say when the resident camp last ran.
 
@@ -255,6 +259,7 @@ The earliest known Kanawana-side documentary evidence is a "Comparison of Two Bo
 16. YMCA of Montreal annual reports for the years ending **31 December 1951** and **31 December 1952** [src_ymf_sgw_ymca_annual_report_1951, src_ymf_sgw_ymca_annual_report_1952]. Note the year-end: the association moved from a 31 March to a 31 December financial year with its 100th report, so these describe the summers of 1951 and 1952, not the previous ones (see [f_5081]). Read 2026-09-06 under p_441. See [f_5082].
 17. YMCA of Montreal annual report for the year ending **31 December 1961** [src_ymf_sgw_ymca_annual_report_1961], the "Summer Programs For Youngsters in the City" section. A December-year volume, so its season is 1961 (see [f_5081]). Read 2026-09-06 under p_441. See [f_5089].
 18. YMCA of Montreal, **112th Annual Report**, for the year ended **31 May 1964** [src_ymf_sgw_ymca_annual_report_1963] — a seventeen-month volume covering 1 January 1963 to 31 May 1964 (see [f_5090]), property section. Read 2026-09-06 under p_441. See [f_5093].
+19. YMCA of Montreal annual reports for **1966-67** and **1967** [src_cache_sgw_ymca_annual_report_1966_67, src_cache_sgw_ymca_annual_report_1967]. Read 2026-09-06 under p_441. See [f_5096].
 
 ## Research Notes
 

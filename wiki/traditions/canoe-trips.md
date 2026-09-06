@@ -1,6 +1,6 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 37*
+*Status: E1-reviewed | Sources: 38*
 *Last Updated: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *Last Updated: 2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
 *Last Updated: 2026-07-05 (named trip staff added from photo-mined canoe-trip plaques, p_191 ENRICH pass) — photo gallery added 2026-07-02*
@@ -22,6 +22,16 @@ Two years later the report singles out something else entirely. "**A specific fe
 The report gives no length in days, no distance, no party size and no leader's name, and this article is not going to supply them from the map. What it does establish is that by 1947 Kanawana was running an expedition well beyond the ten-day senior Ottawa River trip that topped the 1945 tiers.
 
 The following summer added a second frontier: in 1948, "in addition to trips up and down the Ottawa River, **senior campers explored the bush country of Lake Nominingue**."^34 Nominingue sits in the upper Laurentians roughly a hundred kilometres north of Saint-Sauveur, and it appears elsewhere in this project only as somebody else's camp address. This is the first record of Kanawana campers there.
+
+### 1966 and 1967: forty-one boys, seven weeks, and a crew whose notes went into a national guide book
+
+The nine of 1964 turned out not to be the shape of the programme. Both the 1966 and the 1967 seasons ran **41**. In 1966, "41 teens from **Halifax, N.S., Arvida, Quebec, Williamstown, Massachusetts** and Montreal enjoyed **seven weeks** of wilderness canoe camping in Northern Quebec."^38 In 1967, "**41 boys, from 13 to 16 years of age** spent a total of **111 camper weeks** canoeing in Northern Quebec. They came from **Greater Montreal, Northern Quebec, Ontario, New Brunswick, Massachusetts, California and Czechoslovakia** to participate in the seven-week experience."^38
+
+The 1966 report treats its own figure as a small fall rather than a rise: "A small year-to-year reduction in the number of participants was attributed to **increased attendance at summer school and poor weather** during the last three weeks of the season."^38 Summer school is the same cause the association gave for the main camp's decline in 1965 — the competitor for a teenager's July was a classroom.
+
+**And in 1967 a Kanawana crew's field notes went into a national publication.** Under the heading "Re-tracing Fur Trade Routes": "**Seven 14-15 year old boys and two counsellors** from Kamp Kanawana re-traced **150 miles of Canada's East-West fur trade routes** in canoes. En route, the members of the group **logged their observations of wild life, water currents, camping facilities, weather conditions, and land structure**. This data, together with similar information by other camps, **is being assembled into a Guide Book for the Canadian Camping Association**."^38
+
+The guide book is not named and this project has not found it. The full digitized run of *Canadian Camping* was read word for word earlier in this project, so the place to look is that run's 1968-1970 issues for an announcement or review of a route guide, and the CCA's own publication list.
 
 ### 1964: nine boys and seven leaders
 
@@ -760,3 +770,4 @@ This is the only itemised cost of a 1920s Canadian canoe trip found by this proj
 35. YMCA of Montreal annual report for the year ending **31 December 1961** [src_ymf_sgw_ymca_annual_report_1961]. A December-year volume, so its season is 1961 (see [f_5081]). Camps section read 2026-09-06 under p_441. See [f_5089].
 36. YMCA of Montreal, **112th Annual Report**, for the year ended **31 May 1964** [src_ymf_sgw_ymca_annual_report_1963] — a seventeen-month volume covering 1 January 1963 to 31 May 1964, so its camping season is the summer of **1963** (see [f_5090]). Read 2026-09-06 under p_441. See [f_5091], [f_5092].
 37. YMCA of Montreal, **113th Annual Report**, for the year ended **31 May 1965** [src_ymf_sgw_ymca_annual_report_1964] — camping section, "Les Voyageurs de la Verendrye." Its camping season is the summer of 1964 (see [f_5090]). Read 2026-09-06 under p_441. See [f_5094].
+38. YMCA of Montreal annual reports for **1966-67** and **1967** [src_cache_sgw_ymca_annual_report_1966_67, src_cache_sgw_ymca_annual_report_1967]. Read 2026-09-06 under p_441. See [f_5097]. *(Both volumes had second source records marked "extracted" from facts citing them rather than from a read — see p_442.)*
