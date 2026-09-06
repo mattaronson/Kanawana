@@ -1,7 +1,7 @@
 # The CIT/LIT Program
 
-*Status: draft | Sources: 10*
-*Last Updated: 2026-09-04*
+*Status: draft | Sources: 11*
+*Last Updated: 2026-09-05*
 
 ## Overview
 
@@ -16,6 +16,39 @@ From 1975 onward — the earliest post-1960 CIT record, a plaque naming Lynne Ro
 ## The LIT Track and Notable Participants
 
 A parallel or overlapping "Leader-in-Training" (LIT) designation is also documented: [[people/notable-alumni/notable-alumni|notable alumnus]] Leigh Evans attended Kanawana for six summers — one as a camper, one as a Leader-in-Training, and four as staff — before being named Capitaine of the Voyageur team in the 2012 L&V Games.^4
+
+## A Quebec camp handed its CITs the accreditation standards, 1974
+
+Three years before the association set out what a CIT was owed, the director of a Quebec camp did
+something with CITs that no Kanawana record describes and that is worth setting beside anything this
+wiki says about what CIT training was for.
+
+**Madelene Allen**, Director of Camp Ouareau at St. Donat and a member of the Quebec Camping Association
+Standards Committee, wrote in Winter/Spring 1974 about living with the provincial standards from inside
+an accredited camp: "We view this tome in different lights depending on the time of year… Even though we
+know we have done our best, **we view it with slight trepidation as we leaf through its pages the night
+before the visitor is expected**."^11
+
+Then she gave the standards *and their marking scheme* to her five CITs at the six-week point of their
+training. In pairs, a week each on different sections, they audited the camp: they **interviewed the
+director with pencil and notebook**, shadowed senior staff, were handed the records of programmes and
+the staff lists, and "**inspected the waterfront, examined the canoes, counted the toilets, and checked
+the outlets of the septic tanks after a heavy rain**."^11
+
+**Two things come out of that paragraph.** The first is what a Quebec standards visitation actually
+covered in 1974 — waterfront, craft, sanitation, programme records, personnel records, and the director
+himself under questioning — which is the same inspection Kanawana submitted to, in the same province,
+under the same association, in the same years [f_3785]. The second is that **there was a written marking
+scheme as well as a standards document**: two record classes rather than one, and both worth naming
+explicitly when asking Concordia after Kanawana's accreditation file (`p_339`). If Quebec re-accredited
+annually, what is missing is not a document but a series — an itemised, externally written assessment of
+Kanawana's administration, personnel, site, programme, health and safety, running from about 1960
+[f_3823].
+
+**And as a piece of CIT training it is unusually pointed.** Handing trainees the instrument by which
+adults judge the camp, and letting them apply it to the people training them, is a different proposition
+from the evaluation obligations the association would spell out three years later. No source says
+Kanawana ever did anything of the kind; no source says it did not.
 
 ## What a CIT Was Owed, Nationally, in 1977
 
@@ -77,6 +110,7 @@ As of 2026, the CIT program is branded "Trailblazers": a 48-day program (four se
 8. Barry Lowes, "And How Was Your Summer? — Evaluating Your Camp," *Canadian Camping* Vol. 29 No. 5 (October 1977), p. 4 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 115).
 9. "A Counsellor and C.I.T. Training Program," *Canadian Camping* Vol. 32 No. 5 (October 1980), pp. 4-5, 12 [src_ia_canadian_camping_collection]. Found by the same read (issue 133). A national outline circulated to member camps, not a Kanawana document.
 10. Mary Milne, "Counsellor in Training Manual Review," p. 15, with the CCA Bookstore order form and chapter list; and the *Camp Counsellor's Handbook* 2nd edition advertisement, p. 8 — both *Canadian Camping* Vol. 36 No. 1 (Spring 1984) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 150).
+11. Madelene Allen (Director, Camp Ouareau, and Quebec Camping Association Standards Committee), *Canadian Camping* Vol. 26 No. 2 (Winter/Spring 1974) [src_ia_canadian_camping_collection]. The night before the visitor, and the five CITs auditing the camp against the standards and their marking scheme. See [f_3784], [f_3785], [f_3823].
 
 ## Research Notes
 

@@ -8516,6 +8516,12 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 133 (Vol. 32 No. 5, October 1980): new section on the association's national counsellor and CIT training outline, whose first heading is Camp History -- camps were expected to give trainees an annual account of their own founding, traditions and how they came by their land -- and on the recommended camp manual as 'a written report for future directors and boards'. Makes a Kanawana staff or camp manual a specific document to look for, and explains the form of the already-cached 1951 'Kamp Kanawana History, presented at a Training Course'. Sources 8 -> 9."
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
         }
       ],
       "ralph_loops_completed": 1,
@@ -8534,7 +8540,10 @@
         "f_1614",
         "f_1615",
         "f_1654",
-        "f_1796"
+        "f_1796",
+        "f_3784",
+        "f_3785",
+        "f_3823"
       ],
       "sources_cited": [
         "src_flickr_kanawana_plaque_album",
@@ -8555,7 +8564,7 @@
         "notable-alumni"
       ],
       "file_id": null,
-      "word_count": 2115,
+      "word_count": 2550,
       "notes": "2026-07-11: Workstream C3 spawn -- structured, decades-spanning program synthesized from 5 scattered articles into a standalone article. No new research conducted. Individual plaque-roster names deliberately not reproduced here (privacy carve-out for C5-listed names already collectively catalogued in directors-index.md). | 2026-08-14 p_226: applied the programs/places BLOCKING fixes from the p_218 audit.",
       "tags": {
         "era": [
