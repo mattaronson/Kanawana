@@ -1,6 +1,6 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 28*
+*Status: E1-reviewed | Sources: 29*
 *Last Updated: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *Last Updated: 2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
 *Last Updated: 2026-07-05 (named trip staff added from photo-mined canoe-trip plaques, p_191 ENRICH pass) — photo gallery added 2026-07-02*
@@ -73,6 +73,107 @@ The same sentence contains a small dating point. Organ "was **the only leader wi
 experience with the Voyageurs**," and the folder went to "all **previous** Voyageurs" — both
 presuppose earlier years, which supports reading the 1959 Older Boys Camp as the same programme
 under an earlier name, and tells against the 1963 report's "three year history."^28
+
+### 1963: the base moves to Lac Landron, and the camp writes down its philosophy
+
+**Lac Landron is not where the Voyageurs started.** The 1963 report opens its base camp section:
+"This year the base camp site was **moved from Lac Nanouaton** to the lower end of Lac Landron."^29
+Lac Nanouaton appears nowhere else in this project. And the lease this article mentions did not
+exist yet: "Because Lac Landron is ideal as a Base Camp set-up, it is strongly recommended that
+**immediate steps be taken to obtain a lease** for the area" — still being urged three years later,
+when the 1966 report asks for efforts "to lease or purchase this land on Lac Landron while it is
+still available."^29
+
+So the sequence is four steps, not one: trips into the park from a base at Kanawana in 1959; a base
+inside the park at **Lac Nanouaton** by about 1960; the move to **Lac Landron** in **1963**; and a
+lease still unobtained in 1963 and unresolved in 1966.
+
+Landron had a cost the report is blunt about — "it is quite a distance from the main highway" — so
+campers were trucked in from the **Barrière Gate** in the camp's own vehicle, "extremely hard on the
+truck and also very inconvenient." A chartered bus was wanted, and two operators are named to try:
+"Edgar Moore in Maniwaki or Romeo in St. Sauveur."^29
+
+**And the philosophy, stated outright.** This is the clearest statement of purpose the Voyageurs
+left, and it is a critique of organised camping written by a camp:
+
+> "It appears that more and more of today's boys have programs planned for them — agencies provide
+> recreation for them, team sports are planned for them, in some cases parents allot
+> responsibilities to them, and **in many camps a Program Director sets down a program they are to
+> follow**. Our idea at Camp Les Voyageurs has been to help the boy use his own initiative within a
+> group setting in the 'bush'. **Our program is merely 'living in the bush'**."^29
+
+It was tested that summer. A dangerous fire hazard locked the camp out of the bush for **twelve
+days** of the first period; lunch fires were banned and cooking moved to the Trail Stove and the
+Coleman, done group by group rather than centrally "so as not to defeat the idea of autonomous
+groups." Planning a programme "would have been the easy way out, but it would have defeated our
+purpose," so each crew was left to entertain itself — and each eventually took on a project, "in
+practically every case the idea… from the boys themselves. One such project was a **Giant Water
+Swing**, an idea which couldn't possibly originate anywhere but in the imaginative group mind of
+five adolescents."^29
+
+Forty boys came that year, twenty-five in the first period and fifteen in the second against a
+capacity of twenty-five. The camp's four stated aims, set beside the YMCA's "Values for Living,"
+were inter-dependency, **self discipline "as opposed to discipline administered by a leader"**,
+being socially comfortable, and "stimulating some thinking for one's self about life in general" —
+with the report admitting that measuring any of it "is practically impossible with the tools we
+have."^29
+
+*One recommendation is worth keeping for what it says about the period:* "A few books should be
+purchased to be made available to campers. (ie) camp craft, nature lore, sex etc. Many such books
+were in the camp this year, but they belonged to Trippers."^29
+
+**On the staff section of the same report.** It assesses six named seasonal staff individually, in
+the frank register of an internal document — who was the season's one weak link, whose temperament
+made a difference, who should be rehired. They were private individuals in their late teens and
+early twenties in 1963, and a published wiki would attach a sixty-year-old workplace judgement to a
+searchable name. The passage is therefore kept but labelled: it is held in full in the knowledge
+base and reproduced below inside an embargo marker, registered as **r_0003**, review date **1 January
+2040**. See `kb/restricted/README.md` for why the material is kept rather than dropped.
+
+Two things in that section are institutional rather than personal and are **not** embargoed. The
+camp ran a deliberate hiring experiment and reported the result: the previous year it had taken a
+tripper with heavy bush skills and no youth-work experience, and "the results were very
+discouraging"; in 1963 it took the opposite — a physical education student with no camp skills — and
+judged the job excellent. And it screened candidates using an "**attitude scale of counselor
+prediction**" attributed to Dr. Dimock, which is a documented instance of mid-century
+counsellor-selection instruments in use at a Montreal YMCA camp.^29
+
+<!-- embargo:r_0003 -->
+*Embargoed material: named 1963 staff assessments, register r_0003, review 2040-01-01.*
+
+**Keith Lewis**, on a second term, "more or less handled the job of Assistant Camp Director"
+although "this was not his official title" — "an excellent 'bushman' and very capable in organizing
+the camp where organization is necessary… perhaps the greatest asset to all mechanical aspects of
+the camp."
+
+**Frank Carpenter**, also on a second term after two years on the base camp staff, took a crew only
+in the first period, and the report is careful to say why: "he was definitely not relieved of these
+duties in the second period because he was a weak member on the staff. Quite to the contrary…" He
+was kept at base camp "because his personality fitted in best with the Director's," has "a profound
+understanding of the philosophy of the camp," and is "strongly recommended" for the following year,
+where "he would be invaluable to the new Director."
+
+**Rusty McKay**, from Western University after several years at Kamp Kanawana, "quick to catch on to
+the philosophy of the camp and very conscientious," but "perhaps a bit idealistic in setting his
+goals for the group, and therefore found it difficult to accept the shortcomings of the group" — an
+"over sensitivity" that "seemed to pay off in the end as he was very effective in finding the
+problem areas."
+
+**Bob McNeil**, the hiring experiment described above, "completely lacking in camp skills" but
+experienced with youth, who "came out very favorable on Dr. Dimock's attitude scale of Counselor
+prediction," appeared "apathetic at the beginning" — "just his manner while warming up to his new
+environment" — read about camping and questioned his colleagues during the training days, and
+"turned in an excellent job."
+
+**Pete Marosi** held one of the two base camp positions created that year, which "worked out very
+well."
+
+**Alex Ross** is named as the single exception to a staff the report otherwise judged to have met
+its requirements "perfectly."
+
+The director's closing recommendation: "I would strongly recommend Bob, Rusty, Frank and Keith for
+staff positions."
+<!-- /embargo:r_0003 -->
 
 ### 1967: a director's report from Lac Landron
 
@@ -349,3 +450,4 @@ This is the only itemised cost of a 1920s Canadian canoe trip found by this proj
 26. "Report of Older Boys Camp, Summer 1959", YMCA of Montreal fonds [src_ymf_1959_report_of_older_boys_camps_summer]. Cached at `sources/cache/ymca-montreal-fonds/1959-report-of-older-boys-camps-summer.txt`. See [f_5017], [f_5018] and [f_5019]. **Two documents are bound into this one scan**: the 1959 report, and an undated tripper's letter to "Dave (Boss)" which is later than it — its base camp is inside the park and Kanawana is down to a week. No year is assigned to the letter.
 27. "Les Voyageurs de la Vérendrye — Camp Director's Report 1967", signed by David Blake [src_ymf_1967_les_voyageurs_de_la_verendrye_camp_directors_report]. Cached at `sources/cache/ymca-montreal-fonds/1967-les-voyageurs-de-la-verendrye-camp-directors-report.txt`. See [f_5020] through [f_5023]. The report refers to directors' reports for **1963, 1964 and 1965**, which this project has not located.
 28. "Les Voyageurs de la Vérendrye, Report for 1960", submitted by Roger Wilson [src_ymf_1960_les_voyageurs_de_la_verendrye_report]. See [f_5025] and [f_5050]. Read for its organisation and promotion sections, its signature block and its surviving appendices; the equipment, food and rating sections are not read, and **the scan stops after Appendix 4** — two appendices listed in the table of contents are not in the digitized text.
+29. "Les Voyageurs de la Vérendrye, Annual Report 1963" [src_ymf_1963_les_voyageurs_de_la_verendrye_annual_report]. Read whole 2026-09-06 under p_441. See [f_5051] and [f_5052]. **Its staff section is embargoed as register entry r_0003** — named end-of-season assessments of six seasonal staff who were private individuals in their late teens and early twenties; see `kb/restricted/README.md`.

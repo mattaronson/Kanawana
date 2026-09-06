@@ -6768,3 +6768,48 @@ One correction fell out of it too. `centennial-1994.md` dated *The Lookout* Vol.
 called its centennial connection a suggestion. The issue is autumn 1993 by its own contents — it
 carries Netherwood's report on the 99th summer and advertises an event for 20 November 1993 — and
 its first sentence is "As Kanawana enters its 100th year." Corrected in place, old wording kept.
+
+## 2026-09-06 — p_441, document twenty-two: the first one that needed the embargo machinery
+
+The 1963 Voyageurs annual report, read whole. Three things came out of it and one of them had to be
+handled rather than just written down.
+
+**Lac Landron is not where the Voyageurs started.** "This year the base camp site was moved from
+**Lac Nanouaton** to the lower end of Lac Landron." That place-name occurs nowhere else in this
+project. And the lease `canoe-trips.md` mentions did not exist: the 1963 report asks that "immediate
+steps be taken to obtain a lease for the area," and the 1966 report is still asking. So the
+sequence is four steps — trips from Kanawana in 1959, a base at Nanouaton by about 1960, the move to
+Landron in 1963, and a lease unresolved through 1966 — where the article had one.
+
+**The camp wrote down its philosophy**, and it is a critique of organised camping written by a camp:
+"in many camps a Program Director sets down a program they are to follow… our program is merely
+'living in the bush'." It was tested that summer, when a fire hazard locked the camp out of the bush
+for twelve days and planning something "would have been the easy way out." Each crew invented its
+own project instead, including a Giant Water Swing "which couldn't possibly originate anywhere but
+in the imaginative group mind of five adolescents."
+
+**And the staff section assesses six named men individually** — who was the season's one weak link,
+whose temperament mattered, who should be rehired. They were private individuals in their late teens
+and early twenties in 1963. This is exactly the class CLAUDE.md's amendment covers, and this is the
+first document of the p_441 pass to contain it, so it got the full treatment rather than a note
+saying it was deferred: the passage is written into `canoe-trips.md` where it belongs, wrapped in
+`<!-- embargo:r_0003 -->` markers with a plain note outside them saying what it is and when it
+reviews; the fact carries a `publication` block; and `kb/restricted/register.jsonl` gains r_0003,
+review 1 January 2040 on the later of record + 75 and estimated birth + 100.
+
+Two elements of that section are institutional rather than personal and are deliberately left
+outside the block: the camp ran a **hiring experiment** — bush skills without youth-work experience
+one year, the reverse the next, and it reports both results — and it screened candidates on an
+"**attitude scale of counselor prediction**" attributed to Dr. Dimock, which is a documented use of
+a mid-century counsellor-selection instrument at a Montreal YMCA camp. Those are worth having in the
+open, and separating them is the point of labelling rather than deleting.
+
+**Two errors caught by the guard, both mine.** The register rejected four field names I invented
+instead of reading the schema. And `restricted_guard` flagged a name from f_5053 appearing loose in
+an unrelated article — which turned out to be a false positive on my own prose: the claim opened
+"THE 1963 REPORT'S STAFF SECTION", and the name-matcher reads "REPORT'S STAFF" as a personal name.
+Reworded. The check was right to be noisy; a check that only fires on real names would miss the ones
+it cannot recognise.
+
+**The 1974 and 1979 Voyageur reports can now be done the same way.** They were set aside this
+morning for want of exactly this pattern.

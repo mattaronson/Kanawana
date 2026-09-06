@@ -1,8 +1,8 @@
 {
-  "version": "7.48",
-  "kb_version": "7.48",
+  "version": "7.49",
+  "kb_version": "7.49",
   "migrated_from": "3.3",
-  "fact_count": 5012,
+  "fact_count": 5015,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -90313,6 +90313,72 @@
       "conflicts_with": [],
       "added_version": "7.48",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5051",
+      "category": "programs",
+      "date_ref": "1963",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "La Verendrye Park"
+      ],
+      "claim": "THE CAMP WROTE DOWN ITS PHILOSOPHY, AND IT IS A PHILOSOPHY OF NOT PROGRAMMING. The 1963 annual report states it directly: 'It appears that MORE AND MORE OF TODAY'S BOYS HAVE PROGRAMS PLANNED FOR THEM -- agencies provide recreation for them, team sports are planned for them, in some cases parents allot responsibilities to them, and IN MANY CAMPS A PROGRAM DIRECTOR SETS DOWN A PROGRAM THEY ARE TO FOLLOW. Our idea at Camp Les Voyageurs has been to HELP THE BOY USE HIS OWN INITIATIVE WITHIN A GROUP SETTING IN THE \"BUSH\". OUR PROGRAM IS MERELY \"LIVING IN THE BUSH\"...' That is an explicit critique of organised camping written by a YMCA camp in 1963, and it governed practice: when a twelve-day forest closure trapped the camp at base, 'to plan some program would have been the easy way out, but it would have defeated our purpose. In following the camp's purpose, we therefore LEFT EACH GROUP TO PROVIDE THEIR OWN ENTERTAINMENT.' Every crew eventually took on a project, and 'in practically every case the idea for the project came from the boys themselves. One such project was a GIANT WATER SWING, an idea which couldn't possibly originate anywhere but in the imaginative group mind of five adolescents.' THE SEASON: FORTY BOYS, twenty-five in the first period and fifteen in the second against a capacity of twenty-five -- 'the largest enrollment of its three year history' (on which see f_5026). A DANGEROUS FIRE HAZARD LOCKED THE CAMP OUT OF THE BUSH FOR TWELVE DAYS of the first period; lunch fires were forbidden and the Trail Stove and Coleman Stove carried the cooking, done group by group rather than centrally so as not to 'defeat the idea of autonomous groups'. When the forests reopened only eight days remained for tripping. THE SECOND PERIOD ran three groups, each taking a five-day orientation trip then a sixteen-to-eighteen-day one, and the three chose differently -- one crew made its own base camp on a secluded lake and stayed, meeting 'Indian encampments, and nature signs such as wolf tracks, beaver teeth'; one moved site to site; the third 'took a very long and rough trip' which 'tended to bring the crew together into a more closely working group, which was the desired result.' THE CAMP'S FOUR STATED AIMS, set against the YMCA's 'Values for Living': INTER-DEPENDENCY, SELF DISCIPLINE 'as opposed to discipline administered by a leader', BEING SOCIALLY COMFORTABLE, and 'stimulating some thinking for one's self about life in general'. The report is honest that it cannot measure them: 'to adequately measure success in these areas is practically impossible with the tools we have... our findings are very subjective.'",
+      "sources": [
+        "src_ymf_1963_les_voyageurs_de_la_verendrye_annual_report"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.49",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5052",
+      "category": "site",
+      "date_ref": "1963",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "Lac Landron",
+        "Lac Nanouaton",
+        "La Verendrye Park"
+      ],
+      "claim": "LAC LANDRON BECAME THE BASE CAMP IN 1963, AND THE PREVIOUS BASE WAS LAC NANOUATON. The 1963 report opens its Base Camp section: 'THIS YEAR THE BASE CAMP SITE WAS MOVED FROM LAC NANOUATON TO THE LOWER END OF LAC LANDRON. Much of the appeal this area offers was described in last year's report, and following a summer's experience in the area, we found it more than lived up to expectations.' LAC NANOUATON OCCURS NOWHERE ELSE IN THIS PROJECT -- checked by grep across kb, wiki and sources. THE LEASE DID NOT EXIST YET: 'Because Lac Landron is ideal as a Base Camp set-up, IT IS STRONGLY RECOMMENDED THAT IMMEDIATE STEPS BE TAKEN TO OBTAIN A LEASE FOR THE AREA.' Three years later the 1966 report is still urging it -- 'efforts should be made directly to lease or purchase this land on Lac Landron while it is still available'. THIS CORRECTS THE SHAPE OF THE STORY wiki/traditions/canoe-trips.md tells, which has the camp choosing La Verendrye in 1959 and securing a 25-acre lease at Lac Landron as though in one movement. The sequence is: 1959 trips into the park from a base at Kanawana (f_5017); a base inside the park at LAC NANOUATON by 1960-62; the move to LAC LANDRON in 1963; and the lease still unobtained in 1963 and still being urged in 1966. THE OTHER PROBLEM WITH LANDRON, stated: 'it is quite a distance from the main highway', so campers had to be trucked from the BARRIERE GATE in the camp's own truck, 'extremely hard on the truck and also very inconvenient'. The report wants a chartered bus and names two operators to approach -- 'EDGAR MOORE in MANIWAKI or ROMEO in ST. SAUVEUR'. AND ONE RECOMMENDATION WORTH KEEPING FOR WHAT IT SAYS ABOUT THE PERIOD: 'A few books should be purchased to be made available to campers. (ie) camp craft, nature lore, SEX etc. Many such books were in the camp this year, but they belonged to Trippers, and although they were available to campers, I am not sure the campers were aware of this.'",
+      "sources": [
+        "src_ymf_1963_les_voyageurs_de_la_verendrye_annual_report"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.49",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5053",
+      "category": "people",
+      "date_ref": "1963",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "Keith Lewis",
+        "Frank Carpenter",
+        "Rusty McKay",
+        "Bob McNeil",
+        "Pete Marosi",
+        "Alex Ross",
+        "Hedley Dimock"
+      ],
+      "claim": "THE STAFF SECTION OF THE 1963 REPORT IS A SET OF NAMED, EVALUATIVE END-OF-SEASON ASSESSMENTS OF SEASONAL STAFF, AND IT IS EMBARGOED. Six men are assessed individually by the director, in the frank register of an internal report: KEITH LEWIS, on a second term, who 'more or less handled the job of Assistant Camp Director' though 'this was not his official title', called 'an excellent \"bushman\"' and 'perhaps the greatest asset to all mechanical aspects of the camp'; FRANK CARPENTER, also on a second term after two years on the base camp staff, kept at Base Camp in the second period not as a demotion but 'because his personality fitted in best with the Director's', credited with 'a profound understanding of the philosophy of the camp' and strongly recommended for rehire; RUSTY McKAY, from Western University after several years at Kamp Kanawana, 'quick to catch on to the philosophy' and 'perhaps a bit idealistic in setting his goals for the group, and therefore found it difficult to accept the shortcomings of the group', an 'over sensitivity' the director judged to have paid off; BOB McNEIL, hired as a deliberate experiment -- 'last year we hired a Tripper with a great deal of skills in the bush but lacking in experience working with youth. The results were very discouraging. This year we hired Bob who was completely lacking in camp skills, but had experience working with youth through his Physical Education course at Western University' -- who also 'came out very favorable on DR. DIMOCK'S ATTITUDE SCALE OF COUNSELOR PREDICTION' and turned in 'an excellent job'; PETE MAROSI in one of two base camp positions created that year; and ALEX ROSS, named as the one exception to a staff otherwise judged to have met the camp's requirements. THE PASSAGE IS HELD IN FULL IN THE CACHED SOURCE AND IN THE ARTICLE UNDER AN EMBARGO MARKER, NOT DELETED. Two things in it are institutional rather than personal and are not embargoed: the hiring experiment itself, which tests skills-versus-youth-work as a selection principle and reports the result; and the use of an ATTITUDE SCALE OF COUNSELOR PREDICTION attributed to Dr. Dimock -- Hedley Dimock, whose father this project already connects to Kanawana -- which is a documented instance of mid-century camp-counsellor screening instruments in use at a Montreal YMCA camp.",
+      "sources": [
+        "src_ymf_1963_les_voyageurs_de_la_verendrye_annual_report"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.49",
+      "added_by": "ralph_loop",
+      "publication": {
+        "status": "embargoed",
+        "register_id": "r_0003",
+        "review_on": "2040-01-01",
+        "basis": "later of record date + 75 and estimated birth + 100",
+        "why": "Named end-of-season judgements of seasonal staff who were private individuals in their late teens and early twenties in 1963, including a man named as the season's one weak link and another whose temperament is discussed at length. Held in the knowledge base and written into the article behind a marker; withheld from any published surface, where it would attach a sixty-year-old workplace assessment to a searchable name."
+      }
     }
   ]
 }
