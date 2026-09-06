@@ -1,7 +1,7 @@
 # Between Centennials (1968–1993)
 
-*Status: draft | Sources: 19*
-*Last Updated: 2026-09-04*
+*Status: draft | Sources: 20*
+*Last Updated: 2026-09-06 (p_367: the movement's own 1972-73 'Threat to Camping' frame, and the 1972 unemployment-insurance change)*
 
 ## Overview
 
@@ -34,6 +34,38 @@ Two entries in the Canadian Camping Association's national Directory Issues give
 Several things follow for this decade. **Coeducation is registered as near-parity, not as a policy in progress**: ninety and ninety in 1975, ninety-eight and ninety-one in 1976, the same age band for both. **The camp's own headline description of itself changed between the two years** — swimming and the C.I.T. programme drop out of the five listed activities and canoeing and orienteering come in, which is a small but real signal about where the emphasis was moving. **Total registered capacity rose from 180 to 189.** And the 1976 fee gives a figure this article has never had: $210 for the standard two-week session, with a marginal rate of $190 for each further fortnight — a deliberate discount for longer stays.
 
 The **1976 season also ran straight through the Montreal Olympics** (17 July – 1 August), which fell across the end of the second session and the start of the third; camps nearer the city were advertising group accommodation to Olympic visitors in the same issue.^14 Whether that affected Kanawana's registration or programme is not recorded anywhere read so far, and is worth asking of the 1976 director's report.
+
+### The movement dated its own crisis, and Kanawana's 1970s should be read inside it
+
+Before any of the above is read as a story about one camp, it is worth knowing that the whole
+Canadian camping movement believed itself to be in trouble from 1972, and said so in its own
+president's voice.^20
+
+**John Latimer**, president of the Canadian Camping Association, in the autumn of 1972: "**Camping is
+having difficulties** and it is now our job to seek out the reasons and endeavour to overcome the
+causes. **Government legislation and 'red tape'; increased operational and land costs; more
+competition; more alternatives for parents and children; less public awareness; higher standards** …
+the list could go on and on." He closes: "**We are being threatened and we must do something about
+it!**" The association acted on it as a question about survival: the National Camp Directors Workshop
+held at **Geneva Park, Ontario, 1–4 February 1973**, was titled "**The Threat to Camping — What does
+Camping have to do to survive?**"^20
+
+**One of the cost pressures is federal, dated, and applies to Kanawana directly.** From 1972,
+counsellors and instructors in summer camps were in insurable employment: "Unemployment Insurance
+payments are required and **the Camp itself must also pay a premium**," with **no minimum age
+exemption**, no exemption for citizens of other countries, and none any longer for camp staff who were
+teachers or nurses the rest of the year. The threshold was published the following season: "anyone who
+receives a **minimum salary (including room and board) of $30.00 a week or more** must pay unemployment
+insurance — no matter what age — no matter what nationality." A reduced rate applied for 1972-73-74
+where the camp was run by a charitable institution, which the YMCA of Montreal was, and again for staff
+whose work was mostly teaching or instructing.^20
+
+Two consequences. **The camp's payroll costs rose in 1972 by an amount set in Ottawa**, at the front
+end of the decade in which its own record thins — so the thinning, the 1978 Quebec enrolment findings
+below, and this are three views of one squeeze rather than three separate facts. And **from 1972 every
+Kanawana counsellor and instructor generated federal employment paper**, which is a body of record
+about the camp's staff that exists outside the YMCA's own files and that this project has never looked
+for.
 
 ### Quebec camps were losing campers, and said so in 1978
 
@@ -91,6 +123,7 @@ The 1980s are, after the 1947–1958 postwar gap, the thinnest-documented decade
 17. Jocelyn Palm, "President's Perspective," *Canadian Camping* Vol. 35 No. 4, Winter 1984, p. 6 [src_ia_canadian_camping_collection] — a 180° rotated scan, decoded with `scripts/reread/unrotate.py` and verified character by character.
 18. Jocelyn Palm, "President's Perspective," p. 3, and the International Youth Year Task Force colophon, p. 4 — *Canadian Camping* Vol. 37 No. 1, Spring 1985 [src_ia_canadian_camping_collection]. Clean type.
 19. Jay Netherwood (Camp Kanawana), "L'Étranger" / "The Stranger," *Canadian Camping Magazine* Vol. 39 No. 3 (Winter 1988), pp. 18-19 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 164).
+20. John Latimer, "A Letter from the President," and the calendar of meetings in "Cross Canada Checkup," *Canadian Camping* Vol. 25 No. 1 (Fall 1972), pp. 4-5 and 20; John Latimer, "Unemployment Insurance Changes," Vol. 24 No. 3 (Spring 1972); and "FLASH! Re: Unemployment Insurance," Vol. 24 No. 4 (Summer 1972) [src_ia_canadian_camping_collection]. Written up 2026-09-06 under p_367. See [f_4931].
 
 ## Research Notes
 

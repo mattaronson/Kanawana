@@ -1,8 +1,8 @@
 {
-  "version": "6.68",
-  "kb_version": "6.68",
+  "version": "6.69",
+  "kb_version": "6.69",
   "migrated_from": "3.3",
-  "fact_count": 4892,
+  "fact_count": 4893,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87868,6 +87868,24 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.68",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4931",
+      "category": "movement",
+      "date_ref": "1972/1973-02",
+      "entities": [
+        "Canadian Camping Association",
+        "John Latimer",
+        "Geneva Park"
+      ],
+      "claim": "THE MOVEMENT DATED ITS OWN CRISIS: 'THE THREAT TO CAMPING', 1972-73. John Latimer, president, in his letter in the Fall 1972 issue: \"Camping is having difficulties and it is now our job to seek out the reasons and endeavour to overcome the causes. Government legislation and 'red tape'; increased operational and land costs; more competition; more alternatives for parents and children; less public awareness; higher standards . . . the list could go on and on and it therefore becomes the responsibility of every Camp Director in Canada to become more involved and more supportive of their own Provincial Associations, for if these associations become weak and without meaning, then camping is indeed in trouble.\" He closes: \"We are being threatened and we must do something about it!\" The same issue's calendar fixes the response: at Geneva Park, Ontario, 1-4 February 1973, a CCA Executive Meeting, a National Standards Committee Workshop, and a NATIONAL CAMP DIRECTORS WORKSHOP TITLED \"The Threat to Camping -- What does Camping have to do to survive?\" ONE OF THE COST PRESSURES IS DOCUMENTED IN THE SAME YEAR AND IS FEDERAL. John Latimer, \"Unemployment Insurance Changes\", Spring 1972: \"Individuals who are employed in Summer Camps as Counsellors and Instructors are in insurable employment and Unemployment Insurance payments are required and the Camp itself must also pay a premium\"; citizens of other countries are NOT exempt; \"There is no minimum age exemption\"; camp personnel employed as teachers and nurses the rest of the year \"are no longer exempt\"; and a reduced rate applies for 1972-73-74 where the camp is operated by a charitable institution. The Summer 1972 issue adds the threshold: \"anyone who receives a minimum salary (including room and board) of $30.00 a week or more must pay unemployment insurance -- no matter what age -- no matter what nationality\", and that a counsellor whose services are mostly teaching or instructing falls in a \"teaching class\" at the reduced premium for 1972/73/74.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.69",
       "added_by": "ralph_loop"
     }
   ]

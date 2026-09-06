@@ -4661,7 +4661,8 @@
       "status": "pending",
       "created": "2026-09-05",
       "source": "word-for-word read of Canadian Camping, issues 94-96, converted to KB facts",
-      "blocked_on": null
+      "blocked_on": null,
+      "notes": "2026-09-06 (p_367): the reasoning behind this request is now written into wiki/history/between-centennials.md, with the 1972 insurable-employment change quoted from the association's own pages and the $30.00-a-week threshold. Fact f_4931. The ask itself is unchanged and still needs a human."
     },
     {
       "priority_id": "p_367",
@@ -4669,10 +4670,12 @@
       "type": "WRITE",
       "description": "USE THE 1972-73 'THREAT TO CAMPING' FRAME WHEN WRITING KANAWANA'S 1970s. The movement dated its own crisis precisely. John Latimer, Fall 1972: 'Camping is having difficulties... Government legislation and red tape; increased operational and land costs; more competition; more alternatives for parents and children; less public awareness; higher standards... We are being threatened and we must do something about it!' The CCA's National Camp Directors Workshop at Geneva Park, 1-4 February 1973, was titled 'The Threat to Camping -- What does Camping have to do to survive?' Two concrete cost pressures are documented in the same issues: unemployment insurance becoming payable on camp staff from 1972 at 1.4 times the employee's rate for the employer, and Ontario sales tax on camp fees above a threshold. Any account of Kanawana's own difficulties in the 1970s should be written inside this frame rather than as a story about one camp, and the wiki should say so explicitly.",
       "weight": 7,
-      "status": "pending",
+      "status": "complete",
       "created": "2026-09-05",
       "source": "word-for-word read of Canadian Camping, issues 94-96, converted to KB facts",
-      "blocked_on": null
+      "blocked_on": null,
+      "resolved": "2026-09-06",
+      "resolution": "Written into between-centennials.md as a subsection placed BEFORE the 1978 Granek findings, since it is the earlier frame and the article should meet it first: Latimer's autumn 1972 letter in full, the Geneva Park workshop of 1-4 February 1973 and its title, and the 1972 unemployment-insurance change with its particulars -- no minimum age exemption, no exemption for non-citizens, teachers and nurses no longer exempt, the reduced rate for charitable institutions in 1972-73-74, and the $30.00-a-week threshold published the following season. The priority's other cost item, Ontario sales tax on camp fees, is not written up: it is Ontario's and does not reach a Quebec camp. Nor is its '1.4 times the employee's rate' figure, which is not in the passages read. The two consequences stated in the article: Kanawana's payroll costs rose in 1972 by an amount set in Ottawa, at the front end of the decade in which its own record thins, so the thinning, the 1978 Quebec enrolment findings and this are three views of one squeeze; and from 1972 every Kanawana counsellor and instructor generated federal employment paper, a body of record outside the YMCA's own files that this project has never looked for (see p_366). Fact f_4931."
     },
     {
       "priority_id": "p_368",
