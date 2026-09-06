@@ -20497,12 +20497,12 @@
       "cache_path": "sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-1932.txt",
       "char_count": 82691,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
-      "extraction_version": "v5.60",
+      "extracted": true,
+      "extraction_version": "v8.32",
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. | 2026-09-06 (p_449): searched for 'nationalit' and 'racial'; the hits are Eastern Branch membership counts, not camp records (f_5069). A SEARCH, NOT A READ -- read_state unchanged.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_454: the four Kanawana mentions read in context -- the Westmount branch report's camping paragraph and the summary tables (f_5179). THE REST OF THE VOLUME IS NOT READ. This is an ALL-CAPITALS SCAN with visible character damage; figures from it should be treated as such."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1933",
@@ -20515,12 +20515,12 @@
       "cache_path": "sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-1933.txt",
       "char_count": 76470,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
-      "extraction_version": "v5.60",
+      "extracted": true,
+      "extraction_version": "v8.32",
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_454: the five Kanawana mentions read in context -- Central's Senior Division on the Fossils, and the residence laundry paragraph naming Camps Otoreke and Kanawana (f_5180, f_5181). THE REST OF THE VOLUME IS NOT READ. All-capitals scan with visible character damage."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1938",

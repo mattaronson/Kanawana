@@ -157,6 +157,32 @@ And "a group of business men members and dormitory residents of the Westmount Y.
 responsible for making possible a two weeks' camp experience for **15 boys from the Protestant
 Orphanage and 2 boys from the School for the Blind**."^ar28
 
+**The Fossils kept scaling up as the Depression deepened, and Kanawana was not where most Westmount
+boys went.** Two later reports carry the same club. For the summer of 1931, Westmount's own branch
+report: "The Branch had **122 members at our own Kamp Kanawana** last summer and **269 members
+attended 13 other camps in Canada and the United States**. Westmount supplied 50 older boys for camp
+leadership — **12 for Kanawana and 38 for seven other camps**. Westmount also made it possible for
+**43 underprivileged boys** to enjoy two weeks at camp — **the Fossils paying for 24**, the Westmount
+Rotary Club for 5, and friends for 4."^ar32 For the summer of 1932, under Central's Senior Division:
+"The Fossils and Grads. Club held weekly supper meetings with speakers and special programs. **The
+Fossils Show enabled them to send 35 boys to Kanawana for two weeks each.**"^ar33
+
+So the scholarship series runs **14 in 1927, 24 in 1931, 35 in 1932** — rising as the Depression bit,
+which is the opposite of what a club's fundraising might be expected to do. Two cautions: the 1931
+figure is the Fossils' share of a branch total rather than the club's own programme, so the three
+numbers may not measure quite the same thing; and the club's branch moves between the reports, from
+"a young men's club in the Westmount Branch" in 1928 to "the Fossils and Grads. Club" under Central
+in 1933. Whether that is one club that moved, a second chapter or a reporting convention, the reports
+do not say. (The 1931 subsidy split does not close either: 24 and 5 and 4 make 33, not 43. The page
+is an all-capitals scan with visible character damage in the same paragraph, so a dropped funder line
+is as likely as an error in the report.)
+
+The other number is the one worth sitting with. **Two Westmount boys went to somebody else's camp for
+every one who went to Kanawana**, and on the leadership side it was better than three to one across
+seven other camps. This project treats Kanawana as the Montreal YMCA's camp and the branches as its
+feeders; on one branch's figures, in one year, the branch was feeding the whole North American camp
+market and Kanawana took about a third of it. The report does not name the thirteen camps.
+
 The season took 329 boys with 19 tent leaders and a staff of 13, "the second largest attendance ever
 known at Kanawana," drawing not only from the association's eight city branches but from Quebec,
 Farnham, Ormstown, Thetford Mines, Châteauguay, Longueuil and Pointe Claire.^ar28
@@ -455,6 +481,8 @@ environmental-education positioning without originating from it.
 
 ## Sources
 - **ar96** — Montreal YMCA annual report **1996** [src_cache_sgw_ymca_annual_report_1996], the Kamp Kanawana page. Read 2026-09-06 under p_454; the volume had been marked unread and has no Wayback twin.
+- **ar32** — YMCA of Montreal annual report for the year ending 31 March 1932 [src_ymf_sgw_ymca_annual_report_1932], the Westmount branch report, camping season **1931**. Read 2026-09-06 under p_454. See [f_5179].
+- **ar33** — YMCA of Montreal annual report for the year ending 31 March 1933 [src_ymf_sgw_ymca_annual_report_1933], Central's Senior Division, camping season **1932**. Read 2026-09-06 under p_454. See [f_5180].
 - **ar37** — YMCA of Montreal Annual Report for the year ending 31 March 1937 [src_cache_sgw_ymca_annual_report_1937], camping season **1936**. See [f_5072].
 - **ar38** — the same series for the year ending 31 March 1938 [src_ymf_sgw_ymca_annual_report_1938], camping season **1937**. See [f_5073].
 - **ar39** — the same series for the year ending 31 March 1939 [src_ymf_sgw_ymca_annual_report_1939], camping season **1938**. See [f_5073].

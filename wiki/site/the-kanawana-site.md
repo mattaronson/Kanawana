@@ -1,6 +1,6 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 56*
+*Status: E1-reviewed | Sources: 57*
 *Last Updated: 2026-09-06 (a land purchase in 1963-64, which would explain the jump from 600 acres to 1,000)*
 
 ## Overview
@@ -249,6 +249,17 @@ use. The page also gives the staff as three roles: "the **Director**, a **Doctor
 **Educational Supervisor**." A doctor resident at camp in 1919 is earlier than anything else this
 project holds on medical provision, and it sits sixty years before the infirmary standard below.
 
+**Where the laundry went.** The camp's washing was not done at the camp. The annual report for the
+year ending 31 March 1933, describing the new laundry in the Central residence building on Drummond
+Street: "At the present time the laundry is doing all of the work of the Residence Building, the
+Central and Westmount Branches, **Camps Otoreke and Kanawana**, as well as the major portion of the
+residents' personal work. The monthly average was **45,860 pieces**, which it is stated represents
+more work than that being done by the Windsor and Queen's hotels combined."^57 Bedding and linen from
+a camp forty-five miles up the CPR line came back to the city to be washed, alongside Otoreke's. The
+45,860 is the whole plant's monthly average across all five users and not the camps' share, which the
+report does not break out; and since the report's year ends in March, "at the present time" is the
+off-season, so the camps are named as customers of the plant rather than as users in that month.
+
 **What was inside the infirmary — the national standard, 1978.** Kanawana's own records do not describe the contents of its infirmary, but the camping association it belonged to published a recommended list, written by **J. Harry Ebbs, M.D., F.R.C.P.**, for "a residential summer camp for children with an enrolment of about fifty to one hundred campers" — half Kanawana's size, so a floor rather than a match.^43 It is a useful measure of what a Canadian camp infirmary of this period was expected to hold, and of how much medicine a camp practised on its own.
 
 The equipment is what a small ward needed: a wash basin for each infirmary bed, solution and kidney basins, adult and child bedpans, **a folding stretcher, adjustable crutches, balance scales, an electric sterilizer, a goose-neck lamp, a small refrigerator and a locked metal cabinet**; scissors, splinter and dressing forceps, two haemostats; graduated medicine glasses, droppers, **twenty-five disposable hypodermic syringes and twenty-five needles**; gauze, crepe, flannel and triangular bandages by the dozen.
@@ -389,6 +400,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 54. YMCA of Montreal, **112th Annual Report**, for the year ended **31 May 1964** [src_ymf_sgw_ymca_annual_report_1963] — property section: "Additional property was purchased by Kamp Kanawana." Read 2026-09-06 under p_441. See [f_5093].
 55. YMCA of Montreal annual report 2006 [src_ymf_sgw_ymca_annual_report_2006]: "our exceptional 550-acre site located near Saint-Sauveur". Read 2026-09-06.
 56. *Montreal Men*, the YMCA of Montreal's annual report for the year ending 30 April 1919 [src_ymf_sgw_ymca_annual_report_1919_montreal_men], the recruiting page headed "Camp Kanawana." Read 2026-09-06 under p_454. See [f_5178].
+57. YMCA of Montreal annual report for the year ending 31 March 1933 [src_ymf_sgw_ymca_annual_report_1933], on the Central residence building's laundry. Read 2026-09-06 under p_454. See [f_5181].
 
 ## Research Notes
 

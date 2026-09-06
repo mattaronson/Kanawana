@@ -1,8 +1,8 @@
 {
-  "version": "8.31",
-  "kb_version": "8.31",
+  "version": "8.32",
+  "kb_version": "8.32",
   "migrated_from": "3.3",
-  "fact_count": 5140,
+  "fact_count": 5143,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -92645,6 +92645,61 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.30",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5179",
+      "category": "operations",
+      "date_ref": "1931",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal",
+        "Westmount Branch",
+        "The Fossils"
+      ],
+      "claim": "MORE WESTMOUNT BOYS WENT TO OTHER PEOPLE'S CAMPS THAN TO KANAWANA. The YMCA of Montreal annual report for the year ending 31 March 1932, Westmount branch, on the summer of 1931: 'THE BRANCH HAD 122 MEMBERS AT OUR OWN KAMP KANAWANA LAST SUMMER AND 269 MEMBERS ATTENDED 13 OTHER CAMPS IN CANADA AND THE UNITED STATES. WESTMOUNT SUPPLIED 50 OLDER BOYS FOR CAMP LEADERSHIP -- 12 FOR KANAWANA AND 38 FOR SEVEN OTHER CAMPS. WESTMOUNT ALSO MADE IT POSSIBLE FOR 43 UNDERPRIVILEGED BOYS TO ENJOY TWO WEEKS AT CAMP -- THE FOSSILS PAYING FOR 24, THE WESTMOUNT ROTARY CLUB FOR 5, AND FRIENDS FOR 4.' TWO TO ONE AGAINST THE ASSOCIATION'S OWN CAMP, and better than three to one on the leadership side: Westmount was a bigger supplier of staff to seven other camps than to Kanawana. This project has treated Kanawana as the Montreal YMCA's camp and its branches as its feeder; on this one branch's numbers, in one year, the branch is a feeder to the whole North American camp market and Kanawana takes about a third of it. THE REPORT DOES NOT NAME THE THIRTEEN CAMPS. THE SUBSIDY FIGURES DO NOT ADD UP: 24 plus 5 plus 4 is 33, not 43. This is an all-capitals OCR with visible character damage in the same paragraph ('UNDERPRIVILEGEO'), so a dropped funder line is at least as likely as an error in the report. USE 43 AS THE TOTAL, which is the number stated, and treat the split as incomplete.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1932"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.32",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5180",
+      "category": "operations",
+      "date_ref": "1932",
+      "entities": [
+        "Camp Kanawana",
+        "The Fossils",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE FOSSILS' CAMP SCHOLARSHIPS SCALED UP THROUGH THE DEPRESSION, AND NOW HAVE THREE READINGS. The annual report for the year ending 31 March 1933, Central's Senior Division: 'THE FOSSILS AND GRADS. CLUB HELD WEEKLY SUPPER MEETINGS WITH SPEAKERS AND SPECIAL PROGRAMS. THE FOSSILS SHOW ENABLED THEM TO SEND 35 BOYS TO KANAWANA FOR TWO WEEKS EACH.' Set beside what traditions/programs-activities.md already carries -- the Fossils financing 14 camp scholarships in 1927, chosen 'on the basis of their leadership possibilities' -- and f_5179's 24 in 1931, the series runs 14, 24, 35 across 1927, 1931 and 1932. IT RISES AS THE DEPRESSION DEEPENS, which is the opposite of what a club's fundraising might be expected to do, and it more than doubles. TWO CAUTIONS. The 1927 and 1932 figures are Fossils-funded places; the 1931 figure is the Fossils' share of a 43-boy Westmount total, so the three are not certainly measuring the same thing. AND THE CLUB'S BRANCH MOVES: the 1928 report calls the Fossils 'a young men's club in the Westmount Branch' and the 1931 numbers come from Westmount, but this 1933 passage sits under CENTRAL'S Senior Division as 'the Fossils and Grads. Club'. Whether that is one club that moved, a second chapter, or a reporting convention, the reports do not say.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1933"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.32",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5181",
+      "category": "site",
+      "date_ref": "1932",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Otoreke",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE CAMPS' LAUNDRY WAS DONE IN MONTREAL. The annual report for the year ending 31 March 1933, on the Central residence building's new laundry: 'AT THE PRESENT TIME THE LAUNDRY IS DOING ALL OF THE WORK OF THE RESIDENCE BUILDING, THE CENTRAL AND WESTMOUNT BRANCHES, CAMPS OTOREKE AND KANAWANA, AS WELL AS THE MAJOR PORTION OF THE RESIDENTS' PERSONAL WORK. THE MONTHLY AVERAGE WAS 45,860 PIECES, WHICH IT IS STATED REPRESENTS MORE WORK THAN THAT BEING DONE BY THE WINDSOR AND QUEEN'S HOTELS COMBINED.' The camp was forty-five miles from the city and its bedding and linen went back there to be washed, along with Otoreke's, from a plant the report boasts outworked two of Montreal's grand hotels. NOTHING IN THIS PROJECT HAS DESCRIBED CAMP LAUNDRY BEFORE -- one grep for 'laundry' across wiki/ returns a single hit, and it is a line in a 1970s Canadian Camping Association manual's list of personnel policies ('travel to and from camp, charges for laundry'), not about Kanawana. The 45,860 is the whole plant's monthly average across all five users, NOT the camps' share, which the report does not break out. Note also the date: this is the year ending 31 March 1933, so 'at the present time' is the winter of 1932-33, off-season -- the camps are named as customers of the plant rather than as users in that month.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1933"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.32",
       "added_by": "manual"
     }
   ]
