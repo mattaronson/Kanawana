@@ -1,8 +1,8 @@
 {
-  "version": "8.58",
-  "kb_version": "8.58",
+  "version": "8.59",
+  "kb_version": "8.59",
   "migrated_from": "3.3",
-  "fact_count": 5173,
+  "fact_count": 5174,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93254,6 +93254,25 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.58",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5212",
+      "category": "method",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Trent University Archives",
+        "Camp Kanawana",
+        "Quebec Camping Association",
+        "Ontario Camping Association"
+      ],
+      "claim": "FIFTEEN TRENT ACCESSIONS SWEPT, AND TWO OF THEM NAME KANAWANA OR MONTREAL OUTRIGHT. Every finding aid fetched RAW from archives.trentu.ca and searched -- not read through a summarizer, after one of those reported records absent that were in the listing (f_5210). Cached whole at sources/cache/trent-archives/2026-09-06-trent-camping-accessions-sweep.txt. **A KANAWANA BROCHURE OF THE 1970s IS AT TRENT.** 78-006 (OCA additions), SERIES F 'CAMP LITERATURE AND BROCHURES (CIRCA 1970'S)', BOX 24, FOLDER 25: \"Agency Camps 'Y' camps: - Wanakita, Wa-sa-ah-bun, Tapatoo, Tapawingo, Pinecrest, Camp Stephens and KANAWANA\". This project's brochure holdings are 1921, 1922, 1923 and 1928 in cache plus later ones known from the Concordia fonds; a 1970s Kanawana brochure filed among Ontario 'Y' camps is a document nobody here has looked at. **AND A FOLDER SIMPLY TITLED 'YMCA - MONTREAL'.** 84-019, BOX 1, FOLDER 10, with no further description in the aid. **INTERVIEW TRANSCRIPTS EXIST, WHICH ARE BETTER THAN THE TAPES.** 84-019, BOX 2, FOLDER 4: 'Transcripts of some interview tapes previously recorded' -- Omer Stringer, Stephen Lewis, Jean Foster, Penny Miall, Tony Fry, 'Camp Philosophy (CCA meeting, 1975)', Pat Scollard, 'Recruiting and Public Relations (CCA Directors Conference, 1975)', 'Budget and Financial Leadership (CCA Directors Conference, 1975)'. p_348 asked for the taped interviews; TRANSCRIPTS ARE READABLE WHERE TAPES ARE NOT, and this folder was unknown here. **THE QUEBEC ASSOCIATION'S OWN PAPERS ARE SPREAD ACROSS THREE ACCESSIONS.** 78-006 BOX 21: F9 (QCA 1977, historical summary and 40th conference), F10 (1966-1975, correspondence with the OCA, QCA Reports, 1970 Standards, QCA Annual Report 1966), **F11 'QUEBEC CAMPING ASSOCIATION MINIMUM STANDARDS, 1970'**, **F12 'QUEBEC CAMPING ASSOCIATION DIRECTORIES, 1967, 1969-1973'** -- directories that would LIST Kanawana. 88-006 BOX 2 F41-42, the English Section 1972-1979. 85-013, the QCA's own fonds, Box 1 F1 / Box 1 F21 / Box 2 F22 for p_339, p_346 and p_337. TWO MORE WORTH NAMING. 78-006 SERIES H BOX 25 holds Mary Northway's **'Report of a trip to Twenty-Eight Camps in Ontario and QUEBEC', 1940, with Miss Marion Gibson**. And 92-005 holds **'Camp Sights: Desirable Practices for Canadian YMCA Camps', 1965** -- a YMCA camping standard of exactly the year p_339 is about. CLEAN NULLS, recorded so they are not re-swept: 80-022 (Northway's own fonds -- household records, genealogy tapes, property, the winding-up of the Northway Company), 85-011, 86-018, 89-015, 93-021 and 82-016 (Perry). 86-018 and 89-015 carry long alphabetical member-camp runs and every one is Ontario. NOTHING HERE IS DIGITIZED and no claim is made that any folder contains what is hoped. What has changed is that a person going to Peterborough now has box and folder numbers for eight distinct questions instead of the name of an archive.",
+      "sources": [
+        "src_trent_camping_accessions_sweep_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.59",
       "added_by": "manual"
     }
   ]
