@@ -143,24 +143,7 @@ Notably, the camp's other great annual honour did **not** lapse for both years. 
 
 The award resumed in 2022 and has run annually since.
 
-## Open Questions
-
-1. [**RESOLVED IN PART 2026-08-25; corroborated from a new direction 2026-09-06.**] Who was Norrey Owens? **He is O. N. H. Owens** — established by
-   the Quebec Camping Association presidency, which both forms of the name hold (see above). What
-   remains open is only his full given names and his dates: whether he is the "OWENS, OWEN NORREYS
-   HARRINGTON" of the LAC First World War file is still unproven, and birth and death dates are
-   unknown. The 1977 conference attendance is the latest confirmed sighting. *Superseded detail from
-   2026-08-14:* He is now documented as the award's donor and presenter in 1976. The strong lead is **O. N. H. Owens**, Chairman of the Kanawana Committee in the late 1930s and of Camp Perrot's Board through the 1940s–50s, plausibly the "Owen Norreys Harrington Owens" of a Library and Archives Canada First World War file. Confirming this needs a surface that was blocked to this project: the LAC personnel record itself (Cloudflare 403), a Montreal death notice, or any document spelling his given names in full. Birth and death dates remain unknown.
-2. ~~[Important] What does the date April 13, 1976 mark — Norrey Owens's death, the award's dedication, or its founding? And is the "namesake, not first recipient" reading above correct?~~ **[Half resolved, half open, 2026-08-14]** The namesake reading is **confirmed** by the 1976 Director's Report: Owens presented the award, Doug Peets received it. April 13, 1976 is **not** a death date — Owens was alive and at camp that August. What the date does mark is still undocumented; establishment or donation is the natural reading, but nothing states it.
-3. ~~[Important] What is the underlying source of this roster?~~ **[Resolved 2026-08-14]** The roster is kept on carved wooden award paddles at camp, two of which have now been photographed — see "The award paddles" above. The roster is therefore a transcription of a physical artifact, not recall, and `src_photo_order_of_owens_paddles` is recorded at `primary` reliability. Note that this resolves the *provenance* question only: the paddles begin at 2005, so the 1976–2004 portion of the roster still rests on the operator's account plus whatever earlier artifact it was drawn from (see Open Question 8).
-4. [Nice-to-have] Why did five seasons (1984, 1996, 1998, 2004, 2012) have two recipients? Was this a tie, a deliberate co-award, or a change in criteria?
-5. [Nice-to-have] Is the award connected to a specific canoe trip, section, or ceremony — and where is it presented? The Pip Award has a documented ceremony; nothing is yet documented for this one.
-6. [Nice-to-have] "Susan Owen" (1992) is one letter from the award's own name. Coincidence is by far the likeliest explanation, but worth a single confirming check rather than an assumption.
-7. [Important] Resolve the two paddle-vs-roster spelling discrepancies: Oscar/Oskar Newsam (2008) and Russell/Russel Donahue (2009). The 2009 case differs *between the two paddles*, so a closer read of both artifacts — not just one — is needed.
-8. [Important] Both photographed paddles begin at 2005. What carries the 1976–2004 roster at camp — an earlier paddle, a board, or a written record? Locating it would move four decades of this roster from operator account to primary artifact, and would also settle the Norrey Owens namesake question (Open Questions 1–2).
-9. [Nice-to-have] Several Order of Owens recipients also appear on the [[traditions/traditions-and-culture|Knights of Kanawana]] roll — Denys Lawrence (Owens 1977; knighted 1980) and Dylan Applebaum (knighted 2009; Owens 2010) among them. Are the two honours formally related, sequential, or independent?
-
-### A second Owens, and a family name (2026-09-06)
+## A second Owens, and a family name
 
 *Who's Who in Canada* carries an entry for **OWENS, Owen Ernest, Ph.D.**, Vice-President for
 Exploration at Cominco: born **Montreal, 30 March 1925**, educated at St. George's, Montreal and
@@ -184,6 +167,23 @@ unproven.
 *(Note what "Director" means in that entry: it sits under Clubs, and [[people/directors-index|the
 directors index]] has A. Ross Seaman as Camp Director from 1959 to 1967. This is a governance seat,
 not the summer directorship.)*
+
+## Open Questions
+
+1. [**RESOLVED IN PART 2026-08-25; corroborated from a new direction 2026-09-06.**] Who was Norrey Owens? **He is O. N. H. Owens** — established by
+   the Quebec Camping Association presidency, which both forms of the name hold (see above). What
+   remains open is only his full given names and his dates: whether he is the "OWENS, OWEN NORREYS
+   HARRINGTON" of the LAC First World War file is still unproven, and birth and death dates are
+   unknown. The 1977 conference attendance is the latest confirmed sighting. *Superseded detail from
+   2026-08-14:* He is now documented as the award's donor and presenter in 1976. The strong lead is **O. N. H. Owens**, Chairman of the Kanawana Committee in the late 1930s and of Camp Perrot's Board through the 1940s–50s, plausibly the "Owen Norreys Harrington Owens" of a Library and Archives Canada First World War file. Confirming this needs a surface that was blocked to this project: the LAC personnel record itself (Cloudflare 403), a Montreal death notice, or any document spelling his given names in full. Birth and death dates remain unknown.
+2. ~~[Important] What does the date April 13, 1976 mark — Norrey Owens's death, the award's dedication, or its founding? And is the "namesake, not first recipient" reading above correct?~~ **[Half resolved, half open, 2026-08-14]** The namesake reading is **confirmed** by the 1976 Director's Report: Owens presented the award, Doug Peets received it. April 13, 1976 is **not** a death date — Owens was alive and at camp that August. What the date does mark is still undocumented; establishment or donation is the natural reading, but nothing states it.
+3. ~~[Important] What is the underlying source of this roster?~~ **[Resolved 2026-08-14]** The roster is kept on carved wooden award paddles at camp, two of which have now been photographed — see "The award paddles" above. The roster is therefore a transcription of a physical artifact, not recall, and `src_photo_order_of_owens_paddles` is recorded at `primary` reliability. Note that this resolves the *provenance* question only: the paddles begin at 2005, so the 1976–2004 portion of the roster still rests on the operator's account plus whatever earlier artifact it was drawn from (see Open Question 8).
+4. [Nice-to-have] Why did five seasons (1984, 1996, 1998, 2004, 2012) have two recipients? Was this a tie, a deliberate co-award, or a change in criteria?
+5. [Nice-to-have] Is the award connected to a specific canoe trip, section, or ceremony — and where is it presented? The Pip Award has a documented ceremony; nothing is yet documented for this one.
+6. [Nice-to-have] "Susan Owen" (1992) is one letter from the award's own name. Coincidence is by far the likeliest explanation, but worth a single confirming check rather than an assumption.
+7. [Important] Resolve the two paddle-vs-roster spelling discrepancies: Oscar/Oskar Newsam (2008) and Russell/Russel Donahue (2009). The 2009 case differs *between the two paddles*, so a closer read of both artifacts — not just one — is needed.
+8. [Important] Both photographed paddles begin at 2005. What carries the 1976–2004 roster at camp — an earlier paddle, a board, or a written record? Locating it would move four decades of this roster from operator account to primary artifact, and would also settle the Norrey Owens namesake question (Open Questions 1–2).
+9. [Nice-to-have] Several Order of Owens recipients also appear on the [[traditions/traditions-and-culture|Knights of Kanawana]] roll — Denys Lawrence (Owens 1977; knighted 1980) and Dylan Applebaum (knighted 2009; Owens 2010) among them. Are the two honours formally related, sequential, or independent?
 
 ## Related Articles
 

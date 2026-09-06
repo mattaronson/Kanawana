@@ -627,7 +627,7 @@
         "traditions-and-culture"
       ],
       "file_id": "1EmzjwZxmQKJhFrNsbFGn1HbdseFBM9E7",
-      "word_count": 7020,
+      "word_count": 7028,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed header (Status casing 'E1 Reviewed' -> 'E1-reviewed', Sources field was free-text descriptions instead of a count), moved the 'Correction, 2026-07-09' paragraph into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H3 (no parent heading) into Research Notes. No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-link to Camp Pine Crest (now a standalone article) in prose and Related Articles. | 2026-08-14: NEW Annual Trophy section from operator photographs -- the L&V perpetual trophy (winners shields 1947-2025) documented for the first time; no winners table published as the shields are not reliably legible in the current images. NOTE: this article is E1-reviewed and has received substantive new content; warrants a re-REVIEW pass. | 2026-08-14 (2nd pass): winners roll TRANSCRIBED from the trophy photos -- 74 of 79 seasons legible; 1949/1958/1961 obscured, 1952 team illegible, no 2021 shield found. Surfaced conflict c_021 (trophy 2020 shield vs Owens skipping both 2020-21 vs Day's documented two-season closure vs YMCA's '78th edition'). New lead: 'Kanawana Stampede 1976 Champions' plaque, undocumented anywhere. | 2026-08-14 (3rd pass): c_021 RESOLVED -- the 2020 Games were played remotely, 2021 not held. Corrected the body's standing inference that the skipped season was 'most likely 2020' to the now-documented 2021. | 2026-08-14 (4th pass): winners roll now 78 of 79 contested seasons -- 1949/1952/1958 supplied, 2026 (Lumbermen) added. Only 1961 unknown. Standings L41 V37. | 2026-08-14 (5th pass): added a Balance of the Series analysis (running lead 1947-2026, Lumbermen peak +7 in 1978, Voyageur recovery 1979-95). 1961 kept UNKNOWN -- operator recalls Voyageurs but the reasoning is abductive and cannot confirm the run it would create. | 2026-08-14 (6th pass): CORRECTED the balance section -- running totals had omitted the unknown 1961 rather than treating it as displacing all later totals, making the published 'Voyageurs led only in the first two seasons' claim false under either reading. Now given both ways. Added a levelling analysis: earliest possible tie 2029 (if 1961=V) or 2031 (if 1961=L).",
       "tags": {
         "era": [
@@ -721,7 +721,7 @@
         "timeline-overview"
       ],
       "file_id": "1FzPFWuQ3jBYZdPOSVC_xjANKsWr7RjSK",
-      "word_count": 1484,
+      "word_count": 1502,
       "tags": {
         "era": [
           "1910s",
@@ -811,7 +811,7 @@
         "a-ross-seaman"
       ],
       "file_id": "1vObPDCKcgzCi8HVCEMuBzQCMPd0jk2ua",
-      "word_count": 2333,
+      "word_count": 2340,
       "tags": {
         "era": [
           "1920s",
@@ -9967,7 +9967,7 @@
         "people/sean-day"
       ],
       "file_id": null,
-      "word_count": 3602,
+      "word_count": 3601,
       "tags": [
         "awards",
         "canoe-tripping",

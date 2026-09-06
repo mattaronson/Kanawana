@@ -13,6 +13,8 @@ The 1959 names survived. More than six decades later, all four are still in use 
 
 The persistence of names like Pioneers and Coureurs de Bois, even as their meaning has been remapped onto entirely different organizational principles, is itself a small piece of evidence about how camp traditions work. The words outlast the systems they were designed to label.
 
+## The names, and how they changed
+
 ### What the season reports add (2026-08-14)
 
 The digitized Kanawana season reports and annual reports carry section names year by year, and they confirm, sharpen and — in one place — qualify the account above.^ia

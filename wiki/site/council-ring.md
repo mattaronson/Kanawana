@@ -46,33 +46,6 @@ The negative in the same interview matters as much. Of her father's first camp, 
 
 Ebbs also names a parallel figure, **Ellsworth Jaeger** of the **Camp of the Red Gods**, whom Seton visited; and she describes the ceremony's form from the inside: "**It was always done very precisely, very organized, and well planned**… the beginning and ending were always the same and most inspirational," with staff "in fear and trembling that somebody would do the wrong thing and spoil the atmosphere." Her explanation of why her father took to it is disarming: he "always loved the theatre and I think this is why the Council Ring, **because it was a spectacle**."^16
 
-## Sources
-
-
-1. Kanawana material in the Concordia-digitized YMCA of Montreal fonds: *The Green Triangle*, 13 August 1932; the YMCA of Montreal Annual Reports for 1929 and 1954; *The Gas Bag*, 1 September 1923; *A History of Kamp Kanawana* (1935); the *Kamp Kanawana Director's Report 1987*; and *Kanawana… A Place to Grow* (1988) [src_ia_ymca_montreal_fonds_collection, src_ia_ymca_montreal_annual_reports_collection, src_ia_kanawana_report_1987, src_ia_kanawana_place_to_grow_1988].
-2. McMorris, Grace. *An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967*. MA thesis, Concordia University, 2023. Chapter 2. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
-3. Concordia University Records Management and Archives, Fonds P145/12B01, Season Reports 1922, 1927.
-4. Concordia University Records Management and Archives, Fonds P145/02D, Annual Reports 1925-1947.
-5. *A History of Kamp Kanawana* (1935). Internet Archive. Lists "Council Ring" as facility and "Council of Tribes" as tradition, confirming both existed by 1935.
-6. Oral history, Matt Aronson (2026).
-7. *The Gas Bag*, 1923 Re-union Number. Internet Archive.
-8. Facebook, YKanawana, "Opening Campfire 2020" (Facebook Live video). URL: https://www.facebook.com/YKanawana/videos/opening-campfire-2020/1432885173577431/
-9. McMorris, Grace (2023), Figure 2.1 (1970s totem pole photograph) and p. 68 (1962 site map, "Indian Council Ring" label and totem-pole iconography). Read directly 2026-07-09.
-10. Camp Kanawana current facilities webpage (2026-07-09 check): describes "fire bowls," no mention of "Council Ring" or totem pole by name.
-11. Phase 2 research (recovered June 2026): council-ring form traced to Jens Jensen and E.T. Seton's Woodcraft Indians (Silver Bay, 1910).
-12. *Kamp Kanawana Director's Report 1987*, Jay Netherwood [src_ia_kanawana_report_1987], "Special Projects". See [f_2453].
-13. Jack Eastaugh (Assistant to the Director, Taylor Statten Camps), "Our Friends — The Indians," *Canadian Camping* Vol. 25 No. 3 (Spring 1973), pp. 5-6. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 98).
-14. Adele and J. Harry Ebbs, "In Memoriam — 'Blackie'," *Canadian Camping* Vol. 31 No. 3 (May 1979), pp. 6-7 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 125).
-15. CCA/ACC *Publications 1985-86* catalogue, bound as an insert to *Canadian Camping* Vol. 37 No. 3 (Autumn 1985), p. 4 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 156).
-16. "Personality Profile: Taylor Statten — Interview with Adele Ebbs," *Canadian Camping Magazine* Vol. 38 No. 1 (Summer 1986), pp. 10-16 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 158).
-17. "Personality Profile: W. E. (Ted) Yard (1919-1983)" — interview with Shirley Yard and Ted Yard Jr., pp. 10-15, and the unattributed inter-tribal gift speeches and "Council Closing," p. 24 — *Canadian Camping Magazine* Vol. 38 No. 2 (Fall 1986) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 159).
-18. "Under Open Skies" / "À ciel ouvert" — "A Benediction," submitted by Madelene Allen, Camp Ouareau, St. Donat, Quebec, *Canadian Camping Magazine* Vol. 38 No. 4 (Spring 1987), p. 28 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 161).
-19. Ernest Thompson Seton, *The Book of Woodcraft and Indian Lore* (Doubleday, Page, 1912) [src_seton_book_of_woodcraft_1912]: the Omaha Tribal Prayer at p. 145, the Peace Pipe Ceremony at pp. 148–149, the Scalp Dance, and the Herald and Gleeman degree requirements. Read in full on 2026-09-05. See [f_4854], [f_4855], [f_4856], [f_4857].
-
-### R3 Verification Notes
-
-Council Ring existence confirmed by 1935 History (independent of McMorris). Construction date (1922), totem pole addition (1927), and 1929 rebuild for 325 seats are single-sourced from McMorris citing P145 season reports and annual reports. These are primary archival sources but filtered through a single scholarly pathway.
-
 ## The Council of Tribes Ceremony
 
 McMorris's full thesis provides detailed pageant scripts from the Concordia Archives that document the ceremony format. A typical Indian Council Ring program (as described by the 1939 juvenile section director) included: a torch parade to the council ring, a peace pipe ceremony, Indian dances around the fire, and a story on "moral nature, generally pertaining to the North American Indian."^5
@@ -204,3 +177,30 @@ The "1970s photograph" showing a standing totem pole is McMorris's thesis Figure
 - How did Council Ring ceremonies evolve after the decline of "playing Indian" programming in the 1950s-1960s?
 - [New 2026-09-04] Seton's original Council Ring text is now identified as the source of Kanawana's ceremony.^13 Two things follow that are worth pursuing: locate Seton's published ceremony (*The Book of Woodcraft*, the Woodcraft Indians manuals) and compare it line by line against the c. 1925-1927 "Tribes of Kanawana in Council" script at Concordia, to establish what Kanawana kept, cut and invented; and pursue Eastaugh's offer of "a complete and detailed description of the rituals, ceremonies, games and organization" from the Taylor Statten Camps, whose version is the one Kanawana's leaders would have been taught.
 - What is the full list of ceremonies and events held at the Council Ring in the modern era?
+
+## Sources
+
+
+1. Kanawana material in the Concordia-digitized YMCA of Montreal fonds: *The Green Triangle*, 13 August 1932; the YMCA of Montreal Annual Reports for 1929 and 1954; *The Gas Bag*, 1 September 1923; *A History of Kamp Kanawana* (1935); the *Kamp Kanawana Director's Report 1987*; and *Kanawana… A Place to Grow* (1988) [src_ia_ymca_montreal_fonds_collection, src_ia_ymca_montreal_annual_reports_collection, src_ia_kanawana_report_1987, src_ia_kanawana_place_to_grow_1988].
+2. McMorris, Grace. *An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967*. MA thesis, Concordia University, 2023. Chapter 2. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
+3. Concordia University Records Management and Archives, Fonds P145/12B01, Season Reports 1922, 1927.
+4. Concordia University Records Management and Archives, Fonds P145/02D, Annual Reports 1925-1947.
+5. *A History of Kamp Kanawana* (1935). Internet Archive. Lists "Council Ring" as facility and "Council of Tribes" as tradition, confirming both existed by 1935.
+6. Oral history, Matt Aronson (2026).
+7. *The Gas Bag*, 1923 Re-union Number. Internet Archive.
+8. Facebook, YKanawana, "Opening Campfire 2020" (Facebook Live video). URL: https://www.facebook.com/YKanawana/videos/opening-campfire-2020/1432885173577431/
+9. McMorris, Grace (2023), Figure 2.1 (1970s totem pole photograph) and p. 68 (1962 site map, "Indian Council Ring" label and totem-pole iconography). Read directly 2026-07-09.
+10. Camp Kanawana current facilities webpage (2026-07-09 check): describes "fire bowls," no mention of "Council Ring" or totem pole by name.
+11. Phase 2 research (recovered June 2026): council-ring form traced to Jens Jensen and E.T. Seton's Woodcraft Indians (Silver Bay, 1910).
+12. *Kamp Kanawana Director's Report 1987*, Jay Netherwood [src_ia_kanawana_report_1987], "Special Projects". See [f_2453].
+13. Jack Eastaugh (Assistant to the Director, Taylor Statten Camps), "Our Friends — The Indians," *Canadian Camping* Vol. 25 No. 3 (Spring 1973), pp. 5-6. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 98).
+14. Adele and J. Harry Ebbs, "In Memoriam — 'Blackie'," *Canadian Camping* Vol. 31 No. 3 (May 1979), pp. 6-7 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 125).
+15. CCA/ACC *Publications 1985-86* catalogue, bound as an insert to *Canadian Camping* Vol. 37 No. 3 (Autumn 1985), p. 4 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 156).
+16. "Personality Profile: Taylor Statten — Interview with Adele Ebbs," *Canadian Camping Magazine* Vol. 38 No. 1 (Summer 1986), pp. 10-16 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 158).
+17. "Personality Profile: W. E. (Ted) Yard (1919-1983)" — interview with Shirley Yard and Ted Yard Jr., pp. 10-15, and the unattributed inter-tribal gift speeches and "Council Closing," p. 24 — *Canadian Camping Magazine* Vol. 38 No. 2 (Fall 1986) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 159).
+18. "Under Open Skies" / "À ciel ouvert" — "A Benediction," submitted by Madelene Allen, Camp Ouareau, St. Donat, Quebec, *Canadian Camping Magazine* Vol. 38 No. 4 (Spring 1987), p. 28 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 161).
+19. Ernest Thompson Seton, *The Book of Woodcraft and Indian Lore* (Doubleday, Page, 1912) [src_seton_book_of_woodcraft_1912]: the Omaha Tribal Prayer at p. 145, the Peace Pipe Ceremony at pp. 148–149, the Scalp Dance, and the Herald and Gleeman degree requirements. Read in full on 2026-09-05. See [f_4854], [f_4855], [f_4856], [f_4857].
+
+### R3 Verification Notes
+
+Council Ring existence confirmed by 1935 History (independent of McMorris). Construction date (1922), totem pole addition (1927), and 1929 rebuild for 325 seats are single-sourced from McMorris citing P145 season reports and annual reports. These are primary archival sources but filtered through a single scholarly pathway.

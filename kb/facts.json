@@ -1,8 +1,8 @@
 {
-  "version": "8.03",
-  "kb_version": "8.03",
+  "version": "8.04",
+  "kb_version": "8.04",
   "migrated_from": "3.3",
-  "fact_count": 5090,
+  "fact_count": 5091,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91778,6 +91778,20 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.03",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5129",
+      "category": "methodology",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project"
+      ],
+      "claim": "THREE THOUSAND WORDS OF site/council-ring.md WERE SITTING AFTER ITS SOURCES SECTION, WHERE NO READER REACHES THEM. Found 2026-09-06 by scripts/wiki/structure_audit.py, written after traditions/canoe-trips.md turned out to have the same defect on a smaller scale. council-ring.md had '## Sources' in the MIDDLE of the file, with seven body sections after it: the entire Council of Tribes Ceremony, the Seton source text read at last, a third Canadian camp with Wakonda over the fireplace, a YMCA director's account of cutting the ceremony back, a benediction in two versions with a Quebec name on one, and Location and Modern Use. Anyone reading the article to its Sources -- the normal way to read an encyclopedia article -- would have stopped there and taken it for a short piece about a construction chronology. Sources moved to the end. SEVEN OF EIGHT FLAGGED ARTICLES WERE REPAIRED THE SAME DAY: also lv-games.md (three subsections orphaned off the title, a resolved-conflict note after Sources), order-of-owens.md (a documented Who's Who finding -- an Owen Ernest Owens who was a Kanawana director in 1965 -- filed as a SUBSECTION OF OPEN QUESTIONS, where it read as a question instead of as the corroboration it is), section-names.md (one orphan), wartime-kanawana.md (no Last Updated line at all). canoe-trips.md is the eighth and is deferred to p_453. THE CHECKER WAS WRONG TWICE BEFORE IT WAS RIGHT, both times by crying wolf: a first version flagged apparatus sections following one another, which is the template's own order, and reported ALL 114 ARTICLES as broken; and the missing-Sources check fired on two pages that cite nothing and on the source index itself, where adding an empty section to satisfy a checker would have been worse than the defect. Both fixed in the checker, not by editing the wiki to suit it.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.04",
       "added_by": "manual"
     }
   ]

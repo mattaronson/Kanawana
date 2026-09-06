@@ -9,6 +9,8 @@ The format as it developed through the late 1940s and 1950s was distinctive. Tea
 
 **The earliest contemporaneous description is from 1949**, and adds three things this article did not have. The YMCA of Montreal's 1950 Annual Report, covering the 1949 season, records: "'Lumbermen-Voyageur' Week, as a closing feature of camp programme has become a worthwhile tradition of Kanawana. A striking, large **fireplace mural in the dining hall** makes use of this motif. Division of the entire camp into two teams for this final week of good-natured competition again met with tremendous enthusiasm on the part of campers."^13 So by 1949 it ran a **full week**, it was the **closing feature** of the season, and the dining hall carried a **large fireplace mural** of the Lumbermen/Voyageur motif — a physical artifact of the tradition that no longer appears in any modern description of the room.
 
+## Origins: from Lumberman-Voyageur Week to the Games
+
 ### What the parent tradition looked like at Pine Crest
 
 This article has always described the Pine Crest borrowing from the outside, on the strength of a commemorative book and a YMCA blog. The ceremony itself is now on record, described by the man who ran the camp. **W. E. "Ted" Yard** — Director of Camp Pine Crest through the 1950s and early 1960s, President of the Ontario Camping Association 1949-51 and of the Canadian Camping Association 1953-55 — wrote an account of the camp's observances that the national magazine reprinted as his obituary tribute in 1983.^20 The **Voyageur-Lumberman ceremony** in it is not a competition but a tableau at sunset, with a spoken text:
@@ -178,6 +180,35 @@ The editors were making a case rather than a remark. The same issue carries an i
 
 **Nothing here shows that Kanawana changed anything.** No Kanawana document responding to this argument is known to this project, and none is implied. What the editorial supplies is the argument the Games were operating against, dated, in the camp's own national trade press, in a year the series was running — and the terms in which any surviving discussion of the Games or of [[traditions/order-of-owens|the Order of Owens]] in a Kanawana director's report of the early 1980s should be read. It is worth noting that the Games as Kanawana ran them are a two-team series in which every camper is on one side or the other, which is not quite the ten-children race the editorial describes; whether the camp's own staff drew that distinction at the time is not documented.
 
+## The 1966 discrepancy — resolved in favour of the trophy
+
+**Resolved 2026-08-14 by operator decision: the 1966 Games were won by the Lumbermen.**^18 The determination was made from the trophy photograph itself — the shield is legible and reads Lumbermen — which makes this a question of one document against another, settled by going back to the object rather than by weighing the two accounts. Conflict `c_025` is closed; the standings above are unchanged, because the roll already carried the trophy's reading.
+
+**The 1966 season report is not deleted or corrected away.** It says what it says — "Lumberman and Voyage[ur], with the Voyageurs being victorious" — and that text is preserved here and in the KB under the project's no-silent-overwrite rule.^14 What the resolution establishes is which source the wiki follows where they conflict, not that the report was never written. Why the report differs is still unexplained, and the third possibility below (that the two sources record different things) remains the most interesting unexplored reading, since the 1966 report describes *sixteen* all-camp program days of which the L&V competition was only one.
+
+The original statement of the conflict follows, for the record.
+
+### The two sources
+
+Two sources give different winners for 1966, and both are documentary.
+
+| Source | Says | Character |
+|---|---|---|
+| The Annual Trophy, 1966 shield | **Lumbermen** | Engraved plate on the camp's perpetual trophy; transcribed here from photographs supplied by the operator |
+| *Kamp Kanawana Annual Report 1966* | **Voyageurs** — "Lumberman and Voyage[ur], with the Voyageurs being victorious" | Contemporaneous internal season report, written by the camp director at the end of that summer |
+
+This is two documented sources disagreeing, so the project's standing "oral history yields to documents" directive did not apply. It was a **human decision point**, recorded as conflict **c_025** and held unresolved until the operator settled it on 2026-08-14 — see above.
+
+Three possibilities, in the order this article thinks likeliest:
+
+1. **The transcription is wrong.** The roll was read off photographs of a shield-covered trophy. A single misread line is the cheapest explanation and the easiest to test — it needs one look at the physical trophy. Note that the four shields obscured behind the crossed paddle and axe had to be supplied separately precisely because the photographs do not show everything cleanly.
+2. **The report is right and the trophy is wrong.** Engraving happens after the fact and can be ordered wrongly; the season report was written by the man who ran the season.
+3. **Both are right about different things.** If the 1966 season had both a Lumbermen-Voyageur competition and a separate overall standing — the 1966 report says there were *sixteen* all-camp program days — the trophy and the report could be recording different totals. The 1976 director's report separately describes the L&V format as contested enough to be formally reviewed that winter, so the format was not fixed.
+
+**What makes this worth taking seriously rather than dismissing:** three other seasons in the digitized reports — 1977, 1978 and 1993 — match the trophy exactly, and the 1978 report's "Lumbermen won ... again" independently confirms 1977 as well. The roll is not generally unreliable. That is precisely why one discordant entry is interesting rather than noise.
+
+**A note on how this was found, and got briefly mis-stated.** When the 1966 report was first added to this article on 2026-08-14, the sentence claimed it was "matching the trophy shield." It does not match; the claim was written without checking it against the roll in this same article, and it stood for a few hours. The correction is recorded here rather than quietly applied, because the error is instructive: a corroborating source is only corroboration if you actually compare it.
+
 ## Related Articles
 
 - [[traditions/canoe-trips|Canoe Tripping at Kanawana]]
@@ -210,36 +241,6 @@ The editors were making a case rather than a remark. The same issue carries an i
 18. Photographs of the Kanawana Annual Trophy for Lumbermen Voyageur Games (perpetual trophy, winners shields 1947-2025), supplied by the operator 2026-08-14 [src_photo_lv_annual_trophy]. Establishes the trophy's existence, form and span, and — read shield by shield — the winners roll tabulated above. See [f_1996], [f_2000], [f_2001]. Four shields were illegible in the photographs and were supplied separately (source 16); 1961 alone remains unread. The earlier note here that the shields were "not yet reliably transcribed" described the state of the work in August 2026 and no longer holds.
 19. Editorial, "Competition in Camps: Values in Turmoil!" / "L'esprit de compétition dans les camps perturbe nos valeurs," and "Interview: June Labbett" (Jay Haddad's interview of 8 March 1980 at the Royal York Hotel), *Canadian Camping* Vol. 34 No. 1 (Spring 1982), pp. 3-5 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 141). A national editorial addressed to all member camps, not a Kanawana document.
 20. W. E. (Ted) Yard, "Memorable Experiences Leading Towards Spiritual Growth," reprinted with his obituary notice in *Canadian Camping* Vol. 35 No. 1 (Spring 1983), pp. 8-9 [src_ia_canadian_camping_collection]. Found by the same read (issue 146). Yard directed Camp Pine Crest in the 1950s and early 1960s and was CCA President 1953-55; the article is undated and describes Pine Crest, not Kanawana.
-
-## The 1966 discrepancy — resolved in favour of the trophy
-
-**Resolved 2026-08-14 by operator decision: the 1966 Games were won by the Lumbermen.**^18 The determination was made from the trophy photograph itself — the shield is legible and reads Lumbermen — which makes this a question of one document against another, settled by going back to the object rather than by weighing the two accounts. Conflict `c_025` is closed; the standings above are unchanged, because the roll already carried the trophy's reading.
-
-**The 1966 season report is not deleted or corrected away.** It says what it says — "Lumberman and Voyage[ur], with the Voyageurs being victorious" — and that text is preserved here and in the KB under the project's no-silent-overwrite rule.^14 What the resolution establishes is which source the wiki follows where they conflict, not that the report was never written. Why the report differs is still unexplained, and the third possibility below (that the two sources record different things) remains the most interesting unexplored reading, since the 1966 report describes *sixteen* all-camp program days of which the L&V competition was only one.
-
-The original statement of the conflict follows, for the record.
-
-### The two sources
-
-Two sources give different winners for 1966, and both are documentary.
-
-| Source | Says | Character |
-|---|---|---|
-| The Annual Trophy, 1966 shield | **Lumbermen** | Engraved plate on the camp's perpetual trophy; transcribed here from photographs supplied by the operator |
-| *Kamp Kanawana Annual Report 1966* | **Voyageurs** — "Lumberman and Voyage[ur], with the Voyageurs being victorious" | Contemporaneous internal season report, written by the camp director at the end of that summer |
-
-This is two documented sources disagreeing, so the project's standing "oral history yields to documents" directive did not apply. It was a **human decision point**, recorded as conflict **c_025** and held unresolved until the operator settled it on 2026-08-14 — see above.
-
-Three possibilities, in the order this article thinks likeliest:
-
-1. **The transcription is wrong.** The roll was read off photographs of a shield-covered trophy. A single misread line is the cheapest explanation and the easiest to test — it needs one look at the physical trophy. Note that the four shields obscured behind the crossed paddle and axe had to be supplied separately precisely because the photographs do not show everything cleanly.
-2. **The report is right and the trophy is wrong.** Engraving happens after the fact and can be ordered wrongly; the season report was written by the man who ran the season.
-3. **Both are right about different things.** If the 1966 season had both a Lumbermen-Voyageur competition and a separate overall standing — the 1966 report says there were *sixteen* all-camp program days — the trophy and the report could be recording different totals. The 1976 director's report separately describes the L&V format as contested enough to be formally reviewed that winter, so the format was not fixed.
-
-**What makes this worth taking seriously rather than dismissing:** three other seasons in the digitized reports — 1977, 1978 and 1993 — match the trophy exactly, and the 1978 report's "Lumbermen won ... again" independently confirms 1977 as well. The roll is not generally unreliable. That is precisely why one discordant entry is interesting rather than noise.
-
-**A note on how this was found, and got briefly mis-stated.** When the 1966 report was first added to this article on 2026-08-14, the sentence claimed it was "matching the trophy shield." It does not match; the claim was written without checking it against the roll in this same article, and it stood for a few hours. The correction is recorded here rather than quietly applied, because the error is instructive: a corroborating source is only corroboration if you actually compare it.
-
 
 ## Open Questions
 
