@@ -1,8 +1,8 @@
 {
-  "version": "6.63",
-  "kb_version": "6.63",
+  "version": "6.64",
+  "kb_version": "6.64",
   "migrated_from": "3.3",
-  "fact_count": 4885,
+  "fact_count": 4886,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87730,6 +87730,24 @@
       "date_ref": "2026-09-06",
       "conflicts_with": [],
       "added_version": "6.63",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4924",
+      "claim": "A BOUNDED NULL: THE 1924-1930 ANNUAL REPORTS CARRY NO INTERIOR PLATES. The word-count method (f_4922, f_4923) was run on the seven volumes 1924, 1925, 1926, 1927, 1928, 1929 and 1930 -- the decade in which Kamp Kanawana is a standing item on the contents page beside Camp Otoreke and Camp Dorval, and therefore the likeliest place in the run for a Kanawana photograph. EVERY SPARSE PAGE IN ALL SEVEN IS FRONT MATTER: covers, title pages, and the recurring display page \"THE Y.M.C.A. IN GREATER MONTREAL INCLUDING MONTREAL'S SHARE IN THE INTERNATIONAL WORK...\". There are no low-text interior pages, so on this evidence THESE VOLUMES ARE NOT ILLUSTRATED WITH PHOTOGRAPHS. THE ONE EXCEPTION IS NOT A PHOTOGRAPH: leaf 2 of the 1924 report carries a caption the OCR read upside down -- \"...ONIMOHS TW\" and \"AHONVUG ONIGIAG VD JO NolLyO1\" reverse to a MAP SHOWING THE LOCATION OF THE BUILDING BRANCHES AND THE DISTRICTS THEY SERVE, a Montreal city map and not a camp one. THE LIMIT OF THIS NULL: it says these seven volumes have no page that is mostly picture. A SMALL photograph set into a page of text would not be sparse and would not be found this way, and none of these pages has been looked at.",
+      "sources": [
+        "src_ia_ymca_montreal_annual_reports_collection"
+      ],
+      "confidence": "stated",
+      "category": "sources_and_archives",
+      "entities": [
+        "YMCA of Montreal",
+        "annual reports",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1924/1930",
+      "conflicts_with": [],
+      "added_version": "6.64",
       "added_by": "ralph_loop"
     }
   ]
