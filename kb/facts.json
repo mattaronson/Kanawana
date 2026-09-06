@@ -1,8 +1,8 @@
 {
-  "version": "8.42",
-  "kb_version": "8.42",
+  "version": "8.43",
+  "kb_version": "8.43",
   "migrated_from": "3.3",
-  "fact_count": 5162,
+  "fact_count": 5163,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93051,6 +93051,26 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.41",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5201",
+      "category": "institutional",
+      "date_ref": "1932",
+      "entities": [
+        "Camp Macaulay",
+        "YMCA of Montreal",
+        "International Branch",
+        "Union United Church"
+      ],
+      "claim": "CAMP MACAULAY BELONGED TO THE YMCA'S INTERNATIONAL BRANCH, NOT THE NORTH BRANCH -- AND THE NAME TURNS UP AGAIN IN A BLACK MONTREAL CHURCH HISTORY, WHICH IS NOT THE SAME THING AS A CONNECTION. FIRST, THE BRANCH, established by locating the passage inside the report rather than guessing from McGerrigle's usual posting. The 1933 annual report's sentence -- 'THE BOYS' SECTION AT CAMP MACAULAY WAS UNDER THE CHARGE OF C. J. McGERRIGLE, WHO CHOSE HIS STAFF OF COUNCILLORS FROM MEMBERS OF THIS BRANCH' -- sits under the heading INTERNATIONAL BRANCH, whose next paragraph describes its 'MAJOR TASK, VIZ., SERVICE TO THE FOREIGNER IN OUR MIDST, ENABLING HIM TO ADJUST HIMSELF TO HIS NEW SURROUNDINGS, TO LEARN THE LANGUAGE OF HIS ADOPTED HOMELAND'. So 'this branch' is the association's IMMIGRANT-SERVICES branch, and its boys went to camp under a man who was North Branch's Executive Secretary and Camp Otoreke's director. THAT MAKES CAMP MACAULAY A FIFTH MONTREAL YMCA CAMP OPERATION FOR THE EARLY 1930s -- alongside Kanawana, Otoreke, Becsies and the day camps -- and the only one this project has connected to immigrant communities. SECOND, THE NAME ELSEWHERE. A corpus search returns twenty books with 'Camp Macaulay'; two are Montreal-adjacent and one is real. Maranda Moses, *Proud Past, Bright Future* (Union United Church, 2008) -- the centennial history of MONTREAL'S HISTORIC BLACK CONGREGATION, in Little Burgundy -- has in a photo-caption list: 'Page 67. TOP: CAMP MACAULAY. Bottom: CGIT (Canadian Girls In Training)'. (The other, in Lynne Bowen's *Those Lake People*, is an ARMY Camp Macaulay at Cowichan Lake, British Columbia -- a false friend.) THE JOIN IS NOT MADE AND MUST NOT BE ASSERTED. Same name, same city, same era, and two communities that the association served through different structures -- but the YMCA's International Branch worked with immigrant Montrealers (the same report names Italian and Syrian Boy Scout work) and Union United served Black Montrealers, and those are not the same constituency. Nothing found says they are the same camp. WHAT WOULD SETTLE IT: page 67 of the Moses book, which this project cannot read; the Negro Community Centre / Charles H. Este fonds at Concordia; and the YMCA's own International Branch records. THE DONOR READING OF THE NAME still stands from f_5188 -- Robertson and T. B. Macaulay of Sun Life were the association's subscribers from the 1880s -- and is likewise unproven.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1933",
+        "src_moses_union_united_proud_past_2008"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.43",
       "added_by": "manual"
     }
   ]

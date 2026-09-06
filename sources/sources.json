@@ -30133,7 +30133,25 @@
       "notes": "Found 2026-09-06 by the \"Otoreke\" sweep. LENDING-RESTRICTED AND NOT READ: one search highlight. Records a Kairos \"Summer Event\" at Camp Otoreke, 29 August to 2 September 1967. See f_5199.",
       "read_state": "snippet",
       "read_state_basis": "snippet:one-search-highlight-only-book-lending-restricted-and-not-read"
+    },
+    {
+      "source_id": "src_moses_union_united_proud_past_2008",
+      "type": "web",
+      "title": "Maranda Moses, Proud Past, Bright Future ([Montreal]: Union United Church, 2008)",
+      "date": "2008",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/proudpastbrightf0000mose",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-otoreke-corpus-sweep.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v8.43",
+      "reliability": "secondary",
+      "notes": "The centennial history of Union United Church, Montreal's historic Black congregation in Little Burgundy. Found 2026-09-06 while chasing Camp Macaulay out of the 1933 YMCA annual report. LENDING-RESTRICTED AND NOT READ: one line of a photo-caption list, 'Page 67. Top: Camp Macaulay. Bottom: CGIT (Canadian Girls In Training)...'. See f_5201, and note that NO SOURCE JOINS this Camp Macaulay to the YMCA's.",
+      "read_state": "snippet",
+      "read_state_basis": "snippet:one-line-of-a-photo-caption-list-book-lending-restricted-and-not-read"
     }
   ],
-  "source_count": 1674
+  "source_count": 1675
 }

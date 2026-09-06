@@ -1,6 +1,6 @@
 # The Quebec Camping Landscape
 
-*Status: E1-reviewed | Sources: 28*
+*Status: E1-reviewed | Sources: 29*
 *Last Updated: 2026-09-06*
 
 ## Overview
@@ -98,6 +98,25 @@ The YMCA of Montreal operated multiple camps alongside Kanawana. The Concordia U
 **Camp Dorval** (at least 1925–1928). A short-lived, weekend/near-city YMCA Montreal camp jointly operated by the Verdun and St. Paul branches, using a leased house on the Marcil Trust Company's land. Its actual operation traces to 1925 — three years earlier than the 1926-1928 span of surviving Concordia records (P0145/12E) previously used to date it — and its 1928 annual report explicitly recommends continuing the program, rather than reading as an abandoned experiment as previously inferred.^2 ^21
 
 **[[site/camp-becsies|Camp Becsies]]**. Another YMCA Montreal camp on Lac des Becs-scie, approximately 1.5 km west of Camp Kanawana. Documented in P0145/12D, with records spanning 1929–1936 and 1960–1971.^2 The camp served youth (including children from the Montreal Protestant Orphans' Home) in its first period, and was repurposed for family camping in its second.
+
+**Camp Macaulay** (at least 1932). Named once, in the YMCA of Montreal's annual report for the year
+ending 31 March 1933: "the boys' section at **Camp Macaulay** was under the charge of **C. J.
+McGerrigle**, who chose his staff of councillors from members of this branch."^29 The sentence sits
+under **International Branch** — the association's immigrant-services branch, whose next paragraph
+describes its "major task, viz., service to the foreigner in our midst, enabling him to adjust
+himself to his new surroundings, to learn the language of his adopted homeland" — so its boys went to
+camp under the man who was North Branch's Executive Secretary and, from about 1935, Camp Otoreke's
+director. **This is the only Montreal YMCA camp operation this project has connected to immigrant
+communities**, and the name appears in no other document held here.
+
+*Two open questions about it, neither answered.* A corpus search finds "Camp Macaulay" in **Union
+United Church's centennial history** — Montreal's historic Black congregation, in Little Burgundy —
+as a photograph caption on page 67, beside a Canadian Girls In Training photograph.^29 Same name,
+same city, same era. **That is not evidence they are the same camp**: the International Branch worked
+with immigrant Montrealers (the same report describes Boy Scout work with Italian and Syrian boys) and
+Union United served Black Montrealers, and those are not one constituency. And the *name* itself is
+unexplained: Robertson and T. B. Macaulay of Sun Life were the association's subscribers from the
+1880s, which makes a donor naming plausible and nothing more. See `p_456`.
 
 **YMCA Day Camps**. In recent decades, the YMCA of Quebec ran day camps at Concordia University (Fine Arts Camp, Science and Engineering Camp) alongside Camp Kanawana programs, until discontinuing day camps in fall 2025.^4
 
@@ -297,6 +316,7 @@ Several patterns emerge from the Quebec and Canadian camp landscape:
 26. *Canadian Camping* Vol. 27 No. 2 (January 1975), the Canadian Camping Association Directory Issue, Quebec section [src_ia_canadian_camping_collection]. Kanawana's entry and the 64 Quebec member camps with their printed founding years, extracted 2026-09-05. See [f_4866], [f_4867], [f_4868].
 27. Commission de toponymie du Québec, *Toponymes officiels*, entity class **Camp**, swept province-wide 2026-09-06 [src_donneesquebec_bnlq_2026]. All 87 entries read. See [f_4893], and [f_4891] for the Kanawana district. The register records a place name, not an institution: it says nothing about who ran a camp, when it opened, or whether it is still running.
 28. Commission de toponymie du Québec, fiches for **Camp Olier** (no_seq 145208), **Camp de l'Avenir** (393822), **Camp Hiawatha** (137664), **Old Brewery Mission** (150335), **Camp Marian** (105558) and **Camp Aurelda** (105559) [src_ct_fiches_neighbour_camps_2026]. Fetched and read 2026-09-06 (p_423); cached at `sources/cache/toponymie/`. See [f_4894], [f_4895].
+29. YMCA of Montreal annual report for the year ending 31 March 1933 [src_ymf_sgw_ymca_annual_report_1933], the International Branch section; and Maranda Moses, *Proud Past, Bright Future* ([Montreal]: Union United Church, 2008) [src_moses_union_united_proud_past_2008], one line of a photo-caption list. Read 2026-09-06 under p_456. The Moses book is lending-restricted and has not been read. See [f_5201].
 
 ## Research Notes
 
