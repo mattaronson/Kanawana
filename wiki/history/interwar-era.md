@@ -1,6 +1,6 @@
 # The Interwar Era (1920s–1930s)
 
-*Status: draft | Sources: 12*
+*Status: draft | Sources: 13*
 *Last Updated: 2026-07-11*
 
 ## Overview
@@ -10,6 +10,8 @@ Between the end of the First World War and the outbreak of the Second, Camp Kana
 ## Staff and Structure, 1921–1923
 
 The 1921, 1922, and 1923 camp brochures, together with the 1923 *Gas Bag* reunion newsletter, provide the most detailed staffing records of the camp's first postwar seasons.^1 ^2 ^3 ^4 Several individuals served across multiple years, indicating an already-stable core staff: Harry Smith as camp chef from around 1913 (documented through his 9th and 10th years, 1921–1922), Johnston W. Abraham as Business Manager from around 1914, F.H. Spinney as Educational Director from around 1917, and Allan B. Cornell as Educational Director from around 1918 through at least 1923, holding the camp's highest staff honour, the Large K badge.^1 Directors during these years were G.D. Brandon (1921), Lemuel P. Ereaux (1922), and Philip G. Paterson (1923) — the 1923 season is the best-documented, with the *Gas Bag* separately naming R.E.G. Davis as "Chief Davis," creating an unresolved ambiguity about whether Paterson or Davis held overall command that year.^1 ^4 See [[people/directors-index|Directors and Staff of Camp Kanawana]] for the full staff rosters and the reasoning behind that ambiguity.
+
+**Harry Smith's tenure is now evidenced in the middle, not just at its ends.** His start around 1913 is back-calculated from the 1921 and 1922 brochures calling those his ninth and tenth years, with nothing in between. The YMCA of Montreal's annual report for the year ending 30 April 1919 carries a recruiting page for the camp which promises that "the inner boy is filled between times with the best of food, good and wholesome, **prepared by Harry**."^13 No surname, but the dates and the role fit, and the page names him by first name alone to an audience of boys — which is itself a sign he was a fixture rather than a new hire. On the back-calculation, 1919 was his seventh season.
 
 ## The Woodcraft League Charter (1922)
 
@@ -52,6 +54,7 @@ By 1935, staffing had further stabilized under Camp Chief Greig Macdiarmid, with
 10. Montreal Gazette (1918), Philip D. Fagans visit [src_newspapers_gazette_1918].
 11. The Green Triangle, July 29, 1938 [src_green_triangle_1938].
 12. The Council Ring (this wiki) — council-ring form provenance (Jens Jensen; Seton, Silver Bay 1910) and the 1929 rebuild to seat 325, both cited there to McMorris [src_mcmorris_thesis].
+13. *Montreal Men*, the YMCA of Montreal's annual report for the year ending 30 April 1919 [src_ymf_sgw_ymca_annual_report_1919_montreal_men], the recruiting page headed "Camp Kanawana." Read 2026-09-06 under p_454. See [f_5178].
 
 ## Research Notes
 

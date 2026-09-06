@@ -1,6 +1,6 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 55*
+*Status: E1-reviewed | Sources: 56*
 *Last Updated: 2026-09-06 (a land purchase in 1963-64, which would explain the jump from 600 acres to 1,000)*
 
 ## Overview
@@ -238,6 +238,17 @@ Facilities documented from the 1920s through the 1970s include:^5 ^11
 - A totem pole (added 1927 under Harold C. Cross; still visible in 1970s photos)
 - **"The Cave"**: The Hike and Trip Department's equipment room^23
 
+**The plant in 1919, a year before this list begins.** A recruiting page in the YMCA of Montreal's
+annual report for the year ending 30 April 1919 describes the camp to boys who had never been:
+"situated on the shores of a lake in the Laurentians a few miles from Piedmont on the C.P.R. The
+camp, nestling among the trees, is practically isolated from any nearby neighbors ... The equipment
+is splendid. **Large tents for sleeping quarters. An immense open air roofed dining-hall, and the
+pavilion for games.**"^56 Nine years onto the Saint-Sauveur site, sleeping was still under canvas
+and the dining hall was roofed but not walled — which is what the 1911 dining hall was, described in
+use. The page also gives the staff as three roles: "the **Director**, a **Doctor** and our
+**Educational Supervisor**." A doctor resident at camp in 1919 is earlier than anything else this
+project holds on medical provision, and it sits sixty years before the infirmary standard below.
+
 **What was inside the infirmary — the national standard, 1978.** Kanawana's own records do not describe the contents of its infirmary, but the camping association it belonged to published a recommended list, written by **J. Harry Ebbs, M.D., F.R.C.P.**, for "a residential summer camp for children with an enrolment of about fifty to one hundred campers" — half Kanawana's size, so a floor rather than a match.^43 It is a useful measure of what a Canadian camp infirmary of this period was expected to hold, and of how much medicine a camp practised on its own.
 
 The equipment is what a small ward needed: a wash basin for each infirmary bed, solution and kidney basins, adult and child bedpans, **a folding stretcher, adjustable crutches, balance scales, an electric sterilizer, a goose-neck lamp, a small refrigerator and a locked metal cabinet**; scissors, splinter and dressing forceps, two haemostats; graduated medicine glasses, droppers, **twenty-five disposable hypodermic syringes and twenty-five needles**; gauze, crepe, flannel and triangular bandages by the dozen.
@@ -377,6 +388,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 53. YMCA of Montreal annual reports for the years ending **31 December 1957** and **31 December 1958** [src_ymf_sgw_ymca_annual_report_1957, src_ymf_sgw_ymca_annual_report_1958]. The 1957 volume calls Kanawana "a sixty acre site"; the 1958 volume says the property "includes three lakes and a part of a fourth, covering some 600 acres." Read 2026-09-06 under p_441. See [f_5086].
 54. YMCA of Montreal, **112th Annual Report**, for the year ended **31 May 1964** [src_ymf_sgw_ymca_annual_report_1963] — property section: "Additional property was purchased by Kamp Kanawana." Read 2026-09-06 under p_441. See [f_5093].
 55. YMCA of Montreal annual report 2006 [src_ymf_sgw_ymca_annual_report_2006]: "our exceptional 550-acre site located near Saint-Sauveur". Read 2026-09-06.
+56. *Montreal Men*, the YMCA of Montreal's annual report for the year ending 30 April 1919 [src_ymf_sgw_ymca_annual_report_1919_montreal_men], the recruiting page headed "Camp Kanawana." Read 2026-09-06 under p_454. See [f_5178].
 
 ## Research Notes
 

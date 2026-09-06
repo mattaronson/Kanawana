@@ -1,8 +1,8 @@
 {
-  "version": "8.29",
-  "kb_version": "8.29",
+  "version": "8.31",
+  "kb_version": "8.31",
   "migrated_from": "3.3",
-  "fact_count": 5136,
+  "fact_count": 5140,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -92573,6 +92573,78 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.29",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5175",
+      "category": "operations",
+      "date_ref": "1918",
+      "entities": [
+        "Camp Kanawana",
+        "J. G. MacKinnon",
+        "G. D. Brandon",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE 1918 SEASON'S DATES AND ITS BALANCE SHEET. *Montreal Men*, the YMCA of Montreal's annual report for the year ending 30 April 1919: 'Our Junior Camp, Kanawana, was open from JUNE 26 TO AUGUST 24, and proved to be A RECORD SEASON, 223 DIFFERENT BOYS attending, with an AVERAGE DAILY ATTENDANCE OF 66. Mr. John MacKinnon, Boys' Work Secretary of Central, was in charge until August 3, Mr. G. D. Brandon relieving him until August 17, Mr. MacKinnon again taking charge until the close of Camp on August 24. The financial statement of the Junior Camp shows A CREDIT BALANCE OF $302 after the season's operations.' The 223, the average of 66 and the MacKinnon-Brandon-MacKinnon relay are all already in this project. THE SEASON DATES AND THE $302 ARE NEW: a 60-day season, and meta/attendance-series.md's 1918 row carried no dates. Note also that the report calls MacKinnon JOHN MacKinnon, Boys' Work Secretary of Central -- the same identification people/directors-index.md uses to argue that its 1915 'John McKinnon' row and its 1916-19 'J. G. MacKinnon' row are one man. This is a second document making that join, and it is a document rather than an arithmetic inference from a Year Book entry year.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1919_montreal_men"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.30",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5176",
+      "category": "operations",
+      "date_ref": "1919",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE 1919 SEASON'S ADVERTISED DATES, PRINTED BEFORE THE SEASON RAN. The same volume carries a recruiting page headed CAMP KANAWANA, and it ends: 'CAMP OPENS JUNE 28TH, CLOSES AUGUST 30TH, 1919.' Sixty-three days, three longer than 1918. THIS BEARS ON THE PROJECT'S OLDEST UNSETTLED FIGURE. meta/attendance-series.md carries the 289-boy season as dated three different ways by the association's own reports, and adopts summer 1919 as the reading. A 63-day season advertised for 1919 -- the longest to that point, against a 1918 season the same report calls 'a record' at 223 boys -- is consistent with 289 being 1919, and consistent with the 1919-20 report calling that season badly overcrowded against a capacity of 80-90. IT DOES NOT SETTLE IT: an advertised date is a plan, not a record of what happened, and nothing here says the camp ran to 30 August. Recorded as support for the adopted reading, not as proof of it.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1919_montreal_men"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.30",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5177",
+      "category": "operations",
+      "date_ref": "1918",
+      "entities": [
+        "Senior Camp",
+        "W. H. Henderson",
+        "W. A. MacLaren",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE SENIOR CAMP IN 1918, AND WHAT THE WAR DID TO IT. The same volume: 'The Senior [Camp] was open for TWO WEEKS -- JULY 13 TO 29, 1918 -- with Mr. W. H. HENDERSON and Mr. W. A. MACLAREN in charge; also DURING WEEK-ENDS AND HOLIDAYS IN MAY, JUNE AND AUGUST, with an ATTENDANCE OF SEVENTY-TWO MEMBERS. THE ENLISTMENT FOR OVERSEAS SERVICE FROM OUR MEMBERSHIP GREATLY INTERFERED WITH THE OPERATION OF THE SENIOR CAMP THIS YEAR. The financial statement shows A BALANCE OF $73 ON THE RIGHT SIDE.' TWO THINGS. (1) The senior camp's decline now has three consecutive readings and a stated cause: 130 in 1916, 90 in 1917 (both from the 1918 report, already in meta/attendance-series.md), 72 in 1918, with the association itself naming ENLISTMENT as the reason. The boys' camp set a record in the same summer -- the two series move in opposite directions, which is what one would expect of a men's camp in the last summer of the war. (2) 'Two weeks' and '13 to 29 July' do not agree: that is seventeen days. The dates are the specific claim and the 'two weeks' is the loose one.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1919_montreal_men"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.30",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5178",
+      "category": "site",
+      "date_ref": "1919",
+      "entities": [
+        "Camp Kanawana",
+        "Harry"
+      ],
+      "claim": "THE CAMP AS IT ADVERTISED ITSELF IN 1919, AND THE EARLIEST NAMED COOK. The recruiting page in *Montreal Men*: 'a camp situated on the shores of a lake in the Laurentians A FEW MILES FROM PIEDMONT ON THE C.P.R. The camp, nestling among the trees, is PRACTICALLY ISOLATED FROM ANY NEARBY NEIGHBORS ... The equipment is splendid. LARGE TENTS FOR SLEEPING QUARTERS. AN IMMENSE OPEN AIR ROOFED DINING-HALL, AND THE PAVILION FOR GAMES. Swimming, boating and games, all under able supervision ... while the inner boy is filled between times with the best of food, good and wholesome, PREPARED BY HARRY. Supervision is in the hands of the camp staff, headed by the DIRECTOR, A DOCTOR AND OUR EDUCATIONAL SUPERVISOR.' THREE USES. (1) The physical plant in 1919 is TENTS, an open-air roofed dining hall and a games pavilion -- no cabins, and the dining hall roofed but not walled, nine years into the Saint-Sauveur site. (2) The staff is described as three roles: Director, Doctor, Educational Supervisor. A resident doctor in 1919 is earlier than anything this project has on camp medical provision. (3) 'HARRY' IS ALMOST CERTAINLY HARRY SMITH, and the mention fills a hole in his tenure. history/interwar-era.md has 'Harry Smith as camp chef from around 1913 (documented through his 9th and 10th years, 1921-1922)' -- the 1913 start being back-calculated from those numbered years, with no direct evidence for anything between. THIS IS EVIDENCE FOR 1919, roughly the middle of that empty span, and it is consistent: his 9th year in 1921 makes 1919 his 7th. The identification rests on the first name plus the overlap of dates and role, not on the document, which gives no surname -- but the page names him by first name alone to an audience of boys, which is itself evidence he was a fixture rather than a new hire. [CORRECTED 2026-09-06 before use: this first said Harry was the earliest named kitchen staff in the project and that no other Harry appeared in the camp record. Both were wrong and one grep showed it. THE GREP WAS RUN AFTER THE SENTENCE WAS TYPED, for the second time in one day -- see f_5174 for the first.]",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1919_montreal_men"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.30",
       "added_by": "manual"
     }
   ]

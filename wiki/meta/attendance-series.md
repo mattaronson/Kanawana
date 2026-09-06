@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 26*
+*Status: draft | Sources: 27*
 *Last Updated: 2026-09-06 (the 1916 fee and season, from a school magazine advertisement)*
 
 ## Overview
@@ -44,8 +44,8 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1915 | 167 | — | 26 June – 25 Aug |
 | 1916 | 175 | — | Season 24 June – 12 August; $5.00 a week^11 |
 | 1917 | 168 | — | The report calls this "a splendid increase over last year." **It was a decrease** — 175 the year before ⚠️ |
-| 1918 | 223 | avg daily 66 | |
-| **1919** | **289** ⚠️ | peak 165 in camp | Badly overcrowded; capacity was 80–90 |
+| 1918 | 223 | avg daily 66 | Season **26 June – 24 August**; the report calls it "a record season"; camp closed the year $302 to the good^27 |
+| **1919** | **289** ⚠️ | peak 165 in camp | Badly overcrowded; capacity was 80–90. Season **advertised** 28 June – 30 August, the longest to that point — a plan, not a record of what ran^27 |
 | 1921 | 391 | — | Season **22 June – 27 August**, the longest dated season in the record; peak 212; 812 badges won ⚠️^26 |
 | 1922 | 307 | — | |
 | 1923 | 269 | 934 | **Scored 893/1000 — highest in Canada** in the national Camp Grading Scheme |
@@ -182,7 +182,7 @@ And one that is not an arithmetic problem but a reporting one: **the 1918 report
 
 **A lifetime-total contradiction, too.** The 1964 report says "**Forty thousand** boys have earned the title 'Kanawanian' since Kanawana was established." The 1984 report says "More than **34,000** people have benefited over the years." The later figure is smaller than the earlier one. Neither is reconcilable with the other, and neither is reconcilable with the season-by-season series above, which totals well under 40,000 for the years it covers.
 
-**A scope note that matters for the pre-1921 rows.** Those figures count the **boys' camp only**. The reports give the senior/members' camp separately, and it is often the larger of the two — the 1918 report, for instance, gives the Senior Camp "Attendance 90, as compared with 130, last year" under W. H. Henderson, W. A. MacLaren and M. F. Furey, right beside the 168 boys. The two series must not be added together.^1
+**A scope note that matters for the pre-1921 rows.** Those figures count the **boys' camp only**. The reports give the senior/members' camp separately, and it is often the larger of the two — the 1918 report, for instance, gives the Senior Camp "Attendance 90, as compared with 130, last year" under W. H. Henderson, W. A. MacLaren and M. F. Furey, right beside the 168 boys. The two series must not be added together.^1 **The senior series continues one year further, and the association names the cause of its fall.** The 1919 volume gives the Senior Camp open "for two weeks — July 13 to 29, 1918" under Henderson and MacLaren, plus weekends and holidays in May, June and August, "with an attendance of seventy-two members," and states that "the enlistment for overseas' service from our membership greatly interfered with the operation of the Senior Camp this year."^27 So 130, 90, 72 across 1916, 1917 and 1918 — while the boys' camp set a record in that last summer. The two series move in opposite directions in the final year of the war, which is what one would expect of a men's camp. (The report's own "two weeks" and its "July 13 to 29" do not agree; the dates are the specific claim.)
 
 ## The 2026-09-05 fill, and one correction it forced
 
@@ -354,6 +354,7 @@ Three things stand out and none of them is visible from any single article.
 24. Montreal YMCA annual reports for the years ended 31 December 2008 and 31 December 2009 [src_ymf_sgw_ymca_annual_report_2008, src_ymf_sgw_ymca_annual_report_2009], the "Social Audit" table headed PROGRAMS / PERSONS. Read 2026-09-06 under p_454. The same table appears in the 2002-2003, 2003-2004, 2004-2005 and 2007 reports but its number column is separated from its labels by the OCR in those years, so only 2008 and 2009 are legible here.
 25. Montreal YMCA annual report 2001-2002 [src_ymf_sgw_ymca_annual_report_2001_2002], "YMCA Kamp Kanawana - A Year of Firsts" and the Social Audit table. Read 2026-09-06 under p_454. THE SAME REPORT GIVES TWO NUMBERS that cannot both be season registrations; see the rows.
 26. YMCA of Montreal annual report for the year ending 30 April 1922 [src_ymf_sgw_ymca_annual_report_1921_1922], the "Camps" section, covering the summer of 1921. Read closely 2026-09-06 under p_454 — this volume had been keyword-swept for years and quoted at second hand in the 289-boy note above, but not read. See [f_5166], [f_5167].
+27. *Montreal Men*, the YMCA of Montreal's annual report for the year ending 30 April 1919 [src_ymf_sgw_ymca_annual_report_1919_montreal_men] — the "Camps" section, covering the summer of 1918, and the recruiting page advertising the 1919 season. Read 2026-09-06 under p_454. See [f_5175], [f_5176], [f_5177].
 
 ## Research Notes
 

@@ -3452,7 +3452,8 @@
         "f_2252",
         "f_2253",
         "f_2254",
-        "f_2255"
+        "f_2255",
+        "f_5178"
       ],
       "sources_cited": [
         "src_batshaw_camp_weredale",
@@ -3483,7 +3484,8 @@
         "src_ymf_sgw_ymca_annual_report_1957",
         "src_ymf_sgw_ymca_annual_report_1958",
         "src_ymf_sgw_ymca_annual_report_1963",
-        "src_ymf_sgw_ymca_annual_report_2006"
+        "src_ymf_sgw_ymca_annual_report_2006",
+        "src_ymf_sgw_ymca_annual_report_1919_montreal_men"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -3498,7 +3500,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 6883,
+      "word_count": 7077,
       "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral. 2026-06-20: Added Indigenous territory context (f_1315) and Mille-Isles regional history (f_1314). 2026-06-21: Added 1976 Lovell's directory listing (f_1331) and 2023 superintendent's house fire (f_1333). | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph about the Weredale lease into a new Research Notes > Revision History section (this article previously had no Research Notes section at all). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -9168,7 +9170,8 @@
         "f_1407",
         "f_1408",
         "f_1846",
-        "f_1847"
+        "f_1847",
+        "f_5178"
       ],
       "sources_cited": [
         "src_brochure_1921",
@@ -9180,7 +9183,8 @@
         "src_mcmorris_thesis",
         "src_newspapers_gazette_1918",
         "src_wikipedia_woodcraft_league",
-        "src_woodcraft_birch_bark"
+        "src_woodcraft_birch_bark",
+        "src_ymf_sgw_ymca_annual_report_1919_montreal_men"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -9192,7 +9196,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 1260,
+      "word_count": 1413,
       "notes": "2026-07-11: Workstream C4 spawn (1 of 4). Connective-narrative synthesis, no new research conducted. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
       "tags": {
         "era": [
@@ -10333,7 +10337,10 @@
         "f_4912",
         "f_4913",
         "f_5166",
-        "f_5167"
+        "f_5167",
+        "f_5175",
+        "f_5176",
+        "f_5177"
       ],
       "sources_cited": [
         "src_flickr_kanawana_plaque_album",
@@ -10389,7 +10396,8 @@
         "src_ymf_sgw_ymca_annual_report_2008",
         "src_ymf_sgw_ymca_annual_report_2009",
         "src_ymf_sgw_ymca_annual_report_2001_2002",
-        "src_ymf_sgw_ymca_annual_report_1921_1922"
+        "src_ymf_sgw_ymca_annual_report_1921_1922",
+        "src_ymf_sgw_ymca_annual_report_1919_montreal_men"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -10404,7 +10412,7 @@
         "cca-statistics"
       ],
       "file_id": null,
-      "word_count": 7444,
+      "word_count": 7667,
       "notes": "Created 2026-08-14 (p_256) from the 114-annual-report sweep. ~60 seasons of camper counts and camper-weeks, 1894-2023, with SIX internal inconsistencies carried as flags rather than resolved -- every one of them the association contradicting itself. Kept as a separate article so the contradictions travel with the numbers. No aggregate totals computed: too many missing years, the 1998-2001 rows count a different population, and the two documented lifetime totals (40,000 in 1964, 34,000 in 1984) contradict each other. Marked draft, not stub, because it is transcription of primary figures rather than synthesis; NOT yet VERIFY-passed -- figures should be spot-checked against the OCR before advancing."
     },
     {
