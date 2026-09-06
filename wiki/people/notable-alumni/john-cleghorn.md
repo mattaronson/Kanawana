@@ -1,7 +1,7 @@
 # John Cleghorn
 
-*Status: draft | Sources: 7*
-*Last Updated: 2026-08-28*
+*Status: draft | Sources: 8*
+*Last Updated: 2026-09-06 (a date for the YMCA chairmanship, from the camp newsletter)*
 
 ## Overview
 
@@ -14,6 +14,10 @@ Cleghorn attended Westmount High School and graduated from McGill University in 
 ## Business and Institutional Career
 
 Cleghorn served as Chairman and CEO of the Royal Bank of Canada from 1994 to 2001, and subsequently as Chairman of Canadian Pacific Railway and of SNC-Lavalin.^3 He is an Officer of the Order of Canada and a Companion of the Canadian Business Hall of Fame, and served as Chancellor of Wilfrid Laurier University from 1996 to 2003.^3 ^1 Cleghorn chaired the Montreal YMCA and was named an Officer of YMCA Canada's Fellowship of Honour, confirming institutional ties to the organization well beyond his own camp years.^1
+
+**The chairmanship now has a start date, and it comes from the camp.** Kanawana's staff newsletter for February 1979 runs it as camp news rather than corporate news: "Former K.K. counsellor and father of some present kampers is the new Chairman of the Board of the Montreal YMCA...Congratulations to John Cleghorn."^8 He was **37**, fifteen years before the Royal Bank chairmanship. Two things follow from a sentence written by his own camp's director. The counsellor year, which this article had only on the association's 1996 word for it, is **independently attested seventeen years earlier** — and by people who would have worked alongside him. And his children were at Kanawana while he chaired the association, which is the arrangement the article's opening line describes without a date.
+
+*What it does not settle is the span.* The 1996 Massé citation praises "the leadership he provided as Chairman of the Montreal YMCA **during a particularly tumultuous time in its history**," and an award given in 1996 reads more naturally as recent service than as service beginning seventeen years before. Either the chairmanship was long, or there were two of them, or the tumult was the turn of the 1980s. Nothing here decides it.
 
 ## The Massé Award, 1996, and a counsellor year
 
@@ -45,6 +49,7 @@ And it records an award this project did not have. At the **Heritage Club's 13th
 5. Wikipedia, "John Cleghorn" [src_wikipedia_john_cleghorn].
 6. Kanawana Flickr "Plaque" album, "Rangers 56" plaque [src_flickr_kanawana_plaque_album]. See [f_1670].
 7. Montreal YMCA annual report 1996 [src_cache_sgw_ymca_annual_report_1996], the Heritage Club banquet page. Read 2026-09-06 under p_454; this volume had been marked unread and has no Wayback twin.
+8. Derek V. Walsh, "Ka-News '79," February 1979 [src_ymf_ka_news_1979_02], YMCA of Montreal fonds. The camp's own staff newsletter. Read in full 2026-09-06 under p_418. See [f_5221].
 
 ## Research Notes
 

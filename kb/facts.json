@@ -1,8 +1,8 @@
 {
-  "version": "8.63",
-  "kb_version": "8.63",
+  "version": "8.64",
+  "kb_version": "8.64",
   "migrated_from": "3.3",
-  "fact_count": 5180,
+  "fact_count": 5189,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93384,6 +93384,174 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.63",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5219",
+      "category": "people",
+      "date_ref": "1979-02-05",
+      "entities": [
+        "Derek V. Walsh",
+        "Kamp Kanawana",
+        "YMCA of Montreal",
+        "Victoria YM-YWCA"
+      ],
+      "claim": "DEREK WALSH'S OWN RESIGNATION LETTER SETTLES WHERE HE WENT, AND derek-walsh.md HAD THE BALANCE THE WRONG WAY. A \"Special Ka-News\" dated 5 February 1979 begins \"It is not without sadness that I write this, my last letter to you as director of Kamp Kanawana. As of today's date, I have resigned from the Montreal YMCA. I will be assuming a similar post with the Victoria YM-YWCA in mid-March.\" He thanks the staff for \"my six years at K.K.\", which counts from his 1973 programme-co-ordinator season, and adds \"If you are ever in Victoria, do drop by the Y.\" Open question 2 of derek-walsh.md had weighed one 1979 Canadian Camping line placing him at Camp Thunderbird, Victoria against three later lines placing him in Quebec and concluded the tally was \"no longer evenly balanced\" -- in favour of Quebec. IT WAS BALANCED THE WRONG WAY. The 1979 line was right. What now needs explaining is the CCA's later Quebec attributions, of which Jocelyn Palm's \"Derek Walsh (Que.)\" in Spring 1982 is the hardest, since it is a national president assigning her own volunteers three years after the move. Whether he returned east is the half still open.",
+      "sources": [
+        "src_ymf_ka_news_1979_02_05"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5220",
+      "category": "people",
+      "date_ref": "1979-05",
+      "entities": [
+        "Dave Paltiel",
+        "Derek V. Walsh",
+        "Camp Thunderbird",
+        "Victoria YM-YWCA",
+        "Kamp Kanawana"
+      ],
+      "claim": "A SECOND, INDEPENDENT KANAWANA DOCUMENT PUTS WALSH IN VICTORIA. Ka-News for May 1979, written by assistant director Kevin Forster: \"Dave Paltiel left for Victoria, B.C. to work for Derek at Camp Thunderbird as Waterfront Director.\" This is three months after the resignation letter, from a different author, and it records a Kanawana staff member following him west to work for him -- which is not the kind of thing produced by a lagging line of association copy, the explanation derek-walsh.md had preferred for the Canadian Camping mention. Camp Thunderbird here is the Victoria YM-YWCA camp on southern Vancouver Island, NOT the Montreal YMCA's own wartime Camp Thunderbird of 1942-43, a conflation the article already warns about.",
+      "sources": [
+        "src_ymf_ka_news_1979_05"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5221",
+      "category": "people",
+      "date_ref": "1979-02",
+      "entities": [
+        "John Cleghorn",
+        "YMCA of Montreal",
+        "Kamp Kanawana"
+      ],
+      "claim": "JOHN CLEGHORN BECAME CHAIRMAN OF THE BOARD OF THE MONTREAL YMCA IN EARLY 1979, AND THE CAMP NEWSLETTER IS WHAT DATES IT. Ka-News for February 1979, in its staff-gossip column: \"Former K.K. counsellor and father of some present kampers is the new Chairman of the Board of the Montreal YMCA...Congratulations to John Cleghorn.\" Born 7 July 1941, he was 37, and this is fifteen years before the Royal Bank chairmanship. john-cleghorn.md carried \"Cleghorn chaired the Montreal YMCA\" with no date at all. TWO FURTHER THINGS. His service as a Kanawana COUNSELLOR, which this project had only from the association's own 1996 annual report, is independently attested here seventeen years earlier and by the camp's own staff. And his children were campers at Kanawana while he chaired the association. WHAT IS NOT SETTLED is the length of the chairmanship: the 1996 Masse Award citation praises his leadership as Chairman \"during a particularly tumultuous time,\" which reads more naturally as recent service than as service beginning in 1979. A long tenure, two separate tenures and a turn-of-the-1980s tumult are all consistent with what is held.",
+      "sources": [
+        "src_ymf_ka_news_1979_02"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5222",
+      "category": "site",
+      "date_ref": "1978",
+      "entities": [
+        "Kamp Kanawana",
+        "Kanawana Outing Club"
+      ],
+      "claim": "THE AUTUMN 1978 WORKS AT KANAWANA, FROM THE NEWSLETTER THAT REPORTED THEM WHILE THEY WERE HAPPENING. Ka-News for October 1978: \"at Kamp, we are in the midst of installing a new septic system. It will be large enough to 'accommodate' all Kamp wastes. In addition, renovations are taking place in most of the staff quarters, dining hall, kitchen and Lodge. Some of this work has been long overdue.\" By the December issue \"The new septic system is half complete and will also provide a large new play field near the chief's cabin.\" So a single 1978 works season put in the camp's first whole-site sewage capacity, renovated four buildings, and produced a playing field as a by-product of the excavation. The same issues record the Kanawana Outing Club as the winter ski programme Derek Walsh and Olga Hall were preparing, and that the Kamp truck was for sale in October and sold by December.",
+      "sources": [
+        "src_ymf_ka_news_1978_10",
+        "src_ymf_ka_news_1978_12"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5223",
+      "category": "staff",
+      "date_ref": "1978-12",
+      "entities": [
+        "Kamp Kanawana",
+        "St. John Ambulance",
+        "Royal Life Saving Society"
+      ],
+      "claim": "THE CAMP TIGHTENED UP FOR 1979, AND SAID SO IN WRITING TO ITS OWN STAFF. Ka-News for December 1978 lists four changes: counsellor salary range increased by 25 per cent, other salaries essentially unchanged; anyone wishing to work as tripper or tripper-counsellor must hold a St. John Ambulance First Aid Certificate and a minimum of a Bronze Medallion life saving award; the positions of Arts and Crafts assistant and waterfront auxiliary abolished; and \"Kamp will be operated a little differently next year. A number of things that were tolerated in the past will not be in '79. Details will be discussed when you have your interview. Senior positions will in most cases require two or more interviews.\" The last is unusually blunt for a staff newsletter and names nothing. A related Quebec regulatory change had already appeared in the French-language issue of 29 March 1978: \"il existe maintenant une nouvelle loi qui exige que tout personnel aquatique possede son certificat de sauveteur\" -- a new law requiring every aquatic staff member to hold a lifesaving certificate, with the next National Lifeguard Service course starting 22 April 1978 at the Westmount YMCA. THAT LAW IS NOT NAMED IN THE SOURCE and is not identified here; it bears on p_388, which is looking for exactly this kind of Quebec camp-waterfront regulation from the later 1970s.",
+      "sources": [
+        "src_ymf_ka_news_1978_12",
+        "src_ymf_ka_news_1978_03_29"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5224",
+      "category": "institutional",
+      "date_ref": "1979-02",
+      "entities": [
+        "Derek V. Walsh",
+        "Kamp Kanawana",
+        "Hong Kong"
+      ],
+      "claim": "A KANAWANA-HONG KONG STAFF EXCHANGE WAS DISCUSSED IN JANUARY 1979 AND NOTHING HERE SAYS IT HAPPENED. Ka-News for February 1979 opens with Derek Walsh back from Western Canada, Tokyo, Hong Kong, Macau and China -- \"The most memorable part of the trip was the four days in China\" -- and reports: \"Incidentally, while visiting a YMCA camp in Hong Kong, the possibilities of a staff exchange were discussed. If you are interested, let me know so that it can be pursued.\" The camp is not named and no later Ka-News in this project's cache returns to it. Walsh resigned three days short of a fortnight after writing this, which is the likeliest reason it went nowhere. Same issue: he had been nominated Vice-President of the Canadian Camping Association, and he and Gord were to attend the CCA-ACA convention in Minnesota the following month.",
+      "sources": [
+        "src_ymf_ka_news_1979_02"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5225",
+      "category": "media",
+      "date_ref": "1979",
+      "entities": [
+        "Gord Logan",
+        "Outdoors Canada",
+        "Kamp Kanawana",
+        "CFCF"
+      ],
+      "claim": "A MAGAZINE ARTICLE ON KANAWANA-STYLE CANOE TRIPPING WITH GIRLS WAS DUE IN SPRING 1979, AND THIS PROJECT HAS NEVER HEARD OF IT. Ka-News for December 1978: \"Gord has left CFCF to take up writing fulltime - a story of his on 'Canoe Tripping with Girls' will be published next spring in 'Outdoors Canada' magazine,\" and \"Steve Reizes and Marie Therien may have some of their photos printed with Gord's story.\" The May 1979 issue identifies him: \"Gord Logan buzzed into our office last month to reminisce about his experiences leading a senior girls trip. Gord will offer his talents at Kamp this summer.\" So the author is a former Kanawana senior-girls trip leader and former CFCF employee writing from his own camp experience. GREPPED: \"Outdoors Canada\" occurs nowhere else in wiki/ or kb/facts.json. Whether the piece names Kanawana is unknown -- it is not claimed here that it does. Queued as p_457.",
+      "sources": [
+        "src_ymf_ka_news_1978_12",
+        "src_ymf_ka_news_1979_05"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5226",
+      "category": "method",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Ka-News",
+        "Kamp Kanawana",
+        "Camp Counsellor's Handbook"
+      ],
+      "claim": "TWO SMALLER THINGS FROM THE SAME FULL READ OF THE 1977-79 KA-NEWS RUN. (1) THE HANDBOOK WAS HARD TO GET. Ka-News May 1979: \"We understand that people are having difficulty locating Blackstock's and Latimer's 'Camp Counsellor's Handbook'. A telephone survey of most of the W. H. Smith, Classics and Cole's bookstores in Montreal indicated that none have it in stock. Consequently, we've ordered 18 copies directly from the publisher.\" The camp required every staff member to have read it before pre-kamp and had done so since at least April 1978. So a standard text of Canadian camping, co-written by a man who chaired Kanawana's own centenary journey committee, could not be bought in a Montreal bookshop the year it was assigned. (2) TWO CACHED FILES ARE ONE NEWSLETTER. ka-news-1978-12.txt and ka-news-1978-12-2.txt carry the same December 1978 issue; the -2 file simply has the staff Christmas party invitation printed above it and \"See you next week\" below. They are not two issues and must not be counted as two. Relevant to p_442.",
+      "sources": [
+        "src_ymf_ka_news_1979_05",
+        "src_ymf_ka_news_1978_12_2"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5227",
+      "category": "site",
+      "date_ref": "1977-12-01",
+      "entities": [
+        "Kamp Kanawana",
+        "Derek V. Walsh"
+      ],
+      "claim": "THE $850,000 RECONSTRUCTION HAD NOT BROKEN GROUND BY 1 DECEMBER 1977, AND THE STAFF HAD BEEN THROUGH THIS BEFORE. Ca-News of that date, Derek Walsh to the Kanawana staff: \"At this point, we have not started construction of the new site. So here we go again with another 'last' summer.\" The 1977 director's report had opened with bulldozers arriving for an $850,000 two-site reconstruction and the line \"this is the last year of K.K. as we've known it.\" The word that matters is \"again\": the staff had been told more than once that a season would be the last on the present site, which makes the 1977 announcement one of a series rather than the start of one. THE NEWSLETTER DOES NOT SAY WHAT THE NEW SITE WAS, and it must not be assumed to be the Weredale two-site arrangement of 1977-1980 -- they are contemporaneous and the source joins them nowhere.",
+      "sources": [
+        "src_ymf_ka_news_1977_12_01"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.64",
       "added_by": "ralph_loop"
     }
   ]

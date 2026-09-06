@@ -3503,7 +3503,8 @@
         "src_ymf_sgw_ymca_annual_report_2006",
         "src_ymf_sgw_ymca_annual_report_1919_montreal_men",
         "src_ymf_sgw_ymca_annual_report_1933",
-        "src_ymf_sgw_ymca_annual_report_1913"
+        "src_ymf_sgw_ymca_annual_report_1913",
+        "src_ymf_ka_news_1977_12_01"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -3518,7 +3519,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 7489,
+      "word_count": 7670,
       "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral. 2026-06-20: Added Indigenous territory context (f_1315) and Mille-Isles regional history (f_1314). 2026-06-21: Added 1976 Lovell's directory listing (f_1331) and 2023 superintendent's house fire (f_1333). | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph about the Weredale lease into a new Research Notes > Revision History section (this article previously had no Research Notes section at all). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -8279,7 +8280,8 @@
         "src_wikipedia_john_cleghorn",
         "src_ymca_quebec_pip_skinner",
         "src_flickr_kanawana_plaque_album",
-        "src_cache_sgw_ymca_annual_report_1996"
+        "src_cache_sgw_ymca_annual_report_1996",
+        "src_ymf_ka_news_1979_02"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -8288,7 +8290,7 @@
         "james-orbinski"
       ],
       "file_id": null,
-      "word_count": 931,
+      "word_count": 1168,
       "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. Combines oral history (src_oral_aronson) with documented sources (Wikipedia, Canadian Encyclopedia); no conflict exists between them so no resolution needed. Corrected dangling source_id reference (src_cleghorn_wikipedia -> src_wikipedia_john_cleghorn) in kb/facts.json while preparing this article.",
       "tags": {
         "era": [
@@ -11015,9 +11017,11 @@
         "src_ia_kanawana_report_1973",
         "src_ia_kanawana_report_1974",
         "src_ia_kanawana_report_1977",
-        "src_ia_ymca_montreal_annual_reports_collection"
+        "src_ia_ymca_montreal_annual_reports_collection",
+        "src_ymf_ka_news_1979_02_05",
+        "src_ymf_ka_news_1979_05"
       ],
-      "open_questions": 3,
+      "open_questions": 2,
       "cross_links": [
         "people/directors-index",
         "people/leo-robitaille",
@@ -11026,7 +11030,7 @@
         "quebec-camping-association"
       ],
       "file_id": null,
-      "word_count": 3494
+      "word_count": 3898
     },
     {
       "article_id": "oldest-camp-question",

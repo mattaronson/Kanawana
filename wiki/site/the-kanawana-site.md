@@ -1,6 +1,6 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 58*
+*Status: E1-reviewed | Sources: 59*
 *Last Updated: 2026-09-06 (a land purchase in 1963-64, which would explain the jump from 600 acres to 1,000)*
 
 ## Overview
@@ -318,6 +318,8 @@ Lac Kanawana is monitored by the Conseil régional de l'environnement des Lauren
 
 From 1977 to 1980, plans existed for a proposed two-site operation using Kanawana and Camp Weredale.^13 Camp Weredale was founded in 1934 to serve orphaned or at-risk boys and is now an independent non-profit operated by the Weredale Foundation, serving ages 6–17 in foster care or youth protection services.^15 A direct fetch of Batshaw Centres' own institutional history pages for Camp Weredale (2026-07-09) confirms they make zero mention of the YMCA, Kanawana, or any two-site plan at all.^32 This was not simply a proposal that went unrealized: Concordia's finding aid for sub-series 12F documents an actual signed 1979 lease between the Weredale Foundation and the Montreal YMCA, plus joint files running through 1981-1982 (a day-camp proposal, a "YMCA staff cottage rental," a "Comité Weredale"; see Revision History and [[connections/related-camps/camp-weredale|Camp Weredale and Its Relationship to Kanawana]] for the full finding). Both camps operate independently today; why and when the 1979-1982 arrangement ended remains undocumented online.^34
 
+**The reconstruction was announced, then did not start, and the staff were told so.** The 1977 director's report opens with bulldozers arriving for an $850,000 two-site reconstruction and the line "this is the last year of K.K. as we've known it." Nine months later the camp's own staff newsletter reports the opposite: "At this point, we have not started construction of the new site. **So here we go again with another 'last' summer.**"^59 The "again" is the useful word. It says the staff had been told more than once that a given season would be the last on the present site, which puts the 1977 announcement in a sequence rather than at the head of one, and it dates the stall to **1 December 1977**. Nothing in the newsletter says what the new site was to be, and it should not be assumed to be the Weredale arrangement above; the two are contemporaneous and the newsletter does not join them.
+
 ## Images
 
 ![The dining hall, c.1920s](../../assets/images/historical/dining-hall-c1920s.jpg)
@@ -416,6 +418,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 56. *Montreal Men*, the YMCA of Montreal's annual report for the year ending 30 April 1919 [src_ymf_sgw_ymca_annual_report_1919_montreal_men], the recruiting page headed "Camp Kanawana." Read 2026-09-06 under p_454. See [f_5178].
 57. YMCA of Montreal annual report for the year ending 31 March 1933 [src_ymf_sgw_ymca_annual_report_1933], on the Central residence building's laundry. Read 2026-09-06 under p_454. See [f_5181].
 58. YMCA of Montreal annual report for **1913** [src_ymf_sgw_ymca_annual_report_1913], the Camp Committee's description of both camp properties. Read 2026-09-06 under p_454. See [f_5193].
+59. Derek V. Walsh, "Ca-News," 1 December 1977 [src_ymf_ka_news_1977_12_01], YMCA of Montreal fonds. Read in full 2026-09-06 under p_418. See [f_5227].
 
 ## Research Notes
 
