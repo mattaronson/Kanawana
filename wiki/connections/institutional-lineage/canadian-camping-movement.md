@@ -87,6 +87,43 @@ The Quebec Camping Association (QCA) was formed in 1937 as a chartered unit of t
 - The question of a workable affiliation formula was **first raised at the CCA's 1963 annual meeting at Banff**, and took "quelque six années d'études, de discussions, d'évaluation et de recherches" to settle.^8s
 - The French section's affiliation to the CCA was announced in **February 1969**, placing the Conseil Provincial "au niveau national" so that Quebec's camps had "une voix les représentant tous." The president of the French section was **M. Lionel Perras, p.s.s.**^8s
 
+**The man who did the organising wrote it down in 1965, with dates.** Tony Shorgan — Executive Secretary
+of the Quebec Society for Crippled Children and Camp Director of the Crippled Children's Camp at St.
+Alphonse, Joliette — published "Birth of the French Camping Association" in *Canadian Camping* in April
+1965, and his account is the closest thing this project has to a founding narrative for the body that
+accredits Kanawana today.^8bq
+
+In **1957**, at a committee meeting preparing a joint CCA/QCA conference, he asked whether a few sessions
+might be held in French; some present doubted French camp directors would be interested. He canvassed
+directors he knew, called a meeting at his own office on twenty-four hours' notice, and — "despite one
+of the worst blizzards we have ever had" — some eighteen French-speaking camp directors came, with Nan
+Vail, past president of both associations. On **12 April 1958**, at the Windsor Hotel, a special
+French-language session struck a committee for a year's trial under his presidency, which took the name
+**Association des Camps Canadiens Français**. On **17 July 1958**, at his own camp at St. Alphonse, under
+the honorary presidency of **Monsignor J. A. Papineau, Bishop of Joliette**, the group resolved to apply
+to join the QCA. On **15 November 1958**, permanent officers were elected after a full day in the Mont
+St-Louis gymnasium. In **1959** came a newsletter every two months and inter-camp visits — French
+directors visiting English and Jewish camps. And in **1960** the group changed its own name to
+**"Association des Camps du Québec (Section Française)"** [f_4863].
+
+**That last date matters for how this article names things.** The association that accredits Kanawana
+carries the name the *French section* gave itself in 1960, before the merger with the QCA Inc. (English
+Section) — which is a different descent from "the QCA renamed." Three founding dates now sit side by
+side and are not interchangeable: the QCA formed **1937** as a chartered unit of the CCA; the French
+section formed **1958** and named itself Association des Camps du Québec in **1960**; and the ACQ's own
+website today says "Fondée en 1961 à l'initiative de directeurs de camps de vacances," which is the year
+of the provincial charter and of the section joining the QCA. Each is right about a different event
+[f_4864, f_4859].
+
+**Two things in Shorgan's account disagree with the contemporaneous reports, and are left disagreeing.**
+He remembers eighteen directors at the blizzard meeting; the June 1958 Quebec report says "some fifteen
+persons attended." He places that meeting in his office in 1957; the 1958 report gives it no date or
+place and has René St-Onge in the chair. The two are compatible if the office meeting and the April 1958
+conference session are different events — which is the natural reading of his own sequence — but the
+1958 report does not say so, and this is a seven-year-later recollection against a contemporaneous
+minute [f_4865]. His surname also appears in this project's sources as both **Shorgan** (his own byline,
+and the 1959 report) and **Shorgun** (Winter 1987); the byline is the better authority.
+
 So the ACQ and the QCA existed as parallel sections of one provincial structure for at least eight years, and the ACQ was never simply the QCA renamed. When the ACQ became the province's single association is not established by any source yet consulted, and should not be inferred from the 1969 merger alone.
 
 A related datum on the two sections' convergence: *Le Guide du moniteur*, Mary L. Northway and Barry Lowes's counsellor handbook, was published in French translation in 1969 — "for the first time in the history of camping, an established book for Camp directors and staff, originally written in English, has been translated into French" — with a preface by **Mme Nicolas Demetelin**, then QCA president, and a foreword by Father Lionel Perras, sold through the QCA at 2233 Belgrave Avenue for $2.95.^8s
@@ -658,6 +695,7 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 8bn. "Y.M.-Y.W.C.A. Camp Stephens," by Grant Platts, Scott McGregor and Juliane Schaible, p. 21, and "What's In A Name? Camp Stephens," p. 27; "Changes!!" (Board of Management and committee announcements), p. 9; Ken Willis, "Whither C.C.A.'s Physical Activity Emphasis?", p. 10; "What is PARC?" with the profile of Aniko Varpalotai, p. 11; Colette Pouliot-Marier, "Quebec's Camp Association," p. 6, and the CCA Annual Meeting photo pages, pp. 6-7; and Jocelyn Palm, "A Final Salute to a Friend, Mary Northway," p. 27 — all *Canadian Camping Magazine* Vol. 39 No. 1 (Summer 1987) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 162).
 8bo. Henri Chalifoux, "Quebec Camping Association" / "Association des camps du Québec," p. 4; Committee Notes — Colette Pouliot-Marier, "Le comité des camps d'expression française," and Jack Pearse, "Fund Raising," p. 7; Aniko Varpalotai, "The P.A.R.C. Notebook," p. 8; "Jackpot!", p. 18; the "In This Issue" editorial note, p. 1; and the masthead, p. 2 — all *Canadian Camping Magazine* Vol. 39 No. 2 (Fall 1987) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 163). Pages 13 (Nancy Bramm's Bubby Nash article) and 19 (the Camp Cheboygan memorabilia spread) produced no machine-readable text in the Internet Archive scan and have not been read.
 8bp. Janet Adamson, "President's Message," pp. 3-4; "Got A Minute?", p. 10; Gérard Bachand, "Quebec's Region Report," p. 6; Colette Pouliot-Marier, "Committee For Camps of French Expression," p. 11; Aniko Varpalotai, "The P.A.R.C. Notebook," pp. 22-24; and "Personality Profile: Lorne Brown (1908-1976)" — interview with May Brown, pp. 12-18 — all *Canadian Camping Magazine* Vol. 39 No. 3 (Winter 1988), the final issue of the run [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 164).
+8bq. Tony Shorgan, "Birth of the French Camping Association (l'Association des Camps du Québec)," *Canadian Camping* Vol. 17 No. 3, April 1965, pp. 83-84 [src_cache_canadiancampingmagazine_vol17no3_1965april]. His own account of 1957-1960, read in full 2026-09-05. See [f_4863], [f_4864], [f_4865].
 14. YMCA of Greater Halifax/Dartmouth, *165 Years of Community Building* (anniversary yearbook, 2023), p. 8 (the "oldest continuously running residential camp in Canada" claim) and p. 28 (the 1975–1980 timeline entry) [src_ymca_halifax_165th_yearbook]. The PDF's text could not be read by the fetch tool and was extracted locally; cached at `sources/cache/continuity/ymca-halifax-165th-yearbook.txt`. See [f_4739], [f_4740], [f_4741].
 15. Big Cove YMCA Camp, YMCA of Greater Halifax and Dartmouth camp page [src_ymcahfx_bigcove_page], and the Wikipedia article on the camp. Both give the "oldest" claim; neither mentions the 1976–79 interruption. See [f_4743].
 16. Camp Stephens Alumni blog, December 2020 and August 2020 posts [src_campstephens_alumni_blog] — the same alumni source cited in `c_029` for the Nelson McEwen founding claim. See [f_4744], [f_4745], [f_4746].

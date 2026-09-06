@@ -2342,6 +2342,12 @@
           "at": "2026-09-05T00:00:00Z",
           "by": "auto",
           "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
         }
       ],
       "ralph_loops_completed": 1,
@@ -2409,12 +2415,18 @@
         "f_4847",
         "f_4848",
         "f_4850",
-        "f_4851"
+        "f_4851",
+        "f_4859",
+        "f_4863",
+        "f_4864",
+        "f_4865"
       ],
       "sources_cited": [
+        "src_acq_about_page",
+        "src_cache_canadiancampingmagazine_vol17no3_1965april",
         "src_concordia_atom_12B05",
-        "src_trent_oca_fonds_72_007",
-        "src_ia_canadian_camping_collection"
+        "src_ia_canadian_camping_collection",
+        "src_trent_oca_fonds_72_007"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -2425,7 +2437,7 @@
         "sources-index"
       ],
       "file_id": null,
-      "word_count": 32032,
+      "word_count": 32589,
       "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

@@ -1,8 +1,8 @@
 {
-  "version": "6.37",
-  "kb_version": "6.37",
+  "version": "6.38",
+  "kb_version": "6.38",
   "migrated_from": "3.3",
-  "fact_count": 4824,
+  "fact_count": 4827,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -86500,6 +86500,65 @@
       "date_ref": "1893-1897",
       "conflicts_with": [],
       "added_version": "6.37",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4863",
+      "claim": "TONY SHORGAN'S OWN DATED ACCOUNT OF FOUNDING THE FRENCH SECTION, read in full: \"Birth of the French Camping Association (l'Association des Camps du Quebec)\", Canadian Camping Vol. 17 No. 3, April 1965, pp. 83-84, bylined \"by Tony Shorgan, Executive Secretary, Quebec Society for Crippled Children\". 1957: as a member of the CCA and QCA and Camp Director of the Crippled Children's Camp at St. Alphonse, Joliette, he attends a committee meeting preparing a joint conference and asks whether a few sessions might be held in French; some doubted French camp directors would be interested. He canvasses friends who direct French camps, calls a meeting at his own office on twenty-four hours' notice, and \"Despite one of the worst blizzards we have ever had, there were some 18 French-speaking Camp Directors attending\", with Nan Vail, past president of the Quebec and Canadian associations. 12 APRIL 1958: at a joint CCA/QCA meeting at the Windsor Hotel a special French-language session studies forming a French-Canadian section; a committee is struck for a year's trial under Shorgan's presidency and adopts the name ASSOCIATION DES CAMPS CANADIENS FRANCAIS. 17 JULY 1958: at the Crippled Children's Camp, St. Alphonse, under the honorary presidency of Monsignor J. A. Papineau, Bishop of Joliette, the meeting resolves to apply to become part of the QCA. 15 NOVEMBER 1958: permanent officers elected after a full day's study in the Mont St-Louis gymnasium, Shorgan president, with representatives for the Ottawa, Quebec and Montreal regions. 1959: a newsletter every two months and inter-camp visits, French directors visiting English and Jewish camps. 1960: THE NAME CHANGES TO \"ASSOCIATION DES CAMPS DU QUEBEC (SECTION FRANCAISE)\". He closes by crediting the merger \"with the Quebec Camping Association Inc. (English Section), as recounted by Mrs. Alta Kahn\". He had been a QCA member fifteen years by then, so from about 1943. One aside he chose to print: a French director he canvassed early replied that he knew how to run his camp and needed nobody to dictate to him -- \"My reply was that we did not need persons like him in the Association\" -- and that man later became president of the French section.",
+      "sources": [
+        "src_cache_canadiancampingmagazine_vol17no3_1965april"
+      ],
+      "confidence": "stated",
+      "category": "institutions",
+      "entities": [
+        "Tony Shorgan",
+        "Association des camps du Quebec",
+        "Quebec Camping Association",
+        "Nan Vail",
+        "Alta R. Kahn",
+        "J. A. Papineau"
+      ],
+      "date_ref": "1957-1960",
+      "conflicts_with": [],
+      "added_version": "6.38",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4864",
+      "claim": "THE NAME THE MODERN BODY CARRIES IS THE FRENCH SECTION'S, NOT A RENAMED QCA. Shorgan's chronology (f_4863) has the name \"Association des Camps du Quebec (Section Francaise)\" adopted in 1960 by the French section for itself, two years after that section was founded as the Association des Camps Canadiens Francais and before the merger with the QCA Inc. (English Section). So the association that accredits Kanawana today carries the name the FRENCH SECTION gave itself, which is a different descent from 'the QCA renamed'. THREE FOUNDING DATES NOW SIT SIDE BY SIDE, and they are not interchangeable: the QCA formed 1937 as a chartered unit of the CCA; the French section formed 1958 and named itself Association des Camps du Quebec in 1960; and the ACQ's own website today says \"Fondee en 1961 a l'initiative de directeurs de camps de vacances\" (f_4859), which is the year of the provincial charter and of the French section joining the QCA. Each date is right about a different event, and this project should say which event it means whenever it gives one.",
+      "sources": [
+        "src_cache_canadiancampingmagazine_vol17no3_1965april",
+        "src_acq_about_page"
+      ],
+      "confidence": "inferred",
+      "category": "institutions",
+      "entities": [
+        "Association des camps du Quebec",
+        "Quebec Camping Association",
+        "Tony Shorgan"
+      ],
+      "date_ref": "1937-1961",
+      "conflicts_with": [],
+      "added_version": "6.38",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4865",
+      "claim": "TWO DISCREPANCIES BETWEEN SHORGAN IN 1965 AND THE CONTEMPORANEOUS REPORTS, recorded rather than smoothed. (1) ATTENDANCE AT THE FIRST MEETING: Shorgan in 1965 says \"some 18 French-speaking Camp Directors\" came through the blizzard; the June 1958 Quebec report says \"Some fifteen persons attended\" (f_2821). (2) WHEN AND WHERE IT HAPPENED: Shorgan places that meeting in his own office on twenty-four hours' notice in 1957, before the conference; the June 1958 report describes the meeting as called by him after the programme committee's discussion, chaired by Rene St-Onge, without a date or a place. The two accounts are compatible if the office meeting of 1957 and the conference session of 12 April 1958 are different events, which is the natural reading of Shorgan's own sequence -- but the 1958 report does not say so, and this is a seven-year-later recollection against a contemporaneous minute. Neither is preferred here. Note also that this project's records carry the surname as both SHORGAN (his own 1965 byline and the 1959 report) and SHORGUN (the Winter 1987 issue, on the Quebec association's fiftieth-anniversary planning); the byline spelling is the better authority.",
+      "sources": [
+        "src_cache_canadiancampingmagazine_vol17no3_1965april",
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "category": "institutions",
+      "entities": [
+        "Tony Shorgan",
+        "Association des camps du Quebec",
+        "Rene St-Onge"
+      ],
+      "date_ref": "1957-1958",
+      "conflicts_with": [],
+      "added_version": "6.38",
       "added_by": "ralph_loop"
     }
   ]
