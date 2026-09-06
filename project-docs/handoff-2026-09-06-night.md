@@ -210,6 +210,36 @@ settlement. LAC refuses this environment at the gateway. The same is true of **L
 280)**, whose provenance is given as Johnston W. Abraham of DeWittville, Que. — Kanawana's Business
 Manager from about 1914, if it is the same man.
 
+## Three more rules, from the morning of 2026-09-06
+
+**22. A multi-word grep that returns zero may be a fact about the whitespace.** These scans' OCR
+routinely puts two or more spaces between words. `FREDERICK H. SPINNEY` with single spaces returns
+ZERO across ten volumes of *The School*; the double-spaced form returns fourteen. This project
+recorded "his first name is not in any source found" for a day on the strength of that query, in a
+KB fact, an article and a cache file. Match on the surname alone and read the context, or put
+`[[:space:]]\+` between the parts. Never grep a multi-word name with single spaces and then write
+the zero down as a fact about the world.
+
+**23. A source searched in one section is searched in one section.** The YMCA *Year Book* lists the
+same staff twice, in an alphabetical list of paid officers and in a branch directory by city. The
+1900 volume's alphabetical list is OCR-ruined; its branch directory is fine. Searching the first,
+finding it unreadable, and writing "the 1900 roster cannot be read" put a false access failure into
+a fact, a source record, a cache file, two articles and a priority — all committed, all corrected
+within the hour. This is rule 21's twin: rule 21 says a source marked READ was read for something,
+and this one says the same about a source marked UNREADABLE. Before recording that a document does
+not yield, ask what *part* of it you actually looked at.
+
+**24. An endpoint that returns results may be returning someone else's query.**
+`archive.org/services/search/v1/scrape` was observed returning the result set of a *previous* query
+while reporting it as the answer to the current one — eleven volumes of *The School* came back for
+`identifier:ymcayearbookoffi*`, and for a quoted query naming a single known identifier. Adding
+`year` to its `fields` list returns items unrelated to the query outright. A failure announces
+itself; a stale success does not. Use
+`advancedsearch.php?q=...&fl[]=identifier&fl[]=title&rows=N&page=1&output=json` — the `output=json`
+is required, and omitting it produces an HTML page that looks like the endpoint refusing JSON. See
+f_4978. And keep a control in every enumeration session: query something whose answer you already
+know, and check that you get it.
+
 ## Open questions for Matt
 
 Carried forward: whether the Pip-committee work belongs in `people/matt-aronson.md`; whether there is
@@ -224,3 +254,10 @@ Check what he says against the record, in both directions. And check your own wo
 what this session fixed, the two best finds — Hay Finlay and the 1898 camp leadership — were **not
 new research at all**. They were this project's own knowledge base, unread. Looking again is the
 method, and it is now partly automated.
+
+The morning of the 6th added a second half to that. Of the four errors it caught, **three were its
+own, made and committed within the hour** — a first name declared missing when a bad query had
+hidden it, a volume declared unreadable when only one of its two rosters was, and a man placed in
+the wrong volume of a book already open on the desk. None was caught by a verify script. They were
+caught by going back to the scan and reading the thing again after writing the claim down. Write the
+claim, then check it against the source as though someone else had written it.
