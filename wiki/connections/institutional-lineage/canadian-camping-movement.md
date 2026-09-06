@@ -1,7 +1,7 @@
 # The Canadian Camping Movement
 
 *Status: E1-reviewed | Sources: 18*
-*Last Updated: 2026-09-05*
+*Last Updated: 2026-09-06*
 
 ## Summary
 
@@ -578,6 +578,33 @@ The last is a specific and findable document, and the closest thing to a demogra
 
 **The language policy was adopted.** Pouliot-Marier, re-accepting the French Language Committee chair in May 1987, credits Gérard Bachand's two years with the INCEF '87 needs analysis and with "l'élaboration des politiques linguistiques, **dont les recommendations faites au Conseil des présidents furent acceptées**."^8bo So the policy first drafted in January 1987 was formally adopted by the President's Council that year — the end of a thread this article has followed from the founding of the French Language Committee in the autumn of 1974. An **INCEF 1988** was planned, to carry a review of the three inventories made since 1985. The committee for 1987-88 was **Carmelle Deveau (New Brunswick), Michel Gratton (Ontario), Eileen Mayotte (Saskatchewan) and Ken Willis (Quebec)** — Willis staying on as the committee's Quebec member after retiring from the vice-presidency, and **Eileen Mayotte**, the Quebec association's secretary of the 1940s, still serving nationally.
 
+### The *Annuaire*: the province's own camp directory, and where a volume survives
+
+The ACQ's annual report for 1981-82, signed **Claire Menard**, says the association spent the year
+affirming the standing and image of Quebec's camps "par la publication de **l'Annuaire 82**, par une
+Semaine des camps intensive, par une presence de plus en plus incitante aupres des media et du
+publique."^8at Kanawana was an accredited member camp throughout, so the *Annuaire 82* should carry an
+entry for it — which makes finding one of these volumes worth the trouble.
+
+**The word names a genre, not one publication.** In January 1975 a French article on choosing a camp for
+a child gives as its principal source "la section de l'**Annuaire des Membres et Associés de Camps de
+l'Association des Camps de l'Ontario**, intitulée *In Choosing your Child's Camp Be Sure*" — the Ontario
+association's own annual members-and-associates directory, with a parents' guidance section inside
+it.^8br The following January the national magazine's directory issue carries the title page **"Annuaire
+National des Camps 1976"**.^8br So each association published one, and the ACQ was doing in 1982 what the
+movement around it had been doing for years.
+
+**One volume of the ACQ's series is already located, three years short of the one wanted.** Concordia's
+YMCA of Montreal fonds, sub-sub-series **P145/12N04, box HA1888**, holds "**Annuaire 1979, liste des
+membres**" among the association's 1978-1980 papers — material the YMCA kept because Kanawana was a
+member camp.^8br That box has not been consulted, and the request for it has been added to the standing
+Concordia letter.
+
+**A caution about what these volumes contain.** The 1979 title calls the thing a *liste des membres*. It
+may be a directory in the CCA's fuller sense — address, director, capacity, ages served, session
+structure — or it may be a list of names and addresses and nothing more. Nobody here has seen one, and
+this article does not know.
+
 ### "Every camp should be actively archiving"
 
 The clearest statement of the movement's own archive practice comes from an unplanned source: the previous winter's article on the Camp Oconto fire brought in "**a goldmine of material which might otherwise have been lost… from one person who worked on staff at one small camp in Ontario for two years in 1936 and 1937.**" The magazine drew the lesson:^8bo
@@ -784,6 +811,7 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 8bp. Janet Adamson, "President's Message," pp. 3-4; "Got A Minute?", p. 10; Gérard Bachand, "Quebec's Region Report," p. 6; Colette Pouliot-Marier, "Committee For Camps of French Expression," p. 11; Aniko Varpalotai, "The P.A.R.C. Notebook," pp. 22-24; and "Personality Profile: Lorne Brown (1908-1976)" — interview with May Brown, pp. 12-18 — all *Canadian Camping Magazine* Vol. 39 No. 3 (Winter 1988), the final issue of the run [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 164).
 8bq. Tony Shorgan, "Birth of the French Camping Association (l'Association des Camps du Québec)," *Canadian Camping* Vol. 17 No. 3, April 1965, pp. 83-84 [src_cache_canadiancampingmagazine_vol17no3_1965april]. His own account of 1957-1960, read in full 2026-09-05. See [f_4863], [f_4864], [f_4865].
 8bq2. Facts held in this project's knowledge base from the 1949-1988 run of *Canadian Camping* [src_ia_canadian_camping_collection], for people who appeared in no wiki article until 2026-09-05: Wallace Forgie ([f_3286], [f_3247]); Elsie and David Palter ([f_3395], [f_3108], [f_3060]); John Hoyle ([f_2567], [f_2745]); Keith Cleverdon ([f_2686]); M. C. MacCulloch ([f_3352]); Elizabeth Wardley Raymer ([f_2815]); Doug Dent ([f_3801]); Sam Hambly ([f_4280]).
+8br. The Annuaire trail, assembled 2026-09-06: the ACQ report of 1981-82 naming *l'Annuaire 82* (see 8at); "Annuaire des Membres et Associés de Camps de l'Association des Camps de l'Ontario," quoted in the French article on choosing a camp, *Canadian Camping* Vol. 27 No. 2 (January 1975); the title page "Annuaire National des Camps 1976," *Canadian Camping* Vol. 28 No. 2 (January 1976) [src_ia_canadian_camping_collection]; and Concordia University Archives, P145/12N04 (Quebec Camping Association / Association des camps du Québec), box HA1888, item "Annuaire 1979, liste des membres. - 1979" [src_concordia_mirror_12n04]. See [f_4873]. The catalogue surfaces that would locate a copy of the *Annuaire 82* itself could not be searched from here — BAnQ's IRIS catalogue and Library and Archives Canada's Voilà were refused at the network gateway, WorldCat and the Google Books API returned HTTP 429 — and BAnQ numérique's holding of the association's own annual report begins only with 2012/2013 [src_banq_acq_rapport_annuel]. That is an access failure, not evidence that the *Annuaire 82* does not survive. See [f_4871], [f_4872].
 14. YMCA of Greater Halifax/Dartmouth, *165 Years of Community Building* (anniversary yearbook, 2023), p. 8 (the "oldest continuously running residential camp in Canada" claim) and p. 28 (the 1975–1980 timeline entry) [src_ymca_halifax_165th_yearbook]. The PDF's text could not be read by the fetch tool and was extracted locally; cached at `sources/cache/continuity/ymca-halifax-165th-yearbook.txt`. See [f_4739], [f_4740], [f_4741].
 15. Big Cove YMCA Camp, YMCA of Greater Halifax and Dartmouth camp page [src_ymcahfx_bigcove_page], and the Wikipedia article on the camp. Both give the "oldest" claim; neither mentions the 1976–79 interruption. See [f_4743].
 16. Camp Stephens Alumni blog, December 2020 and August 2020 posts [src_campstephens_alumni_blog] — the same alumni source cited in `c_029` for the Nelson McEwen founding claim. See [f_4744], [f_4745], [f_4746].

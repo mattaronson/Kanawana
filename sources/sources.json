@@ -28441,7 +28441,25 @@
       "read_state": "read",
       "read_state_basis": "fetched and read 2026-09-05 (p_375)",
       "notes": "The ACQ's own account of itself: \"L'ACQ fait briller les camps depuis plus de 60 ans... Fondee en 1961 a l'initiative de directeurs de camps de vacances\", recognised and funded by the Quebec government as an Organisme national de loisir, with close to 500 members across non-profit, private, municipal, day, family and special-needs camps."
+    },
+    {
+      "source_id": "src_banq_acq_rapport_annuel",
+      "type": "catalog_reference",
+      "title": "BAnQ numerique catalogue record: \"Rapport annuel ... / Association des camps du Quebec\" (notice 52327/3671752)",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://numerique.banq.qc.ca/patrimoine/details/52327/3671752",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.41",
+      "reliability": "secondary",
+      "read_state": "read",
+      "read_state_basis": "catalogue record fetched and read 2026-09-06 (p_326)",
+      "notes": "BAnQ's holding of the ACQ's own annual report. Serial, annual, published by the association at Montreal; the run BEGINS WITH 2012/2013, so it does not reach the Annuaire 82 or any 1980s ACQ publication. Digitized but not displayable in the viewer: consultable only from secure terminals inside BAnQ buildings, protected by copyright. Recorded as the answer to whether BAnQ numerique covers the ACQ's early paper -- it does not."
     }
   ],
-  "source_count": 1580
+  "source_count": 1581
 }

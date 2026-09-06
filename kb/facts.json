@@ -1,8 +1,8 @@
 {
-  "version": "6.40",
-  "kb_version": "6.40",
+  "version": "6.41",
+  "kb_version": "6.41",
   "migrated_from": "3.3",
-  "fact_count": 4832,
+  "fact_count": 4835,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -86650,6 +86650,68 @@
       "date_ref": "1970-06",
       "conflicts_with": [],
       "added_version": "6.40",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4871",
+      "claim": "ACCESS FAILURE, NOT A NULL: EVERY BIBLIOGRAPHIC SURFACE THAT WOULD CATALOGUE THE ACQ'S ANNUAIRE 82 IS EITHER BLOCKED TO THIS ENVIRONMENT OR OUT OF QUOTA. Searching for the Annuaire 82 on 2026-09-06 (p_326): (1) BAnQ's own catalogue, iris.banq.qc.ca, was refused at the network gateway -- CONNECT answered 502, logged by the agent proxy as \"policy denial or upstream failure\", so no query reached it and NOTHING is known about what BAnQ's catalogue holds; (2) LAC's national union catalogue Voila, voila.bac-lac.gc.ca, was refused the same way; (3) WorldCat, search.worldcat.org, returned HTTP 429; (4) the Google Books API returned HTTP 429 with \"Quota exceeded for quota metric 'Queries' ... 'Queries per day'\", so the three Google Books queries attempted returned no results for a reason that has nothing to do with Quebec camping. WHAT DID RUN AND WAS GENUINELY EMPTY: Internet Archive advancedsearch for the exact phrase \"Association des camps du Quebec\" (numFound 0) and for title:(annuaire) AND (camps OR colonies) (three hits, all French municipal or trade directories, none Quebec camping). The correct statement of the result is that the reachable full-text surface does not hold the Annuaire and the catalogue surfaces WERE NOT SEARCHED. UNTRIED ROUTES, all needing a browser or a letter: BAnQ's IRIS catalogue and its legal-deposit holdings, on which the Annuaire would be registered; Concordia P145/12N04 (see f_2262); the CCA/ACC fonds at Trent; the ACQ itself at campsquebec.com; and Montreal university libraries.",
+      "sources": [
+        "src_banq_acq_rapport_annuel",
+        "src_acq_about_page"
+      ],
+      "confidence": "stated",
+      "category": "sources_and_archives",
+      "entities": [
+        "Association des camps du Quebec",
+        "Annuaire 82",
+        "BAnQ",
+        "Library and Archives Canada",
+        "WorldCat",
+        "Internet Archive"
+      ],
+      "date_ref": "2026-09-06",
+      "conflicts_with": [],
+      "added_version": "6.41",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4872",
+      "claim": "BANQ NUMERIQUE DOES HOLD THE ACQ'S OWN ANNUAL REPORT, BUT THE RUN BEGINS THIRTY YEARS TOO LATE. The catalogue record \"Rapport annuel ... / Association des camps du Quebec\" (BAnQ numerique notice 52327/3671752) describes an annual serial published by the association at Montreal and states that it COMMENCES WITH 2012/2013. It is digitized but cannot be shown in the online viewer -- the record says the document must be downloaded to be seen and that access is from \"les postes informatiques securises dans les edifices de BAnQ\", the item being protected by copyright. So BAnQ has the association's modern reporting and, on the evidence of this record alone, nothing of its 1980s publishing; the Annuaire 82 is not reachable through BAnQ numerique. This does NOT establish what BAnQ's IRIS catalogue holds, which could not be searched (f_4871).",
+      "sources": [
+        "src_banq_acq_rapport_annuel"
+      ],
+      "confidence": "stated",
+      "category": "sources_and_archives",
+      "entities": [
+        "Association des camps du Quebec",
+        "BAnQ",
+        "Annuaire 82"
+      ],
+      "date_ref": "2012",
+      "conflicts_with": [],
+      "added_version": "6.41",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4873",
+      "claim": "WHAT AN \"ANNUAIRE\" WAS IN THIS MOVEMENT, AND WHERE THE NEAREST SURVIVING ACQ VOLUME IS. The word is not particular to the ACQ's 1982 report: in the movement's own paper it names the annual members' directory that a camping association published. (1) January 1975, in a French article on choosing a camp for a child, the writer's \"source principale\" is \"la section de l'Annuaire des Membres et Associes de Camps de l'Association des Camps de l'Ontario, intitulee 'In Choosing your Child's Camp Be Sure'\" -- so the Ontario association's Annuaire was a members-and-associates directory carrying a parents' guidance section. (2) January 1976 carries the title page \"Annuaire National des Camps 1976\", the French title of the CCA's own national directory issue. So when the ACQ reported spending 1981-82 affirming the image of Quebec's camps \"par la publication de l'Annuaire 82\", it was publishing in an established genre of the movement, and a Kanawana entry would be a directory line in it. THE NEAREST SURVIVING VOLUME OF THE ACQ'S OWN SERIES IS ALREADY LOCATED, in this project's own notes and not previously connected to this question: Concordia P145/12N04, box HA1888, holds \"Annuaire 1979, liste des membres. - 1979\" (f_2262). Its own title calls it a members' LIST, which is a caution: what an ACQ Annuaire contained is not established, and the assumption that the Annuaire 82 carried address, director, capacity, ages and session structure on the pattern of the CCA's directory issues is an assumption, not a finding.",
+      "sources": [
+        "src_ia_canadian_camping_collection",
+        "src_concordia_mirror_12n04"
+      ],
+      "confidence": "stated",
+      "category": "sources_and_archives",
+      "entities": [
+        "Association des camps du Quebec",
+        "Annuaire 82",
+        "Ontario Camping Association",
+        "Canadian Camping Association",
+        "Concordia University Archives",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1975/1982",
+      "conflicts_with": [],
+      "added_version": "6.41",
       "added_by": "ralph_loop"
     }
   ]

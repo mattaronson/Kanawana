@@ -4622,3 +4622,47 @@ route: fetch the item's `_djvu.xml`, find the word's coordinates and its leaf, t
 image API (`/max/0/default.jpg`, not `/full/`) or `archive.org/download/<id>/page/n<leaf>_w2560.jpg`,
 remembering that DjVu y-coordinates count from the bottom and that the `page/nN` endpoint can be offset
 by one from the djvu leaf number.
+
+---
+
+## Campaign 2026-09-06 — p_326: the ACQ's *Annuaire 82*
+
+**Topic.** Find the Association des camps du Québec's *Annuaire 82*, a published 1982 Quebec camp
+directory that should carry an entry for Kanawana.
+
+**Surfaces tried, and what each returned.**
+
+| Surface | Query | Result |
+|---|---|---|
+| Internet Archive advancedsearch | `"Annuaire des camps du Quebec"` | numFound 0 |
+| Internet Archive advancedsearch | `title:(annuaire AND camps)` | numFound 0 |
+| Internet Archive advancedsearch | `"Association des camps du Québec"` | numFound 0 |
+| Internet Archive advancedsearch | `title:(annuaire) AND (camps OR colonies)` | 3 hits, all French municipal/trade directories |
+| Web search | `"Annuaire" "camps du Québec" 1982 … BAnQ` | modern ACQ, 211 and Centraide pages only |
+| Web search | `"Association des camps du Québec" répertoire OR annuaire … 1982` | led to the BAnQ record below |
+| Web search, `site:banq` | `annuaire OR répertoire "Association des camps" 1982-1984` | newspapers and gazettes, no directory |
+| **iris.banq.qc.ca** (BAnQ catalogue) | Primo brief search | **CONNECT refused, gateway 502 — policy denial. No query reached it.** |
+| **voila.bac-lac.gc.ca** (LAC union catalogue) | homepage | **CONNECT refused, gateway 502.** |
+| **search.worldcat.org** | `annuaire des camps du Quebec` | **HTTP 429** |
+| **Google Books API** | three phrase queries | **HTTP 429, daily quota exhausted — the nulls are meaningless** |
+| numerique.banq.qc.ca | notice 52327/3671752 | ACQ *Rapport annuel*, run **commences 2012/2013**, on-site terminals only |
+| campsquebec.com/a-propos | — | ACQ's own founding date, 1961; no historical publication list |
+
+**The honest statement of the result.** The reachable full-text surface does not hold the *Annuaire*;
+the catalogue surfaces that would locate a physical copy **were not searched**, because none of them
+would answer. Four of the twelve rows above are facts about this environment. Recorded as `f_4871`.
+
+**What the campaign actually produced.** The nearest surviving volume of the series was already in this
+project's own notes and had never been attached to this question: **Concordia P145/12N04, box HA1888,
+"Annuaire 1979, liste des membres. - 1979"** (`f_2262`). Added to the Concordia letter as request 6.
+And the genre was established from the cached magazine run — the Ontario association's *Annuaire des
+Membres et Associés* (quoted January 1975) and the CCA's own *Annuaire National des Camps 1976* — with
+the caution that the 1979 ACQ volume's own title calls it a members' *list*, so nobody here knows
+whether an ACQ *Annuaire* carried directory detail at all (`f_4873`). Written into
+`canadian-camping-movement.md`.
+
+**Two near-misses worth recording.** The Fall 1987 issue's "notre nouvel annuaire" is **Nova Scotia's**,
+not Quebec's — it sits in the French translation of the ACNE column, immediately above the Quebec
+column, and reads as Quebec's if you stop at the grep hit. And every Quebec figure in that issue
+(Chalifoux, five consultants, eighty camps) was already in the KB as `f_4696`–`f_4697`: rule 7 again,
+search the KB before reading the source.
