@@ -5089,12 +5089,15 @@
         "f_1956",
         "f_1957",
         "f_1958",
-        "f_5174"
+        "f_5174",
+        "f_5202"
       ],
       "sources_cited": [
         "src_batshaw_timeline_page",
         "src_concordia_atom_12F",
-        "src_ymf_sgw_ymca_annual_report_1921_1922"
+        "src_ymf_sgw_ymca_annual_report_1921_1922",
+        "src_ia_canadian_camping_collection",
+        "src_ymf_news_release_1964_7"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -5103,7 +5106,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 1599,
+      "word_count": 1908,
       "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass (final article of 8) -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph into a new Research Notes > Revision History section, and fixed a real inconsistency the sediment had introduced: the Overview still described the two-site plan as 'ultimately abandoned' even though the article's own later correction established a signed 1979 lease and joint files through 1981-82 -- rewritten to match. Corrected open_questions count (was stale at 5, actual is 6, counting sub-item 2a). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

@@ -1,6 +1,6 @@
 # Camp Weredale and Its Relationship to Kanawana
 
-*Status: E1-reviewed | Sources: 10*
+*Status: E1-reviewed | Sources: 11*
 *Last Updated: 2026-07-10*
 
 ## Overview
@@ -28,6 +28,27 @@ work in the foreign-speaking districts: Boy Scout work with Italian and Syrian b
 foreign parentage, and co-operation with the Juvenile Court. That points toward boys placed rather
 than programme run, but it is inference from adjacency and nothing more. No other cached annual
 report in this project names Camp Lewis.
+
+**Camp Lewis was an agency in its own right, which is why the YMCA could use it without owning it.**
+*Canadian Camping*'s survey of Quebec in June 1949, counting forty-five registered permanent camps in
+the province: "**Camp Lewis, under the direction of Mr. Wylie, offers good camping to five hundred
+boys for two weeks or longer each year**."^11 Five hundred boys and a named director is a substantial
+operation, not a facility of somebody else's.
+
+Fifteen years later it is still listed that way. A Montreal YMCA news release of 1964 names the
+organizations taking part in a Rotary-initiated inter-agency youth project — Rosemount Boys Club, the
+YM-YWHA, Holy Cross and Dawson Boys Clubs, St. Andrews Youth Centre, four YMCA branches, the Montreal
+Girls Association, the Lion's and East-End Boys & Girls Clubs, Unity Boys Club, Tyndale House, **Camp
+Lewis**, the **Negro Community Centre**, and the Boy Scouts — with **Ross Seaman** of the
+Metropolitan Office on its staff, the same man who directed Kanawana.^11 Camp Lewis sits in that list
+as a peer, one line above the Negro Community Centre.
+
+So the 1921 sentence above reads as cooperation between agencies rather than as a YMCA camp: the
+association's Eastern District boys' work drew on another organization's camp, in a city where that
+was ordinary enough to be listed beside churches, a playground and a school. What kind of use it was
+— boys sent, programme run, staff shared — and whether it lasted one year or many are still open, and
+the Weredale House fonds at Library and Archives Canada, whose Camp Lewis records run 1919 to 1966,
+is where to ask.
 
 ## Establishment and Facilities
 
@@ -80,6 +101,7 @@ The camps also shared overlapping communities of Montreal youth workers. Frank E
 8. Concordia University Archives, static finding-aid page for sub-series 12F (Camp Weredale), Box HA1894 [src_concordia_atom_12F]. Direct fetch 2026-07-10: 1979 lease agreement, 1980-82 joint files.
 9. Batshaw Centres History, timeline page [src_batshaw_timeline_page]. Direct fetch 2026-07-10, confirms Youth Horizons formed 1977.
 10. YMCA of Montreal annual report for the year ending 30 April 1922 [src_ymf_sgw_ymca_annual_report_1921_1922], the Eastern District paragraph on agencies used for boys' work. Read 2026-09-06 under p_454. See [f_5174].
+11. *Canadian Camping*, Vol. 1 No. 3 (June 1949) [src_ia_canadian_camping_collection], the Quebec survey; and a Montreal YMCA news release of 1964 [src_ymf_news_release_1964_7], the roster of a Rotary-initiated inter-agency youth project. Read 2026-09-06 under p_455. See [f_5202].
 
 ## Research Notes
 

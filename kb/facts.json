@@ -1,8 +1,8 @@
 {
-  "version": "8.43",
-  "kb_version": "8.43",
+  "version": "8.44",
+  "kb_version": "8.44",
   "migrated_from": "3.3",
-  "fact_count": 5163,
+  "fact_count": 5164,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93071,6 +93071,27 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.43",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5202",
+      "category": "institutional",
+      "date_ref": "1921-1964",
+      "entities": [
+        "Camp Lewis",
+        "YMCA of Montreal",
+        "Weredale House",
+        "Negro Community Centre"
+      ],
+      "claim": "CAMP LEWIS WAS AN AGENCY IN ITS OWN RIGHT IN MONTREAL'S YOUTH NETWORK, WHICH IS WHY THE YMCA COULD 'USE' IT WITHOUT OWNING IT. p_455 asked what the YMCA's Eastern District meant in 1921 by listing Camp Lewis among 'many agencies ... used for our Boys' Work'. THE HELD SOURCES DO NOT ANSWER THAT DIRECTLY, but three of them together establish the shape of the thing. (1) CANADIAN CAMPING, June 1949: 'CAMP LEWIS, UNDER THE DIRECTION OF MR. WYLIE, OFFERS GOOD CAMPING TO FIVE HUNDRED BOYS FOR TWO WEEKS OR LONGER EACH YEAR', in a survey of Quebec's forty-five registered permanent camps -- so it was a substantial operation with its own director, not a facility of anyone else's. (2) A MONTREAL YMCA NEWS RELEASE OF 1964 lists the organizations taking part in a Rotary-initiated inter-agency youth project -- Rosemount Boys Club, YM-YWHA, Holy Cross Boys Club, St. Andrews Youth Centre, Dawson Boys Club, four YMCA branches, Montreal Girls Association, Lion's Boys & Girls Club, East-End Boys & Girls Club, Unity Boys Club, Tyndale House, CAMP LEWIS, NEGRO COMMUNITY CENTRE, Boy Scouts -- with ROSS SEAMAN of the Metropolitan Office on its staff, the same man who directed Kanawana. CAMP LEWIS SITS IN THAT LIST AS A PEER AGENCY, one line above the Negro Community Centre. (3) The wiki already has it as the Boys' Home of Montreal's camp, sponsored 1918 as 'Camp Boy', renamed 1919 for Major John Lewis, and the predecessor of Camp Weredale. SO THE 1921 SENTENCE READS AS COOPERATION BETWEEN AGENCIES, not as a YMCA camp: the association's Eastern District boys' work drew on another organization's camp, in a city where that kind of cross-referral was normal enough to be listed beside churches, a playground and a school. WHAT IS STILL NOT ESTABLISHED, and p_455 stays open on it: whether boys were sent, programme was run, or staff were shared, and whether the arrangement was one year or many. The Weredale House fonds at Library and Archives Canada, whose Camp Lewis records run 1919-1966, is the place.",
+      "sources": [
+        "src_ia_canadian_camping_collection",
+        "src_ymf_news_release_1964_7",
+        "src_ymf_sgw_ymca_annual_report_1921_1922"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.44",
       "added_by": "manual"
     }
   ]
