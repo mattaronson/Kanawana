@@ -376,7 +376,8 @@
         "src_ymf_sgw_ymca_annual_report_1963",
         "src_ymf_sgw_ymca_annual_report_1964",
         "src_cache_sgw_ymca_annual_report_1966_67",
-        "src_cache_sgw_ymca_annual_report_1967"
+        "src_cache_sgw_ymca_annual_report_1967",
+        "src_ymf_p0145_news_release_1970_2"
       ],
       "open_questions": 0,
       "cross_links": [
@@ -392,7 +393,7 @@
         "traditions/order-of-owens"
       ],
       "file_id": "13MmwA1lO_3J3rJ7yEZjwsvT--vWooITy",
-      "word_count": 14953,
+      "word_count": 15283,
       "tags": {
         "era": [
           "1920s",
@@ -5453,7 +5454,11 @@
         "src_ymf_sgw_ymca_annual_report_1963",
         "src_cache_sgw_ymca_annual_report_1966_67",
         "src_cache_sgw_ymca_annual_report_1967",
-        "src_cache_1969_camp_perrot_family_centre"
+        "src_cache_1969_camp_perrot_family_centre",
+        "src_ymf_news_release_1964_11_13",
+        "src_ymf_news_release_1965_01_04",
+        "src_ymf_news_release_1966_12_05_2",
+        "src_ymf_p0145_news_release_1969_09_02"
       ],
       "open_questions": 1,
       "cross_links": [
@@ -5464,7 +5469,7 @@
         "camp-thunderbird"
       ],
       "file_id": null,
-      "word_count": 5764,
+      "word_count": 6100,
       "notes": "RALPH R1 complete (2026-06-21): 30+ web searches returned zero new facts. Article meets draft criteria (Overview summary, 3 content sections, 3 sources). All remaining open questions require physical Concordia Archives access (P0145/12G). BAnQ newspaper facts (f_1326-f_1339) checked — none mention Camp Perrot. Advanced stub→draft. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header, moved the '12G sub-series' correction and the Batch 7 research-pass summary into a new Research Notes > Revision History section (this article previously had no Research Notes section). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

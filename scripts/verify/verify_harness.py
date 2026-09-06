@@ -291,7 +291,28 @@ facts = json.load(open(os.path.join(ROOT, 'kb/facts.json')))['facts']
 conflicts_raw = json.load(open(os.path.join(ROOT, 'kb/conflicts.json')))
 conflicts = conflicts_raw if isinstance(conflicts_raw, list) else conflicts_raw.get('conflicts', [])
 
-VALID_READ_STATES = {'extracted', 'skimmed', 'unopened', 'unavailable', 'unknown'}
+# The vocabulary actually in use. This set was {extracted, skimmed, unopened,
+# unavailable, unknown} until 2026-09-06, which was stale: the corpus had been using
+# 'partial', 'read', 'unread', 'snippet' and 'unverified_backfill' for months, and the
+# check was printing 223 records as INVALID. A checker that cries wolf about a fifth of
+# the corpus hides the records that are genuinely mislabelled, so the set now names what
+# each value means and is meant to be kept current.
+#
+#   extracted            -- read, and its facts are in the KB
+#   partial              -- part of it read; the basis must say which part
+#   read                 -- read, with nothing extracted (legacy; prefer extracted)
+#   skimmed              -- keyword-swept, not read
+#   swept                -- matched against a stated pattern and did not match, so not
+#                           read; a fact about the pattern, not the document
+#   snippet              -- only a fragment is held (search-inside, quoted excerpt)
+#   unread / unopened    -- nobody has opened it
+#   unavailable          -- cannot be opened from here; the basis must name the barrier
+#   unverified_backfill  -- state asserted by a bulk script, never checked
+#   unknown              -- state genuinely undetermined
+VALID_READ_STATES = {
+    'extracted', 'partial', 'read', 'skimmed', 'swept', 'snippet',
+    'unread', 'unopened', 'unavailable', 'unverified_backfill', 'unknown',
+}
 
 cited_by_fact = set()
 for f in facts:

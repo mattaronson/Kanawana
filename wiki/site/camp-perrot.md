@@ -1,7 +1,7 @@
 # Camp Perrot
 
-*Status: E1-reviewed | Sources: 20*
-*Last Updated: 2026-09-06 (the 1969 Family Centre proposal: 1968 in detail, and a history section that is wrong)*
+*Status: E1-reviewed | Sources: 21*
+*Last Updated: 2026-09-06 ("Ile Perrot Day Camp to House Expo Visitors", and 120,000 of them)*
 
 ## Overview
 
@@ -51,6 +51,14 @@ The same report does **not** say whether a resident season ran at Perrot in 1961
 **And by 1963-64 the association was building it into something else.** The property section of the 112th annual report, covering 1 January 1963 to 31 May 1964, records: "At Camp Perrot, **additional facilities were constructed in conjunction with the development of this property as a family recreation centre**."^18
 
 **And in 1966 and 1967 the property was built out for Expo, and the family programme had a size.** The 1966-67 report: "In preparation initially for the accommodation of Expo visitors, and subsequently **as an expanded site for summer day camp activity**, the Ile Perrot property was developed as a **camping and trailer site** for Expo visitors. It is expected that **two-thirds of the capital investment will be recovered from Expo operations**."^19 The same report gives the programme's scale: "The Ile Perrot family camping program **organized by the West Island Branch** of the Montreal YMCA accommodated **130 families plus 27 groups** from the community."^19 A year later: "To help accommodate Expo visitors, a **trailer park** was built on previously undeveloped sections of the Camp Perrot property. The development included a **new swimming pool** which will be available to participants in the family camping program there."^19
+
+**By December 1966 the association's own press office simply called it the day camp.** A release of 5 December 1966 is headed "**Ile Perrot Day Camp to House Expo Visitors**" — no qualification, no "former resident camp," no explanation.^21 It also puts numbers and a date on the Expo work the annual reports mention in a clause: "On **November 8th**, work was officially started on facilities which will enable the 'Y' day camp at Ile Perrot to accommodate a total of **120,000 visitors** during Expo '67. **Charles Morrison**, Chairman of the Montreal YMCA Expo-Centennial Committee, turned the first sod... The development involves **90 trailer sites, 100 camp sites, an outdoor swimming pool** and sanitary facilities, changing and electrical power sources."^21
+
+A hundred and twenty thousand visitors is a very large target for a site that had been a low-cost boys' camp twenty years earlier, and it explains why the association expected to recover two-thirds of its capital outlay from Expo operations. Charles Morrison appears nowhere else in this project.
+
+**And the day camp had a named head.** A staffing release of 2 September 1969 records that **Murray Horn** "also **remains in charge of the YMCA's day camp complex on Ile Perrot**."^21 "Remains" implies he had held it for some time; nothing else here names him.
+
+Two smaller items from the same sweep concern the island rather than the camp. In November 1964 the Town of Pincourt invited the Lakeshore YMCA to help develop a **teen centre** in a house the Town Council made available, with "over 100 young people now involved"; and in January 1965 a Pointe Claire youth council listed "**trips to Camp Perrot**" among its activities.^21 Both show the site in branch use outside any camp season.
 
 **And a 1969 proposal describes the whole second life from inside — with a history section that is wrong.** "Camp Perrot Family Centre" sets out the case for expanding the site's family programming, and its facilities and usage figures for 1968 are the most detailed this article has.^20
 
@@ -275,6 +283,7 @@ The earliest known Kanawana-side documentary evidence is a "Comparison of Two Bo
 18. YMCA of Montreal, **112th Annual Report**, for the year ended **31 May 1964** [src_ymf_sgw_ymca_annual_report_1963] — a seventeen-month volume covering 1 January 1963 to 31 May 1964 (see [f_5090]), property section. Read 2026-09-06 under p_441. See [f_5093].
 19. YMCA of Montreal annual reports for **1966-67** and **1967** [src_cache_sgw_ymca_annual_report_1966_67, src_cache_sgw_ymca_annual_report_1967]. Read 2026-09-06 under p_441. See [f_5096].
 20. "Camp Perrot Family Centre" (1969), an internal proposal document [src_cache_1969_camp_perrot_family_centre]. Cached at `sources/cache/ymca-montreal-fonds/1969-camp-perrot-family-centre.txt`; read end to end 2026-09-06 under p_451. See [f_5099]. **Its historic background is unreliable** — see the caution in the text.
+21. Montreal YMCA news releases of **13 November 1964**, **4 January 1965**, **5 December 1966** ("Ile Perrot Day Camp to House Expo Visitors") and **2 September 1969** [src_ymf_news_release_1964_11_13, src_ymf_news_release_1965_01_04, src_ymf_news_release_1966_12_05_2, src_ymf_p0145_news_release_1969_09_02]. Found by sweeping the news-release cache for camp names rather than for Kanawana; read 2026-09-06 under p_451. See [f_5107].
 
 ## Research Notes
 

@@ -1,8 +1,8 @@
 {
-  "version": "7.86",
-  "kb_version": "7.86",
+  "version": "7.87",
+  "kb_version": "7.87",
   "migrated_from": "3.3",
-  "fact_count": 5068,
+  "fact_count": 5070,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91418,6 +91418,45 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.86",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5107",
+      "category": "site",
+      "date_ref": "1964-1969",
+      "entities": [
+        "Camp Perrot",
+        "Charles Morrison",
+        "Murray Horn",
+        "Lakeshore YMCA"
+      ],
+      "claim": "CAMP PERROT AS 'THE Y DAY CAMP AT ILE PERROT', AND WHAT EXPO BUILT THERE. Three releases that do not name Kanawana, found by sweeping the news release cache for camp names rather than for Kanawana. THE HEADLINE ITSELF SETTLES THE INSTITUTIONAL POSITION: 5 December 1966, 'ILE PERROT DAY CAMP TO HOUSE EXPO VISITORS'. By late 1966 the association's own press office called the place a DAY CAMP without qualification -- no 'former resident camp', no explanation. THE WORK AND ITS SCALE: 'On NOVEMBER 8TH, work was officially started on facilities which will enable the \"Y\" day camp at Ile Perrot to accommodate A TOTAL OF 120,000 VISITORS DURING EXPO '67. CHARLES MORRISON, Chairman of the Montreal YMCA EXPO-CENTENNIAL COMMITTEE, turned the first sod... The development involves 90 TRAILER SITES, 100 CAMP SITES, AN OUTDOOR SWIMMING POOL and sanitary facilities, changing and electrical power sources. After the World's Fair ends, the new facilities will enable the...' THAT IS THE POOL AND THE TRAILER PARK the 1967 annual report mentions in one clause (f_5096), here with a start date, a target, a sod-turner and a site plan. 120,000 visitors is a very large number for a former boys' camp and it explains the capital investment the 1966-67 report expected to recover two-thirds of from Expo operations. CHARLES MORRISON APPEARS NOWHERE ELSE IN THIS PROJECT. AND THE DAY CAMP HAD A NAMED HEAD: a release of 2 September 1969 lists staff assignments across the West Island and says MURRAY HORN 'also REMAINS IN CHARGE OF THE YMCA'S DAY CAMP COMPLEX ON ILE PERROT'. 'Remains' implies he had held it for some time. Murray Horn appears nowhere else in this project. TWO SMALLER ONES FROM THE SAME SWEEP, both about the Lakeshore branch's use of the island rather than the camp: 13 November 1964, the Lakeshore YMCA invited by the Town of Pincourt on Ile Perrot to help develop a teen centre in a house the Town Council provided, 'over 100 young people now involved'; and 4 January 1965, a Pointe Claire youth council running 'TRIPS TO CAMP PERROT' among its activities -- which is the site being used by a branch youth group, not a camp season. || [ID CORRECTED 2026-09-06 BEFORE COMMIT: I copied the id from the CACHE FILENAME, which is 'P0145-news-release-1969-09-02.txt' with a capital P, and the record id is lower-case. FOURTH invented-or-mistyped source id stopped by data_integrity today. The lesson is narrower than 'check ids': DO NOT DERIVE AN ID FROM A FILENAME AT ALL -- look it up.]",
+      "sources": [
+        "src_ymf_news_release_1966_12_05_2",
+        "src_ymf_p0145_news_release_1969_09_02",
+        "src_ymf_news_release_1964_11_13",
+        "src_ymf_news_release_1965_01_04"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.87",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5108",
+      "category": "programs",
+      "date_ref": "1970",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "A. Ross Seaman"
+      ],
+      "claim": "A PRESS RELEASE DATES LES VOYAGEURS TO 1957, NOT 1959, AND GIVES ITS ENTRY REQUIREMENTS. An undated 1970 release: 'For such youths, AGE 13-17, the Montreal YMCA will this July and August again conduct its LES VOYAGEURS series of canoe-adventures. THE PROGRAM STARTED 13 YEARS AGO, mainly for boys who had previously participated with enjoyment in organized camp programs and now wanted to test their mettle in more challenging ways.' 1970 MINUS 13 IS 1957. THIS PROJECT DATES THE VOYAGEURS TO 1959, from the camp's own 'Report of Older Boys Camp' and a pilot of thirty boys recorded in meta/attendance-series.md. A PRESS RELEASE'S 'THIRTEEN YEARS AGO' IS LOOSE ARITHMETIC and the camp's own report is much the better witness, so THE 1959 DATE IS NOT DISTURBED. It is recorded because a round 'thirteen years' is the kind of thing that gets copied into a later history, and because if the programme did have a 1957-58 precursor the 1959 report's own framing as a new venture would need re-reading. THE ENTRY REQUIREMENTS ARE NEW AND SPECIFIC: 'To qualify for Les Voyageurs, boys must be IN SOUND HEALTH AND ABLE TO SWIM A MINIMUM OF 150 YARDS. EACH GROUP OF FIVE will be supervised by A SKILLED OUTDOORSMAN, USUALLY A MATURE UNIVERSITY STUDENT who is attuned to the needs of developing boys. Before starting out, the boys spend SEVERAL DAYS AT A BASE CAMP, getting acquainted...' The group of five matches 1961 (f_5089) and 1963. AND A. ROSS SEAMAN'S TITLE IN 1970 IS 'THE Y'S EXECUTIVE DIRECTOR OF CAMPING', quoted at length: 'First of all, there's nothing quite like THREE OR FOUR WEEKS IN THE WOODLANDS to firm up and develop young muscles... But physical challenge is only part of it. MANY LADS GET EVEN MORE OUT OF THE OPPORTUNITIES TO USE INITIATIVE AND GAIN THE SORT OF SELF-RELIANCE SO IMPORTANT TO GROWING UP.' That is the same argument as the 1961 report's rule of the I's -- Initiative, Imagination, Inventiveness -- in a director's own words nine years later.",
+      "sources": [
+        "src_ymf_p0145_news_release_1970_2"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.87",
       "added_by": "ralph_loop"
     }
   ]

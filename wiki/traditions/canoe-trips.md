@@ -1,6 +1,6 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 38*
+*Status: E1-reviewed | Sources: 39*
 *Last Updated: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *Last Updated: 2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
 *Last Updated: 2026-07-05 (named trip staff added from photo-mined canoe-trip plaques, p_191 ENRICH pass) — photo gallery added 2026-07-02*
@@ -22,6 +22,14 @@ Two years later the report singles out something else entirely. "**A specific fe
 The report gives no length in days, no distance, no party size and no leader's name, and this article is not going to supply them from the map. What it does establish is that by 1947 Kanawana was running an expedition well beyond the ten-day senior Ottawa River trip that topped the 1945 tiers.
 
 The following summer added a second frontier: in 1948, "in addition to trips up and down the Ottawa River, **senior campers explored the bush country of Lake Nominingue**."^34 Nominingue sits in the upper Laurentians roughly a hundred kilometres north of Saint-Sauveur, and it appears elsewhere in this project only as somebody else's camp address. This is the first record of Kanawana campers there.
+
+### 1970, from a recruiting release: who could go, and a date that does not fit
+
+An undated 1970 release written to fill the season sets out the entry bar, which nothing else here does. "To qualify for Les Voyageurs, boys must be **in sound health and able to swim a minimum of 150 yards**. **Each group of five** will be supervised by **a skilled outdoorsman, usually a mature university student** who is attuned to the needs of developing boys. Before starting out, the boys spend **several days at a base camp**, getting acquainted."^39 The crew of five is the same unit as 1961 and 1963.
+
+[[people/a-ross-seaman|A. Ross Seaman]], by then "the Y's Executive Director of camping," is quoted at length, and the argument is the rule of the I's in a director's own words nine years on: "First of all, there's nothing quite like **three or four weeks in the woodlands** to firm up and develop young muscles... But physical challenge is only part of it. **Many lads get even more out of the opportunities to use initiative and gain the sort of self-reliance so important to growing up.**"^39
+
+**One date in it does not fit.** The release says "the program **started 13 years ago**," which puts it at **1957**.^39 This article dates the Voyageurs to 1959, from the camp's own "Report of Older Boys Camp" and a pilot of thirty boys. A press release's round "thirteen years" is loose arithmetic and the camp's own report is much the better witness, so **the 1959 date stands unchanged**. It is noted here because a round number like that is exactly what gets copied into a later history, and because if a 1957-58 precursor did exist the 1959 report's framing as a new venture would need re-reading.
 
 ### 1966 and 1967: forty-one boys, seven weeks, and a crew whose notes went into a national guide book
 
@@ -771,3 +779,4 @@ This is the only itemised cost of a 1920s Canadian canoe trip found by this proj
 36. YMCA of Montreal, **112th Annual Report**, for the year ended **31 May 1964** [src_ymf_sgw_ymca_annual_report_1963] — a seventeen-month volume covering 1 January 1963 to 31 May 1964, so its camping season is the summer of **1963** (see [f_5090]). Read 2026-09-06 under p_441. See [f_5091], [f_5092].
 37. YMCA of Montreal, **113th Annual Report**, for the year ended **31 May 1965** [src_ymf_sgw_ymca_annual_report_1964] — camping section, "Les Voyageurs de la Verendrye." Its camping season is the summer of 1964 (see [f_5090]). Read 2026-09-06 under p_441. See [f_5094].
 38. YMCA of Montreal annual reports for **1966-67** and **1967** [src_cache_sgw_ymca_annual_report_1966_67, src_cache_sgw_ymca_annual_report_1967]. Read 2026-09-06 under p_441. See [f_5097]. *(Both volumes had second source records marked "extracted" from facts citing them rather than from a read — see p_442.)*
+39. Montreal YMCA news release, undated, **1970** [src_ymf_p0145_news_release_1970_2] — the Les Voyageurs recruiting release, quoting A. Ross Seaman as "the Y's Executive Director of camping." Cached at `sources/cache/ymca-montreal-fonds/p0145-news-release-1970-2.txt`; read 2026-09-06 under p_451. See [f_5108].
