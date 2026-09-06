@@ -16559,8 +16559,8 @@
       "extraction_version": "v5.60",
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state": "extracted",
+      "read_state_basis": "2026-09-06 under p_451: READ FOR KANAWANA CONTENT AND IT IS A NULL. Kanawana appears only in the printed letterhead's branch list, which is itself a small datum (f_5106) -- the association was printing Kanawana as a branch in 1964. NOTHING ELSE IN THIS RELEASE CONCERNS THE CAMP. Do not re-read it for camp content."
     },
     {
       "source_id": "src_ymf_news_release_1964_10_14",
@@ -16577,8 +16577,8 @@
       "extraction_version": "v5.60",
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state": "extracted",
+      "read_state_basis": "2026-09-06 under p_451: READ FOR KANAWANA CONTENT AND IT IS A NULL. Kanawana appears only in the printed letterhead's branch list, which is itself a small datum (f_5106) -- the association was printing Kanawana as a branch in 1964. NOTHING ELSE IN THIS RELEASE CONCERNS THE CAMP. Do not re-read it for camp content."
     },
     {
       "source_id": "src_ymf_news_release_1964_11_13",
@@ -18035,8 +18035,8 @@
       "extraction_version": "v5.60",
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state": "extracted",
+      "read_state_basis": "2026-09-06 under p_451: READ END TO END, a single-item release of about 950 characters. The W.H. Rhodes Canada Education Trust contingent -- 44 students aged 16-19 and two masters, 11-16 August 1970, first two and a half days at Kanawana (f_5106)."
     },
     {
       "source_id": "src_ymf_news_release_1970_08_07_202405",
@@ -19007,8 +19007,8 @@
       "extraction_version": "v5.60",
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_451: the CAMPING item read -- almost 500 enrolled at Kanawana and 24 for Les Voyageurs as of late May 1970 (f_5106). The rest of the release is NOT read."
     },
     {
       "source_id": "src_ymf_p0145_news_release_1970_06_08",
@@ -27286,8 +27286,8 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "read_state": "unread",
-      "read_state_basis": "none: catalogued 2026-09-02 from a cached file that belonged to no source record",
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_451: the KANAWANA item in this month-by-month year-in-review read -- the West Island family ski programme, corroborating f_5101 from a second document and placing it in the winter of 1969-70 (f_5106). The rest of this 6,500-character review is NOT read.",
       "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read."
     },
     {

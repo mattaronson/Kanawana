@@ -1,8 +1,8 @@
 {
-  "version": "7.85",
-  "kb_version": "7.85",
+  "version": "7.86",
+  "kb_version": "7.86",
   "migrated_from": "3.3",
-  "fact_count": 5067,
+  "fact_count": 5068,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91396,6 +91396,28 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.85",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5106",
+      "category": "programs",
+      "date_ref": "1964-1971",
+      "entities": [
+        "Kamp Kanawana",
+        "Les Voyageurs de la Verendrye",
+        "W.H. Rhodes Canada Education Trust"
+      ],
+      "claim": "FOUR SMALLER RELEASES, INCLUDING A NULL WORTH RECORDING. (1) THE 1964 LETTERHEAD ALREADY LISTS KANAWANA AS A BRANCH. The releases of 25 September and 14 October 1964 mention Kanawana only in the printed letterhead, which reads 'BRANCHES: CENTRAL, INTERNATIONAL, LACHINE-DORVAL, LAKESHORE, NORTHMOUNT, NOTRE DAME DE GRACE, VERDUN-LASALLE, WESTMOUNT, KAMP KANAWANA, CAMP OTOREKE'. THAT IS A NULL FOR CONTENT and both files are recorded as such -- but it is not nothing. people/directors-index.md says 'Kanawana appears as a BRANCH from the 1966-67 report'. THE ASSOCIATION'S OWN STATIONERY WAS PRINTING IT AS A BRANCH IN 1964, two years earlier. Stationery is slower to change than an annual report, which cuts both ways: it could be ahead of the formal reorganisation or behind it. Recorded as the earliest instance found. (2) 1970 PRE-REGISTRATION, AT THE END OF MAY. The release of 28 May 1970: 'CAMPING: A total of ALMOST 500 BOYS AND GIRLS have been enrolled to spend part of this summer at Kamp Kanawana. Another 24 BOYS have been signed up for LES VOYAGEURS canoe adventures. Pre-registration is also high for the day camp programs operated by different Y branches in the city.' meta/attendance-series.md's 1970 row has 1,442 camper-weeks, no camper count, and a note that 'registration started slowly and was pulled up by drench mailings'. A PRE-REGISTRATION FIGURE IS NOT AN ATTENDANCE FIGURE and it is not being entered as one -- but almost 500 enrolled by late May sits oddly beside 'started slowly', and the two should be read together. The Voyageurs' 24 is the first figure for that programme since the 41s of 1966 and 1967 (f_5097). (3) A BRITISH CONTINGENT AT CAMP, AUGUST 1970. 'The Montreal YMCA's Downtown Residence and Kamp Kanawana will be the main bases for A BRITISH CONTINGENT OF UNOFFICIAL GOODWILL AMBASSADORS to visit this Province, AUGUST 11TH-16TH. The group, SPONSORED BY W.H. RHODES CANADA EDUCATION TRUST, will consist of 44 STUDENTS -- AGE 16-19 -- AND TWO MASTERS. Their objective is to establish personal contacts here, create friendship and strengthen existing ones. THE FIRST TWO AND A HALF DAYS WILL BE SPENT AT KANAWANA.' The Rhodes trust and 'Rhodes students from England' are already in this KB; the 1970 visit's dates, numbers and sponsor are not. AND IT ECHOES 1939, when five touring groups of English and Scottish boys brought 133 'Old Country' boys through the camp (f_5075). Thirty-one years apart, the same kind of visit, and no article connects them. (4) THE SKI PROGRAMME, CORROBORATED AND DATED TO A MONTH. The January 1971 year-in-review release lists, under its month-by-month account: 'West Island Y came up with a FAMILY SKI PROGRAM. It operated Saturdays at Kamp Kanawana and included INSTRUCTION, A BABY-SITTING SERVICE, LUNCH FACILITIES AND FREE SOUP.' Same programme as f_5101, from a second document, and its place in a January-first review confirms the winter of 1969-70. || [ID CORRECTED 2026-09-06 BEFORE COMMIT: I first cited 'src_ymf_news_release_1971_01', which does not exist; the record holding this file is 'src_cache_news_release_1971_01'. data_integrity refused the commit, which is now the third time today an invented source id has been stopped at that gate.]",
+      "sources": [
+        "src_ymf_news_release_1964_09_25",
+        "src_ymf_news_release_1964_10_14",
+        "src_ymf_p0145_news_release_1970_05_28",
+        "src_ymf_news_release_1970_08_05",
+        "src_cache_news_release_1971_01"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.86",
       "added_by": "ralph_loop"
     }
   ]

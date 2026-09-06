@@ -559,3 +559,18 @@ Relaxed to require 75% of the stem's tokens rather than all of them. Candidate p
 This is rule 36 again — matching on tokens means matching on how someone chose to spell them —
 but with the twist that the *extra* token is as dangerous as the missing one. A containment test
 has a direction, and the direction is an assumption about which name is fuller. It was wrong here.
+
+## 41. Rule 32, fourth occurrence, and the failure mode has a second shape
+
+Typed `^54` into `directors-index.md` before running `add_source_note.py`. The script counted my
+marker as an existing one and assigned **55**, so entry 54 never existed and the Sources list ran
+52, 53, 55. `verify_harness` would have caught the gap on the next run, but only after a commit
+that looked fine.
+
+So the two shapes of this failure are now both documented. **Guess too low** and the marker
+silently points at somebody else's source (rule 38: an acreage citing a 1911 road atlas, every
+check green). **Guess at the right number** and the script steps past it, leaving a hole.
+
+Four occurrences, and the discipline is one line long: **run the script, read the number it
+prints, then type it.** There is no case where knowing the number in advance is possible, because
+the script's count includes whatever you have already typed.
