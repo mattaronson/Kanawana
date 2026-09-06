@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
 *Status: E1-reviewed | Sources: 0*
-*Last Updated: 2026-09-06 (p_386: the 1976 YMCA-to-RLSS lifesaving changeover and the national award chart)*
+*Last Updated: 2026-09-06 (p_386 lifesaving changeover; diabetic children at Kanawana, from outside the camp)*
 
 ## Overview
 
@@ -62,6 +62,31 @@ Y camp counsellors received three-day leader training courses at Camp Kanawana i
 The Concordia archives show institutional restructuring through this period. A "Camping and Outdoor Education Branch Director's Report" from 1972, a "Report of the Staff Task Group on Outdoor Education in the Montreal YMCA" from 1974, and "Camping and Outdoor Education planning 1974-1975" all point to a professionalization of programme design. The rebranding from "camping" to "outdoor education" reflected a broader trend in the camp industry toward educational justification for what had previously been framed as character-building recreation.
 
 The Concordia archives also list Director's Reports from the 1970s (1973, 1975, 1977, 1978) and a "Proposed two-site operation, Kanawana and Weredale" document from 1977, suggesting that programming decisions in this era were made in the context of a multi-site camping operation.
+
+### Diabetic children at Kanawana, from a source outside the camp
+
+Nothing in this project's own records mentions diabetic campers. A Montreal memoir does.^mk
+
+**Michael Kutz** — born 1930, a Holocaust survivor who settled in Montreal — describes his fraternal
+work there: "[We visited the children] at the **Montreal Children's Hospital**, bringing them toys and
+refreshments and singing songs with them. Every December, we arranged a party for the children, most of
+whom were bedridden or in wheelchairs, **as well as for diabetic children from Camp Kanawana**. Our
+organization's donations helped create one of the largest science libraries at the hospital. Through the
+**Knights of Pythias**, I also visited hundreds of war veterans…"
+
+The phrase is "diabetic children **from** Camp Kanawana", which reads as a standing group rather than an
+incident — but the passage gives no year, does not say whether they came as a session or as individuals,
+and does not say whether the December party was at the hospital or at camp. Kutz settled in Canada after
+the war and died in 2018, so the period is somewhere in the second half of the twentieth century.
+
+The context this project already holds makes the claim easy to believe and worth pursuing. Canada had
+**exactly two diabetic camps in 1954** [f_2673], and the first diabetic children's camp in Quebec ran from
+18 to 28 August 1958 at **Camp Jackson Dodds** [f_2849], organised by a medical committee drawn from Montreal's
+English-speaking hospitals and sponsored by **The Montreal Children's Hospital** — the same hospital
+Kutz names. A YMCA camp taking diabetic children, with a fraternal order paying and a teaching hospital
+behind it, is exactly the shape those arrangements took. **Whether Kanawana was one of them is now a
+specific question with two institutions to ask**: the Montreal Children's Hospital and the Knights of
+Pythias.
 
 ### The aquatic award system, and the 1976 changeover
 
@@ -192,6 +217,7 @@ environmental-education positioning without originating from it.
 - [cc82] Cousineau, Claude (Department of Recreology, University of Ottawa). "Hebertisme." *Canadian Camping*, Vol. 21 No. 3, Spring 1969, pp. 62-67, 82. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 82).
 - [oc] Concordia University Archives, YMCA of Montreal fonds, sub-sub-series 12B01, 12B03, 12B04, 12B07 [src_concordia_p0145_12b01_finding_aid, src_concordia_12B03, src_concordia_atom_12B04, src_concordia_atom_12B07].
 - [dd76] Doug Dent (Past Director, Camp Wabanaki), "Aquatics, Water Safety & Watercraft," The Business of Camping series, *Canadian Camping* Vol. 28 No. 2 (January 1976), p. 9 [src_ia_canadian_camping_collection]. Carries the YMCA-to-RLSS lifesaving changeover and the three-column YMCA / Red Cross / RLSS equivalence chart with its age prerequisites. Cached at `sources/cache/canadian-camping/canadiancampingmagazine_vol28_no2_1976january.txt`. See [f_4929].
+- [mk] Michael Kutz, *If, By Miracle* (Azrieli Foundation, 2013), Internet Archive scan leaf 190; the book's own index gives the printed page as 87 [src_kutz_if_by_miracle]. **One passage only**, reconstructed 2026-09-06 from seven overlapping Open Library search-inside queries; the book is lending-restricted and has not been read, and the opening words in square brackets are supplied because the window begins mid-sentence. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-abrams-kutz-memoir-passages.txt`. See [f_4938]. The Quebec context is at [f_2673] (Canada had exactly two diabetic camps in 1954) and [f_2849] (the diabetic children's camp at Camp Jackson Dodds, 18-28 August 1958, sponsored by The Montreal Children's Hospital), both from the *Canadian Camping* run [src_ia_canadian_camping_collection].
 
 ## Research Notes
 

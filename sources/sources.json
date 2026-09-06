@@ -29017,7 +29017,43 @@
       "read_state": "partial",
       "read_state_basis": "Both editions' djvu text downloaded and searched 2026-09-06; the Kanawana lines read out and cached. The column values beside the name could not be aligned from the OCR and are not recorded.",
       "notes": "Kanawana stands in the alphabetical run between Kanata and Kandahar in both editions. Item ids canadianalmanacd0000unse_y6g6 (1917) and _x3a0 (1918); the edition years come from the running headers, since the Internet Archive metadata gives the series start date of 1848 for both. See f_4936."
+    },
+    {
+      "source_id": "src_abrams_retenue_par_un_fil",
+      "type": "oral_history",
+      "title": "Judy Abrams, Retenue par un fil / Une question de chance (Azrieli Foundation, French edition, 2013) — the passage on Camp Kanawana",
+      "date": "2013",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/retenueparunfil0000unse",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-abrams-kutz-memoir-passages.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.73",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "ONE PASSAGE ONLY, reconstructed from five overlapping Open Library search-inside windows 2026-09-06. Scan leaf 254; printed page unknown. The book is lending-restricted and has not been read.",
+      "notes": "Abrams was born in Budapest 28 April 1937 and came to Montreal in 1949; the passage describes a summer of her Montreal adolescence, so the early or mid 1950s. It describes long letters written to her from Kanawana about canoe trips in the Laurentians. The writer is not named in the recovered text and the relationship is not stated. See f_4937."
+    },
+    {
+      "source_id": "src_kutz_if_by_miracle",
+      "type": "oral_history",
+      "title": "Michael Kutz, If, By Miracle (Azrieli Foundation, 2013) — the passage on the Knights of Pythias, the Montreal Children's Hospital and diabetic children from Camp Kanawana",
+      "date": "2013",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/ifbymiracle0000kutz",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-abrams-kutz-memoir-passages.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.73",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "ONE PASSAGE ONLY, reconstructed from seven overlapping Open Library search-inside windows 2026-09-06. Scan leaf 190; printed page unknown. The book's own index carries 'Camp Kanawana, 87', so the printed page is 87. The book is lending-restricted and has not been read.",
+      "notes": "The only source in this project that puts diabetic children at Camp Kanawana. Undated within Kutz's adult life in Montreal. See f_4938."
     }
   ],
-  "source_count": 1612
+  "source_count": 1614
 }

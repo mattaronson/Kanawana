@@ -1,0 +1,59 @@
+TWO PASSAGES FROM AZRIELI FOUNDATION HOLOCAUST SURVIVOR MEMOIRS THAT NAME CAMP KANAWANA.
+
+Both books are lending-restricted on the Internet Archive and CANNOT be read from here. Each
+passage below was assembled from overlapping phrase queries against Open Library's search-inside
+endpoint on 2026-09-06, joining windows of about a dozen words. THESE ARE RECONSTRUCTIONS, not
+transcriptions, and nothing outside the quoted stretch has been read.
+
+================================================================================
+1. Judy Abrams, "Retenue par un fil / Une question de chance"
+   (French edition of "Tenuous Threads", Azrieli Foundation, 2013)
+   Internet Archive item retenueparunfil0000unse, scan leaf 254.
+
+QUERIES: "Camp Kanawana" ; "rejoint le camp Kanawana du YMCA" ;
+         "Il m'a écrit de longues lettres décrivant" ; "appelé Escobar, il a pour sa part" ;
+         "dans un camp de vacances privé, appelé Escobar" ; "lée ses voyages"
+
+RECONSTRUCTED:
+
+  ... aimait pas moins. Durant l'été, lorsque je suis partie dans un camp de vacances privé,
+  appelé Escobar, il a pour sa part rejoint le camp Kanawana du YMCA. Il m'a écrit de longues
+  lettres décrivant de manière détail[-]lée ses voyages en canoë dans la nature sauvage des
+  Laurentides ...
+
+DATING, from the author and not from the passage: Judy Abrams was born in Budapest on
+28 April 1937 and came to Montreal in 1949. A summer of her Montreal adolescence puts this in
+the early or mid 1950s.
+
+WHAT IS NOT IN THE RECOVERED TEXT: who "il" is. He is not named and the relationship is not
+stated in any window recovered. No year is given. Do not infer either.
+
+================================================================================
+2. Michael Kutz, "If, By Miracle" (Azrieli Foundation, 2013)
+   Internet Archive item ifbymiracle0000kutz, scan leaf 190.
+   The book's own index carries "Camp Kanawana, 87", so the printed page is 87.
+
+QUERIES: "Camp Kanawana" ; "diabetic children from Camp Kanawana" ;
+         "as well as for diabetic children" ; "bedridden or in wheelchairs, as well as" ;
+         "we arranged a party for the children" ; "refreshments and singing songs with them" ;
+         "Hospital, bringing them toys and refreshments" ;
+         "Our organization's donations helped create" ;
+         "one of the largest science libraries at the hospital" ;
+         "Through the Knights of Pythias"
+
+RECONSTRUCTED:
+
+  ... [we visited the children] at the Montreal Children's Hospital, bringing them toys and
+  refreshments and singing songs with them. Every December, we arranged a party for the
+  children, most of whom were bedridden or in wheelchairs, as well as for diabetic children
+  from Camp Kanawana. Our organization's donations helped create one of the largest science
+  libraries at the hospital. Through the Knights of Pythias, I also visited hundreds of war
+  veterans ...
+
+The bracketed opening is supplied: the window begins mid-sentence at "Hospital", and the words
+before it were not recovered, so the subject and verb are inferred from the sentence that
+follows. "Our organization" is the Knights of Pythias, named two sentences later.
+
+WHAT IS NOT ESTABLISHED: the years; whether the diabetic children came to Kanawana as a session
+or as individuals; and whether the December party was held at the hospital or at camp. Kutz was
+born in 1930 and settled in Canada after the war, so the period is his adult life in Montreal.

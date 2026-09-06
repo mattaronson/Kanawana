@@ -1,8 +1,8 @@
 {
-  "version": "6.72",
-  "kb_version": "6.72",
+  "version": "6.73",
+  "kb_version": "6.73",
   "migrated_from": "3.3",
-  "fact_count": 4898,
+  "fact_count": 4900,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87981,6 +87981,43 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.72",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4937",
+      "category": "campers",
+      "date_ref": "c.1950s",
+      "entities": [
+        "Judy Abrams",
+        "Kamp Kanawana",
+        "Camp Escobar"
+      ],
+      "claim": "A CAMPER'S LETTERS FROM KANAWANA, DESCRIBED IN A PUBLISHED MEMOIR. Judy Abrams, Retenue par un fil (the French edition of Tenuous Threads, Azrieli Foundation series, 2013), scan leaf 254: \"Durant l'ete, lorsque je suis partie dans un camp de vacances prive, appele Escobar, il a pour sa part rejoint le camp Kanawana du YMCA. Il m'a ecrit de longues lettres decrivant de maniere detail-lee ses voyages en canoe dans la nature sauvage des Laurentides...\" Reconstructed 2026-09-06 from five overlapping Open Library search-inside queries; the book is lending-restricted and has not been read. WHO AND WHEN: Abrams was born in Budapest on 28 April 1937 and came to Montreal in 1949, so a summer of her adolescence in Montreal puts this in the EARLY OR MID 1950s -- inside the 1947-1958 span this project calls the true postwar gap, from which almost nothing survives. WHAT IS NOT ESTABLISHED, and must not be inferred: who \"il\" is. The snippet does not name him or state the relationship, and the passage was not read whole. Nor is the year given. WHAT IT IS EVIDENCE OF: that boys at Kanawana in this period wrote long letters home describing their canoe trips in detail, and that at least one such correspondence was thought worth recounting sixty years later in a published memoir. The letters themselves, if they survive, would be first-person camper material from the emptiest decade in this project's record.",
+      "sources": [
+        "src_abrams_retenue_par_un_fil"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.73",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4938",
+      "category": "campers",
+      "date_ref": "undated",
+      "entities": [
+        "Michael Kutz",
+        "Knights of Pythias",
+        "Montreal Children's Hospital",
+        "Kamp Kanawana"
+      ],
+      "claim": "DIABETIC CHILDREN FROM CAMP KANAWANA, IN A HOLOCAUST SURVIVOR'S MONTREAL MEMOIR. Michael Kutz, If, By Miracle (Azrieli Foundation, 2013), scan leaf 190, on his fraternal and charitable work in Montreal: \"[We visited the children] at the Montreal Children's Hospital, bringing them toys and refreshments and singing songs with them. Every December, we arranged a party for the children, most of whom were bedridden or in wheelchairs, AS WELL AS FOR DIABETIC CHILDREN FROM CAMP KANAWANA. Our organization's donations helped create one of the largest science libraries at the hospital. Through the Knights of Pythias, I also visited hundreds of war veterans...\" Reconstructed 2026-09-06 from seven overlapping Open Library search-inside queries; the book is lending-restricted and has not been read. The organisation is the KNIGHTS OF PYTHIAS, a fraternal order, and the hospital is the MONTREAL CHILDREN'S HOSPITAL. WHY IT MATTERS: nothing in this project records diabetic children at Kanawana, and the phrase 'from Camp Kanawana' reads as a standing group rather than an incident. This project's knowledge base does hold the Quebec context -- the first diabetic children's camp in the province ran at Camp Jackson Dodds in August 1958 under a Montreal Children's Hospital medical committee (f in the KB on the 1958 camp), and Canada had exactly two diabetic camps in 1954. If Kanawana took diabetic campers, in whatever period, that is a programme this wiki does not know about and the Montreal Children's Hospital is the institution that would have arranged it. WHAT IS NOT ESTABLISHED: the years, whether the children came as a session or as individuals, and whether the party was at the hospital or at camp. Kutz was born in 1930 and settled in Canada after the war, so any date is his adult life in Montreal, which is most of the second half of the twentieth century.",
+      "sources": [
+        "src_kutz_if_by_miracle"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.73",
       "added_by": "ralph_loop"
     }
   ]
