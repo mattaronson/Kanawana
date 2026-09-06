@@ -1,8 +1,8 @@
 {
-  "version": "7.06",
-  "kb_version": "7.06",
+  "version": "7.07",
+  "kb_version": "7.07",
   "migrated_from": "3.3",
-  "fact_count": 4940,
+  "fact_count": 4941,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88792,7 +88792,7 @@
         "Internet Archive",
         "Kamp Kanawana"
       ],
-      "claim": "ONE INTERNET ARCHIVE ITEM HOLDS TWO ANNUAL VOLUMES AND THE CATALOGUE NAMES ONLY ONE. Item yearbookyoungme01commgoog is catalogued 'year: 1899, date: 1899'. It contains TWO complete Year Books: 'For the Year 1899.' at scan line 107 and 'For the Year 1900.' at scan line 67857, both read off the volumes' own title pages. So the item fills TWO years of this project's 1898-1905 hole in the series, and a reader trusting the catalogue field would have taken one. THE 1900 HALF HAS NOT BEEN READ: its OCR is far more degraded, a loose search for any spelling of Montreal returns only two mangled entries, and the alphabetical list breaks precisely in the B's where Ball would fall -- so the 1900 Montreal roster is UNKNOWN and that volume's silence about W. H. Ball is a fact about the scanner, not evidence he had left the post. Untried route: the item is not lending-restricted, so its page images are fetchable and would settle it. ALSO: 'Kanawana', 'summer camp' and 'camping' occur ZERO times in either volume, and the only 'camp' near Montreal or Quebec is 'winter campaign work' -- the same result the 1921 volume gave, and for the same reason, since the Year Book rosters associations and their paid staff and not their programmes.",
+      "claim": "ONE INTERNET ARCHIVE ITEM HOLDS TWO ANNUAL VOLUMES AND THE CATALOGUE NAMES ONLY ONE. Item yearbookyoungme01commgoog is catalogued 'year: 1899, date: 1899'. It contains TWO complete Year Books: 'For the Year 1899.' at scan line 107 and 'For the Year 1900.' at scan line 67857, both read off the volumes' own title pages. So the item fills TWO years of this project's 1898-1905 hole in the series, and a reader trusting the catalogue field would have taken one. [SUPERSEDED 2026-09-06, within the hour, and the error is worth keeping: this fact said 'THE 1900 HALF HAS NOT BEEN READ: its OCR is far more degraded... so the 1900 Montreal roster is UNKNOWN and that volume's silence about W. H. Ball is a fact about the scanner, not evidence he had left the post. Untried route: the item is not lending-restricted, so its page images are fetchable and would settle it.' THAT WAS WRONG, AND WRONG IN A SPECIFIC WAY. The 1900 volume has TWO listings of the same staff -- an ALPHABETICAL LIST of paid officers and a BRANCH DIRECTORY by city. Only the alphabetical list is degraded. THE BRANCH DIRECTORY READS CLEANLY, and it was never looked at before the claim was written; the volume was searched in one section and the result generalised to the whole of it. No page images were needed. See f_4979 for what it says.] The 1900 volume's alphabetical list of paid officers is indeed too degraded to read, but its branch directory is not, and the 1900 Montreal roster is now read from it (f_4979). ALSO: 'Kanawana', 'summer camp' and 'camping' occur ZERO times in either volume, and the only 'camp' near Montreal or Quebec is 'winter campaign work' -- the same result the 1921 volume gave, and for the same reason, since the Year Book rosters associations and their paid staff and not their programmes.",
       "sources": [
         "src_ymca_yearbook_1899",
         "src_ymca_yearbook_1900"
@@ -88815,6 +88815,32 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4979",
+      "category": "people",
+      "date_ref": "1900",
+      "entities": [
+        "W. H. Ball, Jr.",
+        "E. G. Randal",
+        "John Roy",
+        "D. A. Budge",
+        "C. K. Calhoun",
+        "F. E. Burness",
+        "F. S. Morrison",
+        "F. A. Crowe",
+        "A. H. Grace",
+        "YMCA of Montreal",
+        "McGill University"
+      ],
+      "claim": "THE MONTREAL YMCA'S PAID STAFF FOR 1900, AND W. H. BALL IS STILL PHYSICAL DIRECTOR. The 1900 Year Book's Quebec branch directory prints: 'Montreal / D A. Budge / Asst., C. K. Calhoun / Asst., F. E. Buruess / Asst., John Hoy / Phys. Director, W. H. Ball. Jr. / Junior Dept., [no name] / R.R. Dept., F. S. Morrison / McGill University.... [no name]'. Read against the 1899 volume: 'John Hoy' is JOHN ROY and 'F. E. Buruess' is an assistant the alphabetical list gives as 'Burgeoii, F. B., Montreal, Ant., 99' -- the same man in both, with BOTH his initials and his surname uncertain in the OCR (Burness? Burgess? Bourgeois?), entering Association work in 1899. FOUR CHANGES FROM 1899, all read off the directory itself: W. H. BALL, JR. IS STILL PHYSICAL DIRECTOR, so his departure from the post is now bounded to 1901-1905 rather than 1900-1905, the 1906 volume having J. E. Merritt in it. E. G. RANDAL IS GONE and Montreal has NO Educational Director line at all in 1900 -- so his tenure there is bounded to at most 1893-1899 and his post lapsed after him. F. A. CROWE IS GONE from the Junior Department, whose line is printed with no name against it. And A. H. GRACE IS GONE from McGill University, likewise printed blank. A SEPARATE AND WEAKER TRACE, recorded as a lead and not a finding: the same 1900 volume lists a Randal, initials rendered 'E. O.', as general secretary of an association whose city the OCR gives as 'TaustoD' -- plausibly Taunton, Massachusetts, though the surrounding city names are not in an order that confirms it. Whether that is Montreal's E. G. Randal moving to a new post is NOT established and must not be written as though it were.",
+      "sources": [
+        "src_ymca_yearbook_1900"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.07",
       "added_by": "ralph_loop"
     }
   ]

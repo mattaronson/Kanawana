@@ -5629,3 +5629,29 @@ precisely where Ball would fall. **The 1900 Montreal roster is unknown**, and th
 silence about Ball is a fact about the scanner. The item is unrestricted, so its page images would
 settle it. Queued as p_435 along with the nine other scans the title query surfaced and the
 remaining holes at 1898, 1901-1905 and 1909-1920.
+
+### Correction to the above, the same hour: the 1900 roster was readable all along
+
+The campaign entry above reported that the 1900 Montreal roster could not be read, that the
+volume's silence about W. H. Ball was the scanner's fault, and that page images were the untried
+route. All three were wrong, and the shape of the error is worth more than the correction.
+
+**The Year Book lists the same staff twice** — an alphabetical list of paid officers, and a branch
+directory arranged by city. In the 1900 half only the alphabetical list is degraded. The branch
+directory reads about as well as the 1899 one, and it had not been looked at when the claim was
+written. One section was searched, that section came back unreadable, and the result was written
+up as a fact about the volume. It is the same failure as marking a source "read" when it was read
+for one thing: **a source searched in one section is searched in one section.**
+
+What it actually says, corrected in place in f_4977 and written out in f_4979: **Ball is still
+Physical Director in 1900**, which bounds his departure to 1901-1905. **E. G. Randal is gone and
+Montreal has no Educational Director line at all**, so his tenure is bounded to at most 1893-1899
+and the post lapsed rather than passing to anyone — which is why the next Educational Director
+this project has is Spinney, seventeen years later. **F. A. Crowe and A. H. Grace are gone**, their
+lines printed blank. One assistant is added whose name the volume gives two irreconcilable ways:
+"F. E. Buruess" in the directory, "Burgeoii, F. B." in the alphabetical list. Left unresolved
+rather than picked.
+
+A thread and not a finding: the same volume lists a Randal, initials rendered "E. O.", at a city
+the OCR gives as "TaustoD" — plausibly Taunton, Massachusetts. Whether that is Montreal's E. G.
+Randal is not established and is not written as though it were.

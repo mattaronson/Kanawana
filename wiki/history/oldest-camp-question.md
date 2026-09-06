@@ -230,9 +230,10 @@ have recorded the thing anyway is a fact about the source. So the Year Book cann
 down Ottawa 1893, and could not be used to knock down Kanawana 1894 — which is worth saying plainly,
 because the temptation runs the other way when the null is convenient. **The 1899 and 1900 volumes, read
 on 2026-09-06, extend the same null by two more years and in a way that makes the point harder:** by 1899
-Montreal had been running its camp for five summers and the volume's own Quebec pages name the man running
-it, W. H. Ball, Jr., as the association's Physical Director — and still record no camp, for Montreal or for
-anyone in the province [f_4977].^20 A source that omits a camp it demonstrably knew about is not evidence
+Montreal had been running its camp for five summers, and the 1899 volume's own Quebec pages name the man
+running it, W. H. Ball, Jr., as the association's Physical Director. **Neither the 1899 nor the 1900 volume
+records a camp** — not for Montreal, not for anyone in Quebec; "Kanawana", "summer camp" and "camping"
+occur zero times in either [f_4977].^20 A source that omits a camp it demonstrably knew about is not evidence
 about camps at all. **Ottawa 1893 is now tested and
 stands as one man's recollection, with a YWCA minute behind a differently-sponsored camp.** The
 untried routes are named in the Open Questions: the Ottawa YMCA's own annual reports of the 1890s,

@@ -115,24 +115,77 @@ Checked by grep against the repo before being written down.
   ALREADY HELD — Budge and Calhoun.
 
 
-IV. THE 1900 VOLUME: PRESENT, READ, AND MOSTLY UNREADABLE
+IV. THE 1900 VOLUME — AND A CORRECTION MADE THE SAME HOUR
 =========================================================
-The 1900 volume's alphabetical list survives the scanner far worse than the 1899 one. A loose
-search for any spelling of Montreal in it returns only two entries:
+[SUPERSEDED 2026-09-06, within the hour of writing it. This section was headed "THE 1900 VOLUME:
+PRESENT, READ, AND MOSTLY UNREADABLE" and concluded: "THE HONEST STATEMENT: the 1900 Montreal
+roster HAS NOT BEEN READ. The OCR of that half of the scan is too degraded to read a roster off,
+and its silence about Ball is a fact about the scanner, NOT evidence that he had left. Whether
+Ball is in the 1900 volume is UNKNOWN. The item is not lending-restricted, so the page images are
+fetchable and would settle it; that has not been done."
 
-    Burgeoii, F. B., Montreal, Ant., 99
-    CalhODD, C. X.. Montreal. Aaat., M
+THAT WAS WRONG, AND THE WAY IT WAS WRONG IS THE POINT. The Year Book lists the same staff TWICE:
+an ALPHABETICAL LIST of paid officers, and a BRANCH DIRECTORY arranged by city. Only the
+alphabetical list is degraded in the 1900 half. The branch directory reads about as well as the
+1899 one — and it had not been looked at. The volume was searched in one section, the section
+came back unreadable, and the result was written up as a fact about the volume. That is the same
+failure as reading a source for one thing and recording it as read: A SOURCE SEARCHED IN ONE
+SECTION IS SEARCHED IN ONE SECTION. No page images were needed and none were fetched.]
 
-The first is a Montreal assistant whose surname the OCR has mangled past recovery (Burgeon?
-Bourgeois?) with an entry year of 99; the second is Calhoun. Neighbouring lines in the same
-column run "•B«ni«, F. B.. (hnnhfc Neb.. Ph. Dir., BO" and ".. Ph. Dir., " — a broken line in
-the B's precisely where Ball would fall.
+THE MONTREAL ROSTER FOR 1900, from the Quebec branch directory (scan line 76651 of the item,
+8830 of the 1900 half), quoted with the OCR's slips left in:
 
-THE HONEST STATEMENT: the 1900 Montreal roster HAS NOT BEEN READ. The OCR of that half of the
-scan is too degraded to read a roster off, and its silence about Ball is a fact about the
-scanner, NOT evidence that he had left. Whether Ball is in the 1900 volume is UNKNOWN. The item
-is not lending-restricted, so the page images are fetchable and would settle it; that has not
-been done. Queued.
+    <|aebec.
+    Montreal                     D A. Budge
+        Asst.,                   C. K. Calhoun
+        Asst,                    F. E. Buruess
+        " Asst.,                 John Hoy
+        Phys. Director,          W. H. Ball. Jr.
+        Junior Dept.,
+        ** R.R. Dept             h\ S. Moriison
+    McGill University....
+    Quebec                       H. H. Distin
+        " Phys. Director,        RoHert Aiken
+    Sherbrooke                   J. H. Bryce
+
+Read against the 1899 volume, that is:
+
+    General Secretary        D. A. BUDGE
+    Assistant                C. K. CALHOUN
+    Assistant                F. E. BURNESS      [see the note on this name below]
+    Assistant                JOHN ROY           ["John Hoy" — H for R]
+    Physical Director        W. H. BALL, JR.
+    Junior Department        — printed, with no name against it
+    Railroad Department      F. S. MORRISON
+    McGill University        — printed, with no name against it
+    (no Educational Director line at all)
+
+FOUR CHANGES FROM 1899, and each one is read off the directory itself rather than inferred:
+
+  W. H. BALL, JR. IS STILL PHYSICAL DIRECTOR. His departure from the post is therefore bounded to
+    1901-1905, not 1900-1905 — the 1906 volume has J. E. Merritt in it.
+
+  E. G. RANDAL IS GONE, and Montreal has NO Educational Director line whatever in 1900. So his
+    tenure is bounded to at most 1893-1899, and the post lapsed after him rather than passing to
+    someone else.
+
+  F. A. CROWE IS GONE from the Junior Department, whose line is printed with nothing against it.
+
+  A. H. GRACE IS GONE from McGill University, likewise printed blank.
+
+  AND ONE ADDITION: an assistant the directory gives as "F. E. Buruess" and the alphabetical list
+    gives as "Burgeoii, F. B., Montreal, Ant., 99". The two disagree on the initials AND on the
+    surname, and neither is legible enough to settle. Burness? Burgess? Bourgeois? What is certain
+    is that Montreal gained an assistant who entered Association work in 1899. The name is left
+    unresolved here rather than picked.
+
+A LEAD, AND DELIBERATELY NOT AN IDENTIFICATION. The same 1900 volume lists a Randal, initials
+rendered "E. O.", as secretary of an association whose city the OCR gives as "TaustoD" —
+plausibly TAUNTON, MASSACHUSETTS, though the city names around it ("Dalnlh" for Duluth) are not
+in an order that confirms a state grouping. Whether this is Montreal's E. G. Randal in a new post
+is NOT established, and the initials do not match cleanly. It is written down because a man who
+appears in this project for the first time today, and vanishes from Montreal after one recorded
+year, is worth a thread; it is not written down as his next job.
 
 V. "KANAWANA" OCCURS ZERO TIMES IN EITHER VOLUME
 ================================================
