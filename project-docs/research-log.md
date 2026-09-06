@@ -6557,3 +6557,44 @@ total tobacco prohibition, and a dated end for "the old Otoreke Hike," replaced 
 wagon-supported Gypsy Hike.
 
 Six documents into p_441. Every one has paid.
+
+## 2026-09-06 — p_441, documents nine and ten: a camp that was only a number
+
+`src_ymf_1943_08_15_report_on_camp_thunderbird` was next in the seam, and it turned a finding-aid
+sub-series number into a camp. Camp Thunderbird (P0145/12I) was a one-week boys' camp run by the
+Montreal YMCA's Central branch on an island in the rivière des Mille Îles, twenty miles from the
+city. Twenty-two people. Boys twelve to fifteen. Seven dollars a week, "set to appeal to the boy of
+modest means." Tents on wooden floors with straw mattresses, a spring-well, two row-boats for
+twenty-two people, and excursions to somewhere called Kozy Korners. It has an article now.
+
+A grep of the whole fonds cache for "Thunderbird" then produced the 1943 brochure, which gives the
+location three ways — "near Ste. Eustache," "c/o Mme. Lupi, Ste. Rose West," and in the 1944 annual
+report "near Plage Laval" — and gives Dodds his title, Associate Boys' Work Secretary of the Central
+YMCA. Three web searches returned only the Vancouver Island, Charlotte, Rochester and Atlanta camps
+of the same name. The online record is empty.
+
+**The Dodds line is the connective tissue.** A. T. Dodds directed Thunderbird, with Mrs Dodds as
+"dietician and cook"; four years later they ran the boys' and girls' halves of Camp Perrot, and her
+own report calls 1947 her first year in an administrative capacity. And the 1944 annual report says,
+after a second summer: "our experience has proven the need for a permanent camp of this nature,
+which could be used by boys and girls throughout the summer." Camp Perrot opened that year, near
+the city, low-cost, for boys and girls. **No document says Perrot succeeded Thunderbird**, and the
+articles say so explicitly rather than making the join.
+
+**Then the cheap follow-up turned into the interesting part.** Checking whether Thunderbird ran
+after 1944 took one grep: zero occurrences in the 1945 through 1952 reports, and the 1945 camper
+table carries Perrot where Thunderbird had been. Two summers, then — except that the same check
+showed the tables are offset. The 1945 report's "Kanawana for boys 400" is this wiki's figure for
+the **1944 season**; the 1947 report's 302 is its figure for **1946**. Two clean anchors, both a
+year apart, and a third unreadable because the scan renders 4 as *h*.
+
+So the reports most likely tabulate the previous season, which is ordinary for an annual report —
+and which means Thunderbird's two summers may be 1942 and 1943 rather than 1943 and 1944. The
+brochure and the season report are unambiguously 1943; the other year is not fixed. Three facts
+written an hour earlier had asserted 1943 and 1944, and all three now carry the correction in
+place. Raised as p_447, because the same offset touches every 1940s row of the attendance series
+and nothing in that article says which convention its figures were entered under.
+
+The honest note on all of it: those tables were reached by grep, not by reading the volumes. That
+is the exact failure p_441 exists to fix, and the fix — read the front matter, find the fiscal-year
+statement — is in the queue rather than done.

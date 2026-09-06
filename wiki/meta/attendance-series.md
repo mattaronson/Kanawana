@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 12*
+*Status: draft | Sources: 13*
 *Last Updated: 2026-09-06 (the 1916 fee and season, from a school magazine advertisement)*
 
 ## Overview
@@ -212,6 +212,27 @@ attendance figure, and the tables do not pretend otherwise.
 season), 1920, 1981–1984, 1989–1993, 1995–1997 and most of 2010–2019. All but three are closed by the
 artefacts, in the section below.
 
+## A dating question this article should answer about itself
+
+Reading the YMCA of Montreal annual reports' "Summer Camps" camper tables against the rows above
+turns up a systematic offset. **The 1945 report gives "Kanawana for boys 400," which is this
+article's figure for the 1944 season. The 1947 report gives "Kanawana for Boys 302," which is this
+article's figure for 1946.**^13 Two anchors, both a year apart. A third is unreadable rather than
+contradictory: the 1946 report reads "52h" in a scan that renders 4 as *h* throughout ("31,8h5"
+for 31,845), so 524, or a misread 324 against this article's 324 for 1945.
+
+The likeliest reading is that these tables report the **previous** season, which is ordinary enough
+for an annual report published early in a calendar year. **If so, this article's 1940s rows already
+have it right** and the offset is only a trap for the next person who greps a report for a number.
+But nothing in this article says which convention its 1940s figures were entered under, and that
+is worth fixing before anyone adds to them from the same source.
+
+**It is not only bookkeeping.** [[site/camp-thunderbird|Camp Thunderbird]] is known almost entirely
+from these tables, and the offset decides whether its two summers were 1942–43 or 1943–44.^13
+
+What would settle it: the reports' own cover dates and fiscal-year statements. Those have not been
+read — the tables were reached by grep, not by reading the volumes.
+
 ## What the shape of the series shows
 
 Three things stand out and none of them is visible from any single article.
@@ -260,6 +281,7 @@ Three things stand out and none of them is visible from any single article.
 10. YMCA of Montreal annual report for the year ending 30 April 1907, for the 1906 season [src_ymf_sgw_ymca_annual_report_1907]. See [f_4852].
 11. *The High School Magazine* (Montreal, 1916), the Kamp Kanawana advertisement on the first advertising page [src_high_school_magazine_montreal_1916]. **Not lending-restricted**: the full text was downloaded and searched 2026-09-06, and "Kanawana" occurs exactly once in it. Cached, with a caution about the unsigned canoe-trip narrative printed immediately before the advertisements and NOT attributed to Kanawana, at `sources/cache/periodicals/1916-high-school-magazine-montreal-kanawana-advertisement.txt`. See [f_4948].
 12. *The Lookout* Vol. 1 No. 3 (Kanawana Alumni Committee, autumn 1993), "Summer Report" by Bruce Netherwood, Director [src_ia_the_lookout_1993]. See [f_5008].
+13. The YMCA of Montreal annual reports' "Summer Camps" camper tables, 1943-1947 [src_ymf_sgw_ymca_annual_report_1943, src_ymf_sgw_ymca_annual_report_1944, src_ymf_sgw_ymca_annual_report_1945, src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1947]. See [f_5038].
 
 ## Research Notes
 

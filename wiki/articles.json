@@ -5375,17 +5375,19 @@
         "src_concordia_finding_aid_master_pdf",
         "src_ia_camp_perrot_collection",
         "src_ymf_1947_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls",
-        "src_ymf_1948_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls"
+        "src_ymf_1948_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls",
+        "src_ymf_sgw_ymca_annual_report_1944"
       ],
       "open_questions": 1,
       "cross_links": [
         "directors-index",
         "rh-hanagan",
         "canoe-trips",
-        "sources-index"
+        "sources-index",
+        "camp-thunderbird"
       ],
       "file_id": null,
-      "word_count": 2690,
+      "word_count": 2851,
       "notes": "RALPH R1 complete (2026-06-21): 30+ web searches returned zero new facts. Article meets draft criteria (Overview summary, 3 content sections, 3 sources). All remaining open questions require physical Concordia Archives access (P0145/12G). BAnQ newspaper facts (f_1326-f_1339) checked — none mention Camp Perrot. Advanced stub→draft. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header, moved the '12G sub-series' correction and the Batch 7 research-pass summary into a new Research Notes > Revision History section (this article previously had no Research Notes section). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -10058,7 +10060,12 @@
         "src_ymf_sgw_ymca_annual_report_1960",
         "src_ymf_sgw_ymca_annual_report_1961",
         "src_ymf_sgw_ymca_annual_report_1962",
-        "src_ia_the_lookout_1993"
+        "src_ia_the_lookout_1993",
+        "src_ymf_sgw_ymca_annual_report_1943",
+        "src_ymf_sgw_ymca_annual_report_1944",
+        "src_ymf_sgw_ymca_annual_report_1945",
+        "src_ymf_sgw_ymca_annual_report_1946",
+        "src_ymf_sgw_ymca_annual_report_1947"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -10068,10 +10075,11 @@
         "history/postwar-gap",
         "history/coeducation-gender",
         "history/modern-era",
-        "site/camp-otoreke"
+        "site/camp-otoreke",
+        "camp-thunderbird"
       ],
       "file_id": null,
-      "word_count": 4675,
+      "word_count": 4934,
       "notes": "Created 2026-08-14 (p_256) from the 114-annual-report sweep. ~60 seasons of camper counts and camper-weeks, 1894-2023, with SIX internal inconsistencies carried as flags rather than resolved -- every one of them the association contradicting itself. Kept as a separate article so the contradictions travel with the numbers. No aggregate totals computed: too many missing years, the 1998-2001 rows count a different population, and the two documented lifetime totals (40,000 in 1964, 34,000 in 1984) contradict each other. Marked draft, not stub, because it is transcription of primary figures rather than synthesis; NOT yet VERIFY-passed -- figures should be spot-checked against the OCR before advancing."
     },
     {
@@ -11027,7 +11035,74 @@
         ],
         "is_hub": false
       }
+    },
+    {
+      "article_id": "camp-thunderbird",
+      "title": "Camp Thunderbird",
+      "wiki_folder": "site",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-09-06T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-06T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_5035",
+        "f_5036",
+        "f_5037",
+        "f_1366",
+        "f_5038"
+      ],
+      "sources_cited": [
+        "src_ymf_1943_08_15_report_on_camp_thunderbird",
+        "src_ymf_1943_camp_thunderbird_brochure",
+        "src_ymf_sgw_ymca_annual_report_1944",
+        "src_ymf_sgw_ymca_annual_report_1943",
+        "src_ymf_sgw_ymca_annual_report_1945",
+        "src_ymf_sgw_ymca_annual_report_1946",
+        "src_ymf_sgw_ymca_annual_report_1947"
+      ],
+      "open_questions": 5,
+      "cross_links": [
+        "camp-perrot",
+        "camp-otoreke",
+        "directors-index",
+        "coeducation-gender",
+        "attendance-series"
+      ],
+      "file_id": null,
+      "word_count": 1619,
+      "notes": "Spawned 2026-09-06 under p_441 from the first read of the 1943 season report. The camp was previously known to this project only as a Concordia sub-series number.",
+      "tags": {
+        "era": [
+          "1940s"
+        ],
+        "region": "laval",
+        "location_refs": [
+          "riviere des Mille Iles",
+          "Sainte-Rose",
+          "Sainte-Eustache",
+          "Plage Laval"
+        ],
+        "person_type": null,
+        "topics": [
+          "related_camps",
+          "ymca_montreal",
+          "site"
+        ],
+        "is_hub": false
+      }
     }
   ],
-  "article_count": 107
+  "article_count": 108
 }

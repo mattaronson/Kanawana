@@ -1,7 +1,7 @@
 # Camp Perrot
 
-*Status: E1-reviewed | Sources: 11*
-*Last Updated: 2026-07-10*
+*Status: E1-reviewed | Sources: 12*
+*Last Updated: 2026-09-06 (the 1947 and 1948 reports read whole; the Thunderbird question)*
 
 ## Overview
 
@@ -28,6 +28,16 @@ Donald Cochrane's 1959 memo makes the Kanawana comparison explicit in his own wo
 Île Perrot was also a canoe trip destination for Kanawana campers: by 1945, intermediate campers undertook 7–8 day trips to Île Perrot and Grenville.^4 No source states Camp Perrot itself was used as a base or waypoint for these trips — Perrot ran its own independent canoe-tripping program (to Cascade Island, around Perrot Island itself, and later up the Ottawa River to Carillon/Grenville), driven by its own flat, non-wilderness terrain: "due to the lack of wooded areas and the location, canoe trips fill the gap," per the 1953 annual report.^5 The two camps' shared Île-Perrot-area canoe activity therefore appears to be geographic coincidence rather than a shared operation.
 
 A real institutional link is documented, however: the 1954 Camp Perrot Annual Report states "with the addition of another canoe donated by Kamp Kanawana, we were able to keep three canoes out" — direct equipment-sharing between the two camps.^5 A. Ross Seaman (Kanawana director 1959-1967) is thanked in Perrot's 1952 report as "Past Director of Camp Perrot," and per the 1959 Cochrane memo personally planted trees at Perrot "about 1950" — a previously undocumented staff overlap. Margaret Seaman (likely a relation) was Camp Perrot's Girls' Camp Director in 1952. Hedley Dimock appears on Camp Perrot's 1958 committee list.^5 ^6
+
+**What the association said it needed, the year Perrot opened.** The 1944 annual report, reporting
+on a second summer of the association's island experiment in the rivière des Mille Îles: "Camp
+Thunderbird: an experimental near-the-city camp was again operated on a small island in Mille Isles
+River near Plage Laval. **Our experience has proven the need for a permanent camp of this nature,
+which could be used by boys and girls throughout the summer.**"^12 Perrot — permanent, near the
+city, low-cost, for boys and girls — opened that same year, and **A. T. Dodds directed both**,
+Thunderbird in 1943 and Perrot by 1947. *No document found says Perrot succeeded Thunderbird*, and
+none is claimed here; the Perrot founding papers (P0145/12H) or the 1944–45 camp committee minutes
+would settle it. See [[site/camp-thunderbird|Camp Thunderbird]].
 
 ## 1947, in the camp's own report
 
@@ -126,6 +136,7 @@ The earliest known Kanawana-side documentary evidence is a "Comparison of Two Bo
 
 ## Related Articles
 
+- [[site/camp-thunderbird|Camp Thunderbird]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[people/rh-hanagan|R.H. Hanagan]]
 - [[traditions/canoe-trips|Canoe Tripping at Kanawana]]
@@ -147,6 +158,7 @@ The earliest known Kanawana-side documentary evidence is a "Comparison of Two Bo
 9. A. Ross Seaman, Margaret Seaman, and Hedley Dimock cross-referenced from Camp Perrot's own annual reports (sources 5-6) against this KB's existing people index.
 10. "1947 Report of the Montreal YMCA Camp Perrot for Boys & Girls", addressed to the Board of Management and signed by O. N. H. Owens (Chairman) and A. T. Dodds (Camp Director), with the Girls' Camp section signed by Verlie Dodds [src_ymf_1947_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls]. See [f_5032] and [f_5033]. Read whole 2026-09-06 under p_441.
 11. "Suggestions / Recommendations, Camp Perrot 1948" [src_ymf_1948_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls]. **The catalogue files this as a season report and it is not one**: unsigned, no attendance figures, no staff list, a building-by-building list of works wanted before 1949. See [f_5034].
+12. YMCA of Montreal Annual Report, 1944, on Camp Thunderbird [src_ymf_sgw_ymca_annual_report_1944]. See [f_5037] and [[site/camp-thunderbird|Camp Thunderbird]].
 
 ## Research Notes
 
