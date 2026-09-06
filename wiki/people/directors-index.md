@@ -149,7 +149,19 @@ The 1921, 1922, and 1923 camp brochures and the 1923 *Gas Bag* reunion newslette
 
 **1921 season.** Under director G.D. Brandon, the documented staff included H.H. Hart (Camp Doctor), F.H. Spinney (Educational Director), and Harry Smith (Chef).^3
 
-**And three of them are in the YMCA's own North American roster for 1921, with their full names and their day jobs.** The *YMCA Year Book and Official Rosters* is an annual, continent-wide list of every association's paid staff, branch by branch, and this project had never heard of it before 2026-09-06. Its Montreal entry, at **127 Drummond St.** — not the 1441 Drummond of every later directory here — gives:^41
+**And the YMCA's own North American roster names the Montreal staff, year by year, from the founding decade to the 1920s.** The *Year Book and Official Roster* is an annual, continent-wide list of every association's paid staff, branch by branch. **Five volumes of it, 1893 to 1897, have been in this project's cache since 2026-09-05** — read then for their provincial narrative reports and searched for "camp", "tent" and "Ottawa", none of which reaches a staff roster. The rosters were read on 2026-09-06 and give the association that founded Kanawana, staff by staff, through the founding decade:^41
+
+| Volume | General Secretary | Assistants | Physical Director | Asst. Physical Director |
+|---|---|---|---|---|
+| 1893 | D. A. Budge | D. W. Corbett; **T. Duncan Patton** | **W. H. Ball, Jr.** | — |
+| 1894 | D. A. Budge | Percy H. Cushing; **W. F. Chapman** | **W. H. Ball, Jr.** | — |
+| 1895 | D. A. Budge | Percy H. Cushing; **W. F. Chapman** | **W. H. Ball, Jr.** | — |
+| 1896 | D. A. Budge | C. K. Calhoun; **W. F. Chapman** | **W. H. Ball, Jr.** | **C. B. Powter** |
+| 1897 | D. A. Budge | C. K. Calhoun; **W. F. Chapman** | **W. H. Ball, Jr.** | **C. B. Powter** |
+
+Three things in that table are new here. **"W. H. Ball, Jr."** — the *Jr.* is printed in all five volumes and this project has never had it; the camp's founder had a father of the same name. **W. F. Chapman** was the association's Assistant Secretary for four consecutive years before he supervised the 1898 junior camp, which is all this project knew of him. And **C. B. Powter** appears as **Assistant Physical Director under Ball** in the 1896 volume, which completes a career assembled from four sources in one day: assistant to the camp's founder by 1896, in charge of the Y's senior camp in 1898, founder of his own camp on the same lake in 1902, and a physical-training master in a Montreal high school by 1908-09.
+
+The same series' 1921 volume gives the staff a generation later. Its Montreal entry, at **127 Drummond St.** — not the 1441 Drummond of every later directory here — gives:^41
 
 > "**Industrial, John G. MacKinnon** … **Community, Grant D. Brandon** … *Central Br.:* … Physical, Merwin F. Furey. **Asst. Physical, Hay Finlay**; O. S. McCutcheon; W. C. White. Boys, R. E. G. Davis … **Consulting, D. A. Budge**"
 
@@ -393,7 +405,7 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 
 40. Commercial and Technical High School (Montreal), *Prospectus for Session 1908-1909* [src_commercial_technical_high_school_prospectus_1908], and the guide-souvenir of the *Exposition pour le bien-être des enfants*, Manège Militaire, Montréal, October 1912 [src_exposition_bien_etre_enfants_1912]. **Neither is lending-restricted**: both djvu texts were downloaded whole and searched 2026-09-06, and "Kanawana" occurs in neither. The staff and committee lists, with what they do and do not establish, are cached at `sources/cache/periodicals/1908-1912-cb-powter-montreal-schoolmaster.txt`. See [f_4960], [f_4961].
 
-41. *YMCA Year Book and Official Rosters* (New York: Association Press, 1921) [src_ymca_year_book_official_rosters_1921]. **Not lending-restricted**: the full djvu text was downloaded and searched 2026-09-06. "Kanawana", "summer camp" and "boys' camp" occur in it zero times — it rosters associations and their paid staff, not their programmes. The complete Quebec section, the employed-officers legend and the relevant index lines are cached at `sources/cache/ymca-yearbooks/1921-ymca-year-book-official-rosters-montreal.txt`. See [f_4964], [f_4965].
+41. *Year Book and Official Roster of the Young Men's Christian Associations of North America*, the volumes for 1893, 1894, 1895, 1896 and 1897 [src_ymca_yearbook_1893, src_ymca_yearbook_1894, src_ymca_yearbook_1895, src_ymca_yearbook_1896, src_ymca_yearbook_1897] — cached in this repo since 2026-09-05, their *Paid Officers* section read 2026-09-06; see [f_4966] — and *YMCA Year Book and Official Rosters* (New York: Association Press, 1921) [src_ymca_year_book_official_rosters_1921]. **Not lending-restricted**: the full djvu text was downloaded and searched 2026-09-06. "Kanawana", "summer camp" and "boys' camp" occur in it zero times — it rosters associations and their paid staff, not their programmes. The complete Quebec section, the employed-officers legend and the relevant index lines are cached at `sources/cache/ymca-yearbooks/1921-ymca-year-book-official-rosters-montreal.txt`. See [f_4964], [f_4965].
 
 ## Research Notes
 

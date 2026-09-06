@@ -5,10 +5,23 @@ New York: Association Press. Internet Archive: ymcayearbookoffi00youn
 
 NOT LENDING-RESTRICTED. The complete djvu text (1,826,321 bytes) was downloaded and searched.
 
-THIS SERIES WAS UNKNOWN TO THIS PROJECT BEFORE 2026-09-06. It is an ANNUAL North American roster of
-every YMCA association, branch by branch, with every paid officer named and titled — plus an
-alphabetical index of employed officers giving each man's post AND HIS YEAR OF ENTRY INTO
-ASSOCIATION WORK. It was found by running "Harold C. Cross" in the p_430 name sweep.
+IT IS AN ANNUAL North American roster of every YMCA association, branch by branch, with every paid
+officer named and titled — plus an alphabetical index of employed officers giving each man's post AND
+HIS YEAR OF ENTRY INTO ASSOCIATION WORK. This volume was found by running "Harold C. Cross" in the
+p_430 name sweep.
+
+[CORRECTED 2026-09-06, within the hour. This file first said "THIS SERIES WAS UNKNOWN TO THIS
+PROJECT BEFORE 2026-09-06". IT WAS NOT. Five volumes of the same series — 1893, 1894, 1895, 1896,
+1897 — were downloaded and cached in this repo on 2026-09-05 under p_405, sitting in this very
+directory as ymca_yearbook_189N_djvu.txt, all marked read_state: read. The claim was written without
+running the one grep that rule 2 exists to require.
+
+WHAT IS ACTUALLY TRUE IS WORSE AND MORE USEFUL. Those five volumes were read for their PROVINCIAL
+NARRATIVE REPORTS, and searched for "camp", "tent" and "Ottawa". None of those strings reaches a line
+that reads "Phys. Director, W. H. Ball, Jr." So the founding-era staff of the association that
+founded the camp sat in this project's own cache for a day, in files marked read. **A source marked
+READ is read FOR SOMETHING**, and the next question is not covered by the last one's search terms.
+The 1893-97 rosters are now read and recorded at f_4966.]
 
 FIRST, THE NULL, BECAUSE IT MATTERS FOR HOW THE SERIES IS USED:
   "Kanawana" occurs ZERO times in the volume.
@@ -146,5 +159,22 @@ and his year of entry. For a project whose hardest problem is that its camp dire
 a brochure, that is the single most useful reference series found so far — better than the camping
 literature, because the camping literature starts in 1936 and this does not.
 
-The obvious next step is to enumerate the other volumes on the Internet Archive and sweep the
-Montreal roster year by year from the 1890s to the 1950s. Tracked as p_433.
+THE SERIES IS ENUMERATED. The Internet Archive's scrape API
+(`services/search/v1/scrape?q=identifier:ymcayearbook*`) returns NINETEEN items:
+
+  ymcayearbookof1891younuoft   ymcayearbookof1895younuoft   ymcayearbookof1907younuoft
+  ymcayearbookof1892younuoft   ymcayearbookof1896younuoft   ymcayearbookof1908younuoft
+  ymcayearbookof1893younuoft   ymcayearbookof1897younuoft   ymcayearbookoffi00youn  (1921)
+  ymcayearbookof1894younuoft   ymcayearbookof1906younuoft   ymcayearbookoffi01youn  (1922)
+  ymcayearbookand00amergoog (1907)   ymcayearbookand00assogoog (1896)
+  ymcayearbookand01amergoog (1882)   ymcayearbookand01assogoog (1921)
+  ymcayearbookand02amergoog (1886)   ymcayearbookand02assogoog (1891)
+  ymcayearbookoffi0000unse  (1936, the only one that may be restricted)
+
+THE CATALOGUE'S `year` FIELD IS WRONG FOR THE younuoft SCANS — it gives 1890 for all ten. The year
+is in the identifier and should be confirmed from inside the volume; the 1894 one carries a Redpath
+Lyceum advertisement for "the Season of 1894-95" and an insurance statement dated 31 December 1893.
+
+Five volumes (1893-97) are ALREADY IN THIS REPO and their rosters are now read (f_4966). The
+remaining unread years are **1891, 1892, 1906, 1907, 1908, 1922** and the four Google scans, plus
+1936. Tracked as p_433.

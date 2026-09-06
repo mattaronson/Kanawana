@@ -5318,3 +5318,52 @@ the university lineage and the camp lineage were separate narratives, written by
 one produced biographies, nulls and one archival lead. The twenty-fourth produced an annual
 reference series covering sixty years, and the only reason it surfaced is that somebody typed a name
 into a full-text index instead of reasoning about where the answer ought to be.
+
+---
+
+## Correction — the series was not unknown, and the truth is worse (2026-09-06)
+
+An hour ago this log said the *YMCA Year Book and Official Rosters* was a series "this project had
+never heard of". That went into two facts, a priority, a cache file, an article, a commit message and
+this log. **It was wrong.** Five volumes of the same series — 1893, 1894, 1895, 1896, 1897 — were
+downloaded and cached in this repo on **2026-09-05**, under p_405, as
+`sources/cache/ymca-yearbooks/ymca_yearbook_189N_djvu.txt`, all marked `read_state: read`. They are
+in the same directory the new cache file was written to.
+
+The claim was written without running the one grep rule 2 exists to require. Every place it reached
+is corrected in place and visibly.
+
+**And the true version is more useful than the false one.** Those volumes were read *for their
+provincial narrative reports*, and the basis line says the whole volume was searched for "camp",
+"tent" and "Ottawa". **None of those strings reaches a line that reads "Phys. Director, W. H. Ball,
+Jr."** So the roster went unread, in a file marked read, in this project's own cache, for a day.
+
+Reading it takes about a minute and gives the founding-era staff of the association that founded the
+camp, year by year:
+
+| Volume | General Secretary | Assistants | Physical Director | Asst. Physical Director |
+|---|---|---|---|---|
+| 1893 | D. A. Budge | D. W. Corbett; T. Duncan Patton | **W. H. Ball, Jr.** | — |
+| 1894 | D. A. Budge | Percy H. Cushing; W. F. Chapman | **W. H. Ball, Jr.** | — |
+| 1895 | D. A. Budge | Percy H. Cushing; W. F. Chapman | **W. H. Ball, Jr.** | — |
+| 1896 | D. A. Budge | C. K. Calhoun; W. F. Chapman | **W. H. Ball, Jr.** | **C. B. Powter** |
+| 1897 | D. A. Budge | C. K. Calhoun; W. F. Chapman | **W. H. Ball, Jr.** | **C. B. Powter** |
+
+**"W. H. Ball, Jr."** in all five. The camp's founder had a father of the same name, and
+`billy-ball.md`'s Open Question 4 has been asking for exactly that sort of family detail since
+February. **W. F. Chapman** was the association's Assistant Secretary for four years before he
+supervised the 1898 junior camp, which is all this project knew of him. And **C. B. Powter** is
+Ball's Assistant Physical Director from the 1896 volume — which closes a career assembled from four
+separate sources in a single day: assistant to the camp's founder by 1896, in charge of the Y's
+senior camp in 1898, founder of his own camp on the same lake in 1902, physical-training master at a
+Montreal high school by 1908-09. **f_4966.**
+
+**The lesson, and it is the twenty-first rule.** *A source marked READ is read FOR SOMETHING.*
+`read_state: read` is an honest flag and this project's basis lines are unusually good — the 1893-97
+records say in plain words which sections were read and which three strings were searched. What no
+flag can record is the question that had not been asked yet. The next question is not covered by the
+last one's search terms, and a cache of read files is not a cache of exhausted files.
+
+The practical form: **before searching the world for a name, grep the cache for it.** Sixteen of the
+twenty-four names swept so far returned nothing from a corpus of millions of books. At least one of
+them was sitting in this repo.

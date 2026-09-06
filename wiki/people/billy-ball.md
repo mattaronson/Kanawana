@@ -1,7 +1,7 @@
 # Billy Ball
 
-*Status: E1-reviewed | Sources: 14*
-*Last Updated: 2026-09-06 (W. H. Ball named in charge of the 1898 senior camp, from the 1899 report)*
+*Status: E1-reviewed | Sources: 15*
+*Last Updated: 2026-09-06 (he was W. H. Ball, **Junior**, in five consecutive YMCA rosters)*
 
 ## Summary
 
@@ -12,6 +12,8 @@ Despite his founding role, Ball remained, until 2026-07-09, one of the most unde
 **Two further findings, 2026-08-14, close most of what was left open.** The association credited Ball with the founding *in its own words*, in his obituary notice: the 1955 Annual Report records that "W.H. Ball, the first Physical Director of the YMCA of Montreal, passed away during 1955. He is endeared and remembered by members of our Association through his work in **establishing the first Canadian camps for boys**, and his part in founding the Dominion Square YMCA Building."^11 That is the Montreal YMCA's own memorial notice, and it also confirms the 1955 death year from a Montreal source rather than a Springfield one. And his role is now documented as more than trip-leading: the 1951 "Kamp Kanawana History" records that in the fall of 1892 "a Committee of Messrs. J. W. Ross, W. E. Cushing, W. W. Wilson, T. Duncan Patton and **W. H. Ball**, was appointed" to plan the camp.^12 Ball was one of five founding committee members, appointed two years before the first season.
 
 What remains genuinely unconfirmed is narrower than before: the informal "Billy" nickname appears in no period document located so far.
+
+**He signed himself Junior, and the YMCA's own roster printed it five years running.** The *Year Book and Official Roster of the YMCAs of North America* lists, under Quebec / Montreal, in every volume from **1893 through 1897**: "Phys. Director, **W. H. Ball, Jr.**"^15 This article has never carried the *Jr.* It means his father bore the same name, which is the first genealogical handle anyone has had for him — Open Question 4 below has been asking for exactly this kind of Montreal-era family detail since February. The same rosters put him alongside **W. F. Chapman** (Assistant Secretary, 1894-97) and, from the 1896 volume, **C. B. Powter** as his Assistant Physical Director; both men would be running Kanawana's camps by 1898.
 
 **And he was still running the camp in 1898.** The Permanent Camp Committee's report, printed in the association's annual report for the year ending 30 April 1899, says of that season: "**The camp was under the charge of the following: Messrs. A. MacKellar, C. B. Powter, A. R. Ross, and W. H. Ball.**"^14 That is the first period document to put Ball at the camp in a named leadership capacity in any year — including 1894, where the founding is credited to him by the association's own later account but no contemporary document names him on the trip. It also shows the camp was run by **four men rather than one** four years in, which is the shape the 1900 report describes and not the shape a single founding "director" implies.
 
@@ -48,7 +50,7 @@ Two caveats prevent full closure. First, no period document found uses the nickn
 1. ~~[Critical] What was Billy Ball's full name? Only referenced as "Billy" Ball.~~ [Largely resolved] Strongly corroborated as William Henry Ball, though no period document uses the "Billy" nickname itself.
 2. ~~[Critical] What was his role within the YMCA of Montreal? (Staff? Volunteer? Boys' Work Secretary?)~~ [Resolved] Physical Director, paid staff, September 1891 – 1901/1902, per the Montreal YMCA's own Annual Reports.
 3. ~~[Important] What years did he lead the camp? Only 1894 confirmed.~~ [Largely resolved, **and advanced 2026-09-06**] His documented Montreal tenure (1891-1901/1902) spans and brackets the 1894 founding, but no document states he personally led that specific 1894 trip (see caveats above) — distinct from confirming his general tenure. **A second year is now documented from a period source:** the Permanent Camp Committee's report for the 1898 season names "W. H. Ball" among the four men in charge of the senior camp.^14 That is the only year in which a contemporary document places him at the camp by name.
-4. [Important] Birth/death dates beyond the William Henry Ball hypothesis (b. 1866?, d. Dec 17, 1955) — an exact birth date and Montreal-era biographical detail (residence, family) has not been found.
+4. [Important, **advanced 2026-09-06**] Birth/death dates beyond the William Henry Ball hypothesis (b. 1866?, d. Dec 17, 1955) — an exact birth date and Montreal-era biographical detail (residence, family) has not been found.
 5. ~~[Important] Is the 1910 YMCA swimming instructor William Henry Ball (Springfield College 1891, died 1955) the same person?~~ [Strongly corroborated, not fully proven] Three independent sources (two Montreal YMCA Annual Reports, one non-YMCA city directory) converge on matching, unusual, specific details. The Springfield College finding aid (MS 527) remains JS-rendered and inaccessible to automated fetch; a direct archive contact (jmonseau@springfield.edu, 413-748-3315) is the remaining path to full proof.
 6. [Nice-to-have] Is there a connection to the Ball family in Montreal business or YMCA circles? Other unrelated Balls found in the 1893-94 Montreal directory (James H. Ball, joiner; W. E. Ball, accountant; Marion Ball, institutional superintendent) show no evidence of a connection.
 7. [Nice-to-have] Concordia Archives sub-series 12L (Camp Jubilee) and the 1895 Summer Camp journal may contain earliest records.
@@ -78,6 +80,7 @@ Two caveats prevent full closure. First, no period document found uses the nickn
 13. "Brief Autobiographical Sketch of Association Career," August 1919 — first-person memoir by an unnamed member of the founding syndicate, identifiable from internal evidence as the man who became the third General Secretary of the Winnipeg YMCA in June 1894 [src_ia_autobiographical_sketch_1919].
 
 14. YMCA of Montreal, annual report for the year ending 30 April 1899, the Permanent Camp Committee's report [src_ia_ymca_montreal_annual_reports_collection]. Read from the page images 2026-09-05. See [f_4908], [f_4911], [f_4913].
+15. *Year Book and Official Roster of the Young Men's Christian Associations of North America*, the volumes for 1893, 1894, 1895, 1896 and 1897 [src_ymca_yearbook_1893, src_ymca_yearbook_1894, src_ymca_yearbook_1895, src_ymca_yearbook_1896, src_ymca_yearbook_1897]. Cached in this repo since 2026-09-05; their *Paid Officers* section — "Secretaries, etc., of Local Associations", Quebec — was read on 2026-09-06. See [f_4966].
 
 ## Research Notes
 
