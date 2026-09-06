@@ -1,8 +1,8 @@
 {
-  "version": "8.67",
-  "kb_version": "8.67",
+  "version": "8.68",
+  "kb_version": "8.68",
   "migrated_from": "3.3",
-  "fact_count": 5192,
+  "fact_count": 5193,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93610,6 +93610,23 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.67",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5231",
+      "category": "method",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Canadian Camping",
+        "Kamp Kanawana"
+      ],
+      "claim": "THE CANADIAN CAMPING RUN IS VERIFIED EXHAUSTED ON THE CAMP'S OWN NAME, AND THE COUNT IS SMALL ENOUGH TO STATE. 'Kanawana' occurs SIXTEEN times in the whole cached run, across eleven issues: vol 1 no 3 (June 1949), vol 2 no 3 (June 1950), vol 4 no 2 (April 1952), vol 5 no 3 (June 1953) x2, vol 5 no 4 (December 1953), vol 15 no 1 (December 1962), vol 19 no 4 (June 1967) x2, vol 27 no 2 (January 1975) x3, vol 28 no 2 (January 1976) x2, vol 35 no 2 (Summer 1983), vol 39 no 3 (Winter 1988). EVERY ONE WAS CHECKED AGAINST THE KB AND ALL ARE ALREADY RECORDED, including the two that looked most likely to have been passed over -- the 1983 public thanks to 'Peter Goddard and the staff of Kamp Kanawana in Montreal for accepting the tremendous task of mailing to every camp' 6,500 National Camping Day posters, and the CCA directory entries of 1975 and 1976 with their 'KANAWANA (1894)' founding year, Derek V. Walsh, and P.O. Box 310. A FUZZY SEARCH FOR OCR VARIANTS WAS RUN AND FOUND NONE: the pattern K[a-z]{0,2}n[a-z]{0,2}w[a-z]{0,3}n[a-z] across the run returns only 'knowing', 'knowns' and clean spellings of Kanawana, so no mention is hiding behind a scanning error. DO NOT RE-SWEEP THIS RUN FOR THE CAMP'S NAME. It is still worth sweeping for other things: f_5230 found a passage on Indigenous camp staff that the word-for-word read had recorded the surrounding article without.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.68",
       "added_by": "ralph_loop"
     }
   ]
