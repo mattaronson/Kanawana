@@ -1,7 +1,7 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 26*
-*Last Updated: 2026-09-06*
+*Status: E1-reviewed | Sources: 27*
+*Last Updated: 2026-09-06 (a published 2016 history that identifies this camp with Kanawana)*
 
 ## Overview
 
@@ -360,6 +360,29 @@ Camp Otoreke remained connected to Kanawana as an outpost and trip destination t
 - In 1935, a four-day trip to Otoreke was made from Kanawana.^10
 - Otoreke was a regular canoe trip destination from Kanawana.^10
 
+### A published history says this camp *is* Kanawana, and a reader will meet that before they meet this
+
+*Le Québec en plein air* (Québec Amérique, 2016), a general history of Quebec outdoor recreation by Paul
+Larue and Pierre Bélec, describes the YMCA's first Laurentian camp and then says: "**Connu longtemps sous
+le nom d'Otoreke, ce camp existe toujours: c'est maintenant le camp Kanawana.**"^27
+
+**It is right about the institution and wrong about the site.** The camping enterprise that began on
+these islands does continue as Kanawana. But Kanawana is at Saint-Sauveur and Mille-Isles, about thirty
+kilometres away, and the sentence as written says the island site is now Kanawana. It also erases
+seventy-two years: the main boys' camp moved to the Kanawana site in 1910, and **Otoreke went on
+operating at Lac Saint-Joseph until 1982** — through the ski lodge years, the adult and family camp, and
+everything else in this article. A reader of that book would conclude that Otoreke closed in 1910 and
+that Kanawana stands on the islands, and both are false.
+
+This is recorded here rather than ignored because *Le Québec en plein air* is a mainstream Quebec press
+title and is the kind of book a researcher reaches first. The correction should travel with the sentence.
+
+*One thing from the same page worth checking rather than correcting.* Larue and Bélec date **Camp
+Nominingue to 1911** and call it "le premier camp francophone", while the Quebec Camping Association's
+own 1974-75 directory gives Nominingue's founding as **1925** (see
+[[connections/related-camps/quebec-camp-landscape|The Quebec Camp Landscape]]). The two may be measuring
+different things — a site occupied against a camp incorporated — and neither is preferred here.
+
 ## Regional Camping Context
 
 Camp Otoreke was not the only organized camp in the Saint-Adolphe-d'Howard area. In 1926, Msgr. McShane founded Camp Kinkora on 3 km² of private land nearby for Irish Catholic youth from Montreal — establishing a Catholic counterpart to the YMCA's Protestant camping operation.^12 The Pripstein family also operated a Jewish camp in the vicinity, making Saint-Adolphe-d'Howard a rare intersection of Montreal's three major confessional camping traditions.^12 The area's appeal for camping was reinforced by its accessibility: the municipality was approximately 11 km from the train station in Sainte-Agathe-des-Monts, which had been served by the Canadian Pacific Railway since 1892.^13
@@ -419,6 +442,7 @@ Camp Otoreke closed in 1982 after nearly 90 years of continuous operation.^1 The
 24. The same report's **Permanent Camp Committee** narrative (leaf 32 of the Internet Archive scan) [src_ia_ymca_montreal_annual_reports_collection]. The Log Club house, the senior and junior seasons, the length-of-stay breakdown and the men in charge. Read 2026-09-06. See [f_4911], [f_4912], [f_4913]. *This passage is in the cached OCR text and has been since the file was ingested; it had not been read.*
 25. YMCA of Montreal, **Annual Report for the year ending 30 April 1902**, section "SUMMER CAMP, ST. AGATHE" [src_ia_ymca_montreal_annual_reports_collection]. The island auction of 26 November 1901, the kitchen and ice-house, and the season's finances. Read 2026-09-06. See [f_4915], [f_4916]; and `c_008` for the island count.
 26. YMCA of Montreal, ***Men of Montreal*: Fifty-Third Annual Report and Summer Camp Number, 1904** [src_ia_ymca_montreal_annual_reports_collection] — the cover halftone and the senior-camp description, pp. 1-3. Read 2026-09-06. See [f_4918], [f_4919], [f_4920], [f_4921]. The cover image is filed at `assets/images/documents/1904-camp-club-house-lake-st-joseph.jpg`, the whole cover beside it.
+27. Paul Larue and Pierre Bélec, *Le Québec en plein air* (Montréal: Québec Amérique, 2016), Internet Archive scan leaf 310 [src_larue_belec_quebec_plein_air_2016]. **One passage plus two stray sentences**, reconstructed 2026-09-06 from eight overlapping Open Library search-inside queries; the book is lending-restricted and has not been read, and the printed page number is unknown. The reconstruction, the queries, and a statement of what is wrong with the passage are cached at `sources/cache/openlibrary-search-inside/2026-09-06-larue-belec-quebec-en-plein-air.txt`. See [f_4939].
 
 ## Research Notes
 

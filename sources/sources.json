@@ -29053,7 +29053,25 @@
       "read_state": "partial",
       "read_state_basis": "ONE PASSAGE ONLY, reconstructed from seven overlapping Open Library search-inside windows 2026-09-06. Scan leaf 190; printed page unknown. The book's own index carries 'Camp Kanawana, 87', so the printed page is 87. The book is lending-restricted and has not been read.",
       "notes": "The only source in this project that puts diabetic children at Camp Kanawana. Undated within Kutz's adult life in Montreal. See f_4938."
+    },
+    {
+      "source_id": "src_larue_belec_quebec_plein_air_2016",
+      "type": "web",
+      "title": "Paul Larue and Pierre Bélec, Le Québec en plein air (Québec Amérique, 2016) — the passage on the YMCA's first Laurentian camp",
+      "date": "2016",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/lequbecenpleinai0000laru",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-larue-belec-quebec-en-plein-air.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.74",
+      "reliability": "tertiary",
+      "read_state": "partial",
+      "read_state_basis": "ONE PASSAGE plus two stray sentences, reconstructed from eight overlapping Open Library search-inside windows 2026-09-06. Scan leaf 310; printed page unknown. The book is lending-restricted and has not been read.",
+      "notes": "A popular history from a mainstream Quebec press. Its sentence 'Connu longtemps sous le nom d'Otoreke, ce camp existe toujours: c'est maintenant le camp Kanawana' is right about the institution and wrong about the site, and erases Camp Otoreke's 1910-1982 life at Lac Saint-Joseph. Recorded so the correction travels with it. Also gives 1911 for Camp Nominingue as the first francophone camp, against the QCA directory's 1925. See f_4939."
     }
   ],
-  "source_count": 1614
+  "source_count": 1615
 }

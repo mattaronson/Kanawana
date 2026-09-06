@@ -1,8 +1,8 @@
 {
-  "version": "6.73",
-  "kb_version": "6.73",
+  "version": "6.74",
+  "kb_version": "6.74",
   "migrated_from": "3.3",
-  "fact_count": 4900,
+  "fact_count": 4901,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88018,6 +88018,25 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.73",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4939",
+      "category": "site",
+      "date_ref": "2016",
+      "entities": [
+        "Camp Otoreke",
+        "Kamp Kanawana",
+        "Camp Nominingue",
+        "Saint-Adolphe-d'Howard"
+      ],
+      "claim": "A PUBLISHED 2016 HISTORY IDENTIFIES OTOREKE WITH KANAWANA, AND A LATER RESEARCHER WILL FIND IT. Paul Larue and Pierre Belec, Le Quebec en plein air (Quebec Amerique, 2016), Internet Archive scan leaf 310, on the YMCA's first Laurentian camp: \"...travaillent a l'installation de ce premier camp, sur l'une des trois iles. CONNU LONGTEMPS SOUS LE NOM D'OTOREKE, CE CAMP EXISTE TOUJOURS: C'EST MAINTENANT LE CAMP KANAWANA. En 1911, le Camp Nominingue, le premier camp francophone, s'installe sur la rive de ce grand lac des Laurentides. L'annee suivante...\" The same book elsewhere places \"le camp Otoreke a Saint-Adolphe-d'Howard, au nord de Montreal\" and mentions children's \"premier voyage en train pour aller au camp Otoreke\". Reconstructed 2026-09-06 from eight overlapping Open Library search-inside queries; the book is lending-restricted and has not been read. WHAT IT GETS RIGHT: the first camp was on one of three islands, at Saint-Adolphe-d'Howard, and the institution that began there does continue as Kanawana. WHAT IT COMPRESSES INTO AN ERROR: Kanawana is at Saint-Sauveur and Mille-Isles, thirty kilometres from Saint-Adolphe-d'Howard, and the sentence as written says the ISLAND SITE is now Kanawana. It also erases Camp Otoreke's own life: the main boys' camp moved to the Kanawana site in 1910 and Otoreke went on operating at Lac Saint-Joseph for more than seventy years afterwards, as an adult and family camp, until 1982. A reader of this book would conclude that Otoreke closed in 1910 and that Kanawana stands on the islands. Both are false. RECORDED HERE SO THE NEXT PERSON WHO FINDS THIS BOOK -- and it is a mainstream Quebec press title, so someone will -- meets the correction beside it. SEPARATELY, A DATE WORTH CHECKING: the book gives 1911 for Camp Nominingue as \"le premier camp francophone\", while the Quebec Camping Association's own 1975 directory lists Nominingue's founding as 1925. The two may be measuring different things -- a site occupied against a camp incorporated -- and neither is preferred here.",
+      "sources": [
+        "src_larue_belec_quebec_plein_air_2016"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.74",
       "added_by": "ralph_loop"
     }
   ]

@@ -61,6 +61,8 @@ directory itself prints:
 | 1922 | Ouareau |
 | 1924 | Oasis Notre-Dame |
 | 1925 | Nominingue · Santé Bruchési |
+
+*(A query against that table, added 2026-09-06: Larue and Bélec's *Le Québec en plein air* (2016) dates **Camp Nominingue to 1911** and calls it the first francophone camp, fourteen years earlier than the association's own directory has it here. The two may be measuring different things — a site occupied against a camp incorporated — and neither is preferred. Recorded at [f_4939] and at [[site/camp-otoreke|Camp Otoreke]], where the same page of that book makes a claim about Kanawana that is wrong.)*
 | 1926 | Wa-Thik-Ane · Kinkora · Ste-Jeanne d'Arc |
 
 **What that is and is not.** It is the association's own compilation of what its Quebec member camps
