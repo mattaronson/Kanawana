@@ -1,8 +1,8 @@
 {
-  "version": "6.62",
-  "kb_version": "6.62",
+  "version": "6.63",
+  "kb_version": "6.63",
   "migrated_from": "3.3",
-  "fact_count": 4883,
+  "fact_count": 4885,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87694,6 +87694,42 @@
         "f_1502"
       ],
       "added_version": "6.62",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4922",
+      "claim": "A PLATE SWEEP ACROSS FOURTEEN PRE-1911 ANNUAL REPORTS: TWO CAMP PHOTOGRAPHS EXIST AND THE REST ARE CITY WORK. Method, run 2026-09-06: download each item's _djvu.xml, count the <WORD> elements per <OBJECT> page, and inspect the sparsest pages -- this finds plates whose captions the OCR mangled or set inside the photograph, which a caption-text search (f_4917) cannot. Volumes swept: 1894-95, 1895-96, 1896-97, 1897-98, 1899, 1900, 1902, 1903, 1904, 1905, 1906, 1907, 1908, 1909, 1910. TWO CAMP PLATES, BOTH NOW RECOVERED: the 1899 \"THE ASSOCIATION SUMMER CAMP, LAKE ST. JOSEPH\" (f_4914) and the 1904 cover \"CAMP CLUB HOUSE, LAKE ST. JOSEPH\" (f_4918). WHAT ELSE THE SWEEP FOUND: the 1903 report is illustrated with PHOTO-MONTAGE PLATES whose captions are printed INSIDE the photographs, so no text search can see them -- leaf 33 carries \"TYPEWRITING CLASS\", \"DEBATING SOCIETY GROUP\" and \"MECHANICAL DRAWING CLASS\", leaf 44 carries \"BOYS MEETING POINT ST. CHARLES BRANCH\", \"BOYS MEETING NORTH EAST BRANCH\" and \"BOYS MEETING CENTRAL BUILDING\"; leaf 37 was fetched and NOT read. The 1906 report is heavily illustrated but its captions ARE in the OCR and are all city work (\"The Teaching Staff\", \"Class in Mechanical Drawing\", \"Class in Electricity\", \"Snowshoe Club\"). The 1908 report has plates whose captions the OCR read UPSIDE DOWN (\"ONIGTING TVALNAD 'WOON TVIDOS\" is SOCIAL ROOM, CENTRAL BUILDING). 1907 and 1909 have no sparse pages at all.",
+      "sources": [
+        "src_ia_ymca_montreal_annual_reports_collection"
+      ],
+      "confidence": "stated",
+      "category": "sources_and_archives",
+      "entities": [
+        "YMCA of Montreal",
+        "annual reports",
+        "Camp Jubilee"
+      ],
+      "date_ref": "2026-09-06",
+      "conflicts_with": [],
+      "added_version": "6.63",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4923",
+      "claim": "THE WORD-COUNT PLATE DETECTOR HAS TWO FAILURE MODES AND BOTH BIT ON THE SAME DAY. Ranking djvu pages by word count finds pages with little OCR text, which is not the same as finding pictures. (1) BLANK PAGES SCORE THE SAME AS PLATES. Leaf 20 of the 1894-95 report, leaf 8 of 1902 and leaf 12 of 1906 all looked like full-page plates in the djvu -- a few words of OCR noise each -- and all three are BLANK VERSOS whose \"text\" is show-through from the facing page. Fetching the page image and measuring it settles it in one step: a blank leaf reads mean brightness about 237 with a standard deviation under 4 and no dark pixels, while a halftone plate reads mean about 158 with a standard deviation near 70 and about forty per cent of pixels dark. MEASURE BEFORE YOU LOOK. (2) A PLATE CAN CARRY NO OCR AT ALL and still be a real page, as the 1903 montages are: their captions are set inside the photographs, so the djvu word count is near zero for a page that is entirely picture. The two modes are opposite and the same number describes both.",
+      "sources": [
+        "src_ia_ymca_montreal_annual_reports_collection"
+      ],
+      "confidence": "stated",
+      "category": "sources_and_archives",
+      "entities": [
+        "YMCA of Montreal",
+        "annual reports",
+        "Internet Archive"
+      ],
+      "date_ref": "2026-09-06",
+      "conflicts_with": [],
+      "added_version": "6.63",
       "added_by": "ralph_loop"
     }
   ]
