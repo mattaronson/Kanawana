@@ -1,6 +1,6 @@
 # The Quebec Camping Landscape
 
-*Status: E1-reviewed | Sources: 27*
+*Status: E1-reviewed | Sources: 28*
 *Last Updated: 2026-09-06*
 
 ## Overview
@@ -123,6 +123,27 @@ and seven of them appear nowhere else in this project:^27
 | **Village-des-Jeunes** | Saint-Côme | 1986-06-12 | |
 | **Colonie de Granby** | Clarenceville | 1983-09-01 | |
 | **Camp Glen Emma** | Routhierville | 1989-02-07 | Gaspé, far outside the usual band |
+
+**Two of the seven have origin notes, and both are Catholic orders' camps three kilometres from
+Kanawana.**^28 The Commission on **Camp de l'Avenir**: "Ce camp de vacances, situé sur la rive sud du
+**lac Ouimet**, fut fondé en **1964** par les **clercs de Saint-Viateur**" — a dated founding, a named
+order and a named lake, in three lines, for a camp this project had never heard of. And on **Camp
+Olier**: "Son nom rappelle le souvenir de **Jean-Jacques Olier**" (Paris, 1608–1657), founder of the
+Compagnie des prêtres de Saint-Sulpice and, with Jérôme Le Royer de La Dauversière and Pierre Chevrier,
+of the Société de Notre-Dame de Montréal — the society that founded Ville-Marie. The camp three
+kilometres from the YMCA's is named for one of the founders of Montreal.
+
+**That is the same confessional density this wiki already describes twenty kilometres north**, at
+Saint-Adolphe-d'Howard, where a Catholic camp and a Jewish camp sat beside the YMCA's Otoreke — except
+that it is on Kanawana's own doorstep, and nobody here had noticed. See
+[[site/camp-otoreke|Camp Otoreke]].
+
+**Camp Hiawatha, Old Brewery Mission, Camp Marian and Camp Aurelda all say "origin not determined."**^28
+Their fiches carry the identical sentence the Commission gives for Lac Kanawana and Camp Kanawana
+themselves. Hiawatha is the interesting one: the dataset records its origine linguistique as **Mohawk**
+while the fiche disclaims knowing where the name came from — the same split found for Kanawana's own
+Algonquin classification. Twenty kilometres apart, two Laurentian camps carry names of that kind and the
+province can account for neither.
 
 Alongside them the register carries camps this wiki already follows — Kanawana, Kinkora, Ouareau,
 Nominingue, Quatre-Saisons, Sainte-Jeanne-d'Arc, Bosco, Marian, Gatineau — and one institutional
@@ -247,6 +268,7 @@ Several patterns emerge from the Quebec and Canadian camp landscape:
 25. "Y.M.-Y.W.C.A. Camp Stephens," by Grant Platts, Scott McGregor and Juliane Schaible, p. 21, and "What's In A Name? Camp Stephens," p. 27, *Canadian Camping Magazine* Vol. 39 No. 1 (Summer 1987); with Kelley Byrne, "A Tribute to the Oldest Camp in Canada! Big Cove YMCA Camp," *Canadian Camping Magazine* Vol. 38 No. 3 (Winter 1987), p. 8 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issues 160 and 162).
 26. *Canadian Camping* Vol. 27 No. 2 (January 1975), the Canadian Camping Association Directory Issue, Quebec section [src_ia_canadian_camping_collection]. Kanawana's entry and the 64 Quebec member camps with their printed founding years, extracted 2026-09-05. See [f_4866], [f_4867], [f_4868].
 27. Commission de toponymie du Québec, *Toponymes officiels*, entity class **Camp**, swept province-wide 2026-09-06 [src_donneesquebec_bnlq_2026]. All 87 entries read. See [f_4893], and [f_4891] for the Kanawana district. The register records a place name, not an institution: it says nothing about who ran a camp, when it opened, or whether it is still running.
+28. Commission de toponymie du Québec, fiches for **Camp Olier** (no_seq 145208), **Camp de l'Avenir** (393822), **Camp Hiawatha** (137664), **Old Brewery Mission** (150335), **Camp Marian** (105558) and **Camp Aurelda** (105559) [src_ct_fiches_neighbour_camps_2026]. Fetched and read 2026-09-06 (p_423); cached at `sources/cache/toponymie/`. See [f_4894], [f_4895].
 
 ## Research Notes
 

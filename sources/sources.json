@@ -28909,7 +28909,25 @@
       "read_state": "unverified_backfill",
       "read_state_basis": "RECORD RECONSTRUCTED 2026-09-06 FROM THE CITING FACTS (p_220), NOT FROM THE SOURCE. This id was cited by 1 fact(s) and had no record in this index; the record exists so the citation resolves and so a later pass can see what was claimed. NOBODY HAS RE-FETCHED OR RE-READ IT, and where a URL appears it is reconstructed from the description, not one recorded at the time.",
       "notes": "A YWCA camping history source cited for YWCA Camp Hochelaga in Vermont being \"the last residential YWCA summer camp\". NOT the Oolahwan page already held as src_ywca_oolahwan_page: the claim is about a different camp | Cited by: f_1242"
+    },
+    {
+      "source_id": "src_ct_fiches_neighbour_camps_2026",
+      "type": "catalog_reference",
+      "title": "Commission de toponymie du Quebec, fiches for Camp Olier (145208), Camp de l'Avenir (393822), Camp Hiawatha (137664) and Old Brewery Mission (150335)",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://toponymie.gouv.qc.ca/ct/ToposWeb/fiche.aspx?no_seq=145208",
+      "cache_path": "sources/cache/toponymie/",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.51",
+      "reliability": "primary",
+      "read_state": "read",
+      "read_state_basis": "four fiches fetched and read 2026-09-06 (p_423), cached under sources/cache/toponymie/",
+      "notes": "Two of the four carry substantive origin notes: Camp Olier is named for Jean-Jacques Olier, founder of the Sulpicians and co-founder of the Societe de Notre-Dame de Montreal; Camp de l'Avenir \"situe sur la rive sud du lac Ouimet, fut fonde en 1964 par les clercs de Saint-Viateur\". Camp Hiawatha and Old Brewery Mission both carry the Commission's standard \"origine... n'ont pu etre determinees\" note with its standing invitation."
     }
   ],
-  "source_count": 1606
+  "source_count": 1607
 }

@@ -1,8 +1,8 @@
 {
-  "version": "6.50",
-  "kb_version": "6.50",
+  "version": "6.51",
+  "kb_version": "6.51",
   "migrated_from": "3.3",
-  "fact_count": 4855,
+  "fact_count": 4857,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87129,6 +87129,52 @@
       "date_ref": "2026-09-06",
       "conflicts_with": [],
       "added_version": "6.50",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4894",
+      "claim": "KANAWANA'S TWO NEAREST REGISTERED NEIGHBOURS ARE BOTH CATHOLIC ORDERS' CAMPS, AND THE COMMISSION SAYS SO. CAMP DE L'AVENIR (no_seq 393822, Sainte-Anne-des-Lacs, 45.83555/-74.15889): \"Ce camp de vacances, situe sur la rive sud du LAC OUIMET, fut fonde en 1964 par les CLERCS DE SAINT-VIATEUR.\" A dated founding, a named order and a named lake, in three lines, for a camp three kilometres from Kanawana that appears nowhere else in this project. CAMP OLIER (no_seq 145208, Sainte-Anne-des-Lacs, 45.82833/-74.15333, officialised 1985-11-07): \"Son nom rappelle le souvenir de Jean-Jacques Olier\" -- Jean-Jacques Olier de Verneuil (Paris 1608-1657), founder of the COMPAGNIE DES PRETRES DE SAINT-SULPICE, who with Jerome Le Royer de La Dauversiere and Pierre Chevrier founded \"Les Messieurs et Dames de la Societe de Notre-Dame de Montreal\", the society that founded Ville-Marie. The fiche gives no founding date for the camp itself. SO WITHIN THREE KILOMETRES OF THE YMCA'S CAMP THERE IS A CAMP OF THE CLERICS OF SAINT VIATOR AND A CAMP NAMED FOR A FOUNDER OF MONTREAL AND OF THE SULPICIANS -- the same confessional density this project already describes for Saint-Adolphe-d'Howard, twenty kilometres north, but on Kanawana's own doorstep and never noticed here.",
+      "sources": [
+        "src_ct_fiches_neighbour_camps_2026",
+        "src_donneesquebec_bnlq_2026"
+      ],
+      "confidence": "stated",
+      "category": "institutions",
+      "entities": [
+        "Camp de l'Avenir",
+        "Camp Olier",
+        "Clercs de Saint-Viateur",
+        "Jean-Jacques Olier",
+        "Sulpicians",
+        "Sainte-Anne-des-Lacs",
+        "Lac Ouimet",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1964",
+      "conflicts_with": [],
+      "added_version": "6.51",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4895",
+      "claim": "CAMP HIAWATHA AND OLD BREWERY MISSION ARE BOTH \"ORIGIN NOT DETERMINED\", WHICH IS NOW THE COMMISSION'S ANSWER FOR SIX CAMP-RELATED NAMES IN THIS DISTRICT. The fiches for CAMP HIAWATHA (no_seq 137664, Sainte-Agathe-des-Monts, officialised 1984-09-06, origine linguistique recorded as MOHAWK in the dataset), OLD BREWERY MISSION (no_seq 150335, Wentworth-Nord, 1986-06-12), CAMP MARIAN and CAMP AURELDA (105558 and 105559, both Mandeville, both 1981-07-09) all carry the same sentence as Lac Kanawana, Lac Wilson, Camp Kanawana and the lieu-dit Kanawana: \"L'origine de ce nom et, le cas echeant, sa signification n'ont pu etre determinees jusqu'a maintenant\", with the standing invitation to anyone who knows. CAMP HIAWATHA IS THE ONE THAT MATTERS TO THIS PROJECT: its origine linguistique is recorded as MOHAWK while its fiche disclaims knowing the origin -- exactly the split found for Kanawana's own ALGONQUIN classification (f_4878) -- and it sits about twenty kilometres from Kanawana, so the pattern of Laurentian camps carrying names of that kind is not peculiar to Kanawana.",
+      "sources": [
+        "src_ct_fiches_neighbour_camps_2026",
+        "src_donneesquebec_bnlq_2026"
+      ],
+      "confidence": "stated",
+      "category": "institutions",
+      "entities": [
+        "Camp Hiawatha",
+        "Old Brewery Mission",
+        "Camp Marian",
+        "Camp Aurelda",
+        "Commission de toponymie du Quebec",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026-09-06",
+      "conflicts_with": [],
+      "added_version": "6.51",
       "added_by": "ralph_loop"
     }
   ]

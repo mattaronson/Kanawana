@@ -6655,14 +6655,17 @@
         "f_4867",
         "f_4868",
         "f_4893",
-        "f_4891"
+        "f_4891",
+        "f_4894",
+        "f_4895"
       ],
       "sources_cited": [
         "src_camp_dorval_1928",
         "src_concordia_12N_camping_associations",
         "src_trent_qca_fonds",
         "src_ia_canadian_camping_collection",
-        "src_donneesquebec_bnlq_2026"
+        "src_donneesquebec_bnlq_2026",
+        "src_ct_fiches_neighbour_camps_2026"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -6680,7 +6683,7 @@
         "people/tony-shorgan"
       ],
       "file_id": null,
-      "word_count": 4679,
+      "word_count": 4977,
       "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- folded the former 'R3 Verification Notes'/'E1 Review Notes' H3 sub-headings into a proper '## Research Notes' section (HTML-comment process log), trimmed the header's dated parenthetical. This article's main body had no embedded prose sediment to begin with. No facts, citations, or open questions changed; status unchanged. | 2026-07-11 (Workstream B): added the \"Camps at a Glance\" summary table and an explanatory paragraph tying it to the places/-vs-context/ folder split, per the approved wiki-expansion plan -- this page now serves as the satellite/peer-camp hub. No new facts/sources; surfaced a new open question (#6, present-day status of several camps unconfirmed). | 2026-07-11: Linked \"Camp Pine Crest\" table row and prose bullet to the new standalone places/camp-pine-crest.md article. | 2026-08-14 p_226: L&V origin claim softened from 'direct origin/source' to the documented 'inspired by' (YMCA Quebec's own wording); duplicate Pine Crest blog source consolidated; quebec-camp-landscape's stale Hayo-Went-Ha reading, retracted in lv-games.md on 2026-07-09, corrected here too.",
       "tags": {
         "era": [
