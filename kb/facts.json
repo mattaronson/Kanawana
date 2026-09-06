@@ -1,6 +1,6 @@
 {
-  "version": "6.35",
-  "kb_version": "6.35",
+  "version": "6.36",
+  "kb_version": "6.36",
   "migrated_from": "3.3",
   "fact_count": 4821,
   "facts": [
@@ -32005,11 +32005,11 @@
     },
     {
       "fact_id": "f_1882",
-      "claim": "[SUPERSEDED 2026-09-05 AS TO AMY ORNSTEIN, AND THE REASONING BEHIND IT WITHDRAWN. The operator states directly that Amy Ornstein grew up in Montreal and worked at Kanawana, and one search corroborates the Montreal half from her employer's own faculty page: BSc Concordia, MDCM McGill. So the sole stated ground for the 'debunking' -- 'no connection whatsoever to Camp Kanawana, YMCA Quebec, or Montreal found in any source' -- was false against a source on the first page of a basic search. The error was not a failed search but a bad inference: I turned 'I did not find a connection' into 'there is no connection', and wrote DEBUNKED, a word that asserts disproof. Being a Halifax pediatrician is not evidence against having worked at a Quebec camp twenty years earlier; it is a later stage of the same life. The David Bryfman half is NOT debunked either -- it is merely unevidenced, which is a different and weaker claim. See f_4799, f_4800, f_4801.] Two specific claimed identities for the 2019 Camp YMCA Kanawana Pip Alumni Award recipient were investigated and explicitly DEBUNKED, not merely unconfirmed: 'Dr. Amy Ornstein' is a pediatrics faculty member at Dalhousie University (Halifax) specializing in child-maltreatment pediatrics, with no connection whatsoever to Camp Kanawana, YMCA Quebec, or Montreal found in any source. 'David Bryfman' is CEO of The Jewish Education Project (New York); no source connects him to the Pip Award or Camp Kanawana. Both names appear to be search-engine confabulation/conflation (likely with the separately-unverified 2019 ACA Dimock Award claims). Neither should be added to the KB as the 2019 recipient. The 2019-2023 Pip Award recipient gap otherwise remains unresolved after an additional ~20 queries across new surfaces (YMCA Quebec newsroom, Facebook, LinkedIn, Wayback Machine, archive.ph, PressReader, newspapers.com) -- genuinely exhausted for agent-accessible web research.",
+      "claim": "[SUPERSEDED 2026-09-05 AS TO AMY ORNSTEIN, AND THE REASONING BEHIND IT WITHDRAWN. The operator states directly that Amy Ornstein grew up in Montreal and worked at Kanawana, and one search corroborates the Montreal half from her employer's own faculty page: BSc Concordia, MDCM McGill. So the sole stated ground for the 'debunking' -- 'no connection whatsoever to Camp Kanawana, YMCA Quebec, or Montreal found in any source' -- was false against a source on the first page of a basic search. The error was not a failed search but a bad inference: I turned 'I did not find a connection' into 'there is no connection', and wrote DEBUNKED, a word that asserts disproof. Being a Halifax pediatrician is not evidence against having worked at a Quebec camp twenty years earlier; it is a later stage of the same life. The David Bryfman half is NOT debunked either -- it is merely unevidenced, which is a different and weaker claim. See f_4799, f_4800, f_4801.] Two specific claimed identities for the 2019 Camp YMCA Kanawana Pip Alumni Award recipient were investigated and explicitly DEBUNKED, not merely unconfirmed: 'Dr. Amy Ornstein' is a pediatrics faculty member at Dalhousie University (Halifax) specializing in child-maltreatment pediatrics, with no connection whatsoever to Camp Kanawana, YMCA Quebec, or Montreal found in any source. 'David Bryfman' is CEO of The Jewish Education Project (New York); no source connects him to the Pip Award or Camp Kanawana. Both names appear to be search-engine confabulation/conflation (likely with the separately-unverified 2019 ACA Dimock Award claims). Neither should be added to the KB as the 2019 recipient. The 2019-2023 Pip Award recipient gap otherwise remains unresolved after an additional ~20 queries across new surfaces (YMCA Quebec newsroom, Facebook, LinkedIn, Wayback Machine, archive.ph, PressReader, newspapers.com) -- genuinely exhausted for agent-accessible web research. [RECLASSIFIED 2026-09-05: confidence disputed -> stated. Nothing about this fact's own content is contested any more. The debunking it recorded was withdrawn the same day and Amy Ornstein's 2019 award was then confirmed independently in print; what remains is a true record of an error this project made and corrected. Leaving it at 'disputed' left it counted among live disagreements, which it is not.]",
       "sources": [
         "src_aca_dimock_award_recipients_2022_2026"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "people",
       "entities": [
         "Pip Alumni Award"
@@ -37914,13 +37914,13 @@
     },
     {
       "fact_id": "f_2229",
-      "claim": "TWO DOCUMENTED-VS-DOCUMENTED DISCREPANCIES in Terry Mosher's public record, noted for accuracy but NOT raised as conflict records because neither touches a Kanawana claim: (1) his appointment as Officer of the Order of Canada is dated 2002 by Wikipedia and 2003 by both The Canadian Encyclopedia and Concordia's honorary-degree citation; (2) the 1993 denunciation of his work in the House of Commons is attributed to MP Bob Layton by The Canadian Encyclopedia and to cabinet minister Barbara McDougall by Canada Post. If either detail is ever used in a Kanawana article it must be settled first -- against the Order of Canada register and Hansard respectively.",
+      "claim": "TWO DOCUMENTED-VS-DOCUMENTED DISCREPANCIES in Terry Mosher's public record, noted for accuracy but NOT raised as conflict records because neither touches a Kanawana claim: (1) his appointment as Officer of the Order of Canada is dated 2002 by Wikipedia and 2003 by both The Canadian Encyclopedia and Concordia's honorary-degree citation; (2) the 1993 denunciation of his work in the House of Commons is attributed to MP Bob Layton by The Canadian Encyclopedia and to cabinet minister Barbara McDougall by Canada Post. If either detail is ever used in a Kanawana article it must be settled first -- against the Order of Canada register and Hansard respectively. [RECLASSIFIED 2026-09-05: confidence disputed -> stated, with the earlier pass's decision intact. This fact is not itself disputed -- it is a true statement that two outside sources disagree about Terry Mosher's Order of Canada year and about who denounced his work in 1993. The decision not to open conflict records, because neither touches a Kanawana claim, stands and is stated in the claim above. 'Disputed' was the wrong label for a fact whose content is an observation ABOUT a disagreement, and using it that way made the disputed count mean two things at once.]",
       "sources": [
         "src_wp_mosher",
         "src_cae_mosher",
         "src_canadapost_mosher"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "people",
       "entities": [
         "Terry Mosher"
@@ -84317,7 +84317,7 @@
     },
     {
       "fact_id": "f_4744",
-      "claim": "The Camp Stephens Alumni blog states in a December 2020 post that COVID-19 \"Restrictions made it impossible to open camp this past summer (the first closure since 1917).\" The alumni association therefore dates the camp's First World War closure to 1917. Secondary summaries of the camp's history give 1918 instead; the two are not reconciled here and no source consulted gives both. [RESOLVED 2026-09-05, see f_4838: the year is 1918. This blog's own 125th-anniversary chapel service and the Lake of the Woods Museum newsletter both give 1918 and both give the mechanism -- not enough men left to staff the season. The '1917' here is a parenthesis in a fundraising appeal, and is superseded as a date while being kept as a record of what the post said.]",
+      "claim": "The Camp Stephens Alumni blog states in a December 2020 post that COVID-19 \"Restrictions made it impossible to open camp this past summer (the first closure since 1917).\" The alumni association therefore dates the camp's First World War closure to 1917. Secondary summaries of the camp's history give 1918 instead; the two are not reconciled here and no source consulted gives both. [RESOLVED 2026-09-05, see f_4838: the year is 1918. This blog's own 125th-anniversary chapel service and the Lake of the Woods Museum newsletter both give 1918 and both give the mechanism -- not enough men left to staff the season. The '1917' here is a parenthesis in a fundraising appeal, and is superseded as a date while being kept as a record of what the post said.] [RECLASSIFIED 2026-09-05: confidence disputed -> stated, after c_061 resolved. The fact accurately records what a December 2020 fundraising post said; that remains true. The DATE it gave is superseded, which the note above states. A fact can be an accurate record of a wrong claim, and this is one.]",
       "category": "camping_movement",
       "entities": [
         "Camp Stephens"
@@ -84326,7 +84326,7 @@
       "sources": [
         "src_campstephens_alumni_blog"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "conflicts_with": [
         "c_061"
       ],
@@ -85482,7 +85482,7 @@
     },
     {
       "fact_id": "f_4808",
-      "claim": "[CORRECTED 2026-09-05, within the hour: the clause 'Neither appears anywhere else in this wiki, the KB or the sources index' WAS FALSE FOR ALEXANDRA OLSHEFSKY. She was already in the KB twice -- f_1677, the Rangers 2002 plaque, under her full name; and f_1565, the Order of the Knights of Kanawana roll, as 'Lady Ali Olshefsky, 2002' -- and already in wiki/traditions/knights-of-kanawana.md as a table row. I asserted a negative across four files without searching any of them. Dr. Karl Cernovich IS genuinely new. See the correction facts below.] TWO PIP RECIPIENTS PREVIOUSLY UNKNOWN TO THIS PROJECT, named in the 2026 release's list of previous recipients: “Dr. Karl Cernovich, a leader in emergency medicine” and “Alexandra Olshefsky, public defender and community volunteer”. Neither appears anywhere else in this wiki, the KB or the sources index. No years are given for either.",
+      "claim": "[CORRECTED 2026-09-05, within the hour: the clause 'Neither appears anywhere else in this wiki, the KB or the sources index' WAS FALSE FOR ALEXANDRA OLSHEFSKY. She was already in the KB twice -- f_1677, the Rangers 2002 plaque, under her full name; and f_1565, the Order of the Knights of Kanawana roll, as 'Lady Ali Olshefsky, 2002' -- and already in wiki/traditions/knights-of-kanawana.md as a table row. I asserted a negative across four files without searching any of them. Dr. Karl Cernovich IS genuinely new. See the correction facts below.] TWO PIP RECIPIENTS PREVIOUSLY UNKNOWN TO THIS PROJECT, named in the 2026 release's list of previous recipients: “Dr. Karl Cernovich, a leader in emergency medicine” and “Alexandra Olshefsky, public defender and community volunteer”. Neither appears anywhere else in this wiki, the KB or the sources index. No years are given for either. [RECLASSIFIED 2026-09-05: confidence disputed -> stated. The dispute inside this fact -- whether Alexandra Olshefsky was new to this project -- was resolved within the hour by the correction now at its head, and the correction is the record. Nothing here is awaiting adjudication.]",
       "category": "awards",
       "entities": [
         "Karl Cernovich",
@@ -85493,7 +85493,7 @@
       "sources": [
         "src_ymca_quebec_pip_macsween_2026"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.20",
       "added_by": "manual"
@@ -86081,6 +86081,7 @@
       ],
       "date_ref": "1911",
       "conflicts_with": [
+        "c_063",
         "f_4665",
         "f_4748"
       ],
