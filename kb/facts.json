@@ -1,8 +1,8 @@
 {
-  "version": "8.57",
-  "kb_version": "8.57",
+  "version": "8.58",
+  "kb_version": "8.58",
   "migrated_from": "3.3",
-  "fact_count": 5172,
+  "fact_count": 5173,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93235,6 +93235,25 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.56",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5211",
+      "category": "method",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Quebec Camping Association",
+        "Ontario Camping Association",
+        "Trent University Archives",
+        "Mary L. Northway"
+      ],
+      "claim": "THE QUEBEC CAMPING ASSOCIATION'S ENGLISH SECTION PAPERS ARE AT TRENT, AND KANAWANA IS THE KIND OF CAMP THAT WOULD BE IN THEM. Ontario Camps Association fonds, 1988 additions, accession 88-006, finding aid fetched raw and cached at sources/cache/trent-archives/2026-09-06-oca-1988-additions-88-006-finding-aid.txt. **BOX 2, FOLDER 41: 'Quebec Camping Association (English Section) - minutes, reports, some correspondence, 1972-1977'. BOX 2, FOLDER 42: 'Quebec Camping Association (English Section) - correspondence, minutes, reports, CONSTITUTION, 1978-1979'.** Kanawana was an ANGLOPHONE YMCA camp in Quebec and a QCA member camp; the English Section is where its name would appear in provincial business, and those seven years cover the Order of Owens' founding in 1976, the Voyageurs, and the years after coeducation. THIS IS NOT A CLAIM THAT KANAWANA IS IN THOSE FOLDERS -- the finding aid describes at folder level and names no camps. THREE OTHER ITEMS IN THE SAME BOX WORTH NAMING. **Box 2 Folder 20: 'FRENCH LANGUAGE CONFERENCE - QUEBEC, 1976 - correspondence, notes and documents'** -- directly on the subject of traditions/french-language-camping.md, written earlier the same day. **Box 2 Folder 22: 'ORAL HISTORY PROJECT, 1976-1977 - financial record'** -- a second OCA oral-history undertaking, distinct from the tapes in 83-002, and only its finances are in this folder. And **Box 2 Folder 40** holds New Brunswick and Saskatchewan association material, so the fonds collects other provinces as a matter of course. BOX 3 has a YMCA folder run -- 'YMCA camps (Toronto) - Camp Norval, Camp Wangoma, CAMP PINE CREST, folders (c1960); Camp Woapak folder; Camp Pow Wow folder; LETTER RE YMCA CAMPING IN CANADA, 1968; budget - Toronto YMCA, 1968' -- Ontario YMCA camps, not Montreal, but the 1968 letter on YMCA camping IN CANADA is the one item there that might reach beyond the province. Box 3 also holds 'Camping Clues - A History by EANSWYTHE FLYNN', a writer already in this project through her 1981 review in *Canadian Camping*. AND A NULL: **80-022, THE M. L. NORTHWAY FONDS**, which 72-007 points at, is household records, family-genealogy tapes, property records, her OCA and CCA participation, and the winding-up of the Northway Company. NO hits for Kanawana, Otoreke, Quebec, YMCA or Montreal in its description. Fetched and read 2026-09-06; not worth a reader's time for this project unless her CCA participation files are itemised on request. 88-006 IS ONE OF NINE ADDITIONS TO 72-007 -- the others are 78-006, 82-009, 84-019, 85-011, 86-018, 89-015, 92-005 and 93-021, and NONE OF THOSE EIGHT HAS BEEN FETCHED.",
+      "sources": [
+        "src_trent_oca_1988_additions_88_006"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.58",
       "added_by": "manual"
     }
   ]

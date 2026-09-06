@@ -30259,7 +30259,25 @@
       "notes": "NEW TO THIS PROJECT 2026-09-06 — zero prior hits across wiki/, kb/facts.json and sources.json. The taped interviews of camping personalities, physically removed from the OCA fonds 72-007 into their own artificial collection, with an ITEM-LEVEL finding aid giving subject, speakers, interviewer, date, medium and permission status. Searched for Kanawana, Otoreke, YMCA, Montreal and Quebec: ONE Quebec-connected item, 83-002/011/008, Marjorie Booth. See f_5210.",
       "read_state": "partial",
       "read_state_basis": "partial:2026-09-06 the item-level finding aid fetched raw (45,000 characters) and searched for Kanawana, Otoreke, YMCA, Montreal and Quebec; NOT read entry by entry. The recordings themselves are not digitized."
+    },
+    {
+      "source_id": "src_trent_oca_1988_additions_88_006",
+      "type": "catalog_reference",
+      "title": "Ontario Camps Association fonds, 1988 additions — Trent University Archives, 88-006 — finding aid",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://archives.trentu.ca/index.php/88-006",
+      "cache_path": "sources/cache/trent-archives/2026-09-06-oca-1988-additions-88-006-finding-aid.txt",
+      "char_count": 13890,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v8.58",
+      "reliability": "secondary",
+      "notes": "Fetched raw and cached verbatim 2026-09-06. BOX 2 FOLDERS 41-42 are the Quebec Camping Association (English Section) papers, 1972-1977 and 1978-1979 -- the section an anglophone YMCA camp in Quebec would appear in. Box 2 Folder 20 is a French Language Conference, Quebec, 1976; Box 2 Folder 22 an Oral History project, 1976-1977. See f_5211.",
+      "read_state": "read",
+      "read_state_basis": "read:finding-aid-fetched-raw-and-cached-whole; the records themselves are not digitized"
     }
   ],
-  "source_count": 1681
+  "source_count": 1682
 }
