@@ -372,7 +372,8 @@
         "src_ymf_sgw_ymca_annual_report_1948",
         "src_ymf_sgw_ymca_annual_report_1949",
         "src_ymf_sgw_ymca_annual_report_1961",
-        "src_ymf_sgw_ymca_annual_report_1963"
+        "src_ymf_sgw_ymca_annual_report_1963",
+        "src_ymf_sgw_ymca_annual_report_1964"
       ],
       "open_questions": 0,
       "cross_links": [
@@ -388,7 +389,7 @@
         "traditions/order-of-owens"
       ],
       "file_id": "13MmwA1lO_3J3rJ7yEZjwsvT--vWooITy",
-      "word_count": 14394,
+      "word_count": 14600,
       "tags": {
         "era": [
           "1920s",
@@ -7121,7 +7122,8 @@
         "src_cache_sgw_ymca_annual_report_1930",
         "src_cache_sgw_ymca_annual_report_1934",
         "src_cache_sgw_ymca_annual_report_1935",
-        "src_cache_sgw_ymca_annual_report_1936"
+        "src_cache_sgw_ymca_annual_report_1936",
+        "src_ymf_sgw_ymca_annual_report_1964"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -7130,7 +7132,7 @@
         "quebec-camp-landscape"
       ],
       "file_id": null,
-      "word_count": 2212,
+      "word_count": 2441,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, softened a dated bold-label marker in prose. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

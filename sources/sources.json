@@ -21005,8 +21005,8 @@
       "extraction_version": "v5.60",
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_441: the CAMPING section read whole -- Kamp Kanawana, Les Voyageurs, Family Camping, Otoreke -- plus the title page. NOTE THIS IS THE 113TH REPORT, FOR THE YEAR ENDED 31 MAY 1965; its camping season is the summer of 1964 (f_5090). Most of its Kanawana content was already extracted (the 120-acre purchase, 535 boys and 64 leaders, the 1,000 acres, the forty thousand Kanawanians); what was new is in f_5094. The rest of the volume is NOT read."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1965",
@@ -21023,8 +21023,8 @@
       "extraction_version": "v5.60",
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_441: the CAMPING section read -- Kanawana, Otoreke, day camps -- plus the title page. THIS IS THE 114TH REPORT, FOR THE YEAR ENDED 31 MAY 1966; its camping season is the summer of 1965 (f_5090). The 420 boys, 1,200 camper-weeks and the association's three-part explanation of the decline were ALREADY in meta/attendance-series.md and were not re-extracted; what was new is in f_5094. The rest of the volume is NOT read."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1968",

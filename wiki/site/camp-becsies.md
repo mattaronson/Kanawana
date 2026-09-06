@@ -1,6 +1,6 @@
 # Camp Becsies
 
-*Status: E1-reviewed | Sources: 12*
+*Status: E1-reviewed | Sources: 13*
 *Last Updated: 2026-09-06 (the founding decision, dated 1928 and reasoned)*
 
 ## Overview
@@ -68,6 +68,12 @@ One plausible but unconfirmed contributing thread: Camp Amy Molson, founded May 
 
 Camp Becsies was repurposed for family camping in its second operational period after a 24-year gap in the archival record (1936-1960). A family camping brochure from c. 1962 and administrative records spanning 1960-1971 survive in the Concordia Archives.^3 Photographs of Camp Becsies also exist in the archives.^3
 
+**And the ground was developed on Kanawana's own property, by Kanawana's own committee.** The association's 113th annual report, covering the summer of 1964, says so directly: "Lake Becsies, a beautiful clear water lake, is the site of the **Family Camping Grounds** of the Montreal YMCA. The increased interest in Family Camping prompted **the Boys' Camping Committee** of the Montreal YMCA **to develop an area of the Kanawana property** for this purpose. The sites are **a mile and a half from the boys' camp**."^13
+
+That reframes this second period. It was not a separate camp reviving on its own account: it was Kamp Kanawana's committee opening a family campground on Kanawana land, close enough to walk.
+
+It also puts a small irony in the record. The following year the same association explained a fall in Kanawana's own attendance — 420 boys, down from 535 — partly by "an increasing popularity of **family camping**." The competing product was its own, a mile and a half away. Neither report draws the connection, and this article does not claim the two are cause and effect; the association named three causes and family camping was one of them.
+
 ## After the YMCA (1971–present)
 
 Following the end of Camp Becsies records in 1971, the lake was developed as a residential area. Today approximately 240 homes (mix of primary residences and vacation properties) line its shores.^5 The Association du Lac des Becs-scie was formed in January 2003 (succeeding an earlier ecological association that became inactive) and has over 100 member homes.^5 A heritage-listed chapel, Sainte-Thérèse-du-Lac-des-Becs-Scies, was built on the lake in 1950-1951 during the gap between the camp's two operational periods.^7 The lake also has early settlement history: a traditional log house built by Louis Alary was purchased in 1928 by Dr. Joseph-Octave Lapointe, who later served as mayor of Saint-Sauveur (1944-1945).^5
@@ -109,3 +115,4 @@ The camp's records are held at Concordia University Archives as sub-series P0145
 10. Batshaw Centre History (batshawcentreshistory.ca) — Montreal Protestant Orphans' Home / Ladies' Benevolent Society institutional history [src_batshaw_centre_history]. Retrieved via search-summary only; needs independent verification.
 11. YMCA of Montreal, 78th Annual Report, for the year ending 31 March 1929 [src_ymf_sgw_ymca_annual_report_1929] — so its camping season is the summer of **1928** (see [f_5039]). Read for its camps section 2026-09-06 under p_441. See [f_5065] and [f_5066].
 12. YMCA of Montreal annual reports for the years ending 31 March **1930, 1934, 1935 and 1936** [src_cache_sgw_ymca_annual_report_1930, src_cache_sgw_ymca_annual_report_1934, src_cache_sgw_ymca_annual_report_1935, src_cache_sgw_ymca_annual_report_1936] — camping seasons 1929, 1933, 1934 and 1935. Camps sections read 2026-09-06 under p_441. See [f_5070]. **Note the spelling**: these volumes write the lake *Becscies*, which a grep for *Becsies* does not find.
+13. YMCA of Montreal, **113th Annual Report**, for the year ended **31 May 1965** [src_ymf_sgw_ymca_annual_report_1964] — camping section, "Family Camping." Its camping season is the summer of 1964 (see [f_5090]). Read 2026-09-06 under p_441. See [f_5094].

@@ -1,8 +1,8 @@
 {
-  "version": "7.76",
-  "kb_version": "7.76",
+  "version": "7.77",
+  "kb_version": "7.77",
   "migrated_from": "3.3",
-  "fact_count": 5055,
+  "fact_count": 5056,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91180,6 +91180,26 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5094",
+      "category": "programs",
+      "date_ref": "1964-1965",
+      "entities": [
+        "Kamp Kanawana",
+        "Les Voyageurs de la Verendrye",
+        "Camp Becsies",
+        "Camp Otoreke"
+      ],
+      "claim": "THE 1964 AND 1965 VOLUMES: MOSTLY ALREADY EXTRACTED, AND THREE THINGS THAT WERE NOT. I read the 113th report (year ended 31 May 1965, season 1964) and the 114th (31 May 1966, season 1965) and grepped everything before writing. ALREADY HELD, NOT RE-EXTRACTED: the 120-acre 1964 purchase and its Tamaracouta connection (the-kanawana-site line 152), the 1964 figures of 535 boys and 64 leaders and the 'forty thousand Kanawanians', the 1,000-acre figure, and the 1965 decline to 420 boys with the association's own three-part explanation (attendance-series). THIS IS RECORDED SO THE SAME TWO VOLUMES ARE NOT SWEPT AGAIN FOR THEM. WHAT IS NEW. (1) THE VOYAGEURS IN 1964 WERE NINE BOYS. 'In this vast unspoiled country 9 OLDER BOYS AND 7 LEADERS tested their ability to live together for periods of THREE TO FOUR WEEKS in a challenging and exciting adventure in the wilderness of northern Quebec.' Nine campers to seven leaders. In 1961 the programme took fifteen boys in three crews of five (f_5089); in 1963 the association called it 'a highly accepted camp program' (f_5091). NINE IS A SMALL NUMBER AND THE REPORT DOES NOT REMARK ON IT, and I am not going to build a trend out of three data points in different reporting formats. RECORDED AS A FIGURE TO SET BESIDE THE OTHERS. (2) THE FAMILY CAMPING GROUND WAS ON KANAWANA'S OWN PROPERTY. 'Lake Becsies, a beautiful clear water lake, is the site of the Family Camping Grounds of the Montreal YMCA. The increased interest in Family Camping prompted THE BOYS' CAMPING COMMITTEE of the Montreal YMCA TO DEVELOP AN AREA OF THE KANAWANA PROPERTY FOR THIS PURPOSE. The sites are A MILE AND A HALF FROM THE BOYS' CAMP.' site/camp-becsies.md has the 1960-1971 family camping period and places the lake about 1.5 km west of Lac Kanawana, but does not say the ground was developed on Kanawana land, by Kanawana's own committee. That makes the second Becsies period an extension of Kanawana rather than a separate camp's revival. AND IT MATTERS FOR THE 1965 DECLINE, which the association attributed partly to 'an increasing popularity of family camping' -- the competing product was its own, a mile and a half away. NEITHER REPORT DRAWS THAT CONNECTION. (3) 'THE OTOREKE SITE, near St. Adolphe d'Howard, HAS BEEN OWNED BY THE YMCA SINCE 1893 and is THE ORIGINAL LOCATION OF KAMP KANAWANA.' Another retrospective founding date from the association's own pen, and history/oldest-camp-question.md already warns that these are unreliable and mutually inconsistent (1898, 1891/92, 1892, 1893 across the 1931-1965 reports). 1893 is the year the association located its cluster of five islands, per f_0018, so this is at least a date the record supports for something -- but it is a claim about OWNERSHIP, which is a different claim from either the 1893 island-finding or the 1894 first camp. RECORDED, NOT USED. ALSO: 1965 opened with 'A TWO-WEEK TRAINING PROGRAM FOR STAFF' before the camp period, longer than the six and seven days of 1960 and 1961 (f_5088); and Otoreke took 1,052 young men and women in 1964.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1964",
+        "src_ymf_sgw_ymca_annual_report_1965"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.77",
       "added_by": "ralph_loop"
     }
   ]
