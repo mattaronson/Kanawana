@@ -1054,6 +1054,18 @@
       "status": "open",
       "flagged_at": "2026-09-06",
       "notes": "TWO DOCUMENTED SOURCES, BOTH THE ASSOCIATION'S OWN. The camp's 1987 director's report gives a three-season comparative -- 1,412 camper weeks in summer 1987 at 93 PER CENT OCCUPANCY, 1,400 in 1986 at 92.5, 1,214 in 1985 at 80 (f_4844). The association's annual report FOR THE YEAR ENDED 31 MAY 1988 says the camp 'completed its 94th year of operation this past summer with a 99.2% OCCUPANCY RATE ... the use of 750 OUT OF THE 756 CAMPER WEEKS AVAILABLE' (f_5182). WHAT IS ACTUALLY IN DISPUTE IS TWO THINGS AT ONCE. (a) WHICH SUMMER the annual report means: its fiscal year ends 31 May 1988, so the summer inside it is 1987, but reports are written after year-end and often describe the following summer. The '94th year' does not decide it -- on 1894 as year one that is 1987, but the same camp called 1993 its 99th summer, which needs 1895 as year one. (b) WHETHER THE TWO OCCUPANCY FIGURES ARE THE SAME MEASURE AT ALL. They cannot both run on a 756-week capacity, because the director's own camper-week counts for 1985-87 all exceed 756. So either the annual report is counting a narrower capacity (one section, one age band, or residential weeks only), or the director's camper weeks are a different unit -- and neither document defines its terms. IF THE 99.2% IS SUMMER 1987 the two figures contradict on the same season; if it is 1988 they do not, and the attendance table's 1988 row is right where it stands. WHAT WOULD SETTLE IT: the camp's own 1988 season report (this project holds 1964-1979 and 1987, not 1988), or the annual report for the year ended 31 May 1989. HUMAN DECISION POINT -- two documented sources, and a reading either way changes a published row and the '1988 to 1993, six consecutive full seasons' claim built on top of it."
+    },
+    {
+      "conflict_id": "c_068",
+      "entity": "Arthur Ney",
+      "description": "The year on Arthur Ney's Camp Otoreke photograph against the year he reached Canada. An Open Library search-inside snippet of W Hour (Azrieli Foundation, 2014) reads '1947. 2  SUMMER VACATION WITH FRIENDS AT YMCA CAMP OTOREKE IN THE LAURENTIANS. ARTHUR IS IN FRONT, CENTRE.' (f_5198). The Azrieli Foundation's own publisher page for the same book says he arrived in Canada in 1948, and independent biographical summaries agree, giving his birth as Warsaw, 25 June 1930 (f_5232). He cannot have been at a Laurentian camp in the summer of 1947. THE LIKELIER RESOLUTION IS NOT THAT EITHER SOURCE IS WRONG: the snippet appears to run two captions together, so that '1947.' belongs to the preceding photograph and the Otoreke photograph is number '2' with no year of its own. SETTLED ONLY BY THE BOOK ITSELF -- the photo insert, read on the page. The book is lending-restricted on the Internet Archive and the publisher offers no full text.",
+      "facts": [
+        "f_5198",
+        "f_5232"
+      ],
+      "flagged_at": "2026-09-06T23:45:00Z",
+      "status": "open",
+      "notes": "Two documented sources, so a human decision point under the operator directive of 2026-07-07 -- the oral-history rule does not apply, neither side is oral history. The article has been corrected in place NOT to resolve the conflict but because the sentence it carried ('a seventeen-year-old survivor newly arrived in Canada', 'the first summer of this gap') was this project's own inference on top of the disputed year, and is unsafe under either reading."
     }
   ]
 }

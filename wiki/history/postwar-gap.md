@@ -1,6 +1,6 @@
 # The Postwar Gap (1947–1967)
 
-*Status: draft | Sources: 12*
+*Status: draft | Sources: 13*
 *Last Updated: 2026-09-06 (a camper's letters from the 1950s, described in a published memoir)*
 
 ## Overview
@@ -42,10 +42,21 @@ camper. Those letters, if any survive in a family's papers, are exactly the miss
 and this is the first evidence that they were ever written.
 
 **A third survivor memoir, and the first with a photograph.** Arthur Ney's *W Hour* — the title is
-the hour the Warsaw Uprising began — carries a caption: "**1947. Summer vacation with friends at ymca
-Camp Otoreke in the Laurentians. Arthur is in front, centre.**"^12 Ney was born in 1930, so this is a
-seventeen-year-old survivor newly arrived in Canada, photographed with friends at the association's
-camp on Lac Saint-Joseph in the first summer of this gap.
+the hour the Warsaw Uprising began — carries a caption: "**Summer vacation with friends at ymca
+Camp Otoreke in the Laurentians. Arthur is in front, centre.**"^12 Ney was born in Warsaw on 25 June
+1930 and reached Canada in 1948, so this is a young survivor, eighteen or older, photographed with
+friends at the association's camp on Lac Saint-Joseph in one of the earliest summers of this gap.
+
+*[Corrected 2026-09-06. This paragraph read "**1947.** Summer vacation…" and called him "a
+seventeen-year-old survivor newly arrived in Canada… in the first summer of this gap." The publisher's
+own page for the book says he arrived in Canada in **1948**, and independent biographical summaries
+agree.^13 He was not in the Laurentians in the summer of 1947. The likelier explanation is not that
+either source is wrong: the search-inside snippet this project read runs as "1947. 2  SUMMER VACATION
+WITH FRIENDS AT YMCA CAMP OTOREKE…", which looks like two captions run together — the year belonging to
+photograph 1 and the Otoreke photograph being number 2, with no year of its own. The year is therefore
+dropped from the quotation above rather than replaced with a guess. Recorded as conflict **c_068**, and
+settled only by the book's photo insert read on the page; it is lending-restricted and the publisher
+offers no full text.]*
 
 **Three published memoirs now put Jewish refugee and survivor children at a Montreal YMCA camp in
 these years** — Judy Abrams, Michael Kutz and now Ney, all in the Azrieli Foundation's series, all
@@ -111,6 +122,7 @@ In 1960–1961, Hedley Gardner Dimock — Coordinator of Staff Development and T
 10. "Personality Profile: W. E. (Ted) Yard (1919-1983)" — interview with Shirley Yard and Ted Yard Jr., *Canadian Camping Magazine* Vol. 38 No. 2 (Fall 1986), pp. 10-15 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 159).
 11. Judy Abrams, *Retenue par un fil / Une question de chance* (Azrieli Foundation, French edition of *Tenuous Threads*, 2013), Internet Archive scan leaf 254 [src_abrams_retenue_par_un_fil]. **One passage only**, reconstructed 2026-09-06 from five overlapping Open Library search-inside queries; the book is lending-restricted and has not been read. The reconstruction and its queries are cached at `sources/cache/openlibrary-search-inside/2026-09-06-abrams-kutz-memoir-passages.txt`. See [f_4937].
 12. Arthur Ney, *W Hour* (Toronto: The Azrieli Foundation, 2014) [src_ney_w_hour_2014]. **One photograph caption only**, found 2026-09-06 by an Open Library search-inside sweep on "Otoreke"; the book is lending-restricted and has not been read. See [f_5198].
+13. The Azrieli Foundation, Holocaust Survivor Memoirs Program, publisher page for Arthur Ney, *W Hour* [src_azrieli_w_hour_page_2026]. Fetched and cached in full 2026-09-06. Its "At a Glance" block gives "Postwar France / Arrived in Canada in 1948"; its excerpt is a 1944 Warsaw chapter and no full text is offered. See [f_5232] and conflict [c_068].
 
 ## Research Notes
 

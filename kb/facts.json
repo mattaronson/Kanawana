@@ -1,8 +1,8 @@
 {
-  "version": "8.68",
-  "kb_version": "8.68",
+  "version": "8.69",
+  "kb_version": "8.69",
   "migrated_from": "3.3",
-  "fact_count": 5193,
+  "fact_count": 5194,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93008,12 +93008,15 @@
         "Arthur Ney",
         "YMCA of Montreal"
       ],
-      "claim": "A WARSAW UPRISING SURVIVOR SPENT THE SUMMER OF 1947 AT CAMP OTOREKE, AND THERE IS A PHOTOGRAPH. Arthur Ney's memoir *W Hour* (Toronto: The Azrieli Foundation, 2014), a photograph caption: '1947. 2  SUMMER VACATION WITH FRIENDS AT YMCA CAMP OTOREKE IN THE LAURENTIANS. ARTHUR IS IN FRONT, CENTRE.' Ney was born in 1930 and the book belongs to the Azrieli Foundation's Holocaust survivor memoir series; its title refers to 'W hour', the hour the Warsaw Uprising began. So a seventeen-year-old survivor newly arrived in Canada is at a Montreal YMCA camp in the summer of 1947, photographed with friends. THIS IS THE THIRD AZRIELI-SERIES MEMOIR THIS PROJECT HAS FOUND NAMING A MONTREAL YMCA CAMP -- after Judy Abrams (f_4937) and Michael Kutz (f_4938), both found the same week. THREE IS A PATTERN WORTH SAYING OUT LOUD: the camps were a place where Jewish refugee and survivor children in postwar Montreal ended up, often enough that three published memoirs mention it in passing, and this project has no institutional record of it at all. AND 1947 SITS INSIDE THE POSTWAR GAP -- history/postwar-gap.md covers 1947-1958, from which almost nothing survives. NOT READ: the book is lending-restricted and this is one caption. Whether Ney went once or every summer, how he got there, and who paid are all unknown.",
+      "claim": "[CORRECTED 2026-09-06, LATER SESSION: THE YEAR 1947 CANNOT BE RIGHT AND MAY NOT BELONG TO THIS CAPTION AT ALL. Arthur Ney was born in Warsaw on 25 June 1930 and CAME TO CANADA IN 1948 -- the Azrieli Foundation's own publisher page for this book says so in its 'At a Glance' block ('Postwar France ... Arrived in Canada in 1948'), and independent biographical summaries agree. He was therefore not in the Laurentians in the summer of 1947. TWO READINGS, and the second is the likelier: either the book's caption is in error, or -- more probably -- the search-inside snippet ran two captions together and the '1947.' belongs to the PHOTOGRAPH BEFORE this one, leaving the Otoreke photograph with the number '2' and no year of its own. Note the shape of the snippet: '1947. 2  SUMMER VACATION...'. So what this source establishes is that Arthur Ney was at Camp Otoreke in some postwar summer from 1948 onward, NOT that he was there in 1947, and NOT that he was seventeen. Conflict c_068. The original record follows and is preserved.] [SUPERSEDED 2026-09-06: A WARSAW UPRISING SURVIVOR SPENT THE SUMMER OF 1947 AT CAMP OTOREKE, AND THERE IS A PHOTOGRAPH. Arthur Ney's memoir *W Hour* (Toronto: The Azrieli Foundation, 2014), a photograph caption: '1947. 2  SUMMER VACATION WITH FRIENDS AT YMCA CAMP OTOREKE IN THE LAURENTIANS. ARTHUR IS IN FRONT, CENTRE.' Ney was born in 1930 and the book belongs to the Azrieli Foundation's Holocaust survivor memoir series; its title refers to 'W hour', the hour the Warsaw Uprising began. So a seventeen-year-old survivor newly arrived in Canada is at a Montreal YMCA camp in the summer of 1947, photographed with friends. THIS IS THE THIRD AZRIELI-SERIES MEMOIR THIS PROJECT HAS FOUND NAMING A MONTREAL YMCA CAMP -- after Judy Abrams (f_4937) and Michael Kutz (f_4938), both found the same week. THREE IS A PATTERN WORTH SAYING OUT LOUD: the camps were a place where Jewish refugee and survivor children in postwar Montreal ended up, often enough that three published memoirs mention it in passing, and this project has no institutional record of it at all. AND 1947 SITS INSIDE THE POSTWAR GAP -- history/postwar-gap.md covers 1947-1958, from which almost nothing survives. NOT READ: the book is lending-restricted and this is one caption. Whether Ney went once or every summer, how he got there, and who paid are all unknown.]",
       "sources": [
-        "src_ney_w_hour_2014"
+        "src_ney_w_hour_2014",
+        "src_azrieli_w_hour_page_2026"
       ],
       "confidence": "stated",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_068"
+      ],
       "added_version": "8.41",
       "added_by": "manual"
     },
@@ -93627,6 +93630,27 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.68",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5232",
+      "category": "people",
+      "date_ref": "1948",
+      "entities": [
+        "Arthur Ney",
+        "Camp Otoreke",
+        "Azrieli Foundation",
+        "Montreal"
+      ],
+      "claim": "ARTHUR NEY CAME TO CANADA IN 1948, WHICH BREAKS THE DATE THIS PROJECT PUT ON HIS OTOREKE PHOTOGRAPH. The Azrieli Foundation's own publisher page for W Hour gives, in its 'At a Glance' block: 'Poland / Warsaw ghetto / Warsaw Ghetto Uprising / Hidden child / Passing-false identity / Warsaw City Uprising / Postwar France / Arrived in Canada in 1948'. Independent biographical summaries give him as born in Warsaw on 25 June 1930, coming to Canada in 1948 and settling in Montreal, where he later sold furniture and spoke to students about the war. THE PAGE OFFERS NO FULL TEXT: its excerpt is a 1944 Warsaw chapter, and it links to Amazon and Second Story Press. So the memoir's Canadian chapters remain unread here and the Otoreke photograph remains a caption seen only through a search-inside snippet. WHAT THIS CHANGES: postwar-gap.md called him 'a seventeen-year-old survivor newly arrived in Canada' at camp 'in the first summer of this gap'. That was an inference of this project's own, built on a year the snippet does not securely attach to the Otoreke photograph, and it is corrected in place. WHAT IT DOES NOT CHANGE: he was at Camp Otoreke, and the three-memoir pattern stands.",
+      "sources": [
+        "src_azrieli_w_hour_page_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [
+        "c_068"
+      ],
+      "added_version": "8.69",
       "added_by": "ralph_loop"
     }
   ]

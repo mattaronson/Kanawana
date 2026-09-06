@@ -30295,7 +30295,23 @@
       "notes": "Fifteen accessions fetched RAW and searched, not read through a summarizer. Names a 1970s Kanawana brochure (78-006 Box 24 F25), a folder titled 'YMCA - Montreal' (84-019 Box 1 F10), interview TRANSCRIPTS (84-019 Box 2 F4), the QCA Minimum Standards 1970 and Directories 1967/1969-1973 (78-006 Box 21 F11-12), and the clean nulls. See f_5212.",
       "read_state": "read",
       "read_state_basis": "read:fifteen finding aids fetched raw and searched 2026-09-06; the records themselves are not digitized"
+    },
+    {
+      "source_id": "src_azrieli_w_hour_page_2026",
+      "type": "web",
+      "title": "The Azrieli Foundation, Holocaust Survivor Memoirs Program — publisher page for Arthur Ney, W Hour",
+      "date": "2026-09-06",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://memoirs.azrielifoundation.org/titles/w-hour/",
+      "cache_path": "sources/cache/azrieli/2026-09-06-w-hour-publisher-page.txt",
+      "char_count": 8691,
+      "ingested_at": "2026-09-06T23:40:00Z",
+      "extracted": true,
+      "extraction_version": "8.69",
+      "reliability": "secondary",
+      "notes": "The publisher's own catalogue page for the memoir. Carries the 'At a Glance' block, which includes 'Arrived in Canada in 1948', and an excerpt from a 1944 Warsaw chapter. No full text offered."
     }
   ],
-  "source_count": 1683
+  "source_count": 1684
 }
