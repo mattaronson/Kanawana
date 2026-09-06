@@ -1,8 +1,8 @@
 {
-  "version": "8.55",
-  "kb_version": "8.55",
+  "version": "8.56",
+  "kb_version": "8.56",
   "migrated_from": "3.3",
-  "fact_count": 5171,
+  "fact_count": 5172,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93215,6 +93215,26 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.55",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5210",
+      "category": "method",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Ontario Camping Association",
+        "Canadian Camping Association",
+        "Trent University Archives",
+        "Marjorie Booth"
+      ],
+      "claim": "THE OCA FONDS FINDING AID AT TRENT, READ WHOLE, AND THE TAPE COLLECTION NOBODY HERE KNEW ABOUT. Ontario Camps Association fonds 72-007, finding aid fetched raw and cached at sources/cache/trent-archives/2026-09-06-oca-fonds-72-007-finding-aid.txt (39,000 characters). **THE TAPES ARE A SEPARATE FONDS AND THIS PROJECT DID NOT HOLD IT.** 72-007's own general note: 'The audio tapes have been physically removed from this fonds and been placed within a new fonds titled CANADIAN CAMPING ASSOCIATION FONDS : SOUND TAPE RECORDINGS (83-002).' That accession number returns ZERO hits across wiki/, kb/facts.json and sources.json before today. It has an ITEM-LEVEL finding aid giving subject, speaker, interviewer, date, medium and permission status for each recording, and it answers p_348's first ask directly. SEARCHED for Kanawana, Otoreke, YMCA, Montreal and Quebec: **exactly one Quebec-connected item.** '83-002/011/008 Subject: INVOLVEMENT WITH NEW BRUNSWICK AND QUEBEC CAMPING ASSOCIATIONS. Involvement as Executive Director of Canadian Camping Association. Speaker(s): BOOTH, MARJORIE. Interviewed by: KAY, ELEANOR. Date: 12 NOVEMBER, 1991. Medium: Cassette tape ... With General worksheet and two 4\"X6\" colour photographs.' Marjorie Booth is already in this wiki twice over -- CCA executive director, and director of the Montreal YWCA's Camp Oolahwan in the late 1970s. NO KANAWANA, NO OTOREKE, NO YMCA AND NO MONTREAL ANYWHERE ELSE in the collection's finding aid. ACCESS CAVEAT IN THE FONDS' OWN WORDS: 'In some cases, interviewers have not secured copyright releases from the interviewees ... All questions of copyright remain the responsibility of the researcher.' **AND THE CENTENARY JOURNEY IS TWELVE FOLDERS, NOT TWO.** history/centennial-1967.md names 'Trent University Archives, OCA fonds 72-007, Box 6, files 12-13 (Centenary Journey administration)'. The finding aid has BOX 6 FOLDERS 12 THROUGH 19 AND BOX 7 FOLDERS 1 THROUGH 4 at least, and TRIP LOGS ARE NAMED IN THREE OF THEM: F12 'personnel data sheets, TRIP LOGS, area histories and trip reports', F13 'personnel lists, correspondence, TRIP LOGS', F15 'routes, schedules, LOGS, etc.' Also F17 'photographs; articles on Quetico and the Peterborough canoe', F19 'historical essays on canoe routes (See also ROLLED MAP OF CENTENARY ROUTE IN MAP COLLECTION)'. That is p_337's target -- Kanawana's own trip log, if it survives, is in one of those three folders or in the Quebec material. ALSO WORTH NAMING: **Box 9 Folder 1, \"'Agency Liaison' material, FROM THE QUEBEC SECTION, Canadian Camping Association - correspondence, papers, 1960-1962\"**; and a Northway item, 'Report of a trip to 28 camps in Ontario and Quebec (Northway and Gibson)'. The fonds points onward to 80-022, the M. L. NORTHWAY FONDS. WHAT WAS ALREADY HELD, checked before writing: the 1940 Kanawana brochure in Box 1 Folder 5 is recorded in canadian-camping-movement.md's open questions, with the same box and folder. Ninth time today the destination check has caught something already in this project.",
+      "sources": [
+        "src_trent_oca_fonds_72_007",
+        "src_trent_cca_sound_tapes_83_002"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.56",
       "added_by": "manual"
     }
   ]

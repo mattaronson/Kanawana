@@ -30241,7 +30241,25 @@
       "notes": "Found 2026-09-06 under p_430 by the index-form query 'Charlton, R. L.'. NOT READ: the benefactors page reconstructed from four overlapping Open Library search-inside queries. Lists, in adjacent lines, the Life Benefactors (Charles Cushing, Robertson Macaulay, T. B. Macaulay, James Cochrane) and the 1894-95 Benefactors (Chas. Alexander, R. L. Charlton, H. B. Ames, Robt. Cowan, Dr. Armstrong, John Dougall & Son). See f_5206.",
       "read_state": "snippet",
       "read_state_basis": "snippet:one-benefactors-page-reconstructed-from-four-overlapping-queries-item-not-read"
+    },
+    {
+      "source_id": "src_trent_cca_sound_tapes_83_002",
+      "type": "catalog_reference",
+      "title": "Canadian Camping Association fonds: Sound Tape Recordings, Trent University Archives, 83-002 — finding aid",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://archives.trentu.ca/index.php/83-002",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v8.56",
+      "reliability": "secondary",
+      "notes": "NEW TO THIS PROJECT 2026-09-06 — zero prior hits across wiki/, kb/facts.json and sources.json. The taped interviews of camping personalities, physically removed from the OCA fonds 72-007 into their own artificial collection, with an ITEM-LEVEL finding aid giving subject, speakers, interviewer, date, medium and permission status. Searched for Kanawana, Otoreke, YMCA, Montreal and Quebec: ONE Quebec-connected item, 83-002/011/008, Marjorie Booth. See f_5210.",
+      "read_state": "partial",
+      "read_state_basis": "partial:2026-09-06 the item-level finding aid fetched raw (45,000 characters) and searched for Kanawana, Otoreke, YMCA, Montreal and Quebec; NOT read entry by entry. The recordings themselves are not digitized."
     }
   ],
-  "source_count": 1680
+  "source_count": 1681
 }
