@@ -1391,6 +1391,12 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
         }
       ],
       "ralph_loops_completed": 2,
@@ -1645,6 +1651,7 @@
         "morgan-carter",
         "nelson-mcewen",
         "nicolas-garcia",
+        "people/jared-macsween",
         "pip-alumni-award",
         "ralph-dawson",
         "rh-hanagan",
@@ -1656,7 +1663,7 @@
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 15685,
+      "word_count": 15776,
       "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article. | 2026-07-11: Added wiki-links to Gary White, David Leduc, Kate Taylor, Marie-Pierre Lacasse table rows and Related Articles, pointing to new standalone institutional-role-director articles. | 2026-07-11: Added wiki-links to Greig Macdiarmid, Francois Dauphin, Nicolas Garcia, Morgan Carter, Arleen Boyer, Justin Caldwell (Two-Tier Era + Staff by Era tables) and Matt/Dan Aronson (Related Articles), per the operator's revised C5 policy.",
       "tags": {
         "era": [
@@ -3461,6 +3468,12 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
         }
       ],
       "ralph_loops_completed": 1,
@@ -3546,6 +3559,7 @@
       "open_questions": 4,
       "cross_links": [
         "directors-index",
+        "people/jared-macsween",
         "sources-index",
         "stuart-mclean",
         "traditions-and-culture",
@@ -10508,7 +10522,48 @@
       ],
       "file_id": null,
       "word_count": 5026
+    },
+    {
+      "article_id": "jared-macsween",
+      "title": "Jared MacSween",
+      "wiki_folder": "people",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_4805",
+        "f_4806",
+        "f_4810",
+        "f_4850"
+      ],
+      "sources_cited": [
+        "src_ymca_quebec_pip_macsween_2026",
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "traditions/pip-alumni-award",
+        "people/bruce-netherwood",
+        "people/notable-alumni/carol-skinner",
+        "people/hedley-dimock",
+        "connections/related-camps/points-of-contact"
+      ],
+      "file_id": null,
+      "word_count": 992,
+      "tags": [
+        "people",
+        "pip-award",
+        "ymca-camping"
+      ],
+      "notes": "Created 2026-09-05 (p_414) as a stub. One carrying source -- the 2026 Pip release -- plus one negative from the plaque corpus. Spawned on the camp record (camper 1982-86, staff 1987-91), which clears the article-spawning threshold before the later career is considered. Placed in core people/ rather than notable-alumni/ on CLAUDE.md's folder test: his camp role is the reason he is here, and he would not carry a Wikipedia-notable article without it."
     }
   ],
-  "article_count": 104
+  "article_count": 105
 }

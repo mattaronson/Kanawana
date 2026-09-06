@@ -1,7 +1,7 @@
 # Directors and Staff of Camp Kanawana
 
 *Status: E1-reviewed | Sources: 35*
-*Last Updated: 2026-08-14*
+*Last Updated: 2026-09-05*
 
 ## Summary
 
@@ -194,7 +194,11 @@ The "Pip" Alumni Award, named after Philip "Pip" Caddell (1913-2004, camper 1928
 | Carol Skinner | 1990-1995 | ALS advocate | 2016 |
 | Chris Adam | unknown | Environmentalist, teacher | 2017 |
 | Marina Sharpe | unknown | Refugee advocate | 2018 |
+| Dr. Amy Ornstein | staff, years unestablished | Professor of Pediatrics, Dalhousie; Medical Director, IWK START team | 2019 |
+| Dr. Karl Cernovich | unknown | "A leader in emergency medicine" | 2020-2023, exact year unestablished |
 | Dr. James Orbinski | 1980s-1990s | Humanitarian physician, MSF president | 2024 |
+| Alexandra Olshefsky | camper through 2002; Ranger and Knight of Kanawana, 2002 | Public defender, community volunteer | 2025 |
+| [[people/jared-macsween\|Jared MacSween]] | camper 1982-86, staff 1987-91 | General Manager, YMCA Cedar Glen Outdoor Centre; Manager of Training, YMCA Ontario Regional Development Centre 2012-24 | 2026 |
 
 **[[people/notable-alumni/rob-braide|Rob Braide]]** (camper for 9 summers, ending by 1967; Vice President and General Manager of CJAD and CJFM-FM (Mix 96) from 1987 under Standard Broadcasting, earlier Program Director at CHOM-FM. (Corrected 2026-08-14: previously recorded here as "President of Standard Broadcasting Corporation", which he never was — that company was led by Allan Slaight, with Gary Slaight president of Standard Radio from 1987.)) is a notable alumnus documented via a 2007 camp testimonial, though not (so far as documented) a Pip Award recipient.
 
@@ -279,6 +283,7 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 - [[people/howie-langille|Howie Langille]]
 - [[people/ross-bannerman|Ross Bannerman]]
 - [[people/bruce-netherwood|Bruce Netherwood]]
+- [[people/jared-macsween|Jared MacSween]]
 - [[people/roy-locke|Roy D. Locke]]
 - [[people/murray-shantz|Murray B. Shantz]]
 - [[people/geoff-anderson|Geoff Anderson]]
