@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 49*
+*Status: E1-reviewed | Sources: 50*
 *Last Updated: 2026-09-06 (the camp's 1956 purchase of ninety mainland acres, the first acreage figure this article has had)*
 
 ## Overview
@@ -306,6 +306,29 @@ ended 31 May 1966. That does not make the blog reliable, but the Huppfield and M
 now worth hunting in the wartime and post-war reports rather than leaving as blog-only. (The same
 volume's committee list has "Otoreke - M. LaBrooy," which is a committee chairmanship, not a
 directorship.)
+
+### Two conferences in the summer of 1967, and a post office of its own
+
+The Concordia finding aid puts a **Young Adult Centennial Conference** at Otoreke from 8 to 15 July
+1967.^4 An Internet Archive book sweep on the camp's name turned up a second one five weeks later, in
+a place nobody would have looked: the **United Church of Canada's Board of Evangelism and Social
+Service**, in its annual report for that year, records that a "meeting was held in conjunction with
+the '**Summer Event**' of **Kairos** at Camp Otoreke in the Laurentians, **August 29th–September
+2nd**," on "theology relevant to **technology and automation**," and that "at Otoreke we held a joint
+consultation with the **Kairos Executive**."^50
+
+Kairos is already in this project's record as one of the outside groups using **Kanawana** in 1969.
+This puts the same body at Otoreke two years earlier, on named dates, with a national church board's
+own executive meeting there. Two conferences at this camp in one summer, from two different bodies,
+and neither was found in the association's own papers.
+
+**And Otoreke had a post office, which closed the way Kanawana's did.** The same sweep found the camp
+in the gazetteers. The McGraw-Hill postal directory series — the one this project used to bracket
+Kanawana's office — carries "**Otoreke, PQ (S), see … St-Adolphe-de-Howard**", the closed-and-renamed
+cross-reference form, and lists it in the railway postal lines tables; the *Canadian Almanac* has
+"Otoreke … Argenteuil … Ste. Agathe."^50 A 1985 Quebec gazetteer still lists "Otoreke (Argenteuil)"
+as a place, three years after the camp shut. **The dates are not established here** — bracketing
+Kanawana's office took a run of dated almanacs, and that work has not been done for this one.
 
 ### 1976: a subsidised holiday for low-income families, on four outside funders
 
@@ -895,6 +918,7 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 47. YMCA of Montreal annual reports for **1947** and **1950** [src_ymf_sgw_ymca_annual_report_1947, src_ymf_sgw_ymca_annual_report_1950], the staff-appointment lists. Read 2026-09-06 under p_454. See [f_5189].
 48. YMCA of Montreal annual reports for the years ending 31 March **1931**, **1941** and **1942** [src_ymf_sgw_ymca_annual_report_1931, src_ymf_sgw_ymca_annual_report_1941, src_ymf_sgw_ymca_annual_report_1942] — the Camp Otoreke paragraphs, the ski lodge item and the statistical summaries, covering the summers of 1930, 1940 and 1941. Read 2026-09-06 under p_454. See [f_5190], [f_5191].
 49. YMCA of Montreal annual report for **1969** [src_ymf_sgw_ymca_annual_report_1969], the Camp Otoreke item, **both columns** — the French names a neighbourhood the English does not. Read 2026-09-06 under p_454. See [f_5192].
+50. United Church of Canada, Board of Evangelism and Social Service, **Annual Report 1967, vol. 42** [src_ucc_evangelism_social_service_1967], and the McGraw-Hill and *Canadian Almanac* postal directories [src_mcgraw_hill_directory_almanac_canada_1960s, src_canadian_almanac_1917_1918]. Found 2026-09-06 by an Open Library search-inside sweep on "Otoreke"; search highlights only, none of these volumes read here. See [f_5199], [f_5200].
 
 ## Research Notes
 

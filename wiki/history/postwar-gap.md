@@ -1,6 +1,6 @@
 # The Postwar Gap (1947–1967)
 
-*Status: draft | Sources: 11*
+*Status: draft | Sources: 12*
 *Last Updated: 2026-09-06 (a camper's letters from the 1950s, described in a published memoir)*
 
 ## Overview
@@ -40,6 +40,23 @@ person who received them remembered them as long and detailed and put them in a 
 directors' reports, annual reports and plaques for this camp; it holds almost nothing written by a
 camper. Those letters, if any survive in a family's papers, are exactly the missing kind of document,
 and this is the first evidence that they were ever written.
+
+**A third survivor memoir, and the first with a photograph.** Arthur Ney's *W Hour* — the title is
+the hour the Warsaw Uprising began — carries a caption: "**1947. Summer vacation with friends at ymca
+Camp Otoreke in the Laurentians. Arthur is in front, centre.**"^12 Ney was born in 1930, so this is a
+seventeen-year-old survivor newly arrived in Canada, photographed with friends at the association's
+camp on Lac Saint-Joseph in the first summer of this gap.
+
+**Three published memoirs now put Jewish refugee and survivor children at a Montreal YMCA camp in
+these years** — Judy Abrams, Michael Kutz and now Ney, all in the Azrieli Foundation's series, all
+found within a week of each other and none of them looking for a camp. That is a pattern rather than
+a coincidence, and **this project has no institutional record of it at all**: no camp document held
+here mentions refugee or survivor children, and the annual reports of these years say nothing. The
+memoirs are the only evidence, and they are evidence of something the camp's own paperwork did not
+think to write down.
+
+The book is lending-restricted and has not been read; this is one caption. Whether Ney went once or
+every summer, how he got there and who paid are unknown.
 
 ## A. Ross Seaman's Directorship (1959–1967)
 
@@ -93,6 +110,7 @@ In 1960–1961, Hedley Gardner Dimock — Coordinator of Staff Development and T
 9. *Kamp Kanawana Annual Report 1969* [src_ia_kanawana_report_1969]; *Kamp Kanawana Director's Report 1976* [src_ia_kanawana_directors_report_1976].
 10. "Personality Profile: W. E. (Ted) Yard (1919-1983)" — interview with Shirley Yard and Ted Yard Jr., *Canadian Camping Magazine* Vol. 38 No. 2 (Fall 1986), pp. 10-15 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 159).
 11. Judy Abrams, *Retenue par un fil / Une question de chance* (Azrieli Foundation, French edition of *Tenuous Threads*, 2013), Internet Archive scan leaf 254 [src_abrams_retenue_par_un_fil]. **One passage only**, reconstructed 2026-09-06 from five overlapping Open Library search-inside queries; the book is lending-restricted and has not been read. The reconstruction and its queries are cached at `sources/cache/openlibrary-search-inside/2026-09-06-abrams-kutz-memoir-passages.txt`. See [f_4937].
+12. Arthur Ney, *W Hour* (Toronto: The Azrieli Foundation, 2014) [src_ney_w_hour_2014]. **One photograph caption only**, found 2026-09-06 by an Open Library search-inside sweep on "Otoreke"; the book is lending-restricted and has not been read. See [f_5198].
 
 ## Research Notes
 

@@ -1,6 +1,6 @@
 # Kanawana in Media and Culture
 
-*Status: E1-reviewed | Sources: 25*
+*Status: E1-reviewed | Sources: 26*
 *Last Updated: 2026-09-06 (the 1938 CBM broadcast, read past its set list at last)*
 
 ## Overview
@@ -77,6 +77,26 @@ Kamp Otoreke — Group of people on a log bridge on their way to Chapel Island."
 ## Literature
 
 ***Jane, le renard et moi*** **(2012).** The graphic novel *Jane, le renard et moi* (*Jane, the Fox and Me*) by Fanny Britt (text) and Isabelle Arsenault (illustration) is set partly at Camp Kanawana.^4 The protagonist, Hélène, dreads an English immersion class trip to Camp Kanawana (Lac Kanawana), where she faces social difficulties with her classmates. On the second-to-last evening, while sitting on the porch of her cabin, a fox approaches her — a pivotal encounter in the narrative. The book won the Governor General's Literary Award for Children's Illustration (French), the Joe Shuster Award (Writer and Artist), and was named a *New York Times* Best Illustrated Children's Book.^5 An English translation by Susan Ouriou was published by Groundwood Books in 2013. The camp's use as an English immersion destination in the novel reflects its real-world role hosting school groups.
+
+## Art
+
+**A print of the camp hung in the Art Association of Montreal's spring exhibition of 1936.** Evelyn de
+R. McMann's catalogue of those exhibitions lists, under **Robertson, Doris**: "1936  565  **Camp
+Otoreke, Laurentians**  lino block  **$7**."^26 Her name is not in the line itself; six overlapping
+search queries walked backwards from it to reach her, and what fixed the surname was the next artist
+alphabetically.
+
+Doris Robertson was a Montreal printmaker who exhibited at the Association from 1933 to 1946, giving
+her address as 1509 Bishop Street, then 3555 University, then 1461 Mountain. Her other listed works
+are woodcuts and linocuts: *Moving in* and *Whither* and *Supplication* in 1933, *Native carrying
+fruit* in 1935, *Heavyweight* alongside the camp block in 1936, *Indian and totem* in 1938, and
+*Laurentian window* in 1946 at $100.^26
+
+**This is the earliest depiction of either Montreal YMCA camp this project holds in any medium but
+photography, and the only one exhibited publicly as art.** Nothing here says whether Robertson had
+any connection to the camp, whether the block or an impression of it survives, or where it might be.
+The Montreal Museum of Fine Arts' own collection, the National Gallery's, and the print trade are
+where to ask.
 
 ## Radio
 
@@ -204,6 +224,7 @@ To which can be added a fifth of a different kind: **Armand B. Ball, *Basic Camp
 23. Jan Elvin, *The Box from Braunau: In Search of My Father's War* (New York: AMACOM, 2009) [src_elvin_box_from_braunau_2009]. See [f_4952].
 24. Janet Torge, *Dear Sam: Grieving the Death of My Son* (iUniverse, 2007) [src_torge_dear_sam_2007]. See [f_4953].
 25. "The Voice of Youth — Feature Programme, Thur. 10 Nov. 1938 — CBM", full script [src_ymf_1938_11_10_the_voice_of_youth], and the covering letter "Kanawana Goes on the Air" of 7 November 1938 [src_ymf_1938_11_07_kanawana_goes_on_the_air], both in the Concordia-digitized YMCA of Montreal fonds. **Both had been in this repo's cache, labelled *skimmed*, and read only for the set list**; the skit, its cast, the rehearsal room, the letterhead and the Sunday attendance figure were read on 2026-09-06 under p_441. See [f_5002], and [f_2112] for the music.
+26. Evelyn de R. McMann, *Montreal Museum of Fine Arts, formerly Art Association of Montreal: Spring Exhibitions 1880-1970* (University of Toronto Press, 1988) [src_mcmann_aam_spring_exhibitions_1988]. Doris Robertson's entry reconstructed 2026-09-06 from six overlapping Open Library search-inside queries walked backwards from the Camp Otoreke line to her name, which the original hit did not contain; the book is lending-restricted and has not been read. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-otoreke-corpus-sweep.txt`. See [f_5197].
 
 *All four are lending-restricted on the Internet Archive and none has been read; each passage was reconstructed from overlapping Open Library search-inside queries and is cached with its queries under `sources/cache/openlibrary-search-inside/`.*
 

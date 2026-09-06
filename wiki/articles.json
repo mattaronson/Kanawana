@@ -930,7 +930,8 @@
         "f_1818",
         "f_1851",
         "f_1852",
-        "f_1366"
+        "f_1366",
+        "f_5196"
       ],
       "sources_cited": [
         "src_concordia_12L",
@@ -956,7 +957,8 @@
         "src_ymf_sgw_ymca_annual_report_1949",
         "src_cache_sgw_ymca_annual_report_1967",
         "src_ymf_news_release_1969_05_13_202501",
-        "src_ymf_sgw_ymca_annual_report_1968"
+        "src_ymf_sgw_ymca_annual_report_1968",
+        "src_cyc_youth_and_jobs_1945"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -971,7 +973,7 @@
         "timeline-overview"
       ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
-      "word_count": 6800,
+      "word_count": 7115,
       "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_001 editorial-resolution narrative into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H2 into Research Notes. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -3655,7 +3657,9 @@
         "f_5189",
         "f_5190",
         "f_5191",
-        "f_5192"
+        "f_5192",
+        "f_5199",
+        "f_5200"
       ],
       "sources_cited": [
         "src_concordia_mirror_12c01",
@@ -3700,7 +3704,10 @@
         "src_ymf_sgw_ymca_annual_report_1931",
         "src_ymf_sgw_ymca_annual_report_1941",
         "src_ymf_sgw_ymca_annual_report_1942",
-        "src_ymf_sgw_ymca_annual_report_1969"
+        "src_ymf_sgw_ymca_annual_report_1969",
+        "src_ucc_evangelism_social_service_1967",
+        "src_mcgraw_hill_directory_almanac_canada_1960s",
+        "src_canadian_almanac_1917_1918"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -3713,7 +3720,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 13794,
+      "word_count": 14131,
       "notes": "E1 REVIEW (2026-02-19): Removed unverifiable 'Google Maps' source and '20 km' distance claim. Expanded 'Multiple sources' citation into discrete references (Facts sheet + McMorris). Removed src_oral_aronson (no inline citation). Removed unsourced bullet. Fixed postcard inference. Fixed closure section process language. Split 1967 conference/reports sentence. Renumbered sources 1-10. Added camp-otoreke cross-link to centennial-1967. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_008 editorial-resolution narrative into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -7253,7 +7260,8 @@
         "f_1891",
         "f_1892",
         "f_1897",
-        "f_1899"
+        "f_1899",
+        "f_5197"
       ],
       "sources_cited": [
         "src_cfcf_1941",
@@ -7263,7 +7271,8 @@
         "src_elvin_box_from_braunau_2009",
         "src_torge_dear_sam_2007",
         "src_ymf_1938_11_10_the_voice_of_youth",
-        "src_ymf_1938_11_07_kanawana_goes_on_the_air"
+        "src_ymf_1938_11_07_kanawana_goes_on_the_air",
+        "src_mcmann_aam_spring_exhibitions_1988"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -7277,7 +7286,7 @@
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 3465,
+      "word_count": 3740,
       "tags": {
         "era": [
           "1960s",
@@ -9265,7 +9274,9 @@
         }
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": [],
+      "kb_facts_used": [
+        "f_5198"
+      ],
       "sources_cited": [
         "src_abrams_retenue_par_un_fil",
         "src_camp_perrot_1959_fresh_look",
@@ -9279,7 +9290,8 @@
         "src_ia_kanawana_report_1969",
         "src_ia_ymca_annual_report_1966_67",
         "src_ia_ymca_montreal_annual_reports_collection",
-        "src_mcmorris_thesis"
+        "src_mcmorris_thesis",
+        "src_ney_w_hour_2014"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -9294,7 +9306,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 2309,
+      "word_count": 2559,
       "notes": "2026-07-11: Workstream C4 spawn (2 of 4). Connective-narrative synthesis, no new research conducted. Directly addresses CLAUDE.md-named \"1947-2003 director gap\" for its earliest, thinnest span. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
       "tags": {
         "era": [

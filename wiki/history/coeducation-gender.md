@@ -49,6 +49,28 @@ He also records how the first step toward mixed camping was received. When Taylo
 
 None of this is a Kanawana document and none of it names the camp. Its value is as the surrounding weather: it dates the exclusion of women even from camp kitchens to living memory, it puts the arrival of girls' camping in Canada around 1914-15, and it shows that the resistance the 1965 recommendation ran into had a long institutional history behind it.
 
+## A national commission printed the camp's view on equal pay, in 1945
+
+Kanawana's own coeducation is a 1960s story. The association's *other* camp had gone coeducational in
+1935 on its own staff's proposal — see [[site/camp-otoreke|Camp Otoreke]] — and ten years later
+something from that camp reached a national inquiry.
+
+The **Canadian Youth Commission**, the wartime body that gathered briefs from youth organisations
+across the country on what should happen to young Canadians after the war, published *Youth & Jobs in
+Canada* in 1945. Two of the recommendations in its text carry a parenthesis naming where they came
+from, and the parenthesis is this: "encourage public works (when needed) to control capital
+investments, etc. **(Camp Otoreke, Montreal, Y.M.C.A.)**", and "... that there should be **equal pay
+for equal work as between the sexes**. **(Camp Otoreke, Y.M.C.A., Montreal.)**"^cyc
+
+**What that is evidence of, and what it is not.** A group associated with the Montreal YMCA's
+coeducational camp put equal pay for equal work to a national commission in or before 1945 — two
+decades before anything else in this article, and in the same decade the camp's own reports were
+still calling Mrs. McGerrigle the "hostess." What the source does not give is **who**. The
+parenthesis names the camp, not a person or a committee, and the report is lending-restricted: these
+are two search highlights, not a reading. Whether this was the camp's staff, a young adults'
+discussion group meeting there, or a conference the camp merely hosted changes what can be claimed,
+and the book's own list of contributing groups is where that would be settled.
+
 ## The Pathfinder Connection (1965)
 
 The 1965 Concordia archives listing includes "The Pathfinder program Summer Summary." The interpretation of this document is complicated by the fact that "Pathfinders" was introduced at Kanawana in 1959 as one of four new section names (Pioneers, Woodsmen, Coureurs de Bois, Pathfinders) replacing the older Bantam/Juvenile/Junior/Senior system. In 1959, the camp was still boys-only, meaning Pathfinders was originally a boys' section name for campers aged 14-15. The 1965 summary therefore likely refers to the existing boys' Pathfinder section, not necessarily to a girls' program.
@@ -195,6 +217,7 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 
 ## Sources
 
+- **cyc** — Canadian Youth Commission, *Youth & Jobs in Canada* (Toronto: The Ryerson Press, 1945) [src_cyc_youth_and_jobs_1945]. **Two search highlights only**, found 2026-09-06 by an Open Library search-inside sweep on "Otoreke"; the book is lending-restricted and has not been read. Cached with the sweep at `sources/cache/openlibrary-search-inside/2026-09-06-otoreke-corpus-sweep.txt`. See [f_5196].
 - **ar36** — YMCA of Montreal Annual Report for the year ending 31 March 1936 [src_cache_sgw_ymca_annual_report_1936], covering the camping season of **1935**. Read for its camps section 2026-09-06 under p_441. See [f_5071], and [f_5039] on these reports' 31 March year-end.
 - McMorris, Grace. "An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967." MA thesis, Concordia University, 2023. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
 - YMCA Quebec. "The Kanawana Story." https://www.ymcaquebec.org/en/summer-camp-kanawana/history
