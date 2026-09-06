@@ -13444,8 +13444,8 @@
       "extracted": false,
       "extraction_version": "v5.60",
       "reliability": "primary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
+      "notes": "[READ 2026-09-06 under p_441; read_state corrected from 'skimmed'. It carried the collection's blanket note and was cited by no article.] THE EARLIEST OF THE CFCF BROADCASTS AND THE ONLY ONE SURVIVING AS TEXT -- the Concordia Archives describe the series as running 1936 to 1941 and only the 1939 and 1941 recordings survive as audio. A full description of the camp: the boys' camp at St. Adolphe de Howard opened 'as a branch of their men's camp'; the Lake Kanawana site purchased in 1909, 'twenty-seven years' before; two playfields either side of the lake, an outdoor chapel on the shore, the Council Ring behind it on the hill; a director who is 'one of the senior secretaries of the Montreal Y.M.C.A.', Section Directors, THIRTY-FIVE counselors each with six or seven boys, a McGill-graduate doctor in camp at all times, and a chef of ten years' standing; the daily soap bath and inspection; interest groups in basketry, woodworking, leatherwork, metalcraft, nature study, photography, dramatics, bird lore, campcraft, woodcraft, canoeing and boating; Life Saving to National Council of the YMCA certificates; and the long water shute from the top of the hill into the lake. See f_5003.",
+      "read_state": "extracted",
       "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
     },
     {

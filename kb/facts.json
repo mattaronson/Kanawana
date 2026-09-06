@@ -1,8 +1,8 @@
 {
-  "version": "7.24",
-  "kb_version": "7.24",
+  "version": "7.25",
+  "kb_version": "7.25",
   "migrated_from": "3.3",
-  "fact_count": 4964,
+  "fact_count": 4965,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -89334,6 +89334,26 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5003",
+      "category": "programs",
+      "date_ref": "1936",
+      "entities": [
+        "Kamp Kanawana",
+        "CFCF",
+        "YMCA of Montreal",
+        "Lake Kanawana",
+        "Saint-Adolphe-d'Howard"
+      ],
+      "claim": "A 1936 CFCF BROADCAST SCRIPT DESCRIBES THE CAMP IN FULL, AND IT HAS NEVER BEEN READ. The script is in this project's cache, labelled skimmed, and is cited by no article. This project's media article records the Concordia Archives as describing CFCF broadcasts promoting Kanawana from 1936 to 1941 while only the 1939 and 1941 recordings survive as audio -- THE 1936 SCRIPT SURVIVES AS TEXT. WHAT IT SAYS. ORIGINS: 'Many years ago the Montreal Young Men's Christian Association recognized this urge on the part of boys, and opened ONE OF THE FIRST SUMMER CAMPS FOR BOYS ON THE NORTH AMERICAN CONTINENT at St. Adolphe de Howard AS A BRANCH OF THEIR MEN'S CAMP. In 1909 the demand for accommodation was so great that a beautiful site on the shores of Lake Kanawana in the Laurentians was purchased, and for TWENTY-SEVEN YEARS Kanawana has been the summer home of thousands of Montreal boys.' The boys' camp described as a BRANCH OF THE MEN'S CAMP corroborates, from 1936, the two-stream structure the 1894-95 annual report shows at Lake Saint-Joseph (f_2141). The 1909 purchase and 'twenty-seven years' are consistent with each other and with a 1910 opening. THE SITE: 'Two large playfields, one on either side of the lake'; an OUTDOOR CHAPEL 'off in the woods, along the shore of the lake' where service is held each Sunday morning; and 'behind the chapel, on the hill, is the COUNCIL RING'. THE STAFF: 'The camp director, who has charge of all activities, is ONE OF THE SENIOR SECRETARIES OF THE MONTREAL Y.M.C.A.'; Section Directors 'with wide experience in working with boys either in the Y.M.C.A. or in school'; and 'a group of THIRTY-FIVE trained and qualified counselors, each in charge of a tent or cabin group of SIX OR SEVEN BOYS. Many of these counselors are old Kanawana boys.' A camp doctor 'in camp at all times... a graduate of McGill University'. And a chef who 'has been at Kanawana for the past TEN YEARS' -- i.e. since about 1926 -- cooking meals 'as drawn up by a qualified dietitian'. THE DAY: rising bell, 'down to the lake for their wash and dip', then THE DAILY SOAP BATH, 'an important feature of the day's programme', followed by an inspection for cuts, bruises or sores reported straight to the doctor; breakfast; a ten-minute chapel service taken by a member of the staff; forty-five minutes cleaning dining hall, tents and campus; then interest groups. THE INTEREST GROUPS: 'basketry, woodworking, leatherwork, metalcraft, nature study, photography, dramatics, BIRD LORE, campcraft, woodcraft, canoeing, boating, and many others' -- BASKETRY STILL ON THE LIST IN 1936, fourteen years after the 1922 brochure has F. H. Spinney teaching it. Boys also built cabins, lean-tos, trail bridges and boats: 'until the great day comes when the boat is launched and named'. SWIMMING: separate instruction for beginners, improvers and advanced, elementary and fancy diving, and Life Saving 'leading to the certificates of the National Council of the Y.M.C.A.'; then General Swim, with two diving boards, one high and one low, and 'THE LONG WATER SHUTE, where boys slide from the top of the hill down into the water with a mighty splash'. Water shute, bird lore, metalcraft, leatherwork, playfields, the soap bath and the outdoor chapel all occur NOWHERE ELSE in this project.",
+      "sources": [
+        "src_ymf_1936_kamp_kanawana_broadcast_station_cfcf"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.25",
       "added_by": "ralph_loop"
     }
   ]

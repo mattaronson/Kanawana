@@ -6238,3 +6238,42 @@ it by matching capitalised phrases was useless, matching "New York" and "Park Av
 that works is per-document and takes a minute**: grep strings distinctive to the item. *Voice of
 Youth* was diagnosed by checking `Morry Cross`, `Willingdon Room` and `John Houseman` against
 `Farewell Rock` and `Sandy Spence`.
+
+### p_441's first item: a whole day at camp, from 1936, never read
+
+The 1936 CFCF broadcast script was labelled *skimmed* and cited by no article. Tested first by
+the per-document method — "water shute", "bird lore", "metalcraft", "leatherwork", "playfields",
+"soap bath", "senior secretaries", all zero in the KB and the wiki — and then read whole.
+
+**It is the earliest of the CFCF broadcasts and the only one surviving as text.** The media
+article already recorded that Concordia describes the series as running 1936 to 1941 while only
+the 1939 and 1941 recordings survive as audio. The 1936 one survives as a script, in this repo.
+
+It opens with the camp's own account of its origins: the YMCA "opened one of the first summer
+camps for boys on the North American continent at St. Adolphe de Howard **as a branch of their
+men's camp**" — which is, from 1936, the two-stream structure the 1894-95 annual report shows at
+Lake Saint-Joseph — and "in 1909 the demand for accommodation was so great that a beautiful site
+on the shores of Lake Kanawana in the Laurentians was purchased", twenty-seven years before.
+
+Then a whole day. The rising bell and a dip in the lake; **the daily soap bath**, "an important
+feature of the day's programme", and an inspection for cuts and sores reported straight to the
+doctor; breakfast, at which "it is very seldom that a second call is needed"; a ten-minute chapel
+service; three-quarters of an hour making everything "shipshape"; and the interest groups —
+basketry, woodworking, leatherwork, metalcraft, nature study, photography, dramatics, **bird
+lore**, campcraft, woodcraft, canoeing, boating.
+
+**Basketry is still on that list in 1936**, fourteen years after the brochure that has Spinney
+teaching it and twenty-two after he started the class at his own school in Montreal.
+
+Boys built cabins, lean-tos to sleep in across the lake, trail bridges, and boats — "sawing and
+hammering going on at a great rate, until the great day comes when the boat is launched and
+named". Swimming ran in three streams to National Council of the YMCA life-saving certificates,
+and General Swim had two diving boards and **the long water shute, "where boys slide from the top
+of the hill down into the water with a mighty splash"**.
+
+And the staff: a director who "is one of the senior secretaries of the Montreal Y.M.C.A." rather
+than a seasonal appointment, Section Directors, **thirty-five counsellors with six or seven boys
+each**, "many of these counselors ... old Kanawana boys", a McGill-graduate doctor in camp at all
+times, and a chef ten years in post cooking to a dietitian's menus.
+
+One document, from the pile that was supposed to be swept clean.

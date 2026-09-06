@@ -33,6 +33,20 @@ In 1937, the St-Jean Ambulance Association sent a qualified instructor to Kanawa
 
 The Council Ring tradition, analyzed in a separate wiki article, was well established by this era, with its blend of Indigenous-inspired ceremony and YMCA moral instruction forming a central ritual element of camp life.
 
+**A whole day of the camp, from 1936, in the camp's own words.** A CFCF broadcast script of that year — the earliest of a series the Concordia Archives describe as running to 1941, and the only one that survives as text rather than audio — sets out the programme in detail.^cfcf36
+
+The day opened with the rising bell and a trip "down to the lake for their wash and dip", then **the daily soap bath**, "an important feature of the day's programme", followed by an inspection for cuts, bruises or sores, all of them "immediately reported to the doctor". Breakfast, at which "it is very seldom that a second call is needed"; a ten-minute chapel service taken by a member of staff; three-quarters of an hour putting dining hall, tents and campus "shipshape"; and then the **interest groups**:
+
+> basketry, woodworking, leatherwork, metalcraft, nature study, photography, dramatics, **bird lore**, campcraft, woodcraft, canoeing, boating, and many others
+
+**Basketry was still on that list in 1936** — fourteen years after the 1922 brochure records [[people/directors-index|F. H. Spinney]] teaching it, and twenty-two after he started an after-school basketry class at his own Montreal school.
+
+Beyond the set groups, boys built things: "One group may build a cabin in the woods, another a lean-to across the lake, in which they will later sleep." A group deciding a trail bridge needed rebuilding would set out to do it. And some built boats — "sawing and hammering going on at a great rate, until the great day comes when the boat is launched and named, and the proud builders take a trip up the lake."
+
+Swimming was taught in three streams — beginners individually, improvers, and advanced swimmers "anxious to improve their stroke" — with elementary and fancy diving, and Life Saving "leading to the certificates of the National Council of the Y.M.C.A." Then General Swim, with two diving boards, one high and one low, and **the long water shute, "where boys slide from the top of the hill down into the water with a mighty splash"**.
+
+**The staff, the same year.** The camp director "has charge of all activities" and "is one of the senior secretaries of the Montreal Y.M.C.A." — not a seasonal appointment. Under him, Section Directors experienced with boys "either in the Y.M.C.A. or in school", and **thirty-five trained counsellors, each in charge of a tent or cabin group of six or seven boys**, "many of these counselors ... old Kanawana boys". A camp doctor, a McGill graduate with hospital experience, in camp at all times. And a chef who by 1936 had been at Kanawana **ten years**, cooking to menus "drawn up by a qualified dietitian".
+
 In 1947, the Lumbermen and Voyageur Games were introduced, inspired by YMCA Camp Pine Crest's similar tradition (Muskoka, Ontario). The history of the L&V tradition at Pine Crest is documented in the book "Lumbermen & Voyageurs: The YMCA Pine Crest Story.". The L&V Games quickly became Kanawana's signature competitive event, dividing the entire camp into two teams for a multi-day competition. As of 2025, the games have run for 78 editions (with one year skipped, likely 2020 due to COVID-19). The L&V Games are covered in detail in a separate wiki article.
 
 ## The Voyageur and CIT Programmes (1950s-1960s)
@@ -215,6 +229,7 @@ environmental-education positioning without originating from it.
 8. What was the Pathfinder program Summer Summary (1965 archives listing)? Was it the existing boys' section (est. 1959) or something new?
 
 ## Sources
+- CFCF radio broadcast script, 1936, "Kamp Kanawana Broadcast — Station CFCF" [src_ymf_1936_kamp_kanawana_broadcast_station_cfcf], Concordia-digitized YMCA of Montreal fonds. Marked `cfcf36` above. **The earliest of the CFCF series and the only one surviving as text**; it had been in this repo's cache labelled *skimmed*, cited by no article, and was read on 2026-09-06 under p_441. See [f_5003].
 
 - YMCA Kamp Kanawana Facts sheet (undated institutional document).
 - McMorris, Grace. "An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967." MA thesis, Concordia University, 2023. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
