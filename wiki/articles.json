@@ -4122,6 +4122,12 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 134 (Vol. 32 No. 6, December 1980): added Camp Howdy's Camper Care Package as a second, paper-producing route by which a camp's repertoire left the site -- song words, graces and announcements packed into every camper's luggage on the last day -- with the archival point that a camp song sheet can therefore survive in a family's papers when nothing survives in the camp's. Source 22 extended."
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
         }
       ],
       "ralph_loops_completed": 2,
@@ -4163,7 +4169,10 @@
         "f_1817",
         "f_1932",
         "f_1933",
-        "f_1934"
+        "f_1934",
+        "f_2725",
+        "f_4869",
+        "f_4870"
       ],
       "sources_cited": [
         "src_aca_camp_songs_history",
@@ -4199,7 +4208,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 5631,
+      "word_count": 6216,
       "notes": "R1 RALPH completed 2026-02-27. 14 new KB facts. 23 KB facts total. 15 sources. Key findings: Marching Song traced to Alabama Jubilee (1915), lost verses found at Concordia 2006; full 1922 Yo Triumphy cheer; 1923 Gas Bag original songs; 1935 musicale; 1938 choir by Leshley; Kerr song on CD P145/SR0001 (4:30). Blocked on: oral history for section cheers/Grace/campfire repertoire; Concordia archives for song books 1925-1945. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the 'Correction (2026-07-09)' paragraph into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

@@ -1,8 +1,8 @@
 {
-  "version": "6.39",
-  "kb_version": "6.39",
+  "version": "6.40",
+  "kb_version": "6.40",
   "migrated_from": "3.3",
-  "fact_count": 4830,
+  "fact_count": 4832,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -86614,6 +86614,42 @@
       "date_ref": "1975-01",
       "conflicts_with": [],
       "added_version": "6.39",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4869",
+      "claim": "JACK PEARSE'S \"SONG LEADING\" (Canadian Camping, June 1970, p. 8) sets out the period's own taxonomy of camp singing in five categories, each with a named repertoire. 1. NOVELTY NUMBER, \"our broadest category\" -- tongue twisters, nonsense songs, familiar songs given a novel touch: One Flea Fly; Hole in the Bottom of the Sea; Tipperary; Pack up Your Troubles; Long, Long Trail; She'll be Coming Round the Mountain; Bingo; My Bonnie; Beans in my Ears; Old MacDonald. \"These kinds of songs are the backbone of the sing song... Find some novelty numbers. INVENT SOME.\" 2. ACTION SONGS -- \"the novelty number makes the sing song successful, action songs make the song LEADER successful\": My Hat it Has Three Corners; The Old Mill Stream; Deep and Wide; Under the Spreading Chestnut Tree; Heads and Shoulders, Knees and Toes; This Old Man; Little Cabin in the Wood; One Finger, One Thumb, Keep Moving; Grand Old Duke of York. 3. ROUNDS, with an eight-step teaching method and three sub-groups -- ROUSERS (Little Tommy Tinker; Row, Row, Row Your Boat), FUN (Kookaburra; Three Blind Mice), QUIET (Fire's Burning; Oh How Lovely is the Evening; Rosen Fra Fjun; Hey Ho). 4. SPIRITUALS AND FOLK SONGS: Swing Low Sweet Chariot; Steal Away; He's Got the Whole World; All Night, All Day; Ezekiel Saw a Wheel; Where Have All the Flowers Gone; This Land is Your Land; We Shall Overcome; I'm On My Way; KUM BA YAH; Go Tell It On The Mountain; Down By the Riverside -- with the complaint that \"some commercial folk singing groups have spoiled for us some excellent spirituals and folk songs\". 5. QUIET SONGS: Stephen Foster songs; Harvest Moon; Moonlight Bay; Tell Me Why. THE RULE, printed in capitals: \"ALL SING SONGS SHOULD END WITH QUIET SINGING.\"",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Jack Pearse",
+        "Canadian Camping Association",
+        "camp songs"
+      ],
+      "date_ref": "1970-06",
+      "conflicts_with": [],
+      "added_version": "6.40",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4870",
+      "claim": "KANAWANA'S SONG RECORD AGAINST PEARSE'S TAXONOMY: the common stock overlaps, the camp's own songs are exactly what the movement told leaders to make. Two items in Kanawana's recorded repertoire sit inside Pearse's named lists -- KUM BAH YAH, which he classes under spirituals and folk songs, and \"My Old Kentucky Home\", a Stephen Foster song, and Foster is the first entry in his quiet-songs category. Those are movement-wide material, not Kanawana property, and a later pass should not treat either as evidence of anything camp-specific. What IS camp-specific -- \"On My Way to Kanawana\", the Kamp Kanawana Marching Song, \"Dear Old Kanawana\" to the Battle Hymn of the Republic, and the local adaptation of \"Alabama Jubilee\" -- falls precisely under Pearse's instruction for the novelty category: \"Find some novelty numbers. Invent some.\" CAMP-SPECIFIC SONGS WERE ADVISED PRACTICE IN THE MOVEMENT KANAWANA BELONGED TO, taught as technique in the association's own magazine, not an accident of local invention. Pearse's closing rule -- all sing songs should end with quiet singing -- also matches the shape of Kay McClelland's 1956 campfire structure already in this knowledge base (f_2725).",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "inferred",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "Jack Pearse",
+        "camp songs"
+      ],
+      "date_ref": "1970-06",
+      "conflicts_with": [],
+      "added_version": "6.40",
       "added_by": "ralph_loop"
     }
   ]
