@@ -1,6 +1,6 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 40*
+*Status: E1-reviewed | Sources: 41*
 *Last Updated: 2026-09-06 (the article reordered into dated sections; the 1969 report narrows conflict c_066)*
 
 *Earlier revisions: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
@@ -296,7 +296,11 @@ The 1966 report treats its own figure as a small fall rather than a rise: "A sma
 
 **And in 1967 a Kanawana crew's field notes went into a national publication.** Under the heading "Re-tracing Fur Trade Routes": "**Seven 14-15 year old boys and two counsellors** from Kamp Kanawana re-traced **150 miles of Canada's East-West fur trade routes** in canoes. En route, the members of the group **logged their observations of wild life, water currents, camping facilities, weather conditions, and land structure**. This data, together with similar information by other camps, **is being assembled into a Guide Book for the Canadian Camping Association**."^38
 
-The guide book is not named and this project has not found it. The full digitized run of *Canadian Camping* was read word for word earlier in this project, so the place to look is that run's 1968-1970 issues for an announcement or review of a route guide, and the CCA's own publication list.
+**The guide book is not named and, after four separate searches, this project has not found it.** The full digitized run of *Canadian Camping*, 1949 to 1988, was read word for word earlier and then searched again for "fur trade route", "guide book", "route guide", "canoe route(s)", "wild river" and "historic route": no announcement, no review, no catalogue entry, and the association's own publication catalogues of 1981, 1982 and 1984-85 list only outside titles under tripping.^38
+
+Two further routes were tried on 2026-09-06 and both are null. **Eric W. Morse's *Fur Trade Canoe Routes of Canada: Then and Now*** (1968) is the obvious candidate on subject and year, and it is not this book: a full-text search of both Internet Archive copies for "Kanawana", "Canadian Camping Association", "camping association", "summer camps", "boys' camps", "camp directors" and "Ontario Camping" returns **zero hits in either copy** — it credits no camps and no association, and it was a Queen's Printer publication by the national director of Canadian Clubs, a by-product of his own trips.^41 And the **Canadian Camping Association fonds at Trent University Archives** (1936-2018, nine accessions) has its finding aid online: its canoe material is the **Canoeing School of the 1970s** — accreditation standards, the 1975 programme, the Atlantic School of 1974 — and its publications are *Canadian Camping Magazine* and campsite directories. No fur-trade or route-guide title appears, and the earliest committee material listed is 1968-69.^41
+
+**That last one is a null in a finding aid, not proof the book never existed** — finding aids describe at the file level, and a small unpublished compilation could sit inside a committee file under no name of its own. What is still untried is Library and Archives Canada's published-material catalogue, which refuses this environment at the gateway, and the eight other Trent accessions at file level.
 
 ### 1967: a director's report from Lac Landron
 
@@ -820,3 +824,4 @@ Today, canoe tripping remains central to the Kanawana experience. The 2026 progr
 38. YMCA of Montreal annual reports for **1966-67** and **1967** [src_cache_sgw_ymca_annual_report_1966_67, src_cache_sgw_ymca_annual_report_1967]. Read 2026-09-06 under p_441. See [f_5097]. *(Both volumes had second source records marked "extracted" from facts citing them rather than from a read — see p_442.)*
 39. Montreal YMCA news release, undated, **1970** [src_ymf_p0145_news_release_1970_2] — the Les Voyageurs recruiting release, quoting A. Ross Seaman as "the Y's Executive Director of camping." Cached at `sources/cache/ymca-montreal-fonds/p0145-news-release-1970-2.txt`; read 2026-09-06 under p_451. See [f_5108].
 40. YMCA of Montreal annual report for the year ended **31 May 1969** [src_ymf_sgw_ymca_annual_report_1968], the Les Voyageurs item. Its season is the summer of 1968 (see [f_5090]). Read 2026-09-06 under p_441. See [f_5109].
+41. Eric W. Morse, *Fur Trade Canoe Routes of Canada: Then and Now* (Ottawa: Queen's Printer, 1968), both Internet Archive copies searched in full 2026-09-06 [furtradecanoerou0000mors, furtradecanoerou0000mors_r4a7]; and the **Canadian Camping Association fonds finding aid at Trent University Archives** (https://archives.trentu.ca/index.php/canadian-camping-association-fonds and accession 78-004), fetched and read the same day. Both are null for a fur-trade route guide. See [f_5135].
