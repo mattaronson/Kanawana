@@ -1,6 +1,6 @@
 # R.L. Charlton
 
-*Status: draft | Sources: 6*
+*Status: draft | Sources: 7*
 *Last Updated: 2026-09-06*
 
 ## Overview
@@ -27,6 +27,13 @@ Secretary, **T. Duncan Patton**, and **W. H. Ball** as Physical Director.^6 So C
 association board committee in **the year the camp syndicate was formed**, beside the general secretary,
 the assistant secretary who ran boys' work, the man who took out the 1891 camp, and the physical
 director who took out the 1894 one.
+
+**A second seat, in boys' work.** The annual report for the year ending 30 April 1899 puts him on the
+**Junior Department** committee — R. B. Ross Jr. in the chair, F. A. Crowe secretary, and among the
+members **W. E. Cushing**, who wrote the companion 1943 manuscript, along with three more Cushings.^7
+That is closer to the camp than Training Classes was: the Junior Department is boys' work, and the same
+report prints the **Permanent Camp Committee** under **Chas. Cushing** with W. E. Cushing on it too.
+Charlton is not on the camp committees themselves.
 
 **This answers half of Open Question 2 and not the other half.** He held a documented formal position in
 the association. **It is not a camp role**: Training Classes is not a camp committee, and nothing here
@@ -68,6 +75,7 @@ The Concordia Archives also hold undated photographs of "R. H. Dawson" (likely R
 4. Concordia Archives — YMCA of Montreal Fonds P145 [src_concordia_fonds].
 5. Concordia Archives P0145/12A Finding Aid, photograph filing with R.H. Dawson [src_concordia_p0145_12a_finding_aid].
 6. YMCA of Montreal, **41st Annual Report, 1891-92** (published 19 May 1892) [src_cache_sgw_ymca_annual_report_1991_1992] — the staff list and "Committees of the Board, 1892-93". Cached under a filename misnumbered by a century; see [f_4901]. Read 2026-09-06 (p_253). See [f_4904].
+7. YMCA of Montreal, **Annual Report for the year ending 30 April 1899** [src_ia_ymca_montreal_annual_reports_collection] — the Junior Department, Permanent Camp Committee and Summer Camp lists. Read 2026-09-06. See [f_4908].
 
 ## Research Notes
 

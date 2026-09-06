@@ -1,8 +1,8 @@
 {
-  "version": "6.57",
-  "kb_version": "6.57",
+  "version": "6.58",
+  "kb_version": "6.58",
   "migrated_from": "3.3",
-  "fact_count": 4869,
+  "fact_count": 4872,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -86919,7 +86919,7 @@
     },
     {
       "fact_id": "f_4884",
-      "claim": "THE 1900 SIGNATURES PUT THE SAME TWO MEN TOGETHER AS THE 1898 PHOTOGRAPH, AND THAT IS AS FAR AS IT GOES. The report is signed by a Chairman whose surname is plainly BENEDICT and whose middle initial is a flourished capital, and by a Secretary whose surname is plainly DAWSON and whose initials are a single interlocking monogram inside an enclosing loop. THE MONOGRAM CANNOT BE RESOLVED from this scan: the second letter reads as a capital B, the first as R or A. This project already holds the 1898 Camp Jubilee photograph caption naming FRANK L. BENEDICT and RALPH H. DAWSON among four men (f_0021, f_0930), and Ralph H. Dawson wrote the 1933 \"History of Kamp Kanawana\" (f_0049). The same two surnames signing the camp's own annual report two years after that photograph is strong circumstantial evidence that these are the same two men, and it would be the FIRST DATED OFFICE this project has for either -- but the initials on the page do not confirm it and this fact does not assert it. A clean copy of the signature block, or the Permanent Camp Committee minutes of 1899-1901 at Concordia (f_2237), would settle it.",
+      "claim": "[RESOLVED 2026-09-06 for BENEDICT, still open for DAWSON: the 1899 annual report prints \"F. L. BENEDICT\" twice in type, on the Permanent Camp Committee and as Chairman of the Summer Camp committee (f_4908, f_4909), so the flourished middle initial in the 1900 signature is L. The Dawson monogram is unaffected and remains unresolved. The original claim follows.] THE 1900 SIGNATURES PUT THE SAME TWO MEN TOGETHER AS THE 1898 PHOTOGRAPH, AND THAT IS AS FAR AS IT GOES. The report is signed by a Chairman whose surname is plainly BENEDICT and whose middle initial is a flourished capital, and by a Secretary whose surname is plainly DAWSON and whose initials are a single interlocking monogram inside an enclosing loop. THE MONOGRAM CANNOT BE RESOLVED from this scan: the second letter reads as a capital B, the first as R or A. This project already holds the 1898 Camp Jubilee photograph caption naming FRANK L. BENEDICT and RALPH H. DAWSON among four men (f_0021, f_0930), and Ralph H. Dawson wrote the 1933 \"History of Kamp Kanawana\" (f_0049). The same two surnames signing the camp's own annual report two years after that photograph is strong circumstantial evidence that these are the same two men, and it would be the FIRST DATED OFFICE this project has for either -- but the initials on the page do not confirm it and this fact does not assert it. A clean copy of the signature block, or the Permanent Camp Committee minutes of 1899-1901 at Concordia (f_2237), would settle it.",
       "sources": [
         "src_ia_seventh_annual_report_current_camp_1900"
       ],
@@ -87413,6 +87413,65 @@
       "date_ref": "1892-93",
       "conflicts_with": [],
       "added_version": "6.57",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4908",
+      "claim": "THE CAMP'S COMMITTEE STRUCTURE IN 1899, PRINTED IN FULL, AND IT NAMES THE MEN THE 1900 REPORT IS SIGNED BY. The YMCA of Montreal's annual report for the year ending 30 April 1899 prints three relevant committees. PERMANENT CAMP COMMITTEE: \"CHAS. CUSHING, Chairman. John W. Ross. W. E. Cushing. C. S. Paterson. F. L. BENEDICT.\" SUMMER CAMP [committee]: \"F. L. BENEDICT, Chairman. R. C. Paterson. F. S. Macfarlane. A. G. Burton. G. A. Gatehouse. Jas. Greig.\" JUNIOR DEPARTMENT: \"R. B. Ross, Jr., Chairman. F. A. Crowe, Secretary. R. L. CHARLTON. Geo. Lyman. Harold Beall. W. E. Cushing. L. Cushing. F. M. H. Cushing. Geo. C. Wells. C. S. Paterson. A. L. Paterson. E. C. Budge.\" FOUR THINGS FOLLOW. (1) CHARLES CUSHING CHAIRED THE PERMANENT CAMP COMMITTEE in 1899 -- the same Charles Cushing the North American Year Books record as the International Committee's Corresponding Member for Quebec in 1893-95 (f_4837). (2) The 1900 Current Camp Committee report is addressed \"To the Chairman Permanent Camp Committee\" (f_4879): this names him. (3) W. E. CUSHING, who wrote the 1943 \"Historical sketches -- Lake St. Joseph\", sat on BOTH the Permanent Camp Committee and the Junior Department in 1899, so like Charlton he wrote as a participant. (4) R. L. CHARLTON sat on the JUNIOR DEPARTMENT committee in 1899 -- a second documented seat, and one in boys' work rather than Training Classes.",
+      "sources": [
+        "src_ia_ymca_montreal_annual_reports_collection"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Charles Cushing",
+        "W. E. Cushing",
+        "F. L. Benedict",
+        "R. L. Charlton",
+        "Permanent Camp Committee",
+        "Current Camp Committee",
+        "John W. Ross"
+      ],
+      "date_ref": "1899",
+      "conflicts_with": [],
+      "added_version": "6.58",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4909",
+      "claim": "THE BENEDICT INITIAL IS SETTLED: F. L., NOT F. B. Reading the 1900 Current Camp Committee report's signature block on 2026-09-05, the chairman's middle initial was recorded as a flourished capital read as L on the strength of the 1898 Camp Jubilee photograph caption alone, with B explicitly not ruled out (f_4884). THE 1899 ANNUAL REPORT PRINTS IT TWICE IN TYPE: \"F. L. BENEDICT\" on the Permanent Camp Committee and \"F. L. BENEDICT, Chairman\" of the Summer Camp committee (f_4908). Together with the 1898 photograph caption naming FRANK L. BENEDICT, that is three independent typeset instances against one ambiguous signature. The man who signed the 1900 report as Chairman of the Current Camp Committee is FRANK L. BENEDICT, and he chaired the Summer Camp committee the year before and sat on the Permanent Camp Committee under Charles Cushing.",
+      "sources": [
+        "src_ia_ymca_montreal_annual_reports_collection",
+        "src_ia_seventh_annual_report_current_camp_1900"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Frank L. Benedict",
+        "Current Camp Committee",
+        "Permanent Camp Committee"
+      ],
+      "date_ref": "1899",
+      "conflicts_with": [],
+      "added_version": "6.58",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4910",
+      "claim": "A PHOTOGRAPH OF THE ORIGINAL CAMP SITS IN THE 1899 ANNUAL REPORT AND HAS NEVER BEEN LOOKED AT. The report for the year ending 30 April 1899 carries a plate captioned \"THE ASSOCIATION SUMMER CAMP, LAKE ST. JOSEPH.\" The caption is all the cached OCR text preserves -- the plate itself is an image, and the digitized page has not been fetched. IT IS ONE OF THE EARLIEST KNOWN IMAGES OF THE CAMP THIS PROJECT'S OWN HISTORY BEGINS WITH, five years after the first season, and camp-otoreke.md's open questions ask for exactly this. THE ROUTE IS KNOWN AND CHEAP: the Internet Archive item for this report has jp2 page images, and the method used on the 1900 manuscript (download the jp2 zip, convert, read by eye) applies unchanged. NOT DONE HERE.",
+      "sources": [
+        "src_ia_ymca_montreal_annual_reports_collection"
+      ],
+      "confidence": "stated",
+      "category": "sources_and_archives",
+      "entities": [
+        "Camp Jubilee",
+        "Lac St. Joseph",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1899",
+      "conflicts_with": [],
+      "added_version": "6.58",
       "added_by": "ralph_loop"
     }
   ]

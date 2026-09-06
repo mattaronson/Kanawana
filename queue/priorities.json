@@ -5300,6 +5300,17 @@
       "created": "2026-09-06",
       "source": "p_284 verify pass byproduct",
       "blocked_on": "operator"
+    },
+    {
+      "priority_id": "p_425",
+      "rank": 425,
+      "type": "RESEARCH",
+      "description": "FETCH THE PLATE IN THE 1899 ANNUAL REPORT CAPTIONED 'THE ASSOCIATION SUMMER CAMP, LAKE ST. JOSEPH.' The YMCA of Montreal's report for the year ending 30 April 1899 carries a photographic plate with that caption; the caption is all the cached OCR preserves and the page image has never been fetched (f_4910). It would be among the EARLIEST KNOWN PICTURES of the camp this project's history begins with, five years after the first season, and camp-otoreke.md's open questions ask for exactly this. THE ROUTE IS KNOWN AND CHEAP and is the one that worked on the 1900 manuscript on 2026-09-06: get the Internet Archive item id for the 1899 report, download its _jp2.zip, convert the pages to greyscale PNG with PIL, and read them by eye -- watching for leaves scanned 180 degrees, which happened on four of the eight leaves of the 1900 report. WHILE THERE, DO THE SAME FOR EVERY OTHER PRE-1911 ANNUAL REPORT: the OCR of these volumes preserves captions but not plates, so any photograph of the Lac St. Joseph camp in the 1894-1910 reports is invisible to every text search this project has ever run. That is a whole class of material nobody has looked for. ALSO WORTH READING PROPERLY WHILE IN THERE: these reports are marked read_state 'skimmed -- full-text-cached-and-keyword-swept-not-read-closely', and two short close reads on 2026-09-06 produced six facts nobody had (f_4902, f_4904 to f_4909).",
+      "weight": 8,
+      "status": "pending",
+      "created": "2026-09-06",
+      "source": "p_253 close-reading campaign",
+      "blocked_on": null
     }
   ],
   "queue_ordering": {

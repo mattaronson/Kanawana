@@ -3280,7 +3280,10 @@
         "f_1837",
         "f_1838",
         "f_4892",
-        "f_4903"
+        "f_4903",
+        "f_4908",
+        "f_4909",
+        "f_4910"
       ],
       "sources_cited": [
         "src_otoreke_blog_2005",
@@ -3299,7 +3302,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 4061,
+      "word_count": 4479,
       "notes": "E1 REVIEW (2026-02-19): Removed unverifiable 'Google Maps' source and '20 km' distance claim. Expanded 'Multiple sources' citation into discrete references (Facts sheet + McMorris). Removed src_oral_aronson (no inline citation). Removed unsourced bullet. Fixed postcard inference. Fixed closure section process language. Split 1967 conference/reports sentence. Renumbered sources 1-10. Added camp-otoreke cross-link to centennial-1967. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_008 editorial-resolution narrative into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -8097,14 +8100,18 @@
         "f_1061",
         "f_1151",
         "f_1969",
-        "f_4904"
+        "f_4904",
+        "f_4908",
+        "f_4909",
+        "f_4910"
       ],
       "sources_cited": [
         "src_1951_kamp_kanawana_history",
         "src_cbmu_history",
         "src_concordia_fonds",
         "src_concordia_p0145_12a_finding_aid",
-        "src_cache_sgw_ymca_annual_report_1991_1992"
+        "src_cache_sgw_ymca_annual_report_1991_1992",
+        "src_ia_ymca_montreal_annual_reports_collection"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -8114,7 +8121,7 @@
         "founding-1894"
       ],
       "file_id": null,
-      "word_count": 1300,
+      "word_count": 1425,
       "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md \"Other Notable Alumni\" section. Synthesizes existing research including myths-and-legends.md Batch 7 finding (1951 primary source naming Charlton as the person who proposed the camp name). Fixed a pre-existing link-text bug in myths-and-legends.md (text \"R.L. Charlton\" was linked to people/ralph-dawson instead of a Charlton article). Corrected a dangling source_id reference (src_concordia_fonds_12A -> src_concordia_p0145_12a_finding_aid, affecting f_1151) in kb/facts.json while preparing this article. | 2026-07-11: p_214 VERIFY -- Open Question 3 marked exhausted (5-surface Furness fleet search, zero matches).",
       "tags": {
         "era": [

@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 22*
+*Status: E1-reviewed | Sources: 23*
 *Last Updated: 2026-09-06*
 
 ## Overview
@@ -157,6 +157,38 @@ St-Joseph, Ste-Marie and Théodore**; the **"Dedication service of the chapel. -
 material for either site. The 1936 mixed-gender evaluation from 12C01 is treated in
 [[history/coeducation-gender|Coeducation and Gender at Kanawana]].
 
+### Who actually ran the camp in 1899
+
+The annual report for the year ending 30 April 1899 prints the committee structure in full, and it names
+the men the 1900 report is signed by:^23
+
+- **Permanent Camp Committee** — **Chas. Cushing**, Chairman; John W. Ross, **W. E. Cushing**,
+  C. S. Paterson, **F. L. Benedict**.
+- **Summer Camp** — **F. L. Benedict**, Chairman; R. C. Paterson, F. S. Macfarlane, A. G. Burton,
+  G. A. Gatehouse, Jas. Greig.
+- **Junior Department** — R. B. Ross Jr., Chairman; F. A. Crowe, Secretary; **R. L. Charlton**,
+  Geo. Lyman, Harold Beall, **W. E. Cushing**, L. Cushing, F. M. H. Cushing, Geo. C. Wells,
+  C. S. Paterson, A. L. Paterson, E. C. Budge.
+
+**The 1900 report is addressed "To the Chairman Permanent Camp Committee." This names him:
+Charles Cushing** — the same Charles Cushing the North American Year Books record as the International
+Committee's Corresponding Member for Quebec in 1893–95 [f_4837]. And it settles a reading left open a
+day earlier: the 1900 report's signature was transcribed with its chairman's middle initial marked
+uncertain, "L or B." The 1899 report prints **F. L. Benedict** twice in type. It is **Frank L.
+Benedict**, and he chaired the Summer Camp committee the year before he signed.^23
+
+**Two of the camp's later historians were sitting in these rooms.** **W. E. Cushing**, who wrote
+"Historical sketches — Lake St. Joseph" in 1943, was on both the Permanent Camp Committee and the Junior
+Department in 1899. **R. L. Charlton**, who wrote "Notes re Early Days" the same year, was on the Junior
+Department — his second documented seat, and this one in boys' work. Neither wrote as a later compiler.
+
+**And there is a photograph nobody has looked at.** The same report carries a plate captioned "**THE
+ASSOCIATION SUMMER CAMP, LAKE ST. JOSEPH.**" The caption is all the cached OCR preserves; the plate is
+an image on a page that has not been fetched. It would be among the earliest known pictures of this
+site, five years after the first season, and Open Question 5 below asks for exactly this. The route is
+the one used on the 1900 manuscript — download the item's jp2 zip and read the page — and it has not
+been walked.^23
+
 ### Who was Corbett? A lead, not an answer
 
 The 1900 report names **Corbett Island** as an established name and nothing read here explains it. The
@@ -254,6 +286,7 @@ Camp Otoreke closed in 1982 after nearly 90 years of continuous operation.^1 The
 20. "Report of the Junior Camp Committee, 1900," YMCA of Montreal, 30 November 1900 [src_ymf_1900_11_30_report_of_the_junior_camp_committee]. Typed, with an OCR layer, and already in this project's knowledge base; read here beside the Current Camp Committee report of ten days later. See [f_4848], [f_4885].
 21. Commission de toponymie du Québec, *Toponymes officiels* and *Toponymes désofficialisés* [src_donneesquebec_bnlq_2026]. Queried 2026-09-06 for every named feature in Saint-Adolphe-d'Howard and for "Corbett" province-wide. See [f_4892].
 22. YMCA of Montreal Annual Reports for 1890-91, 1892-93 and 1893-94, and the subscriber list in the report for 1900 [src_ia_ymca_montreal_annual_reports_collection], [src_ymf_sgw_ymca_annual_report_1990_1991]. Read for Corbett 2026-09-06 (p_253). See [f_4903].
+23. YMCA of Montreal, **Annual Report for the year ending 30 April 1899** [src_ia_ymca_montreal_annual_reports_collection]. The Permanent Camp Committee, Summer Camp and Junior Department lists, and the plate captioned "The Association Summer Camp, Lake St. Joseph." Read 2026-09-06. See [f_4908], [f_4909], [f_4910].
 
 ## Research Notes
 
