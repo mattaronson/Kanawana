@@ -3790,15 +3790,15 @@
       "date_precision": "approximate",
       "origin": "web",
       "origin_url": "https://archives.trentu.ca/index.php/85-013",
-      "cache_path": null,
+      "cache_path": "sources/cache/trent-archives/2026-09-06-qca-fonds-85-013-finding-aid.txt",
       "char_count": 0,
       "ingested_at": "2026-03-15T04:01:24.075548",
       "extracted": true,
-      "extraction_version": "v4.21",
+      "extraction_version": "v8.55",
       "reliability": "primary",
-      "notes": "Quebec Camping Association fonds. 90 cm in 3 boxes, 1948-1982. Correspondence, minutes of meetings, camp visitation reports (1962-1968, 1968-1971, 1972-1978), standards committee papers, provincial board reports, Miss F.M. Kelly files. Most records French. Related: OCA 88-006 Boxes 41-42 (QCA English Section, 1972-1979), CCA 78-004, Perry fonds 82-016.",
-      "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact"
+      "notes": "Quebec Camping Association fonds. 90 cm in 3 boxes, 1948-1982. Correspondence, minutes of meetings, camp visitation reports (1962-1968, 1968-1971, 1972-1978), standards committee papers, provincial board reports, Miss F.M. Kelly files. Most records French. Related: OCA 88-006 Boxes 41-42 (QCA English Section, 1972-1979), CCA 78-004, Perry fonds 82-016. || 2026-09-06: FINDING AID FETCHED RAW AND CACHED. The existing note above already named the camp visitation reports and their date ranges; what it did not carry, and what the priorities needing them therefore never picked up, are the BOX AND FOLDER NUMBERS and three further items: BOX 1 FOLDER 1 is the 1962-1968 visitation reports (p_339's 1965 round); BOX 1 FOLDER 21 is 'Q.C.A. Standards, correspondence, 1953-1973' (p_346); BOX 2 FOLDER 22 is 'Q.C.A. Centennial Commission' (p_337); and BOX 1 FOLDER 20 holds photographs of the Q.C.A. annual meeting of 1965.",
+      "read_state": "read",
+      "read_state_basis": "read:2026-09-06 the finding aid FETCHED RAW AND CACHED VERBATIM, all three boxes' folder listings. Previously read_state was 'derived:cited-by-fact' -- the record had a summary of the fonds and had never been read. The records themselves are not digitized. See f_5209."
     },
     {
       "source_id": "src_trent_cca_fonds_umbrella",

@@ -1,8 +1,8 @@
 {
-  "version": "8.54",
-  "kb_version": "8.54",
+  "version": "8.55",
+  "kb_version": "8.55",
   "migrated_from": "3.3",
-  "fact_count": 5170,
+  "fact_count": 5171,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93197,6 +93197,24 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.54",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5209",
+      "category": "method",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Quebec Camping Association",
+        "Trent University Archives",
+        "Camp Kanawana"
+      ],
+      "claim": "THREE STANDING PRIORITIES NOW HAVE A BOX AND FOLDER NUMBER, AND THE FONDS HAS BEEN IN THIS PROJECT SINCE MARCH. The Quebec Camping Association fonds at Trent University Archives, 85-013, 1948-1982, 90 cm in three boxes: the finding aid was fetched raw and cached verbatim on 2026-09-06 at sources/cache/trent-archives/2026-09-06-qca-fonds-85-013-finding-aid.txt. **p_339 -- the QCA's 1965 inspection report on Kanawana.** *Canadian Camping* for April 1966 records Murray McFarlane visiting twenty-seven camps that summer and completing 'an exhaustive report on each camp', the camps charged $25.00 apiece. **BOX 1, FOLDER 1: 'Camp visitation reports and related correspondence, 1962-1968'.** **p_346 -- the Quebec accreditation standards.** **BOX 1, FOLDER 21: 'Q.C.A. Standards, correspondence, 1953-1973'**, with Folders 7-10 the Provincial Standards Committee under Miss F. M. Kelly. **p_337 -- Kanawana's 1967 Centenary Journey trip log.** **BOX 2, FOLDER 22: 'Q.C.A. Centennial Commission'.** Also BOX 1 FOLDER 20, photographs of the Q.C.A. annual meeting of 1965; BOX 2 FOLDER 12, 'personnel-camps, members'; and BOX 2 FOLDERS 14-18, minutes of general and executive meetings from 1948. The fonds points onward to 'the Canadian Camping Association and Ronald H. Perry fonds (82-016)'. AND HERE IS THE PART WORTH KEEPING. THIS FONDS WAS REGISTERED IN sources.json ON 2026-03-15, six months ago, and its own notes field ALREADY SAID 'camp visitation reports (1962-1968, 1968-1971, 1972-1978)'. p_339 was raised afterwards and says 'WHERE TO LOOK: the Association des camps du Quebec's own records; the CCA/ACC fonds at Trent' -- pointing at the right building without picking up the shelf that was already written down here. Its read_state was 'derived:cited-by-fact': the record carried a summary and the finding aid had never been read. THAT IS RULE 21 AGAIN -- a source catalogued for one purpose, never read back into the questions that needed it -- and it is the third time this session that the best find of an hour was already in this project's own files. A SECOND METHOD NOTE, RULE 28. The page was first read through a SUMMARIZING fetch, which reported 'Centenary/Centennial canoe journey records (1965-1967): ABSENT' and 'Member camp files: ABSENT'. Box 2 Folder 22 is headed 'Q.C.A. Centennial Commission' and Box 2 Folder 12 is 'personnel-camps, members'. **A SUMMARIZER'S NEGATIVE IS NOT THE DOCUMENT'S NEGATIVE.** Fetch a finding aid raw and read it before recording anything as absent from it. WHAT IS NOT CLAIMED: that any of these folders contains anything about Kanawana. The 1965 round covered twenty-seven camps and Kanawana was a member camp of exactly that size and type, which is a strong expectation and not a document. NONE OF THESE RECORDS IS DIGITIZED; this is a reading-room visit or a paid retrieval, and it is now specified to the folder.",
+      "sources": [
+        "src_trent_qca_fonds_85_013"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.55",
       "added_by": "manual"
     }
   ]

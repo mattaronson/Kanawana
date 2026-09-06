@@ -201,3 +201,39 @@ person and unreachable for this environment.
 **The untried two-step, worth doing before anyone calls HathiTrust a dead end:** many of its volumes
 are also on the Internet Archive, whose full text this project reaches freely. Use the bibliographic
 API to identify the edition, then look for the same one on the Archive.
+
+
+## Three standing priorities now have a box and folder number
+
+`archives.trentu.ca` publishes its finding aids, and the **Quebec Camping Association fonds 85-013**
+(1948-1982, 90 cm, three boxes) answers three of them. Cached verbatim at
+`sources/cache/trent-archives/2026-09-06-qca-fonds-85-013-finding-aid.txt`.
+
+| priority | what it wants | where it is |
+|---|---|---|
+| **p_339** | the QCA's 1965 inspection report on Kanawana | **Box 1, Folder 1** — "Camp visitation reports and related correspondence, **1962-1968**" |
+| **p_346** | the Quebec accreditation standards | **Box 1, Folder 21** — "Q.C.A. Standards, correspondence, 1953-1973" |
+| **p_337** | Kanawana's 1967 Centenary Journey trip log | **Box 2, Folder 22** — "Q.C.A. Centennial Commission" |
+
+Also Box 1 Folder 20 (photographs of the QCA annual meeting of **1965**), Box 2 Folder 12
+("personnel-camps, members"), Box 2 Folders 14-18 (minutes from 1948), and a pointer onward to "the
+Canadian Camping Association and Ronald H. Perry fonds (**82-016**)". **None of it is digitized** —
+this is a reading-room visit or a paid retrieval, now specified to the folder rather than to the
+repository. All three priorities are reclassified `blocked` with that as the blocker.
+
+**And the fonds has been in `sources.json` since 2026-03-15**, its notes already naming "camp
+visitation reports (1962-1968, 1968-1971, 1972-1978)". p_339 was raised *afterwards* and says "where
+to look: … the CCA/ACC fonds at Trent" — the right building, without the shelf that was already
+written down here. Its `read_state` was `derived:cited-by-fact`: a summary, never read. **Rule 21
+again**, and the third time this session that the best find of an hour was already in this project's
+own files.
+
+## Rule 28
+
+**28. A summarizer's negative is not the document's negative.** That finding aid was first read
+through a summarizing fetch, which reported "Centenary/Centennial canoe journey records (1965-1967):
+**Absent**" and "Member camp files: **Absent**". Box 2 Folder 22 is headed "Q.C.A. Centennial
+Commission"; Box 2 Folder 12 is "personnel-camps, members". **Fetch a finding aid raw and read the
+listing yourself before recording anything as absent from it.** This is rule 23's shape — a source
+searched in one section is searched in one section — with a summarizing layer standing in for the
+section.
