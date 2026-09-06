@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 28*
+*Status: E1-reviewed | Sources: 29*
 *Last Updated: 2026-09-06 (Otoreke had its own camp song, and it was borrowed too)*
 
 ## Overview
@@ -385,6 +385,20 @@ own 1974-75 directory gives Nominingue's founding as **1925** (see
 [[connections/related-camps/quebec-camp-landscape|The Quebec Camp Landscape]]). The two may be measuring
 different things — a site occupied against a camp incorporated — and neither is preferred here.
 
+### The Otoreke Hike, and the year it ended
+
+Otoreke's name outlived the move north in an unexpected place: a Kanawana walking tradition named
+after it. The "Come to Kanawana" brochure for 1928 announces its replacement, and in doing so gives
+the only date this article has for the thing: "**A Gypsy Hike is planned to take the place of the
+old Otoreke Hike.** A waggon will convey our outfit, and we will cook and sleep as we trek from
+lake to lake. This should prove a very popular event."^29
+
+Two things follow. Eighteen years after the main camp left Lake Saint-Joseph, boys at Saint-Sauveur
+were still doing something called the Otoreke Hike, and it was old enough by 1928 to be called
+old. And **1928 is when it stopped**, replaced by a wagon-supported trek between lakes. What the
+hike actually was — a walk to Otoreke, a walk in Otoreke's manner, or a name that had outlived its
+meaning — is not stated, and nothing else in this project mentions it.
+
 ## Regional Camping Context
 
 Camp Otoreke was not the only organized camp in the Saint-Adolphe-d'Howard area. In 1926, Msgr. McShane founded Camp Kinkora on 3 km² of private land nearby for Irish Catholic youth from Montreal — establishing a Catholic counterpart to the YMCA's Protestant camping operation.^12 The Pripstein family also operated a Jewish camp in the vicinity, making Saint-Adolphe-d'Howard a rare intersection of Montreal's three major confessional camping traditions.^12 The area's appeal for camping was reinforced by its accessibility: the municipality was approximately 11 km from the train station in Sainte-Agathe-des-Monts, which had been served by the Canadian Pacific Railway since 1892.^13
@@ -473,6 +487,7 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 26. YMCA of Montreal, ***Men of Montreal*: Fifty-Third Annual Report and Summer Camp Number, 1904** [src_ia_ymca_montreal_annual_reports_collection] — the cover halftone and the senior-camp description, pp. 1-3. Read 2026-09-06. See [f_4918], [f_4919], [f_4920], [f_4921]. The cover image is filed at `assets/images/documents/1904-camp-club-house-lake-st-joseph.jpg`, the whole cover beside it.
 27. Paul Larue and Pierre Bélec, *Le Québec en plein air* (Montréal: Québec Amérique, 2016), Internet Archive scan leaf 310 [src_larue_belec_quebec_plein_air_2016]. **One passage plus two stray sentences**, reconstructed 2026-09-06 from eight overlapping Open Library search-inside queries; the book is lending-restricted and has not been read, and the printed page number is unknown. The reconstruction, the queries, and a statement of what is wrong with the passage are cached at `sources/cache/openlibrary-search-inside/2026-09-06-larue-belec-quebec-en-plein-air.txt`. See [f_4939].
 28. Camp Otoreke songbook, 1941 [src_ymf_1941_camp_otoreke_songs], Concordia-digitized YMCA of Montreal fonds. **64,000 characters, of which five lines are about the camp**; the rest is the general community-singing repertoire of 1941 and is not extracted. The book had been in this repo's cache labelled *skimmed* and cited by nothing, and was read on 2026-09-06 under p_441. See [f_5004].
+29. "Come to Kanawana" brochure, 1928 season, YMCA of Montreal fonds [src_ymf_1928_come_to_kanawana_brochure]. See [f_5031].
 
 ## Research Notes
 

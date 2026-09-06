@@ -1,8 +1,8 @@
 {
-  "version": "7.35",
-  "kb_version": "7.35",
+  "version": "7.36",
+  "kb_version": "7.36",
   "migrated_from": "3.3",
-  "fact_count": 4988,
+  "fact_count": 4993,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -89811,6 +89811,108 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.35",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5027",
+      "category": "people",
+      "date_ref": "1928",
+      "entities": [
+        "Harold C. Cross",
+        "Westmount YMCA",
+        "Kamp Kanawana"
+      ],
+      "claim": "HAROLD C. CROSS'S YMCA TITLE, IN PRINT, IN 1928 -- AND IT ANSWERS THE QUESTION HIS ARTICLE HAS CARRIED FOR MONTHS. The 'Come to Kanawana' brochure for 1928 says under Leadership: 'The camp will again be under the personal direction of HAROLD C. CROSS, EXECUTIVE SECRETARY OF WESTMOUNT Y.M.C.A., a camper of many years experience.' THIS PROJECT HAS BEEN ASKING WHAT HIS MONTREAL POST WAS SINCE FEBRUARY. Open question 2 of wiki/people/harold-cross.md reads 'What was his official title at the Montreal YMCA? \"Camp director\" at Kanawana is documented, but his later role (historian, staff member, volunteer?) is unclear', and the best it had was an ADDRESS -- 1441 Drummond Street on a 1936 religious-education yearbook. Here is the title, eight years earlier, in the camp's own publicity: EXECUTIVE SECRETARY OF THE WESTMOUNT BRANCH. The word 'again' also confirms the directorship was already running, consistent with the c. 1925-1928 span this project holds from the McMorris thesis. NOTE WHAT IT DOES NOT SAY: it is his 1928 post and says nothing about 1936 or 1951, and a man can move branches.",
+      "sources": [
+        "src_ymf_1928_come_to_kanawana_brochure"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5028",
+      "category": "people",
+      "date_ref": "1928",
+      "entities": [
+        "Kamp Kanawana",
+        "A. A. Struthers",
+        "Ralph J. Smith",
+        "Fred Hudson",
+        "Ken Norris",
+        "Karl R. Perry",
+        "Camp Ahmek",
+        "William Watson",
+        "Jim Cowan",
+        "Harry Griffiths"
+      ],
+      "claim": "THE 1928 STAFF, NAMED AND CREDENTIALLED, INCLUDING A MAN FROM CAMP AHMEK. The brochure lists them with their winter jobs, which is what makes it useful: Director HAROLD C. CROSS (see f_5027); A. A. STRUTHERS, 'a student at Springfield Y.M.C.A. College, and with previous experience as a Physical Director', in charge of Senior Section; RALPH J. SMITH, B.P.E., graduating from Springfield that year, directing Junior Section and supervising swimming, and going after camp 'to North Branch Y.M.C.A. as their new Physical Director'; FRED HUDSON, 'of Pickering College', over the Juvenile (Specials) Section 'which he handled so well last season'; KEN NORRIS, McGill '29, Business Manager and hoped-for editor of the Gas Bag; DR. B. MUNN and DR. H. S. MITCHELL, 'fully qualified physicians', each Camp Doctor for a month; WILLIAM WATSON, chef for a third season, who 'during the winter was cook at the Diocesan College'; BEAU LEWIS in the Business Office; JIM COWAN on basketry; and FRANCIS HUDSON and HARRY GRIFFITHS. THE ONE THAT MATTERS BEYOND THE ROSTER: 'KARL R. PERRY, teacher at Pickering College, and FOR FIVE YEARS ON THE STAFF AT CAMP AHMEK IN ALGONQUIN PARK, will head up a new department this season. Mr. Perry will devote his entire attention to the encouragement and direction of all kinds of Craftsmanship.' Camp Ahmek is Taylor Statten's camp, founded 1921, and this project's account of the Canadian camping movement has had no documented person moving between Statten's operation and Kanawana. HERE IS ONE, hired in 1928 to start a craft department, with five Ahmek summers behind him. TWO SPRINGFIELD MEN IN THE SAME YEAR is also worth noting, given that W. H. Ball was introduced to Montreal in 1892 as 'a new man, from the Springfield Training School'.",
+      "sources": [
+        "src_ymf_1928_come_to_kanawana_brochure"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5029",
+      "category": "people",
+      "date_ref": "1929",
+      "entities": [
+        "Kamp Kanawana",
+        "George Porteous",
+        "Reg Cowan",
+        "H. C. Brennan",
+        "Fred Hudson",
+        "A. W. Kemball",
+        "William Watson"
+      ],
+      "claim": "1929 HAS A DIRECTOR NOW: GEORGE PORTEOUS, AND THE HOLE THIS INDEX CALLED '1929-1931' IS A YEAR SMALLER. The 1929 brochure's 'Camp Staff' section opens: 'The CHIEF DIRECTOR for this year will be GEORGE PORTEOUS, B.A., BOY'S WORK SECRETARY OF NORTH BRANCH Y.M.C.A., who has had experience in all phases of organized camp life.' wiki/people/directors-index.md lists 1929-1931 among its gap periods, 'between Cross and Spearman's documented 1932 start'. 1929 is closed. THE REST OF THAT YEAR'S STAFF: Business Manager REG. COWAN, B.A., of St. Andrew's College, Aurora, Ontario, returning after several years, with SINCLAIR McINTOSH as his assistant; H. C. BRENNAN, 'Director of Physical Education of the Outremont Schools', over the Senior section; FRED HUDSON, who 'last year piloted a record Juvenile Camp', moved up to the Junior section and described as having spent 'many consecutive years in the Laurentians as camper, leader and director'; A. W. ('WALLY') KEMBALL, 'an experienced Y.M.C.A. Secretary and camp organizer, now enrolled at McGill', over the Juvenile (10-11) section; WILLIAM WATSON as chef for a fourth season; JIM COWAN on basketry and HARRY GRIFFITHS teaching non-swimmers, both back from 1928; SCOTT KNEELAND on the workshop, VERNE ESTANO on the Museum, CHARLIE PAYTON helping with MODEL AIRPLANE CLASSES; and as tent leaders HENRI DENIS, DOUGLAS SCOTT, JOHN LARGE, JIM BROPHY, BOB BROPHY, OSBORNE RUTHERFORD, FRED CHASE, ALAN BARNES, NORMAN THOM, EDWARD BAYLIS, BOB GOODIER and TOM BAIRD. A CAUTION ON THE NAME: there is a well-known Canadian YMCA figure called George Porteous, and no identification is made here -- the brochure gives only a degree and a branch.",
+      "sources": [
+        "src_ymf_1929_come_to_kanawana_brochure"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5030",
+      "category": "history",
+      "date_ref": "1929",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "claim": "THE CAMP COUNTED ITS OWN SEASONS FROM 1910, AND SAID SO ON ITS COVER. The 1929 brochure's title page reads 'KANAWANA / Operated by the YOUNG MEN'S CHRISTIAN ASSOCIATION OF MONTREAL / **20th SEASON** / JUNE 24 [to] SEPTEMBER 2nd'. Counting 1910 as the first season gives 1929 as the twentieth exactly. THAT IS THE CAMP'S OWN ARITHMETIC, PRINTED FOR PARENTS, AND IT DATES ITS SELF-UNDERSTANDING TO THE SAINT-SAUVEUR SITE AND THE KANAWANA NAME -- not to 1894, not to Camp Jubilee, not to Lake Otoreke. It is a fact about how the institution counted, not about when boys first went to camp, and both matter to the oldest-camp question. THE 1928 BROCHURE CARRIES THE SAME LINE AND ITS SEASON NUMBER IS OCR-DAMAGED, reading 'toth SEASON'. Nineteen would be consistent with the 1929 volume; NO NUMBER IS ASSIGNED TO IT HERE, because a damaged digit is not evidence and this project has already built one false tension out of a misread one. Anyone with the physical brochure or a better scan should read that line.",
+      "sources": [
+        "src_ymf_1929_come_to_kanawana_brochure",
+        "src_ymf_1928_come_to_kanawana_brochure"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5031",
+      "category": "site",
+      "date_ref": "1928-1929",
+      "entities": [
+        "Kamp Kanawana",
+        "Lac Beescie",
+        "Camp Otoreke",
+        "Lake Wilson"
+      ],
+      "claim": "THE CAMP AS IT SOLD ITSELF IN 1928 AND 1929, WITH THE FIGURES THAT CHANGED BETWEEN THEM. THE SITE: 'the Camp property completely surrounds two beautiful lakes, KANAWANA AND WILSON, and borders on a third, LAC BEESCIE' -- spelled 'Lac Becsie' in the 1929 issue. Fifty miles from Montreal; campers travel by C.N.R. from Tunnel Station to St. Sauveur des Monts and then five miles by road, in conducted parties leaving every Monday morning. THE PLANT: two pavilions, one for dining and one for wet-weather recreation with a large open fireplace; a Log Cabin as the Senior Section's social centre; a new Library and Museum; four diving springboards, two high and two low; a 'shoot the chutes' into the lake; an open-air Chapel; a large Council Ring; an ice house connected to the kitchen; a bakery; a hospital with doctor's quarters; a photographic dark room; two athletic fields; water from two mountain wells. THE FLOTILLA GREW FROM 36 BOATS AND CANOES IN 1928 TO 42 IN 1929. THE SECTIONS: Senior 16-18, Junior 12-15, Juvenile 10-12, 'each with its own location and Director', with six or eight boys to a tent under 'a qualified older boy or young man'. THE MONEY IS IDENTICAL IN BOTH YEARS: $8.50 per week payable in advance, rail fare $2.40 return extra, a $2.00 deposit on application, and $2.50 extra for a canoe trip. THE RULES, all three of them, under the heading that 'Kanawana is noted for its very limited number of rules': supervised swimming and boating only, absence from camp only by the Director's permission, and 'THE USE OF TOBACCO IN ANY FORM IS ABSOLUTELY PROHIBITED'. NEW FOR 1928: ARCHERY, 'introduced to Kanawana this season'; a craft department under Karl R. Perry; a new Juvenile campsite on the hillside between Museum and Senior Camp; tennis courts hoped for; and 'A GYPSY HIKE is planned TO TAKE THE PLACE OF THE OLD OTOREKE HIKE. A waggon will convey our outfit, and we will cook and sleep as we trek from lake to lake.' THAT LAST IS A DATED END POINT for a tradition named after the camp's own predecessor site. CANOE TRIPS in 1928 left Round Lake near Weir and went 'up to St. Jovite, by way of the Rouge and Devil's rivers, or make the shorter trip to Huberdeau', on three fixed dates -- 9-13 July, 30 July-3 August, 13-17 August -- with 'a ten day trip for older boys... if sufficient boys are signed up'. AND ONE LINE ABOUT WHO COULD VISIT: 'A few ladies can be accommodated overnight at a nearby farm house.'",
+      "sources": [
+        "src_ymf_1928_come_to_kanawana_brochure",
+        "src_ymf_1929_come_to_kanawana_brochure"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.36",
       "added_by": "ralph_loop"
     }
   ]

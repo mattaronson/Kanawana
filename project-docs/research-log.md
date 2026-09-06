@@ -6516,3 +6516,44 @@ else. Their `read_state` is now `partial` with a basis naming exactly what was a
 because "read for something" is the failure this whole priority exists to fix and it would be
 absurd to reproduce it while fixing it. The 1974 and 1979 reports carry individual staff
 assessments; those need the CLAUDE.md embargo treatment and are not extracted here.
+
+## 2026-09-06 — p_441, documents five and six: two brochures that had been sitting there
+
+The 1928 and 1929 "Come to Kanawana" brochures have been in this repo since August, marked
+skimmed, keyword-swept, and never read. Between them they answer a question this project has
+carried since February, close a gap year, and supply the one thing the camping-movement article
+has never had.
+
+**Harold C. Cross's title.** Open question 2 on his article asked what his post at the Montreal
+YMCA actually was; the best answer available was an *address*, 1441 Drummond Street, on a 1936
+religious-education yearbook. The 1928 brochure says it outright: "the camp will again be under
+the personal direction of Harold C. Cross, **Executive Secretary of Westmount Y.M.C.A.**" A branch
+executive secretaryship. The question stays open for the rest of his career — a man can move
+branches — but it is no longer unanswered.
+
+**1929 has a director.** "The Chief Director for this year will be **George Porteous**, B.A.,
+Boys' Work Secretary of North Branch Y.M.C.A." The directors index listed 1929–1931 among its gap
+periods; it now reads 1930–1931. No identification is made with the better-known Canadian YMCA
+figure of that name; the brochure gives a degree and a branch and nothing else.
+
+**And a man from Camp Ahmek.** "Karl R. Perry, teacher at Pickering College, and **for five years
+on the staff at Camp Ahmek in Algonquin Park**, will head up a new department this season" — the
+craft department. Ahmek is Taylor Statten's, founded 1921. The camping-movement article has
+described Statten's influence on Kanawana as atmosphere and imitation for months, for want of
+anyone crossing between them. Here is one, on the payroll, in 1928.
+
+**The camp's own arithmetic.** The 1929 brochure's cover: "20th Season." Season one is 1910 —
+the Saint-Sauveur site and the Kanawana name, not 1894 and not Camp Jubilee. That is how the
+institution counted itself, printed for parents, and it belongs in the oldest-camp article as
+evidence about self-understanding rather than about founding. The 1928 cover carries the same
+line with the digit destroyed ("toth SEASON"); nineteen would fit, and no number has been
+assigned, because this project already built one false tension out of a misread digit today.
+
+Beyond that: about thirty named staff across two years, each with the job he held the rest of the
+year — two Springfield men in 1928, a Physical Education director from the Outremont Schools in
+1929, a chef who cooked at Diocesan College in the winter — the plant, the flotilla growing from
+36 boats to 42, fees identical at $8.50 a week across both years, three rules of which one is
+total tobacco prohibition, and a dated end for "the old Otoreke Hike," replaced in 1928 by a
+wagon-supported Gypsy Hike.
+
+Six documents into p_441. Every one has paid.

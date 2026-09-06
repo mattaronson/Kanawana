@@ -1,6 +1,6 @@
 # Directors and Staff of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 51*
+*Status: E1-reviewed | Sources: 52*
 *Last Updated: 2026-09-06 (the missing Year Book years located on HathiTrust, and unreadable from here)*
 
 ## Summary
@@ -25,7 +25,8 @@ The title "Director" was applied at more than one level: the **Camp Director** (
 | G.D. Brandon | 1921 | Named in 1921 brochure. **Not his first season at the camp** — he relieved MacKinnon for a fortnight in August 1918. | 1921 brochure; YMCA Montreal Annual Report 1919^30 |
 | Lemuel P. Ereaux | 1922 (documented) | The 1922 brochure's "eleven summers" describes his cumulative prior camp experience (as camper/counsellor, back to roughly 1912), not eleven years as director -- the 1921 brochure separately and explicitly names G.D. Brandon as that year's director, with no mention of Ereaux. 1922 is his only documented directorship year; also served as Camp Doctor, 4th year McGill Medicine. A possible identity lead (unconfirmed): a "Lemuel Price Ereaux, MD" (1898-1967) memorialized in a 1968 *Archives of Dermatology* obituary -- age/timeline fit, but the full text is paywalled and no camp connection could be confirmed. | 1921/1922 brochures |
 | Philip G. Paterson | 1923 | Camp Chief; Boys' Work Secretary, Westmount YMCA; presided over "complete rebrand in tone" | 1923 brochure |
-| Harold C. Cross | ~1925-1928 | Added totem pole to Council Ring (1927); later wrote YMCA history (1951) | McMorris thesis |
+| [[people/harold-cross\|Harold C. Cross]] | ~1925-1928 | Added totem pole to Council Ring (1927); later wrote YMCA history (1951). **His day job is now documented**: the 1928 brochure calls him "Executive Secretary of Westmount Y.M.C.A." and says the camp will "again be under the personal direction of" him. | McMorris thesis; 1928 brochure^52 |
+| **George Porteous, B.A.** | **1929** | **Closes one of this index's gap years.** The 1929 brochure: "The Chief Director for this year will be George Porteous, B.A., **Boy's Work Secretary of North Branch Y.M.C.A.**, who has had experience in all phases of organized camp life." No identification is made with the better-known Canadian YMCA figure of that name — the brochure gives only a degree and a branch. | 1929 brochure^52 |
 | [[people/nelson-mcewen\|Nelson McEwen]] | c. 1927–1947 | Born c.1897 Charlottetown, PEI; died 1956 in active YMCA service. Boys' Work Secretary, Montreal YMCA. Previously Assistant Boys Work Secretary, Winnipeg YMCA (1919); directed Camp Stephens (1924-1927); founded the Order of the Triangle at Camp Stephens, recruiting Mitchel Sharp and Bill Master. Co-founded Canadian Camping Association with Taylor Statten (blog says 1946; CCA official founding was 1936 — role may relate to 1946 reorganization). Developed Hi-Y program in Montreal; two National Assemblies at Geneva Park (1940, 1946). Left Montreal in 1947 for General Secretary of Saint John YMCA (NB), where he recruited Ross Bannerman. In 1951 became first Metropolitan General Secretary, Winnipeg YMCA, serving until his death in 1956 — **though a second source in this same article gives his 1951 title as National Council Boys' Work Secretary; see conflict c_028**. McMorris thesis documents 1930-1931 only as on-site director; extended tenure (c.1927-1947) as administrative overseer from Camp Stephens Alumni blog.^11 ^18 ^19 | McMorris thesis; Concordia fonds 14D; Camp Stephens Alumni blog; CCA history |
 | [[people/w-h-spearman\|W. H. Spearman]] | 1932-1934 | Camp Chief for at least three consecutive seasons. Addressed as "Chief. Spearman" in the *Green Triangle* of 30 July 1932; signs a staff notice there 29 July 1933; the 1934 Annual Report says he "was **again** in charge of the camp" (1933 season) and the 1935 report names him "as director" (1934 season). A 1935 *Green Triangle* passage showing him at camp is a **visit**, not a fourth season -- see his article. Career YMCA of Montreal secretary 1920-1954; Westmount Branch Executive Secretary, wartime manager of the Beaver Club in London, Central Branch Executive Secretary 1949-1954. **Do not record as "William H." -- that is a different, younger man.**^26 | YMCA Montreal Annual Reports 1930-1954; Green Triangle 1932, 1933, 1935^26 |
 | Ralph Dawson | 1933? | Wrote "History of Kamp Kanawana" (1933); in 1898 Camp Jubilee photo; McMorris's 2023 thesis characterizes him as "an alumnus" (former camper) rather than a director or committee member -- an inference from her reading of his manuscript, not a self-identification, so treat as a lead rather than confirmation | Concordia Archives 12A; McMorris thesis |
@@ -135,6 +136,39 @@ These roles carried the title "Director" but reported to the Camp Director above
 A 2003 JBC plaque (f_1638; also the source for conflict c_014's resolution) names "Section Directors: Matt, Laurie" by first name only — too little information to identify with confidence, though the "Matt" is a plausible but unconfirmed match for Matt Hamerman, who held a Voyageurs section directorship three years later (2006). Not treated as a positive identification.
 
 **Audrey Dowse** was inducted into the Camp Administrator Hall of Fame (nominated 2022) for her work with Camp YMCA Kanawana and YMCA Day Camps. Her exact role (Camp Director, section/program director, or another administrative position) and dates of service are not yet documented.^22
+
+## The 1928 and 1929 staffs, with their winter jobs
+
+The two "Come to Kanawana" brochures print their staff with the posts those men held the rest of
+the year, which is what makes them worth setting out in full.^52
+
+**1928** — Director **Harold C. Cross**, Executive Secretary of Westmount YMCA. **A. A. Struthers**,
+a student at Springfield YMCA College with previous experience as a Physical Director, over Senior
+Section. **Ralph J. Smith**, B.P.E., graduating from Springfield that year, over Junior Section and
+swimming, and going after camp "to North Branch Y.M.C.A. as their new Physical Director." **Fred
+Hudson** of Pickering College over the Juvenile (Specials) Section. **Ken Norris**, McGill '29,
+Business Manager and hoped-for editor of the *Gas Bag*. **Karl R. Perry**, teacher at Pickering
+College "and for five years on the staff at **Camp Ahmek in Algonquin Park**," brought in to run a
+new craft department. **Dr. B. Munn** and **Dr. H. S. Mitchell**, each Camp Doctor for a month.
+**William Watson**, chef for a third season, "during the winter… cook at the Diocesan College."
+**Beau Lewis** in the business office, **Jim Cowan** on basketry, and **Francis Hudson** and
+**Harry Griffiths**.
+
+**1929** — Chief Director **George Porteous**, B.A., Boys' Work Secretary of North Branch YMCA.
+Business Manager **Reg. Cowan**, B.A., of St. Andrew's College, Aurora, returning after several
+years, with **Sinclair McIntosh** assisting. **H. C. Brennan**, Director of Physical Education of
+the Outremont Schools, over Senior. **Fred Hudson**, who "last year piloted a record Juvenile
+Camp," moved up to Junior. **A. W. ("Wally") Kemball**, "an experienced Y.M.C.A. Secretary and camp
+organizer, now enrolled at McGill," over the Juvenile 10-11s. **William Watson** chef for a fourth
+season; **Jim Cowan** and **Harry Griffiths** back. **Scott Kneeland** on the workshop, **Verne
+Estano** on the Museum, **Charlie Payton** helping with **model airplane classes**. Tent leaders:
+**Henri Denis, Douglas Scott, John Large, Jim Brophy, Bob Brophy, Osborne Rutherford, Fred Chase,
+Alan Barnes, Norman Thom, Edward Baylis, Bob Goodier** and **Tom Baird**.
+
+**The Ahmek line is the one to notice.** Camp Ahmek is Taylor Statten's, founded 1921, and this
+wiki's account of the Canadian camping movement has never had a documented person crossing between
+Statten's operation and Kanawana. Karl R. Perry did, in 1928, with five Ahmek summers behind him
+and a brief to start craft work here.
 
 ## Les Voyageurs de la Vérendrye: a separate staff, at Lac Landron
 
@@ -392,7 +426,7 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 - **1895-1900**: Between the 1894 founding and John Roy's 1901 letters
 - **1902-1907, 1909, 1911-1912, 1914**: What remains of the former "1902-1920" gap after the 2026-08-14 annual-report sweep, which named someone in charge for 1908, 1910, 1913, 1915, 1916, 1917, 1918 and 1919. The surviving holes are single or paired years, not a two-decade blank
 - **1924**: Between Paterson and Cross
-- **1929-1931**: Between Cross and Spearman's documented 1932 start. McEwen's extended tenure (c.1927-1947 as administrative overseer) may cover it; McMorris documents him on-site only in 1930-1931
+- **1930-1931**: Between Porteous and Spearman's documented 1932 start. *(This entry read "1929-1931" until 2026-09-06, when the 1929 brochure named George Porteous as that season's Chief Director.)* McEwen's extended tenure (c.1927-1947 as administrative overseer) may cover it; McMorris documents him on-site only in 1930-1931
 - **1940**: Between Macdiarmid's last documented season (1939) and Langille's 1941. Macdiarmid went overseas in December 1939, so 1940 had someone
 - **1943-1945**: Between Hanagan's documented years
 - **1947-1958**: **Named at both ends but thin in between.** Roy Locke is stated for 1947 and held the camping portfolio to September 1954; Murray Shantz is stated for 1955. The intervening seasons rest on continuity and on the *absence* of any recorded staff change, not on statement. The annual reports of these years name no paid camp director at all — they list only volunteer chairmen
@@ -563,6 +597,7 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 49. YMCA of Montreal, annual reports for the years ending **30 April 1893**, **30 April 1894**, **30 April 1895** and **30 April 1896** [src_ymf_sgw_ymca_annual_report_1892_1893, src_ymf_sgw_ymca_annual_report_1893_1894, src_cache_sgw_ymca_annual_report_1894_1895, src_ymf_sgw_ymca_annual_report_1895_1896]. Cached in this repo; read for their staff lists and departmental narratives 2026-09-06 under p_440. Powter's November 1892 appointment, Chapman as Office Secretary, Percy H. Cushing's succession to D. W. Corbett in June 1893 and departure for Springfield in September 1895, and C. K. Calhoun's arrival. See [f_4996], [f_4997].
 50. "Les Voyageurs de la Vérendrye — Camp Director's Report 1967", signed by David Blake, YMCA of Montreal fonds [src_ymf_1967_les_voyageurs_de_la_verendrye_camp_directors_report]. See [f_5020]. Read whole 2026-09-06 under p_441; the item had been keyword-swept and marked skimmed since August.
 51. The run of Les Voyageurs de la Vérendrye reports in the YMCA of Montreal fonds: 1960 [src_ymf_1960_les_voyageurs_de_la_verendrye_report], 1963 [src_ymf_1963_les_voyageurs_de_la_verendrye_annual_report], 1966 [src_ymf_1966_les_voyageurs_de_la_verendrye_report], 1969 [src_ymf_1969_les_voyageurs_de_la_verendrye_report], 1970 [src_ymf_1970_les_voyageurs_de_la_verendrye_directors_report], 1973 [src_ymf_1973_08_19_les_voyageurs_de_la_verendrye_final_report], 1974 [src_ymf_1974_les_voyageurs_de_la_verendrye_report_on_summer] and 1979 [src_ymf_1979_les_voyageurs_de_la_verendrye_report]. See [f_5024], [f_5025] and [f_5026]. **These eight were read for their signature blocks and little else** — their source records record exactly how much, and the 1974 and 1979 reports carry individual staff assessments that are not extracted here.
+52. "Come to Kanawana" brochures for the **1928** [src_ymf_1928_come_to_kanawana_brochure] and **1929** [src_ymf_1929_come_to_kanawana_brochure] seasons, YMCA of Montreal fonds. Both read whole 2026-09-06 under p_441; both had been in this repo, marked skimmed, since August. See [f_5027], [f_5028] and [f_5029].
 
 ## Research Notes
 

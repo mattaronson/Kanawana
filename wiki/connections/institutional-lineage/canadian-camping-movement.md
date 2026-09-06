@@ -1,6 +1,6 @@
 # The Canadian Camping Movement
 
-*Status: E1-reviewed | Sources: 21*
+*Status: E1-reviewed | Sources: 22*
 *Last Updated: 2026-09-06 (the 1961 joint charter, its four signatories, and what Kanawana's "founding member" claim would have to mean)*
 
 ## Summary
@@ -31,6 +31,15 @@ The earliest known Canadian camps:
 The [[people/cushing-family|Cushing family]] and [[people/da-budge|D.A. Budge]] of the Montreal YMCA were instrumental in the earliest years.^4 Lemuel Cushing brought the first group of boys to Lake Saint-Joseph in 1892, two years before [[people/billy-ball|Billy Ball]]'s formal establishment of Camp Jubilee in 1894.
 
 ## Taylor Statten and the Professionalization of Camping (1906-1936)
+
+**One documented person crossed between Statten's camp and Kanawana, and this is him.** The "Come
+to Kanawana" brochure for 1928 introduces a new department and the man hired to run it: "**Karl R.
+Perry**, teacher at Pickering College, and **for five years on the staff at Camp Ahmek in Algonquin
+Park**, will head up a new department this season. Mr. Perry will devote his entire attention to
+the encouragement and direction of all kinds of Craftsmanship."^22 Five Ahmek summers, hired into
+a Montreal YMCA camp to start craft work, seven years after Ahmek opened. Until now this article
+has described the Statten influence on Kanawana as atmosphere and imitation; here it is a payroll.
+
 
 Taylor Statten (1882-1956) was the central figure in the professionalization of Canadian camping.^5 After serving in the Boer War, he joined the YMCA, taking on Boys' Work responsibilities by 1906 (including directing Camp Couchiching) and rising to national Boys' Work Secretary by 1912. In 1914, he established the Canadian Standards Efficiency Training (CSET) program, and by 1918 was running the TUXIS and Trail Rangers programs — enrolling over 30,000 boys across Canada by 1928.^6
 
@@ -959,6 +968,7 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 
 20. *The McGill You Knew: An Anthology of Memories, 1920-1960* (Don Mills: Longman Canada, 1975), Internet Archive scan leaf 314 [src_mcgill_you_knew_1975]. **One passage only**, reconstructed 2026-09-06 from ten overlapping Open Library search-inside queries and walked to a chapter break; the book is lending-restricted, page images return HTTP 403, and it has not been read. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-mcgill-you-knew-hay-finlay.txt`. See [f_4959].
 21. R. J. Colville, first-person career sketch (typescript, c. 1920), YMCA of Montreal fonds [src_ymf_1920_biography_of_r_j_colville]. See [f_5015]. Found by reading the document whole under p_441; the item had been keyword-swept and the sweep reached none of this.
+22. "Come to Kanawana" brochure, 1928 season, YMCA of Montreal fonds [src_ymf_1928_come_to_kanawana_brochure]. See [f_5028].
 
 ## Research Notes
 

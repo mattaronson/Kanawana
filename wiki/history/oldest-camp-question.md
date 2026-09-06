@@ -1,6 +1,6 @@
 # Is Kanawana the Oldest Camp in Canada?
 
-*Status: draft | Sources: 20*
+*Status: draft | Sources: 21*
 *Last Updated: 2026-09-05*
 
 ## Overview
@@ -112,6 +112,16 @@ it would be exactly the kind of self-flattering reading it withdrew the "second-
 
 The three camps became permanent institutions at roughly the same time and by the same mechanism:
 acquiring land.
+
+**And the camp itself counted from 1910.** The "Come to Kanawana" brochure for 1929 prints on its
+title page: "KANAWANA / Operated by the Young Men's Christian Association of Montreal / **20th
+Season** / June 24 to September 2nd."^21 Counting 1910 as the first season makes 1929 the twentieth
+exactly. That is the institution's own arithmetic, printed for parents, and it dates Kanawana's
+self-understanding to the Saint-Sauveur site and the Kanawana name — not to 1894, not to Camp
+Jubilee, not to the Lake Saint-Joseph islands. It is evidence about how the camp counted itself,
+which is a different question from when boys first went to camp under the association's auspices,
+and both bear on this article. *(The 1928 brochure carries the same line and its season number is
+OCR-damaged. Nineteen would fit; no number is assigned to it here.)*
 
 **Kanawana is the unusual case, because its founding camp still exists as a separate camp.** The YMCA
 acquired islands in Lake Saint-Joseph for Camp Jubilee [f_0486]. In **1909** Camp Jubilee was **renamed
@@ -516,3 +526,4 @@ across the country, and the century that closed its own sibling camp on the orig
 18. "Camp Stephens 125th Anniversary Chapel Service ~ July 31, 2016," Camp Stephens Alumni blog [src_campstephens_125_chapel_2016]. The 1918 closure for want of counsellors, the first twenty years as an adult and family Bible camp, and the 1911 first boys' camp. A dramatised commemorative script read by alumni, not a history. See [f_4838], [f_4840].
 19. Katelyn Charlebois, "Camp Stephens Celebrates 125 Years," Lake of the Woods Museum Newsletter Vol. 26 No. 3, Summer 2016 [src_muse_kenora_camp_stephens_125]. "Only closed for one summer, 1918"; 54 enlisted campers who did not return; the five islands' namesakes, T. D. Patton among them. See [f_4838], [f_4839].
 20. *Year Book of the Young Men's Christian Associations of North America*, the volumes for **1899** [src_ymca_yearbook_1899] and **1900** [src_ymca_yearbook_1900] — both bound into a single Internet Archive scan whose catalogue record names only 1899. **Not lending-restricted**; downloaded and searched 2026-09-06. "Kanawana", "summer camp" and "camping" occur zero times in either, and the only "camp" near Montreal or Quebec is "winter campaign work" — while the same 1899 volume's Quebec branch directory names the Montreal association's Physical Director as W. H. Ball, Jr. Cached at `sources/cache/ymca-yearbooks/1899-1900-ymca-year-book-montreal-roster.txt`. See [f_4976], [f_4977].
+21. "Come to Kanawana" brochures for the 1928 and 1929 seasons, YMCA of Montreal fonds [src_ymf_1928_come_to_kanawana_brochure, src_ymf_1929_come_to_kanawana_brochure]. See [f_5030].
