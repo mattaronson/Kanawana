@@ -1,8 +1,8 @@
 {
-  "version": "7.59",
-  "kb_version": "7.59",
+  "version": "7.60",
+  "kb_version": "7.60",
   "migrated_from": "3.3",
-  "fact_count": 5033,
+  "fact_count": 5035,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -90758,6 +90758,43 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.59",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5072",
+      "category": "programs",
+      "date_ref": "1936",
+      "entities": [
+        "Kamp Kanawana",
+        "O. N. H. Owens",
+        "Lake Archambault",
+        "YMCA of Montreal"
+      ],
+      "claim": "THREE THINGS THE CAMP CALLED NEW IN 1936, AND ONE OF THEM IS A SCHOOL. The annual report for the year ending 31 March 1937 -- the summer of 1936 -- reports 310 boys for 1092 camper weeks against 259 for 917 the year before, 'an attendance larger than any other year since 1932', with instruction 'in TWENTY-THREE DIFFERENT HANDICRAFT AND ATHLETIC ACTIVITIES'. It then names 'THREE NEW FEATURES INTRODUCED INTO THE CAMP DURING THE YEAR': (1) 'THE ERECTION OF SEVEN SLEEPING CABINS IN THE JUVENILE SECTION, WHICH RESULTED IN A MARKED IMPROVEMENT IN THE HEALTH OF THE YOUNGER BOYS' -- the youngest campers had been under canvas and the association connects cabins directly to health; (2) 'COACHING CLASSES IN SCHOOL STUDIES FOR PUPILS REQUIRING HELP, IN WHICH THIRTY-SEVEN BOYS WERE ENROLLED' -- ACADEMIC TUTORING AT A SUMMER CAMP, thirty-seven boys of a season of 310, which is more than one camper in ten and which this project has no other record of; and (3) 'THE COMMENCEMENT OF LONG CANOE TRIPS TO THE NORTH COUNTRY BEYOND LAKE ARCHAMBAULT, thus opening up...' -- note BEYOND rather than to. wiki/traditions/canoe-trips.md already dates the Archambault trips to 1936 from the McMorris thesis; what the association's own report adds is that it counted the northern trips as one of three deliberate innovations of that year, alongside cabins and tutoring. The page carries a photograph captioned 'O.N.H. OWENS, Chairman, Kanawana Com.', corroborating his chairmanship in the mid-1930s.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1937"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.60",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5073",
+      "category": "people",
+      "date_ref": "1937-1938",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "WHO THE CAMP'S LEADERS WERE BY OCCUPATION, AND HOW FAR THE CAMPERS CAME. THE 1937 SEASON was 'one of the best years in its history with an attendance greater than any other year' -- 407 boys, 1442 camper weeks, AN AVERAGE WEEKLY REGISTRATION OF 160, and 'FOR THE FIRST TIME IN MANY YEARS IT WAS NECESSARY TO REFUSE REGISTRATION FOR PERIODS IN JULY'. THE CATCHMENT IS THE STRIKING PART: besides Greater Montreal, boys came from Quebec City, Shawinigan Falls, Thetford Mines, Three Rivers, Grand Mere, Kenogami, Chateauguay, Valleyfield, St. Timothee, Huntingdon, Pointe Claire, Lachine, Valois, Ste. Anne de Bellevue, St. Lambert, Greenfield Park, Hawkesbury, Ottawa, Toronto, ROUSES POINT N.Y., WINNIPEG, AND BERLIN, GERMANY. A boy from Berlin at a Laurentian camp in the summer of 1937 is recorded here without comment because the report offers none. THE STAFF, described by what they were the rest of the year: 'the camp director, the three section directors, and the business manager WERE ALL MEMBERS OF THE PERMANENT STAFF OF THE Y.M.C.A. Of the FORTY TENT LEADERS AND SECOND STAFF, one was a teacher in the public schools, five were students at McGill, two at the University of Montreal, twelve [...]'. THE 1938 SEASON, 'THE TWENTY-NINTH SEASON AT CAMP KANAWANA' -- a fifth independent instance of the camp counting from 1910 (see f_5030, f_5047) -- took 364 boys for 1315 camper weeks, with 62 boys from outside Montreal and the observation that 'this camp is becoming increasingly known outside the city'. ITS STAFF IS DESCRIBED BY CONTINUITY: 'the camp director, the business manager, the director of the senior section, the canoe trip leader, several junior members of the staff, and ELEVEN OF THE TENT LEADERS, WERE ALL ON THE STAFF THE PREVIOUS YEAR. Of the leaders, two were school teachers, six were college students and ELEVEN MATRICULATED FROM HIGH SCHOOL LAST JUNE.' AND A TRAINING STRUCTURE THIS PROJECT HAD NOT RECORDED: 'MOST OF THE 34 TENT COUNSELLORS ATTENDED THE TRAINING COURSE HELD DURING THE WINTER AND SPRING.' So by 1938 the camp was running an off-season counsellor training course, and staffing itself substantially with boys who had left school the previous June.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1938",
+        "src_ymf_sgw_ymca_annual_report_1939"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.60",
       "added_by": "ralph_loop"
     }
   ]

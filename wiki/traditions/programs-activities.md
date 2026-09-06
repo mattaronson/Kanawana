@@ -159,6 +159,46 @@ Swimming was taught in three streams — beginners individually, improvers, and 
 
 In 1947, the Lumbermen and Voyageur Games were introduced, inspired by YMCA Camp Pine Crest's similar tradition (Muskoka, Ontario). The history of the L&V tradition at Pine Crest is documented in the book "Lumbermen & Voyageurs: The YMCA Pine Crest Story.". The L&V Games quickly became Kanawana's signature competitive event, dividing the entire camp into two teams for a multi-day competition. As of 2025, the games have run for 78 editions (with one year skipped, likely 2020 due to COVID-19). The L&V Games are covered in detail in a separate wiki article.
 
+### 1936: cabins, canoe trips, and a summer school
+
+The association named **three new features** at Kanawana that year, and set them side by side:^ar37
+
+1. **Seven sleeping cabins in the juvenile section**, "which resulted in a marked improvement in the
+   health of the younger boys." The youngest campers had been under canvas.
+2. **Coaching classes in school studies for pupils requiring help, in which thirty-seven boys were
+   enrolled** — academic tutoring at a summer camp, taking better than one camper in ten of a season
+   of 310, and recorded nowhere else in this project.
+3. **"The commencement of long canoe trips to the north country beyond Lake Archambault"** — note
+   *beyond*, not *to*. This article already dates the Archambault trips to 1936 from the McMorris
+   thesis; what the report adds is that the camp counted them as one of three deliberate innovations
+   of the year, alongside cabins and tutoring.
+
+Instruction that season covered "twenty-three different handicraft and athletic activities," and the
+page carries a photograph captioned "O.N.H. Owens, Chairman, Kanawana Com."^ar37
+
+### Who taught, and how far the campers came, 1937-1938
+
+In **1937** — 407 boys, 1,442 camper weeks, an average weekly registration of 160, and "for the first
+time in many years it was necessary to refuse registration for periods in July" — the camp drew from
+well beyond the city: Quebec City, Shawinigan Falls, Thetford Mines, Three Rivers, Grand Mère,
+Kenogami, Châteauguay, Valleyfield, St. Timothée, Huntingdon, Pointe Claire, Lachine, Valois,
+Ste-Anne-de-Bellevue, St. Lambert, Greenfield Park, Hawkesbury, Ottawa, Toronto, **Rouses Point,
+N.Y., Winnipeg, and Berlin, Germany**.^ar38 The report offers no comment on the last of those and
+neither does this article.
+
+The staff are described by what they were the rest of the year. In 1937 "the camp director, the
+three section directors, and the business manager were all members of the permanent staff of the
+Y.M.C.A.," while of the forty tent leaders and second staff "one was a teacher in the public
+schools, five were students at McGill, two at the University of Montreal."^ar38
+
+In **1938**, "the twenty-ninth season," the emphasis is continuity: the director, the business
+manager, the senior section director, **the canoe trip leader** and eleven tent leaders had all been
+on staff the previous year, and of the leaders "two were school teachers, six were college students
+and **eleven matriculated from high school last June**."^ar39 And one structure this article had not
+carried: "**most of the 34 tent counsellors attended the training course held during the winter and
+spring**." By the late 1930s the camp was training its counsellors in the off-season and staffing
+itself substantially with that June's school leavers.
+
 ## The Voyageur and CIT Programmes (1950s-1960s)
 
 Two programme additions in this period transformed Kanawana from a single-offering camp into a tiered system:
@@ -339,6 +379,9 @@ environmental-education positioning without originating from it.
 8. What was the Pathfinder program Summer Summary (1965 archives listing)? Was it the existing boys' section (est. 1959) or something new?
 
 ## Sources
+- **ar37** — YMCA of Montreal Annual Report for the year ending 31 March 1937 [src_cache_sgw_ymca_annual_report_1937], camping season **1936**. See [f_5072].
+- **ar38** — the same series for the year ending 31 March 1938 [src_ymf_sgw_ymca_annual_report_1938], camping season **1937**. See [f_5073].
+- **ar39** — the same series for the year ending 31 March 1939 [src_ymf_sgw_ymca_annual_report_1939], camping season **1938**. See [f_5073].
 - **ar27** — YMCA of Montreal, 76th Annual Report, for the year ending 31 March 1927 [src_ymf_sgw_ymca_annual_report_1927]. Its camping season is the summer of **1926**. Read for its Kanawana season narrative 2026-09-06 under p_441; the rest is not read. See [f_5067] and [f_5068].
 - **ar28** — YMCA of Montreal, 77th Annual Report, for the year ending 31 March 1928 [src_ymf_sgw_ymca_annual_report_1928]. Its camping season is the summer of **1927** (see [f_5039] on the reports' 31 March year-end). Read for its Boys' Work and Kanawana sections 2026-09-06 under p_441; the rest of a 105,000-character report is not read. See [f_5064].
 - CFCF radio broadcast script, 1936, "Kamp Kanawana Broadcast — Station CFCF" [src_ymf_1936_kamp_kanawana_broadcast_station_cfcf], Concordia-digitized YMCA of Montreal fonds. Marked `cfcf36` above. **The earliest of the CFCF series and the only one surviving as text**; it had been in this repo's cache labelled *skimmed*, cited by no article, and was read on 2026-09-06 under p_441. See [f_5003].
