@@ -1,8 +1,8 @@
 {
-  "version": "7.15",
-  "kb_version": "7.15",
+  "version": "7.16",
+  "kb_version": "7.16",
   "migrated_from": "3.3",
-  "fact_count": 4951,
+  "fact_count": 4953,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -89048,6 +89048,49 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4990",
+      "category": "institutional",
+      "date_ref": "1937-1961",
+      "entities": [
+        "Quebec Camping Association",
+        "Association des camps du Québec",
+        "Canadian Camping Association",
+        "Alta R. Kahn",
+        "Kenneth Murray",
+        "Raoul Cloutier",
+        "René Saint-Onge",
+        "Ernie Freedman",
+        "F. M. Van Wagner"
+      ],
+      "claim": "THE QUEBEC CAMPING ASSOCIATION WAS FORMED ON 11 FEBRUARY 1937, AND THE 1961 JOINT CHARTER HAS FOUR NAMED SIGNATORIES. Canadian Camping vol. 13 no. 3 (April 1961), 'JOINT CHARTER -- QUEBEC CAMPING ASSOCIATION INC. -- L'ASSOCIATION DES CAMPS DU QUEBEC INC.': 'The Quebec Camping Association formed on FEBRUARY 11, 1937, had been planning for some time to apply for incorporation and become a chartered affiliate of the Canadian Camping Association (originally founded in Toronto in 1936), when it learned that the French group -- L'Association des Camps du Quebec -- FOUNDED ABOUT THREE YEARS AGO, were interested in joining with them in obtaining a Charter.' THE EXACT DAY IS NEW HERE; this project held only the year. THE SEQUENCE: first steps towards incorporation early in June 1960; the Application for the Charter 'completed and signed on NOVEMBER 26, 1960, at a Conference held by the French Section'; formal application 28 November 1960; notification of approval 9 JANUARY 1961. SIGNED BY FOUR: 'Mrs. Alta R. Kahn, President, Quebec Camping Association, Mr. Kenneth Murray, immediate Past-President, L'Abbe Raoul Cloutier, Priest and Director of Camp-Ecole Trois-Saumons, and Mr. Rene Saint-Onge, President, L'Association des Camps du Quebec.' The Charter Committee sat two years under ERNIE FREEDMAN as chairman, with Tony Shorgan, Kenneth Murray, Cloutier, Kahn, and F. M. VAN WAGNER as President of the Canadian Camping Association, 'whose advice and counsel helped immeasurably'. THE STRUCTURE AGREED: 'The English and French Sections will each operate independently but will have a joint Board to deal with matters affecting the whole camping movement in the Province of Quebec.' CORROBORATION WORTH NOTING: this project's account of the ACQ being founded in 1958 and joining the QCA in 1961 rests on a CCA announcement of February 1969 (f_4790 and the canadian-camping-movement article). This 1961 article is CONTEMPORARY with the events and says the French group was 'founded about three years ago', i.e. about 1958, and describes the joining as it happened. Two independent sources eight years apart, agreeing.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.16",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4991",
+      "category": "institutional",
+      "date_ref": "1937-2026",
+      "entities": [
+        "Kamp Kanawana",
+        "Association des camps du Québec",
+        "Quebec Camping Association",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE CAMP'S 'FOUNDING MEMBER OF THE ACQ' CLAIM IS THE CAMP'S OWN, AND WHAT IT WOULD HAVE TO MEAN IS NOW NARROWED. p_431 asked whether Kanawana was a founding member of the Association des camps du Quebec, on the strength of the Guide Petit Fute Montreal 2011-2012 (f_4957). EVERY INSTANCE OF THE CLAIM FOUND SO FAR TRACES TO THE CAMP OR ITS PARENT BODY, none to an independent source: the 2025 preparation guide and both the French and English 2026 parent guides ('l'Association des camps du Quebec, association dont notre camp est un membre fondateur' / 'of which our camp is a founding member'), and the YMCA's own Pip Award release ('is a founding member of the Association'). The guidebook is repeating camp copy, not corroborating it. AND THE CLAIM CANNOT MEAN WHAT IT LITERALLY SAYS. The body called L'Association des camps du Quebec was founded ABOUT 1958 as a SEPARATE FRANCOPHONE association and joined the anglophone Quebec Camping Association under a joint charter in 1961 (f_4990). Kanawana is an anglophone YMCA of Montreal camp; it would have belonged to the QUEBEC CAMPING ASSOCIATION, formed 11 February 1937, not to the French body founded twenty-one years later. So for the claim to be true it must mean the QCA, whose merged successor carries the ACQ name today -- which is a reasonable thing for a camp to say in 2026 and NOT what the words say. WHAT WOULD SETTLE IT IS NARROWER THAN p_431 SUPPOSED: not the ACQ's records at all, but a list of the camps present at or party to the QUEBEC CAMPING ASSOCIATION'S FORMATION ON 11 FEBRUARY 1937. The Concordia Archives hold a QCA constitution from 1937 and executive and members' meeting records from 1937 to 1942, which is where such a list would be. NO INDEPENDENT SOURCE FOUND EITHER WAY: this is neither a confirmation nor a refutation, and the absence of a 1937 membership roll from this project's holdings is not evidence against the claim.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "7.16",
       "added_by": "ralph_loop"
     }
   ]

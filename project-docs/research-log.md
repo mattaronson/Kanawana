@@ -5913,3 +5913,38 @@ Raised as **p_439**, weight 9, a human task. The material is known to exist, kno
 domain and precisely located; the only obstacle is a bot challenge. The 1910-11 volume alone would
 settle whether W. J. Holliday was Boys' Work Director again when he opened the new site — a
 question this project has already got wrong once today.
+
+## Campaign: p_431 — the "founding member" claim, and what it would have to mean
+*2026-09-06*
+
+The zeroth step answered most of it. `sources/cache/` already held the claim in four places — the
+2025 preparation guide, both 2026 parent guides, and the YMCA's Pip Award release — **all of them
+the camp's own copy**. The Petit Futé guide that raised the question is repeating it, not
+corroborating it. No independent source says it, in the cache or in the word-for-word read of the
+*Canadian Camping* run.
+
+**And then the claim turned out not to mean what it says.** *Canadian Camping* for April 1961
+carries the announcement of the joint charter, and it is precise: the **Quebec Camping
+Association** was "formed on **February 11, 1937**" — an exact date this project did not have —
+while **L'Association des Camps du Québec** was a *separate francophone body* "founded about three
+years ago", c. 1958, which approached the QCA about a joint charter. Kanawana is an anglophone
+YMCA of Montreal camp. It would have belonged to the QCA, not to a French association founded
+twenty-one years later.
+
+So for "founding member of the Association des camps du Québec" to be true, it has to mean the
+QCA, whose merged successor carries the ACQ name today. That is a reasonable thing for a camp to
+put in a parent guide in 2026, and it is not what the words say.
+
+**Which moves the target, and off this environment.** What would settle it is not the ACQ's
+records at all: it is a list of the camps party to the QCA's formation on 11 February 1937. The
+Concordia Archives hold a QCA constitution of 1937 and executive and members' meeting records from
+1937 to 1942. That is a physical-archive task. The *Canadian Camping* route is exhausted — the run
+has been read word for word and carries no membership roll.
+
+Recovered along the way, and worth having: the charter sequence (first steps June 1960,
+application signed 26 November 1960 at a French Section conference, approval 9 January 1961), its
+four signatories — **Alta R. Kahn**, **Kenneth Murray**, **L'Abbé Raoul Cloutier** of Camp-École
+Trois-Saumons and **René Saint-Onge** — the Charter Committee under **Ernie Freedman** with F. M.
+Van Wagner, and the settlement that still shapes the body: two sections operating independently
+under a joint Board. Also a **contemporary** corroboration of the 1958-founding and 1961-joining
+sequence, which this project had been holding on a single CCA announcement of 1969.
