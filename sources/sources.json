@@ -27556,8 +27556,8 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "read_state": "unread",
-      "read_state_basis": "none: catalogued 2026-09-02 from a cached file that belonged to no source record",
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_441: the CAMPING paragraph read -- the branch day camps' French-language sections, the increase in French-speaking registrations at Kanawana, and the ski tow (f_5111). THIS IS THE REPORT FOR THE YEAR ENDED 31 MAY 1972. The rest of this 21,600-character bilingual volume is NOT read.",
       "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read."
     },
     {
@@ -27574,8 +27574,8 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "read_state": "unread",
-      "read_state_basis": "none: catalogued 2026-09-02 from a cached file that belonged to no source record",
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_441: the item headed 'ALL-YEAR PROPOSAL MADE FOR KANAWANA' read in full -- the Otoreke Project's 1969 origin and 1972 size, the completed all-season proposal for Kanawana, the 1972-73 winter facilities, the 1972 season and the free camperships (f_5111). THIS IS THE REPORT FOR THE YEAR ENDED 31 MAY 1973. The rest of this 35,600-character volume is NOT read.",
       "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read."
     },
     {

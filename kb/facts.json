@@ -1,8 +1,8 @@
 {
-  "version": "7.88",
-  "kb_version": "7.88",
+  "version": "7.89",
+  "kb_version": "7.89",
   "migrated_from": "3.3",
-  "fact_count": 5072,
+  "fact_count": 5073,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91493,6 +91493,25 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.88",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5111",
+      "category": "programs",
+      "date_ref": "1969-1973",
+      "entities": [
+        "Camp Otoreke",
+        "Kamp Kanawana",
+        "Otoreke Project"
+      ],
+      "claim": "THE OTOREKE PROJECT: STARTED 1969 WITH 25 INNER-CITY FAMILIES, OVER 1,000 PEOPLE BY 1972, 'PRACTICALLY ALL FRENCH-SPEAKING'. f_5110 found 'Projet Otoreke' named in the 1970-71 report as citizen groups from quartiers populaires running their own family programmes at Otoreke AND at Kanawana, with no date, no size and no origin. THE REPORT FOR THE YEAR ENDED 31 MAY 1973 SUPPLIES ALL THREE: 'Camp Otoreke, near St. Adolphe de Howard, is a focal point of THE OTOREKE PROJECT, STARTED IN 1969 WHEN 25 INNER-CITY FAMILIES WERE HELPED TO ORGANIZE OUT-OF-TOWN VACATIONS FOR THEMSELVES. IT CURRENTLY INVOLVES OVER 1,000 PEOPLE -- PRACTICALLY ALL FRENCH-SPEAKING -- in planning, implementing and providing leadership, to a YEAR-ROUND range of educational, recreational and developmental activities.' 1969 IS ALSO THE YEAR 170 PEOPLE FROM PETITE-BOURGOGNE SPENT TWO WEEKS AT OTOREKE (f_5104). The reports do not say the two are the same thing and I am not merging them, but they are the same year, the same camp and the same population, and anyone working on either should read both. 'HELPED TO ORGANIZE... FOR THEMSELVES' is the phrase that matters: the association's own account of the project is that it enabled rather than ran it, which matches the 1970-71 report's verbs. Twenty-five families to over a thousand people in four years, and by 1972-73 it is year-round. AND A COMPREHENSIVE ALL-SEASON PROPOSAL FOR KANAWANA WAS COMPLETED. Same report, under the heading 'ALL-YEAR PROPOSAL MADE FOR KANAWANA': 'Outdoor Education programs were carried on throughout the year at the YMCA's Camp Otoreke, and A COMPREHENSIVE PROPOSAL FOR EXPANDING ALL SEASON OPERATIONS AT KAMP KANAWANA HAS BEEN COMPLETED.' traditions/winter-programming.md's open question 2 notes a 1969 Concordia 'Working paper on year-round use' and dates year-round operation to 1996. HERE IS A COMPLETED COMPREHENSIVE PROPOSAL IN 1972-73, twenty-three years before. THE PROPOSAL ITSELF IS NOT IN THIS PROJECT and the report does not summarise it. THE 1972 WINTER AND SEASON, mostly already held: the ski lift installed, two slopes groomed, miles of trails marked, 'courses of instruction for all ages, and A BABYSITTING SERVICE enabled parents with toddlers to take part'; 523 boys and girls in the summer of 1972; French the first language of more than 35 per cent of campers. NEW: 'FREE CAMPERSHIPS WERE ARRANGED FOR A GROUP OF INNER-CITY YOUNGSTERS who would not otherwise have had out-of-city holidays', and some 2,600 youngsters in YMCA day camps and BACK-ALLEY PROGRAMS, a term absent from this project. AND FROM THE 1971-72 REPORT: 'Day camps at the N.D.G. and Westmount branches AGAIN OPERATED FRENCH-LANGUAGE SECTIONS FOR ENGLISH-SPEAKING YOUNGSTERS. Verdun-Lasalle YMCA's day camp was A COMPLETELY BILINGUAL OPERATION.' 'Again' means these were running before 1971-72, and they are the day-camp counterpart of the 'Living-in-French' section introduced at the resident camp in 1969 (f_5103). The same paragraph: 'There was A SUBSTANTIAL INCREASE IN THE NUMBER OF FRENCH-SPEAKING BOYS AND GIRLS registered at Kamp Kanawana... A SKI TOW HAS BEEN INSTALLED there to broaden the scope of winter programming' -- the ski tow is already in the article's timeline.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1972_1973",
+        "src_cache_sgw_ymca_annual_report_1971_1972"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.89",
       "added_by": "ralph_loop"
     }
   ]

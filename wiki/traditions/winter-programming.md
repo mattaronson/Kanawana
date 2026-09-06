@@ -1,6 +1,6 @@
 # Winter and Year-Round Programming
 
-*Status: E1-reviewed | Sources: 18*
+*Status: E1-reviewed | Sources: 19*
 *Last Updated: 2026-09-06 (a family ski day at capacity in the winter of 1969-70)*
 
 ## Overview
@@ -117,7 +117,7 @@ David Leduc managed Camp Kanawana's summer and winter programs, including recrui
 ## Open Questions
 
 1. ~~[Important] When exactly did Winter Outdoor Family Camping begin in the 1970s? What did it involve?~~ [Resolved 2026-07-09 as to the named programme; **qualified 2026-09-06** — a West Island Branch family ski day was running Saturdays at Kanawana and already at capacity in the winter of 1969-70, three years earlier; see the section above and [f_5101]] Winter 1972-73, per the YMCA's own Annual Report: ski lift, two groomed downhill slopes, cross-country/snowshoe trails, all-ages courses, toddler babysitting service — one year after an initial 1971-72 ski tow.
-2. [Important, advanced 2026-07-09] How did year-round programming (1996) affect the camp's staffing model? A 1969 Concordia "Working paper on year-round use" shows the idea was studied 27 years earlier, directly preceding the camp's 1994-95 leadership restructuring into a year-round Executive Director plus a three-season on-site Camp Director — but no source documents the specific staffing/infrastructure changes that accompanied the 1996 launch itself; confirmed dead end for that specific detail.
+2. [Important, advanced 2026-07-09] How did year-round programming (1996) affect the camp's staffing model? A 1969 Concordia "Working paper on year-round use" shows the idea was studied 27 years earlier, directly preceding the camp's 1994-95 leadership restructuring into a year-round Executive Director plus a three-season on-site Camp Director — but no source documents the specific staffing/infrastructure changes that accompanied the 1996 launch itself; confirmed dead end for that specific detail. **[Advanced again 2026-09-06: the idea was not only studied, it was written up. The annual report for the year ended 31 May 1973 carries an item headed "All-year proposal made for Kanawana" and says "a **comprehensive proposal for expanding all season operations at Kamp Kanawana has been completed**."^19 That is twenty-three years before 1996, and it is a completed proposal rather than a working paper. The proposal itself is not in this project and the report does not summarise it — finding it is the next step. See [f_5111].]**
 3. [Nice-to-have] What environmental education programming runs during the winter months specifically?
 4. [Nice-to-have] How many groups use the camp annually outside the summer season?
 
@@ -149,6 +149,7 @@ David Leduc managed Camp Kanawana's summer and winter programs, including recrui
 16. Montreal YMCA bilingual news bulletin, **29 January 1970** [src_ymf_p0145_news_release_1970_01_29], the item headed "It's mainly because of the soup." Cached at `sources/cache/ymca-montreal-fonds/p0145-news-release-1970-01-29.txt`; read 2026-09-06 under p_451. See [f_5101].
 17. Montreal YMCA bilingual news release, **28 November 1969** [src_ymf_news_release_1969_11_28], French column. Cached at `sources/cache/ymca-montreal-fonds/news-release-1969-11-28.txt`; read 2026-09-06 under p_451. See [f_5104].
 18. YMCA of Montreal annual report for the year ended **31 May 1971** [src_ymf_sgw_ymca_annual_report_1970_1971] — the bilingual highlights spread. Its season is the winter of 1970-71 and the summer of 1970. Read 2026-09-06 under p_441. See [f_5110].
+19. YMCA of Montreal annual reports for the years ended **31 May 1972** and **31 May 1973** [src_cache_sgw_ymca_annual_report_1971_1972, src_cache_sgw_ymca_annual_report_1972_1973]. Read 2026-09-06 under p_441. See [f_5111].
 
 ## Research Notes
 

@@ -253,6 +253,12 @@ The same release shows the season filling: "Kamp Kanawana still has a limited nu
 
 This is a residential French immersion section at Kanawana in 1969, and nothing else in this wiki records it. It is not the same thing as the French-language *day camp* whose 1968 report and May 1968 proposal sit in the Concordia fonds unread, but the two are plainly connected and belong read together.
 
+**And the day camps were doing the same thing.** The annual report for the year ended 31 May 1972: "Day camps at the **N.D.G. and Westmount** branches **again** operated **French-language sections for English-speaking youngsters**. **Verdun-Lasalle YMCA's day camp was a completely bilingual operation**."^nr72 "Again" puts these before 1971-72, so the resident camp's Living-in-French section of 1969 was one strand of something the association was running across its branches.
+
+The same paragraph reports "a **substantial increase in the number of French-speaking boys and girls** registered at Kamp Kanawana," and by the summer of 1972 French was the first language of **more than 35 per cent** of the campers.^nr72 That is a different phenomenon from teaching French to anglophone boys, and the two ran side by side: the camp was both teaching the language and filling with children who already spoke it.
+
+Free camperships that year went to "a group of **inner-city youngsters** who would not otherwise have had out-of-city holidays," and some 2,600 children passed through YMCA day camps and "**back-alley programs**."^nr72
+
 **Staffing and the rest of the programme.** "In addition to section directors, supervisors, a diversified team of activity specialists, a resident doctor and nurse, and a **dietician** — Kanawana's staff includes **one counsellor for every seven campers**."^nr69 The seven-camper unit of the 1955 and 1958 reports was still the unit fourteen years later. The activity list adds two items new to this article: "horseback riding; swimming; canoeing; rowing; sailing; arts & crafts; **skin diving**; naturelore; archery; **riflery**; hiking; sports instruction."
 
 
@@ -465,6 +471,7 @@ environmental-education positioning without originating from it.
 - **pgd** — YMCA of Montreal annual reports for the years ending **31 December 1960** and **31 December 1961** [src_ymf_sgw_ymca_annual_report_1960, src_ymf_sgw_ymca_annual_report_1961]. December-year volumes, so their seasons are 1960 and 1961 (see [f_5081]). Camps sections read 2026-09-06 under p_441. See [f_5088], [f_5087].
 - **nr69** — Montreal YMCA news release, **13 May 1969**, "YMCA's Kamp Kanawana Set for Record Summer," quoting Geoff Anderson, Director of Kanawana [src_ymf_news_release_1969_05_13_202501]. Cached at `sources/cache/ymca-montreal-fonds/news-release-1969-05-13_202501.txt`; read 2026-09-06 under p_451. See [f_5100].
 - **nr69a** — Montreal YMCA news release, **24 April 1969** [src_ymf_news_release_1969_04_24]. Cached at `sources/cache/ymca-montreal-fonds/news-release-1969-04-24.txt`; read 2026-09-06 under p_451. See [f_5103].
+- **nr72** — YMCA of Montreal annual reports for the years ended **31 May 1972** and **31 May 1973** [src_cache_sgw_ymca_annual_report_1971_1972, src_cache_sgw_ymca_annual_report_1972_1973]. Read 2026-09-06 under p_441. See [f_5111].
 
 ## Research Notes
 

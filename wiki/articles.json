@@ -1245,7 +1245,9 @@
         "src_ymf_sgw_ymca_annual_report_1960",
         "src_ymf_sgw_ymca_annual_report_1961",
         "src_ymf_news_release_1969_05_13_202501",
-        "src_ymf_news_release_1969_04_24"
+        "src_ymf_news_release_1969_04_24",
+        "src_cache_sgw_ymca_annual_report_1971_1972",
+        "src_cache_sgw_ymca_annual_report_1972_1973"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -1259,7 +1261,7 @@
         "quebec-camp-landscape"
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-      "word_count": 9193,
+      "word_count": 9391,
       "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, renamed the orphaned 'R3 Verification Notes' H2 to the standard 'Research Notes' heading and condensed its bullet list into a single HTML-comment process-log entry. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -3496,7 +3498,8 @@
         "src_ymf_sgw_ymca_annual_report_1948",
         "src_cache_sgw_ymca_annual_report_1967",
         "src_ymf_news_release_1969_11_28",
-        "src_ymf_sgw_ymca_annual_report_1970_1971"
+        "src_ymf_sgw_ymca_annual_report_1970_1971",
+        "src_cache_sgw_ymca_annual_report_1972_1973"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -3509,7 +3512,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 9231,
+      "word_count": 9405,
       "notes": "E1 REVIEW (2026-02-19): Removed unverifiable 'Google Maps' source and '20 km' distance claim. Expanded 'Multiple sources' citation into discrete references (Facts sheet + McMorris). Removed src_oral_aronson (no inline citation). Removed unsourced bullet. Fixed postcard inference. Fixed closure section process language. Split 1967 conference/reports sentence. Renumbered sources 1-10. Added camp-otoreke cross-link to centennial-1967. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_008 editorial-resolution narrative into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -7422,7 +7425,9 @@
         "src_ymf_sgw_ymca_annual_report_1947",
         "src_ymf_p0145_news_release_1970_01_29",
         "src_ymf_news_release_1969_11_28",
-        "src_ymf_sgw_ymca_annual_report_1970_1971"
+        "src_ymf_sgw_ymca_annual_report_1970_1971",
+        "src_cache_sgw_ymca_annual_report_1971_1972",
+        "src_cache_sgw_ymca_annual_report_1972_1973"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -7432,7 +7437,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 3036,
+      "word_count": 3150,
       "tags": {
         "era": [
           "1970s",
