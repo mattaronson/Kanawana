@@ -1,6 +1,6 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 35*
+*Status: E1-reviewed | Sources: 36*
 *Last Updated: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *Last Updated: 2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
 *Last Updated: 2026-07-05 (named trip staff added from photo-mined canoe-trip plaques, p_191 ENRICH pass) — photo gallery added 2026-07-02*
@@ -22,6 +22,14 @@ Two years later the report singles out something else entirely. "**A specific fe
 The report gives no length in days, no distance, no party size and no leader's name, and this article is not going to supply them from the map. What it does establish is that by 1947 Kanawana was running an expedition well beyond the ten-day senior Ottawa River trip that topped the 1945 tiers.
 
 The following summer added a second frontier: in 1948, "in addition to trips up and down the Ottawa River, **senior campers explored the bush country of Lake Nominingue**."^34 Nominingue sits in the upper Laurentians roughly a hundred kilometres north of Saint-Sauveur, and it appears elsewhere in this project only as somebody else's camp address. This is the first record of Kanawana campers there.
+
+### 1963 at Kanawana, in numbers, and a first for parents
+
+The same annual report gives the main camp's season. "**602 boys** attended Kanawana and Les Voyageurs de la Verendrye in 1963, led by **75 young men**, most of whom were college students and graduates" — the two programmes counted together, which is how the association was now reporting them.^36
+
+"**419 swimming tests** were passed at Kanawana in 1963 indicating a lively interest in water-front program. **20 five-day canoe trips** were taken by the older campers during the season in areas north of the camp which provide wilderness camping experiences. Kamp Kanawana has long been known as a canoe tripping camp as **187 boys passed the canoe tests** this season. Every boy has the opportunity for one or more one to five-day hikes during his stay. Last summer there were **147 such hikes** involving distances of **one to forty miles**, depending on age of the campers. **Even the youngest campers go on at least one overnight hike.**"^36
+
+And one line that belongs to no other article here: "An **orientation program for parents of new Kanawana campers involving 5 meetings** was an important innovation."^36 This project holds nothing else on the camp's relationship with parents beyond counts of Sunday visitors, and the report calls it an innovation, which makes 1963 its first year.
 
 ### 1961: three crews of five, three weeks, 250 miles, and the rule of the I's
 
@@ -99,6 +107,14 @@ exist yet: "Because Lac Landron is ideal as a Base Camp set-up, it is strongly r
 **immediate steps be taken to obtain a lease** for the area" — still being urged three years later,
 when the 1966 report asks for efforts "to lease or purchase this land on Lac Landron while it is
 still available."^29
+
+**And the association's own annual report says a lease was obtained. [Conflict c_066.]** The YMCA of Montreal's 112th annual report, covering 1 January 1963 to 31 May 1964, states it flatly: "Les Voyageurs explored more new tripping areas in and around Park de la Verendrye. **A permanent base camp was established by virtue of a 25 acre lease obtained through the co-operation of the Quebec government.** The base provides a jumping-off-spot for trips ranging in distance of **10 to 150 miles** in length, taken at a leisurely pace, **planned by the Voyageurs and their counsellors**."^36
+
+That is two documented institutional sources disagreeing. A lease signed between the camp's season report of late summer 1963 and the annual report's close on 31 May 1964 would satisfy both — but it would not explain the 1966 report still asking. Four readings are open and none is ruled out: the 25 acres were a different parcel or a different lake, since the annual report **names no lake** and places the Voyageurs only "in and around Park de la Verendrye"; the lease was short and had lapsed by 1966, which fits this article's existing note; the 1966 request is for *purchase* rather than a first lease, its own wording being "to lease or purchase"; or the annual report overstates an arrangement that was informal or still in progress, which is a thing annual reports do.
+
+Nothing above has been rewritten to prefer the annual report. The camp's own report is the closer witness, and both accounts stand here side by side until something dates the lease.
+
+The same passage adds what the base was for beyond paddling: "Besides canoe tripping, variety is introduced by **trips to fire towers and lumber camps**. One group during a five-day confinement to base camp because of **fire hazard**, constructed a **birch bark teepee 20 feet in height and 32 foot diameter**, which provided ideal living accommodation."^36 And the programme had settled: "The past year has now **confirmed Les Voyageurs as a highly accepted camp program for boys, ages 14-16**."^36
 
 So the sequence is four steps, not one: trips into the park from a base at Kanawana in 1959; a base
 inside the park at **Lac Nanouaton** by about 1960; the move to **Lac Landron** in **1963**; and a
@@ -736,3 +752,4 @@ This is the only itemised cost of a 1920s Canadian canoe trip found by this proj
 33. Les Voyageurs de la Vérendrye reports for **1966** (signed Jack Soule), **1969** (David Blake) and **1973** (John Evans, final report, 19 August) [src_ymf_1966_les_voyageurs_de_la_verendrye_report, src_ymf_1969_les_voyageurs_de_la_verendrye_report, src_ymf_1973_08_19_les_voyageurs_de_la_verendrye_final_report]. All three read whole 2026-09-06 under p_441, completing the run. See [f_5061] and [f_5062].
 34. YMCA of Montreal annual reports for the years ending 31 March **1946**, **1948** and **1949** [src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1948, src_ymf_sgw_ymca_annual_report_1949]. Under the 31 March rule (f_5039) these cover the 1945, 1947 and 1948 seasons. Camps sections read 2026-09-06 under p_441. See [f_5076], [f_5077].
 35. YMCA of Montreal annual report for the year ending **31 December 1961** [src_ymf_sgw_ymca_annual_report_1961]. A December-year volume, so its season is 1961 (see [f_5081]). Camps section read 2026-09-06 under p_441. See [f_5089].
+36. YMCA of Montreal, **112th Annual Report**, for the year ended **31 May 1964** [src_ymf_sgw_ymca_annual_report_1963] — a seventeen-month volume covering 1 January 1963 to 31 May 1964, so its camping season is the summer of **1963** (see [f_5090]). Read 2026-09-06 under p_441. See [f_5091], [f_5092].

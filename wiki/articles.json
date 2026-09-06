@@ -371,7 +371,8 @@
         "src_ymf_sgw_ymca_annual_report_1946",
         "src_ymf_sgw_ymca_annual_report_1948",
         "src_ymf_sgw_ymca_annual_report_1949",
-        "src_ymf_sgw_ymca_annual_report_1961"
+        "src_ymf_sgw_ymca_annual_report_1961",
+        "src_ymf_sgw_ymca_annual_report_1963"
       ],
       "open_questions": 0,
       "cross_links": [
@@ -387,7 +388,7 @@
         "traditions/order-of-owens"
       ],
       "file_id": "13MmwA1lO_3J3rJ7yEZjwsvT--vWooITy",
-      "word_count": 13786,
+      "word_count": 14394,
       "tags": {
         "era": [
           "1920s",
@@ -3305,7 +3306,8 @@
         "src_ymf_sgw_ymca_annual_report_1952",
         "src_ymf_sgw_ymca_annual_report_1953",
         "src_ymf_sgw_ymca_annual_report_1957",
-        "src_ymf_sgw_ymca_annual_report_1958"
+        "src_ymf_sgw_ymca_annual_report_1958",
+        "src_ymf_sgw_ymca_annual_report_1963"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -3320,7 +3322,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 6660,
+      "word_count": 6847,
       "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral. 2026-06-20: Added Indigenous territory context (f_1315) and Mille-Isles regional history (f_1314). 2026-06-21: Added 1976 Lovell's directory listing (f_1331) and 2023 superintendent's house fire (f_1333). | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph about the Weredale lease into a new Research Notes > Revision History section (this article previously had no Research Notes section at all). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -5433,7 +5435,8 @@
         "src_ymf_sgw_ymca_annual_report_1949",
         "src_ymf_sgw_ymca_annual_report_1951",
         "src_ymf_sgw_ymca_annual_report_1952",
-        "src_ymf_sgw_ymca_annual_report_1961"
+        "src_ymf_sgw_ymca_annual_report_1961",
+        "src_ymf_sgw_ymca_annual_report_1963"
       ],
       "open_questions": 1,
       "cross_links": [
@@ -5444,7 +5447,7 @@
         "camp-thunderbird"
       ],
       "file_id": null,
-      "word_count": 4769,
+      "word_count": 4944,
       "notes": "RALPH R1 complete (2026-06-21): 30+ web searches returned zero new facts. Article meets draft criteria (Overview summary, 3 content sections, 3 sources). All remaining open questions require physical Concordia Archives access (P0145/12G). BAnQ newspaper facts (f_1326-f_1339) checked — none mention Camp Perrot. Advanced stub→draft. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header, moved the '12G sub-series' correction and the Batch 7 research-pass summary into a new Research Notes > Revision History section (this article previously had no Research Notes section). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

@@ -1,7 +1,7 @@
 # Camp Perrot
 
-*Status: E1-reviewed | Sources: 17*
-*Last Updated: 2026-09-06 (the site was still running a day camp in 1961, which the closure question has to account for)*
+*Status: E1-reviewed | Sources: 18*
+*Last Updated: 2026-09-06 (what it became: a family recreation centre, built up in 1963-64)*
 
 ## Overview
 
@@ -47,6 +47,10 @@ Camp Perrot is absent from the 1980 YMCA situation reports, which mention Kanawa
 That is a distinction the closure question needs. In 1961 the property was still YMCA summer camping ground; what had gone, or was going, was the **residential** camp. Anyone dating the end of Camp Perrot by asking when the site fell out of use will get the wrong answer, and the two questions — when the resident camp stopped and when the property left the association — have to be asked separately.
 
 The same report does **not** say whether a resident season ran at Perrot in 1961. It describes only the day camp. That is not evidence that none ran.
+
+**And by 1963-64 the association was building it into something else.** The property section of the 112th annual report, covering 1 January 1963 to 31 May 1964, records: "At Camp Perrot, **additional facilities were constructed in conjunction with the development of this property as a family recreation centre**."^18
+
+So the shape of the ending is now visible even though its date is not. The residential boys' and girls' camp stopped; the site did not. It carried day camps for two city branches in 1961 and was being built up as a **family recreation centre** two years later. "When did Camp Perrot close" is the wrong question, and the contested chronology above is contested partly because it asks it: what closed was one use of a property the association kept, spent money on, and repurposed. The report does not say when the resident camp last ran.
 
 ## Programming and Capacity
 
@@ -250,6 +254,7 @@ The earliest known Kanawana-side documentary evidence is a "Comparison of Two Bo
 15. YMCA of Montreal annual reports for the years ending 31 March **1946**, **1947**, **1948** and **1949** [src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1947, src_ymf_sgw_ymca_annual_report_1948, src_ymf_sgw_ymca_annual_report_1949]. Under the 31 March rule (f_5039) these cover the 1945, 1946, 1947 and 1948 seasons. Camps sections read 2026-09-06 under p_441. See [f_5078].
 16. YMCA of Montreal annual reports for the years ending **31 December 1951** and **31 December 1952** [src_ymf_sgw_ymca_annual_report_1951, src_ymf_sgw_ymca_annual_report_1952]. Note the year-end: the association moved from a 31 March to a 31 December financial year with its 100th report, so these describe the summers of 1951 and 1952, not the previous ones (see [f_5081]). Read 2026-09-06 under p_441. See [f_5082].
 17. YMCA of Montreal annual report for the year ending **31 December 1961** [src_ymf_sgw_ymca_annual_report_1961], the "Summer Programs For Youngsters in the City" section. A December-year volume, so its season is 1961 (see [f_5081]). Read 2026-09-06 under p_441. See [f_5089].
+18. YMCA of Montreal, **112th Annual Report**, for the year ended **31 May 1964** [src_ymf_sgw_ymca_annual_report_1963] — a seventeen-month volume covering 1 January 1963 to 31 May 1964 (see [f_5090]), property section. Read 2026-09-06 under p_441. See [f_5093].
 
 ## Research Notes
 

@@ -1,8 +1,8 @@
 {
-  "version": "7.74",
-  "kb_version": "7.74",
+  "version": "7.76",
+  "kb_version": "7.76",
   "migrated_from": "3.3",
-  "fact_count": 5052,
+  "fact_count": 5055,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91127,6 +91127,59 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5091",
+      "category": "programs",
+      "date_ref": "1963",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "Kamp Kanawana",
+        "Parc de la Verendrye"
+      ],
+      "claim": "THE LES VOYAGEURS BASE CAMP LEASE: 25 ACRES, FROM THE QUEBEC GOVERNMENT, IN 1963. traditions/canoe-trips.md dates the Lac Landron lease only loosely -- 'the lease this article dates loosely came after' the 1962 report that asked for a permanent site -- and its header records 'circumstantial evidence the 1962-63 lease has lapsed'. THE 112TH ANNUAL REPORT, for the seventeen months to 31 May 1964 and therefore covering the summer of 1963 (f_5090), states it: 'Les Voyageurs explored more new tripping areas in and around PARK DE LA VERENDRYE. A PERMANENT BASE CAMP WAS ESTABLISHED BY VIRTUE OF A 25 ACRE LEASE OBTAINED THROUGH THE CO-OPERATION OF THE QUEBEC GOVERNMENT. The base provides a jumping-off-spot for TRIPS RANGING IN DISTANCE OF 10 TO 150 MILES in length, taken at a leisurely pace, PLANNED BY THE VOYAGEURS AND THEIR COUNSELLORS.' THREE THINGS THAT ARE NEW: THE ACREAGE (25), THE COUNTERPARTY (the Quebec government, by co-operation rather than purchase), and THE SEASON IT WAS ESTABLISHED IN (1963, stated in a contemporary document rather than inferred). The report does not name the lake, so it does not by itself confirm that this lease is the Lac Landron one -- the article's own 1963 section does that work -- AND I AM NOT MERGING THE TWO CLAIMS HERE. 'BESIDES CANOE TRIPPING, VARIETY IS INTRODUCED BY TRIPS TO FIRE TOWERS AND LUMBER CAMPS. ONE GROUP DURING A FIVE-DAY CONFINEMENT TO BASE CAMP BECAUSE OF FIRE HAZARD, CONSTRUCTED A BIRCH BARK TEEPEE 20 FEET IN HEIGHT AND 32 FOOT DIAMETER, WHICH PROVIDED IDEAL LIVING ACCOMMODATION.' AND THE PROGRAMME IS NOW ESTABLISHED: 'The past year has now CONFIRMED LES VOYAGEURS as a highly accepted camp program for boys, AGES 14-16.' Four years after its founding. || [EXTENDED THE SAME DAY, AND IT IS A CONFLICT: c_066. canoe-trips.md quotes THE CAMP'S OWN 1963 SEASON REPORT saying the opposite -- 'it is strongly recommended that IMMEDIATE STEPS BE TAKEN TO OBTAIN A LEASE for the area' -- and the 1966 report is STILL asking, urging efforts 'to lease or purchase this land on Lac Landron while it is available'. A lease signed between the season report of late summer 1963 and the annual report's close on 31 May 1964 would reconcile the 1963 pair, but NOT the 1966 request. Four readings are open and none is ruled out: a different parcel or lake (this report names no lake), a short lease that had lapsed by 1966, a 1966 request for purchase rather than a first lease, or an annual report overstating something informal. NOTHING IN THE ARTICLE HAS BEEN REWRITTEN TO PREFER THIS REPORT.]",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1963"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5092",
+      "category": "programs",
+      "date_ref": "1963",
+      "entities": [
+        "Kamp Kanawana",
+        "Les Voyageurs de la Verendrye"
+      ],
+      "claim": "THE 1963 SEASON IN NUMBERS, AND AN ORIENTATION PROGRAMME FOR PARENTS. From the 112th annual report, for the seventeen months to 31 May 1964, whose summer is 1963. '602 BOYS attended Kanawana and Les Voyageurs de la Verendrye in 1963, LED BY 75 YOUNG MEN, most of whom were COLLEGE STUDENTS AND GRADUATES.' Note the count is the two programmes together, which is how the association was now reporting them. 'AN ORIENTATION PROGRAM FOR PARENTS OF NEW KANAWANA CAMPERS INVOLVING 5 MEETINGS WAS AN IMPORTANT INNOVATION.' This project holds nothing else on the camp's relationship with parents beyond visit counts, and the report calls it an innovation, so 1963 is its first year. '419 SWIMMING TESTS were passed at Kanawana in 1963 indicating a lively interest in water-front program. 20 FIVE-DAY CANOE TRIPS were taken by the older campers during the season in areas north of the camp which provide wilderness camping experiences. Kamp Kanawana has long been known as a canoe tripping camp as 187 BOYS PASSED THE CANOE TESTS this season. Every boy has the opportunity for one or more one to five-day hikes during his stay. Last summer there were 147 SUCH HIKES involving DISTANCES OF ONE TO FORTY MILES, depending on age of the campers. EVEN THE YOUNGEST CAMPERS GO ON AT LEAST ONE OVERNIGHT HIKE.'",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1963"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5093",
+      "category": "site",
+      "date_ref": "1963-1964",
+      "entities": [
+        "Camp Perrot",
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "CAMP PERROT BECAME A FAMILY RECREATION CENTRE, AND KANAWANA BOUGHT LAND. Two lines in the property section of the 112th annual report (seventeen months to 31 May 1964) answer two separate open questions in this wiki. (1) 'AT CAMP PERROT, ADDITIONAL FACILITIES WERE CONSTRUCTED IN CONJUNCTION WITH THE DEVELOPMENT OF THIS PROPERTY AS A FAMILY RECREATION CENTRE.' site/camp-perrot.md calls the closure chronology 'genuinely contested' and dates the camp 'from 1944 until some point in the late 1950s or early 1960s'. THIS IS WHAT IT BECAME. Set beside the 1961 report's day camps on the same site (f_5089), the shape is now clear: the residential boys' and girls' camp ended, the SITE did not, and the association was actively BUILDING on it in 1963-64 for a different purpose. THE REPORT DOES NOT SAY WHEN THE RESIDENT CAMP LAST RAN, and 'Camp Perrot closed' remains the wrong question -- what closed was one use of a property the association kept and developed. (2) 'ADDITIONAL PROPERTY WAS PURCHASED BY KAMP KANAWANA.' No acreage, no price, no vendor. But site/the-kanawana-site.md's size table jumps from 600 ACRES (annual reports 1949-1959) to ~1,000 ACRES (Kamp Kanawana annual report 1964, SGW YMCA annual report 1964, and everything after), AND HERE, IN THE VOLUME COVERING 1963-64, IS A PURCHASE. That is the likeliest explanation of the jump and the first document this project has that reports an acquisition at the right moment. IT IS NOT PROOF: the line gives no quantity, and a 400-acre purchase is a large thing to infer from four words. RECORDED AS THE EXPLANATION TO TEST, not as the answer. The thing to find is the deed or the camp committee minutes for 1963-64.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1963"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.75",
       "added_by": "ralph_loop"
     }
   ]
