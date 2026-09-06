@@ -1,8 +1,8 @@
 {
-  "version": "6.53",
-  "kb_version": "6.53",
+  "version": "6.54",
+  "kb_version": "6.54",
   "migrated_from": "3.3",
-  "fact_count": 4861,
+  "fact_count": 4862,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87257,6 +87257,24 @@
       "date_ref": "1935-08-17",
       "conflicts_with": [],
       "added_version": "6.53",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4900",
+      "claim": "SIX PER CENT OF THIS PROJECT'S SOURCE CACHE IS THE SAME TEXT FILED TWICE, WHICH MAKES EVERY GREP-BASED COUNT OVER IT WRONG. Measured 2026-09-06 after the p_284 verify pass had to notice by hand that the Green Triangle issue of 1938-07-29 sat in the cache under two filenames: of 921 non-empty files in sources/cache, 51 are BYTE-IDENTICAL copies of another cached file, in 50 groups. The largest overlap is sources/cache/green-triangle/ against sources/cache/ymca-montreal-fonds/ -- EVERY ONE of the 42 files in the green-triangle directory has an identical twin elsewhere, and not one is unique -- with sources/cache/brochures/ duplicating the fonds directory as well. Only 5 source records point at green-triangle/ against 625 at ymca-montreal-fonds/. CONSEQUENCES, both real: a grep across the cache double-counts hits, so 'this appears in N issues' is inflated; and a coverage sweep of 'how many issues are cached' overstates -- the two directories together hold 42 and 38 files for 37 distinct Green Triangle issue dates. NOTHING WAS DELETED. These are cached primary texts, which copy is canonical is a decision for a person, and the five source records pointing at the redundant directory would break. data_integrity.py now reports the duplication as an advisory with the groups named, so it cannot be forgotten again. Separately, the 0-byte file that stood at the 1900 Current Camp Committee report's path for years has been replaced by a POINTER to the transcript made on 2026-09-06, because an empty file is what anyone grepping the cache found.",
+      "sources": [
+        "src_web_search_exhausted"
+      ],
+      "confidence": "stated",
+      "category": "sources_and_archives",
+      "entities": [
+        "The Green Triangle",
+        "source cache",
+        "data_integrity"
+      ],
+      "date_ref": "2026-09-06",
+      "conflicts_with": [],
+      "added_version": "6.54",
       "added_by": "ralph_loop"
     }
   ]

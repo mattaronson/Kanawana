@@ -140,6 +140,36 @@ def main():
                            'forty-two were handled.'
                            % (len(dangling), sorted(dangling)[:8]))
 
+    # 2b. the same cached text filed under two paths. Found by the p_284 verify
+    # pass, which had to notice by hand that the Green Triangle issue of
+    # 1938-07-29 sat in the cache twice: a grep across sources/cache/ then
+    # double-counts, and a coverage sweep over "how many issues are cached"
+    # overstates. Advisory, and it names the groups rather than proposing a
+    # deletion: these are cached primary texts and which copy is canonical is
+    # a decision for a person, not for this script.
+    import hashlib
+    seen = collections.defaultdict(list)
+    for root, _, files in os.walk(P('sources/cache')):
+        for fn in files:
+            fp = os.path.join(root, fn)
+            try:
+                with open(fp, 'rb') as fh:
+                    blob = fh.read()
+            except OSError:
+                continue
+            if not blob.strip():
+                continue      # empty files and .gitkeep are not duplicate content
+            seen[hashlib.md5(blob).hexdigest()].append(os.path.relpath(fp, ROOT))
+    dup = {h: sorted(v) for h, v in seen.items() if len(v) > 1}
+    if dup:
+        extra = sum(len(v) - 1 for v in dup.values())
+        total = sum(len(v) for v in seen.values())
+        first = sorted(dup.values())[:2]
+        note.append('sources/cache: %d file(s) of %d are byte-identical copies of another '
+                    'cached file, in %d group(s). A grep across the cache double-counts them '
+                    'and a "how many issues are cached" sweep overstates. First few: %s'
+                    % (extra, total, len(dup), first))
+
     # 3. generated files
     tmp = tempfile.mkdtemp(prefix='kanawana-regen-')
     try:

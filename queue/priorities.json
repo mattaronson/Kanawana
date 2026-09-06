@@ -5289,6 +5289,17 @@
       "created": "2026-09-06",
       "source": "toponymic register sweep, p_264 extension",
       "blocked_on": null
+    },
+    {
+      "priority_id": "p_424",
+      "rank": 424,
+      "type": "OPERATOR_ACTION",
+      "description": "DECIDE WHICH COPY OF THE DUPLICATED CACHE FILES IS CANONICAL, THEN COLLAPSE THEM. Measured 2026-09-06 (f_4900): of 921 non-empty files in sources/cache, 51 are byte-identical copies of another cached file, in 50 groups -- about six per cent of the corpus. sources/cache/green-triangle/ is entirely redundant: all 42 of its files have identical twins, none is unique, and only 5 source records point at it against 625 pointing at sources/cache/ymca-montreal-fonds/. sources/cache/brochures/ duplicates the fonds directory too. WHY IT MATTERS: a grep across the cache double-counts, so any 'appears in N issues' figure taken that way is inflated, and a coverage sweep of 'how many issues are cached' overstates -- 42 and 38 files across the two directories for 37 distinct Green Triangle issue dates. NOT DONE AUTONOMOUSLY, deliberately: these are cached primary texts, deleting them is hard to reverse, and the five source records pointing at the redundant paths would break. THE WORK, once someone says which side wins: repoint those five source records' cache_path to the surviving copy, delete the redundant files, and re-run data_integrity.py, whose new advisory reports the count and names the groups. Low risk, small diff, and it removes a trap that has already cost one verify pass an hour.",
+      "weight": 6,
+      "status": "pending",
+      "created": "2026-09-06",
+      "source": "p_284 verify pass byproduct",
+      "blocked_on": "operator"
     }
   ],
   "queue_ordering": {
