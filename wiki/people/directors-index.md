@@ -284,6 +284,7 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 - [[people/ross-bannerman|Ross Bannerman]]
 - [[people/bruce-netherwood|Bruce Netherwood]]
 - [[people/jared-macsween|Jared MacSween]]
+- [[people/tony-shorgan|Tony Shorgan]]
 - [[people/roy-locke|Roy D. Locke]]
 - [[people/murray-shantz|Murray B. Shantz]]
 - [[people/geoff-anderson|Geoff Anderson]]

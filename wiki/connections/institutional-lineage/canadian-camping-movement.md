@@ -87,7 +87,7 @@ The Quebec Camping Association (QCA) was formed in 1937 as a chartered unit of t
 - The question of a workable affiliation formula was **first raised at the CCA's 1963 annual meeting at Banff**, and took "quelque six années d'études, de discussions, d'évaluation et de recherches" to settle.^8s
 - The French section's affiliation to the CCA was announced in **February 1969**, placing the Conseil Provincial "au niveau national" so that Quebec's camps had "une voix les représentant tous." The president of the French section was **M. Lionel Perras, p.s.s.**^8s
 
-**The man who did the organising wrote it down in 1965, with dates.** Tony Shorgan — Executive Secretary
+**The man who did the organising wrote it down in 1965, with dates.** [[people/tony-shorgan|Tony Shorgan]] — Executive Secretary
 of the Quebec Society for Crippled Children and Camp Director of the Crippled Children's Camp at St.
 Alphonse, Joliette — published "Birth of the French Camping Association" in *Canadian Camping* in April
 1965, and his account is the closest thing this project has to a founding narrative for the body that
