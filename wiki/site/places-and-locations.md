@@ -1,13 +1,52 @@
 # Places and Locations at Camp Kanawana
 
-*Status: E1-reviewed | Sources: 22*
-*Last Updated: 2026-09-05*
+*Status: E1-reviewed | Sources: 23*
+*Last Updated: 2026-09-06*
 
 ## Overview
 
 Camp Kanawana occupies a 550-acre site in Saint-Sauveur (municipality of Mille-Isles), in the Laurentian Mountains approximately 90 km north of Montreal [src_ymca_website, src_kanawana_facts]. Over more than a century of continuous operation since 1894, the site has accumulated a complex built landscape: buildings erected and demolished, areas renamed and repurposed, and infrastructure adapted to evolving programming needs. This article inventories the named places, buildings, structures, and features of the Kanawana site, both current and historical.
 
 For the overall site description, lakes, and general geography, see [[site/the-kanawana-site|The Kanawana Site]]. For the Council Ring specifically, see [[site/council-ring|The Council Ring]]. For Lake Wilson, see [[site/lake-wilson|Lake Wilson]].
+
+## The camp on the official map
+
+Everything Kanawana calls a place has, or does not have, a counterpart in Quebec's own toponymic
+register. Read on 6 September 2026, the register settles one name this article had never matched and
+supplies coordinates for the rest.^23
+
+| Camp's name | Official Quebec name | Coordinates | Officialised |
+|---|---|---|---|
+| Lake Kanawana | **Lac Kanawana** | 45.85126 / -74.19633 | 1968-12-05, origin recorded as Algonquin |
+| Lake Wilson | **Lac Wilson** | 45.84374 / -74.19541 | 1968-12-05, origin recorded as English |
+| **Round Lake** | **Lac Rond** | 45.84582 / -74.20147 | 1970-02-27 |
+| the camp itself | **Camp Kanawana**, entity class *Camp* | 45.85444 / -74.19306 | 1985-11-07 |
+| the settlement | **Kanawana**, entity class *lieu-dit* | 45.85 / -74.18333 | 1968-12-05 |
+
+**Round Lake is the one that had been missing.** This wiki has carried it as the third of the camp's
+three lakes since the beginning, on the camp's own word, without a coordinate or an official name
+against it. It is **Lac Rond**, registered in 1970, immediately south-west of Lake Wilson.^23
+
+**Lac des Becs-Scie sits at 45.84855 / -74.20959** — a few hundred metres west of Lac Rond, which is
+exactly why it keeps being mistaken for one of the camp's lakes. It is not: **Lac des Becs-Scie has
+some 240 homes on its shores and an owners' association of its own**, and is not one of Kanawana's
+three private lakes [f_1428].^23
+
+**No island is registered in any of the three lakes.** Whatever the camp has called an island on its own
+water, the province has never named one there.^23
+
+*The immediate neighbours, for anyone reading an old map:* Lac Loranger a kilometre north was **Lac
+Raquette** until 1988; Lac aux Castors east of camp was **Lac Thibault** until 2000; Lac Dawson, over the
+line in Mille-Isles, was **Lac Black** until 1985. And **Lac Tamaracouta**, the Scouts' lake immediately
+south that Kanawana's 1964 purchase reached, is registered with its origin recorded as **Algonquin** —
+the same classification the register gives Kanawana.^23
+
+**Three other camps are official toponyms within a few kilometres**, which makes the register a rough
+map of the local camping trade: **Camp Olier** and **Camp de l'Avenir**, both at Sainte-Anne-des-Lacs,
+neither of which appears anywhere else in this project; and, up at Saint-Adolphe-d'Howard beside the old
+Otoreke site, **Camp Kinkora**, which sits in the *de-officialised* register — "Camp-Kinkora" was
+replaced by "Kinkora, Camp" in 1984, a change of form rather than of name. Camp Tamaracouta itself is
+not registered; only its lake is.^23
 
 ## Camp Areas and Sections
 
@@ -426,3 +465,4 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 20. Camp YMCA Kanawana Preparation Guide, Summer 2025 [src_kk_prep_guide_2025]
 21. Kanawana material in the Concordia-digitized YMCA of Montreal fonds: the camp orienteering map (catalogued 1974, internally c.1978+); "Kamp Kanawana History," 6 June 1951 [src_ia_kanawana_history_1951]; YMCA of Montreal Annual Reports 1929, 1952, 1953, 1954 [src_ia_ymca_montreal_annual_reports_collection]; *The Green Triangle* 13 August 1932; Kanawana season reports 1969, 1974, 1976, 1978, 1979 and 1987 [src_ia_kanawana_report_1969, src_ia_kanawana_report_1974, src_ia_kanawana_directors_report_1976, src_ia_kanawana_report_1978, src_ia_kanawana_report_1979, src_ia_kanawana_report_1987]; and *Kanawana… A Place to Grow*, 1988 [src_ia_kanawana_place_to_grow_1988] — whose facilities table gives bracketed construction years including house [1935], infirmary [1945], **lodge [1880's]**, dining hall/kitchen [1919], arts & crafts centre [1932] and bathroom buildings [1945]. *Two of those conflict with the 1951 history, which gives the dining hall as 1920 and the lodge as 1927. The 1880s lodge date is the harder problem: the site was not purchased until 1910, so it would have to be a pre-existing farm structure later converted. Both readings are defensible and neither is adopted here.*
 22. Letter from Prime Minister Pierre Elliott Trudeau to Kamp Kanawana on the opening of its new recreational building, framed original photographed by the operator, 2026-09-05 [src_photo_trudeau_letter_1978]; and the *Kamp Kanawana Director's Annual Report 1978* [src_ia_kanawana_report_1978], which prints an abridged version of the same letter as its frontispiece and supplies the date. Image at `assets/images/documents/trudeau-letter-1978-katimavik.jpg`. See [f_4828], [f_4829], [f_4830].
+23. Commission de toponymie du Québec: the *Toponymes officiels* and *Toponymes désofficialisés* datasets, and the fiches for Lac Kanawana, Lac Wilson, Camp Kanawana and the lieu-dit Kanawana [src_donneesquebec_bnlq_2026], [src_ct_fiches_kanawana_2026]. Queried 2026-09-06 (p_264). See [f_4874], [f_4877], [f_4890], [f_4891].

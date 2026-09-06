@@ -1,8 +1,8 @@
 {
-  "version": "6.48",
-  "kb_version": "6.48",
+  "version": "6.49",
+  "kb_version": "6.49",
   "migrated_from": "3.3",
-  "fact_count": 4851,
+  "fact_count": 4854,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87034,6 +87034,77 @@
       "date_ref": "1891",
       "conflicts_with": [],
       "added_version": "6.48",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4890",
+      "claim": "KANAWANA'S THREE LAKES ALL HAVE OFFICIAL QUEBEC NAMES, AND ROUND LAKE'S IS LAC ROND. From the Toponymes officiels register, everything officially named within about 3 km of the camp (2026-09-06): LAC KANAWANA 45.85126/-74.19633 (Saint-Sauveur, 1968-12-05, Algonquin); LAC WILSON 45.84374/-74.19541 (Saint-Sauveur, 1968-12-05, Anglais); LAC ROND 45.84582/-74.20147 (Saint-Sauveur, officialised 1970-02-27, Francais) -- the camp's own \"Round Lake\", which this project had never matched to an official name or a coordinate; the lieu-dit KANAWANA and CAMP KANAWANA themselves (f_4874); LAC DES BECS-SCIE 45.84855/-74.20959, immediately west, confirming f_1428's finding that it is a separate lake and not one of the camp's three; LAC LORANGER 45.86080/-74.19051, a kilometre north, formerly Lac Raquette until 1988; LAC PREVOST, LAC LEONARD, LAC BEAUCHAMP, LAC DES CHATS, LAC AUX CASTORS (formerly Lac Thibault until 2000), LAC TOR and LAC LAPOINTE in Saint-Sauveur; and to the south in Mille-Isles, LAC TAMARACOUTA 45.82995/-74.19451 -- registered as ALGONQUIN in origin -- with LAC DAWSON (formerly Lac Black) and LAC GEORGE. NO ISLAND IS REGISTERED IN ANY OF KANAWANA'S THREE LAKES.",
+      "sources": [
+        "src_ct_fiches_kanawana_2026",
+        "src_donneesquebec_bnlq_2026"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Camp Kanawana",
+        "Lac Kanawana",
+        "Lac Wilson",
+        "Lac Rond",
+        "Round Lake",
+        "Lac des Becs-Scie",
+        "Lac Tamaracouta",
+        "Lac Loranger"
+      ],
+      "date_ref": "2026-09-06",
+      "conflicts_with": [],
+      "added_version": "6.49",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4891",
+      "claim": "THREE OTHER CAMPS ARE REGISTERED TOPONYMS IN KANAWANA'S OWN DISTRICT, WHICH IS A SMALL MAP OF THE LAURENTIAN CAMPING TRADE. Quebec's register carries the entity class \"Camp\" for named camps, and within a few kilometres of Kanawana it holds CAMP KANAWANA itself (Saint-Sauveur, 1985-11-07), CAMP OLIER 45.82833/-74.15333 and CAMP DE L'AVENIR 45.83555/-74.15889 (both Sainte-Anne-des-Lacs, 1985-11-07 and 2005-12-08, both Francais). Neither Olier nor l'Avenir appears anywhere in this project. Further north at Saint-Adolphe-d'Howard, beside the old Otoreke site, CAMP KINKORA is in the DE-OFFICIALISED register: \"Camp-Kinkora\" was replaced by \"Kinkora, Camp\" on 1984-09-06 at 46.006944/-74.313333 -- a form change rather than a renaming, but it confirms the camp Msgr. McShane founded in 1926 as a mapped, officially named place. Camp Tamaracouta, the Scouts' camp joined to Kanawana by the 1964 lot purchase, is NOT registered as a Camp; only its lake is.",
+      "sources": [
+        "src_ct_fiches_kanawana_2026",
+        "src_donneesquebec_bnlq_2026"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Olier",
+        "Camp de l'Avenir",
+        "Camp Kinkora",
+        "Camp Tamaracouta",
+        "Sainte-Anne-des-Lacs",
+        "Saint-Adolphe-d'Howard"
+      ],
+      "date_ref": "2026-09-06",
+      "conflicts_with": [],
+      "added_version": "6.49",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4892",
+      "claim": "CAMP JUBILEE'S ISLANDS AT LAC SAINT-JOSEPH ARE NOT IN QUEBEC'S TOPONYMIC REGISTER AT ALL. Saint-Adolphe-d'Howard carries 120 official toponyms, of which exactly ONE is an island: ILE CHRISTIE, 45.974066/-74.384710, officialised 1985-11-07, origine linguistique Anglais. LAC SAINT-JOSEPH itself is registered at 45.974310/-74.331879. Searched province-wide, there is NO Corbett anything in the Laurentians -- the only two Corbett toponyms in Quebec are lakes at Senneterre and Lac-Nilgaut, hundreds of kilometres away -- and no island of any name is registered within 6 km of Lac Saint-Joseph except Ile Christie. SO THE NAMES THE 1900 CURRENT CAMP COMMITTEE REPORT USES -- ROCK ISLAND, CORBETT ISLAND, and the camp island that one writer complained had no name at all (f_4883) -- NEVER ENTERED THE PROVINCIAL REGISTER. That bears directly on camp-otoreke.md's open question about whether the three islands are still identifiable: they are not identifiable by name from the official record, and whether Ile Christie is one of them is not established here.",
+      "sources": [
+        "src_ct_fiches_kanawana_2026",
+        "src_donneesquebec_bnlq_2026",
+        "src_ia_seventh_annual_report_current_camp_1900"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Camp Jubilee",
+        "Camp Otoreke",
+        "Lac Saint-Joseph",
+        "Rock Island",
+        "Corbett Island",
+        "Ile Christie",
+        "Saint-Adolphe-d'Howard"
+      ],
+      "date_ref": "2026-09-06",
+      "conflicts_with": [],
+      "added_version": "6.49",
       "added_by": "ralph_loop"
     }
   ]

@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 20*
+*Status: E1-reviewed | Sources: 21*
 *Last Updated: 2026-09-06*
 
 ## Overview
@@ -157,6 +157,22 @@ St-Joseph, Ste-Marie and Théodore**; the **"Dedication service of the chapel. -
 material for either site. The 1936 mixed-gender evaluation from 12C01 is treated in
 [[history/coeducation-gender|Coeducation and Gender at Kanawana]].
 
+### The islands are not on the official map
+
+Quebec's toponymic register carries **120 official names in Saint-Adolphe-d'Howard, of which exactly one
+is an island**: **Île Christie**, at 45.974066 / -74.384710, officialised in 1985. Lac Saint-Joseph
+itself is registered at 45.974310 / -74.331879.^21
+
+Searched province-wide, **there is no Corbett anything in the Laurentians** — Quebec's only two Corbett
+toponyms are lakes at Senneterre and Lac-Nilgaut, hundreds of kilometres away — and no island of any
+name is registered within six kilometres of Lac Saint-Joseph other than Île Christie.^21
+
+So the names the camp itself used in 1900 — **Rock Island**, **Corbett Island**, and the camp's own
+island, which one correspondent complained had no name at all — never entered the provincial register.^19 ^21
+That bears on Open Question 2 below: the three islands are **not identifiable by name from the official
+record**. Whether Île Christie is one of them is not established here, and this article does not assume
+it.
+
 ## Relationship to Kanawana
 
 Camp Otoreke remained connected to Kanawana as an outpost and trip destination throughout its history:
@@ -218,6 +234,7 @@ Camp Otoreke closed in 1982 after nearly 90 years of continuous operation.^1 The
 18. Concordia University Archives, YMCA of Montreal fonds P145/12C01–12C07 (finding aids) [src_concordia_mirror_12c01, src_concordia_mirror_12c02, src_concordia_mirror_12c03, src_concordia_mirror_12c04, src_concordia_mirror_12c05, src_concordia_mirror_12c07]. Same walk. See [f_2258].
 19. "Seventh Annual Report of the Current Camp Committee," YMCA of Montreal, 10 December 1900, 8 pp. manuscript [src_ia_seventh_annual_report_current_camp_1900]. Digitized in the `ymca-montreal-fonds` collection with no OCR layer, because it is cursive; the page images were read by eye and transcribed 2026-09-06 (p_288), cached at `sources/cache/ymca-montreal-fonds/1900-12-10-seventh-annual-report-current-camp-committee.txt`. Leaves 3, 4, 6 and 8 of the scan are inverted 180 degrees. See [f_4879], [f_4880], [f_4881], [f_4882], [f_4883], [f_4884].
 20. "Report of the Junior Camp Committee, 1900," YMCA of Montreal, 30 November 1900 [src_ymf_1900_11_30_report_of_the_junior_camp_committee]. Typed, with an OCR layer, and already in this project's knowledge base; read here beside the Current Camp Committee report of ten days later. See [f_4848], [f_4885].
+21. Commission de toponymie du Québec, *Toponymes officiels* and *Toponymes désofficialisés* [src_donneesquebec_bnlq_2026]. Queried 2026-09-06 for every named feature in Saint-Adolphe-d'Howard and for "Corbett" province-wide. See [f_4892].
 
 ## Research Notes
 
