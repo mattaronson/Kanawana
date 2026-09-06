@@ -28,6 +28,10 @@ THE OUTPUT IS A READING LIST, NOT A VERDICT.
 Sources, Related Articles and the other apparatus sections are excluded: shared
 citations there are the cross-linking working, not a defect.
 
+An article is also compared against ITSELF, which is not vanity: a spinout that
+draws on two distant parts of one parent can land two accounts of the same
+passage in one child, and until 2026-09-06 nothing here looked for that.
+
 Usage: python3 scripts/wiki/prose_dupes.py [--shingle 12] [--min-run 25]
 """
 import argparse
@@ -108,6 +112,15 @@ def main():
             for b in range(a + 1, len(locs)):
                 (na, ia), (nb, ib) = locs[a], locs[b]
                 if na == nb:
+                    # An article against ITSELF. Added 2026-09-06 after a spinout pulled
+                    # two paragraphs from different parts of one parent into one child and
+                    # they turned out to quote the same passage of the same ACQ report --
+                    # a duplicate this tool could not see, because it only ever compared
+                    # DIFFERENT files. Spinouts make this the likely case, not the rare one.
+                    if abs(ia - ib) <= n:
+                        continue      # adjacent windows of one passage, not a repeat
+                    key = (na, na)
+                    pairs[key].append((min(ia, ib), max(ia, ib)))
                     continue
                 key = (na, nb) if na < nb else (nb, na)
                 pairs[key].append((ia, ib) if na < nb else (ib, ia))
@@ -132,9 +145,13 @@ def main():
         print("No overlapping passages at this threshold.")
         return
     for total, na, nb, passages in report:
-        print("\n## %d words shared\n" % total)
-        print("- `%s`" % na)
-        print("- `%s`\n" % nb)
+        if na == nb:
+            print("\n## %d words repeated WITHIN one article\n" % total)
+            print("- `%s`\n" % na)
+        else:
+            print("\n## %d words shared\n" % total)
+            print("- `%s`" % na)
+            print("- `%s`\n" % nb)
         for words_shared, i, j in passages[:6]:
             quote = " ".join(w for w, _ in docs[na][i:i + min(words_shared, 30)])
             print("  - **%d words** (at word %d / word %d): %s ..." % (words_shared, i, j, quote))

@@ -1,6 +1,6 @@
 # The Quebec Camping Association / Association des Camps du Québec
 
-*Status: draft | Sources: 23*
+*Status: draft | Sources: 25*
 *Last Updated: 2026-09-06 (spun out of [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]; the 1982-84 Quebec material followed on 2026-09-06)*
 
 ## Overview
@@ -140,6 +140,47 @@ Three things follow, and all three bear directly on how this wiki should describ
 
 **The Quebec association in 1983-84, in its own words.** The ACQ's report for the year, again signed **Claire Menard**, records that its activities were "ajustées aux besoins des membres" after **a questionnaire sent to member camps in the autumn of 1983** asking what they needed and what services they expected; thematic days on computerised management, new games, and the place of parents at camp; and two things new to this project. The first is a precisely dated promotional week: "**La Semaine des Camps du 23 au 28 avril sera la principale activité de promotion au printemps. Un projet spécial, en collaboration avec le Ministère du Loisir, de la Chasse et de la Pêche, nous permettra d'avoir un 'message radio' durant cette semaine**" — so **23-28 April 1984** carried a Quebec-wide camp promotion with government-funded radio. The second is regulatory: "**Au Québec, la Loi de la protection du consommateur a fait l'objet de plusieurs rencontres avec différents intervenants afin d'obtenir une exemption pour les camps de vacances**." **The ACQ spent the year seeking to have summer camps exempted from Quebec's Consumer Protection Act** — a question of how camp fees, contracts and refunds with parents were governed in law, applying directly to Kanawana.^23
 
+## The association in 1987: full camps and a growing membership
+
+The last full report the ACQ gave the national magazine is the most positive in the run, and it comes from a president new to this project. **Henri Chalifoux** — also the Quebec provincial representative from the autumn of 1987, replacing Colette Pouliot-Marier — reports on the summer:^24
+
+- **The camps were full.** "Attendance at our camps was excellent, with the **no-vacancy sign up throughout the summer for most of the province's camps** and many had a long waiting list."
+- **"Over eighty (80) camps were visited this past summer by five consultants. Out of this number ten (10) were trying to gain provincial recognition and become part of the provincial association for the first time."** Against 76 camps and three consultants in 1986, that is a larger visitation programme and **ten first-time membership applications in a single year**.
+- A **three-part triennial development plan** — an orientation plan accepted in May 1987, a revision of each programme's specific objectives due before spring, and a finance-committee plan for self-financing.
+- **Civil liability insurance**, with the executive "closely working with the provincial government" on a problem "devenu complexe pour les directeurs de camps, depuis quelques années."
+- **A study to identify who actually attended Quebec camps**, funded by the **ministère des Loisirs, de la Chasse et de la Pêche**, renewing user research first done in **1982**.
+
+The last is a specific and findable document, and the closest thing to a demographic survey of Quebec camp clientele this project has encountered; if it and its 1982 predecessor survive, they describe the population Kanawana drew from. *(The magazine's own English translation garbles the funder into two ministries; the French names one, the M.L.C.P., and is the text to trust.)*
+
+**The picture this gives is worth stating against the national one.** In the year the CCA was passing the hat among a hundred camp directors and had become a delivery agent for a federal fitness programme, **the Quebec association's camps were full, its accreditation programme had grown from three consultants to five, and ten camps were applying to join it.** Whatever was failing in Canadian camping in the late 1980s was not failing in Quebec.
+
+**The language policy was adopted.** Pouliot-Marier, re-accepting the French Language Committee chair in May 1987, credits Gérard Bachand's two years with the INCEF '87 needs analysis and with "l'élaboration des politiques linguistiques, **dont les recommendations faites au Conseil des présidents furent acceptées**."^24 So the policy first drafted in January 1987 was formally adopted by the President's Council that year — the end of a thread this article has followed from the founding of the French Language Committee in the autumn of 1974. An **INCEF 1988** was planned, to carry a review of the three inventories made since 1985. The committee for 1987-88 was **Carmelle Deveau (New Brunswick), Michel Gratton (Ontario), Eileen Mayotte (Saskatchewan) and Ken Willis (Quebec)** — Willis staying on as the committee's Quebec member after retiring from the vice-presidency, and **Eileen Mayotte**, the Quebec association's secretary of the 1940s, still serving nationally.
+
+## The *Annuaire*: the province's own camp directory, and where a volume survives
+
+The 1981-82 annual report quoted above names **l'*Annuaire 82*** as one of the year's two
+instruments of promotion.^19 Kanawana was an accredited member camp throughout, so the *Annuaire 82*
+should carry an entry for it — which makes finding one of these volumes worth the trouble.
+
+**The word names a genre, not one publication.** In January 1975 a French article on choosing a camp for
+a child gives as its principal source "la section de l'**Annuaire des Membres et Associés de Camps de
+l'Association des Camps de l'Ontario**, intitulée *In Choosing your Child's Camp Be Sure*" — the Ontario
+association's own annual members-and-associates directory, with a parents' guidance section inside
+it.^25 The following January the national magazine's directory issue carries the title page **"Annuaire
+National des Camps 1976"**.^25 So each association published one, and the ACQ was doing in 1982 what the
+movement around it had been doing for years.
+
+**One volume of the ACQ's series is already located, three years short of the one wanted.** Concordia's
+YMCA of Montreal fonds, sub-sub-series **P145/12N04, box HA1888**, holds "**Annuaire 1979, liste des
+membres**" among the association's 1978-1980 papers — material the YMCA kept because Kanawana was a
+member camp.^25 That box has not been consulted, and the request for it has been added to the standing
+Concordia letter.
+
+**A caution about what these volumes contain.** The 1979 title calls the thing a *liste des membres*. It
+may be a directory in the CCA's fuller sense — address, director, capacity, ages served, session
+structure — or it may be a list of names and addresses and nothing more. Nobody here has seen one, and
+this article does not know.
+
 ## Open Questions
 
 1. **What happened to the English Section between October 1978 and December 1979?** It appears
@@ -154,9 +195,11 @@ Three things follow, and all three bear directly on how this wiki should describ
    year from some point before 1975, which means an itemised external assessment of Kanawana's
    site, programme, personnel and health practice exists — or existed — for each year. The QCA
    English Section had an Archives committee chairman, **Joseph A. Hood**, in 1975.
-4. **Is there a copy of the *Annuaire*?** The ACQ published a directory of Quebec camps; the
-   *Annuaire 82* is named in its own annual report. Kanawana would be listed in every edition.
-   Queued as `p_326`.
+4. **Get box HA1888 at Concordia.** The *Annuaire* section below locates one volume of the ACQ's
+   series — "Annuaire 1979, liste des membres" in the YMCA of Montreal fonds, sub-sub-series
+   P145/12N04, box HA1888 — three years short of the *Annuaire 82* named in the association's own
+   annual report. The box has not been consulted and nobody here has seen any volume, so whether
+   these are full directories or bare name-and-address lists is unknown. Queued as `p_326`.
 5. **Did the ACQ get camps exempted from Quebec's Consumer Protection Act?** Its 1983-84 report
    records a year of meetings sought "afin d'obtenir une exemption pour les camps de vacances". The
    answer governs how Kanawana's fees, contracts and refunds with parents stood in law, and it
@@ -208,3 +251,5 @@ Three things follow, and all three bear directly on how this wiki should describ
 21. "Interview: John Latimer" (Jay Haddad's interview at Toronto, 4 August 1982); "Attention! Catch Up With Your Past" (the CCA/ACC Archives appeal over Ken Johnson's name); and Karen Crawford, "Saskatchewan Camping Association Spring Conference" — *Canadian Camping* Vol. 34 No. 3 (Autumn 1982), pp. 6-8, 9, 14 [src_ia_canadian_camping_collection]. Found by the same read (issue 143). Latimer was CCA President 1971-75 and chaired the 1983 International Camping Congress.
 22. *Canadian Camping* Vol. 35 No. 2, Summer 1983 — the **1982 Annual Report** insert entire: "CCA/ACC STATISTICS 1982 - SUMMER" by province and the three-year national series; the Quebec (ACQ) provincial report signed Claire Menard; the Nova Scotia and Saskatchewan provincial reports; Brian Law's Standards Task Force report on the National Standards Workshop of 25-26 January 1983; the Nominations Committee report on the 1983-85 executive; Jane McCutcheon's French Language Committee report; and the "National Camping Day" results page [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 147).
 23. CCA/ACC **Annual Report 1983 / Rapport Annuel 1983**, the insert to *Canadian Camping* Vol. 36 No. 2 (Summer 1984): the President's and Executive Director's reports; the Quebec provincial report signed Claire Menard; the French Language Committee report (Ken Willis); the Leadership Development Programs report (Paul Potter); the Public Relations and Promotion report (Marnie Ellis); the Newsletter Committee report (Jay Haddad); the International Youth Year Task Force report (Hugh Phillips); and the CCA/ACC national and provincial statistics for 1983. With Colette Pouliot-Marier, "Le Comité des camps d'expression française," p. 7 of the same issue [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 151).
+24. Henri Chalifoux, "Quebec Camping Association" / "Association des camps du Québec," p. 4; Committee Notes — Colette Pouliot-Marier, "Le comité des camps d'expression française," and Jack Pearse, "Fund Raising," p. 7; Aniko Varpalotai, "The P.A.R.C. Notebook," p. 8; "Jackpot!", p. 18; the "In This Issue" editorial note, p. 1; and the masthead, p. 2 — all *Canadian Camping Magazine* Vol. 39 No. 2 (Fall 1987) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 163). Pages 13 (Nancy Bramm's Bubby Nash article) and 19 (the Camp Cheboygan memorabilia spread) produced no machine-readable text in the Internet Archive scan and have not been read.
+25. The Annuaire trail, assembled 2026-09-06: the ACQ report of 1981-82 naming *l'Annuaire 82* (source 19 above); "Annuaire des Membres et Associés de Camps de l'Association des Camps de l'Ontario," quoted in the French article on choosing a camp, *Canadian Camping* Vol. 27 No. 2 (January 1975); the title page "Annuaire National des Camps 1976," *Canadian Camping* Vol. 28 No. 2 (January 1976) [src_ia_canadian_camping_collection]; and Concordia University Archives, P145/12N04 (Quebec Camping Association / Association des camps du Québec), box HA1888, item "Annuaire 1979, liste des membres. - 1979" [src_concordia_mirror_12n04]. See [f_4873]. The catalogue surfaces that would locate a copy of the *Annuaire 82* itself could not be searched from here — BAnQ's IRIS catalogue and Library and Archives Canada's Voilà were refused at the network gateway, WorldCat and the Google Books API returned HTTP 429 — and BAnQ numérique's holding of the association's own annual report begins only with 2012/2013 [src_banq_acq_rapport_annuel]. That is an access failure, not evidence that the *Annuaire 82* does not survive. See [f_4871], [f_4872].

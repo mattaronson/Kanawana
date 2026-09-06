@@ -1,8 +1,8 @@
 {
-  "version": "7.99",
-  "kb_version": "7.99",
+  "version": "8.00",
+  "kb_version": "8.00",
   "migrated_from": "3.3",
-  "fact_count": 5085,
+  "fact_count": 5086,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91705,6 +91705,20 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5124",
+      "category": "methodology",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project"
+      ],
+      "claim": "A SPINOUT CAN MANUFACTURE THE DUPLICATION IT WAS BUILT TO AVOID, AND prose_dupes.py COULD NOT SEE IT. Moving the Quebec association's history out of canadian-camping-movement.md drew paragraphs from parts of that parent thousands of words apart. Two of them quoted the SAME passage of the ACQ's 1981-82 annual report -- the Semaine des camps and l'Annuaire 82 sentence. In the parent they were far apart and read as two mentions; in the new article they were one section apart and read as an article repeating itself. NOTHING CAUGHT IT BUT READING THE RESULT: prose_dupes.py compared only DIFFERENT files, on the assumption that duplication is a between-article defect, and that assumption is wrong for exactly the operation it was written to support. The second occurrence was rewritten to point at the first, and the tool now compares an article against itself, ignoring overlaps closer together than the shingle length. Wiki-wide there are three such repeats, all under 35 words: site/council-ring.md, people/james-h-turner.md and people/j-w-mcconnell.md. THE GENERAL FORM, which is the third time this session a checker's SCOPE rather than its logic was the defect (see also f_5120 on draft-only [src_] checking): a checker written for the shape of yesterday's problem does not see today's, and the moment to widen it is the moment the work changes shape.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.00",
       "added_by": "manual"
     }
   ]

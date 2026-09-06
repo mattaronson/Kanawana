@@ -1,6 +1,6 @@
 # Cross-article prose duplication
 
-112 articles compared, shingle=12 words, reporting runs of >=25 words.
+114 articles compared, shingle=12 words, reporting runs of >=25 words.
 
 Quotation of a shared source is not duplication. Read before cutting.
 
@@ -70,9 +70,9 @@ Quotation of a shared source is not duplication. Read before cutting.
 - `connections/institutional-lineage/canadian-camping-movement.md`
 - `meta/sources-index.md`
 
-  - **33 words** (at word 28170 / word 2000): 1988 is an historic year it is this year that the canadian camping association is no longer receiving funding for its operating expenses from the federal government through fitness canada ...
-  - **29 words** (at word 20503 / word 1960): and that support for all management aspects re travel for meetings office functions administrative assistance would be reduced each year by 33 1 3 to terminate completely in 1988 ...
-  - **25 words** (at word 28406 / word 2036): there is no money left in the budget to produce this very c c a a c c magazine you now hold in your hands ...
+  - **33 words** (at word 21514 / word 2000): 1988 is an historic year it is this year that the canadian camping association is no longer receiving funding for its operating expenses from the federal government through fitness canada ...
+  - **29 words** (at word 14635 / word 1960): and that support for all management aspects re travel for meetings office functions administrative assistance would be reduced each year by 33 1 3 to terminate completely in 1988 ...
+  - **25 words** (at word 21750 / word 2036): there is no money left in the budget to produce this very c c a a c c magazine you now hold in your hands ...
 
 ## 74 words shared
 
@@ -161,19 +161,24 @@ Quotation of a shared source is not duplication. Read before cutting.
 
   - **37 words** (at word 1950 / word 3448): the entrance their most vivid memory is of dad coming across in a canoe standing up being paddled by his medicine man coming to the council ring in costume unrecognised ...
 
-## 36 words shared
-
-- `connections/institutional-lineage/canadian-camping-movement.md`
-- `people/directors-index.md`
-
-  - **36 words** (at word 16517 / word 13556): many students worked as counsellors in the summer though a private venture the camp was closely connected with the university by personal associations and was known as camp mcgill to ...
-
 ## 34 words shared
 
 - `connections/institutional-lineage/canadian-camping-movement.md`
 - `connections/related-camps/camp-ouareau.md`
 
-  - **34 words** (at word 22064 / word 1328): in too many cases the most short changed children at our summer camps are these children who don t speak english camps are not in tune with this growing segment ...
+  - **34 words** (at word 16196 / word 1328): in too many cases the most short changed children at our summer camps are these children who don t speak english camps are not in tune with this growing segment ...
+
+## 33 words repeated WITHIN one article
+
+- `site/council-ring.md`
+
+  - **33 words** (at word 2495 / word 2989): now know we that wakonda whose dwelling is above the thunder bird whose messenger is the thunder bird hath been pleased to smile on his children hath sent down the ...
+
+## 33 words repeated WITHIN one article
+
+- `people/james-h-turner.md`
+
+  - **33 words** (at word 165 / word 495): turner to kanawana jim turner associate executive of the amalgamated operations of west island and lachine dorval branches will be the on site director and head of program at kamp ...
 
 ## 32 words shared
 
@@ -203,6 +208,12 @@ Quotation of a shared source is not duplication. Read before cutting.
 
   - **31 words** (at word 1279 / word 791): the organized camping movement in quebec was born in 1938 tony shorgun who has been involved in camping during many of the intervening years is already at work laying plans ...
 
+## 29 words repeated WITHIN one article
+
+- `people/j-w-mcconnell.md`
+
+  - **29 words** (at word 629 / word 755): 1912 in that year he also bought a site at lake desjardins near saint sauveur for a new camp kanawana which was renamed lake wilson after his first son ...
+
 ## 29 words shared
 
 - `people/billy-ball.md`
@@ -222,7 +233,7 @@ Quotation of a shared source is not duplication. Read before cutting.
 - `people/directors-index.md`
 - `traditions/pip-alumni-award.md`
 
-  - **28 words** (at word 15373 / word 1132): people jared macsween jared macsween camper 1982 86 staff 1987 91 general manager ymca cedar glen outdoor centre manager of training ymca ontario regional development centre 2012 24 ...
+  - **28 words** (at word 15229 / word 1132): people jared macsween jared macsween camper 1982 86 staff 1987 91 general manager ymca cedar glen outdoor centre manager of training ymca ontario regional development centre 2012 24 ...
 
 ## 28 words shared
 
@@ -314,12 +325,9 @@ that need it. That is what a citation graph looks like, not a defect.
 Nothing at the scale of the oldest-camp duplication (f_5118) survives. That block
 was 1,463 words of the same *argument* in two places; the largest overlap here is
 160 words of the same *quotation*. The three pairs touching
-`canadian-camping-movement.md` are all shared quotation -- the 1988 Fitness Canada
-withdrawal quoted also in `meta/sources-index.md`, the "camp McGill" passage also
-in `directors-index.md`, the "short changed children ... who don't speak English"
-passage also in `camp-ouareau.md`. **So the blocks still trapped in the movement
-article are spinouts, not deletions**, which is what this audit was run to
-establish before cutting further.
+`canadian-camping-movement.md` were all shared quotation, **so the blocks still
+trapped in the movement article were spinouts, not deletions**, which is what this
+audit was run to establish before cutting further. Five cuts followed.
 
 Two pairs are restated fact rather than shared quotation and are worth a look when
 those articles are next touched: `site/places-and-locations.md` and
@@ -328,7 +336,21 @@ founding of Camp Weredale in their own words. Neither is wrong. But a fact writt
 twice is a fact that can later be corrected once, which is how the two copies of
 the oldest-camp argument came to disagree with each other.
 
-**The limit worth stating plainly.** This tool is blind to the case that actually
-cost us: the same argument made in different words. The oldest-camp duplication
-would have scored low here, because the two versions had diverged. It was caught
-by reading the destination before cutting. Nothing replaces that.
+## Within one article (added 2026-09-06)
+
+The tool originally compared only DIFFERENT files, which turned out to be the
+wrong shape for the work it was built for. Moving the Quebec association's history
+out of the movement article drew on paragraphs from two distant parts of that
+parent, and two of them quoted the same passage of the ACQ's 1981-82 annual
+report. In the parent they were thousands of words apart and read as two mentions;
+in the child they were one section apart and read as an article repeating itself.
+Nothing caught it but reading the result. **Spinouts make this the likely failure,
+not the rare one**, so an article is now compared against itself, ignoring
+overlaps closer together than the shingle length.
+
+## The limit worth stating plainly
+
+This tool is blind to the case that actually cost us: the same argument made in
+different words. The oldest-camp duplication would have scored low here, because
+the two versions had diverged. It was caught by reading the destination before
+cutting. Nothing replaces that.

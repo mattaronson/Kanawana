@@ -492,48 +492,8 @@ The last chapter of the funding story this article tells is not a collapse but a
 **Mary Northway died on 26 February 1987, and the archives this project relies on are largely her doing.** Jocelyn Palm's memorial records that Northway "established the OCA Research Committee and also **engineered the collection and organization of the OCA and CCA Archives now at Trent University**," and that her gift funded the **Neathern Trust** recorded above. She had attended Northway Lodge, Camp Wapomeo and Glen Bernard, was at Glen Bernard "from 1922 until 1939" as camper and staff member, founded **Windy Pine** with Flora Morrison and deeded it to Trent in 1983, lectured at the Institute of Child Study, founded the Brora Centre on retirement, and took an honorary doctorate from Trent in 1979.^8bn Palm adds a precise archive lead: "**In 1981, I interviewed Dr. Northway in order that the tape could be added to the CCA Archives. I have just listened to that tape**" — so a dated Palm-Northway interview tape was in the Trent fonds and playable in 1987.
 
 
-### The Quebec association in 1987: full camps and a growing membership
+**The Quebec association's own last years are in [[connections/institutional-lineage/quebec-camping-association|The Quebec Camping Association]]** — its 1987 report of full camps and a growing membership, written in the year the national body was asking whether it would survive, and the *Annuaire*, the province's own camp directory, one volume of which is located in the YMCA of Montreal fonds at Concordia.
 
-The last full report the ACQ gave the national magazine is the most positive in the run, and it comes from a president new to this project. **Henri Chalifoux** — also the Quebec provincial representative from the autumn of 1987, replacing Colette Pouliot-Marier — reports on the summer:^8bo
-
-- **The camps were full.** "Attendance at our camps was excellent, with the **no-vacancy sign up throughout the summer for most of the province's camps** and many had a long waiting list."
-- **"Over eighty (80) camps were visited this past summer by five consultants. Out of this number ten (10) were trying to gain provincial recognition and become part of the provincial association for the first time."** Against 76 camps and three consultants in 1986, that is a larger visitation programme and **ten first-time membership applications in a single year**.
-- A **three-part triennial development plan** — an orientation plan accepted in May 1987, a revision of each programme's specific objectives due before spring, and a finance-committee plan for self-financing.
-- **Civil liability insurance**, with the executive "closely working with the provincial government" on a problem "devenu complexe pour les directeurs de camps, depuis quelques années."
-- **A study to identify who actually attended Quebec camps**, funded by the **ministère des Loisirs, de la Chasse et de la Pêche**, renewing user research first done in **1982**.
-
-The last is a specific and findable document, and the closest thing to a demographic survey of Quebec camp clientele this project has encountered; if it and its 1982 predecessor survive, they describe the population Kanawana drew from. *(The magazine's own English translation garbles the funder into two ministries; the French names one, the M.L.C.P., and is the text to trust.)*
-
-**The picture this gives is worth stating against the national one.** In the year the CCA was passing the hat among a hundred camp directors and had become a delivery agent for a federal fitness programme, **the Quebec association's camps were full, its accreditation programme had grown from three consultants to five, and ten camps were applying to join it.** Whatever was failing in Canadian camping in the late 1980s was not failing in Quebec.
-
-**The language policy was adopted.** Pouliot-Marier, re-accepting the French Language Committee chair in May 1987, credits Gérard Bachand's two years with the INCEF '87 needs analysis and with "l'élaboration des politiques linguistiques, **dont les recommendations faites au Conseil des présidents furent acceptées**."^8bo So the policy first drafted in January 1987 was formally adopted by the President's Council that year — the end of a thread this article has followed from the founding of the French Language Committee in the autumn of 1974. An **INCEF 1988** was planned, to carry a review of the three inventories made since 1985. The committee for 1987-88 was **Carmelle Deveau (New Brunswick), Michel Gratton (Ontario), Eileen Mayotte (Saskatchewan) and Ken Willis (Quebec)** — Willis staying on as the committee's Quebec member after retiring from the vice-presidency, and **Eileen Mayotte**, the Quebec association's secretary of the 1940s, still serving nationally.
-
-### The *Annuaire*: the province's own camp directory, and where a volume survives
-
-The ACQ's annual report for 1981-82, signed **Claire Menard**, says the association spent the year
-affirming the standing and image of Quebec's camps "par la publication de **l'Annuaire 82**, par une
-Semaine des camps intensive, par une presence de plus en plus incitante aupres des media et du
-publique."^8at Kanawana was an accredited member camp throughout, so the *Annuaire 82* should carry an
-entry for it — which makes finding one of these volumes worth the trouble.
-
-**The word names a genre, not one publication.** In January 1975 a French article on choosing a camp for
-a child gives as its principal source "la section de l'**Annuaire des Membres et Associés de Camps de
-l'Association des Camps de l'Ontario**, intitulée *In Choosing your Child's Camp Be Sure*" — the Ontario
-association's own annual members-and-associates directory, with a parents' guidance section inside
-it.^8br The following January the national magazine's directory issue carries the title page **"Annuaire
-National des Camps 1976"**.^8br So each association published one, and the ACQ was doing in 1982 what the
-movement around it had been doing for years.
-
-**One volume of the ACQ's series is already located, three years short of the one wanted.** Concordia's
-YMCA of Montreal fonds, sub-sub-series **P145/12N04, box HA1888**, holds "**Annuaire 1979, liste des
-membres**" among the association's 1978-1980 papers — material the YMCA kept because Kanawana was a
-member camp.^8br That box has not been consulted, and the request for it has been added to the standing
-Concordia letter.
-
-**A caution about what these volumes contain.** The 1979 title calls the thing a *liste des membres*. It
-may be a directory in the CCA's fuller sense — address, director, capacity, ages served, session
-structure — or it may be a list of names and addresses and nothing more. Nobody here has seen one, and
-this article does not know.
 
 ### "Every camp should be actively archiving"
 
