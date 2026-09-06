@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 13*
+*Status: draft | Sources: 14*
 *Last Updated: 2026-09-06 (the 1916 fee and season, from a school magazine advertisement)*
 
 ## Overview
@@ -76,6 +76,8 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1948 | 328 | 1,327 | 585 parents' visits |
 | 1949 | 557 | 1,464 | 57 personnel; **1,210 Sunday chapel attendances** |
 
+**On the 1954 "average stay of 5.5 weeks."** The report prints it; this table does not adopt it. An eight-week season with 446 boys averaging 5.5 weeks would be about 2,450 camper-weeks, half again more than any figure in this series for the period, and the 1953 report gives three and a half weeks for a comparable season. These scans render 3 as 5 elsewhere. The figure is recorded as printed and flagged, not corrected — a suspicion is not a reading.^14
+
 ## Kanawana (1950–2023)
 
 | Season | Campers | Camper-weeks | Notes |
@@ -83,8 +85,8 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | **1950** | *(ran)* | — | Attested only in comparison: the 1951 report has Kanawana's attendance "above the previous year." The season falls in the gap left when the association moved its fiscal year from ending 31 March to ending 31 December [f_4847] |
 | **1951** | *(ran)* | — | "In spite of an unusually wet summer, aggregate attendance at Kamp Kanawana was above the previous year" [f_4847] |
 | 1952 | ~406 | — | The Long House built and dedicated mid-July |
-| 1953 | 450 | — | Avg stay 3.5 weeks |
-| 1954 | 446 | — | "the year of great rains" |
+| 1953 | 450 | — | Avg stay 3.5 weeks; more hikes, and "keener interest in nature lore" as a result^14 |
+| 1954 | 446 | — | "the year of great rains"; 662 tests passed, 371 boys on overnight hikes, 201 through the graded Y.M.C.A. swim tests and 151 non-swimmers through the elementary one; older boys went up the Archambault River by canoe **every week**. Average stay printed as **5.5 weeks**, which is almost certainly a misread of 3.5 — see the note^14 |
 | 1955 | 473 | — | |
 | 1956 | 523 | — | |
 | 1957 | 558 | — | |
@@ -280,6 +282,7 @@ Three things stand out and none of them is visible from any single article.
 11. *The High School Magazine* (Montreal, 1916), the Kamp Kanawana advertisement on the first advertising page [src_high_school_magazine_montreal_1916]. **Not lending-restricted**: the full text was downloaded and searched 2026-09-06, and "Kanawana" occurs exactly once in it. Cached, with a caution about the unsigned canoe-trip narrative printed immediately before the advertisements and NOT attributed to Kanawana, at `sources/cache/periodicals/1916-high-school-magazine-montreal-kanawana-advertisement.txt`. See [f_4948].
 12. *The Lookout* Vol. 1 No. 3 (Kanawana Alumni Committee, autumn 1993), "Summer Report" by Bruce Netherwood, Director [src_ia_the_lookout_1993]. See [f_5008].
 13. The YMCA of Montreal annual reports' "Summer Camps" camper tables, 1943-1947 [src_ymf_sgw_ymca_annual_report_1943, src_ymf_sgw_ymca_annual_report_1944, src_ymf_sgw_ymca_annual_report_1945, src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1947]. See [f_5038].
+14. YMCA of Montreal annual reports for the years ending **31 December 1953** and **31 December 1954** [src_ymf_sgw_ymca_annual_report_1953, src_ymf_sgw_ymca_annual_report_1954]. December-year volumes, so their seasons are 1953 and 1954 (see [f_5081]). Read 2026-09-06 under p_441. See [f_5083].
 
 ## Research Notes
 
