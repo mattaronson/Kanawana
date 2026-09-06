@@ -6623,3 +6623,44 @@ them. All four now carry the correction or the closure in place, which is the th
 a claim written in one hour has been fixed in the next. The pattern is not accidental: everything
 that got corrected today was a claim made from a partial read, and everything that corrected it was
 a fuller read of the same document.
+
+## 2026-09-06 — p_441, document eleven: "What with rope tows!"
+
+`src_ymf_1961_the_otoreke_ymca_ski_lodge_a_review`, six thousand characters, read whole.
+
+On 25 August this project fetched the Concordia finding aid for sub-series P145/12H and wrote a
+section of `camp-otoreke.md` out of file titles: a ski lodge with its own committee, a Harold Cross
+file running 1929–1946, a "Purchase by YMCA of Christieville property, 1948–1951," a "Friendly
+Home-Christieville rental." The section ended, correctly, "**none of these files has been read.**
+The finding aid establishes that they exist… It says nothing about what is in them."
+
+This review is what is in them, or near enough. The lodge began in **rented houses** — Sainte-Adèle
+in 1940, Piedmont in 1941 — and got a permanent site in 1945 on **Elder's Farm, Christieville**,
+chosen by Frank B. Peterson, Bud Horton and C. J. McGerrigle against criteria the committee had
+written down: "handy to the railroad, immediately upon skiable hills, and away from towns." Two
+rented seasons, then purchase, then "a couple more years… before clear title could be secured,"
+which is exactly the 1948–1951 span the finding aid gives. The Friendly Home turns out to be a
+tenant, paying John Elder $400 before the Y bought the place and the Y $400 after.
+
+The money is all there: $31,550 of capital expenditure itemised down to a $150 hot water tank, and
+the note that only the purchase price came from the Metropolitan Finance Committee while
+"**all other expenditures have been taken care of out of Otoreke Camp and Ski Lodge income**."
+Income peaked at $10,345 in 1959 and was $6,200 in 1961; membership fell from 143 to 45.
+
+**And then the review explains itself**, in the best pages of social history this corpus has given
+up. The lodge was sited in 1945 to be handy to the railroad. Sixteen years later: "Private cars now
+supply transportation to and from the Laurentians. When the committee case for buying the property
+was presented to the Metropolitan Board, the Director of Otoreke spoke of the 'forest of skis
+stretching from the station gate away back to Jean Talon Street.' One does not hear of ski
+'specials' today." The Autoroute was making day-trippers and was about to come within three miles.
+The rope tows at Mont Christie were to be replaced by a T-bar or chairlift. A group including
+several Otoreke campers had organised to weekend at Jay Peak, Mount Washington, Stowe and
+Tremblant, and when asked why not the Y lodge, said: "**What with rope tows!**"
+
+The one line I would keep above all: the McGill School of Physical Education had held its ski school
+there four years, and its directress had asked for "accommodation where **the bar is not the centre
+of entertainment hours**."
+
+The article's section heading also had to change. It read "1929–1959," which was the finding aid's
+span, not the lodge's; the lodge was running in the winter of 1961–62 when this was written. A
+heading taken from a catalogue is the same error as a date taken from one.

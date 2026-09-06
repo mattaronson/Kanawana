@@ -1,8 +1,8 @@
 {
-  "version": "7.42",
-  "kb_version": "7.42",
+  "version": "7.43",
+  "kb_version": "7.43",
   "migrated_from": "3.3",
-  "fact_count": 5001,
+  "fact_count": 5004,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -90079,6 +90079,65 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.42",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5040",
+      "category": "site",
+      "date_ref": "1940-1961",
+      "entities": [
+        "Otoreke Ski Lodge",
+        "Christieville",
+        "Frank B. Peterson",
+        "Bud Horton",
+        "C. J. McGerrigle",
+        "Camp Otoreke",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE OTOREKE SKI LODGE, ITS SITING AND THE THREE MEN WHO FOUND IT -- AND IT IS A SEPARATE PROPERTY IN A DIFFERENT PLACE FROM THE CAMP. 'The Otoreke YMCA Ski Lodge: A Review', an internal paper of the 1961-62 winter, opens: 'The Otoreke YMCA Ski Lodge was set up on its present site in 1945. EARLIER, IN 1940 AT STE. ADELE, IN 194[1] AT PIEDMONT, the Otoreke Committee had RENTED HOUSES for use as winter lodges. In 1945 the Committee recorded itself in favour of an Otoreke Ski Lodge... HANDY TO THE RAILROAD, IMMEDIATELY UPON SKIABLE HILLS, AND AWAY FROM TOWNS.' THREE MEN FOUND IT: 'FRANK B. PETERSON, Chairman of the Otoreke Committee, BUD HORTON, an ardent skier, and C. J. McGERRIGLE, Executive Secretary of North Branch and also DIRECTOR OF OTOREKE, sought out and recommended the site on ELDER'S FARM, CHRISTIEVILLE.' THE ACQUISITION IN ORDER: the old house rented for two seasons; the committee then recommended purchase; 'a couple more years were to pass before clear title could be secured'; then an addition housing kitchen, washrooms and extra sleeping quarters; the next year 'the building of the house with sleeping quarters for men and the dining room'; and later the front room. THIS ANSWERS THE FINDING-AID QUESTION wiki/site/camp-otoreke.md has carried since 25 August: the 'Purchase by YMCA of Christieville property, 1948-1951' file and the 'Friendly Home-Christieville rental' of 1948 are this lodge, and the Friendly Home is a tenant -- it 'rented the house from JOHN ELDER for the summer in the years before we took over, [and] continues to rent from us. The rent is $400 . . . the same as paid to Mr. Elder.' AND A NOTE ON THE ARTICLE'S DATES: that section is headed 1929-1959 after the finding aid's span. THE LODGE WAS STILL OPERATING IN THE WINTER OF 1961-62, when this review was written.",
+      "sources": [
+        "src_ymf_1961_the_otoreke_ymca_ski_lodge_a_review"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.43",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5041",
+      "category": "organization",
+      "date_ref": "1945-1961",
+      "entities": [
+        "Otoreke Ski Lodge",
+        "YMCA of Montreal"
+      ],
+      "claim": "WHAT THE SKI LODGE COST AND WHAT IT TOOK IN, YEAR BY YEAR, AND THE COLLAPSE OF 1960-61. The review prints a 'HISTORY OF LODGE INCOME' running from the later 1940s to 1961. The OCR damages several years' labels, so only the figures that are unambiguous are recorded here: 1949 $907 [sic, and probably damaged], 1950 $4,722, 1951 $5,585, 1952 $8,552, 1954 $8,278, 1955 $9,006, 1959 $10,345, 1960 $9,136, 1961 $6,200 -- A PEAK IN 1959 AND A THIRD OF IT LOST BY 1961. THE SIDE-BY-SIDE COMPARISON THE PAPER MAKES ITSELF, 1954-55 against 1960-61: MEMBERSHIP 143 against 45; TOTAL MEALS SERVED 8,999 against a figure the scan renders as 4,4[3]; BED OCCUPANCY 2,513 against 1,361; INCOME $9,006 against $6,200. The paper is fair about it: 'the 1960-61 season saw POOR SNOW CONDITIONS. This should be remembered in the following comparison. The Otoreke Lodge was not alone in showing a falling off in income last winter.' CAPITAL EXPENDITURES to 1961, itemised, TOTAL $31,550: cost of property $8,500; kitchen addition $4,000; sinks and tables $1,200; stove $600; dining room addition $4,000; new lounge etc. $4,000; roof on main building $1,200 [scan reads 't,200']; septic tanks $4,000 [scan reads '$4, 000']; furnace, main house $1,200; hot water tank $150; new wiring $500; men's house $5,000; furnace $800; washroom equipment $1,000 [scan reads '1,00']. AND WHO PAID: 'the purchase price of the property MAY HAVE COME FROM THE METROPOLITAN FINANCE COMMITTEE. ALL OTHER EXPENDITURES HAVE BEEN TAKEN CARE OF OUT OF OTOREKE CAMP AND SKI LODGE INCOME' -- so the winter operation and the summer camp financed the plant between them. MEMBERSHIP FEE: $5.00 a season until 1956, then $10.00. THE 1954-55 MEMBERSHIP BROKE DOWN AS 143 people, '74 men, 69 women (including 7 married couples)', who 'had first call on the weekend accommodation' and a lower weekend rate, and whose branch affiliations are tabled -- Otoreke, Central, YWCA, College, N.D.G., Westmount, Northmount, Southwestern, Lachine, International, and 'No YMCA', of which '15 of these were NEWCOMERS TO CANADA'.",
+      "sources": [
+        "src_ymf_1961_the_otoreke_ymca_ski_lodge_a_review"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.43",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5042",
+      "category": "programs",
+      "date_ref": "1961",
+      "entities": [
+        "Otoreke Ski Lodge",
+        "Christieville",
+        "Mont Christie",
+        "Laurentian Autoroute",
+        "McGill University"
+      ],
+      "claim": "A YMCA SKI LODGE WATCHING THE CAR AND THE CHAIRLIFT TAKE ITS BUSINESS AWAY, IN 1961, IN ITS OWN WORDS. The review's closing 'NOTES' are the most vivid social history in this document and they are all about why the lodge was failing. THE TRAIN IS GONE: 'PRIVATE CARS NOW SUPPLY TRANSPORTATION to and from the Laurentians. When the committee case for buying the property was presented to the Metropolitan Board, the Director of Otoreke spoke of the \"FOREST OF SKIS STRETCHING FROM THE STATION GATE AWAY BACK TO JEAN TALON STREET.\" ONE DOES NOT HEAR OF SKI \"SPECIALS\" TODAY.' The lodge had been sited in 1945 to be 'handy to the railroad' (f_5040); sixteen years later that was the wrong criterion. THE AUTOROUTE: 'The Autoroute has made a difference in the skiing habits of the occasional skier. MORE OF THESE OCCASIONAL SKIERS SKI ONE DAY ONLY . . . AND RETURN HOME... skiers with cars ski at one hill one day or weekend, and somewhere else the next.' It was also about to arrive: 'the Autoroute will be extended through St. Sauveur and be within three miles of Christieville.' THE LIFTS: 'THE ROPE TOWS AT MT. CHRISTIE will be replaced by a T-Bar or Chair Lift shortly.' And the sharpest line in the paper, on a group of skiers including several Otoreke campers who organised to weekend at Jay Peak, Mount Washington, Stowe and Mont Tremblant: 'To the question, \"Why not spend a weekend at the Y Lodge?\" THE ANSWER WAS, \"WHAT WITH ROPE TOWS!\"' TWO INSTITUTIONAL CUSTOMERS ARE NAMED: the MONTREAL WEST HIGH SCHOOL SKI CLUB, which had spent the Christmas holidays at the lodge for five seasons, and the McGILL SCHOOL OF PHYSICAL EDUCATION, which had held its Ski School there for four years -- and the reason its directress gave for choosing it is worth preserving: 'WE WOULD LIKE ACCOMMODATION WHERE THE BAR IS NOT THE CENTRE OF ENTERTAINMENT HOURS.' AND THE LAURENTIAN RENTAL MARKET AROUND IT, in 1961 prices: houses near the lodge 'all rented by the end of October', the better ones taken by families at $500-$600 for the season and 'shacks' at $350-$400; 'one shack which rented last winter had no inside toilet; one in St. Sauveur, which had no hot water tank, rented to six girls at $500. One shack near the Lodge with no water supply at all has been rented for this season.'",
+      "sources": [
+        "src_ymf_1961_the_otoreke_ymca_ski_lodge_a_review"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.43",
       "added_by": "ralph_loop"
     }
   ]

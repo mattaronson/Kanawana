@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 29*
+*Status: E1-reviewed | Sources: 30*
 *Last Updated: 2026-09-06 (Otoreke had its own camp song, and it was borrowed too)*
 
 ## Overview
@@ -118,7 +118,7 @@ The Concordia Archives hold dedicated Camp Otoreke records in sub-series P0145/1
 
 Two cataloguing ambiguities surfaced in 2026-07-09 research, both unresolved without a physical visit: (1) two separate 1967 catalog entries — "Report of the Boys' and Girls' Camping Committee to the Metropolitan Planning and Development Committee of the YMCA of Montreal" (Box HA1881) and "Camp Otoreke report — Planning and Development" (Box HA2367) — may be the same document cross-referenced or two distinct related documents; (2) W.E. Cushing's 1943 manuscript appears under two variant titles/locations, "Early Days at Lake St. Joseph" (Box HA1881) and the previously-cited "Historical sketches — Lake St. Joseph" (Box HA2307) — possibly the same manuscript catalogued twice, or two distinct short pieces.^4
 
-## The Ski Lodge and Winter Operations (1929-1959)
+## The Ski Lodge and Winter Operations (1940–1961 or later)
 
 Otoreke was not only a summer site. Concordia's finding aid gives the ski lodge an entire sub-series
 of its own — **P145/12H, "Ski lodge"** — running from 1929 to 1959 and fetched for the first time in
@@ -144,6 +144,69 @@ eventual article will have to hold onto.
 
 **None of these files has been read.** The finding aid establishes that they exist, with those titles
 and those dates. It says nothing about what is in them.
+
+### The lodge itself, from a 1961 review
+
+*Most of the paragraph above is now answered.* "The Otoreke YMCA Ski Lodge: A Review," an internal
+paper of the 1961-62 winter, was read whole on 2026-09-06 and tells the whole story of the
+property.^30 *(The section heading above formerly read "1929-1959," which was the finding aid's
+span. The lodge was still running when this review was written.)*
+
+**It began in rented houses.** "The Otoreke YMCA Ski Lodge was set up on its present site in 1945.
+Earlier, **in 1940 at Ste. Adèle, in 194[1] at Piedmont**, the Otoreke Committee had rented houses
+for use as winter lodges."^30 The committee's own criteria for a permanent one, recorded in 1945:
+"**handy to the railroad, immediately upon skiable hills, and away from towns**."
+
+**Three men found the site**, and the review names them: "Frank B. Peterson, Chairman of the
+Otoreke Committee, **Bud Horton**, an ardent skier, and **C. J. McGerrigle**, Executive Secretary
+of North Branch and also Director of Otoreke, sought out and recommended the site on **Elder's
+Farm, Christieville**."^30 The old house was rented for two seasons, purchase was recommended, and
+"a couple more years were to pass before clear title could be secured" — which is exactly the
+1948–1951 span the finding aid gives for "Purchase by YMCA of Christieville property." Then a
+kitchen, washrooms and sleeping quarters were added; the next year the men's house and dining room;
+later the front room. **The "Friendly Home-Christieville rental" of the finding aid is a tenant**:
+it "rented the house from **John Elder** for the summer in the years before we took over, [and]
+continues to rent from us. The rent is $400 … the same as paid to Mr. Elder."^30
+
+**The money.** Capital expenditure to 1961 totalled **$31,550** — $8,500 for the property, $5,000
+for the men's house, $4,000 each for the kitchen addition, the dining room, the new lounge and the
+septic tanks, and smaller sums for a stove, furnaces, wiring, a roof and washroom fittings. Who
+paid matters: "the purchase price of the property may have come from the Metropolitan Finance
+Committee. **All other expenditures have been taken care of out of Otoreke Camp and Ski Lodge
+income**."^30 The summer camp and the winter lodge built the plant between them.
+
+Income peaked at **$10,345 in 1959** and fell to **$6,200 in 1961**. The review sets 1954-55
+against 1960-61 itself: membership **143 against 45**, meals served **8,999** against a figure the
+scan destroys, bed occupancy **2,513 against 1,361**. It is fair about the season — "the 1960-61
+season saw poor snow conditions… The Otoreke Lodge was not alone in showing a falling off in
+income last winter" — and then spends its closing pages explaining the real reasons.^30
+
+### Why it was failing: the car and the chairlift
+
+The lodge had been sited in 1945 to be *handy to the railroad*. Sixteen years later:
+
+> "Private cars now supply transportation to and from the Laurentians. When the committee case for
+> buying the property was presented to the Metropolitan Board, the Director of Otoreke spoke of the
+> **'forest of skis stretching from the station gate away back to Jean Talon Street.' One does not
+> hear of ski 'specials' today**."^30
+
+The Autoroute had changed the shape of a ski day — "more of these occasional skiers ski one day
+only … and return home" — and was about to arrive, "extended through St. Sauveur and … within three
+miles of Christieville." The rope tows at **Mont Christie** were to be replaced "by a T-Bar or Chair
+Lift shortly." And a group of skiers including several Otoreke campers had organised to weekend at
+Jay Peak, Mount Washington, Stowe and Tremblant instead: "To the question, 'Why not spend a weekend
+at the "Y" Lodge?' **the answer was, 'What with rope tows!'**"^30
+
+Two institutional customers are named — the **Montreal West High School Ski Club**, five Christmas
+holidays running, and the **McGill School of Physical Education**, whose Ski School had been held
+there four years. The reason its directress gave for choosing it is worth keeping: "**We would like
+accommodation where the bar is not the centre of entertainment hours.**"^30
+
+The review also records the Laurentian rental market around the lodge in 1961 prices: houses "all
+rented by the end of October," the better ones $500–$600 for the season and "shacks" $350–$400 —
+"one shack which rented last winter had no inside toilet; one in St. Sauveur, which had no hot water
+tank, rented to six girls at $500. One shack near the Lodge with no water supply at all has been
+rented for this season."^30
 
 ## Newly Read Finding Aids for Otoreke Itself
 
@@ -488,6 +551,7 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 27. Paul Larue and Pierre Bélec, *Le Québec en plein air* (Montréal: Québec Amérique, 2016), Internet Archive scan leaf 310 [src_larue_belec_quebec_plein_air_2016]. **One passage plus two stray sentences**, reconstructed 2026-09-06 from eight overlapping Open Library search-inside queries; the book is lending-restricted and has not been read, and the printed page number is unknown. The reconstruction, the queries, and a statement of what is wrong with the passage are cached at `sources/cache/openlibrary-search-inside/2026-09-06-larue-belec-quebec-en-plein-air.txt`. See [f_4939].
 28. Camp Otoreke songbook, 1941 [src_ymf_1941_camp_otoreke_songs], Concordia-digitized YMCA of Montreal fonds. **64,000 characters, of which five lines are about the camp**; the rest is the general community-singing repertoire of 1941 and is not extracted. The book had been in this repo's cache labelled *skimmed* and cited by nothing, and was read on 2026-09-06 under p_441. See [f_5004].
 29. "Come to Kanawana" brochure, 1928 season, YMCA of Montreal fonds [src_ymf_1928_come_to_kanawana_brochure]. See [f_5031].
+30. "The Otoreke YMCA Ski Lodge: A Review", internal paper of the 1961-62 winter, YMCA of Montreal fonds [src_ymf_1961_the_otoreke_ymca_ski_lodge_a_review]. Cached at `sources/cache/ymca-montreal-fonds/1961-the-otoreke-ymca-ski-lodge-a-review.txt`. See [f_5040], [f_5041] and [f_5042]. Read whole 2026-09-06 under p_441. **The scan damages numerals badly** — it renders 4 as *h* and confuses 3 with 5 — so several figures in the income series and the capital table are given here only where unambiguous, and the damaged ones are flagged in the facts rather than reconstructed.
 
 ## Research Notes
 
