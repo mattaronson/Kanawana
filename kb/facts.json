@@ -1,8 +1,8 @@
 {
-  "version": "8.69",
-  "kb_version": "8.69",
+  "version": "8.70",
+  "kb_version": "8.70",
   "migrated_from": "3.3",
-  "fact_count": 5194,
+  "fact_count": 5195,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93651,6 +93651,25 @@
         "c_068"
       ],
       "added_version": "8.69",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5233",
+      "category": "method",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Judy Abrams",
+        "Michael Kutz",
+        "Arthur Ney",
+        "Azrieli Foundation"
+      ],
+      "claim": "THE SAME CHECK RUN AGAINST THE OTHER TWO AZRIELI MEMOIRS, AND BOTH HOLD. Having found that the publisher's own catalogue page broke the date on Arthur Ney's Otoreke photograph (f_5232, c_068), the arrival years of the other two were checked on the same pages. JUDY ABRAMS: the page for Tenuous Threads and One of the Lucky Ones gives 'Judy Abrams: Hungary / Hidden child / Passing-false identity / ARRIVED IN CANADA IN 1949 / Adjusting to life in Canada', which is exactly what f_4937 already stated and used to place her brother's Kanawana summer in the early or mid 1950s. That dating is unaffected. MICHAEL KUTZ: the page for If, By Miracle gives 'Postwar Italy, displaced persons camp / War Orphans Project / ARRIVED IN CANADA IN 1948 / Adjusting to life in Canada'. f_4938 attaches no date to his Kanawana material -- it is Knights of Pythias charity work in Montreal, from a later period -- so nothing there depends on the year either. SO ONE OF THREE MEMOIR-DERIVED DATES WAS WRONG AND TWO WERE RIGHT, and the difference is that the Ney date came from a photo caption read through a snippet while the other two came from prose the project had already reasoned about. ALSO ESTABLISHED, AS A CAPABILITY: memoirs.azrielifoundation.org is fully reachable from this environment and returns real text, but it publishes no full memoir -- each title page carries a short excerpt (a wartime chapter in both cases checked) and links to Amazon, Indigo and Second Story Press. The Canadian chapters of all three books remain unread here.",
+      "sources": [
+        "src_azrieli_w_hour_page_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.70",
       "added_by": "ralph_loop"
     }
   ]
