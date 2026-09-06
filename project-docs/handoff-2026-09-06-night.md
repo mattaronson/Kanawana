@@ -408,3 +408,36 @@ hidden it, a volume declared unreadable when only one of its two rosters was, an
 the wrong volume of a book already open on the desk. None was caught by a verify script. They were
 caught by going back to the scan and reading the thing again after writing the claim down. Write the
 claim, then check it against the source as though someone else had written it.
+
+## 32. Place the marker after the script tells you the number, not before
+
+`scripts/wiki/add_source_note.py` exists because I got the four steps of adding a source note
+wrong three times in one day (rule 31). On 6 September, writing the Les Voyageurs table into
+`directors-index.md`, I wrote `^29` into six table rows *first* and ran the script *afterwards* —
+and it assigned **50**, because the article already ran to 49 and **29 was taken by an unrelated
+1951 source**. Six citations would have resolved, silently and plausibly, to the wrong document.
+No verify script catches that: `^29` is a valid marker pointing at a real entry.
+
+The script prints the number it assigned for a reason. Run it, read the number, then write the
+marker. If you are drafting the prose first, leave a literal placeholder that cannot resolve.
+
+## 33. A grep for a name is a fact about the string, again
+
+Two documents this session paid out on material no keyword sweep could have reached, and the
+mechanism was different each time. `1920-biography-of-r-j-colville.txt` names D. A. Budge at the
+January 1894 Provincial Convention, and the scan reads "**4. A. Budee**" — a grep for "Budge"
+returns nothing on a page that names him. The source records for the whole `src_ymf_*` collection
+say, honestly, that the text "has been keyword-swept repeatedly (Kanawana, Otoreke, director
+names, drownings, Owens, Patton)." That sweep is exactly why nothing was found: the sweep is only
+as good as the OCR under it and the list beside it.
+
+## 34. Four ways this corpus is mislabelled, and they are all the same shape
+
+Counted as of 6 September: **a scan holding more volumes than its catalogue record admits** (the
+YMCA Year Book items, up to five years in one item); **two source records for one document**, one
+saying unread and one saying extracted (201 candidate pairs, 50 disagreeing); **a catalogue title
+describing the wrong genre** (the Colville "biography" is an autobiography); and **one scan binding
+two separate documents under one date** (the 1959 Older Boys Camp report, followed by an undated
+tripper's letter written years later). In every case the label was believed and the contents were
+not opened. The rule that follows is rule 25 restated at the level of the whole corpus: *the
+catalogue is a claim about the document, and the document is the evidence.*

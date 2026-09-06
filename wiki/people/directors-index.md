@@ -1,6 +1,6 @@
 # Directors and Staff of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 49*
+*Status: E1-reviewed | Sources: 50*
 *Last Updated: 2026-09-06 (the missing Year Book years located on HathiTrust, and unreadable from here)*
 
 ## Summary
@@ -135,6 +135,24 @@ These roles carried the title "Director" but reported to the Camp Director above
 A 2003 JBC plaque (f_1638; also the source for conflict c_014's resolution) names "Section Directors: Matt, Laurie" by first name only — too little information to identify with confidence, though the "Matt" is a plausible but unconfirmed match for Matt Hamerman, who held a Voyageurs section directorship three years later (2006). Not treated as a positive identification.
 
 **Audrey Dowse** was inducted into the Camp Administrator Hall of Fame (nominated 2022) for her work with Camp YMCA Kanawana and YMCA Day Camps. Her exact role (Camp Director, section/program director, or another administrative position) and dates of service are not yet documented.^22
+
+## Les Voyageurs de la Vérendrye: a separate staff, at Lac Landron
+
+The camp's satellite operation in La Vérendrye Park ran its own director, trippers and base camp
+crew, and none of them has appeared in this index until now. **One full year is documented.**
+
+| Name | Year | Role | Notes | Source |
+|------|------|------|-------|--------|
+| **David Blake** | 1967 | Director, Les Voyageurs | Signs "Camp Director's Report 1967." His report is the fullest description of the satellite this project holds — see [[traditions/canoe-trips|Canoe Trips at Kanawana]]. | Camp Director's Report 1967^50 |
+| David Taube | 1967 | Tripper | The one crew singled out for praise: it "remained on the trail for their scheduled time and moved through the country with a certain esprit de corps that only a crew of successful bushwackers can maintain." | same^50 |
+| Paul Mongraw | 1967 | Tripper | **Not to be confused with the Al Mongraw** whom Leo Robitaille assessed in the early 1970s. Same surname, different given name, six years apart; not merged. | same^50 |
+| Bob Matheson | 1967 | Tripper | | same^50 |
+| Richard ("Dick") Holyoke | 1967 | Base camp staff | Hired at **$50.00 for the summer**, which the director thought too little. Food, re-packing for trips, kitchen, cooking "and many other jobs not defined." | same^50 |
+| Harry Fox | 1967 | Base camp staff | As above. Blake recommended re-hiring both. | same^50 |
+
+The same report refers the reader to "the comments of **1963-64-65 Directors**," so directors'
+reports exist for those three years too and would name three more people. They have not been
+located.
 
 ## Staff by Era
 
@@ -516,6 +534,7 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 48. HathiTrust holdings of the same series, enumerated 2026-09-06 [src_ymca_yearbook_hathitrust_holdings_2026]. **A finding aid and an access-failure record: none of these volumes has been read.** HathiTrust's Bib API returns JSON normally and was control-tested against a known OCLC first; every reading and search endpoint (catalog Search/Home, babel `cgi/ls`, `cgi/pt`, `cgi/imgsrv/html`, `cgi/imgsrv/download/pdf`) returns HTTP 403 behind a Cloudflare interstitial. **Two catalogue records hold the series and both must be queried** — OCLC 6996715 returns one, LCCN 29015142 returns that one and a second carrying the single-year 1901-1906 run. Item identifiers for every missing year, the years still missing even there (1883, 1885, 1889, 1912/13, 1914/15, 1920/21), and the Google Books 429 are at `sources/cache/ymca-yearbooks/2026-09-06-hathitrust-holdings-the-missing-years.txt`. See [f_4989].
 
 49. YMCA of Montreal, annual reports for the years ending **30 April 1893**, **30 April 1894**, **30 April 1895** and **30 April 1896** [src_ymf_sgw_ymca_annual_report_1892_1893, src_ymf_sgw_ymca_annual_report_1893_1894, src_cache_sgw_ymca_annual_report_1894_1895, src_ymf_sgw_ymca_annual_report_1895_1896]. Cached in this repo; read for their staff lists and departmental narratives 2026-09-06 under p_440. Powter's November 1892 appointment, Chapman as Office Secretary, Percy H. Cushing's succession to D. W. Corbett in June 1893 and departure for Springfield in September 1895, and C. K. Calhoun's arrival. See [f_4996], [f_4997].
+50. "Les Voyageurs de la Vérendrye — Camp Director's Report 1967", signed by David Blake, YMCA of Montreal fonds [src_ymf_1967_les_voyageurs_de_la_verendrye_camp_directors_report]. See [f_5020]. Read whole 2026-09-06 under p_441; the item had been keyword-swept and marked skimmed since August.
 
 ## Research Notes
 

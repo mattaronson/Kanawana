@@ -1,8 +1,8 @@
 {
-  "version": "7.33",
-  "kb_version": "7.33",
+  "version": "7.34",
+  "kb_version": "7.34",
   "migrated_from": "3.3",
-  "fact_count": 4981,
+  "fact_count": 4985,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -89660,6 +89660,84 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.33",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5020",
+      "category": "people",
+      "date_ref": "1967",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "David Blake",
+        "David Taube",
+        "Paul Mongraw",
+        "Bob Matheson",
+        "Richard Holyoke",
+        "Harry Fox"
+      ],
+      "claim": "THE 1967 STAFF OF LES VOYAGEURS, NAMED AND SIGNED, AND NONE OF THEM WAS IN THIS PROJECT. The Camp Director's Report 1967 is signed 'Submitted by, DAVID BLAKE, Director - 1967', with 'DAVID TAUBE, PAUL MONGRAW, BOB MATHESON, Trippers' and 'RICHARD HOLYOKE AND HARRY FOX, Base Camp Staff'. Checked by grep across kb, wiki and sources: BLAKE, TAUBE, MATHESON, HOLYOKE AND FOX OCCUR NOWHERE ELSE IN THIS PROJECT. So an entire year's staff of the camp's satellite operation enters the record here. ONE NAME NEEDS CARE: an AL Mongraw appears in Leo Robitaille's staff assessments of the early 1970s; this is PAUL Mongraw, six years earlier. Same surname, different given name, and the two are NOT merged. THE PAY: 'Each boy was hired at $50.00 for the Summer' for the two base-camp staff, which the director thinks too little -- 'they worked a full day each day, and on numerous occasions more than a full [day]'. THE SIZE: three crews ran in the first period, groups of six including the tripper; the report proposes adding a junior counsellor to each and raising groups from six to nine, 'with five groups we increase our capacity from 25 to 35, or for base camp logistical purposes reducing the groups to four with seven campers (28 full camp).' So Les Voyageurs in 1967 was a camp of roughly twenty-five, run by six.",
+      "sources": [
+        "src_ymf_1967_les_voyageurs_de_la_verendrye_camp_directors_report"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.34",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5021",
+      "category": "programs",
+      "date_ref": "1967",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "Kamp Kanawana",
+        "David Blake"
+      ],
+      "claim": "'A PATCH AND SEW PERIOD': WHAT PRE-CAMP AT KANAWANA WAS FOR, AND A DIRECTOR'S VERDICT ON HIS OWN CAMPERS. The 1967 report describes the Voyageur season beginning with a week at Kamp Kanawana: 'Discussions about camping procedures, camper problems, etc., for the most part took place while the staff was painting canoes or sewing tents. THE FIRST WEEK AT KANAWANA SHOULD REMAIN A PATCH AND SEW PERIOD as much as possible.' Blake wants first aid, survival technique and 'problems facing contemporary teenage boys' taught there too, and an Air Force bush-survival instructor brought in -- 'not because I expect anyone to have to survive in the bush for any length of time, but to help promote an interest in survival camping - living off the land - i.e. total involvement with our environment and NOT JUST AS A TOURIST.' HIS VERDICT ON STANDARDS IS BLUNT: 'The staff found the standard of camping and care of equipment at Les Voyageurs to be generally low', with 'attitudes concerning camping which the director and staff felt were in need of change. Although we want to keep Les Voyageurs as free of structured program as possible and allow the camper the maximum amount of responsibility for himself WE CANNOT ACCEPT AN \"ANYTHING GOES\" ATTITUDE.' WHAT HE CHANGED, itemised: visits to the Dorval Lodge and Le Domaine cut to 'a pop and candy bars' with camps pitched away from them; 'repeated visits to lumber camps for \"free meals\" were discouraged', as was sleeping in hunting cabins; axes 'kept under the control of the tripper' because 'axemanship displayed by new and old campers was at times nerve wracking'; single-lift portaging retrained; canoe lines introduced for river work; the shooting of rapids restricted 'so that equipment was not damaged for the sake of a thrill'; and WET FOOT CAMPING ADOPTED over dry foot -- 'getting your feet wet rather than grind a canoe on the shore while loading or unloading' -- though 'the director is an exponent of dry foot camping'. AND THE SENTENCE THAT STATES THE PROGRAMME'S PURPOSE: 'LES VOYAGEURS SHOULD BE A PLACE WHERE A BOY CAN POUND HIS CHEST AND BELLOW \"LOOK WHAT I'VE DONE\".' He offers his evidence: one crew could each carry a canoe singles for at least 200 yards by the end of the session, 'and all took a fair amount of pride in their accomplishment.'",
+      "sources": [
+        "src_ymf_1967_les_voyageurs_de_la_verendrye_camp_directors_report"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.34",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5022",
+      "category": "site",
+      "date_ref": "1967",
+      "entities": [
+        "Lac Landron",
+        "La Verendrye Park",
+        "Canadian International Paper",
+        "Camp Kapitachouane",
+        "Rapid Lake"
+      ],
+      "claim": "THE COUNTRY AS THE VOYAGEURS ACTUALLY USED IT, WITH ITS ROUTES NAMED. The 1967 report says the base was Lac Landron and that all crews left from and returned to it by water. THE MAPS WERE THIRTY YEARS OLD: 'it should be noted that our current maps are 1938 vintage', and with 'scanty' records of past trips the season was planned as a systematic exploration to build 'a master set of maps showing routes, campsites, portages, rapids'. NAMED WATERS on the season's routes: the Ottawa, Lac Ferguson, Lac Camachigama, Lac Vimy, the Capitachouane River, Moore, Lac Capitachouane, Lac Choiseul, Lac Furger, Lac Akos, Lac Bouchette, Lac Bernier, Seven Mile Bay, the Cabonga Reservoir, Lac Barriere, Lac Dozois, Grand Lac Victoria, Lac St. Amour, Lac Cematose, Bark Lake and Lac Poigan. THE NEIGHBOURS: 'Kapitachouane on Lac Choiseul, WHICH RUNS TRIPS SIMILAR TO OURS' -- a camp this project has never recorded. And the CANADIAN INTERNATIONAL PAPER COMPANY is the landlord of the country: its road '30' is the access, its Camp Landron has the medical facilities the report declines to lean on, and 'the Canadian International Paper Company opened a public campsite down the bay. LES VOYAGEURS NOW LIES ON THE PATH OF FISHERMEN coming and going fishing, and as a result had many visitors.' Twice, fishermen camped on Voyageur sites, so the report urges the camp to 'lease its sites and post the land'. DISTANCE: base camp to Rapid Lake is 'a 2 - 2.5 hour trip although only 34 miles by road'. THE ECOLOGICAL NOTE IS THE CAMP'S OWN: sites needed cleaning up after 'indiscriminate cutting and maiming of trees' in past years, new kybos and garbage pits were dug, canoe racks built so hulls were not left beached, and 'the birch bark teepee built several years ago had deteriorated to the point of being an eyesore and so was removed. The poles were stacked for future use.'",
+      "sources": [
+        "src_ymf_1967_les_voyageurs_de_la_verendrye_camp_directors_report"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.34",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5023",
+      "category": "programs",
+      "date_ref": "1967",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "David Blake",
+        "Canadian International Paper"
+      ],
+      "claim": "A DIRECTOR PUTTING HIS SAFETY PROBLEM IN WRITING, INCLUDING THE LEGAL SIDE. The 1967 report's sharpest passages are about medical kit and supervision, and they are worth quoting because a camp's own record rarely says this. ON FIRST AID: 'The first aid kit proves itself to be something of a joke... BY LIMITING ITSELF TO ASPIRIN, BANDAGES AND HYDROGEN PEROXIDE THE CAMP MAY BE SAFE FROM LEGAL ACTION BUT IT SAYS LITTLE FOR OUR CONCERN FOR PEOPLE.' Flies and damp brought 'colds, coughs and infected fly bites' and the director met each trip only weekly, while 'in most cases it takes less than a week for simple fly bites to become infected'. He rejects the proposed workaround: turning first aid over to Camp Landron's facilities 'merely shifts the weight of legal responsibility from us to Canadian International Paper Company - a position which I doubt, in spite of their generosity and help, they want to be in.' He asks to take it to a doctor and a lawyer. ON SUPERVISION: on two occasions a tripper hiked back to base camp to report a change of plan, so 'for a period of 24 hours ONE CREW WAS LEADERLESS AND LEGALLY WIDE OPEN FOR ACTION'; on another, the whole camp's operations stopped and 'base camp with one base camp boy in charge and nine campers had to run the closing of camp'. The proposed fix is a JUNIOR COUNSELLOR or senior camper on each trip -- a past camper approached in the winter and taken at a reduced rate, free, or for a small wage -- serving as assistant, relief and 'a legal cover if the tripper had to pull out'. The report names its own objection: junior counsellors are 'often reduced' to 'Joe boy' positions 'by self-satisfied trippers'. ON COMMUNICATIONS: 'Messages just do not arrive at base camp', so pre-planned procedures and search-party arrangements are wanted -- and the director notes that supplying each group took an average of TWO DAYS to find them. AND A LINE ABOUT THE END OF THE SUMMER: 'after a successful Summer the last few days at Kanawana were to say the least \"cold\". The mechanics of this period should be examined so that personal tensions due to re-adjustment are kept to a minimum.' NOTE ALSO, for further work: the report says 'see the comments of 1963-64-65 Directors', so directors' reports for those three years existed.",
+      "sources": [
+        "src_ymf_1967_les_voyageurs_de_la_verendrye_camp_directors_report"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.34",
       "added_by": "ralph_loop"
     }
   ]

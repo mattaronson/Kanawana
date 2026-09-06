@@ -1,6 +1,6 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 26*
+*Status: E1-reviewed | Sources: 27*
 *Last Updated: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *Last Updated: 2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
 *Last Updated: 2026-07-05 (named trip staff added from photo-mined canoe-trip plaques, p_191 ENRICH pass) — photo gallery added 2026-07-02*
@@ -57,6 +57,68 @@ raisins, named for the YMCA's Camp Widjiwagan and so an inter-camp borrowing sta
 One passage is worth reading against the section below on the 1975 lifejacket law: the writer
 argues life preservers "should be done away with except for non-swimmers," being bulky, heavy in
 rain and ignored by the CIP men they met on the water.^26
+
+### 1967: a director's report from Lac Landron
+
+Eight years on, the satellite was in the park and running on its own, and its director wrote it
+all down. "Les Voyageurs de la Vérendrye — Camp Director's Report 1967" is signed **David Blake**,
+with **David Taube, Paul Mongraw and Bob Matheson** as trippers and **Richard Holyoke and Harry
+Fox** as base camp staff, hired at **$50.00 for the summer** each — a wage Blake thought too small
+for men who "worked a full day each day, and on numerous occasions more than a full" one.^27 None
+of the six appears anywhere else in this project. Three crews ran in the first period, six to a
+crew including the tripper; Blake proposes adding a junior counsellor to each and going to nine,
+which would take the camp "from 25 to 35."^27
+
+**The week at Kanawana had a job.** "Discussions about camping procedures, camper problems, etc.,
+for the most part took place while the staff was painting canoes or sewing tents. The first week
+at Kanawana should remain a **patch and sew period** as much as possible."^27 Blake wanted first
+aid taught there too, and an Air Force bush-survival instructor — "not because I expect anyone to
+have to survive in the bush for any length of time, but to help promote an interest in survival
+camping — living off the land — i.e. total involvement with our environment and not just as a
+tourist."
+
+**He was not impressed by what he inherited.** "The staff found the standard of camping and care of
+equipment at Les Voyageurs to be generally low," and while he wanted the camp "as free of
+structured program as possible… we cannot accept an 'anything goes' attitude."^27 What he changed
+reads as a list of a place tightening up: visits to the Dorval Lodge and Le Domaine cut to "a pop
+and candy bars," free meals at the lumber camps discouraged, hunting cabins out of bounds, axes
+kept under the tripper's control because "axemanship displayed by new and old campers was at times
+nerve wracking," single-lift portaging retrained, canoe lines introduced, and the shooting of
+rapids restricted "so that equipment was not damaged for the sake of a thrill." Wet-foot camping
+was adopted over dry, "though the director is an exponent of dry foot camping." And the sentence
+that states the point of the whole thing: "**Les Voyageurs should be a place where a boy can pound
+his chest and bellow 'Look what I've done'.**"
+
+**The maps were 1938 vintage**, past trip records "scanty," so the season was run partly as
+systematic exploration to build a master set. The waters named across it: the Ottawa, Lac
+Ferguson, Camachigama, Vimy, the Capitachouane River, Choiseul, Furger, Akos, Bouchette, Bernier,
+Seven Mile Bay, the Cabonga Reservoir, Barrière, Dozois, Grand Lac Victoria, St. Amour, Cematose,
+Bark Lake and Poigan.^27 A neighbouring camp appears in passing — "Kapitachouane on Lac Choiseul,
+which runs trips similar to ours" — recorded nowhere else here.
+
+**Canadian International Paper was the landlord of the country**, its road "30" the access and its
+Camp Landron the nearest medical facility, and it was changing the place: "the Canadian
+International Paper Company opened a public campsite down the bay. Les Voyageurs now lies on the
+path of fishermen coming and going fishing, and as a result had many visitors."^27 Twice fishermen
+camped on Voyageur sites, and Blake wanted the sites leased and posted. The camp was also cleaning
+up after itself: new kybos and garbage pits, canoe racks so hulls were not beached, and sites
+needing work after "indiscriminate cutting and maiming of trees" in past years. The birch bark
+teepee "built several years ago had deteriorated to the point of being an eyesore and so was
+removed. The poles were stacked for future use."
+
+**And he put the safety problem in writing, including the legal side**, which a camp's own file
+rarely does. "The first aid kit proves itself to be something of a joke… by limiting itself to
+aspirin, bandages and hydrogen peroxide the camp may be safe from legal action but it says little
+for our concern for people." He met each trip once a week, and "in most cases it takes less than a
+week for simple fly bites to become infected." He rejected the proposal to lean on Camp Landron's
+facilities because it "merely shifts the weight of legal responsibility from us to Canadian
+International Paper Company — a position which I doubt, in spite of their generosity and help,
+they want to be in," and asked to take the question to a doctor and a lawyer.^27 Twice a tripper
+hiked back to base camp to report a change of plan, leaving "one crew… leaderless and legally wide
+open for action" for twenty-four hours; once the whole camp stopped and "base camp with one base
+camp boy in charge and nine campers had to run the closing of camp." His fix was the junior
+counsellor, and he named its own risk: they are "often reduced" to "Joe boy" jobs "by
+self-satisfied trippers."
 
 ## Coeducation and Later Developments
 
@@ -269,3 +331,4 @@ This is the only itemised cost of a 1920s Canadian canoe trip found by this proj
 24. Porter Sargent Publishers, *The Guide to Summer Camps and Summer Schools*, 1983-1984 (23rd edition) and December 1987, the KANAWANA entries [src_porter_sargent_guides_1983_1987]. **One entry from each edition**, reconstructed 2026-09-06 from fifteen overlapping Open Library search-inside queries; both books are lending-restricted and neither has been read. Cached with the queries at `sources/cache/openlibrary-search-inside/2026-09-06-porter-sargent-guides-1983-84-and-1987.txt`. See [f_4946].
 25. *The Lookout* Vol. 1 No. 3 (Kanawana Alumni Committee, autumn 1993), "Summer Report" by Bruce Netherwood, Director [src_ia_the_lookout_1993]. See [f_5008].
 26. "Report of Older Boys Camp, Summer 1959", YMCA of Montreal fonds [src_ymf_1959_report_of_older_boys_camps_summer]. Cached at `sources/cache/ymca-montreal-fonds/1959-report-of-older-boys-camps-summer.txt`. See [f_5017], [f_5018] and [f_5019]. **Two documents are bound into this one scan**: the 1959 report, and an undated tripper's letter to "Dave (Boss)" which is later than it — its base camp is inside the park and Kanawana is down to a week. No year is assigned to the letter.
+27. "Les Voyageurs de la Vérendrye — Camp Director's Report 1967", signed by David Blake [src_ymf_1967_les_voyageurs_de_la_verendrye_camp_directors_report]. Cached at `sources/cache/ymca-montreal-fonds/1967-les-voyageurs-de-la-verendrye-camp-directors-report.txt`. See [f_5020] through [f_5023]. The report refers to directors' reports for **1963, 1964 and 1965**, which this project has not located.
