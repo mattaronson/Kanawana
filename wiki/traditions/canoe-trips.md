@@ -1,9 +1,11 @@
 # Canoe Trips at Kanawana
 
 *Status: E1-reviewed | Sources: 40*
-*Last Updated: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
-*Last Updated: 2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
-*Last Updated: 2026-07-05 (named trip staff added from photo-mined canoe-trip plaques, p_191 ENRICH pass) — photo gallery added 2026-07-02*
+*Last Updated: 2026-09-06 (the 1926 outfitting list moved out from behind Related Articles, where it had been stranded)*
+
+*Earlier revisions: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
+*2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
+*2026-07-05 (named trip staff added from photo-mined canoe-trip plaques, p_191 ENRICH pass) — photo gallery added 2026-07-02*
 
 Canoe trips were introduced to Kanawana's program in 1925, offered as an optional extra at $3.50 per camper on top of the regular camp fee. By 1928, the camp director was already proposing more ambitious expeditions, suggesting 10- to 12-day trips for senior campers.
 
@@ -12,6 +14,21 @@ The program expanded significantly through the 1930s. In 1936, trips began depar
 By 1945, the routes were codified into a tiered system: a 3-day Lachute trip for beginners, 7-8 day trips to Île Perrot and Grenville for intermediates, and a 10-day Ottawa River trip for seniors.^mc The program continued to expand: by 1950, six canoe trips per week were departing, with routes extending beyond Archambault to include the Ottawa and Pembina rivers. Six trips per week meant that canoe tripping had become not a special activity but a core, ongoing feature of the summer, with groups constantly rotating through departure and return.
 
 By 1962, the growth of cottager communities near Kanawana meant canoe trips had to drive over 150 km to reach suitable launch points.^mc The appetite for more remote territory led the camp committee to begin searching in 1956 for a northern site that could serve older, more experienced trippers. After three years of scouting, they chose La Vérendrye Park in 1959 as a base camp for campers aged 15 and older. The YMCA secured a 25-acre lease at Lac Landron as a base camp, and the program was formally named **"Les Voyageurs de La Vérendrye."**^mc That first summer, the Pathfinder section alone went on eighteen canoe trips — to the Rouge River, North River, Lake Kiamika, and Taureau.^mc By 1964, over twenty trips were departing each season.^mc The La Vérendrye canoe trip program, and the L&V Games competition that grew up alongside it, became inseparable from the camp's identity in the decades that followed.
+
+### What a ten-day canoe trip cost in 1926
+
+Adele Ebbs reprinted, in 1986, a complete outfitting list made in **1926** by **Herbert B. Bell**, "an experienced canoe-trip leader," for **two men on a ten-day canoe trip in Algonquin Park**. The food was side bacon, cheese, flour, rolled oats, salt pork, tinned goods, peanut butter, dried apples, dried peaches, rice, raisins, macaroni, dried whole milk, butter, carrots, sugar, four loaves of bread, Crisco, coffee, syrup, pepper and baking powder; the equipment a box of matches, a medical kit, six candles, two small pails, a frying pan, two cups, two knives, three plates, three bowls, two quarts, two dessert spoons, a teaspoon, two packsacks and a length of rope. The costs are given as:
+
+| | |
+|---|---|
+| Food | $11.18 |
+| Equipment | $6.60 |
+| Canoe (rental) | $8.00 |
+| **Total** | **$25.78** |
+
+— "approximately **$1.25 per person per day**."^22
+
+This is the only itemised cost of a 1920s Canadian canoe trip found by this project, and it is a direct comparator for Kanawana's own tripping in the same decade: the camp was running canoe trips out of Lake Wilson through the 1920s, and the figure gives a sense of what its per-camper tripping costs would have been against a season fee. Nothing here is a Kanawana record; it is a contemporary benchmark from the same years and the same kind of country.
 
 ### 1945 to 1948: eight trips down the North River, and a circuit to Kingston and back
 
@@ -728,20 +745,6 @@ Today, canoe tripping remains central to the Kanawana experience. The 2026 progr
 - [[site/the-kanawana-site|The Kanawana Site]]
 - [[people/a-ross-seaman|A. Ross Seaman]]
 
-### What a ten-day canoe trip cost in 1926
-
-Adele Ebbs reprinted, in 1986, a complete outfitting list made in **1926** by **Herbert B. Bell**, "an experienced canoe-trip leader," for **two men on a ten-day canoe trip in Algonquin Park**. The food was side bacon, cheese, flour, rolled oats, salt pork, tinned goods, peanut butter, dried apples, dried peaches, rice, raisins, macaroni, dried whole milk, butter, carrots, sugar, four loaves of bread, Crisco, coffee, syrup, pepper and baking powder; the equipment a box of matches, a medical kit, six candles, two small pails, a frying pan, two cups, two knives, three plates, three bowls, two quarts, two dessert spoons, a teaspoon, two packsacks and a length of rope. The costs are given as:
-
-| | |
-|---|---|
-| Food | $11.18 |
-| Equipment | $6.60 |
-| Canoe (rental) | $8.00 |
-| **Total** | **$25.78** |
-
-— "approximately **$1.25 per person per day**."^22
-
-This is the only itemised cost of a 1920s Canadian canoe trip found by this project, and it is a direct comparator for Kanawana's own tripping in the same decade: the camp was running canoe trips out of Lake Wilson through the 1920s, and the figure gives a sense of what its per-camper tripping costs would have been against a season fee. Nothing here is a Kanawana record; it is a contemporary benchmark from the same years and the same kind of country.
 
 ## Sources
 
