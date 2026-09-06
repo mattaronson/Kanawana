@@ -1,7 +1,7 @@
 # The Cushing Family and YMCA Camping
 
-*Status: E1-reviewed | Sources: 13*
-*Last Updated: 2026-09-05*
+*Status: E1-reviewed | Sources: 14*
+*Last Updated: 2026-09-06 (Charles in the Quebec chair in 1887, and a probable name for Percy H.)*
 
 ## Summary
 
@@ -45,6 +45,22 @@ Analysis of the 1905 Cushing genealogy reveals that the only person literally na
 Lemuel Jr.'s eldest son **Walter Edgar Cushing** (b. 1870, d. January 13, 1935) was 22 in 1892 and may have been referred to informally by the family name "Cushing" or even "young Lemuel Cushing." His brother **Harold Beveridge Cushing** (b. 1873, d. October 31, 1947) was 19 and completing his B.A. at McGill that same year.^6 ^12 Either could plausibly have led the trip. **A full-text search of both the McMorris thesis and the complete 1905-1969 Cushing genealogy supplement (2026-07-09) found zero mentions of "Cushing" or "1892" in either document** (beyond Walter Edgar's own biographical entry, which does not mention 1892 or camping) — a meaningful negative finding, since these are the two most likely secondary sources to corroborate the QAHN's claim.^12
 
 The 1905 genealogy contains no mention of Lake Saint-Joseph, camping, or YMCA activity beyond Lemuel Jr.'s presidency — the 1892 trip is unrecorded in the family's own published history.^6 The QAHN attribution to "Lemuel Cushing" may reflect a name conflation or the use of a family surname rather than a specific individual's given name. Resolution requires the 1893 camper lists in Concordia Archives sub-series 12L.
+
+## Two more Cushings in the association, from its own rosters
+
+This article had the family's YMCA involvement running from Lemuel Jr.'s presidency in 1867-68 to the annual reports of 1891 onward, with two decades in between unaccounted for. The YMCA's own continent-wide *Year Book*, read in September 2026, puts a Cushing in the association in both of the gaps that mattered.
+
+**Charles was the corresponding member for Quebec in 1887.**^14 That was the association's senior volunteer post in the province — held in the 1886 volume by D. A. Budge, the General Secretary himself, so Charles either succeeded him or they alternated. The table above records Charles as a notary and a Sun Life director with **no YMCA connection at all**, which is what this corrects.
+
+The identification is by name, city, period and calling: Charles Cushing of Montreal, born Chatham 1848, McGill B.C.L. 1869, notary, and — in the 1905 genealogy's own words — "an active member of the Congregational Church" who "has always taken a leading part in promoting the interests of this body, both in its college and in its missionary efforts."^1 A professional man of thirty-nine, prominent in Protestant church work, is exactly who held that post. No source says outright that the Year Book's Charles Cushing is Lemuel Sr.'s son, and this is written as an identification rather than a fact.
+
+What it changes is the shape of the family's presence. **Five years before the 1892 Lake Saint-Joseph trip, a Cushing was the YMCA's senior Quebec volunteer** — which makes the family's involvement continuous across the period rather than a presidency in the 1860s and a reappearance in the 1890s with nothing between.
+
+**And "Percy H. Cushing" probably has a first name, a father, and a reason for disappearing.**^14 The *Year Book* volumes for 1894 and 1895 give Montreal's assistant secretaries as **Percy H. Cushing** and W. F. Chapman; from 1896 he is gone, C. K. Calhoun in his place. The 1905 genealogy already cited here gives, among the children of **Col. James Brock Cushing** — another of the eight sons — "**Percy Hill, b. 9 July 1872; d. 22 Dec. 1896**", born at Chatham.^1
+
+Four things converge. The name, with the H matching **Hill**. The timing of the city: the genealogy says James Brock Cushing "resided at Cushing until October, 1890, when he removed with his family to Montreal" — so a Percy H. Cushing becomes available for a Montreal post exactly when one appears. The age: twenty-two in 1894, which is what an assistant secretary was. And the disappearance: he **dies on 22 December 1896**, which accounts for a man leaving the rosters without surfacing at another association, as secretaries who merely change jobs do.
+
+Cushing is not a rare surname in Montreal and no source joins the two men, so this is an identification on four converging fields and nothing stronger. If it holds, the family sat in the association more densely than this article has recorded: Lemuel Jr. as president in 1867-68, his brother Charles in the Quebec chair in 1887, and their nephew on the paid staff in the two seasons immediately after the camp was founded.
 
 ## The Cushing Family in YMCA Governance (1891–1902)
 
@@ -103,6 +119,7 @@ A different **Walter Edgar Cushing** (Dartmouth College, Class of 1909) served w
 11. YMCA of Montreal Annual Report (41st, 1892) and Historical Sketch of the YMCA of Montreal 1851-1901 (Internet Archive), read in full 2026-07-08. Its own presidents list gives 1867-68 for Lemuel Cushing Jr.'s main-organization presidency, 1869-73 for T. James Claxton, and separately names Cushing as president of a distinct Point St. Charles branch YMCA — see conflict c_012 (likely resolved).
 12. Cushing genealogy supplement, 1905-1969, FamilySearch item 235744 — read in full 2026-07-09 [src_familysearch_cushing_supp]. McMorris thesis, full-text search for "Cushing"/"1892" [src_mcmorris_thesis].
 13. *Year Book and Official Roster of the Young Men's Christian Associations of North America*, 1893, 1894, 1895 and 1897 [src_ymca_yearbook_1893], [src_ymca_yearbook_1894], [src_ymca_yearbook_1895], [src_ymca_yearbook_1897], downloaded from the Internet Archive and cached 2026-09-05. The Quebec corresponding-member listings and provincial reports; the 1895 signature verified against the page image, leaf 0072. See [f_4837].
+14. *Year Book of the Young Men's Christian Associations of North America*, the volumes for **1886** and **1887** (the corresponding members for Quebec) and for **1894**, **1895** and **1896** (the Montreal assistant secretaries) [src_ymca_yearbook_ia_inventory_2026, src_ymca_yearbook_1894, src_ymca_yearbook_1895, src_ymca_yearbook_1896]. The 1886 and 1887 volumes are bound into Internet Archive item `ymcayearbookand02amergoog`, which is catalogued 1886 and in fact holds four annual volumes; the series is inventoried at `sources/cache/ymca-yearbooks/2026-09-06-complete-ia-inventory-of-the-series.txt`. See [f_4987], [f_4988].
 
 ## Research Notes
 

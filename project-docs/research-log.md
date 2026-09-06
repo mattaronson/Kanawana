@@ -5788,3 +5788,43 @@ reframe the 1892 trip as something the association's leadership circle did rathe
 initiative it later absorbed. Or he is an unrelated man with a common surname, which is equally
 worth settling. The first step is a file this repo already holds:
 `sources/cache/web-pages/cushing-genealogy-1905.txt`.
+
+### The Cushings: what was new, and what I only thought was new
+
+p_437's first step was the zeroth-step rule — read what the repo already holds before searching.
+It paid twice, once in the intended direction and once against me.
+
+**The genealogy answered immediately.** `sources/cache/web-pages/cushing-genealogy-1905.txt`
+gives Charles Cushing, born Chatham, Que., 1 May 1848, McGill B.C.L. 1869, notary in Montreal,
+married to Robertson Macaulay's daughter, "an active member of the Congregational Church" who
+"has always taken a leading part in promoting the interests of this body". A professional man of
+thirty-nine, prominent in Protestant church work, is exactly who held a YMCA corresponding
+membership in 1887.
+
+**And then it turned out I had claimed novelty for a man the wiki already had.** I wrote that
+"Charles Cushing" occurs nowhere in this project, on the strength of a grep for that phrase.
+`wiki/people/cushing-family.md` has listed him since before this session, in its table of Lemuel
+Cushing Sr.'s eight sons, as `| Charles | 1848–? |` — the surname in the column heading, not in
+the cell. **A query that cannot match the way a source writes a name is not evidence about the
+source.** That is the fourth error of this kind today and the fourth of the same family: a null
+from a query treated as a null in the world. Corrected in place in f_4986 and in
+`directors-index.md`.
+
+What is actually new is **the post, not the man**. That table gives Charles no YMCA connection at
+all. He was the association's senior Quebec volunteer in 1887 — a post held by General Secretary
+D. A. Budge himself the year before — which closes part of a two-decade gap in the family's
+recorded involvement and puts a Cushing in the association's provincial chair five years before
+the Lake Saint-Joseph trip.
+
+**A second find from the same read.** The *Year Book* gives Montreal's assistant secretaries for
+1894 and 1895 as "Percy H. Cushing" and W. F. Chapman, and from 1896 he is gone. The genealogy
+has, among Col. James Brock Cushing's children, "**Percy Hill, b. 9 July 1872; d. 22 Dec. 1896**".
+Four fields converge: the name with H for Hill; the family's removal from Cushing to Montreal in
+**October 1890**, which is when such a man becomes available for a Montreal post; his age of
+twenty-two in 1894; and a **death in December 1896** that accounts for a man leaving the rosters
+without turning up at another association, as secretaries changing jobs do. Cushing is not a rare
+Montreal surname and nothing joins the two men outright, so it is written as an identification on
+four converging fields.
+
+Still to do in p_437: the 1884, 1888 and 1890 volumes are downloaded and were never searched on
+the Cushing names — only 1886 and 1887 were.

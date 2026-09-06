@@ -1,8 +1,8 @@
 {
-  "version": "7.11",
-  "kb_version": "7.11",
+  "version": "7.12",
+  "kb_version": "7.12",
   "migrated_from": "3.3",
-  "fact_count": 4948,
+  "fact_count": 4950,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88981,13 +88981,53 @@
         "W. H. Ball, Jr.",
         "YMCA of Montreal"
       ],
-      "claim": "THE MONTREAL YMCA BEFORE THE CAMP: TWO NEW NAMES, AND A NULL ON ITS FOUNDER. The pre-camp volumes of the Year Book (1882 or 1882-83, 1884, 1886, 1887, 1888, 1890) were searched for the camp's people. THE NULL FIRST, because it is the larger part: W. H. BALL IS IN NONE OF THEM. He entered Association work in 1889 (f_4976) and the 1892 volume introduces him at Montreal as 'the physical director, W. H. Ball Jr., a new man, from the Springfield Training School'. The Balls in the 1880s volumes are other men entirely -- J. R. Ball, J. J. Ball, John T. Ball of Meridian, G. L. Ball of Seaforth, B. F. Ball of Boston, J. B. Ball of Sherbrooke, Willard D. Ball of Los Angeles. THE THREE YEARS BETWEEN HIS ENTRY INTO ASSOCIATION WORK IN 1889 AND HIS ARRIVAL IN MONTREAL ARE STILL BLANK and this series does not fill them. The search pattern was run as a control against two volumes where he IS present before this null was recorded. TWO NEW NAMES, both grepped against the repo and its 954-file cache before being written down. CHARLES CUSHING, Montreal, is the CORRESPONDING MEMBER FOR QUEBEC in the 1887 volume -- 'Quebec ........ Charlbs Cushino ....Montreal.' The name occurs nowhere else in this project, and it matters because the Cushings are already in the founding story: Lemuel Cushing took boys to Lake Saint-Joseph in 1892, W. E. Cushing sat on the 1892 committee, and Percy H. Cushing was the association's Assistant Secretary in 1894 and 1895. A Cushing holding the YMCA's senior Quebec volunteer post five years before any of that is a thread worth pulling. IT IS A NAME AND A POST AND NOTHING MORE: no relationship to any other Cushing is established, and Cushing is not a rare enough surname to assume one. In the 1886 volume that post is held by D. A. BUDGE himself, so Cushing succeeded him, or they alternated, between 1886 and 1887. And G. A. KUHRING is an Assistant at Montreal under Budge in the earlier volume of ymcayearbookand01amergoog -- 1882 or 1884, the line falling before that scan's 1884 title page and its first title page being unreadable, so the year is left as a range. Also new to this project.",
+      "claim": "THE MONTREAL YMCA BEFORE THE CAMP: TWO NEW NAMES, AND A NULL ON ITS FOUNDER. The pre-camp volumes of the Year Book (1882 or 1882-83, 1884, 1886, 1887, 1888, 1890) were searched for the camp's people. THE NULL FIRST, because it is the larger part: W. H. BALL IS IN NONE OF THEM. He entered Association work in 1889 (f_4976) and the 1892 volume introduces him at Montreal as 'the physical director, W. H. Ball Jr., a new man, from the Springfield Training School'. The Balls in the 1880s volumes are other men entirely -- J. R. Ball, J. J. Ball, John T. Ball of Meridian, G. L. Ball of Seaforth, B. F. Ball of Boston, J. B. Ball of Sherbrooke, Willard D. Ball of Los Angeles. THE THREE YEARS BETWEEN HIS ENTRY INTO ASSOCIATION WORK IN 1889 AND HIS ARRIVAL IN MONTREAL ARE STILL BLANK and this series does not fill them. The search pattern was run as a control against two volumes where he IS present before this null was recorded. TWO NEW NAMES, both grepped against the repo and its 954-file cache before being written down. CHARLES CUSHING, Montreal, is the CORRESPONDING MEMBER FOR QUEBEC in the 1887 volume -- 'Quebec ........ Charlbs Cushino ....Montreal.' [CORRECTED 2026-09-06, within the hour: this fact said 'The name occurs nowhere else in this project.' IT DOES -- wiki/people/cushing-family.md has listed him since before this session, in its table of Lemuel Cushing Sr.'s eight sons: 'Charles, 1848-?, Notary (McGill B.C.L. 1869), published Cushing's Notarial Form Book (1887), Sun Life director (1904)'. The grep behind the false claim searched the phrase 'Charles Cushing'; the table writes him as a row headed by the surname. A query that cannot match the way a source writes a name is not evidence about the source. WHAT IS ACTUALLY NEW IS THE POST: that table gives him no YMCA connection whatever, and he was the association's senior Quebec volunteer in 1887.] It matters because the Cushings are already in the founding story: Lemuel Cushing took boys to Lake Saint-Joseph in 1892, W. E. Cushing sat on the 1892 committee, and Percy H. Cushing was the association's Assistant Secretary in 1894 and 1895. A Cushing holding the YMCA's senior Quebec volunteer post five years before any of that is a thread worth pulling. IT IS A NAME AND A POST AND NOTHING MORE: no relationship to any other Cushing is established, and Cushing is not a rare enough surname to assume one. In the 1886 volume that post is held by D. A. BUDGE himself, so Cushing succeeded him, or they alternated, between 1886 and 1887. And G. A. KUHRING is an Assistant at Montreal under Budge in the earlier volume of ymcayearbookand01amergoog -- 1882 or 1884, the line falling before that scan's 1884 title page and its first title page being unreadable, so the year is left as a range. Also new to this project.",
       "sources": [
         "src_ymca_yearbook_ia_inventory_2026"
       ],
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.11",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4987",
+      "category": "people",
+      "date_ref": "1887",
+      "entities": [
+        "Charles Cushing",
+        "Cushing family",
+        "D. A. Budge",
+        "YMCA of Montreal",
+        "Lemuel Cushing Jr."
+      ],
+      "claim": "A CUSHING HELD THE YMCA'S SENIOR QUEBEC POST IN 1887, TWENTY YEARS AFTER LEMUEL JR.'S PRESIDENCY AND FIVE BEFORE THE LAKE SAINT-JOSEPH TRIP. The 1887 Year Book lists the corresponding member for Quebec as 'Charlbs Cushino ....Montreal.' -- Charles Cushing of Montreal. In the 1886 volume that post is held by D. A. Budge, the association's General Secretary, so Cushing succeeded him or they alternated between 1886 and 1887. THE IDENTIFICATION: this project's Cushing family article already carries a Charles among Lemuel Cushing Sr.'s eight sons -- 'Charles, 1848-?, Notary (McGill B.C.L. 1869), published Cushing's Notarial Form Book (1887), Sun Life director (1904), married Lily Macaulay' -- and the 1905 genealogy gives him as born Chatham, Que., 1 May 1848, practising as a notary in Montreal, 'an active member of the Congregational Church' who 'has always taken a leading part in promoting the interests of this body, both in its college and in its missionary efforts.' Same name, same city, same period, and a profile -- a professional man prominent in Protestant church work, aged thirty-nine in 1887 -- that fits the post exactly. It is an identification by name, place, period and calling, not a documented link. WHY IT MATTERS: that table records him with NO YMCA CONNECTION AT ALL. The family's documented involvement had run from Lemuel Jr.'s presidency in 1867-68 to the annual reports of 1891 onwards, with two decades unaccounted for between. This puts a Cushing in the senior provincial YMCA chair in 1887, which narrows that gap and makes the family's presence in the association continuous rather than episodic across the years before the 1892 Lake Saint-Joseph trip.",
+      "sources": [
+        "src_ymca_yearbook_ia_inventory_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4988",
+      "category": "people",
+      "date_ref": "1872-1896",
+      "entities": [
+        "Percy H. Cushing",
+        "Percy Hill Cushing",
+        "James Brock Cushing",
+        "Cushing family",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE 'PERCY H. CUSHING' WHO WAS THE MONTREAL YMCA'S ASSISTANT SECRETARY IN 1894 AND 1895 IS PROBABLY PERCY HILL CUSHING, 1872-1896 -- AND HIS DEATH EXPLAINS WHY HE LEAVES THE ROSTER. The Year Book volumes for 1894 and 1895 give Montreal's assistants as 'Percy H. Cushing' and W. F. Chapman (f_4966); he is absent from 1896 onwards, where C. K. Calhoun appears instead. The 1905 Cushing genealogy, already cited in this project's Cushing family article, gives among the children of Col. JAMES BROCK CUSHING -- one of Lemuel Cushing Sr.'s eight sons -- 'i. PERCY HILL, b. 9 July 1872; d. 22 Dec. 1896', born at Chatham, Que. FOUR THINGS CONVERGE. The name, with the middle initial H matching Hill. The city and its timing: the genealogy says James Brock Cushing 'resided at Cushing until October, 1890, when he removed with his family to Montreal' -- so a Percy H. Cushing becomes available for a Montreal post exactly when one appears in the roster. The age: twenty-two in 1894, which is what an assistant secretary was. And the disappearance: he dies on 22 December 1896, which accounts for a man vanishing from the 1896 and later rosters without turning up at another association, as YMCA secretaries who merely move jobs do. WHAT THIS IS NOT: no source found says the assistant secretary and the man in the genealogy are the same person, and Cushing is not a rare surname in Montreal. It is an identification on four converging fields and is written as one. IF IT HOLDS, the family's presence in the association is denser than recorded: Lemuel Jr. president 1867-68, Charles the Quebec corresponding member in 1887 (f_4987), and a nephew on the paid staff in the two seasons immediately after the camp's founding.",
+      "sources": [
+        "src_ymca_yearbook_ia_inventory_2026"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "7.12",
       "added_by": "ralph_loop"
     }
   ]
