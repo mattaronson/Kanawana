@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 38*
+*Status: E1-reviewed | Sources: 39*
 *Last Updated: 2026-09-06 (the camp's 1956 purchase of ninety mainland acres, the first acreage figure this article has had)*
 
 ## Overview
@@ -163,6 +163,41 @@ Petite-Bourgogne — Little Burgundy, the working-class district southwest of do
 **In 1967 it stopped being its own unit.** "Camp Otoreke **became a department of Downtown Branch**. It continued to operate a weekend Ski Lodge for young adults and a vacation centre during the summer."^34 Eleven years earlier the association had listed Otoreke among its *branch* chairmen, alongside Central, Westmount and Lachine; now it was a department inside one of them. The report gives no reason and records no change to what the site actually did.
 
 **And by 1947 it was the association's largest camp operation, with women slightly outnumbering men.** The annual report for the year ending 31 March 1948: "The registration was **475 young men, 482 young women and 49 married couples**, a total of **1,055 persons for 11,942 camper-days**. The camp period extended from **June first to September first**, with a daily average of 160 persons during the mid[-season]."^33 Twelve years after the 115 young men and women of that first mixed summer, Otoreke was running a three-month season for over a thousand people, and the women's registration had passed the men's. Kanawana in the same season took 320 boys for 1,394 camper-weeks and would remain boys-only for another twenty years.
+
+**And the next two summers, which continue the series.** The annual report for the year ending
+31 March 1949, on the summer of **1948**: Otoreke "conducted its **55th season**… **1,018 campers**
+were registered (**466 men, 484 women and 34 married couples**) for a total of **10,323 camper
+days**. The **peak attendance was reached during the last week in July with 170 campers**." The
+report for the year ending 31 March 1950, on the summer of **1949**: the camp "has completed its
+**56th year** of operation, **492 men, 501 women and 35 couples** registered, making a total of
+**1,063 campers, for 10,594 camper-days** during the season which extends from **June 11th to
+September 3rd**" — "an increase of 45 campers and 271 camper-days over the previous year", and
+**76% of the campers resided within metropolitan Montreal**, the rest coming from sixteen other
+localities.^39
+
+**The season counts corroborate the founding year from a direction this article had not used.** A
+55th season in 1948 and a 56th in 1949 both count from **1894**, which is what the camp's own
+founding date says.
+
+**One arithmetic note, which is this article's observation and not the reports'.** In all three
+years the stated total only works if a married couple is counted as two people: 475+482 and 49
+couples gives 1,055; 466+484 and 34 couples gives 1,018; 492+501 and 35 couples gives 1,063. The
+convention is consistent across the three reports and worth carrying into any comparison with
+Kanawana's own counts, which are of children and have no such category.
+
+**Canoe tripping had become a main attraction by then.** 1948: "seven parties of fifteen to
+twenty-five persons spent six days each in the area **west of Lake Labelle**", and "many campers now
+plan their holiday to include one week in camp and one week on a canoe trip." 1949: "since canoe
+trips became a part of Otoreke programme, their popularity has increased to such an extent that
+**registrations for last summer's six trips were filled before the camp opening date**", parties of
+18 to 21 spending six days on each.^39 The camp is described as sitting "in the **Howard Valley** of
+the Laurentians, on one of a string of beautiful lakes **seven miles in length**."
+
+**It was also the association's conference site.** Both years record weekend planning and leadership
+conferences at Otoreke in spring and autumn — seven of them in June and September 1949 alone, "for
+branch programme planning, training in leadership and committee work" — and a September
+Inter-Branch Weekend Conference of teen-age club delegates.^39 That is a use of the site running
+alongside the summer camp and outside its season.
 
 *Two seasons earlier*, in the summer of 1933, Otoreke ran six weeks from 8 July under shared
 secretarial responsibility — "Messrs. **George Porteous** of the North Branch and **Harold E.
@@ -625,6 +660,7 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 36. YMCA of Montreal annual report for the year ended **31 May 1971** [src_ymf_sgw_ymca_annual_report_1970_1971], French column. Read 2026-09-06 under p_441. See [f_5110].
 37. YMCA of Montreal annual report for the year ended **31 May 1973** [src_cache_sgw_ymca_annual_report_1972_1973], the item headed "All-year proposal made for Kanawana." Read 2026-09-06 under p_441. See [f_5111].
 38. YMCA of Montreal annual report for the year ending 31 December 1956, the 105th [src_ymf_sgw_ymca_annual_report_1956], p. 9 under "Camp Otoreke". Read 2026-09-06 while testing a different question -- the 600-to-1,000 acre jump at Kanawana (f_5093) -- against the cached committee minutes, which turned out to be the wrong committee.
+39. YMCA of Montreal annual reports for the years ending 31 March 1949 and 31 March 1950 [src_ymf_sgw_ymca_annual_report_1949, src_ymf_sgw_ymca_annual_report_1950], the "Camping and Outdoor Activities" section of each, covering the summers of 1948 and 1949. Read 2026-09-06. Both were already in the corpus and neither had been cited by this article; a sweep found 47 annual reports naming Otoreke that it does not cite.
 
 ## Research Notes
 

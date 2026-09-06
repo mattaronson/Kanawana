@@ -1,8 +1,8 @@
 {
-  "version": "8.11",
-  "kb_version": "8.11",
+  "version": "8.12",
+  "kb_version": "8.12",
   "migrated_from": "3.3",
-  "fact_count": 5100,
+  "fact_count": 5102,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91943,6 +91943,39 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.11",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5139",
+      "category": "attendance",
+      "date_ref": "1948-1949",
+      "entities": [
+        "Camp Otoreke",
+        "YMCA of Montreal"
+      ],
+      "claim": "OTOREKE'S SUMMERS OF 1948 AND 1949, AND A COUNTING CONVENTION THAT MATTERS. Report for the year ending 31 March 1949, on the summer of 1948: the camp 'conducted its 55TH SEASON... 1,018 CAMPERS were registered (466 MEN, 484 WOMEN and 34 MARRIED COUPLES) for a total of 10,323 CAMPER DAYS. The PEAK ATTENDANCE was reached during the last week in July with 170 CAMPERS.' Report for the year ending 31 March 1950, on the summer of 1949: 'completed its 56TH YEAR of operation, 492 MEN, 501 WOMEN and 35 COUPLES registered, making a total of 1,063 CAMPERS, for 10,594 CAMPER-DAYS during the season which extends from JUNE 11TH TO SEPTEMBER 3RD', an increase of 45 campers and 271 camper-days on the previous year, with 76% OF CAMPERS RESIDENT IN METROPOLITAN MONTREAL and the rest from sixteen other localities. These continue the 1947 figures the article already had (1,055 persons, 11,942 camper-days). THE SEASON COUNTS CORROBORATE THE FOUNDING YEAR FROM A NEW DIRECTION: a 55th season in 1948 and a 56th in 1949 both count from 1894. ONE ARITHMETIC NOTE, WHICH IS THIS PROJECT'S OBSERVATION AND NOT THE REPORTS': in all three years the stated total works only if A MARRIED COUPLE IS COUNTED AS TWO PEOPLE -- 475+482 with 49 couples gives 1,055; 466+484 with 34 gives 1,018; 492+501 with 35 gives 1,063. Consistent across three reports, and it has to travel with any comparison against Kanawana's counts, which are of children and have no such category. ALSO: canoe tripping was by then a main attraction -- seven parties of fifteen to twenty-five spending six days each west of Lake Labelle in 1948, and in 1949 'registrations for last summer's six trips were FILLED BEFORE THE CAMP OPENING DATE' -- and the site ran weekend planning and leadership conferences in spring and autumn outside the camp season, seven of them in June and September 1949 alone.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1949",
+        "src_ymf_sgw_ymca_annual_report_1950"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.12",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5140",
+      "category": "methodology",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project",
+        "Camp Otoreke"
+      ],
+      "claim": "THE ANNUAL REPORTS WERE MINED FOR KANAWANA AND NOT FOR THE SIBLING CAMPS. Measured 2026-09-06: FIFTY-FIVE cached YMCA of Montreal annual reports name Camp Otoreke, and site/camp-otoreke.md cites EIGHT of them. Forty-seven are uncited, thirteen of those carrying eight or more mentions apiece -- 1950 (14), 1958 (13), 1927 (11), 1949 (10), 1965, 1963, 1959, 1926 (9 each), 1964, 1955, 1952, 1930, 1925 (8 each). The p_441 campaign read eighty-one documents FOR KANAWANA CONTENT, which was the right scope for its question and leaves this vein untouched. Two of the densest were read on 2026-09-06 and produced f_5139 immediately: three consecutive seasons of registration and camper-days, the season dates, the 76% metropolitan share, the canoe-trip programme filling before opening day, and a counting convention in which a married couple is two people. THE SAME MEASUREMENT HAS NOT BEEN RUN FOR CAMP PERROT, CAMP BECSCIES, CAMP WEREDALE OR THE DAY CAMPS, and the arithmetic that found this is two greps: count the reports naming the camp, count the source ids the article cites.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.12",
       "added_by": "manual"
     }
   ]
