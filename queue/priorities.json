@@ -5091,12 +5091,12 @@
       "priority_id": "p_404",
       "rank": 403,
       "type": "RESEARCH",
-      "description": "READ 'LUMBERMEN & VOYAGEURS: THE YMCA PINE CREST STORY'. Camp Pine Crest's centennial history is the single most likely place for the origin of the Pine Crest Games (run every summer since 1940) and for any account of how the Lumbermen-and-Voyageurs competition reached Kanawana in 1947. Every public surface searched -- the YMCA of Greater Toronto's own blog on the Games, the camp pages, Wikipedia -- is silent on who created the Games, why the team names, and whether the tradition was passed to another camp. The book is sold through the camp's Shopify store. Buying or borrowing it is the action. Secondary: check whether Roy D. Locke, who became Kanawana's Camp Chief in the summer of 1947, had any prior Toronto or Pine Crest posting, and search Concordia P0145/12B for correspondence between the two camps in 1946-47.",
+      "description": "READ 'LUMBERMEN & VOYAGEURS: THE YMCA PINE CREST STORY'. Camp Pine Crest's centennial history is the single most likely place for the origin of the Pine Crest Games (run every summer since 1940) and for any account of how the Lumbermen-and-Voyageurs competition reached Kanawana in 1947. Every public surface searched -- the YMCA of Greater Toronto's own blog on the Games, the camp pages, Wikipedia -- is silent on who created the Games, why the team names, and whether the tradition was passed to another camp. The book is sold through the camp's Shopify store. Buying or borrowing it is the action. Secondary: check whether Roy D. Locke, who became Kanawana's Camp Chief in the summer of 1947, had any prior Toronto or Pine Crest posting, and search Concordia P0145/12B for correspondence between the two camps in 1946-47. || WORKED 2026-09-06 (f_5208). THE BOOK IS NOT DIGITIZED ANYWHERE THIS PROJECT CAN REACH and it is STILL IN PRINT. Open Library search-inside: 'Lumbermen and Voyageurs' 23 hits and 'Lumbermen & Voyageurs' 7, every one a false friend (the phrase is ordinary Canadiana), 'YMCA Pine Crest Story' ZERO. Internet Archive advancedsearch on title: numFound 0. BUT CAMP PINE CREST SELLS IT ITSELF at camp-pine-crest.myshopify.com/products/lumbermen-voyageurs-the-ymca-pine-crest-story for $25.00 USD; the listing gives no author, year, page count or stock status. SO THIS IS AN OPERATOR ACTION COSTING TWENTY-FIVE DOLLARS, NOT AN ACCESS FAILURE -- reclassify it as such. AND IT IS LESS URGENT THAN THIS PRIORITY ASSUMES: traditions/lv-games.md already carries the Pine Crest ceremony in W. E. 'Ted' Yard's own words, from his 1983 Canadian Camping obituary tribute, with the spoken text of the Voyageur-Lumberman tableau. The book would add the camp's own account of the tradition's origin and date; it would not fill a hole where nothing is.",
       "weight": 10,
-      "status": "pending",
+      "status": "blocked",
       "created": "2026-09-05",
       "source": "expanded oldest-camp research and the inter-camp contact inquiry, 2026-09-05",
-      "blocked_on": null
+      "blocked_on": "operator_purchase_25_usd"
     },
     {
       "priority_id": "p_405",

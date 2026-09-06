@@ -1,8 +1,8 @@
 {
-  "version": "8.53",
-  "kb_version": "8.53",
+  "version": "8.54",
+  "kb_version": "8.54",
   "migrated_from": "3.3",
-  "fact_count": 5169,
+  "fact_count": 5170,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93182,6 +93182,21 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.53",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5208",
+      "category": "method",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Camp Pine Crest",
+        "L&V Games"
+      ],
+      "claim": "THE PINE CREST CENTENNIAL HISTORY IS NOT DIGITIZED AND IS STILL IN PRINT, WHICH TURNS p_404 FROM A RESEARCH TASK INTO A PURCHASE. p_404 wants *Lumbermen & Voyageurs: The YMCA Pine Crest Story*, on the reasoning that Pine Crest's centennial history is the likeliest place for the origin of the Lumberman-Voyageur tradition Kanawana borrowed in 1947. THREE ROUTES TRIED 2026-09-06, ALL NULL FOR THE TEXT: (1) Open Library search-inside on 'Lumbermen and Voyageurs' returns 23 items and 'Lumbermen & Voyageurs' 7, EVERY ONE A FALSE FRIEND -- the phrase is ordinary nineteenth-century Canadiana ('fur traders, lumbermen and voyageurs', Nile boatmen, shanty songs) -- and 'YMCA Pine Crest Story' returns ZERO. (2) The Internet Archive catalogue, advancedsearch on title 'Pine Crest' with YMCA or Lumbermen, returns numFound 0. SO THE BOOK IS NOT IN THE ARCHIVE'S CORPUS OR CATALOGUE AT ALL. (3) THE WEB FOUND IT FOR SALE. Camp Pine Crest's own Shopify store, camp-pine-crest.myshopify.com/products/lumbermen-voyageurs-the-ymca-pine-crest-story, lists it at **$25.00 USD**, described as 'Lumbermen and Voyageurs: The Pine Crest Story covers 100 years of camping magic. More than just a history of the camp, this book is a true testament to our Pine Crest Community!' The listing gives NO AUTHOR, NO YEAR, NO PAGE COUNT and NO STOCK STATUS. WHAT THIS CHANGES. The book is a live commercial product from the camp that wrote it, not an archival item to be tracked down -- so p_404 is an OPERATOR ACTION costing twenty-five dollars, not an access failure. That is a materially different kind of blocked, and worth saying, because 'the book has not been read' reads as unfindable when it means unbought. AND THE ARTICLE DOES NOT NEED IT AS BADLY AS THE PRIORITY ASSUMES: traditions/lv-games.md already carries the Pine Crest ceremony in W. E. 'Ted' Yard's own words, from his 1983 obituary tribute in *Canadian Camping*, including the spoken text of the Voyageur-Lumberman tableau. Checked before writing this. The book would add the camp's own account of the tradition's origin and date; it would not fill a hole where nothing is.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.54",
       "added_by": "manual"
     }
   ]
