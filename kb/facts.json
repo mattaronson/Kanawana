@@ -1,8 +1,8 @@
 {
-  "version": "8.62",
-  "kb_version": "8.62",
+  "version": "8.63",
+  "kb_version": "8.63",
   "migrated_from": "3.3",
-  "fact_count": 5177,
+  "fact_count": 5180,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93322,6 +93322,69 @@
       "conflicts_with": [],
       "added_version": "8.62",
       "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5216",
+      "category": "attendance",
+      "date_ref": "1929",
+      "entities": [
+        "Kamp Kanawana",
+        "New York City",
+        "White Plains",
+        "Jamaica Plain",
+        "Toronto",
+        "Thetford Mines",
+        "Frelighsburg",
+        "Ormstown"
+      ],
+      "claim": "THE 1929 SEASON DREW BOYS FROM OUTSIDE CANADA, AND IT IS THE EARLIEST CAMPER-ORIGIN LIST IN THIS PROJECT THAT DOES. The YMCA of Montreal annual report for the year ending 31 March 1930, in its Kamp Kanawana section, prints the catchment for the summer of 1929 verbatim: \"The boys came from Montreal, Westmount, Outremont, Montreal West, Maisonneuve, Point Claire, Verdun, Cote St. Paul, Chateauguay Basin, Ormstown, Frelighsburg, Thetford Mines, Jamaica Plains, New York City, White Plains, Toronto, St. Hilaire and Quebec City.\" EIGHTEEN PLACES; four outside Quebec (Toronto and the three American ones) and three outside Canada. GREPPED BEFORE THE CLAIM WAS WRITTEN: no earlier camper-origin list in wiki/ or kb/facts.json leaves Canada. The nearest things the project holds are not campers -- the six countries read off a Pathfinder paddle are STAFF origins from 1964 (f_2388), and the Westmount Examiner of 29 March 1935 describes a Mr. Buckley's experience at camps \"in Canada and the United States\", which is where a man worked (f_1328). The report gives no reason for the American names and identifies nobody; recruitment is NOT claimed and the source does not support it. \"Jamaica Plains\" is the report's spelling of what is presumably Jamaica Plain, Boston.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1930"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.63",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5217",
+      "category": "programs",
+      "date_ref": "1929",
+      "entities": [
+        "Kamp Kanawana",
+        "E. T. Prittie",
+        "Chateauguay Basin",
+        "YMCA of Montreal"
+      ],
+      "claim": "KANAWANA ASKED CHURCH GROUPS NOT TO START THEIR OWN CAMPS. The same 1930 annual report states the policy outright: \"Each year we encourage Sunday School classes to use the Camp rather than establish separate camps of their own. A group from Chateauguay Basin, led by Rev. E. T. Prittie, has used our camp now for three years with profit to themselves and a real benefit to Kanawana.\" So a named Protestant clergyman brought a congregation's boys to Kanawana in 1927, 1928 and 1929. E. T. PRITTIE OCCURS NOWHERE ELSE IN THIS PROJECT (grepped). This is the only statement of that policy in the annual reports read to date, and it puts the camp in a deliberate posture toward the church-camp field rather than merely competing in it.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1930"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.63",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5218",
+      "category": "programs",
+      "date_ref": "1929",
+      "entities": [
+        "Kamp Kanawana",
+        "Fossils Club",
+        "Protestant Orphans' Home",
+        "School for the Blind",
+        "Dominion Department of Forestry",
+        "Westmount Branch"
+      ],
+      "claim": "THE 1929 FIGURES FILL A GAP IN TWO SERIES THIS PROJECT ALREADY TRACKS, AND FLATTEN ONE OF THEM. The 1930 annual report says \"The Fossils Club of Westmount Branch again provided Camp Scholarships for fifteen under-privileged boys\", and that Westmount business men \"underwrote the expense of twelve boys from the Protestant Orphans' Home and one boy from the School for the Blind\". programs-activities.md had the Fossils scholarship series as 14 in 1927, 24 in 1931 and 35 in 1932 and read it as rising with the Depression; 15 in 1929 makes the first half of that run flat, not rising. The orphanage pairing also moves the wrong way: 15 orphanage boys and 2 blind-school boys in 1927 against 12 and 1 in 1929. SEPARATELY, from the same section: instruction in 1929 covered rowing, canoeing, first aid, athletics, tree lore, boxing, swimming, wrestling, archery, life saving and photography, with model aircraft and basketry alongside carpentry in the newly built craft shop, and \"Tree experts from the Dominion Department of Forestry visited the camp and gave valuable leadership\" -- a third documented year of that visit after 1926 and 1927.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1930"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.63",
+      "added_by": "ralph_loop"
     }
   ]
 }

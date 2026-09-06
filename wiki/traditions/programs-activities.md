@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-09-06 (the French-language thread spun out to its own article)*
+*Last Updated: 2026-09-06 (the 1929 catchment, which leaves the country)*
 
 ## Overview
 
@@ -167,8 +167,11 @@ Rotary Club for 5, and friends for 4."^ar32 For the summer of 1932, under Centra
 "The Fossils and Grads. Club held weekly supper meetings with speakers and special programs. **The
 Fossils Show enabled them to send 35 boys to Kanawana for two weeks each.**"^ar33
 
-So the scholarship series runs **14 in 1927, 24 in 1931, 35 in 1932** — rising as the Depression bit,
-which is the opposite of what a club's fundraising might be expected to do. Two cautions: the 1931
+So the scholarship series runs **14 in 1927, 15 in 1929, 24 in 1931, 35 in 1932** — flat for the
+first two and then rising as the Depression bit, which is the opposite of what a club's fundraising
+might be expected to do. The 1929 figure arrives with the same pairing as 1927 and smaller numbers:
+Westmount business men underwrote **twelve boys from the Protestant Orphans' Home and one from the
+School for the Blind** that season, against fifteen and two two years before.^ar30 Two cautions: the 1931
 figure is the Fossils' share of a branch total rather than the club's own programme, so the three
 numbers may not measure quite the same thing; and the club's branch moves between the reports, from
 "a young men's club in the Westmount Branch" in 1928 to "the Fossils and Grads. Club" under Central
@@ -191,6 +194,31 @@ Farnham, Ormstown, Thetford Mines, Châteauguay, Longueuil and Pointe Claire.^ar
 planned and chaired by a committee of older boys who reported back to their own Boys' Divisions
 afterwards. The sessions were "What is the Y.M.C.A.?", "Do we put the 'C' in Y.M.C.A.?", "How do
 activities develop character?" and "Testing our activities."^ar28
+
+**Two seasons later the catchment left the country.** The report for the year to 31 March 1930,
+covering the summer of **1929**, lists where the boys came from: Montreal, Westmount, Outremont,
+Montreal West, Maisonneuve, Pointe Claire, Verdun, Côte St. Paul, Chateauguay Basin, Ormstown,
+Frelighsburg, Thetford Mines, "Jamaica Plains," New York City, White Plains, Toronto, St. Hilaire
+and Quebec City.^ar30 Eighteen places, of which four are outside Quebec and three are outside
+Canada. Grepped against the whole project: this is the earliest **camper**-origin list here that
+leaves Canada. The other foreign names the project holds — the six countries read off a Pathfinder
+paddle — are *staff* origins from 1964 [f_2388], and the 1935 *Westmount Examiner* line about a
+Mr. Buckley's experience "at other camps in Canada and the United States" is about where a man had
+worked, not where a boy came from [f_1328]. The report gives no explanation for White Plains or
+Jamaica Plain, names nobody, and nothing here should be read as American recruitment.
+
+**The camp actively discouraged rival church camps.** "Each year we encourage Sunday School classes
+to use the Camp rather than establish separate camps of their own." A group from Chateauguay Basin
+led by **Rev. E. T. Prittie** had by 1929 used Kanawana three years running, "with profit to
+themselves and a real benefit to Kanawana." That is the policy stated outright for the only time in
+the reports read so far: a branch camp positioning itself as the Protestant city's shared facility
+rather than one option among many.^ar30
+
+Instruction that season ran to **rowing, canoeing, first aid, athletics, tree lore, boxing,
+swimming, wrestling, archery, life saving and photography**, with model aircraft and basketry
+alongside the carpentry that had just earned the camp a purpose-built craft shop. Tree experts from
+the **Dominion Department of Forestry** visited again, which makes 1926, 1927 and 1929 three
+documented years of the same outside instruction.^ar30
 
 ## Interwar Programming (1930s-1940s)
 
@@ -480,6 +508,7 @@ environmental-education positioning without originating from it.
 8. What was the Pathfinder program Summer Summary (1965 archives listing)? Was it the existing boys' section (est. 1959) or something new?
 
 ## Sources
+- **ar30** — YMCA of Montreal annual report for the year ending 31 March 1930 [src_cache_sgw_ymca_annual_report_1930], the Kamp Kanawana section, camping season **1929**. The volume's Becscies extension and its finances were already read into [[site/camp-becsies|Camp Becscies]]; its catchment, church-camp and programme paragraphs are read here, 2026-09-06. See [f_5216], [f_5217] and [f_5218].
 - **ar97** — Montreal YMCA annual report **1997** [src_ymf_sgw_ymca_annual_report_1997], the Westmount and programme-launch items. Read 2026-09-06 under p_454. See [f_5194].
 - **ar96** — Montreal YMCA annual report **1996** [src_cache_sgw_ymca_annual_report_1996], the Kamp Kanawana page. Read 2026-09-06 under p_454; the volume had been marked unread and has no Wayback twin.
 - **ar32** — YMCA of Montreal annual report for the year ending 31 March 1932 [src_ymf_sgw_ymca_annual_report_1932], the Westmount branch report, camping season **1931**. Read 2026-09-06 under p_454. See [f_5179].
