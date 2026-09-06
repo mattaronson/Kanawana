@@ -5714,3 +5714,38 @@ be bound into more than one scan, and where one scan's OCR fails the other's may
 recording that a roster is lost, check whether the same year exists in another item. Both times
 today, "this cannot be read" turned out to mean "this copy, or this section of it, cannot be
 read".
+
+### 1909, from a scan catalogued 1907 that the sweep could not see
+
+`ymcayearbookand00amergoog` is catalogued `year: 1907`. Its title page reads "YEAR BOOK OF THE
+YOUNG MEN'S CHRISTIAN ASSOCIATIONS OF NORTH AMERICA / May 1, 1908, to April 30, 1909 ... 1909",
+with "Copyright, 1909" on the verso. **It is the 1909 volume — the first year of the 1909-1920
+hole** — and on its catalogue year it was a duplicate to be skipped.
+
+It was also missed by the title-page sweep run an hour earlier in this same campaign. That
+pattern looked for "For the Year NNNN" and returned nothing here, because this volume dates
+itself by the association year instead. **A null from a pattern is a fact about the pattern.**
+p_436 re-runs the sweep matching both forms, with a fallback to reading front matter directly.
+
+**M. G. Brooks** is Montreal's Boys' Work Director, entered Association work 1905, and occurs
+nowhere in this repo or its 954-file cache. **W. J. Holliday** — whom the 1931 report calls
+Kanawana's first camp director, and whom the 1907 and 1908 volumes have as Boys' Work Director —
+is listed here as plain **"Asst."**, in the branch directory and in the alphabetical index both,
+so it is carried twice and is not an OCR slip.
+
+That is a change of title in a roster and nothing more; the volume gives no reason and none is
+supplied. But it withdrew half of a claim: `directors-index.md` said "the Junior Camp of 1908 and
+**the new site of 1910** were run by the boys' work secretary". The 1908 half stands. The 1910
+half does not — the 1910 volume is not held, and the association's own 1910 Annual Report
+announces him as "Mr. W. J. Holliday, **of the Central Branch**", with no boys' work title at all.
+
+There is a shape here and it should be named without being dressed up: Holliday directs the camp
+in 1908, is a plain assistant in the 1909 roster with no camp directorship recorded for that year
+either, and opens the new site in 1910. The camp was between sites. Whether those facts are
+connected, the sources do not say.
+
+Also from the same page: **Herbert C. Patterson**, the first name behind the 1921 volume's
+"H. C. Paterson" (spelt with two t's here, and not to be joined to Philip G. Paterson, the camp's
+1923 director); **J. E. Merritt**, Ball's successor as Physical Director, entered Association work
+in **1894**, the year the camp was founded; **Fred G. White**, new in post in 1909; and the
+**Educational Director line printed blank**, as in 1900 after Randal left for Taunton.

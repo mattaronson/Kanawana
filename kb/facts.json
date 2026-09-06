@@ -1,8 +1,8 @@
 {
-  "version": "7.09",
-  "kb_version": "7.09",
+  "version": "7.10",
+  "kb_version": "7.10",
   "migrated_from": "3.3",
-  "fact_count": 4944,
+  "fact_count": 4946,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88907,6 +88907,49 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4983",
+      "category": "people",
+      "date_ref": "1909",
+      "entities": [
+        "W. J. Holliday",
+        "M. G. Brooks",
+        "Herbert C. Patterson",
+        "Fred G. White",
+        "J. E. Merritt",
+        "D. A. Budge",
+        "John W. Ross",
+        "C. C. Holland",
+        "W. A. Maclaren",
+        "YMCA of Montreal",
+        "Kamp Kanawana"
+      ],
+      "claim": "THE MONTREAL YMCA IN 1909, AND KANAWANA'S FIRST CAMP DIRECTOR IS NO LONGER THE BOYS' WORK DIRECTOR. The branch directory: 'Montreal -- Pres., John W. Ross. Gen. Secy., D. A. Budge. Central Dept. Ch., C. C. Holland. Secy., [no name]. Asst., W. J. Holliday. Asst., Fred G. White. Ed. Dir., [NO NAME PRINTED]. Phys. Dir., J. E. Merritt. Asst. Phys. Dir., Herbert C. Patterson. BOYS' WORK DIR., M. G. BROOKS. Fairmount Ave. Br., Ch., H. T. Wilson; Secy., W. A. Maclaren.' Entry years from the alphabetical list of employed officers: Brooks 05, Budge 74, Calhoun 90, Brown (McGill) 07, Billings 07, Dudley 95, Holliday 06, McGonigle 09, Maclaren 04, Merritt 94, Patterson 08, Ritchie 96, White 09. THE FINDING: f_4967 documents W. J. Holliday -- the man the association's own 1931 report calls Kanawana's FIRST CAMP DIRECTOR -- as Montreal's BOYS' WORK DIRECTOR in both the 1907 and 1908 volumes. In 1909 he is listed as 'Asst.' and the Boys' Work Director is M. G. Brooks. BOTH LISTINGS IN THE VOLUME AGREE: the branch directory prints 'Asst., W. J. Holliday', and the alphabetical index prints 'Holliday, W. J., Montreal, Que., Asst., 06' where 1907 and 1908 printed 'Boys, 06'. So it is carried in two independent places and is not an OCR slip. WHAT IT IS NOT: on this evidence it is a change of title in an annual roster, NOT a demotion, a dispute or a departure -- a title can change for a reorganisation, a secondment or a job the roster names differently, and the volume gives no reason. What it establishes is that in 1909 the camp's first director was not the association's Boys' Work Director, and that the man in that post was M. G. Brooks. NEW NAMES, each checked by grep against the repo and its 954-file cache before being called new: M. G. BROOKS occurs nowhere in this project (two other Brookses in the cache are 1970s-80s Canadian Camping figures and are not him); FRED G. WHITE likewise, an assistant new in post in 1909. HERBERT C. PATTERSON supplies the first name behind the 'H. C. Paterson, Montreal, Westmount, Physical, entered 08' of f_4964 -- note this volume spells it PATTERSON with two t's, and note that the camp's 1923 director Philip G. Paterson is a different man who is NOT joined to him here. And J. E. MERRITT, W. H. Ball's successor as Physical Director, ENTERED ASSOCIATION WORK IN 1894, the year the camp was founded. MONTREAL STILL HAS NO EDUCATIONAL DIRECTOR: the line is printed blank, as in 1900 after E. G. Randal left for Taunton, though 1906 had J. S. Jamieson and 1907-08 W. H. Henderson in the post.",
+      "sources": [
+        "src_ymca_yearbook_1909"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4984",
+      "category": "sources",
+      "date_ref": "1909",
+      "entities": [
+        "Year Book of the Young Men's Christian Associations",
+        "Internet Archive"
+      ],
+      "claim": "A CATALOGUE YEAR OUT BY TWO, AND A SWEEP PATTERN THAT COULD NOT SEE THE VOLUME. Internet Archive item ymcayearbookand00amergoog is catalogued 'year: 1907'. Its title page reads 'YEAR BOOK OF THE YOUNG MEN'S CHRISTIAN ASSOCIATIONS OF NORTH AMERICA / May 1, 1908, to April 30, 1909 / NEW YORK / YOUNG MEN'S CHRISTIAN ASSOCIATION PRESS / 1909', with 'Copyright, 1909' on the verso. IT IS THE 1909 VOLUME -- the first year of this project's 1909-1920 hole -- and on its catalogue year it would have been skipped as a duplicate of a year already held. AND IT WAS MISSED BY THIS SESSION'S OWN TITLE-PAGE SWEEP, which searched for /FOR (THE )?YEARS? 1[89]dd/ and returned nothing from this item: the volume dates itself by the ASSOCIATION YEAR, 'May 1, 1908, to April 30, 1909', and contains no 'for the year' at all. A NULL FROM A PATTERN IS A FACT ABOUT THE PATTERN. Any further sweep of this series must match the association-year form as well as 'For the Year', and must fall back to reading the front matter of every item that returns nothing. This is the fourth wrong catalogue year caught in this series and its neighbours, after ten YMCA yearbook scans dated 1890, a Canadian Almanac run all dated 1848, and a Who's Who volume dated 1911 whose latest datum is 1976.",
+      "sources": [
+        "src_ymca_yearbook_1909"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.10",
       "added_by": "ralph_loop"
     }
   ]

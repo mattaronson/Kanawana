@@ -29827,7 +29827,25 @@
       "read_state": "partial",
       "read_state_basis": "NOT lending-restricted. The 1900 volume is the fifth of five bound into Internet Archive item ymcayearbookand00assogoog (scan line 165,312 onwards), whose catalogue record names only 1896. Downloaded and searched 2026-09-06 under p_435. THE MONTREAL BLOCK OF THE ALPHABETICAL LIST OF PAID OFFICERS WAS READ, WITH THE YEARS OF ENTRY -- which is why this record exists separately from src_ymca_yearbook_1900: the same volume in the other scan (yearbookyoungme01commgoog) has that list OCR-ruined, and this copy does not. The branch directory here was also read and agrees with the other copy. Nothing else is read.",
       "notes": "REGISTERED AS A SECOND COPY BECAUSE IT SUCCEEDS WHERE THE FIRST FAILS. The Montreal entries: '*Ball, W. H., Montreal, Ph. Dir., 89'; 'Budge, D. A., Montreal, Sec., 74'; 'Burgess, F. E., Montreal, Asst., 99'; 'Calhoun, C. K., Montreal, Asst.'; 'Morrison, F. S., Montreal, RR. Sec., 93'; 'Roy, John, Montreal, Asst., 99'. TWO RESOLUTIONS. The assistant whose surname the other scan gave as both 'Buruess' and 'Burgeoii' is F. E. BURGESS. And the list prints '*Randal, E. G., Taunton, Mass., Sec., 93' -- same initials, same entry year, same training-school star as the 1899 Montreal Educational Director -- so E. G. RANDAL LEFT MONTREAL AND WAS GENERAL SECRETARY AT TAUNTON, MASSACHUSETTS, BY 1900. The other scan's ruined OCR had rendered that 'E. O. Randal' at 'TaustoD' and the identification was correctly refused at the time. METHOD: a volume in this series may be bound into more than one scan, and where one scan's OCR fails the other's may not -- check before recording a roster as lost. See f_4982."
+    },
+    {
+      "source_id": "src_ymca_yearbook_1909",
+      "type": "periodical",
+      "title": "Year Book of the Young Men's Christian Associations of North America, May 1, 1908 to April 30, 1909 — Montreal roster",
+      "date": "1909",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/ymcayearbookand00amergoog",
+      "cache_path": "sources/cache/ymca-yearbooks/1909-ymca-year-book-montreal-roster.txt",
+      "char_count": 1096459,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "7.10",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "NOT lending-restricted; full djvu text downloaded and searched 2026-09-06 under p_435. THE CATALOGUE GIVES year: 1907 AND IS WRONG BY TWO YEARS: the title page at scan line 1381 reads 'YEAR BOOK OF THE YOUNG MEN'S CHRISTIAN ASSOCIATIONS OF NORTH AMERICA / May 1, 1908, to April 30, 1909 / NEW YORK / YOUNG MEN'S CHRISTIAN ASSOCIATION PRESS / 1909', with 'Copyright, 1909' on the verso. The Quebec branch directory and the Montreal block of the alphabetical list of employed officers were read, with the entry-year legend. 'Kanawana' occurs zero times. Nothing else is read.",
+      "notes": "THE FIRST YEAR OF THIS PROJECT'S 1909-1920 HOLE, and it would have been skipped as a duplicate on its catalogue year. It was also missed by the earlier title-page sweep, whose pattern looked for 'For the Year NNNN' -- this volume dates itself by the association year instead and contains no such phrase. THE MONTREAL ROSTER: Pres. John W. Ross; Gen. Secy. D. A. Budge; Central Dept. Ch. C. C. Holland; Asst. W. J. HOLLIDAY; Asst. FRED G. WHITE; Ed. Dir. NO NAME PRINTED; Phys. Dir. J. E. Merritt; Asst. Phys. Dir. HERBERT C. PATTERSON; BOYS' WORK DIR. M. G. BROOKS; Fairmount Ave. Br. Ch. H. T. Wilson, Secy. W. A. Maclaren. Entry years from the alphabetical list: Brooks 05, Budge 74, Calhoun 90, Brown (McGill) 07, Billings 07, Dudley 95, Holliday 06, McGonigle 09, Maclaren 04, MERRITT 94, Patterson 08, Ritchie 96, White 09. NEW HERE: M. G. BROOKS occurs nowhere else in this repo or its cache; FRED G. WHITE likewise; HERBERT C. PATTERSON gives a first name to the 'H. C. Paterson' of the 1921 volume (note the two-t spelling, and note that the camp's 1923 director Philip G. Paterson is a different man not joined to him here); and J. E. Merritt's year of entry, 1894, was unknown. THE FINDING: W. J. HOLLIDAY, whom the association's 1931 report calls Kanawana's FIRST CAMP DIRECTOR and whom f_4967 documents as Montreal's Boys' Work Director in 1907 and 1908, IS LISTED HERE AS 'Asst.', with M. G. Brooks as Boys' Work Director -- in both the branch directory and the alphabetical index, so not one OCR slip. That is a title change in the roster and nothing more; the volume gives no reason and none is supplied. See f_4983."
     }
   ],
-  "source_count": 1657
+  "source_count": 1658
 }
