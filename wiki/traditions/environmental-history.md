@@ -1,6 +1,6 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 48*
+*Status: E1-reviewed | Sources: 49*
 *Last Updated: 2026-09-06 (p_349: Mary Edgar's 1970 conservation hymn)*
 
 ## Overview
@@ -45,6 +45,23 @@ document establishes is intent, named, in print, in 1976.
 The camp's "virage vert" (green shift) began in 2006 with the goal of reducing Kanawana's ecological footprint and repositioning it as an outdoor education centre; every building renovated or constructed from 2006 onward was energy-efficient and incorporated educational elements.^17 The green shift enabled the camp to serve "four times more young people" than before, transforming it from a summer-only operation into a three-season environmental education facility.^22 In February 2009, Les Y du Québec announced a further revitalization phase with new accommodation facilities; environmental features documented at the time included green sanitary installations, heat exchangers, composting toilets, and an artificial wetland system (marais artificiel) for wastewater treatment.^17 In 2010, TELUS contributed $50,000 toward a three-season educational pavilion at the camp.^23
 
 The Montreal YMCA's own annual reports, mined directly in 2026-07-07 (project-docs/research-log.md Campaign 25), give a year-by-year primary-source account of the project's scale and progress. The 2007 annual report frames it as a $5 million development, describing it as Quebec's first "green camp": by that spring, two eco-friendly sanitary buildings (low-flow taps and showers, heat-recovery systems) were already built and in use, and a garden/composting education program had launched in partnership with YMCA Pointe-Saint-Charles, pairing seniors and youth for seedling production, planting, and composting under a specialist gardener; 19% of Kanawana campers received financial assistance that year, a figure the report described as rising annually.^24 By December 2008, $1.48 million had been raised toward the $5 million goal.^25 By 2009, Phase I was nearly complete, with twelve new three-season cabins erected at the Saint-Sauveur site for campers aged 7–12 and their counsellors.^26 The project's environmental merit was recognized outside the YMCA itself: in December 2010, Kanawana received an honourable mention for environmental achievement at the City of Saint-Sauveur's annual Gala Méritas award.^27 Construction began in October 2011 on educational pavilions for nature classes and community groups,^27 and a new eco-educational pavilion opened in 2012.^28
+
+**Four things the Concordia-digitized copy of the 2007 report adds, which the Wayback copy's
+extraction did not carry.** The sanitary complex has "a new **artesian well**, a **wastewater
+treatment and distribution system**, as well as an **artificial marsh**"; the low-flow taps and
+showers, the heat-recovery system and **composting toilets together "help reduce water consumption
+by 50%"**; the next phase of the fundraising campaign was to "build **three-season facilities for
+schools and community groups** that will visit Kanawana in the spring and fall"; and the report's
+grants table prices two of the programmes — **Multigenerational Organic Garden, Pointe-St-Charles
+YMCA and YMCA Kanawana, $17,100**, "organic gardening to increase awareness of healthy eating
+habits, organic agriculture, and composting among children and adults", and **Environmental
+Education, YMCA Kanawana, $6,700**, "environmental education program for campers".^49
+
+**The two copies are the same report reached by two routes**, and this project holds a separate
+source record for each: the Wayback copy behind note 24 has no cache file, and the Internet Archive
+copy of the Concordia digitization sits in the cache and had been cited nowhere. Both give the $5
+million framing and the 19% assistance figure, which is what confirms them identical. The duplicate
+pair is logged for `p_442`.
 
 ### Composting System
 
@@ -356,6 +373,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 46. Mary S. Edgar, "A Page of Poems" — "A Director's Meditation," "Hymn for the Space-Age" (Tune: Forest Green), "Postpone the Verdict" and "Outdoor Blessing" — *Canadian Camping* Vol. 23 No. 1 (November 1970) [src_ia_canadian_camping_collection]. Her two earlier Centennial hymns are "Canada's Our Country," printed with the National Campfire ceremony in Vol. 19 No. 4 (June 1967), and "This Fair Land, Our Canada — A Centennial Hymn" in the Spring 1969 issue. Written up 2026-09-06 under p_349. See [f_3453], [f_3454], [f_3343].
 47. *125 Colourful Years*, YMCA of Montreal 125th-anniversary publication, 1976 [src_ymf_annual_report_1976_125_colourful_years]. Cached at `sources/cache/ymca-montreal-fonds/annual-report-1976-125-colourful-years.txt`. See [f_5044]. Read 2026-09-06 under p_441 for its timeline and its building-fund plan; the branch reporting that makes up most of the volume is not read.
 48. YMCA of Montreal annual reports for 1977-78 through 1986, and the Kamp Kanawana directors' reports for 1976-1979 [src_cache_sgw_ymca_annual_report_1977_1978, src_cache_sgw_ymca_annual_report_1978_1979, src_ymf_sgw_ymca_annual_report_1979_1980, src_ymf_sgw_ymca_annual_report_1980_1981, src_ymf_sgw_ymca_annual_report_1981_1982, src_ymf_sgw_ymca_annual_report_1982_1983, src_ymf_sgw_ymca_annual_report_1984, src_ymf_sgw_ymca_annual_report_1985, src_ymf_sgw_ymca_annual_report_1986, src_ia_kanawana_directors_report_1976]. Searched for the 1976 campaign's promises. See [f_5046].
+49. YMCA of Montreal annual report 2007, the Concordia-digitized copy [src_ymf_sgw_ymca_annual_report_2007], pp. on the Kanawana Development Project and the grants table. THE SAME DOCUMENT AS NOTE 24, reached by a different route: note 24 is the Wayback copy (src_ymcaquebec_annualreport_2007, no cache file), this is the Internet Archive copy of the Concordia digitization, and the two carry the same $5 million framing and the same 19% assistance figure. Read 2026-09-06; the duplicate pair is logged for p_442.
 
 ## Research Notes
 

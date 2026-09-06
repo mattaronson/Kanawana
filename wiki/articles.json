@@ -6715,7 +6715,8 @@
         "src_ymf_sgw_ymca_annual_report_1984",
         "src_ymf_sgw_ymca_annual_report_1985",
         "src_ymf_sgw_ymca_annual_report_1986",
-        "src_ia_kanawana_directors_report_1976"
+        "src_ia_kanawana_directors_report_1976",
+        "src_ymf_sgw_ymca_annual_report_2007"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -6731,7 +6732,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 9175,
+      "word_count": 9454,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical; fixed a genuine citation-numbering bug where the Sources list had two entries each numbered '17.' and '22.' (disambiguated as 17b./22b., three inline markers corrected to point at the right one). No facts, source content, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

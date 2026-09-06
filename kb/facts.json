@@ -1,8 +1,8 @@
 {
-  "version": "8.12",
-  "kb_version": "8.12",
+  "version": "8.13",
+  "kb_version": "8.13",
   "migrated_from": "3.3",
-  "fact_count": 5102,
+  "fact_count": 5104,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91971,11 +91971,43 @@
         "Kanawana wiki project",
         "Camp Otoreke"
       ],
-      "claim": "THE ANNUAL REPORTS WERE MINED FOR KANAWANA AND NOT FOR THE SIBLING CAMPS. Measured 2026-09-06: FIFTY-FIVE cached YMCA of Montreal annual reports name Camp Otoreke, and site/camp-otoreke.md cites EIGHT of them. Forty-seven are uncited, thirteen of those carrying eight or more mentions apiece -- 1950 (14), 1958 (13), 1927 (11), 1949 (10), 1965, 1963, 1959, 1926 (9 each), 1964, 1955, 1952, 1930, 1925 (8 each). The p_441 campaign read eighty-one documents FOR KANAWANA CONTENT, which was the right scope for its question and leaves this vein untouched. Two of the densest were read on 2026-09-06 and produced f_5139 immediately: three consecutive seasons of registration and camper-days, the season dates, the 76% metropolitan share, the canoe-trip programme filling before opening day, and a counting convention in which a married couple is two people. THE SAME MEASUREMENT HAS NOT BEEN RUN FOR CAMP PERROT, CAMP BECSCIES, CAMP WEREDALE OR THE DAY CAMPS, and the arithmetic that found this is two greps: count the reports naming the camp, count the source ids the article cites.",
+      "claim": "THE ANNUAL REPORTS WERE MINED FOR KANAWANA AND NOT FOR THE SIBLING CAMPS. Measured 2026-09-06: FIFTY-FIVE cached YMCA of Montreal annual reports name Camp Otoreke, and site/camp-otoreke.md cites EIGHT of them. Forty-seven are uncited, thirteen of those carrying eight or more mentions apiece -- 1950 (14), 1958 (13), 1927 (11), 1949 (10), 1965, 1963, 1959, 1926 (9 each), 1964, 1955, 1952, 1930, 1925 (8 each). The p_441 campaign read eighty-one documents FOR KANAWANA CONTENT, which was the right scope for its question and leaves this vein untouched. Two of the densest were read on 2026-09-06 and produced f_5139 immediately: three consecutive seasons of registration and camper-days, the season dates, the 76% metropolitan share, the canoe-trip programme filling before opening day, and a counting convention in which a married couple is two people. THE SAME MEASUREMENT HAS NOT BEEN RUN FOR CAMP PERROT, CAMP BECSCIES, CAMP WEREDALE OR THE DAY CAMPS, and the arithmetic that found this is two greps: count the reports naming the camp, count the source ids the article cites. [CORRECTED 2026-09-06, within the hour. The counts above compare each camp against ITS OWN ARTICLE ONLY, which overstates the gap for every camp and is nonsense for Kanawana, whose content is spread across forty-odd articles. Measured against citations ANYWHERE IN THE WIKI, by scripts/reread/camp_coverage.py: OTOREKE 55 reports name it, 40 are cited somewhere, 15 NOWHERE -- so the real gap is fifteen volumes and not forty-seven. CAMP PERROT 24 name it, 23 cited, ONE uncited; essentially covered. CAMP BECSCIES 5 of 5 cited. CAMP THUNDERBIRD 2 of 2. CAMP WEREDALE 4 name it, 2 uncited, but its article cites NONE of them and takes its material elsewhere. AND THE REAL FINDING, which the single-article version buried: KAMP KANAWANA IS NAMED IN 114 REPORTS AND 64 ARE CITED NOWHERE IN THE WIKI, and the densest of those are the MODERN volumes -- 2007 (19 mentions), 2007-fr (18), 2006 (17), 2006-fr (17), 2004-2005 (15), 2004-2005-fr (14), 2009 (13), 2009-fr (13). English and French editions pair up, so 64 is roughly 32 distinct volumes. THE THIN MODERN RECORD THIS PROJECT KEEPS NOTING IS PARTLY A CHOICE OF WHAT TO READ: the p_441 campaign worked the mid-century run, and the 2000s reports sat uncited the whole time.]",
       "sources": [],
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.12",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5141",
+      "category": "site",
+      "date_ref": "2007",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal",
+        "YMCA Pointe-Saint-Charles"
+      ],
+      "claim": "WHAT THE CONCORDIA-DIGITIZED 2007 ANNUAL REPORT ADDS TO THE GREEN SHIFT, BEYOND f_1761. The sanitary complex built by spring 2007 has 'a NEW ARTESIAN WELL, a WASTEWATER TREATMENT AND DISTRIBUTION SYSTEM, as well as an ARTIFICIAL MARSH'. The controlled water flow in taps and showers, the wastewater heat recovery system and COMPOSTING TOILETS together 'help REDUCE WATER CONSUMPTION BY 50%'. The next phase of the fundraising campaign was to 'build THREE-SEASON FACILITIES FOR SCHOOLS AND COMMUNITY GROUPS that will visit Kanawana in the spring and fall'. And the report's grants table PRICES TWO PROGRAMMES: 'Multigenerational Organic Garden, Pointe-St-Charles YMCA and YMCA Kanawana, $17,100 -- organic gardening to increase awareness of healthy eating habits, organic agriculture, and composting among children and adults'; and 'Environmental Education, YMCA Kanawana, $6,700 -- environmental education program for campers'. The English Senior Management list gives 'Dauphin, Francois / Director YMCA Kanawana', corroborating from the English edition what people/francois-dauphin.md had from the French.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2007"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.13",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5142",
+      "category": "methodology",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project"
+      ],
+      "claim": "'CITED NOWHERE' MEANS NO SOURCE ID NAMES IT, WHICH IS NOT THE SAME AS UNREAD -- AND THE 2007 REPORT PROVES IT BOTH WAYS. scripts/reread/camp_coverage.py reported 64 of the 114 annual reports naming Kanawana as cited nowhere in the wiki, the densest being the 2000s volumes. The 2007 report was top of that list. IT HAD IN FACT BEEN READ IN JULY, from the Wayback Machine, and its content is in traditions/environmental-history.md -- but under a source note reading 'Les YMCA du Quebec, Rapport Annuel 2007 (Wayback Machine, fetched directly 2026-07-07). f_1761', WHICH NAMES NO SOURCE ID AT ALL. No fact cites the cached record either. So the document was read, used and cited, and remained invisible to any tool that looks for source ids. THE MEASUREMENT WAS STILL WORTH RUNNING: reading the cached copy produced f_5141, four things the July extraction had not carried, including the artesian well, the artificial marsh and two priced grants. AND IT SURFACED A DUPLICATE PAIR for p_442: src_ymcaquebec_annualreport_2007 (web, Wayback, no cache) and src_ymf_sgw_ymca_annual_report_2007 (Internet Archive, cached) are the same report by two routes, confirmed by content match on the $5 million framing and the 19% assistance figure. THE GENERAL FORM, and it is the session's recurring one: a coverage metric measures the bookkeeping, not the reading. Treat a high 'uncited' count as a place to look, never as a claim that nobody has looked.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.13",
       "added_by": "manual"
     }
   ]
