@@ -6387,5 +6387,30 @@ lost her address. Grepped: nowhere else in this project.
 `src_cache_the_lookout_vol_1_no_3` and `src_ia_the_lookout_1993` — are a twin pair that
 yesterday's name-matching count could not see, because the names differ by more than the
 `src_cache_` prefix. So the count of 69 is a floor, one of the "only four genuinely unread"
-records was itself a shadow, and the detector needs rebuilding on cache paths. Raised as p_444.
-Nothing merged.
+records was itself a shadow, and the detector needs rebuilding. Raised as p_444. Nothing merged.
+
+[CORRECTED the same day, by writing the detector and running it. The paragraph above ended
+"the detector needs rebuilding on cache paths — both records point into the same file." **They do
+not.** `src_ia_the_lookout_1993` has `cache_path` null, and so does `src_camp_dorval_1928`, the
+record that started this whole line of inquiry. In every pair checked, the substantive record has
+no path and the `src_cache_` record has it, which is why grouping by path finds 16 groups in
+1,668 records and exactly one read_state disagreement. I asserted the fix without running it,
+which is the same failure this log has now recorded seven times, and this one took four hours to
+catch rather than four days only because writing the script *is* running the check.]
+
+**What works, and what it found.** `scripts/reread/duplicate_sources.py --stems` compares the
+cache **filename stem** against the **title** of records that have no path — `the-lookout-vol-1-no-3`
+against "The Lookout, Vol. 1 No. 3", `1928-report-on-camp-dorval` against "Report on Camp Dorval —
+Season 1928". On the current corpus: **201 candidate pairs, 50 of which disagree about read_state,
+and 32 of those 50 are invisible to name matching.** Among them `src_cache_1988_kanawana_a_place_to_grow_report`
+paired with `src_ia_kanawana_place_to_grow_1988`, and `src_cache_ymca_history_1873` with
+`src_ia_sandham_1873` — so a second of the four "genuinely unread" records is a shadow, and a
+third (the Concordia finding aid) almost certainly is, though the stem test cannot prove it
+because the title writes "finding aid" where the filename writes "findingaid" and the two copies
+carry different dates.
+
+The 201 also contain the legitimate case in bulk: the whole *Canadian Camping* run appears as
+item-level records paired against the collection record `src_ia_canadian_camping_magazine`, which
+is a proper second registration and not a fault. That is exactly why this stays a report. The
+legitimate case and the broken case are indistinguishable until you read the read_state, and
+merging is p_442's operator decision.

@@ -1,8 +1,8 @@
 {
-  "version": "7.30",
-  "kb_version": "7.30",
+  "version": "7.31",
+  "kb_version": "7.31",
   "migrated_from": "3.3",
-  "fact_count": 4974,
+  "fact_count": 4975,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -89526,11 +89526,25 @@
       "entities": [
         "Kanawana wiki project"
       ],
-      "claim": "THE DOUBLE-REGISTRATION COUNT OF 69 IS A FLOOR, NOT A TOTAL, BECAUSE THE DETECTOR MATCHED ON NAMES. f_5006 counted 69 src_cache_X / src_X twins by comparing record names either side of the prefix. The Lookout is a twin that method cannot see: src_cache_the_lookout_vol_1_no_3 (read_state 'unread') and src_ia_the_lookout_1993 (extracted) point at the same single digitized issue, and the names differ by more than the prefix, so no name-matching pass would have paired them. That matters twice over. It means the 'only four genuinely unread records' conclusion of f_5006 was itself too clean -- at least one of the four was a shadow -- and it means the real number of double registrations is unknown and larger than 69. THE RIGHT DETECTOR IS THE CACHE PATH AND THE CONTENT, NOT THE NAME. And the case is not a wasted read: the document had been extracted for exactly two things (the Potts line in the lost-directors column, f_2089, and Kerr's account of the camp song, f_2111) and a season report, an obituary, an endowment fund and a named 1970s section director were still sitting in it -- f_5008 through f_5011. So this is p_441's thesis confirmed on a document that was not even in p_441's population.",
+      "claim": "THE DOUBLE-REGISTRATION COUNT OF 69 IS A FLOOR, NOT A TOTAL, BECAUSE THE DETECTOR MATCHED ON NAMES. f_5006 counted 69 src_cache_X / src_X twins by comparing record names either side of the prefix. The Lookout is a twin that method cannot see: src_cache_the_lookout_vol_1_no_3 (read_state 'unread') and src_ia_the_lookout_1993 (extracted) point at the same single digitized issue, and the names differ by more than the prefix, so no name-matching pass would have paired them. That matters twice over. It means the 'only four genuinely unread records' conclusion of f_5006 was itself too clean -- at least one of the four was a shadow -- and it means the real number of double registrations is unknown and larger than 69. [SUPERSEDED 2026-09-06, within hours, by running it: this sentence read 'THE RIGHT DETECTOR IS THE CACHE PATH AND THE CONTENT, NOT THE NAME.' IT IS NOT THE CACHE PATH. The two Lookout records do not both point at the file -- src_ia_the_lookout_1993 has cache_path null -- and neither do the two Camp Dorval records that started all of this. In every pair checked, THE SUBSTANTIVE RECORD HAS NO PATH AND THE src_cache_ RECORD HAS IT, so a path comparison finds 16 groups in 1,668 records and one disagreement. The claim was written without running the check, which is the error this project has now catalogued seven times.] THE DETECTOR THAT WORKS compares the cache FILENAME STEM against the TITLE of records that have no path: 'the-lookout-vol-1-no-3' against 'The Lookout, Vol. 1 No. 3', '1928-report-on-camp-dorval' against 'Report on Camp Dorval - Season 1928'. See f_5013 for what it found. And the case is not a wasted read: the document had been extracted for exactly two things (the Potts line in the lost-directors column, f_2089, and Kerr's account of the camp song, f_2111) and a season report, an obituary, an endowment fund and a named 1970s section director were still sitting in it -- f_5008 through f_5011. So this is p_441's thesis confirmed on a document that was not even in p_441's population.",
       "sources": [],
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.30",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5013",
+      "category": "sources",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project"
+      ],
+      "claim": "THE DOUBLE REGISTRATION IS THREE TIMES WORSE THAN THE NAME MATCH SHOWED, AND IT IS MEASURED NOW. scripts/reread/duplicate_sources.py --stems compares the FILENAME STEM of every record carrying a cache_path against the TITLE of every record carrying none, which is the shape these pairs actually take: the substantive record has no path and the src_cache_ record has it. ON 1,668 RECORDS IT FINDS 201 CANDIDATE PAIRS, OF WHICH 50 DISAGREE ABOUT read_state -- one record saying unread, its twin saying extracted -- AND 32 OF THOSE 50 ARE INVISIBLE TO NAME MATCHING because the two ids differ by more than the src_cache_ prefix. Examples: src_cache_1988_kanawana_a_place_to_grow_report / src_ia_kanawana_place_to_grow_1988; src_cache_historical_sketch_ymca_of_montreal_1901 / src_ia_historical_sketch_1901; src_cache_1959_a_fresh_look_at_camp_perrot / src_camp_perrot_1959_fresh_look. THE FOUR 'GENUINELY UNREAD' RECORDS OF f_5006 ARE NOW DOWN TO ONE. src_cache_the_lookout_vol_1_no_3 was read today; src_cache_ymca_history_1873 pairs with src_ia_sandham_1873, already extracted; src_cache_p0145_ymca_of_montreal_fonds_findingaid_2023_11_24 is almost certainly Concordia's complete P0145 finding aid, held substantively as src_concordia_atom_findingaid_pdf -- NOT PROVEN, since the cached copy is dated 2023-11-24 and the other was downloaded in June 2026 and could be a later revision of the same aid, and the stem test cannot pair them because the title says 'finding aid' where the filename says 'findingaid'. Only src_ymca_yearbook_hathitrust_holdings_2026 is unread by design. WHAT THE 201 ALSO CONTAIN, and it is the reason this is a report and not a merge: the whole Canadian Camping run appears as item-level records paired against src_ia_canadian_camping_magazine, which is a COLLECTION record and a perfectly proper second registration. The legitimate case and the broken case look identical until you read the read_state. NOTHING WAS MERGED.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.31",
       "added_by": "ralph_loop"
     }
   ]
