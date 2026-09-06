@@ -1,8 +1,8 @@
 {
-  "version": "6.69",
-  "kb_version": "6.69",
+  "version": "6.70",
+  "kb_version": "6.70",
   "migrated_from": "3.3",
-  "fact_count": 4893,
+  "fact_count": 4894,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87886,6 +87886,24 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.69",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4932",
+      "category": "programs",
+      "date_ref": "1995-2009",
+      "entities": [
+        "Kamp Kanawana",
+        "CIT programme",
+        "LIT programme"
+      ],
+      "claim": "COHORT PERSISTENCE RE-COUNTED DIRECTLY FROM THE PLAQUE INDEX, 2026-09-06, rather than repeated from earlier facts. (1) The 'CITS 95' board carries 31 painted entries, of which 29 are CITs and two are the cohort's directors. TWELVE OF THE 29 stand on the 'Kanawana Staff 97' board two summers later, which itself carries 76 names -- so about two-fifths of one CIT cohort was on staff within two years, and they made up about a sixth of that staff. (2) The 'We Shower Tent' board of second session 2000 carries ten entries: eight campers and two staff, a counsellor and a tripper. ALL EIGHT CAMPERS appear on a later board -- 2001, 2002, 2003 or 2006 -- which is the whole tent, not most of it. (3) SEVEN of the 24 Leaders in Training of 2008 are Junior Counsellors together on the 2009 board of 18. The seventh was invisible to the index until 2026-09-06: the 2008 board paints \"Justin 'JT' Pulfer\" and the 2009 board \"Justin J. Pulfer\", and the index normaliser strips a quoted nickname but keeps a middle initial, so one person sat in two rows. Merged in scripts/plaque/build_index.py on the same-name, consecutive-year, same-step grounds the alias list exists for; distinct names 1,475 to 1,474 and traced people 160 to 161. THE METHOD IS WORTH KEEPING: f_2340 said seven and the index could show six, so the knowledge base tested the index rather than only consuming it.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.70",
       "added_by": "ralph_loop"
     }
   ]
