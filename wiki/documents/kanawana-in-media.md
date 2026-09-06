@@ -1,7 +1,7 @@
 # Kanawana in Media and Culture
 
-*Status: E1-reviewed | Sources: 24*
-*Last Updated: 2026-09-06 (four books that describe the camp, none of them about it)*
+*Status: E1-reviewed | Sources: 25*
+*Last Updated: 2026-09-06 (the 1938 CBM broadcast, read past its set list at last)*
 
 ## Overview
 
@@ -85,6 +85,23 @@ Kamp Otoreke — Group of people on a log bridge on their way to Chapel Island."
 - June 26, 1941, 8:50 PM Thursday: Chief [[people/howie-langille|Howie Langille]] was interviewed by an announcer, promoting summer registrations and describing the 48th season, British evacuee children, 68 staff, and multi-generational attendance.^7 ^18
 
 The Concordia Archives (P145/12B04, Communications sub-series) describe CFCF broadcasts promoting Kanawana as running from 1936 to 1941, suggesting further, not-yet-digitized broadcasts beyond these two surviving recordings.^19 See [[people/howie-langille|Howie Langille]] for the 1941 broadcast's fuller biographical context, and [[history/wartime-kanawana|Wartime Kanawana]] for its content in the camp's wartime narrative.
+
+**"The Voice of Youth", CBM, 10 November 1938 — the boys produced the whole thing.** A different broadcast from the CFCF pair, on a different station, and the full script survives along with the note calling the boys to rehearsal.^25 [[traditions/camp-songs-cheers|The songs article]] takes its set list; what follows is everything else in it.
+
+They rehearsed on the Tuesday at half past six in the **Willingdon Room**, second floor of the Central Branch at 1441 Drummond Street, then "slip across the street to C.B.M. Studios for a few minutes longer" — the broadcast itself going out at 7.15 on the Thursday evening. The covering letter is signed simply "**CHIEF**", and its letterhead reads "O. N. H. **Owens**, Chairman. W. J. G. **Macdiarmid**, Director — THE MONTREAL Y.M.C.A. CAMP FOR BOYS", with the camp's address "from June 20th: **KANAWANA P.O., Que.**"
+
+The centrepiece was not music but a comedy sketch. **Morry Cross** — "Kanawana's expert skit producer" — supplied "**Hot News**", set in a newspaper office, with himself as editor and **Allan Steeves**, **Keith Farquarson** and **Bob Lemoine** as reporters. Each brings in a catastrophe and each is thrown out for staleness: a railway accident at Westmount, fifty dead, half an hour old; an aeroplane collision at Cartierville, eighty dead, ten minutes old; and at last the Ville Emard gasworks —
+
+> **Lemoine:** Big news, Chief. Gasworks explode at Ville Emard. One hundred people killed.
+> **Cross:** When?
+> **Lemoine:** Wait a minute. Listen —
+> *(Explode paper bag.)*
+
+**Benny Leshley** played "Loch Lomond" at the piano, "tickling the old ivories with the touch of a master", and **John Houseman**, "another of Kanawana's song birds", sang "The World Is Waiting for the Sunrise".
+
+**And one figure the attendance series does not have.** Introducing Sandy Spence, the script recalls him "singing on Sunday at camp to **over 250 campers and visitors**". The series gives 364 campers across the whole of the 1938 season; 250 at a single Sunday service, campers and visitors counted together, is a different measure and is recorded as one.
+
+*Morry Cross, Allan Steeves, Keith Farquarson, Bob Lemoine and John Houseman occur nowhere else in this project.* The script had been in this repo's cache, read for its songs, with all of the above still in it.
 
 ## Journalism
 
@@ -186,6 +203,7 @@ To which can be added a fifth of a different kind: **Armand B. Ball, *Basic Camp
 22. *Dictionary of Literary Biography*, vol. 362: *Canadian Literary Humorists* (Detroit: Gale, 2011), the Stuart McLean entry by David C. Greer [src_dlb_362_canadian_literary_humorists_2011]. See [f_4949].
 23. Jan Elvin, *The Box from Braunau: In Search of My Father's War* (New York: AMACOM, 2009) [src_elvin_box_from_braunau_2009]. See [f_4952].
 24. Janet Torge, *Dear Sam: Grieving the Death of My Son* (iUniverse, 2007) [src_torge_dear_sam_2007]. See [f_4953].
+25. "The Voice of Youth — Feature Programme, Thur. 10 Nov. 1938 — CBM", full script [src_ymf_1938_11_10_the_voice_of_youth], and the covering letter "Kanawana Goes on the Air" of 7 November 1938 [src_ymf_1938_11_07_kanawana_goes_on_the_air], both in the Concordia-digitized YMCA of Montreal fonds. **Both had been in this repo's cache, labelled *skimmed*, and read only for the set list**; the skit, its cast, the rehearsal room, the letterhead and the Sunday attendance figure were read on 2026-09-06 under p_441. See [f_5002], and [f_2112] for the music.
 
 *All four are lending-restricted on the Internet Archive and none has been read; each passage was reconstructed from overlapping Open Library search-inside queries and is cached with its queries under `sources/cache/openlibrary-search-inside/`.*
 

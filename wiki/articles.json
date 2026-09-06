@@ -6909,7 +6909,9 @@
         "src_mclean_vinyl_cafe_notebooks_2010",
         "src_dlb_362_canadian_literary_humorists_2011",
         "src_elvin_box_from_braunau_2009",
-        "src_torge_dear_sam_2007"
+        "src_torge_dear_sam_2007",
+        "src_ymf_1938_11_10_the_voice_of_youth",
+        "src_ymf_1938_11_07_kanawana_goes_on_the_air"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -6923,7 +6925,7 @@
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 3005,
+      "word_count": 3465,
       "tags": {
         "era": [
           "1960s",
@@ -10018,7 +10020,8 @@
         "src_ymf_sgw_ymca_annual_report_1951",
         "src_ymf_sgw_ymca_annual_report_1960",
         "src_ymf_sgw_ymca_annual_report_1961",
-        "src_ymf_sgw_ymca_annual_report_1962"
+        "src_ymf_sgw_ymca_annual_report_1962",
+        "src_ymf_1938_11_10_the_voice_of_youth"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -10031,7 +10034,7 @@
         "site/camp-otoreke"
       ],
       "file_id": null,
-      "word_count": 4518,
+      "word_count": 4562,
       "notes": "Created 2026-08-14 (p_256) from the 114-annual-report sweep. ~60 seasons of camper counts and camper-weeks, 1894-2023, with SIX internal inconsistencies carried as flags rather than resolved -- every one of them the association contradicting itself. Kept as a separate article so the contradictions travel with the numbers. No aggregate totals computed: too many missing years, the 1998-2001 rows count a different population, and the two documented lifetime totals (40,000 in 1964, 34,000 in 1984) contradict each other. Marked draft, not stub, because it is transcription of primary figures rather than synthesis; NOT yet VERIFY-passed -- figures should be spot-checked against the OCR before advancing."
     },
     {

@@ -63,7 +63,7 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1935 | 259 | 917 | |
 | 1936 | 310 | 1,092 | |
 | 1937 | 407 | 1,442 | Registration refused for July periods |
-| 1938 | 364 | 1,315 | 29th season |
+| 1938 | 364 | 1,315 | 29th season. *A different measure from the same year:* the CBM broadcast script of 10 November recalls twelve-year-old Sandy Spence singing on a Sunday at camp "to **over 250 campers and visitors**" — a single service, campers and visitors counted together, not a season total [f_5002] |
 | 1939 | 526 | 1,477 | **133 "Old Country" boys** in five touring groups |
 | 1940 | — | 1,438 | Four-week scarlet fever quarantine |
 | 1941 | 322 | 1,266 | |
