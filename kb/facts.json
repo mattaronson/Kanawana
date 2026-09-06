@@ -1,8 +1,8 @@
 {
-  "version": "7.44",
-  "kb_version": "7.44",
+  "version": "7.45",
+  "kb_version": "7.45",
   "migrated_from": "3.3",
-  "fact_count": 5005,
+  "fact_count": 5007,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -90157,6 +90157,43 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.44",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5044",
+      "category": "history",
+      "date_ref": "1976",
+      "entities": [
+        "YMCA of Montreal",
+        "Kamp Kanawana",
+        "Ecology Centre"
+      ],
+      "claim": "AN ECOLOGY CENTRE AT KANAWANA WAS A FUNDRAISING PLANK IN 1976 -- THIRTY YEARS BEFORE THE 'VIRAGE VERT'. The YMCA of Montreal's 125th-anniversary publication, '125 Colourful Years' (1976), sets out the 'Initial Plans for Utilization of the $9.5 MILLION BUILDING FUND' under headed categories. Under 'CAMPING & OUTDOOR EDUCATION', three items, all of them about this wiki's subject: 'DEVELOPMENT OF A NORTHERN BASE CAMP FOR TRIPPING AND WILDERNESS SURVIVAL PROGRAMS'; 'DEVELOPMENT OF YEAR-ROUND FACILITIES FOR THE YMCA, COMMUNITY AND EDUCATION GROUPS AT KAMP KANAWANA'; and 'DEVELOPMENT OF AN ECOLOGY CENTRE AT KAMP KANAWANA'. The French text is the same: 'Etablissement d'un camp principal dans le nord pour des excursions et organisations de programmes de survie en foret... Developpement d'installations utilisables a longueur d'annee... Etablissement d'un CENTRE D'ECOLOGIE au Kamp Kanawana.' The campaign's own summary sentence says the money would 'make Kamp Kanawana A YEAR-ROUND CAMPING AND OUTDOOR EDUCATION CENTRE'. WHY THIS MATTERS: wiki/traditions/environmental-history.md dates the camp's repositioning as an outdoor-education centre to a 'virage vert' beginning in 2006. THE ASSOCIATION WAS RAISING MONEY FOR EXACTLY THAT IN 1976, AND FOR AN ECOLOGY CENTRE BY NAME. Whether either was built is a separate question this fact does not answer. THE AMOUNT IS NOT LEGIBLE AND IS NOT GUESSED. The figures are right-aligned in both columns and the OCR drifts them: 'NEW COMMUNITY FACILITIES' clearly carries $2,300,000, and the numbers appearing near the camping block are '$2 300 000' and '850 000', either of which could belong to it or to a neighbouring line. THE CAMPING AND OUTDOOR EDUCATION FIGURE IS RECORDED AS UNREAD. Other categories: restoration of community branch facilities $950,000, and a Downtown redevelopment of the Drummond Building. TWO OTHER FIGURES FROM THE SAME PUBLICATION: 'last year there were OVER 350,000 PARTICIPANTS in Montreal Y programs from different racial and ethnic backgrounds -- ALMOST EQUALLY DIVIDED BETWEEN FRENCH-SPEAKING AND ENGLISH-SPEAKING. The Y is one of the few organizations bringing together significant members of young people of our two main language groups.'",
+      "sources": [
+        "src_ymf_annual_report_1976_125_colourful_years"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.45",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5045",
+      "category": "history",
+      "date_ref": "1894",
+      "entities": [
+        "YMCA of Montreal",
+        "Kamp Kanawana",
+        "Saint-Adolphe-d'Howard",
+        "Saint-Sauveur"
+      ],
+      "claim": "THE ASSOCIATION'S OWN FOUNDING SENTENCE, PRINTED IN 1976, AND IT NAMES SAINT-ADOLPHE-D'HOWARD. The '125 Colourful Years' timeline reads, in full: '1894 THE Y OPENED THE FIRST ORGANIZED BOYS' CAMP AT ST. ADOLPHE DE HOWARD. SHORTLY AFTER THE BOYS' SECTION MOVED TO ST. SAUVEUR, AND ORGANIZED KAMP KANAWANA.' The French: 'la section des garcons s'installe a St-Sauveur et y organise le Kamp Kanawana.' THREE THINGS IN ONE SENTENCE. (1) THE CLAIM IS 'THE FIRST ORGANIZED BOYS' CAMP', unqualified -- not the first in Quebec, not the first YMCA one, just the first, which is the association's own version of the claim wiki/history/oldest-camp-question.md exists to test, stated in an anniversary publication rather than in a press release. (2) IT PLACES THE 1894 CAMP AT SAINT-ADOLPHE-D'HOWARD, which is where Lac Saint-Joseph is, corroborating this wiki's location from the institution's own retrospective -- and it is the same place this wiki records for the 1892 Cushing outing. (3) IT COMPRESSES SIXTEEN YEARS INTO 'SHORTLY AFTER': the move to Saint-Sauveur and the Kanawana name are dated 1910 here, and the 1909 renaming of the original site to Otoreke is not mentioned at all. THE VALUE IS AS EVIDENCE OF INSTITUTIONAL MEMORY, NOT OF EVENTS. In 1976 the association told its own donors a two-sentence story in which the camp begins in 1894, is the first of its kind, and simply moves. The camp's own brochures had been counting seasons from 1910 since at least 1929 (f_5030). Both are the same institution talking about itself, and they do not agree.",
+      "sources": [
+        "src_ymf_annual_report_1976_125_colourful_years"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.45",
       "added_by": "ralph_loop"
     }
   ]

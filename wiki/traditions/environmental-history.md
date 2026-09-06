@@ -1,6 +1,6 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 46*
+*Status: E1-reviewed | Sources: 47*
 *Last Updated: 2026-09-06 (p_349: Mary Edgar's 1970 conservation hymn)*
 
 ## Overview
@@ -12,6 +12,20 @@ The camp's environmental identity rests on three pillars: infrastructure investm
 ## Environmental Infrastructure
 
 ### The Green Shift (2006–2012)
+
+**Except that the idea is thirty years older than the green shift.** In 1976, raising a
+$9.5 million building fund for its 125th anniversary, the YMCA of Montreal listed three items under
+"Camping & Outdoor Education," and all three were about this camp: "Development of a northern base
+camp for tripping and wilderness survival programs"; "Development of **year-round facilities** for
+the YMCA, community and education groups at Kamp Kanawana"; and "**Development of an Ecology Centre
+at Kamp Kanawana**."^47 The campaign's own summary said the money would "make Kamp Kanawana a
+**year-round camping and outdoor education centre**" — which is the 2006 repositioning, proposed
+and costed in 1976. The French text uses the same words: *un centre d'écologie au Kamp Kanawana*.
+
+**Whether any of it was built is a separate question and this does not answer it.** Nor is the sum
+recoverable: the amounts are right-aligned in both language columns and the OCR drifts them, so the
+figure against "Camping & Outdoor Education" is illegible and has not been guessed.^47 What the
+document establishes is intent, named, in print, in 1976.
 
 The camp's "virage vert" (green shift) began in 2006 with the goal of reducing Kanawana's ecological footprint and repositioning it as an outdoor education centre; every building renovated or constructed from 2006 onward was energy-efficient and incorporated educational elements.^17 The green shift enabled the camp to serve "four times more young people" than before, transforming it from a summer-only operation into a three-season environmental education facility.^22 In February 2009, Les Y du Québec announced a further revitalization phase with new accommodation facilities; environmental features documented at the time included green sanitary installations, heat exchangers, composting toilets, and an artificial wetland system (marais artificiel) for wastewater treatment.^17 In 2010, TELUS contributed $50,000 toward a three-season educational pavilion at the camp.^23
 
@@ -325,6 +339,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 44. Jean Funk, "Dear CCA Member Camps," and the full text of the "Canadian Camping Association Environmental Ethic," *Canadian Camping* Vol. 36 No. 4 (Winter 1985), pp. 5-6 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 153).
 45. Jay Netherwood (Camp Kanawana), "L'Étranger" / "The Stranger," *Canadian Camping Magazine* Vol. 39 No. 3 (Winter 1988), pp. 18-19, printed in French and English [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 164). The only article by a Kanawana person in the magazine's 1949-1988 run.
 46. Mary S. Edgar, "A Page of Poems" — "A Director's Meditation," "Hymn for the Space-Age" (Tune: Forest Green), "Postpone the Verdict" and "Outdoor Blessing" — *Canadian Camping* Vol. 23 No. 1 (November 1970) [src_ia_canadian_camping_collection]. Her two earlier Centennial hymns are "Canada's Our Country," printed with the National Campfire ceremony in Vol. 19 No. 4 (June 1967), and "This Fair Land, Our Canada — A Centennial Hymn" in the Spring 1969 issue. Written up 2026-09-06 under p_349. See [f_3453], [f_3454], [f_3343].
+47. *125 Colourful Years*, YMCA of Montreal 125th-anniversary publication, 1976 [src_ymf_annual_report_1976_125_colourful_years]. Cached at `sources/cache/ymca-montreal-fonds/annual-report-1976-125-colourful-years.txt`. See [f_5044]. Read 2026-09-06 under p_441 for its timeline and its building-fund plan; the branch reporting that makes up most of the volume is not read.
 
 ## Research Notes
 

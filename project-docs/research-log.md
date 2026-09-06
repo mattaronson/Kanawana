@@ -6689,3 +6689,36 @@ until it spent its last fortnight "dans les douches attenantes au gymnase."
 No article was spawned for it. The subject is not Kanawana and CLAUDE.md's folder rules have no
 place for it. But a project about a camp in the woods should know what else its association was
 doing with a summer, and the contrast is the reason to keep the fact rather than the null alone.
+
+## 2026-09-06 — p_441, document fourteen: the ecology centre was a 1976 idea
+
+`annual-report-1976-125-colourful-years`, the association's 125th-anniversary publication, read for
+its timeline and its building-fund plan. Two findings, and both correct an article rather than
+adding to one.
+
+**The green shift is thirty years older than this wiki says.** `environmental-history.md` opens the
+camp's environmental identity with a "virage vert" beginning in 2006 and a repositioning as an
+outdoor education centre. In 1976 the YMCA of Montreal was raising $9.5 million and listed, under
+*Camping & Outdoor Education*, three items: a northern base camp for tripping and wilderness
+survival, **year-round facilities at Kamp Kanawana**, and **"Development of an Ecology Centre at
+Kamp Kanawana."** The campaign's own summary promised to make the camp "a year-round camping and
+outdoor education centre." The French text says *un centre d'écologie*. Whether any of it was built
+is a different question, now raised as p_448 with the 1977–85 annual reports as the place to look;
+either the plan failed or the article has a thirty-year hole, and both are worth knowing.
+
+The amount is not recoverable. The figures are right-aligned in both language columns and the OCR
+drifts them, so the number against Camping & Outdoor Education could be the $2,300,000 sitting
+below it or the 850,000 below that. **Not guessed.** Recorded as unread, which is the whole
+discipline this project keeps having to relearn about damaged numerals.
+
+**And the association's own founding sentence, in two lines:** "1894 The Y opened the first
+organized boys' camp at St. Adolphe de Howard. Shortly after the boys' section moved to St.
+Sauveur, and organized Kamp Kanawana." It asserts primacy flatly — *the* first organized boys'
+camp, no qualifier — which is exactly the claim `oldest-camp-question.md` exists to test, made here
+in an anniversary publication rather than a press release. It corroborates Saint-Adolphe-d'Howard
+from institutional memory. And it compresses sixteen years and a renaming into "shortly after."
+
+Set beside the 1929 brochure's "20th Season," it is the same institution telling two incompatible
+stories about its own age: to donors in 1976 the camp begins in 1894 and simply moves; to parents
+in 1929 it is nineteen years old. Neither is a lie and both are evidence about memory rather than
+about events, which is the useful way to hold them.

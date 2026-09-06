@@ -1,6 +1,6 @@
 # Is Kanawana the Oldest Camp in Canada?
 
-*Status: draft | Sources: 21*
+*Status: draft | Sources: 22*
 *Last Updated: 2026-09-05*
 
 ## Overview
@@ -112,6 +112,20 @@ it would be exactly the kind of self-flattering reading it withdrew the "second-
 
 The three camps became permanent institutions at roughly the same time and by the same mechanism:
 acquiring land.
+
+**The association's own anniversary publication tells a shorter story.** *125 Colourful Years*
+(1976), raising money and looking back, gives the whole founding in two sentences: "**1894 The Y
+opened the first organized boys' camp at St. Adolphe de Howard. Shortly after the boys' section
+moved to St. Sauveur, and organized Kamp Kanawana.**"^22 Three things are worth pulling out. The
+claim is "**the first organized boys' camp**," unqualified — not the first in Quebec, not the first
+YMCA one — which is this article's own question, asserted by the institution in an anniversary
+publication rather than a press release. It places the 1894 camp at **Saint-Adolphe-d'Howard**,
+where Lac Saint-Joseph is, corroborating the location from the association's own memory. And
+"shortly after" compresses sixteen years, skipping the 1909 renaming to Otoreke entirely.
+
+Set that beside the brochures below and the same institution is telling two different stories about
+its own age: to donors in 1976 the camp begins in 1894 and moves; to parents in 1929 it is in its
+twentieth season.
 
 **And the camp itself counted from 1910.** The "Come to Kanawana" brochure for 1929 prints on its
 title page: "KANAWANA / Operated by the Young Men's Christian Association of Montreal / **20th
@@ -527,3 +541,4 @@ across the country, and the century that closed its own sibling camp on the orig
 19. Katelyn Charlebois, "Camp Stephens Celebrates 125 Years," Lake of the Woods Museum Newsletter Vol. 26 No. 3, Summer 2016 [src_muse_kenora_camp_stephens_125]. "Only closed for one summer, 1918"; 54 enlisted campers who did not return; the five islands' namesakes, T. D. Patton among them. See [f_4838], [f_4839].
 20. *Year Book of the Young Men's Christian Associations of North America*, the volumes for **1899** [src_ymca_yearbook_1899] and **1900** [src_ymca_yearbook_1900] — both bound into a single Internet Archive scan whose catalogue record names only 1899. **Not lending-restricted**; downloaded and searched 2026-09-06. "Kanawana", "summer camp" and "camping" occur zero times in either, and the only "camp" near Montreal or Quebec is "winter campaign work" — while the same 1899 volume's Quebec branch directory names the Montreal association's Physical Director as W. H. Ball, Jr. Cached at `sources/cache/ymca-yearbooks/1899-1900-ymca-year-book-montreal-roster.txt`. See [f_4976], [f_4977].
 21. "Come to Kanawana" brochures for the 1928 and 1929 seasons, YMCA of Montreal fonds [src_ymf_1928_come_to_kanawana_brochure, src_ymf_1929_come_to_kanawana_brochure]. See [f_5030].
+22. *125 Colourful Years*, YMCA of Montreal 125th-anniversary publication, 1976 [src_ymf_annual_report_1976_125_colourful_years]. See [f_5045].
