@@ -1,8 +1,8 @@
 {
-  "version": "8.64",
-  "kb_version": "8.64",
+  "version": "8.65",
+  "kb_version": "8.65",
   "migrated_from": "3.3",
-  "fact_count": 5189,
+  "fact_count": 5190,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93552,6 +93552,26 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5228",
+      "category": "media",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Gord Logan",
+        "Outdoor Canada",
+        "CFCF",
+        "CIQC",
+        "Kamp Kanawana"
+      ],
+      "claim": "p_457 WORKED THE SAME DAY IT WAS RAISED. THE MAGAZINE IS ALMOST CERTAINLY 'OUTDOOR CANADA', NOT 'OUTDOORS CANADA'. Ka-News of December 1978 writes \"'Outdoors Canada' magazine\". Outdoor Canada, singular, is a Toronto magazine published since 1972, six issues a year, covering fishing, hunting, canoeing, camping and conservation -- its own first issue carried a piece on Edmund Hillary canoeing in Quebec (outdoorcanada.ca/about-us; en.wikipedia.org/wiki/Outdoor_Canada). An Open Library corpus search on the exact phrase \"Outdoors Canada\" returns 93 hits and the strongest are a Reader's Digest Association (Canada) BOOK of that title, Montreal 1977 (item outdoorscanada00read) -- a different thing entirely, and the trap a later pass would fall into. A CANOE-TRIPPING ARTICLE IN SPRING 1979 BELONGS IN THE MAGAZINE, NOT THE BOOK. The exact phrase \"Canoe Tripping with Girls\" returns ZERO in the Open Library corpus, which says nothing either way: that corpus indexes books, and magazine articles are not in it. THE AUTHOR HAS ONE INDEPENDENT ATTESTATION AND IT FITS. Howard Galganov's Bastards (item bastards0000galg) has \"we gave the books to Gord Logan of CIQC AM 600. Gord Logan refrained from looking at the books\" -- CIQC AM 600 is CFCF 600 renamed in 1991, and Ka-News says Gord \"left CFCF to take up writing fulltime\". CAUTION, AND IT IS A REAL ONE: most Open Library hits on this name are a DIFFERENT Gord Logan, the boy witness in the Steven Truscott case, who appears in at least five books about it. The CFCF station history at broadcasting-history.ca was fetched and read: the name Logan does not appear on it at all.",
+      "sources": [
+        "src_ymf_ka_news_1978_12"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "8.65",
       "added_by": "ralph_loop"
     }
   ]
