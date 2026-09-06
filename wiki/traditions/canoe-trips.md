@@ -1,6 +1,6 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 34*
+*Status: E1-reviewed | Sources: 35*
 *Last Updated: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *Last Updated: 2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
 *Last Updated: 2026-07-05 (named trip staff added from photo-mined canoe-trip plaques, p_191 ENRICH pass) — photo gallery added 2026-07-02*
@@ -22,6 +22,12 @@ Two years later the report singles out something else entirely. "**A specific fe
 The report gives no length in days, no distance, no party size and no leader's name, and this article is not going to supply them from the map. What it does establish is that by 1947 Kanawana was running an expedition well beyond the ten-day senior Ottawa River trip that topped the 1945 tiers.
 
 The following summer added a second frontier: in 1948, "in addition to trips up and down the Ottawa River, **senior campers explored the bush country of Lake Nominingue**."^34 Nominingue sits in the upper Laurentians roughly a hundred kilometres north of Saint-Sauveur, and it appears elsewhere in this project only as somebody else's camp address. This is the first record of Kanawana campers there.
+
+### 1961: three crews of five, three weeks, 250 miles, and the rule of the I's
+
+Two years after the Voyageurs began, the association's annual report gives their whole season in four sentences. "In **July and August** Voyageurs trips were organized which took **three groups of five boys** on a **three-week** adventure **250 miles into Quebec's northland lakes**. Bush camping stresses campcraft, hiking, and canoeing for a means of transportation. **The rule of the 'I's' was established** and proved to be all inclusive — **Initiative, Imagination, and Inventiveness** — These were the main requirements of a group and its leader."^35
+
+Fifteen boys in the entire programme that year, paddling in crews of five. The rule of the I's appears nowhere else in this project, and the report treats it as something the trips arrived at rather than something handed down.
 
 ### 1959 from inside: the Older Boys Camp, based at Kanawana
 
@@ -729,3 +735,4 @@ This is the only itemised cost of a 1920s Canadian canoe trip found by this proj
 32. "Les Voyageurs de la Vérendrye, Director's Report 1970", signed Yves St. Pierre, Director '70 [src_ymf_1970_les_voyageurs_de_la_verendrye_directors_report]. Read whole 2026-09-06 under p_441. See [f_5059] and [f_5060].
 33. Les Voyageurs de la Vérendrye reports for **1966** (signed Jack Soule), **1969** (David Blake) and **1973** (John Evans, final report, 19 August) [src_ymf_1966_les_voyageurs_de_la_verendrye_report, src_ymf_1969_les_voyageurs_de_la_verendrye_report, src_ymf_1973_08_19_les_voyageurs_de_la_verendrye_final_report]. All three read whole 2026-09-06 under p_441, completing the run. See [f_5061] and [f_5062].
 34. YMCA of Montreal annual reports for the years ending 31 March **1946**, **1948** and **1949** [src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1948, src_ymf_sgw_ymca_annual_report_1949]. Under the 31 March rule (f_5039) these cover the 1945, 1947 and 1948 seasons. Camps sections read 2026-09-06 under p_441. See [f_5076], [f_5077].
+35. YMCA of Montreal annual report for the year ending **31 December 1961** [src_ymf_sgw_ymca_annual_report_1961]. A December-year volume, so its season is 1961 (see [f_5081]). Camps section read 2026-09-06 under p_441. See [f_5089].

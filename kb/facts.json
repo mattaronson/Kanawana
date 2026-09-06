@@ -1,8 +1,8 @@
 {
-  "version": "7.72",
-  "kb_version": "7.72",
+  "version": "7.73",
+  "kb_version": "7.73",
   "migrated_from": "3.3",
-  "fact_count": 5048,
+  "fact_count": 5051,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91048,6 +91048,61 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.72",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5087",
+      "category": "people",
+      "date_ref": "1960-1961",
+      "entities": [
+        "Hedley G. Dimock",
+        "Kamp Kanawana",
+        "Zeller Family Foundation"
+      ],
+      "claim": "THE DIMOCK STUDY AT KANAWANA HAS A FUNDER, AN AMOUNT, AND A REPORTED RESULT. people/hedley-dimock.md carries the 1960-61 counsellor-effectiveness research and asks, as open question 2, what the findings were -- answering itself '[Largely resolved] These are unpublished internal reports (Concordia Box HA2323), not journal articles -- confirmed genuine dead end.' THE ASSOCIATION PUBLISHED A SUMMARY OF THEM IN ITS OWN ANNUAL REPORT, TWICE. THE REPORT FOR THE YEAR ENDING 31 DECEMBER 1960, under the heading 'Kamp Kanawana \"Study\" Findings Are Promising': 'The Montreal YMCA has been working at the development of techniques which measure THE CHARACTER GROWTH OF MEMBERS IN PROGRAM. A Kamp Kanawana study project, FINANCED BY A $1,200 GRANT FROM THE ZELLER FAMILY FOUNDATION, CO-ORDINATED BY DR. HEDLEY G. DIMOCK, tackled this problem last summer. The results reported by Dr. Dimock are encouraging. THE CHANGE OF ATTITUDES AND TEMPERAMENT IN SELECTED CAMP COUNSELLORS HAS BEEN SUCCESSFULLY MEASURED. As a result of these findings, youth programs aimed at attitude change and character growth CAN NOW BE MORE EXACTLY PLANNED and their effect on youth more precisely anticipated. The findings are considered OF EXTREME IMPORTANCE FOR THE YMCA'S \"VALUE EDUCATION\" PROGRAMS NOW OPERATING IN TEENAGE HI-Y CLUB PROGRAMS THROUGHOUT THE CITY.' THE 1961 REPORT REPEATS IT with the tense changed from future to present: 'camp programs aimed at attitude change and character growth ARE NOW BEING more exactly planned'. WHAT THIS IS AND IS NOT. IT IS NOT THE STUDY'S DATA and it does not retire the dead end -- the instruments, the scores and the counsellors' names are still in Concordia Box HA2323 and unread. IT IS the association's own account of what the study found and what it was used for, published at the time, which the article did not have: A FUNDER (the Zeller Family Foundation), AN AMOUNT ($1,200), DIMOCK'S ROLE (co-ordinator), THE FINDING AS THE ASSOCIATION STATED IT (that the change in counsellors' attitudes and temperament over a summer was successfully MEASURED -- a methodological result, not a substantive one about which way they changed), and THE ONWARD USE, which was the city Hi-Y clubs' 'value education' programmes. That last connects the Kanawana study to the 'Values for Living' framework the camp had been running since 1956 (f_5084). NOTE THE 1958 NAME AND THE 1960 NAME ARE NOT THE SAME STRING -- 'Values for Living' and 'value education' -- and no source in this project equates them.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1960",
+        "src_ymf_sgw_ymca_annual_report_1961"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.73",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5088",
+      "category": "programs",
+      "date_ref": "1960-1961",
+      "entities": [
+        "Kamp Kanawana",
+        "Hedley G. Dimock"
+      ],
+      "claim": "'PLANNED GROUP DEVELOPMENT' IS THE NAME THE ASSOCIATION GAVE THE TENT-GROUP METHOD, AND 1960 WAS ITS FIRST SEASON. The 1961 report: 'FOR THE SECOND SEASON Kamp Kanawana program and camp supervision operated on what the \"Y\" has called a basis of \"PLANNED GROUP DEVELOPMENT\". THE INTENTION IS TO MAKE USE OF THE RELATIONSHIPS BETWEEN SMALL GROUPS OF CAMPERS AS EDUCATIONAL TOOLS for the benefit of each camper.' Second season makes 1960 the first, which puts a named method on the tent-group emphasis the 1958 report described without naming (f_5084) and which Hedley Dimock, whose Sir George Williams lectureship was in GROUP DEVELOPMENT, was studying at the camp in the same two summers (f_5087). THE REPORTS PUT THE TWO SIDE BY SIDE -- 'PARALLEL TO THIS PROGRAM INNOVATION, the Montreal YMCA has been working at the development of techniques which measure the character growth of members in program, and last summer at Kanawana the first findings were tested' -- BUT THEY DO NOT SAY DIMOCK DESIGNED THE METHOD, AND NEITHER DO I. AND THE STAFF TRAINING IS DOCUMENTED IN DETAIL FOR BOTH YEARS. 1960: 'Staff training started in MAY with THREE ALL STAFF SESSIONS. Two sessions were held at the WESTMOUNT BRANCH where waterfront program and procedure were discussed and practical sessions given in the pool on water safety and canoeing. An additional SIX-DAY training program, held in camp' before opening. 1961: the same three May sessions, the pool sessions moved to the CENTRAL BRANCH, and the in-camp programme lengthened to SEVEN DAYS. The 1961 report adds why: 'The success of planned group development like any education program depends to a great measure upon the skill and personal qualities of the \"LEADER-EDUCATOR\". For this reason staff qualifications and training have received close attention at Kanawana and HAVE BEEN THE SUBJECT OF SPECIAL TEST STUDIES OVER THE PAST TWO YEARS' -- which is the Dimock work, described from the camp's side. ALSO FROM 1960: the camp 'operated for EIGHT WEEKS AT NEAR CAPACITY', and the programme list runs 'Camp fires, regattas, swim meets, banquets, Indian ceremonies, LUMBERMAN-VOYAGEUR DAY, special meals'. The L&V games are in traditions/lv-games.md; this is a dated instance of the name in the association's own words.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1960",
+        "src_ymf_sgw_ymca_annual_report_1961"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.73",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5089",
+      "category": "programs",
+      "date_ref": "1961",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "Camp Perrot",
+        "Kamp Kanawana"
+      ],
+      "claim": "THE 1961 VOYAGEUR TRIPS, AND CAMP PERROT STILL IN USE AS A DAY CAMP SITE. THE VOYAGEURS, two years after their founding, from the 1961 report: 'In JULY AND AUGUST Voyageurs trips were organized which took THREE GROUPS OF FIVE BOYS on a THREE-WEEK adventure 250 MILES INTO QUEBEC'S NORTHLAND LAKES. Bush camping stresses campcraft, hiking, and canoeing for a means of transportation. THE RULE OF THE \"I'S\" WAS ESTABLISHED and proved to be all inclusive -- INITIATIVE, IMAGINATION, AND INVENTIVENESS -- These were the main requirements of a group and its leader.' Fifteen boys in the whole programme that year, in crews of five. The rule of the I's appears nowhere else in this project. CAMP PERROT, WHICH THIS PROJECT DATES 'FROM 1944 UNTIL SOME POINT IN THE LATE 1950s OR EARLY 1960s' AND WHOSE CLOSURE IT CALLS GENUINELY CONTESTED, IS IN USE IN THE SUMMER OF 1961 -- but not as a resident camp. Under 'Summer Programs For Youngsters in the City': 'Day camps and summer fun clubs were operated by EIGHT BRANCHES during the summer of 1961. LAKESHORE \"Y\" AND LACHINE-DORVAL BRANCH USED THE CAMP PERROT SITE on Lake St. Louis. Here, \"campers\" spent the day building teepees, leantos, making cook-outs, and engaging in all the fascinations of Indian council lore. These are all the experiences of a regular resident camp AND YET THE YOUNGSTERS RETURN HOME IN TIME FOR SUPPER.' THAT IS A DISTINCTION THE CLOSURE QUESTION NEEDS. The site was still YMCA-operated summer camping ground in 1961; what had gone, or was going, was the residential camp. A search for 'when Camp Perrot closed' that looks for the site falling out of use will get the wrong answer, and the two questions -- when the resident camp ended and when the property left the association -- have to be asked separately. THE REPORT DOES NOT SAY WHETHER A RESIDENT SEASON RAN AT PERROT IN 1961; it describes only the day camp. Absence of a mention is not evidence of absence, and it is recorded here as what the report shows and does not show.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1961"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.73",
       "added_by": "ralph_loop"
     }
   ]

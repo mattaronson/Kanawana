@@ -20933,8 +20933,8 @@
       "extraction_version": "v5.60",
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_441: the KAMP KANAWANA sections (both the short camps entry and the longer programme narrative), the Kanawana Statistics tables, the Voyageurs and day-camp paragraphs, and the title page for the year-end (f_5087, f_5088, f_5089, f_5081). THE REST OF THE VOLUME IS NOT READ. The Kanawana Statistics table in the 1961 volume is too OCR-damaged to extract and was left."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1961",
@@ -20951,8 +20951,8 @@
       "extraction_version": "v5.60",
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_441: the KAMP KANAWANA sections (both the short camps entry and the longer programme narrative), the Kanawana Statistics tables, the Voyageurs and day-camp paragraphs, and the title page for the year-end (f_5087, f_5088, f_5089, f_5081). THE REST OF THE VOLUME IS NOT READ. The Kanawana Statistics table in the 1961 volume is too OCR-damaged to extract and was left."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1962",

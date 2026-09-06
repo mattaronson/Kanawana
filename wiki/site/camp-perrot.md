@@ -1,7 +1,7 @@
 # Camp Perrot
 
-*Status: E1-reviewed | Sources: 16*
-*Last Updated: 2026-09-06 (the Laddie Millen Memorial Craft Shop settles which building carries which name)*
+*Status: E1-reviewed | Sources: 17*
+*Last Updated: 2026-09-06 (the site was still running a day camp in 1961, which the closure question has to account for)*
 
 ## Overview
 
@@ -41,6 +41,12 @@ plausible figure and the brochure is the nearer witness; neither is preferred he
 The camp's founding is now dated to 1944, not the "1945" previously inferred from the earliest surviving document. Five independent annual reports self-describe their season number relative to a consistent start year: the 1947 report calls itself the "fourth season," 1948 the "fifth season," 1950 the "seventh consecutive season," 1951 the "eighth year of operation," and 1952 the "ninth summer" (for both boys' and girls' sessions) — all counting from 1944.^5
 
 Camp Perrot is absent from the 1980 YMCA situation reports, which mention Kanawana, Otoreke, and Weredale but not Perrot, confirming it had closed by that date.^1 The precise closure chronology is genuinely contested between two internal sources rather than resolvable to one clean date. A 1959 internal memo by longtime director Donald Cochrane, written to rebut a July 1958 Camp Committee decision to close the resident camp once a new site was found, shows the resident program was still fully operating in 1958-59.^6 A separate 1969 planning document instead states the resident camp (established in the 1940s) closed at an OCR-illegible year, sat dormant about six years, and reopened in 1958 as a Day Camp — which would place resident closure around 1952, inconsistent with the 1959 memo's evidence of ongoing 1958-59 operation.^7 By 1964 a "Family Summer Centre" program had begun, and after Expo 67 the site added Tent and Trailer facilities, operating by the late 1960s as a mixed Day Camp/Family Centre/Tent-and-Trailer operation serving Lakeshore-area YMCA branches.^7 This contradiction is preserved here rather than forced to a single answer.
+
+**The site was still in use in the summer of 1961, as a day camp.** Under "Summer Programs For Youngsters in the City," the annual report for the year ending 31 December 1961 says: "Day camps and summer fun clubs were operated by **eight branches** during the summer of 1961. **Lakeshore 'Y' and Lachine-Dorval Branch used the Camp Perrot site** on Lake St. Louis. Here, 'campers' spent the day building teepees, leantos, making cook-outs, and engaging in all the fascinations of Indian council lore. These are all the experiences of a regular resident camp **and yet the youngsters return home in time for supper**."^17
+
+That is a distinction the closure question needs. In 1961 the property was still YMCA summer camping ground; what had gone, or was going, was the **residential** camp. Anyone dating the end of Camp Perrot by asking when the site fell out of use will get the wrong answer, and the two questions — when the resident camp stopped and when the property left the association — have to be asked separately.
+
+The same report does **not** say whether a resident season ran at Perrot in 1961. It describes only the day camp. That is not evidence that none ran.
 
 ## Programming and Capacity
 
@@ -243,6 +249,7 @@ The earliest known Kanawana-side documentary evidence is a "Comparison of Two Bo
 14. YMCA of Montreal Annual Report for the year ending 31 March **1945** [src_ymf_sgw_ymca_annual_report_1945]. See [f_5074].
 15. YMCA of Montreal annual reports for the years ending 31 March **1946**, **1947**, **1948** and **1949** [src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1947, src_ymf_sgw_ymca_annual_report_1948, src_ymf_sgw_ymca_annual_report_1949]. Under the 31 March rule (f_5039) these cover the 1945, 1946, 1947 and 1948 seasons. Camps sections read 2026-09-06 under p_441. See [f_5078].
 16. YMCA of Montreal annual reports for the years ending **31 December 1951** and **31 December 1952** [src_ymf_sgw_ymca_annual_report_1951, src_ymf_sgw_ymca_annual_report_1952]. Note the year-end: the association moved from a 31 March to a 31 December financial year with its 100th report, so these describe the summers of 1951 and 1952, not the previous ones (see [f_5081]). Read 2026-09-06 under p_441. See [f_5082].
+17. YMCA of Montreal annual report for the year ending **31 December 1961** [src_ymf_sgw_ymca_annual_report_1961], the "Summer Programs For Youngsters in the City" section. A December-year volume, so its season is 1961 (see [f_5081]). Read 2026-09-06 under p_441. See [f_5089].
 
 ## Research Notes
 
