@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 33*
+*Status: draft | Sources: 34*
 *Last Updated: 2026-09-06 (the 1916 fee and season, from a school magazine advertisement)*
 
 ## Overview
@@ -201,7 +201,7 @@ The 1958 report prints a "Kanawana Statistics" table with columns for 1956, 1957
 
 ## Where the record disagrees with itself
 
-Seven inconsistencies, carried as flags rather than resolved. In every case the conflict is between the association's own documents.^1
+Eight inconsistencies, carried as flags rather than resolved. In every case the conflict is between the association's own documents.^1
 
 **The first six were re-checked against the OCR on 2026-08-14 and all six are genuine** — the association contradicting itself, not a transcription error on this project's side. The verifying quotations are recorded in the KB. Sampled ordinary figures (1894, 1923, 1939, 1949, 1969) also checked clean.
 
@@ -211,6 +211,8 @@ Seven inconsistencies, carried as flags rather than resolved. In every case the 
 4. **1932 campers: 360 or 385?** The 1933 report gives a branch-by-branch table summing to 360. The 1934 report says 1933's 287 was "a decrease of 98 from 1932," which gives 385.
 5. **1965 camper-weeks: 1,200 or 1,182?** The 1965 report versus the 1966-67 report.
 6. **The 1930 arithmetic does not close.** The 1931 report says "1512 boy weeks, an increase of 432 over last year" — but 1929's 1,090 plus 432 is 1,522, not 1,512. Two later reports independently confirm **1,512**, so the error is in the "432."
+
+8. **A Verdun figure the 1922-23 report gives twice and differently — recorded because a hole looks like an absence.** Its Verdun branch narrative lists among the year's achievements "Twenty-two boys attended Kamp Kanawana." Its metropolitan enrolment table for the same period gives a Verdun row of 12 for 1921 and 14 for 1922. **Neither 14 nor 18 is 22.** *What is uncertain here is the table, not the narrative:* the table's row labels are wrecked in the OCR ("Winatiached", "NETGILETI Ay"), and the row order is inferred by matching the 1921 column against the previous report's spelled-out branch list — Unattached 4 plus Grand'Mère 12 making the 16 "unattached" of 1921-22, then 12, 73, 130, 160. On that reading rows two and three are Grand'Mère and Verdun, **both 12 in 1921**, which is precisely why they are interchangeable and why the 1922 pair, 18 and 14, could belong either way round. Possible explanations: the branch counted differently from the metropolitan office, the narrative rounded or covered a different season, or the OCR is simply wrong. **Do not cite a Verdun figure for 1922 without the printed page.** The 307 metropolitan total is not in doubt.^34
 
 7. **The 1921 badge total does not match the 1921 badge list.** The 1921-22 report says "A total of 812 badges were won by the boys for proficiency in the following subjects," then lists ten: camp improvement 65, life saving 30, rowing 38, beginners' swimming 20, hikes 105, resuscitation 35, wood craft 20, bandaging 20, simple remedies 26, basketry 30. **Those sum to 389.** The list may be partial, the total may be a misprint, or 812 may count every badge awarded against a list of only the proficiency subjects; 389 doubled is 778, so a simple doubling does not explain it either. The ten subjects and their individual counts are the safe figures — the total is not.^26
 
@@ -399,6 +401,7 @@ Three things stand out and none of them is visible from any single article.
 31. YMCA of Montreal annual report for **1913** [src_ymf_sgw_ymca_annual_report_1913] — "Last summer 123 men and 187 boys secured a most delightful vacation in these helpful surroundings," covering the summer of 1912. Read 2026-09-06 under p_454. See [f_5193].
 32. YMCA of Montreal annual report for **1999-2000** [src_ymf_sgw_ymca_annual_report_1999_2000], the page headed "Kamp Kanawana - A Camp for People of All Ages." Read 2026-09-06 under p_454. See [f_5195].
 33. YMCA of Montreal, **114th Annual Report** [src_ymf_sgw_ymca_annual_report_1965]. Its title page states the span outright — "1965 / 114th ANNUAL REPORT / JUNE 1, 1965 – MAY 31, 1966" — read by eye 2026-09-06 while working on Camp Otoreke. See [f_5203].
+34. YMCA of Montreal annual report for the year ending 30 April 1923 [src_ymf_sgw_ymca_annual_report_1922_1923] — its Verdun branch narrative and its metropolitan enrolment table, which do not agree. Read 2026-09-06 under p_454. See [f_5173].
 
 ## Research Notes
 
