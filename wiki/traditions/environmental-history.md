@@ -1,7 +1,7 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 45*
-*Last Updated: 2026-09-04*
+*Status: E1-reviewed | Sources: 46*
+*Last Updated: 2026-09-06 (p_349: Mary Edgar's 1970 conservation hymn)*
 
 ## Overview
 
@@ -72,6 +72,40 @@ In 2018, Desjardins donated $1 million to the YMCA for renovations at Camp Kanaw
 The camp's engagement with nature is not entirely modern. The 1918 summer season offered instruction in "nature study" alongside first aid, basket-making, and camp sanitation.^13 By 1922, the camp held a chartered tribe in the Woodcraft League of America, whose nature study and outdoor skills programming embedded ecological awareness in the badge system.^17b The broader Woodcraft and nature study traditions of the early camping movement provided the philosophical groundwork for contemporary environmental education.
 
 A dedicated Nature Awareness program was created by Chris Adam (listed as "Chris Adams" in the 1980 *Ka-News*; from Vanier) in 1980, alongside new orienteering methods with a nature trail.^12 A Nature Nook / Nature Interpretation Area remains on the current site.^4 The 1980 initiatives mark the earliest identifiable moment when environmental education became a distinct programming stream rather than a diffuse element of outdoor camping.
+
+### A conservation hymn from the movement's honorary president, 1970
+
+The earliest environmental statement in the national camping press this project holds is not an
+article. It is a hymn, printed in November 1970 by **Mary S. Edgar** — founder of Glen Bernard, first
+director of the YWCA's Camp Oolahwan in the Laurentians, and by then Honorary President of the Canadian
+Camping Association — as one of four texts under the heading "A Page of Poems."^46 It is called
+"**Hymn for the Space-Age**", set to the tune **Forest Green**, and its third and fourth verses are a
+conservation argument in the form of a doxology:
+
+> This land of ours is vast and fair, / Shaped through the ages gone, /
+> **Inheritors, our debt is paid / By passing beauty on.**
+>
+> **Keeping our skies and waters clean / Our forests freshly green** /
+> Thus through the ever-circling years / True gratitude is seen.
+
+Two things are worth noticing. The first is the date: eight months before Kanawana's own erosion
+confession and nine years before "No Trace Camping", the movement's senior figure was already putting
+stewardship to camps as a debt owed forward rather than as a technique. The second is the frame. The
+hymn opens on space — "Great Spirit of the universe / Infinity of space, / **We Earth-born mortals
+venture far / Your mysteries to trace**" — and turns from there to the planet as the thing worth
+looking at, which is the argument the Apollo photographs were making everywhere in 1970. Edgar was
+eighty-one when she wrote it.
+
+**It is her third Centennial-era hymn**, after "Canada's Our Country", sung at the National Centenary
+Campfire of 9 August 1967 (see [[history/centennial-1967|Kanawana's Centennial]]), and "This Fair Land,
+Our Canada" in the spring of 1969.^46 The through-line from the first two to this one is the country;
+what is new in 1970 is that keeping it clean is what the gratitude consists of.
+
+Edgar's own camp connection to Kanawana runs through [[connections/related-camps/camp-oolahwan|Camp
+Oolahwan]], the Montreal YWCA camp she directed from 1915 to 1919, whose campers visited Kanawana
+through the 1940s. No source says any Kanawana camper ever sang this hymn. What it establishes is what
+the movement's own elder was saying about the land in the year Kanawana's directors were reading the
+same magazine.
 
 ### "Leave no trace" reaches Canadian camping, 1979
 
@@ -290,6 +324,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 43. Jean Funk, "Environment Committee," in the CCA/ACC Annual Report 1983, *Canadian Camping* Vol. 36 No. 2 (Summer 1984) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 151).
 44. Jean Funk, "Dear CCA Member Camps," and the full text of the "Canadian Camping Association Environmental Ethic," *Canadian Camping* Vol. 36 No. 4 (Winter 1985), pp. 5-6 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 153).
 45. Jay Netherwood (Camp Kanawana), "L'Étranger" / "The Stranger," *Canadian Camping Magazine* Vol. 39 No. 3 (Winter 1988), pp. 18-19, printed in French and English [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 164). The only article by a Kanawana person in the magazine's 1949-1988 run.
+46. Mary S. Edgar, "A Page of Poems" — "A Director's Meditation," "Hymn for the Space-Age" (Tune: Forest Green), "Postpone the Verdict" and "Outdoor Blessing" — *Canadian Camping* Vol. 23 No. 1 (November 1970) [src_ia_canadian_camping_collection]. Her two earlier Centennial hymns are "Canada's Our Country," printed with the National Campfire ceremony in Vol. 19 No. 4 (June 1967), and "This Fair Land, Our Canada — A Centennial Hymn" in the Spring 1969 issue. Written up 2026-09-06 under p_349. See [f_3453], [f_3454], [f_3343].
 
 ## Research Notes
 

@@ -1,7 +1,7 @@
 # The 1967 Centennial and Kanawana
 
 *Status: E1-reviewed | Sources: 24*
-*Last Updated: 2026-09-04*
+*Last Updated: 2026-09-06 (p_349: Edgar's two later hymns noted)*
 
 ## Summary
 
@@ -95,6 +95,13 @@ by a Toronto boys' choir at the March annual meeting.^22 Its first verse and cho
 >
 > *Chorus:* Proudly we proclaim it / Over land and sea, / Canada's our Country! / May we
 > worthier be.
+
+**She wrote two more.** "This Fair Land, Our Canada — A Centennial Hymn" appeared in the spring of
+1969, and in November 1970 "Hymn for the Space-Age", set to *Forest Green*, turned the same
+country-and-gratitude form into an explicit conservation hymn — "Keeping our skies and waters clean /
+Our forests freshly green." The Centennial hymn form outlived the Centennial by three years and became
+an environmental one; the 1970 text is set out at
+[[traditions/environmental-history|Environmental Education and Stewardship]].^22
 
 The middle of the campfire was left to each camp, with suggestions including a "Council Ring
 ceremony with challenges," pageants, tableaux and dramatized historical incidents. The

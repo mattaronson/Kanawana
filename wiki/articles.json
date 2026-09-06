@@ -2137,7 +2137,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 3654,
+      "word_count": 3739,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header, replaced with the standardized two-line header. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -6338,7 +6338,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 8256,
+      "word_count": 8731,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical; fixed a genuine citation-numbering bug where the Sources list had two entries each numbered '17.' and '22.' (disambiguated as 17b./22b., three inline markers corrected to point at the right one). No facts, source content, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

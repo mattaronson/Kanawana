@@ -922,7 +922,7 @@
       "assigned_weight": "P3",
       "created_at": "2026-08-12T00:00:00Z",
       "status": "pending",
-      "notes": "Confirm with operator whether these 14 are still desired given the operator-authorized C5 policy revision context (Campaign 71) before spawning, since the revision was scoped case-by-case rather than as a blanket C5 list removal.",
+      "notes": "Confirm with operator whether these 14 are still desired given the operator-authorized C5 policy revision context (Campaign 71) before spawning, since the revision was scoped case-by-case rather than as a blanket C5 list removal. | 2026-09-06: this is an OPERATOR-GATED item, not agent-doable. The state review that queued it flagged it 'to re-confirm scope with the operator first since the original C5 revision was scoped case-by-case, not as a blanket list removal.' Fourteen names cannot be turned into articles on an agent's own judgement about a privacy list a person drew up name by name. Surfaced in the PR body under 'Left for a person'.",
       "tier": "3-RALPH"
     },
     {
@@ -4471,10 +4471,13 @@
       "type": "RESEARCH",
       "description": "FIND MARY S. EDGAR'S 'ONCE THERE WAS A CAMPER' (G. R. Welch, Toronto, 1970) AND RECORD 'HYMN FOR THE SPACE-AGE'. Canadian Camping, November 1970, announces the book as 'a little book of 23 delightful rhymes on kids at camp' with the author's own line drawings, and prints in the same issue Edgar's 'Hymn for the Space-Age' (Tune: Forest Green), an explicitly environmental hymn by the CCA's honorary president -- the third Edgar hymn this read has found, after 'Canada's Our Country' (June 1967) and 'This Fair Land, Our Canada' (1969). Search: Library and Archives Canada, Toronto Public Library, University of Toronto, Trent (the OCA fonds), AbeBooks and Internet Archive. The hymn text belongs in environmental-and-ecological-history and alongside the Edgar material in centennial-1967.md.",
       "weight": 8,
-      "status": "pending",
+      "status": "partially_complete",
       "created": "2026-09-05",
       "source": "word-for-word read of Canadian Camping, issues 87-89, converted to KB facts",
-      "blocked_on": null
+      "blocked_on": null,
+      "resolved": "2026-09-06",
+      "resolution": "THE HYMN HALF IS DONE; THE BOOK HALF IS NOT. 'Hymn for the Space-Age' is written into environmental-history.md as the earliest environmental statement in the national camping press this project holds -- November 1970, eight months before Kanawana's own erosion confession and nine years before 'No Trace Camping', by the movement's Honorary President, then eighty-one. Two verses quoted, the space frame noted (the hymn opens on 'Infinity of space' and turns from there to the planet, which is the argument the Apollo photographs were making everywhere that year), and the honest limit stated: no source says any Kanawana camper ever sang it. Cross-referenced from centennial-1967.md, where 'Canada's Our Country' already sat, with the point that the Centennial hymn form outlived the Centennial by three years and turned into an environmental one. Facts f_3453, f_3454 and f_3343 already existed. STILL OPEN: 'Once There Was a Camper' (G. R. Welch, Toronto, 1970), the book of 23 rhymes with her own line drawings. That needs Library and Archives Canada, Toronto Public Library, Trent's OCA fonds, AbeBooks or the Internet Archive, and none of those catalogue surfaces has been tried from here for this title.",
+      "notes": "2026-09-06: hymn written up; book search untried."
     },
     {
       "priority_id": "p_350",
