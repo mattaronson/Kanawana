@@ -1,7 +1,7 @@
 # The Canadian Camping Movement
 
-*Status: E1-reviewed | Sources: 19*
-*Last Updated: 2026-09-06 (the American Camp Association's own textbook calls Kanawana Canada's first organizational camp — and why that does not settle it)*
+*Status: E1-reviewed | Sources: 20*
+*Last Updated: 2026-09-06 (Open Question 4's "no named individual" was answered in this project's own KB, and has been for weeks: Hay Finlay)*
 
 ## Summary
 
@@ -344,6 +344,42 @@ One caution about the edition, which matters to anyone trying to obtain it. The 
 Three of those facts are new here and one of them matters a great deal to Kanawana. **Quebec camp standards begin with a named document by a named author in 1955** — a *Manual of Standards for children's summer camps in the Province of Quebec*. The sequence is now continuous: the manual in 1955; accreditation practice "in the pioneer stage" under Alta Kahn in 1959-60; provincial incorporation on 23 January 1961; and by 1975 every Quebec camp re-accredited annually.^8u ^8v ^8x Kanawana, as an accredited Quebec camp, was measured against a document whose origin is now datable, and finding that manual is a distinct and tractable search.
 
 The rest of the tribute: born in **Hyde Park, New York**, a farm childhood and a career in physical education; **founded Camp Nominingue in 1925** on Petit Lac Nominingue, which "celebrated its 50th season" in 1974; the **Centennial Medal in 1967**; an **Award of Merit from the QCA's joint Provincial Board in 1968**; **eighty years old and still ski-touring in 1975**, having "probably travelled more ski-miles in the Laurentians than anyone" except Jackrabbit Johannsen.^8x He is the "F. M. Van Wagner, Montreal" unasterisked in the CCA's 1972 past-presidents list, and an honorary member of the QCA English Section in 1975.^8v Whether he was related to **Peter Van Wagner**, who was president of that section in 1972 and chaired its Standards Committee in 1975, is not stated in any source seen here and is not assumed.
+
+### Hay Finlay: the named individual on both sides
+
+Open Question 4 below has said, through several revisions, that no named individual has been
+confirmed on both sides of the Kanawana-to-Nominingue connection, and recorded that Camp Nominingue's
+counsellor Marc Beique was checked specifically and produced nothing. **That question was answered
+inside this project's own knowledge base and nobody carried the answer into this article.**
+
+**Hay Finlay** is in [[people/directors-index|the directors index]] as Kanawana's **Senior Section
+Director in 1922**, "ex-Central YMCA Boys' Physical Director, then at McGill Physical Education",
+from the camp's own 1922 brochure. He is also, in *Canadian Camping*, the man who founded Camp
+Nominingue with F. M. Van Wagner. G. H. Merrill's February 1963 profile of Van Wagner puts it
+plainly: "**In the fall of 1924, Van and a McGill associate of his, Hay Finlay, decided that they
+would operate their own camp.**" Anne Vail's 1954 profile says the same from the other end: "He was
+co-founder of this Camp with **Hay Finlay** in 1925."^12 The same Hay Finlay is the Canadian Camping
+Association's **Secretary-Treasurer in February 1949**, at 475 Pine Avenue West, Montreal.^12
+
+So the Kanawana section director of 1922 co-founded, two or three years later, the Laurentian private
+camp that dominates the Quebec content of the national magazine for the next forty years — and then
+became an officer of the national association. That is not a thin connection between Kanawana and the
+movement. It is the same man.
+
+**And a Montreal memoir adds what he did in between.** *The McGill You Knew: An Anthology of
+Memories, 1920-1960* (1975) names him among the university's coaches — "Shag Shaughnessy, Bert Light,
+Van Wagner, George Vickerson, Frank Saxton, **Hay Finlay** and our chief sport administrator, Major
+Stuart…" — and describes the camp's character:^20
+
+> "In the off season, Van and Hay Finlay, the gymnastics and soccer coach, developed Camp Nominingue
+> in County Labelle, where many students worked as counsellors in the summer. Though a private
+> venture, the camp was closely connected with the university by personal associations, and was known
+> as '**Camp McGill**' to all the residents of the area."
+
+**Camp McGill** is the phrase worth keeping. It is what a private Laurentian camp founded by two
+university coaches and staffed by their students was called by the people who lived around it — and
+it is the same channel, personal rather than institutional, by which Kanawana's own staff moved
+through the McGill Physical Education department in the same years.
 
 **The CCA's national office was in Montreal from 1958 to 1961**, for the length of Van Wagner's presidency.^8x And the association's **annual meeting of October 1974 was held in Montreal** — stated twice in the same issue, in the tributes to Van Wagner and to Charles Plewman.^8x Both are periods and events for which minutes would name Quebec camps and camp people.
 
@@ -796,7 +832,7 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 1. [Important, re-confirmed genuine dead end 2026-07-09] Who was Derek Walsh beyond his CCA connection? He received the CCA Award of Excellence in 1983 representing the ACQ, and the CCA fonds at Trent associates him with Kamp Kanawana/YMCA Montreal.^8m His specific role at Kanawana (director? program leader? committee member?) remains unknown despite 9 additional queries this session (web search, obituary databases, LinkedIn, BAnQ, alumni searches) — zero new biographical facts, reconfirming an existing 32+-query dead end. New corroborating context (not biography) was found instead: Walsh is separately named on the 1988-89 Kamp Kanawana Committee (see [[history/centennial-1994|The 1994 Centennial]]), extending his known Kanawana involvement beyond his 1974-75 directorship.
 2. [Important] Did any Kanawana directors attend OCA or CCA meetings or serve in leadership roles?
 3. [Important] How did Kanawana's programming compare to the Taylor Statten model? Both used woodcraft, Indigenous themes, and character development.
-4. [Partially resolved] The QCA/CCA organized a formal Camping School at McGill University from 1937 to 1940, one of the earliest camp leader training programs in Canada. A related "camping evening course" at McGill was held in 1952. No direct Kanawana staff participation has been confirmed, though the institutional overlap is strong. Arthur S. Lamb (1886-1958), a former Vancouver YMCA PE director and Springfield College graduate, directed McGill PE for 37 years (1919-1956) and established Canada's first university PE department — a key institutional bridge between YMCA and university training. McGill PE students attended a "Camp School" at Camp Nominingue (founded 1925) learning camping, paddling, portaging, and axe use in the 1940s-1950s.^8p A newly-identified, previously unflagged Concordia sub-series, P0145/12B05 ("Staff and Counsellors," Kamp Kanawana), is a plausible but untested lead for finding direct staff overlap — not yet examined (2026-07-09). No named individual confirmed on both sides of the connection so far (checked Camp Nominingue counsellor Marc Beique specifically — no Kanawana link found).
+4. [**Resolved on the connection question, 2026-09-06**; the Camping School half remains partially resolved] ~~No named individual confirmed on both sides of the Kanawana-Nominingue connection.~~ **Hay Finlay** — Kanawana's Senior Section Director in 1922 and co-founder of Camp Nominingue with F. M. Van Wagner in 1924-25 — is that individual, and the evidence for it was in this project's KB before this article's open question was last revised. See the section above. *The correction is recorded rather than quietly made: the question was not unanswered, it was unread.* The rest of the question stands. The QCA/CCA organized a formal Camping School at McGill University from 1937 to 1940, one of the earliest camp leader training programs in Canada. A related "camping evening course" at McGill was held in 1952. No direct Kanawana staff participation has been confirmed, though the institutional overlap is strong. Arthur S. Lamb (1886-1958), a former Vancouver YMCA PE director and Springfield College graduate, directed McGill PE for 37 years (1919-1956) and established Canada's first university PE department — a key institutional bridge between YMCA and university training. McGill PE students attended a "Camp School" at Camp Nominingue (founded 1925) learning camping, paddling, portaging, and axe use in the 1940s-1950s.^8p A newly-identified, previously unflagged Concordia sub-series, P0145/12B05 ("Staff and Counsellors," Kamp Kanawana), is a plausible but untested lead for finding direct staff overlap — not yet examined (2026-07-09). No named individual confirmed on both sides of the connection so far (checked Camp Nominingue counsellor Marc Beique specifically — no Kanawana link found).
 5. [Largely resolved 2026-07-09] What is in the OCA "Kanawana (1940)" brochure file at Trent? The file's precise physical location is now confirmed: Box 1, Folder 5 of the "Camp Brochures and Photographs" series (OCA fonds 72-007), alphabetically between "Glen Mohr" and "Kiawa." No content description exists online beyond this catalog entry — confirmed as a genuine physical-archive-access requirement, not an online research gap.
 6. [Partially resolved] Philip D. Fagans, executive secretary of Ernest Thompson Seton's Woodcraft League of America (headquartered at 13 West 29th St, NYC), visited Camp Kanawana in July 1918 as reported in the *Montreal Gazette* (July 11, 1918).^8q This is the earliest documented Woodcraft League connection. Fagans was previously a YMCA camp director at Trenton NJ and West Side YMCA NYC, and later founded Greenkill Camp in Kingston NY. A Woodcraft League charter cost $3.00 annually; it "certif[ied] that the Tribe is registered at Headquarters" and entitled the tribe to recognize achievements per the *Birch Bark Roll of Woodcraft* and wear League badges.^8q "Almost all [Woodcraft] tribes operated within the YMCA" — the YMCA was the primary institutional host for Woodcraft Indian tribes.^8q The League peaked at ~5,000 members in the 1920s-1930s and dissolved after Seton's death in 1946.^8q The 1923 Kanawana brochure mentions "a large Council Ring where woodcraft meetings are held" but does not explicitly reference the charter, possibly indicating the formal affiliation was being de-emphasized by 1923.^8q
 
@@ -904,6 +940,8 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 18. CBC News, "In the summers without summer camps, staff get creative to stay afloat" [src_cbc_bigcove_pandemic_summers]. **Not read directly**: cbc.ca returns HTTP 403 to the fetch tool while serving browsers, so this is known only through search-result summaries and is recorded in the source index as `unavailable`. See [f_4749].
 
 19. Armand B. Ball, *Basic Camp Management: An Introduction to Camp Administration* (Monterey, CA: Healthy Learning, 2012), "An American Camp Association book", Internet Archive scan leaf 436 [src_ball_basic_camp_management_2012]. **One sentence only**, reconstructed 2026-09-06 from seven overlapping Open Library search-inside queries and walked to a sentence boundary in both directions; the book is lending-restricted, page images return HTTP 403, and it has not been read. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-dlb-362-mclean-and-basic-camp-management.txt`. See [f_4950].
+
+20. *The McGill You Knew: An Anthology of Memories, 1920-1960* (Don Mills: Longman Canada, 1975), Internet Archive scan leaf 314 [src_mcgill_you_knew_1975]. **One passage only**, reconstructed 2026-09-06 from ten overlapping Open Library search-inside queries and walked to a chapter break; the book is lending-restricted, page images return HTTP 403, and it has not been read. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-mcgill-you-knew-hay-finlay.txt`. See [f_4959].
 
 ## Research Notes
 

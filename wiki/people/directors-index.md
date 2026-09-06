@@ -1,7 +1,7 @@
 # Directors and Staff of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 36*
-*Last Updated: 2026-09-06 (F.H. Spinney identified: a Montreal school principal who wrote a national column on teaching)*
+*Status: E1-reviewed | Sources: 38*
+*Last Updated: 2026-09-06 (F.H. Spinney and Hay Finlay both given careers, from a name sweep of this table itself)*
 
 ## Summary
 
@@ -102,7 +102,7 @@ These roles carried the title "Director" but reported to the Camp Director above
 | Director | Years | Section / Program | Notes | Source |
 |----------|-------|--------------------|-------|--------|
 | F.H. Spinney | ~1917-1922+ | Educational | Documented in his 5th year (1921) and teaching basketry (1922); overall director that era was Brandon (1921)/Ereaux (1922). **Principal of Alexandra School, Montreal, and a published writer on pedagogy** — see below | 1921/1922 brochures^3; *The School*^36 |
-| Hay Finlay | 1922 | Senior section | Ex-Central YMCA Boys' Physical Director, then at McGill Physical Education; overall director that year was Lemuel P. Ereaux | 1922 brochure^3 |
+| Hay Finlay | 1922 | Senior section | Ex-Central YMCA Boys' Physical Director, then at McGill Physical Education, where he was **gymnastics and soccer coach**; overall director that year was Lemuel P. Ereaux. **Co-founded Camp Nominingue with F. M. Van Wagner in 1924-25**, and was the Canadian Camping Association's Secretary-Treasurer in 1949 — see below | 1922 brochure^3; *Canadian Camping*^37; *The McGill You Knew*^38 |
 | Edwin M. Crawford | 1922 | Junior section | Ex-Westmount YMCA Boys' Work Secretary; overall director that year was Lemuel P. Ereaux | 1922 brochure^3 |
 | Allan B. Cornell | ~1918-1923+ | Educational | Held the Large K badge, the camp's highest honour award | Brochures^3, Gas Bag^7 |
 | Howard Ellis | 1923 | Junior | Boys' Physical Director, Central YMCA; overall director/"Camp Chief" that year was Philip G. Paterson | 1923 brochure^3 |
@@ -146,6 +146,10 @@ The 1921, 1922, and 1923 camp brochures and the 1923 *Gas Bag* reunion newslette
 *The identification, and what it rests on.* An uncommon surname with the same two initials, the same city, the same profession, and the exact fit of the role — Kanawana's **Educational** Director being a schoolmaster, and this one a schoolmaster who wrote a national column on how to teach. That is an identification by name, place and calling, not a documented link, and it is written here as such. The same volume was searched in full and **"Kanawana" does not appear in it once**. A different Mr. F. H. Spinney, of Hudson, New Hampshire, turns up in four Harvard College Observatory annual reports as a volunteer variable-star observer and accounts for a third of the hits on the bare name; he is not this man. Still unknown: Spinney's first name, his dates, and when he came to or left the camp beyond what the brochures imply. *The School* ran to 1935 and the later volumes are unsearched — and they cover every year of his known camp service.
 
 **1921 season.** Under director G.D. Brandon, the documented staff included H.H. Hart (Camp Doctor), F.H. Spinney (Educational Director), and Harry Smith (Chef).^3
+
+**Hay Finlay went from Kanawana's senior section to founding a camp of his own, and then to the national association.** This is the fullest career of any staff member in this table's early years, and every piece of it was already in this project's knowledge base before 2026-09-06 — what was missing was anyone putting the pieces beside each other. From the camp's 1922 brochure he is "ex-Central YMCA Boys' Physical Director, then at McGill Physical Education". *The McGill You Knew* (1975) gives the job precisely: **gymnastics and soccer coach**, named among the university's coaching staff of the period.^38 And *Canadian Camping* says twice, from both ends, that he and F. M. Van Wagner founded **Camp Nominingue** — G. H. Merrill in February 1963: "In the fall of 1924, Van and a McGill associate of his, Hay Finlay, decided that they would operate their own camp"; Anne Vail in 1954: "He was co-founder of this Camp with Hay Finlay in 1925."^37 By February 1949 Finlay was the **Canadian Camping Association's Secretary-Treasurer**, at 475 Pine Avenue West, Montreal.^37
+
+*The McGill You Knew* also describes what the camp became: "many students worked as counsellors in the summer… though a private venture, the camp was closely connected with the university by personal associations, and was known as '**Camp McGill**' to all the residents of the area."^38 See [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]], where this answers a standing open question. His first name is not in any source found; every one gives him as "Hay Finlay".
 
 **1922 season.** Under director Lemuel P. Ereaux, the documented staff included Hay Finlay (Senior Section Director; ex-Central YMCA Boys' Physical Director, then at McGill Physical Education), Edwin M. Crawford (Junior Section Director; ex-Westmount YMCA Boys' Work Secretary), F.H. Spinney (Educational Director), Harry Smith (Chef), and Johnston W. Abraham (Business Manager).^3
 
@@ -363,6 +367,9 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 29. "Kamp Kanawana History," presented at a Training Course, 6 June 1951 (Internet Archive) [src_ia_kanawana_history_1951].
 
 36. *The School: A Magazine Devoted to Elementary and Secondary Education*, vol. 1 (Toronto, 1912-13) [src_the_school_magazine_vol1_1912_13]. **Not lending-restricted**: the complete djvu text was downloaded and searched 2026-09-06, and "Kanawana" occurs zero times in it. Every occurrence of "Spinney" and "Alexandra" was read; the passages, the identification's grounds and the Harvard-observatory near miss are cached at `sources/cache/periodicals/1912-13-the-school-magazine-fh-spinney.txt`. See [f_4958].
+
+37. CCA, *Canadian Camping* magazine (1949-1988), digitized via Trent University Archives on the Internet Archive [src_ia_canadian_camping_collection]: the executive list of February 1949, Anne Vail's 1954 profile of F. M. Van Wagner, and G. H. Merrill's profile of February 1963. See [f_2476], [f_2641], [f_3039].
+38. *The McGill You Knew: An Anthology of Memories, 1920-1960* (Don Mills: Longman Canada, 1975), Internet Archive scan leaf 314 [src_mcgill_you_knew_1975]. **One passage only**, reconstructed 2026-09-06 from thirteen overlapping Open Library search-inside queries and walked to a chapter break; the book is lending-restricted, page images return HTTP 403, and it has not been read. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-mcgill-you-knew-hay-finlay.txt`. See [f_4959].
 
 ## Research Notes
 

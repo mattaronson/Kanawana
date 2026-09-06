@@ -5069,3 +5069,58 @@ names returned nothing usable — two returned literally nothing, and the third 
 hits about somebody else, which is worse than nothing because it costs reading. The fourth opened a
 periodical run. There is no way to tell in advance which is which, which is why the sweep has to be
 run rather than reasoned about.
+
+---
+
+## Phase 2 campaign — the name sweep found the answer this project already had (2026-09-06)
+
+**Topic.** Continuing p_430's name sweep. Nine names of the fifty-odd in `directors-index.md`.
+
+**Six of the nine are nulls or worse.** Ereaux 0, Cornell 0, Hanagan 0, Paterson 0, Brandon 0.
+Crawford returns sixty-five hits, every one an American university-relations officer of the 1980s
+and 90s. Holliday returns two hundred and forty-three, essentially all an Indianapolis art collector
+and a steel company. A common surname in a large corpus is worse than a null, because it costs
+reading. All of it is now in a log — `sources/cache/name-sweep/2026-09-06-directors-index-name-sweep.txt`
+— which is the authoritative record of which names have been run.
+
+**One is an open archival lead.** Johnston W. Abraham, Kanawana's Business Manager from about 1914,
+is named as the **provenance of a fonds at Library and Archives Canada, MG 28 (I 280)**, 1917-1978,
+in the *Union List of Manuscripts in Canadian Repositories*, supplement 1979-80. The collection's own
+name could not be recovered: the Union List is set in two columns, the OCR interleaves them, and six
+attempts to walk backwards to the heading ran into entries for the Sherbrooke and District University
+Women's Club on both sides. Nor is the identification confirmed. It is kept because it is a precise
+archival reference that a person with ordinary browser access resolves in one lookup, and this
+environment cannot.
+
+**And one found something this project had already found and not noticed.**
+
+`"Hay Finlay"` — Kanawana's Senior Section Director in 1922 — returns *The McGill You Knew: An
+Anthology of Memories, 1920-1960* (1975), which gives his job (**gymnastics and soccer coach**) and
+this sentence:
+
+> "In the off season, Van and Hay Finlay, the gymnastics and soccer coach, developed Camp Nominingue
+> in County Labelle, where many students worked as counsellors in the summer. Though a private
+> venture, the camp was closely connected with the university by personal associations, and was known
+> as 'Camp McGill' to all the residents of the area."
+
+Then, checking it against the KB before writing it up: **f_2641** (Anne Vail's 1954 profile: "He was
+co-founder of this Camp with Hay Finlay in 1925"), **f_3039** (G. H. Merrill, February 1963: "In the
+fall of 1924, Van and a McGill associate of his, Hay Finlay, decided that they would operate their
+own camp"), **f_2476** (CCA Secretary-Treasurer, February 1949). Both f_2641 and f_3039 say **in
+their own text** that the KB already held him as Kanawana's 1922 section director.
+
+Meanwhile `canadian-camping-movement.md`'s Open Question 4 has gone on saying, through several
+revisions and as recently as this week, that **"no named individual confirmed on both sides of the
+connection so far"**, and has recorded that Camp Nominingue's counsellor Marc Beique was checked
+specifically and produced nothing.
+
+**The question was not unanswered. It was unread.** The article and the knowledge base had never been
+run against each other on this point. The correction is written into the open question itself rather
+than made quietly, because a reader who watched that question stand for months is owed the reason it
+fell.
+
+**The lesson is the fifteenth rule, and this is its second demonstration in two days** — after the
+seventh split in the plaque index. *Use the knowledge base as a test of the articles, not only as a
+source for them.* Both times, the project already held the answer, in a fact whose own text said so.
+The cheapest research this project can do is not a new query. It is grepping its own KB for the
+subject of every open question in every article, which nobody has ever done systematically.

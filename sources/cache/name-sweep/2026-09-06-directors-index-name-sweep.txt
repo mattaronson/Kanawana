@@ -1,0 +1,105 @@
+NAME SWEEP LOG — Open Library search-inside, 2026-09-06
+=======================================================
+p_430 asks for the camp's PEOPLE to be run against the Internet Archive book corpus, and CLAUDE.md's
+Phase 2 mandate says to "log every search attempted and its result (even null results) so the same
+ground is not re-covered." This file is that log. It is the authoritative record of which names have
+been run; if a name is not here, it has not been swept.
+
+Method: bare-name phrase query against https://openlibrary.org/search/inside.json (contract at
+f_4933). Where a name returns many hits, they were read far enough to say whose they are.
+
+
+THE CAMP'S OWN NAME — ALTERNATIVE SPELLINGS
+--------------------------------------------
+  "Kanawana"        76 items   (swept earlier 2026-09-06; the enumeration is in p_430)
+  "Camp Kanawana"    8 items   (the phrase every earlier pass used, and the reason this was late)
+  "Kamp Kanawana"   13 items   ** TWO OF THEM IN NEITHER LIST ABOVE ** — the DLB entry on Stuart
+                               McLean (f_4949) and the American Camp Association textbook (f_4950)
+  "Kanawanna"        0
+  "Lac Kanawana"     0
+  "Kanawana, Que"    0
+  "Lake Kanawana"    1 item    — the Stuart McLean passage already read (f_4941)
+
+CONCLUSION: run BOTH "Kanawana" and "Kamp Kanawana". The other spellings are dead and need not be
+run again.
+
+
+PEOPLE — SWEPT 2026-09-06
+--------------------------
+
+  Lemuel P. Ereaux ........ 0 hits.  NULL.
+  Lemuel Ereaux ........... 0 hits.  NULL.
+  Allan B. Cornell ........ 0 hits.  NULL.
+  R.H. Hanagan ............ 0 hits.  NULL.
+  Philip G. Paterson ...... 0 hits.  NULL.
+  G.D. Brandon ............ 0 hits.  NULL.
+
+  Edwin M. Crawford ....... 65 hits, EVERY ONE an American university-relations officer of the 1980s
+                            and 90s (Auburn, Ohio State, CASE). None is Kanawana's 1922 Junior
+                            Section Director. A common name in a large corpus costs reading and
+                            returns nothing; do not re-run it bare.
+
+  W.J. Holliday ........... 243 hits, essentially all an Indianapolis art collector and an
+                            Indianapolis steel company of the same name. Do not re-run bare; pair
+                            with "Montreal" or "Y.M.C.A." if it is run again at all.
+
+  Johnston W. Abraham ..... 1 hit, AND IT IS AN OPEN LEAD, NOT A FINDING. The Union List of
+                            Manuscripts in Canadian Repositories, supplement 1979-1980 (Public
+                            Archives Canada, 1982), leaf 288: "... Annual reports, correspondence,
+                            membership lists, memorabilia and press clippings. Ref./Réf.: P.A.C.,
+                            MG 28 (I 280). Provenance: Johnston W. Abraham, DeWittville, Que."
+                            The fonds runs 1917-1978, 10 cm. THE COLLECTION'S NAME WAS NOT
+                            RECOVERED: the Union List is set in two columns, the OCR interleaves
+                            them, and six attempts to walk backwards to the heading ran into
+                            entries for the Sherbrooke and District University Women's Club on both
+                            sides. Nor is it established that this is Kanawana's Johnston W. Abraham
+                            (Business Manager from about 1914, documented in his ninth year in
+                            1922) rather than another man of the same name.
+                            WHY IT IS WORTH KEEPING ANYWAY: it is a precise archival reference at
+                            Library and Archives Canada — MG 28 (I 280) — which a person with
+                            ordinary browser access resolves in one lookup, and this environment
+                            cannot, the LAC gateway returning HTTP 403 (see p_428). Tracked there.
+
+  F. H. Spinney ........... 12 hits. FOUR are a different F. H. Spinney of Hudson, New Hampshire,
+                            a volunteer variable-star observer in Harvard College Observatory annual
+                            reports 1913-1916. ONE IS HIM: "School: a magazine devoted to elementary
+                            and secondary education", vol. 1 (Toronto, 1912-13) — "F. H. SPINNEY,
+                            Principal Alexandra School, Montreal", author of the eight-part column
+                            "In the Little Red Schoolhouse", with a second series commissioned.
+                            f_4958, and p_432 for the rest of that run.
+
+  Hay Finlay .............. 19 hits, four items. One is a 1769 Scottish tenant farmer ("HAY, FINLAY,
+                            joint tenant farmer in Easter Croftmartage"), one a comparative
+                            psychology study citing an unrelated pair of researchers. TWO ARE HIM:
+                            a McGill history (Nurmberg1970) which has McGill "engage Mr. Hay Finlay
+                            as the gymnastic coach", and "The McGill You Knew: An Anthology of
+                            Memories, 1920-1960" (1975), which gives him as gymnastics and soccer
+                            coach and has him and Van Wagner developing Camp Nominingue, "known as
+                            'Camp McGill' to all the residents of the area". f_4959.
+                            NOTE: the Nurmberg1970 item was NOT walked and may hold more.
+
+
+STILL TO SWEEP — the rest of directors-index.md and the committee chairmen
+---------------------------------------------------------------------------
+A. Ross Seaman · Alexandra Olshefsky · Bex Finnigan Reisler · Billy Ball · Carol Skinner ·
+Chris Adam · Dr. Amy Ornstein · Dr. James Orbinski · Dr. Karl Cernovich · Durga Chew-Bose ·
+Ernie Taylor · Harold C. Cross · Howard Ellis · Howie Langille · J. G. MacKinnon ·
+Jay Netherwood · Jeniene Phillips Birks · John Cleghorn · John Lummis · John Roy · Kevin Slezak ·
+Lorna McNeish · Lorne Hamilton · Lynne Robinson · Maria English · Marina Sharpe · Matt Hamerman ·
+Peter Goddard · Quinn Durand · Ralph Dawson · Reiko Webster · Richard Patten · Rick Cordi ·
+Ron McCallum · Sean Day · Tom Potts · Amy Thomson · Arleen Boyer · Audrey Dowse · Derek Walsh ·
+Gary White · Manuel Quiroga · Ross Bannerman · Greig Macdiarmid · Harry Smith · Reg Cowan ·
+H. H. Hart · Nelson McEwen · R. L. Charlton · O. N. H. Owens · James H. Turner · Leo J. Robitaille ·
+G. David Twynam · Bruce Netherwood · Murray B. Shantz · T. Duncan Patton · Hedley S. Dimock
+
+TWO PIECES OF ADVICE FROM THE SIX NAMES ALREADY RUN. Names that are common in English (Crawford,
+Holliday) return hundreds of hits about other people and should be paired with "Montreal",
+"Y.M.C.A." or "Kanawana" from the start. Names that are rare (Ereaux, Hanagan, Brandon with
+initials) return zero, and a zero here is a fact about a book corpus and not about the world — these
+men are in city directories, church records and newspapers that the Internet Archive's book
+collection does not contain.
+
+AND THE YIELD IS NOT PROPORTIONAL TO THE NAMES. Of the first nine names swept, six returned nothing
+usable, one returned an open archival lead, and two opened real biographies — one of which
+(Hay Finlay) turned out to answer a standing open question in another article using facts this
+project had already had for weeks. There is no way to tell in advance which is which.

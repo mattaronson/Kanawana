@@ -29449,7 +29449,25 @@
       "read_state": "partial",
       "read_state_basis": "NOT lending-restricted. The complete djvu text (1,671,490 bytes) was downloaded and searched 2026-09-06. 'Kanawana' occurs ZERO times in the volume. Every occurrence of 'Spinney' and 'Alexandra' was read and the relevant passages cached; the rest of the volume is unread.",
       "notes": "Gives Kamp Kanawana's Educational Director F. H. Spinney -- known here only from the 1921 and 1922 brochures, with no first name and no biography -- as PRINCIPAL OF ALEXANDRA (PUBLIC) SCHOOL, MONTREAL, and the author of a serial column 'In the Little Red Schoolhouse' running at least eight instalments in this national education journal, with a second series commissioned. A near miss worth keeping: a different 'Mr. F. H. Spinney' of Hudson, N.H., appears in four Harvard College Observatory annual reports as a variable-star observer. LATER VOLUMES OF THIS RUN, to 1935, ARE UNSEARCHED and cover every year of his Kanawana service. See f_4958."
+    },
+    {
+      "source_id": "src_mcgill_you_knew_1975",
+      "type": "oral_history",
+      "title": "The McGill You Knew: An Anthology of Memories, 1920-1960 (Longman Canada, 1975) — the Hay Finlay passage",
+      "date": "1975",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/isbn_0774700130",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-mcgill-you-knew-hay-finlay.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.95",
+      "reliability": "secondary",
+      "read_state": "snippet",
+      "read_state_basis": "LENDING-RESTRICTED; NOT READ. One passage on scan leaf 314, reconstructed 2026-09-06 from thirteen overlapping Open Library search-inside queries and walked to a chapter break. Page images return HTTP 403.",
+      "notes": "Found by running 'Hay Finlay' -- a name in this project's own directors-index.md -- against the book corpus. Gives Kanawana's 1922 Senior Section Director as McGILL'S GYMNASTICS AND SOCCER COACH, co-developing Camp Nominingue with Van Wagner, a camp 'known as Camp McGill to all the residents of the area' and staffed by McGill students. See f_4959."
     }
   ],
-  "source_count": 1636
+  "source_count": 1637
 }

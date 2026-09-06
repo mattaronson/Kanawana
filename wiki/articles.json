@@ -1651,7 +1651,8 @@
         "src_reportage_vecu_2007",
         "src_ymcakanawana_2005_handbook",
         "src_ia_canadian_camping_collection",
-        "src_the_school_magazine_vol1_1912_13"
+        "src_the_school_magazine_vol1_1912_13",
+        "src_mcgill_you_knew_1975"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -1690,7 +1691,7 @@
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 16169,
+      "word_count": 16562,
       "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article. | 2026-07-11: Added wiki-links to Gary White, David Leduc, Kate Taylor, Marie-Pierre Lacasse table rows and Related Articles, pointing to new standalone institutional-role-director articles. | 2026-07-11: Added wiki-links to Greig Macdiarmid, Francois Dauphin, Nicolas Garcia, Morgan Carter, Arleen Boyer, Justin Caldwell (Two-Tier Era + Staff by Era tables) and Matt/Dan Aronson (Related Articles), per the operator's revised C5 policy.",
       "tags": {
         "era": [
@@ -2477,9 +2478,10 @@
         "src_concordia_atom_12B05",
         "src_ia_canadian_camping_collection",
         "src_trent_oca_fonds_72_007",
-        "src_ball_basic_camp_management_2012"
+        "src_ball_basic_camp_management_2012",
+        "src_mcgill_you_knew_1975"
       ],
-      "open_questions": 6,
+      "open_questions": 5,
       "cross_links": [
         "canoe-trips",
         "centennial-1967",
@@ -2489,7 +2491,7 @@
         "sources-index"
       ],
       "file_id": null,
-      "word_count": 35203,
+      "word_count": 35771,
       "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
