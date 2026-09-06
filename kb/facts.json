@@ -1,8 +1,8 @@
 {
-  "version": "7.92",
-  "kb_version": "7.92",
+  "version": "7.93",
+  "kb_version": "7.93",
   "migrated_from": "3.3",
-  "fact_count": 5075,
+  "fact_count": 5076,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91545,6 +91545,23 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.92",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5114",
+      "category": "programs",
+      "date_ref": "1968",
+      "entities": [
+        "Montreal YMCA International Branch",
+        "R.S. Wilson"
+      ],
+      "claim": "THE 1968 FRENCH DAY CAMP GOT 126 CHILDREN INSTEAD OF 200, RAISED NOTHING FROM TEN APPROACHES, AND SAID SO. 'INTERNATIONAL Y.M.C.A. FRENCH DAY CAMP REPORT 1968', R. Wilson, Director -- the season report answering the proposal of 3 May (f_5113). Read end to end. THE MONEY FAILED COMPLETELY. 'The budget was based on the premise that SUPPORT WOULD BE FOUND FOR THE PROGRAM FROM OUTSIDE SOURCES, however, this proved to be OVERLY OPTIMISTIC, AND NO SUPPORT WAS FOUND. Approaches were made to the following organizations WITHOUT SUCCESS' -- and the report names all ten: the ST-JEAN-BAPTISTE SOCIETY, CLUB RICHELIEU DE MONTREAL, CLUB RICHELIEU DE MAISONNEUVE, the ROTARY CLUB OF MONTREAL, the OPTIMISTS CLUB, the CHEVALIERS DE COLOMB, the CHAMBRE DE COMMERCE DE MONTREAL, the BOARD OF TRADE, the MINISTERE DES AFFAIRES CULTURELLES DU QUEBEC and the INTER-SERVICE CLUBS COUNCIL. Applications ran from early March to late June. THE NUMBERS FELL SHORT AND THE REASON IS STATED. Against a target of 200: 'After a great deal of effort in promotion, THE REGISTRATION FOR THE FIRST PERIOD REACHED 73, giving us an average of 12 CHILDREN PER COUNSELLOR... THE SECOND PERIOD REGISTRATION WAS CONSIDERABLY LOWER (53). THIS WAS EXPECTED because in conversation with first period campers, IT WAS STATED MANY TIMES THAT THEY WANTED TO RETURN FOR THE SECOND PERIOD BUT WOULD NOT BE ABLE TO BECAUSE OF THE COST. While every effort was made through calls to parents of these children, to assure them that IN CASES OF NEED A REDUCED COST WOULD BE ARRIVED AT, many would-be campers did not re-register.' 126 in total. SIX CAMPERS IN THE FIRST PERIOD AND FIFTEEN IN THE SECOND were subsidised, 'varying amounts, from 2 or 3 dollars, TO THE FULL AMOUNT OF $12', plus small subsidies for trips and bus fares. The report's own verdict on that: 'while this subsidizing does permit some of the children who cannot afford it to participate, IT WILL NEVER BE COMPLETELY EFFECTIVE IN REACHING ALL THE PEOPLE WHO ARE UNABLE TO PAY.' THE METHOD, DESCRIBED PRECISELY: 'As in 1967, EACH DAY STARTED WITH APPROXIMATELY ONE HOUR OF FRENCH VOCABULARY WHICH WAS DESIGNED TO BE OF RELEVANCE TO THAT DAY'S ACTIVITIES. Then the children were encouraged to use their newly acquired vocabulary while taking part in the activity. THIS METHOD WAS EXTREMELY SUCCESSFUL in the increasing fluency and comprehension.' AND THE SAME FAILURE AS 1967, ADMITTED AGAIN AND TRACED TO ITS CONSEQUENCE: 'MUCH MORE DIFFICULT WAS THE ENFORCEMENT OF THE FRENCH ONLY RULE, in planning sessions, where the children were trying to plan the following day's program. Also THE TENDENCY OF THE CHILDREN TO ADDRESS EACH OTHER IN ENGLISH (OR SEVERAL OTHER LANGUAGES) was very hard to combat, and ALL THE COUNSELLORS REPORTED EXTREME DIFFICULTY in this area. As a result of these difficulties, it would have to be said that THE AMOUNT OF ACTUAL INVOLVEMENT OF MEMBERS IN PLANNING THEIR OWN PROGRAM WAS MUCH LESS THAN IS DESIRABLE, and while THE RESULTS OF THE FRENCH TESTS WERE EXCELLENT, much more can still be accomplished... IF THE CHILDREN CAN BE MOTIVATED TO KEEP TO THE FRENCH ONLY RULE.' The camp's small-group self-planning method and its French-only rule were pulling against each other, and the director wrote it down. TRAINING: five mornings and one evening in the week before camp, with 'an intensive series of skill sessions, and DISCUSSIONS ON CHILD DEVELOPMENT AND GROUP PROCESS'. WHERE THEY WENT: open-air pools, picnics on Mount Royal, Old Montreal, the Planetarium, Place Ville Marie, GRANBY ZOO, and 'A VISIT FOR EVERY CHILD TO MAN AND HIS WORLD ON PASSPORTS SUPPLIED BY THE CITY WELFARE DEPT.' THE TEST RESULTS THEMSELVES are in a second appendix which I have not transcribed; the report says they were excellent and the appendix is in the cached file for anyone who needs the numbers.",
+      "sources": [
+        "src_ymf_1968_french_day_camp_report"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.93",
       "added_by": "ralph_loop"
     }
   ]
