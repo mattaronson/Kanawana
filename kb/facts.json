@@ -1,8 +1,8 @@
 {
-  "version": "7.89",
-  "kb_version": "7.89",
+  "version": "7.91",
+  "kb_version": "7.91",
   "migrated_from": "3.3",
-  "fact_count": 5073,
+  "fact_count": 5074,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91512,6 +91512,22 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.89",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5112",
+      "category": "attendance",
+      "date_ref": "1974-1975",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "claim": "TWO PROBLEMS WITH THE 1974-75 ANNUAL REPORT, NEITHER OF WHICH THE EXISTING CORRECTION NOTICED. I re-read this volume without grepping first and it was already extracted -- meta/attendance-series.md quotes it and corrects it. RULE 35 AGAIN. But the re-read surfaced two things the correction did not address. (1) THE VOLUME NEVER STATES ITS YEAR-END MONTH. It calls itself 'Annual Report 1975' and refers to 'the Association's 1974-1975 fiscal year', and its financial summary heads its columns '1973/74 1974/75'. NOWHERE IN THE CACHED TEXT IS A MONTH GIVEN. The 31 May year-end for this era is established from the 1972-73 volume ('May 31, 1973') and the 1981-82 one ('MAY 31, 1982'), not from this one. THAT MATTERS, because attendance-series' correction concludes that this report's 475 belongs to the summer of 1975 -- and a fiscal year ending 31 May 1975 CANNOT CONTAIN THE SUMMER OF 1975. So either this volume reports a season that fell after its own fiscal close, or its year-end is not 31 May. THE CORRECTION ITSELF IS SOUND: the camp's own 1975 director's report says 'This summer, we worked with 475 different children', and 475 campers at 'an average of three weeks' is about 1,425 camper-weeks, which is far closer to 1975's 1,356 than to 1974's 1,264. I am not reopening it. I am recording that its consequence is unexplained and that this volume's year-end is UNVERIFIED. p_450. (2) 'SECOND HIGHEST REGISTRATION IN 25 YEARS' IS IMPOSSIBLE FOR CAMPER COUNTS AND NEARLY RIGHT FOR CAMPER-WEEKS. The report says: 'In spite of a general decline in resident camping across the country, Kamp Kanawana experienced ITS SECOND HIGHEST REGISTRATION IN 25 YEARS.' attendance-series quotes that phrase in its correction note without testing it. TEST IT ON CAMPER COUNTS: 475 is beaten in the 1950-1975 window by 622 (1969), 602 (1963), 590 (1962), 558 (1957), 528 (1958), 526 (1959), 523 (1956), 523 (1972) and 481 (1971) -- roughly tenth, not second. TEST IT ON CAMPER-WEEKS: 1,356 is beaten only by 1,613 (1969) and 1,442 (1970) among the weeks this table holds for that window, which makes it THIRD, and second if either of those two is outside whatever the report was counting. THE LIKELIEST READING IS THAT 'REGISTRATION' HERE MEANS CAMPER-WEEKS. THE REPORT DOES NOT SAY SO and this is arithmetic on figures assembled elsewhere in this project rather than anything the document states, so it is recorded as a reading and not adopted. What can be said flatly is that the claim is FALSE if it means different campers. || [AND TWO SMALLER RESULTS FROM THE SAME SWEEP OF THE MID-1970s VOLUMES. THE REPORT FOR 1973-74 IS A GREP NULL: 'kanawana' does not occur in its 23,664 characters. That is a fact about the string and this OCR, not about the volume, and it is recorded in the source record as 'swept' rather than read, so a later pass knows the difference. THE REPORT FOR 1976-77 MENTIONS KANAWANA TWICE, both the same item in the English and French columns, in a list of the year's undertakings: 'COMMENCEMENT OF THE PLANNING PROCESS FOR NEW FACILITIES AT KAMP KANAWANA' / 'Mise en marche de la planification des nouvelles installations au Kamp Kanawana'. No detail, no budget, no named facility. It sits four years after the completed all-season proposal of 1972-73 (f_5111) and two years before the Katimavik recreation hall opened in 1978 with a letter from Pierre Trudeau, which site/places-and-locations.md already dates. WHETHER THIS PLANNING PROCESS IS WHAT PRODUCED KATIMAVIK IS NOT STATED BY ANYTHING AND I AM NOT ASSERTING IT -- but the sequence proposal-1972, planning-1976, building-1978 is the shape to test against the camp's own reports for those years, which do survive.]",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1974_1975"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.90",
       "added_by": "ralph_loop"
     }
   ]

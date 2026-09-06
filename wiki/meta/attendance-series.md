@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 20*
+*Status: draft | Sources: 21*
 *Last Updated: 2026-09-06 (the 1916 fee and season, from a school magazine advertisement)*
 
 ## Overview
@@ -130,6 +130,8 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 
 **A caution on the 1998–2001 figures.** Those four-digit numbers are not comparable with the residential camper counts above them — the 1999-2000 report describes its 1,150 as ages "3–60," which means rentals and off-season use are included. The series breaks there. The 2022 and 2023 figures are residential camper counts again and *are* comparable with the twentieth-century rows.^3
 
+**On "second highest registration in 25 years."** The 1974-75 annual report's phrase is quoted above without being tested. It is false if "registration" means different campers: 475 is beaten in the 1950-1975 window by 622 (1969), 602 (1963), 590 (1962), 558 (1957), 528 (1958), 526 (1959), 523 (1956 and 1972) and 481 (1971) — about tenth, not second. It is very nearly right if it means **camper-weeks**: 1,356 is beaten only by 1,613 (1969) and 1,442 (1970) among the weeks this table holds for that window, which makes it third, and second if either of those falls outside whatever the report was counting. The report does not say which it means, and this is arithmetic on figures assembled elsewhere in this article rather than anything the document states, so the weeks reading is offered and not adopted. What can be said flatly is that the claim does not survive on camper counts.^21
+
 **"Started slowly" and "almost 500 enrolled by late May" sit oddly together.** The 1970 director's report says registration was slow and had to be pulled up by mailings; a Montreal YMCA news release of 28 May that year reports "a total of almost 500 boys and girls have been enrolled to spend part of this summer at Kamp Kanawana. Another 24 boys have been signed up for Les Voyageurs canoe adventures."^20 **A pre-registration count is not an attendance figure** and is not entered as one in the table — the row still carries no camper count. But the two statements come from the same association about the same season, and anyone using either should know the other exists. The Voyageurs' 24 is also the first figure for that programme since the 41s of 1966 and 1967.
 
 **Two figures for 1962, both from the association.** The statistical summary gives 590; a news release of 22 April 1963 gives 550 and calls it the highest enrolment the camp had seen.^19 They are forty apart and neither says what it is counting. The likeliest reconciliation is that they cut the population differently — the summary's own note distinguishes the city day camps — but since neither document defines its terms, both figures are shown and neither is preferred. The same release adds that **15 boys were assisted through the campership fund**, "replenished each year by contribution from interested friends of the Camp," and that Kanawana and Otoreke together took 2,097 people while the seven day camps and fun clubs took 1,928.
@@ -186,7 +188,7 @@ absence of assembly**: these documents had been mined for programme, staff and b
 attendance lines had never been carried across [f_4843, f_4844, f_4845, f_4846, f_4847, f_4848].
 
 **The correction.** This table carried **475 campers at 1974**, with the note "second highest
-registration in 25 years," taken from the YMCA of Montreal's annual report for 1974–1975. The camp's
+registration in 25 years," taken from the YMCA of Montreal's annual report for 1974–1975. *(Two things about that source were noticed only on a re-read, 2026-09-06, and neither disturbs the correction. First, **that volume never states its year-end month** — it calls itself "Annual Report 1975," refers to "the Association's 1974-1975 fiscal year," and heads its financial columns "1973/74 1974/75," but names no date. The 31 May year-end for this era is established from the 1972-73 and 1981-82 volumes, not this one; and a year ending 31 May 1975 could not contain the summer of 1975, so the correction's conclusion implies either that this report describes a season after its own fiscal close or that its year-end is not 31 May. Unresolved, and flagged under p_450. Second, see the note on "second highest" below.)*^21 The camp's
 own 1975 director's report says "This summer, we worked with 475 different children," and gives camper
 weeks of 1,356 for 1975 against 1,264 for 1974 and 1,276 for 1973 — so 475 is the **1975** figure, and
 1974 was the lower year of the two. The 475 has been moved and 1974 now carries its camper-week figure
@@ -339,6 +341,7 @@ Three things stand out and none of them is visible from any single article.
 18. YMCA of Montreal annual report for **1967** [src_cache_sgw_ymca_annual_report_1967], camping section. Read 2026-09-06 under p_441. See [f_5096].
 19. Montreal YMCA news release, **22 April 1963** [src_ymf_news_release_1963_04_22]. Cached at `sources/cache/ymca-montreal-fonds/news-release-1963-04-22.txt`; read 2026-09-06 under p_451. See [f_5105].
 20. Montreal YMCA news release, **28 May 1970** [src_ymf_p0145_news_release_1970_05_28]. Cached at `sources/cache/ymca-montreal-fonds/p0145-news-release-1970-05-28.txt`; read 2026-09-06 under p_451. See [f_5106].
+21. YMCA of Montreal annual report for the fiscal year **1974-1975** [src_ymf_sgw_ymca_annual_report_1974_1975]. **This volume never states its year-end month** — see [f_5112] and p_450. Re-read 2026-09-06.
 
 ## Research Notes
 
