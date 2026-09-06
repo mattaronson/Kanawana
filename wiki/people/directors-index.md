@@ -1,7 +1,7 @@
 # Directors and Staff of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 38*
-*Last Updated: 2026-09-06 (F.H. Spinney and Hay Finlay both given careers, from a name sweep of this table itself)*
+*Status: E1-reviewed | Sources: 39*
+*Last Updated: 2026-09-06 (Spinney and Finlay given careers; and the 1898 camp leadership, six named men, added from the 1899 report)*
 
 ## Summary
 
@@ -14,6 +14,8 @@ The title "Director" was applied at more than one level: the **Camp Director** (
 | Director | Years | Notes | Source |
 |----------|-------|-------|--------|
 | Billy Ball | 1894 | Led first organized trip to Lake Saint-Joseph; full name and role title unknown | YMCA Quebec website; QAHN |
+| A. MacKellar, C. B. Powter, A. R. Ross, W. H. Ball | 1898 (senior camp) | **"The camp was under the charge of the following: Messrs. A. MacKellar, C. B. Powter, A. R. Ross, and W. H. Ball."** The Permanent Camp Committee's own report, printed in the association's annual report for the year ending 30 April 1899 — the earliest named camp leadership after 1894, and **four men rather than one**. [[people/billy-ball\|W. H. Ball]] is the founder of 1894, still at the camp four years later. **C. B. Powter** ran the YMCA's camp four years before founding his own | YMCA Montreal Annual Report 1899^39 |
+| W. F. Chapman, C. S. Paterson | 1898 (junior camp) | "The camp was under the supervision of **W. F. Chapman and C. S. Paterson**, to whom much of the success of the camp is due." A separate junior camp, 23 June to 7 July 1898, twenty boys and five visitors on Dominion Day. **C. S. Paterson** also sat on the Permanent Camp Committee itself | YMCA Montreal Annual Report 1899^39 |
 | John Roy | 1901 | Earliest identified director by name; wrote letters from Camp Jubilee. Possibly (unconfirmed) the same person as "John W. Ross," credited as volunteer chairman of a mid-1890s Junior Department camp committee in the YMCA of Montreal's own annual reports -- see [[people/billy-ball|Billy Ball]] Open Question #8. | Concordia Archives 12L |
 | W. J. Holliday | 1908, **1910-1912?** | **Opened Kanawana, and the association says so in its own words.** The 1910 Annual Report announces the new site in the forward tense: "This camp will be under the charge of **Mr. W. J. Holliday, of the Central Branch**." Twenty-one years later the 1931 report, describing the camp's coming-of-age event, calls him "**W. J. HOLLIDAY, THE FIRST CAMP DIRECTOR**" — independent confirmation from the other end of the period. He had run the Junior Camp at Lac St. Joseph in 1908. How far past 1910 he continued is not stated. | YMCA Montreal Annual Reports 1909, 1910^30 |
 | D. J. Evans, [[people/harold-cross\|Harold Cross]], H. A. Lordly | 1913 | The 1914 report: the camp "was open for July and August with 162 boys, apart from visitors, **in charge of Messrs. D. J. Evans, Harold Cross, and H. A. Lordly for successive portions of the season**." Three men splitting one summer. **Note the date:** Cross running part of the 1913 season predates by more than a decade the c.1925-1928 directorship recorded for him below. | YMCA Montreal Annual Report 1914^30 |
@@ -271,7 +273,7 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 
 1. ~~[Critical] Who directed the camp during the 1947-2003 gap?~~ [Largely resolved] Oral history (2026-06-12) filled 1986-2003 completely. Peter Goddard now confirmed as Peter Gilling Goddard (1953-2016). Remaining gaps: 1947-1958 (between McEwen's departure and Seaman's arrival), and exact Goddard dates (~1981-1985?). McEwen's newly documented departure date of 1947 refines the post-war gap.
 2. [Critical, advanced 2026-07-09] Was Ralph Dawson a camp director or just a historian/alumnus? He was at Camp Jubilee in 1898 and wrote the 1933 history. McMorris's 2023 thesis (read as a full PDF for the first time this pass) characterizes him as "an alumnus" -- a lean toward "former camper who wrote the history," but her own inference from his manuscript, not a self-identification, so still not confirmed. No source names him on any committee or as a directorship holder.
-3. [Important] The Permanent Camp Committee minute book (1911-1926) in Concordia Archives should list directors by year.
+3. [Important, **partly answered from the printed reports 2026-09-06**] The Permanent Camp Committee minute book (1911-1926) in Concordia Archives should list directors by year — and the association's own *printed* annual reports already do it for the 1890s, which this question did not know. The report for the year ending 30 April 1899 names the committee itself ("**Chas. Cushing, Chairman. John W. Ross. W. E. Cushing. C. S. Paterson. F. L. Benedict**") and names the men in charge of both the 1898 senior and junior camps; they are now in the table above.^39 *The facts were added to this project's knowledge base on 2026-09-05 and this question went on asking for them for a day.* The minute book is still wanted for **1911-1926**, which the printed reports do not cover at this level of detail.
 4. [Important] Concordia sub-series 12B01 holds season reports — these would name directors for gap years.
 5. ~~[Important] Is "Greig Macdiarmid" (1935 History, Green Triangle) the same as "W.J.G. MacDiarmid" (McMorris)?~~ [Resolved] Yes — same person. "Greig" maps to the "G" initial in "W.J.G. MacDiarmid." McMorris uses the archival form "W.J.G. MacDiarmid" while primary camp documents use "Greig Macdiarmid."^1
 6. [Nice-to-have, largely resolved 2026-07-09] What was Lemuel Ereaux's full tenure? Re-read of the 1921 and 1922 brochures together shows Ereaux's only *documented directorship* year is 1922 (Brandon held 1921); "eleven summers" in the 1922 brochure describes his cumulative camp experience since roughly 1912, not eleven years as director. A possible identity (unconfirmed): "Lemuel Price Ereaux, MD" (1898-1967), memorialized in a 1968 dermatology-journal obituary — age fits, but full text is paywalled and no camp mention could be confirmed.
@@ -370,6 +372,8 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 
 37. CCA, *Canadian Camping* magazine (1949-1988), digitized via Trent University Archives on the Internet Archive [src_ia_canadian_camping_collection]: the executive list of February 1949, Anne Vail's 1954 profile of F. M. Van Wagner, and G. H. Merrill's profile of February 1963. See [f_2476], [f_2641], [f_3039].
 38. *The McGill You Knew: An Anthology of Memories, 1920-1960* (Don Mills: Longman Canada, 1975), Internet Archive scan leaf 314 [src_mcgill_you_knew_1975]. **One passage only**, reconstructed 2026-09-06 from thirteen overlapping Open Library search-inside queries and walked to a chapter break; the book is lending-restricted, page images return HTTP 403, and it has not been read. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-mcgill-you-knew-hay-finlay.txt`. See [f_4959].
+
+39. YMCA of Montreal, annual report for the year ending 30 April 1899, and the report for the year ending 30 April 1902 [src_ia_ymca_montreal_annual_reports_collection]. Read from the page images 2026-09-05. See [f_4908], [f_4911], [f_4913], [f_4915].
 
 ## Research Notes
 

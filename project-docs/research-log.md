@@ -5124,3 +5124,48 @@ seventh split in the plaque index. *Use the knowledge base as a test of the arti
 source for them.* Both times, the project already held the answer, in a fact whose own text said so.
 The cheapest research this project can do is not a new query. It is grepping its own KB for the
 subject of every open question in every article, which nobody has ever done systematically.
+
+---
+
+## Infrastructure — the check that would have caught it (2026-09-06)
+
+The Hay Finlay case, an hour old, was the second in two days where this project already held the
+answer to a question one of its own articles was still asking. So the check got written down.
+
+**`scripts/verify/oq_kb_cross.py`** (advisory, never fails a build). For each article with an
+`## Open Questions` section it pulls the proper-noun phrases out of that section, counts the KB
+facts whose claim contains each phrase, and reports the ones where facts exist and the article cites
+none of them. It drops the article's own subject, because an article about Camp Ouareau naturally
+names Camp Ouareau in its own questions; **a question about something the article is not about is
+the signal**.
+
+It is noisy — most rows are nothing, and a well-maintained article often incorporates a fact without
+citing its id. Two things make it usable anyway. The first is that the noise is cheap: reading twenty
+rows takes a minute. The second is `--since NNNN`, which drops every fact below a given id, so
+`--since 4900` reports only what *this session's own new facts* may have answered. That is the sharp
+mode and the one worth making routine at the end of a research burst.
+
+**It caught one on its first run.** `directors-index.md`'s Open Question 3 asked for the Permanent
+Camp Committee's minute book because it "should list directors by year". Facts f_4908, f_4911 and
+f_4913 — added the previous day, from the association's own *printed* annual report for the year
+ending 30 April 1899 — give the committee in full ("Chas. Cushing, Chairman. John W. Ross. W. E.
+Cushing. C. S. Paterson. F. L. Benedict") and name the men in charge of both 1898 camps:
+
+> "The camp was under the charge of the following: Messrs. **A. MacKellar, C. B. Powter, A. R. Ross,
+> and W. H. Ball**." — and for the juniors, "**W. F. Chapman and C. S. Paterson**".
+
+That is the earliest named camp leadership this project holds after 1894, and it is **four men, not
+one**, which is a different shape from the single founding "director" the table's first row implies.
+It also gives `billy-ball.md` something it did not have: **1898 is the only year in which a period
+document places W. H. Ball at the camp by name** — the 1894 founding is credited to him by the
+association's own later account, but no contemporary document names him on that trip.
+
+And it produced a useful negative for `ralph-dawson.md`, whose open question hoped the unread
+committee minute books would document his role: for 1898-99 the committee's membership is now known
+in print and **Dawson is not on it**, nor among the men running either camp. That fits McMorris's
+"alumnus" and turns the minute books into a test of the later years instead of these.
+
+**The general form.** This project's research effort has always gone outward — new sources, new
+queries, new surfaces. The cheapest research left is inward, and nobody had ever done it
+systematically: grep the knowledge base for the subject of every open question in every article. It
+is now one command.
