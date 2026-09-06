@@ -83,13 +83,51 @@ Ball or Powter to it. The connection is made entirely by the Montreal annual rep
 the four men, and this volume supplies only who three of them were in their day jobs — which is
 the whole of what it is being used for here.
 
-III. WHAT THE OTHER YEARS IN THIS SCAN ADD
-==========================================
-1896, 1897, 1899 and 1900 are all years this project already holds from other scans, so they were
-not re-read. They are worth knowing about as INDEPENDENT SECOND COPIES: where the 1899 and 1900
-readings above rest on `yearbookyoungme01commgoog`, whose 1900 alphabetical list is OCR-ruined,
-this scan carries the same two volumes again and may be legible where that one is not. Not
-checked. Queued.
+III. THE 1900 VOLUME IN THIS SCAN IS LEGIBLE WHERE THE OTHER COPY IS NOT
+=======================================================================
+[This section first said the other four volumes were "not checked. Queued." The 1900 one was
+checked within the hour, because the point of noticing a second copy is to use it.]
+
+1896, 1897 and 1899 are years this project holds from other scans and were not re-read. THE 1900
+VOLUME WAS, and it earns its place: the copy in `yearbookyoungme01commgoog` has its alphabetical
+list of paid officers OCR-ruined, and this one does not. The Montreal entries, scan lines
+173,676-174,765, with the years of entry into Association work:
+
+    *Ball, W. IL, Montreal, Ph. Dir., 89          [W. H. BALL, Physical Director, entered 1889]
+    Budge, D. A., Montr^, Sec., 74                [entered 1874]
+    Burgess, F. E., Montreal, Asst., 99           [entered 1899]
+    Calhoun, C. K., Moutreal, Asst., w            [entry year illegible]
+    Morrison^. S., MontraO, RR. Sec., SS          [F. S. MORRISON, Railroad Sec., 93]
+    Roy, John, Montreid, Asst, 99                 [entered 1899]
+
+And the branch directory in this copy, at line 170,555, agrees with the other one throughout:
+Budge, Calhoun, "F. B. Bareeas", John Roy, "W. H. Ball. Jr." as Physical Director, Junior Dept.
+blank, Morrison on Railroad, McGill blank.
+
+TWO THINGS THIS SETTLES THAT WERE DELIBERATELY LEFT OPEN AN HOUR AGO.
+
+**The assistant is F. E. BURGESS.** The other scan gave his surname two irreconcilable ways --
+"F. E. Buruess" in the directory, "Burgeoii, F. B." in the alphabetical list -- and the file for
+it says "Burness? Burgess? Bourgeois? ... The name is left unresolved here rather than picked."
+It did not need picking; it needed a better scan.
+
+**E. G. RANDAL WENT TO TAUNTON, MASSACHUSETTS.** This list prints, at line 174,706:
+
+    ^Randal, E. G., Taunton, Mass., Sec., 93
+
+Against the 1899 Montreal entry, "♦Randal E. G., Montreal Ed. Dir., 93": the same initials, the
+SAME YEAR OF ENTRY INTO ASSOCIATION WORK, and the same star marking a man who took a
+training-school course. Three matching fields, not a surname alone. Montreal's Educational
+Director left in or after 1899 and was General Secretary at Taunton by 1900.
+
+The ruined scan had rendered this "E. O. Randal" at a place called "TaustoD", and the note
+written from it said the identification "is NOT established and must not be written as though it
+were." That was the right call on that evidence and it is superseded rather than deleted.
+
+THE METHOD POINT, which is the general one: A VOLUME IN THIS SERIES MAY BE BOUND INTO MORE THAN
+ONE SCAN, AND WHERE ONE SCAN'S OCR FAILS THE OTHER'S MAY NOT. Before recording that a roster is
+lost, check whether the same year exists in another item. Twice today a claim of illegibility has
+turned out to be a claim about one particular copy or one particular section of it.
 
 IV. "KANAWANA" IN THE 1898 VOLUME
 =================================

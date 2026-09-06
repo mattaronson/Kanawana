@@ -1,8 +1,8 @@
 {
-  "version": "7.08",
-  "kb_version": "7.08",
+  "version": "7.09",
+  "kb_version": "7.09",
   "migrated_from": "3.3",
-  "fact_count": 4943,
+  "fact_count": 4944,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88834,7 +88834,7 @@
         "YMCA of Montreal",
         "McGill University"
       ],
-      "claim": "THE MONTREAL YMCA'S PAID STAFF FOR 1900, AND W. H. BALL IS STILL PHYSICAL DIRECTOR. The 1900 Year Book's Quebec branch directory prints: 'Montreal / D A. Budge / Asst., C. K. Calhoun / Asst., F. E. Buruess / Asst., John Hoy / Phys. Director, W. H. Ball. Jr. / Junior Dept., [no name] / R.R. Dept., F. S. Morrison / McGill University.... [no name]'. Read against the 1899 volume: 'John Hoy' is JOHN ROY and 'F. E. Buruess' is an assistant the alphabetical list gives as 'Burgeoii, F. B., Montreal, Ant., 99' -- the same man in both, with BOTH his initials and his surname uncertain in the OCR (Burness? Burgess? Bourgeois?), entering Association work in 1899. FOUR CHANGES FROM 1899, all read off the directory itself: W. H. BALL, JR. IS STILL PHYSICAL DIRECTOR, so his departure from the post is now bounded to 1901-1905 rather than 1900-1905, the 1906 volume having J. E. Merritt in it. E. G. RANDAL IS GONE and Montreal has NO Educational Director line at all in 1900 -- so his tenure there is bounded to at most 1893-1899 and his post lapsed after him. F. A. CROWE IS GONE from the Junior Department, whose line is printed with no name against it. And A. H. GRACE IS GONE from McGill University, likewise printed blank. A SEPARATE AND WEAKER TRACE, recorded as a lead and not a finding: the same 1900 volume lists a Randal, initials rendered 'E. O.', as general secretary of an association whose city the OCR gives as 'TaustoD' -- plausibly Taunton, Massachusetts, though the surrounding city names are not in an order that confirms it. Whether that is Montreal's E. G. Randal moving to a new post is NOT established and must not be written as though it were.",
+      "claim": "THE MONTREAL YMCA'S PAID STAFF FOR 1900, AND W. H. BALL IS STILL PHYSICAL DIRECTOR. The 1900 Year Book's Quebec branch directory prints: 'Montreal / D A. Budge / Asst., C. K. Calhoun / Asst., F. E. Buruess / Asst., John Hoy / Phys. Director, W. H. Ball. Jr. / Junior Dept., [no name] / R.R. Dept., F. S. Morrison / McGill University.... [no name]'. Read against the 1899 volume: 'John Hoy' is JOHN ROY and 'F. E. Buruess' is F. E. BURGESS. [UPDATED 2026-09-06, same hour: this fact left the name open -- 'BOTH his initials and his surname uncertain in the OCR (Burness? Burgess? Bourgeois?)'. A SECOND, CLEANER SCAN OF THE SAME 1900 VOLUME, bound into ymcayearbookand00assogoog, settles it: 'Burgess, F. E., Montreal, Asst., 99'. See f_4982.] He entered Association work in 1899. FOUR CHANGES FROM 1899, all read off the directory itself: W. H. BALL, JR. IS STILL PHYSICAL DIRECTOR, so his departure from the post is now bounded to 1901-1905 rather than 1900-1905, the 1906 volume having J. E. Merritt in it. E. G. RANDAL IS GONE and Montreal has NO Educational Director line at all in 1900 -- so his tenure there is bounded to at most 1893-1899 and his post lapsed after him. F. A. CROWE IS GONE from the Junior Department, whose line is printed with no name against it. And A. H. GRACE IS GONE from McGill University, likewise printed blank. AND E. G. RANDAL WENT TO TAUNTON, MASSACHUSETTS. [UPDATED 2026-09-06, same hour. This fact recorded that as 'A SEPARATE AND WEAKER TRACE... a Randal, initials rendered E. O., as general secretary of an association whose city the OCR gives as TaustoD -- plausibly Taunton, Massachusetts... Whether that is Montreal's E. G. Randal moving to a new post is NOT established and must not be written as though it were.' The caution was right and the second scan removes it.] The cleaner copy prints '*Randal, E. G., Taunton, Mass., Sec., 93' -- the same initials, the same year of entry into Association work (93) as the 1899 Montreal entry '*Randal E. G., Montreal Ed. Dir., 93', and the same star marking a training-school man. Three matching fields, not a name alone. So Montreal's Educational Director left in or after 1899 and was General Secretary at Taunton, Massachusetts, by 1900. See f_4982.",
       "sources": [
         "src_ymca_yearbook_1900"
       ],
@@ -88883,6 +88883,30 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.08",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4982",
+      "category": "people",
+      "date_ref": "1900",
+      "entities": [
+        "E. G. Randal",
+        "F. E. Burgess",
+        "W. H. Ball, Jr.",
+        "D. A. Budge",
+        "C. K. Calhoun",
+        "John Roy",
+        "F. S. Morrison",
+        "YMCA of Montreal",
+        "Taunton, Massachusetts"
+      ],
+      "claim": "A SECOND, CLEANER SCAN OF THE 1900 YEAR BOOK RECOVERS THE ENTRY YEARS THAT THE FIRST ONE'S OCR HAD DESTROYED -- AND SAYS WHERE THE EDUCATIONAL DIRECTOR WENT. The 1900 volume is bound into TWO Internet Archive items: yearbookyoungme01commgoog, whose alphabetical list of paid officers is OCR-ruined, and ymcayearbookand00assogoog, whose is legible. From the legible one, the Montreal entries with their years of entry into Association work: '*Ball, W. H., Montreal, Ph. Dir., 89'; 'Budge, D. A., Montreal, Sec., 74'; 'Burgess, F. E., Montreal, Asst., 99'; 'Calhoun, C. K., Montreal, Asst.'; 'Morrison, F. S., Montreal, RR. Sec., 93'; 'Roy, John, Montreal, Asst., 99'. TWO THINGS THIS SETTLES THAT WERE DELIBERATELY LEFT OPEN AN HOUR EARLIER. FIRST, the assistant whose surname the other scan gave two irreconcilable ways ('F. E. Buruess' in the directory, 'Burgeoii, F. B.' in the alphabetical list) is F. E. BURGESS, entered 1899. SECOND, AND BETTER: the same list prints '*Randal, E. G., Taunton, Mass., Sec., 93'. That is the same initials, the same year of entry (93) as the 1899 Montreal entry '*Randal E. G., Montreal Ed. Dir., 93', and the same star marking a man who took a training-school course -- three matching fields rather than a surname alone. MONTREAL'S EDUCATIONAL DIRECTOR LEFT IN OR AFTER 1899 AND WAS GENERAL SECRETARY AT TAUNTON, MASSACHUSETTS, BY 1900. The weaker reading recorded earlier from the ruined scan, which had his initials as 'E. O.' and his city as 'TaustoD' and refused the identification, was right to refuse it and is now superseded rather than deleted. THE METHOD POINT: a volume in this series may be bound into more than one scan, and where one scan's OCR fails the other's may not. Before recording that a roster is lost, check whether the same year exists in another item.",
+      "sources": [
+        "src_ymca_yearbook_1900_second_copy"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.09",
       "added_by": "ralph_loop"
     }
   ]

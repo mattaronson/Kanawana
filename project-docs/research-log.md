@@ -5691,3 +5691,26 @@ for a second 1898, none confirmed against the signature. 1881-82 is confirmed an
 remaining holes are **1901-1905 and 1909-1920**. And the 1900 volume bound into this same scan is
 an independent second copy of the one whose alphabetical list is OCR-ruined — worth reading
 before concluding the 1900 entry years are lost.
+
+### And the same scan's 1900 volume settles two things the other copy could not
+
+Having noticed that `ymcayearbookand00assogoog` carries 1900 as well, I read it rather than
+leaving it queued — the point of noticing a second copy is to use it. Its alphabetical list of
+paid officers is legible where `yearbookyoungme01commgoog`'s is ruined.
+
+**The assistant is F. E. Burgess.** The ruined copy gave his surname two irreconcilable ways,
+"F. E. Buruess" in the directory and "Burgeoii, F. B." in the alphabetical list, and the note
+written from it said Burness, Burgess or Bourgeois and left it unpicked. It did not need picking.
+
+**E. G. Randal went to Taunton, Massachusetts.** The clean list prints "*Randal, E. G., Taunton,
+Mass., Sec., 93" — the same initials as Montreal's Educational Director, the same year of entry
+into Association work, and the same star marking a training-school man. Three matching fields, not
+a surname alone. He left Montreal in or after 1899 and was General Secretary at Taunton by 1900.
+The ruined copy had that as "E. O. Randal" at a place called "TaustoD" and the identification was
+refused, correctly, on that evidence.
+
+The general point, and it has now been the answer twice in an hour: **a volume in this series may
+be bound into more than one scan, and where one scan's OCR fails the other's may not.** Before
+recording that a roster is lost, check whether the same year exists in another item. Both times
+today, "this cannot be read" turned out to mean "this copy, or this section of it, cannot be
+read".

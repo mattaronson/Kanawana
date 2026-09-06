@@ -29809,7 +29809,25 @@
       "read_state": "partial",
       "read_state_basis": "NOT lending-restricted. FIVE ANNUAL VOLUMES ARE BOUND IN INTERNET ARCHIVE ITEM ymcayearbookand00assogoog -- 1896, 1897, 1898, 1899 and 1900, each with its own title page -- and the catalogue record names only 1896. The full djvu text was downloaded 2026-09-06 under p_435, the volume boundaries found by scanning the whole text for title pages, and the 1898 volume's Quebec branch directory read. 'Kanawana' occurs zero times in the 1898 volume. The 1896, 1897, 1899 and 1900 volumes bound in the same scan were NOT re-read -- this project holds those years from other scans -- though they stand as independent second copies and may be legible where those are not. Nothing else in the item is read.",
       "notes": "THE MONTREAL ASSOCIATION'S PAID STAFF FOR 1898, filling the last year of the 1898-1905 hole that had not been reached: D. A. Budge, General Secretary; C. K. Calhoun, Assistant; ARCHIBALD McKELLAR, Assistant; W. H. BALL, JR., Physical Director; C. B. POWTER, Assistant Physical Director; A. H. Grace at McGill University. THE FINDING: the Permanent Camp Committee's report in the Montreal annual report for the year ending 30 April 1899 names the 1898 senior camp's leaders as 'Messrs. A. MacKellar, C. B. Powter, A. R. Ross, and W. H. Ball' (f_4911, f_4913). THIS VOLUME GIVES THE FIRST OF THEM A FIRST NAME AND A JOB -- Archibald McKellar, Assistant Secretary of the Montreal YMCA -- and he appears in EXACTLY ONE of the five volumes in this scan, 1898, the same year the report puts him in charge of the camp. Three of the four camp leaders are in the same eight-line block of the directory; the fourth, A. R. Ross, is absent, consistent with the established pattern that the camp's volunteers and seasonal staff are systematically not in this series (f_4966). This volume has no alphabetical list with years of entry -- that begins in 1899 -- so no entry dates are available for 1898. See f_4980."
+    },
+    {
+      "source_id": "src_ymca_yearbook_1900_second_copy",
+      "type": "periodical",
+      "title": "Year Book of the Young Men's Christian Associations of North America, for the Year 1900 — the second, legible scan",
+      "date": "1900",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/ymcayearbookand00assogoog",
+      "cache_path": "sources/cache/ymca-yearbooks/1898-ymca-year-book-montreal-roster.txt",
+      "char_count": 2301751,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "7.09",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "NOT lending-restricted. The 1900 volume is the fifth of five bound into Internet Archive item ymcayearbookand00assogoog (scan line 165,312 onwards), whose catalogue record names only 1896. Downloaded and searched 2026-09-06 under p_435. THE MONTREAL BLOCK OF THE ALPHABETICAL LIST OF PAID OFFICERS WAS READ, WITH THE YEARS OF ENTRY -- which is why this record exists separately from src_ymca_yearbook_1900: the same volume in the other scan (yearbookyoungme01commgoog) has that list OCR-ruined, and this copy does not. The branch directory here was also read and agrees with the other copy. Nothing else is read.",
+      "notes": "REGISTERED AS A SECOND COPY BECAUSE IT SUCCEEDS WHERE THE FIRST FAILS. The Montreal entries: '*Ball, W. H., Montreal, Ph. Dir., 89'; 'Budge, D. A., Montreal, Sec., 74'; 'Burgess, F. E., Montreal, Asst., 99'; 'Calhoun, C. K., Montreal, Asst.'; 'Morrison, F. S., Montreal, RR. Sec., 93'; 'Roy, John, Montreal, Asst., 99'. TWO RESOLUTIONS. The assistant whose surname the other scan gave as both 'Buruess' and 'Burgeoii' is F. E. BURGESS. And the list prints '*Randal, E. G., Taunton, Mass., Sec., 93' -- same initials, same entry year, same training-school star as the 1899 Montreal Educational Director -- so E. G. RANDAL LEFT MONTREAL AND WAS GENERAL SECRETARY AT TAUNTON, MASSACHUSETTS, BY 1900. The other scan's ruined OCR had rendered that 'E. O. Randal' at 'TaustoD' and the identification was correctly refused at the time. METHOD: a volume in this series may be bound into more than one scan, and where one scan's OCR fails the other's may not -- check before recording a roster as lost. See f_4982."
     }
   ],
-  "source_count": 1656
+  "source_count": 1657
 }
