@@ -27430,9 +27430,9 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "read_state": "unread",
-      "read_state_basis": "none: catalogued 2026-09-02 from a cached file that belonged to no source record",
-      "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read. | 2026-09-06 (p_449): searched for 'nationalit' and 'racial'; the hits are Eastern Branch membership counts, not camp records (f_5069). A SEARCH, NOT A READ -- read_state unchanged."
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_441: the camps section (Kanawana, Becsies, Otoreke) read closely (f_5070, f_5071); the rest of the report is NOT read",
+      "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read. | 2026-09-06 (p_449): searched for 'nationalit' and 'racial'; the hits are Eastern Branch membership counts, not camp records (f_5069). A SEARCH, NOT A READ -- read_state unchanged. | 2026-09-06 (p_441): PARTIAL -- the camps section. These reports run to 31 March, so the camping season is the previous summer. NOTE THE SPELLING: the site is 'Becscies' in these volumes, which a grep for 'Becsies' or 'Beescies' does not find."
     },
     {
       "source_id": "src_cache_sgw_ymca_annual_report_1934",
@@ -27448,9 +27448,9 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "read_state": "unread",
-      "read_state_basis": "none: catalogued 2026-09-02 from a cached file that belonged to no source record",
-      "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read."
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_441: the camps section (Kanawana, Becsies, Otoreke) read closely (f_5070, f_5071); the rest of the report is NOT read",
+      "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read. | 2026-09-06 (p_441): PARTIAL -- the camps section. These reports run to 31 March, so the camping season is the previous summer. NOTE THE SPELLING: the site is 'Becscies' in these volumes, which a grep for 'Becsies' or 'Beescies' does not find."
     },
     {
       "source_id": "src_cache_sgw_ymca_annual_report_1935",
@@ -27466,9 +27466,9 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "read_state": "unread",
-      "read_state_basis": "none: catalogued 2026-09-02 from a cached file that belonged to no source record",
-      "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read."
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_441: the camps section (Kanawana, Becsies, Otoreke) read closely (f_5070, f_5071); the rest of the report is NOT read",
+      "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read. | 2026-09-06 (p_441): PARTIAL -- the camps section. These reports run to 31 March, so the camping season is the previous summer. NOTE THE SPELLING: the site is 'Becscies' in these volumes, which a grep for 'Becsies' or 'Beescies' does not find."
     },
     {
       "source_id": "src_cache_sgw_ymca_annual_report_1936",
@@ -27484,9 +27484,9 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "read_state": "unread",
-      "read_state_basis": "none: catalogued 2026-09-02 from a cached file that belonged to no source record",
-      "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read."
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_441: the camps section (Kanawana, Becsies, Otoreke) read closely (f_5070, f_5071); the rest of the report is NOT read",
+      "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read. | 2026-09-06 (p_441): PARTIAL -- the camps section. These reports run to 31 March, so the camping season is the previous summer. NOTE THE SPELLING: the site is 'Becscies' in these volumes, which a grep for 'Becsies' or 'Beescies' does not find."
     },
     {
       "source_id": "src_cache_sgw_ymca_annual_report_1937",

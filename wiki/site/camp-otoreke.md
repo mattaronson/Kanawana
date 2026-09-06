@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 31*
+*Status: E1-reviewed | Sources: 32*
 *Last Updated: 2026-09-06 (Otoreke had its own camp song, and it was borrowed too)*
 
 ## Overview
@@ -117,6 +117,39 @@ Camp Otoreke remained an active YMCA facility through the mid-twentieth century.
 The Concordia Archives hold dedicated Camp Otoreke records in sub-series P0145/12C, including situation reports (1977-1980) that profiled Otoreke alongside Kanawana and Camp Weredale as part of the YMCA's camping operations.^4 The sub-series is organized into seven sub-sub-series: 12C01 (General administration), 12C02 (Financial administration), 12C03 (Land/facilities/equipment/supplies), 12C04 (Communications), 12C05 (Staff/counsellors), 12C06 (Campers), 12C07 (Program).^4 The finding aid confirms the *existence*, though not the online content, of 1982 revenue/expenditure and tax-status records within 12C02 -- suggesting the closure year's finances were documented, though only a physical archive visit can retrieve them.^4
 
 Two cataloguing ambiguities surfaced in 2026-07-09 research, both unresolved without a physical visit: (1) two separate 1967 catalog entries — "Report of the Boys' and Girls' Camping Committee to the Metropolitan Planning and Development Committee of the YMCA of Montreal" (Box HA1881) and "Camp Otoreke report — Planning and Development" (Box HA2367) — may be the same document cross-referenced or two distinct related documents; (2) W.E. Cushing's 1943 manuscript appears under two variant titles/locations, "Early Days at Lake St. Joseph" (Box HA1881) and the previously-cited "Historical sketches — Lake St. Joseph" (Box HA2307) — possibly the same manuscript catalogued twice, or two distinct short pieces.^4
+
+### 1935: the camp goes coeducational, and the staff proposed it
+
+By the mid-1930s Otoreke was emptying, and the association said so: "**For several years past the
+attendance of young men at Otoreke has steadily declined**, and the question of what might be done
+to make greater use of the three beautiful islands in the Laurentians comprising our camp site has
+been given very careful consideration. It has been apparent that the camp, however effective in past
+years, **does not attract the interest and support of an adequate number of young men today**."^32
+
+The remedy came from below: "**From the young men members and the staff came the suggestion that the
+Association should experiment in running the camp for not only young men but also young women and
+married couples.** In view of the successful experience of several other Associations in conducting
+this kind of camp, and because of the decreasing attendance at our own camp in recent years, it was
+decided to make the change."^32
+
+And it worked. After the summer of 1935, "it was the unanimous conclusion of those who attended or
+visited the camp that the experiment was a success… **One hundred and fifteen young men and women
+attended** for periods varying from a week-end to two weeks, this being an **increase of 53% over
+the previous year**. The programme proved more interesting and attracted the participation of
+campers in a way not achieved for many years." The camp ran "under the leadership of Mr. **C. J.
+McGerrigle** of North Branch with **Mrs. McGerrigle** acting as hostess" — the same McGerrigle who a
+decade later helped choose the ski lodge site at Christieville.^32
+
+**This matters beyond Otoreke.** This wiki treats coeducation as a Kanawana question of the late
+1960s and 1970s. The same association had been running a coeducational camp since 1935, on the very
+islands Kanawana came from.
+
+*Two seasons earlier*, in the summer of 1933, Otoreke ran six weeks from 8 July under shared
+secretarial responsibility — "Messrs. **George Porteous** of the North Branch and **Harold E.
+Smith** of the Mount Royal Avenue Branch, **who gave up part of their holidays** to render this
+service" — with attendance of **128 camper weeks** and a surplus of $11.00.^32 Porteous had been
+Kanawana's Chief Director in 1929; see [[people/directors-index|Directors and Staff of Camp
+Kanawana]].
 
 ### The 1928 season in figures
 
@@ -565,6 +598,7 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 29. "Come to Kanawana" brochure, 1928 season, YMCA of Montreal fonds [src_ymf_1928_come_to_kanawana_brochure]. See [f_5031].
 30. "The Otoreke YMCA Ski Lodge: A Review", internal paper of the 1961-62 winter, YMCA of Montreal fonds [src_ymf_1961_the_otoreke_ymca_ski_lodge_a_review]. Cached at `sources/cache/ymca-montreal-fonds/1961-the-otoreke-ymca-ski-lodge-a-review.txt`. See [f_5040], [f_5041] and [f_5042]. Read whole 2026-09-06 under p_441. **The scan damages numerals badly** — it renders 4 as *h* and confuses 3 with 5 — so several figures in the income series and the capital table are given here only where unambiguous, and the damaged ones are flagged in the facts rather than reconstructed.
 31. YMCA of Montreal, 78th Annual Report, for the year ending 31 March 1929 [src_ymf_sgw_ymca_annual_report_1929] — camping season the summer of **1928**. See [f_5066].
+32. YMCA of Montreal annual reports for the years ending 31 March **1934** and **1936** [src_cache_sgw_ymca_annual_report_1934, src_cache_sgw_ymca_annual_report_1936] — camping seasons 1933 and 1935. See [f_5071].
 
 ## Research Notes
 

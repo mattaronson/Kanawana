@@ -1,6 +1,6 @@
 # Camp Becsies
 
-*Status: E1-reviewed | Sources: 11*
+*Status: E1-reviewed | Sources: 12*
 *Last Updated: 2026-09-06 (the founding decision, dated 1928 and reasoned)*
 
 ## Overview
@@ -16,6 +16,28 @@ The lake's coordinates (~45°51'12"N, 74°12'53"W) place it approximately 1.5 km
 A limerick in the *Green Triangle* (July 29, 1938) mentions a staff member Wallace who "found at Leke Becsies his solace," confirming that Kanawana staff knew Camp Becsies as a nearby location — consistent with a ~1.5 km walk through the woods.^4
 
 ## First Period: Youth Camp (1929-1936)
+
+**What was built, and what it was for.** The report for the year ending 31 March 1930 — the site's
+first season — records "the building of a wharf, a new dining pavilion, four new tent floors, and
+the digging of a well," and states the purpose: "**This camp will form a valuable annex to the main
+camp for 'peak' periods and also for overnight and short term out-trips.**"^12 The same season built
+a craft shop at Kanawana "to provide additional scope to the interest displayed in last year's
+experiment in carpentry instruction," and the two together cost **$2,258.00** in capital against a
+season surplus of $201.00.
+
+**And within four years the annex had been handed to an orphanage.** The report for the summer of
+1933: "The Protestant Orphans' Home was given **the free use of our auxiliary camp equipment at Lac
+Becscies** and was greatly helped in its work by this co-operation." The same sentence returns for
+1934, and for 1935 — "**again** given free use" — when "its Board has generously expressed
+appreciation."^12
+
+So the site built in 1929 to relieve Kanawana's peak weeks was, by the depression years, being lent
+entire and free to the Orphans' Home for at least three consecutive summers. That is a standing
+arrangement rather than a courtesy, and it displaced the annex function the camp was built for.
+
+*A note for anyone searching:* these volumes spell the lake **Becscies**. A grep for "Becsies" or
+"Beescies" finds none of it.
+
 
 **The decision itself is a year earlier, and the association gave its reason.** The annual report
 for the year ending 31 March 1929 — covering the summer of **1928** — carries it under a marginal
@@ -86,3 +108,4 @@ The camp's records are held at Concordia University Archives as sub-series P0145
 9. "Camp Amy Molson: a history of the Summer Camp of the Montreal Ladies' Benevolent and Protestant Orphans' Society," McGill eScholarship [src_camp_amy_molson_mcgill_paper].
 10. Batshaw Centre History (batshawcentreshistory.ca) — Montreal Protestant Orphans' Home / Ladies' Benevolent Society institutional history [src_batshaw_centre_history]. Retrieved via search-summary only; needs independent verification.
 11. YMCA of Montreal, 78th Annual Report, for the year ending 31 March 1929 [src_ymf_sgw_ymca_annual_report_1929] — so its camping season is the summer of **1928** (see [f_5039]). Read for its camps section 2026-09-06 under p_441. See [f_5065] and [f_5066].
+12. YMCA of Montreal annual reports for the years ending 31 March **1930, 1934, 1935 and 1936** [src_cache_sgw_ymca_annual_report_1930, src_cache_sgw_ymca_annual_report_1934, src_cache_sgw_ymca_annual_report_1935, src_cache_sgw_ymca_annual_report_1936] — camping seasons 1929, 1933, 1934 and 1935. Camps sections read 2026-09-06 under p_441. See [f_5070]. **Note the spelling**: these volumes write the lake *Becscies*, which a grep for *Becsies* does not find.

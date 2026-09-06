@@ -1,8 +1,8 @@
 {
-  "version": "7.58",
-  "kb_version": "7.58",
+  "version": "7.59",
+  "kb_version": "7.59",
   "migrated_from": "3.3",
-  "fact_count": 5031,
+  "fact_count": 5033,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -90714,6 +90714,50 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.58",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5070",
+      "category": "site",
+      "date_ref": "1929-1935",
+      "entities": [
+        "Camp Becsies",
+        "Lac des Becs-scie",
+        "Kamp Kanawana",
+        "Protestant Orphans' Home",
+        "YMCA of Montreal"
+      ],
+      "claim": "CAMP BECSIES WAS BUILT AS AN ANNEX AND WITHIN FOUR YEARS WAS LENT TO AN ORPHANAGE. The annual report for the year ending 31 March 1930 -- the summer of 1929, the site's first season -- reports the build: 'THE NEW EQUIPMENT ON LAC BECSCIES WAS FURTHER ADVANCED BY THE BUILDING OF A WHARF, A NEW DINING PAVILION, FOUR NEW TENT FLOORS, AND THE DIGGING OF A WELL. THIS CAMP WILL FORM A VALUABLE ANNEX TO THE MAIN CAMP FOR \"PEAK\" PERIODS AND ALSO FOR OVERNIGHT AND SHORT TERM OUT-TRIPS.' That is the purpose stated plainly and it matches the decision of the year before (f_5065): overflow, plus a destination for short trips. THE SAME SEASON BUILT A CRAFT SHOP AT KANAWANA: 'A new craft shop in Kanawana was built in order to provide additional scope to the interest displayed in LAST YEAR'S EXPERIMENT IN CARPENTRY INSTRUCTION. Under competent leadership the boys built the articles in which they were interested.' So the projects turn of 1927 (f_5064) and the craft department of 1928 (f_5028) produce a building in 1929. THE MONEY: a season surplus of $201.00 against capital expenditures of $2,258.00 'on the Becscies extension and the new craft shop', with the fee still $8.50. The Protestant Orphans' Home boys came again, with ONE boy from the School for the Blind rather than two. AND THEN THE ANNEX CHANGES HANDS. The report for the year ending 31 March 1934 -- the summer of 1933 -- says: 'THE PROTESTANT ORPHANS' HOME WAS GIVEN THE FREE USE OF OUR AUXILIARY CAMP EQUIPMENT AT LAC BECSCIES and was greatly helped in its work by this co-operation.' The same sentence recurs for the summer of 1934 and again, 'AGAIN GIVEN FREE USE', for the summer of 1935, when 'its Board has generously expressed appreciation for this co-operation'. SO WITHIN FOUR SEASONS OF BEING BUILT AS KANAWANA'S OVERFLOW, BECSIES WAS BEING LENT ENTIRE TO AN ORPHANAGE, FREE, FOR AT LEAST THREE SUMMERS RUNNING. wiki/site/camp-becsies.md records the Orphans' Home connection; what is new is that this was a standing arrangement of free use in the depression years, and that it displaced the annex function the site was built for.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1930",
+        "src_cache_sgw_ymca_annual_report_1934",
+        "src_cache_sgw_ymca_annual_report_1935",
+        "src_cache_sgw_ymca_annual_report_1936"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.59",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5071",
+      "category": "history",
+      "date_ref": "1933-1935",
+      "entities": [
+        "Camp Otoreke",
+        "George Porteous",
+        "Harold E. Smith",
+        "C. J. McGerrigle",
+        "YMCA of Montreal"
+      ],
+      "claim": "OTOREKE WENT COEDUCATIONAL IN 1935 BECAUSE THE YOUNG MEN STOPPED COMING, AND THE STAFF PROPOSED IT. The report for the year ending 31 March 1936 -- the summer of 1935 -- explains the change: 'FOR SEVERAL YEARS PAST THE ATTENDANCE OF YOUNG MEN AT OTOREKE HAS STEADILY DECLINED, and the question of what might be done to make greater use of THE THREE BEAUTIFUL ISLANDS IN THE LAURENTIANS comprising our camp site has been given very careful consideration. It has been apparent that the camp, however effective in past years, DOES NOT ATTRACT THE INTEREST AND SUPPORT OF AN ADEQUATE NUMBER OF YOUNG MEN TODAY. FROM THE YOUNG MEN MEMBERS AND THE STAFF CAME THE SUGGESTION THAT THE ASSOCIATION SHOULD EXPERIMENT IN RUNNING THE CAMP FOR NOT ONLY YOUNG MEN BUT ALSO YOUNG WOMEN AND MARRIED COUPLES. In view of the successful experience of several other Associations in conducting this kind of camp, and because of the decreasing attendance at our own camp in recent years, IT WAS DECIDED TO MAKE THE CHANGE.' AND IT WORKED: 'it was the unanimous conclusion of those who attended or visited the camp that THE EXPERIMENT WAS A SUCCESS and gave real promise for the future. ONE HUNDRED AND FIFTEEN YOUNG MEN AND WOMEN attended for periods varying from a week-end to two weeks, THIS BEING AN INCREASE OF 53% OVER THE PREVIOUS YEAR. The programme proved more interesting and attracted the participation of campers in a way not achieved for many years.' THE LEADERSHIP: 'the camp was under the leadership of MR. C. J. McGERRIGLE of North Branch with MRS. McGERRIGLE ACTING AS HOSTESS' -- the same McGerrigle who twelve years later helped find the Otoreke ski lodge site at Christieville (f_5040). TWO SEASONS EARLIER, in the summer of 1933, Otoreke ran six weeks from 8 July under shared secretarial responsibility: 'MESSRS. GEORGE PORTEOUS of the North Branch and HAROLD E. SMITH of the Mount Royal Avenue Branch, WHO GAVE UP PART OF THEIR HOLIDAYS to render this service. The attendance was practically the same as in the preceding year, namely, 128 CAMPER WEEKS. The camp was self-supporting, and had a slight surplus of $11.00.' GEORGE PORTEOUS IS THE MAN WHO WAS KANAWANA'S CHIEF DIRECTOR IN 1929 (f_5029), here running the association's other camp four years later on his holidays. THE COEDUCATION POINT MATTERS BEYOND OTOREKE: this wiki treats coeducation as a Kanawana question of the late 1960s and 1970s. The association had run a coeducational camp of its own since 1935, at the site Kanawana itself came from.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1934",
+        "src_cache_sgw_ymca_annual_report_1936"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.59",
       "added_by": "ralph_loop"
     }
   ]
