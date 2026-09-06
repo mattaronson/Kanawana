@@ -275,7 +275,7 @@ edition, then look for the same edition on the Internet Archive, whose full text
 freely.
 
 
-## Four failure modes, and not one of them is a refusal
+## Five failure modes, and not one of them is a refusal
 
 Written down because this project has been calling all of them "blocked", and they need different
 things from different people (f_5213, f_5214, f_5207):
@@ -285,6 +285,8 @@ things from different people (f_5213, f_5214, f_5207):
 | 403 + `cf-mitigated: challenge`, "Just a moment…" | **Cloudflare JS challenge** — LAC Collection Search, HathiTrust `babel`, and in its own form Concordia's AtoM | a person with an ordinary browser, one click, **no letter needed** |
 | 403 + `x-block-reason: hostname_blocked`, "Blocked by egress policy" | **this environment's own allowlist** — `web.archive.org` | an allowlist entry, or a person |
 | `000`, `ws_closed_mid_exchange` | **the proxy tunnel** — `web.archive.org/cdx`, `canada.ca`, rendered-browser fetches | retry, or another endpoint on the same service |
+| Radware "Captcha Page", redirect to `validate.perfdrive.com`, or `__uzdbm_*` fingerprinting | **Radware Bot Manager** — Archives of Ontario, and BAnQ Advitam's *data API* | a person with a browser |
+| `202` from `awselb/2.0` with a zero-byte body | **AWS WAF** — `archives.lib.umn.edu` | a person with a browser |
 | an institution saying no | **a genuine refusal** | **this project has not documented one** |
 
 **The Wayback case is the sharpest.** `archive.org` answers 200 throughout — `advancedsearch`,
@@ -295,3 +297,24 @@ URL: Carol Skinner's blog is archived at
 `http://web.archive.org/web/20260518101254/https://livelovelaughwithcarol.com/`, captured **18 May
 2026**. One click for a person; impossible here; and the difference is an allowlist entry rather than
 anyone's permission.
+
+
+### And a 200 is a claim about the transport, not the content
+
+Re-testing p_271's four host blocks, a header-only check showed BAnQ Advitam **200** and Archives of
+Ontario **200**, and the sentence "two of the four are now reachable" was already forming. Reading the
+bodies killed it (f_5215):
+
+- **Archives of Ontario's 200 was the CAPTCHA's own status** — the redirect chain ends at
+  `validate.perfdrive.com` serving "Radware Captcha Page … your activity and behavior on this site made
+  us think that you are a bot."
+- **BAnQ Advitam's 200 is a 12.5 KB Angular shell containing 88 characters of text.** Its data API,
+  named in the JS bundle, is `advitam.banq.qc.ca/api/service/…` — and *that* returns 302 with Radware
+  fingerprinting. **The block moved from the page to the API**, which is exactly the thing a future
+  session will misread.
+- **UMN's 202 from `awselb/2.0` has a zero-byte body.**
+
+A CAPTCHA serves 200. An SPA shell serves 200 with nothing in it. A WAF serves 202 with nothing in it.
+All three look like success to `curl -o /dev/null -w '%{http_code}'`. **Measure the text, not the
+status and not the bytes** — this is rule 25 in another costume: a check reported without its output
+being read.

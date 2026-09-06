@@ -1,8 +1,8 @@
 {
-  "version": "8.61",
-  "kb_version": "8.61",
+  "version": "8.62",
+  "kb_version": "8.62",
   "migrated_from": "3.3",
-  "fact_count": 5176,
+  "fact_count": 5177,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93304,6 +93304,23 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.61",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5215",
+      "category": "method",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "BAnQ",
+        "Archives of Ontario",
+        "Library of Congress",
+        "University of Minnesota"
+      ],
+      "claim": "p_271'S FOUR HOST BLOCKS RE-TESTED. THREE UNCHANGED, ONE RELOCATED, AND I NEARLY REPORTED THE OPPOSITE. A header-only check showed **advitam.banq.qc.ca 200** and **archives.gov.on.ca 200**, and the sentence 'two of the four are now reachable' was already forming. READING THE BODIES KILLED IT. (1) **archives.gov.on.ca** follows its redirect chain to **validate.perfdrive.com** and serves a page reading 'Radware Captcha Page ... your activity and behavior on this site made us think that you are a bot.' The 200 was the CAPTCHA's own status. UNCHANGED from what p_271 recorded. (2) **advitam.banq.qc.ca/notice/315906** now returns a genuine 200 -- but it is a 12.5 KB Angular SPA shell with **88 characters of text**. The data comes from an API found in its bundle (`/api/service`, `/api/1/item/`), and `advitam.banq.qc.ca/api/service/notice/315906` returns **302 with Radware Bot Manager fingerprinting** (`__uzdbm_1`, `__uzdbm_2`, …). **THE BLOCK MOVED FROM THE PAGE TO THE API**; the outcome is the same and the mechanism is worth recording, because a future session will see 200 and think the host opened. (3) **archives.lib.umn.edu/repositories/14/resources/992** returns **202 with `server: awselb/2.0` and ZERO BYTES of body** -- an AWS WAF challenge, as p_271 said. (4) **findingaids.loc.gov** returns **403 with `cf-mitigated: challenge`**, so the 'LOC 403 on everything' is now identified as a **Cloudflare challenge**, the same control as LAC, HathiTrust and Concordia (f_5213). THE TRANSFERABLE PART IS THE NEAR-MISS. **A 200 IS A CLAIM ABOUT THE TRANSPORT, NOT ABOUT THE CONTENT.** A CAPTCHA serves 200. An SPA shell serves 200 with nothing in it. An AWS WAF serves 202 with nothing in it. Every one of those looks like success to `curl -o /dev/null -w '%{http_code}'`, which is exactly how this was nearly written up backwards -- the same shape as today's rule 25, where a check was reported without its output being read. **READ THE BODY, AND MEASURE THE TEXT, NOT THE BYTES**: 12,588 bytes of BAnQ HTML contained 88 characters of text. SO THE FIVE-MODE TABLE NOW READS: Cloudflare challenge (LAC, HathiTrust, LOC, and in its own form Concordia's AtoM); Radware Bot Manager (Archives of Ontario, BAnQ Advitam's API); AWS WAF (UMN); this environment's egress allowlist (web.archive.org, f_5214); and the proxy tunnel (000). NONE OF THE FIVE IS AN INSTITUTION REFUSING THIS PROJECT.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.62",
       "added_by": "manual"
     }
   ]
