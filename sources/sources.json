@@ -21379,12 +21379,12 @@
       "cache_path": "sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-1988.txt",
       "char_count": 53059,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
-      "extraction_version": "v5.60",
+      "extracted": true,
+      "extraction_version": "v8.33",
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_454: the section headed 'KAMP KANAWANA: NON NOBIS SOLUM' read whole, and the year-end line on p. [1498 of the OCR] checked -- FOR THE YEAR ENDED MAY 31, 1988 (f_5182, c_067). THE REST OF THE VOLUME IS NOT READ: branch reports, the staff list beyond Jay Netherwood's entry, finance."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1988_fr",
@@ -21613,12 +21613,12 @@
       "cache_path": "sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-1998.txt",
       "char_count": 45154,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
-      "extraction_version": "v5.60",
+      "extracted": true,
+      "extraction_version": "v8.34",
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_454: the PROGRAMS/PERSONS table, the Kanawana narrative items and the community-access funding line read; THE YEAR-END IS VERIFIED IN THE TEXT as 31 May 1998 (f_5183). THE REST OF THE VOLUME IS NOT READ."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1998_1999",
@@ -21631,12 +21631,12 @@
       "cache_path": "sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-1998-1999.txt",
       "char_count": 33519,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
-      "extraction_version": "v5.60",
+      "extracted": true,
+      "extraction_version": "v8.34",
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_454: the PROGRAMS/PERSONS table, the Kanawana narrative items and the community-access funding line read; THE YEAR-END IS VERIFIED IN THE TEXT as 31 May 1999 (f_5183). THE REST OF THE VOLUME IS NOT READ."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1998_1999_fr",

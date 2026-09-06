@@ -1,8 +1,8 @@
 {
-  "version": "8.32",
-  "kb_version": "8.32",
+  "version": "8.34",
+  "kb_version": "8.34",
   "migrated_from": "3.3",
-  "fact_count": 5143,
+  "fact_count": 5145,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -92700,6 +92700,44 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.32",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5182",
+      "category": "operations",
+      "date_ref": "1987",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal",
+        "BUNAC"
+      ],
+      "claim": "THE SOURCE OF THE 99.2% OCCUPANCY FIGURE, AND THREE PROBLEMS WITH THE ROW IT SITS IN. The YMCA of Montreal annual report FOR THE YEAR ENDED 31 MAY 1988, under 'KAMP KANAWANA: NON NOBIS SOLUM': 'Kamp Kanawana, the YMCA's summer residential camp at Saint-Sauveur-des-Monts COMPLETED ITS 94TH YEAR OF OPERATION THIS PAST SUMMER with a 99.2% OCCUPANCY RATE. This represents the USE OF 750 OUT OF THE 756 CAMPER WEEKS AVAILABLE. The camp provides a unique mix of programs dedicated to fun, development and appreciation of nature for children and youth, AGED 7 TO 15.' meta/attendance-series.md has carried '750 of 756 available = 99.2% occupancy' at 1988 with no citation; this is where it comes from. THREE PROBLEMS, none of them resolvable from this document. (1) THE UNIT IS NOT THE COLUMN'S UNIT. The row sits in the camper-weeks column directly beneath 1,214, 1,400 and 1,412 camper-weeks for 1985, 1986 and 1987 (f_4844, from the camp's own 1987 director's report). 750 is smaller than any of them and a reader will take it as a collapse. It cannot be the same measure: 756 is the whole capacity here, and 1,412 exceeds it. (2) THE SEASON IS AMBIGUOUS. The fiscal year ends 31 May 1988, so 'this past summer' at the time of the events covered is 1987 -- but annual reports are written after their year-end and routinely describe the following summer. (3) THE 94TH-YEAR COUNT DOES NOT SETTLE IT and this project already knows the camp's self-counting is unreliable: on 1894 as year one the 94th year is 1987, but the same camp's director called 1993 'the 99th summer' (f_5008), which needs 1895 as year one. IF THE PASSAGE IS ABOUT SUMMER 1987 IT SITS BESIDE THE DIRECTOR'S OWN 93% FOR THAT SEASON, which is why this is logged as c_067 rather than corrected. THE SAME PASSAGE ALSO GIVES: the camp's age range as 7 to 15; 20 children with special needs supported through linkages with the MONTREAL SCHOOL FOR THE DEAF, JEWISH FAMILY SERVICES, VILLE MARIE SOCIAL SERVICES and Social Welfare, with specialized staff, 'while fully participating in the challenges of the regular camp program'; campers from Quebec, the rest of Canada and SEVEN OTHER COUNTRIES; and 'the SECOND YEAR of an exchange with the Bunac Camp of Great Britain which provided us with 4 highly-qualified counselors' -- which corroborates the camp's own 1987 report that BUNAC was used 'for the first time last summer' and gives the same count of four.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1988"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [
+        "f_4844"
+      ],
+      "added_version": "8.33",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5183",
+      "category": "operations",
+      "date_ref": "1998",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "A FIFTH YEAR FOR THE PROGRAMS/PERSONS SERIES, AND EVIDENCE AGAINST THE CAVEAT THE WIKI PUTS ON IT. TWO VOLUMES, BOTH WITH THEIR YEAR-ENDS VERIFIED IN THE TEXT. (1) The annual report FOR THE YEAR ENDED 31 MAY 1998 gives 'Kamp Kanawana 1 750' in its PROGRAMS/PERSONS table, between 'Programs for pedagogical days 1 000' and 'Ski school 250'. THE SERIES IN meta/attendance-series.md STARTS AT 1998-99; this is the year before it and is not in the table. (2) The annual report FOR THE YEAR ENDED 31 MAY 1999 gives 'Kamp Kanawana 1,500', which the table already carries -- and the same volume has a page headed 'KANAWANA - THE CAMP WHERE EVERYONE IS WELCOME' reading: 'FIFTEEN HUNDRED CAMPERS came from the Montreal area last summer, but also from AFRICA, ASIA, EUROPE AND SOUTH AMERICA. Children from all backgrounds enjoyed an incredible TWO-WEEK CAMPING EXPERIENCE. FIFTY-TWO OF THEM BENEFITED FROM THE FINANCIAL-ASSISTANCE PROGRAM.' WHY THAT MATTERS. attendance-series.md cautions that the four-digit 1998-2001 figures 'are not comparable with the residential camper counts above them' because the 1999-2000 report describes its 1,150 as ages 3-60, so rentals and off-season use are included. THE 1999 VOLUME CALLS ITS OWN 1,500 CAMPERS, ON A TWO-WEEK RESIDENTIAL EXPERIENCE, WITH 52 OF THEM ASSISTED -- which is a residential camper count in everything but name. THE CAVEAT IS NOT SIMPLY WRONG: the same page says camp facilities were also used to train counsellors and to hold anti-violence programs for teenage girls and other groups, so mixed use is real. What it is, is UNEVEN ACROSS THE YEARS: the 1999 figure has a narrative reading of campers behind it and the 2000 figure has 'ages 3-60' behind it, and the caution was written from the second and applied to all four. THE 1,750 FOR THE YEAR ENDED 31 MAY 1998 IS ALSO THE HIGHEST NUMBER IN THE WHOLE PROGRAMS/PERSONS RUN so far recovered (1,750 / 1,500 / 1,150 / 1,220 / 1,332 / 1,091 / 1,281), which makes the shape of that series a downward one from 1998 -- and no trend should be drawn through it until the unit question above is settled.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1998",
+        "src_ymf_sgw_ymca_annual_report_1998_1999"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.34",
       "added_by": "manual"
     }
   ]

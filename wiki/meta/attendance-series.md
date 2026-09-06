@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 27*
+*Status: draft | Sources: 29*
 *Last Updated: 2026-09-06 (the 1916 fee and season, from a school magazine advertisement)*
 
 ## Overview
@@ -116,11 +116,12 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | **1985** | — | **1,214** | 80% occupancy [f_4844] |
 | **1986** | — | **1,400** | 92.5% occupancy; Les Voyageurs de la Verendrye 22 weeks [f_4844] |
 | **1987** | — | **1,412** | 93% occupancy; Les Voyageurs 46 weeks [f_4844] |
-| 1988 | — | 750 of 756 available = **99.2% occupancy** | |
+| 1988 ⚠️ | — | 750 of 756 available = **99.2% occupancy** — *a different unit from the rows above, and possibly a different season*^28 | See `c_067` below |
 | **1989–1993** | **over 99% of capacity, five years running** | — | The camp's own director, writing for alumni at the close of the 99th summer: "For the fifth consecutive year camper registration was filled to over 99% capacity." Counting back from 1993 that covers 1989 through 1993, and it joins directly onto the 99.2% recorded for 1988 above — **a full house for six consecutive seasons, 1988 to 1993**, running into the centennial year's 101%. No per-year figure survives inside the 1989–1993 band, only Netherwood's "fifth consecutive year" [f_5008]^12 |
 | 1994 | 101% of capacity | — | 70% return rate; centennial |
 | 1996 | 92% occupancy | — | |
-| 1998–99 | 1,500 | — | *Includes rentals and non-residential use* |
+| **1997–98** | **1,750** | — | *PROGRAMS / PERSONS table, year ended 31 May 1998 — the year before this series previously began, and the highest figure in the whole run*^29 |
+| 1998–99 | 1,500 | — | *The report calls these fifteen hundred **campers**, on a two-week residential experience, 52 of them on financial assistance — see the caution below*^29 |
 | 1999–2000 | 1,150 | — | *Ages 3–60, i.e. includes rentals* |
 | 2000–01 | 1,220 | — | *Same caveat* |
 | **2001** | **"more than 220"** *and* **1,332** | — | **One report, two numbers, and they cannot both be season registrations.** The 2001-2002 annual report's "A Year of Firsts" says "during the summer, the camp welcomed **more than 220 campers, up 19% from last year. Registration has never been this high!**" Its own Social Audit table gives "**YMCA Kamp Kanawana 1,332**". The 1,332 is a programme persons count like the 2008 and 2009 rows below. **The 220 is the problem**: a camp that took 473 in 1955 and 770 the following summer cannot have set a registration record at 220, so either the figure is scoped to something the sentence does not name, or a digit is lost in the scan. Both are recorded; neither is preferred, and no trend should be drawn through the 220^25 |
@@ -132,7 +133,31 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | **2022** | **655** | — | Reopening season |
 | **2023** | **780** | — | |
 
-**A caution on the 1998–2001 figures.** Those four-digit numbers are not comparable with the residential camper counts above them — the 1999-2000 report describes its 1,150 as ages "3–60," which means rentals and off-season use are included. The series breaks there. The 2022 and 2023 figures are residential camper counts again and *are* comparable with the twentieth-century rows.^3
+**The 99.2% is not a camper-week count, and it may not be 1988.** The figure comes from the
+association's annual report **for the year ended 31 May 1988**: "Kamp Kanawana ... completed its 94th
+year of operation this past summer with a 99.2% occupancy rate. This represents the use of **750 out
+of the 756 camper weeks available**."^28 Two things follow, and neither is resolvable from that
+document. **The unit is not the column's unit** — 756 is the whole capacity there, while the camp's
+own director reports 1,412 camper weeks for 1987, 1,400 for 1986 and 1,214 for 1985, all larger than
+the capacity the annual report names. A reader running down the column sees 1,412 fall to 750 and
+that is not what happened. **And the season is ambiguous**: the fiscal year's own summer is 1987, but
+annual reports are written after their year-end and routinely describe the summer that followed. The
+"94th year" does not decide it — on 1894 as year one that is 1987, but the same camp's director called
+1993 "the 99th summer," which needs 1895 as year one. If the 99.2% belongs to 1987 it sits beside the
+director's own 93% for that season, and the six-consecutive-full-seasons reading below loses its first
+year. Logged as **`c_067`** and left for a human. What would settle it is the camp's 1988 season report,
+which this project does not hold, or the annual report for the year ended 31 May 1989.
+
+**What else that report says about the camp**, none of it in dispute: the age range was **7 to 15**;
+**20 children with special needs** were supported at camp through linkages with the Montreal School
+for the Deaf, Jewish Family Services, Ville Marie Social Services and Social Welfare, with specialised
+staff, "while fully participating in the challenges of the regular camp program"; campers came from
+Quebec, the rest of Canada and **seven other countries**; and it was "the **second year** of an
+exchange with the Bunac Camp of Great Britain which provided us with **4** highly-qualified
+counselors" — which corroborates the camp's own report that BUNAC was used "for the first time last
+summer" in 1987, and gives the same count of four.^28
+
+**A caution on the 1997–2001 figures, and a qualification of it.** Those four-digit numbers are not comparable with the residential camper counts above them — the 1999-2000 report describes its 1,150 as ages "3–60," which means rentals and off-season use are included. The series breaks there. **But the caution is uneven across the years, because it was written from one volume and applied to all of them.** The report for the year ended 31 May 1999 introduces its own 1,500 as campers and nothing else: "Fifteen hundred **campers** came from the Montreal area last summer, but also from Africa, Asia, Europe and South America. Children from all backgrounds enjoyed an incredible **two-week camping experience**. **Fifty-two of them benefited from the financial-assistance program**."^29 That is a residential camper count in everything but name. Mixed use is real — the same page says camp facilities were also used to train counsellors and to run anti-violence programs for teenage girls — but the year with "ages 3–60" behind it and the year with that paragraph behind it should not carry the same warning without saying so. The 2022 and 2023 figures are residential camper counts again and *are* comparable with the twentieth-century rows.^3
 
 **On "second highest registration in 25 years."** The 1974-75 annual report's phrase is quoted above without being tested. It is false if "registration" means different campers: 475 is beaten in the 1950-1975 window by 622 (1969), 602 (1963), 590 (1962), 558 (1957), 528 (1958), 526 (1959), 523 (1956 and 1972) and 481 (1971) — about tenth, not second. It is very nearly right if it means **camper-weeks**: 1,356 is beaten only by 1,613 (1969) and 1,442 (1970) among the weeks this table holds for that window, which makes it third, and second if either of those falls outside whatever the report was counting. The report does not say which it means, and this is arithmetic on figures assembled elsewhere in this article rather than anything the document states, so the weeks reading is offered and not adopted. What can be said flatly is that the claim does not survive on camper counts.^21
 
@@ -355,6 +380,8 @@ Three things stand out and none of them is visible from any single article.
 25. Montreal YMCA annual report 2001-2002 [src_ymf_sgw_ymca_annual_report_2001_2002], "YMCA Kamp Kanawana - A Year of Firsts" and the Social Audit table. Read 2026-09-06 under p_454. THE SAME REPORT GIVES TWO NUMBERS that cannot both be season registrations; see the rows.
 26. YMCA of Montreal annual report for the year ending 30 April 1922 [src_ymf_sgw_ymca_annual_report_1921_1922], the "Camps" section, covering the summer of 1921. Read closely 2026-09-06 under p_454 — this volume had been keyword-swept for years and quoted at second hand in the 289-boy note above, but not read. See [f_5166], [f_5167].
 27. *Montreal Men*, the YMCA of Montreal's annual report for the year ending 30 April 1919 [src_ymf_sgw_ymca_annual_report_1919_montreal_men] — the "Camps" section, covering the summer of 1918, and the recruiting page advertising the 1919 season. Read 2026-09-06 under p_454. See [f_5175], [f_5176], [f_5177].
+28. YMCA of Montreal annual report **for the year ended 31 May 1988** [src_ymf_sgw_ymca_annual_report_1988], the section headed "KAMP KANAWANA: NON NOBIS SOLUM." Read 2026-09-06 under p_454. See [f_5182] and `c_067`.
+29. YMCA of Montreal annual reports for the years ended **31 May 1998** and **31 May 1999** [src_ymf_sgw_ymca_annual_report_1998, src_ymf_sgw_ymca_annual_report_1998_1999] — the "PROGRAMS / PERSONS" table in each, and the 1999 volume's page headed "KANAWANA - THE CAMP WHERE EVERYONE IS WELCOME." Read 2026-09-06 under p_454. See [f_5183].
 
 ## Research Notes
 
