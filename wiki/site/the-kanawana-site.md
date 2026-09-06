@@ -1,6 +1,6 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 52*
+*Status: E1-reviewed | Sources: 53*
 *Last Updated: 2026-09-06 (a second "sixty acres," from 1952, so the 1957 one is not a lone typo)*
 
 ## Overview
@@ -134,6 +134,7 @@ the Kanawana site has ever been surveyed."^35
 | "covers sixty acres of woodland and lakes" | **1952** annual report (year ending 31 December 1952)^51 |
 | "covers 60 acres of woodland and lakes" | **1953** annual report (year ending 31 December 1953)^52 |
 | "a sixty acre site" | 1957 annual report — see the note below^36 |
+| "three lakes and a part of a fourth, covering some 600 acres" | **1958** annual report (year ending 31 December 1958)^53 |
 | ~1,000 acres | Kamp Kanawana annual report 1964; SGW YMCA annual report 1964; YMCA news release 13 May 1969; Kamp Kanawana annual reports 1969 and 1970^37 |
 | 1,200 acres "of private land and lakes" | *The Gazette*, 18 April 1974^38 |
 | 455 acres land / 537 acres total | Royal LePage report to the YMCA, 1989, quoted in the 1988 Task Force report^35 |
@@ -141,7 +142,7 @@ the Kanawana site has ever been surveyed."^35
 | 500 acres | *Canadian Summer Job Directory*, 2006 edition^48 |
 | 550 acres | *Canadian Summer Job Directory*, 2008 edition^48 |
 
-**On "sixty."** The 1957 report's sixty acres was previously written off here as "almost certainly a typo for 600." It has company now: the 1952 report says the same thing in a fuller sentence — "covers sixty acres of woodland and lakes, on Y.M.C.A. property, near St. Sauveur in the Laurentians, fifty miles north of Montreal"^51 — and so does 1953, in a paragraph whose wording is nearly identical.^52 Three printings across six years is not a slip of the pen. The likeliest reading is a camp description copied forward from one year's boilerplate to the next, which would make it a fact about how the reports were compiled rather than about the property; the alternative is that sixty acres names something different from the six hundred — the developed camp proper rather than the whole holding. The same series prints 600 in 1949 and again in 1959, so the association was publishing both figures in the same decade. This article does not decide between them.
+**On "sixty."** The 1957 report's sixty acres was previously written off here as "almost certainly a typo for 600." It has company now: the 1952 report says the same thing in a fuller sentence — "covers sixty acres of woodland and lakes, on Y.M.C.A. property, near St. Sauveur in the Laurentians, fifty miles north of Montreal"^51 — and so does 1953, in a paragraph whose wording is nearly identical.^52 Three printings across six years is not a slip of the pen. The likeliest reading is a camp description copied forward from one year's boilerplate to the next, which would make it a fact about how the reports were compiled rather than about the property; the alternative is that sixty acres names something different from the six hundred — the developed camp proper rather than the whole holding. The same series prints 600 in 1949 and again in 1959 — and, decisively for the "different measure" reading, **in 1958, the year immediately after the sixty-acre one**, where the description is fuller than anywhere else in the run: the property "includes three lakes and a part of a fourth, covering some 600 acres."^53 Sixty and six hundred swapping places between consecutive volumes, inside the same descriptive paragraph, is not how a camp distinguishes its developed core from its whole holding. A zero carried in and out of the boilerplate now looks much likelier. This article still does not assert it, because both figures are what the association printed, but the sixty-acre entries should be read as suspect rather than as a rival measurement.
 | 550 acres | YMCA Quebec, current^1 |
 
 The large mid-century figures begin in a specific year. The Task Force chronology records that in
@@ -369,6 +370,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 50. *McGraw-Hill Directory and Almanac of Canada*, "Post Offices in Canada" [src_mcgraw_hill_directory_almanac_canada_1960s]. **The list's heading and one entry only**, reconstructed 2026-09-06 from eleven overlapping Open Library search-inside queries; the series is lending-restricted, page images return HTTP 403, and no volume has been read. The Internet Archive catalogues four separate printings of this series as 1966 and no internal year was recovered from any of them, so the date is carried as catalogued and not as verified. Cached with its queries and its dating caution at `sources/cache/postal/1960s-mcgraw-hill-directory-almanac-kanawana-closed-office.txt`. See [f_4954].
 51. YMCA of Montreal annual report for the year ending **31 December 1952** [src_ymf_sgw_ymca_annual_report_1952], the camps description: "Kamp Kanawana, for boys 8-16 years of age, covers sixty acres of woodland and lakes, on Y.M.C.A. property, near St. Sauveur in the Laurentians, fifty miles north of Montreal." Read 2026-09-06 under p_441. See [f_5082].
 52. YMCA of Montreal annual report for the year ending **31 December 1953** [src_ymf_sgw_ymca_annual_report_1953]: "Kamp Kanawana... covers 60 acres of woodland and lakes on property owned by the Association near St. Sauveur in the Laurentians, about 50 miles north of the city." Read 2026-09-06 under p_441. See [f_5083].
+53. YMCA of Montreal annual reports for the years ending **31 December 1957** and **31 December 1958** [src_ymf_sgw_ymca_annual_report_1957, src_ymf_sgw_ymca_annual_report_1958]. The 1957 volume calls Kanawana "a sixty acre site"; the 1958 volume says the property "includes three lakes and a part of a fourth, covering some 600 acres." Read 2026-09-06 under p_441. See [f_5086].
 
 ## Research Notes
 

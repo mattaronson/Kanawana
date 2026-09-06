@@ -1227,7 +1227,10 @@
         "src_ymf_sgw_ymca_annual_report_1927",
         "src_cache_sgw_ymca_annual_report_1937",
         "src_ymf_sgw_ymca_annual_report_1938",
-        "src_ymf_sgw_ymca_annual_report_1939"
+        "src_ymf_sgw_ymca_annual_report_1939",
+        "src_ymf_sgw_ymca_annual_report_1955",
+        "src_ymf_sgw_ymca_annual_report_1957",
+        "src_ymf_sgw_ymca_annual_report_1958"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -1241,7 +1244,7 @@
         "quebec-camp-landscape"
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-      "word_count": 7722,
+      "word_count": 8252,
       "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, renamed the orphaned 'R3 Verification Notes' H2 to the standard 'Research Notes' heading and condensed its bullet list into a single HTML-comment process-log entry. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -3297,7 +3300,9 @@
         "src_wikimapia_kanawana",
         "src_mcgraw_hill_directory_almanac_canada_1960s",
         "src_ymf_sgw_ymca_annual_report_1952",
-        "src_ymf_sgw_ymca_annual_report_1953"
+        "src_ymf_sgw_ymca_annual_report_1953",
+        "src_ymf_sgw_ymca_annual_report_1957",
+        "src_ymf_sgw_ymca_annual_report_1958"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -3312,7 +3317,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 6489,
+      "word_count": 6660,
       "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral. 2026-06-20: Added Indigenous territory context (f_1315) and Mille-Isles regional history (f_1314). 2026-06-21: Added 1976 Lovell's directory listing (f_1331) and 2023 superintendent's house fire (f_1333). | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph about the Weredale lease into a new Research Notes > Revision History section (this article previously had no Research Notes section at all). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -10135,7 +10140,10 @@
         "src_ymf_sgw_ymca_annual_report_1946",
         "src_ymf_sgw_ymca_annual_report_1947",
         "src_ymf_sgw_ymca_annual_report_1953",
-        "src_ymf_sgw_ymca_annual_report_1954"
+        "src_ymf_sgw_ymca_annual_report_1954",
+        "src_ymf_sgw_ymca_annual_report_1955",
+        "src_ymf_sgw_ymca_annual_report_1957",
+        "src_ymf_sgw_ymca_annual_report_1958"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -10149,7 +10157,7 @@
         "camp-thunderbird"
       ],
       "file_id": null,
-      "word_count": 5092,
+      "word_count": 5717,
       "notes": "Created 2026-08-14 (p_256) from the 114-annual-report sweep. ~60 seasons of camper counts and camper-weeks, 1894-2023, with SIX internal inconsistencies carried as flags rather than resolved -- every one of them the association contradicting itself. Kept as a separate article so the contradictions travel with the numbers. No aggregate totals computed: too many missing years, the 1998-2001 rows count a different population, and the two documented lifetime totals (40,000 in 1964, 34,000 in 1984) contradict each other. Marked draft, not stub, because it is transcription of primary figures rather than synthesis; NOT yet VERIFY-passed -- figures should be spot-checked against the OCR before advancing."
     },
     {

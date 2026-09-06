@@ -1,8 +1,8 @@
 {
-  "version": "7.71",
-  "kb_version": "7.71",
+  "version": "7.72",
+  "kb_version": "7.72",
   "migrated_from": "3.3",
-  "fact_count": 5045,
+  "fact_count": 5048,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -90995,6 +90995,59 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.63",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5084",
+      "category": "programs",
+      "date_ref": "1956-1958",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "'VALUES FOR LIVING' WAS THE FRAMEWORK KANAWANA'S WHOLE PROGRAMME RAN INSIDE, 1956-1958, AND IT REORGANISED THE CAMP AROUND THE TENT GROUP. This project has 'Values for Living' in exactly one place -- a passing comparison in canoe-trips.md -- and nowhere as a thing the camp DID. THE REPORT FOR THE YEAR ENDING 31 DECEMBER 1957: 'For the SECOND SUCCESSIVE YEAR the camp program was conducted within the framework of the \"VALUES FOR LIVING\" and the \"GUIDE TO CONDUCTING PROGRAM\". Camp provides a natural setting for work with FRIENDSHIP GROUPS in the accomplishment of Association aims and objectives. The personal identification of staff members with these goals, and THE INCREASED INTEREST IN EVALUATING THE CAUSES OF INDIVIDUAL BEHAVIOUR RATHER THAN MERELY DISCIPLINE OF EXISTING PROBLEMS, results in more meaningful program.' Second successive year makes 1956 the first. THE REPORT FOR 1958 SETS OUT WHAT IT MEANT IN PRACTICE, and it is the fullest statement of camp pedagogy this project holds for any year: 'PROGRAM IS EVERYTHING THAT HAPPENS TO A BOY... NOT JUST THE ORGANIZED ACTIVITIES. It is the medium for influencing growth toward Values for Living. At Kanawana in 1958 THE ENTIRE PROGRAM EMPHASIS CENTERED ON THE TENT GROUP. The counsellor tried to know each of HIS SEVEN BOYS well enough that he could help them work out a satisfying set of activities suited to their own interests.' Four results are claimed: group decision-making 'far beyond previous years'; 'ALL PROGRAM INCLUDING CAMP TRADITIONS WERE APPRAISED ON THE BASIS OF THEIR IMPORTANCE AND PLACE IN REALIZING THESE PROGRAM OBJECTIVES'; more variety, because tent groups 'showed an amazing ability to come up with program ideas that resourcefully used the facilities already existent'; and appreciative letters from parents. THE SECOND OF THOSE IS THE ONE WITH TEETH. A camp that puts its own traditions up for appraisal against a set of stated objectives is a camp that may drop some, and this wiki's traditions articles have no account of anything being dropped in the late 1950s. WHAT WAS APPRAISED, BY WHOM, AND WHAT SURVIVED IS NOT IN THIS REPORT. THE PRE-CAMP TRAINING was rebuilt to match: 'In a series of pre-camp sessions the Counsellor and staff group discussed, worked through, and accepted the Values for Living as personal objectives... a training process evolved TO DEVELOP AN AWARENESS IN COUNSELLORS OF HOW YOUNGSTERS LEARN and the role of the Counsellor and Staff person in FACILITATING THIS LEARNING.' That is 1958, and it sits two years before Hedley Dimock's 1960-61 research at Kanawana on camp counsellor effectiveness. THE REPORTS DO NOT CONNECT THE TWO AND NEITHER DO I.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1957",
+        "src_ymf_sgw_ymca_annual_report_1958"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.72",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5085",
+      "category": "attendance",
+      "date_ref": "1956-1958",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "claim": "THE AGE DISTRIBUTION OF KANAWANA'S CAMPERS, 1957 AND 1958, FROM A TABLE THE 1958 REPORT PRINTS. This series has camper totals for these years and nothing about who the campers were. The report for the year ending 31 December 1958 prints 'KANAWANA STATISTICS' with columns for 1956, 1957 and 1958. THE 1956 COLUMN IS DESTROYED IN THIS SCAN and is not recorded here. AGE, 1957 THEN 1958: age 8, 47 and 18; age 9, 68 and 60; age 10, 102 and 87; age 11, 96 and 115; age 12, 88 and 84; age 13, 74 and 80; age 14, 50 and 45; age 15, 27 and 39; age 16, 6 and 10. TOTALS PRINTED: 558 and 528. THE 1957 COLUMN CHECKS: those nine numbers sum to exactly 558, which is also the total this wiki already carries for 1957. THE 1958 COLUMN DOES NOT: it sums to 538 against a printed total of 528, a difference of ten. Either one age figure is misread by ten or the total is -- '528' and '538' are a plausible OCR pair in these scans, as are several of the digits above. I HAVE NOT DECIDED WHICH AND HAVE NOT ADJUSTED ANYTHING. The wiki's 1958 total of 528 is left alone. WHAT THE 1957 COLUMN SHOWS, TAKING IT AS SOUND: the camp's centre of gravity is ages 10 to 12, which take 286 of 558, more than half. Only 33 campers are 15 or 16, six per cent, and only 47 are eight. SO KANAWANA IN THE LATE 1950s IS OVERWHELMINGLY A CAMP FOR TEN- TO TWELVE-YEAR-OLDS, with a thin senior tail -- which is the demographic fact behind the older-boys problem the association was working on at exactly this time, and behind the Voyageurs' founding for older campers in 1959. THE REPORT DRAWS NO SUCH CONNECTION. THE 1958 COLUMN, IF ITS SHAPE IS RIGHT EVEN WHERE ITS TOTAL IS NOT, moves the other way: fewer eight- and nine-year-olds, more eleven-year-olds, more 15s and 16s. THE LENGTH-OF-STAY HALF OF THE SAME TABLE IS TOO DAMAGED TO USE. The rows read 1, 2, 3, 4, 5, 6 and 8-weeks-and-more, and the surviving figures do not align to their columns -- '324-61.9%' sits under 1956 and '367-68.2%' floats between the 1957 and 1958 columns, and 367 is 65.8 per cent of 558 and 69.5 per cent of 528, so the percentage matches NEITHER cleanly. NOT EXTRACTED. A re-read from a better scan or the physical volume would recover it.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1958"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.72",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5086",
+      "category": "programs",
+      "date_ref": "1955-1958",
+      "entities": [
+        "Kamp Kanawana",
+        "Camp Perrot"
+      ],
+      "claim": "THE 1955 AND 1957 SEASONS, AND THE ACREAGE PRINTED BOTH WAYS IN CONSECUTIVE VOLUMES. 1955 (report for the year ending 31 December 1955): 473 campers, average stay 3.5 weeks. 'Seventy-two boys learned to swim; 323 passed Intermediate Swimming tests; 182 boating, canoeing and sailing awards were earned and 22 campers passed YMCA Life Saving Tests and Master Swimming Awards.' THE PROGRAMME PHILOSOPHY IS STATED A YEAR BEFORE 'VALUES FOR LIVING' (f_5084): 'each TENT GROUP OF 7 CAMPERS planned their own program together. COMPETITION WITH SELF, RATHER THAN COMPARISON WITH OTHERS, WAS THE KEY NOTE in all activities.' THE THREE CAMPS TOGETHER took 2,199 campers with 108 CAMP LEADERS -- the report compares this to '1,891 in 1954, and 1,949 in 1955', which cannot both be 1955 and is presumably 1953; RECORDED AS PRINTED AND NOT CORRECTED. Camp Perrot: 177 boys over six weeks and 87 girls over two, average stay just under three weeks, with 'council fires, Olympic games, crafts, canoe-tripping, skits and movies'. Kanawana replaced its camp truck that year. 1957 (report for the year ending 31 December 1957): 'Kanawana was FILLED TO CAPACITY with 558 different boys staying an average of three weeks each.' Camp Perrot took 207 boys and 104 girls, and 'THE FOREMEN'S CLUB, AS USUAL, made available camping holidays for 19' -- a sponsor this project has not recorded, and 'as usual' says it was a standing arrangement. AND THE ACREAGE, IN TWO CONSECUTIVE VOLUMES, BOTH WAYS. The 1957 report calls Kanawana 'a SIXTY ACRE SITE'; the 1958 report says the property 'includes THREE LAKES AND A PART OF A FOURTH, covering some 600 ACRES'. So the association printed sixty in 1952, 1953 and 1957 and six hundred in 1949, 1958 and 1959, alternating, in the same series, at one point in adjacent years. THIS WEAKENS THE 'DIFFERENT MEASURE' READING considerably -- a sixty-acre developed core and a six-hundred-acre holding would not swap places from one volume to the next in the same descriptive paragraph -- and strengthens a dropped zero carried in and out of the boilerplate. IT DOES NOT SETTLE IT, and site/the-kanawana-site.md is not being made to say it does. THE 'THREE LAKES AND A PART OF A FOURTH' IS ITSELF NEW and is a more specific description of the property than anything else in the series.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1955",
+        "src_ymf_sgw_ymca_annual_report_1957",
+        "src_ymf_sgw_ymca_annual_report_1958"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.72",
       "added_by": "ralph_loop"
     }
   ]

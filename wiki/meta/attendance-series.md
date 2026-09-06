@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 14*
+*Status: draft | Sources: 16*
 *Last Updated: 2026-09-06 (the 1916 fee and season, from a school magazine advertisement)*
 
 ## Overview
@@ -87,10 +87,10 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1952 | ~406 | — | The Long House built and dedicated mid-July |
 | 1953 | 450 | — | Avg stay 3.5 weeks; more hikes, and "keener interest in nature lore" as a result^14 |
 | 1954 | 446 | — | "the year of great rains"; 662 tests passed, 371 boys on overnight hikes, 201 through the graded Y.M.C.A. swim tests and 151 non-swimmers through the elementary one; older boys went up the Archambault River by canoe **every week**. Average stay printed as **5.5 weeks**, which is almost certainly a misread of 3.5 — see the note^14 |
-| 1955 | 473 | — | |
+| 1955 | 473 | — | Avg stay 3.5 weeks; 72 boys learned to swim, 323 passed intermediate swimming tests, 182 boating/canoeing/sailing awards, 22 life-saving and master swimming awards. Tent groups of seven planned their own programme, with "competition with self, rather than comparison with others" the stated key note^16 |
 | 1956 | 523 | — | |
-| 1957 | 558 | — | |
-| 1958 | 528 | — | |
+| 1957 | 558 | — | Camp "filled to capacity"; average stay three weeks; age breakdown below^15. The Foremen's Club, "as usual," paid for 19 campers at Camp Perrot^16 |
+| 1958 | 528 | — | Age breakdown below; the printed total and the printed ages do not reconcile^15 |
 | 1959 | 526 | — | Voyageurs pilot, 30 boys |
 | **1960** | *(ran)* | — | "Kamp Kanawana for boys operated for eight weeks at near capacity"; the Zeller Family Foundation study of leadership and camper growth begins [f_4846] |
 | **1961** | *(ran)* | — | The second season run on "planned group development"; the study's first findings tested "last summer at Kanawana" [f_4846] |
@@ -129,6 +129,27 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | **2023** | **780** | — | |
 
 **A caution on the 1998–2001 figures.** Those four-digit numbers are not comparable with the residential camper counts above them — the 1999-2000 report describes its 1,150 as ages "3–60," which means rentals and off-season use are included. The series breaks there. The 2022 and 2023 figures are residential camper counts again and *are* comparable with the twentieth-century rows.^3
+
+### How old the campers were, 1957 and 1958
+
+The 1958 report prints a "Kanawana Statistics" table with columns for 1956, 1957 and 1958. The 1956 column is destroyed in this scan and is not reproduced. The length-of-stay half of the same table survives only as figures that do not align to their columns, and is not reproduced either.^15
+
+| Age | 1957 | 1958 |
+|---|---|---|
+| 8 | 47 | 18 |
+| 9 | 68 | 60 |
+| 10 | 102 | 87 |
+| 11 | 96 | 115 |
+| 12 | 88 | 84 |
+| 13 | 74 | 80 |
+| 14 | 50 | 45 |
+| 15 | 27 | 39 |
+| 16 | 6 | 10 |
+| **Total as printed** | **558** | **528** |
+
+**The 1957 column checks and the 1958 column does not.** The nine 1957 figures sum to exactly 558, which is the total this table already carried for that season from another source. The nine 1958 figures sum to 538 against a printed total of 528. Either one age figure is misread by ten or the total is; 528 and 538 are a plausible OCR pair in these scans. Nothing has been adjusted, and the 1958 row above still shows 528.
+
+**Kanawana in the late 1950s was a camp for ten- to twelve-year-olds.** Taking the 1957 column as sound, ages 10 through 12 account for 286 campers of 558 — more than half — while everyone aged 15 or 16 comes to 33, six per cent of the camp. That thin senior tail is the demographic shape behind the older-boys problem the association was working on at exactly this moment, and behind the founding of [[traditions/canoe-trips|Les Voyageurs de la Vérendrye]] for older campers in 1959. The report draws no such connection; this table simply shows the distribution the camp had.
 
 ## Where the record disagrees with itself
 
@@ -216,13 +237,28 @@ artefacts, in the section below.
 
 ## A note for anyone taking a figure from an annual report
 
-**The YMCA of Montreal's annual reports run to 31 March, so a report's camping season is the
-previous summer.** Every title page says it: "The Ninety-Second Annual Report of the Young Men's
+**The YMCA of Montreal's annual reports do not all run to the same year-end, and this decides which
+summer is inside which volume.** *(Corrected 2026-09-06. This section previously said the reports
+"run to 31 March" without qualification, on the strength of five title pages from the 1940s. The
+association used four different year-ends across the run; see [f_5081] and the generated table at
+`project-docs/annual-report-year-ends.md`.)*
+
+- **30 April**, through the 1925 report — season is the previous summer.
+- **31 March**, from 1926 through 1950 — season is the previous summer.
+- **31 December**, from the 100th report (1951) through about 1962 — **season is the report's own year.**
+- **31 May**, from somewhere in 1963–64 through 1989 — season is the previous summer.
+
+Only the December window inverts. The cache filenames are no guide either: the file named 1963 is
+the report for the year ended 31 May 1964, while the one named 1984 is for the year ended 31 May
+1984. Read the title page.
+
+**For the 1926–1950 stretch the rule below holds and this article's rows rest on it.** Every title
+page in that stretch says it: "The Ninety-Second Annual Report of the Young Men's
 Christian Association of Montreal, **for the Year Ending March 31st, 1943**," the Ninety-Third for
 1944, and so on.^13 A report dated to 31 March 1947 covers April 1946 to March 1947, and the only
 summer inside it is 1946.
 
-This article's rows are entered on that basis and are right. The check that established it: the
+The rows for those years are entered on that basis and are right. The check that established it: the
 1945 report gives "Kanawana for boys 400," which is the row above for **1944**; the 1947 report
 gives 302, which is the row for **1946**; and the 1946 report, whose summer is 1945, reads "52h" in
 a scan that renders 4 as *h* throughout ("31,8h5" for 31,845) and confuses 3 with 5 — so 324,
@@ -283,6 +319,8 @@ Three things stand out and none of them is visible from any single article.
 12. *The Lookout* Vol. 1 No. 3 (Kanawana Alumni Committee, autumn 1993), "Summer Report" by Bruce Netherwood, Director [src_ia_the_lookout_1993]. See [f_5008].
 13. The YMCA of Montreal annual reports' "Summer Camps" camper tables, 1943-1947 [src_ymf_sgw_ymca_annual_report_1943, src_ymf_sgw_ymca_annual_report_1944, src_ymf_sgw_ymca_annual_report_1945, src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1947]. See [f_5038].
 14. YMCA of Montreal annual reports for the years ending **31 December 1953** and **31 December 1954** [src_ymf_sgw_ymca_annual_report_1953, src_ymf_sgw_ymca_annual_report_1954]. December-year volumes, so their seasons are 1953 and 1954 (see [f_5081]). Read 2026-09-06 under p_441. See [f_5083].
+15. YMCA of Montreal annual report for the year ending **31 December 1958** [src_ymf_sgw_ymca_annual_report_1958], the "Kanawana Statistics" table. Read 2026-09-06 under p_441. See [f_5085].
+16. YMCA of Montreal annual reports for the years ending **31 December 1955** and **31 December 1957** [src_ymf_sgw_ymca_annual_report_1955, src_ymf_sgw_ymca_annual_report_1957]. December-year volumes, so their seasons are 1955 and 1957 (see [f_5081]). Read 2026-09-06 under p_441. See [f_5086].
 
 ## Research Notes
 
