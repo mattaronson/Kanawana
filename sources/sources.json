@@ -29233,7 +29233,25 @@
       "read_state": "partial",
       "read_state_basis": "ONE ENTRY FROM EACH EDITION, reconstructed from ten overlapping Open Library search-inside windows 2026-09-06. Both books are lending-restricted and neither has been read. Both at scan leaf 246; printed pages unknown. The tail of the activities list, the parenthetical list of program specialisms and the full How to Apply text were NOT recovered.",
       "notes": "The camp's own return to a commercial publisher, twice, two years apart. Gives 1435 Drummond as the winter address against the 1441 of every earlier directory; ages 5 to 16; rockclimbing and ropes course activities; a post-by-post staff structure; and an acreage that moves from 500 in 2006 to 550 in 2008 in otherwise identical copy. The 2008 item is canadiansummerjo0000unse_q4r4. See f_4947."
+    },
+    {
+      "source_id": "src_rand_mcnally_quebec_1911",
+      "type": "catalog_reference",
+      "title": "Rand, McNally & Co.'s Indexed Pocket Map and Shippers' Guide of Quebec (Chicago, 1911)",
+      "date": "1911",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/randmcnallycosin00rand",
+      "cache_path": "sources/cache/postal/1911-rand-mcnally-quebec-kanawana-summer-po.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.85",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "NOT lending-restricted. Full djvu text downloaded and searched 2026-09-06; 'Kanawana' occurs exactly once and that entry, its neighbours and the guide's legend were read out and cached. The rest is unread.",
+      "notes": "\"Kanawana, Terrebonne, (Summer P. O.)\" — the earliest sighting of the post office this project holds, one year after the YMCA bought the Saint-Sauveur site, and the earliest use of 'summer' for it by eight years. The entry carries no grid reference, railway number, population or reference marks, where its neighbours do. See f_4936 and f_4944."
     }
   ],
-  "source_count": 1624
+  "source_count": 1625
 }

@@ -1,7 +1,7 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 48*
-*Last Updated: 2026-09-06 (the post office, and its opening bracketed to 1909-1912)*
+*Status: E1-reviewed | Sources: 49*
+*Last Updated: 2026-09-06 (the post office: opened by 1911, summer only, and forty years long)*
 
 ## Overview
 
@@ -36,8 +36,17 @@ volume carries a **Supplément of August 1912**, containing the changes "notifi�
 offices to strike, and modifications. **Kanawana is in Part I, *Bureaux à ajouter*, as "Canada,
 Québec."**^45
 
-So the office did not exist on 1 March 1909 and did exist by 1 June 1912. That is a three-year window,
-and the YMCA bought this site in **1910**, in the middle of it.
+So the office did not exist on 1 March 1909 and did exist by 1 June 1912 — and the closing end of that
+window comes in further. **Rand, McNally & Co.'s Indexed Pocket Map and Shippers' Guide of Quebec**, published at Chicago in **1911**, carries the entry "**Kanawana, Terrebonne, (Summer P. O.)**".^49 So the
+office existed **by 1911**, and it opened either just before or just after the YMCA bought this site in
+**1910**. That entry also puts the word "summer" on the office **eight years earlier** than the
+Sessional Papers of 1919, which was this project's first evidence of it.
+
+*What the entry does not carry is worth noticing too.* It has no map grid reference, no railway number,
+no population figure and none of the guide's reference marks — where Kamouraska, immediately above it,
+reads "E-18 * t 600": a grid square, a money-order post office, a telegraph station and six hundred
+people. Kanawana was a name in the index with a season attached and nothing else. Why it has no grid
+reference is not established, and is not guessed at here.
 
 *Two things about how that was read, because both could have gone wrong.* The Internet Archive
 catalogues the whole item as "1909"; taken at face value it would put a Kanawana post office **before**
@@ -332,6 +341,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 46. Canada, *Guide officiel du service postal Canadien, 1917* [src_guide_officiel_postal_1917]. **Not lending-restricted**: the full text was downloaded and searched 2026-09-06, and "Kanawana" occurs twice in it. Both passages are cached at `sources/cache/postal/1917-guide-officiel-du-service-postal-canadien-kanawana.txt`, with a note that the dagger and asterisk prefixes used in those lists were not decoded. See [f_4936].
 47. *Summer Camps & Programs* (1983), the entry "Kamp Kanawana-Montreal YMCA" [src_summer_camps_and_programs_1983]. **Part of one entry**, reconstructed 2026-09-06 from overlapping Open Library search-inside queries; the book is lending-restricted and has not been read. Cached at `sources/cache/openlibrary-search-inside/2026-09-06-summer-camps-and-programs-1983-kanawana.txt`. See [f_4945].
 48. *The Canadian Summer Job Directory*, 2006 and 2008 editions, the entry "YMCA KAMP KANAWANA" [src_canadian_summer_job_directory_2006_2008]. **One entry from each edition**, reconstructed 2026-09-06 from ten overlapping Open Library search-inside queries; both books are lending-restricted and neither has been read. Cached with the queries at `sources/cache/openlibrary-search-inside/2026-09-06-canadian-summer-job-directory-2006-2008.txt`. See [f_4947].
+49. Rand, McNally & Co.'s *Indexed Pocket Map and Shippers' Guide of Quebec* (Chicago, 1911) [src_rand_mcnally_quebec_1911]. **Not lending-restricted**: the full text was downloaded and searched 2026-09-06, and "Kanawana" occurs exactly once in it. The entry, its neighbours and the guide's own legend are cached at `sources/cache/postal/1911-rand-mcnally-quebec-kanawana-summer-po.txt`. See [f_4936], [f_4944].
 
 ## Research Notes
 

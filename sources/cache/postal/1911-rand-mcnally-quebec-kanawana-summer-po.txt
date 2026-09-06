@@ -1,0 +1,37 @@
+SOURCE: Rand, McNally & Co.'s Indexed Pocket Map and Shippers' Guide of Quebec (Chicago, 1911).
+        Internet Archive item randmcnallycosin00rand. NOT lending-restricted; full djvu text
+        downloaded and searched 2026-09-06. "Kanawana" occurs exactly once, at line 3461.
+
+=== THE ENTRY, with the neighbouring lines that show what a full entry looks like ===
+Jamieson,  Megantic. 
+Jamac,  Labelle  , , 36 
+Kamouraska,  E-18  *  t 600 
+Kanawana,    Terrebonne,     (Summer 
+P.  O.) 
+Kartoum,  (Ry  16)  H 
+Ratevale,  J-13  . . 30 
+
+=== THE GUIDE'S OWN LEGEND (line 208), for the marks the neighbours carry ===
+N— North.    S— South.    E— East.    W— West,    m— Miles.    Ry  or  Rys— Railway 
+or  Railways. 
+s  Canadian  Northern  Express. 
+3  Dominion  Express. 
+<  Nation*]  Express. 
+d  United  States  Exp  ,  Common  Point-. 
+•  Steamboat  Landings. 
+t  Not  a  Poit  Office. 
+
+HOW TO READ THE KANAWANA LINE. It carries a county and one parenthesis: "Kanawana, Terrebonne,
+  (Summer P. O.)". It has NO map grid reference, NO railway number, NO population figure and
+  NONE of the reference marks. Compare Kamouraska immediately above it -- "Kamouraska, E-18 * t
+  600" -- which carries a grid square, a money-order post office mark, a telegraph station mark
+  and a population of 600.
+
+WHAT IT ESTABLISHES: that a summer post office called Kanawana existed in Terrebonne county in
+  1911, one year after the YMCA bought the Saint-Sauveur site. The Universal Postal Union's
+  supplement of 1912 brackets its opening to between March 1909 and June 1912; this narrows the
+  closing end of that bracket to 1911. It also puts "summer" on the office EIGHT YEARS earlier
+  than the Sessional Papers of 1919, which was this project's first evidence of it.
+
+NOT ESTABLISHED, and not inferred: why the entry has no grid reference. Some entries in this
+  index lack one and some do not, and no rule for it was found in the front matter.
