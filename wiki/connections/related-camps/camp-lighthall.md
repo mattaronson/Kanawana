@@ -176,7 +176,7 @@ unresolved. No lot, lake, or civic address has been found.
    Saint-Sauveur-des-Monts (1975–76), unreconciled.
 4. **[Important]** When did "Junior League Camp" become "Camp Lighthall"? Bounded to between June
    1967 and c. 1972, no closer.
-5. **[Important]** Who ran Camp Lewis, and did the Junior League still control Lighthall in 1975–76?
+5. **[Important, half answered 2026-09-06]** ~~Who ran Camp Lewis~~ — the same June 1949 *Canadian Camping* survey that describes Lighthall says "**Camp Lewis, under the direction of Mr. Wylie**, offers good camping to **five hundred boys** for two weeks or longer each year," and the camp is listed as a peer agency, one line above the Negro Community Centre, in a Montreal YMCA news release of 1964. It is the Boys' Home of Montreal's camp and Camp Weredale's predecessor — see [[connections/related-camps/camp-weredale|Camp Weredale]] and [f_5202]. **Still open:** did the Junior League still control Lighthall in 1975–76?
 6. **[Nice-to-have]** Is there any photograph, map, or artefact of the camp? The one known image is
    the Canadian Camping Association portrait of the camp's representative, Denise Lamer, c. 1972
    (Trent University Archives, CCA fonds 78-004, Appendix 1, Box 5, photo 577).^12

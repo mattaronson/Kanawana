@@ -351,69 +351,22 @@ representatives from seven Branches and Professor **J. O. Watts of Queen's Unive
 leader — off-season conference use of the site, twenty years before the ski lodge review describes
 the same pattern.^48
 
-**And the 1931 report dates the camp to about 1891.** Its programme, it says, "was carried through
-along lines which have been followed during the **forty years of its history**."^48 Forty years back
-from 1930 is 1890 or 1891, earlier than anything else here: the association's own records put
-Cushing's trip in 1892, an exploration in 1893, and Camp Jubilee in 1894, while its 114th annual
-report says the site "has been owned by the YMCA since 1893." So the institution's retrospective
-self-datings drift — about 1891 in 1931, 1893 in 1965, against a documented 1894. That is a reason to
-trust the 1893 cluster discussed above **less**, not more: these are round numbers in annual-report
-prose, not records.
+**And the 1931 report calls Otoreke decades old, in a phrase that will not carry a date.** Its
+programme, the report says, "was carried through along lines which have been followed during the
+**forty years of its history**."^48 *That sentence cannot be turned into 1891 by subtraction, and this
+article said it could until 2026-09-06.* Seventeen lines earlier, in the same camps section and about
+the same lake, the same report writes: "The camp has been in operation for twenty-one years in its
+present location although, **in 1898, or forty years ago**, the first boys camp of the Association was
+opened at Lac St. Joseph."^48 A report on the 1930 season equating 1898 with "forty years ago" is
+wrong by seven years whichever end you fix — so "forty years" is this writer's stock phrase, anchored
+to his own 1898, and it dates nothing.
 
-## Post-War and Later Decades
-
-
-Camp Otoreke remained an active YMCA facility through the mid-twentieth century. A 1944 photograph of the camp is held by the Quebec Anglophone Heritage Network (QAHN).^8 In 1967, Camp Otoreke hosted a Young Adult Centennial Conference, held July 8-15, 1967 (records in Concordia Archives P0145/14D10).^4 Planning and development reports were also prepared for the site that year.^4
-
-The Concordia Archives hold dedicated Camp Otoreke records in sub-series P0145/12C, including situation reports (1977-1980) that profiled Otoreke alongside Kanawana and Camp Weredale as part of the YMCA's camping operations.^4 The sub-series is organized into seven sub-sub-series: 12C01 (General administration), 12C02 (Financial administration), 12C03 (Land/facilities/equipment/supplies), 12C04 (Communications), 12C05 (Staff/counsellors), 12C06 (Campers), 12C07 (Program).^4 The finding aid confirms the *existence*, though not the online content, of 1982 revenue/expenditure and tax-status records within 12C02 -- suggesting the closure year's finances were documented, though only a physical archive visit can retrieve them.^4
-
-Two cataloguing ambiguities surfaced in 2026-07-09 research, both unresolved without a physical visit: (1) two separate 1967 catalog entries — "Report of the Boys' and Girls' Camping Committee to the Metropolitan Planning and Development Committee of the YMCA of Montreal" (Box HA1881) and "Camp Otoreke report — Planning and Development" (Box HA2367) — may be the same document cross-referenced or two distinct related documents; (2) W.E. Cushing's 1943 manuscript appears under two variant titles/locations, "Early Days at Lake St. Joseph" (Box HA1881) and the previously-cited "Historical sketches — Lake St. Joseph" (Box HA2307) — possibly the same manuscript catalogued twice, or two distinct short pieces.^4
-
-### 1965: "Holiday Island," and a disappointment stated plainly
-
-By the mid-1960s the camp had been re-pitched at young adults, and the association's 114th annual
-report — whose title page gives its span as 1 June 1965 to 31 May 1966 — says how that went. Under
-the heading **"Camp Otoreke - Holiday Island"**: "In spite of imaginative efforts to develop an
-attractive holiday program for young adults, **the use of the Camp Otoreke site was not as extensive
-as had been anticipated**. Some **1,100 young adults** spent their week-ends or holidays at Otoreke
-Island during the Summer of 1965. A number of other YMCA and outside groups used the site for
-conferences and special programs ... Study is now being made of various ways by which the use of this
-site can be increased ... The Otoreke Ski Lodge on the mainland had a successful week-end skiing
-program during the Winter months."^44 Forty-three years after the directors first voted to close it,
-the association is still studying how to fill it.
-
-**And the same volume corroborates a name this article carries as an unverified blog claim.** Under
-Resignations: "**Colin McKay - Director of Camp Otoreke** - to Hamilton, Ontario, YMCA."^44 The
-alumni blog noted at the end of this article names "Colin and Mrs. Mackay in the early 1960s" among a
-sequence of directors recorded nowhere else here. One of its three claims is now attested from the
-association's own record — spelled McKay, with no wife named, and with his departure dated to the year
-ended 31 May 1966. That does not make the blog reliable, but the Huppfield and McGerrigle names are
-now worth hunting in the wartime and post-war reports rather than leaving as blog-only. (The same
-volume's committee list has "Otoreke - M. LaBrooy," which is a committee chairmanship, not a
-directorship.)
-
-### Two conferences in the summer of 1967, and a post office of its own
-
-The Concordia finding aid puts a **Young Adult Centennial Conference** at Otoreke from 8 to 15 July
-1967.^4 An Internet Archive book sweep on the camp's name turned up a second one five weeks later, in
-a place nobody would have looked: the **United Church of Canada's Board of Evangelism and Social
-Service**, in its annual report for that year, records that a "meeting was held in conjunction with
-the '**Summer Event**' of **Kairos** at Camp Otoreke in the Laurentians, **August 29th–September
-2nd**," on "theology relevant to **technology and automation**," and that "at Otoreke we held a joint
-consultation with the **Kairos Executive**."^50
-
-Kairos is already in this project's record as one of the outside groups using **Kanawana** in 1969.
-This puts the same body at Otoreke two years earlier, on named dates, with a national church board's
-own executive meeting there. Two conferences at this camp in one summer, from two different bodies,
-and neither was found in the association's own papers.
-
-**And Otoreke had a post office, which closed the way Kanawana's did.** The same sweep found the camp
-in the gazetteers. The McGraw-Hill postal directory series — the one this project used to bracket
-Kanawana's office — carries "**Otoreke, PQ (S), see … St-Adolphe-de-Howard**", the closed-and-renamed
-cross-reference form, and lists it in the railway postal lines tables; the *Canadian Almanac* has
-"Otoreke … Argenteuil … Ste. Agathe."^50 A 1985 Quebec gazetteer still lists "Otoreke (Argenteuil)"
-as a place, three years after the camp shut. **The dates are not established here** — bracketing
-Kanawana's office took a run of dated almanacs, and that work has not been done for this one.
+The association's retrospective founding dates do drift, and
+[[history/founding-1894|The Founding of Camp Kanawana]] documents the drift more fully than this
+paragraph originally did: 1898 in the 1931 report, 1891 or 1892 in 1932 and 1933, 1892 in 1954 and
+1955, 1893 in 1953 and 1965. What this passage adds is only that the 1931 report treated Otoreke as a
+decades-old institution with a settled programme in the same breath as reporting its attendance down
+by 46 in a year.
 
 ### 1969: families from Petite-Bourgogne, and a French column that says more than its English
 
