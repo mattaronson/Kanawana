@@ -7204,7 +7204,9 @@
         "src_ia_kanawana_report_1975",
         "src_ia_ymca_annual_1971_72",
         "src_ia_ymca_annual_1972_73",
-        "src_ia_ymca_annual_1996"
+        "src_ia_ymca_annual_1996",
+        "src_veillette_pistes_ski_fond_quebec_1977",
+        "src_guide_plein_air_quebec_1991"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -7214,7 +7216,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 1659,
+      "word_count": 2130,
       "tags": {
         "era": [
           "1970s",

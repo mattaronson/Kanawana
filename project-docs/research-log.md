@@ -4933,3 +4933,53 @@ means.* Everything about the sentence "Kanawana, PQ, see St-Sauveur-des-Monts, P
 alphabetical neighbours, the service codes beside it — is identical whether the list is a gazetteer,
 a shippers' guide or a register of dead post offices. The heading is not context for the entry. It is
 the entry's predicate, and a snippet search returns the subject without it every time.
+
+---
+
+## Phase 2 campaign — four controls for one row (2026-09-06)
+
+**Topic.** p_430's group 4, the two Quebec outdoor guides. Both had been attempted earlier the same
+day and **nothing had been recorded from either**, because the OCR scrambles their columns. The
+priority's own note said so and said not to record anything until an alignment control was found.
+That was the right call and this is the follow-through.
+
+**Surfaces.** Open Library search-inside (12 queries on the two guides, plus 2 that produced the
+controls) · the project's own KB.
+
+***Les pistes de ski de fond au Québec* (1977) turned out not to need it.** Its club list runs
+straight, and three internal controls say so — J0T 2N0 is Val-David's postal code, J6J 1S5 is
+Châteauguay's, 3480 McTavish is McGill's own address, and each lands on the row the plain reading
+assigns it. What it gives is worth more than the alignment work saved: the **Kanawana Outing Club
+Y.M.C.A.** at **882, Montmorency, Châteauguay** — not the camp, not 1441 Drummond, a house forty
+kilometres the other side of Montreal — printed between Club Mont Plante of Val-David and the
+**McGill Outing Club**. That is the second independent sighting of a Châteauguay connection, after
+Lovell's 1976 second listing at 692-2801, and it means the club was administered from a private
+address across at least two years by somebody this project cannot name. A Châteauguay street
+directory or voters' list for 1976-77 would name them. **f_4955.**
+
+***Guide plein air Québec* (1991) needed all four.** Read straight, its row puts Kanawana at
+Mont-Laurier. The controls, every one of them found inside the same book corpus rather than
+recalled:
+
+1. A Montreal guidebook prints the two Montreal Ys on a single line — "Drummond (849-5331) —
+   YM-YWHA: 5500, Westbury (737-6551)" — which fixes two of the three telephone numbers to two
+   institutions at once.
+2. The *Directory of Canadian Camps* for **1974** gives "'Y' Country Camp Branch, 5500 Westbury
+   Avenue, Montreal (winter), **Huberdeau, Quebec** (summer)", which pins the third facility to the
+   third town.
+3. 819-623 is the Mont-Laurier exchange, corroborated by other lists on the same leaf.
+
+Only one alignment satisfies all of them: the facility column runs **one row ahead** of the town and
+telephone columns. The straight reading fails all three rows simultaneously; the offset reading
+passes all three. **f_4956.** The offset is written into the cache file, because it applies to every
+other camp on that list.
+
+**The method, now stated as a rule rather than a knack.** This is the fourth column ambiguity this
+project has settled the same way — Kanawyer in the UPU postal dictionary, Lac Bâtiment in the
+Matawinie lake cluster, D-U-N-S 20-765-0813 in the credit directories, and now three telephone
+numbers in a ski guide. **Do not read across a scrambled row. Find the field whose value is unique
+in the corpus, query that field on its own, and let it tell you which row it is in.** Here it took
+three of them, because one would have been a coincidence.
+
+**Found in passing.** `directoryofcanad1974unse`, a *Directory of Canadian Camps* for **1974**. This
+project's holdings of that series begin at 1975.

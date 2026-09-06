@@ -1,7 +1,7 @@
 # Winter and Year-Round Programming
 
-*Status: E1-reviewed | Sources: 12*
-*Last Updated: 2026-09-06 (E1 review p_219; then the Outing Club found in a 1976 city guidebook)*
+*Status: E1-reviewed | Sources: 14*
+*Last Updated: 2026-09-06 (the Outing Club's own mailing address, 1977 — a house in Châteauguay)*
 
 ## Overview
 
@@ -39,7 +39,27 @@ Front Camp houses the Farmhouse and Blockhouse, which are winterized facilities 
   first thing to connect the Outing Club to the babysitting service the 1972-73 Annual Report describes for Winter
   Outdoor Family Camping — the two have been treated as separate programmes here. And it was **advertised to the
   general Montreal public** in a book people bought, not to campers' parents.
+- **1977**: The club is listed by name and address in *Les pistes de ski de fond au Québec*, a provincial
+  cross-country ski guide, among **clubs** rather than among camps: "**Kanawana Outing Club Y.M.C.A., 882,
+  Montmorency, Châteauguay, Québec J6J 1S5**", printed between Club Mont Plante of Val-David and the
+  **McGill Outing Club**.^13 Two things follow, and the second is the one worth chasing. The register it
+  belongs to is a register of ski clubs, alongside McGill's — which is what the 1976 guidebook entry above
+  already implied and this confirms from a different publisher. And **its mailing address is neither the camp
+  nor 1441 Drummond**. It is a house in Châteauguay, forty kilometres the other side of Montreal from
+  Saint-Sauveur, which on a club list means an officer's or a secretary's home. That is the **second**
+  independent sighting of a Châteauguay connection: Lovell's Montreal City Directory for 1976 carried a
+  second Kanawana listing under Châteauguay at **692-2801**, and 514-692 is the Châteauguay exchange (see
+  [[site/the-kanawana-site|The Kanawana Site]]). Across at least 1976 and 1977 the Outing Club was run from a
+  private address by somebody this project cannot name — and a Châteauguay street directory or voters' list
+  for those years would name them.
 - **Through 1979**: The "Kanawana Outing Club," a distinct winter hiking/trail program with its own badge (pictured below) and trail system, ran at least through 1979 (see [[traditions/programs-activities|Programs and Activities]]). A systematic check of every annual report from 1980 through 1988 found no further mention of the Outing Club, winter programming, or skiing at Kanawana — its exact wind-down date after 1979 is a confirmed dead end for online sources.^9
+- **1991**: Kanawana is listed at **Saint-Sauveur**, under the YMCA of Montreal's own telephone number, in
+  *Guide plein air Québec*, among the province's outdoor and camp centres.^14 A small thing on its face, and
+  it took four controls to say even that: the OCR scrambles the guide's columns, and read straight the row
+  puts Kanawana at **Mont-Laurier**. The rows only settle once three telephone numbers are traced to their
+  institutions — the YMCA's 849-5331, the YM-YWHA's 737-6551, and a Mont-Laurier exchange — and the 'Y'
+  Country Camp beside it is pinned to Huberdeau by the *Directory of Canadian Camps* for 1974. The straight
+  reading fails all three rows at once.
 - **1996**: The camp's own Annual Report states "this was the first time that programs were offered to groups other than summer campers" — a group of 50 Korean students spent four days in-season (summer) doing traditional camp activities. This is a genuine 1996 diversification milestone, but it describes an in-season international-group visit, not necessarily the same thing as "year-round RESIDENTIAL programming" (see below) — the two claims may be related but are not shown to be identical.^9
 - **1996 (per McMorris thesis)**: Year-round residential programming began, extending the camp's operational calendar beyond the traditional summer season.^5
 - **2006-2009**: The "virage vert" (green shift) transformed the camp into a three-season environmental education facility with new accommodation facilities, green sanitary installations, heat exchangers, composting toilets, and an artificial wetland system.^1
@@ -92,6 +112,9 @@ David Leduc managed Camp Kanawana's summer and winter programs, including recrui
 10. Concordia University Records Management and Archives, YMCA of Montreal fonds, Kamp Kanawana Program sub-sub-series P0145/12B07 [src_concordia_atom_12B07], as recorded in the cached full finding aid `sources/cache/web-pages/concordia-atom-kanawana-full.txt`. See [f_2379], [f_2380].
 11. Kamp Kanawana director's report for 1975 [src_ia_kanawana_report_1975], and the 1970s attendance series assembled from the camp's own directors' reports. See [f_4843], [f_2434]. Cited here for the 1974/1975 correction above.
 12. Bonnie Buxton and Betty Guernsey, *Montréal Inside Out* (Ottawa: Waxwing Productions, 1976), Internet Archive scan leaf 296 [src_buxton_guernsey_montreal_inside_out_1976]. **One entry only**, reconstructed 2026-09-06 from six overlapping Open Library search-inside queries; the book is lending-restricted and has not been read, and the telephone number is cut off at "849-". Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-mclean-notebooks-and-montreal-inside-out.txt`. See [f_4942].
+
+13. *Les pistes de ski de fond au Québec* (1977), Internet Archive scan leaf 294 [src_veillette_pistes_ski_fond_quebec_1977]. **One club-list run only**, reconstructed 2026-09-06 from six overlapping Open Library search-inside queries; the book is lending-restricted, page images return HTTP 403, and it has not been read. The list's alignment was checked rather than assumed — J0T 2N0 is Val-David's postal code, J6J 1S5 is Châteauguay's, and 3480 McTavish is McGill's own address, and all three land on the rows the plain reading gives them. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-two-outdoor-guides-1977-and-1991.txt`. See [f_4955].
+14. *Guide plein air Québec* (1991), Internet Archive scan leaf 200 [src_guide_plein_air_quebec_1991]. **One run only**, and one whose columns the OCR scrambles; an earlier attempt the same day recorded nothing from it, correctly. The alignment was settled by four controls documented from inside the same corpus, all set out in the cache file above, and only then was the entry used. Lending-restricted, page images 403, not read. See [f_4956].
 
 ## Research Notes
 

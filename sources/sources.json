@@ -29377,7 +29377,43 @@
       "read_state": "snippet",
       "read_state_basis": "LENDING-RESTRICTED; NOT READ. The list's heading and the Kanawana line were reconstructed 2026-09-06 from eleven overlapping Open Library search-inside queries. Page images return HTTP 403. FOUR separate Internet Archive items of this series (mcgrawhilldirect0000unse, _v4j7, _f4f5, _j6s5) are ALL catalogued 1966 and are evidently different printings; no internal year was recovered from any of them, so the date is carried as catalogued and not as verified.",
       "notes": "The list is headed \"POST OFFICES IN CANADA (Sub post offices and closed and renamed post offices appear in italics. The correct postal address for each closed post office appears immediately below the closed post office name.)\" Two of the four items carry \"Kanawana, PQ, see St-Sauveur-des-Monts, PQ\", which places Kanawana in the italicised class -- sub, closed or renamed -- with St-Sauveur-des-Monts as the correct address. Against the Canadian Almanac's run of the office to about 1955, this brackets its end. See f_4954."
+    },
+    {
+      "source_id": "src_veillette_pistes_ski_fond_quebec_1977",
+      "type": "catalog_reference",
+      "title": "Les pistes de ski de fond au Québec (1977) — the Kanawana Outing Club club listing",
+      "date": "1977",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/lespistesdeskide0000veil",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-two-outdoor-guides-1977-and-1991.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.92",
+      "reliability": "secondary",
+      "read_state": "snippet",
+      "read_state_basis": "LENDING-RESTRICTED; NOT READ. One club-list run on scan leaf 294, reconstructed 2026-09-06 from six overlapping Open Library search-inside queries. Alignment confirmed straight by three internal controls (J0T 2N0 = Val-David, J6J 1S5 = Chateauguay, 3480 McTavish = McGill). Page images return HTTP 403.",
+      "notes": "Lists the KANAWANA OUTING CLUB Y.M.C.A. at 882, Montmorency, Chateauguay, Quebec J6J 1S5 -- not the camp and not 1441 Drummond -- among Quebec cross-country ski clubs, immediately before the McGill Outing Club. Second independent sighting of a Chateauguay connection after Lovell's 1976 second listing at 692-2801. See f_4955."
+    },
+    {
+      "source_id": "src_guide_plein_air_quebec_1991",
+      "type": "catalog_reference",
+      "title": "Guide plein air Québec (1991) — the Kanawana entry, and the column alignment",
+      "date": "1991",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/guidepleinairque0000unse",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-two-outdoor-guides-1977-and-1991.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.92",
+      "reliability": "secondary",
+      "read_state": "snippet",
+      "read_state_basis": "LENDING-RESTRICTED; NOT READ. One run on scan leaf 200, whose columns the OCR scrambles. NOTHING WAS RECORDED FROM IT on the first attempt, correctly. The alignment was settled 2026-09-06 by four controls documented from inside the same corpus, and only then was the entry used. Page images return HTTP 403.",
+      "notes": "Places Kanawana at Saint-Sauveur under the YMCA of Montreal's 849-5331, among the province's outdoor and camp centres, in 1991. The straight reading of the OCR row puts Kanawana at Mont-Laurier and is wrong. See f_4956, and the cache file for the controls and the offset -- which will apply to every other camp on the same list."
     }
   ],
-  "source_count": 1632
+  "source_count": 1634
 }
