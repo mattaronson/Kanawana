@@ -138,6 +138,29 @@ Saint-Adolphe-d'Howard, where a Catholic camp and a Jewish camp sat beside the Y
 that it is on Kanawana's own doorstep, and nobody here had noticed. See
 [[site/camp-otoreke|Camp Otoreke]].
 
+**And both are in the January 1975 directory this article already quotes, under names nobody here had
+looked up.**^26 The entries settle what the fiches only implied:
+
+> **OLIER (1954)** — M. **Côme Lalande, PSS** — 1931 ouest, Sherbrooke, Montréal H3H 1E3 — R.R. no. 1,
+> Piedmont, Ste-Anne des Lacs — **60 garçons 12-16** — Arts plastiques, Exp. corporelle, Artisanat,
+> Hébertisme, Camping
+
+> **HIAWATHA (1932)** — Mr. & Mrs. **B. Jacobson** — 6595 Côte St. Luc Rd. No. 203 — R.R. no. 2, Ste.
+> Agathe des Monts — **85 boys 5-16, 85 girls 5-16** — Tennis, Golf, Ice Hockey, Fine Arts, Riding
+> (extra); season **June 24 – August 18**
+
+**"PSS" is *Prêtres de Saint-Sulpice*.** So the Commission's note that Camp Olier's name "rappelle le
+souvenir de Jean-Jacques Olier" understates it: the camp was **run by the order Olier founded**, not
+merely named after him — a Sulpician boys' camp of sixty, aged 12 to 16, eight kilometres from Kanawana,
+founded in 1954.^26 *(A coincidence worth following rather than asserting: the de-officialised register
+has "Lac des Frères" renamed **Lac Côme-Lalande** at Sainte-Anne-des-Lacs in 2005. Almost certainly the
+same man. Nothing read here says so.)*
+
+**Hiawatha was co-ed from 1932** — 85 boys and 85 girls, from age five, family-run, twenty kilometres
+away. **Kanawana did not admit girls until 1968**, and declined an internal recommendation to do so in
+1965. That is not a criticism of the YMCA's decision; it is the market the decision was taken in, and it
+belongs beside [[history/coeducation-gender|Coeducation and Gender at Kanawana]].
+
 **Camp Hiawatha, Old Brewery Mission, Camp Marian and Camp Aurelda all say "origin not determined."**^28
 Their fiches carry the identical sentence the Commission gives for Lac Kanawana and Camp Kanawana
 themselves. Hiawatha is the interesting one: the dataset records its origine linguistique as **Mohawk**

@@ -1,8 +1,8 @@
 {
-  "version": "6.51",
-  "kb_version": "6.51",
+  "version": "6.52",
+  "kb_version": "6.52",
   "migrated_from": "3.3",
-  "fact_count": 4857,
+  "fact_count": 4859,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87175,6 +87175,49 @@
       "date_ref": "2026-09-06",
       "conflicts_with": [],
       "added_version": "6.51",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4896",
+      "claim": "CAMP OLIER IS A SULPICIAN CAMP, FOUNDED 1954, AND THE CCA DIRECTORY GIVES IT FIELD BY FIELD. From the January 1975 CCA Directory issue and repeated in January 1976: \"OLIER (1954) -- M. COME LALANDE, PSS -- 1931 ouest, Sherbrooke, Montreal H3H 1E3, (514-933-7869) -- R.R. no. 1, Piedmont, Ste-Anne des Lacs, (514-224-2004) -- 60 GARCONS 12-16\", activities \"Arts plastiques, Exp. corporelle, Artisanat, Hebertisme, Camping\". THE POST-NOMINAL PSS IS PRETRES DE SAINT-SULPICE, so the Commission de toponymie's note that the camp's name \"rappelle le souvenir de Jean-Jacques Olier\" understates it: the camp was RUN BY THE ORDER OLIER FOUNDED, not merely named after him (f_4894). It was a boys' camp of sixty, aged 12 to 16, eight kilometres from Kanawana, with a director who is himself a Montreal address on Sherbrooke Street West. A COINCIDENCE WORTH FOLLOWING RATHER THAN ASSERTING: the de-officialised toponymic register records \"Freres, Lac des\" renamed \"COME-LALANDE, LAC\" at Sainte-Anne-des-Lacs on 2005-12-08 (f_4877's sweep) -- almost certainly the same man commemorated, but nothing read here says so.",
+      "sources": [
+        "src_ia_canadian_camping_collection",
+        "src_ct_fiches_neighbour_camps_2026",
+        "src_donneesquebec_bnlq_2026"
+      ],
+      "confidence": "stated",
+      "category": "institutions",
+      "entities": [
+        "Camp Olier",
+        "Come Lalande",
+        "Sulpicians",
+        "Sainte-Anne-des-Lacs",
+        "Piedmont",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1954",
+      "conflicts_with": [],
+      "added_version": "6.52",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4897",
+      "claim": "CAMP HIAWATHA WAS A PRIVATE CO-ED CAMP FROM 1932, THIRTY-SIX YEARS BEFORE KANAWANA ADMITTED GIRLS. The January 1975 CCA Directory: \"HIAWATHA (1932) -- Mr. & Mrs. B. JACOBSON -- 6595 Cote St. Luc Rd., No. 203 [Montreal] -- R.R. no. 2, Ste. Agathe des Monts, (819-326-0577) -- 85 BOYS 5-16, 85 GIRLS 5-16\", activities Tennis, Golf, Ice Hockey, Fine Arts and Riding (extra); the January 1976 issue repeats the entry and adds the season, JUNE 24 - AUGUST 18. A camp of 170 children in equal numbers of boys and girls, from age five, twenty kilometres from Kanawana, founded in 1932 and family-run. KANAWANA DID NOT ADMIT GIRLS UNTIL 1968 and declined an internal recommendation to do so in 1965; Hiawatha had been mixed since before the war. That is a fact about the Laurentian camping market Kanawana operated in and belongs beside the coeducation question, not as a criticism of the YMCA's decision but as the context in which it was taken.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "category": "institutions",
+      "entities": [
+        "Camp Hiawatha",
+        "B. Jacobson",
+        "Sainte-Agathe-des-Monts",
+        "Camp Kanawana",
+        "coeducation"
+      ],
+      "date_ref": "1932",
+      "conflicts_with": [],
+      "added_version": "6.52",
       "added_by": "ralph_loop"
     }
   ]
