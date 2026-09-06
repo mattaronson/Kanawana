@@ -96,7 +96,7 @@ fruit* in 1935, *Heavyweight* alongside the camp block in 1936, *Indian and tote
 photography, and the only one exhibited publicly as art.** Nothing here says whether Robertson had
 any connection to the camp, whether the block or an impression of it survives, or where it might be.
 The Montreal Museum of Fine Arts' own collection, the National Gallery's, and the print trade are
-where to ask.
+where to ask. *She was looked for and not found:* a book-corpus search on her name returns one item, a 1950 Boston residents list, and three web searches turn up only other artists — Sarah Robertson the Montreal painter, Doris Boulton-Maude, Doris Adeney Robertson. **She survives in this record through one catalogue of exhibition entries and nowhere else that is indexed**, which says more about how thinly Montreal's women printmakers of the 1930s are documented than about her: she showed at the Art Association for thirteen years.
 
 ## Radio
 
