@@ -1,8 +1,8 @@
 {
-  "version": "7.10",
-  "kb_version": "7.10",
+  "version": "7.11",
+  "kb_version": "7.11",
   "migrated_from": "3.3",
-  "fact_count": 4946,
+  "fact_count": 4948,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88950,6 +88950,44 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4985",
+      "category": "sources",
+      "date_ref": "1881-1936",
+      "entities": [
+        "Year Book of the Young Men's Christian Associations",
+        "Internet Archive",
+        "YMCA of Montreal"
+      ],
+      "claim": "COMPLETE INVENTORY OF THE YMCA YEAR BOOK ON THE INTERNET ARCHIVE, AND THE HOLES ARE REAL. Thirteen items hold twenty-three annual volumes. SIX ITEMS HOLD MORE THAN ONE VOLUME: ymcayearbookand00assogoog holds 1896, 1897, 1898, 1899 and 1900 (catalogued 1896); ymcayearbookand02assogoog holds 1891, 1892, 1898, 1894 and 1895, BOUND OUT OF ORDER (catalogued 1891); ymcayearbookand02amergoog holds 1886, 1887, 1888 and 1890 (catalogued 1886); ymcayearbookand01amergoog holds 1882 or 1882-83 and 1884 (catalogued 1882); yearbookyoungme01commgoog holds 1899 and 1900 (catalogued 1899); yearbookofyoungm0000vari holds 1891 and 1892. THE SERIES IS AVAILABLE FOR 1881-82, 1884, 1886, 1887, 1888, 1890, 1891, 1892, 1893, 1894, 1895, 1896, 1897, 1898, 1899, 1900, 1906, 1907, 1908, 1909, 1921, 1922 and 1936 (that last lending-restricted). IT IS NOT AVAILABLE ANYWHERE ON THE INTERNET ARCHIVE FOR 1883, 1885, 1889, 1901-1905, 1910-1920, OR 1923-1935. THOSE HOLES ARE NOT AN ARTEFACT OF A BAD QUERY: four separately corrected search methods converge on them -- a title-based enumeration across both of the series' titles, metadata on every item, two title-page patterns across all thirteen texts, and direct front-matter reads wherever both patterns returned nothing. 1910-1920 is the costly one: it covers the new site's first decade, the whole of the First World War, and the years in which W. J. Holliday either did or did not recover the Boys' Work directorship he had lost by 1909. Chase it at HathiTrust, Google Books full view, and the Kautz Family YMCA Archives at the University of Minnesota, which holds the series in print. EVERY PATTERN USED IN THIS SWEEP FAILED AT LEAST ONCE: 'FOR THE YEAR NNNN' missed the 1909 volume, which dates itself 'May 1, 1908, to April 30, 1909', and missed the 1882 volume, whose OCR reads 'FOB THE YEAR'. The inventory was finished by reading front matter directly.",
+      "sources": [
+        "src_ymca_yearbook_ia_inventory_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.11",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4986",
+      "category": "people",
+      "date_ref": "1882-1890",
+      "entities": [
+        "Charles Cushing",
+        "G. A. Kuhring",
+        "D. A. Budge",
+        "W. H. Ball, Jr.",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE MONTREAL YMCA BEFORE THE CAMP: TWO NEW NAMES, AND A NULL ON ITS FOUNDER. The pre-camp volumes of the Year Book (1882 or 1882-83, 1884, 1886, 1887, 1888, 1890) were searched for the camp's people. THE NULL FIRST, because it is the larger part: W. H. BALL IS IN NONE OF THEM. He entered Association work in 1889 (f_4976) and the 1892 volume introduces him at Montreal as 'the physical director, W. H. Ball Jr., a new man, from the Springfield Training School'. The Balls in the 1880s volumes are other men entirely -- J. R. Ball, J. J. Ball, John T. Ball of Meridian, G. L. Ball of Seaforth, B. F. Ball of Boston, J. B. Ball of Sherbrooke, Willard D. Ball of Los Angeles. THE THREE YEARS BETWEEN HIS ENTRY INTO ASSOCIATION WORK IN 1889 AND HIS ARRIVAL IN MONTREAL ARE STILL BLANK and this series does not fill them. The search pattern was run as a control against two volumes where he IS present before this null was recorded. TWO NEW NAMES, both grepped against the repo and its 954-file cache before being written down. CHARLES CUSHING, Montreal, is the CORRESPONDING MEMBER FOR QUEBEC in the 1887 volume -- 'Quebec ........ Charlbs Cushino ....Montreal.' The name occurs nowhere else in this project, and it matters because the Cushings are already in the founding story: Lemuel Cushing took boys to Lake Saint-Joseph in 1892, W. E. Cushing sat on the 1892 committee, and Percy H. Cushing was the association's Assistant Secretary in 1894 and 1895. A Cushing holding the YMCA's senior Quebec volunteer post five years before any of that is a thread worth pulling. IT IS A NAME AND A POST AND NOTHING MORE: no relationship to any other Cushing is established, and Cushing is not a rare enough surname to assume one. In the 1886 volume that post is held by D. A. BUDGE himself, so Cushing succeeded him, or they alternated, between 1886 and 1887. And G. A. KUHRING is an Assistant at Montreal under Budge in the earlier volume of ymcayearbookand01amergoog -- 1882 or 1884, the line falling before that scan's 1884 title page and its first title page being unreadable, so the year is left as a range. Also new to this project.",
+      "sources": [
+        "src_ymca_yearbook_ia_inventory_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.11",
       "added_by": "ralph_loop"
     }
   ]

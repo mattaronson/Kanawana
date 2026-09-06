@@ -29845,7 +29845,25 @@
       "read_state": "partial",
       "read_state_basis": "NOT lending-restricted; full djvu text downloaded and searched 2026-09-06 under p_435. THE CATALOGUE GIVES year: 1907 AND IS WRONG BY TWO YEARS: the title page at scan line 1381 reads 'YEAR BOOK OF THE YOUNG MEN'S CHRISTIAN ASSOCIATIONS OF NORTH AMERICA / May 1, 1908, to April 30, 1909 / NEW YORK / YOUNG MEN'S CHRISTIAN ASSOCIATION PRESS / 1909', with 'Copyright, 1909' on the verso. The Quebec branch directory and the Montreal block of the alphabetical list of employed officers were read, with the entry-year legend. 'Kanawana' occurs zero times. Nothing else is read.",
       "notes": "THE FIRST YEAR OF THIS PROJECT'S 1909-1920 HOLE, and it would have been skipped as a duplicate on its catalogue year. It was also missed by the earlier title-page sweep, whose pattern looked for 'For the Year NNNN' -- this volume dates itself by the association year instead and contains no such phrase. THE MONTREAL ROSTER: Pres. John W. Ross; Gen. Secy. D. A. Budge; Central Dept. Ch. C. C. Holland; Asst. W. J. HOLLIDAY; Asst. FRED G. WHITE; Ed. Dir. NO NAME PRINTED; Phys. Dir. J. E. Merritt; Asst. Phys. Dir. HERBERT C. PATTERSON; BOYS' WORK DIR. M. G. BROOKS; Fairmount Ave. Br. Ch. H. T. Wilson, Secy. W. A. Maclaren. Entry years from the alphabetical list: Brooks 05, Budge 74, Calhoun 90, Brown (McGill) 07, Billings 07, Dudley 95, Holliday 06, McGonigle 09, Maclaren 04, MERRITT 94, Patterson 08, Ritchie 96, White 09. NEW HERE: M. G. BROOKS occurs nowhere else in this repo or its cache; FRED G. WHITE likewise; HERBERT C. PATTERSON gives a first name to the 'H. C. Paterson' of the 1921 volume (note the two-t spelling, and note that the camp's 1923 director Philip G. Paterson is a different man not joined to him here); and J. E. Merritt's year of entry, 1894, was unknown. THE FINDING: W. J. HOLLIDAY, whom the association's 1931 report calls Kanawana's FIRST CAMP DIRECTOR and whom f_4967 documents as Montreal's Boys' Work Director in 1907 and 1908, IS LISTED HERE AS 'Asst.', with M. G. Brooks as Boys' Work Director -- in both the branch directory and the alphabetical index, so not one OCR slip. That is a title change in the roster and nothing more; the volume gives no reason and none is supplied. See f_4983."
+    },
+    {
+      "source_id": "src_ymca_yearbook_ia_inventory_2026",
+      "type": "catalog_reference",
+      "title": "The YMCA Year Book on the Internet Archive — complete inventory of thirteen items and the twenty-three volumes they hold",
+      "date": "2026-09-06",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/advancedsearch.php",
+      "cache_path": "sources/cache/ymca-yearbooks/2026-09-06-complete-ia-inventory-of-the-series.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "7.11",
+      "reliability": "tertiary",
+      "read_state": "read",
+      "read_state_basis": "Compiled 2026-09-06 under p_436 from advancedsearch.php title queries on both of the series' titles, archive.org/metadata on every item found, two title-page patterns run across all thirteen downloaded djvu texts, and direct front-matter reads on the items both patterns missed. This is a finding-aid record, not a source of camp facts.",
+      "notes": "REGISTERED SO NOBODY ENUMERATES THIS SERIES AGAIN. Thirteen Internet Archive items hold twenty-three annual volumes; six items hold more than one, one holds five, and one is bound out of order. Catalogue years are unreliable -- ymcayearbookand00amergoog is catalogued 1907 and is the 1909 volume. THE SERIES IS AVAILABLE FOR 1881-82, 1884, 1886, 1887, 1888, 1890, 1891, 1892, 1893, 1894, 1895, 1896, 1897, 1898, 1899, 1900, 1906, 1907, 1908, 1909, 1921, 1922 and 1936 (restricted). IT IS NOT AVAILABLE ON THE INTERNET ARCHIVE FOR 1883, 1885, 1889, 1901-1905, 1910-1920 or 1923-1935. Those holes are not an artefact of a bad query: four corrected search methods converge on them. 1910-1920 costs the most -- the new site's first decade and the whole First World War. See f_4985."
     }
   ],
-  "source_count": 1658
+  "source_count": 1659
 }

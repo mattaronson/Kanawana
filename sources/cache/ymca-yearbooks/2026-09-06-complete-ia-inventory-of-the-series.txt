@@ -1,0 +1,111 @@
+THE YMCA YEAR BOOK ON THE INTERNET ARCHIVE — A COMPLETE INVENTORY
+==================================================================
+Compiled 2026-09-06 (p_436). This file exists so that nobody enumerates this series again.
+
+WHY IT WAS NEEDED
+-----------------
+Four separate things were wrong with how this project had been finding volumes in this series.
+
+1. THE ENUMERATION WAS TOO NARROW. `identifier:ymcayearbookoffi*` returns three items. The series
+   is also catalogued under `ymcayearbookand*`, `yearbookofyoungm*` and `yearbookyoungme*`, and
+   under a second title, "Year Book of the Young Men's Christian Associations of North America".
+
+2. THE SCRAPE ENDPOINT WAS SERVING STALE RESULTS. See f_4978. Use advancedsearch.php with
+   output=json, and keep a control query whose answer you already know.
+
+3. THE CATALOGUE YEARS ARE UNRELIABLE, AND NOT BY A LITTLE. ymcayearbookand00amergoog is
+   catalogued 1907 and is the 1909 volume. Others are catalogued by the FIRST of several volumes
+   bound into the same scan.
+
+4. SCANS HOLD MULTIPLE VOLUMES. Six of the thirteen items do. One holds five.
+
+And the sweep built to correct point 4 had its own hole: it matched "FOR THE YEAR NNNN" and so
+missed the 1909 volume, which dates itself "May 1, 1908, to April 30, 1909", and missed the 1882
+volume, whose OCR reads "FOB THE YEAR". EVERY PATTERN USED HERE FAILED AT LEAST ONCE. The
+inventory below was finished by reading front matter directly wherever a pattern returned nothing.
+
+TELLING A TITLE PAGE FROM A STATISTICS HEADING, since both read "FOR THE YEAR NNNN": a title page
+sits under "UNITED STATES AND DOMINION OF CANADA" or "NORTH AMERICA," and above a price line
+("Price, 50 Cents"); a statistics heading names the PREVIOUS year and follows a line about
+American associations.
+
+
+THE INVENTORY
+-------------
+Item                          Volumes it contains          Catalogued as
+----------------------------  ---------------------------  -------------
+yearbookofyoungm00youn        1881-82                      1881
+ymcayearbookand01amergoog     1882(-83?), 1884             1882
+ymcayearbookand02amergoog     1886, 1887, 1888, 1890       1886
+yearbookofyoungm0000vari      1891, 1892                   (none)
+ymcayearbookand02assogoog     1891, 1892, 1898, 1894, 1895 1891   [bound OUT OF ORDER]
+ymcayearbookand00assogoog     1896, 1897, 1898, 1899, 1900 1896
+yearbookyoungme01commgoog     1899, 1900                   1899
+ymcayearbookand00amergoog     1909                         1907   [WRONG BY TWO YEARS]
+ymcayearbookand01assogoog     1921                         1921
+yearbookyoungme00commgoog     1921                         1921
+ymcayearbookoffi00youn        1921                         1921
+ymcayearbookoffi01youn        1922                         1922
+ymcayearbookoffi0000unse      1936                         (none)  [LENDING-RESTRICTED]
+
+Held separately in this project's cache from earlier work: 1893, 1894, 1895, 1896, 1897, 1906,
+1907, 1908.
+
+The 1882(-83?) reading is the one soft entry above: its OCR gives "FOB THE YEAR 1882-1888", where
+the trailing figure is almost certainly 1883 misread. It is written with the question mark it
+deserves.
+
+
+SO THE SERIES IS AVAILABLE FOR:
+  1881-82, 1884, 1886, 1887, 1888, 1890, 1891, 1892, 1893, 1894, 1895, 1896, 1897, 1898,
+  1899, 1900, 1906, 1907, 1908, 1909, 1921, 1922, and 1936 (restricted).
+
+AND IT IS NOT AVAILABLE, ANYWHERE ON THE INTERNET ARCHIVE, FOR:
+  1883, 1885, 1889, **1901 THROUGH 1905**, **1910 THROUGH 1920**, and 1923 through 1935.
+
+THOSE ARE THE REAL HOLES AND THEY ARE NOT AN ARTEFACT OF A BAD QUERY — this inventory is what
+four corrected search methods converge on. 1910-1920 is the one that costs this project most: it
+covers the new site's first decade, the whole of the First World War, and the years in which
+W. J. Holliday either did or did not get the Boys' Work directorship back. Chase those years at
+HathiTrust, Google Books full view, and the Kautz Family YMCA Archives at the University of
+Minnesota, which holds the series in print. Not on the Internet Archive.
+
+
+WHAT THE PRE-CAMP VOLUMES GAVE, AND WHAT THEY DID NOT
+-----------------------------------------------------
+The 1880s volumes were searched for the camp's people. Read as a null with one exception.
+
+W. H. BALL IS NOT IN ANY OF THEM. He entered Association work in 1889 (f_4976), and the 1892
+volume introduces him at Montreal as "the physical director, W. H. Ball Jr., a new man, from the
+Springfield Training School". The 1884, 1886, 1887, 1888 and 1890 volumes contain no W. H. Ball
+at Montreal or anywhere else. The Balls in them are other men — J. R. Ball, J. J. Ball, John T.
+Ball of Meridian, G. L. Ball of Seaforth, B. F. Ball of Boston, J. B. Ball of Sherbrooke, Willard
+D. Ball of Los Angeles. THE THREE YEARS BETWEEN HIS ENTRY INTO ASSOCIATION WORK AND HIS ARRIVAL
+IN MONTREAL REMAIN BLANK, and this series does not fill them. (The pattern used was run as a
+control against two volumes where he IS present before the null was recorded.)
+
+TWO PRE-CAMP MONTREAL NAMES, both checked by grep against the repo and its cache first:
+
+  CHARLES CUSHING, Montreal — the corresponding member FOR QUEBEC in the 1887 volume:
+      "Quebec ........ Charlbs Cushino ....Montreal."
+  The name occurs NOWHERE in this project. It matters because the Cushings are already tangled in
+  the founding: Lemuel Cushing took boys to Lake Saint-Joseph in 1892, W. E. Cushing sat on the
+  1892 committee, and Percy H. Cushing was the association's Assistant Secretary in 1894 and 1895.
+  A Cushing holding the YMCA's senior Quebec volunteer post five years before any of that is a
+  thread worth pulling. IT IS A NAME AND A POST AND NOTHING MORE — no relationship to any other
+  Cushing is established here, and none should be assumed from a surname that is not rare.
+
+  G. A. KUHRING, Assistant at Montreal under D. A. Budge, in the earlier volume of
+  ymcayearbookand01amergoog (1882 or 1884 — the line sits before that scan's 1884 title page).
+  Also new to this project. The year is left as a range because the scan's first title page could
+  not be read cleanly.
+
+In the 1886 volume the Quebec corresponding member is D. A. BUDGE himself, so Cushing succeeded
+him — or they alternated — between 1886 and 1887.
+
+QUERIES RUN: advancedsearch.php title queries on both series titles; archive.org/metadata on
+every item; /FOR (THE )?YEARS? 1[89]dd/ and /(MAY|APRIL|JAN) 1?[.,]? 1[89]dd,? TO/ across all
+thirteen downloaded texts; direct front-matter reads on the items both patterns missed;
+/B[ai][Ull]{2}[.,]? W.? H/ across the pre-camp volumes with a control on two volumes where Ball
+is known present; 'Montr[a-z]{2,6}' across the pre-camp volumes; and repo-wide greps on
+"Charles Cushing", "Chas. Cushing" and "Kuhring".

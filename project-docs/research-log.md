@@ -5749,3 +5749,42 @@ Also from the same page: **Herbert C. Patterson**, the first name behind the 192
 1923 director); **J. E. Merritt**, Ball's successor as Physical Director, entered Association work
 in **1894**, the year the camp was founded; **Fred G. White**, new in post in 1909; and the
 **Educational Director line printed blank**, as in 1900 after Randal left for Taunton.
+
+### The series, inventoried in full — and what is genuinely not there
+
+p_436's first job. The sweep was re-run with both title-page forms and, wherever both returned
+nothing, by reading front matter directly. **Every pattern used in this campaign failed at least
+once**: "FOR THE YEAR NNNN" missed the 1909 volume, which dates itself by the association year,
+and missed the 1882 volume, whose OCR reads "FOB THE YEAR". The inventory was finished by hand.
+
+Thirteen Internet Archive items hold **twenty-three annual volumes**. Six items hold more than
+one; `ymcayearbookand00assogoog` holds five; `ymcayearbookand02assogoog` holds five **bound out of
+order**, with 1898 sitting between 1892 and 1894.
+
+Available: 1881-82, 1884, 1886, 1887, 1888, 1890 through 1900, 1906 through 1909, 1921, 1922, and
+a lending-restricted 1936.
+
+**Not available anywhere on the Archive: 1883, 1885, 1889, 1901-1905, 1910-1920, 1923-1935.**
+Those holes survive four separately corrected search methods, so they are the shape of the
+Archive's holdings and not of a bad query — which is worth stating plainly, because for two days
+this project's "missing years" were partly an artefact of how it was looking. 1910-1920 is the
+expensive one: the new site's first decade, the whole war, and the years in which W. J. Holliday
+either did or did not recover the Boys' Work directorship. Off-Archive, so HathiTrust, Google
+Books, or the Kautz Family YMCA Archives at Minnesota, which holds the run in print.
+
+**The pre-camp volumes.** W. H. Ball is in none of them — the null was recorded only after the
+search pattern was run as a control against two volumes where he *is* present. His three years
+between entering Association work in 1889 and reaching Montreal by 1892 stay blank.
+
+Two new names. **G. A. Kuhring**, an assistant under Budge in the 1882-or-1884 volume. And
+**Charles Cushing** of Montreal, the YMCA's **corresponding member for Quebec in 1887** — the
+senior volunteer post in the province, held by Budge himself the year before.
+
+That last is why p_437 exists. The Cushings are already in the founding story and nobody has
+established how they relate: Lemuel Cushing at Lake Saint-Joseph in 1892, W. E. Cushing on the
+1892 committee, Percy H. Cushing as Assistant Secretary in 1894-95. A fourth Cushing in the
+senior Quebec chair in 1887 would make the family structural rather than incidental, and would
+reframe the 1892 trip as something the association's leadership circle did rather than a private
+initiative it later absorbed. Or he is an unrelated man with a common surname, which is equally
+worth settling. The first step is a file this repo already holds:
+`sources/cache/web-pages/cushing-genealogy-1905.txt`.
