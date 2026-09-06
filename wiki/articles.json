@@ -1261,10 +1261,11 @@
         "council-ring",
         "founding-1894",
         "traditions-and-culture",
-        "quebec-camp-landscape"
+        "quebec-camp-landscape",
+        "french-language-camping"
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-      "word_count": 10600,
+      "word_count": 8944,
       "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, renamed the orphaned 'R3 Verification Notes' H2 to the standard 'Research Notes' heading and condensed its bullet list into a single HTML-comment process-log entry. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -1296,6 +1297,48 @@
         ],
         "is_hub": true
       }
+    },
+    {
+      "article_id": "french-language-camping",
+      "title": "French-Language Camping and Kanawana, 1967-1973",
+      "wiki_folder": "traditions",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06",
+          "by": "auto",
+          "task": "WRITE",
+          "note": "Spun out of programs-activities.md under p_452. NOT the stub p_452 called for: the material was already written into a fitting article, so spawning a stub from the five-fact threshold would have duplicated it. It spins out because the thread has its own arc across 1967-1973, four documents and several parts of the Montreal YMCA, and because the section holding it was 2,401 words naming three unrelated subjects."
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [
+        "f_5100",
+        "f_5103",
+        "f_5113",
+        "f_5114",
+        "f_5115"
+      ],
+      "sources_cited": [
+        "src_cache_sgw_ymca_annual_report_1971_1972",
+        "src_cache_sgw_ymca_annual_report_1972_1973",
+        "src_ymf_1968_05_03_proposal_for_french_language_day_camp",
+        "src_ymf_1968_french_day_camp_report",
+        "src_ymf_1971_01_25_french_program_summer_71",
+        "src_ymf_news_release_1969_04_24",
+        "src_ymf_news_release_1969_05_13_202501"
+      ],
+      "cross_links": [
+        "programs-activities",
+        "coeducation-gender",
+        "camp-otoreke",
+        "modern-era",
+        "geoff-anderson"
+      ],
+      "file_id": null,
+      "word_count": 2311,
+      "open_questions": 5
     },
     {
       "article_id": "ralph-dawson",
@@ -11416,5 +11459,5 @@
       "open_questions": 8
     }
   ],
-  "article_count": 113
+  "article_count": 114
 }

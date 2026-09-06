@@ -1,8 +1,8 @@
 {
-  "version": "8.02",
-  "kb_version": "8.02",
+  "version": "8.03",
+  "kb_version": "8.03",
   "migrated_from": "3.3",
-  "fact_count": 5089,
+  "fact_count": 5090,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91764,6 +91764,20 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.02",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5128",
+      "category": "methodology",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project"
+      ],
+      "claim": "THE 'TWO OVERDUE STUBS' WERE ONE SPINOUT AND ONE THING THAT SHOULD STAY WHERE IT IS. p_452 recorded both the French-language programme 1967-1972 and Values for Living / planned group development 1956-1961 as OVERDUE STUBS, on the ground that each had crossed CLAUDE.md's five-fact spawning threshold and had been 'written into programs-activities.md instead'. CHECKING THE DESTINATION FIRST -- the f_5118 lesson -- shows that framing was wrong in both cases, because the material was not merely written there, it was written there WELL. Spawning stubs would have duplicated it. THE FIVE-FACT THRESHOLD IS A TEST FOR WHETHER A SUBJECT EXISTS, NOT FOR WHETHER IT NEEDS ITS OWN ARTICLE, and once material is already written into a fitting article the spinout rule is the right test instead. FRENCH-LANGUAGE CAMPING SPINS OUT: an arc across 1967-1973, four documents and several parts of the Montreal YMCA, sitting inside a 2,401-word section headed '1968-69: horses, a doubled co-ed intake, and a French section' -- three unrelated subjects in one heading, the fourth mis-named container found this session. VALUES FOR LIVING DOES NOT: 800 words across two subsections of a chronological programme article, where it is the 1956-61 phase of that article's own arc, and its only two references elsewhere (canoe-trips.md, attendance-series.md) are passing mentions of the phrase while making a different point, not articles wanting to link to a subject. Recorded as a decision so a later pass does not read it as an oversight and spawn the stub.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.03",
       "added_by": "manual"
     }
   ]
