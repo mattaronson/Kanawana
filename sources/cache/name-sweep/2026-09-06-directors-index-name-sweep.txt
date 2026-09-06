@@ -167,6 +167,31 @@ PEOPLE — SWEPT 2026-09-06
   W. F. Chapman ........... 0 hits.  NULL.
 
 
+THE ZEROTH STEP, RUN PROPERLY — a word-boundary grep of the nine YMCA Year Book volumes now held
+--------------------------------------------------------------------------------------------------
+After the Holliday failure above, every name in this file plus the unswept list below was grepped,
+with word boundaries, across the nine volumes of the Year Book and Official Roster this project now
+holds (1893, 1894, 1895, 1896, 1897, 1906, 1907, 1908, 1921), and every hit checked for a Montreal
+or Quebec context. Result:
+
+  MONTREAL-CONTEXT HITS — two, and both already recorded:
+    A. O. Dawson, President of the Montreal association, 1921 volume (and a member of the
+      International Committee's own board) — recorded in f_4964, and NOT Ralph H. Dawson.
+    H. C. Paterson, Montreal, Westmount, Physical, entered 08 — recorded in f_4964's roster.
+
+  EVERYTHING ELSE IS A NULL, and an informative one. Owens, Shantz, Charlton, Cornell, Seaman,
+  Potts, Ellis, Dimock, Abraham, Cowan, Bradford, Turner, Miller, Lummis, Twynam, Langille,
+  Macdiarmid, Hanagan, Robitaille and Ereaux appear in these volumes ONLY as other men in other
+  cities. (R. L. Charlton's two hits are an English YMCA secretary at "Worcester Copenhagen St" —
+  Charlton Jones — in the British section.)
+
+  WHAT THE NULL MEANS. These volumes roster PAID ASSOCIATION OFFICERS. The men absent from them are
+  the camp's volunteers, committee members and seasonal staff — which is the same conclusion the
+  Spinney and Powter finds produced from the other direction (f_4958, f_4960, f_4966). The Montreal
+  YMCA's paid officers are now known for nine years; the camp's own people mostly were not paid
+  officers, and will be found in schools, universities and city directories instead.
+
+
 STILL TO SWEEP — the rest of directors-index.md and the committee chairmen
 ---------------------------------------------------------------------------
 A. Ross Seaman · Alexandra Olshefsky · Bex Finnigan Reisler · Billy Ball · Carol Skinner ·
