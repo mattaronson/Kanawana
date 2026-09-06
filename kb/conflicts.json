@@ -105,7 +105,9 @@
       "description": "Lake Desjardins existence/identity: oral history says McConnell donated 'Lake Desjardins' to the camp, but no lake by that name is documented at or near the site",
       "fact_ids": [
         "f_0036",
-        "f_0023"
+        "f_0023",
+        "f_2371",
+        "f_4934"
       ],
       "entity": "Lake Desjardins",
       "attribute": "existence_and_identity",
@@ -113,14 +115,15 @@
         "J.W. McConnell donated Lake Desjardins to Camp Kanawana (oral history, src_oral_aronson)",
         "The camp's three lakes are Lake Kanawana, Lake Wilson, and Round Lake — no Lake Desjardins (oral history f_0023; corroborated by YMCA official descriptions of 'three private lakes')"
       ],
-      "status": "partially_resolved",
-      "notes": "Phase 2 search (2026-06-11): no 'Lac Desjardins' found in any registry. Oral history follow-up (2026-06-12): informant states Lac Desjardins was the ORIGINAL name of the lake that became Lake Wilson — it was renamed after McConnell bought and donated it (f_1206). Phase 2 research (2026-06-13): Pagé family genealogy reveals Magloire Pagé fils married **Olivine Desjardins** in 1875 (f_1228). The Pagé family owned extensive land in Saint-Sauveur (lot 43, côte Saint-Elmire) and sold property to the YMCA c. 1910. If the lake sat on Pagé-Desjardins family land, 'Lac Desjardins' likely refers to Olivine's maiden name — a common Quebec toponymic pattern where lakes are named for landowner families. This provides a plausible genealogical origin for the name. Remaining: land registry confirmation linking specific Pagé parcels to the lake.",
+      "status": "resolved",
+      "notes": "Phase 2 search (2026-06-11): no 'Lac Desjardins' found in any registry. Oral history follow-up (2026-06-12): informant states Lac Desjardins was the ORIGINAL name of the lake that became Lake Wilson — it was renamed after McConnell bought and donated it (f_1206). Phase 2 research (2026-06-13): Pagé family genealogy reveals Magloire Pagé fils married **Olivine Desjardins** in 1875 (f_1228). The Pagé family owned extensive land in Saint-Sauveur (lot 43, côte Saint-Elmire) and sold property to the YMCA c. 1910. If the lake sat on Pagé-Desjardins family land, 'Lac Desjardins' likely refers to Olivine's maiden name — a common Quebec toponymic pattern where lakes are named for landowner families. This provides a plausible genealogical origin for the name. Remaining: land registry confirmation linking specific Pagé parcels to the lake. || RESOLVED 2026-09-06. This conflict rested on an ABSENCE -- 'no lake by that name is documented at or near the site' -- and the absence is now filled twice over. The camp's own 'Kamp Kanawana History' of 6 June 1951, read end to end on 2026-09-02, states that McConnell 'purchased the land around Lake Desjardins' and gave it to the YMCA, 'and the lake was renamed Lake Wilson after Mr. McConnell's son' (f_2371). And William Fong's biography of McConnell (McGill-Queen's University Press, 2008), read on 2026-09-06 through Open Library's search-inside endpoint, says the same thing from outside the institution and dates it: in 1912 'he also bought a site at Lake Desjardins, near Saint-Sauveur, for a new Camp Kanawana, which was renamed Lake Wilson after his first son' (f_4934). The oral history was right and the second value in this record -- that the camp's three lakes are Kanawana, Wilson and Round, with no Lake Desjardins -- is also right, because Lake Desjardins IS Lake Wilson under its earlier name. The two values were never in conflict; they describe the same lake before and after 1912. The Page-Desjardins genealogy above remains the plausible origin of the earlier name and is not established. WHAT IS STILL OPEN, and is not this conflict: whether McConnell bought the lake or the whole site, and whether purchase and renaming fell in the same year -- Fong's sentence does not say.",
       "created_at": "2026-06-11T00:00:00Z",
       "affects_articles": [
         "j-w-mcconnell",
         "the-kanawana-site",
         "lake-wilson"
-      ]
+      ],
+      "resolved_at": "2026-09-06"
     },
     {
       "conflict_id": "c_007",

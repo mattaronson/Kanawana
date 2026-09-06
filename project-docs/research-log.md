@@ -4709,3 +4709,58 @@ now says so with the volume ids a later pass would need.
 
 `f_2244` is annotated rather than superseded: its browse half is true and useful. The sentence that had
 to go is "each now one query away."
+
+## 2026-09-06 — Open Library's search-inside endpoint, and what came out of the first hour
+
+**Topic.** Whether the Internet Archive's book corpus can be searched full-text from this environment.
+This project had recorded, on 2026-07-09, that it could not: an attempt to search inside William Fong's
+biography of J.W. McConnell through the Archive's own `fulltext/inside.php` returned HTTP 403 for every
+query, and `j-w-mcconnell.md` open question 1 concluded "genuine dead end; only physical/operator access
+to the book remains."
+
+**Surfaces tried, 2026-09-06.**
+
+| Route | Result |
+|---|---|
+| `archive.org/download/<id>/<id>_djvu.txt` | **403** for a lending-restricted item |
+| `ia<server>.us.archive.org/fulltext/inside.php?item_id=…` | **"Item not available"** HTML |
+| `api.archivelab.org/books/<id>/searchinside` | no response |
+| `ia-fts.archive.org/api/v1/search/hits` | no response |
+| **`openlibrary.org/search/inside.json?q=<phrase>`** | **works, unauthenticated, restricted books included** |
+
+The working endpoint returns, per hit, the item identifier, the **scan leaf number**, full item metadata,
+and a highlighted window of roughly a dozen words around the match. Overlapping phrase queries walk the
+text outwards: search the last four words of a window and the next window comes back. A paragraph takes
+six to ten queries. Sleep about two seconds between calls — under load it answers with non-JSON, which is
+a rate limit and not an absence.
+
+**Queries run and what they returned.**
+
+- `"Camp Kanawana"` — 8 books. Six of them were unknown to this project and are queued as **p_427**.
+- `"which was renamed Lake Wilson after"` and six more phrases → the Fong passage: *"…1912, in that year
+  he also bought a site at Lake Desjardins, near Saint-Sauveur, for a new Camp Kanawana, which was
+  renamed Lake Wilson after his first son."* First attestation of the renaming from outside the
+  institution, a date for it, and the end of conflict **c_006**, which existed because no lake called
+  Desjardins was documented anywhere. **f_4934.**
+- `"Camp Kanawana, a children's camp"` and about a dozen more → the entry for **LOCKE, ROY** in *The
+  Canadian Obituary Record*. Roy **Douglas** Locke, b. Toronto c. 1920, d. Montreal West 19 September
+  1991, mayor of Montreal West, YMCA director of financial development to 1986, "and was a director of
+  Camp Kanawana." That joins the mayor and the camp chief this wiki had explicitly refused to identify
+  with each other. **f_4935.**
+- `"Kanawana"` incidentally, across the corpus → **Kanawana was a post office**, listed in the Post
+  Office Department's 1915 annual report, a Sessional Paper ("Kanawana (summer office) P.Q."), the
+  Canadian Almanac's post-office tables, and a modern gazetteer. Nothing in this wiki says so. **p_428.**
+- Same sweep → *Who's Who in Canada 1965*, an entry naming "Kamp Kanawana (YMCA), Director" among a
+  McGill skier's clubs. The name was not recovered. **p_429.**
+
+**Null results, logged so the ground is not re-covered.** `"director of Camp Kanawana"` returns nothing —
+the phrase is hyphenated across a line break in the scan as "di¬ rector", and phrase matching cannot see
+through it. `"after his first son"` alone returns nothing while `"Wilson after his first son"` returns
+the hit, which is a scoring artefact rather than an absence. `"YMCA as director of financial
+development"` returns nothing because the OCR reads "director of fi¬ nancial". **OCR breakage defeats
+phrase search, and a zero from this endpoint is a fact about the endpoint.**
+
+**The lesson, which is the eleventh rule inverted.** Rule 11 says test a capability before spending a
+session on what it promises. Its other half is now on record: **re-test a capability before trusting a
+dead end.** The note that closed this question was accurate about the API it tried and wrong about the
+world, and it stood for fourteen months.

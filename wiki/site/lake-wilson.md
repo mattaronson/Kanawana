@@ -1,7 +1,7 @@
 # Lake Wilson
 
-*Status: E1-reviewed | Sources: 12*
-*Last Updated: 2026-09-02*
+*Status: E1-reviewed | Sources: 13*
+*Last Updated: 2026-09-06 (Fong's 2008 biography of McConnell, read past a dead end)*
 
 ## Overview
 
@@ -32,6 +32,43 @@ Lake Wilson serves as a destination for overnight camping excursions. Two-week c
 That is a primary in-house document, and it confirms both halves of what this article had held as unverified. The lake **was** formerly Lac Desjardins; it **was** bought and given to the YMCA by J.W. McConnell; and it **was** named for his son — Wilson Griffith McConnell (1908–1966), on the identification argued at [[people/j-w-mcconnell|J.W. McConnell]]. The oral history recorded here was right, and a document independently reached the same account.
 
 Two things about how this was missed are worth keeping. The source has been in the knowledge base since July 2026 marked as read; what "read" meant was that a previous pass had quoted the passages it went looking for. And this section previously named the 1933 Dawson history and the 1943 Charlton account as "the most likely sources, but confirmed archive-only" — treating the answer as out of reach while it sat in a cached document nobody had read through.^12
+
+### An outside source says the same thing, and puts a year on it
+
+Everything above comes from inside the institution — the camp's own 1951 history and operator oral
+history. **There is now a source from outside it.** William Fong's biography of McConnell, published by
+McGill-Queen's University Press in 2008, contains this sentence:^13
+
+> "… 1912, in that year he also bought a site at **Lake Desjardins, near Saint-Sauveur, for a new Camp
+> Kanawana, which was renamed Lake Wilson after his first son**. [F]urther, the YMCA campaign provided
+> the model for a fundraising campaign of McGill University, also in …"
+
+Three things it settles and one it does not.
+
+**Lake Desjardins was real.** This wiki has carried conflict `c_006` since June 2026 on the ground that
+no lake of that name is documented anywhere near the site. A university-press biography naming it, in a
+sentence about the purchase, fills that absence.
+
+**The renaming is independently attested**, by an author with no stake in the camp, working from
+McConnell's own papers rather than from the camp's.
+
+**There is a date: 1912.** The 1951 history said only "a short time later" than the 1910 purchase of
+the main site.
+
+**It does not name the son.** Fong writes "his first son", and the identification of Wilson Griffith
+McConnell (1908–1966) still rests on the family record set out at [[people/j-w-mcconnell|J.W.
+McConnell]] — but "first son" and "Wilson" agree, which is one more coincidence than the identification
+had before. Nor does the passage say whether McConnell bought the lake or the whole site, or whether
+the purchase and the renaming fell in the same year.
+
+*On how it was found, because it matters more than the finding.* The book is lending-restricted on the
+Internet Archive, and this project recorded on 2026-07-09 that searching inside it was impossible — the
+Archive's own search-inside API returns 403 for every query against a print-disabled item, and the note
+concluded "only physical/operator access to the book remains." That was true of the route tried. Open
+Library's own search-inside endpoint answers the same corpus, restricted books included, and the
+passage above was assembled from seven overlapping phrase queries against it. The full method is at
+[f_4933]; what it says about this article is that a dead end recorded fourteen months ago was a fact
+about one API.
 
 ### What the alternatives were, and why they now fall away
 
@@ -86,6 +123,7 @@ The dam between Lake Kanawana and Lake Wilson is a longstanding camp feature.^3 
 10. Concordia University Archives, YMCA of Montreal fonds sub-series 12A/12L (Dawson 1933, Charlton 1943 box locations) [src_concordia_12L].
 11. "Kamp Kanawana History," presented at a staff Training Course, 6 June 1951 [src_ia_kanawana_history_1951]. Internet Archive, `1951-kamp-kanawana-history`; full text cached 2026-09-02 at `sources/cache/src_ia_kanawana_history_1951.txt`. See [f_2371].
 12. The reading history of that document is itself recorded at [f_2376]: it carried read_state "extracted" on the strength of quoted passages, with no cached text, from July 2026 until it was read end to end on 2026-09-02.
+13. William Fong, *J.W. McConnell: Financier, Philanthropist, Patriot* (Montreal: McGill-Queen's University Press, 2008), Internet Archive scan leaf 766 [src_fong_mcconnell_2008]. **One passage only**, reconstructed 2026-09-06 from seven overlapping Open Library search-inside queries; the book is lending-restricted and has not been read, and the printed page number is unknown. The reconstruction, with the queries that produced it, is cached at `sources/cache/openlibrary-search-inside/2026-09-06-fong-mcconnell-lake-wilson.txt`. See [f_4934], [f_4933].
 
 ## Research Notes
 

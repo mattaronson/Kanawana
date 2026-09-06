@@ -1,8 +1,8 @@
 {
-  "version": "6.70",
-  "kb_version": "6.70",
+  "version": "6.71",
+  "kb_version": "6.71",
   "migrated_from": "3.3",
-  "fact_count": 4894,
+  "fact_count": 4897,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87904,6 +87904,62 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.70",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4933",
+      "category": "method",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Internet Archive",
+        "Open Library"
+      ],
+      "claim": "A WORKING FULL-TEXT SEARCH OF THE INTERNET ARCHIVE'S BOOK CORPUS, INCLUDING BOOKS THAT CANNOT BE READ. Open Library's endpoint https://openlibrary.org/search/inside.json?q=<phrase> searches inside scanned books and RETURNS HIGHLIGHTED SNIPPETS FOR LENDING-RESTRICTED AND PRINT-DISABLED ITEMS, together with the item identifier and the SCAN LEAF NUMBER. Verified 2026-09-06 by curl from this environment; no authentication. A quoted phrase is matched as a phrase; several bare terms are ANDed. THIS CLOSES A DEAD END THIS PROJECT HAD RECORDED AS CONFIRMED: wiki/people/j-w-mcconnell.md open question 1 said, on 2026-07-09, that searching inside the Fong biography of J.W. McConnell was impossible because the Internet Archive's own search-inside API returned HTTP 403 for every query, 'the print-disabled status blocks search-inside just as it blocks borrowing', and that 'only physical/operator access to the book remains'. That was true of the route tried and false of the world. The IA endpoints still fail from here -- archive.org/download/<id>/<id>_djvu.txt returns 403 for a restricted item, and fulltext/inside.php on the item's own server returns 'Item not available' -- so the Open Library route is not a variant of them but a different service. METHOD FOR READING PAST THE SNIPPET: each query returns a window of about a dozen words around the match, so overlapping phrase queries walk the text outwards. Searching the last four words of a snippet returns the next window. A paragraph can be reconstructed in six to ten queries. Sleep about two seconds between calls; the endpoint intermittently answers with non-JSON under load, which is a rate limit and not an absence. A NEGATIVE RESULT FROM THIS ENDPOINT IS STILL A FACT ABOUT THE ENDPOINT: OCR errors defeat phrase matching, and this project has already seen 'Lurther' for 'Further' and 'di- rector' hyphenated across a line break inside the corpus.",
+      "sources": [
+        "src_openlibrary_search_inside"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.71",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4934",
+      "category": "site",
+      "date_ref": "1912",
+      "entities": [
+        "J.W. McConnell",
+        "Lake Desjardins",
+        "Lake Wilson",
+        "Kamp Kanawana",
+        "Wilson Griffith McConnell"
+      ],
+      "claim": "AN INDEPENDENT PUBLISHED SOURCE FOR THE LAKE WILSON RENAMING, AND A DATE FOR IT. William Fong, J.W. McConnell: Financier, Philanthropist, Patriot (McGill-Queen's University Press, 2008), Internet Archive scan leaf 766, reads: \"...1912, in that year he also bought a site at Lake Desjardins, near Saint-Sauveur, for a new Camp Kanawana, which was renamed Lake Wilson after his first son. [F]urther, the YMCA campaign provided the model for a fundraising campaign of McGill University, also in...\" (the OCR gives \"Lurther\" for \"Further\"). Reconstructed 2026-09-06 from seven overlapping phrase queries against Open Library's search-inside endpoint (f_4933); the book is lending-restricted and could not be read whole, so this is the sentence and not its context, and the printed page number is not established -- 766 is the scan leaf. FOUR THINGS FOLLOW. (1) LAKE DESJARDINS IS REAL AND IS THE LAKE. A scholarly biography from a university press names it as the site bought for the camp, which fills the absence that conflict c_006 was built on -- no lake of that name being documented anywhere. (2) THE RENAMING IS INDEPENDENTLY ATTESTED. Until now it rested on the camp's own 1951 in-house history and on operator oral history, both internal to the same institution. (3) A DATE: 1912, where the 1951 history said only 'a short time later' than the 1910 purchase. (4) 'HIS FIRST SON' agrees with this project's identification of Wilson Griffith McConnell (1908-1966) as the eldest son, though Fong names the son only through the lake and does not write 'Wilson Griffith'. WHAT IT DOES NOT SETTLE: whether McConnell bought the lake alone or the whole site, and whether the purchase and the renaming happened in the same year.",
+      "sources": [
+        "src_fong_mcconnell_2008"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.71",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4935",
+      "category": "directors",
+      "date_ref": "1991-09-19",
+      "entities": [
+        "Roy D. Locke",
+        "Montreal West",
+        "Kamp Kanawana",
+        "Fraser-Hickson Library"
+      ],
+      "claim": "ROY LOCKE'S OBITUARY, AND THE IDENTIFICATION THIS WIKI HAD DECLINED TO MAKE. The Canadian Obituary Record, ed. Robert M. Stamp (Toronto: Dundurn Press), scan leaf 266, carries an entry reconstructed 2026-09-06 from overlapping phrase queries (f_4933): \"LOCKE, ROY municipal politician [b. Toronto, Ont., c. 1920; d. Montreal West, Que., 19 September 1991, age 71]. Roy Douglas Locke was a former mayor of the suburban Montreal community of Montreal West. Locke graduated from the University of Toronto and worked initially with the Young Men's Christian Association (YMCA) in Toronto[...] business from 1954 to 1969, then returned to the YMCA as director of financial development until 1986. He served on the town commission of Montreal West from 1973 to 1989, first as commissioner of recreation, then for 12 years as mayor. Locke was particularly proud of his work in developing parks and protecting green spaces in the community. Locke headed the financial campaign for the Fraser Hickson Library in Notre Dame de Grace, Quebec, AND WAS A DIRECTOR OF CAMP KANAWANA, a children's camp in the Laurentians. He is survived by his wife, Patricia, nee Binns, daughter Vicky Chantler and three grandchildren. (MG 20 and 21 Sep [1991])\" -- MG being the Montreal Gazette. THIS SETTLES THE OPEN IDENTIFICATION IN wiki/people/roy-locke.md, which recorded that a Roy Locke was mayor of Montreal West in 1978 and that a Roy D. Locke ran Kanawana, and refused to join them because the name is not rare enough. One published obituary entry says both of the same man. IT ALSO GIVES: a full name, ROY DOUGLAS LOCKE, matching the 'Roy D. Locke' of the camp's records; birth in Toronto about 1920, so he was about twenty-seven when he became Camp Chief in 1947; a death date, 19 September 1991; a wife, Patricia nee Binns, and a daughter, Vicky Chantler; the Fraser-Hickson Library campaign; a mayoralty of twelve years within a town commission service of 1973-1989, which fits the 1978 director's report thanking 'the Town of Montreal West and Mayor Roy Locke' for the loan of water meters; and a return to the YMCA ending in 1986, which fits the Metropolitan Staff roster of 1986 listing him as Director, Funding Development. ONE TENSION TO KEEP: the obituary puts him in BUSINESS from 1954 to 1969, while the Montreal YMCA's own 1954 Annual Report has him succeeding N. A. Millington at Westmount Branch on 1 September 1954. Either the Westmount posting was brief and he left the association soon after, or the obituary compresses. Both are documented sources and neither is preferred here. The Gazette of 20 and 21 September 1991 is the underlying obituary and has not been read.",
+      "sources": [
+        "src_stamp_canadian_obituary_record"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.71",
       "added_by": "ralph_loop"
     }
   ]

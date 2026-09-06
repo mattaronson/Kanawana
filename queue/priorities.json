@@ -5333,6 +5333,50 @@
       "created": "2026-09-06",
       "source": "p_253 close-reading campaign",
       "blocked_on": null
+    },
+    {
+      "priority_id": "p_426",
+      "rank": 426,
+      "type": "RESEARCH",
+      "description": "READ THE REST OF FONG'S McCONNELL BIOGRAPHY THROUGH OPEN LIBRARY'S SEARCH-INSIDE ENDPOINT. One passage of a 700-page book has been read (f_4934, scan leaf 766) and it answered a question this project had recorded as a confirmed dead end. The endpoint (f_4933) can be pointed at the rest. SPECIFIC TARGETS, each a phrase to query: chapter 5 on the 1909 YMCA fundraising campaign, which this wiki has only from secondary summaries; 'Kanawana' again in other windows (the phrase returns hits on leaf 766 only so far, but 'Kamp Kanawana', 'Saint-Sauveur', 'St Sauveur', 'summer camp', 'Wilson Griffith', 'boys' work' and 'Y.M.C.A.' are untried); the McConnell Foundation's later dealings with the camp; and anything on the land purchase itself, since Fong's sentence does not say whether McConnell bought the lake or the whole site. METHOD: overlapping phrase queries, ~2s apart, joining the windows; cache each reconstruction under sources/cache/openlibrary-search-inside/ with the queries that produced it, as the two files there do. Every reconstruction is a reconstruction and must say so.",
+      "weight": 10,
+      "status": "pending",
+      "created": "2026-09-06",
+      "source": "Open Library search-inside sweep, 2026-09-06 (f_4933)",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_427",
+      "rank": 427,
+      "type": "RESEARCH",
+      "description": "SWEEP THE INTERNET ARCHIVE BOOK CORPUS FOR KANAWANA THROUGH OPEN LIBRARY, SYSTEMATICALLY. The first query ever run (2026-09-06) returned eight books containing 'Camp Kanawana' and several more containing 'Kanawana' alone, most of them unknown to this project. WHAT IS ALREADY IDENTIFIED AND NOT YET READ: (a) 'Le Quebec en plein air' (Quebec Amerique, 2016) -- 'ce camp existe toujours: c'est maintenant le camp Kanawana. En 1911, le Camp Nominingue, le premier camp...' which is a claim about the camp's own identity and predecessor and MUST be read out in full; (b) 'Les Laurentides, peintures et paysage' (1977) -- 'dans des colonies de vacances comme le camp Kanawana de la YMCA sont venus dormir sous la...'; (c) Michael Kutz, 'If, by miracle' (Azrieli Foundation, 2013) -- 'wheelchairs, as well as for diabetic children from Camp Kanawana', with an index entry 'Camp Kanawana, 87'; (d) 'Retenue par un fil' (Azrieli Foundation, 2013) -- 'il a pour sa part rejoint le camp Kanawana du YMCA. Il m'a ecrit de longues lettres decrivant...', a survivor's account of a boy at Kanawana, LETTERS FROM CAMP described in a published memoir; (e) Mike Gutwillig, 'My Canada-Such a Mechiah!' (1967) -- 'if you were really fortunate, getting Camp Kanawana or Tameracouta for two weeks'; (f) L. Ian MacDonald, 'Politics, people & potpourri' (2009) -- 'she recently went on a five-day canoe trip at Camp Kanawana'. QUERY VARIANTS STILL UNTRIED: 'Kamp Kanawana', 'Kanawanna', 'Camp Kanawanna', 'Lake Kanawana', 'Lac Kanawana', 'Kanawana, Que', and the camp's people by name.",
+      "weight": 9,
+      "status": "pending",
+      "created": "2026-09-06",
+      "source": "Open Library search-inside sweep, 2026-09-06 (f_4933)",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_428",
+      "rank": 428,
+      "type": "RESEARCH",
+      "description": "KANAWANA HAD ITS OWN POST OFFICE, AND THE ALMANACS DATE IT. Found incidentally 2026-09-06 in the Open Library sweep. The Post Office Department's annual report for 1915 lists under mail service 'Kanawana - St. Sauveur des Mont[s]' among railway-station and mail-catch points; a Sessional Paper lists 'Kanawana (summer office) P.Q.'; the Canadian Almanac's post-office tables carry 'Kanawana' in a run of entries between Kananaskis and Kandahar in at least two editions; and a modern gazetteer indexes 'Kanawana, UP (Que.) 18 F4' -- UP being an unincorporated place. SO THE CAMP, OR THE PLACE, WAS A POST OFFICE OF THE DOMINION OF CANADA, seasonal at least in part. NOTHING IN THIS WIKI SAYS SO. What to establish: the opening and closing dates (the Canadian Almanac ran annually and the postal guides are on the Internet Archive, so the run can be walked year by year); whether it was a summer office only; who the postmaster was, since almanac tables often name them; and what the mail route was. Library and Archives Canada holds the Post Office Department's post-office and postmaster records, which give exact opening and closing dates for every Canadian post office, and that is the authority. This bears on the camp's dating: a post office implies a settled seasonal population and an address.",
+      "weight": 9,
+      "status": "pending",
+      "created": "2026-09-06",
+      "source": "Open Library search-inside sweep, 2026-09-06 (f_4933)",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_429",
+      "rank": 429,
+      "type": "RESEARCH",
+      "description": "IDENTIFY THE KANAWANA DIRECTOR IN WHO'S WHO IN CANADA 1965. Found 2026-09-06 through Open Library search-inside, item whoswhoincanada0000unse_r1d7, scan leaf 1546: '...Association of Canada. Clubs: Kimberley Ski (President, 1960); Redbirds Ski; Kamp Kanawana (YMCA), Director[.]' The subject's NAME was not recovered -- Who's Who entries run long and the name sits at the head, beyond the reach of the phrase-walking used here. Redbirds is the McGill ski club and Kimberley Ski Club is in British Columbia, so this is a McGill man who was president of a BC ski club in 1960 and a director of Kamp Kanawana. He is not obviously any of the directors this wiki holds for the 1960s (Seaman 1959-68), so 'Director' here may mean a member of the camp's governing committee rather than the camp's director -- which would itself be new, since this project has almost no committee names for the period. ROUTES: borrow the volume (a human with an Internet Archive account can, for an hour); query more phrases from the same leaf to walk backwards to the name; or find the same man in an adjacent Who's Who edition where the OCR breaks differently.",
+      "weight": 8,
+      "status": "pending",
+      "created": "2026-09-06",
+      "source": "Open Library search-inside sweep, 2026-09-06 (f_4933)",
+      "blocked_on": null
     }
   ],
   "queue_ordering": {

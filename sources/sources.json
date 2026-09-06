@@ -1540,15 +1540,15 @@
       "date_precision": "year",
       "origin": "web",
       "origin_url": "https://www.mqup.ca/j-w--mcconnell-products-9780773534261.php",
-      "cache_path": null,
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-fong-mcconnell-lake-wilson.txt",
       "char_count": 0,
       "ingested_at": "2026-02-26T00:00:00Z",
-      "extracted": false,
-      "extraction_version": null,
+      "extracted": true,
+      "extraction_version": "6.71",
       "reliability": "secondary",
-      "notes": "Authoritative biography of J.W. McConnell. Chapter 5 covers YMCA fundraising 1909. pp. 123+. Not yet acquired for full extraction. Highest-priority source for McConnell-Kanawana connection.",
-      "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact"
+      "notes": "Authoritative biography of J.W. McConnell. Chapter 5 covers YMCA fundraising 1909. pp. 123+. Not yet acquired for full extraction. Highest-priority source for McConnell-Kanawana connection. | 2026-09-06: the Kanawana passage is now read. It names Lake Desjardins near Saint-Sauveur as the site McConnell bought in 1912 for a new Camp Kanawana, renamed Lake Wilson after his first son -- the first attestation of the renaming independent of the camp's own records. See f_4934. Chapter 5 and everything else the book says about the YMCA of Montreal remain unread.",
+      "read_state": "partial",
+      "read_state_basis": "ONE PASSAGE ONLY, reconstructed from seven overlapping Open Library search-inside windows 2026-09-06 (scan leaf 766, printed page unknown). The book is lending-restricted and print-disabled and has not been read. This replaces read_state \"extracted\" with basis \"derived:cited-by-fact\", which meant nobody had opened it."
     },
     {
       "source_id": "src_haring_breslerman_1977",
@@ -28927,7 +28927,43 @@
       "read_state": "read",
       "read_state_basis": "four fiches fetched and read 2026-09-06 (p_423), cached under sources/cache/toponymie/",
       "notes": "Two of the four carry substantive origin notes: Camp Olier is named for Jean-Jacques Olier, founder of the Sulpicians and co-founder of the Societe de Notre-Dame de Montreal; Camp de l'Avenir \"situe sur la rive sud du lac Ouimet, fut fonde en 1964 par les clercs de Saint-Viateur\". Camp Hiawatha and Old Brewery Mission both carry the Commission's standard \"origine... n'ont pu etre determinees\" note with its standing invitation."
+    },
+    {
+      "source_id": "src_openlibrary_search_inside",
+      "type": "web",
+      "title": "Open Library search-inside endpoint (openlibrary.org/search/inside.json) — full-text search of the Internet Archive book corpus",
+      "date": "2026-09-06",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://openlibrary.org/search/inside.json",
+      "cache_path": "sources/cache/openlibrary-search-inside/",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.71",
+      "reliability": "tertiary",
+      "read_state": "read",
+      "read_state_basis": "capability tested and used 2026-09-06; the two reconstructions it produced are cached in this directory",
+      "notes": "NOT a document but a research surface, recorded as a source because facts now cite it. Returns highlighted snippets, item identifier and scan leaf for LENDING-RESTRICTED and print-disabled books, without authentication. Closes the dead end recorded in j-w-mcconnell.md on 2026-07-09, where the Internet Archive's own search-inside API returned 403 for every query against a print-disabled item. Overlapping phrase queries walk the text outwards, about a dozen words a window. Sleep ~2s between calls; a non-JSON reply is a rate limit, not an absence. See f_4933."
+    },
+    {
+      "source_id": "src_stamp_canadian_obituary_record",
+      "type": "web",
+      "title": "Robert M. Stamp (ed.), The Canadian Obituary Record (Toronto: Dundurn Press) — entry for LOCKE, ROY",
+      "date": "1991",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/canadianobituary0000stam_b1t2",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-stamp-obituary-roy-locke.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.71",
+      "reliability": "secondary",
+      "read_state": "partial",
+      "read_state_basis": "ONE ENTRY ONLY, reconstructed from about a dozen overlapping search-inside windows 2026-09-06, with one internal gap that was not recovered. Scan leaf 266; printed page unknown. The volume is lending-restricted and has not been read.",
+      "notes": "Gives Roy Douglas Locke, b. Toronto c.1920, d. Montreal West 19 September 1991 aged 71, mayor of Montreal West, YMCA director of financial development to 1986, and 'a director of Camp Kanawana' -- which joins the mayor and the camp chief this wiki had refused to identify with each other. Cites the Montreal Gazette of 20 and 21 September 1991, unread. See f_4935. The volume is an index of Canadian obituaries and other Kanawana or Montreal YMCA names may appear in it; only this entry has been looked at."
     }
   ],
-  "source_count": 1607
+  "source_count": 1609
 }
