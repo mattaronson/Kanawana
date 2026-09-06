@@ -29413,7 +29413,25 @@
       "read_state": "snippet",
       "read_state_basis": "LENDING-RESTRICTED; NOT READ. One run on scan leaf 200, whose columns the OCR scrambles. NOTHING WAS RECORDED FROM IT on the first attempt, correctly. The alignment was settled 2026-09-06 by four controls documented from inside the same corpus, and only then was the entry used. Page images return HTTP 403.",
       "notes": "Places Kanawana at Saint-Sauveur under the YMCA of Montreal's 849-5331, among the province's outdoor and camp centres, in 1991. The straight reading of the OCR row puts Kanawana at Mont-Laurier and is wrong. See f_4956, and the cache file for the controls and the offset -- which will apply to every other camp on the same list."
+    },
+    {
+      "source_id": "src_petit_fute_montreal_2011_2012",
+      "type": "catalog_reference",
+      "title": "Guide Petit Futé — City Guide Montréal, édition 2011-2012 — the CAMP Y KANAWANA entry",
+      "date": "2011-2012",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/guidepetitfuteci0000coll",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-petit-fute-montreal-2011-2012-kanawana.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.93",
+      "reliability": "tertiary",
+      "read_state": "snippet",
+      "read_state_basis": "LENDING-RESTRICTED; NOT READ. One entry on scan leaf 342 (the guide's own index gives page 236), reconstructed 2026-09-06 from twenty-eight overlapping Open Library search-inside queries. The walk stops mid-sentence at 'une excursion de quatre jours', where the phrase became too common to isolate; the tail of the entry is unrecovered. Page images return HTTP 403.",
+      "notes": "A French-language commercial city guide, almost certainly working from copy the camp supplied. Gives the 2011 or 2012 season as 28 June to 20 August, stays of six days to eight weeks, residential programmes of 6-12 days for ages 7-16 and leadership/outdoor-adventure programmes for 11-20, a long activity list including trampoline aquatique, ecole du rock and hebertisme, a named biodiversity activity ('La faune gagne du terrain'), a NEW programme called AVENTURIER EXTREME for 13-16s, and the Explorateurs (11-12) and Aventuriers (13-16) four-day excursions. TWO CLAIMS TO TREAT AS THE GUIDE'S AND NOT AS FINDINGS: 'Premier camp de vacances au Quebec', and 'membre fondateur de l'Association des camps du Quebec'. See f_4957."
     }
   ],
-  "source_count": 1634
+  "source_count": 1635
 }

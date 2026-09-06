@@ -4983,3 +4983,42 @@ three of them, because one would have been a coincidence.
 
 **Found in passing.** `directoryofcanad1974unse`, a *Directory of Canadian Camps* for **1974**. This
 project's holdings of that series begin at 1975.
+
+---
+
+## Phase 2 campaign — a control query for one book found the contents of another (2026-09-06)
+
+**Topic.** Nothing planned. This entry exists because a query run to fix a telephone number turned up
+the longest French-language description of Kanawana's programme this project holds.
+
+While settling the 1991 ski guide's scrambled columns, the query **`"Kanawana" "Westbury"`** was run
+to tie 737-6551 to the YM-YWHA. Among its hits was `guidepetitfuteci0000coll` — the *Guide Petit Futé
+City Guide Montréal* for **2011-2012**, which p_430's worklist had listed among items that "may simply
+cite the camp as an example". It does nothing of the kind. It gives the camp a full paragraph:
+
+- the season, **28 June to 20 August**, and stays of **six days to eight weeks**;
+- residential programmes of **6-12 days for ages 7-16**, leadership and outdoor adventure for **11-20**;
+- five activities this wiki has from nowhere else — **trampoline aquatique, école du rock, danse,
+  théâtre**, and a **cours de survie en plein air**;
+- a named biodiversity activity, **"La faune gagne du terrain"**;
+- the **Explorateurs** (11-12) and **Aventuriers** (13-16) tiers, each with a four-day excursion;
+- and **Aventurier Extrême**, called *"tout nouveau"* — whitewater rafting and kayaking, rock climbing
+  and a tree-top course — which **dates that programme's introduction to 2011 or 2012**, the only date
+  this project has for it.
+
+**f_4957**, and a new section in `programs-activities.md`.
+
+**Two sentences left as the guide's.** It calls Kanawana "le premier camp de vacances au Québec" — the
+camp's own line, in a tourist guide, and `canadian-camping-movement.md` has spent three revisions
+taking exactly that ranking out of this wiki. And it calls the camp "membre fondateur de l'Association
+des camps du Québec", which is new here and **checkable in a way the first is not**: this project
+holds the association's English Section as founded in 1937 and holds no membership roll for that year.
+That became **p_431** rather than a sentence in an article, because a sentence in an article is the
+claim.
+
+**The lesson.** *A worklist entry written from a catalogue title is a guess about a book's contents.*
+The Petit Futé sat at the bottom of group 6 with "may simply cite the camp as an example" beside it,
+written by someone who had the title and the year and nothing else. Meanwhile the item that actually
+did what that note describes — a passing citation — was the American Camp Association textbook, which
+was not on the list at all. **Rank the worklist, then ignore the ranking when a query walks past
+something.**

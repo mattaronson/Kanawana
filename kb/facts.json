@@ -1,8 +1,8 @@
 {
-  "version": "6.92",
-  "kb_version": "6.92",
+  "version": "6.93",
+  "kb_version": "6.93",
   "migrated_from": "3.3",
-  "fact_count": 4918,
+  "fact_count": 4919,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88355,6 +88355,27 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.92",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4957",
+      "category": "programs",
+      "date_ref": "2011-2012",
+      "entities": [
+        "Camp Y Kanawana",
+        "Petit Fute",
+        "Association des camps du Quebec",
+        "Aventurier Extreme",
+        "Explorateurs",
+        "Aventuriers"
+      ],
+      "claim": "THE CAMP DESCRIBED IN FRENCH, TO MONTREAL TOURISTS, IN 2011-12. The Guide Petit Fute City Guide Montreal, edition 2011-2012, carries a full entry: \"CAMP Y KANAWANA, 514-849-5331, www.ymcakanawana.ca. Premier camp de vacances au Quebec, situe a Saint-Sauveur, et membre fondateur de l'Association des camps du Quebec, celui-ci propose des programmes de camp d'ete residentiels de 6 a 12 jours aux jeunes de 7 a 16 ans, ainsi que des programmes de leadership et d'aventures en plein air aux campeurs de 11 a 20 ans. En operation du 28 juin au 20 aout, le camp Y Kanawana organise des sejours de six jours a huit semaines. Selon leurs interets, les jeunes ont acces a des activites de baignade, canot, kayak, trampoline aquatique, tir a l'arc, escalade, hebertisme, cours de survie en plein air, danse, ecole du rock, theatre, etc. Les jeunes participent egalement a des ateliers de sciences naturelles ou a des activites comme La faune gagne du terrain qui permet de les conscientiser a la biodiversite. Cette annee, les mordus de rafting et de kayak ages de 13 a 16 ans pourront profiter au maximum du tout nouveau programme AVENTURIER EXTREME, leur permettant de faire du rafting et du kayak en eau vive, de l'escalade sur roche, ainsi qu'un parcours dans les arbres. Pour les autres, tout aussi temeraires, le camp propose des expeditions de canot-camping inoubliables! Les activites Explorateurs (11 et 12 ans) et Aventuriers (13 a 16 ans) proposent en effet aux jeunes de vivre une excursion de quatre jours...\" WHAT IS NEW: a season (28 June to 20 August); a stay range of six days to eight weeks with residential programmes of 6-12 days for 7-16 and leadership and outdoor-adventure programmes for 11-20; an activity list carrying TRAMPOLINE AQUATIQUE, ECOLE DU ROCK, DANSE and THEATRE, none of which this project holds; a named biodiversity activity, 'LA FAUNE GAGNE DU TERRAIN'; and a programme called AVENTURIER EXTREME described as 'tout nouveau' in that edition -- whitewater rafting and kayaking, rock climbing and a tree-top course for 13-16s -- which dates its introduction to 2011 or 2012 and is the only date this project has for it. The EXPLORATEURS (11-12) and AVENTURIERS (13-16) tiers each run a four-day excursion. TWO CLAIMS THAT ARE THE GUIDE'S AND NOT FINDINGS. 'Premier camp de vacances au Quebec' is a primacy claim in a commercial tourist guide almost certainly written from copy the camp supplied; this wiki has deliberately stopped asserting an ordinal ranking for Kanawana, and one more repetition of the camp's own line does not restore it. 'Membre fondateur de l'Association des camps du Quebec' is NEW and UNVERIFIED here: this project holds the Quebec association's English Section as founded in 1937 and holds no membership roll for that year, so whether Kanawana was among the founders is an open question and a checkable one -- the ACQ's own records and the 1937-49 minutes would answer it. CAVEAT: lending-restricted and not read; reconstructed from twenty-eight overlapping Open Library search-inside queries, and the walk stops mid-sentence where 'une excursion de quatre jours' became too common a phrase to isolate.",
+      "sources": [
+        "src_petit_fute_montreal_2011_2012"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.93",
       "added_by": "ralph_loop"
     }
   ]

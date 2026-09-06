@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
 *Status: E1-reviewed | Sources: 0*
-*Last Updated: 2026-09-06 (p_386 lifesaving changeover; diabetic children at Kanawana, from outside the camp)*
+*Last Updated: 2026-09-06 (the camp described in French to Montreal tourists, 2011-12)*
 
 ## Overview
 
@@ -118,6 +118,35 @@ Current job postings document a "Companion" staff role providing dedicated one-o
 
 An annual municipal event, "Journée plein air" (Outdoor Day), is hosted at Camp YMCA Kanawana as a partnership between the Ville de Saint-Sauveur and the Club Optimiste de la Vallée de Saint-Sauveur. The 2023 edition (Sunday, August 27, 2023) offered guided hiking, archery, fishing, free canoe/kayak/paddleboard use, rock climbing, and beach access, with a free shuttle from Mont-Habitant. The event historically focused on trout fishing and has expanded in scope since approximately 2022.^jpa
 
+### The whole programme, in French, in a tourist guide (2011-12)
+
+The fullest single description of Kanawana's programme this project holds in French is not a camp
+document. It is the *Guide Petit Futé — City Guide Montréal* for **2011-2012**, which gives the camp a
+paragraph among the city's things to do.^pf11 It reads like copy the camp supplied, which is what makes it
+useful and also what limits it.
+
+The operating facts: the season ran **28 June to 20 August**; stays ran **six days to eight weeks**;
+residential programmes were **6 to 12 days for ages 7 to 16**, and leadership and outdoor-adventure
+programmes ran **for 11 to 20**. The activity list carries five things this wiki has from nowhere else —
+**trampoline aquatique, école du rock, danse, théâtre** and a **cours de survie en plein air** — beside the
+familiar swimming, canoeing, kayaking, archery, climbing and hébertisme. It also names a biodiversity
+activity, "**La faune gagne du terrain**", run "pour les conscientiser à la biodiversité" (see
+[[traditions/environmental-history|Environmental Education and Stewardship]]).
+
+Two programme names are datable from it. **Aventurier Extrême** is called "tout nouveau" — whitewater
+rafting and kayaking, rock climbing and a tree-top course for 13- to 16-year-olds — which puts its
+introduction in **2011 or 2012** and is the only date this project has for it. And the **Explorateurs**
+(11-12) and **Aventuriers** (13-16) tiers each ran a **four-day excursion**.
+
+*Two sentences in it are the guide's and are not treated as findings here.* It calls Kanawana "**le premier
+camp de vacances au Québec**" — a primacy claim, in a commercial tourist guide, of exactly the kind
+[[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]] has spent
+three revisions removing from this wiki; repeating the camp's own line in French does not make it evidence.
+And it calls the camp "**membre fondateur de l'Association des camps du Québec**". That one is new, and
+unlike the first it is **checkable**: this project holds the Quebec association's English Section as founded
+in 1937 and holds no membership roll for that year. Whether Kanawana was among the founders is an open
+question, and the association's own records would answer it.
+
 ### The Site as a Venue for Outside Programmes
 
 Kanawana is also used by organizations with no institutional tie to the YMCA, a pattern that predates
@@ -217,6 +246,7 @@ environmental-education positioning without originating from it.
 - [cc82] Cousineau, Claude (Department of Recreology, University of Ottawa). "Hebertisme." *Canadian Camping*, Vol. 21 No. 3, Spring 1969, pp. 62-67, 82. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 82).
 - [oc] Concordia University Archives, YMCA of Montreal fonds, sub-sub-series 12B01, 12B03, 12B04, 12B07 [src_concordia_p0145_12b01_finding_aid, src_concordia_12B03, src_concordia_atom_12B04, src_concordia_atom_12B07].
 - [dd76] Doug Dent (Past Director, Camp Wabanaki), "Aquatics, Water Safety & Watercraft," The Business of Camping series, *Canadian Camping* Vol. 28 No. 2 (January 1976), p. 9 [src_ia_canadian_camping_collection]. Carries the YMCA-to-RLSS lifesaving changeover and the three-column YMCA / Red Cross / RLSS equivalence chart with its age prerequisites. Cached at `sources/cache/canadian-camping/canadiancampingmagazine_vol28_no2_1976january.txt`. See [f_4929].
+- [pf11] *Guide Petit Futé — City Guide Montréal*, édition 2011-2012 (Le Petit Futé, ISBN 9782746930636), the entry "CAMP Y KANAWANA", Internet Archive scan leaf 342; the guide's own index gives page 236 [src_petit_fute_montreal_2011_2012]. **One entry only**, reconstructed 2026-09-06 from twenty-eight overlapping Open Library search-inside queries; the book is lending-restricted, page images return HTTP 403, and it has not been read. The walk stops mid-sentence at "une excursion de quatre jours", where the phrase became too common to isolate, so the tail of the entry is unrecovered; accents and apostrophes have been restored from the OCR. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-petit-fute-montreal-2011-2012-kanawana.txt`. See [f_4957].
 - [mk] Michael Kutz, *If, By Miracle* (Azrieli Foundation, 2013), Internet Archive scan leaf 190; the book's own index gives the printed page as 87 [src_kutz_if_by_miracle]. **One passage only**, reconstructed 2026-09-06 from seven overlapping Open Library search-inside queries; the book is lending-restricted and has not been read, and the opening words in square brackets are supplied because the window begins mid-sentence. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-abrams-kutz-memoir-passages.txt`. See [f_4938]. The Quebec context is at [f_2673] (Canada had exactly two diabetic camps in 1954) and [f_2849] (the diabetic children's camp at Camp Jackson Dodds, 18-28 August 1958, sponsored by The Montreal Children's Hospital), both from the *Canadian Camping* run [src_ia_canadian_camping_collection].
 
 ## Research Notes
