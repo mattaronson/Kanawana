@@ -1,8 +1,8 @@
 {
-  "version": "6.56",
-  "kb_version": "6.56",
+  "version": "6.57",
+  "kb_version": "6.57",
   "migrated_from": "3.3",
-  "fact_count": 4867,
+  "fact_count": 4869,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87298,7 +87298,7 @@
     },
     {
       "fact_id": "f_4902",
-      "claim": "THE ASSOCIATION'S OWN 1890-91 REPORT CREDITS PATTON WITH CAMP WORK, THREE YEARS BEFORE 1894 AND CONTEMPORANEOUS WITH HIS 1891 CAMP. Under EXECUTIVE, the Annual Report of the YMCA of Montreal for 1890-91 (presented 28 May 1891) states: \"THE VOLUNTEER CAMP WORK WAS SUCCESSFULLY CARRIED OUT UNDER THE [affiliation] AND ASSISTANCE OF MR. PATTON.\" (The OCR reads \"ahielation\"; the word is affiliation or affiliation-like and the sense is not in doubt.) UNTIL NOW PATTON'S 1891 CAMP WAS ATTESTED ONLY BY HIS OWN MEMOIR OF AUGUST 1919, twenty-eight years after the fact (f_2291). This is the association writing about camp work in its own annual report for the year of that camp, and it says the work was carried out successfully -- which sits oddly beside the memoir's account of a camp broken up on its first day by a drowning, and the two are not obviously about the same outing. WHAT IT DOES ESTABLISH: the YMCA of Montreal had something it called VOLUNTEER CAMP WORK in 1890-91, and Patton ran it. The same report also dates his departure: \"EARLY LAST SPRING, OUR LEADER MR. PATTON RESIGNED TO ENTER THE SPRINGFIELD SCHOOL for training secretaries\", which independently puts him at Springfield from the spring of 1891 and therefore in place for Naismith's first basketball game that December.",
+      "claim": "[QUALIFIED 2026-09-06, HOURS AFTER THIS FACT WAS WRITTEN: there is now a strong alternative reading of \"Volunteer Camp work\" and this fact overreached in implying it was boys' camping. The 1893-94 report shows the association ran a tent at the LAPRAIRIE MILITIA CAMP, with Patton in charge in June 1893 and the work running \"for many years\" before that (f_4906) -- and f_1537 already recorded that in the 1901 Historical Sketch every \"camp\" reference is militia, not summer camping. So the 1890-91 report's \"Volunteer Camp work... under Mr. Patton\" may well be the Laprairie tent rather than a boys' camp, which would also dissolve the oddity noted below about \"successfully carried out\". THE PHRASE IS NOT DECIDED EITHER WAY and this fact should not be cited as evidence for boys' camping in 1890-91. The original claim follows.] THE ASSOCIATION'S OWN 1890-91 REPORT CREDITS PATTON WITH CAMP WORK, THREE YEARS BEFORE 1894 AND CONTEMPORANEOUS WITH HIS 1891 CAMP. Under EXECUTIVE, the Annual Report of the YMCA of Montreal for 1890-91 (presented 28 May 1891) states: \"THE VOLUNTEER CAMP WORK WAS SUCCESSFULLY CARRIED OUT UNDER THE [affiliation] AND ASSISTANCE OF MR. PATTON.\" (The OCR reads \"ahielation\"; the word is affiliation or affiliation-like and the sense is not in doubt.) UNTIL NOW PATTON'S 1891 CAMP WAS ATTESTED ONLY BY HIS OWN MEMOIR OF AUGUST 1919, twenty-eight years after the fact (f_2291). This is the association writing about camp work in its own annual report for the year of that camp, and it says the work was carried out successfully -- which sits oddly beside the memoir's account of a camp broken up on its first day by a drowning, and the two are not obviously about the same outing. WHAT IT DOES ESTABLISH: the YMCA of Montreal had something it called VOLUNTEER CAMP WORK in 1890-91, and Patton ran it. The same report also dates his departure: \"EARLY LAST SPRING, OUR LEADER MR. PATTON RESIGNED TO ENTER THE SPRINGFIELD SCHOOL for training secretaries\", which independently puts him at Springfield from the spring of 1891 and therefore in place for Naismith's first basketball game that December.",
       "sources": [
         "src_ymf_sgw_ymca_annual_report_1990_1991"
       ],
@@ -87376,6 +87376,43 @@
       "date_ref": "1891/1893",
       "conflicts_with": [],
       "added_version": "6.56",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4906",
+      "claim": "THE MONTREAL YMCA RAN A TENT AT THE LAPRAIRIE MILITIA CAMP FOR YEARS BEFORE 1894, AND PATTON HAD CHARGE OF IT. The 1893-94 annual report, under MILITARY CAMP: \"The Association placed a tent with full equipment for reading-room, library, games, etc., in the grounds at LAPRAIRIE IN JUNE LAST. MR. T. DUNCAN PATTON HAD CHARGE, and conducted evangelistic meetings every night amongst the men. He was assisted by members from the city. THE INFLUENCE OF THIS WORK FOR MANY YEARS has been most beneficial upon the whole character of the camp life, and many men date their conversion from these services.\" TWO THINGS FOLLOW. (1) The association had institutional experience of running a tented operation -- equipment, staffing, a season, a site -- for years before the first boys' camp of 1894, and the phrase \"for many years\" is the report's own. (2) Patton is the association's camp man for a THIRD time in a third form: the militia tent in June 1893, the Volunteer Camp work of 1890-91 (f_4902), and the boys' camp at Jones' Island in 1891 (f_2291).",
+      "sources": [
+        "src_ia_ymca_montreal_annual_reports_collection"
+      ],
+      "confidence": "stated",
+      "category": "history",
+      "entities": [
+        "T. Duncan Patton",
+        "YMCA of Montreal",
+        "Laprairie",
+        "militia camp"
+      ],
+      "date_ref": "1893-06",
+      "conflicts_with": [],
+      "added_version": "6.57",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4907",
+      "claim": "AN EXPLICIT NULL IN THE YEAR THE CAMP SYNDICATE WAS FORMED. The YMCA of Montreal's annual report for 1892-93 contains NO camp content of any kind -- searched 2026-09-06 for camp, tent, fishing, Agathe and Ste. Agathe, and the only hits are the surnames Campbell and Camperdown and unrelated words. The 1951 camp history dates the founding committee to the fall of 1892 (f_2177 and the syndicate account), and the association's own annual report covering that year does not mention it. That is consistent with the camp beginning as a private syndicate of members rather than as association business, which is how the 1951 history and the 1919 memoir both describe it, and it should be read as corroboration of that framing rather than as evidence against the 1892 date.",
+      "sources": [
+        "src_ia_ymca_montreal_annual_reports_collection"
+      ],
+      "confidence": "stated",
+      "category": "history",
+      "entities": [
+        "YMCA of Montreal",
+        "Camp Jubilee",
+        "1892 syndicate"
+      ],
+      "date_ref": "1892-93",
+      "conflicts_with": [],
+      "added_version": "6.57",
       "added_by": "ralph_loop"
     }
   ]

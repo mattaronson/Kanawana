@@ -9975,7 +9975,9 @@
         "f_4901",
         "f_4902",
         "f_4904",
-        "f_4905"
+        "f_4905",
+        "f_4906",
+        "f_4907"
       ],
       "sources_cited": [
         "src_camp_stephens_alumni_blog",
@@ -10005,7 +10007,7 @@
         "camp-otoreke"
       ],
       "file_id": null,
-      "word_count": 4345
+      "word_count": 4569
     },
     {
       "article_id": "multi-year-index",

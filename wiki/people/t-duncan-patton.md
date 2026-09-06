@@ -1,6 +1,6 @@
 # Thomas Duncan Patton (1865–1944)
 
-*Status: draft | Sources: 16*
+*Status: draft | Sources: 17*
 *Last Updated: 2026-09-06*
 
 ## Overview
@@ -115,14 +115,28 @@ EXECUTIVE:^15
 > Patton.**"
 
 *(The OCR reads "ahielation"; the sense is not in doubt.)* That is the association writing about camp
-work in its own annual report for the year of Patton's camp, and it establishes something the memoir
-alone could not: **the YMCA of Montreal had a thing it called "Volunteer Camp work" in 1890-91, and
-Patton ran it.**
+work in its own annual report for the year of Patton's camp, and it establishes that **the YMCA of
+Montreal had a thing it called "Volunteer Camp work" in 1890-91, and Patton ran it.**
 
-**It also sits oddly beside the memoir**, which describes a camp broken up on its first day by a
-drowning. "Successfully carried out" is not how that reads, and the two need not be about the same
-outing — a season of volunteer camp work could contain more than one. This article does not reconcile
-them, and neither should a later pass without a document.
+**What it does not establish is what that work was — and a paragraph written here an hour earlier
+implied more than the evidence carries.**^17 The 1893-94 report has a section headed **MILITARY CAMP**:
+
+> "The Association placed a tent with full equipment for reading-room, library, games, etc., in the
+> grounds at **Laprairie in June last**. **Mr. T. Duncan Patton had charge**, and conducted evangelistic
+> meetings every night amongst the men… The influence of this work **for many years** has been most
+> beneficial upon the whole character of the camp life."
+
+So the association ran a tented operation at the militia camp at Laprairie, for years before 1894, and
+Patton had charge of it. **"Volunteer Camp work" in 1890-91 may well be that**, not boys' camping — and
+this wiki already recorded, at [f_1537], that in the 1901 Historical Sketch every "camp" reference is
+militia rather than summer camping. That reading would also dissolve the oddity of "successfully carried
+out" sitting beside a memoir about a camp broken up on its first day by a drowning: they would simply be
+two different things.
+
+**The phrase is not decided either way**, and it should not be cited as evidence for boys' camping in
+1890-91. What survives unqualified is the second quotation below, on his departure — and the fact that
+Patton is the association's camp man in three different forms: the militia tent, the Volunteer Camp
+work, and Jones' Island.
 
 **And it dates his departure.** The same report, in the Sunday Morning Bible Class section: "**Early
 last spring, our leader Mr. Patton resigned to enter the Springfield School for training secretaries.**"
@@ -332,6 +346,7 @@ neither is obviously wrong.
 14. Commission de toponymie du Québec, fiche for **Île Jones** (no_seq 31476), and the *Toponymes officiels* dataset [src_ct_fiches_kanawana_2026], [src_donneesquebec_bnlq_2026]. Read 2026-09-06. The fiche's own authority for the Martin Jones etymology is Benjamin N. Wales, *Memories of old St. Andrews and historical sketches of the seigniory of Argenteuil* (Watchman Press, Lachute, 1934), which this project has not read. See [f_4889].
 15. YMCA of Montreal, **Annual Report 1890-91**, presented 28 May 1891 [src_ymf_sgw_ymca_annual_report_1990_1991] — cached under a filename misnumbered by a century; see [f_4901]. The Volunteer Camp work under Mr. Patton, and his resignation to enter the Springfield School. Read 2026-09-06 (p_253). See [f_4902].
 16. YMCA of Montreal, **41st Annual Report, 1891-92** (published 19 May 1892) [src_cache_sgw_ymca_annual_report_1991_1992] — the staff list and "Committees of the Board, 1892-93". Also cached under a filename misnumbered by a century; see [f_4901]. Read 2026-09-06 (p_253). See [f_4904], [f_4905].
+17. YMCA of Montreal, **Annual Report 1893-94**, section "MILITARY CAMP" [src_ia_ymca_montreal_annual_reports_collection]. Read 2026-09-06. The Laprairie tent under Patton's charge in June 1893, and the work running "for many years". See [f_4906] for the Laprairie tent under Patton in June 1893; and [f_1537] for the same militia-not-summer-camping pattern in the 1901 Historical Sketch.
 
 ## Research Notes
 
