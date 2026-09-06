@@ -1217,7 +1217,9 @@
         "f_1847",
         "f_1848",
         "f_1849",
-        "f_1850"
+        "f_1850",
+        "f_5167",
+        "f_5168"
       ],
       "sources_cited": [
         "src_awesome_foundation_familles",
@@ -1251,7 +1253,8 @@
         "src_ymf_1968_05_03_proposal_for_french_language_day_camp",
         "src_ymf_1968_french_day_camp_report",
         "src_ymf_1971_01_25_french_program_summer_71",
-        "src_cache_sgw_ymca_annual_report_1996"
+        "src_cache_sgw_ymca_annual_report_1996",
+        "src_ymf_sgw_ymca_annual_report_1921_1922"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -1266,7 +1269,7 @@
         "french-language-camping"
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-      "word_count": 9178,
+      "word_count": 9642,
       "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, renamed the orphaned 'R3 Verification Notes' H2 to the standard 'Research Notes' heading and condensed its bullet list into a single HTML-comment process-log entry. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -1725,7 +1728,8 @@
         "f_1825",
         "f_1826",
         "f_1827",
-        "f_2359"
+        "f_2359",
+        "f_5171"
       ],
       "sources_cited": [
         "src_application_2006",
@@ -1799,7 +1803,8 @@
         "src_ymf_news_release_1964_09_25",
         "src_ymf_news_release_1964_10_14",
         "src_ymf_sgw_ymca_annual_report_1925",
-        "src_ymf_sgw_ymca_annual_report_1926"
+        "src_ymf_sgw_ymca_annual_report_1926",
+        "src_ymf_sgw_ymca_annual_report_1921_1922"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -1840,7 +1845,7 @@
         "hay-finlay"
       ],
       "file_id": null,
-      "word_count": 24573,
+      "word_count": 24766,
       "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article. | 2026-07-11: Added wiki-links to Gary White, David Leduc, Kate Taylor, Marie-Pierre Lacasse table rows and Related Articles, pointing to new standalone institutional-role-director articles. | 2026-07-11: Added wiki-links to Greig Macdiarmid, Francois Dauphin, Nicolas Garcia, Morgan Carter, Arleen Boyer, Justin Caldwell (Two-Tier Era + Staff by Era tables) and Matt/Dan Aronson (Related Articles), per the operator's revised C5 policy.",
       "tags": {
         "era": [
@@ -5045,11 +5050,13 @@
         "f_1157",
         "f_1956",
         "f_1957",
-        "f_1958"
+        "f_1958",
+        "f_5174"
       ],
       "sources_cited": [
         "src_batshaw_timeline_page",
-        "src_concordia_atom_12F"
+        "src_concordia_atom_12F",
+        "src_ymf_sgw_ymca_annual_report_1921_1922"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -5058,7 +5065,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 1408,
+      "word_count": 1599,
       "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass (final article of 8) -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph into a new Research Notes > Revision History section, and fixed a real inconsistency the sediment had introduced: the Overview still described the two-site plan as 'ultimately abandoned' even though the article's own later correction established a signed 1979 lease and joint files through 1981-82 -- rewritten to match. Corrected open_questions count (was stale at 5, actual is 6, counting sub-item 2a). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

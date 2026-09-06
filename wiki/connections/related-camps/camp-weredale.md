@@ -1,6 +1,6 @@
 # Camp Weredale and Its Relationship to Kanawana
 
-*Status: E1-reviewed | Sources: 9*
+*Status: E1-reviewed | Sources: 10*
 *Last Updated: 2026-07-10*
 
 ## Overview
@@ -16,6 +16,18 @@ By 1930, larger quarters were needed. A campaign conducted by the Rotary Club of
 ## Pre-Camp Activities
 
 Before the formal establishment of Camp Weredale, Weredale House boys attended a shared camp in Sainte-Marguerite from the 1920s.^1 An even earlier boys' camp, "Camp Boy," had been sponsored in 1918. The following year it was renamed "Camp Lewis" in memory of Major John Lewis, a friend of the boys killed in the First World War.^1
+
+**And the Montreal YMCA was using Camp Lewis in 1921.** Its annual report for the year ending 30
+April 1922 lists, under Eastern District, "many agencies have been used for our Boys' Work, including
+Churches, the Macdonald Playground, Fletcher's Field, tennis courts, Maisonneuve Protestant School,
+and **Camp Lewis**."^10 That is thirteen years before Camp Weredale existed and sixty before the
+1979-1982 relationship described below, and it is between the two parent institutions rather than
+between the two camps. What the use was, the report does not say — boys sent, programme run, staff
+shared, or a partner agency simply listed. The paragraph around it concerns the Eastern District's
+work in the foreign-speaking districts: Boy Scout work with Italian and Syrian boys, employed boys of
+foreign parentage, and co-operation with the Juvenile Court. That points toward boys placed rather
+than programme run, but it is inference from adjacency and nothing more. No other cached annual
+report in this project names Camp Lewis.
 
 ## Establishment and Facilities
 
@@ -67,6 +79,7 @@ The camps also shared overlapping communities of Montreal youth workers. Frank E
 7. Inference from the conjunction of sources 1 and 4 (f_1184): two-site planning window 1977–1980 coincided with Weredale House closure and Youth Horizons merger (1977).
 8. Concordia University Archives, static finding-aid page for sub-series 12F (Camp Weredale), Box HA1894 [src_concordia_atom_12F]. Direct fetch 2026-07-10: 1979 lease agreement, 1980-82 joint files.
 9. Batshaw Centres History, timeline page [src_batshaw_timeline_page]. Direct fetch 2026-07-10, confirms Youth Horizons formed 1977.
+10. YMCA of Montreal annual report for the year ending 30 April 1922 [src_ymf_sgw_ymca_annual_report_1921_1922], the Eastern District paragraph on agencies used for boys' work. Read 2026-09-06 under p_454. See [f_5174].
 
 ## Research Notes
 

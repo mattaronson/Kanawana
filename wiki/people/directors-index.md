@@ -1,6 +1,6 @@
 # Directors and Staff of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 55*
+*Status: E1-reviewed | Sources: 56*
 *Last Updated: 2026-09-06 (who chaired Boys' Camping, 1955 to 1958)*
 
 ## Summary
@@ -346,6 +346,17 @@ The same index gives years of entry into Association work — "Brandon, G. D. �
 - **C. B. Powter**, one of the four in charge of the 1898 senior camp — **Physical Training master at the Commercial and Technical High School, Montreal**, per that school's prospectus for the session 1908-09.^40 He founded his own camp, Sans Egal, on the same Lac St. Joseph in 1902.
 - **Hay Finlay**, Senior Section Director in 1922 — **gymnastics and soccer coach at McGill**, and later co-founder of Camp Nominingue.^38
 
+**And J. G. MacKinnon, two summers after his last Kanawana season, was running a militia camp.** The
+annual report for the year ending 30 April 1922 has three entries under "Camps," not two — Kanawana,
+Otoreke, and this. "Cadet Camp, Pointe aux
+Trembles — During the month of July, the Association conducted a programme for the boys in the
+Militia Cadet Camp at Pointe aux Trembles. **Mr. J.G. MacKinnon was in charge**, and this service was
+greatly appreciated and generously acknowledged by the General Officer Commanding District No.
+4."^56 MacKinnon is the first man this record calls Director, at Kanawana in 1919; the *Year Book*
+evidence below has him Industrial Secretary in 1921 and moved to Côte St. Paul by 1922. July 1921
+fits between those two, and it says he was doing association work across the city rather than camp
+work — which is the likeliest reason the camp directorship passed to G. D. Brandon that season.
+
 **And two of them are documented in the same Montreal room.** The guide-souvenir of the *Exposition pour le bien-être des enfants* — the city's first child-welfare exhibition, held at the Manège Militaire on rue Craig in October 1912 — prints a "Programme des Amusements" committee naming both **C. B. Powter** and **D. J. Evans**, a year before Evans took charge of Kanawana's 1913 season.^40 On 9 October Powter and W. H. Smith, the music master on his own school's staff list, jointly directed the English schools' "milice et chœur". None of this is surprising, and none of it was written down anywhere in this project before.
 
 **Hay Finlay went from Kanawana's senior section to founding a camp of his own, and then to the national association.** That is the fullest career of any staff member in this table's early years, and it now has its own article: [[people/hay-finlay|Hay Finlay]]. In short — Kanawana's Senior Section Director in 1922, gymnastics and soccer coach at McGill, co-founder of **Camp Nominingue** with F. M. Van Wagner in 1924-25, and the Canadian Camping Association's **Secretary-Treasurer** by February 1949.^37 ^38 The 1921 *Year Book*'s index of employed officers, which is ordered surname-first, gives "**Finlay, Hay** … Central, Asst. Physical, **14**" — so Hay is his given name and 1914 his year of entry into Association service.^41
@@ -607,6 +618,7 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 53. YMCA of Montreal annual reports for the years ending **31 December 1956** and **31 December 1959** — *not* 31 March; see [f_5081], and the correction note below [src_ymf_sgw_ymca_annual_report_1956, src_ymf_sgw_ymca_annual_report_1959] — the Branch Chairmen and Camp Chairmen lists. Read 2026-09-06 under p_441. See [f_5080].
 54. Montreal YMCA news releases of **25 September** and **14 October 1964** [src_ymf_news_release_1964_09_25, src_ymf_news_release_1964_10_14] — the printed letterhead only; both are nulls for Kanawana content. Read 2026-09-06 under p_451. See [f_5106].
 55. YMCA of Montreal annual reports for the years ending 31 March 1925 and 31 March 1926 [src_ymf_sgw_ymca_annual_report_1925, src_ymf_sgw_ymca_annual_report_1926], covering the camping seasons of 1924 and 1925. Read 2026-09-06 under p_454.
+56. YMCA of Montreal annual report for the year ending 30 April 1922 [src_ymf_sgw_ymca_annual_report_1921_1922], the "Camps" section — its fourth entry, the Militia Cadet Camp at Pointe aux Trembles. Read 2026-09-06 under p_454. See [f_5171].
 
 ## Research Notes
 

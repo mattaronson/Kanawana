@@ -23,6 +23,39 @@ The 1923 Gas Bag, the camp's first known in-house publication, provides a camper
 
 The Camp Leaders' Training Class, documented in the Concordia archives with evaluations and charting from 1922-1927 and 1930, represents an early formalization of the idea that camp should produce leaders, not just entertain children. This training infrastructure would later evolve into the CIT programme.
 
+### 1921: what the badges were actually for, and the first outside examiner
+
+The badge systems above are known by their subject counts — 32 in 1922, 42 by 1923 — but not by what
+boys actually earned. The annual report for the year ending 30 April 1922 gives the only itemised
+tally in this project's 1920s sources, for the summer of 1921: "A total of 812 badges were won by the
+boys for proficiency in the following subjects:- Camp improvement 65; life saving 30; rowing 38;
+beginners' swimming 20; hikes 105; resuscitation 35; wood craft 20; bandaging 20; simple remedies 26;
+basketry 30."^ar22
+
+*The ten figures sum to 389, not 812.* The list may be partial, the total may be a misprint, or 812
+may count every badge awarded against a list of only the proficiency subjects — 389 doubled is 778,
+so a doubling does not explain it. The subject counts are the usable part and the total is not; the
+discrepancy is carried as the seventh entry in [[meta/attendance-series|the attendance
+series]]'s list of the association contradicting itself.
+
+Read as a picture of the programme, the ten subjects say something the subject *counts* cannot.
+**Hikes are the largest single category at 105**, more than a quarter of the itemised badges, in a
+season 67 days long. First aid in its three forms — resuscitation 35, bandaging 20, simple remedies
+26 — accounts for 81, more than swimming and life saving together. And "camp improvement" at 65 is
+second: boys were being badged for building and maintaining the place they were staying in, which is
+the practical end of the same instinct the 1927 report would state as policy five years later, when
+it turned away from "city" games toward "individual and group projects, mostly of a constructive
+type."
+
+The same report records the first outside examiner to come to camp that this project has found. "The
+Royal Life Saving Society held an examination of the boys in Camp at which seven won the award of
+merit; 23 won the proficiency medal; 15, the bronze medallion; and 2 received the honor instruction
+badges."^ar22 Forty-seven awards in four grades, and — the distinction matters — RLSS qualifications
+recognised outside the YMCA, where the badge scheme in the same paragraph was the association's own,
+awarded in-house. It places the society at Kanawana **six years before A. W. Ross's two examinations
+of 1927**, and it makes that year's "record for Kanawana" claim checkable: 60 awards against 47, so
+the record stands.
+
 ### 1926: evenings, elections, and the "Kanawana spirit"
 
 The previous year's report describes what filled "evenings, rainy days and open periods": weekly
@@ -425,6 +458,7 @@ environmental-education positioning without originating from it.
 - **ar37** — YMCA of Montreal Annual Report for the year ending 31 March 1937 [src_cache_sgw_ymca_annual_report_1937], camping season **1936**. See [f_5072].
 - **ar38** — the same series for the year ending 31 March 1938 [src_ymf_sgw_ymca_annual_report_1938], camping season **1937**. See [f_5073].
 - **ar39** — the same series for the year ending 31 March 1939 [src_ymf_sgw_ymca_annual_report_1939], camping season **1938**. See [f_5073].
+- **ar22** — YMCA of Montreal annual report for the year ending 30 April 1922 [src_ymf_sgw_ymca_annual_report_1921_1922], the "Camps" section, covering the summer of **1921**. Read 2026-09-06 under p_454; the volume had been marked *skimmed* since August and cited by no article. See [f_5167] and [f_5168].
 - **ar27** — YMCA of Montreal, 76th Annual Report, for the year ending 31 March 1927 [src_ymf_sgw_ymca_annual_report_1927]. Its camping season is the summer of **1926**. Read for its Kanawana season narrative 2026-09-06 under p_441; the rest is not read. See [f_5067] and [f_5068].
 - **ar28** — YMCA of Montreal, 77th Annual Report, for the year ending 31 March 1928 [src_ymf_sgw_ymca_annual_report_1928]. Its camping season is the summer of **1927** (see [f_5039] on the reports' 31 March year-end). Read for its Boys' Work and Kanawana sections 2026-09-06 under p_441; the rest of a 105,000-character report is not read. See [f_5064].
 - CFCF radio broadcast script, 1936, "Kamp Kanawana Broadcast — Station CFCF" [src_ymf_1936_kamp_kanawana_broadcast_station_cfcf], Concordia-digitized YMCA of Montreal fonds. Marked `cfcf36` above. **The earliest of the CFCF series and the only one surviving as text**; it had been in this repo's cache labelled *skimmed*, cited by no article, and was read on 2026-09-06 under p_441. See [f_5003].

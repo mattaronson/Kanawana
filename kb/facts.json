@@ -1,8 +1,8 @@
 {
-  "version": "8.28",
-  "kb_version": "8.28",
+  "version": "8.29",
+  "kb_version": "8.29",
   "migrated_from": "3.3",
-  "fact_count": 5135,
+  "fact_count": 5136,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -92511,7 +92511,7 @@
         "YMCA of Montreal",
         "Pointe-aux-Trembles"
       ],
-      "claim": "WHERE J. G. MACKINNON WAS IN JULY 1921, AFTER HIS KANAWANA YEARS. The 1921-22 annual report: 'CADET CAMP, POINTE AUX TREMBLES -- During the month of JULY, the Association conducted a programme for the boys in the MILITIA CADET CAMP at Pointe aux Trembles. MR. J.G. MACKINNON WAS IN CHARGE, and this service was greatly appreciated and generously acknowledged by the GENERAL OFFICER COMMANDING DISTRICT NO. 4.' MacKinnon ran Kanawana in 1916, 1917, part of 1918 and 1919, and is the first man the record calls Director (people/directors-index.md). This places him, two summers after that last Kanawana season, running the association's work at a MILITIA camp instead -- and it is a fourth Montreal YMCA camp operation for the summer of 1921, alongside Kanawana, Otoreke and the Camp Lewis mentioned in the same report's Maisonneuve section. It also fits the Year Book evidence already in directors-index.md that MacKinnon was Industrial Secretary in 1921 and moved to Cote St. Paul by 1922: he was doing association work across the city, not camp work.",
+      "claim": "WHERE J. G. MACKINNON WAS IN JULY 1921, AFTER HIS KANAWANA YEARS. The 1921-22 annual report: 'CADET CAMP, POINTE AUX TREMBLES -- During the month of JULY, the Association conducted a programme for the boys in the MILITIA CADET CAMP at Pointe aux Trembles. MR. J.G. MACKINNON WAS IN CHARGE, and this service was greatly appreciated and generously acknowledged by the GENERAL OFFICER COMMANDING DISTRICT NO. 4.' MacKinnon ran Kanawana in 1916, 1917, part of 1918 and 1919, and is the first man the record calls Director (people/directors-index.md). This places him, two summers after that last Kanawana season, running the association's work at a MILITIA camp instead -- and it is a THIRD Montreal YMCA camp operation for the summer of 1921: the report's 'Camps' section has exactly three entries -- Kanawana, Otoreke, and this. [CORRECTED 2026-09-06, before the claim was used anywhere: this first said FOURTH, counting a 'Camp Lewis' named elsewhere in the report. That passage does not belong to the Camps section and does not say the association operated a camp of that name -- it lists 'many agencies ... used for our Boys' Work, including Churches, the Macdonald Playground, Fletcher's Field, tennis courts, Maisonneuve Protestant School, and Camp Lewis', which is a list of venues, and the branch it sits under is not identifiable from the OCR. WHAT CAMP LEWIS WAS REMAINS AN OPEN QUESTION and nothing else in this project mentions it.] It also fits the Year Book evidence already in directors-index.md that MacKinnon was Industrial Secretary in 1921 and moved to Cote St. Paul by 1922: he was doing association work across the city, not camp work.",
       "sources": [
         "src_ymf_sgw_ymca_annual_report_1921_1922"
       ],
@@ -92554,6 +92554,25 @@
       "confidence": "disputed",
       "conflicts_with": [],
       "added_version": "8.28",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5174",
+      "category": "institutional",
+      "date_ref": "1921",
+      "entities": [
+        "Camp Lewis",
+        "YMCA of Montreal",
+        "Weredale House",
+        "Camp Weredale"
+      ],
+      "claim": "THE MONTREAL YMCA WAS USING CAMP LEWIS IN 1921 -- THIRTEEN YEARS BEFORE CAMP WEREDALE, AND SIXTY BEFORE THE RELATIONSHIP THE WIKI RECORDS. The annual report for the year ending 30 April 1922, under EASTERN DISTRICT: 'During the year MANY AGENCIES HAVE BEEN USED FOR OUR BOYS' WORK, including Churches, the Macdonald Playground, Fletcher's Field, tennis courts, Maisonneuve Protestant School, and CAMP LEWIS.' Camp Lewis is the Boys' Home of Montreal's camp -- sponsored in 1918 as 'Camp Boy', renamed in 1919 for Major John Lewis, a friend of the boys killed in the First World War, and the direct predecessor of CAMP WEREDALE, founded 1934. WHY THIS MATTERS: connections/related-camps/camp-weredale.md states that beyond the 1979-1982 institutional relationship 'no specific shared staff, programming, or organizational practice between the two camps during 1934-1977 has been found.' That statement is about 1934 onward and stands. This is EARLIER than its window and about the parent institutions rather than the two camps: the YMCA counting the Boys' Home's camp among the agencies its own boys' work used. WHAT THE REPORT DOES NOT SAY is what the use was -- boys sent, programme run, staff shared, or a partner agency merely listed. The surrounding Eastern District paragraph is about the foreign-speaking districts, Boy Scout work with Italian and Syrian boys, employed boys of foreign parentage, and co-operation with the Juvenile Court, which points toward boys placed rather than programme run, BUT THAT IS INFERENCE FROM ADJACENCY AND NOTHING MORE. HOW IT WAS NEARLY GOT WRONG, which is the transferable part: this was first written up as an unknown third YMCA camp and a priority raised to identify it, on the strength of the name being unfamiliar. One grep found it in nine places in this project's own KB and wiki. The rule that 'X appears nowhere in this project' costs one grep was written for exactly this, and the claim had already been typed before the grep was run.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1921_1922"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.29",
       "added_by": "manual"
     }
   ]
