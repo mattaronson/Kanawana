@@ -1,0 +1,42 @@
+SOURCE: "Summer Camps & Programs" (1983). Internet Archive item summercampsprogr0000gold.
+        Lending-restricted; CANNOT be read from here. Assembled 2026-09-06 from nine overlapping
+        Open Library search-inside windows. A RECONSTRUCTION, not a transcription.
+
+The book's own index carries "Kamp Kanawana-Montreal YMCA, 172-173", so the camp has a
+TWO-PAGE entry. What follows is the head of that entry only. The rest of pages 172-173 —
+the fee figures, the session dates, the facilities and whatever narrative the guide prints —
+was NOT recovered, and the endpoint began returning non-JSON under rate limiting before the
+walk could be finished. This is an unfinished read, not a complete one.
+
+QUERIES: "Kamp Kanawana" ; "Kanawana" "Boys and girls" Quebec ; "190 boys and girls, ages 7-19" ;
+         "KAMP KANAWANA-MONTREAL YMCA Category General" ; "Summer Address Box 310, St. Sauveur" ;
+         "St. Sauveur des Monts, Quebec, JOR 1RO Canada" ; "Summer Telephone (514) 227-2414" ;
+         "Winter Address 1441 Drummond Street" ; "Quebec H3G 1W3 Canada Winter Telephone" ;
+         "Winter Telephone (514) 849-5331 Director Louis Jean"
+
+RECONSTRUCTED, as the fields run:
+
+  KAMP KANAWANA-MONTREAL YMCA
+  Category      General
+  Participants  190 boys and girls, ages 7-19
+  Summer Address    Box 310, St. Sauveur des Monts, Quebec, JOR 1RO Canada
+  Summer Telephone  (514) 227-2414
+  Winter Address    1441 Drummond Street, Montreal, Quebec H3G 1W3 Canada
+  Winter Telephone  (514) 849-5331
+  Director      Louis Jean
+  Sessions      Four 2-week from ...
+
+ON THE DIRECTOR FIELD. The window reads "... Winter Telephone (514) 849-5331 Director Louis Jean
+Sessions Four 2-week from ...", so the field runs straight from "Louis Jean" into the next
+field's label. As printed, the director is "Louis Jean". TWO READINGS ARE POSSIBLE AND NEITHER IS
+SETTLED HERE: that the name is complete, or that it is "Louis-Jean [surname]" with the surname
+lost to the scan or to the compiler. The name does not occur anywhere else in this project.
+See conflict c_065 for how it sits against Peter Goddard, who signed a Kanawana newsletter as
+"Director" on 15 November 1982.
+
+ON THE FIGURES. 190 boys and girls, ages 7-19, continues the registered-capacity series this
+project has from the national directories: 180 in 1975 (90 boys and 90 girls, 8-15) and 189 in
+1976 (98 boys and 91 girls, 8-15). The age band has widened at both ends, from 8-15 to 7-19,
+which is what an entry covering the CIT and LIT programmes alongside the camp would look like.
+The addresses and both telephone numbers match those printed in the 1975 and 1976 national
+directories.

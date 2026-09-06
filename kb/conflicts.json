@@ -1020,6 +1020,17 @@
       "status": "open",
       "flagged_at": "2026-09-06",
       "notes": "Raised 2026-09-06 while writing p_357. Two documented sources disagreeing with each other, so a human decision point rather than a case for the oral-history-yields-to-documents rule. Nothing is overwritten: the article now carries the 1969-1971 Ottawa office and the December 1970 memo beside the 1985 editorial's sentence, and says the two disagree. What would settle it: the CCA's own board minutes for 1969-1972, or Fitness and Amateur Sport's grant files, either of which would say whether administrative funding resumed and when."
+    },
+    {
+      "conflict_id": "c_065",
+      "entity": "Kamp Kanawana's director in the early 1980s: Peter Goddard, or 'Louis Jean'",
+      "description": "A NAME FROM OUTSIDE THE INSTITUTION AGAINST THE ONE THIS WIKI HAS. wiki/history/between-centennials.md and wiki/people/directors-index.md give Peter Gilling Goddard the 1981-85 span, on five fixed points: he signs a Kanawana newsletter of 15 NOVEMBER 1982 'Peter G. Goddard, Director'; the CCA's Publicity and Public Relations report for 1982-83 thanks 'Peter Goddard and the staff of Kamp Kanawana in Montreal' for mailing 6,500 posters before 14 April 1983; and three later national listings give him by province. Against that, the American guide 'Summer Camps & Programs' (1983) prints Kanawana's entry with 'DIRECTOR LOUIS JEAN' (f_4945). The entry is plainly the camp's own return -- both addresses and both telephone numbers match the 1975 and 1976 national directories exactly -- so it is not a compiler's invention. FOUR READINGS, none preferred here. (1) The name is truncated: 'Louis-Jean' is a common French given name and the surname may have been lost to the scan or dropped by the compiler; the recovered window runs straight from 'Louis Jean' into the next field's label, so nothing shows whether a surname stood there. (2) The guide's data is a year or more stale, gathered before Goddard, which is normal for annual directories. (3) The two titles are different jobs -- an on-site camp director and an association Director of Camping, a two-tier arrangement this camp used at other times. (4) Goddard's own span is thinner than it looks: the wiki states the office of director at only two of its five fixed points, November 1982 and FY1986, and explicitly declines to claim it for the years between. WHAT WOULD SETTLE IT: the rest of the two-page entry at pages 172-173, which was not recovered and which may print a fuller name; the 1983 and 1983-84 Porter Sargent guides, which carry Kanawana and are in the same sweep; or the YMCA of Montreal's own staff rosters for 1981-83.",
+      "facts": [
+        "f_4945"
+      ],
+      "status": "open",
+      "flagged_at": "2026-09-06",
+      "notes": "Raised 2026-09-06 on the first read of an American camp guide that nobody in this project had opened. NOT a case for the oral-history rule: both sides are documented. The name 'Louis Jean' occurs nowhere else in this project's 4,900 facts, which is itself a reason for caution rather than for confidence -- a single unsupported occurrence in a scanned directory is exactly the shape a transcription error takes. Nothing in any article has been changed to prefer it."
     }
   ]
 }

@@ -8896,6 +8896,7 @@
         "src_concordia_fonds",
         "src_goddard_obituary",
         "src_goddard_obituary_condolence",
+        "src_ia_canadian_camping_collection",
         "src_ia_kanawana_report_1977",
         "src_ia_kanawana_report_1978",
         "src_ia_ymca_annual_report_1977_78",
@@ -8904,9 +8905,9 @@
         "src_kanawana_facts",
         "src_mcmaster_mclean_fonds",
         "src_oral_aronson",
+        "src_summer_camps_and_programs_1983",
         "src_ymca_john_island_newsletter",
-        "src_ymca_kanawana_history",
-        "src_ia_canadian_camping_collection"
+        "src_ymca_kanawana_history"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -8921,7 +8922,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 3323,
+      "word_count": 3636,
       "notes": "2026-07-11: Workstream C4 spawn (3 of 4). Connective-narrative synthesis, no new research conducted. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit. | 2026-08-14 p_225 research: deep web research resolved three long-standing questions against PRIMARY sources (YMCA of Montreal news release 1970 + annual reports 1977-79 on Internet Archive; Camp Pascobac's own history page; broadcasting-history.ca).",
       "tags": {
         "era": [

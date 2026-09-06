@@ -1,8 +1,8 @@
 {
-  "version": "6.80",
-  "kb_version": "6.80",
+  "version": "6.81",
+  "kb_version": "6.81",
   "migrated_from": "3.3",
-  "fact_count": 4906,
+  "fact_count": 4907,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88126,6 +88126,23 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.79",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4945",
+      "category": "attendance",
+      "date_ref": "1983",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "KANAWANA'S REGISTERED PARTICULARS FOR 1983, FROM AN AMERICAN CAMP GUIDE. \"Summer Camps & Programs\" (1983) gives Kanawana a TWO-PAGE entry at pages 172-173, indexed as \"Kamp Kanawana-Montreal YMCA\". The head of the entry, reconstructed 2026-09-06 from nine overlapping Open Library search-inside windows: \"KAMP KANAWANA-MONTREAL YMCA / Category General / Participants 190 BOYS AND GIRLS, AGES 7-19 / Summer Address Box 310, St. Sauveur des Monts, Quebec, J0R 1R0 Canada / Summer Telephone (514) 227-2414 / Winter Address 1441 Drummond Street, Montreal, Quebec H3G 1W3 Canada / Winter Telephone (514) 849-5331 / DIRECTOR LOUIS JEAN / Sessions Four 2-week from...\" THE READ IS UNFINISHED: the fees, the session dates, the facilities and whatever narrative fills two pages were not recovered before the endpoint began rate-limiting, and the book is lending-restricted so it cannot be read whole. WHAT THE FIGURES ADD: 190 continues the registered-capacity series this project has from the national directories -- 180 in 1975 (90 boys, 90 girls, ages 8-15) and 189 in 1976 (98 boys, 91 girls, 8-15) -- into the 1980s, the decade between-centennials.md calls the second thin decade. The AGE BAND HAS WIDENED AT BOTH ENDS, 8-15 to 7-19, which is what an entry covering the CIT and LIT programmes alongside the camp proper would look like. Both addresses and both telephone numbers match the 1975 and 1976 directories exactly, so the entry is the camp's own return and not a compiler's guess. THE DIRECTOR FIELD IS A PROBLEM AND IS NOT RESOLVED HERE: the field reads \"Louis Jean\" and runs straight into the next label, so the name may be complete or may be \"Louis-Jean\" with a surname lost. The name occurs nowhere else in this project, and this wiki has Peter Goddard signing a Kanawana newsletter as \"Director\" on 15 November 1982. See c_065.",
+      "sources": [
+        "src_summer_camps_and_programs_1983"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.81",
       "added_by": "ralph_loop"
     }
   ]

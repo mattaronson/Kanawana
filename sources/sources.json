@@ -29179,7 +29179,25 @@
       "read_state": "partial",
       "read_state_basis": "NOT lending-restricted. Full djvu text downloaded and searched 2026-09-06; 'Kanawana' occurs twice and both passages are cached. The rest of the volume is unread.",
       "notes": "Carries Kanawana in the national alphabetical list and again under TERREBONNE in the provincial list arranged by federal electoral district — so the Terrebonne attribution is documented in 1917, twenty-six years before the Canadian Almanac row that first gave it here. Its neighbours in that list are all Laurentian lake and cottage places. The dagger and asterisk prefixes were not decoded. See f_4936."
+    },
+    {
+      "source_id": "src_summer_camps_and_programs_1983",
+      "type": "catalog_reference",
+      "title": "Summer Camps & Programs (1983) — the two-page entry for Kamp Kanawana-Montreal YMCA, pp. 172-173",
+      "date": "1983",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/summercampsprogr0000gold",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-summer-camps-and-programs-1983-kanawana.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.81",
+      "reliability": "secondary",
+      "read_state": "partial",
+      "read_state_basis": "UNFINISHED READ. The head of the entry only, reconstructed from nine overlapping Open Library search-inside windows 2026-09-06; the walk stopped when the endpoint began rate-limiting. The fees, session dates and the rest of a two-page entry were NOT recovered. The book is lending-restricted and cannot be read whole. Scan leaf 250; printed pages 172-173 per the book's own index.",
+      "notes": "Gives 190 boys and girls aged 7-19 for 1983, continuing the registered-capacity series from the 1975 and 1976 national directories, with the age band widened at both ends. Names the director as 'Louis Jean', a name that occurs nowhere else in this project — see c_065. Both addresses and phone numbers match the 1975-76 directories. See f_4945."
     }
   ],
-  "source_count": 1621
+  "source_count": 1622
 }
