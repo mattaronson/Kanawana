@@ -1,8 +1,8 @@
 {
-  "version": "8.17",
-  "kb_version": "8.17",
+  "version": "8.18",
+  "kb_version": "8.18",
   "migrated_from": "3.3",
-  "fact_count": 5112,
+  "fact_count": 5115,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -92150,6 +92150,59 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.17",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5151",
+      "category": "programs",
+      "date_ref": "2001-2002",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE CAMP'S FIRST RESIDENTIAL WINTER CAMP FOR CHILDREN, AND TWO EVENTS NOTHING ELSE RECORDS. The Montreal YMCA's 2001-2002 annual report, under 'YMCA KAMP KANAWANA - A YEAR OF FIRSTS': 'FOR THE FIRST TIME EVER, Kamp Kanawana launched a WINTER CAMP FOR CHILDREN AND YOUTH BETWEEN THE AGES OF 7 AND 16. Campers enjoyed FOUR DAYS of cross-country skiing, snowshoeing and sledding, along with the requisite hot chocolate and grilled marshmallows around the fireplace.' READ THE CLAIM CAREFULLY: the site had winter use from the 1940s ski camp, the family ski days of 1969-70 and the association's staff training through the 1980s, so what is new is a RESIDENTIAL WINTER CAMP FOR CHILDREN IN THEIR OWN RIGHT, not winter use. Nothing contradicts the claim in those terms and the article says so rather than quoting it flat. ALSO: 'In November, a large number of the summer campers met up again at the WESTMOUNT YMCA for KAMP KABARET -- an evening of songs, skits and laughs', an off-season camper reunion; and 'KANAPALOOZA was another first for the camp that could well become an annual event. MONITORS PAST AND PRESENT STAGED A BENEFIT CONCERT AT CLUB SODA AND RAISED $2,000 for Kamp Kanawana.' Neither appears anywhere else in this project and whether either was held again is unknown.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2001_2002"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.18",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5152",
+      "category": "institutional",
+      "date_ref": "2001-2003",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal",
+        "YMCA of Haiti"
+      ],
+      "claim": "THE HAITIAN PARTNER THE KANAWANA STAFF GROUP RAISED MONEY FOR HAS A NAME AND A DATE, AND THE TWO REPORTS ARE ONE YEAR APART. f_5149 has Kanawana's summer staff founding a volunteer group, Non Nobis Solum, 'to organize community outreach projects and raise funds to SPONSOR YOUTH IN OUR PARTNER YMCA IN HAITI', from the report for the year ended 31 May 2003. THE PREVIOUS YEAR'S REPORT ANNOUNCES THE PARTNER: under 'INTERNATIONAL PROGRAMS - INAUGURATION OF THE YMCA OF HAITI', 'the new YMCA in PORT-AU-PRINCE began its activities with the opening of the KONBIT YOUTH CENTRE', the Creole word konbit meaning the pooling of community resources. So the association opened a YMCA in Port-au-Prince in 2001-02 and Kanawana's staff formed a group the following year to fund youth there. NEITHER REPORT NAMES THE OTHER AND THIS PROJECT IS JOINING THEM; the join rests on there being one Haitian partner YMCA in this period, which is what the inauguration language implies but does not state. No source read follows the group or the partnership past 2003.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2001_2002",
+        "src_ymf_sgw_ymca_annual_report_2002_2003"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "8.18",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5153",
+      "category": "attendance",
+      "date_ref": "2001-2002",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "ONE ANNUAL REPORT GIVES TWO KANAWANA NUMBERS AND THEY CANNOT BOTH BE SEASON REGISTRATIONS. The 2001-2002 report's 'A Year of Firsts': 'During the summer, the camp welcomed MORE THAN 220 CAMPERS, UP 19% FROM LAST YEAR. REGISTRATION HAS NEVER BEEN THIS HIGH!' Its own Social Audit table, headed PROGRAMS / PERSONS: 'YMCA Kamp Kanawana 1,332'. The 1,332 is a programme participation count of the same kind as the 1,091 of 2008 and 1,281 of 2009 (f_5150). THE 220 IS THE PROBLEM. A camp that registered 473 in 1955 and 770 in the summer of 2002 cannot have set an all-time registration record at 220, so either the figure is scoped to something the sentence does not name -- one session, one age band, one new programme -- or a leading digit is lost in the scan. THE PROJECT'S OWN SERIES ALREADY CARRIES 1,220 FOR 2000-01, which would make '220, up 19%' a lost '1,' and a rounded increase, but that arithmetic does not work either (1,220 up 19% is about 1,452). BOTH FIGURES ARE RECORDED IN meta/attendance-series.md AND NEITHER IS PREFERRED; no trend is drawn through the 220.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2001_2002"
+      ],
+      "confidence": "disputed",
+      "conflicts_with": [],
+      "added_version": "8.18",
       "added_by": "manual"
     }
   ]

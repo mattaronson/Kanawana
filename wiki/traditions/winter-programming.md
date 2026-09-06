@@ -1,6 +1,6 @@
 # Winter and Year-Round Programming
 
-*Status: E1-reviewed | Sources: 20*
+*Status: E1-reviewed | Sources: 21*
 *Last Updated: 2026-09-06 (the site as the association's own training ground in the 1980s)*
 
 ## Overview
@@ -52,6 +52,21 @@ The same report counts the cost from the organiser's side, and the tone is worth
 And in February 1988 the day camps asked for something permanent. Among their recommendations, with target dates attached: "**We need to develop a site on Kamp Kanawana for the use of Day Camps** — Summer '89," and, separately, "**Day Camp should be tied into the promotion of Kamp Kanawana** — June '88."^20
 
 Whether that site was ever developed is not in these documents, and this project has nothing on either side of the recommendation. What they establish is that the property was carrying institutional use well outside its own camping season a decade before year-round operation is usually dated.
+
+## 2001-02: the camp's own first winter camp for children
+
+The Montreal YMCA's annual report for 2001-2002, under the heading "**YMCA Kamp Kanawana — A Year of
+Firsts**", records a winter programme this article did not have: "**For the first time ever, Kamp
+Kanawana launched a winter camp for children and youth between the ages of 7 and 16.** Campers
+enjoyed **four days of cross-country skiing, snowshoeing and sledding**, along with the requisite hot
+chocolate and grilled marshmallows around the fireplace at the end of the day."^21
+
+**"For the first time ever" is the association's phrase and it needs reading against this article.**
+The camp's site had carried winter use since the 1940s ski camp and the family ski days of 1969-70,
+and the association had run staff training there through the 1980s. What 2001-02 claims as a first
+is a **residential winter camp for children in their own right**, which is a different thing from a
+ski day, a family weekend or a staff course. Nothing found here contradicts the claim in those
+terms, but the sentence should not be quoted as though the camp had no winter life before it.
 
 ## Winterized Facilities
 
@@ -163,6 +178,7 @@ David Leduc managed Camp Kanawana's summer and winter programs, including recrui
 18. YMCA of Montreal annual report for the year ended **31 May 1971** [src_ymf_sgw_ymca_annual_report_1970_1971] — the bilingual highlights spread. Its season is the winter of 1970-71 and the summer of 1970. Read 2026-09-06 under p_441. See [f_5110].
 19. YMCA of Montreal annual reports for the years ended **31 May 1972** and **31 May 1973** [src_cache_sgw_ymca_annual_report_1971_1972, src_cache_sgw_ymca_annual_report_1972_1973]. Read 2026-09-06 under p_441. See [f_5111].
 20. Montreal YMCA day camp reports of **July 1985** and **October 1987**, and the **Day Camp Recommendations of 26 February 1988** [src_ymf_1985_07_montreal_ymca_day_camp_report, src_ymf_1987_10_montreal_ymca_day_camp_report, src_ymf_1988_02_26_day_camp_recommendations]. Read for their Kanawana content 2026-09-06 under p_441; these are day camp documents and the camp appears once or twice in each. See [f_5117].
+21. Montreal YMCA annual report 2001-2002 [src_ymf_sgw_ymca_annual_report_2001_2002], "YMCA Kamp Kanawana - A Year of Firsts". Read 2026-09-06 under p_454.
 
 ## Research Notes
 

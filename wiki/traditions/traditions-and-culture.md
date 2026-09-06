@@ -1,6 +1,6 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 39*
+*Status: E1-reviewed | Sources: 40*
 *Last Updated: 2026-09-06 (a last-day ritual the camp never printed, from an American family's memoir of the late 1920s)*
 
 ## Overview
@@ -202,6 +202,21 @@ Haiti**."^39 Nothing else in this project mentions the group, a Haitian partner 
 of either. It is the only instance found so far of Kanawana staff constituting themselves as a body
 outside the camp's own structures.
 
+**And the Haitian partner has a name and a date.** The previous year's report announces it: under
+"**International Programs — Inauguration of the YMCA of Haiti**", "the new YMCA in **Port-au-Prince**
+began its activities with the opening of the **Konbit Youth Centre**", the Creole word *konbit*
+meaning the pooling of community resources.^40 So the association opened a YMCA in Port-au-Prince in
+2001-02, and Kanawana's summer staff formed a group the following year to raise money for youth
+there. **The two reports are one year apart and this article joins them; neither says the other's
+name**, and no source read here follows the group or the partnership past 2003.
+
+**Two more things the same "Year of Firsts" records**, neither of them anywhere else in this
+project. In November, "a large number of the summer campers met up again at the **Westmount YMCA**
+for **Kamp Kabaret** — an evening of songs, skits and laughs", an off-season reunion of campers.
+And "**Kanapalooza** was another first for the camp that could well become an annual event.
+**Monitors past and present staged a benefit concert at Club Soda and raised $2,000** for Kamp
+Kanawana."^40 Whether either was ever held again is not known here.
+
 ## "We are all Kanawanians": a counsellor's account, 2004-05
 
 The YMCA of Greater Montreal's annual report for 2004-2005 profiles **Ayunda Dube**, and it is the
@@ -276,3 +291,4 @@ account to set beside it.
 37. Jan Elvin, *The Box from Braunau: In Search of My Father's War* (New York: AMACOM, 2009), Internet Archive scan leaf 296 [src_elvin_box_from_braunau_2009]. **One passage only**, reconstructed 2026-09-06 from thirty-eight overlapping Open Library search-inside queries and walked to a subject boundary in both directions; the book is lending-restricted, page images return HTTP 403, and it has not been read. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-two-family-memoirs-elvin-and-torge.txt`. See [f_4952].
 38. YMCA of Greater Montreal annual report 2004-2005 [src_ymf_sgw_ymca_annual_report_2004_2005], the "People with Strong Values" profile of Ayunda Dube. Read 2026-09-06 under p_454. A SELF-AUTHORED PUBLISHED TESTIMONIAL, given by name to the association for its own annual report, not a third-party assessment of a private individual, so the embargo procedure for personal assessments does not apply.
 39. Montreal YMCA annual report 2002-2003, year ended 31 May 2003 [src_ymf_sgw_ymca_annual_report_2002_2003]: the Non Nobis Solum staff volunteer group. Read 2026-09-06 under p_454.
+40. Montreal YMCA annual report 2001-2002 [src_ymf_sgw_ymca_annual_report_2001_2002], "YMCA Kamp Kanawana - A Year of Firsts" and the International Programs page. Read 2026-09-06 under p_454.

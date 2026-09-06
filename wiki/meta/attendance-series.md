@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 24*
+*Status: draft | Sources: 25*
 *Last Updated: 2026-09-06 (the 1916 fee and season, from a school magazine advertisement)*
 
 ## Overview
@@ -123,6 +123,7 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1998–99 | 1,500 | — | *Includes rentals and non-residential use* |
 | 1999–2000 | 1,150 | — | *Ages 3–60, i.e. includes rentals* |
 | 2000–01 | 1,220 | — | *Same caveat* |
+| **2001** | **"more than 220"** *and* **1,332** | — | **One report, two numbers, and they cannot both be season registrations.** The 2001-2002 annual report's "A Year of Firsts" says "during the summer, the camp welcomed **more than 220 campers, up 19% from last year. Registration has never been this high!**" Its own Social Audit table gives "**YMCA Kamp Kanawana 1,332**". The 1,332 is a programme persons count like the 2008 and 2009 rows below. **The 220 is the problem**: a camp that took 473 in 1955 and 770 the following summer cannot have set a registration record at 220, so either the figure is scoped to something the sentence does not name, or a digit is lost in the scan. Both are recorded; neither is preferred, and no trend should be drawn through the 220^25 |
 | **2002** | **770** | — | "On site at Kamp Kanawana, **770 Kampers** enjoyed a whole range of outdoor activities", and "registration has increased **40% over the past three years**", in the annual report for the **year ended 31 May 2003** — so this is the summer of 2002. **Corrected 2026-09-06: this row previously read 2005 and carried no citation at all**, and no fact in the KB supported it; the figure matches this report exactly and its year does not.^23 |
 | *(a round figure, not a season count)* | *"800 children and youth"* | — | The association's own 2004-2005 annual report describes the camp as host to 800 "every year", which is a descriptor rather than a registration; it sits beside the 770 above rather than replacing it^22 |
 | **2008** | **1,091** | — | *Persons, not campers.* The association's "Social Audit" table, headed PROGRAMS / PERSONS, gives "Residential camp - YMCA Kanawana **1,091**" for the year ended 31 December 2008 — a programme participation count on the same footing as "Swimming lessons 5,449", so it is not a season registration and should not be compared with one^24 |
@@ -349,6 +350,7 @@ Three things stand out and none of them is visible from any single article.
 22. YMCA of Greater Montreal annual report 2004-2005 [src_ymf_sgw_ymca_annual_report_2004_2005]: "Every year, Camp YMCA Kanawana is host to 800 children and youth from very different worlds." Read 2026-09-06 under p_454; no Wayback copy of this year exists in this project, so nothing in it had been read by any route.
 23. Montreal YMCA annual report 2002-2003, year ended 31 May 2003 [src_ymf_sgw_ymca_annual_report_2002_2003]: "Registration has increased 40% over the past three years. This summer, 60 youth explored our challenging rivers and trails. On site at Kamp Kanawana, 770 Kampers enjoyed a whole range of outdoor activities in the same spirit of fun and togetherness as the first Kampers in 1894." Read 2026-09-06 under p_454.
 24. Montreal YMCA annual reports for the years ended 31 December 2008 and 31 December 2009 [src_ymf_sgw_ymca_annual_report_2008, src_ymf_sgw_ymca_annual_report_2009], the "Social Audit" table headed PROGRAMS / PERSONS. Read 2026-09-06 under p_454. The same table appears in the 2002-2003, 2003-2004, 2004-2005 and 2007 reports but its number column is separated from its labels by the OCR in those years, so only 2008 and 2009 are legible here.
+25. Montreal YMCA annual report 2001-2002 [src_ymf_sgw_ymca_annual_report_2001_2002], "YMCA Kamp Kanawana - A Year of Firsts" and the Social Audit table. Read 2026-09-06 under p_454. THE SAME REPORT GIVES TWO NUMBERS that cannot both be season registrations; see the rows.
 
 ## Research Notes
 
