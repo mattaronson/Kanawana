@@ -1,6 +1,6 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 38*
+*Status: E1-reviewed | Sources: 39*
 *Last Updated: 2026-09-06 (a last-day ritual the camp never printed, from an American family's memoir of the late 1920s)*
 
 ## Overview
@@ -194,6 +194,14 @@ The order overlaps in membership with [[traditions/order-of-owens|the Order of O
 6. [Nice-to-have, re-confirmed dead end 2026-07-09] Are there other issues of the Green Triangle beyond the 1938-07-29 copy? The full run 1932–1940 is in the Concordia Archives (Box HA1874), but the public finding aid lists it only as a single undifferentiated box-level entry — individual issue dates are not itemized online. Only five total items from this collection are digitized on Internet Archive (the 1923 brochure, 1935 chronicle, the one 1938 Green Triangle issue, the 1941 CFCF broadcast, and a previously uncited May 1980 "Ka-News" issue, which contains no motto/Shawbridge-relevant content). A direct request to Concordia Records Management for the box's item list is the only remaining path.
 7. [Nice-to-have, re-confirmed dead end 2026-07-09] Did "Kamp Kanawana" persist informally (merchandise, staff/alumni culture, signage) after the official spring-2005 spelling change to "Camp"? A fresh sweep across Facebook, Instagram, TikTok, Reddit, Etsy, eBay, Worthpoint, and Wikimapia found no dated evidence of post-2005 informal "Kamp" usage — every hit is either a citation of an object whose own original title used the old spelling, or an unrelated legacy URL slug. One operator recollection places the change in the mid-to-late 2010s — a decade after the documented institutional switch — which may reflect informal persistence not yet found in any dated source, but this remains unconfirmed after two independent search passes.
 
+**The staff turned the motto into an organisation, and it reached Haiti.** The Montreal YMCA's
+annual report for the year ended 31 May 2003: "The Kamp's summer staff founded a **volunteer group
+called Non Nobis Solum** (Kanawana's motto, which means 'not for ourselves alone') whose goal is to
+**organize community outreach projects and raise funds to sponsor youth in our partner YMCA in
+Haiti**."^39 Nothing else in this project mentions the group, a Haitian partner YMCA, or what became
+of either. It is the only instance found so far of Kanawana staff constituting themselves as a body
+outside the camp's own structures.
+
 ## "We are all Kanawanians": a counsellor's account, 2004-05
 
 The YMCA of Greater Montreal's annual report for 2004-2005 profiles **Ayunda Dube**, and it is the
@@ -267,3 +275,4 @@ account to set beside it.
 36. The 1923 *Gas-Bag Extra*, page 1, **read from the page image** on 2026-09-06 [src_ymf_the_gas_bag_extra_vol_13_no_1]; and the YMCA of Montreal annual reports 1913–1924 for the Williams disambiguation [src_ia_ymca_montreal_annual_reports_collection]. See [f_4925], [f_4926].
 37. Jan Elvin, *The Box from Braunau: In Search of My Father's War* (New York: AMACOM, 2009), Internet Archive scan leaf 296 [src_elvin_box_from_braunau_2009]. **One passage only**, reconstructed 2026-09-06 from thirty-eight overlapping Open Library search-inside queries and walked to a subject boundary in both directions; the book is lending-restricted, page images return HTTP 403, and it has not been read. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-two-family-memoirs-elvin-and-torge.txt`. See [f_4952].
 38. YMCA of Greater Montreal annual report 2004-2005 [src_ymf_sgw_ymca_annual_report_2004_2005], the "People with Strong Values" profile of Ayunda Dube. Read 2026-09-06 under p_454. A SELF-AUTHORED PUBLISHED TESTIMONIAL, given by name to the association for its own annual report, not a third-party assessment of a private individual, so the embargo procedure for personal assessments does not apply.
+39. Montreal YMCA annual report 2002-2003, year ended 31 May 2003 [src_ymf_sgw_ymca_annual_report_2002_2003]: the Non Nobis Solum staff volunteer group. Read 2026-09-06 under p_454.

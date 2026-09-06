@@ -1,8 +1,8 @@
 {
-  "version": "8.16",
-  "kb_version": "8.16",
+  "version": "8.17",
+  "kb_version": "8.17",
   "migrated_from": "3.3",
-  "fact_count": 5109,
+  "fact_count": 5112,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -92095,6 +92095,61 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.16",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5148",
+      "category": "people",
+      "date_ref": "2003-2004",
+      "entities": [
+        "Sam Lazarus",
+        "Kamp Kanawana",
+        "YMCA of Greater Montreal"
+      ],
+      "claim": "THERE IS AN ANNUAL STAFF AWARD IN SAM LAZARUS'S NAME, AND THIS PROJECT DID NOT HAVE IT. The YMCA of Greater Montreal's 2003-2004 annual report: 'Sam's co-workers and friends decided to pay tribute to this TIRELESS AMBASSADOR OF KANAWANA by creating AN AWARD IN HIS NAME. The award will be presented every year to a STAFF MEMBER WHO BEST EXEMPLIFIES THE KAMP KANAWANA MOTTO: Non Nobis Solum (Not for Ourselves Alone).' It would be a second named staff award beside the Pip Award. WHETHER IT WAS EVER PRESENTED IS NOT KNOWN: this project has no recipient list and no later mention of it in anything read. The same page describes him as a counsellor 'much appreciated for his KINDNESS AND DEDICATION, as well as for his EXTRAORDINARY ABILITY TO INSPIRE AND MOTIVATE CHILDREN', and states the death as 'died of malaria in January while working as a volunteer IN A DAYCARE in Ghana' -- where his mother's book and people/sam-lazarus.md give an ORPHANAGE in Kumasi and CEREBRAL malaria; the difference is the association writing at a distance and is noted, not resolved. THE FUND'S EARLY FIGURES: by 2003-04 the endowment 'is now worth $22,000' and 'TWO CHILDREN BENEFITTED FROM THE FUND THIS PAST SUMMER'; contributions came 'individually and through various events, such as a BENEFIT HOCKEY TOURNAMENT THAT RAISED MORE THAN $9,000, ALLISON LEDUC'S FIRST MARATHON, as well as weddings and retirement parties'. IT DOES NOT SETTLE THE '2003 Sam L' PLAQUE QUESTION -- the report says nothing about which section he counselled in 2003.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2003_2004"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.17",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5149",
+      "category": "culture",
+      "date_ref": "2002-2003",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal",
+        "Haiti"
+      ],
+      "claim": "KANAWANA'S SUMMER STAFF FOUNDED A VOLUNTEER ORGANISATION NAMED FOR THE CAMP MOTTO, AND IT RAISED MONEY FOR HAITI. The Montreal YMCA's annual report for the year ended 31 May 2003: 'The Kamp's summer staff founded a VOLUNTEER GROUP CALLED NON NOBIS SOLUM (Kanawana's motto, which means \"not for ourselves alone\") whose goal is to ORGANIZE COMMUNITY OUTREACH PROJECTS AND RAISE FUNDS TO SPONSOR YOUTH IN OUR PARTNER YMCA IN HAITI.' NOTHING ELSE IN THIS PROJECT MENTIONS THE GROUP, A HAITIAN PARTNER YMCA, OR WHAT BECAME OF EITHER. It is the only instance found so far of Kanawana staff constituting themselves as a body outside the camp's own structures, and it dates to the same period in which the Sam Lazarus award was created around the same motto (f_5148). The motto itself was already recorded in traditions/traditions-and-culture.md; the organisation was not.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2002_2003"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.17",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5150",
+      "category": "attendance",
+      "date_ref": "2002-2009",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "A MISDATED ROW IN THE ATTENDANCE SERIES, AND TWO NEW ONES. meta/attendance-series.md carried '2005 | 770' WITH NO CITATION AT ALL and no supporting fact. The Montreal YMCA's annual report for the YEAR ENDED 31 MAY 2003 says: 'Registration has increased 40% OVER THE PAST THREE YEARS. This summer, 60 youth explored our challenging rivers and trails. On site at Kamp Kanawana, 770 KAMPERS enjoyed a whole range of outdoor activities in the same spirit of fun and togetherness as the first Kampers in 1894.' The figure matches exactly and the year does not: 'this summer' inside a year ended 31 May 2003 IS THE SUMMER OF 2002. Row corrected in place from 2005 to 2002, visibly, with the report cited. TWO ROWS ADDED, both from the association's 'Social Audit' table headed PROGRAMS / PERSONS: 'Residential camp - YMCA Kanawana 1,091' for the year ended 31 December 2008, and 'Residential camp - Y Kanawana 1,281' for the year ended 31 December 2009. THESE ARE PERSONS AND NOT CAMPERS -- they sit in a list beside 'Swimming lessons 5,449' -- so they are programme participation counts and must not be compared with season registrations. The same table appears in the 2002-2003, 2003-2004, 2004-2005 and 2007 reports but the OCR separates its number column from its labels in those years, so only 2008 and 2009 are legible.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2002_2003",
+        "src_ymf_sgw_ymca_annual_report_2008",
+        "src_ymf_sgw_ymca_annual_report_2009"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.17",
       "added_by": "manual"
     }
   ]
