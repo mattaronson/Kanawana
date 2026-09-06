@@ -4234,10 +4234,12 @@
       "type": "VERIFY",
       "description": "RESOLVE A. ROSS SEAMAN'S 1962 SECRETARYSHIP -- national or provincial? wiki/people/a-ross-seaman.md says \"He is QCA Secretary again in the 1962 and 1963 officer lists.\" The masthead of Canadian Camping Vol. 14 No. 2 (February 1962), under the heading \"CANADIAN CAMPING ASSOCIATION, 2233 Belgrave Avenue, Montreal 28, Quebec,\" reads \"Secretary -- Mr. A. Ross Seaman, 4140 Jean Renou, Lachine, Que.\", and the same masthead stands unchanged in June 1962. He replaced Agnes Mutchler, who had held it as CCA Corresponding Secretary in December 1961. So either the article has conflated the national and provincial bodies or Seaman held both posts. Either way the article is missing a substantial fact: the serving director of Kamp Kanawana was national secretary of the Canadian Camping Association in 1962. Check the 1963 masthead and the QCA officer lists before revising.",
       "weight": 8,
-      "status": "pending",
+      "status": "complete",
       "created": "2026-09-05",
       "source": "word-for-word read of Canadian Camping, issues 41-56, converted to KB facts",
-      "blocked_on": null
+      "blocked_on": null,
+      "resolved": "2026-09-06",
+      "resolution": "NATIONAL, not provincial. The 1962-63 officer list naming Seaman Secretary at 4140 Jean Renou, Lachine is the Canadian Camping Association masthead -- headed 'CANADIAN CAMPING ASSOCIATION, 2233 Belgrave Avenue, Montreal 28, Quebec', the national body, whose head office was in Montreal through Kenneth H. Murray's presidency. He is there in February 1962, June 1962 and February 1963; Agnes Mutchler held the post as Corresponding Secretary in December 1961; and by the April 1963 masthead the office has moved to Calgary with Eleanor Logan of the Edmonton YMCA as Secretary under a new president, Dr Don Smith. No Quebec Camping Association officer list appears in any cached issue between December 1961 and June 1963 -- 'Quebec Camping Association' occurs once in those eight issues, in the notice of the joint CCA/QCA/ACQ convention of 22-24 March 1962 -- and April 1962 and December 1962 carry no masthead page in the digitized text at all, so those two months can be read neither way. The article conflated the two bodies; corrected in place in wiki/people/a-ross-seaman.md, with the erroneous sentence quoted so the mistake is traceable. Whether he ALSO held the provincial post is unproven rather than disproven, and that is written into the article. See f_4928; f_2471 carries a [CORRECTED 2026-09-06] note."
     },
     {
       "priority_id": "p_329",

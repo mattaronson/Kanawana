@@ -1,8 +1,8 @@
 {
-  "version": "6.65",
-  "kb_version": "6.65",
+  "version": "6.66",
+  "kb_version": "6.66",
   "migrated_from": "3.3",
-  "fact_count": 4889,
+  "fact_count": 4890,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -42244,7 +42244,7 @@
     },
     {
       "fact_id": "f_2471",
-      "claim": "A. ROSS SEAMAN'S PROVINCIAL AND NATIONAL OFFICES, from the magazine's officer lists. He was SECRETARY OF THE QUEBEC CAMPING ASSOCIATION from about 1949, and the April 1951 issue records the end of it: 'Ross Seaman, secretary of the QCA for the past two years, has been forced to resign from that position due to his recent appointment to the Lachine YMCA' -- which independently dates his move to the Lachine branch. He was in charge of registration for the National-Quebec Conference held that spring at the Sir Arthur Currie Gymnasium, 475 Pine Avenue West. He is QCA Secretary again in the 1962 and 1963 lists, at 4140 Jean Renou, Lachine. He sits on the CCA's national board as 'Mr. A. Ross Seaman, Que.' through 1966-1968. The winter 1968 issue names him a VICE-PRESIDENT of the Quebec Camping Association under president Mrs. Nicholas D. Demetelin, and separately as 'immediate past president' of the English section. In summer 1973 he led a national workshop on FUNDING which delegates found 'left us the most to grapple with in terms of new information'.",
+      "claim": "A. ROSS SEAMAN'S PROVINCIAL AND NATIONAL OFFICES, from the magazine's officer lists. He was SECRETARY OF THE QUEBEC CAMPING ASSOCIATION from about 1949, and the April 1951 issue records the end of it: 'Ross Seaman, secretary of the QCA for the past two years, has been forced to resign from that position due to his recent appointment to the Lachine YMCA' -- which independently dates his move to the Lachine branch. He was in charge of registration for the National-Quebec Conference held that spring at the Sir Arthur Currie Gymnasium, 475 Pine Avenue West. He is QCA Secretary again in the 1962 and 1963 lists, at 4140 Jean Renou, Lachine. He sits on the CCA's national board as 'Mr. A. Ross Seaman, Que.' through 1966-1968. The winter 1968 issue names him a VICE-PRESIDENT of the Quebec Camping Association under president Mrs. Nicholas D. Demetelin, and separately as 'immediate past president' of the English section. In summer 1973 he led a national workshop on FUNDING which delegates found 'left us the most to grapple with in terms of new information'. [CORRECTED 2026-09-06: the sentence \"He is QCA Secretary again in the 1962 and 1963 lists, at 4140 Jean Renou, Lachine\" is wrong in one particular. That list is the CANADIAN CAMPING ASSOCIATION's national masthead, not a Quebec one, and 4140 Jean Renou is the address printed there. See f_4928 and f_2991. The sentence is kept as written so the error can be traced.]",
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
@@ -87807,6 +87807,28 @@
       "date_ref": "1923",
       "conflicts_with": [],
       "added_version": "6.65",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4928",
+      "category": "directors",
+      "date_ref": "1961-12/1963-04",
+      "entities": [
+        "A. Ross Seaman",
+        "Canadian Camping Association",
+        "Quebec Camping Association",
+        "Agnes Mutchler",
+        "Eleanor Logan",
+        "Kenneth H. Murray",
+        "Kamp Kanawana"
+      ],
+      "claim": "A. ROSS SEAMAN'S 1962-63 SECRETARYSHIP WAS THE NATIONAL ONE, NOT THE PROVINCIAL ONE (p_328 resolved). The officer list naming him \"Secretary -- Mr. A. Ross Seaman, 4140 Jean Renou, Lachine, Que.\" is the CANADIAN CAMPING ASSOCIATION masthead, printed under the heading \"CANADIAN CAMPING ASSOCIATION, 2233 Belgrave Avenue, Montreal 28, Quebec\" -- the national body, whose head office sat in Montreal through Kenneth H. Murray's presidency, which is why a Montreal man could hold a national post from a home address in Lachine. He stands in that masthead in FEBRUARY 1962, JUNE 1962 and FEBRUARY 1963. December 1961 gives the post to Mrs Agnes Mutchler as Corresponding Secretary; by the APRIL 1963 masthead the head office has moved to Calgary and the Secretary is Miss Eleanor Logan, c/o Y.M.C.A., Edmonton, under a new president, Dr Don Smith of Edmonton. So the run is February 1962 to no later than February 1963. NO QUEBEC CAMPING ASSOCIATION OFFICER LIST APPEARS IN ANY CACHED ISSUE OF THIS PERIOD: across the eight issues from December 1961 to June 1963 the phrase \"Quebec Camping Association\" occurs exactly once, in the notice of the joint CCA / QCA / Association des camps du Quebec convention of 22-24 March 1962 at the Sheraton Mount Royal. The April 1962 and December 1962 issues carry no masthead page in the digitized text at all, so those two months can be read neither way. The wiki sentence \"He is QCA Secretary again in the 1962 and 1963 officer lists\" therefore rests on the national masthead read as a provincial one, and the giveaway is the address: 4140 Jean Renou is the address printed in the national masthead. Whether he ALSO held the provincial secretaryship in those years is not shown by any source this project holds, and the absence of a QCA officer list from the cached run is a fact about the run, not about the association.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.66",
       "added_by": "ralph_loop"
     }
   ]
