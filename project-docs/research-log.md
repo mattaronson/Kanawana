@@ -6874,3 +6874,33 @@ it: 201 pairs become 207, and 50 read-state disagreements become 54.
 `f_5013`, and then chose a document without consulting it. Rule 21 has always said grep the cache
 before searching the world; the corollary I had not written down is that **a report you generated an
 hour ago is part of the corpus you are supposed to grep.** Rules 35 and 36.
+
+## 2026-09-06 — p_449: the camp counted once, in someone else's words
+
+Raised and answered inside an hour. The question was whether Kanawana ever counted its campers'
+nationalities in a year other than 1926. Every cached annual report from 1901 to 1948 was searched
+for "nationalit" and for "racial."
+
+**No other camp season is counted this way.** And every other nationality count in those reports
+belongs to the same place: the **Eastern Branch**, the association's immigrant-serving city branch.
+Eighteen nationalities in the 1925 report. Nineteen among its students in 1926. Twenty-six by 1928,
+"very much in the nature of an international unit in the Montreal Association's work." In 1929 a
+full country-by-country table — 601 members across 34 countries, from Albania and Armenia through
+Croatia and Hungary and Italy (61) to Roumania, Russia, Serbia and South Africa. And by 1931 the
+branch describing itself in capitals: "our little League of Nations demonstrates daily that it is
+possible for men of different tongues and customs and traditions to live together in peace and
+mutual appreciation."
+
+The 1930s and 1940s hits for "racial" are the association's standing formula for its world
+programme — "international and inter-racial education which seeks to promote understanding and
+goodwill among the nations of the world" — and not camp records.
+
+That is a better answer than a series would have been. The camp's 1926 list is a single deliberate
+act of counting, and the words it uses are not its own: they are the vocabulary the YMCA had already
+built for its immigrant branch and its international work, applied for one season to a boys' camp in
+the Laurentians. **Kanawana described its own composition once, in language the institution had
+developed for describing somebody else's.**
+
+One error caught by the checks: I cited `src_ymf_sgw_ymca_annual_report_1930`, which does not exist.
+The 1930 report's record is `src_cache_sgw_ymca_annual_report_1930`. `data_integrity` refused the
+commit, which is the second time today an invented source id has been stopped at that gate.

@@ -1,8 +1,8 @@
 {
-  "version": "7.57",
-  "kb_version": "7.57",
+  "version": "7.58",
+  "kb_version": "7.58",
   "migrated_from": "3.3",
-  "fact_count": 5030,
+  "fact_count": 5031,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -90689,6 +90689,31 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.57",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5069",
+      "category": "history",
+      "date_ref": "1924-1948",
+      "entities": [
+        "Kamp Kanawana",
+        "Eastern Branch",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE 1926 CAMPER-NATIONALITY LIST IS UNIQUE TO THE CAMP, AND EVERY OTHER SUCH COUNT IN THESE REPORTS IS ABOUT A CITY BRANCH. p_449 asked whether Kanawana counted its campers' nationalities in any year but 1926 (f_5068). ALL CACHED ANNUAL REPORTS FROM 1901 TO 1948 WERE SEARCHED for 'nationalit' and for 'racial'. THE ANSWER IS NO. Every other occurrence of a nationality count belongs to the EASTERN BRANCH, the association's immigrant-serving branch, and not to any camp: 'EIGHTEEN DIFFERENT NATIONALITIES have entered into the programme of our Eastern Branch' with '111 of these NEW CANADIANS in the educational classes' (1925 report); nineteen among its students (1926); 'this Branch deals with NO LESS THAN TWENTY-SIX NATIONALITIES, it is very much in the nature of AN INTERNATIONAL UNIT in the Montreal Association's work' (1928); and in the 1929 report A FULL COUNTRY-BY-COUNTRY TABLE -- 601 members 'representing the following 34 COUNTRIES OR NATIONALITIES', from Albania and Armenia through Croatia, Denmark, Holland, Hungary, India, Italy (61), Roumania, Russia, Serbia and South Africa. By 1931 the branch describes itself in capitals: 'ALTHOUGH THE MEMBERSHIP IN THIS BRANCH IS MADE UP OF MEN AND SOME WOMEN BELONGING TO TWENTY-SIX DIFFERENT NATIONALITIES, YET IN THE MINDS OF MANY IT IS JUST LIKE A FAMILY. OUR LITTLE LEAGUE OF NATIONS DEMONSTRATES DAILY THAT IT IS POSSIBLE FOR MEN OF DIFFERENT TONGUES AND CUSTOMS AND TRADITIONS TO LIVE TOGETHER IN PEACE AND MUTUAL APPRECIATION.' In 1932, twenty-one nationalities and 261 members, with forty unemployed men admitted without dues, and the branch stating that 'NO RACIAL OR RELIGIOUS DISCRIMINATION WAS SHOWN, the group being composed of about TWO-THIRDS PROTESTANT AND ONE-THIRD ROMAN CATHOLIC'. THE 'RACIAL' HITS OF THE 1930s AND 1940s ARE ALSO NOT ABOUT THE CAMP: they are the association's standing formula for its world programme -- 'international and inter-racial education which seeks to promote understanding and goodwill among the nations of the world' (1934, 1935, 1936), and in 1943 'to work together across INTER-RACIAL, INTER-DENOMINATIONAL AND INTERNATIONAL LINES'. SO THE 1926 CAMP LIST IS A SINGLE, DELIBERATE ACT OF COUNTING, and it borrows the vocabulary the association had built for its immigrant branch and its world work. That is the context it should be read in, and it is a better answer than a series would have been: the camp described itself once, in the language the institution already had for describing difference.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1925",
+        "src_ymf_sgw_ymca_annual_report_1926",
+        "src_ymf_sgw_ymca_annual_report_1927",
+        "src_ymf_sgw_ymca_annual_report_1928",
+        "src_ymf_sgw_ymca_annual_report_1929",
+        "src_cache_sgw_ymca_annual_report_1930",
+        "src_ymf_sgw_ymca_annual_report_1931",
+        "src_ymf_sgw_ymca_annual_report_1932"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.58",
       "added_by": "ralph_loop"
     }
   ]

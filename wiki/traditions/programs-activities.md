@@ -66,8 +66,23 @@ described as a real step, and for a Protestant boys' camp in a Montreal organise
 and linguistic lines it plausibly was one.
 
 What the passage does not give: how many boys of any group, whether any came on the Fossils Club
-scholarships, whether the categories were self-reported or assigned, or whether the count was made
-in any other year. It is the earliest statement this project holds about who was at Kanawana beyond
+scholarships, or whether the categories were self-reported or assigned.
+
+**It was made once.** Every cached annual report from 1901 to 1948 was searched for "nationalit" and
+"racial," and no other camp season is counted this way.^ar27 Every other nationality count in those
+reports belongs to the **Eastern Branch**, the association's immigrant-serving city branch —
+eighteen nationalities in the 1925 report, nineteen among its students in 1926, twenty-six by 1928
+when it is called "very much in the nature of an international unit in the Montreal Association's
+work," and in 1929 a full country-by-country table of 601 members across 34 countries. By 1931 the
+branch describes itself in capitals: "**our little League of Nations demonstrates daily that it is
+possible for men of different tongues and customs and traditions to live together in peace and
+mutual appreciation.**" The 1930s and 1940s hits for "racial" are the association's standing formula
+for its world programme, not camp records.
+
+So the camp's 1926 list is a single deliberate act of counting, and it borrows the vocabulary the
+institution had already built for its immigrant branch and its international work. That is more
+telling than a series would have been: **Kanawana described its own composition once, in words the
+YMCA had developed for describing somebody else's.** It is the earliest statement this project holds about who was at Kanawana beyond
 its Anglo-Protestant core.
 
 ### 1927: fifteen subjects, and a shift away from "city" games
