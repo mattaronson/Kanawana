@@ -1,7 +1,7 @@
 # The Cushing Family and YMCA Camping
 
 *Status: E1-reviewed | Sources: 14*
-*Last Updated: 2026-09-06 (Charles in the Quebec chair from 1887 to 1898, and a probable name for Percy H.)*
+*Last Updated: 2026-09-06 (Charles in the Quebec chair from 1887, and a probable name for Percy H.)*
 
 ## Summary
 
@@ -50,11 +50,11 @@ The 1905 genealogy contains no mention of Lake Saint-Joseph, camping, or YMCA ac
 
 This article had the family's YMCA involvement running from Lemuel Jr.'s presidency in 1867-68 to the annual reports of 1891 onward, with two decades in between unaccounted for. The YMCA's own continent-wide *Year Book*, read in September 2026, puts a Cushing in the association in both of the gaps that mattered.
 
-**Charles held the Quebec corresponding membership for at least eleven years, from 1887.**^14 That was the association's senior volunteer post in the province — held in the 1886 volume by D. A. Budge, the General Secretary himself, so Charles either succeeded him or they alternated. The table above records Charles as a notary and a Sun Life director with **no YMCA connection at all**, which is what this corrects.
+**Charles held the Quebec corresponding membership for at least nine years, from 1887.**^14 That was the association's senior volunteer post in the province — held in the 1886 volume by D. A. Budge, the General Secretary himself, so Charles either succeeded him or they alternated. The table above records Charles as a notary and a Sun Life director with **no YMCA connection at all**, which is what this corrects.
 
-This wiki already had him in the chair in **1893, 1894 and 1895**.^13 The volumes now add **1887, 1888 and 1891** at the front, and the **1898** volume at the back, where he signs the province's annual narrative report "Charles Cushing, Cor. Mem."^14 So he is not a Cushing who appears in the provincial chair five years before the Lake Saint-Joseph trip. **He is a Cushing who holds it before, during and after the trip and the camp's founding.**
+This wiki already had him in the chair in **1893, 1894 and 1895**.^13 The volumes now add **1887, 1888 and 1891** at the front.^14 So he is not a Cushing who appears in the provincial chair five years before the Lake Saint-Joseph trip. **He is a Cushing who holds it before, during and after the trip and the camp's founding**, from 1887 until at least 1895, with **William Tees** in the post by 1897 — which the 1897 volume, read directly, confirms: "Quebec ... Wm. Tees, Montreal", and the province's report signed "William Tees, Cor. Mem."^14
 
-*One loose end, left loose.* This article also records that by the **1897** volume the office had passed to **William Tees**.^13 The 1898 volume — whose title page reads "NORTH AMERICA, FOR THE YEAR 1898", so it is not a misdated statistics section — has Cushing signing again. That is not a contradiction, since a man can leave a post and return to it and the two statements are about different years, but it does mean any handover was not permanent. The 1896 and 1897 volumes want re-reading on both names before either version is treated as settled.
+<!-- CORRECTION, 2026-09-06, within the hour. This passage said Cushing held the post "for at least eleven years", adding an 1898 signature at the back and raising it against this article's own record of William Tees in 1897 as a loose end to resolve. THE 1898 VOLUME WAS NOT AN 1898 VOLUME: it is the 1893 volume bound into ymcayearbookand02assogoog, whose title page the OCR renders "FOR THE YEAR 1898" and whose contents are all 1892 and early 1893. That signature is the 1893 one this article already had, and the tension with Tees was built out of a misread digit. What exposed it was two scans of the same year disagreeing — the genuine 1898 volume, in another item, has no Cushing in it at all. A title page beats a catalogue year, and a volume's own contents beat its title page's OCR. See f_4985 and f_4987. -->
 
 The identification is by name, city, period and calling: Charles Cushing of Montreal, born Chatham 1848, McGill B.C.L. 1869, notary, and — in the 1905 genealogy's own words — "an active member of the Congregational Church" who "has always taken a leading part in promoting the interests of this body, both in its college and in its missionary efforts."^1 A professional man of thirty-nine, prominent in Protestant church work, is exactly who held that post. No source says outright that the Year Book's Charles Cushing is Lemuel Sr.'s son, and this is written as an identification rather than a fact.
 

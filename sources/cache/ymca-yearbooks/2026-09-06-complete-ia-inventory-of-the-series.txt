@@ -38,7 +38,7 @@ yearbookofyoungm00youn        1881-82                      1881
 ymcayearbookand01amergoog     1882(-83?), 1884             1882
 ymcayearbookand02amergoog     1886, 1887, 1888, 1890       1886
 yearbookofyoungm0000vari      1891, 1892                   (none)
-ymcayearbookand02assogoog     1891, 1892, 1898, 1894, 1895 1891   [bound OUT OF ORDER]
+ymcayearbookand02assogoog     1891, 1892, 1893, 1894, 1895 1891   [in order — see below]
 ymcayearbookand00assogoog     1896, 1897, 1898, 1899, 1900 1896
 yearbookyoungme01commgoog     1899, 1900                   1899
 ymcayearbookand00amergoog     1909                         1907   [WRONG BY TWO YEARS]
@@ -54,6 +54,20 @@ Held separately in this project's cache from earlier work: 1893, 1894, 1895, 189
 The 1882(-83?) reading is the one soft entry above: its OCR gives "FOB THE YEAR 1882-1888", where
 the trailing figure is almost certainly 1883 misread. It is written with the question mark it
 deserves.
+
+[CORRECTED 2026-09-06, within the hour. The table first read "ymcayearbookand02assogoog  1891,
+1892, 1898, 1894, 1895 ... [bound OUT OF ORDER]". THE THIRD VOLUME IS 1893, NOT 1898. Its title
+page is OCR'd "FOR THE YEAR 1898" and its contents are all 1892 and early 1893 — "the year
+closing March 1, 1893", "Since April 1, 1892", "The year 1892 witnessed great advance". The scan
+is in order; nothing is out of sequence, and the whole "bound out of order" observation was a
+misread digit. THESE SCANS CONFUSE 3 AND 8 ROUTINELY — the same OCR gives F. S. Morrison's year
+of entry, 93, as "SS".
+
+SO THE RULE HAS A THIRD TERM. A catalogue year is worthless; a title page beats it; AND A
+VOLUME'S OWN CONTENTS BEAT ITS TITLE PAGE'S OCR. Where two items hold the same year, read both —
+the disagreement between them is what exposed this one. (The 1898 volume in
+ymcayearbookand00assogoog is genuinely 1898: its text refers to "the beginning of the year 1898",
+and the Archibald McKellar reading taken from it stands.)]
 
 
 SO THE SERIES IS AVAILABLE FOR:

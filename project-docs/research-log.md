@@ -5849,3 +5849,35 @@ passed to William Tees. The 1898 volume — title page verified as "NORTH AMERIC
 contradiction: the statements are about different years, and a man can leave a post and return.
 But it means any handover was not permanent, and the 1896 and 1897 volumes want re-reading on
 both names before either version is treated as settled. Both are on disk.
+
+### Correction: there was no 1898 signature, and nothing is bound out of order
+
+The entry above reported Charles Cushing signing the Quebec report in the **1898** volume, made
+that an eleven-year tenure, and raised it as a tension against this project's record of William
+Tees holding the post by 1897.
+
+**None of that survives.** The volume is the **1893** one. Its title page is OCR'd "FOR THE YEAR
+1898" — these scans confuse 3 and 8 routinely, and the same OCR gives F. S. Morrison's year of
+entry, 93, as "SS" — and its contents are all 1892 and early 1893: "the year closing March 1,
+1893", "Since April 1, 1892", "The year 1892 witnessed great advance in nearly every field". The
+signature is the 1893 one this project already had. The tension with Tees was built out of a
+misread digit.
+
+Two consequences beyond the Cushings. `ymcayearbookand02assogoog` holds **1891 through 1895 in
+order** — the "bound out of order" in the inventory was the same misread, and nothing in this
+series is out of sequence. And the 1896 and 1897 volumes, read as the last job of p_437, **confirm
+f_4837 directly** rather than challenging it: 1896 has neither man, and 1897 prints "Quebec ...
+Wm. Tees, Montreal" with the province's report signed "William Tees, Cor. Mem."
+
+**What exposed it was two scans of the same year disagreeing.** The genuine 1898 volume, in
+another item, has no Cushing in it at all. Rather than record the disagreement and move on, both
+volumes' own contents were read. The 1898 volume there is genuinely 1898 — its text refers to
+"the beginning of the year 1898" — so the Archibald McKellar reading taken from it stands.
+
+The dating rule now has three terms, in order of authority: **a catalogue year is worthless; a
+title page beats it; and a volume's own contents beat its title page's OCR.** Where two items
+hold the same year, read both.
+
+The finding, corrected, is still a finding: Charles Cushing held the Quebec corresponding
+membership in the 1887, 1888, 1891, 1893, 1894 and 1895 volumes — six documented years across at
+least nine — before, during and after the 1892 trip and the 1894 founding.
