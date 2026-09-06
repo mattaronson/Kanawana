@@ -13860,7 +13860,7 @@
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. | 2026-09-06 (p_445): PARTIAL READ ONLY -- see read_state_basis. The director's name was taken from this document; nothing else was.",
       "read_state": "partial",
-      "read_state_basis": "2026-09-06 under p_445: read for its organisation section and signature block only (f_5024, f_5025); the trip narratives, the equipment lists and the first-aid inventory are NOT read"
+      "read_state_basis": "2026-09-06 under p_441: the organisation and promotion sections, the signature block, the table of contents and the surviving appendices read (f_5024, f_5025, f_5050); the equipment, food and rating sections that make up most of the report are NOT read. NOTE: the scan stops after Appendix 4 -- appendices 5 and 6 listed in the table of contents are not in the digitized text"
     },
     {
       "source_id": "src_ymf_1960_the_adventures_of_the_voyageurs_of_verendrye_brochure",

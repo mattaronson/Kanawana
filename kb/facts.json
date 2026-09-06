@@ -1,8 +1,8 @@
 {
-  "version": "7.47",
-  "kb_version": "7.47",
+  "version": "7.48",
+  "kb_version": "7.48",
   "migrated_from": "3.3",
-  "fact_count": 5011,
+  "fact_count": 5012,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -90292,6 +90292,26 @@
       "confidence": "inferred",
       "conflicts_with": [],
       "added_version": "7.47",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5050",
+      "category": "programs",
+      "date_ref": "1960",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "Jack Organ",
+        "Gerry Wright",
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "HOW THE VOYAGEURS RECRUITED, AND A LINE THAT DATES THE PROGRAMME BACK BEFORE 1960. The 1960 report's opening section on promotion: 'A PUBLICITY FOLDER was produced for the Voyageurs by GERRY WRIGHT of the Metropolitan Y.M.C.A. Public Relations Office, in co-operation with JACK ORGAN of the Voyageurs. JACK WAS THE ONLY LEADER WITH PREVIOUS EXPERIENCE WITH THE VOYAGEURS, and had pictures and ideas which aided greatly in the production of this folder. THREE THOUSAND COPIES were received by MARCH 15th, and distribution was made TO ALL PREVIOUS VOYAGEURS, ALL SENIOR CAMPERS OF KAMP KANAWANA WHO THE PREVIOUS YEAR WERE RECOMMENDED BY THE SECTION DIRECTOR AND THE SECTION PROGRAM DIRECTOR, and to all the Y.M.C.A. branches in Montreal.' TWO THINGS. THE RECRUITING CHANNEL IS KANAWANA ITSELF, by nomination: the parent camp's section directors picked which of their senior campers got the folder, which is a stronger institutional tie than 'satellite' conveys and explains why the 1959 report worried about the two camps' identities (f_5018). AND 'PREVIOUS VOYAGEURS' AND 'THE ONLY LEADER WITH PREVIOUS EXPERIENCE' both presuppose earlier years, which is independent support for the 1959 Older Boys Camp being the same programme under another name -- and against the 1963 report's 'three year history' counting from 1961 (f_5026). The report also wants something the folder could not do: 'if possible in future years, PERSONAL CONTACT is felt to be the best way to sell camp. Talking to parents and boys will stimulate more interest.' A NOTE ON THE SCAN, because it matters for a blocked priority: the report's table of contents lists SIX APPENDICES, the last of which the OCR renders 'Suggested Nong' at page 19. That could be Songs -- which would bear on p_048 -- but the report's own cross-references call Appendix 6 'the recommended menu' in one place and 'group development forms' in another, so the appendices were plainly renumbered at some point. AND THE SCAN STOPS AFTER APPENDIX 4 (first aid supplies), so none of it can be checked. RECORDED AS AN UNRESOLVED LEAD AND NOT AS A SONG SOURCE.",
+      "sources": [
+        "src_ymf_1960_les_voyageurs_de_la_verendrye_report"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.48",
       "added_by": "ralph_loop"
     }
   ]

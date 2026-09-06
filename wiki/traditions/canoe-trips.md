@@ -1,6 +1,6 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 27*
+*Status: E1-reviewed | Sources: 28*
 *Last Updated: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *Last Updated: 2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
 *Last Updated: 2026-07-05 (named trip staff added from photo-mined canoe-trip plaques, p_191 ENRICH pass) — photo gallery added 2026-07-02*
@@ -57,6 +57,22 @@ raisins, named for the YMCA's Camp Widjiwagan and so an inter-camp borrowing sta
 One passage is worth reading against the section below on the 1975 lifejacket law: the writer
 argues life preservers "should be done away with except for non-swimmers," being bulky, heavy in
 rain and ignored by the CIP men they met on the water.^26
+
+### How the Voyageurs recruited, 1960
+
+The satellite filled its places out of the parent camp, by nomination. A publicity folder was
+produced by **Gerry Wright** of the Metropolitan YMCA's public relations office with **Jack Organ**
+of the Voyageurs; three thousand copies arrived by 15 March and went "to all previous Voyageurs,
+**all senior campers of Kamp Kanawana who the previous year were recommended by the Section
+Director and the Section Program Director**, and to all the Y.M.C.A. branches in Montreal."^28
+Kanawana's own section directors chose who was invited, which is a closer tie than "satellite"
+suggests, and it explains why the 1959 report worried so much about the two camps' separate
+identities.
+
+The same sentence contains a small dating point. Organ "was **the only leader with previous
+experience with the Voyageurs**," and the folder went to "all **previous** Voyageurs" — both
+presuppose earlier years, which supports reading the 1959 Older Boys Camp as the same programme
+under an earlier name, and tells against the 1963 report's "three year history."^28
 
 ### 1967: a director's report from Lac Landron
 
@@ -332,3 +348,4 @@ This is the only itemised cost of a 1920s Canadian canoe trip found by this proj
 25. *The Lookout* Vol. 1 No. 3 (Kanawana Alumni Committee, autumn 1993), "Summer Report" by Bruce Netherwood, Director [src_ia_the_lookout_1993]. See [f_5008].
 26. "Report of Older Boys Camp, Summer 1959", YMCA of Montreal fonds [src_ymf_1959_report_of_older_boys_camps_summer]. Cached at `sources/cache/ymca-montreal-fonds/1959-report-of-older-boys-camps-summer.txt`. See [f_5017], [f_5018] and [f_5019]. **Two documents are bound into this one scan**: the 1959 report, and an undated tripper's letter to "Dave (Boss)" which is later than it — its base camp is inside the park and Kanawana is down to a week. No year is assigned to the letter.
 27. "Les Voyageurs de la Vérendrye — Camp Director's Report 1967", signed by David Blake [src_ymf_1967_les_voyageurs_de_la_verendrye_camp_directors_report]. Cached at `sources/cache/ymca-montreal-fonds/1967-les-voyageurs-de-la-verendrye-camp-directors-report.txt`. See [f_5020] through [f_5023]. The report refers to directors' reports for **1963, 1964 and 1965**, which this project has not located.
+28. "Les Voyageurs de la Vérendrye, Report for 1960", submitted by Roger Wilson [src_ymf_1960_les_voyageurs_de_la_verendrye_report]. See [f_5025] and [f_5050]. Read for its organisation and promotion sections, its signature block and its surviving appendices; the equipment, food and rating sections are not read, and **the scan stops after Appendix 4** — two appendices listed in the table of contents are not in the digitized text.
