@@ -1,8 +1,8 @@
 {
-  "version": "8.04",
-  "kb_version": "8.04",
+  "version": "8.05",
+  "kb_version": "8.05",
   "migrated_from": "3.3",
-  "fact_count": 5091,
+  "fact_count": 5092,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91792,6 +91792,21 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.04",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5130",
+      "category": "methodology",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE YEAR-END SCANNER WAS WRONG ABOUT MOST OF WHAT IT CALLED UNREADABLE. scripts/reread/annual_report_year_ends.py first ran on 2026-09-06 reading 63 of 179 files and reporting 116 as UNREAD, and p_450 was raised to put a human eye on them. Nearly all of it was the tool. NINETEEN WERE THE FRENCH-LANGUAGE EDITIONS, which state the year-end as plainly as the English ones ('Bilan au 31 mai 1983', \"L'exercice financier termine le 31 mai 1987\") against an English-only regex. THIRTEEN WERE CAMP-LEVEL REPORTS -- Camp Perrot, Kamp Kanawana, Point Saint Charles, Les Voyageurs -- a different document class covering ONE SEASON and named for it, for which the association's year-end question does not arise; they are now excluded rather than counted as unreadable volumes. Several state their year-end only in the auditors' report, past the 20,000-character window. Several were defeated by ONE OCR CHARACTER: 'MARCH 3lst, 1946' with an ell for the one, and 'Bilan au \\n Y 31 mai 1984' with a stray glyph that is a WORD character to Python, so neither \\\\s nor \\\\W matched it -- the day is no longer matched at all, since only month and year are reported. And some volumes state no year-end phrase, only a span: 'JUNE I, 196k = MAY 31, 1965', the opening year OCR'd to nonsense and the closing one clean; THESE ARE THE 1960s VOLUMES, exactly where the association changed its year-end and where getting the season wrong matters most. 140 of 166 association volumes now state a year-end; the 26 that resist are mostly pre-1900, before Kanawana existed. ONE REAL REGRESSION WAS CAUGHT WHILE DOING THIS AND IS THE POINT: widening the window flipped the 1989 report from May 1989 to May 1988, because the function returned the first PATTERN matching anywhere rather than the match nearest the START of the document. Position carries the authority -- the title page and auditors' report state the volume's own year-end, a date deep inside is as likely to be a comparative column. Fixed, and every reading was diffed against the previous run: after the fix no volume that had a reading has a different one. AN IMPROVEMENT THAT TRADES NULLS FOR WRONG ANSWERS IS WORSE THAN THE NULLS.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.05",
       "added_by": "manual"
     }
   ]
