@@ -85,6 +85,7 @@ Free camperships that year went to "a group of **inner-city youngsters** who wou
 
 ## Related Articles
 
+- [[connections/institutional-lineage/french-language-camping-national|French-Language Camping in the National Association]] — the same question from the national association's end, 1967 to 1987
 - [[traditions/programs-activities|Programs and Activities]] — the parent article
 - [[history/coeducation-gender|Coeducation and Gender at Kanawana]] — the same seasons, the other change
 - [[site/camp-otoreke|Camp Otoreke]] — Projet Otoreke, the French-speaking family programme of 1969-1973

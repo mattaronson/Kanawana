@@ -1,8 +1,8 @@
 {
-  "version": "8.71",
-  "kb_version": "8.71",
+  "version": "8.72",
+  "kb_version": "8.72",
   "migrated_from": "3.3",
-  "fact_count": 5196,
+  "fact_count": 5197,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93688,6 +93688,26 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.71",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5235",
+      "category": "method",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Canadian Camping Association",
+        "Paul Belanger",
+        "Gérard Bachand",
+        "INCEF",
+        "Kamp Kanawana"
+      ],
+      "claim": "ELEVENTH CUT UNDER p_452, AND THE FIRST TO DRAW ON TWO SECTIONS AT ONCE. connections/institutional-lineage/french-language-camping-national.md, 'French-Language Camping in the National Association', 2,949 words, draft. FOURTEEN NON-CONTIGUOUS PARAGRAPHS, 1,735 words, taken from 'What the association did, and what it chose not to regulate' AND 'The magazine's last three years, 1985-1987'. THE THREAD RUNS 1967 TO 1987: the French section of the Quebec association still outside the national body in 1967, thirty years after the provincial association's founding; the constitutional change at Regina in 1971 that made the CCA bilingual, argued by Abbe Paul Belanger of Camp-Ecole Keno; John Latimer's judgement as a past president that the relationship between French and English camps stayed uncomfortable and that he had made enemies over it; Madelene Ferguson Allen's 1985 prize paper on running an English camp for French-speaking children; the Commission des Camps d'Expression francaise under Gerard Bachand from 1985; two editions of the Repertoire de l'Inventaire des Camps d'Expression francaise, covering French camps OUTSIDE Quebec, compiled with the Conseil de la Vie francaise en Amerique; and the language policy the association adopted in 1987, which its own committee describes as elaborated to comply with a rule rather than on the association's initiative. PARENT 21,483 -> 19,849 words, from 36,649 when p_452 began; 'Kanawana's Place in the Movement' 11,400 -> 9,804. AND A TOOLING ERROR THAT WOULD HAVE DONE REAL DAMAGE, CAUGHT BY READING THE OUTPUT. The script that counts whether a footnote label is still cited in the parent after a cut was written with an UNESCAPED CARET -- re.findall(chr(94)+label+..., text) makes '^8ac' a start-of-line anchor rather than a literal caret, so EVERY LABEL CAME BACK AS ZERO REMAINING CITATIONS. On that reading all nine entries would have been deleted from the parent as orphaned. Re-run with the caret escaped, only ONE (8ac) is actually orphaned; 8au, 8bc, 8bg, 8bh, 8bi, 8bj, 8bk and 8bm are still cited between one and four times each. The tell was free and was there to be seen: 8bj is cited by a paragraph that was explicitly being LEFT IN THE PARENT, so a zero for it was impossible. A measurement that returns all zeros deserves one impossible case checked against it before it is acted on.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.72",
       "added_by": "manual"
     }
   ]

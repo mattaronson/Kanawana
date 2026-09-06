@@ -1351,10 +1351,11 @@
         "coeducation-gender",
         "camp-otoreke",
         "modern-era",
-        "geoff-anderson"
+        "geoff-anderson",
+        "french-language-camping-national"
       ],
       "file_id": null,
-      "word_count": 2311,
+      "word_count": 2330,
       "open_questions": 5
     },
     {
@@ -2716,10 +2717,11 @@
         "hay-finlay",
         "cca-national-office",
         "cca-statistics",
-        "cca-director-certification"
+        "cca-director-certification",
+        "french-language-camping-national"
       ],
       "file_id": null,
-      "word_count": 21483,
+      "word_count": 19849,
       "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -2777,7 +2779,8 @@
         "sources-index",
         "a-ross-seaman",
         "cca-statistics",
-        "cca-director-certification"
+        "cca-director-certification",
+        "french-language-camping-national"
       ],
       "file_id": null,
       "word_count": 3642,
@@ -11555,7 +11558,8 @@
         "oldest-camp-question",
         "taylor-statten",
         "founding-1894",
-        "quebec-camping-association"
+        "quebec-camping-association",
+        "french-language-camping-national"
       ],
       "file_id": null,
       "word_count": 1873,
@@ -11593,10 +11597,11 @@
         "ymca-quebec-history",
         "cca-national-office",
         "cca-statistics",
-        "cca-director-certification"
+        "cca-director-certification",
+        "french-language-camping-national"
       ],
       "file_id": null,
-      "word_count": 9289,
+      "word_count": 9305,
       "open_questions": 8
     },
     {
@@ -11629,7 +11634,37 @@
       "file_id": null,
       "word_count": 2886,
       "open_questions": 4
+    },
+    {
+      "article_id": "french-language-camping-national",
+      "title": "French-Language Camping in the National Association",
+      "wiki_folder": "connections/institutional-lineage",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06",
+          "by": "auto",
+          "task": "WRITE",
+          "note": "Eleventh cut under p_452. Fourteen non-contiguous paragraphs, 1,735 words, drawn from two sections of the parent -- 'What the association did, and what it chose not to regulate' and 'The magazine's last three years, 1985-1987'. The thread runs 1967 to 1987: the Regina 1971 constitutional change and Abbe Paul Belanger, John Latimer's dissent, the French section of the Quebec association still outside the national body in 1967, the Commission des Camps d'Expression francaise, the two INCEF directory editions, and the 1987 language policy adopted to comply rather than on the association's own initiative."
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [],
+      "sources_cited": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "cross_links": [
+        "canadian-camping-movement",
+        "quebec-camping-association",
+        "french-language-camping",
+        "cca-national-office",
+        "association-founding-dates"
+      ],
+      "file_id": null,
+      "word_count": 2949,
+      "open_questions": 4
     }
   ],
-  "article_count": 115
+  "article_count": 116
 }

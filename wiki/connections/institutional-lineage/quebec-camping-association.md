@@ -226,6 +226,7 @@ The national association's last two issues carry the Quebec association's last r
 
 ## Related Articles
 
+- [[connections/institutional-lineage/french-language-camping-national|French-Language Camping in the National Association]] — the francophone thread inside the Canadian Camping Association
 - [[connections/institutional-lineage/cca-director-certification|Certifying the Camp Director]] — the national association's 1982 decision not to certify directors, and the literature it wrote instead
 - [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]] — the national body this association belonged to
 - [[connections/institutional-lineage/association-founding-dates|Founding Dates of the Camping Associations]] — the contested chronology, including this association's
