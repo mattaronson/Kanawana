@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 18*
+*Status: draft | Sources: 19*
 *Last Updated: 2026-09-06 (the 1916 fee and season, from a school magazine advertisement)*
 
 ## Overview
@@ -94,7 +94,7 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1959 | 526 | — | Voyageurs pilot, 30 boys |
 | **1960** | *(ran)* | — | "Kamp Kanawana for boys operated for eight weeks at near capacity"; the Zeller Family Foundation study of leadership and camper growth begins [f_4846] |
 | **1961** | *(ran)* | — | The second season run on "planned group development"; the study's first findings tested "last summer at Kanawana" [f_4846] |
-| **1962** | **590** | 12,425 *camper days* | From the statistical summary, which counts the city day camps separately [f_4846] |
+| **1962** | **590** ⚠️ *or 550* | 12,425 *camper days* | From the statistical summary, which counts the city day camps separately [f_4846]. **A news release of 22 April 1963 says 550, "the highest enrollment," with 66 staff and counsellors under Ross Seaman**^19 — see the note below |
 | 1963 | 602 | — | Includes Voyageurs; 75 leaders |
 | 1964 | 535 (+64 leaders) | — | 120 acres acquired |
 | 1965 | 420 | 1,200 or 1,182 ⚠️ | Attributed to weather, summer school, changed family holidays |
@@ -129,6 +129,8 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | **2023** | **780** | — | |
 
 **A caution on the 1998–2001 figures.** Those four-digit numbers are not comparable with the residential camper counts above them — the 1999-2000 report describes its 1,150 as ages "3–60," which means rentals and off-season use are included. The series breaks there. The 2022 and 2023 figures are residential camper counts again and *are* comparable with the twentieth-century rows.^3
+
+**Two figures for 1962, both from the association.** The statistical summary gives 590; a news release of 22 April 1963 gives 550 and calls it the highest enrolment the camp had seen.^19 They are forty apart and neither says what it is counting. The likeliest reconciliation is that they cut the population differently — the summary's own note distinguishes the city day camps — but since neither document defines its terms, both figures are shown and neither is preferred. The same release adds that **15 boys were assisted through the campership fund**, "replenished each year by contribution from interested friends of the Camp," and that Kanawana and Otoreke together took 2,097 people while the seven day camps and fun clubs took 1,928.
 
 **The one year with a returning-camper rate.** The 1967 report is the only volume in this series that says how many campers had been before: "Some 32% of those who spent their vacation at Kanawana were Y members. Almost 40% had spent one or more two-week periods there during previous summers."^18 Nearly two campers in five were returning, and barely a third came through YMCA membership. No other season in this table has either figure, so neither can be set against a trend.
 
@@ -333,6 +335,7 @@ Three things stand out and none of them is visible from any single article.
 16. YMCA of Montreal annual reports for the years ending **31 December 1955** and **31 December 1957** [src_ymf_sgw_ymca_annual_report_1955, src_ymf_sgw_ymca_annual_report_1957]. December-year volumes, so their seasons are 1955 and 1957 (see [f_5081]). Read 2026-09-06 under p_441. See [f_5086].
 17. The YMCA of Montreal annual report ordinals, which date both year-end changes and show no volume missing: the 97th (year ending 31 March 1948) through the 100th (31 December 1951), and the 109th through 113th (December 1960, 1961, 1962, then the years ended 31 May 1964 and 1965) [src_ymf_sgw_ymca_annual_report_1948, src_ymf_sgw_ymca_annual_report_1950, src_ymf_sgw_ymca_annual_report_1951, src_ymf_sgw_ymca_annual_report_1962, src_ymf_sgw_ymca_annual_report_1963]. Read 2026-09-06 under p_450. See [f_5090].
 18. YMCA of Montreal annual report for **1967** [src_cache_sgw_ymca_annual_report_1967], camping section. Read 2026-09-06 under p_441. See [f_5096].
+19. Montreal YMCA news release, **22 April 1963** [src_ymf_news_release_1963_04_22]. Cached at `sources/cache/ymca-montreal-fonds/news-release-1963-04-22.txt`; read 2026-09-06 under p_451. See [f_5105].
 
 ## Research Notes
 

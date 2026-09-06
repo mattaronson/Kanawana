@@ -158,6 +158,7 @@ This article notes above that "both countings were used contemporaneously." The 
 |---|---|---|
 | "Camping since 1894" | 1946 ("the 52nd for boys arranged by the Montreal Association"), 1948 (54th), 1949 (55th), 1966-67 (73rd), 1967 (74th), 1968 (75th), 1977-78, 2005-06 | The first Junior camp at Lac St. Joseph |
 | "Kanawana since 1910" | 1931 ("twenty-one years in its present location"), 1939 (29th season), 1984 ("its 75th year of service"), 1985 ("for the past 75 years") | The Saint-Sauveur site |
+| *(loose publicity arithmetic)* | 1963 news release: "In the **68 years** that Kamp Kanawana has been in existence" — which lands on 1895, not 1894^nr63 | Neither of the above |
 
 **So the 75th anniversary was celebrated twice — in 1968 and again in 1984.** And the camp has two centennials in the record: the 1993 report says Kanawana is "celebrating its 100th anniversary this year," while the 1994 report says "This was Kanawana's 100th year of operation." Neither is an error; they are different clocks, and the 1993 one is running on yet a third date (1893). See [[history/centennial-1994|The 1994 Centennial]].
 
@@ -233,6 +234,7 @@ The 1923 brochure and 1935 history together describe a camp that had grown into 
 - 1935 History of Kamp Kanawana (Internet Archive, djvu.txt extraction)
 - 1941 CFCF radio broadcast script (Langille)
 - **^ymcayb** — *Year Book and Official Roster of the Young Men's Christian Associations of North America*, the volumes for **1891** (the Ontario and Quebec Provincial Committee, appointed February 1891) and **1906-1908** (John W. Ross as President of the Montreal association) [src_ymca_yearbook_1891], [src_ymca_yearbook_1906], [src_ymca_yearbook_1907], [src_ymca_yearbook_1908]. None is lending-restricted; all were downloaded whole and searched, and "Kanawana" occurs in none of them. Cached at `sources/cache/ymca-yearbooks/`. See [f_4970], [f_4967].
+- **^nr63** — Montreal YMCA news release, **22 April 1963** [src_ymf_news_release_1963_04_22]. Cached at `sources/cache/ymca-montreal-fonds/news-release-1963-04-22.txt`; read 2026-09-06 under p_451. A publicity summary of the association's year, not a history — its "68 years" is recorded as a datum about how the camp described itself, not as a third considered founding date. See [f_5105].
 - Montreal Gazette, July 7, 1897: "YMCA Summer Camp Kanawana" — earliest known newspaper reference [src_gazette_1897]
 - Montreal Gazette, July 11, 1918: "At Camp Kanawana" — record 110 attendance, YMCA London filming [src_gazette_1918]
 - ^br: YMCA of Montreal 41st Annual Report (1892) and Historical Sketch of the YMCA of Montreal 1851-1901, both on Internet Archive; retrieved via operator browser research, June 2026 [src_ia_ymca_annual_1891_92, src_ia_historical_sketch_1901]

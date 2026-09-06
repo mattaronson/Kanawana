@@ -1,8 +1,8 @@
 {
-  "version": "7.84",
-  "kb_version": "7.84",
+  "version": "7.85",
+  "kb_version": "7.85",
   "migrated_from": "3.3",
-  "fact_count": 5066,
+  "fact_count": 5067,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91378,6 +91378,24 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5105",
+      "category": "attendance",
+      "date_ref": "1962-1963",
+      "entities": [
+        "Kamp Kanawana",
+        "A. Ross Seaman",
+        "Camp Otoreke"
+      ],
+      "claim": "THE 22 APRIL 1963 RELEASE: A THIRD ATTENDANCE FIGURE FOR 1962, A CAMPERSHIP FUND, AND A COUNT FROM 1895. A long release summarising the association's year, with a Kanawana paragraph. 'IN THE 68 YEARS THAT KAMP KANAWANA HAS BEEN IN EXISTENCE, IT IS ESTIMATED THAT 40,000 BOYS HAVE EARNED THE RIGHT TO CALL THEMSELVES \"KANAWANIANS\".' 1963 MINUS 67 IS 1896; minus 68 is 1895. Either way THIS IS NEITHER OF THE TWO CLOCKS history/founding-1894.md TABULATES -- not the 1894 'camping since' clock and not the 1910 Saint-Sauveur one. It is loose publicity arithmetic rather than a third considered position, but the article's table of clocks should carry it, because a reader finding '68 years' in 1963 will otherwise try to reconcile it with 1894 and fail by a year. AND THE 40,000 FIGURE IS ALREADY AT 40,000 IN 1963, where the 113th annual report gives the same round number for 1964 -- a figure that does not move between two documents a year apart is a slogan, not a count. THE 1962 SEASON: 'During the 1962 summer season, 550 BOYS REPRESENTING THE HIGHEST ENROLLMENT attended the camp. Mr. ROSS SEAMAN again directed the camp and surrounded himself with an able group of 66 STAFF PERSONS AND COUNSELLORS.' THAT IS A CONFLICT WITH THIS PROJECT'S OWN TABLE. meta/attendance-series.md gives 1962 as 590, from the association's statistical summary. THIS RELEASE SAYS 550, and calls it the highest enrolment. Both are Montreal YMCA documents from the same year; they are forty apart. The likeliest reconciliation is that they count different populations -- the table's note already says the statistical summary counts the city day camps separately, and a release may be quoting a different cut -- BUT NEITHER DOCUMENT SAYS WHAT IT IS COUNTING, so this is recorded and flagged in the table rather than resolved. AND A CAMPERSHIP FUND, WHICH THIS PROJECT HAS ONLY IN LATER CONTEXTS: '15 BOYS WERE ASSISTED FINANCIALLY IN GOING TO CAMP THROUGH THE CAMPERSHIP FUND. THIS FUND IS REPLENISHED EACH YEAR BY CONTRIBUTION FROM INTERESTED FRIENDS OF THE CAMP.' ASSOCIATION-WIDE FOR 1962: 'A total of 2,097 boys, men and women attended the two out-of-city camps, Kanawana and Otoreke. In addition 1,928 boys and girls were enrolled in the seven day camps and summer fun clubs.'",
+      "sources": [
+        "src_ymf_news_release_1963_04_22"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.85",
       "added_by": "ralph_loop"
     }
   ]
