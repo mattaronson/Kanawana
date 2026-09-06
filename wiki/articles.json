@@ -3283,7 +3283,10 @@
         "f_4903",
         "f_4908",
         "f_4909",
-        "f_4910"
+        "f_4910",
+        "f_4911",
+        "f_4912",
+        "f_4913"
       ],
       "sources_cited": [
         "src_otoreke_blog_2005",
@@ -3302,7 +3305,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 4479,
+      "word_count": 5011,
       "notes": "E1 REVIEW (2026-02-19): Removed unverifiable 'Google Maps' source and '20 km' distance claim. Expanded 'Multiple sources' citation into discrete references (Facts sheet + McMorris). Removed src_oral_aronson (no inline citation). Removed unsourced bullet. Fixed postcard inference. Fixed closure section process language. Split 1967 conference/reports sentence. Renumbered sources 1-10. Added camp-otoreke cross-link to centennial-1967. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_008 editorial-resolution narrative into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -9833,7 +9836,10 @@
         "f_4849",
         "f_4850",
         "f_4851",
-        "f_4852"
+        "f_4852",
+        "f_4911",
+        "f_4912",
+        "f_4913"
       ],
       "sources_cited": [
         "src_flickr_kanawana_plaque_album",
@@ -9877,7 +9883,7 @@
         "site/camp-otoreke"
       ],
       "file_id": null,
-      "word_count": 4236,
+      "word_count": 4343,
       "notes": "Created 2026-08-14 (p_256) from the 114-annual-report sweep. ~60 seasons of camper counts and camper-weeks, 1894-2023, with SIX internal inconsistencies carried as flags rather than resolved -- every one of them the association contradicting itself. Kept as a separate article so the contradictions travel with the numbers. No aggregate totals computed: too many missing years, the 1998-2001 rows count a different population, and the two documented lifetime totals (40,000 in 1964, 34,000 in 1984) contradict each other. Marked draft, not stub, because it is transcription of primary figures rather than synthesis; NOT yet VERIFY-passed -- figures should be spot-checked against the OCR before advancing."
     },
     {

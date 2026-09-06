@@ -1,8 +1,8 @@
 {
-  "version": "6.58",
-  "kb_version": "6.58",
+  "version": "6.59",
+  "kb_version": "6.59",
   "migrated_from": "3.3",
-  "fact_count": 4872,
+  "fact_count": 4875,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87472,6 +87472,68 @@
       "date_ref": "1899",
       "conflicts_with": [],
       "added_version": "6.58",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4911",
+      "claim": "C. B. POWTER RAN THE YMCA'S OWN CAMP AT LAKE ST. JOSEPH FOUR YEARS BEFORE HE FOUNDED HIS. The Permanent Camp Committee's report in the annual report for the year ending 30 April 1899 states of the senior camp season: \"The camp was under the charge of the following: Messrs. A. MACKELLAR, C. B. POWTER, A. R. ROSS, and W. H. BALL.\" This project holds thirteen facts about C. B. Powter and NOT ONE of them connects him to the YMCA of Montreal's camp: they are all about Powter's Camp, \"Sans Egal\", which N. B. Powter's 1962 account of his father says was founded in June 1902 when \"a group of 50 boys from the Montreal area under the leadership of the late C. B. Powter arrived on the shores of Lac St. Joseph near Ste. Agathe des Monts\" (f_2986). THE SAME LAKE. So the man who founded the neighbouring camp in 1902 was one of four in charge of the YMCA's camp on that lake in 1898, alongside W. H. Ball, the association's Physical Director. That is a direct documentary link between Kanawana's predecessor and Powter's Camp, and this wiki has treated them as parallel institutions. A. MACKELLAR and A. R. ROSS are otherwise unrecorded here in a camp role.",
+      "sources": [
+        "src_ia_ymca_montreal_annual_reports_collection"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "C. B. Powter",
+        "W. H. Ball",
+        "A. Mackellar",
+        "A. R. Ross",
+        "Camp Jubilee",
+        "Lac St. Joseph",
+        "Powter's Camp"
+      ],
+      "date_ref": "1898",
+      "conflicts_with": [],
+      "added_version": "6.59",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4912",
+      "claim": "THE 1898 SEASON IN THE COMMITTEE'S OWN DETAIL, INCLUDING A LENGTH-OF-STAY BREAKDOWN NOBODY HAS. From the same report. THE LOG CLUB HOUSE: \"the Log Club house at Lake St. Joseph was COMPLETED IN SEPTEMBER, and has been greatly admired by all who have seen it\", built on member subscriptions and \"FREE OF DEBT\", with furnishing and \"a number of needed improvements\" planned for the coming season. NOTE A POSSIBLE OFF-BY-ONE: this report covers the year ending 30 April 1899, so \"September\" is SEPTEMBER 1898, while meta/attendance-series.md carries \"Log clubhouse opened, cost $700\" against 1899. The two may be the completion and the opening, or the series may be a year late; NOT RESOLVED HERE. THE SENIOR SEASON: open \"from the 9th of July to the 4th of September\", with parties out in May and September; attendance \"first week 19, second 11, balance of summer 42, May and September 13, TOTAL 85\" -- a figure the attendance series already carries, but the weekly split is new. LENGTH OF STAY, which nothing in this project has: \"two, four weeks; one, three weeks; three, two and one half weeks; one, two weeks; twenty-eight, between one and two weeks; fifteen, one week; twenty-eight, odd days.\" That is 78 men accounted for against a stated total of 85. Finances: receipts $984.32, expenditures $939.71, balance printed as $41.62 -- THE ARITHMETIC DOES NOT WORK, the difference is $44.61, and the printed figure is either a transposition in the report or in the OCR.",
+      "sources": [
+        "src_ia_ymca_montreal_annual_reports_collection"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Camp Jubilee",
+        "Lac St. Joseph",
+        "Log Club house",
+        "Permanent Camp Committee"
+      ],
+      "date_ref": "1898",
+      "conflicts_with": [],
+      "added_version": "6.59",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4913",
+      "claim": "THE 1898 JUNIOR CAMP, WITH ITS SUPERVISORS NAMED. Same report: \"The report of the Junior Camp shows that their camp was open from the 23RD OF JUNE TO THE 7TH JULY, and that there were 20 BOYS at camp, and also a party of FIVE VISITORS spent DOMINION DAY with them. The camp was under the supervision of W. F. CHAPMAN and C. S. PATERSON, to whom much of the success of the camp is due. They were also fortunate in having with them for a short time, DRS. HARRY SHAW and CHARLES OGILVY, who are old members of the Junior Department.\" Finances: receipts $220.23, expenses $207.48, balance $12.75 (this arithmetic does work). The dates and the count of 20 are already in meta/attendance-series.md; W. F. CHAPMAN, HARRY SHAW and CHARLES OGILVY are new to this project, and C. S. Paterson is here in a camp role for the first time -- he also sat on the Permanent Camp Committee and the Junior Department committee the same year (f_4908). The visit of two doctors described as OLD MEMBERS OF THE JUNIOR DEPARTMENT is the earliest evidence in this record of camp alumni returning.",
+      "sources": [
+        "src_ia_ymca_montreal_annual_reports_collection"
+      ],
+      "confidence": "stated",
+      "category": "history",
+      "entities": [
+        "W. F. Chapman",
+        "C. S. Paterson",
+        "Harry Shaw",
+        "Charles Ogilvy",
+        "Camp Jubilee",
+        "Junior Department"
+      ],
+      "date_ref": "1898",
+      "conflicts_with": [],
+      "added_version": "6.59",
       "added_by": "ralph_loop"
     }
   ]

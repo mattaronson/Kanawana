@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 23*
+*Status: E1-reviewed | Sources: 24*
 *Last Updated: 2026-09-06*
 
 ## Overview
@@ -157,6 +157,41 @@ St-Joseph, Ste-Marie and Théodore**; the **"Dedication service of the chapel. -
 material for either site. The 1936 mixed-gender evaluation from 12C01 is treated in
 [[history/coeducation-gender|Coeducation and Gender at Kanawana]].
 
+### The 1898 season, and the man who founded the camp next door
+
+The same report's Permanent Camp Committee narrative gives the season in detail.^24
+
+**The Log Club house.** "The Log Club house at Lake St. Joseph was **completed in September**, and has
+been greatly admired by all who have seen it" — built on member subscriptions and **free of debt**, with
+furnishing and "a number of needed improvements" planned for the next season. *A caution on the date:
+this report covers the year ending 30 April 1899, so its "September" is **September 1898**, while
+[[meta/attendance-series|the attendance series]] carries "Log clubhouse opened, cost $700" against 1899.
+Those may be the completion and the opening, or the series may be a year out. Not resolved here.*
+
+**The senior season** ran "from the 9th of July to the 4th of September," with parties out in May and
+September: "first week 19, second 11, balance of summer 42, May and September 13, **total 85**." The
+committee also prints a **length-of-stay breakdown** that nothing else in this project has — "two, four
+weeks; one, three weeks; three, two and one half weeks; one, two weeks; **twenty-eight, between one and
+two weeks**; fifteen, one week; **twenty-eight, odd days**" — which accounts for 78 men against a stated
+total of 85, and shows that more than a third of the camp's use was measured in days rather than weeks.
+Receipts $984.32 against expenditures $939.71, with the balance printed as $41.62; *the difference is
+$44.61, so either the report or its OCR has transposed a figure.*
+
+**And the camp had four men in charge: "Messrs. A. Mackellar, C. B. POWTER, A. R. Ross, and W. H.
+Ball."**^24 This wiki holds thirteen facts about **C. B. Powter** and not one of them connects him to the
+YMCA's camp. They are all about **Powter's Camp**, "Sans Egal," which his son's 1962 account says began
+in June 1902 when "a group of 50 boys from the Montreal area under the leadership of the late
+C. B. Powter arrived on the shores of Lac St. Joseph." **The same lake.** The man who founded the
+neighbouring camp in 1902 was running the YMCA's camp on that water in 1898, beside the association's
+own Physical Director. See [[connections/related-camps/quebec-camp-landscape|The Quebec Camping
+Landscape]], which has treated the two as parallel institutions.
+
+**The junior camp** was open "from the 23rd of June to the 7th July," with **20 boys** and "a party of
+five visitors [who] spent **Dominion Day** with them," under **W. F. Chapman** and **C. S. Paterson** —
+Paterson also sitting on both the Permanent Camp Committee and the Junior Department that year. They had
+with them "for a short time, **Drs. Harry Shaw and Charles Ogilvy**, who are **old members of the Junior
+Department**": the earliest evidence in this record of camp alumni coming back.^24
+
 ### Who actually ran the camp in 1899
 
 The annual report for the year ending 30 April 1899 prints the committee structure in full, and it names
@@ -287,6 +322,7 @@ Camp Otoreke closed in 1982 after nearly 90 years of continuous operation.^1 The
 21. Commission de toponymie du Québec, *Toponymes officiels* and *Toponymes désofficialisés* [src_donneesquebec_bnlq_2026]. Queried 2026-09-06 for every named feature in Saint-Adolphe-d'Howard and for "Corbett" province-wide. See [f_4892].
 22. YMCA of Montreal Annual Reports for 1890-91, 1892-93 and 1893-94, and the subscriber list in the report for 1900 [src_ia_ymca_montreal_annual_reports_collection], [src_ymf_sgw_ymca_annual_report_1990_1991]. Read for Corbett 2026-09-06 (p_253). See [f_4903].
 23. YMCA of Montreal, **Annual Report for the year ending 30 April 1899** [src_ia_ymca_montreal_annual_reports_collection]. The Permanent Camp Committee, Summer Camp and Junior Department lists, and the plate captioned "The Association Summer Camp, Lake St. Joseph." Read 2026-09-06. See [f_4908], [f_4909], [f_4910].
+24. The same report's **Permanent Camp Committee** narrative (leaf 32 of the Internet Archive scan) [src_ia_ymca_montreal_annual_reports_collection]. The Log Club house, the senior and junior seasons, the length-of-stay breakdown and the men in charge. Read 2026-09-06. See [f_4911], [f_4912], [f_4913]. *This passage is in the cached OCR text and has been since the file was ingested; it had not been read.*
 
 ## Research Notes
 
