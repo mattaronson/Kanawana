@@ -2608,10 +2608,11 @@
         "cushing-family",
         "founding-1894",
         "people/tony-shorgan",
-        "sources-index"
+        "sources-index",
+        "association-founding-dates"
       ],
       "file_id": null,
-      "word_count": 36649,
+      "word_count": 35476,
       "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -6252,10 +6253,11 @@
         "directors-index",
         "stuart-mclean",
         "camp-weredale",
-        "canadian-camping-movement"
+        "canadian-camping-movement",
+        "association-founding-dates"
       ],
       "file_id": null,
-      "word_count": 1560,
+      "word_count": 1583,
       "tags": {
         "era": [
           "1850s",
@@ -11239,7 +11241,36 @@
         ],
         "is_hub": false
       }
+    },
+    {
+      "article_id": "association-founding-dates",
+      "title": "Founding Dates of the Camping Associations",
+      "wiki_folder": "connections/institutional-lineage",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06",
+          "by": "auto",
+          "task": "WRITE",
+          "note": "Spun out of canadian-camping-movement.md under p_452. Not a new research pass: the material was already E1-reviewed inside the parent, and it is entered as draft because the article's own structure, overview and open questions are new and have not been verified as a whole."
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [],
+      "sources_cited": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "cross_links": [
+        "canadian-camping-movement",
+        "oldest-camp-question",
+        "taylor-statten",
+        "founding-1894"
+      ],
+      "file_id": null,
+      "word_count": 1855,
+      "open_questions": 3
     }
   ],
-  "article_count": 108
+  "article_count": 109
 }

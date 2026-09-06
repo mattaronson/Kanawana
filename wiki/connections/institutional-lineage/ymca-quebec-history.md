@@ -64,6 +64,7 @@ The YMCA of Montreal established Camp Kanawana in 1894, making it one of the old
 - [[people/notable-alumni/stuart-mclean|Stuart McLean]]
 - [[connections/related-camps/camp-weredale|Camp Weredale]]
 - [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]
+- [[connections/institutional-lineage/association-founding-dates|Founding Dates of the Camping Associations]] — when the CCA and the Quebec association actually began, which their own officers disagreed about
 
 ## Sources
 
