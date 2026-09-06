@@ -3471,7 +3471,8 @@
         "src_ymf_sgw_ymca_annual_report_1953",
         "src_ymf_sgw_ymca_annual_report_1957",
         "src_ymf_sgw_ymca_annual_report_1958",
-        "src_ymf_sgw_ymca_annual_report_1963"
+        "src_ymf_sgw_ymca_annual_report_1963",
+        "src_ymf_sgw_ymca_annual_report_2006"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -3486,7 +3487,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 6847,
+      "word_count": 6883,
       "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral. 2026-06-20: Added Indigenous territory context (f_1315) and Mille-Isles regional history (f_1314). 2026-06-21: Added 1976 Lovell's directory listing (f_1331) and 2023 superintendent's house fire (f_1333). | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph about the Weredale lease into a new Research Notes > Revision History section (this article previously had no Research Notes section at all). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -6716,7 +6717,8 @@
         "src_ymf_sgw_ymca_annual_report_1985",
         "src_ymf_sgw_ymca_annual_report_1986",
         "src_ia_kanawana_directors_report_1976",
-        "src_ymf_sgw_ymca_annual_report_2007"
+        "src_ymf_sgw_ymca_annual_report_2007",
+        "src_ymf_sgw_ymca_annual_report_2006"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -6732,7 +6734,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 9454,
+      "word_count": 9910,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical; fixed a genuine citation-numbering bug where the Sources list had two entries each numbered '17.' and '22.' (disambiguated as 17b./22b., three inline markers corrected to point at the right one). No facts, source content, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

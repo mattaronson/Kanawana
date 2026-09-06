@@ -1,6 +1,6 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 49*
+*Status: E1-reviewed | Sources: 50*
 *Last Updated: 2026-09-06 (p_349: Mary Edgar's 1970 conservation hymn)*
 
 ## Overview
@@ -62,6 +62,40 @@ source record for each: the Wayback copy behind note 24 has no cache file, and t
 copy of the Concordia digitization sits in the cache and had been cited nowhere. Both give the $5
 million framing and the 19% assistance figure, which is what confirms them identical. The duplicate
 pair is logged for `p_442`.
+
+**The 2006 report is where the project starts, and it had never been read by any route.** Unlike
+2007, 2008 and 2009, no Wayback copy of the 2006 annual report exists in this project, so nothing in
+it had reached the wiki before 2026-09-06. It dates the idea: "In the **fall of 2005**, we began
+dreaming of developing our camp YMCA Kanawana into **Quebec's first 'green' camp** — a year-round
+centre dedicated to outdoor and environmental education." A "multi-disciplinary team of
+professionals and stakeholders" then worked through "a **non-traditional integrated design
+process**".^50
+
+**The budget was $4.4 million before it was $5 million.** The 2006 report describes a "**4-season
+eco-pavilion and 3-season installations** to welcome children, youth and families year-round" as
+"an investment of **$4.4 million**"; the 2007 report gives "close to $5 million in total". The
+figure was revised upward between the two years, and neither is wrong.^50
+
+**Construction started in December 2006, and the specification is precise.** "In **December 2006**,
+we began the construction of **2 new sanitary installations** which will include **16 toilets, sinks
+and showers each**. These **3-season buildings** will use **natural light and ventilation** and water
+will be heated by **high-efficiency wood boilers that produce only trace emissions**. Toilets will be
+composting — **a first for Quebec camps** — which will significantly reduce water and energy use."^50
+
+**And the access programme has a three-year series, not a single figure.** In summer 2006, "**12% of
+campers received financial assistance to go to camp, a threefold increase over 2004**" — which puts
+2004 at about **4%** — against the **19%** the 2007 report gives. The 2006 report also names the
+partners doing it: "our **9 YMCA Centers** and community partners such as **Toujours Ensemble**,
+**Batshaw Youth and Family Centres**, the **Centre communautaire de la Montérégie** and the
+**Municipality of Saint-Sauveur**." Its list of who came that summer is worth keeping whole: **28
+children from the Pointe-Saint-Charles YMCA Homework Club** for a week; **10 low-income families**
+referred by the **Saint-Laurent CLSC**; **refugee claimants from the YMCA Residence** on day trips;
+**a class of Japanese children** from the YMCA Language School's English immersion course; the
+**Municipality of Saint-Sauveur's day camp** for overnight trips; and **17 youth from
+Saint-Michel** involved in **C-Vert**, "a collaborative project with the **Stephen Bronfman
+Foundation** and **TOHU** (the Cité des arts du cirque)". All staff that year "were trained in human
+rights and **40 Developmental Assets** educational approaches", and the year's environmental
+programme was named "**Wildlife Gaining Ground**".^50
 
 ### Composting System
 
@@ -374,6 +408,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 47. *125 Colourful Years*, YMCA of Montreal 125th-anniversary publication, 1976 [src_ymf_annual_report_1976_125_colourful_years]. Cached at `sources/cache/ymca-montreal-fonds/annual-report-1976-125-colourful-years.txt`. See [f_5044]. Read 2026-09-06 under p_441 for its timeline and its building-fund plan; the branch reporting that makes up most of the volume is not read.
 48. YMCA of Montreal annual reports for 1977-78 through 1986, and the Kamp Kanawana directors' reports for 1976-1979 [src_cache_sgw_ymca_annual_report_1977_1978, src_cache_sgw_ymca_annual_report_1978_1979, src_ymf_sgw_ymca_annual_report_1979_1980, src_ymf_sgw_ymca_annual_report_1980_1981, src_ymf_sgw_ymca_annual_report_1981_1982, src_ymf_sgw_ymca_annual_report_1982_1983, src_ymf_sgw_ymca_annual_report_1984, src_ymf_sgw_ymca_annual_report_1985, src_ymf_sgw_ymca_annual_report_1986, src_ia_kanawana_directors_report_1976]. Searched for the 1976 campaign's promises. See [f_5046].
 49. YMCA of Montreal annual report 2007, the Concordia-digitized copy [src_ymf_sgw_ymca_annual_report_2007], pp. on the Kanawana Development Project and the grants table. THE SAME DOCUMENT AS NOTE 24, reached by a different route: note 24 is the Wayback copy (src_ymcaquebec_annualreport_2007, no cache file), this is the Internet Archive copy of the Concordia digitization, and the two carry the same $5 million framing and the same 19% assistance figure. Read 2026-09-06; the duplicate pair is logged for p_442.
+50. YMCA of Montreal annual report 2006, the Concordia-digitized copy [src_ymf_sgw_ymca_annual_report_2006], the "YMCA Kanawana Development Project" and "Community Outreach" pages. NO WAYBACK COPY OF THIS YEAR EXISTS in this project, unlike 2007-2009, so nothing in it had been read by any route before 2026-09-06.
 
 ## Research Notes
 

@@ -1,8 +1,8 @@
 {
-  "version": "8.13",
-  "kb_version": "8.13",
+  "version": "8.14",
+  "kb_version": "8.14",
   "migrated_from": "3.3",
-  "fact_count": 5104,
+  "fact_count": 5106,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -92008,6 +92008,40 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.13",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5143",
+      "category": "site",
+      "date_ref": "2005-2007",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE 2006 ANNUAL REPORT IS WHERE THE GREEN SHIFT STARTS, AND NOTHING IN IT HAD BEEN READ BY ANY ROUTE. Unlike 2007, 2008 and 2009 there is NO WAYBACK COPY of the 2006 report in this project, so it reached the wiki for the first time on 2026-09-06. IT DATES THE IDEA: 'In the FALL OF 2005, we began dreaming of developing our camp YMCA Kanawana into QUEBEC'S FIRST \"GREEN\" CAMP -- a year-round centre dedicated to outdoor and environmental education', after which 'a multi-disciplinary team of professionals and stakeholders participated in a NON-TRADITIONAL INTEGRATED DESIGN PROCESS'. THE BUDGET WAS $4.4 MILLION BEFORE IT WAS $5 MILLION: 2006 describes 'a 4-SEASON ECO-PAVILION and 3-SEASON INSTALLATIONS to welcome children, youth and families year-round... an investment of $4.4 MILLION'; 2007 gives 'close to $5 million in total'. Revised upward between the years; neither is wrong. CONSTRUCTION DATED AND SPECIFIED: 'In DECEMBER 2006, we began the construction of 2 NEW SANITARY INSTALLATIONS which will include 16 TOILETS, SINKS AND SHOWERS EACH. These 3-season buildings will use NATURAL LIGHT AND VENTILATION and water will be heated by HIGH-EFFICIENCY WOOD BOILERS that produce only trace emissions. Toilets will be composting -- A FIRST FOR QUEBEC CAMPS.' AND THE FINANCIAL-ASSISTANCE FIGURE IS A SERIES: '12% OF CAMPERS RECEIVED FINANCIAL ASSISTANCE to go to camp, A THREEFOLD INCREASE OVER 2004' -- putting 2004 at about 4% -- against 19% in 2007. THE PARTNERS ARE NAMED: the nine YMCA centres, TOUJOURS ENSEMBLE, BATSHAW YOUTH AND FAMILY CENTRES, the CENTRE COMMUNAUTAIRE DE LA MONTEREGIE and the MUNICIPALITY OF SAINT-SAUVEUR. Who came in summer 2006: 28 children from the Pointe-Saint-Charles YMCA Homework Club for a week; 10 low-income families referred by the Saint-Laurent CLSC; refugee claimants from the YMCA Residence on day trips; a class of Japanese children from the YMCA Language School's English immersion course; the Municipality of Saint-Sauveur's day camp; and 17 youth from Saint-Michel in C-VERT, 'a collaborative project with the STEPHEN BRONFMAN FOUNDATION and TOHU'. All staff were trained in human rights and 40 DEVELOPMENTAL ASSETS approaches, and the year's environmental programme was 'WILDLIFE GAINING GROUND'. The report also calls 2006 a 'record number of participants at camp YMCA Kanawana'.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2006"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.14",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5144",
+      "category": "site",
+      "date_ref": "2006",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE ASSOCIATION'S OWN 2006 ANNUAL REPORT GIVES THE SITE AS 550 ACRES: 'our exceptional 550-ACRE SITE located near Saint-Sauveur'. site/the-kanawana-site.md already carried 550 acres, but from the Canadian Summer Job Directory's 2008 edition and from YMCA Quebec's current web copy. THIS IS EARLIER AND IT IS THE ASSOCIATION'S OWN VOICE, which the table did not have for that figure. It sits inside the same run of documents that gives 600 acres in 1949-1959 and about 1,000 from 1964, and does not resolve that spread -- the table records figures from 150 to 1,200 acres and is a record of what was claimed, not a survey. It does mean the modern 550 is stated by the owner in 2006 and not only by directories afterwards.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2006"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.14",
       "added_by": "manual"
     }
   ]

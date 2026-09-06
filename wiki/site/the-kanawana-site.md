@@ -1,6 +1,6 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 54*
+*Status: E1-reviewed | Sources: 55*
 *Last Updated: 2026-09-06 (a land purchase in 1963-64, which would explain the jump from 600 acres to 1,000)*
 
 ## Overview
@@ -141,6 +141,7 @@ the Kanawana site has ever been surveyed."^35
 | 455 acres land / 537 acres total | Royal LePage report to the YMCA, 1989, quoted in the 1988 Task Force report^35 |
 | 1,000 acres "of wooded property" | *Summer Camps & Programs* (American camp guide), 1983^47 |
 | 500 acres | *Canadian Summer Job Directory*, 2006 edition^48 |
+| **550 acres** | **YMCA of Montreal annual report 2006** — "our exceptional 550-acre site located near Saint-Sauveur"^55 |
 | 550 acres | *Canadian Summer Job Directory*, 2008 edition^48 |
 
 **On the jump from 600 to 1,000 acres.** The table above steps from 600 acres, which the annual reports give from 1949 to 1959, to about 1,000, which everything from 1964 onward gives. The 112th annual report, covering 1 January 1963 to 31 May 1964, contains a line that would explain it: "**Additional property was purchased by Kamp Kanawana.**"^54 No acreage, no price, no vendor — four words in a property section otherwise concerned with building repairs. It is the first document this project holds that reports an acquisition at the right moment, and it is the explanation to test rather than the answer: four hundred acres is a great deal to infer from a sentence that gives no quantity. What would settle it is the deed, or the camp committee minutes for 1963-64.
@@ -375,6 +376,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 52. YMCA of Montreal annual report for the year ending **31 December 1953** [src_ymf_sgw_ymca_annual_report_1953]: "Kamp Kanawana... covers 60 acres of woodland and lakes on property owned by the Association near St. Sauveur in the Laurentians, about 50 miles north of the city." Read 2026-09-06 under p_441. See [f_5083].
 53. YMCA of Montreal annual reports for the years ending **31 December 1957** and **31 December 1958** [src_ymf_sgw_ymca_annual_report_1957, src_ymf_sgw_ymca_annual_report_1958]. The 1957 volume calls Kanawana "a sixty acre site"; the 1958 volume says the property "includes three lakes and a part of a fourth, covering some 600 acres." Read 2026-09-06 under p_441. See [f_5086].
 54. YMCA of Montreal, **112th Annual Report**, for the year ended **31 May 1964** [src_ymf_sgw_ymca_annual_report_1963] — property section: "Additional property was purchased by Kamp Kanawana." Read 2026-09-06 under p_441. See [f_5093].
+55. YMCA of Montreal annual report 2006 [src_ymf_sgw_ymca_annual_report_2006]: "our exceptional 550-acre site located near Saint-Sauveur". Read 2026-09-06.
 
 ## Research Notes
 
