@@ -267,6 +267,14 @@ And the same failure as 1967, admitted again and followed through to what it cos
 
 That is a camp noticing that two of its own principles — children planning their own programme, and speaking only French — were pulling against each other, and writing it down rather than choosing between them.
 
+**They solved it by hiring counsellors who could not speak English.** A submission of 25 January 1971 — three months after the October Crisis, and framed by it — traces the whole arc: thirty children in 1967, and "in the summer of 1970, the International Branch, which had initiated the program, extended the program to include **some 300 children**," on money from the federal Secretary of State's Citizenship Department. "The program of 1970 differed from the previous years in that it **emphasized exposure to the Quebec culture rather than the French language**... **The use of unilingual counsellors** was another innovation which **proved highly successful** and created a minimum of difficulties."^mew
+
+The 1971 plan was for **4,500 children** across twenty decentralised sites "from St. Lawrence Boulevard to Baie d'Urfé," in groups of twelve to fifteen under a unilingual French student counsellor, with a bilingual supervisor at each site "to intervene and assist when problems arise with communications." Budget $196,000, subsidy requested $96,000.^mew
+
+None of this is Kanawana — the word does not appear in the document. It is here because it is the trunk the camp's own 1969 section grew off, and because it shows the scale that section sat inside. Whether the 4,500 happened is not in this submission; a season report for 1971, on the Petite-Bourgogne project, survives separately.
+
+
+
 **And it had a name.** A release three weeks earlier, on 24 April 1969, gives it: "This summer, for the first time, Kanawana will also offer an **immersion style 'Living-in-French' experience for boys age 12-16**. Instead of classrooms, it will take advantage of woodlands, lakes, playing fields and hobby shops to whet the boys appetites for learning. There will also be some time reserved each day for more formal study."^nr69a So the programme was called **Living-in-French**, it ran for boys **12 to 16**, and the association was using the word *immersion* for it in 1969.
 
 The same release shows the season filling: "Kamp Kanawana still has a limited number of openings for **male counsellors over 18** years of age... **A flood of applications for the Girl's Section are still being processed. Pre-registration for the upcoming summer is to date some 15% ahead of last year.**"^nr69a The doubled co-ed capacity was meeting real demand, and the association said so in April, before the season.
@@ -494,6 +502,7 @@ environmental-education positioning without originating from it.
 - **nr72** — YMCA of Montreal annual reports for the years ended **31 May 1972** and **31 May 1973** [src_cache_sgw_ymca_annual_report_1971_1972, src_cache_sgw_ymca_annual_report_1972_1973]. Read 2026-09-06 under p_441. See [f_5111].
 - **ifl** — "Proposal for French Language Day Camp, Summer 1968," Montreal YMCA International Branch, 3 May 1968, signed R. S. Wilson, Director [src_ymf_1968_05_03_proposal_for_french_language_day_camp]. Cached at `sources/cache/ymca-montreal-fonds/1968-05-03-proposal-for-french-language-day-camp.txt`; read end to end 2026-09-06 under p_441. A day-camp document, not a Kanawana one. See [f_5113].
 - **ifl68** — "International Y.M.C.A. French Day Camp Report 1968," R. Wilson, Director [src_ymf_1968_french_day_camp_report]. Cached at `sources/cache/ymca-montreal-fonds/1968-french-day-camp-report.txt`; read end to end 2026-09-06 under p_441. The season report answering the proposal above. Its second appendix carries the French test results, not transcribed here. See [f_5114].
+- **mew** — "French Program Summer '71," 25 January 1971, Kerry W. Johnston, Director, Mile End West Project, Montreal Y.M.C.A. [src_ymf_1971_01_25_french_program_summer_71]. Cached at `sources/cache/ymca-montreal-fonds/1971-01-25-french-program-summer-71.txt`; read end to end 2026-09-06 under p_441. **"Kanawana" occurs zero times in it.** See [f_5115].
 
 ## Research Notes
 

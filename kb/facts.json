@@ -1,8 +1,8 @@
 {
-  "version": "7.93",
-  "kb_version": "7.93",
+  "version": "7.94",
+  "kb_version": "7.94",
   "migrated_from": "3.3",
-  "fact_count": 5076,
+  "fact_count": 5077,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91562,6 +91562,24 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.93",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5115",
+      "category": "programs",
+      "date_ref": "1971",
+      "entities": [
+        "Montreal YMCA International Branch",
+        "Kerry W. Johnston",
+        "Mile End West Project"
+      ],
+      "claim": "'FRENCH PROGRAM SUMMER 71': THIRTY CHILDREN IN 1967 BECOMES A PROPOSAL FOR 4,500, AND THE FRAMING IS THE OCTOBER CRISIS. Dated 25 JANUARY 1971, signed KERRY W. JOHNSTON, Director, MILE END WEST PROJECT, Montreal Y.M.C.A. 'KANAWANA' OCCURS ZERO TIMES -- a null for this wiki's subject, recorded as one, on the precedent of f_5043. It is kept because it is the trunk of the thread whose branch reached Kanawana in 1969 (f_5100, f_5103), and because it dates and sizes every earlier stage. THE PROGRAMME'S OWN HISTORY, AS THE SUBMISSION TELLS IT: 'The program was initially developed to help immigrant children overcome the resistance they developed to learning A THIRD LANGUAGE. A language to which they IN NO WAY IDENTIFIED and which was introduced to them via OUTMODED AND STAGNANT TEACHING METHODS... Basically the concept was developed FROM THE TRADITIONAL DAY CAMP OPERATION.' Then the growth: 'In the summer of 1970, THE INTERNATIONAL BRANCH, WHICH HAD INITIATED THE PROGRAM, EXTENDED THE PROGRAM TO INCLUDE SOME 300 CHILDREN. This was done with the financial assistance of the SOCIAL ACTION BRANCH, CITIZENSHIP DEPARTMENT OF THE SECRETARY OF STATE.' So: 30 children in 1967, 126 in 1968 with no funding at all (f_5114), 300 in 1970 on federal money. AND THE AIM CHANGED: 'The program of 1970 DIFFERED FROM THE PREVIOUS YEARS in that it EMPHASIZED EXPOSURE TO THE QUEBEC CULTURE RATHER THAN THE FRENCH LANGUAGE and because attempts were made to INVOLVE PARENTS... THE USE OF UNILINGUAL COUNSELLORS was another innovation which PROVED HIGHLY SUCCESSFUL and created a minimum of difficulties.' That last is the answer to the problem the 1967 and 1968 reports could not solve -- the French-only rule was unenforceable when the counsellors could speak English, so they hired counsellors who could not. THE OCTOBER CRISIS IS THE OPENING SENTENCE, three months after: 'THE RECENT QUEBEC CRISIS HAS HAD THE EFFECT OF FURTHER POLARIZING THIS SOCIETY. This polarization is not limited to the affluent and the poor, but unfortunately, includes POLARIZATION BETWEEN THE TWO LANGUAGE GROUPS... the possibilities for the anglophone minority to gain an understanding of the francophone milieu and culture become fewer and more strained. The Montreal Y.M.C.A. aware that it must define its role in Quebec has acknowledged that AS A BASICALLY ANGLOPHONE INSTITUTION IT HAS A RESPONSIBILITY to promote and encourage understanding and interaction with the Quebecois... as the \"TWO SOLITUDES\" become more and more a reality.' And: 'The widely shared view of THE STEREOTYPE QUEBECOIS, developed in the main from the exposure given to certain elements of the Quebec milieu BY THE MEDIA, makes a rational and empathetic understanding of the situation difficult... gives credibility to the claim of some that THE ANGLOPHONE POPULATION OF MONTREAL EXISTS IN A GHETTO.' THE 1971 PLAN: 'expansion of the program to involve SOME 4,500 CHILDREN... drawn from all parts of the western section of the Island of Montreal, that is FROM ST. LAWRENCE BOULEVARD TO BAIE D'URFE... DECENTRALIZED AND OPERATE FROM SOME TWENTY SITES', schools and social agency buildings, 'SMALL GROUPS OF 12 TO 15 with A UNILINGUAL FRENCH STUDENT AS COUNSELLOR. Each site will have A BILINGUAL SUPERVISOR whose task among others will be TO INTERVENE AND ASSIST WHEN PROBLEMS ARISE WITH COMMUNICATIONS.' One major experience a week -- a day playing with children from francophone communities, or visits to institutions reflecting Quebec culture -- 'the decision as to what experience the group will participate in WILL REMAIN IN THE HANDS OF THE COUNSELLOR AND THE GROUP.' THE BUDGET: $196,000 total. 150 counsellors at $600 each ($90,000), 15 group supervisors at $750, 3 area coordinators at $1,000, 2 coordinators at $3,000, a business manager at $1,750, 2 secretaries at $500, a director at $3,000 -- $116,000 of salaries -- plus travel $30,000, supplies and promotion $25,000, rentals $10,000, training $10,000, service charge $5,000. Against income of '4,000 CHILDREN @ AVG. FEE OF $25' = $100,000, leaving A SUBSIDY REQUEST OF $96,000. NOTE THE ARITHMETIC IS THE DOCUMENT'S OWN AND IT IS NOT INTERNALLY CONSISTENT: the narrative asks for 4,500 children and the income line prices 4,000. I HAVE NOT RECONCILED IT. WHETHER ANY OF THIS HAPPENED IS NOT IN THIS DOCUMENT. f_5043 has the season report for 1971 -- 'Rapport ete 71, Projet La Petite Bourgogne, Camp de langue francaise', signed Jacques Dessureault -- and the two should be read against each other by whoever next works this thread.",
+      "sources": [
+        "src_ymf_1971_01_25_french_program_summer_71"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.94",
       "added_by": "ralph_loop"
     }
   ]
