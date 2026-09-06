@@ -118,6 +118,28 @@ def main():
                         'as p_303 -- advisory until that clears, then make this blocking. '
                         'First few: %s' % (len(dup), sorted(dup)[:5]))
 
+        # every source_id a fact cites must have a record here. A fact written
+        # by hand can invent one, and forty-two of them had, silently, for
+        # months (p_220). The count in the queue drifted between the day it was
+        # taken and the day it was fixed, which is why this is a check and not
+        # a number written down somewhere.
+        if not any(b.startswith('kb/facts.json') for b in bad):
+            known = set(sids)
+            dangling = collections.Counter()
+            for f in facts['facts']:
+                for sid in f.get('sources', []):
+                    if sid not in known:
+                        dangling[sid] += 1
+            if dangling:
+                bad.append('kb/facts.json cites %d source_id(s) with no record in '
+                           'sources/sources.json: %s. Do not drop the citation. Decide for '
+                           'each whether it is a variant of an existing record (remap the '
+                           'fact) or a source never indexed (add a record saying it was '
+                           'reconstructed from the citation and not read) -- see '
+                           'project-docs/source-id-remap-2026-09-06.md for how the first '
+                           'forty-two were handled.'
+                           % (len(dangling), sorted(dangling)[:8]))
+
     # 3. generated files
     tmp = tempfile.mkdtemp(prefix='kanawana-regen-')
     try:

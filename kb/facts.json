@@ -1,6 +1,6 @@
 {
-  "version": "6.44",
-  "kb_version": "6.44",
+  "version": "6.45",
+  "kb_version": "6.45",
   "migrated_from": "3.3",
   "fact_count": 4847,
   "facts": [
@@ -9617,7 +9617,7 @@
       "fact_id": "f_0569",
       "claim": "The Quebec Loup-Garou legend is distinctive: transformation results from religious transgression (missing Mass for 7 consecutive Sundays), not from being bitten. The Quebec Gazette reported a werewolf attack on July 21, 1766, at St. Rock near Cap Mouraska.",
       "sources": [
-        "src_web_quebec_folklore"
+        "src_web_quebec_folklore_2026"
       ],
       "confidence": "stated",
       "category": "folklore",
@@ -9634,7 +9634,7 @@
       "fact_id": "f_0570",
       "claim": "La Dame Blanche (White Lady of Montmorency Falls) is a Quebec ghost story about a bride whose fiance was killed at the Battle of Beauport (1759). La Corriveau (Marie-Josephe Corriveau, 1761) is one of Quebec's most enduring ghost stories.",
       "sources": [
-        "src_web_quebec_folklore"
+        "src_web_quebec_folklore_2026"
       ],
       "confidence": "stated",
       "category": "folklore",
@@ -13128,7 +13128,7 @@
       "fact_id": "f_0754",
       "claim": "Concordia archives contain 'Camping and Outdoor Education Branch Director's Report' for 1972 (5 copies) and 1970, plus 'Report of the Staff Task Group on Outdoor Education in the Montreal YMCA' from 1974.",
       "sources": [
-        "src_concordia_12A"
+        "src_concordia_ymca_12A"
       ],
       "confidence": "stated",
       "category": "sources",
@@ -13247,7 +13247,7 @@
       "fact_id": "f_0761",
       "claim": "A 1993 documentary about Camp Kanawana was produced, describing it as the oldest camp in Quebec and second oldest in Canada. This was one year before the 1994 centennial.",
       "sources": [
-        "src_concordia_kanawana_film"
+        "src_concordia_kanawana_documentary"
       ],
       "confidence": "stated",
       "category": "sources",
@@ -13748,7 +13748,7 @@
       "fact_id": "f_0850",
       "claim": "A Montreal Gazette article from February 24, 1933 titled 'Music and Comedy in Fossils' Revue' reveals an alumni group called 'the Fossils' connected to Camp Kanawana.",
       "sources": [
-        "src_gazette_1933_fossils"
+        "src_newspapers_gazette_1933"
       ],
       "confidence": "stated",
       "category": "traditions",
@@ -14815,7 +14815,7 @@
       "fact_id": "f_0909",
       "claim": "Sean Day held the dual title of Regional Director of Camps for the Quebec YMCAs and Director of Camp YMCA Kanawana, serving from 2004 to approximately April 2023 (19 years). He grew up at Camp Kanawana and was Matt Aronson's counsellor. After departing YMCA Quebec, he became Director of Fund Development at the Rossy Foundation.",
       "sources": [
-        "src_oral_history_aronson",
+        "src_oral_aronson",
         "src_cbc_mclean_fund_2017"
       ],
       "confidence": "stated",
@@ -14835,8 +14835,8 @@
       "fact_id": "f_0910",
       "claim": "During the COVID-19 pandemic, Sean Day made the decision to close Kanawana's overnight program, citing the impossibility of offering overnight services to 250+ campers. The YMCA pivoted to 10 day camps (up from 3 the previous summer). In 2022, Kanawana had only hired 75% of counsellors by end of April (normally fully staffed by then) due to national staff shortages.",
       "sources": [
-        "src_cbc_2021_covid",
-        "src_web_2022_staffing"
+        "src_cbc_2021_kanawana",
+        "src_cbc_camp_staffing_2022"
       ],
       "confidence": "stated",
       "category": "operations",
@@ -14855,7 +14855,7 @@
       "claim": "David G. Leduc held a BA in International Development from Dalhousie University and an MBA from McGill (2006-2011). Career sequence: Oxfam-Québec Lebanon coordinator (2000-2002), YMCA Kanawana program manager (dates uncertain, managing 75 employees and 800 participants), McGill ICAN director of operations, Executive Director of Development and Peace (2015-2020), Director of Philanthropy (Quebec) at Pathways to Education.",
       "sources": [
         "src_linkedin_leduc",
-        "src_dev_peace_2015"
+        "src_devp_leduc_2015"
       ],
       "confidence": "stated",
       "category": "directors",
@@ -14874,7 +14874,7 @@
       "claim": "Mabel C. Jamieson, co-founder of Camp Ouareau (1922), was described as 'secretary general of the YMCA of Montreal' c.1915-1920 in the Camp Ouareau history page. However, this claim could not be independently verified; it may represent a conflation with the YWCA. She was also National Student Secretary of the YWCA of Canada in 1915 and a member of the Committee of the Sixteen (Montreal anti-vice committee) in 1919.",
       "sources": [
         "src_camp_ouareau_history",
-        "src_wikipedia_ouareau"
+        "src_wikipedia_camp_ouareau"
       ],
       "confidence": "disputed",
       "category": "inter-camp",
@@ -17700,7 +17700,7 @@
       "fact_id": "f_1074",
       "claim": "Dr. Marina Sharpe, refugee and displacement expert, received the Pip Award in 2018. Former camper and Kanawana staff member.",
       "sources": [
-        "src_ymca_quebec_pip_sharpe_2018"
+        "src_ymca_pip_sharpe_2018"
       ],
       "confidence": "stated",
       "category": "people",
@@ -18049,7 +18049,7 @@
       "fact_id": "f_1094",
       "claim": "An anonymous commenter on the Westmount Magazine tribute to Stuart McLean (March 2017) wrote: 'He and I worked together at Kanawana; I was the camp director and Stuart was the assistant camp director (summers of 1974 and 1975).' The same person also sublet McLean's flat on Dorchester and looked after his piano. The commenter's identity is unknown.",
       "sources": [
-        "src_westmount_mclean_2017"
+        "src_westmountmag_mclean"
       ],
       "confidence": "stated",
       "category": "directors",
@@ -19244,7 +19244,7 @@
       "fact_id": "f_1162",
       "claim": "H.B. Cushing assisted in the founding of the Children's Memorial Hospital (now Montreal Children's Hospital) in 1902-1904, alongside A.D. Blackader and with encouragement from Sir William Osler. This externally confirms that Harold Beveridge Cushing (b. 1873, M.D. McGill 1898) was the same H.B. Cushing described in the 1905 Cushing genealogy as 'Physician to Children's Hospital.' The Children's Memorial Hospital opened January 30, 1904 on Guy Street in Montreal.",
       "sources": [
-        "src_hektoen_childrens_hospital",
+        "src_mcgill_cushing",
         "src_wikipedia_childrens_hospital"
       ],
       "confidence": "stated",
@@ -20633,7 +20633,7 @@
       "fact_id": "f_1238",
       "claim": "A silent 1960s film of Camp Kanawana showing swimming and diving scenes is available on YouTube (title: 'YMCA: Kamp Kanawana (no sound)', ID: ZrUuQ1SU7q8). This is distinct from the 1993 Cathy Reeves documentary. The footage appears to be from the YMCA of Montreal archival collection.",
       "sources": [
-        "src_youtube_kanawana_silent_1960s"
+        "src_youtube_kanawana_1960s_silent_film"
       ],
       "confidence": "stated",
       "category": "media",
@@ -21900,7 +21900,7 @@
       "fact_id": "f_1309",
       "claim": "Concordia University Archives hold a document titled 'Interpretation of scores for counselors participating in a research project at Kamp Kanawana' dated 1960, held in sub-series P0145/12B. This may be connected to the Hedley Dimock character education research conducted at YMCA camps in the mid-twentieth century.",
       "sources": [
-        "src_concordia_ymca_fonds_12b"
+        "src_concordia_atom_kanawana"
       ],
       "confidence": "stated",
       "category": "sources_and_archives",
@@ -22936,7 +22936,7 @@
       "fact_id": "f_1367",
       "claim": "Camp Perrot (P0145/12G) was a boys' camp operated by Montreal YMCA. A document 'Comparison of Two Boys Camps operated by Montreal YMCA' compares Camp Perrot and Kamp Kanawana from c.1945-1946.",
       "sources": [
-        "src_concordia_12A"
+        "src_concordia_ymca_12A"
       ],
       "confidence": "stated",
       "category": "camps",
@@ -23058,7 +23058,7 @@
       "fact_id": "f_1374",
       "claim": "The 1974-1975 Camp Kanawana director (who worked alongside Stuart McLean as assistant director) is confirmed NOT to be A. Ross Seaman (left for Dawson College 1974), NOT Dave Twynam (does not appear until at least 1976), and NOT Ross Bannerman (his 1969 report suggests an earlier role). The anonymous commenter who identified himself as this director on Westmount Magazine in 2017 was young enough to sublet McLean's Dorchester flat.",
       "sources": [
-        "src_westmount_magazine_mclean_comments"
+        "src_westmountmag_mclean"
       ],
       "confidence": "inferred",
       "category": "directors",
@@ -24985,7 +24985,7 @@
       "fact_id": "f_1484",
       "claim": "R. H. Hanagan's archival title was 'Montreal YMCA camp director' (not specifically 'Kanawana director' — his portfolio covered multiple YMCA camps). His full first name is not confirmed; 'Robert' is unverified.",
       "sources": [
-        "src_concordia_ymca_fonds"
+        "src_concordia_fonds"
       ],
       "confidence": "stated",
       "category": "people",
@@ -25002,7 +25002,7 @@
       "fact_id": "f_1485",
       "claim": "R. H. Hanagan authored a report to the Camp Board of Management on the American Camping Association Conference (1946) and a Boys' Camping Committee — Survey Committee report (1950), both held in Concordia's YMCA fonds (P0145/12A).",
       "sources": [
-        "src_concordia_ymca_fonds"
+        "src_concordia_fonds"
       ],
       "confidence": "stated",
       "category": "people",
@@ -25020,7 +25020,7 @@
       "fact_id": "f_1486",
       "claim": "R. H. Hanagan authored a 'Comparison of Two Boys Camps operated by Montreal YMCA' (comparing Kanawana and Camp Perrot), c.1945-46, held in Concordia's YMCA fonds.",
       "sources": [
-        "src_concordia_ymca_fonds"
+        "src_concordia_fonds"
       ],
       "confidence": "stated",
       "category": "places",
@@ -25038,7 +25038,7 @@
       "fact_id": "f_1487",
       "claim": "A Kamp Kanawana reunion took place on April 7, 1989, contemporaneous with Ben T. Hannah's 'Kanawana Reminiscence (of 1948)' document dated 1989.",
       "sources": [
-        "src_concordia_ymca_fonds"
+        "src_concordia_fonds"
       ],
       "confidence": "inferred",
       "category": "chronology",
@@ -25435,7 +25435,7 @@
       "fact_id": "f_1510",
       "claim": "The virage vert (green shift) and three-season programming capacity allowed Kanawana to welcome 'four times more young people than before.'",
       "sources": [
-        "src_mediaterre_kanawana"
+        "src_mediaterre_kanawana_2009"
       ],
       "confidence": "stated",
       "category": "environmental",
@@ -25570,7 +25570,7 @@
       "fact_id": "f_1518",
       "claim": "A second Télesphore Pagé (b. April 1908) existed in the Saint-Sauveur Pagé family. He attended école du Grand-Ruisseau, worked in logging camps, then was hired by Auguste Dionne for his Montreal business. He married Marguerite Amyot in 1935 and returned to Saint-Sauveur to open a grocery store on rue de la Gare. This may be a son or nephew of the Télesphore who married Clarilda Dagenais in 1925. CORRECTED 2026-07-09: this appears to be a mistaken duplication -- see f_1942, which identifies this same biography as belonging to Télesphore Léonard (1908-1997), a Pagé descendant through the female line (son of Léonie Pagé), not a second Télesphore Pagé. Preserved here per the no-silent-overwrite rule; treat as superseded.",
       "sources": [
-        "src_vss_families"
+        "src_vss_familles_pionnieres"
       ],
       "confidence": "stated",
       "category": "people",
@@ -37595,7 +37595,7 @@
       "fact_id": "f_2210",
       "claim": "A THIRD ANNIVERSARY CLOCK, unexplained. YMCA Quebec's live Kanawana history page states for 2025: 'YMCA Kanawana celebrates 131 years of history and 148 years of the YMCA's commitment to residential camps'. 131 years from 2025 gives 1894, consistent with the camping-since-1894 clock. But 148 years gives 1877 -- a date this project has never encountered and which the page does not explain. It is not the 1851 founding of the Montreal YMCA, nor 1894, nor 1910.",
       "sources": [
-        "src_ymcaquebec_kanawana_history"
+        "src_ymca_kanawana_history"
       ],
       "confidence": "stated",
       "category": "meta",
@@ -37677,7 +37677,7 @@
       "claim": "SELF-ASSERTED, UNCORROBORATED: YMCA Quebec's own Kanawana page claims the camp is 'A founding member of the Association des camps du Quebec (ACQ)' and an 'ACQ- and YMCA Canada-certified camp'. The ACQ's own listing for Kanawana carries NO founding-member statement and no per-camp accreditation prose -- inclusion in the directory is itself the certification. The founding-member claim needs checking against the ACQ's own history before it is repeated as fact.",
       "sources": [
         "src_acq_kanawana_listing",
-        "src_ymcaquebec_kanawana_history"
+        "src_ymca_kanawana_history"
       ],
       "confidence": "inferred",
       "category": "connections",
@@ -39011,7 +39011,7 @@
       "fact_id": "f_2291",
       "claim": "THE FIRST MONTREAL BOYS' CAMP, 1891, AND ITS IMMEDIATE END. From the August 1919 'Brief Autobiographical Sketch of Association Career' (author unidentified, p_236), a first-hand account: \"During the vacation period of 1891 I returned to Montreal and took out to JONES' ISLAND, about 40 miles north-west of Montreal in the Ottawa River, THE FIRST MONTREAL BOYS' CAMP. A very unfortunate circumstance occurred THE FIRST DAY we were under canvas. A lad named DAVID LOUDEN while out swimming got beyond his depth and was drowned. Louden came from one of the finest homes in Montreal. On the arrival of help the next day THE CAMP WAS BROKEN UP AND THE SITE WAS NEVER AGAIN USED FOR THIS PURPOSE.\" This is three years before Camp Jubilee and at a site this wiki does not otherwise document. It also reframes the 1892 planning committee (Ross, Cushing, Wilson, Patton, Ball) as a SECOND attempt: the memoirist moves straight from Louden's death to forming the syndicate that chose Lac la Croix and then Lac St-Joseph. NOTE ON PROVENANCE: this passage sits one paragraph ABOVE the Lac la Croix passage already quoted in founding-1894.md, in a document this project had already read and extracted from -- an overlooked passage in a known source, not a new source.",
       "sources": [
-        "src_ia_1919_autobiographical_sketch"
+        "src_ia_autobiographical_sketch_1919"
       ],
       "confidence": "stated",
       "category": "founding",
@@ -39080,7 +39080,7 @@
       "fact_id": "f_2295",
       "claim": "p_236 ANSWERED: the author of the August 1919 'Brief Autobiographical Sketch of Association Career' is T. DUNCAN PATTON, one of the five men on the fall-1892 committee appointed to plan Camp Jubilee. The signature is illegible in the OCR, but the memoir identifies itself twice in the body -- 'Shortly before Christmas MRS. PATTON and I journeyed eastward' (Dec 1901) and 'During all of our residence in India MRS. PATTON suffered much' -- and records that a Lake of the Woods island was named 'Patton'. It also rules out W. H. Ball as author: the writer lists 'W. H. Ball, John W. Ross, Will Wilson, MYSELF and others', placing Ball beside him. Every p_236 constraint matches: Montreal YMCA from 1883, Assistant Secretary from 1 Sept 1888 at $40/month, graduated 1892, membership and finances at Dominion Square, third General Secretary of the Winnipeg YMCA from June 1894 succeeding Herbert Gill (first was C. M. Copeland), Area Supervisor for Military District No. 10 1916-1918. The identification was available inside a document this project had already read and extracted from.",
       "sources": [
-        "src_ia_1919_autobiographical_sketch"
+        "src_ia_autobiographical_sketch_1919"
       ],
       "confidence": "inferred",
       "category": "founding",
@@ -39097,7 +39097,7 @@
       "fact_id": "f_2296",
       "claim": "T. DUNCAN PATTON'S CAREER, from his own 1919 memoir, read in full. Montreal: walked into the YMCA on Victoria Square in 1883 'a gauky country lad... seeking for a boarding house', met by D. A. Budge; distributed Gospel-meeting invitation cards 'on the street corners and in the saloons'; helped originate the Sunday night Strangers' Tea; apprenticed to the machinist trade then worked at Drysdale & Co's Book Store; ENLISTED WITH THE MONTREAL GARRISON ARTILLERY FOR THE RIEL REBELLION IN 1885, three months' service reaching Long Lake, Sask. At Springfield in the fall of 1891 he PLAYED RIGHT GUARD ON AMOS ALONZO STAGG'S FOOTBALL TEAM AND 'CAPTAINED ONE SIDE OF THE INITIAL BASKET-BALL GAME UNDER THE DIRECTION OF DR. JAMES NAISMITH'. Winnipeg 1894-1901 (third General Secretary; brought D. L. Moody to the city in 1897; Portage Avenue building opened 1 Jan 1901 at $100,000). CAMP STEPHENS: first visited the Lake of the Woods islands July 1894, 'and from that date on camps were promoted and held annually'; five islands, ~27 acres, passed to the Winnipeg YMCA in 1907; one island named 'Patton' for him. Calcutta 1902-1905, Acting General Secretary ~18 months, toured Asian Associations at John R. Mott's request. Ottawa 1905-1910: ran THE FIRST 'WHIRLWIND' FUNDRAISING CAMPAIGN CONDUCTED IN CANADA (March 1906, $200,000 in ten days) and moved the Ottawa boys' camp to Lac d'Or beyond Renfrew. Winnipeg again from 1910; resigned September 1915 'because of the attitude of some of the Directors'; Military YMCA work from 1 October 1915; Area Supervisor for Military District No. 10 from May 1916; in the 1918 Dominion campaign raised $508,709 against a $175,000 allotment in Saskatchewan.",
       "sources": [
-        "src_ia_1919_autobiographical_sketch"
+        "src_ia_autobiographical_sketch_1919"
       ],
       "confidence": "stated",
       "category": "people",
@@ -39117,7 +39117,7 @@
       "fact_id": "f_2297",
       "claim": "CONFIRMED INDEPENDENTLY: T. Duncan Patton -- one of the five men on the fall-1892 committee appointed to plan Camp Jubilee -- was ONE OF THE TWO CAPTAINS IN THE FIRST GAME OF BASKETBALL EVER PLAYED, 21 December 1891 at the International YMCA Training School, Springfield, under James Naismith. His own 1919 memoir says 'I captained one side of the initial basket-ball game under the direction of Dr. James Naismith', and that self-report is corroborated by two sources independent of him: 'Thomas Duncan Patton' appears in the documented roster of the eighteen original players, and Library and Archives Canada describes him as 'originally from Montreal... one of the two team captains selected by Naismith for the first game', one of four Canadians in that class besides Naismith. TEXTUAL WRINKLE RECORDED, NOT SMOOTHED: the First Team account names the captains as 'T. B. Patten and C. B. Libby' against its own roster of 'Thomas Duncan Patton' and 'Eugene Samuel Libby' -- both captain names garbled the same way, with the memoir supplying the first-person tiebreaker. NOTE ALSO that a SECOND member of the 1892 committee, W. H. Ball, graduated Springfield in the class of 1891 alongside Naismith and Stagg -- two of the five camp planners were at Springfield in Naismith's orbit.",
       "sources": [
-        "src_ia_1919_autobiographical_sketch",
+        "src_ia_autobiographical_sketch_1919",
         "src_wikipedia_first_team",
         "src_lac_first_basketball_game",
         "src_omeka_first_basketball_players"
@@ -39140,7 +39140,7 @@
       "claim": "THOMAS DUNCAN PATTON: FULL NAME, DATES AND POST-1919 CAREER. Born 15 APRIL 1865 in DANVILLE, Estrie region, Quebec; died 1 APRIL 1944 in TORONTO, aged 78. The 'T.' is THOMAS. Graduated the International YMCA Training School (Springfield) in 1892. His career continued well past his 1919 memoir: National Territorial Secretary, Winnipeg 1920-22; Territorial Secretary, Toronto 1922-26; organizer for the Ontario Prohibition Union 1926-27; Executive Secretary of Dixon Hall, Toronto 1927-32; Treasurer of the Christian Social Council of Canada 1932-41. DATING CAUTION: the same source gives '1892-1894 Assistant Secretary, Montreal' and '1892-1901 General Secretary, Winnipeg', overlapping ranges that cannot both be right. Patton's own memoir is specific and internally consistent -- Assistant Secretary in Montreal from 1 September 1888, Dominion Square membership and finances after his 1892 graduation, Winnipeg from June 1894 succeeding Herbert Gill as third Secretary -- and is preferred for those dates.",
       "sources": [
         "src_omeka_first_basketball_players",
-        "src_ia_1919_autobiographical_sketch"
+        "src_ia_autobiographical_sketch_1919"
       ],
       "confidence": "stated",
       "category": "people",
@@ -39157,7 +39157,7 @@
       "claim": "PATTON AND NAISMITH LEFT MONTREAL FOR SPRINGFIELD TOGETHER -- documented contemporaneously by the YMCA of Montreal's own annual report for 1889-90, in consecutive sentences: \"We have also to announce that MR. T. DUNCAN PATTON, who has been a faithful assistant during the past two years, LEAVES IN SEPTEMBER TO ENTER FOR A YEAR'S COURSE AT SPRINGFIELD. He will carry with him the best wishes of all the members for his future success. ... MR. JAMES NAISMITH, B.A., OF McGILL, ALSO EXPECTS TO GO TO SPRINGFIELD IN SEPTEMBER.\" This is an institutional record written at the time, a year before the first basketball game, and is the strongest corroboration of Patton's 1919 memoir. The same run of reports tracks him further: the 1892-93 staff list gives 'D. A. Budge, General Secretary; T. Duncan Patton, Assistant Secretary; ... W. H. Ball, Physical Director' -- Patton and Ball on the same staff two years before the first camp season; the 1893-94 report records that 'Mr. T. Duncan Patton, FOR SIX YEARS associated in the work here, has accepted the Secretaryship of the Winnipeg Association, and will enter upon his duties July 1st' -- 'six years' counting back to 1888 and confirming the memoir against the player-exhibit's '1892-1894'; and in 1897-98 Montreal resolved to telegraph him at Winnipeg congratulating him on their Building movement. ONE SMALL UNRESOLVED DETAIL: the report says July 1st, the memoir says June.",
       "sources": [
         "src_ia_ymca_montreal_annual_reports_collection",
-        "src_ia_1919_autobiographical_sketch"
+        "src_ia_autobiographical_sketch_1919"
       ],
       "confidence": "stated",
       "category": "people",
@@ -86049,7 +86049,7 @@
       "claim": "THE FIVE ISLANDS' NAMESAKES, CORROBORATED FROM OUTSIDE THE MEMOIR. The Lake of the Woods Museum newsletter of Summer 2016 gives the 1893 search party as R. C. Richardson, C. M. Copeland, W. D. Bayly Sr. and J. Ball, rowing weekends on the Lake of the Woods for a new site, and names the five islands they found after C. M. Copeland, Mr. Fleming, MR. T. D. PATTON, Mr. James Ball and Sir George Williams. This corroborates, from a source ninety-seven years later and wholly independent of it, T. Duncan Patton's own 1919 statement that the largest island was named Copeland, another Sir George, and the smaller island to the east Patton -- and it supplies the two names his memoir does not give. The same newsletter adds that 1947 was the first year registrations exceeded the space available, and that the camp had no communication link to the mainland until a radio telephone was installed in 1962.",
       "sources": [
         "src_muse_kenora_camp_stephens_125",
-        "src_ia_1919_autobiographical_sketch"
+        "src_ia_autobiographical_sketch_1919"
       ],
       "confidence": "stated",
       "category": "camp_history",
