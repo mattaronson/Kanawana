@@ -1,8 +1,8 @@
 {
-  "version": "7.87",
-  "kb_version": "7.87",
+  "version": "7.88",
+  "kb_version": "7.88",
   "migrated_from": "3.3",
-  "fact_count": 5070,
+  "fact_count": 5072,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91457,6 +91457,42 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.87",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5109",
+      "category": "programs",
+      "date_ref": "1968",
+      "entities": [
+        "Kamp Kanawana",
+        "Les Voyageurs de la Verendrye",
+        "Geoff Anderson"
+      ],
+      "claim": "THE 1968 SEASON FROM THE ASSOCIATION'S SIDE, AND IT CORROBORATES THE PRESS RELEASE WORD FOR WORD. The report for the year ended 31 May 1969, so its season is 1968. Under the heading 'GIRLS HELP KANAWANA GAIN': 'Kamp Kanawana helped mark its 75TH ANNIVERSARY during the summer of 1968 BY GOING CO-EDUCATIONAL. PROMPTED BY ENTHUSIASTIC REQUESTS FROM PARENTS, CAPACITY OF THE GIRLS SECTION WAS DOUBLED FOR THE 1969 SEASON. With the inclusion of girls, and an increase in boy's registrations, the 1968 total of camper weeks was MORE THAN 35% HIGHER than in the preceding year. A NEWLY INTRODUCED PROGRAM OF HORSEBACK RIDING WAS AN INSTANT SUCCESS, and opportunities for sailing were substantially [expanded].' MOST OF THIS IS ALREADY HELD -- the 75th anniversary in 1968 is in founding-1894.md's clock table, and the +35% is in meta/attendance-series.md's 1968 row. WHAT IT ADDS is a SECOND, INSTITUTIONAL WITNESS to two things this project had only from a press release (f_5100): the doubling for 1969 'prompted by enthusiastic requests from parents', and horseback riding introduced in 1968. NOTE ONE WORDING DIFFERENCE AND DO NOT FLATTEN IT: the press release says the capacity of 'THE CO-ED SECTIONS' was doubled; this report says 'THE GIRLS SECTION'. Those are not the same claim -- one doubles a mixed intake, the other doubles the female half of it -- and neither document explains itself. THE VOYAGEURS IN 1968: 'The Les Voyageurs program of canoe trips through Quebec forests again attracted a number of 13-17 YEAR OLDS FROM FAR AWAY PLACES. In addition to boys from Quebec and Ontario, a number of participants came from CALIFORNIA, MASSACHUSETTS, THE BAHAMAS, FRANCE AND BELGIUM.' A wider catchment than 1967's list (f_5097), and the Bahamas, France and Belgium are all new to this project. NO NUMBER IS GIVEN FOR 1968. AND TWO STAFF MOVES, both from West Island Branch and both unnamed in this scan: 'Associate Executive, West Island Branch, TO DIRECTOR, KAMP KANAWANA' and 'Beaconsfield Youth Director, West Island Branch, TO ASSISTANT CAMP DIRECTOR, KAMP KANAWANA'. The first is Geoff Anderson, whose article already carries this transfer. THE SECOND IS AN ASSISTANT CAMP DIRECTOR POST THIS PROJECT HAS NO NAME FOR -- the names sit in a parallel column the OCR has lost.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1968"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.88",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5110",
+      "category": "programs",
+      "date_ref": "1970-1971",
+      "entities": [
+        "Kamp Kanawana",
+        "Camp Otoreke",
+        "West Island Branch"
+      ],
+      "claim": "PROJET OTOREKE: CITIZEN GROUPS FROM WORKING-CLASS MONTREAL RAN THEIR OWN FAMILY PROGRAMMES AT KANAWANA. From the report for the year ended 31 May 1971, French column: 'DES GROUPES DE CITOYENS VENANT DE QUARTIERS POPULAIRES DE LA METROPOLE ONT ORGANISE ET OPERE DES PROGRAMMES DE LOISIRS FAMILIAUX A L'EXTERIEUR DE LA VILLE, notamment AU CAMP OTOREKE de St-Adolphe d'Howard, ET AU KAMP KANAWANA DE ST-SAUVEUR; n'eut ete de leur initiative, ils n'auraient pu profiter aussi avantageusement de leur temps de loisir. IL S'AGIT DU PROJET OTOREKE.' READ THE VERBS. The citizen groups ORGANISED AND OPERATED the programmes; the association supplied the sites. That is a different relationship from the association running an outreach programme for a district, which is what the 170 people from Petite-Bourgogne at Otoreke in July 1969 look like (f_5104). 'PROJET OTOREKE' names it, and the name appears nowhere else in this project. Neither does the phrase 'quartiers populaires' as a description of who came to Kanawana. THE NUMBERS, DATES, DISTRICTS AND ORGANISERS ARE ALL ABSENT from this passage, which is a single paragraph in a bilingual highlights spread. What it establishes is that between 1969 and 1971 Kanawana's site was being used by community groups running their own family recreation, under a named project, and that the association thought this worth reporting. AND A THIRD DOCUMENT FOR THE FAMILY SKI PROGRAMME. The same report's English column: 'West Island Y SKI SCHOOL INVOLVED 2,137 DIFFERENT PERSONS... FAMILY SKI WEEKENDS AT KANAWANA AT CAPACITY.' The French says the same -- 'Les week-end de ski familial a Kanawana fonctionnent a pleine vapeur'. NOTE THE SHIFT FROM 'SATURDAYS' (f_5101, the January 1970 bulletin) TO 'WEEKENDS' by the year to May 1971, and note that the 2,137 figure is THE BRANCH'S SKI SCHOOL, not Kanawana's attendance -- the two sit in the same sentence and must not be merged. Three separate documents now put an at-capacity family ski programme at Kanawana across the winters of 1969-70 and 1970-71, before the 1971-72 ski tow that traditions/winter-programming.md long treated as the beginning.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1970_1971"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.88",
       "added_by": "ralph_loop"
     }
   ]

@@ -1,6 +1,6 @@
 # Winter and Year-Round Programming
 
-*Status: E1-reviewed | Sources: 17*
+*Status: E1-reviewed | Sources: 18*
 *Last Updated: 2026-09-06 (a family ski day at capacity in the winter of 1969-70)*
 
 ## Overview
@@ -28,6 +28,12 @@ Between the 1940s ski camp and the ski tow of 1971-72 sits a programme this arti
 > Here's the package. **A network of cross-country trails. Firmly-packed hills for downhill runs and instructions. Skiing lessons. A well-equipped nursery, supervised by experienced baby sitters. Facilities for preparing lunch. Free soup.**^16
 
 The French column of the same bulletin says the same: "Ce programme fonctionne déjà à pleine capacité."
+
+**A third document, and the programme has grown to weekends.** The annual report for the year ended 31 May 1971 says it twice, once in each language: "West Island Y **ski school involved 2,137 different persons**... **Family ski weekends at Kanawana at capacity**," and "Les week-end de ski familial à Kanawana fonctionnent à pleine vapeur."^18
+
+Two things to keep straight there. The programme has gone from **Saturdays** in the January 1970 bulletin to **weekends** by the year to May 1971. And the 2,137 is the **branch's ski school**, not Kanawana's attendance — the two sit in the same sentence and are not the same number.
+
+So three separate documents now put an at-capacity family ski programme at Kanawana across the winters of 1969-70 and 1970-71, before the ski tow of 1971-72.
 
 **And the camp opened the Long House that winter for families who could not pay.** Two months earlier, the bilingual release of 28 November 1969 announced it in its French column: "Poursuivant sa politique **d'aide aux familles désavantagées**, le Kamp Kanawana **ouvrira les portes de 'Long House' cet hiver**. Les préparatifs sont déjà complétés."^17
 
@@ -142,6 +148,7 @@ David Leduc managed Camp Kanawana's summer and winter programs, including recrui
 15. YMCA of Montreal annual reports for the years ending 31 March **1945** and **1947** [src_ymf_sgw_ymca_annual_report_1945, src_ymf_sgw_ymca_annual_report_1947]. Under the 31 March rule (f_5039) these describe the winters of 1944-45 and 1946-47. Camps sections read 2026-09-06 under p_441. See [f_5075], [f_5076].
 16. Montreal YMCA bilingual news bulletin, **29 January 1970** [src_ymf_p0145_news_release_1970_01_29], the item headed "It's mainly because of the soup." Cached at `sources/cache/ymca-montreal-fonds/p0145-news-release-1970-01-29.txt`; read 2026-09-06 under p_451. See [f_5101].
 17. Montreal YMCA bilingual news release, **28 November 1969** [src_ymf_news_release_1969_11_28], French column. Cached at `sources/cache/ymca-montreal-fonds/news-release-1969-11-28.txt`; read 2026-09-06 under p_451. See [f_5104].
+18. YMCA of Montreal annual report for the year ended **31 May 1971** [src_ymf_sgw_ymca_annual_report_1970_1971] — the bilingual highlights spread. Its season is the winter of 1970-71 and the summer of 1970. Read 2026-09-06 under p_441. See [f_5110].
 
 ## Research Notes
 

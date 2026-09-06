@@ -1,6 +1,6 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 39*
+*Status: E1-reviewed | Sources: 40*
 *Last Updated: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *Last Updated: 2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
 *Last Updated: 2026-07-05 (named trip staff added from photo-mined canoe-trip plaques, p_191 ENRICH pass) — photo gallery added 2026-07-02*
@@ -22,6 +22,12 @@ Two years later the report singles out something else entirely. "**A specific fe
 The report gives no length in days, no distance, no party size and no leader's name, and this article is not going to supply them from the map. What it does establish is that by 1947 Kanawana was running an expedition well beyond the ten-day senior Ottawa River trip that topped the 1945 tiers.
 
 The following summer added a second frontier: in 1948, "in addition to trips up and down the Ottawa River, **senior campers explored the bush country of Lake Nominingue**."^34 Nominingue sits in the upper Laurentians roughly a hundred kilometres north of Saint-Sauveur, and it appears elsewhere in this project only as somebody else's camp address. This is the first record of Kanawana campers there.
+
+### 1968: the Bahamas, France and Belgium
+
+The annual report for the year ended 31 May 1969 gives no number for that summer's Voyageurs but widens the map: "The Les Voyageurs program of canoe trips through Quebec forests again attracted a number of **13-17 year olds from far away places**. In addition to boys from Quebec and Ontario, a number of participants came from **California, Massachusetts, the Bahamas, France and Belgium**."^40
+
+The Bahamas, France and Belgium are all new here. Against 1967's list — Greater Montreal, Northern Quebec, Ontario, New Brunswick, Massachusetts, California and Czechoslovakia — the programme was drawing from further afield each year, and the report treats that as the thing worth saying about the season.
 
 ### 1970, from a recruiting release: who could go, and a date that does not fit
 
@@ -780,3 +786,4 @@ This is the only itemised cost of a 1920s Canadian canoe trip found by this proj
 37. YMCA of Montreal, **113th Annual Report**, for the year ended **31 May 1965** [src_ymf_sgw_ymca_annual_report_1964] — camping section, "Les Voyageurs de la Verendrye." Its camping season is the summer of 1964 (see [f_5090]). Read 2026-09-06 under p_441. See [f_5094].
 38. YMCA of Montreal annual reports for **1966-67** and **1967** [src_cache_sgw_ymca_annual_report_1966_67, src_cache_sgw_ymca_annual_report_1967]. Read 2026-09-06 under p_441. See [f_5097]. *(Both volumes had second source records marked "extracted" from facts citing them rather than from a read — see p_442.)*
 39. Montreal YMCA news release, undated, **1970** [src_ymf_p0145_news_release_1970_2] — the Les Voyageurs recruiting release, quoting A. Ross Seaman as "the Y's Executive Director of camping." Cached at `sources/cache/ymca-montreal-fonds/p0145-news-release-1970-2.txt`; read 2026-09-06 under p_451. See [f_5108].
+40. YMCA of Montreal annual report for the year ended **31 May 1969** [src_ymf_sgw_ymca_annual_report_1968], the Les Voyageurs item. Its season is the summer of 1968 (see [f_5090]). Read 2026-09-06 under p_441. See [f_5109].

@@ -1,7 +1,7 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 35*
-*Last Updated: 2026-09-06 (170 people from Petite-Bourgogne, July 1969)*
+*Status: E1-reviewed | Sources: 36*
+*Last Updated: 2026-09-06 (Projet Otoreke: citizen groups running their own family programmes here and at Kanawana)*
 
 ## Overview
 
@@ -143,6 +143,12 @@ decade later helped choose the ski lodge site at Christieville.^32
 **This matters beyond Otoreke.** This wiki treats coeducation as a Kanawana question of the late
 1960s and 1970s. The same association had been running a coeducational camp since 1935, on the very
 islands Kanawana came from.
+
+**And by 1971 it had a name: Projet Otoreke.** The annual report for the year ended 31 May 1971 describes it in its French column: "**Des groupes de citoyens venant de quartiers populaires de la métropole ont organisé et opéré des programmes de loisirs familiaux à l'extérieur de la ville**, notamment **au Camp Otoreke** de St-Adolphe d'Howard, **et au Kamp Kanawana** de St-Sauveur; n'eût été de leur initiative, ils n'auraient pu profiter aussi avantageusement de leur temps de loisir. **Il s'agit du Projet OTOREKE**."^36
+
+Read the verbs. The citizen groups *organised and operated* the programmes; the association supplied the sites. That is a different arrangement from an outreach fortnight run by the Y for a district, which is what the Petite-Bourgogne visit above looks like — and it put families from working-class Montreal at [[site/the-kanawana-site|Kanawana]] as well as here, under a project named after this camp.
+
+Numbers, dates, districts and organisers are all absent; the passage is one paragraph in a bilingual highlights spread. "Projet Otoreke" appears nowhere else in this project, and neither does *quartiers populaires* as a description of who came to either site.
 
 **July 1969: 170 people from Petite-Bourgogne.** The Montreal YMCA's bilingual release of 28 November 1969 records, in its French column, an outreach fortnight nothing else in this project mentions: "L'été dernier, en juillet, **170 personnes de culture française de la Petite Bourgogne** ont pu, elles aussi, jouir de l'été à la campagne grâce à **deux semaines passées au Camp Otoreke**."^35
 
@@ -610,6 +616,7 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 33. YMCA of Montreal annual report for the year ending 31 March **1948** [src_ymf_sgw_ymca_annual_report_1948], camps section — the 1947 season. Read 2026-09-06 under p_441. See [f_5079].
 34. YMCA of Montreal annual report for **1967** [src_cache_sgw_ymca_annual_report_1967], camping section. Read 2026-09-06 under p_441. See [f_5096].
 35. Montreal YMCA bilingual news release, **28 November 1969** [src_ymf_news_release_1969_11_28], French column. Cached at `sources/cache/ymca-montreal-fonds/news-release-1969-11-28.txt`; read 2026-09-06 under p_451. See [f_5104].
+36. YMCA of Montreal annual report for the year ended **31 May 1971** [src_ymf_sgw_ymca_annual_report_1970_1971], French column. Read 2026-09-06 under p_441. See [f_5110].
 
 ## Research Notes
 
