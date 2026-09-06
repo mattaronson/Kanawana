@@ -29161,7 +29161,25 @@
       "read_state": "partial",
       "read_state_basis": "NOT lending-restricted. The full djvu text (12.4 MB) was downloaded and searched 2026-09-06. 'Kanawana' occurs exactly once, at line 908066; that entry, its column alignment, and both publications' scope statements were read out and cached. The rest is unread.",
       "notes": "TWO PUBLICATIONS IN ONE ITEM, and the Internet Archive dates the whole thing 1909. The dictionary proper is compiled to 1 March 1909 and does NOT contain Kanawana; the August 1912 supplement's Part I, 'Bureaux à ajouter', does, as 'Canada, Québec'. That brackets the office's opening to between March 1909 and June 1912. Reading the catalogue date at face value would put a Kanawana post office before the YMCA arrived. See f_4944."
+    },
+    {
+      "source_id": "src_guide_officiel_postal_1917",
+      "type": "report",
+      "title": "Canada, Guide officiel du service postal Canadien, 1917",
+      "date": "1917",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/guideofficieldus00cana",
+      "cache_path": "sources/cache/postal/1917-guide-officiel-du-service-postal-canadien-kanawana.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.80",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "NOT lending-restricted. Full djvu text downloaded and searched 2026-09-06; 'Kanawana' occurs twice and both passages are cached. The rest of the volume is unread.",
+      "notes": "Carries Kanawana in the national alphabetical list and again under TERREBONNE in the provincial list arranged by federal electoral district — so the Terrebonne attribution is documented in 1917, twenty-six years before the Canadian Almanac row that first gave it here. Its neighbours in that list are all Laurentian lake and cottage places. The dagger and asterisk prefixes were not decoded. See f_4936."
     }
   ],
-  "source_count": 1620
+  "source_count": 1621
 }

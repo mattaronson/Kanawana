@@ -1,6 +1,6 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 45*
+*Status: E1-reviewed | Sources: 46*
 *Last Updated: 2026-09-06 (the post office, and its opening bracketed to 1909-1912)*
 
 ## Overview
@@ -51,8 +51,14 @@ against "Canada, Québec." An offset of one would have put Kanawyer in Canada.
 "Post Offices and Railroad Stations in Canada" in the **1917** and **1918** editions, again in **1943**,
 and again in two editions of the **1950s**. The 1943 row is the one whose columns survived the scan
 legibly, and it gives the whole entry: "**Kanawana … Terrebonne … Q | St. Sauveur 529 or Piedmont
-535**" — the office in **Terrebonne county**, with **St. Sauveur** or **Piedmont** as its railway
-station, and no population figure beside the name, which in that table marks an unincorporated place.
+535**" — with **St. Sauveur** or **Piedmont** as its railway station, and no population figure beside the
+name, which in that table marks an unincorporated place. **Terrebonne** is the federal electoral
+district, and it is documented twenty-six years earlier: the *Guide officiel du service postal Canadien*
+for **1917** lists Kanawana in its national alphabetical list and again under TERREBONNE in "Bureaux de
+poste dans la province de Québec, arrangés suivant les districts électoraux".^46 Its neighbours there
+are Entrelac, Fourteen Island Lake, Ivry Nord, Lac Charlebois, Lac Duhamel, Lac Echo, Lac Guindon, Lac
+Manitou Sud and Lac Marois — every one a Laurentian lake or cottage place, which is the company the
+"summer office" label puts it in.
 The two 1950s volumes carry no legible year of their own; one prints calendars for 1951 and 1952 and
 the other for 1954 and 1955, which dates them to the early and the middle 1950s and no closer. Later
 still, the *Atlas of Canada* (1981) indexes "Kanawana, UP (Que.)" — UP for unincorporated place.
@@ -317,6 +323,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 43. J. Harry Ebbs, M.D., F.R.C.P., "Medical Supplies for the Camp Infirmary," *Canadian Camping* Vol. 30 No. 1 (February 1978), p. 7 [src_ia_canadian_camping_collection]. A national recommendation for a camp of 50-100 campers, not a description of Kanawana's own infirmary. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 117).
 44. Canada, Post Office Department, *Annual Report 1914-1915* [src_po_dept_annual_report_1915]; *Sessional Papers of the Dominion of Canada*, 1919 [src_sessional_papers_1919]; *The Canadian Almanac and Directory*, 1917 and 1918 editions [src_canadian_almanac_1917_1918]. Found 2026-09-06 through a full-text sweep of the Internet Archive book corpus; the passages, with their table headings and what could not be read from them, are cached under `sources/cache/postal/`. See [f_4936].
 45. Union postale universelle, Bureau international, *Dictionnaire des bureaux de poste* (Lausanne, novembre 1909), with its *Supplément* of août 1912, Part I "Bureaux à ajouter" [src_upu_dictionnaire_bureaux_poste_1909_1912]. **Not lending-restricted**: the full text was downloaded and searched 2026-09-06, and "Kanawana" occurs exactly once in it. The entry, the column alignment and both publications' own scope statements are cached at `sources/cache/postal/1909-1912-upu-dictionnaire-des-bureaux-de-poste-kanawana.txt`. See [f_4944].
+46. Canada, *Guide officiel du service postal Canadien, 1917* [src_guide_officiel_postal_1917]. **Not lending-restricted**: the full text was downloaded and searched 2026-09-06, and "Kanawana" occurs twice in it. Both passages are cached at `sources/cache/postal/1917-guide-officiel-du-service-postal-canadien-kanawana.txt`, with a note that the dagger and asterisk prefixes used in those lists were not decoded. See [f_4936].
 
 ## Research Notes
 
