@@ -5948,3 +5948,45 @@ Trois-Saumons and **René Saint-Onge** — the Charter Committee under **Ernie F
 Van Wagner, and the settlement that still shapes the body: two sections operating independently
 under a joint Board. Also a **contemporary** corroboration of the 1958-founding and 1961-joining
 sequence, which this project had been holding on a single CCA announcement of 1969.
+
+## Campaign: p_438 — four Cushings inside the association, from files already on disk
+*2026-09-06*
+
+The Montreal YMCA's annual reports for 1890-91 through 1895-96 have been in this repo's cache for
+months. **No pass had ever read them for the Cushings.** Rule 21 again, and it paid the way it
+usually does.
+
+**The identification is closed.** Charles Cushing sits on the Board of Directors in all three
+reports for 1890-91, 1891-92 and 1892-93 — "Abner Kingman, Robert Henderson, John Kennedy,
+**Charles Cushing**, Wm. Tees, David Yuile" — and in 1892-93 he is the association's **Recording
+Secretary**. A Charles Cushing of Montreal on the association's board in exactly the years a
+Charles Cushing of Montreal held the province's corresponding membership is the same man by any
+reasonable reading. **William Tees** sits beside him and is Vice-President that year; Tees takes
+the corresponding membership by 1897, so the post passed between two Montreal board members.
+
+**And four Cushings were inside the association at once in 1892-93** — the year of the Lake
+Saint-Joseph trip and of the committee appointed that autumn. Charles as recording secretary.
+**Percy H. Cushing on the staff**, two years earlier than the *Year Book* had him — and, in the
+1890-91 report, the man the Boys' Department sent to argue boys' work before the Kingston
+Convention, "as a result" of which "a new interest was awakened for work among boys". **W. E.
+Cushing** chairing a committee. A **Walter Cushing** on another.
+
+The same staff list also puts **C. B. Powter** on the association's staff in 1892-93, four years
+earlier than the 1896 *Year Book* had him, alongside **W. H. Ball** as Physical Director and
+**T. Duncan Patton** as Assistant Secretary — two of the five men on that committee.
+
+**Two titles were left illegible rather than tidied.** Percy H. Cushing's is OCR'd "sp be" and
+cannot be read; he is unmistakably in the staff list, and what he was called is not supplied.
+Powter's is the single mangled word "Asset." under Ball — "Asst." is obvious and Assistant
+Physical Director is the obvious sense, but the label is quoted, not expanded.
+
+**None of the reports mentions Lake Saint-Joseph, a camp or a summer outing in the passages
+read.** This is a setting, not an event, and it is written that way. But it is a dense setting,
+and the open question has changed shape: not whether a Cushing was involved in the 1892 trip, but
+whether the association minuted it.
+
+Which is answerable from files already on disk, and is now p_440: **the Boys' Department sections
+of the 1892-93 and 1893-94 reports, read in full** rather than searched for a surname. The
+1890-91 Boys' Department section is already known to be narrative rather than a list, so these are
+worth reading properly. The Cushing hits in the 1893-94, 1894-95 and 1895-96 reports were counted
+and never opened either.

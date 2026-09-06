@@ -1,8 +1,8 @@
 {
-  "version": "7.16",
-  "kb_version": "7.16",
+  "version": "7.17",
+  "kb_version": "7.17",
   "migrated_from": "3.3",
-  "fact_count": 4953,
+  "fact_count": 4955,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -89091,6 +89091,53 @@
       "confidence": "inferred",
       "conflicts_with": [],
       "added_version": "7.16",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4992",
+      "category": "people",
+      "date_ref": "1890-1893",
+      "entities": [
+        "Charles Cushing",
+        "William Tees",
+        "YMCA of Montreal",
+        "Cushing family"
+      ],
+      "claim": "CHARLES CUSHING SAT ON THE MONTREAL YMCA'S BOARD OF DIRECTORS AND WAS ITS RECORDING SECRETARY -- WHICH CLOSES THE IDENTIFICATION IN f_4987. The association's own annual reports for 1890-91, 1891-92 and 1892-93 all list him among the Board of Directors: 'ABNER KINGMAN, ROBERT HENDERSON, JOHN KENNEDY, CHARLES CUSHING, WM. TEES, DAVID YUILE'. The 1892-93 report gives the officers as 'Vice-President, WILLIAM TEES. Treasurer, WARDEN KING. Recording Secretary, CHAS. CUSHING'. He also appears in the subscription lists at $15. SO A CHARLES CUSHING OF MONTREAL SAT ON THE ASSOCIATION'S BOARD AND SERVED AS ITS RECORDING SECRETARY IN EXACTLY THE YEARS A CHARLES CUSHING OF MONTREAL WAS THE INTERNATIONAL COMMITTEE'S CORRESPONDING MEMBER FOR QUEBEC (f_4987, 1887-1895). That is the same man by any reasonable reading, and it removes the last softness from an identification that had rested on name, city, period and calling -- though no single document still says so in one line, and it is written that way. A CORROBORATION IN PASSING: WILLIAM TEES sits beside him on the same board and is VICE-PRESIDENT in 1892-93. Tees is the man who takes over the Quebec corresponding membership by the 1897 Year Book (f_4837). The post passed from one Montreal board member to another.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1892_1893",
+        "src_cache_sgw_ymca_annual_report_1991_1992",
+        "src_ymf_sgw_ymca_annual_report_1990_1991"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.17",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4993",
+      "category": "people",
+      "date_ref": "1890-1893",
+      "entities": [
+        "Percy H. Cushing",
+        "W. E. Cushing",
+        "Walter Cushing",
+        "C. B. Powter",
+        "T. Duncan Patton",
+        "W. H. Ball, Jr.",
+        "D. A. Budge",
+        "YMCA of Montreal",
+        "Kamp Kanawana"
+      ],
+      "claim": "FOUR CUSHINGS WERE INSIDE THE MONTREAL YMCA IN THE YEAR OF THE LAKE SAINT-JOSEPH TRIP, AND THE 1892-93 STAFF LIST PUSHES TWO CAREERS BACK. The staff list in the report for the year ending 30 April 1893 reads: 'D. A. BUDGE, General Secretary. T. DUNCAN PATTON, Assistant Secretary. PERCY H. CUSHING [title illegible]. W. H. BALL, Physical Director. C. B. POWTER, [Asst.].' TWO CAUTIONS THE OCR FORCES. PERCY H. CUSHING'S TITLE IS OCR'd 'sp be' AND CANNOT BE READ -- he is unambiguously in the staff list, between the Assistant Secretary and the Physical Director, so he is on the association's staff, but what he was called is not recoverable and is not supplied. C. B. POWTER'S title is the single mangled word 'Asset.' directly under Ball; 'Asst.' is the obvious reading and Assistant Physical Director the obvious sense, the 1896 Year Book giving him exactly that under exactly Ball, but the label is quoted rather than expanded. WHAT THIS MOVES: PERCY H. CUSHING is on the staff in 1892-93, TWO YEARS BEFORE the 1894 Year Book that was all this project had of him, and earlier still, the 1890-91 report's Boys' Department records that 'a recommendation was sent to the Provincial Committee, to have \"boys' work\" brought prominently before the Kingston Convention. This was agreed, and A PAPER WAS PRESENTED BY MR. PERCY H. CUSHING. As a result, a new interest was awakened for work among boys, which led to the revival of old meetings and the formation of new.' C. B. POWTER is on the staff in 1892-93, FOUR YEARS BEFORE the 1896 Year Book had him. THE OTHER TWO CUSHINGS: W. E. CUSHING is CHAIRMAN of a committee supervising work at the Methodist Institute in 1890-91 and in the committee lists of 1891-92 and 1892-93 -- he is the 'W. E. Cushing' the 1951 camp history names on the committee appointed in the autumn of 1892 beside J. W. Ross, W. W. Wilson, T. Duncan Patton and W. H. Ball. And a WALTER CUSHING sits on a committee in 1891-92; whether he is Walter Edgar Cushing, or the same man as W. E., is NOT settled by these lists. HOW FAR THIS GOES ON THE 1892 TRIP, AND NO FURTHER: none of these reports mentions Lake Saint-Joseph, a camp, or a summer outing in the passages read. They establish a setting, not an event. But in the year the trip happened and the founding committee was appointed, the association's recording secretary was a Cushing, a Cushing was on its staff, a Cushing chaired one of its committees and a fourth sat on another, while its Physical Director and its Assistant Secretary were two of the five men that committee comprised. 'A private initiative the association later absorbed' now has to explain that. The open question is no longer whether a Cushing was involved but whether the association minuted it. NOT YET DONE, on files already on disk: the Boys' Department sections of the 1892-93 and 1893-94 reports read IN FULL rather than searched for a surname.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1892_1893",
+        "src_cache_sgw_ymca_annual_report_1991_1992",
+        "src_ymf_sgw_ymca_annual_report_1990_1991"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.17",
       "added_by": "ralph_loop"
     }
   ]
