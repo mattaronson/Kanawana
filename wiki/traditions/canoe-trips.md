@@ -1,7 +1,7 @@
 # Canoe Trips at Kanawana
 
 *Status: E1-reviewed | Sources: 40*
-*Last Updated: 2026-09-06 (the 1926 outfitting list moved out from behind Related Articles, where it had been stranded)*
+*Last Updated: 2026-09-06 (the article reordered into dated sections; the 1969 report narrows conflict c_066)*
 
 *Earlier revisions: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
@@ -129,11 +129,30 @@ That is two documented institutional sources disagreeing. A lease signed between
 
 Nothing above has been rewritten to prefer the annual report. The camp's own report is the closer witness, and both accounts stand here side by side until something dates the lease.
 
+**The 1969 report narrows it, and does not settle it.** David Blake's report of that year is the
+plainest thing either side has: "construction of a cabin has begun on one of the islands down the
+lake and **mining claims were restaked in the base camp area**. A good look should be taken at steps
+necessary to **lease the property before we lose it by default**."^33 You cannot lose by default land
+you hold under a signed lease, and that is the language of obtaining a first lease rather than
+renewing a lapsed one. So the reading that a short lease was signed and had expired by 1966 is now
+strained, and the reading that the annual report overstates something informal or in progress gains.
+**The reading that best saves both texts is that the 25 acres were a different parcel**: the annual
+report names no lake at all, placing the Voyageurs only "in and around Park de la Verendrye".
+
+**Two things that look like more years of asking are not.** The 1967 director's report recommends
+"that Voyageurs **lease its sites** and post the land" — that is the tripping campsites along the
+routes, prompted by fishermen camping on them, and it is a different lease question from the base
+parcel. And the 1959 report is asking something else again: "check lease rights; not only on what we
+might be able to get on Landron, but also on what we can do on **the leases of others**. Can we, for
+example, be legally kicked off a campsite…?" Which says both that other parties held leases in the
+park in 1959, and that the camp did not know where it stood.
+
 The same passage adds what the base was for beyond paddling: "Besides canoe tripping, variety is introduced by **trips to fire towers and lumber camps**. One group during a five-day confinement to base camp because of **fire hazard**, constructed a **birch bark teepee 20 feet in height and 32 foot diameter**, which provided ideal living accommodation."^36 And the programme had settled: "The past year has now **confirmed Les Voyageurs as a highly accepted camp program for boys, ages 14-16**."^36
 
 So the sequence is four steps, not one: trips into the park from a base at Kanawana in 1959; a base
 inside the park at **Lac Nanouaton** by about 1960; the move to **Lac Landron** in **1963**; and a
-lease still unobtained in 1963 and unresolved in 1966.
+lease still unobtained in 1963, unresolved in 1966, and being urged again in 1969 in the language of
+land the camp did not hold.
 
 Landron had a cost the report is blunt about — "it is quite a distance from the main highway" — so
 campers were trucked in from the **Barrière Gate** in the camp's own vehicle, "extremely hard on the

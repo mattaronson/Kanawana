@@ -1,8 +1,8 @@
 {
-  "version": "8.07",
-  "kb_version": "8.07",
+  "version": "8.08",
+  "kb_version": "8.08",
   "migrated_from": "3.3",
-  "fact_count": 5094,
+  "fact_count": 5095,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91839,6 +91839,30 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.07",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5133",
+      "category": "site",
+      "date_ref": "1959-1969",
+      "entities": [
+        "Les Voyageurs de la Vérendrye",
+        "Lac Landron",
+        "Kamp Kanawana",
+        "YMCA of Montreal",
+        "Parc de la Vérendrye"
+      ],
+      "claim": "'BEFORE WE LOSE IT BY DEFAULT': THE 1969 VOYAGEURS REPORT IS THE STRONGEST EVIDENCE YET THAT NO LEASE OVER THE LAC LANDRON BASE CAMP WAS EVER SIGNED, AND IT NARROWS c_066. David Blake's 1969 report: 'It should be noted that construction of a cabin has begun on one of the islands down the lake and MINING CLAIMS WERE RESTAKED IN THE BASE CAMP AREA. A good look should be taken at steps necessary to LEASE THE PROPERTY BEFORE WE LOSE IT BY DEFAULT.' YOU CANNOT LOSE BY DEFAULT LAND YOU HOLD UNDER A SIGNED LEASE, and the sentence is about obtaining a first lease rather than renewing a lapsed one. Set against the 112th annual report's flat statement that 'a permanent base camp was established by virtue of a 25 acre lease obtained through the co-operation of the Quebec government' (f_5091), covering the summer of 1963, the documented chain of the camp's own reports now runs 1959, 1963, 1966 and 1969 with no lease in hand. THIS NARROWS BUT DOES NOT RESOLVE c_066. Reading (b), that a short lease was signed and had expired by 1966, becomes strained: the 1969 language is that of unheld land. Reading (d), that the annual report overstated an arrangement that was informal or in progress, gains. READING (a) REMAINS FULLY LIVE and is now the most economical one that saves both texts: the annual report NAMES NO LAKE, placing the Voyageurs only 'in and around Park de la Verendrye', so its 25 acres may be a different parcel from the Lac Landron base the camp reports keep asking about. ONE DISTINCTION THE CONFLICT RECORD DID NOT HAVE: the 1967 director's report's recommendation 'that Voyageurs lease its sites and post the land' is about the TRIPPING CAMPSITES along the canoe routes, prompted by fishermen camping on them, NOT about the base camp parcel. It is a separate lease question and should not be counted as another year of asking for the base lease. The 1959 report is a fourth kind again: it asks what the camp's rights are at all -- 'check lease rights; not only on what we might be able to get on Landron, but also on what we can do on the leases of others. Can we, for example, be legally kicked off a campsite' -- which establishes that OTHER PARTIES HELD LEASES IN THE PARK in 1959 and that the camp did not know its own position.",
+      "sources": [
+        "src_ymf_1969_les_voyageurs_de_la_verendrye_report",
+        "src_ymf_1966_les_voyageurs_de_la_verendrye_report",
+        "src_ymf_1967_les_voyageurs_de_la_verendrye_camp_directors_report"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [
+        "f_5091"
+      ],
+      "added_version": "8.08",
       "added_by": "manual"
     }
   ]
