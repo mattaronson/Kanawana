@@ -1,0 +1,51 @@
+SOURCE: The High School Magazine (Montreal, 1916), the centenary number of the Royal Grammar
+        School / High School of Montreal. Internet Archive item highschoolmagazi00high.
+        NOT lending-restricted; full djvu text downloaded and searched 2026-09-06.
+        "Kanawana" occurs exactly once, at line 7034, in the advertisement pages.
+
+=== THE ADVERTISEMENT (djvu text lines 7028-7052) ===
+CONDCCTED  BY 
+K  A  M  P 
+Kanawana 
+for  BOYS 
+Open  June  24th  to 
+August  12th 
+The  Cost, 
+S5.00  per  week 
+^Efje  iHontreal  goung  iilen's  Christian 
+Association 
+For  further  information,  apply  to  any  Branch 
+of  the  Y.  M.  C.  A. 
+
+READ AS SET: an advertisement occupying part of the first advertising page (the Contents
+  gives 'Advertisements ... 52'), reading:
+
+      AN IDEAL PLACE for YOUR BOY
+      CONDUCTED BY
+      KAMP Kanawana  for BOYS
+      Open June 24th to August 12th
+      The Cost, $5.00 per week
+      The Montreal Young Men's Christian Association
+      For further information, apply to any Branch of the Y.M.C.A.
+
+  (The OCR gives 'CONDCCTED', 'S5.00' for $5.00, and renders the Association's name in the
+   blackletter-derived garble "^Efje iHontreal goung iilen's Christian Association", which is
+   the standard OCR failure on Old English type and is read here as 'The Montreal Young Men's
+   Christian Association'.)
+
+WHAT IT ESTABLISHES: the 1916 season ran 24 JUNE to 12 AUGUST -- seven weeks -- at $5.00 A
+  WEEK, advertised to the boys of the High School of Montreal and their parents, with
+  enquiries taken at any YMCA branch rather than at the camp.
+
+================================================================================
+A CAUTION ABOUT THE PAGE BEFORE IT.
+
+  The article immediately preceding the advertisements is "A Week in the Woods" (Contents,
+  pp. 47-51), an unsigned canoe-trip narrative. It is tempting, and it is NOT attributed to
+  Kanawana here. It never names a camp, never names the Y.M.C.A., and names its route only by
+  lakes: Lac Diable, Lac Cypres, Lac Daby, Lac Clef, Lac Caribou, Lac Boisfranc, Lac Bois,
+  Lac Batiment and Lake McLaren. It does mention a "dining pavilion" and an "Old Guard", and
+  the Kanawana advertisement is the next thing on the page -- but an advertisement's position
+  is bought, not editorial, and adjacency is not attribution. If the route can be placed
+  against Kanawana's known trip country the question reopens; until then it is a High School
+  of Montreal canoe trip and nothing more.

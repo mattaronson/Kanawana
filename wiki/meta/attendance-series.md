@@ -1,7 +1,7 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 10*
-*Last Updated: 2026-09-05*
+*Status: draft | Sources: 11*
+*Last Updated: 2026-09-06 (the 1916 fee and season, from a school magazine advertisement)*
 
 ## Overview
 
@@ -42,7 +42,7 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1912 | 187 | — | |
 | 1913 | 162 | — | |
 | 1915 | 167 | — | 26 June – 25 Aug |
-| 1916 | 175 | — | |
+| 1916 | 175 | — | Season 24 June – 12 August; $5.00 a week^11 |
 | 1917 | 168 | — | The report calls this "a splendid increase over last year." **It was a decrease** — 175 the year before ⚠️ |
 | 1918 | 223 | avg daily 66 | |
 | **1919** | **289** ⚠️ | peak 165 in camp | Badly overcrowded; capacity was 80–90 |
@@ -233,7 +233,7 @@ Three things stand out and none of them is visible from any single article.
    question about three specific books, not about a scattered forty years.
 3. [Nice-to-have] Reconcile the 40,000 (1964) and 34,000 (1984) lifetime totals, or establish that both are institutional round numbers rather than counts.
 4. [Nice-to-have] The balance-sheet property valuations run in every annual report from 1925 ($17,876.39) through at least 1951 ($70,567.80). A book-value series across eighty years is extractable but the columnar OCR is badly damaged and each figure needs checking against the page image — queued as `p_259`.
-5. [Nice-to-have] Fee data is sparse but now spans seven years: **$8.50/week is documented for 1923** (the *Gas Bag* Extra: "The cost is $8.50 per week. This includes one return trip from Montreal to Camp") **and again for 1927, 1928 and 1929** — unchanged across at least that span, each time with the note that it was deliberately below every other permanent camp "to keep the cost within reach of the average home."
+5. [Nice-to-have, extended 2026-09-06] Fee data is sparse but now spans nine years and shows one sharp move. **$5.00 a week in 1916**, advertised in *The High School Magazine* of Montreal with the season given as **24 June to 12 August** — seven weeks — and enquiries taken "at any Branch of the Y.M.C.A."^11 **$8.00 in 1918**, **$8.50 for 1923** (the *Gas Bag* Extra: "The cost is $8.50 per week. This includes one return trip from Montreal to Camp") **and again for 1927, 1928 and 1929** — unchanged across at least that span, each time with the note that it was deliberately below every other permanent camp "to keep the cost within reach of the average home." So the fee rose **sixty per cent across the war**, 1916 to 1918, and then barely moved for eleven years. Later figures: **$210 a fortnight in 1976**, **$370 residential and $385 wilderness in 1983**.
 
 ## Related Articles
 
@@ -257,6 +257,7 @@ Three things stand out and none of them is visible from any single article.
 8. Report of the Junior Camp Committee, 1900, dated 30 November 1900 [src_ymf_1900_11_30_report_of_the_junior_camp_committee]. The 45 boys, the six tents, the eleven wet days and the $5.05. See [f_4848].
 9. Kanawana plaque corpus and the person index built from it (p_291) [src_flickr_kanawana_plaque_album]; the Kanawana Annual Trophy for Lumbermen Voyageur Games, winners shields 1947–2025 [src_photo_lv_annual_trophy]. Read as season evidence on 2026-09-05. See [f_4850], [f_4851].
 10. YMCA of Montreal annual report for the year ending 30 April 1907, for the 1906 season [src_ymf_sgw_ymca_annual_report_1907]. See [f_4852].
+11. *The High School Magazine* (Montreal, 1916), the Kamp Kanawana advertisement on the first advertising page [src_high_school_magazine_montreal_1916]. **Not lending-restricted**: the full text was downloaded and searched 2026-09-06, and "Kanawana" occurs exactly once in it. Cached, with a caution about the unsigned canoe-trip narrative printed immediately before the advertisements and NOT attributed to Kanawana, at `sources/cache/periodicals/1916-high-school-magazine-montreal-kanawana-advertisement.txt`. See [f_4948].
 
 ## Research Notes
 

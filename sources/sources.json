@@ -29251,7 +29251,25 @@
       "read_state": "partial",
       "read_state_basis": "NOT lending-restricted. Full djvu text downloaded and searched 2026-09-06; 'Kanawana' occurs exactly once and that entry, its neighbours and the guide's legend were read out and cached. The rest is unread.",
       "notes": "\"Kanawana, Terrebonne, (Summer P. O.)\" — the earliest sighting of the post office this project holds, one year after the YMCA bought the Saint-Sauveur site, and the earliest use of 'summer' for it by eight years. The entry carries no grid reference, railway number, population or reference marks, where its neighbours do. See f_4936 and f_4944."
+    },
+    {
+      "source_id": "src_high_school_magazine_montreal_1916",
+      "type": "periodical",
+      "title": "The High School Magazine (Montreal, 1916) — the Kamp Kanawana advertisement",
+      "date": "1916",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/highschoolmagazi00high",
+      "cache_path": "sources/cache/periodicals/1916-high-school-magazine-montreal-kanawana-advertisement.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.86",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "NOT lending-restricted. Full djvu text downloaded and searched 2026-09-06; 'Kanawana' occurs exactly once and that advertisement, with the contents page and the article preceding it, was read out and cached. The rest of the magazine is unread.",
+      "notes": "The centenary number of the Royal Grammar School / High School of Montreal. Gives the 1916 season as 24 June to 12 August and the fee as $5.00 a week, extending this project's fee series back two years from the $8.00 of 1918. Also carries an unsigned canoe-trip narrative, 'A Week in the Woods', immediately before the advertising pages, which names no camp and is NOT attributed to Kanawana. See f_4948."
     }
   ],
-  "source_count": 1625
+  "source_count": 1626
 }
