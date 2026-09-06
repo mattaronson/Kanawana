@@ -1,8 +1,8 @@
 {
-  "version": "6.36",
-  "kb_version": "6.36",
+  "version": "6.37",
+  "kb_version": "6.37",
   "migrated_from": "3.3",
-  "fact_count": 4821,
+  "fact_count": 4824,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -86440,6 +86440,66 @@
       "date_ref": "1961",
       "conflicts_with": [],
       "added_version": "6.35",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4860",
+      "claim": "THE MAN WHO FOUND CAMP STEPHENS'S ISLANDS WAS THE YMCA'S OWN PROVINCIAL CHAIRMAN, AND HIS INITIAL IS D. The Year Book of the YMCAs of North America lists \"CANADIAN NORTHWEST. Headquarters, Winnipeg, Man. R. D. Richardson, Win'p'g, Man., Chairman\" in 1893 and \"CANADIAN WEST. Headquarters, Winnipeg, Man. R. D. Richardson, Win'p'g, Man., Chairman. John Norris, Treasurer. George Fleming, Brandon, Man.\" in 1895, and he signs the province's narrative report in both volumes -- \"ROBERT D. RICHARDSON, Cor. Mem.\" (1893) and \"ROBT. D. RICHARDSON, Cor. Mem.\" (1895). So the man in the rowboats searching the Lake of the Woods for a camp site in 1893 was the chairman of the YMCA's own provincial committee for the Canadian Northwest, and his name was Robert D. Richardson. This settles a small disagreement in the two accounts of the search party: Camp Stephens's own page gives R.D. Richardson, the Lake of the Woods Museum's 2016 newsletter gives R.C. -- the contemporaneous printed record gives D, twice.",
+      "sources": [
+        "src_ymca_yearbook_1893",
+        "src_ymca_yearbook_1895"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Robert D. Richardson",
+        "Camp Stephens",
+        "Winnipeg YMCA",
+        "Lake of the Woods"
+      ],
+      "date_ref": "1893-1895",
+      "conflicts_with": [],
+      "added_version": "6.37",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4861",
+      "claim": "A LEAD, NOT A FINDING, ON THE FLEMING ISLAND. One of Camp Stephens's five islands is named for a \"Mr. Fleming\" whom neither the camp nor the Lake of the Woods Museum identifies further. The 1895 Year Book lists the Canadian West provincial committee at Winnipeg as R. D. Richardson (chairman), John Norris (treasurer) and GEORGE FLEMING of BRANDON, MANITOBA -- a Fleming on the same three-man committee as the man who found the islands, in the years the naming happened. That is a coincidence worth writing down and nothing more: Fleming is a common name, no source connects this one to the island, and the camp's own account says only that the islands were named after influential YMCA members. Recorded so that whoever reaches the Winnipeg association's own records knows which Fleming to check first.",
+      "sources": [
+        "src_ymca_yearbook_1895"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "George Fleming",
+        "Camp Stephens",
+        "Winnipeg YMCA"
+      ],
+      "date_ref": "1895",
+      "conflicts_with": [],
+      "added_version": "6.37",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4862",
+      "claim": "THE YEAR BOOKS CANNOT ADJUDICATE C_063 EITHER. The Manitoba and Canadian West narrative reports in the Year Books of 1893, 1895 and 1897 describe conventions, provincial secretaries, buildings, college associations and corresponding members, and NOT ONE MENTIONS A CAMP -- not the Lake of the Woods Institute, not the islands, not a boys' camp. Neither does any volume mention Lake of the Woods at all (zero occurrences across all five). So the same volumes that fail to record Kanawana's 1894 season and the Ottawa camp of 1893 also fail to record whatever was happening on the Lake of the Woods, and they cannot be used to prefer the 1891 dating over the chapel service's 1911 first boys' camp or the reverse. THE ROUTE TO C_063 REMAINS THE WINNIPEG ASSOCIATION'S OWN ANNUAL REPORTS, which are not in the digitized run searched here.",
+      "sources": [
+        "src_ymca_yearbook_1893",
+        "src_ymca_yearbook_1894",
+        "src_ymca_yearbook_1895",
+        "src_ymca_yearbook_1896",
+        "src_ymca_yearbook_1897"
+      ],
+      "confidence": "stated",
+      "category": "camp_history",
+      "entities": [
+        "Camp Stephens",
+        "Winnipeg YMCA",
+        "Lake of the Woods"
+      ],
+      "date_ref": "1893-1897",
+      "conflicts_with": [],
+      "added_version": "6.37",
       "added_by": "ralph_loop"
     }
   ]

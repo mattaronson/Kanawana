@@ -9832,6 +9832,12 @@
           "at": "2026-09-05T00:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 1,
@@ -9844,7 +9850,9 @@
         "f_2299",
         "f_2300",
         "f_4839",
-        "f_4840"
+        "f_4840",
+        "f_4860",
+        "f_4861"
       ],
       "sources_cited": [
         "src_camp_stephens_alumni_blog",
@@ -9857,7 +9865,9 @@
         "src_muse_kenora_camp_stephens_125",
         "src_omeka_first_basketball_players",
         "src_qahn_howard",
-        "src_wikipedia_first_team"
+        "src_wikipedia_first_team",
+        "src_ymca_yearbook_1893",
+        "src_ymca_yearbook_1895"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -9868,7 +9878,7 @@
         "camp-otoreke"
       ],
       "file_id": null,
-      "word_count": 3128
+      "word_count": 3365
     },
     {
       "article_id": "multi-year-index",
@@ -10374,7 +10384,8 @@
         "f_4846",
         "f_4848",
         "f_4850",
-        "f_4851"
+        "f_4851",
+        "f_4862"
       ],
       "sources_cited": [
         "src_cache_sgw_ymca_annual_report_1894_1895",
@@ -10411,7 +10422,7 @@
         "connections/related-camps/quebec-camp-landscape"
       ],
       "file_id": null,
-      "word_count": 6624
+      "word_count": 6703
     },
     {
       "article_id": "points-of-contact",

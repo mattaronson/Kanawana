@@ -307,7 +307,11 @@ being written up as a finding. The script is a commemorative performance, it con
 the Bible Institute founded in 1898, which its own 125-year occasion denies), and the reading happens to
 favour this project's own camp — which is a reason to go slower, not faster. It is recorded as
 **conflict c_063**, and what would settle it is the Winnipeg YMCA's annual reports of the 1890s and
-1900s.
+1900s. **Not, it turns out, the Year Books used above.** Their Manitoba and Canadian West reports for
+1893, 1895 and 1897 describe conventions, secretaries, buildings and college associations and mention no
+camp at all; "Lake of the Woods" does not occur in any of the five volumes. The same books that fail to
+record Kanawana's 1894 season fail to record whatever was happening on those islands, and they cannot be
+used to prefer 1891 over 1911 or the reverse [f_4862].
 
 ### The 1918 influenza pandemic does not appear in these records at all
 

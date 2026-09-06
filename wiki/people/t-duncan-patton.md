@@ -1,6 +1,6 @@
 # Thomas Duncan Patton (1865–1944)
 
-*Status: draft | Sources: 12*
+*Status: draft | Sources: 13*
 *Last Updated: 2026-09-05*
 
 ## Overview
@@ -144,6 +144,20 @@ the five; the museum supplies the other two, from a source with no connection to
 Winnipeg island still carried his name in a Kenora museum's account in 2016 is the longest-lived trace of
 him this project has found.
 
+**The man who found the islands was the YMCA's own provincial chairman.** The 1893 and 1895 Year Books
+of the YMCAs of North America list "**CANADIAN NORTHWEST. Headquarters, Winnipeg, Man. R. D. Richardson,
+Win'p'g, Man., Chairman**," and he signs the province's narrative report in both — "Robert D.
+Richardson, Cor. Mem." in 1893, "Robt. D. Richardson" in 1895. So the party rowing the Lake of the Woods
+for a camp site in 1893 was led by the chairman of the YMCA's own committee for the Canadian Northwest,
+in the year Patton was about to arrive in Winnipeg. It also settles a small disagreement between the two
+accounts of that party: Camp Stephens's own page gives **R.D.** Richardson and the Lake of the Woods
+Museum gives R.C. — the contemporaneous printed record gives D, twice [f_4860].^13
+
+*A lead, and only that:* the same 1895 committee lists **George Fleming of Brandon** beside Richardson
+and John Norris, and one of the five islands is named for a "Mr. Fleming" nobody has identified. Fleming
+is a common name and no source connects the two. It is written down so that whoever reaches the Winnipeg
+association's records knows which Fleming to check first [f_4861].
+
 **And the camp's own anniversary service puts him at the start of its boys' camping.** The script of the
 Camp Stephens 125th Anniversary Chapel Service, read on Copeland Island on 31 July 2016, says the first
 twenty years there were "predominantly an adult and family Bible camp" and that "it wasn't until 1911
@@ -243,6 +257,7 @@ neither is obviously wrong.
 10. "Y.M.-Y.W.C.A. Camp Stephens," by Grant Platts, Scott McGregor and Juliane Schaible, p. 21, and "What's In A Name? Camp Stephens," p. 27, *Canadian Camping Magazine* Vol. 39 No. 1 (Summer 1987) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 162).
 11. Katelyn Charlebois, "Camp Stephens Celebrates 125 Years," Lake of the Woods Museum Newsletter Vol. 26 No. 3, Summer 2016 [src_muse_kenora_camp_stephens_125]. The 1893 search party and all five island namesakes. See [f_4839].
 12. "Camp Stephens 125th Anniversary Chapel Service ~ July 31, 2016," Camp Stephens Alumni blog [src_campstephens_125_chapel_2016]. The 1911 first boys' camp and Patton's part in it; a commemorative script, not a history. See [f_4840].
+13. *Year Book and Official Roster of the Young Men's Christian Associations of North America*, 1893 and 1895 [src_ymca_yearbook_1893], [src_ymca_yearbook_1895]. The Canadian Northwest and Canadian West provincial committees at Winnipeg, and Richardson's signed provincial reports. See [f_4860], [f_4861].
 
 ## Research Notes
 
