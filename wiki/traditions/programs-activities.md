@@ -126,6 +126,7 @@ environmental-education positioning without originating from it.
 - [[history/founding-1894|Founding of Camp Kanawana (1894)]]
 - [[traditions/traditions-and-culture|Traditions and Culture at Kanawana]]
 - [[connections/related-camps/quebec-camp-landscape|The Quebec Camp Landscape]]
+- [[traditions/winter-programming|Winter and Year-Round Programming]]
 
 ## Images
 

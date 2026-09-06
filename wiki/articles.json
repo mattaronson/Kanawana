@@ -1193,7 +1193,7 @@
         "quebec-camp-landscape"
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-      "word_count": 4000,
+      "word_count": 4005,
       "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, renamed the orphaned 'R3 Verification Notes' H2 to the standard 'Research Notes' heading and condensed its bullet list into a single HTML-comment process-log entry. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -3160,7 +3160,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 4305,
+      "word_count": 4310,
       "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral. 2026-06-20: Added Indigenous territory context (f_1315) and Mille-Isles regional history (f_1314). 2026-06-21: Added 1976 Lovell's directory listing (f_1331) and 2023 superintendent's house fire (f_1333). | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph about the Weredale lease into a new Research Notes > Revision History section (this article previously had no Research Notes section at all). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -4388,7 +4388,7 @@
         "lv-games"
       ],
       "file_id": null,
-      "word_count": 7360,
+      "word_count": 7365,
       "notes": "Stub created 2026-02-27. Comprehensive inventory of named places, buildings, structures (current and historical). Includes Grand Portage and Longhouse from oral tradition (no written documentation found). Superintendent's house fire May 2023. Infirmary (5 beds), 30ft climbing wall, workshop pavilion added from web research. 13 open questions.",
       "tags": {
         "era": [
@@ -6296,7 +6296,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 8251,
+      "word_count": 8256,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical; fixed a genuine citation-numbering bug where the Sources list had two entries each numbered '17.' and '22.' (disambiguated as 17b./22b., three inline markers corrected to point at the right one). No facts, source content, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -7050,7 +7050,7 @@
       "article_id": "winter-programming",
       "title": "Winter and Year-Round Programming",
       "wiki_folder": "traditions",
-      "status": "R3-verified",
+      "status": "E1-reviewed",
       "status_history": [
         {
           "status": "stub",
@@ -7075,6 +7075,12 @@
           "at": "2026-09-02T00:00:00Z",
           "by": "auto",
           "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-06T03:40:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 1,
@@ -7097,13 +7103,16 @@
         "f_1870",
         "f_1871",
         "f_1872",
-        "f_1873"
+        "f_1873",
+        "f_4843",
+        "f_2434"
       ],
       "sources_cited": [
         "src_ia_ymca_annual_1971_72",
         "src_ia_ymca_annual_1972_73",
         "src_ia_ymca_annual_1996",
-        "src_concordia_atom_12B07"
+        "src_concordia_atom_12B07",
+        "src_ia_kanawana_report_1975"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -7113,7 +7122,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 1107,
+      "word_count": 1437,
       "tags": {
         "era": [
           "1970s",
@@ -7252,7 +7261,7 @@
       "article_id": "joanna-hoad",
       "title": "Joanna A.A. Hoad",
       "wiki_folder": "people",
-      "status": "R3-verified",
+      "status": "E1-reviewed",
       "status_history": [
         {
           "status": "stub",
@@ -7271,6 +7280,12 @@
           "at": "2026-07-09T18:00:00Z",
           "by": "auto",
           "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-06T03:50:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 4,
@@ -7285,10 +7300,12 @@
       "sources_cited": [],
       "open_questions": 4,
       "cross_links": [
-        "directors-index"
+        "directors-index",
+        "arleen-boyer",
+        "modern-era"
       ],
       "file_id": null,
-      "word_count": 987,
+      "word_count": 1313,
       "tags": {
         "era": [
           "1990s",

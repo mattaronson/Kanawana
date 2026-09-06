@@ -400,6 +400,7 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 - [[traditions/traditions-and-culture|Traditions and Culture at Kanawana]]
 - [[traditions/myths-and-legends|Kanawana Myths and Legends]]
 - [[traditions/lv-games|The L&V Games]]
+- [[traditions/winter-programming|Winter and Year-Round Programming]]
 
 ## Sources
 

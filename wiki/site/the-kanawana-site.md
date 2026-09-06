@@ -209,6 +209,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 - [[site/places-and-locations|Places and Locations at Camp Kanawana]]
 - [[traditions/traditions-and-culture|Traditions and Culture at Kanawana]]
 - [[people/page-family|The Pagé Family of Saint-Sauveur]]
+- [[traditions/winter-programming|Winter and Year-Round Programming]]
 
 ## Sources
 

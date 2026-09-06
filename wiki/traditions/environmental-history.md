@@ -239,6 +239,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 - [[people/dave-twynam|Dave Twynam]]
 - [[people/j-w-mcconnell|J.W. McConnell]]
 - [[traditions/pip-alumni-award|The Pip Alumni Award]]
+- [[traditions/winter-programming|Winter and Year-Round Programming]]
 
 ## Sources
 

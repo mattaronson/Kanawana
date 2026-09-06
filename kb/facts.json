@@ -1,6 +1,6 @@
 {
-  "version": "6.45",
-  "kb_version": "6.45",
+  "version": "6.46",
+  "kb_version": "6.46",
   "migrated_from": "3.3",
   "fact_count": 4847,
   "facts": [
@@ -31787,7 +31787,7 @@
     },
     {
       "fact_id": "f_1870",
-      "claim": "Further institutional-history data points from the annual reports: the 1974-75 report records 475 campers, the 'second highest registration in 25 years' despite a national decline in resident camping; the 1976-77 report documents the 'commencement of the planning process for new facilities at Kamp Kanawana'; the 1980-81 report records over 750 children at Kanawana.",
+      "claim": "[NOTE 2026-09-06: this fact is ACCURATE about the annual report and was MISREAD by two articles. The report LABELLED 1974-75 records 475 campers, but the association's June-to-May fiscal year means that is the 1975 season, not 1974 -- the camp's own 1975 director's report says \"This summer, we worked with 475 different children\" and gives 1,356 camper weeks for 1975 against 1,264 for 1974 (f_4843, f_2434). meta/attendance-series.md was corrected 2026-09-05 and traditions/winter-programming.md on 2026-09-06. Not superseded, because nothing in the claim below is wrong.] Further institutional-history data points from the annual reports: the 1974-75 report records 475 campers, the 'second highest registration in 25 years' despite a national decline in resident camping; the 1976-77 report documents the 'commencement of the planning process for new facilities at Kamp Kanawana'; the 1980-81 report records over 750 children at Kanawana.",
       "sources": [
         "src_ia_ymca_annual_1994"
       ],
