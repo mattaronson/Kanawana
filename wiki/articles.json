@@ -2648,10 +2648,11 @@
         "association-founding-dates",
         "quebec-camping-association",
         "hay-finlay",
-        "cca-national-office"
+        "cca-national-office",
+        "cca-statistics"
       ],
       "file_id": null,
-      "word_count": 24964,
+      "word_count": 23454,
       "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -2707,10 +2708,41 @@
         "quebec-camping-association",
         "association-founding-dates",
         "sources-index",
-        "a-ross-seaman"
+        "a-ross-seaman",
+        "cca-statistics"
       ],
       "file_id": null,
       "word_count": 3624,
+      "open_questions": 4
+    },
+    {
+      "article_id": "cca-statistics",
+      "title": "The Association's Own Statistics, and the One Camp in Ten",
+      "wiki_folder": "connections/institutional-lineage",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06",
+          "by": "auto",
+          "task": "WRITE",
+          "note": "Eighth cut under p_452. The statistics thread was the last coherent subject buried in the 6,840-word 'A textbook says Kanawana was first' subsection. It is the denominator article: every national figure this wiki quotes counts member camps only, and member camps were about a tenth of the field, so attendance-series and anything else comparing Kanawana to 'Canadian camps' needs it."
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [],
+      "sources_cited": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "cross_links": [
+        "canadian-camping-movement",
+        "quebec-camping-association",
+        "cca-national-office",
+        "attendance-series",
+        "quebec-camp-landscape"
+      ],
+      "file_id": null,
+      "word_count": 2543,
       "open_questions": 4
     },
     {
@@ -10284,10 +10316,11 @@
         "history/coeducation-gender",
         "history/modern-era",
         "site/camp-otoreke",
-        "camp-thunderbird"
+        "camp-thunderbird",
+        "cca-statistics"
       ],
       "file_id": null,
-      "word_count": 6675,
+      "word_count": 6698,
       "notes": "Created 2026-08-14 (p_256) from the 114-annual-report sweep. ~60 seasons of camper counts and camper-weeks, 1894-2023, with SIX internal inconsistencies carried as flags rather than resolved -- every one of them the association contradicting itself. Kept as a separate article so the contradictions travel with the numbers. No aggregate totals computed: too many missing years, the 1998-2001 rows count a different population, and the two documented lifetime totals (40,000 in 1964, 34,000 in 1984) contradict each other. Marked draft, not stub, because it is transcription of primary figures rather than synthesis; NOT yet VERIFY-passed -- figures should be spot-checked against the OCR before advancing."
     },
     {
@@ -11375,12 +11408,13 @@
         "camp-ouareau",
         "oldest-camp-question",
         "ymca-quebec-history",
-        "cca-national-office"
+        "cca-national-office",
+        "cca-statistics"
       ],
       "file_id": null,
       "word_count": 9268,
       "open_questions": 8
     }
   ],
-  "article_count": 112
+  "article_count": 113
 }

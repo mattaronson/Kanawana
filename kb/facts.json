@@ -1,8 +1,8 @@
 {
-  "version": "8.01",
-  "kb_version": "8.01",
+  "version": "8.02",
+  "kb_version": "8.02",
   "migrated_from": "3.3",
-  "fact_count": 5088,
+  "fact_count": 5089,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91747,6 +91747,23 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.01",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5127",
+      "category": "methodology",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project",
+        "Canadian Camping Association"
+      ],
+      "claim": "THE DENOMINATOR FOR EVERY NATIONAL CAMPING FIGURE IN THIS WIKI IS THE ACCREDITED TENTH, AND IT NOW HAS ITS OWN ARTICLE. connections/institutional-lineage/cca-statistics.md, spun out 2026-09-06 from the movement article. The spine: the Canadian Camping Association had no reliable national numbers until its first questionnaire of 1976 and said so in print; its executive director Marjorie Booth put member camps at 'probably 10 to 12' per cent of the Canadian field in November 1982 and let her interviewer restate it as 10%; two provincial reports in the 1982 Annual Report corroborate it from the ground, Nova Scotia finding directors who 'had never heard of the Association' and Saskatchewan writing 'we speak for about twenty camps but there are probably more than one hundred other camps out there'. SO EVERY CCA STATISTIC DESCRIBES A SELF-SELECTED, BETTER-RESOURCED MINORITY, and any comparison in this wiki between Kanawana and 'Canadian camps' drawn from CCA data is a comparison with that minority. The article was placed and cross-linked so meta/attendance-series.md points at it, because that is the article most at risk of using these figures as if they were a census. Three further cautions travel with the series and are stated in it rather than once: the 1980-81 provincial table is extrapolated across a 45% non-response rate and its column headings are illegible in the scan (p_324); the labelled table that decodes it rests on returns from eight provincial associations in one year and six in the next; and the 1982 interview text was recovered from an upside-down scan with a lossy decoder, so the wording and the '10 to 12' figure need a clean copy before either is quoted as verbatim.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.02",
       "added_by": "manual"
     }
   ]

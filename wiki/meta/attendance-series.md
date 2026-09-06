@@ -318,6 +318,7 @@ Three things stand out and none of them is visible from any single article.
 - [[history/coeducation-gender|Coeducation and Gender at Kanawana]]
 - [[history/modern-era|The Modern Era]]
 - [[site/camp-otoreke|Camp Otoreke]]
+- [[connections/institutional-lineage/cca-statistics|The Association's Own Statistics, and the One Camp in Ten]] — the national denominator, and why it counts only the accredited tenth
 
 ## Sources
 
