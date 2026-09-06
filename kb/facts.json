@@ -1,8 +1,8 @@
 {
-  "version": "7.53",
-  "kb_version": "7.53",
+  "version": "7.54",
+  "kb_version": "7.54",
   "migrated_from": "3.3",
-  "fact_count": 5024,
+  "fact_count": 5025,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -90578,6 +90578,21 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.53",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5063",
+      "category": "sources",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project",
+        "The Green Triangle"
+      ],
+      "claim": "I RE-READ A DOCUMENT THIS PROJECT FINISHED IN AUGUST, AND THE REASON IS A FIFTH WAY THE DUPLICATE RECORDS HIDE. Working the skimmed corpus, I picked sources/cache/ymca-montreal-fonds/the-green-triangle-1933-07-08.txt because its record said 'skimmed' and it mentions Kanawana twelve times. IT WAS FULLY EXTRACTED ON 2026-08-14 under a different record. The Chief's season-opening editorial, Bill Bourne's drowning in Brome Lake on 30 June 1933, the Haunted House hike past the deserted village, the Senior Camp Organization Council, the New Ritz, the baseball against Marois -- all of it is already in f_2292 and following, in wiki/traditions/myths-and-legends.md and in wiki/documents/green-triangle.md, which lists this issue among the six read in full. NOTHING NEW WAS FOUND AND NOTHING IS ADDED. WHY THE DETECTOR MISSED IT, WHICH IS THE USEFUL PART: src_green_triangle_1933_07_08 carries the substance and NO cache_path; src_ymf_the_green_triangle_1933_07_08 carries the path and said skimmed -- the shape f_5013 describes. But the stem test compares the cache filename's tokens against the other record's title, and here THE FILENAME DATES THE ISSUE '1933-07-08' WHILE THE TITLE DATES IT 'July 8, 1933'. The stem needs 07 and 08; the title offers july and 8. So a pair the tool was built to find slipped through on the difference between a digit and a month name. THE FIX IS IN: scripts/reread/duplicate_sources.py now folds month names to their numbers and strips leading zeros before comparing, which takes the pair count from 201 to 207 and the read_state disagreements from 50 to 54, the Green Triangle among them. AND THE PROCEDURAL LESSON IS MINE, NOT THE TOOL'S: I generated that duplicate list this morning and did not consult it before reading. Rule 21 says grep before reading; the corollary is that a report you wrote yourself counts as something to grep.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.54",
       "added_by": "ralph_loop"
     }
   ]

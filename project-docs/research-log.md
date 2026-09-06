@@ -6845,3 +6845,32 @@ had made these names exactly that. The fix was to move the roster into the open 
 the right answer on the merits, and is now stated in both facts: *who ran the camp is institutional;
 what one man privately thought of another's temperament is not.* Three uses of this machinery today
 and three mistakes in it, every one caught by the check rather than by me.
+
+## 2026-09-06 — the one I had already read
+
+Working down the skimmed list I picked `the-green-triangle-1933-07-08.txt` — twelve Kanawana
+mentions, marked skimmed, the camp's own newspaper. It is a wonderful issue: the Chief's
+season-opening editorial arguing that what distinguishes Kanawana is not equipment but "that
+contagious spirit"; the news of Bill Bourne drowning in Brome Lake on 30 June while trying to save
+his friend; the Haunted House hike past the deserted village, with the ghost lore stated outright;
+a Senior Camp Organization Council with an elected president; the opening of the New Ritz behind
+the monument; and a baseball game against Marois decided by thirteen runs in the sixth.
+
+**This project extracted all of it on 14 August.** It is `f_2292` and following, it is in
+`myths-and-legends.md`, and `green-triangle.md` lists this very issue among the six read in full.
+Nothing new came out of the re-read and nothing has been added to the knowledge base.
+
+Two things are worth keeping from the waste.
+
+**The detector had a hole, and now it doesn't.** The pair is the familiar shape — the substantive
+record `src_green_triangle_1933_07_08` carries no cache path, the shadow
+`src_ymf_the_green_triangle_1933_07_08` carries the file and said "skimmed". But
+`duplicate_sources.py --stems` compares filename tokens against titles, and here the filename dates
+the issue **1933-07-08** while the title dates it **"July 8, 1933"**. The stem wants `07` and `08`;
+the title offers `july` and `8`. Folding month names to numbers and stripping leading zeros fixes
+it: 201 pairs become 207, and 50 read-state disagreements become 54.
+
+**And the procedural half is mine.** I built that duplicate list this morning, wrote it up as
+`f_5013`, and then chose a document without consulting it. Rule 21 has always said grep the cache
+before searching the world; the corollary I had not written down is that **a report you generated an
+hour ago is part of the corpus you are supposed to grep.** Rules 35 and 36.

@@ -451,3 +451,31 @@ two separate documents under one date** (the 1959 Older Boys Camp report, follow
 tripper's letter written years later). In every case the label was believed and the contents were
 not opened. The rule that follows is rule 25 restated at the level of the whole corpus: *the
 catalogue is a claim about the document, and the document is the evidence.*
+
+## 35. Grep the reports you generated yourself, before reading
+
+Rule 21 says a source marked READ is read *for something*, so grep the cache before searching the
+world. On 6 September I generated a list of 201 duplicate source-record pairs, wrote it up as
+`f_5013`, and then two hours later picked a document off the skimmed list and read it whole —
+`the-green-triangle-1933-07-08.txt`, which this project had extracted in full on 14 August under a
+different record id. **Nothing new came out of it.** Bill Bourne's drowning, the Haunted House hike,
+the Senior Camp Organization Council, the New Ritz: all already in the knowledge base and in two
+articles.
+
+The duplicate list would not have caught this one either — see rule 36 — but I never looked. A
+report you produced an hour ago is part of the corpus you are supposed to grep.
+
+## 36. A date is a digit in a filename and a month name in a title
+
+`scripts/reread/duplicate_sources.py --stems` compares a cache filename's tokens against the titles
+of records that have no cache path. It missed `src_ymf_the_green_triangle_1933_07_08` against
+`src_green_triangle_1933_07_08` because the filename says **1933-07-08** and the title says
+**"July 8, 1933"**: the stem needs `07` and `08`, the title offers `july` and `8`.
+
+Fixed by folding month names to their numbers and stripping leading zeros before comparison. The
+pair count went 201 → 207 and the read-state disagreements 50 → 54.
+
+The general form is worth holding on to, because it will recur wherever two people wrote the same
+date: **matching on tokens means matching on how someone chose to spell them.** The same problem
+produces "Budee" for Budge (rule 33) and defeats a single-spaced grep against double-spaced OCR
+(rule 22). Every one of these is the same failure at a different layer.

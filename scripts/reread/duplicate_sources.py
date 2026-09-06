@@ -65,9 +65,30 @@ def load():
 STOP = {"the", "a", "of", "on", "in", "and", "for", "to", "no", "vol", "pt",
         "txt", "pdf", "report", "season", "s"}
 
+# A date is written one way in a filename and another in a title, and that alone
+# hid a pair: "the-green-triangle-1933-07-08" against "The Green Triangle, July 8,
+# 1933". The stem carries 07 and 08; the title carries "july" and "8". So month
+# names are folded to their zero-padded number and leading zeros are stripped
+# from every numeric token, which makes 07 and july agree and 08 and 8 agree.
+MONTHS = {"january": "1", "february": "2", "march": "3", "april": "4",
+          "may": "5", "june": "6", "july": "7", "august": "8",
+          "september": "9", "october": "10", "november": "11", "december": "12",
+          "jan": "1", "feb": "2", "mar": "3", "apr": "4", "jun": "6", "jul": "7",
+          "aug": "8", "sep": "9", "sept": "9", "oct": "10", "nov": "11", "dec": "12"}
+
+
+def fold(w: str) -> str:
+    """One token, normalised: month names to numbers, numbers without padding."""
+    if w in MONTHS:
+        return MONTHS[w]
+    if w.isdigit():
+        return str(int(w))
+    return w
+
 
 def tokens(text: str) -> set:
-    return {w for w in re.split(r"[^a-z0-9]+", (text or "").lower()) if w} - STOP
+    raw = {w for w in re.split(r"[^a-z0-9]+", (text or "").lower()) if w} - STOP
+    return {fold(w) for w in raw}
 
 
 def report_stems(records) -> int:
