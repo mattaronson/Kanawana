@@ -27088,9 +27088,9 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "read_state": "unread",
+      "read_state": "extracted",
       "read_state_basis": "none: catalogued 2026-09-02 from a cached file that belonged to no source record",
-      "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read."
+      "notes": "[READ-STATE CORRECTED 2026-09-06, from 'unread'. THIS IS THE CACHED TEXT OF A DOCUMENT THIS PROJECT HAS ALREADY EXTRACTED under a separate record, src_camp_dorval_1928 -- thirteen facts and four articles draw on it, down to the Marcil Trust Company lease at seventy-five dollars from May to November. The two records are the same document and neither points at the other. Re-read under p_441; one detail was missing and is now f_5005, Mr. Dent Harrison's motor launch on Lake St. Louis.] Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read."
     },
     {
       "source_id": "src_cache_1945_the_new_ymca_camp_on_isle_perrot_brochure",
