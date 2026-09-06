@@ -1,7 +1,7 @@
 # J.W. McConnell
 
 *Status: E1-reviewed | Sources: 14*
-*Last Updated: 2026-09-06 (the naming question answered twice, and a dead end reopened)*
+*Last Updated: 2026-09-06 (Fong's whole paragraph recovered, and it is the only one in the book)*
 
 ## Overview
 
@@ -49,6 +49,26 @@ University Press, 2008: "… 1912, in that year he also bought a site at **Lake 
 Saint-Sauveur, for a new Camp Kanawana, which was renamed Lake Wilson after his first son**."^14 So the
 purchase is dated to 1912, Lake Desjardins is named by an author working from McConnell's papers rather
 than the camp's, and "his first son" agrees with Wilson Griffith McConnell without naming him.
+
+**The whole paragraph is now recovered, and it is the only one.** Walked out in both directions from
+that sentence, Fong reads:^14
+
+> "…this will be brought to pass?"⁷ **Although he never devoted himself full-time to the
+> organization, McConnell's support for the 'Y' was to continue through his life.** In addition to
+> his work for the campaign of 1912, in that year he also bought a site at Lake Desjardins, near
+> Saint-Sauveur, for a new Camp Kanawana, which was renamed Lake Wilson after his first son.
+> **Further, the YMCA campaign provided the model for a fundraising campaign of McGill University**,
+> also in…"
+
+Two things to take from the surround. Fong's own summary of the relationship is **lifelong support
+without full-time involvement**, which is a more measured claim than the camp's own literature makes
+of him. And the camp's purchase is placed inside a sentence about *fundraising method*: Fong's
+interest is that the 1912 YMCA campaign became the template for McGill's, and the Lake Desjardins
+purchase is an aside in that argument.
+
+*And it is the only mention.* "Camp Kanawana" occurs on **exactly one leaf** of Fong's
+seven-hundred-page biography of the man who bought the camp's site. That is worth writing down: the
+camp is a footnote in his life, whatever it makes of him in its own.
 
 **What survives of the case below.** The pattern evidence about other Quebec Lac Wilsons is still good
 evidence — it just governs those lakes and not this one, which has a naming of its own on record twice.

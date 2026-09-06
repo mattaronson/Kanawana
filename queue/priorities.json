@@ -5341,10 +5341,11 @@
       "type": "RESEARCH",
       "description": "READ THE REST OF FONG'S McCONNELL BIOGRAPHY THROUGH OPEN LIBRARY'S SEARCH-INSIDE ENDPOINT. One passage of a 700-page book has been read (f_4934, scan leaf 766) and it answered a question this project had recorded as a confirmed dead end. The endpoint (f_4933) can be pointed at the rest. SPECIFIC TARGETS, each a phrase to query: chapter 5 on the 1909 YMCA fundraising campaign, which this wiki has only from secondary summaries; 'Kanawana' again in other windows (the phrase returns hits on leaf 766 only so far, but 'Kamp Kanawana', 'Saint-Sauveur', 'St Sauveur', 'summer camp', 'Wilson Griffith', 'boys' work' and 'Y.M.C.A.' are untried); the McConnell Foundation's later dealings with the camp; and anything on the land purchase itself, since Fong's sentence does not say whether McConnell bought the lake or the whole site. METHOD: overlapping phrase queries, ~2s apart, joining the windows; cache each reconstruction under sources/cache/openlibrary-search-inside/ with the queries that produced it, as the two files there do. Every reconstruction is a reconstruction and must say so.",
       "weight": 10,
-      "status": "pending",
+      "status": "complete",
       "created": "2026-09-06",
       "source": "Open Library search-inside sweep, 2026-09-06 (f_4933)",
-      "blocked_on": null
+      "blocked_on": null,
+      "notes": "| RESOLVED 2026-09-06 for camp purposes. The Kanawana paragraph was walked out in both directions and is now complete (f_4934, extended). AND THE PHRASE 'Camp Kanawana' OCCURS ON EXACTLY ONE LEAF of Fong's seven-hundred-page book, so there is no rest of Fong to read for the camp. What the surround adds: Fong's own summary is 'although he never devoted himself full-time to the organization, McConnell's support for the Y was to continue through his life' -- more measured than the camp's literature -- and the purchase is an aside inside an argument about fundraising METHOD, the 1912 YMCA campaign having provided the model for McGill's. THE PRIORITY'S OTHER TARGETS -- chapter 5 on the 1909 campaign, 'Wilson Griffith', the McConnell Foundation's later dealings -- are about McConnell rather than the camp, and belong to j-w-mcconnell.md if anyone wants them; they are not camp research and are not pursued here."
     },
     {
       "priority_id": "p_427",
