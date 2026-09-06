@@ -2349,6 +2349,12 @@
           "at": "2026-09-05T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
         }
       ],
       "ralph_loops_completed": 1,
@@ -2409,6 +2415,18 @@
         "f_1883",
         "f_1884",
         "f_1889",
+        "f_2567",
+        "f_2686",
+        "f_2745",
+        "f_2815",
+        "f_3060",
+        "f_3108",
+        "f_3247",
+        "f_3286",
+        "f_3352",
+        "f_3395",
+        "f_3801",
+        "f_4280",
         "f_4838",
         "f_4843",
         "f_4845",
@@ -2439,7 +2457,7 @@
         "sources-index"
       ],
       "file_id": null,
-      "word_count": 32589,
+      "word_count": 33516,
       "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

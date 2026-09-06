@@ -608,6 +608,72 @@ Janet Adamson counts the association at "**nine provincial associations and six 
 **The last of the language question.** Colette Pouliot-Marier reports that under the new policy Quebec francophones had for some months been doing the magazine's translation in both directions, "**une amélioration importante**" that francophone readers appreciated — and then appeals, twice, for French copy, because "**les derniers numéros témoignent toujours de la rareté des textes en français**."^8bp Thirteen years of committee work produced a policy, a translation service and an inventory; what it could not produce was contributors.
 
 
+## The people this article's sources keep naming
+
+A coverage check on 2026-09-05 found nine people carrying substantial fact records in this project's
+knowledge base and appearing in no wiki article at all — some with a dozen or more facts each, all drawn
+from the *Canadian Camping* run. They are folded in here rather than given articles of their own,
+because none of them is documented as having any contact with Kanawana: what they have is a claim on
+this article, as the people whose written work the movement Kanawana belonged to actually ran on. Where
+one of them later turns out to touch the camp, that is the point to reconsider.
+
+**Wallace Forgie (1883–1 December 1967)** was called **"Commodore"** by the young leaders who came under
+his influence in Canada from **1908 to 1927**. His obituary was written by J. Harry Ebbs — his nephew by
+marriage — and Mary Northway's 1967 profile of Adele Ebbs supplies the domestic detail that explains the
+canoe-tripping line running through this whole story: "her uncle, Wallace Forgie, took her on her first
+big canoe trip through Temagami when she was ten years old."^8bq2 The woman who became the movement's
+matriarch learned to trip from him.
+
+**Elsie K. Palter and David Palter**, of Camp Kawagama, appear together on the editorial team of *The
+Camp Counselor's Book* (Northway and Lowes, Longmans Canada, 1963), the standard Canadian text.
+Elsie Palter's own contributions are the ones with teeth: "Counsellors Can Help Their Campers" (April 1964)
+works from **Maslow's hierarchy of needs, printed in full and credited** — probably its earliest
+appearance in Canadian camping literature — and "When Stealing Occurs at Camp" (April 1970, printed in
+both languages) is a taxonomy of causes rather than a discipline policy, distinguishing the child who
+steals to possess from the child who steals to give things away and "buy" acceptance.^8bq2
+
+**John Hoyle** chaired the Ontario association's standards committee from **1947 to 1950**, the work that
+produced Canadian camp standards at all, and kept writing about the profession's ethics for a decade
+afterwards. His February 1957 gloss on the OCA Business Principles is unusually frank for a trade
+journal: "there is keen competition for both staff members and campers," and "the writer knows from
+experience how very easy it is, with the pressures under which we live, to take some slight advantage
+which, when reviewed in the light of day, may not be absolutely above board" — naming "bidding up on
+honoraria" as an example.^8bq2 His 1951 counsellor-in-training plan is the earliest detailed CIT
+curriculum in this project's records.
+
+**Keith Cleverdon** wrote the documentary history of those standards in April 1955: the committee under
+Hoyle from 1947 to 1950, proposals circulated to the membership, open meetings, votes at two annual
+meetings, revisions in 1953 and again in 1955.^8bq2 Between them, Hoyle and Cleverdon are why a camp like
+Kanawana could be inspected against a written standard at all.
+
+**M. C. MacCulloch**, a Section Director at Bolton Camp, gives the period's fullest written discipline
+policy (Summer 1969), and its central sentence is worth having beside anything this wiki says about how
+camps handled children: "**In no instance may justice at camp take the form of physical punishment. We
+are not parents and these are not our children.**"^8bq2
+
+**Elizabeth Wardley Raymer**, Director of Camp Tanamakoon, returned in 1958 to a canoe-trip site she had
+known as a tripping counsellor in the 1930s and found "three mountains of rusting tin cans within fifty
+feet of the fireplace," no latrine dug "for a long, long time," broken glass and food scraps in the
+shallows — and turned it into an indictment of camp tripping practice twenty years before the
+leave-no-trace articles of 1979.^8bq2
+
+**Doug Dent** sat on the 1974 Task Force on Canadian Camping, whose six findings kept the magazine in
+magazine form "because of the public relations values" and rejected a newspaper format as no use to
+schools and camp staffs.^8bq2 **Sam Hambly** wrote the association's composting pamphlet, one of the
+first two in a "HOW TO" series that reached six bilingual titles within a year in 1981–82.^8bq2
+
+**A caution about how that coverage check was made — it failed twice while being used.** It matches
+names as exact strings, and that breaks in two ways. **Name variants:** the check scored "Anne I. Vail" at zero
+articles while the same woman appears across this wiki as **Nan Vail** and **Ann Vail**, including two
+sections above. (This sentence has since given the full form a match of its own, which is its own small
+demonstration: a string count measures the corpus, including whatever the last edit added to it.) **Line wrapping:** immediately after this section was written, a re-check reported "Elsie
+Palter" as still absent — because the paragraph above had wrapped between her given name and her
+surname, so the string never occurred contiguously in the file. The paragraph has been reflowed, and the
+failure is left recorded here because it is the more insidious of the two: a sweep over hard-wrapped
+markdown will quietly under-report any name that happens to straddle a line break. Search the variants,
+and normalise the whitespace, before concluding that somebody is absent from the record.
+
+
 ## Academic Study
 
 The Canadian camping movement has received growing scholarly attention. Sharon Wall's *The Nurture of Nature: Childhood, Antimodernism, and Ontario Summer Camps, 1920-55* (UBC Press, 2009) is the principal study, analyzing camps as "hybrid institutions" navigating antimodernism and modernity.^10 Grace McMorris's thesis on Kanawana (Concordia, 2023) examines how the camp shaped "distinctly masculine and Canadian young men" from 1894 to 1967.^11
@@ -696,6 +762,7 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 8bo. Henri Chalifoux, "Quebec Camping Association" / "Association des camps du Québec," p. 4; Committee Notes — Colette Pouliot-Marier, "Le comité des camps d'expression française," and Jack Pearse, "Fund Raising," p. 7; Aniko Varpalotai, "The P.A.R.C. Notebook," p. 8; "Jackpot!", p. 18; the "In This Issue" editorial note, p. 1; and the masthead, p. 2 — all *Canadian Camping Magazine* Vol. 39 No. 2 (Fall 1987) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 163). Pages 13 (Nancy Bramm's Bubby Nash article) and 19 (the Camp Cheboygan memorabilia spread) produced no machine-readable text in the Internet Archive scan and have not been read.
 8bp. Janet Adamson, "President's Message," pp. 3-4; "Got A Minute?", p. 10; Gérard Bachand, "Quebec's Region Report," p. 6; Colette Pouliot-Marier, "Committee For Camps of French Expression," p. 11; Aniko Varpalotai, "The P.A.R.C. Notebook," pp. 22-24; and "Personality Profile: Lorne Brown (1908-1976)" — interview with May Brown, pp. 12-18 — all *Canadian Camping Magazine* Vol. 39 No. 3 (Winter 1988), the final issue of the run [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 164).
 8bq. Tony Shorgan, "Birth of the French Camping Association (l'Association des Camps du Québec)," *Canadian Camping* Vol. 17 No. 3, April 1965, pp. 83-84 [src_cache_canadiancampingmagazine_vol17no3_1965april]. His own account of 1957-1960, read in full 2026-09-05. See [f_4863], [f_4864], [f_4865].
+8bq2. Facts held in this project's knowledge base from the 1949-1988 run of *Canadian Camping* [src_ia_canadian_camping_collection], for people who appeared in no wiki article until 2026-09-05: Wallace Forgie ([f_3286], [f_3247]); Elsie and David Palter ([f_3395], [f_3108], [f_3060]); John Hoyle ([f_2567], [f_2745]); Keith Cleverdon ([f_2686]); M. C. MacCulloch ([f_3352]); Elizabeth Wardley Raymer ([f_2815]); Doug Dent ([f_3801]); Sam Hambly ([f_4280]).
 14. YMCA of Greater Halifax/Dartmouth, *165 Years of Community Building* (anniversary yearbook, 2023), p. 8 (the "oldest continuously running residential camp in Canada" claim) and p. 28 (the 1975–1980 timeline entry) [src_ymca_halifax_165th_yearbook]. The PDF's text could not be read by the fetch tool and was extracted locally; cached at `sources/cache/continuity/ymca-halifax-165th-yearbook.txt`. See [f_4739], [f_4740], [f_4741].
 15. Big Cove YMCA Camp, YMCA of Greater Halifax and Dartmouth camp page [src_ymcahfx_bigcove_page], and the Wikipedia article on the camp. Both give the "oldest" claim; neither mentions the 1976–79 interruption. See [f_4743].
 16. Camp Stephens Alumni blog, December 2020 and August 2020 posts [src_campstephens_alumni_blog] — the same alumni source cited in `c_029` for the Nelson McEwen founding claim. See [f_4744], [f_4745], [f_4746].
