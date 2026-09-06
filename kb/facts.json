@@ -1,8 +1,8 @@
 {
-  "version": "6.99",
-  "kb_version": "6.99",
+  "version": "7.00",
+  "kb_version": "7.00",
   "migrated_from": "3.3",
-  "fact_count": 4928,
+  "fact_count": 4929,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88560,6 +88560,29 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.99",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4967",
+      "category": "people",
+      "date_ref": "1906-1908",
+      "entities": [
+        "W. J. Holliday",
+        "John W. Ross",
+        "YMCA of Montreal",
+        "J. E. Merritt",
+        "W. S. Maguire",
+        "D. A. Budge"
+      ],
+      "claim": "THE MAN WHO OPENED KANAWANA, DATED: W. J. HOLLIDAY ENTERED YMCA WORK IN 1906 AND WAS MONTREAL'S BOYS' WORK DIRECTOR BY 1907. Three more volumes of the Year Book and Official Roster of the YMCAs of North America -- 1906, 1907 and 1908, none lending-restricted, all downloaded whole -- give the YMCA of Montreal's local roster: || 1906: \"Montreal -- Pres., JOHN W. ROSS. Gen. Secy., D. A. Budge. Asst., C. K. Calhoun. Asst., Percy V. Gahan. ASST., W. J. HOLLIDAY. Asst. (Membership), P. A. Doig. Ed. Dir., J. S. Jamieson. Phys. Dir., J. E. MERRITT. Asst. Phys. Dir., William Sovereign.\" || 1907: \"Montreal -- Pres., JOHN W. ROSS. Gen. Secy., D. A. Budge. Central Dept. Ch., C. C. Holland. Secy., C. K. Calhoun. Asst., F. J. McKellar. Asst., Clarence E. Reid. BOYS' WORK DIR., W. J. HOLLIDAY. Ed. Dir., W. H. Henderson. Phys. Dir., J. E. Merritt.\" || 1908: \"Montreal -- Pres., JOHN W. ROSS. Gen. Secy., D. A. Budge. Central Dept. Ch., C. C. Holland. Secy., C. K. Calhoun. Asst., Harold Smeal. Asst., Clarence E. Reid. BOYS' WORK DIR., W. J. HOLLIDAY. Ed. Dir., W. H. Henderson. Phys. Dir., J. E. Merritt. ASST. PHYS. DIR., W. S. MAGUIRE.\" || And the employed-officers index, whose figures are years of entry into Association work: \"Holliday, W. J., Montreal, Que., Asst., 06\" (1906 volume) and \"Holliday, W. J., Montreal, Que., Boys, 06\" (1907 and 1908). FOUR THINGS. (1) W. J. HOLLIDAY is the man the association's own 1931 report calls 'THE FIRST CAMP DIRECTOR' of Kanawana and whose charge of the new site the 1910 annual report announces in the forward tense. This project's directors index gives him as '1908, 1910-1912?'. HE ENTERED YMCA EMPLOYED WORK IN 1906 and was the Montreal association's BOYS' WORK DIRECTOR from the 1907 volume -- so when he ran the Junior Camp at Lac St. Joseph in 1908 and opened Kanawana in 1910, he was doing it as the association's boys' work secretary, not as a seasonal appointment. (2) JOHN W. ROSS IS PRESIDENT OF THE YMCA OF MONTREAL in all three volumes. This project knows him as volunteer chairman of a mid-1890s Junior Department camp committee, as chairman of the 1894 Summer Camp committee, on the 1899 Permanent Camp Committee (f_4908), and on the YMCA International Committee in 1921 with a term expiring in 1922 (f_4964). The presidency joins those into a single forty-year public life and bears on billy-ball.md's open question 8, which asks whether 'John W. Ross' and 'John Roy', the 1901 Camp Jubilee director, are one man or two. (3) W. H. BALL, JR. IS GONE. He is Physical Director in every volume from 1893 to 1897 and absent from all three of these, where the post is J. E. Merritt's -- consistent with the 1901/1902 departure this project has from the annual reports. (4) W. S. MAGUIRE is Montreal's Assistant Physical Director in the 1908 volume, AND the 1921 volume has 'Physical, W. S. Maguire' at VICTORIA, B.C., on the same four-line roster as 'Boys, Harold C. Cross' (f_4965). A Montreal physical director and a Montreal boys' work man in the same small western association thirteen years later. NO CLAIM IS MADE THAT ONE BROUGHT THE OTHER; it is a documented co-occurrence and a thread worth pulling. ALSO NOTE: J. E. MERRITT, Physical Director here, appears in 1912 on the 'Programme des Amusements' committee of Montreal's first child-welfare exhibition alongside C. B. Powter and D. J. Evans (f_4961). AND A METHOD NOTE THAT COST SOMETHING: the p_430 name sweep ran 'W.J. Holliday' against the Open Library index, got 243 hits about an Indianapolis art collector, and logged him as not findable. He was in a series already sitting in this repo's cache. That is rule 21 a second time in an hour, aimed at the name sweep itself.",
+      "sources": [
+        "src_ymca_yearbook_1906",
+        "src_ymca_yearbook_1907",
+        "src_ymca_yearbook_1908"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.00",
       "added_by": "ralph_loop"
     }
   ]

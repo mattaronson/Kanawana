@@ -42,6 +42,16 @@ PEOPLE — SWEPT 2026-09-06
   W.J. Holliday ........... 243 hits, essentially all an Indianapolis art collector and an
                             Indianapolis steel company of the same name. Do not re-run bare; pair
                             with "Montreal" or "Y.M.C.A." if it is run again at all.
+                            *** AND THIS ENTRY WAS WRONG AS A CONCLUSION, THE SAME DAY. He is in the
+                            YMCA's own Year Book and Official Roster -- a series ALREADY IN THIS
+                            REPO'S CACHE -- under his own name, with his job title and his start
+                            year: "Asst., W. J. Holliday" at Montreal in the 1906 volume, "Boys'
+                            Work Dir., W. J. Holliday" in 1907 and 1908, and "Holliday, W. J.,
+                            Montreal, Que., Boys, 06" in the employed-officers index (f_4967). The
+                            man who opened Kanawana was findable in one grep of this project's own
+                            files while a full-text search of millions of books returned an
+                            Indianapolis art collector. BEFORE RUNNING A NAME AGAINST THE CORPUS,
+                            GREP THE CACHE. ***
 
   Johnston W. Abraham ..... 1 hit, AND IT IS AN OPEN LEAD, NOT A FINDING. The Union List of
                             Manuscripts in Canadian Repositories, supplement 1979-1980 (Public
@@ -170,7 +180,16 @@ Gary White · Manuel Quiroga · Ross Bannerman · Greig Macdiarmid · Harry Smit
 H. H. Hart · Nelson McEwen · R. L. Charlton · O. N. H. Owens · James H. Turner · Leo J. Robitaille ·
 G. David Twynam · Bruce Netherwood · Murray B. Shantz · T. Duncan Patton · Hedley S. Dimock
 
-TWO PIECES OF ADVICE FROM THE SIX NAMES ALREADY RUN. Names that are common in English (Crawford,
+THREE PIECES OF ADVICE, THE FIRST OF WHICH IS NEW AND COST SOMETHING.
+
+  ZERO. GREP THE CACHE FIRST. `grep -ril "<name>" sources/cache/` takes one command. The Holliday
+  entry above is what happens when it is skipped: a full-text index of millions of books returned
+  243 hits about the wrong man, and the right one was in this repo. Sixteen of the twenty-four
+  names swept so far returned nothing usable from the corpus, and at least one of them was here.
+  (Word boundaries matter when you do it: "Ereaux" matches "Devereaux" and "Spinney" matches the
+  noun "spinneys", both of which produced false hits in the first pass.)
+
+TWO MORE PIECES OF ADVICE FROM THE NAMES ALREADY RUN. Names that are common in English (Crawford,
 Holliday) return hundreds of hits about other people and should be paired with "Montreal",
 "Y.M.C.A." or "Kanawana" from the start. Names that are rare (Ereaux, Hanagan, Brandon with
 initials) return zero, and a zero here is a fact about a book corpus and not about the world — these

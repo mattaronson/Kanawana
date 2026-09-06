@@ -29557,7 +29557,61 @@
       "read_state": "partial",
       "read_state_basis": "NOT lending-restricted. Full djvu text (1,826,321 bytes) downloaded and searched 2026-09-06. 'Kanawana' occurs ZERO times, and so do 'summer camp' and \"boys' camp\" -- this is a roster of associations and their paid staff, not of their programmes. The complete Quebec section, the Victoria entry, the employed-officers legend and every relevant index line were read and cached; the rest of the 700-odd pages is unread.",
       "notes": "A SERIES THIS PROJECT DID NOT KNOW EXISTED, found by running 'Harold C. Cross' in the p_430 name sweep. Annual, North America wide, giving every association's complete named staff branch by branch AND an alphabetical index of employed officers with each man's post and HIS YEAR OF ENTRY INTO ASSOCIATION WORK. The 1921 volume prints the YMCA of Montreal's whole staff at 127 Drummond St., including John G. MacKinnon, Grant D. Brandon, Hay Finlay and D. A. Budge, and it confirms Harold C. Cross as Boys' Work Secretary at Victoria, B.C. with an entry year of 1912. See f_4964, f_4965, and p_433 for the rest of the series."
+    },
+    {
+      "source_id": "src_ymca_yearbook_1906",
+      "type": "report",
+      "title": "Year Book and Official Roster of the Young Men's Christian Associations of North America, 1906",
+      "date": "1906",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/ymcayearbookof1906younuoft",
+      "cache_path": "sources/cache/ymca-yearbooks/1906-1908-ymca-year-book-montreal-roster.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "7.00",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "NOT lending-restricted. Full djvu text downloaded and searched 2026-09-06. 'Kanawana' occurs ZERO times (the camp's present site opens in 1910 and this series rosters staff, not programmes). The Quebec/Montreal local roster and the relevant employed-officers index lines were read and cached; the rest is unread. NOTE: the Internet Archive's metadata gives 1890 as the year for every volume of this series scanned by the University of Toronto; the year here is taken from the identifier.",
+      "notes": "Part of the series enumerated at p_433. The 1906 volume gives the YMCA of Montreal's local roster. Across 1906-1908 it documents W. J. HOLLIDAY -- the man the association's own 1931 report calls 'the first camp director' of Kanawana -- entering Association work in 1906 as an Assistant Secretary and holding the post of BOYS' WORK DIRECTOR by the 1907 volume; JOHN W. ROSS as PRESIDENT of the association in all three; and J. E. Merritt as Physical Director. See f_4967."
+    },
+    {
+      "source_id": "src_ymca_yearbook_1907",
+      "type": "report",
+      "title": "Year Book and Official Roster of the Young Men's Christian Associations of North America, 1907",
+      "date": "1907",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/ymcayearbookof1907younuoft",
+      "cache_path": "sources/cache/ymca-yearbooks/1906-1908-ymca-year-book-montreal-roster.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "7.00",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "NOT lending-restricted. Full djvu text downloaded and searched 2026-09-06. 'Kanawana' occurs ZERO times (the camp's present site opens in 1910 and this series rosters staff, not programmes). The Quebec/Montreal local roster and the relevant employed-officers index lines were read and cached; the rest is unread. NOTE: the Internet Archive's metadata gives 1890 as the year for every volume of this series scanned by the University of Toronto; the year here is taken from the identifier.",
+      "notes": "Part of the series enumerated at p_433. The 1907 volume gives the YMCA of Montreal's local roster. Across 1906-1908 it documents W. J. HOLLIDAY -- the man the association's own 1931 report calls 'the first camp director' of Kanawana -- entering Association work in 1906 as an Assistant Secretary and holding the post of BOYS' WORK DIRECTOR by the 1907 volume; JOHN W. ROSS as PRESIDENT of the association in all three; and J. E. Merritt as Physical Director. See f_4967."
+    },
+    {
+      "source_id": "src_ymca_yearbook_1908",
+      "type": "report",
+      "title": "Year Book and Official Roster of the Young Men's Christian Associations of North America, 1908",
+      "date": "1908",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/ymcayearbookof1908younuoft",
+      "cache_path": "sources/cache/ymca-yearbooks/1906-1908-ymca-year-book-montreal-roster.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "7.00",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "NOT lending-restricted. Full djvu text downloaded and searched 2026-09-06. 'Kanawana' occurs ZERO times (the camp's present site opens in 1910 and this series rosters staff, not programmes). The Quebec/Montreal local roster and the relevant employed-officers index lines were read and cached; the rest is unread. NOTE: the Internet Archive's metadata gives 1890 as the year for every volume of this series scanned by the University of Toronto; the year here is taken from the identifier.",
+      "notes": "Part of the series enumerated at p_433. The 1908 volume gives the YMCA of Montreal's local roster. Across 1906-1908 it documents W. J. HOLLIDAY -- the man the association's own 1931 report calls 'the first camp director' of Kanawana -- entering Association work in 1906 as an Assistant Secretary and holding the post of BOYS' WORK DIRECTOR by the 1907 volume; JOHN W. ROSS as PRESIDENT of the association in all three; and J. E. Merritt as Physical Director. See f_4967."
     }
   ],
-  "source_count": 1642
+  "source_count": 1645
 }

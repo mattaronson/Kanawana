@@ -5367,3 +5367,49 @@ last one's search terms, and a cache of read files is not a cache of exhausted f
 The practical form: **before searching the world for a name, grep the cache for it.** Sixteen of the
 twenty-four names swept so far returned nothing from a corpus of millions of books. At least one of
 them was sitting in this repo.
+
+---
+
+## Phase 2 campaign — the man who opened Kanawana was in the cache (2026-09-06)
+
+**Topic.** p_433 named the 1906-1908 volumes of the *YMCA Year Book and Official Roster* as the ones
+to take next, because they sit either side of W. H. Ball Jr.'s departure and just before the camp's
+move to Saint-Sauveur. All three are unrestricted. All three were downloaded whole.
+
+**W. J. Holliday.** The association's own 1931 report calls him "**the first camp director**" of
+Kanawana, and its 1910 report announces the new site in the forward tense: "This camp will be under
+the charge of Mr. W. J. Holliday, of the Central Branch." `directors-index.md` has had him as
+"1908, 1910-1912?" and nothing else.
+
+The rosters give: "**Asst., W. J. Holliday**" at Montreal in the 1906 volume; "**Boys' Work Dir.,
+W. J. Holliday**" in 1907 and 1908; and, in the employed-officers index, "**Holliday, W. J.,
+Montreal, Que., Boys, 06**" — 06 being his year of entry into Association work. So the Junior Camp
+of 1908 and the opening of the Saint-Sauveur site in 1910 were run by **the association's boys' work
+secretary**, in post since 1906, and not by a seasonal appointee. **f_4967.**
+
+Three more from the same three volumes. **John W. Ross is President of the YMCA of Montreal** in all
+three, which joins his 1894 Summer Camp chairmanship, his seat on the 1899 Permanent Camp Committee
+and his 1921 membership of the YMCA International Committee into one forty-year public life.
+**W. H. Ball, Jr. is absent** from all three, where the Physical Director is J. E. Merritt — the
+first confirmation from outside the association's own reports of the 1901/02 departure. And
+**W. S. Maguire**, Montreal's Assistant Physical Director in 1908, is *Physical* at **Victoria,
+British Columbia** in the 1921 volume, on the same four-line roster as "Boys, Harold C. Cross". No
+claim is made that one brought the other. It is a documented co-occurrence, and it is the shape of
+the thing that would explain how Cross got west and back.
+
+**And now the part that stings.** Three hours earlier, the p_430 name sweep ran `"W.J. Holliday"`
+against the Open Library full-text index, got **243 hits** about an Indianapolis art collector and an
+Indianapolis steel company, and logged him in the sweep file as "do not re-run bare".
+
+He was in this repo. Under his own name. With his job title and his start year. In the series whose
+1893-97 volumes had been sitting in `sources/cache/ymca-yearbooks/` since the previous day.
+
+That is **rule 21 for the second time in an hour** — a source marked READ is read FOR SOMETHING —
+and this time it is aimed at the name sweep's own method rather than at somebody else's earlier
+pass. A zeroth step has been written into the sweep log: **before running a name against a corpus of
+millions of books, grep the cache.** One command, and it is where this project's own reading already
+is. Sixteen of the twenty-four names swept so far returned nothing usable from the corpus. At least
+one of them was here the whole time.
+
+*(With a practical caveat learned in the same hour: use word boundaries. A first cache-grep pass
+matched "Devereaux" for Ereaux and the noun "spinneys" for Spinney, and both looked like hits.)*
