@@ -1,8 +1,8 @@
 {
-  "version": "6.43",
-  "kb_version": "6.43",
+  "version": "6.44",
+  "kb_version": "6.44",
   "migrated_from": "3.3",
-  "fact_count": 4846,
+  "fact_count": 4847,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -86934,6 +86934,27 @@
       "date_ref": "1900-12-10",
       "conflicts_with": [],
       "added_version": "6.43",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4885",
+      "claim": "THE 1900 CAMP HAD THREE COMMITTEES AND TWO CLIENTELES, AND THE TWO 1900 REPORTS FIT TOGETHER. The two Current/Junior camp reports digitized from 1900 are complementary, not duplicates, and read together they show how the Lac St. Joseph camp was actually run. A PERMANENT CAMP COMMITTEE sat above the season; a CURRENT CAMP COMMITTEE ran the ADULT MEMBERS' camping and reported to it on 10 December 1900 (f_4879) -- the 24 May party of twenty-four senior Association men, the summer party, the September fall party of twelve; and a JUNIOR CAMP COMMITTEE ran the BOYS' CAMP, reporting on 30 November 1900 that it was held 28 June to 14 July with 45 boys, 6 leaders and 17 visitors under Mr. Calhoun and Mr. Brown, in six tents, with eleven wet days out of sixteen and a balance of $5.05 (f_4848). SO ONE SITE CARRIED TWO PROGRAMMES IN DIFFERENT WEEKS OF THE SAME SUMMER, each with its own committee and its own annual report. That is the same two-stream structure the 1894-95 annual report shows at the very beginning (f_2141), still running six seasons later, and it is why a single 'attendance' figure for these years is the wrong shape of question. Both committees complained about the cook, independently, in the same season.",
+      "sources": [
+        "src_ia_seventh_annual_report_current_camp_1900",
+        "src_ymf_1900_11_30_report_of_the_junior_camp_committee"
+      ],
+      "confidence": "stated",
+      "category": "history",
+      "entities": [
+        "Permanent Camp Committee",
+        "Current Camp Committee",
+        "Junior Camp Committee",
+        "Lac St. Joseph",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1900",
+      "conflicts_with": [],
+      "added_version": "6.44",
       "added_by": "ralph_loop"
     }
   ]

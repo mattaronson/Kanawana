@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 19*
+*Status: E1-reviewed | Sources: 20*
 *Last Updated: 2026-09-06*
 
 ## Overview
@@ -35,6 +35,16 @@ images were read by eye and transcribed on 6 September 2026.^19
 *Two committees, not one.* The report's address establishes that the association ran a **Permanent Camp
 Committee** and a **Current Camp Committee**, the second reporting annually to the first — and that the
 series was already in its seventh year in 1900, which puts its first at 1894.^19
+
+*Three committees, and two clienteles on one site.* The other 1900 report digitized from this fonds is
+the **Report of the Junior Camp Committee, 30 November 1900**, and the two are complementary rather than
+duplicates. The Junior committee ran the **boys' camp** — 28 June to 14 July, 45 boys, 6 leaders and 17
+visitors under Mr. Calhoun and Mr. Brown, six tents, eleven wet days out of sixteen, and a closing
+balance of $5.05. The Current committee ran the **adult members'** camping in the other weeks of the same
+summer. So one lake carried two programmes with two committees and two annual reports, six seasons after
+the association's first report shows the same two-stream shape — which is the real reason a single
+attendance number for these years is the wrong question to ask.^19 ^20 Both committees complained about
+the cook, independently, in the same season.
 
 **"We think we have come through the banner year in the Camp's history."** Three parties went out. The
 **24 May party** was twenty-four of the association's most prominent men, "including the President,
@@ -207,6 +217,7 @@ Camp Otoreke closed in 1982 after nearly 90 years of continuous operation.^1 The
 17. Concordia University Archives, YMCA of Montreal fonds P145/12H — Ski lodge (finding aid) [src_concordia_mirror_12h]. Static-HTML mirror, fetched and extracted 2026-08-25. See [f_2259].
 18. Concordia University Archives, YMCA of Montreal fonds P145/12C01–12C07 (finding aids) [src_concordia_mirror_12c01, src_concordia_mirror_12c02, src_concordia_mirror_12c03, src_concordia_mirror_12c04, src_concordia_mirror_12c05, src_concordia_mirror_12c07]. Same walk. See [f_2258].
 19. "Seventh Annual Report of the Current Camp Committee," YMCA of Montreal, 10 December 1900, 8 pp. manuscript [src_ia_seventh_annual_report_current_camp_1900]. Digitized in the `ymca-montreal-fonds` collection with no OCR layer, because it is cursive; the page images were read by eye and transcribed 2026-09-06 (p_288), cached at `sources/cache/ymca-montreal-fonds/1900-12-10-seventh-annual-report-current-camp-committee.txt`. Leaves 3, 4, 6 and 8 of the scan are inverted 180 degrees. See [f_4879], [f_4880], [f_4881], [f_4882], [f_4883], [f_4884].
+20. "Report of the Junior Camp Committee, 1900," YMCA of Montreal, 30 November 1900 [src_ymf_1900_11_30_report_of_the_junior_camp_committee]. Typed, with an OCR layer, and already in this project's knowledge base; read here beside the Current Camp Committee report of ten days later. See [f_4848], [f_4885].
 
 ## Research Notes
 
