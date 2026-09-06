@@ -241,9 +241,32 @@ THREE PIECES OF ADVICE, THE FIRST OF WHICH IS NEW AND COST SOMETHING.
   context, or use [[:space:]]\+ between the parts; never grep a multi-word name with single spaces
   and then record the zero as a fact about the world.)
 
-TWO MORE PIECES OF ADVICE FROM THE NAMES ALREADY RUN. Names that are common in English (Crawford,
-Holliday) return hundreds of hits about other people and should be paired with "Montreal",
-"Y.M.C.A." or "Kanawana" from the start. Names that are rare (Ereaux, Hanagan, Brandon with
+TWO MORE PIECES OF ADVICE FROM THE NAMES ALREADY RUN, THE FIRST OF WHICH WAS WRONG.
+[CORRECTED 2026-09-06 by testing it.] This file used to say: 'Names that are common in English
+(Crawford, Holliday) return hundreds of hits about other people and should be paired with
+"Montreal", "Y.M.C.A." or "Kanawana" from the start.'
+
+PAIRING WITH A CONTEXT WORD DOES NOT DISAMBIGUATE IN THIS API. Multiple quoted phrases are ANDed
+ACROSS THE WHOLE ITEM, not required to appear near each other. '"W. J. Holliday" "Montreal"' was
+run with paging on 2026-09-06: 134 hits, and every one examined is still the INDIANAPOLIS ART
+COLLECTOR AND RARE-BOOK MAN of the earlier sweep — the Indianapolis Museum of Art donor, the
+neo-impressionist collection, the Plains-and-Rockies bibliography — with "Montreal" matching
+somewhere else entirely in the same volume, usually in a bibliography of Canadiana. The pairing
+narrowed 243 hits to 134 and changed nothing about who they are.
+
+SO: pairing with "Kanawana" is worth doing, because the word is rare enough that co-occurrence in
+one book means something. Pairing with "Montreal" or "Y.M.C.A." is nearly worthless — both are
+common enough to co-occur with anything Canadian. For a common name, the honest options are to
+page the whole result set and read it, or to find a source where the man is likely to be indexed
+and search THAT, which is what actually worked for Harold C. Cross (the International Council of
+Religious Education Yearbooks) and for W. J. Holliday himself (this repo's own cache).
+
+AND THE HOLLIDAY NULL NOW STANDS PROPERLY: the Montreal YMCA's W. J. Holliday is not in this book
+corpus under that name. The earlier sweep reached the right conclusion by a method that could not
+have supported it; it is now supported. (One caveat on that run: page 4 of 7 returned an empty
+body, so 100 of the 134 were collected, not all of them.)
+
+THE SECOND PIECE OF ADVICE STANDS. Names that are rare (Ereaux, Hanagan, Brandon with
 initials) return zero, and a zero here is a fact about a book corpus and not about the world — these
 men are in city directories, church records and newspapers that the Internet Archive's book
 collection does not contain.

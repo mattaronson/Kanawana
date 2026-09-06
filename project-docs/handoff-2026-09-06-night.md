@@ -290,6 +290,26 @@ one large cluster is **the Tapirapé term for thunder**, one is **Kiri Te Kanawa
 **Kanawha River**, one is a Japanese word in Hepburn's dictionary, and one is **Kanawa Magazine**
 of the Canadian Recreational Canoeing Association behind an OCR'd second "na".
 
+## 28. Two quoted phrases are ANDed across the whole book, not near each other
+
+The sweep log advised pairing a common name with "Montreal", "Y.M.C.A." or "Kanawana" to cut the
+noise. **Tested, and it does not work for the first two.** `"W. J. Holliday" "Montreal"` returns
+134 hits, and every one is still the Indianapolis art collector who swamped the bare-name search —
+"Montreal" is matching in a bibliography of Canadiana somewhere else in the same volume. The
+pairing narrowed 243 to 134 and changed nothing about whose hits they are.
+
+Pairing with **"Kanawana"** is worth doing: the word is rare enough that co-occurrence in one book
+means something. Pairing with a common word is nearly worthless.
+
+**For a common name, the two honest options are to page the whole result set and read it, or to
+find a source where the man is likely to be indexed and search that instead.** Both of today's
+biographical wins came from the second: Harold C. Cross turned up by running his name against the
+International Council of Religious Education's *Yearbook* series, and W. J. Holliday was in this
+repo's own cache. Neither came from a cleverer query against the whole corpus.
+
+The one good by-product is that the Holliday null now stands on a method that can support it: the
+Montreal YMCA's W. J. Holliday is not in that book corpus under that name.
+
 ## Open questions for Matt
 
 Carried forward: whether the Pip-committee work belongs in `people/matt-aronson.md`; whether there is

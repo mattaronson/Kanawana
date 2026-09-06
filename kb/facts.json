@@ -1,8 +1,8 @@
 {
-  "version": "7.21",
-  "kb_version": "7.21",
+  "version": "7.22",
+  "kb_version": "7.22",
   "migrated_from": "3.3",
-  "fact_count": 4961,
+  "fact_count": 4962,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -89275,6 +89275,22 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5000",
+      "category": "methodology",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Open Library",
+        "W. J. Holliday",
+        "Kanawana wiki project"
+      ],
+      "claim": "PAIRING A COMMON NAME WITH A CONTEXT WORD DOES NOT DISAMBIGUATE IN THE SEARCH-INSIDE API, AND THIS PROJECT'S SWEEP LOG ADVISED DOING EXACTLY THAT. Multiple quoted phrases are ANDed ACROSS THE WHOLE ITEM; they are not required to appear near one another. Tested: '\"W. J. Holliday\" \"Montreal\"' run with paging returns 134 hits, and every one examined is the INDIANAPOLIS ART COLLECTOR AND RARE-BOOK MAN who dominated the earlier bare-name sweep -- the Indianapolis Museum of Art donor, the neo-impressionist collection, the Plains-and-Rockies bibliography -- with 'Montreal' matching somewhere else in the same volume, usually in a bibliography of Canadiana. The pairing narrowed 243 hits to 134 and changed nothing about whose they are. THE ADVICE IN sources/cache/name-sweep/2026-09-06-directors-index-name-sweep.txt -- 'names that are common in English should be paired with Montreal, Y.M.C.A. or Kanawana from the start' -- IS CORRECTED IN PLACE. Pairing with 'Kanawana' is worth doing, the word being rare enough that co-occurrence in one book means something. Pairing with 'Montreal' or 'Y.M.C.A.' is nearly worthless. FOR A COMMON NAME THE HONEST OPTIONS ARE TO PAGE THE WHOLE RESULT SET AND READ IT, OR TO FIND A SOURCE WHERE THE MAN IS LIKELY TO BE INDEXED AND SEARCH THAT -- which is what actually worked twice on 2026-09-06: Harold C. Cross was found by running his name against the International Council of Religious Education's Yearbook series (f_4999), and W. J. Holliday was found in this repo's own cache. A USEFUL BY-PRODUCT: the Montreal YMCA's W. J. Holliday is NOT in this book corpus under that name. The earlier sweep reached that conclusion by a method that could not have supported it; it is now supported. One caveat on the run: page 4 of 7 returned an empty body, so 100 of the 134 were collected rather than all.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.22",
       "added_by": "ralph_loop"
     }
   ]

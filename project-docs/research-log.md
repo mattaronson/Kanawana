@@ -6140,3 +6140,29 @@ after his YMCA history; the identification is name and province only and is not 
 Georgian Spirit: The Story of Sir George Williams University* (1967) — the YMCA's own university,
 later Concordia — thanks "my friend, Mr. Harold C. Cross, dedicated professional leader and
 historian". Those are the obvious next reads on him.
+
+### The disambiguator doesn't disambiguate
+
+Having found that the API pages, I went back to the flagship case in the sweep log: W. J.
+Holliday, logged as "243 hits about an Indianapolis art collector, do not re-run bare". The log's
+own advice was to pair common names with "Montreal", "Y.M.C.A." or "Kanawana".
+
+**It does not work, and the reason is structural.** Two quoted phrases are ANDed *across the whole
+item*; they need not appear near one another. `"W. J. Holliday" "Montreal"` returns 134 hits, and
+every one examined is still the Indianapolis collector — the Museum of Art donor, the
+neo-impressionist collection, the Plains-and-Rockies bibliography — with "Montreal" matching in a
+bibliography of Canadiana elsewhere in the same volume. The pairing cut 243 to 134 and changed
+nothing about whose they are.
+
+Pairing with "Kanawana" is worth doing; the word is rare enough that co-occurrence means
+something. Pairing with "Montreal" or "Y.M.C.A." is nearly worthless. The log's advice is
+corrected in place.
+
+**What actually worked today was the other approach**: find a source where the man would be
+indexed and search *that*. Harold C. Cross came out of the International Council of Religious
+Education's *Yearbook* series, not out of a cleverer corpus query. W. J. Holliday came out of this
+repo's own cache. Neither was a search-technique win.
+
+One good by-product: the Holliday null now rests on a method that can support it. The Montreal
+YMCA's W. J. Holliday is not in that book corpus under that name — which the earlier sweep
+concluded correctly on evidence that could not have carried it.
