@@ -1,6 +1,6 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 32*
+*Status: E1-reviewed | Sources: 33*
 *Last Updated: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *Last Updated: 2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
 *Last Updated: 2026-07-05 (named trip staff added from photo-mined canoe-trip plaques, p_191 ENRICH pass) — photo gallery added 2026-07-02*
@@ -174,6 +174,70 @@ its requirements "perfectly."
 The director's closing recommendation: "I would strongly recommend Bob, Rusty, Frank and Keith for
 staff positions."
 <!-- /embargo:r_0003 -->
+
+### 1966: how a crew was made, and a camp with no rule about smoking
+
+Jack Soule hired five trippers and got four, "on account of the failure of one to report to camp" —
+**Mike Brennon, Udo Buechner, Ralph Fisher and Todd Sewell**, "all quite different and had different
+approaches to working with teens in a wilderness setting but were fairly equally successful."^33 The
+first period was full at 25 boys; the second took 17. Both sessions' campers are named in the
+report and are recorded in [f_5061].
+
+**Groups were made by interview on the way north.** Soule rode the bus from Montreal to Lac Landron
+with the first session "and so was able to interview them and divide them into groups accordingly…
+mainly on the basis of preferences stated by the boys. It worked quite well and there was only one
+instance in which a change had to be made on account of personality clashes."^33
+
+A week of training was held at Kanawana — background, "the philosophy for working with teens," skills,
+first aid, equipment — and Soule wanted it cut short, because the week at Landron before the campers
+arrive "offers plenty of opportunity to go over such topics. **The setting along with getting the
+camp set up makes the sessions all the more pertinent.**" The first three days of each period then
+trained canoeing, swimming, packs and bedrolls, "use of axes, knives and machetes," campsite choice
+and fires, and map and compass.^33
+
+Three incidents are recorded plainly. A boy hitch-hiked for Montreal three days before the end,
+"prompted partially by desire to leave and partially by the adventuresome aspect" — both tripper and
+director had talked him out of it and "evidently he had fooled us"; he arrived home safely. Two boys
+went to hospital in Maniwaki in the second camp, one with a hand hurt "treking a set of rapids,"
+neither seriously. And the camp discovered it had no rule for something: "**One problem that occurred
+both periods was smoking.** Since we had not asked for any evidence from the parents stating whether
+or not they allowed their son to smoke we had no effective means of control… so that camp does not
+become a place for boys to gain the smoking habit."^33
+
+One worry dates the document exactly: "In the coming year with **Expo** in the spotlight it may prove
+increasingly difficult to obtain a full camp," so Soule proposed a package for out-of-province boys
+who would see the World's Fair before or after camp.^33
+
+### 1969 and 1973: the property at risk, and the absorption already working
+
+**By 1969 the base camp was a small settlement** — a large log cabin serving as the staff tent
+platform, a new oval cabin sleeping two, a supply shed "screened enough except for mice and
+squirrels," a garbage pit twelve feet deep needing a roof "to prevent people falling in," and **a new
+steam bath, capacity six, at 140°F**.^33 David Blake notes the year's work was lighter than usual,
+"a possible reflection of our **philosophical shift from active involvement to meditative
+detachment**" — the 1963 philosophy of not-programming, restated six years on.
+
+**And the site was under threat.** "It should be noted that construction of a cabin has begun on one
+of the islands down the lake and **mining claims were restaked in the base camp area. A good look
+should be taken at steps necessary to lease the property before we lose it by default.**"^33 The
+lease urged in 1963 and again in 1966 was still not taken in 1969. Tourists were a nuisance and
+firearms were being discharged nearby.
+
+**The 1973 final report is written for the next director**, and it tries to give the camp a memory:
+"An effort was started this year to compile helpful records for future staff rather than relying on
+discussions with former staff entirely. Trip reports, camper cards, equipment catalogues,
+brainstorming idea list, maps indexes, food lists, inventory, canoe damage report were made or
+assembled."^33 It names whom to ask — former staff **Hugh Dow** and **Paul Mongraw**, present staff
+**Richard Tarlo** and **Don Lawton**.
+
+And the absorption Mongraw would forecast a year later is already operating: "the use of in-camp
+staff for Voyageur program should be discouraged although this year **Jeff Roberts** worked well (in
+borrowing him from his section directorship). **The splitting of a tripper's time between Voyageurs
+and Hike & Trip works well** where either faction can only use the services of the individual for
+part of the summer."^33
+
+*One cross-reference worth the check:* **Richard Tarlo** is a camper on the 1966 first-session list
+and Voyageur staff in 1973 — a camper-to-staff path documented across two reports seven years apart.
 
 ### 1967: a director's report from Lac Landron
 
@@ -653,3 +717,4 @@ This is the only itemised cost of a 1920s Canadian canoe trip found by this proj
 30. "Les Voyageurs de LaVerendrye — Report on Summer 1974", signed Paul Mongraw, Director 1974 [src_ymf_1974_les_voyageurs_de_la_verendrye_report_on_summer]. Read whole 2026-09-06 under p_441. See [f_5054] and [f_5055]. **One numbered policy item is embargoed as register entry r_0004** — a sustained criticism of an unnamed Kanawana caretaker, recoverable from any staff roster of the season and therefore an identification by inference.
 31. "Les Voyageurs de la Vérendrye, report for 1979", signed Robert D. Woodhouse, Director [src_ymf_1979_les_voyageurs_de_la_verendrye_report]. Read whole 2026-09-06 under p_441. See [f_5057] and [f_5058]. **More than half the report is named individual staff evaluations, embargoed as register entry r_0005** (review 2060); the names and roles are recorded openly, the judgements are not.
 32. "Les Voyageurs de la Vérendrye, Director's Report 1970", signed Yves St. Pierre, Director '70 [src_ymf_1970_les_voyageurs_de_la_verendrye_directors_report]. Read whole 2026-09-06 under p_441. See [f_5059] and [f_5060].
+33. Les Voyageurs de la Vérendrye reports for **1966** (signed Jack Soule), **1969** (David Blake) and **1973** (John Evans, final report, 19 August) [src_ymf_1966_les_voyageurs_de_la_verendrye_report, src_ymf_1969_les_voyageurs_de_la_verendrye_report, src_ymf_1973_08_19_les_voyageurs_de_la_verendrye_final_report]. All three read whole 2026-09-06 under p_441, completing the run. See [f_5061] and [f_5062].

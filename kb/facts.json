@@ -1,8 +1,8 @@
 {
-  "version": "7.52",
-  "kb_version": "7.52",
+  "version": "7.53",
+  "kb_version": "7.53",
   "migrated_from": "3.3",
-  "fact_count": 5022,
+  "fact_count": 5024,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -90534,6 +90534,50 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.52",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5061",
+      "category": "programs",
+      "date_ref": "1966",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "Jack Soule",
+        "Lac Landron",
+        "Kamp Kanawana"
+      ],
+      "claim": "THE 1966 SEASON, WITH BOTH SESSIONS' CAMPERS NAMED. Jack Soule's report: five trippers were hired 'but we had to make do with four for the two sessions on account of the failure of one to report to camp'. THE FOUR: MIKE BRENNON, UDO BUECHNER, RALPH FISHER and TODD SEWELL, 'first-rate staff members... all quite different and had different approaches to working with teens in a wilderness setting but were fairly equally successful'. ENROLMENT: 'the first period was full with 25 BOYS taking part while there were only 17 in the last session.' THE CAMPERS, 29 JUNE TO 27 JULY: Don Bailey, Clark Hopkins, Tom Moyle, Jon Van Den Berg, John Hackney, Howard Lewis, DEREK SEAMAN, Pierre Provost, Bruce Robb, Paul Wittes, RICHARD TARLO, Paul Stevenson, BILL FINLAY, Andre Brassard, Ted Hopkins, Kevin Cadloff, Dave Morrow, Glen Miles, Chris Dumper, Pierre Brassard, John Graham, Brad Elliott, Robert Lanoue, Jonathan Bushnell, Scott Hoover. 31 JULY TO 21 AUGUST: Bill Finlay, Ian MacLaren, Tim Bowman, Mikael Stoffregen, Terry Tustin, John Graham, Brian Wallace, David Wheatley, Harold Forsberg, David Lewis, Gilbert Sansoucy, Bruce Hatcher, Phil Mitchell, Jacques Godbout, Tony Theodosis, Philip Bushnell, Barry Norris. HOW GROUPS WERE MADE: the director rode the bus from Montreal to Lac Landron with the first session 'and so was able to interview them and divide them into groups accordingly... mainly on the basis of preferences stated by the boys. It worked quite well and there was only one instance in which a change had to be made on account of personality clashes.' TRAINING: a week at Kamp Kanawana covering 'the background of the camp; the philosophy for working with teens; skill sessions; a first aid session and preparation of the equipment' -- which Soule wants shortened, because the week at Lac Landron before the campers arrive 'offers plenty of opportunity to go over such topics. THE SETTING ALONG WITH GETTING THE CAMP SET UP MAKES THE SESSIONS ALL THE MORE PERTINENT.' The first three days of each period trained canoeing (tipping, strokes, packing, portaging), swimming, equipment (including 'use of axes, knives and machetes'), campsite choice and fires, and map and compass. THREE INCIDENTS, all recorded plainly: a boy who 'decided to hitch hike down to Montreal on his own' three days before the end, 'prompted partially by desire to leave and partially by the adventuresome aspect' -- both tripper and director had talked him out of it and 'evidently he had fooled us', and 'fortunately he arrived home safely'; and two boys taken to hospital in MANIWAKI in the second camp, one with a hand injured 'treking a set of rapids' and one with abdominal pain, neither serious. AND A PROBLEM THE CAMP HAD NO RULE FOR: 'One problem that occurred both periods was SMOKING. Since we had not asked for any evidence from the parents stating whether or not they allowed their son to smoke we had no effective means of control. Next year we must make sure that this matter is mentioned in the literature SO THAT CAMP DOES NOT BECOME A PLACE FOR BOYS TO GAIN THE SMOKING HABIT.' A MARKETING WORRY DATED TO ITS YEAR: 'In the coming year with EXPO in the spotlight it may prove increasingly difficult to obtain a full camp', so Soule proposes 'a package plan for \"out-of-the-province\" boys by which they would visit the World's Fair either prior to or following camp.'",
+      "sources": [
+        "src_ymf_1966_les_voyageurs_de_la_verendrye_report"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.53",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5062",
+      "category": "site",
+      "date_ref": "1969-1973",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "Lac Landron",
+        "David Blake",
+        "John Evans",
+        "Richard Tarlo",
+        "Paul Mongraw",
+        "Hugh Dow",
+        "Kamp Kanawana"
+      ],
+      "claim": "THE BASE CAMP BUILT UP AND THE LEASE STILL NOT TAKEN, AND THE ABSORPTION VISIBLE IN THE 1973 STAFFING. THE 1969 REPORT lists what was on the ground at Lac Landron: a large log cabin unworked for a year whose floor 'is not strong enough to support the weight of the walls' and which had served three summers as the main staff tent platform; a new oval log cabin about fifteen by thirteen feet sleeping two, with a fireplace, needing tarpaper; A NEW STEAM BATH, 'capacity 6 people (140 F)'; a new garbage pit twelve feet deep needing a roof 'to prevent people falling in'; and a completed supply shed 'screened enough except for mice and squirrels'. Blake notes the work was lighter than in past summers, 'A POSSIBLE REFLECTION OF OUR PHILOSOPHICAL SHIFT FROM ACTIVE INVOLVEMENT TO MEDITATIVE DETACHMENT' -- which is the 1963 philosophy of not-programming (f_5051) restated six years on. AND THE PROPERTY WAS UNDER PRESSURE: 'it should be noted that CONSTRUCTION OF A CABIN HAS BEGUN ON ONE OF THE ISLANDS down the lake and MINING CLAIMS WERE RESTAKED IN THE BASE CAMP AREA. A GOOD LOOK SHOULD BE TAKEN AT STEPS NECESSARY TO LEASE THE PROPERTY BEFORE WE LOSE IT BY DEFAULT.' So the lease urged in 1963 and again in 1966 was still not taken in 1969 (f_5052). Tourists were a problem and firearms were being discharged near the camp. THE 1973 FINAL REPORT, signed John Evans on 19 August, is written for the next director and records an attempt to institutionalise the camp's memory: 'AN EFFORT WAS STARTED THIS YEAR TO COMPILE HELPFUL RECORDS FOR FUTURE STAFF RATHER THAN RELYING ON DISCUSSIONS WITH FORMER STAFF ENTIRELY. Trip reports, camper cards, equipment catalogues, brainstorming idea list, maps indexes, food lists, inventory, canoe damage report were made or assembled.' It names who to consult -- former staff HUGH DOW and PAUL MONGRAW, present staff RICHARD TARLO and DON LAWTON. AND THE ABSORPTION IS ALREADY OPERATIONAL: 'the use of in-camp staff for Voyageur program should be discouraged although this year JEFF ROBERTS worked well (in borrowing him from his section directorship). THE SPLITTING OF A TRIPPER'S TIME BETWEEN VOYAGEURS AND HIKE & TRIP WORKS WELL where either faction can only use the services of the individual for part of the summer.' Evans also insists Voyageur equipment 'must be restricted to Voyageur program alone', and reports 'very minimal damage... due to a policy of prudence in trekking, shooting and portaging', with the adventurous part of white-water work explicitly not part of a trip. ONE CROSS-REFERENCE WORTH THE CHECK: RICHARD TARLO is a camper in the 1966 first-session list (f_5061) and Voyageur staff in 1973 -- a camper-to-staff path documented across two reports seven years apart.",
+      "sources": [
+        "src_ymf_1969_les_voyageurs_de_la_verendrye_report",
+        "src_ymf_1973_08_19_les_voyageurs_de_la_verendrye_final_report",
+        "src_ymf_1966_les_voyageurs_de_la_verendrye_report"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.53",
       "added_by": "ralph_loop"
     }
   ]
