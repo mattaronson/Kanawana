@@ -332,6 +332,30 @@ capitalised phrases (a second attempt matched "New York" and "Park Avenue"). *Vo
 diagnosed by grepping `Morry Cross`, `Willingdon Room` and `John Houseman`, absent, against
 `Farewell Rock` and `Sandy Spence`, present.
 
+## 30. Run `scripts/verify/all.py`, and never a hand-rolled loop
+
+The seven checks have always been run by hand. On 2026-09-06 the shell loop being
+used for it turned out to **print "FAIL" while returning success** — so a
+`... && git commit && git push` chain after it pushed a commit that CI failed on
+A2 ninety seconds later.
+
+Put that in proportion, because the first version of this note overstated it: **CI
+was gating all along** and caught it immediately. `.github/workflows/verify.yml`
+runs all seven on every pull-request push. What the ungated local loop cost was a
+red commit in the branch history, not an undetected regression.
+
+`scripts/verify/all.py` now runs the same seven, in CI's order, and **exits
+nonzero**. Use it. `--verbose` prints every check's output; by default it prints
+one line each and the full output of anything that fails. It was tested by
+deliberately breaking `articles.json` and confirming exit 1, because a gate nobody
+has seen fail is just a display that hasn't been contradicted yet — which is the
+whole point of this rule.
+
+And on the A2 itself: the class name is not self-explanatory. **A2 fires in both
+directions.** The one that bit here was a source sitting in `articles.json`'s
+`sources_cited` and **never cited in the article** — because that article cites
+fact ids, `[f_5002]`, not source ids. Read the message, not the class.
+
 ## Open questions for Matt
 
 Carried forward: whether the Pip-committee work belongs in `people/matt-aronson.md`; whether there is
