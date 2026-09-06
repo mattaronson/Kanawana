@@ -12,11 +12,11 @@ operating contract, and it has been amended twice.
 ## Where things stand
 
 `origin/main` is at **`c5cbdd6`**. **PR #10** (`claude/kanawana-research-continue-spy7u9`)
-is open as a draft with **19 commits**, green on every commit, mergeable clean, no review
+is open as a draft with **25 commits**, green on every commit, mergeable clean, no review
 threads. Its 247k insertions are almost entirely five cached Internet Archive volumes;
 the wiki and data changes are small.
 
-**All six verify scripts pass.** Two changed today:
+**All seven verify scripts pass.** Three changed today and one is new:
 
 ```
 python3 scripts/verify/data_integrity.py      # blocking — now also asserts articles.json
@@ -29,9 +29,9 @@ python3 scripts/verify/restricted_guard.py    # blocking
 python3 scripts/verify/footnote_labels.py     # advisory — NEW, added 2026-09-05 evening
 ```
 
-Totals: **4,827 facts** (KB v6.38) · **63 conflicts** (32 open) · **1,580 sources** ·
+Totals: **4,832 facts** (KB v6.40) · **63 conflicts** (32 open) · **1,580 sources** ·
 **106 articles** (50 E1-reviewed, 9 R3-verified, 44 draft, 3 stub) ·
-**133 pending priorities** of 420.
+**129 pending priorities** of 420.
 
 `scripts/wiki/build_article_counts.py` is new. Run it after every article edit;
 `data_integrity.py` fails if `wiki/articles.json` differs from what it produces.
@@ -107,6 +107,18 @@ sentence with the tenses changed) · p_327 · p_336 · p_370 (stale, not open) �
 (nine orphaned movement figures folded in) · p_412's tail · p_414 (MacSween stub) ·
 p_374 and p_375 blocked with routes named.
 
+**Also closed after the first draft of this handoff:** p_395 (the 1979 leave-no-trace
+sequence written into `canoe-trips.md`, where the chronology had a hole exactly at 1979 —
+Kanawana joined that movement, it did not lead it) · p_377 (Madelene Allen's 1974 account
+of a Quebec standards visitation, placed in `cit-lit-program.md` because the striking half
+is that she handed her CITs the standards *and the marking scheme* and had them audit the
+camp) · p_378 (the January 1975 CCA Directory: Kanawana's entry field by field, 90 boys
+and 90 girls 8–15 under Derek Walsh, and the Quebec section's 64 camps, in which
+Kanawana's 1894 is the earliest founding year by twelve years) · p_351 (Kanawana's songs
+against Jack Pearse's 1970 taxonomy: Kum Bah Yah and the Stephen Foster songs are the
+movement's common stock, and the camp's own songs are exactly what Pearse told leaders to
+invent).
+
 **New articles:** `people/jared-macsween.md` (stub), `people/tony-shorgan.md` (draft).
 
 **New conflict:** **c_063** — Camp Stephens's own 125th-anniversary chapel service dates
@@ -131,10 +143,12 @@ Only a human can do these — surface them to Matt, don't grind:
   detailed description of the rituals" survives. It is the version Kanawana's leaders
   were taught, between Seton's book and the camp's own script.
 
-Research an agent can still do — **the queue is not exhausted**: 45 pending items at
-weight ≥7 were never opened this session, and several are workable from the cached
-*Canadian Camping* run alone (p_351, p_377, p_378, p_395, p_326). Do not assume from a
-handoff that the top of the queue is archive-blocked; open them and look.
+Research an agent can still do — **the queue is not exhausted**. Four of the five items
+named here as workable from the cached *Canadian Camping* run alone were done in the hour
+after this paragraph was first written (p_351, p_377, p_378, p_395); **p_326** — the ACQ's
+*Annuaire 82* — is still open, and about forty other pending items at weight ≥7 have never
+been opened. Do not assume from a handoff that the top of the queue is archive-blocked.
+Open them and look: that inference was made once already in this session and was wrong.
 
 ## Open questions for Matt
 
