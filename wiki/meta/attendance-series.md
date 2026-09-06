@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 16*
+*Status: draft | Sources: 17*
 *Last Updated: 2026-09-06 (the 1916 fee and season, from a school magazine advertisement)*
 
 ## Overview
@@ -245,10 +245,18 @@ association used four different year-ends across the run; see [f_5081] and the g
 
 - **30 April**, through the 1925 report — season is the previous summer.
 - **31 March**, from 1926 through 1950 — season is the previous summer.
-- **31 December**, from the 100th report (1951) through about 1962 — **season is the report's own year.**
-- **31 May**, from somewhere in 1963–64 through 1989 — season is the previous summer.
+- **31 December**, from the 100th report (1951) through the 111th (1962) — **season is the report's own year.**
+- **31 May**, from the 112th report (year ended 31 May 1964) through 1989 — season is the previous summer.
 
-Only the December window inverts. The cache filenames are no guide either: the file named 1963 is
+Only the December window inverts. **Both changeovers are dated from the report ordinals, which run
+consecutively across them, so no volume is missing**: the 100th report spans twenty-one months,
+1 April 1950 to 31 December 1951, and the 112th spans seventeen, 1 January 1963 to 31 May 1964.^17
+
+**This is why the 1950 row below is empty.** The summer of 1950 sits inside the 100th report's
+twenty-one months, and the report describes one summer — "in spite of an unusually wet summer,
+aggregate attendance at Kamp Kanawana was above the previous year," which reads as 1951 measured
+against 1950. The 1950 season is not described anywhere in the series. The hole is real, not an
+artefact of which volumes were digitized, and no further reading of these reports will fill it.^17 The cache filenames are no guide either: the file named 1963 is
 the report for the year ended 31 May 1964, while the one named 1984 is for the year ended 31 May
 1984. Read the title page.
 
@@ -321,6 +329,7 @@ Three things stand out and none of them is visible from any single article.
 14. YMCA of Montreal annual reports for the years ending **31 December 1953** and **31 December 1954** [src_ymf_sgw_ymca_annual_report_1953, src_ymf_sgw_ymca_annual_report_1954]. December-year volumes, so their seasons are 1953 and 1954 (see [f_5081]). Read 2026-09-06 under p_441. See [f_5083].
 15. YMCA of Montreal annual report for the year ending **31 December 1958** [src_ymf_sgw_ymca_annual_report_1958], the "Kanawana Statistics" table. Read 2026-09-06 under p_441. See [f_5085].
 16. YMCA of Montreal annual reports for the years ending **31 December 1955** and **31 December 1957** [src_ymf_sgw_ymca_annual_report_1955, src_ymf_sgw_ymca_annual_report_1957]. December-year volumes, so their seasons are 1955 and 1957 (see [f_5081]). Read 2026-09-06 under p_441. See [f_5086].
+17. The YMCA of Montreal annual report ordinals, which date both year-end changes and show no volume missing: the 97th (year ending 31 March 1948) through the 100th (31 December 1951), and the 109th through 113th (December 1960, 1961, 1962, then the years ended 31 May 1964 and 1965) [src_ymf_sgw_ymca_annual_report_1948, src_ymf_sgw_ymca_annual_report_1950, src_ymf_sgw_ymca_annual_report_1951, src_ymf_sgw_ymca_annual_report_1962, src_ymf_sgw_ymca_annual_report_1963]. Read 2026-09-06 under p_450. See [f_5090].
 
 ## Research Notes
 

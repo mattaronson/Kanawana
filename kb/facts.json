@@ -1,8 +1,8 @@
 {
-  "version": "7.73",
-  "kb_version": "7.73",
+  "version": "7.74",
+  "kb_version": "7.74",
   "migrated_from": "3.3",
-  "fact_count": 5051,
+  "fact_count": 5052,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91103,6 +91103,30 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.73",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5090",
+      "category": "methodology",
+      "date_ref": "1948-1964",
+      "entities": [
+        "YMCA of Montreal"
+      ],
+      "claim": "BOTH YEAR-END CHANGES ARE NOW DATED TO A VOLUME, FROM THE REPORT ORDINALS, AND NO VOLUME IS MISSING. f_5081 left open exactly when each change happened. The ordinals settle it because they run consecutively across both transitions. THE MARCH-TO-DECEMBER CHANGE. The 1948 volume is the NINETY-SEVENTH, for the year ending 31 March 1948; the 1950 volume is the NINETY-NINTH, 'FOR THE YEAR ENDING MARCH 31ST, 1950'; the 1951 volume is 'ONE HUNDREDTH', 'FOR THE YEAR ENDING DECEMBER 31ST, 1951'; the 1952 volume is 'one hundred and first'. Ninety-seventh to one hundredth is three volumes for three years, SO NOTHING IS MISSING, AND THE 100TH REPORT SPANS TWENTY-ONE MONTHS: 1 April 1950 to 31 December 1951. THE DECEMBER-TO-MAY CHANGE. The 1960, 1961 and 1962 volumes are the HUNDRED AND NINTH, TENTH and ELEVENTH, the last of them audited 'as at December 31, 1962'; the volume filed here as 1963 is the HUNDRED AND TWELFTH and is for the year ended MAY 31ST, 1964; the 1964 file is the '113TH'. Again consecutive, so again nothing is missing, AND THE 112TH REPORT SPANS SEVENTEEN MONTHS: 1 January 1963 to 31 May 1964. It contains one summer, 1963. WHAT THIS DOES TO THE SUMMER OF 1950. The 100th report's twenty-one months contain TWO summers, 1950 and 1951, AND IT DESCRIBES ONE: 'In spite of an unusually wet summer, aggregate attendance at Kamp Kanawana was above the previous year.' meta/attendance-series.md reads that as the 1951 season with 1950 as the comparison, which is the natural reading of a report written at the end of 1951, AND IT IS STILL A READING RATHER THAN A STATEMENT. THE SUMMER OF 1950 IS THEREFORE NOT DESCRIBED ANYWHERE IN THIS SERIES, and the gap in the attendance table is real rather than an artefact of which volumes are cached. ONE COMPLICATION RECORDED AND NOT RESOLVED: the 100th report's balance sheet carries a comparative column headed 1950 and a line reading 'Balance December 31, 1950', so THE ASSOCIATION STRUCK ACCOUNTS AT 31 DECEMBER 1950 even though no report covers a year ending on that date. That is consistent with a twenty-one-month report showing an interim comparative, and it is also what one would expect if a nine-month stub statement existed that was never issued as a numbered annual report. I CANNOT TELL WHICH FROM THIS VOLUME.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1948",
+        "src_ymf_sgw_ymca_annual_report_1950",
+        "src_ymf_sgw_ymca_annual_report_1951",
+        "src_ymf_sgw_ymca_annual_report_1952",
+        "src_ymf_sgw_ymca_annual_report_1960",
+        "src_ymf_sgw_ymca_annual_report_1961",
+        "src_ymf_sgw_ymca_annual_report_1962",
+        "src_ymf_sgw_ymca_annual_report_1963",
+        "src_ymf_sgw_ymca_annual_report_1964"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.74",
       "added_by": "ralph_loop"
     }
   ]
