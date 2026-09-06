@@ -5828,3 +5828,24 @@ four converging fields.
 
 Still to do in p_437: the 1884, 1888 and 1890 volumes are downloaded and were never searched on
 the Cushing names — only 1886 and 1887 were.
+
+### And the tenure is eleven years, not one
+
+The remaining downloaded volumes were searched on the Cushing names, since they were already on
+disk. Charles Cushing is Quebec's corresponding member in **1887, 1888, 1891 and 1895**, and in
+the **1898** volume he signs the province's narrative report "Charles Cushing, Cor. Mem." With
+the 1893, 1894 and 1895 this wiki already had, that is seven documented years across at least
+eleven — **before, during and after** the 1892 Lake Saint-Joseph trip and the 1894 founding.
+
+So the finding is not "a Cushing was in the provincial chair five years before the trip". It is
+that a Cushing held that chair throughout the period in which the camp came into being. The
+family's presence in the association is continuous, not episodic.
+
+No Cushing appears in the 1882, 1884 or 1881-82 volumes.
+
+**One loose end, left loose.** This project also records that by the 1897 volume the office had
+passed to William Tees. The 1898 volume — title page verified as "NORTH AMERICA, FOR THE YEAR
+1898", so not a misdated statistics section — has Cushing signing again. That is not a
+contradiction: the statements are about different years, and a man can leave a post and return.
+But it means any handover was not permanent, and the 1896 and 1897 volumes want re-reading on
+both names before either version is treated as settled. Both are on disk.

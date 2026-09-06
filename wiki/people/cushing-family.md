@@ -1,7 +1,7 @@
 # The Cushing Family and YMCA Camping
 
 *Status: E1-reviewed | Sources: 14*
-*Last Updated: 2026-09-06 (Charles in the Quebec chair in 1887, and a probable name for Percy H.)*
+*Last Updated: 2026-09-06 (Charles in the Quebec chair from 1887 to 1898, and a probable name for Percy H.)*
 
 ## Summary
 
@@ -50,11 +50,15 @@ The 1905 genealogy contains no mention of Lake Saint-Joseph, camping, or YMCA ac
 
 This article had the family's YMCA involvement running from Lemuel Jr.'s presidency in 1867-68 to the annual reports of 1891 onward, with two decades in between unaccounted for. The YMCA's own continent-wide *Year Book*, read in September 2026, puts a Cushing in the association in both of the gaps that mattered.
 
-**Charles was the corresponding member for Quebec in 1887.**^14 That was the association's senior volunteer post in the province — held in the 1886 volume by D. A. Budge, the General Secretary himself, so Charles either succeeded him or they alternated. The table above records Charles as a notary and a Sun Life director with **no YMCA connection at all**, which is what this corrects.
+**Charles held the Quebec corresponding membership for at least eleven years, from 1887.**^14 That was the association's senior volunteer post in the province — held in the 1886 volume by D. A. Budge, the General Secretary himself, so Charles either succeeded him or they alternated. The table above records Charles as a notary and a Sun Life director with **no YMCA connection at all**, which is what this corrects.
+
+This wiki already had him in the chair in **1893, 1894 and 1895**.^13 The volumes now add **1887, 1888 and 1891** at the front, and the **1898** volume at the back, where he signs the province's annual narrative report "Charles Cushing, Cor. Mem."^14 So he is not a Cushing who appears in the provincial chair five years before the Lake Saint-Joseph trip. **He is a Cushing who holds it before, during and after the trip and the camp's founding.**
+
+*One loose end, left loose.* This article also records that by the **1897** volume the office had passed to **William Tees**.^13 The 1898 volume — whose title page reads "NORTH AMERICA, FOR THE YEAR 1898", so it is not a misdated statistics section — has Cushing signing again. That is not a contradiction, since a man can leave a post and return to it and the two statements are about different years, but it does mean any handover was not permanent. The 1896 and 1897 volumes want re-reading on both names before either version is treated as settled.
 
 The identification is by name, city, period and calling: Charles Cushing of Montreal, born Chatham 1848, McGill B.C.L. 1869, notary, and — in the 1905 genealogy's own words — "an active member of the Congregational Church" who "has always taken a leading part in promoting the interests of this body, both in its college and in its missionary efforts."^1 A professional man of thirty-nine, prominent in Protestant church work, is exactly who held that post. No source says outright that the Year Book's Charles Cushing is Lemuel Sr.'s son, and this is written as an identification rather than a fact.
 
-What it changes is the shape of the family's presence. **Five years before the 1892 Lake Saint-Joseph trip, a Cushing was the YMCA's senior Quebec volunteer** — which makes the family's involvement continuous across the period rather than a presidency in the 1860s and a reappearance in the 1890s with nothing between.
+What it changes is the shape of the family's presence. Across the whole founding period — the 1892 trip, the 1894 Camp Jubilee, the seasons after — **a Cushing was the YMCA's senior Quebec volunteer**, which makes the family's involvement continuous rather than a presidency in the 1860s and a reappearance in the 1890s with nothing between.
 
 **And "Percy H. Cushing" probably has a first name, a father, and a reason for disappearing.**^14 The *Year Book* volumes for 1894 and 1895 give Montreal's assistant secretaries as **Percy H. Cushing** and W. F. Chapman; from 1896 he is gone, C. K. Calhoun in his place. The 1905 genealogy already cited here gives, among the children of **Col. James Brock Cushing** — another of the eight sons — "**Percy Hill, b. 9 July 1872; d. 22 Dec. 1896**", born at Chatham.^1
 
