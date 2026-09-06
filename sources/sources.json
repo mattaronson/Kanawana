@@ -29791,7 +29791,25 @@
       "read_state": "partial",
       "read_state_basis": "NOT lending-restricted. Bound as the second half (scan lines 67821 onwards) of Internet Archive item yearbookyoungme01commgoog, whose catalogue record names only 1899; the year is read off this volume's own title page at scan line 67857. Downloaded and searched 2026-09-06 under p_433. 'Kanawana' occurs zero times. THE QUEBEC BRANCH DIRECTORY WAS READ and gives the Montreal roster in full; the volume's separate ALPHABETICAL LIST of paid officers is too OCR-degraded to read and was not used. The rest is unread.",
       "notes": "[CORRECTED 2026-09-06, within the hour. This record first said: 'REGISTERED FOR THE YEAR IT COVERS AND FOR AN ACCESS FAILURE, NOT FOR A FINDING... SO THE 1900 MONTREAL ROSTER IS UNKNOWN, AND THE VOLUME'S SILENCE ABOUT W. H. BALL IS A FACT ABOUT THE SCANNER AND NOT EVIDENCE THAT HE HAD LEFT THE POST. UNTRIED ROUTE: the item is not lending-restricted, so its page images are fetchable and would settle it.' THAT WAS WRONG. The volume lists the same staff TWICE -- an alphabetical list of paid officers and a branch directory by city. Only the alphabetical list is degraded. The branch directory reads cleanly and had not been looked at when the claim was written: the volume was searched in one section and the result generalised to all of it. No page images were needed.] THE MONTREAL ASSOCIATION'S PAID STAFF FOR 1900, from the Quebec branch directory: D. A. Budge, General Secretary; C. K. Calhoun, Assistant; F. E. Burness (OCR 'Buruess', and 'Burgeoii, F. B.' in the alphabetical list -- initials and surname both uncertain), Assistant, entered Association work 1899; John Roy (OCR 'John Hoy'), Assistant; W. H. BALL, JR., PHYSICAL DIRECTOR -- STILL IN POST, which bounds his departure to 1901-1905; F. S. Morrison, Railroad Department. THREE POSTS ARE VACANT OR UNNAMED: Junior Department (printed blank -- F. A. Crowe gone), McGill University (printed blank -- A. H. Grace gone), and there is NO EDUCATIONAL DIRECTOR LINE AT ALL, E. G. Randal having gone after 1899. A lead, not a finding: this volume lists a Randal, initials rendered 'E. O.', as secretary at a city the OCR gives as 'TaustoD', plausibly Taunton, Mass.; the identification with Montreal's E. G. Randal is NOT established. See f_4979."
+    },
+    {
+      "source_id": "src_ymca_yearbook_1898",
+      "type": "periodical",
+      "title": "Year Book of the Young Men's Christian Associations of North America, for the Year 1898 — Montreal roster",
+      "date": "1898",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/ymcayearbookand00assogoog",
+      "cache_path": "sources/cache/ymca-yearbooks/1898-ymca-year-book-montreal-roster.txt",
+      "char_count": 2301751,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "7.08",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "NOT lending-restricted. FIVE ANNUAL VOLUMES ARE BOUND IN INTERNET ARCHIVE ITEM ymcayearbookand00assogoog -- 1896, 1897, 1898, 1899 and 1900, each with its own title page -- and the catalogue record names only 1896. The full djvu text was downloaded 2026-09-06 under p_435, the volume boundaries found by scanning the whole text for title pages, and the 1898 volume's Quebec branch directory read. 'Kanawana' occurs zero times in the 1898 volume. The 1896, 1897, 1899 and 1900 volumes bound in the same scan were NOT re-read -- this project holds those years from other scans -- though they stand as independent second copies and may be legible where those are not. Nothing else in the item is read.",
+      "notes": "THE MONTREAL ASSOCIATION'S PAID STAFF FOR 1898, filling the last year of the 1898-1905 hole that had not been reached: D. A. Budge, General Secretary; C. K. Calhoun, Assistant; ARCHIBALD McKELLAR, Assistant; W. H. BALL, JR., Physical Director; C. B. POWTER, Assistant Physical Director; A. H. Grace at McGill University. THE FINDING: the Permanent Camp Committee's report in the Montreal annual report for the year ending 30 April 1899 names the 1898 senior camp's leaders as 'Messrs. A. MacKellar, C. B. Powter, A. R. Ross, and W. H. Ball' (f_4911, f_4913). THIS VOLUME GIVES THE FIRST OF THEM A FIRST NAME AND A JOB -- Archibald McKellar, Assistant Secretary of the Montreal YMCA -- and he appears in EXACTLY ONE of the five volumes in this scan, 1898, the same year the report puts him in charge of the camp. Three of the four camp leaders are in the same eight-line block of the directory; the fourth, A. R. Ross, is absent, consistent with the established pattern that the camp's volunteers and seasonal staff are systematically not in this series (f_4966). This volume has no alphabetical list with years of entry -- that begins in 1899 -- so no entry dates are available for 1898. See f_4980."
     }
   ],
-  "source_count": 1655
+  "source_count": 1656
 }

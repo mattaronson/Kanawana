@@ -1,8 +1,8 @@
 {
-  "version": "7.07",
-  "kb_version": "7.07",
+  "version": "7.08",
+  "kb_version": "7.08",
   "migrated_from": "3.3",
-  "fact_count": 4941,
+  "fact_count": 4943,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88841,6 +88841,48 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4980",
+      "category": "people",
+      "date_ref": "1898",
+      "entities": [
+        "Archibald McKellar",
+        "A. MacKellar",
+        "W. H. Ball, Jr.",
+        "C. B. Powter",
+        "A. R. Ross",
+        "D. A. Budge",
+        "C. K. Calhoun",
+        "A. H. Grace",
+        "YMCA of Montreal",
+        "Kamp Kanawana"
+      ],
+      "claim": "THE 'A. MacKELLAR' WHO RAN THE 1898 SENIOR CAMP IS ARCHIBALD McKELLAR, AN ASSISTANT SECRETARY OF THE MONTREAL YMCA. The Permanent Camp Committee's report in the association's annual report for the year ending 30 April 1899 names the 1898 season's leaders as 'Messrs. A. MacKellar, C. B. Powter, A. R. Ross, and W. H. Ball' (f_4911, f_4913); the first of them has been two letters and a surname. The Year Book for 1898 gives the Montreal branch directory as: 'Montreal / D A. Budge / Asst., C. K. Calhoun / Asst., Archibald McKellar / Phys. Director, W. H. Ball, Jr. / Asst. Phys. Director, C. B. Powter / McGill University, A. H. Grace'. THE JOIN IS TIGHTER THAN THE NAME: he appears in EXACTLY ONE of the five annual volumes bound into this scan. A search across all five for every plausible spelling returns a single line, in 1898 -- he is not on the Montreal staff in 1896, 1897, 1899 or 1900. The one year he is a paid officer of the association is the one year a document places him in charge of its camp. THREE OF THE FOUR CAMP LEADERS are in the same eight-line block: McKellar as assistant, Ball as Physical Director, Powter as his assistant. The fourth, A. R. ROSS, IS ABSENT from the directory, which is consistent with the pattern established across nine other volumes (f_4966) -- the camp's volunteers and seasonal staff are systematically not in this series -- but that is a reading of a pattern and not a fact about Ross. WHAT THE VOLUME DOES NOT SAY: it never mentions the camp, and it does not connect any of these men to it. The connection is made entirely by the Montreal annual report; this volume supplies only who three of them were in their day jobs. The 1898 volume carries no alphabetical list with years of entry -- that feature begins in 1899 -- so no entry dates are available for these men.",
+      "sources": [
+        "src_ymca_yearbook_1898"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.08",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4981",
+      "category": "sources",
+      "date_ref": "1896-1900",
+      "entities": [
+        "Year Book of the Young Men's Christian Associations",
+        "Internet Archive"
+      ],
+      "claim": "A SECOND INTERNET ARCHIVE SCAN IN THIS SERIES HOLDS MORE VOLUMES THAN ITS CATALOGUE ADMITS -- FIVE OF THEM. Item ymcayearbookand00assogoog is catalogued 'year: 1896'. It contains FIVE complete annual Year Books, each with its own title page in the same setting ('NORTH AMERICA, / For the Year XXXX, / PRICE FIFTY CENTS'): 1896 at scan line 259, 1897 at 31,596, 1898 at 73,986, 1899 at 114,510 and 1900 at 165,312. Four of the five are invisible to the catalogue record. Taken with yearbookyoungme01commgoog, which holds 1899 and 1900 and is catalogued 1899 (f_4977), THIS SHOULD BE ASSUMED OF THE SERIES RATHER THAN HOPED FOR: scan the whole text for title pages before deciding what an item contains. A SIGNATURE FOR TELLING A TITLE PAGE FROM A STATISTICS HEADING, since both read 'FOR THE YEAR XXXX': the title page sits under 'NORTH AMERICA,' and above 'PRICE FIFTY CENTS', while a statistics heading names the PREVIOUS year and follows a line about American associations -- line 114,878 of this item reads 'FROM / American Young Men's Christian Associations, / FOR THE YEAR 1898' and is the 1899 volume's statistics table, not a sixth volume. The 1896, 1897, 1899 and 1900 volumes here were not re-read, this project holding those years from other scans, but they are INDEPENDENT SECOND COPIES and may be legible where those are not -- which matters for 1900, whose alphabetical list in the other scan is OCR-ruined.",
+      "sources": [
+        "src_ymca_yearbook_1898"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.08",
       "added_by": "ralph_loop"
     }
   ]

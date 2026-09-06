@@ -21,7 +21,7 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1895 | 22 | — | "22 members and leaders" |
 | 1896 | 28 | 40 | First year the reports state the split explicitly |
 | 1897 | 24 | — | 25 June – 9 July |
-| 1898 | 20 | 85 | Junior camp 23 June – 7 July under W. F. Chapman and C. S. Paterson, with five visitors on Dominion Day; senior camp 9 July – 4 September under A. Mackellar, **C. B. Powter**, A. R. Ross and W. H. Ball. Senior 85 = 19 + 11 + 42 + 13. **Length of stay:** 2 men four weeks, 1 three, 3 two-and-a-half, 1 two, 28 between one and two, 15 one week, 28 odd days [f_4912], [f_4913] |
+| 1898 | 20 | 85 | Junior camp 23 June – 7 July under W. F. Chapman and C. S. Paterson, with five visitors on Dominion Day; senior camp 9 July – 4 September under **Archibald McKellar** (given as "A. Mackellar" in the report, and identified from the association's 1898 roster, where he is an Assistant Secretary [f_4980]), **C. B. Powter**, A. R. Ross and W. H. Ball. Senior 85 = 19 + 11 + 42 + 13. **Length of stay:** 2 men four weeks, 1 three, 3 two-and-a-half, 1 two, 28 between one and two, 15 one week, 28 odd days [f_4912], [f_4913] |
 | 1899 | 37 | 72 | Log clubhouse opened, cost $700. **Possibly a year out:** the report for the year ending 30 April 1899 says the Log Club house was "completed in **September**", i.e. September 1898, and free of debt. Completion and opening may differ; not resolved [f_4912] |
 | **1900** | **45** | — | 28 June – 14 July, under Mr. Calhoun and Mr. Brown; 6 leaders, 17 visitors, six tents; eleven wet days out of sixteen; the cook "disgustingly dirty in his work"; balance $5.05 [f_4848] |
 | 1901 | 60 | 147 | Split by age: 17 "Business Boys," 43 "School" — the earliest documented sectioning |

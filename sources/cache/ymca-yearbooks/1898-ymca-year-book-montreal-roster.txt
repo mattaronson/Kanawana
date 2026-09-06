@@ -1,0 +1,102 @@
+SOURCE EXTRACT — read from the full djvu text, 2026-09-06 (p_435)
+=================================================================
+YEAR BOOK OF THE YOUNG MEN'S CHRISTIAN ASSOCIATIONS OF NORTH AMERICA, FOR THE YEAR 1898
+Internet Archive: ymcayearbookand00assogoog — NOT lending-restricted, djvu text 2,301,751 bytes
+
+FIVE ANNUAL VOLUMES ARE BOUND IN THIS ONE SCAN. THE CATALOGUE CALLS IT 1896.
+---------------------------------------------------------------------------
+Each carries its own title page, in the same setting: "NORTH AMERICA, / For the Year XXXX, /
+PRICE FIFTY CENTS."
+
+    scan line     259   For the Year 1896
+    scan line  31,596   For the Year 1897
+    scan line  73,986   For the Year 1898   <- A YEAR THIS PROJECT DID NOT HOLD
+    scan line 114,510   For the Year 1899
+    scan line 165,312   For the Year 1900
+
+The Internet Archive record gives `year: 1896` and nothing else. Four of the five volumes are
+invisible to the catalogue. This is the second scan in two hours found to hold more volumes than
+its record admits — `yearbookyoungme01commgoog` holds 1899 and 1900 and is catalogued 1899 — so
+in this series it should be assumed rather than hoped for: SCAN THE WHOLE TEXT FOR TITLE PAGES
+BEFORE DECIDING WHAT AN ITEM CONTAINS.
+
+A signature that separates a title page from a statistics heading, since both read "FOR THE YEAR
+XXXX": a title page sits under "NORTH AMERICA," and above "PRICE FIFTY CENTS"; a statistics
+heading names the PREVIOUS year and sits under a line about American associations. In this item
+line 114,878 reads "FROM / American Young Men's Christian Associations, / FOR THE YEAR 1898" —
+that is the 1899 volume's statistics table, not a sixth volume.
+
+
+I. THE MONTREAL ASSOCIATION'S PAID STAFF, 1898
+==============================================
+The Quebec branch directory, scan line 81,551, quoted with the OCR's slips left where they fall:
+
+    Quebec.
+    Montreal                         D  A.  Badge
+        Asst.,                       C.  K.  Calhoun
+        Asst.,                       Archibald  McKeUar
+        Phys.  Director,             W.  H.  Ball.  Jr.
+        Asst.  Phys.  Director,      C.  B.  Powter
+    McGill  University               A.  H.  Grace
+    Quebec                           H.  H.  Distin
+    Sherbrooke                       J.  H.  Bryce
+
+That is:
+
+    General Secretary            D. A. BUDGE
+    Assistant                    C. K. CALHOUN
+    Assistant                    ARCHIBALD McKELLAR
+    Physical Director            W. H. BALL, JR.
+    Assistant Physical Director  C. B. POWTER
+    (McGill University)          A. H. GRACE
+
+This volume carries no alphabetical list with entry years — that feature appears in the 1899
+volume. So no dates of entry are available for 1898; the branch directory is all there is, and it
+is enough.
+
+
+II. WHY THIS ONE ROSTER IS WORTH THE WHOLE SEARCH
+=================================================
+The YMCA of Montreal's annual report for the year ending 30 April 1899 gives the Permanent Camp
+Committee's own account of the 1898 season, and this project has it (f_4911, f_4913): "The camp
+was under the charge of the following: Messrs. A. MacKellar, C. B. Powter, A. R. Ross, and W. H.
+Ball." Four men, and until today the first of them was two letters and a surname.
+
+HE IS ARCHIBALD McKELLAR, AND HE WAS AN ASSISTANT SECRETARY OF THE MONTREAL YMCA.
+
+And the join is tighter than a name. HE APPEARS IN EXACTLY ONE OF THE FIVE VOLUMES IN THIS SCAN.
+A search across all five for every plausible spelling — McKellar, MacKellar, McKeUar — returns a
+single line, in 1898. He is not on the Montreal staff in 1896, 1897, 1899 or 1900. The one year
+he is a paid officer of the association is the one year a document places him in charge of its
+camp.
+
+THREE OF THE FOUR MEN who ran the 1898 senior camp are on the association's paid staff in the
+same year's volume, in the same eight-line block: McKellar as assistant, Ball as Physical
+Director, Powter as his assistant. The fourth, A. R. Ross, is NOT in the directory — consistent
+with the pattern this project has already established from nine other volumes (f_4966), that the
+camp's people divide into paid officers, who are in the Year Book, and volunteers and seasonal
+staff, who systematically are not. Ross is presumably the latter. That is a reading of a pattern,
+not a fact about Ross, and it is written as one.
+
+WHAT IT DOES NOT SAY. The volume does not mention the camp. It does not connect McKellar,
+Ball or Powter to it. The connection is made entirely by the Montreal annual report, which names
+the four men, and this volume supplies only who three of them were in their day jobs — which is
+the whole of what it is being used for here.
+
+III. WHAT THE OTHER YEARS IN THIS SCAN ADD
+==========================================
+1896, 1897, 1899 and 1900 are all years this project already holds from other scans, so they were
+not re-read. They are worth knowing about as INDEPENDENT SECOND COPIES: where the 1899 and 1900
+readings above rest on `yearbookyoungme01commgoog`, whose 1900 alphabetical list is OCR-ruined,
+this scan carries the same two volumes again and may be legible where that one is not. Not
+checked. Queued.
+
+IV. "KANAWANA" IN THE 1898 VOLUME
+=================================
+Zero occurrences, as in every other volume of this series read so far, and for the same reason:
+it rosters associations and their paid staff, not their programmes. The camp had been running for
+four summers when this volume went to press.
+
+QUERIES RUN AGAINST THE ITEM: a whole-text scan for /FOR (THE )?YEARS? 1[89]dd/ to find the volume
+boundaries; 'Montr' in the 1898 volume; 'McKellar|MacKellar|McKeUar' across all five volumes;
+'year of entry into' for the alphabetical-list legend (absent from 1898); 'kanawana'.

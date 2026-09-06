@@ -178,7 +178,9 @@ Receipts $984.32 against expenditures $939.71, with the balance printed as $41.6
 $44.61, so either the report or its OCR has transposed a figure.*
 
 **And the camp had four men in charge: "Messrs. A. Mackellar, C. B. POWTER, A. R. Ross, and W. H.
-Ball."**^24 This wiki holds thirteen facts about **C. B. Powter** and not one of them connects him to the
+Ball."**^24
+
+*The first of them is **Archibald McKellar**, an Assistant Secretary of the Montreal YMCA in 1898 [f_4980]. In the same 1898 roster **Powter is Assistant Physical Director under Ball**, so three of these four men are the association's paid staff, listed in the same eight lines.* This wiki holds thirteen facts about **C. B. Powter** and not one of them connects him to the
 YMCA's camp. They are all about **Powter's Camp**, "Sans Egal," which his son's 1962 account says began
 in June 1902 when "a group of 50 boys from the Montreal area under the leadership of the late
 C. B. Powter arrived on the shores of Lac St. Joseph." **The same lake.** The man who founded the

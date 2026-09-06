@@ -5655,3 +5655,39 @@ rather than picked.
 A thread and not a finding: the same volume lists a Randal, initials rendered "E. O.", at a city
 the OCR gives as "TaustoD" — plausibly Taunton, Massachusetts. Whether that is Montreal's E. G.
 Randal is not established and is not written as though it were.
+
+## Campaign: p_435 — 1898, from a scan catalogued as 1896
+*2026-09-06*
+
+Having learned that one item in this series held two volumes, I scanned all nine remaining Year
+Book scans **whole** for title pages rather than trusting the catalogue year. Four of them hold
+more than one volume. `ymcayearbookand00assogoog`, catalogued 1896, holds **five**: 1896, 1897,
+1898, 1899 and 1900, each with its own title page set as "NORTH AMERICA, / For the Year XXXX, /
+PRICE FIFTY CENTS". Four of the five are invisible to the catalogue.
+
+A signature is needed, because a statistics heading reads "FOR THE YEAR XXXX" too: a title page
+sits under "NORTH AMERICA," and above "PRICE FIFTY CENTS", while a statistics heading names the
+*previous* year and follows a line about American associations.
+
+**1898 was a hole and now is not, and it names a man.** The Permanent Camp Committee's report has
+the 1898 senior camp "under the charge of ... Messrs. A. MacKellar, C. B. Powter, A. R. Ross, and
+W. H. Ball". The first of them has been two letters and a surname since the day it was found. He
+is **Archibald McKellar**, an **Assistant Secretary of the Montreal YMCA**.
+
+The join is better than a name match. **He appears in exactly one of the five volumes.** Searched
+across all five for every plausible spelling, he returns a single line — 1898. Not 1896, not
+1897, not 1899, not 1900. The one year he is a paid officer of the association is the one year a
+document puts him in charge of its camp. And three of the four camp leaders sit in the same
+eight-line block of the directory: McKellar as assistant, Ball as Physical Director, Powter as
+his assistant. A. R. Ross is not there, which fits the pattern nine volumes have established —
+the camp's volunteers and seasonal staff are systematically absent from this series — and which
+is a reading of a pattern, not a finding about Ross.
+
+The volume never mentions the camp. It supplies only what three of these men did for a living;
+the annual report does the connecting.
+
+**Still open (p_435).** The other three multi-volume scans show title-page hits for 1884-1890 and
+for a second 1898, none confirmed against the signature. 1881-82 is confirmed and unread. The
+remaining holes are **1901-1905 and 1909-1920**. And the 1900 volume bound into this same scan is
+an independent second copy of the one whose alphabetical list is OCR-ruined — worth reading
+before concluding the 1900 entry years are lost.
