@@ -1,7 +1,7 @@
 # Coeducation and Gender at Kanawana
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-09-06 (p_381: what co-ed meant in numbers in the 1975 directory)*
+*Last Updated: 2026-09-06 (Otoreke went coeducational in 1935, and the staff proposed it)*
 
 ## Overview
 
@@ -16,6 +16,28 @@ The YMCA of Montreal operated a network of camps during this period, though the 
 The Concordia archives fonds structure (P0145, series 12) also lists [[site/camp-becsies|Camp Becsies]], Camp Dorval, Camp Thunderbird, and a Wilderness Survival Camp. A walk of Concordia's static finding-aid mirror on 2026-08-25 fetched each of their sub-series pages for the first time and gives them dates and purposes, though still not gender assignments: Becsies runs from the site's development in 1929 through family camping in 1960–1971, and took "Campers from Montreal Protestant Orphans' Home" in 1934 and 1936; Dorval yields a director's report for 1926 and a season report for 1928; Camp Thunderbird was a two-year wartime operation, its whole sub-series consisting of "brochure, correspondence, reports, publicity. - 1942-1943"; and the Wilderness Survival Camp ran 1973–1975.^cm The 1967 Concordia archives listing includes a "Report of the Boys' and Girls' Camping Committee to the Metropolitan Planning and Development Committee of the YMCA of Montreal," suggesting that the question of integrating boys' and girls' programming was being formally discussed at the institutional level that year.
 
 **The Y was evaluating mixed-gender camping in 1936.** The most consequential single line surfaced by that mirror walk sits in the finding aid for P145/12C01, Camp Otoreke's general administration: a file titled **"Evaluation, recommendations re Camp Otoreke as a mixed [gender] camp. - 1936."**^cm That is twenty-nine years before the 1965 Kanawana director's report that recommended coeducation and was declined, and thirty-two years before girls were admitted here. It does not show that Otoreke *became* mixed in 1936 — Otoreke's adult and family clientele is a different case from a children's camp, and the finding aid establishes only that the evaluation existed and is dated. But it does dispose of one reading of the three-year delay documented below: the Montreal association was not encountering the idea of mixed camping for the first time in 1965. It had commissioned a formal evaluation of it, at one of its own sites, three decades earlier. **The file's contents are unread**, and reading them is the highest-value item this article now has.
+
+**And the evaluation was of a change already made.** The association's annual report for the year
+ending 31 March 1936 — covering the summer of **1935** — records the decision, its reason, and its
+result. Otoreke's attendance of young men "has steadily declined," and the camp "does not attract
+the interest and support of an adequate number of young men today." Then: "**From the young men
+members and the staff came the suggestion that the Association should experiment in running the
+camp for not only young men but also young women and married couples.** In view of the successful
+experience of several other Associations in conducting this kind of camp… it was decided to make the
+change."^ar36
+
+After that summer, "it was the unanimous conclusion of those who attended or visited the camp that
+**the experiment was a success**… **One hundred and fifteen young men and women attended** for
+periods varying from a week-end to two weeks, this being an **increase of 53% over the previous
+year**."^ar36 The camp ran under C. J. McGerrigle of North Branch, with Mrs. McGerrigle as hostess.
+
+So the 1936 file the finding aid lists is the evaluation of something that had already happened, and
+the sequence is firmer than a file title could make it: **the YMCA of Montreal ran a coeducational
+camp from the summer of 1935, thirty years before the Kanawana director's report of 1965, at the
+site Kanawana itself came from.** Two things follow. The idea was not novel to the association when
+Kanawana's turn came, and it had a precedent of its own that had been judged a success — and the
+proposal came from members and staff rather than from above, which is the same direction the 1965
+Kanawana recommendation travelled.
 
 The "boys-only" designation did not mean a total absence of females at Kanawana. In 1923, girls from the Lake Marois area visited the camp for a mixed regatta, ball game, and dance. By 1930, the camp director's wife was present at camp, described as a "refining influence." Miss M. Rayner served as camp nurse in 1939 and filled a "camp mother" role, one of the earliest documented women in a Kanawana staff position. The YWCA's Camp Oolahwan and the Junior League Camp also visited Kanawana on occasion — and in the Junior League's case the contact was sustained rather than occasional. It appears in eleven issues of *The Green Triangle* between 1932 and 1940, the two camps shared a camp doctor in 1938, and in June 1939 three carloads of Kanawana staff drove over for the christening of two new buildings. See [[connections/related-camps/camp-lighthall|Camp Lighthall]], the camp's later name. These contacts were social exceptions to the single-sex norm, not evidence of integration, but they show that the gender boundary was occasionally permeable.
 
@@ -159,6 +181,7 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 
 ## Sources
 
+- **ar36** — YMCA of Montreal Annual Report for the year ending 31 March 1936 [src_cache_sgw_ymca_annual_report_1936], covering the camping season of **1935**. Read for its camps section 2026-09-06 under p_441. See [f_5071], and [f_5039] on these reports' 31 March year-end.
 - McMorris, Grace. "An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967." MA thesis, Concordia University, 2023. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
 - YMCA Quebec. "The Kanawana Story." https://www.ymcaquebec.org/en/summer-camp-kanawana/history
 - YMCA Quebec. "Summer Camp Kanawana." https://www.ymcaquebec.org/en/summer-camp-kanawana (section structure and gender assignments).
