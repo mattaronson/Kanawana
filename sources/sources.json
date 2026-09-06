@@ -29269,7 +29269,61 @@
       "read_state": "partial",
       "read_state_basis": "NOT lending-restricted. Full djvu text downloaded and searched 2026-09-06; 'Kanawana' occurs exactly once and that advertisement, with the contents page and the article preceding it, was read out and cached. The rest of the magazine is unread.",
       "notes": "The centenary number of the Royal Grammar School / High School of Montreal. Gives the 1916 season as 24 June to 12 August and the fee as $5.00 a week, extending this project's fee series back two years from the $8.00 of 1918. Also carries an unsigned canoe-trip narrative, 'A Week in the Woods', immediately before the advertising pages, which names no camp and is NOT attributed to Kanawana. See f_4948. | 2026-09-06: the narrative's route was placed against NRCan's geographical names service to the Lac-Legendre and Saint-Donat country of Matawinie, about seventy-two kilometres north of Kanawana, with Lac Batiment and Lac McLaren each unique in the province as the control. That locates the trip; it does not attribute it."
+    },
+    {
+      "source_id": "src_dlb_362_canadian_literary_humorists_2011",
+      "type": "catalog_reference",
+      "title": "Dictionary of Literary Biography, Volume 362: Canadian Literary Humorists (2011) — the Stuart McLean entry by David C. Greer",
+      "date": "2011",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/canadianliterary0362unse",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-dlb-362-mclean-and-basic-camp-management.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.89",
+      "reliability": "secondary",
+      "read_state": "snippet",
+      "read_state_basis": "LENDING-RESTRICTED; NOT READ. One passage on scan leaf 456 was reconstructed 2026-09-06 from thirty-five overlapping Open Library search-inside queries, walked to a sentence boundary in both directions. Page images return HTTP 403. Nothing else in the 420-page volume has been seen.",
+      "notes": "A Gale/Bruccoli Clark Layman scholarly reference volume. Its McLean entry, signed by David C. Greer per the volume's contents list, gives the 1969 counsellor job, a section directorship by summer 1971, the assistant directorship in the summers of 1974 and 1975, and a Vinyl Cafe show recorded AT THE CAMP IN JULY 2005 -- the month, where this project had only the year. It also quotes an UNPUBLISHED 19 MAY 2010 INTERVIEW with McLean, evidently conducted for this volume and therefore presumably held by Greer: a live archival lead. See f_4949."
+    },
+    {
+      "source_id": "src_ball_basic_camp_management_2012",
+      "type": "report",
+      "title": "Armand B. Ball, Basic Camp Management: An Introduction to Camp Administration (American Camp Association / Healthy Learning, 2012)",
+      "date": "2012",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/basiccampmanagem0000ball_r5m1",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-dlb-362-mclean-and-basic-camp-management.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.89",
+      "reliability": "tertiary",
+      "read_state": "snippet",
+      "read_state_basis": "LENDING-RESTRICTED; NOT READ. One sentence on scan leaf 436 was reconstructed 2026-09-06 from seven overlapping Open Library search-inside queries and walked to a sentence boundary in both directions. Page images return HTTP 403.",
+      "notes": "The American Camp Association's own introductory textbook on camp administration. Names YMCA Kamp Kanawana as CANADA'S FIRST ORGANIZATIONAL CAMP, 1894, paired with Camp Keewaydin as the first independent camp. Tertiary and unsourced, and a year out on Keewaydin's own founding claim -- recorded as what a professional textbook says, not as a finding about 1894. See f_4950."
+    },
+    {
+      "source_id": "src_canadian_key_business_directory_1993_2001",
+      "type": "catalog_reference",
+      "title": "Canadian Key Business Directory (Dun & Bradstreet Canada), 1993-2001 — the Y.M.C.A. de Montréal entry and its Kamp Kanawana division line",
+      "date": "1993-2001",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/canadiankeybusin1999unse",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-canadian-key-business-directories-ymca-kanawana.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.89",
+      "reliability": "tertiary",
+      "read_state": "snippet",
+      "read_state_basis": "NINE VOLUMES, ALL LENDING-RESTRICTED, NONE READ. One entry was walked in each, 2026-09-06, from the D-U-N-S number that opens it to the one that opens the next, using overlapping Open Library search-inside queries. Page images return HTTP 403, so the column alignment of the officer titles could not be checked against the page.",
+      "notes": "Four volumes (1994, 1997, 1999, 2000) name Kamp Kanawana as a division of the Y M C A de Montreal at 1441 rue Drummond; five more (1993, 1995, 1998, 2001 and one undated) carry the same association entry without the division line. THE EMPLOYMENT AND SALES FIGURES ARE THE ASSOCIATION'S, NOT THE CAMP'S: D-U-N-S 20-765-0813 resolves, across 24 hits in older volumes, to YOUNG MENS CHRISTIAN ASSOC MTL at the same address, so the camp had no number of its own. See f_4951."
     }
   ],
-  "source_count": 1626
+  "source_count": 1629
 }

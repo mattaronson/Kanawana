@@ -1,8 +1,8 @@
 {
-  "version": "6.88",
-  "kb_version": "6.88",
+  "version": "6.89",
+  "kb_version": "6.89",
   "migrated_from": "3.3",
-  "fact_count": 4910,
+  "fact_count": 4913,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88197,6 +88197,67 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.86",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4949",
+      "category": "people",
+      "date_ref": "1969-2005",
+      "entities": [
+        "Stuart McLean",
+        "Kamp Kanawana",
+        "David C. Greer",
+        "Dictionary of Literary Biography",
+        "The Vinyl Cafe",
+        "Sir George Williams University"
+      ],
+      "claim": "STUART McLEAN'S CAMP YEARS IN A SCHOLARLY REFERENCE WORK, AND A JULY DATE FOR THE 2005 SHOW. The Dictionary of Literary Biography, Volume 362: Canadian Literary Humorists (Gale, 2011), in an entry signed by David C. Greer, says: \"During the summer vacation of 1969 he got a job as a counselor at Kamp Kanawana, near Saint-Sauveur, Quebec, about an hour from Montreal. By the summer of 1971, the year he graduated from the university with a bachelor of applied social science degree, he was a section director at the camp, and he was an assistant director during the summers of 1974 and 1975. In an unpublished 19 May 2010 interview he discussed the significance of this experience: 'for the first time in my life, I realized I had found a place where I could be good at something ... or as good as everyone else anyway ... a place where I could fit in and be competent and contribute to the greater good. Which is a very important thing for a young person's growth and development.' McLean recorded a Vinyl Cafe radio show at the camp in July 2005.\" FOUR THINGS. (1) MOSTLY CORROBORATION, AND OF THE GOOD KIND: the 1969 start, the 1971 section directorship and the 1974-75 assistant directorship are all already held here from the camp's own directors' reports, which are better sources than this one; what this adds is that a peer reference work, working from its own interview with McLean, independently arrives at the same three. (2) A MONTH: JULY 2005 for the Vinyl Cafe show recorded at the camp, where this project had only the year. (3) A FULLER QUOTATION: the 'contribute to the greater good' line was held here only in the single-sentence form a CBC Montreal Radio Noon interview produced; this is the same thought at length and from a different occasion. (4) A LEAD: an UNPUBLISHED 19 MAY 2010 INTERVIEW with McLean exists, evidently conducted for this volume, and is presumably held by David C. Greer, who also wrote the volume's W. P. Kinsella entry. CAVEAT: the book is lending-restricted and has not been read; this passage was reconstructed from thirty-five overlapping Open Library search-inside queries and walked to a sentence boundary in both directions, and the ellipses are the book's while the spacing around them is the OCR's.",
+      "sources": [
+        "src_dlb_362_canadian_literary_humorists_2011"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.89",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4950",
+      "category": "camping_movement",
+      "date_ref": "1894",
+      "entities": [
+        "Kamp Kanawana",
+        "Camp Keewaydin",
+        "American Camp Association",
+        "Armand B. Ball",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE AMERICAN CAMP ASSOCIATION'S OWN TEXTBOOK CALLS KANAWANA CANADA'S FIRST ORGANIZATIONAL CAMP. Armand B. Ball, Basic Camp Management: An Introduction to Camp Administration (Healthy Learning, 2012), 'An American Camp Association book', reads: \"In Canada, the first organizational camp and first independent camp were both organized in the same year: 1894 -- YMCA Kamp Kanawana in Quebec and Camp Keewaydin (formerly Kamp Kah Kiou) in Ontario. All of these camps were exclusively for boys.\" WHY IT MATTERS: this project holds the 1894 founding well from the camp's and the association's own records, but had no statement of PRIMACY from outside the YMCA of Montreal in a professional reference work. It bears on the question the Canadian Camping Association put to its own membership in 1969 -- 'we need to know who opened the first camp in Canada' -- and on the competing long-continuity claims among Canadian YMCA camps recorded elsewhere in this KB. WHAT IT DOES NOT SETTLE: Ball is tertiary, cites nothing, and is writing a textbook chapter rather than adjudicating a claim. 'Organizational camp' is a term of art in the American camping literature -- a camp run by an organisation as against an independent or private one -- so the sentence compares two categories and does not say Kanawana was the first camp of any kind in Canada. Ball also dates Camp Keewaydin to 1894 and places it in Ontario; Keewaydin's own founding claim is 1893, in Maine, and Ontario is its later Temagami operation. A source a year out on one half of its sentence is not one to lean on for the other half. CAVEAT: lending-restricted and not read; the sentence was reconstructed from seven overlapping Open Library search-inside queries and walked to a sentence boundary in both directions.",
+      "sources": [
+        "src_ball_basic_camp_management_2012"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.89",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4951",
+      "category": "institutional",
+      "date_ref": "1993-2001",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal",
+        "Dun & Bradstreet",
+        "Canadian Key Business Directory",
+        "1441 rue Drummond"
+      ],
+      "claim": "KAMP KANAWANA IN THE CREDIT DIRECTORIES, 1993-2001, AND WHOSE NUMBERS THEY ARE. The Canadian Key Business Directory (Dun & Bradstreet Canada) carries an entry reading \"D-U-N-S 20-765-0813 (HQ) Y M C A de Montreal, Kamp Kanawana Div Of, 1441 rue Drummond, Montreal, PQ H3G 1W3, Tel 514-849-5331 ... Year Started 1857, SIC 8399 Social Services\" in the volumes for 1994, 1997, 1999 and 2000 (the 1994 volume prints '1441 Drummond Rue'). Five further volumes -- 1993, 1995, 1998, 2001 and one the catalogue leaves undated -- carry the same association entry at the same address and telephone WITHOUT the Kanawana division line. THE FIGURES ARE THE ASSOCIATION'S, NOT THE CAMP'S: the query '20-765-0813' returns 24 hits in older volumes, every one of them reading YOUNG MENS CHRISTIAN ASSOC MTL at 1441 Drummond, so the number is the association's and the camp had none of its own; 'Emp Here' (50, 55, 69 or 20 by volume), 'Emp Total 1,750' and 'Sales 52,600,000' therefore describe the YMCA of Montreal at its downtown office and must not be read as a Kanawana staff count, tempting though 55 is beside David Leduc's 75. The sales figure repeats unchanged across 1995, 1997, 1998 and 1999 and is then replaced wholesale by 36,100,000 for 2000 and 2001: a directory's estimate carried forward and revised, not an annual series. FOUR OFFICERS are printed inside the association's own entry in the 1998 and 1999 volumes, walked from its heading rather than read off adjacency: M. Micheal Novak, Jacques Luys, Nina Caputo and Paul Dunne, against a separate run of four titles in the order 'Pres, conseil d'admin / Vice-president / Secretaire-tresorier / Tresorier'. The NAMES are the finding; the pairing is an inference from matching order and count, and cannot be checked because the page images return HTTP 403. 'Year Started 1857' is a self-reported credit-file field and is not treated as a competing claim against the association's founding on 25 November 1851. WHAT DOES FOLLOW FOR THE CAMP: the camp's business address was 1441 rue Drummond through 2001, which dates the move to 1435 rue Drummond, seen in the 2006 and 2008 Canadian Summer Job Directories, to somewhere between 2001 and 2006.",
+      "sources": [
+        "src_canadian_key_business_directory_1993_2001"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.89",
       "added_by": "ralph_loop"
     }
   ]

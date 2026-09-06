@@ -2474,7 +2474,8 @@
         "src_cache_canadiancampingmagazine_vol17no3_1965april",
         "src_concordia_atom_12B05",
         "src_ia_canadian_camping_collection",
-        "src_trent_oca_fonds_72_007"
+        "src_trent_oca_fonds_72_007",
+        "src_ball_basic_camp_management_2012"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -2486,7 +2487,7 @@
         "sources-index"
       ],
       "file_id": null,
-      "word_count": 34727,
+      "word_count": 35203,
       "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -3494,9 +3495,10 @@
         "f_1898"
       ],
       "sources_cited": [
-        "src_mclean_vinyl_cafe_notebooks_2010"
+        "src_mclean_vinyl_cafe_notebooks_2010",
+        "src_dlb_362_canadian_literary_humorists_2011"
       ],
-      "open_questions": 3,
+      "open_questions": 4,
       "cross_links": [
         "coeducation-gender",
         "directors-index",
@@ -3506,7 +3508,7 @@
         "sean-day"
       ],
       "file_id": null,
-      "word_count": 2282,
+      "word_count": 2793,
       "notes": "E1 REVIEW (2026-02-19): Fixed header source IDs. All 7 checklist items PASS. RALPH R1: 26 new facts, 10 new sources. Pip Award year resolved (2009). Full biography: 1400 words, 13 sources, 9 sections. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header again (had drifted back to raw IDs since the 2026-02-19 fix). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -8996,7 +8998,8 @@
         "src_ymcaquebec_annualreport_2007",
         "src_ymcaquebec_annualreport_2008",
         "src_ymcaquebec_annualreport_2009",
-        "src_ymcaquebec_annualreport_2011"
+        "src_ymcaquebec_annualreport_2011",
+        "src_canadian_key_business_directory_1993_2001"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -9013,7 +9016,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 2886,
+      "word_count": 3318,
       "notes": "2026-07-11: Workstream C4 spawn (4 of 4, final). Connective-narrative synthesis, no new research conducted. Ties together this session's institutional-role-director spawns into continuous narrative history. This completes Workstream C4 and the full operator-approved plan. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
       "tags": {
         "era": [

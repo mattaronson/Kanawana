@@ -4764,3 +4764,71 @@ phrase search, and a zero from this endpoint is a fact about the endpoint.**
 session on what it promises. Its other half is now on record: **re-test a capability before trusting a
 dead end.** The note that closed this question was accurate about the API it tried and wrong about the
 world, and it stood for fourteen months.
+
+---
+
+## Phase 2 campaign — the name sweep, group 2 and the two items the enumeration missed (2026-09-06, later)
+
+**Topic.** p_430's group 2: the Canadian Key Business Directories of the 1990s, which p_430 flagged
+as "four years of named officers for the 1990s, which is the decade this project has least of", and
+attached a standing caution to — *the officer names visible in a snippet beside the Kanawana line
+belong to whatever entry the page sets next to it.*
+
+**Surfaces.** Open Library search-inside (35+ queries) · the Internet Archive page-image endpoint ·
+the Internet Archive metadata API.
+
+**What the caution was worth.** Everything. The first four queries produced exactly what it warned
+about: dense directory pages where the OCR returns names in one run and job titles in another
+("Directeur generale Directeur - Finances Directeur - Service Directeur - Personnel" with no names
+attached), and where an officer's name sitting twelve words from the Kanawana line belongs to a
+clothing company. The way past it was not to be careful with the snippet but to stop using snippets:
+the entry was **walked from the D-U-N-S number that opens it to the D-U-N-S number that opens the
+next**, which is a boundary the format guarantees.
+
+**The control.** The reading that mattered — whether "Emp Here 55" counts camp staff or downtown
+staff — was settled by querying the D-U-N-S number itself. `"20-765-0813"` returns 24 hits in older
+volumes of the same directory, every one of them reading `YOUNG MENS CHRISTIAN ASSOC MTL, 1441 Rue
+Drummond`. The number is the association's; the camp had none of its own; the figures are the
+association's. **This is the third time a single item that can only land one way has resolved a
+column ambiguity** — after Kanawyer in the UPU postal list and Lac Bâtiment in the Matawinie lake
+cluster — and it is now a method rather than three coincidences: *find the field whose value is
+unique in the corpus, and query the field, not the row.*
+
+Fifty-five would have been a very attractive number to publish. David Leduc's own account gives 75
+staff, so 55 in the 1990s reads as a plausible earlier figure rather than as an error. Nothing about
+the snippet flags it as wrong.
+
+**Found:** the entry itself in nine volumes, 1993–2001 (f_4951), which brackets the association's
+move from 1441 to 1435 rue Drummond to between 2001 and 2006 — the only bracket this project has for
+it. Four association officers, with the name-to-title pairing recorded as an inference from matching
+order and count, because the page image is blocked.
+
+**Access failure.** `archive.org/download/<id>/page/n<leaf>_w1600.jpg` returns **HTTP 403 with a
+4,868-byte HTML body** on a lending-restricted item, *with* the item's own details page sent as
+Referer. This is a different failure from the missing-Referer trap, which returns a 43-byte
+transparent GIF under HTTP 200, and the two should be kept distinct: one means "not licensed", the
+other means "you forgot a header". Routes not tried: an authenticated Internet Archive borrow; print
+or microform at BAnQ; Google Books snippet view.
+
+**And the enumeration was incomplete.** p_430's item list was built from a bare `"Kanawana"` query.
+Running `"Kamp Kanawana"` instead returns thirteen items, **two of which are not on that list**:
+
+- **`canadianliterary0362unse`** is *Dictionary of Literary Biography*, Volume 362: *Canadian
+  Literary Humorists* (Gale, 2011). Its Stuart McLean entry, by **David C. Greer**, independently
+  reaches the 1969 counsellor job, the 1971 section directorship and the 1974–75 assistant
+  directorship this project holds from the camp's own directors' reports; dates the *Vinyl Cafe*
+  recording at the camp to **July 2005**; and quotes at length from **an unpublished 19 May 2010
+  interview** with McLean conducted for the volume. Thirty-five queries walked the whole passage.
+  **f_4949**, and a new Open Question in `stuart-mclean.md`: the interview exists, three sentences of
+  it are printed, and Greer presumably has the rest.
+- **`basiccampmanagem0000ball_r5m1`** is the American Camp Association's own textbook, and it calls
+  Kanawana **Canada's first organizational camp**, 1894. **f_4950**, written into
+  `canadian-camping-movement.md` together with the three reasons it does not move the pre-1894
+  claims: it cites nothing, "organizational camp" is a category term that does not engage Big Cove
+  (also a YMCA camp), and it is a year out on the other camp in its own sentence.
+
+**The lesson.** *An enumeration is only as wide as the string it was run on.* The item list in p_430
+was compiled deliberately and carefully, by someone who had just learned that `"Camp Kanawana"`
+returns eight items where `"Kanawana"` returns seventy-six — and it still missed two, because
+`"Kamp Kanawana"` is a third string and nobody ran it against the full list. The camp has spelled its
+own name two ways for a century. Run both.

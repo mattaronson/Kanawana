@@ -1,7 +1,7 @@
 # The Canadian Camping Movement
 
-*Status: E1-reviewed | Sources: 18*
-*Last Updated: 2026-09-06 (p_357: the 1969 Ottawa office, the December 1970 memo that closed it, and the 1971 regional restructuring; conflict c_064 raised)*
+*Status: E1-reviewed | Sources: 19*
+*Last Updated: 2026-09-06 (the American Camp Association's own textbook calls Kanawana Canada's first organizational camp — and why that does not settle it)*
 
 ## Summary
 
@@ -137,6 +137,43 @@ Women were pioneers in their own right:
 - **Ferna Halliday** co-founded Camp Ouareau (1922) with Mabel Jamieson and was also an OCA founding member.^7
 
 ## Kanawana's Place in the Movement
+
+### A textbook says Kanawana was first, and it is not enough
+
+The section above has spent three revisions taking an ordinal ranking *out* of this article, because
+Big Cove, Camp Stephens and the Nova Scotia claims all put dates in front of 1894 and none of the
+three is documented here from a primary record. So a source that hands the ranking back has to be
+looked at hard rather than welcomed.
+
+Armand B. Ball's *Basic Camp Management: An Introduction to Camp Administration* (2012) — "An
+American Camp Association book", the volume a North American camp administrator is handed at the
+start — says:^19
+
+> "In Canada, the first organizational camp and first independent camp were both organized in the same
+> year: 1894 — YMCA Kamp Kanawana in Quebec and Camp Keewaydin (formerly Kamp Kah Kiou) in Ontario.
+> All of these camps were exclusively for boys."
+
+It is the first statement of primacy this project has found for Kanawana from outside the YMCA of
+Montreal, in print, in a professional reference work. It is also worth very little on its own, for
+three reasons, and they are worth writing down because the same three will apply to the next such
+source.
+
+**It cites nothing.** Ball is writing a textbook chapter on the history of the field, not adjudicating
+a claim, and gives no source for either date.
+
+**"Organizational camp" is a term of art.** In the American camping literature it means a camp run by
+an organisation — a Y, a church, an agency — as against an independent or private one. Ball's sentence
+compares two *categories*. It does not say Kanawana was the first camp of any kind in Canada, and read
+carefully it does not even engage the Big Cove question, since Big Cove is also a YMCA camp and would
+fall in the same category.
+
+**It is a year out on the other half of its own sentence.** Keewaydin's own founding claim is 1893, in
+Maine; Ontario is its later Temagami operation. A source that misdates one of the two camps it names
+in a single sentence is not one to lean on for the other.
+
+Recorded, then, as *what a 2012 professional textbook says* — which is a real fact about how the camp
+is described in the field's own literature — and not as evidence about 1894. The three pre-1894
+claims stand exactly where they stood.
 
 **Alta R. Kahn, and the QCA's own chronology.** The fullest account the run gives of the Quebec association's internal history is the tribute read when the QCA English Section made **Mrs. Alta R. Kahn its Honorary President on 23 May 1973 — the first in the Association's history**.^8u It supplies dates the Concordia holdings do not.
 
@@ -865,6 +902,8 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 16. Camp Stephens Alumni blog, December 2020 and August 2020 posts [src_campstephens_alumni_blog] — the same alumni source cited in `c_029` for the Nelson McEwen founding claim. See [f_4744], [f_4745], [f_4746].
 17. YMCA-YWCA of Winnipeg, Camp Stephens "About Us" and history pages [src_ywinnipeg_camp_stephens]. See [f_4748].
 18. CBC News, "In the summers without summer camps, staff get creative to stay afloat" [src_cbc_bigcove_pandemic_summers]. **Not read directly**: cbc.ca returns HTTP 403 to the fetch tool while serving browsers, so this is known only through search-result summaries and is recorded in the source index as `unavailable`. See [f_4749].
+
+19. Armand B. Ball, *Basic Camp Management: An Introduction to Camp Administration* (Monterey, CA: Healthy Learning, 2012), "An American Camp Association book", Internet Archive scan leaf 436 [src_ball_basic_camp_management_2012]. **One sentence only**, reconstructed 2026-09-06 from seven overlapping Open Library search-inside queries and walked to a sentence boundary in both directions; the book is lending-restricted, page images return HTTP 403, and it has not been read. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-dlb-362-mclean-and-basic-camp-management.txt`. See [f_4950].
 
 ## Research Notes
 
