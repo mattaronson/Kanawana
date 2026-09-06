@@ -1,6 +1,6 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 22*
+*Status: E1-reviewed | Sources: 23*
 *Last Updated: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *Last Updated: 2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
 *Last Updated: 2026-07-05 (named trip staff added from photo-mined canoe-trip plaques, p_191 ENRICH pass) — photo gallery added 2026-07-02*
@@ -43,6 +43,49 @@ In December 1978 the Canadian Camping Association devoted its editorial to a dea
 The editorial does not name the camp, the party or the water, and this article does not identify it. What it records is the effect: the association's own judgement, in print, that a decade or more of confidence in Canadian camp tripping standards had been misplaced, and its call to "identify the risks in adventure tripping" so that "**the Canadian Camping Association could use this information to set standards and Governments could base their travel regulations on them**." It also supplies the precedent the association reached for — "**In the 1920s a camp in Southern Ontario had a similar experience at Balsam Lake. Out of that came the slogan 'Hang on to the canoe — for three days and three nights'. It was also the spur to camp people to establish standard strokes**" — which is the origin, dated to the 1920s, of two things any Kanawana tripper would recognise.
 
 Kanawana ran a separately accredited wilderness tripping camp in La Vérendrye through exactly these years, under the same provincial association. Whatever review of tripping practice followed in Quebec in 1979 applied to it. Together with the November 1975 flotation regulation above, this makes the second half of the 1970s the period in which the safety framework around Kanawana's canoe trips was rebuilt — and neither change originated at the camp.
+
+### 1979: the tripping ethic itself is rebuilt
+
+Between the 1978 death and the 1980 decisions sits a year in which the association rewrote not its
+safety rules but its **ethics** — and none of it originated at Kanawana.^23
+
+In **March 1979** Kevin Redmond's "No Trace Camping" brought leave-no-trace ethics into Canadian camping
+and aimed them squarely at camp tripping practice, and at camping tradition itself: "**Beware of the
+traditions — axes, saws, elaborate latrines, garbage pits and material shelters, all of which can be
+found in camping texts.**" Its creed ran "I will keep my groups small. I will not cut down trees or
+branches. I will not build fires or if I do I will keep them small and scatter their remains… I will
+LEAVE NO TRACE," and its test was a question: "**Will the next traveller, be he a couple of hours or
+years away, know that you have been there?**" [f_4061]
+
+In **June 1979** came twenty numbered **Environmental Maintenance Standards** from a Conference of
+Canadian Interpreters, which open on the problem of camps that have occupied one site for many years —
+Kanawana's own confession of 1970 — and go on to question permanent out-trip sites, motor boats and flush
+toilets [f_4082]. These are treated at length in
+[[traditions/environmental-history|Environmental Education and Stewardship]].
+
+In **October 1979** Hartwick, Jorgenson and Gear's "Canoe Tripping in the Twentieth Century" put the
+contradiction in one sentence — "**the irony of canoe tripping is that it has the potential of
+destroying the very environment the tripper seeks out to enjoy**" — and concluded that since the number
+of users would not decline voluntarily, "the answer must lie in lessening their impact." Their rules are
+specific: carry out everything "and a little of what others have left"; small stoves or a metal fire
+container; let the fire burn to ash "leaving no charcoal"; "if you find several fire pits at your site,
+clean up the best one or two and eliminate the others"; gather firewood by canoe at a distance even when
+wood is available on site; and "**do not blight the campsite for your own comfort (e.g. trenches, bough
+beds, tables, natural shelters, garbage pits)**" [f_4091].
+
+**That last list is the measure of the change.** Trenches, bough beds, camp tables and garbage pits were
+not lapses — they were **technique**, printed in the manuals, taught to counsellors, and the mark of a
+competent tripper. Within seven months in 1979 the national magazine carried three statements telling
+camps to stop doing all of them [f_4092].
+
+**Why this belongs in Kanawana's article when Kanawana appears in none of it.** The camp's later
+environmental commitments — the composting toilets, the Leave No Trace certification its executive
+director holds, the low-impact tripping it now advertises — read very differently depending on whether
+the movement arrived there first. It did. Taken with the November 1975 flotation regulation and the
+reckoning after the 1978 Quebec death, **the whole safety-and-ethics framework around a Quebec camp's
+wilderness tripping was rebuilt between 1975 and 1979**, in the association's own pages, by people at
+other camps. Kanawana joined a movement here; it did not lead one, and no source in this project shows
+it dissenting either.
 
 ### What the movement decided, 1980
 
@@ -157,3 +200,4 @@ This is the only itemised cost of a 1920s Canadian canoe trip found by this proj
 20. "News from Publications" (the Society of Camp Directors' donation of *Canoe Tripping Practices in Canada*, John R. Latimer, Research Chairman, 1979) and Mike Budd, "The Risk Factor in Outdoor Pursuits," reprinted from *Runner* (Health & Physical Education Council, Alberta Teachers' Association), *Canadian Camping* Vol. 33 No. 6 (Winter 1982), pp. 11-13 [src_ia_canadian_camping_collection]. Found by the same read (issue 140).
 21. "The Camping Advisor," *Canadian Camping* Vol. 34 No. 3 (Autumn 1982), p. 5 [src_ia_canadian_camping_collection], quoting Michael Hatton, *Lightweight Camping: A Four Season Source Book*. Found by the same read (issue 143).
 22. Adele Ebbs, "Canoe Tripping — In The 1920's," *Canadian Camping Magazine* Vol. 38 No. 1 (Summer 1986), p. 9, reprinting Herbert B. Bell's 1926 list [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 158).
+23. The 1979 leave-no-trace sequence in *Canadian Camping* [src_ia_canadian_camping_collection]: Kevin Redmond, "No Trace Camping" (March 1979); the twenty Environmental Maintenance Standards from a Conference of Canadian Interpreters, reprinted from the Alberta Camping Association Newsletter of May 1979 (June 1979); and Hartwick, Jorgenson and Gear, "Canoe Tripping in the Twentieth Century" (October 1979). See [f_4061], [f_4082], [f_4091], [f_4092].
