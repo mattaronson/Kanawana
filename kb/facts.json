@@ -1,8 +1,8 @@
 {
-  "version": "7.64",
-  "kb_version": "7.64",
+  "version": "7.66",
+  "kb_version": "7.66",
   "migrated_from": "3.3",
-  "fact_count": 5042,
+  "fact_count": 5044,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -90068,7 +90068,7 @@
         "Camp Perrot",
         "Camp Thunderbird"
       ],
-      "claim": "SETTLED, AND FROM THE TITLE PAGES: EVERY ONE OF THESE ANNUAL REPORTS COVERS THE YEAR ENDING 31 MARCH, SO ITS SUMMER IS THE PREVIOUS CALENDAR YEAR'S. f_5038 inferred a one-year offset from two matching Kanawana figures and left it open, noting that the reports' own cover dates had not been read. THEY HAVE NOW BEEN READ AND THEY SAY IT OUTRIGHT: 'The Ninety-Second ANNUAL REPORT of the Young Men's Christian Association of Montreal FOR THE YEAR ENDING MARCH 31st, 1943'; the Ninety-Third for the year ending 31 March 1944; the Ninety-Fourth 1945; the Ninety-Fifth 1946; the Ninety-Sixth 1947. A report dated for the year ending 31 March 1947 therefore covers 1 April 1946 to 31 March 1947 AND ITS CAMPING SEASON IS THE SUMMER OF 1946. THE TWO ANCHORS NOW HAVE AN EXPLANATION RATHER THAN A COINCIDENCE: the 1945 report's 'Kanawana for boys 400' is the summer of 1944, which is this wiki's 1944 figure; the 1947 report's 302 is the summer of 1946, which is its 1946 figure. AND THE THIRD, UNREADABLE ONE RESOLVES THE SAME WAY: the 1946 report covers the summer of 1945, for which this wiki has 324, so its '52h' is a misread 324 -- the scan renders 4 as h throughout and confuses 3 with 5. THE CONSEQUENCE FOR CAMP THUNDERBIRD IS DECISIVE. It is tabled in the 92nd report (summer 1942) and the 93rd (summer 1943, where the text says it was 'again operated'), and it is gone from the 94th (summer 1944), WHICH IS THE FIRST REPORT TO CARRY CAMP PERROT. SO THUNDERBIRD RAN IN THE SUMMERS OF 1942 AND 1943, AND STOPPED IN THE SUMMER PERROT BEGAN. The 1943 season report's phrase 'the first session of Central Y.M.C.A. boys at Camp Thunderbird' therefore means the first session of that summer, or the first for Central branch specifically -- the report's own heading is 'Central Branch Period' -- and not the camp's first ever. WHAT THIS DOES NOT DO: it does not make Perrot Thunderbird's documented successor. The handover is now exact to the season and still unstated in any source.",
+      "claim": "SETTLED, AND FROM THE TITLE PAGES: EVERY ONE OF THESE ANNUAL REPORTS COVERS THE YEAR ENDING 31 MARCH, SO ITS SUMMER IS THE PREVIOUS CALENDAR YEAR'S. f_5038 inferred a one-year offset from two matching Kanawana figures and left it open, noting that the reports' own cover dates had not been read. THEY HAVE NOW BEEN READ AND THEY SAY IT OUTRIGHT: 'The Ninety-Second ANNUAL REPORT of the Young Men's Christian Association of Montreal FOR THE YEAR ENDING MARCH 31st, 1943'; the Ninety-Third for the year ending 31 March 1944; the Ninety-Fourth 1945; the Ninety-Fifth 1946; the Ninety-Sixth 1947. A report dated for the year ending 31 March 1947 therefore covers 1 April 1946 to 31 March 1947 AND ITS CAMPING SEASON IS THE SUMMER OF 1946. THE TWO ANCHORS NOW HAVE AN EXPLANATION RATHER THAN A COINCIDENCE: the 1945 report's 'Kanawana for boys 400' is the summer of 1944, which is this wiki's 1944 figure; the 1947 report's 302 is the summer of 1946, which is its 1946 figure. AND THE THIRD, UNREADABLE ONE RESOLVES THE SAME WAY: the 1946 report covers the summer of 1945, for which this wiki has 324, so its '52h' is a misread 324 -- the scan renders 4 as h throughout and confuses 3 with 5. THE CONSEQUENCE FOR CAMP THUNDERBIRD IS DECISIVE. It is tabled in the 92nd report (summer 1942) and the 93rd (summer 1943, where the text says it was 'again operated'), and it is gone from the 94th (summer 1944), WHICH IS THE FIRST REPORT TO CARRY CAMP PERROT. SO THUNDERBIRD RAN IN THE SUMMERS OF 1942 AND 1943, AND STOPPED IN THE SUMMER PERROT BEGAN. The 1943 season report's phrase 'the first session of Central Y.M.C.A. boys at Camp Thunderbird' therefore means the first session of that summer, or the first for Central branch specifically -- the report's own heading is 'Central Branch Period' -- and not the camp's first ever. WHAT THIS DOES NOT DO: it does not make Perrot Thunderbird's documented successor. The handover is now exact to the season and still unstated in any source. || [CORRECTED 2026-09-06 UNDER p_441: THE OPENING SENTENCE OF THIS FACT IS TOO BROAD AND HAS BEEN CITED AS THOUGH IT COVERED THE WHOLE RUN. IT DOES NOT. The title pages actually read for this fact were the 92nd through 96th reports (years ending 31 March 1943-1947), and the rule holds for the 1943-1950 volumes. IT STOPS THERE. THE ASSOCIATION MOVED ITS YEAR-END TWICE: the 99th report is 'FOR THE YEAR ENDING MARCH 31ST, 1950' and the 100th is 'FOR THE YEAR ENDING DECEMBER 31ST, 1951', and the December year-end is still in force in 1962. By the mid-1960s it is 31 MAY. See f_5081 for what was verified and what was not. APPLYING THIS FACT TO ANY REPORT AFTER 1950 SHIFTS ITS CAMPING SEASON BY A YEAR IN THE WRONG DIRECTION.]",
       "sources": [
         "src_ymf_sgw_ymca_annual_report_1943",
         "src_ymf_sgw_ymca_annual_report_1944",
@@ -90930,6 +90930,48 @@
       "sources": [
         "src_ymf_sgw_ymca_annual_report_1956",
         "src_ymf_sgw_ymca_annual_report_1959"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.63",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5081",
+      "category": "methodology",
+      "date_ref": "1943-1985",
+      "entities": [
+        "YMCA of Montreal"
+      ],
+      "claim": "THE YMCA OF MONTREAL MOVED ITS FINANCIAL YEAR-END TWICE, SO THERE IS NO SINGLE RULE FOR TURNING AN ANNUAL REPORT INTO A CAMPING SEASON. f_5039 established that a report 'for the year ending March 31st' has the PREVIOUS summer inside it, and this project has been applying that as though it held for the whole run. IT DOES NOT. FROM THE TITLE PAGES AND AUDITORS' STATEMENTS, READ 2026-09-06: (1) THE 31 MARCH ERA, verified for the 92nd through 99th reports: 'FOR THE YEAR ENDING MARCH 31ST, 1949' and 'FOR THE YEAR ENDING MARCH 31ST, 1950'. CAMPING SEASON = COVER YEAR MINUS ONE. (2) THE 31 DECEMBER ERA, beginning with the 100th report: 'FOR THE YEAR ENDING DECEMBER 31ST, 1951', and the same for 1952 ('one hundred and first'), 1953, 1954 and 1955; the auditors' statements say 'as at December 31' for 1956, 1958 and 1962. CAMPING SEASON = COVER YEAR. The 1952 report proves it in its own words: 'THE SUMMER OF 1952 WAS IDEAL FOR CAMPING'. (3) THE 31 MAY ERA, in force by the mid-1960s: the file named 1964 is for the year ended MAY 31, 1965; 1965 for 31 May 1966; 1967 for 31 May 1968; 1968 for 31 May 1969; 1981-1982 for 31 May 1982; 1984 for 31 May 1984. CAMPING SEASON = YEAR-END YEAR MINUS ONE (a year running June to May contains one summer, the earlier one). WHAT IS NOT ESTABLISHED, AND I AM NOT GOING TO GUESS IT: exactly when the December-to-May change happened (somewhere between the report for the year ended 31 December 1962 and the one ended 31 May 1965), whether a stub period covers April-December 1950 (the ordinals run 97th, 98th, 99th, 100th with no volume missing, so the 100th report may span twenty-one months), and WHETHER THE SUMMER OF 1950 IS DESCRIBED ANYWHERE -- the 100th report mentions one summer only, 'an unusually wet summer', and does not date it. AND THE FILENAMES IN THIS CACHE ARE NOT A RELIABLE GUIDE. In the May era some files are named for the camping season (1967 = year ended 31 May 1968) and at least one for its year-end (1984 = year ended 31 May 1984). READ THE TITLE PAGE. ONE LIVE CITATION CHECKED: oldest-camp-question.md's note 23 assigns the 1984 and 1985 reports the summers of 1983 and 1984 'per f_5039'. THE SEASONS ARE RIGHT AND THE REASON IS WRONG -- they follow from a 31 MAY year-end, not a 31 March one. Every other season attribution drawn from an annual report after 1950 needs the same check, which is p_450.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1949",
+        "src_ymf_sgw_ymca_annual_report_1950",
+        "src_ymf_sgw_ymca_annual_report_1951",
+        "src_ymf_sgw_ymca_annual_report_1952",
+        "src_ymf_sgw_ymca_annual_report_1962",
+        "src_ymf_sgw_ymca_annual_report_1984"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.63",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5082",
+      "category": "site",
+      "date_ref": "1951-1952",
+      "entities": [
+        "Camp Perrot",
+        "Laddie Millen",
+        "J. Ernest Millen",
+        "John W. Ross",
+        "Kamp Kanawana"
+      ],
+      "claim": "THE LADDIE MILLEN MEMORIAL CRAFT SHOP WAS BUILT AND DEDICATED, WHICH SETTLES WHICH BUILDING AT CAMP PERROT CARRIES WHICH NAME. f_5078 left this open: the 1947 annual report assigns the hospital to Laddie Millen and the craftsmanship hut to John W. Ross, while the 1948 and 1949 reports call the hospital the John W. Ross Memorial Hospital, and none of the three explains the swap. THE REPORT FOR THE YEAR ENDING 31 DECEMBER 1951 CLOSES IT: 'Through the generous gift of J. Ernest Millen and family, A COMPLETELY EQUIPPED, MODERN HANDICRAFT WORKSHOP WAS OPENED AND DEDICATED IN MID-SUMMER AS THE LADDIE MILLEN MEMORIAL CRAFT SHOP', and its property section repeats it: 'The construction was completed of a fully-equipped CRAFT SHOP at Camp Perrot, AS A MEMORIAL TO THE LATE LADDIE MILLEN, through the generosity of J. Ernest Millen and the members of his family.' SO AS BUILT: THE HOSPITAL IS JOHN W. ROSS'S MEMORIAL AND THE CRAFT SHOP IS LADDIE MILLEN'S -- the 1947 report's pairing is the one that did not survive contact with construction. The hospital stood by 1949 and the craft shop in mid-summer 1951, four years after the $2,000 fund was announced. NOTE THE YEAR-END. This is the 100th report, for the year ending 31 DECEMBER 1951, so its summer is 1951 and not 1950 (f_5081). ALSO FROM THE SAME TWO REPORTS: Kanawana got 'new refrigeration facilities and replacement of Lower Pavilion building' in 1951, and the three permanent camps together registered 1,929 campers -- 'men, women, boys and girls' -- that season. AND AN ACREAGE THAT DOES NOT MATCH. The report for the year ending 31 December 1952 describes 'Kamp Kanawana, for boys 8-16 years of age, COVERS SIXTY ACRES of woodland and lakes... near St. Sauveur in the Laurentians, FIFTY MILES NORTH OF MONTREAL'. site/the-kanawana-site.md gives 600 ACRES on the authority of the annual reports of 1949-1959, and the 1949 report does say 600. SIXTY IS EITHER A DROPPED ZERO IN THE PRINTING, A DROPPED ZERO IN THIS SCAN, OR A DIFFERENT MEASURE ENTIRELY, AND I CANNOT TELL WHICH FROM THE TEXT. Recorded, not resolved. The same passage gives Camp Perrot as 'FORTY ACRES... facing Lake St. Louis... TWENTY-EIGHT MILES WEST OF MONTREAL', which is the 28 miles the Perrot brochures give AGAINST THE 1945 REPORT'S 'ABOUT 50 MILES' (f_5074) -- so the 28 figure is now in an annual report too, and 50 stands alone. Perrot's acreage is given as 45 in the 1949 report and 40 here.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1951",
+        "src_ymf_sgw_ymca_annual_report_1952"
       ],
       "confidence": "stated",
       "conflicts_with": [],

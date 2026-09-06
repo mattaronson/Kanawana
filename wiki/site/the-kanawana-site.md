@@ -1,7 +1,7 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 50*
-*Last Updated: 2026-09-06 (and the post office is gone by the mid-1960s, with its mail redirected to Saint-Sauveur)*
+*Status: E1-reviewed | Sources: 51*
+*Last Updated: 2026-09-06 (a second "sixty acres," from 1952, so the 1957 one is not a lone typo)*
 
 ## Overview
 
@@ -131,13 +131,16 @@ the Kanawana site has ever been surveyed."^35
 |---|---|
 | 150 acres | CFCF radio broadcast, 1936^36 |
 | 600 acres | YMCA annual reports, 1949–1959^36 |
-| "a sixty acre site" | 1957 annual report — almost certainly a typo for 600^36 |
+| "covers sixty acres of woodland and lakes" | **1952** annual report (year ending 31 December 1952)^51 |
+| "a sixty acre site" | 1957 annual report — see the note below^36 |
 | ~1,000 acres | Kamp Kanawana annual report 1964; SGW YMCA annual report 1964; YMCA news release 13 May 1969; Kamp Kanawana annual reports 1969 and 1970^37 |
 | 1,200 acres "of private land and lakes" | *The Gazette*, 18 April 1974^38 |
 | 455 acres land / 537 acres total | Royal LePage report to the YMCA, 1989, quoted in the 1988 Task Force report^35 |
 | 1,000 acres "of wooded property" | *Summer Camps & Programs* (American camp guide), 1983^47 |
 | 500 acres | *Canadian Summer Job Directory*, 2006 edition^48 |
 | 550 acres | *Canadian Summer Job Directory*, 2008 edition^48 |
+
+**On "sixty."** The 1957 report's sixty acres was previously written off here as "almost certainly a typo for 600." It now has company: the 1952 report says the same thing, in a fuller sentence — "covers sixty acres of woodland and lakes, on Y.M.C.A. property, near St. Sauveur in the Laurentians, fifty miles north of Montreal."^51 Two printings five years apart is either a house error copied forward from one year's boilerplate to the next, which is the likeliest reading given that the reports of 1949 and 1959 both say 600, or a genuinely different measure — the developed camp proper rather than the whole holding. The text does not say which, and this article does not decide.
 | 550 acres | YMCA Quebec, current^1 |
 
 The large mid-century figures begin in a specific year. The Task Force chronology records that in
@@ -363,6 +366,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 49. Rand, McNally & Co.'s *Indexed Pocket Map and Shippers' Guide of Quebec* (Chicago, 1911) [src_rand_mcnally_quebec_1911]. **Not lending-restricted**: the full text was downloaded and searched 2026-09-06, and "Kanawana" occurs exactly once in it. The entry, its neighbours and the guide's own legend are cached at `sources/cache/postal/1911-rand-mcnally-quebec-kanawana-summer-po.txt`. See [f_4936], [f_4944].
 
 50. *McGraw-Hill Directory and Almanac of Canada*, "Post Offices in Canada" [src_mcgraw_hill_directory_almanac_canada_1960s]. **The list's heading and one entry only**, reconstructed 2026-09-06 from eleven overlapping Open Library search-inside queries; the series is lending-restricted, page images return HTTP 403, and no volume has been read. The Internet Archive catalogues four separate printings of this series as 1966 and no internal year was recovered from any of them, so the date is carried as catalogued and not as verified. Cached with its queries and its dating caution at `sources/cache/postal/1960s-mcgraw-hill-directory-almanac-kanawana-closed-office.txt`. See [f_4954].
+51. YMCA of Montreal annual report for the year ending **31 December 1952** [src_ymf_sgw_ymca_annual_report_1952], the camps description: "Kamp Kanawana, for boys 8-16 years of age, covers sixty acres of woodland and lakes, on Y.M.C.A. property, near St. Sauveur in the Laurentians, fifty miles north of Montreal." Read 2026-09-06 under p_441. See [f_5082].
 
 ## Research Notes
 

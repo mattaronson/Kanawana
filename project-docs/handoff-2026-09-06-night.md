@@ -479,3 +479,43 @@ The general form is worth holding on to, because it will recur wherever two peop
 date: **matching on tokens means matching on how someone chose to spell them.** The same problem
 produces "Budee" for Budge (rule 33) and defeats a single-spaced grep against double-spaced OCR
 (rule 22). Every one of these is the same failure at a different layer.
+
+## 37. A rule you established from five title pages holds for five title pages
+
+`f_5039` opens "EVERY ONE OF THESE ANNUAL REPORTS COVERS THE YEAR ENDING 31 MARCH." The title pages
+actually read were the 92nd through 96th, 1943 to 1947. The sentence generalises to a run of forty
+volumes, and it has been cited that way — including in `oldest-camp-question.md`, where the 1984 and
+1985 reports were assigned their seasons "per f_5039."
+
+The association moved its year-end twice. Through the 99th report it is 31 March. The 100th is "FOR
+THE YEAR ENDING DECEMBER 31ST, 1951," and December is still in force in 1962. By the mid-1960s it is
+31 May. So a report from the December era describes **the same summer as its cover year**, and
+applying the 31 March rule to it moves the season a year in the wrong direction.
+
+Nothing had actually gone wrong yet in the one live citation — the 1984 seasons are right, because a
+year ending 31 May contains the earlier summer — but the stated reason was wrong, which is the same
+defect one step from being an error. Corrected in place; every other post-1950 attribution is p_450.
+
+Two consequences worth carrying:
+
+**Read the title page, not the filename.** In the May era the cache is inconsistent about which year
+a file is named for: `sgw-ymca-annual-report-1967.txt` is the report for the year ended 31 May 1968,
+while `sgw-ymca-annual-report-1984.txt` is for the year ended 31 May 1984.
+
+**When you write a fact that establishes a rule, write down the evidence's extent in the same
+sentence as the rule.** "Every one of these" invites the next reader — who is usually you — to
+decide for themselves what "these" covers.
+
+## 38. Rule 32, third occurrence, and this one was silent
+
+Typed `^49` into a table in `the-kanawana-site.md` before running `add_source_note.py`, which then
+assigned 51. Entries 49 and 50 already existed: Rand McNally's 1911 pocket map and a McGraw-Hill
+directory. The sixty-acre row would have cited a road atlas for an acreage, and **every check would
+have passed** — the marker exists, the entry exists, the numbering is contiguous.
+
+The first occurrence of this collided with a real 1951 source and was invisible too. The second ran
+ahead and left a hole, which `verify_harness` caught. So of three occurrences, two were silent. The
+check cannot see this class of error at all; only the ordering discipline prevents it.
+
+**Run the script first. Put the number it gives you in the prose. There is no version of this where
+you know the number in advance.**
