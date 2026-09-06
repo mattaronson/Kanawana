@@ -27070,8 +27070,8 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "read_state": "unread",
-      "read_state_basis": "none: catalogued 2026-09-02 from a cached file that belonged to no source record",
+      "read_state": "extracted",
+      "read_state_basis": "confirmed 2026-09-06 under p_451: this cached file and the pathless record src_ia_autobiographical_sketch_1919 are the same document, proved by matching a phrase QUOTED IN A FACT that cites src_ia_autobiographical_sketch_1919 against this file's text (\"it was decided to locate the first camp...\"). The file was read; the 'unread' came from its auto-cataloguing on 2026-09-02 as an orphan cache file, not from anyone opening it and finding nothing. The duplicate pair itself is p_442's to resolve.",
       "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read."
     },
     {
@@ -27196,8 +27196,8 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "read_state": "unread",
-      "read_state_basis": "none: catalogued 2026-09-02 from a cached file that belonged to no source record",
+      "read_state": "extracted",
+      "read_state_basis": "confirmed 2026-09-06 under p_451: this cached file and the pathless record src_ia_kanawana_place_to_grow_1988 are the same document, proved by matching a phrase QUOTED IN A FACT that cites src_ia_kanawana_place_to_grow_1988 against this file's text (\"1968 Kamp Kanawana admits female campers for the...\"). The file was read; the 'unread' came from its auto-cataloguing on 2026-09-02 as an orphan cache file, not from anyone opening it and finding nothing. The duplicate pair itself is p_442's to resolve.",
       "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read."
     },
     {
@@ -27394,8 +27394,8 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "read_state": "unread",
-      "read_state_basis": "none: catalogued 2026-09-02 from a cached file that belonged to no source record",
+      "read_state": "extracted",
+      "read_state_basis": "confirmed 2026-09-06 under p_451: this cached file and the pathless record src_ia_ymca_annual_1902 are the same document, proved by matching a phrase QUOTED IN A FACT that cites src_ia_ymca_annual_1902 against this file's text (\"Mr. W. H. Ball, the Association's first...\"). The file was read; the 'unread' came from its auto-cataloguing on 2026-09-02 as an orphan cache file, not from anyone opening it and finding nothing. The duplicate pair itself is p_442's to resolve.",
       "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read."
     },
     {

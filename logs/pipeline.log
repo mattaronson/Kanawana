@@ -3180,3 +3180,6 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
 2026-09-07T02:10Z  KB  facts.json v8.04 -> v8.05, 5,091 -> 5,092 facts.
 2026-09-07T02:35Z  READ  the four transition-year annual reports. 1959 and 1960 recovered by de-hyphenating "Dec-\nember"; 1961 read by eye and left UNREAD in the tool because its year OCRs to "I96I1" and a pattern loose enough to take it would misread elsewhere; 1966-67 states no year-end at all, so its reading is an inference from the ordinal series and is flagged as one. 142 of 166. p_450 closed. f_5131.
 2026-09-07T02:35Z  KB  facts.json v8.05 -> v8.06, 5,092 -> 5,093 facts.
+2026-09-07T03:00Z  TOOL  scripts/reread/derived_duplicates.py written, replacing the unversioned snippet that had lived in a pipeline log entry. Classifies each pair by the dates in its two names: 12 candidates, 4 provable collisions, 45 undecidable. f_5132.
+2026-09-07T03:00Z  PROVENANCE  three source records confirmed read and updated (1902 annual report, 1919 autobiographical sketch, 1988 Place to Grow), each by matching a phrase quoted in a citing fact against the cached file. Corpus unread 52 -> 49, extracted 772 -> 775. The probe confirms but cannot refute, so the other pairs stand. (p_451)
+2026-09-07T03:00Z  KB  facts.json v8.06 -> v8.07, 5,093 -> 5,094 facts.

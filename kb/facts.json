@@ -1,8 +1,8 @@
 {
-  "version": "8.06",
-  "kb_version": "8.06",
+  "version": "8.07",
+  "kb_version": "8.07",
   "migrated_from": "3.3",
-  "fact_count": 5093,
+  "fact_count": 5094,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91825,6 +91825,20 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.06",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5132",
+      "category": "methodology",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project"
+      ],
+      "claim": "MOST OF THE 'UNREAD FILE SHADOWED BY AN EXTRACTED RECORD' PAIRS ARE NAME COLLISIONS, AND THE VERIFICATION THAT SETTLES THEM ONLY WORKS ONE WAY. p_451's list of 78 pairs was ranked by how many facts cite the pathless record and worked from the bottom. Classifying the pairs by the dates in their two names shows the list was polluted: a February 1970 record was shadowing news releases of September 1970, and 1964 and 1965 releases were shadowed by a 1970 record. The cause is duplicate_sources.py's overlap threshold, loosened to 0.75 earlier in this session to catch 'sgw-ymca-annual-report-1966-67' against 'YMCA Montreal Annual Report 1966-67'; in a corpus full of formulaic names -- news-release-1970-09-21 -- that threshold matches things sharing only their shape. Of the pairs the versioned generator now produces, 12 are candidates, 4 are provable collisions and 45 cannot be decided from the names at all. THE VERIFICATION IS ONE-DIRECTIONAL AND THIS IS THE PART WORTH KEEPING: a phrase quoted in a fact that cites the shadow, found in the cached file, PROVES the two are the same document; NOT finding it proves nothing, because the OCR mangles words and a multi-source fact may be quoting its other source. Run over the 20 candidates, the probe confirmed 4 and 'failed' on the rest, and treating those failures as evidence of difference would have been wrong. Three records were updated on the confirmed evidence (the fourth was already 'partial', so the old list was stale): src_cache_sgw_ymca_annual_report_1902, src_cache_1919_08_brief_autobiographical_sketch_of_association_career, src_cache_1988_kanawana_a_place_to_grow_report. Corpus unread 52 -> 49, extracted 772 -> 775. The duplicate PAIRS themselves are p_442's to resolve, not this pass's. ALSO CHECKED AND DISMISSED: the 1988 'Kanawana... A Place to Grow' cache file opens with the line '1983', which 19 facts calling it 'the 1988 report' would contradict. Its own Programme Highlights run to 1987 and its text cites 1988 and 1989, so the 1988 dating holds and the stray line is noise.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.07",
       "added_by": "manual"
     }
   ]
