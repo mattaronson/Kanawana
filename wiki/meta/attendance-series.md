@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 30*
+*Status: draft | Sources: 32*
 *Last Updated: 2026-09-06 (the 1916 fee and season, from a school magazine advertisement)*
 
 ## Overview
@@ -39,7 +39,7 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | Season | Campers | Boy-weeks | Notes |
 |---|---|---|---|
 | 1910 | *(capacity 70)* | — | Opening season, 1 July – 15 Aug, under **W. J. Holliday** — whom the 1931 report calls "**the first camp director**" |
-| 1912 | 187 | — | |
+| 1912 | 187 | — | "Last summer **123 men and 187 boys** secured a most delightful vacation in these helpful surroundings" — the 123 is the men's camp at Lac St. Joseph the same summer, and the two must not be added^31 |
 | 1913 | 162 | — | |
 | 1915 | 167 | — | 26 June – 25 Aug |
 | 1916 | 175 | — | Season 24 June – 12 August; $5.00 a week^11 |
@@ -122,7 +122,7 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1996 | 92% occupancy | — | |
 | **1997–98** | **1,750** | — | *PROGRAMS / PERSONS table, year ended 31 May 1998 — the year before this series previously began, and the highest figure in the whole run*^29 |
 | 1998–99 | 1,500 | — | *The report calls these fifteen hundred **campers**, on a two-week residential experience, 52 of them on financial assistance — see the caution below*^29 |
-| 1999–2000 | 1,150 | — | *Ages 3–60, i.e. includes rentals* |
+| 1999–2000 | 1,150 | — | *Ages 3–60, and the report says why: "a total of 1150 people participated in our **summer rental and camp programs** alone" — rentals are in, for this year explicitly*^32 |
 | 2000–01 | 1,220 | — | *Same caveat* |
 | **2001** | **"more than 220"** *and* **1,332** | — | **One report, two numbers, and they cannot both be season registrations.** The 2001-2002 annual report's "A Year of Firsts" says "during the summer, the camp welcomed **more than 220 campers, up 19% from last year. Registration has never been this high!**" Its own Social Audit table gives "**YMCA Kamp Kanawana 1,332**". The 1,332 is a programme persons count like the 2008 and 2009 rows below. **The 220 is the problem**: a camp that took 473 in 1955 and 770 the following summer cannot have set a registration record at 220, so either the figure is scoped to something the sentence does not name, or a digit is lost in the scan. Both are recorded; neither is preferred, and no trend should be drawn through the 220^25 |
 | **2002** | **770** | — | "On site at Kamp Kanawana, **770 Kampers** enjoyed a whole range of outdoor activities", and "registration has increased **40% over the past three years**", in the annual report for the **year ended 31 May 2003** — so this is the summer of 2002. **Corrected 2026-09-06: this row previously read 2005 and carried no citation at all**, and no fact in the KB supported it; the figure matches this report exactly and its year does not.^23 |
@@ -394,6 +394,8 @@ Three things stand out and none of them is visible from any single article.
 28. YMCA of Montreal annual report **for the year ended 31 May 1988** [src_ymf_sgw_ymca_annual_report_1988], the section headed "KAMP KANAWANA: NON NOBIS SOLUM." Read 2026-09-06 under p_454. See [f_5182] and `c_067`.
 29. YMCA of Montreal annual reports for the years ended **31 May 1998** and **31 May 1999** [src_ymf_sgw_ymca_annual_report_1998, src_ymf_sgw_ymca_annual_report_1998_1999] — the "PROGRAMS / PERSONS" table in each, and the 1999 volume's page headed "KANAWANA - THE CAMP WHERE EVERYONE IS WELCOME." Read 2026-09-06 under p_454. See [f_5183].
 30. The **French editions** of the annual reports for 1988, 2000-2001 and 2006 [src_ymf_sgw_ymca_annual_report_1988_fr, src_ymf_sgw_ymca_annual_report_2000_2001_fr, src_ymf_sgw_ymca_annual_report_2006_fr], compared passage by passage against their English twins 2026-09-06 under p_454. All three are straight translations; their value is as a second scan of the same text, since the OCR damage falls differently. See [f_5184].
+31. YMCA of Montreal annual report for **1913** [src_ymf_sgw_ymca_annual_report_1913] — "Last summer 123 men and 187 boys secured a most delightful vacation in these helpful surroundings," covering the summer of 1912. Read 2026-09-06 under p_454. See [f_5193].
+32. YMCA of Montreal annual report for **1999-2000** [src_ymf_sgw_ymca_annual_report_1999_2000], the page headed "Kamp Kanawana - A Camp for People of All Ages." Read 2026-09-06 under p_454. See [f_5195].
 
 ## Research Notes
 

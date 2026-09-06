@@ -1,8 +1,8 @@
 {
-  "version": "8.39",
-  "kb_version": "8.39",
+  "version": "8.40",
+  "kb_version": "8.40",
   "migrated_from": "3.3",
-  "fact_count": 5154,
+  "fact_count": 5157,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -92908,6 +92908,59 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.39",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5193",
+      "category": "site",
+      "date_ref": "1912",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Otoreke",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE PROPERTY AS THE ASSOCIATION DESCRIBED IT TWO YEARS AFTER BUYING IT, AND THE OTHER HALF OF THE 1912 SEASON. The annual report for 1913, describing both camps: 'one for men on LAC ST. JOSEPH near Ste. Agathe, consisting of THREE ISLANDS, A CLUB HOUSE, BOAT HOUSE, and equipment; and the other for boys at CAMP KANAWANA, ABOUT SIX MILES FROM PIEDMONT, consisting of TWO LAKES AND THE SHORE LINE FROM ONE TO TWO ACRES BACK, WHICH GIVES THE ASSOCIATION THE PRACTICAL CONTROL OF THESE LAKES. A DINING ROOM, KITCHEN, WITH TENTS, BOATS, ETC., IS NOW PROVIDED, and the Committee is ENDEAVORING TO SECURE A PAVILION FOR USE AS CLUB AND BOAT HOUSE. LAST SUMMER 123 MEN AND 187 BOYS secured a most delightful vacation in these helpful surroundings.' FOUR THINGS. (1) THE ORIGINAL HOLDING WAS A SHORELINE STRIP, not a block of land: two lakes plus one to two acres back from the water, bought for CONTROL OF THE LAKES rather than for acreage. That is the beginning of the acreage series site/the-kanawana-site.md tracks from 1936 onward, and it explains why the early figures are small. (2) THE PAVILION IS NOT YET BUILT and the committee is trying to fund it -- a datable want, against the two pavilions traditions/programs-activities.md records as 'both new as of 1922'. (3) 187 BOYS CONFIRMS the 1912 row in meta/attendance-series.md, which carried the figure uncited, AND THE 123 MEN IS NEW -- the senior camp at Lac St. Joseph the same summer, which is the paired figure that article's scope note warns must not be added to the boys' series. (4) Otoreke is 'THREE ISLANDS' here, which bears on conflict c_008 on the island count.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1913"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.40",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5194",
+      "category": "programs",
+      "date_ref": "1997",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "KANAWANA-BE'S AGE BAND, FROM THE ASSOCIATION'S OWN REPORT FOR THE LAUNCH YEAR, DOES NOT MATCH WHAT THIS WIKI SAYS. The 1997 annual report: 'The new \"KANAWANA-BE\" CAMP EXPERIENCE WAS LAUNCHED. It is ESPECIALLY DESIGNED FOR CHILDREN BETWEEN THE AGES OF 6 AND 8.' traditions/programs-activities.md says: 'In 1997, the Kanawana-Be programme was introduced for CHILDREN AGED 5-6, lowering the entry age.' The launch year agrees; the age band does not. THE ANNUAL REPORT IS THE ASSOCIATION SPEAKING IN THE LAUNCH YEAR ITSELF, which is the stronger position, so the article is corrected to 6-8 with the old reading kept visible rather than deleted. IT ALSO CHANGES THE POINT THE SENTENCE WAS MAKING: at 6 to 8 the programme still lowers the entry age against a camp the 1988 report describes as serving 7 to 15 (f_5182), but by one year rather than two, and it is a band that OVERLAPS the main camp rather than sitting wholly below it. What the article's 5-6 rests on is not recorded in it; if a source is found saying 5-6, this becomes a conflict record rather than a correction.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1997"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.40",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5195",
+      "category": "operations",
+      "date_ref": "1999",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal",
+        "Allan Memorial Institute"
+      ],
+      "claim": "WHAT THE 1,150 ACTUALLY COUNTS, IN THE REPORT'S OWN WORDS, AND WHO ELSE WAS ON SITE. The annual report for 1999-2000, under 'KAMP KANAWANA - A CAMP FOR PEOPLE OF ALL AGES': 'This year, Kamp Kanawana welcomed campers BETWEEN THE AGES OF 3 AND 60 from numerous organizations. A TOTAL OF 1150 PEOPLE PARTICIPATED IN OUR SUMMER RENTAL AND CAMP PROGRAMS ALONE. We also opened our doors to groups from organizations other than the YMCA, including the ALLAN MEMORIAL INSTITUTE and various MONTREAL SCHOOL BOARDS. On a more practical note, WE ACQUIRED NEW EQUIPMENT FOR OUR CANOE TRIPPING, ARCHERY AND SAILING PROGRAMS. Through a DONATION OF WOOD SUPPLIES FROM GOODFELLOW WOOD AND LUMBER, we improved our facilities by building NEW PICNIC TABLES AND TWO NEW CABINS, as well as REBUILDING DECKS AND STAIRS.' THIS SETTLES THE CAVEAT FOR THIS YEAR AND ONLY THIS YEAR: 'summer rental AND camp programs' is the report's own phrase, so the 1,150 does include rentals and meta/attendance-series.md's warning holds here -- which is what makes the 1998-99 volume's contrasting 'fifteen hundred campers ... two-week camping experience' (f_5183) worth distinguishing rather than lumping. THE ALLAN MEMORIAL INSTITUTE is new to this project as a Kanawana user; the 2000-2001 report names it again, so it is at least a two-year relationship. GOODFELLOW WOOD AND LUMBER and the two cabins are the only dated construction this project holds for the late 1990s.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1999_2000"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.40",
       "added_by": "manual"
     }
   ]

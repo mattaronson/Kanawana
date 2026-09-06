@@ -1,6 +1,6 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 57*
+*Status: E1-reviewed | Sources: 58*
 *Last Updated: 2026-09-06 (a land purchase in 1963-64, which would explain the jump from 600 acres to 1,000)*
 
 ## Overview
@@ -249,6 +249,20 @@ use. The page also gives the staff as three roles: "the **Director**, a **Doctor
 **Educational Supervisor**." A doctor resident at camp in 1919 is earlier than anything else this
 project holds on medical provision, and it sits sixty years before the infirmary standard below.
 
+**What was actually bought, in 1913 words.** The Camp Committee's description of its two properties
+is the earliest account here of what the Saint-Sauveur holding consisted of: "one for men on Lac St.
+Joseph near Ste. Agathe, consisting of three islands, a club house, boat house, and equipment; and the
+other for boys at **Camp Kanawana, about six miles from Piedmont, consisting of two lakes and the
+shore line from one to two acres back, which gives the Association the practical control of these
+lakes**. A dining room, kitchen, with tents, boats, etc., is now provided, and the Committee is
+**endeavoring to secure a pavilion** for use as club and boat house."^58
+
+Three years into the site, the holding is a **shoreline strip**, not a block of land: two lakes plus
+one to two acres back from the water, bought for control of the lakes rather than for acreage. That is
+where the acreage series above begins, and it is why its early figures are small. The pavilion is a
+want, not a building — the two pavilions recorded elsewhere as "both new as of 1922" are nine years
+away.
+
 **Where the laundry went.** The camp's washing was not done at the camp. The annual report for the
 year ending 31 March 1933, describing the new laundry in the Central residence building on Drummond
 Street: "At the present time the laundry is doing all of the work of the Residence Building, the
@@ -401,6 +415,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 55. YMCA of Montreal annual report 2006 [src_ymf_sgw_ymca_annual_report_2006]: "our exceptional 550-acre site located near Saint-Sauveur". Read 2026-09-06.
 56. *Montreal Men*, the YMCA of Montreal's annual report for the year ending 30 April 1919 [src_ymf_sgw_ymca_annual_report_1919_montreal_men], the recruiting page headed "Camp Kanawana." Read 2026-09-06 under p_454. See [f_5178].
 57. YMCA of Montreal annual report for the year ending 31 March 1933 [src_ymf_sgw_ymca_annual_report_1933], on the Central residence building's laundry. Read 2026-09-06 under p_454. See [f_5181].
+58. YMCA of Montreal annual report for **1913** [src_ymf_sgw_ymca_annual_report_1913], the Camp Committee's description of both camp properties. Read 2026-09-06 under p_454. See [f_5193].
 
 ## Research Notes
 
