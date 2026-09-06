@@ -26,14 +26,24 @@ Sauveur des Mont[s]**" — a contracted mail service between the camp and the vi
 The Sessional Papers for **1919** say what kind of office it was: "**Kanawana (summer office) P.Q.**"
 The parenthesis is the Department's own, and it appears in the same list against Kahshe Lake and
 Kawartha Park, both Ontario cottage-country offices. So the office opened with the season and closed
-with it. The **Canadian Almanac and Directory** carries Kanawana in its table of "Post Offices and
-Railroad Stations in Canada" in both the **1917** and **1918** editions. Sixty years later the *Atlas of
-Canada* (1981) still indexes "Kanawana, UP (Que.)" — UP for unincorporated place.
+with it.
 
-What this adds to the site's history is a matter of standing rather than detail. **A place gets a post
-office when enough mail moves through it to be worth a contract**, and Kanawana had one within a few
-years of the YMCA's arrival, with its own named route down to Saint-Sauveur. The boys' letters home,
-which the camp's own publications treat as a domestic detail, were federal mail on a Dominion route.
+**And it lasted forty years.** The *Canadian Almanac and Directory* carries Kanawana in its table of
+"Post Offices and Railroad Stations in Canada" in the **1917** and **1918** editions, again in **1943**,
+and again in two editions of the **1950s**. The 1943 row is the one whose columns survived the scan
+legibly, and it gives the whole entry: "**Kanawana … Terrebonne … Q | St. Sauveur 529 or Piedmont
+535**" — the office in **Terrebonne county**, with **St. Sauveur** or **Piedmont** as its railway
+station, and no population figure beside the name, which in that table marks an unincorporated place.
+The two 1950s volumes carry no legible year of their own; one prints calendars for 1951 and 1952 and
+the other for 1954 and 1955, which dates them to the early and the middle 1950s and no closer. Later
+still, the *Atlas of Canada* (1981) indexes "Kanawana, UP (Que.)" — UP for unincorporated place.
+
+What this adds to the site's history is a matter of standing rather than detail. **A place gets a post office when enough mail moves through it to be worth a contract**, and Kanawana
+had one within a few years of the YMCA's arrival, with its own named route down to Saint-Sauveur, and
+kept it for about forty years. The boys' letters home, which the camp's own publications treat as a
+domestic detail, were federal mail on a Dominion route — including the long ones a boy wrote from here
+in the 1950s that a Montreal memoir still remembered sixty years later (see
+[[history/postwar-gap|The Postwar Gap]]).
 
 Three things are not established and should not be inferred: **when the office opened and when it
 closed**, **who the postmaster was**, and whether it served the camp alone or a wider seasonal
