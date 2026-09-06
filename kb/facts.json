@@ -1,8 +1,8 @@
 {
-  "version": "8.20",
-  "kb_version": "8.20",
+  "version": "8.21",
+  "kb_version": "8.21",
   "migrated_from": "3.3",
-  "fact_count": 5120,
+  "fact_count": 5121,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -92287,6 +92287,26 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.20",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5159",
+      "category": "people",
+      "date_ref": "1923-1925",
+      "entities": [
+        "Philip G. Paterson",
+        "Harold C. Cross",
+        "Kamp Kanawana",
+        "Westmount YMCA"
+      ],
+      "claim": "PHILIP PATERSON DIRECTED KANAWANA FOR AT LEAST THREE SEASONS, NOT ONE, AND HAROLD CROSS DID NOT HAVE 1925. people/directors-index.md carried 'Philip G. Paterson | 1923' from the 1923 brochure, and 'Harold C. Cross | ~1925-1928' from the McMorris thesis and the 1928 brochure. THE ASSOCIATION'S OWN ANNUAL REPORTS SETTLE 1924 AND 1925. Year ending 31 March 1925, on the 1924 season: 'ELEVEN MEN WERE ASSOCIATED WITH MR. PHILIP PATERSON ON THE STAFF and TWENTY-ONE VOLUNTEERS SERVED AS TENT LEADERS.' Year ending 31 March 1926, on the 1925 season: 'THE DIRECTOR WAS PHILLIP PATERSON, B.A., OF WESTMOUNT, who had associated with him an efficient staff of 17 YOUNG MEN.' So Paterson is documented for 1923, 1924 and 1925, and CROSS'S '~1925' START IS CONTRADICTED FOR 1925 ITSELF. The tilde was always approximate; Cross's hard evidence remains 1928, where the brochure says the camp will be 'again under the personal direction of' him, implying 1927. 1926 IS UNATTESTED EITHER WAY and is not assigned. A PATTERN WORTH NOTING: both men were Westmount YMCA officers -- Paterson its Boys' Work Secretary in 1923, Cross its Executive Secretary by 1928 -- so the Westmount branch supplied Kanawana's directors across the 1920s, which no source states but both records show. OTHER 1924 FIGURES FROM THE SAME PAGE, none previously held: the camp ran NINE AND ONE-HALF WEEKS; VISITORS TOTALLED 188 against 124 in 1923; and 'FOR THE SECOND YEAR THE CAMP WAS SELF-SUPPORTING', receipts $8,772.92 against expenditures $8,148.38, A SURPLUS OF $624.54. THE ATTENDANCE NUMBERS IN BOTH REPORTS WERE ALREADY IN meta/attendance-series.md and are not new; checking that first is what kept this from being written up as a discovery.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1925",
+        "src_ymf_sgw_ymca_annual_report_1926"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.21",
       "added_by": "manual"
     }
   ]
