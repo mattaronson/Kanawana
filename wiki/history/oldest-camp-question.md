@@ -1,7 +1,7 @@
 # Is Kanawana the Oldest Camp in Canada?
 
-*Status: draft | Sources: 23*
-*Last Updated: 2026-09-06 (named as the canonical home for this argument; a duplicate copy elsewhere was retired)*
+*Status: draft | Sources: 24*
+*Last Updated: 2026-09-06 (the one published primacy claim from outside the YMCA, and why it moves nothing)*
 
 ## Overview
 
@@ -464,6 +464,21 @@ the L&V trophy as season records and closed every remaining year from 1976 forwa
 project does not hold. One caveat travels with the trophy: a 2020 shield exists and the camp did not run
 in 2020, so a shield attests a season, not necessarily a residential one.
 
+**One published source outside the YMCA does award Kanawana a primacy, and it moves nothing in the
+table above.** Armand B. Ball's *Basic Camp Management*, "An American Camp Association book" and the
+volume a North American camp administrator is handed at the start, says: "In Canada, the first
+**organizational** camp and first **independent** camp were both organized in the same year: 1894 —
+YMCA Kamp Kanawana in Quebec and Camp Keewaydin (formerly Kamp Kah Kiou) in Ontario."^24 It is the only
+statement of the kind this project has found in a professional reference work, and it is worth very
+little. *Organizational camp* is a term of art meaning a camp run by an organisation rather than a
+private owner, so the sentence sorts two categories and does not say Kanawana was the first camp of any
+kind. Ball cites nothing. And he is wrong about the other half of his own sentence: Keewaydin dates its
+founding to **1893, in Maine**, and Ontario is its later Temagami operation. A source a year out and a
+country over on one half is not one to lean on for the other. It is recorded here because a reader who
+meets it elsewhere should find it already weighed, and because the next such source will need the same
+three tests. [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping
+Movement]] sets out the reasoning in full.
+
 ## What Kanawana actually is
 
 Stated in descending order of how well the evidence supports it:
@@ -559,3 +574,4 @@ across the country, and the century that closed its own sibling camp on the orig
 21. "Come to Kanawana" brochures for the 1928 and 1929 seasons, YMCA of Montreal fonds [src_ymf_1928_come_to_kanawana_brochure, src_ymf_1929_come_to_kanawana_brochure]. See [f_5030].
 22. *125 Colourful Years*, YMCA of Montreal 125th-anniversary publication, 1976 [src_ymf_annual_report_1976_125_colourful_years]. See [f_5045].
 23. YMCA of Montreal annual reports for the years ended **31 May** 1984 and 1985 [src_ymf_sgw_ymca_annual_report_1984, src_ymf_sgw_ymca_annual_report_1985]. See [f_5047]. Their camping seasons are the summers of 1983 and 1984. **[Corrected 2026-09-06:** this note previously read "for the years ending March 1984 and March 1985" and cited [f_5039], the 31 March rule. The seasons are unchanged and still right, but the reason was wrong: the association's year-end was 31 March only through 1950, then 31 December, and by the mid-1960s **31 May**. The 1984 report's own title page reads "for the year ended May 31, 1984," and a June-to-May year contains the earlier summer. See [f_5081]; every other post-1950 season attribution is being audited under p_450.**]**
+24. Armand B. Ball, *Basic Camp Management: An Introduction to Camp Administration* (Monterey, CA: Healthy Learning, 2012), "An American Camp Association book", Internet Archive scan leaf 436 [src_ball_basic_camp_management_2012]. **One sentence only**, reconstructed from seven overlapping Open Library search-inside queries; lending-restricted, page images return HTTP 403, not read. Weighed at length in [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]. See [f_4950].
