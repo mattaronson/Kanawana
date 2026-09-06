@@ -1,0 +1,78 @@
+# What one afternoon with an ordinary browser would settle
+
+*Assembled 2026-09-06. Every item below is blocked **only** because this environment cannot solve a
+bot challenge, cannot reach a host on its egress allowlist, or cannot buy a book. **Nothing here
+needs anyone's permission.** No letter, no reader's card, no appointment.*
+
+*The separate cases that DO need something more are in `concordia-access-plan.md` (an administrator
+must throw a switch) and `trent-access-plan.md` (a reading room or a paid retrieval).*
+
+## Why this document exists
+
+Five distinct obstacles have been tested and named this session (f_5207, f_5213, f_5214, f_5215).
+**Not one of them is an institution refusing this project.**
+
+| What you see | What it is | Hosts |
+|---|---|---|
+| `403` + `cf-mitigated: challenge`, "Just a moment…" | Cloudflare JS challenge | LAC Collection Search, HathiTrust `babel`, `findingaids.loc.gov` |
+| "Radware Captcha Page", `validate.perfdrive.com`, `__uzdbm_*` | Radware Bot Manager | Archives of Ontario; **BAnQ Advitam's data API** |
+| `202` from `awselb/2.0`, zero-byte body | AWS WAF | `archives.lib.umn.edu` |
+| `403` + `x-block-reason: hostname_blocked` | **this environment's own allowlist** | `web.archive.org` (the replay host only) |
+| `000`, `ws_closed_mid_exchange` | the proxy tunnel | `web.archive.org/cdx`, `canada.ca`, rendered-browser fetches |
+
+**A warning that cost an hour today:** a CAPTCHA serves `200`. An Angular shell serves `200` with 88
+characters of text in 12.5 KB of HTML. A WAF serves `202` with nothing at all. **Measure the text, not
+the status.**
+
+## The list, in order of what it would settle
+
+### 1. Carol Skinner's blog — one click, and the URL is known
+`http://web.archive.org/web/20260518101254/https://livelovelaughwithcarol.com/`
+Captured **18 May 2026**; confirmed to exist via `archive.org/wayback/available`, which is not blocked.
+Skinner was the 2016 Pip Award recipient and this was her own long-form account. **`p_416`.**
+*Also worth trying while there:* the same host's capture list for that domain, which this environment
+cannot enumerate because the CDX API dies at the tunnel.
+
+### 2. Gaétane Verna — one page decides it
+Toronto Life, "The List: 10 things Power Plant director Gaétane Verna can't live without". Four
+attributes already converge; the piece reportedly gives her daughters' ages, which would match or
+refute the CBC's April 2021 description. **Every automated route failed** — WebFetch 403, curl 403,
+Wayback egress-blocked, archive.today reset. **`p_272`, currently the only priority marked `blocked`
+on a single unreadable page.**
+
+### 3. O. N. H. Owens's war file — LAC, Cloudflare
+The First World War personnel file for **"OWENS, OWEN NORREYS HARRINGTON"**. This session found the
+*Art Index* spelling him "**Owens, Owen N. H.**" (f_5204), which supplies the leading given name the
+wiki said no document gives — so the file is now worth opening to confirm rather than to guess.
+**`p_237`.**
+
+### 4. Kanawana's post office — LAC, Cloudflare
+Its exact closing date and its postmaster. The almanacs bracket it to about 1955–mid-1960s; LAC's
+post office records would close it. **`p_428`.**
+
+### 5. The Weredale House fonds — LAC, Cloudflare
+**Camp Lewis / Weredale records, 1919–1966.** Would answer what the YMCA's Eastern District meant in
+1921 by listing Camp Lewis among the agencies used for its boys' work. **`p_455`.**
+
+### 6. The YMCA Year Books, 1901–1905 and 1910–1920 — HathiTrust, Cloudflare
+**Public domain and full view**, and therefore one click for a person. Each volume prints the Montreal
+association's complete named staff. **`p_439`.**
+*The untried cheaper route first:* HathiTrust's bibliographic API answers `200`, so identify the
+edition there and look for the same one on the Internet Archive, whose full text this project reaches.
+
+### 7. BAnQ Advitam notice 315906, Archives of Ontario, UMN, LOC finding aids
+`p_271`'s four. For the Archives of Ontario, fetch **both** the Potter-to-Hill letter of **8 August
+1963** and Hill's reply of **11 September 1963**.
+
+### 8. Not a browser at all — twenty-five dollars
+***Lumbermen & Voyageurs: The YMCA Pine Crest Story***, sold by Camp Pine Crest itself at **$25.00
+USD**. Not digitized anywhere; not an archival hunt. **`p_404` / `p_207`.**
+*Lower urgency than it looks:* `lv-games.md` already carries the Pine Crest ceremony in Ted Yard's own
+words from his 1983 tribute.
+
+## What this list is not
+
+It is not a claim that any of these documents says something about Kanawana. Where the expectation is
+strong the reason is given; where a page is decisive, that is said. **The value of the list is that
+every item on it is cheap for a person and impossible here**, and the difference is a bot control or
+an allowlist, not anyone's decision.
