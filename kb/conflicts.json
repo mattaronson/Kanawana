@@ -150,7 +150,8 @@
       "description": "Camp Jubilee/Otoreke island count: QAHN says 'three islands' purchased; BaladoDiscovery says 'two islands' acquired in 1897",
       "fact_ids": [
         "f_0486",
-        "f_1502"
+        "f_1502",
+        "f_4916"
       ],
       "entity": "Camp Otoreke",
       "attribute": "number_of_islands",
@@ -159,7 +160,7 @@
         "Two islands acquired 1897 (BaladoDiscovery)"
       ],
       "status": "resolved_editorially",
-      "notes": "Both are secondary sources. The 1897 acquisition date in BaladoDiscovery is new — may represent a formal purchase distinct from the 1894 founding. The f_0017 fact says 'main island plus two others' suggesting three total. The two-vs-three discrepancy may reflect different sources counting the mainland landing differently. Re-checked 2026-07-08: both qahn.org and baladodecouverte.com read directly (previously inaccessible/only search-snippet-extracted); neither page's current text gives a clean, quotable exact island count or 1897 date in the sections surfaced -- QAHN says only 'situated on several islands', BaladoDecouverte's island/1897 claim wasn't found on the specific POI page checked (may be on a different page in the same circuit, or the extraction summarized around it). Still unresolved; not worth further remote-research time without narrowing which exact page/POI the 1897 claim came from.",
+      "notes": "Both are secondary sources. The 1897 acquisition date in BaladoDiscovery is new — may represent a formal purchase distinct from the 1894 founding. The f_0017 fact says 'main island plus two others' suggesting three total. The two-vs-three discrepancy may reflect different sources counting the mainland landing differently. Re-checked 2026-07-08: both qahn.org and baladodecouverte.com read directly (previously inaccessible/only search-snippet-extracted); neither page's current text gives a clean, quotable exact island count or 1897 date in the sections surfaced -- QAHN says only 'situated on several islands', BaladoDecouverte's island/1897 claim wasn't found on the specific POI page checked (may be on a different page in the same circuit, or the extraction summarized around it). Still unresolved; not worth further remote-research time without narrowing which exact page/POI the 1897 claim came from. | 2026-09-06: A PRIMARY SOURCE ENTERS, and it fits neither secondary account. The annual report for the year ending 30 April 1902 states: 'On Nov. 26th, 1901, three islands in Lac St. Joseph were sold by public auction, and the Committee purchased a small one adjoining OUR PRESENT ISLAND, for $50' (f_4916). So the association held ONE island before that date -- the report says 'our present island', singular -- and TWO after. That is a dated, priced transaction against two secondary sources neither of which could be quoted cleanly when re-checked in July 2026. It does NOT resolve the conflict: a third island could have been acquired after 1901, and the post-1902 annual reports have not been read for it. The conflict stays resolved_editorially with this datum attached.",
       "created_at": "2026-06-24T07:00:00Z",
       "affects_articles": [
         "camp-otoreke"

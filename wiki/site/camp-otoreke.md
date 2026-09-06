@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 24*
+*Status: E1-reviewed | Sources: 25*
 *Last Updated: 2026-09-06*
 
 ## Overview
@@ -260,6 +260,33 @@ island carries his name it was given in his memory rather than during his tenure
 says so. There is also an **E. M. Corbett** in an 1893-94 list and a **John Corbett** subscribing in
 1900. This is recorded so a later pass can test it, not as an answer.
 
+### 1901: one island, then two, and a survey that worked
+
+The annual report for the year ending 30 April 1902 does two things this article has wanted.^25
+
+**It dates an island purchase, and counts what the association already had.** "On **Nov. 26th, 1901**,
+three islands in Lac St. Joseph were **sold by public auction**, and the Committee purchased **a small
+one adjoining our present island, for $50**." That is a primary source with a date and a price, and it
+says the association held **one** island before that day — "our present island," singular — and **two**
+after. It fits neither of the secondary accounts behind conflict `c_008`, the "three islands" of QAHN
+and the "two islands acquired in 1897" of BaladoDécouverte, neither of which could be quoted cleanly
+when re-checked in July 2026. **It does not resolve the count**: a third island could have been bought
+at any point after 1901, and nobody here has read the later reports for it. The other two islands sold
+that day went to buyers the report does not name.
+
+**And it shows the campers' survey of October 1900 changing the camp.** The Permanent Camp Committee
+"has to report the most successful year since its opening… **The committee enlarged the kitchen and
+built a new ice-house.**"^25 Read that against what the campers had asked for fourteen months earlier: "a
+proper pantry & Ice-house built near kitchen," "Shelves are needed in the worst way in the kitchen," and
+an ice-house "not built properly" that "now spoils view from gallery."^19 **The two things the committee
+reports building are the two things the campers asked for.** It is the clearest evidence in this record
+that the 1900 circular was more than a gesture.
+
+*The season's money, for the record:* the Junior Committee took $617.26 and spent $478.67; the Senior
+Camp took $1,306.85 and spent $1,106.96; both handed their balances up to the Permanent Camp Committee;
+$490.89 went on "needed improvements and permanent equipment"; and the camp owed the Association a loan
+of $384.27, "should be repaid next year."^25
+
 ### The islands are not on the official map
 
 Quebec's toponymic register carries **120 official names in Saint-Adolphe-d'Howard, of which exactly one
@@ -341,6 +368,7 @@ Camp Otoreke closed in 1982 after nearly 90 years of continuous operation.^1 The
 22. YMCA of Montreal Annual Reports for 1890-91, 1892-93 and 1893-94, and the subscriber list in the report for 1900 [src_ia_ymca_montreal_annual_reports_collection], [src_ymf_sgw_ymca_annual_report_1990_1991]. Read for Corbett 2026-09-06 (p_253). See [f_4903].
 23. YMCA of Montreal, **Annual Report for the year ending 30 April 1899** [src_ia_ymca_montreal_annual_reports_collection]. The Permanent Camp Committee, Summer Camp and Junior Department lists, and the plate captioned "The Association Summer Camp, Lake St. Joseph." Read 2026-09-06. See [f_4908], [f_4909], [f_4910].
 24. The same report's **Permanent Camp Committee** narrative (leaf 32 of the Internet Archive scan) [src_ia_ymca_montreal_annual_reports_collection]. The Log Club house, the senior and junior seasons, the length-of-stay breakdown and the men in charge. Read 2026-09-06. See [f_4911], [f_4912], [f_4913]. *This passage is in the cached OCR text and has been since the file was ingested; it had not been read.*
+25. YMCA of Montreal, **Annual Report for the year ending 30 April 1902**, section "SUMMER CAMP, ST. AGATHE" [src_ia_ymca_montreal_annual_reports_collection]. The island auction of 26 November 1901, the kitchen and ice-house, and the season's finances. Read 2026-09-06. See [f_4915], [f_4916]; and `c_008` for the island count.
 
 ## Research Notes
 

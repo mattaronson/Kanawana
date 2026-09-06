@@ -1,8 +1,8 @@
 {
-  "version": "6.60",
-  "kb_version": "6.60",
+  "version": "6.61",
+  "kb_version": "6.61",
   "migrated_from": "3.3",
-  "fact_count": 4876,
+  "fact_count": 4879,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87553,6 +87553,65 @@
       "date_ref": "1899",
       "conflicts_with": [],
       "added_version": "6.60",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4915",
+      "claim": "THE CAMPERS' SURVEY OF OCTOBER 1900 WAS ACTED ON, AND THE REPORT SAYS SO. The YMCA of Montreal's annual report for the year ending 30 April 1902, under SUMMER CAMP, ST. AGATHE: \"The Permanent Camp Committee has to report THE MOST SUCCESSFUL YEAR SINCE ITS OPENING. 147 senior and 60 junior members spent their vacation at this delightful spot... THE COMMITTEE ENLARGED THE KITCHEN AND BUILT A NEW ICE-HOUSE. These improvements will greatly facilitate the work.\" READ AGAINST THE CIRCULAR OF 20 OCTOBER 1900 (f_4882, f_4883), in which campers asked for \"a proper pantry & Ice-house built near kitchen\", \"Shelves are needed in the worst way in the kitchen\", and complained that the ice-house was \"not built properly\" and \"now spoils view from gallery\" -- the two things the committee reports building are the two things the campers asked for. THIS IS THE CLEAREST EVIDENCE IN THE RECORD THAT THE 1900 SURVEY CHANGED THE CAMP. FINANCES for the same year: the Junior Committee received $617.26 and expended $478.67, handing a balance of $138.59 to the Permanent Camp Committee; the Senior Camp received $1,306.85 and expended $1,106.96, handing over $199.89; $490.89 was spent \"on needed improvements and permanent equipment\"; and \"The Camp Committee has received a loan from the Association of $384.27. This should be repaid next year.\"",
+      "sources": [
+        "src_ia_ymca_montreal_annual_reports_collection"
+      ],
+      "confidence": "stated",
+      "category": "history",
+      "entities": [
+        "Permanent Camp Committee",
+        "Camp Jubilee",
+        "Lac St. Joseph",
+        "Current Camp Committee"
+      ],
+      "date_ref": "1901/1902",
+      "conflicts_with": [],
+      "added_version": "6.61",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4916",
+      "claim": "A DATED ISLAND PURCHASE, AND IT SAYS THE ASSOCIATION HELD ONE ISLAND IN 1901. Same report: \"On NOV. 26TH, 1901, THREE ISLANDS IN LAC ST. JOSEPH WERE SOLD BY PUBLIC AUCTION, and the Committee purchased A SMALL ONE ADJOINING OUR PRESENT ISLAND, FOR $50.\" TWO THINGS THIS SETTLES AND ONE IT DOES NOT. It settles that on 26 November 1901 the association bought ONE small island at auction for fifty dollars, and that at that date it already held an island it called \"OUR PRESENT ISLAND\" -- SINGULAR. So immediately after this purchase the association held TWO. THAT BEARS ON c_008, the unresolved two-versus-three island count, which rests on two secondary sources (QAHN's \"three islands\" and BaladoDecouverte's \"two islands acquired in 1897\") neither of which could be quoted cleanly when re-checked in July 2026. This is a PRIMARY source with a date and a price, and it fits neither secondary account: one island before 26 November 1901, two after. IT DOES NOT RESOLVE c_008, because a third island could have been acquired at any point after 1901 and this project has not read the later reports for it. THE OTHER TWO ISLANDS SOLD AT THAT AUCTION went to buyers this document does not name.",
+      "sources": [
+        "src_ia_ymca_montreal_annual_reports_collection"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Lac St. Joseph",
+        "Camp Jubilee",
+        "Camp Otoreke",
+        "Permanent Camp Committee"
+      ],
+      "date_ref": "1901-11-26",
+      "conflicts_with": [
+        "f_0486",
+        "f_1502"
+      ],
+      "added_version": "6.61",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4917",
+      "claim": "A CAPTION SWEEP FOR PLATES ACROSS THE PRE-1912 ANNUAL REPORTS FINDS EXACTLY ONE, AND ITS LIMIT MATTERS. Searched 2026-09-06 across every cached YMCA of Montreal annual report from 1856 to 1912 for isolated all-capitals lines ending in a period and mentioning camp, lake, Joseph, Kanawana or tent -- the shape of a halftone caption. THE ONLY PLATE CAPTION NAMING THE CAMP IS THE 1899 \"THE ASSOCIATION SUMMER CAMP, LAKE ST. JOSEPH.\" (f_4914). Everything else the sweep returned is a SECTION HEADING, not a caption: \"PERMANENT CAMP COMMITTEE.\" in 1896-97 and 1899, \"SUMMER CAMP, ST. AGATHE.\" in 1902, \"SENIOR CAMP.\" and \"SUMMER CAMP.\" in the 1904 Men of Montreal, \"SUMMER CAMP.\" in 1907 -- each followed immediately by prose. The sweep also turned up the militia-camp headings of 1883, 1884 (\"MILITIA CAMP, ST. JOHNS, QUE., JUNE, 1884.\"), 1885-86 and 1886-87, corroborating that \"camp\" in these volumes usually means militia (f_4906, f_1537). THE LIMIT: THIS FINDS ONLY CAPTIONS THE OCR RENDERED LEGIBLY. A plate whose caption was mangled, or printed in a face the OCR dropped, is invisible to it, and so is any plate with no caption at all. A NULL FROM THIS SWEEP IS NOT EVIDENCE THAT A VOLUME HAS NO PHOTOGRAPH; only a page-image pass can say that, and p_425 holds it.",
+      "sources": [
+        "src_ia_ymca_montreal_annual_reports_collection"
+      ],
+      "confidence": "stated",
+      "category": "sources_and_archives",
+      "entities": [
+        "YMCA of Montreal",
+        "annual reports",
+        "Camp Jubilee"
+      ],
+      "date_ref": "2026-09-06",
+      "conflicts_with": [],
+      "added_version": "6.61",
       "added_by": "ralph_loop"
     }
   ]
