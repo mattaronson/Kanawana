@@ -175,3 +175,29 @@ McEwen 13, all false friends. Twynam 2, both false friends. Camp **name** forms 
 **Left, and each needs a pairing term rather than a bare surname:** Dawson (551), Dimock (468),
 Turner (447), Hupfield unqualified (663). An exact-phrase endpoint cannot narrow those; they want a
 boolean full-text search — HathiTrust — or a distinctive multi-word string.
+
+
+## HathiTrust, tested: the catalogue is reachable and the full text is not
+
+Two separate needs point at HathiTrust — p_439's public-domain YMCA Year Books for 1901-1905 and
+1910-1920, and the four names left on p_430, whose corpus hit-counts run 447 to 663 and which an
+exact-phrase endpoint cannot narrow. So it was tested (f_5207):
+
+| endpoint | result |
+|---|---|
+| `catalog.hathitrust.org/api/volumes/brief/oclc/<n>.json` | **200** — catalogue records only, no text, no search |
+| `babel.hathitrust.org/cgi/ls` (full-text search) | **403**, `cf-mitigated: challenge` |
+| `babel.hathitrust.org/cgi/pt` (page text) | **403**, same |
+| `solr-sdr-search.hathitrust.org` | 502 at the tunnel; not public anyway |
+
+The 403s carry `server: cloudflare` and a body titled "Just a moment…" — **a JavaScript interstitial,
+not a HathiTrust refusal and not the agent proxy**, whose status endpoint records no failure for that
+host. Same class of obstacle as the 1923 dam Bill on BAnQ (f_5162): a challenge that needs a real
+browser session, and this environment's browser dies at the proxy tunnel.
+
+**"Public domain and full view" is true and irrelevant here.** The volumes are one click away for a
+person and unreachable for this environment.
+
+**The untried two-step, worth doing before anyone calls HathiTrust a dead end:** many of its volumes
+are also on the Internet Archive, whose full text this project reaches freely. Use the bibliographic
+API to identify the edition, then look for the same one on the Archive.

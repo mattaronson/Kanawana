@@ -1,8 +1,8 @@
 {
-  "version": "8.52",
-  "kb_version": "8.52",
+  "version": "8.53",
+  "kb_version": "8.53",
   "migrated_from": "3.3",
-  "fact_count": 5168,
+  "fact_count": 5169,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93168,6 +93168,20 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.51",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5207",
+      "category": "method",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "HathiTrust"
+      ],
+      "claim": "HATHITRUST: THE CATALOGUE IS REACHABLE FROM THIS ENVIRONMENT AND THE FULL TEXT IS NOT, AND THE OBSTACLE IS CLOUDFLARE, NOT POLICY. Tested 2026-09-06 because two separate needs point at HathiTrust -- p_439's public-domain YMCA Year Books for 1901-1905 and 1910-1920, and the four names left on p_430 (Dawson, Dimock, Turner, Hupfield) whose corpus hit-counts run 447 to 663 and which an EXACT-PHRASE endpoint cannot narrow, so they want boolean full-text. RESULTS, endpoint by endpoint: (1) `catalog.hathitrust.org/api/volumes/brief/oclc/<n>.json` -- the BIBLIOGRAPHIC API -- returns **200**. Catalogue records by OCLC, LCCN or ISBN. NO FULL TEXT AND NO SEARCH. (2) `babel.hathitrust.org/cgi/ls` (full-text search) and `babel.hathitrust.org/cgi/pt` (page text) both return **403** with `cf-mitigated: challenge`, `server: cloudflare` and a body titled 'Just a moment...' -- A CLOUDFLARE JAVASCRIPT INTERSTITIAL, not a HathiTrust refusal and not the agent proxy. The proxy's own status endpoint records no failure for either host at the time of the calls; its only recent relay failure is an unrelated `ws_closed_mid_exchange` against openlibrary.org. (3) `solr-sdr-search.hathitrust.org` fails at the tunnel with 502 and is not a public endpoint in any case. WHAT THIS MEANS AND WHAT IT DOES NOT. It does NOT mean the volumes are unavailable: they are public domain and a person with an ordinary browser reaches them in one click. It means THIS ENVIRONMENT cannot, because a JS challenge needs a real browser session and this environment's browser dies at the proxy tunnel (the same obstacle recorded for the 1923 dam Bill on BAnQ, f_5162). RECORDED AS AN ACCESS FAILURE WITH A NAMED OBSTACLE rather than as a null, per the standing rule that a negative result from a tool is a fact about the tool. THE ROUTE THAT REMAINS OPEN and has not been tried: many volumes on HathiTrust are ALSO on the Internet Archive, whose full text this project reaches freely -- so the bibliographic API can be used to identify a volume and the Archive searched for the same edition. That is a two-step and it is worth doing before anyone treats HathiTrust as a dead end.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.53",
       "added_by": "manual"
     }
   ]
