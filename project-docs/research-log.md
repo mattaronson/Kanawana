@@ -5258,3 +5258,63 @@ lowercased and de-punctuated versions of titles, and they lose exactly the word 
 "Canadian Camps" from "Canadian Welfare Services". One metadata request settles it. This project has
 already been caught twice by that catalogue's *dates*; this is the first time it has been caught by
 a name.
+
+---
+
+## Phase 2 campaign — one name opened a reference series (2026-09-06)
+
+**Topic.** Still the p_430 name sweep. Four more names. This entry exists because one of them
+returned something bigger than a fact.
+
+**`"Harold C. Cross"` returns twenty hits and four are him.** The one that matters is the **YMCA Year
+Book and Official Rosters** (New York: Association Press, 1921) — **not lending-restricted**, so it
+was downloaded whole. This project had never heard of the series.
+
+It is an **annual, continent-wide roster**. For every YMCA in the United States and Canada it prints
+the complete named paid staff, branch by branch. Then it prints an *Alphabetical List of Employed
+Officers* whose own legend reads: "the figures after each name indicate **the year of entry into
+Association work**."
+
+From one volume:
+
+- "Physical, W. S. Maguire — **Boys, Harold C. Cross**" under Victoria, B.C. `harold-cross.md` had
+  said "role unspecified; **likely** Boys' Work Secretary or similar". It is no longer likely.
+- "**Cross, H. C., Victoria, B. C., Boys', 12**" — his entry into YMCA employed work in **1912**,
+  seven years before the earliest date this article had, and a new question: where was he from 1912
+  to 1919?
+- **"Industrial, John G. MacKinnon"** and **"Community, Grant D. Brandon"** — full first names for
+  two Kanawana directors the index knew only by initials, and their day posts. The index's
+  "MacKinnon, J. G. … **15**" probably joins two rows of `directors-index.md` that have sat apart as
+  possibly two men.
+- **"Asst. Physical, Hay Finlay"** at Central, where the 1922 brochure says "ex-Central YMCA Boys'
+  Physical Director" — Central's Boys' secretary that year was R. E. G. Davis. Recorded, not
+  reconciled.
+- **"Budge, D. A., Montreal, Que., Consulting, 74"** — forty-seven years in Association work.
+- **127 Drummond St.**, not the 1441 Drummond of every later directory here.
+
+**f_4964, f_4965, and p_433** for the rest of the series.
+
+**Know the limit before using it.** "Kanawana" occurs **zero** times in the volume. So do "summer
+camp" and "boys' camp". The Quebec section contains the word "camp" not once. **It rosters
+associations and their staff, not their programmes** — it will never name the camp, and it names the
+men, which is the thing this project has been missing for forty years of its subject.
+
+And a corollary that is itself a finding: **Spinney, Powter, Ereaux, Charlton and Owens are not in
+the employed-officers list at all.** That is not a null about those men. It is consistent with what
+f_4958 and f_4960 established a few hours earlier — the camp's educational and section staff were
+schoolmasters and seasonal employees, not association secretaries. The series will answer questions
+about the Y's paid officers and will not answer questions about the camp's schoolmasters.
+
+**And it closed p_430's other standing lead, as a null.** Henry Foss Hall's *The Georgian Spirit*
+(1967) thanks "my friend, Mr. Harold C. Cross, dedicated professional leader and historian of the
+Montreal YMCA", whose "research and records… have been invaluable". Pairing that phrase with
+"Montreal" returns the book, which proves the AND semantics work. Pairing it with Kanawana, Kamp
+Kanawana, summer camp, boys camp, camping and Laurentians returns **zero, six times**. The Montreal
+YMCA's own historian supplied the research for Sir George Williams University's official history and
+**the camp is nowhere in it** — which says something about how the institution told its own story:
+the university lineage and the camp lineage were separate narratives, written by the same man.
+
+**The lesson.** *A name sweep can return a shelf rather than a fact.* Twenty-three names before this
+one produced biographies, nulls and one archival lead. The twenty-fourth produced an annual
+reference series covering sixty years, and the only reason it surfaced is that somebody typed a name
+into a full-text index instead of reasoning about where the answer ought to be.

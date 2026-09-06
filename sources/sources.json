@@ -29539,7 +29539,25 @@
       "read_state": "snippet",
       "read_state_basis": "LENDING-RESTRICTED; NOT READ. One passage on scan leaf 218, reconstructed 2026-09-06 from eight overlapping Open Library search-inside queries. Page images return HTTP 403.",
       "notes": "An academic monograph quoting NELSON McEWEN in 1945 and giving his title as 'national boys work secretary of the Canadian YMCA' -- independent of the YMCA's own paper, and of the Camp Stephens alumni blog this project has relied on for his career. See f_4963."
+    },
+    {
+      "source_id": "src_ymca_year_book_official_rosters_1921",
+      "type": "report",
+      "title": "YMCA Year Book and Official Rosters (New York: Association Press, 1921)",
+      "date": "1921",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/ymcayearbookoffi00youn",
+      "cache_path": "sources/cache/ymca-yearbooks/1921-ymca-year-book-official-rosters-montreal.txt",
+      "char_count": 1826321,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.98",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "NOT lending-restricted. Full djvu text (1,826,321 bytes) downloaded and searched 2026-09-06. 'Kanawana' occurs ZERO times, and so do 'summer camp' and \"boys' camp\" -- this is a roster of associations and their paid staff, not of their programmes. The complete Quebec section, the Victoria entry, the employed-officers legend and every relevant index line were read and cached; the rest of the 700-odd pages is unread.",
+      "notes": "A SERIES THIS PROJECT DID NOT KNOW EXISTED, found by running 'Harold C. Cross' in the p_430 name sweep. Annual, North America wide, giving every association's complete named staff branch by branch AND an alphabetical index of employed officers with each man's post and HIS YEAR OF ENTRY INTO ASSOCIATION WORK. The 1921 volume prints the YMCA of Montreal's whole staff at 127 Drummond St., including John G. MacKinnon, Grant D. Brandon, Hay Finlay and D. A. Budge, and it confirms Harold C. Cross as Boys' Work Secretary at Victoria, B.C. with an entry year of 1912. See f_4964, f_4965, and p_433 for the rest of the series."
     }
   ],
-  "source_count": 1641
+  "source_count": 1642
 }

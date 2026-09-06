@@ -126,6 +126,37 @@ PEOPLE — SWEPT 2026-09-06
   James H. Turner ......... 482 hits, none identifiable as his. Do not re-run bare.
 
 
+  Harold C. Cross ......... 20 hits and FOUR ARE HIM. The biggest single return of the sweep.
+                            (a) THE YMCA YEAR BOOK AND OFFICIAL ROSTERS (1921), unrestricted --
+                            an annual continent-wide roster this project had never heard of, giving
+                            every association's complete named paid staff and an employed-officers
+                            index with each man's YEAR OF ENTRY INTO ASSOCIATION WORK. It documents
+                            Cross as Boys' Work Secretary at Victoria B.C. and dates his entry to
+                            1912 (f_4964, f_4965, and p_433 for the rest of the series).
+                            (b) HENRY FOSS HALL, THE GEORGIAN SPIRIT (1967) -- p_430's second
+                            standing lead, NOW CLOSED AS A NULL. Its acknowledgement thanks "my
+                            friend, Mr. Harold C. Cross, dedicated professional leader and historian
+                            of the Montreal YMCA". Pairing that phrase with "Montreal" returns the
+                            item, so the AND works; pairing it with Kanawana, Kamp Kanawana, summer
+                            camp, boys camp, camping and Laurentians returns zero every time. The
+                            Montreal YMCA's own historian supplied the research for the university's
+                            history and the camp is nowhere in it.
+                            (c) AMERICAN ROSE ANNUAL 1970 -- "North American Rose Gardens of 1851,
+                            Harold C. Cross, St. Anne de Bellevue, Quebec". A retirement address and
+                            a second subject. NOT PURSUED.
+                            (d) The International Council of Religious Education Yearbook 1936,
+                            already read (f_4943) -- checked, and it is the same volume, not a new
+                            year of the series.
+
+  G. David Twynam ......... 12 hits, all a tourism and outdoor-recreation academic at Lakehead and
+                            Thompson Rivers. PLAUSIBLE AS THE SAME MAN and NOT CHECKED -- an
+                            outdoor-recreation academic is exactly the career a camp person might
+                            have. Left as an open thread rather than a null.
+  John Lummis ............. 95 hits, all 18th-century English estate correspondence and an American
+                            small town. NULL.
+  W. F. Chapman ........... 0 hits.  NULL.
+
+
 STILL TO SWEEP — the rest of directors-index.md and the committee chairmen
 ---------------------------------------------------------------------------
 A. Ross Seaman · Alexandra Olshefsky · Bex Finnigan Reisler · Billy Ball · Carol Skinner ·

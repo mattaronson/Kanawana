@@ -1,7 +1,7 @@
 # Directors and Staff of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 40*
-*Last Updated: 2026-09-06 (three of these men now have day jobs, and all three are schoolmasters)*
+*Status: E1-reviewed | Sources: 41*
+*Last Updated: 2026-09-06 (day jobs for three of these men, and full first names for two more from the YMCA's own 1921 roster)*
 
 ## Summary
 
@@ -148,6 +148,14 @@ The 1921, 1922, and 1923 camp brochures and the 1923 *Gas Bag* reunion newslette
 *The identification, and what it rests on.* An uncommon surname with the same two initials, the same city, the same profession, and the exact fit of the role — Kanawana's **Educational** Director being a schoolmaster, and this one a schoolmaster who wrote a national column on how to teach. That is an identification by name, place and calling, not a documented link, and it is written here as such. The same volume was searched in full and **"Kanawana" does not appear in it once**. A different Mr. F. H. Spinney, of Hudson, New Hampshire, turns up in four Harvard College Observatory annual reports as a volunteer variable-star observer and accounts for a third of the hits on the bare name; he is not this man. Still unknown: Spinney's first name, his dates, and when he came to or left the camp beyond what the brochures imply. *The School* ran to 1935 and the later volumes are unsearched — and they cover every year of his known camp service.
 
 **1921 season.** Under director G.D. Brandon, the documented staff included H.H. Hart (Camp Doctor), F.H. Spinney (Educational Director), and Harry Smith (Chef).^3
+
+**And three of them are in the YMCA's own North American roster for 1921, with their full names and their day jobs.** The *YMCA Year Book and Official Rosters* is an annual, continent-wide list of every association's paid staff, branch by branch, and this project had never heard of it before 2026-09-06. Its Montreal entry, at **127 Drummond St.** — not the 1441 Drummond of every later directory here — gives:^41
+
+> "**Industrial, John G. MacKinnon** … **Community, Grant D. Brandon** … *Central Br.:* … Physical, Merwin F. Furey. **Asst. Physical, Hay Finlay**; O. S. McCutcheon; W. C. White. Boys, R. E. G. Davis … **Consulting, D. A. Budge**"
+
+Three consequences. **Grant D. Brandon** and **John G. MacKinnon** get their full first names, which this table has never had. **The two MacKinnon rows above are probably one man**: the 1915 row carries "John McKinnon, Boys' Work Secretary at Central" from the annual report, the 1916-19 row carries "J. G. MacKinnon", and the Year Book's index of employed officers gives "MacKinnon, J. G., Montreal, Que., Industrial, **15**" — 15 being his year of entry into Association work, which is exactly when "John McKinnon" appears. The rows are left separate here because the join rests on that arithmetic and not on a document naming him both ways. And **Hay Finlay** is *Assistant Physical* at Central in 1921, where the 1922 brochure calls him "ex-Central YMCA Boys' Physical Director" — Central's Boys' secretary that year was R. E. G. Davis, so the brochure is looser than the roster. Recorded, not reconciled.
+
+The same index gives years of entry into Association work — "Brandon, G. D. … 13", "Finlay, Hay … 14", "Budge, D. A. … **74**".^41 Budge had been in YMCA work for forty-seven years when that roster was printed.
 
 **The men the Montreal YMCA put in charge of its camps were schoolmasters.** This table lists roles and years; it has never said what any of these men did for a living, and until 2026-09-06 the project could not have told you. Three of them are now placed, and all three are in education:
 
@@ -384,6 +392,8 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 39. YMCA of Montreal, annual report for the year ending 30 April 1899, and the report for the year ending 30 April 1902 [src_ia_ymca_montreal_annual_reports_collection]. Read from the page images 2026-09-05. See [f_4908], [f_4911], [f_4913], [f_4915].
 
 40. Commercial and Technical High School (Montreal), *Prospectus for Session 1908-1909* [src_commercial_technical_high_school_prospectus_1908], and the guide-souvenir of the *Exposition pour le bien-être des enfants*, Manège Militaire, Montréal, October 1912 [src_exposition_bien_etre_enfants_1912]. **Neither is lending-restricted**: both djvu texts were downloaded whole and searched 2026-09-06, and "Kanawana" occurs in neither. The staff and committee lists, with what they do and do not establish, are cached at `sources/cache/periodicals/1908-1912-cb-powter-montreal-schoolmaster.txt`. See [f_4960], [f_4961].
+
+41. *YMCA Year Book and Official Rosters* (New York: Association Press, 1921) [src_ymca_year_book_official_rosters_1921]. **Not lending-restricted**: the full djvu text was downloaded and searched 2026-09-06. "Kanawana", "summer camp" and "boys' camp" occur in it zero times — it rosters associations and their paid staff, not their programmes. The complete Quebec section, the employed-officers legend and the relevant index lines are cached at `sources/cache/ymca-yearbooks/1921-ymca-year-book-official-rosters-montreal.txt`. See [f_4964], [f_4965].
 
 ## Research Notes
 
