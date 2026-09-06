@@ -1,7 +1,7 @@
 # Stuart McLean
 
-*Status: E1-reviewed | Sources: 15*
-*Last Updated: 2026-07-09*
+*Status: E1-reviewed | Sources: 16*
+*Last Updated: 2026-09-06 (his own published prose about the camp, found in The Vinyl Cafe Notebooks)*
 
 ## Overview
 
@@ -20,6 +20,26 @@ McLean visited a friend working at Kanawana in summer 1969 and was hired on the 
 McLean spoke repeatedly about the camp's formative impact: "When I got to camp, I found a place where I was accepted by others and I was able to contribute to the greater good. It worked its magic on me. Camp is where I found my confidence."^2 ^5 In a 2008 interview, he said: "I began pulling my adult self together at Camp Kanawana, and I benefited greatly from my camp experiences."^8 A Globe and Mail arts profile (c. 2003) described his time as a counsellor at Kanawana in his 20s as "at once magical and developmentally critical."^15 In a speech to YMCA camp directors, later excerpted in the John Island Alumni Newsletter (Spring 2012), he described arriving at camp as "a wholly unsuccessful boy" carrying "a packsack full of fears." He said: "the best I can say is that camp happened." He linked his writerly preoccupation with "the world of the family, the neighbourhood" and "the safe places that foster a sense of belonging" directly to "the kinds of places that are created at YMCA camps across North America."^3
 
 His first opportunity to mentor children and stage a variety show — skills that would define his broadcasting career — came at Camp Kanawana.^2 A frequently-quoted line — "It was the first place, as a young person, that I felt I could contribute to the greater good" — was originally said in a CBC Montreal Radio Noon interview, per OurKids.net's own framing ("in an interview with CBC Montreal's Radio Noon two years ago"), adding provenance to a quote already documented from the OurKids piece itself.^2
+
+### In his own book, and in his own sentences
+
+Every quotation above is McLean talking — an interview, a speech excerpt, a profile, somebody else's
+transcription of him. **He also wrote it down himself.** *The Vinyl Cafe Notebooks* (Viking Canada,
+2010) carries this:^16
+
+> "[Kanawana is] where it all began for me. In the summer of 1969, [I] got a job at Kamp Kanawana on
+> the shores of Lake Kanawana in the Laurentian Mountains. **Kanawana is where I found my sea legs,
+> where I was able to leave the shaky and uncertain turbulence of my adolescence behind** and find the
+> road, or, more to the point, find the where[with]al…"
+
+It says what the interviews say and it says it as a writer: not "I found my confidence" to a reporter,
+but *sea legs* and *shaky and uncertain turbulence*, forty-one years afterwards, in a book he chose to
+put it in. It also confirms **1969** from his own hand, where this article had the date from a profile.
+
+*This bears on Open Question 2 below*, which asks whether any *Vinyl Cafe* material references camp.
+This is not a Dave and Morley story — it is an essay in the *Notebooks* — but it is Vinyl Cafe material
+that names Kanawana, and it was found only because a search paired the camp's name with Sir George
+Williams University, which McLean writes about on the same page.
 
 ## Career in Broadcasting and Writing
 
@@ -106,6 +126,7 @@ McLean recorded "A Letter from Camp" for the *Vinyl Cafe* album *Up & Away* (201
 13. McMaster University, "Stuart McLean fonds." URL: https://archives.mcmaster.ca/index.php/stuart-mclean-fonds
 14. Stuart McLean, "A Letter from Camp," *The Vinyl Cafe: Up & Away* 4-CD collection, Disc Three (2016). Spotify: https://open.spotify.com/track/5Zg6psuVWQQbZb2p4Ij0JC
 15. Globe and Mail, "Stuart McLean's bent vision" (c. 2003). URL: https://www.theglobeandmail.com/arts/stuart-mcleans-bent-vision/article1047308/
+16. Stuart McLean, *The Vinyl Cafe Notebooks* (Toronto: Viking Canada, 2010), Internet Archive scan leaf 378 [src_mclean_vinyl_cafe_notebooks_2010]. **One passage only**, reconstructed 2026-09-06 from ten overlapping Open Library search-inside queries; the book is lending-restricted and has not been read, so what precedes and follows the passage is unknown, and the bracketed words are supplied. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-mclean-notebooks-and-montreal-inside-out.txt`. See [f_4941].
 
 ## Research Notes
 

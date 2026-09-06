@@ -1,8 +1,8 @@
 {
-  "version": "6.76",
-  "kb_version": "6.76",
+  "version": "6.77",
+  "kb_version": "6.77",
   "migrated_from": "3.3",
-  "fact_count": 4902,
+  "fact_count": 4904,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88054,6 +88054,42 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4941",
+      "category": "people",
+      "date_ref": "1969 / published 2010",
+      "entities": [
+        "Stuart McLean",
+        "Kamp Kanawana",
+        "Lake Kanawana"
+      ],
+      "claim": "STUART MCLEAN WROTE ABOUT KANAWANA IN ONE OF HIS OWN BOOKS, AND THIS PROJECT DID NOT KNOW IT. The Vinyl Cafe Notebooks (Toronto: Viking Canada, 2010), Internet Archive scan leaf 378: \"[Kanawana is] where it all began for me. In the summer of 1969, [I] got a job at Kamp Kanawana on the shores of Lake Kanawana in the Laurentian Mountains. KANAWANA IS WHERE I FOUND MY SEA LEGS, WHERE I WAS ABLE TO LEAVE THE SHAKY AND UNCERTAIN TURBULENCE OF MY ADOLESCENCE BEHIND and find the road, or, more to the point, find the where[with]al...\" Reconstructed 2026-09-06 from ten overlapping Open Library search-inside queries; the book is lending-restricted and has not been read, so the sentence before and the sentence after are unknown. WHY IT MATTERS: wiki/people/notable-alumni/stuart-mclean.md quotes him on the camp five times, and every one of those quotations is from an interview, a speech excerpt or a profile -- somebody else's transcription of him talking. This is HIS OWN PUBLISHED PROSE, in a book he wrote, and it says the same thing in a writer's sentences. It also confirms the 1969 start date from his own hand, where the article had it from a profile. The article's Open Question 2 asks whether any Vinyl Cafe material references camp; this is not a Dave and Morley story but it is Vinyl Cafe material about Kanawana by name. FOUND BY ACCIDENT: the query that returned it paired \"Kanawana\" with \"Sir George Williams\", because the same page has McLean on the university.",
+      "sources": [
+        "src_mclean_vinyl_cafe_notebooks_2010"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.77",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4942",
+      "category": "programs",
+      "date_ref": "1976",
+      "entities": [
+        "Kanawana Outing Club",
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE KANAWANA OUTING CLUB DESCRIBED IN A PUBLISHED CITY GUIDEBOOK, 1976. Bonnie Buxton and Betty Guernsey, Montreal Inside Out (Ottawa: Waxwing Productions, 1976), Internet Archive scan leaf 296, in a section on cross-country skiing: \"...organizes weekly trips to various trails throughout Quebec. KANAWANA OUTING CLUB, OPERATED BY THE YMCA NEAR ST-SAUVEUR, HAS 20 MILES OF BLAZED TRAILS, A CLUBHOUSE AND BABYSITTING. INSTRUCTION AND RENTALS AVAILABLE. Phone 849-[...]\" Reconstructed 2026-09-06 from six overlapping Open Library search-inside queries; the book is lending-restricted and has not been read, and the telephone number is cut off at \"849-\". FOUR THINGS THIS ADDS. (1) A SIZE: twenty miles of blazed trails, which no source in this project had. (2) A CLUBHOUSE, which is a building and therefore a thing to look for in the site records. (3) BABYSITTING, which ties the Outing Club directly to the babysitting service the YMCA's 1972-73 annual report describes for Winter Outdoor Family Camping -- the two programmes have been treated separately here and this is the first thing that joins them. (4) INSTRUCTION AND RENTALS, so the camp held a stock of ski equipment for public hire. AND ONE THING ABOUT ITS STANDING: this is the club advertised to the general Montreal public in a commercial city guide, not to campers' parents. The Outing Club has been known to this project from a felt badge and from Concordia finding-aid titles; this is the first description of it written for people outside the camp, and the first evidence of what it offered them. The 849 exchange matches the YMCA of Montreal's Drummond Street number, 849-5331, printed as Kanawana's winter office in the 1975 and 1976 national camp directories, but the digits after 849 were not recovered and the completion is not established.",
+      "sources": [
+        "src_buxton_guernsey_montreal_inside_out_1976"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.77",
       "added_by": "ralph_loop"
     }
   ]

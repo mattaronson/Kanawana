@@ -1,7 +1,7 @@
 # Winter and Year-Round Programming
 
-*Status: E1-reviewed | Sources: 11*
-*Last Updated: 2026-09-06 (E1 REVIEW pass, p_219)*
+*Status: E1-reviewed | Sources: 12*
+*Last Updated: 2026-09-06 (E1 review p_219; then the Outing Club found in a 1976 city guidebook)*
 
 ## Overview
 
@@ -30,6 +30,15 @@ Front Camp houses the Farmhouse and Blockhouse, which are winterized facilities 
   June-to-May fiscal year is what made a report labelled 1974-75 read as a 1974 figure. The same
   correction was made in [[meta/attendance-series|the attendance series]] on 2026-09-05; this
   article had been left behind.*
+- **1976**: The Outing Club is described in a **commercial Montreal guidebook**, which is the first account of it
+  written for people outside the camp. Bonnie Buxton and Betty Guernsey, *Montréal Inside Out* (1976), under
+  cross-country skiing: "**Kanawana Outing Club, operated by the YMCA near St-Sauveur, has 20 miles of blazed trails,
+  a clubhouse and babysitting. Instruction and rentals available.**"^12 Four things follow. The club had **twenty
+  miles of blazed trails** and a **clubhouse** — a size and a building this project had from nowhere. It **rented
+  equipment and taught**, so the camp kept a stock of skis for public hire. It offered **babysitting**, which is the
+  first thing to connect the Outing Club to the babysitting service the 1972-73 Annual Report describes for Winter
+  Outdoor Family Camping — the two have been treated as separate programmes here. And it was **advertised to the
+  general Montreal public** in a book people bought, not to campers' parents.
 - **Through 1979**: The "Kanawana Outing Club," a distinct winter hiking/trail program with its own badge (pictured below) and trail system, ran at least through 1979 (see [[traditions/programs-activities|Programs and Activities]]). A systematic check of every annual report from 1980 through 1988 found no further mention of the Outing Club, winter programming, or skiing at Kanawana — its exact wind-down date after 1979 is a confirmed dead end for online sources.^9
 - **1996**: The camp's own Annual Report states "this was the first time that programs were offered to groups other than summer campers" — a group of 50 Korean students spent four days in-season (summer) doing traditional camp activities. This is a genuine 1996 diversification milestone, but it describes an in-season international-group visit, not necessarily the same thing as "year-round RESIDENTIAL programming" (see below) — the two claims may be related but are not shown to be identical.^9
 - **1996 (per McMorris thesis)**: Year-round residential programming began, extending the camp's operational calendar beyond the traditional summer season.^5
@@ -82,6 +91,7 @@ David Leduc managed Camp Kanawana's summer and winter programs, including recrui
 9. YMCA of Montreal Annual Reports, 1971-72, 1972-73, 1996 [src_ia_ymca_annual_1971_72, src_ia_ymca_annual_1972_73, src_ia_ymca_annual_1996].
 10. Concordia University Records Management and Archives, YMCA of Montreal fonds, Kamp Kanawana Program sub-sub-series P0145/12B07 [src_concordia_atom_12B07], as recorded in the cached full finding aid `sources/cache/web-pages/concordia-atom-kanawana-full.txt`. See [f_2379], [f_2380].
 11. Kamp Kanawana director's report for 1975 [src_ia_kanawana_report_1975], and the 1970s attendance series assembled from the camp's own directors' reports. See [f_4843], [f_2434]. Cited here for the 1974/1975 correction above.
+12. Bonnie Buxton and Betty Guernsey, *Montréal Inside Out* (Ottawa: Waxwing Productions, 1976), Internet Archive scan leaf 296 [src_buxton_guernsey_montreal_inside_out_1976]. **One entry only**, reconstructed 2026-09-06 from six overlapping Open Library search-inside queries; the book is lending-restricted and has not been read, and the telephone number is cut off at "849-". Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-mclean-notebooks-and-montreal-inside-out.txt`. See [f_4942].
 
 ## Research Notes
 

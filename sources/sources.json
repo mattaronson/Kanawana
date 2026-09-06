@@ -29089,7 +29089,43 @@
       "read_state": "partial",
       "read_state_basis": "ONE PASSAGE FROM EACH, reconstructed 2026-09-06 from overlapping Open Library search-inside windows. All three books are lending-restricted and none has been read. Scan leaves 106, 168 and 354; printed pages unknown.",
       "notes": "None adds a fact about the camp's operation. Together they show Kanawana as a name a Montreal reader recognised without explanation from 1967 to 2009. The other IA item ids are mycanadasuchmech0000mike and politicspeoplepo0000macd. See f_4940."
+    },
+    {
+      "source_id": "src_mclean_vinyl_cafe_notebooks_2010",
+      "type": "web",
+      "title": "Stuart McLean, The Vinyl Cafe Notebooks (Toronto: Viking Canada, 2010) — the passage on Kamp Kanawana",
+      "date": "2010",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/vinylcafenoteboo0000mcle",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-mclean-notebooks-and-montreal-inside-out.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.77",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "ONE PASSAGE ONLY, reconstructed from ten overlapping Open Library search-inside windows 2026-09-06. Scan leaf 378; printed page unknown. The book is lending-restricted and has not been read, so what precedes and follows the passage is unknown.",
+      "notes": "McLean's own published prose about the camp, as against the interviews and profiles the wiki had quoted. Confirms the 1969 start from his own hand. Found by a query pairing 'Kanawana' with 'Sir George Williams', because the same page has him on the university. See f_4941."
+    },
+    {
+      "source_id": "src_buxton_guernsey_montreal_inside_out_1976",
+      "type": "web",
+      "title": "Bonnie Buxton and Betty Guernsey, Montréal Inside Out (Ottawa: Waxwing Productions, 1976) — the Kanawana Outing Club entry",
+      "date": "1976",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/montralinsideo00buxt",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-mclean-notebooks-and-montreal-inside-out.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.77",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "ONE ENTRY ONLY, reconstructed from six overlapping Open Library search-inside windows 2026-09-06. Scan leaf 296; printed page unknown. The book is lending-restricted and has not been read. The telephone number is cut off at '849-'.",
+      "notes": "A commercial city guidebook's cross-country skiing section. Gives the Outing Club twenty miles of blazed trails, a clubhouse, babysitting, instruction and rentals -- the first description of the club written for people outside the camp. See f_4942."
     }
   ],
-  "source_count": 1616
+  "source_count": 1618
 }

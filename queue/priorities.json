@@ -5383,6 +5383,17 @@
       "created": "2026-09-06",
       "source": "Open Library search-inside sweep, 2026-09-06 (f_4933)",
       "blocked_on": null
+    },
+    {
+      "priority_id": "p_430",
+      "rank": 430,
+      "type": "RESEARCH",
+      "weight": 9,
+      "description": "SWEEP THE INTERNET ARCHIVE BOOK CORPUS ON THE CAMP'S PEOPLE AND ITS OTHER NAMES, not on 'Camp Kanawana'. The first name sweep, run 2026-09-06 on a handful of names, produced three finds in about twenty minutes and two of them were invisible to any query containing the phrase 'Camp Kanawana': Stuart McLean's own account of the camp in The Vinyl Cafe Notebooks (f_4941), found by pairing 'Kanawana' with 'Sir George Williams'; the Kanawana Outing Club described in the 1976 guidebook Montreal Inside Out (f_4942), found the same way; and W. H. Spearman as 'Manager, Beaver Club, Spring Garden' in the 1943 Canadian Almanac, a Montreal post this project did not have (logged in p_238). NAMES NOT YET SWEPT: every director in directors-index.md; Hedley S. Dimock; T. Duncan Patton; Murray B. Shantz; Ralph Dawson; R. L. Charlton; O. N. H. Owens; Nelson McEwen; James H. Turner; Leo J. Robitaille; G. David Twynam; Bruce and Jay Netherwood; and the Kanawana Committee chairmen. TWO LEADS ALREADY OPEN FROM THE FIRST PASS: Henry Foss Hall, 'The Georgian Spirit: The Story of Sir George Williams University' (1967), which thanks 'my friend, Mr. Harold C. Cross, dedicated professional leader and historian' -- so the SGW history was written with the Montreal YMCA historian's own research and records, and it has not been searched for the camp; and the International Council of Religious Education Yearbook 1936, which lists 'President -- Harold C. Cross, 1441 Drummond St., Montreal', a dated 1936 office for Cross that this project does not hold, and which is NOT lending-restricted so it can be downloaded whole. OTHER NAME FORMS UNTRIED for the camp itself: 'Kamp Kanawana', 'Kanawanna', 'Lake Kanawana', 'Lac Kanawana', 'Kanawana, Que'.",
+      "status": "pending",
+      "created": "2026-09-06",
+      "source": "Open Library search-inside name sweep, 2026-09-06 (f_4933)",
+      "blocked_on": null
     }
   ],
   "queue_ordering": {

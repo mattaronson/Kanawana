@@ -3485,7 +3485,9 @@
         "f_1897",
         "f_1898"
       ],
-      "sources_cited": [],
+      "sources_cited": [
+        "src_mclean_vinyl_cafe_notebooks_2010"
+      ],
       "open_questions": 3,
       "cross_links": [
         "coeducation-gender",
@@ -3496,7 +3498,7 @@
         "sean-day"
       ],
       "file_id": null,
-      "word_count": 1970,
+      "word_count": 2282,
       "notes": "E1 REVIEW (2026-02-19): Fixed header source IDs. All 7 checklist items PASS. RALPH R1: 26 new facts, 10 new sources. Pip Award year resolved (2009). Full biography: 1400 words, 13 sources, 9 sections. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header again (had drifted back to raw IDs since the 2026-02-19 fix). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -7185,11 +7187,12 @@
         "f_2434"
       ],
       "sources_cited": [
+        "src_buxton_guernsey_montreal_inside_out_1976",
+        "src_concordia_atom_12B07",
+        "src_ia_kanawana_report_1975",
         "src_ia_ymca_annual_1971_72",
         "src_ia_ymca_annual_1972_73",
-        "src_ia_ymca_annual_1996",
-        "src_concordia_atom_12B07",
-        "src_ia_kanawana_report_1975"
+        "src_ia_ymca_annual_1996"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -7199,7 +7202,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 1437,
+      "word_count": 1659,
       "tags": {
         "era": [
           "1970s",
