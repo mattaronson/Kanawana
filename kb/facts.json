@@ -1,8 +1,8 @@
 {
-  "version": "6.42",
-  "kb_version": "6.42",
+  "version": "6.43",
+  "kb_version": "6.43",
   "migrated_from": "3.3",
-  "fact_count": 4840,
+  "fact_count": 4846,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -39533,7 +39533,7 @@
     },
     {
       "fact_id": "f_2322",
-      "claim": "A FOUNDING-ERA DOCUMENT THAT CANNOT BE READ. 'Seventh Annual Report of the Current Camp Committee', dated 10 December 1900, is digitized in the ymca-montreal-fonds collection (8 pages) but has NO OCR TEXT LAYER -- it is an image-only scan, which is why its cached file is 0 bytes. pdftotext and pdfminer both return nothing and no OCR binary is available in this environment. THE TITLE IS THE FINDING: a SEVENTH annual report in December 1900 counts the series back to 1894, the founding year, meaning the Camp Committee produced annual reports from the beginning. Only two camp-committee reports are digitized at all, both from 1900; the other six are not online. This is a specific, high-value ask -- either an OCR pass on the existing scan or the originals from Concordia.",
+      "claim": "[SUPERSEDED 2026-09-06: the document HAS NOW BEEN READ. It has no OCR layer because it is cursive manuscript, not because the scan failed; the page images were read by eye and transcribed -- see f_4879 and sources/cache/ymca-montreal-fonds/1900-12-10-seventh-annual-report-current-camp-committee.txt. The original text follows.] A FOUNDING-ERA DOCUMENT THAT CANNOT BE READ. 'Seventh Annual Report of the Current Camp Committee', dated 10 December 1900, is digitized in the ymca-montreal-fonds collection (8 pages) but has NO OCR TEXT LAYER -- it is an image-only scan, which is why its cached file is 0 bytes. pdftotext and pdfminer both return nothing and no OCR binary is available in this environment. THE TITLE IS THE FINDING: a SEVENTH annual report in December 1900 counts the series back to 1894, the founding year, meaning the Camp Committee produced annual reports from the beginning. Only two camp-committee reports are digitized at all, both from 1900; the other six are not online. This is a specific, high-value ask -- either an OCR pass on the existing scan or the originals from Concordia.",
       "sources": [
         "src_ia_ymca_montreal_fonds_collection"
       ],
@@ -86815,6 +86815,125 @@
       "date_ref": "2026-09-06",
       "conflicts_with": [],
       "added_version": "6.42",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4879",
+      "claim": "THE 1900 REPORT IS READ. \"Seventh Annual Report of the Current Camp Committee\", 10 December 1900, is eight pages of cursive manuscript, which is why the Internet Archive scan carries no OCR text (f_2322, now superseded). The page images were read by eye and transcribed on 2026-09-06. It is addressed \"To the Chairman Permanent Camp Committee\" -- so the YMCA of Montreal ran TWO camp committees, a Permanent one and a Current one, the second reporting annually to the first -- and it is signed \"signed on behalf of the committee\" by Frank [L.] Benedict, Chairman, and a Dawson, Secretary. THE CAMP IT REPORTS ON IS LAC ST. JOSEPH, NOT KANAWANA: the suggestions name Rock Island, Corbett Island and \"all the Islands in Lac St. Joseph\". Kanawana's first season was 1910. Every place name in this document belongs to the original site at Saint-Adolphe-d'Howard.",
+      "sources": [
+        "src_ia_seventh_annual_report_current_camp_1900"
+      ],
+      "confidence": "stated",
+      "category": "documents",
+      "entities": [
+        "Current Camp Committee",
+        "Permanent Camp Committee",
+        "YMCA of Montreal",
+        "Lac St. Joseph",
+        "Camp Jubilee",
+        "Frank L. Benedict",
+        "Ralph H. Dawson"
+      ],
+      "date_ref": "1900-12-10",
+      "conflicts_with": [],
+      "added_version": "6.43",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4880",
+      "claim": "THE 1900 SEASON IN THE COMMITTEE'S OWN WORDS: THREE PARTIES, AND ONE OF THEM WAS THE BOARD. \"We think we have come through the banner year in the Camp's history.\" The committee handled three parties: (1) THE 24 MAY PARTY, \"composed of some of the most prominent members of the Association to the number of TWENTY FOUR, including the PRESIDENT, TREASURER and FOUR DIRECTORS\", lasting four days -- the committee expected the camp to \"profit very materially\" because \"the impression formed by the 'Fathers of the Association' was a very favorable one\"; (2) the regular summer party; and (3) A FALL PARTY OF TWELVE that left town on 21 SEPTEMBER and returned on the 26th, photographed \"in duck suits\" for next year's prospectus, with a different and better chef. The Annual Regatta is named as a camp fixture, and campers attended the STE AGATHE REGATTA in a body, taking the chef with them and winning ELEVEN PRIZES -- the committee notes they would have won more with skiffs to enter the rowing events. A PROSPECTUS was issued by this committee for the season and enclosed with the report.",
+      "sources": [
+        "src_ia_seventh_annual_report_current_camp_1900"
+      ],
+      "confidence": "stated",
+      "category": "history",
+      "entities": [
+        "Current Camp Committee",
+        "YMCA of Montreal",
+        "Lac St. Joseph",
+        "Sainte-Agathe"
+      ],
+      "date_ref": "1900",
+      "conflicts_with": [],
+      "added_version": "6.43",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4881",
+      "claim": "THE 1900 ATTENDANCE FIGURE WAS LEFT BLANK BY THE WRITER, AND THAT IS THE FINDING. The report reads \"The attendance of __ members shows an increase of __ over last season\" -- two gaps in the manuscript where numbers were to be filled in and never were. So this document, which looks from its title like the obvious place to get a 1900 attendance number, does not carry one, and a later pass should not go back to it expecting one. It does establish that 1900 attendance was UP on 1899.",
+      "sources": [
+        "src_ia_seventh_annual_report_current_camp_1900"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Lac St. Joseph",
+        "YMCA of Montreal",
+        "Current Camp Committee"
+      ],
+      "date_ref": "1900",
+      "conflicts_with": [],
+      "added_version": "6.43",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4882",
+      "claim": "THE FIRST CAMPER SATISFACTION SURVEY IN THIS RECORD, 20 OCTOBER 1900. \"On Oct. 20th this Committee sent a letter to every member of the Association who had been to Camp during 1900, calling for criticisms favorable or otherwise and also suggestions.\" The replies were \"almost without exception favorable and many were exceedingly complimentary\", except on the food: those who came late in the summer \"complained about the manner in which the meals were cooked and served up, but in every case stated that it was not a fault of this committee, as the food supplied was of the best, the trouble emanating entirely from the chef.\" The committee asks that a more proficient chef be secured. The report then prints ABOUT THIRTY-FIVE SUGGESTIONS VERBATIM, underlining those that several letters repeated -- a stated methodology. That is a designed, dated, written consultation of camp users in 1900, eighty-seven years before the CCA's own 1987 national questionnaire, and the replies themselves would be a further document if they survive.",
+      "sources": [
+        "src_ia_seventh_annual_report_current_camp_1900"
+      ],
+      "confidence": "stated",
+      "category": "history",
+      "entities": [
+        "Current Camp Committee",
+        "YMCA of Montreal",
+        "Lac St. Joseph"
+      ],
+      "date_ref": "1900-10-20",
+      "conflicts_with": [],
+      "added_version": "6.43",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4883",
+      "claim": "THE PHYSICAL CAMP AT LAC ST. JOSEPH IN 1900, FROM THE SUGGESTIONS THEMSELVES. Named features: a HOUSE with a GALLERY and a KITCHEN; an ICE-HOUSE badly built and blocking the view from the gallery, which the writers want moved nearer the kitchen and lined with at least six inches of sawdust with the ice raised a foot off the floor; a KITCHEN WHARF (and a demand for a permanent wharf, \"where is the one advertised in the accompanying prospectus?\"); TENTS on prepared ground, with a named tent site called \"HIGH BLUFF\" where blocks were set in the ground for the poles so they could not sink; a SPRING whose water they want pumped to the house; ROCK ISLAND, where they want a lean-to \"to rough it in while fishing\", and which they want the camp to buy; CORBETT ISLAND, where they want an athletic field; the CAMP ISLAND ITSELF, which was unnamed -- \"Why not name the camp island and also the one opposite, that is now called 'Corbett Is'?\"; DIVING ROCK, \"an ideal swimming place\", wanting a spring board; and a LUMBERMEN'S SHANTY AT THE RAPIDS which they want purchased. Equipment asked for: a couple of canoes AND A FULL SIZED WAR CANOE, decent diving boards bought in town, aluminium spoons and forks to replace worn-out plate, dinner plates rather than only soup plates, white oilcloth for the tables, two blankets a man, tent flies because the tents all leaked, and four boats repaired that \"leaked all the past season\". Also asked for: A DARK ROOM AT CAMP, and a covered waggon and carriage for campers and baggage. Two named local suppliers appear, both complained of: BERGERON, blamed for milk arriving so late that breakfast waited until half past nine, and BERGIN THE CARTER, of whom the committee reports \"We are informed that Bergin the carter sells liquor.\"",
+      "sources": [
+        "src_ia_seventh_annual_report_current_camp_1900"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Lac St. Joseph",
+        "Camp Jubilee",
+        "Rock Island",
+        "Corbett Island",
+        "High Bluff",
+        "Diving Rock",
+        "Bergeron",
+        "Bergin"
+      ],
+      "date_ref": "1900",
+      "conflicts_with": [],
+      "added_version": "6.43",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4884",
+      "claim": "THE 1900 SIGNATURES PUT THE SAME TWO MEN TOGETHER AS THE 1898 PHOTOGRAPH, AND THAT IS AS FAR AS IT GOES. The report is signed by a Chairman whose surname is plainly BENEDICT and whose middle initial is a flourished capital, and by a Secretary whose surname is plainly DAWSON and whose initials are a single interlocking monogram inside an enclosing loop. THE MONOGRAM CANNOT BE RESOLVED from this scan: the second letter reads as a capital B, the first as R or A. This project already holds the 1898 Camp Jubilee photograph caption naming FRANK L. BENEDICT and RALPH H. DAWSON among four men (f_0021, f_0930), and Ralph H. Dawson wrote the 1933 \"History of Kamp Kanawana\" (f_0049). The same two surnames signing the camp's own annual report two years after that photograph is strong circumstantial evidence that these are the same two men, and it would be the FIRST DATED OFFICE this project has for either -- but the initials on the page do not confirm it and this fact does not assert it. A clean copy of the signature block, or the Permanent Camp Committee minutes of 1899-1901 at Concordia (f_2237), would settle it.",
+      "sources": [
+        "src_ia_seventh_annual_report_current_camp_1900"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Frank L. Benedict",
+        "Ralph H. Dawson",
+        "Current Camp Committee",
+        "Camp Jubilee"
+      ],
+      "date_ref": "1900-12-10",
+      "conflicts_with": [],
+      "added_version": "6.43",
       "added_by": "ralph_loop"
     }
   ]

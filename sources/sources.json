@@ -28495,7 +28495,25 @@
       "read_state": "read",
       "read_state_basis": "three CSVs downloaded and queried 2026-09-06 (p_264); not cached in-repo (27 MB)",
       "notes": "The machine-readable form of the Banque de noms de lieux du Quebec, reachable through the CKAN API at donneesquebec.ca when the toponymie.gouv.qc.ca search form is not. Fields include Date_decision, Date_parution, Origine_linguistique, and for the desofficialises file Ancien_nom_officiel and Nom_officiel. Not cached in the repo: 27 MB, and the four rows that matter are quoted in the facts."
+    },
+    {
+      "source_id": "src_ia_seventh_annual_report_current_camp_1900",
+      "type": "report",
+      "title": "Seventh Annual Report of the Current Camp Committee, YMCA of Montreal, 10 December 1900",
+      "date": "1900-12-10",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/1900-12-10-seventh-annual-report-of-the-current-camp-committee",
+      "cache_path": "sources/cache/ymca-montreal-fonds/1900-12-10-seventh-annual-report-current-camp-committee.txt",
+      "char_count": 9679,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.43",
+      "reliability": "primary",
+      "read_state": "read",
+      "read_state_basis": "eight page images read by eye and transcribed 2026-09-06 (p_288); the item has no OCR layer because the document is cursive manuscript",
+      "notes": "Eight handwritten pages, signed Frank [L.] Benedict, Chairman, and a Dawson, Secretary. Reports three 1900 parties at LAC ST. JOSEPH -- the 24 May party of 24 senior Association men, the summer season, and a fall party of twelve, 21-26 September -- then prints about thirty-five verbatim suggestions from a circular letter of 20 October 1900 sent to every member who had been to camp that year. Names Rock Island, Corbett Island, High Bluff, Diving Rock, the Rapids and a Lumbermen's Shanty. THIS IS NOT KANAWANA: it is the original Lake Saint-Joseph camp, later Otoreke. Leaves 3, 4, 6 and 8 of the scan are inverted 180 degrees."
     }
   ],
-  "source_count": 1583
+  "source_count": 1584
 }

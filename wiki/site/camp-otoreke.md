@@ -1,7 +1,7 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 18*
-*Last Updated: 2026-07-09*
+*Status: E1-reviewed | Sources: 19*
+*Last Updated: 2026-09-06*
 
 ## Overview
 
@@ -22,6 +22,79 @@ In 1892, Lemuel Cushing of the Montreal YMCA inaugurated the camping program by 
 A BaladoDiscovery heritage tour states that the YMCA acquired the island in 1897 and accommodated 80 campers.^14 This differs from the QAHN account of "three islands" total (conflict c_008). "Three islands" is retained as the total count, consistent with this KB's existing "main island plus two others" framing; BaladoDiscovery's "two islands acquired in 1897" is read as describing a specific, later, formal transaction — plausibly the acquisition of two additional islands in 1897 to supplement an original island already in informal use since 1894 — rather than a competing total-count claim (an editorial reconciliation, not new evidence; see Revision History). The "80 campers" figure, if accurate, would indicate rapid growth within the program's first three years.
 
 The same BaladoDiscovery source, re-mined in 2026-07-09, adds construction detail not previously extracted: a local entrepreneur named **Victor Bergeron** was hired to build a two-story log cabin able to house 25 young men, and the early camp purchased staples "from the Bergin and Corbeil General Store."^14
+
+## 1900: the camp described by the men who used it
+
+The single richest document this project has for the Lake Saint-Joseph camp is the **"Seventh Annual
+Report of the Current Camp Committee," dated 10 December 1900** — eight handwritten pages, addressed "To
+the Chairman Permanent Camp Committee" and signed by Frank Benedict as Chairman and a Dawson as
+Secretary.^19 It sat unread in this project for years because the Internet Archive scan has no OCR text
+layer; that is not a defective scan but a cursive manuscript, which no OCR was going to read. The page
+images were read by eye and transcribed on 6 September 2026.^19
+
+*Two committees, not one.* The report's address establishes that the association ran a **Permanent Camp
+Committee** and a **Current Camp Committee**, the second reporting annually to the first — and that the
+series was already in its seventh year in 1900, which puts its first at 1894.^19
+
+**"We think we have come through the banner year in the Camp's history."** Three parties went out. The
+**24 May party** was twenty-four of the association's most prominent men, "including the President,
+Treasurer and four Directors," for four days; the committee expected the camp to profit "very
+materially" because the impression formed by the "Fathers of the Association" was favourable. Then the
+regular summer season. Then a **fall party of twelve**, out 21 to 26 September, photographed "in duck
+suits" for the next prospectus.^19 An **Annual Regatta** was already a camp fixture, and campers went to
+the **Sainte-Agathe Regatta** in a body, taking the chef with them, and came home with **eleven
+prizes** — more, the committee thought, had they owned skiffs to enter the rowing events.^19
+
+**The attendance figure is a blank.** The manuscript reads "The attendance of __ members shows an
+increase of __ over last season": two gaps the writer never filled. The obvious place to look for a 1900
+number does not have one. It does establish that attendance rose over 1899.^19
+
+### The 1900 survey, and what the campers asked for
+
+**On 20 October 1900 the committee wrote to every member who had been to camp that year**, "calling for
+criticisms favorable or otherwise and also suggestions," and printed about thirty-five of the replies
+verbatim, underlining those that several letters repeated.^19 That is a dated, designed consultation of
+camp users, with a stated method, in 1900. The replies were "almost without exception favorable," except
+on the food: late-summer campers complained about how meals were cooked and served but insisted the fault
+was the chef's, not the committee's — "the food supplied was of the best." One man reported that when he
+remonstrated with the chef about dishes coming to the table unwashed, "it almost came to blows." The
+committee's own recommendation is to **"Get an older Cook, a man who has passed thirty-five and one who
+knows his place."**^19
+
+The suggestions describe the physical camp better than any other source here:^19
+
+- A **house with a gallery** and a **kitchen**; an **ice-house** badly built and blocking the view from
+  the gallery, to be moved nearer the kitchen and lined with six inches of sawdust, the ice raised a
+  foot off the floor, "this would make a genuine refrigerator."
+- A **kitchen wharf**, and a demand for a permanent one: "Where is the one advertised in the accompanying
+  prospectus?"
+- **Tents on prepared ground**, with a named site — **"High Bluff"** — where blocks were set in the
+  ground for the poles so they could not sink and put the tents out of shape. All the tents were leaking.
+- A **spring**, whose water they wanted pumped to the house.
+- **Rock Island**, wanted for a lean-to "to rough it in while fishing," and wanted bought outright.
+- **Corbett Island**, wanted for an athletic field — and one writer asks the question that dates the
+  place names themselves: **"Why not name the camp island & also the one opposite, that is now 'called'
+  'Corbett Is'?"** So in 1900 the island the camp stood on had no name.
+- **Diving Rock**, "an ideal swimming place," wanting a spring board.
+- A **Lumbermen's Shanty at the Rapids**, wanted purchased, along with "all the Islands in Lac St.
+  Joseph."
+- Equipment: a couple of canoes **and a full sized war canoe**; diving boards bought in town; aluminium
+  spoons and forks, because the silver plate was worn through and "brass spoons is now more applicable";
+  dinner plates as well as soup plates; white oilcloth for the tables; two blankets a man; four boats
+  repaired that "leaked all the past season"; indoor games for wet days; and **a dark room at camp**.
+
+**Two local suppliers are named, and both names are already in this article.** Milk arrived so late that
+breakfast waited until half past nine — "Bergeron fault" — and the committee reports flatly, "We are
+informed that **Bergin** the carter sells liquor."^19 The heritage-tour account above names **Victor
+Bergeron** as the builder of the camp's two-storey log cabin and has the camp buying staples from the
+**Bergin and Corbeil General Store**. The 1900 report is an entirely independent source, written by the
+camp itself, and it puts the same two families in the same relationship to the camp. It also raises a
+possibility this article states as a question rather than a finding: whether **"Corbett Island" is an
+anglicisation of Corbeil**. Nothing here settles that.
+
+*None of this is Kanawana.* Kanawana's first season was 1910. Rock Island, Corbett Island, High Bluff,
+Diving Rock and the Rapids are features of Lake Saint-Joseph, and should not be attached to the
+Saint-Sauveur site.
 
 ## Transition to Camp Otoreke (1909-1910)
 
@@ -101,6 +174,8 @@ Camp Otoreke closed in 1982 after nearly 90 years of continuous operation.^1 The
 5. [Nice-to-have] What can be learned from the 1944 QAHN photograph about camp facilities?
 6. [Nice-to-have] Is the postcard of the camp landing datable? It would show the physical infrastructure. Re-checked 2026-07-09: the actual eBay dealer listing (item 333130004877) gives no date estimate or postmark, only the "RPPC" (real photo postcard) format designation, which loosely implies pre-1950s. Confirmed dead end for precise dating.
 7. [Important] What does W.E. Cushing's 1943 "Historical sketches—Lake St. Joseph" (Concordia Archives P0145/12A) reveal about the original Camp Jubilee/Otoreke site? See the title-discrepancy note above ("Early Days at Lake St. Joseph" vs. "Historical sketches") — confirmed no secondary source anywhere quotes or summarizes this manuscript; a physical archive visit is required.
+8. [Important] Do the six earlier reports in this series survive — the first through sixth Current Camp Committee reports, 1894 through 1899 — and the replies to the circular letter of 20 October 1900? Two of the series are digitized, both from 1900. Concordia holds Permanent Camp Committee minutes for 1895-96 and correspondence for 1899-1901 (Box HA2307 area, sub-series 12A); that is where to ask. Added to the standing Concordia letter (p_282).
+9. [Important] Whose Dawson signed the 1900 report as Secretary? The surname is plain; the initials are a monogram this scan cannot resolve. The 1898 Camp Jubilee photograph names Frank L. Benedict and Ralph H. Dawson together, and Ralph H. Dawson wrote the 1933 history of Kanawana — so the two signatures are very likely those two men, but the page does not prove it. The Permanent Camp Committee minutes would.
 
 ## Related Articles
 
@@ -131,6 +206,7 @@ Camp Otoreke closed in 1982 after nearly 90 years of continuous operation.^1 The
 16. "Camp Otoreke Blog" (self-published alumni blog, est. 2005) [src_otoreke_blog_2005]. Low reliability — single uncorroborated source with anonymous commenters.
 17. Concordia University Archives, YMCA of Montreal fonds P145/12H — Ski lodge (finding aid) [src_concordia_mirror_12h]. Static-HTML mirror, fetched and extracted 2026-08-25. See [f_2259].
 18. Concordia University Archives, YMCA of Montreal fonds P145/12C01–12C07 (finding aids) [src_concordia_mirror_12c01, src_concordia_mirror_12c02, src_concordia_mirror_12c03, src_concordia_mirror_12c04, src_concordia_mirror_12c05, src_concordia_mirror_12c07]. Same walk. See [f_2258].
+19. "Seventh Annual Report of the Current Camp Committee," YMCA of Montreal, 10 December 1900, 8 pp. manuscript [src_ia_seventh_annual_report_current_camp_1900]. Digitized in the `ymca-montreal-fonds` collection with no OCR layer, because it is cursive; the page images were read by eye and transcribed 2026-09-06 (p_288), cached at `sources/cache/ymca-montreal-fonds/1900-12-10-seventh-annual-report-current-camp-committee.txt`. Leaves 3, 4, 6 and 8 of the scan are inverted 180 degrees. See [f_4879], [f_4880], [f_4881], [f_4882], [f_4883], [f_4884].
 
 ## Research Notes
 
