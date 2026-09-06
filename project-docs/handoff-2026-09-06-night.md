@@ -310,6 +310,28 @@ repo's own cache. Neither came from a cleverer query against the whole corpus.
 The one good by-product is that the Holliday null now stands on a method that can support it: the
 Montreal YMCA's W. J. Holliday is not in that book corpus under that name.
 
+## 29. Facts here cite the COLLECTION, not the item — so "is this source cited?" is not a readable test
+
+Roughly 734 source records carry `read_state: skimmed` under one blanket note saying they were
+keyword-swept for six terms and never read closely. Asking whether their `source_id` appears in
+`facts.json` returns **no for all of them** — because facts drawn from that collection cite
+`src_ia_ymca_montreal_fonds_collection`, the collection-level id, not the item-level `src_ymf_*`
+ones. I built a claim about half the corpus on that answer and committed it. It took fifteen
+minutes to disprove.
+
+**What is actually true, on the items checked properly: they are partially extracted, one theme at
+a time.** The 1938 *Voice of Youth* radio script is labelled skimmed, and its music — set list,
+song leader, singing venues — is fully in the KB. Its skit, its cast of five named boys, its
+rehearsal room, its letterhead and a Sunday crowd of "over 250 campers and visitors" were all
+still sitting in it. That is **rule 21 at the scale of half the corpus**: read for something, and
+the something was songs.
+
+**The test that works is per-document and takes a minute.** Pick strings distinctive to the item —
+unusual names, exact figures, a room, a place — and grep those. Not the source_id, and not common
+capitalised phrases (a second attempt matched "New York" and "Park Avenue"). *Voice of Youth* was
+diagnosed by grepping `Morry Cross`, `Willingdon Room` and `John Houseman`, absent, against
+`Farewell Rock` and `Sandy Spence`, present.
+
 ## Open questions for Matt
 
 Carried forward: whether the Pip-committee work belongs in `people/matt-aronson.md`; whether there is

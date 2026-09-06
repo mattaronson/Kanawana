@@ -1,8 +1,8 @@
 {
-  "version": "7.23",
-  "kb_version": "7.23",
+  "version": "7.24",
+  "kb_version": "7.24",
   "migrated_from": "3.3",
-  "fact_count": 4963,
+  "fact_count": 4964,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -89302,11 +89302,38 @@
         "YMCA of Montreal fonds",
         "Concordia Archives"
       ],
-      "claim": "THIS PROJECT HOLDS ABOUT 729 CACHED SOURCES THAT HAVE BEEN KEYWORD-SWEPT AND NEVER READ, AND THE KEYWORD LIST WAS FIXED. Of 1,666 source records, the read_state breakdown is: extracted 737, SKIMMED 734, unread 73, partial 44, read 23, unverified_backfill 22, unavailable 17, snippet 12, unknown 4. The 734 skimmed records nearly all carry one blanket note: 'the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually.' THAT NOTE IS HONEST AND THE LABEL IS BROADLY ACCURATE -- ten skimmed records with cache files were sampled at random and NONE is cited anywhere in facts.json. SO THE LARGEST REMAINING BODY OF WORK IN THIS PROJECT IS NOT ON THE INTERNET: it is 729 documents already on disk, swept for six things and read for none. ANYTHING OUTSIDE THAT KEYWORD LIST IS INVISIBLE IN ALL OF THEM -- which is the same failure this session catalogued five times at the scale of a single query, here at the scale of half the corpus. TWO RECORDS ARE THE EXCEPTION AND WERE CORRECTED: the Report of the Junior Camp Committee of 30 November 1900 and the Seventh Annual Report of the Current Camp Committee of 10 December 1900 both carried the blanket 'skimmed' note and both have in fact been read and extracted -- the first down to its tent leaders (Peden, Beall, McGavin, Shaw, Greig), the donation from Mr. Marotte, the $5.05 balance and the cook 'disgustingly dirty in his work', all of which are in the KB and in wiki/meta/attendance-series.md; the second was transcribed by eye from its page images under p_288, the manuscript being cursive with no OCR layer. The blanket note was applied to the collection and never revisited for items subsequently read. WHAT THIS MEANS FOR PLANNING: 'skimmed' is a to-do list of roughly 729 items, minus an unknown number of similarly stale labels. Before reading any of them, check whether its source_id already appears in facts.json.",
+      "claim": "THIS PROJECT HOLDS ABOUT 729 CACHED SOURCES THAT HAVE BEEN KEYWORD-SWEPT AND NEVER READ, AND THE KEYWORD LIST WAS FIXED. Of 1,666 source records, the read_state breakdown is: extracted 737, SKIMMED 734, unread 73, partial 44, read 23, unverified_backfill 22, unavailable 17, snippet 12, unknown 4. The 734 skimmed records nearly all carry one blanket note: 'the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually.' [CORRECTED 2026-09-06, within the hour of committing it, and the error is the session's sixth of one kind. This fact said: 'THAT NOTE IS HONEST AND THE LABEL IS BROADLY ACCURATE -- ten skimmed records with cache files were sampled at random and NONE is cited anywhere in facts.json. SO THE LARGEST REMAINING BODY OF WORK IN THIS PROJECT IS NOT ON THE INTERNET: it is 729 documents already on disk, swept for six things and read for none.' THE TEST WAS THE WRONG TEST. Facts drawn from this collection CITE THE COLLECTION-LEVEL SOURCE ID, src_ia_ymca_montreal_fonds_collection, NOT the item-level src_ymf_* ids -- so asking whether an item id appears in facts.json returns no for the whole collection whether or not the item has been read. A query that returns nothing is not a fact about the world; that is the rule this session wrote down five times and then broke again. WHAT IS ACTUALLY TRUE, on the three items checked properly: THEY ARE PARTIALLY EXTRACTED. The Voice of Youth radio script of 10 November 1938 is labelled skimmed and its MUSIC is fully extracted at f_2112 -- set list, song leader, singing venues -- while its skit, its cast, its rehearsal room, its letterhead and an attendance figure are not. The two 1900 camp committee reports are extracted almost completely. So the skimmed corpus is not unread; it is READ FOR SOMETHING, one theme at a time, which is rule 21 at the scale of half the corpus. HOW MUCH RESIDUE IS IN THE OTHER 726 IS UNKNOWN AND WAS NOT MEASURED. A second attempt to measure it by matching capitalised phrases against facts.json was also useless -- it matched 'New York' and 'Park Avenue'. THE TEST THAT WOULD WORK is per-document and manual: pick strings distinctive to the item, names and exact figures rather than common phrases, and check those.] ANYTHING OUTSIDE THAT KEYWORD LIST IS INVISIBLE IN ALL OF THEM -- which is the same failure this session catalogued five times at the scale of a single query, here at the scale of half the corpus. TWO RECORDS ARE THE EXCEPTION AND WERE CORRECTED: the Report of the Junior Camp Committee of 30 November 1900 and the Seventh Annual Report of the Current Camp Committee of 10 December 1900 both carried the blanket 'skimmed' note and both have in fact been read and extracted -- the first down to its tent leaders (Peden, Beall, McGavin, Shaw, Greig), the donation from Mr. Marotte, the $5.05 balance and the cook 'disgustingly dirty in his work', all of which are in the KB and in wiki/meta/attendance-series.md; the second was transcribed by eye from its page images under p_288, the manuscript being cursive with no OCR layer. The blanket note was applied to the collection and never revisited for items subsequently read. WHAT THIS MEANS FOR PLANNING: 'skimmed' is a to-do list of roughly 729 items, minus an unknown number of similarly stale labels. Before reading any of them, check whether its source_id already appears in facts.json.",
       "sources": [],
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.23",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5002",
+      "category": "traditions",
+      "date_ref": "1938-11-10",
+      "entities": [
+        "Kamp Kanawana",
+        "W. J. G. Macdiarmid",
+        "O. N. H. Owens",
+        "Morry Cross",
+        "John Houseman",
+        "Allan Steeves",
+        "Keith Farquarson",
+        "Bob Lemoine",
+        "Benny Leshley",
+        "CBM",
+        "Sandy Spence"
+      ],
+      "claim": "THE RESIDUE OF THE 1938 RADIO SCRIPT: A SKIT, ITS CAST, AND A CROWD OF 250. f_2112 extracted this document's music and nothing else. Read whole, the same script and its covering letter give: THE BROADCAST -- 'The Voice of Youth - Feature Programme, Thur. 10 Nov. 1938 - CBM', at 7.15 in the evening, rehearsed the Tuesday before at 6.30 in the WILLINGDON ROOM on the second floor of the Central Branch YMCA, 1441 Drummond St., then 'slip across the street to C.B.M. Studios'. The covering letter of 7 November is signed simply 'CHIEF'. THE SKIT -- 'Kanawana's expert skit producer MORRY CROSS has one called \"Hot News\"', set in a newspaper office, with Cross as Editor and ALLAN STEEVES, KEITH FARQUARSON and BOB LEMOINE as reporters, WILMOT on sound effects and SHARPE announcing. Each reporter brings a disaster too stale for the editor -- a railway accident at Westmount, an aeroplane collision at Cartierville, and finally the Ville Emard gasworks, which explode on cue ('Explode paper bag'). Morry Cross, John Houseman, Allan Steeves, Keith Farquarson and Bob Lemoine occur NOWHERE ELSE in this project. THE MUSICIANS -- BENNY LESHLEY at the piano 'tickling the old ivories with the touch of a master', playing 'Loch Lomond'; JOHN HOUSEMAN, 'another of Kanawana's song birds', singing 'The World Is Waiting for the Sunrise'. AND AN ATTENDANCE FIGURE THE SERIES DOES NOT HAVE: the script recalls twelve-year-old Sandy Spence 'singing on Sunday at camp to OVER 250 CAMPERS AND VISITORS'. The attendance series gives 1938 as 364 campers over the season; 250 at one Sunday service, campers and visitors together, is a different measure and is recorded as one. ALSO ON THE LETTERHEAD: 'O. N. H. OWENS, Chairman. W. J. G. MACDIARMID, Director', 'THE MONTREAL Y.M.C.A. CAMP FOR BOYS', and 'Camp address from June 20th: KANAWANA P.O., Que.' -- the camp's own post office, in use in 1938.",
+      "sources": [
+        "src_ymf_1938_11_10_the_voice_of_youth",
+        "src_ymf_1938_11_07_kanawana_goes_on_the_air"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.24",
       "added_by": "ralph_loop"
     }
   ]

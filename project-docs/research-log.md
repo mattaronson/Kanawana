@@ -6204,3 +6204,37 @@ reports, which bear on the modern era where this wiki is thinnest.
 A caution written into the priority: **check whether an item's `source_id` is already in
 `facts.json` before reading it**, and **update its `read_state` afterwards** — which is exactly
 what did not happen for the two 1900 reports.
+
+### Correction, fifteen minutes later: they are not unread, they are read for songs
+
+The entry above said the 734 skimmed records were genuinely unread, on the strength of ten sampled
+records none of which was cited in `facts.json`. **The test was the wrong test.** Facts drawn from
+that collection cite the collection-level id, `src_ia_ymca_montreal_fonds_collection`, not the
+item-level `src_ymf_*` ones — so the check returns no for every item in the collection whether or
+not it has been read. A query that returns nothing is not a fact about the world. Sixth time today.
+
+**What is actually true, on the items checked properly: they are partially extracted, one theme at
+a time.** The 1938 *Voice of Youth* radio script is labelled skimmed and its **music** is fully in
+the KB at f_2112 — set list, song leader, the singing venues. Everything else in it was still
+there:
+
+Morry Cross, "Kanawana's expert skit producer", and his skit "Hot News", set in a newspaper office
+with **Allan Steeves, Keith Farquarson and Bob Lemoine** as reporters bringing the editor
+disasters too stale to print — a railway accident at Westmount, an aeroplane collision at
+Cartierville, and finally the Ville Emard gasworks, which explode on cue: *"Explode paper bag."*
+**John Houseman**, "another of Kanawana's song birds". Benny Leshley at the piano "tickling the old
+ivories with the touch of a master". The **Willingdon Room** on the second floor of Central Branch,
+where they rehearsed before slipping across the street to the CBM studios. And twelve-year-old
+Sandy Spence singing on a Sunday at camp **"to over 250 campers and visitors"** — a different
+measure from the 364 campers the attendance series gives for the 1938 season, and recorded as one.
+
+Five of those names occur nowhere else in this project.
+
+So the skimmed corpus is not 729 unread documents. It is **729 documents read for something** —
+and the something was songs. Rule 21 at the scale of half the corpus.
+
+How much residue is in the other 726 is unknown and was not measured; a second attempt to measure
+it by matching capitalised phrases was useless, matching "New York" and "Park Avenue". **The test
+that works is per-document and takes a minute**: grep strings distinctive to the item. *Voice of
+Youth* was diagnosed by checking `Morry Cross`, `Willingdon Room` and `John Houseman` against
+`Farewell Rock` and `Sandy Spence`.
