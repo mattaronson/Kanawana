@@ -1,8 +1,8 @@
 {
-  "version": "7.37",
-  "kb_version": "7.37",
+  "version": "7.38",
+  "kb_version": "7.38",
   "migrated_from": "3.3",
-  "fact_count": 4995,
+  "fact_count": 4996,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -89952,6 +89952,24 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.37",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5034",
+      "category": "site",
+      "date_ref": "1948",
+      "entities": [
+        "Camp Perrot",
+        "Ile Perrot",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE 1948 CAMP PERROT ITEM IS NOT A SEASON REPORT, AND THE CATALOGUE TITLE MISLEADS. Filed as 'Report of the Montreal YMCA Camp Perrot for Boys & Girls' for 1948, it is in fact a document headed 'SUGGESTIONS / RECOMMENDATIONS / CAMP PERROT 1948': a building-by-building list of works wanted before the 1949 season. IT IS UNSIGNED IN THIS SCAN and carries NO ATTENDANCE FIGURES, NO STAFF LIST AND NO NARRATIVE OF THE SEASON, so it cannot do for 1948 what the 1947 report does for 1947. WHAT IT DOES GIVE. THE BARN, to be renovated by the FOREMEN'S CLUB: the old ice-storage section floored up to level, the western section turned into a CRAFTS SECTION with wiring 'with provision to be made to eventually use power tools', the STAGE section finished with stage lighting and wings or dressing-room space, floor-plug outlets 'for use of movies or other special events', a proper stair to the loft for 'a balcony to the assembly section, a reading or club room', fixed benches lining the recreation section and cupboards for games equipment under them. THE GARDEN IS TO BE GIVEN UP, and the reasoning is the most candid thing in the document: 'after careful consideration it is our critical opinion that the idea of CULTIVATING A GARDEN during the camping season SHOULD BE ABANDONED. The results achieved are negligible to the food supply, and the labour involved is out of all proportion to the amount gained. THE CAMPERS FELT IT WAS AN IMPOSITION ON THEIR TIME, and the little work done was completed by members of the staff in any spare time... the crop with few exceptions did not produce in time for the camp to use.' The plot is proposed instead for tennis courts. A TUCK SHOP is wanted in the kitchen's verandah corner, explicitly to keep people on site: it 'would lessen the desire of the staff, counsellors and campers to visit the nearby and in my opinion, UNDESIRABLE RESTAURANT around the corner from the camp'. AND ONE PROPOSAL THAT IS PURE CAMP CULTURE: a three-quarters dead tree in front of the hospital should get a bench built round it for the view, and 'the tree could also be stripped of all its bark and be USED FOR CARVING THE INITIALS OF CAMPERS on it who have attended the camp. (This would be a natural outlet for their carving instinct and also a reminder of their stay at camp.)' THE LAND QUESTION FROM THE 1947 REPORT IS STILL LIVE AND NOW HAS NAMES: 'Committee negotiations for the purchase of the property next to the camp should be continued. If undesirable owners secure the TRIANGLE PIECE OF FARMLAND with a view to building cottages on it, the camp would possibly find it necessary to do some shifting of tents and curtailing of certain activities... From the appearance of our next door neighbour, THE LALONDES, they seem to have no intention of selling their land, for at the present time, they are extending their home building.'",
+      "sources": [
+        "src_ymf_1948_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.38",
       "added_by": "ralph_loop"
     }
   ]

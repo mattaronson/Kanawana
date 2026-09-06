@@ -1,6 +1,6 @@
 # Camp Perrot
 
-*Status: E1-reviewed | Sources: 10*
+*Status: E1-reviewed | Sources: 11*
 *Last Updated: 2026-07-10*
 
 ## Overview
@@ -69,6 +69,42 @@ Central YMCA Co-Ed Club events, three Lachine Protestant church picnics, two Poi
 barn dances, a three-day Montreal Area Hi-Y Conference, a Sainte-Anne-de-Bellevue Sunday School
 outing and a Lachine Y party for crippled children.^10
 
+### 1948: what the camp wanted built, and what it gave up
+
+The 1948 item in the same series is filed as a season report and is not one — it is unsigned and
+headed "Suggestions / Recommendations, Camp Perrot 1948," a building-by-building list of works
+wanted before 1949, with no attendance figures and no staff.^11
+
+The **barn** was to be finished by the Foremen's Club: the old ice-storage section floored up to
+level, the western end turned into a crafts room wired "with provision to be made to eventually use
+power tools," the stage completed with stage lighting and wings, floor outlets "for use of movies
+or other special events," and a proper stair to the loft for "a balcony to the assembly section, a
+reading or club room."^11
+
+**The garden was to be given up**, and the reasoning is the frankest thing in the document: "the
+results achieved are negligible to the food supply, and the labour involved is out of all
+proportion to the amount gained. **The campers felt it was an imposition on their time**, and the
+little work done was completed by members of the staff in any spare time they might have had… the
+crop with few exceptions did not produce in time for the camp to use." Tennis courts were proposed
+for the plot instead.
+
+A **tuck shop** was wanted in the kitchen verandah, and the stated reason was containment: it
+"would lessen the desire of the staff, counsellors and campers to visit the nearby and in my
+opinion, undesirable restaurant around the corner from the camp."^11
+
+And one proposal that is pure camp culture. A three-quarters dead tree in front of the hospital
+should get a bench built round it for the view across the lake, and "the tree could also be
+stripped of all its bark and be **used for carving the initials of campers** on it who have
+attended the camp. (This would be a natural outlet for their carving instinct and also a reminder
+of their stay at camp.)"^11
+
+**The encroachment of 1947 is still the live question and now has a name.** "Committee negotiations
+for the purchase of the property next to the camp should be continued. If undesirable owners secure
+the **triangle piece of farmland** with a view to building cottages on it, the camp would possibly
+find it necessary to do some shifting of tents and curtailing of certain activities… From the
+appearance of our next door neighbour, **the Lalondes**, they seem to have no intention of selling
+their land, for at the present time, they are extending their home building."^11
+
 R.H. Hanagan, who served as Montreal YMCA camp director in 1942 and 1946, filed reports that appear alongside Camp Perrot comparison documents in the Concordia Archives, indicating his portfolio may have extended to both camps.^1
 
 ## A Note on Archival Cataloguing
@@ -110,6 +146,7 @@ The earliest known Kanawana-side documentary evidence is a "Comparison of Two Bo
 8. Concordia University Archives, master finding-aid PDF [src_concordia_finding_aid_master_pdf]. Confirms no descriptive "12G" entry exists.
 9. A. Ross Seaman, Margaret Seaman, and Hedley Dimock cross-referenced from Camp Perrot's own annual reports (sources 5-6) against this KB's existing people index.
 10. "1947 Report of the Montreal YMCA Camp Perrot for Boys & Girls", addressed to the Board of Management and signed by O. N. H. Owens (Chairman) and A. T. Dodds (Camp Director), with the Girls' Camp section signed by Verlie Dodds [src_ymf_1947_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls]. See [f_5032] and [f_5033]. Read whole 2026-09-06 under p_441.
+11. "Suggestions / Recommendations, Camp Perrot 1948" [src_ymf_1948_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls]. **The catalogue files this as a season report and it is not one**: unsigned, no attendance figures, no staff list, a building-by-building list of works wanted before 1949. See [f_5034].
 
 ## Research Notes
 
