@@ -28963,7 +28963,61 @@
       "read_state": "partial",
       "read_state_basis": "ONE ENTRY ONLY, reconstructed from about a dozen overlapping search-inside windows 2026-09-06, with one internal gap that was not recovered. Scan leaf 266; printed page unknown. The volume is lending-restricted and has not been read.",
       "notes": "Gives Roy Douglas Locke, b. Toronto c.1920, d. Montreal West 19 September 1991 aged 71, mayor of Montreal West, YMCA director of financial development to 1986, and 'a director of Camp Kanawana' -- which joins the mayor and the camp chief this wiki had refused to identify with each other. Cites the Montreal Gazette of 20 and 21 September 1991, unread. See f_4935. The volume is an index of Canadian obituaries and other Kanawana or Montreal YMCA names may appear in it; only this entry has been looked at."
+    },
+    {
+      "source_id": "src_po_dept_annual_report_1915",
+      "type": "report",
+      "title": "Canada, Post Office Department, Annual Report 1914-1915",
+      "date": "1915",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/n24annualreport1915cana",
+      "cache_path": "sources/cache/postal/1915-post-office-department-annual-report-kanawana.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.72",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "Full djvu text downloaded and searched 2026-09-06; only the two Kanawana passages were read out, and they are cached. The volume is 2.5 MB of text and is otherwise unread.",
+      "notes": "Kanawana appears twice: in 'Non-Accounting Post Offices -- Revenue, Salaries and Allowances' with no opened/closed annotation, and as a mail-transportation route 'Kanawana -- St. Sauveur des Mont[s]' in the Montreal Division. See f_4936."
+    },
+    {
+      "source_id": "src_sessional_papers_1919",
+      "type": "report",
+      "title": "Sessional Papers of the Dominion of Canada, 1919 (Post Office Department returns)",
+      "date": "1919",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/n08sessionalpaper54canauoft",
+      "cache_path": "sources/cache/postal/1919-sessional-papers-kanawana-summer-office.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.72",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "Full djvu text downloaded and searched 2026-09-06; one line read out and cached. Otherwise unread.",
+      "notes": "Lists 'Kanawana (summer office) P.Q.' in a table of post offices by province, alongside Kahshe Lake and Kawartha Park, both annotated the same way. The same table annotates openings and closings in parentheses, and Kanawana carries none. See f_4936."
+    },
+    {
+      "source_id": "src_canadian_almanac_1917_1918",
+      "type": "catalog_reference",
+      "title": "The Canadian Almanac and Directory, 1917 and 1918 editions — 'Post Offices and Railroad Stations in Canada'",
+      "date": "1917-1918",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/canadianalmanacd0000unse_y6g6",
+      "cache_path": "sources/cache/postal/1917-1918-canadian-almanac-kanawana.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.72",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "Both editions' djvu text downloaded and searched 2026-09-06; the Kanawana lines read out and cached. The column values beside the name could not be aligned from the OCR and are not recorded.",
+      "notes": "Kanawana stands in the alphabetical run between Kanata and Kandahar in both editions. Item ids canadianalmanacd0000unse_y6g6 (1917) and _x3a0 (1918); the edition years come from the running headers, since the Internet Archive metadata gives the series start date of 1848 for both. See f_4936."
     }
   ],
-  "source_count": 1609
+  "source_count": 1612
 }

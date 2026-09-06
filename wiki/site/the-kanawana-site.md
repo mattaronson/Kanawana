@@ -1,7 +1,7 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 43*
-*Last Updated: 2026-09-04*
+*Status: E1-reviewed | Sources: 44*
+*Last Updated: 2026-09-06 (Kanawana was a Dominion summer post office)*
 
 ## Overview
 
@@ -10,6 +10,36 @@ Camp Kanawana occupies a 550-acre site in Saint-Sauveur, in the Laurentian Mount
 ## Location and Access
 
 The camp is situated at 673 Saint-Elmire Street in Saint-Sauveur-des-Monts,^17 approximately 90 km (45 minutes) north of Montreal by road,^1 or about 45 miles (72 km) by the historical railway route.^4 ^5 The broader region has deep colonial roots: the neighbouring municipality of Mille-Isles was created on July 1, 1855, after detaching from the parish of Saint-Jérôme, and takes its name from the Mille-Isles Seigneury, originally granted in 1683 to Michel-Sidrac Dugué de Boisbriand.^26 Early European settlement in the area dates to the 1830s.^26 The nearest railway station was historically at Piedmont on the CPR Sainte-Agathe line. In 1922, campers took the 7:30 AM train from Place Viger Station, disembarking at Piedmont and traveling 6 miles to the camp.^5 Hike destinations from camp in 1923 included Val Morin, Lac Hughes, Sainte-Agathe, Sixteen Island Lake, Lac Wilson, Pages, and Sainte-Adolphe.^6
+
+**Kanawana was a post office of the Dominion of Canada, and a summer one.** This is not in any camp
+document; it is in the federal record, and nothing in this wiki said it before 2026-09-06.^44
+
+The Post Office Department's annual report for **1914-15** lists "Kanawana" in its table of
+**Non-Accounting Post Offices — Revenue, Salaries and Allowances**, in the alphabetical run between
+Kananaskis and Kanes. A non-accounting office is the smallest class the Department kept: it sold stamps
+and handled mail but held no money-order or savings account, and its postmaster drew an allowance rather
+than a salary. The table marks every office opened or closed during the year with a letter prefix keyed
+to a footnote; **Kanawana carries none**, so it was already running and did not close that year. The
+same report, under **Mail Transportation — Montreal Division**, carries the route "**Kanawana — St.
+Sauveur des Mont[s]**" — a contracted mail service between the camp and the village.
+
+The Sessional Papers for **1919** say what kind of office it was: "**Kanawana (summer office) P.Q.**"
+The parenthesis is the Department's own, and it appears in the same list against Kahshe Lake and
+Kawartha Park, both Ontario cottage-country offices. So the office opened with the season and closed
+with it. The **Canadian Almanac and Directory** carries Kanawana in its table of "Post Offices and
+Railroad Stations in Canada" in both the **1917** and **1918** editions. Sixty years later the *Atlas of
+Canada* (1981) still indexes "Kanawana, UP (Que.)" — UP for unincorporated place.
+
+What this adds to the site's history is a matter of standing rather than detail. **A place gets a post
+office when enough mail moves through it to be worth a contract**, and Kanawana had one within a few
+years of the YMCA's arrival, with its own named route down to Saint-Sauveur. The boys' letters home,
+which the camp's own publications treat as a domestic detail, were federal mail on a Dominion route.
+
+Three things are not established and should not be inferred: **when the office opened and when it
+closed**, **who the postmaster was**, and whether it served the camp alone or a wider seasonal
+settlement around the lakes. Library and Archives Canada's Post Offices and Postmasters database is the
+authority on all three; it refused this project's requests at the network gateway (HTTP 403), which is a
+fact about the gateway. Tracked as `p_428`.
 
 The camp was administered from the YMCA Montreal's central branch downtown. Lovell's Montreal City Directory for 1976 listed "Kamp Kanawana" at 1441 Drummond Street, Montreal (H3G 1WS), telephone 849-5331 — the address of the YMCA's Drummond Street building. A second directory listing appeared under Châteauguay with telephone 692-2801.^27
 
@@ -256,6 +286,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 41. Oral history, Matt Aronson, 28 August 2026: Tassé as caretaker, his death c. 1992–95, and the dining-hall renaming [src_oral_aronson_julien_tasse_caretaker]. See [f_2357], [f_2358].
 42. Kanawana Flickr "Plaque" album, `senior-boys-staff-2007.jpg` [src_flickr_kanawana_plaque_album], read in the p_291 audit — see [f_1688]; and oral history, Matt Aronson, 28 August 2026: the Sanctum and the Suez Bridge [src_oral_aronson_sanctum_suez_raku], see [f_2351], [f_2352].
 43. J. Harry Ebbs, M.D., F.R.C.P., "Medical Supplies for the Camp Infirmary," *Canadian Camping* Vol. 30 No. 1 (February 1978), p. 7 [src_ia_canadian_camping_collection]. A national recommendation for a camp of 50-100 campers, not a description of Kanawana's own infirmary. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 117).
+44. Canada, Post Office Department, *Annual Report 1914-1915* [src_po_dept_annual_report_1915]; *Sessional Papers of the Dominion of Canada*, 1919 [src_sessional_papers_1919]; *The Canadian Almanac and Directory*, 1917 and 1918 editions [src_canadian_almanac_1917_1918]. Found 2026-09-06 through a full-text sweep of the Internet Archive book corpus; the passages, with their table headings and what could not be read from them, are cached under `sources/cache/postal/`. See [f_4936].
 
 ## Research Notes
 
