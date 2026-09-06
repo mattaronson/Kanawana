@@ -1,8 +1,8 @@
 {
-  "version": "8.14",
-  "kb_version": "8.14",
+  "version": "8.15",
+  "kb_version": "8.15",
   "migrated_from": "3.3",
-  "fact_count": 5106,
+  "fact_count": 5108,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -92042,6 +92042,42 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.14",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5145",
+      "category": "culture",
+      "date_ref": "2004-2005",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Greater Montreal",
+        "Ayunda Dube"
+      ],
+      "claim": "THE ONLY FIRST-PERSON ACCOUNT OF ARRIVING AT KANAWANA AS A COUNSELLOR THAT THIS PROJECT HOLDS. The YMCA of Greater Montreal's 2004-2005 annual report profiles AYUNDA DUBE under 'People with Strong Values': a native of ZIMBABWE who came to Montreal as a refugee AT NINETEEN and found 'his first home away from home and contacts at the Downtown YMCA'; three years later he was asked to become a counsellor at the camp and agreed 'without hesitation'. HIS OWN WORDS ON THE FIRST DAY: 'After having said \"yes\", I was scared -- SCARED OF BEING THE ONLY BLACK GUY AT THE CAMP -- and of not being accepted by the other counsellors.' He had never been to a summer camp. The fear 'was immediately dispelled': the counsellors 'came from all over in the world. There were no racial or cultural distinctions in the group. AT KANAWANA, THE ONLY CULTURE THAT EXISTS IS THE CAMP CULTURE. WE ARE ALL KANAWANIANS.' TWO CAUTIONS TRAVEL WITH IT. It is a testimonial published by the association in its own annual report, so it is the camp describing itself through someone it chose to profile. And it is one person's account of one year: nothing says the counsellor body was as diverse in any other season, and this project has nothing to set beside it. NO EMBARGO APPLIES: this is a self-authored testimonial given by name to the association for publication, not a third-party assessment of a private individual, which is what CLAUDE.md's embargo procedure covers.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2004_2005"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.15",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5146",
+      "category": "institutional",
+      "date_ref": "2004-2005",
+      "entities": [
+        "YMCA of Greater Montreal",
+        "Kamp Kanawana",
+        "Maureen McBride Endowment Fund"
+      ],
+      "claim": "THE ASSOCIATION'S ENDOWMENT FUND, AND WHERE KANAWANA SAT IN IT. The 2004-2005 annual report: capital held 'in perpetuity', annual revenues distributed under Board policy so that 'even during turbulent market conditions, the capital of the Fund is protected and continues to provide a steady source of financial support for the community programs offered by the nine YMCA centres AND ITS CAMP, YMCA KANAWANA.' AS AT 31 MAY 2005 THE MARKET VALUE WAS $4.3 MILLION, up 'more than 16% compared to the previous year'. Of annual revenues, $39,000 went to donor-selected programmes 'such as international development and Camp YMCA Kanawana', and $63,650 to special projects chosen by an Allocations Committee of Board volunteers and staff from ten selected applications. THE SAME REPORT'S PRESIDENT'S MESSAGE says careful financial management 'will help us implement an EXTENSIVE RE-INVESTMENT PLAN IN OUR POINTE-ST-CHARLES AND KANAWANA FACILITIES' -- written the year before the green shift's design work began (f_5143 dates the dreaming to the fall of 2005), and the earliest signal this project has of the money behind it. A LEAD AND NOT AN ANSWER FOR people/maureen-mcbride.md's open question about what became of the MAUREEN MCBRIDE ENDOWMENT FUND, established 1993 for camperships: THE FUND DESCRIBED HERE IS THE ASSOCIATION'S GENERAL ONE AND IS NOT THE SAME THING, and nothing read says the McBride fund was folded into it. But a donor-selected allocation 'such as... Camp YMCA Kanawana' is the shape a named campership fund takes inside an institutional endowment, so the association's endowment reporting is where to look.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2004_2005"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.15",
       "added_by": "manual"
     }
   ]

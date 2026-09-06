@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 21*
+*Status: draft | Sources: 22*
 *Last Updated: 2026-09-06 (the 1916 fee and season, from a school magazine advertisement)*
 
 ## Overview
@@ -124,6 +124,7 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1999–2000 | 1,150 | — | *Ages 3–60, i.e. includes rentals* |
 | 2000–01 | 1,220 | — | *Same caveat* |
 | 2005 | 770 | — | |
+| *(a round figure, not a season count)* | *"800 children and youth"* | — | The association's own 2004-2005 annual report describes the camp as host to 800 "every year", which is a descriptor rather than a registration; it sits beside the 770 above rather than replacing it^22 |
 | **2020–21** | *(no season)* | — | Two summers lost to COVID-19 |
 | **2022** | **655** | — | Reopening season |
 | **2023** | **780** | — | |
@@ -343,6 +344,7 @@ Three things stand out and none of them is visible from any single article.
 19. Montreal YMCA news release, **22 April 1963** [src_ymf_news_release_1963_04_22]. Cached at `sources/cache/ymca-montreal-fonds/news-release-1963-04-22.txt`; read 2026-09-06 under p_451. See [f_5105].
 20. Montreal YMCA news release, **28 May 1970** [src_ymf_p0145_news_release_1970_05_28]. Cached at `sources/cache/ymca-montreal-fonds/p0145-news-release-1970-05-28.txt`; read 2026-09-06 under p_451. See [f_5106].
 21. YMCA of Montreal annual report for the fiscal year **1974-1975** [src_ymf_sgw_ymca_annual_report_1974_1975]. **This volume never states its year-end month** — see [f_5112] and p_450. Re-read 2026-09-06.
+22. YMCA of Greater Montreal annual report 2004-2005 [src_ymf_sgw_ymca_annual_report_2004_2005]: "Every year, Camp YMCA Kanawana is host to 800 children and youth from very different worlds." Read 2026-09-06 under p_454; no Wayback copy of this year exists in this project, so nothing in it had been read by any route.
 
 ## Research Notes
 

@@ -1,6 +1,6 @@
 # The Modern Era: The Two-Tier Era (1995–Present)
 
-*Status: draft | Sources: 19*
+*Status: draft | Sources: 20*
 *Last Updated: 2026-09-06 (the credit directories, which date the Drummond Street move and settle whose staff figures they are)*
 
 ## Overview
@@ -151,6 +151,30 @@ one alumnus calling another, three decades after both had left staff. Manitt was
 staff in 1997; both plaques name him.^17 That is the documented distance between the two men: shared
 seasons in the mid-1990s, thirty-one years before the phone call.
 
+## The Endowment Fund, and where Kanawana sat in it
+
+The 2004-2005 annual report sets out the association's **Endowment Fund**, whose capital is held "in
+perpetuity" with annual revenues distributed under Board policy so that "even during turbulent
+market conditions, the capital of the Fund is protected and continues to provide a steady source of
+financial support for the community programs offered by the nine YMCA centres **and its camp, YMCA
+Kanawana**." **As at 31 May 2005 the fund's market value was $4.3 million**, up "more than 16%
+compared to the previous year". Of the annual revenues, **$39,000 went to programmes selected by
+donors, "such as international development and Camp YMCA Kanawana"**, and **$63,650 to special
+projects** chosen by an Allocations Committee of Board volunteers and staff, from ten selected
+applications.^20
+
+The same report's President's message records that careful financial management "will help us
+implement an **extensive re-investment plan in our Pointe-St-Charles and Kanawana facilities**" —
+written in the year before the green shift's design work began, and the earliest signal this project
+has of the money behind it.^20
+
+**A lead, not an answer, for a question open elsewhere.** [[people/maureen-mcbride|Maureen
+McBride]]'s article asks what became of the **Maureen McBride Endowment Fund**, established in 1993
+to provide camperships. The fund described here is the association's general one and **is not the
+same thing**; nothing read says the McBride fund was folded into it. But a donor-selected allocation
+"such as… Camp YMCA Kanawana" is the shape a named campership fund would take inside an institutional
+endowment, and the association's endowment reporting is where to look next.
+
 ## Open Questions
 
 1. [Important] How exactly did the annual reports' single "Director" listings track the Executive-versus-on-site split in years like 2001–2007, when the record shows apparent inconsistencies (e.g. François Dauphin's 2007 head-office title alongside Sean Day's on-site presence)? See [[people/directors-index|Directors and Staff of Camp Kanawana]]'s Open Questions for the full discussion.
@@ -193,6 +217,7 @@ seasons in the mid-1990s, thirty-one years before the phone call.
 18. *The Canadian Summer Job Directory*, 2006 and 2008 editions, the entry "YMCA KAMP KANAWANA" [src_canadian_summer_job_directory_2006_2008]. **One entry from each edition**, reconstructed 2026-09-06 from ten overlapping Open Library search-inside queries; both books are lending-restricted and neither has been read, and the tail of the activities list was not recovered. Cached with the queries, and with the caution about the page's other employers, at `sources/cache/openlibrary-search-inside/2026-09-06-canadian-summer-job-directory-2006-2008.txt`. See [f_4947].
 
 19. *Canadian Key Business Directory* (Dun & Bradstreet Canada), the volumes for 1993, 1994, 1995, 1997, 1998, 1999, 2000 and 2001, plus one the Internet Archive leaves undated [src_canadian_key_business_directory_1993_2001]. **One entry, walked in each volume from the D-U-N-S number that opens it to the one that opens the next**, reconstructed 2026-09-06 from overlapping Open Library search-inside queries; every volume is lending-restricted, none has been read, and page images return HTTP 403, so the column alignment of the officer titles could not be checked against the page. Cached with its queries, its control test and its access failure at `sources/cache/openlibrary-search-inside/2026-09-06-canadian-key-business-directories-ymca-kanawana.txt`. See [f_4951].
+20. YMCA of Greater Montreal annual report 2004-2005 [src_ymf_sgw_ymca_annual_report_2004_2005], the Endowment Fund pages and the President's report. Read 2026-09-06 under p_454; no Wayback copy of this year exists in this project.
 
 ## Research Notes
 
