@@ -1,8 +1,8 @@
 {
-  "version": "8.44",
-  "kb_version": "8.44",
+  "version": "8.45",
+  "kb_version": "8.45",
   "migrated_from": "3.3",
-  "fact_count": 5164,
+  "fact_count": 5165,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93092,6 +93092,22 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.44",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5203",
+      "category": "method",
+      "date_ref": "1965-1966",
+      "entities": [
+        "YMCA of Montreal"
+      ],
+      "claim": "THE 114TH ANNUAL REPORT STATES ITS OWN SPAN ON ITS TITLE PAGE, WHICH SHORTENS AN INFERENCE f_5131 FLAGGED. Found while reading that volume for Camp Otoreke, not while working on year-ends: its title page carries, on consecutive lines, '1965' / '114th ANNUAL REPORT' / 'JUNE 1, 1965 - MAY 31, 1966'. BOTH ENDPOINTS AND THE ORDINAL IN ONE PLACE, read by eye. WHY IT MATTERS. f_5131 records that the 1966-67 volume 'STATES NO YEAR-END ANYWHERE IN ITS TEXT, only \"one hundred and fifteenth\"', and that the reading for it is an inference walked forward from the 112th -- the volume that states a year ending May 1964 and calls itself the 112th -- through two intermediate volumes whose May year-ends came from the scanner rather than from a page read by eye. THAT CHAIN IS NOW TWO STEPS SHORTER AT ITS FAR END: the 114th is fixed directly at 1 June 1965 to 31 May 1966, so the 115th being the year ended 31 May 1967 rests on ONE step from a stated anchor rather than three from a distant one. IT IS STILL AN INFERENCE and f_5131's flag stands. TWO SMALLER THINGS. The filename year for this volume is the year the fiscal year BEGINS, not the year it ends -- the opposite of the convention elsewhere in the cache, and a trap for anyone dating a season from a filename. And the phrasing is 'JUNE 1, 1965 - MAY 31, 1966', a full span rather than the 'for the year ending' formula the year-end scanner looks for, which is why the scanner had not picked it up.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1965"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.45",
       "added_by": "manual"
     }
   ]

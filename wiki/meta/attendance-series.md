@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 32*
+*Status: draft | Sources: 33*
 *Last Updated: 2026-09-06 (the 1916 fee and season, from a school magazine advertisement)*
 
 ## Overview
@@ -308,7 +308,9 @@ aggregate attendance at Kamp Kanawana was above the previous year," which reads 
 against 1950. The 1950 season is not described anywhere in the series. The hole is real, not an
 artefact of which volumes were digitized, and no further reading of these reports will fill it.^17 The cache filenames are no guide either: the file named 1963 is
 the report for the year ended 31 May 1964, while the one named 1984 is for the year ended 31 May
-1984. Read the title page.
+1984. **And the file named 1965 is the 114th, whose title page reads "1965 / 114th ANNUAL REPORT / JUNE 1, 1965 – MAY 31, 1966" — there the filename year is the year the fiscal year *begins*, the opposite of the other two.**^33 Read the title page.
+
+**That title page also shortens an inference.** The 1966-67 volume states no year-end anywhere in its text, only that it is the "one hundred and fifteenth," so its placement is walked forward from the 112th, which does state one. Two of the intervening steps came from the year-end scanner rather than from a page read by eye. The 114th is now fixed directly, both endpoints and the ordinal together, so the 115th being the year ended 31 May 1967 rests on **one** step from a stated anchor instead of three from a distant one.^33 It is still an inference. The reason the scanner had missed it is worth knowing: the page gives a full span, "JUNE 1, 1965 – MAY 31, 1966," not the "for the year ending" formula the scanner looks for.
 
 **For the 1926–1950 stretch the rule below holds and this article's rows rest on it.** Every title
 page in that stretch says it: "The Ninety-Second Annual Report of the Young Men's
@@ -396,6 +398,7 @@ Three things stand out and none of them is visible from any single article.
 30. The **French editions** of the annual reports for 1988, 2000-2001 and 2006 [src_ymf_sgw_ymca_annual_report_1988_fr, src_ymf_sgw_ymca_annual_report_2000_2001_fr, src_ymf_sgw_ymca_annual_report_2006_fr], compared passage by passage against their English twins 2026-09-06 under p_454. All three are straight translations; their value is as a second scan of the same text, since the OCR damage falls differently. See [f_5184].
 31. YMCA of Montreal annual report for **1913** [src_ymf_sgw_ymca_annual_report_1913] — "Last summer 123 men and 187 boys secured a most delightful vacation in these helpful surroundings," covering the summer of 1912. Read 2026-09-06 under p_454. See [f_5193].
 32. YMCA of Montreal annual report for **1999-2000** [src_ymf_sgw_ymca_annual_report_1999_2000], the page headed "Kamp Kanawana - A Camp for People of All Ages." Read 2026-09-06 under p_454. See [f_5195].
+33. YMCA of Montreal, **114th Annual Report** [src_ymf_sgw_ymca_annual_report_1965]. Its title page states the span outright — "1965 / 114th ANNUAL REPORT / JUNE 1, 1965 – MAY 31, 1966" — read by eye 2026-09-06 while working on Camp Otoreke. See [f_5203].
 
 ## Research Notes
 
