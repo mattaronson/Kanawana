@@ -29195,9 +29195,27 @@
       "extraction_version": "6.81",
       "reliability": "secondary",
       "read_state": "partial",
-      "read_state_basis": "UNFINISHED READ. The head of the entry only, reconstructed from nine overlapping Open Library search-inside windows 2026-09-06; the walk stopped when the endpoint began rate-limiting. The fees, session dates and the rest of a two-page entry were NOT recovered. The book is lending-restricted and cannot be read whole. Scan leaf 250; printed pages 172-173 per the book's own index.",
-      "notes": "Gives 190 boys and girls aged 7-19 for 1983, continuing the registered-capacity series from the 1975 and 1976 national directories, with the age band widened at both ends. Names the director as 'Louis Jean', a name that occurs nowhere else in this project — see c_065. Both addresses and phone numbers match the 1975-76 directories. See f_4945."
+      "read_state_basis": "The entry's fields, reconstructed from about twenty overlapping Open Library search-inside windows over two passes 2026-09-06; the second pass, run more slowly against the rate limiter, recovered the sessions, the fees and the Facts paragraph. The book is lending-restricted and cannot be read whole; whatever else fills two printed pages beyond these fields is unread. Scan leaf 250; printed pages 172-173 per the book's own index.",
+      "notes": "Gives 190 boys and girls aged 7-19 for 1983, continuing the registered-capacity series from the 1975 and 1976 national directories, with the age band widened at both ends. Names the director as 'Louis Jean', a name that occurs nowhere else in this project — see c_065. Both addresses and phone numbers match the 1975-76 directories. See f_4945. | Second pass: sessions four 2-week end of June to third week in August; fees Residential $370 and Wilderness $385 per fortnight, a two-tier price seven years after the wilderness programme stopped being separately accredited; 1,000 acres, 50 miles north of Montreal; and 'Both French- and English-speaking children attend, although the program is conducted in English.'"
+    },
+    {
+      "source_id": "src_porter_sargent_guides_1983_1987",
+      "type": "catalog_reference",
+      "title": "Porter Sargent Publishers, The Guide to Summer Camps and Summer Schools — 1983-1984 (23rd edition) and December 1987 — the KANAWANA entries",
+      "date": "1983-1987",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/guidetosummercam0000unse",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-porter-sargent-guides-1983-84-and-1987.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.82",
+      "reliability": "secondary",
+      "read_state": "partial",
+      "read_state_basis": "ONE ENTRY FROM EACH EDITION, reconstructed from fifteen overlapping Open Library search-inside windows 2026-09-06. Both books are lending-restricted and neither has been read. Scan leaves 484 (1983-84) and 478 (1987); printed pages unknown. The 1987 fee figure, the full in-camp activities list, and both books' Canadian cross-reference indexes were NOT recovered.",
+      "notes": "Names Peter G. Goddard as director for 1983-84 and Jay Netherwood for 1987, both from outside the YMCA's own files; prints 'Est. 1894' in both editions; and carries The Voyageurs Program as fourteen-day wilderness canoe tripping for teenagers 13-18. The second Internet Archive item is guidetosummercam0000port. See f_4946 and conflict c_065."
     }
   ],
-  "source_count": 1622
+  "source_count": 1623
 }

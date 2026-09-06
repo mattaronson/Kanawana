@@ -1,6 +1,6 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 23*
+*Status: E1-reviewed | Sources: 24*
 *Last Updated: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *Last Updated: 2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
 *Last Updated: 2026-07-05 (named trip staff added from photo-mined canoe-trip plaques, p_191 ENRICH pass) — photo gallery added 2026-07-02*
@@ -23,6 +23,24 @@ The first all-female Voyageur trip departed from Kanawana in 1972, a milestone i
 
 Three things follow. The programme was **accredited in its own name** by the province, which means it was inspected as a camp and its records were kept as a camp's. Its **scale was twenty campers** in that season, against Kanawana's registered 180 — a small, selective operation, which fits the tripping tradition described above. And it puts an independent, dated figure behind the coeducation milestone: **three years after the first all-female trip, five of the twenty places were girls' places**, listed in the same age band as the boys'. That corroborates the 1972 date from a source that is not the camp's own institutional copy, and quantifies what "co-ed" meant in the programme at that point.
 
+
+### The programme in 1983 and 1987: fourteen days, ages 13 to 18
+
+The separate accreditation of 1975 lapsed into a single directory entry in 1976, and this article has
+carried nothing about the programme's own shape after that. Two American camp guides supply it, and
+they agree word for word across four years.^24
+
+Both the Porter Sargent *Guide to Summer Camps and Summer Schools* for **1983-84** and its edition of
+**1987** print: "Canoe tripping is featured and **trips range from 2 mile hikes to 100 mile wilderness
+canoe trips through northern Quebec according to age and ability of campers**… In **The Voyageurs
+Program**, **14-day wilderness canoe tripping** is featured for teenagers **13-18**."
+
+Three things worth having. The programme kept the **name** and the **age band** — 13-18 in both guides,
+against the 13-17 of the 1975 accreditation — for at least a decade after it stopped being listed as a
+camp of its own. Its trips had a stated **length**, fourteen days. And the whole tripping ladder is
+described in one line, from a two-mile hike to a hundred-mile wilderness route, **graded by age and
+ability** rather than by section — which is how the camp itself described the trip programme to
+outsiders in the 1980s, and the only such description this project holds for the decade.
 
 ### November 1975: every paddler in a lifejacket, by federal law
 
@@ -201,3 +219,4 @@ This is the only itemised cost of a 1920s Canadian canoe trip found by this proj
 21. "The Camping Advisor," *Canadian Camping* Vol. 34 No. 3 (Autumn 1982), p. 5 [src_ia_canadian_camping_collection], quoting Michael Hatton, *Lightweight Camping: A Four Season Source Book*. Found by the same read (issue 143).
 22. Adele Ebbs, "Canoe Tripping — In The 1920's," *Canadian Camping Magazine* Vol. 38 No. 1 (Summer 1986), p. 9, reprinting Herbert B. Bell's 1926 list [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 158).
 23. The 1979 leave-no-trace sequence in *Canadian Camping* [src_ia_canadian_camping_collection]: Kevin Redmond, "No Trace Camping" (March 1979); the twenty Environmental Maintenance Standards from a Conference of Canadian Interpreters, reprinted from the Alberta Camping Association Newsletter of May 1979 (June 1979); and Hartwick, Jorgenson and Gear, "Canoe Tripping in the Twentieth Century" (October 1979). See [f_4061], [f_4082], [f_4091], [f_4092].
+24. Porter Sargent Publishers, *The Guide to Summer Camps and Summer Schools*, 1983-1984 (23rd edition) and December 1987, the KANAWANA entries [src_porter_sargent_guides_1983_1987]. **One entry from each edition**, reconstructed 2026-09-06 from fifteen overlapping Open Library search-inside queries; both books are lending-restricted and neither has been read. Cached with the queries at `sources/cache/openlibrary-search-inside/2026-09-06-porter-sargent-guides-1983-84-and-1987.txt`. See [f_4946].

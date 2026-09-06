@@ -1,6 +1,6 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 46*
+*Status: E1-reviewed | Sources: 47*
 *Last Updated: 2026-09-06 (the post office, and its opening bracketed to 1909-1912)*
 
 ## Overview
@@ -135,6 +135,9 @@ Kanawana site; B) The purchase of a new site."^40 The neighbouring criteria are 
 "Facilities be developed on northern shore" — and the report's costing pages budget "Land Cost
 1,000 acres." Neither the sale nor the new site happened. ([[#proposed-two-site-operation|See
 below]] for the related two-site proposal of 1977.)
+
+
+**A third figure, printed in 1983.** An American camp guide gives the property as "**1,000 acres of wooded property**", 50 miles north of Montreal.^47 That is neither the 550 acres this article works from nor the 1,200 of the 1988 Task Force report discussed above; it is a round number in a commercial directory, compiled from the camp's own return, and it is recorded here as a third claim rather than as a measurement. What the three have in common is that none of them cites a survey.
 
 ## Camp Layout
 
@@ -324,6 +327,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 44. Canada, Post Office Department, *Annual Report 1914-1915* [src_po_dept_annual_report_1915]; *Sessional Papers of the Dominion of Canada*, 1919 [src_sessional_papers_1919]; *The Canadian Almanac and Directory*, 1917 and 1918 editions [src_canadian_almanac_1917_1918]. Found 2026-09-06 through a full-text sweep of the Internet Archive book corpus; the passages, with their table headings and what could not be read from them, are cached under `sources/cache/postal/`. See [f_4936].
 45. Union postale universelle, Bureau international, *Dictionnaire des bureaux de poste* (Lausanne, novembre 1909), with its *Supplément* of août 1912, Part I "Bureaux à ajouter" [src_upu_dictionnaire_bureaux_poste_1909_1912]. **Not lending-restricted**: the full text was downloaded and searched 2026-09-06, and "Kanawana" occurs exactly once in it. The entry, the column alignment and both publications' own scope statements are cached at `sources/cache/postal/1909-1912-upu-dictionnaire-des-bureaux-de-poste-kanawana.txt`. See [f_4944].
 46. Canada, *Guide officiel du service postal Canadien, 1917* [src_guide_officiel_postal_1917]. **Not lending-restricted**: the full text was downloaded and searched 2026-09-06, and "Kanawana" occurs twice in it. Both passages are cached at `sources/cache/postal/1917-guide-officiel-du-service-postal-canadien-kanawana.txt`, with a note that the dagger and asterisk prefixes used in those lists were not decoded. See [f_4936].
+47. *Summer Camps & Programs* (1983), the entry "Kamp Kanawana-Montreal YMCA" [src_summer_camps_and_programs_1983]. **Part of one entry**, reconstructed 2026-09-06 from overlapping Open Library search-inside queries; the book is lending-restricted and has not been read. Cached at `sources/cache/openlibrary-search-inside/2026-09-06-summer-camps-and-programs-1983-kanawana.txt`. See [f_4945].
 
 ## Research Notes
 

@@ -5,8 +5,8 @@ SOURCE: "Summer Camps & Programs" (1983). Internet Archive item summercampsprogr
 The book's own index carries "Kamp Kanawana-Montreal YMCA, 172-173", so the camp has a
 TWO-PAGE entry. What follows is the head of that entry only. The rest of pages 172-173 —
 the fee figures, the session dates, the facilities and whatever narrative the guide prints —
-was NOT recovered, and the endpoint began returning non-JSON under rate limiting before the
-walk could be finished. This is an unfinished read, not a complete one.
+was recovered on a second, slower pass later the same day and is set out below. What is still
+unread is whatever else fills two printed pages beyond the fields transcribed here.
 
 QUERIES: "Kamp Kanawana" ; "Kanawana" "Boys and girls" Quebec ; "190 boys and girls, ages 7-19" ;
          "KAMP KANAWANA-MONTREAL YMCA Category General" ; "Summer Address Box 310, St. Sauveur" ;
@@ -14,7 +14,7 @@ QUERIES: "Kamp Kanawana" ; "Kanawana" "Boys and girls" Quebec ; "190 boys and gi
          "Winter Address 1441 Drummond Street" ; "Quebec H3G 1W3 Canada Winter Telephone" ;
          "Winter Telephone (514) 849-5331 Director Louis Jean"
 
-RECONSTRUCTED, as the fields run:
+RECONSTRUCTED, as the fields run (the walk was resumed and finished later the same day):
 
   KAMP KANAWANA-MONTREAL YMCA
   Category      General
@@ -24,13 +24,22 @@ RECONSTRUCTED, as the fields run:
   Winter Address    1441 Drummond Street, Montreal, Quebec H3G 1W3 Canada
   Winter Telephone  (514) 849-5331
   Director      Louis Jean
-  Sessions      Four 2-week from ...
+  Sessions      Four 2-week from end of June to third week in August, depending on program
+  Fees          Residential: $370 -- 2 weeks; Wilderness: $385 -- 2 weeks
+  Facts         Located 50 miles north of Montreal on 1,000 acres of wooded property, this is a
+                resident camp, with programs in wilderness tripping and counselor-training
+                offered. Both French- and English-speaking children attend, although the program
+                is conducted in English. [...]
 
-ON THE DIRECTOR FIELD. The window reads "... Winter Telephone (514) 849-5331 Director Louis Jean
-Sessions Four 2-week from ...", so the field runs straight from "Louis Jean" into the next
-field's label. As printed, the director is "Louis Jean". TWO READINGS ARE POSSIBLE AND NEITHER IS
-SETTLED HERE: that the name is complete, or that it is "Louis-Jean [surname]" with the surname
-lost to the scan or to the compiler. The name does not occur anywhere else in this project.
+ON THE DIRECTOR FIELD. Two windows straddle it -- "...1W3 Canada Winter Telephone (514) 849-5331
+Director Louis Jean Sessions Four 2-week from end of June to..." and "...Telephone (514) 849-5331
+Director Louis Jean Sessions Four 2-week from end of June to third week in August..." -- so the
+field is EXACTLY TWO WORDS and runs straight into the next label. NO SURNAME WAS PRINTED. That
+weakens the easiest reading, that a surname was lost to the scan: nothing was lost, because
+nothing stood there. Either the compiler received "Louis Jean" as the whole name, or a surname
+was dropped before printing. Note that this guide's Director fields elsewhere carry two-word
+names of the same shape -- one nearby entry reads "Louis Simon" -- and that "Jean" is a real
+Quebec surname. The name does not occur anywhere else in this project.
 See conflict c_065 for how it sits against Peter Goddard, who signed a Kanawana newsletter as
 "Director" on 15 November 1982.
 
