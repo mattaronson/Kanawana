@@ -1,8 +1,8 @@
 {
-  "version": "7.00",
-  "kb_version": "7.00",
+  "version": "7.01",
+  "kb_version": "7.01",
   "migrated_from": "3.3",
-  "fact_count": 4929,
+  "fact_count": 4930,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88583,6 +88583,28 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.00",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4968",
+      "category": "people",
+      "date_ref": "1922",
+      "entities": [
+        "W. J. Holliday",
+        "Hay Finlay",
+        "D. A. Budge",
+        "John G. MacKinnon",
+        "Grant D. Brandon",
+        "T. Duncan Patton",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE MAN WHO OPENED KANAWANA WAS STILL AT THE MONTREAL Y IN 1922, RUNNING A BRANCH. The YMCA Year Book and Official Rosters for 1922 -- not lending-restricted, downloaded whole -- gives: \"Montreal, 127 Drummond St. President, GERALD W. BIRKS. Gen. Secy., J. W. Beaton. Consulting, D. A. BUDGE. Financial, J. O. Lough. Accountant, John S. Gibb. Canadianization, R. Gordon Burgoyne. COTE ST. PAUL, JOHN G. MacKINNON. VERDUN, GRANT D. BRANDON. || Central Br., 127 Drummond St. Chairman, A. J. Meiklejohn. Secy., J. Morley Carson. Membership, F. B. Wilson. Social, H. J. Swetman. Educational, Anson W. Young. Physical, Merwin F. Furey. Asst. Physical, O. S. McCutcheon; George F. Harris. Boys, R. E. G. Davis. Asst. Boys, F. Owen Stredder. Asst. (Office), Frank Spence; William Henry Caradine. || NORTH BR., 2300 PARK AVE. Chairman, William Taylor. SECY., W. J. HOLLIDAY.\" FIVE THINGS. (1) W. J. HOLLIDAY IS SECRETARY OF THE NORTH BRANCH. directors-index.md says of him, 'How far past 1910 he continued is not stated.' It is stated now: his documented Montreal career runs 1906 to 1922 at least -- Assistant Secretary 1906, Boys' Work Director 1907-08 (f_4967), camp director 1910-12?, branch secretary 1922. (2) HAY FINLAY IS GONE, and the timing is exact. He is 'Asst. Physical, Hay Finlay' at Central in the 1921 volume (f_4964); Central's assistant physicals in 1922 are McCutcheon and Harris. Kanawana's 1922 brochure calls him 'EX-Central YMCA Boys' Physical Director, then at McGill Physical Education' -- so the roster puts his departure between the two volumes, in the same season he ran the camp's senior section. (3) MacKINNON AND BRANDON BOTH MOVED to district postings, Cote St. Paul and Verdun, from the Industrial and Community secretaryships they held in 1921. (4) THE PRESIDENT CHANGED from A. O. Dawson to GERALD W. BIRKS. (5) D. A. BUDGE, TO THE MONTH: the volume carries a continent-wide 'LIST OF SECRETARIES ENTERING ASSOCIATION SERVICE BEFORE JAN. 1, 1893, AND STILL EMPLOYED APRIL, 1922', and its fifth line reads 'Mar. 1874 -- D. A. Budge, Consulting Sec, Montreal'. Forty-eight years, with only four men on the continent ahead of him. AND ONE OUTSIDE MONTREAL: under ONTARIO AND QUEBEC TERRITORY the volume lists 'T. D. PATTON, ASSISTANT Territorial Secretary', under Territorial Secretary Harry Ballantyne. t-duncan-patton.md summarises his career as 'Territorial Secretary at Toronto (1922-26)'. Not a contradiction, since he may have been promoted inside that span, but the article compresses an arrival into a tenure and the roster is the more precise witness for 1922. NOT FOUND: Holliday does not appear in this volume's alphabetical list of employed officers under that spelling; only five 'Holliday' strings exist in the file and four are the town of Hollidaysburg. The roster entry is not in doubt.",
+      "sources": [
+        "src_ymca_yearbook_1922"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.01",
       "added_by": "ralph_loop"
     }
   ]

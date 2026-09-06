@@ -29611,7 +29611,25 @@
       "read_state": "partial",
       "read_state_basis": "NOT lending-restricted. Full djvu text downloaded and searched 2026-09-06. 'Kanawana' occurs ZERO times (the camp's present site opens in 1910 and this series rosters staff, not programmes). The Quebec/Montreal local roster and the relevant employed-officers index lines were read and cached; the rest is unread. NOTE: the Internet Archive's metadata gives 1890 as the year for every volume of this series scanned by the University of Toronto; the year here is taken from the identifier.",
       "notes": "Part of the series enumerated at p_433. The 1908 volume gives the YMCA of Montreal's local roster. Across 1906-1908 it documents W. J. HOLLIDAY -- the man the association's own 1931 report calls 'the first camp director' of Kanawana -- entering Association work in 1906 as an Assistant Secretary and holding the post of BOYS' WORK DIRECTOR by the 1907 volume; JOHN W. ROSS as PRESIDENT of the association in all three; and J. E. Merritt as Physical Director. See f_4967."
+    },
+    {
+      "source_id": "src_ymca_yearbook_1922",
+      "type": "report",
+      "title": "YMCA Year Book and Official Rosters (New York: Association Press, 1922)",
+      "date": "1922",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/ymcayearbookoffi01youn",
+      "cache_path": "sources/cache/ymca-yearbooks/1922-ymca-year-book-montreal-roster.txt",
+      "char_count": 1508916,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "7.01",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "NOT lending-restricted. Full djvu text (1,508,916 bytes) downloaded and searched 2026-09-06. 'Kanawana' occurs ZERO times. The Montreal roster, the Ontario and Quebec Territory staff and the continent-wide long-service list were read and cached; the rest is unread. W. J. Holliday does not appear in the volume's alphabetical list of employed officers under that spelling -- only five 'Holliday' strings exist in the file and four are the town of Hollidaysburg -- so either the OCR mangled his index line or he is listed under a variant; the roster entry itself is not in doubt.",
+      "notes": "Part of the series enumerated at p_433, and the tenth volume of it read. Puts W. J. HOLLIDAY -- the man who opened Kanawana -- as SECRETARY OF THE NORTH BRANCH in 1922, extending his documented Montreal career to 1906-1922 where directors-index.md said 'how far past 1910 he continued is not stated'. Confirms HAY FINLAY's departure from Central between the 1921 and 1922 volumes, matching the 1922 camp brochure's 'ex-Central YMCA'. Gives D. A. BUDGE's entry into YMCA service as MARCH 1874 from a continent-wide long-service list. And has T. D. PATTON as ASSISTANT Territorial Secretary at Toronto, where his article says 'Territorial Secretary at Toronto (1922-26)'. See f_4968."
     }
   ],
-  "source_count": 1645
+  "source_count": 1646
 }

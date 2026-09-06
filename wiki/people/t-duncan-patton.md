@@ -1,7 +1,7 @@
 # Thomas Duncan Patton (1865–1944)
 
 *Status: draft | Sources: 17*
-*Last Updated: 2026-09-06*
+*Last Updated: 2026-09-06 (the 1922 roster has him as Assistant Territorial Secretary)*
 
 ## Overview
 
@@ -275,7 +275,7 @@ District No. 10** (Saskatchewan) in May 1916, and in the 1918 Dominion-wide camp
 of Saskatchewan, where an allotment of $175,000 returned **$508,709 in cash**.^1
 
 **After the memoir.** Patton's account stops in 1919; his career did not. He was National Territorial
-Secretary at Winnipeg (1920–22) and Territorial Secretary at Toronto (1922–26), then left the
+Secretary at Winnipeg (1920–22) and Territorial Secretary at Toronto (1922–26) — where the YMCA's own roster for **1922** is more precise, listing him as "**T. D. Patton, Assistant Territorial Secretary**" of the Ontario and Quebec Territory, under Territorial Secretary Harry Ballantyne, at 86 Adelaide Street East^13 — then left the
 Association: organizer for the **Ontario Prohibition Union** (1926–27), Executive Secretary of **Dixon
 Hall** in Toronto (1927–32), and Treasurer of the **Christian Social Council of Canada** (1932–41). He
 died in Toronto on **1 April 1944**, aged 78.^8
@@ -342,7 +342,7 @@ neither is obviously wrong.
 10. "Y.M.-Y.W.C.A. Camp Stephens," by Grant Platts, Scott McGregor and Juliane Schaible, p. 21, and "What's In A Name? Camp Stephens," p. 27, *Canadian Camping Magazine* Vol. 39 No. 1 (Summer 1987) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 162).
 11. Katelyn Charlebois, "Camp Stephens Celebrates 125 Years," Lake of the Woods Museum Newsletter Vol. 26 No. 3, Summer 2016 [src_muse_kenora_camp_stephens_125]. The 1893 search party and all five island namesakes. See [f_4839].
 12. "Camp Stephens 125th Anniversary Chapel Service ~ July 31, 2016," Camp Stephens Alumni blog [src_campstephens_125_chapel_2016]. The 1911 first boys' camp and Patton's part in it; a commemorative script, not a history. See [f_4840].
-13. *Year Book and Official Roster of the Young Men's Christian Associations of North America*, 1893 and 1895 [src_ymca_yearbook_1893], [src_ymca_yearbook_1895]. The Canadian Northwest and Canadian West provincial committees at Winnipeg, and Richardson's signed provincial reports. See [f_4860], [f_4861].
+13. *Year Book and Official Roster of the Young Men's Christian Associations of North America*, 1893 and 1895 [src_ymca_yearbook_1893], [src_ymca_yearbook_1895]. The Canadian Northwest and Canadian West provincial committees at Winnipeg, and Richardson's signed provincial reports. See [f_4860], [f_4861]. **And the 1922 volume** [src_ymca_yearbook_1922], "Ontario and Quebec Territory", which lists him as *Assistant* Territorial Secretary under Harry Ballantyne; not lending-restricted, full djvu text downloaded and searched 2026-09-06. See [f_4968].
 14. Commission de toponymie du Québec, fiche for **Île Jones** (no_seq 31476), and the *Toponymes officiels* dataset [src_ct_fiches_kanawana_2026], [src_donneesquebec_bnlq_2026]. Read 2026-09-06. The fiche's own authority for the Martin Jones etymology is Benjamin N. Wales, *Memories of old St. Andrews and historical sketches of the seigniory of Argenteuil* (Watchman Press, Lachute, 1934), which this project has not read. See [f_4889].
 15. YMCA of Montreal, **Annual Report 1890-91**, presented 28 May 1891 [src_ymf_sgw_ymca_annual_report_1990_1991] — cached under a filename misnumbered by a century; see [f_4901]. The Volunteer Camp work under Mr. Patton, and his resignation to enter the Springfield School. Read 2026-09-06 (p_253). See [f_4902].
 16. YMCA of Montreal, **41st Annual Report, 1891-92** (published 19 May 1892) [src_cache_sgw_ymca_annual_report_1991_1992] — the staff list and "Committees of the Board, 1892-93". Also cached under a filename misnumbered by a century; see [f_4901]. Read 2026-09-06 (p_253). See [f_4904], [f_4905].
