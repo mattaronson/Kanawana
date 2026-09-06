@@ -29125,7 +29125,25 @@
       "read_state": "partial",
       "read_state_basis": "ONE ENTRY ONLY, reconstructed from six overlapping Open Library search-inside windows 2026-09-06. Scan leaf 296; printed page unknown. The book is lending-restricted and has not been read. The telephone number is cut off at '849-'.",
       "notes": "A commercial city guidebook's cross-country skiing section. Gives the Outing Club twenty miles of blazed trails, a clubhouse, babysitting, instruction and rentals -- the first description of the club written for people outside the camp. See f_4942."
+    },
+    {
+      "source_id": "src_icre_yearbook_1936",
+      "type": "report",
+      "title": "International Council of Religious Education, Yearbook 1936 — the Quebec section",
+      "date": "1936",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/yearbook0000inte_w7o8",
+      "cache_path": "sources/cache/religious-education/1936-icre-yearbook-quebec-harold-cross.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.78",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "NOT lending-restricted. The full djvu text was downloaded and searched 2026-09-06; only the Quebec section was read out and cached. 'Kanawana' does not occur in the volume.",
+      "notes": "Names Harold C. Cross as President of the Religious Education Council of the Province of Quebec, at 1441 Drummond Street — the YMCA of Montreal's address — in 1936, inside the ten-year hole in his documented career. Other years of this yearbook series exist and are untried. See f_4943."
     }
   ],
-  "source_count": 1618
+  "source_count": 1619
 }

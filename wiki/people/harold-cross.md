@@ -1,7 +1,7 @@
 # Harold C. Cross
 
-*Status: E1-reviewed | Sources: 6*
-*Last Updated: 2026-06-24*
+*Status: E1-reviewed | Sources: 7*
+*Last Updated: 2026-09-06 (a 1936 office, the first thing found in the ten-year hole)*
 
 ## Overview
 
@@ -15,6 +15,13 @@ Phase 2 research (2026) established that Cross was based at the Victoria, Britis
 
 - **1919-1925**: Based at the Victoria, British Columbia YMCA (role unspecified; likely Boys' Work Secretary or similar). Wrote "Personal Reminiscences" about this period in 1967.^6
 - **c. 1925-1928**: Camp Director, Kamp Kanawana, YMCA of Montreal. A totem pole was added to the Council Ring in 1927 under his directorship.^3
+- **1936**: **President of the Religious Education Council of the Province of Quebec**, listed in the International
+  Council of Religious Education's *Yearbook 1936* at **1441 Drummond Street, Montreal** — the YMCA of Montreal's own
+  address. The council sat at 212 Coronation Building with a paid staff of five, and its other officers were Rev. A. M.
+  Hill of Verdun, James A. Reid of Valois and J. P. Copland of Montreal.^7 **This is the first thing this article has
+  found in the ten-year hole between the Kanawana directorship and the 1938 memo.** It is an office of standing in
+  Protestant Montreal — the province's interdenominational religious-education body, presided over by a man working
+  out of the YMCA building. It does **not** give his YMCA title, and none should be inferred from it.
 - **1938**: Authored memo to Les Copland regarding historical YMCA reminiscences (Rev. Ernest Taylor materials, 1868-1874).^1
 - **1939-1957**: Period covered by "History-correspondence of Harold C. Cross" in the Concordia Archives.^5
 - **1940-1945**: Maintained a "National Council Boys' Work file" (Concordia Archives, sub-series 14D10), indicating involvement with the YMCA's national boys' work program.^2
@@ -36,7 +43,7 @@ A continuation was later written by F.G. Hubbard: *First Quarter of Second Centu
 ## Open Questions
 
 1. [Critical] What are Harold C. Cross's birth and death dates? The 1971 photograph and 1938-1957 correspondence bracket his active years but biographical details remain unknown.
-2. [Important] What was his official title at the Montreal YMCA? "Camp director" at Kanawana is documented, but his later role (historian, staff member, volunteer?) is unclear.
+2. [Important, narrowed 2026-09-06] What was his official title at the Montreal YMCA? "Camp director" at Kanawana is documented, but his later role (historian, staff member, volunteer?) is unclear. **What is now fixed is his address rather than his title**: the 1936 religious-education yearbook has him at 1441 Drummond Street, the YMCA's own building, presiding over the Religious Education Council of the Province of Quebec.^7 A man given as president of a provincial council, at his employer's address, in a directory that lists paid staff separately from officers, was a volunteer officer of that council and something else at the YMCA. The something else is still the question.
 3. ~~[Important] Was *100 Years of Service to Youth* published as a book for public distribution, or was it an internal YMCA document?~~ [Resolved] Published by Association Press, Montreal — the YMCA's own imprint. This explains the absence from public library catalogs.^3
 4. [Important] What is the full content of the Harold C. Cross-National Council Boys' Work file (1940-1945)? This could clarify his role beyond the Montreal Association.
 5. ~~[Nice-to-have] Is there a connection between his camp directorship (1920s) and his later Boys' Work involvement (1940s)?~~ [Resolved] Victoria BC YMCA (1919-1925) → Camp Kanawana director (c. 1925-1928) → National Boys' Work (1940s) — a continuous YMCA career spanning at least three decades.^6
@@ -56,6 +63,7 @@ A continuation was later written by F.G. Hubbard: *First Quarter of Second Centu
 4. Wikipedia, "Murray G. Ross." URL: https://en.wikipedia.org/wiki/Murray_G._Ross
 5. Concordia Archives AtoM, "Kamp Kanawana." URL: https://concordia.accesstomemory.org/kamp-kanawana
 6. Concordia University Archives, YMCA of Montreal fonds P0145, sub-series 14H ("Local YMCA Histories Collected by J.M. Duckworth"): "Personal Reminiscences-Victoria, B.C. 1919-25, by Harold C. Cross" (1967).
+7. International Council of Religious Education, *Yearbook 1936*, Quebec section [src_icre_yearbook_1936]. **Not lending-restricted**: the full text was downloaded and searched 2026-09-06, and "Kanawana" does not occur anywhere in the volume. The Quebec section is cached at `sources/cache/religious-education/1936-icre-yearbook-quebec-harold-cross.txt`. See [f_4943]. Other years of this yearbook series exist and have not been tried.
 
 ## Research Notes
 

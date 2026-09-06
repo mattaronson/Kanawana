@@ -1974,7 +1974,9 @@
         "f_0603",
         "f_1519"
       ],
-      "sources_cited": [],
+      "sources_cited": [
+        "src_icre_yearbook_1936"
+      ],
       "open_questions": 3,
       "cross_links": [
         "centennial-1967",
@@ -1985,7 +1987,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 1216,
+      "word_count": 1490,
       "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

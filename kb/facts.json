@@ -1,8 +1,8 @@
 {
-  "version": "6.77",
-  "kb_version": "6.77",
+  "version": "6.78",
+  "kb_version": "6.78",
   "migrated_from": "3.3",
-  "fact_count": 4904,
+  "fact_count": 4905,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88090,6 +88090,24 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.77",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4943",
+      "category": "people",
+      "date_ref": "1936",
+      "entities": [
+        "Harold C. Cross",
+        "Religious Education Council of the Province of Quebec",
+        "YMCA of Montreal"
+      ],
+      "claim": "HAROLD C. CROSS WAS PRESIDENT OF THE RELIGIOUS EDUCATION COUNCIL OF THE PROVINCE OF QUEBEC IN 1936. The International Council of Religious Education's Yearbook for 1936, under Quebec, lists the council at 212 Coronation Building, Montreal, with \"Officers: PRESIDENT -- HAROLD C. CROSS, 1441 DRUMMOND ST., MONTREAL; Vice-President -- Rev. A. M. Hill, Ph.D., 297 Beatty Ave., Verdun, Que.; Secretary -- James A. Reid, 19 Mt. Pleasant Ave., Valois, Que.; Honorary Treasurer -- J. P. Copland, 389 St. Paul St. W., Montreal\", and a staff of General Secretary Rev. D. T. Irwin Forsyth, Girls' Work Secretary Nina A. Yeomans, Boys' Work Secretary John Pearson, Honorary Children's Work Secretary Janet M. Doxsey and Office Secretary Ivy Dombroski. This volume is NOT lending-restricted and was downloaded and searched in full; \"Kanawana\" does not occur in it. WHY IT MATTERS: wiki/people/harold-cross.md carries a career of Victoria YMCA 1919-25, Kanawana camp director c.1925-28, then NOTHING until a 1938 memo, and its Open Question 2 asks what his official title at the Montreal YMCA was. This puts him, in 1936, at the YMCA's own address at 1441 Drummond Street and presiding over the province's interdenominational religious-education body -- an office held by a man of standing in Protestant Montreal, not by a junior. It does not give a YMCA title, and none should be inferred from it. It does place him in Montreal, at the YMCA building, in the middle of the ten-year hole.",
+      "sources": [
+        "src_icre_yearbook_1936"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.78",
       "added_by": "ralph_loop"
     }
   ]
