@@ -1,7 +1,7 @@
 # The Modern Era: The Two-Tier Era (1995–Present)
 
-*Status: draft | Sources: 17*
-*Last Updated: 2026-08-28*
+*Status: draft | Sources: 18*
+*Last Updated: 2026-09-06 (the camp's own description of itself to job-seekers, 2006 and 2008)*
 
 ## Overview
 
@@ -18,6 +18,38 @@ The Executive Director role passed from Boyer to [[people/gary-white|Gary White]
 ## The Green Shift (2006–2012)
 
 Beginning in 2006, Kanawana undertook a "virage vert" (green shift) aimed at reducing its ecological footprint and repositioning itself as an outdoor education centre; the Montreal YMCA's 2007 annual report frames it as a $5 million development and Quebec's first "green camp."^6 The Grand Portage cabin was demolished around 2006 to make way for new washroom buildings housing 16 commercial Clivus Multrum composting units and 32 dry toilets, installed specifically to protect Lake Kanawana from septic pollution.^10 ^11 Two green sanitary installations were tested during the summers of 2007 and 2008.^11 By December 2008, $1.48 million had been raised toward the $5 million goal;^7 by 2009 Phase I was nearly complete, with twelve new three-season cabins erected for younger campers and counsellors.^8 The project earned an honourable mention for environmental achievement at Saint-Sauveur's 2010 Gala Méritas, and a new eco-educational pavilion opened in 2012.^9 TELUS contributed $50,000 in 2010 toward a three-season educational pavilion at the camp;^12 whether that grant funded the pavilion that opened in 2012 is not stated by any source and is not assumed here. The green shift enabled the camp to serve "four times more young people" than before, transforming it from a summer-only operation into a three-season facility — see [[traditions/environmental-history|Environmental Education and Stewardship at Kanawana]] for the full year-by-year account, including subsequent water-quality monitoring data and school-partnership conservation programming.
+
+### The camp as it described itself to job-seekers, 2006 and 2008
+
+The green shift is documented from the YMCA's side. What the camp told **applicants** in the same years
+is in a commercial job directory, and it is the plainest self-description this article holds for the
+period.^18
+
+> "YMCA Kamp Kanawana is located outside of St.-Sauveur-des-Monts, Quebec, about an hour North of
+> Montreal. The camp is nestled in the heart of the Laurentian Mountains on **500 acres** [2006] /
+> **550 acres** [2008] of pristine wilderness with 3 private lakes. Kanawana offers programming for boys
+> and girls **aged 5 to 16**, including canoeing, nature, hiking, sailing, **rockclimbing**, kayaking,
+> swimming, **ropes course activities**, arts & crafts, drama…"
+
+Four things it settles or moves. The winter address is **1435 Drummond**, not the 1441 printed in every
+earlier directory this project holds, from 1975 to 1987. The **age floor is five**, against 7 in the
+1983-84 and 1987 guides and 8 in 1975-76. **Rockclimbing and a ropes course** appear in the activity
+list, which they do in none of the earlier ones. And the **acreage moves between the two editions**, 500
+to 550, in copy that is otherwise word for word the same — so the camp's own figure changed between 2006
+and 2008 and landed on the number the YMCA still uses (see
+[[site/the-kanawana-site|The Kanawana Site]]).
+
+**And the staff structure is named post by post**, which is as close to an organigram as this article
+gets for the 2000s: "junior counselor (17 years), counselor (18 years and over), lifeguard, program
+specialist (such as canoeing specialist, sailing specialist…), maintenance assistant/counselor, office
+assistant, **counselor-in-training director**, **out-trip director**, **assistant out-trip director**,
+**nature leader/counselor**, **head lifeguard/counselor**, and counsellors."^18 The out-trip
+directorship with its own assistant is the tripping programme's line of command a generation after
+[[traditions/canoe-trips|Les Voyageurs]] stopped being listed as a camp of its own.
+
+*A caution kept with the source.* The directory page carries several employers' entries, and other
+plausible-looking post lists came back in the same search windows. None of those is attributed here.
+Only the text walked contiguously from Kanawana's own heading is quoted.
 
 ## Gender-Expansive Programming and the Mountaineers (2022)
 
@@ -132,6 +164,7 @@ seasons in the mid-1990s, thirty-one years before the phone call.
 15. Kamp Kanawana parent preparation guides, 2025 and 2026 [src_kk_prep_guide_2026], [src_kk_prep_guide_2025]. See [f_2314].
 16. Oral history, Matt Aronson, 28 August 2026 [src_oral_aronson_westmount_bus_2026]. See [f_2324], [f_2325]. Uncorroborated by any document; the operator is a participant in the account.
 17. "CITS 95" and "Kanawana Staff 97" plaques, Kanawana Flickr "Plaque" album [src_flickr_kanawana_plaque_album]; oral history, Matt Aronson, 28 August 2026 [src_oral_aronson_cit_1995]. See [f_2326], [f_2327], [f_1614], [f_1705].
+18. *The Canadian Summer Job Directory*, 2006 and 2008 editions, the entry "YMCA KAMP KANAWANA" [src_canadian_summer_job_directory_2006_2008]. **One entry from each edition**, reconstructed 2026-09-06 from ten overlapping Open Library search-inside queries; both books are lending-restricted and neither has been read, and the tail of the activities list was not recovered. Cached with the queries, and with the caution about the page's other employers, at `sources/cache/openlibrary-search-inside/2026-09-06-canadian-summer-job-directory-2006-2008.txt`. See [f_4947].
 
 ## Research Notes
 

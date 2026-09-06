@@ -29215,7 +29215,25 @@
       "read_state": "partial",
       "read_state_basis": "ONE ENTRY FROM EACH EDITION, reconstructed from fifteen overlapping Open Library search-inside windows 2026-09-06. Both books are lending-restricted and neither has been read. Scan leaves 484 (1983-84) and 478 (1987); printed pages unknown. The 1987 fee figure, the full in-camp activities list, and both books' Canadian cross-reference indexes were NOT recovered.",
       "notes": "Names Peter G. Goddard as director for 1983-84 and Jay Netherwood for 1987, both from outside the YMCA's own files; prints 'Est. 1894' in both editions; and carries The Voyageurs Program as fourteen-day wilderness canoe tripping for teenagers 13-18. The second Internet Archive item is guidetosummercam0000port. See f_4946 and conflict c_065."
+    },
+    {
+      "source_id": "src_canadian_summer_job_directory_2006_2008",
+      "type": "catalog_reference",
+      "title": "The Canadian Summer Job Directory, 2006 and 2008 editions — the entry \"YMCA KAMP KANAWANA\"",
+      "date": "2006-2008",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/canadiansummerjo0000unse",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-canadian-summer-job-directory-2006-2008.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.84",
+      "reliability": "secondary",
+      "read_state": "partial",
+      "read_state_basis": "ONE ENTRY FROM EACH EDITION, reconstructed from ten overlapping Open Library search-inside windows 2026-09-06. Both books are lending-restricted and neither has been read. Both at scan leaf 246; printed pages unknown. The tail of the activities list, the parenthetical list of program specialisms and the full How to Apply text were NOT recovered.",
+      "notes": "The camp's own return to a commercial publisher, twice, two years apart. Gives 1435 Drummond as the winter address against the 1441 of every earlier directory; ages 5 to 16; rockclimbing and ropes course activities; a post-by-post staff structure; and an acreage that moves from 500 in 2006 to 550 in 2008 in otherwise identical copy. The 2008 item is canadiansummerjo0000unse_q4r4. See f_4947."
     }
   ],
-  "source_count": 1623
+  "source_count": 1624
 }

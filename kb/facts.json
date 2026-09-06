@@ -1,8 +1,8 @@
 {
-  "version": "6.83",
-  "kb_version": "6.83",
+  "version": "6.84",
+  "kb_version": "6.84",
   "migrated_from": "3.3",
-  "fact_count": 4908,
+  "fact_count": 4909,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88162,6 +88162,23 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.82",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4947",
+      "category": "programs",
+      "date_ref": "2006/2008",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "KANAWANA'S OWN DESCRIPTION OF ITSELF TO JOB-SEEKERS, 2006 AND 2008, AND AN ACREAGE THAT MOVES. The Canadian Summer Job Directory carries the camp in both editions, word for word identical except where noted: \"YMCA KAMP KANAWANA, 1435 rue Drummond, 4e etage, Montreal, QC [2006] / 1435 Drummond, 4th Floor, Montreal, QC H3G 1W3 [2008]. Summer Camp and Programs. Description: YMCA Kamp Kanawana is located outside of St.-Sauveur-des-Monts, Quebec, about an hour North of Montreal. The camp is nestled in the heart of the Laurentian Mountains on 500 ACRES [2006] / 550 ACRES [2008] of pristine wilderness with 3 private lakes. Kanawana offers programming for boys and girls AGED 5 TO 16, including canoeing, nature, hiking, sailing, ROCKCLIMBING, kayaking, swimming, ROPES COURSE ACTIVITIES, arts & crafts, drama... There are many positions available at YMCA Kamp Kanawana, including JUNIOR COUNSELOR (17 YEARS), COUNSELOR (18 YEARS AND OVER), lifeguard, program specialist (such as canoeing specialist, sailing specialist...), maintenance assistant/counselor, office assistant, COUNSELOR-IN-TRAINING DIRECTOR, OUT-TRIP DIRECTOR, ASSISTANT OUT-TRIP DIRECTOR, NATURE LEADER/COUNSELOR, HEAD LIFEGUARD/COUNSELOR, and counsellors.\" Reconstructed 2026-09-06 from ten overlapping Open Library search-inside windows; both books are lending-restricted and neither has been read. FOUR THINGS. (1) THE ADDRESS IS 1435 DRUMMOND, not the 1441 printed in every earlier directory this project holds, from 1975 to 1987. (2) THE ACREAGE MOVES: 500 in 2006 and 550 in 2008 in otherwise identical copy, so the camp's own figure changed between those years and arrived at the 550 the YMCA uses now. That is the closest thing this project has to a date for the current number, and it is still not a survey. (3) THE AGE FLOOR IS FIVE, against 7-15 in the 1983-84 and 1987 guides and 8-15 in 1975-76. (4) THE STAFF STRUCTURE IS NAMED post by post, which gives an organigram for the mid-2000s: a counselor-in-training director, an out-trip director with an assistant, a nature leader and a head lifeguard, over program specialists and counsellors split at eighteen. ROCKCLIMBING AND ROPES COURSE ACTIVITIES appear in the activity list, which they do not in any earlier one. A CAUTION RECORDED IN THE CACHE FILE: the same page carries other employers' entries, and several plausible-looking post lists returned in the same windows are NOT attributed here, because adjacency in a twelve-word window is not attribution.",
+      "sources": [
+        "src_canadian_summer_job_directory_2006_2008"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.84",
       "added_by": "ralph_loop"
     }
   ]

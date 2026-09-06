@@ -1,6 +1,6 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 47*
+*Status: E1-reviewed | Sources: 48*
 *Last Updated: 2026-09-06 (the post office, and its opening bracketed to 1909-1912)*
 
 ## Overview
@@ -107,6 +107,9 @@ the Kanawana site has ever been surveyed."^35
 | ~1,000 acres | Kamp Kanawana annual report 1964; SGW YMCA annual report 1964; YMCA news release 13 May 1969; Kamp Kanawana annual reports 1969 and 1970^37 |
 | 1,200 acres "of private land and lakes" | *The Gazette*, 18 April 1974^38 |
 | 455 acres land / 537 acres total | Royal LePage report to the YMCA, 1989, quoted in the 1988 Task Force report^35 |
+| 1,000 acres "of wooded property" | *Summer Camps & Programs* (American camp guide), 1983^47 |
+| 500 acres | *Canadian Summer Job Directory*, 2006 edition^48 |
+| 550 acres | *Canadian Summer Job Directory*, 2008 edition^48 |
 | 550 acres | YMCA Quebec, current^1 |
 
 The large mid-century figures begin in a specific year. The Task Force chronology records that in
@@ -137,7 +140,7 @@ Kanawana site; B) The purchase of a new site."^40 The neighbouring criteria are 
 below]] for the related two-site proposal of 1977.)
 
 
-**A third figure, printed in 1983.** An American camp guide gives the property as "**1,000 acres of wooded property**", 50 miles north of Montreal.^47 That is neither the 550 acres this article works from nor the 1,200 of the 1988 Task Force report discussed above; it is a round number in a commercial directory, compiled from the camp's own return, and it is recorded here as a third claim rather than as a measurement. What the three have in common is that none of them cites a survey.
+**Three of the rows above come from outside the institution, and one of them moves.** The 1983 American guide's "1,000 acres of wooded property" is the last appearance of the mid-century figure, twelve years after the camp's own literature had settled on it.^47 More useful are the two that follow: the *Canadian Summer Job Directory* prints **500 acres in its 2006 edition and 550 in its 2008**, in otherwise word-for-word identical copy.^48 These are the camp's own returns to a commercial publisher two years apart, so **the figure changed on the camp's own account between 2006 and 2008** and arrived at the 550 the YMCA uses now. That is the closest thing this article has to a date for the current number. It is still not a survey, and the 1988 planning report's finding stands: no record was found that the site had ever been surveyed.
 
 ## Camp Layout
 
@@ -328,6 +331,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 45. Union postale universelle, Bureau international, *Dictionnaire des bureaux de poste* (Lausanne, novembre 1909), with its *Supplément* of août 1912, Part I "Bureaux à ajouter" [src_upu_dictionnaire_bureaux_poste_1909_1912]. **Not lending-restricted**: the full text was downloaded and searched 2026-09-06, and "Kanawana" occurs exactly once in it. The entry, the column alignment and both publications' own scope statements are cached at `sources/cache/postal/1909-1912-upu-dictionnaire-des-bureaux-de-poste-kanawana.txt`. See [f_4944].
 46. Canada, *Guide officiel du service postal Canadien, 1917* [src_guide_officiel_postal_1917]. **Not lending-restricted**: the full text was downloaded and searched 2026-09-06, and "Kanawana" occurs twice in it. Both passages are cached at `sources/cache/postal/1917-guide-officiel-du-service-postal-canadien-kanawana.txt`, with a note that the dagger and asterisk prefixes used in those lists were not decoded. See [f_4936].
 47. *Summer Camps & Programs* (1983), the entry "Kamp Kanawana-Montreal YMCA" [src_summer_camps_and_programs_1983]. **Part of one entry**, reconstructed 2026-09-06 from overlapping Open Library search-inside queries; the book is lending-restricted and has not been read. Cached at `sources/cache/openlibrary-search-inside/2026-09-06-summer-camps-and-programs-1983-kanawana.txt`. See [f_4945].
+48. *The Canadian Summer Job Directory*, 2006 and 2008 editions, the entry "YMCA KAMP KANAWANA" [src_canadian_summer_job_directory_2006_2008]. **One entry from each edition**, reconstructed 2026-09-06 from ten overlapping Open Library search-inside queries; both books are lending-restricted and neither has been read. Cached with the queries at `sources/cache/openlibrary-search-inside/2026-09-06-canadian-summer-job-directory-2006-2008.txt`. See [f_4947].
 
 ## Research Notes
 
