@@ -1,8 +1,8 @@
 {
-  "version": "6.49",
-  "kb_version": "6.49",
+  "version": "6.50",
+  "kb_version": "6.50",
   "migrated_from": "3.3",
-  "fact_count": 4854,
+  "fact_count": 4855,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87105,6 +87105,30 @@
       "date_ref": "2026-09-06",
       "conflicts_with": [],
       "added_version": "6.49",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4893",
+      "claim": "THE TOPONYMIC REGISTER'S \"CAMP\" CLASS IS MOSTLY HUNTING AND FISHING CAMPS, NOT SUMMER CAMPS -- AND IT STILL YIELDS SEVEN NEW NAMES. Swept province-wide 2026-09-06: Quebec's Toponymes officiels file holds 87 entries of entity class Camp. THE HYPOTHESIS THAT THIS IS A DIRECTORY OF CHILDREN'S CAMPS IS WRONG and is corrected here: roughly forty of the eighty-seven are on ILE D'ANTICOSTI (Jupiter-12, Jupiter-24, Chicotte-la-Mer, Baie-de-la-Tour and so on) and most of the rest are outfitters' camps in the Laurentides and Jacques-Cartier wildlife reserves; 32 of the 87 were officialised in 2026 alone, in two batches on 11 March and 11 June, which is a mapping exercise rather than a wave of camp founding. Linguistic origins: 72 French, 7 English, 3 Autre, and one each Cri, Mohawk and Algonquin. WHAT THE RESIDUE IS WORTH: a real band of CHILDREN'S SUMMER CAMPS runs through the Laurentians and Lanaudiere -- Camp Kinkora (Saint-Adolphe-d'Howard), CAMP HIAWATHA (Sainte-Agathe-des-Monts, 46.08389/-74.24667, officialised 1984-09-06, ORIGINE LINGUISTIQUE MOHAWK), Camp Kanawana, Camp Olier and Camp de l'Avenir (Sainte-Anne-des-Lacs), Camp Ouareau (Notre-Dame-de-la-Merci), Camp-Nominingue, Camp Quatre-Saisons (La Macaza), OLD BREWERY MISSION (Wentworth-Nord, 45.89028/-74.42083, officialised 1986-06-12), Village-des-Jeunes (Saint-Come), CAMP MARIAN and CAMP AURELDA (both Mandeville, both 1981-07-09), Colonie de Granby (Clarenceville), Sainte-Jeanne-d'Arc (Contrecoeur), Camp Bosco (Coteau-du-Lac) and Camp Gatineau (Pontiac). SEVEN OF THESE APPEAR NOWHERE IN THIS PROJECT: Camp Hiawatha, Camp Olier, Camp de l'Avenir, Camp Aurelda, Village-des-Jeunes, Colonie de Granby and Camp Glen Emma (Routhierville). Only two of Kanawana's own three registered camp neighbours are known to this wiki.",
+      "sources": [
+        "src_donneesquebec_bnlq_2026"
+      ],
+      "confidence": "stated",
+      "category": "institutions",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Hiawatha",
+        "Camp Olier",
+        "Camp de l'Avenir",
+        "Old Brewery Mission",
+        "Camp Marian",
+        "Camp Aurelda",
+        "Camp Kinkora",
+        "Commission de toponymie du Quebec"
+      ],
+      "date_ref": "2026-09-06",
+      "conflicts_with": [],
+      "added_version": "6.50",
       "added_by": "ralph_loop"
     }
   ]

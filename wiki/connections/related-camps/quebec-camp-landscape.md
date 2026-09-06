@@ -1,7 +1,7 @@
 # The Quebec Camping Landscape
 
-*Status: E1-reviewed | Sources: 26*
-*Last Updated: 2026-09-05*
+*Status: E1-reviewed | Sources: 27*
+*Last Updated: 2026-09-06*
 
 ## Overview
 
@@ -99,6 +99,44 @@ The YMCA of Montreal operated multiple camps alongside Kanawana. The Concordia U
 ## Laurentian Neighbours
 
 The Laurentian Mountains north of Montreal became one of Canada's densest concentrations of summer camps in the twentieth century. Several camps near Kanawana have their own significant histories.
+
+### The camps Quebec has officially named
+
+Quebec's toponymic register has an entity class called **Camp**, and it was swept province-wide on
+6 September 2026 on the hope that it would amount to a map of the province's camps that no directory
+gives.^27 **It does not, and the hope is worth correcting rather than quietly dropping.** Of the
+**87 entries**, about forty are on **Île d'Anticosti** — Jupiter-12, Jupiter-24, Chicotte-la-Mer,
+Baie-de-la-Tour — and most of the remainder are outfitters' camps in the Laurentides and Jacques-Cartier
+wildlife reserves. Thirty-two of the eighty-seven were officialised in 2026 alone, in two batches, which
+is a mapping exercise and not a wave of camp founding. A hunting camp and a children's camp are the same
+word in this file.
+
+What survives the sieve is a genuine band of **children's camps through the Laurentians and Lanaudière**,
+and seven of them appear nowhere else in this project:^27
+
+| Camp | Where | Officialised | Register's note |
+|---|---|---|---|
+| **Camp Hiawatha** | Sainte-Agathe-des-Monts | 1984-09-06 | origin recorded as **Mohawk** |
+| **Camp Olier** | Sainte-Anne-des-Lacs | 1985-11-07 | 3 km from Kanawana |
+| **Camp de l'Avenir** | Sainte-Anne-des-Lacs | 2005-12-08 | 3 km from Kanawana |
+| **Camp Aurelda** | Mandeville | 1981-07-09 | beside Camp Marian, same day |
+| **Village-des-Jeunes** | Saint-Côme | 1986-06-12 | |
+| **Colonie de Granby** | Clarenceville | 1983-09-01 | |
+| **Camp Glen Emma** | Routhierville | 1989-02-07 | Gaspé, far outside the usual band |
+
+Alongside them the register carries camps this wiki already follows — Kanawana, Kinkora, Ouareau,
+Nominingue, Quatre-Saisons, Sainte-Jeanne-d'Arc, Bosco, Marian, Gatineau — and one institutional
+neighbour worth a second look: **Old Brewery Mission**, registered as a camp at **Wentworth-Nord**
+(45.89028 / -74.42083) in 1986. Montreal's oldest homeless mission had a named camp in the Laurentians,
+about 20 km west of Kanawana.^27
+
+**Two things follow, and only one of them is comfortable.** Camp Hiawatha is twenty kilometres from
+Kanawana, its name is registered as Mohawk in origin, and it is not mentioned anywhere in this project —
+which matters for the argument in
+[[site/indigenous-names-and-land|Indigenous Place Names and Land History]], because it shows Kanawana
+was not alone in the district in carrying a name of that kind. And **Camp Tamaracouta, whose lot
+Kanawana bought into in 1964, is not a registered camp at all** — only its lake is, with its origin
+recorded as Algonquin. Registration in this file tracks nothing about a camp's size or age.
 
 ### Camp Tamaracouta (1912)
 
@@ -208,6 +246,7 @@ Several patterns emerge from the Quebec and Canadian camp landscape:
 24. Wilfred A. Jackson, "Planning Your Years — A Maintenance Program," and "Trampolines," *Canadian Camping* Vol. 30 No. 2 (April 1978), pp. 8-9, 11-12 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 118); Jackson's role at the QCA's 40th anniversary conference is from Vol. 29 No. 2 (March 1977), p. 1 (issue 112).
 25. "Y.M.-Y.W.C.A. Camp Stephens," by Grant Platts, Scott McGregor and Juliane Schaible, p. 21, and "What's In A Name? Camp Stephens," p. 27, *Canadian Camping Magazine* Vol. 39 No. 1 (Summer 1987); with Kelley Byrne, "A Tribute to the Oldest Camp in Canada! Big Cove YMCA Camp," *Canadian Camping Magazine* Vol. 38 No. 3 (Winter 1987), p. 8 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issues 160 and 162).
 26. *Canadian Camping* Vol. 27 No. 2 (January 1975), the Canadian Camping Association Directory Issue, Quebec section [src_ia_canadian_camping_collection]. Kanawana's entry and the 64 Quebec member camps with their printed founding years, extracted 2026-09-05. See [f_4866], [f_4867], [f_4868].
+27. Commission de toponymie du Québec, *Toponymes officiels*, entity class **Camp**, swept province-wide 2026-09-06 [src_donneesquebec_bnlq_2026]. All 87 entries read. See [f_4893], and [f_4891] for the Kanawana district. The register records a place name, not an institution: it says nothing about who ran a camp, when it opened, or whether it is still running.
 
 ## Research Notes
 
