@@ -1,8 +1,8 @@
 {
-  "version": "6.74",
-  "kb_version": "6.74",
+  "version": "6.75",
+  "kb_version": "6.75",
   "migrated_from": "3.3",
-  "fact_count": 4901,
+  "fact_count": 4902,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88037,6 +88037,23 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4940",
+      "category": "reception",
+      "date_ref": "1967/1977/2009",
+      "entities": [
+        "Kamp Kanawana",
+        "Camp Tamaracouta"
+      ],
+      "claim": "KANAWANA IN THREE BOOKS THAT ARE NOT ABOUT IT, found 2026-09-06 in the Open Library sweep and each read out from a lending-restricted scan. (1) LES LAURENTIDES, PEINTURES ET PAYSAGE, a travelling art-exhibition catalogue of 1977, scan leaf 106, listing the ways outsiders came to know the region: \"...sont venus a la peche et a la chasse, LES GARCONS INSTALLES DANS DES COLONIES DE VACANCES COMME LE CAMP KANAWANA DE LA YMCA sont venus dormir sous la tente et s'aventurer dans des sorties en canoe. Mais pour decouvrir cette region, les peintres des Laurentides...\" So a Quebec art catalogue names Kanawana as the example of camp-going, beside angling and hunting, in an account of how the Laurentians came to be known. (2) MIKE GUTWILLIG, MY CANADA -- SUCH A MECHIAH! (Prize Books, 1967), scan leaf 168, on a Montreal childhood: \"(and, if you were really fortunate, getting Camp Kanawana or TAMERACOUTA for two weeks)\" -- Kanawana and Tamaracouta, the Scout camp, as the two prize destinations of a summer. (3) L. IAN MACDONALD, POLITICS, PEOPLE & POTPOURRI (published for the Montreal Gazette by McGill-Queen's University Press, 2009), scan leaf 354: \"Because she recently went on A FIVE-DAY CANOE TRIP AT CAMP KANAWANA in the Laurentians, she is the family expert on proper canoeing technique and has concluded I'm quite...\" -- a Gazette columnist's aside about a family member's canoe trip. She is not named in the recovered text and is not named here. NONE OF THE THREE ADDS A FACT ABOUT THE CAMP'S OPERATION. What they establish together is that Kanawana was a name a Montreal reader recognised without explanation across at least forty years, in a Jewish memoir of 1967, an art catalogue of 1977 and a newspaper column collected in 2009 -- and in the first two it stands for camp-going in general rather than for itself.",
+      "sources": [
+        "src_three_books_naming_kanawana_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.75",
       "added_by": "ralph_loop"
     }
   ]

@@ -260,6 +260,37 @@ report has its columns broken in the OCR, so only its totals are extracted [f_44
 absence is in the source rather than the tool: a postal strike, named by the editor, is why several
 provinces are silent in the Fall 1987 issue [f_4689].
 
+### The camp in other people's books
+
+A full-text sweep of the Internet Archive's book corpus on 2026-09-06 found Kanawana named in books
+that are not about it. Four are treated at length elsewhere — [[people/j-w-mcconnell|Fong's biography of
+J.W. McConnell]], [[people/roy-locke|the Canadian Obituary Record]],
+[[history/postwar-gap|Judy Abrams's memoir]] and [[traditions/programs-activities|Michael Kutz's]], plus
+[[site/camp-otoreke|a 2016 Quebec history that gets the camp wrong]]. Three more add nothing about how
+the camp ran and are worth recording anyway, because of what they show about the name — see the source note at the end of this section.
+
+*Les Laurentides, peintures et paysage*, a travelling exhibition catalogue of **1977**, lists the ways
+outsiders came to know the region: anglers, hunters, and "**les garçons installés dans des colonies de
+vacances comme le camp Kanawana de la YMCA** [qui] sont venus dormir sous la tente et s'aventurer dans
+des sorties en canoë."
+
+Mike Gutwillig's *My Canada — Such a Mechiah!* (**1967**), on a Montreal childhood: "(and, if you were
+really fortunate, getting **Camp Kanawana or Tameracouta** for two weeks)" — Kanawana and the Scout camp
+as the two prizes of a summer.
+
+L. Ian MacDonald's *Politics, People & Potpourri* (**2009**), collecting his *Gazette* columns: "Because
+she recently went on a **five-day canoe trip at Camp Kanawana** in the Laurentians, she is the family
+expert on proper canoeing technique…"
+
+**What the three have in common is that none of them explains what Kanawana is.** In a Jewish memoir of
+1967, an art catalogue of 1977 and a newspaper column collected in 2009, the name is used as though the
+reader will know it — and in the first two it stands for camp-going in general rather than for itself.
+That is a kind of evidence this project has almost none of: not what the camp did, but what its name
+meant to somebody who was not there.
+
+
+**Source note.** *Les Laurentides, peintures et paysage : exposition itinérante* (1977), Internet Archive scan leaf 106; Mike Gutwillig, *My Canada — Such a Mechiah!* (Prize Books, 1967), scan leaf 168; and L. Ian MacDonald, *Politics, People & Potpourri* (Montreal: published for *The Gazette* by McGill-Queen's University Press, 2009), scan leaf 354 [src_three_books_naming_kanawana_2026]. **One passage from each**, reconstructed 2026-09-06 from overlapping Open Library search-inside queries; all three are lending-restricted and none has been read, and the printed pages are unknown. The reconstructions and their queries are cached at `sources/cache/openlibrary-search-inside/2026-09-06-three-books-naming-kanawana.txt`. See [f_4940].
+
 ## Secondary Sources (37)
 
 ### Academic Works

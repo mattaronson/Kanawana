@@ -29071,7 +29071,25 @@
       "read_state": "partial",
       "read_state_basis": "ONE PASSAGE plus two stray sentences, reconstructed from eight overlapping Open Library search-inside windows 2026-09-06. Scan leaf 310; printed page unknown. The book is lending-restricted and has not been read.",
       "notes": "A popular history from a mainstream Quebec press. Its sentence 'Connu longtemps sous le nom d'Otoreke, ce camp existe toujours: c'est maintenant le camp Kanawana' is right about the institution and wrong about the site, and erases Camp Otoreke's 1910-1982 life at Lac Saint-Joseph. Recorded so the correction travels with it. Also gives 1911 for Camp Nominingue as the first francophone camp, against the QCA directory's 1925. See f_4939."
+    },
+    {
+      "source_id": "src_three_books_naming_kanawana_2026",
+      "type": "web",
+      "title": "Three books naming Camp Kanawana in passing: Les Laurentides, peintures et paysage (1977); Mike Gutwillig, My Canada — Such a Mechiah! (1967); L. Ian MacDonald, Politics, People & Potpourri (2009)",
+      "date": "1967-2009",
+      "date_precision": "approximate",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/leslaurentidespe0000unse",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-three-books-naming-kanawana.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.75",
+      "reliability": "tertiary",
+      "read_state": "partial",
+      "read_state_basis": "ONE PASSAGE FROM EACH, reconstructed 2026-09-06 from overlapping Open Library search-inside windows. All three books are lending-restricted and none has been read. Scan leaves 106, 168 and 354; printed pages unknown.",
+      "notes": "None adds a fact about the camp's operation. Together they show Kanawana as a name a Montreal reader recognised without explanation from 1967 to 2009. The other IA item ids are mycanadasuchmech0000mike and politicspeoplepo0000macd. See f_4940."
     }
   ],
-  "source_count": 1615
+  "source_count": 1616
 }

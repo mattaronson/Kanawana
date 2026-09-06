@@ -1860,11 +1860,14 @@
         "f_1983"
       ],
       "sources_cited": [
-        "src_concordia_finding_aid_master_pdf",
-        "src_concordia_12N_camping_associations",
-        "src_trent_qca_fonds",
+        "src_ballantyne_1944",
         "src_banq_numerique_general",
-        "src_ballantyne_1944"
+        "src_concordia_12N_camping_associations",
+        "src_concordia_finding_aid_master_pdf",
+        "src_kk_prep_guide_2025",
+        "src_kk_prep_guide_2026",
+        "src_three_books_naming_kanawana_2026",
+        "src_trent_qca_fonds"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -1878,7 +1881,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 5055,
+      "word_count": 5454,
       "notes": "E1 REVIEW (2026-02-19): Fixed source counts (85 total, 74 extracted, 11 IA documents). Restructured with newspaper sources, Pip Award pages, biographical sources. 2026-06-21: Added 1966-67 annual report (f_1335), expanded 12B01/14D holdings detail (f_1337), expanded Kautz YMCA Archives entry (f_1339). Updated statistics to 138 sources, 1355 facts, KB v4.74. 2026-07-09: Resolved/clarified 3 of 7 open questions (McMorris thesis now read in full; Trent OCA/CCA fonds largely resolved via Derek Walsh; BAnQ Advitam notice clarified as a separate deposit from the Concordia fonds). Refreshed Source/KB Statistics tables to current totals (580 sources, 1790 facts, KB v5.02) -- the detailed primary/secondary/tertiary category breakdown remains a March-2026 tally, flagged stale, not recomputed this pass. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header, replaced with the standardized header (Sources field uses the project's current total-sources count, since this meta article is itself a sources catalog rather than a cited-source article). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
