@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
 *Status: E1-reviewed | Sources: 0*
-*Last Updated: 2026-09-06 (horses in 1968, and a French immersion section in 1969)*
+*Last Updated: 2026-09-06 (the French thread starts in 1967, at a day camp, with thirty immigrant children)*
 
 ## Overview
 
@@ -247,6 +247,16 @@ A press release of 13 May 1969, sent to the *Gazette* and the suburban weeklies,
 
 **A French-language section, new for 1969, and it was immersion.** "This summer Kanawana is introducing a special **French-language program for English-speaking boys**." The arrangements are specific: participants "will be quartered in **a converted farm building which adjoins the main property**. There will be **one French-speaking counsellor for every five boys**, all supervised by a **special director and a language co-ordinator**." The method is stated too — "Instead of classrooms and school-type texts, leaders of this forward-looking program will use Kanawana's wide range of vacation-time facilities to **motivate their charges to learn while playing**," though "part of each day will, however, be reserved for study, but also in an atmosphere of relaxed informality."^nr69
 
+**Where the idea came from, two years earlier and somewhere else.** The Montreal YMCA's International Branch ran an experimental French-language day camp in the summer of **1967**, for thirty children, and its director R. S. Wilson wrote it up on 3 May 1968 in a proposal to repeat it at scale.^ifl It is not a Kanawana document and does not mention the camp, so no line of descent is asserted here — but it is where French-language camping starts in this association's records, and the resident camp's section follows it by two years.
+
+The problem the branch set out to address was not bilingualism in the abstract. It was immigrant children facing French as a *third* language: "if he wishes to succeed within the educational system he is forced to learn a third language. To many who are already endeavouring to deal with two languages this becomes **an odious task**. That failure or promotion within the school system often hinges on his ability in the third language creates **frustrations and fears**."^ifl The branch's own neighbourhood "has the largest immigrant population in the city," and Wilson described it as "**a series of villages between whom there is a minimum of communication**."
+
+What the 1967 experiment produced, in the children's words: "I have not learned many new words but **when someone speaks to me, I understand them. It makes sense.**" And: "**It was not really learning at all, even when the leaders made you speak French, it was fun.**" Wilson's reading was that "the program broke down the view that French is an imposition, as the memorizing of verbs and rules. Instead, **French became the password to an exciting experience**."^ifl
+
+What went wrong is recorded as candidly: "Although forewarned that the children would be testing them in the first few days, **the group leaders made the mistake of frequently conversing in English**. Once this was established they had **a continual battle to enforce the 'French only' rule**."^ifl The group went to Radio-Canada, the Dow Planetarium, Outremont parks and an all-day picnic at Kent Park pool, "all these activities conducted in French."
+
+The 1968 plan was for **200 children** in two three-week periods, keeping "the use of the small group which plans and runs its own program and the employment of competent French Canadian advisors," on a budget of $5,140 — ten counsellors at $350 for seven weeks including a week's training, a part-time director, $400 of materials — against fees of $5.00 to $10.00 a period. "The need is urgent, and plans have been made. **The counsellors are recruited**, and a start has been made on curriculum. **All we require to do the work is financial support.**"^ifl
+
 **And it had a name.** A release three weeks earlier, on 24 April 1969, gives it: "This summer, for the first time, Kanawana will also offer an **immersion style 'Living-in-French' experience for boys age 12-16**. Instead of classrooms, it will take advantage of woodlands, lakes, playing fields and hobby shops to whet the boys appetites for learning. There will also be some time reserved each day for more formal study."^nr69a So the programme was called **Living-in-French**, it ran for boys **12 to 16**, and the association was using the word *immersion* for it in 1969.
 
 The same release shows the season filling: "Kamp Kanawana still has a limited number of openings for **male counsellors over 18** years of age... **A flood of applications for the Girl's Section are still being processed. Pre-registration for the upcoming summer is to date some 15% ahead of last year.**"^nr69a The doubled co-ed capacity was meeting real demand, and the association said so in April, before the season.
@@ -472,6 +482,7 @@ environmental-education positioning without originating from it.
 - **nr69** — Montreal YMCA news release, **13 May 1969**, "YMCA's Kamp Kanawana Set for Record Summer," quoting Geoff Anderson, Director of Kanawana [src_ymf_news_release_1969_05_13_202501]. Cached at `sources/cache/ymca-montreal-fonds/news-release-1969-05-13_202501.txt`; read 2026-09-06 under p_451. See [f_5100].
 - **nr69a** — Montreal YMCA news release, **24 April 1969** [src_ymf_news_release_1969_04_24]. Cached at `sources/cache/ymca-montreal-fonds/news-release-1969-04-24.txt`; read 2026-09-06 under p_451. See [f_5103].
 - **nr72** — YMCA of Montreal annual reports for the years ended **31 May 1972** and **31 May 1973** [src_cache_sgw_ymca_annual_report_1971_1972, src_cache_sgw_ymca_annual_report_1972_1973]. Read 2026-09-06 under p_441. See [f_5111].
+- **ifl** — "Proposal for French Language Day Camp, Summer 1968," Montreal YMCA International Branch, 3 May 1968, signed R. S. Wilson, Director [src_ymf_1968_05_03_proposal_for_french_language_day_camp]. Cached at `sources/cache/ymca-montreal-fonds/1968-05-03-proposal-for-french-language-day-camp.txt`; read end to end 2026-09-06 under p_441. A day-camp document, not a Kanawana one. See [f_5113].
 
 ## Research Notes
 

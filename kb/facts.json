@@ -1,8 +1,8 @@
 {
-  "version": "7.91",
-  "kb_version": "7.91",
+  "version": "7.92",
+  "kb_version": "7.92",
   "migrated_from": "3.3",
-  "fact_count": 5074,
+  "fact_count": 5075,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91528,6 +91528,23 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.90",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5113",
+      "category": "programs",
+      "date_ref": "1967-1968",
+      "entities": [
+        "Montreal YMCA International Branch",
+        "R.S. Wilson"
+      ],
+      "claim": "THE FRENCH-LANGUAGE CAMPING THREAD BEGINS IN 1967, AT A DAY CAMP, AND IT WAS FOR IMMIGRANT CHILDREN. 'PROPOSAL FOR FRENCH LANGUAGE DAY CAMP, SUMMER 1968', Montreal YMCA International Branch, dated 3 MAY 1968 and signed R.S. WILSON, Director. Fifteen thousand characters, read end to end. NEITHER THE BRANCH NOR WILSON APPEARS ANYWHERE ELSE IN THIS PROJECT. IT IS NOT A KANAWANA DOCUMENT and does not mention the camp. It matters here because traditions/programs-activities.md now carries Kanawana's 'Living-in-French' immersion section, introduced at the RESIDENT camp in 1969 for boys 12-16 (f_5103), and the 1971-72 annual report's note that branch day camps were 'AGAIN' running French-language sections (f_5111). THIS IS WHERE THAT THREAD STARTS, two years earlier. NO DOCUMENT CONNECTS THEM AND I AM NOT ASSERTING A LINE OF DESCENT. THE 1967 EXPERIMENT: 'In the summer of 1967, the International YMCA conducted AN EXPERIMENTAL PROJECT TO HELP NEW CANADIAN CHILDREN LEARN FRENCH... The program was run last year on an experimental basis with ONLY 30 CHILDREN taking part.' Four stated goals: improved French, an introduction to wider horizons, a worthwhile and exciting summer, personal development. THE PROBLEM AS THE BRANCH STATED IT, and it is a period document about immigration and language in Montreal as much as about camping: the immigrant child develops his parents' language at home and English at school, 'HOWEVER, IF HE WISHES TO SUCCEED WITHIN THE EDUCATIONAL SYSTEM HE IS FORCED TO LEARN A THIRD LANGUAGE. To many who are already endeavouring to deal with two languages this becomes AN ODIOUS TASK. That failure or promotion within the school system often hinges on his ability in the third language creates FRUSTRATIONS AND FEARS'. And: 'Recently much has been made of the danger of the FRENCH CANADIAN CUTTING HIMSELF OFF from the rest of North America. THE SAME DANGERS ARE PRESENT WHEN THE ENGLISH SPEAKING QUEBECER, AND ESPECIALLY THE IMMIGRANT, IS UNABLE TO IDENTIFY WITH OR UNDERSTAND THE LANGUAGE OF THE MAJORITY WITHIN HIS PROVINCE.' On its own neighbourhood: 'The community of which the International Y.M.C.A. is part HAS THE LARGEST IMMIGRANT POPULATION IN THE CITY... It would not be inaccurate to describe this region as A SERIES OF VILLAGES BETWEEN WHOM THERE IS A MINIMUM OF COMMUNICATION.' WHAT THEY FOUND, IN THE CHILDREN'S WORDS: 'I have not learned many new words but WHEN SOMEONE SPEAKS TO ME, I UNDERSTAND THEM. IT MAKES SENSE.' And: 'IT WAS NOT REALLY LEARNING AT ALL, EVEN WHEN THE LEADERS MADE YOU SPEAK FRENCH, IT WAS FUN.' The director's reading: 'The program broke down the view that French is an imposition, as the memorizing of verbs and rules. Instead, FRENCH BECAME THE PASSWORD TO AN EXCITING EXPERIENCE.' WHAT WENT WRONG: 'Although forewarned that the children would be testing them in the first few days, THE GROUP LEADERS MADE THE MISTAKE OF FREQUENTLY CONVERSING IN ENGLISH. Once this was established they had A CONTINUAL BATTLE TO ENFORCE THE \"FRENCH ONLY\" RULE.' Short informal vocabulary sessions were added late and worked. French Canadian children from the branch were invited to the movies and the PENNY FAIR, and that worked too. WHERE THEY WENT: Radio Canada, the Dow Planetarium, Outremont parks, and an all-day picnic at the outdoor pool in Kent Park, 'ALL THESE ACTIVITIES WERE CONDUCTED IN FRENCH'. THE 1968 PLAN: 200 CHILDREN in two three-week periods of 100, retaining 'the use of THE SMALL GROUP WHICH PLANS AND RUNS ITS OWN PROGRAM and the employment of COMPETENT FRENCH CANADIAN ADVISORS'. Budget: total expenses $5,140 -- a director at one-fifth time for three months plus six weeks full time ($1,040), TEN COUNSELLORS at $350 for seven weeks INCLUDING ONE WEEK'S TRAINING ($3,500), materials $400, miscellaneous $200. Three fee scales of $5.00, $7.50 and $10.00 per three-week period, requiring subsidies of $4,140, $3,640 or $3,140. 'The need is urgent, and plans have been made. THE COUNSELLORS ARE RECRUITED, and a start has been made on curriculum. ALL WE REQUIRE TO DO THE WORK IS FINANCIAL SUPPORT.' NOTE ONE FIGURE I HAVE NOT COPIED: the OCR renders the middle subsidy as '$ 360.' on a line of its own, which cannot be right against expenses of $5,140 and income of $1,500. I have written $3,640 because that is what the arithmetic requires, AND I AM FLAGGING THAT AS MY ARITHMETIC RATHER THAN THE DOCUMENT'S PRINTED FIGURE.",
+      "sources": [
+        "src_ymf_1968_05_03_proposal_for_french_language_day_camp"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.92",
       "added_by": "ralph_loop"
     }
   ]
