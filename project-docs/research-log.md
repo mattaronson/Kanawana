@@ -6414,3 +6414,36 @@ item-level records paired against the collection record `src_ia_canadian_camping
 is a proper second registration and not a fault. That is exactly why this stays a report. The
 legitimate case and the broken case are indistinguishable until you read the read_state, and
 merging is p_442's operator decision.
+
+## 2026-09-06 — p_441, second document: a grep for "Budge" that cannot work
+
+`src_ymf_1920_biography_of_r_j_colville`, one of the 729, read whole. Its source record says
+what all of them say: the text is held and has been keyword-swept for Kanawana, Otoreke, director
+names, drownings, Owens and Patton, and nothing has been extracted individually. That is honest,
+and it is also why nothing was found, because the two things in this document are unreachable by
+any of those words.
+
+The document is not what the catalogue calls it. "1920 biography of R. J. Colville" is a
+first-person career sketch, drifting between "he" and "I" as though dictated: Quebec City birth to
+a British soldier, the regiment through Niagara-on-the-Lake and Kingston and Montreal, Toronto
+schooling, the dry goods business until 1888, and then thirty-two years of Association work ending
+"where I am still in service" as Toronto Central's first Lobby Secretary — the only internal
+dating the document has. The source title has been corrected.
+
+**"Kanawana" occurs zero times, and so does "camp" in any camp sense.** A genuine null for this
+wiki's own subject, recorded as one.
+
+**What it does carry.** A Provincial Convention at Toronto's West End building in **January 1894**
+— the founding year — with "John H. Elliott who was the General Secretary of Minneapolis, R. O.
+Morse of New York, **4. A. Budee of Montreal**, and other prominent Association workers." That is
+D. A. Budge within one OCR error per character, written into `people/da-budge.md` as probable and
+not certain. And a passage on **Stony Lake**, where Colville as Peterborough's new secretary
+proposed and ran "a Summer School or District Conference for two weeks" about 1889-90, with
+delegations from four Ontario towns. Young men, Bible study, and Colville never calls it a camp —
+so it is not an oldest-camp candidate, and it is written into the camping-movement article with
+that line drawn explicitly. It is the habit, not the thing.
+
+**The lesson is the one this project keeps relearning.** A grep for "Budge" returns nothing on a
+page that names him, because the scan reads "Budee" and the initial reads "4." Two documents into
+p_441, and both have paid out on material that no keyword sweep could have surfaced. That is the
+argument for p_441 stated better than the priority states it.

@@ -218,7 +218,8 @@
         "f_1913"
       ],
       "sources_cited": [
-        "src_concordia_13D_joyce_oliver"
+        "src_concordia_13D_joyce_oliver",
+        "src_ymf_1920_biography_of_r_j_colville"
       ],
       "open_questions": 0,
       "cross_links": [
@@ -229,7 +230,7 @@
         "harold-cross"
       ],
       "file_id": "1iOHcDJeDgo5VFTfb46EQ6JrFYuZaZie5",
-      "word_count": 850,
+      "word_count": 1048,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, nested the standalone 'Revision History' heading under a new parent 'Research Notes' heading per the wiki-wide convention. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -2530,7 +2531,8 @@
         "src_ia_canadian_camping_collection",
         "src_trent_oca_fonds_72_007",
         "src_ball_basic_camp_management_2012",
-        "src_mcgill_you_knew_1975"
+        "src_mcgill_you_knew_1975",
+        "src_ymf_1920_biography_of_r_j_colville"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -2542,7 +2544,7 @@
         "sources-index"
       ],
       "file_id": null,
-      "word_count": 36292,
+      "word_count": 36521,
       "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

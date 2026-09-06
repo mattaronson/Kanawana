@@ -1,8 +1,8 @@
 {
-  "version": "7.31",
-  "kb_version": "7.31",
+  "version": "7.32",
+  "kb_version": "7.32",
   "migrated_from": "3.3",
-  "fact_count": 4975,
+  "fact_count": 4978,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -89545,6 +89545,62 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5014",
+      "category": "people",
+      "date_ref": "1894-01",
+      "entities": [
+        "D. A. Budge",
+        "R. J. Colville",
+        "YMCA of Montreal",
+        "Toronto West End YMCA"
+      ],
+      "claim": "BUDGE IS PLACED IN TORONTO IN JANUARY 1894, THE YEAR THE CAMP WAS FOUNDED, AND THE KEYWORD SWEEP COULD NEVER HAVE SEEN IT. R. J. Colville's own career sketch (typescript, c. 1920, YMCA of Montreal fonds) describes a Provincial Convention held at the Toronto West End Association's building in JANUARY 1894, and lists who was in the room: 'John H. Elliott who was the General Secretary of Minneapolis, R. O. Morse of New York, 4. A. Budee of Montreal, and other prominent Association workers from the United States and Canada were present. It was an inspiring time for all.' '4. A. Budee of Montreal' IS ALMOST CERTAINLY D. A. BUDGE, the Montreal association's general secretary from 1874 -- the initials and surname are within one OCR error each of his, and no other Budge of Montreal is known to the Association record. IT IS NOT CERTAIN AND IS NOT WRITTEN AS CERTAIN. What it would add if it holds: this project has nothing else placing Budge anywhere in particular in the first weeks of 1894, the year Billy Ball founded the camp, and it places him among the movement's international leadership rather than at his desk. THE READING LESSON IS AS USEFUL AS THE FACT. This document's source record says it was 'keyword-swept repeatedly' -- and a sweep for 'Budge' returns nothing here, because the scan reads 'Budee' and the initial reads '4.' That is rule 22 again: a grep is a fact about the string, not about the page.",
+      "sources": [
+        "src_ymf_1920_biography_of_r_j_colville"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.32",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5015",
+      "category": "camping_movement",
+      "date_ref": "1889-1890",
+      "entities": [
+        "R. J. Colville",
+        "Stony Lake",
+        "Kawartha Lakes",
+        "Peterborough YMCA",
+        "T. S. Cole"
+      ],
+      "claim": "A CANADIAN YMCA SUMMER SCHOOL IN THE WOODS BY 1890, FOUR OR FIVE YEARS BEFORE KANAWANA -- AND IT IS A CONFERENCE, NOT A CAMP. Colville became general secretary at Peterborough on 23 May 1889, and describes what he did next: 'On the invitation of one of our Board, he visited STONY LAKE, TWENTY-FOUR MILES NORTH OF PETERBOROUGH, which is now known as the KAWARTHA LAKES, and he suggested to the President of the Association, [E.] G. Rogers, the advantage of having a SUMMER SCHOOL, which he greatly endorsed... After consulting with Mr. Cole, the Provincial Secretary, it was arranged that we would hold a SUMMER SCHOOL OR DISTRICT CONFERENCE FOR TWO WEEKS on these beautiful Lakes. It was arranged that Mr. Cole should be the Dean of the School and conduct the Bible Study, and other Associations' General Secretaries were to lead the young men present.' Delegations came from Toronto, Lindsay, Port Hope and Picton. WHY IT MATTERS AND WHERE THE LINE IS: this is a two-week residential YMCA gathering on a lake in the Ontario bush, organised by an association for young men, in or about 1890. It is NOT a boys' camp -- the delegates are young men, the programme is Bible study and instruction, and Colville calls it a school and a conference, never a camp. So it does NOT bear on who ran the oldest camp. What it does show is that the Canadian YMCA was already taking members into the woods for a fortnight before Kanawana existed, which is the institutional habit a boys' camp could grow out of. The date is not stated: it follows his May 1889 arrival and precedes his 1892 move to Toronto's West End.",
+      "sources": [
+        "src_ymf_1920_biography_of_r_j_colville"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.32",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5016",
+      "category": "sources",
+      "date_ref": "1920",
+      "entities": [
+        "R. J. Colville",
+        "YMCA of Montreal fonds"
+      ],
+      "claim": "WHAT THE COLVILLE TYPESCRIPT IS, AND ITS KANAWANA NULL, STATED PROPERLY. The item catalogued as '1920 biography of R. J. Colville' in the Concordia-digitized YMCA of Montreal fonds is not a biography written about him but a FIRST-PERSON CAREER SKETCH, drifting between 'he' and 'I' as though dictated: born at Quebec City to a British soldier who served twenty-six years, the regiment moving through Niagara-on-the-Lake, Kingston, Montreal and in 1862 to London, Ontario; schooled in Toronto from 1864; the dry goods business 1867 to 1888; then Association work -- Toronto Central assistant secretary from September 1888 after turning down Buffalo, Peterborough from 23 May 1889, Toronto West End from 1892, the International Committee's Railway Department in Toronto 1900-1908, Chapleau on the CPR's Lake Superior division from 1908, St. Thomas from March 1911, and Toronto Central from January 1915 as cashier and office secretary, then as 'the FIRST LOBBY SECRETARY at the Central Building, Toronto, where I am still in service' -- which is what dates the document to about 1920 and is the only internal dating it has. 'KANAWANA' OCCURS ZERO TIMES AND SO DOES 'CAMP' IN ANY CAMP SENSE. That is a genuine null for this wiki's own subject and it is recorded as one. The document earns its two facts from a single line naming Budge (f_5014) and a passage about a summer school (f_5015), neither reachable by the keyword list this item's source record says it was swept with. NOTE ALSO WHAT THIS IS DOING IN A MONTREAL FONDS AT ALL: Colville's career is Ontario from end to end and touches Montreal only in his father's regiment. Its presence in the YMCA of Montreal's papers is unexplained.",
+      "sources": [
+        "src_ymf_1920_biography_of_r_j_colville"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.32",
       "added_by": "ralph_loop"
     }
   ]

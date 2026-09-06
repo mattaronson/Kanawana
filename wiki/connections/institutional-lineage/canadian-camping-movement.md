@@ -1,6 +1,6 @@
 # The Canadian Camping Movement
 
-*Status: E1-reviewed | Sources: 20*
+*Status: E1-reviewed | Sources: 21*
 *Last Updated: 2026-09-06 (the 1961 joint charter, its four signatories, and what Kanawana's "founding member" claim would have to mean)*
 
 ## Summary
@@ -10,6 +10,8 @@ Camp Kanawana, founded in 1894 as Camp Jubilee by the YMCA of Montreal, holds a 
 ## Origins: The YMCA and Early Camps (1851-1920)
 
 The Montreal YMCA, founded in 1851 as the first YMCA in North America, was among the earliest organizations to use camping as a tool for youth development.^3 The YMCA's national camping infrastructure was shaped by Edgar Munroe Robinson (1867–1951), appointed Boys' Work Secretary of the YMCA International Committee in 1900, who developed camping programs, father-son events, and edited *Association Boys* (1902–1912).^13 Robinson also co-founded the Boy Scouts of America in 1910.^13 By the 1880s and 1890s, YMCAs across North America were sponsoring camps to improve the health and character of urban youth in response to industrialization and urbanization.
+
+**And a fortnight in the bush that was not a camp, c. 1889-90.** R. J. Colville, general secretary at Peterborough from 23 May 1889, wrote his own account of what he did on arriving: he visited **Stony Lake**, twenty-four miles north of the town, "which is now known as the **Kawartha Lakes**," proposed a summer school to his president, and with the provincial secretary T. S. Cole as its Dean ran "a **Summer School or District Conference for two weeks** on these beautiful Lakes," with delegations from Toronto, Lindsay, Port Hope and Picton.^21 **The line matters.** The delegates were young men, the programme was Bible study and instruction, and Colville calls it a school and a conference and never a camp, so this is not a candidate for anyone's oldest-camp claim. What it is, is evidence that a Canadian YMCA was already taking its members into the woods for a fortnight and calling it programme four or five years before Kanawana — the institutional habit out of which a boys' camp could grow. Colville does not date it; it falls between his arrival in May 1889 and his 1892 move to Toronto.
 
 The earliest known Canadian camps:
 
@@ -956,6 +958,7 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 19. Armand B. Ball, *Basic Camp Management: An Introduction to Camp Administration* (Monterey, CA: Healthy Learning, 2012), "An American Camp Association book", Internet Archive scan leaf 436 [src_ball_basic_camp_management_2012]. **One sentence only**, reconstructed 2026-09-06 from seven overlapping Open Library search-inside queries and walked to a sentence boundary in both directions; the book is lending-restricted, page images return HTTP 403, and it has not been read. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-dlb-362-mclean-and-basic-camp-management.txt`. See [f_4950].
 
 20. *The McGill You Knew: An Anthology of Memories, 1920-1960* (Don Mills: Longman Canada, 1975), Internet Archive scan leaf 314 [src_mcgill_you_knew_1975]. **One passage only**, reconstructed 2026-09-06 from ten overlapping Open Library search-inside queries and walked to a chapter break; the book is lending-restricted, page images return HTTP 403, and it has not been read. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-mcgill-you-knew-hay-finlay.txt`. See [f_4959].
+21. R. J. Colville, first-person career sketch (typescript, c. 1920), YMCA of Montreal fonds [src_ymf_1920_biography_of_r_j_colville]. See [f_5015]. Found by reading the document whole under p_441; the item had been keyword-swept and the sweep reached none of this.
 
 ## Research Notes
 

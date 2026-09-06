@@ -13325,7 +13325,7 @@
     {
       "source_id": "src_ymf_1920_biography_of_r_j_colville",
       "type": "report",
-      "title": "1920 biography of r j colville — \": ir. - z, Colville was born in the city of Quebec on Kevenber as gee\"",
+      "title": "R. J. Colville, first-person career sketch (typescript, c. 1920), YMCA of Montreal fonds",
       "date": "1920",
       "date_precision": "year",
       "origin": "internet_archive",
@@ -13333,12 +13333,12 @@
       "cache_path": "sources/cache/ymca-montreal-fonds/1920-biography-of-r-j-colville.txt",
       "char_count": 10746,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
+      "extracted": true,
       "extraction_version": "v5.60",
       "reliability": "primary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. | 2026-09-06 (p_441): READ WHOLE. The blanket 'skimmed' note above was accurate and the sweep it describes was useless here: the two facts this document carries are a line naming '4. A. Budee of Montreal' (D. A. Budge, through two OCR errors) and a passage about an 1889-90 YMCA summer school on Stony Lake. Neither is reachable by any of the swept keywords. 'Kanawana' occurs zero times -- a genuine null, recorded as one. The catalogue title calling it a biography is wrong; it is autobiographical, and the title field has been corrected.",
+      "read_state": "extracted",
+      "read_state_basis": "read whole 2026-09-06 under p_441; f_5014, f_5015, f_5016"
     },
     {
       "source_id": "src_ymf_1922_1923_ymca_north_branch_brochure",
