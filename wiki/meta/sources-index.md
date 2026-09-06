@@ -1,7 +1,7 @@
 # Sources and Archives
 
 *Status: E1-reviewed | Sources: 643 (this article catalogs the project's sources; see Source Statistics, below)*
-*Last Updated: 2026-09-05*
+*Last Updated: 2026-09-06 (p_387: the three structural breaks of 1974-1976 in the *Canadian Camping* run)*
 
 ## Summary
 
@@ -166,6 +166,50 @@ five more years and was succeeded by Mrs. G. W. Flynn [f_3571]. One caution: the
 anniversary issue calls Mary S. Edgar "the Founder of Canadian Camping Magazine" [f_4589], which sits
 beside Plewman's account of producing the first bulletin himself. The two may describe the same thing
 from different angles; neither is preferred here.
+
+**Three structural breaks, 1974–1976, and why none of them is a hole.** The run changes format twice
+and stops once inside three years, and each break is explained in the magazine's own pages. Read them
+before reading anything about content, because each one looks from the outside like missing material
+[f_4930].
+
+*February 1974 — publication suspended.* Vol. 26 No. 2 is a combined **Winter/Spring 1974** number and
+nothing follows it until Vol. 27 No. 1 in **November 1974**, which opens by explaining the eight-month
+silence: "In the last three years, the magazine was financially sliding downhill to the extent that an
+unrealistic portion of the CCA budget was consumed to keep *Canadian Camping* coming off the press. As
+a result of this situation, **the Board of Directors temporarily suspended publication of future
+magazines effective in February 1974**." A Task Force reported to the Board in April 1974 and
+recommended that a magazine format be kept, that it be bilingual as far as possible and self-supporting
+— **and that the January issue become a "Directory Issue"** carrying a complete listing of every CCA
+member camp in every province alongside the full editorial content, to widen circulation and attract
+advertisers. That recommendation is the reason this project has the January 1975 and January 1976
+directories at all, and with them Kanawana's capacity, its director, its activity list, and the
+separate accreditation of [[traditions/canoe-trips|Les Voyageurs de la Vérendrye]]. **The camp's own
+best-documented year in the national record is a byproduct of the national association's worst
+financial one.**
+
+*November 1975 — four pages, because of a postal strike.* Vol. 28 No. 1 is not a magazine but a
+four-page newsletter, and the editor **Helen E. Stewart** says why on the first page: "Without any
+doubt, the mail strike has brought its hardships and '*Canadian Camping*' is no exception.
+Unfortunately, when the time for typesetting arrived, **we were lacking in advertisements and editorial
+content which included resumes in French**. Recognizing we had a definite commitment to our reading
+public, the decision was made to publish a four page Newsletter."
+
+*June 1976 — announced as the last issue.* Vol. 28 No. 3 opens: "This issue of *Canadian Camping* is
+its last. **The decision was made by the CCA Board at the recent meetings in Quebec City and was one
+based wholely on financial considerations.**" Stewart adds that "The April and june issues were planned
+when word reached me that there would be but one more issue," so accepted articles exist that were
+never printed. The title then resumes in **October 1976** as Vol. 28 No. 4, a typewritten eight-page
+newsletter from the association's new office at 102 Eglinton Ave. E., Toronto, whose own first
+paragraph is a note to readers: "The format might be different… but the intent is still the same."
+**So the depth of the source changes sharply here**, from a quarterly magazine to five or six short
+newsletters a year, and any argument from silence about the later 1970s has to account for that before
+it accounts for anything about camping.
+
+One check on the third break, because the editor's sentence invites a wrong inference: **Vol. 28 is
+numbered 1, 2, 3, 4 consecutively** — November 1975, January 1976, June 1976, October 1976 — so **no
+number is absent from this project's cache**. Earlier volumes did carry an April number (Vol. 27 No. 3,
+April 1975), which is what makes the missing April look like a gap. On the evidence of the numbering
+the April 1976 issue was planned and not published, not printed and lost.
 
 **Production, format and price, as the magazine states them.**
 

@@ -1,8 +1,8 @@
 {
-  "version": "6.67",
-  "kb_version": "6.67",
+  "version": "6.68",
+  "kb_version": "6.68",
   "migrated_from": "3.3",
-  "fact_count": 4891,
+  "fact_count": 4892,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87850,6 +87850,24 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.67",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4930",
+      "category": "sources",
+      "date_ref": "1974-02/1976-10",
+      "entities": [
+        "Canadian Camping Association",
+        "Canadian Camping",
+        "Helen E. Stewart"
+      ],
+      "claim": "THREE STRUCTURAL BREAKS IN THE CANADIAN CAMPING RUN, 1974-1976, EACH DOCUMENTED IN THE MAGAZINE ITSELF, AND NONE OF THEM A HOLE IN THIS PROJECT'S HOLDINGS. (1) SUSPENSION, FEBRUARY 1974. The November 1974 issue explains the eight-month silence: \"In the last three years, the magazine was financially sliding downhill to the extent that an unrealistic portion of the CCA budget was consumed to keep Canadian Camping coming off the press. As a result of this situation, the Board of Directors temporarily suspended publication of future magazines effective in February 1974.\" A Task Force reported to the Board's April 1974 meeting and recommended keeping a magazine format, direct mail to the membership, bilingual content as far as possible, and self-support; AND THAT THE JANUARY ISSUE BECOME A DIRECTORY ISSUE listing every CCA member camp in every province alongside the full editorial content, to widen circulation and attract advertisers. So the January 1975 and January 1976 directories -- this project's source for Kanawana's capacity, director, activities and the separate accreditation of Les Voyageurs de la Verendrye -- exist because of the 1974 financial crisis. Vol. 26 No. 2 is a combined Winter/Spring 1974 number and the next issue is Vol. 27 No. 1, November 1974. (2) THE FOUR-PAGE NEWSLETTER, NOVEMBER 1975. Vol. 28 No. 1 is four pages, and the editor Helen E. Stewart says why on page one: \"Without any doubt, the mail strike has brought its hardships and 'Canadian Camping' is no exception. Unfortunately, when the time for typesetting arrived, we were lacking in advertisements and editorial content which included resumes in French. Recognizing we had a definite commitment to our reading public, the decision was made to publish a four page Newsletter.\" (3) THE LAST MAGAZINE, JUNE 1976. Vol. 28 No. 3 opens: \"This issue of Canadian Camping is its last. The decision was made by the CCA Board at the recent meetings in Quebec City and was one based wholely on financial considerations.\" Stewart adds that \"The April and june issues were planned when word reached me that there would be but one more issue,\" so some accepted articles were never printed. The title resumes in October 1976 as Vol. 28 No. 4, a typewritten newsletter from 102 Eglinton Ave. E., Suite 203, Toronto, whose own first paragraph says \"The format might be different... but the intent is still the same.\" VOL. 28 IS NUMBERED 1, 2, 3, 4 CONSECUTIVELY -- November 1975, January 1976, June 1976, October 1976 -- so no number is missing from the cache; the April 1976 issue the editor mentions was planned rather than published, on the evidence of the numbering. Earlier volumes did carry an April number (Vol. 27 No. 3, April 1975), which is what makes its absence look like a gap.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.68",
       "added_by": "ralph_loop"
     }
   ]

@@ -4893,10 +4893,12 @@
       "type": "WRITE",
       "description": "WRITE THE THREE STRUCTURAL BREAKS IN THE CANADIAN CAMPING RUN INTO meta/sources-index.md (see p_359). The run has three dated interruptions in three years, and each explains an apparent hole: publication was SUSPENDED in February 1974 on financial grounds by the CCA Board and resumed only in November 1974 (Vol. 26 No. 2 is a combined Winter/Spring 1974 number, then nothing until Vol. 27 No. 1); the November 1975 number is a FOUR-PAGE NEWSLETTER because the Canadian postal strike left the editor short of advertisements and of the French-language content; and the June 1976 issue announces itself as the LAST -- 'The decision was made by the CCA Board at the recent meetings in Quebec City and was one based wholely on financial considerations' -- after which the title continues from October 1976 as a typewritten eight-page newsletter, five or six numbers a year instead of quarterly. So the format and depth change sharply at issue 109 of this read, and nothing is missing from the project's holdings at any of the three points. The section should say all of this before it says anything about content.",
       "weight": 7,
-      "status": "pending",
+      "status": "complete",
       "created": "2026-09-05",
       "source": "word-for-word read of Canadian Camping, issues 106-109, converted to KB facts",
-      "blocked_on": null
+      "blocked_on": null,
+      "resolved": "2026-09-06",
+      "resolution": "Written into the Canadian Camping section of meta/sources-index.md as 'Three structural breaks, 1974-1976, and why none of them is a hole', placed before the production table so it is read before anything about content. All three verified against the cached issues rather than taken from the priority: the February 1974 suspension in the November 1974 issue's own words, the November 1975 four-page newsletter and the mail strike in Helen E. Stewart's page-one note, and the June 1976 'this issue is its last' editorial. TWO THINGS THE PRIORITY DID NOT HAVE. First, the November 1974 explanation goes on to give the Task Force's recommendation that THE JANUARY ISSUE BECOME A DIRECTORY ISSUE -- so the January 1975 and 1976 directories, which are this project's source for Kanawana's capacity, director, activities and the separate accreditation of Les Voyageurs de la Verendrye, exist because of the 1974 financial crisis. Second, the June 1976 editorial mentions an April issue, which invites the inference that a number is missing; it is not. Vol. 28 is numbered 1, 2, 3, 4 consecutively (Nov 1975, Jan 1976, Jun 1976, Oct 1976), so nothing is absent from the cache, and on the numbering the April 1976 issue was planned rather than published. Earlier volumes did carry an April number, which is what makes it look like a gap. Fact f_4930."
     },
     {
       "priority_id": "p_388",
