@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 30*
+*Status: E1-reviewed | Sources: 31*
 *Last Updated: 2026-09-06 (Otoreke had its own camp song, and it was borrowed too)*
 
 ## Overview
@@ -117,6 +117,18 @@ Camp Otoreke remained an active YMCA facility through the mid-twentieth century.
 The Concordia Archives hold dedicated Camp Otoreke records in sub-series P0145/12C, including situation reports (1977-1980) that profiled Otoreke alongside Kanawana and Camp Weredale as part of the YMCA's camping operations.^4 The sub-series is organized into seven sub-sub-series: 12C01 (General administration), 12C02 (Financial administration), 12C03 (Land/facilities/equipment/supplies), 12C04 (Communications), 12C05 (Staff/counsellors), 12C06 (Campers), 12C07 (Program).^4 The finding aid confirms the *existence*, though not the online content, of 1982 revenue/expenditure and tax-status records within 12C02 -- suggesting the closure year's finances were documented, though only a physical archive visit can retrieve them.^4
 
 Two cataloguing ambiguities surfaced in 2026-07-09 research, both unresolved without a physical visit: (1) two separate 1967 catalog entries — "Report of the Boys' and Girls' Camping Committee to the Metropolitan Planning and Development Committee of the YMCA of Montreal" (Box HA1881) and "Camp Otoreke report — Planning and Development" (Box HA2367) — may be the same document cross-referenced or two distinct related documents; (2) W.E. Cushing's 1943 manuscript appears under two variant titles/locations, "Early Days at Lake St. Joseph" (Box HA1881) and the previously-cited "Historical sketches — Lake St. Joseph" (Box HA2307) — possibly the same manuscript catalogued twice, or two distinct short pieces.^4
+
+### The 1928 season in figures
+
+The association's report for the year ending 31 March 1929 gives Otoreke a paragraph of its own.
+Attendance of young men reached **211 against 160 the previous year** — "within five of the record
+attendance in the year 1920," which is the only reference this project has to Otoreke's peak year.
+Receipts were **$4,492.44** against expenditures of **$4,407.83**, and the Metropolitan Board
+**loaned $2,000.00** to the camp committee "for the purpose of increasing the accommodation and
+modernizing the [equipment], some of which has been in use since the camp was organized."^31
+
+That last clause is worth noticing on its own: in 1928 the camp was still using gear from its
+founding.
 
 ## The Ski Lodge and Winter Operations (1940–1961 or later)
 
@@ -552,6 +564,7 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 28. Camp Otoreke songbook, 1941 [src_ymf_1941_camp_otoreke_songs], Concordia-digitized YMCA of Montreal fonds. **64,000 characters, of which five lines are about the camp**; the rest is the general community-singing repertoire of 1941 and is not extracted. The book had been in this repo's cache labelled *skimmed* and cited by nothing, and was read on 2026-09-06 under p_441. See [f_5004].
 29. "Come to Kanawana" brochure, 1928 season, YMCA of Montreal fonds [src_ymf_1928_come_to_kanawana_brochure]. See [f_5031].
 30. "The Otoreke YMCA Ski Lodge: A Review", internal paper of the 1961-62 winter, YMCA of Montreal fonds [src_ymf_1961_the_otoreke_ymca_ski_lodge_a_review]. Cached at `sources/cache/ymca-montreal-fonds/1961-the-otoreke-ymca-ski-lodge-a-review.txt`. See [f_5040], [f_5041] and [f_5042]. Read whole 2026-09-06 under p_441. **The scan damages numerals badly** — it renders 4 as *h* and confuses 3 with 5 — so several figures in the income series and the capital table are given here only where unambiguous, and the damaged ones are flagged in the facts rather than reconstructed.
+31. YMCA of Montreal, 78th Annual Report, for the year ending 31 March 1929 [src_ymf_sgw_ymca_annual_report_1929] — camping season the summer of **1928**. See [f_5066].
 
 ## Research Notes
 

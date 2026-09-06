@@ -1,7 +1,7 @@
 # Camp Becsies
 
-*Status: E1-reviewed | Sources: 10*
-*Last Updated: 2026-07-09*
+*Status: E1-reviewed | Sources: 11*
+*Last Updated: 2026-09-06 (the founding decision, dated 1928 and reasoned)*
 
 ## Overview
 
@@ -16,6 +16,21 @@ The lake's coordinates (~45°51'12"N, 74°12'53"W) place it approximately 1.5 km
 A limerick in the *Green Triangle* (July 29, 1938) mentions a staff member Wallace who "found at Leke Becsies his solace," confirming that Kanawana staff knew Camp Becsies as a nearby location — consistent with a ~1.5 km walk through the woods.^4
 
 ## First Period: Youth Camp (1929-1936)
+
+**The decision itself is a year earlier, and the association gave its reason.** The annual report
+for the year ending 31 March 1929 — covering the summer of **1928** — carries it under a marginal
+heading, *Enlargement of Kamp Kanawana*:
+
+> "**The greatly increased attendance at Kanawana in 1928**, combined with a growing recognition of
+> the remarkable Christian education opportunities which inhere in camping, **has resulted in the
+> decision to enlarge the enterprise by building a new camp site on the shores of Lac Beescies,
+> which is within twenty minutes' walk of the administrative centre of Kanawana.** It is expected
+> that this will take care of a large number of boys who desire to attend camp **and at the same
+> time not imperil the effectiveness of our camp service by overcrowding**."^11
+
+So Becsies was not a new venture but a relief valve, decided on because 1928 was too full and the
+association would rather build a second site than crowd the first. The distance is stated too:
+**twenty minutes' walk** from Kanawana's administrative centre.
 
 The earliest records for Camp Becsies date to 1929, documenting the development of the camping site.^2 A memo regarding "the future of Camp Becsies" survives from the 1930s, suggesting the camp's viability was questioned at some point.^3
 
@@ -70,3 +85,4 @@ The camp's records are held at Concordia University Archives as sub-series P0145
 8. YMCA of Montreal Annual Reports, 1930, 1934, 1935, 1936, 1937 (Internet Archive, "sgw-ymca-annual-report" collection) [src_ia_ymca_annual_1930, src_ia_ymca_annual_1934, src_ia_ymca_annual_1935, src_ia_ymca_annual_1936, src_ia_ymca_annual_1937].
 9. "Camp Amy Molson: a history of the Summer Camp of the Montreal Ladies' Benevolent and Protestant Orphans' Society," McGill eScholarship [src_camp_amy_molson_mcgill_paper].
 10. Batshaw Centre History (batshawcentreshistory.ca) — Montreal Protestant Orphans' Home / Ladies' Benevolent Society institutional history [src_batshaw_centre_history]. Retrieved via search-summary only; needs independent verification.
+11. YMCA of Montreal, 78th Annual Report, for the year ending 31 March 1929 [src_ymf_sgw_ymca_annual_report_1929] — so its camping season is the summer of **1928** (see [f_5039]). Read for its camps section 2026-09-06 under p_441. See [f_5065] and [f_5066].

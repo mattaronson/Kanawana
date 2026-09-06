@@ -1,8 +1,8 @@
 {
-  "version": "7.55",
-  "kb_version": "7.55",
+  "version": "7.56",
+  "kb_version": "7.56",
   "migrated_from": "3.3",
-  "fact_count": 5026,
+  "fact_count": 5028,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -90615,6 +90615,46 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.55",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5065",
+      "category": "history",
+      "date_ref": "1928",
+      "entities": [
+        "Kamp Kanawana",
+        "Camp Becsies",
+        "Lac des Becs-scie",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE DECISION TO BUILD CAMP BECSIES, DATED AND REASONED, IN THE ASSOCIATION'S OWN WORDS. The annual report for the year ending 31 March 1929 -- the summer of 1928 -- carries it under the marginal heading 'Enlargement of Kamp Kanawana': 'THE GREATLY INCREASED ATTENDANCE AT KANAWANA IN 1928, combined with a growing recognition of the remarkable Christian education opportunities which inhere in camping, HAS RESULTED IN THE DECISION TO ENLARGE THE ENTERPRISE BY BUILDING A NEW CAMP SITE ON THE SHORES OF LAC BEESCIES, WHICH IS WITHIN TWENTY MINUTES' WALK OF THE ADMINISTRATIVE CENTRE OF KANAWANA. It is expected that this will take care of a large number of boys who desire to attend camp AND AT THE SAME TIME NOT IMPERIL THE EFFECTIVENESS OF OUR CAMP SERVICE BY OVERCROWDING.' wiki/site/camp-becsies.md dates the camp's beginning to 1929 from the following year's report and describes it as Kanawana's overflow annex. THIS IS THE DECISION ITSELF, A YEAR EARLIER, WITH ITS REASON STATED: not a new venture but a relief valve, taken because 1928 was too full and the association would rather build than crowd. THE DISTANCE IS ALSO NEW AND USEFUL: twenty minutes' walk from Kanawana's administrative centre.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1929"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.56",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5066",
+      "category": "organization",
+      "date_ref": "1928",
+      "entities": [
+        "Kamp Kanawana",
+        "Camp Otoreke",
+        "Camp Dorval",
+        "Fossils Club",
+        "E. M. Berliner",
+        "YMCA of Montreal"
+      ],
+      "claim": "WHAT THE 1928 SEASON COST AND WHAT IT BOUGHT, ACROSS ALL THREE OF THE ASSOCIATION'S CAMPS. KANAWANA'S MONEY: 'The season was a record one financially. CAMP RECEIPTS TOTALLED $13,765.63 as compared with $11,460.00 last year, an increase of $2,305.63. THE OPERATING EXPENSES WERE $12,872.22, LEAVING A SURPLUS OF $893.41 to apply on the cost of THE NEW LODGE ERECTED TWO YEARS AGO. This is especially gratifying when we remember that our WEEKLY FEE IS ONLY $8.50, OUR AIM BEING TO KEEP THE COST WITHIN REACH OF THE AVERAGE HOME IN OUR CITY.' So the fee held at $8.50 across 1927, 1928 and 1929 (f_5031), and it was held deliberately. A lodge had gone up about 1926 and was still being paid for. WHAT WAS ADDED THAT YEAR: two new rowboats, a sailing canoe, seven new tents, ten new tent floors, two dozen blankets, four new hospital beds, a new canoe wharf, an improved Junior Camp -- and, for the music, 'A FINE SQUARE PIANO, CHAPEL ORGAN AND A NEW PORTABLE ORTHOPHONIC, THE DONATION OF MR. E. M. BERLINER.' The Orthophonic is a Victor phonograph, and the Berliner name in Montreal is the gramophone family -- Emile Berliner's Berliner Gram-o-phone Company was a Montreal firm. NO IDENTIFICATION OF 'MR. E. M. BERLINER' IS MADE HERE; the report gives initials and a surname. THE SCHOLARSHIPS REPEAT, WHICH MAKES THEM AN ARRANGEMENT RATHER THAN A GESTURE: 'The FOSSILS CLUB of Westmount Branch AGAIN provided camp scholarships for THIRTEEN underprivileged boys, chosen through the Branches. ANOTHER GROUP OF WESTMOUNT BUSINESS MEN AND DORMITORY RESIDENTS paid the expenses of FIFTEEN BOYS FROM THE ORPHAN'S HOME AND TWO BOYS FROM THE SCHOOL FOR THE BLIND' -- the same fifteen and two as 1927 (f_5064), and fourteen scholarships that year against thirteen this. CAMP OTOREKE: attendance of young men 211 against 160 the previous year, 'within five of the record attendance in the year 1920'; receipts $4,492.44 against expenditures $4,407.83; and the Metropolitan Board loaned $2,000.00 to its camp committee to increase accommodation and modernise equipment 'some of which has been in use since the camp was organized'. CAMP DORVAL: run jointly by the Verdun and Cote St. Paul branches in a house leased from the MARCIL TRUST COMPANY in 1925, with EIGHTY-ONE BOYS and 214 weekend-stays across two full weeks and ten weekends -- and a sentence that belongs to a thread running through this project: 'WE HAVE EXPERIMENTED WITH THE IDEA OF A \"NEAR-THE-CITY\" CAMP FOR OLDER BOYS AND HAVE FOUND THAT THERE IS A VERY IMPORTANT NEED FOR SUCH AN ENTERPRISE. The facilities available, however, are so inadequate that...' The same phrase and the same finding recur fifteen years later about Camp Thunderbird (f_5037), and the association acted on it then by opening Camp Perrot.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1929"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.56",
       "added_by": "ralph_loop"
     }
   ]
