@@ -17207,8 +17207,8 @@
       "extraction_version": "v5.60",
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state": "extracted",
+      "read_state_basis": "2026-09-06 under p_451: READ END TO END, a short release of about 1,450 characters. The fur trade trip's party size, truck-and-launch logistics, CCA Centennial Project framing and the planned Ottawa reception are all extracted (f_5102)."
     },
     {
       "source_id": "src_ymf_news_release_1967_09_18",
@@ -17711,8 +17711,8 @@
       "extraction_version": "v5.60",
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_451: THE KANAWANA ITEM read in full -- counsellor recruitment, the girls' section application flood, pre-registration 15% ahead, and the 'Living-in-French' immersion section for boys 12-16 (f_5103). The rest of this 4,700-character release carries unrelated association items and is NOT read."
     },
     {
       "source_id": "src_ymf_news_release_1969_05_13_202501",
@@ -17891,8 +17891,8 @@
       "extraction_version": "v5.60",
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_451: THE KANAWANA, OTOREKE AND SEAMAN ITEMS read in the French column -- the Long House opening for the winter of 1969-70 for disadvantaged families, 170 people from Petite-Bourgogne at Otoreke in July 1969, and the three camps becoming a special branch under Seaman (f_5104). Geoff Anderson's departure item was already extracted into people/geoff-anderson.md. THE ENGLISH COLUMN AND THE REST OF THIS 6,400-character bilingual release ARE NOT READ."
     },
     {
       "source_id": "src_ymf_news_release_1969_3",

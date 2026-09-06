@@ -1,6 +1,6 @@
 # Winter and Year-Round Programming
 
-*Status: E1-reviewed | Sources: 16*
+*Status: E1-reviewed | Sources: 17*
 *Last Updated: 2026-09-06 (a family ski day at capacity in the winter of 1969-70)*
 
 ## Overview
@@ -28,6 +28,10 @@ Between the 1940s ski camp and the ski tow of 1971-72 sits a programme this arti
 > Here's the package. **A network of cross-country trails. Firmly-packed hills for downhill runs and instructions. Skiing lessons. A well-equipped nursery, supervised by experienced baby sitters. Facilities for preparing lunch. Free soup.**^16
 
 The French column of the same bulletin says the same: "Ce programme fonctionne déjà à pleine capacité."
+
+**And the camp opened the Long House that winter for families who could not pay.** Two months earlier, the bilingual release of 28 November 1969 announced it in its French column: "Poursuivant sa politique **d'aide aux familles désavantagées**, le Kamp Kanawana **ouvrira les portes de 'Long House' cet hiver**. Les préparatifs sont déjà complétés."^17
+
+So the winter of 1969-70 had two distinct programmes running at Kanawana, and this article had neither. One was a popular Saturday ski day run by a city branch and oversubscribed. The other was the [[site/places-and-locations|Long House]] — the 1952 waterfront recreation hall, demolished in 1978 — opened under a stated policy of aid to disadvantaged families. The release gives no numbers, no dates and no organiser for it, only that the preparations were finished.
 
 So in the winter of 1969-70 there were groomed downhill runs at Kanawana, ski instruction, a supervised nursery, and more demand than the programme could take — run by a **city branch**, not by the camp. The Timeline below dates a ski tow to 1971-72 and Winter Outdoor Family Camping to 1972-73. Those entries stand: the 1972-73 report describes *infrastructure*, a lift and two groomed slopes, which this bulletin does not mention, and "Winter Outdoor Family Camping" may be a distinct named programme. What does not stand is the shape of the story. Organised, advertised, oversubscribed winter family programming was happening here three years before the date this article gives for its beginning.
 
@@ -137,6 +141,7 @@ David Leduc managed Camp Kanawana's summer and winter programs, including recrui
 14. *Guide plein air Québec* (1991), Internet Archive scan leaf 200 [src_guide_plein_air_quebec_1991]. **One run only**, and one whose columns the OCR scrambles; an earlier attempt the same day recorded nothing from it, correctly. The alignment was settled by four controls documented from inside the same corpus, all set out in the cache file above, and only then was the entry used. Lending-restricted, page images 403, not read. See [f_4956].
 15. YMCA of Montreal annual reports for the years ending 31 March **1945** and **1947** [src_ymf_sgw_ymca_annual_report_1945, src_ymf_sgw_ymca_annual_report_1947]. Under the 31 March rule (f_5039) these describe the winters of 1944-45 and 1946-47. Camps sections read 2026-09-06 under p_441. See [f_5075], [f_5076].
 16. Montreal YMCA bilingual news bulletin, **29 January 1970** [src_ymf_p0145_news_release_1970_01_29], the item headed "It's mainly because of the soup." Cached at `sources/cache/ymca-montreal-fonds/p0145-news-release-1970-01-29.txt`; read 2026-09-06 under p_451. See [f_5101].
+17. Montreal YMCA bilingual news release, **28 November 1969** [src_ymf_news_release_1969_11_28], French column. Cached at `sources/cache/ymca-montreal-fonds/news-release-1969-11-28.txt`; read 2026-09-06 under p_451. See [f_5104].
 
 ## Research Notes
 

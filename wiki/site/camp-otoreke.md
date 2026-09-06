@@ -1,7 +1,7 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 34*
-*Last Updated: 2026-09-06 (in 1967 it became a department of Downtown Branch)*
+*Status: E1-reviewed | Sources: 35*
+*Last Updated: 2026-09-06 (170 people from Petite-Bourgogne, July 1969)*
 
 ## Overview
 
@@ -143,6 +143,10 @@ decade later helped choose the ski lodge site at Christieville.^32
 **This matters beyond Otoreke.** This wiki treats coeducation as a Kanawana question of the late
 1960s and 1970s. The same association had been running a coeducational camp since 1935, on the very
 islands Kanawana came from.
+
+**July 1969: 170 people from Petite-Bourgogne.** The Montreal YMCA's bilingual release of 28 November 1969 records, in its French column, an outreach fortnight nothing else in this project mentions: "L'été dernier, en juillet, **170 personnes de culture française de la Petite Bourgogne** ont pu, elles aussi, jouir de l'été à la campagne grâce à **deux semaines passées au Camp Otoreke**."^35
+
+Petite-Bourgogne — Little Burgundy, the working-class district southwest of downtown Montreal then in the middle of an urban-renewal upheaval — appears nowhere else in this wiki. A hundred and seventy people for two weeks is a substantial programme, and it survives in one sentence of a press column. Who organised it, how it was paid for and whether it repeated are all unrecorded here.
 
 **In 1967 it stopped being its own unit.** "Camp Otoreke **became a department of Downtown Branch**. It continued to operate a weekend Ski Lodge for young adults and a vacation centre during the summer."^34 Eleven years earlier the association had listed Otoreke among its *branch* chairmen, alongside Central, Westmount and Lachine; now it was a department inside one of them. The report gives no reason and records no change to what the site actually did.
 
@@ -605,6 +609,7 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 32. YMCA of Montreal annual reports for the years ending 31 March **1934** and **1936** [src_cache_sgw_ymca_annual_report_1934, src_cache_sgw_ymca_annual_report_1936] — camping seasons 1933 and 1935. See [f_5071].
 33. YMCA of Montreal annual report for the year ending 31 March **1948** [src_ymf_sgw_ymca_annual_report_1948], camps section — the 1947 season. Read 2026-09-06 under p_441. See [f_5079].
 34. YMCA of Montreal annual report for **1967** [src_cache_sgw_ymca_annual_report_1967], camping section. Read 2026-09-06 under p_441. See [f_5096].
+35. Montreal YMCA bilingual news release, **28 November 1969** [src_ymf_news_release_1969_11_28], French column. Cached at `sources/cache/ymca-montreal-fonds/news-release-1969-11-28.txt`; read 2026-09-06 under p_451. See [f_5104].
 
 ## Research Notes
 

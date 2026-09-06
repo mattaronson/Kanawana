@@ -1,6 +1,6 @@
 # A. Ross Seaman
 
-*Status: E1-reviewed | Sources: 17*
+*Status: E1-reviewed | Sources: 18*
 *Last Updated: 2026-09-06 (Cornwall answered: Executive Director of the YM-YWCA there by 1974, after Kanawana)*
 
 ## Overview
@@ -87,6 +87,12 @@ association did.
 
 **He was still in Quebec camping ten years after leaving Kanawana.** The report of the Quebec Camping Association English Section's **40th anniversary conference, 25-27 March 1977**, names "an impressive list of past presidents of Q.C.A. in attendance, namely; **Norrey Owens, Zave Ettinger, Ross Seaman, Bob Lazanick, Peter van Wagner, Bill McCarthy and Val Willis**."^11 That is a dated appearance for Seaman a full decade after his Kanawana directorship ended and twenty-eight years after he first became the association's secretary — and it places him in the same room as **O. N. H. Owens**, the Kanawana Committee chairman who had endowed the Order of Owens at Kanawana the previous summer (see [[traditions/order-of-owens|The Order of Owens]]). The two men had also served together on the QCA executive in 1954, Owens as president and Seaman as conference chairman.
 
+**A press release calls him a past president of the QCA, and this article does not adopt it.** The Montreal YMCA's bilingual release of 28 November 1969 announces that the three main camping sites — "Kanawana, Les Voyageurs et Perrot" — now constitute a special branch of the association, headed by "Monsieur A. Ross Seaman, du Métropolitain, **ancien Directeur de Kanawana et ancien Président de l'Association des Campeurs du Québec**."^18
+
+That is a claim of the **presidency** of the Quebec Camping Association. Everything above documents him as its **secretary**, from about 1949 until the forced resignation of 1951, and the 1962-63 office as secretary of the *national* association rather than the provincial one. A French press column paraphrasing an English-language office is exactly where "secretary" becomes "président," and the QCA's own officer lists in *Canadian Camping* are the better evidence. Recorded as a claim someone made in 1969, not as an office he held.
+
+**The same release dates the camping branch.** "Les trois principaux sites de campement du YMCA — Kanawana, Les Voyageurs et Perrot — **constituent maintenant une succursale spéciale du Y**," with Seaman directing it.^18 This wiki knows that reorganisation only from a Concordia listing, "Montreal YMCA Camping Branch Board of Management. – 1969-1970." The release puts it in place by **November 1969**, names its head, and lists its three constituent sites — which is also independent evidence that Camp Perrot was still an active YMCA camping site at the end of 1969.
+
 ## Open Questions
 
 1. [Critical, **partly answered 2026-09-05**] What are Seaman's full biographical details — birth year, full name, education beyond SGW? **The death date is now exact: 23 October 1987**, from the memorial fund notice in *Canadian Camping Magazine* (Winter 1988), which narrows any obituary search to the last week of October and the first weeks of November 1987. The rest is unresolved. A further pass (genealogy sites, FindAGrave, Vankleek Hill obituary aggregators) found nothing new. The Vankleek Hill newspaper "The Review" (archived from 1893) very likely carries an October/November 1987 obituary, but its own online archive is not full-text searchable — this requires a paid GenealogyBank-style subscription search or direct contact with the newspaper or a Vankleek Hill funeral home, not further web queries.
@@ -123,3 +129,4 @@ association did.
 
 
 17. *Directory of Canadian Welfare Services / Répertoire des services sociaux canadiens* (Ottawa: Canadian Council on Social Development, 1974), Internet Archive scan leaf 218 [src_directory_canadian_welfare_services_1974]. **One entry only**, recovered 2026-09-06 by Open Library search-inside; the volume is lending-restricted, page images return HTTP 403, and it has not been read. See [f_4962].
+18. Montreal YMCA bilingual news release, **28 November 1969** [src_ymf_news_release_1969_11_28], French column. Cached at `sources/cache/ymca-montreal-fonds/news-release-1969-11-28.txt`; read 2026-09-06 under p_451. See [f_5104].

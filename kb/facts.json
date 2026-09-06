@@ -1,8 +1,8 @@
 {
-  "version": "7.83",
-  "kb_version": "7.83",
+  "version": "7.84",
+  "kb_version": "7.84",
   "migrated_from": "3.3",
-  "fact_count": 5063,
+  "fact_count": 5066,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91324,6 +91324,60 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.83",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5102",
+      "category": "programs",
+      "date_ref": "1967",
+      "entities": [
+        "Kamp Kanawana",
+        "Canadian Camping Association"
+      ],
+      "claim": "THE FUR TRADE TRIP HAD SEVEN BOYS, NOT SIX, IN TWO ASSOCIATION DOCUMENTS. history/centennial-1967.md says 'SIX Kanawana boys and two counsellors paddled from Deep River, Ontario to Britannia Beach... between August 2 and August 9, 1967', sourced to McMorris's thesis. TWO MONTREAL YMCA DOCUMENTS SAY SEVEN. The news release of 28 July 1967: 'SEVEN 14-15 YEAR OLD BOYS AND TWO COUNSELLORS from the Montreal YMCA's Kamp Kanawana plan to re-trace 150 miles of Canada's original east-west fur trade route in canoes.' And the 1967 annual report, read earlier the same day: 'Seven 14-15 year old boys and two counsellors from Kamp Kanawana re-traced 150 miles' (f_5097). THAT IS A CONFLICT BETWEEN A THESIS AND TWO CONTEMPORANEOUS INSTITUTIONAL DOCUMENTS THAT AGREE WITH EACH OTHER, and the two are not independent of one another -- the annual report may well be drawn from the release. IT IS ALSO A ONE-BOY DIFFERENCE AND CHANGES NOTHING ELSE. Recorded, flagged in the article, not resolved: McMorris may have a roster this project has not seen. WHAT THE RELEASE ADDS BEYOND THE COUNT. THE LOGISTICS: 'The group will be MOVED BY TRUCK from Kanawana, in St. Sauveur, Que., TO DEEP RIVER, ONT., ON AUGUST 2. They will leave next day, via water, for Britannia Beach, Ottawa, which they expect to reach on August 9.' So 2 August was the drive and 3 August the launch. THE FRAMING: 'The trip is part of A CENTENNIAL PROJECT OF THE CANADIAN CAMPING ASSOCIATION' -- which ties it to the CCA Centenary Journey the article already describes, and to the route guide the 1967 annual report says the field notes were going into (f_5097). AND THE RECEPTION: 'When the YMCA group arrives in Ottawa, it will be greeted by 200 FELLOW CAMPERS FROM KANAWANA who, after A CHUCKWAGON LUNCH, will TOUR THE PARLIAMENT BUILDINGS.' The article has 'a busload of Kanawana campers' singing the camp song, from the thesis; 200 is a much larger number than a bus, AND THIS IS A RELEASE WRITTEN IN ADVANCE, describing a plan rather than reporting an event.",
+      "sources": [
+        "src_ymf_news_release_1967_07_28_202412"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5103",
+      "category": "programs",
+      "date_ref": "1969",
+      "entities": [
+        "Kamp Kanawana",
+        "Geoff Anderson"
+      ],
+      "claim": "THE FRENCH PROGRAMME HAD A NAME AND AN AGE BAND: 'LIVING-IN-FRENCH', BOYS 12-16. The news release of 24 April 1969, three weeks before the one that announced it to the newspapers (f_5100): 'THIS SUMMER, FOR THE FIRST TIME, KANAWANA WILL ALSO OFFER AN IMMERSION STYLE \"LIVING-IN-FRENCH\" EXPERIENCE FOR BOYS AGE 12-16. Instead of classrooms, it will take advantage of WOODLANDS, LAKES, PLAYING FIELDS AND HOBBY SHOPS to whet the boys appetites for learning. There will also be SOME TIME RESERVED EACH DAY FOR MORE FORMAL STUDY.' 'Living-in-French' occurs nowhere else in this project. The May release gave the arrangements -- a converted farm building, one French-speaking counsellor to five boys, a language co-ordinator -- and this one gives THE NAME, THE AGES, AND THE WORD 'IMMERSION' IN THE ASSOCIATION'S OWN MOUTH IN 1969. THE SAME RELEASE ON RECRUITING AND DEMAND: 'KAMP KANAWANA STILL HAS A LIMITED NUMBER OF OPENINGS FOR MALE COUNSELLORS OVER 18 YEARS OF AGE... For further information please contact GEOFF ANDERSON at 849-5331 local 743. A FLOOD OF APPLICATIONS FOR THE GIRL'S SECTION ARE STILL BEING PROCESSED. PRE-REGISTRATION FOR THE UPCOMING SUMMER IS TO DATE SOME 15% AHEAD OF LAST YEAR.' The doubled co-ed capacity of 1969 (f_5100) was meeting real demand, and the association said so in April, before the season.",
+      "sources": [
+        "src_ymf_news_release_1969_04_24"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5104",
+      "category": "institutional",
+      "date_ref": "1969",
+      "entities": [
+        "Kamp Kanawana",
+        "Camp Otoreke",
+        "Camp Perrot",
+        "A. Ross Seaman",
+        "Petite-Bourgogne"
+      ],
+      "claim": "WINTER 1969-70: THE LONG HOUSE OPENED FOR DISADVANTAGED FAMILIES, AND THE THREE CAMPS BECAME A BRANCH. From the French column of the bilingual news release of 28 November 1969. THE LONG HOUSE IN WINTER: 'Poursuivant sa politique d'aide aux familles desavantagees, le KAMP Kanawana OUVRIRA LES PORTES DE \"LONG HOUSE\" CET HIVER. Les preparatifs sont deja completes.' So the Long House -- built July 1952, demolished 1978, and described in places-and-locations.md as a waterfront recreation hall -- was opened for the winter of 1969-70 as part of a STATED POLICY OF AID TO DISADVANTAGED FAMILIES. Set beside the West Island family ski day running that same winter (f_5101), the camp's winter of 1969-70 had two distinct programmes, one commercial-ish and popular, one explicitly charitable. traditions/winter-programming.md has neither. OTOREKE AND PETITE-BOURGOGNE: 'L'ete dernier, en juillet, 170 PERSONNES DE CULTURE FRANCAISE DE LA PETITE BOURGOGNE ont pu, elles aussi, jouir de l'ete a la campagne grace a DEUX SEMAINES passees au CAMP OTOREKE.' Petite-Bourgogne, the Little Burgundy district of Montreal, appears nowhere in this project. 170 people for two weeks in July 1969 is a substantial outreach programme and it is recorded in one sentence of a French press column. THE THREE CAMPS BECAME A BRANCH: 'LES TROIS PRINCIPAUX SITES DE CAMPEMENT DU YMCA -- KANAWANA, LES VOYAGEURS ET PERROT -- CONSTITUENT MAINTENANT UNE SUCCURSALE SPECIALE DU Y. Monsieur A. Ross Seaman, du Metropolitain, ancien Directeur de Kanawana et ANCIEN PRESIDENT DE L'ASSOCIATION DES CAMPEURS DU QUEBEC en assumera la direction.' That dates the camping branch this wiki knows from the Concordia listing 'Montreal YMCA Camping Branch Board of Management. - 1969-1970' to NOVEMBER 1969 OR EARLIER, names its head, and lists its three constituent sites -- WHICH CONFIRMS PERROT WAS STILL AN ACTIVE YMCA CAMPING SITE IN LATE 1969 (f_5099). AND ONE BIOGRAPHICAL CLAIM TO HANDLE CAREFULLY. The release calls Seaman 'ANCIEN PRESIDENT DE L'ASSOCIATION DES CAMPEURS DU QUEBEC'. people/a-ross-seaman.md documents him as SECRETARY of the Quebec Camping Association from about 1949, forced to resign in 1951, and secretary again in the 1962 and 1963 officer lists -- IT DOES NOT HAVE HIM AS PRESIDENT. A French press release paraphrasing an English-language office is exactly where 'secretary' becomes 'president', and the QCA officer lists in Canadian Camping are the better evidence. RECORDED AS A CLAIM, NOT ADOPTED.",
+      "sources": [
+        "src_ymf_news_release_1969_11_28"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.84",
       "added_by": "ralph_loop"
     }
   ]
