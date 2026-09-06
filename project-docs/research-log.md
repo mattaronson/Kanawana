@@ -5413,3 +5413,60 @@ one of them was here the whole time.
 
 *(With a practical caveat learned in the same hour: use word boundaries. A first cache-grep pass
 matched "Devereaux" for Ereaux and the noun "spinneys" for Spinney, and both looked like hits.)*
+
+---
+
+## Phase 2 campaign — "a new man, from the Springfield Training School" (2026-09-06)
+
+**Topic.** The last two volumes of the *YMCA Year Book and Official Roster* that matter: **1891** and
+**1892**, covering the year of the Jones' Island trip and the autumn the camp committee was
+appointed. Both unrestricted, both downloaded whole. Twelve volumes of the series are now read.
+
+**The 1892 volume is the best thing this series has produced.** Its Quebec provincial narrative,
+signed at the foot "Charles Cushing, Cor. Mem." — the same Charles Cushing who would chair the
+Permanent Camp Committee seven years later — reports on the Montreal association and says:
+
+> "The physical director, **W. H. Ball, Jr., a new man, from the Springfield Training School**, is
+> doing excellent work; the classes for pastors and business men, as well as those for young men and
+> boys, are all thronged, and the great plunge and the shower baths are new and exceedingly popular
+> features of the building."
+
+`billy-ball.md`'s Open Question 5 has asked since February whether Montreal's "Billy" Ball is
+**William Henry Ball, Springfield class of 1891**, who graduated with James Naismith and later ran
+the YMCA's national swimming campaign. The answer has stood at "strongly corroborated, not fully
+proven", and the KB states the objection precisely in `f_1245`: *"His known career positions… do not
+include Montreal, but a Montreal posting between 1891 and his other documented positions has not
+been ruled out."*
+
+**This does not prove the two are one man, and the article says so.** It does something better than
+another name match: **it removes the only structural objection there was.** The Springfield-to-
+Montreal path is now documented from the Canadian end, in print, in 1892, by a source with no
+interest in the question. What would close it is still Springfield College's finding aid MS 527,
+which renders in JavaScript and is inaccessible from here.
+
+And the **1891** volume supplies the control: Montreal's roster that year is "D. A. Budge. Asst.,
+W. J. Orr. Asst., Percy C. Leslie" — **no physical director at all**. Which is what "a new man"
+means, and which fits the September 1891 start the article has from the association's own reports.
+**f_4969.**
+
+**R. L. Charlton, whom the name sweep could not find.** The 1891 volume prints the **Ontario and
+Quebec Provincial Committee, appointed February 1891**, and its Montreal members are "Herbert Ames…
+D. A. Budge — **R. L. Charlton** — George Hague — R. Henderson — R. H. Holland — F. W. Kelly".
+Charlton sits on the provincial committee three years before he joins the 1894 Summer Camp committee
+that founded Kanawana, in the company of the reformer who wrote *The City Below the Hill* and a
+Montreal banker. **f_4970**, and a sentence in `founding-1894.md`: the camp's first committee was not
+assembled from enthusiasts, it was drawn from men already inside the association's provincial
+machinery.
+
+**Rule 21, for the third time in one day.** "R. L. Charlton" was run against a full-text index of
+millions of books this morning and returned thirteen hits — a physics lecturer, a health-education
+researcher, an 1814 Rhode Island birth register, an English secretary called Charlton Jones. He was
+in a volume of a series already sitting in this repo's cache. So was W. J. Holliday. So was the
+founding-era staff. **Three times in one day, and each time the corpus search was run first.**
+
+**The series, as it now stands.** Twelve volumes read for the Montreal roster: 1891, 1892, 1893-97,
+1906-08, 1921, 1922. What remains on the Internet Archive under this identifier stem is four Google
+scans of years already held and a 1936 volume that may be restricted. **The gaps — 1898-1905 and
+1909-1920 — are not there under this stem**, and finding them would need a different search. That is
+written into p_433 so the next pass does not assume the series was exhausted when it was only
+enumerated.

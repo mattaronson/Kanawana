@@ -1,8 +1,8 @@
 {
-  "version": "7.01",
-  "kb_version": "7.01",
+  "version": "7.02",
+  "kb_version": "7.02",
   "migrated_from": "3.3",
-  "fact_count": 4930,
+  "fact_count": 4932,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88605,6 +88605,46 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.01",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4969",
+      "category": "people",
+      "date_ref": "1891-1892",
+      "entities": [
+        "W. H. Ball",
+        "Springfield Training School",
+        "YMCA of Montreal",
+        "Charles Cushing"
+      ],
+      "claim": "KANAWANA'S FOUNDER CAME TO MONTREAL FROM THE SPRINGFIELD TRAINING SCHOOL, AND A CONTEMPORARY PRINTED SOURCE SAYS SO. The Year Book and Official Roster of the YMCAs of North America for 1892 -- not lending-restricted, downloaded whole -- carries the QUEBEC provincial narrative report, signed at its foot \"CHARLES CUSHING, Cor. Mem.\": \"The membership of the Montreal Association has reached 1,600, and the new building has the appearance of an African ant hill, swarming with workers in every department... THE PHYSICAL DIRECTOR, W. H. BALL, JR., A NEW MAN, FROM THE SPRINGFIELD TRAINING SCHOOL, IS DOING EXCELLENT WORK; the classes for pastors and business men, as well as those for young men and boys, are all thronged, and the great plunge and the shower baths are new and exceedingly popular features of the building.\" The same volume's roster reads \"Montreal -- D. A. Budge. Asst., D. W. Corbett. Phys. Director, W. H. Ball, Jr.\" AND THE 1891 VOLUME HAS NO PHYSICAL DIRECTOR AT MONTREAL AT ALL -- \"Montreal -- D. A. Budge. Asst., W. J. Orr. Asst., Percy C. Leslie\" -- which is what 'a new man' means and which fits this project's record of Ball as Physical Director from September 1891, after the one volume was compiled and before the next. WHY THIS MATTERS. billy-ball.md's Open Question 5 asks whether Montreal's 'Billy' Ball is WILLIAM HENRY BALL, Springfield College class of 1891, who graduated alongside James Naismith and Amos Alonzo Stagg and later ran the YMCA's national swimming campaign. The article's answer has been 'strongly corroborated, not fully proven', and f_1245 states the objection exactly: 'His known career positions... DO NOT INCLUDE MONTREAL, but a Montreal posting between 1891 and his other documented positions has not been ruled out.' THIS DOES NOT PROVE THE TWO ARE ONE MAN. It does something more useful than another name match: it REMOVES THE ONLY STRUCTURAL OBJECTION. The Springfield-to-Montreal path is now documented from the Canadian end, in print, in 1892, by a source with no interest in the question -- written by the Quebec corresponding member who would go on to chair the Permanent Camp Committee. The proof that would close it is still Springfield College finding aid MS 527, which is JavaScript-rendered and inaccessible from here, or a direct enquiry to that archive. (The OCR gives 'CHARLES GUSHING' and 'Glaus Olandt'; both read as C.)",
+      "sources": [
+        "src_ymca_yearbook_1891",
+        "src_ymca_yearbook_1892"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.02",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4970",
+      "category": "people",
+      "date_ref": "1891-02",
+      "entities": [
+        "R. L. Charlton",
+        "D. A. Budge",
+        "Herbert Ames",
+        "YMCA of Montreal",
+        "Ontario and Quebec Provincial Committee"
+      ],
+      "claim": "R. L. CHARLTON SAT ON THE YMCA'S ONTARIO AND QUEBEC PROVINCIAL COMMITTEE, APPOINTED FEBRUARY 1891. The Year Book and Official Roster for 1891 prints: \"ONTARIO AND QUEBEC. Appointed February, 1891. Headquarters, Toronto, Ont. C. S. Gzowski, Jr., Toronto, Ont., Chairman. J. O. Anderson, Secretary. John J. Gartshore, Treasurer.\" -- followed by the members, whose Montreal contingent is \"Herbert Ames, Montreal, Que. -- D. A. BUDGE -- R. L. CHARLTON -- George Hague -- R. Henderson -- R. H. Holland -- F. W. Kelly\". THIS IS THREE YEARS BEFORE the 1894 Summer Camp committee that founded Kanawana, on which R. L. Charlton sits with John W. Ross as chairman and E. J. Coyle, and seven years before the 1898 Camp Jubilee photograph that is this project's other sighting of him. It is also good company: Herbert Ames is the reformer who wrote The City Below the Hill and George Hague a Montreal banker, so the provincial committee was drawn from the city's civic and commercial establishment and Charlton was in it. AND A METHOD NOTE: this project's name sweep ran 'R. L. Charlton' against a full-text index of millions of books on 2026-09-06 and got thirteen hits, none of them him (a physics lecturer, a health-education researcher, an 1814 Rhode Island birth register, and an English YMCA secretary called Charlton Jones). He was in a volume of a series already sitting in this repo's cache. That is rule 21 -- a source marked READ is read FOR SOMETHING -- for the third time in one day.",
+      "sources": [
+        "src_ymca_yearbook_1891"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.02",
       "added_by": "ralph_loop"
     }
   ]

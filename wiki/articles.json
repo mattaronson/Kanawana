@@ -115,7 +115,11 @@
         "src_ia_ymca_annual_1891_92",
         "src_ia_ymca_montreal_annual_reports_collection",
         "src_rpcq_ymca_8364",
-        "src_vss_familles_pionnieres"
+        "src_vss_familles_pionnieres",
+        "src_ymca_yearbook_1891",
+        "src_ymca_yearbook_1906",
+        "src_ymca_yearbook_1907",
+        "src_ymca_yearbook_1908"
       ],
       "open_questions": 0,
       "cross_links": [
@@ -140,7 +144,7 @@
         "timeline-overview"
       ],
       "file_id": "1h-vki1U2tjYj8-zZ5gzuyW6kQXelcUnB",
-      "word_count": 5662,
+      "word_count": 5829,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- replaced the bold-field header convention with the standardized two-line header, moved the embedded c_005 editorial-resolution paragraph into the existing Revision History section (merged the separate 'Research Notes'/'Revision History' H2 sections into one, per the wiki-wide convention). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -2610,7 +2614,9 @@
         "src_ymca_yearbook_1894",
         "src_ymca_yearbook_1895",
         "src_ymca_yearbook_1896",
-        "src_ymca_yearbook_1897"
+        "src_ymca_yearbook_1897",
+        "src_ymca_yearbook_1891",
+        "src_ymca_yearbook_1892"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -2621,7 +2627,7 @@
         "founding-1894"
       ],
       "file_id": null,
-      "word_count": 2500,
+      "word_count": 2926,
       "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header (article had no standardized header at all), softened a dated bold-label marker in prose. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

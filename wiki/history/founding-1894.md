@@ -1,7 +1,7 @@
 # Camp Kanawana: Founding and Early History (1892-1923)
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-08-14*
+*Last Updated: 2026-09-06 (the first camp committee's men were already in the association's provincial machinery)*
 
 ## Summary
 
@@ -19,7 +19,7 @@ The same report's statistical summary confirms it — "Attendance at Summer Camp
 
 **Two streams, one lake.** The same 1894-95 report records, in its *Physical Department* section rather than the Junior one: "The Association has leased land from the Government and the fishing rights of a lake near St. Agathe, and purpose using it as a summer camp for our members… Last year **53 members** took advantage of this privilege." From 1896 the reports state the split explicitly — "28 junior members and 40 senior members." So the boys' camp of 23 and an adult members' camp of 53 ran in parallel on the same leased water. *Inference, labelled:* only the Junior line becomes Kanawana; the Senior line stays on Lac St. Joseph and becomes [[site/camp-otoreke|Camp Otoreke]]. The association later says so itself — its 1965 report calls the Otoreke site "**the original location of Kamp Kanawana**."^ar
 
-**The first committee**, from the same report's officers list: "Summer Camp. **John W. Ross**, Chairman. **E. J. Coyle**. **R. L. Charlton**." By 1896 this is a standing "Permanent Camp Committee" of John W. Ross, Jas. Wilson, **W. E. Cushing** and R. B. Ross Jr.^ar
+**The first committee**, from the same report's officers list: "Summer Camp. **John W. Ross**, Chairman. **E. J. Coyle**. **R. L. Charlton**." *All three were already association men when they took it on.* Ross would be **President of the YMCA of Montreal** by the 1906 Year Book and was still on the YMCA's International Committee in 1921; **R. L. Charlton** had sat on the **Ontario and Quebec Provincial Committee appointed in February 1891**, three years before this, alongside D. A. Budge, the reformer Herbert Ames and the banker George Hague — so the camp's first committee was not assembled from enthusiasts but from men already inside the association's provincial machinery.^ymcayb By 1896 this is a standing "Permanent Camp Committee" of John W. Ross, Jas. Wilson, **W. E. Cushing** and R. B. Ross Jr.^ar
 
 ### "Camp Jubilee" is not the association's name for it
 
@@ -228,6 +228,7 @@ The 1923 brochure and 1935 history together describe a camp that had grown into 
 - 1923 Kanawana brochure (previously extracted)
 - 1935 History of Kamp Kanawana (Internet Archive, djvu.txt extraction)
 - 1941 CFCF radio broadcast script (Langille)
+- **^ymcayb** — *Year Book and Official Roster of the Young Men's Christian Associations of North America*, the volumes for **1891** (the Ontario and Quebec Provincial Committee, appointed February 1891) and **1906-1908** (John W. Ross as President of the Montreal association) [src_ymca_yearbook_1891], [src_ymca_yearbook_1906], [src_ymca_yearbook_1907], [src_ymca_yearbook_1908]. None is lending-restricted; all were downloaded whole and searched, and "Kanawana" occurs in none of them. Cached at `sources/cache/ymca-yearbooks/`. See [f_4970], [f_4967].
 - Montreal Gazette, July 7, 1897: "YMCA Summer Camp Kanawana" — earliest known newspaper reference [src_gazette_1897]
 - Montreal Gazette, July 11, 1918: "At Camp Kanawana" — record 110 attendance, YMCA London filming [src_gazette_1918]
 - ^br: YMCA of Montreal 41st Annual Report (1892) and Historical Sketch of the YMCA of Montreal 1851-1901, both on Internet Archive; retrieved via operator browser research, June 2026 [src_ia_ymca_annual_1891_92, src_ia_historical_sketch_1901]
