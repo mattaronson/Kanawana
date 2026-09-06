@@ -1,8 +1,8 @@
 {
-  "version": "8.23",
-  "kb_version": "8.23",
+  "version": "8.25",
+  "kb_version": "8.25",
   "migrated_from": "3.3",
-  "fact_count": 5124,
+  "fact_count": 5126,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -92361,6 +92361,39 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.23",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5163",
+      "category": "founding",
+      "date_ref": "1893",
+      "entities": [
+        "Camp Otoreke",
+        "YMCA of Montreal",
+        "Saint-Adolphe-d'Howard",
+        "Lac Saint-Joseph"
+      ],
+      "claim": "THE MUNICIPALITY OF SAINT-ADOLPHE-D'HOWARD DATES THE YMCA'S ARRIVAL ON THE ISLAND TO 1893, AND IT IS NOT EVIDENCE AGAINST 1894. Its 'Patrimoine' page: 'le Y.M.C.A. s'etablit sur une des iles du lac Saint-Joseph EN 1893'. The page adds that this vacation colony no longer exists while several historical camps in the municipality remain active, and it names neither Camp Jubilee nor Camp Otoreke. THIS IS A TERTIARY SOURCE -- a municipal heritage page with no citation -- AND IT SITS INSIDE A PERIOD THIS PROJECT HAS ALREADY DOCUMENTED CAREFULLY: Lemuel Cushing brought boys to Lac Saint-Joseph in 1892 per QAHN, Concordia holds an 1893 'Report -- trip to St. Agathe' recording a venture 'to explore the country round about St. Agathe with the view of securing a lake', and the association's own 1893-94 annual report contains NO mention of a lake, lease or camp while the following one records 'Attendance at Summer Camp ... 23'. SO 1893 IS THE PRECURSOR YEAR AND 1894 IS THE CAMP, which is what history/founding-1894.md already argues from primary sources. RECORDED SO THAT A LATER PASS MEETING THIS PAGE DOES NOT TAKE IT FOR NEW EVIDENCE OF AN EARLIER FOUNDING; it is the same 1893-versus-1894 confusion arriving from a third body, independent of QAHN and of BaladoDecouverte.",
+      "sources": [
+        "src_stadolphedhoward_patrimoine"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.24",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5164",
+      "category": "methodology",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project"
+      ],
+      "claim": "THE LAC SAINT-JOSEPH STORYMAP CANNOT BE READ BY THIS PROJECT'S TOOLS. ACCESS FAILURE, recorded as one. 'L'histoire du lac Saint-Joseph' at storymaps.arcgis.com/stories/8e60ed705f154f03b4424fb05bc56000 was named in f_5162 as an untried route to the 1923 dam Bill. Fetched 2026-09-06 via WebFetch, WHICH RETURNED THE PAGE TITLE AND NOTHING ELSE -- ArcGIS StoryMaps renders its body through JavaScript, so a converter that reads the served HTML gets an empty shell. THIS IS A FACT ABOUT THE TOOL AND NOT ABOUT THE PAGE, and the page may well answer the dam question. UNTRIED FOR IT: a browser-rendered fetch (this environment has Chromium and Playwright configured), the StoryMaps JSON API, or asking the operator to open it. The municipality's own patrimoine page WAS readable and is null for the dam (f_5163). [RESOLVED THE SAME HOUR, AND THE PAGE DOES NOT ANSWER THE DAM QUESTION -- correcting this fact's own guess that it 'may well'. The browser route failed at the tunnel, not the flags: the agent proxy's status endpoint logs the attempt as ws_closed_mid_exchange, 'tunnel closed (code 1006) after 6s; 1730 B sent, 39 B received'. THE JSON API WORKED -- https://www.arcgis.com/sharing/rest/content/items/<id>/data?f=json returns the whole story, 55 KB, and the item endpoint returns its metadata -- WHICH IS THE ROUTE TO USE FOR ANY ArcGIS STORYMAP IN FUTURE. And it settles the question by byline alone: the story is by the CORPORATION DU BASSIN DE LA JACQUES-CARTIER. Word counts across the JSON: Jacques-Cartier 16, Sainte-Catherine 4, Fossambault 3, Shannon 1 -- all Portneuf-region municipalities on the OTHER Lac Saint-Joseph -- against HOWARD 0, ADOLPHE 0, YMCA 0. IT ALSO MENTIONS 'barrage' TWELVE TIMES. So the one untried route most likely to look like an answer is substantially about a dam on the wrong lake, which is precisely the trap f_5162 was written to prevent, confirmed within the hour by the person who wrote it.]",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.24",
       "added_by": "manual"
     }
   ]

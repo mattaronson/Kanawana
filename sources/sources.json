@@ -30025,7 +30025,25 @@
       "read_state": "snippet",
       "read_state_basis": "LENDING-RESTRICTED. Two snippets only, from Open Library search-inside 2026-09-06: the article's by-line at leaf 282 and its index entry at page 58. The article has NOT been read.",
       "notes": "A LEAD ON HAROLD C. CROSS THAT IS DELIBERATELY NOT AN IDENTIFICATION. 'North American Rose Gardens of 1851 -- Harold C. Cross, St. Anne de Bellevue, Quebec.' Historical research on a nineteenth-century subject, in the founding year of the Montreal YMCA whose centenary Cross wrote, from a greater-Montreal address. But the evidence is A NAME AND A PROVINCE and nothing else, and Harold Cross is not a rare name. See f_5007."
+    },
+    {
+      "source_id": "src_stadolphedhoward_patrimoine",
+      "type": "web",
+      "title": "Municipalité de Saint-Adolphe-d'Howard, \"Patrimoine\" — the YMCA on an island of Lac Saint-Joseph",
+      "date": "2026-09-06",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://www.stadolphedhoward.qc.ca/27/patrimoine",
+      "cache_path": "sources/cache/web-pages/2026-09-06-stadolphedhoward-patrimoine.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "8.24",
+      "reliability": "tertiary",
+      "read_state": "snippet",
+      "read_state_basis": "NOT FULLY READ. Fetched via WebFetch against a prompt; only the returned passage is held. Fetched for the 1923 dam Bill (f_5162) and null for it.",
+      "notes": "Dates the YMCA's establishment on an island to 1893, a year before this project's 1894. A municipal heritage page, tertiary, and consistent with the documented 1892-93 precursor trips rather than evidence against 1894. See f_5163."
     }
   ],
-  "source_count": 1668
+  "source_count": 1669
 }
