@@ -1,7 +1,7 @@
 # Thomas Duncan Patton (1865–1944)
 
-*Status: draft | Sources: 13*
-*Last Updated: 2026-09-05*
+*Status: draft | Sources: 14*
+*Last Updated: 2026-09-06*
 
 ## Overview
 
@@ -104,6 +104,32 @@ the modern physical-education movement was being invented.
 > while out swimming got beyond his depth and was drowned. Louden came from one of the finest homes in
 > Montreal. On the arrival of help the next day the camp was broken up and the site was never again
 > used for this purpose."^1
+
+### Where the island is
+
+Quebec's toponymic register holds **exactly one island named Jones**: **Île Jones**, at 45.5199 /
+-74.2924 in **Saint-André-d'Argenteuil**, and the Commission de toponymie places it "à l'entrée de la
+baie de Carillon, entre l'île de Carillon et la terre ferme, dans l'estuaire de la rivière des
+Outaouais."^14 That is in the Ottawa River, about 56 kilometres — thirty-five miles — west-north-west of
+downtown Montreal, against Patton's "about 40 miles north-west of Montreal in the Ottawa River."
+
+**This is an identification by geography and by the uniqueness of the name, not a document.** Nothing
+found says the 1891 camp was pitched there. Two things are unchecked and are named so a later pass does
+not mistake this for settled: Ontario's own toponymic register was not searched, and whether some
+smaller unregistered island went by the name locally in 1891 is unknown.
+
+The island's own history is documented, and it is older than the camp by a century. The Commission gives
+the etymology outright: the name "reprend celui du premier propriétaire de l'île, **Martin Jones
+(1747–1843)**. Après avoir combattu aux États-Unis durant la Révolution américaine, il arriva en 1788 au
+Canada avec sa femme, **Hannah Brant (1761–1854)**. Le couple s'installa à l'extrémité sud-est de la
+seigneurie d'Argenteuil" — Martin farming, Hannah attending births and the sick.^14 A Loyalist's island
+in the seigneury of Argenteuil, named for a man dead half a century before a Montreal YMCA secretary
+took a dozen boys there for a night.
+
+The Commission's own authority for that is **Benjamin N. Wales, *Memories of old St. Andrews and
+historical sketches of the seigniory of Argenteuil*** (Watchman Press, Lachute, 1934, 135 pp.), which is
+not on the Internet Archive and has not been read here. It is the obvious next document for anyone
+pursuing the island itself.
 
 See [[history/founding-1894|Founding and Early History]] for what this means for the founding sequence.
 In short: the men who planned Camp Jubilee were not starting fresh.
@@ -225,13 +251,19 @@ neither is obviously wrong.
    Quebec**, died **1 April 1944 in Toronto**, aged 78.^8
 2. ~~**[Important]** Is he named in the roster of Naismith's first basketball game?~~
    **[ANSWERED 2026-08-25 — yes, and as a captain.]** See above.^6 ^7 ^8
-3. **[Important, narrowed 2026-08-25]** Where exactly is Jones' Island, and does any other record of
+3. **[Half answered 2026-09-06 — the island is located, the drowning is not.]** Where exactly is Jones' Island, and does any other record of
    the 1891 camp or of David Louden's death survive? **Searched and not found:** the YMCA of Montreal
    annual reports 1889–1899 contain no "Louden" — every hit is "Lowden, J. R." in subscriber lists, a
    different man — and no mention of Jones' Island or of the 1891 camp.^9 The contrast is worth noting:
    the 1893–94 report *does* print a list of members who died that year, including two drownings, so
    the association published such notices when it chose to. Patton's memoir remains the only known
-   account. A Montreal newspaper of summer 1891 is the route.
+   account. **The island itself is now identified** as Île Jones at Saint-André-d'Argenteuil, on
+   geography and on the fact that Quebec's register holds no other island of the name — see above.^14
+   **David Louden's drowning is still unrecorded anywhere but Patton's memoir.** A Montreal newspaper
+   of summer 1891 was the route, and it is now known to be closed from here: the Gazette's page images
+   are reachable by date but its full text is not searchable from this environment, and at the only
+   zoom the archive serves, body text is illegible [f_4886], [f_4887]. Quebec's civil death registers
+   for 1891, and the Wales history of Argenteuil, are the untried routes.
 4. **[Nice-to-have]** What was Mrs. Patton's name?
 5. **[Nice-to-have]** Did he ever return to Kanawana, or comment on it after 1919?
 
@@ -258,6 +290,7 @@ neither is obviously wrong.
 11. Katelyn Charlebois, "Camp Stephens Celebrates 125 Years," Lake of the Woods Museum Newsletter Vol. 26 No. 3, Summer 2016 [src_muse_kenora_camp_stephens_125]. The 1893 search party and all five island namesakes. See [f_4839].
 12. "Camp Stephens 125th Anniversary Chapel Service ~ July 31, 2016," Camp Stephens Alumni blog [src_campstephens_125_chapel_2016]. The 1911 first boys' camp and Patton's part in it; a commemorative script, not a history. See [f_4840].
 13. *Year Book and Official Roster of the Young Men's Christian Associations of North America*, 1893 and 1895 [src_ymca_yearbook_1893], [src_ymca_yearbook_1895]. The Canadian Northwest and Canadian West provincial committees at Winnipeg, and Richardson's signed provincial reports. See [f_4860], [f_4861].
+14. Commission de toponymie du Québec, fiche for **Île Jones** (no_seq 31476), and the *Toponymes officiels* dataset [src_ct_fiches_kanawana_2026], [src_donneesquebec_bnlq_2026]. Read 2026-09-06. The fiche's own authority for the Martin Jones etymology is Benjamin N. Wales, *Memories of old St. Andrews and historical sketches of the seigniory of Argenteuil* (Watchman Press, Lachute, 1934), which this project has not read. See [f_4889].
 
 ## Research Notes
 

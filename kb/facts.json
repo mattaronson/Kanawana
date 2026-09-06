@@ -1,8 +1,8 @@
 {
-  "version": "6.47",
-  "kb_version": "6.47",
+  "version": "6.48",
+  "kb_version": "6.48",
   "migrated_from": "3.3",
-  "fact_count": 4850,
+  "fact_count": 4851,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87010,6 +87010,30 @@
       "date_ref": "1942-08-05",
       "conflicts_with": [],
       "added_version": "6.47",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4889",
+      "claim": "JONES' ISLAND IS LOCATED, ON GEOGRAPHY RATHER THAN ON A DOCUMENT. Quebec's toponymic register holds exactly ONE island named Jones: ILE JONES, no_seq 31476, at 45.5199 / -74.2924 in Saint-Andre-d'Argenteuil, MRC Argenteuil, officialised 1968-12-05, origine linguistique Anglais. The Commission's fiche places it \"a l'entree de la baie de Carillon, entre l'ile de Carillon et la terre ferme, dans l'estuaire de la riviere des Outaouais\" and gives a full etymology: \"Son nom reprend celui du premier proprietaire de l'ile, MARTIN JONES (1747-1843). Apres avoir combattu aux Etats-Unis durant la Revolution americaine, il arriva en 1788 au Canada avec sa femme, HANNAH BRANT (1761-1854). Le couple s'installa a l'extremite sud-est de la seigneurie d'Argenteuil\", Martin farming while Hannah attended births and the sick. The Commission cites Benjamin N. WALES, 'Memories of old St. Andrews and historical sketches of the seigniory of Argenteuil', Watchman Press, Lachute, 1934, 135 pp. THE MATCH TO PATTON: he wrote in 1919 that he took the first Montreal boys' camp to \"Jones' Island, about 40 miles north-west of Montreal in the Ottawa River\" (f_2291). Ile Jones is in the Ottawa River, about 56 km -- 35 miles -- west-north-west of downtown Montreal, and it is the only Ile Jones in the province. THIS IS AN IDENTIFICATION BY GEOGRAPHY AND BY THE UNIQUENESS OF THE NAME, NOT A DOCUMENT SAYING THE CAMP WAS THERE. Two things are not checked: the Ontario toponymic register, which was not searched and which covers the far bank further upstream; and whether any smaller unregistered island carried the name locally in 1891.",
+      "sources": [
+        "src_ct_fiches_kanawana_2026",
+        "src_donneesquebec_bnlq_2026",
+        "src_ia_autobiographical_sketch_1919"
+      ],
+      "confidence": "inferred",
+      "category": "history",
+      "entities": [
+        "T. Duncan Patton",
+        "Jones' Island",
+        "Ile Jones",
+        "Saint-Andre-d'Argenteuil",
+        "Martin Jones",
+        "Hannah Brant",
+        "David Louden"
+      ],
+      "date_ref": "1891",
+      "conflicts_with": [],
+      "added_version": "6.48",
       "added_by": "ralph_loop"
     }
   ]

@@ -9941,7 +9941,8 @@
         "f_4839",
         "f_4840",
         "f_4860",
-        "f_4861"
+        "f_4861",
+        "f_4889"
       ],
       "sources_cited": [
         "src_camp_stephens_alumni_blog",
@@ -9956,7 +9957,9 @@
         "src_qahn_howard",
         "src_wikipedia_first_team",
         "src_ymca_yearbook_1893",
-        "src_ymca_yearbook_1895"
+        "src_ymca_yearbook_1895",
+        "src_ct_fiches_kanawana_2026",
+        "src_donneesquebec_bnlq_2026"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -9967,7 +9970,7 @@
         "camp-otoreke"
       ],
       "file_id": null,
-      "word_count": 3365
+      "word_count": 3832
     },
     {
       "article_id": "multi-year-index",
