@@ -1,7 +1,7 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 35*
-*Last Updated: 2026-08-14*
+*Status: E1-reviewed | Sources: 36*
+*Last Updated: 2026-09-06*
 
 ## Overview
 
@@ -95,13 +95,30 @@ Crucially it was an **inter-branch** competition — North Branch, Central and W
 | Year | Aquatics | Athletics |
 |---|---|---|
 | 1917 | North Branch | Westmount |
-| 1918 | *[ditto]* | Central |
-| 1919 | *[ditto]* | *[ditto]* |
-| 1920 | Central | *[ditto]* |
+| 1918 | " | Central |
+| 1919 | " | " |
+| 1920 | Central | " |
 | 1921 | Westmount | Westmount |
-| 1922 | *[ditto]* | *[ditto]* |
+| 1922 | " | " |
 
-**The ditto readings are an inference and are marked as such.** The OCR renders the repeat marks as garbage characters — "sf", "s", "ce", "ef", "es" — which is consistent with ditto marks but not proof of them. The *named* entries are certain; the repeats need a page image to confirm. Who M. E. Williams was, when the cups were first given, and when they lapsed are all undocumented.
+So in full: **Aquatics** — North Branch 1917–19, Central 1920, Westmount 1921–22. **Athletics** — Westmount
+1917, Central 1918–20, Westmount 1921–22.
+
+**Confirmed from the page image, 2026-09-06.** This table previously carried its repeats as
+*[ditto]* with a note that the reading was an inference, because the OCR renders the marks as "sf", "s",
+"ce", "ef" and "es". The page was fetched and read directly: the marks are plain double quotes and the
+inference was right.^36 The heading above the table is a question, not a record — "Which branch will win
+the M. E. Williams cups?" — so 1923 itself is not a result.
+
+**Who M. E. Williams was is still unknown, and there are four Williamses to keep apart.** The name occurs
+**exactly once** in this project's entire source cache: here. The annual reports for 1917 through 1924
+mention no cup, trophy or shield in a camp context, so neither the gift of the cups nor their lapse is
+documented. The reports do carry a **George E. Williams** — on the board 1913–18, an advisory member of
+the Italian Y.M.C.A. board from June 1915, chairman of the committee for Work Amongst Foreigners from
+January 1916 — whose initials are *G. E.*, not M. E., and none of whose recorded work is camp work. He is
+a candidate on dates alone and is not identified here. Two more Williamses are traps: **Sir George
+Williams**, the YMCA's founder, died in 1905 and gave his name to Sir George Williams College; and
+**C. T. Williams** was the association's President around 1899–1902.^36
 
 ### Two lost honours, recovered 2026-08-14
 
@@ -222,4 +239,5 @@ The order overlaps in membership with [[traditions/order-of-owens|the Order of O
 33. Kamp Kanawana season reports and newsletters in the Concordia-digitized YMCA of Montreal fonds: *The Green Triangle*, 29 July 1940 (Red Feather); the 1965 camp publication *The Chestnut* (Golden Arrow, Red Feather Revue); *Kanawana… A Place to Grow*, 1988 (founding dates for the Order of Owens, Knights of Kanawana and Walden Solos); *Kamp Kanawana Director's Report 1987* [src_ia_ymca_montreal_fonds_collection, src_ia_kanawana_place_to_grow_1988, src_ia_kanawana_report_1987].
 34. *The Gas Bag*, "Extra, Vol. 13 No. 1" (1923), Kamp Kanawana official paper (Internet Archive, Concordia-digitized fonds) [src_ia_ymca_montreal_fonds_collection].
 35. *The Green Triangle*, issues of 2 June 1938 and 21 July 1940 [src_ia_green_triangle_collection]. Full-text read of the verified 38-issue corpus, 2026-08-25. See [f_2281].
+36. The 1923 *Gas-Bag Extra*, page 1, **read from the page image** on 2026-09-06 [src_ymf_the_gas_bag_extra_vol_13_no_1]; and the YMCA of Montreal annual reports 1913–1924 for the Williams disambiguation [src_ia_ymca_montreal_annual_reports_collection]. See [f_4925], [f_4926].
 

@@ -4,6 +4,77 @@
   "updated": "2026-09-06",
   "images": [
     {
+      "id": "img_kanawana_from_the_water_1923",
+      "title": "Kanawana from the Water",
+      "caption_on_original": "Kanawana from the Water.",
+      "date": "1923",
+      "date_precision": "year",
+      "source": "The Gas-Bag Extra, Volume 13 Number 1 (1923), p. 2",
+      "source_ref": "same plate, panorama beneath",
+      "source_url": "https://archive.org/details/the-gas-bag-extra-vol-13-no-1",
+      "rights": "Published 1923 -- public domain in Canada.",
+      "linked_facts": [
+        "f_4927"
+      ],
+      "suggested_articles": [
+        "places-and-locations",
+        "the-kanawana-site",
+        "lake-wilson"
+      ],
+      "target_filename": "1923-kanawana-from-the-water.jpg",
+      "filename": "1923-kanawana-from-the-water.jpg",
+      "status": "acquired",
+      "priority": 1,
+      "notes": "The camp shoreline from the lake: a tent above the beach and a line of boats or canoes drawn up along the shore."
+    },
+    {
+      "id": "img_kanawana_dining_pavilion_1923",
+      "title": "Dining Pavilion, Kamp Kanawana",
+      "caption_on_original": "Dining Pavilion",
+      "date": "1923",
+      "date_precision": "year",
+      "source": "The Gas-Bag Extra, Volume 13 Number 1 (1923), p. 2",
+      "source_ref": "same plate, upper right",
+      "source_url": "https://archive.org/details/the-gas-bag-extra-vol-13-no-1",
+      "rights": "Published 1923 -- public domain in Canada.",
+      "linked_facts": [
+        "f_4927"
+      ],
+      "suggested_articles": [
+        "places-and-locations",
+        "the-kanawana-site"
+      ],
+      "target_filename": "1923-kanawana-dining-pavilion.jpg",
+      "filename": "1923-kanawana-dining-pavilion.jpg",
+      "status": "acquired",
+      "priority": 1,
+      "notes": "A large log building with a deep overhanging roof and an upper rail or gallery, boys along its front. The 1988 facilities table dates the dining hall and kitchen to 1919."
+    },
+    {
+      "id": "img_kanawana_pictorial_review_1923",
+      "title": "Kamp Kanawana Pictorial Review",
+      "caption_on_original": "KAMP KANAWANA PICTORIAL REVIEW",
+      "date": "1923",
+      "date_precision": "year",
+      "source": "The Gas-Bag Extra, Volume 13 Number 1 (1923), p. 2",
+      "source_ref": "Internet Archive item the-gas-bag-extra-vol-13-no-1, leaf n1",
+      "source_url": "https://archive.org/details/the-gas-bag-extra-vol-13-no-1",
+      "rights": "Published 1923 -- public domain in Canada. Credit the YMCA of Montreal fonds, digitized by Concordia University Records Management and Archives.",
+      "linked_facts": [
+        "f_4927"
+      ],
+      "suggested_articles": [
+        "places-and-locations",
+        "the-kanawana-site",
+        "green-triangle"
+      ],
+      "target_filename": "1923-kamp-kanawana-pictorial-review.jpg",
+      "filename": "1923-kamp-kanawana-pictorial-review.jpg",
+      "status": "acquired",
+      "priority": 1,
+      "notes": "Seven halftones with blackletter captions -- Stories around the Fire, Dining Pavilion, Senior Tent-site, A popular Spot, Next?, Basketry Instruction, Wrestling Class -- plus a shoreline panorama captioned 'Kanawana from the Water'. Found 2026-09-06 while fetching this issue's page image for the M. E. Williams cups table (p_261). Invisible to text search: the captions are blackletter set inside the plate and the OCR read only three."
+    },
+    {
       "id": "img_camp_club_house_1904",
       "title": "Camp Club House, Lake St. Joseph",
       "caption_on_original": "CAMP CLUB HOUSE, LAKE ST. JOSEPH",

@@ -1,6 +1,6 @@
 # Places and Locations at Camp Kanawana
 
-*Status: E1-reviewed | Sources: 23*
+*Status: E1-reviewed | Sources: 24*
 *Last Updated: 2026-09-06*
 
 ## Overview
@@ -47,6 +47,34 @@ neither of which appears anywhere else in this project; and, up at Saint-Adolphe
 Otoreke site, **Camp Kinkora**, which sits in the *de-officialised* register — "Camp-Kinkora" was
 replaced by "Kinkora, Camp" in 1984, a change of form rather than of name. Camp Tamaracouta itself is
 not registered; only its lake is.^23
+
+## Seven photographs of the camp, 1923
+
+The second page of the *Gas-Bag Extra* of 1923 is headed **"KAMP KANAWANA PICTORIAL REVIEW"** and carries
+seven halftones with blackletter captions, and a wide panorama beneath.^24 It had never been looked at:
+the captions are set inside the plate in blackletter and the OCR read only three of them, so no text
+search this project ran could see the page.
+
+![Kamp Kanawana Pictorial Review, 1923](../../assets/images/historical/1923-kamp-kanawana-pictorial-review.jpg)
+*"KAMP KANAWANA PICTORIAL REVIEW," The Gas-Bag Extra, Vol. 13 No. 1, 1923. Public domain in Canada.*
+
+The captions, in order: **"Stories around the Fire"** (a dark campfire scene); **"Dining Pavilion"**;
+**"Senior Tent-site"** — white wall tents pitched among trees; **"A popular Spot"** — the crowded interior
+of an open-sided pavilion; **"Next?"** — a barber at work on a veranda with boys watching; **"Basketry
+Instruction"** — a table of baskets and craftwork; and **"Wrestling Class."**
+
+**The dining pavilion**, upper right, is a large **log building** with a deep overhanging roof and an
+upper rail or gallery, boys standing along its front. The 1988 facilities table dates the dining hall and
+kitchen to 1919, which would make this a photograph of it four years old.
+
+![Dining Pavilion, 1923](../../assets/images/historical/1923-kanawana-dining-pavilion.jpg)
+*"Dining Pavilion," 1923.*
+
+And the panorama beneath is captioned **"Kanawana from the Water"** — the camp shoreline seen from the
+lake, a tent above the beach and a line of boats or canoes drawn up along the shore.^24
+
+![Kanawana from the Water, 1923](../../assets/images/historical/1923-kanawana-from-the-water.jpg)
+*"Kanawana from the Water," 1923.*
 
 ## Camp Areas and Sections
 
@@ -466,3 +494,4 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 21. Kanawana material in the Concordia-digitized YMCA of Montreal fonds: the camp orienteering map (catalogued 1974, internally c.1978+); "Kamp Kanawana History," 6 June 1951 [src_ia_kanawana_history_1951]; YMCA of Montreal Annual Reports 1929, 1952, 1953, 1954 [src_ia_ymca_montreal_annual_reports_collection]; *The Green Triangle* 13 August 1932; Kanawana season reports 1969, 1974, 1976, 1978, 1979 and 1987 [src_ia_kanawana_report_1969, src_ia_kanawana_report_1974, src_ia_kanawana_directors_report_1976, src_ia_kanawana_report_1978, src_ia_kanawana_report_1979, src_ia_kanawana_report_1987]; and *Kanawana… A Place to Grow*, 1988 [src_ia_kanawana_place_to_grow_1988] — whose facilities table gives bracketed construction years including house [1935], infirmary [1945], **lodge [1880's]**, dining hall/kitchen [1919], arts & crafts centre [1932] and bathroom buildings [1945]. *Two of those conflict with the 1951 history, which gives the dining hall as 1920 and the lodge as 1927. The 1880s lodge date is the harder problem: the site was not purchased until 1910, so it would have to be a pre-existing farm structure later converted. Both readings are defensible and neither is adopted here.*
 22. Letter from Prime Minister Pierre Elliott Trudeau to Kamp Kanawana on the opening of its new recreational building, framed original photographed by the operator, 2026-09-05 [src_photo_trudeau_letter_1978]; and the *Kamp Kanawana Director's Annual Report 1978* [src_ia_kanawana_report_1978], which prints an abridged version of the same letter as its frontispiece and supplies the date. Image at `assets/images/documents/trudeau-letter-1978-katimavik.jpg`. See [f_4828], [f_4829], [f_4830].
 23. Commission de toponymie du Québec: the *Toponymes officiels* and *Toponymes désofficialisés* datasets, and the fiches for Lac Kanawana, Lac Wilson, Camp Kanawana and the lieu-dit Kanawana [src_donneesquebec_bnlq_2026], [src_ct_fiches_kanawana_2026]. Queried 2026-09-06 (p_264). See [f_4874], [f_4877], [f_4890], [f_4891].
+24. *The Gas-Bag Extra*, Volume 13 Number 1 (1923), p. 2, "Kamp Kanawana Pictorial Review" [src_ymf_the_gas_bag_extra_vol_13_no_1]. Page image fetched and read 2026-09-06. Images cropped to `assets/images/historical/` and registered in `assets/images/credits.json`. See [f_4927].

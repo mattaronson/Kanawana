@@ -1,8 +1,8 @@
 {
-  "version": "6.64",
-  "kb_version": "6.64",
+  "version": "6.65",
+  "kb_version": "6.65",
   "migrated_from": "3.3",
-  "fact_count": 4886,
+  "fact_count": 4889,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87748,6 +87748,65 @@
       "date_ref": "1924/1930",
       "conflicts_with": [],
       "added_version": "6.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4925",
+      "claim": "THE M. E. WILLIAMS CUPS TABLE IS CONFIRMED FROM THE PAGE IMAGE, AND THE INFERENCE WAS RIGHT. p_261 asked for a page image of the 1923 Gas-Bag Extra because the OCR rendered the table's ditto marks as garbage (\"sf\", \"s\", \"ef\", \"ss\", \"ce\", \"es\") and the repeat years were an inference. The page was fetched and the table read directly 2026-09-06. The marks are plain double quotes and the reading holds. AQUATICS: 1917 NORTH BR., 1918 \", 1919 \", 1920 CENTRAL, 1921 WESTMOUNT, 1922 \". ATHLETICS: 1917 WESTMOUNT, 1918 CENTRAL, 1919 \", 1920 \", 1921 WESTMOUNT, 1922 \". So in full -- Aquatics: North Branch 1917-19, Central 1920, Westmount 1921-22. Athletics: Westmount 1917, Central 1918-20, Westmount 1921-22. The heading above the table is a question, not a record: \"Which branch will win the M. E. Williams cups?\"",
+      "sources": [
+        "src_ymf_the_gas_bag_extra_vol_13_no_1"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "M. E. Williams cups",
+        "Kamp Kanawana",
+        "North Branch",
+        "Central Branch",
+        "Westmount Branch"
+      ],
+      "date_ref": "1917/1922",
+      "conflicts_with": [],
+      "added_version": "6.65",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4926",
+      "claim": "M. E. WILLIAMS IS NOT IDENTIFIED, AND THERE ARE THREE WILLIAMSES TO KEEP APART. The name \"M. E. Williams\" occurs EXACTLY ONCE in this project's entire source cache -- in the 1923 Gas-Bag Extra itself. The annual reports for 1917 through 1924 mention no cup, trophy or shield in a camp context, so neither the gift of the cups nor their lapse is documented. WHAT THE REPORTS DO CARRY IS A DIFFERENT MAN: GEORGE E. WILLIAMS, on the association's board list in 1913, 1914, 1915, 1916, 1917 and 1918, appointed in June 1915 an Advisory Member of the Board of the Italian Y.M.C.A. alongside W. E. Cushing, and from January 1916 Chairman of the new committee for Work Amongst Foreigners. HIS INITIALS ARE G. E., NOT M. E., AND NOTHING RECORDED OF HIM IS CAMP WORK. He is a candidate on dates alone -- the cups begin in 1917, in the middle of his board service -- and this fact does not identify him. THE THIRD WILLIAMS IS A TRAP: SIR GEORGE WILLIAMS, founder of the YMCA, died in England in 1905 and gave his name to Sir George Williams College; the 1916 report mentions his death in the same volume as George E. Williams. And a FOURTH, C. T. WILLIAMS, was the association's President around 1899-1902. Four Williamses, one of whom gave two cups, and the record does not say which.",
+      "sources": [
+        "src_ymf_the_gas_bag_extra_vol_13_no_1",
+        "src_ia_ymca_montreal_annual_reports_collection"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "M. E. Williams",
+        "George E. Williams",
+        "Sir George Williams",
+        "C. T. Williams",
+        "M. E. Williams cups"
+      ],
+      "date_ref": "1917",
+      "conflicts_with": [],
+      "added_version": "6.65",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4927",
+      "claim": "SEVEN PHOTOGRAPHS OF KANAWANA FROM 1923, ON A PAGE NOBODY HAD LOOKED AT. The second page of the 1923 Gas-Bag Extra is headed \"KAMP KANAWANA PICTORIAL REVIEW\" and carries SEVEN HALFTONES with blackletter captions, plus a wide panorama beneath. The captions: \"Stories around the Fire\" (a dark campfire scene); \"DINING PAVILION\" -- a large LOG BUILDING with a deep overhanging roof and an upper rail or gallery, boys standing along its front; \"Senior Tent-site\" -- white wall tents pitched among trees; \"A popular Spot\" -- the crowded interior of an open-sided pavilion; \"Next?\" -- a barber at work on a veranda with boys watching; \"Basketry Instruction\" -- a table of baskets and craftwork; \"Wrestling Class\". THE PANORAMA IS CAPTIONED \"KANAWANA FROM THE WATER\": the camp shoreline seen from the lake, a tent visible above the beach and a line of BOATS OR CANOES DRAWN UP along the shore. THESE ARE PHOTOGRAPHS OF KANAWANA ITSELF, not of the Lac St. Joseph predecessor, and the dining pavilion picture is a view of the building the 1988 facilities table dates to 1919. The page was invisible to every text search because its captions are set in blackletter inside the plate and the OCR read only three of them. Cropped to assets/images/historical/.",
+      "sources": [
+        "src_ymf_the_gas_bag_extra_vol_13_no_1"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Kamp Kanawana",
+        "dining pavilion",
+        "The Gas Bag"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "6.65",
       "added_by": "ralph_loop"
     }
   ]
