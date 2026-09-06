@@ -1,7 +1,7 @@
 # The Canadian Camping Movement
 
 *Status: E1-reviewed | Sources: 17*
-*Last Updated: 2026-09-06 (the Quebec association spun out to its own article)*
+*Last Updated: 2026-09-06 (Hay Finlay spun out; the 1982-85 run given its own heading)*
 
 ## Summary
 
@@ -302,45 +302,16 @@ One caution about the edition, which matters to anyone trying to obtain it. The 
 
 **A book with specimens of every camp business form, written by a member of Kanawana's own provincial association and published in the year the camp's record is thinnest, is a direct aid to reading whatever Kanawana papers survive** — and a second route, after the Ontario forms kit of 1980, to knowing what the blanks looked like. It is also, incidentally, the fourth McGill connection this article records, after Arthur S. Lamb, the McGill camping school of 1937-40, and Blackstock's own B.Sc.
 
-### Hay Finlay: the named individual on both sides
+### Kanawana in the camping organizations' archives
 
-Open Question 4 below has said, through several revisions, that no named individual has been
-confirmed on both sides of the Kanawana-to-Nominingue connection, and recorded that Camp Nominingue's
-counsellor Marc Beique was checked specifically and produced nothing. **That question was answered
-inside this project's own knowledge base and nobody carried the answer into this article.**
+**The one named individual on both sides of the Kanawana-Nominingue connection was Hay Finlay**, Kanawana's senior section director of 1922, who co-founded Camp Nominingue with F. M. Van Wagner two or three years later and was the Canadian Camping Association's Secretary-Treasurer by February 1949. His career is at [[people/hay-finlay|Hay Finlay]]. It answers the open question this article carried through several revisions, which had recorded that Camp Nominingue's counsellor Marc Beique was checked specifically and produced nothing — the answer was in this project's own knowledge base the whole time, and nobody had put the pieces beside each other.
 
-**Hay Finlay** is in [[people/directors-index|the directors index]] as Kanawana's **Senior Section
-Director in 1922**, "ex-Central YMCA Boys' Physical Director, then at McGill Physical Education",
-from the camp's own 1922 brochure. He is also, in *Canadian Camping*, the man who founded Camp
-Nominingue with F. M. Van Wagner. G. H. Merrill's February 1963 profile of Van Wagner puts it
-plainly: "**In the fall of 1924, Van and a McGill associate of his, Hay Finlay, decided that they
-would operate their own camp.**" Anne Vail's 1954 profile says the same from the other end: "He was
-co-founder of this Camp with **Hay Finlay** in 1925."^12 The same Hay Finlay is the Canadian Camping
-Association's **Secretary-Treasurer in February 1949**, at 475 Pine Avenue West, Montreal.^12
-
-So the Kanawana section director of 1922 co-founded, two or three years later, the Laurentian private
-camp that dominates the Quebec content of the national magazine for the next forty years — and then
-became an officer of the national association. That is not a thin connection between Kanawana and the
-movement. It is the same man.
-
-**And a Montreal memoir adds what he did in between.** *The McGill You Knew: An Anthology of
-Memories, 1920-1960* (1975) names him among the university's coaches — "Shag Shaughnessy, Bert Light,
-Van Wagner, George Vickerson, Frank Saxton, **Hay Finlay** and our chief sport administrator, Major
-Stuart…" — and describes the camp's character:^15
-
-> "In the off season, Van and Hay Finlay, the gymnastics and soccer coach, developed Camp Nominingue
-> in County Labelle, where many students worked as counsellors in the summer. Though a private
-> venture, the camp was closely connected with the university by personal associations, and was known
-> as '**Camp McGill**' to all the residents of the area."
-
-**Camp McGill** is the phrase worth keeping. It is what a private Laurentian camp founded by two
-university coaches and staffed by their students was called by the people who lived around it — and
-it is the same channel, personal rather than institutional, by which Kanawana's own staff moved
-through the McGill Physical Education department in the same years.
 
 **The CCA's national office was in Montreal from 1958 to 1961**, for the length of Van Wagner's presidency.^8x And the association's **annual meeting of October 1974 was held in Montreal** — stated twice in the same issue, in the tributes to Van Wagner and to Charles Plewman.^8x Both are periods and events for which minutes would name Quebec camps and camp people.
 
 Camp Kanawana's relationship to the formal camping organizations is documented in several archival sources. The Ontario Camping Association fonds at Trent University (72-007) holds a "Kanawana (1940)" file in its Camp Brochures and Photographs series, confirming Kanawana had a presence in the OCA network by the early 1940s.^8h In the OCA's Agency Liaison series (fonds 78-006), Kanawana is listed among "Y" camps alongside Wanakita, Wa-sa-ah-bun, Tapatoo, Tapawingo, Pinecrest, and Camp Stephens.^8i The CCA fonds at Trent associates "Kamp Kanawana" with Derek Walsh and the YMCA in Montreal.^8j Concordia Archives sub-series P0145/12A holds "History of Camping" notes dated 1936, the same year the CCA was founded.^8k The same sub-series (P0145/12N03) contains records of the Canadian Camping Association founding (1936–1937), the QCA constitution (1937, 1942), the McGill camping school (1937–1940), and lists of camps, officials, and counsellors (1939–1948).^8l
+
+### The association's own record of itself, 1982-1985
 
 **The 1982 statistics, fully labelled at last — and every Quebec member camp was accredited.** The 1982 Annual Report, bound into the Summer 1983 issue, prints "CCA/ACC STATISTICS 1982 - SUMMER" broken down by province with every heading legible, which is the first time in this run that the association's provincial tables can be read without guesswork. Quebec returned **129 member camps, of which 129 were accredited and none were not** — the only province in the table where those two numbers are identical (nationally, 500 of 618 were accredited). It reported 117 resident camps and 10 day camps, **15,791 camper-beds**, **52,977 individual campers**, **820,812 camper-days**, **4,618 paid staff against 790 volunteers**, a wage bill of **$5.371 million** and a food bill of **$3.208 million**.^8ay
 
@@ -782,7 +753,7 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 
 14. Armand B. Ball, *Basic Camp Management: An Introduction to Camp Administration* (Monterey, CA: Healthy Learning, 2012), "An American Camp Association book", Internet Archive scan leaf 436 [src_ball_basic_camp_management_2012]. **One sentence only**, reconstructed 2026-09-06 from seven overlapping Open Library search-inside queries and walked to a sentence boundary in both directions; the book is lending-restricted, page images return HTTP 403, and it has not been read. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-dlb-362-mclean-and-basic-camp-management.txt`. See [f_4950].
 
-15. *The McGill You Knew: An Anthology of Memories, 1920-1960* (Don Mills: Longman Canada, 1975), Internet Archive scan leaf 314 [src_mcgill_you_knew_1975]. **One passage only**, reconstructed 2026-09-06 from ten overlapping Open Library search-inside queries and walked to a chapter break; the book is lending-restricted, page images return HTTP 403, and it has not been read. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-mcgill-you-knew-hay-finlay.txt`. See [f_4959].
+15. *The McGill You Knew: An Anthology of Memories, 1920-1960* (Don Mills: Longman Canada, 1975), Internet Archive scan leaf 314 [src_mcgill_you_knew_1975]. **One passage only**, reconstructed 2026-09-06 from thirteen overlapping Open Library search-inside queries and walked to a chapter break; the book is lending-restricted, page images return HTTP 403, and it has not been read. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-mcgill-you-knew-hay-finlay.txt`. See [f_4959].
 16. R. J. Colville, first-person career sketch (typescript, c. 1920), YMCA of Montreal fonds [src_ymf_1920_biography_of_r_j_colville]. See [f_5015]. Found by reading the document whole under p_441; the item had been keyword-swept and the sweep reached none of this.
 17. "Come to Kanawana" brochure, 1928 season, YMCA of Montreal fonds [src_ymf_1928_come_to_kanawana_brochure]. See [f_5028].
 

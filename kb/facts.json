@@ -1,8 +1,8 @@
 {
-  "version": "7.98",
-  "kb_version": "7.98",
+  "version": "7.99",
+  "kb_version": "7.99",
   "migrated_from": "3.3",
-  "fact_count": 5082,
+  "fact_count": 5085,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91659,6 +91659,52 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.98",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5121",
+      "category": "people",
+      "date_ref": "1914",
+      "entities": [
+        "Hay Finlay",
+        "YMCA of Montreal",
+        "Camp Nominingue"
+      ],
+      "claim": "HAY IS HIS GIVEN NAME, AND HE ENTERED YMCA WORK IN 1914. The 1921 Year Book and Official Rosters of the YMCAs of North America carries an Alphabetical List of Employed Officers, ordered SURNAME FIRST, which gives \"Finlay, Hay, Montreal, Que., Central, Asst. Physical, 14\". The same list carries a printed legend: \"the figures after each name indicate the year of entry into Association work\". So (a) Hay is the given name and Finlay the surname, which every narrative source seen -- the 1922 Kanawana brochure, Canadian Camping across three decades, The McGill You Knew -- had left open by giving him only as \"Hay Finlay\"; and (b) he entered YMCA work in 1914, seven years before that volume and eight before he ran Kanawana's senior section in 1922. THE LINE HAD BEEN PASSED OVER THREE TIMES: W. H. Ball's 89, Harold C. Cross's 12 and Nelson McEwen's 18 were all already read off this same list, from this same cached file (sources/cache/ymca-yearbooks/1921-ymca-year-book-official-rosters-montreal.txt), and Cross's line sits two rows above Finlay's. A document read once for one name is not a document read.",
+      "sources": [
+        "src_ymca_year_book_official_rosters_1921"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5122",
+      "category": "methodology",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project"
+      ],
+      "claim": "A SECTION NAMED AFTER A PERSON CONTAINED 3,450 WORDS THAT WERE NOT ABOUT HIM. connections/institutional-lineage/canadian-camping-movement.md carried a 4,056-word subsection headed 'Hay Finlay: the named individual on both sides'. Only about 600 words concerned Finlay. The rest was a chronological run through the national association's affairs of 1982-1985 -- the 1982 and 1983 provincial statistics, the National Standards Workshop, Mary Roy and the national office, National Camping Day 1984, the OCA's Blue Lake and Rocky Shore, the ACQ's 1983-84 report, the French Language Committee's founding date, International Youth Year, and child abuse appearing on a national camp directors' programme in January 1985 -- appended under whatever heading was last. THE HEADING WAS LOAD BEARING FOR NOTHING AND MISLEADING FOR EVERYTHING: spinout_audit.py had this listed as a 4,056-word person-section, i.e. the audit was reporting a person article that did not exist while the material actually there went unnamed. Finlay spun out to people/hay-finlay.md; what remained was split under two accurate headings. THE GENERAL FORM: scripts/wiki/spinout_audit.py measures section length and cannot see whether a section's contents match its heading, and neither can prose_dupes.py. Nothing in the toolchain does.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5123",
+      "category": "methodology",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project"
+      ],
+      "claim": "TWO COPIES OF THE SAME SOURCE NOTE HAD DRIFTED, AND THE STALER ONE WAS THE OLDER ARTICLE'S. The note for The McGill You Knew appeared in both canadian-camping-movement.md and directors-index.md. One said the passage was reconstructed from TEN overlapping Open Library search-inside queries, the other from THIRTEEN. The cache file lists the queries in order and there are thirteen, so the movement article's copy was written first and never updated when three more queries were run. Corrected in place 2026-09-06 and the correct count carried into people/hay-finlay.md. SMALL, BUT IT IS f_5119'S POINT IN MINIATURE: a fact written twice is a fact that can later be corrected once, and the copy a reader happens to hit decides what they believe. It also shows the drift reaching SOURCE NOTES, not just body prose -- where it is worse, because a source note is what a later reader uses to judge how much weight a claim can carry.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.99",
       "added_by": "manual"
     }
   ]
