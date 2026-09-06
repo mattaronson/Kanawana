@@ -1,8 +1,8 @@
 {
-  "version": "8.18",
-  "kb_version": "8.18",
+  "version": "8.19",
+  "kb_version": "8.19",
   "migrated_from": "3.3",
-  "fact_count": 5115,
+  "fact_count": 5119,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -92203,6 +92203,72 @@
       "confidence": "disputed",
       "conflicts_with": [],
       "added_version": "8.18",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5154",
+      "category": "programs",
+      "date_ref": "1996",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE CAMP'S USE BY OUTSIDE GROUPS HAS A FIRST AND A DATE: SUMMER 1996. The Montreal YMCA's 1996 annual report: 'Kamp Kanawana's year was one full of tradition and innovation. THIS WAS THE FIRST TIME THAT PROGRAMS WERE OFFERED TO GROUPS OTHER THAN SUMMER CAMPERS. A group of 50 KOREAN STUDENTS BETWEEN THE AGES OF 11 AND 15 participated in traditional camp activities for FOUR DAYS, sleeping in tents, cooking on open fires and INTEGRATING WITH THE CAMPERS.' The form of the first instance matters: not an out-of-season rental of an empty site, but a visiting group placed inside the running camp. THE SAME PAGE: 'The occupancy rate during the SUMMER OF 96 WAS 92%. In addition to campers from Quebec and several other Provinces, campers came from as far afield as the ARCTIC, ICELAND, ENGLAND, FRANCE, GERMANY, SPAIN, RUSSIA, HUNGARY, KOREA AND THE USA.' The 92% was already in meta/attendance-series.md; the eleven origins were not. NOTE THAT KOREA APPEARS ON THAT LIST AND IS PRESUMABLY THE VISITING GROUP RATHER THAN REGISTERED CAMPERS, WHICH THE SENTENCE DOES NOT DISTINGUISH.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1996"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.19",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5155",
+      "category": "people",
+      "date_ref": "1996",
+      "entities": [
+        "John E. Cleghorn",
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "JOHN CLEGHORN WAS A KANAWANA COUNSELLOR, NOT ONLY A CAMPER, AND HE RECEIVED AN AWARD THIS PROJECT DID NOT HAVE. The Montreal YMCA's 1996 annual report: 'John's early experience with the YMCA was FIRST AS A CAMPER AND LATER AS COUNSELOR AT KAMP KANAWANA.' people/notable-alumni/john-cleghorn.md had carried him as a camper only. AND THE AWARD: at the HERITAGE CLUB'S 13TH ANNUAL BANQUET ON 22 APRIL 1996 -- the club then 'comprises over one hundred members' and exists so the association can 'pay tribute to those individuals who have made an important contribution to the development of the Association' -- Cleghorn was 'the honouree and recipient of the GABRIELLE AND MAURICE MASSE AWARD... in recognition of the leadership he provided as CHAIRMAN OF THE MONTREAL YMCA during A PARTICULARLY TUMULTUOUS TIME IN ITS HISTORY and the important role he played during the Foundation's last capital campaign.' 'SEVERAL KANAWANA ALUMNI WERE PRESENT AT THE BANQUET and the years have not hindered the lively spirit of the former campers and staff.' THREE THINGS THE REPORT DOES NOT SAY and which appear nowhere else in this project: which years he was a camper or counsellor, what the 'tumultuous time' was, and who Gabrielle and Maurice Masse were.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1996"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.19",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5156",
+      "category": "site",
+      "date_ref": "2009",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "PHASE I OF THE DEVELOPMENT PROJECT, AND A FOURTH MONEY FIGURE THAT MEASURES SOMETHING DIFFERENT AGAIN. The report for the year ended 31 December 2009: 'Phase I of the Kanawana Development Project is coming to an end. The camp's young campers and counsellors will soon be able to experience the 12 NEW THREE-SEASON CABINS ERECTED THIS YEAR on its wonderfully forested site in Saint-Sauveur. The cabins and the two sanitary facilities (completed in 2007), were made possible thanks to OVER $1.8 MILLION IN DONATIONS. The fundraising campaign is ongoing with the final objective being the construction of TWO LEARNING PAVILIONS IN 2010-2011, thus completing Phase I.' THE $1.8 MILLION IS DONATIONS ACTUALLY RECEIVED by the end of 2009, against the $4 MILLION CAMPAIGN TARGET of 2005-06 (f_5147) and the $4.4 to $5 MILLION PROJECT INVESTMENT of 2006 and 2007 (f_5143). Together they say the campaign was somewhat under halfway when Phase I's buildings were finished, WHICH IS A FACT ABOUT THE FUNDRAISING AND NOT ABOUT THE BUILDINGS. Four figures now exist across five annual reports and each measures a different quantity; none is a revision of another.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2009"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.19",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5157",
+      "category": "methodology",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project"
+      ],
+      "claim": "I DERIVED A SOURCE ID FROM A FILENAME FOR THE THIRD TIME THIS SESSION, AND THE WIDENED CHECK CAUGHT IT. Wrote src_ymf_sgw_ymca_annual_report_1996 into two articles on the pattern of its neighbours; the record is src_cache_sgw_ymca_annual_report_1996. The cached 1996 file is one of the minority catalogued under the src_cache_ prefix rather than src_ymf_, and nothing in the filename says which. Caught by verify_harness's whole-wiki [src_] existence pass, widened earlier the same day under f_5120 -- WHICH IS THE PASS EXISTING FOR EXACTLY THIS, and it caught the E1-reviewed article too, which the old draft-only scope would have missed. THE RULE HAS NOW BEEN BROKEN AFTER BEING WRITTEN DOWN TWICE, so it is worth stating what actually prevents it rather than restating the rule: run the lookup as a command before typing the id, not from memory of the pattern. The neighbouring ids in the same article being src_ymf_ is precisely what makes the wrong guess feel right.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.19",
       "added_by": "manual"
     }
   ]

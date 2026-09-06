@@ -1,6 +1,6 @@
 # John Cleghorn
 
-*Status: draft | Sources: 6*
+*Status: draft | Sources: 7*
 *Last Updated: 2026-08-28*
 
 ## Overview
@@ -22,6 +22,14 @@ Cleghorn served as Chairman and CEO of the Royal Bank of Canada from 1994 to 200
 2. [Nice-to-have, partly answered 2026-08-28] Which years did Cleghorn attend Kanawana? **1956 is now documented** — he is named on that year's Rangers plaque (f_1670). The surrounding years remain unknown; the album holds Rangers plaques for 1955, 1959, 1960, 1961, 1962, 1963 and 1964, and he is on none of them, which is weak evidence he attended only briefly but is not conclusive, since not every year's board survives.
 3. [Nice-to-have] What prompted Cleghorn's continued canoe-tripping tradition at Kanawana with his own children, and over what span of years did it occur?
 
+## The Massé Award, 1996, and a counsellor year
+
+The Montreal YMCA's 1996 annual report adds two things. **He was a counsellor, not only a camper**: "John's early experience with the YMCA was **first as a camper and later as counselor at Kamp Kanawana**."^7 This article had carried him as a camper.
+
+And it records an award this project did not have. At the **Heritage Club's 13th annual banquet on 22 April 1996** — the club then comprising "over one hundred members" and existing so the association could "pay tribute to those individuals who have made an important contribution to the development of the Association" — Cleghorn was **the honouree and recipient of the Gabrielle and Maurice Massé Award**, "in recognition of the leadership he provided as Chairman of the Montreal YMCA during a particularly tumultuous time in its history and the important role he played during the Foundation's last capital campaign."^7 **"Several Kanawana alumni were present at the banquet and the years have not hindered the lively spirit of the former campers and staff."**
+
+**What the report does not say** is which years he was a camper or a counsellor, what the "tumultuous time" was, or who Gabrielle and Maurice Massé were. None of the three appears elsewhere in this project.
+
 ## Related Articles
 
 - [[people/notable-alumni/notable-alumni|Notable Alumni of Camp Kanawana]]
@@ -36,6 +44,7 @@ Cleghorn served as Chairman and CEO of the Royal Bank of Canada from 1994 to 200
 4. Oral history, Matt Aronson (camp attendance, canoe-tripping tradition, birth date, education, RBC/CPR/SNC-Lavalin roles) [src_oral_aronson].
 5. Wikipedia, "John Cleghorn" [src_wikipedia_john_cleghorn].
 6. Kanawana Flickr "Plaque" album, "Rangers 56" plaque [src_flickr_kanawana_plaque_album]. See [f_1670].
+7. Montreal YMCA annual report 1996 [src_cache_sgw_ymca_annual_report_1996], the Heritage Club banquet page. Read 2026-09-06 under p_454; this volume had been marked unread and has no Wayback twin.
 
 ## Research Notes
 

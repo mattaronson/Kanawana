@@ -22014,7 +22014,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "partial",
-      "read_state_basis": "read for Kanawana content 2026-09-06 under p_454; the rest of the volume not read. Produced f_5148, f_5149 and/or f_5150."
+      "read_state_basis": "read for Kanawana content 2026-09-06 under p_454; the rest of the volume not read."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_2009_fr",
@@ -27754,8 +27754,8 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "read_state": "unread",
-      "read_state_basis": "none: catalogued 2026-09-02 from a cached file that belonged to no source record",
+      "read_state": "partial",
+      "read_state_basis": "read for Kanawana content 2026-09-06 under p_454; the rest of the volume not read.",
       "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read."
     },
     {

@@ -350,6 +350,10 @@ question, and the association's own records would answer it.
 
 ### The Site as a Venue for Outside Programmes
 
+**The first time, and it is dated: summer 1996.** The Montreal YMCA's annual report for that year says so plainly: "Kamp Kanawana's year was one full of tradition and innovation. **This was the first time that programs were offered to groups other than summer campers.** A group of **50 Korean students between the ages of 11 and 15** participated in traditional camp activities for **four days**, sleeping in tents, cooking on open fires and **integrating with the campers**."^ar96 That sets a date on the practice this section describes, and the form of the first instance is worth noting: not a rental of an empty site out of season, but a visiting group placed inside the running camp.
+
+**The same page gives the summer's occupancy and where the campers came from.** "The occupancy rate during the **Summer of 96 was 92%**. In addition to campers from Quebec and several other Provinces, campers came from as far afield as the **Arctic, Iceland, England, France, Germany, Spain, Russia, Hungary, Korea and the USA**."^ar96 The 92% is already in [[meta/attendance-series|The Attendance Series]]; the eleven origins are not, and the Korean entry on that list is presumably the visiting group above rather than registered campers, which the sentence does not distinguish.
+
 Kanawana is also used by organizations with no institutional tie to the YMCA, a pattern that predates
 the current rentals business and is documented from at least the early 2010s. In September 2011 the
 girls' physical-activity organization FitSpirit (Fillactive) held a weekend at the camp for "une
@@ -417,6 +421,7 @@ environmental-education positioning without originating from it.
 8. What was the Pathfinder program Summer Summary (1965 archives listing)? Was it the existing boys' section (est. 1959) or something new?
 
 ## Sources
+- **ar96** — Montreal YMCA annual report **1996** [src_cache_sgw_ymca_annual_report_1996], the Kamp Kanawana page. Read 2026-09-06 under p_454; the volume had been marked unread and has no Wayback twin.
 - **ar37** — YMCA of Montreal Annual Report for the year ending 31 March 1937 [src_cache_sgw_ymca_annual_report_1937], camping season **1936**. See [f_5072].
 - **ar38** — the same series for the year ending 31 March 1938 [src_ymf_sgw_ymca_annual_report_1938], camping season **1937**. See [f_5073].
 - **ar39** — the same series for the year ending 31 March 1939 [src_ymf_sgw_ymca_annual_report_1939], camping season **1938**. See [f_5073].
