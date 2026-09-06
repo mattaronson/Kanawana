@@ -224,6 +224,15 @@ THREE PIECES OF ADVICE, THE FIRST OF WHICH IS NEW AND COST SOMETHING.
   entry above is what happens when it is skipped: a full-text index of millions of books returned
   243 hits about the wrong man, and the right one was in this repo. Sixteen of the twenty-four
   names swept so far returned nothing usable from the corpus, and at least one of them was here.
+  AND BEFORE ANY OF THAT, READ THIS: THE OPEN LIBRARY SEARCH-INSIDE API PAGES, AND EVERY NAME SWEPT
+  THROUGH IT BEFORE 2026-09-06 SAW ONE PAGE. A query reports its total and returns TWENTY hits. The
+  parameter is &page=N; &from= and &offset= are accepted and silently ignored. So a name recorded
+  here as returning "N hits, none of them him" was checked against at most twenty of them, and a
+  name with 243 hits was checked against 8% of them. THE HIGH-COUNT NAMES IN THIS FILE ARE NOT
+  SWEPT, THEY ARE SAMPLED — Holliday's 243 Indianapolis hits above are the clearest case, and he
+  turned out to be in this repo's own cache all along. Re-run the common names with paging before
+  trusting any null recorded here. See f_4998.
+
   (Word boundaries matter when you do it: "Ereaux" matches "Devereaux" and "Spinney" matches the
   noun "spinneys", both of which produced false hits in the first pass. AND SPACING MATTERS AS MUCH:
   these scans' OCR routinely puts TWO OR MORE SPACES between words, so a full name typed naturally —

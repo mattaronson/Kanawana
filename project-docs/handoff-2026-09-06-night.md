@@ -267,6 +267,29 @@ already been committed. **Write the claim, then read the source again as though 
 written the claim.** The verify scripts check structure, citations and labelling; they cannot tell
 you that your query was the wrong shape. Only the source can.
 
+## 27, and it invalidates work rather than merely adding to it
+
+**A count is not a list, and the search-inside API pages.** `openlibrary.org/search/inside.json`
+reports a `total` and returns **twenty**. The parameter is `&page=N`; `&from=` and `&offset=` are
+accepted and silently ignored, which is worse than being rejected. This project has carried
+"Kanawana returns seventy-six" since the capability was found and had been working from the first
+page of it for the whole time.
+
+The 76 are now enumerated in full, and the reassuring half is that every item among them actually
+about the camp was already registered — the first page had the substance. **The unreassuring half
+is the name sweep.** Every name run through this API before 2026-09-06 was checked against at most
+twenty hits. A name logged as "243 hits, none of them him" was checked against eight per cent of
+them; that name was W. J. Holliday, who was in this repo's own cache all along. **The high-count
+names in that log are sampled, not swept**, and the nulls recorded against them do not mean what
+they say. A caveat to that effect is now at the top of the sweep log's advice section.
+
+Two smaller things from the same hour. Each hit's `identifier` field is **a list, not a string**,
+so `str(fields['identifier'])` never matches a bare identifier and yields a false null — extract
+with `[0]`. And when a hit looks like a find, check the word rather than the string: of the 76,
+one large cluster is **the Tapirapé term for thunder**, one is **Kiri Te Kanawa**, one is the
+**Kanawha River**, one is a Japanese word in Hepburn's dictionary, and one is **Kanawa Magazine**
+of the Canadian Recreational Canoeing Association behind an OCR'd second "na".
+
 ## Open questions for Matt
 
 Carried forward: whether the Pip-committee work belongs in `people/matt-aronson.md`; whether there is

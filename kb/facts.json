@@ -1,8 +1,8 @@
 {
-  "version": "7.19",
-  "kb_version": "7.19",
+  "version": "7.20",
+  "kb_version": "7.20",
   "migrated_from": "3.3",
-  "fact_count": 4959,
+  "fact_count": 4960,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87914,7 +87914,7 @@
         "Internet Archive",
         "Open Library"
       ],
-      "claim": "A WORKING FULL-TEXT SEARCH OF THE INTERNET ARCHIVE'S BOOK CORPUS, INCLUDING BOOKS THAT CANNOT BE READ. Open Library's endpoint https://openlibrary.org/search/inside.json?q=<phrase> searches inside scanned books and RETURNS HIGHLIGHTED SNIPPETS FOR LENDING-RESTRICTED AND PRINT-DISABLED ITEMS, together with the item identifier and the SCAN LEAF NUMBER. Verified 2026-09-06 by curl from this environment; no authentication. A quoted phrase is matched as a phrase; several bare terms are ANDed. THIS CLOSES A DEAD END THIS PROJECT HAD RECORDED AS CONFIRMED: wiki/people/j-w-mcconnell.md open question 1 said, on 2026-07-09, that searching inside the Fong biography of J.W. McConnell was impossible because the Internet Archive's own search-inside API returned HTTP 403 for every query, 'the print-disabled status blocks search-inside just as it blocks borrowing', and that 'only physical/operator access to the book remains'. That was true of the route tried and false of the world. The IA endpoints still fail from here -- archive.org/download/<id>/<id>_djvu.txt returns 403 for a restricted item, and fulltext/inside.php on the item's own server returns 'Item not available' -- so the Open Library route is not a variant of them but a different service. METHOD FOR READING PAST THE SNIPPET: each query returns a window of about a dozen words around the match, so overlapping phrase queries walk the text outwards. Searching the last four words of a snippet returns the next window. A paragraph can be reconstructed in six to ten queries. Sleep about two seconds between calls; the endpoint intermittently answers with non-JSON under load, which is a rate limit and not an absence. A NEGATIVE RESULT FROM THIS ENDPOINT IS STILL A FACT ABOUT THE ENDPOINT: OCR errors defeat phrase matching, and this project has already seen 'Lurther' for 'Further' and 'di- rector' hyphenated across a line break inside the corpus.",
+      "claim": "A WORKING FULL-TEXT SEARCH OF THE INTERNET ARCHIVE'S BOOK CORPUS, INCLUDING BOOKS THAT CANNOT BE READ. Open Library's endpoint https://openlibrary.org/search/inside.json?q=<phrase> searches inside scanned books and RETURNS HIGHLIGHTED SNIPPETS FOR LENDING-RESTRICTED AND PRINT-DISABLED ITEMS, together with the item identifier and the SCAN LEAF NUMBER. Verified 2026-09-06 by curl from this environment; no authentication. A quoted phrase is matched as a phrase; several bare terms are ANDed. THIS CLOSES A DEAD END THIS PROJECT HAD RECORDED AS CONFIRMED: wiki/people/j-w-mcconnell.md open question 1 said, on 2026-07-09, that searching inside the Fong biography of J.W. McConnell was impossible because the Internet Archive's own search-inside API returned HTTP 403 for every query, 'the print-disabled status blocks search-inside just as it blocks borrowing', and that 'only physical/operator access to the book remains'. That was true of the route tried and false of the world. The IA endpoints still fail from here -- archive.org/download/<id>/<id>_djvu.txt returns 403 for a restricted item, and fulltext/inside.php on the item's own server returns 'Item not available' -- so the Open Library route is not a variant of them but a different service. METHOD FOR READING PAST THE SNIPPET: each query returns a window of about a dozen words around the match, so overlapping phrase queries walk the text outwards. Searching the last four words of a snippet returns the next window. A paragraph can be reconstructed in six to ten queries. Sleep about two seconds between calls; the endpoint intermittently answers with non-JSON under load, which is a rate limit and not an absence. A NEGATIVE RESULT FROM THIS ENDPOINT IS STILL A FACT ABOUT THE ENDPOINT: OCR errors defeat phrase matching, and this project has already seen 'Lurther' for 'Further' and 'di- rector' hyphenated across a line break inside the corpus. [EXTENDED 2026-09-06: THE API PAGES AND THIS CONTRACT DID NOT SAY SO. A query reports a total and returns TWENTY. The parameter is &page=N; &from= and &offset= are accepted and silently ignored. '\"Kanawana\" returns seventy-six' was therefore a count worked from its first page for as long as this capability has been used. All four pages are now enumerated -- see f_4998. ALSO: each hit's 'identifier' field is A LIST, not a string; extract with fields['identifier'][0], because a str() comparison never matches and produces false nulls.]",
       "sources": [
         "src_openlibrary_search_inside"
       ],
@@ -89228,6 +89228,26 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.19",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4998",
+      "category": "sources",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Open Library",
+        "Internet Archive",
+        "Kamp Kanawana",
+        "Kanawa Magazine",
+        "Kiri Te Kanawa"
+      ],
+      "claim": "THE OPEN LIBRARY SEARCH-INSIDE API PAGES, AND THIS PROJECT HAD NEVER PAGED IT -- PLUS THE COMPLETE LIST OF ALL 76 'KANAWANA' ITEMS. A query for '\"Kanawana\"' reports total: 76 AND RETURNS TWENTY. The pagination parameter is &page=N; &from= and &offset= are accepted and SILENTLY IGNORED, which is worse than being rejected. Four pages return 20, 20, 20 and 16, the fifth is empty, and the 76 distinct identifiers are now enumerated at sources/cache/openlibrary-search-inside/2026-09-06-all-76-kanawana-items-enumerated.txt. This project has carried the figure 76 since the capability was found (f_4933) and had been working from the first page of it. A COUNT IS NOT A LIST. A SECOND TRAP, mine rather than the API's: each hit's 'identifier' field is A LIST, not a string, so comparing str(fields['identifier']) against a bare identifier never matches -- it yields \"['moonwastiredofwa0000belt']\" -- and the first run of this sweep reported that none of the sought items were present when one was in the first twenty hits. Extract with fields['identifier'][0]. WHAT THE OTHER FIFTY-SIX ARE, since this is the question the number always raised: mostly false friends, each failing differently. THE LARGEST CLUSTER IS THE TAPIRAPE WORD FOR THUNDER -- one item states it plainly, 'the Tapirape term for thunder is Kanawana, but they also have a term, topu' -- which accounts for the South American ethnography items including moonwastiredofwa0000belt, the 1992 memoir p_430 had carried as unread. 'Kanawana Magazine' in swimmingwatersaf0000unse is an OCR ERROR FOR KANAWA MAGAZINE, published by the Canadian Recreational Canoeing Association, established by a separate query returning 20 items and phrases like 'produces Kanawa magazine, devoted to Canadian paddling issues'. 'Kiri te Kanawana' is KIRI TE KANAWA. The 'Kanawana River' where William Ingles 'built the first ferry' is the KANAWHA. The Hepburn Japanese-English dictionary items are a Japanese word. AND THE REASSURING PART: atlasroutierduqu0000mapa is genuinely ours but is only a road-atlas map label for 'lac-des-Kanawana'; and EVERY ITEM IN THE 76 THAT IS ACTUALLY ABOUT THE CAMP WAS ALREADY REGISTERED IN sources.json. The first page had the substance. What paging adds is the certainty that it did.",
+      "sources": [
+        "src_openlibrary_kanawana_76_enumeration_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.20",
       "added_by": "ralph_loop"
     }
   ]

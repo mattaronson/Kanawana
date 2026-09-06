@@ -6062,3 +6062,44 @@ Cushing's departure, the report says "the men from Montreal have done our Associ
 while at Springfield and after they have entered active work." Montreal sent men to Springfield
 and took them back. That is the pipeline that brought W. H. Ball to Montreal in 1892 as "a new
 man, from the Springfield Training School".
+
+## Campaign: p_430's last three items — and the API had been paging all along
+*2026-09-06*
+
+The three items p_430 carried as unread are all false friends or near-misses, and each fails
+differently, which is why they are worth writing down rather than just deleting.
+
+**moonwastiredofwa0000belt** (1992): "the souls of shamans who cause death, Join **Kanawana**,
+Thunder, Where he lives with the white-haired…" It is **the Tapirapé term for thunder**. Another
+item in the same result set says so outright: "the Tapirapé term for thunder is Kanawana, but they
+also have a term, topu, cognate with…" A whole cluster of the seventy-six is this word in South
+American ethnography.
+
+**swimmingwatersaf0000unse** (1995): "instructors, volunteers, or canoe clubs • **Kanawana
+Magazine**, a 72-page, full-colour quarterly publication • The Bill Mason…" This is an OCR error
+for ***Kanawa* Magazine**, published by the Canadian Recreational Canoeing Association — checked
+by a separate query, which returns twenty items and phrases like "produces Kanawa magazine,
+devoted to Canadian paddling issues", rather than assumed from the adjacency to Bill Mason.
+
+**atlasroutierduqu0000mapa**: genuinely ours, and worth almost nothing — a road-atlas index label
+for "lac-des-Kanawana", carrying the lake's existence and position and no more.
+
+**And then the thing that matters more than any of them.** The search-inside API reports a total
+and **returns twenty**. The parameter is `&page=N`; `&from=` and `&offset=` are accepted and
+silently ignored. This project has carried "Kanawana returns seventy-six" since the capability was
+found and has been working from the first page of it ever since. A count is not a list.
+
+All four pages are now enumerated — 76 distinct identifiers, each with its registration status and
+a snippet. **Every item among them actually about the camp was already registered.** The first
+page had the substance, and it is worth knowing that for certain rather than by luck.
+
+**The name sweep is the part that does not survive this.** Every name run through this API before
+today was checked against at most twenty hits. "W. J. Holliday — 243 hits, none of them him" was a
+check against eight per cent of them, and he was in this repo's own cache under his own name. The
+high-count names in that log are sampled, not swept. The log now says so at the top of its advice
+section, and the nulls recorded against common names should not be trusted until they are re-run
+with paging.
+
+A smaller trap, mine: each hit's `identifier` is a **list**, so a `str()` comparison never matches
+and the first run of this sweep reported that none of the three sought items were present when one
+was in the first twenty hits.
