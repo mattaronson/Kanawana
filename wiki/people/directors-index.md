@@ -1,6 +1,6 @@
 # Directors and Staff of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 50*
+*Status: E1-reviewed | Sources: 51*
 *Last Updated: 2026-09-06 (the missing Year Book years located on HathiTrust, and unreadable from here)*
 
 ## Summary
@@ -150,9 +150,36 @@ crew, and none of them has appeared in this index until now. **One full year is 
 | Richard ("Dick") Holyoke | 1967 | Base camp staff | Hired at **$50.00 for the summer**, which the director thought too little. Food, re-packing for trips, kitchen, cooking "and many other jobs not defined." | same^50 |
 | Harry Fox | 1967 | Base camp staff | As above. Blake recommended re-hiring both. | same^50 |
 
-The same report refers the reader to "the comments of **1963-64-65 Directors**," so directors'
-reports exist for those three years too and would name three more people. They have not been
-located.
+**And the run gives eight of them.** Reading the signature blocks of every Voyageur report cached
+in the fonds produces a near-continuous list where this index had nothing at all:
+
+| Director | Year(s) | Evidence |
+|----------|---------|----------|
+| **Gus Oki** | 1960 | "Gus Oki became the Director." The report is *submitted by* Roger Wilson, one of that year's trippers — Wilson wrote it, he did not run the camp.^51 |
+| *unnamed* | 1963 | The annual report for 1963 is unsigned in this scan and names no director.^51 |
+| **Jack Soule** | 1966 | Signs "Director, Les Voyageurs, September 14, 1966."^51 |
+| **David Blake** | 1967–1969 | Signs 1967 and 1969; the 1969 report opens "the summer has been the best of the **three** I have spent at La Vérendrye."^51 |
+| **Yves St. Pierre** | 1970 | Signs "Director '70." Appears again in the 1993 alumni newsletter's contributor list.^28 ^51 |
+| **John Evans** | 1973 | Named on the final report of 19 August 1973.^51 |
+| **Paul Mongraw** | 1974 | Signs "Director 1974" — **a tripper under Blake in 1967**.^51 |
+| **Robert D. Woodhouse** | 1979 | Signs "Director."^51 |
+
+Still blank: 1961, 1962, 1964, 1965, 1971, 1972 and 1975–78. The 1967 report refers the reader to
+"the comments of **1963-64-65 Directors**," so reports for those years existed; 1963's is here and
+unsigned, and 1964's and 1965's have not been located.
+
+**Who set it up.** The 1960 report says so outright: "the original organization was piloted by
+**Jack Organ and Ross Seaman**. The staff hiring was started by Ross" — that is A. Ross Seaman,
+Kanawana's own director from 1959, personally hiring for the satellite. Four trippers and a
+business manager went first and "the Director was hired later": trippers **Jack Organ, Glenn Lane,
+Art Perry and Roger Wilson**, business manager **Frank Carpenter**, then Oki.^51 The report notes
+what they were: "the trippers all entered third year Arts the next fall, and Frank, second year
+Science, and Gus began work on his Doctors degree."
+
+*A caution on how much of this was read.* Only the 1959 and 1967 reports have been read whole.
+For the other eight years the signature block and one or two passages were read and nothing else,
+and their source records say so. The 1974 and 1979 reports carry **individual staff assessments**
+and will need the embargo treatment set out in CLAUDE.md when they are read properly.
 
 ## Staff by Era
 
@@ -535,6 +562,7 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 
 49. YMCA of Montreal, annual reports for the years ending **30 April 1893**, **30 April 1894**, **30 April 1895** and **30 April 1896** [src_ymf_sgw_ymca_annual_report_1892_1893, src_ymf_sgw_ymca_annual_report_1893_1894, src_cache_sgw_ymca_annual_report_1894_1895, src_ymf_sgw_ymca_annual_report_1895_1896]. Cached in this repo; read for their staff lists and departmental narratives 2026-09-06 under p_440. Powter's November 1892 appointment, Chapman as Office Secretary, Percy H. Cushing's succession to D. W. Corbett in June 1893 and departure for Springfield in September 1895, and C. K. Calhoun's arrival. See [f_4996], [f_4997].
 50. "Les Voyageurs de la Vérendrye — Camp Director's Report 1967", signed by David Blake, YMCA of Montreal fonds [src_ymf_1967_les_voyageurs_de_la_verendrye_camp_directors_report]. See [f_5020]. Read whole 2026-09-06 under p_441; the item had been keyword-swept and marked skimmed since August.
+51. The run of Les Voyageurs de la Vérendrye reports in the YMCA of Montreal fonds: 1960 [src_ymf_1960_les_voyageurs_de_la_verendrye_report], 1963 [src_ymf_1963_les_voyageurs_de_la_verendrye_annual_report], 1966 [src_ymf_1966_les_voyageurs_de_la_verendrye_report], 1969 [src_ymf_1969_les_voyageurs_de_la_verendrye_report], 1970 [src_ymf_1970_les_voyageurs_de_la_verendrye_directors_report], 1973 [src_ymf_1973_08_19_les_voyageurs_de_la_verendrye_final_report], 1974 [src_ymf_1974_les_voyageurs_de_la_verendrye_report_on_summer] and 1979 [src_ymf_1979_les_voyageurs_de_la_verendrye_report]. See [f_5024], [f_5025] and [f_5026]. **These eight were read for their signature blocks and little else** — their source records record exactly how much, and the 1974 and 1979 reports carry individual staff assessments that are not extracted here.
 
 ## Research Notes
 

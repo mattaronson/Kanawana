@@ -6484,3 +6484,35 @@ federal law this same article covers.
 One scan, two documents, one catalogue date. That is the fourth distinct way this corpus has
 turned out to be mislabelled, after the multi-volume Year Book scans, the shadow source records
 and a catalogue title calling an autobiography a biography.
+
+## 2026-09-06 — p_445: eight directors of Les Voyageurs, from eight signature blocks
+
+The 1967 report pointed at "the comments of 1963-64-65 Directors," and the obvious next move was
+to check the cache before searching anywhere. Nine Voyageur reports were already on disk, all
+marked skimmed. Reading only their signature blocks and one or two passages each produced a
+near-continuous directorship this project had entirely blank:
+
+Gus Oki (1960), unsigned (1963), Jack Soule (1966), David Blake (1967–69), Yves St. Pierre (1970),
+John Evans (1973), Paul Mongraw (1974) and Robert D. Woodhouse (1979). Mongraw was a tripper under
+Blake in 1967 and had the camp seven years later. St. Pierre and Roger Wilson — a 1960 tripper —
+both turn up in the 1993 alumni newsletter read this morning, twenty-three and thirty-three years
+on.
+
+The 1960 report also says who built the thing: "the original organization was piloted by **Jack
+Organ and Ross Seaman**. The staff hiring was started by Ross." That is A. Ross Seaman, Kanawana's
+own director, hiring for the satellite personally — and the order matters: four trippers and a
+business manager first, "the Director was hired later." The staff were undergraduates under a
+doctoral student.
+
+**One thing is left unresolved on purpose.** The 1963 report calls that year the largest enrolment
+"of its three year history," forty boys. Three years back from 1963 is 1961. The 1959 report calls
+1959 "the initial year of operation," and a full 1960 season is documented with its own director,
+four trippers and the phrase "the Voyageur's Camp." The camp's own papers count its beginning two
+ways, and the tidy explanation — that 1959 and 1960 were pilots and the count starts at Landron —
+founders on the 1960 report already using the name. Flagged as `f_5026`, not resolved.
+
+**And the honest part.** Eight of these documents were read for a signature and almost nothing
+else. Their `read_state` is now `partial` with a basis naming exactly what was and was not read,
+because "read for something" is the failure this whole priority exists to fix and it would be
+absurd to reproduce it while fixing it. The 1974 and 1979 reports carry individual staff
+assessments; those need the CLAUDE.md embargo treatment and are not extracted here.

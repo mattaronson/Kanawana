@@ -421,6 +421,16 @@ No verify script catches that: `^29` is a valid marker pointing at a real entry.
 The script prints the number it assigned for a reason. Run it, read the number, then write the
 marker. If you are drafting the prose first, leave a literal placeholder that cannot resolve.
 
+**It happened a second time the same afternoon, with the failure mode inverted.** Writing the
+Voyageurs director table into the same article, I put `^51` in first again. This time
+`next_free()` *counted my own markers* — it enumerates both entries and `^N` markers, by design —
+so it assigned **52**, and the Sources list came out 50, 52, with no 51. `verify_harness` caught
+that one as a numbering break, which is exactly the case the first mistake escapes: writing a
+marker that collides with an existing entry is invisible, writing one that runs ahead of the list
+is not. So the rule has a corollary: **the script's idea of "next free" includes whatever you have
+already typed**, and typing the marker first corrupts the very calculation you are about to ask
+it to make.
+
 ## 33. A grep for a name is a fact about the string, again
 
 Two documents this session paid out on material no keyword sweep could have reached, and the

@@ -1,8 +1,8 @@
 {
-  "version": "7.34",
-  "kb_version": "7.34",
+  "version": "7.35",
+  "kb_version": "7.35",
   "migrated_from": "3.3",
-  "fact_count": 4985,
+  "fact_count": 4988,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -89738,6 +89738,79 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.34",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5024",
+      "category": "people",
+      "date_ref": "1960-1979",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "Gus Oki",
+        "Jack Soule",
+        "David Blake",
+        "Yves St. Pierre",
+        "John Evans",
+        "Paul Mongraw",
+        "Robert D. Woodhouse",
+        "Roger Wilson"
+      ],
+      "claim": "EIGHT DIRECTORS OF LES VOYAGEURS, 1960 TO 1979, FROM THE REPORTS THEY SIGNED. Until 2026-09-06 this project held NOT ONE name for the satellite camp's leadership. Reading the run of annual and directors' reports cached in the YMCA of Montreal fonds gives, year by year: 1960 GUS OKI ('Gus Oki became the Director'; the report itself is submitted by Roger Wilson, one of that year's trippers, so Wilson is the author and NOT the director); 1966 JACK SOULE, who signs 'Director, Les Voyageurs, September 14, 1966'; 1967, 1968 and 1969 DAVID BLAKE, whose 1969 report opens 'the summer has been the best of the THREE I have spent at La Verendrye' and closes 'David Blake, Director, Les Voyageurs de la Verendrye', so his three summers are 1967-1969; 1970 YVES ST. PIERRE, 'Director '70'; 1973 JOHN EVANS, on the final report dated 19 August 1973; 1974 PAUL MONGRAW, 'Director 1974'; and 1979 ROBERT D. WOODHOUSE, 'Director'. THE ARC WORTH NOTING: PAUL MONGRAW WAS A TRIPPER UNDER BLAKE IN 1967 AND DIRECTOR SEVEN YEARS LATER. The 1963 annual report is UNSIGNED in this scan and names no director; 1961, 1962, 1964, 1965, 1971, 1972 and 1975-78 are not covered by the cached run. And YVES ST. PIERRE and ROGER WILSON both appear in the 1993 alumni newsletter's list of Kanawana Alumni contributors, twenty-three and thirty-three years after their Voyageur summers.",
+      "sources": [
+        "src_ymf_1960_les_voyageurs_de_la_verendrye_report",
+        "src_ymf_1966_les_voyageurs_de_la_verendrye_report",
+        "src_ymf_1967_les_voyageurs_de_la_verendrye_camp_directors_report",
+        "src_ymf_1969_les_voyageurs_de_la_verendrye_report",
+        "src_ymf_1970_les_voyageurs_de_la_verendrye_directors_report",
+        "src_ymf_1973_08_19_les_voyageurs_de_la_verendrye_final_report",
+        "src_ymf_1974_les_voyageurs_de_la_verendrye_report_on_summer",
+        "src_ymf_1979_les_voyageurs_de_la_verendrye_report",
+        "src_ymf_1963_les_voyageurs_de_la_verendrye_annual_report"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.35",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5025",
+      "category": "people",
+      "date_ref": "1960",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "Jack Organ",
+        "A. Ross Seaman",
+        "Gus Oki",
+        "Frank Carpenter",
+        "Glenn Lane",
+        "Art Perry",
+        "Roger Wilson"
+      ],
+      "claim": "WHO SET THE SATELLITE UP, NAMED, AND IN WHAT ORDER THEY WERE HIRED. The 1960 report is explicit about its own founding: 'THE ORIGINAL ORGANIZATION WAS PILOTED BY JACK ORGAN AND ROSS SEAMAN. The staff hiring was started by Ross, and at the end of April, four trippers and a business manager were hired. THE DIRECTOR WAS HIRED LATER. The trippers were JACK ORGAN, GLENN LANE, ART PERRY AND ROGER WILSON; business manager was FRANK CARPENTER, and GUS OKI became the Director.' ROSS SEAMAN IS A. ROSS SEAMAN, KANAWANA'S OWN DIRECTOR FROM 1959 TO 1967, so the parent camp's director personally started the hiring for the satellite -- which this project had inferred from the shape of things and can now state. The report adds what the staff were: 'the trippers all entered third year Arts the next fall, and Frank, second year Science, and Gus began work on his Doctors degree. This indicates the high calibre of staff hired for this project.' A camp run by undergraduates under a doctoral student. THE SAME REPORT NAMES THE UNRESOLVED RELATIONSHIP that the 1959 report had complained about, as a recommendation: 'that the relationship of the Voyageur's Camp to Kamp Kanawana, insofar as traditions, customs, staff organization, etc. be clarified as much as possible'. And it is candid about supervision: what the Director of Camping for Montreal and the Voyageur director provided 'probably wasn't adequate insofar as the needs of the staff was concerned. Some of these inadequacies were a direct result of the newness of the situation.'",
+      "sources": [
+        "src_ymf_1960_les_voyageurs_de_la_verendrye_report"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.35",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5026",
+      "category": "programs",
+      "date_ref": "1963",
+      "entities": [
+        "Les Voyageurs de la Verendrye"
+      ],
+      "claim": "A COUNTING PROBLEM IN THE CAMP'S OWN REPORTS, FLAGGED AND NOT RESOLVED. The 1963 annual report opens: 'This year's camp of Les Voyageurs can boast the largest enrollment of ITS THREE YEAR HISTORY as FORTY BOYS benefitted from the \"bush\" experience.' Counted back, a three-year history in 1963 begins in 1961. BUT THE 1959 REPORT CALLS 1959 'THE INITIAL YEAR OF OPERATION' of the Older Boys Camp, and a 1960 report exists describing a full season with its own director and four trippers and using the name 'the Voyageur's Camp'. So the camp's own papers count its beginning two ways. THE OBVIOUS READING is that 1959 and 1960 were pilots run from Kanawana and the count starts when the operation settled at Lac Landron under its own name -- but the 1960 report already uses the name, so THE READING IS NOT SAFE AND IS NOT ADOPTED. What would settle it: the 1961 and 1962 reports, which this repo does not hold, or a Kanawana annual report of the period stating when the Voyageur camp was constituted. ALSO FROM THE SAME LINE: forty boys in 1963 is the earliest enrolment figure this project has for the satellite, against 'from 25 to 35' as the 1967 report's discussion of full capacity -- so the programme was LARGER in 1963 than in 1967, which is worth knowing before anyone writes its history as steady growth.",
+      "sources": [
+        "src_ymf_1963_les_voyageurs_de_la_verendrye_annual_report",
+        "src_ymf_1959_report_of_older_boys_camps_summer",
+        "src_ymf_1960_les_voyageurs_de_la_verendrye_report"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.35",
       "added_by": "ralph_loop"
     }
   ]
