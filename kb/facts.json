@@ -1,8 +1,8 @@
 {
-  "version": "7.04",
-  "kb_version": "7.04",
+  "version": "7.05",
+  "kb_version": "7.05",
   "migrated_from": "3.3",
-  "fact_count": 4933,
+  "fact_count": 4937,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88389,7 +88389,7 @@
         "Kamp Kanawana",
         "The School (magazine)"
       ],
-      "claim": "KANAWANA'S EDUCATIONAL DIRECTOR WAS A MONTREAL SCHOOL PRINCIPAL WHO WROTE A NATIONAL COLUMN ON TEACHING. Volume 1 of The School: A Magazine Devoted to Elementary and Secondary Education (Toronto, 1912-13) -- NOT lending-restricted, downloaded and searched in full -- carries a serial column by \"F. H. SPINNEY, Principal Alexandra School, Montreal\", later \"Principal, Alexandra Public School, Montreal\": 'IN THE LITTLE RED SCHOOLHOUSE', at least EIGHT numbered instalments, I through VIII, on the practice of the one-room rural school, described by the magazine as 'a series of articles relating to the work of the rural school -- yet suggestive for all teachers'. The editors then announce a SECOND SERIES from him, 'Little Journeys to Rural Schools'. His fellow contributors in the same volume are the Ontario College of Education's own people -- H. T. J. Coleman, W. E. Macpherson, G. A. Cornish, F. E. Coombs -- so this is a national professional journal and not a local bulletin. WHY IT MATTERS: this project's F. H. Spinney is Kamp Kanawana's EDUCATIONAL DIRECTOR, documented in his fifth year in the 1921 brochure and teaching basketry in 1922, with NO first name, NO dates and NO biography of any kind. THE IDENTIFICATION AND ITS GROUNDS: the same uncommon surname with the same two initials, the same city, the same profession, and the exact fit of the role -- a boys' camp's EDUCATIONAL Director being a schoolmaster, and this one a schoolmaster who wrote a national column on how to teach. It is an identification by name, place and calling, and it is written that way rather than asserted. A NEAR MISS, RECORDED SO IT IS NOT RE-FOUND: a different 'Mr. F. H. Spinney', of HUDSON, N.H., appears in four Harvard College Observatory annual reports (1913-1916) among their volunteer variable-star observers, and accounts for four of the twelve hits on the bare name. The 'Alexandra School' that appears elsewhere in this same volume's news column is in MEDICINE HAT and is likewise not his. NOT ESTABLISHED: his first name, his dates, when he came to or left the camp beyond the 1917-1922 the brochures imply, and whether the second series was ever written. 'Kanawana' occurs ZERO times in this volume. LATER VOLUMES OF THE SCHOOL, which ran to 1935 and are on the Internet Archive, ARE UNSEARCHED -- and the run covers every year of his known Kanawana service.",
+      "claim": "KANAWANA'S EDUCATIONAL DIRECTOR WAS A MONTREAL SCHOOL PRINCIPAL WHO WROTE A NATIONAL COLUMN ON TEACHING. Volume 1 of The School: A Magazine Devoted to Elementary and Secondary Education (Toronto, 1912-13) -- NOT lending-restricted, downloaded and searched in full -- carries a serial column by \"F. H. SPINNEY, Principal Alexandra School, Montreal\", later \"Principal, Alexandra Public School, Montreal\": 'IN THE LITTLE RED SCHOOLHOUSE', at least EIGHT numbered instalments, I through VIII, on the practice of the one-room rural school, described by the magazine as 'a series of articles relating to the work of the rural school -- yet suggestive for all teachers'. The editors then announce a SECOND SERIES from him, 'Little Journeys to Rural Schools'. His fellow contributors in the same volume are the Ontario College of Education's own people -- H. T. J. Coleman, W. E. Macpherson, G. A. Cornish, F. E. Coombs -- so this is a national professional journal and not a local bulletin. WHY IT MATTERS: this project's F. H. Spinney is Kamp Kanawana's EDUCATIONAL DIRECTOR, documented in his fifth year in the 1921 brochure and teaching basketry in 1922, with NO first name, NO dates and NO biography of any kind. THE IDENTIFICATION AND ITS GROUNDS: the same uncommon surname with the same two initials, the same city, the same profession, and the exact fit of the role -- a boys' camp's EDUCATIONAL Director being a schoolmaster, and this one a schoolmaster who wrote a national column on how to teach. It is an identification by name, place and calling, and it is written that way rather than asserted. A NEAR MISS, RECORDED SO IT IS NOT RE-FOUND: a different 'Mr. F. H. Spinney', of HUDSON, N.H., appears in four Harvard College Observatory annual reports (1913-1916) among their volunteer variable-star observers, and accounts for four of the twelve hits on the bare name. The 'Alexandra School' that appears elsewhere in this same volume's news column is in MEDICINE HAT and is likewise not his. 'Kanawana' occurs ZERO times in this volume. [SUPERSEDED 2026-09-06, same day: this fact ended 'NOT ESTABLISHED: his first name, his dates, when he came to or left the camp beyond the 1917-1922 the brochures imply, and whether the second series was ever written... LATER VOLUMES OF THE SCHOOL, which ran to 1935 and are on the Internet Archive, ARE UNSEARCHED.' Ten volumes were then read under p_432 and three of those four items moved.] HIS FIRST NAME IS FREDERICK, printed fourteen times in volumes 2, 4 and 5 -- see f_4972, which also explains why the volume-1 search could not have found it. THE SECOND SERIES WAS WRITTEN: eight instalments of 'Little Journeys to Rural Schools' run through volume 2 -- see f_4974. His run in the magazine ENDS IN JUNE 1917, the year the brochures put him at Kanawana -- see f_4974, and note that this is a coincidence in date and not a cause. And volume 4 has him introducing a basketry class at his own school in 1914-15, six years before the camp brochure records him teaching basketry -- see f_4973, which is the strongest single item in the identification. STILL NOT ESTABLISHED: what the initial H. stands for, his birth and death dates, whether he stayed at Alexandra School after 1917, and when he left the camp beyond the 1922 brochure being the last to name him.",
       "sources": [
         "src_the_school_magazine_vol1_1912_13"
       ],
@@ -88666,6 +88666,96 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4972",
+      "category": "people",
+      "date_ref": "1913-1917",
+      "entities": [
+        "F.H. Spinney",
+        "Frederick H. Spinney",
+        "Alexandra School",
+        "Montreal",
+        "The School (magazine)",
+        "Kamp Kanawana"
+      ],
+      "claim": "KANAWANA'S EDUCATIONAL DIRECTOR'S FIRST NAME IS FREDERICK. Every source this project had -- the 1921 and 1922 camp brochures, and volume 1 of The School -- gave him only as 'F. H. Spinney', and both f_4958 and wiki/people/directors-index.md recorded that his first name was not in any source found. Volumes 2, 4 and 5 of The School print it in full in the by-line, fourteen times: 'FREDERICK H. SPINNEY / Principal, Alexandra Public School, Montreal' (vol 2 scan line 12532; vol 5 scan line 1333, and twelve more). The initials-only form runs concurrently in the same volumes, so the full form is not a later correction of the short one. NOTE ON THE SEARCH, because the failure is repeatable: the scan's OCR double-spaces between words, so a grep for 'FREDERICK H. SPINNEY' with single spaces returns ZERO across all ten volumes while the double-spaced form returns fourteen. The name was in the corpus all along and the query was wrong.",
+      "sources": [
+        "src_the_school_magazine_vol2_1913_14",
+        "src_the_school_magazine_vol4_1915_16",
+        "src_the_school_magazine_vol5_1916_17"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4973",
+      "category": "people",
+      "date_ref": "1915-12-18",
+      "entities": [
+        "F.H. Spinney",
+        "Frederick H. Spinney",
+        "Alexandra School",
+        "Sanguinet Street",
+        "Montreal Daily Star",
+        "Canadian Red Cross Society",
+        "Kamp Kanawana"
+      ],
+      "claim": "F. H. SPINNEY INTRODUCED AN AFTER-SCHOOL BASKETRY CLASS AT HIS MONTREAL SCHOOL SIX YEARS BEFORE THE CAMP BROCHURE RECORDS HIM TEACHING BASKETRY AT KANAWANA. Volume 4 of The School (Sept 1915 - June 1916) reprints from the Montreal Daily Star of 18 December 1915: 'Over $125 was realized yesterday afternoon for the Canadian Red Cross Society at the sale of baskets held at the Alexandra School, 160 Sanguinet Street. The baskets were made by the pupils and teachers in the \"after school\" class which meets twice a week, from 3.30 to 5 p.m. The idea originated with F. H. Spinney, the head master, who wished to see how the children would get on at hand work. About a year ago the class was started and now some fifteen teachers and fifty pupils work together making all sorts of baskets from little flower pots to big waste-paper baskets... the children, who are nearly all of Jewish origin.' This project's f_0058 records, from the 1922 Kanawana brochure, that Educational Director F.H. Spinney was TEACHING BASKETRY at the camp. WHAT THIS IS: a fourth point of agreement in an identification that previously rested on three -- same uncommon surname and initials, same city, same profession, and now the same distinctive activity, which he personally originated in Montreal about the autumn of 1914. WHAT IT IS NOT: no source found names both roles in one line, so this remains an identification and not a documented link, and the basketry join rests on this single paragraph -- 'basket' was run against all four volumes that carry Spinney and cross-filtered for Alexandra, Sanguinet, Spinney and Montreal, and this is the only passage connecting him to it.",
+      "sources": [
+        "src_the_school_magazine_vol4_1915_16"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4974",
+      "category": "people",
+      "date_ref": "1912-1923",
+      "entities": [
+        "F.H. Spinney",
+        "Frederick H. Spinney",
+        "Alexandra School",
+        "The School (magazine)",
+        "Kamp Kanawana"
+      ],
+      "claim": "SPINNEY'S RUN IN THE SCHOOL ENDS IN JUNE 1917, THE YEAR THE BROCHURES PUT HIM AT KANAWANA. He contributed to volumes 1 through 5 continuously: 'In the Little Red Schoolhouse' (vol 1, 1912-13, eight instalments); 'Little Journeys to Rural Schools' (vol 2, 1913-14, eight instalments -- THE SECOND SERIES ANNOUNCED IN VOLUME 1 WAS IN FACT WRITTEN, which f_4958 listed as not established), plus 'Letter Writing' and 'The Use of our Holidays' in the same volume; 'In the Classroom' and 'Letter Writing' (vol 4, 1915-16, ten by-lines); and 'In the Classroom' (vol 5, 1916-17, eight by-lines, largely on teaching Fractions). He then appears in NONE of volumes 6, 7, 8 and 11, and the Spinneys in volumes 9 and 10 are Nova Scotians -- 'Hon. E. K. Spinney, member for Yarmouth and Clare, N.S.' of the Meighen ministry, and 'Miss Catherine Spinney'. The 1921 camp brochure documents him at Kanawana IN HIS FIFTH YEAR, i.e. from 1917. HOW TO READ THIS: it is a coincidence in date between two independently documented series and is recorded as one. The magazine gives no reason for his disappearance -- no valedictory note, no successor named at Alexandra School, Montreal (every post-volume-5 'Alexandra School' in the run is a different school in Edmonton, Calgary, Moose Jaw or Lindsay). The correct statement is that THE MAGAZINE STOPS MENTIONING HIM after June 1917, NOT that he left the school or that the camp drew him away.",
+      "sources": [
+        "src_the_school_magazine_vol2_1913_14",
+        "src_the_school_magazine_vol4_1915_16",
+        "src_the_school_magazine_vol5_1916_17",
+        "src_the_school_magazine_vols6_11_null_sweep"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "7.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4975",
+      "category": "sources",
+      "date_ref": "1912-1923",
+      "entities": [
+        "The School (magazine)",
+        "Kamp Kanawana",
+        "Internet Archive"
+      ],
+      "claim": "'KANAWANA' OCCURS ZERO TIMES IN TEN VOLUMES OF THE SCHOOL, 1912-1923. The complete djvu texts of schoolmagazinede01, 02, 04, 05, 06, 07, 08, 09, 10 and 11univuoft -- none lending-restricted -- were downloaded and searched. That covers the camp's founding-era aftermath and the whole of its early interwar period. A clean null, recorded so the run is not searched again. TWO THINGS THIS NULL DOES NOT COVER: VOLUME 3 (September 1914 - June 1915) IS NOT ON THE INTERNET ARCHIVE and has not been read anywhere, so it is a hole in the record rather than a null; and the magazine ran to 1935, of which only a 1935 scan (schoolmagazinede10ontauoft) was located and it was not read. Volume years here are read off each volume's own title page, not from the Internet Archive metadata, which gives the series span '1912-35' for every item indiscriminately.",
+      "sources": [
+        "src_the_school_magazine_vol2_1913_14",
+        "src_the_school_magazine_vol4_1915_16",
+        "src_the_school_magazine_vol5_1916_17",
+        "src_the_school_magazine_vols6_11_null_sweep",
+        "src_the_school_magazine_vol1_1912_13"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.05",
       "added_by": "ralph_loop"
     }
   ]

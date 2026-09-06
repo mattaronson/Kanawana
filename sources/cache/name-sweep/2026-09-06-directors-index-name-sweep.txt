@@ -77,6 +77,19 @@ PEOPLE — SWEPT 2026-09-06
                             Principal Alexandra School, Montreal", author of the eight-part column
                             "In the Little Red Schoolhouse", with a second series commissioned.
                             f_4958, and p_432 for the rest of that run.
+                            [UPDATED 2026-09-06, same day: p_432 IS DONE. Ten volumes of The School
+                            were read. HIS FIRST NAME IS FREDERICK — printed fourteen times in
+                            volumes 2, 4 and 5. This log and f_4958 both said it was in no source
+                            found; it was in the corpus the whole time, and the reason the search
+                            missed it belongs in the ZEROTH STEP below: THE SCAN'S OCR DOUBLE-SPACES
+                            BETWEEN WORDS, so a grep for "FREDERICK H. SPINNEY" with single spaces
+                            returns ZERO across all ten volumes while the double-spaced form returns
+                            fourteen. Search these texts with [[:space:]]\+ or a bare substring,
+                            never with literal single spaces. Also from that pass: he started an
+                            after-school basketry class at his Montreal school about autumn 1914,
+                            six years before the camp brochure has him teaching basketry (f_4973);
+                            the second series WAS written; and his run in the magazine ends June
+                            1917. Volume 3 is not on the Archive — p_434. f_4972, f_4974, f_4975.]
 
   Hay Finlay .............. 19 hits, four items. One is a 1769 Scottish tenant farmer ("HAY, FINLAY,
                             joint tenant farmer in Easter Croftmartage"), one a comparative
@@ -212,7 +225,12 @@ THREE PIECES OF ADVICE, THE FIRST OF WHICH IS NEW AND COST SOMETHING.
   243 hits about the wrong man, and the right one was in this repo. Sixteen of the twenty-four
   names swept so far returned nothing usable from the corpus, and at least one of them was here.
   (Word boundaries matter when you do it: "Ereaux" matches "Devereaux" and "Spinney" matches the
-  noun "spinneys", both of which produced false hits in the first pass.)
+  noun "spinneys", both of which produced false hits in the first pass. AND SPACING MATTERS AS MUCH:
+  these scans' OCR routinely puts TWO OR MORE SPACES between words, so a full name typed naturally —
+  "Frederick H. Spinney" — can return ZERO against a corpus that contains it fourteen times. That is
+  exactly what happened to Spinney's first name for a day. Match on the surname alone and read the
+  context, or use [[:space:]]\+ between the parts; never grep a multi-word name with single spaces
+  and then record the zero as a fact about the world.)
 
 TWO MORE PIECES OF ADVICE FROM THE NAMES ALREADY RUN. Names that are common in English (Crawford,
 Holliday) return hundreds of hits about other people and should be paired with "Montreal",

@@ -29448,7 +29448,7 @@
       "reliability": "primary",
       "read_state": "partial",
       "read_state_basis": "NOT lending-restricted. The complete djvu text (1,671,490 bytes) was downloaded and searched 2026-09-06. 'Kanawana' occurs ZERO times in the volume. Every occurrence of 'Spinney' and 'Alexandra' was read and the relevant passages cached; the rest of the volume is unread.",
-      "notes": "Gives Kamp Kanawana's Educational Director F. H. Spinney -- known here only from the 1921 and 1922 brochures, with no first name and no biography -- as PRINCIPAL OF ALEXANDRA (PUBLIC) SCHOOL, MONTREAL, and the author of a serial column 'In the Little Red Schoolhouse' running at least eight instalments in this national education journal, with a second series commissioned. A near miss worth keeping: a different 'Mr. F. H. Spinney' of Hudson, N.H., appears in four Harvard College Observatory annual reports as a variable-star observer. LATER VOLUMES OF THIS RUN, to 1935, ARE UNSEARCHED and cover every year of his Kanawana service. See f_4958."
+      "notes": "Gives Kamp Kanawana's Educational Director F. H. Spinney -- known here only from the 1921 and 1922 brochures, with no first name and no biography -- as PRINCIPAL OF ALEXANDRA (PUBLIC) SCHOOL, MONTREAL, and the author of a serial column 'In the Little Red Schoolhouse' running at least eight instalments in this national education journal, with a second series commissioned. A near miss worth keeping: a different 'Mr. F. H. Spinney' of Hudson, N.H., appears in four Harvard College Observatory annual reports as a variable-star observer. [SUPERSEDED 2026-09-06: this record said 'LATER VOLUMES OF THIS RUN, to 1935, ARE UNSEARCHED and cover every year of his Kanawana service.' They were searched the same day under p_432.] Volumes 2 and 4 through 11 have now been read: 'Kanawana' is zero in all ten, his first name is FREDERICK (printed in volumes 2, 4 and 5 -- this volume genuinely does not carry it), the second series WAS written, and volume 4 has him introducing a basketry class at his school in 1914-15. Volume 3 (1914-15) is not on the Archive and is still unread. See f_4958, f_4972, f_4973, f_4974."
     },
     {
       "source_id": "src_mcgill_you_knew_1975",
@@ -29683,7 +29683,79 @@
       "read_state": "partial",
       "read_state_basis": "NOT lending-restricted -- a fact p_429 did not know, having worked the item through search-inside snippets. The complete djvu text (5,050,896 bytes) was downloaded and searched 2026-09-06. 'Kanawana' occurs EXACTLY ONCE in the volume, in this entry, which was read in full and cached. The rest of the volume is unread.",
       "notes": "RESOLVES p_429. The Internet Archive dates this volume 1911, which is the series start; the entry's own latest datum is 'Vice-President, Exploration, February 1976', so the volume is 1976 or later and NOT the 'Who's Who in Canada 1965' p_429 called it -- that came from a snippet in which the running head 'IN CANADA' and the entry's '1965' fell side by side. The 1965 is the year of his Kanawana directorship. See f_4971."
+    },
+    {
+      "source_id": "src_the_school_magazine_vol2_1913_14",
+      "type": "periodical",
+      "title": "The School: A Magazine Devoted to Elementary and Secondary Education, vol. 2 (Toronto, September 1913 to June 1914) — Frederick H. Spinney's columns",
+      "date": "1913-1914",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/schoolmagazinede02univuoft",
+      "cache_path": "sources/cache/periodicals/1913-1923-the-school-magazine-spinney-full-run.txt",
+      "char_count": 1835568,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "7.05",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "NOT lending-restricted. The complete djvu text (1,835,568 bytes) was downloaded and searched 2026-09-06 under p_432. 'Kanawana' occurs ZERO times. Every occurrence of 'Spinney', 'Alexandra School' and 'basket' was read, plus the title page for the volume year; the rest of the volume is unread.",
+      "notes": "Eleven Spinney by-lines. Carries the EIGHT instalments of 'Little Journeys to Rural Schools', the second series that volume 1 only announced -- so the series was in fact written. Also 'Letter Writing', which prints his FIRST NAME IN FULL for the first time (FREDERICK H. SPINNEY), 'The Use of our Holidays', and a signed Round Table letter giving his correspondence address as 160 Sanguinet Street, Montreal (which volume 4 shows is Alexandra School's own address, not his home)."
+    },
+    {
+      "source_id": "src_the_school_magazine_vol4_1915_16",
+      "type": "periodical",
+      "title": "The School: A Magazine Devoted to Elementary and Secondary Education, vol. 4 (Toronto, September 1915 to June 1916) — Frederick H. Spinney's columns",
+      "date": "1915-1916",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/schoolmagazinede04univuoft",
+      "cache_path": "sources/cache/periodicals/1913-1923-the-school-magazine-spinney-full-run.txt",
+      "char_count": 2191791,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "7.05",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "NOT lending-restricted. The complete djvu text (2,191,791 bytes) was downloaded and searched 2026-09-06 under p_432. 'Kanawana' occurs ZERO times. Every occurrence of 'Spinney', 'Alexandra School' and 'basket' was read, plus the title page for the volume year; the rest of the volume is unread.",
+      "notes": "Ten Spinney by-lines ('In the Classroom' x4, 'Letter Writing' x6). MOST IMPORTANTLY it reprints, from the Montreal Daily Star of 18 December 1915, a report that 'the idea originated with F. H. Spinney, the head master' of an after-school BASKETRY class at Alexandra School, 160 Sanguinet Street -- fifteen teachers and fifty pupils, started about a year earlier, selling baskets for the Canadian Red Cross. Kanawana's Educational Director F.H. Spinney is documented teaching BASKETRY in the 1922 camp brochure (f_0058). This is the fourth and least circumstantial point of agreement in the identification."
+    },
+    {
+      "source_id": "src_the_school_magazine_vol5_1916_17",
+      "type": "periodical",
+      "title": "The School: A Magazine Devoted to Elementary and Secondary Education, vol. 5 (Toronto, September 1916 to June 1917) — Frederick H. Spinney's columns",
+      "date": "1916-1917",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/schoolmagazinede05univuoft",
+      "cache_path": "sources/cache/periodicals/1913-1923-the-school-magazine-spinney-full-run.txt",
+      "char_count": 2034220,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "7.05",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "NOT lending-restricted. The complete djvu text (2,034,220 bytes) was downloaded and searched 2026-09-06 under p_432. 'Kanawana' occurs ZERO times. Every occurrence of 'Spinney', 'Alexandra School' and 'basket' was read, plus the title page for the volume year; the rest of the volume is unread.",
+      "notes": "Eight Spinney by-lines, all 'In the Classroom', largely a lesson-by-lesson series on teaching Fractions. HIS LAST CONTRIBUTIONS TO THE MAGAZINE: he is absent from volumes 6, 7, 8 and 11, and the two Spinneys in volumes 9 and 10 are Nova Scotians (E. K. Spinney MP; Miss Catherine Spinney). The 1921 camp brochure documents him at Kanawana in his fifth year, i.e. from 1917 -- the same year his writing stops. That is a coincidence in date between two documented series and not evidence of a cause."
+    },
+    {
+      "source_id": "src_the_school_magazine_vols6_11_null_sweep",
+      "type": "periodical",
+      "title": "The School: A Magazine Devoted to Elementary and Secondary Education, vols. 6-11 (Toronto, September 1917 to June 1923) — searched, no Kanawana and no F. H. Spinney",
+      "date": "1917-1923",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/schoolmagazinede06univuoft",
+      "cache_path": "sources/cache/periodicals/1913-1923-the-school-magazine-spinney-full-run.txt",
+      "char_count": 12262992,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "7.05",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "Six complete djvu texts (schoolmagazinede06/07/08/09/10/11univuoft, 12,262,992 bytes in total) downloaded and searched 2026-09-06 under p_432. THIS RECORD EXISTS TO HOLD A NULL. 'Kanawana' occurs zero times in all six. 'Spinney' occurs zero times in volumes 6, 7, 8 and 11; the three hits in volume 9 and two in volume 10 are Nova Scotians and NOT this man. Volume years were read off each title page. Nothing else in these volumes has been read.",
+      "notes": "The negative half of p_432, registered so the same six volumes are not downloaded and searched again. The Spinney hits that are not him: 'Hon. E. K. Spinney, member for Yarmouth and Clare, N.S.', a Minister without Portfolio in the Meighen ministry (vol 9 lines 1781 and 40152; vol 10 line 9873), and 'Miss Catherine Spinney has transferred herself from Truro to Halifax' (vol 10 line 8144). Also recorded here: VOLUME 3 (1914-15) IS NOT ON THE INTERNET ARCHIVE and remains unread anywhere -- that is a hole in the run, not a null."
     }
   ],
-  "source_count": 1649
+  "source_count": 1653
 }

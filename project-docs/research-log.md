@@ -5519,3 +5519,59 @@ the word sits under *Clubs*, in a list with two ski clubs, and the directors ind
 as Camp Director from 1959 to 1967. It is a governance seat, not the summer directorship — and the
 entry's own career line, which puts Owens in Cominco's Montreal exploration office from 1960 and
 moves him to the international division in 1965, fits a Montreal committee seat ending about then.
+
+## Campaign: p_432 — the rest of *The School*'s run (Toronto, 1912-1923)
+*2026-09-06*
+
+**Topic.** Volume 1 of *The School* had given Kanawana's Educational Director as "F. H. Spinney,
+Principal Alexandra School, Montreal", and closed with the note that the later volumes covered
+every year of his camp service and were unsearched.
+
+**Surfaces.** Internet Archive scrape API (`identifier:schoolmagazinede*`) for enumeration;
+`archive.org/metadata/<id>` per item; direct `_djvu.txt` download for the full texts.
+
+**What exists.** Eleven items: `schoolmagazinede01univuoft` through `11univuoft`, plus a separate
+1935 scan `schoolmagazinede10ontauoft`. **Volume 3 is missing.** None of the ten available is
+lending-restricted, so all ten were downloaded whole — about 20 MB of text — rather than walked
+through search-inside snippets.
+
+**Volume years came off the title pages, not the catalogue.** IA metadata gives `date: 1912-35`
+for every item in the run indiscriminately; each volume prints its own span ("VOLUME IV. /
+September, 1915 to June, 1916"). All ten were read off the page.
+
+**Result, the null.** "Kanawana" occurs **zero times in all ten volumes**, 1912–1923. Cornell and
+Cross are absent too. A national education journal was a reasonable place to look for a camp's
+educational programme and it simply is not there.
+
+**Result, the find.** Everything the run gave is about Spinney:
+
+His first name is **Frederick**, printed fourteen times in volumes 2, 4 and 5. The reason volume 1
+did not yield it is worth more than the name: **the OCR double-spaces between words**, so
+`FREDERICK H. SPINNEY` with single spaces returns zero across all ten volumes, and the
+double-spaced form returns fourteen. The name sat in the corpus for a day behind a bad query, and
+both f_4958 and the directors index had recorded "his first name is not in any source found." That
+caveat is now in the name-sweep log's advice section, since it will recur on every OCR'd scan.
+
+Volume 4 reprints, from the *Montreal Daily Star* of 18 December 1915, a report that "the idea
+originated with F. H. Spinney, the head master" of an after-school **basketry** class at Alexandra
+School, 160 Sanguinet Street — fifteen teachers, fifty pupils, begun about a year earlier, selling
+baskets for the Red Cross. The 1922 Kanawana brochure has Educational Director F.H. Spinney
+teaching basketry. That moves the identification from three circumstantial points to four, one of
+them a distinctive practice he introduced himself. It is still an identification: nothing found
+names both roles in one line, and "basket" run against every volume that carries him produced only
+this one passage.
+
+The second series announced in volume 1, "Little Journeys to Rural Schools", **was** written —
+eight instalments through volume 2. And his contributions stop dead in June 1917, the year the
+brochures put him at Kanawana, with no valedictory note and no successor named at the Montreal
+school. Recorded as a coincidence in date; the magazine stops mentioning him, which is not the
+same as his leaving.
+
+Two Spinneys in volumes 9 and 10 are Nova Scotians — a minister without portfolio under Meighen
+and a teacher who moved from Truro to Halifax — logged so a later sweep on the bare surname does
+not put the camp's Educational Director in the federal cabinet.
+
+**Left open (p_434).** Volume 3 (1914-15) is not on the Archive and is unread anywhere — a hole,
+not a null, and it sits exactly where the basketry class was starting. Volumes 12 onward
+(1923-1935) are unread; only the 1935 scan was located. Low expected yield, but an obituary of a
+Montreal principal is the kind of thing this journal printed, and his death date is unknown.
