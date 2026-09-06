@@ -273,3 +273,25 @@ collection-level. Neither substitutes for the search behind the challenge.
 **The untried route out of the HathiTrust case** stands: use its bibliographic API to identify an
 edition, then look for the same edition on the Internet Archive, whose full text this project reaches
 freely.
+
+
+## Four failure modes, and not one of them is a refusal
+
+Written down because this project has been calling all of them "blocked", and they need different
+things from different people (f_5213, f_5214, f_5207):
+
+| What you see | What it is | What fixes it |
+|---|---|---|
+| 403 + `cf-mitigated: challenge`, "Just a moment…" | **Cloudflare JS challenge** — LAC Collection Search, HathiTrust `babel`, and in its own form Concordia's AtoM | a person with an ordinary browser, one click, **no letter needed** |
+| 403 + `x-block-reason: hostname_blocked`, "Blocked by egress policy" | **this environment's own allowlist** — `web.archive.org` | an allowlist entry, or a person |
+| `000`, `ws_closed_mid_exchange` | **the proxy tunnel** — `web.archive.org/cdx`, `canada.ca`, rendered-browser fetches | retry, or another endpoint on the same service |
+| an institution saying no | **a genuine refusal** | **this project has not documented one** |
+
+**The Wayback case is the sharpest.** `archive.org` answers 200 throughout — `advancedsearch`,
+`metadata`, `wayback/available` — which is why the whole book-corpus programme works. Only the
+**replay** host is blocked. So the availability API can confirm a snapshot exists and give its
+timestamp, and the snapshot cannot be read here. For **p_416** that is enough to hand over a working
+URL: Carol Skinner's blog is archived at
+`http://web.archive.org/web/20260518101254/https://livelovelaughwithcarol.com/`, captured **18 May
+2026**. One click for a person; impossible here; and the difference is an allowlist entry rather than
+anyone's permission.

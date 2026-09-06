@@ -1,8 +1,8 @@
 {
-  "version": "8.60",
-  "kb_version": "8.60",
+  "version": "8.61",
+  "kb_version": "8.61",
   "migrated_from": "3.3",
-  "fact_count": 5175,
+  "fact_count": 5176,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93289,6 +93289,21 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.60",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5214",
+      "category": "method",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Internet Archive",
+        "Carol Skinner"
+      ],
+      "claim": "THE WAYBACK MACHINE'S REPLAY HOST IS BLOCKED BY THIS ENVIRONMENT'S OWN EGRESS POLICY, WHICH IS A FOURTH AND DIFFERENT KIND OF OBSTACLE. Tested 2026-09-06 while working p_416 (recovering Carol Skinner's blog). **web.archive.org returns 403 with the header `x-block-reason: hostname_blocked` and the body 'Blocked by egress policy'.** WebFetch refuses it separately: 'Claude Code is unable to fetch from web.archive.org'. THIS IS NOT CLOUDFLARE AND NOT THE ARCHIVE -- it is this agent environment's own hostname allowlist, and it is a different thing again from the Cloudflare challenges on LAC, HathiTrust and Concordia (f_5213), and from the tunnel failures that return 000. FOUR DISTINCT FAILURE MODES ARE NOW NAMED IN THIS PROJECT and they should not be written up as one 'blocked': a Cloudflare JS challenge (403 + cf-mitigated), an environment egress block (403 + x-block-reason: hostname_blocked), a proxy tunnel failure (000 or ws_closed_mid_exchange), and a genuine institutional refusal, of which THIS PROJECT HAS NOT ACTUALLY DOCUMENTED ONE. **WHAT DOES WORK, AND IT IS ENOUGH TO CONFIRM THE TARGET EXISTS.** `archive.org/wayback/available` answers 200 and reports the blog archived: for `livelovelaughwithcarol.com` the closest snapshot is **timestamp 20260518101254, status 200, available true** -- 18 May 2026. The `www.` form resolves to the same capture; `livelovelaughwithcarol.blogspot.com` has no snapshots, so the blog was on its own domain and not on Blogspot. `archive.org/advancedsearch.php` and `archive.org/metadata` also answer 200, which is why this project's book-corpus work is unaffected. **THE CDX ENUMERATION API, `web.archive.org/cdx/search/cdx`, FAILS AT THE TUNNEL (000)** -- so the list of captures cannot be enumerated from here either, only the closest one identified. SO p_416 IS EXACTLY AS ITS OWN LABEL SAYS -- 'blocked in this environment; not blocked for a human' -- AND NOW WITH THE REASON. The snapshot exists, its timestamp is known, and its URL can be handed to anyone with a browser: http://web.archive.org/web/20260518101254/https://livelovelaughwithcarol.com/ That is a one-click task for a person and an impossible one here, and the difference is an allowlist entry, not an archive's permission.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.61",
       "added_by": "manual"
     }
   ]
