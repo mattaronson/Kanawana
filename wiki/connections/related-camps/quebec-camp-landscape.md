@@ -1,7 +1,7 @@
 # The Quebec Camping Landscape
 
-*Status: E1-reviewed | Sources: 25*
-*Last Updated: 2026-09-04*
+*Status: E1-reviewed | Sources: 26*
+*Last Updated: 2026-09-05*
 
 ## Overview
 
@@ -31,6 +31,56 @@ This is also the wiki's answer to a question the folder structure alone doesn't 
 | Camp Kitchikewana | YMCA (Simcoe/Muskoka) | National peer; listed alongside Kanawana in OCA "Y camps" records | 1919– | Active (over 105 years of continuous operation, per source) | *(covered above, no standalone article)* |
 | Camp Wanakita | YMCA Hamilton-Burlington-Brantford | National peer | 1953– | Not confirmed in current sources | *(covered above, no standalone article)* |
 | John Island Camp | YMCA of Northeastern Ontario | National peer | 1954– | Not confirmed in current sources | *(covered above, no standalone article)* |
+
+## The province in one list: the CCA Directory of January 1975
+
+The Canadian Camping Association's Directory Issue for January 1975 prints every member camp by
+province, with a founding year beside each name. The Quebec section lists **64 camps**, and it is the
+closest thing this project has to a census of the field Kanawana operated in.^26
+
+**Kanawana's own entry, field by field:** "KANAWANA (1894) (YMCA)"; director **Derek V. Walsh**; camp at
+P.O. Box 310, St. Sauveur des Monts (514-227-2414); winter office at 1441 Drummond Street, Montreal;
+activities **tripping, swimming, sailing, arts & crafts, C.I.T. program**; capacity **90 boys 8–15 and
+90 girls 8–15** [f_4866]. That last figure is the useful one — an even ninety and ninety, seven years
+after coeducation began, in a year for which this project's Kanawana record is otherwise thin.
+
+*(Three unlabelled columns follow the address in every Quebec entry, reading "X X C" for Kanawana. The
+header row is not recoverable from this scan, so they are left uninterpreted here rather than guessed
+at.)*
+
+**Kanawana carries the earliest founding year in the province, by twelve years.** Sorted by the date the
+directory itself prints:
+
+| Founded | Camp |
+|---|---|
+| **1894** | **Kanawana** |
+| 1906 | Brewery Mission |
+| 1917 | Oolahwan |
+| 1918 | Lewis |
+| 1921 | B'nai B'rith |
+| 1922 | Ouareau |
+| 1924 | Oasis Notre-Dame |
+| 1925 | Nominingue · Santé Bruchési |
+| 1926 | Wa-Thik-Ane · Kinkora · Ste-Jeanne d'Arc |
+
+**What that is and is not.** It is the association's own compilation of what its Quebec member camps
+told it in 1974–75 — not an independent test of anyone's founding date, and not a survey of the
+province, since a camp outside the association is not in it. It says nothing about the national question
+argued in [[history/oldest-camp-question|Is Kanawana the Oldest Camp in Canada?]]. What it does show is
+that within Quebec, in the association's own book, the date was not contested: it sits in the listing as
+a plain fact, twelve years ahead of the next camp [f_4867].
+
+**And the shape of the field.** Six of the 64 were founded after 1970 and about a quarter before 1940.
+The list names camps this wiki already follows — Oolahwan, Lewis, Ouareau, Nominingue, Kinkora, Weredale
+(1933), the Crippled Children's camp (1938) that
+[[people/tony-shorgan|Tony Shorgan]] directed, Perrot Day Camp (1948), Carowanis (1958) — beside a long
+tail it does not: Santé Bruchési (1925), Wa-Thik-Ane (1926), Frontier Lodge (1933), Enfants Infirmes
+(1938), Quebec Lodge (1943), Amy Molson (1944), Massad and Pembina (1947), Pine Valley and Trail's End
+(1949), Massawippi (1951), Olier (1954), Mère M. L. Clarac (1957), Robinson, Val Heureux and Wilvaken
+(1958), Demetelin (1960), Savio (1961), Kennebec (1967), Maro Mac (1968) [f_4868]. **Francophone and
+anglophone camps are interleaved in one alphabetical list**, fifteen years after the French section
+formed and fourteen after it joined the QCA — see
+[[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]].
 
 ## The YMCA Montreal Camp Network
 
@@ -157,6 +207,7 @@ Several patterns emerge from the Quebec and Canadian camp landscape:
 23. Trent University Archives, Quebec Camping Association fonds (85-013, 1948-1982) [src_trent_qca_fonds].
 24. Wilfred A. Jackson, "Planning Your Years — A Maintenance Program," and "Trampolines," *Canadian Camping* Vol. 30 No. 2 (April 1978), pp. 8-9, 11-12 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 118); Jackson's role at the QCA's 40th anniversary conference is from Vol. 29 No. 2 (March 1977), p. 1 (issue 112).
 25. "Y.M.-Y.W.C.A. Camp Stephens," by Grant Platts, Scott McGregor and Juliane Schaible, p. 21, and "What's In A Name? Camp Stephens," p. 27, *Canadian Camping Magazine* Vol. 39 No. 1 (Summer 1987); with Kelley Byrne, "A Tribute to the Oldest Camp in Canada! Big Cove YMCA Camp," *Canadian Camping Magazine* Vol. 38 No. 3 (Winter 1987), p. 8 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issues 160 and 162).
+26. *Canadian Camping* Vol. 27 No. 2 (January 1975), the Canadian Camping Association Directory Issue, Quebec section [src_ia_canadian_camping_collection]. Kanawana's entry and the 64 Quebec member camps with their printed founding years, extracted 2026-09-05. See [f_4866], [f_4867], [f_4868].
 
 ## Research Notes
 

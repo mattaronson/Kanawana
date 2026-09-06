@@ -6597,17 +6597,28 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 118 (Vol. 30 No. 2, April 1978): new paragraph naming two Quebec camping institutions the article had not recorded -- Pripstein's Camp identified as a QCA member, and Wilfred A. Jackson, chairman of the QCA English Section's 40th anniversary conference, as Director of Camps and Conference Centre of the Catholic Community Services, Inc., Montreal. Sources 23 -> 24."
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
         }
       ],
       "ralph_loops_completed": 2,
       "kb_facts_used": [
+        "f_0220",
         "f_0750",
+        "f_0800",
+        "f_0804",
+        "f_0810",
         "f_0811",
         "f_0815",
         "f_0817",
         "f_0872",
         "f_0873",
         "f_0874",
+        "f_1288",
         "f_1290",
         "f_1291",
         "f_1292",
@@ -6617,17 +6628,15 @@
         "f_1302",
         "f_1303",
         "f_1304",
-        "f_0220",
-        "f_0800",
-        "f_0804",
-        "f_0810",
-        "f_1288",
         "f_1976",
         "f_1977",
         "f_1978",
         "f_1982",
         "f_1983",
-        "f_1984"
+        "f_1984",
+        "f_4866",
+        "f_4867",
+        "f_4868"
       ],
       "sources_cited": [
         "src_camp_dorval_1928",
@@ -6646,10 +6655,12 @@
         "camp-weredale",
         "canadian-camping-movement",
         "founding-1894",
-        "lv-games"
+        "history/oldest-camp-question",
+        "lv-games",
+        "people/tony-shorgan"
       ],
       "file_id": null,
-      "word_count": 3682,
+      "word_count": 4212,
       "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- folded the former 'R3 Verification Notes'/'E1 Review Notes' H3 sub-headings into a proper '## Research Notes' section (HTML-comment process log), trimmed the header's dated parenthetical. This article's main body had no embedded prose sediment to begin with. No facts, citations, or open questions changed; status unchanged. | 2026-07-11 (Workstream B): added the \"Camps at a Glance\" summary table and an explanatory paragraph tying it to the places/-vs-context/ folder split, per the approved wiki-expansion plan -- this page now serves as the satellite/peer-camp hub. No new facts/sources; surfaced a new open question (#6, present-day status of several camps unconfirmed). | 2026-07-11: Linked \"Camp Pine Crest\" table row and prose bullet to the new standalone places/camp-pine-crest.md article. | 2026-08-14 p_226: L&V origin claim softened from 'direct origin/source' to the documented 'inspired by' (YMCA Quebec's own wording); duplicate Pine Crest blog source consolidated; quebec-camp-landscape's stale Hayo-Went-Ha reading, retracted in lv-games.md on 2026-07-09, corrected here too.",
       "tags": {
         "era": [

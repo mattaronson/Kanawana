@@ -1,8 +1,8 @@
 {
-  "version": "6.38",
-  "kb_version": "6.38",
+  "version": "6.39",
+  "kb_version": "6.39",
   "migrated_from": "3.3",
-  "fact_count": 4827,
+  "fact_count": 4830,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -86559,6 +86559,61 @@
       "date_ref": "1957-1958",
       "conflicts_with": [],
       "added_version": "6.38",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4866",
+      "claim": "KANAWANA'S ENTRY IN THE CCA DIRECTORY ISSUE, JANUARY 1975, field by field as printed: \"KANAWANA (1894) (YMCA)\"; director DEREK V. WALSH; camp address P.O. Box 310, St. Sauveur des Monts, Que. (514-227-2414); winter office 1441 Drummond St., Montreal, H3G 1W5 (514-849-5331); activities TRIPPING, SWIMMING, SAILING, ARTS & CRAFTS, C.I.T. PROGRAM; capacity 90 BOYS 8-15 AND 90 GIRLS 8-15. Three unlabelled columns follow the address in every Quebec entry and read \"X X C\" for Kanawana; THE HEADER ROW IS NOT RECOVERABLE FROM THIS OCR and the columns are therefore left uninterpreted here rather than guessed at -- C plausibly marks co-educational or 'camp' against R for resident, but the directory does not say so on any page this read can reconstruct. The capacity is the useful new number: an even 90 and 90, seven years after coeducation began, in a year for which this project's Kanawana record is otherwise thin.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Camp Kanawana",
+        "Derek Walsh",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1975-01",
+      "conflicts_with": [],
+      "added_version": "6.39",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4867",
+      "claim": "KANAWANA IS THE OLDEST CAMP IN QUEBEC BY THE ASSOCIATION'S OWN 1975 DIRECTORY, AND BY TWELVE YEARS. The January 1975 Directory Issue lists 64 Quebec camps with a founding year printed beside each name. Sorted, the earliest are: KANAWANA 1894; Brewery Mission 1906; Oolahwan 1917; Lewis 1918; B'nai B'rith 1921; Ouareau 1922; Oasis Notre-Dame 1924; Nominingue and Sante Bruchesi 1925; Wa-Thik-Ane, Kinkora and Ste-Jeanne d'Arc 1926. Kanawana's 1894 is the earliest in the province by a twelve-year margin over the next entry, and the directory prints that date as a plain fact of the listing rather than as a claim anyone was arguing about. NOTE WHAT THIS IS AND IS NOT: it is the CCA's own compilation of what its Quebec member camps told it in 1974-75, not an independent test of any founding date, and it covers association members only -- a Quebec camp outside the association is not in it. It says nothing about the national question (see oldest-camp-question.md), only about the province.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "category": "camp_history",
+      "entities": [
+        "Camp Kanawana",
+        "Quebec Camping Association",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1975-01",
+      "conflicts_with": [],
+      "added_version": "6.39",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4868",
+      "claim": "THE QUEBEC CAMPS KANAWANA SAT AMONG IN 1975, from the same directory: 64 member camps, of which six were founded after 1970 and a quarter before 1940. The list names camps this project already tracks -- Oolahwan (1917), Lewis (1918), Ouareau (1922), Nominingue (1925), Kinkora (1926), Weredale (1933), Crippled Children (1938, Tony Shorgan's camp), Perrot Day Camp (1948), Carowanis (1958) -- alongside many it does not: Brewery Mission (1906), Sante Bruchesi (1925), Wa-Thik-Ane (1926), Frontier Lodge (1933), Enfants Infirmes (1938), Quebec Lodge (1943), Amy Molson (1944), Massad (1947), Pembina (1947), Fatima and Notre-Dame du Lac Sept-Iles (1948), Pine Valley and Trail's End (1949), Massawippi (1951), Olier (1954), St-Michel and Mere M. L. Clarac (1957), Robinson, Val Heureux and Wilvaken (1958), Demetelin (1960), Savio (1961), Elgin Gym Camp (1962), YM-YWHA Country Camp (1963), Richelieu Quatre-Saisons (1964), Green Acres (1966), Kennebec (1967) and Maro Mac (1968). The francophone and anglophone camps are interleaved in one alphabetical list, fifteen years after the French section formed and fourteen after it joined the QCA.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "category": "institutions",
+      "entities": [
+        "Quebec Camping Association",
+        "Camp Kanawana",
+        "Camp Ouareau",
+        "Camp Weredale"
+      ],
+      "date_ref": "1975-01",
+      "conflicts_with": [],
+      "added_version": "6.39",
       "added_by": "ralph_loop"
     }
   ]
