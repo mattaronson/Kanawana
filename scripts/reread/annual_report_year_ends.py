@@ -80,6 +80,13 @@ CAMP_LEVEL = re.compile(r"(camp-perrot|kamp-kanawana|point-saint-charles|les-voy
 WINDOW = 120000
 
 
+# The scans break words across lines with a hyphen -- "for the year ending Dec-\nember"
+# in the 1959, 1960 and 1961 volumes, which are three of the four December-regime reports
+# where getting the season right matters most. Joining those back up before matching is a
+# one-line fix that was worth four volumes.
+DEHYPHEN = re.compile(r"[-~\u2010-\u2015]\s*\n\s*")
+
+
 def year_end(text):
     """The year-end statement nearest the START of the document.
 
@@ -128,7 +135,7 @@ def main():
             print("%-52s %-18s %s" % (f.name, "n/a", "-- camp-level report, one season, named for it"))
             camp_level.append(f.name)
             continue
-        head = f.read_text(errors="replace")[:WINDOW]
+        head = DEHYPHEN.sub("", f.read_text(errors="replace")[:WINDOW])
         got = year_end(head)
         if got:
             month, yr = got

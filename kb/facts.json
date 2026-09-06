@@ -1,8 +1,8 @@
 {
-  "version": "8.05",
-  "kb_version": "8.05",
+  "version": "8.06",
+  "kb_version": "8.06",
   "migrated_from": "3.3",
-  "fact_count": 5092,
+  "fact_count": 5093,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91807,6 +91807,24 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.05",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5131",
+      "category": "chronology",
+      "date_ref": "1959-1967",
+      "entities": [
+        "YMCA of Montreal",
+        "Kamp Kanawana"
+      ],
+      "claim": "THE FOUR ANNUAL REPORTS EITHER SIDE OF THE YEAR-END CHANGE, READ. These matter more than the rest because the association moved from a 31 December year-end to a 31 May one in this window, and a misreading moves a camping season by a year. 1959: 'for the year ending December 1959' -- the phrase is broken across a line as 'Dec-\\nember', which is why the scanner had missed it; season 1959. 1960: same phrasing, YEAR ENDING 31 DECEMBER 1960, season 1960, and the volume calls itself the ONE HUNDRED AND NINTH YEAR, matching the ordinal series. 1961: YEAR ENDING 31 DECEMBER 1961, season 1961, READ BY EYE AND NOT BY THE SCANNER -- the text is 'for the year ending Dec-\\nember 4lst, I96I1', with the day OCR'd from 31 to '4lst' and the year to 'I96I1'; a pattern loose enough to take 'I96I1' for 1961 would be loose enough to misread a year elsewhere, so the null stands in the tool and the reading is recorded here instead. The volume calls itself the ONE HUNDRED AND TENTH YEAR, which agrees. 1966-67: STATES NO YEAR-END ANYWHERE IN ITS TEXT, only 'one hundred and fifteenth', SO THIS ONE IS AN INFERENCE AND IS FLAGGED AS ONE. The anchor is firm -- the volume named 1963 says 'ONE HUNDRED AND TWELFTH YEAR' and states a year ending May 1964, which is the changeover the whole four-regime rule (f_5081) is built on -- and the scanner then reads 1964 as May 1965 and 1965 as May 1966, three consecutive May year-ends. On one report a year the 115th is the year ended 31 May 1967, containing the summer of 1966, which is what the file's own name says. IT RESTS ON THERE BEING NO SKIPPED OR DOUBLED REPORT BETWEEN THE 112TH AND THE 115TH, which has been checked against nothing but the count.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1960",
+        "src_ymf_sgw_ymca_annual_report_1961"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.06",
       "added_by": "manual"
     }
   ]

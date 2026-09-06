@@ -59,6 +59,32 @@ run; after the fix, no volume that had a reading before has a different one now.
 **140 of 166 association volumes now state a year-end.** The 26 that resist are mostly pre-1900,
 before Kanawana existed.
 
+## The four transition volumes, read by eye (2026-09-06)
+
+These are the ones that matter, because they sit either side of the change from a 31 December
+year-end to a 31 May one, where a misreading moves a camping season by a year.
+
+**1959 and 1960 are now read by the scanner.** Both say "for the year ending Dec-\nember", broken
+across a line with a hyphen; joining those back up before matching was a one-line fix. **December
+1959** and **December 1960**, containing the summers of 1959 and 1960. The 1960 volume also calls
+itself the **one hundred and ninth year**, which matches the ordinal series exactly.
+
+**1961 the scanner still cannot read, and the null is honest.** The volume says "of Montreal for the
+year ending Dec-\nember 4lst, I96I1" — the day is OCR'd from 31 to "4lst" and the year to "I96I1",
+which is not four digits. A pattern loose enough to accept "I96I1" as 1961 would be loose enough to
+misread a year elsewhere, and a wrong year is worse than a null. **By eye: year ending 31 December
+1961, containing the summer of 1961.** The volume calls itself the **one hundred and tenth year**,
+which agrees.
+
+**1966-67 states no year-end anywhere in its text**, only "**one hundred and fifteenth**". So this
+reading is an inference from the ordinal series and is flagged as one. The anchor is firm: the
+volume named 1963 says "**ONE HUNDRED AND TWELFTH YEAR**" and states a year ending May 1964, which
+is the changeover the rest of this document is built on. The scanner then reads the 1964 volume as
+May 1965 and the 1965 volume as May 1966 — three consecutive May year-ends. On one report a year,
+the 115th is the **year ended 31 May 1967, containing the summer of 1966**, which is what the
+file's own name says. **This rests on there being no skipped or doubled report between the 112th and
+the 115th, which has not been checked against anything but the count.**
+
 ```
 file                                                 year end (stated)  camping season
 --------------------------------------------------------------------------------------------
@@ -164,8 +190,8 @@ sgw-ymca-annual-report-1955.txt                      December 1955      1955
 sgw-ymca-annual-report-1956.txt                      December 1956      1956
 sgw-ymca-annual-report-1957.txt                      December 1957      1957
 sgw-ymca-annual-report-1958.txt                      December 1958      1958
-sgw-ymca-annual-report-1959.txt                      UNREAD             -- read the title page by eye
-sgw-ymca-annual-report-1960.txt                      UNREAD             -- read the title page by eye
+sgw-ymca-annual-report-1959.txt                      December 1959      1959
+sgw-ymca-annual-report-1960.txt                      December 1960      1960
 sgw-ymca-annual-report-1961.txt                      UNREAD             -- read the title page by eye
 sgw-ymca-annual-report-1962.txt                      December 1962      1962
 sgw-ymca-annual-report-1963.txt                      May 1964           1963
@@ -242,7 +268,7 @@ sgw-ymca-annual-report-2008.txt                      December 2008      2008
 sgw-ymca-annual-report-2009-fr.txt                   December 2009      2009
 sgw-ymca-annual-report-2009.txt                      December 2009      2009
 
-140 of 166 ASSOCIATION volumes state a year-end in their first 120000 characters.
+142 of 166 ASSOCIATION volumes state a year-end in their first 120000 characters.
 13 further file(s) are camp-level reports, excluded: a Camp Perrot or Kamp Kanawana
 annual report covers ONE SEASON and is named for it, so the association's year-end
 question does not arise. Scanning them produced nulls that read as unreadable volumes.
