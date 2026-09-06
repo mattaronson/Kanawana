@@ -1,7 +1,7 @@
 # Camp Lighthall
 
-*Status: draft | Sources: 12*
-*Last Updated: 2026-08-25*
+*Status: R3-verified | Sources: 12*
+*Last Updated: 2026-09-06 (VERIFY pass, p_284)*
 
 ## Overview
 
@@ -92,10 +92,33 @@ trail:
 - **30 March 1937** — a season retrospective recalling "Gordie Appleton's evening strolls to the
   Junior League Camp."
 
-Two entries are more than banter. On **29 July 1938**, over the signature "Chief" — the camp director
-— the paper records: "**Our camp doctor is dividing his time between Kanawana and the Junior
-League.**" A shared medical officer is an operational arrangement between the two camps, not a social
-one.
+**The best single entry is one this article had cited and never used.** The issue of **17 August 1935**
+records an actual visit:
+
+> "It was a very beautiful day, in fact almost perfect… but best of all, **some twenty girls from Junior
+> League were our welcome visitors.** We certainly were glad to have them here — especially the
+> directors and certain counselors. In fact, we have it on good authority that **they have been asked
+> back for to-morrow.**"^10
+
+The same issue records an evening entertainment at which "there were present besides our own campers
+several visitors from Junior League, who declared that it was a rare treat."^10 Twenty girls, a return
+visit the next day, and a second occasion in one issue: that is a programme of visits, not boys walking
+over the hill.
+
+**A correction to this article's own reading of the 1938 "camp doctor" item.**^10 It was presented here
+as the paper recording, over the signature "Chief" — the camp director — that "Our camp doctor is
+dividing his time between Kanawana and the Junior League," and read as documentary evidence of a shared
+medical officer. **The source does not support that weight.** The item in full reads:
+
+> "Dearest Do: / Our camp doctor is dividing his time between Kanawana and the Junior League. It worries
+> me, and I want to know if something can be done about it. / **'Chief.'**"
+
+That is the paper's spoof advice column — the same format noted above for 13 August 1932, where a letter
+is signed "A Junior League Girl" — with "Chief" writing *in* as a pseudonymous correspondent, not
+signing off as director. The underlying arrangement may well be real, since the joke only works if the
+doctor was in fact splitting his time; but it is **a joke told about an arrangement, not an
+administrative record of one**, and this article overstated it. *(Corrected in the VERIFY pass,
+2026-09-06.)*
 
 And on **1 July 1939**, the fullest account of the relationship:
 
@@ -106,7 +129,12 @@ And on **1 July 1939**, the fullest account of the relationship:
 > singing, square-dancing, and refreshments, returning home at a late hour."
 
 That single paragraph names two Junior League Camp officers for 1939 and dates **two new buildings to
-June 1939**.
+June 1939**. The item continues past the paragraph usually quoted, and the continuation dates the
+neighbours' season: "**Steve Gannon**, guide for one of the cars, lost his way. One development of the
+visit was **a second trip made next day** by certain staff men for the alleged purpose of aiding the
+Junior League Girls' preparations for **their first batch of campers that evening**. This reason has
+been accepted pro tem."^10 So the Junior League Camp opened its 1939 season in the last days of June,
+the day after the christening.
 
 The relationship is corroborated from Kanawana's side in the scholarly literature: McMorris's thesis
 cites an "Intermediate Section Report, 5 July 1943" recording Kanawana counsellors slipping off to
@@ -193,3 +221,19 @@ independently supports that reading.
 Decisive sources were the Canadian Camping Magazine run on Internet Archive (164 issues, downloaded
 and grepped) and this project's own Green Triangle corpus -- not the open web, which is empty on this
 camp. Per the privacy rule, nothing was pursued about Denise Lamer beyond the catalogue entry. -->
+
+<!-- VERIFY PASS 2026-09-06 (p_284). Advanced draft -> R3-verified. What was checked and what it found:
+ (1) ALL TWELVE cited source ids resolve to records in sources/sources.json.
+ (2) ALL ELEVEN Green Triangle dates in note 10 were confirmed by grep against the cached corpus: every
+     one of the eleven issues does mention the Junior League. (The corpus also holds a duplicate file
+     for 1938-07-29 under two names; eleven distinct issues is right.)
+ (3) TWO FINDINGS, both acted on above. The 17 August 1935 issue was cited in note 10 and never used,
+     and it is the strongest item in the run -- twenty girls visiting, asked back the next day, plus a
+     second occasion in the same issue. And the 1938 "camp doctor" line was framed here as a director's
+     record when the source shows it inside a spoof advice column with "Chief" writing in as a
+     correspondent; the weighting was too high and is corrected in place rather than removed.
+ (4) The Junior League Camp = Camp Lighthall identification REMAINS LABELLED AN INFERENCE, as p_284
+     required, and no source read in this pass turns it into a stated fact.
+ (5) The Camp Amy Molson question is NOT reopened; the article still routes it to camp-oolahwan.md.
+ The three Critical/Important open questions are unchanged and none of them is a verification failure --
+ they need an archive or a document that has not been found, which does not block R3-verified. -->

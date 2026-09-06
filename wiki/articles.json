@@ -9872,7 +9872,7 @@
       "article_id": "camp-lighthall",
       "title": "Camp Lighthall",
       "wiki_folder": "connections/related-camps",
-      "status": "draft",
+      "status": "R3-verified",
       "status_history": [
         {
           "status": "stub",
@@ -9885,6 +9885,12 @@
           "at": "2026-08-25T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-09-06T06:50:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -9892,7 +9898,9 @@
         "f_2234",
         "f_2277",
         "f_2278",
-        "f_2279"
+        "f_2279",
+        "f_4898",
+        "f_4899"
       ],
       "sources_cited": [
         "src_ia_canadian_camping_1949_06",
@@ -9918,7 +9926,7 @@
         "camp-perrot"
       ],
       "file_id": null,
-      "word_count": 2048
+      "word_count": 2654
     },
     {
       "article_id": "t-duncan-patton",

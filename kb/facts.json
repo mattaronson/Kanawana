@@ -1,8 +1,8 @@
 {
-  "version": "6.52",
-  "kb_version": "6.52",
+  "version": "6.53",
+  "kb_version": "6.53",
   "migrated_from": "3.3",
-  "fact_count": 4859,
+  "fact_count": 4861,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87218,6 +87218,45 @@
       "date_ref": "1932",
       "conflicts_with": [],
       "added_version": "6.52",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4898",
+      "claim": "VERIFY CORRECTION (p_284): THE 1938 \"CAMP DOCTOR\" ITEM IS A JOKE-COLUMN LETTER, NOT A DIRECTOR'S RECORD. camp-lighthall.md presented the Green Triangle of 29 July 1938 as the paper recording, \"over the signature 'Chief' -- the camp director\", that \"Our camp doctor is dividing his time between Kanawana and the Junior League\", and read it as documentary evidence of a shared medical officer. THE SOURCE SHOWS OTHERWISE. The full item reads: \"Dearest Do: / Our camp doctor is dividing his time between Kanawana and the Junior League. It worries me, and I want to know if something can be done about it. / 'Chief.'\" That is the paper's spoof advice column -- the same format the article itself notes for 13 August 1932, where a letter is signed \"A Junior League Girl\" -- with \"Chief\" written IN as a pseudonymous correspondent, not signing off as director. THE UNDERLYING FACT MAY WELL STILL HOLD, since the joke only works if the doctor really was splitting his time, but it is a joke told about an arrangement, not an administrative record of one, and the article's weighting was too high. Corrected in place 2026-09-06.",
+      "sources": [
+        "src_ia_green_triangle_collection"
+      ],
+      "confidence": "stated",
+      "category": "documents",
+      "entities": [
+        "Camp Lighthall",
+        "Junior League Camp",
+        "The Green Triangle",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1938-07-29",
+      "conflicts_with": [],
+      "added_version": "6.53",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4899",
+      "claim": "THE STRONGEST GREEN TRIANGLE ITEM ON THE JUNIOR LEAGUE CAMP WAS CITED AND NEVER USED. The issue of 17 AUGUST 1935 is listed in camp-lighthall.md's note 10 among eleven issues but nothing from it appears in the article, and it is the most concrete record of contact in the whole run: \"It was a very beautiful day, in fact almost perfect... but best of all, SOME TWENTY GIRLS FROM JUNIOR LEAGUE WERE OUR WELCOME VISITORS. We certainly were glad to have them here -- especially the directors and certain counselors. In fact, we have it on good authority that THEY HAVE BEEN ASKED BACK FOR TO-MORROW.\" The same issue records an evening entertainment at which \"there were present besides our own campers several visitors from Junior League, who declared that it was a rare treat.\" That is a dated visit of about twenty girls to Kanawana, a return visit the following day, and a second occasion in the same issue -- an actual programme of visits rather than boys walking over the hill. ALSO RECOVERED, from the 1 July 1939 christening item already quoted: the staff made \"a second trip made next day... for the alleged purpose of aiding the Junior League Girls' preparations for their FIRST BATCH OF CAMPERS THAT EVENING\", which dates the Junior League Camp's 1939 season opening to late June 1939, and names STEVE GANNON, the guide of one car, who lost his way.",
+      "sources": [
+        "src_ia_green_triangle_collection"
+      ],
+      "confidence": "stated",
+      "category": "history",
+      "entities": [
+        "Camp Lighthall",
+        "Junior League Camp",
+        "Camp Kanawana",
+        "The Green Triangle",
+        "Steve Gannon"
+      ],
+      "date_ref": "1935-08-17",
+      "conflicts_with": [],
+      "added_version": "6.53",
       "added_by": "ralph_loop"
     }
   ]
