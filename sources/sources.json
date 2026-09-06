@@ -28602,7 +28602,7 @@
       "reliability": "secondary",
       "read_state": "unverified_backfill",
       "read_state_basis": "RECORD RECONSTRUCTED 2026-09-06 FROM THE CITING FACTS (p_220), NOT FROM THE SOURCE. This id was cited by 4 fact(s) and had no record in this index; the record exists so the citation resolves and so a later pass can see what was claimed. NOBODY HAS RE-FETCHED OR RE-READ IT, and where a URL appears it is reconstructed from the description, not one recorded at the time.",
-      "notes": "Montreal Gazette, 5 August 1942, \"Y.M.C.A. Boys Stage Parade and Circus\" -- names Camp Director R. H. Hanagan and Resident Director E. E. Smee | Cited by: f_0851, f_0855, f_0862, f_0868"
+      "notes": "Montreal Gazette, 5 August 1942, \"Y.M.C.A. Boys Stage Parade and Circus\" -- names Camp Director R. H. Hanagan and Resident Director E. E. Smee | Cited by: f_0851, f_0855, f_0862, f_0868 | 2026-09-06: an attempt to recover this issue through the Google News Archive failed. The browse index for that week has no volume labelled 19420806, and the volume labelled 19420805 is in fact the issue of Thursday 6 August (Vol. CLXXI No. 187, id _gIuAAAAIBAJ); the issue of Tuesday 4 August is Vol. CLXXI No. 185, id _AIuAAAAIBAJ. Wednesday 5 August, No. 186, was not found. See f_4888. Still an unverified backfill."
     },
     {
       "source_id": "src_geni_cushing",

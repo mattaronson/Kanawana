@@ -1,8 +1,8 @@
 {
-  "version": "6.46",
-  "kb_version": "6.46",
+  "version": "6.47",
+  "kb_version": "6.47",
   "migrated_from": "3.3",
-  "fact_count": 4847,
+  "fact_count": 4850,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -38172,7 +38172,7 @@
     },
     {
       "fact_id": "f_2244",
-      "claim": "MAJOR CAPABILITY (p_263): THE ENTIRE MONTREAL GAZETTE, 1878 to 2006, IS FREE-TEXT SEARCHABLE VIA GOOGLE BOOKS / GOOGLE NEWS ARCHIVE (24,895 issues, nid=Fr8DH2VBP9sC). Issue volume ids resolve from news.google.com/newspapers?nid=Fr8DH2VBP9sC&dat=YYYYMMDD, and each is searchable at books.google.com/books?id=<volumeId>&q=Kanawana. Both Gazette clips that newspapers.com blocks behind Cloudflare were recovered in full this way. This directly attacks the Phase 2 open questions -- director names, Billy Ball, Harold C. Cross, W. E. Cushing, Ralph Dawson -- each now one query away.",
+      "claim": "[CORRECTED 2026-09-06: THE SEARCH HALF OF THIS CAPABILITY DOES NOT WORK FROM THIS ENVIRONMENT, and the sentence \"each now one query away\" should not be relied on. Four routes were tested and the results are in f_4886. What survives is the BROWSE and PAGE-IMAGE half, which does work and is worth having: see f_4887 for the method, including the Referer header it needs and the fact that the browse index's date labels cannot be trusted. The original claim follows unchanged.] MAJOR CAPABILITY (p_263): THE ENTIRE MONTREAL GAZETTE, 1878 to 2006, IS FREE-TEXT SEARCHABLE VIA GOOGLE BOOKS / GOOGLE NEWS ARCHIVE (24,895 issues, nid=Fr8DH2VBP9sC). Issue volume ids resolve from news.google.com/newspapers?nid=Fr8DH2VBP9sC&dat=YYYYMMDD, and each is searchable at books.google.com/books?id=<volumeId>&q=Kanawana. Both Gazette clips that newspapers.com blocks behind Cloudflare were recovered in full this way. This directly attacks the Phase 2 open questions -- director names, Billy Ball, Harold C. Cross, W. E. Cushing, Ralph Dawson -- each now one query away.",
       "sources": [
         "src_newspapers_gazette_1918b",
         "src_newspapers_gazette_1974"
@@ -86955,6 +86955,61 @@
       "date_ref": "1900",
       "conflicts_with": [],
       "added_version": "6.44",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4886",
+      "claim": "ACCESS FAILURE, TESTED FOUR WAYS: THE MONTREAL GAZETTE CANNOT BE FULL-TEXT SEARCHED FROM THIS ENVIRONMENT (2026-09-06). (1) Per-issue search at books.google.com/books?id=<volumeId>&q=<term> returns HTTP 200, but the result snippets are rendered by JavaScript and NOTHING appears in the served HTML -- the only _OC_Page token in the response is the default PA1, so a query that matches and a query that does not look identical. (2) The screen-reader plain-text view of the same page, &output=html_text, returns HTTP 403; so do &output=text and &printsec=plaintext on the news.google.com viewer. (3) Corpus-wide search, news.google.com/newspapers?q=<term>, redirects to Google Search and returns HTTP 429 with a JavaScript challenge. (4) The Google Books API is out of daily quota (HTTP 429, already recorded today at f_4871). This is a fact about the environment, not about the Gazette. UNTRIED ROUTES: a browser session; a different egress; Newspapers.com or ProQuest through an institutional login; BAnQ's own Gazette holdings; and asking the operator to run a named query in a browser.",
+      "sources": [
+        "src_web_search_exhausted"
+      ],
+      "confidence": "stated",
+      "category": "sources_and_archives",
+      "entities": [
+        "Montreal Gazette",
+        "Google Books",
+        "Google News Archive"
+      ],
+      "date_ref": "2026-09-06",
+      "conflicts_with": [],
+      "added_version": "6.47",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4887",
+      "claim": "WHAT DOES WORK ON THE GAZETTE ARCHIVE, AND TWO TRAPS IN IT. The browse index and the page images are both reachable, so any issue whose DATE is already known can be read by eye. METHOD: fetch news.google.com/newspapers?nid=Fr8DH2VBP9sC&dat=YYYYMMDD, and parse the embedded JSON for start_date / end_date and the volume id and sjid; then fetch news.google.com/newspapers?id=<id>&sjid=<sjid>&pg=1&dq=<anything> and take the list of \"pid\" values, one per page; then request each page as .../newspapers?id=<id>&sjid=<sjid>&pg=<pid>&img=1&hl=en&zoom=3. TRAP ONE: THE IMAGE ENDPOINT NEEDS A REFERER. Without one it returns a 43-byte transparent GIF with HTTP 200 -- a silent failure that looks like a served image. With a Referer of the viewer page it returns a real PNG of about 150 KB. TRAP TWO: ZOOM STOPS AT 3. zoom=4 and zoom=5 return the same 43-byte placeholder. zoom=3 gives roughly 748x1000, at which HEADLINES AND MASTHEADS ARE LEGIBLE AND BODY TEXT IS NOT -- enough to locate a story on a page, not to read it. TRAP THREE: THE DATE LABELS IN THE BROWSE INDEX ARE NOT RELIABLE. The volume filed under dat=19420805 has a masthead reading \"THE GAZETTE, MONTREAL, THURSDAY, AUGUST 6, 1942\" (Vol. CLXXI No. 187), while the volume filed under dat=19420804 reads \"TUESDAY, AUGUST 4, 1942\" (Vol. CLXXI No. 185) and matches. Read the masthead; do not trust the label.",
+      "sources": [
+        "src_web_search_exhausted"
+      ],
+      "confidence": "stated",
+      "category": "sources_and_archives",
+      "entities": [
+        "Montreal Gazette",
+        "Google News Archive"
+      ],
+      "date_ref": "2026-09-06",
+      "conflicts_with": [],
+      "added_version": "6.47",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4888",
+      "claim": "THE GAZETTE OF 5 AUGUST 1942 WAS NOT REACHED, AND MAY NOT BE IN THE ARCHIVE AT ALL. Trying to recover the article behind f_0851 -- \"Y.M.C.A. Boys Stage Parade and Circus\", naming Camp Director R. H. Hanagan and Resident Director E. E. Smee -- the browse index for that week lists volumes labelled 19420803, 19420804, 19420805, 19420807 and 19420808, with NO ENTRY LABELLED 19420806. The volume labelled 19420805 turns out to be the issue of Thursday 6 August (Vol. CLXXI No. 187), and the volume labelled 19420804 is Tuesday 4 August (No. 185). No. 186, the issue of Wednesday 5 August, is therefore either absent from Google's archive or filed under a label this pass did not identify. THE ARTICLE WAS NOT RECOVERED and src_gazette_1942_parade remains an unverified backfill. Its content is known only from the earlier Newspapers.com reading recorded at f_0851, f_0855, f_0862 and f_0868.",
+      "sources": [
+        "src_web_search_exhausted",
+        "src_gazette_1942_parade"
+      ],
+      "confidence": "stated",
+      "category": "sources_and_archives",
+      "entities": [
+        "Montreal Gazette",
+        "R. H. Hanagan",
+        "Edgar E. Smee",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1942-08-05",
+      "conflicts_with": [],
+      "added_version": "6.47",
       "added_by": "ralph_loop"
     }
   ]

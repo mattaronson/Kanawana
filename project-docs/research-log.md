@@ -4666,3 +4666,46 @@ not Quebec's — it sits in the French translation of the ACNE column, immediate
 column, and reads as Quebec's if you stop at the grep hit. And every Quebec figure in that issue
 (Chalifoux, five consultants, eighty camps) was already in the KB as `f_4696`–`f_4697`: rule 7 again,
 search the KB before reading the source.
+
+---
+
+## Campaign 2026-09-06 — testing the Montreal Gazette capability that `f_2244` promised
+
+`f_2244` recorded, in June, that the whole Gazette 1878–2006 was free-text searchable and that the
+Phase 2 people questions — Billy Ball, Harold Cross, Ralph Dawson, W. H. Spearman — were "each now one
+query away." Before spending a session on those questions it was worth testing the claim. It does not
+hold, and half of it never did.
+
+**Four search routes, all closed.**
+
+| Route | Result |
+|---|---|
+| `books.google.com/books?id=<vol>&q=<term>` | HTTP 200, but snippets are JS-rendered; the served HTML shows only the default `PA1` page token, so a hit and a miss look identical |
+| `&output=html_text` (screen-reader plain text) | HTTP 403 |
+| `news.google.com/newspapers?q=<term>` (corpus-wide) | redirects to Google Search, HTTP 429 with a JavaScript challenge |
+| Google Books API | HTTP 429, daily quota exhausted (already recorded at `f_4871`) |
+
+**What does still work, and is worth keeping.** Browse and page images. Fetch
+`newspapers?nid=Fr8DH2VBP9sC&dat=YYYYMMDD`, parse the embedded JSON for the volume `id` and `sjid`,
+fetch the viewer to get one `pid` per page, then request each page as
+`...&pg=<pid>&img=1&hl=en&zoom=3`. Three traps, all of which cost time today:
+
+1. **The image endpoint needs a `Referer`.** Without one it returns a 43-byte transparent GIF under
+   HTTP 200 — a silent failure that reads as a served image. With the viewer page as Referer it returns
+   a real PNG of about 150 KB.
+2. **Zoom stops at 3.** `zoom=4` and `zoom=5` return the same placeholder. At `zoom=3` the page is about
+   748×1000: mastheads and headlines are legible, body text is not. Good for locating a story, useless
+   for reading one.
+3. **The browse index's date labels are wrong sometimes.** The volume filed under `dat=19420805` has a
+   masthead reading *THE GAZETTE, MONTREAL, THURSDAY, AUGUST 6, 1942* (Vol. CLXXI No. 187), while the
+   volume filed under `dat=19420804` matches its label exactly. Read the masthead.
+
+**The test case failed, which is the honest result.** The target was the article behind `f_0851`,
+"Y.M.C.A. Boys Stage Parade and Circus" of 5 August 1942, naming R. H. Hanagan and E. E. Smee — a chance
+to verify one of the twenty-two source records backfilled unverified earlier the same day. That week's
+index lists volumes for 3, 4, 5, 7 and 8 August, No. 186 of Wednesday 5 August is not among them, and
+the article was not recovered. `src_gazette_1942_parade` stays an unverified backfill, and its record
+now says so with the volume ids a later pass would need.
+
+`f_2244` is annotated rather than superseded: its browse half is true and useful. The sentence that had
+to go is "each now one query away."
