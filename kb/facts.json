@@ -1,8 +1,8 @@
 {
-  "version": "7.20",
-  "kb_version": "7.20",
+  "version": "7.21",
+  "kb_version": "7.21",
   "migrated_from": "3.3",
-  "fact_count": 4960,
+  "fact_count": 4961,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -89248,6 +89248,33 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4999",
+      "category": "people",
+      "date_ref": "1933-1945",
+      "entities": [
+        "Harold C. Cross",
+        "Religious Education Council of the Province of Quebec",
+        "International Council of Religious Education",
+        "YMCA of Montreal",
+        "J. P. Copland",
+        "E. Leslie Pidgeon",
+        "Roland Bodger"
+      ],
+      "claim": "HAROLD C. CROSS SERVED THE RELIGIOUS EDUCATION COUNCIL OF THE PROVINCE OF QUEBEC FOR AT LEAST TWELVE YEARS, IN TWO OFFICES. This project held ONE volume of the International Council of Religious Education's Yearbook, for 1936, and its own source record ended 'Other years of this yearbook series exist and are untried' (f_4943). Five more are now read, none lending-restricted. PRESIDENT of the council in the 1933 volume -- 'Officers. President -- HAROLD C. CROSS, Y. M. C. A., Drummond St., Montreal' -- and in 1936. CORRESPONDING SECRETARY in 1942, 1943 and 1945: the 1943 entry reads 'QUEBEC. Religious Education Council of the Province of Quebec, 106-07 Coronation Bldg. President, Dr. E. Leslie Pidgeon, Erskine and American Church; Recording Secretary, Miss Jean Ferguson; CORRESPONDING SECRETARY, MR. HAROLD C. CROSS, CENTRAL Y. M. C. A., 1441 DRUMMOND ST.; Honorary Treasurer, Mr. J. P. Copland'; the 1945 entry gives the same office under President Rev. Roland Bodger of St. Cuthbert's Anglican Church. IN EVERY LISTING HIS ADDRESS IS THE YMCA'S OWN -- Drummond Street, and from the 1940s 'Central Y. M. C. A., 1441 Drummond St.' The council's own address moves from 212 to 106-07 Coronation Building across the period; the YMCA address does not. The 1936 record described its single data point as sitting 'inside the ten-year hole in his documented career'; the hole is now a career. TWO CAUTIONS. THE 1933 ITEM CARRIES TWO QUEBEC LISTINGS, AND THE SECOND IS 1936 -- a year this project already holds separately. [Corrected within the hour: this fact first said the second listing was unassigned and the binding unconfirmed. It is identifiable. The second listing gives 'Vice-President -- Rev. A. M. Hill, Ph.D., Verdun' and 'Secretary -- James A. Reid, Valois', and this project's article on Cross already records from the separately held 1936 volume that the council's 'other officers were Rev. A. M. Hill of Verdun, James A. Reid of Valois and J. P. Copland of Montreal'. Same men, same suburbs.] So that item binds at least 1933 and 1936, Cross is President in both, and the genuinely new years from this pass are 1933, 1942, 1943, 1945 and the undated volume. AND ONE VOLUME (yearbook0000inte_y7m7) CARRIES NO YEAR this read could find; its officer pairing matches 1942's, so it is probably adjacent, but NO YEAR IS CLAIMED FOR IT. TWO FURTHER CROSS ITEMS WERE FOUND AND NOT READ, both lending-restricted: the AMERICAN ROSE ANNUAL 1970, which carries 'North American Rose Gardens of 1851 ... HAROLD C. CROSS, ST. ANNE DE BELLEVUE, QUEBEC' -- an identification on name and province only, not made here, but if it is him it places him in retirement writing on rose history nineteen years after his YMCA history; and THE GEORGIAN SPIRIT: THE STORY OF SIR GEORGE WILLIAMS UNIVERSITY (1967), the YMCA's own university and squarely in this project's institutional lineage, which thanks 'my friend, Mr. Harold C. Cross, dedicated professional leader and historian'.",
+      "sources": [
+        "src_icre_yearbook_1933",
+        "src_icre_yearbook_1936",
+        "src_icre_yearbook_1942",
+        "src_icre_yearbook_1943",
+        "src_icre_yearbook_1945",
+        "src_icre_yearbook_undated"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.21",
       "added_by": "ralph_loop"
     }
   ]

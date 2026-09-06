@@ -6103,3 +6103,40 @@ with paging.
 A smaller trap, mine: each hit's `identifier` is a **list**, so a `str()` comparison never matches
 and the first run of this sweep reported that none of the three sought items were present when one
 was in the first twenty hits.
+
+### Harold C. Cross: the ten-year hole is a twelve-year office
+
+The re-run of the name sweep started with Cross, because his career had the largest documented
+gap. As it happens paging was not what was missing — "Harold C. Cross" returns twenty hits, one
+page. **Nobody had ever run his name against the International Council of Religious Education's
+Yearbook series at all**, although this project held the 1936 volume and that volume's own source
+record ended: "Other years of this yearbook series exist and are untried."
+
+Five more are now read, none lending-restricted. He is **President** of the Religious Education
+Council of the Province of Quebec in 1933 and 1936, and **Corresponding Secretary** in 1942, 1943
+and 1945. The 1943 entry is the fullest: under President Dr. E. Leslie Pidgeon of Erskine and
+American Church, "Corresponding Secretary … **Mr. Harold C. Cross, Central Y. M. C. A., 1441
+Drummond St.**". By 1945 the president is Rev. Roland Bodger and Cross is still in post.
+
+The council moves from 212 to 106-07 Coronation Building across the period. **His address never
+changes**: in every listing from 1933 to 1945 he is at the YMCA.
+
+So the article's "first thing found in the ten-year hole" was not a glimpse into an undocumented
+decade. It was one year of a twelve-year office held in two different roles, across the Kanawana
+directorship's aftermath, the 1938 memo, and the war.
+
+**One phantom year avoided by grepping.** The item whose title page reads "YEARBOOK 1933" carries
+*two* Quebec listings, and I wrote it up as probably binding an unidentified second year. It is
+identifiable: the second listing's vice-president is Rev. A. M. Hill of Verdun and its secretary
+James A. Reid of Valois — and this article already recorded, from the separately held 1936 volume,
+that the council's "other officers were Rev. A. M. Hill of Verdun, James A. Reid of Valois and
+J. P. Copland". Same men, same suburbs. It is 1936, already held, and not a new year. Corrected in
+the cache file, the fact and the source record within the hour of writing it.
+
+**Two Cross items found and deliberately not read**, both lending-restricted. The *American Rose
+Annual 1970* carries "North American Rose Gardens of 1851 … **Harold C. Cross, St. Anne de
+Bellevue, Quebec**" — if it is him, a retirement spent writing on rose history nineteen years
+after his YMCA history; the identification is name and province only and is not made. And *The
+Georgian Spirit: The Story of Sir George Williams University* (1967) — the YMCA's own university,
+later Concordia — thanks "my friend, Mr. Harold C. Cross, dedicated professional leader and
+historian". Those are the obvious next reads on him.

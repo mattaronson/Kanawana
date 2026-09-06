@@ -1,7 +1,7 @@
 # Harold C. Cross
 
-*Status: E1-reviewed | Sources: 8*
-*Last Updated: 2026-09-06 (the Victoria role documented, and his YMCA career pushed back to 1912)*
+*Status: E1-reviewed | Sources: 9*
+*Last Updated: 2026-09-06 (the ten-year hole turns out to be a twelve-year office)*
 
 ## Overview
 
@@ -16,6 +16,7 @@ Phase 2 research (2026) established that Cross was based at the Victoria, Britis
 - **1912**: **Entered YMCA employed service.** The *YMCA Year Book and Official Rosters* for 1921 carries an "Alphabetical List of Employed Officers" whose printed legend says "the figures after each name indicate the year of entry into Association work", and its entry reads "**Cross, H. C., Victoria, B. C., Boys', 12**".^8 That is **seven years earlier than any date this article had**, and it opens a question that did not exist before: where was he between 1912 and 1919?
 - **1919-1925**: Based at the Victoria, British Columbia YMCA. Wrote "Personal Reminiscences" about this period in 1967.^6 **The role is no longer an inference.** The same 1921 Year Book prints, under British Columbia / Victoria: "Physical, W. S. Maguire — **Boys, Harold C. Cross**".^8 He was the Victoria association's **Boys' Work Secretary**, which is what this article had guessed and can now state.
 - **c. 1925-1928**: Camp Director, Kamp Kanawana, YMCA of Montreal. A totem pole was added to the Council Ring in 1927 under his directorship.^3
+- **1933**: **President of the Religious Education Council of the Province of Quebec**, in the same body's *Yearbook 1933* — "Officers. President — **Harold C. Cross, Y. M. C. A., Drummond St., Montreal**", with James J. Reid of Valois as vice-president and Milly Brisbane of Westmount as secretary.^9 So the presidency recorded below for 1936 was not a single year: he held it across at least three.
 - **1936**: **President of the Religious Education Council of the Province of Quebec**, listed in the International
   Council of Religious Education's *Yearbook 1936* at **1441 Drummond Street, Montreal** — the YMCA of Montreal's own
   address. The council sat at 212 Coronation Building with a paid staff of five, and its other officers were Rev. A. M.
@@ -23,6 +24,12 @@ Phase 2 research (2026) established that Cross was based at the Victoria, Britis
   found in the ten-year hole between the Kanawana directorship and the 1938 memo.** It is an office of standing in
   Protestant Montreal — the province's interdenominational religious-education body, presided over by a man working
   out of the YMCA building. It does **not** give his YMCA title, and none should be inferred from it.
+- **1942, 1943 and 1945**: **Corresponding Secretary of the same council** — so he moved from its presidency to its secretaryship and stayed.^9 The 1943 entry is the fullest of the run: under President **Dr. E. Leslie Pidgeon** of Erskine and American Church and Recording Secretary **Miss Jean Ferguson**, "Corresponding Secretary … **Mr. Harold C. Cross, Central Y. M. C. A., 1441 Drummond St.**", with J. P. Copland still Honorary Treasurer. By 1945 the president is **Rev. Roland Bodger** of St. Cuthbert's Anglican Church and Cross is still in the post. The council's own address moves from 212 to 106-07 Coronation Building over the period; **his does not** — in every listing from 1933 to 1945 he is at the YMCA.
+
+  *So the "ten-year hole" is a twelve-year office.* This article had one data point, 1936, and treated it as a glimpse into an undocumented decade. Cross was in that body's leadership from at least 1933 to at least 1945, through the Kanawana directorship's aftermath, the 1938 memo and the war, in two different roles.
+
+  *Two things not claimed.* One volume of the series carries no year this read could find, and no year is assigned to it. And the item whose title page says 1933 binds at least two years — its second Quebec listing is identifiable as 1936 by its other officers, so it is not a third year.
+
 - **1938**: Authored memo to Les Copland regarding historical YMCA reminiscences (Rev. Ernest Taylor materials, 1868-1874).^1
 - **1939-1957**: Period covered by "History-correspondence of Harold C. Cross" in the Concordia Archives.^5
 - **1940-1945**: Maintained a "National Council Boys' Work file" (Concordia Archives, sub-series 14D10), indicating involvement with the YMCA's national boys' work program.^2
@@ -67,6 +74,7 @@ A continuation was later written by F.G. Hubbard: *First Quarter of Second Centu
 6. Concordia University Archives, YMCA of Montreal fonds P0145, sub-series 14H ("Local YMCA Histories Collected by J.M. Duckworth"): "Personal Reminiscences-Victoria, B.C. 1919-25, by Harold C. Cross" (1967).
 7. International Council of Religious Education, *Yearbook 1936*, Quebec section [src_icre_yearbook_1936]. **Not lending-restricted**: the full text was downloaded and searched 2026-09-06, and "Kanawana" does not occur anywhere in the volume. The Quebec section is cached at `sources/cache/religious-education/1936-icre-yearbook-quebec-harold-cross.txt`. See [f_4943]. Other years of this yearbook series exist and have not been tried.
 8. *YMCA Year Book and Official Rosters* (New York: Association Press, 1921) [src_ymca_year_book_official_rosters_1921]. **Not lending-restricted**: the full djvu text was downloaded and searched 2026-09-06, and "Kanawana" occurs in it zero times — it is a roster of associations and their paid staff, not of their programmes. The British Columbia section, the employed-officers legend and the relevant index lines are cached at `sources/cache/ymca-yearbooks/1921-ymca-year-book-official-rosters-montreal.txt`. See [f_4965].
+9. International Council of Religious Education, *Yearbooks* for **1933**, **1942**, **1943**, **1945** and one undated volume [src_icre_yearbook_1933, src_icre_yearbook_1942, src_icre_yearbook_1943, src_icre_yearbook_1945, src_icre_yearbook_undated]. **None is lending-restricted**; all five djvu texts were downloaded and scanned for the name 2026-09-06, following up the note on source 7 that other years of the series existed and were untried. Only the Quebec council's officer block was read in each. The undated volume is registered without a year, deliberately. Quoted with the OCR's slips at `sources/cache/biographical/1933-1945-harold-cross-religious-education-council.txt`, which also records two further Cross items found and **not** read — the *American Rose Annual 1970* and *The Georgian Spirit* (1967), both lending-restricted. See [f_4999].
 
 ## Research Notes
 
