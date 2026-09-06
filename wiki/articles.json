@@ -1993,9 +1993,15 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-06T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0038",
         "f_0039",
@@ -2020,9 +2026,11 @@
         "src_icre_yearbook_1942",
         "src_icre_yearbook_1943",
         "src_icre_yearbook_1945",
-        "src_icre_yearbook_undated"
+        "src_icre_yearbook_undated",
+        "src_georgian_spirit_1967",
+        "src_american_rose_annual_1970"
       ],
-      "open_questions": 3,
+      "open_questions": 4,
       "cross_links": [
         "centennial-1967",
         "council-ring",
@@ -2032,8 +2040,8 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 2073,
-      "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
+      "word_count": 2481,
+      "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged. | 2026-09-06: two lending-restricted items read through Open Library search-inside -- Henry F. Hall's The Georgian Spirit (1966 preface) names Cross 'historian of the Montreal YMCA'; the American Rose Annual 1970 lead is recorded and deliberately NOT identified.",
       "tags": {
         "era": [
           "1920s",

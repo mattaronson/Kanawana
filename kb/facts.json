@@ -1,8 +1,8 @@
 {
-  "version": "7.28",
-  "kb_version": "7.28",
+  "version": "7.29",
+  "kb_version": "7.29",
   "migrated_from": "3.3",
-  "fact_count": 4968,
+  "fact_count": 4969,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -89408,6 +89408,26 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5007",
+      "category": "people",
+      "date_ref": "1966-1970",
+      "entities": [
+        "Harold C. Cross",
+        "Henry F. Hall",
+        "Sir George Williams University",
+        "YMCA of Montreal"
+      ],
+      "claim": "'HISTORIAN OF THE MONTREAL YMCA' -- HENRY F. HALL'S OWN WORDS FOR HAROLD C. CROSS, IN PRINT IN 1966. The Georgian Spirit: The Story of Sir George Williams University, by HENRY F. HALL, preface dated 14 October 1966, is lending-restricted; the passage was assembled from four overlapping Open Library search-inside windows, each query beginning inside the previous window's text so the joins are visible: '...maintain the Georgian tradition. The research and records of my friend, Mr. HAROLD C. CROSS, DEDICATED PROFESSIONAL LEADER AND HISTORIAN OF THE MONTREAL YMCA, have been invaluable and are...' The walk was stopped there; the sense is complete. WHO IS SAYING IT MATTERS: Hall was Sir George Williams University's principal -- Concordia's Hall Building carries his name -- and Sir George Williams is the YMCA's own university. So the head of the association's university thanks Cross by name, fifteen years after Cross published One Hundred Years of Service with Youth, and calls him not 'a historian' or 'the author of a history' but THE HISTORIAN OF THE MONTREAL YMCA. That is a standing, stated in print by someone positioned to know. 'Kanawana' does not appear in the book. AND A SEPARATE LEAD THAT IS STILL NOT AN IDENTIFICATION: the AMERICAN ROSE ANNUAL 1970, leaf 282, carries 'North American Rose Gardens of 1851 -- HAROLD C. CROSS, ST. ANNE DE BELLEVUE, QUEBEC. One of the by-paths of the...' and indexes it at page 58. It is tempting -- historical research on a nineteenth-century subject, which is what Cross did; 1851 is the founding year of the Montreal YMCA whose centenary he wrote; and Sainte-Anne-de-Bellevue is greater Montreal. IT IS STILL A NAME AND A PROVINCE. No middle name, no age, no YMCA reference, nothing joining the two men, and Harold Cross is not a rare name. THE IDENTIFICATION IS NOT MADE. What would settle it: the article's own text if it mentions Montreal or the YMCA, an obituary, or the American Rose Society's contributor notes for that volume.",
+      "sources": [
+        "src_georgian_spirit_1967",
+        "src_american_rose_annual_1970"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.29",
       "added_by": "ralph_loop"
     }
   ]

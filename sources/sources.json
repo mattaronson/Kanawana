@@ -29989,7 +29989,43 @@
       "read_state": "partial",
       "read_state_basis": "NOT lending-restricted. Full djvu text of Internet Archive item yearbook0000inte_y7m7 downloaded and scanned for 'Harold C. Cross' 2026-09-06 under the p_430 name sweep, plus a title-page year scan. Only the Quebec council's officer block was read; the rest of the volume is unread.",
       "notes": "REGISTERED WITHOUT A YEAR, DELIBERATELY. No year could be found in this volume's front matter on the read of 2026-09-06. It gives Harold C. Cross as Corresponding Secretary with J. P. Copland as Honorary Treasurer -- the same pairing as the 1942 volume, so it is probably adjacent to it, but NO YEAR IS CLAIMED."
+    },
+    {
+      "source_id": "src_georgian_spirit_1967",
+      "type": "web",
+      "title": "Henry F. Hall, The Georgian Spirit: The Story of Sir George Williams University (preface dated 14 October 1966)",
+      "date": "1967",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/georgianspiritst0000hall",
+      "cache_path": "sources/cache/biographical/1933-1945-harold-cross-religious-education-council.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "7.29",
+      "reliability": "secondary",
+      "read_state": "snippet",
+      "read_state_basis": "LENDING-RESTRICTED. One passage only, assembled 2026-09-06 from four overlapping Open Library search-inside windows, each query starting inside the previous window's text so the joins are visible rather than assumed. The book has NOT been read. 'Kanawana' does not appear in it -- it is absent from the enumerated list of all 76 items containing that string.",
+      "notes": "Sir George Williams University's own history, by its principal, and Sir George Williams is the YMCA of Montreal's university. Its acknowledgements call HAROLD C. CROSS 'dedicated professional leader and historian of the Montreal YMCA' and thank him for 'research and records' that 'have been invaluable'. See f_5007."
+    },
+    {
+      "source_id": "src_american_rose_annual_1970",
+      "type": "periodical",
+      "title": "American Rose Annual 1970 — \"North American Rose Gardens of 1851\" by a Harold C. Cross of Sainte-Anne-de-Bellevue",
+      "date": "1970",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/americanroseannu1970evan",
+      "cache_path": "sources/cache/biographical/1933-1945-harold-cross-religious-education-council.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "7.29",
+      "reliability": "secondary",
+      "read_state": "snippet",
+      "read_state_basis": "LENDING-RESTRICTED. Two snippets only, from Open Library search-inside 2026-09-06: the article's by-line at leaf 282 and its index entry at page 58. The article has NOT been read.",
+      "notes": "A LEAD ON HAROLD C. CROSS THAT IS DELIBERATELY NOT AN IDENTIFICATION. 'North American Rose Gardens of 1851 -- Harold C. Cross, St. Anne de Bellevue, Quebec.' Historical research on a nineteenth-century subject, in the founding year of the Montreal YMCA whose centenary Cross wrote, from a greater-Montreal address. But the evidence is A NAME AND A PROVINCE and nothing else, and Harold Cross is not a rare name. See f_5007."
     }
   ],
-  "source_count": 1666
+  "source_count": 1668
 }

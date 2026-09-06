@@ -6310,3 +6310,34 @@ This does **not** touch the 734 `skimmed` records. Those are a different populat
 `src_ymf_*` fonds items with the blanket keyword-sweep note — and only ten of the twins are among
 them. p_441 stands, on the six-item sample: two genuinely unread, one partly, three with stale
 labels.
+
+## 2026-09-06 — Two lending-restricted Cross items, read anyway
+
+Source note 9 on `harold-cross.md` ended by recording two items found and *not* read, both
+lending-restricted: the *American Rose Annual 1970* and Henry F. Hall's *The Georgian Spirit*.
+That note is now wrong, in the good direction. Open Library search-inside
+(`openlibrary.org/search/inside.json`) searches the full text of lending-restricted items and
+returns short windows around each hit, which is enough to walk a passage if each query starts
+inside the text the previous one returned.
+
+**Surfaces:** Open Library search-inside (four chained phrase queries for the Hall passage, one
+for the rose annual), the Internet Archive item metadata for both, and the enumeration of all
+76 Open Library items matching "Kanawana" made earlier the same day, used as the control for
+saying Kanawana does not appear in Hall.
+
+**Result.** Hall's preface, dated 14 October 1966: "…maintain the Georgian tradition. The
+research and records of my friend, Mr. Harold C. Cross, dedicated professional leader and
+historian of the Montreal YMCA, have been invaluable and are…" The walk stopped there; the sense
+is complete. Hall was Sir George Williams University's principal, and Sir George Williams is the
+YMCA's own university, so this is the head of the association's university naming Cross *the*
+historian of the association, fifteen years after the centennial book. Standing, stated in print
+by someone positioned to know.
+
+The rose annual, leaf 282: "North American Rose Gardens of 1851 — Harold C. Cross, St. Anne de
+Bellevue, Quebec. One of the by-paths of the…", indexed at page 58. Historical research on a
+nineteenth-century subject, the year 1851, greater Montreal. **The identification is not made.**
+A name and a province, no middle name, no age, nothing joining the two men, and Harold Cross is
+not a rare name. Recorded as open question 4 with the three things that would settle it.
+
+Written up as `f_5007`, two source records, and source note 10. Note 9's "not read" is corrected
+in place and marked `[SUPERSEDED …]` rather than removed, so the sequence stays legible.

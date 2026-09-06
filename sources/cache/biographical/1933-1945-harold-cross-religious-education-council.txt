@@ -102,7 +102,47 @@ TWO OTHER CROSS ITEMS FOUND IN THE SAME SWEEP, NEITHER READ
     dedicated professional leader and historian". A tribute in an acknowledgements page, by
     someone who knew him.
 
-BOTH ARE LENDING-RESTRICTED AND WERE NOT OPENED. They are the obvious next reads on Cross.
+BOTH ARE LENDING-RESTRICTED. THEY WERE WALKED BY SEARCH-INSIDE ON 2026-09-06 — see below.
+
+
+THE GEORGIAN SPIRIT (1967) — WHAT IT SAYS ABOUT HIM, IN FULL
+=============================================================
+Assembled from four overlapping Open Library search-inside windows, each quoted phrase chosen to
+begin inside the previous window's text so the join is visible rather than assumed:
+
+  "...maintain the Georgian tradition. The research and records of my friend, Mr. Harold C. Cross,
+   dedicated professional leader and historian of the Montreal YMCA, have been invaluable and are..."
+
+The sentence runs on past "and are" and the walk was stopped there; the acknowledgement's sense is
+complete. The book is HENRY F. HALL's THE GEORGIAN SPIRIT: THE STORY OF SIR GEORGE WILLIAMS
+UNIVERSITY, and its preface is dated OCTOBER 14, 1966. Hall was Sir George Williams' principal —
+Concordia's Hall Building carries his name — so this is the head of the YMCA's own university
+thanking Cross by name, fifteen years after Cross published One Hundred Years of Service with
+Youth.
+
+THE PHRASE THAT MATTERS IS "HISTORIAN OF THE MONTREAL YMCA". Not "a historian" and not "author of
+a history": a standing, stated by someone in a position to know, in print, in 1966.
+
+"KANAWANA" DOES NOT APPEAR IN THIS BOOK. It is not among the seventy-six items enumerated at
+`sources/cache/openlibrary-search-inside/2026-09-06-all-76-kanawana-items-enumerated.txt`.
+
+
+THE AMERICAN ROSE ANNUAL 1970 — A LEAD, STILL NOT AN IDENTIFICATION
+====================================================================
+Leaf 282: "North American Rose Gardens of 1851 — HAROLD C. CROSS, ST. ANNE DE BELLEVUE, QUEBEC.
+One of the by-paths of the..." — and, from the volume's index, "North American Rose Gardens of
+1851 ... Harold C. Cross 58".
+
+So a Harold C. Cross of Sainte-Anne-de-Bellevue wrote an article on the rose gardens of 1851 for
+the American Rose Society's annual in 1970. WHAT MAKES IT TEMPTING: the subject is HISTORICAL
+research on a nineteenth-century topic, which is what Cross did; 1851 is also the founding year of
+the Montreal YMCA, whose centenary he wrote; and Sainte-Anne-de-Bellevue is greater Montreal.
+
+WHAT IT STILL IS NOT: an identification. The evidence is a name and a province. No middle name, no
+age, no YMCA reference, nothing linking the two men beyond a common name in a common place, and
+"Harold Cross" is not rare. THE IDENTIFICATION IS NOT MADE, and the article records it as a lead.
+WHAT WOULD SETTLE IT: the article's own text, if it mentions Montreal or the YMCA; an obituary; or
+the American Rose Society's contributor notes for that volume.
 
 AND NOBODY ELSE FROM THIS PROJECT IS IN THE SERIES
 ---------------------------------------------------
