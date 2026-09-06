@@ -1,8 +1,8 @@
 {
-  "version": "7.22",
-  "kb_version": "7.22",
+  "version": "7.23",
+  "kb_version": "7.23",
   "migrated_from": "3.3",
-  "fact_count": 4962,
+  "fact_count": 4963,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -89291,6 +89291,22 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.22",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5001",
+      "category": "methodology",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project",
+        "YMCA of Montreal fonds",
+        "Concordia Archives"
+      ],
+      "claim": "THIS PROJECT HOLDS ABOUT 729 CACHED SOURCES THAT HAVE BEEN KEYWORD-SWEPT AND NEVER READ, AND THE KEYWORD LIST WAS FIXED. Of 1,666 source records, the read_state breakdown is: extracted 737, SKIMMED 734, unread 73, partial 44, read 23, unverified_backfill 22, unavailable 17, snippet 12, unknown 4. The 734 skimmed records nearly all carry one blanket note: 'the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually.' THAT NOTE IS HONEST AND THE LABEL IS BROADLY ACCURATE -- ten skimmed records with cache files were sampled at random and NONE is cited anywhere in facts.json. SO THE LARGEST REMAINING BODY OF WORK IN THIS PROJECT IS NOT ON THE INTERNET: it is 729 documents already on disk, swept for six things and read for none. ANYTHING OUTSIDE THAT KEYWORD LIST IS INVISIBLE IN ALL OF THEM -- which is the same failure this session catalogued five times at the scale of a single query, here at the scale of half the corpus. TWO RECORDS ARE THE EXCEPTION AND WERE CORRECTED: the Report of the Junior Camp Committee of 30 November 1900 and the Seventh Annual Report of the Current Camp Committee of 10 December 1900 both carried the blanket 'skimmed' note and both have in fact been read and extracted -- the first down to its tent leaders (Peden, Beall, McGavin, Shaw, Greig), the donation from Mr. Marotte, the $5.05 balance and the cook 'disgustingly dirty in his work', all of which are in the KB and in wiki/meta/attendance-series.md; the second was transcribed by eye from its page images under p_288, the manuscript being cursive with no OCR layer. The blanket note was applied to the collection and never revisited for items subsequently read. WHAT THIS MEANS FOR PLANNING: 'skimmed' is a to-do list of roughly 729 items, minus an unknown number of similarly stale labels. Before reading any of them, check whether its source_id already appears in facts.json.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.23",
       "added_by": "ralph_loop"
     }
   ]

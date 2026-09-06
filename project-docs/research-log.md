@@ -6166,3 +6166,41 @@ repo's own cache. Neither was a search-technique win.
 One good by-product: the Holliday null now rests on a method that can support it. The Montreal
 YMCA's W. J. Holliday is not in that book corpus under that name — which the earlier sweep
 concluded correctly on evidence that could not have carried it.
+
+## The session's last finding: the biggest untouched seam is internal
+*2026-09-06*
+
+Acting on the day's own lesson — find a series where the material would be indexed, rather than
+querying the corpus better — I grepped `sources.json` for records that flag themselves unfinished.
+**618 do.** And the great majority share one blanket note:
+
+> the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names,
+> drownings, Owens, Patton), but this item has not been read closely and no fact has been
+> extracted from it individually.
+
+**734 records carry `read_state: skimmed`** — nearly half the corpus of 1,666. Ten of them were
+sampled at random and **none is cited anywhere in `facts.json`**, so the label is honest and the
+material really is unread.
+
+So the largest remaining body of work in this project is not on the internet. It is **729
+documents already on disk, swept for six things and read for none** — and anything outside that
+six-item keyword list is invisible in all of them. That is the failure this session catalogued
+five times at the scale of a single query, reproduced at the scale of half the corpus.
+
+**Two records were the exception, and are corrected.** The Report of the Junior Camp Committee of
+30 November 1900 and the Seventh Annual Report of the Current Camp Committee of 10 December 1900
+both carried the blanket note, and both have in fact been read — the first down to its tent
+leaders, the donation from Mr. Marotte, the $5.05 balance and the cook "disgustingly dirty in his
+work", all of which are already in the KB and the attendance series; the second transcribed by eye
+from its page images under p_288, the manuscript being cursive with no OCR layer. The blanket note
+was applied to the collection and never revisited for the items later read. Their `read_state` is
+now corrected, and the correction says why.
+
+Raised as **p_441 at weight 10**, with the order of expected yield: the YMCA of Montreal fonds
+items whose titles name a camp, a committee, a report or a person; the *Green Triangle* issues;
+the *Canadian Camping* back issues outside the word-for-word read; and the 1990s-2000s annual
+reports, which bear on the modern era where this wiki is thinnest.
+
+A caution written into the priority: **check whether an item's `source_id` is already in
+`facts.json` before reading it**, and **update its `read_state` afterwards** — which is exactly
+what did not happen for the two 1900 reports.

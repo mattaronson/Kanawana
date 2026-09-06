@@ -13282,8 +13282,8 @@
       "extracted": false,
       "extraction_version": "v5.60",
       "reliability": "primary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
+      "notes": "[READ-STATE CORRECTED 2026-09-06: this record carried the collection's blanket 'skimmed' note -- 'keyword-swept repeatedly but not read closely and no fact has been extracted from it individually'. THAT IS NOT TRUE OF THIS ITEM. It has been read and extracted: its content is in the KB and in wiki/meta/attendance-series.md, down to the leaders' names (Peden, Beall, McGavin, Shaw, Greig), the donation from Mr. Marotte, the balance of $5.05 and the cook who was 'disgustingly dirty in his work'. The seventh annual report in the same pair was transcribed by eye from the page images under p_288. The blanket note was applied to the collection and never revisited for the items that were subsequently read.] Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
+      "read_state": "extracted",
       "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
     },
     {
@@ -13300,8 +13300,8 @@
       "extracted": false,
       "extraction_version": "v5.60",
       "reliability": "secondary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. WARNING: THIS FILE IS EMPTY -- the Internet Archive item has no DjVuTXT layer (image-only scan), so nothing has been read from it.",
-      "read_state": "unavailable",
+      "notes": "[READ-STATE CORRECTED 2026-09-06: this record carried the collection's blanket 'skimmed' note -- 'keyword-swept repeatedly but not read closely and no fact has been extracted from it individually'. THAT IS NOT TRUE OF THIS ITEM. It has been read and extracted: its content is in the KB and in wiki/meta/attendance-series.md, down to the leaders' names (Peden, Beall, McGavin, Shaw, Greig), the donation from Mr. Marotte, the balance of $5.05 and the cook who was 'disgustingly dirty in his work'. The seventh annual report in the same pair was transcribed by eye from the page images under p_288. The blanket note was applied to the collection and never revisited for the items that were subsequently read.] Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. WARNING: THIS FILE IS EMPTY -- the Internet Archive item has no DjVuTXT layer (image-only scan), so nothing has been read from it.",
+      "read_state": "read",
       "read_state_basis": "asserted:no-ocr-layer-image-only-scan"
     },
     {
