@@ -8636,7 +8636,8 @@
         "f_4904",
         "f_4908",
         "f_4909",
-        "f_4910"
+        "f_4910",
+        "f_5206"
       ],
       "sources_cited": [
         "src_1951_kamp_kanawana_history",
@@ -8646,7 +8647,8 @@
         "src_cache_sgw_ymca_annual_report_1991_1992",
         "src_ia_ymca_montreal_annual_reports_collection",
         "src_ymf_sgw_ymca_annual_report_1893_1894",
-        "src_ymf_sgw_ymca_annual_report_1892_1893"
+        "src_ymf_sgw_ymca_annual_report_1892_1893",
+        "src_point_st_charles_institute_1895"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -8656,7 +8658,7 @@
         "founding-1894"
       ],
       "file_id": null,
-      "word_count": 1726,
+      "word_count": 2041,
       "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md \"Other Notable Alumni\" section. Synthesizes existing research including myths-and-legends.md Batch 7 finding (1951 primary source naming Charlton as the person who proposed the camp name). Fixed a pre-existing link-text bug in myths-and-legends.md (text \"R.L. Charlton\" was linked to people/ralph-dawson instead of a Charlton article). Corrected a dangling source_id reference (src_concordia_fonds_12A -> src_concordia_p0145_12a_finding_aid, affecting f_1151) in kb/facts.json while preparing this article. | 2026-07-11: p_214 VERIFY -- Open Question 3 marked exhausted (5-surface Furness fleet search, zero matches).",
       "tags": {
         "era": [

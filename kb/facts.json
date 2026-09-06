@@ -1,8 +1,8 @@
 {
-  "version": "8.50",
-  "kb_version": "8.50",
+  "version": "8.51",
+  "kb_version": "8.51",
   "migrated_from": "3.3",
-  "fact_count": 5167,
+  "fact_count": 5168,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93147,6 +93147,27 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.49",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5206",
+      "category": "institutional",
+      "date_ref": "1895",
+      "entities": [
+        "R. L. Charlton",
+        "Charles Cushing",
+        "Robertson Macaulay",
+        "T. B. Macaulay",
+        "Charles Alexander",
+        "Point St. Charles Institute"
+      ],
+      "claim": "ONE MONTREAL DOCUMENT OF 1895 PUTS FIVE OF THIS PROJECT'S PEOPLE ON ONE PAGE. The *Report of the Point St. Charles Institute* (Montreal, 1895) -- a settlement mission in a working-class district -- prints, on consecutive lines: 'LIFE BENEFACTORS: CHARLES CUSHING, ROBERTSON MACAULAY, T. B. MACAULAY, JAMES COCHRANE. BENEFACTORS, 1894-95: ALEXANDER, CHAS.; CHARLTON, R. L.; AMES, H. B.; COWAN, ROBT.; ARMSTRONG, DR.; DOUGALL, JOHN & SON.' WHO THESE ARE, TO THIS PROJECT. **R. L. CHARLTON** sat on Kanawana's FIRST camp committee in 1894 -- 'Summer Camp. John W. Ross, Chairman. E. J. Coyle. R. L. Charlton' -- and a 1951 source credits him with personally proposing the name Kanawana. **H. B. AMES** is the reformer already named in history/founding-1894.md as a fellow member of the Ontario and Quebec Provincial Committee appointed February 1891, alongside Charlton and D. A. Budge. **CHARLES CUSHING** is the notary son of Lemuel Cushing, the man who took boys to Lake Saint-Joseph in 1892; people/cushing-family.md records that he MARRIED LILY MACAULAY, DAUGHTER OF SUN LIFE PRESIDENT ROBERTSON MACAULAY -- and here Charles Cushing is listed as a Life Benefactor immediately before Robertson Macaulay and T. B. Macaulay, his father-in-law and brother-in-law. **CHAS. ALEXANDER** is the name of the Montreal confectioner who founded the Boys' Home of Montreal in 1870, the institution that became Weredale House -- whose camp, sponsored 1918 and renamed CAMP LEWIS in 1919, the YMCA's Eastern District was using for its boys' work by 1921 (f_5174, f_5202). WHAT THIS IS EVIDENCE OF: that the men behind Kanawana's founding, the men behind the Boys' Home's camp, and the Macaulays were one philanthropic circle in Montreal in the camp's founding year, subscribing to the same settlement mission. This project has assembled those three strands separately and never had a document holding them together. AND IT BEARS ON p_456, WITHOUT SETTLING IT. That priority asks whether the YMCA's CAMP MACAULAY of 1932 was a donor naming. The Macaulays were already known here as YMCA subscribers from the 1880s (f_5188); this puts them in Montreal boys'-institution philanthropy specifically, in the same list as Kanawana's own founders. THE DONOR READING IS STRONGER AND STILL UNPROVEN -- nothing here mentions a camp. THREE OF THE FIVE IDENTIFICATIONS ARE NAME MATCHES, not documents: 'Alexander, Chas.', 'Charlton, R. L.' and 'Charles Cushing' are common enough forms that only the city, the date and the milieu join them to the men this project knows. The Macaulay pair is near-certain, since Robertson and T. B. Macaulay appear together in that order throughout the Sun Life literature. NOT READ: the item is a CIHM microform and this is one page reconstructed from four overlapping queries.",
+      "sources": [
+        "src_point_st_charles_institute_1895"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.51",
       "added_by": "manual"
     }
   ]

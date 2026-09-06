@@ -30223,7 +30223,25 @@
       "notes": "One photograph caption naming the first-game players, including 'T. Duncan Patton'. LENDING-RESTRICTED AND NOT READ. See f_5205.",
       "read_state": "snippet",
       "read_state_basis": "snippet:one-photograph-caption-book-lending-restricted-and-not-read"
+    },
+    {
+      "source_id": "src_point_st_charles_institute_1895",
+      "type": "report",
+      "title": "Report of the Point St. Charles Institute (Montreal, 1895) [CIHM microform 04413]",
+      "date": "1895",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/cihm_04413",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-point-st-charles-1895.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v8.51",
+      "reliability": "primary",
+      "notes": "Found 2026-09-06 under p_430 by the index-form query 'Charlton, R. L.'. NOT READ: the benefactors page reconstructed from four overlapping Open Library search-inside queries. Lists, in adjacent lines, the Life Benefactors (Charles Cushing, Robertson Macaulay, T. B. Macaulay, James Cochrane) and the 1894-95 Benefactors (Chas. Alexander, R. L. Charlton, H. B. Ames, Robt. Cowan, Dr. Armstrong, John Dougall & Son). See f_5206.",
+      "read_state": "snippet",
+      "read_state_basis": "snippet:one-benefactors-page-reconstructed-from-four-overlapping-queries-item-not-read"
     }
   ],
-  "source_count": 1679
+  "source_count": 1680
 }

@@ -1,11 +1,34 @@
 # R.L. Charlton
 
-*Status: draft | Sources: 8*
+*Status: draft | Sources: 9*
 *Last Updated: 2026-09-06 (he chaired the Junior Department in the camp's founding year)*
 
 ## Overview
 
 R.L. Charlton was a Montreal marine surveyor and "ardent YMCA worker" active in the camp's founding-era circle. A 1951 primary source credits him as the person who personally proposed the name "Kanawana," by analogy to a Furness Line steamship, and he later wrote one of the two foundational 1943 manuscript histories of the camp's earliest years.
+
+## The 1895 benefactors page, and the circle he belonged to
+
+One Montreal document places Charlton among the men this project has otherwise assembled separately.
+The *Report of the Point St. Charles Institute* for 1895 — a settlement mission in a working-class
+district — prints on consecutive lines: "**Life Benefactors: Charles Cushing, Robertson Macaulay, T.
+B. Macaulay, James Cochrane. Benefactors, 1894-95: Alexander, Chas.; Charlton, R. L.; Ames, H. B.;
+Cowan, Robt.; Armstrong, Dr.; Dougall, John & Son.**"^9
+
+Read against what this wiki already holds, that page is a map of a circle in the camp's founding year.
+**Charlton** was on Kanawana's first camp committee that same year, with John W. Ross and E. J. Coyle.
+**H. B. Ames**, the reformer, had sat with him on the Ontario and Quebec Provincial Committee
+appointed in February 1891. **Charles Cushing** was the notary son of [[people/cushing-family|Lemuel
+Cushing]], who took boys to Lake Saint-Joseph in 1892, and he had married Lily Macaulay — so he is
+listed here immediately before his father-in-law and brother-in-law, the two Sun Life Macaulays. And
+**Chas. Alexander** is the name of the confectioner who founded the Boys' Home of Montreal in 1870,
+which became Weredale House, whose camp the YMCA's Eastern District would be using by 1921 (see
+[[connections/related-camps/camp-weredale|Camp Weredale]]).
+
+*Three of those five are name matches rather than documented identifications* — "Alexander, Chas.",
+"Charlton, R. L." and "Charles Cushing" are common enough forms that only the city, the year and the
+milieu join them to the men named here. The Macaulay pair is near-certain, appearing in that order
+throughout the Sun Life literature. And nothing on the page mentions a camp.
 
 ## Career and YMCA Service
 
@@ -83,6 +106,7 @@ The Concordia Archives also hold undated photographs of "R. H. Dawson" (likely R
 6. YMCA of Montreal, **41st Annual Report, 1891-92** (published 19 May 1892) [src_cache_sgw_ymca_annual_report_1991_1992] — the staff list and "Committees of the Board, 1892-93". Cached under a filename misnumbered by a century; see [f_4901]. Read 2026-09-06 (p_253). See [f_4904].
 7. YMCA of Montreal, **Annual Report for the year ending 30 April 1899** [src_ia_ymca_montreal_annual_reports_collection] — the Junior Department, Permanent Camp Committee and Summer Camp lists. Read 2026-09-06. See [f_4908].
 8. YMCA of Montreal, **annual report for the year ending 30 April 1894** [src_ymf_sgw_ymca_annual_report_1893_1894], the Junior Department committee list; and the report for the year ending 30 April 1893 [src_ymf_sgw_ymca_annual_report_1892_1893], which announces D. W. Corbett's resignation as the assistant secretary in charge of that department, on his appointment as secretary of the Honolulu Association. Both cached in this repo and read 2026-09-06 under p_440 — **neither had been read before**. Searched in full for "camp", "tent", "outing", "St. Joseph" and "Agathe": the 1892-93 report returns nothing on any of them, and the 1893-94 report only a militia camp. Cached at `sources/cache/ymca-montreal-fonds/1890-1893-the-cushings-inside-the-association.txt`. See [f_4994], [f_4995].
+9. *Report of the Point St. Charles Institute* (Montreal, 1895), CIHM microform 04413 [src_point_st_charles_institute_1895]. The benefactors page, reconstructed 2026-09-06 from four overlapping Open Library search-inside queries; the item has not been read. Found by the index-form query "Charlton, R. L." See [f_5206].
 
 ## Research Notes
 

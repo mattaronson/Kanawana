@@ -1,0 +1,52 @@
+THE POINT ST. CHARLES INSTITUTE'S BENEFACTORS PAGE, 1895
+=========================================================
+Recovered 2026-09-06 under p_430 by the INDEX-FORM query "Charlton, R. L." (24 hits; the running form
+"R. L. Charlton" is lost in a much larger set). Open Library search-inside; the item is a CIHM
+microform, `cihm_04413`, *Report of the Point St. Charles Institute* (Montreal, 1895). NOT READ —
+the page below is four overlapping phrase queries stitched together.
+
+THE PAGE, as the queries returned it
+------------------------------------
+  "...enrolled in each annual report."
+  LIFE BENEFACTORS
+      CHARLES CUSHING
+      ROBERTSON MACAULAY
+      T. B. MACAULAY
+      JAMES COCHRANE
+  BENEFACTORS. 1894-95.
+      Alexander, Chas.      Charlton, R. L.
+      Ames, H. B.           Cowan, Robt.
+      Armstrong, Dr.        Dougall, John & Son
+  (the OCR prints the year as "1804-95" and Ames as "HH. B.")
+
+WHY IT MATTERS
+--------------
+Five of this project's people on one page, in the camp's founding year:
+
+  R. L. CHARLTON      Kanawana's first camp committee, 1894 ("Summer Camp. John W. Ross, Chairman.
+                      E. J. Coyle. R. L. Charlton"), and the man a 1951 source credits with proposing
+                      the name Kanawana.
+  H. B. AMES          the reformer already in founding-1894.md as a fellow member of the Ontario and
+                      Quebec Provincial Committee of February 1891, with Charlton and D. A. Budge.
+  CHARLES CUSHING     notary son of Lemuel Cushing, who took boys to Lake Saint-Joseph in 1892; he
+                      married Lily Macaulay, Robertson Macaulay's daughter — and here he is listed
+                      immediately before his father-in-law and brother-in-law.
+  ROBERTSON MACAULAY  Sun Life president; with T. B. Macaulay, his son and successor.
+  CHAS. ALEXANDER     the name of the confectioner who founded the Boys' Home of Montreal in 1870 —
+                      later Weredale House, whose camp became Camp Lewis and then Camp Weredale.
+
+Kanawana's founders, the Boys' Home's founder and the Macaulays, subscribing to the same settlement
+mission in the same year. This project had those three strands separately and no document holding
+them together.
+
+WHAT IS NOT PROVED
+------------------
+Three of the five are NAME MATCHES joined by city, date and milieu — "Alexander, Chas.", "Charlton,
+R. L." and "Charles Cushing" are common forms. The Macaulay pair is near-certain, appearing in that
+order throughout the Sun Life literature. And nothing here mentions a camp, so p_456's question —
+whether the YMCA's Camp Macaulay of 1932 was a donor naming — is made more plausible and is not
+answered.
+
+METHOD NOTE. The index form is what found this, again: "Charlton, R. L." returns 24 items where the
+running form drowns. Same inversion that produced Owens's day job (f_5204) and Patton's Naismith
+biography (f_5205).
