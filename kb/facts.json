@@ -1,8 +1,8 @@
 {
-  "version": "7.51",
-  "kb_version": "7.51",
+  "version": "7.52",
+  "kb_version": "7.52",
   "migrated_from": "3.3",
-  "fact_count": 5020,
+  "fact_count": 5022,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -90493,6 +90493,48 @@
         "basis": "later of record date + 75 and estimated birth + 100",
         "why": "Detailed end-of-season judgements of four seasonal staff who were private individuals in their late teens and early twenties in 1979, covering temperament, burnout and conduct as well as skills. Held in the knowledge base and written into the article behind a marker; withheld from any published surface, where it would attach a workplace assessment to a searchable name of someone likely still living."
       }
+    },
+    {
+      "fact_id": "f_5059",
+      "category": "history",
+      "date_ref": "1970",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "Yves St. Pierre",
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE PROPOSAL TO ABSORB LES VOYAGEURS WAS ON THE TABLE IN 1970, FOUR YEARS BEFORE MONGRAW FORECAST IT, AND ITS DIRECTOR FOUGHT IT IN WRITING. Yves St. Pierre's report for 1970 ends: 'IT HAS BEEN SUGGESTED THAT LES VOYAGEURS DE LA VERENDRYE AS WE KNOW IT BE DISCONTINUED; THAT THE OPERATION BE MOVED TO KAMP KANAWANA, AND THAT THE TRIPS BE REDUCED TO TWO WEEKS. I AM PERSONALLY VIOLENTLY OPPOSED TO ANY CHANGE OF THIS NATURE.' So the absorption Paul Mongraw predicted in 1974 (f_5055) was not a drift he foresaw but a PROPOSAL ALREADY MADE, and refused, in 1970. HIS ARGUMENT IS PART FINANCIAL AND PART NOT. THE MONEY: 'Les Voyageurs, running at capacity, SHOWS PROFIT. (Even this year, with attendance down and extraordinary truck expenses, WE BROKE EVEN OR SLIGHTLY BETTER.) It seems to me that we should be striving to BRING UP ATTENDANCE rather than thinking of abandoning this type of camping.' THE REST IS AN APPEAL: 'TWELVE YEARS AGO the Montreal YMCA decided to get into the area of canoe and canvas camping offering trips of one month and three weeks in Quebec's wilderness. Since that time OVER 500 TEENAGE BOYS have enjoyed all the pleasure and the character building benefits such trips offer. Most have rounded off their skills to the point where they could take extended canoe trips on their own... IS THIS NO LONGER IMPORTANT? The thousands of man hours that went into making each camper's stay at Les Voyageurs as happy and successful as possible, are these no longer important[?] The suggestion has been made that this type of camping no longer responds to a need among our teenaged community. NO ONE WHO SAW THE LADS UP THERE THIS SUMMER COULD BELIEVE THAT. No one who has left our city and lived under canvas in our beautiful wilderness for a month and felt all the muck and grime and tensions of the city slip away from him could entertain such a thought.' TWO FIGURES TO KEEP. 'OVER 500 TEENAGE BOYS' is the only cumulative attendance figure this project holds for Les Voyageurs. And 'twelve years ago' counts back to 1958 -- a fourth date for the programme's beginning, beside the 1959 'initial year of operation' (f_5017), the 1960 season, and the 1963 report's 'three year history' (f_5026). It is loose retrospective phrasing in a persuasive document and is NOT treated here as evidence for 1958.",
+      "sources": [
+        "src_ymf_1970_les_voyageurs_de_la_verendrye_directors_report"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.52",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5060",
+      "category": "programs",
+      "date_ref": "1970",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "Paul Mongraw",
+        "Paul Heyer",
+        "Walter Gordon",
+        "Pip MacKenzie",
+        "Gary Maavara",
+        "Lac Landron",
+        "Kamp Kanawana"
+      ],
+      "claim": "THE 1970 SEASON, ROUTE BY ROUTE, AND FIVE MORE NAMES. St. Pierre's report opens: 'Another good Summer for Les Voyageurs. PAUL MONGRAW, PAUL HEYER, WALTER GORDON, PIP MacKENZIE and GARY MAAVARA all are recommended for rehire if they should want to work for us again.' Mongraw is in his fourth documented summer here, four years before he directed (f_5054). THE TRIPS, first term after 'an extremely wet' start: Heyer's crew down the CAPITACHOUAN to LE DOMAINE and trucked back; Mongraw and Gordon both northwest into the GRAND LAKE VICTORIA area. Second term: Mongraw to OTTAWA LAKE, 'an area the camp hadn't used for several years', and 'the entire crew was extremely pleased with the trip. The area is recommended'; Heyer with 'a fishing crew' up the CAMACHIGAMA to INDIAN LAKE; Gordon up the Capitachouan to LAKE MOORE. And a route that failed: 'Heyer attempted to reach the CHOCHOCOUANE RIVER but the creek access was too dry. THIS IS PROBABLY THE MOST BEAUTIFUL RIVER IN THE AREA and a new and more reliable access to it must be found.' A POLICY ARGUMENT LOST AND RECORDED: 'First period we had a TWO-WEEK CAMPER. He joined Paul Heyer's crew at mid trip re-supply. The camper was particularly difficult and this crew was particularly close knit so the experience was fairly unfortunate. However, even under the best of circumstances, I believe IT IS SILLY TO ADD A MEMBER TO A CREW IN THE MIDDLE OF A TRIP. I opposed the idea of two-week campers from the time it was first suggested. THE TWO-WEEK CAMPER WAS OUR ONLY \"ESCAPEE\". I am still opposed to the idea!' BASE CAMP AT LANDRON, maintained: the cabin 'reassembled by BLAKE and the base attendants last year' was roofed and given a door after a tree fell on it over the winter; the dock 'is still sound'; dead trees were cleared and more remain 'that present a menace', for which a chain saw borrowed from Kamp Kanawana would help; the base camp stove 'is on its last legs'. AND A COMPLAINT ABOUT THE PARENT CAMP'S KIT: 'we need a new supplier of paddles -- THE TOYS BOUGHT BY CAMPERS FROM KAMP KANAWANA WERE ENTIRELY INADEQUATE.' Also asked for: C.I.P. road maps for trippers, new maps of all sectors, and a packing list 'trimmed down to reflect the campers real needs RATHER THAN TO COMFORT MOTHER'.",
+      "sources": [
+        "src_ymf_1970_les_voyageurs_de_la_verendrye_directors_report"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.52",
+      "added_by": "ralph_loop"
     }
   ]
 }

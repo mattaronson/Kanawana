@@ -1,6 +1,6 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 31*
+*Status: E1-reviewed | Sources: 32*
 *Last Updated: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *Last Updated: 2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
 *Last Updated: 2026-07-05 (named trip staff added from photo-mined canoe-trip plaques, p_191 ENRICH pass) — photo gallery added 2026-07-02*
@@ -236,6 +236,50 @@ open for action" for twenty-four hours; once the whole camp stopped and "base ca
 camp boy in charge and nine campers had to run the closing of camp." His fix was the junior
 counsellor, and he named its own risk: they are "often reduced" to "Joe boy" jobs "by
 self-satisfied trippers."
+
+### 1970: the absorption was proposed, and refused in writing
+
+Paul Mongraw's 1974 forecast that the Voyageurs would be absorbed into Kanawana's Hike and Trip
+department was not a premonition. **The proposal had already been made in 1970, and that year's
+director wrote his refusal into his report:**
+
+> "It has been suggested that **Les Voyageurs de la Vérendrye as we know it be discontinued; that
+> the operation be moved to Kamp Kanawana, and that the trips be reduced to two weeks.** I am
+> personally violently opposed to any change of this nature."^32
+
+Yves St. Pierre's case is half financial and half not. The money: "Les Voyageurs, running at
+capacity, shows profit. (Even this year, with attendance down and extraordinary truck expenses, we
+broke even or slightly better.) It seems to me that we should be striving to bring up attendance
+rather than thinking of abandoning this type of camping."^32 The rest is an appeal:
+
+> "Twelve years ago the Montreal YMCA decided to get into the area of canoe and canvas camping…
+> Since that time **over 500 teenage boys** have enjoyed all the pleasure and the character building
+> benefits such trips offer… **Is this no longer important?** … The suggestion has been made that
+> this type of camping no longer responds to a need among our teenaged community. **No one who saw
+> the lads up there this Summer could believe that.** No one who has left our city and lived under
+> canvas in our beautiful wilderness for a month and felt all the muck and grime and tensions of the
+> city slip away from him could entertain such a thought."^32
+
+"Over 500 teenage boys" is the only cumulative attendance figure this project holds for the
+programme. *("Twelve years ago" would put the start at 1958; it is loose retrospective phrasing in a
+persuasive document and is not treated here as a date.)*
+
+**The 1970 season itself.** Staff were Paul Mongraw — in his fourth documented summer, four years
+before he directed — with **Paul Heyer, Walter Gordon, Pip MacKenzie and Gary Maavara**.^32 After a
+very wet first term, Heyer's crew went down the Capitachouan to Le Domaine and was trucked back;
+Mongraw and Gordon went northwest into the Grand Lake Victoria area. In the second term Mongraw took
+Ottawa Lake, "an area the camp hadn't used for several years," and Heyer had "a fishing crew" up the
+Camachigama to Indian Lake. One route failed: Heyer "attempted to reach the **Chochocouane River**
+but the creek access was too dry. This is probably the most beautiful river in the area and a new
+and more reliable access to it must be found."^32
+
+Two smaller things worth keeping. A policy argument the director lost and recorded anyway: a
+two-week camper joined a crew at mid-trip resupply, "the camper was particularly difficult and this
+crew was particularly close knit," and "the two-week camper was our only 'escapee'. **I am still
+opposed to the idea!**" And a complaint about the parent camp's kit: "we need a new supplier of
+paddles — **the toys bought by campers from Kamp Kanawana were entirely inadequate**." The packing
+list, he adds, should be "trimmed down to reflect the campers real needs rather than to comfort
+mother."^32
 
 ### 1974: a director signs off, and forecasts the end
 
@@ -608,3 +652,4 @@ This is the only itemised cost of a 1920s Canadian canoe trip found by this proj
 29. "Les Voyageurs de la Vérendrye, Annual Report 1963" [src_ymf_1963_les_voyageurs_de_la_verendrye_annual_report]. Read whole 2026-09-06 under p_441. See [f_5051] and [f_5052]. **Its staff section is embargoed as register entry r_0003** — named end-of-season assessments of six seasonal staff who were private individuals in their late teens and early twenties; see `kb/restricted/README.md`.
 30. "Les Voyageurs de LaVerendrye — Report on Summer 1974", signed Paul Mongraw, Director 1974 [src_ymf_1974_les_voyageurs_de_la_verendrye_report_on_summer]. Read whole 2026-09-06 under p_441. See [f_5054] and [f_5055]. **One numbered policy item is embargoed as register entry r_0004** — a sustained criticism of an unnamed Kanawana caretaker, recoverable from any staff roster of the season and therefore an identification by inference.
 31. "Les Voyageurs de la Vérendrye, report for 1979", signed Robert D. Woodhouse, Director [src_ymf_1979_les_voyageurs_de_la_verendrye_report]. Read whole 2026-09-06 under p_441. See [f_5057] and [f_5058]. **More than half the report is named individual staff evaluations, embargoed as register entry r_0005** (review 2060); the names and roles are recorded openly, the judgements are not.
+32. "Les Voyageurs de la Vérendrye, Director's Report 1970", signed Yves St. Pierre, Director '70 [src_ymf_1970_les_voyageurs_de_la_verendrye_directors_report]. Read whole 2026-09-06 under p_441. See [f_5059] and [f_5060].
