@@ -5380,10 +5380,11 @@
       "type": "RESEARCH",
       "description": "IDENTIFY THE KANAWANA DIRECTOR IN WHO'S WHO IN CANADA 1965. Found 2026-09-06 through Open Library search-inside, item whoswhoincanada0000unse_r1d7, scan leaf 1546: '...Association of Canada. Clubs: Kimberley Ski (President, 1960); Redbirds Ski; Kamp Kanawana (YMCA), Director[.]' The subject's NAME was not recovered -- Who's Who entries run long and the name sits at the head, beyond the reach of the phrase-walking used here. Redbirds is the McGill ski club and Kimberley Ski Club is in British Columbia, so this is a McGill man who was president of a BC ski club in 1960 and a director of Kamp Kanawana. He is not obviously any of the directors this wiki holds for the 1960s (Seaman 1959-68), so 'Director' here may mean a member of the camp's governing committee rather than the camp's director -- which would itself be new, since this project has almost no committee names for the period. ROUTES: borrow the volume (a human with an Internet Archive account can, for an hour); query more phrases from the same leaf to walk backwards to the name; or find the same man in an adjacent Who's Who edition where the OCR breaks differently.",
       "weight": 8,
-      "status": "pending",
+      "status": "complete",
       "created": "2026-09-06",
       "source": "Open Library search-inside sweep, 2026-09-06 (f_4933)",
-      "blocked_on": null
+      "blocked_on": null,
+      "notes": "| RESOLVED 2026-09-06. The name is OWEN ERNEST OWENS, Ph.D., Vice-President for Exploration at Cominco, born Montreal 30 March 1925, educated at St. George's Montreal and Westmount High School with three McGill degrees to a 1955 doctorate, listed under CLUBS as 'Kamp Kanawana (YMCA), Director, 1965' (f_4971). TWO CORRECTIONS TO THIS PRIORITY'S OWN TEXT. (1) THE ITEM IS NOT LENDING-RESTRICTED. This priority worked it through search-inside snippets; the whole 5 MB djvu text downloads freely, and 'Kanawana' occurs exactly once in the volume. THE ZEROTH STEP APPLIES TO RESTRICTION TOO: check archive.org/metadata/<id> before assuming a walk is necessary. (2) THE VOLUME IS NOT 'WHO'S WHO IN CANADA 1965'. The Internet Archive dates it 1911 (the series start) and the entry's own latest datum is February 1976, so it is 1976 or later. The '1965' in the snippet is the year of his Kanawana directorship; the words 'IN CANADA' beside it are a running head. AND A BEARING ON ANOTHER ARTICLE: his only son is DAVID NORREY, which corroborates reading O. N. H. Owens as 'Owen NORREYS Harrington' -- order-of-owens.md's Open Question 1 -- without proving it. A Montreal birth record for 30 March 1925 would name his father and settle it."
     },
     {
       "priority_id": "p_430",

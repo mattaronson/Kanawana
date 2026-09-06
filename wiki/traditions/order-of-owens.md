@@ -1,7 +1,7 @@
 # The Order of Owens
 
-*Status: draft | Sources: 9*
-*Last Updated: 2026-08-14*
+*Status: draft | Sources: 10*
+*Last Updated: 2026-09-06 (a second Owens, a Kanawana directorship in 1965, and a son called Norrey)*
 
 ## Overview
 
@@ -145,7 +145,7 @@ The award resumed in 2022 and has run annually since.
 
 ## Open Questions
 
-1. [**RESOLVED IN PART 2026-08-25.**] Who was Norrey Owens? **He is O. N. H. Owens** — established by
+1. [**RESOLVED IN PART 2026-08-25; corroborated from a new direction 2026-09-06.**] Who was Norrey Owens? **He is O. N. H. Owens** — established by
    the Quebec Camping Association presidency, which both forms of the name hold (see above). What
    remains open is only his full given names and his dates: whether he is the "OWENS, OWEN NORREYS
    HARRINGTON" of the LAC First World War file is still unproven, and birth and death dates are
@@ -159,6 +159,31 @@ The award resumed in 2022 and has run annually since.
 7. [Important] Resolve the two paddle-vs-roster spelling discrepancies: Oscar/Oskar Newsam (2008) and Russell/Russel Donahue (2009). The 2009 case differs *between the two paddles*, so a closer read of both artifacts — not just one — is needed.
 8. [Important] Both photographed paddles begin at 2005. What carries the 1976–2004 roster at camp — an earlier paddle, a board, or a written record? Locating it would move four decades of this roster from operator account to primary artifact, and would also settle the Norrey Owens namesake question (Open Questions 1–2).
 9. [Nice-to-have] Several Order of Owens recipients also appear on the [[traditions/traditions-and-culture|Knights of Kanawana]] roll — Denys Lawrence (Owens 1977; knighted 1980) and Dylan Applebaum (knighted 2009; Owens 2010) among them. Are the two honours formally related, sequential, or independent?
+
+### A second Owens, and a family name (2026-09-06)
+
+*Who's Who in Canada* carries an entry for **OWENS, Owen Ernest, Ph.D.**, Vice-President for
+Exploration at Cominco: born **Montreal, 30 March 1925**, educated at St. George's, Montreal and
+Westmount High School, three McGill degrees ending in a 1955 doctorate, and — under **Clubs**, in a
+list with two ski clubs — "**Kamp Kanawana (YMCA), Director, 1965**".^10 His only son is named
+**David Norrey**.
+
+*Norrey* is not a common given name. Its appearance as a middle name in a Montreal Owens family, one
+generation below a man who was a Kanawana director in 1965 and two below a Kanawana Committee
+chairman called Norrey, is real corroboration for reading **O. N. H.** as **Owen NORREYS
+Harrington** — which Open Question 1 above carries as an unproven lead from a Library and Archives
+Canada war file.
+
+**It is not proof, and no source here says the two men are related.** What this project has is a
+surname, a city, a camp and an uncommon family name recurring across generations. The test is cheap
+for anyone with genealogical access: **a Montreal birth record for Owen Ernest Owens, 30 March 1925,
+would name his father.** The shape of the succession — O. N. H. Owens chairing the committee from
+1929 into the 1960s, Owen Ernest Owens a director of the camp in 1965 — is suggestive and equally
+unproven.
+
+*(Note what "Director" means in that entry: it sits under Clubs, and [[people/directors-index|the
+directors index]] has A. Ross Seaman as Camp Director from 1959 to 1967. This is a governance seat,
+not the summer directorship.)*
 
 ## Related Articles
 
@@ -178,6 +203,7 @@ The award resumed in 2022 and has run annually since.
 7. *Canadian Camping Magazine* Vol. 28 No. 2, January 1976 — QCA membership roll [src_ia_canadian_camping_1976_01].
 8. *Canadian Camping Magazine* Vol. 29 No. 2, March 1977 — conference report naming QCA past presidents [src_ia_canadian_camping_1977_03].
 9. Editorial, "Competition in Camps: Values in Turmoil!" / "L'esprit de compétition dans les camps perturbe nos valeurs," and "Interview: June Labbett," *Canadian Camping* Vol. 34 No. 1 (Spring 1982), pp. 3-5 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 141). A national editorial addressed to all member camps, not a Kanawana document.
+10. *Who's Who in Canada* (Toronto: International Press), the entry for Owen Ernest Owens, Ph.D., Internet Archive scan leaf 1546, printed page 790 [src_whos_who_in_canada_owens]. **Not lending-restricted**: the complete djvu text was downloaded and searched 2026-09-06, and "Kanawana" occurs exactly once in the volume, in this entry. The Internet Archive dates the item 1911, which is the series start; the entry's own latest datum is February 1976. Cached with the entry in full, and with what it does and does not establish, at `sources/cache/biographical/whos-who-in-canada-owen-ernest-owens.txt`. See [f_4971].
 
 ## Research Notes
 

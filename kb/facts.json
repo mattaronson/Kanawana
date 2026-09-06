@@ -1,8 +1,8 @@
 {
-  "version": "7.02",
-  "kb_version": "7.02",
+  "version": "7.03",
+  "kb_version": "7.03",
   "migrated_from": "3.3",
-  "fact_count": 4932,
+  "fact_count": 4933,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88645,6 +88645,27 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.02",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4971",
+      "category": "people",
+      "date_ref": "1965",
+      "entities": [
+        "Owen Ernest Owens",
+        "O. N. H. Owens",
+        "Kamp Kanawana",
+        "Cominco",
+        "McGill University",
+        "Order of Owens"
+      ],
+      "claim": "THE UNNAMED KANAWANA DIRECTOR IN WHO'S WHO IS OWEN ERNEST OWENS, AND HIS SON IS CALLED NORREY. p_429 asked for the name behind the snippet 'Kimberley Ski (President, 1960); Redbirds Ski; Kamp Kanawana (YMCA), Director'. The item is NOT lending-restricted -- p_429 had worked it through search-inside snippets -- so the whole volume was downloaded and the entry read: \"OWENS, OWEN ERNEST, Ph.D. -- Vice-President, Exploration, Cominco Ltd... BORN MONTREAL, QUEBEC, MARCH 30, 1925. Educated: ST. GEORGES, MONTREAL, 1930-38; WESTMOUNT HIGH SCHOOL, 1938-43; McGILL UNIVERSITY, MONTREAL, B.Sc., 1948; M.Sc., 1951; Ph.D., 1955. Worked as geologist for Inspiration Mining & Development Co. Ltd., 1953-57; Joined Cominco in 1957 as geologist in mining division at Kimberley... Vice-President, Exploration, February 1976. Member: C.I.M.M.; Geological Association of Canada. Clubs: Kimberley Ski (President, 1960); Redbirds Ski; KAMP KANAWANA (YMCA), DIRECTOR, 1965. Recreation: skiing. Married: ALISON MARY RAMSAY, 1952; has one son (DAVID NORREY) and two daughters (Jane Meredith and Nancy Margaret).\" WHAT 'DIRECTOR' MEANS HERE: the word appears under CLUBS, in a list with two ski clubs, and this project's directors index has A. Ross Seaman as Camp Director from 1959 to 1967. So it is a GOVERNANCE role -- a director on the camp's committee or board -- not the summer directorship. The entry places him in Cominco's Montreal exploration office from 1960 and moving to the international division in 1965, which fits a Montreal committee seat ending about then. AND THE PART THAT BEARS ON THE ORDER OF OWENS: order-of-owens.md establishes that 'Norrey Owens', the award's donor and presenter in 1976, is O. N. H. OWENS, Chairman of the Kanawana Committee in the late 1930s and of Camp Perrot's board through the 1940s and 50s, and its Open Question 1 records an UNPROVEN lead that he is the 'OWENS, OWEN NORREYS HARRINGTON' of a Library and Archives Canada First World War file. OWEN ERNEST OWENS'S ONLY SON IS NAMED DAVID NORREY. Norrey is not a common given name, and its appearance as a middle name in a Montreal Owens family, one generation below a man who was a Kanawana director in 1965 and two below a Kanawana Committee chairman called Norrey, is real corroboration for reading O. N. H. as Owen NORREYS Harrington. IT IS NOT PROOF AND NOTHING HERE SAYS THE TWO MEN ARE RELATED: this project holds no document connecting Owen Ernest Owens (b. 1925) to O. N. H. Owens. What it holds is a surname, a city, a camp, and an uncommon family name recurring across generations -- a hypothesis to be stated and tested, not a fact. THE TEST IS CHEAP for anyone with genealogical access: a Montreal birth record for Owen Ernest Owens, 30 March 1925, would name his father. The succession's shape is equally suggestive and equally unproven -- O. N. H. Owens chairs the committee from 1929 into the 1960s and Owen Ernest Owens is a director of the camp in 1965. ON THE VOLUME'S DATE: the Internet Archive gives 1911, the series start. The entry's latest datum is February 1976, so the volume is 1976 or later and NOT the 'Who's Who in Canada 1965' p_429 called it -- that description came from a snippet in which the running head 'IN CANADA' and the entry's own '1965' fell side by side.",
+      "sources": [
+        "src_whos_who_in_canada_owens"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.03",
       "added_by": "ralph_loop"
     }
   ]

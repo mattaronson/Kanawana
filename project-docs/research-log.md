@@ -5470,3 +5470,52 @@ scans of years already held and a 1936 volume that may be restricted. **The gaps
 1909-1920 — are not there under this stem**, and finding them would need a different search. That is
 written into p_433 so the next pass does not assume the series was exhausted when it was only
 enumerated.
+
+---
+
+## Phase 2 campaign — p_429 resolved, and the zeroth step applies to restriction too (2026-09-06)
+
+**Topic.** p_429: the unnamed Kanawana director in a *Who's Who in Canada* snippet — "Kimberley Ski
+(President, 1960); Redbirds Ski; Kamp Kanawana (YMCA), Director".
+
+Three search-inside queries walked backwards to "I.M.M.; Geological Association of Canada" and then
+stopped being necessary, because a metadata check said the item is **not lending-restricted**. The
+whole 5 MB djvu text downloads freely. "Kanawana" occurs **exactly once** in the volume.
+
+**The name is OWEN ERNEST OWENS, Ph.D.** Vice-President for Exploration at Cominco. Born **Montreal,
+30 March 1925**. St. George's School, Montreal, 1930-38; **Westmount High School, 1938-43**; McGill
+B.Sc. 1948, M.Sc. 1951, **Ph.D. 1955**. A geologist for Inspiration Mining 1953-57, then Cominco from
+1957 — Kimberley, Bathurst, Montreal, and up through exploration superintendencies to the
+vice-presidency in February 1976. Under **Clubs**: "Kimberley Ski (President, 1960); Redbirds Ski;
+**Kamp Kanawana (YMCA), Director, 1965**." **f_4971.**
+
+**Two corrections to the priority's own text**, both worth keeping because both are general.
+
+*The item is not restricted.* p_429 assumed it was and specified a snippet walk. Checking
+`archive.org/metadata/<id>` takes one request and would have saved the walk. **The zeroth step
+applies to restriction as well as to the cache: before planning around a limit, confirm the limit.**
+
+*The volume is not "Who's Who in Canada 1965".* The Internet Archive dates it 1911, which is the
+series start; the entry's own latest datum is February 1976. The "1965" in the snippet is the year of
+his **Kanawana directorship**, and the words "IN CANADA" sitting beside it are a **running head**.
+Two lines of a printed page fell together in a twelve-word window and produced a volume date that
+never existed — the same class of error as the UPU "1909" and the McGraw-Hill "1966".
+
+**And a name that matters elsewhere.** Owen Ernest Owens's only son is **David Norrey**.
+
+`order-of-owens.md` establishes that the award's donor and presenter, "Norrey Owens", is
+**O. N. H. Owens**, Kanawana Committee chairman from the late 1930s, and its Open Question 1 carries
+an unproven lead that he is the "Owen Norreys Harrington Owens" of a Library and Archives Canada war
+file. *Norrey* is not a common given name. Its appearance as a middle name in a Montreal Owens
+family, one generation below a Kanawana director and two below a Kanawana chairman called Norrey,
+corroborates that reading from a direction nobody was looking in.
+
+**It is not proof and the article says so.** No source here connects the two men. What exists is a
+surname, a city, a camp and an uncommon family name recurring across generations. The test is named
+and cheap: **a Montreal birth record for 30 March 1925 would give Owen Ernest Owens's father.**
+
+**What "Director" means there is also written down**, because it would have been easy to get wrong:
+the word sits under *Clubs*, in a list with two ski clubs, and the directors index has A. Ross Seaman
+as Camp Director from 1959 to 1967. It is a governance seat, not the summer directorship — and the
+entry's own career line, which puts Owens in Cominco's Montreal exploration office from 1960 and
+moves him to the international division in 1965, fits a Montreal committee seat ending about then.

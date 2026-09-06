@@ -9610,7 +9610,8 @@
         "src_ia_canadian_camping_1954_06",
         "src_ia_canadian_camping_1976_01",
         "src_ia_canadian_camping_1977_03",
-        "src_ia_canadian_camping_collection"
+        "src_ia_canadian_camping_collection",
+        "src_whos_who_in_canada_owens"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -9620,7 +9621,7 @@
         "people/sean-day"
       ],
       "file_id": null,
-      "word_count": 3230,
+      "word_count": 3602,
       "tags": [
         "awards",
         "canoe-tripping",

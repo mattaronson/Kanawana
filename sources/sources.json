@@ -29665,7 +29665,25 @@
       "read_state": "partial",
       "read_state_basis": "NOT lending-restricted. Full djvu text (630720 bytes) downloaded and searched 2026-09-06. 'Kanawana' occurs ZERO times. The Quebec provincial narrative report, the Quebec/Montreal roster and the Ontario and Quebec provincial committee list were read and cached; the rest is unread. NOTE: the Internet Archive's metadata gives 1890 as the year for every University of Toronto scan of this series; the year here is from the identifier and is corroborated inside the volume.",
       "notes": "Part of the series enumerated at p_433. The 1892 volume's QUEBEC narrative, signed by Charles Cushing as Corresponding Member, says of the Montreal association: 'The physical director, W. H. BALL, JR., A NEW MAN, FROM THE SPRINGFIELD TRAINING SCHOOL, is doing excellent work.' The 1891 volume's Montreal roster has NO physical director at all, and its Ontario and Quebec Provincial Committee, appointed February 1891, includes R. L. CHARLTON of Montreal. See f_4969, f_4970."
+    },
+    {
+      "source_id": "src_whos_who_in_canada_owens",
+      "type": "catalog_reference",
+      "title": "Who's Who in Canada (Toronto: International Press) — the entry for Owen Ernest Owens, Ph.D.",
+      "date": "1976 or later",
+      "date_precision": "approximate",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/whoswhoincanada0000unse_r1d7",
+      "cache_path": "sources/cache/biographical/whos-who-in-canada-owen-ernest-owens.txt",
+      "char_count": 5050896,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "7.03",
+      "reliability": "secondary",
+      "read_state": "partial",
+      "read_state_basis": "NOT lending-restricted -- a fact p_429 did not know, having worked the item through search-inside snippets. The complete djvu text (5,050,896 bytes) was downloaded and searched 2026-09-06. 'Kanawana' occurs EXACTLY ONCE in the volume, in this entry, which was read in full and cached. The rest of the volume is unread.",
+      "notes": "RESOLVES p_429. The Internet Archive dates this volume 1911, which is the series start; the entry's own latest datum is 'Vice-President, Exploration, February 1976', so the volume is 1976 or later and NOT the 'Who's Who in Canada 1965' p_429 called it -- that came from a snippet in which the running head 'IN CANADA' and the entry's '1965' fell side by side. The 1965 is the year of his Kanawana directorship. See f_4971."
     }
   ],
-  "source_count": 1648
+  "source_count": 1649
 }
