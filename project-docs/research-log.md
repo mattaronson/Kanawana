@@ -4890,3 +4890,46 @@ absence of evidence, and the way to be careful is to bound the collection, not t
 for exactly this and the record was honest — "derived:cited-by-fact" is what it said — but a listing
 sat in the citation slot of a live article for five months while the book itself, freely searchable,
 answered a question the same article was asking three screens further down.
+
+---
+
+## Phase 2 campaign — the heading was the whole job (2026-09-06)
+
+**Topic.** p_430's group 3, and behind it p_428: when did the Kanawana post office close? The item
+list carried three *McGraw-Hill Directory and Almanac of Canada* items with the note "cross-reference
+'Kanawana, PQ, see St-Sauveur-des-Monts, PQ' … may date the closure", and the instruction **the
+heading must be recovered first**.
+
+**Surfaces.** Open Library search-inside (18 queries) · the Internet Archive page-image endpoint ·
+the Internet Archive metadata API.
+
+That instruction was correct and is the finding. On its own, "Kanawana, PQ, see St-Sauveur-des-Monts,
+PQ" is an ordinary gazetteer cross-reference and says nothing about a post office at all. The list it
+sits in is headed:
+
+> "POST OFFICES IN CANADA (Sub post offices and closed and renamed post offices appear in italics.
+> The correct postal address for each closed post office appears immediately below the closed post
+> office name.)"
+
+Under that heading the same eight words mean Kanawana is in the italicised class and Saint-Sauveur is
+where its mail goes now. Against the *Canadian Almanac*'s run of the office to about 1955, **the
+office ended between about 1955 and the mid-1960s** — the first closing bracket this project has, and
+p_428 goes from unanswered to half-answered. **f_4954.**
+
+**Two things the source will not give, and both are written into the article rather than smoothed
+over.** The heading lumps *three* categories into one italic: sub offices, closed ones and renamed
+ones. Kanawana was never renamed — the name is still on the 1981 *Atlas of Canada* — so it is closed
+or reduced to a sub-office, and the list cannot say which.
+
+And the year is not 1966. The Internet Archive holds **four** items of this series and dates every
+one of them 1966; they are plainly different printings, and no internal year came out of any of them.
+This is the third time the same catalogue has offered this project a wrong series date — every
+*Canadian Almanac* volume is 1848, and the UPU *Dictionnaire*'s August 1912 supplement is 1909, which
+taken at face value would have put a Kanawana post office here before the YMCA. So the bracket is
+written "by the mid-1960s".
+
+**The lesson, which generalises past this source.** *An index entry means what its heading says it
+means.* Everything about the sentence "Kanawana, PQ, see St-Sauveur-des-Monts, PQ" — its wording, its
+alphabetical neighbours, the service codes beside it — is identical whether the list is a gazetteer,
+a shippers' guide or a register of dead post offices. The heading is not context for the entry. It is
+the entry's predicate, and a snippet search returns the subject without it every time.

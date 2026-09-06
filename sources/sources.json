@@ -29359,7 +29359,25 @@
       "read_state": "snippet",
       "read_state_basis": "LENDING-RESTRICTED; NOT READ. Four windows on scan leaf 150, reconstructed 2026-09-06 from twenty-five overlapping Open Library search-inside queries. THE WALK WAS DELIBERATELY STOPPED at the camp material and the sentences that place it, and was not extended into the surrounding chapters: this is a mother's book of letters to a son who died, and reading a published book is not the same as mining it. Everything found is recorded; nothing was withheld. Page images return HTTP 403.",
       "notes": "The book this project has cited since March 2026 from listings alone (f_1135) has now been read where it touches the camp. Sam Lazarus was a camper 'practically every summer since he was eight' -- from summer 1986, on his 3 March 1978 birth -- applied for a CIT position AFTER leaving school rather than at the usual CIT age, was remembered as good with the youngest campers, who called him 'Daddy', and meant to return as a counsellor the summer he instead left for Ghana. Torge's own sentence on the funeral: 'Counselors and kids from Kamp Kanawana are everywhere, many at their first funeral.' See f_4953."
+    },
+    {
+      "source_id": "src_mcgraw_hill_directory_almanac_canada_1960s",
+      "type": "catalog_reference",
+      "title": "McGraw-Hill Directory and Almanac of Canada, \"Post Offices in Canada\" — the Kanawana cross-reference",
+      "date": "catalogued 1966",
+      "date_precision": "approximate",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/mcgrawhilldirect0000unse",
+      "cache_path": "sources/cache/postal/1960s-mcgraw-hill-directory-almanac-kanawana-closed-office.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.91",
+      "reliability": "tertiary",
+      "read_state": "snippet",
+      "read_state_basis": "LENDING-RESTRICTED; NOT READ. The list's heading and the Kanawana line were reconstructed 2026-09-06 from eleven overlapping Open Library search-inside queries. Page images return HTTP 403. FOUR separate Internet Archive items of this series (mcgrawhilldirect0000unse, _v4j7, _f4f5, _j6s5) are ALL catalogued 1966 and are evidently different printings; no internal year was recovered from any of them, so the date is carried as catalogued and not as verified.",
+      "notes": "The list is headed \"POST OFFICES IN CANADA (Sub post offices and closed and renamed post offices appear in italics. The correct postal address for each closed post office appears immediately below the closed post office name.)\" Two of the four items carry \"Kanawana, PQ, see St-Sauveur-des-Monts, PQ\", which places Kanawana in the italicised class -- sub, closed or renamed -- with St-Sauveur-des-Monts as the correct address. Against the Canadian Almanac's run of the office to about 1955, this brackets its end. See f_4954."
     }
   ],
-  "source_count": 1631
+  "source_count": 1632
 }

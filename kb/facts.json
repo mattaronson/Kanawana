@@ -1,8 +1,8 @@
 {
-  "version": "6.90",
-  "kb_version": "6.90",
+  "version": "6.91",
+  "kb_version": "6.91",
   "migrated_from": "3.3",
-  "fact_count": 4915,
+  "fact_count": 4916,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88297,6 +88297,25 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.90",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4954",
+      "category": "site",
+      "date_ref": "c.1955-c.1966",
+      "entities": [
+        "Kanawana",
+        "Kanawana post office",
+        "St-Sauveur-des-Monts",
+        "Terrebonne"
+      ],
+      "claim": "THE KANAWANA POST OFFICE IS GONE BY THE MID-1960s, AND ITS MAIL GOES TO ST-SAUVEUR-DES-MONTS. The McGraw-Hill Directory and Almanac of Canada carries a list headed \"POST OFFICES IN CANADA (Sub post offices and closed and renamed post offices appear in italics. The correct postal address for each closed post office appears immediately below the closed post office name.)\", and in it, in the alphabetical run between \"Kanata, Ont\" and \"Kandahar, Sask\": \"KANAWANA, PQ, SEE ST-SAUVEUR-DES-MONTS, PQ\". BRACKET: the Canadian Almanac's post-office table still carries Kanawana as an operating office in two volumes of the 1950s, the later printing calendars for 1954 and 1955 (f_4936). So the office ENDED BETWEEN ABOUT 1955 AND THE MID-1960s -- the first closing bracket this project has, against an opening bracket of March 1909 to 1911 (f_4944). WHAT THE ENTRY DOES NOT SAY. The heading lumps THREE categories into the same italics: sub post offices, closed ones and renamed ones. Kanawana was not renamed -- the name persists on maps into the 1981 Atlas of Canada -- so it is either CLOSED or reduced to a SUB POST OFFICE served from St-Sauveur, and this source cannot tell which. It gives no date, no postmaster and no reason. ON THE YEAR OF THE VOLUME, WHICH IS NOT 1966 ON THIS EVIDENCE. The Internet Archive holds FOUR items of this series and catalogues EVERY ONE of them 1966; they are evidently different printings, and no internal year was recovered from any. The same catalogue gives every volume of the Canadian Almanac the year 1848 and gave the UPU Dictionnaire's 1912 supplement the year 1909, a trap this project has already walked into once. The date is therefore carried as 'a mid-1960s volume catalogued 1966', and the closing bracket is written as 'by the mid-1960s' rather than 'by 1966'. TWO of the four items carry the Kanawana line; the other two were not returned by the query and are not evidence of absence. CAVEAT: lending-restricted and not read; heading and entry reconstructed from eleven overlapping Open Library search-inside queries, page images 403. Library and Archives Canada's Post Offices and Postmasters database remains the authority on the actual closing date and still refuses this project at the gateway (p_428).",
+      "sources": [
+        "src_mcgraw_hill_directory_almanac_canada_1960s"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.91",
       "added_by": "ralph_loop"
     }
   ]

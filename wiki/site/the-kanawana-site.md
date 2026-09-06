@@ -1,7 +1,7 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 49*
-*Last Updated: 2026-09-06 (the post office: opened by 1911, summer only, and forty years long)*
+*Status: E1-reviewed | Sources: 50*
+*Last Updated: 2026-09-06 (and the post office is gone by the mid-1960s, with its mail redirected to Saint-Sauveur)*
 
 ## Overview
 
@@ -79,8 +79,27 @@ domestic detail, were federal mail on a Dominion route — including the long on
 in the 1950s that a Montreal memoir still remembered sixty years later (see
 [[history/postwar-gap|The Postwar Gap]]).
 
-Three things are not established and should not be inferred: **when the office opened and when it
-closed**, **who the postmaster was**, and whether it served the camp alone or a wider seasonal
+**And then it stops.** A mid-1960s volume of the *McGraw-Hill Directory and Almanac of Canada* prints a
+list headed "**Post Offices in Canada** (Sub post offices and closed and renamed post offices appear in
+italics. The correct postal address for each closed post office appears immediately below the closed
+post office name.)", and in the run between Kanata, Ontario and Kandahar, Saskatchewan it has:
+"**Kanawana, PQ, see St-Sauveur-des-Monts, PQ**".^50 Recovering that heading was the whole job — the
+entry on its own would read as an ordinary gazetteer cross-reference, and under the heading it means
+Kanawana is in the italicised class and Saint-Sauveur is where its mail goes now. Against the 1950s
+almanacs above, **the office ended between about 1955 and the mid-1960s**, which is the first closing
+bracket this project has.
+
+Two cautions, both of which the source imposes rather than this article volunteering them. The
+heading puts *three* categories into the same italics — sub post offices, closed ones and renamed
+ones. Kanawana was never renamed, so it is either closed outright or reduced to a sub-office served
+from Saint-Sauveur, and the list cannot say which. And the year is written here as **the mid-1960s**
+rather than 1966 on purpose: the Internet Archive holds four printings of this series and dates every
+one of them 1966, exactly as it dates every volume of the *Canadian Almanac* 1848 and dated the UPU
+supplement of 1912 to 1909 — a catalogue date that, taken at face value, would have put a Kanawana
+post office here before the YMCA was.
+
+Three things are still not established and should not be inferred: **the exact opening and closing
+dates**, **who the postmaster was**, and whether the office served the camp alone or a wider seasonal
 settlement around the lakes. Library and Archives Canada's Post Offices and Postmasters database is the
 authority on all three; it refused this project's requests at the network gateway (HTTP 403), which is a
 fact about the gateway. Tracked as `p_428`.
@@ -342,6 +361,8 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 47. *Summer Camps & Programs* (1983), the entry "Kamp Kanawana-Montreal YMCA" [src_summer_camps_and_programs_1983]. **Part of one entry**, reconstructed 2026-09-06 from overlapping Open Library search-inside queries; the book is lending-restricted and has not been read. Cached at `sources/cache/openlibrary-search-inside/2026-09-06-summer-camps-and-programs-1983-kanawana.txt`. See [f_4945].
 48. *The Canadian Summer Job Directory*, 2006 and 2008 editions, the entry "YMCA KAMP KANAWANA" [src_canadian_summer_job_directory_2006_2008]. **One entry from each edition**, reconstructed 2026-09-06 from ten overlapping Open Library search-inside queries; both books are lending-restricted and neither has been read. Cached with the queries at `sources/cache/openlibrary-search-inside/2026-09-06-canadian-summer-job-directory-2006-2008.txt`. See [f_4947].
 49. Rand, McNally & Co.'s *Indexed Pocket Map and Shippers' Guide of Quebec* (Chicago, 1911) [src_rand_mcnally_quebec_1911]. **Not lending-restricted**: the full text was downloaded and searched 2026-09-06, and "Kanawana" occurs exactly once in it. The entry, its neighbours and the guide's own legend are cached at `sources/cache/postal/1911-rand-mcnally-quebec-kanawana-summer-po.txt`. See [f_4936], [f_4944].
+
+50. *McGraw-Hill Directory and Almanac of Canada*, "Post Offices in Canada" [src_mcgraw_hill_directory_almanac_canada_1960s]. **The list's heading and one entry only**, reconstructed 2026-09-06 from eleven overlapping Open Library search-inside queries; the series is lending-restricted, page images return HTTP 403, and no volume has been read. The Internet Archive catalogues four separate printings of this series as 1966 and no internal year was recovered from any of them, so the date is carried as catalogued and not as verified. Cached with its queries and its dating caution at `sources/cache/postal/1960s-mcgraw-hill-directory-almanac-kanawana-closed-office.txt`. See [f_4954].
 
 ## Research Notes
 
