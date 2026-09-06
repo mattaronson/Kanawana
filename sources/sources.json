@@ -11412,7 +11412,7 @@
       "reliability": "primary",
       "notes": "Verified genuine via archive.org metadata API. Cochrane's first-person rebuttal of a July 1958 Camp Committee decision to close Camp Perrot once a new site was found; cites closure rationale (limited programme/site, encroaching homes, young counsellors, poor swimming, bank erosion) and defends the camp, including a direct Perrot-vs-Kanawana comparison in his own words and A. Ross Seaman's tree-planting c.1950.",
       "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact"
+      "read_state_basis": "derived:cited-by-fact [ANNOTATED 2026-09-06: pathless record; the document is cached as sources/cache/ymca-montreal-fonds/1959-a-fresh-look-at-camp-perrot.txt under src_cache_1959_a_fresh_look_at_camp_perrot, marked unread. Spot-checked 2026-09-06: its opening and the committee's six closure rationales ARE already quoted in wiki/site/camp-perrot.md, so this one really was read. The duplicate record is the problem, not the reading. See p_442.]"
     },
     {
       "source_id": "src_camp_perrot_1969_family_centre",
@@ -11430,7 +11430,7 @@
       "reliability": "primary",
       "notes": "Verified genuine via archive.org metadata API. States the resident camp (est. 1940s) closed at an OCR-illegible year, sat dormant ~6 years, reopened 1958 as a Day Camp, added a Family Summer Centre program in 1964, and Tent/Trailer facilities after Expo 67 -- internally inconsistent with the 1959 memo's evidence that the resident camp was still operating in 1958/1959, so the closure chronology is not fully resolved.",
       "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact"
+      "read_state_basis": "derived:cited-by-fact [ANNOTATED 2026-09-06: this record is pathless and its 'extracted' was derived from the citation graph. The document itself is cached under src_cache_1969_camp_perrot_family_centre, which read 'unread' until it was read on 2026-09-06 and produced f_5099. DUPLICATE PAIR, see p_442 and p_451.]"
     },
     {
       "source_id": "src_camp_dorval_1928",
@@ -27160,8 +27160,8 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "read_state": "unread",
-      "read_state_basis": "none: catalogued 2026-09-02 from a cached file that belonged to no source record",
+      "read_state": "extracted",
+      "read_state_basis": "2026-09-06 under p_451: READ END TO END. 3,134 characters, the whole document. Preamble, purpose, historic background, 1968 facilities, 1968 usage and future (f_5099). ITS HISTORIC BACKGROUND IS WRONG about when the resident camp closed -- it implies 1952 with six dormant years, and the annual reports for 1953, 1954, 1955 and 1957 all describe a running resident camp. The 1968 figures are contemporary and sound.",
       "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read."
     },
     {

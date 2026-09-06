@@ -1,7 +1,7 @@
 # Camp Perrot
 
-*Status: E1-reviewed | Sources: 19*
-*Last Updated: 2026-09-06 (130 families in 1966, and a trailer park and pool built for Expo 67)*
+*Status: E1-reviewed | Sources: 20*
+*Last Updated: 2026-09-06 (the 1969 Family Centre proposal: 1968 in detail, and a history section that is wrong)*
 
 ## Overview
 
@@ -51,6 +51,20 @@ The same report does **not** say whether a resident season ran at Perrot in 1961
 **And by 1963-64 the association was building it into something else.** The property section of the 112th annual report, covering 1 January 1963 to 31 May 1964, records: "At Camp Perrot, **additional facilities were constructed in conjunction with the development of this property as a family recreation centre**."^18
 
 **And in 1966 and 1967 the property was built out for Expo, and the family programme had a size.** The 1966-67 report: "In preparation initially for the accommodation of Expo visitors, and subsequently **as an expanded site for summer day camp activity**, the Ile Perrot property was developed as a **camping and trailer site** for Expo visitors. It is expected that **two-thirds of the capital investment will be recovered from Expo operations**."^19 The same report gives the programme's scale: "The Ile Perrot family camping program **organized by the West Island Branch** of the Montreal YMCA accommodated **130 families plus 27 groups** from the community."^19 A year later: "To help accommodate Expo visitors, a **trailer park** was built on previously undeveloped sections of the Camp Perrot property. The development included a **new swimming pool** which will be available to participants in the family camping program there."^19
+
+**And a 1969 proposal describes the whole second life from inside — with a history section that is wrong.** "Camp Perrot Family Centre" sets out the case for expanding the site's family programming, and its facilities and usage figures for 1968 are the most detailed this article has.^20
+
+The site by 1968: **48 acres** (against 45 in the 1949 report and 40 in the 1952 one), **two swimming pools**, a lodge seating 200, a farm house with three bedrooms and four offices, a barn for storage, a laundromat — and "**Hospital – program area**," which is the John W. Ross Memorial Hospital still standing twenty years on and put to another use.^20
+
+Usage that year: a **day camp of 1,353 campers** at $19.00 a child, drawing from the Northmount, Lachine-Dorval and West Island districts; a **Summer Centre serving 100 families** at $15.00 a family; and a **tent and trailer area**, "primarily transient," at $2.50 for a tent, $2.50 for a trailer without electricity and $3.50 with, taking **600 families**. The plan for what came next: "greater usage by total Montreal Association i.e. as a family program operation" and a "**day camp centre for French and English program**."^20
+
+**Do not date anything from its historic background.** That paragraph reads: "Camp Perrot, established in the 1940's as a resident camp, operated as such until 196[?]. **Financial difficulties forced the camp to close** and the campsite was **dormant for a period of six years**. Re-opened in **1958** as a Day Camp administered through the **Lakeshore YMCA**."^20 The year is damaged in the scan. Take the document's own arithmetic — 1958 less six dormant years — and the resident camp closes in 1952.
+
+It did not. The association's annual reports describe a running resident camp straight through that supposed dormancy: 177 boys and 87 girls in 1955, 207 boys and 104 girls in 1957, with 1953 and 1954 described the same way and the camp's own 1958 season report surviving. A 1969 proposal's preamble, written to make a case about the future, is a weak witness to events fifteen years earlier, and the contemporaneous reports beat it outright.
+
+That is useful rather than confusing. The closure chronology above is called "genuinely contested between two internal sources"; there is now a third account, and it is demonstrably wrong on a point that can be checked, which is a reason to weight the contemporaneous record over the retrospective one throughout this question.
+
+**One thing it adds that nothing else does: a reason.** "Financial difficulties forced the camp to close." Open question 6 below asks why Camp Perrot closed and has only the July 1958 committee's list — limited programme, limited site, closing in by homes, poor swimming, bank erosion — against the 1959 memo defending the place. Money is a different kind of answer, and it comes from the association's own later account. It also comes from the same paragraph that gets the date wrong.
 
 So the site's second life is documented end to end: day camps from 1961, development as a family recreation centre by 1963-64, a family camping programme under West Island Branch taking 130 families in 1966, and a trailer park and pool built for Expo in 1967. The resident boys' and girls' camp is absent from every one of those records, and none of them says when it stopped.
 
@@ -226,7 +240,7 @@ The earliest known Kanawana-side documentary evidence is a "Comparison of Two Bo
 3. ~~[Important] How did its programming differ from Kanawana's?~~ [Resolved 2026-07-10] Co-ed via sequential single-sex sessions, younger/narrower age range, an explicitly low-cost branch-referral "service camp" model, versus Kanawana's longer-stay boys-only wilderness model. See Programming and Capacity above.
 4. ~~[Important] What was its capacity and age range?~~ [Resolved 2026-07-10] Ages 9-14 (boys) / 9-15 (girls) per the 1947 brochure; ~260 campers/season in 1947, rated capacity ~630 boys/210 girls by 1958.
 5. ~~[Nice-to-have] Did Camp Perrot serve as a base for Kanawana canoe trips, or was it wholly independent?~~ [Resolved 2026-07-10] Wholly independent canoe program; the two camps' shared Île-Perrot-area activity is geographic coincidence, though a direct 1954 canoe-donation link from Kanawana to Perrot is documented.
-6. [Nice-to-have, partially advanced 2026-07-10] Why was Camp Perrot closed? A 1959 memo defends the camp against closure rationale cited at a July 1958 committee meeting ("limited programme," "limited site," "closing in by homes," "counsellors too young," "poor swimming," "bank erosion"), but a separate 1969 document's account of dormancy and a 1958 Day Camp reopening is internally inconsistent with this. Not fully resolved -- see Founding and Operating Span above.
+6. [Nice-to-have, partially advanced 2026-07-10; **a stated reason found 2026-09-06** — the 1969 Family Centre proposal says "financial difficulties forced the camp to close," which is the association's own later account and the only reason given by anything other than the 1958 committee's list. Weigh it against the fact that the same paragraph misdates the closure by roughly a decade; see the section above and [f_5099].] Why was Camp Perrot closed? A 1959 memo defends the camp against closure rationale cited at a July 1958 committee meeting ("limited programme," "limited site," "closing in by homes," "counsellors too young," "poor swimming," "bank erosion"), but a separate 1969 document's account of dormancy and a 1958 Day Camp reopening is internally inconsistent with this. Not fully resolved -- see Founding and Operating Span above.
 
 ## Related Articles
 
@@ -260,6 +274,7 @@ The earliest known Kanawana-side documentary evidence is a "Comparison of Two Bo
 17. YMCA of Montreal annual report for the year ending **31 December 1961** [src_ymf_sgw_ymca_annual_report_1961], the "Summer Programs For Youngsters in the City" section. A December-year volume, so its season is 1961 (see [f_5081]). Read 2026-09-06 under p_441. See [f_5089].
 18. YMCA of Montreal, **112th Annual Report**, for the year ended **31 May 1964** [src_ymf_sgw_ymca_annual_report_1963] — a seventeen-month volume covering 1 January 1963 to 31 May 1964 (see [f_5090]), property section. Read 2026-09-06 under p_441. See [f_5093].
 19. YMCA of Montreal annual reports for **1966-67** and **1967** [src_cache_sgw_ymca_annual_report_1966_67, src_cache_sgw_ymca_annual_report_1967]. Read 2026-09-06 under p_441. See [f_5096].
+20. "Camp Perrot Family Centre" (1969), an internal proposal document [src_cache_1969_camp_perrot_family_centre]. Cached at `sources/cache/ymca-montreal-fonds/1969-camp-perrot-family-centre.txt`; read end to end 2026-09-06 under p_451. See [f_5099]. **Its historic background is unreliable** — see the caution in the text.
 
 ## Research Notes
 
