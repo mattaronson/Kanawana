@@ -1,6 +1,6 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 33*
+*Status: E1-reviewed | Sources: 34*
 *Last Updated: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *Last Updated: 2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
 *Last Updated: 2026-07-05 (named trip staff added from photo-mined canoe-trip plaques, p_191 ENRICH pass) — photo gallery added 2026-07-02*
@@ -12,6 +12,16 @@ The program expanded significantly through the 1930s. In 1936, trips began depar
 By 1945, the routes were codified into a tiered system: a 3-day Lachute trip for beginners, 7-8 day trips to Île Perrot and Grenville for intermediates, and a 10-day Ottawa River trip for seniors.^mc The program continued to expand: by 1950, six canoe trips per week were departing, with routes extending beyond Archambault to include the Ottawa and Pembina rivers. Six trips per week meant that canoe tripping had become not a special activity but a core, ongoing feature of the summer, with groups constantly rotating through departure and return.
 
 By 1962, the growth of cottager communities near Kanawana meant canoe trips had to drive over 150 km to reach suitable launch points.^mc The appetite for more remote territory led the camp committee to begin searching in 1956 for a northern site that could serve older, more experienced trippers. After three years of scouting, they chose La Vérendrye Park in 1959 as a base camp for campers aged 15 and older. The YMCA secured a 25-acre lease at Lac Landron as a base camp, and the program was formally named **"Les Voyageurs de La Vérendrye."**^mc That first summer, the Pathfinder section alone went on eighteen canoe trips — to the Rouge River, North River, Lake Kiamika, and Taureau.^mc By 1964, over twenty trips were departing each season.^mc The La Vérendrye canoe trip program, and the L&V Games competition that grew up alongside it, became inseparable from the camp's identity in the decades that followed.
+
+### 1945 to 1948: eight trips down the North River, and a circuit to Kingston and back
+
+The association's annual reports fill in the decade the article otherwise crosses in one sentence. Of the 1945 season: "**Two 19-foot canoes were purchased for out-trips, and eight trips were made, starting from Shawbridge, down the North River, to the Ottawa River and return.**"^34 That is the intermediate tier of the 1945 codified system being counted — eight departures, one route, and the canoes bought to do it.
+
+Two years later the report singles out something else entirely. "**A specific feature last summer was the long canoe trip via the North River, Ottawa River, Rideau River and Lakes to Kingston, down through the Thousand Islands to Vaudreuil and up the Ottawa and North Rivers to our camp.**"^34 Read as a route that is a closed loop: down the North River to the Ottawa, up the Ottawa and into the Rideau system, through the Rideau lakes to Lake Ontario at Kingston, back down the St. Lawrence through the Thousand Islands to Vaudreuil, and home up the Ottawa and the North. The camp went out its own front door, reached Lake Ontario by water, and came back a different way.
+
+The report gives no length in days, no distance, no party size and no leader's name, and this article is not going to supply them from the map. What it does establish is that by 1947 Kanawana was running an expedition well beyond the ten-day senior Ottawa River trip that topped the 1945 tiers.
+
+The following summer added a second frontier: in 1948, "in addition to trips up and down the Ottawa River, **senior campers explored the bush country of Lake Nominingue**."^34 Nominingue sits in the upper Laurentians roughly a hundred kilometres north of Saint-Sauveur, and it appears elsewhere in this project only as somebody else's camp address. This is the first record of Kanawana campers there.
 
 ### 1959 from inside: the Older Boys Camp, based at Kanawana
 
@@ -718,3 +728,4 @@ This is the only itemised cost of a 1920s Canadian canoe trip found by this proj
 31. "Les Voyageurs de la Vérendrye, report for 1979", signed Robert D. Woodhouse, Director [src_ymf_1979_les_voyageurs_de_la_verendrye_report]. Read whole 2026-09-06 under p_441. See [f_5057] and [f_5058]. **More than half the report is named individual staff evaluations, embargoed as register entry r_0005** (review 2060); the names and roles are recorded openly, the judgements are not.
 32. "Les Voyageurs de la Vérendrye, Director's Report 1970", signed Yves St. Pierre, Director '70 [src_ymf_1970_les_voyageurs_de_la_verendrye_directors_report]. Read whole 2026-09-06 under p_441. See [f_5059] and [f_5060].
 33. Les Voyageurs de la Vérendrye reports for **1966** (signed Jack Soule), **1969** (David Blake) and **1973** (John Evans, final report, 19 August) [src_ymf_1966_les_voyageurs_de_la_verendrye_report, src_ymf_1969_les_voyageurs_de_la_verendrye_report, src_ymf_1973_08_19_les_voyageurs_de_la_verendrye_final_report]. All three read whole 2026-09-06 under p_441, completing the run. See [f_5061] and [f_5062].
+34. YMCA of Montreal annual reports for the years ending 31 March **1946**, **1948** and **1949** [src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1948, src_ymf_sgw_ymca_annual_report_1949]. Under the 31 March rule (f_5039) these cover the 1945, 1947 and 1948 seasons. Camps sections read 2026-09-06 under p_441. See [f_5076], [f_5077].

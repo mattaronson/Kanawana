@@ -6950,3 +6950,51 @@ the camp installed hot and cold showers, a chlorinating system for drinking wate
 parent-visitors' cars, hired a graduate nurse, and hosted 133 "Old Country" boys in five touring
 groups of English and Scottish boys. In the winter of 1944-45, "several parties of skiers used the
 camp in winter" — one line, but the first documented winter use this project has found.
+
+## 2026-09-06 (cont.) — Four postwar reports, and a canoe trip to Kingston and back
+
+Read: the annual reports for the years ending 31 March 1946, 1947, 1948 and 1949, camps sections end
+to end, plus the chairman and staff-change lists in the 1956 and 1959 reports.
+
+The 1948 report gives the 1947 season's set piece in one sentence: "a specific feature last summer
+was the long canoe trip via the North River, Ottawa River, Rideau River and Lakes to Kingston, down
+through the Thousand Islands to Vaudreuil and up the Ottawa and North Rivers to our camp." That is a
+closed loop from the camp's own front door to Lake Ontario and home a different way. The article's
+1945 tiered system tops out at a ten-day senior Ottawa River trip; this is a different animal, and
+the report knows it. No days, no mileage, no party size, no leader's name, and I did not supply any
+of them from the map. The next summer's report adds Lake Nominingue as a senior destination, a
+hundred kilometres north, where this project had never placed a Kanawana camper.
+
+Camp Perrot's attendance now runs boys-and-girls from 1945: 180/62, 166/90, 185/73, 162/89. The
+girls' session ran two weeks, then three, then three, then two, so the article's "roughly two-week
+Girls' Camp" turns out to be the mode rather than the rule. The camp's own 1947 season report says
+75 girls where the annual report says 73. Two documented sources, two apart, neither obviously
+better; left open rather than resolved, because two documents disagreeing is the case CLAUDE.md
+reserves for a person.
+
+The Perrot buildings gave up something bigger. A $2,000 gift from J. Ernest Millen paid for a camp
+hospital in memory of Laddie Millen and a craftsmanship hut in memory of "the late John W. Ross,
+L.L.D. who was closely associated with the early development of Y.M.C.A. Camps." Ross chaired the
+association's Summer Camp committee in the mid-1890s and was Association President from 1906 to
+1909, and this project has held no death date for him at all. A report covering the year to 31 March
+1947 calling him "the late" is a bracket. It is also the first one there is. (The name then moves:
+the hut in 1947, the hospital in 1948 and 1949. None of the three reports explains why, so I did not
+decide which building ended up carrying it.)
+
+Two articles lost a claim today, which is the useful kind of reading. `winter-programming.md` said
+the 1971-72 ski tow was the earliest winter step this project could describe, with the 1945-47 ski
+camp known only as a finding-aid file title. The 1947 report describes it: eighteen boys and leaders
+at camp for a week at Christmas, forty-five more in weekend parties on the hills around camp. And
+`coeducation-gender.md` had a 1940s report calling Kanawana and Perrot "the two boys' camps," which
+is half right at best — Perrot was enrolling girls the whole time, and Otoreke in 1947 registered
+482 young women against 475 young men.
+
+The one thing I went looking for and did not find is the 1947-1958 Kanawana directorship. I swept
+the staff-change lists of every report from 1947 to 1960 for it. Everything they hold — Locke's
+transfer to Westmount on 1 September 1954, Shantz's appointment from Cornwall a fortnight later,
+Locke's 1955 resignation "in order to enter business," Seaman succeeding Shantz in 1958 — is already
+in the people articles, down to the Murray B./Murray G. OCR slip. That null is now written into
+f_5080 so the next pass does not sweep the same six volumes for the same four facts. What the sweep
+did add is that the association listed "Boys' Camping" and "Camp Otoreke" among its *branch*
+chairmen in 1956, which is a small statement about where camping sat in the organisation, and that
+Donald Dewar chaired Boys' Camping before Gordon Mackey did.

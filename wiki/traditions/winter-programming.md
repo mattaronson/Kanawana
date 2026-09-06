@@ -1,15 +1,23 @@
 # Winter and Year-Round Programming
 
-*Status: E1-reviewed | Sources: 14*
-*Last Updated: 2026-09-06 (the Outing Club's own mailing address, 1977 — a house in Châteauguay)*
+*Status: E1-reviewed | Sources: 15*
+*Last Updated: 2026-09-06 (the 1940s ski camp described, not just listed: 63 boys and leaders in the winter of 1946-47)*
 
 ## Overview
 
-Camp Kanawana's winter activity is usually described — including by earlier versions of this article — as beginning in the 1970s. That is where the *narrative* evidence starts, and the 1971-72 ski tow below is still the earliest step this project can describe. But the Concordia finding aid lists **"Winter ski camp records — 1945-1947"** inside Kanawana's own Program sub-sub-series (P0145/12B07), twenty-five years earlier, and a **"Kanawana [Winter] Outing Club"** file running to 1979 beside it.^10 A finding-aid title proves the records exist and are filed as Kanawana programme material; it does not prove where the skiing happened, and the files themselves have not been read. So the framing here has changed: winter use is documented from the 1940s and *described* from the 1970s, and the gap between those two statements is a reading task, not a fact.
+Camp Kanawana's winter activity is usually described — including by earlier versions of this article — as beginning in the 1970s. That is where the *narrative* evidence starts, and until 2026-09-06 the 1971-72 ski tow below was the earliest step this project could describe. **It no longer is** — see the section immediately below, where the association's annual reports describe the 1940s ski camp the finding aid only names. But the Concordia finding aid lists **"Winter ski camp records — 1945-1947"** inside Kanawana's own Program sub-sub-series (P0145/12B07), twenty-five years earlier, and a **"Kanawana [Winter] Outing Club"** file running to 1979 beside it.^10 A finding-aid title proves the records exist and are filed as Kanawana programme material; it does not prove where the skiing happened, and the files themselves have not been read. So the framing here has changed: winter use is documented from the 1940s and *described* from the 1970s, and the gap between those two statements is a reading task, not a fact.
 
 *(A fragment reading "and by 1996 it offered year-round residential operations" sat at this point in the paragraph, left behind by an earlier revision with no sentence in front of it. Removed 2026-09-06; the 1996 claim is made properly, and with its two readings distinguished, in the Timeline below.)*
 
 The camp's "green shift" (2006-2009) repositioned it as a three-season environmental education facility, and the YMCA claims the transformation enabled it to serve "four times more young people" than before.^1
+
+## The 1940s ski camp, now described rather than merely listed
+
+The finding-aid title above has a matching description in the association's own annual reports, which turns a file name into an account of what happened.
+
+Of the winter of 1944-45, the report for the year ending 31 March 1945 says only that "**several parties of skiers used the camp in winter**."^15 Two years later there is detail: "**Considerable use was made of the camp property during the winter for skiing. Eighteen boys and leaders spent a week at camp during the Christmas vacation, and 45 boys in several small parties spent week-ends enjoying the skiing on the hills around camp.**"^15
+
+Sixty-three boys and leaders across one Christmas week and a run of weekends is not a winter programme in the sense the 1970s built one — no lift, no groomed slopes, no fee schedule, and the reports name no staff. But it is organised winter use of the site by the camp's own constituency, described by the association in its own annual report, a quarter of a century before the ski tow. The claim that the 1971-72 tow is "the earliest step this project can describe" no longer holds; what the tow marks is the beginning of winter operations as *infrastructure*.
 
 ## Winterized Facilities
 
@@ -115,6 +123,7 @@ David Leduc managed Camp Kanawana's summer and winter programs, including recrui
 
 13. *Les pistes de ski de fond au Québec* (1977), Internet Archive scan leaf 294 [src_veillette_pistes_ski_fond_quebec_1977]. **One club-list run only**, reconstructed 2026-09-06 from six overlapping Open Library search-inside queries; the book is lending-restricted, page images return HTTP 403, and it has not been read. The list's alignment was checked rather than assumed — J0T 2N0 is Val-David's postal code, J6J 1S5 is Châteauguay's, and 3480 McTavish is McGill's own address, and all three land on the rows the plain reading gives them. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-two-outdoor-guides-1977-and-1991.txt`. See [f_4955].
 14. *Guide plein air Québec* (1991), Internet Archive scan leaf 200 [src_guide_plein_air_quebec_1991]. **One run only**, and one whose columns the OCR scrambles; an earlier attempt the same day recorded nothing from it, correctly. The alignment was settled by four controls documented from inside the same corpus, all set out in the cache file above, and only then was the entry used. Lending-restricted, page images 403, not read. See [f_4956].
+15. YMCA of Montreal annual reports for the years ending 31 March **1945** and **1947** [src_ymf_sgw_ymca_annual_report_1945, src_ymf_sgw_ymca_annual_report_1947]. Under the 31 March rule (f_5039) these describe the winters of 1944-45 and 1946-47. Camps sections read 2026-09-06 under p_441. See [f_5075], [f_5076].
 
 ## Research Notes
 

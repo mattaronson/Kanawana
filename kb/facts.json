@@ -1,8 +1,8 @@
 {
-  "version": "7.62",
-  "kb_version": "7.62",
+  "version": "7.64",
+  "kb_version": "7.64",
   "migrated_from": "3.3",
-  "fact_count": 5037,
+  "fact_count": 5042,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -90834,6 +90834,106 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.61",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5076",
+      "category": "programs",
+      "date_ref": "1945-1948",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "KANAWANA 1945-1948 AS THE ASSOCIATION DESCRIBED IT: A FOURTH YEAR OF 'MEN AND WOMEN', RETURNING SERVICEMEN, A POLIO SEASON, AND WINTER SKIING. Four annual reports, years ending 31 March 1946, 1947, 1948 and 1949, covering the 1945, 1946, 1947 and 1948 seasons. THE ATTENDANCE FIGURES ARE ALREADY IN meta/attendance-series.md; the programme and staffing detail is not. 1945: 'A capable staff of 24 MEN AND WOMEN was in charge, assisted by 35 older boys as tent and cabin leaders' -- A FOURTH CONSECUTIVE SEASON of that exact phrase after 1943 and 1944 (f_5075), and the first time the report separates the paid staff from the older-boy leaders. 'A feature of the 1945 season was THE VISITS OF SEVERAL OLD CAMPERS RECENTLY RETURNED FROM OVERSEAS SERVICE IN THE FORCES. TWO 19-FOOT CANOES WERE PURCHASED for out-trips, and EIGHT TRIPS WERE MADE, starting from Shawbridge, down the North River, to the Ottawa River and return.' 1946: THE POLIO EPIDEMIC 'affected attendance for the last half of the season, although most doctors advised parents that conditions at camp were more favourable for children than were those in the city' -- the article records the polio year; this is the association's reasoning about it. A RESIDENT DOCTOR AND TWO NURSES; tent counsellors 'many of whom were young veterans'. AND THE WINTER OF 1946-47 IS DOCUMENTED IN DETAIL: 'Considerable use was made of the camp property during the winter for skiing. EIGHTEEN BOYS AND LEADERS SPENT A WEEK AT CAMP DURING THE CHRISTMAS VACATION, and 45 BOYS IN SEVERAL SMALL PARTIES SPENT WEEK-ENDS enjoying the skiing on the hills around camp.' That is the second and much fuller instance of winter use after the 1944 line. 1947: 'a resident doctor and nurse'; tent counsellors 'consisting of senior high school and college students'; and the programme names THE ANNUAL CIRCUS. 1948: 'Kanawana, covering an area of 600 ACRES' (the site article already carries 600 acres from another source; this is an independent 1949 statement of it). 'Leaders and counsellors last year received INTENSIVE PRE-CAMP TRAINING, BOTH IN THE CITY AND AT CAMP' -- which continues the off-season counsellor training structure first found in the 1938 report (f_5073). An average stay of four weeks. 241 boys went on overnight hikes, 248 boys passed swimming tests and 697 tests were passed in individual skills. The daily programme: 'archery, leather and wood work, clay modelling, nature study, DISSECTION and numerous camp projects.'",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1946",
+        "src_ymf_sgw_ymca_annual_report_1947",
+        "src_ymf_sgw_ymca_annual_report_1948",
+        "src_ymf_sgw_ymca_annual_report_1949"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.63",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5077",
+      "category": "programs",
+      "date_ref": "1947-1948",
+      "entities": [
+        "Kamp Kanawana",
+        "Lake Nominingue",
+        "Rideau River",
+        "Kingston"
+      ],
+      "claim": "THE 1947 LONG CANOE TRIP: SAINT-SAUVEUR TO KINGSTON AND BACK, BY WATER, IN A CIRCUIT. The annual report for the year ending 31 March 1948 names it as the season's set piece: 'A SPECIFIC FEATURE LAST SUMMER WAS THE LONG CANOE TRIP VIA THE NORTH RIVER, OTTAWA RIVER, RIDEAU RIVER AND LAKES TO KINGSTON, DOWN THROUGH THE THOUSAND ISLANDS TO VAUDREUIL AND UP THE OTTAWA AND NORTH RIVERS TO OUR CAMP.' That is a closed loop: down the North River to the Ottawa, up the Ottawa to the Rideau system, through the Rideau lakes to Lake Ontario at Kingston, back down the St. Lawrence through the Thousand Islands to Vaudreuil, then up the Ottawa and the North River home. THE ARTICLE'S 1945 TIERED SYSTEM tops out at a ten-day Ottawa River trip for seniors; this is a different order of expedition and the report singles it out as such. THE REPORT DOES NOT GIVE ITS LENGTH IN DAYS OR MILES, DOES NOT SAY HOW MANY CAMPERS WENT, AND DOES NOT NAME A LEADER -- and I am not going to estimate the distance from the route, which is exactly the kind of arithmetic a source does not perform. THE NEXT YEAR'S REPORT ADDS A SECOND NEW DESTINATION: in 1948, 'in addition to trips up and down the Ottawa River, SENIOR CAMPERS EXPLORED THE BUSH COUNTRY OF LAKE NOMININGUE.' Nominingue is about 100 km north of Saint-Sauveur in the upper Laurentians and appears elsewhere in this project only as somebody else's camp location; this is the first time Kanawana campers are documented there.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1948",
+        "src_ymf_sgw_ymca_annual_report_1949"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.63",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5078",
+      "category": "institutional",
+      "date_ref": "1945-1948",
+      "entities": [
+        "Camp Perrot",
+        "John W. Ross",
+        "J. Ernest Millen",
+        "Laddie Millen"
+      ],
+      "claim": "CAMP PERROT'S GIRLS' CAMP, SEASON BY SEASON 1945-1948, AND THE JOHN W. ROSS MEMORIAL HOSPITAL. Four annual reports give Perrot's attendance split by sex, which extends the article's series back three years: 1945 (second season): '180 BOYS attended during their six-week period, and 62 GIRLS during a two-week period. A total of 242 different campers for 480 camper-weeks.' Service clubs and other friends paid for 'a group of deserving boys and girls to attend camp, INCLUDING SONS OF SERVICE MEN'. 1946 (third season): '166 BOYS ... during their six-week period and 90 GIRLS during their THREE-WEEK period, a total of 256 campers for 572 camper-weeks' -- the girls' session has grown from two weeks to three. Permanent tent platforms, sleeping bunks, the barn repaired for rainy-day use, a carpentry shop. 1947 (fourth season): '185 BOYS ... during the six-weeks period for boys, and 73 GIRLS during the three-weeks set aside for girls, for a total of 690 camper weeks'. Accommodation increased to 102 campers at a time; five new boats. 1948 (fifth season): '251 campers registered, which included 162 BOYS during a period of six weeks, and 89 GIRLS for a two-week period' -- the girls' session back to two weeks. 171 swimming tests passed, 153 boys on overnight hikes or all-day canoe trips. The site is '45 ACRES including a stretch of sandy shore-line'. A CONFLICT, SMALL AND DOCUMENTED ON BOTH SIDES: the camp's own 1947 season report gives 185 boys and 75 GIRLS; this annual report gives 185 boys and 73 GIRLS. Two documented sources, one institutional and one the camp's own, differing by two girls. NOT RESOLVED HERE -- two documented sources disagreeing is a human decision point under CLAUDE.md, not a case for the oral-history-yields rule. THE MEMORIAL BUILDINGS WERE BUILT. The 1947 report records the gift: 'through the kindness of Mr. J. Ernest Millen a fund of $2,000.00 has been established to finance the construction at Camp Perrot of a CAMP HOSPITAL IN MEMORY OF LADDIE MILLEN and a CRAFTSMANSHIP HUT IN MEMORY OF THE LATE JOHN W. ROSS, L.L.D. WHO WAS CLOSELY ASSOCIATED WITH THE EARLY DEVELOPMENT OF Y.M.C.A. CAMPS.' By the 1948 report a contract had been let for 'a fine new dining hall and kitchen, and the JOHN W. ROSS MEMORIAL HOSPITAL, the gift of the family of Mr. J. Ernest Millen', and by the 1949 report both stood: 'the spacious new dining hall, with its large open fireplace, the fully-equipped JOHN W. ROSS MEMORIAL HOSPITAL'. NOTE WHAT MOVED: the 1947 report attaches Ross's name to the CRAFTSMANSHIP HUT and Laddie Millen's to the HOSPITAL; the 1948 and 1949 reports attach Ross's name to the HOSPITAL. The reports do not explain the change and I am not going to guess which building carries which name. AND THIS DATES A FOUNDER'S DEATH. John W. Ross chaired the association's Summer Camp committee in the mid-1890s, sat on the Permanent Camp Committee, and was Association President in 1906-1909 (founding-1894.md, directors-index.md). THE REPORT FOR THE YEAR ENDING 31 MARCH 1947 CALLS HIM 'THE LATE', so he died before that date. This project held no death date for him at all. It is a bracket, not a date.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1946",
+        "src_ymf_sgw_ymca_annual_report_1947",
+        "src_ymf_sgw_ymca_annual_report_1948",
+        "src_ymf_sgw_ymca_annual_report_1949"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.63",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5079",
+      "category": "institutional",
+      "date_ref": "1947",
+      "entities": [
+        "Camp Otoreke",
+        "YMCA of Montreal"
+      ],
+      "claim": "CAMP OTOREKE IN 1947, TWELVE YEARS COEDUCATIONAL, AND THE WOMEN NOW OUTNUMBER THE MEN. The annual report for the year ending 31 March 1948: 'The registration was 475 YOUNG MEN, 482 YOUNG WOMEN and 49 MARRIED COUPLES, a total of 1,055 persons for 11,942 camper-days. The camp period extended from JUNE FIRST TO SEPTEMBER FIRST, with a daily average of 160 persons during the mid[-season].' Set this beside f_5071: Otoreke went coeducational for the 1935 season on a suggestion from the young men members and the staff, and took 115 young men and women that first year. Twelve years later it is running 1,055 people over a three-month season with slightly MORE WOMEN THAN MEN. The association was operating a large, successful, mixed-sex camp for the whole of the period in which Kanawana remained boys-only, and would go on remaining boys-only for another twenty years.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1948"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.63",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5080",
+      "category": "people",
+      "date_ref": "1955-1958",
+      "entities": [
+        "Donald Dewar",
+        "David Shanks",
+        "Gordon Mackey",
+        "Gordon Poirier",
+        "YMCA of Montreal"
+      ],
+      "claim": "CAMPING HAD BRANCH-EQUIVALENT STANDING IN THE ASSOCIATION'S OWN ORGANISATION CHART, AND THE LAY CHAIRMANSHIP CAN BE DATED. The annual report for the year ending 31 March 1956 prints a list headed 'BRANCH CHAIRMEN' -- Central, International, Lachine, Notre Dame de Grace, Sir George Williams College, Lakeshore, Montreal East, Northeastern, Northmount, Southwestern, Westmount -- and ENDS IT WITH TWO CAMPS: 'DONALD DEWAR - BOYS' CAMPING' and 'DAVID SHANKS - CAMP OTOREKE'. The camps were listed among the branches, not under them. The report for the year ending 31 March 1959 splits them out under their own heading, 'CAMP CHAIRMEN': 'BOYS' CAMPING COMMITTEE - GORDON MACKEY' and 'OTOREKE CAMP COMMITTEE - GORDON POIRIER'. WHAT IS NEW HERE IS THE DATING AND THE SUCCESSION. This project already had Gordon Mackey as chairman of the Boys' Camping Committee with Donald Dewar among its members, from the 1958 Camp Perrot report. The 1956 report shows DEWAR HELD THE CHAIR BEFORE MACKEY and then stayed on the committee under him. DAVID SHANKS AND GORDON POIRIER ARE BOTH NEW TO THIS PROJECT as Otoreke chairmen. WHAT I DID NOT FIND, HAVING LOOKED: I read these two reports' staff-change and chairman lists looking for Kanawana's paid directorship in the 1947-1958 gap and found NOTHING NEW -- the R. D. Locke transfer of 1 September 1954, the Murray Shantz appointment of 15 September 1954, Locke's 1955 resignation 'in order to enter business', and A. R. Seaman succeeding Shantz as 'Metropolitan Program Secretary, Secretary and Director of Boys' Camping' when Shantz went to the National Council are ALL ALREADY IN people/roy-locke.md, people/murray-shantz.md and people/a-ross-seaman.md, including the Murray B./Murray G. OCR slip. Recorded here so the same four reports are not swept for the same four facts again.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1956",
+        "src_ymf_sgw_ymca_annual_report_1959"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.63",
       "added_by": "ralph_loop"
     }
   ]

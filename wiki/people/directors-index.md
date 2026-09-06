@@ -1,7 +1,7 @@
 # Directors and Staff of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 52*
-*Last Updated: 2026-09-06 (the missing Year Book years located on HathiTrust, and unreadable from here)*
+*Status: E1-reviewed | Sources: 53*
+*Last Updated: 2026-09-06 (who chaired Boys' Camping, 1955 to 1958)*
 
 ## Summary
 
@@ -382,6 +382,12 @@ Miss M. Rayner served as camp nurse and filled a "camp mother" role — one of t
 
 **Ross Bannerman.** Before authoring his 1969 report on Kamp Kanawana, Ross Bannerman had a long career in YMCA camping. In 1951, Nelson McEwen recruited Bannerman to direct Camp Pascobac. **This article carries two incompatible titles for McEwen in that year** and does not resolve them: the directors table above has him becoming "first Metropolitan General Secretary, Winnipeg YMCA" in 1951, while the source for the Bannerman recruitment describes him as National Council Boys' Work Secretary. They are different posts and he cannot have held both. Recorded as conflict **c_028** rather than silently picking one. Bannerman went on to direct Camp Stephens in Winnipeg in 1956.^2 His YMCA International Branch file (c. 1968-1970) and his "Report on Kamp Kanawana" (1969) are both held at Concordia Archives (sub-series 12B01).^2 Bannerman later became CEO of the Montreal YMCA in the late 1970s, placing him in a senior organizational role overseeing Kanawana during the same period as Richard Patten's tenure as Executive Director (1976-1979).^2
 
+**Who chaired camping, and where camping sat.** The association's annual report for the year ending 31 March 1956 prints a list headed "Branch Chairmen" — Central, International, Lachine, Notre Dame de Grace, Sir George Williams College, Lakeshore, Montreal East, Northeastern, Northmount, Southwestern, Westmount — and closes it with two entries that are not branches: "**Donald Dewar — Boys' Camping**" and "**David Shanks — Camp Otoreke**."^53 The camps were listed alongside the branches rather than beneath them. Three years later they have their own heading, "Camp Chairmen": "**Boys' Camping Committee — Gordon Mackey**" and "**Otoreke Camp Committee — Gordon Poirier**."^53
+
+That dates a succession this index had only one end of. Mackey was already documented as chairman of the Boys' Camping Committee with Dewar among its members, from the 1958 Camp Perrot report. The 1956 list shows Dewar held the chair *before* Mackey and then served under him. Shanks and Poirier are new names.
+
+These were lay chairmen, not paid camp directors, and the same two reports' staff-change lists add nothing to the paid line — the R. D. Locke transfer of 1 September 1954, Murray Shantz's appointment a fortnight later, Locke's 1955 resignation "in order to enter business," and A. R. Seaman succeeding Shantz as "Metropolitan Program Secretary, Secretary and Director of Boys' Camping" are all already recorded in the individual articles.
+
 ### The 1980 Season
 
 The May 1980 issue of *Ka-News* provides the most complete modern staff snapshot. Under director "Dave," the staff included Nancy Sawyer (Assistant Director), Julian and Yves (maintenance), Chris Adams of Vanier (nature program), Dave O'Donnell (Master Canoeist), Kevin Forster (who later became Director of Camp Glenburn, New Brunswick), Dave Bennett, Dave Scammell, Bob Woodhouse, Sue Armstrong, Jeff Surette, Johanna, Doug Peets, Rosemary, Lynn Pryer, Steve Wells, Kitti Luce, and Lisa Crocker.^6
@@ -598,6 +604,7 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 50. "Les Voyageurs de la Vérendrye — Camp Director's Report 1967", signed by David Blake, YMCA of Montreal fonds [src_ymf_1967_les_voyageurs_de_la_verendrye_camp_directors_report]. See [f_5020]. Read whole 2026-09-06 under p_441; the item had been keyword-swept and marked skimmed since August.
 51. The run of Les Voyageurs de la Vérendrye reports in the YMCA of Montreal fonds: 1960 [src_ymf_1960_les_voyageurs_de_la_verendrye_report], 1963 [src_ymf_1963_les_voyageurs_de_la_verendrye_annual_report], 1966 [src_ymf_1966_les_voyageurs_de_la_verendrye_report], 1969 [src_ymf_1969_les_voyageurs_de_la_verendrye_report], 1970 [src_ymf_1970_les_voyageurs_de_la_verendrye_directors_report], 1973 [src_ymf_1973_08_19_les_voyageurs_de_la_verendrye_final_report], 1974 [src_ymf_1974_les_voyageurs_de_la_verendrye_report_on_summer] and 1979 [src_ymf_1979_les_voyageurs_de_la_verendrye_report]. See [f_5024], [f_5025] and [f_5026]. **These eight were read for their signature blocks and little else** — their source records record exactly how much, and the 1974 and 1979 reports carry individual staff assessments that are not extracted here.
 52. "Come to Kanawana" brochures for the **1928** [src_ymf_1928_come_to_kanawana_brochure] and **1929** [src_ymf_1929_come_to_kanawana_brochure] seasons, YMCA of Montreal fonds. Both read whole 2026-09-06 under p_441; both had been in this repo, marked skimmed, since August. See [f_5027], [f_5028] and [f_5029].
+53. YMCA of Montreal annual reports for the years ending 31 March **1956** and **1959** [src_ymf_sgw_ymca_annual_report_1956, src_ymf_sgw_ymca_annual_report_1959] — the Branch Chairmen and Camp Chairmen lists. Read 2026-09-06 under p_441. See [f_5080].
 
 ## Research Notes
 

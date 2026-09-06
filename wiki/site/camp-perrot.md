@@ -1,7 +1,7 @@
 # Camp Perrot
 
-*Status: E1-reviewed | Sources: 14*
-*Last Updated: 2026-09-06 (the 1947 and 1948 reports read whole; the Thunderbird question)*
+*Status: E1-reviewed | Sources: 15*
+*Last Updated: 2026-09-06 (the attendance split by sex 1945-1948, and the John W. Ross Memorial Hospital)*
 
 ## Overview
 
@@ -45,6 +45,25 @@ Camp Perrot is absent from the 1980 YMCA situation reports, which mention Kanawa
 ## Programming and Capacity
 
 Camp Perrot ran sequential single-sex sessions at the same site — a roughly six-week Boys' Camp from late June to early August, then a roughly two-week Girls' Camp in mid-August — rather than simultaneous coeducation.^5 Its 1947 brochure gives ages 9-14 for boys and 9-15 for girls, younger and narrower than Kanawana's stated 8-16 boys-only range in the same brochure.^5 Camp Perrot explicitly described itself as a low-cost service camp: "operated by the Y.M.C.A. as a service to boys and girls of Greater Montreal who for a variety of reasons are unable to attend camps with more elaborate facilities. Fees are set at a figure below actual operating costs." It was fed by referral quotas from roughly nine Montreal YMCA branches plus service clubs (Foremen's Club of Montreal, Rotary, Kinsmen, Kinette Club) sponsoring needy campers.^5 Attendance was roughly 260 campers per season in 1947, with a rated capacity later reaching approximately 630 boys and 210 girls by 1958.^5
+
+**The attendance split by sex, 1945 to 1948.** The association's annual reports give Perrot's numbers each year, broken out boys and girls, which carries the series back three seasons before the camp's own 1947 report.^15
+
+| Season | Boys | Girls | Girls' session | Total campers | Camper-weeks |
+|---|---|---|---|---|---|
+| 1945 (2nd) | 180 | 62 | two weeks | 242 | 480 |
+| 1946 (3rd) | 166 | 90 | three weeks | 256 | 572 |
+| 1947 (4th) | 185 | 73 *(see below)* | three weeks | 258 *(sum; the report gives only the two figures)* | 690 |
+| 1948 (5th) | 162 | 89 | two weeks | 251 | — |
+
+Two things the table shows that the prose above does not. The girls' session was **not** a fixed two weeks: it ran two in 1945, three in 1946 and 1947, and two again in 1948, so the "roughly two-week Girls' Camp" is the modal case rather than the rule. And the girls were between a quarter and a third of every season's intake from the camp's second year on — this was a camp for boys and girls from the start of its documented run, ten years before Kanawana's own director first recommended coeducation and twenty-three before girls arrived here.
+
+**A two-girl discrepancy for 1947, both sides documented.** The camp's own season report counts 75 girls; the association's annual report counts 73.^15 Neither is oral history and neither is obviously the better record — the camp counted its own campers, the association compiled from returns — so this is left open rather than resolved. It changes nothing about the shape of the season.
+
+**What the reports say was built.** 1945 brought permanent tent platforms, sleeping bunks, the barn repaired for rainy-day use and a carpentry shop; 1947 raised accommodation "to take care of 102 campers at a time" and added five new boats, while the camp made do with "the temporary marquee dining room for another season."^15 The site itself is given as **45 acres including a stretch of sandy shore-line**. Service clubs and other friends paid the way of "a group of deserving boys and girls to attend camp, including **sons of service men**" in 1945.
+
+**The John W. Ross Memorial Hospital, and a founder's death date.** In the 1947 report, "through the kindness of Mr. J. Ernest Millen a fund of $2,000.00 has been established to finance the construction at Camp Perrot of a camp hospital in memory of **Laddie Millen** and a craftsmanship hut in memory of the late **John W. Ross, L.L.D.** who was closely associated with the early development of Y.M.C.A. Camps."^15 A year later a contract had been let for "a fine new dining hall and kitchen, and the John W. Ross Memorial hospital, the gift of the family of Mr. J. Ernest Millen," and by the 1949 report both stood: "the spacious new dining hall, with its large open fireplace, the fully-equipped John W. Ross Memorial Hospital."^15 The name moved between buildings across those three reports — hut in 1947, hospital in 1948 and 1949 — and none of them explains why, so which structure ended up carrying which name is not settled here.
+
+The phrase "the late" is the more consequential half. [[history/founding-1894|John W. Ross]] chaired the association's Summer Camp committee in the mid-1890s, sat on the Permanent Camp Committee, and was Association President from 1906 to 1909. This project has held no death date for him. A report covering the year to 31 March 1947 calling him "the late" puts his death before that date — a bracket, not a date, but the first one there is.
 
 Donald Cochrane's 1959 memo makes the Kanawana comparison explicit in his own words: campers who attended both camps "prefer Perrot — possibly due to the fact that we are more of a family than is Kanawana with its four sections and individual tent sites." He also frames Perrot as an informal training ground for future Kanawana counsellors, since Kanawana's newly raised counsellor minimum age (17) left 16-year-old Perrot "Rangers" available to counsel at Perrot first.^6
 
@@ -220,6 +239,7 @@ The earliest known Kanawana-side documentary evidence is a "Comparison of Two Bo
 12. YMCA of Montreal Annual Report, 1944, on Camp Thunderbird [src_ymf_sgw_ymca_annual_report_1944]. See [f_5037] and [[site/camp-thunderbird|Camp Thunderbird]].
 13. Camp Perrot annual reports for 1950, 1951 (eighth), 1952 (ninth), 1953 (tenth), 1954 and 1958 [src_ymf_1950_camp_perrot_annual_report, src_ymf_1951_camp_perrot_annual_report, src_ymf_1952_camp_perrot_annual_report, src_ymf_1953_camp_perrot_annual_report, src_ymf_1954_camp_perrot_annual_report, src_ymf_1958_camp_perrot_annual_report]. **Read for their title-page officer blocks and signatures only** — the bodies are not read, and the source records say so. See [f_5048].
 14. YMCA of Montreal Annual Report for the year ending 31 March **1945** [src_ymf_sgw_ymca_annual_report_1945]. See [f_5074].
+15. YMCA of Montreal annual reports for the years ending 31 March **1946**, **1947**, **1948** and **1949** [src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1947, src_ymf_sgw_ymca_annual_report_1948, src_ymf_sgw_ymca_annual_report_1949]. Under the 31 March rule (f_5039) these cover the 1945, 1946, 1947 and 1948 seasons. Camps sections read 2026-09-06 under p_441. See [f_5078].
 
 ## Research Notes
 
