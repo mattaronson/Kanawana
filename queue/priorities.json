@@ -4867,10 +4867,12 @@
       "type": "WRITE",
       "description": "UPDATE derek-walsh.md WITH HIS QUEBEC ASSOCIATION CHRONOLOGY. Two independent sightings in this run fix it: the January 1975 Directory Issue lists him as Director of both Kanawana and Les Voyageurs de la Verendrye, and as chairman of the QCA English Section's Publicity and Public Relations committee; by October 1976 the stub already has him as President of the Section. So the presidency followed a committee chairmanship in the same portfolio he would later hold nationally. The directory also gives his name with the middle initial -- Derek V. Walsh -- and corroborates the stub's 1974-to-February-1979 directorship from an independent source. Note in the same article that A. R. Seaman, Kanawana's director of 1959-67, was an Honorary Member of the same Section in January 1975: two Kanawana directors on the provincial association's English Section at once.",
       "weight": 7,
-      "status": "pending",
+      "status": "complete",
       "created": "2026-09-05",
       "source": "word-for-word read of Canadian Camping, issues 103-105, converted to KB facts",
-      "blocked_on": null
+      "blocked_on": null,
+      "resolved": "2026-09-06",
+      "resolution": "ALREADY DONE and never marked. wiki/people/derek-walsh.md carries every element the priority asked for: the January 1975 directory entry over his name, the second listing for Les Voyageurs de la Verendrye, the middle initial, the QCA English Section's Publicity and Public Relations chairmanship under President Mrs. Val Willis, the reading that the presidency followed a committee chairmanship in the portfolio he later chaired nationally, and A. R. Seaman as an Honorary Member of the same section in the same year. Verified line by line 2026-09-06, nothing added."
     },
     {
       "priority_id": "p_386",
@@ -4878,10 +4880,12 @@
       "type": "WRITE",
       "description": "RECORD THE 1976 YMCA LIFESAVING CHANGEOVER IN THE WATERFRONT MATERIAL. Doug Dent, Canadian Camping, January 1976: 'First of all, the YMCA lifesaving program was revamped, and in its place the RLSS program (Bronze Medallion and upwards) has been adopted.' So by 1976 the YMCA had dropped its own lifesaving programme for the Royal Life Saving Society's. The same article prints a three-column equivalence chart -- YMCA Pre-Beginner, Beginner and Star I-VI against Red Cross Pre-Beginner, Beginner, Junior, Intermediate and Senior, and RLSS Survival and Life Saving I, II and III (the RLSS having just replaced its Elementary and Intermediate levels). This matters for reading any Kanawana swimming record: the YMCA 'Star' levels are the system a Kanawana swimmer of the period would have been graded on, and an award named in a camper's memory or a staff list can now be placed against a national scale and dated either side of the 1976 changeover.",
       "weight": 7,
-      "status": "pending",
+      "status": "complete",
       "created": "2026-09-05",
       "source": "word-for-word read of Canadian Camping, issues 106-109, converted to KB facts",
-      "blocked_on": null
+      "blocked_on": null,
+      "resolved": "2026-09-06",
+      "resolution": "Written into wiki/traditions/programs-activities.md as a new subsection under Coeducation and Reorganization: the changeover sentence, the division of labour between the three bodies, the full three-column YMCA / Red Cross / RLSS chart, and the age floors (Senior RC 12, Bronze Medallion and Bronze Cross 14, RC Leaders / Assistant Instructor (Y) / Award of Merit 15). Fact f_4929. The point the priority was after -- that an award named in a camper's memory or a staff list can be placed on a national scale and dated either side of 1976 -- is stated, with the sharper version: a Star level dates a swimmer to the YMCA scheme, a Life Saving I/II/III dates them after the RLSS renumbering. ONE THING THE PRIORITY DID NOT ANTICIPATE: this article already recorded that Kanawana's own top water award of 1923, the KLS, was keyed to the RLSS AWARD OF MERIT -- half a century before the YMCA nationally handed lifesaving to the same society. Written up with the caveat that it shows nothing about what the camp taught in between, and is not evidence Kanawana was ahead of its parent body."
     },
     {
       "priority_id": "p_387",

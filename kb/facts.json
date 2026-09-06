@@ -1,8 +1,8 @@
 {
-  "version": "6.66",
-  "kb_version": "6.66",
+  "version": "6.67",
+  "kb_version": "6.67",
   "migrated_from": "3.3",
-  "fact_count": 4890,
+  "fact_count": 4891,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87829,6 +87829,27 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.66",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4929",
+      "category": "programs",
+      "date_ref": "1976-01",
+      "entities": [
+        "Royal Life Saving Society",
+        "Red Cross",
+        "YMCA",
+        "Doug Dent",
+        "Camp Wabanaki",
+        "Canadian Camping Association"
+      ],
+      "claim": "THE YMCA DROPPED ITS OWN LIFESAVING PROGRAMME IN OR BEFORE JANUARY 1976. Doug Dent, past director of Camp Wabanaki, writing \"Aquatics, Water Safety & Watercraft\" in the Business of Camping series, Canadian Camping Vol. 28 No. 2 (January 1976), p. 9: \"First of all, the YMCA lifesaving program was revamped, and in its place the RLSS program (Bronze Medallion and upwards) has been adopted. The swimming, beginner and intermediate levels, of the RC and YMCA are now equivalent. The RLSS has dropped its former beginning lifesaving levels (Elementary and Intermediate) as lead-up to the Bronze and replaced them with Lifesaving Levels I, II, and III.\" He sets out the division of labour: \"The Red Cross and YMCA are basically involved in swimming and water safety instruction, and the RLSS, in lifesaving programs,\" the three bodies working towards \"a cohesive, well developed national aquatic program\" with standardization as the objective. THE THREE-COLUMN EQUIVALENCE CHART, YMCA / RED CROSS / RLSS: Pre-Beginner = Pre-Beginner; Beginner = Beginner; Star I = Junior = Life Saving I (and Survival); Star II; Star III = Intermediate = Life Saving II; Star IV; Star V = Senior = Life Saving III; Star VI; Masters; Bronze Medallion; Bronze Cross; Assistant Instructor (Y) = Leaders (RC); Award of Merit. Star II covers synchronized skills and Star IV diving; Star VI is the leadership lead-up to Masters, the first leadership level. AGE PREREQUISITES: Senior Red Cross 12; Bronze Medallion 14; Bronze Cross 14; RC Leaders 15; Assistant Instructor (Y) 15; Award of Merit 15. The Red Cross Smallcraft Program, covering canoeing, rowboating and power boating, is also named as available to camps nationally.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.67",
       "added_by": "ralph_loop"
     }
   ]

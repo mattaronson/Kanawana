@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
 *Status: E1-reviewed | Sources: 0*
-*Last Updated: 2026-09-04*
+*Last Updated: 2026-09-06 (p_386: the 1976 YMCA-to-RLSS lifesaving changeover and the national award chart)*
 
 ## Overview
 
@@ -62,6 +62,16 @@ Y camp counsellors received three-day leader training courses at Camp Kanawana i
 The Concordia archives show institutional restructuring through this period. A "Camping and Outdoor Education Branch Director's Report" from 1972, a "Report of the Staff Task Group on Outdoor Education in the Montreal YMCA" from 1974, and "Camping and Outdoor Education planning 1974-1975" all point to a professionalization of programme design. The rebranding from "camping" to "outdoor education" reflected a broader trend in the camp industry toward educational justification for what had previously been framed as character-building recreation.
 
 The Concordia archives also list Director's Reports from the 1970s (1973, 1975, 1977, 1978) and a "Proposed two-site operation, Kanawana and Weredale" document from 1977, suggesting that programming decisions in this era were made in the context of a multi-site camping operation.
+
+### The aquatic award system, and the 1976 changeover
+
+Any swimming award named in a Kanawana staff list, plaque or camper's memory belongs to one of three national schemes, and in the mid-1970s the relationship between them changed. Doug Dent, past director of Camp Wabanaki, set the whole system out for camp directors in the January 1976 issue of *Canadian Camping*, in a column that opens with the division of labour: "**The Red Cross and YMCA are basically involved in swimming and water safety instruction, and the RLSS, in lifesaving programs**," the three bodies working towards "a cohesive, well developed national aquatic program" with standardization as the objective.^dd76
+
+The change is in his first sentence: "**First of all, the YMCA lifesaving program was revamped, and in its place the RLSS program (Bronze Medallion and upwards) has been adopted.**"^dd76 So by January 1976 the YMCA no longer ran a lifesaving scheme of its own; a YMCA camp's swimmers were graded on YMCA **Star** levels for swimming and then handed to the Royal Life Saving Society for lifesaving. In the same reorganisation the RLSS dropped its own Elementary and Intermediate levels and replaced them with **Life Saving I, II and III**.
+
+Dent's three-column chart is what makes an award datable. Pre-Beginner and Beginner are common to the YMCA and Red Cross; **Star I** stands level with Red Cross **Junior** and RLSS **Life Saving I**; **Star III** with **Intermediate** and **Life Saving II**; **Star V** with **Senior** and **Life Saving III**; then Star VI, Masters, Bronze Medallion, Bronze Cross, Assistant Instructor or Leaders, and the **Award of Merit** at the top. Star II covers synchronised swimming and Star IV diving. The age floors are fixed: Senior Red Cross at 12, Bronze Medallion and Bronze Cross at 14, and Red Cross Leaders, YMCA Assistant Instructor and the Award of Merit at 15.^dd76 An award named without a date can therefore be placed on a scale, and a **Star** level dates a swimmer to the YMCA scheme while a **Life Saving I, II or III** dates them after the RLSS renumbering.
+
+One thing about Kanawana itself is worth setting beside this. The camp's own top water award of 1923, the **KLS — Kanawana Life Saver — was keyed to the RLSS Award of Merit**, as recorded above. That is half a century before the YMCA nationally handed its lifesaving over to the same society. It does not show that Kanawana was ahead of its parent body, and nothing here says what the camp taught in the intervening decades; what it does show is that the Royal Life Saving Society was the standard a Montreal YMCA camp reached for when it wanted its own award to mean something, long before 1976 made that the YMCA's official answer.
 
 ## The Kanawana Outing Club and Winter Programming
 
@@ -181,6 +191,7 @@ environmental-education positioning without originating from it.
 - [fn] "Familles en nature: 4 saisons de plaisir," Awesome Foundation project record [src_awesome_foundation_familles]. See [f_1117].
 - [cc82] Cousineau, Claude (Department of Recreology, University of Ottawa). "Hebertisme." *Canadian Camping*, Vol. 21 No. 3, Spring 1969, pp. 62-67, 82. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 82).
 - [oc] Concordia University Archives, YMCA of Montreal fonds, sub-sub-series 12B01, 12B03, 12B04, 12B07 [src_concordia_p0145_12b01_finding_aid, src_concordia_12B03, src_concordia_atom_12B04, src_concordia_atom_12B07].
+- [dd76] Doug Dent (Past Director, Camp Wabanaki), "Aquatics, Water Safety & Watercraft," The Business of Camping series, *Canadian Camping* Vol. 28 No. 2 (January 1976), p. 9 [src_ia_canadian_camping_collection]. Carries the YMCA-to-RLSS lifesaving changeover and the three-column YMCA / Red Cross / RLSS equivalence chart with its age prerequisites. Cached at `sources/cache/canadian-camping/canadiancampingmagazine_vol28_no2_1976january.txt`. See [f_4929].
 
 ## Research Notes
 

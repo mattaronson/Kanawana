@@ -1180,12 +1180,15 @@
         "f_1850"
       ],
       "sources_cited": [
+        "src_awesome_foundation_familles",
         "src_concordia_12B03",
         "src_concordia_atom_12B04",
         "src_concordia_atom_12B07",
         "src_concordia_p0145_12b01_finding_aid",
         "src_glassdoor_outdoor_ed_director",
+        "src_ia_canadian_camping_collection",
         "src_indeed_companion_job",
+        "src_lapresse_fitspirit_2011",
         "src_vss_journee_plein_air",
         "src_wikipedia_woodcraft_league"
       ],
@@ -1201,7 +1204,7 @@
         "quebec-camp-landscape"
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-      "word_count": 4005,
+      "word_count": 4531,
       "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, renamed the orphaned 'R3 Verification Notes' H2 to the standard 'Research Notes' heading and condensed its bullet list into a single HTML-comment process-log entry. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
