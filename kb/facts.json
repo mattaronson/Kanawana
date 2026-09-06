@@ -1,8 +1,8 @@
 {
-  "version": "7.17",
-  "kb_version": "7.17",
+  "version": "7.18",
+  "kb_version": "7.18",
   "migrated_from": "3.3",
-  "fact_count": 4955,
+  "fact_count": 4957,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -89138,6 +89138,49 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.17",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4994",
+      "category": "people",
+      "date_ref": "1893-1894",
+      "entities": [
+        "R. L. Charlton",
+        "P. H. Cushing",
+        "W. E. Cushing",
+        "D. W. Corbett",
+        "YMCA of Montreal",
+        "Kamp Kanawana"
+      ],
+      "claim": "R. L. CHARLTON CHAIRED THE MONTREAL YMCA'S JUNIOR DEPARTMENT IN THE YEAR THE CAMP BEGAN, WITH A CUSHING AS HIS SECRETARY. The annual report for the year ending 30 April 1894 prints: 'JUNIOR DEPARTMENT. R. L. CHARLTON, Chairman. P. H. CUSHING, Secretary. F. W. Sharpe. R. C. Paterson. R. B. Ross, Jr. G. W. Jones. Jno. J. Lomax. L. Winter. E. Evans. A. Arthur. W. E. Cushing. A. J. Lee. J. Radford. Geo. A. McBean. T. S. Somers. F. L. Whitby.' WHY IT MATTERS: this project already has R. L. Charlton on the Summer Camp committee of a later report ('Summer Camp. John W. Ross, Chairman. E. J. Coyle. R. L. Charlton') and on the Junior Department committee of 1899 as an ordinary member under R. B. Ross Jr.'s chairmanship. IT DID NOT HAVE HIM AT THE HEAD OF BOYS' WORK FIVE YEARS EARLIER, in the very year Camp Jubilee was founded. The Junior Department is boys' work and the camp came out of boys' work, so the man chairing it in 1893-94 is as close to the camp's origin as a committee seat gets. NOTE ALSO that R. B. ROSS, JR., who chairs that committee in 1899, is an ordinary member of it here in 1893-94. AND TWO CUSHINGS SIT ON IT -- P. H. Cushing as secretary and W. E. Cushing as a member -- which is the same pattern the 1899 report shows, where the Permanent Camp Committee sits under Chas. Cushing with W. E. Cushing on it. A THIRD ITEM FROM THE SAME PAIR OF REPORTS: the 1892-93 report announces 'the resignation of Mr. D. W. Corbett, as assistant secretary, having in charge this department. He has accepted the position as secretary of the Honolulu Association, and leaves here on the [29th].' That dates and explains the departure of the D. W. Corbett whom the 1893 Year Book lists as a Montreal assistant.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1893_1894",
+        "src_ymf_sgw_ymca_annual_report_1892_1893"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.18",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4995",
+      "category": "history",
+      "date_ref": "1892-1894",
+      "entities": [
+        "Kamp Kanawana",
+        "Camp Jubilee",
+        "YMCA of Montreal",
+        "Lemuel Cushing",
+        "Lake Saint-Joseph"
+      ],
+      "claim": "THE ANNUAL REPORTS COVERING THE 1892 LAKE SAINT-JOSEPH TRIP DO NOT MENTION IT, OR ANY CAMP AT ALL. The Montreal YMCA's reports for the years ending 30 April 1893 and 30 April 1894 were searched in full for 'camp', 'tent', 'outing', 'excursion', 'St. Joseph', 'Saint-Joseph', 'Howard' and 'Agathe'. THE 1892-93 REPORT RETURNS NOTHING ON ANY OF THEM. The 1893-94 report returns only a MILITARY CAMP -- 'The Association placed a tent with full equipment for reading' at a militia camp -- and the word 'Jubilee' in its sense of the YMCA's own fiftieth anniversary, which the report celebrates at length ('This is the Jubilee Year in the history of the Young Men's Christian Association'), and which is presumably why the camp founded that summer was named Camp Jubilee. HOW MUCH WEIGHT THIS BEARS. A trip in the summer of 1892 falls inside the year the 1892-93 report covers, so its absence there is evidence -- weak but real -- that the trip was not an association activity, or at least not one the association reported. THIS PROJECT ALREADY ARGUES FROM SILENCE ON THIS POINT using two other documents, the 41st Annual Report of 1891-92 and the 1901 Historical Sketch; these two reports extend that argument across the years that actually matter and had never been searched for it. WHAT IT IS NOT: proof that the trip did not happen or was not YMCA-connected. These are OCR'd scans, a section can be lost or illegible, and the association plainly did not report everything its members did. It sits against, not over, the QAHN account of Lemuel Cushing taking boys to Lake Saint-Joseph in 1892 and the Concordia fonds' camper lists and fishing-rights documentation dated 1893. NOTE FOR ANYONE RE-READING THESE REPORTS: nearly everything else in the 1894-95 report about the first Summer Camp -- the 23 workers and boys, the 53 members, the leased land and fishing rights near St. Agathe, the two parallel streams -- IS ALREADY IN THIS KB at f_2139, f_2141, f_2178 and f_0665, and in the attendance series. Only the two reports before it were unread.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1893_1894",
+        "src_ymf_sgw_ymca_annual_report_1892_1893"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.18",
       "added_by": "ralph_loop"
     }
   ]

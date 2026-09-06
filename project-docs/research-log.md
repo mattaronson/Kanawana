@@ -5990,3 +5990,41 @@ of the 1892-93 and 1893-94 reports, read in full** rather than searched for a su
 1890-91 Boys' Department section is already known to be narrative rather than a list, so these are
 worth reading properly. The Cushing hits in the 1893-94, 1894-95 and 1895-96 reports were counted
 and never opened either.
+
+## Campaign: p_440 — the Boys' Department sections, and a lesson about my own order of operations
+*2026-09-06*
+
+**The honest headline is how much was already held.** I opened the 1894-95 report, found "our
+first Summer Camp... composed of 23 workers and boys" and the leased land and fishing rights on a
+lake near St. Agathe, and got excited — before running the grep that would have shown me f_2139,
+f_2141, f_2178, f_0665 and the attendance series, all of which have it, including the two parallel
+streams and the 53 members. I ran the grep second. It should have been first, and the rule that
+says so is already written down twice in the handoff doc.
+
+**Three things this pass does add.**
+
+**R. L. Charlton chaired the Junior Department in 1893-94** — the camp's founding year — with
+**P. H. Cushing** as secretary and **W. E. Cushing** among the members. This project had Charlton
+in that department only in 1899, and only as an ordinary member under R. B. Ross Jr.'s
+chairmanship — and Ross is himself an ordinary member on the 1893-94 list. The Junior Department
+*is* boys' work and the camp came out of boys' work, so this puts him at the head of the
+department that ran boys in the summer Camp Jubilee began.
+
+**The 1892-93 and 1893-94 reports mention no camp at all.** Searched for camp, tent, outing,
+excursion, St. Joseph, Howard and Agathe: the 1892-93 report returns nothing on any of them, and
+the 1893-94 report only a militia camp where "the Association placed a tent with full equipment
+for reading". A summer 1892 trip falls inside the year the 1892-93 report covers. This project
+already argues from silence on the pre-1894 camp using the 41st report and the 1901 Historical
+Sketch; these two extend that argument across the years that actually matter, and neither had ever
+been searched for it. It is evidence, weak but real, and it sits against rather than over the QAHN
+account.
+
+The 1893-94 report also explains a name: it celebrates at length that "this is the Jubilee Year in
+the history of the Young Men's Christian Association" — the movement's fiftieth — which is
+presumably why the camp founded that summer was called Camp Jubilee.
+
+**D. W. Corbett** resigned as the assistant secretary in charge of the Junior Department, having
+"accepted the position as secretary of the Honolulu Association". That dates and explains the
+disappearance of the D. W. Corbett the 1893 Year Book lists as a Montreal assistant.
+
+Still unopened: the Cushing hits in the 1893-94, 1894-95 and 1895-96 reports, counted during p_438.

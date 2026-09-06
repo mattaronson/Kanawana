@@ -1,7 +1,7 @@
 # R.L. Charlton
 
-*Status: draft | Sources: 7*
-*Last Updated: 2026-09-06*
+*Status: draft | Sources: 8*
+*Last Updated: 2026-09-06 (he chaired the Junior Department in the camp's founding year)*
 
 ## Overview
 
@@ -28,8 +28,14 @@ association board committee in **the year the camp syndicate was formed**, besid
 the assistant secretary who ran boys' work, the man who took out the 1891 camp, and the physical
 director who took out the 1894 one.
 
-**A second seat, in boys' work.** The annual report for the year ending 30 April 1899 puts him on the
-**Junior Department** committee — R. B. Ross Jr. in the chair, F. A. Crowe secretary, and among the
+**He chaired boys' work in the year the camp began.** The annual report for the year ending 30 April 1894 prints the committee in full:^8
+
+> **JUNIOR DEPARTMENT. R. L. CHARLTON, Chairman. P. H. CUSHING, Secretary.** F. W. Sharpe · R. C. Paterson · R. B. Ross, Jr. · G. W. Jones · Jno. J. Lomax · L. Winter · E. Evans · A. Arthur · **W. E. Cushing** · A. J. Lee · J. Radford · Geo. A. McBean · T. S. Somers · F. L. Whitby
+
+The Junior Department *is* boys' work, and the camp came out of boys' work — so in the summer Camp Jubilee was founded, the man at the head of the department that ran boys was Charlton. Note too that **R. B. Ross, Jr.**, who chairs the same committee five years later, sits on it here as an ordinary member; and that **two Cushings** are on it, P. H. Cushing as secretary and W. E. Cushing as a member, the same pairing the 1899 report shows on the Permanent Camp Committee.
+
+**A second seat, later, in the same department.** The annual report for the year ending 30 April 1899 puts him on the
+**Junior Department** committee again, this time as an ordinary member — R. B. Ross Jr. in the chair, F. A. Crowe secretary, and among the
 members **W. E. Cushing**, who wrote the companion 1943 manuscript, along with three more Cushings.^7
 That is closer to the camp than Training Classes was: the Junior Department is boys' work, and the same
 report prints the **Permanent Camp Committee** under **Chas. Cushing** with W. E. Cushing on it too.
@@ -76,6 +82,7 @@ The Concordia Archives also hold undated photographs of "R. H. Dawson" (likely R
 5. Concordia Archives P0145/12A Finding Aid, photograph filing with R.H. Dawson [src_concordia_p0145_12a_finding_aid].
 6. YMCA of Montreal, **41st Annual Report, 1891-92** (published 19 May 1892) [src_cache_sgw_ymca_annual_report_1991_1992] — the staff list and "Committees of the Board, 1892-93". Cached under a filename misnumbered by a century; see [f_4901]. Read 2026-09-06 (p_253). See [f_4904].
 7. YMCA of Montreal, **Annual Report for the year ending 30 April 1899** [src_ia_ymca_montreal_annual_reports_collection] — the Junior Department, Permanent Camp Committee and Summer Camp lists. Read 2026-09-06. See [f_4908].
+8. YMCA of Montreal, **annual report for the year ending 30 April 1894** [src_ymf_sgw_ymca_annual_report_1893_1894], the Junior Department committee list; and the report for the year ending 30 April 1893 [src_ymf_sgw_ymca_annual_report_1892_1893], which announces D. W. Corbett's resignation as the assistant secretary in charge of that department, on his appointment as secretary of the Honolulu Association. Both cached in this repo and read 2026-09-06 under p_440 — **neither had been read before**. Searched in full for "camp", "tent", "outing", "St. Joseph" and "Agathe": the 1892-93 report returns nothing on any of them, and the 1893-94 report only a militia camp. Cached at `sources/cache/ymca-montreal-fonds/1890-1893-the-cushings-inside-the-association.txt`. See [f_4994], [f_4995].
 
 ## Research Notes
 
