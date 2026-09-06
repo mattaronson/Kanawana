@@ -2609,10 +2609,11 @@
         "founding-1894",
         "people/tony-shorgan",
         "sources-index",
-        "association-founding-dates"
+        "association-founding-dates",
+        "quebec-camping-association"
       ],
       "file_id": null,
-      "word_count": 34023,
+      "word_count": 29528,
       "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -6964,10 +6965,11 @@
         "founding-1894",
         "history/oldest-camp-question",
         "lv-games",
-        "people/tony-shorgan"
+        "people/tony-shorgan",
+        "quebec-camping-association"
       ],
       "file_id": null,
-      "word_count": 5317,
+      "word_count": 5351,
       "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- folded the former 'R3 Verification Notes'/'E1 Review Notes' H3 sub-headings into a proper '## Research Notes' section (HTML-comment process log), trimmed the header's dated parenthetical. This article's main body had no embedded prose sediment to begin with. No facts, citations, or open questions changed; status unchanged. | 2026-07-11 (Workstream B): added the \"Camps at a Glance\" summary table and an explanatory paragraph tying it to the places/-vs-context/ folder split, per the approved wiki-expansion plan -- this page now serves as the satellite/peer-camp hub. No new facts/sources; surfaced a new open question (#6, present-day status of several camps unconfirmed). | 2026-07-11: Linked \"Camp Pine Crest\" table row and prose bullet to the new standalone places/camp-pine-crest.md article. | 2026-08-14 p_226: L&V origin claim softened from 'direct origin/source' to the documented 'inspired by' (YMCA Quebec's own wording); duplicate Pine Crest blog source consolidated; quebec-camp-landscape's stale Hayo-Went-Ha reading, retracted in lv-games.md on 2026-07-09, corrected here too.",
       "tags": {
         "era": [
@@ -10746,10 +10748,11 @@
         "people/directors-index",
         "people/leo-robitaille",
         "people/a-ross-seaman",
-        "connections/institutional-lineage/canadian-camping-movement"
+        "connections/institutional-lineage/canadian-camping-movement",
+        "quebec-camping-association"
       ],
       "file_id": null,
-      "word_count": 3472
+      "word_count": 3494
     },
     {
       "article_id": "oldest-camp-question",
@@ -11265,12 +11268,46 @@
         "canadian-camping-movement",
         "oldest-camp-question",
         "taylor-statten",
-        "founding-1894"
+        "founding-1894",
+        "quebec-camping-association"
       ],
       "file_id": null,
-      "word_count": 1855,
+      "word_count": 1873,
       "open_questions": 3
+    },
+    {
+      "article_id": "quebec-camping-association",
+      "title": "The Quebec Camping Association / Association des Camps du Québec",
+      "wiki_folder": "connections/institutional-lineage",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06",
+          "by": "auto",
+          "task": "WRITE",
+          "note": "Second spinout from canadian-camping-movement.md under p_452, and the first one taken after the cross-article prose duplication audit (project-docs/prose-duplication-audit.md) established that the block was not already written elsewhere. 4,434 words of the parent's body moved, plus a new overview, open questions and cross-links. Entered as draft, not at the parent's E1-reviewed: the material was reviewed inside the parent, but this article's structure and framing are new and have not been verified as a whole."
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [],
+      "sources_cited": [
+        "src_ia_canadian_camping_collection",
+        "src_kk_prep_guide_2025"
+      ],
+      "cross_links": [
+        "canadian-camping-movement",
+        "association-founding-dates",
+        "derek-walsh",
+        "quebec-camp-landscape",
+        "camp-ouareau",
+        "oldest-camp-question",
+        "ymca-quebec-history"
+      ],
+      "file_id": null,
+      "word_count": 6294,
+      "open_questions": 5
     }
   ],
-  "article_count": 109
+  "article_count": 110
 }

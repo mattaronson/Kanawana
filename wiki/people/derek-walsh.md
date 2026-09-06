@@ -81,6 +81,7 @@ A camp director whose own 1977 report worried about promotion was, in the same y
 - [[people/leo-robitaille|Leo J. Robitaille]]
 - [[people/a-ross-seaman|A. Ross Seaman]]
 - [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]
+- [[connections/institutional-lineage/quebec-camping-association|The Quebec Camping Association / Association des Camps du Québec]] — the body he was president of the English Section of
 
 ## Sources
 

@@ -1,8 +1,8 @@
 {
-  "version": "7.97",
-  "kb_version": "7.97",
+  "version": "7.98",
+  "kb_version": "7.98",
   "migrated_from": "3.3",
-  "fact_count": 5080,
+  "fact_count": 5082,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91632,6 +91632,34 @@
       "conflicts_with": [],
       "added_version": "7.97",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5119",
+      "category": "methodology",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project"
+      ],
+      "claim": "THE WIKI IS NOT BROADLY DUPLICATED; f_5118 WAS THE EXCEPTION, NOT A SAMPLE. After finding the oldest-camp argument written into two articles (f_5118), scripts/wiki/prose_dupes.py was written to measure how much more of that there was, and run over all 112 wiki articles. 40 article pairs share a passage of 25 words or more. ALMOST ALL OF IT IS SHARED QUOTATION OF A COMMON PRIMARY SOURCE, WHICH IS THE CITATION GRAPH WORKING AND NOT A DEFECT: the three largest overlaps are history/founding-1894.md, people/t-duncan-patton.md and people/billy-ball.md all quoting Patton's memoir of the 1891 Jones Island trip and the 1892 committee. The largest single overlap is 160 words; f_5118 was 1,463. All three pairs involving canadian-camping-movement.md are shared quotation, which is what licensed the second spinout to proceed as a spinout rather than a deletion. TWO PAIRS ARE RESTATED FACT RATHER THAN QUOTATION and are noted for the next pass over those articles: site/places-and-locations.md and site/the-kanawana-site.md each narrate the 2018 Desjardins $1M donation and the founding of Camp Weredale in their own words. THE LIMIT MATTERS AS MUCH AS THE RESULT: the tool is blind to the same argument made in different words, which is exactly the case f_5118 was -- the two copies had drifted and would score low here. It was caught by reading the destination before cutting, and nothing replaces that. Output: project-docs/prose-duplication-audit.md.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.98",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5120",
+      "category": "methodology",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project"
+      ],
+      "claim": "A CITATION TO A SOURCE ID THAT DOES NOT EXIST SURVIVED IN AN E1-REVIEWED ARTICLE. connections/institutional-lineage/canadian-camping-movement.md cited [src_kk_preparation_guide_2025] in source note 8bt. The real record is src_kk_prep_guide_2025; the id with the word spelled out has never existed in sources/sources.json. It was caught only because the note was carried into a NEW DRAFT article during the second p_452 spinout, and scripts/verify/verify_harness.py checks [src_] existence ON DRAFT ARTICLES ONLY. THE GAP IS THE POINT: the harness's per-article checks run on drafts, so a defect introduced into or surviving in an E1-reviewed article is invisible to them, and E1-reviewed is where most of the wiki's words are. The harness's whole-wiki passes cover unresolvable ^N markers and header source counts but not [src_] existence. Typo corrected in both files 2026-09-06.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.98",
+      "added_by": "manual"
     }
   ]
 }

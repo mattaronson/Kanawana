@@ -68,6 +68,7 @@ This article already carries three datings for Kanawana's own provincial associa
 - [[history/oldest-camp-question|The Oldest Camp Question]] — the same problem, for Kanawana itself
 - [[connections/institutional-lineage/taylor-statten|Taylor Statten]] — whose daughter kept the minutes
 - [[history/founding-1894|Founding, 1894]] — where Kanawana's own competing clocks are tabulated
+- [[connections/institutional-lineage/quebec-camping-association|The Quebec Camping Association / Association des Camps du Québec]] — the Quebec association's own institutional history
 
 ## Sources
 

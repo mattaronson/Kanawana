@@ -9,6 +9,9 @@ Camp Kanawana (1894) is the oldest residential summer camp in Quebec, but it has
 
 This is also the wiki's answer to a question the folder structure alone doesn't explain: why do some sibling camps (Otoreke, Perrot, Becsies) live under `places/`, while others (Oolahwan, Ouareau, Weredale) live under `context/`? The split is real, not arbitrary — `places/` is for camps the YMCA of Montreal itself directly operated as part of the same institution as Kanawana; `context/` is for camps run by a distinct organization (the YWCA, an independent foundation, etc.) that nonetheless intersected with Kanawana's history. The table below tabulates every camp on this page by that same distinction (the "Operating Body" column), so the folder split should now read as a documented fact rather than an unexplained inconsistency.
 
+The body that accredited most of the camps named here, and through which they were
+members of the national association, has its own article: [[connections/institutional-lineage/quebec-camping-association|The Quebec Camping Association / Association des Camps du Québec]].
+
 ## Camps at a Glance
 
 | Camp | Operating Body | Relationship to Kanawana | Active Years | Status Today | Article |
