@@ -1,6 +1,6 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 50*
+*Status: E1-reviewed | Sources: 51*
 *Last Updated: 2026-09-06 (p_349: Mary Edgar's 1970 conservation hymn)*
 
 ## Overview
@@ -96,6 +96,30 @@ Saint-Michel** involved in **C-Vert**, "a collaborative project with the **Steph
 Foundation** and **TOHU** (the Cité des arts du cirque)". All staff that year "were trained in human
 rights and **40 Developmental Assets** educational approaches", and the year's environmental
 programme was named "**Wildlife Gaining Ground**".^50
+
+**The year before that, and the only copy of it is in French.** There is no English 2005-2006
+annual report in this project and no Wayback copy, so the French edition is the sole witness to the
+year in which the project was being designed. The Foundation "s'est aussi chargée de soutenir le
+développement d'un lieu unique… le camp YMCA Kanawana", and: "Le projet de développement en fera
+**un centre d'éducation à l'environnement et au plein air ouvert à l'année, accueillant plus de
+5 000 personnes** provenant de tous les milieux et ce, dans un climat de tolérance et de respect.
+**Une campagne de financement de 4 millions $ est présentement en cours et permettra le début des
+travaux en 2007.**"^51
+
+**Three money figures, and they are not three versions of one number.** The **$4 million** here is a
+**fundraising campaign** then under way; the **$4.4 million** in the 2006 report and the "close to
+**$5 million** in total" in 2007 are the **project investment**. A campaign target and a project cost
+are different quantities, and this article does not present them as one figure revised twice.
+
+**A target the outcome can be measured against: over 5,000 people a year.** Set beside the 800
+children and youth the association described the camp as hosting in 2004-2005 (see
+[[meta/attendance-series|The Attendance Series]]), that is a sixfold ambition, resting on the
+year-round and three-season use the new buildings were designed for.
+
+**One association-wide figure worth not misreading.** The same report says the *Politique d'accès
+équitable* "aide financièrement **4 523 personnes** afin qu'elles puissent participer à nos
+programmes" — that is **every YMCA programme across the association**, not Kanawana, and it is not
+comparable to the camp's own 12% and 19% assistance shares.
 
 ### Composting System
 
@@ -409,6 +433,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 48. YMCA of Montreal annual reports for 1977-78 through 1986, and the Kamp Kanawana directors' reports for 1976-1979 [src_cache_sgw_ymca_annual_report_1977_1978, src_cache_sgw_ymca_annual_report_1978_1979, src_ymf_sgw_ymca_annual_report_1979_1980, src_ymf_sgw_ymca_annual_report_1980_1981, src_ymf_sgw_ymca_annual_report_1981_1982, src_ymf_sgw_ymca_annual_report_1982_1983, src_ymf_sgw_ymca_annual_report_1984, src_ymf_sgw_ymca_annual_report_1985, src_ymf_sgw_ymca_annual_report_1986, src_ia_kanawana_directors_report_1976]. Searched for the 1976 campaign's promises. See [f_5046].
 49. YMCA of Montreal annual report 2007, the Concordia-digitized copy [src_ymf_sgw_ymca_annual_report_2007], pp. on the Kanawana Development Project and the grants table. THE SAME DOCUMENT AS NOTE 24, reached by a different route: note 24 is the Wayback copy (src_ymcaquebec_annualreport_2007, no cache file), this is the Internet Archive copy of the Concordia digitization, and the two carry the same $5 million framing and the same 19% assistance figure. Read 2026-09-06; the duplicate pair is logged for p_442.
 50. YMCA of Montreal annual report 2006, the Concordia-digitized copy [src_ymf_sgw_ymca_annual_report_2006], the "YMCA Kanawana Development Project" and "Community Outreach" pages. NO WAYBACK COPY OF THIS YEAR EXISTS in this project, unlike 2007-2009, so nothing in it had been read by any route before 2026-09-06.
+51. YMCA du Grand Montréal, rapport annuel 2005-2006 [src_ymf_sgw_ymca_annual_report_2005_2006_fr], the Foundation pages and the President's message. THE ONLY COPY OF THIS YEAR THIS PROJECT HOLDS IS THE FRENCH EDITION -- there is no English 2005-2006 file in the cache and no Wayback copy -- so nothing in it had been read before 2026-09-06.
 
 ## Research Notes
 

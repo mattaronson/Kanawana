@@ -1,8 +1,8 @@
 {
-  "version": "8.15",
-  "kb_version": "8.15",
+  "version": "8.16",
+  "kb_version": "8.16",
   "migrated_from": "3.3",
-  "fact_count": 5108,
+  "fact_count": 5109,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -92078,6 +92078,23 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.15",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5147",
+      "category": "site",
+      "date_ref": "2005-2006",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA du Grand Montréal"
+      ],
+      "claim": "THE GREEN SHIFT'S TARGET AND ITS CAMPAIGN, FROM THE ONLY COPY OF 2005-2006 THIS PROJECT HOLDS, WHICH IS THE FRENCH ONE. There is no English 2005-2006 annual report in the cache and no Wayback copy, so this edition is the sole witness to the design year. The Foundation 's'est aussi chargee de soutenir le developpement d'un lieu unique... le camp YMCA Kanawana', and: 'Le projet de developpement en fera UN CENTRE D'EDUCATION A L'ENVIRONNEMENT ET AU PLEIN AIR OUVERT A L'ANNEE, ACCUEILLANT PLUS DE 5 000 PERSONNES provenant de tous les milieux et ce, dans un climat de tolerance et de respect. UNE CAMPAGNE DE FINANCEMENT DE 4 MILLIONS $ EST PRESENTEMENT EN COURS et permettra LE DEBUT DES TRAVAUX EN 2007.' THREE MONEY FIGURES NOW EXIST AND THEY ARE NOT THREE VERSIONS OF ONE NUMBER: the $4 MILLION here is a FUNDRAISING CAMPAIGN then under way; the $4.4 MILLION in the 2006 report and the 'close to $5 million in total' in 2007 (f_5143) are PROJECT INVESTMENT. A campaign target and a project cost are different quantities and must not be presented as one figure revised twice. THE 5,000-PERSON TARGET IS THE PROJECT'S OWN MEASURE OF SUCCESS, against the 800 children and youth the association described the camp as hosting in 2004-2005 (f_5146's report) -- a sixfold ambition resting on year-round and three-season use. ALSO, AND NOT TO BE MISREAD: the same report says the Politique d'acces equitable 'aide financierement 4 523 PERSONNES afin qu'elles puissent participer a nos programmes' -- that is EVERY YMCA PROGRAMME ACROSS THE ASSOCIATION, not Kanawana, and it is not comparable to the camp's own 12% and 19% assistance shares.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2005_2006_fr"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.16",
       "added_by": "manual"
     }
   ]
