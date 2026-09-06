@@ -1,8 +1,8 @@
 {
-  "version": "6.59",
-  "kb_version": "6.59",
+  "version": "6.60",
+  "kb_version": "6.60",
   "migrated_from": "3.3",
-  "fact_count": 4875,
+  "fact_count": 4876,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87534,6 +87534,25 @@
       "date_ref": "1898",
       "conflicts_with": [],
       "added_version": "6.59",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4914",
+      "claim": "THE EARLIEST KNOWN PHOTOGRAPH OF THE CAMP, FOUND AND DESCRIBED 2026-09-06. The plate in the YMCA of Montreal's annual report for the year ending 30 April 1899, captioned \"THE ASSOCIATION SUMMER CAMP, LAKE ST. JOSEPH.\", is printed on page 13, immediately below the list of members who died during the year and the signatures of C. T. WILLIAMS, President, and D. A. BUDGE, Secretary. WHAT IT SHOWS, read from the page image: a view from above and behind the camp, looking out over the lake. FOUR TENTS. Left of centre and largest, a WALL TENT or marquee with its side walls raised, and immediately in front of it A FLAGPOLE WITH A FLAG FLYING. Lower left foreground, a pale CONICAL OR BELL TENT on guy ropes. Right of centre, a smaller wall tent half screened by brush. Right foreground, an A-FRAME OR WEDGE TENT seen side on. Between them, what appears to be stacked cut poles or a woodpile. The ground is rough scrub with low bushes and a bare sapling in the foreground; it falls away through brush to the shore, and the lake runs across the frame with a long low wooded far shore behind. NO PERMANENT BUILDING APPEARS IN THE FRAME -- which is worth stating as what the IMAGE SHOWS and not as what the site held, since the Log Club house was completed in the September of the year this report covers (f_4912) and could simply be out of shot. THE PLATE WAS INVISIBLE TO EVERY TEXT SEARCH THIS PROJECT HAS RUN: the OCR preserves the caption and not the picture. Cropped and filed at assets/images/documents/1899-association-summer-camp-lake-st-joseph.jpg.",
+      "sources": [
+        "src_ia_ymca_montreal_annual_reports_collection"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Camp Jubilee",
+        "Lac St. Joseph",
+        "C. T. Williams",
+        "D. A. Budge"
+      ],
+      "date_ref": "1899",
+      "conflicts_with": [],
+      "added_version": "6.60",
       "added_by": "ralph_loop"
     }
   ]

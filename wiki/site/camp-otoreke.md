@@ -217,12 +217,30 @@ Benedict**, and he chaired the Summer Camp committee the year before he signed.^
 Department in 1899. **R. L. Charlton**, who wrote "Notes re Early Days" the same year, was on the Junior
 Department — his second documented seat, and this one in boys' work. Neither wrote as a later compiler.
 
-**And there is a photograph nobody has looked at.** The same report carries a plate captioned "**THE
-ASSOCIATION SUMMER CAMP, LAKE ST. JOSEPH.**" The caption is all the cached OCR preserves; the plate is
-an image on a page that has not been fetched. It would be among the earliest known pictures of this
-site, five years after the first season, and Open Question 5 below asks for exactly this. The route is
-the one used on the 1900 manuscript — download the item's jp2 zip and read the page — and it has not
-been walked.^23
+**And there is a photograph, now looked at.** The same report carries a plate captioned "**THE
+ASSOCIATION SUMMER CAMP, LAKE ST. JOSEPH.**", printed on page 13 below the year's list of members who
+died and the signatures of C. T. Williams, President, and D. A. Budge, Secretary. **It is the earliest
+known photograph of this site**, four or five seasons after the first camp, and it was invisible to
+every text search this project has ever run, because the OCR preserves the caption and not the
+picture.^23
+
+![The Association Summer Camp, Lake St. Joseph — YMCA of Montreal annual report, 1899](../../assets/images/documents/1899-association-summer-camp-lake-st-joseph.jpg)
+*"THE ASSOCIATION SUMMER CAMP, LAKE ST. JOSEPH." Halftone from the YMCA of Montreal's annual report for
+the year ending 30 April 1899, p. 13. Published 1899; public domain in Canada.*
+
+**What it shows.** A view from above and behind the camp, out over the lake. **Four tents.** Left of
+centre and largest, a **wall tent or marquee with its side walls raised**, and immediately in front of
+it **a flagpole with a flag flying**. Lower left foreground, a pale **conical or bell tent** on guy
+ropes. Right of centre, a smaller wall tent half screened by brush. Right foreground, an **A-frame tent**
+seen side on. Between them what looks like stacked cut poles or a woodpile. The ground is rough scrub
+with low bushes and a bare sapling in front; it falls away through brush to the shore, and the lake runs
+across the frame with a long low wooded far shore behind.
+
+**No permanent building appears in the frame.** That is a statement about the image and not about the
+site: the Log Club house was completed in the September of the year this report covers, and it may
+simply be out of shot.
+
+
 
 ### Who was Corbett? A lead, not an answer
 

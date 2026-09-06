@@ -1,8 +1,32 @@
 {
   "_comment": "Provenance manifest for the Camp Kanawana visual archive. Every identified pre-2016 image gets an entry here BEFORE the image file lands, so provenance and rights are recorded. When an image is added to this directory, set status='acquired' and fill 'filename'. Canadian copyright note: photographs created before 1949 are generally public domain in Canada (and most pre-1972 published works), so the early archival images below are safely displayable. Photo-integration batch 'photodownloads-2026-06-29' added 2026-07-02: 234 images filed from three delivered archives (Concordia historical album, dining-hall plaque album, physical-artifact/art scans). See project-docs/research-log.md.",
   "version": "1.0",
-  "updated": "2026-09-05",
+  "updated": "2026-09-06",
   "images": [
+    {
+      "id": "img_association_summer_camp_1899",
+      "title": "The Association Summer Camp, Lake St. Joseph",
+      "caption_on_original": "THE ASSOCIATION SUMMER CAMP, LAKE ST. JOSEPH.",
+      "date": "1898 or 1899",
+      "date_precision": "approximate",
+      "source": "YMCA of Montreal, Annual Report for the year ending 30 April 1899, p. 13 (facing the President's and Secretary's signatures)",
+      "source_ref": "Internet Archive item sgw-ymca-annual-report-1899, leaf n14",
+      "source_url": "https://archive.org/details/sgw-ymca-annual-report-1899",
+      "rights": "Halftone published 1899 -- public domain in Canada. Credit the YMCA of Montreal fonds, digitized by Concordia University Records Management and Archives.",
+      "linked_facts": [
+        "f_4910",
+        "f_4914"
+      ],
+      "suggested_articles": [
+        "camp-otoreke",
+        "founding-1894"
+      ],
+      "target_filename": "1899-association-summer-camp-lake-st-joseph.jpg",
+      "filename": "1899-association-summer-camp-lake-st-joseph.jpg",
+      "status": "acquired",
+      "priority": 1,
+      "notes": "THE EARLIEST KNOWN PHOTOGRAPH OF THE CAMP THIS PROJECT'S HISTORY BEGINS WITH, four or five seasons after the first. Found 2026-09-06 by reading the report's page images: the OCR preserves the caption but not the plate, so no text search this project ever ran could see it. Cropped from the page scan at archive.org/download/sgw-ymca-annual-report-1899/page/n14_w1600.jpg (that endpoint needs a Referer header and -L)."
+    },
     {
       "id": "img_flagraising_c1910",
       "title": "Flag-raising ceremony, Kamp Kanawana",
