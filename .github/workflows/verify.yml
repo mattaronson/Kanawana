@@ -73,6 +73,16 @@ jobs:
         # human adjudicates them.
         run: python scripts/verify/staleness.py
 
+      - name: Footnote labels
+        # Advisory. Duplicate source labels, lettered markers that resolve to
+        # nothing, and entries that landed outside the Sources list. The
+        # harness's A1/B/C read entries as `^\d+\. `, so an article using
+        # lettered sub-entries (8a, 8b, ... 8bq) is invisible to them. Written
+        # after a duplicate 8t re-pointed two existing markers; on its first
+        # run it found 21 entries sitting after "## Research Notes" in the same
+        # article, and 21 markers resolving to nothing.
+        run: python scripts/verify/footnote_labels.py
+
       - name: Embargo labelling
         # Every embargoed fact registered and dated, every marker paired, and
         # no embargoed-only name loose in an article. Unlabelled is the

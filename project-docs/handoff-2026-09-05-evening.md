@@ -26,6 +26,7 @@ python3 scripts/verify/consistency.py         # blocking — now has a third rul
 python3 scripts/verify/citation_aim.py        # BLOCKING as of this PR (was advisory)
 python3 scripts/verify/staleness.py           # advisory
 python3 scripts/verify/restricted_guard.py    # blocking
+python3 scripts/verify/footnote_labels.py     # advisory — NEW, added 2026-09-05 evening
 ```
 
 Totals: **4,827 facts** (KB v6.38) · **63 conflicts** (32 open) · **1,580 sources** ·
@@ -69,7 +70,12 @@ five carried over; four more were earned today, all by me, all in this PR.
    front of it stayed "about 102". It is 101. `consistency.py`'s new SPAN rule now checks
    `N seasons, YYYY–YYYY` against `end − start + 1` — seasons and summers only, never
    "years", which are elapsed durations and correct as written.
-9. **A string-matching coverage sweep lies in two directions.** It scored "Anne I. Vail"
+9. **Locate by structure, not by first string match.** Three edits today went wrong this way: a new
+   footnote labelled `8t` collided with an existing `8t`; a global replace then re-pointed two existing
+   markers at it; and another footnote landed *inside* an article's Research Notes comment because the
+   preceding entry was quoted there. `scripts/verify/footnote_labels.py` now catches the first and
+   third; the second is still yours to avoid.
+10. **A string-matching coverage sweep lies in two directions.** It scored "Anne I. Vail"
    at zero articles while the wiki is full of Nan Vail and Ann Vail; and it reported
    "Elsie Palter" absent from a paragraph naming her, because the line wrapped between
    her given name and her surname. Normalise whitespace and search name variants before
@@ -77,7 +83,12 @@ five carried over; four more were earned today, all by me, all in this PR.
 
 ## What this session did
 
-**Infrastructure.** `articles.json`'s three derived fields are generated and asserted
+**Infrastructure.** `scripts/verify/footnote_labels.py` is new and advisory: duplicate source labels,
+lettered markers that resolve to nothing, entries that landed outside the Sources list. On its first run
+it found **21 source entries sitting after "## Research Notes"** in canadian-camping-movement.md, with 21
+markers in the body resolving to nothing — a pre-existing defect the harness could not see, because its
+A1/B/C read entries as `^\d+\. ` and that article's sub-entries are lettered. Moved back into place.
+`articles.json`'s three derived fields are generated and asserted
 (p_417 — 50 of 104 records were stale). `citation_aim.py` is blocking (p_401 — four
 findings cleared, and it has since caught three real regressions, all mine).
 `consistency.py` gained the SPAN rule. `data_integrity.py` now type-checks fact fields,
