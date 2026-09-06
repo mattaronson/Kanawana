@@ -1,7 +1,7 @@
 # Indigenous Place Names and Land History
 
-*Status: R3-verified | Sources: 31*
-*Last Updated: 2026-09-05*
+*Status: R3-verified | Sources: 34*
+*Last Updated: 2026-09-06*
 
 ## Overview
 
@@ -14,6 +14,55 @@ The meaning of the name "Kanawana" has been a subject of camp lore for over a ce
 The word does not exist in Kanien'kéha (the Mohawk language). The closest attested Kanien'kéha term is "kanà:wa" (swamp).^3 McMorris notes the phonetic similarity to Kahnawá:ke, the Mohawk reserve near Montreal.^3 The Kanawha River in West Virginia, which has a similar name, derives its name from a Shawnee or Delaware word.^4
 
 The naming likely reflects the broader practice of YMCA and summer camps adopting pseudo-Indigenous names in the early twentieth century, a practice McMorris examines in her chapter on "playing Indian."^3
+
+## What the province's own record says, and does not
+
+Quebec has a naming authority, the **Commission de toponymie du Québec**, and its file on this camp was
+read in full on 6 September 2026.^32 Four names are officially registered here: **Lac Kanawana** (fiche
+31996), the lieu-dit **Kanawana** (31995), **Lac Wilson** (67247) — all three officialised 5 December
+1968 and published in the Gazette on 15 March 1969 — and, seventeen years later, **Camp Kanawana**
+itself (144200), registered under the entity class *Camp* on 7 November 1985 and published 30 August
+1986. The camp is a Quebec place name in its own right, which nothing in this project had recorded.
+
+**The Commission does not know what "Kanawana" means either.** All four fiches carry the same sentence
+under *Origine et signification*:^32
+
+> "L'origine de ce nom et, le cas échéant, sa signification n'ont pu être déterminées jusqu'à
+> maintenant. La Commission de toponymie invite toute personne détenant une information sur l'un ou
+> l'autre de ces aspects à lui en faire part."
+
+Each is stamped *dernière mise à jour: 7 octobre 2020*. So Open Question 1 below is not merely open in
+this project; it is open in the provincial record, and the province is asking. That cuts both ways: this
+wiki holds the 1951 camp history's statement that the lake was renamed from **Lake St. Louis**, and that
+**Lac Desjardins** became Lake Wilson after J. W. McConnell bought the land and gave it to the YMCA,
+naming the lake for his son.^33 Neither statement is in the Commission's file, and both are exactly what
+its standing invitation asks for.
+
+**Two cautions about the dates.** The 1968 date is not a renaming. **26,229 of the 131,634 rows** in the
+province's official-toponym file carry the decision date 5 December 1968 — a fifth of the entire Quebec
+register — so it marks the Commission registering names already in use, not a decision about these
+lakes.^34 And the register of **de-officialised** names, all 13,951 rows of it, contains no trace of
+either change: no Lake St. Louis becoming Lac Kanawana, no Lac Desjardins becoming Lac Wilson.^34 Both
+renamings happened decades before the Commission opened a file, and survive only in the camp's own
+paper.
+
+*A near-miss worth flagging for anyone who searches this again:* a **different** Lac Saint-Louis, at
+Morin-Heights about eight kilometres northwest, **was** de-officialised on 7 November 1985 and is now
+**Lac Franc**. It is not Kanawana's lake. Three more lakes within a few kilometres were re-registered in
+the same years — Lac Raquette became **Lac Loranger** in 1988, barely a kilometre north; Lac Black
+became **Lac Dawson** at Mille-Isles in 1985; Lac Thibault became **Lac aux Castors** in 2000 — so this
+stretch of the Laurentians was being actively renamed while Kanawana's two lake names were left exactly
+as the camp had made them.^34
+
+**And the linguistic classification, which is not an etymology.** The open dataset behind the register
+gives *Origine linguistique: **Algonquin*** for all three Kanawana entries, and *Anglais* for Lac
+Wilson.^34 That field says which language a name is taken to belong to; the fiche says whether anyone
+knows what it means. The Commission asserts the first and disclaims the second, and the two should not
+be run together. Nor does the name appear in the Commission's register of **Noms traditionnels
+autochtones** — 2,675 Indigenous place names, of which not one falls within half a degree of this
+camp.^34 The province classes "Kanawana" as Algonquin in origin, does not know what it means, and does
+not list it among Quebec's traditional Indigenous names. That is the sharpest form this question has
+taken, and it settles it in neither direction.
 
 ## "Otoreke"
 
@@ -199,7 +248,7 @@ The Kanawana site sits in the municipality of Saint-Sauveur, in the Laurentian h
 
 ## Open Questions
 
-1. [Critical] What is the actual linguistic origin of "Kanawana"? Is it a genuine Indigenous word, a corruption, or a fabrication? Resolution may require consultation with Mohawk or Algonquin language specialists.
+1. [Critical] What is the actual linguistic origin of "Kanawana"? Is it a genuine Indigenous word, a corruption, or a fabrication? Resolution may require consultation with Mohawk or Algonquin language specialists. **Narrowed 2026-09-06:** the Commission de toponymie classes the name as Algonquin in origin but states on the fiche that its origin and meaning "n'ont pu être déterminées," and it is absent from the province's register of traditional Indigenous names. So the question is open in the provincial record too, and the Commission has a standing invitation for information — which this project could answer in part, since it holds the 1951 history's account of the renaming from Lake St. Louis.
 2. [Important] What is the pre-colonial history of the camp site? Were there Indigenous settlements or seasonal use areas at Lake Kanawana or Lake Wilson?
 3. [Important] Has the YMCA made any formal land acknowledgement regarding the Kanawana site?
 4. [Nice-to-have] When and why were the "Indian programming" elements (totem pole, Council of Tribes, Zuni Council) discontinued?
@@ -247,6 +296,9 @@ The Kanawana site sits in the municipality of Saint-Sauveur, in the Laurentian h
 29. "An Indian Version of the Twenty-Third Psalm," with editor's note, *Canadian Camping* Vol. 25 No. 1 (Fall 1972) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (`kb/reread/cc_findings.md`, issue 96). See [f_3667].
 30. Claude Cousineau, "Have a 'Wigwas Teiman' in Your Camp," *Canadian Camping* Vol. 25 No. 1 (Fall 1972), printed in English and French [src_ia_canadian_camping_collection]. Found by the re-read (issue 96). See [f_3666].
 31. Ernest Thompson Seton, *The Book of Woodcraft and Indian Lore* (Doubleday, Page, 1912) [src_seton_book_of_woodcraft_1912]. The Omaha Tribal Prayer and its Fletcher credit at p. 145; the Peace Pipe Ceremony at pp. 148-149. Read in full 2026-09-05. See [f_4855], [f_4857].
+32. Commission de toponymie du Québec, official fiches for **Lac Kanawana** (no_seq 31996), the lieu-dit **Kanawana** (31995), **Lac Wilson** (67247) and **Camp Kanawana** (144200), each stamped "dernière mise à jour: 7 octobre 2020" [src_ct_fiches_kanawana_2026]. Fetched and read 2026-09-06 (p_264); cached at `sources/cache/toponymie/`. The fiche pages answer a direct GET on `no_seq`; the Commission's search form is an ASP.NET postback and returned no results to a scripted POST, so the fiches were located through the open dataset at note 34. See [f_4874], [f_4875].
+33. The 1951 Kamp Kanawana history, on both renamings [src_ia_kanawana_history_1951]. See [f_2371] (Lac Desjardins to Lake Wilson, for J. W. McConnell's son), [f_2372] (Lake St. Louis to Lake Kanawana). The oral-history version of the Desjardins renaming is [f_1206].
+34. Données Québec open datasets published by the Commission de toponymie: *Toponymes officiels* (131,634 rows), *Toponymes désofficialisés* (13,951 rows) and *Noms traditionnels autochtones* (2,675 rows) [src_donneesquebec_bnlq_2026]. Downloaded and queried 2026-09-06; not cached in the repo (27 MB), with every row that matters quoted in [f_4874], [f_4876], [f_4877], [f_4878].
 
 ## Research Notes
 

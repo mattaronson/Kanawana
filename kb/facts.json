@@ -1,8 +1,8 @@
 {
-  "version": "6.41",
-  "kb_version": "6.41",
+  "version": "6.42",
+  "kb_version": "6.42",
   "migrated_from": "3.3",
-  "fact_count": 4835,
+  "fact_count": 4840,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -86712,6 +86712,109 @@
       "date_ref": "1975/1982",
       "conflicts_with": [],
       "added_version": "6.41",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4874",
+      "claim": "THE OFFICIAL TOPONYMIC RECORD FOR KANAWANA, READ FROM THE COMMISSION DE TOPONYMIE'S OWN FILE (2026-09-06). Four names are officially registered at the camp. (1) LAC KANAWANA, no_seq 31996, entity Lac, 45.85126 / -74.19633, Saint-Sauveur (Ville), MRC Les Pays-d'en-Haut, map sheet 31G16-0102; officialised 1968-12-05, published 1969-03-15; Origine_linguistique in the open dataset: ALGONQUIN. (2) KANAWANA, no_seq 31995, entity LIEU-DIT, 45.85 / -74.18333, same dates, also Algonquin -- the settlement name as distinct from the lake. (3) LAC WILSON, no_seq 67247, entity Lac, 45.84374 / -74.1954, same dates; Origine_linguistique: ANGLAIS. (4) CAMP KANAWANA, no_seq 144200, entity type CAMP, 45.85444 / -74.19305, officialised 1985-11-07 and published in the Gazette 1986-08-30; Algonquin. The fourth is new to this project: the camp itself is a registered Quebec toponym with its own entity class and its own date, seventeen years after the lake.",
+      "sources": [
+        "src_ct_fiches_kanawana_2026",
+        "src_donneesquebec_bnlq_2026"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Camp Kanawana",
+        "Lac Kanawana",
+        "Lac Wilson",
+        "Commission de toponymie du Quebec",
+        "Saint-Sauveur"
+      ],
+      "date_ref": "1968-12-05/1985-11-07",
+      "conflicts_with": [],
+      "added_version": "6.42",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4875",
+      "claim": "QUEBEC'S OWN NAMING AUTHORITY SAYS IT DOES NOT KNOW WHAT \"KANAWANA\" MEANS, AND ASKS THE PUBLIC. All four Kanawana-area fiches -- the lake, the lieu-dit, the camp, and Lac Wilson -- carry the identical sentence under \"Origine et signification\": \"L'origine de ce nom et, le cas echeant, sa signification n'ont pu etre determinees jusqu'a maintenant. La Commission de toponymie invite toute personne detenant une information sur l'un ou l'autre de ces aspects a lui en faire part.\" Each fiche is stamped \"Date de la derniere mise a jour: 7 octobre 2020\". So the Commission de toponymie du Quebec holds NO etymology for Kanawana and NO explanation of Lac Wilson, and has an open standing invitation for anyone who does. THIS BEARS DIRECTLY ON OPEN QUESTION 1 of indigenous-names-and-land.md: the question is not merely unanswered in this project, it is unanswered in the provincial record. It is also ACTIONABLE IN THE OTHER DIRECTION -- this project holds the 1951 camp history's statement that the lake was renamed from Lake St. Louis (f_2372) and that Lac Desjardins was renamed Lake Wilson for J. W. McConnell's son (f_2371), which is precisely the kind of information the Commission is asking for.",
+      "sources": [
+        "src_ct_fiches_kanawana_2026"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Commission de toponymie du Quebec",
+        "Camp Kanawana",
+        "Lac Kanawana",
+        "Lac Wilson",
+        "J. W. McConnell"
+      ],
+      "date_ref": "2020-10-07",
+      "conflicts_with": [],
+      "added_version": "6.42",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4876",
+      "claim": "THE 1968 DATE ON THESE TOPONYMS IS A BULK REGISTRATION, NOT A RENAMING -- A CONTROL WORTH KEEPING. 26,229 of the 131,634 rows in the Toponymes officiels file carry the decision date 1968-12-05, a fifth of the whole Quebec register; the next largest dates are 1978-08-17 (4,930) and 1973-10-24 (3,307). So \"Date d'officialisation 1968-12-05\" on the Lac Kanawana and Lac Wilson fiches records the Commission registering names already in use, not a decision about those two lakes, and must never be read as the date either lake was renamed. Camp Kanawana's 1985-11-07 sits in a smaller batch of 1,201 rows and is subject to the same caution.",
+      "sources": [
+        "src_donneesquebec_bnlq_2026"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Commission de toponymie du Quebec",
+        "Lac Kanawana",
+        "Lac Wilson",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1968-12-05",
+      "conflicts_with": [],
+      "added_version": "6.42",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4877",
+      "claim": "THE PROVINCE'S REGISTER OF DE-OFFICIALISED NAMES CARRIES NO TRACE OF EITHER KANAWANA RENAMING, AND ONE NEAR-MISS COULD FOOL A LATER PASS. Searched 2026-09-06, all 13,951 rows of Toponymes desofficialises: no row names the Saint-Sauveur Lac Kanawana or Lac Wilson as either an ancien nom or a nom officiel, so the change from Lake St. Louis to Lake Kanawana (f_2372) and from Lac Desjardins to Lake Wilson (f_2371, f_1206) are recorded in the camp's own history and NOT in the provincial register -- consistent with both changes happening decades before the Commission's file on these lakes begins. THE NEAR-MISS: a DIFFERENT Lac Saint-Louis, at Morin-Heights (45.92 / -74.2775, about 8 km northwest), WAS de-officialised on 1985-11-07 and is now LAC FRANC. It is not Kanawana's lake and must not be read as it. Three other lakes within a few kilometres were renamed in the same era -- Lac Raquette to LAC LORANGER on 1988-09-15 (45.8606 / -74.1917, about 1 km north of Lac Kanawana), Lac Black to LAC DAWSON on 1985-11-07 at Mille-Isles, and Lac Thibault to LAC AUX CASTORS in 2000 -- so this stretch of the Laurentians was actively re-registered in the 1980s while Kanawana's two lake names were left exactly as the camp had made them.",
+      "sources": [
+        "src_donneesquebec_bnlq_2026"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Lac Kanawana",
+        "Lac Wilson",
+        "Lac Saint-Louis",
+        "Lac Desjardins",
+        "Morin-Heights",
+        "Mille-Isles",
+        "Saint-Sauveur"
+      ],
+      "date_ref": "1985/1988",
+      "conflicts_with": [],
+      "added_version": "6.42",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4878",
+      "claim": "\"KANAWANA\" IS CLASSED AS ALGONQUIN IN ONE PROVINCIAL FILE AND IS ABSENT FROM THE OTHER, AND THE TWO STATEMENTS SHOULD BE HELD APART. The Toponymes officiels dataset gives Origine_linguistique = ALGONQUIN for all three Kanawana entries; the Commission's own fiche for each says the origin and meaning have not been determined (f_4875). Those are not the same claim: the dataset field classifies the LANGUAGE a name is taken to belong to, the fiche reports whether an ETYMOLOGY is known, and the Commission asserts the first while disclaiming the second. Separately, the Noms traditionnels autochtones register -- 2,675 Indigenous traditional place names collected by the Commission -- contains NO Kanawana entry and nothing at all within half a degree of the camp; the nearest entries are Moziosagan (Abenaki, for Deux-Montagnes) and Quenechouan (Algonquin, for the riviere Quinchien at Vaudreuil-Dorion), both far to the south. So the province classifies the name as Algonquin in origin, does not know what it means, and does not list it among the traditional Indigenous names of Quebec. That is the sharpest form the naming question has taken in this project and it does not settle it either way.",
+      "sources": [
+        "src_donneesquebec_bnlq_2026",
+        "src_ct_fiches_kanawana_2026"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Camp Kanawana",
+        "Lac Kanawana",
+        "Commission de toponymie du Quebec",
+        "Algonquin",
+        "Weskarini"
+      ],
+      "date_ref": "2026-09-06",
+      "conflicts_with": [],
+      "added_version": "6.42",
       "added_by": "ralph_loop"
     }
   ]

@@ -28459,7 +28459,43 @@
       "read_state": "read",
       "read_state_basis": "catalogue record fetched and read 2026-09-06 (p_326)",
       "notes": "BAnQ's holding of the ACQ's own annual report. Serial, annual, published by the association at Montreal; the run BEGINS WITH 2012/2013, so it does not reach the Annuaire 82 or any 1980s ACQ publication. Digitized but not displayable in the viewer: consultable only from secure terminals inside BAnQ buildings, protected by copyright. Recorded as the answer to whether BAnQ numerique covers the ACQ's early paper -- it does not."
+    },
+    {
+      "source_id": "src_ct_fiches_kanawana_2026",
+      "type": "catalog_reference",
+      "title": "Commission de toponymie du Quebec, official fiches for Lac Kanawana (no_seq 31996), Lac Wilson (67247), Camp Kanawana (144200) and the lieu-dit Kanawana (31995)",
+      "date": "2020-10-07",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://toponymie.gouv.qc.ca/ct/ToposWeb/fiche.aspx?no_seq=31996",
+      "cache_path": "sources/cache/toponymie/",
+      "char_count": 4584,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.42",
+      "reliability": "primary",
+      "read_state": "read",
+      "read_state_basis": "all four fiches fetched and read 2026-09-06 (p_264)",
+      "notes": "Quebec's official naming authority. All four fiches carry the same sentence under Origine et signification: \"L'origine de ce nom et, le cas echeant, sa signification n'ont pu etre determinees jusqu'a maintenant. La Commission de toponymie invite toute personne detenant une information sur l'un ou l'autre de ces aspects a lui en faire part.\" Each shows \"Date de la derniere mise a jour: 7 octobre 2020\". The fiche pages are reachable by direct GET on no_seq; the site's SEARCH form is an ASP.NET postback and did not return results to a scripted POST."
+    },
+    {
+      "source_id": "src_donneesquebec_bnlq_2026",
+      "type": "report",
+      "title": "Donnees Quebec open datasets: Toponymes officiels (131,634 rows), Toponymes desofficialises (13,951 rows), Noms traditionnels autochtones (2,675 rows), Commission de toponymie du Quebec",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://www.donneesquebec.ca/recherche/dataset/toponymes-officiels",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.42",
+      "reliability": "primary",
+      "read_state": "read",
+      "read_state_basis": "three CSVs downloaded and queried 2026-09-06 (p_264); not cached in-repo (27 MB)",
+      "notes": "The machine-readable form of the Banque de noms de lieux du Quebec, reachable through the CKAN API at donneesquebec.ca when the toponymie.gouv.qc.ca search form is not. Fields include Date_decision, Date_parution, Origine_linguistique, and for the desofficialises file Ancien_nom_officiel and Nom_officiel. Not cached in the repo: 27 MB, and the four rows that matter are quoted in the facts."
     }
   ],
-  "source_count": 1581
+  "source_count": 1583
 }

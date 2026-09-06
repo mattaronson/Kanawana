@@ -353,12 +353,12 @@
       "priority_id": "p_264",
       "rank": 28,
       "type": "RESEARCH",
-      "description": "Commission de toponymie du Quebec: settle the lake name changes. The official toponymic record should give (a) the date and rationale of Lac Saint-Louis -> Lac Kanawana, (b) the same for Lac Desjardins -> Lac Wilson, and (c) whether 'Kanawana' has a documented Indigenous-language etymology or is an invented coinage. Surfaced by the p_263 RALPH loop as the highest-value UNFETCHED geographic source in the project. Made sharper by the MIR reconciliation article, which shows genuine Indigenous names and invented pseudo-Indigenous names are equally common in North American camping -- so the question is real, not rhetorical. Also try the Quebec lake registry / RSVL for real bathymetry, since the only area and shoreline figures currently held are from a commercial chart aggregator that disclaims them.",
+      "description": "Commission de toponymie du Quebec: settle the lake name changes. The official toponymic record should give (a) the date and rationale of Lac Saint-Louis -> Lac Kanawana, (b) the same for Lac Desjardins -> Lac Wilson, and (c) whether 'Kanawana' has a documented Indigenous-language etymology or is an invented coinage. Surfaced by the p_263 RALPH loop as the highest-value UNFETCHED geographic source in the project. Made sharper by the MIR reconciliation article, which shows genuine Indigenous names and invented pseudo-Indigenous names are equally common in North American camping -- so the question is real, not rhetorical. Also try the Quebec lake registry / RSVL for real bathymetry, since the only area and shoreline figures currently held are from a commercial chart aggregator that disclaims them. WORKED 2026-09-06 -- PARTIALLY ANSWERED, and the answer is that the province does not know either. Route that worked: the Commission's own search form is an ASP.NET postback and returned nothing to a scripted POST, but its FICHE PAGES ANSWER A DIRECT GET on no_seq (https://toponymie.gouv.qc.ca/ct/ToposWeb/fiche.aspx?no_seq=NNNNN), and the no_seq values come from the open datasets at donneesquebec.ca (Toponymes officiels, Toponymes desofficialises, Noms traditionnels autochtones, CKAN API). THAT ROUTE IS REUSABLE FOR ANY OTHER TOPONYMY QUESTION IN THIS QUEUE. (a) and (b): NOT IN THE OFFICIAL RECORD. The desofficialises register (13,951 rows) carries no trace of Lake St. Louis becoming Lac Kanawana or Lac Desjardins becoming Lac Wilson; both changes predate the Commission's file, and the 1968-12-05 date on both fiches is a bulk registration shared by 26,229 toponyms, not a decision about these lakes (f_4876). A DIFFERENT Lac Saint-Louis, at Morin-Heights, became Lac Franc in 1985 -- a near-miss recorded so a later pass does not seize on it (f_4877). (c): the dataset classes Kanawana as ALGONQUIN in origin, but the fiche says the origin and meaning \"n'ont pu etre determinees jusqu'a maintenant\" and the name is absent from the province's register of traditional Indigenous names (f_4875, f_4878). NEW: Camp Kanawana is itself an official Quebec toponym, entity class Camp, officialised 1985-11-07 (f_4874). Written into indigenous-names-and-land.md with Open Question 1 narrowed. STILL OPEN: the RSVL / lake-registry bathymetry half of this priority was not attempted. SPAWNED p_422.",
       "article_id": "site",
       "blocking": false,
       "assigned_weight": "P1",
       "created_at": "2026-08-18T00:00:00Z",
-      "status": "pending",
+      "status": "partially_complete",
       "notes": "Spawned by the p_263 dormant-source RALPH loop (hypothesize phase).",
       "tier": "2-INGESTION"
     },
@@ -5267,6 +5267,17 @@
       "created": "2026-09-05",
       "source": "p_368 Seton comparison, 2026-09-05",
       "blocked_on": "needs a written enquiry"
+    },
+    {
+      "priority_id": "p_422",
+      "rank": 422,
+      "type": "OPERATOR_ACTION",
+      "description": "WRITE TO THE COMMISSION DE TOPONYMIE DU QUEBEC. Its fiches for Lac Kanawana (no_seq 31996), the lieu-dit Kanawana (31995), Lac Wilson (67247) and Camp Kanawana (144200) all say \"L'origine de ce nom et, le cas echeant, sa signification n'ont pu etre determinees jusqu'a maintenant\" and carry a standing invitation: \"La Commission de toponymie invite toute personne detenant une information sur l'un ou l'autre de ces aspects a lui en faire part.\" Last updated 7 October 2020. THIS PROJECT HOLDS PART OF THE ANSWER. The 1951 Kamp Kanawana history states that the 1910 site-search committee located \"Lake St. Louis, the present site\" and that \"the name of the lake was also changed from Ste Louis to Lake Kanawana\" (f_2372), and that \"Mr. J. W. McConnell purchased the land around Lake Desjardins. This he presented to the Y.M.C.A., and the lake was renamed 'Lake Wilson' after Mr. McConnell's son\" (f_2371). Both are sourced to a document in the Internet Archive and can be cited. WHAT TO SEND: the two former names with the 1951 history as the citation, the camp's founding date, and an explicit statement that the MEANING of \"Kanawana\" is not established by any source this project has found -- do not offer the \"lots to eat\" camp lore as an etymology, since Dawson's 1933 history says the meaning was not learned until years after the name was adopted. ASK IN RETURN: whether the Commission's working file holds anything not printed on the public fiche, and on what basis Origine_linguistique is recorded as Algonquin in the open dataset when the fiche disclaims knowing the origin. Contact through the Nous joindre page at toponymie.gouv.qc.ca. NEEDS THE OPERATOR: it is a letter, and it puts this project's name on a submission to a provincial body.",
+      "weight": 7,
+      "status": "pending",
+      "created": "2026-09-06",
+      "source": "p_264 toponymy campaign, 2026-09-06",
+      "blocked_on": "operator"
     }
   ],
   "queue_ordering": {

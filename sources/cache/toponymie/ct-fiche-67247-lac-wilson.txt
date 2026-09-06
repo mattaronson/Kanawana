@@ -1,0 +1,52 @@
+Commission de toponymie du Quebec -- fiche no_seq=67247 (lac-wilson)
+https://toponymie.gouv.qc.ca/ct/ToposWeb/fiche.aspx?no_seq=67247
+Fetched 2026-09-06. Text extracted from the served HTML.
+------------------------------------------------------------
+Lac Wilson - Saint-Sauveur (Ville)
+Passer au contenu
+Commission de toponymie
+Accueil
+Nous joindre
+Plan du site
+Retour aux résultats
+Version imprimable
+Lac Wilson
+Origine et signification
+L'origine de ce nom et, le cas échéant, sa signification n’ont pu être déterminées jusqu’à maintenant.
+La Commission de toponymie invite toute personne détenant une information sur l'un ou l'autre de ces aspects à lui en
+faire part
+.
+Date d'officialisation
+1968-12-05
+Spécifique
+Wilson
+Générique (avec ou sans particules de liaison)
+Lac
+Type d'entité
+Lac
+Région administrative
+Laurentides
+Municipalité régionale de comté (MRC)
+Les Pays-d'en-Haut
+Municipalité
+Saint-Sauveur (Ville)
+Code géographique de la municipalité
+77043
+Latitude               Longitude (coord. sexagésimales)
+45° 50' 37"
+-74° 11' 43"
+Latitude               Longitude (coord. décimales)
+45.84374
+-74.1954
+Carte topographique 1/50 000
+31G16
+Carte topographique 1/20 000
+31G16 -0102
+Nouvelle recherche
+Date de la dernière mise à jour : 7 octobre 2020
+-->
+Déclaration de services aux citoyens
+Accès à l’information
+Politique de confidentialité
+Accessibilité
+© Gouvernement du Québec, 2024
