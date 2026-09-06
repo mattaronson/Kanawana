@@ -1,6 +1,6 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 29*
+*Status: E1-reviewed | Sources: 30*
 *Last Updated: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *Last Updated: 2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
 *Last Updated: 2026-07-05 (named trip staff added from photo-mined canoe-trip plaques, p_191 ENRICH pass) — photo gallery added 2026-07-02*
@@ -237,6 +237,95 @@ camp boy in charge and nine campers had to run the closing of camp." His fix was
 counsellor, and he named its own risk: they are "often reduced" to "Joe boy" jobs "by
 self-satisfied trippers."
 
+### 1974: a director signs off, and forecasts the end
+
+Paul Mongraw's last report opens by saying what it is: "This report may be a somewhat more personal
+document than is usually expected in the Director's Report… **I've worked for Les Voyageurs since
+1967** and now marriage and a career preclude spending another summer in LaVerendrye."^30 That
+closes an arc this article picked up from the outside — the Paul Mongraw who signs as Director in
+1974 is the tripper who worked under David Blake in 1967, on his own statement, eight summers.
+
+**The pay had not moved in those eight years.** "The base salary for a tripper last summer was $450
+for the summer. **That is the same as I got for my first summer back in 1967!** We will not get good
+staff unless we are prepared to pay them well."^30
+
+**Why a Voyageur crew was six**, set out properly for the first time: one tripper and five campers
+in two canoes, because a seventh person needs a third canoe. "With a trip of six people, two carry
+canoes while the food, bedrolls, and equipment is stuffed into four packs to be carried by the rest.
+But with a trip of seven three carry canoes and there are still only four packs which now must be
+overstuffed." He wanted it made policy "no matter what the temptation of making a few extra bucks by
+adding one more camper," and recorded what happened when one was added anyway: the tripper's comment
+was "They screwed us downtown." "They did indeed."^30
+
+Two other policies asked for. A minimum height and weight, because small boys "do genuinely suffer
+because of the weight of the packs and of the canoes" and face "the special embarrassment of the
+light pack that has specially to be packed for them." And an interview with every prospective
+camper, since "nothing is more disheartening than the camper who has been **shanghaied by his
+parents** and has not the slightest desire to be on a canoe trip."^30
+
+**And a plea about language, in 1974.** "Once again a plea must be made to make the Voyageur's
+handbook of information and especially any forms the parents must fill out bilingual. **We deserve
+abominations like Bill 22 if we make no effort to translate into French** simple things like lists
+of clothing and equipment to bring."^30 It is the only place in this project where a camp document
+argues about Quebec language politics, and the arguing is on the side of translating.
+
+The staff that year were "superb," every trip made its pickup on time and there were no injuries all
+summer, with special mention of **Bob Woodhouse**'s "resourcefulness in doing major repairs on a
+badly damaged canoe and still getting his trip back on schedule" — the same Woodhouse who signs as
+Director five years later.^30
+
+### The base camp is gone, and the forecast
+
+The report's seventh section is the clearest account of the programme's late shape this project
+holds. "**In recent years, principally because of its inability to afford a truck (and thus access a
+base camp), Les Voyageurs has based itself at Camp Kanawana.**"^30 The consequences he lists read as
+the 1959 complaint coming back: campers "arrive 'high' for the bush and spend their first day at a
+residence camp abounding with little girls and eight-year-old boys," and "more than one camper has
+told me that he felt the two days spent at Kanawana constituted a 'ripoff'"; the season shortened by
+travel "so that we waste the best part of August"; staff training hampered by dependence on
+Kanawana's truck; no chance to set up in the country the camp works in; friction on site; and then
+the prediction:
+
+> "**If things continue as they are now then Les Voyageurs de LaVerendrye will inevitably be absorbed
+> by the Hike and Trip department of Kanawana and will cease to be a separate operation.** The loss
+> of a distinctive canoe tripping camp is something the YMCA can ill afford."^30
+
+So the whole arc is: based at Kanawana in 1959 and wanting out; Lac Nanouaton by about 1960 and Lac
+Landron from 1963; back at Kanawana by the early 1970s for want of a truck; and its director in 1974
+forecasting absorption. *(The programme outlived the forecast: the Canadian Camping Association's
+January 1975 directory still lists it as a separately accredited camp, and a directors' report
+survives for 1979.)*
+
+He also wanted out of the park itself: "a new base camp **should not be in Parc de LaVerendrye**. I
+say this with regret but the Park is becoming increasingly crowded, the fees more and more onerous,
+and the surrounding fishing clubs more and more touchy about trips crossing their territory. With
+all the new roads open to the **James Bay Project (ugh)** we should be able to find a new tripping
+territory."^30 The parenthetical is his.
+
+**On one numbered policy item in the same report.** It is a sustained criticism of Kanawana's
+caretaker of the previous season — his contempt for the Voyageur staff, his "unfriendliness and
+petty harassment," and a theory of what he counted as work. The report names the post and not the
+man, which makes him recoverable from any staff roster of that year and the passage an
+identification by inference, so it is kept and labelled rather than quoted loose: register entry
+**r_0004**, review **1 January 2050**. The institutional part of it is above — the friction was real
+and the Voyageurs' asks were showers and access to buildings.
+
+<!-- embargo:r_0004 -->
+*Embargoed material: a 1974 criticism of an unnamed Kanawana employee, register r_0004, review
+2050-01-01.*
+
+"The Kanawana caretaker of last season was an able and hardworking individual who could not disguise
+his contempt for the Voyageurs Director and his staff. While the planning, preparation, and execution
+of a canoe trip does not fall into the category of backbreaking labour which in the ethic of the
+Caretaker can only be considered work, the trippers did do their jobs well. In no way did we deserve
+the unfriendliness and petty harassment that we got from the Caretaker. The requests from our outfit
+are minimal (hot showers and access to buildings) so that it mystifies me that a dislike for us of
+such intensity should have developed. But develop it did and to no small degree it spoiled our summer
+while we were at Kanawana. The Caretaker should be instructed to meet what few demands the Voyageur
+Director makes on him without petulance and these reasonable demands include the Director inspecting
+and repairing the Voyageur's equipment in May and June."
+<!-- /embargo:r_0004 -->
+
 ## Coeducation and Later Developments
 
 The first all-female Voyageur trip departed from Kanawana in 1972, a milestone in the camp's transition to coeducation.^3 In 1998, the one-month Adventurer Canoe Trip was introduced, extending the program's reach to the most committed young trippers.^3
@@ -451,3 +540,4 @@ This is the only itemised cost of a 1920s Canadian canoe trip found by this proj
 27. "Les Voyageurs de la Vérendrye — Camp Director's Report 1967", signed by David Blake [src_ymf_1967_les_voyageurs_de_la_verendrye_camp_directors_report]. Cached at `sources/cache/ymca-montreal-fonds/1967-les-voyageurs-de-la-verendrye-camp-directors-report.txt`. See [f_5020] through [f_5023]. The report refers to directors' reports for **1963, 1964 and 1965**, which this project has not located.
 28. "Les Voyageurs de la Vérendrye, Report for 1960", submitted by Roger Wilson [src_ymf_1960_les_voyageurs_de_la_verendrye_report]. See [f_5025] and [f_5050]. Read for its organisation and promotion sections, its signature block and its surviving appendices; the equipment, food and rating sections are not read, and **the scan stops after Appendix 4** — two appendices listed in the table of contents are not in the digitized text.
 29. "Les Voyageurs de la Vérendrye, Annual Report 1963" [src_ymf_1963_les_voyageurs_de_la_verendrye_annual_report]. Read whole 2026-09-06 under p_441. See [f_5051] and [f_5052]. **Its staff section is embargoed as register entry r_0003** — named end-of-season assessments of six seasonal staff who were private individuals in their late teens and early twenties; see `kb/restricted/README.md`.
+30. "Les Voyageurs de LaVerendrye — Report on Summer 1974", signed Paul Mongraw, Director 1974 [src_ymf_1974_les_voyageurs_de_la_verendrye_report_on_summer]. Read whole 2026-09-06 under p_441. See [f_5054] and [f_5055]. **One numbered policy item is embargoed as register entry r_0004** — a sustained criticism of an unnamed Kanawana caretaker, recoverable from any staff roster of the season and therefore an identification by inference.

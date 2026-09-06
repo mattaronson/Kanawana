@@ -1,8 +1,8 @@
 {
-  "version": "7.49",
-  "kb_version": "7.49",
+  "version": "7.50",
+  "kb_version": "7.50",
   "migrated_from": "3.3",
-  "fact_count": 5015,
+  "fact_count": 5018,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -90378,6 +90378,68 @@
         "review_on": "2040-01-01",
         "basis": "later of record date + 75 and estimated birth + 100",
         "why": "Named end-of-season judgements of seasonal staff who were private individuals in their late teens and early twenties in 1963, including a man named as the season's one weak link and another whose temperament is discussed at length. Held in the knowledge base and written into the article behind a marker; withheld from any published surface, where it would attach a sixty-year-old workplace assessment to a searchable name."
+      }
+    },
+    {
+      "fact_id": "f_5054",
+      "category": "programs",
+      "date_ref": "1974",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "Paul Mongraw",
+        "Kamp Kanawana",
+        "Bob Woodhouse"
+      ],
+      "claim": "PAUL MONGRAW'S VALEDICTORY, AND HE DATES HIMSELF: 'I'VE WORKED FOR LES VOYAGEURS SINCE 1967'. The 1974 report opens with a preface unlike the others: 'This report may be a somewhat more personal document than is usually expected in the Director's Report... I've worked for Les Voyageurs SINCE 1967 and now MARRIAGE AND A CAREER PRECLUDE spending another summer in LaVerendrye.' That closes the arc f_5024 noticed from outside -- the Paul Mongraw who signs as Director in 1974 is the Paul Mongraw who tripped under David Blake in 1967, on his own statement, eight summers. THE PAY HAS NOT MOVED IN THOSE EIGHT YEARS: 'the base salary for a tripper last summer was $450. for the summer. THAT IS THE SAME AS I GOT FOR MY FIRST SUMMER BACK IN 1967! We will not get good staff unless we are prepared to pay them well.' BILL 22 IS IN IT, and this is the only place in this project where a camp document argues about Quebec language politics: 'Once again a plea must be made to make the Voyageur's handbook of information and especially any forms the parents must fill out BILINGUAL. WE DESERVE ABOMINATIONS LIKE BILL 22 IF WE MAKE NO EFFORT TO TRANSLATE INTO FRENCH simple things like lists of clothing and equipment to bring.' THE TRIP-SIZE ARITHMETIC IS SET OUT PROPERLY, and it is the clearest statement of why a Voyageur crew was six: one tripper and five campers in two canoes, because 'with just one more camper than five you need another canoe just to bring along the extra person... with a trip of six people, two carry canoes while the food, bedrolls, and equipment is stuffed into four packs to be carried by the rest. But with a trip of seven three carry canoes and there are still only four packs which now must be overstuffed.' The report wants that made policy 'no matter what the temptation of making a few extra bucks by adding one more camper', and records what happened when one was added: 'his comment was, \"They screwed us downtown\". They did indeed.' TWO OTHER POLICIES ASKED FOR: a minimum height and weight for campers, because small boys 'do genuinely suffer because of the weight of the packs and of the canoes' and face 'the special embarrassment of the light pack that has specially to be packed for them'; and an interview with every prospective camper, since 'nothing is more disheartening than the camper who has been SHANGHAIED BY HIS PARENTS and has not the slightest desire to be on a canoe trip.' AND THE STAFF: 'the trippers for Summer '74 were superb', with special mention of BOB WOODHOUSE's 'resourcefulness in doing major repairs on a badly damaged canoe and still getting his trip back on schedule' -- the same Woodhouse who signs as Director in 1979 (f_5024). 'Every trip reached its pickup on time and there were no injuries all summer.'",
+      "sources": [
+        "src_ymf_1974_les_voyageurs_de_la_verendrye_report_on_summer"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.50",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5055",
+      "category": "programs",
+      "date_ref": "1974",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "Kamp Kanawana",
+        "La Verendrye Park",
+        "James Bay Project"
+      ],
+      "claim": "BY 1974 THE VOYAGEURS HAD LOST THEIR BASE CAMP AND WERE BACK AT KANAWANA, AND THEIR DIRECTOR PREDICTED THE PROGRAMME WOULD BE ABSORBED. The section headed 'The Future of Voyageurs' is the clearest account of the programme's late shape this project holds: 'IN RECENT YEARS, PRINCIPALLY BECAUSE OF ITS INABILITY TO AFFORD A TRUCK (AND THUS ACCESS A BASE CAMP), LES VOYAGEURS HAS BASED ITSELF AT CAMP KANAWANA.' Six consequences are listed and they read as the 1959 complaint returning: 'the campers arrive \"high\" for the bush and spend their first day at a residence camp abounding with little girls and eight-year-old boys... more than one camper has told me that he felt the two days spent at Kanawana constituted a \"ripoff\"'; the season shortened by travel 'so that we waste the best part of August'; staff training hampered by dependence on Kanawana's truck; no chance to set the camp up in the country it works in; friction with Kanawana's caretaker and Voyageur campers 'sometimes disruptive to the routine of Kanawana'; and the last one, which is a prediction: 'IF THINGS CONTINUE AS THEY ARE NOW THEN LES VOYAGEURS DE LAVERENDRYE WILL INEVITABLY BE ABSORBED BY THE HIKE AND TRIP DEPARTMENT OF KANAWANA AND WILL CEASE TO BE A SEPARATE OPERATION. The loss of a distinctive canoe tripping camp is something the YMCA can ill afford.' SO THE ARC RUNS: based at Kanawana in 1959 and wanting out (f_5018); at Lac Nanouaton by about 1960 and Lac Landron from 1963 (f_5052); back at Kanawana by the early 1970s for want of a truck; and its director in 1974 forecasting absorption. AND HE WANTED TO LEAVE LA VERENDRYE ALTOGETHER: 'a new base camp SHOULD NOT BE IN PARC DE LAVERENDRYE. I say this with regret but the Park is becoming increasingly crowded, THE FEES MORE AND MORE ONEROUS, and the surrounding FISHING CLUBS more and more touchy about trips crossing their territory. With all the new roads open to the JAMES BAY PROJECT (UGH) we should be able to find a new tripping territory that is both exciting and accessible and on which we can build a new base camp. It will take planning and initiative. The time to do it is now.' The parenthetical 'ugh' is the document's own.",
+      "sources": [
+        "src_ymf_1974_les_voyageurs_de_la_verendrye_report_on_summer"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.50",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5056",
+      "category": "people",
+      "date_ref": "1974",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "Kamp Kanawana"
+      ],
+      "claim": "AN EXTENDED COMPLAINT ABOUT AN UNNAMED KANAWANA EMPLOYEE, EMBARGOED FOR THE SAME REASON AS A NAMED ONE. Under Policy, the 1974 report devotes a numbered item to the previous season's Kanawana caretaker: an 'able and hardworking individual who could not disguise his contempt for the Voyageurs Director and his staff', whose 'unfriendliness and petty harassment' the writer says the Voyageurs did not deserve and which 'to no small degree it spoiled our summer while we were at Kanawana'. It sets out an implied theory of the man -- that in his 'ethic' only 'backbreaking labour' counts as work, so planning and running canoe trips did not -- and asks that he 'be instructed to meet what few demands the Voyageur Director makes on him without petulance'. THE MAN IS NOT NAMED IN THE REPORT, WHICH IS EXACTLY WHY THIS IS EMBARGOED RATHER THAN SIMPLY QUOTED: Kanawana's caretaker for a single named season is recoverable from a staff roster or a payroll list of the same year, so the passage is an identification by inference, and publishing it would attach a fifty-year-old character judgement to whichever name that turns out to be. The same section's institutional content -- that Voyageur presence at Kanawana produced friction, and that the Voyageurs' demands on the site were showers and access to buildings -- is carried unembargoed in f_5055.",
+      "sources": [
+        "src_ymf_1974_les_voyageurs_de_la_verendrye_report_on_summer"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.50",
+      "added_by": "ralph_loop",
+      "publication": {
+        "status": "embargoed",
+        "register_id": "r_0004",
+        "review_on": "2050-01-01",
+        "basis": "later of record date + 75 and estimated birth + 100",
+        "why": "A sustained personal criticism of a named post rather than a named person, which makes it recoverable from any staff roster of the same season and therefore an identification by inference. Held in the knowledge base and written into the article behind a marker; withheld from any published surface."
       }
     }
   ]
