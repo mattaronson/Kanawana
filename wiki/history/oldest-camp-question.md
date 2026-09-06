@@ -393,8 +393,11 @@ different reason: it makes **2019 a clean common cutoff** for measuring what cam
 | **Oldest continuously operating, strictly** | **Nobody.** All three have interruptions | Fails (2020-21) |
 | **Longest unbroken run of seasons** | **Kanawana — 126, 1894 to 2019** | **First**, by roughly 25 seasons |
 
-Camp Stephens' longest unbroken run is about **102 seasons** (1919-2019, after the 1918 closure —
-the closure year is now settled, so this figure no longer rests on a disputed date [f_4838]).
+Camp Stephens' longest unbroken run is **101 seasons** (1919-2019, after the 1918 closure). *Corrected
+2026-09-05: this article said "about 102" for a few hours after the closure year was settled at 1918.
+The 102 was correct while the run was dated 1918-2019; once the closure moved into 1918 the run starts
+in 1919, and 1919 to 2019 inclusive is 101. Settling Camp Stephens's 1918 closure and leaving the
+arithmetic beside it alone is the exact error this article warns about elsewhere* [f_4838].
 Big Cove's is about **87** (to 1975), with only 40 since reopening in 1980. Kanawana leads on any of
 Big Cove's three candidate founding dates [f_4751].
 

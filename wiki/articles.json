@@ -2425,7 +2425,7 @@
         "sources-index"
       ],
       "file_id": null,
-      "word_count": 32006,
+      "word_count": 32032,
       "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -10295,6 +10295,12 @@
           "at": "2026-09-05T00:00:00Z",
           "by": "auto",
           "task": "VERIFY"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 2,
@@ -10362,6 +10368,7 @@
         "f_4836",
         "f_4837",
         "f_4838",
+        "f_4839",
         "f_4840",
         "f_4843",
         "f_4846",
@@ -10404,7 +10411,7 @@
         "connections/related-camps/quebec-camp-landscape"
       ],
       "file_id": null,
-      "word_count": 6574
+      "word_count": 6624
     },
     {
       "article_id": "points-of-contact",

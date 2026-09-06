@@ -475,14 +475,15 @@ consecutive seasons — one neutral metric applied identically to all three — 
 | Camp | Interruptions on record | Longest unbroken run |
 |---|---|---|
 | **Camp Kanawana** | 2020–21 (provincial prohibition) | **126 seasons, 1894–2019** |
-| Camp Stephens | **1918** (war); 2020 (provincial prohibition) | ~102 seasons, 1919–2019 |
+| Camp Stephens | **1918** (war); 2020 (provincial prohibition) | **101 seasons, 1919–2019** |
 | Big Cove | 1976–79 (want of repairs); 2020–21 | ~87 seasons, 1889–1975 |
 
 **Camp Stephens's wartime year was settled on 2026-09-05.** This table read "1917 or 1918" while the
 two dates stood unreconciled. The camp's own 125th Anniversary Chapel Service and the Lake of the Woods
 Museum's newsletter, both of 2016, give **1918** and give the same reason — not enough men left to act as
 counsellors; the 1917 was a parenthesis in a 2020 fundraising post. Camp Stephens closed in 1918, so its unbroken run begins in
-1919 [f_4838]. See [[history/oldest-camp-question|Is Kanawana the Oldest Camp in Canada?]], which also
+1919, and the run is 101 seasons rather than the ~102 this table carried while the closure was dated
+1918-or-1919 — 1919 to 2019 inclusive is 101 [f_4838]. See [[history/oldest-camp-question|Is Kanawana the Oldest Camp in Canada?]], which also
 records a larger question raised by the same document: that service dates the first *boys'* camp at
 Stephens to 1911 (conflict c_063).
 
