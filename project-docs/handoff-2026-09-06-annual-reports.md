@@ -100,3 +100,78 @@ total, flag the split.**
 4. **f_5111**, **f_5093**, **c_066** as narrowed by f_5133 — all unchanged.
 5. The **volumes with one or two Kanawana mentions apiece**, deliberately left: below p_454's own
    threshold and a much longer job. Re-run `scripts/reread/camp_coverage.py` before reopening.
+
+
+---
+
+# Later the same evening: the corpus sweep on PEOPLE (p_430)
+
+The annual reports were finished; this is what came after, and it was the more
+productive half. **The whole of it rests on one trick.**
+
+## The index form
+
+`openlibrary.org/search/inside.json` takes exact phrases only. **Directories, periodical indexes and
+back-of-book indexes all invert the name**, and the running form drowns in a much larger set. Every
+find below came from the inverted form:
+
+| query | hits | what it found |
+|---|---|---|
+| `"Owens, O. N. H."` | 2 | his day job; the running form returns the company entries but not the man |
+| `"Patton, T. Duncan"` | 9 | the Naismith biography that indexes him on five pages |
+| `"Charlton, R. L."` | 24 | the 1895 Point St. Charles benefactors page |
+| `"O. N. H. Owens"` | 4 | the company entries only |
+| `"T. Duncan Patton"` | 24 | photo captions |
+| `Duncan Patton` (bare) | 107 | noise |
+
+**Try the index form first, every time.**
+
+## What it produced
+
+**O. N. H. Owens had a day job and a first name** (f_5204). The Financial Post's *Directory of
+Directors*, 1947: "OWENS, O. N. H.; man. dir. **Central Investment Corp.**, 1240 Phillips Sq.,
+Montreal", on a board with three Birkses. The *Art Index* gives "**Owens, Owen N. H.**", which is the
+leading given name `order-of-owens.md` said no document in the corpus spells out — so the LAC file for
+OWENS, OWEN NORREYS HARRINGTON is better supported, still not proved. **And it cracked a pattern:**
+`directors-index.md` had just established that the men who *ran* the camps were schoolmasters. The man
+who *chaired* Kanawana was a Birks executive. Directors out of the schoolrooms, chairmen out of the
+counting houses.
+
+**One 1895 page holds five of this project's people** (f_5206). The *Report of the Point St. Charles
+Institute*: Life Benefactors **Charles Cushing, Robertson Macaulay, T. B. Macaulay**, James Cochrane;
+1894-95 benefactors **Chas. Alexander, R. L. Charlton, H. B. Ames** and three others. Kanawana's first
+camp committee, the Boys' Home of Montreal's founder, and the Macaulays, subscribing to one settlement
+mission in the camp's founding year. **Three of the five are name matches, not identifications**, and
+the fact and the article both say so.
+
+**Patton's basketball claim now has print sources**, and the fullest account of him anywhere —
+Rains's *James Naismith* (Temple UP, 2009), which **indexes him on five pages** — is named, unread,
+and gettable from a library (f_5205).
+
+**Doris Robertson was looked for and is not there** (f_5197). She made the 1936 linocut *Camp Otoreke,
+Laurentians* and showed at the Art Association for thirteen years; outside that catalogue she is in
+nothing indexed. The null is logged with the untried archives named — MMFA, NGC, LAC, BAnQ.
+
+## Rule 27, from a correction I caught by luck
+
+**27. No arithmetic the source does not perform — and check whether the source performs its own.**
+I read "the forty years of its history" in the 1931 report as dating Otoreke to 1891. **Seventeen
+lines earlier, in the same camps section about the same lake, that report writes "in 1898, or forty
+years ago"** — wrong by seven years, which tells you "forty years" is the writer's stock phrase and
+dates nothing. `founding-1894.md` already carried the association's retrospective dates across five
+decades, better than the section I was about to add.
+
+*What makes this rule worth writing down is how it was caught:* the insert script's anchor assertion
+failed, and reading the destination to fix it is what showed me the article already had it. **Not
+discipline — luck.** Check the destination first, and check the same document for its own use of the
+phrase you are about to interpret.
+
+## Where p_430 stands
+
+**Swept and null:** Shantz, Robitaille, Bruce Netherwood, Ronald Hupfield (index form), all zero.
+McEwen 13, all false friends. Twynam 2, both false friends. Camp **name** forms exhausted:
+"Kanawanna" 0, "Lac Kanawana" 0, "Kanawana, Que" 0, "Lake Kanawana" 1 and already held.
+
+**Left, and each needs a pairing term rather than a bare surname:** Dawson (551), Dimock (468),
+Turner (447), Hupfield unqualified (663). An exact-phrase endpoint cannot narrow those; they want a
+boolean full-text search — HathiTrust — or a distinctive multi-word string.
