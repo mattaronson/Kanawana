@@ -376,8 +376,16 @@ them fails `verify_harness`:
 
 Then run `scripts/verify/all.py`, which catches all four.
 
-This is mechanical enough to be a script and is not one yet. Until it is, do the four steps
-deliberately rather than by habit.
+**Steps 1 to 3 are now a script:** `scripts/wiki/add_source_note.py ARTICLE "note text"`. It
+enumerates the next free number from both entries and markers, inserts the entry after the last
+numbered entry inside `## Sources` — the position I kept missing — and bumps the header count. It
+prints the number it assigned; **putting the `^N` marker in the prose stays yours**, because where
+a marker belongs is a judgement about the sentence. `--dry-run` shows what it would do.
+
+Step 4 stays manual on purpose: only the author knows whether the article cites the source id or a
+fact id, and guessing produces the other direction of A2.
+
+Run `scripts/verify/all.py` afterwards regardless.
 
 ## Open questions for Matt
 
