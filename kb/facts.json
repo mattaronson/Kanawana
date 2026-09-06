@@ -1,8 +1,8 @@
 {
-  "version": "8.22",
-  "kb_version": "8.22",
+  "version": "8.23",
+  "kb_version": "8.23",
   "migrated_from": "3.3",
-  "fact_count": 5123,
+  "fact_count": 5124,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -92345,6 +92345,22 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.22",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5162",
+      "category": "methodology",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Camp Otoreke",
+        "Lac Saint-Joseph",
+        "Kanawana wiki project"
+      ],
+      "claim": "THE 1923 DAM BILL WAS NOT FOUND, AND SEARCHING FOR IT RAN STRAIGHT INTO A LAKE-NAME COLLISION. ACCESS FAILURE / NULL for f_5160's lead. Two searches on 2026-09-06. THE ONE USEFUL THING RECOVERED: Quebec's 16th Legislature held its 1st Session from 17 DECEMBER 1923 TO 15 MARCH 1924, which brackets 'recently passed' in a report covering the year ending 31 March 1924, so the Bill is a private bill of that session. The Bill itself was not found. THE COLLISION, WHICH IS THE PART TO REMEMBER: QUEBEC HAS AT LEAST TWO NOTABLE LAC SAINT-JOSEPHS, and the better-known one is in Portneuf near Quebec City, whose outlet supplies drinking water to Sainte-Catherine-de-la-Jacques-Cartier AND WHOSE LEVEL IS CONTROLLED BY A DAM. A search for 'barrage lac Saint-Joseph' returns that dam. IT IS NOT OTOREKE'S LAKE. Otoreke's is in Saint-Adolphe-d'Howard in the Laurentians, the largest of that municipality's 85 lakes. The wiki already disambiguates correctly, always naming the township, and this fact exists so that a later pass does not take the Portneuf dam as evidence that Otoreke's dam was built. This is the same species of trap as the Tapirape word for thunder in the Open Library sweeps (f_4998). UNTRIED ROUTES: the Statutes of Quebec for 1923-24 (private bills are printed in full), BAnQ's collection of the Assembly's sessional papers, the municipality of Saint-Adolphe-d'Howard's own heritage pages, and the storymaps.arcgis.com item 'L'histoire du lac Saint-Joseph' which was returned but not opened.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.23",
       "added_by": "manual"
     }
   ]

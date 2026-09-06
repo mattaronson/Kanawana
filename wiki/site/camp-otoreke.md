@@ -32,7 +32,17 @@ separate them and no source connects them.
 about the site describes three islands in Lake Saint-Joseph, held since a purchase dated to
 26 November 1901 and earlier. From 1923 there is a documented legislative threat to all of it, and
 this project has no evidence either way about the outcome. **The Bill itself is the next thing to
-find**, in the Assembly's statutes for that session.
+find**, in the Assembly's statutes for that session — Quebec's 16th Legislature sat for its first
+session from **17 December 1923 to 15 March 1924**, which brackets "recently passed" in a report
+closing on 31 March 1924, so it is a private bill of that session. Two searches on 2026-09-06 did
+not find it.
+
+**And a warning for whoever looks next.** Quebec has at least two notable Lac Saint-Josephs, and the
+better known is in **Portneuf near Quebec City** — its outlet supplies drinking water to
+Sainte-Catherine-de-la-Jacques-Cartier and **its level is controlled by a dam**. A search for
+"barrage lac Saint-Joseph" returns that dam. **It is not this lake.** Otoreke's is in
+Saint-Adolphe-d'Howard, the largest of that municipality's eighty-five lakes. Do not take the
+Portneuf dam as evidence that the 1923 dam was built.
 
 **The camp grew onto the mainland in 1956.** The association's annual report for the year ending 31 December 1956 states it in two sentences under Camp Otoreke: "In 1956 the Camp acquired an **additional ninety acres**, which is **on the mainland opposite the Otoreke landing**. The Camp Committee is **considering the use of this property to expand its program to include family camping**."^38 That is the first acreage figure this article has for Otoreke, and it moves the camp off its islands: everything above concerns the three islands in the lake, and this is land across the water from the landing. **The family-camping intention is recorded as an intention.** Nothing found here says the ninety acres were ever used that way, and the family programmes this article does document at Otoreke — the Otoreke Project's twenty-five inner-city families in 1969, grown to over a thousand people by 1972 — are thirteen years later and are described in the sources as citizen groups organising for themselves. Whether the 1956 purchase is what made room for them is not stated anywhere read so far, and is not assumed here.
 
