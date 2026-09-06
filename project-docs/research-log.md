@@ -6664,3 +6664,28 @@ of entertainment hours**."
 The article's section heading also had to change. It read "1929–1959," which was the finding aid's
 span, not the lodge's; the lodge was running in the winter of 1961–62 when this was written. A
 heading taken from a catalogue is the same error as a date taken from one.
+
+## 2026-09-06 — p_441, documents twelve and thirteen: the first two that do not pay
+
+Eleven documents in a row had paid, which was starting to look like a law rather than a run. These
+two are the correction.
+
+**`1938-11-07-kanawana-goes-on-the-air`** is a one-page rehearsal notice for the *Voice of Youth*
+broadcast, signed "CHIEF." Everything in it is already in this project: the letterhead's O. N. H.
+Owens as Chairman and W. J. G. MacDiarmid as Director are both in the directors index, and the
+broadcast itself is `f_2112` and `f_5002`. **Nothing new.** It is now marked extracted with that
+as its stated basis, so the next pass does not read it a third time — which is the whole point of
+the read-state field and the reason a null is worth writing down.
+
+**`1971-09-07-rapport-ete-71-camp-de-langue-francaise`** has "Kanawana" zero times. A genuine null,
+recorded as one. I kept a fact anyway, and the reason is worth stating: the same association that
+ran a Laurentian boys' camp ran, that same summer, a **French-language urban day camp in Little
+Burgundy** — twenty-four children, eight staff, in a district its own director describes as "un
+milieu industriel qui a été longtemps délaissé par les services d'urbanisme de la ville de
+Montréal," with no usable park and no outdoor pool anywhere near, swimming indoors at the Bain des
+Seigneurs, sharing École Royal Arthur's yard with Tyndale House, and moved through the building
+until it spent its last fortnight "dans les douches attenantes au gymnase."
+
+No article was spawned for it. The subject is not Kanawana and CLAUDE.md's folder rules have no
+place for it. But a project about a camp in the woods should know what else its association was
+doing with a summer, and the contrast is the reason to keep the fact rather than the null alone.

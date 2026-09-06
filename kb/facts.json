@@ -1,8 +1,8 @@
 {
-  "version": "7.43",
-  "kb_version": "7.43",
+  "version": "7.44",
+  "kb_version": "7.44",
   "migrated_from": "3.3",
-  "fact_count": 5004,
+  "fact_count": 5005,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -90138,6 +90138,25 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.43",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5043",
+      "category": "organization",
+      "date_ref": "1971",
+      "entities": [
+        "YMCA of Montreal",
+        "La Petite Bourgogne",
+        "Jacques Dessureault",
+        "Ecole Royal Arthur"
+      ],
+      "claim": "WHAT THE ASSOCIATION'S OTHER SUMMER LOOKED LIKE IN 1971, AND IT IS NOT A CAMP IN THE WOODS. 'Rapport ete 71, Projet La Petite Bourgogne, Camp de langue francaise, Y.M.C.A.', dated 7 September 1971 and signed JACQUES DESSUREAULT, Directeur. 'KANAWANA' OCCURS ZERO TIMES -- a genuine null for this wiki's own subject, recorded as one. It is kept because of what it is: the same association that ran Kanawana ran a FRENCH-LANGUAGE URBAN DAY CAMP in Little Burgundy the same summer, and the two could hardly be less alike. THE SITE: Ecole Royal Arthur on rue Canning, in a district the report locates 'entre les rues Guy et Atwater' and 'entre les rues Saint-Antoine et Notre-Dame', and describes as 'un milieu industriel qui a ete longtemps delaisse par les services d'urbanisme de la ville de Montreal' -- so that 'il etait impossible de trouver soit un parc valable, soit une piscine a ciel ouvert' anywhere nearby. THE CHILDREN SWAM INDOORS, at the Bain des Seigneurs. THE CAMP SHARED THE SCHOOLYARD with another summer-recreation body, Tyndale House, and shared the building badly: its contract gave it three classrooms, the gymnasium and the yard, but 'il fut impossible d'utiliser a notre plein gre ces memes locaux car souvent nous devions demenager pour cause de menage, de reparation', and after two moves 'nous nous sommes retrouves pour les deux dernieres semaines du camp DANS LES DOUCHES ATTENANTES AU GYMNASE.' The director draws the consequence himself: with no room of its own for art there could be no permanent display of the children's work, and 'l'ambiance etait toujours a recreer'. THE SCALE: eight staff at the start (seven moniteurs and a director) and, at the school itself, 'le nombre d'enfants etait tres limite soit 15 GARCONS ET 9 FILLES'. Recurring friction with the caretakers over the alarm system and blocked toilets, which the report attributes to two organisations working in one school rather than to anyone's fault. NAMED: Pierre-Jules Lavigne and Carl Leblanc, 'les deux seuls moniteurs masculins du groupe'; Conrad Tessier, the coordinator. THIS IS CONTEXT, NOT KANAWANA HISTORY, and no article is spawned for it -- but a project whose subject is a Laurentian boys' camp should know that in the same summer its association was running a coeducational French-language day camp for two dozen children out of a borrowed shower room in Little Burgundy.",
+      "sources": [
+        "src_ymf_1971_09_07_rapport_ete_71_camp_de_langue_francaise"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.44",
       "added_by": "ralph_loop"
     }
   ]
