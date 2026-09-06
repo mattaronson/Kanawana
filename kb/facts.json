@@ -1,8 +1,8 @@
 {
-  "version": "7.29",
-  "kb_version": "7.29",
+  "version": "7.30",
+  "kb_version": "7.30",
   "migrated_from": "3.3",
-  "fact_count": 4969,
+  "fact_count": 4974,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -89428,6 +89428,109 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.29",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5008",
+      "category": "programs",
+      "date_ref": "1993",
+      "entities": [
+        "Bruce Netherwood",
+        "Kamp Kanawana",
+        "Lumberman-Voyageur",
+        "Parc La Verendrye",
+        "Papineau-Labelle",
+        "The Lookout"
+      ],
+      "claim": "THE 99TH SUMMER, REPORTED BY THE DIRECTOR HIMSELF, AND NONE OF IT WAS IN THIS PROJECT. The Lookout Vol. 1 No. 3, the Kanawana Alumni Committee's newsletter of autumn 1993, opens with a signed 'Summer Report by BRUCE NETHERWOOD, Director' on the season just closed -- 'Kanawana's 99th summer'. The figures it gives: FOR THE FIFTH CONSECUTIVE YEAR CAMPER REGISTRATION WAS FILLED TO OVER 99% CAPACITY, which pushes a full house back to 1989; FOUR VOYAGEUR TRIPS AND 38 CAMPER TRIPS, three of them Junior excursions; OVER FOUR HUNDRED KANAWANIANS paddling Papineau-Labelle and Parc La Verendrye; and AN 80% STAFF RETURN RATE after what he calls 'a relatively big staff turnover in '92'. Staff came from Vancouver, Calgary, Halifax, England and Scotland as well as Montreal. The weather is the frame of the whole report: 1992 had been 'dismal' and 1993 was forecast to repeat it, but the sun held, so 'the nature room and other indoor programs remained virtually vacant, the infirmary had a surplus of cough drops and a constant shortage of sunscreen. Campers and staff alike actually stayed in the water during Lumberman-Voyageur morning dip!' THE VOYAGEURS NARROWLY WON THE 1993 LUMBERMAN-VOYAGEUR. Two of these are series data this wiki tracks and did not have for 1993: the capacity run and the trip count.",
+      "sources": [
+        "src_ia_the_lookout_1993",
+        "src_cache_the_lookout_vol_1_no_3"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.30",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5009",
+      "category": "people",
+      "date_ref": "1993-05-08",
+      "entities": [
+        "Maureen McBride",
+        "Camp Oolahwan",
+        "Dawson College",
+        "Richard Kerr",
+        "Kamp Kanawana",
+        "YWCA of Montreal"
+      ],
+      "claim": "MAUREEN McBRIDE, 'THE JOHNNY APPLESEED OF SINGING', DIED 8 MAY 1993, AND THE CAMP MADE AN ENDOWMENT IN HER NAME. The Lookout's obituary is the fullest account of her this project has: 'She had a long career in OUTDOOR EDUCATION, she was a TEACHER AT DAWSON COLLEGE, a CAMP DIRECTOR AT CAMP OOLAHWAN and had long associations with both the YWCA and YMCA. She was a member of the Board of Directors of Kamp Kanawana.' On the singing: 'Any of us who knew Maureen McBride sang with her many times. That was her greatest gift... Maureen could perhaps best be described as the JOHNNY APPLESEED OF SINGING. She knew how to awaken a joy of singing. The magic she worked through her song sessions on the many hundreds of us who were her students, camp counselors and campers changed all of us forever.' She died 'after a long battle with cancer' and 'spent her last days at the cottage she shared with friends in NEWAYGO JUNCTION'. THE MAUREEN McBRIDE ENDOWMENT FUND was then established 'to provide camperships for children whose parents could not otherwise afford to send them to camp', with RICHARD KERR -- the author of the camp song -- given as its contact alongside the Kamp office. TWO THINGS THIS OPENS. The Oolahwan directorship makes her a FOURTH NAMED DIRECTOR of that camp, after Mary S. Edgar (1915-19), May Brown (1945-47) and Marjorie Booth (1977-79), and the obituary gives NO DATES for it, so which of that article's two blank spans she fills is unknown. And a singer of that standing in the camp's culture is a lead on the song repertory that p_048 has been blocked on.",
+      "sources": [
+        "src_ia_the_lookout_1993",
+        "src_cache_the_lookout_vol_1_no_3"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.30",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5010",
+      "category": "people",
+      "date_ref": "1988-1992",
+      "entities": [
+        "Maureen McBride",
+        "Kamp Kanawana Committee",
+        "YMCA of Montreal"
+      ],
+      "claim": "McBRIDE'S SERVICE IS DOCUMENTED YEAR BY YEAR IN THE ASSOCIATION'S OWN REPORTS, AND IT IS TWO OFFICES, NOT ONE. Independently of the obituary, the YMCA of Montreal annual reports name her: on the KAMP KANAWANA COMMITTEE in the reports for 1988-89, 1990, 1991 and 1992, and on the ASSOCIATION'S OWN BOARD OF DIRECTORS in 1991 and 1992. The Lookout says 'Board of Directors of Kamp Kanawana'; the reports show a camp committee and a board, and she sat on both, so the newsletter's phrase is a compression rather than an error. Her name is absent from the 1993 report and every report after it, which is consistent with her death in May 1993. ONE DETAIL WORTH KEEPING: in the 1991 and 1992 board lists nearly every member carries an employer in parentheses -- 'Capelli, Paul (Dawson College)' among them -- and McBride's entry carries none, so the reports do not corroborate the obituary's Dawson College teaching. A DIFFERENT PERSON, PETER McBRIDE, appears in the reports from 1992 to 1995; no source found joins them and they are not merged.",
+      "sources": [
+        "src_ymf_annual_report_1989_202301",
+        "src_cache_sgw_ymca_annual_report_1990",
+        "src_cache_sgw_ymca_annual_report_1991",
+        "src_ymf_sgw_ymca_annual_report_1992",
+        "src_cache_sgw_ymca_annual_report_1993",
+        "src_cache_sgw_ymca_annual_report_1994",
+        "src_ymf_sgw_ymca_annual_report_1995"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.30",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5011",
+      "category": "organization",
+      "date_ref": "1993",
+      "entities": [
+        "Kanawana Alumni Committee",
+        "The Lookout",
+        "Sheila Leigh",
+        "Bill Flaschner",
+        "Lisa Hagglund"
+      ],
+      "claim": "THE ALUMNI COMMITTEE AS AN ORGANISATION, AND A STAFF NAME THAT IS NEW. The Lookout's other columns describe the body that produced it, a year before the centennial: a $25.00 ANNUAL MEMBERSHIP, an address and fax at 1441 Drummond Street c/o Kamp Kanawana, the motto NON NOBIS SOLUM on the masthead, regional contacts in Toronto (Lisa Hagglund) and Ottawa (David Bennet), a 'K.K. Klassifieds' small-ads column free to members, membership cards 'on the way', and printing, typesetting and paper DONATED BY LES ENTREPRISES SPECTRAGRAPHIC INC. A 'POT LUCK COFFEE HOUSE' was called for Saturday 20 November 1993 at THE BLOCK HOUSE, $10.00, bring a sleeping bag, reserved through Bill Flaschner. The 'Lost and Found' column is the one that matters historically and it is quoted here in full because this project has used one line of it for years without reading the rest: 'we are missing current addresses for some of the past directors of Kamp Kanawana. If any of you know the whereabouts of any of these people please write in and let us know. DAVID TWYNAM (79-82), TOM POTTS (part of 72), JIM TURNER (?-71), JEFF ANDERSON (?), or any other director, staff or campers. WE ARE ALSO LOOKING FOR SHEILA LEIGH A SECTION DIRECTOR FROM THE 70'S.' SHEILA LEIGH OCCURS NOWHERE ELSE IN THIS PROJECT -- checked by grep across kb, wiki and sources -- so a named 1970s section director enters the record here. Note also that the committee spells the 1969 director 'JEFF Anderson' where his own signed report spells it GEOFF; the newsletter is recollection and the report is his signature.",
+      "sources": [
+        "src_ia_the_lookout_1993",
+        "src_cache_the_lookout_vol_1_no_3"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.30",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5012",
+      "category": "sources",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project"
+      ],
+      "claim": "THE DOUBLE-REGISTRATION COUNT OF 69 IS A FLOOR, NOT A TOTAL, BECAUSE THE DETECTOR MATCHED ON NAMES. f_5006 counted 69 src_cache_X / src_X twins by comparing record names either side of the prefix. The Lookout is a twin that method cannot see: src_cache_the_lookout_vol_1_no_3 (read_state 'unread') and src_ia_the_lookout_1993 (extracted) point at the same single digitized issue, and the names differ by more than the prefix, so no name-matching pass would have paired them. That matters twice over. It means the 'only four genuinely unread records' conclusion of f_5006 was itself too clean -- at least one of the four was a shadow -- and it means the real number of double registrations is unknown and larger than 69. THE RIGHT DETECTOR IS THE CACHE PATH AND THE CONTENT, NOT THE NAME. And the case is not a wasted read: the document had been extracted for exactly two things (the Potts line in the lost-directors column, f_2089, and Kerr's account of the camp song, f_2111) and a season report, an obituary, an endowment fund and a named 1970s section director were still sitting in it -- f_5008 through f_5011. So this is p_441's thesis confirmed on a document that was not even in p_441's population.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.30",
       "added_by": "ralph_loop"
     }
   ]

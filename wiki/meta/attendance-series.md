@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 11*
+*Status: draft | Sources: 12*
 *Last Updated: 2026-09-06 (the 1916 fee and season, from a school magazine advertisement)*
 
 ## Overview
@@ -115,6 +115,7 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | **1986** | — | **1,400** | 92.5% occupancy; Les Voyageurs de la Verendrye 22 weeks [f_4844] |
 | **1987** | — | **1,412** | 93% occupancy; Les Voyageurs 46 weeks [f_4844] |
 | 1988 | — | 750 of 756 available = **99.2% occupancy** | |
+| **1989–1993** | **over 99% of capacity, five years running** | — | The camp's own director, writing for alumni at the close of the 99th summer: "For the fifth consecutive year camper registration was filled to over 99% capacity." Counting back from 1993 that covers 1989 through 1993, and it joins directly onto the 99.2% recorded for 1988 above — **a full house for six consecutive seasons, 1988 to 1993**, running into the centennial year's 101%. No per-year figure survives inside the 1989–1993 band, only Netherwood's "fifth consecutive year" [f_5008]^12 |
 | 1994 | 101% of capacity | — | 70% return rate; centennial |
 | 1996 | 92% occupancy | — | |
 | 1998–99 | 1,500 | — | *Includes rentals and non-residential use* |
@@ -258,6 +259,7 @@ Three things stand out and none of them is visible from any single article.
 9. Kanawana plaque corpus and the person index built from it (p_291) [src_flickr_kanawana_plaque_album]; the Kanawana Annual Trophy for Lumbermen Voyageur Games, winners shields 1947–2025 [src_photo_lv_annual_trophy]. Read as season evidence on 2026-09-05. See [f_4850], [f_4851].
 10. YMCA of Montreal annual report for the year ending 30 April 1907, for the 1906 season [src_ymf_sgw_ymca_annual_report_1907]. See [f_4852].
 11. *The High School Magazine* (Montreal, 1916), the Kamp Kanawana advertisement on the first advertising page [src_high_school_magazine_montreal_1916]. **Not lending-restricted**: the full text was downloaded and searched 2026-09-06, and "Kanawana" occurs exactly once in it. Cached, with a caution about the unsigned canoe-trip narrative printed immediately before the advertisements and NOT attributed to Kanawana, at `sources/cache/periodicals/1916-high-school-magazine-montreal-kanawana-advertisement.txt`. See [f_4948].
+12. *The Lookout* Vol. 1 No. 3 (Kanawana Alumni Committee, autumn 1993), "Summer Report" by Bruce Netherwood, Director [src_ia_the_lookout_1993]. See [f_5008].
 
 ## Research Notes
 

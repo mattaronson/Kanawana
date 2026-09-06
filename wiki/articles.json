@@ -355,7 +355,8 @@
         "src_porter_sargent_guides_1983_1987",
         "src_radiocanada_sepaq_laverendrye_2022",
         "src_reserve_laverendrye_history",
-        "src_wikipedia_lac_landron"
+        "src_wikipedia_lac_landron",
+        "src_ia_the_lookout_1993"
       ],
       "open_questions": 0,
       "cross_links": [
@@ -371,7 +372,7 @@
         "traditions/order-of-owens"
       ],
       "file_id": "13MmwA1lO_3J3rJ7yEZjwsvT--vWooITy",
-      "word_count": 6753,
+      "word_count": 6890,
       "tags": {
         "era": [
           "1920s",
@@ -1723,10 +1724,11 @@
         "stuart-mclean",
         "timeline-overview",
         "traditions-and-culture",
-        "wartime-kanawana"
+        "wartime-kanawana",
+        "maureen-mcbride"
       ],
       "file_id": null,
-      "word_count": 22599,
+      "word_count": 22762,
       "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article. | 2026-07-11: Added wiki-links to Gary White, David Leduc, Kate Taylor, Marie-Pierre Lacasse table rows and Related Articles, pointing to new standalone institutional-role-director articles. | 2026-07-11: Added wiki-links to Greig Macdiarmid, Francois Dauphin, Nicolas Garcia, Morgan Carter, Arleen Boyer, Justin Caldwell (Two-Tier Era + Staff by Era tables) and Matt/Dan Aronson (Related Articles), per the operator's revised C5 policy.",
       "tags": {
         "era": [
@@ -5525,7 +5527,8 @@
         "src_macleans_1956_junior_league",
         "src_mccord_junior_league_fonds",
         "src_trent_mary_edgar_finding_aid",
-        "src_ia_canadian_camping_collection"
+        "src_ia_canadian_camping_collection",
+        "src_ia_the_lookout_1993"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -5533,10 +5536,11 @@
         "canadian-camping-movement",
         "taylor-statten",
         "traditions-and-culture",
-        "coeducation-gender"
+        "coeducation-gender",
+        "maureen-mcbride"
       ],
       "file_id": null,
-      "word_count": 6401,
+      "word_count": 6662,
       "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header, moved the c_018 and c_002 editorial-resolution narratives out of prose into a new visible Revision History section, trimmed the header's dated parenthetical. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -8023,17 +8027,19 @@
         "src_ia_ymca_annual_1993",
         "src_oral_aronson",
         "src_ssymca_netherwood",
-        "src_ymca_quebec_pip_skinner"
+        "src_ymca_quebec_pip_skinner",
+        "src_ia_the_lookout_1993"
       ],
       "open_questions": 3,
       "cross_links": [
         "directors-index",
         "notable-alumni",
         "pip-alumni-award",
-        "centennial-1994"
+        "centennial-1994",
+        "maureen-mcbride"
       ],
       "file_id": null,
-      "word_count": 874,
+      "word_count": 1089,
       "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md AND from directors-index.md Camp Directors table (Bruce Netherwood was already a fully-documented Director 1988-1994, richer than the plan's Pip-Award-only framing suggested). Jay Netherwood folded in as a section rather than a separate stub given near-total absence of independent biographical material. Corrected a dangling source_id reference (src_concordia_p0145_12b04_finding_aid -> src_concordia_atom_12B04, also affecting f_1066) in kb/facts.json while preparing this article.",
       "tags": {
         "era": [
@@ -10030,7 +10036,8 @@
         "src_ymf_sgw_ymca_annual_report_1951",
         "src_ymf_sgw_ymca_annual_report_1960",
         "src_ymf_sgw_ymca_annual_report_1961",
-        "src_ymf_sgw_ymca_annual_report_1962"
+        "src_ymf_sgw_ymca_annual_report_1962",
+        "src_ia_the_lookout_1993"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -10043,7 +10050,7 @@
         "site/camp-otoreke"
       ],
       "file_id": null,
-      "word_count": 4562,
+      "word_count": 4675,
       "notes": "Created 2026-08-14 (p_256) from the 114-annual-report sweep. ~60 seasons of camper counts and camper-weeks, 1894-2023, with SIX internal inconsistencies carried as flags rather than resolved -- every one of them the association contradicting itself. Kept as a separate article so the contradictions travel with the numbers. No aggregate totals computed: too many missing years, the 1998-2001 rows count a different population, and the two documented lifetime totals (40,000 in 1964, 34,000 in 1984) contradict each other. Marked draft, not stub, because it is transcription of primary figures rather than synthesis; NOT yet VERIFY-passed -- figures should be spot-checked against the OCR before advancing."
     },
     {
@@ -10935,7 +10942,69 @@
         "institutions"
       ],
       "notes": "Created 2026-09-05 (p_336). Draft rather than stub: six sources, a dated chronology in his own words and a career across three decades of the provincial association. NO Kanawana connection is asserted -- he is here because the association he built accredits Kanawana and because this wiki's account of that association's descent rests on his testimony, and Open Question 3 says plainly that no source puts him and Kanawana's people in a room together."
+    },
+    {
+      "article_id": "maureen-mcbride",
+      "title": "Maureen McBride",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-09-06T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-06T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_5009",
+        "f_5010"
+      ],
+      "sources_cited": [
+        "src_ia_the_lookout_1993",
+        "src_ymf_annual_report_1989_202301",
+        "src_cache_sgw_ymca_annual_report_1990",
+        "src_cache_sgw_ymca_annual_report_1991",
+        "src_ymf_sgw_ymca_annual_report_1992",
+        "src_cache_sgw_ymca_annual_report_1993",
+        "src_cache_sgw_ymca_annual_report_1994",
+        "src_ymf_sgw_ymca_annual_report_1995"
+      ],
+      "open_questions": 5,
+      "cross_links": [
+        "camp-oolahwan",
+        "bruce-netherwood",
+        "camp-songs-cheers",
+        "centennial-1994",
+        "directors-index"
+      ],
+      "file_id": null,
+      "word_count": 1044,
+      "notes": "Spawned 2026-09-06 under p_441 from the first cover-to-cover read of The Lookout Vol. 1 No. 3.",
+      "tags": {
+        "era": [
+          "1980s",
+          "1990s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "committee",
+        "topics": [
+          "people",
+          "ymca_montreal",
+          "related_camps",
+          "songs"
+        ],
+        "is_hub": false
+      }
     }
   ],
-  "article_count": 106
+  "article_count": 107
 }

@@ -130,6 +130,7 @@ These roles carried the title "Director" but reported to the Camp Director above
 | Matt Hamerman | 2006 | Voyageurs | Named "Section Director" on a 2006 Voyageurs plaque (f_1603); also listed among the 2002 LIT cohort under Aronoff/Leduc (f_1650), another leadership-pipeline case. Also on the 2011 Kanawana local advisory committee (f_1764) as "Hammerman, Matt," five years after his section directorship. | Flickr "Plaque" album; Montreal YMCA annual report 2011 (Wayback) |
 | Durga Chew-Bose | 2007 | JBC (Junior Boys' Camp) | Credited "S.D." (Section Director) on the 2007 JBC plaque (f_1633). | Flickr "Plaque" album |
 | Bex Finnigan Reisler | 2008 | Senior Girls / Lookout | Credited "S.D." on the 2008 "Senior Girl Staff" plaque (f_1692). | Flickr "Plaque" album |
+| Sheila Leigh | 1970s | Section (unspecified) | **Named only in a plea for her address.** The 1993 alumni newsletter's "Lost and Found" column, after listing four past Camp Directors the committee had lost touch with, adds: "We are also looking for **Sheila Leigh a section director from the 70's**." No section, no years, no other occurrence — checked by grep across this project's facts, wiki and source index, where the name appears nowhere else. She is here because a name in a gap is worth more than a tidy table. | *The Lookout* 1993^28 |
 
 A 2003 JBC plaque (f_1638; also the source for conflict c_014's resolution) names "Section Directors: Matt, Laurie" by first name only — too little information to identify with confidence, though the "Matt" is a plausible but unconfirmed match for Matt Hamerman, who held a Voyageurs section directorship three years later (2006). Not treated as a positive identification.
 
@@ -332,6 +333,8 @@ The "Pip" Alumni Award, named after Philip "Pip" Caddell (1913-2004, camper 1928
 **[[people/notable-alumni/rob-braide|Rob Braide]]** (camper for 9 summers, ending by 1967; Vice President and General Manager of CJAD and CJFM-FM (Mix 96) from 1987 under Standard Broadcasting, earlier Program Director at CHOM-FM. (Corrected 2026-08-14: previously recorded here as "President of Standard Broadcasting Corporation", which he never was — that company was led by Allan Slaight, with Gary Slaight president of Standard Radio from 1987.)) is a notable alumnus documented via a 2007 camp testimonial, though not (so far as documented) a Pip Award recipient.
 
 ### Memorials and Endowments
+
+The **Maureen McBride Endowment Fund** was established in 1993, after her death that May, "to provide camperships for children whose parents could not otherwise afford to send them to camp," with Richard "Itche" Kerr and the Kamp office given as its contacts.^28 McBride sat on the Kamp Kanawana Committee from 1988 to 1992 and on the YMCA of Montreal's board in 1991-92 — see [[people/maureen-mcbride|Maureen McBride]].
 
 The **A. Ross Seaman Memorial Fund** was established in 1987 at Concordia University to honour Seaman's dedication to Concordia, Dawson College, Kamp Kanawana, and the YMCA. The fund provides annual awards for leadership and scholarship.^15
 

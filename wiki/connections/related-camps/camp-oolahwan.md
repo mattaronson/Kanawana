@@ -1,7 +1,7 @@
 # Camp Oolahwan
 
-*Status: E1-reviewed | Sources: 33*
-*Last Updated: 2026-09-06 (p_342: May Brown's Oolahwan years reconciled across three sources)*
+*Status: E1-reviewed | Sources: 34*
+*Last Updated: 2026-09-06 (a fourth director, Maureen McBride, from a YMCA newsletter)*
 
 ## Overview
 
@@ -88,6 +88,8 @@ Two cautions on that interview. It repeats the **1925** date for Oconto's first 
 
 Her record as given: a native of Toronto, an **honours degree in Recreation from the University of Waterloo**, several years full-time with the **Saint John YWCA**, then Oolahwan; a **Fellow of the Society of Camp Directors since 1977**; and from late November 1979 the CCA's Executive Director, a post created by a grant from Fitness and Amateur Sport.^26 She wrote her first message to the membership in both languages.
 
+**A fourth director, undated, from a YMCA newsletter.** The obituary of **Maureen McBride** in the Kanawana alumni newsletter *The Lookout*, autumn 1993, describes "a long career in Outdoor Education," a teaching post at Dawson College, "long associations with both the YWCA and YMCA" — and "**a Camp Director at Camp Oolahwan**."^34 She sat on Kanawana's own camp committee from 1988 and on the YMCA of Montreal's board in 1991 and 1992, and died on 8 May 1993. **The obituary gives no dates for the Oolahwan directorship**, so it fits either of this article's blank spans, and her Kanawana service and the phrase "long career" point at the later end without settling it. What the case shows about the record is worth as much as the name: a YWCA camp's director surfaced in a **YMCA** camp's newsletter, so no amount of searching the YWCA's own materials would have found her. See [[people/maureen-mcbride|Maureen McBride]].
+
 Two things follow. Oolahwan was **an operating YWCA residential camp in the late 1970s** with a professional director recruited from another province's YWCA — not a survival running on inertia. And the woman who ran it went directly from Lac Walfred to the national association's first full-time staff post, which places Oolahwan, at that moment, at the centre rather than the margin of Canadian camping.
 
 ## Programming
@@ -129,10 +131,11 @@ The name "Oolahwan" may derive from the Lakota word *olówaŋ* meaning "song" or
 5. [Important, still unextracted] The OurOntario/Sundridge-Strong collection holds a 109-page paper on Mary Edgar's contribution to camping (Marilee C. Tisdall, 1978) — confirmed 2026-07-09 as a genuine access dead end for automated tools (Cloudflare bot-challenge blocks direct fetch, curl, and proxy-reader attempts; a Wayback snapshot exists but this project's tools cannot reach web.archive.org). Requires a human with a residential/Canadian IP, or a library-request approach.^4
 6. ~~[Nice-to-have] Are there any surviving photographs or ephemera from Camp Oolahwan?~~ [Resolved] eBay listing confirms ephemera survives; original camp building still standing as sugar shack.
 7. ~~[Nice-to-have] Did Oolahwan programming influence or share elements with Kanawana's?~~ [Resolved 2026-07-09] Yes — a 1970s Oolahwan photograph (McMorris thesis) shows girls in "Indian" costumes, a parallel "playing Indian" tradition to Kanawana's.
-8. ~~[Nice-to-have] Who directed Camp Oolahwan after Edgar left in 1919 and before the final season?~~ [Partly resolved 2026-09-04; **dating settled 2026-09-06**] **Two** successors are now named, and one is dated. **May Brown** (Mrs. Lorne E. Brown), later President of the Canadian Camping Association, was at Oolahwan from **1945 to 1947** — programme director first, director after — on her own account in two separate interviews, printed in 1982 and 1988.^28 ^33 This entry previously said her years were unfixed and cited only Ecclestone's undated 1966 profile; the two first-hand accounts had already been written into the body of this article and the question was left behind them. **Marjorie A. Booth** ran the camp until late 1979.^26 The 1919-1945 span and 1948-1979 are still blank, and the LAC series "Camp Oolahwan committee minutes, reports and training programmes, 1916–1974" (Open Question 3) is the thing that would fill them. The old dead-end note stands as a fact about online catalogues, not about the record: every one of these names was found by reading a printed periodical cover to cover, not by searching for it.^20
+8. ~~[Nice-to-have] Who directed Camp Oolahwan after Edgar left in 1919 and before the final season?~~ [Partly resolved 2026-09-04; **dating settled 2026-09-06**] **Two** successors are now named, and one is dated. **May Brown** (Mrs. Lorne E. Brown), later President of the Canadian Camping Association, was at Oolahwan from **1945 to 1947** — programme director first, director after — on her own account in two separate interviews, printed in 1982 and 1988.^28 ^33 This entry previously said her years were unfixed and cited only Ecclestone's undated 1966 profile; the two first-hand accounts had already been written into the body of this article and the question was left behind them. **Marjorie A. Booth** ran the camp until late 1979.^26 **A fourth name arrived 2026-09-06 with no date attached**: Maureen McBride, whose 1993 obituary in a Kanawana newsletter calls her "a Camp Director at Camp Oolahwan" and says nothing about when.^34 The 1919-1945 span and 1948-1979 are still blank, and so is everything after 1979 — McBride sits in one of them and this article cannot say which, and the LAC series "Camp Oolahwan committee minutes, reports and training programmes, 1916–1974" (Open Question 3) is the thing that would fill them. The old dead-end note stands as a fact about online catalogues, not about the record: every one of these names was found by reading a printed periodical cover to cover, not by searching for it.^20
 
 ## Related Articles
 
+- [[people/maureen-mcbride|Maureen McBride]]
 - [[connections/related-camps/camp-ouareau|Camp Ouareau and Its Connections to Kanawana]]
 - [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]
 - [[connections/institutional-lineage/taylor-statten|Taylor Statten and the Canadian Camping Movement]]
@@ -174,6 +177,7 @@ The name "Oolahwan" may derive from the Lakota word *olówaŋ* meaning "song" or
 31. "Personality Profile — Mary S. Edgar," interview with Barbara and John Gilchrist, pp. 9-15, and the "Under Open Skies" feature devoted to her verse and prose, pp. 17-19 — *Canadian Camping Magazine* Vol. 38 No. 3 (Winter 1987) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 160).
 32. Mary Northway, "Blue Lake and Rocky Shore," her Ontario Camping Association banquet speech of 1968, reprinted in *Canadian Camping Magazine* Vol. 39 No. 2 (Fall 1987), p. 17 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 163).
 33. "Personality Profile: Lorne Brown (1908-1976)" — interview with May Brown, *Canadian Camping Magazine* Vol. 39 No. 3 (Winter 1988), pp. 12-18 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 164), the final issue of the run.
+34. *The Lookout* Vol. 1 No. 3 (Kanawana Alumni Committee, autumn 1993), obituary of Maureen McBride [src_ia_the_lookout_1993]. A Kanawana newsletter, so this is a YWCA camp named in passing in a YMCA camp's paper — which is why no amount of searching the YWCA's own record would have turned it up. See [f_5009] and [[people/maureen-mcbride|Maureen McBride]].
 
 ## Research Notes
 

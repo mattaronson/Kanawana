@@ -6341,3 +6341,51 @@ not a rare name. Recorded as open question 4 with the three things that would se
 
 Written up as `f_5007`, two source records, and source note 10. Note 9's "not read" is corrected
 in place and marked `[SUPERSEDED …]` rather than removed, so the sequence stays legible.
+
+## 2026-09-06 — p_441, first document: a newsletter read twice and never read
+
+The plan was to start p_441 on the `src_ymf_*` fonds items. It started instead on one of the four
+records f_5006 had left as genuinely unread, and that turned out to be the more interesting
+place, because the record was not genuinely unread at all.
+
+**Surfaces:** the cached text itself; a name sweep across every cached YMCA of Montreal annual
+report from 1980 to 2000; four web queries (general search, Legacy.com and Dignity Memorial
+obituary aggregators, the YWCA of Montreal's own history pages); and greps across `kb/`, `wiki/`
+and `sources/sources.json` for every proper name in the document.
+
+**The document.** *The Lookout* Vol. 1 No. 3, the Kanawana Alumni Committee's newsletter, autumn
+1993. Eleven thousand characters. This project had used two things from it — one line of the
+"Lost and Found" column naming Tom Potts, and Richard Kerr's account of writing the camp song —
+and had never read the rest. The rest is: a signed season report from the director; an obituary;
+an endowment fund; and a named section director from the 1970s who appears nowhere else in this
+project.
+
+**Bruce Netherwood on the 99th summer.** Over 99% of capacity for the fifth consecutive year,
+which joins onto the 99.2% already recorded for 1988 and makes six full houses running into the
+centennial. Four Voyageur trips and 38 camper trips, over four hundred people on the water. An
+80% staff return rate after a bad turnover the previous year, with staff from Vancouver, Calgary,
+Halifax, England and Scotland. And the weather, which he writes about at more length than any of
+it: 1992 had been dismal, 1993 was forecast to repeat it, and instead "the infirmary had a
+surplus of cough drops and a constant shortage of sunscreen."
+
+**Maureen McBride.** Died 8 May 1993. The obituary calls her "the Johnny Appleseed of singing"
+and gives, in one sentence, a career: outdoor education, a teaching post at Dawson College, a
+directorship at the YWCA's Camp Oolahwan, long associations with both Ys. The annual reports
+corroborate the association side year by year — the Kanawana committee from 1988-89 through 1992,
+the YMCA of Montreal's own board in 1991 and 1992, absent from 1993 on — and pointedly do not
+corroborate the Dawson post, since her board entry is one of the few printed without an employer.
+The Oolahwan directorship makes her that camp's fourth named director and comes with no dates at
+all. She now has an article at draft.
+
+Worth noting how she was found: a YWCA camp's director, surfaced in a **YMCA** camp's newsletter.
+No amount of searching the YWCA's own materials would have reached her.
+
+**Sheila Leigh**, "a section director from the 70's," named only because the alumni committee had
+lost her address. Grepped: nowhere else in this project.
+
+**And the record-keeping result.** The two records for this one issue —
+`src_cache_the_lookout_vol_1_no_3` and `src_ia_the_lookout_1993` — are a twin pair that
+yesterday's name-matching count could not see, because the names differ by more than the
+`src_cache_` prefix. So the count of 69 is a floor, one of the "only four genuinely unread"
+records was itself a shadow, and the detector needs rebuilding on cache paths. Raised as p_444.
+Nothing merged.
