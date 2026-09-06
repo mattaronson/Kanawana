@@ -15,6 +15,8 @@ By 1945, the routes were codified into a tiered system: a 3-day Lachute trip for
 
 By 1962, the growth of cottager communities near Kanawana meant canoe trips had to drive over 150 km to reach suitable launch points.^mc The appetite for more remote territory led the camp committee to begin searching in 1956 for a northern site that could serve older, more experienced trippers. After three years of scouting, they chose La Vérendrye Park in 1959 as a base camp for campers aged 15 and older. The YMCA secured a 25-acre lease at Lac Landron as a base camp, and the program was formally named **"Les Voyageurs de La Vérendrye."**^mc That first summer, the Pathfinder section alone went on eighteen canoe trips — to the Rouge River, North River, Lake Kiamika, and Taureau.^mc By 1964, over twenty trips were departing each season.^mc The La Vérendrye canoe trip program, and the L&V Games competition that grew up alongside it, became inseparable from the camp's identity in the decades that followed.
 
+## The early trips, 1925-1948
+
 ### What a ten-day canoe trip cost in 1926
 
 Adele Ebbs reprinted, in 1986, a complete outfitting list made in **1926** by **Herbert B. Bell**, "an experienced canoe-trip leader," for **two men on a ten-day canoe trip in Algonquin Park**. The food was side bacon, cheese, flour, rolled oats, salt pork, tinned goods, peanut butter, dried apples, dried peaches, rice, raisins, macaroni, dried whole milk, butter, carrots, sugar, four loaves of bread, Crisco, coffee, syrup, pepper and baking powder; the equipment a box of matches, a medical kit, six candles, two small pails, a frying pan, two cups, two knives, three plates, three bowls, two quarts, two dessert spoons, a teaspoon, two packsacks and a length of rope. The costs are given as:
@@ -40,53 +42,11 @@ The report gives no length in days, no distance, no party size and no leader's n
 
 The following summer added a second frontier: in 1948, "in addition to trips up and down the Ottawa River, **senior campers explored the bush country of Lake Nominingue**."^34 Nominingue sits in the upper Laurentians roughly a hundred kilometres north of Saint-Sauveur, and it appears elsewhere in this project only as somebody else's camp address. This is the first record of Kanawana campers there.
 
-### 1968: the Bahamas, France and Belgium
-
-The annual report for the year ended 31 May 1969 gives no number for that summer's Voyageurs but widens the map: "The Les Voyageurs program of canoe trips through Quebec forests again attracted a number of **13-17 year olds from far away places**. In addition to boys from Quebec and Ontario, a number of participants came from **California, Massachusetts, the Bahamas, France and Belgium**."^40
-
-The Bahamas, France and Belgium are all new here. Against 1967's list — Greater Montreal, Northern Quebec, Ontario, New Brunswick, Massachusetts, California and Czechoslovakia — the programme was drawing from further afield each year, and the report treats that as the thing worth saying about the season.
-
-### 1970, from a recruiting release: who could go, and a date that does not fit
-
-An undated 1970 release written to fill the season sets out the entry bar, which nothing else here does. "To qualify for Les Voyageurs, boys must be **in sound health and able to swim a minimum of 150 yards**. **Each group of five** will be supervised by **a skilled outdoorsman, usually a mature university student** who is attuned to the needs of developing boys. Before starting out, the boys spend **several days at a base camp**, getting acquainted."^39 The crew of five is the same unit as 1961 and 1963.
-
-[[people/a-ross-seaman|A. Ross Seaman]], by then "the Y's Executive Director of camping," is quoted at length, and the argument is the rule of the I's in a director's own words nine years on: "First of all, there's nothing quite like **three or four weeks in the woodlands** to firm up and develop young muscles... But physical challenge is only part of it. **Many lads get even more out of the opportunities to use initiative and gain the sort of self-reliance so important to growing up.**"^39
-
-**One date in it does not fit.** The release says "the program **started 13 years ago**," which puts it at **1957**.^39 This article dates the Voyageurs to 1959, from the camp's own "Report of Older Boys Camp" and a pilot of thirty boys. A press release's round "thirteen years" is loose arithmetic and the camp's own report is much the better witness, so **the 1959 date stands unchanged**. It is noted here because a round number like that is exactly what gets copied into a later history, and because if a 1957-58 precursor did exist the 1959 report's framing as a new venture would need re-reading.
-
-### 1966 and 1967: forty-one boys, seven weeks, and a crew whose notes went into a national guide book
-
-The nine of 1964 turned out not to be the shape of the programme. Both the 1966 and the 1967 seasons ran **41**. In 1966, "41 teens from **Halifax, N.S., Arvida, Quebec, Williamstown, Massachusetts** and Montreal enjoyed **seven weeks** of wilderness canoe camping in Northern Quebec."^38 In 1967, "**41 boys, from 13 to 16 years of age** spent a total of **111 camper weeks** canoeing in Northern Quebec. They came from **Greater Montreal, Northern Quebec, Ontario, New Brunswick, Massachusetts, California and Czechoslovakia** to participate in the seven-week experience."^38
-
-The 1966 report treats its own figure as a small fall rather than a rise: "A small year-to-year reduction in the number of participants was attributed to **increased attendance at summer school and poor weather** during the last three weeks of the season."^38 Summer school is the same cause the association gave for the main camp's decline in 1965 — the competitor for a teenager's July was a classroom.
-
-**And in 1967 a Kanawana crew's field notes went into a national publication.** Under the heading "Re-tracing Fur Trade Routes": "**Seven 14-15 year old boys and two counsellors** from Kamp Kanawana re-traced **150 miles of Canada's East-West fur trade routes** in canoes. En route, the members of the group **logged their observations of wild life, water currents, camping facilities, weather conditions, and land structure**. This data, together with similar information by other camps, **is being assembled into a Guide Book for the Canadian Camping Association**."^38
-
-The guide book is not named and this project has not found it. The full digitized run of *Canadian Camping* was read word for word earlier in this project, so the place to look is that run's 1968-1970 issues for an announcement or review of a route guide, and the CCA's own publication list.
-
-### 1964: nine boys and seven leaders
-
-The following year's report describes the country before it describes the party. "300 miles north of Montreal is La Verendrye Park. Within several thousand square miles of virgin bush and lakes, some occasional Indian encampments, Hudson's Bay Posts, lumber camps and fire rangers, are the only signs of civilization... In this vast unspoiled country **9 older boys and 7 leaders** tested their ability to live together for periods of **three to four weeks** in a challenging and exciting adventure in the wilderness of northern Quebec."^37
-
-Nine campers to seven leaders. In 1961 the programme took fifteen boys in three crews of five, and in 1963 the association called it "a highly accepted camp program for boys, ages 14-16." Nine is a small number and the report does not remark on it. Three figures in three different reporting formats is not a trend, and this article does not read one into them; the number is here to sit beside the others.
-
-### 1963 at Kanawana, in numbers, and a first for parents
-
-The same annual report gives the main camp's season. "**602 boys** attended Kanawana and Les Voyageurs de la Verendrye in 1963, led by **75 young men**, most of whom were college students and graduates" — the two programmes counted together, which is how the association was now reporting them.^36
-
-"**419 swimming tests** were passed at Kanawana in 1963 indicating a lively interest in water-front program. **20 five-day canoe trips** were taken by the older campers during the season in areas north of the camp which provide wilderness camping experiences. Kamp Kanawana has long been known as a canoe tripping camp as **187 boys passed the canoe tests** this season. Every boy has the opportunity for one or more one to five-day hikes during his stay. Last summer there were **147 such hikes** involving distances of **one to forty miles**, depending on age of the campers. **Even the youngest campers go on at least one overnight hike.**"^36
-
-And one line that belongs to no other article here: "An **orientation program for parents of new Kanawana campers involving 5 meetings** was an important innovation."^36 This project holds nothing else on the camp's relationship with parents beyond counts of Sunday visitors, and the report calls it an innovation, which makes 1963 its first year.
-
-### 1961: three crews of five, three weeks, 250 miles, and the rule of the I's
-
-Two years after the Voyageurs began, the association's annual report gives their whole season in four sentences. "In **July and August** Voyageurs trips were organized which took **three groups of five boys** on a **three-week** adventure **250 miles into Quebec's northland lakes**. Bush camping stresses campcraft, hiking, and canoeing for a means of transportation. **The rule of the 'I's' was established** and proved to be all inclusive — **Initiative, Imagination, and Inventiveness** — These were the main requirements of a group and its leader."^35
-
-Fifteen boys in the entire programme that year, paddling in crews of five. The rule of the I's appears nowhere else in this project, and the report treats it as something the trips arrived at rather than something handed down.
+## The Voyageurs, 1959-1962
 
 ### 1959 from inside: the Older Boys Camp, based at Kanawana
 
-The paragraph above compresses two things into one year, and the programme's own first-season
+The overview above compresses two things into one year, and the programme's own first-season
 report separates them. **In 1959 there was no base camp in the park.** "Report of Older Boys Camp,
 Summer 1959" calls that summer "the initial year of operation" and puts base camp "on 'Lake
 Wilson'" — at Kanawana — with **six trips** run out of it into La Vérendrye.^26 The name in use
@@ -108,6 +68,28 @@ itself inside a boys' camp that already had a senior section of its own standing
 **Five boys to one leader**, six to a canoe, "good for movement in woods" — the ratio the first
 season settled on.^26
 
+### How the Voyageurs recruited, 1960
+
+The satellite filled its places out of the parent camp, by nomination. A publicity folder was
+produced by **Gerry Wright** of the Metropolitan YMCA's public relations office with **Jack Organ**
+of the Voyageurs; three thousand copies arrived by 15 March and went "to all previous Voyageurs,
+**all senior campers of Kamp Kanawana who the previous year were recommended by the Section
+Director and the Section Program Director**, and to all the Y.M.C.A. branches in Montreal."^28
+Kanawana's own section directors chose who was invited, which is a closer tie than "satellite"
+suggests, and it explains why the 1959 report worried so much about the two camps' separate
+identities.
+
+The same sentence contains a small dating point. Organ "was **the only leader with previous
+experience with the Voyageurs**," and the folder went to "all **previous** Voyageurs" — both
+presuppose earlier years, which supports reading the 1959 Older Boys Camp as the same programme
+under an earlier name, and tells against the 1963 report's "three year history."^28
+
+### 1961: three crews of five, three weeks, 250 miles, and the rule of the I's
+
+Two years after the Voyageurs began, the association's annual report gives their whole season in four sentences. "In **July and August** Voyageurs trips were organized which took **three groups of five boys** on a **three-week** adventure **250 miles into Quebec's northland lakes**. Bush camping stresses campcraft, hiking, and canoeing for a means of transportation. **The rule of the 'I's' was established** and proved to be all inclusive — **Initiative, Imagination, and Inventiveness** — These were the main requirements of a group and its leader."^35
+
+Fifteen boys in the entire programme that year, paddling in crews of five. The rule of the I's appears nowhere else in this project, and the report treats it as something the trips arrived at rather than something handed down.
+
 ### What a Voyageur crew carried, in a letter with no date
 
 Bound into the same scan, after the report, is a tripper's memorandum to "Dear Dave (Boss)" that
@@ -125,25 +107,11 @@ potatoes, macaroni and rice give the possibility of 15 kinds of stew" — and to
 **Widji standardized lunch**" of cheese, salami, chocolate, peanut butter, kool aid, rye crisp and
 raisins, named for the YMCA's Camp Widjiwagan and so an inter-camp borrowing stated as one.
 
-One passage is worth reading against the section below on the 1975 lifejacket law: the writer
+One passage is worth reading against the November 1975 flotation regulation, set out under Safety and the tripping ethic below: the writer
 argues life preservers "should be done away with except for non-swimmers," being bulky, heavy in
 rain and ignored by the CIP men they met on the water.^26
 
-### How the Voyageurs recruited, 1960
-
-The satellite filled its places out of the parent camp, by nomination. A publicity folder was
-produced by **Gerry Wright** of the Metropolitan YMCA's public relations office with **Jack Organ**
-of the Voyageurs; three thousand copies arrived by 15 March and went "to all previous Voyageurs,
-**all senior campers of Kamp Kanawana who the previous year were recommended by the Section
-Director and the Section Program Director**, and to all the Y.M.C.A. branches in Montreal."^28
-Kanawana's own section directors chose who was invited, which is a closer tie than "satellite"
-suggests, and it explains why the 1959 report worried so much about the two camps' separate
-identities.
-
-The same sentence contains a small dating point. Organ "was **the only leader with previous
-experience with the Voyageurs**," and the folder went to "all **previous** Voyageurs" — both
-presuppose earlier years, which supports reading the 1959 Older Boys Camp as the same programme
-under an earlier name, and tells against the 1963 report's "three year history."^28
+## Lac Landron, 1963-1968
 
 ### 1963: the base moves to Lac Landron, and the camp writes down its philosophy
 
@@ -254,6 +222,20 @@ The director's closing recommendation: "I would strongly recommend Bob, Rusty, F
 staff positions."
 <!-- /embargo:r_0003 -->
 
+### 1963 at Kanawana, in numbers, and a first for parents
+
+The same annual report gives the main camp's season. "**602 boys** attended Kanawana and Les Voyageurs de la Verendrye in 1963, led by **75 young men**, most of whom were college students and graduates" — the two programmes counted together, which is how the association was now reporting them.^36
+
+"**419 swimming tests** were passed at Kanawana in 1963 indicating a lively interest in water-front program. **20 five-day canoe trips** were taken by the older campers during the season in areas north of the camp which provide wilderness camping experiences. Kamp Kanawana has long been known as a canoe tripping camp as **187 boys passed the canoe tests** this season. Every boy has the opportunity for one or more one to five-day hikes during his stay. Last summer there were **147 such hikes** involving distances of **one to forty miles**, depending on age of the campers. **Even the youngest campers go on at least one overnight hike.**"^36
+
+And one line that belongs to no other article here: "An **orientation program for parents of new Kanawana campers involving 5 meetings** was an important innovation."^36 This project holds nothing else on the camp's relationship with parents beyond counts of Sunday visitors, and the report calls it an innovation, which makes 1963 its first year.
+
+### 1964: nine boys and seven leaders
+
+The following year's report describes the country before it describes the party. "300 miles north of Montreal is La Verendrye Park. Within several thousand square miles of virgin bush and lakes, some occasional Indian encampments, Hudson's Bay Posts, lumber camps and fire rangers, are the only signs of civilization... In this vast unspoiled country **9 older boys and 7 leaders** tested their ability to live together for periods of **three to four weeks** in a challenging and exciting adventure in the wilderness of northern Quebec."^37
+
+Nine campers to seven leaders. In 1961 the programme took fifteen boys in three crews of five, and in 1963 the association called it "a highly accepted camp program for boys, ages 14-16." Nine is a small number and the report does not remark on it. Three figures in three different reporting formats is not a trend, and this article does not read one into them; the number is here to sit beside the others.
+
 ### 1966: how a crew was made, and a camp with no rule about smoking
 
 Jack Soule hired five trippers and got four, "on account of the failure of one to report to camp" —
@@ -287,36 +269,15 @@ One worry dates the document exactly: "In the coming year with **Expo** in the s
 increasingly difficult to obtain a full camp," so Soule proposed a package for out-of-province boys
 who would see the World's Fair before or after camp.^33
 
-### 1969 and 1973: the property at risk, and the absorption already working
+### 1966 and 1967: forty-one boys, seven weeks, and a crew whose notes went into a national guide book
 
-**By 1969 the base camp was a small settlement** — a large log cabin serving as the staff tent
-platform, a new oval cabin sleeping two, a supply shed "screened enough except for mice and
-squirrels," a garbage pit twelve feet deep needing a roof "to prevent people falling in," and **a new
-steam bath, capacity six, at 140°F**.^33 David Blake notes the year's work was lighter than usual,
-"a possible reflection of our **philosophical shift from active involvement to meditative
-detachment**" — the 1963 philosophy of not-programming, restated six years on.
+The nine of 1964 turned out not to be the shape of the programme. Both the 1966 and the 1967 seasons ran **41**. In 1966, "41 teens from **Halifax, N.S., Arvida, Quebec, Williamstown, Massachusetts** and Montreal enjoyed **seven weeks** of wilderness canoe camping in Northern Quebec."^38 In 1967, "**41 boys, from 13 to 16 years of age** spent a total of **111 camper weeks** canoeing in Northern Quebec. They came from **Greater Montreal, Northern Quebec, Ontario, New Brunswick, Massachusetts, California and Czechoslovakia** to participate in the seven-week experience."^38
 
-**And the site was under threat.** "It should be noted that construction of a cabin has begun on one
-of the islands down the lake and **mining claims were restaked in the base camp area. A good look
-should be taken at steps necessary to lease the property before we lose it by default.**"^33 The
-lease urged in 1963 and again in 1966 was still not taken in 1969. Tourists were a nuisance and
-firearms were being discharged nearby.
+The 1966 report treats its own figure as a small fall rather than a rise: "A small year-to-year reduction in the number of participants was attributed to **increased attendance at summer school and poor weather** during the last three weeks of the season."^38 Summer school is the same cause the association gave for the main camp's decline in 1965 — the competitor for a teenager's July was a classroom.
 
-**The 1973 final report is written for the next director**, and it tries to give the camp a memory:
-"An effort was started this year to compile helpful records for future staff rather than relying on
-discussions with former staff entirely. Trip reports, camper cards, equipment catalogues,
-brainstorming idea list, maps indexes, food lists, inventory, canoe damage report were made or
-assembled."^33 It names whom to ask — former staff **Hugh Dow** and **Paul Mongraw**, present staff
-**Richard Tarlo** and **Don Lawton**.
+**And in 1967 a Kanawana crew's field notes went into a national publication.** Under the heading "Re-tracing Fur Trade Routes": "**Seven 14-15 year old boys and two counsellors** from Kamp Kanawana re-traced **150 miles of Canada's East-West fur trade routes** in canoes. En route, the members of the group **logged their observations of wild life, water currents, camping facilities, weather conditions, and land structure**. This data, together with similar information by other camps, **is being assembled into a Guide Book for the Canadian Camping Association**."^38
 
-And the absorption Mongraw would forecast a year later is already operating: "the use of in-camp
-staff for Voyageur program should be discouraged although this year **Jeff Roberts** worked well (in
-borrowing him from his section directorship). **The splitting of a tripper's time between Voyageurs
-and Hike & Trip works well** where either faction can only use the services of the individual for
-part of the summer."^33
-
-*One cross-reference worth the check:* **Richard Tarlo** is a camper on the 1966 first-session list
-and Voyageur staff in 1973 — a camper-to-staff path documented across two reports seven years apart.
+The guide book is not named and this project has not found it. The full digitized run of *Canadian Camping* was read word for word earlier in this project, so the place to look is that run's 1968-1970 issues for an announcement or review of a route guide, and the CCA's own publication list.
 
 ### 1967: a director's report from Lac Landron
 
@@ -379,6 +340,53 @@ open for action" for twenty-four hours; once the whole camp stopped and "base ca
 camp boy in charge and nine campers had to run the closing of camp." His fix was the junior
 counsellor, and he named its own risk: they are "often reduced" to "Joe boy" jobs "by
 self-satisfied trippers."
+
+### 1968: the Bahamas, France and Belgium
+
+The annual report for the year ended 31 May 1969 gives no number for that summer's Voyageurs but widens the map: "The Les Voyageurs program of canoe trips through Quebec forests again attracted a number of **13-17 year olds from far away places**. In addition to boys from Quebec and Ontario, a number of participants came from **California, Massachusetts, the Bahamas, France and Belgium**."^40
+
+The Bahamas, France and Belgium are all new here. Against 1967's list — Greater Montreal, Northern Quebec, Ontario, New Brunswick, Massachusetts, California and Czechoslovakia — the programme was drawing from further afield each year, and the report treats that as the thing worth saying about the season.
+
+## The absorption, 1969-1974
+
+### 1969 and 1973: the property at risk, and the absorption already working
+
+**By 1969 the base camp was a small settlement** — a large log cabin serving as the staff tent
+platform, a new oval cabin sleeping two, a supply shed "screened enough except for mice and
+squirrels," a garbage pit twelve feet deep needing a roof "to prevent people falling in," and **a new
+steam bath, capacity six, at 140°F**.^33 David Blake notes the year's work was lighter than usual,
+"a possible reflection of our **philosophical shift from active involvement to meditative
+detachment**" — the 1963 philosophy of not-programming, restated six years on.
+
+**And the site was under threat.** "It should be noted that construction of a cabin has begun on one
+of the islands down the lake and **mining claims were restaked in the base camp area. A good look
+should be taken at steps necessary to lease the property before we lose it by default.**"^33 The
+lease urged in 1963 and again in 1966 was still not taken in 1969. Tourists were a nuisance and
+firearms were being discharged nearby.
+
+**The 1973 final report is written for the next director**, and it tries to give the camp a memory:
+"An effort was started this year to compile helpful records for future staff rather than relying on
+discussions with former staff entirely. Trip reports, camper cards, equipment catalogues,
+brainstorming idea list, maps indexes, food lists, inventory, canoe damage report were made or
+assembled."^33 It names whom to ask — former staff **Hugh Dow** and **Paul Mongraw**, present staff
+**Richard Tarlo** and **Don Lawton**.
+
+And the absorption Mongraw would forecast a year later is already operating: "the use of in-camp
+staff for Voyageur program should be discouraged although this year **Jeff Roberts** worked well (in
+borrowing him from his section directorship). **The splitting of a tripper's time between Voyageurs
+and Hike & Trip works well** where either faction can only use the services of the individual for
+part of the summer."^33
+
+*One cross-reference worth the check:* **Richard Tarlo** is a camper on the 1966 first-session list
+and Voyageur staff in 1973 — a camper-to-staff path documented across two reports seven years apart.
+
+### 1970, from a recruiting release: who could go, and a date that does not fit
+
+An undated 1970 release written to fill the season sets out the entry bar, which nothing else here does. "To qualify for Les Voyageurs, boys must be **in sound health and able to swim a minimum of 150 yards**. **Each group of five** will be supervised by **a skilled outdoorsman, usually a mature university student** who is attuned to the needs of developing boys. Before starting out, the boys spend **several days at a base camp**, getting acquainted."^39 The crew of five is the same unit as 1961 and 1963.
+
+[[people/a-ross-seaman|A. Ross Seaman]], by then "the Y's Executive Director of camping," is quoted at length, and the argument is the rule of the I's in a director's own words nine years on: "First of all, there's nothing quite like **three or four weeks in the woodlands** to firm up and develop young muscles... But physical challenge is only part of it. **Many lads get even more out of the opportunities to use initiative and gain the sort of self-reliance so important to growing up.**"^39
+
+**One date in it does not fit.** The release says "the program **started 13 years ago**," which puts it at **1957**.^39 This article dates the Voyageurs to 1959, from the camp's own "Report of Older Boys Camp" and a pilot of thirty boys. A press release's round "thirteen years" is loose arithmetic and the camp's own report is much the better witness, so **the 1959 date stands unchanged**. It is noted here because a round number like that is exactly what gets copied into a later history, and because if a 1957-58 precursor did exist the 1959 report's framing as a new venture would need re-reading.
 
 ### 1970: the absorption was proposed, and refused in writing
 
@@ -460,6 +468,8 @@ The staff that year were "superb," every trip made its pickup on time and there 
 summer, with special mention of **Bob Woodhouse**'s "resourcefulness in doing major repairs on a
 badly damaged canoe and still getting his trip back on schedule" — the same Woodhouse who signs as
 Director five years later.^30
+
+## After the base camp
 
 ### The base camp is gone, and the forecast
 
@@ -589,7 +599,6 @@ The first all-female Voyageur trip departed from Kanawana in 1972, a milestone i
 
 Three things follow. The programme was **accredited in its own name** by the province, which means it was inspected as a camp and its records were kept as a camp's. Its **scale was twenty campers** in that season, against Kanawana's registered 180 — a small, selective operation, which fits the tripping tradition described above. And it puts an independent, dated figure behind the coeducation milestone: **three years after the first all-female trip, five of the twenty places were girls' places**, listed in the same age band as the boys'. That corroborates the 1972 date from a source that is not the camp's own institutional copy, and quantifies what "co-ed" meant in the programme at that point.
 
-
 ### The programme in 1983 and 1987: fourteen days, ages 13 to 18
 
 The separate accreditation of 1975 lapsed into a single directory entry in 1976, and this article has
@@ -607,6 +616,8 @@ camp of its own. Its trips had a stated **length**, fourteen days. And the whole
 described in one line, from a two-mile hike to a hundred-mile wilderness route, **graded by age and
 ability** rather than by section — which is how the camp itself described the trip programme to
 outsiders in the 1980s, and the only such description this project holds for the decade.
+
+## Safety and the tripping ethic, 1975-1981
 
 ### November 1975: every paddler in a lifejacket, by federal law
 
