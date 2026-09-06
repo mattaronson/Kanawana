@@ -7430,7 +7430,10 @@
         "src_ymf_news_release_1969_11_28",
         "src_ymf_sgw_ymca_annual_report_1970_1971",
         "src_cache_sgw_ymca_annual_report_1971_1972",
-        "src_cache_sgw_ymca_annual_report_1972_1973"
+        "src_cache_sgw_ymca_annual_report_1972_1973",
+        "src_ymf_1985_07_montreal_ymca_day_camp_report",
+        "src_ymf_1987_10_montreal_ymca_day_camp_report",
+        "src_ymf_1988_02_26_day_camp_recommendations"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -7440,7 +7443,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 3150,
+      "word_count": 3465,
       "tags": {
         "era": [
           "1970s",

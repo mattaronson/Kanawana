@@ -1,8 +1,8 @@
 {
-  "version": "7.94",
-  "kb_version": "7.94",
+  "version": "7.96",
+  "kb_version": "7.96",
   "migrated_from": "3.3",
-  "fact_count": 5077,
+  "fact_count": 5079,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91580,6 +91580,43 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.94",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5116",
+      "category": "institutional",
+      "date_ref": "1972",
+      "entities": [
+        "Marcel Veilleux",
+        "Mile End West Project",
+        "YMCA of Montreal"
+      ],
+      "claim": "A CLEAN NULL, RECORDED SO NOBODY READS IT AGAIN: 'SUBMISSION: THE MILE-END FRANCOPHONE PROJECT', MARCEL VEILLEUX, Director, April 1972. 'KANAWANA' OCCURS ZERO TIMES -- and so do 'CAMP', 'SUMMER' AND 'ETE'. NOT ZERO IN THE SENSE OF 'I DID NOT FIND ANY': the strings do not occur in the file at all. This is a community development submission about a Montreal neighbourhood with NO CAMPING COMPONENT WHATEVER, and it is the first document in today's French-language cluster that earns no place in any article. WHY IT WAS PICKED UP AND WHY IT IS KEPT AT ALL: the 1971 French camp submission (f_5115) is signed 'Kerry W. Johnston, Director, MILE END WEST PROJECT', and this tells you what that project was and what its base looked like. THE MILE-END AS THE SUBMISSION DESCRIBES IT: bounded by Van Horne, Pine Avenue, Hutchison and St. Denis; 71,500 people, 58% French-speaking; '96% of the area's population consists of a non-specialized work force whose AVERAGE ANNUAL SALARY FOR THE HEAD OF THE FAMILY IS $3,800'; 30% on welfare and unemployment insurance; 40% of families with a deficient diet; 55% of dwellings, mostly pre-1920, needing immediate repair; '82% OF THE YOUNG PEOPLE BETWEEN THE AGES OF 15 AND 24 NO LONGER GO TO SCHOOL'. The school dropout rate is 'THE HIGHEST IN THE METROPOLITAN AREA' -- of 2,460 who left school prematurely in the C.S.C.M. in 1970-71, 1,092 came from two high schools in this area, and 1,100 had already dropped out in the current year. It also names exploitation of Portuguese and Italian nationals by local clothing manufacturers. THAT IS THE NEIGHBOURHOOD THE Y'S FRENCH CAMP PROGRAMME WAS RUN OUT OF, which is worth one paragraph of context for anyone reading f_5113 through f_5115 -- AND IT IS NOT KANAWANA MATERIAL AND HAS NOT BEEN PUT INTO ANY ARTICLE. Marked extracted so the next pass does not open it looking for camping.",
+      "sources": [
+        "src_ymf_1972_04_the_mile_end_francophone_project_submission"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.95",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5117",
+      "category": "programs",
+      "date_ref": "1985-1988",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "KANAWANA WAS THE CITY DAY CAMPS' TRAINING VENUE IN THE 1980s, AND IN 1988 THEY ASKED FOR A SITE OF THEIR OWN THERE. Three Montreal YMCA day camp documents, read for their Kanawana content: the reports of JULY 1985 and OCTOBER 1987 and the DAY CAMP RECOMMENDATIONS of 26 FEBRUARY 1988. Each names the camp once or twice and no more; these are day camp documents and most of their substance is about the branches. 1985: a training camp 'TOOK PLACE IN KANAWANA. VERY SUCCESSFUL. A FOLLOW-UP IS BEING PLANNED FOR SEPTEMBER WITH ALL STAFF.' 1987: '[The event] was OUR MAJOR TRAINING EVENT FOR SENIOR STAFF, AT KAMP KANAWANA. Topics included: LOCAL CAMP PRESENTATIONS, CAMP STANDARDIZATION, MOTIVATION, COMMUNICATION, SUPERVISION TOOLS, GAMES, ARTS/CRAFTS/MUSIC, THEMES, TRIPS.' The same report costs it out from the commissioner's side: 'senior staff training took 14 DAYS OF WORK (this includes initial meeting, food buying, meeting with guest speakers, VISITING KANAWANA)... This alone adds up to 25 days, more than had been expected... NO REAL TIME WAS SPENT ON DEVELOPMENT. ALL WE HAVE TIME FOR IS MAINTAINING.' 1988, IN THE RECOMMENDATIONS TABLE WITH TARGET DATES: 'B) WE NEED TO DEVELOP A SITE ON KAMP KANAWANA FOR THE USE OF DAY CAMPS -- SUMMER '89', listed under a heading about renting a facility 'if we intend to run overnights this year'. And separately: 'DAY CAMP SHOULD BE TIED INTO THE PROMOTION OF KAMP KANAWANA -- June '88.' WHAT THIS ADDS. The wiki has Kanawana's own staff training in detail from the 1950s and 1960s (f_5084, f_5088) and nothing about the camp being used as a training ground BY OTHER PARTS OF THE ASSOCIATION. By the mid-1980s it was where the city day camps sent their senior staff, and by 1988 they wanted a permanent site on the property and a shared promotional pitch. THAT IS OFF-SEASON AND INSTITUTIONAL USE OF THE SITE, which bears on the year-round-operation thread (f_5111). WHETHER THE 1989 SITE WAS EVER DEVELOPED IS NOT IN THESE DOCUMENTS. It is a recommendation with a target date, and this project has nothing on either side of it.",
+      "sources": [
+        "src_ymf_1985_07_montreal_ymca_day_camp_report",
+        "src_ymf_1987_10_montreal_ymca_day_camp_report",
+        "src_ymf_1988_02_26_day_camp_recommendations"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.96",
       "added_by": "ralph_loop"
     }
   ]

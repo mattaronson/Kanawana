@@ -1,7 +1,7 @@
 # Winter and Year-Round Programming
 
-*Status: E1-reviewed | Sources: 19*
-*Last Updated: 2026-09-06 (a family ski day at capacity in the winter of 1969-70)*
+*Status: E1-reviewed | Sources: 20*
+*Last Updated: 2026-09-06 (the site as the association's own training ground in the 1980s)*
 
 ## Overview
 
@@ -40,6 +40,18 @@ So three separate documents now put an at-capacity family ski programme at Kanaw
 So the winter of 1969-70 had two distinct programmes running at Kanawana, and this article had neither. One was a popular Saturday ski day run by a city branch and oversubscribed. The other was the [[site/places-and-locations|Long House]] — the 1952 waterfront recreation hall, demolished in 1978 — opened under a stated policy of aid to disadvantaged families. The release gives no numbers, no dates and no organiser for it, only that the preparations were finished.
 
 So in the winter of 1969-70 there were groomed downhill runs at Kanawana, ski instruction, a supervised nursery, and more demand than the programme could take — run by a **city branch**, not by the camp. The Timeline below dates a ski tow to 1971-72 and Winter Outdoor Family Camping to 1972-73. Those entries stand: the 1972-73 report describes *infrastructure*, a lift and two groomed slopes, which this bulletin does not mention, and "Winter Outdoor Family Camping" may be a distinct named programme. What does not stand is the shape of the story. Organised, advertised, oversubscribed winter family programming was happening here three years before the date this article gives for its beginning.
+
+## The 1980s: the site as the association's training ground
+
+Year-round use is not only about who skis here. By the mid-1980s Kanawana was where the Montreal YMCA's **city day camps** sent their senior staff.
+
+A day camp report of July 1985 records a training camp that "took place in Kanawana. **Very successful.** A follow-up is being planned for September with all staff."^20 The October 1987 report describes the same arrangement at more length: the event at Kamp Kanawana "was **our major training event for senior staff**," covering local camp presentations, camp standardization, motivation, communication, supervision tools, games, arts and crafts and music, themes and trips.^20
+
+The same report counts the cost from the organiser's side, and the tone is worth keeping: "senior staff training took **14 days of work** (this includes initial meeting, food buying, meeting with guest speakers, **visiting Kanawana**)... This alone adds up to 25 days, more than had been expected... **No real time was spent on development. All we have time for is maintaining.**"^20
+
+And in February 1988 the day camps asked for something permanent. Among their recommendations, with target dates attached: "**We need to develop a site on Kamp Kanawana for the use of Day Camps** — Summer '89," and, separately, "**Day Camp should be tied into the promotion of Kamp Kanawana** — June '88."^20
+
+Whether that site was ever developed is not in these documents, and this project has nothing on either side of the recommendation. What they establish is that the property was carrying institutional use well outside its own camping season a decade before year-round operation is usually dated.
 
 ## Winterized Facilities
 
@@ -150,6 +162,7 @@ David Leduc managed Camp Kanawana's summer and winter programs, including recrui
 17. Montreal YMCA bilingual news release, **28 November 1969** [src_ymf_news_release_1969_11_28], French column. Cached at `sources/cache/ymca-montreal-fonds/news-release-1969-11-28.txt`; read 2026-09-06 under p_451. See [f_5104].
 18. YMCA of Montreal annual report for the year ended **31 May 1971** [src_ymf_sgw_ymca_annual_report_1970_1971] — the bilingual highlights spread. Its season is the winter of 1970-71 and the summer of 1970. Read 2026-09-06 under p_441. See [f_5110].
 19. YMCA of Montreal annual reports for the years ended **31 May 1972** and **31 May 1973** [src_cache_sgw_ymca_annual_report_1971_1972, src_cache_sgw_ymca_annual_report_1972_1973]. Read 2026-09-06 under p_441. See [f_5111].
+20. Montreal YMCA day camp reports of **July 1985** and **October 1987**, and the **Day Camp Recommendations of 26 February 1988** [src_ymf_1985_07_montreal_ymca_day_camp_report, src_ymf_1987_10_montreal_ymca_day_camp_report, src_ymf_1988_02_26_day_camp_recommendations]. Read for their Kanawana content 2026-09-06 under p_441; these are day camp documents and the camp appears once or twice in each. See [f_5117].
 
 ## Research Notes
 

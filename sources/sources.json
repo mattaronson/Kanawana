@@ -14381,8 +14381,8 @@
       "extraction_version": "v5.60",
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state": "extracted",
+      "read_state_basis": "2026-09-06 under p_441: OPENED AND CHECKED, AND IT IS A CLEAN NULL FOR THIS PROJECT. The strings 'kanawana', 'camp', 'summer' and 'ete' occur ZERO TIMES in the file. A community development submission about the Mile-End neighbourhood with no camping component. Its social-conditions description is recorded in f_5116 as context for the French camp cluster and is deliberately NOT in any article. Do not re-open it looking for camping."
     },
     {
       "source_id": "src_ymf_1972_60_years_1912_1972_ymca_national_council",
@@ -14723,8 +14723,8 @@
       "extraction_version": "v5.60",
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_441: READ FOR KANAWANA CONTENT, which is one or two mentions in each -- the camp as the city day camps' senior staff training venue, and the 1988 recommendation to develop a site there (f_5117). THE REST OF THE DOCUMENT IS NOT READ: these are day camp reports and most of their substance concerns the branches, not Kanawana."
     },
     {
       "source_id": "src_ymf_1987_10_montreal_ymca_day_camp_report",
@@ -14741,8 +14741,8 @@
       "extraction_version": "v5.60",
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_441: READ FOR KANAWANA CONTENT, which is one or two mentions in each -- the camp as the city day camps' senior staff training venue, and the 1988 recommendation to develop a site there (f_5117). THE REST OF THE DOCUMENT IS NOT READ: these are day camp reports and most of their substance concerns the branches, not Kanawana."
     },
     {
       "source_id": "src_ymf_1988_02_26_day_camp_recommendations",
@@ -14759,8 +14759,8 @@
       "extraction_version": "v5.60",
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_441: READ FOR KANAWANA CONTENT, which is one or two mentions in each -- the camp as the city day camps' senior staff training venue, and the 1988 recommendation to develop a site there (f_5117). THE REST OF THE DOCUMENT IS NOT READ: these are day camp reports and most of their substance concerns the branches, not Kanawana."
     },
     {
       "source_id": "src_ymf_1994_12_le_centre_jeunesse_du_ymca_du_parc_et_la_prevention_rapport_devaluation",
