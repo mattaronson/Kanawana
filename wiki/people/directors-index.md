@@ -1,7 +1,7 @@
 # Directors and Staff of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 35*
-*Last Updated: 2026-09-05*
+*Status: E1-reviewed | Sources: 36*
+*Last Updated: 2026-09-06 (F.H. Spinney identified: a Montreal school principal who wrote a national column on teaching)*
 
 ## Summary
 
@@ -101,7 +101,7 @@ These roles carried the title "Director" but reported to the Camp Director above
 
 | Director | Years | Section / Program | Notes | Source |
 |----------|-------|--------------------|-------|--------|
-| F.H. Spinney | ~1917-1922+ | Educational | Documented in his 5th year (1921) and teaching basketry (1922); overall director that era was Brandon (1921)/Ereaux (1922) | 1921/1922 brochures^3 |
+| F.H. Spinney | ~1917-1922+ | Educational | Documented in his 5th year (1921) and teaching basketry (1922); overall director that era was Brandon (1921)/Ereaux (1922). **Principal of Alexandra School, Montreal, and a published writer on pedagogy** — see below | 1921/1922 brochures^3; *The School*^36 |
 | Hay Finlay | 1922 | Senior section | Ex-Central YMCA Boys' Physical Director, then at McGill Physical Education; overall director that year was Lemuel P. Ereaux | 1922 brochure^3 |
 | Edwin M. Crawford | 1922 | Junior section | Ex-Westmount YMCA Boys' Work Secretary; overall director that year was Lemuel P. Ereaux | 1922 brochure^3 |
 | Allan B. Cornell | ~1918-1923+ | Educational | Held the Large K badge, the camp's highest honour award | Brochures^3, Gas Bag^7 |
@@ -140,6 +140,10 @@ A 2003 JBC plaque (f_1638; also the source for conflict c_014's resolution) name
 The 1921, 1922, and 1923 camp brochures and the 1923 *Gas Bag* reunion newsletter provide the most detailed early staffing records. Several individuals served across multiple seasons, indicating a stable core staff during this period.
 
 **Long-serving staff.** Harry Smith served as camp chef from approximately 1913, documented through his 9th year (1921) and 10th year (1922).^3 Johnston W. Abraham served as Business Manager from approximately 1914, documented through his 9th year (1922).^3 F.H. Spinney served as Educational Director from approximately 1917, documented in both 1921 (his 5th year) and 1922 (teaching basketry).^3 Allan B. Cornell served as Educational Director from approximately 1918 through at least 1923 (his 6th year), and held the Large K badge, the camp's highest honour award.^3 ^7 Reg Cowan served as Business Manager from approximately 1915 through at least 1923 (8 years), and also held the Large K badge.^3 ^7
+
+**F.H. Spinney was a Montreal school principal, and he wrote about teaching for a national audience.** Until 2026-09-06 this table had a surname, two initials, a role and nothing else. Volume 1 of *The School: A Magazine Devoted to Elementary and Secondary Education* (Toronto, 1912-13) carries a serial column by "**F. H. Spinney, Principal Alexandra School, Montreal**" — later printed as "Principal, Alexandra Public School, Montreal" — titled "**In the Little Red Schoolhouse**", running at least eight numbered instalments on the practice of the one-room rural school, "yet suggestive for all teachers". At the end of the volume the editors announce a second series from him, "Little Journeys to Rural Schools".^36 His fellow contributors are the Ontario College of Education's own people, so this is a national professional journal rather than a local bulletin.
+
+*The identification, and what it rests on.* An uncommon surname with the same two initials, the same city, the same profession, and the exact fit of the role — Kanawana's **Educational** Director being a schoolmaster, and this one a schoolmaster who wrote a national column on how to teach. That is an identification by name, place and calling, not a documented link, and it is written here as such. The same volume was searched in full and **"Kanawana" does not appear in it once**. A different Mr. F. H. Spinney, of Hudson, New Hampshire, turns up in four Harvard College Observatory annual reports as a volunteer variable-star observer and accounts for a third of the hits on the bare name; he is not this man. Still unknown: Spinney's first name, his dates, and when he came to or left the camp beyond what the brochures imply. *The School* ran to 1935 and the later volumes are unsearched — and they cover every year of his known camp service.
 
 **1921 season.** Under director G.D. Brandon, the documented staff included H.H. Hart (Camp Doctor), F.H. Spinney (Educational Director), and Harry Smith (Chef).^3
 
@@ -357,6 +361,8 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 27. Kamp Kanawana annual and director's reports, Internet Archive: 1964 [src_ia_kanawana_report_1964], 1965 [src_ia_kanawana_report_1965], 1966 [src_ia_kanawana_annual_report_1966], 1969 [src_ia_kanawana_report_1969], 1970 [src_ia_kanawana_report_1970], 1971 [src_ia_kanawana_report_1971], 1973 [src_ia_kanawana_report_1973], 1974 [src_ia_kanawana_report_1974], 1975 [src_ia_kanawana_report_1975], 1976 [src_ia_kanawana_directors_report_1976], 1977 [src_ia_kanawana_report_1977], 1978 [src_ia_kanawana_report_1978], 1979 [src_ia_kanawana_report_1979], 1987 [src_ia_kanawana_report_1987]. Association context from the 1967 annual report [src_ia_sgw_annual_report_1967], the news releases of 9 February 1970 [src_ia_ymca_news_release_1970_02] and January 1971 [src_ia_ymca_news_release_1971_01], and the Metropolitan Staff / Senior Management rosters 1984-2003 [src_ia_ymca_montreal_annual_reports_collection].
 28. *The Lookout*, Vol. 1 No. 3, Kanawana Alumni newsletter, autumn 1993 (Internet Archive) [src_ia_the_lookout_1993].
 29. "Kamp Kanawana History," presented at a Training Course, 6 June 1951 (Internet Archive) [src_ia_kanawana_history_1951].
+
+36. *The School: A Magazine Devoted to Elementary and Secondary Education*, vol. 1 (Toronto, 1912-13) [src_the_school_magazine_vol1_1912_13]. **Not lending-restricted**: the complete djvu text was downloaded and searched 2026-09-06, and "Kanawana" occurs zero times in it. Every occurrence of "Spinney" and "Alexandra" was read; the passages, the identification's grounds and the Harvard-observatory near miss are cached at `sources/cache/periodicals/1912-13-the-school-magazine-fh-spinney.txt`. See [f_4958].
 
 ## Research Notes
 

@@ -29431,7 +29431,25 @@
       "read_state": "snippet",
       "read_state_basis": "LENDING-RESTRICTED; NOT READ. One entry on scan leaf 342 (the guide's own index gives page 236), reconstructed 2026-09-06 from twenty-eight overlapping Open Library search-inside queries. The walk stops mid-sentence at 'une excursion de quatre jours', where the phrase became too common to isolate; the tail of the entry is unrecovered. Page images return HTTP 403.",
       "notes": "A French-language commercial city guide, almost certainly working from copy the camp supplied. Gives the 2011 or 2012 season as 28 June to 20 August, stays of six days to eight weeks, residential programmes of 6-12 days for ages 7-16 and leadership/outdoor-adventure programmes for 11-20, a long activity list including trampoline aquatique, ecole du rock and hebertisme, a named biodiversity activity ('La faune gagne du terrain'), a NEW programme called AVENTURIER EXTREME for 13-16s, and the Explorateurs (11-12) and Aventuriers (13-16) four-day excursions. TWO CLAIMS TO TREAT AS THE GUIDE'S AND NOT AS FINDINGS: 'Premier camp de vacances au Quebec', and 'membre fondateur de l'Association des camps du Quebec'. See f_4957."
+    },
+    {
+      "source_id": "src_the_school_magazine_vol1_1912_13",
+      "type": "periodical",
+      "title": "The School: A Magazine Devoted to Elementary and Secondary Education, vol. 1 (Toronto, 1912-13) — F. H. Spinney's column",
+      "date": "1912-1913",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/schoolmagazinede01univuoft",
+      "cache_path": "sources/cache/periodicals/1912-13-the-school-magazine-fh-spinney.txt",
+      "char_count": 1671490,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.94",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "NOT lending-restricted. The complete djvu text (1,671,490 bytes) was downloaded and searched 2026-09-06. 'Kanawana' occurs ZERO times in the volume. Every occurrence of 'Spinney' and 'Alexandra' was read and the relevant passages cached; the rest of the volume is unread.",
+      "notes": "Gives Kamp Kanawana's Educational Director F. H. Spinney -- known here only from the 1921 and 1922 brochures, with no first name and no biography -- as PRINCIPAL OF ALEXANDRA (PUBLIC) SCHOOL, MONTREAL, and the author of a serial column 'In the Little Red Schoolhouse' running at least eight instalments in this national education journal, with a second series commissioned. A near miss worth keeping: a different 'Mr. F. H. Spinney' of Hudson, N.H., appears in four Harvard College Observatory annual reports as a variable-star observer. LATER VOLUMES OF THIS RUN, to 1935, ARE UNSEARCHED and cover every year of his Kanawana service. See f_4958."
     }
   ],
-  "source_count": 1635
+  "source_count": 1636
 }

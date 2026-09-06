@@ -5022,3 +5022,50 @@ written by someone who had the title and the year and nothing else. Meanwhile th
 did what that note describes — a passing citation — was the American Camp Association textbook, which
 was not on the list at all. **Rank the worklist, then ignore the ranking when a query walks past
 something.**
+
+---
+
+## Phase 2 campaign — the name sweep, first four names (2026-09-06)
+
+**Topic.** p_430's last large piece: the name sweep proper. Every director and section head in
+`directors-index.md`, run against the Internet Archive book corpus. Also the four untried spellings
+of the camp's own name.
+
+**The spellings are nulls, and that is worth writing down.** `"Kanawanna"` — 0. `"Lac Kanawana"` —
+0. `"Kanawana, Que"` — 0. `"Lake Kanawana"` — 1, and it is the Stuart McLean passage already read.
+`"Kamp Kanawana"` remains the only alternative spelling that has ever added an item, and it added
+two. Logged so nobody runs them again.
+
+**Four names, one find.** *Lemuel P. Ereaux* — 0. *Allan B. Cornell* — 0. *Edwin M. Crawford* — 65
+hits, every one an American university-relations officer of the 1980s and 90s; a common name in a
+big corpus is a dead end, not a lead. **F. H. Spinney** — twelve hits, four of them a *different*
+F. H. Spinney of Hudson, New Hampshire, who observed variable stars for the Harvard College
+Observatory between 1913 and 1916, and one of them him.
+
+*The School: A Magazine Devoted to Elementary and Secondary Education*, volume 1 (Toronto, 1912-13),
+carries "**F. H. Spinney, Principal Alexandra School, Montreal**" as the author of "In the Little
+Red Schoolhouse" — a serial column on the practice of the one-room rural school, at least eight
+numbered instalments, with a second series commissioned at the end of the volume. His fellow
+contributors are the Ontario College of Education's own staff.
+
+This project had a surname, two initials, "Educational Director", "documented in his fifth year
+(1921)", and nothing else. It now has a profession, an institution, a city and a body of published
+writing. **f_4958.**
+
+**The identification is by name, place and calling, and is written that way.** An uncommon surname
+with the same two initials, the same city, the same profession, and the exact fit of the role — a
+boys' camp's *Educational* Director being a schoolmaster, and this one a schoolmaster who wrote a
+national column on how to teach. There is no document linking the two: "Kanawana" occurs **zero
+times** in the volume, which was downloaded whole and searched.
+
+**And it opened a run rather than closing a question.** *The School* published until 1935. Volume 1
+is 1912-13, five years before Spinney's first documented camp season. **The rest of the run covers
+every year of his known service, the whole interwar era, and the years of Harold C. Cross and Allan
+B. Cornell.** A national education journal is exactly where a camp's educational programme, a
+schoolmaster's summer work, or a Montreal principal's obituary would be printed. That is **p_432**.
+
+**The lesson.** *A name sweep's yield is not proportional to the number of names.* Three of the four
+names returned nothing usable — two returned literally nothing, and the third returned sixty-five
+hits about somebody else, which is worse than nothing because it costs reading. The fourth opened a
+periodical run. There is no way to tell in advance which is which, which is why the sweep has to be
+run rather than reasoned about.
