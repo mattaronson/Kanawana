@@ -6813,3 +6813,35 @@ it cannot recognise.
 
 **The 1974 and 1979 Voyageur reports can now be done the same way.** They were set aside this
 morning for want of exactly this pattern.
+
+## 2026-09-06 — p_441, document twenty-four: "very little wilderness left"
+
+The 1979 Voyageurs report, the second of the two deferred this morning and the last Voyageur
+document this project holds. Two positions the programme had held for years are reversed in it.
+
+**Coeducation is routine and argued on its merits**, not defended: "Two out of five trips this
+summer were coed trips. I can see no reason for not continuing this practice… Not all people are
+interested in coed trips. If registration permits then all girl trips should be encouraged."
+
+**And the crew of six is abandoned.** Second staff — trippers-in-training, a grade this project had
+not recorded — made a two-canoe trip uneconomic, so the standard became three canoes, two staff and
+up to seven campers. That is exactly the seven-person trip Paul Mongraw had argued against in 1974
+with a page of arithmetic about packs and portages. The justification is the sentence worth the
+whole document: "Anyway, **there is very little 'wilderness' left in the La Vérendrye area** and it
+is not as important as it once was to have highly mobile 'disciplined' groups."
+
+Twenty years after the camp went north to find country wild enough for older boys, its director
+writes that the country is no longer wild enough for the discipline to matter.
+
+The rest is a portrait of a small camp in trouble: registration low, two English newspaper
+advertisements with no result, both three-week trips cancelled, and a marketing plan of posters,
+weekend colour supplements, silkscreened T-shirts and a borrowed slide show.
+
+**And a third error in the embargo machinery, caught by the guard.** I put the staff roster inside
+the *embargoed* fact and then named the four people in open article prose, reasoning that a roster
+is institutional. `restricted_guard` flagged it, correctly: its rule is that a name held **only** in
+an embargoed fact must not appear outside a block, and by putting the roster in the embargoed fact I
+had made these names exactly that. The fix was to move the roster into the open fact — which is also
+the right answer on the merits, and is now stated in both facts: *who ran the camp is institutional;
+what one man privately thought of another's temperament is not.* Three uses of this machinery today
+and three mistakes in it, every one caught by the check rather than by me.

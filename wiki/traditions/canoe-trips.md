@@ -1,6 +1,6 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 30*
+*Status: E1-reviewed | Sources: 31*
 *Last Updated: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *Last Updated: 2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
 *Last Updated: 2026-07-05 (named trip staff added from photo-mined canoe-trip plaques, p_191 ENRICH pass) — photo gallery added 2026-07-02*
@@ -326,6 +326,72 @@ Director makes on him without petulance and these reasonable demands include the
 and repairing the Voyageur's equipment in May and June."
 <!-- /embargo:r_0004 -->
 
+### 1979: coed by default, and "very little wilderness left"
+
+Robert D. Woodhouse's report for 1979 is the last Voyageur document this project holds, and two
+things in it reverse positions the programme had held for years.
+
+**Coeducation is routine and argued on its merits.** "Two out of five trips this summer were coed
+trips. I can see no reason for not continuing this practice. I think it would be best that if there
+were two trips going out at the same time, that one be coed and one males or females only. Not all
+people are interested in coed trips. **If registration permits then all girl trips should be
+encouraged.**"^31
+
+**And the crew of six is abandoned.** With the introduction of **second staff** — trippers-in-training,
+a grade this article had not recorded — "it is not financially viable to send out two canoes with two
+staff and four campers. As such the standard group in the future will be **three canoes, two staff
+and up to seven campers**." That is precisely the seven-person trip Paul Mongraw had argued against
+five years earlier, and the justification is the line worth keeping from the whole document:
+
+> "Although this does make the group slightly slower and cumbersome it works quite well. **Anyway,
+> there is very little 'wilderness' left in the La Vérendrye area and it is not as important as it
+> once was to have highly mobile 'disciplined' groups.**"^31
+
+He still wanted the three-week trips back — both were cancelled that year for low registration —
+because their purpose "would be to explore and/or open up new country for Les Voyageurs. This should
+be a priority due to the ever increasing 'traffic' in and around Parc de la Vérendrye."^31
+
+Registration was the year's problem: "we placed advertisements in two English newspapers but got no
+results." His remedies are a small portrait of how a camp marketed itself in 1979 — updated posters
+for Kanawana, Les Voyageurs and Wilderness Camp in Y branches and schools, an article in a weekend
+colour supplement, T-shirts silkscreened from a sketch held by Eric Sandmark, and a slide show partly
+owned by the Y and partly private.^31 He also wanted the lower age limit raised from 13 to 14, began
+keeping **camper information files** so staff would know returning campers, argued that second staff
+should be paid $50 to $75 a trip, and insisted on two days off between trips because "three two week
+trips in a row makes for a fairly gruelling summer."
+
+**On the rest of the report.** More than half of it consists of named end-of-season evaluations of
+four staff, each headed with the person's name and signed by the director, covering temperament and
+conduct as well as skills. They were written about private individuals in their late teens and
+twenties in 1979 who are likely still living, so the judgements are kept and labelled rather than
+quoted loose: register entry **r_0005**, review **1 January 2060**. Who was on staff is an
+institutional fact and is recorded openly — **Jim Pelton** was the season's only tripper besides the
+director, with **Andre Masson**, **Diane Morrissatty** (spelled Morrisette elsewhere in the same
+document) and **John Kennedy**, captioned "K.K. Master Canoeist," as second staff. So is what the
+camp required of them: a St. John Ambulance certificate and a Bronze Medallion, with Canoeing School
+for those upgrading.^31
+
+And a rule that closes the document: "the tripper should be the only person to carry any type of
+drugs in his kit. This kit should be off limits to anyone but the tripper and perhaps second staff
+members."^31
+
+<!-- embargo:r_0005 -->
+*Embargoed material: 1979 individual staff evaluations, register r_0005, review 2060-01-01. The
+passages are held in full in `kb/facts.json` (f_5058) and in the cached source; this block marks
+them so a publishing layer can act on them. Summarised here rather than quoted at length, because
+the subjects are likely living.*
+
+The director assesses each of the four in turn. Of the season's tripper: admirable performance
+despite limited previous tripping experience, good work with campers, a recommendation to rehire
+conditional on obtaining a St. John Ambulance certificate and updating a Bronze Medallion, praise
+for how he handled an accident "not quite of emergency proportion" — and, set against that, a
+judgement that he was "beginning to burn out" by the end of a third two-week trip, and a criticism
+of his manner in camp which the director himself explains away as "a result of the responsibilities
+and stresses of a tripper taking out three two week trips in his first year." Of the three second
+staff: assessments of canoeing skill and sterning, suggestions that one be sent to Canoeing School
+and another considered as a camp tripper, and remarks on how each received advice.
+<!-- /embargo:r_0005 -->
+
 ## Coeducation and Later Developments
 
 The first all-female Voyageur trip departed from Kanawana in 1972, a milestone in the camp's transition to coeducation.^3 In 1998, the one-month Adventurer Canoe Trip was introduced, extending the program's reach to the most committed young trippers.^3
@@ -541,3 +607,4 @@ This is the only itemised cost of a 1920s Canadian canoe trip found by this proj
 28. "Les Voyageurs de la Vérendrye, Report for 1960", submitted by Roger Wilson [src_ymf_1960_les_voyageurs_de_la_verendrye_report]. See [f_5025] and [f_5050]. Read for its organisation and promotion sections, its signature block and its surviving appendices; the equipment, food and rating sections are not read, and **the scan stops after Appendix 4** — two appendices listed in the table of contents are not in the digitized text.
 29. "Les Voyageurs de la Vérendrye, Annual Report 1963" [src_ymf_1963_les_voyageurs_de_la_verendrye_annual_report]. Read whole 2026-09-06 under p_441. See [f_5051] and [f_5052]. **Its staff section is embargoed as register entry r_0003** — named end-of-season assessments of six seasonal staff who were private individuals in their late teens and early twenties; see `kb/restricted/README.md`.
 30. "Les Voyageurs de LaVerendrye — Report on Summer 1974", signed Paul Mongraw, Director 1974 [src_ymf_1974_les_voyageurs_de_la_verendrye_report_on_summer]. Read whole 2026-09-06 under p_441. See [f_5054] and [f_5055]. **One numbered policy item is embargoed as register entry r_0004** — a sustained criticism of an unnamed Kanawana caretaker, recoverable from any staff roster of the season and therefore an identification by inference.
+31. "Les Voyageurs de la Vérendrye, report for 1979", signed Robert D. Woodhouse, Director [src_ymf_1979_les_voyageurs_de_la_verendrye_report]. Read whole 2026-09-06 under p_441. See [f_5057] and [f_5058]. **More than half the report is named individual staff evaluations, embargoed as register entry r_0005** (review 2060); the names and roles are recorded openly, the judgements are not.

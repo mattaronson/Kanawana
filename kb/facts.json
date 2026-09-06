@@ -1,8 +1,8 @@
 {
-  "version": "7.50",
-  "kb_version": "7.50",
+  "version": "7.51",
+  "kb_version": "7.51",
   "migrated_from": "3.3",
-  "fact_count": 5018,
+  "fact_count": 5020,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -90440,6 +90440,58 @@
         "review_on": "2050-01-01",
         "basis": "later of record date + 75 and estimated birth + 100",
         "why": "A sustained personal criticism of a named post rather than a named person, which makes it recoverable from any staff roster of the same season and therefore an identification by inference. Held in the knowledge base and written into the article behind a marker; withheld from any published surface."
+      }
+    },
+    {
+      "fact_id": "f_5057",
+      "category": "programs",
+      "date_ref": "1979",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "Robert D. Woodhouse",
+        "La Verendrye Park",
+        "Kamp Kanawana",
+        "Jim Pelton",
+        "Andre Masson",
+        "Diane Morrissatty",
+        "John Kennedy"
+      ],
+      "claim": "1979: TWO OF FIVE VOYAGEUR TRIPS WERE COED, THE CREW OF SIX WAS ABANDONED, AND THE DIRECTOR SAYS THE WILDERNESS IS GONE. Robert D. Woodhouse's report for 1979. COEDUCATION IS ROUTINE AND ARGUED ABOUT ON ITS MERITS: 'TWO OUT OF FIVE TRIPS THIS SUMMER WERE COED TRIPS. I can see no reason for not continuing this practice. I think it would be best that if there were two trips going out at the same time, that one be coed and one males or females only. NOT ALL PEOPLE ARE INTERESTED IN COED TRIPS. IF REGISTRATION PERMITS THEN ALL GIRL TRIPS SHOULD BE ENCOURAGED.' THE CREW SIZE DOCTRINE IS REVERSED: with the introduction of SECOND STAFF, or TRIPPERS-IN-TRAINING, 'it is not financially viable to send out two canoes with two staff and four campers. As such THE STANDARD GROUP IN THE FUTURE WILL BE THREE CANOES, TWO STAFF AND UP TO SEVEN CAMPERS' -- exactly the seven-person trip Paul Mongraw had argued against five years earlier (f_5054). AND THE REASON GIVEN IS THE MOST QUOTABLE LINE IN THE DOCUMENT: 'Although this does make the group slightly slower and cumbersome it works quite well. ANYWAY, THERE IS VERY LITTLE \"WILDERNESS\" LEFT IN THE LA VERENDRYE AREA AND IT IS NOT AS IMPORTANT AS IT ONCE WAS TO HAVE HIGHLY MOBILE \"DISCIPLINED\" GROUPS.' Woodhouse also wants the three-week trips revived after cancelling both for low registration -- 'the purpose of these trips would be to EXPLORE AND/OR OPEN UP NEW COUNTRY for Les Voyageurs. This should be a priority due to the EVER INCREASING \"TRAFFIC\" in and around Parc de la Verendrye.' OTHER OPERATIONAL POINTS: registration was low and 'we placed advertisements in two English newspapers but got no results'; he proposes updated posters for Kanawana, Les Voyageurs and WILDERNESS CAMP in Y branches and schools, an article in a weekend colour supplement, T-shirts from a sketch held by ERIC SANDMARK, and a slide show partly owned by the Y and partly privately; the lower age limit should rise FROM 13 TO 14 because 'in general 13 year olds do not profit that much from their experience'; CAMPER INFORMATION FILES WERE BEGUN THAT YEAR so staff would know returning campers; second staff should be paid $50 to $75 per trip; trippers need at least two days off between trips because 'THREE TWO WEEK TRIPS IN A ROW MAKES FOR A FAIRLY GRUELLING SUMMER'; and a pre-season staff canoe trip of three days is wanted so staff can 'learn new skills from each other and to observe other styles of canoe tripping'. WHO WAS ON STAFF, recorded here in the open because a roster is an institutional fact (the judgements about these people are a separate matter and are embargoed as r_0005, see f_5058): the camp ran with a DIRECTOR AND ONE TRIPPER, JIM PELTON, supported by SECOND STAFF -- ANDRE MASSON, DIANE MORRISSATTY (spelled MORRISETTE elsewhere in the same document) and JOHN KENNEDY, captioned 'K.K. MASTER CANOEIST'. What the camp required of a tripper is institutional too: a ST. JOHN AMBULANCE certificate and a BRONZE MEDALLION, with CANOEING SCHOOL for those upgrading. And the report's closing rule: 'the tripper should be the only person to carry any type of drugs in his kit. This kit should be off limits to anyone but the tripper and perhaps second staff members.'",
+      "sources": [
+        "src_ymf_1979_les_voyageurs_de_la_verendrye_report"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.51",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5058",
+      "category": "people",
+      "date_ref": "1979",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "Jim Pelton",
+        "Andre Masson",
+        "Diane Morrissatty",
+        "John Kennedy",
+        "Robert D. Woodhouse",
+        "Kamp Kanawana"
+      ],
+      "claim": "THE 1979 REPORT IS MOSTLY A SET OF NAMED STAFF EVALUATIONS, AND THEY ARE EMBARGOED. More than half of Robert D. Woodhouse's report for 1979 consists of individual end-of-season assessments, each headed with the person's name and signed 'Robert D. Woodhouse, Director', of the season's four staff, who are named in f_5057 rather than here because a roster is institutional and a judgement is not. They are detailed and mixed, running from technical judgements about canoeing and first aid certification to characterisations of temperament, burnout and behaviour in camp, and they were written about people in their late teens and early twenties who were private individuals. THE PASSAGES ARE HELD IN FULL AND LABELLED, NOT DROPPED: register entry r_0005. EVERYTHING INSTITUTIONAL IN THAT PART OF THE REPORT IS CARRIED IN f_5057 AND IS NOT EMBARGOED: the roster itself, the SECOND STAFF grade, the certification the camp required, and the closing drug-safety rule. WHAT IS EMBARGOED IS THE JUDGEMENTS. Keeping the names open and the judgements closed is the whole point of the arrangement: a reader can learn who ran the camp in 1979 without learning what one man privately thought of another's temperament.",
+      "sources": [
+        "src_ymf_1979_les_voyageurs_de_la_verendrye_report"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.51",
+      "added_by": "ralph_loop",
+      "publication": {
+        "status": "embargoed",
+        "register_id": "r_0005",
+        "review_on": "2060-01-01",
+        "basis": "later of record date + 75 and estimated birth + 100",
+        "why": "Detailed end-of-season judgements of four seasonal staff who were private individuals in their late teens and early twenties in 1979, covering temperament, burnout and conduct as well as skills. Held in the knowledge base and written into the article behind a marker; withheld from any published surface, where it would attach a workplace assessment to a searchable name of someone likely still living."
       }
     }
   ]
