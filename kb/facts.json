@@ -1,8 +1,8 @@
 {
-  "version": "8.70",
-  "kb_version": "8.70",
+  "version": "8.71",
+  "kb_version": "8.71",
   "migrated_from": "3.3",
-  "fact_count": 5195,
+  "fact_count": 5196,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93671,6 +93671,24 @@
       "conflicts_with": [],
       "added_version": "8.70",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5234",
+      "category": "method",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Canadian Camping Association",
+        "Robert E. Wilkinson",
+        "Kamp Kanawana"
+      ],
+      "claim": "TENTH CUT UNDER p_452, AND THE FIRST SINCE THE SPINOUT RULE WAS WRITTEN DOWN. connections/institutional-lineage/cca-director-certification.md, 'Certifying the Camp Director', 2,854 words, draft. 1,861 CONTIGUOUS WORDS moved out of 'What the association did, and what it chose not to regulate' -- the subsection the eighth cut had left honestly named but still more than one subject. THE ARC THAT CAME OUT IS ONE STORY: the association's Winter 1982 editorial calling it a scandal that 'just about anyone is allowed to direct a camp and care for other people's children'; the two letters that answered it the following spring, Ron Johnstone of Camp Tawingo against on the ground that camping means different things in different provinces and Lorne Bowering of British Columbia qualifiedly for but doubting the machinery; the Education Committee's research programme that replaced certification; the February 1981 specification of what a camp staff manual should contain; and Robert E. Wilkinson's Camps, Their Planning and Management (Toronto, 1981), the first Canadian textbook of camp administration, by a McGill professor who held his national membership THROUGH KANAWANA'S OWN PROVINCIAL ASSOCIATION. MECHANICS, ALL OF THEM THINGS THE RULE WARNS ABOUT AND ALL CHECKED: destination checked first -- 'certify' occurs in no other article in the wiki, so this was a spinout and not a duplicate; labels 8ar..8at and 8an..8aq remapped to 1-7 in order of first appearance and their entries written out in full; 8an, 8ao, 8ap, 8aq and 8as were left with ZERO citations in the parent and their entries removed, while 8ar and 8at are still cited three times each and stay; ONE BACK-REFERENCE BROKE ON THE MOVE and was rewritten -- 'the fourth McGill connection this article records' was true of the parent and false of the child; the file was REGISTERED IN articles.json, which f_5125 established is the check every per-article test depends on; prose_dupes.py run after the cut reports nothing involving the new article, so no duplication was manufactured. PARENT 23,454 -> 21,483 words, from 36,649 when p_452 began. Its 'Kanawana's Place in the Movement' container is 13,122 -> 11,400.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.71",
+      "added_by": "manual"
     }
   ]
 }

@@ -514,6 +514,7 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 
 ## Related Articles
 
+- [[connections/institutional-lineage/cca-director-certification|Certifying the Camp Director]] — nobody had to hold anything to direct a camp, and the associations decided in 1982 to keep it that way
 - [[history/timeline-overview|Timeline Overview: Camp Kanawana Decade by Decade]]
 - [[people/nelson-mcewen|Nelson McEwen]]
 - [[people/howie-langille|Howie Langille]]

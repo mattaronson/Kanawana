@@ -1856,10 +1856,11 @@
         "traditions-and-culture",
         "wartime-kanawana",
         "maureen-mcbride",
-        "hay-finlay"
+        "hay-finlay",
+        "cca-director-certification"
       ],
       "file_id": null,
-      "word_count": 24869,
+      "word_count": 24895,
       "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article. | 2026-07-11: Added wiki-links to Gary White, David Leduc, Kate Taylor, Marie-Pierre Lacasse table rows and Related Articles, pointing to new standalone institutional-role-director articles. | 2026-07-11: Added wiki-links to Greig Macdiarmid, Francois Dauphin, Nicolas Garcia, Morgan Carter, Arleen Boyer, Justin Caldwell (Two-Tier Era + Staff by Era tables) and Matt/Dan Aronson (Related Articles), per the operator's revised C5 policy.",
       "tags": {
         "era": [
@@ -2714,10 +2715,11 @@
         "quebec-camping-association",
         "hay-finlay",
         "cca-national-office",
-        "cca-statistics"
+        "cca-statistics",
+        "cca-director-certification"
       ],
       "file_id": null,
-      "word_count": 23454,
+      "word_count": 21483,
       "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -2774,10 +2776,11 @@
         "association-founding-dates",
         "sources-index",
         "a-ross-seaman",
-        "cca-statistics"
+        "cca-statistics",
+        "cca-director-certification"
       ],
       "file_id": null,
-      "word_count": 3624,
+      "word_count": 3642,
       "open_questions": 4
     },
     {
@@ -11589,12 +11592,44 @@
         "oldest-camp-question",
         "ymca-quebec-history",
         "cca-national-office",
-        "cca-statistics"
+        "cca-statistics",
+        "cca-director-certification"
       ],
       "file_id": null,
-      "word_count": 9268,
+      "word_count": 9289,
       "open_questions": 8
+    },
+    {
+      "article_id": "cca-director-certification",
+      "title": "Certifying the Camp Director",
+      "wiki_folder": "connections/institutional-lineage",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06",
+          "by": "auto",
+          "task": "WRITE",
+          "note": "Tenth cut under p_452, and the first since the rule was written down. 1,861 words moved out of 'What the association did, and what it chose not to regulate', which the eighth cut had already flagged as honestly named but still more than one subject. This is the coherent arc inside it: the association declined to certify camp directors in 1982 and produced a literature instead, including the staff-manual specification and the first Canadian textbook of camp administration, written by a McGill professor who held his membership through Kanawana's own provincial association."
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [],
+      "sources_cited": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "cross_links": [
+        "canadian-camping-movement",
+        "quebec-camping-association",
+        "cca-national-office",
+        "cca-statistics",
+        "directors-index",
+        "derek-walsh"
+      ],
+      "file_id": null,
+      "word_count": 2886,
+      "open_questions": 4
     }
   ],
-  "article_count": 114
+  "article_count": 115
 }

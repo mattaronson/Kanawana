@@ -140,6 +140,7 @@ Janet Adamson counts the association at "**nine provincial associations and six 
 
 ## Related Articles
 
+- [[connections/institutional-lineage/cca-director-certification|Certifying the Camp Director]] — what the association did with its professional-standards question in the same years
 - [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]] — the parent article
 - [[connections/institutional-lineage/quebec-camping-association|The Quebec Camping Association / Association des Camps du Québec]] — the provincial body, whose seat on the national executive this reorganisation created
 - [[connections/institutional-lineage/association-founding-dates|Founding Dates of the Camping Associations]]
