@@ -8096,13 +8096,15 @@
         "f_1060",
         "f_1061",
         "f_1151",
-        "f_1969"
+        "f_1969",
+        "f_4904"
       ],
       "sources_cited": [
         "src_1951_kamp_kanawana_history",
         "src_cbmu_history",
         "src_concordia_fonds",
-        "src_concordia_p0145_12a_finding_aid"
+        "src_concordia_p0145_12a_finding_aid",
+        "src_cache_sgw_ymca_annual_report_1991_1992"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -8112,7 +8114,7 @@
         "founding-1894"
       ],
       "file_id": null,
-      "word_count": 1024,
+      "word_count": 1300,
       "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md \"Other Notable Alumni\" section. Synthesizes existing research including myths-and-legends.md Batch 7 finding (1951 primary source naming Charlton as the person who proposed the camp name). Fixed a pre-existing link-text bug in myths-and-legends.md (text \"R.L. Charlton\" was linked to people/ralph-dawson instead of a Charlton article). Corrected a dangling source_id reference (src_concordia_fonds_12A -> src_concordia_p0145_12a_finding_aid, affecting f_1151) in kb/facts.json while preparing this article. | 2026-07-11: p_214 VERIFY -- Open Question 3 marked exhausted (5-surface Furness fleet search, zero matches).",
       "tags": {
         "era": [
@@ -9971,7 +9973,9 @@
         "f_4861",
         "f_4889",
         "f_4901",
-        "f_4902"
+        "f_4902",
+        "f_4904",
+        "f_4905"
       ],
       "sources_cited": [
         "src_camp_stephens_alumni_blog",
@@ -9989,7 +9993,8 @@
         "src_ymca_yearbook_1895",
         "src_ct_fiches_kanawana_2026",
         "src_donneesquebec_bnlq_2026",
-        "src_ymf_sgw_ymca_annual_report_1990_1991"
+        "src_ymf_sgw_ymca_annual_report_1990_1991",
+        "src_cache_sgw_ymca_annual_report_1991_1992"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -10000,7 +10005,7 @@
         "camp-otoreke"
       ],
       "file_id": null,
-      "word_count": 4162
+      "word_count": 4345
     },
     {
       "article_id": "multi-year-index",

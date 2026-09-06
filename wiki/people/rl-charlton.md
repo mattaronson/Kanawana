@@ -1,7 +1,7 @@
 # R.L. Charlton
 
-*Status: draft | Sources: 5*
-*Last Updated: 2026-08-14*
+*Status: draft | Sources: 6*
+*Last Updated: 2026-09-06*
 
 ## Overview
 
@@ -15,6 +15,28 @@ Charlton was a Montreal-based independent marine surveyor who maintained his own
 
 A 1951 primary source, "Kamp Kanawana History" (presented at a training course on June 6, 1951), states: "A great deal of thought was given to choosing a name for the camp. Mr. Charlton suggested Kanawana which was like the name of a Furness Steamer. At a later meeting the name Kanawana was adopted, which means in the Indian language lots to eat."^2 This is the only source identifying who specifically proposed the camp's name, and independently confirms the "lots to eat" translation from a primary rather than secondary account. No corroboration has been found of an actual ship named "Kanawana" in Furness Withy or Furness Bermuda Line vessel records, despite a four-surface search (two published fleet lists, a general Furness Withy history, and Lloyd's Register Foundation's digitized register collection) turning up zero matches. See [[traditions/myths-and-legends|Myths and Legends of Camp Kanawana]] for the full naming-origin discussion and search detail.
 
+## A documented seat, 1892-93
+
+The 41st Annual Report of the YMCA of Montreal, for 1891-92, prints "COMMITTEES OF THE BOARD, 1892-93",
+and under **Training Classes**:^6
+
+> "D. A. Budge, D. W. Corbett, T. D. Patton, W. H. Ball, **R. L. Charlton**."
+
+The same report's staff list gives **D. A. Budge** as General Secretary, **D. W. Corbett** as Assistant
+Secretary, **T. Duncan Patton**, and **W. H. Ball** as Physical Director.^6 So Charlton sat on an
+association board committee in **the year the camp syndicate was formed**, beside the general secretary,
+the assistant secretary who ran boys' work, the man who took out the 1891 camp, and the physical
+director who took out the 1894 one.
+
+**This answers half of Open Question 2 and not the other half.** He held a documented formal position in
+the association. **It is not a camp role**: Training Classes is not a camp committee, and nothing here
+puts him at Lac St. Joseph.
+
+**What it does change is the standing of his 1943 manuscript.** He was in the association's committee
+rooms in 1892. "Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana" is therefore a
+participant's account written fifty-one years later, not a later hand compiling from papers — which
+raises it among the things worth asking Concordia for.
+
 ## The 1943 "Early Days" Manuscript
 
 In 1943, Charlton authored "Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana," held in Concordia Archives sub-series P0145/12A.^3 ^4 This manuscript, along with W.E. Cushing's companion 1943 piece "Historical sketches — Lake St. Joseph," forms one of the two primary founding-era camp histories besides Ralph Dawson's 1933 "History of Kamp Kanawana" — see [[people/ralph-dawson|Ralph Dawson]] for the fuller founding-era documentary picture.^3 Both Charlton's and Cushing's manuscripts exist only as physical, non-digitized items in Concordia's archives (Box HA1881), limiting what can currently be extracted from them.^3
@@ -26,7 +48,7 @@ The Concordia Archives also hold undated photographs of "R. H. Dawson" (likely R
 ## Open Questions
 
 1. [New 2026-08-14, Important] Does R. L. Charlton in fact appear in Joyce Oliver's 1939–1940 "Material for Book of Remembrance and History" (Concordia sub-series 13D)? This article asserted he did, without a source; the assertion has been removed. The project is a real and promising founding-era lead whose contents have never been read.
-2. [Important] What was Charlton's specific role at Kanawana — was he a committee member, camp visitor, or held some other formal position? His YMCA and CBMU career is documented, but his direct camp involvement is inferred from the two manuscripts and the archival photograph pairing with Dawson.
+2. **[Half answered 2026-09-06 — see above.]** What was Charlton's specific role at Kanawana — was he a committee member, camp visitor, or held some other formal position? His YMCA and CBMU career is documented, and he is now documented on the association board's Training Classes committee for 1892-93; but **a camp role specifically** is still inferred from the two manuscripts and the archival photograph pairing with Dawson.
 3. [Important] The 1943 "Notes re Early Days" manuscript remains undigitized (Concordia Box HA1881); physical archive access is the only path to its full content.
 4. ~~[Nice-to-have] Can the "Furness Steamer" analogy be corroborated against actual Furness Withy or Furness Bermuda Line vessel names of the period?~~ [Exhausted 2026-07-11; count corrected 2026-08-14] A **four**-surface search (two fleet lists, a general history, Lloyd's Register Foundation's digitized collection) found zero matches — the article said "five" twice while enumerating four both times, and the KB fact lists four. Does not rule out an unindexed register year or smaller subsidiary, but remains uncorroborated.
 5. [Nice-to-have] What was Charlton's relationship to Ralph Dawson — co-leaders, committee colleagues, or fellow alumni? The only documented connection is the shared archival photo filing.
@@ -45,6 +67,7 @@ The Concordia Archives also hold undated photographs of "R. H. Dawson" (likely R
 3. Concordia Archives P0145/12A Finding Aid — Committees (Camping, Outdoor Programs) [src_concordia_p0145_12a_finding_aid].
 4. Concordia Archives — YMCA of Montreal Fonds P145 [src_concordia_fonds].
 5. Concordia Archives P0145/12A Finding Aid, photograph filing with R.H. Dawson [src_concordia_p0145_12a_finding_aid].
+6. YMCA of Montreal, **41st Annual Report, 1891-92** (published 19 May 1892) [src_cache_sgw_ymca_annual_report_1991_1992] — the staff list and "Committees of the Board, 1892-93". Cached under a filename misnumbered by a century; see [f_4901]. Read 2026-09-06 (p_253). See [f_4904].
 
 ## Research Notes
 

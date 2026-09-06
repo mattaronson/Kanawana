@@ -1,6 +1,6 @@
 # Thomas Duncan Patton (1865–1944)
 
-*Status: draft | Sources: 15*
+*Status: draft | Sources: 16*
 *Last Updated: 2026-09-06*
 
 ## Overview
@@ -128,6 +128,16 @@ them, and neither should a later pass without a document.
 last spring, our leader Mr. Patton resigned to enter the Springfield School for training secretaries.**"
 That independently puts him at Springfield from the spring of 1891 — and therefore in place for
 Naismith's first game that December, which this article had only from the American side.^15
+
+**The next year's report puts him back.** The 41st Annual Report, for 1891-92, prints **T. Duncan
+Patton** in its staff list between the assistant secretary and the physical director, and on the board's
+**Training Classes** committee for 1892-93 with Budge, Corbett, Ball and **R. L. Charlton**.^16 Read
+against the memoir — "During the vacation period of 1891 **I returned to Montreal** and took out to
+Jones' Island… the first Montreal Boys' Camp" — the sequence the documents and the memoir agree on is:
+Montreal staff to spring 1891, Springfield, back in Montreal for the 1891 vacation period and the Jones'
+Island camp, at Springfield again that December for Naismith's first game, and on the Montreal staff and
+board committee through 1892-93. **The Montreal and Springfield records are not competing claims**;
+they are a man moving between a city job and a training school.
 
 *A note on where this was hiding.* The report is cached in this repo under the filename
 `sgw-ymca-annual-report-1990-1991.txt`. Its Internet Archive identifier is misnumbered by a century, and
@@ -321,6 +331,7 @@ neither is obviously wrong.
 13. *Year Book and Official Roster of the Young Men's Christian Associations of North America*, 1893 and 1895 [src_ymca_yearbook_1893], [src_ymca_yearbook_1895]. The Canadian Northwest and Canadian West provincial committees at Winnipeg, and Richardson's signed provincial reports. See [f_4860], [f_4861].
 14. Commission de toponymie du Québec, fiche for **Île Jones** (no_seq 31476), and the *Toponymes officiels* dataset [src_ct_fiches_kanawana_2026], [src_donneesquebec_bnlq_2026]. Read 2026-09-06. The fiche's own authority for the Martin Jones etymology is Benjamin N. Wales, *Memories of old St. Andrews and historical sketches of the seigniory of Argenteuil* (Watchman Press, Lachute, 1934), which this project has not read. See [f_4889].
 15. YMCA of Montreal, **Annual Report 1890-91**, presented 28 May 1891 [src_ymf_sgw_ymca_annual_report_1990_1991] — cached under a filename misnumbered by a century; see [f_4901]. The Volunteer Camp work under Mr. Patton, and his resignation to enter the Springfield School. Read 2026-09-06 (p_253). See [f_4902].
+16. YMCA of Montreal, **41st Annual Report, 1891-92** (published 19 May 1892) [src_cache_sgw_ymca_annual_report_1991_1992] — the staff list and "Committees of the Board, 1892-93". Also cached under a filename misnumbered by a century; see [f_4901]. Read 2026-09-06 (p_253). See [f_4904], [f_4905].
 
 ## Research Notes
 

@@ -1,8 +1,8 @@
 {
-  "version": "6.55",
-  "kb_version": "6.55",
+  "version": "6.56",
+  "kb_version": "6.56",
   "migrated_from": "3.3",
-  "fact_count": 4865,
+  "fact_count": 4867,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87334,6 +87334,48 @@
       "date_ref": "1893-06",
       "conflicts_with": [],
       "added_version": "6.55",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4904",
+      "claim": "R. L. CHARLTON SAT ON THE MONTREAL YMCA BOARD'S TRAINING CLASSES COMMITTEE FOR 1892-93, WITH THE ENTIRE FOUNDING CAST. The 41st Annual Report of the YMCA of Montreal (1891-92) prints \"COMMITTEES OF THE BOARD, 1892-93\", and under TRAINING CLASSES: \"D. A. Budge, D. W. Corbett, T. D. Patton, W. H. Ball, R. L. CHARLTON.\" The same report's staff list gives D. A. BUDGE General Secretary, D. W. CORBETT Assistant Secretary, T. DUNCAN PATTON (role garbled in the OCR), and W. H. BALL Physical Director. THIS ANSWERS HALF OF rl-charlton.md's OPEN QUESTION 2, which asked whether Charlton held any formal position and noted that his camp involvement was inferred. He held a documented seat on the association's board committee structure in 1892-93 -- the year the camp syndicate was formed -- alongside the general secretary, the assistant secretary in charge of boys' work, the man who ran the 1891 camp, and the physical director who took the 1894 one out. IT DOES NOT ESTABLISH A CAMP ROLE: Training Classes is not a camp committee, and nothing here puts him at Lac St. Joseph. WHAT IT DOES CHANGE is the standing of his 1943 manuscript \"Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana\": he was in the association's committee rooms in 1892, so he wrote it as a participant fifty-one years on, not as a later compiler. That raises its value among the Concordia asks.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1991_1992"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "R. L. Charlton",
+        "D. A. Budge",
+        "D. W. Corbett",
+        "T. Duncan Patton",
+        "W. H. Ball",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1892-93",
+      "conflicts_with": [],
+      "added_version": "6.56",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4905",
+      "claim": "PATTON IS ON THE MONTREAL STAFF LIST IN 1891-92, AFTER RESIGNING FOR SPRINGFIELD, WHICH FITS HIS OWN MEMOIR. The 1890-91 report says \"Early last spring, our leader Mr. Patton resigned to enter the Springfield School\" (f_4902), yet the 41st Annual Report for 1891-92 prints T. DUNCAN PATTON in its staff list between the assistant secretary and the physical director, and on the Training Classes committee for 1892-93 (f_4904). The memoir supplies the reconciliation in its own words: \"DURING THE VACATION PERIOD OF 1891 I RETURNED TO MONTREAL and took out to Jones' Island... the first Montreal Boys' Camp\" (f_2291). So the sequence that the documents and the memoir agree on is: Montreal staff to spring 1891 -> Springfield -> back in Montreal for the 1891 vacation period and the Jones' Island camp -> at Springfield again in December 1891 for Naismith's first game -> on the Montreal staff and board committee through 1892-93. THIS BEARS ON p_286(b), the overlapping Montreal and Winnipeg date ranges in the basketball-player exhibit timeline: the Montreal end is not a competing claim, it is a man moving back and forth between a city job and a training school.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1991_1992",
+        "src_ymf_sgw_ymca_annual_report_1990_1991",
+        "src_ia_autobiographical_sketch_1919"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "T. Duncan Patton",
+        "Springfield",
+        "YMCA of Montreal",
+        "Jones' Island"
+      ],
+      "date_ref": "1891/1893",
+      "conflicts_with": [],
+      "added_version": "6.56",
       "added_by": "ralph_loop"
     }
   ]
