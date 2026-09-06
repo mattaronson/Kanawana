@@ -5644,7 +5644,9 @@
         "src_mccord_junior_league_fonds",
         "src_trent_mary_edgar_finding_aid",
         "src_ia_canadian_camping_collection",
-        "src_ia_the_lookout_1993"
+        "src_ia_the_lookout_1993",
+        "src_cache_canadiancampingmagazine_vol18no1_1965dec",
+        "src_cache_canadiancampingmagazine_vol19no1_1966dec"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -5656,7 +5658,7 @@
         "maureen-mcbride"
       ],
       "file_id": null,
-      "word_count": 6662,
+      "word_count": 6749,
       "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header, moved the c_018 and c_002 editorial-resolution narratives out of prose into a new visible Revision History section, trimmed the header's dated parenthetical. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

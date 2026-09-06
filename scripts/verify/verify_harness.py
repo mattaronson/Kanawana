@@ -202,6 +202,7 @@ for a in sorted(DRAFTS, key=lambda x: x['article_id']):
 wide = {}
 wide_a1 = {}
 wide_g = {}
+wide_d = {}
 for a in arts:
     p = article_path(a)
     if not os.path.exists(p):
@@ -230,6 +231,19 @@ for a in arts:
     mh = hdr_src_re.search(tx)
     if mh and int(mh.group(2)) != len(numbered_list) and numbered_list:
         wide_a1[a['article_id']] = (a['status'], int(mh.group(2)), len(numbered_list))
+
+    # D wide: a [src_] reference to an id that is not in sources.json. Widened
+    # 2026-09-06 (f_5120). The draft-only D had let src_kk_preparation_guide_2025
+    # sit in canadian-camping-movement.md, at E1-reviewed, for as long as the note
+    # existed -- the record is src_kk_prep_guide_2025 -- and it surfaced only
+    # because the note was carried into a NEW DRAFT during a spinout. Widening it
+    # immediately found two more, in camp-oolahwan.md, also E1-reviewed, both
+    # written from the shape of a cache filename rather than looked up. That is the
+    # same failure the earlier ids were: DO NOT DERIVE A SOURCE ID FROM A FILENAME.
+    wd = sorted(s for br in re.findall(r'\[([^\]]*src_[^\]]*)\]', tx)
+                for s in srcref_re.findall(br) if s not in SRC_IDS)
+    if wd:
+        wide_d[a['article_id']] = (a['status'], sorted(set(wd)))
 
 clean = [k for k, v in report.items() if not v]
 dirty = {k: v for k, v in report.items() if v}
@@ -271,6 +285,15 @@ if not wide_a1:
 for k in sorted(wide_a1):
     st, hdr, n = wide_a1[k]
     print('    %-32s [%s] header says %d, %d entries present' % (k, st, hdr, n))
+
+print('\n' + '=' * 70)
+print('WHOLE-WIKI: [src_] refs that are not source ids (%d article(s), all statuses)' % len(wide_d))
+print('=' * 70)
+if not wide_d:
+    print('    none')
+for k in sorted(wide_d):
+    st, bad = wide_d[k]
+    print('    %-32s [%s] not in sources.json: %s' % (k, st, bad))
 
 print('\n' + '=' * 70)
 print('WHOLE-WIKI: duplicate or missing source NUMBERS (%d article(s), all statuses)' % len(wide_g))
@@ -552,7 +575,7 @@ if m_unreadable:
 # out to have no sys.exit at all: it reported everything and always exited 0,
 # so nothing it found could ever fail a build.
 #
-# BLOCKING: A1, A2, B, D, E, F, G on drafts, and all three whole-wiki passes.
+# BLOCKING: A1, A2, B, D, E, F, G on drafts, and all four whole-wiki passes.
 # These are integrity failures -- a marker that resolves nowhere, a source id
 # that is not a source, a header that miscounts its own list.
 #
@@ -565,15 +588,15 @@ if m_unreadable:
 BLOCKING_CLASSES = {'A1', 'A2', 'B', 'D', 'E', 'F', 'G'}
 _blocking = sorted({k for v in dirty.values() for i in v
                     if (k := i.split(':')[0]) in BLOCKING_CLASSES})
-_wide = len(wide) + len(wide_a1) + len(wide_g)
+_wide = len(wide) + len(wide_a1) + len(wide_g) + len(wide_d)
 
 print('\n' + '=' * 70)
 if _blocking or _wide:
     print('FAIL -- blocking issue classes present: %s' % (_blocking or 'none'))
     if _wide:
         print('       plus %d whole-wiki finding(s): %d unresolvable marker(s), '
-              '%d header mismatch(es), %d numbering break(s)'
-              % (_wide, len(wide), len(wide_a1), len(wide_g)))
+              '%d header mismatch(es), %d numbering break(s), %d dead source id(s)'
+              % (_wide, len(wide), len(wide_a1), len(wide_g), len(wide_d)))
     print('=' * 70)
     sys.exit(1)
 print('PASS -- no blocking issue class, no whole-wiki finding')
