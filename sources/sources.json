@@ -30151,7 +30151,43 @@
       "notes": "The centennial history of Union United Church, Montreal's historic Black congregation in Little Burgundy. Found 2026-09-06 while chasing Camp Macaulay out of the 1933 YMCA annual report. LENDING-RESTRICTED AND NOT READ: one line of a photo-caption list, 'Page 67. Top: Camp Macaulay. Bottom: CGIT (Canadian Girls In Training)...'. See f_5201, and note that NO SOURCE JOINS this Camp Macaulay to the YMCA's.",
       "read_state": "snippet",
       "read_state_basis": "snippet:one-line-of-a-photo-caption-list-book-lending-restricted-and-not-read"
+    },
+    {
+      "source_id": "src_financial_post_directory_of_directors_1947",
+      "type": "catalog_reference",
+      "title": "Directory of Directors (Toronto: The Financial Post, 1947)",
+      "date": "1947",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/directoryofdirec0000unse_h0p6",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-owens-day-job.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v8.48",
+      "reliability": "primary",
+      "notes": "Three scans of the 1947 edition carry the same two entries. LENDING-RESTRICTED AND NOT READ: two search highlights, reconstructed from five overlapping queries. Gives O. N. H. Owens's day job. See f_5204.",
+      "read_state": "snippet",
+      "read_state_basis": "snippet:two-entries-reconstructed-from-five-overlapping-queries-book-not-read"
+    },
+    {
+      "source_id": "src_art_index_vol_1",
+      "type": "catalog_reference",
+      "title": "Art Index, volume 1 (New York: H. W. Wilson)",
+      "date": "1933",
+      "date_precision": "approximate",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/artindex0001unse",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-owens-day-job.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v8.48",
+      "reliability": "secondary",
+      "notes": "The standard periodical index for art and architecture. LENDING-RESTRICTED AND NOT READ: one author heading, 'OWENS, Owen N. H. Incorporating a parking garage in the office building. Arch Forum 52:897-902'. It is the only source found that spells the leading given name. See f_5204.",
+      "read_state": "snippet",
+      "read_state_basis": "snippet:one-author-heading-book-lending-restricted-and-not-read"
     }
   ],
-  "source_count": 1675
+  "source_count": 1677
 }

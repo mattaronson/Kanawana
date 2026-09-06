@@ -357,6 +357,14 @@ evidence below has him Industrial Secretary in 1921 and moved to Côte St. Paul 
 fits between those two, and it says he was doing association work across the city rather than camp
 work — which is the likeliest reason the camp directorship passed to G. D. Brandon that season.
 
+**The committee chairmen were not.** That pattern is about the men who *ran* the camps. The men who
+*chaired* them came from somewhere else entirely: **O. N. H. Owens**, Chairman of the Kanawana
+Committee in the late 1930s and the namesake of the Order of Owens, was **managing director of
+Central Investment Corp. at 1240 Phillips Square**, on a board with three Birkses — the family whose
+Gerald W. Birks was the association's own president in 1922. See [[traditions/order-of-owens|The
+Order of Owens]]. Directors out of the schoolrooms, chairmen out of the counting houses, is a
+distinction worth holding onto when reading either list.
+
 **And two of them are documented in the same Montreal room.** The guide-souvenir of the *Exposition pour le bien-être des enfants* — the city's first child-welfare exhibition, held at the Manège Militaire on rue Craig in October 1912 — prints a "Programme des Amusements" committee naming both **C. B. Powter** and **D. J. Evans**, a year before Evans took charge of Kanawana's 1913 season.^40 On 9 October Powter and W. H. Smith, the music master on his own school's staff list, jointly directed the English schools' "milice et chœur". None of this is surprising, and none of it was written down anywhere in this project before.
 
 **Hay Finlay went from Kanawana's senior section to founding a camp of his own, and then to the national association.** That is the fullest career of any staff member in this table's early years, and it now has its own article: [[people/hay-finlay|Hay Finlay]]. In short — Kanawana's Senior Section Director in 1922, gymnastics and soccer coach at McGill, co-founder of **Camp Nominingue** with F. M. Van Wagner in 1924-25, and the Canadian Camping Association's **Secretary-Treasurer** by February 1949.^37 ^38 The 1921 *Year Book*'s index of employed officers, which is ordered surname-first, gives "**Finlay, Hay** … Central, Asst. Physical, **14**" — so Hay is his given name and 1914 his year of entry into Association service.^41

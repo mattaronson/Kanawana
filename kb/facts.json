@@ -1,8 +1,8 @@
 {
-  "version": "8.47",
-  "kb_version": "8.47",
+  "version": "8.48",
+  "kb_version": "8.48",
   "migrated_from": "3.3",
-  "fact_count": 5165,
+  "fact_count": 5166,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93108,6 +93108,26 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.45",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5204",
+      "category": "people",
+      "date_ref": "1930-1947",
+      "entities": [
+        "O. N. H. Owens",
+        "Norrey Owens",
+        "Camp Kanawana",
+        "Henry Birks & Sons"
+      ],
+      "claim": "O. N. H. OWENS'S DAY JOB, AND HIS FIRST NAME. traditions/order-of-owens.md gives him forty-eight years of Montreal YMCA camping service, 1929 to 1977, and NO OCCUPATION; it also flags a Library and Archives Canada First World War file for 'OWENS, OWEN NORREYS HARRINGTON' as suggestive but unproven, noting that 'no document in the digitized corpus spells his given names out'. Two do. (1) THE FINANCIAL POST'S *DIRECTORY OF DIRECTORS*, 1947, his own index entry: 'OWENS, O. N. H.; MAN. DIR. CENTRAL INVESTMENT CORP., 1240 PHILLIPS SQ., MONTREAL' -- one of the three scans of that edition prints the address as 1240 Union Ave., the same block, and PHILLIPS SQUARE IS WHERE BIRKS' FLAGSHIP STORE STANDS. The company's own entry, walked over five overlapping queries: 'Directors -- H. G. BIRKS, PRES.; V. M. BIRKS, VICE-PRES.; O. N. H. OWENS, MAN. DIR.; R. R. Johnson, G. D. BIRKS.' So he ran a Birks family investment company and sat on its board with three Birkses -- and GERALD W. BIRKS was president of the YMCA of Montreal in 1922 (people/directors-index.md). (2) THE ART INDEX gives 'OWENS, OWEN N. H. Incorporating a parking garage in the office building. Arch Forum 52:897-902' -- *Architectural Forum* vol. 52 is 1930, and this is THE ONLY SOURCE FOUND THAT SPELLS THE LEADING GIVEN NAME. The article is still cited: the Canadian Centre for Architecture's *Montreal Metropolis, 1880-1930* (1998) quotes it in both its English and French editions. WHAT IS JOINED AND WHAT IS NOT. The Directory's 'O. N. H. Owens' and the Art Index's 'Owen N. H. Owens' are joined by initials, surname, city and subject -- a Montreal investment-company managing director writing on how to put a parking garage inside an office building is a man writing about his own trade. THAT IS A STRONG READING AND NOT A DOCUMENT; nothing found names both the Central Investment post and the Architectural Forum article. The LAC file is likewise SUPPORTED, NOT PROVED: 'Owen N. H.' supplies the given name the wiki said no document spells out, and it explains the 1929 YMCA listing as 'N. H. Owens' -- a man called Owen Owens dropping the first of them. WHY IT MATTERS BEYOND ONE BIOGRAPHY. people/directors-index.md has a passage observing that the men the Montreal YMCA put in charge of its camps WERE SCHOOLMASTERS -- Spinney, Powter, Finlay, all in education. Owens chaired the Kanawana Committee in the late 1930s and was not a schoolmaster at all; he was a businessman on the board of the city's best-known retailer. The COMMITTEE CHAIRMEN and the DIRECTORS were drawn from different worlds, which is a distinction that passage does not yet make.",
+      "sources": [
+        "src_financial_post_directory_of_directors_1947",
+        "src_art_index_vol_1"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.48",
       "added_by": "manual"
     }
   ]
