@@ -15,13 +15,6 @@ Cleghorn attended Westmount High School and graduated from McGill University in 
 
 Cleghorn served as Chairman and CEO of the Royal Bank of Canada from 1994 to 2001, and subsequently as Chairman of Canadian Pacific Railway and of SNC-Lavalin.^3 He is an Officer of the Order of Canada and a Companion of the Canadian Business Hall of Fame, and served as Chancellor of Wilfrid Laurier University from 1996 to 2003.^3 ^1 Cleghorn chaired the Montreal YMCA and was named an Officer of YMCA Canada's Fellowship of Honour, confirming institutional ties to the organization well beyond his own camp years.^1
 
-## Open Questions
-
-1. [New 2026-08-28, Nice-to-have] Is the **"Ian Cleghorn"** named on Kanawana's "Sailing Staff of 85" plaque (f_1685, nicknamed "Mau-Mau") a son of John Cleghorn? This article records that he "took his own children on canoe trips there every summer," and a child of a man born in 1941 would be about staffing age in 1985. The surname is uncommon but not unique and no source names his children, so this is a lead only. Resolvable by any source naming Cleghorn's children.
-
-2. [Nice-to-have, partly answered 2026-08-28] Which years did Cleghorn attend Kanawana? **1956 is now documented** — he is named on that year's Rangers plaque (f_1670). The surrounding years remain unknown; the album holds Rangers plaques for 1955, 1959, 1960, 1961, 1962, 1963 and 1964, and he is on none of them, which is weak evidence he attended only briefly but is not conclusive, since not every year's board survives.
-3. [Nice-to-have] What prompted Cleghorn's continued canoe-tripping tradition at Kanawana with his own children, and over what span of years did it occur?
-
 ## The Massé Award, 1996, and a counsellor year
 
 The Montreal YMCA's 1996 annual report adds two things. **He was a counsellor, not only a camper**: "John's early experience with the YMCA was **first as a camper and later as counselor at Kamp Kanawana**."^7 This article had carried him as a camper.
@@ -29,6 +22,13 @@ The Montreal YMCA's 1996 annual report adds two things. **He was a counsellor, n
 And it records an award this project did not have. At the **Heritage Club's 13th annual banquet on 22 April 1996** — the club then comprising "over one hundred members" and existing so the association could "pay tribute to those individuals who have made an important contribution to the development of the Association" — Cleghorn was **the honouree and recipient of the Gabrielle and Maurice Massé Award**, "in recognition of the leadership he provided as Chairman of the Montreal YMCA during a particularly tumultuous time in its history and the important role he played during the Foundation's last capital campaign."^7 **"Several Kanawana alumni were present at the banquet and the years have not hindered the lively spirit of the former campers and staff."**
 
 **What the report does not say** is which years he was a camper or a counsellor, what the "tumultuous time" was, or who Gabrielle and Maurice Massé were. None of the three appears elsewhere in this project.
+
+## Open Questions
+
+1. [New 2026-08-28, Nice-to-have] Is the **"Ian Cleghorn"** named on Kanawana's "Sailing Staff of 85" plaque (f_1685, nicknamed "Mau-Mau") a son of John Cleghorn? This article records that he "took his own children on canoe trips there every summer," and a child of a man born in 1941 would be about staffing age in 1985. The surname is uncommon but not unique and no source names his children, so this is a lead only. Resolvable by any source naming Cleghorn's children.
+
+2. [Nice-to-have, partly answered 2026-08-28] Which years did Cleghorn attend Kanawana? **1956 is now documented** — he is named on that year's Rangers plaque (f_1670). The surrounding years remain unknown; the album holds Rangers plaques for 1955, 1959, 1960, 1961, 1962, 1963 and 1964, and he is on none of them, which is weak evidence he attended only briefly but is not conclusive, since not every year's board survives.
+3. [Nice-to-have] What prompted Cleghorn's continued canoe-tripping tradition at Kanawana with his own children, and over what span of years did it occur?
 
 ## Related Articles
 

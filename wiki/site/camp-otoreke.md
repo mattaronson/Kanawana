@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 47*
+*Status: E1-reviewed | Sources: 49*
 *Last Updated: 2026-09-06 (the camp's 1956 purchase of ninety mainland acres, the first acreage figure this article has had)*
 
 ## Overview
@@ -194,6 +194,48 @@ Camp Otoreke remained an active YMCA facility through the mid-twentieth century.
 The Concordia Archives hold dedicated Camp Otoreke records in sub-series P0145/12C, including situation reports (1977-1980) that profiled Otoreke alongside Kanawana and Camp Weredale as part of the YMCA's camping operations.^4 The sub-series is organized into seven sub-sub-series: 12C01 (General administration), 12C02 (Financial administration), 12C03 (Land/facilities/equipment/supplies), 12C04 (Communications), 12C05 (Staff/counsellors), 12C06 (Campers), 12C07 (Program).^4 The finding aid confirms the *existence*, though not the online content, of 1982 revenue/expenditure and tax-status records within 12C02 -- suggesting the closure year's finances were documented, though only a physical archive visit can retrieve them.^4
 
 Two cataloguing ambiguities surfaced in 2026-07-09 research, both unresolved without a physical visit: (1) two separate 1967 catalog entries — "Report of the Boys' and Girls' Camping Committee to the Metropolitan Planning and Development Committee of the YMCA of Montreal" (Box HA1881) and "Camp Otoreke report — Planning and Development" (Box HA2367) — may be the same document cross-referenced or two distinct related documents; (2) W.E. Cushing's 1943 manuscript appears under two variant titles/locations, "Early Days at Lake St. Joseph" (Box HA1881) and the previously-cited "Historical sketches — Lake St. Joseph" (Box HA2307) — possibly the same manuscript catalogued twice, or two distinct short pieces.^4
+
+### Four seasons between the wars, and the association dating its own camp to about 1891
+
+The annual reports give figures for this camp only in patches, and four of them had not been read.
+Summer 1930: "the attendance of young men at Camp Otoreke totalled **159**, which was a decrease of
+**46** over the previous year" — so 1929 was 205.^48 Summer 1940: "Camp Otoreke at Lake St. Joseph
+continued its progress of recent years with a **30% increase in attendance**, although the **N.P.A.M.
+camps** caused a drop in attendance of young men during the month of August. Aggregate attendance was
+**645 camp-weeks**."^48 N.P.A.M. is the Non-Permanent Active Militia, so this is the second war pulling
+young men out of the men's camp in August, as enlistment did in 1918. Summer 1941, from the
+statistical summary: "Kanawana for boys 322; **Otoreke for young people 454**; City Day Camps
+1,489"^48 — **Otoreke was the larger of the two residential camps that summer**.
+
+The 1941 volume also records a **Christian Emphasis conference held at Otoreke in September**, with
+representatives from seven Branches and Professor **J. O. Watts of Queen's University** as guest
+leader — off-season conference use of the site, twenty years before the ski lodge review describes
+the same pattern.^48
+
+**And the 1931 report dates the camp to about 1891.** Its programme, it says, "was carried through
+along lines which have been followed during the **forty years of its history**."^48 Forty years back
+from 1930 is 1890 or 1891, earlier than anything else here: the association's own records put
+Cushing's trip in 1892, an exploration in 1893, and Camp Jubilee in 1894, while its 114th annual
+report says the site "has been owned by the YMCA since 1893." So the institution's retrospective
+self-datings drift — about 1891 in 1931, 1893 in 1965, against a documented 1894. That is a reason to
+trust the 1893 cluster discussed above **less**, not more: these are round numbers in annual-report
+prose, not records.
+
+### 1969: families from Petite-Bourgogne, and a French column that says more than its English
+
+The subsidised family holiday that the 1976-77 report describes was running at least seven years
+earlier. The 1969 annual report, English column: "**Low-income families from inner city** accommodated
+for **two-week stays** at Camp Otoreke. Most of the children and many of the parents **had never
+before had an out-of-town vacation**."^49
+
+The French column of the same item names what the English leaves general: "Plusieurs familles du
+secteur défavorisé de **la Petite Bourgogne** ont bénéficié de vacances au Camp Otoreke ... plusieurs
+parents et presque tous les enfants **n'avaient jamais vu la campagne** ou passé des vacances en
+famille."^49 A named Montreal neighbourhood where the English has "inner city," and "had never seen
+the countryside" where the English has "never had an out-of-town vacation." Worth stating as a working
+rule: read **both columns of a bilingual report**, and do not bother reading both **editions** of a
+translated one — see the note on the French editions in [[meta/attendance-series|the attendance
+series]].
 
 ### The McGerrigles, who ran this camp for twenty-one years
 
@@ -409,6 +451,23 @@ eventual article will have to hold onto.
 
 **None of these files has been read.** The finding aid establishes that they exist, with those titles
 and those dates. It says nothing about what is in them.
+
+**Its first season is dated, and the name is misleading.** The report for the year ending 31 March
+1942, so the winter of 1941-42: "**Otoreke Ski Lodge**: For the first time in its history, the
+Association had its own (rented) ski lodge available for the use of members throughout the winter
+season. **Situated at Piedmont**, in the heart of the finest ski-ing country in the Laurentians, the
+Chalet became a popular rendez-vous for skiers. The comfortable lounge with its roaring fireplace, the
+good food and comfortable **accommodation for 44 skiers overnight**, music during the long evenings,
+all combined to make this an ideal centre ... **Camp Otoreke Committee assumed the responsibility for
+the operation of the Ski Club**."^48
+
+So the lodge is at **Piedmont**, forty kilometres from the Otoreke islands, and carries the camp's
+name only because the Otoreke Camp Committee ran it. The 1965 report's "the Otoreke Ski Lodge on the
+mainland" is about the committee too, not the geography. One thing does not sit flush: this article
+already records that "in 1940 at Ste. Adèle, in 194[1] at Piedmont, the Otoreke Committee had rented
+houses," so "for the first time in its history" must mean something narrower than a first rental —
+a lodge run as a ski club for the membership at large rather than a house taken for a group. The
+report does not say, and the two statements are left side by side.
 
 ### The lodge itself, from a 1961 review
 
@@ -834,6 +893,8 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 45. YMCA of Montreal annual report for **1976-1977** [src_ymf_sgw_ymca_annual_report_1976_1977], the Camp Otoreke item under PARTICIPANTS. Read 2026-09-06 under p_454. See [f_5187].
 46. YMCA of Montreal annual reports for the years ending 31 March **1933**, **1938**, **1940** and **1944** [src_ymf_sgw_ymca_annual_report_1933, src_ymf_sgw_ymca_annual_report_1938, src_ymf_sgw_ymca_annual_report_1940, src_ymf_sgw_ymca_annual_report_1944] — the Camp Otoreke sections, the war-service notes and the 1933 Camp Macaulay mention. Read 2026-09-06 under p_454, hunting the two director names this article had carried only from an alumni blog. See [f_5188] and `p_456`.
 47. YMCA of Montreal annual reports for **1947** and **1950** [src_ymf_sgw_ymca_annual_report_1947, src_ymf_sgw_ymca_annual_report_1950], the staff-appointment lists. Read 2026-09-06 under p_454. See [f_5189].
+48. YMCA of Montreal annual reports for the years ending 31 March **1931**, **1941** and **1942** [src_ymf_sgw_ymca_annual_report_1931, src_ymf_sgw_ymca_annual_report_1941, src_ymf_sgw_ymca_annual_report_1942] — the Camp Otoreke paragraphs, the ski lodge item and the statistical summaries, covering the summers of 1930, 1940 and 1941. Read 2026-09-06 under p_454. See [f_5190], [f_5191].
+49. YMCA of Montreal annual report for **1969** [src_ymf_sgw_ymca_annual_report_1969], the Camp Otoreke item, **both columns** — the French names a neighbourhood the English does not. Read 2026-09-06 under p_454. See [f_5192].
 
 ## Research Notes
 

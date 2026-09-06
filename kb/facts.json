@@ -1,8 +1,8 @@
 {
-  "version": "8.38",
-  "kb_version": "8.38",
+  "version": "8.39",
+  "kb_version": "8.39",
   "migrated_from": "3.3",
-  "fact_count": 5151,
+  "fact_count": 5154,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -92852,6 +92852,62 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.37",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5190",
+      "category": "operations",
+      "date_ref": "1930-1941",
+      "entities": [
+        "Camp Otoreke",
+        "YMCA of Montreal"
+      ],
+      "claim": "FOUR OTOREKE SEASONS, AND THE ASSOCIATION DATING ITS OWN CAMP TO ABOUT 1891. (1) The report for the year ending 31 March 1931, covering summer 1930: 'THE ATTENDANCE OF YOUNG MEN AT CAMP OTOREKE TOTALLED 159 WHICH WAS A DECREASE OF 46 OVER THE PREVIOUS YEAR' -- so summer 1929 was 205, and both figures are new here. 'THE PROGRAM FOR THE YEAR WAS CARRIED THROUGH ALONG LINES WHICH HAVE BEEN FOLLOWED DURING THE FORTY YEARS OF ITS HISTORY.' (2) The report for the year ending 31 March 1941, covering summer 1940: 'Camp Otoreke at Lake St. Joseph continued its progress of recent years with a 30% INCREASE IN ATTENDANCE, although the N.P.A.M. CAMPS caused a drop in attendance of young men during the month of August. AGGREGATE ATTENDANCE WAS 645 CAMP-WEEKS.' N.P.A.M. is the Non-Permanent Active Militia; this is the SECOND WAR pulling young men out of the men's camp in August, as enlistment did in 1918 (f_5177). The same volume records a CHRISTIAN EMPHASIS CONFERENCE held at Otoreke in September, with representatives from seven Branches and Professor J. O. WATTS of Queen's University as guest leader. (3) The report for the year ending 31 March 1942, summer 1941, statistical summary: 'Kanawana for boys 322; OTOREKE FOR YOUNG PEOPLE 454; City Day Camps 1,489' -- the 322 already sits in meta/attendance-series.md, the 454 is new, AND OTOREKE IS THE LARGER OF THE TWO RESIDENTIAL CAMPS THAT SUMMER. THE 'FORTY YEARS' IS THE INTERESTING PART. Forty years back from 1930 is about 1890-91, which is earlier than every date this project holds: the association's own records put Cushing's trip in 1892, an exploration in 1893 and Camp Jubilee in 1894, while its 114th annual report of 1965-66 says the site 'has been owned by the YMCA since 1893' (f_5185). SO THE INSTITUTION'S OWN RETROSPECTIVE SELF-DATINGS DRIFT: about 1891 in 1931, 1893 in 1965, against a documented 1894. That weakens the argument from the 1893 secondary cluster rather than strengthening it -- these are round numbers in annual-report prose, not records.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1931",
+        "src_ymf_sgw_ymca_annual_report_1941",
+        "src_ymf_sgw_ymca_annual_report_1942"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.39",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5191",
+      "category": "site",
+      "date_ref": "1941",
+      "entities": [
+        "Camp Otoreke",
+        "Otoreke Ski Lodge",
+        "Piedmont",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE SKI LODGE'S FIRST SEASON, DATED AND DESCRIBED BY THE ASSOCIATION. The report for the year ending 31 March 1942, so the winter of 1941-42: 'OTOREKE SKI LODGE: FOR THE FIRST TIME IN ITS HISTORY, THE ASSOCIATION HAD ITS OWN (RENTED) SKI LODGE available for the use of members throughout the winter season. SITUATED AT PIEDMONT, in the heart of the finest ski-ing country in the Laurentians, the Chalet became a popular rendez-vous for skiers. The comfortable lounge with its roaring fireplace, the good food and COMFORTABLE ACCOMMODATION FOR 44 SKIERS OVERNIGHT, music during the long evenings ... CAMP OTOREKE COMMITTEE ASSUMED THE RESPONSIBILITY FOR THE OPERATION OF THE SKI CLUB.' THREE THINGS. (1) A capacity figure -- 44 overnight -- for a building site/camp-otoreke.md covers at length from a 1961 review but not at its start. (2) IT EXPLAINS THE NAME: the lodge is at PIEDMONT, forty kilometres from the Otoreke islands, and carries the name only because the OTOREKE CAMP COMMITTEE ran it. Anyone reading 'Otoreke Ski Lodge' as a building at Otoreke is reading it wrong, and the article's later phrase 'the Otoreke Ski Lodge on the mainland' (1965, f_5185) is likewise about the committee, not the geography. (3) IT SITS AWKWARDLY WITH WHAT THE ARTICLE ALREADY SAYS. site/camp-otoreke.md records that 'in 1940 at Ste. Adele, in 194[1] at Piedmont, the Otoreke Committee had rented houses'. If houses were rented in 1940, 'for the first time in its history' in the 1942 report must mean something narrower -- a lodge run as a ski club for the membership at large, rather than a house taken for a group. The report does not say, and the two statements are recorded side by side rather than reconciled.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1942"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.39",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5192",
+      "category": "operations",
+      "date_ref": "1969",
+      "entities": [
+        "Camp Otoreke",
+        "Petite-Bourgogne",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE LOW-INCOME FAMILY PROGRAMME AT OTOREKE IS SEVEN YEARS OLDER THAN THE PROJECT THOUGHT, AND THE FRENCH COLUMN NAMES THE NEIGHBOURHOOD THE ENGLISH DOES NOT. The 1969 annual report, English column: 'LOW-INCOME FAMILIES FROM INNER CITY accommodated for TWO-WEEK STAYS at Camp Otoreke. Most of the children and many of the parents HAD NEVER BEFORE HAD AN OUT-OF-TOWN VACATION.' French column, same item: 'Plusieurs familles du secteur defavorise de LA PETITE BOURGOGNE ont beneficie de vacances au Camp Otoreke. Parmi les familles qui ont profite de ces sejours de deux semaines, plusieurs parents et presque tous les enfants N'AVAIENT JAMAIS VU LA CAMPAGNE ou passe des vacances en famille.' TWO GAINS. (1) f_5187 has this programme running in 1976-77 with over 450 people and four outside funders, and site/camp-otoreke.md had nothing earlier; this pushes it back to 1969 and shows it was not a late-period improvisation. (2) THE FRENCH COLUMN CARRIES A FACT THE ENGLISH DOES NOT -- 'inner city' versus LA PETITE BOURGOGNE, a named Montreal neighbourhood, and 'never had an out-of-town vacation' versus 'n'avaient jamais vu la campagne', had never seen the countryside. THIS IS NOT A COUNTEREXAMPLE TO f_5184, which found the separate FRENCH EDITIONS to be straight translations: this is a bilingual two-column report, the same form as f_5104 and f_5110, and it is exactly the form in which the two columns have been found to diverge. THE RULE THAT FOLLOWS: read both columns of a bilingual report; do not read both editions of a translated one.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1969"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.39",
       "added_by": "manual"
     }
   ]

@@ -20479,12 +20479,12 @@
       "cache_path": "sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-1931.txt",
       "char_count": 69931,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
-      "extraction_version": "v5.60",
+      "extracted": true,
+      "extraction_version": "v8.39",
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. | 2026-09-06 (p_449): searched for 'nationalit' and 'racial'; the hits are Eastern Branch membership counts, not camp records (f_5069). A SEARCH, NOT A READ -- read_state unchanged.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_454: the Camp Otoreke paragraphs, the ski-lodge item, the Christian Emphasis conference note and the statistical summaries read (f_5190, f_5191, f_5192). THE REST OF THE VOLUME IS NOT READ."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1932",
@@ -20587,12 +20587,12 @@
       "cache_path": "sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-1941.txt",
       "char_count": 52711,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
-      "extraction_version": "v5.60",
+      "extracted": true,
+      "extraction_version": "v8.39",
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_454: the Camp Otoreke paragraphs, the ski-lodge item, the Christian Emphasis conference note and the statistical summaries read (f_5190, f_5191, f_5192). THE REST OF THE VOLUME IS NOT READ."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1942",
@@ -20605,12 +20605,12 @@
       "cache_path": "sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-1942.txt",
       "char_count": 54693,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
-      "extraction_version": "v5.60",
+      "extracted": true,
+      "extraction_version": "v8.39",
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state": "partial",
+      "read_state_basis": "2026-09-06 under p_454: the Camp Otoreke paragraphs, the ski-lodge item, the Christian Emphasis conference note and the statistical summaries read (f_5190, f_5191, f_5192). THE REST OF THE VOLUME IS NOT READ."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1943",

@@ -167,6 +167,27 @@ The order overlaps in membership with [[traditions/order-of-owens|the Order of O
 
 **The roll itself.** Twenty-nine people were invested between 1980 and 2009, each named on a dining-hall board with their year and the title Sir or Lady. This wiki recorded three of them until the [[meta/plaque-audit|plaque audit]] of August 2026 recovered the full list. The roll, the cross-references it opens up, and what its considerable gaps might mean are set out in **[[traditions/knights-of-kanawana|The Order of the Knights of Kanawana]]**.
 
+## "We are all Kanawanians": a counsellor's account, 2004-05
+
+The YMCA of Greater Montreal's annual report for 2004-2005 profiles **Ayunda Dube**, and it is the
+only first-person account of arriving at Kanawana as a counsellor that this project holds from any
+year. A native of **Zimbabwe**, he came to Montreal as a refugee at nineteen and found "his first
+home away from home and contacts at the Downtown YMCA"; three years later he was asked to become a
+counsellor at the camp and agreed "without hesitation".^38
+
+What he says about the first day is the part worth keeping, because the camp's own literature never
+puts it this way. **"After having said 'yes', I was scared — scared of being the only black guy at
+the camp — and of not being accepted by the other counsellors."** He had never been to a summer
+camp. On the first day the fear "was immediately dispelled": the counsellors "came from all over in
+the world. There were no racial or cultural distinctions in the group. **At Kanawana, the only
+culture that exists is the camp culture. We are all Kanawanians.**"^38
+
+**Two cautions.** This is a testimonial published by the association in its own annual report, so it
+is the camp describing itself through someone it chose to profile, and it reads as such. And it is
+one person's account of one year, which is what makes it valuable and also what limits it: nothing
+here says the counsellor body was as diverse in any other season, and this project has no other
+account to set beside it.
+
 ## Images
 
 ![The Order of the Knights of Kanawana, 1981](../../assets/images/art/knights-of-kanawana-charter.jpg)
@@ -216,27 +237,6 @@ for **Kamp Kabaret** — an evening of songs, skits and laughs", an off-season r
 And "**Kanapalooza** was another first for the camp that could well become an annual event.
 **Monitors past and present staged a benefit concert at Club Soda and raised $2,000** for Kamp
 Kanawana."^40 Whether either was ever held again is not known here.
-
-## "We are all Kanawanians": a counsellor's account, 2004-05
-
-The YMCA of Greater Montreal's annual report for 2004-2005 profiles **Ayunda Dube**, and it is the
-only first-person account of arriving at Kanawana as a counsellor that this project holds from any
-year. A native of **Zimbabwe**, he came to Montreal as a refugee at nineteen and found "his first
-home away from home and contacts at the Downtown YMCA"; three years later he was asked to become a
-counsellor at the camp and agreed "without hesitation".^38
-
-What he says about the first day is the part worth keeping, because the camp's own literature never
-puts it this way. **"After having said 'yes', I was scared — scared of being the only black guy at
-the camp — and of not being accepted by the other counsellors."** He had never been to a summer
-camp. On the first day the fear "was immediately dispelled": the counsellors "came from all over in
-the world. There were no racial or cultural distinctions in the group. **At Kanawana, the only
-culture that exists is the camp culture. We are all Kanawanians.**"^38
-
-**Two cautions.** This is a testimonial published by the association in its own annual report, so it
-is the camp describing itself through someone it chose to profile, and it reads as such. And it is
-one person's account of one year, which is what makes it valuable and also what limits it: nothing
-here says the counsellor body was as diverse in any other season, and this project has no other
-account to set beside it.
 
 ## Related Articles
 
