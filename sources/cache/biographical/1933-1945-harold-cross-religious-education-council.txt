@@ -104,6 +104,25 @@ TWO OTHER CROSS ITEMS FOUND IN THE SAME SWEEP, NEITHER READ
 
 BOTH ARE LENDING-RESTRICTED AND WERE NOT OPENED. They are the obvious next reads on Cross.
 
+AND NOBODY ELSE FROM THIS PROJECT IS IN THE SERIES
+---------------------------------------------------
+Having read five volumes for Cross, the obvious next move was to ask whether the series carries
+anyone else. Forty-four surnames from `wiki/people/directors-index.md` — Seaman, Ereaux,
+Netherwood, Langille, Macdiarmid, Cornell, Spinney, Dawson, Lummis, Cleghorn, Patten, Goddard,
+Twynam, Robitaille, Hanagan, Bradford, Powter, Holliday, Brandon, Paterson, Patton, Chapman,
+Merritt, Budge, Calhoun, Abraham, Cowan, Crawford, Finlay, Charlton, Ball, Cushing, Ellis and the
+rest — were run across all five volumes, restricted to passages within a dozen lines of "Quebec"
+or "Montreal".
+
+THE RESULT IS A CLEAN NULL. The only matches are Mrs. Ella B. Patten of Covina, California, a
+Pacific Coast member of an unrelated board, in two volumes. No Kanawana figure other than Cross
+appears in the Quebec or Montreal sections of this series.
+
+That is worth having. It means the International Council of Religious Education Yearbooks are now
+worked out for this project: they gave one man twelve years of career and they have nothing else
+to give. (The obvious caveats: only the five downloaded volumes were searched, only near Quebec
+and Montreal, and surname matching will miss anyone the OCR mangled.)
+
 QUERIES RUN: '"Harold C. Cross"' with paging (total 20, one page, 20 distinct items);
 archive.org/metadata on six of them; full djvu download and a /Harold C\. Cross/ scan of the five
 unrestricted Yearbook volumes; title-page year scans on each.
