@@ -1,8 +1,8 @@
 {
-  "version": "8.34",
-  "kb_version": "8.34",
+  "version": "8.35",
+  "kb_version": "8.35",
   "migrated_from": "3.3",
-  "fact_count": 5145,
+  "fact_count": 5146,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -92711,7 +92711,7 @@
         "YMCA of Montreal",
         "BUNAC"
       ],
-      "claim": "THE SOURCE OF THE 99.2% OCCUPANCY FIGURE, AND THREE PROBLEMS WITH THE ROW IT SITS IN. The YMCA of Montreal annual report FOR THE YEAR ENDED 31 MAY 1988, under 'KAMP KANAWANA: NON NOBIS SOLUM': 'Kamp Kanawana, the YMCA's summer residential camp at Saint-Sauveur-des-Monts COMPLETED ITS 94TH YEAR OF OPERATION THIS PAST SUMMER with a 99.2% OCCUPANCY RATE. This represents the USE OF 750 OUT OF THE 756 CAMPER WEEKS AVAILABLE. The camp provides a unique mix of programs dedicated to fun, development and appreciation of nature for children and youth, AGED 7 TO 15.' meta/attendance-series.md has carried '750 of 756 available = 99.2% occupancy' at 1988 with no citation; this is where it comes from. THREE PROBLEMS, none of them resolvable from this document. (1) THE UNIT IS NOT THE COLUMN'S UNIT. The row sits in the camper-weeks column directly beneath 1,214, 1,400 and 1,412 camper-weeks for 1985, 1986 and 1987 (f_4844, from the camp's own 1987 director's report). 750 is smaller than any of them and a reader will take it as a collapse. It cannot be the same measure: 756 is the whole capacity here, and 1,412 exceeds it. (2) THE SEASON IS AMBIGUOUS. The fiscal year ends 31 May 1988, so 'this past summer' at the time of the events covered is 1987 -- but annual reports are written after their year-end and routinely describe the following summer. (3) THE 94TH-YEAR COUNT DOES NOT SETTLE IT and this project already knows the camp's self-counting is unreliable: on 1894 as year one the 94th year is 1987, but the same camp's director called 1993 'the 99th summer' (f_5008), which needs 1895 as year one. IF THE PASSAGE IS ABOUT SUMMER 1987 IT SITS BESIDE THE DIRECTOR'S OWN 93% FOR THAT SEASON, which is why this is logged as c_067 rather than corrected. THE SAME PASSAGE ALSO GIVES: the camp's age range as 7 to 15; 20 children with special needs supported through linkages with the MONTREAL SCHOOL FOR THE DEAF, JEWISH FAMILY SERVICES, VILLE MARIE SOCIAL SERVICES and Social Welfare, with specialized staff, 'while fully participating in the challenges of the regular camp program'; campers from Quebec, the rest of Canada and SEVEN OTHER COUNTRIES; and 'the SECOND YEAR of an exchange with the Bunac Camp of Great Britain which provided us with 4 highly-qualified counselors' -- which corroborates the camp's own 1987 report that BUNAC was used 'for the first time last summer' and gives the same count of four.",
+      "claim": "THE SOURCE OF THE 99.2% OCCUPANCY FIGURE, AND THREE PROBLEMS WITH THE ROW IT SITS IN. The YMCA of Montreal annual report FOR THE YEAR ENDED 31 MAY 1988, under 'KAMP KANAWANA: NON NOBIS SOLUM': 'Kamp Kanawana, the YMCA's summer residential camp at Saint-Sauveur-des-Monts COMPLETED ITS 94TH YEAR OF OPERATION THIS PAST SUMMER with a 99.2% OCCUPANCY RATE. This represents the USE OF 750 OUT OF THE 756 CAMPER WEEKS AVAILABLE. The camp provides a unique mix of programs dedicated to fun, development and appreciation of nature for children and youth, AGED 7 TO 15.' meta/attendance-series.md has carried '750 of 756 available = 99.2% occupancy' at 1988 with no citation; this is where it comes from. THREE PROBLEMS, none of them resolvable from this document. (1) THE UNIT IS NOT THE COLUMN'S UNIT. The row sits in the camper-weeks column directly beneath 1,214, 1,400 and 1,412 camper-weeks for 1985, 1986 and 1987 (f_4844, from the camp's own 1987 director's report). 750 is smaller than any of them and a reader will take it as a collapse. It cannot be the same measure: 756 is the whole capacity here, and 1,412 exceeds it. (2) THE SEASON IS AMBIGUOUS. The fiscal year ends 31 May 1988, so 'this past summer' at the time of the events covered is 1987 -- but annual reports are written after their year-end and routinely describe the following summer. (3) THE 94TH-YEAR COUNT DOES NOT SETTLE IT and this project already knows the camp's self-counting is unreliable: on 1894 as year one the 94th year is 1987, but the same camp's director called 1993 'the 99th summer' (f_5008), which needs 1895 as year one. IF THE PASSAGE IS ABOUT SUMMER 1987 IT SITS BESIDE THE DIRECTOR'S OWN 93% FOR THAT SEASON, which is why this is logged as c_067 rather than corrected. THE SAME PASSAGE ALSO GIVES: the camp's age range as 7 to 15; 20 children with special needs supported through linkages with the MONTREAL SCHOOL FOR THE DEAF, JEWISH FAMILY SERVICES, VILLE MARIE SOCIAL SERVICES and Social Welfare [the French edition of the same report names the first of these precisely, as 'l'Ecole orale de Montreal pour les sourds' -- the MONTREAL ORAL SCHOOL FOR THE DEAF; see f_5184], with specialized staff, 'while fully participating in the challenges of the regular camp program'; campers from Quebec, the rest of Canada and SEVEN OTHER COUNTRIES; and 'the SECOND YEAR of an exchange with the Bunac Camp of Great Britain which provided us with 4 highly-qualified counselors' -- which corroborates the camp's own 1987 report that BUNAC was used 'for the first time last summer' and gives the same count of four.",
       "sources": [
         "src_ymf_sgw_ymca_annual_report_1988"
       ],
@@ -92738,6 +92738,25 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.34",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5184",
+      "category": "method",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "YMCA of Montreal",
+        "Camp Kanawana"
+      ],
+      "claim": "THE FRENCH ANNUAL REPORTS ARE TRANSLATIONS, NOT SECOND WITNESSES -- SAMPLED, NOT ASSUMED. Sixteen French editions of YMCA of Montreal annual reports sit uncited in this project, and every one has an English twin that IS cited. Rather than read thirteen blind or dismiss them, THREE PAIRS WERE COMPARED PASSAGE BY PASSAGE: 1988, 2000-2001 and 2006. ALL THREE ARE STRAIGHT TRANSLATIONS, sentence for sentence, of the same camp text -- 1988's '99.2% occupancy ... 750 out of the 756 camper weeks available' is 'un taux d'occupation de 99,2 % ... 750 des 756 semaines-campeurs disponibles'; 2000-2001's '1,220 campers between the ages of 3 and 60 ... in our summer camp and rental programs alone' is '1 220 campeurs de 3 a [60] ans ... dans le cadre de notre camp de vacances et de notre programme de location'; 2006's 'the record number of participants at camp YMCA Kanawana' is 'record de participation au camp YMCA Kanawana'. SO WHAT THE FRENCH EDITIONS ARE WORTH IS A SECOND SCAN OF THE SAME TEXT, NOT NEW CONTENT -- and that is worth something, because THE OCR DAMAGE FALLS DIFFERENTLY IN EACH. In the 2000-2001 pair the English reads '3 and 60' cleanly where the French reads '3 a 00 ans'. In another pair it could as easily go the other way. USE THEM TO REPAIR DAMAGED NUMBERS AND NAMES IN THEIR TWINS, NOT AS INDEPENDENT SOURCES; two facts (f_5104, f_5110) that did come out of French columns came from a bilingual NEWS RELEASE and a report's French COLUMN respectively, not from a separate French edition, so they are not counterexamples. ONE REPAIR ALREADY MADE: the 1988 English names 'the Montreal School for the Deaf' among the agencies placing children with special needs at camp; the French names 'l'Ecole orale de Montreal pour les sourds' -- the MONTREAL ORAL SCHOOL FOR THE DEAF, a specific institution, where the English is a generic description. The French also gives 'le Centre de services sociaux juif a la famille' and 'le Centre de services sociaux Ville-Marie' where the English has 'Jewish Family Services' and 'Ville Marie Social Services'.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1988_fr",
+        "src_ymf_sgw_ymca_annual_report_2000_2001_fr",
+        "src_ymf_sgw_ymca_annual_report_2006_fr"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.35",
       "added_by": "manual"
     }
   ]

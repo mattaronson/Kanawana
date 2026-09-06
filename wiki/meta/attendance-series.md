@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 29*
+*Status: draft | Sources: 30*
 *Last Updated: 2026-09-06 (the 1916 fee and season, from a school magazine advertisement)*
 
 ## Overview
@@ -149,13 +149,24 @@ year. Logged as **`c_067`** and left for a human. What would settle it is the ca
 which this project does not hold, or the annual report for the year ended 31 May 1989.
 
 **What else that report says about the camp**, none of it in dispute: the age range was **7 to 15**;
-**20 children with special needs** were supported at camp through linkages with the Montreal School
-for the Deaf, Jewish Family Services, Ville Marie Social Services and Social Welfare, with specialised
+**20 children with special needs** were supported at camp through linkages with the **Montreal Oral School
+for the Deaf**, Jewish Family Services, Ville Marie Social Services and Social Welfare, with specialised
 staff, "while fully participating in the challenges of the regular camp program"; campers came from
 Quebec, the rest of Canada and **seven other countries**; and it was "the **second year** of an
 exchange with the Bunac Camp of Great Britain which provided us with **4** highly-qualified
 counselors" — which corroborates the camp's own report that BUNAC was used "for the first time last
 summer" in 1987, and gives the same count of four.^28
+
+**A note on the French editions, which are translations and not second witnesses.** Sixteen French
+editions of these reports sit in this project's cache, every one of them twinned with an English
+edition already cited here. Three pairs were compared passage by passage — 1988, 2000-2001 and 2006 —
+and all three are straight translations, sentence for sentence.^30 So they are not independent
+sources and nothing in this table should be corroborated by counting one twice. **What they are good
+for is the OCR**, which is damaged differently in each: the 2000-2001 English reads "ages of 3 and 60"
+cleanly where its French reads "3 à 00 ans," and the reverse will happen elsewhere. One repair has
+already come out of it — the 1988 English says children came to camp through "the Montreal School for
+the Deaf," a generic description, where the French names **l'École orale de Montréal pour les sourds**,
+the Montreal Oral School for the Deaf.^30
 
 **A caution on the 1997–2001 figures, and a qualification of it.** Those four-digit numbers are not comparable with the residential camper counts above them — the 1999-2000 report describes its 1,150 as ages "3–60," which means rentals and off-season use are included. The series breaks there. **But the caution is uneven across the years, because it was written from one volume and applied to all of them.** The report for the year ended 31 May 1999 introduces its own 1,500 as campers and nothing else: "Fifteen hundred **campers** came from the Montreal area last summer, but also from Africa, Asia, Europe and South America. Children from all backgrounds enjoyed an incredible **two-week camping experience**. **Fifty-two of them benefited from the financial-assistance program**."^29 That is a residential camper count in everything but name. Mixed use is real — the same page says camp facilities were also used to train counsellors and to run anti-violence programs for teenage girls — but the year with "ages 3–60" behind it and the year with that paragraph behind it should not carry the same warning without saying so. The 2022 and 2023 figures are residential camper counts again and *are* comparable with the twentieth-century rows.^3
 
@@ -382,6 +393,7 @@ Three things stand out and none of them is visible from any single article.
 27. *Montreal Men*, the YMCA of Montreal's annual report for the year ending 30 April 1919 [src_ymf_sgw_ymca_annual_report_1919_montreal_men] — the "Camps" section, covering the summer of 1918, and the recruiting page advertising the 1919 season. Read 2026-09-06 under p_454. See [f_5175], [f_5176], [f_5177].
 28. YMCA of Montreal annual report **for the year ended 31 May 1988** [src_ymf_sgw_ymca_annual_report_1988], the section headed "KAMP KANAWANA: NON NOBIS SOLUM." Read 2026-09-06 under p_454. See [f_5182] and `c_067`.
 29. YMCA of Montreal annual reports for the years ended **31 May 1998** and **31 May 1999** [src_ymf_sgw_ymca_annual_report_1998, src_ymf_sgw_ymca_annual_report_1998_1999] — the "PROGRAMS / PERSONS" table in each, and the 1999 volume's page headed "KANAWANA - THE CAMP WHERE EVERYONE IS WELCOME." Read 2026-09-06 under p_454. See [f_5183].
+30. The **French editions** of the annual reports for 1988, 2000-2001 and 2006 [src_ymf_sgw_ymca_annual_report_1988_fr, src_ymf_sgw_ymca_annual_report_2000_2001_fr, src_ymf_sgw_ymca_annual_report_2006_fr], compared passage by passage against their English twins 2026-09-06 under p_454. All three are straight translations; their value is as a second scan of the same text, since the OCR damage falls differently. See [f_5184].
 
 ## Research Notes
 

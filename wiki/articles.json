@@ -10348,7 +10348,8 @@
         "f_5176",
         "f_5177",
         "f_5182",
-        "f_5183"
+        "f_5183",
+        "f_5184"
       ],
       "sources_cited": [
         "src_flickr_kanawana_plaque_album",
@@ -10408,7 +10409,10 @@
         "src_ymf_sgw_ymca_annual_report_1919_montreal_men",
         "src_ymf_sgw_ymca_annual_report_1988",
         "src_ymf_sgw_ymca_annual_report_1998",
-        "src_ymf_sgw_ymca_annual_report_1998_1999"
+        "src_ymf_sgw_ymca_annual_report_1998_1999",
+        "src_ymf_sgw_ymca_annual_report_1988_fr",
+        "src_ymf_sgw_ymca_annual_report_2000_2001_fr",
+        "src_ymf_sgw_ymca_annual_report_2006_fr"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -10423,7 +10427,7 @@
         "cca-statistics"
       ],
       "file_id": null,
-      "word_count": 8322,
+      "word_count": 8533,
       "notes": "Created 2026-08-14 (p_256) from the 114-annual-report sweep. ~60 seasons of camper counts and camper-weeks, 1894-2023, with SIX internal inconsistencies carried as flags rather than resolved -- every one of them the association contradicting itself. Kept as a separate article so the contradictions travel with the numbers. No aggregate totals computed: too many missing years, the 1998-2001 rows count a different population, and the two documented lifetime totals (40,000 in 1964, 34,000 in 1984) contradict each other. Marked draft, not stub, because it is transcription of primary figures rather than synthesis; NOT yet VERIFY-passed -- figures should be spot-checked against the OCR before advancing."
     },
     {
