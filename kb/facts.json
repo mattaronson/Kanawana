@@ -1,8 +1,8 @@
 {
-  "version": "7.27",
-  "kb_version": "7.27",
+  "version": "7.28",
+  "kb_version": "7.28",
   "migrated_from": "3.3",
-  "fact_count": 4967,
+  "fact_count": 4968,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -89394,6 +89394,20 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.27",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5006",
+      "category": "sources",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project"
+      ],
+      "claim": "THE 'UNREAD' COUNT IS ALMOST ENTIRELY A SHADOW SET, AND THE PATTERN IS SYSTEMATIC. p_442 asked how many documents carry two source records after the 1928 Camp Dorval report was found with one record marked 'extracted' and another, pointing at the same cached text, marked 'unread'. THE ANSWER: 236 records carry the prefix src_cache_, and 69 of them have a twin elsewhere in sources.json under the same name without that prefix -- src_cache_X paired with src_X. The pattern is unmistakable: src_cache_dcb_cushing / src_dcb_cushing, src_cache_qahn_howard / src_qahn_howard, src_cache_pine_crest_book / src_pine_crest_book, and so on. IN 68 OF THE 69, THE CACHE RECORD IS MARKED 'unread' WHILE ITS TWIN IS ALREADY 'extracted' (58) OR 'skimmed' (10). WHAT THAT DOES TO THE NUMBERS: of 72 records marked 'unread' in the whole corpus, 68 ARE THESE SHADOWS OF DOCUMENTS ALREADY READ. Only FOUR unread records are unaccounted for -- src_cache_the_lookout_vol_1_no_3, src_cache_ymca_history_1873, src_cache_p0145_ymca_of_montreal_fonds_findingaid_2023_11_24, and src_ymca_yearbook_hathitrust_holdings_2026, the last of which was created today and is unread by design because HathiTrust refuses this environment. SO 'unread: 72' MEANT 'unread: 4'. WHAT IT DOES NOT EXPLAIN: the 734 records marked 'skimmed' are a different population -- the src_ymf_* fonds items carrying the blanket keyword-sweep note -- and only 10 of the twins above are among them. The skimmed problem stands as f_5001 describes it, on a per-document sample of six. WHAT WAS DELIBERATELY NOT DONE: nothing was merged. The two records in a pair may carry different provenance -- one a hand-made record written when the document was read, the other generated from the cache directory -- and the no-silent-overwrite rule applies to source records as much as to facts. The list is the output; the decision is the operator's. 16 cache PATHS are also shared by more than one record, but most of those are legitimate: a collection-level record plus item-level records pointing at one directory or one combined file.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.28",
       "added_by": "ralph_loop"
     }
   ]

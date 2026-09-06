@@ -6277,3 +6277,36 @@ each**, "many of these counselors ... old Kanawana boys", a McGill-graduate doct
 times, and a chef ten years in post cooking to a dietitian's menus.
 
 One document, from the pile that was supposed to be swept clean.
+
+### "Unread: 72" meant "unread: 4"
+
+p_442, counted. The 1928 Camp Dorval report turned out to have two source records — one carrying
+the content and marked *extracted*, one pointing at the cached text and marked *unread*, neither
+referencing the other. The question was how many others are like it.
+
+**236 records carry the `src_cache_` prefix, and 69 have a twin elsewhere under the same name
+without it.** `src_cache_dcb_cushing` / `src_dcb_cushing`. `src_cache_qahn_howard` /
+`src_qahn_howard`. `src_cache_pine_crest_book` / `src_pine_crest_book`. And so on down the list.
+
+**In 68 of the 69, the cache record is marked `unread` while its twin is already `extracted` (58)
+or `skimmed` (10).**
+
+So of 72 records marked unread in the entire corpus, **68 are shadows of documents already read**.
+Four are unaccounted for: `src_cache_the_lookout_vol_1_no_3`, `src_cache_ymca_history_1873`,
+`src_cache_p0145_ymca_of_montreal_fonds_findingaid_2023_11_24`, and
+`src_ymca_yearbook_hathitrust_holdings_2026` — the last created today and unread by design, since
+HathiTrust refuses this environment.
+
+**"Unread: 72" meant "unread: 4."** Anyone planning work off that number was planning off an
+artefact of how the records were generated.
+
+**Nothing was merged**, which is what the priority asked. The two records in a pair may carry
+different provenance — one hand-made when the document was read, the other generated from the
+cache directory — and the no-silent-overwrite rule applies to source records as much as to facts.
+The list is the output. Whether to merge, cross-reference, or simply fix the `read_state` on the
+cache copies is Matt's call.
+
+This does **not** touch the 734 `skimmed` records. Those are a different population — the
+`src_ymf_*` fonds items with the blanket keyword-sweep note — and only ten of the twins are among
+them. p_441 stands, on the six-item sample: two genuinely unread, one partly, three with stale
+labels.
