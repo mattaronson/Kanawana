@@ -1,8 +1,8 @@
 {
-  "version": "7.54",
-  "kb_version": "7.54",
+  "version": "7.55",
+  "kb_version": "7.55",
   "migrated_from": "3.3",
-  "fact_count": 5025,
+  "fact_count": 5026,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -89905,7 +89905,7 @@
         "Camp Otoreke",
         "Lake Wilson"
       ],
-      "claim": "THE CAMP AS IT SOLD ITSELF IN 1928 AND 1929, WITH THE FIGURES THAT CHANGED BETWEEN THEM. THE SITE: 'the Camp property completely surrounds two beautiful lakes, KANAWANA AND WILSON, and borders on a third, LAC BEESCIE' -- spelled 'Lac Becsie' in the 1929 issue. Fifty miles from Montreal; campers travel by C.N.R. from Tunnel Station to St. Sauveur des Monts and then five miles by road, in conducted parties leaving every Monday morning. THE PLANT: two pavilions, one for dining and one for wet-weather recreation with a large open fireplace; a Log Cabin as the Senior Section's social centre; a new Library and Museum; four diving springboards, two high and two low; a 'shoot the chutes' into the lake; an open-air Chapel; a large Council Ring; an ice house connected to the kitchen; a bakery; a hospital with doctor's quarters; a photographic dark room; two athletic fields; water from two mountain wells. THE FLOTILLA GREW FROM 36 BOATS AND CANOES IN 1928 TO 42 IN 1929. THE SECTIONS: Senior 16-18, Junior 12-15, Juvenile 10-12, 'each with its own location and Director', with six or eight boys to a tent under 'a qualified older boy or young man'. THE MONEY IS IDENTICAL IN BOTH YEARS: $8.50 per week payable in advance, rail fare $2.40 return extra, a $2.00 deposit on application, and $2.50 extra for a canoe trip. THE RULES, all three of them, under the heading that 'Kanawana is noted for its very limited number of rules': supervised swimming and boating only, absence from camp only by the Director's permission, and 'THE USE OF TOBACCO IN ANY FORM IS ABSOLUTELY PROHIBITED'. NEW FOR 1928: ARCHERY, 'introduced to Kanawana this season'; a craft department under Karl R. Perry; a new Juvenile campsite on the hillside between Museum and Senior Camp; tennis courts hoped for; and 'A GYPSY HIKE is planned TO TAKE THE PLACE OF THE OLD OTOREKE HIKE. A waggon will convey our outfit, and we will cook and sleep as we trek from lake to lake.' THAT LAST IS A DATED END POINT for a tradition named after the camp's own predecessor site. CANOE TRIPS in 1928 left Round Lake near Weir and went 'up to St. Jovite, by way of the Rouge and Devil's rivers, or make the shorter trip to Huberdeau', on three fixed dates -- 9-13 July, 30 July-3 August, 13-17 August -- with 'a ten day trip for older boys... if sufficient boys are signed up'. AND ONE LINE ABOUT WHO COULD VISIT: 'A few ladies can be accommodated overnight at a nearby farm house.'",
+      "claim": "THE CAMP AS IT SOLD ITSELF IN 1928 AND 1929, WITH THE FIGURES THAT CHANGED BETWEEN THEM. THE SITE: 'the Camp property completely surrounds two beautiful lakes, KANAWANA AND WILSON, and borders on a third, LAC BEESCIE' -- spelled 'Lac Becsie' in the 1929 issue. Fifty miles from Montreal; campers travel by C.N.R. from Tunnel Station to St. Sauveur des Monts and then five miles by road, in conducted parties leaving every Monday morning. THE PLANT: two pavilions, one for dining and one for wet-weather recreation with a large open fireplace; a Log Cabin as the Senior Section's social centre; a new Library and Museum; four diving springboards, two high and two low; a 'shoot the chutes' into the lake; an open-air Chapel; a large Council Ring; an ice house connected to the kitchen; a bakery; a hospital with doctor's quarters; a photographic dark room; two athletic fields; water from two mountain wells. THE FLOTILLA GREW FROM 36 BOATS AND CANOES IN 1928 TO 42 IN 1929. THE SECTIONS: Senior 16-18, Junior 12-15, Juvenile 10-12, 'each with its own location and Director', with six or eight boys to a tent under 'a qualified older boy or young man'. THE MONEY IS IDENTICAL IN BOTH YEARS: $8.50 per week payable in advance, rail fare $2.40 return extra, a $2.00 deposit on application, and $2.50 extra for a canoe trip. THE RULES, all three of them, under the heading that 'Kanawana is noted for its very limited number of rules': supervised swimming and boating only, absence from camp only by the Director's permission, and 'THE USE OF TOBACCO IN ANY FORM IS ABSOLUTELY PROHIBITED'. NEW FOR 1928 ACCORDING TO THE BROCHURE: ARCHERY, 'introduced to Kanawana this season' -- [CORRECTED 2026-09-06: THE ASSOCIATION'S OWN ANNUAL REPORT CONTRADICTS THIS. The report for the year ending 31 March 1928 covers the summer of 1927 and lists ARCHERY among the subjects 'in which instruction was given by the members of the staff and leaders' that season (f_5064). So either the brochure's 'introduced' means formalised or newly equipped rather than first taught, or one of the two documents is wrong. TWO OF THE CAMP'S OWN DOCUMENTS DISAGREE AND NEITHER IS PREFERRED HERE.]; a craft department under Karl R. Perry; a new Juvenile campsite on the hillside between Museum and Senior Camp; tennis courts hoped for; and 'A GYPSY HIKE is planned TO TAKE THE PLACE OF THE OLD OTOREKE HIKE. A waggon will convey our outfit, and we will cook and sleep as we trek from lake to lake.' THAT LAST IS A DATED END POINT for a tradition named after the camp's own predecessor site. CANOE TRIPS in 1928 left Round Lake near Weir and went 'up to St. Jovite, by way of the Rouge and Devil's rivers, or make the shorter trip to Huberdeau', on three fixed dates -- 9-13 July, 30 July-3 August, 13-17 August -- with 'a ten day trip for older boys... if sufficient boys are signed up'. AND ONE LINE ABOUT WHO COULD VISIT: 'A few ladies can be accommodated overnight at a nearby farm house.'",
       "sources": [
         "src_ymf_1928_come_to_kanawana_brochure",
         "src_ymf_1929_come_to_kanawana_brochure"
@@ -90593,6 +90593,28 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.54",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5064",
+      "category": "programs",
+      "date_ref": "1927",
+      "entities": [
+        "Kamp Kanawana",
+        "Fossils Club",
+        "Westmount YMCA",
+        "Protestant Orphanage",
+        "School for the Blind",
+        "George Hodge",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE 1927 SEASON AS THE ASSOCIATION REPORTED IT, INCLUDING WHO PAID FOR THE BOYS WHO COULD NOT PAY. The annual report for the year ending 31 March 1928 -- so the summer of 1927 (f_5039) -- gives the season narratively where wiki/meta/attendance-series.md already has its numbers. THE COUNT AND ITS RANKING: '329 boys, 19 tent leaders, and the staff of 13, brought our total attendance up to 361. ACCORDING TO OUR RECORDS, THIS IS THE SECOND LARGEST ATTENDANCE EVER KNOWN AT KANAWANA. This is exclusive of many week-end visitors, speakers and lecturers.' WHERE THEY CAME FROM: all eight City Branches, and from QUEBEC, FARNHAM, ORMSTOWN, THETFORD MINES, CHATEAUGUAY, LONGUEUIL AND POINTE CLAIRE -- so the camp drew from well outside Montreal. THE CAMPERSHIPS, and this is the part the project did not hold: 'THE WORK OF THE FOSSILS CLUB, A YOUNG MEN'S CLUB IN THE WESTMOUNT BRANCH, IN FINANCING CAMP SCHOLARSHIPS FOR 14 BOYS from various parts of the city, should be mentioned. THESE BOYS, WHO WOULD NOT OTHERWISE HAVE BEEN ABLE TO GET TO CAMP, WERE CHOSEN ON THE BASIS OF THEIR LEADERSHIP POSSIBILITIES and were given two weeks each at Kanawana. A group of business men members and dormitory residents of the Westmount Y.M.C.A. were responsible for making possible a two weeks' camp experience for 15 BOYS FROM THE PROTESTANT ORPHANAGE AND 2 BOYS FROM THE SCHOOL FOR THE BLIND.' Thirty-one subsidised places in one season, from two Westmount sources, with the scholarship boys selected for leadership rather than need alone. A PROGRAMME SHIFT STATED AS POLICY: 'Experiment was made last year with encouraging boys to undertake INDIVIDUAL AND GROUP PROJECTS, mostly of a constructive type. These proved most successful, in fact we would say that these were THE MOST POPULAR PART OF OUR PROGRAMME. THERE WAS LESS ATTEMPT TO ENCOURAGE THE \"CITY\" TYPE OF GAMES, AND MORE TO ENCOURAGE THE BUILDING OF NEW INTERESTS, ASSOCIATED WITH OUT-DOOR LIFE. Wherever possible, those interests which might be followed up after Camp was over, were encouraged.' OUTSIDE INSTRUCTORS: 'Representatives of the FORESTRY DEPARTMENT AT OTTAWA again spent several days in camp and gave valuable help' -- again, so 1926 too. AND A RECORD: 'Two examinations were held by MR. A. W. ROSS of the ROYAL LIFE SAVING SOCIETY, and 60 AWARDS WERE WON by our boys and leaders, INCLUDING SEVEN AWARDS OF MERIT. This we believe constitutes a record for Kanawana.' THE FULL SUBJECT LIST TAUGHT BY STAFF AND LEADERS: Rowing, Canoeing, Simple Remedies, Bandaging, Athletics, Basketry, Camp Craft, Trees, Boxing, Knot Tying, Swimming, Diving, Birds, ARCHERY, Life Saving. Chapel was every morning around the flagpole. AND OVER LABOUR DAY, a conference of representative boys of the whole Montreal association was held at Kanawana, planned and chaired by a committee of older boys who then reported back to their own Boys' Divisions; the sessions were 'What is the Y.M.C.A.?', 'Do we put the \"C\" in Y.M.C.A.?', 'How do activities develop character?' and 'Testing our activities.' The Metropolitan Boys' Work Committee had come under the chairmanship of GEORGE HODGE the previous autumn.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1928"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.55",
       "added_by": "ralph_loop"
     }
   ]

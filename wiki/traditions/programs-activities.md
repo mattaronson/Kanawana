@@ -23,6 +23,54 @@ The 1923 Gas Bag, the camp's first known in-house publication, provides a camper
 
 The Camp Leaders' Training Class, documented in the Concordia archives with evaluations and charting from 1922-1927 and 1930, represents an early formalization of the idea that camp should produce leaders, not just entertain children. This training infrastructure would later evolve into the CIT programme.
 
+### 1927: fifteen subjects, and a shift away from "city" games
+
+The association's annual report for the year ending 31 March 1928 describes the **summer of 1927**
+and gives the season's teaching in full. Instruction by staff and leaders covered **rowing,
+canoeing, simple remedies, bandaging, athletics, basketry, camp craft, trees, boxing, knot tying,
+swimming, diving, birds, archery and life saving**, with chapel every morning around the
+flagpole.^ar28
+
+**And it states a change of direction as policy.** "Experiment was made last year with encouraging
+boys to undertake **individual and group projects**, mostly of a constructive type. These proved
+most successful, in fact we would say that these were the most popular part of our programme.
+**There was less attempt to encourage the 'city' type of games, and more to encourage the building
+of new interests, associated with out-door life.** Wherever possible, those interests which might be
+followed up after Camp was over, were encouraged."^ar28
+
+Outside instructors came in: representatives of the **Forestry Department at Ottawa** "again spent
+several days in camp," so 1926 as well. And the waterfront had a record year — two examinations by
+**A. W. Ross** of the Royal Life Saving Society produced **60 awards including seven Awards of
+Merit**, "we believe… a record for Kanawana."^ar28
+
+*One contradiction between the camp's own documents, recorded rather than resolved.* The 1928
+brochure announces that "**archery** will be introduced to Kanawana this season," but archery is
+already on this 1927 subject list.^ar28 Either "introduced" means formalised or newly equipped
+rather than first taught, or one of the two documents is wrong. Neither is preferred here.
+
+### Who paid for the boys who could not pay, 1927
+
+The same report names the sources of thirty-one subsidised places in a single season, and both are
+Westmount.^ar28
+
+The **Fossils Club**, "a young men's club in the Westmount Branch," financed **camp scholarships for
+14 boys** from across the city — "these boys, who would not otherwise have been able to get to Camp,
+were **chosen on the basis of their leadership possibilities**," and were given two weeks each. Note
+the criterion: leadership, not need alone.
+
+And "a group of business men members and dormitory residents of the Westmount Y.M.C.A. were
+responsible for making possible a two weeks' camp experience for **15 boys from the Protestant
+Orphanage and 2 boys from the School for the Blind**."^ar28
+
+The season took 329 boys with 19 tent leaders and a staff of 13, "the second largest attendance ever
+known at Kanawana," drawing not only from the association's eight city branches but from Quebec,
+Farnham, Ormstown, Thetford Mines, Châteauguay, Longueuil and Pointe Claire.^ar28
+
+**Over Labour Day the camp hosted a conference of representative boys from the whole association**,
+planned and chaired by a committee of older boys who reported back to their own Boys' Divisions
+afterwards. The sessions were "What is the Y.M.C.A.?", "Do we put the 'C' in Y.M.C.A.?", "How do
+activities develop character?" and "Testing our activities."^ar28
+
 ## Interwar Programming (1930s-1940s)
 
 By 1930, the sections had evolved to Juveniles (10-12), Juniors (12-14), and Seniors (14-17), lowering the minimum age. By the early 1940s, the structure had expanded further to Bantam, Juvenile/Junior, Junior/Intermediate, and Senior divisions. The 1938 weekly program reveals a structured rhythm: Monday and Thursday were project days, Tuesday and Friday were waterfront days, and Wednesday was set aside for hikes.
@@ -229,6 +277,7 @@ environmental-education positioning without originating from it.
 8. What was the Pathfinder program Summer Summary (1965 archives listing)? Was it the existing boys' section (est. 1959) or something new?
 
 ## Sources
+- **ar28** — YMCA of Montreal, 77th Annual Report, for the year ending 31 March 1928 [src_ymf_sgw_ymca_annual_report_1928]. Its camping season is the summer of **1927** (see [f_5039] on the reports' 31 March year-end). Read for its Boys' Work and Kanawana sections 2026-09-06 under p_441; the rest of a 105,000-character report is not read. See [f_5064].
 - CFCF radio broadcast script, 1936, "Kamp Kanawana Broadcast — Station CFCF" [src_ymf_1936_kamp_kanawana_broadcast_station_cfcf], Concordia-digitized YMCA of Montreal fonds. Marked `cfcf36` above. **The earliest of the CFCF series and the only one surviving as text**; it had been in this repo's cache labelled *skimmed*, cited by no article, and was read on 2026-09-06 under p_441. See [f_5003].
 
 - YMCA Kamp Kanawana Facts sheet (undated institutional document).
