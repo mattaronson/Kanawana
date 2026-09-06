@@ -1,7 +1,7 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 27*
-*Last Updated: 2026-09-06 (a published 2016 history that identifies this camp with Kanawana)*
+*Status: E1-reviewed | Sources: 28*
+*Last Updated: 2026-09-06 (Otoreke had its own camp song, and it was borrowed too)*
 
 ## Overview
 
@@ -395,6 +395,33 @@ Camp Otoreke closed in 1982 after nearly 90 years of continuous operation.^1 The
 
 **Low-confidence lead on post-closure status (flag, not confirmed fact):** a self-published, anonymous-commenter alumni blog ("Camp Otoreke Blog," established 2005) suggests the main island is still informally called "Otoreke Island" and was privately owned by multiple co-owners by 2008; a 2005 visitor comment describes the buildings as derelict by that year (mould, rot, neglect from disuse) rather than redeveloped. No official toponymic source confirms "Otoreke Island" as a recognized place name, and no independent corroboration exists for any claim on this blog — treat as an unverified lead only.^16 The same blog names a sequence of directors (Ron and Valma Huppfield during WWII; Rev. and Mrs. McGerrigle afterward; Colin and Mrs. Mackay in the early 1960s) that do not appear elsewhere in this KB and are not independently corroborated — flagged for verification, not treated as confirmed.^16
 
+## The Otoreke camp song
+
+Otoreke had its own song, and it was set to a borrowed tune — the same habit this project has documented over and over at Kanawana.^28
+
+> **OTOREKE CAMP SONG** *(To tune of "Sierra Sue")*
+>
+> Oh! Lake so blue at Otoreke,
+> And Suez too, so clear and cool,
+> I long for you dear Otoreke
+> Where fun and frolic is the rule,
+> The sunny days and evening coolness,
+> Are such a boon from city heat,
+> I'll go each year to Otoreke,
+> And love it more each time we meet.
+
+"Sierra Sue" is a 1916 American popular song that Bing Crosby revived in 1940, so the borrowing was about a year old when this book was printed. That places it exactly alongside [[traditions/camp-songs-cheers|Kanawana's own borrowings]] — "Dear Old Kanawana" to the *Battle Hymn of the Republic*, the Marching Song traced to "Alabama Jubilee", "Johnny Verbec" to the Dunderbeck folk song, the ice-cream parody to "Yes, We Have No Bananas". **The two camps wrote their songs the same way**, which is what one would expect of two camps run by the same association, and is now attested rather than assumed.
+
+The song names two lakes: Otoreke's own, and **Suez**.
+
+Elsewhere in the same book, a local verse is fitted into the widely sung "You can't go to heaven" chain song — and it is a joke at the expense of the camp's own fleet:
+
+> You can't go to heaven in an Otoreke boat,
+> 'Cause the goll-darn things don't stay afloat.
+> You can't go to heaven on a pair of skis…
+
+*A note on proportion.* The songbook runs to 64,000 characters and **five lines of it are about the camp**. The rest is the general repertoire of Canadian community singing in 1941 — "There'll Always Be an England", Kipling's "Mandalay" — and is not extracted here. The book had been in this repo's cache, labelled *skimmed*, cited by nothing.^28
+
 ## Open Questions
 
 1. ~~[Critical] Why did Camp Otoreke close in 1982? Was the property sold, donated, or abandoned? Concordia Archives sub-series P0145/12C may contain relevant records.~~ [Confirmed genuine dead end for online sources, 2026-07-09] 22 queries across 10+ surfaces found no reason for the closure. Requires a physical Concordia Archives visit.
@@ -445,10 +472,10 @@ Camp Otoreke closed in 1982 after nearly 90 years of continuous operation.^1 The
 25. YMCA of Montreal, **Annual Report for the year ending 30 April 1902**, section "SUMMER CAMP, ST. AGATHE" [src_ia_ymca_montreal_annual_reports_collection]. The island auction of 26 November 1901, the kitchen and ice-house, and the season's finances. Read 2026-09-06. See [f_4915], [f_4916]; and `c_008` for the island count.
 26. YMCA of Montreal, ***Men of Montreal*: Fifty-Third Annual Report and Summer Camp Number, 1904** [src_ia_ymca_montreal_annual_reports_collection] — the cover halftone and the senior-camp description, pp. 1-3. Read 2026-09-06. See [f_4918], [f_4919], [f_4920], [f_4921]. The cover image is filed at `assets/images/documents/1904-camp-club-house-lake-st-joseph.jpg`, the whole cover beside it.
 27. Paul Larue and Pierre Bélec, *Le Québec en plein air* (Montréal: Québec Amérique, 2016), Internet Archive scan leaf 310 [src_larue_belec_quebec_plein_air_2016]. **One passage plus two stray sentences**, reconstructed 2026-09-06 from eight overlapping Open Library search-inside queries; the book is lending-restricted and has not been read, and the printed page number is unknown. The reconstruction, the queries, and a statement of what is wrong with the passage are cached at `sources/cache/openlibrary-search-inside/2026-09-06-larue-belec-quebec-en-plein-air.txt`. See [f_4939].
+28. Camp Otoreke songbook, 1941 [src_ymf_1941_camp_otoreke_songs], Concordia-digitized YMCA of Montreal fonds. **64,000 characters, of which five lines are about the camp**; the rest is the general community-singing repertoire of 1941 and is not extracted. The book had been in this repo's cache labelled *skimmed* and cited by nothing, and was read on 2026-09-06 under p_441. See [f_5004].
 
 ## Research Notes
 
 ### Revision History
 
 - **2026-07-10** — Conflict c_008 (two vs. three islands) resolved editorially: "three islands" retained as the total, with BaladoDiscovery's "two islands acquired in 1897" read as a specific later transaction rather than a competing total-count claim. An editorial reconciliation, not new evidence.
-

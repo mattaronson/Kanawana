@@ -356,6 +356,29 @@ directions.** The one that bit here was a source sitting in `articles.json`'s
 `sources_cited` and **never cited in the article** — because that article cites
 fact ids, `[f_5002]`, not source ids. Read the message, not the class.
 
+## 31. Adding a source note has four steps and I got it wrong three times in one day
+
+Appending a numbered source note to an article is not one edit. It is four, and missing any one of
+them fails `verify_harness`:
+
+1. **Pick the next free number by enumerating**, not by reading the last one you happen to see.
+   Markers and entries can both run higher than you expect. `max(entries | markers) + 1`.
+2. **Insert the entry inside the Sources list** — after the last numbered entry, *not* at the end
+   of the file. Most articles here carry Research Notes and HTML comments after Sources, so a
+   naive append lands outside the list and the marker resolves to nothing. **I did this three
+   times on 2026-09-06**, in three different articles, each time after having just fixed it in
+   another.
+3. **Bump the `Sources: N` count in the header.** It counts numbered entries, so it moves for a
+   numbered note and does *not* move for a lettered sub-note (`8bt` and friends).
+4. **Add the source id to `sources_cited` in `articles.json` only if the article cites the source
+   id.** If the article cites a fact id instead — `[f_5002]` — adding it there produces the
+   *other* direction of A2: in `sources_cited`, never cited in the article.
+
+Then run `scripts/verify/all.py`, which catches all four.
+
+This is mechanical enough to be a script and is not one yet. Until it is, do the four steps
+deliberately rather than by habit.
+
 ## Open questions for Matt
 
 Carried forward: whether the Pip-committee work belongs in `people/matt-aronson.md`; whether there is

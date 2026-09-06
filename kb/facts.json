@@ -1,8 +1,8 @@
 {
-  "version": "7.25",
-  "kb_version": "7.25",
+  "version": "7.26",
+  "kb_version": "7.26",
   "migrated_from": "3.3",
-  "fact_count": 4965,
+  "fact_count": 4966,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -89354,6 +89354,26 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.25",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5004",
+      "category": "traditions",
+      "date_ref": "1941",
+      "entities": [
+        "Camp Otoreke",
+        "Kamp Kanawana",
+        "YMCA of Montreal",
+        "Lake Suez",
+        "Sierra Sue"
+      ],
+      "claim": "CAMP OTOREKE HAD ITS OWN CAMP SONG, SET TO A BORROWED TUNE -- THE SAME PATTERN AS KANAWANA'S. A 1941 Camp Otoreke songbook in this project's cache, 64,000 characters, labelled skimmed and cited by no article, is almost entirely GENERAL songs -- 'There'll Always Be an England', Kipling's 'Mandalay' ('Moulmein Pagoda'), and the rest of the wartime community-singing repertoire. Five lines in it are about the camp, and they are the useful ones. THE OTOREKE CAMP SONG, headed 'OTOREKE CAMP SONG.. (To tune of \"SIERRA SUE\")': 'Oh! Lake so blue at Otoreke, / And Suez too, so clear and cool, / I long for you dear Otoreke / Where fun and frolic is the rule, / The sunny days and evening coolness, / Are such a boon from city heat, / I'll go each year to Otoreke, / And love it more each time we meet.' SIERRA SUE is a 1916 American popular song revived by Bing Crosby in 1940, so the borrowing was fresh when the book was printed. THIS IS THE SAME PATTERN THIS PROJECT HAS DOCUMENTED AT KANAWANA -- 'Dear Old Kanawana' to the Battle Hymn of the Republic, the Marching Song traced to 'Alabama Jubilee', 'Johnny Verbec' to the Dunderbeck folk song, the ice-cream parody to 'Yes, We Have No Bananas' -- and it is now attested at the sibling camp too. The song names TWO LAKES, Otoreke's own and SUEZ. AND A PARODY VERSE elsewhere in the book: 'You can't go to heaven in an Otoreke boat, / Cause the goll-darn things don't stay afloat. / You can't go to heaven on a pair of skis...' -- a local verse fitted into the widely sung 'You can't go to heaven' chain song, and a joke at the expense of the camp's own boats. 'Sierra Sue', 'Otoreke Camp Song', 'Lake so blue' and the parody occur NOWHERE ELSE in this project. NOTE ON PROPORTION: 64,000 characters of songbook yielded five camp-specific lines. The other sixty-odd thousand are the general repertoire of Canadian community singing in 1941 and are not extracted here.",
+      "sources": [
+        "src_ymf_1941_camp_otoreke_songs"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.26",
       "added_by": "ralph_loop"
     }
   ]
