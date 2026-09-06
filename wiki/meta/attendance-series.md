@@ -212,26 +212,24 @@ attendance figure, and the tables do not pretend otherwise.
 season), 1920, 1981–1984, 1989–1993, 1995–1997 and most of 2010–2019. All but three are closed by the
 artefacts, in the section below.
 
-## A dating question this article should answer about itself
+## A note for anyone taking a figure from an annual report
 
-Reading the YMCA of Montreal annual reports' "Summer Camps" camper tables against the rows above
-turns up a systematic offset. **The 1945 report gives "Kanawana for boys 400," which is this
-article's figure for the 1944 season. The 1947 report gives "Kanawana for Boys 302," which is this
-article's figure for 1946.**^13 Two anchors, both a year apart. A third is unreadable rather than
-contradictory: the 1946 report reads "52h" in a scan that renders 4 as *h* throughout ("31,8h5"
-for 31,845), so 524, or a misread 324 against this article's 324 for 1945.
+**The YMCA of Montreal's annual reports run to 31 March, so a report's camping season is the
+previous summer.** Every title page says it: "The Ninety-Second Annual Report of the Young Men's
+Christian Association of Montreal, **for the Year Ending March 31st, 1943**," the Ninety-Third for
+1944, and so on.^13 A report dated to 31 March 1947 covers April 1946 to March 1947, and the only
+summer inside it is 1946.
 
-The likeliest reading is that these tables report the **previous** season, which is ordinary enough
-for an annual report published early in a calendar year. **If so, this article's 1940s rows already
-have it right** and the offset is only a trap for the next person who greps a report for a number.
-But nothing in this article says which convention its 1940s figures were entered under, and that
-is worth fixing before anyone adds to them from the same source.
+This article's rows are entered on that basis and are right. The check that established it: the
+1945 report gives "Kanawana for boys 400," which is the row above for **1944**; the 1947 report
+gives 302, which is the row for **1946**; and the 1946 report, whose summer is 1945, reads "52h" in
+a scan that renders 4 as *h* throughout ("31,8h5" for 31,845) and confuses 3 with 5 — so 324,
+which is the row for 1945.^13
 
-**It is not only bookkeeping.** [[site/camp-thunderbird|Camp Thunderbird]] is known almost entirely
-from these tables, and the offset decides whether its two summers were 1942–43 or 1943–44.^13
-
-What would settle it: the reports' own cover dates and fiscal-year statements. Those have not been
-read — the tables were reached by grep, not by reading the volumes.
+The note is here because the offset is a trap for the next person who greps a report for a number,
+and because it decided something outside this article: [[site/camp-thunderbird|Camp Thunderbird]]
+is known almost entirely from these tables, and the convention dates its two summers to **1942 and
+1943** — ending in the season Camp Perrot began.
 
 ## What the shape of the series shows
 

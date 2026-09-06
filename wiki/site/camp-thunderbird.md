@@ -1,14 +1,13 @@
 # Camp Thunderbird
 
 *Status: draft | Sources: 6*
-*Last Updated: 2026-09-06*
+*Last Updated: 2026-09-06 (the summers dated to 1942 and 1943 from the reports' title pages)*
 
 ## Overview
 
 Camp Thunderbird was a one-week boys' camp run by the Montreal YMCA's **Central branch** on an
-island in the **rivière des Mille Îles**, twenty miles from the city, in **two consecutive summers in the
-early 1940s** — one of them certainly 1943, the other either 1942 or 1944, for reasons set out
-under *How many summers* below.^1 ^2 The association called it what it was: "an **experimental near-the-city camp**."^3
+island in the **rivière des Mille Îles**, twenty miles from the city, in the summers of **1942 and
+1943**.^1 ^2 ^6 The association called it what it was: "an **experimental near-the-city camp**."^3
 It took twenty-two people in its 1943 Central Branch period, boys aged twelve to fifteen, at
 $7.00 a week.^1 ^2
 
@@ -83,18 +82,22 @@ in its place** — "Kanawana for boys 400, Otoreke for young people 825, Perrot 
 225" — and from every later report checked through 1952.^6 So the camp appears in exactly two
 consecutive tables and stops, in the same report in which Perrot first appears.
 
-**But those tables appear to lag the season by a year**, which unsettles the dates. The 1945
-report's Kanawana figure of 400 is this wiki's figure for the **1944 season**, and the 1947
-report's 302 is its figure for **1946**.^6 Two clean anchors, both a year off. A third is
-unreadable rather than contradictory: the 1946 report reads "52h" where this scan renders 4 as *h*
-throughout, so 524, or a misread 324 against the attendance series' 324 for 1945.
+**And those reports run to the end of March, so each one's camping season is the previous
+summer.** Every title page says so: "The Ninety-Second Annual Report… **for the Year Ending March
+31st, 1943**," the Ninety-Third for 1944, and so on to the Ninety-Sixth for 1947.^6 A report dated
+to 31 March 1947 covers April 1946 to March 1947, and the only summer inside it is 1946. The
+Kanawana figures confirm it: the 1945 report's 400 is this wiki's number for the 1944 season, and
+the 1947 report's 302 is its number for 1946.
 
-If the lag holds, Thunderbird's two tabled summers are **1942 and 1943**, and the 1944 report's
-"again operated" describes the summer of 1943. Against that, the 1943 season report calls its
-August week "the first session of Central Y.M.C.A. boys at Camp Thunderbird," which reads as a
-first ever unless it means the first of that summer. **The years are not settled here.** What is
-documented beyond doubt: one session, 6–13 August 1943; two consecutive tabled years; and the end
-of them in the year Perrot begins.
+**So Thunderbird ran in the summers of 1942 and 1943.** It is tabled in the 92nd report (summer
+1942) and the 93rd (summer 1943, whose text says it was "again operated"), and it is gone from the
+94th — whose summer is 1944, and which is **the first report to carry Camp Perrot**. The camp
+stopped in the season Perrot began.
+
+That also settles a phrase in the season report. "The first session of Central Y.M.C.A. boys at
+Camp Thunderbird," written of August 1943, means the first session of that summer, or the first for
+Central branch specifically — the report's own heading is "Central Branch Period" — and not the
+camp's first ever.
 
 **A reading, offered as a reading.** [[site/camp-perrot|Camp Perrot]] opened in **1944** — a
 permanent, low-cost, branch-referral camp **for boys and girls**, near the city, on Île Perrot.
@@ -112,12 +115,11 @@ would settle it.
 2. ~~[Critical] Did Camp Thunderbird run in 1945 or later, or did it stop at two summers?~~
    **[Resolved 2026-09-06]** Two summers. "Thunderbird" occurs zero times in the 1945 through 1952
    annual reports, and the 1945 camper table carries Perrot where Thunderbird had been.^6
-3. [Critical, raised by resolving the above] **Do the annual reports' camper tables report the
-   season of their own year or the one before?** Two Kanawana figures say the year before. That
-   decides whether Thunderbird's summers were 1942–43 or 1943–44, and it bears on every 1940s row
-   of [[meta/attendance-series|Attendance at Kanawana]]. The reports' own cover dates and
-   fiscal-year statements would settle it and have not been read — these tables were reached by
-   grep, not by reading the volumes.
+3. ~~[Critical, raised by resolving the above] Do the annual reports' camper tables report the
+   season of their own year or the one before?~~ **[Resolved 2026-09-06, same hour]** The one
+   before. Every title page reads "for the Year Ending March 31st," so each report's camping season
+   is the previous summer.^6 Thunderbird's are 1942 and 1943. The same offset applies to every
+   1940s figure in [[meta/attendance-series|Attendance at Kanawana]].
 4. [Important] Is Camp Perrot documented anywhere as Thunderbird's successor? See the reading
    above; P0145/12H and the 1944–45 committee minutes are the places to look.
 5. [Important] What was the **Indoor Camp** that the 1943 assistant leaders had led? The phrase is
@@ -139,7 +141,7 @@ would settle it.
 3. YMCA of Montreal Annual Report, 1944 [src_ymf_sgw_ymca_annual_report_1944]. **Read for the Camp Thunderbird passage and the camper-numbers table only**; the rest of the report is not read. See [f_5037].
 4. YMCA of Montreal Annual Report, 1943 [src_ymf_sgw_ymca_annual_report_1943]. Same partial read as source 3.
 5. Concordia University Archives, YMCA of Montreal fonds P0145, sub-series 12I (Camp Thunderbird) — a finding-aid listing only. See [f_1366].
-6. YMCA of Montreal Annual Reports for 1945, 1946 and 1947 [src_ymf_sgw_ymca_annual_report_1945, src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1947], read for their "Summer Camps" camper tables only. The 1948-1952 reports were checked for the string "Thunderbird" and return zero. See [f_5038].
+6. YMCA of Montreal Annual Reports, 92nd through 96th, for the years ending 31 March 1943 to 1947 [src_ymf_sgw_ymca_annual_report_1943, src_ymf_sgw_ymca_annual_report_1944, src_ymf_sgw_ymca_annual_report_1945, src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1947], read for their title pages and their "Summer Camps" camper tables. The 1948-1952 reports were checked for the string "Thunderbird" and return zero. See [f_5038] and [f_5039].
 
 ## Research Notes
 

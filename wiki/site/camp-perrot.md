@@ -35,7 +35,9 @@ Thunderbird: an experimental near-the-city camp was again operated on a small is
 River near Plage Laval. **Our experience has proven the need for a permanent camp of this nature,
 which could be used by boys and girls throughout the summer.**"^12 Perrot — permanent, near the
 city, low-cost, for boys and girls — opened that same year, and **A. T. Dodds directed both**,
-Thunderbird in 1943 and Perrot by 1947. *No document found says Perrot succeeded Thunderbird*, and
+Thunderbird in 1943 and Perrot by 1947. **The handover is exact to the season.** These reports run
+to 31 March, so each covers the previous summer: Thunderbird is tabled for the summers of 1942 and
+1943 and vanishes from the report whose summer is 1944, which is the first to carry Perrot.^12 *No document found says Perrot succeeded Thunderbird*, and
 none is claimed here; the Perrot founding papers (P0145/12H) or the 1944–45 camp committee minutes
 would settle it. See [[site/camp-thunderbird|Camp Thunderbird]].
 

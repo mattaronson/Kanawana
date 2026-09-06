@@ -6598,3 +6598,28 @@ and nothing in that article says which convention its figures were entered under
 The honest note on all of it: those tables were reached by grep, not by reading the volumes. That
 is the exact failure p_441 exists to fix, and the fix — read the front matter, find the fiscal-year
 statement — is in the queue rather than done.
+
+### The same afternoon: the offset was on the title page all along
+
+p_447 asked whether the annual reports' camper tables report their own year or the previous one,
+and estimated the work at reading some front matter. It took five `head -c 900` calls.
+
+Every one of these volumes announces itself: "The Ninety-Second Annual Report of the Young Men's
+Christian Association of Montreal, **for the Year Ending March 31st, 1943**," and so on through the
+Ninety-Sixth for 1947. A report closing on 31 March contains exactly one summer, the previous one.
+The two Kanawana anchors stop being a coincidence and become a consequence, and the third — the
+"52h" that could have been 524 — resolves as 324, matching the 1945 row, since the report whose
+year ends March 1946 covers the summer of 1945.
+
+Two things fall out. The attendance series' 1940s rows are entered on the right basis and there is
+now a note in the article saying so, which is the point: the offset is harmless to anyone who knows
+it and a trap for anyone who greps a report for a number. And **Camp Thunderbird ran in the summers
+of 1942 and 1943**, not 1943 and 1944 — tabled in the 92nd and 93rd reports, gone from the 94th,
+which is the first to carry Camp Perrot. The camp stopped in the season its probable successor
+began.
+
+Four facts written earlier this afternoon carried the wrong pair of years or an open question about
+them. All four now carry the correction or the closure in place, which is the third time today that
+a claim written in one hour has been fixed in the next. The pattern is not accidental: everything
+that got corrected today was a claim made from a partial read, and everything that corrected it was
+a fuller read of the same document.
