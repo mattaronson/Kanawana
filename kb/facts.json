@@ -1,8 +1,8 @@
 {
-  "version": "6.54",
-  "kb_version": "6.54",
+  "version": "6.55",
+  "kb_version": "6.55",
   "migrated_from": "3.3",
-  "fact_count": 4862,
+  "fact_count": 4865,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87275,6 +87275,65 @@
       "date_ref": "2026-09-06",
       "conflicts_with": [],
       "added_version": "6.54",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4901",
+      "claim": "THE MISDATING TRAP IS SHARPER THAN f_2078 RECORDS: FOUR CACHED FILES CARRY 1990 OR 1991 IN THEIR NAMES AND TWO OF THEM ARE NINETEENTH-CENTURY. Checked file by file 2026-09-06. sgw-ymca-annual-report-1990-1991.txt opens \"Annual Report, Young Men's Christian Association of Montreal, 1890-91\" and announces the new DOMINION SQUARE building; sgw-ymca-annual-report-1991-1992.txt opens \"41st Annual Report... 1891-92\". BUT sgw-ymca-annual-report-1990.txt IS GENUINELY 1990 (chairman Claude Lemay, referring to September 1989) and sgw-ymca-annual-report-1991.txt IS GENUINELY 1991 (opening on the dismantling of the Berlin Wall), with French counterparts beside each. So the four files sit adjacent in the same directory, two of them a century older than their names, and sorting or globbing that directory by name puts 1890 next to 1990. NOTE THAT THE INTERNET ARCHIVE'S OWN METADATA IS CORRECT -- title \"YMCA Annual Report 1890-1891\", date 1891-05-28 -- and only the IDENTIFIER and the inner _djvu.txt filename are wrong; a fetch of archive.org/metadata/<id> gives the right year. THIS PROJECT PROPAGATED THE ERROR: three source records carried dates taken from the identifier rather than the document (\"1990\", \"1991-19-92\", \"1889-18-90\"), and all three were corrected on 2026-09-06.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1990_1991",
+        "src_cache_sgw_ymca_annual_report_1991_1992"
+      ],
+      "confidence": "stated",
+      "category": "sources_and_archives",
+      "entities": [
+        "YMCA of Montreal",
+        "Internet Archive",
+        "annual reports"
+      ],
+      "date_ref": "2026-09-06",
+      "conflicts_with": [],
+      "added_version": "6.55",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4902",
+      "claim": "THE ASSOCIATION'S OWN 1890-91 REPORT CREDITS PATTON WITH CAMP WORK, THREE YEARS BEFORE 1894 AND CONTEMPORANEOUS WITH HIS 1891 CAMP. Under EXECUTIVE, the Annual Report of the YMCA of Montreal for 1890-91 (presented 28 May 1891) states: \"THE VOLUNTEER CAMP WORK WAS SUCCESSFULLY CARRIED OUT UNDER THE [affiliation] AND ASSISTANCE OF MR. PATTON.\" (The OCR reads \"ahielation\"; the word is affiliation or affiliation-like and the sense is not in doubt.) UNTIL NOW PATTON'S 1891 CAMP WAS ATTESTED ONLY BY HIS OWN MEMOIR OF AUGUST 1919, twenty-eight years after the fact (f_2291). This is the association writing about camp work in its own annual report for the year of that camp, and it says the work was carried out successfully -- which sits oddly beside the memoir's account of a camp broken up on its first day by a drowning, and the two are not obviously about the same outing. WHAT IT DOES ESTABLISH: the YMCA of Montreal had something it called VOLUNTEER CAMP WORK in 1890-91, and Patton ran it. The same report also dates his departure: \"EARLY LAST SPRING, OUR LEADER MR. PATTON RESIGNED TO ENTER THE SPRINGFIELD SCHOOL for training secretaries\", which independently puts him at Springfield from the spring of 1891 and therefore in place for Naismith's first basketball game that December.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1990_1991"
+      ],
+      "confidence": "stated",
+      "category": "history",
+      "entities": [
+        "T. Duncan Patton",
+        "YMCA of Montreal",
+        "Springfield",
+        "Jones' Island"
+      ],
+      "date_ref": "1891-05-28",
+      "conflicts_with": [],
+      "added_version": "6.55",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4903",
+      "claim": "A CORBETT LEAD FOR CORBETT ISLAND, OFFERED AS A LEAD AND NOT A FINDING. The 1900 Current Camp Committee report names CORBETT ISLAND at Lac St. Joseph as an established name (f_4883), and no source read here explains it. The association's own reports carry three Corbetts. (1) D. W. CORBETT, assistant secretary, in charge of the boys' department: the 1892-93 report records that \"D. W. Corbett, as assistant secretary, having in charge this department... has accepted the position as secretary of the Honolulu\" association, and the 1893-94 report twice laments \"the departure of Mr. D. W. Corbett in June, 1893\", who \"was the main-stay of this work\", with P. H. Cushing secured as his successor. (2) E. M. CORBETT, in a 1893-94 list. (3) JOHN CORBETT, a subscriber in the 1900 report. THE HYPOTHESIS: the island is named for D. W. Corbett, the boys'-work secretary of the years immediately before the camp. AGAINST IT: he left Montreal in June 1893, a year before the 1894 camp, so if the island is his it was named in his memory rather than during his tenure, and nothing read here says so. He also appears alongside Patton in the 1890-91 report -- \"our old friends, Messrs. Corbett and Patton, with Mr. W. H. Davis, of the Springfield School, spoke on 'The Race of Life'\" on 22 March -- which places the two men together in the association at exactly the period of the first camp work. RECORDED SO A LATER PASS CAN TEST IT, NOT AS AN ANSWER.",
+      "sources": [
+        "src_ia_ymca_montreal_annual_reports_collection",
+        "src_ia_seventh_annual_report_current_camp_1900"
+      ],
+      "confidence": "inferred",
+      "category": "site",
+      "entities": [
+        "Corbett Island",
+        "D. W. Corbett",
+        "T. Duncan Patton",
+        "Lac St. Joseph",
+        "P. H. Cushing"
+      ],
+      "date_ref": "1893-06",
+      "conflicts_with": [],
+      "added_version": "6.55",
       "added_by": "ralph_loop"
     }
   ]

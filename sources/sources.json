@@ -21407,8 +21407,8 @@
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1990_1991",
       "type": "report",
-      "title": "Sgw ymca annual report 1990 1991 — \"Annual Report\"",
-      "date": "1990",
+      "title": "YMCA of Montreal Annual Report 1890-91 (presented 28 May 1891) -- MISFILED under an Internet Archive identifier reading 1990-1991",
+      "date": "1891",
       "date_precision": "year",
       "origin": "internet_archive",
       "origin_url": "https://archive.org/details/sgw-ymca-annual-report-1990-1991",
@@ -21418,7 +21418,7 @@
       "extracted": false,
       "extraction_version": "v5.60",
       "reliability": "secondary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
+      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. | DATE CORRECTED 2026-09-06 (p_253): this record read date='1990', taken from the Internet Archive identifier rather than from the document. The identifier is misnumbered by a century for two of these three; the document itself gives the year on its title page. See f_2078 and f_4901.",
       "read_state": "skimmed",
       "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
     },
@@ -27347,9 +27347,9 @@
     {
       "source_id": "src_cache_sgw_ymca_annual_report_1889_1890",
       "type": "report",
-      "title": "sgw ymca annual report 1889 1890",
-      "date": "1889-18-90",
-      "date_precision": "exact",
+      "title": "39th Annual Report of the YMCA of Montreal, 1889-90",
+      "date": "1890",
+      "date_precision": "year",
       "origin": "internet_archive",
       "origin_url": null,
       "cache_path": "sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-1889-1890.txt",
@@ -27360,7 +27360,7 @@
       "reliability": "primary",
       "read_state": "unread",
       "read_state_basis": "none: catalogued 2026-09-02 from a cached file that belonged to no source record",
-      "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read."
+      "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read. | DATE CORRECTED 2026-09-06 (p_253): this record read date='1889-18-90', taken from the Internet Archive identifier rather than from the document. The identifier is misnumbered by a century for two of these three; the document itself gives the year on its title page. See f_2078 and f_4901."
     },
     {
       "source_id": "src_cache_sgw_ymca_annual_report_1894_1895",
@@ -27653,9 +27653,9 @@
     {
       "source_id": "src_cache_sgw_ymca_annual_report_1991_1992",
       "type": "report",
-      "title": "sgw ymca annual report 1991 1992",
-      "date": "1991-19-92",
-      "date_precision": "exact",
+      "title": "41st Annual Report of the YMCA of Montreal, 1891-92 (published 19 May 1892) -- MISFILED under an Internet Archive identifier reading 1991-1992",
+      "date": "1892",
+      "date_precision": "year",
       "origin": "internet_archive",
       "origin_url": null,
       "cache_path": "sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-1991-1992.txt",
@@ -27666,7 +27666,7 @@
       "reliability": "primary",
       "read_state": "unread",
       "read_state_basis": "none: catalogued 2026-09-02 from a cached file that belonged to no source record",
-      "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read."
+      "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read. | DATE CORRECTED 2026-09-06 (p_253): this record read date='1991-19-92', taken from the Internet Archive identifier rather than from the document. The identifier is misnumbered by a century for two of these three; the document itself gives the year on its title page. See f_2078 and f_4901."
     },
     {
       "source_id": "src_cache_sgw_ymca_annual_report_1991",

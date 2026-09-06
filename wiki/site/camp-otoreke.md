@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 21*
+*Status: E1-reviewed | Sources: 22*
 *Last Updated: 2026-09-06*
 
 ## Overview
@@ -157,6 +157,24 @@ St-Joseph, Ste-Marie and Théodore**; the **"Dedication service of the chapel. -
 material for either site. The 1936 mixed-gender evaluation from 12C01 is treated in
 [[history/coeducation-gender|Coeducation and Gender at Kanawana]].
 
+### Who was Corbett? A lead, not an answer
+
+The 1900 report names **Corbett Island** as an established name and nothing read here explains it. The
+association's own annual reports carry three Corbetts, and one of them is interesting.^22
+
+**D. W. Corbett** was the Montreal YMCA's assistant secretary with charge of the boys' department. The
+1892-93 report records that he "**has accepted the position as secretary of the Honolulu**" association;
+the 1893-94 report twice laments "**the departure of Mr. D. W. Corbett in June, 1893**," who "**was the
+main-stay of this work**," with **P. H. Cushing** secured as his successor. He also appears beside
+Patton: on 22 March in the 1890-91 report, "our old friends, **Messrs. Corbett and Patton**, with Mr.
+W. H. Davis, of the Springfield School, spoke on 'The Race of Life'."^22
+
+**The hypothesis is that the island is his.** He ran boys' work in the years immediately before the camp
+began. **What is against it:** he left Montreal in June 1893, a year before the 1894 camp, so if the
+island carries his name it was given in his memory rather than during his tenure — and nothing read here
+says so. There is also an **E. M. Corbett** in an 1893-94 list and a **John Corbett** subscribing in
+1900. This is recorded so a later pass can test it, not as an answer.
+
 ### The islands are not on the official map
 
 Quebec's toponymic register carries **120 official names in Saint-Adolphe-d'Howard, of which exactly one
@@ -235,6 +253,7 @@ Camp Otoreke closed in 1982 after nearly 90 years of continuous operation.^1 The
 19. "Seventh Annual Report of the Current Camp Committee," YMCA of Montreal, 10 December 1900, 8 pp. manuscript [src_ia_seventh_annual_report_current_camp_1900]. Digitized in the `ymca-montreal-fonds` collection with no OCR layer, because it is cursive; the page images were read by eye and transcribed 2026-09-06 (p_288), cached at `sources/cache/ymca-montreal-fonds/1900-12-10-seventh-annual-report-current-camp-committee.txt`. Leaves 3, 4, 6 and 8 of the scan are inverted 180 degrees. See [f_4879], [f_4880], [f_4881], [f_4882], [f_4883], [f_4884].
 20. "Report of the Junior Camp Committee, 1900," YMCA of Montreal, 30 November 1900 [src_ymf_1900_11_30_report_of_the_junior_camp_committee]. Typed, with an OCR layer, and already in this project's knowledge base; read here beside the Current Camp Committee report of ten days later. See [f_4848], [f_4885].
 21. Commission de toponymie du Québec, *Toponymes officiels* and *Toponymes désofficialisés* [src_donneesquebec_bnlq_2026]. Queried 2026-09-06 for every named feature in Saint-Adolphe-d'Howard and for "Corbett" province-wide. See [f_4892].
+22. YMCA of Montreal Annual Reports for 1890-91, 1892-93 and 1893-94, and the subscriber list in the report for 1900 [src_ia_ymca_montreal_annual_reports_collection], [src_ymf_sgw_ymca_annual_report_1990_1991]. Read for Corbett 2026-09-06 (p_253). See [f_4903].
 
 ## Research Notes
 

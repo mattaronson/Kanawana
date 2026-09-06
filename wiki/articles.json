@@ -3279,11 +3279,14 @@
         "f_1836",
         "f_1837",
         "f_1838",
-        "f_4892"
+        "f_4892",
+        "f_4903"
       ],
       "sources_cited": [
         "src_otoreke_blog_2005",
-        "src_donneesquebec_bnlq_2026"
+        "src_donneesquebec_bnlq_2026",
+        "src_ymf_sgw_ymca_annual_report_1990_1991",
+        "src_ia_ymca_montreal_annual_reports_collection"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -3296,7 +3299,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 3805,
+      "word_count": 4061,
       "notes": "E1 REVIEW (2026-02-19): Removed unverifiable 'Google Maps' source and '20 km' distance claim. Expanded 'Multiple sources' citation into discrete references (Facts sheet + McMorris). Removed src_oral_aronson (no inline citation). Removed unsourced bullet. Fixed postcard inference. Fixed closure section process language. Split 1967 conference/reports sentence. Renumbered sources 1-10. Added camp-otoreke cross-link to centennial-1967. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_008 editorial-resolution narrative into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -9966,7 +9969,9 @@
         "f_4840",
         "f_4860",
         "f_4861",
-        "f_4889"
+        "f_4889",
+        "f_4901",
+        "f_4902"
       ],
       "sources_cited": [
         "src_camp_stephens_alumni_blog",
@@ -9983,7 +9988,8 @@
         "src_ymca_yearbook_1893",
         "src_ymca_yearbook_1895",
         "src_ct_fiches_kanawana_2026",
-        "src_donneesquebec_bnlq_2026"
+        "src_donneesquebec_bnlq_2026",
+        "src_ymf_sgw_ymca_annual_report_1990_1991"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -9994,7 +10000,7 @@
         "camp-otoreke"
       ],
       "file_id": null,
-      "word_count": 3832
+      "word_count": 4162
     },
     {
       "article_id": "multi-year-index",

@@ -1,6 +1,6 @@
 # Thomas Duncan Patton (1865–1944)
 
-*Status: draft | Sources: 14*
+*Status: draft | Sources: 15*
 *Last Updated: 2026-09-06*
 
 ## Overview
@@ -104,6 +104,35 @@ the modern physical-education movement was being invented.
 > while out swimming got beyond his depth and was drowned. Louden came from one of the finest homes in
 > Montreal. On the arrival of help the next day the camp was broken up and the site was never again
 > used for this purpose."^1
+
+### The association's own paperwork, found 2026-09-06
+
+Until now the 1891 camp was attested only by Patton's memoir of August 1919, twenty-eight years after
+the fact. **The YMCA of Montreal's Annual Report for 1890-91**, presented 28 May 1891, records under
+EXECUTIVE:^15
+
+> "**The Volunteer Camp work was successfully carried out under the [affiliation] and assistance of Mr.
+> Patton.**"
+
+*(The OCR reads "ahielation"; the sense is not in doubt.)* That is the association writing about camp
+work in its own annual report for the year of Patton's camp, and it establishes something the memoir
+alone could not: **the YMCA of Montreal had a thing it called "Volunteer Camp work" in 1890-91, and
+Patton ran it.**
+
+**It also sits oddly beside the memoir**, which describes a camp broken up on its first day by a
+drowning. "Successfully carried out" is not how that reads, and the two need not be about the same
+outing — a season of volunteer camp work could contain more than one. This article does not reconcile
+them, and neither should a later pass without a document.
+
+**And it dates his departure.** The same report, in the Sunday Morning Bible Class section: "**Early
+last spring, our leader Mr. Patton resigned to enter the Springfield School for training secretaries.**"
+That independently puts him at Springfield from the spring of 1891 — and therefore in place for
+Naismith's first game that December, which this article had only from the American side.^15
+
+*A note on where this was hiding.* The report is cached in this repo under the filename
+`sgw-ymca-annual-report-1990-1991.txt`. Its Internet Archive identifier is misnumbered by a century, and
+three genuinely twentieth-century reports sit beside it in the same directory. Nobody had read it for
+Patton.
 
 ### Where the island is
 
@@ -291,6 +320,7 @@ neither is obviously wrong.
 12. "Camp Stephens 125th Anniversary Chapel Service ~ July 31, 2016," Camp Stephens Alumni blog [src_campstephens_125_chapel_2016]. The 1911 first boys' camp and Patton's part in it; a commemorative script, not a history. See [f_4840].
 13. *Year Book and Official Roster of the Young Men's Christian Associations of North America*, 1893 and 1895 [src_ymca_yearbook_1893], [src_ymca_yearbook_1895]. The Canadian Northwest and Canadian West provincial committees at Winnipeg, and Richardson's signed provincial reports. See [f_4860], [f_4861].
 14. Commission de toponymie du Québec, fiche for **Île Jones** (no_seq 31476), and the *Toponymes officiels* dataset [src_ct_fiches_kanawana_2026], [src_donneesquebec_bnlq_2026]. Read 2026-09-06. The fiche's own authority for the Martin Jones etymology is Benjamin N. Wales, *Memories of old St. Andrews and historical sketches of the seigniory of Argenteuil* (Watchman Press, Lachute, 1934), which this project has not read. See [f_4889].
+15. YMCA of Montreal, **Annual Report 1890-91**, presented 28 May 1891 [src_ymf_sgw_ymca_annual_report_1990_1991] — cached under a filename misnumbered by a century; see [f_4901]. The Volunteer Camp work under Mr. Patton, and his resignation to enter the Springfield School. Read 2026-09-06 (p_253). See [f_4902].
 
 ## Research Notes
 
