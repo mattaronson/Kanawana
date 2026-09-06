@@ -1,8 +1,8 @@
 {
-  "version": "6.78",
-  "kb_version": "6.78",
+  "version": "6.79",
+  "kb_version": "6.79",
   "migrated_from": "3.3",
-  "fact_count": 4905,
+  "fact_count": 4906,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88108,6 +88108,24 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.78",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4944",
+      "category": "site",
+      "date_ref": "1909-03-01/1912-06-01",
+      "entities": [
+        "Kamp Kanawana",
+        "Universal Postal Union",
+        "Post Office Department"
+      ],
+      "claim": "THE KANAWANA POST OFFICE OPENED BETWEEN MARCH 1909 AND JUNE 1912, ON AN INTERNATIONAL AUTHORITY. The Universal Postal Union's International Bureau published its Dictionnaire des bureaux de poste at Lausanne in NOVEMBER 1909, listing \"les noms des bureaux de poste de tous les pays faisant partie de l'Union postale universelle, a la date du 1er mars 1909\". KANAWANA IS NOT IN IT. The same Internet Archive item carries a SUPPLEMENT of AOUT 1912, whose own Observations state that it contains \"les changements au Dictionnaire des bureaux de poste (edition de novembre 1909) qui ont ete notifies au Bureau international par les divers Offices de l'Union... depuis la publication de cet ouvrage jusqu'au 1er juin 1912\", divided into Bureaux a ajouter (pages 1-93), Bureaux a biffer (94-143) and Modifications (144-191). KANAWANA IS IN THE SUPPLEMENT, IN PART I, BUREAUX A AJOUTER, given as \"Canada, Quebec\". Verified by line number in the djvu text: the entry is at line 908066, the last \"Bureaux a ajouter\" heading before it at 907856, and the first \"Bureaux a biffer\" heading at 944546. SO THE OFFICE DID NOT EXIST ON 1 MARCH 1909 AND DID EXIST BY 1 JUNE 1912 -- a three-year window for its opening, which is the first bracket this project has on it and which sits exactly across the YMCA's purchase of the Saint-Sauveur site in 1910. THE COLUMN ALIGNMENT WAS CHECKED rather than assumed: the OCR prints the names and the countries as two separate runs, and counting back from the end gives Kanchen-Chekiang, Kanchausi-Etawah, Kancha-Pindi, Kanaya-Kazusa, KANAWYER-E.-U. d'Am. Cal., KANAWANA-CANADA QUEBEC, Kanada-Japon Buzen. Kanawyer is a real place in California, which is what the alignment assigns it; an offset of one would put Kanawyer in Canada and Kanawana in the United States. A TRAP WORTH RECORDING: the Internet Archive catalogues the whole item as \"1909\". Taken at face value that would put a Kanawana post office before the YMCA arrived and unsettle the account of how the place got its name. It is in the 1912 supplement. STILL NOT ESTABLISHED: the exact opening date, the closing date, the postmaster, and whether the office was the camp's own or served a wider seasonal settlement.",
+      "sources": [
+        "src_upu_dictionnaire_bureaux_poste_1909_1912"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.79",
       "added_by": "ralph_loop"
     }
   ]

@@ -29143,7 +29143,25 @@
       "read_state": "partial",
       "read_state_basis": "NOT lending-restricted. The full djvu text was downloaded and searched 2026-09-06; only the Quebec section was read out and cached. 'Kanawana' does not occur in the volume.",
       "notes": "Names Harold C. Cross as President of the Religious Education Council of the Province of Quebec, at 1441 Drummond Street — the YMCA of Montreal's address — in 1936, inside the ten-year hole in his documented career. Other years of this yearbook series exist and are untried. See f_4943."
+    },
+    {
+      "source_id": "src_upu_dictionnaire_bureaux_poste_1909_1912",
+      "type": "catalog_reference",
+      "title": "Union postale universelle, Bureau international, Dictionnaire des bureaux de poste (Lausanne, novembre 1909) with its Supplément of août 1912",
+      "date": "1909-1912",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/dictionnairedesb00univ",
+      "cache_path": "sources/cache/postal/1909-1912-upu-dictionnaire-des-bureaux-de-poste-kanawana.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.79",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "NOT lending-restricted. The full djvu text (12.4 MB) was downloaded and searched 2026-09-06. 'Kanawana' occurs exactly once, at line 908066; that entry, its column alignment, and both publications' scope statements were read out and cached. The rest is unread.",
+      "notes": "TWO PUBLICATIONS IN ONE ITEM, and the Internet Archive dates the whole thing 1909. The dictionary proper is compiled to 1 March 1909 and does NOT contain Kanawana; the August 1912 supplement's Part I, 'Bureaux à ajouter', does, as 'Canada, Québec'. That brackets the office's opening to between March 1909 and June 1912. Reading the catalogue date at face value would put a Kanawana post office before the YMCA arrived. See f_4944."
     }
   ],
-  "source_count": 1619
+  "source_count": 1620
 }

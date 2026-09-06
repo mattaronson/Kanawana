@@ -1,7 +1,7 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 44*
-*Last Updated: 2026-09-06 (Kanawana was a Dominion summer post office)*
+*Status: E1-reviewed | Sources: 45*
+*Last Updated: 2026-09-06 (the post office, and its opening bracketed to 1909-1912)*
 
 ## Overview
 
@@ -27,6 +27,25 @@ The Sessional Papers for **1919** say what kind of office it was: "**Kanawana (s
 The parenthesis is the Department's own, and it appears in the same list against Kahshe Lake and
 Kawartha Park, both Ontario cottage-country offices. So the office opened with the season and closed
 with it.
+
+**It opened between March 1909 and June 1912.** The Universal Postal Union's International Bureau
+published a *Dictionnaire des bureaux de poste* at Lausanne in **November 1909**, listing the post
+offices of every member country "à la date du **1er mars 1909**". **Kanawana is not in it.** The same
+volume carries a **Supplément of August 1912**, containing the changes "notifiés au Bureau international
+… depuis la publication de cet ouvrage **jusqu'au 1er juin 1912**", in three parts — offices to add,
+offices to strike, and modifications. **Kanawana is in Part I, *Bureaux à ajouter*, as "Canada,
+Québec."**^45
+
+So the office did not exist on 1 March 1909 and did exist by 1 June 1912. That is a three-year window,
+and the YMCA bought this site in **1910**, in the middle of it.
+
+*Two things about how that was read, because both could have gone wrong.* The Internet Archive
+catalogues the whole item as "1909"; taken at face value it would put a Kanawana post office **before**
+the YMCA arrived and unsettle the account of how the place got its name. It is in the 1912 supplement,
+which the line numbering settles. And the scan prints the names and the countries as two separate
+columns, so the alignment was checked rather than assumed: counting back from the end of both runs puts
+**Kanawyer** against "E.-U. d'Am., Cal." — Kanawyer is a real place in California — and **Kanawana**
+against "Canada, Québec." An offset of one would have put Kanawyer in Canada.
 
 **And it lasted forty years.** The *Canadian Almanac and Directory* carries Kanawana in its table of
 "Post Offices and Railroad Stations in Canada" in the **1917** and **1918** editions, again in **1943**,
@@ -297,6 +316,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 42. Kanawana Flickr "Plaque" album, `senior-boys-staff-2007.jpg` [src_flickr_kanawana_plaque_album], read in the p_291 audit — see [f_1688]; and oral history, Matt Aronson, 28 August 2026: the Sanctum and the Suez Bridge [src_oral_aronson_sanctum_suez_raku], see [f_2351], [f_2352].
 43. J. Harry Ebbs, M.D., F.R.C.P., "Medical Supplies for the Camp Infirmary," *Canadian Camping* Vol. 30 No. 1 (February 1978), p. 7 [src_ia_canadian_camping_collection]. A national recommendation for a camp of 50-100 campers, not a description of Kanawana's own infirmary. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 117).
 44. Canada, Post Office Department, *Annual Report 1914-1915* [src_po_dept_annual_report_1915]; *Sessional Papers of the Dominion of Canada*, 1919 [src_sessional_papers_1919]; *The Canadian Almanac and Directory*, 1917 and 1918 editions [src_canadian_almanac_1917_1918]. Found 2026-09-06 through a full-text sweep of the Internet Archive book corpus; the passages, with their table headings and what could not be read from them, are cached under `sources/cache/postal/`. See [f_4936].
+45. Union postale universelle, Bureau international, *Dictionnaire des bureaux de poste* (Lausanne, novembre 1909), with its *Supplément* of août 1912, Part I "Bureaux à ajouter" [src_upu_dictionnaire_bureaux_poste_1909_1912]. **Not lending-restricted**: the full text was downloaded and searched 2026-09-06, and "Kanawana" occurs exactly once in it. The entry, the column alignment and both publications' own scope statements are cached at `sources/cache/postal/1909-1912-upu-dictionnaire-des-bureaux-de-poste-kanawana.txt`. See [f_4944].
 
 ## Research Notes
 

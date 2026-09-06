@@ -3169,6 +3169,7 @@
         "src_oral_aronson_sanctum_suez_raku",
         "src_po_dept_annual_report_1915",
         "src_sessional_papers_1919",
+        "src_upu_dictionnaire_bureaux_poste_1909_1912",
         "src_vss_plan_urbanisme_2024",
         "src_vss_reglement_zonage_222_2008",
         "src_wikimapia_kanawana"
@@ -3186,7 +3187,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 4921,
+      "word_count": 5232,
       "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral. 2026-06-20: Added Indigenous territory context (f_1315) and Mille-Isles regional history (f_1314). 2026-06-21: Added 1976 Lovell's directory listing (f_1331) and 2023 superintendent's house fire (f_1333). | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph about the Weredale lease into a new Research Notes > Revision History section (this article previously had no Research Notes section at all). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
