@@ -29503,7 +29503,43 @@
       "read_state": "partial",
       "read_state_basis": "NOT lending-restricted. Full djvu text (138,982 bytes) downloaded and searched 2026-09-06. 'Kanawana' occurs zero times. The two Powter passages and the committee lists around them were read and cached; the rest is unread.",
       "notes": "Montreal's first child-welfare exhibition. Its 'Programme des Amusements' committee names both C. B. POWTER and D. J. EVANS -- Evans led Kanawana's 1913 season -- putting the two men in the same room a year before Evans took the camp. On 9 October 1912 Powter and W. H. Smith, his colleague on the Commercial and Technical High School staff, jointly directed the English schools' 'milice et choeur'. See f_4961."
+    },
+    {
+      "source_id": "src_directory_canadian_welfare_services_1974",
+      "type": "catalog_reference",
+      "title": "Directory of Canadian Welfare Services / Répertoire des services sociaux canadiens (Canadian Council on Social Development, 1974)",
+      "date": "1974",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/directoryofcanad1974unse",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-two-outdoor-guides-1977-and-1991.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.97",
+      "reliability": "primary",
+      "read_state": "snippet",
+      "read_state_basis": "LENDING-RESTRICTED; NOT READ. Two entries on scan leaf 218, recovered 2026-09-06 by Open Library search-inside. Page images return HTTP 403.",
+      "notes": "A directory of welfare services published by the Canadian Council on Social Development -- NOT a camps directory, a distinction this project got wrong for an hour by reading the title off the Internet Archive identifier. Two entries matter. (1) \"'Y' Country Camp Branch, 5500 Westbury Avenue, Montreal (winter), Huberdeau, Quebec (summer)\", which is one of the four controls that decoded the 1991 Guide plein air Quebec's scrambled columns (f_4956). (2) \"YM-YWCA of Cornwall -- A. Ross Seaman, Executive Director -- 421 - 5th Street East, P.O. Box 332\", which dates and titles Seaman's Cornwall post and answers an open question in a-ross-seaman.md. See f_4962. Being a social-development council's directory rather than a camping association's, it had no stake in how camps described themselves."
+    },
+    {
+      "source_id": "src_greig_ontario_boys_2014",
+      "type": "thesis",
+      "title": "Christopher J. Greig, Ontario Boys: Masculinity and the Idea of Boyhood in Postwar Ontario, 1945-1960 (Wilfrid Laurier University Press, 2014)",
+      "date": "2014",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/ontarioboysmascu0000grei",
+      "cache_path": "sources/cache/name-sweep/2026-09-06-directors-index-name-sweep.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.97",
+      "reliability": "secondary",
+      "read_state": "snippet",
+      "read_state_basis": "LENDING-RESTRICTED; NOT READ. One passage on scan leaf 218, reconstructed 2026-09-06 from eight overlapping Open Library search-inside queries. Page images return HTTP 403.",
+      "notes": "An academic monograph quoting NELSON McEWEN in 1945 and giving his title as 'national boys work secretary of the Canadian YMCA' -- independent of the YMCA's own paper, and of the Camp Stephens alumni blog this project has relied on for his career. See f_4963."
     }
   ],
-  "source_count": 1639
+  "source_count": 1641
 }

@@ -69,9 +69,16 @@ THE CONTROLS, all three documented from inside the same corpus rather than from 
    project holds from 1975 to 2001 gives 849-5331 for Kanawana.
 2. **737-6551 is the YM-YWHA of Montreal, 5500 Westbury** — same line, and confirmed again in
    several Jewish community directories in the corpus.
-3. **The 'Y' Country Camp is the YM-YWHA's camp and it is at Huberdeau.** *Directory of Canadian
-   [Camps] 1974* (directoryofcanad1974unse, leaf 218): "**'Y' Country Camp Branch, 5500 Westbury
-   Avenue, Montreal (winter), Huberdeau, Quebec (summer)**". Corroborated by
+3. **The 'Y' Country Camp is the YM-YWHA's camp and it is at Huberdeau.** The *Directory of
+   Canadian Welfare Services / Repertoire des services sociaux canadiens* (Ottawa: Canadian
+   Council on Social Development, 1974), item directoryofcanad1974unse, leaf 218: "**'Y' Country
+   Camp Branch, 5500 Westbury Avenue, Montreal (winter), Huberdeau, Quebec (summer)**".
+   [CORRECTED 2026-09-06, same day: this file first called that item a "Directory of Canadian
+   [Camps] 1974", read off its identifier without checking its metadata. It is a directory of
+   WELFARE SERVICES, published by the Canadian Council on Social Development -- which is why a
+   YM-YWHA branch camp is in it, and which makes it a different and in some ways better witness
+   than a camping-association directory would be. The control it provides is unaffected.]
+   Corroborated by
    jewishfamilybook00stra and jewishcatalogdo00sieg, both "Y Country Camp (Huberdeau), c/o YM/YWHA
    of Montreal, 5500 Westbury", and by isbn_9783319461212, "Bronfman Y Country Camp (YM-YWHA Jewish
    Community Centres of Montreal), 130 Chemin Lac Blanc, Huberdeau, QC".

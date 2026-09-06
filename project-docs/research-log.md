@@ -4981,8 +4981,13 @@ numbers in a ski guide. **Do not read across a scrambled row. Find the field who
 in the corpus, query that field on its own, and let it tell you which row it is in.** Here it took
 three of them, because one would have been a coincidence.
 
-**Found in passing.** `directoryofcanad1974unse`, a *Directory of Canadian Camps* for **1974**. This
-project's holdings of that series begin at 1975.
+**Found in passing.** `directoryofcanad1974unse` — *[Corrected the same day: this was first written
+here as "a Directory of Canadian Camps for 1974", a title read off the Internet Archive identifier
+without checking the item's metadata. It is the* **Directory of Canadian Welfare Services /
+Répertoire des services sociaux canadiens** *(Ottawa: Canadian Council on Social Development, 1974).
+The correction matters twice over: the camping-directory series this project holds still begins at
+1975 and was never extended, and the item is a better witness than a camping directory would be,
+because a social-development council had no stake in how camps described themselves.]*
 
 ---
 
@@ -5206,3 +5211,50 @@ years and had never said what any of these men did for a living, because nobody 
 **And it is a search heuristic for the rest of the list.** For an unidentified early camp name, the
 productive corpora are **school prospectuses, education journals and university athletic histories**
 — not YMCA literature, which this project has already read to the end.
+
+---
+
+## Phase 2 campaign — twenty names, and a title read off an identifier (2026-09-06)
+
+**Topic.** Eight more names from `directors-index.md`, bringing the sweep to twenty of about seventy.
+
+**Two landed.** *A. Ross Seaman* returns exactly one hit, and it answers an open question: the
+**Directory of Canadian Welfare Services** for 1974 lists "**YM-YWCA of Cornwall — A. Ross Seaman,
+Executive Director — 421 - 5th Street East, P.O. Box 332**". `a-ross-seaman.md` asked whether
+Cornwall came before or after Kanawana; it was **after**, and the post was the whole association's,
+not a camp's. The project had held only an oral-history fragment for it. **f_4962.**
+
+*Nelson McEwen* returns Christopher J. Greig's **Ontario Boys** (Wilfrid Laurier UP, 2014), which
+quotes him in 1945 as "national boys work secretary of the Canadian YMCA" at a father-and-son
+banquet. An academic historian working from the period press, giving independently the title this
+project had from YMCA-adjacent sources. **f_4963.**
+
+*T. Duncan Patton* returns twenty-four hits and all of them are him — basketball histories, because
+he was one of the eighteen who played the first game under Naismith. **Nothing was recorded**, since
+every one of them corroborates facts `t-duncan-patton.md` already holds from his own 1919 memoir.
+Corroboration of a settled fact is not a finding, and writing it up would have made the article look
+better sourced without making it more true.
+
+Robitaille, Owens and Shantz return nothing. Charlton returns thirteen hits and none is him. Turner
+returns four hundred and eighty-two and none is identifiable.
+
+**And a correction, made the same day it was made necessary.** Earlier today the item
+`directoryofcanad1974unse` was written into a cache file, a fact, this log and a priority as "a
+*Directory of Canadian Camps* for 1974". It is the **Directory of Canadian Welfare Services /
+Répertoire des services sociaux canadiens**, published by the Canadian Council on Social Development.
+The title was read off the Internet Archive identifier — "directoryofcanad1974unse" — without
+fetching the item's metadata, which takes one request and was made three times that day for other
+items.
+
+The correction is written into all four places rather than quietly swapped, because the wrong title
+was load-bearing in one of them: it was cited as one of the four controls that decoded the 1991 ski
+guide's columns, and a reader checking that chain would have gone looking for a camping directory
+that does not exist. The control itself is unaffected — and the item is in some ways a better
+witness than a camping directory would have been, since a social-development council had no stake in
+how camps described themselves.
+
+**The lesson.** *An identifier is not a title.* Internet Archive identifiers are truncated,
+lowercased and de-punctuated versions of titles, and they lose exactly the word that distinguishes
+"Canadian Camps" from "Canadian Welfare Services". One metadata request settles it. This project has
+already been caught twice by that catalogue's *dates*; this is the first time it has been caught by
+a name.

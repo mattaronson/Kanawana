@@ -4862,16 +4862,17 @@
       "sources_cited": [
         "src_camp_perrot_1959_fresh_look",
         "src_ia_camp_perrot_collection",
-        "src_ia_canadian_camping_collection"
+        "src_ia_canadian_camping_collection",
+        "src_directory_canadian_welfare_services_1974"
       ],
-      "open_questions": 3,
+      "open_questions": 2,
       "cross_links": [
         "directors-index",
         "canoe-trips",
         "section-names"
       ],
       "file_id": null,
-      "word_count": 2915,
+      "word_count": 3092,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

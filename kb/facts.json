@@ -1,8 +1,8 @@
 {
-  "version": "6.96",
-  "kb_version": "6.96",
+  "version": "6.97",
+  "kb_version": "6.97",
   "migrated_from": "3.3",
-  "fact_count": 4923,
+  "fact_count": 4925,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88348,7 +88348,7 @@
         "Y Country Camp",
         "YM-YWHA of Montreal"
       ],
-      "claim": "KANAWANA IN A 1991 QUEBEC OUTDOOR GUIDE, AND THE COLUMN ALIGNMENT THAT HAD TO BE SOLVED FIRST. Guide plein air Quebec (1991), scan leaf 200, returns this raw window: \"Sainl-Hippofyte Domaine des Prte 932.7161 Mont-Laurier Kanawana 819.623.5258 Saint-Sauveur 'Y' CountryCamp 849.5331 Huberdeau 737.6551 Laval\". READ STRAIGHT -- town, facility, telephone -- THAT PUTS KANAWANA AT MONT-LAURIER, and an earlier attempt the same day correctly recorded nothing from it. FOUR CONTROLS, every one of them documented from inside the same book corpus rather than from memory: (1) 849-5331 is the YMCA of Montreal at 1441 Drummond -- a Montreal guidebook prints the two Montreal Ys on one line, \"Drummond (849-5331) YM-YWHA: 5500, Westbury (737-6551)\" -- and every camp directory this project holds from 1975 to 2001 gives 849-5331 for Kanawana; (2) 737-6551 is the YM-YWHA of Montreal at 5500 Westbury, from the same line and from several Jewish community directories; (3) the 'Y' Country Camp is the YM-YWHA's camp AND IT IS AT HUBERDEAU -- the Directory of Canadian Camps 1974 gives \"'Y' Country Camp Branch, 5500 Westbury Avenue, Montreal (winter), Huberdeau, Quebec (summer)\", corroborated three more times in the corpus; (4) 819-623 is the Mont-Laurier exchange. THE ALIGNMENT THAT SATISFIES ALL FOUR is that the facility column runs ONE ROW AHEAD of the town and telephone columns in the OCR stream, giving: Mont-Laurier / Domaine des Pretres / 819-623-5258; SAINT-SAUVEUR / KANAWANA / 849-5331; Huberdeau / 'Y' Country Camp / 737-6551. The straight reading fails all three rows at once; this one passes all three. WHAT IS RECORDED: Kanawana appears in a 1991 Quebec outdoor guide, at Saint-Sauveur, under the YMCA's Montreal number, among the province's outdoor and camp centres -- a modest finding whose value is mostly the offset, which applies to every other camp on the same list. WHAT IS NOT: the tail of the window, where the interleave breaks down, and the row before Mont-Laurier, whose facility name is not in the window. THIS IS THE FOURTH COLUMN AMBIGUITY IN THIS PROJECT SETTLED THE SAME WAY -- after Kanawyer in the UPU postal list, Lac Batiment in the Matawinie lake cluster and D-U-N-S 20-765-0813 in the credit directories. The method is now explicit: do not read across a scrambled row; find the field whose value is unique in the corpus, query that field on its own, and let it tell you which row it is in.",
+      "claim": "KANAWANA IN A 1991 QUEBEC OUTDOOR GUIDE, AND THE COLUMN ALIGNMENT THAT HAD TO BE SOLVED FIRST. Guide plein air Quebec (1991), scan leaf 200, returns this raw window: \"Sainl-Hippofyte Domaine des Prte 932.7161 Mont-Laurier Kanawana 819.623.5258 Saint-Sauveur 'Y' CountryCamp 849.5331 Huberdeau 737.6551 Laval\". READ STRAIGHT -- town, facility, telephone -- THAT PUTS KANAWANA AT MONT-LAURIER, and an earlier attempt the same day correctly recorded nothing from it. FOUR CONTROLS, every one of them documented from inside the same book corpus rather than from memory: (1) 849-5331 is the YMCA of Montreal at 1441 Drummond -- a Montreal guidebook prints the two Montreal Ys on one line, \"Drummond (849-5331) YM-YWHA: 5500, Westbury (737-6551)\" -- and every camp directory this project holds from 1975 to 2001 gives 849-5331 for Kanawana; (2) 737-6551 is the YM-YWHA of Montreal at 5500 Westbury, from the same line and from several Jewish community directories; (3) the 'Y' Country Camp is the YM-YWHA's camp AND IT IS AT HUBERDEAU -- the Directory of Canadian Welfare Services / Repertoire des services sociaux canadiens (Ottawa: Canadian Council on Social Development, 1974) gives \"'Y' Country Camp Branch, 5500 Westbury Avenue, Montreal (winter), Huberdeau, Quebec (summer)\", corroborated three more times in the corpus [CORRECTED 2026-09-06, same day: first recorded here as a 'Directory of Canadian Camps 1974', a title read off the Internet Archive identifier 'directoryofcanad1974unse' without checking the item's metadata. It is a directory of WELFARE SERVICES. The control is unaffected -- and the item is in some ways a better witness than a camping directory, since a social-development council had no stake in how camps described themselves]; (4) 819-623 is the Mont-Laurier exchange. THE ALIGNMENT THAT SATISFIES ALL FOUR is that the facility column runs ONE ROW AHEAD of the town and telephone columns in the OCR stream, giving: Mont-Laurier / Domaine des Pretres / 819-623-5258; SAINT-SAUVEUR / KANAWANA / 849-5331; Huberdeau / 'Y' Country Camp / 737-6551. The straight reading fails all three rows at once; this one passes all three. WHAT IS RECORDED: Kanawana appears in a 1991 Quebec outdoor guide, at Saint-Sauveur, under the YMCA's Montreal number, among the province's outdoor and camp centres -- a modest finding whose value is mostly the offset, which applies to every other camp on the same list. WHAT IS NOT: the tail of the window, where the interleave breaks down, and the row before Mont-Laurier, whose facility name is not in the window. THIS IS THE FOURTH COLUMN AMBIGUITY IN THIS PROJECT SETTLED THE SAME WAY -- after Kanawyer in the UPU postal list, Lac Batiment in the Matawinie lake cluster and D-U-N-S 20-765-0813 in the credit directories. The method is now explicit: do not read across a scrambled row; find the field whose value is unique in the corpus, query that field on its own, and let it tell you which row it is in.",
       "sources": [
         "src_guide_plein_air_quebec_1991"
       ],
@@ -88455,6 +88455,42 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.96",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4962",
+      "category": "people",
+      "date_ref": "1974",
+      "entities": [
+        "A. Ross Seaman",
+        "YM-YWCA of Cornwall",
+        "Kamp Kanawana"
+      ],
+      "claim": "A. ROSS SEAMAN WAS EXECUTIVE DIRECTOR OF THE CORNWALL Y, AND IT WAS AFTER KANAWANA. The Directory of Canadian Welfare Services / Repertoire des services sociaux canadiens (Ottawa: Canadian Council on Social Development, 1974), leaf 218, lists: \"YM-YWCA OF CORNWALL -- A. ROSS SEAMAN, EXECUTIVE DIRECTOR -- 421 - 5TH STREET EAST, P.O. BOX 332\". a-ross-seaman.md's Open Question 4 asks 'What was Seaman's role at Cornwall YMCA -- was this before or after his Kanawana directorship?' It was AFTER, and the role was EXECUTIVE DIRECTOR of the whole association rather than a camp post: he directed Kamp Kanawana from 1959 to 1967 and is at Cornwall by 1974. The address is new too. THE PROJECT HAD ONLY AN ORAL-HISTORY FRAGMENT for this -- that 'at some point in his career, he offered a colleague a position at the Cornwall YMCA' -- and now has a dated printed entry with a title and a street address. ON THE SOURCE, AND A CORRECTION MADE THE SAME DAY: this item was first recorded here as a 'Directory of Canadian Camps 1974', a title read off the Internet Archive identifier 'directoryofcanad1974unse' without checking the item's metadata. It is a directory of WELFARE SERVICES. The distinction improves it: a social-development council compiling a national directory of agencies had no stake in how camps or Ys described themselves. ALIGNMENT CHECKED: the entry reads organisation, then contact and title, then address, and the preceding organisation's contact and the following town heading (DEEP RIVER) both fall where that pattern predicts. CAVEAT: lending-restricted and not read; two entries only, recovered by search-inside, page images 403.",
+      "sources": [
+        "src_directory_canadian_welfare_services_1974"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.97",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4963",
+      "category": "people",
+      "date_ref": "1945",
+      "entities": [
+        "Nelson McEwen",
+        "YMCA of Canada",
+        "father-and-son"
+      ],
+      "claim": "NELSON McEWEN QUOTED IN A SCHOLARLY MONOGRAPH, WITH HIS TITLE. Christopher J. Greig, Ontario Boys: Masculinity and the Idea of Boyhood in Postwar Ontario, 1945-1960 (Wilfrid Laurier University Press, 2014): \"In 1945, NELSON McEWEN, NATIONAL BOYS WORK SECRETARY OF THE CANADIAN YMCA, told members at a father-and-son banquet that boys 'needed the help of the experience of older men.' He further urged 'fathers to unite with their sons' in carrying out boys work programs.\" WHY IT IS WORTH HAVING: this project holds McEwen from the National Council Boys' Work correspondence of 1941-1945 in the Concordia fonds and from the Camp Stephens alumni blog, both of which are YMCA-adjacent. This is an academic historian, working from the period press, giving the same title independently and quoting him. It also places him squarely in the FATHER-AND-SON programming tradition that Edgar M. Robinson built into North American YMCA boys' work and that Kanawana ran in its own form -- the same year the Concordia correspondence ends. NOT ESTABLISHED: where the banquet was, which newspaper Greig is quoting, or whether McEwen is speaking about Kanawana or any camp; the passage is about boys' work generally. Lending-restricted and not read; one passage reconstructed from eight overlapping Open Library search-inside queries.",
+      "sources": [
+        "src_greig_ontario_boys_2014"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.97",
       "added_by": "ralph_loop"
     }
   ]
