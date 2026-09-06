@@ -1,8 +1,8 @@
 {
-  "version": "7.14",
-  "kb_version": "7.14",
+  "version": "7.15",
+  "kb_version": "7.15",
   "migrated_from": "3.3",
-  "fact_count": 4950,
+  "fact_count": 4951,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -89028,6 +89028,26 @@
       "confidence": "inferred",
       "conflicts_with": [],
       "added_version": "7.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4989",
+      "category": "sources",
+      "date_ref": "1901-1920",
+      "entities": [
+        "Year Book of the Young Men's Christian Associations",
+        "HathiTrust",
+        "W. J. Holliday",
+        "M. G. Brooks",
+        "W. H. Ball, Jr."
+      ],
+      "claim": "THE MISSING YEAR BOOK YEARS ARE ON HATHITRUST, PUBLIC DOMAIN, AND THIS ENVIRONMENT CANNOT READ THEM. f_4985 established that the series is unavailable on the Internet Archive for 1883, 1885, 1889, 1901-1905, 1910-1920 and 1923-1935. HathiTrust has essentially all of it. TWO CATALOGUE RECORDS HOLD THE SERIES AND BOTH MUST BE QUERIED: OCLC 6996715 returns record 000528855 with 42 items, while LCCN 29015142 returns that record AND a second, 011919824, with eleven more -- including the cleanest single-year run of 1901 through 1906. The holes, with their HathiTrust item ids, all rightsCode 'pd': 1901 ien.35556001609783; 1902 ien.35556001609791; 1903 ien.35556001609809; 1904 ien.35556001609817; 1905 ien.35556001609825; 1909-1910 mdp.39015069245812; 1910-11 uiug.30112109814126; 1911/12 uiug.30112109814233; 1913/14 uiug.30112109814225; 1915/16 uiug.30112109814217; 1916/17 uiug.30112109814209; 1917/18 uiug.30112109814191; 1918/19 uiug.30112086367254; 1919/20 uiug.30112109814183. STILL MISSING EVEN THERE: 1883, 1885, 1889, 1912/13, 1914/15 and 1920/21. ACCESS FAILURE, NOT A NULL, AND RECORDED AS ONE. HathiTrust's Bib API returns JSON normally and was control-tested against a known OCLC before any of this was trusted. Every reading and search endpoint returns HTTP 403 behind a Cloudflare interstitial -- catalog Search/Home, babel cgi/ls, cgi/pt, cgi/imgsrv/html, cgi/imgsrv/download/pdf. So this environment can enumerate HathiTrust precisely and read nothing from it, which is a fact about the gateway and not about the volumes. GOOGLE BOOKS IS ALSO NOT A NULL: its API returned HTTP 429, 'Quota exceeded ... Queries per day', and the control query failed identically, so it says nothing about what Google holds -- retry on a later day, the more so because the mdp. and uiug. scans are Michigan and Illinois copies and both were Google-digitised. UNTRIED ROUTES: the HathiTrust Data API, which needs OAuth credentials a person can request; Google Books on a later day; the Kautz Family YMCA Archives at Minnesota, which holds the run in print; AND ANY PERSON WITH A BROWSER, since these volumes are public-domain full view and the challenge is aimed at automation. WHAT TO ASK THEM, in priority order: whether W. J. Holliday is Boys' Work Director again in 1910-11 or 1911/12, having held that post in 1907-08, lost it to M. G. Brooks by 1909, and opened the camp's new site in 1910; the Montreal Boys' Work Director year by year through 1910-1920, the Boys' Department being what ran the camp; and the 1901-1905 volumes for when W. H. Ball left the Physical Directorship, currently bounded only to that range.",
+      "sources": [
+        "src_ymca_yearbook_hathitrust_holdings_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.15",
       "added_by": "ralph_loop"
     }
   ]

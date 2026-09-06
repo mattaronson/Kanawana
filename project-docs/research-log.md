@@ -5881,3 +5881,35 @@ hold the same year, read both.
 The finding, corrected, is still a finding: Charles Cushing held the Quebec corresponding
 membership in the 1887, 1888, 1891, 1893, 1894 and 1895 volumes — six documented years across at
 least nine — before, during and after the 1892 trip and the 1894 founding.
+
+### The missing years are on HathiTrust, and this environment cannot read them
+
+p_436's remaining job. "Not on the Internet Archive" was never the same statement as "not
+digitised", and the difference turned out to be all of it.
+
+HathiTrust's **Bib API answers normally** — control-tested against a known OCLC before anything
+was trusted. The OCLC and LCCN came out of the Internet Archive metadata of volumes already held.
+And **two catalogue records hold this series**: the OCLC lookup returns one, and the LCCN lookup
+returns that one plus a second carrying the cleanest single-year run of 1901 through 1906. Query
+one and you miss a third of the holdings — the same lesson as the identifier stem, in a different
+catalogue.
+
+Every missing year is there, public domain, with an identifier: 1901-1905 singly, and 1909-1910
+through 1919/20 in a University of Illinois run. Still absent even there: 1883, 1885, 1889,
+1912/13, 1914/15, 1920/21.
+
+**And none of it can be read from here.** Every HathiTrust reading and search endpoint returns
+HTTP 403 behind a Cloudflare interstitial — the catalogue search, the full-text search, the
+reader, the page-image server, the PDF download. Recorded as an access failure with the untried
+routes named, not as a null: the Data API with OAuth credentials, Google Books on a later day,
+the Kautz Family YMCA Archives in print, and **any person with a browser**, since these are
+public-domain full-view volumes and the challenge is aimed at automation.
+
+Google Books is not a null either. Its API returned HTTP 429, daily quota exceeded, and the
+control query failed identically — so it says nothing yet about what Google holds, which matters
+because the Illinois and Michigan scans were Google-digitised in the first place.
+
+Raised as **p_439**, weight 9, a human task. The material is known to exist, known to be public
+domain and precisely located; the only obstacle is a bot challenge. The 1910-11 volume alone would
+settle whether W. J. Holliday was Boys' Work Director again when he opened the new site — a
+question this project has already got wrong once today.

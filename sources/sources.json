@@ -29863,7 +29863,25 @@
       "read_state": "read",
       "read_state_basis": "Compiled 2026-09-06 under p_436 from advancedsearch.php title queries on both of the series' titles, archive.org/metadata on every item found, two title-page patterns run across all thirteen downloaded djvu texts, and direct front-matter reads on the items both patterns missed. This is a finding-aid record, not a source of camp facts.",
       "notes": "REGISTERED SO NOBODY ENUMERATES THIS SERIES AGAIN. Thirteen Internet Archive items hold twenty-three annual volumes; six items hold more than one, one holds five, and one is bound out of order. Catalogue years are unreliable -- ymcayearbookand00amergoog is catalogued 1907 and is the 1909 volume. THE SERIES IS AVAILABLE FOR 1881-82, 1884, 1886, 1887, 1888, 1890, 1891, 1892, 1893, 1894, 1895, 1896, 1897, 1898, 1899, 1900, 1906, 1907, 1908, 1909, 1921, 1922 and 1936 (restricted). IT IS NOT AVAILABLE ON THE INTERNET ARCHIVE FOR 1883, 1885, 1889, 1901-1905, 1910-1920 or 1923-1935. Those holes are not an artefact of a bad query: four corrected search methods converge on them. 1910-1920 costs the most -- the new site's first decade and the whole First World War. See f_4985."
+    },
+    {
+      "source_id": "src_ymca_yearbook_hathitrust_holdings_2026",
+      "type": "catalog_reference",
+      "title": "HathiTrust holdings of the YMCA Year Book — the years missing from the Internet Archive, located but unread",
+      "date": "2026-09-06",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://catalog.hathitrust.org/api/volumes/full/lccn/29015142.json",
+      "cache_path": "sources/cache/ymca-yearbooks/2026-09-06-hathitrust-holdings-the-missing-years.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "7.15",
+      "reliability": "tertiary",
+      "read_state": "unread",
+      "read_state_basis": "A FINDING AID AND AN ACCESS FAILURE RECORD. Compiled 2026-09-06 under p_436 from HathiTrust's Bib API, which returns JSON normally and was control-tested against a known OCLC first. NONE OF THE VOLUMES IT LISTS HAS BEEN READ: every HathiTrust reading and search endpoint returns HTTP 403 behind a Cloudflare interstitial from this environment -- catalog Search/Home, babel cgi/ls, cgi/pt, cgi/imgsrv/html and cgi/imgsrv/download/pdf. This environment can enumerate HathiTrust precisely and read nothing from it.",
+      "notes": "THE YEARS THE INTERNET ARCHIVE DOES NOT HAVE ARE ON HATHITRUST, PUBLIC DOMAIN, WITH IDENTIFIERS. Two catalogue records hold the series and BOTH must be queried -- OCLC 6996715 returns record 000528855 with 42 items; LCCN 29015142 returns that record AND 011919824 with eleven more, including the cleanest run of 1901-1906. The holes and their item ids: 1901 ien.35556001609783; 1902 ien.35556001609791; 1903 ien.35556001609809; 1904 ien.35556001609817; 1905 ien.35556001609825; 1909-1910 mdp.39015069245812; 1910-11 uiug.30112109814126; 1911/12 uiug.30112109814233; 1913/14 uiug.30112109814225; 1915/16 uiug.30112109814217; 1916/17 uiug.30112109814209; 1917/18 uiug.30112109814191; 1918/19 uiug.30112086367254; 1919/20 uiug.30112109814183. All rightsCode 'pd'. STILL MISSING EVEN THERE: 1883, 1885, 1889, 1912/13, 1914/15, 1920/21. GOOGLE BOOKS IS NOT A NULL EITHER -- its API returned HTTP 429, daily quota exceeded, and the control query failed identically, so retry on a later day; the mdp. and uiug. scans are Michigan and Illinois copies, both Google-digitised. A PERSON WITH A BROWSER CAN READ ALL OF THESE: they are public domain full view and the Cloudflare challenge is aimed at automation. See f_4989."
     }
   ],
-  "source_count": 1659
+  "source_count": 1660
 }
