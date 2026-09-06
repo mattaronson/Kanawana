@@ -29467,7 +29467,43 @@
       "read_state": "snippet",
       "read_state_basis": "LENDING-RESTRICTED; NOT READ. One passage on scan leaf 314, reconstructed 2026-09-06 from thirteen overlapping Open Library search-inside queries and walked to a chapter break. Page images return HTTP 403.",
       "notes": "Found by running 'Hay Finlay' -- a name in this project's own directors-index.md -- against the book corpus. Gives Kanawana's 1922 Senior Section Director as McGILL'S GYMNASTICS AND SOCCER COACH, co-developing Camp Nominingue with Van Wagner, a camp 'known as Camp McGill to all the residents of the area' and staffed by McGill students. See f_4959."
+    },
+    {
+      "source_id": "src_commercial_technical_high_school_prospectus_1908",
+      "type": "catalog_reference",
+      "title": "Commercial and Technical High School (Montreal), Prospectus for Session 1908-1909",
+      "date": "1908",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/prospectusforses00mont",
+      "cache_path": "sources/cache/periodicals/1908-1912-cb-powter-montreal-schoolmaster.txt",
+      "char_count": 29156,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.96",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "NOT lending-restricted. Full djvu text (29,156 bytes) downloaded and searched 2026-09-06. 'Kanawana' and 'camp' occur ZERO times. The staff list was read and cached; the rest of the prospectus is unread. A second copy exists as the CIHM microform cihm_74471.",
+      "notes": "Names C. B. POWTER, ESQ. as PHYSICAL TRAINING master -- the first documented occupation for the man who ran the YMCA of Montreal's senior camp at Lake St. Joseph in 1898 (f_4911) and founded Camp Sans Egal on the same lake in 1902. See f_4960."
+    },
+    {
+      "source_id": "src_exposition_bien_etre_enfants_1912",
+      "type": "catalog_reference",
+      "title": "Exposition pour le bien-être des enfants, Manège Militaire, rue Craig, Montréal, octobre 1912 — guide-souvenir",
+      "date": "1912-10",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/cihm_81839",
+      "cache_path": "sources/cache/periodicals/1908-1912-cb-powter-montreal-schoolmaster.txt",
+      "char_count": 138982,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.96",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "NOT lending-restricted. Full djvu text (138,982 bytes) downloaded and searched 2026-09-06. 'Kanawana' occurs zero times. The two Powter passages and the committee lists around them were read and cached; the rest is unread.",
+      "notes": "Montreal's first child-welfare exhibition. Its 'Programme des Amusements' committee names both C. B. POWTER and D. J. EVANS -- Evans led Kanawana's 1913 season -- putting the two men in the same room a year before Evans took the camp. On 9 October 1912 Powter and W. H. Smith, his colleague on the Commercial and Technical High School staff, jointly directed the English schools' 'milice et choeur'. See f_4961."
     }
   ],
-  "source_count": 1637
+  "source_count": 1639
 }

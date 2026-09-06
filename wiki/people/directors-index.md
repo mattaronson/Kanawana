@@ -1,7 +1,7 @@
 # Directors and Staff of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 39*
-*Last Updated: 2026-09-06 (Spinney and Finlay given careers; and the 1898 camp leadership, six named men, added from the 1899 report)*
+*Status: E1-reviewed | Sources: 40*
+*Last Updated: 2026-09-06 (three of these men now have day jobs, and all three are schoolmasters)*
 
 ## Summary
 
@@ -148,6 +148,14 @@ The 1921, 1922, and 1923 camp brochures and the 1923 *Gas Bag* reunion newslette
 *The identification, and what it rests on.* An uncommon surname with the same two initials, the same city, the same profession, and the exact fit of the role — Kanawana's **Educational** Director being a schoolmaster, and this one a schoolmaster who wrote a national column on how to teach. That is an identification by name, place and calling, not a documented link, and it is written here as such. The same volume was searched in full and **"Kanawana" does not appear in it once**. A different Mr. F. H. Spinney, of Hudson, New Hampshire, turns up in four Harvard College Observatory annual reports as a volunteer variable-star observer and accounts for a third of the hits on the bare name; he is not this man. Still unknown: Spinney's first name, his dates, and when he came to or left the camp beyond what the brochures imply. *The School* ran to 1935 and the later volumes are unsearched — and they cover every year of his known camp service.
 
 **1921 season.** Under director G.D. Brandon, the documented staff included H.H. Hart (Camp Doctor), F.H. Spinney (Educational Director), and Harry Smith (Chef).^3
+
+**The men the Montreal YMCA put in charge of its camps were schoolmasters.** This table lists roles and years; it has never said what any of these men did for a living, and until 2026-09-06 the project could not have told you. Three of them are now placed, and all three are in education:
+
+- **F.H. Spinney**, Educational Director from about 1917 — **Principal of Alexandra School, Montreal**, and the author of an eight-part national column on how to teach.^36
+- **C. B. Powter**, one of the four in charge of the 1898 senior camp — **Physical Training master at the Commercial and Technical High School, Montreal**, per that school's prospectus for the session 1908-09.^40 He founded his own camp, Sans Egal, on the same Lac St. Joseph in 1902.
+- **Hay Finlay**, Senior Section Director in 1922 — **gymnastics and soccer coach at McGill**, and later co-founder of Camp Nominingue.^38
+
+**And two of them are documented in the same Montreal room.** The guide-souvenir of the *Exposition pour le bien-être des enfants* — the city's first child-welfare exhibition, held at the Manège Militaire on rue Craig in October 1912 — prints a "Programme des Amusements" committee naming both **C. B. Powter** and **D. J. Evans**, a year before Evans took charge of Kanawana's 1913 season.^40 On 9 October Powter and W. H. Smith, the music master on his own school's staff list, jointly directed the English schools' "milice et chœur". None of this is surprising, and none of it was written down anywhere in this project before.
 
 **Hay Finlay went from Kanawana's senior section to founding a camp of his own, and then to the national association.** This is the fullest career of any staff member in this table's early years, and every piece of it was already in this project's knowledge base before 2026-09-06 — what was missing was anyone putting the pieces beside each other. From the camp's 1922 brochure he is "ex-Central YMCA Boys' Physical Director, then at McGill Physical Education". *The McGill You Knew* (1975) gives the job precisely: **gymnastics and soccer coach**, named among the university's coaching staff of the period.^38 And *Canadian Camping* says twice, from both ends, that he and F. M. Van Wagner founded **Camp Nominingue** — G. H. Merrill in February 1963: "In the fall of 1924, Van and a McGill associate of his, Hay Finlay, decided that they would operate their own camp"; Anne Vail in 1954: "He was co-founder of this Camp with Hay Finlay in 1925."^37 By February 1949 Finlay was the **Canadian Camping Association's Secretary-Treasurer**, at 475 Pine Avenue West, Montreal.^37
 
@@ -374,6 +382,8 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 38. *The McGill You Knew: An Anthology of Memories, 1920-1960* (Don Mills: Longman Canada, 1975), Internet Archive scan leaf 314 [src_mcgill_you_knew_1975]. **One passage only**, reconstructed 2026-09-06 from thirteen overlapping Open Library search-inside queries and walked to a chapter break; the book is lending-restricted, page images return HTTP 403, and it has not been read. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-mcgill-you-knew-hay-finlay.txt`. See [f_4959].
 
 39. YMCA of Montreal, annual report for the year ending 30 April 1899, and the report for the year ending 30 April 1902 [src_ia_ymca_montreal_annual_reports_collection]. Read from the page images 2026-09-05. See [f_4908], [f_4911], [f_4913], [f_4915].
+
+40. Commercial and Technical High School (Montreal), *Prospectus for Session 1908-1909* [src_commercial_technical_high_school_prospectus_1908], and the guide-souvenir of the *Exposition pour le bien-être des enfants*, Manège Militaire, Montréal, October 1912 [src_exposition_bien_etre_enfants_1912]. **Neither is lending-restricted**: both djvu texts were downloaded whole and searched 2026-09-06, and "Kanawana" occurs in neither. The staff and committee lists, with what they do and do not establish, are cached at `sources/cache/periodicals/1908-1912-cb-powter-montreal-schoolmaster.txt`. See [f_4960], [f_4961].
 
 ## Research Notes
 

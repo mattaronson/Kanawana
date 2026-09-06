@@ -5169,3 +5169,40 @@ in print and **Dawson is not on it**, nor among the men running either camp. Tha
 queries, new surfaces. The cheapest research left is inward, and nobody had ever done it
 systematically: grep the knowledge base for the subject of every open question in every article. It
 is now one command.
+
+---
+
+## Phase 2 campaign — three men, three schools (2026-09-06)
+
+**Topic.** Three more names from `directors-index.md`. Greig Macdiarmid: 0. Howie Langille: 0.
+J. G. MacKinnon: 244 hits, all an econometrician and a Cape Breton Gaelic editor.
+
+**C. B. Powter landed, twice, and both items are unrestricted.**
+
+The *Commercial and Technical High School (Montreal), Prospectus for Session 1908-1909* prints its
+staff list, and in it: "**C. B. POWTER, ESQ., ....... Physical Training**". That is the first
+documented occupation for the man who is one of four named in charge of the YMCA of Montreal's
+senior camp at Lake St. Joseph in 1898, and who founded Camp Sans Egal on the same lake in 1902.
+**f_4960.**
+
+The guide-souvenir of the *Exposition pour le bien-être des enfants* — Montreal's first
+child-welfare exhibition, Manège Militaire, rue Craig, October 1912 — prints under its own heading:
+
+> "PROGRAMME DES AMUSEMENTS. Dr F. Tees, **D. J. Evans**, J. McClements, Henry Scott, Mde R.
+> MacMillan, W. H. Smith, Mlle Idola St-Jean, **C. B. Powter**, Mlle Cartwright, M. J. Chabelle,
+> Major J. Long, L. J. MacMahon, J. E. Merritt, Rufus Smith."
+
+D. J. Evans led Kanawana's 1913 season. **The exhibition put the two men on the same committee a
+year before Evans took the camp.** And on 9 October, "Milice et chœur, par les écoles anglaises,
+sous la direction de C. B. Powter et W. H. Smith" — Smith being the music master on Powter's own
+school staff list. **f_4961.**
+
+**The pattern is the actual finding.** Three names have now landed in this sweep, and all three men
+are in education: Spinney a school principal, Powter a physical-training master, Finlay a McGill
+coach. **The men the Montreal YMCA put in charge of its camps were schoolmasters.** That is not a
+surprising conclusion. It was also nowhere in this project — `directors-index.md` listed roles and
+years and had never said what any of these men did for a living, because nobody had ever known.
+
+**And it is a search heuristic for the rest of the list.** For an unidentified early camp name, the
+productive corpora are **school prospectuses, education journals and university athletic histories**
+— not YMCA literature, which this project has already read to the end.

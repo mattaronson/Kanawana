@@ -1,8 +1,8 @@
 {
-  "version": "6.95",
-  "kb_version": "6.95",
+  "version": "6.96",
+  "kb_version": "6.96",
   "migrated_from": "3.3",
-  "fact_count": 4921,
+  "fact_count": 4923,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -88416,6 +88416,45 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.95",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4960",
+      "category": "people",
+      "date_ref": "1908-1909",
+      "entities": [
+        "C. B. Powter",
+        "Commercial and Technical High School",
+        "Montreal",
+        "Powter's Camp"
+      ],
+      "claim": "C. B. POWTER WAS A MONTREAL SCHOOLMASTER, AND HIS SUBJECT WAS PHYSICAL TRAINING. The Commercial and Technical High School (Montreal), Prospectus for Session 1908-1909 -- NOT lending-restricted, downloaded whole and searched -- prints its staff list, and in it: \"C. B. POWTER, ESQ., ....... Physical Training\", between \"C. JOHANSSON, ESQ., Manual Training\" and \"MISS J. DOW, Domestic Science\", with \"W. H. SMITH, ESQ., F.T.S.C., Music\" three lines above. This is the first documented occupation for the man who is one of the four named in charge of the YMCA of Montreal's SENIOR CAMP AT LAKE ST. JOSEPH IN 1898 (f_4911) and who founded Camp Sans Egal, later Powter's Camp, on the same lake in June 1902 (f_2986). So in 1908-09, six years into running his own camp, he was teaching physical training in a Montreal high school. 'Kanawana' and 'camp' occur ZERO times in the prospectus. A second copy of the same prospectus exists as the CIHM microform cihm_74471. CAUTION ON THE NAME: the bare query 'C. B. Powter' returns nineteen hits, most of them a modern Alberta land-reclamation editor with the same initials.",
+      "sources": [
+        "src_commercial_technical_high_school_prospectus_1908"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.96",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4961",
+      "category": "people",
+      "date_ref": "1912-10",
+      "entities": [
+        "C. B. Powter",
+        "D. J. Evans",
+        "W. H. Smith",
+        "Montreal",
+        "Exposition pour le bien-etre des enfants"
+      ],
+      "claim": "KANAWANA'S 1913 DIRECTOR AND THE YMCA'S 1898 CAMP LEADER SAT ON THE SAME MONTREAL COMMITTEE IN 1912. The guide-souvenir of the Exposition pour le bien-etre des enfants -- Montreal's first child-welfare exhibition, held at the Manege Militaire on rue Craig in October 1912, NOT lending-restricted and downloaded whole -- prints under its own heading: \"PROGRAMME DES AMUSEMENTS. Dr F. Tees, D. J. EVANS, J. McClements, Henry Scott, Mde R. MacMillan, W. H. Smith, Mlle Idola St-Jean, C. B. POWTER, Mlle Cartwright, M. J. Chabelle, Major J. Long, L. J. MacMahon, J. E. Merritt, Rufus Smith.\" D. J. EVANS is one of the three men the association's 1914 annual report names in charge of Kamp Kanawana for the 1913 season. C. B. POWTER ran the YMCA's own camp at Lake St. Joseph in 1898 and by 1912 had his own camp on the same lake. The exhibition put them on the same committee A YEAR BEFORE EVANS TOOK KANAWANA. The programme itself, for Wednesday 9 October 1912, adds: \"4 P.M. Milice et choeur, par les ecoles anglaises, sous la direction de C. B. Powter et W. H. Smith\" -- and W. H. Smith is the MUSIC MASTER on the same school staff list as Powter in the 1908-09 prospectus (f_4960), so one school's physical-training and music masters jointly ran the English Protestant schools' public showpiece. (The OCR gives 'C, E. Powter' in the programme line and 'C, B. Powter' in the committee list; the initial is B in the school prospectus and in every camp record.) WHAT IT ADDS TO THE CAMP'S OWN STORY: the pattern already visible in F. H. Spinney -- Kanawana's Educational Director, and Principal of Alexandra School, Montreal (f_4958) -- holds here too. THE MEN THE MONTREAL YMCA PUT IN CHARGE OF ITS CAMPS WERE SCHOOLMASTERS, and specifically the physical-training and educational specialists of the city's schools. Not a surprising finding, but this project had asserted it nowhere and had the evidence for it nowhere. NOT ESTABLISHED: Powter's and Evans's first names, whether they knew each other before 1912 or through the camps, and what the amusements committee actually did.",
+      "sources": [
+        "src_exposition_bien_etre_enfants_1912"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.96",
       "added_by": "ralph_loop"
     }
   ]
