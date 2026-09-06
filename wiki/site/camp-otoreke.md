@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 39*
+*Status: E1-reviewed | Sources: 40*
 *Last Updated: 2026-09-06 (the camp's 1956 purchase of ninety mainland acres, the first acreage figure this article has had)*
 
 ## Overview
@@ -12,6 +12,28 @@ Camp Otoreke was the YMCA of Montreal's original camping site, located on island
 Lake Saint-Joseph is located in the Township of Howard (now Saint-Adolphe-d'Howard).^2 The lake measures approximately 3 km long by 1 km at maximum width.^2 The YMCA purchased three islands in the lake for the camp, which had a landing area on the shore.^1 A historical postcard titled "A View of The YMCA Camp Landing, Otoreke, Quebec" shows a developed landing dock and waterfront facilities.^3
 
 Saint-Adolphe-d'Howard is a municipality in the Laurentians region of Quebec, in the Pays-d'en-Haut Regional County Municipality.^2 The Township of Howard was created in 1873, named after Frederick Howard, 5th Earl of Carlisle, a Commissioner of the Colonies during the American Revolution.^15 The municipality changed its name from Howard Township to Saint-Adolphe-d'Howard in 1939; the area was popularly known as "Villa Howard" and earned the reputation "Miami of the Laurentians" in the 1950s.^11
+**A dam was legislated in 1923 that would have drowned the islands.** The association's annual
+report for the year ending 31 March 1924, on the Otoreke page: "We are advised that **a Bill has
+recently passed the Legislative Assembly providing for the erection of a dam which will have the
+effect of raising the water in these lakes, thereby submerging the three islands which have been the
+property of the Association for over thirty years**. This work, of course, will not be completed for
+some time, and **the Camp will again be carried on this year**."^40
+
+**What this does and does not establish.** It is the association's own report of a statute, so the
+Bill is a hard fact and a findable one — Quebec's Legislative Assembly, session of 1923-24. **What
+happened next is not in anything read here.** The camp plainly continued: it was still running in
+1956, when it bought ninety mainland acres, and still had a ski lodge into the 1960s. So either the
+dam was never built, or it was built without submerging the islands, or the islands went and the
+camp carried on from the shore. **This article does not choose between those**, and the 1956
+mainland purchase should not be read as caused by the dam simply because it fits — thirty-two years
+separate them and no source connects them.
+
+**It does make the islands' status a question rather than a background fact.** Everything above
+about the site describes three islands in Lake Saint-Joseph, held since a purchase dated to
+26 November 1901 and earlier. From 1923 there is a documented legislative threat to all of it, and
+this project has no evidence either way about the outcome. **The Bill itself is the next thing to
+find**, in the Assembly's statutes for that session.
+
 **The camp grew onto the mainland in 1956.** The association's annual report for the year ending 31 December 1956 states it in two sentences under Camp Otoreke: "In 1956 the Camp acquired an **additional ninety acres**, which is **on the mainland opposite the Otoreke landing**. The Camp Committee is **considering the use of this property to expand its program to include family camping**."^38 That is the first acreage figure this article has for Otoreke, and it moves the camp off its islands: everything above concerns the three islands in the lake, and this is land across the water from the landing. **The family-camping intention is recorded as an intention.** Nothing found here says the ninety acres were ever used that way, and the family programmes this article does document at Otoreke — the Otoreke Project's twenty-five inner-city families in 1969, grown to over a thousand people by 1972 — are thirteen years later and are described in the sources as citizen groups organising for themselves. Whether the 1956 purchase is what made room for them is not stated anywhere read so far, and is not assumed here.
 
 
@@ -661,6 +683,7 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 37. YMCA of Montreal annual report for the year ended **31 May 1973** [src_cache_sgw_ymca_annual_report_1972_1973], the item headed "All-year proposal made for Kanawana." Read 2026-09-06 under p_441. See [f_5111].
 38. YMCA of Montreal annual report for the year ending 31 December 1956, the 105th [src_ymf_sgw_ymca_annual_report_1956], p. 9 under "Camp Otoreke". Read 2026-09-06 while testing a different question -- the 600-to-1,000 acre jump at Kanawana (f_5093) -- against the cached committee minutes, which turned out to be the wrong committee.
 39. YMCA of Montreal annual reports for the years ending 31 March 1949 and 31 March 1950 [src_ymf_sgw_ymca_annual_report_1949, src_ymf_sgw_ymca_annual_report_1950], the "Camping and Outdoor Activities" section of each, covering the summers of 1948 and 1949. Read 2026-09-06. Both were already in the corpus and neither had been cited by this article; a sweep found 47 annual reports naming Otoreke that it does not cite.
+40. YMCA of Montreal annual report for the year ending 31 March 1924 [src_ymf_sgw_ymca_annual_report_1924], covering the 1923 season, the Camp Otoreke page. Read 2026-09-06 under p_454.
 
 ## Research Notes
 

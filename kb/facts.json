@@ -1,8 +1,8 @@
 {
-  "version": "8.21",
-  "kb_version": "8.21",
+  "version": "8.22",
+  "kb_version": "8.22",
   "migrated_from": "3.3",
-  "fact_count": 5121,
+  "fact_count": 5123,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -92307,6 +92307,44 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.21",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5160",
+      "category": "site",
+      "date_ref": "1923-1924",
+      "entities": [
+        "Camp Otoreke",
+        "Lac Saint-Joseph",
+        "YMCA of Montreal",
+        "Quebec Legislative Assembly"
+      ],
+      "claim": "A DAM WAS LEGISLATED IN 1923 THAT WOULD HAVE SUBMERGED CAMP OTOREKE'S ISLANDS, AND NOTHING IN THIS PROJECT KNEW. The YMCA of Montreal's annual report for the year ending 31 March 1924, on the Camp Otoreke page: 'We are advised that A BILL HAS RECENTLY PASSED THE LEGISLATIVE ASSEMBLY PROVIDING FOR THE ERECTION OF A DAM WHICH WILL HAVE THE EFFECT OF RAISING THE WATER IN THESE LAKES, THEREBY SUBMERGING THE THREE ISLANDS WHICH HAVE BEEN THE PROPERTY OF THE ASSOCIATION FOR OVER THIRTY YEARS. This work, of course, will not be completed for some time, and THE CAMP WILL AGAIN BE CARRIED ON THIS YEAR.' THE BILL IS A HARD FACT AND A FINDABLE ONE -- Quebec's Legislative Assembly, session of 1923-24. WHAT HAPPENED NEXT IS IN NOTHING READ HERE. The camp plainly continued: still running in 1956 when it bought ninety mainland acres (f_5137), still with a ski lodge into the 1960s. So either the dam was never built, or it was built without submerging the islands, or the islands went and the camp carried on from the shore. NO CHOICE IS MADE BETWEEN THOSE, and the 1956 mainland purchase MUST NOT be read as caused by the dam merely because it fits -- thirty-two years separate them and no source connects them. IT DOES TURN THE ISLANDS' STATUS FROM A BACKGROUND FACT INTO A QUESTION: site/camp-otoreke.md describes three islands held since a purchase dated 26 November 1901 and earlier, and from 1923 there is a documented legislative threat to all of it with no evidence either way about the outcome. THE BILL ITSELF IS THE NEXT THING TO FIND.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1924"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.22",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5161",
+      "category": "people",
+      "date_ref": "1923",
+      "entities": [
+        "Camp Otoreke",
+        "J. G. MacKinnon",
+        "G. A. Robertson",
+        "Kamp Kanawana"
+      ],
+      "claim": "J. G. MacKINNON RAN CAMP OTOREKE IN 1923, AFTER RUNNING KANAWANA. The 1924 annual report: 'CAMP OTOREKE, on Lac St. Joseph, was in operation for FIVE WEEKS under the direction of MR. J. G. MacKINNON, and enrolled 71 CAMPERS as compared with 36 IN 1922. Improvements were made to both WHARF AND BOAT HOUSE. The programme conducted was much the same as in former years, and the Camp spirit was excellent. In addition to being SELF-SUPPORTING, THE DEFICIT OF $95.96 OF THE PREVIOUS YEAR WAS ABSORBED.' people/directors-index.md has MacKinnon leading KANAWANA in 1916, 1917, part of 1918 and 1919, so this places the same man at the association's other camp four years later and nearly doubles Otoreke's enrolment in a year. ALSO FROM THE SAME REPORT: 'Mr. G. A. ROBERTSON who has recently APPRAISED OUR BUILDINGS AND EQUIPMENT FOR INSURANCE PURPOSES' -- a named appraisal of the camps' physical plant in 1923, which would be a valuation document if it survives, and a name that appears nowhere else in this project.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1924"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.22",
       "added_by": "manual"
     }
   ]
