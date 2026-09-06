@@ -1,8 +1,8 @@
 {
-  "version": "8.35",
-  "kb_version": "8.35",
+  "version": "8.38",
+  "kb_version": "8.38",
   "migrated_from": "3.3",
-  "fact_count": 5146,
+  "fact_count": 5151,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -92757,6 +92757,101 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.35",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5185",
+      "category": "operations",
+      "date_ref": "1965",
+      "entities": [
+        "Camp Otoreke",
+        "YMCA of Montreal",
+        "Camp Kanawana"
+      ],
+      "claim": "OTOREKE AS 'HOLIDAY ISLAND', 1,100 YOUNG ADULTS, AND THE ASSOCIATION'S OWN CLAIM TO OWNERSHIP SINCE 1893. The 114th annual report, which states its own span on its title page -- JUNE 1, 1965 - MAY 31, 1966, so the summer of 1965 falls inside it -- under the heading 'CAMP OTOREKE - HOLIDAY ISLAND': 'In spite of imaginative efforts to develop an attractive holiday program for young adults, THE USE OF THE CAMP OTOREKE SITE WAS NOT AS EXTENSIVE AS HAD BEEN ANTICIPATED. Some 1,100 YOUNG ADULTS spent their week-ends or holidays at Otoreke Island during the Summer of 1965. A number of other YMCA and outside groups used the site for conferences and special programs. THE OTOREKE SITE, NEAR ST. ADOLPHE D'HOWARD, HAS BEEN OWNED BY THE YMCA SINCE 1893 AND IS THE ORIGINAL LOCATION OF KAMP KANAWANA. Study is now being made of various ways by which the use of this site can be increased and our vacation programs for young adults be improved. The Otoreke Ski Lodge on the mainland had a successful week-end skiing program during the Winter months.' THREE THINGS. (1) A 1965 USAGE FIGURE the project did not have, and the association's own verdict that it disappointed. (2) THE 1893 CLAIM IS THE FIRST FROM THE INSTITUTION ITSELF. site/camp-otoreke.md currently says four sources cluster on 1893 and 'none of them is a primary record' -- QAHN, BaladoDecouverte, the municipality and Flaneries laurentiennes, all secondary or tertiary. This is a fifth, and it is the YMCA speaking about its own property. It is STILL NOT A PRIMARY RECORD OF 1893: it is a retrospective assertion made seventy-two years later in a promotional passage. But the sentence in the article needs qualifying, because 'none of them is the institution' is no longer true. (3) AND IT CONFLICTS WITH THIS PROJECT'S DOCUMENTED ACQUISITION DATES. 'Owned since 1893' is a property claim, and the wiki has the island auction of 26 NOVEMBER 1901 from the association's own 1902 annual report, plus BaladoDecouverte's 1897 island acquisition. Something was held there before 1901 or the 1965 sentence is loose; the report does not say what was owned, or which island.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1965"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.36",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5186",
+      "category": "people",
+      "date_ref": "1965",
+      "entities": [
+        "Colin McKay",
+        "Camp Otoreke",
+        "YMCA of Montreal"
+      ],
+      "claim": "A BLOG CLAIM THIS PROJECT FLAGGED AS UNCORROBORATED IS NOW CORROBORATED FROM THE ASSOCIATION'S OWN RECORD. The 114th annual report's Resignations list: 'COLIN McKAY - DIRECTOR OF CAMP OTOREKE - to Hamilton, Ontario, YMCA.' site/camp-otoreke.md carries, as an explicitly low-confidence lead, a self-published alumni blog naming 'Ron and Valma Huppfield during WWII; Rev. and Mrs. McGerrigle afterward; COLIN AND MRS. MACKAY IN THE EARLY 1960s' as a sequence of directors, with the note that they 'do not appear elsewhere in this KB and are not independently corroborated.' ONE OF THE THREE NOW DOES. The annual report spells him McKay where the blog has Mackay, and gives no wife -- the blog's 'and Mrs.' is uncorroborated and the couple-directorship pattern it describes is not what the report records. WHAT THIS CHANGES: the blog is not thereby reliable, but it is no longer wholly unattested, and the Huppfield and McGerrigle names are now worth searching for in the wartime and post-war annual reports rather than left as blog-only. THE RESIGNATION ALSO DATES THE END of his tenure to the year ended 31 May 1966, and names where he went. The same volume's committee list has 'Otoreke - M. LaBrooy', which is a committee chairmanship and NOT a directorship -- do not conflate them.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1965"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.36",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5187",
+      "category": "operations",
+      "date_ref": "1976",
+      "entities": [
+        "Camp Otoreke",
+        "YMCA of Montreal",
+        "Centraide"
+      ],
+      "claim": "OTOREKE'S LAST DOCUMENTED PURPOSE, AND THE FIVE BODIES THAT PAID FOR IT. The annual report for 1976-1977, under PARTICIPANTS: 'CAMP OTOREKE -- This past year, OVER 450 PEOPLE FROM LOW INCOME FAMILIES enjoyed TWO WEEK HOLIDAYS AT LOW COST. This project was subsidized by the HAUT COMMISSARIAT A LA JEUNESSE, AUX LOISIRS ET AUX SPORTS, MINISTRY OF SOCIAL AFFAIRS, CANADA MANPOWER, CENTRAIDE, THE MONTREAL YMCA AND PARTICIPANTS. Camp Otoreke is but one program of the Y's GROWING INVOLVEMENT IN THE SOUTH SHORE.' TWO THINGS WORTH KEEPING. (1) SIX YEARS BEFORE THE 1982 CLOSURE the camp is running as a subsidised family holiday programme for low-income families, on public money from three governments plus Centraide -- which is a different institution from the men's camp of 1921 and from the young adults' Holiday Island of 1965, and it is the last operating description this project holds. The closure reasons remain undocumented (Open Question 1 in site/camp-otoreke.md), but a programme dependent on four external funders is a different kind of exposure from a camp living on fees. (2) 'THE SOUTH SHORE' IS GEOGRAPHICALLY WRONG AND RECORDED AS SUCH: Otoreke is at Saint-Adolphe-d'Howard, in the Laurentians NORTH of Montreal, not on the south shore of the St. Lawrence. The likeliest reading is administrative -- the programme was run by or for the South Shore branch and filed under its section of the report -- but the report does not say so, and nothing else in this project links Otoreke to the South Shore. Do not repeat the phrase as a location.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1976_1977"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.36",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5188",
+      "category": "people",
+      "date_ref": "1935-1956",
+      "entities": [
+        "C. J. McGerrigle",
+        "Camp Otoreke",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE McGERRIGLES RAN CAMP OTOREKE FOR TWENTY-ONE YEARS, AND THE ANNUAL REPORTS SAY SO FIVE TIMES. Named in full as C. J. McGERRIGLE, Executive Secretary of the NORTH BRANCH. (1) The report for the year ending 31 March 1938, under 'CAMP OTOREKE': 'The camp was AGAIN under the direction of Mr. C. J. McGerrigle; Executive Secretary of the North Branch, WITH MRS. McGERRIGLE ACTING AS HOSTESS' -- 'again' meaning it was not his first season. (2) The report for 1940: 'MR. AND MRS. C. J. McGERRIGLE WERE CAMP DIRECTOR AND HOSTESS RESPECTIVELY,' and in the same passage the season's dates, 'The camp was open from JUNE 10TH TO SEPTEMBER 17TH' -- a hundred days, far longer than any Kanawana season. (3) The same 1940 volume on the war: he 'succeeded [the previous man] as MILITARY SECRETARY FOR THIS DISTRICT' -- Military District No. 4 -- 'and he, too, later was sent overseas with reinforcements, and was ATTACHED TO THE FIRST DIVISION.' (4) The 1944 report: 'C. J. McGerrigle, after spending NEARLY FOUR YEARS IN Y.M.C.A. WAR SERVICES IN CANADA AND OVERSEAS, RETURNED TO NORTH BRANCH AS EXECUTIVE SECRETARY.' (5) The report for the year ended 31 December 1956, under 'Camp Otoreke - Y.M.C.A. Summer Camp for Young Adults' (1,088 campers that year): 'The success of this camping program is due in no small measure to THE CONTINUING RELATIONSHIP OF MR. AND MRS. C. J. McGERRIGLE, WHO HAVE BEEN ASSOCIATED WITH THIS IMPORTANT UNDERTAKING FOR TWENTY-ONE YEARS. Mr. and Mrs. \"MAC\" have a deep interest in young people.' TWENTY-ONE YEARS BACK FROM 1956 IS 1935 -- WHICH IS THE YEAR OTOREKE WENT COEDUCATIONAL, on the staff's own proposal, as site/camp-otoreke.md already documents. The McGerrigles arrive with that reorganisation and are still named with the camp two decades later. EARLIER STILL, the report for the year ending 31 March 1933 has 'the boys' section at CAMP MACAULAY was under the charge of C. J. McGerrigle, who chose his staff of councillors from members of this branch' -- A CAMP NAME THAT OCCURS NOWHERE ELSE IN THIS PROJECT as a camp -- grepped across wiki/ and kb/facts.json. BUT THE SURNAME IS NOT NEW HERE, and the coincidence is worth a look rather than a shrug: the same grep returns ROBERTSON MACAULAY, president of Sun Life, whose daughter Lily Macaulay married Charles Cushing -- son of Lemuel Cushing, of the family that started the camping programme this camp descends from (people/cushing-family.md). A Montreal YMCA camp called Macaulay in 1932, in a city where that name belongs to a Sun Life president connected by marriage to the camp's founding family, is either a donor name or a coincidence, and this project has no evidence either way. AND THE FAMILY WERE THE ASSOCIATION'S OWN SUBSCRIBERS: the 1883 and 1887-88 subscriber lists carry 'Macaulay, R.' and 'Macaulay, T. B.', and the 1893-94 volume prints 'T. B. MACAULAY, IRA B. THAYER, R. MACAULAY' together in a list -- Robertson Macaulay of Sun Life and Thomas Bassett Macaulay, his son and successor there. That makes a donor naming the better reading of the two, and it is still a reading. Raised as p_456.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1938",
+        "src_ymf_sgw_ymca_annual_report_1940",
+        "src_ymf_sgw_ymca_annual_report_1944",
+        "src_ymf_sgw_ymca_annual_report_1956",
+        "src_ymf_sgw_ymca_annual_report_1933"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.37",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5189",
+      "category": "people",
+      "date_ref": "1947-1950",
+      "entities": [
+        "Ronald Hupfield",
+        "Camp Otoreke",
+        "YMCA of Montreal"
+      ],
+      "claim": "HUPFIELD IS REAL AND THE BLOG PUT HIM IN THE WRONG DECADE. The 1947 annual report: 'Miss Joan Christie was appointed Women & Girls' Work Secretary, and RONALD HUPFIELD MEN'S PROGRAMME SECRETARY AT SOUTHWESTERN BRANCH.' The 1950 report: 'J. R. HUPFIELD, B.A., FORMERLY PROGRAM SECRETARY AT SOUTHWESTERN BRANCH, WAS APPOINTED EXECUTIVE SECRETARY OF ROSEMOUNT BRANCH, succeeding J. T. Barratt' -- so Ronald Hupfield and J. R. Hupfield are one man, and the name is spelled with ONE p in the association's own record. WHAT THIS DOES TO THE BLOG. site/camp-otoreke.md carries, flagged as an uncorroborated self-published claim, a commenter's roster: 'RON AND VALMA HUPPFIELD RAN THE CAMP DURING WWII; Rev. and Mrs. McGerrigle were directors AFTERWARD; Colin and Mrs. Mackay succeeded the McGerrigles in the early 1960s.' TWO OF THE THREE NAMES ARE NOW ATTESTED IN THE ASSOCIATION'S OWN REPORTS (this one and f_5186's Colin McKay) AND A THIRD IS DOCUMENTED AT LENGTH (f_5188). BUT THE SEQUENCE IS WRONG AND SO ARE THE DATES. McGerrigle directed Otoreke from about 1935 and through 1939, went overseas on war service, and was still named with the camp in 1956 -- he is BEFORE and THROUGH the war, not after it. Hupfield does not appear on the Montreal staff until 1947, AFTER the war, and no source held here puts him at Otoreke at all: both his appearances are branch postings. THE BLOG HAS THE TWO MEN IN THE OPPOSITE ORDER. WHAT IS NOT SETTLED: whether Hupfield ever directed the camp, and who Valma was -- no report held here names her, and the association's reports name Mrs. McGerrigle only as 'hostess', never by her own first name.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1947",
+        "src_ymf_sgw_ymca_annual_report_1950"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.37",
       "added_by": "manual"
     }
   ]
