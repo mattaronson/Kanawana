@@ -1,7 +1,7 @@
 # Coeducation and Gender at Kanawana
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-09-06 (the co-ed announcement of 1967, with Seaman's reason in his own words)*
+*Last Updated: 2026-09-06 (the 1967 announcement, and the 1969 doubling that explains the competing date)*
 
 ## Overview
 
@@ -91,6 +91,8 @@ There is a discrepancy in the available sources regarding when girls first atten
 > "**It is natural for boys and girls to grow up together**," commented A. Ross Seaman, Director of Camping. "In providing them with opportunities to do so, **we help prepare them for adolescence**."^ar67
 
 Three things follow. This was a planned, publicised admission rather than a quiet pilot — which is a further reason the "1968 pilot, 1969 formalization" reading below was wrong. It gives the camp's stated reason, in the director's own words, which this article did not have: a developmental argument about children growing up, not an argument about demand, revenue or the camp's survival. And it names an age band.
+
+**And 1969 doubled it, which explains the competing date.** A press release of 13 May 1969 puts the two seasons side by side in one sentence: "**In 1968 it was girls and horses. In response to enthusiastic requests from parents, capacity of the co-ed sections is being doubled.**"^nr69 So the first year was small, the second was twice the size, and the association's own press office attributed the growth to parents asking for it. That is a straightforward explanation for why a source compiled a few years later might name 1969: it was the year the co-ed camp became substantial. It does not reopen the 1968 date, which the camp's own 1988 report settles.
 
 **On that band, two sources give different numbers and this article is not going to average them.** The announcement plans for girls aged **9 to 11**. McMorris's thesis says the first girls admitted were aged **10 to 12**. A plan is not an outcome and the band may well have been shifted between the announcement and the season, so these need not conflict — but they come from different kinds of source and anyone citing an age range should say which one they are using.
 
@@ -217,6 +219,7 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 - [ar4345] YMCA of Montreal annual reports for the years ending 31 March **1944** and 31 March **1945**, camps sections [src_ymf_sgw_ymca_annual_report_1944, src_ymf_sgw_ymca_annual_report_1945]. Under the 31 March rule (f_5039) these cover the 1943 and 1944 summer seasons. Read 2026-09-06 under p_441. See [f_5075].
 - [ar4649] YMCA of Montreal annual reports for the years ending 31 March **1946**, **1947**, **1948** and **1949** [src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1947, src_ymf_sgw_ymca_annual_report_1948, src_ymf_sgw_ymca_annual_report_1949]. Under the 31 March rule (f_5039) these cover the 1945-1948 seasons. Camps sections read 2026-09-06 under p_441. See [f_5078], [f_5079].
 - [ar67] YMCA of Montreal annual report for **1967** [src_cache_sgw_ymca_annual_report_1967], the "Co-ed Camping" section. Read 2026-09-06 under p_441. See [f_5095]. *(This volume had a second source record, `src_ia_sgw_annual_report_1967`, marked "extracted" on the strength of two facts citing it rather than on a read; the volume itself had not been read through. See p_442.)*
+- [nr69] Montreal YMCA news release, **13 May 1969**, "YMCA's Kamp Kanawana Set for Record Summer" [src_ymf_news_release_1969_05_13_202501]. Read 2026-09-06 under p_451. See [f_5100].
 
 ## Research Notes
 

@@ -951,7 +951,8 @@
         "src_ymf_sgw_ymca_annual_report_1947",
         "src_ymf_sgw_ymca_annual_report_1948",
         "src_ymf_sgw_ymca_annual_report_1949",
-        "src_cache_sgw_ymca_annual_report_1967"
+        "src_cache_sgw_ymca_annual_report_1967",
+        "src_ymf_news_release_1969_05_13_202501"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -966,7 +967,7 @@
         "timeline-overview"
       ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
-      "word_count": 6534,
+      "word_count": 6671,
       "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_001 editorial-resolution narrative into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H2 into Research Notes. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -1238,7 +1239,8 @@
         "src_ymf_sgw_ymca_annual_report_1957",
         "src_ymf_sgw_ymca_annual_report_1958",
         "src_ymf_sgw_ymca_annual_report_1960",
-        "src_ymf_sgw_ymca_annual_report_1961"
+        "src_ymf_sgw_ymca_annual_report_1961",
+        "src_ymf_news_release_1969_05_13_202501"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -1252,7 +1254,7 @@
         "quebec-camp-landscape"
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-      "word_count": 8605,
+      "word_count": 9010,
       "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, renamed the orphaned 'R3 Verification Notes' H2 to the standard 'Research Notes' heading and condensed its bullet list into a single HTML-comment process-log entry. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -7402,7 +7404,8 @@
         "src_veillette_pistes_ski_fond_quebec_1977",
         "src_guide_plein_air_quebec_1991",
         "src_ymf_sgw_ymca_annual_report_1945",
-        "src_ymf_sgw_ymca_annual_report_1947"
+        "src_ymf_sgw_ymca_annual_report_1947",
+        "src_ymf_p0145_news_release_1970_01_29"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -7412,7 +7415,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 2413,
+      "word_count": 2718,
       "tags": {
         "era": [
           "1970s",

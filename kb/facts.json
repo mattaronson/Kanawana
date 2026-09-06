@@ -1,8 +1,8 @@
 {
-  "version": "7.82",
-  "kb_version": "7.82",
+  "version": "7.83",
+  "kb_version": "7.83",
   "migrated_from": "3.3",
-  "fact_count": 5061,
+  "fact_count": 5063,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91290,6 +91290,40 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.82",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5100",
+      "category": "programs",
+      "date_ref": "1969",
+      "entities": [
+        "Kamp Kanawana",
+        "Geoff Anderson"
+      ],
+      "claim": "THE 13 MAY 1969 PRESS RELEASE: A FRENCH-LANGUAGE SECTION, DOUBLED CO-ED CAPACITY, AND HORSES IN 1968. A 300-word communique to the Montreal Gazette and suburban weeklies, headed 'YMCA'S KAMP KANAWANA SET FOR RECORD SUMMER', quoting GEOFF ANDERSON, Director of Kanawana. 'IN 1968 IT WAS GIRLS AND HORSES. IN RESPONSE TO ENTHUSIASTIC REQUESTS FROM PARENTS, CAPACITY OF THE CO-ED SECTIONS IS BEING DOUBLED.' Two things there. HORSEBACK RIDING ARRIVED IN 1968, the same season as the girls, and traditions/programs-activities.md has nothing on horses at all. AND THE CO-ED CAPACITY WAS DOUBLED FOR 1969 -- which is a plain explanation for why some sources point at 1969 as the coeducation date. 1968 was the first year and 1969 was the expansion, and the association's own press office describes the second as a response to parent demand. THIS DOES NOT REOPEN THE 1968 DATE, which is settled from the camp's own 1988 report; it explains the competing number. 'THIS SUMMER KANAWANA IS INTRODUCING A SPECIAL FRENCH-LANGUAGE PROGRAM FOR ENGLISH-SPEAKING BOYS.' THE DETAIL IS SPECIFIC: 'Participants in Kanawana's new French section will be QUARTERED IN A CONVERTED FARM BUILDING WHICH ADJOINS THE MAIN PROPERTY. There will be ONE FRENCH-SPEAKING COUNSELLOR FOR EVERY FIVE BOYS, all supervised by A SPECIAL DIRECTOR AND A LANGUAGE CO-ORDINATOR... Instead of classrooms and school-type texts, leaders of this forward-looking program will use Kanawana's wide range of vacation-time facilities to motivate their charges to learn while playing. PART OF EACH DAY WILL, HOWEVER, BE RESERVED FOR STUDY, but also in an atmosphere of relaxed informality.' THIS IS A FRENCH IMMERSION SECTION AT THE RESIDENTIAL CAMP IN 1969 and it appears nowhere in this wiki. It is not the same thing as the French-language DAY CAMP whose 1968 report and 1968-05-03 proposal sit unread in the p_441 pile -- but they are plainly related and should be read together. STAFFING AND SCALE: 'In addition to section directors, supervisors, a diversified team of activity specialists, A RESIDENT DOCTOR AND NURSE, AND A DIETICIAN -- Kanawana's staff includes ONE COUNSELLOR FOR EVERY SEVEN CAMPERS.' The seven-camper tent group of 1955 and 1958 (f_5084, f_5086) is still the unit fourteen years on. Activities listed: 'horseback riding; swimming; canoeing; rowing; sailing; arts & crafts; SKIN DIVING; naturelore; archery; RIFLERY; hiking; sports instruction' -- skin diving and riflery are both new to this project. AND A CLAIM FOR history/oldest-camp-question.md: the release calls Kanawana 'CANADA'S LONGEST ESTABLISHED SUMMER CAMP', in the association's own publicity, in 1969. That article collects such claims; this is one more, from a press release rather than a history, and it is a marketing assertion rather than evidence.",
+      "sources": [
+        "src_ymf_news_release_1969_05_13_202501"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.83",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5101",
+      "category": "programs",
+      "date_ref": "1969-1970",
+      "entities": [
+        "Kamp Kanawana",
+        "West Island Branch"
+      ],
+      "claim": "A FAMILY SKI PROGRAMME WAS RUNNING AT KANAWANA IN THE WINTER OF 1969-70, AT CAPACITY, WITH A NURSERY. From the Montreal YMCA's bilingual news bulletin of 29 January 1970, under the heading 'IT'S MAINLY BECAUSE OF THE SOUP': 'West Island Branch seems to have come up with a real winner. ITS FAMILY SKI PROGRAM, RUNNING SATURDAYS AT KAMP KANAWANA, JUST CAN'T HANDLE ANYBODY ELSE. Here's the package. A NETWORK OF CROSS-COUNTRY TRAILS. FIRMLY-PACKED HILLS FOR DOWNHILL RUNS AND INSTRUCTIONS. SKIING LESSONS. A WELL-EQUIPPED NURSERY, SUPERVISED BY EXPERIENCED BABY SITTERS. FACILITIES FOR PREPARING LUNCH. FREE SOUP.' The French column confirms it: 'Ce programme fonctionne deja a pleine capacite.' WHY THIS MATTERS TO traditions/winter-programming.md. That article's open question 1 is marked resolved: 'When exactly did Winter Outdoor Family Camping begin in the 1970s? [Resolved 2026-07-09] WINTER 1972-73, per the YMCA's own Annual Report: ski lift, two groomed downhill slopes...'. AND HERE IS A FAMILY SKI PROGRAMME AT KANAWANA, WITH GROOMED DOWNHILL RUNS AND INSTRUCTION, THREE YEARS EARLIER AND ALREADY FULL. The article also dates the 1971-72 ski tow as the first step toward winter operations, which this morning's reading of the 1945 and 1947 annual reports already retired (f_5076). BE PRECISE ABOUT WHAT IS AND IS NOT OVERTURNED. 'Winter Outdoor Family Camping' may be a specific named programme distinct from West Island Branch's Saturday family ski day, and the 1972-73 report describes INFRASTRUCTURE -- a lift, two groomed slopes -- that this release does not mention. WHAT IS OVERTURNED IS THE FRAMING: organised, advertised, at-capacity winter family programming existed at Kanawana in the winter of 1969-70, run by a city branch rather than by the camp, and any account that starts winter family use in 1972-73 is starting it three years late. THE 1972-73 RESOLUTION IS NOT DELETED; it is qualified.",
+      "sources": [
+        "src_ymf_p0145_news_release_1970_01_29"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.83",
       "added_by": "ralph_loop"
     }
   ]

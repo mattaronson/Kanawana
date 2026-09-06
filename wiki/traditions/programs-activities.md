@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
 *Status: E1-reviewed | Sources: 0*
-*Last Updated: 2026-09-06 (the camp described in French to Montreal tourists, 2011-12)*
+*Last Updated: 2026-09-06 (horses in 1968, and a French immersion section in 1969)*
 
 ## Overview
 
@@ -239,6 +239,19 @@ The tent group itself predates the framework. The 1955 report already has "each 
 
 ## Coeducation and Reorganization (1968-1970s)
 
+### 1968-69: horses, a doubled co-ed intake, and a French section
+
+A press release of 13 May 1969, sent to the *Gazette* and the suburban weeklies, gives the camp's own account of what had just changed and what was about to.^nr69
+
+"**In 1968 it was girls and horses.** In response to enthusiastic requests from parents, **capacity of the co-ed sections is being doubled**."^nr69 Horseback riding arrived in the same season as the girls, and it appears in this article nowhere else. The doubling matters for a different reason: it is a plain explanation of why some sources point at 1969 as the year of coeducation. 1968 was the first year and 1969 was the expansion, and the association's press office attributes the expansion to parent demand.
+
+**A French-language section, new for 1969, and it was immersion.** "This summer Kanawana is introducing a special **French-language program for English-speaking boys**." The arrangements are specific: participants "will be quartered in **a converted farm building which adjoins the main property**. There will be **one French-speaking counsellor for every five boys**, all supervised by a **special director and a language co-ordinator**." The method is stated too — "Instead of classrooms and school-type texts, leaders of this forward-looking program will use Kanawana's wide range of vacation-time facilities to **motivate their charges to learn while playing**," though "part of each day will, however, be reserved for study, but also in an atmosphere of relaxed informality."^nr69
+
+This is a residential French immersion section at Kanawana in 1969, and nothing else in this wiki records it. It is not the same thing as the French-language *day camp* whose 1968 report and May 1968 proposal sit in the Concordia fonds unread, but the two are plainly connected and belong read together.
+
+**Staffing and the rest of the programme.** "In addition to section directors, supervisors, a diversified team of activity specialists, a resident doctor and nurse, and a **dietician** — Kanawana's staff includes **one counsellor for every seven campers**."^nr69 The seven-camper unit of the 1955 and 1958 reports was still the unit fourteen years later. The activity list adds two items new to this article: "horseback riding; swimming; canoeing; rowing; sailing; arts & crafts; **skin diving**; naturelore; archery; **riflery**; hiking; sports instruction."
+
+
 The arrival of girl campers in 1968 or 1969 (sources differ; see the coeducation article for detailed analysis) necessarily affected programming. The first all-female Voyageur canoe trip in 1972 marked the extension of the camp's most demanding programme to girls within three years of formal coeducation.
 
 In the summer of 1971, Kanawana served as the venue for "Noosphere," an international development education simulation. A pre-event newspaper account (*Le Soleil*, July 7, 1971) described it as organized by Perspective-Jeunesse for approximately 100 young Canadians aged 16 to 19, modeled on a "Third World Village" organized in Winnipeg the previous year and the first such experience attempted in Quebec.^ls71 A second newspaper account appeared in *Montreal-matin* on August 24, 1971.^mm71 The event was the subject of a 1973 McGill MA thesis by Gabor Zinner, "Noosphere — an experiment in simulation" (Department of Political Science) — read in full 2026-07-08 after its host platform migrated to mcgill.scholaris.ca, having previously been access-gated.^zinner
@@ -446,6 +459,7 @@ environmental-education positioning without originating from it.
 - [mk] Michael Kutz, *If, By Miracle* (Azrieli Foundation, 2013), Internet Archive scan leaf 190; the book's own index gives the printed page as 87 [src_kutz_if_by_miracle]. **One passage only**, reconstructed 2026-09-06 from seven overlapping Open Library search-inside queries; the book is lending-restricted and has not been read, and the opening words in square brackets are supplied because the window begins mid-sentence. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-abrams-kutz-memoir-passages.txt`. See [f_4938]. The Quebec context is at [f_2673] (Canada had exactly two diabetic camps in 1954) and [f_2849] (the diabetic children's camp at Camp Jackson Dodds, 18-28 August 1958, sponsored by The Montreal Children's Hospital), both from the *Canadian Camping* run [src_ia_canadian_camping_collection].
 - **vfl** — YMCA of Montreal annual reports for the years ending **31 December 1955**, **1957** and **1958** [src_ymf_sgw_ymca_annual_report_1955, src_ymf_sgw_ymca_annual_report_1957, src_ymf_sgw_ymca_annual_report_1958]. December-year volumes, so their seasons are 1955, 1957 and 1958 (see [f_5081]). Camps sections read 2026-09-06 under p_441. See [f_5084], [f_5086].
 - **pgd** — YMCA of Montreal annual reports for the years ending **31 December 1960** and **31 December 1961** [src_ymf_sgw_ymca_annual_report_1960, src_ymf_sgw_ymca_annual_report_1961]. December-year volumes, so their seasons are 1960 and 1961 (see [f_5081]). Camps sections read 2026-09-06 under p_441. See [f_5088], [f_5087].
+- **nr69** — Montreal YMCA news release, **13 May 1969**, "YMCA's Kamp Kanawana Set for Record Summer," quoting Geoff Anderson, Director of Kanawana [src_ymf_news_release_1969_05_13_202501]. Cached at `sources/cache/ymca-montreal-fonds/news-release-1969-05-13_202501.txt`; read 2026-09-06 under p_451. See [f_5100].
 
 ## Research Notes
 

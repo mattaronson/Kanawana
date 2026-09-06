@@ -1,7 +1,7 @@
 # Winter and Year-Round Programming
 
-*Status: E1-reviewed | Sources: 15*
-*Last Updated: 2026-09-06 (the 1940s ski camp described, not just listed: 63 boys and leaders in the winter of 1946-47)*
+*Status: E1-reviewed | Sources: 16*
+*Last Updated: 2026-09-06 (a family ski day at capacity in the winter of 1969-70)*
 
 ## Overview
 
@@ -18,6 +18,18 @@ The finding-aid title above has a matching description in the association's own 
 Of the winter of 1944-45, the report for the year ending 31 March 1945 says only that "**several parties of skiers used the camp in winter**."^15 Two years later there is detail: "**Considerable use was made of the camp property during the winter for skiing. Eighteen boys and leaders spent a week at camp during the Christmas vacation, and 45 boys in several small parties spent week-ends enjoying the skiing on the hills around camp.**"^15
 
 Sixty-three boys and leaders across one Christmas week and a run of weekends is not a winter programme in the sense the 1970s built one — no lift, no groomed slopes, no fee schedule, and the reports name no staff. But it is organised winter use of the site by the camp's own constituency, described by the association in its own annual report, a quarter of a century before the ski tow. The claim that the 1971-72 tow is "the earliest step this project can describe" no longer holds; what the tow marks is the beginning of winter operations as *infrastructure*.
+
+## Winter 1969-70: a family ski day, already full
+
+Between the 1940s ski camp and the ski tow of 1971-72 sits a programme this article did not have, and it was not the camp's. The Montreal YMCA's bilingual news bulletin of 29 January 1970 runs it under the heading "It's mainly because of the soup":
+
+> West Island Branch seems to have come up with a real winner. **Its family ski program, running Saturdays at Kamp Kanawana, just can't handle anybody else.**
+>
+> Here's the package. **A network of cross-country trails. Firmly-packed hills for downhill runs and instructions. Skiing lessons. A well-equipped nursery, supervised by experienced baby sitters. Facilities for preparing lunch. Free soup.**^16
+
+The French column of the same bulletin says the same: "Ce programme fonctionne déjà à pleine capacité."
+
+So in the winter of 1969-70 there were groomed downhill runs at Kanawana, ski instruction, a supervised nursery, and more demand than the programme could take — run by a **city branch**, not by the camp. The Timeline below dates a ski tow to 1971-72 and Winter Outdoor Family Camping to 1972-73. Those entries stand: the 1972-73 report describes *infrastructure*, a lift and two groomed slopes, which this bulletin does not mention, and "Winter Outdoor Family Camping" may be a distinct named programme. What does not stand is the shape of the story. Organised, advertised, oversubscribed winter family programming was happening here three years before the date this article gives for its beginning.
 
 ## Winterized Facilities
 
@@ -94,7 +106,7 @@ David Leduc managed Camp Kanawana's summer and winter programs, including recrui
 
 ## Open Questions
 
-1. ~~[Important] When exactly did Winter Outdoor Family Camping begin in the 1970s? What did it involve?~~ [Resolved 2026-07-09] Winter 1972-73, per the YMCA's own Annual Report: ski lift, two groomed downhill slopes, cross-country/snowshoe trails, all-ages courses, toddler babysitting service — one year after an initial 1971-72 ski tow.
+1. ~~[Important] When exactly did Winter Outdoor Family Camping begin in the 1970s? What did it involve?~~ [Resolved 2026-07-09 as to the named programme; **qualified 2026-09-06** — a West Island Branch family ski day was running Saturdays at Kanawana and already at capacity in the winter of 1969-70, three years earlier; see the section above and [f_5101]] Winter 1972-73, per the YMCA's own Annual Report: ski lift, two groomed downhill slopes, cross-country/snowshoe trails, all-ages courses, toddler babysitting service — one year after an initial 1971-72 ski tow.
 2. [Important, advanced 2026-07-09] How did year-round programming (1996) affect the camp's staffing model? A 1969 Concordia "Working paper on year-round use" shows the idea was studied 27 years earlier, directly preceding the camp's 1994-95 leadership restructuring into a year-round Executive Director plus a three-season on-site Camp Director — but no source documents the specific staffing/infrastructure changes that accompanied the 1996 launch itself; confirmed dead end for that specific detail.
 3. [Nice-to-have] What environmental education programming runs during the winter months specifically?
 4. [Nice-to-have] How many groups use the camp annually outside the summer season?
@@ -124,6 +136,7 @@ David Leduc managed Camp Kanawana's summer and winter programs, including recrui
 13. *Les pistes de ski de fond au Québec* (1977), Internet Archive scan leaf 294 [src_veillette_pistes_ski_fond_quebec_1977]. **One club-list run only**, reconstructed 2026-09-06 from six overlapping Open Library search-inside queries; the book is lending-restricted, page images return HTTP 403, and it has not been read. The list's alignment was checked rather than assumed — J0T 2N0 is Val-David's postal code, J6J 1S5 is Châteauguay's, and 3480 McTavish is McGill's own address, and all three land on the rows the plain reading gives them. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-two-outdoor-guides-1977-and-1991.txt`. See [f_4955].
 14. *Guide plein air Québec* (1991), Internet Archive scan leaf 200 [src_guide_plein_air_quebec_1991]. **One run only**, and one whose columns the OCR scrambles; an earlier attempt the same day recorded nothing from it, correctly. The alignment was settled by four controls documented from inside the same corpus, all set out in the cache file above, and only then was the entry used. Lending-restricted, page images 403, not read. See [f_4956].
 15. YMCA of Montreal annual reports for the years ending 31 March **1945** and **1947** [src_ymf_sgw_ymca_annual_report_1945, src_ymf_sgw_ymca_annual_report_1947]. Under the 31 March rule (f_5039) these describe the winters of 1944-45 and 1946-47. Camps sections read 2026-09-06 under p_441. See [f_5075], [f_5076].
+16. Montreal YMCA bilingual news bulletin, **29 January 1970** [src_ymf_p0145_news_release_1970_01_29], the item headed "It's mainly because of the soup." Cached at `sources/cache/ymca-montreal-fonds/p0145-news-release-1970-01-29.txt`; read 2026-09-06 under p_451. See [f_5101].
 
 ## Research Notes
 
