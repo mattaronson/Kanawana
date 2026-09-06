@@ -1,8 +1,8 @@
 {
-  "version": "8.59",
-  "kb_version": "8.59",
+  "version": "8.60",
+  "kb_version": "8.60",
   "migrated_from": "3.3",
-  "fact_count": 5174,
+  "fact_count": 5175,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93273,6 +93273,22 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.59",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5213",
+      "category": "method",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Library and Archives Canada",
+        "HathiTrust",
+        "Concordia University Archives"
+      ],
+      "claim": "THREE OF THIS PROJECT'S FOUR ARCHIVAL BLOCKERS ARE THE SAME TECHNICAL THING, AND IT IS NOT POLICY. Re-tested 2026-09-06 under the standing rule that a capability should be re-tested before a dead end is trusted. **LIBRARY AND ARCHIVES CANADA.** recherche-collection-search.bac-lac.gc.ca returns **403 with `cf-mitigated: challenge`, `server: cloudflare`, and a body titled 'Just a moment...'** for both 'Kanawana' and 'Otoreke'. library-archives.canada.ca and canada.ca fail at the tunnel outright (000). THIS PROJECT HAS REPEATEDLY DESCRIBED LAC AS REFUSING 'AT THE GATEWAY' (p_428 and several priorities), WHICH READS AS POLICY. It is a Cloudflare bot challenge -- the identical mechanism found on HathiTrust's babel earlier today (f_5207), and the same class as the JavaScript challenge Concordia's AtoM runs (project-docs/concordia-access-plan.md, which correctly identifies it as a standard AtoM feature adopted against crawler load, not a Concordia wall). SO THE DISTINCTION WORTH MAKING IS: NOBODY IS REFUSING THIS PROJECT. Three institutions independently deployed the same anti-bot control, and this environment cannot solve a JavaScript challenge because its browser dies at the proxy tunnel. A person with an ordinary browser reaches all three in one click. **THE ONE FEDERAL ROUTE THAT DOES WORK, AND WHAT IT IS NOT.** open.canada.ca's CKAN API answers 200: `open.canada.ca/data/en/api/3/action/package_search`. A search on 'Library and Archives Canada' returns **71 datasets** -- and they are ADMINISTRATIVE, not archival: Data Strategy, Service Inventory, Accessibility Plan, Info Source, annual reports, fees reports, quarterly financial reports, departmental plans. Filtering all 71 for 'collection', 'fonds', 'finding aid', 'archival', 'catalogue' returns eleven, of which seven are quarterly financial reports and the rest are things like an 'Operational Standard for Digital Archival Records' Metadata'. **NO COLLECTION-LEVEL OR FINDING-AID DATA IS PUBLISHED THERE.** So the open-data route reaches LAC's corporate publications and not its holdings, and it does not substitute for Collection Search. WHAT THIS CHANGES FOR THE QUEUE: the LAC-blocked items -- p_428 (the post office's closing date and postmaster), the Weredale House fonds whose Camp Lewis records run 1919-1966 (p_455), fonds MG 28 (I 280) with its Johnston W. Abraham provenance, and LAC's published-material catalogue (f_5135) -- should be described as **A BROWSER PROBLEM, NOT AN ACCESS REFUSAL**. They are one afternoon's work for a person, and no letter or permission is needed. That is a materially different thing to hand the operator, and it is the same correction already made today for p_404, where 'the book has not been read' turned out to mean 'the book has not been bought'.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.60",
       "added_by": "manual"
     }
   ]

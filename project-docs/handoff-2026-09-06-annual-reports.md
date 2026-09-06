@@ -237,3 +237,39 @@ Commission"; Box 2 Folder 12 is "personnel-camps, members". **Fetch a finding ai
 listing yourself before recording anything as absent from it.** This is rule 23's shape — a source
 searched in one section is searched in one section — with a summarizing layer standing in for the
 section.
+
+
+# Late evening: the archives, and one obstacle wearing three names
+
+**`project-docs/trent-access-plan.md` is the deliverable.** Fifteen Trent finding aids fetched raw
+and searched; twenty-odd named box-and-folder targets across eight accessions, ordered by likelihood,
+with the six swept-and-null accessions listed so nobody spends a visit on them. Two rows name Kanawana
+or Montreal outright — **a 1970s Kanawana brochure** (78-006, Box 24, Folder 25) and a folder titled
+**"YMCA - Montreal"** (84-019, Box 1, Folder 10). Nothing there needs permission; it needs a person
+with a list. Priorities p_337, p_339, p_346 and p_348 all now carry box and folder numbers, and p_348
+is complete as far as finding aids can take it.
+
+## The consolidation worth carrying forward
+
+**Three of this project's four archival blockers are one technical thing** (f_5213, f_5207):
+
+| Institution | What we say | What it actually is |
+|---|---|---|
+| Library and Archives Canada | "refuses at the gateway" | **Cloudflare challenge** — 403, `cf-mitigated: challenge`, "Just a moment…" |
+| HathiTrust (`babel`) | not reachable | **Cloudflare challenge**, identical headers |
+| Concordia (AtoM) | a wall | **AtoM's own JS challenge**, a standard feature adopted against crawler load |
+
+**Nobody is refusing this project.** Three institutions independently deployed the same anti-bot
+control, and this environment cannot solve a JavaScript challenge because its browser dies at the
+proxy tunnel. **A person with an ordinary browser reaches all three in one click, and no letter is
+needed.** That is a different thing to hand the operator than "access denied", and it is the same
+correction made this evening for `p_404`, where "the book has not been read" turned out to mean "the
+book has not been bought" — twenty-five dollars from the camp's own shop.
+
+*What does answer:* HathiTrust's **bibliographic API** (200, catalogue only) and **open.canada.ca**'s
+CKAN API (200) — but the latter publishes only LAC's *administrative* datasets, 71 of them, none
+collection-level. Neither substitutes for the search behind the challenge.
+
+**The untried route out of the HathiTrust case** stands: use its bibliographic API to identify an
+edition, then look for the same edition on the Internet Archive, whose full text this project reaches
+freely.
