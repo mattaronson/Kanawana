@@ -28423,7 +28423,25 @@
       "read_state": "read",
       "read_state_basis": "full text downloaded from the Internet Archive and read for the ceremony sections on 2026-09-05 (p_368): the Omaha Tribal Prayer at p. 145, the Peace Pipe Ceremony at pp. 148-149, the Scalp Dance, and the Gleeman and Herald degree requirements. Not cached in repo -- a public domain volume of 837 KB whose stable Internet Archive identifier is recorded here instead",
       "notes": "The source text of the camp council ring. Seton's preface says the book gathers twenty-five years of talks and the annual Birch-Bark Roll. The Peace Pipe Ceremony is the script that Taylor Statten taught Canadian camp leaders in the 1920s and that reached Kanawana; the Omaha Tribal Prayer is credited in the book itself to Alice C. Fletcher's 'Indian Story and Song', harmonised by Prof. J. C. Fillmore."
+    },
+    {
+      "source_id": "src_acq_about_page",
+      "type": "web",
+      "title": "Association des camps du Quebec, \"A propos\" (campsquebec.com/a-propos)",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://campsquebec.com/a-propos",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-05T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.35",
+      "reliability": "secondary",
+      "read_state": "read",
+      "read_state_basis": "fetched and read 2026-09-05 (p_375)",
+      "notes": "The ACQ's own account of itself: \"L'ACQ fait briller les camps depuis plus de 60 ans... Fondee en 1961 a l'initiative de directeurs de camps de vacances\", recognised and funded by the Quebec government as an Organisme national de loisir, with close to 500 members across non-profit, private, municipal, day, family and special-needs camps."
     }
   ],
-  "source_count": 1579
+  "source_count": 1580
 }

@@ -1,8 +1,8 @@
 {
-  "version": "6.34",
-  "kb_version": "6.34",
+  "version": "6.35",
+  "kb_version": "6.35",
   "migrated_from": "3.3",
-  "fact_count": 4820,
+  "fact_count": 4821,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -86420,6 +86420,25 @@
       "date_ref": "1967",
       "conflicts_with": [],
       "added_version": "6.34",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4859",
+      "claim": "ACCESS FAILURE, NOT A NULL: THE QUEBEC BUSINESS REGISTER IS CLOSED TO THIS ENVIRONMENT. Attempting p_375 on 2026-09-05, the Registraire des entreprises search page returned HTTP 403 with the message \"L'acces a nos services vous est temporairement interdit en raison d'une utilisation excessive\" -- the registry rate-limiting or blocking this environment's egress, twice, with browser headers and French language preferences. BAnQ numerique answers 200 but renders its search results in JavaScript, so the returned HTML carries the page furniture and no results. NEITHER IS EVIDENCE ABOUT THE 1961 CHARTER. What was obtained: the Association des camps du Quebec's own about page states \"Fondee en 1961 a l'initiative de directeurs de camps de vacances\" -- the ACQ crediting camp directors collectively for its founding, in the same year the Alta Kahn tribute credits her efforts for the Quebec Camping Association's provincial charter. The two statements are compatible and this project should not merge them: an incorporation and a founding are different events, and whether the 1961 charter IS the ACQ's legal birth is exactly the question p_375 asks. UNTRIED ROUTES, in order of promise: (1) the GAZETTE OFFICIELLE DU QUEBEC for 1961, which publishes letters patent for non-profit corporations and would carry the charter, its date, its corporate name and its petitioners -- BAnQ holds the run; (2) the Registraire from an ordinary Quebec browser, where the same search is free and takes a minute; (3) the Registre des entreprises open dataset on Donnees Quebec, which is bulk and needs downloading rather than searching.",
+      "sources": [
+        "src_acq_about_page"
+      ],
+      "confidence": "stated",
+      "category": "institutions",
+      "entities": [
+        "Association des camps du Quebec",
+        "Quebec Camping Association",
+        "Registraire des entreprises",
+        "Alta R. Kahn"
+      ],
+      "date_ref": "1961",
+      "conflicts_with": [],
+      "added_version": "6.35",
       "added_by": "ralph_loop"
     }
   ]
