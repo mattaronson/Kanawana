@@ -30025,25 +30025,7 @@
       "read_state": "snippet",
       "read_state_basis": "LENDING-RESTRICTED. Two snippets only, from Open Library search-inside 2026-09-06: the article's by-line at leaf 282 and its index entry at page 58. The article has NOT been read.",
       "notes": "A LEAD ON HAROLD C. CROSS THAT IS DELIBERATELY NOT AN IDENTIFICATION. 'North American Rose Gardens of 1851 -- Harold C. Cross, St. Anne de Bellevue, Quebec.' Historical research on a nineteenth-century subject, in the founding year of the Montreal YMCA whose centenary Cross wrote, from a greater-Montreal address. But the evidence is A NAME AND A PROVINCE and nothing else, and Harold Cross is not a rare name. See f_5007."
-    },
-    {
-      "source_id": "src_macdonald_potpourri_2009",
-      "type": "web",
-      "title": "L. Ian MacDonald, Politics, People, and Potpourri (2009) — the Camp Kanawana canoe-trip aside",
-      "date": "2009",
-      "date_precision": "year",
-      "origin": "internet_archive",
-      "origin_url": "https://archive.org/details/politicspeoplepo0000macd",
-      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-macdonald-potpourri-kanawana.txt",
-      "char_count": 0,
-      "ingested_at": "2026-09-06T00:00:00Z",
-      "extracted": true,
-      "extraction_version": "8.09",
-      "reliability": "secondary",
-      "read_state": "snippet",
-      "read_state_basis": "NOT READ. One highlight window from Open Library search-inside, 2026-09-06; no page image fetched and the column's own date is not recoverable from it.",
-      "notes": "The only one of eight books containing the phrase 'Camp Kanawana' that this project did not already hold. A columnist's family aside attesting a five-day canoe trip at the camp; the camper is a private individual and a child at the time and is not identified. See f_5134."
     }
   ],
-  "source_count": 1669
+  "source_count": 1668
 }

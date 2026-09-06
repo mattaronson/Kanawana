@@ -1,8 +1,8 @@
 {
-  "version": "8.09",
-  "kb_version": "8.09",
+  "version": "8.10",
+  "kb_version": "8.10",
   "migrated_from": "3.3",
-  "fact_count": 5097,
+  "fact_count": 5098,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -91873,10 +91873,8 @@
         "Kamp Kanawana",
         "Kanawana wiki project"
       ],
-      "claim": "A SWEEP OF 'CAMP KANAWANA' ACROSS THE WHOLE OPEN LIBRARY BOOK CORPUS RETURNS EIGHT BOOKS, AND THIS PROJECT ALREADY HELD SEVEN. Run 2026-09-06 against https://openlibrary.org/search/inside.json, the endpoint that recovered the Hay Finlay passage (f_4959). The seven already held: Michael Kutz's 'If, by Miracle' (the diabetic children from Camp Kanawana passage, already written up in programs-activities.md); 'Les Laurentides, peintures et paysage'; 'My Canada-Such a Mechiah!'; 'Retenue par un fil'; 'Le Quebec en plein air'; the biography of J.W. McConnell; and an obituary reading 'Locke headed the financial campaign for the Fraser Hickson Library in Notre Dame de Grace, Quebec, and was a director of Camp Kanawana, a children's camp in the Laurentians. He is survived by his wife' -- ALREADY QUOTED AT people/roy-locke.md line 89, and reached here only by walking backwards through five overlapping queries because the OCR breaks 'di- rector' across a line. THE ONE NEW BOOK is L. Ian MacDonald's 'Politics, People, and Potpourri' (2009), a collection of the Montreal columnist's columns: 'Because she recently went on a five-day canoe trip at Camp Kanawana in the Laurentians, she is the family expert...'. THE CAMPER IS A PRIVATE INDIVIDUAL, A CHILD AT THE TIME, AND IS NOT IDENTIFIED; the institutional fact is an outside published attestation that Kanawana ran five-day canoe trips. THE TRIP IS UNDATED: the book collects earlier columns, so 'recently' places it only before the 2009 imprint. THE SWEEP'S REAL VALUE IS THE SEVEN, not the one: a corpus-wide phrase search over the whole of Open Library now returns almost nothing this project has not seen, which is a measure of the book-search surface being close to exhausted for this phrase. Other phrasings -- 'Kamp Kanawana', 'YMCA camp Saint-Sauveur', 'Lake Wilson' -- have not been swept the same way.",
-      "sources": [
-        "src_macdonald_potpourri_2009"
-      ],
+      "claim": "ALL EIGHT BOOKS CONTAINING 'CAMP KANAWANA' WERE ALREADY HELD, AND MY SWEEP FOR THEM WAS REDUNDANT WORK THAT I THEN GOT WRONG. [CORRECTED 2026-09-06, within the hour, before this fact was cited anywhere. The original text of this fact said seven of eight were already held and that L. Ian MacDonald's 'Politics, People, and Potpourri' (2009) was 'the one new book', and I catalogued it as src_macdonald_potpourri_2009 with its own cache file. IT WAS ALREADY IN sources.json, inside src_three_books_naming_kanawana_2026, whose title spells it 'Politics, People & Potpourri' WITH AN AMPERSAND. I had grepped the title with the word 'and' and taken zero hits as absence. A TITLE IS NOT AN IDENTITY CHECK; THE ARCHIVE IDENTIFIER IS, and politicspeoplepo0000macd was in sources.json all along. My duplicate record and its cache file are removed.] WHAT THE SWEEP ACTUALLY ESTABLISHED, and it is worth keeping: a corpus-wide Open Library search-inside sweep of 'Camp Kanawana' returns eight books and this project holds every one -- Michael Kutz's 'If, by Miracle' (the diabetic children passage, written up in programs-activities.md); 'Les Laurentides, peintures et paysage'; 'My Canada-Such a Mechiah!'; 'Retenue par un fil'; 'Le Quebec en plein air'; the J.W. McConnell biography; MacDonald's column collection; and an obituary reading 'Locke headed the financial campaign for the Fraser Hickson Library in Notre Dame de Grace, Quebec, and was a director of Camp Kanawana' -- which is ALREADY QUOTED AT people/roy-locke.md line 89, and which I reached by walking backwards through five overlapping queries because the OCR breaks 'di- rector' across a line, only to find the project had it. The parallel 'Kamp Kanawana' sweep returns thirteen books, ALL THIRTEEN HELD. AND f_4998 HAD ALREADY DONE ALL OF THIS MORE THOROUGHLY, paging the API to enumerate all 76 'Kanawana' items with their registration status, which I did not check before starting. THE SUBSTANTIVE FINDING IS THE EXHAUSTION: three sweeps, twenty-one hits, nothing new. The book-search surface is worked out for these phrasings.",
+      "sources": [],
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.09",
@@ -91898,6 +91896,20 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.09",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5136",
+      "category": "methodology",
+      "date_ref": "2026-09-06",
+      "entities": [
+        "Kanawana wiki project"
+      ],
+      "claim": "I DUPLICATED A SOURCE RECORD BECAUSE I CHECKED FOR IT BY TITLE INSTEAD OF BY IDENTIFIER. Catalogued L. Ian MacDonald's 'Politics, People, and Potpourri' as src_macdonald_potpourri_2009 after grepping the corpus for that title and getting zero hits. It was already held, inside src_three_business_naming... (src_three_books_naming_kanawana_2026), a record covering three books at once, WHOSE TITLE SPELLS IT 'Politics, People & Potpourri' WITH AN AMPERSAND. The archive identifier politicspeoplepo0000macd was in sources.json the whole time. Caught within the hour by testing every '[REGISTERED]' mark in the 76-item enumeration against sources.json and finding zero false positives -- which meant the false positive was mine. Duplicate record and its cache file removed; f_5134 corrected in place. THREE RULES OUT OF THIS. (1) A TITLE IS NOT AN IDENTITY CHECK. Titles carry ampersands, subtitles, translations, and this corpus deliberately uses MULTI-DOCUMENT RECORDS whose title names three books, so any one of those books is invisible to a search for its own title. Check the identifier, the origin_url, or the cache path. (2) THE PROJECT'S OWN PRIOR WORK IS A SOURCE AND MUST BE GREPPED FIRST: f_4998 had already paged this exact API, enumerated all 76 'Kanawana' items with registration status, and identified the Tapirape word for thunder as the largest false-friend cluster. I re-derived all of it, including the thunder, and only found f_4998 afterwards. THE SAME DESTINATION-CHECK DISCIPLINE THAT GOVERNS ARTICLE SPINOUTS GOVERNS SEARCHES. (3) When a checker of mine and a record of the project's disagree, test the checker first: here the enumeration was right and my grep was wrong, and I had been a step away from writing that the enumeration's registration marks were unreliable.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.10",
       "added_by": "manual"
     }
   ]
