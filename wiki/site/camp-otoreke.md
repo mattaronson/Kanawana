@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 25*
+*Status: E1-reviewed | Sources: 26*
 *Last Updated: 2026-09-06*
 
 ## Overview
@@ -260,6 +260,55 @@ island carries his name it was given in his memory rather than during his tenure
 says so. There is also an **E. M. Corbett** in an 1893-94 list and a **John Corbett** subscribing in
 1900. This is recorded so a later pass can test it, not as an answer.
 
+### 1904: the camp describes itself, and the club house is photographed
+
+The YMCA of Montreal's 1904 report is titled **"MEN OF MONTREAL — Fifty-Third Annual Report and Summer
+Camp Number, 1904"**, and its front cover is a halftone captioned **"CAMP CLUB HOUSE, LAKE ST.
+JOSEPH."**^26
+
+![Camp Club House, Lake St. Joseph — cover of the 1904 Summer Camp Number](../../assets/images/documents/1904-camp-club-house-lake-st-joseph.jpg)
+*"CAMP CLUB HOUSE, LAKE ST. JOSEPH." Cover halftone, YMCA of Montreal, *Men of Montreal*, 1904.
+Published 1904; public domain in Canada.*
+
+A gable-ended two-storey building with a masonry chimney, a **wide covered veranda** across the front
+and down the side on posts, a canvas blind let down at its left end, and steps from the middle of the
+veranda to a path. **A dozen or more boys and young men** are on the veranda, the steps and the path,
+several in bathing dress; the lake shows at the right with a low wooded hill beyond. This is the **Log
+Club House completed in September 1898**, and that veranda is the "gallery" the 1900 campers complained
+the ice-house spoiled the view from.^19
+
+**"The Eleventh Annual Summer Camp."** The number opens: "On July 16th, **the Eleventh Annual Summer
+Camp** of the Association for senior members will open at Lac St. Joseph, in charge of **Mr. H.
+Ballantyne, Educational Secretary**."^26 An eleventh annual camp in 1904 counts the first at **1894** —
+the association's own ordinal, contemporaneous and arithmetically checkable, against the 1931 report's
+later claim that the first camp opened in 1898 [f_2146]. It then tells the founding story at ten years'
+remove: "**Ten years ago** a small party of our members, after preliminary exploration, **pitched their
+tents on one of the islands in Lac St. Joseph**… led to the acquiring of the islands for the Association
+and to the establishment of the summer camp at that spot."^26
+
+**The whole plant, in one sentence.** "The Association now has in addition to the club house, **a well
+furnished log kitchen adjoining, an ice house, pump, small camp library, eight large tents equipped with
+fly and board floor, ten boats, fishing and swimming wharves**."^26 The enlarged kitchen and the new
+ice-house are the two things the campers asked for in 1900 and the committee built by 1902, now standing;
+the tents that "all leaked" in 1900 now have flies and board floors. And: "Through the generosity of
+**Mr. Jas. W. Tester**, a **gasoline launch** will be at the disposal of the members this year."
+
+**What it cost and how you got there.** Sixty-four miles by rail to Ste-Agathe, then **eight miles by
+road**. One week, railway fare and the drive both ways included, **$10.00**; subsequent weeks $5.00;
+Saturday to Monday $4.00 — "a member's privilege," the rates representing "the actual cost of operation
+with a small margin to maintain the camp property." Out Saturday afternoon, back Monday morning. The
+camp closed **6 September**. Programme: "Tenting, boating, bathing, fishing, exploring… tennis, base
+ball, basket ball, quoits," and, drily, "**A camera adds greatly to the pleasure of a visit.**" The camp
+committee that year: **B. S. R. Watson**, chairman, with Jas. R. Greig, W. Jarrett, C. D. Tweedie and
+H. G. Beall.^26
+
+**And the islands were still being bought.** "On a large well-wooded island in the lake the camp is
+situated. **The Association also owns several islands immediately adjoining.**"^26 Against the 1902
+report's single island plus the small one bought at auction in November 1901, that gives a sequence —
+one through 1901, two from that November, **several** by 1904 — which is very likely why the two
+secondary accounts behind `c_008` cannot be reconciled. They are fixing a number on a holding that was
+still growing.
+
 ### 1901: one island, then two, and a survey that worked
 
 The annual report for the year ending 30 April 1902 does two things this article has wanted.^25
@@ -369,6 +418,7 @@ Camp Otoreke closed in 1982 after nearly 90 years of continuous operation.^1 The
 23. YMCA of Montreal, **Annual Report for the year ending 30 April 1899** [src_ia_ymca_montreal_annual_reports_collection]. The Permanent Camp Committee, Summer Camp and Junior Department lists, and the plate captioned "The Association Summer Camp, Lake St. Joseph." Read 2026-09-06. See [f_4908], [f_4909], [f_4910].
 24. The same report's **Permanent Camp Committee** narrative (leaf 32 of the Internet Archive scan) [src_ia_ymca_montreal_annual_reports_collection]. The Log Club house, the senior and junior seasons, the length-of-stay breakdown and the men in charge. Read 2026-09-06. See [f_4911], [f_4912], [f_4913]. *This passage is in the cached OCR text and has been since the file was ingested; it had not been read.*
 25. YMCA of Montreal, **Annual Report for the year ending 30 April 1902**, section "SUMMER CAMP, ST. AGATHE" [src_ia_ymca_montreal_annual_reports_collection]. The island auction of 26 November 1901, the kitchen and ice-house, and the season's finances. Read 2026-09-06. See [f_4915], [f_4916]; and `c_008` for the island count.
+26. YMCA of Montreal, ***Men of Montreal*: Fifty-Third Annual Report and Summer Camp Number, 1904** [src_ia_ymca_montreal_annual_reports_collection] — the cover halftone and the senior-camp description, pp. 1-3. Read 2026-09-06. See [f_4918], [f_4919], [f_4920], [f_4921]. The cover image is filed at `assets/images/documents/1904-camp-club-house-lake-st-joseph.jpg`, the whole cover beside it.
 
 ## Research Notes
 

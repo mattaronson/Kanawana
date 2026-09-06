@@ -4,6 +4,30 @@
   "updated": "2026-09-06",
   "images": [
     {
+      "id": "img_camp_club_house_1904",
+      "title": "Camp Club House, Lake St. Joseph",
+      "caption_on_original": "CAMP CLUB HOUSE, LAKE ST. JOSEPH",
+      "date": "1904",
+      "date_precision": "year",
+      "source": "YMCA of Montreal, 'Men of Montreal': Fifty-Third Annual Report and Summer Camp Number, 1904 -- front cover",
+      "source_ref": "Internet Archive item sgw-ymca-annual-report-1904-men-of-montreal, leaf n0",
+      "source_url": "https://archive.org/details/sgw-ymca-annual-report-1904-men-of-montreal",
+      "rights": "Halftone published 1904 -- public domain in Canada. Credit the YMCA of Montreal fonds, digitized by Concordia University Records Management and Archives.",
+      "linked_facts": [
+        "f_4918",
+        "f_4920"
+      ],
+      "suggested_articles": [
+        "camp-otoreke",
+        "founding-1894"
+      ],
+      "target_filename": "1904-camp-club-house-lake-st-joseph.jpg",
+      "filename": "1904-camp-club-house-lake-st-joseph.jpg",
+      "status": "acquired",
+      "priority": 1,
+      "notes": "The Log Club House completed September 1898, photographed for the cover of the 1904 report. A dozen or more boys and young men on the veranda, the steps and the path; a canvas blind let down at the left end of the veranda; the lake beyond. The full cover is filed alongside as 1904-men-of-montreal-summer-camp-number-cover.jpg. Found 2026-09-06 by ranking the item's djvu pages by word count and looking at the sparsest -- the caption sweep of the cached OCR missed it because the OCR runs the caption into the cover text."
+    },
+    {
       "id": "img_association_summer_camp_1899",
       "title": "The Association Summer Camp, Lake St. Joseph",
       "caption_on_original": "THE ASSOCIATION SUMMER CAMP, LAKE ST. JOSEPH.",

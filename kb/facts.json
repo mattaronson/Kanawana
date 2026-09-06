@@ -1,8 +1,8 @@
 {
-  "version": "6.61",
-  "kb_version": "6.61",
+  "version": "6.62",
+  "kb_version": "6.62",
   "migrated_from": "3.3",
-  "fact_count": 4879,
+  "fact_count": 4883,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -87612,6 +87612,88 @@
       "date_ref": "2026-09-06",
       "conflicts_with": [],
       "added_version": "6.61",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4918",
+      "claim": "THE 1904 ANNUAL REPORT IS A SUMMER CAMP NUMBER, AND ITS COVER IS A PHOTOGRAPH OF THE LOG CLUB HOUSE. The YMCA of Montreal's 1904 report is titled \"MEN OF MONTREAL... FIFTY-THIRD ANNUAL REPORT AND SUMMER CAMP NUMBER, 1904\", and its front cover carries a halftone captioned \"CAMP CLUB HOUSE, LAKE ST. JOSEPH.\" WHAT THE PHOTOGRAPH SHOWS, read from the page image 2026-09-06: a substantial gable-ended two-storey building with a masonry chimney and windows in the gable; a WIDE COVERED VERANDA running across the front and down the visible side on posts, with a canvas blind or awning let down at the left end; a flight of steps from the middle of the veranda down to a path. ROUGHLY A DOZEN TO FIFTEEN BOYS AND YOUNG MEN are in the frame -- on the veranda, on the steps, and on the path -- several in bathing dress. The lake shows at the right beyond the building with a low wooded hill on the far shore; scrub and a low stone or log edging in the foreground. THIS IS THE LOG CLUB HOUSE COMPLETED IN SEPTEMBER 1898 (f_4912), and its veranda is the \"gallery\" whose view the 1900 campers complained the ice-house spoiled (f_4883). The cover was invisible to the caption sweep of the cached OCR (f_4917) because the OCR runs the caption into the surrounding cover text; it was found by ranking the item's djvu pages by word count and looking at the sparsest.",
+      "sources": [
+        "src_ia_ymca_montreal_annual_reports_collection"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Camp Jubilee",
+        "Lac St. Joseph",
+        "Log Club House",
+        "Men of Montreal"
+      ],
+      "date_ref": "1904",
+      "conflicts_with": [],
+      "added_version": "6.62",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4919",
+      "claim": "THE ASSOCIATION COUNTED FROM 1894 IN 1904, IN ITS OWN ORDINAL. The 1904 Summer Camp Number opens: \"On JULY 16TH, THE ELEVENTH ANNUAL SUMMER CAMP of the Association for senior members will open at Lac St. Joseph, in charge of MR. H. BALLANTYNE, EDUCATIONAL SECRETARY.\" An eleventh annual camp in 1904 counts the first at 1894. IT THEN TELLS THE FOUNDING STORY AT TEN YEARS' DISTANCE: \"TEN YEARS AGO a small party of our members, AFTER PRELIMINARY EXPLORATION, PITCHED THEIR TENTS ON ONE OF THE ISLANDS IN LAC ST. JOSEPH. Their enthusiastic description of their experiences created wider interest amongst the members on their return and LED TO THE ACQUIRING OF THE ISLANDS FOR THE ASSOCIATION and to the establishment of the summer camp at that spot. Later, through the efforts of well-known interested campers THE PRESENT SPLENDID LOG CLUB HOUSE WAS ERECTED.\" THIS MATTERS BECAUSE THE ASSOCIATION LATER CONTRADICTED ITSELF: the 1931 report says \"IN 1898, OR FORTY YEARS AGO, THE FIRST BOYS CAMP OF THE ASSOCIATION WAS OPENED AT LAC ST. JOSEPH\" (f_2146), which is wrong twice over. The 1904 ordinal is contemporaneous, arithmetically checkable, and agrees with the 1894-95 annual report's own account (f_2178). NOTE ALSO that H. Ballantyne is very likely the HARRY BALLANTYNE who wrote \"A Short History of the Canadian Y.M.C.A. 1851-1944\", a source this project already holds -- the author of the movement's standard short history ran the Montreal senior camp in 1904. That identification is NOT confirmed here.",
+      "sources": [
+        "src_ia_ymca_montreal_annual_reports_collection"
+      ],
+      "confidence": "stated",
+      "category": "history",
+      "entities": [
+        "Camp Jubilee",
+        "Lac St. Joseph",
+        "H. Ballantyne",
+        "Harry Ballantyne"
+      ],
+      "date_ref": "1904-07-16",
+      "conflicts_with": [
+        "f_2146"
+      ],
+      "added_version": "6.62",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4920",
+      "claim": "THE CAMP'S WHOLE PLANT, PROGRAMME AND PRICE LIST IN 1904. From the Summer Camp Number. PLANT: \"the Association now has IN ADDITION TO THE CLUB HOUSE, A WELL FURNISHED LOG KITCHEN ADJOINING, AN ICE HOUSE, PUMP, SMALL CAMP LIBRARY, EIGHT LARGE TENTS EQUIPPED WITH FLY AND BOARD FLOOR, TEN BOATS, FISHING AND SWIMMING WHARVES, etc.\" -- the enlarged kitchen and the new ice-house the campers asked for in October 1900 and the committee built by 1902 (f_4915), now standing, with board floors and flies on the tents that had \"all leaked\" in 1900. \"Through the generosity of MR. JAS. W. TESTER, A GASOLINE LAUNCH will be at the disposal of the members this year.\" PROGRAMME: \"Tenting, boating, bathing, fishing, exploring are the chief means of enjoyment. There are facilities also for TENNIS, BASE BALL, BASKET BALL, QUOITS\"; \"In wet weather the club house brings the men together.\" \"A camera adds greatly to the pleasure of a visit.\" GETTING THERE: \"Sixty-four miles from Montreal to Ste. Agathe... and EIGHT MILES BY ROAD brings one to the shores of Lac St. Joseph\"; transport Saturday afternoon out, Monday morning back. RATES, \"a member's privilege\" representing \"the actual cost of operation with a small margin to maintain the camp property\": one week including railway fare and drive both ways $10.00; subsequent weeks $5.00; Saturday to Monday $4.00. THE CAMP CLOSED 6 SEPTEMBER. CAMP COMMITTEE 1904: B. S. R. WATSON, Chairman; JAS. R. GREIG, W. JARRETT, C. D. TWEEDIE, H. G. BEALL.",
+      "sources": [
+        "src_ia_ymca_montreal_annual_reports_collection"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Camp Jubilee",
+        "Lac St. Joseph",
+        "Jas. W. Tester",
+        "B. S. R. Watson",
+        "H. G. Beall",
+        "Log Club House"
+      ],
+      "date_ref": "1904",
+      "conflicts_with": [],
+      "added_version": "6.62",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4921",
+      "claim": "BY 1904 THE ASSOCIATION OWNED THE MAIN ISLAND AND \"SEVERAL ISLANDS IMMEDIATELY ADJOINING\". The 1904 Summer Camp Number: \"On A LARGE WELL-WOODED ISLAND in the lake the camp is situated. THE ASSOCIATION ALSO OWNS SEVERAL ISLANDS IMMEDIATELY ADJOINING.\" SET BESIDE THE 1902 REPORT (f_4916), which says the association held \"our present island\" -- singular -- until it bought \"a small one adjoining\" at auction on 26 November 1901 for $50, this gives a sequence: one island through 1901, two from November 1901, and SEVERAL by 1904. So the acquisitions continued between 1902 and 1904 and are not all recorded here. IT ALSO MEANS c_008's \"three islands\" and \"two islands acquired in 1897\" are both attempts to fix a number on a holding that was still growing, which may be why neither secondary source can be made to agree with the other. The 1904 text does not say how many \"several\" is.",
+      "sources": [
+        "src_ia_ymca_montreal_annual_reports_collection"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Camp Jubilee",
+        "Camp Otoreke",
+        "Lac St. Joseph"
+      ],
+      "date_ref": "1904",
+      "conflicts_with": [
+        "f_0486",
+        "f_1502"
+      ],
+      "added_version": "6.62",
       "added_by": "ralph_loop"
     }
   ]
