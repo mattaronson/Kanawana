@@ -240,6 +240,33 @@ is required, and omitting it produces an HTML page that looks like the endpoint 
 f_4978. And keep a control in every enumeration session: query something whose answer you already
 know, and check that you get it.
 
+## Two more, from later the same morning
+
+**25. A catalogue year is worthless, a title page beats it, and a volume's own contents beat its
+title page's OCR.** Three terms, in that order. The Internet Archive's `year` field for the YMCA
+*Year Book* is wrong by two years on one item and names only the first of five bound volumes on
+another, so title pages were made the authority — and then a title page reading "FOR THE YEAR
+1898" turned out to be the 1893 volume, because these scans confuse 3 and 8 (the same OCR renders
+F. S. Morrison's year of entry, 93, as "SS"). Its contents said 1892 and early 1893 throughout.
+An hour's work, a fact, a cache file, two articles and a commit were built on the misread digit,
+including a manufactured "tension" against an existing fact. **Where two items hold the same year,
+read both — their disagreement is what exposes this.** And when a correction lands, check whether
+anything else was read the same way: the Archibald McKellar identification came off a different
+scan's "1898" volume and had to be re-verified before the correction could be written. It held.
+
+**26. Five errors in one morning, all mine, none caught by a verify script.** Worth stating as a
+rule because the pattern is one thing, not five: *a query that fails is not a fact about the
+world.* A grep with single spaces against double-spaced OCR ("his first name is in no source
+found"). A section searched and the volume declared unreadable ("the 1900 roster cannot be read").
+A phrase-grep for "Charles Cushing" against a table that writes him as a row headed by the surname
+("occurs nowhere in this project"). A title-page pattern that could not match an association-year
+date, and one that could not match "FOB THE YEAR". And a misread digit taken for a document.
+
+Every one was caught by going back to the source after writing the claim down, and every one had
+already been committed. **Write the claim, then read the source again as though someone else had
+written the claim.** The verify scripts check structure, citations and labelling; they cannot tell
+you that your query was the wrong shape. Only the source can.
+
 ## Open questions for Matt
 
 Carried forward: whether the Pip-committee work belongs in `people/matt-aronson.md`; whether there is
