@@ -1,6 +1,6 @@
 # Camp Perrot
 
-*Status: E1-reviewed | Sources: 12*
+*Status: E1-reviewed | Sources: 13*
 *Last Updated: 2026-09-06 (the 1947 and 1948 reports read whole; the Thunderbird question)*
 
 ## Overview
@@ -40,6 +40,38 @@ to 31 March, so each covers the previous summer: Thunderbird is tabled for the s
 1943 and vanishes from the report whose summer is 1944, which is the first to carry Perrot.^12 *No document found says Perrot succeeded Thunderbird*, and
 none is claimed here; the Perrot founding papers (P0145/12H) or the 1944–45 camp committee minutes
 would settle it. See [[site/camp-thunderbird|Camp Thunderbird]].
+
+## Who ran it, 1947 to 1958
+
+The annual reports print their officers on the title page, so the leadership can be set out
+directly.^10 ^13
+
+| Year | Director | Girls' Camp | Committee chairs |
+|------|----------|-------------|------------------|
+| 1947 | A. T. Dodds | Verlie Dodds | O. N. H. Owens, Chairman |
+| 1950 | *(the three names are A. R. Seaman, Dr. Preston Robb and E. Hammond; the scan jumbles the columns and the roles are not assigned here)* | | |
+| **1951** (eighth annual report) | **A. Ross Seaman** | | Dr. J. Preston Robb, Chairman; E. Hammond, Perrot Committee |
+| **1952** (ninth) | **Donald Cochrane** | **Margaret Seaman** | S. F. Kneeland, Chairman; E. Hammond, Perrot Committee |
+| **1953** (tenth) | **Donald Cochrane** | | S. F. Kneeland, Boys' Camping; [G.] Mackey, Camp Perrot |
+| **1954** | **Donald Cochrane** | | Gordon Mackey, Camp Perrot; Scott F. Kneeland, Boys' Camping |
+| **1958** | **Donald Cochrane** | **Maureen Ring** | Gordon Mackey, Chairman; George Clouston, Vice-Chairman |
+
+**Donald Cochrane directed Camp Perrot from 1952 to at least 1958** — seven seasons, which makes him
+its longest documented director. This article previously knew him only as the author of a 1959 memo.
+**A. Ross Seaman's directorship is now dated to 1951** from the report he signed, where it had rested
+on the 1952 report's thank-you to a "Past Director of Camp Perrot." The 1958 committee list also puts
+**Hedley Dimock** on it alongside H. C. Brophy, Donald Dewar, Allan Forbes, Scott F. Kneeland,
+Marshall Lebeau, John Lewis and A. Miles.
+
+The reports' own ordinals — eighth in 1951, ninth in 1952, tenth in 1953 — count from **1944** and
+corroborate the founding date twice more.
+
+**One name worth flagging across two camps.** The 1929 "Come to Kanawana" brochure has "Scott
+Kneeland will have charge of the workshop"; the Perrot reports of 1952–54 have Scott F. Kneeland
+chairing the Montreal YMCA's Boys' Camping Committee. Same uncommon name, same association, a
+plausible arc from a young man running a camp workshop to a committee chairman in his forties —
+and **no document names both roles**, so the identification is left open. See
+[[people/directors-index|Directors and Staff of Camp Kanawana]] for the 1929 staff list.
 
 ## 1947, in the camp's own report
 
@@ -161,6 +193,7 @@ The earliest known Kanawana-side documentary evidence is a "Comparison of Two Bo
 10. "1947 Report of the Montreal YMCA Camp Perrot for Boys & Girls", addressed to the Board of Management and signed by O. N. H. Owens (Chairman) and A. T. Dodds (Camp Director), with the Girls' Camp section signed by Verlie Dodds [src_ymf_1947_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls]. See [f_5032] and [f_5033]. Read whole 2026-09-06 under p_441.
 11. "Suggestions / Recommendations, Camp Perrot 1948" [src_ymf_1948_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls]. **The catalogue files this as a season report and it is not one**: unsigned, no attendance figures, no staff list, a building-by-building list of works wanted before 1949. See [f_5034].
 12. YMCA of Montreal Annual Report, 1944, on Camp Thunderbird [src_ymf_sgw_ymca_annual_report_1944]. See [f_5037] and [[site/camp-thunderbird|Camp Thunderbird]].
+13. Camp Perrot annual reports for 1950, 1951 (eighth), 1952 (ninth), 1953 (tenth), 1954 and 1958 [src_ymf_1950_camp_perrot_annual_report, src_ymf_1951_camp_perrot_annual_report, src_ymf_1952_camp_perrot_annual_report, src_ymf_1953_camp_perrot_annual_report, src_ymf_1954_camp_perrot_annual_report, src_ymf_1958_camp_perrot_annual_report]. **Read for their title-page officer blocks and signatures only** — the bodies are not read, and the source records say so. See [f_5048].
 
 ## Research Notes
 

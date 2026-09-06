@@ -1,8 +1,8 @@
 {
-  "version": "7.46",
-  "kb_version": "7.46",
+  "version": "7.47",
+  "kb_version": "7.47",
   "migrated_from": "3.3",
-  "fact_count": 5009,
+  "fact_count": 5011,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -90240,6 +90240,58 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.46",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5048",
+      "category": "people",
+      "date_ref": "1950-1958",
+      "entities": [
+        "Camp Perrot",
+        "A. Ross Seaman",
+        "Donald Cochrane",
+        "Margaret Seaman",
+        "Maureen Ring",
+        "Gordon Mackey",
+        "Scott F. Kneeland",
+        "E. Hammond",
+        "J. Preston Robb"
+      ],
+      "claim": "CAMP PERROT'S LEADERSHIP YEAR BY YEAR, 1950 TO 1958, FROM THE TITLE PAGES OF ITS OWN ANNUAL REPORTS. Six reports carry their officers on the first page, and together they give a near-continuous line. 1951, headed 'EIGHTH ANNUAL REPORT': 'Dr. J. Preston Robb, Chairman; E. Hammond, Perrot Committee; A. ROSS SEAMAN, DIRECTOR.' 1950 carries the same three names with the columns jumbled by the scan, so its role assignment is NOT asserted here. 1952, 'NINTH ANNUAL REPORT': 'S. F. Kneeland, Chairman; E. Hammond, Chairman, Perrot Committee; D. COCHRANE, DIRECTOR', with a separate girls' report signed 'MARGARET SEAMAN, GIRLS' CAMP DIRECTOR'. 1953, 'Tenth Annual Report': 'Chairman, Boys' Camping Committee - S. F. Kneeland; Camp Perrot Committee - [G.] Mackey; DIRECTOR - DONALD COCHRANE'. 1954: 'Chairman, Camp Perrot Committee - GORDON MACKEY; Chairman, Boys' Camping Committee - SCOTT F. KNEELAND; Director - DONALD COCHRANE'. 1958: 'BOYS' CAMP - DONALD COCHRANE, DIRECTOR; GIRLS' CAMP - MAUREEN RING, DIRECTOR', with a camp committee under Gordon Mackey as chairman and George Clouston as vice-chairman, its members including HEDLEY DIMOCK, Scott F. Kneeland, H. C. Brophy, Donald Dewar, Allan Forbes, Marshall Lebeau, John Lewis and A. Miles. WHAT THIS ADDS: DONALD COCHRANE DIRECTED CAMP PERROT FROM 1952 TO AT LEAST 1958, seven seasons, which makes him its longest documented director -- this wiki knew him only as the author of a 1959 memo. A. ROSS SEAMAN'S PERROT DIRECTORSHIP IS NOW DATED to 1951 from the report he signed, where before it rested on a 1952 thank-you calling him 'Past Director'. MARGARET SEAMAN is confirmed as Girls' Camp Director in 1952 and MAUREEN RING added for 1958. And the reports' own ordinals -- eighth in 1951, ninth in 1952, tenth in 1953 -- count from 1944 and corroborate the founding date a fourth and fifth time.",
+      "sources": [
+        "src_ymf_1950_camp_perrot_annual_report",
+        "src_ymf_1951_camp_perrot_annual_report",
+        "src_ymf_1952_camp_perrot_annual_report",
+        "src_ymf_1953_camp_perrot_annual_report",
+        "src_ymf_1954_camp_perrot_annual_report",
+        "src_ymf_1958_camp_perrot_annual_report"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.47",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5049",
+      "category": "people",
+      "date_ref": "1929-1958",
+      "entities": [
+        "Scott F. Kneeland",
+        "Kamp Kanawana",
+        "Camp Perrot",
+        "YMCA of Montreal"
+      ],
+      "claim": "A NAME THAT CROSSES TWENTY-NINE YEARS AND TWO CAMPS, PROBABLY THE SAME MAN. The 1929 'Come to Kanawana' brochure names 'SCOTT KNEELAND' among that season's staff: 'Scott Kneeland will have charge of the workshop' (f_5029). The Camp Perrot annual reports of 1952, 1953 and 1954 give 'S. F. KNEELAND' and 'SCOTT F. KNEELAND' as CHAIRMAN OF THE MONTREAL YMCA'S BOYS' CAMPING COMMITTEE, and the 1958 report has him still on the Camp Perrot committee (f_5048). THE IDENTIFICATION IS PROBABLE AND IS NOT MADE HERE. What supports it: an uncommon given name and surname together, the same association, and a plausible arc from a young man running a camp workshop at nineteen or twenty to a committee chairman in his forties. What is missing: any document naming both roles, a middle name for the 1929 man, or dates for either. WHAT WOULD SETTLE IT: the Montreal YMCA's own membership or board records, or a Kanawana alumni list naming him. RECORDED because a project that has spent months turning initials on brochures into people should notice when the same name reappears in the same institution a generation later, and because the 1929 brochure also names a 'RE KNEELAND' [sic in the 1952 girls' report, 'Re Kneeland for their voluntary help with Leathercraft'] -- possibly a relative, possibly the same surname twice, and not resolved.",
+      "sources": [
+        "src_ymf_1929_come_to_kanawana_brochure",
+        "src_ymf_1952_camp_perrot_annual_report",
+        "src_ymf_1953_camp_perrot_annual_report",
+        "src_ymf_1954_camp_perrot_annual_report",
+        "src_ymf_1958_camp_perrot_annual_report"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "7.47",
       "added_by": "ralph_loop"
     }
   ]
