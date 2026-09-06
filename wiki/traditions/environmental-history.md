@@ -1,6 +1,6 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 47*
+*Status: E1-reviewed | Sources: 48*
 *Last Updated: 2026-09-06 (p_349: Mary Edgar's 1970 conservation hymn)*
 
 ## Overview
@@ -22,7 +22,22 @@ at Kamp Kanawana**."^47 The campaign's own summary said the money would "make Ka
 **year-round camping and outdoor education centre**" — which is the 2006 repositioning, proposed
 and costed in 1976. The French text uses the same words: *un centre d'écologie au Kamp Kanawana*.
 
-**Whether any of it was built is a separate question and this does not answer it.** Nor is the sum
+**Was any of it built? Not so far as the association ever reported.** The YMCA of Montreal's annual
+reports for 1977-78 through 1986 and Kanawana's own directors' reports for 1976 through 1979 were
+searched for it. "Ecolog" occurs in exactly one of the thirteen documents, and it is a staff
+training course — the 1976 director's report sends "Misty McKay, Vermont Ecology School, Vermont."
+There is no ecology centre, no year-round facility and no northern base camp in any of them; the
+"Camping and Outdoor Education" that does appear is the name of a branch committee.^48
+
+**That is a null, not a demolition.** It shows the association never reported building the thing,
+which is not the same as showing it was never built. What the money demonstrably did: the 1980-81
+balance sheet still carries "Due to 1976 Capital Campaign Fund — 342,526"; the 1984 report has the
+Foundation laying groundwork for "a much needed major Capital Development Program to commence in
+1985," a second campaign; and the 1985 report describes funds applied "exclusively to repair the
+buildings and replace equipment at our branches and Kamp Kanawana."^48 Repair and replacement, in
+other words, and not an ecology centre.
+
+**And this does not answer it either.** Nor is the sum
 recoverable: the amounts are right-aligned in both language columns and the OCR drifts them, so the
 figure against "Camping & Outdoor Education" is illegible and has not been guessed.^47 What the
 document establishes is intent, named, in print, in 1976.
@@ -340,6 +355,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 45. Jay Netherwood (Camp Kanawana), "L'Étranger" / "The Stranger," *Canadian Camping Magazine* Vol. 39 No. 3 (Winter 1988), pp. 18-19, printed in French and English [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 164). The only article by a Kanawana person in the magazine's 1949-1988 run.
 46. Mary S. Edgar, "A Page of Poems" — "A Director's Meditation," "Hymn for the Space-Age" (Tune: Forest Green), "Postpone the Verdict" and "Outdoor Blessing" — *Canadian Camping* Vol. 23 No. 1 (November 1970) [src_ia_canadian_camping_collection]. Her two earlier Centennial hymns are "Canada's Our Country," printed with the National Campfire ceremony in Vol. 19 No. 4 (June 1967), and "This Fair Land, Our Canada — A Centennial Hymn" in the Spring 1969 issue. Written up 2026-09-06 under p_349. See [f_3453], [f_3454], [f_3343].
 47. *125 Colourful Years*, YMCA of Montreal 125th-anniversary publication, 1976 [src_ymf_annual_report_1976_125_colourful_years]. Cached at `sources/cache/ymca-montreal-fonds/annual-report-1976-125-colourful-years.txt`. See [f_5044]. Read 2026-09-06 under p_441 for its timeline and its building-fund plan; the branch reporting that makes up most of the volume is not read.
+48. YMCA of Montreal annual reports for 1977-78 through 1986, and the Kamp Kanawana directors' reports for 1976-1979 [src_cache_sgw_ymca_annual_report_1977_1978, src_cache_sgw_ymca_annual_report_1978_1979, src_ymf_sgw_ymca_annual_report_1979_1980, src_ymf_sgw_ymca_annual_report_1980_1981, src_ymf_sgw_ymca_annual_report_1981_1982, src_ymf_sgw_ymca_annual_report_1982_1983, src_ymf_sgw_ymca_annual_report_1984, src_ymf_sgw_ymca_annual_report_1985, src_ymf_sgw_ymca_annual_report_1986, src_ia_kanawana_directors_report_1976]. Searched for the 1976 campaign's promises. See [f_5046].
 
 ## Research Notes
 

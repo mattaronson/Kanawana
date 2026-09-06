@@ -1,8 +1,8 @@
 {
-  "version": "7.45",
-  "kb_version": "7.45",
+  "version": "7.46",
+  "kb_version": "7.46",
   "migrated_from": "3.3",
-  "fact_count": 5007,
+  "fact_count": 5009,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -90194,6 +90194,52 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.45",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5046",
+      "category": "history",
+      "date_ref": "1977-1986",
+      "entities": [
+        "YMCA of Montreal",
+        "Kamp Kanawana",
+        "Ecology Centre"
+      ],
+      "claim": "THE 1976 ECOLOGY CENTRE DOES NOT APPEAR AGAIN IN THE ASSOCIATION'S REPORTS, AND THE WORD 'ECOLOGY' OCCURS IN NONE OF THEM. p_448 asked whether the Ecology Centre at Kanawana promised in the 1976 campaign (f_5044) was ever built. WHAT WAS CHECKED: the YMCA of Montreal annual reports for 1977-78, 1978-79, 1979-80, 1980-81, 1981-82, 1982-83, 1984, 1985 and 1986, and the KAMP KANAWANA DIRECTORS' REPORTS for 1976, 1977, 1978 and 1979. 'ECOLOG' OCCURS IN EXACTLY ONE OF THEM AND IT IS NOT A BUILDING: the 1976 director's report sends 'Misty McKay, VERMONT ECOLOGY SCHOOL, Vermont' on a staff training course. 'Year-round' and 'outdoor education' as a Kanawana facility do not occur either -- the phrase 'Camping and Outdoor Education / Camping et education en plein air' in the 1977-78 and 1978-79 reports is the name of a BRANCH COMMITTEE (chairman J. P. Davey, executive D. Walsh, then D. Twynam / D. Walsh), not a centre. THIS IS A NULL ACROSS NINE ANNUAL REPORTS AND FOUR DIRECTORS' REPORTS AND IT IS RECORDED AS ONE. It does not prove the centre was never built; it proves the association did not report one. WHAT THE MONEY DID DO. The 1980-81 balance sheet still carries a line 'Due to 1976 CAPITAL CAMPAIGN FUND -- 342,526', so the campaign's fund was live four years on. The 1984 report says the Foundation 'has worked hard to lay the groundwork for a much needed MAJOR CAPITAL DEVELOPMENT PROGRAM to commence in 1985' -- a second campaign, not the first. And the 1985 report describes funds applied 'exclusively to repair the buildings and replace equipment at our branches and KAMP KANAWANA as planned in the Montreal YMCA's facilities development program'. SO CAPITAL WORK AT KANAWANA IS DOCUMENTED IN THE MID-1980s AS REPAIR AND REPLACEMENT, NOT AS AN ECOLOGY CENTRE OR A YEAR-ROUND FACILITY.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1977_1978",
+        "src_cache_sgw_ymca_annual_report_1978_1979",
+        "src_ymf_sgw_ymca_annual_report_1979_1980",
+        "src_ymf_sgw_ymca_annual_report_1980_1981",
+        "src_ymf_sgw_ymca_annual_report_1981_1982",
+        "src_ymf_sgw_ymca_annual_report_1982_1983",
+        "src_ymf_sgw_ymca_annual_report_1984",
+        "src_ymf_sgw_ymca_annual_report_1985",
+        "src_ymf_sgw_ymca_annual_report_1986",
+        "src_ia_kanawana_directors_report_1976"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.46",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5047",
+      "category": "history",
+      "date_ref": "1983-1994",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE CAMP CELEBRATED A 75TH ANNIVERSARY IN 1983 AND A CENTENNIAL IN 1994. ELEVEN YEARS APART, FIFTEEN YEARS OF DIFFERENCE. The YMCA of Montreal's annual report for the year ending March 1984 lists among the year's highlights: 'KAMP KANAWANA CELEBRATED ITS 75TH YEAR OF SERVICE. More than 34,000 people have benefited over the years from their involvement at Kanawana.' Its camping season is the summer of 1983 (f_5039), so a 75th year in 1983 counts from 1909. The following report, covering the summer of 1984, says the camp 'has been offering outdoor adventure to young people, ages 6 to 18, FOR THE PAST 75 YEARS' -- the same reckoning. AND IN 1994 THE CAMP KEPT ITS CENTENNIAL, counting from Billy Ball's 1894 trip to Lake Saint-Joseph, as wiki/history/centennial-1994.md records at length. THE SAME INSTITUTION THEREFORE HELD TWO BIRTHDAY PARTIES ELEVEN YEARS APART FOR A CAMP THAT COULD NOT HAVE BOTH. This is not a contradiction to be resolved but a fact about institutional memory to be recorded, and it now has four data points: the 1929 brochure's '20th Season' (f_5030), the 1976 anniversary publication's '1894... the first organized boys' camp' (f_5045), the 75th of 1983-84 here, and the centennial of 1994. THE COUNT FROM 1909-1910 -- the Saint-Sauveur site and the Kanawana name -- HELD FROM AT LEAST 1929 TO AT LEAST 1985, AND THE COUNT FROM 1894 REPLACED IT SOMETIME BETWEEN 1985 AND 1993, when the alumni newsletter announces the camp 'enters its 100th year'. ONE FIGURE WORTH KEEPING SEPARATELY: 'more than 34,000 people' cumulative to 1983, which is the only lifetime-attendance figure this project holds.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1984",
+        "src_ymf_sgw_ymca_annual_report_1985",
+        "src_ia_the_lookout_1993"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.46",
       "added_by": "ralph_loop"
     }
   ]

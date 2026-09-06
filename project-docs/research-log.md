@@ -6722,3 +6722,49 @@ Set beside the 1929 brochure's "20th Season," it is the same institution telling
 stories about its own age: to donors in 1976 the camp begins in 1894 and simply moves; to parents
 in 1929 it is nineteen years old. Neither is a lie and both are evidence about memory rather than
 about events, which is the useful way to hold them.
+
+## 2026-09-06 — p_448: the ecology centre is a null, and the camp has two birthdays
+
+The question was whether the Ecology Centre at Kanawana promised in the 1976 capital campaign was
+ever built. Thirteen documents were searched for it: the association's annual reports for 1977-78
+through 1986, and Kanawana's own directors' reports for 1976, 1977, 1978 and 1979.
+
+**"Ecolog" occurs in exactly one of them, and it is a staff training course** — the 1976 director's
+report sending "Misty McKay, Vermont Ecology School, Vermont." No ecology centre, no year-round
+facility, no northern base camp. The "Camping and Outdoor Education" that does appear in 1977-78
+and 1978-79 is a branch committee's name, with J. P. Davey as chairman and D. Walsh, then D. Twynam
+and D. Walsh, as its executives.
+
+That is a null across the reported record and it is written up as one. It shows the association
+never reported building the thing; it does not show the thing was not built, and the difference
+matters because these volumes were **searched, not read**. Their `read_state` now says `partial`
+with that as its stated basis.
+
+What the money demonstrably did: the 1980-81 balance sheet still carries "Due to 1976 Capital
+Campaign Fund — 342,526"; the 1984 report has the Foundation laying groundwork for "a much needed
+major Capital Development Program to commence in 1985," which is a *second* campaign; and the 1985
+report applies funds "exclusively to repair the buildings and replace equipment at our branches and
+Kamp Kanawana." Repair and replacement.
+
+**And then the same search turned up something better than what it was looking for.** Among the
+highlights of the year ending March 1984: "**Kamp Kanawana celebrated its 75th year of service.**
+More than 34,000 people have benefited over the years from their involvement at Kanawana." The next
+report repeats it — "for the past 75 years." That report's camping season is the summer of 1983, so
+the count runs from **1909**.
+
+Eleven years later the camp kept its **centennial**, counting from 1894.
+
+The same institution held two birthday parties eleven years apart for a camp that cannot have both.
+With the 1929 brochure's "20th Season" and the 1976 anniversary publication's flat "1894 The Y
+opened the first organized boys' camp," that is four data points, and they fall into a clean shape:
+**the count from the Saint-Sauveur site held from at least 1929 to at least 1985, and the count
+from Billy Ball's 1894 trip replaced it somewhere between 1985 and the autumn of 1993**, when the
+alumni newsletter opens "As Kanawana enters its 100th year."
+
+What changed in the late 1980s was the story, not the record. That is worth having as a fact about
+memory rather than as a contradiction to be argued out, and all three articles now say so.
+
+One correction fell out of it too. `centennial-1994.md` dated *The Lookout* Vol. 1 No. 3 to 1994 and
+called its centennial connection a suggestion. The issue is autumn 1993 by its own contents — it
+carries Netherwood's report on the 99th summer and advertises an event for 20 November 1993 — and
+its first sentence is "As Kanawana enters its 100th year." Corrected in place, old wording kept.

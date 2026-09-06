@@ -6464,7 +6464,17 @@
         "src_mediaterre_kanawana_2009",
         "src_parkslopeparents_2023",
         "src_ia_canadian_camping_collection",
-        "src_ymf_annual_report_1976_125_colourful_years"
+        "src_ymf_annual_report_1976_125_colourful_years",
+        "src_cache_sgw_ymca_annual_report_1977_1978",
+        "src_cache_sgw_ymca_annual_report_1978_1979",
+        "src_ymf_sgw_ymca_annual_report_1979_1980",
+        "src_ymf_sgw_ymca_annual_report_1980_1981",
+        "src_ymf_sgw_ymca_annual_report_1981_1982",
+        "src_ymf_sgw_ymca_annual_report_1982_1983",
+        "src_ymf_sgw_ymca_annual_report_1984",
+        "src_ymf_sgw_ymca_annual_report_1985",
+        "src_ymf_sgw_ymca_annual_report_1986",
+        "src_ia_kanawana_directors_report_1976"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -6480,7 +6490,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 8951,
+      "word_count": 9175,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical; fixed a genuine citation-numbering bug where the Sources list had two entries each numbered '17.' and '22.' (disambiguated as 17b./22b., three inline markers corrected to point at the right one). No facts, source content, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -6701,7 +6711,10 @@
         "src_ia_ymca_annual_1990",
         "src_ia_ymca_annual_1993",
         "src_ia_ymca_annual_1994",
-        "src_ia_ymca_annual_1994_fr"
+        "src_ia_ymca_annual_1994_fr",
+        "src_ia_the_lookout_1993",
+        "src_ymf_sgw_ymca_annual_report_1984",
+        "src_ymf_sgw_ymca_annual_report_1985"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -6712,10 +6725,11 @@
         "notable-alumni",
         "kanawana-in-media",
         "pip-alumni-award",
-        "timeline-overview"
+        "timeline-overview",
+        "oldest-camp-question"
       ],
       "file_id": null,
-      "word_count": 1468,
+      "word_count": 1717,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, softened two dated bold-label markers in prose ('Resolved 2026-07-09', 'Important disambiguation (2026-07-09)') into plain encyclopedic prose since they weren't corrections requiring a Revision History move. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -10755,7 +10769,9 @@
         "src_ymca_yearbook_1900",
         "src_ymf_1928_come_to_kanawana_brochure",
         "src_ymf_1929_come_to_kanawana_brochure",
-        "src_ymf_annual_report_1976_125_colourful_years"
+        "src_ymf_annual_report_1976_125_colourful_years",
+        "src_ymf_sgw_ymca_annual_report_1984",
+        "src_ymf_sgw_ymca_annual_report_1985"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -10768,7 +10784,7 @@
         "connections/related-camps/quebec-camp-landscape"
       ],
       "file_id": null,
-      "word_count": 7238
+      "word_count": 7445
     },
     {
       "article_id": "points-of-contact",

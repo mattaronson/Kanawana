@@ -1,6 +1,6 @@
 # Is Kanawana the Oldest Camp in Canada?
 
-*Status: draft | Sources: 22*
+*Status: draft | Sources: 23*
 *Last Updated: 2026-09-05*
 
 ## Overview
@@ -126,6 +126,20 @@ where Lac Saint-Joseph is, corroborating the location from the association's own
 Set that beside the brochures below and the same institution is telling two different stories about
 its own age: to donors in 1976 the camp begins in 1894 and moves; to parents in 1929 it is in its
 twentieth season.
+
+**And it held both birthdays, eleven years apart.** The annual report covering the summer of 1983
+lists among the year's highlights: "**Kamp Kanawana celebrated its 75th year of service.** More
+than 34,000 people have benefited over the years from their involvement at Kanawana." The next
+report says the camp "has been offering outdoor adventure to young people, ages 6 to 18, **for the
+past 75 years**."^23 A 75th year in 1983 counts from **1909**. Eleven years later the camp kept its
+**centennial**, counting from 1894 — see [[history/centennial-1994|The 1994 Centennial]].
+
+So the count from the Saint-Sauveur site held from at least 1929 to at least 1985, and the count
+from Billy Ball's 1894 trip replaced it somewhere between 1985 and the autumn of 1993, when the
+alumni newsletter announces that Kanawana "enters its 100th year." Four data points, two
+birthdays, one camp. **The useful way to hold this is as evidence about institutional memory
+rather than about founding**: the camp has believed both, and what changed in the late 1980s was
+the story, not the record.
 
 **And the camp itself counted from 1910.** The "Come to Kanawana" brochure for 1929 prints on its
 title page: "KANAWANA / Operated by the Young Men's Christian Association of Montreal / **20th
@@ -542,3 +556,4 @@ across the country, and the century that closed its own sibling camp on the orig
 20. *Year Book of the Young Men's Christian Associations of North America*, the volumes for **1899** [src_ymca_yearbook_1899] and **1900** [src_ymca_yearbook_1900] — both bound into a single Internet Archive scan whose catalogue record names only 1899. **Not lending-restricted**; downloaded and searched 2026-09-06. "Kanawana", "summer camp" and "camping" occur zero times in either, and the only "camp" near Montreal or Quebec is "winter campaign work" — while the same 1899 volume's Quebec branch directory names the Montreal association's Physical Director as W. H. Ball, Jr. Cached at `sources/cache/ymca-yearbooks/1899-1900-ymca-year-book-montreal-roster.txt`. See [f_4976], [f_4977].
 21. "Come to Kanawana" brochures for the 1928 and 1929 seasons, YMCA of Montreal fonds [src_ymf_1928_come_to_kanawana_brochure, src_ymf_1929_come_to_kanawana_brochure]. See [f_5030].
 22. *125 Colourful Years*, YMCA of Montreal 125th-anniversary publication, 1976 [src_ymf_annual_report_1976_125_colourful_years]. See [f_5045].
+23. YMCA of Montreal annual reports for the years ending March 1984 and March 1985 [src_ymf_sgw_ymca_annual_report_1984, src_ymf_sgw_ymca_annual_report_1985]. See [f_5047]. Their camping seasons are the summers of 1983 and 1984 (see [f_5039]).
