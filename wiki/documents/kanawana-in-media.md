@@ -1,7 +1,7 @@
 # Kanawana in Media and Culture
 
-*Status: E1-reviewed | Sources: 20*
-*Last Updated: 2026-07-11*
+*Status: E1-reviewed | Sources: 24*
+*Last Updated: 2026-09-06 (four books that describe the camp, none of them about it)*
 
 ## Overview
 
@@ -114,6 +114,17 @@ The Concordia Archives (P145/12B04, Communications sub-series) describe CFCF bro
 
 Stuart McLean worked as a counsellor at Camp Kanawana for five summers beginning in 1969, eventually becoming assistant summer camp director.^9 He called it "the first place I ever felt I truly belonged." His personal and literary archive is housed at McMaster University, including manuscripts, correspondence, and photographs — a potential source for camp materials from his tenure.^10 After McLean's death in February 2017, his family established the Stuart McLean Camp Kanawana Fund to send children without financial means to camp. (See [[people/notable-alumni/stuart-mclean|Stuart McLean]].)
 
+### The camp in books, 2007-2014
+
+Four published books found in 2026 describe Kanawana, and none of them is about the camp. They are worth listing together because they answer this article's second open question and because of what the pattern says: **the camp appears in other people's books, as a place in somebody's life.**
+
+- **Stuart McLean, *The Vinyl Cafe Notebooks* (Viking Canada, 2010).** His own published prose about the camp, and the only place he wrote it down himself rather than being transcribed by an interviewer: "Kanawana is where I found my sea legs, where I was able to leave the shaky and uncertain turbulence of my adolescence behind."^21 See [[people/notable-alumni/stuart-mclean|Stuart McLean]].
+- ***Dictionary of Literary Biography*, vol. 362: *Canadian Literary Humorists* (Gale, 2011).** Its McLean entry, by David C. Greer, gives his camp years independently of the camp's own records and **dates the *Vinyl Cafe* show recorded at Kanawana to July 2005** — the only month this project has for it. It also quotes an unpublished 19 May 2010 interview.^22
+- **Jan Elvin, *The Box from Braunau* (AMACOM, 2009).** A book about her father's Second World War service whose boyhood chapter describes Kanawana in the late 1920s, including a last-day, whole-camp, undressed morning dip that the author calls "the camp ritual" and that appears in none of the camp's own publications.^23 See [[traditions/traditions-and-culture|Traditions and Culture]].
+- **Janet Torge, *Dear Sam: Grieving the Death of My Son* (iUniverse, 2007).** A Montreal mother's letters to her son [[people/sam-lazarus|Sam Lazarus]], a camper "practically every summer since he was eight" and later a counsellor, and the source of the sentence that says what the camp was to him: "Counselors and kids from Kamp Kanawana are everywhere, many at their first funeral."^24
+
+To which can be added a fifth of a different kind: **Armand B. Ball, *Basic Camp Management*** (American Camp Association, 2012), the field's own introductory textbook, which names Kanawana as Canada's first organizational camp — a citation rather than a description, and one this wiki has recorded without adopting (see [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]).
+
 ## Images
 
 ![Star-Wars-parody t-shirt art](../../assets/images/art/art-star-wars-parody.jpg)
@@ -136,8 +147,8 @@ Stuart McLean worked as a counsellor at Camp Kanawana for five summers beginning
 
 ## Open Questions
 
-1. [Largely resolved 2026-07-09] Did Stuart McLean reference Camp Kanawana in any *Vinyl Cafe* stories or published work? A full retrieval of the McMaster fonds finding aid found two distinct camp-themed show files (Box 60/F.16 "Kamp Kanawana," Season 10 2004-05; Box 53/F.25 "Vinyl Cafe Show 2.10 Camp — Not Published," Season 2 1995-96), plus "A Letter from Camp" (already documented). No additional Dave-and-Morley narrative referencing camp was found beyond these. See [[people/notable-alumni/stuart-mclean|Stuart McLean]] for full detail.
-2. Are there other published works of fiction or memoir set at or inspired by Kanawana?
+1. [**Resolved for published work, 2026-09-06**; the Dave-and-Morley question stands] Did Stuart McLean reference Camp Kanawana in any *Vinyl Cafe* stories or published work? **He did, in his own book.** *The Vinyl Cafe Notebooks* (2010) carries an essay naming the camp and the lake — see the section above.^21 No camp-themed Dave and Morley story has been found. *Original text of this question follows.* [Largely resolved 2026-07-09] A full retrieval of the McMaster fonds finding aid found two distinct camp A full retrieval of the McMaster fonds finding aid found two distinct camp-themed show files (Box 60/F.16 "Kamp Kanawana," Season 10 2004-05; Box 53/F.25 "Vinyl Cafe Show 2.10 Camp — Not Published," Season 2 1995-96), plus "A Letter from Camp" (already documented). No additional Dave-and-Morley narrative referencing camp was found beyond these. See [[people/notable-alumni/stuart-mclean|Stuart McLean]] for full detail.
+2. [**Answered 2026-09-06**] Are there other published works of fiction or memoir set at or inspired by Kanawana? **Three, and none is about the camp** — Jan Elvin's *The Box from Braunau* (2009), Janet Torge's *Dear Sam* (2007) and the *Dictionary of Literary Biography*'s entry on McLean (2011), all set out in the section above. The question is not closed, because all three were found in one sweep of a single full-text index and the sweep is not finished.
 3. Do any Montreal television news archives contain footage of camp events (e.g., centennial, Pip Award ceremonies)?
 4. [Partially resolved, negative result 2026-07-09] The Concordia Archives hold photographs, slides, and film from multiple decades — have any been published or exhibited? Separately, the McMaster Stuart McLean fonds' own photo series (Box 97) was checked and confirmed to contain NO camp/Kanawana-tagged photographs — ruling out that specific archive as a source, though the original Concordia-held photographs remain unexamined for publication/exhibition history.
 
@@ -171,6 +182,12 @@ Stuart McLean worked as a counsellor at Camp Kanawana for five summers beginning
 18. CFCF Radio Broadcast, June 26, 1941 — broadcast timing (8:50 PM Thursday) and announcer interview format [src_cfcf_1941].
 19. Concordia University Archives, YMCA of Montreal Fonds, sub-sub-series 12B04 (Communications) [src_concordia_atom_12B04].
 20. Concordia University Records Management and Archives, *Finding Aid — YMCA of Montreal Fonds (P0145)*, generated 24 November 2023, 125 pp. [src_concordia_p0145_full_findingaid_pdf]. Item-level descriptions; **nothing in this section has been heard, viewed, or otherwise consulted beyond the catalogue entry.** See [f_2272], [f_2273], [f_2274], [f_2275].
+21. Stuart McLean, *The Vinyl Cafe Notebooks* (Toronto: Viking Canada, 2010) [src_mclean_vinyl_cafe_notebooks_2010]. See [f_4941].
+22. *Dictionary of Literary Biography*, vol. 362: *Canadian Literary Humorists* (Detroit: Gale, 2011), the Stuart McLean entry by David C. Greer [src_dlb_362_canadian_literary_humorists_2011]. See [f_4949].
+23. Jan Elvin, *The Box from Braunau: In Search of My Father's War* (New York: AMACOM, 2009) [src_elvin_box_from_braunau_2009]. See [f_4952].
+24. Janet Torge, *Dear Sam: Grieving the Death of My Son* (iUniverse, 2007) [src_torge_dear_sam_2007]. See [f_4953].
+
+*All four are lending-restricted on the Internet Archive and none has been read; each passage was reconstructed from overlapping Open Library search-inside queries and is cached with its queries under `sources/cache/openlibrary-search-inside/`.*
 
 ## Research Notes
 

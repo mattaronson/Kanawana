@@ -6863,9 +6863,13 @@
       ],
       "sources_cited": [
         "src_cfcf_1941",
-        "src_concordia_atom_12B04"
+        "src_concordia_atom_12B04",
+        "src_mclean_vinyl_cafe_notebooks_2010",
+        "src_dlb_362_canadian_literary_humorists_2011",
+        "src_elvin_box_from_braunau_2009",
+        "src_torge_dear_sam_2007"
       ],
-      "open_questions": 4,
+      "open_questions": 2,
       "cross_links": [
         "centennial-1967",
         "howie-langille",
@@ -6877,7 +6881,7 @@
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 2420,
+      "word_count": 3005,
       "tags": {
         "era": [
           "1960s",
@@ -7604,7 +7608,9 @@
         "src_concordia_14D10",
         "src_concordia_atom_12B01",
         "src_concordia_fonds_14D",
-        "src_mcmorris_thesis"
+        "src_mcmorris_thesis",
+        "src_ymca_year_book_official_rosters_1921",
+        "src_greig_ontario_boys_2014"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -7614,7 +7620,7 @@
         "camp-perrot"
       ],
       "file_id": null,
-      "word_count": 1119,
+      "word_count": 1453,
       "notes": "2026-07-11: Workstream C1 spawn. Synthesizes an already-completed formal RALPH campaign (documented in directors-index.md's R8/R9 research notes, 2026-06-22) into a standalone article -- no new research conducted. Single-source reliance on the Camp Stephens Alumni blog for most biographical detail is preserved as an explicit limitation.",
       "tags": {
         "era": [
