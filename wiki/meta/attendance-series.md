@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 25*
+*Status: draft | Sources: 26*
 *Last Updated: 2026-09-06 (the 1916 fee and season, from a school magazine advertisement)*
 
 ## Overview
@@ -46,7 +46,7 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1917 | 168 | — | The report calls this "a splendid increase over last year." **It was a decrease** — 175 the year before ⚠️ |
 | 1918 | 223 | avg daily 66 | |
 | **1919** | **289** ⚠️ | peak 165 in camp | Badly overcrowded; capacity was 80–90 |
-| 1921 | 391 | — | Peak 212; 812 badges won |
+| 1921 | 391 | — | Season **22 June – 27 August**, the longest dated season in the record; peak 212; 812 badges won ⚠️^26 |
 | 1922 | 307 | — | |
 | 1923 | 269 | 934 | **Scored 893/1000 — highest in Canada** in the national Camp Grading Scheme |
 | 1924 | 272 | 906 or 916 ⚠️ | |
@@ -165,9 +165,9 @@ The 1958 report prints a "Kanawana Statistics" table with columns for 1956, 1957
 
 ## Where the record disagrees with itself
 
-Six inconsistencies, carried as flags rather than resolved. In every case the conflict is between the association's own documents.^1
+Seven inconsistencies, carried as flags rather than resolved. In every case the conflict is between the association's own documents.^1
 
-**All six were re-checked against the OCR on 2026-08-14 and all six are genuine** — the association contradicting itself, not a transcription error on this project's side. The verifying quotations are recorded in the KB. Sampled ordinary figures (1894, 1923, 1939, 1949, 1969) also checked clean.
+**The first six were re-checked against the OCR on 2026-08-14 and all six are genuine** — the association contradicting itself, not a transcription error on this project's side. The verifying quotations are recorded in the KB. Sampled ordinary figures (1894, 1923, 1939, 1949, 1969) also checked clean.
 
 1. **The 289-boy season is dated three different ways.** The FY1919-20 report — audited 10 May 1920 — describes it as happening "during the year," which can only be summer 1919. But the retrospective tables in the 1922-23 and 1924 reports label 289 as **1920**, and the 1921-22 report says "391 boys as compared with 289 in **1921**." Three attributions for one number. *Reading adopted here (inference, not statement):* 289 is summer **1919**, and the retrospective tables shifted the pre-1921 column by a year. The 391 column is anchored — its branch breakdown (16+12+73+130+160) sums exactly to 391.
 2. **1924 boy-weeks: 916 or 906?** The 1926 report says 916; the tabulated series in the 1927 report says 906.
@@ -175,6 +175,8 @@ Six inconsistencies, carried as flags rather than resolved. In every case the co
 4. **1932 campers: 360 or 385?** The 1933 report gives a branch-by-branch table summing to 360. The 1934 report says 1933's 287 was "a decrease of 98 from 1932," which gives 385.
 5. **1965 camper-weeks: 1,200 or 1,182?** The 1965 report versus the 1966-67 report.
 6. **The 1930 arithmetic does not close.** The 1931 report says "1512 boy weeks, an increase of 432 over last year" — but 1929's 1,090 plus 432 is 1,522, not 1,512. Two later reports independently confirm **1,512**, so the error is in the "432."
+
+7. **The 1921 badge total does not match the 1921 badge list.** The 1921-22 report says "A total of 812 badges were won by the boys for proficiency in the following subjects," then lists ten: camp improvement 65, life saving 30, rowing 38, beginners' swimming 20, hikes 105, resuscitation 35, wood craft 20, bandaging 20, simple remedies 26, basketry 30. **Those sum to 389.** The list may be partial, the total may be a misprint, or 812 may count every badge awarded against a list of only the proficiency subjects; 389 doubled is 778, so a simple doubling does not explain it either. The ten subjects and their individual counts are the safe figures — the total is not.^26
 
 And one that is not an arithmetic problem but a reporting one: **the 1918 report calls the 1917 season "a splendid increase over last year, both in attendance and receipts"** while giving 168 campers against the previous year's 175. Receipts may well have risen; attendance did not.
 
@@ -326,7 +328,7 @@ Three things stand out and none of them is visible from any single article.
 
 ## Sources
 
-1. YMCA of Montreal Annual Reports, digitized run 1856–2009 (Internet Archive), read in full for Kanawana content in August 2026. All camper counts, boy-/camper-week figures, fees and the six internal inconsistencies above are drawn from this run [src_ia_ymca_montreal_annual_reports_collection].
+1. YMCA of Montreal Annual Reports, digitized run 1856–2009 (Internet Archive), read in full for Kanawana content in August 2026. All camper counts, boy-/camper-week figures, fees and inconsistencies 1-6 above are drawn from this run [src_ia_ymca_montreal_annual_reports_collection].
 2. YMCA of Montreal Annual Report 1894-95, for the founding season and the parallel Junior/Senior camps [src_ia_sgw_annual_report_1894_1895]; and the 1910 report for Kanawana's opening capacity [src_ia_sgw_annual_report_1910].
 3. YMCAs of Québec annual impact and community reports, 2020–2025, for the modern residential figures [src_ia_ymca_montreal_fonds_collection].
 4. Kamp Kanawana season reports, 1964–1979 and 1987 (Internet Archive), for figures the annual reports omit [src_ia_kanawana_report_1964, src_ia_kanawana_report_1969, src_ia_kanawana_report_1979].
@@ -351,6 +353,7 @@ Three things stand out and none of them is visible from any single article.
 23. Montreal YMCA annual report 2002-2003, year ended 31 May 2003 [src_ymf_sgw_ymca_annual_report_2002_2003]: "Registration has increased 40% over the past three years. This summer, 60 youth explored our challenging rivers and trails. On site at Kamp Kanawana, 770 Kampers enjoyed a whole range of outdoor activities in the same spirit of fun and togetherness as the first Kampers in 1894." Read 2026-09-06 under p_454.
 24. Montreal YMCA annual reports for the years ended 31 December 2008 and 31 December 2009 [src_ymf_sgw_ymca_annual_report_2008, src_ymf_sgw_ymca_annual_report_2009], the "Social Audit" table headed PROGRAMS / PERSONS. Read 2026-09-06 under p_454. The same table appears in the 2002-2003, 2003-2004, 2004-2005 and 2007 reports but its number column is separated from its labels by the OCR in those years, so only 2008 and 2009 are legible here.
 25. Montreal YMCA annual report 2001-2002 [src_ymf_sgw_ymca_annual_report_2001_2002], "YMCA Kamp Kanawana - A Year of Firsts" and the Social Audit table. Read 2026-09-06 under p_454. THE SAME REPORT GIVES TWO NUMBERS that cannot both be season registrations; see the rows.
+26. YMCA of Montreal annual report for the year ending 30 April 1922 [src_ymf_sgw_ymca_annual_report_1921_1922], the "Camps" section, covering the summer of 1921. Read closely 2026-09-06 under p_454 — this volume had been keyword-swept for years and quoted at second hand in the 289-boy note above, but not read. See [f_5166], [f_5167].
 
 ## Research Notes
 

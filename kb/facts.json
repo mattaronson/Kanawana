@@ -1,8 +1,8 @@
 {
-  "version": "8.27",
-  "kb_version": "8.27",
+  "version": "8.28",
+  "kb_version": "8.28",
   "migrated_from": "3.3",
-  "fact_count": 5127,
+  "fact_count": 5135,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -92413,6 +92413,147 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.26",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5166",
+      "category": "operations",
+      "date_ref": "1921",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE 1921 SEASON'S OPENING AND CLOSING DATES, which this project did not have. The 1921-22 annual report (fiscal year ending 30 April 1922, so 'last season' is summer 1921): 'Kamp Kanawana was open last season from JUNE 22ND TO AUGUST 27TH. The registration this year constituted a new record, with a total of 391 boys as compared with 289 in 1921. The LARGEST NUMBER IN CAMP AT ANY ONE TIME WAS 212. Registration by Branches:- Unattached 16; Verdun 12; North Branch 73; Westmount 130; Central 160.' The 391 total and the 212 peak were already in meta/attendance-series.md from the retrospective tables; THE SEASON DATES ARE NEW -- a 67-day season, the longest dated season in the record to this point (1910 was 1 July to 15 August, 1915 was 26 June to 25 August, 1916 was 24 June to 12 August). This is also the SECOND, INDEPENDENT statement of the branch breakdown: the 1922-23 report's retrospective table gives the same 1921 column split one row finer, Unattached 4 and Grand'Mere 12 where this report has 'Unattached 16'. The two reconcile exactly, which is why attendance-series.md calls the 391 column anchored.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1921_1922"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.28",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5167",
+      "category": "programs",
+      "date_ref": "1921",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE 1921 BADGE PROGRAMME, SUBJECT BY SUBJECT -- AND THE REPORT'S OWN TOTAL DOES NOT MATCH ITS OWN LIST. The 1921-22 annual report: 'A total of 812 BADGES were won by the boys for proficiency in the following subjects:- CAMP IMPROVEMENT 65; LIFE SAVING 30; ROWING 38; BEGINNERS' SWIMMING 20; HIKES 105; RESUSCITATION 35; WOOD CRAFT 20; BANDAGING 20; SIMPLE REMEDIES 26; BASKETRY 30.' THOSE TEN NUMBERS SUM TO 389, NOT 812. meta/attendance-series.md has carried '812 badges won' since it was written; the subject breakdown is new here, and so is the discrepancy. THREE READINGS, none preferred without the printed page: (a) the printed list is partial and the OCR or the report itself dropped subjects worth 423 badges; (b) 812 is a misprint or a mis-OCR (389 doubled is 778, not 812, so a simple doubling does not explain it); (c) 812 counts something wider than the ten listed subjects -- every badge awarded, against a list of only the proficiency subjects. WHAT IS SAFE TO USE is the ten subjects and their individual counts, which are what the badge programme actually consisted of: the largest single category is HIKES at 105, and first aid in its three forms (resuscitation 35, bandaging 20, simple remedies 26) accounts for 81, more than swimming and life saving combined.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1921_1922"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.28",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5168",
+      "category": "programs",
+      "date_ref": "1921",
+      "entities": [
+        "Camp Kanawana",
+        "Royal Life Saving Society"
+      ],
+      "claim": "AN OUTSIDE EXAMINING BODY CAME TO CAMP IN 1921. The 1921-22 annual report: 'The ROYAL LIFE SAVING SOCIETY held an EXAMINATION OF THE BOYS IN CAMP at which SEVEN won the AWARD OF MERIT; 23 won the PROFICIENCY MEDAL; 15, the BRONZE MEDALLION; and 2 received the HONOR INSTRUCTION BADGES.' Forty-seven awards in four grades. This is the earliest evidence in this project of an EXTERNAL CERTIFYING BODY examining at Kanawana -- the badge scheme described in the same report (f_5167) is the association's own, awarded in-house, whereas these are RLSS qualifications recognised outside the YMCA. The distinction matters for the aquatics story: the wiki's later material on waterfront certification treats it as a post-war development.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1921_1922"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.28",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5169",
+      "category": "operations",
+      "date_ref": "1921",
+      "entities": [
+        "Camp Otoreke",
+        "YMCA of Montreal"
+      ],
+      "claim": "OTOREKE'S 1921 SEASON, WITH A HEADCOUNT THAT DOES NOT ADD UP. The 1921-22 annual report: 'CAMP OTOREKE -- The Camp for men was again conducted during the months of JULY AND AUGUST, the attendance being somewhat less than the year previous. Numbers from the various Branches are as follows:- VISITORS 9; WESTMOUNT 11; NORTH BRANCH 17; CENTRAL 82; TOTAL 126, as compared with 216 IN 1920. A NEW TENNIS COURT was added to the Camp equipment this year.' THE FOUR BRANCH FIGURES SUM TO 119, NOT 126 -- a seven-camper gap. The likeliest explanations are an OCR-dropped branch line (Verdun is conspicuously absent, and it appears in every Kanawana breakdown of the same years) or a mis-OCR of one figure; the printed page would settle it. USE 126 AS THE SEASON TOTAL, since that is the number the report states and compares against 1920, and treat the branch split as indicative. The 1920 figure of 216 is itself new to this project. The tennis court is the only physical improvement at Otoreke dated to this year in any source held here.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1921_1922"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.28",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5170",
+      "category": "operations",
+      "date_ref": "1922",
+      "entities": [
+        "Camp Otoreke",
+        "Camp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE DIRECTORS VOTED TO CLOSE OTOREKE FOR 1922 AND IT OPENED ANYWAY. Two consecutive annual reports, read together. The 1921-22 report (fiscal year ending 30 April 1922, printed before that summer): 'After careful consideration, it was the DECISION OF YOUR DIRECTORS THAT THIS CAMP BE NOT OPENED DURING THE PRESENT YEAR. It is generally recognized that IT HAS NOT THE SAME INTEREST FOR OUR YOUNGER MEMBERS that it had some years ago.' The 1922-23 report, covering that same summer: 'CAMP OTOREKE, for young men, WAS OPERATED FOR THREE WEEKS, WITH 36 CAMPERS in attendance. THIRTY-EIGHT BOYS FROM KANAWANA were also at the Camp for brief periods of time WHILE ON HIKES. The programme and esprit de corps were excellent.' SO THE DECISION WAS REVERSED, OR OVERRIDDEN, OR QUIETLY IGNORED -- no source held here says which, and neither report acknowledges the other. THREE THINGS FOLLOW. (1) Otoreke's 1922 season was a THREE-WEEK RUMP, against July-and-August the year before, and 36 campers against 126 -- the decision was effectively half-carried out. (2) The 38 Kanawana boys hiking over is the FIRST DOCUMENTED OPERATIONAL LINK between the two camps in this period: Otoreke is functioning as a destination on Kanawana's hike programme, which is a plausible reason to keep the site open at all once the men's camp itself had lost its constituency. (3) The stated reason for closing -- that the men's camp 'has not the same interest for our younger members' -- is the association's own diagnosis of Otoreke's decline, in its own words, and it is about DEMAND, not about the site or its cost.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1921_1922",
+        "src_ymf_sgw_ymca_annual_report_1922_1923"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.28",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5171",
+      "category": "people",
+      "date_ref": "1921-07",
+      "entities": [
+        "J. G. MacKinnon",
+        "YMCA of Montreal",
+        "Pointe-aux-Trembles"
+      ],
+      "claim": "WHERE J. G. MACKINNON WAS IN JULY 1921, AFTER HIS KANAWANA YEARS. The 1921-22 annual report: 'CADET CAMP, POINTE AUX TREMBLES -- During the month of JULY, the Association conducted a programme for the boys in the MILITIA CADET CAMP at Pointe aux Trembles. MR. J.G. MACKINNON WAS IN CHARGE, and this service was greatly appreciated and generously acknowledged by the GENERAL OFFICER COMMANDING DISTRICT NO. 4.' MacKinnon ran Kanawana in 1916, 1917, part of 1918 and 1919, and is the first man the record calls Director (people/directors-index.md). This places him, two summers after that last Kanawana season, running the association's work at a MILITIA camp instead -- and it is a fourth Montreal YMCA camp operation for the summer of 1921, alongside Kanawana, Otoreke and the Camp Lewis mentioned in the same report's Maisonneuve section. It also fits the Year Book evidence already in directors-index.md that MacKinnon was Industrial Secretary in 1921 and moved to Cote St. Paul by 1922: he was doing association work across the city, not camp work.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1921_1922"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.28",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5172",
+      "category": "camping_movement",
+      "date_ref": "1923",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal",
+        "Canadian camping movement"
+      ],
+      "claim": "THE ASSOCIATION'S OWN 1923 ACCOUNT OF WHY CAMPING HAD TO BE ARGUED FOR. The 1922-23 annual report's Summer Camps section opens: 'THIRTY YEARS AGO, WHEN OUT-DOOR CAMPS FOR BOYS WERE FIRST ESTABLISHED, some good men and women HELD UP THEIR HANDS IN HOLY TERROR! The boys would get their feet wet! They would be exposed to the \"night air\" which everybody knew was deadly posion! They were quite sure that sleeping in \"draughty\" tents would kill the boys, or, at least, they would be returned to their homes as invalids. Camping was an innovation in those days. To-day it is recognized as one of the golden opportunities for reaching young men and boys with a character-building programme, and IT IS ESTIMATED THAT OVER 800,000 BOYS WERE IN SUMMER CAMPS LAST YEAR.' Then: 'The Camp is a VERITABLE GODSEND TO THE BOYS EMPLOYED IN FACTORY AND OFFICE. They are like plants and trees and must have fresh air and sunshine if they are to thrive and grow.' THREE USES. (1) 'Thirty years ago' from a report signed 19 May 1923 dates the movement's start to ABOUT 1893 IN THE ASSOCIATION'S OWN RECKONING -- which is the same compression into 1893 that the secondary sources on Otoreke make (f_5165), here made by the YMCA itself about camping generally rather than about its own camp. (2) THE 800,000 FIGURE IS UNATTRIBUTED and almost certainly continental rather than Canadian; it is the kind of round number annual reports repeat, and should be quoted as the association's claim, not adopted. (3) The factory-and-office sentence is the CLEAREST STATEMENT IN THIS PROJECT'S 1920s SOURCES of who the camp thought it was for: working boys, not schoolboys on holiday.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1922_1923"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.28",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5173",
+      "category": "operations",
+      "date_ref": "1922",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal",
+        "Verdun"
+      ],
+      "claim": "THE 1922-23 REPORT CONTRADICTS ITSELF ON HOW MANY VERDUN BOYS WENT TO CAMP -- FLAGGED, NOT RESOLVED. Its Verdun branch narrative lists among the year's achievements: 'TWENTY-TWO BOYS ATTENDED KAMP KANAWANA.' Its metropolitan enrolment table for the same period gives a Verdun row of 12 for 1921 and 14 for 1922. WHAT IS UNCERTAIN IS THE TABLE, NOT THE NARRATIVE: the table's row labels are heavily damaged in the OCR ('Winatiached', 'NETGILETI Ay'), and the row order is inferred by matching the 1921 column against the previous report's spelled-out branch list (Unattached 4 + Grand'Mere 12 = the 16 'unattached' of 1921-22; then 12, 73, 130, 160). On that reading rows two and three are Grand'Mere and Verdun, both 12 in 1921 -- and the two are interchangeable in the 1921 column precisely because they carry the same number, so the 1922 pair (18 and 14) could belong either way round. NEITHER 14 NOR 18 IS 22. Possible explanations: the branch counted differently from the metropolitan office (boys sent versus boys registered through the branch), the branch narrative rounded or included a different season, or the OCR is wrong. DO NOT CITE A VERDUN FIGURE FOR 1922 without the printed page; the 307 metropolitan total is not in doubt.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1922_1923"
+      ],
+      "confidence": "disputed",
+      "conflicts_with": [],
+      "added_version": "8.28",
       "added_by": "manual"
     }
   ]

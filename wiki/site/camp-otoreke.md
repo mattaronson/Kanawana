@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 41*
+*Status: E1-reviewed | Sources: 43*
 *Last Updated: 2026-09-06 (the camp's 1956 purchase of ninety mainland acres, the first acreage figure this article has had)*
 
 ## Overview
@@ -151,6 +151,41 @@ Saint-Sauveur site.
 ## Transition to Camp Otoreke (1909-1910)
 
 In 1909, Camp Jubilee was renamed Camp Otoreke. The following year, in 1910, the YMCA purchased the current Kanawana site near Saint-Sauveur,^7 and the main boys' camping program relocated there. Camp Otoreke continued operating on the original islands, but its purpose evolved: it served men aged 18 and over, women and men, married couples, and low-income families.^1
+
+## The 1920s: two seasons, and a decision the association did not carry out
+
+The men's camp is thinly documented between the move north and the ski lodge, and two consecutive
+annual reports fill part of that gap — the more usefully because they contradict each other.
+
+The report for the year ending 30 April 1922 covers the summer of 1921. "The Camp for men was again
+conducted during the months of July and August, the attendance being somewhat less than the year
+previous. Numbers from the various Branches are as follows:- Visitors 9; Westmount 11; North Branch
+17; Central 82; total 126, as compared with 216 in 1920. A new tennis court was added to the Camp
+equipment this year."^42 The four branch figures sum to 119, not 126, and Verdun — which appears in
+every Kanawana breakdown of these years — is absent from the list, so a dropped line in the scan is
+the likeliest explanation; the season total of 126 is the figure the report states and compares
+against, and is the one to use. The 216 of 1920 is the earliest Otoreke attendance figure this
+project holds. Together they say the men's camp lost 42% of its attendance in a single year.
+
+The same report then announces the camp's closure. "After careful consideration, it was the decision
+of your Directors that this Camp be not opened during the present year. It is generally recognized
+that it has not the same interest for our younger members that it had some years ago."^42 That is the
+association's own diagnosis of Otoreke's decline, in its own words, sixty years before the site
+actually closed, and it is about demand rather than about the site or its cost.
+
+It did not happen. The report for the year ending 30 April 1923, covering the very summer the
+directors had voted to skip: "Camp Otoreke, for young men, was operated for three weeks, with 36
+campers in attendance. Thirty-eight boys from Kanawana were also at the Camp for brief periods of
+time while on hikes. The programme and esprit de corps were excellent."^43 Neither report
+acknowledges the other, and nothing held here says whether the decision was reversed, overridden or
+simply let slide.
+
+What survived was a reduced thing: three weeks against two months, 36 campers against 126. And the
+thirty-eight Kanawana boys are the first documented operational link between the two camps in this
+period — Otoreke functioning as a destination on the northern camp's hike programme rather than as a
+men's camp in its own right. That is a plausible reason to keep the islands open at all once the
+constituency the directors named had gone, and it sets the context for the Otoreke Hike, which was
+still running at Kanawana in 1928 and old enough by then to be called old (see below).
 
 ## Post-War and Later Decades
 
@@ -703,6 +738,8 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 39. YMCA of Montreal annual reports for the years ending 31 March 1949 and 31 March 1950 [src_ymf_sgw_ymca_annual_report_1949, src_ymf_sgw_ymca_annual_report_1950], the "Camping and Outdoor Activities" section of each, covering the summers of 1948 and 1949. Read 2026-09-06. Both were already in the corpus and neither had been cited by this article; a sweep found 47 annual reports naming Otoreke that it does not cite.
 40. YMCA of Montreal annual report for the year ending 31 March 1924 [src_ymf_sgw_ymca_annual_report_1924], covering the 1923 season, the Camp Otoreke page. Read 2026-09-06 under p_454.
 41. Flâneries laurentiennes (Ugo Monticone, Monique Pariseau, Lyne Rouillé, Pauline Vincent) [src_flaneries_laurentiennes], one sentence recovered 2026-09-06 from five overlapping Open Library search-inside queries; the book has not been read.
+42. YMCA of Montreal annual report for the year ending 30 April 1922 [src_ymf_sgw_ymca_annual_report_1921_1922], the "Camps" section — Kanawana, Camp Otoreke and the Pointe aux Trembles cadet camp, covering the summer of 1921. Read 2026-09-06 under p_454. See [f_5169], [f_5170].
+43. YMCA of Montreal annual report for the year ending 30 April 1923 [src_ymf_sgw_ymca_annual_report_1922_1923], the "Summer Camps" section and its Camp Otoreke paragraph, covering the summer of 1922. Read 2026-09-06 under p_454. See [f_5170], [f_5172].
 
 ## Research Notes
 
