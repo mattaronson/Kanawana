@@ -1,6 +1,6 @@
 # Camp Perrot
 
-*Status: E1-reviewed | Sources: 9*
+*Status: E1-reviewed | Sources: 10*
 *Last Updated: 2026-07-10*
 
 ## Overview
@@ -28,6 +28,46 @@ Donald Cochrane's 1959 memo makes the Kanawana comparison explicit in his own wo
 Île Perrot was also a canoe trip destination for Kanawana campers: by 1945, intermediate campers undertook 7–8 day trips to Île Perrot and Grenville.^4 No source states Camp Perrot itself was used as a base or waypoint for these trips — Perrot ran its own independent canoe-tripping program (to Cascade Island, around Perrot Island itself, and later up the Ottawa River to Carillon/Grenville), driven by its own flat, non-wilderness terrain: "due to the lack of wooded areas and the location, canoe trips fill the gap," per the 1953 annual report.^5 The two camps' shared Île-Perrot-area canoe activity therefore appears to be geographic coincidence rather than a shared operation.
 
 A real institutional link is documented, however: the 1954 Camp Perrot Annual Report states "with the addition of another canoe donated by Kamp Kanawana, we were able to keep three canoes out" — direct equipment-sharing between the two camps.^5 A. Ross Seaman (Kanawana director 1959-1967) is thanked in Perrot's 1952 report as "Past Director of Camp Perrot," and per the 1959 Cochrane memo personally planted trees at Perrot "about 1950" — a previously undocumented staff overlap. Margaret Seaman (likely a relation) was Camp Perrot's Girls' Camp Director in 1952. Hedley Dimock appears on Camp Perrot's 1958 committee list.^5 ^6
+
+## 1947, in the camp's own report
+
+The season's report to the Board of Management is signed **O. N. H. Owens, Chairman** and **A. T.
+Dodds, Camp Director**, and the Girls' Camp has its own report signed **Verlie Dodds, Girls' Camp
+Directress** — "Mrs Dodds acted as Resident Director of the Girls [Camp]. This was Mrs Dodds' first
+year in an administrative capacity but not her first one in camp."^10 **A married couple ran the two
+halves of the season.** Owens's chairmanship is corroboration rather than news; see
+[[traditions/order-of-owens|The Order of Owens]], which already places him on Perrot's board through
+the 1940s and 50s.
+
+Named staff: **Peter Sykes**, back for a third year "as Senior Counsellor and Director of the Out
+Trips"; **Russell Bell**; **Marilyn Mathews** on swimming and waterfront; **Carol** and **Jane
+Hammond** as Program Assistants; and the girls' counsellors **Bess Clements, Gladys Hinchcliffe,
+June Petrie, Earla Taylor, Alberta Gilbert, Mary Bullock** and **Anne Avison**, with **Brenda Lamb**
+and **Maurien Mears** promoted from camper, **Carol Dallison** and **Joan Henley** added in the
+second week, and **Pat Neason**, a camper, made a spare counsellor.^10 The kitchen changed hands
+mid-season: "when Mrs Pair withdrew from camp as Chef, the campers, Counsellors and staff helped me
+in every way to prepare the meals for five days until we secured **Mme. La Tour**."
+
+**The numbers, and how a city association shared out a camp.** 1947 was "the fourth season of the
+YMCA Camp on Ile Perrot" — independent confirmation of the 1944 founding. Nine weeks, 25 June to
+27 August, with the Girls' Camp 6-27 August. 260 campers in all, 185 different boys and 75 girls,
+"15 other organized parties, and an average of 80 parents and visitors each Sunday." The branch
+quota table sets Southwestern at 120 camper-weeks, North and Lachine at 100 each, Central 75,
+N.D.G. 60, International and Westmount 40, Pointe Saint-Charles and Rosemount 20 each, Eastern
+Community 10 — 585 quota against 713 taken, up from 557 the year before. Registration closed on
+4 July because capacity had been reached.^10
+
+**Two pressures on the site, in the same report.** Cottagers: "since the close of the camp in 1946…
+a colony of cottagers have bought and erected private dwellings on the adjacent property… they left
+a deep impression that we should at once look to our fences and expand to the East **before the camp
+is enclosed**." And water: "the exceptionally high flood waters of the Spring altered the contour of
+our shoreline, swept away many fine trees, scattered the beach, eroded the cliff and left the cabin
+near the shore in a precarious position."^10
+
+The property was also lent out through the year — a St. James the Apostle church picnic, two
+Central YMCA Co-Ed Club events, three Lachine Protestant church picnics, two Pointe Saint-Charles
+barn dances, a three-day Montreal Area Hi-Y Conference, a Sainte-Anne-de-Bellevue Sunday School
+outing and a Lachine Y party for crippled children.^10
 
 R.H. Hanagan, who served as Montreal YMCA camp director in 1942 and 1946, filed reports that appear alongside Camp Perrot comparison documents in the Concordia Archives, indicating his portfolio may have extended to both camps.^1
 
@@ -69,6 +109,7 @@ The earliest known Kanawana-side documentary evidence is a "Comparison of Two Bo
 7. "Camp Perrot Family Centre," planning document, 1969 [src_camp_perrot_1969_family_centre].
 8. Concordia University Archives, master finding-aid PDF [src_concordia_finding_aid_master_pdf]. Confirms no descriptive "12G" entry exists.
 9. A. Ross Seaman, Margaret Seaman, and Hedley Dimock cross-referenced from Camp Perrot's own annual reports (sources 5-6) against this KB's existing people index.
+10. "1947 Report of the Montreal YMCA Camp Perrot for Boys & Girls", addressed to the Board of Management and signed by O. N. H. Owens (Chairman) and A. T. Dodds (Camp Director), with the Girls' Camp section signed by Verlie Dodds [src_ymf_1947_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls]. See [f_5032] and [f_5033]. Read whole 2026-09-06 under p_441.
 
 ## Research Notes
 

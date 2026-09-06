@@ -1,8 +1,8 @@
 {
-  "version": "7.36",
-  "kb_version": "7.36",
+  "version": "7.37",
+  "kb_version": "7.37",
   "migrated_from": "3.3",
-  "fact_count": 4993,
+  "fact_count": 4995,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -89913,6 +89913,45 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5032",
+      "category": "people",
+      "date_ref": "1947",
+      "entities": [
+        "Camp Perrot",
+        "A. T. Dodds",
+        "Verlie Dodds",
+        "O. N. H. Owens",
+        "Peter Sykes",
+        "YMCA of Montreal"
+      ],
+      "claim": "CAMP PERROT'S 1947 LEADERSHIP, NAMED, AND A HUSBAND-AND-WIFE ARRANGEMENT. The 1947 'Report of the Montreal YMCA Camp Perrot for Boys & Girls', addressed 'To the Board of Management. Gentlemen:-', is signed at the foot by 'O. N. H. OWENS, Chairman' and 'A. T. DODDS, Camp Director'. The Girls' Camp section carries its own report signed 'VERLIE DODDS (Girls' Camp Directress)' and says of her: 'Mrs Dodds acted as Resident Director of the Girls [Camp]. This was Mrs Dodds' first year in an administrative capacity but not her first one in camp... Previously, Mrs Dodds had a great deal of work with Sunday School groups and Church projects.' SO THE BOYS' CAMP AND THE GIRLS' CAMP WERE RUN BY A MARRIED COUPLE IN 1947. NAMED PROGRAMME STAFF: PETER SYKES, 'returned for his third year, this season as SENIOR COUNSELLOR AND DIRECTOR OF THE OUT TRIPS'; RUSSELL BELL; MARILYN MATHEWS in charge of swimming and waterfront; CAROL and JANE HAMMOND as Program Assistants; and as girls' counsellors BESS CLEMENTS, GLADYS HINCHCLIFFE, JUNE PETRIE, EARLA TAYLOR, ALBERTA GILBERT, MARY BULLOCK, ANNE AVISON, with BRENDA LAMB and MAURIEN MEARS promoted from camper to counsellor, CAROL DALLISON and JOAN HENLEY added in the second week, and PAT NEASON, a camper, made a spare counsellor. Also HARRY PEDERSON, ALBERT GAITENS, NICK ASSLEY and ALEX MACIVIEZ; GERALD WRIGHT, AL TWINTARNEY and GORDON MACKEY thanked for assistance; and MISS MAE HOUGHTON and MISS VERA RUTHERFORD 'of the staff city office' for 'long hours of work and diplomatic handling of delicate situations'. THE KITCHEN CHANGED HANDS MID-SEASON: 'when Mrs Pair withdrew from camp as Chef, the campers, Counsellors and staff helped me in every way to prepare the meals for five days until we secured MME. LA TOUR, who proved to be a very efficient cook.' OWENS'S CHAIRMANSHIP HERE IS CORROBORATION, NOT NEWS: wiki/traditions/order-of-owens.md already places O. N. H. Owens on Camp Perrot's board through the 1940s and 50s. The Doddses are new.",
+      "sources": [
+        "src_ymf_1947_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.37",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5033",
+      "category": "programs",
+      "date_ref": "1947",
+      "entities": [
+        "Camp Perrot",
+        "Ile Perrot",
+        "YMCA of Montreal"
+      ],
+      "claim": "WHAT A YMCA BRANCH-REFERRAL CAMP LOOKED LIKE IN NUMBERS, 1947. The report calls 1947 'THE FOURTH SEASON of the YMCA Camp on Ile Perrot', which independently confirms the 1944 founding this wiki already dates from five annual reports' self-described season numbers. THE SEASON: nine weeks, Wednesday 25 June to 27 August. THE GIRLS' CAMP ran 6 to 27 August with 75 campers. THE TOTALS: '260 Campers, 15 other organized parties, and an average of 80 parents and visitors each Sunday' -- 185 different boys and 75 different girls. THE BRANCH QUOTA TABLE IS THE INTERESTING PART, because it shows how a city association distributed a camp among its branches: Southwestern 120 quota, N.D.G. 60, Eastern Community 10, North 100, Central 75, Lachine 100, Westmount 40, Pointe Saint-Charles 20, Rosemount 20, Camp Office 0, International 40 -- 585 camper-weeks quota against 544 boys and 169 girls actually taken, 713 in all, up from 557 in 1946. A 'weeker' is defined in the document as 'a camper attending camp for a period of one week'. Registration closed on 4 July 1947 because capacity was reached. LENGTH OF STAY: most boys took one or two weeks, a few less than one, a handful up to six. THE SITE WAS UNDER PRESSURE FROM TWO DIRECTIONS. 'Since the close of the camp in 1946, many people recognized the desirability of the surrounding area and as a result, A COLONY OF COTTAGERS HAVE BOUGHT AND ERECTED PRIVATE DWELLINGS on the adjacent property... they left a deep impression that we should at once look to our fences and expand to the East BEFORE THE CAMP IS ENCLOSED.' And 'the exceptionally high flood waters of the Spring altered the contour of our shoreline, swept away many fine trees, scattered the beach, eroded the cliff and left the cabin near the shore in a precarious position - it now must be moved before the beginning of another season, if it is to be saved.' THE PROPERTY WAS ALSO LENT OUT: fifteen organised parties used it, including a St. James the Apostle Anglican Church picnic, two Central YMCA Co-Ed Club events, three Lachine Protestant church picnics, two Pointe Saint-Charles young people's barn dances, a three-day Montreal Area Hi-Y Conference, a Sainte-Anne-de-Bellevue Protestant Sunday School outing, and a Lachine Y crippled children's party.",
+      "sources": [
+        "src_ymf_1947_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.37",
       "added_by": "ralph_loop"
     }
   ]
