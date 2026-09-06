@@ -30043,7 +30043,25 @@
       "read_state": "snippet",
       "read_state_basis": "NOT FULLY READ. Fetched via WebFetch against a prompt; only the returned passage is held. Fetched for the 1923 dam Bill (f_5162) and null for it.",
       "notes": "Dates the YMCA's establishment on an island to 1893, a year before this project's 1894. A municipal heritage page, tertiary, and consistent with the documented 1892-93 precursor trips rather than evidence against 1894. See f_5163."
+    },
+    {
+      "source_id": "src_flaneries_laurentiennes",
+      "type": "web",
+      "title": "Ugo Monticone, Monique Pariseau, Lyne Rouillé, Pauline Vincent, Flâneries laurentiennes — the YMCA colony and Saint-Adolphe's tourism",
+      "date": "unknown",
+      "date_precision": "approximate",
+      "origin": "internet_archive",
+      "origin_url": "https://openlibrary.org/search/inside.json?q=%22%C3%AEles+du+lac+Saint-Joseph%22",
+      "cache_path": "sources/cache/openlibrary-search-inside/2026-09-06-flaneries-laurentiennes.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-06T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "8.26",
+      "reliability": "tertiary",
+      "read_state": "snippet",
+      "read_state_basis": "NOT READ. One sentence assembled from five overlapping Open Library search-inside queries; no page image fetched and the book's own date is not established.",
+      "notes": "Found by forcing the right lake with the phrase 'iles du lac Saint-Joseph' after 'barrage lac Saint-Joseph' kept returning Portneuf. Null for the dam. Gives 'Vers 1893' and credits the YMCA colony with launching Saint-Adolphe-d'Howard's tourism. See f_5165."
     }
   ],
-  "source_count": 1669
+  "source_count": 1670
 }

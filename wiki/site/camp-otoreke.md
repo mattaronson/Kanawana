@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 40*
+*Status: E1-reviewed | Sources: 41*
 *Last Updated: 2026-09-06 (the camp's 1956 purchase of ninety mainland acres, the first acreage figure this article has had)*
 
 ## Overview
@@ -45,6 +45,12 @@ Saint-Adolphe-d'Howard, the largest of that municipality's eighty-five lakes. Do
 Portneuf dam as evidence that the 1923 dam was built.
 
 **That is not hypothetical: it was tested.** The one promising-looking source, an ArcGIS StoryMap titled *L'histoire du lac Saint-Joseph*, mentions **"barrage" twelve times** — and is by the **Corporation du bassin de la Jacques-Cartier**, with sixteen mentions of Jacques-Cartier, four of Sainte-Catherine and three of Fossambault, against **none** of Howard, Adolphe or the YMCA. It is a detailed history of the wrong lake's dam.
+
+**The one thing that search did turn up is about the founding date, not the dam.** Forcing the right lake with the phrase "îles du lac Saint-Joseph" — the islands being what the Portneuf literature does not discuss — found *Flâneries laurentiennes*: "**Vers 1893**, lorsque le YMCA a établi **une des premières colonies de vacances au Québec** sur une des îles du lac Saint-Joseph, **l'activité touristique de Saint-Adolphe-d'Howard a pris son envol**."^41
+
+**Four sources now cluster on 1893 and none of them is a primary record.** QAHN, BaladoDécouverte, the municipality's heritage page and this book all put the YMCA on the island in or around 1893, where the association's own reports put precursor trips in 1892 and 1893 and the camp proper in 1894 (see [[history/founding-1894|Founding of Camp Kanawana]]). **This one hedges** — *vers*, around — which is the most honest of the four, and the cluster is best read as secondary writers compressing a three-year sequence into its middle year rather than as four witnesses to a 1893 founding.
+
+**The second half of that sentence is a claim this wiki records nowhere**: that the YMCA colony is what set the village's tourist economy going. It is unsourced in the book so far as the recovered sentence shows, and it is the only statement found to date about the camp's effect on its own municipality.
 
 **The camp grew onto the mainland in 1956.** The association's annual report for the year ending 31 December 1956 states it in two sentences under Camp Otoreke: "In 1956 the Camp acquired an **additional ninety acres**, which is **on the mainland opposite the Otoreke landing**. The Camp Committee is **considering the use of this property to expand its program to include family camping**."^38 That is the first acreage figure this article has for Otoreke, and it moves the camp off its islands: everything above concerns the three islands in the lake, and this is land across the water from the landing. **The family-camping intention is recorded as an intention.** Nothing found here says the ninety acres were ever used that way, and the family programmes this article does document at Otoreke — the Otoreke Project's twenty-five inner-city families in 1969, grown to over a thousand people by 1972 — are thirteen years later and are described in the sources as citizen groups organising for themselves. Whether the 1956 purchase is what made room for them is not stated anywhere read so far, and is not assumed here.
 
@@ -696,6 +702,7 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 38. YMCA of Montreal annual report for the year ending 31 December 1956, the 105th [src_ymf_sgw_ymca_annual_report_1956], p. 9 under "Camp Otoreke". Read 2026-09-06 while testing a different question -- the 600-to-1,000 acre jump at Kanawana (f_5093) -- against the cached committee minutes, which turned out to be the wrong committee.
 39. YMCA of Montreal annual reports for the years ending 31 March 1949 and 31 March 1950 [src_ymf_sgw_ymca_annual_report_1949, src_ymf_sgw_ymca_annual_report_1950], the "Camping and Outdoor Activities" section of each, covering the summers of 1948 and 1949. Read 2026-09-06. Both were already in the corpus and neither had been cited by this article; a sweep found 47 annual reports naming Otoreke that it does not cite.
 40. YMCA of Montreal annual report for the year ending 31 March 1924 [src_ymf_sgw_ymca_annual_report_1924], covering the 1923 season, the Camp Otoreke page. Read 2026-09-06 under p_454.
+41. Flâneries laurentiennes (Ugo Monticone, Monique Pariseau, Lyne Rouillé, Pauline Vincent) [src_flaneries_laurentiennes], one sentence recovered 2026-09-06 from five overlapping Open Library search-inside queries; the book has not been read.
 
 ## Research Notes
 

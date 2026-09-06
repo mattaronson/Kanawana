@@ -1,8 +1,8 @@
 {
-  "version": "8.25",
-  "kb_version": "8.25",
+  "version": "8.26",
+  "kb_version": "8.26",
   "migrated_from": "3.3",
-  "fact_count": 5126,
+  "fact_count": 5127,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -92394,6 +92394,25 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.24",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5165",
+      "category": "founding",
+      "date_ref": "1893",
+      "entities": [
+        "Camp Otoreke",
+        "YMCA of Montreal",
+        "Saint-Adolphe-d'Howard",
+        "Lac Saint-Joseph"
+      ],
+      "claim": "A FOURTH SOURCE AT 'AROUND 1893', AND IT CREDITS THE CAMP WITH LAUNCHING THE VILLAGE'S TOURISM. Flaneries laurentiennes (Monticone, Pariseau, Rouille, Vincent): 'VERS 1893, lorsque le YMCA A ETABLI UNE DES PREMIERES COLONIES DE VACANCES AU QUEBEC sur une des iles du lac Saint-Joseph, L'ACTIVITE TOURISTIQUE DE SAINT-ADOLPHE-D'HOWARD A PRIS SON ENVOL.' TWO THINGS. THE DATE HEDGES, and that matters: 'vers 1893' is an approximation, where the municipality's own heritage page says flatly 'en 1893' (f_5163). Four tertiary and secondary sources now cluster on 1893 -- QAHN, BaladoDecouverte, the municipality, and this -- and the hedged one is the most honest, because the association's OWN records put precursor trips in 1892 and 1893 and the camp proper in 1894 (history/founding-1894.md, from primary sources). THE CLUSTER IS BEST READ AS SECONDARY WRITERS COMPRESSING A THREE-YEAR SEQUENCE INTO ITS MIDDLE YEAR, not as four independent witnesses to a 1893 founding. THE SECOND CLAIM IS NEW AND THIS PROJECT HAS NOTHING ON IT: that the YMCA colony is what set Saint-Adolphe-d'Howard's tourist economy going. That is a local-impact claim about the camp's effect on its municipality, of a kind the wiki records nowhere, and it is unsourced in the book as far as this snippet shows. HOW IT WAS FOUND, which is the transferable part: by searching the exact phrase 'iles du lac Saint-Joseph' -- chosen to FORCE the right lake -- after 'barrage lac Saint-Joseph' kept returning Portneuf (f_5162). Naming the islands, which the wrong lake's literature does not discuss, was the disambiguator.",
+      "sources": [
+        "src_flaneries_laurentiennes"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.26",
       "added_by": "manual"
     }
   ]

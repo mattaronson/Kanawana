@@ -3658,7 +3658,8 @@
         "src_ymf_sgw_ymca_annual_report_1956",
         "src_ymf_sgw_ymca_annual_report_1949",
         "src_ymf_sgw_ymca_annual_report_1950",
-        "src_ymf_sgw_ymca_annual_report_1924"
+        "src_ymf_sgw_ymca_annual_report_1924",
+        "src_flaneries_laurentiennes"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -3671,7 +3672,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 10660,
+      "word_count": 10914,
       "notes": "E1 REVIEW (2026-02-19): Removed unverifiable 'Google Maps' source and '20 km' distance claim. Expanded 'Multiple sources' citation into discrete references (Facts sheet + McMorris). Removed src_oral_aronson (no inline citation). Removed unsourced bullet. Fixed postcard inference. Fixed closure section process language. Split 1967 conference/reports sentence. Renumbered sources 1-10. Added camp-otoreke cross-link to centennial-1967. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_008 editorial-resolution narrative into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
