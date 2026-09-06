@@ -1,7 +1,7 @@
 # The Cushing Family and YMCA Camping
 
 *Status: E1-reviewed | Sources: 15*
-*Last Updated: 2026-09-06 (four Cushings inside the association in 1892, from its own annual reports)*
+*Last Updated: 2026-09-06 (Percy H. Cushing's career, and four Cushings inside the association in 1892)*
 
 ## Summary
 
@@ -83,7 +83,17 @@ That closes the identification the section above left open. A Charles Cushing of
 
 *Two cautions the scan forces, because the temptation is to tidy this.* **Percy H. Cushing's title is OCR'd "sp be" and cannot be read.** He is unambiguously in the staff list, between the Assistant Secretary and the Physical Director, so he is on the association's staff — what he was called is not recoverable and is not supplied here. **Powter's title is the single mangled word "Asset."**, directly under Ball; "Asst." is the obvious reading and Assistant Physical Director the obvious sense, since the 1896 *Year Book* gives him exactly that under exactly Ball, but the label is quoted rather than expanded.
 
-**Percy H. Cushing** is therefore on the staff in **1892-93**, two years before the *Year Book* that was all this project had of him. And earlier still: the Boys' Department's own report for 1890-91 records that "a recommendation was sent to the Provincial Committee, to have 'boys' work' brought prominently before the Kingston Convention. This was agreed, and **a paper was presented by Mr. Percy H. Cushing**. As a result, a new interest was awakened for work among boys, which led to the revival of old meetings and the formation of new."^15
+**Percy H. Cushing** is therefore on the staff in **1892-93**, two years before the *Year Book* that was all this project had of him — and the reports that follow give him a whole career.^15
+
+He did not start in boys' work: **D. W. Corbett** held that post until "the departure of Mr. D. W. Corbett in June, 1893, left this work in great need, and we feared the result, but **Mr. P. H. Cushing was secured as his successor**, and has done excellent work." (Corbett had gone to be secretary of the Honolulu Association.) By the 1893-94 staff list he is **Assistant Secretary**, under Budge and beside W. F. Chapman as Office Secretary and W. H. Ball as Physical Director — and he is **Secretary of the Junior Department** committee under R. L. Charlton's chairmanship.
+
+**So the man in charge of Montreal's boys' work from June 1893 to September 1895 — which spans the founding of Camp Jubilee in the summer of 1894 — was Percy H. Cushing.**
+
+He left for the same school W. H. Ball had come from. The 1894-95 report: "Mr. Percy H. Cushing, who has been an efficient Assistant for the past two years, **will enter the Springfield School in September** for further training. It is a pleasant fact to record that the men from Montreal have done our Association honor both while at Springfield and after they have entered active work." The 1895-96 report confirms it: "In September, Mr. P. H. Cushing, **Assistant Secretary in charge of the Junior Department, resigned to enter the Springfield Training School**." His successor was **C. K. Calhoun** of Lindsay, Ontario, formerly Assistant Secretary at Toronto.
+
+The Junior Department's own farewell is the part worth quoting whole, because it says what he was to them: "we are losing one who has **grown up among the boys**, and has been a great blessing and help to many of them during his presence among them, **both as one of their members and as the Secretary of the Department**."
+
+*And then the arithmetic turns grim.* If he is the Percy Hill Cushing of the genealogy — an identification on four converging fields, not a documented link — he **died on 22 December 1896**, about fifteen months after leaving Montreal for Springfield, at twenty-four. And earlier still: the Boys' Department's own report for 1890-91 records that "a recommendation was sent to the Provincial Committee, to have 'boys' work' brought prominently before the Kingston Convention. This was agreed, and **a paper was presented by Mr. Percy H. Cushing**. As a result, a new interest was awakened for work among boys, which led to the revival of old meetings and the formation of new."^15
 
 **W. E. Cushing** chairs a committee supervising work at the Methodist Institute in 1890-91, and is in the committee lists of the two following years — the same W. E. Cushing the 1951 camp history names on the committee appointed in the autumn of 1892. A **Walter Cushing** sits on another committee in 1891-92; whether he is Walter Edgar, or the same man as W. E., these lists do not settle.
 

@@ -1,8 +1,8 @@
 {
-  "version": "7.18",
-  "kb_version": "7.18",
+  "version": "7.19",
+  "kb_version": "7.19",
   "migrated_from": "3.3",
-  "fact_count": 4957,
+  "fact_count": 4959,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -89181,6 +89181,53 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "7.18",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4996",
+      "category": "people",
+      "date_ref": "1890-1896",
+      "entities": [
+        "Percy H. Cushing",
+        "D. W. Corbett",
+        "C. K. Calhoun",
+        "Springfield Training School",
+        "YMCA of Montreal",
+        "Kamp Kanawana"
+      ],
+      "claim": "PERCY H. CUSHING RAN MONTREAL'S BOYS' WORK THROUGH THE CAMP'S FOUNDING, AND LEFT FOR SPRINGFIELD. From the association's own annual reports, in sequence. 1890-91: the Boys' Department sends him to argue boys' work before the Kingston Convention, 'as a result' of which 'a new interest was awakened for work among boys'. 1892-93: he is in the staff list, THOUGH HIS TITLE THERE IS OCR'd 'sp be' AND CANNOT BE READ -- and he must NOT be back-dated into the boys'-work post, because D. W. Corbett still held it. JUNE 1893: 'The departure of Mr. D. W. CORBETT in June, 1893, left this work in great need, and we feared the result, but MR. P. H. CUSHING WAS SECURED AS HIS SUCCESSOR, and has done excellent work.' 1893-94: the staff list reads 'D. A. BUDGE, General Secretary. PERCY H. CUSHING, ASSISTANT SECRETARY. W. F. CHAPMAN, OFFICE SECRETARY. W. H. BALL, Physical Director' -- and he is Secretary of the Junior Department committee under R. L. Charlton's chairmanship (f_4994). 1894-95: 'Mr. Percy H. Cushing, who has been an efficient Assistant for the past two years, WILL ENTER THE SPRINGFIELD SCHOOL IN SEPTEMBER for further training', and the Junior Department's own farewell: 'we are losing one who has GROWN UP AMONG THE BOYS, and has been a great blessing and help to many of them during his presence among them, BOTH AS ONE OF THEIR MEMBERS AND AS THE SECRETARY OF THE DEPARTMENT.' 1895-96: 'In September, Mr. P. H. Cushing, ASSISTANT SECRETARY IN CHARGE OF THE JUNIOR DEPARTMENT, RESIGNED TO ENTER THE SPRINGFIELD TRAINING SCHOOL.' WHY IT MATTERS FOR THE CAMP: the man in charge of the Montreal association's boys' work from June 1893 to September 1895 -- which spans the founding of Camp Jubilee in the summer of 1894 -- was Percy H. Cushing. His successor was C. K. CALHOUN 'of Lindsay, Ont.', formerly Assistant Secretary at Toronto, appointed in September 1895. AND A NOTE THAT BELONGS WITH THIS: the 1905 Cushing genealogy gives Percy Hill Cushing, son of Col. James Brock Cushing, as born 9 July 1872 and DIED 22 DECEMBER 1896 (f_4988) -- about fifteen months after leaving for Springfield. The identification of the two men rests on four converging fields and is not documented outright.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1892_1893",
+        "src_ymf_sgw_ymca_annual_report_1893_1894",
+        "src_cache_sgw_ymca_annual_report_1894_1895",
+        "src_ymf_sgw_ymca_annual_report_1895_1896"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.19",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4997",
+      "category": "people",
+      "date_ref": "1892-1896",
+      "entities": [
+        "C. B. Powter",
+        "W. H. Ball, Jr.",
+        "W. F. Chapman",
+        "Springfield Training School",
+        "YMCA of Montreal"
+      ],
+      "claim": "C. B. POWTER WAS APPOINTED W. H. BALL'S ASSISTANT IN NOVEMBER 1892 -- FOUR YEARS EARLIER THAN THE YEAR BOOK HAD HIM, WITH A MONTH. The Montreal annual report for the year ending 30 April 1893, in the Physical Department's narrative: 'MR. POWTER WAS APPOINTED HIS ASSISTANT IN NOV. 1892, and has proved himself in every way a most popular and able coadjutor. The following are the figures furnished to the Committee by Mr. Ball: Gymnasium Classes started Sept. 19th, 1892. Average attendance at Boys' Classes has been 39...' The same report's staff list carries him under Ball with a title the OCR renders 'Asset.' -- so the narrative and the list agree, and the appointment is dated. THIS PROJECT HAD POWTER AS ASSISTANT PHYSICAL DIRECTOR FROM THE 1896 YEAR BOOK (f_4966). He was in the post from November 1892, which means he was Ball's assistant THROUGH THE FOUNDING OF CAMP JUBILEE IN 1894 and not merely from 1896. A TENSION LEFT OPEN RATHER THAN RESOLVED: the 1895-96 report lists, among that year's 'Changes... in the Executive force' and alongside P. H. Cushing's resignation and C. K. Calhoun's hiring, that 'MR. C. B. POWTER WAS SECURED AS ASSISTANT TO THE PHYSICAL DIRECTOR'. Read as a new appointment that contradicts November 1892; read as a re-appointment after an absence it does not. NOTHING FOUND SETTLES WHICH, and both statements are recorded. ALSO FROM THE SAME REPORTS: W. F. CHAPMAN is 'OFFICE SECRETARY' in the 1893-94 staff list, an earlier and different title from the 'Assistant Secretary' the 1894-1897 Year Books give him. AND AN INSTITUTIONAL POINT WORTH KEEPING: announcing Percy H. Cushing's departure for Springfield, the 1894-95 report says 'it is a pleasant fact to record that THE MEN FROM MONTREAL HAVE DONE OUR ASSOCIATION HONOR BOTH WHILE AT SPRINGFIELD and after they have entered active work.' Montreal routinely sent men to the Springfield Training School and took them back -- which is the pipeline that brought W. H. Ball to Montreal as 'a new man, from the Springfield Training School' in 1892.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1892_1893",
+        "src_ymf_sgw_ymca_annual_report_1893_1894",
+        "src_cache_sgw_ymca_annual_report_1894_1895",
+        "src_ymf_sgw_ymca_annual_report_1895_1896"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "7.19",
       "added_by": "ralph_loop"
     }
   ]

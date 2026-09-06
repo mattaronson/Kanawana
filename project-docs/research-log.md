@@ -6028,3 +6028,37 @@ presumably why the camp founded that summer was called Camp Jubilee.
 disappearance of the D. W. Corbett the 1893 Year Book lists as a Montreal assistant.
 
 Still unopened: the Cushing hits in the 1893-94, 1894-95 and 1895-96 reports, counted during p_438.
+
+### And the rest of the Cushing hits give Percy H. Cushing a career
+
+The hits counted during p_438 and left unopened turned out to be the substantial half.
+
+**He did not start in boys' work.** D. W. Corbett held it until "the departure of Mr. D. W.
+Corbett in June, 1893, left this work in great need, and we feared the result, but **Mr. P. H.
+Cushing was secured as his successor**." So the 1892-93 staff list, whose title for him is
+illegible, cannot be back-dated into that post. By 1893-94 he is **Assistant Secretary** and
+Secretary of the Junior Department under Charlton's chairmanship. In September 1895 he "resigned
+to enter the **Springfield Training School**", succeeded by C. K. Calhoun of Lindsay, Ontario.
+
+**Which means the man in charge of Montreal's boys' work from June 1893 to September 1895 — across
+the founding of Camp Jubilee in the summer of 1894 — was Percy H. Cushing.**
+
+The department's farewell is worth keeping whole: "we are losing one who has **grown up among the
+boys**, and has been a great blessing and help to many of them during his presence among them,
+both as one of their members and as the Secretary of the Department." If he is the genealogy's
+Percy Hill Cushing, he died on 22 December 1896, about fifteen months later, at twenty-four.
+
+**A second date, to the month.** "**Mr. Powter was appointed his assistant in Nov. 1892**, and has
+proved himself in every way a most popular and able coadjutor" — followed by Ball's own gymnasium
+figures. So C. B. Powter was Ball's assistant from November 1892, four years earlier than the
+*Year Book* had him, and therefore through the founding. One tension is left open rather than
+tidied: the 1895-96 report lists "Mr. C. B. Powter was secured as Assistant to the Physical
+Director" among that year's changes in the executive force. As a new appointment that contradicts
+November 1892; as a re-appointment it does not, and nothing found settles which.
+
+Also: **W. F. Chapman was Office Secretary** in 1893-94, an earlier and different title from the
+*Year Books*' "Assistant Secretary". And an institutional point worth keeping — announcing
+Cushing's departure, the report says "the men from Montreal have done our Association honor both
+while at Springfield and after they have entered active work." Montreal sent men to Springfield
+and took them back. That is the pipeline that brought W. H. Ball to Montreal in 1892 as "a new
+man, from the Springfield Training School".

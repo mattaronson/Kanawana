@@ -1,6 +1,6 @@
 # Directors and Staff of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 48*
+*Status: E1-reviewed | Sources: 49*
 *Last Updated: 2026-09-06 (the missing Year Book years located on HathiTrust, and unreadable from here)*
 
 ## Summary
@@ -174,6 +174,10 @@ The 1921 brochure puts him at Kanawana in his fifth year, which means he started
 | 1895 | D. A. Budge | Percy H. Cushing; **W. F. Chapman** | **W. H. Ball, Jr.** | — |
 | 1896 | D. A. Budge | C. K. Calhoun; **W. F. Chapman** | **W. H. Ball, Jr.** | **C. B. Powter** |
 | 1897 | D. A. Budge | C. K. Calhoun; **W. F. Chapman** | **W. H. Ball, Jr.** | **C. B. Powter** |
+
+**And the association's own reports date one of these men to the month.** The Montreal annual report for the year ending 30 April 1893 says in its Physical Department narrative: "**Mr. Powter was appointed his assistant in Nov. 1892**, and has proved himself in every way a most popular and able coadjutor" — followed by Ball's own gymnasium figures for the season.^49 So **C. B. Powter was Ball's assistant from November 1892**, four years before the *Year Book* row above, and therefore **through the founding of Camp Jubilee in 1894**. One tension is left open rather than tidied: the 1895-96 report lists "Mr. C. B. Powter was secured as Assistant to the Physical Director" among that year's changes in the executive force. As a new appointment that contradicts November 1892; as a re-appointment after an absence it does not, and nothing found settles which.
+
+The same reports also give **W. F. Chapman** as **Office Secretary** in 1893-94 — an earlier and different title from the "Assistant Secretary" the 1894-1897 *Year Books* give him.^49
 
 Three things in that table are new here. **"W. H. Ball, Jr."** — the *Jr.* is printed in all five volumes and this project has never had it; the camp's founder had a father of the same name. **W. F. Chapman** was the association's Assistant Secretary for four consecutive years before he supervised the 1898 junior camp, which is all this project knew of him. And **C. B. Powter** appears as **Assistant Physical Director under Ball** in the 1896 volume, which completes a career assembled from four sources in one day: assistant to the camp's founder by 1896, in charge of the Y's senior camp in 1898, founder of his own camp on the same lake in 1902, and a physical-training master in a Montreal high school by 1908-09.
 
@@ -507,6 +511,8 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 47. Internet Archive holdings of the *Year Book of the Young Men's Christian Associations of North America*, inventoried in full 2026-09-06 [src_ymca_yearbook_ia_inventory_2026]. Thirteen items, twenty-three annual volumes, compiled from title queries on both of the series' titles, metadata on every item, two title-page patterns across all thirteen downloaded texts, and direct front-matter reads wherever both patterns returned nothing — **every pattern used failed at least once**, the 1909 volume dating itself by the association year and the 1882 volume's OCR reading "FOB THE YEAR". The pre-camp readings (Charles Cushing 1887, G. A. Kuhring, and the W. H. Ball null) come from the 1882-1890 volumes in `ymcayearbookand01amergoog` and `ymcayearbookand02amergoog`. Cached at `sources/cache/ymca-yearbooks/2026-09-06-complete-ia-inventory-of-the-series.txt`. See [f_4985], [f_4986].
 
 48. HathiTrust holdings of the same series, enumerated 2026-09-06 [src_ymca_yearbook_hathitrust_holdings_2026]. **A finding aid and an access-failure record: none of these volumes has been read.** HathiTrust's Bib API returns JSON normally and was control-tested against a known OCLC first; every reading and search endpoint (catalog Search/Home, babel `cgi/ls`, `cgi/pt`, `cgi/imgsrv/html`, `cgi/imgsrv/download/pdf`) returns HTTP 403 behind a Cloudflare interstitial. **Two catalogue records hold the series and both must be queried** — OCLC 6996715 returns one, LCCN 29015142 returns that one and a second carrying the single-year 1901-1906 run. Item identifiers for every missing year, the years still missing even there (1883, 1885, 1889, 1912/13, 1914/15, 1920/21), and the Google Books 429 are at `sources/cache/ymca-yearbooks/2026-09-06-hathitrust-holdings-the-missing-years.txt`. See [f_4989].
+
+49. YMCA of Montreal, annual reports for the years ending **30 April 1893**, **30 April 1894**, **30 April 1895** and **30 April 1896** [src_ymf_sgw_ymca_annual_report_1892_1893, src_ymf_sgw_ymca_annual_report_1893_1894, src_cache_sgw_ymca_annual_report_1894_1895, src_ymf_sgw_ymca_annual_report_1895_1896]. Cached in this repo; read for their staff lists and departmental narratives 2026-09-06 under p_440. Powter's November 1892 appointment, Chapman as Office Secretary, Percy H. Cushing's succession to D. W. Corbett in June 1893 and departure for Springfield in September 1895, and C. K. Calhoun's arrival. See [f_4996], [f_4997].
 
 ## Research Notes
 
