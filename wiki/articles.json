@@ -988,7 +988,7 @@
         "timeline-overview"
       ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
-      "word_count": 8767,
+      "word_count": 9071,
       "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_001 editorial-resolution narrative into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H2 into Research Notes. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -1284,7 +1284,8 @@
         "src_ymf_the_green_triangle_1939_07_22",
         "src_kk_prep_guide_2026",
         "src_njskylands_ymca_camps",
-        "src_ia_kanawana_report_1971"
+        "src_ia_kanawana_report_1971",
+        "src_ia_kanawana_report_1970"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -1299,7 +1300,7 @@
         "french-language-camping"
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-      "word_count": 14766,
+      "word_count": 15094,
       "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, renamed the orphaned 'R3 Verification Notes' H2 to the standard 'Research Notes' heading and condensed its bullet list into a single HTML-comment process-log entry. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

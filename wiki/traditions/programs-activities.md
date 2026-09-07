@@ -449,6 +449,30 @@ A press release of 13 May 1969, sent to the *Gazette* and the suburban weeklies,
 
 "**In 1968 it was girls and horses.** In response to enthusiastic requests from parents, **capacity of the co-ed sections is being doubled**."^nr69 Horseback riding arrived in the same season as the girls, and it appears in this article nowhere else. The doubling matters for a different reason: it is a plain explanation of why some sources point at 1969 as the year of coeducation. 1968 was the first year and 1969 was the expansion, and the association's press office attributes the expansion to parent demand.
 
+**Seven children with cystic fibrosis, 1970 — the earliest inclusion programming this project holds.**
+The camp's 1970 report gives a section to it. "This was our first experience with C.F. campers at our
+Camp… There were **seven in total (3 girls and 4 boys)** and although only three stayed for the whole
+month — **and cried because they had to go home** — the other four were normal campers but two weeks was
+long enough for them. In most of these latter cases **the parents were the cause** of the 'homesickness'
+which affected them. The other campers reacted well toward the C.F. campers and our staff did an
+excellent job with both groups."^kk70
+
+Two particulars the report bothers to record: "Two of the C.F. campers went on overnights and **one of
+them came back to camp before bedtime for his therapy**. One other **swam two miles for his double black
+cord — he was 10 years of age**." John Harries and the camp nurse explained "what C.F. was and how we
+should work with the campers".
+
+**And it is blunt about the institutional side**, which is why it is worth quoting rather than smoothing.
+"Our relationship with the C.F. Association seemed **shaky** all through the pre-arrangements and during
+camp. There seemed to be **no clearing house** for them and everyone did pretty well what they wanted when
+they wanted… Our expenses for this relationship with the Association were also expensive and **should be
+completely subsidized by their Association next year**." The camp judged the children's season a success
+and the partnership a mess, in consecutive paragraphs.
+
+Fifty-four years later the YMCAs of Québec's 2024 impact report prints "93 campers in our Companion
+program" beside 782 at Kanawana. **1970, at seven children, is the earliest documented instance of the
+same idea** this project has found. [f_5676]
+
 **And here is what the horses actually were, three years on.** This wiki has recorded the arrival of
 riding and nothing about how it ran or when it stopped. The 1971 director's report gives the programme at
 its fullest: "The program went extremely well this summer with **trail riding, lunch rides and overnight
@@ -832,6 +856,7 @@ report does not say so, and this article does not assume it.
 - **pgd** — YMCA of Montreal annual reports for the years ending **31 December 1960** and **31 December 1961** [src_ymf_sgw_ymca_annual_report_1960, src_ymf_sgw_ymca_annual_report_1961]. December-year volumes, so their seasons are 1960 and 1961 (see [f_5081]). Camps sections read 2026-09-06 under p_441. See [f_5088], [f_5087].
 - **nr69** — Montreal YMCA news release, **13 May 1969**, "YMCA's Kamp Kanawana Set for Record Summer," quoting Geoff Anderson, Director of Kanawana [src_ymf_news_release_1969_05_13_202501]. Cached at `sources/cache/ymca-montreal-fonds/news-release-1969-05-13_202501.txt`; read 2026-09-06 under p_451. See [f_5100].
 - **kk71** — *Kamp Kanawana Director's Report 1971* [src_ia_kanawana_report_1971], cached at `sources/cache/ymca-montreal-fonds/1971-kamp-kanawana-directors-report.txt`; its RIDING section and that section's recommendation. Read 2026-09-07 under `p_491`. See [f_5672].
+- **kk70** — *Kamp Kanawana Annual Report 1970* [src_ia_kanawana_report_1970], cached at `sources/cache/ymca-montreal-fonds/1970-kamp-kanawana-annual-report.txt`; its CYSTIC FIBROSIS section. Read whole 2026-09-07 under `p_491`. See [f_5676].
 
 ## Research Notes
 

@@ -1,8 +1,8 @@
 {
-  "version": "10.73",
-  "kb_version": "10.73",
+  "version": "10.74",
+  "kb_version": "10.74",
   "migrated_from": "3.3",
-  "fact_count": 5637,
+  "fact_count": 5639,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101626,6 +101626,42 @@
       "date_ref": "1950-1958",
       "conflicts_with": [],
       "added_version": "10.73",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5676",
+      "claim": "KANAWANA'S FIRST CAMPERS WITH CYSTIC FIBROSIS, 1970 -- THE EARLIEST DOCUMENTED INCLUSION PROGRAMMING AT THE CAMP, AND ITS DETAIL IS RECORDED NOWHERE. The 1970 annual report carries a section headed CYSTIC FIBROSIS. 'This was our first experience with C.F. campers at our Camp. Our association with them seemed to work out quite well. There were SEVEN IN TOTAL (3 GIRLS AND 4 BOYS) and although only three stayed for the whole month -- AND CRIED BECAUSE THEY HAD TO GO HOME -- the other four were normal campers but two weeks was long enough for them. In most of these latter cases THE PARENTS WERE THE CAUSE of the \"homesickness\" which affected them. The other campers reacted well toward the C.F. campers and our staff did an excellent job with both groups.' TWO PARTICULARS THE REPORT BOTHERS TO RECORD: 'Two of the C.F. campers went on overnights and ONE OF THEM CAME BACK TO CAMP BEFORE BEDTIME FOR HIS THERAPY. One other SWAM TWO MILES FOR HIS DOUBLE BLACK CORD -- he was 10 years of age.' JOHN HARRIES and the camp nurse 'did an excellent job of explaining what C.F. was and how we should work with the campers'. AND THE REPORT IS BLUNT ABOUT THE INSTITUTIONAL SIDE, which is why it is worth quoting rather than paraphrasing: 'Our relationship with the C.F. Association seemed SHAKY all through the pre-arrangements and during camp. There seemed to be NO CLEARING HOUSE for them and everyone did pretty well what they wanted when they wanted... Our expenses for this relationship with the Association were also expensive and SHOULD BE COMPLETELY SUBSIDIZED BY THEIR ASSOCIATION NEXT YEAR.' The camp judged the children's season a success and the partnership a mess, in consecutive paragraphs. THE THROUGH-LINE: this project holds, from the 2024 impact report, '93 campers in our Companion program' beside 782 at Kanawana. 1970 is the earliest documented instance of the same idea, fifty-four years earlier, at seven children.",
+      "sources": [
+        "src_ia_kanawana_report_1970"
+      ],
+      "confidence": "stated",
+      "category": "programming",
+      "entities": [
+        "Kamp Kanawana",
+        "John Harries",
+        "Canadian Cystic Fibrosis Association"
+      ],
+      "date_ref": "1970",
+      "conflicts_with": [],
+      "added_version": "10.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5677",
+      "claim": "WHAT THE CAMP THOUGHT COEDUCATION WAS FOR, IN ITS THIRD YEAR, IN ITS OWN WORDS. The coeducation article quotes the 1970 report's phrase 'third year as a coeducational camp' ONLY as a dating argument against a Gazette line, and uses nothing else from the section it sits in. That section is a statement of purpose. 'THE KEY TO A SUCCESSFUL OPERATION THIS YEAR WAS NOT \"COED\" CAMPING BUT A \"COEDUCATIONAL\" EXPERIENCE. Our goal was the education and development of a better understanding and acceptance of the opposite sex. This was done through the natural \"coming together\" of both groups, AS THEY WERE READY, and the positive relationships which developed between them because of this.' The camp is drawing a distinction in scare quotes between merely having both sexes present and running something educational, and it comes down on the second. WHAT IT MEANT IN PRACTICE, WITH A NUMBER: shared campfires, meals, social evenings, hikes, canoe trips and 'awareness sessions'. 'Most coed activities fell into the 13-16 year old category and were ABOUT 40% OF THE TOTAL OVERALL PROGRAM.' The word the report keeps reaching for is natural: 'The best way to describe this process and the programs is NATURAL. Each tent group moved in its own direction and came together with others in a very easy, natural way.' AND THE SECTIONS STAYED PHYSICALLY SEPARATE WHILE BEHAVING AS ONE: 'Although the two sections were physically separated they seemed to act and react as one section most of the time (ie Pathfinder yell in the dining hall).' The director records the staff position as unanimous: 'I personally feel - as do all the staff - that we should remain in this field in the future.'",
+      "sources": [
+        "src_ia_kanawana_report_1970"
+      ],
+      "confidence": "stated",
+      "category": "programming",
+      "entities": [
+        "Kamp Kanawana",
+        "coeducation",
+        "Pathfinders"
+      ],
+      "date_ref": "1970",
+      "conflicts_with": [],
+      "added_version": "10.74",
       "added_by": "ralph_loop"
     }
   ]

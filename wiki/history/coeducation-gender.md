@@ -132,6 +132,30 @@ only ever had one well-evidenced answer.
 
 The undated Facts sheet's "1969" is an error, not a second milestone. The phased reading previously adopted here — 1968 pilot, 1969 formalization — was a reasonable editorial judgment on the evidence then available, and it is now superseded. The 2005 John Island newsletter's "senior boys section" in 1969 is not evidence against 1968: sections remained gender-segregated for years after coeducation began, which is a fact about section structure, not about the admission date.
 
+### What the camp thought it was for, 1970
+
+That phrase — "third year as a coeducational camp" — has been used here only to settle a date. The
+section it sits in is a statement of purpose, and it has not been read.^kk70
+
+"**The key to a successful operation this year was not 'coed' camping but a 'coeducational'
+experience.** Our goal was the education and development of a better understanding and acceptance of the
+opposite sex. This was done through the natural 'coming together' of both groups, **as they were ready**,
+and the positive relationships which developed between them because of this."
+
+The scare quotes are the report's own. It is drawing a line between merely having both sexes on site and
+running something educational, and it comes down on the second.
+
+What that meant in practice, with a number attached: shared campfires, meals, social evenings, hikes,
+canoe trips and "awareness sessions". "Most coed activities fell into the 13-16 year old category and
+were **about 40% of the total overall program**." The word the report keeps reaching for is *natural* —
+"the best way to describe this process and the programs is natural. Each tent group moved in its own
+direction and came together with others in a very easy, natural way."
+
+And the arrangement it describes is separation and integration at once: "**Although the two sections were
+physically separated they seemed to act and react as one section most of the time** (ie Pathfinder yell
+in the dining hall)." The director records the staff position as unanimous — "I personally feel - as do
+all the staff - that we should remain in this field in the future." [f_5677]
+
 ### The three-year delay
 
 The more interesting finding is that coeducation was **recommended in 1965 and declined**. The 1965 director's report argues for it at length and proposes a costed pilot — in the Woodsmen section, ten- and eleven-year-olds, four boys and four girls, with the only additional expense being "an adequate wash house with showers for the girls and this would not be an expense of more than $300."^ia The report notes an earlier constituency survey conducted under **Keith Farquharson** which found "a very large and positive response," and records that the Metropolitan Board declined to act.
@@ -334,6 +358,7 @@ coming to Kamp Kanawana each summer."
 
 - **cyc** — Canadian Youth Commission, *Youth & Jobs in Canada* (Toronto: The Ryerson Press, 1945) [src_cyc_youth_and_jobs_1945]. **Two search highlights only**, found 2026-09-06 by an Open Library search-inside sweep on "Otoreke"; the book is lending-restricted and has not been read. Cached with the sweep at `sources/cache/openlibrary-search-inside/2026-09-06-otoreke-corpus-sweep.txt`. See [f_5196].
 - **ar36** — YMCA of Montreal Annual Report for the year ending 31 March 1936 [src_cache_sgw_ymca_annual_report_1936], covering the camping season of **1935**. Read for its camps section 2026-09-06 under p_441. See [f_5071], and [f_5039] on these reports' 31 March year-end.
+- **kk70** — *Kamp Kanawana Annual Report 1970* [src_ia_kanawana_report_1970], cached at `sources/cache/ymca-montreal-fonds/1970-kamp-kanawana-annual-report.txt`; its COED CAMPING section. Read whole 2026-09-07 under `p_491`. See [f_5677].
 - McMorris, Grace. "An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967." MA thesis, Concordia University, 2023. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
 - YMCA Quebec. "The Kanawana Story." https://www.ymcaquebec.org/en/summer-camp-kanawana/history
 - YMCA Quebec. "Summer Camp Kanawana." https://www.ymcaquebec.org/en/summer-camp-kanawana (section structure and gender assignments).
