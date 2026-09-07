@@ -1,8 +1,8 @@
 {
-  "version": "10.84",
-  "kb_version": "10.84",
+  "version": "10.85",
+  "kb_version": "10.85",
   "migrated_from": "3.3",
-  "fact_count": 5652,
+  "fact_count": 5653,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101896,6 +101896,24 @@
       "date_ref": "1960-1978",
       "conflicts_with": [],
       "added_version": "10.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5691",
+      "claim": "CORRECTION: THE 1969 'ORG CHART' IS A PROPOSAL, NOT A DESCRIPTION OF THE 1969 STAFFING. section-names.md says 'Gendering is visible on the 1969 org chart, a year after coeducation began: it shows PIONEER (M), WOODSMEN (M), CdeB (M) and PATHFINDER (M) under the Camp Director, with WOODSMEN (G) and CdeB (G) under a separate \"Camp Director of Girls\".' The chart is real and the reading of its content is right. WHAT IS WRONG IS THE TENSE. THREE INDEPENDENT SUPPORTS, ALL IN THE SAME DOCUMENT. (1) The report's STAFF ORGANIZATION recommendation is a single line: 'See attached SUGGESTED REORGANIZATION PROPOSAL' -- so the attached chart is a proposal by its own label. (2) The COED CAMPING recommendations ask for the role the chart shows: 'That we APPOINT a director of girls camping', and the chart's box reads 'CAMP DIRECTOR OF GIRLS CAMPING' in the same words. A report does not recommend appointing someone already in post. (3) THE CHART'S OWN NOTES ARE CONDITIONAL: 'a) IF THE CAMP CAPACITY IS SET AT 210 IT WOULD BE POSSIBLE TO HAVE 5 SECTIONS.' The body of the report agrees, in the future tense: staff organisation is 'another problem identified in the camp', and 'I would hope that NEXT YEAR we can divide the senior staff functions in such a way that logical groupings can be found'. WHAT THE CHART IS EVIDENCE OF is what the camp INTENDED for 1970 and how it thought about gendering its sections -- which is still worth having and is not nothing. It is not evidence of who held what post in 1969. AND IT CONNECTS TO THE CAPACITY THREAD AT f_5687: the chart makes the section structure CONDITIONAL ON a capacity decision that the same report calls 'the problem of first urgency' and that the 1970 report says is still unmade. The camp could not settle its staffing structure because it had not settled its own capacity. TWO PROPOSED CAPACITY FIGURES ARE NOW ON RECORD: 210 in this 1969 chart note, and 'ie 200 per period' in the 1971 report's registration recommendations.",
+      "sources": [
+        "src_ia_kanawana_report_1969",
+        "src_ia_kanawana_report_1971"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "Kamp Kanawana",
+        "coeducation"
+      ],
+      "date_ref": "1969",
+      "conflicts_with": [],
+      "added_version": "10.85",
       "added_by": "ralph_loop"
     }
   ]

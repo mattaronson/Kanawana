@@ -54,7 +54,26 @@ coeducation. It loses Rangers **four years before** girls arrive and loses Pione
 **four years after** — so the two contractions sit either side of the change rather than following from
 it.^kk70 [f_5690]
 
-**Gendering is visible on the 1969 org chart**, a year after coeducation began: it shows PIONEER (M), WOODSMEN (M), CdeB (M) and PATHFINDER (M) under the Camp Director, with WOODSMEN (G) and CdeB (G) under a separate "Camp Director of Girls." By 1970 the chart lists Pathfinder Boys, Woodsman Boys, Pathfinder Girls, Woodsmen Girls and Pioneer; by 1971 Coureur de Bois has gone; and from 1974 through 1979 the reports use plain Junior/Senior Boys/Girls, with the tables glossing Woodsmen as Junior and Pathfinders as Senior. **So the gender reassignment began immediately in 1969, not in the 1970s** — which answers the first Open Question below far better than the paywalled 1974 Gazette clipping would have.
+**Gendering is visible on the 1969 org chart** — which is a **proposal**, not a description of that
+year's staffing *(corrected 2026-09-07; see the note after this paragraph)*. A year after coeducation
+began, it shows: it shows PIONEER (M), WOODSMEN (M), CdeB (M) and PATHFINDER (M) under the Camp Director, with WOODSMEN (G) and CdeB (G) under a separate "Camp Director of Girls." By 1970 the chart lists Pathfinder Boys, Woodsman Boys, Pathfinder Girls, Woodsmen Girls and Pioneer; by 1971 Coureur de Bois has gone; and from 1974 through 1979 the reports use plain Junior/Senior Boys/Girls, with the tables glossing Woodsmen as Junior and Pathfinders as Senior. **So the gender reassignment began immediately in 1969, not in the 1970s** — which answers the first Open Question below far better than the paywalled 1974 Gazette clipping would have.
+
+*(Corrected 2026-09-07. The chart is real and the reading of its content above is right; what was wrong
+is the tense.* **Three supports, all inside the same report.** *First, the report's entire STAFF
+ORGANIZATION recommendation is one line — "See attached* **Suggested Reorganization Proposal**" *— so the
+attached chart is a proposal by its own label. Second, the coeducation recommendations ask for the role
+the chart shows: "That we* **appoint** *a director of girls camping", and the chart's box reads "CAMP
+DIRECTOR OF GIRLS CAMPING" in the same words. A report does not recommend appointing someone already in
+post. Third, the chart's own notes are conditional:* **"If the camp capacity is set at 210 it would be
+possible to have 5 sections."** *The body of the report agrees in the future tense — staff organisation is
+"another problem identified in the camp", and "I would hope that* **next year** *we can divide the senior
+staff functions in such a way that logical groupings can be found."*
+
+*So the chart is evidence of what the camp* **intended** *for 1970 and how it thought about gendering its
+sections, which is worth having. It is not evidence of who held what post in 1969. It also makes the
+section structure conditional on a capacity decision the same report calls "the problem of first urgency"
+and the 1970 report says is still unmade — the camp could not settle its staffing because it had not
+settled its own size.)*^kk70 [f_5691]
 
 **"Rover" at Kanawana is a job, not a section.** In the 1970s reports it is a relief-counsellor post — "Senior Girls Rover-Counsellor" (1977), "Junior Boys Rover" (1979). Anyone encountering the name in a YMCA camping context should not read it as a Kanawana section.
 
