@@ -1,0 +1,77 @@
+CAN THIS ENVIRONMENT SEARCH THE INTERNET ARCHIVE'S FULL TEXT? NO, AND HERE IS
+THE CONTROL THAT PROVES IT.
+Tested 2026-09-07 under p_463, whose first step was exactly this question.
+
+=====================================================================
+THE THREE ROUTES, ALL TESTED
+=====================================================================
+
+1. advancedsearch.php -- METADATA ONLY. Already established: it rejects the
+   full-text parameter outright, returning UNSUPPORTED_VALUE for sin=TXT
+   (f_5260). Every enumeration this project has run is a catalogue search.
+
+2. THE ARCHIVE'S OWN FULL-TEXT APIS -- UNREACHABLE FROM HERE.
+     https://ia-pub-fts-api.archive.org/search/v1/scrape?q=...   HTTP 000
+     https://ia-fts.archive.org/api/v1/search/hits?q=...          HTTP 000
+   Both drop the tunnel, the same failure the proxy logs as
+   ws_closed_mid_exchange. They are separate hosts from archive.org, which has
+   been reachable all day for metadata and multi-megabyte downloads -- the
+   per-host pattern of rule 45 again.
+
+3. OPEN LIBRARY'S search/inside -- REACHABLE, AND BOOKS-ONLY.
+   This is the route p_463 called "the one route to IA full text that works
+   from here", and it does work. It is also the wrong index for this question.
+
+=====================================================================
+THE CONTROL, WHICH IS THE POINT
+=====================================================================
+
+A quoted "Kanawana" search of search/inside returns SEVENTY-SIX ITEMS. Every
+one is a published book, periodical or directory: almanacs, guides to summer
+camps, Handbook of South American Indians, two Japanese-English dictionaries,
+the McGraw-Hill directory, the Sessional Papers.
+
+NOT ONE ITEM FROM THE YMCA OF MONTREAL FONDS OR THE CONCORDIA COLLECTIONS
+APPEARS. No Georgian, no Green Triangle, no News Bulletin, no annual report.
+
+AND THIS IS NOT AN ARGUMENT FROM ABSENCE, BECAUSE THE CONTROL IS IN HAND.
+Earlier the same day, under p_462, forty-six of those fonds items were
+downloaded in full and grepped. FOUR OF THEM CONTAIN THE WORD:
+
+    the-news-bulletin-vol-15-no-01              Kanawana x1
+    sgw-ymca-annual-report-1959-short-version   Kanawana x3
+    national-council-bulletin-vol-36-no-04      Kanawana x1
+    bulletin-1970-02-13                         Kanawana x1
+
+All four are full-text items on the Internet Archive. All four contain the
+exact string. NONE OF THE FOUR IS IN THE SEVENTY-SIX. The index does not reach
+them.
+
+=====================================================================
+WHAT THAT SETTLES
+=====================================================================
+
+p_463's question was whether the seventy-six-item ceiling is the corpus's or
+the instrument's. IT IS THE INSTRUMENT'S, and precisely: search/inside indexes
+BOOKS, and the archive's non-book scanned texts -- exactly the class the
+Concordia and YMCA collections belong to -- are outside it.
+
+SO THE GEORGIAN QUESTION CANNOT BE ANSWERED FROM HERE. Three hundred and
+forty-one issues of Sir George Williams' student newspaper sit in
+rma-concordia-publications; sgw-concordia-connection.md has asked since
+2026-07-09 whether any of them covered the camp; and no name search will ever
+surface them, because a student newspaper is catalogued by date and its
+contents are not in the book index.
+
+TWO WAYS FORWARD, AND BOTH ARE REAL:
+  * A PERSON WITH A BROWSER at archive.org's own full-text search, which is
+    where the ia-fts APIs above serve the website. One query, all collections.
+  * OR BRUTE FORCE FROM HERE, which is now known to work: the p_462 sweep
+    downloaded forty-six items in full and searched them in about four
+    minutes. Three hundred and forty-one Georgian issues is a larger job of
+    the same shape, not a different one. THE FILENAME TRAP APPLIES -- the
+    djvu.txt is named after the item's TITLE, not its identifier -- and the
+    metadata call gives the right name.
+
+The second option is the honest recommendation. The instrument this project
+lacks is not access; it is an index. It can build its own by downloading.

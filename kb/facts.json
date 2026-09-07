@@ -1,8 +1,8 @@
 {
-  "version": "9.43",
-  "kb_version": "9.43",
+  "version": "9.44",
+  "kb_version": "9.44",
   "migrated_from": "3.3",
-  "fact_count": 5332,
+  "fact_count": 5333,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -96188,6 +96188,23 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.43",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5371",
+      "category": "methodology",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Internet Archive",
+        "Open Library",
+        "The Georgian",
+        "YMCA of Montreal fonds"
+      ],
+      "claim": "THE INTERNET ARCHIVE'S FULL TEXT CANNOT BE SEARCHED FROM THIS ENVIRONMENT, AND THE SEVENTY-SIX-ITEM CEILING IS THE INSTRUMENT'S, NOT THE CORPUS'S. Three routes tested. advancedsearch.php is metadata-only and rejects sin=TXT outright (f_5260). The archive's own full-text APIs -- ia-pub-fts-api.archive.org and ia-fts.archive.org -- BOTH DROP THE TUNNEL, the per-host pattern of rule 45, while archive.org itself has been reachable all day. Open Library's search/inside works and is BOOKS-ONLY. THE CONTROL SETTLES IT RATHER THAN LEAVING IT AN ARGUMENT FROM ABSENCE: a quoted 'Kanawana' search returns seventy-six items, every one a published book, periodical or directory, and NOT ONE from the YMCA of Montreal fonds or the Concordia collections -- yet four fonds items downloaded and grepped earlier the same day under p_462 CONTAIN THE EXACT STRING (news-bulletin vol 15 no 1; the short 1959 annual report, three times; National Council Bulletin vol 36 no 4; the bulletin of 13 February 1970). All four are full-text items on the archive; none is in the seventy-six. WHAT THAT CLOSES: the Georgian question cannot be answered from here by search. Three hundred and forty-one issues of Sir George Williams' student newspaper are catalogued by date, their contents are outside the book index, and no name search will ever surface them. WHAT IT OPENS: the p_462 sweep downloaded forty-six items in full and searched them in about four minutes, so 341 Georgian issues is a larger job of the same shape rather than a different one. THE INSTRUMENT THIS PROJECT LACKS IS NOT ACCESS BUT AN INDEX, AND IT CAN BUILD ITS OWN BY DOWNLOADING.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.44",
       "added_by": "ralph_loop"
     }
   ]
