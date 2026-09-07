@@ -8027,3 +8027,22 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   validation, and the honest position is that this ranking is a reading order, not a budget.
   WHAT WOULD ACTUALLY VALIDATE IT: do one article from the 10+ band and see whether it lands near 26% or well past it. camp-otoreke at
   21,984 words and 74 passages is the natural test and would also be the single largest piece of work in the wiki.
+2026-09-07T21:38:32Z  PUBLICATION PASS, article 4: harold-cross, taken from the EXPENSIVE band to validate the estimate. IT BROKE THE ESTIMATE.
+  MEASUREMENT: 5,634 body words -> 4,666. 17.2% rewritten. Ids 13 -> 0. Project-voice 19 -> 0. SUPERSEDED blocks 6 -> 0.
+  THE FOUR: Shorgan 5 passages -> 3.6%; wartime 8 -> 11.8%; Tasse 14 -> 26%; CROSS 25 -> 17.2%.
+  THE PROXY DOES NOT HOLD. Cross had the most project-voice passages of the four and did NOT cost the most per word. The ranking I gave the
+  operator -- 40 articles in a "10+ passages, expect Tasse's 26 per cent or worse" band -- is not supported by the one article from that
+  band I actually did. WHY, on inspection: Cross's narration is CONCENTRATED (six SUPERSEDED blocks and one nested error account, all
+  liftable whole) while Tasse's was DIFFUSE (a whole section rebuilt, and an Overview sentence rewritten word by word). Liftable blocks are
+  cheap per word; a sentence that has to be re-thought is not. PASSAGE COUNT CANNOT TELL THOSE APART.
+  SO THE HONEST POSITION IS NARROWER THAN WHAT I REPORTED: four articles, 3.6% to 26%, and NO METRIC I HAVE PREDICTS WHERE IN THAT RANGE A
+  GIVEN ARTICLE LANDS. That is the fourth proxy to fail tonight and the second to fail AFTER I had reported it.
+  THE PASS HAS A CHARACTERISTIC FAILURE MODE, now seen three articles running: I declare it done and measurement says otherwise. Article 3
+  left 7 ids and 3 voice; article 4 left 13 ids, then 3, then 1, across four rounds. The survivors are always in the NUMBERED SOURCE NOTES
+  and in sentences whose line-wrapping defeated the pattern. ALWAYS PRINT THE REMAINING MATCHES, NEVER THE COUNT ALONE.
+  AND A REGEX ON SOURCE NOTES DELETED AN ENTIRE ENTRY. A "Cached at `...`" pattern ate the whole of numbered source 14; verify_harness
+  caught it as "markers with no Sources entry: [14]" and "header says 16, 15 entries present". RECOVERED FROM git show HEAD rather than
+  retyped. Regex stripping is safe on prose and DANGEROUS on structured lists -- the harness is what makes it survivable.
+  ONE JUDGEMENT WORTH RECORDING: source 10 said the Hall quotation was assembled from four overlapping search windows and "the joins are
+  recorded in [f_5007] so a later reader can check them". That is a real statement about evidence quality and belongs in front of a reader;
+  only the internal address does not. Kept the claim, moved the id.
