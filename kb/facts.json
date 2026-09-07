@@ -1,8 +1,8 @@
 {
-  "version": "9.39",
-  "kb_version": "9.39",
+  "version": "9.40",
+  "kb_version": "9.40",
   "migrated_from": "3.3",
-  "fact_count": 5325,
+  "fact_count": 5328,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -96071,6 +96071,60 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.39",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5364",
+      "category": "people",
+      "date_ref": "2004",
+      "entities": [
+        "James Caddell",
+        "Tara Newell",
+        "McGill News"
+      ],
+      "claim": "JAMES CADDELL'S OWN ACCOUNT OF THE TRIP HE DIED ON IS RECOVERED, AND IT WAS NEVER LOST -- THE URL IN THIS PROJECT'S OWN RECORD WAS TRUNCATED BY TWO CHARACTERS. The source record gave '.../2004/fall/travelin' and a read state of 'fetched-page1-page2-404'. The article is 'TRAVELING OUT OF THE COMFORT ZONE', McGill News Fall 2004, at .../2004/fall/traveling/index.html and .../traveling/two/index.html, and both return HTTP 200 today. It was found by fetching the issue's table of contents. THE 404 WAS A FACT ABOUT A MISTYPED URL, RECORDED AS A FACT ABOUT THE SITE. What it adds is not biography -- this project already has his life in detail from the CMAT obituary -- but HIS VOICE, in a signed first-person dispatch published about a year before he died. It also supplies things the obituary accounts do not: a daily budget of $100 CDN in the U.S., Australia and Western Europe and $50 in developing countries; the trip's origin in a broken radiator cap near Mount Kenya on their 2002 honeymoon and planning begun 'roughly ten seconds after we returned'; SERVAS home-stays; and his own narrower job title -- 'a senior advisor in the Canada Student Loans Program', where the wiki has 'Senior Program Manager at Human Resources Development Canada'. A refinement from the man himself, not a conflict.",
+      "sources": [
+        "src_mcgill_news_caddell"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.40",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5365",
+      "category": "traditions",
+      "date_ref": "2004",
+      "entities": [
+        "James Caddell",
+        "Tara Newell",
+        "canoe trips"
+      ],
+      "claim": "THE ONLY LINE IN CADDELL'S ARTICLE THAT TOUCHES CAMP IS SEVEN WORDS, AND KANAWANA IS NEVER NAMED. Describing a first attempt at fishing in Tasmania: 'Although we consider ourselves outdoorsy types, BEING VETERAN CANOE TRIPPERS, neither of us have much interest in hunting or fishing.' BOTH PAGES WERE SEARCHED FOR 'Kanawana', 'YMCA', 'camp' AND 'Quebec' AND NONE OCCURS. The phrase is worth holding because the man writing it had been canoe tripping at Kanawana since 1983 and because canoe tripping is the thing that camp is for -- it is how a Kanawana upbringing surfaces, unprompted, in a man's description of himself at thirty-one, on the other side of the world. BUT THE ARTICLE DOES NOT MAKE THAT CONNECTION AND NEITHER SHOULD ANYONE QUOTING IT.",
+      "sources": [
+        "src_mcgill_news_caddell"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.40",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5366",
+      "category": "sources",
+      "date_ref": "2021",
+      "entities": [
+        "James Caddell",
+        "CMAT",
+        "Internet Archive"
+      ],
+      "claim": "THE CMAT OBITUARY IS STILL DEAD ON THE LIVE SITE AND EXISTS IN THE ARCHIVE, ONCE. cmat.ca/james-caddell-soldier-adventurer-1973-2005/ returns 404 today even with a browser user-agent, serving an 18 KB rebuilt-site page -- so the source record's 'site rebuilt' reading holds. The Internet Archive's availability API reports EXACTLY ONE capture, 2 DECEMBER 2021, HTTP 200, at http://web.archive.org/web/20211202043604/https://cmat.ca/james-caddell-soldier-adventurer-1973-2005/ . The record can stop describing the obituary as lost: it is one click away for anyone with a browser, and web.archive.org is unreachable from this environment for the reason set out in f_5361. THE SAME PROBE FOUND ymcayouthcentre.com HAS NO CAPTURES AT ALL, at any date tried -- that one really is gone.",
+      "sources": [
+        "src_cmat_caddell_obituary"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.40",
       "added_by": "ralph_loop"
     }
   ]

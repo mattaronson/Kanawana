@@ -1456,27 +1456,27 @@
       "extracted": true,
       "extraction_version": "4.7",
       "reliability": "secondary",
-      "notes": "Globe and Mail obituary hosted on CMAT website. Full biography: birth, education, military, peacekeeping, death in Tupiza, Bolivia. [2026-08-18, p_263] ALIAS RECORD: same origin_url as src_cmat_caddell_memorial, which the wiki already uses. Not unexamined material. Do not re-research; consolidate or leave, but never count as a research lead.",
+      "notes": "Globe and Mail obituary hosted on CMAT website. Full biography: birth, education, military, peacekeeping, death in Tupiza, Bolivia. [2026-08-18, p_263] ALIAS RECORD: same origin_url as src_cmat_caddell_memorial, which the wiki already uses. Not unexamined material. Do not re-research; consolidate or leave, but never count as a research lead. | [2026-09-07: still 404 on the live site with a browser user-agent, an 18 KB rebuilt-site page, so the 'site rebuilt' reading holds. THE ARCHIVE HAS EXACTLY ONE CAPTURE: 2 December 2021, HTTP 200, http://web.archive.org/web/20211202043604/https://cmat.ca/james-caddell-soldier-adventurer-1973-2005/ -- found through archive.org's availability API, which works here while web.archive.org does not (f_5361). Stop calling it lost; it is one click away for anyone with a browser. See f_5366.]",
       "read_state": "unavailable",
       "read_state_basis": "asserted:404-site-rebuilt-wayback-egress-blocked"
     },
     {
       "source_id": "src_mcgill_news_caddell",
       "type": "web",
-      "title": "Tara Newell and James Caddell travel article — McGill News",
+      "title": "James Caddell, 'Traveling Out of the Comfort Zone', McGill News (alumni quarterly), Fall 2004, pages 1-2",
       "date": "2004",
       "date_precision": "year",
       "origin": "web",
       "origin_url": "https://mcgillnews-archives.mcgill.ca/news-archives/2004/fall/traveling/index.html",
-      "cache_path": null,
+      "cache_path": "sources/cache/biographical/2026-09-07-caddell-mcgill-news-travelling.txt",
       "char_count": 0,
       "ingested_at": "2026-02-19T00:00:00Z",
-      "extracted": false,
+      "extracted": true,
       "extraction_version": null,
       "reliability": "secondary",
-      "notes": "McGill News archive article about Caddell-Newell round-the-world trip.",
+      "notes": "McGill News archive article about Caddell-Newell round-the-world trip. | [RECOVERED 2026-09-07. Page 2 is at .../traveling/two/index.html. THIS IS JAMES CADDELL WRITING, about a year before he died on the trip it describes -- the second first-person long-form document by a Kanawana person this project has identified, and the readable one. KANAWANA IS NOT NAMED IN IT, nor the YMCA, nor camp, nor Quebec; the single line touching that world is 'being veteran canoe trippers'. See f_5364, f_5365.]",
       "read_state": "extracted",
-      "read_state_basis": "asserted:fetched-page1-page2-404"
+      "read_state_basis": "direct: both pages fetched 2026-09-07 with a browser user-agent, HTTP 200, and read in full; the substance quoted at the cache path. [SUPERSEDED: was 'asserted:fetched-page1-page2-404'. The 404 was caused by this record's own URL, truncated to '.../fall/travelin' -- two characters and a path segment short. The article was found by fetching the issue's table of contents at .../2004/fall/ and reading it.]"
     },
     {
       "source_id": "src_wikipedia_richard_patten",

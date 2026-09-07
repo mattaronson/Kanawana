@@ -1,6 +1,6 @@
 # The Pip Alumni Award
 
-*Status: E1-reviewed | Sources: 25*
+*Status: E1-reviewed | Sources: 26*
 *Last Updated: 2026-08-14*
 
 ## Overview
@@ -24,6 +24,14 @@ After graduating from Cortland High School near Syracuse, New York in 1991, Cadd
 Caddell joined the Royal Canadian Hussars reserve while at university. In 1995, he trained at CFB Valcartier and deployed to Bosnia on Rotation 5 of Operation Cavalier (May-October 1995), serving as a Cougar driver in 42 Troop of "D" Squadron of the 12e Regiment blinde du Canada, part of CANBAT 2 / UNPROFOR. He received the Peacekeeping Service Medal and UNPROFOR Medal; after moving to Ottawa he switched to the 2nd Intelligence Platoon and received the Queen's Jubilee Medal.^7 ^15 ^16
 
 Both Caddell and Newell worked for the federal government in Ottawa — Caddell as Senior Program Manager at Human Resources Development Canada — before leaving their posts in June 2004 for a round-the-world trip.^7 ^8 ^15 Their itinerary took them across Australia, to Hanoi and Angkor Wat, through humanitarian work in East Timor and Indonesia, and to two months as CMAT volunteers at an orphanage in Kannyakumari district, Tamil Nadu, working with children orphaned by the 2004 tsunami — an experience that, by all accounts, changed them both.^7 ^15 They continued through Nepal, Gallipoli, Jerusalem, Provence, Buenos Aires, and Santiago before arriving by bus in Bolivia.^15
+
+**And a year before that, he wrote the trip down himself.** The *McGill News* for **Fall 2004** carried "Traveling Out of the Comfort Zone," a signed two-page dispatch by Caddell, sent to the alumni quarterly from the road. It is the only thing in this project written by him, and one of two first-person long-form documents by a Kanawana person the project has ever identified.^26
+
+He gives the trip an origin the obituaries do not. It was not planned so much as provoked, on their honeymoon in Kenya in 2002: a Land Rover broke down "in a tiny community of a few mud houses near the base of Mount Kenya," in exactly the sort of place they had been warned to avoid, and the hours that followed — children going through their pockets and putting hands in Tara's hair — became "the most memorable experience of our trip." The radiator cap was replaced with one off an old water can and duct tape, "my suggestion, since all Canadian soldiers learn that anything can be fixed with duct tape." Planning began "roughly ten seconds after we returned."^26
+
+He also gives the numbers: a budget of **$100 CDN a day** in the United States, Australia and Western Europe and **$50 in developing countries**, against a planned route through "North America, Australia, Southeast Asia, the Indian subcontinent, the Middle East, Africa, Europe and South America." And he names his own post more narrowly than the obituary does — "a **senior advisor in the Canada Student Loans Program**," with Tara "the manager of Ministerial Support for the National Secretariat on Homelessness," both within Human Resources Development Canada. A refinement from the man himself, not a correction of the record.^26
+
+*What is not in it is worth saying plainly.* **Kanawana is never named**, nor the YMCA, nor summer camp, nor Quebec; both pages were searched for all of them. The single line that touches this camp's world is seven words long, in a passage about trying to fish in Tasmania: "Although we consider ourselves outdoorsy types, **being veteran canoe trippers**, neither of us have much interest in hunting or fishing." That is how a Kanawana upbringing surfaces here — unprompted, as a description of himself at thirty-one, on the other side of the world, from a man who had been tripping out of this camp since 1983. **The article does not make that connection, and this article does not either.**^26
 
 Caddell died on October 16, 2005 in Tupiza, Bolivia, at age 32, of pulmonary edema caused by altitude sickness. He had suffered altitude sickness nine months earlier on Mount Everest above 5,000 metres; Tupiza sits below 3,000 metres, but no one in the hotel or local hospital recognized the symptoms or had oxygen.^7 ^15 His memorial service was held in Ottawa on November 5, 2005, with obituaries published in the Globe and Mail and Ottawa Citizen.^15 Tara Newell subsequently founded the James Caddell Memorial Foundation to provide educational opportunities for marginalized girls in India, and went on to spend 16 years with MSF (including as Emergency Coordinator in Syria and as MSF's Representative to the United Nations); as of 2025, she is Chief Programs Officer at CARE Canada.^15 ^17
 
@@ -130,6 +138,7 @@ In his memory, the annual "Five-Hole Sam" street hockey jamboree ("SAM JAM"), or
 23. YMCA Quebec news release, "Jared MacSween Receives Camp YMCA Kanawana 'Pip' Award", Saint-Sauveur, 31 August 2026 [src_ymca_quebec_pip_macsween_2026]. Supplied by the operator; the file's document properties give Andrew Caddell, who sponsors the award, as its author. Source of the 17th-recipient ordinal, of MacSween's biography, of the first documentary attestation of Ornstein's 2019 award, and of the two previously unknown recipients. See [f_4805], [f_4806], [f_4807], [f_4808], [f_4809].
 24. Montreal Gazette, "A voice for those who don't have one", 20 September 2016 [src_gazette_skinner_als_2016]. **Not read** — PressReader returned HTTP 403; known only from search-result summaries. See [f_4821], [f_4822].
 25. Ottawa Citizen, "My dad's been my biggest hero my whole life", 16 June 2018 [src_ottawa_citizen_skinner_als_2018]. **Not read** — same block. Establishes that Carol Skinner was alive in June 2018. See [f_4821], [f_4822].
+26. James Caddell, "Traveling Out of the Comfort Zone", *McGill News* (alumni quarterly), **Fall 2004**, in two pages [src_mcgill_news_caddell]. Both fetched 2026-09-07 and read in full; quoted at `sources/cache/biographical/2026-09-07-caddell-mcgill-news-travelling.txt`. This project had the article recorded as a 404 — the cause was its own URL, truncated by two characters and a path segment. See [f_5364], [f_5365].
 
 ## Research Notes
 

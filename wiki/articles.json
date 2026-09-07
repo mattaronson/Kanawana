@@ -4059,6 +4059,13 @@
           "at": "2026-09-05T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-07",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "James Caddell's own Fall 2004 McGill News dispatch recovered and read. The article had been recorded as a 404; the cause was this project's own truncated URL. Adds his voice rather than new biography, plus the trip's origin, its budget and his own narrower job title. Kanawana is never named in it and the addition says so."
         }
       ],
       "ralph_loops_completed": 1,
@@ -4132,14 +4139,17 @@
         "f_1377",
         "f_1380",
         "f_1882",
-        "f_2359"
+        "f_2359",
+        "f_5364",
+        "f_5365"
       ],
       "sources_cited": [
         "src_cbc_sam_jam_2015",
         "src_dal_pediatrics_ornstein",
         "src_legacy_lazarus_obituary_2004",
         "src_oral_aronson",
-        "src_ymca_quebec_pip_macsween_2026"
+        "src_ymca_quebec_pip_macsween_2026",
+        "src_mcgill_news_caddell"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -4151,7 +4161,7 @@
         "traditions/order-of-owens"
       ],
       "file_id": null,
-      "word_count": 3868,
+      "word_count": 4329,
       "notes": "v4.75: Pip Caddell full genealogy (The Peerage). James Caddell biography expanded (CMAT memorial). Andrew Caddell career timeline. Tara Newell post-2005 career. Pip Award 2019-2023 exhausted. OQ3 resolved. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header (was listing raw source IDs). Body prose was already clean. No facts, citations, or open questions dropped; status unchanged. | 2026-08-14: cross-linked to the new traditions/order-of-owens.md.",
       "tags": {
         "era": [
