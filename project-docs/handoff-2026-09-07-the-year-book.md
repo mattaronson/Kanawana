@@ -504,3 +504,53 @@ only two of them are honest: HIT and CLEAN are claims about the world, FAIL is a
 claim about the instrument, and every bug so far has consisted of an instrument
 failure wearing one of the other two labels. When a sweep's own summary is the only
 evidence that something was read, it is worth measuring what "read" meant.
+
+## Rule 51 — `pgrep -f <name>` matches the shell that is asking, and background jobs here die
+
+**2026-09-07, the third instrument failure of the day and the most embarrassing.**
+
+Three background sweeps were checked repeatedly with:
+
+```
+pgrep -f sweepmcgill >/dev/null && echo "RUNNING" || echo "STOPPED"
+```
+
+It printed RUNNING every time. **All three jobs had been dead for forty minutes.**
+
+`pgrep -f` matches against the full command line of every process — including the
+`bash -c` wrapper running the check itself, whose command line contains the string
+`sweepmcgill`. The check could never return false. It was reporting its own
+existence.
+
+What gave it away was not the check but the *files*: `ls -l --time-style=+%H:%M:%S`
+showed no log or results file written since 08:06 while the clock said 08:46. Three
+further probes ruled out the obvious causes — `archive.org/metadata/...` answered
+200 in 1.3 s, `df` showed 28 GB free, and `pgrep -c curl` returned **0**, meaning
+nothing was in flight. A job that is running makes requests.
+
+**Two rules out of it.**
+
+1. **Check for a process with `ps -eo pid,etime,args | grep "[p]ython3"`**, whose
+   bracket trick excludes the grep itself, or match on something the checking
+   command does not contain. Better still, check the *artifact*: a running sweep
+   writes to its results file, so the file's mtime is the honest signal and the
+   process table is the proxy.
+2. **`nohup … &` jobs do not survive here.** All three died mid-run without writing
+   their completion lines, so they were killed rather than finishing. Expect to
+   restart them, which means **every long job must keep a per-item results file and
+   resume from it** — and, per rule 50's lesson, only genuinely CHECKED rows may
+   count as done.
+
+**Cost.** The Concordia sweep and the rescan resumed from their own results files,
+losing nothing. The McGill sweep had **no per-item record at all** — only a running
+count — so there was no way to know which 9,000 of its 9,890 items had been read.
+It also predates both of today's fixes, so its reads were made with the size
+threshold and the `txts[0]` bug still in place. It was rewritten with per-item
+accounting, all-text-file searching, zero-byte-only failure, and resume, and
+**re-run from the beginning**. Ninety per cent of a sweep is worth nothing if you
+cannot say which ninety per cent.
+
+**The family these three rules belong to.** A sweep reports states, and the states
+divide into claims about the world (HIT, CLEAN) and claims about the instrument
+(FAIL). Every defect found today was an instrument failure wearing a world label —
+and this one was a *status check* wearing one.
