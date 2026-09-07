@@ -1,7 +1,7 @@
 # Sir George Williams / Concordia University and Camp Kanawana
 
-*Status: E1-reviewed | Sources: 12*
-*Last Updated: 2026-09-07 (the Training Fellowship documented from both ends; Seaman's camping courses)*
+*Status: E1-reviewed | Sources: 13*
+*Last Updated: 2026-09-07 (the Training Fellowship from both ends, and the alumni class notes as a staffing roster)*
 
 ## Overview
 
@@ -71,6 +71,10 @@ were staffed out of a college housed on the second and third floors of the Drumm
 building, whose calendar reserved [[site/camp-otoreke|Camp Otoreke]] for a college week each
 September.^12
 
+**And the alumni magazine keeps the roster going after the Fellowship years.** *The Postgrad*'s class notes record where graduates went, year by year, in their own words — which for a camp staffed out of this college is a roster nobody at the camp ever wrote. October 1957 has two men at the same camp in the same season: "**George E. Clifford**, B.A. — is a student at McGill U. — faculty of Divinity — this summer he will be at **Y.M.C.A. Kamp Kanawana** in St. Sauveur des Monts, Que."; and "**David J. Carson**, B.A. — presently at the **Y.M.C.A. Kamp Kanawana** in St. Sauveur, Que. He will be working at the Bell Telephone, Traffic Dept."^13
+
+Neither is a director and neither note gives a role, which is the point. This is the pipeline at its ordinary level — two graduates of one college in one season at one camp, one going on into divinity and one into the telephone company — in a year inside [[people/murray-shantz|Murray B. Shantz]]'s Kanawana directorship. The Summer 1966 issue does the same for the other camp, naming Robert D. Sallery, the Class of '62 valedictorian, as incoming Director of [[site/camp-otoreke|Camp Otoreke]].
+
 *A name not yet settled.* The annual report's "Gordon Patrick" and the yearbook's "MacArthur Pat.
 Gordon" may be one man with the name inverted — same programme, same city, same year — but an
 inverted name plus a matching role is exactly the coincidence that produces a confident wrong
@@ -125,3 +129,4 @@ In 2019, Concordia's Faculty of Fine Arts signed a partnership agreement with th
 10. *The Georgian* (Sir George Williams University), **all 292 digitized issues** [src_ia_the_georgian], swept 2026-09-07 by downloading and grepping each in full; and the two that carry a camp name, Vol. 25 No. 16 of **20 February 1962** [src_ia_georgian_1962_02_20] and Vol. 25 No. 2 of **3 October 1961** [src_ia_georgian_1961_10_03]. Method and both texts at `sources/cache/georgian/2026-09-07-all-292-georgian-issues-swept.txt`. See [f_5372], [f_5373], [f_5374].
 11. "In Memoriam: Ross Seaman 1921-1987," *Concordia University Magazine* Vol. 11 No. 1 (January 1988), p. 28 [src_concordia_magazine_1988_01]. Concordia's own obituary of A. Ross Seaman, transcribed complete in `sources/cache/concordia-publications/2026-09-07-concordia-university-magazine-1988-seaman-obituary.txt`. Found 2026-09-07 by the whole-corpus sweep of the Internet Archive collection `rma-concordia-publications` under p_479. See [f_5380], [f_5385], [f_5386].
 12. Sir George Williams College, *The Annual Yearbook 1943* [src_sgw_yearbook_1943]; *The Annual Yearbook 1942* [src_sgw_yearbook_1942]; *Faculty of Arts, Science and Commerce Announcement 1941-1942* [src_sgw_calendar_1941_42]. Transcribed in the relevant part at `sources/cache/sgw-publications/2026-09-07-sgw-calendar-and-yearbooks-1941-1943.txt`. Found 2026-09-07 by the accounted sweep of `rma-concordia-publications` under p_479. See [f_5396], [f_5399], [f_5400], [f_5403].
+13. *The Postgrad* (Sir George Williams University alumni magazine), Vol. 13 No. 3, Thanksgiving Issue, October 1957 [src_sgw_postgrad_1957_10]. Class notes. Transcribed at `sources/cache/sgw-publications/2026-09-07-postgrad-alumni-notes-1955-1966.txt`. See [f_5443].

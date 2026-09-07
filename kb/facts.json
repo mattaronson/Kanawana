@@ -1,8 +1,8 @@
 {
-  "version": "9.67",
-  "kb_version": "9.67",
+  "version": "9.68",
+  "kb_version": "9.68",
   "migrated_from": "3.3",
-  "fact_count": 5403,
+  "fact_count": 5406,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -97427,6 +97427,61 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.67",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5442",
+      "category": "people",
+      "date_ref": "1966",
+      "entities": [
+        "Robert D. Sallery",
+        "Camp Otoreke",
+        "Sir George Williams University",
+        "YMCA"
+      ],
+      "claim": "A NAMED DIRECTOR OF CAMP OTOREKE FOR 1966, AND HE CAME TO IT FROM RUNNING FORTY-EIGHT REFUGEE YOUTH CENTRES. The Postgrad, Summer 1966: 'ROBERT D. (BOB) SALLERY, B.A. 62, VALEDICTORIAN, CLASS OF 62 is now back in Montreal and WILL TAKE OVER THE POSITION OF DIRECTOR OF CAMP OTOREKE. After Sir George Bob went to Southern Illinois University with a teaching assistantship and tuition scholarship. FROM SEPTEMBER 63 TO SEPTEMBER 65 HE WAS IN BEIRUT, LEBANON WITH THE UNITED NATIONS RELIEF AND WORKS AGENCY FOR PALESTINE ARAB REFUGEES (UNRWA) RESPONSIBLE FOR THE DEVELOPMENT AND SUPERVISION OF 48 REFUGEE YOUTH ACTIVITY CENTRES scattered throughout Lebanon, Jordan, Syria and the Gaza Strip. Developed program for Canadian Y.M.C.A. summer service volunteers in the Middle East. 22 Canadian students (including 3 Georgians) have participated on a volunteer basis. In 1965 Bob was graduated from the American University of Beirut with an M.A. in Social Psychology. He has spent the last year at Dalhousie University on a doctoral program.' His wife is named as Janet Marilyn, nee Pickford of Westmount. WHY THIS MATTERS TWICE OVER. site/camp-otoreke.md is thin on named directors -- McGerrigle from the mid-1930s, Ron Hupfield by 1942, George N. Barker at the ski lodge in 1943, then the 1967 absorption into Downtown Branch -- and Sallery fills 1966, the last year before that absorption. AND THE ROUTE IS THE STORY: a man who had spent two years supervising forty-eight refugee youth centres across four Middle Eastern territories came home to run a family camp in the Laurentians. The Y connection runs both ways, since he built the programme that sent 22 Canadian students, three of them Sir George men, to the Middle East as YMCA summer service volunteers.",
+      "sources": [
+        "src_sgw_postgrad_1966_summer"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.68",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5443",
+      "category": "people",
+      "date_ref": "1957",
+      "entities": [
+        "George E. Clifford",
+        "David J. Carson",
+        "Camp Kanawana",
+        "Sir George Williams University"
+      ],
+      "claim": "TWO SIR GEORGE GRADUATES AT KAMP KANAWANA IN THE SUMMER OF 1957, NAMED IN THEIR ALUMNI MAGAZINE'S CLASS NOTES. 'GEORGE E. CLIFFORD, B.A. -- is a student at McGill U. -- faculty of Divinity -- this summer he will be at Y.M.C.A. Kamp Kanawana in St. Sauveur des Monts, Que.' and 'DAVID J. CARSON, B.A. -- presently at the Y.M.C.A. Kamp Kanawana in St. Sauveur, Que. He will be working at the Bell Telephone, Traffic Dept.' Neither name occurs anywhere else in this project, greped before writing. NEITHER IS A DIRECTOR AND NO ROLE IS GIVEN, so what they document is the ORDINARY case rather than the notable one -- two graduates of the same college in the same season at the same camp, one heading into divinity and one into the telephone company. That is the Sir George pipeline working at the level it normally worked at, in a year falling inside Murray B. Shantz's Kanawana directorship. THE METHODOLOGICAL POINT IS AS USEFUL AS THE NAMES: an alumni magazine's class notes record where graduates went, year by year, in their own words. For a camp staffed out of a college that is a roster nobody at the camp ever wrote, and the same channel the Sir George yearbooks and the McGill Daily advertisements show from other angles.",
+      "sources": [
+        "src_sgw_postgrad_1957_10"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.68",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5444",
+      "category": "site",
+      "date_ref": "1955-02",
+      "entities": [
+        "Camp Otoreke",
+        "Otoreke School"
+      ],
+      "claim": "AN 'OTOREKE SCHOOL, QUE.' APPEARS IN A 1955 MODEL UN REPORT, AND THIS IS RECORDED AS A QUESTION RATHER THAN A FACT. The Postgrad's Easter 1955 issue reports a model United Nations Security Council session staged at the YWCA building, 1355 Dorchester St W, in February 1955 -- nine Canadian schools and colleges, one American college and the local United Nations Association playing the eleven members, in four languages, presided over by Rene Pouliot, 'in real life technical adviser to the International Civil Aviation Organization in Montreal'. The delegations: 'Assumption College, Windsor, Ont., (Belgium); Sir George Williams Day College (Peru); OTOREKE SCHOOL, QUE. (BRAZIL); United Nations Association (Turkey); University of Toronto (United Kingdom); University of Montreal (France); Sir George Williams Evening College (Iran); Royal Military College Kingston (New Zealand); and Macdonald Teachers College.' EVERY OTHER DELEGATION IS A REAL INSTITUTION NAMED PRECISELY, so the list is not careless. But nothing in this project knows of an Otoreke School, and the YMCA's Camp Otoreke is a summer camp, not a school sending a delegation to a February debate in Montreal. THREE READINGS, NONE ADOPTED: an OCR or editorial garble of another name; a school using the Otoreke site, which would fit the off-season and conference use documented for other years; or a distinct institution sharing the name. Written down with the quotation attached because the fourth possibility -- that a later pass reads 'Otoreke School' as established fact -- is the one worth guarding against.",
+      "sources": [
+        "src_sgw_postgrad_1955_04"
+      ],
+      "confidence": "disputed",
+      "conflicts_with": [],
+      "added_version": "9.68",
       "added_by": "ralph_loop"
     }
   ]

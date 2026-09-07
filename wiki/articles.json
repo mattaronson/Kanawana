@@ -3821,9 +3821,11 @@
         "src_sgw_yearbook_1943",
         "src_sgw_calendar_1941_42",
         "src_mcgill_daily_1941_10_09",
-        "src_ymf_1979_the_montreal_fact_75_79"
+        "src_ymf_1979_the_montreal_fact_75_79",
+        "src_sgw_postgrad_1966_summer",
+        "src_sgw_postgrad_1955_04"
       ],
-      "open_questions": 8,
+      "open_questions": 9,
       "cross_links": [
         "billy-ball",
         "canoe-trips",
@@ -3834,7 +3836,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 15763,
+      "word_count": 16332,
       "notes": "E1 REVIEW (2026-02-19): Removed unverifiable 'Google Maps' source and '20 km' distance claim. Expanded 'Multiple sources' citation into discrete references (Facts sheet + McMorris). Removed src_oral_aronson (no inline citation). Removed unsourced bullet. Fixed postcard inference. Fixed closure section process language. Split 1967 conference/reports sentence. Renumbered sources 1-10. Added camp-otoreke cross-link to centennial-1967. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_008 editorial-resolution narrative into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -7751,7 +7753,8 @@
         "src_concordia_magazine_1988_01",
         "src_sgw_yearbook_1942",
         "src_sgw_yearbook_1943",
-        "src_sgw_calendar_1941_42"
+        "src_sgw_calendar_1941_42",
+        "src_sgw_postgrad_1957_10"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -7763,7 +7766,7 @@
         "sources-index"
       ],
       "file_id": null,
-      "word_count": 2189,
+      "word_count": 2416,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, corrected the Sources count in the header (was 8, actual is 9). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

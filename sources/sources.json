@@ -31209,7 +31209,61 @@
       "notes": "THE CAMP'S OWN ADVERTISEMENT, AND IT DATES A SLOGAN THIS WIKI THOUGHT WAS A FILM TITLE. 'Kamp Kanawana, a COED camp for children AGED 7-15... on 1200 ACRES OF LAND AND THREE PRIVATE LAKES... 1441 Drummond St., Montreal (Quebec) H3G 1W3, (514) 849-8331. THE EXPERIENCE THAT LASTS A LIFETIME!' This project knows that phrase as the title of the 1993 YMCA documentary Kamp Kanawana: The Experience that Lasts a Lifetime and as the title Grace McMorris borrowed for her 2019 thesis, and nothing here said it was a slogan first. It closes this advertisement FOUR YEARS BEFORE THE FILM. It also puts 1200 acres and three private lakes in the CAMP'S own words in 1989, where site/the-kanawana-site.md had that figure only from The Gazette of 18 April 1974 -- extending the period by fifteen years and removing the journalist. And it is the third point in a recruiting series the same corpus supplied for 1948 and 1949: the camp buying display space in a university paper to fill its staff, forty-one years apart. THE PHONE NUMBER IS A COINCIDENCE RECORDED AS ONE, NOT A CONTINUITY: the 1948-49 ads give 'MA. 8331' and this gives 849-8331; under the letter-exchange system MA maps to 62, giving 628-8331, while 849 is the exchange of the Y's Metropolitan Offices at 1441 Drummond (849-5331 in the bulletin of 29 January 1970). Either the subscriber number survived a change of exchange or 8331 recurs by chance. 'Kanawana' occurs twice in the issue, both in this advertisement. See f_5428, f_5429, f_5430.",
       "read_state": "extracted",
       "read_state_basis": "direct: full djvu text downloaded 2026-09-07, the advertisement read and transcribed complete, and the issue greped for the camp names."
+    },
+    {
+      "source_id": "src_sgw_postgrad_1955_04",
+      "type": "periodical",
+      "title": "The Postgrad (Sir George Williams University alumni magazine), Vol. 11 No. 1, Easter Issue, April 1955",
+      "date": "1955-04",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/postgrad-1955-april",
+      "cache_path": "sources/cache/sgw-publications/2026-09-07-postgrad-alumni-notes-1955-1966.txt",
+      "char_count": 119799,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.68",
+      "reliability": "primary",
+      "notes": "NAMES AN 'OTOREKE SCHOOL, QUE.' AND THIS IS RECORDED AS A QUESTION, NOT A FACT. In a report of a model UN Security Council session at the YWCA building, 1355 Dorchester St W, February 1955 -- nine Canadian schools and colleges, one American college and the United Nations Association playing the eleven members, in four languages, presided over by Rene Pouliot of the International Civil Aviation Organization -- the delegations listed include 'Assumption College, Windsor, Ont., (Belgium); Sir George Williams Day College (Peru); OTOREKE SCHOOL, QUE. (BRAZIL)...'. Every other delegation is a real institution named precisely, so the list is not careless; but nothing in this project knows of an Otoreke School, and the YMCA's Camp Otoreke is a summer camp, not a school sending a delegation to a February debate. Three readings are set out in the cache and none adopted: an OCR or editorial garble; a school using the Otoreke site, which would fit the off-season use documented for other years; or a distinct institution sharing the name. 'Kanawana' occurs 0 times, 'Otoreke' once. See f_5444.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded 2026-09-07 (single text file, checked), the model UN report read whole and transcribed."
+    },
+    {
+      "source_id": "src_sgw_postgrad_1957_10",
+      "type": "periodical",
+      "title": "The Postgrad (Sir George Williams University alumni magazine), Vol. 13 No. 3, Thanksgiving Issue, October 1957",
+      "date": "1957-10",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/postgrad-1957-oct",
+      "cache_path": "sources/cache/sgw-publications/2026-09-07-postgrad-alumni-notes-1955-1966.txt",
+      "char_count": 78640,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.68",
+      "reliability": "primary",
+      "notes": "TWO SIR GEORGE GRADUATES AT KAMP KANAWANA IN THE SUMMER OF 1957, from the alumni class notes. 'GEORGE E. CLIFFORD, B.A. -- is a student at McGill U. -- faculty of Divinity -- this summer he will be at Y.M.C.A. Kamp Kanawana in St. Sauveur des Monts, Que.' and 'DAVID J. CARSON, B.A. -- presently at the Y.M.C.A. Kamp Kanawana in St. Sauveur, Que. He will be working at the Bell Telephone, Traffic Dept.' Neither name occurs anywhere else in this project. They are not directors and no role is given, so what they document is the ORDINARY case rather than the notable one: two graduates of the same college in the same season at the same camp, one heading into divinity and one into the telephone company. That is the Sir George pipeline working at its usual level, in a year falling inside Murray B. Shantz's Kanawana directorship. WHY AN ALUMNI MAGAZINE IS WORTH SWEEPING: its class notes record where graduates went, year by year, which for a camp staffed out of a college is a roster nobody at the camp ever wrote. See f_5443.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded 2026-09-07 (single text file, checked); both Kanawana occurrences read in context and transcribed."
+    },
+    {
+      "source_id": "src_sgw_postgrad_1966_summer",
+      "type": "periodical",
+      "title": "The Postgrad (Sir George Williams University alumni magazine), Vol. 22 No. 2, Summer 1966, \"The Building Issue\"",
+      "date": "1966",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/postgrad-1966-summer-hall-building-issue",
+      "cache_path": "sources/cache/sgw-publications/2026-09-07-postgrad-alumni-notes-1955-1966.txt",
+      "char_count": 101407,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.68",
+      "reliability": "primary",
+      "notes": "A NAMED DIRECTOR OF CAMP OTOREKE FOR 1966, WITH A REMARKABLE ROUTE TO THE JOB. 'ROBERT D. (BOB) SALLERY, B.A. 62, VALEDICTORIAN, CLASS OF 62 is now back in Montreal and WILL TAKE OVER THE POSITION OF DIRECTOR OF CAMP OTOREKE. After Sir George Bob went to Southern Illinois University with a teaching assistantship and tuition scholarship. FROM SEPTEMBER 63 TO SEPTEMBER 65 HE WAS IN BEIRUT, LEBANON WITH THE UNITED NATIONS RELIEF AND WORKS AGENCY FOR PALESTINE ARAB REFUGEES (UNRWA) RESPONSIBLE FOR THE DEVELOPMENT AND SUPERVISION OF 48 REFUGEE YOUTH ACTIVITY CENTRES scattered throughout Lebanon, Jordan, Syria and the Gaza Strip. Developed program for Canadian Y.M.C.A. summer service volunteers in the Middle East. 22 Canadian students (including 3 Georgians) have participated on a volunteer basis. In 1965 Bob was graduated from the American University of Beirut with an M.A. in Social Psychology. He has spent the last year at Dalhousie University on a doctoral program.' wiki/site/camp-otoreke.md is thin on named directors and Sallery fills 1966, the year before the camp was absorbed into Downtown Branch. The Y connection runs both ways: he built the pipeline that sent 22 Canadian students, three of them Georgians, to the Middle East as YMCA summer service volunteers. See f_5442.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded 2026-09-07 (single text file, checked); the Otoreke occurrence read in context and the whole entry transcribed."
     }
   ],
-  "source_count": 1736
+  "source_count": 1739
 }

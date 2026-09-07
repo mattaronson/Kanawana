@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 56*
+*Status: E1-reviewed | Sources: 57*
 *Last Updated: 2026-09-07 (Hupfield confirmed twice over; and the camp's 1979 linguistic assignment)*
 
 ## Overview
@@ -244,6 +244,16 @@ Petite-Bourgogne — Little Burgundy, the working-class district southwest of do
 **And by 1979 the Association had given it a clientele in language terms.** "The Montreal Fact '75-'79," the four-year review of the linguistic policy adopted on 15 September 1975, states what each YMCA camp was for: "**Camp Otoreke, in Ste-Agathe, gives French-speaking low-income families the chance to spend pleasant holidays outdoors.**"^56 That is a clientele rather than a language of operation, and it fits the family and vacation-centre role documented above rather than replacing it — the same paragraph gives [[connections/related-camps/camp-weredale|Camp Weredale]] the harder assignment of being "a French camp." See [[traditions/french-language-camping|French-Language Camping]].
 
 *On "in Ste-Agathe."* The camp is at Saint-Adolphe-d'Howard, as this article establishes throughout, and the 1900 account above gives the journey as sixty-four miles by rail to Ste-Agathe and eight more by road. The review is naming the railhead and market town, which is how a promotional document locates a place for readers who will never go there. Not a contradiction, recorded so it is not read as one.
+
+**And 1966 has a name, from an alumni magazine.** *The Postgrad*, Summer 1966: "**Robert D. (Bob) Sallery, B.A. '62, Valedictorian, Class of '62** is now back in Montreal and **will take over the position of Director of Camp Otoreke**."^57 That fills the last year before the absorption described below, and the route to the job is worth the whole entry:
+
+> "After Sir George Bob went to Southern Illinois University with a teaching assistantship and tuition scholarship. **From September '63 to September '65 he was in Beirut, Lebanon with the United Nations Relief and Works Agency for Palestine Arab Refugees (UNRWA) responsible for the development and supervision of 48 refugee youth activity centres** scattered throughout Lebanon, Jordan, Syria and the Gaza Strip. Developed program for Canadian Y.M.C.A. summer service volunteers in the Middle East. 22 Canadian students (including 3 Georgians) have participated on a volunteer basis. In 1965 Bob was graduated from the American University of Beirut with an M.A. in Social Psychology. He has spent the last year at Dalhousie University on a doctoral program."^57
+
+A man who had spent two years supervising forty-eight refugee youth centres across four Middle Eastern territories came home to run a family camp in the Laurentians. The Y connection runs both ways: he built the programme that sent twenty-two Canadian students, three of them Sir George men, to the Middle East as YMCA summer service volunteers. His wife is named as Janet Marilyn, née Pickford of Westmount.
+
+**An "Otoreke School" appears in 1955, and this article does not adopt it.** The same magazine's Easter 1955 issue reports a model United Nations Security Council staged at the YWCA building on Dorchester Street that February — nine Canadian schools and colleges, one American college and the United Nations Association playing the eleven members, in four languages. Among the delegations: "Assumption College, Windsor, Ont., (Belgium); Sir George Williams Day College (Peru); **Otoreke School, Que. (Brazil)**; United Nations Association (Turkey); University of Toronto (United Kingdom)…"^57
+
+Every other delegation is a real institution named precisely, so the list is not careless — but nothing in this project knows of an Otoreke School, and a summer camp does not send a delegation to a February debate in Montreal. Three readings and none taken here: an OCR or editorial garble of another name; a school *using* the Otoreke site, which would fit the off-season and conference use documented elsewhere in this article; or a distinct institution that shares the name. It is written down with the quotation attached because the fourth possibility — that someone later reads "Otoreke School" as established fact — is the one worth guarding against. See open question below.
 
 **In 1967 it stopped being its own unit.** "Camp Otoreke **became a department of Downtown Branch**. It continued to operate a weekend Ski Lodge for young adults and a vacation centre during the summer."^34 Eleven years earlier the association had listed Otoreke among its *branch* chairmen, alongside Central, Westmount and Lachine; now it was a department inside one of them. The report gives no reason and records no change to what the site actually did.
 
@@ -945,6 +955,7 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 
 ## Open Questions
 
+1. [Important, **new 2026-09-07**] **What was "Otoreke School, Que."?** *The Postgrad* of Easter 1955 lists it among nine Canadian schools and colleges at a Montreal model UN, beside Assumption College and the Royal Military College.^57 Nothing in this project knows of such a school. Try: Quebec school directories for 1954-55, the YWCA's own record of the event, Montreal newspaper coverage of a model Security Council in February 1955, and the Otoreke rental and conference files in Concordia's Fonds P145 sub-series for those years.
 1. ~~[Critical] Why did Camp Otoreke close in 1982? Was the property sold, donated, or abandoned? Concordia Archives sub-series P0145/12C may contain relevant records.~~ [Confirmed genuine dead end for online sources, 2026-07-09] 22 queries across 10+ surfaces found no reason for the closure. Requires a physical Concordia Archives visit.
 2. [Important] What happened to the three islands after 1982? Are they still identifiable? A low-confidence, uncorroborated blog lead suggests informal private ownership and derelict buildings as of 2005-2008 (see Closure section) — not yet independently verified.
 3. [Important] How many campers/families used Otoreke annually during its later decades? Confirmed genuine dead end for online sources (2026-07-09) — likely only recoverable from Concordia sub-sub-series 12C06 (Campers).
@@ -1022,6 +1033,7 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 54. Sir George Williams College, *The Annual Yearbook 1942* [src_sgw_yearbook_1942]; and *The Annual Yearbook 1943* [src_sgw_yearbook_1943]; and the *Faculty of Arts, Science and Commerce Announcement 1941-1942* [src_sgw_calendar_1941_42]. All three transcribed in the relevant part at `sources/cache/sgw-publications/2026-09-07-sgw-calendar-and-yearbooks-1941-1943.txt`. Found 2026-09-07 by the accounted whole-corpus sweep of the Internet Archive collection `rma-concordia-publications` (16,491 text items) under p_479; none of the three was previously in `sources.json`. See [f_5396]–[f_5398], [f_5401].
 55. "Re-modelled Pit Re-opens: Cafeteria Run Under New Management," *The McGill Daily* Vol. 31 No. 7, 9 October 1941 [src_mcgill_daily_1941_10_09]. Transcribed at `sources/cache/mcgill/2026-09-07-mcgill-daily-1938-and-1941.txt`. Found by the whole-corpus sweep of 9,890 McGill student publication items under p_479 — by matching *Otoreke*, since the column breaks the name as "Mr. Hup- field" and a search for it returns nothing. See [f_5407], [f_5408].
 56. "The Montreal Fact '75-'79", the YMCA of Montreal's four-year linguistic-policy review [src_ymf_1979_the_montreal_fact_75_79]. Cached at `sources/cache/ymca-montreal-fonds/2026-09-07-the-montreal-fact-75-79-linguistic-policy.txt`. See [f_5436].
+57. *The Postgrad* (Sir George Williams University alumni magazine), Vol. 22 No. 2, Summer 1966 [src_sgw_postgrad_1966_summer]; and Vol. 11 No. 1, Easter 1955 [src_sgw_postgrad_1955_04]. Transcribed in the relevant part at `sources/cache/sgw-publications/2026-09-07-postgrad-alumni-notes-1955-1966.txt`. Found by the accounted sweep of `rma-concordia-publications` under p_479. See [f_5442], [f_5444].
 
 ## Research Notes
 
