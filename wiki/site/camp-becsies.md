@@ -109,9 +109,21 @@ gesture." And, of Kanawana itself: "The camp began, at one point, to look like a
 almost everyone (**Becsies had more visitors dropping in than we did however**)."^17
 
 **Three years take the same piece of land from asset to opportunity to liability**, and the 1970 report
-proposes opening it to precisely the population the 1971 report names as the problem. Neither
-acknowledges the other. This is the last recorded institutional discussion of the property, and it is the
-nearest thing to a reason the record has for what follows. [f_5671]
+proposes opening it to precisely the population the 1971 report names as the problem. This is the last
+recorded institutional discussion of the property, and it is the nearest thing to a reason the record has
+for what follows. [f_5671]
+
+*(Corrected within the hour, 2026-09-07. This paragraph first ended "Neither acknowledges the other,"
+which is wrong.* **The 1971 report has the 1970 proposal in front of it**, on a different page from its
+Becsies recommendation: "Last year's report suggested usage of it for youth travelers as they travelled
+through Canada. A resource person on the site working or available to them would be one suggestion. This
+could be funded through a special resource and provide the youth with a much needed area to feel
+'welcome' at. **The other alternative is to sell the property** and use the results to purchase land
+further north."^17 *The director restated the earlier proposal fairly, costed it, and set the sale beside
+it — so this is an institution weighing whether to become a youth hostel and deciding against, not one
+that forgot what it had said. That is better evidence than the version first written here. The error came
+from reading the report's recommendation list and its Becsies paragraph without reading its hike-and-trip
+section.)*
 
 ## After the YMCA (1971–present)
 

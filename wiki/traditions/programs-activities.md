@@ -449,6 +449,26 @@ A press release of 13 May 1969, sent to the *Gazette* and the suburban weeklies,
 
 "**In 1968 it was girls and horses.** In response to enthusiastic requests from parents, **capacity of the co-ed sections is being doubled**."^nr69 Horseback riding arrived in the same season as the girls, and it appears in this article nowhere else. The doubling matters for a different reason: it is a plain explanation of why some sources point at 1969 as the year of coeducation. 1968 was the first year and 1969 was the expansion, and the association's press office attributes the expansion to parent demand.
 
+**And here is what the horses actually were, three years on.** This wiki has recorded the arrival of
+riding and nothing about how it ran or when it stopped. The 1971 director's report gives the programme at
+its fullest: "The program went extremely well this summer with **trail riding, lunch rides and overnight
+trips**. **Special stalls were built at two locations on camp property** so the horses could be used for
+overnight rides. Most of the Campers received sufficient riding time and many 'horsemanship' awards were
+presented to proud campers." It was not only riding — "actual grooming, preparing and understanding of
+horses was included" — and campers volunteered their own time at the stables, which Julien Tasse had put
+"in excellent condition" during pre-camp.^kk71
+
+What went wrong was logistics rather than the programme: "communications proved to be a problem here due
+to (a) **the distance of the stables to the camp** and (b) the uncertainty as to who was on staff or
+helping at the stables."
+
+And then the recommendation: "**That the riding program be discontinued as a part of Kanawana program.**
+It may be re-considered as one particular program separate from all others for those whose interests move
+in that direction. It is an expensive (**too expensive**) program for Kanawana at the present time."
+Note the parenthesis — the director wrote "expensive" and then corrected himself on the page. **This is a
+recommendation, not a record of closure**, and whether the horses came back is not established here.^kk71
+[f_5672]
+
 **The French-language thread of these years is at [[traditions/french-language-camping|French-Language Camping and Kanawana, 1967-1973]].** Kanawana ran a residential French immersion section for English-speaking boys aged 12 to 16 in 1969, called "Living-in-French", and it was one branch of a Montreal YMCA programme that had been running French-language day camps for immigrant children since 1967. That article carries the two 1969 press releases, the day camps' proposal and season report, and the Mile End West submission of January 1971.
 
 **Staffing and the rest of the programme.** "In addition to section directors, supervisors, a diversified team of activity specialists, a resident doctor and nurse, and a **dietician** — Kanawana's staff includes **one counsellor for every seven campers**."^nr69 The seven-camper unit of the 1955 and 1958 reports was still the unit fourteen years later. The activity list adds two items new to this article: "horseback riding; swimming; canoeing; rowing; sailing; arts & crafts; **skin diving**; naturelore; archery; **riflery**; hiking; sports instruction."
@@ -811,6 +831,7 @@ report does not say so, and this article does not assume it.
 - **vfl** — YMCA of Montreal annual reports for the years ending **31 December 1955**, **1957** and **1958** [src_ymf_sgw_ymca_annual_report_1955, src_ymf_sgw_ymca_annual_report_1957, src_ymf_sgw_ymca_annual_report_1958]. December-year volumes, so their seasons are 1955, 1957 and 1958 (see [f_5081]). Camps sections read 2026-09-06 under p_441. See [f_5084], [f_5086].
 - **pgd** — YMCA of Montreal annual reports for the years ending **31 December 1960** and **31 December 1961** [src_ymf_sgw_ymca_annual_report_1960, src_ymf_sgw_ymca_annual_report_1961]. December-year volumes, so their seasons are 1960 and 1961 (see [f_5081]). Camps sections read 2026-09-06 under p_441. See [f_5088], [f_5087].
 - **nr69** — Montreal YMCA news release, **13 May 1969**, "YMCA's Kamp Kanawana Set for Record Summer," quoting Geoff Anderson, Director of Kanawana [src_ymf_news_release_1969_05_13_202501]. Cached at `sources/cache/ymca-montreal-fonds/news-release-1969-05-13_202501.txt`; read 2026-09-06 under p_451. See [f_5100].
+- **kk71** — *Kamp Kanawana Director's Report 1971* [src_ia_kanawana_report_1971], cached at `sources/cache/ymca-montreal-fonds/1971-kamp-kanawana-directors-report.txt`; its RIDING section and that section's recommendation. Read 2026-09-07 under `p_491`. See [f_5672].
 
 ## Research Notes
 
