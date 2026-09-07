@@ -4288,3 +4288,24 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   BOTH SOURCES MARKED read_state "partial": the Kanawana entries were read, the
   volumes were not. Reading a name out of a roster is not reading an annual report.
   NEW: f_5541; kb 10.05 -> 10.06. Verify green. Timestamp read from `date -u`.
+
+2026-09-07T11:33Z  p_482: the annual report series is exhausted. A clean-read record.
+  Read the 1982-83, 1984 and 1985 French annual reports for their Kanawana entries.
+  THEY PRODUCED NOTHING NEW, and the way they failed is worth writing down.
+  I noticed that the "seventy-five years of service" figure repeats across 1983, 1984
+  and 1985 without incrementing, thought it a find about reused marketing copy, and
+  went to write it up. IT IS ALREADY THE ARTICLE'S OWN POINT: oldest-camp-question.md
+  states that the site-based count "held from at least 1929 to at least 1985". The
+  1984 "soixante-quinze annees de service... plus de 34 000 personnes" and the 1985
+  "accueille depuis 75 ans des jeunes de 6 a 18 ans" are the FRENCH TWINS of passages
+  already quoted there in English.
+  RUNNING TALLY FOR THE ANNUAL REPORTS: seven volumes sampled today across 1917-2016.
+  Six were already fully worked. One was not -- the 1920 asset schedule. THE SERIES
+  SHOULD BE TREATED AS EXHAUSTED unless a specific question sends someone back.
+  AND ONE INTUITION DOES NOT GENERALISE. Rule 50's lesson was that a French half can
+  carry what the English lacks; that held for the Montreal Fact and for ka-news. It
+  DOES NOT HOLD for the annual reports, which are straight translations. Recorded at
+  f_5542 so the remaining French reports are not read on the strength of it.
+  All three marked read_state "partial" with a basis saying read-and-empty, because
+  an item read to no result must not look like an item never opened.
+  NEW: f_5542; kb 10.06 -> 10.07. Verify green. Timestamp read from `date -u`.
