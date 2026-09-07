@@ -6125,3 +6125,34 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   camp office address that appears at 1435 by 2006 against 1441 through 2001.
   Fourth destination-grep save of the day, and the most expensive.
   f_5624. facts.json v10.33, 5,586 facts. Verify green. Timestamp from `date -u`.
+
+[2026-09-07T16:09:30Z] REVIEW -- p_491 first pass, and my own measurement was
+  too loose. Of the five facts I named as starting points, only THREE were
+  genuinely orphaned from camp-otoreke.md. f_5037 (Thunderbird) is used in
+  camp-perrot.md and has its own article; it cites a report the Otoreke article
+  does not, but it is not Otoreke's material. f_5038 was settled the same day
+  and belongs to attendance-series.md. COUNTING BY SOURCE RATHER THAN BY SUBJECT
+  OVER-COUNTED BY ABOUT HALF, and the revised rule is written into p_491.
+  THE THREE THAT WERE REAL ARE NOW IN THE ARTICLE.
+  WHO GOVERNED THE CAMP, which a 17,000-word article had never said. The 1956
+  report lists "Branch Chairmen" -- eleven branches -- and ends the list with
+  "DONALD DEWAR - Boys' Camping" and "DAVID SHANKS - CAMP OTOREKE", the camps
+  listed AMONG the branches rather than beneath them. By 1959 they have their
+  own heading, "Camp Chairmen": Gordon Mackey for Boys' Camping, GORDON POIRIER
+  for the Otoreke Camp Committee. Shanks and Poirier appeared nowhere in this
+  article and nowhere in the wiki outside the directors index. AND THE ASYMMETRY
+  IS THE POINT: Boys' Camping is a PORTFOLIO over the boys' camps, while Otoreke
+  has a committee named for itself -- by then a coeducational adult and family
+  camp of 1,500 people over five months, governed as its own thing.
+  CHRISTIEVILLE COUNTED AS A CAMP, not an outbuilding: the 1953 and 1954
+  property lists give "the Christieville Ski Lodge... a winter camp for young
+  adults, located 60 miles north of Montreal. ITS TWO LODGES are also the
+  property of the Montreal Y.M.C.A." -- same form as Kanawana and Perrot, and
+  TWO buildings.
+  AND OTOREKE TOOK 1,052 IN 1964, against 1,507 in 1962 -- a fall of a third in
+  two years, in the years McKay was running it and the reports described the
+  site as improving. Recorded WITHOUT claiming a trend; two points are not one.
+  citation_aim caught my own source note: the sentence carrying [f_5083] and
+  [f_5094] shared no name, year or number with either. Reworded so each fact id
+  sits beside the years it covers. The check works on notes as well as prose.
+  Verify green, nine checks. Timestamp from `date -u` in its own call.

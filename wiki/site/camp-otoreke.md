@@ -1,7 +1,7 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 60*
-*Last Updated: 2026-09-07 (McKay dated to May 1962, the 1,507-camper season, and French Canadian campers arriving)*
+*Status: E1-reviewed | Sources: 62*
+*Last Updated: 2026-09-07 (McKay dated to May 1962; the 1,507-camper season; and who was responsible for the camp)*
 
 ## Overview
 
@@ -905,6 +905,49 @@ it.
 
 **So-Ed** is the YMCA's Social-Educational programme, and neither it nor "Youth Cultural Exchange" occurs anywhere else in this project. *A calendar announces rather than reports*, so who came, from where, and whether it happened at all are unknown here. The timing is the part worth holding on to: Kanawana's own [[history/centennial-1967|Voyageurs de la Vérendrye centenary journey]] ran that same summer, so the association was mounting two differently framed youth events at its two camps in the same weeks.
 
+## Two figures and a lodge count, from reports this article was not citing
+
+**Christieville was counted as a camp, not as an outbuilding.** The annual reports for 1953 and 1954 list
+the association's properties and include "**the Christieville Ski Lodge, at Christieville, Quebec, a winter
+camp for young adults, located 60 miles north of Montréal. ITS TWO LODGES are also the property of the
+Montreal Y.M.C.A.**"^62 This article has Christieville throughout as a place attached to Otoreke and as the
+1940s site choice; here the association describes it in its own right, in the same paragraph and the same
+form as Kanawana and Perrot, and gives it **two buildings** rather than one. See
+[[site/camp-otoreke#the-ski-lodge-and-winter-operations-1940-1961-or-later|the ski lodge section]] above,
+which describes the operation but not its standing in the property list.
+
+**And one more attendance figure: Otoreke took 1,052 young men and women in 1964.**^62 Set beside the 1,507
+of 1962 recorded above, that is a fall of a third in two years, in the years Colin McKay was running the
+camp and the reports were describing the site as improving. Two data points are not a trend and this article
+does not claim one; the figures are recorded so that a third, when it turns up, has something to sit
+against.
+
+## Who was responsible for it, 1956 and 1959
+
+This article describes the camp at length and has never said who governed it. Two annual reports name the
+lay chairman, and they show the camp's standing inside the association changing between them.^61
+
+The report for the year ending **31 December 1956** prints a list headed "**Branch Chairmen**" — Central,
+International, Lachine, Notre Dame de Grace, Sir George Williams College, Lakeshore, Montreal East,
+Northeastern, Northmount, Southwestern, Westmount — and then ends it with two entries that are not branches
+at all: "**Donald Dewar — Boys' Camping**" and "**David Shanks — Camp Otoreke**." The camps were listed
+*among* the branches rather than beneath them, which is a statement about where camping sat in the
+association's own organisation chart, and it puts Otoreke on the same line as the Central Branch.
+
+By the report for the year ending **31 December 1959** the two have their own heading, "**Camp Chairmen**":
+"**Boys' Camping Committee — Gordon Mackey**" and "**Otoreke Camp Committee — Gordon Poirier**." So Otoreke
+had a standing committee of its own with a named chair, and the chairmanship changed hands from **David
+Shanks** to **Gordon Poirier** somewhere between 1956 and 1959.
+
+Both men are new to this article, and neither appears anywhere in this wiki outside
+[[people/directors-index|the directors index]]. Nothing further is known of either: no first appearance, no
+departure, no other office. The lay side of Otoreke's governance is a single line in two reports.
+
+**Note the asymmetry it exposes.** Boys' Camping — Kanawana's committee — is a *portfolio* covering the
+boys' camps, while Otoreke has a committee named for itself. Otoreke was, by these years, a coeducational
+adult and family camp serving more than 1,500 people over a five-month season, and the association
+governed it as its own thing rather than as part of a camping department.
+
 ## Relationship to Kanawana
 
 Camp Otoreke remained connected to Kanawana as an outpost and trip destination throughout its history:
@@ -1079,6 +1122,8 @@ centre. It is the same kind of use, twenty years earlier, that
 58. "Build A Better Future" — Sir George Williams College building-fund prospectus, 1952 [src_sgw_build_a_better_future_1952]. The camp names are labels on a map captioned "Here is your Y.M.C.A. of Greater Montreal", not prose; transcribed with that caveat at `sources/cache/sgw-publications/2026-09-07-build-a-better-future-1952-map.txt`. See [f_5445].
 59. YMCA news release, **14 June 1963** [src_ymf_news_release_1963_06_14_2]. Cached at `sources/cache/ymca-montreal-fonds/news-release-1963-06-14-2.txt`; read word for word 2026-09-07 under p_482.
 60. YMCA of Montreal annual report for **1962**, the Camp Otoreke section [src_ymf_sgw_ymca_annual_report_1962]. Held at read_state *partial* — its camps listing and title page had been read, the rest had not; read 2026-09-07 under p_490. See [f_5622].
+61. YMCA of Montreal annual reports for the years ending **31 December 1956** and **31 December 1959** [src_ymf_sgw_ymca_annual_report_1956, src_ymf_sgw_ymca_annual_report_1959], the branch- and camp-chairman lists. Read 2026-09-06 under p_441 and extracted at [f_5080]; brought into **this** article 2026-09-07 under p_491, which exists because the article was not citing reports whose Otoreke content the project already held.
+62. YMCA of Montreal annual reports for the years ending **31 December 1953**, **1954**, **1964** and **1965** [src_ymf_sgw_ymca_annual_report_1953, src_ymf_sgw_ymca_annual_report_1954, src_ymf_sgw_ymca_annual_report_1964, src_ymf_sgw_ymca_annual_report_1965]. The **1953** and **1954** volumes, describing the Christieville Ski Lodge and its two lodges, are at [f_5083]; the **1964** and **1965** volumes, with Otoreke's 1,052 campers, are at [f_5094]. Both were read 2026-09-06 under p_441 and brought into **this** article 2026-09-07 under p_491.
 
 ## Research Notes
 
