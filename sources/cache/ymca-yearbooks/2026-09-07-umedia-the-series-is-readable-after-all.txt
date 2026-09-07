@@ -589,3 +589,38 @@ SECRETARY, the route his colleagues took. It says nothing about military enlistm
 leaves no mark in a YMCA roster. So the Canadian Expeditionary Force personnel records are MORE
 worth the effort for Cross than for Holliday, not less: an enlisted man leaves a service file,
 where a YMCA officer "released from regular Y. M. C. A. work for this special service" may not.
+
+
+==========================================================================================
+TENTH PASS — THE WAR-SERVICE SECTION'S OWN KEY, WHICH IS ON EACH SUB-LIST'S FIRST PAGE
+==========================================================================================
+
+THE SYMBOL LEFT UNEXPLAINED IN THE EIGHTH PASS IS RESOLVED. The key was not on any of the pages
+read then because IT SITS ON THE FIRST PAGE OF EACH SUB-LIST, not once at the section's front.
+
+  record 15816 (1917-18 volume):
+    "SECRETARIES OF NATIONAL WAR WORK COUNCIL / HOME FIELD / June 1, 1918 /
+     (dagger) Released from Regular Y. M. C. A. Work for this Special Service"
+  record 15840 (same volume, page 459):
+    "SECRETARIES AND OTHERS IN WAR SERVICE / IN FOREIGN COUNTRIES / June 1, 1918 /
+     (dagger) Released from Regular Y. M. C. A. Work for this Special Service"
+
+THE DAGGER MARKS A SERVING YMCA OFFICER SENT TO WAR WORK, as against someone recruited for the
+war. It OCRs as "t" or "f" prefixed to the surname.
+
+SO KENNETH J. HOLLINSHEAD -- who carries the dagger and sits in the FOREIGN COUNTRIES list --
+was abroad in YMCA war work as of 1 JUNE 1918, and was a regular officer released for it.
+
+AND HE IS ON THE AMERICAN COUNCIL'S LIST, NOT THE CANADIAN ONE THAT CARRIES HOLLIDAY. That fits:
+the 1910 Montreal report introduces him as coming "of Albion College, Michigan". The two men who
+ran Montreal's boys' work across the 1910s both ended in war service, by two different national
+organisations.
+
+FORMAT NOTE THAT EXPLAINS THE EARLIER CONFUSION: the HOME FIELD list gives "Surname, Initials,
+Posting" ("Ballard, J. H., Camp Merritt, N. J."); the FOREIGN COUNTRIES list gives FULL GIVEN
+NAMES AND NO POSTING ("Bogardus, Rollins", "Boisen, Anton Theophilus"). A change of format inside
+one running head is a change of list.
+
+AND THE LESSON FOR ANYONE HUNTING THESE: THE SERIES PUTS SEVERAL DATED LISTS IN ONE VOLUME under
+one running head. Searching for a single heading will not find them all. Walk the records
+backwards from a known page until the format or the date changes.
