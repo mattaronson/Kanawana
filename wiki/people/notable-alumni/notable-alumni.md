@@ -1,6 +1,6 @@
 # Notable Alumni of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 42*
+*Status: E1-reviewed | Sources: 43*
 *Last Updated: 2026-07-11*
 
 ## Overview
@@ -90,6 +90,21 @@ Career "seeded at" Camp Kanawana per his obituary, alongside Manor Road United C
 ### George Clouston (d. 2011)
 
 "Enthusiastic volunteer and member" of the YMCA and its Kamp Kanawana "as a young man while attending West Hill High School" in Montreal.^35
+
+**The name appears in two other roles in this wiki, and nothing joins them.** A **George Clouston** sits
+on Camp Perrot's committee in its 1954 annual report and is its **Vice-Chairman** by 1958 under Gordon
+Mackey, and sat on the association's Boys' Camping Committee beside Hedley Dimock, O. N. H. Owens and Dr.
+Preston Robb — see [[site/camp-perrot|Camp Perrot]] and [[people/murray-shantz|Murray Shantz]]. And
+Kanawana's own directors' reports thank "**the Clouston Company for the loan of a drink machine**" in
+**1977** and again in **1979**, among the season's acknowledgements.^43
+
+A Montreal business family whose principal served on the camps' committees in the 1950s and whose firm
+was still lending equipment in the 1970s is an ordinary and coherent picture, and the chronology allows
+it: a West Hill High School boy of the 1930s or 1940s would be in his thirties in 1958. **But that is a
+name pattern, not an identification**, and none of the three documents mentions any other. The one
+source that might settle it — the obituary itself, which would ordinarily give a birth year and often
+lists committee service — is on Legacy.com and **403-blocked for automated fetch**; everything held here
+from it is the single sentence above. It needs an operator's browser.
 
 ### Douglas Warren Marston (c. 1918–2011)
 
@@ -189,6 +204,7 @@ establishes: a former counsellor and section leader, and a camp parent.
 40. Prabook, "Charles Smillie Buckland." URL: https://prabook.com/web/charles_smillie.buckland/3371993
 41. Wong, Jessica. "With camps, summer programs awaiting the go-ahead, what are kids in for this summer?" *CBC News*, 29 April 2021 [src_cbc_wong_camps_2021]. Names Verna as counsellor and section leader at Kanawana; makes no claim about any other career. See [f_0924].
 42. Wikipedia, "Gaëtane Verna" [src_wikipedia_gaetane_verna]; Wexner Center and OSU biographies. Held only as the comparison biography for the identification question — none of them mentions Kanawana, the YMCA, or summer camp. See [f_2257].
+43. Kamp Kanawana directors' reports for **1977** [src_ia_kanawana_report_1977] and **1979** [src_ia_kanawana_report_1979], each thanking "the Clouston Company for the loan of a drink machine"; and Camp Perrot's **1954** annual report [src_ymf_1954_camp_perrot_annual_report], which lists a **George Clouston** on its committee. The three Clouston roles, and why they are not joined here, are at [f_5648].
 
 ## Research Notes
 

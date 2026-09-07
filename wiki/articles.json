@@ -6952,7 +6952,11 @@
         "f_1890",
         "f_1882"
       ],
-      "sources_cited": [],
+      "sources_cited": [
+        "src_ia_kanawana_report_1977",
+        "src_ia_kanawana_report_1979",
+        "src_ymf_1954_camp_perrot_annual_report"
+      ],
       "open_questions": 4,
       "cross_links": [
         "bruce-netherwood",
@@ -6970,10 +6974,12 @@
         "sean-day",
         "stuart-mclean",
         "terry-mosher",
-        "traditions-and-culture"
+        "traditions-and-culture",
+        "site/camp-perrot",
+        "people/murray-shantz"
       ],
       "file_id": null,
-      "word_count": 2772,
+      "word_count": 3030,
       "tags": {
         "era": [
           "1910s",

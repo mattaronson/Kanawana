@@ -6064,6 +6064,20 @@
       "notes": "",
       "tier": "",
       "weight": 6
+    },
+    {
+      "priority_id": "p_498",
+      "rank": 9,
+      "type": "VERIFY",
+      "article_id": "notable-alumni",
+      "description": "OPERATOR: READ THE GEORGE CLOUSTON OBITUARY IN A BROWSER. Raised 2026-09-07 from f_5648. The name CLOUSTON occurs in three unconnected roles in this wiki across sixty years and nothing joins any two: (1) George Clouston, d. 2011, an 'enthusiastic volunteer and member' of the YMCA and Kanawana 'as a young man while attending West Hill High School'; (2) a George Clouston on Camp Perrot's committee in 1954 and its VICE-CHAIRMAN by 1958, also on the Boys' Camping Committee beside Hedley Dimock, O. N. H. Owens and Dr. Preston Robb; (3) 'the Clouston Company', thanked in Kanawana's own directors' reports of 1977 and 1979 for the loan of a drink machine. THE CHRONOLOGY ALLOWS ONE MAN OR ONE FAMILY -- a West Hill boy of the 1930s or 1940s is in his thirties in 1958 -- BUT A NAME MATCH IS NOT AN IDENTIFICATION and the articles say so. THE TEST IS THE OBITUARY: it would ordinarily give a birth year and obituaries of committee men usually list committee service. src_clouston_obituary is https://www.legacy.com/us/obituaries/legacyremembers/george-clouston-obituary?id=42863406 and is 403-BLOCKED for automated fetch from this environment -- its source record carries no cache and char_count 0, and the single sentence already extracted is everything this project has from it. AN OPERATOR WITH A BROWSER CAN SETTLE IN ONE MINUTE WHAT NO AMOUNT OF SEARCHING HERE WILL. If it names YMCA or camp committee service, or gives a birth year before about 1930, the three collapse into one man and camp-perrot.md, murray-shantz.md and notable-alumni.md should be joined. If it does not, leave them separate and say the test was run.",
+      "blocking": true,
+      "assigned_weight": "",
+      "created_at": "",
+      "status": "open",
+      "notes": "",
+      "tier": "",
+      "weight": 4
     }
   ],
   "queue_ordering": {

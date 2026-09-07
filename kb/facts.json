@@ -1,8 +1,8 @@
 {
-  "version": "10.60",
-  "kb_version": "10.60",
+  "version": "10.61",
+  "kb_version": "10.61",
   "migrated_from": "3.3",
-  "fact_count": 5609,
+  "fact_count": 5610,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101108,6 +101108,28 @@
       "date_ref": "1936",
       "conflicts_with": [],
       "added_version": "10.60",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5648",
+      "claim": "THE NAME CLOUSTON APPEARS IN THREE UNCONNECTED ROLES ACROSS SIXTY YEARS, AND NOTHING JOINS ANY TWO OF THEM. Raised under p_492 while checking whether the obituary cluster in notable-alumni.md was already covered. It was; this is what checking it turned up instead. The wiki carries all three mentions in three different articles and none references another.\n\n(1) A CAMPER OR VOLUNTEER. George Clouston, died 2011, described in his obituary as 'an enthusiastic volunteer and member' of the YMCA and its Kamp Kanawana 'AS A YOUNG MAN WHILE ATTENDING WEST HILL HIGH SCHOOL' in Montreal (f_1438). In people/notable-alumni/notable-alumni.md.\n(2) A COMMITTEE MAN. 'George Clouston' is on Camp Perrot's committee list in the 1954 annual report, and the 1958 report makes him VICE-CHAIRMAN under Gordon Mackey; he also sat on the association's Boys' Camping Committee beside Hedley Dimock, O. N. H. Owens and Dr. Preston Robb, and appears in the Voyageurs material with Roy D. Locke and Marshall Lebeau. In site/camp-perrot.md, site/les-voyageurs-de-la-verendrye.md and people/murray-shantz.md.\n(3) A COMPANY. Kanawana's own directors' reports thank 'THE CLOUSTON COMPANY FOR THE LOAN OF A DRINK MACHINE' in 1977 and again in 1979 -- a Montreal firm supplying the camp, listed among the season's acknowledgements beside Tom Thompson's donation of 4,000 camp postcards. In no article at all.\n\nWHAT CAN AND CANNOT BE SAID. A Montreal business family whose principal sat on the camps' committees in the 1950s and whose company was still lending equipment in the 1970s is an ORDINARY AND COHERENT PICTURE, and the chronology allows the 2011 obituary's schoolboy to be the 1958 vice-chairman -- a West Hill High School boy of the 1930s or 1940s would be in his thirties in 1958. BUT THAT IS A NAME PATTERN, NOT AN IDENTIFICATION, and this project's standard is explicit that a name match is not one. No document read here joins any two of the three.\n\nTHE ONE SOURCE THAT MIGHT SETTLE IT CANNOT BE READ FROM HERE. src_clouston_obituary is Legacy.com and is 403-blocked for automated fetch; its record carries no cache and char_count 0, and everything this project has from it is the single sentence already extracted. An obituary would ordinarily give a birth year and often lists committee service. THAT IS THE TEST, and it needs an operator's browser.\n\nTHE DRINK MACHINE IS ALSO A SMALL FACT IN ITS OWN RIGHT, and it is new: the camp's 1977 and 1979 reports thank LOCAL BUSINESSES by name for loans and donations, which is a supply relationship this project has not otherwise documented.",
+      "sources": [
+        "src_ia_kanawana_report_1977",
+        "src_ia_kanawana_report_1979",
+        "src_ymf_1954_camp_perrot_annual_report",
+        "src_clouston_obituary"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "George Clouston",
+        "Clouston Company",
+        "Camp Perrot",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1954-2011",
+      "conflicts_with": [],
+      "added_version": "10.61",
       "added_by": "ralph_loop"
     }
   ]
