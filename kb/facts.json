@@ -1,8 +1,8 @@
 {
-  "version": "10.92",
-  "kb_version": "10.92",
+  "version": "10.93",
+  "kb_version": "10.93",
   "migrated_from": "3.3",
-  "fact_count": 5657,
+  "fact_count": 5661,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -97270,7 +97270,7 @@
       ],
       "claim": "KANAWANA CANOE PARTIES USED CAMP PERROT AS A STOP IN 1948, AND PERROT COUNTED THEM. The 1948 season report's table of overnight boys' hike groups using the property lists, among Central, Westmount, Southwestern and Point St. Charles Y boys: 'KANAWANA CANOE PARTIES (2 VISITS) 20'. This wiki's canoe-trips article records that by 1945 the routes were codified into a tiered system including '7-8 day trips to Ile Perrot and Grenville for intermediates', which is Kanawana's own account of where its trippers went. THIS IS THE OTHER END OF IT -- the receiving camp counting the parties that arrived, twice in one season, twenty boys in all. It also puts the two YMCA camps in an operational relationship rather than merely an institutional one: Kanawana's intermediate trippers paddled to the association's other camp and slept there.",
       "sources": [
-        "src_ymf_1948_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls"
+        "src_ymf_1948_camp_perrot_season_report"
       ],
       "confidence": "stated",
       "conflicts_with": [],
@@ -97289,7 +97289,7 @@
       ],
       "claim": "A KANAWANA STAFF DOCTOR TURNS UP AT CAMP PERROT, AND NEITHER PHYSICIAN OCCURS ANYWHERE ELSE IN THIS PROJECT. From the 1948 report's Health and Safety section: 'DR. KELSO OF ST. ANNE'S again gave unstintingly of his skill and professional services... When Dr. Kelso left on his holidays he asked the doctor taking over his practice to keep a watchful eye on his wards. DR. LOUGHEED, HIS SUCCESSOR, CONTINUED THE INTEREST IN OUR CAMP AND WE WERE AGREEABLY SURPRISED TO LEARN THAT DR. LOUGHEED HAD FORMERLY BEEN ON THE STAFF OF KAMP KANAWANA.' Both appear again in the staff roster under HOSPITAL, beside Miss Marie Comeau, R.N. Greped before writing: 'Kelso' and 'Lougheed' occur ZERO times across wiki/, kb/facts.json, project-docs/ and sources/sources.json. WHAT THIS GIVES AND WHAT IT DOES NOT: a named medical member of Kanawana's own staff, a category this project has almost nothing in -- but with no year for that service and no first name. It also documents the mechanism by which a country doctor's unpaid camp duty passed to his locum, and that Dr. Kelso of Sainte-Anne-de-Bellevue had served more than one season ('again').",
       "sources": [
-        "src_ymf_1948_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls"
+        "src_ymf_1948_camp_perrot_season_report"
       ],
       "confidence": "stated",
       "conflicts_with": [],
@@ -97303,12 +97303,14 @@
       "entities": [
         "Camp Perrot"
       ],
-      "claim": "CAMP PERROT'S 1948, THE 'BUILDING YEAR', FROM A SEASON REPORT THIS PROJECT HAD NEVER READ. THE SEASON: the fifth, eight weeks against nine in 1947, with the girls given only two (9-23 August); 251 different campers (162 boys, 89 girls) against 260 in 1947; 546 branch registrations led by the camp office (195) and Lachine (133); 800 parents and friends visiting on Sundays, brought by a special Provincial Transport Company bus; 96 boys passing swim tests; 90 boys on one-day and 63 on overnight canoe trips; and 920 people in non-camping use of the property by twenty-odd organisations before, during and after the season. THE BUILDINGS: a new DINING HALL for 160 campers and staff or 250 for day groups, judged usable year-round including 'small beginner ski parties in the winter', inaugurated TUESDAY 29 JUNE 1948 with COL. GERALD W. BIRKS officiating, its fireplace stonework carried to the roof to make a 'Hearth' for the camp; a kitchen with an 80-gallon jack-heater, automatic electric refrigeration, a cooler room, an automatic bread and meat cutter and a drilled well pumping forty gallons a minute; and the JOHN W. ROSS MEMORIAL HOSPITAL -- surgery, nurse's bed-sitting room, a four-bed ward and an outside convalescent porch -- DEDICATED SUNDAY AFTERNOON 8 AUGUST 1948, the Rev. Leonard Griffiths officiating, Mr. J. W. Beaton speaking on Dr. Ross's life and Mr. JOHN F. LEWIS, Chairman of the Camp Committee, presiding, with the Association 'deeply indebted to Mr. J. Ernest Millen and his family for his very generous bequest'. NAMES: contractor E. LEDUC (who also built the camp's new six-drum raft), architect E. WIGGS, building superintendent L. CLARKE, and H. C. CROSS among the Board of Management friends who dropped in -- see people/harold-cross. The Foremen's Club of Montreal under N. MILLINGTON took the old barn as a service project, laying a new floor and wiring it for a future recreation hall. A 1929 Ford station-wagon was sold to buy a 1935 ton-and-a-half truck whose motor had to be replaced at mid-season. TRAINING: every counsellor received a specially prepared TWELVE-PAGE 'Camp Perrot Counsellors Training Course' booklet, 'a digest of many books, articles and the experience of the Camp Director'; all boys' and girls' counsellors met at camp for a combined course on the weekend of 25-27 June; and over 50 per cent of 1947's leaders returned. ONE AMBIGUITY LEFT OPEN: the Chapel section calls MR. HERB PATTERSON 'the Camp Director' while the report is signed A. T. DODDS, Camp Director. Nothing here reconciles them.",
+      "claim": "CAMP PERROT'S 1948, THE 'BUILDING YEAR', FROM A SEASON REPORT THIS PROJECT HAD NEVER READ. THE SEASON: the fifth, eight weeks against nine in 1947, with the girls given only two (9-23 August); 251 different campers (162 boys, 89 girls) against 260 in 1947; 546 branch registrations led by the camp office (195) and Lachine (133); 800 parents and friends visiting on Sundays, brought by a special Provincial Transport Company bus; 96 boys passing swim tests; 90 boys on one-day and 63 on overnight canoe trips; and 920 people in non-camping use of the property by twenty-odd organisations before, during and after the season. THE BUILDINGS: a new DINING HALL for 160 campers and staff or 250 for day groups, judged usable year-round including 'small beginner ski parties in the winter', inaugurated TUESDAY 29 JUNE 1948 with COL. GERALD W. BIRKS officiating, its fireplace stonework carried to the roof to make a 'Hearth' for the camp; a kitchen with an 80-gallon jack-heater, automatic electric refrigeration, a cooler room, an automatic bread and meat cutter and a drilled well pumping forty gallons a minute; and the JOHN W. ROSS MEMORIAL HOSPITAL -- surgery, nurse's bed-sitting room, a four-bed ward and an outside convalescent porch -- DEDICATED SUNDAY AFTERNOON 8 AUGUST 1948, the Rev. Leonard Griffiths officiating, Mr. J. W. Beaton speaking on Dr. Ross's life and Mr. JOHN F. LEWIS, Chairman of the Camp Committee, presiding, with the Association 'deeply indebted to Mr. J. Ernest Millen and his family for his very generous bequest'. NAMES: contractor E. LEDUC (who also built the camp's new six-drum raft), architect E. WIGGS, building superintendent L. CLARKE, and H. C. CROSS among the Board of Management friends who dropped in -- see people/harold-cross. The Foremen's Club of Montreal under N. MILLINGTON took the old barn as a service project, laying a new floor and wiring it for a future recreation hall. A 1929 Ford station-wagon was sold to buy a 1935 ton-and-a-half truck whose motor had to be replaced at mid-season. TRAINING: every counsellor received a specially prepared TWELVE-PAGE 'Camp Perrot Counsellors Training Course' booklet, 'a digest of many books, articles and the experience of the Camp Director'; all boys' and girls' counsellors met at camp for a combined course on the weekend of 25-27 June; and over 50 per cent of 1947's leaders returned. ONE AMBIGUITY LEFT OPEN: the Chapel section calls MR. HERB PATTERSON 'the Camp Director' while the report is signed A. T. DODDS, Camp Director. Nothing here reconciles them. || CORRECTED 2026-09-07 (f_5697), the superseded wording left standing above. '546 branch registrations led by the camp office (195) and Lachine (133)' should read 536 CAMPER-WEEKS led by the camp office at 175 and Lachine at 133. The table is denominated in camper-weeks, not registrations, and its printed column totals and two of its row totals are OCR damage that the table's own arithmetic exposes once the columns are summed. The girls' column sums to 178, the 1948 girls' camper-week figure printed independently in the 1952 report.",
       "sources": [
-        "src_ymf_1948_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls"
+        "src_ymf_1948_camp_perrot_season_report"
       ],
       "confidence": "stated",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "f_5697"
+      ],
       "added_version": "9.64",
       "added_by": "ralph_loop"
     },
@@ -101985,6 +101987,86 @@
       "date_ref": "1969",
       "conflicts_with": [],
       "added_version": "10.92",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5696",
+      "claim": "CAMP PERROT'S GIRLS' CAMP FILED ITS OWN SIGNED REPORT IN 1948, AND THIS PROJECT HAD NEVER USED A LINE OF IT. The last third of the 1948 season report is a separate document signed VERLIE DODDS, Girls Camp Directress, headed 'GIRLS CAMP, AUGUST 9TH - 23RD, 1948'. ITS FIRST SENTENCE DATES THE GIRLS' CAMP TO THE CAMP'S OWN FIRST SEASON: 'The fifth season for Girls Camp was a happy experience with the largest enrolment to-date, of 89 campers.' Fifth in 1948 counts back to 1944, so girls were at Isle Perrot from the beginning and not from the second season, which is as far back as this wiki's by-sex table reaches. STAFF: Program Directress CAROL HAMMOND, Waterfront Directress MARILYN MATHEWS, Senior Counsellor BESS CLEMENTS, Chef MRS. INA BOGLE, Nurse MISS MARIE COMEAU R.N.; a Senior Section for twelve and over under Carol Hammond (Joan Allton, Joan Deachman, Gladys Hinchcliff, Brenda Lamb, Janet Preston, Hilary Spriggs) and a Junior Section for under twelve under Marilyn Mathews (Lynn Bowering, Myrna Chislett, Carol Dollison, Caireen Elliott as spare, Joan Henley, Nina Long, June Petrie). THE ROSTER CARRIES ITS OWN PROGRESSION LEGEND, which is rare in this project's documents: 'X Counsellor last year' marks Hinchcliff, Lamb, Dollison, Henley and Petrie; 'C Last year's camper' marks Bowering and Chislett -- two camper-to-counsellor promotions identified by the camp itself rather than inferred by name-matching. PROGRAMME, in the report's own numbered list: opening and closing torchlight camp-fire parades; Stunt Night; Campers' Day, where 'a campers' staff, elected by popular vote, took over camp-administration and program for one day'; Masquerade; Hayride and Weiner Roast; Olympic Day ending with 'Crowning of Olympic Queen at evening camp-fire'; 'Indian Night - Colourful event in Council Circle: Hiawatha's arrival by canoe; feats of skill by \"Braves\"; Peace Pipe Ceremony'; Movies; a Lumberjack Dinner; a visit from eight members of the Kinsmen's Club of Lachine who brought movies, a corn roast and ice cream; and a Closing Banquet in the new Dining Hall followed by 'The Perrot Follies, capably directed by Carol Hammond'. AND TWO OUT-OF-SEASON HOLIDAYS KEPT IN AUGUST: 'Christmas Party: The christmas tree, a donation from the Mayor of Ile Perrot, was placed beside the fire-place in the Dining Hall. The Camp Director, as Santa Claus, distributed gifts donated by all campers.' Then 'New Year's Eve: Campers brought to Dining Hall at midnight to say farewell to Old Camp Perrot 1948 and welcome the new Perrot 1949.' CRAFTS ran two afternoons a week on the Dining Hall verandah -- shellcraft, felt work, clay modelling, plastic work and art -- with archery under PHIL DUNN. DRAMATICS 'met in the Barn to read plays', and the report adds that 'since the closing of camp, the Foremen's Club of Montreal have built a stage in the barn', which dates that stage to the autumn of 1948. CHAPEL was at 11 a.m. Sundays in the grove, staff leading the first week and counsellors the second, and 'EIGHT ROMAN CATHOLIC GIRLS ATTENDED EARLY MASS AT THE VILLAGE CHURCH' -- a Protestant association camp making room for Catholic campers, recorded without comment. VISITORS: 'At least 175 parents and visitors were at Camp Perrot on the two Sunday afternoons', many by the special Sunday bus, with afternoon tea on the verandah. RECOMMENDATIONS to the next directress: that the camper age range be changed from 10-16 to a range starting at 9 (the upper figure is illegible in the scan, printed as '19'); that counsellors be required to hold a life-saving certificate and a craft skill for instructing; that age grouping be retained with a Section Directress for each group; and that 'a small area on one of the Ile Perrot farms be rented for overnight hike groups'. THE COUNSELLOR AGE LINE IS WORTH KEEPING: the report gives the girls' counsellors' own age range as beginning at FIFTEEN (the upper bound is illegible), and ten years later 'counsellors too young' appears in the July 1958 committee's list of reasons to close the camp.",
+      "sources": [
+        "src_ymf_1948_camp_perrot_season_report"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Perrot",
+        "Verlie Dodds",
+        "Carol Hammond",
+        "Marilyn Mathews",
+        "Bess Clements",
+        "Ina Bogle",
+        "Marie Comeau",
+        "Phil Dunn",
+        "Foremen's Club of Montreal",
+        "Kinsmen's Club of Lachine"
+      ],
+      "date_ref": "1948",
+      "conflicts_with": [],
+      "added_version": "10.93",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5697",
+      "claim": "THE 1948 BRANCH TABLE IS CAMPER-WEEKS, NOT REGISTRATIONS, AND ITS OWN COLUMNS CATCH TWO OCR ERRORS THIS PROJECT HAD COPIED. f_5434 and camp-perrot.md both record '546 branch registrations led by the camp office (195) and Lachine (133)', read straight off the OCR. Derived rather than read, the table says something else. THE GIRLS' COLUMN SUMS TO EXACTLY 178 -- 51 + 10 + 4 + 2 + 0 + 58 + 4 + 4 + 43 + 2 -- which is the girls' CAMPER-WEEK figure for 1948 printed independently in the 1952 Camp Perrot annual report (f_5674), four years later and in a table with no visible connection to this one. The boys' legible entries sum to 354; the International branch's boys cell is illegible, but its printed row total of 6 less its 2 girls gives 4, making 358, which is the 1952 report's boys figure for 1948 exactly, and 358 + 178 = 536, its total exactly. SO THE PRINTED COLUMN TOTALS '308' AND '546' ARE OCR OF 358 AND 536, and the table is denominated in camper-weeks like every other Perrot statistical table, not in registrations. TWO ROW TOTALS THEN FAIL AGAINST THEIR OWN COMPONENTS: Southwestern prints 87 where 26 + 51 = 77, and Camp office prints 195 where 132 + 43 = 175. Reading those two row totals as correct instead would require boys' figures that break the column sum against the 1952 printing, so the components stand and the row totals are the errors. CORRECTED FIGURES: 536 camper-weeks in all, led by the camp office at 175 and Lachine at 133, with Southwestern at 77. WHAT THE CORRECTED TABLE THEN SHOWS: 358 boys' camper-weeks over 162 different boys is an average stay of 2.21 weeks, and 178 girls' camper-weeks over 89 girls is exactly 2.00 -- the two-week girls' session, arithmetically confirmed for a third time. THE METHOD IS THE POINT: where a table prints both its parts and its total, derive the parts and check, and OCR damage announces itself.",
+      "sources": [
+        "src_ymf_1948_camp_perrot_season_report",
+        "src_ymf_1952_camp_perrot_annual_report"
+      ],
+      "confidence": "inferred",
+      "category": "attendance",
+      "entities": [
+        "Camp Perrot"
+      ],
+      "date_ref": "1948",
+      "conflicts_with": [
+        "f_5434"
+      ],
+      "added_version": "10.93",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5698",
+      "claim": "ONE CLERK IN A DOWNTOWN OFFICE RAN THE REGISTRATIONS FOR BOTH MONTREAL YMCA CAMPS IN 1948, AND PERROT'S DIRECTOR ASKED FOR THAT TO STOP. From the Publicity and Promotion section of the 1948 season report: 'Many obvious difficulties arose this year in giving the office work for BOTH CAMPS to ONE GIRL in a central city office. More efficient work and planning can be carried out if the responsibilities of the two camps are divided or shared by another person in a central location.' The two camps are Perrot and Kamp Kanawana, the association's only two at the time. His appreciation names her: 'To Miss VERA RUTHERFORD of the Camp Office.' THIS IS AN ADMINISTRATIVE LINK BETWEEN THE TWO CAMPS OF A KIND THIS PROJECT HAS LITTLE OF -- not shared staff or shared equipment but a shared back office, and a director recording that it was understaffed. It also sets a precedent for the office secretary two Kanawana directors later named, in 1974 and 1975, as one of the two people they could not have done without.",
+      "sources": [
+        "src_ymf_1948_camp_perrot_season_report"
+      ],
+      "confidence": "stated",
+      "category": "administration",
+      "entities": [
+        "Camp Perrot",
+        "Kamp Kanawana",
+        "Vera Rutherford",
+        "A. T. Dodds"
+      ],
+      "date_ref": "1948",
+      "conflicts_with": [],
+      "added_version": "10.93",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5699",
+      "claim": "KANAWANA CANOE TRIPS WERE STILL STOPPING AT CAMP PERROT IN 1951, AND THE 1948 CAMPER-WEEK COLUMN HAS A THIRD INDEPENDENT PRINTING. The 1951 Camp Perrot annual report carries a list headed 'GROUPS USING CAMP PERROT': St. Anne's United Church, the Foremen's Club, the Westmount, Rosemount, N.D.G. and Central branches, the Montreal Westward Rotary Club, Chalmers United Church, the City Hall Ave. branch, 'KANAWANA CANOE TRIP', Dominion Douglas United, Rosemount United, Strathmore United, Phalanx, and parents and visitors. THE NUMBERS COLUMN OF THAT TABLE IS ENTIRELY LOST TO THE SCAN, so this is a second season of the arrangement recorded in f_5432 but not a second count. WHY IT MATTERS: f_5432 rested on a single line in a single season, which is thin ground for overturning a conclusion this wiki had held since July 2026. Two seasons three years apart, in two separate documents, is a practice rather than an incident. FOUND BY CHECKING A CLAIM BEFORE PUBLISHING IT: the sentence being written said the other Perrot reports carried no equivalent table, which was an assumption, and grepping the five cached reports to confirm it produced the 1951 list instead. ALSO ON THE SAME PAGE: the 1951 report's STATISTICS block prints camper weeks for 1948 as Boys 358, Girls 178, total 536, and for 1949 as 588, 189, 777 -- so the 1948 column now has THREE printings (this report, the 1952 report at f_5674, and the 1948 report's own branch table derived at f_5697), and the correction at f_5697 stands on all three.",
+      "sources": [
+        "src_ymf_1951_camp_perrot_annual_report"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "Camp Perrot",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1951",
+      "conflicts_with": [],
+      "added_version": "10.93",
       "added_by": "ralph_loop"
     }
   ]
