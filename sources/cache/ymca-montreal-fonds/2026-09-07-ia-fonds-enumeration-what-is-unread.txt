@@ -164,3 +164,22 @@ ALSO NOTE: two titles in the wider set are already-known subjects rather than le
 "Christieville Ski Lodge" is the association's own ski property, recorded in this project from the
 Concordia finding aids and the 1959 annual report, and "In for a Dip - Lake Couchiching" is Ontario,
 at Geneva Park, not Quebec.
+
+SECOND CORRECTION, 2026-09-07: THE QUERY WAS WRONG, AND SO WAS THE WORD "UNREAD"
+--------------------------------------------------------------------------------
+THE QUERY. This file was built from q="ymca of montreal", a phrase search, which returns 942 items.
+The Internet Archive has a COLLECTION of that name and it holds 1,120. The phrase misses 181 items,
+mostly 1962-63 news releases catalogued by their own headline. Almost all of them were already held
+in this project by other routes, so nothing was lost -- but the denominator was wrong.
+USE  q=collection:ymca-montreal-fonds  AND NOT THE PHRASE.
+
+THE WORD. The table above is headed "what this project has not read". As of the end of 2026-09-07
+that is no longer true of the texts: every one was opened. Thirty-two still carry no source record
+in this project, and that is because THEY HAD NO CAMP CONTENT, not because nobody looked. They are
+the News Bulletin and National Council Bulletin issues that came back empty, the six Canadian
+Manhood issues (military camps, deprioritised), and the mis-catalogued Quarterly Reporter.
+DO NOT OPEN THEM AGAIN.
+
+CORRECTED POSITION: 1,120 items in the collection; 653 held or cited here; 467 not, of which 435 are
+IMAGES and 32 are the read-and-empty texts above. The image half is narrowed to fifty-nine
+candidates by title, listed earlier in this file.
