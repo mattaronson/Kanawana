@@ -6998,3 +6998,67 @@ f_5080 so the next pass does not sweep the same six volumes for the same four fa
 did add is that the association listed "Boys' Camping" and "Camp Otoreke" among its *branch*
 chairmen in 1956, which is a small statement about where camping sat in the organisation, and that
 Donald Dewar chaired Boys' Camping before Gordon Mackey did.
+
+---
+
+## 2026-09-07, afternoon: the orphan sweep, the annual reports' other camp, and eight instruments that lied
+
+Twenty-one units. The through-line was not a topic but a habit: nearly everything found today was
+already in the cache, and what kept it hidden was the shape of the reading, not a gap in the record.
+
+**The sentence next door.** The YMCA of Montreal's annual reports give the two camps in adjacent
+sentences — "The Men's Camp as [at] Lake St. Joseph, in charge of Mr. H. C. Patterson, was open from
+July 5th to September 2nd, with 160 men out. The Boys' Camp at Lake Kanawana was open for July and
+August with 162 boys." Every previous pass extracted the second and stopped at the full stop. Reading
+the sentence before it, across the run, produced a senior-camp attendance series for 1912-1928 that the
+project did not have, the association's own statement that overseas enlistment gutted the 1918 season,
+initials for W. H. Henderson, W. A. MacLaren and M. F. Furey, a forename for Herb Patterson, and
+W. J. Holliday's breakdown in the winter of 1926-27 — the only account this project holds of the years
+between his 1923-24 roster entry and 1941. The same habit found the paragraph that dates the dining
+pavilion and gives its cause: 289 boys in 1919, 165 on site at once against a stated capacity of eighty
+or ninety, and a new pavilion budgeted for 1920 and "well advanced at the present time."
+
+**An orphan fact is usually a gap in the index, not the record.** Three of the day's units were made by
+a single grep of a corpus that had been searchable all along. "Pop Cameron and the Canoe Trippers"
+became Jack Cameron because the *Green Triangle* of 21 July 1940 has six boys piling into his car for
+St-Donat. A government photographer at camp in 1935 became Mr. Fowle because the chronicle and the
+newsletter name the same visiting poet in the adjacent sentence — and that means a motion picture of
+Kanawana existed in 1935. A variant worth knowing: material can be physically present in the
+destination article and still be orphaned, if it is present as decoration. The c.1920s dining-hall
+photograph sat in a gallery with a one-line caption while none of its content was in any prose.
+
+**Eight instruments were built or used today and most of them lied.** A visible-text ratio flagged ten
+cache files of which two were real. A blocker-marker test flagged the two newspapers.com files and
+looked precise, but one of them carries the paywall banner and the full page OCR both. `char_count` is
+not a content measure: `src_newspapers_com_gazette` is 533,742 bytes of which 2,148 are text, all of it
+navigation chrome. An exact quote-match check against caches flagged 35 per cent of candidates and had
+to be abandoned, because the caches are OCR and the facts hold *corrected* readings — the check assumed
+the cache is the authority and the fact a copy, which for a corpus of scanned typescripts is backwards.
+A token-overlap matcher for repointing catch-all facts proposed fifteen repointings, of which twelve
+were probed by hand and three left alone. A count of camp names across the reports used basic-regex
+quantifiers under an unset locale and scored zero on a phrase I had just read with my own eyes. A
+ranking of reports by camp-mentions against facts-extracted was right about half the time. And a web
+search returned, in prose, that "William Fowle" was a Notman/McCord photographer of Montreal landmarks
+around 1930 — specific, plausible, and unsupported by any result page or by the McCord's own database,
+which cannot be reached from here to check. That last is the first time this project has been handed a
+named person who appears not to exist, and the only reason it is not in the KB is that the claim was
+queried before it was believed.
+
+What actually found things: reading whole documents, and grepping the destination first.
+
+**Three corrections to one passage in five minutes.** The Otoreke ski club material was written up from
+the 1959 report, corrected from the 1950 report twenty minutes later, and corrected again from the
+1952, 1955 and 1958 reports five minutes after that. The endpoints were never wrong; the story between
+them was, twice — the club did not decline across a decade, it held 130-150 members for ten years and
+lost a third of them in the single year before 1959. **The rule that would have prevented both: read the
+whole run of a series before writing any of it up.** Every one of today's corrections was caused by
+writing up a document before reading its neighbours, and every one was caught by reading the next one.
+
+**Nulls, controlled.** Fowle himself: nine queries across five surfaces, of which two are facts about
+the instrument and are recorded as such so nobody re-runs them as evidence about the man — the McCord
+collections database redirects on every path including its root and then times out while the museum's
+main site returns 200, and Library and Archives Canada's search returns a Cloudflare challenge to a
+control query as well as to the real one. The Internet Archive metadata search is reachable (control
+"Kanawana" returns 97 items) and returns nothing. Separately, the 1935 season chronicle was read end to
+end and eighteen of its nineteen distinctive items were already in the wiki, which is a *clean* verdict
+on an asserted read and is now recorded so the next pass does not re-derive it.
