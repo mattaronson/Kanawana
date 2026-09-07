@@ -4948,3 +4948,33 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   record and the cache are in now. That is the "never derive an id" rule in its
   other direction -- never cite one you have not yet made.
   Verify green, nine checks. Timestamp from `date -u` in its own call.
+
+[2026-09-07T13:52:15Z] The two Kidds converge from two more directions. NEW:
+  f_5571, src_passionate_educators.
+  (1) SIR GEORGE WILLIAMS. Roby's biography says he "followed his brother JOHN
+  to Sir George Williams University in Montreal." Henry F. Hall's THE GEORGIAN
+  SPIRIT -- the university's own history, already a registered source here --
+  names "JOHN P. KIDD" in a list headed "(a) Bachelor of Arts", beside Harold E.
+  Betts, Douglass Burns Clarke, Norman St.C. Manson and Linwood B. Richardson.
+  So a John Kidd took a Sir George Williams degree and a John P. Kidd holds one,
+  in the university's own record.
+  (2) THEY CORRESPONDED. "The Passionate Educators" cites FOUR LETTERS from
+  J. R. KIDD TO J. P. KIDD -- 16 August and 16 November 1950, 3 and 30 August
+  1951 -- written in exactly the years J. P. Kidd ran the Canadian Citizenship
+  Council and J. R. Kidd directed the CAAE. One snippet reads "for Robbins. 40.
+  Ibid., Letter, J. R. Kidd to J. P. Kidd", so that work treats ROBBINS and the
+  KIDD correspondence as separate matters -- which is exactly what was needed
+  against the John Robbins confusion flagged yesterday in f_5570.
+  STILL NOT ASSERTED, AND WHAT IS MISSING IS ONE SENTENCE. No source read says
+  "John P. Kidd was J. Roby Kidd's brother." What there is: same surname, same
+  university, same city, the right order in time, a documented correspondence,
+  and a biography naming a brother John at that university. That is a great deal
+  and it is not a statement. Sir George Williams registration or alumni records,
+  the 1934 Montreal YMCA staff roster, an obituary for either man, or the
+  archive behind that "Ibid." would close it.
+  EVIDENCE QUALITY RECORDED RATHER THAN GLOSSED: both new sources are
+  SEARCH-INSIDE SNIPPETS. Neither full text was downloaded; the source record
+  says so, the article says so, and src_passionate_educators is read_state
+  "skimmed" with cache_path null rather than pretending to a cache it does not
+  have.
+  Verify green, nine checks. Timestamp from `date -u` in its own call.

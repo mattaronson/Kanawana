@@ -1,6 +1,6 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 55*
+*Status: E1-reviewed | Sources: 56*
 *Last Updated: 2026-09-07 (Cuckoo Day, 1938; and the camp keeping up with the outside world)*
 
 ## Overview
@@ -186,8 +186,26 @@ John no middle initial, never places him in Montreal camping, and never mentions
 **different man** in the neighbouring role: "John Robbins, then Director of the Canadian Council on
 Education for Citizenship (later the Canadian Citizenship Council)" — and Roby's own middle name is
 **Robbins**. A John Robbins beside a James Robbins Kidd beside a John P. Kidd is the same shape as the three
-W. H. Balls that once cost this project five years of a man's career. Sir George Williams registration
-records, the Montreal YMCA's 1934 staff roster, or an obituary naming Roby's brother would settle it. The best-attended booths were the ice cream and soft drink stand
+W. H. Balls that once cost this project five years of a man's career.
+
+**Two further sources converge on it, and they narrow the gap without closing it.** Sir George Williams's
+own history — Henry F. Hall's *The Georgian Spirit* — names "**John P. Kidd**" in a list headed "(a)
+Bachelor of Arts," beside Harold E. Betts, Douglass Burns Clarke, Norman St.C. Manson and Linwood B.
+Richardson.^56 So a John Kidd took a Sir George Williams degree, which is the institution Roby's biography
+names for his brother, and the university's own record has a John P. Kidd holding one. And the two men
+**corresponded**: *The Passionate Educators* cites four letters from **J. R. Kidd to J. P. Kidd** — 16
+August and 16 November 1950, 3 and 30 August 1951 — written in exactly the years J. P. Kidd ran the
+Canadian Citizenship Council and J. R. Kidd directed the Canadian Association for Adult Education.^56 The
+same page treats **Robbins** and the Kidd correspondence as separate matters, which is worth having against
+the confusion above.
+
+*What is still missing is one sentence.* No source read here says "John P. Kidd was J. Roby Kidd's brother."
+What there is instead: the same surname, the same university, the same city, the right order in time, a
+documented correspondence between them, and a biography naming a brother John at that university. That is a
+great deal and it is not a statement. Sir George Williams registration or alumni records, the Montreal
+YMCA's 1934 staff roster, an obituary for either man, or the archive behind that "Ibid." — which the
+snippets do not name — would close it. *(Both of those two sources were reached through search-inside
+alone; neither full text has been downloaded, and their records say so.)* The best-attended booths were the ice cream and soft drink stand
 and the hamburger shop; one group sold "Surprise Package" tickets "but these turned out to be a lemon
 to most who bought them."
 
@@ -730,3 +748,4 @@ Kanawana."^40 Whether either was ever held again is not known here.
 53. *The Green Triangle*, **13 August 1936** (the "Marois Issue"), **1** and **29 July 1939**, **4** and **22 August 1940** [src_ymf_the_green_triangle_1936_08_13, src_ymf_the_green_triangle_1939_07_01, src_ymf_the_green_triangle_1939_07_29, src_ymf_the_green_triangle_1940_08_04, src_ymf_the_green_triangle_1940_08_22]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. With these the whole digitized 1932–1982 run has been read.
 54. *Ka-News*, **January 1978**, **1 December 1979**, **6 February 1981** and **21 April 1981** [src_ymf_ka_news_1978_01, src_ymf_ka_news_1979_12_01, src_ymf_ka_news_1981_02_06, src_ymf_ka_news_1981_04_21]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 55. D. Cochrane and others, *J. R. Kidd: An International Legacy of Learning* (Monographs on Comparative and Area Studies in Adult Education) [src_kidd_international_legacy]. Internet Archive item `ERIC_ED272738`, full djvu text downloaded and read 2026-09-07. **"Kanawana" occurs zero times in it**; what it supplies is Kidd's Montreal YMCA career, his North Branch boys'-work post and his brother John. See [f_5569] and [f_5570].
+56. Henry F. Hall, *The Georgian Spirit: The Story of Sir George Williams University* [src_georgian_spirit_1967], which names "John P. Kidd" in a list headed "(a) Bachelor of Arts"; and *The Passionate Educators* [src_passionate_educators], whose notes cite four letters from J. R. Kidd to J. P. Kidd in 1950-51. Both reached through Open Library search-inside 2026-09-07; **neither full text was downloaded**, so both are snippet evidence. See [f_5571].
