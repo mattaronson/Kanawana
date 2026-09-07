@@ -14621,20 +14621,20 @@
     {
       "source_id": "src_ymf_1979_the_montreal_fact_75_79",
       "type": "report",
-      "title": "1979 the montreal fact 75 79 — \"fonde en 185i\"",
+      "title": "\"The Montreal Fact '75-'79\" — the YMCA of Montreal's four-year review of its linguistic policy, bilingual (English and French texts)",
       "date": "1979",
       "date_precision": "year",
       "origin": "internet_archive",
       "origin_url": "https://archive.org/details/1979-the-montreal-fact-75-79",
-      "cache_path": "sources/cache/ymca-montreal-fonds/1979-the-montreal-fact-75-79.txt",
+      "cache_path": "sources/cache/ymca-montreal-fonds/2026-09-07-the-montreal-fact-75-79-linguistic-policy.txt",
       "char_count": 13447,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
-      "extraction_version": "v5.60",
+      "extracted": true,
+      "extraction_version": "9.65",
       "reliability": "primary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "notes": "[READ CLOSELY 2026-09-07 and upgraded from read_state 'skimmed'. The previous note said, accurately, that the text was held and keyword-swept but 'has not been read closely and no fact has been extracted from it individually'.] THE ASSOCIATION'S FOUR-YEAR REVIEW OF THE LINGUISTIC POLICY IT ADOPTED ON 15 SEPTEMBER 1975, and it assigns the camps roles. 'The YMCA camps also strive to reflect their environment. CAMP OTOREKE, IN STE-AGATHE, GIVES FRENCH-SPEAKING LOW-INCOME FAMILIES the chance to spend pleasant holidays outdoors. CAMP WEREDALE, on Lake l'Achigan, has a specific purpose: TO BE A FRENCH CAMP ALSO ABLE TO RECEIVE ENGLISH-SPEAKING CAMPERS. Agreements made between the Montreal and the Quebec City YMCA's have opened a new door.' Nothing in camp-weredale.md mentions language at all, and this inverts what its history would predict. AND KANAWANA IS ABSENT, WITH THE NULL RUN: 'Kanawana' occurs ZERO times in the English text and ZERO in the French. A review that names five branches and two camps does not name the Association's oldest and best known one. Not to be overread -- a four-page promotional review is not an inventory -- but when the Association wanted to point at camps embodying the policy in 1979 it pointed at Otoreke and Weredale. The document also details the policy's machinery: bilingual ability weighted in hiring, a staff language-training programme in its final year, mandatory bilingual publications, a translation service with glossaries and a representative in each branch in contact with the Office de la langue francaise, and evaluations 'carried out in the working language of each unit or branch'. It says 'a second stage is about to begin', which appears to be the item 1981-06-09-la-politique-linguistique, 'La politique linguistique - Deuxieme etape'. ONE LOCALITY NOTE: 'Camp Otoreke, in Ste-Agathe' against the wiki's Saint-Adolphe-d'Howard. The article itself records the journey as sixty-four miles by rail to Ste-Agathe then eight by road, so this is the nearest railhead standing for the place, not a contradiction. See f_5435 through f_5437.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: BOTH language texts downloaded and read in full 2026-09-07; the camp paragraph transcribed complete and 'Kanawana' greped to zero in each."
     },
     {
       "source_id": "src_ymf_1980_01_national_linguistic_centre",

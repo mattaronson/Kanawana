@@ -1332,7 +1332,8 @@
         "src_ymf_1968_french_day_camp_report",
         "src_ymf_1971_01_25_french_program_summer_71",
         "src_ymf_news_release_1969_04_24",
-        "src_ymf_news_release_1969_05_13_202501"
+        "src_ymf_news_release_1969_05_13_202501",
+        "src_ymf_1979_the_montreal_fact_75_79"
       ],
       "cross_links": [
         "programs-activities",
@@ -1343,7 +1344,7 @@
         "french-language-camping-national"
       ],
       "file_id": null,
-      "word_count": 2330,
+      "word_count": 2916,
       "open_questions": 5
     },
     {
@@ -3817,7 +3818,8 @@
         "src_sgw_yearbook_1942",
         "src_sgw_yearbook_1943",
         "src_sgw_calendar_1941_42",
-        "src_mcgill_daily_1941_10_09"
+        "src_mcgill_daily_1941_10_09",
+        "src_ymf_1979_the_montreal_fact_75_79"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -3830,7 +3832,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 15585,
+      "word_count": 15763,
       "notes": "E1 REVIEW (2026-02-19): Removed unverifiable 'Google Maps' source and '20 km' distance claim. Expanded 'Multiple sources' citation into discrete references (Facts sheet + McMorris). Removed src_oral_aronson (no inline citation). Removed unsourced bullet. Fixed postcard inference. Fixed closure section process language. Split 1967 conference/reports sentence. Renumbered sources 1-10. Added camp-otoreke cross-link to centennial-1967. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_008 editorial-resolution narrative into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -5219,7 +5221,8 @@
         "src_ia_canadian_camping_collection",
         "src_ymf_news_release_1964_7",
         "src_loyola_happening_1974_03_11",
-        "src_concordia_fyi_1976_10_07"
+        "src_concordia_fyi_1976_10_07",
+        "src_ymf_1979_the_montreal_fact_75_79"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -5228,7 +5231,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 2194,
+      "word_count": 2421,
       "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass (final article of 8) -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph into a new Research Notes > Revision History section, and fixed a real inconsistency the sediment had introduced: the Overview still described the two-site plan as 'ultimately abandoned' even though the article's own later correction established a signed 1979 lease and joint files through 1981-82 -- rewritten to match. Corrected open_questions count (was stale at 5, actual is 6, counting sub-item 2a). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

@@ -1,7 +1,7 @@
 # French-Language Camping and Kanawana, 1967-1973
 
 *Status: draft | Sources: 0 (bullet-style source list, not numbered — see below; six documents, carried over from the parent article's lettered scheme)*
-*Last Updated: 2026-09-06 (spun out of [[traditions/programs-activities|Programs and Activities]])*
+*Last Updated: 2026-09-07 (the 1975 linguistic policy, and Kanawana's absence from its 1979 showcase)*
 
 ## Overview
 
@@ -68,6 +68,22 @@ The same paragraph reports "a **substantial increase in the number of French-spe
 
 Free camperships that year went to "a group of **inner-city youngsters** who would not otherwise have had out-of-city holidays," and some 2,600 children passed through YMCA day camps and "**back-alley programs**."^nr72
 
+## The policy behind it, and where the Association's attention went after 1973
+
+**The thread above stops in 1973. The institution did not.** On **15 September 1975** the YMCA of Montreal adopted a formal **linguistic policy**, and four years later it published a review of what had come of it — "The Montreal Fact '75-'79", in English and French.^mf79 The objectives it states are institutional rather than programmatic: "The Association was to reflect each of Montreal's two main cultures by redefining its social mission and its programs; the Association was to reflect Montreal's two main languages in the running of both its public and internal affairs."
+
+The machinery is worth having, because it is the context every French-language camp programme after 1975 was operating inside. Bilingual ability, "or at least an open attitude towards bilingualism," was weighted in hiring. A staff language-training programme was in its final year with "excellent" results. **All** publications for staff and volunteers had to be in both languages, served by a translation service with glossaries, terminology cards, a translation representative in every branch, and standing contact with the Office de la langue française, Radio-Canada and the Université de Montréal. And staff and programme evaluations were "carried out in the working language of each unit or branch."^mf79
+
+*The date sits where you would expect.* 15 September 1975 falls about fourteen months after Bill 22, the Official Language Act, was assented to on 31 July 1974, and about twenty-three months before the Charter of the French Language on 26 August 1977.
+
+**The camps got assignments, and Kanawana was not one of them.**
+
+> "The YMCA camps also strive to reflect their environment. **Camp Otoreke, in Ste-Agathe, gives French-speaking low-income families** the chance to spend pleasant holidays outdoors. **Camp Weredale, on Lake l'Achigan, has a specific purpose: to be a French camp** also able to receive English-speaking campers. Agreements made between the Montreal and the Quebec City YMCA's have opened a new door for the Montreal YMCA and strengthened ties between the two Associations."^mf79
+
+Camp Weredale as a *French* camp is the surprise. [[connections/related-camps/camp-weredale|Camp Weredale]] grew out of the Boys' Home of Montreal and a Westmount building on Weredale Park, and nothing else in this wiki mentions language in connection with it at all. Otoreke's assignment is a clientele rather than a language of operation — French-speaking low-income families — which fits the family and vacation-centre role documented at [[site/camp-otoreke|Camp Otoreke]]. ("In Ste-Agathe" names the railhead and market town; the camp is at Saint-Adolphe-d'Howard, and that article records the journey as sixty-four miles by rail to Ste-Agathe and eight more by road.)
+
+**And the absence is the point, with the null run in both languages.** "Kanawana" occurs **zero** times in the English text and **zero** in the French.^mf79 A review that names five branches and two camps does not name the Association's oldest and best known camp. **This should not be overread.** A four-page promotional review is not an inventory, and absence from a showcase is not evidence of a policy about Kanawana. What it shows is narrower and still worth recording: when the Association wanted to point at camps embodying its linguistic policy in 1979, it pointed at the other two.
+
 ## Open Questions
 
 1. **Did "Living-in-French" run more than one season?** The two 1969 press releases announce it.
@@ -100,3 +116,4 @@ Free camperships that year went to "a group of **inner-city youngsters** who wou
 - **ifl68** — "International Y.M.C.A. French Day Camp Report 1968," R. Wilson, Director [src_ymf_1968_french_day_camp_report]. Cached at `sources/cache/ymca-montreal-fonds/1968-french-day-camp-report.txt`; read end to end 2026-09-06 under p_441. The season report answering the proposal above. Its second appendix carries the French test results, not transcribed here. See [f_5114].
 - **mew** — "French Program Summer '71," 25 January 1971, Kerry W. Johnston, Director, Mile End West Project, Montreal Y.M.C.A. [src_ymf_1971_01_25_french_program_summer_71]. Cached at `sources/cache/ymca-montreal-fonds/1971-01-25-french-program-summer-71.txt`; read end to end 2026-09-06 under p_441. **"Kanawana" occurs zero times in it.** See [f_5115].
 - **nr72** — YMCA of Montreal annual reports for the years ended **31 May 1972** and **31 May 1973** [src_cache_sgw_ymca_annual_report_1971_1972, src_cache_sgw_ymca_annual_report_1972_1973]. Read 2026-09-06 under p_441. See [f_5111].
+- **mf79** — "The Montreal Fact '75-'79", the YMCA of Montreal's four-year review of the linguistic policy it adopted on **15 September 1975**; bilingual, and both texts were read [src_ymf_1979_the_montreal_fact_75_79]. Transcribed in the relevant part at `sources/cache/ymca-montreal-fonds/2026-09-07-the-montreal-fact-75-79-linguistic-policy.txt`. Read closely 2026-09-07 and upgraded from `read_state: skimmed`. See [f_5435]–[f_5437].

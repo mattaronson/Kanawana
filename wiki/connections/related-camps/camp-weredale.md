@@ -1,7 +1,7 @@
 # Camp Weredale and Its Relationship to Kanawana
 
-*Status: E1-reviewed | Sources: 12*
-*Last Updated: 2026-09-07 (Weredale House in two university newsletters, 1974 and 1976)*
+*Status: E1-reviewed | Sources: 13*
+*Last Updated: 2026-09-07 (the YMCA called it a French camp; and two university newsletters)*
 
 ## Overview
 
@@ -62,6 +62,10 @@ The camp suffered a fire in 1965 and was rebuilt.^1
 
 *Two things not to read into those.* The 1974 item is **Loyola's** bureau, not Sir George Williams'; the two colleges merged into Concordia that same year, so it sits on the other half of the merger from the SGW–YMCA material gathered elsewhere in this wiki. And neither document touches open question 4 below, which asks about connections between Weredale House and the **Montreal YMCA**. These are university connections, on a different axis.
 
+**And by the late 1970s the YMCA describes Camp Weredale as a French camp.** Nothing else in this wiki mentions language in connection with it. "The Montreal Fact '75-'79," the Association's four-year review of the linguistic policy it adopted on 15 September 1975, sets out what each of its camps was for: "**Camp Weredale, on Lake l'Achigan, has a specific purpose: to be a French camp also able to receive English-speaking campers.**"^13 That is the inverse of what this camp's own history would predict — a Westmount boys' home, an anglophone Rotary donation, a Montreal Protestant institutional lineage — and it says the Association had given the site a francophone mandate with English service as the secondary provision. The same paragraph assigns [[site/camp-otoreke|Camp Otoreke]] French-speaking low-income families. See [[traditions/french-language-camping|French-Language Camping]] for the policy behind it.
+
+*A caution on what this does and does not say.* It is the Association describing its own camps in a promotional review, not an operating record, and it gives no year for when the mandate began, no enrolment figures, and no account of how a French camp was staffed. It also sits four years after the two-site planning with Kanawana that this article records for 1977–1980, and nothing here connects the two.
+
 In 1977, Weredale House merged with Summerhill Homes, the Girls' Cottage School, and Allencroft Reception Centres to form Youth Horizons (now part of the Batshaw Youth and Family Centres network).^1 Camp Weredale survived this transition and continues to operate today under the Weredale Foundation as an independent co-ed camp for children aged 6–17, welcoming four cohorts of approximately 85 campers each from late June through mid-August.^5
 
 ## Relationship to Camp Kanawana
@@ -107,6 +111,7 @@ The camps also shared overlapping communities of Montreal youth workers. Frank E
 10. YMCA of Montreal annual report for the year ending 30 April 1922 [src_ymf_sgw_ymca_annual_report_1921_1922], the Eastern District paragraph on agencies used for boys' work. Read 2026-09-06 under p_454. See [f_5174].
 11. *Canadian Camping*, Vol. 1 No. 3 (June 1949) [src_ia_canadian_camping_collection], the Quebec survey; and a Montreal YMCA news release of 1964 [src_ymf_news_release_1964_7], the roster of a Rotary-initiated inter-agency youth project. Read 2026-09-06 under p_455. See [f_5202].
 12. "Want to help" (Loyola Volunteer Bureau), *The Happening* (Loyola College), 11 March 1974 [src_loyola_happening_1974_03_11]; and the Chancellor's Centraide letter, *FYI* (Concordia University) Vol. 3 No. 5, 7 October 1976 [src_concordia_fyi_1976_10_07]. Both transcribed at `sources/cache/concordia-publications/2026-09-07-weredale-house-in-loyola-and-concordia-newsletters.txt`. Found by the accounted sweep of `rma-concordia-publications` under p_479; both matched on the *Weredale* keyword, and "Kanawana" occurs in neither. See [f_5420], [f_5421].
+13. "The Montreal Fact '75-'79", the YMCA of Montreal's four-year linguistic-policy review [src_ymf_1979_the_montreal_fact_75_79]. Cached at `sources/cache/ymca-montreal-fonds/2026-09-07-the-montreal-fact-75-79-linguistic-policy.txt`. See [f_5436].
 
 ## Research Notes
 

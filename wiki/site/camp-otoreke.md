@@ -1,7 +1,7 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 55*
-*Last Updated: 2026-09-07 (Hupfield's directorship confirmed from a second institution, and dated a year earlier)*
+*Status: E1-reviewed | Sources: 56*
+*Last Updated: 2026-09-07 (Hupfield confirmed twice over; and the camp's 1979 linguistic assignment)*
 
 ## Overview
 
@@ -240,6 +240,10 @@ Numbers, dates, districts and organisers are all absent; the passage is one para
 **July 1969: 170 people from Petite-Bourgogne.** The Montreal YMCA's bilingual release of 28 November 1969 records, in its French column, an outreach fortnight nothing else in this project mentions: "L'été dernier, en juillet, **170 personnes de culture française de la Petite Bourgogne** ont pu, elles aussi, jouir de l'été à la campagne grâce à **deux semaines passées au Camp Otoreke**."^35
 
 Petite-Bourgogne — Little Burgundy, the working-class district southwest of downtown Montreal then in the middle of an urban-renewal upheaval — appears nowhere else in this wiki. A hundred and seventy people for two weeks is a substantial programme, and it survives in one sentence of a press column. Who organised it, how it was paid for and whether it repeated are all unrecorded here.
+
+**And by 1979 the Association had given it a clientele in language terms.** "The Montreal Fact '75-'79," the four-year review of the linguistic policy adopted on 15 September 1975, states what each YMCA camp was for: "**Camp Otoreke, in Ste-Agathe, gives French-speaking low-income families the chance to spend pleasant holidays outdoors.**"^56 That is a clientele rather than a language of operation, and it fits the family and vacation-centre role documented above rather than replacing it — the same paragraph gives [[connections/related-camps/camp-weredale|Camp Weredale]] the harder assignment of being "a French camp." See [[traditions/french-language-camping|French-Language Camping]].
+
+*On "in Ste-Agathe."* The camp is at Saint-Adolphe-d'Howard, as this article establishes throughout, and the 1900 account above gives the journey as sixty-four miles by rail to Ste-Agathe and eight more by road. The review is naming the railhead and market town, which is how a promotional document locates a place for readers who will never go there. Not a contradiction, recorded so it is not read as one.
 
 **In 1967 it stopped being its own unit.** "Camp Otoreke **became a department of Downtown Branch**. It continued to operate a weekend Ski Lodge for young adults and a vacation centre during the summer."^34 Eleven years earlier the association had listed Otoreke among its *branch* chairmen, alongside Central, Westmount and Lachine; now it was a department inside one of them. The report gives no reason and records no change to what the site actually did.
 
@@ -1017,6 +1021,7 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 53. "Mr. Mac", *The Georgian* (Sir George Williams University), Vol. 25 No. 2, **3 October 1961** [src_ia_georgian_1961_10_03]. Internet Archive item `1961-10-03-georgian-vol-25-no-02`, found by downloading and grepping all 292 issues of the paper, the only route available since no index reaches this collection's contents. Quoted in full, with the adjacent column that could be misread, at `sources/cache/georgian/2026-09-07-all-292-georgian-issues-swept.txt`. See [f_5374].
 54. Sir George Williams College, *The Annual Yearbook 1942* [src_sgw_yearbook_1942]; and *The Annual Yearbook 1943* [src_sgw_yearbook_1943]; and the *Faculty of Arts, Science and Commerce Announcement 1941-1942* [src_sgw_calendar_1941_42]. All three transcribed in the relevant part at `sources/cache/sgw-publications/2026-09-07-sgw-calendar-and-yearbooks-1941-1943.txt`. Found 2026-09-07 by the accounted whole-corpus sweep of the Internet Archive collection `rma-concordia-publications` (16,491 text items) under p_479; none of the three was previously in `sources.json`. See [f_5396]–[f_5398], [f_5401].
 55. "Re-modelled Pit Re-opens: Cafeteria Run Under New Management," *The McGill Daily* Vol. 31 No. 7, 9 October 1941 [src_mcgill_daily_1941_10_09]. Transcribed at `sources/cache/mcgill/2026-09-07-mcgill-daily-1938-and-1941.txt`. Found by the whole-corpus sweep of 9,890 McGill student publication items under p_479 — by matching *Otoreke*, since the column breaks the name as "Mr. Hup- field" and a search for it returns nothing. See [f_5407], [f_5408].
+56. "The Montreal Fact '75-'79", the YMCA of Montreal's four-year linguistic-policy review [src_ymf_1979_the_montreal_fact_75_79]. Cached at `sources/cache/ymca-montreal-fonds/2026-09-07-the-montreal-fact-75-79-linguistic-policy.txt`. See [f_5436].
 
 ## Research Notes
 

@@ -1,8 +1,8 @@
 {
-  "version": "9.64",
-  "kb_version": "9.64",
+  "version": "9.65",
+  "kb_version": "9.65",
   "migrated_from": "3.3",
-  "fact_count": 5396,
+  "fact_count": 5399,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -97311,6 +97311,57 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5435",
+      "category": "institutional",
+      "date_ref": "1975-09-15",
+      "entities": [
+        "YMCA of Montreal"
+      ],
+      "claim": "THE YMCA OF MONTREAL ADOPTED A LINGUISTIC POLICY ON 15 SEPTEMBER 1975, AND REVIEWED IT AFTER FOUR YEARS. 'The Montreal Fact 75-79' states the date outright and sets out the objectives: 'The Association was to reflect each of Montreal's two main cultures by redefining its social mission and its programs; the Association was to reflect Montreal's two main languages in the running of both its public and internal affairs.' The machinery is described in detail -- bilingual ability or 'at least an open attitude towards bilingualism' weighted in hiring; a staff language-training programme 'in its final year' with 'excellent' results; ALL publications for staff and volunteers required in both languages; a translation service under Linguistic Services with glossaries, terminology cards, a translation representative in every branch, and standing contact with the Office de la langue francaise, Radio-Canada and the University of Montreal; French copy revised centrally; and staff and programme evaluations 'carried out in the working language of each unit or branch'. The review closes by announcing that 'a second stage is about to begin', which appears to be the item 1981-06-09-la-politique-linguistique, 'La politique linguistique - Deuxieme etape'. THE DATE MATTERS FOR CONTEXT: 15 September 1975 falls about FOURTEEN MONTHS after the Bourassa government's Bill 22, the Official Language Act, was assented to on 31 July 1974, and about TWENTY-THREE MONTHS before the Charter of the French Language, Bill 101, on 26 August 1977. [The first draft of this fact said 'nine months after Bill 22', written from feel; the intervals above were computed. A date interval taken from impression is exactly the kind of thing that survives review, and this is the second one caught today.]",
+      "sources": [
+        "src_ymf_1979_the_montreal_fact_75_79"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.65",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5436",
+      "category": "institutional",
+      "date_ref": "1979",
+      "entities": [
+        "Camp Otoreke",
+        "Camp Weredale",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE ASSOCIATION ASSIGNED ITS CAMPS LINGUISTIC ROLES, AND CAMP WEREDALE'S IS THE SURPRISING ONE. 'The YMCA camps also strive to reflect their environment. CAMP OTOREKE, IN STE-AGATHE, GIVES FRENCH-SPEAKING LOW-INCOME FAMILIES THE CHANCE TO SPEND PLEASANT HOLIDAYS OUTDOORS. CAMP WEREDALE, ON LAKE L'ACHIGAN, HAS A SPECIFIC PURPOSE: TO BE A FRENCH CAMP ALSO ABLE TO RECEIVE ENGLISH-SPEAKING CAMPERS.' NOTHING IN connections/related-camps/camp-weredale.md MENTIONS LANGUAGE AT ALL -- that article covers the Boys' Home of Montreal, the 1934 founding, the 1977 merger into Youth Horizons and the 1977-1980 two-site planning with Kanawana -- and a French-first camp is the inverse of what an anglophone Westmount boys' home's history would predict. For Otoreke the assignment is a clientele rather than a language of operation: French-speaking LOW-INCOME FAMILIES, which sits with that camp's documented family and vacation-centre role. ONE LOCALITY NOTE, NOT A CONTRADICTION: 'in Ste-Agathe' against the wiki's Saint-Adolphe-d'Howard. site/camp-otoreke.md itself records the journey as 'sixty-four miles by rail to Ste-Agathe, then eight miles by' road, so the review is naming the railhead and market town rather than the municipality.",
+      "sources": [
+        "src_ymf_1979_the_montreal_fact_75_79"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.65",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5437",
+      "category": "traditions",
+      "date_ref": "1979",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "KANAWANA IS ABSENT FROM THE ASSOCIATION'S OWN SHOWCASE OF LINGUISTIC-POLICY WORK, AND THE NULL WAS RUN IN BOTH LANGUAGES. 'Kanawana' occurs ZERO times in the English text of 'The Montreal Fact 75-79' and ZERO times in the French. The review names five branches -- South Shore, International, St-Laurent, Hochelaga-Maisonneuve, Ville d'Anjou -- and TWO CAMPS, Otoreke and Weredale, and does not name the Association's oldest and best known camp. WHAT THIS IS WORTH AND WHAT IT IS NOT. traditions/french-language-camping.md traces a French-language thread through the Montreal YMCA from 1967 to about 1973, including Kanawana's own 'Living-in-French' immersion section of 1969, and then stops. This extends the institutional story to 1979 and shows where the Association's attention had gone. DO NOT OVERREAD IT: a four-page promotional review is not an inventory, and absence from a showcase is not evidence of a policy about Kanawana. What it shows is that when the Association wanted to point at camps embodying the policy in 1979, it pointed at the other two.",
+      "sources": [
+        "src_ymf_1979_the_montreal_fact_75_79"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.65",
       "added_by": "ralph_loop"
     }
   ]
