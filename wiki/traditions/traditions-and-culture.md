@@ -203,8 +203,12 @@ the confusion above.
 What there is instead: the same surname, the same university, the same city, the right order in time, a
 documented correspondence between them, and a biography naming a brother John at that university. That is a
 great deal and it is not a statement. Sir George Williams registration or alumni records, the Montreal
-YMCA's 1934 staff roster, an obituary for either man, or the archive behind that "Ibid." — which the
-snippets do not name — would close it. *(Both of those two sources were reached through search-inside
+YMCA's 1934 staff roster, or an obituary for either man would close it — **and so, most directly, would the
+letters themselves, which are now traceable.** Faris's abbreviation expands in his own notes: "…for Adult
+Education, **Archives** (hereinafter referred to as CAAE)." So the four Kidd-to-Kidd letters of 1950–51 sit
+in the **Canadian Association for Adult Education Archives**.^56 Where that collection is held today is not
+established here and is not guessed at. Four letters between the two men, in an identified collection, are
+the single most likely way to settle whether they were brothers — and they may mention the camp. *(Both of those two sources were reached through search-inside
 alone; neither full text has been downloaded, and their records say so.)* The best-attended booths were the ice cream and soft drink stand
 and the hamburger shop; one group sold "Surprise Package" tickets "but these turned out to be a lemon
 to most who bought them."

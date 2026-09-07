@@ -4978,3 +4978,26 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   "skimmed" with cache_path null rather than pretending to a cache it does not
   have.
   Verify green, nine checks. Timestamp from `date -u` in its own call.
+
+[2026-09-07T13:56:45Z] The archive behind the "Ibid." is named. NEW: f_5572,
+  p_485; f_5571 and the source record updated.
+  Faris's abbreviation expands in his own notes: "...for Adult Education,
+  ARCHIVES (hereinafter referred to as CAAE)", and elsewhere "CAAE, Letter,
+  J. R. Kidd to E. Orr, December 20, 1948". SO THE FOUR KIDD-TO-KIDD LETTERS OF
+  1950-51 ARE IN THE CANADIAN ASSOCIATION FOR ADULT EDUCATION ARCHIVES. Where
+  that collection sits today is NOT established and is not guessed at. Queued as
+  p_485: four letters between the two men, in an identified collection, are the
+  most direct way to settle whether they were brothers, and they may mention the
+  camp.
+  THE BOOK CANNOT BE DOWNLOADED AND DID NOT NEED TO BE. Ron Faris, The
+  Passionate Educators (Toronto: P. Martin, 1975), item passionateeducat0000fari,
+  is lending-restricted -- access-restricted-item true, collections inlibrary and
+  printdisabled -- and a direct djvu.txt fetch returns HTTP 401 with a 172-byte
+  body. THE NULL WAS CONTROLLED BY RUNNING IT rather than read off the flag.
+  WHAT WORKED is this project's own September technique: search-inside reads
+  lending-restricted books, and OVERLAPPING EXACT-PHRASE WINDOWS reconstruct a
+  passage nobody can open. Four windows gave the four letter dates and the
+  expansion of the abbreviation they hang on. THE JOINS ARE RECORDED so they can
+  be checked -- each query's snippet is quoted in the source record and no text
+  between windows is asserted.
+  Verify green, nine checks. Timestamp from `date -u` in its own call.
