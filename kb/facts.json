@@ -1,8 +1,8 @@
 {
-  "version": "9.74",
-  "kb_version": "9.74",
+  "version": "9.75",
+  "kb_version": "9.75",
   "migrated_from": "3.3",
-  "fact_count": 5412,
+  "fact_count": 5416,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -97585,6 +97585,80 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5451",
+      "category": "people",
+      "date_ref": null,
+      "entities": [
+        "A. Ross Seaman",
+        "YMCA of Montreal",
+        "Sir George Williams University"
+      ],
+      "claim": "SEAMAN WAS 'AN ADVISER TO THE YMCA FELLOWSHIP STAFF', WHICH CLOSES A LOOP OPENED EARLIER THE SAME DAY. Concordia's Thursday Report of 15 November 1990: 'Ross Seaman was a graduate of Sir George Williams University and a part-time faculty member of Concordia's APSS and Leisure Studies Departments. HE ORIGINATED THE DAWSON COLLEGE COMMUNITY RECREATION AND LEADERSHIP PROGRAMME AND WAS AN ADVISER TO THE YMCA FELLOWSHIP STAFF.' THE FELLOWSHIP IS THE MONTREAL YMCA'S TRAINING FELLOWSHIP, documented in this project on 2026-09-07 from the Sir George Williams yearbooks of 1942 and 1943 -- a paid apprenticeship in the Association secretaryship, worked in the branches, with enrolment at the college as its academic half -- and Concordia's own obituary of Seaman says he 'attended Sir George as a YMCA Fellowship Secretary' in the 1940s. SO HE CAME THROUGH THE SCHEME AND LATER ADVISED ITS STAFF: the thing that made him is a thing he went back and helped run. ONE CLAIM IN THE SAME SENTENCE IS RECORDED AS THEIRS RATHER THAN ADOPTED: 'he ORIGINATED the Dawson College Community Recreation and Leadership Programme' is stronger than wiki/people/a-ross-seaman.md's 'became teacher and chairperson of the CRLT Department at Dawson' in 1974, and it comes from his own university's newspaper writing about an award in his name, which is a friendly source. The article also carries APSS Professor Dick McDonald on him: 'No matter who (Seaman) was with, they always came out of the experience more upbeat than when they went in.'",
+      "sources": [
+        "src_concordia_thursday_report_1990_11_15"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5452",
+      "category": "institutional",
+      "date_ref": "1990-11-15",
+      "entities": [
+        "A. Ross Seaman",
+        "Camp Kanawana",
+        "Concordia University",
+        "Dawson College"
+      ],
+      "claim": "THERE WERE FIVE SEAMAN AWARDS, NOT ONE, AND THE YWCA IS IN THE SCHEME. 'Seaman died in 1987. FIVE LEADERSHIP AWARDS have been created in his name to be presented annually. TWO awards are presented to Concordia students in the APSS and Leisure Studies programmes. The other awards are presented to students at DAWSON, those involved with the YM/WCA and with KAMP KANAWANA.' Everything this project holds treats the fund as a single scholarship. It was five annual awards across the constituencies -- and this explains the 1995-96 Concordia calendar's plural 'A. Ross Seaman Memorial SCHOLARSHIPS', which had looked like loose wording until now. NOTE 'YM/WCA': the YWCA is included, which no other source held here says; every other document names the YMCA alone. MRS MARGARET SEAMAN was at the presentation, three years after his death, photographed with APSS Professor Dick McDonald and APSS Chair Richard Cawley. THE WINNER IS NAMED AND DESCRIBED IN SOME PERSONAL DETAIL IN THE ARTICLE AND IS NOT REPRODUCED HERE, consistent with the decision registered as r_0006 about the 2007 bursary booklet: the institutional facts are taken, the winners' personal circumstances are not.",
+      "sources": [
+        "src_concordia_thursday_report_1990_11_15"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5453",
+      "category": "institutional",
+      "date_ref": "1991",
+      "entities": [
+        "A. Ross Seaman",
+        "Prescott-Russell",
+        "Vankleek Hill"
+      ],
+      "claim": "HIS HOME COUNTY WAS A CONSTITUENCY OF THE AWARD SCHEME, NOT A SEPARATE LOCAL MEMORIAL. Concordia's Thursday Report of 6 June 1991: the award 'is offered to groups that the late Ross Seaman was involved in, such as the YMCA, Kamp Kanawana, Concordia's Department of Applied Social Science, as well as Dawson College AND IN HIS HOME COMMUNITY OF PRESCOTT-RUSSELL.' PRESCOTT-RUSSELL is the united counties of eastern Ontario containing VANKLEEK HILL, which wiki/people/a-ross-seaman.md already names as his home community and as the site of one of the five scholarships honouring him. This names the county and shows the home community was written into the award scheme itself. THE SAME PIECE DATES AND MOVES THE CUP: 'The Ross Seaman Cup, an annual \"friendly\" competition, WAS HELD IN MAY AT THE BEACONSFIELD RECREATION CENTRE', against March 1992 at Loyola -- so the event was fixed to neither a month nor a place. The award itself was presented that year at a seminar called 'LEISURE IN THE 21ST CENTURY' in March, to Peter Clark of Leisure Studies, 'THE FIRST TIME THAT THE AWARD WAS GIVEN TO A STUDENT IN THAT DEPARTMENT'. Clark is named because that is a fact about the award rather than about him, and because the same name appears in the fund's 2007 honour roll, which independently confirms that roster's accuracy.",
+      "sources": [
+        "src_concordia_thursday_report_1991_06_06"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5454",
+      "category": "institutional",
+      "date_ref": "1992-03-20",
+      "entities": [
+        "A. Ross Seaman",
+        "Camp Kanawana",
+        "Concordia University",
+        "Dawson College"
+      ],
+      "claim": "THE SEAMAN MEMORIAL CUP'S OWN INVITATION, WITH A THEME AND A PURPOSE. Concordia's Thursday Report of 19 March 1992: 'TO THE STUDENTS OF CONCORDIA UNIVERSITY LEISURE STUDIES AND A.P.S.S., DAWSON COLLEGE C.R.L.T. AND YMCA CAMP KANAWANA. You are invited to participate in this year's A. Ross Seaman Memorial Cup, \"RECREATION AND LEISURE, A DOOR TO THE FUTURE.\" This is a ONE-DAY MISSION TO RAISE MONEY FOR THE SCHOLARSHIP FUND, learn leadership development and have a great time. The day will kick off with an INTERGALACTIC GAME OF SPACEBALL and includes other OUT-OF-THIS-WORLD EVENTS, such as variety show, t-shirts, free dinner, an auction and awards. Time: 2:30 p.m. Location: Loyola Campus - Athletics Complex.' So the Cup was addressed to the four student bodies directly, had an annual theme, and its stated purpose was three things at once -- raising the scholarship money, teaching leadership development, and having a good time. ONE SMALL DISCREPANCY RECORDED AND NOT RESOLVED: this notice gives the venue as 7200 Sherbrooke St. W. and The Link's notice of the same event gives 7141, for what is the same Loyola athletics complex.",
+      "sources": [
+        "src_concordia_thursday_report_1992_03_19"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.75",
       "added_by": "ralph_loop"
     }
   ]

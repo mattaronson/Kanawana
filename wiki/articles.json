@@ -5362,7 +5362,10 @@
         "src_sgw_yearbook_1943",
         "src_concordia_seaman_award_history_2007",
         "src_concordia_undergraduate_calendars_1995_2007",
-        "src_concordia_link_1992_03_17"
+        "src_concordia_link_1992_03_17",
+        "src_concordia_thursday_report_1990_11_15",
+        "src_concordia_thursday_report_1991_06_06",
+        "src_concordia_thursday_report_1992_03_19"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -5371,7 +5374,7 @@
         "section-names"
       ],
       "file_id": null,
-      "word_count": 5880,
+      "word_count": 6491,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

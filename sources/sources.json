@@ -31335,7 +31335,61 @@
       "notes": "NAMES A NATURALIST wiki/people/sean-day.md SAYS IS NOT NAMED, and gives Day's origin as a songwriter. A companion to the McGill Daily's review of the same show one day earlier, already held. 'The music largely represents a selection of Day's compositions since he first picked up a guitar TWO YEARS AGO ON A TRIP TO INDONESIA. \"I was suffering from culture shock. I just didn't want to come out of the hut. So I borrowed a guitar and passed my time inside writing songs.\" HE TRIED OUT HIS MUSIC ON A \"CAPTIVE AUDIENCE\" AT KANAWANA... CONCORDIA DANCE STUDENT ELAINE HOOPER MET DAY WHEN THEY WORKED TOGETHER AS NATURALISTS AT CAMP. Hooper has a degree in biology and her desire to incorporate her ecological and biological knowledge into her performance was in keeping with Day's environmental themes.' Also: Day 'is presently training for a future in OPERA'; three vocalists, two guitarists, a trumpet player and two dancers, aged 17 to 30; songs by Day and McGill student Hartley Wynberg; the other dancer Alorani Martin; the show called 'Spirit Rhythms' here against the Daily's 'Spirit Rhythm'. THE CAUTION MATTERS: sean-day.md says of Day's remark that he 'used to work with a naturalist' at Kanawana that 'the naturalist is not named' and that Chris Adam is the obvious candidate. Hooper is A naturalist Day worked with there, which makes her a far stronger candidate than Adam -- but not THAT naturalist, since Day says 'a naturalist' singular and unnamed while the Link says the two of them worked 'as naturalists', describing both holding the role. The candidate changes; the question does not close. See f_5450.",
       "read_state": "extracted",
       "read_state_basis": "direct: full djvu text downloaded 2026-09-07 (single text file, checked) and the whole review read and transcribed at length."
+    },
+    {
+      "source_id": "src_concordia_thursday_report_1990_11_15",
+      "type": "periodical",
+      "title": "Mike Shahin, report of the first A. Ross Seaman Leadership Award presentation, Concordia's Thursday Report, Vol. 15 No. 11, 15 November 1990",
+      "date": "1990-11-15",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/thursday-report-1990-november-15",
+      "cache_path": "sources/cache/concordia-publications/2026-09-07-thursday-report-seaman-awards-1990-1992.txt",
+      "char_count": 117204,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.75",
+      "reliability": "secondary",
+      "notes": "'AN ADVISER TO THE YMCA FELLOWSHIP STAFF', WHICH CLOSES A LOOP OPENED EARLIER THE SAME DAY. 'Ross Seaman was a graduate of Sir George Williams University and a part-time faculty member of Concordia's APSS and Leisure Studies Departments. HE ORIGINATED THE DAWSON COLLEGE COMMUNITY RECREATION AND LEADERSHIP PROGRAMME AND WAS AN ADVISER TO THE YMCA FELLOWSHIP STAFF.' The Fellowship is the Montreal YMCA's Training Fellowship, documented today from Sir George yearbooks of 1942-43 as a paid apprenticeship in the secretaryship with college enrolment as its academic half; Concordia's obituary says Seaman 'attended Sir George as a YMCA Fellowship Secretary' in the 1940s. HE CAME THROUGH THE SCHEME AND LATER ADVISED ITS STAFF. 'Originated' the Dawson CRLT programme is also stronger than the wiki's 'teacher and chairperson' from 1974, and is recorded as the university's claim rather than adopted flat. AND THERE WERE FIVE AWARDS, NOT ONE: 'Five Leadership Awards have been created in his name to be presented annually. TWO awards are presented to Concordia students in the APSS and Leisure Studies programmes. The other awards are presented to students at DAWSON, those involved with the YM/WCA and with KAMP KANAWANA' -- which explains the 1995-96 calendar's plural 'Scholarships', and note YM/WCA, putting the YWCA in the scheme, which no other source here does. MRS MARGARET SEAMAN was present at the presentation, three years after his death, with APSS Professor Dick McDonald and APSS Chair Richard Cawley; McDonald's line is 'No matter who (Seaman) was with, they always came out of the experience more upbeat than when they went in.' The winner is named and described in the article and is NOT reproduced in the wiki, consistent with r_0006. See f_5451, f_5452.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded 2026-09-07 (single text file, checked) and the whole report read and transcribed."
+    },
+    {
+      "source_id": "src_concordia_thursday_report_1991_06_06",
+      "type": "periodical",
+      "title": "\"The A. Ross Seaman Award for outstanding community leadership\", Concordia's Thursday Report, Vol. 15 No. 30, 6 June 1991",
+      "date": "1991-06-06",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/thursday-report-1991-june-6",
+      "cache_path": "sources/cache/concordia-publications/2026-09-07-thursday-report-seaman-awards-1990-1992.txt",
+      "char_count": 175684,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.75",
+      "reliability": "secondary",
+      "notes": "NAMES A SIXTH CONSTITUENCY AND SHOWS THE CUP MOVING. 'The A. Ross Seaman Award for outstanding community leadership was presented at the \"LEISURE IN THE 21ST CENTURY\" seminar in March. The award went to Peter Clark, a student in Leisure Studies. Though it was THE FIRST TIME THAT THE AWARD WAS GIVEN TO A STUDENT IN THAT DEPARTMENT, the award is offered to groups that the late Ross Seaman was involved in, such as the YMCA, Kamp Kanawana, Concordia's Department of Applied Social Science, as well as Dawson College AND IN HIS HOME COMMUNITY OF PRESCOTT-RUSSELL.' PRESCOTT-RUSSELL is the united counties of eastern Ontario containing VANKLEEK HILL, which the wiki already names as his home community and as the site of one of the five memorial scholarships -- so the home community was a constituency of the award scheme itself, not a separate local memorial. ALSO: 'THE ROSS SEAMAN CUP, an annual \"friendly\" competition, WAS HELD IN MAY AT THE BEACONSFIELD RECREATION CENTRE', against March 1992 at Loyola, so the event was fixed to neither month nor place. Peter Clark is named here because being the first recipient from his department is a fact about the award rather than about him, and because the same name appears in the 2007 honour roll, confirming that roster's accuracy. See f_5453.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded 2026-09-07 (single text file, checked) and the item read whole and transcribed."
+    },
+    {
+      "source_id": "src_concordia_thursday_report_1992_03_19",
+      "type": "periodical",
+      "title": "\"A. Ross Seaman Memorial Cup\" invitation, Concordia's Thursday Report, Vol. 16 No. 21, 19 March 1992",
+      "date": "1992-03-19",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/thursday-report-1992-march-19",
+      "cache_path": "sources/cache/concordia-publications/2026-09-07-thursday-report-seaman-awards-1990-1992.txt",
+      "char_count": 112668,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.75",
+      "reliability": "primary",
+      "notes": "THE CUP'S OWN INVITATION, WITH A THEME. 'TO THE STUDENTS OF CONCORDIA UNIVERSITY LEISURE STUDIES AND A.P.S.S., DAWSON COLLEGE C.R.L.T. AND YMCA CAMP KANAWANA. You are invited to participate in this year's A. Ross Seaman Memorial Cup, \"RECREATION AND LEISURE, A DOOR TO THE FUTURE.\" This is a ONE-DAY MISSION TO RAISE MONEY FOR THE SCHOLARSHIP FUND, learn leadership development and have a great time. The day will kick off with an INTERGALACTIC GAME OF SPACEBALL and includes other OUT-OF-THIS-WORLD EVENTS, such as variety show, t-shirts, free dinner, an auction and awards. Time: 2:30 p.m. Location: Loyola Campus - Athletics Complex (7200 Sherbrooke St. W.)' The Link's notice of the same event gives the venue as 7141 Sherbrooke St. W. against this 7200 -- a street-number discrepancy for the same complex, recorded and not resolved. See f_5454.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded 2026-09-07 (single text file, checked) and the notice read whole and transcribed."
     }
   ],
-  "source_count": 1743
+  "source_count": 1746
 }
