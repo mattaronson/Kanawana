@@ -30423,7 +30423,23 @@
       "extraction_version": "8.79",
       "reliability": "primary",
       "notes": "In the Internet Archive's ymca-montreal-fonds collection. Read 2026-09-07 under p_462 for its camp mentions only; the rest of the issue is not read. The item's plain text is named after its title, not its identifier."
+    },
+    {
+      "source_id": "src_ia_ymca_montreal_news_bulletin_12_03",
+      "type": "periodical",
+      "title": "The News Bulletin, Volume 12, Number 3 (May 1936), YMCA of Montreal — \"Institute for Camp Leaders\"",
+      "date": "1936-05",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/the-news-bulletin-vol-12-no-03",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-07T00:45:00Z",
+      "extracted": true,
+      "extraction_version": "8.80",
+      "reliability": "primary",
+      "notes": "In the Internet Archive's ymca-montreal-fonds collection. Read 2026-09-07 under p_462 for its camping content; the rest of the issue is not read. Its \"Institute for Camp Leaders\" report is contemporaneous evidence on the origin of the Canadian Camping Association."
     }
   ],
-  "source_count": 1691
+  "source_count": 1692
 }

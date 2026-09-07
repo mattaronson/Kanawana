@@ -1,7 +1,7 @@
 # Founding Dates of the Camping Associations
 
-*Status: draft | Sources: 3*
-*Last Updated: 2026-09-06 (spun out of [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]])*
+*Status: draft | Sources: 4*
+*Last Updated: 2026-09-07 (a contemporaneous 1936 source, the first in this article)*
 
 ## Overview
 
@@ -32,6 +32,18 @@ dates decide what "the movement" Kanawana belonged to actually was, and from whe
 **The founder's daughter said 1938, and was talked out of it in print.** In the association's own fiftieth anniversary issue, the magazine interviewed **Adele Ebbs** — Taylor Statten's daughter, secretary to the founding circle, and the person who kept its minutes. Asked whether the received dates sounded right, she said: "**'36 sounds early to me**… '33 sounds right." Told that her father had helped F. M. Van Wagner form the Quebec Camping Association in 1937, she answered: "**Well that is why I thought the Canadian Camping Association was not until…** my impression was that it was **1938**." The interviewer replied, "We may be celebrating 50 years under false pretenses, so let's not upset that apple cart," and she conceded: "No, 50 years makes it '36. Well, I'll buy that."^2
 
 **The best-placed living witness to the founding put it two years later than the association did, reasoning from the sequence of the Quebec association, and was overruled on the ground that the anniversary was already under way.** With Douglas McEwen's c.1947 dating of 1967, the founding-date question now has three answers, all from inside the association: **1936 in its 1980s literature, c.1947 from its president in 1967, and 1938 from the founder's daughter in 1986.** None is preferred here. A 1937 Quebec association followed by a 1938 national one is exactly the sequence a founding-circle secretary would remember, while 1936 is what a later corporate record of reorganisation would show — which is once more consistent with the two-stage reading. See conflict `c_029`.
+
+## A document of the year itself, and it says the association did not exist yet
+
+Everything above is recollection: presidents and founders' children remembering in the 1980s what had happened half a century before. **This is not.** The YMCA of Montreal's own *News Bulletin* for **May 1936** reports, three or four weeks after the event, an **Institute for Camp Leaders** arranged by the executive of the **Ontario and Quebec Boys' Work Secretaries Association**: "some **200 camp leaders** assembled at **Toronto Central Y.M.C.A.** for Saturday and Sunday, **April 4 and 5, 1936**," under Prof. **Charles Hendry** of George Williams College, Chicago, **Dr W. E. Blatz** of the University of Toronto, **Dr Harold Edwards**, and **Taylor Statten**.^4 They worked on programme building, individual adjustment, the training and supervision of leadership, and health and sanitation, splitting into four groups by long- and short-term boys' and girls' camps. Ernest Majury of the Big Brothers' Movement gave a preliminary report on a study of **homesickness**, and Hendry described what the **American Camping Association** was doing about standards.
+
+**Then the sentence that bears on this whole article:**
+
+> "One of the most interesting outcomes of the Institute was the appointment of a committee which was asked to make contact with camp groups not represented at the Institute, to discover the terms of affiliation with the American Camping Association and **to make plans for another gathering at which organization of a Canadian Camping Association might be definitely considered**."^4
+
+**So on 5 April 1936 the Canadian Camping Association did not exist**, and what existed instead was a committee with a convenor and a brief. Its members are named: **Taylor Statten (convenor)**, Miss M. Donaldson (secretary), **Miss Mary Edgar**, **A. L. Cochrane**, Rev. E. R. McLean, Miss E. Law, Miss M. Trotter, Miss E. Tyhurst, Dr Kenneth Rogers, Miss M. Jamieson, Miss Evelyn Craw, Miss M. Collver, Miss Dorothy Kirkpatrick, **W. J. G. Macdiarmid**, **O. VanWagner**, George Ross and G. S. Patterson.^4
+
+Three things follow, and a fourth does not. **First, it explains the 1936 date without endorsing it**: 1936 is the year the organizing committee was struck, which is exactly the kind of thing an association counts fifty years from and a participant does not call the founding. That reconciles the association's own "fifty years in 1986" with **Adele Ebbs's 1938** rather than pitting them against each other. **Second, it corroborates the supper club from outside her memory**: Edgar, Hamilton, Chapman, Cochrane and Statten are all on one or other of the two 1936 committees. **Third, Quebec is in the parent body's own name**, and an **O. VanWagner** sits on the organizing committee a year before F. M. Van Wagner founded the Quebec association — *whether they are the same man is not established here and should not be assumed*. **What it does not do is date the founding.** It fixes only that the founding had not happened by April 1936 and that a further gathering was planned. See conflict `c_029`, which this narrows and does not close.
 
 ## The founding circle was the Ontario association's
 
@@ -75,3 +87,4 @@ This article already carries three datings for Kanawana's own provincial associa
 1. Douglas G. McEwen, "Camping… A Retrospective — Canadian Camping Association Comes of Age," pp. 11-12, a reprint of his presidential article of Autumn 1967, with Janet Adamson's "The President's Message," p. 5, and the CCA/ACC *Publications* catalogue, *Canadian Camping Magazine* Vol. 37 No. 4 (Autumn 1985) [src_ia_canadian_camping_collection]. Found in the word-for-word read of the digitized run.
 2. "Personality Profile: Taylor Statten — Interview with Adele Ebbs," pp. 10-16, and "Camping From Coast To Coast," the Quebec column, p. 4, *Canadian Camping Magazine* Vol. 38 (1986) [src_ia_canadian_camping_collection]. The association's own fiftieth anniversary issue.
 3. Ken Willis, "Quebec Regional News," p. 5, and "Personality Profile — Mary S. Edgar," the interview with Barbara and John Gilchrist, pp. 9-15, *Canadian Camping Magazine* (Winter 1987) [src_ia_canadian_camping_collection].
+4. "Institute for Camp Leaders," *The News Bulletin* Vol. 12 No. 3 (May 1936), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_12_03]. Internet Archive item `the-news-bulletin-vol-12-no-03`, in the `ymca-montreal-fonds` collection. **The only contemporaneous source in this article**; everything else here is 1980s recollection. Found 2026-09-07 by the enumeration at [f_5243]. See [f_5247].

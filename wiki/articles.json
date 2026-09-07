@@ -11562,9 +11562,12 @@
         }
       ],
       "ralph_loops_completed": 0,
-      "kb_facts_used": [],
+      "kb_facts_used": [
+        "f_5247"
+      ],
       "sources_cited": [
-        "src_ia_canadian_camping_collection"
+        "src_ia_canadian_camping_collection",
+        "src_ia_ymca_montreal_news_bulletin_12_03"
       ],
       "cross_links": [
         "canadian-camping-movement",
@@ -11576,7 +11579,7 @@
         "movement-archive-turn"
       ],
       "file_id": null,
-      "word_count": 1873,
+      "word_count": 2424,
       "open_questions": 3
     },
     {

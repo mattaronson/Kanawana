@@ -1,8 +1,8 @@
 {
-  "version": "8.79",
-  "kb_version": "8.79",
+  "version": "8.80",
+  "kb_version": "8.80",
   "migrated_from": "3.3",
-  "fact_count": 5208,
+  "fact_count": 5209,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93917,6 +93917,29 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.79",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5247",
+      "category": "institutional",
+      "date_ref": "1936-04",
+      "entities": [
+        "Canadian Camping Association",
+        "Taylor Statten",
+        "Mary S. Edgar",
+        "YMCA of Montreal",
+        "Toronto Central YMCA",
+        "American Camping Association"
+      ],
+      "claim": "A CONTEMPORANEOUS 1936 DOCUMENT SAYS THE CANADIAN CAMPING ASSOCIATION DID NOT YET EXIST IN APRIL 1936, AND NAMES THE COMMITTEE APPOINTED TO PLAN IT. The News Bulletin of the YMCA of Montreal for MAY 1936 reports an Institute for Camp Leaders arranged by the executive of the ONTARIO AND QUEBEC BOYS' WORK SECRETARIES ASSOCIATION: 'some 200 camp leaders assembled at Toronto Central Y.M.C.A. for Saturday and Sunday, APRIL 4 AND 5, 1936', led by Prof. Chas. Hendry of George Williams College Chicago, Dr W. E. Blatz of the University of Toronto, Dr Harold Edwards of Toronto, and Taylor Statten, on programme building, individual adjustment, leadership training and supervision, and health and sanitation. It broke into four groups by long- and short-term boys' and girls' camps; Ernest Majury of the Big Brothers' Movement gave a preliminary report on a study of HOMESICKNESS; and Hendry described the American Camping Association's work on standards. THEN THE PASSAGE THAT MATTERS: 'One of the most interesting outcomes of the Institute was the appointment of a committee which was asked to make contact with camp groups not represented at the Institute, to discover the terms of affiliation with the American Camping Association and TO MAKE PLANS FOR ANOTHER GATHERING AT WHICH ORGANIZATION OF A CANADIAN CAMPING ASSOCIATION MIGHT BE DEFINITELY CONSIDERED.' The committee: Taylor Statten (convenor), Miss M. Donaldson (secretary), Miss Mary Edgar, A. L. Cochrane, Rev. E. R. McLean, Miss E. Law, Miss M. Trotter, Miss E. Tyhurst, Dr Kenneth Rogers, Miss M. Jamieson, Miss Evelyn Craw, Miss M. Collver, Miss Dorothy Kirkpatrick, W. J. G. Macdiarmid, O. VanWagner, George Ross, G. S. Patterson. The Institute's own planning committee is named separately and includes Ed. Archibald, Ernest Chapman, Mildred Collver, Margaret Davison, Mary Edgar, Bessie Hamilton, Cecil H. Irwin, Gordon McKinnon, Ernest Majury, Taylor Statten, George S. Patterson, Eunice Tyhurst, Mrs Edward Turkington and William Turnbull. WHAT THIS ESTABLISHES AND WHAT IT DOES NOT. IT ESTABLISHES that as of 4-5 April 1936 the Canadian Camping Association DID NOT EXIST and its organization was a proposal with a convenor. IT DOES NOT DATE THE FOUNDING. It is nonetheless a different KIND of evidence from everything association-founding-dates.md holds, all of which is 1980s recollection: this is from the year itself, printed three or four weeks after the meeting. IT ALSO NAMES THE CIRCLE Adele Ebbs described as the pre-association supper club -- Edgar, Hamilton, Chapman, Cochrane, Statten are all here -- and it puts QUEBEC in the parent body's own name and O. VanWagner on the organizing committee, a year before F. M. Van Wagner founded the Quebec association in 1937. Whether the two Van Wagners are one man is NOT established here.",
+      "sources": [
+        "src_ia_ymca_montreal_news_bulletin_12_03"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [
+        "c_029"
+      ],
+      "added_version": "8.80",
       "added_by": "ralph_loop"
     }
   ]
