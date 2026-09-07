@@ -1,8 +1,8 @@
 {
-  "version": "9.53",
-  "kb_version": "9.53",
+  "version": "9.54",
+  "kb_version": "9.54",
   "migrated_from": "3.3",
-  "fact_count": 5370,
+  "fact_count": 5374,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -96863,6 +96863,75 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.53",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5409",
+      "category": "institutional",
+      "date_ref": "1989-2006",
+      "entities": [
+        "A. Ross Seaman",
+        "Camp Kanawana",
+        "Concordia University"
+      ],
+      "claim": "KANAWANA WAS A STANDING FEEDER COMMUNITY FOR THE A. ROSS SEAMAN LEADERSHIP DEVELOPMENT FUND FOR NEARLY TWO DECADES. Concordia's commemorative booklet 'A History of Bursary Award Winners 1989-2006', printed 23 May 2007, carries a citation for every winner, and 'Kanawana' occurs TWENTY-SEVEN times across them -- the camp is the most frequently named institution in the winners' backgrounds after Concordia itself and the YMCA generally. The camp roles named include camper, counsellor-in-training, junior counsellor, senior counsellor, nature specialist, senior camp programme lead and off-season volunteer. WHY THIS IS MORE THAN A LIST. The fund was founded at a meeting on 10 November 1987 attended by representatives of Concordia, Dawson College, the YMCA and Camp Kanawana. It then spent eighteen years awarding its bursary, year after year, to people whose leadership had been formed at that camp. The circuit Seaman himself ran -- camp into college into the profession -- was still running twenty years after his death, under his name. One winner came from VANKLEEK HILL COLLEGIATE, Seaman's home-town high school in eastern Ontario, which shows that connection running through the Montreal fund and not only as the separate home-town memorial the wiki records.",
+      "sources": [
+        "src_concordia_seaman_award_history_2007"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.54",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5410",
+      "category": "people",
+      "date_ref": null,
+      "entities": [
+        "A. Ross Seaman"
+      ],
+      "claim": "THE ONLY TESTIMONY THIS PROJECT HOLDS FROM SOMEONE SEAMAN TAUGHT, AND IT PUTS A CAMP NURSE IN HIS ORBIT. A winner of Applied Human Sciences' Human Relations Award is described as having 'caught the \"leadership bug\" early in her professional career AS A CAMP NURSE, UNDER THE MENTORSHIP OF ROSS SEAMAN'; her later roles are given as community volunteer, team builder, student facilitator and active supporter of her church. The wiki holds a great deal about what Seaman did and almost nothing from anyone he formed. It also holds almost nothing on camp nursing as a role. Her name is not written into the wiki: she is a living private individual, and the point here is Seaman rather than her -- see r_0006.",
+      "sources": [
+        "src_concordia_seaman_award_history_2007"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.54",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5411",
+      "category": "traditions",
+      "date_ref": "1992",
+      "entities": [
+        "Camp Kanawana",
+        "L&V Games",
+        "Capitaine"
+      ],
+      "claim": "AN OUTSIDE DOCUMENT ATTESTS THE CAPITAINE ROLE AT THE L&V GAMES, WITH A DECADE ON IT. A citation describes a man who had been part of the Kanawana community 'ever since the summer of 1992' as camper, counsellor-in-training, junior counsellor and finally senior counsellor, who volunteered at camper reunions and staff bowling nights and spent an off-season weekend painting cabins, and who 'as a result of his dedication to his campers and his tireless commitment to Kanawana... was selected as the \"CAPITAINE\" of the Voyageurs for the annual summer-ending Lumbermen and Voyageurs games.' wiki/traditions/lv-games.md carries a section on the Capitaine role built from the camp's own material; this is a Concordia publication attesting it from outside, and it makes the selection an honour conferred for service rather than a rota. The name is not written into the wiki -- living private individual, see r_0006 -- and the role is what matters here.",
+      "sources": [
+        "src_concordia_seaman_award_history_2007"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.54",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5412",
+      "category": "meta",
+      "date_ref": "2007-05-23",
+      "entities": [
+        "A. Ross Seaman",
+        "Concordia University"
+      ],
+      "claim": "A THIRD WITNESS TO SEAMAN'S MEMORIAL TEXT, WITH THREE VARIANTS RECORDED RATHER THAN SMOOTHED. The booklet reprints the statement the wiki holds from Canadian Camping Magazine's fund notice of Winter 1988 and from Concordia's Applied Human Sciences department. Where they differ: (1) 'One colleague referred to him as A CHEERLEADER FOR THE HUMAN RACE' here, against the wiki's 'a cheerleader OF the human race'; (2) 'community leader; educational innovator; consummate teacher AND MENTOR' here, against 'consummate teacher' alone in the January 1988 obituary; (3) the fund is 'the A. Ross Seaman Leadership Development Fund' here and in the magazine, while the wiki's article and Concordia's own scholarship listing call it the A. Ross Seaman MEMORIAL Leadership Development Fund -- so both names are in use by the university itself and neither is an error to correct. THIS FACT ALSO CARRIES THE LABELLING NOTE FOR r_0006. The booklet names every winner 1989-2006 and describes each in a paragraph; those people are living private individuals and the roster is deliberately not reproduced in the wiki, with the decision registered so that a later pass can tell a silent source from a silent editor.",
+      "sources": [
+        "src_concordia_seaman_award_history_2007"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.54",
       "added_by": "ralph_loop"
     }
   ]

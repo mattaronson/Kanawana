@@ -1,7 +1,7 @@
 # The L&V Games
 
-*Status: E1-reviewed | Sources: 20*
-*Last Updated: 2026-07-10*
+*Status: E1-reviewed | Sources: 21*
+*Last Updated: 2026-09-07 (the Capitaine role attested from outside the camp, and earlier)*
 
 The L&V Games trace their origin to 1947, when the camp created "Lumberman-Voyageur Week" as a culminating event for the final week of summer. **The camp's own 1988 report states it plainly**, under Programme Highlights: "1947 Kanawana introduces new camp wide event to highlight the final session of camp. Lumbermen and Voyageurs competition is created."^13 The entire camp was divided into two teams, Voyageurs and Lumbermen (known as "Bûcherons" in French), and the week was given over to inter-team competition. The concept drew on [[connections/related-camps/camp-pine-crest|Camp Pine Crest]] in Ontario, which had run its own Lumbermen-versus-Voyageurs competition since 1940, complete with the same team symbols: an axe for the Lumbermen and a paddle for the Voyageurs.
 
@@ -168,6 +168,22 @@ The upshot is a stronger continuity claim than this article previously made. **T
 
 The role of "Capitaine" — leader of the Voyageur team — is considered one of the highest honours a staff member can receive. Leigh Evans, who attended Camp Kanawana for six summers (one as a camper, one as a Leader-in-Training, four as staff), was named Capitaine for the Voyageur team in 2012. She credited Camp Kanawana with shaping her career as an educator.^6
 
+**A second, earlier instance, from outside the camp's own paper.** Concordia's booklet of bursary
+winners for the A. Ross Seaman Leadership Development Fund, printed in 2007, describes a winner who
+had been part of the Kanawana community "ever since the summer of 1992" — camper, then
+counsellor-in-training, then junior counsellor, then senior counsellor, volunteering at camper
+reunions and staff bowling nights and spending an off-season weekend painting cabins — and records
+that "**as a result of his dedication to his campers and his tireless commitment to Kanawana, he was
+selected as the 'Capitaine' of the Voyageurs for the annual summer-ending Lumbermen and Voyageurs
+games**."^21
+
+Two things follow. The role is attested by a document produced outside the camp, in a university's
+own publication, which is better evidence that the honour was understood as one beyond Kanawana's
+walls. And the citation states the *grounds* — dedication and commitment over years, not seniority or
+a rota — which matches this article's account of the Capitaine as an honour rather than a job. He is
+not named here: he is a living private individual, and the booklet's roster is deliberately not
+reproduced in this wiki. See register entry `r_0006`.
+
 ## What the national association thought of games like these
 
 In the spring of 1982, while the Games were being played, the Canadian Camping Association's editorial committee published — in full, in both official languages — an editorial titled "**Competition in Camps: Values in Turmoil!**" arguing that competitive programming of exactly this kind should be abolished from Canadian camps.^19
@@ -241,6 +257,7 @@ Three possibilities, in the order this article thinks likeliest:
 18. Photographs of the Kanawana Annual Trophy for Lumbermen Voyageur Games (perpetual trophy, winners shields 1947-2025), supplied by the operator 2026-08-14 [src_photo_lv_annual_trophy]. Establishes the trophy's existence, form and span, and — read shield by shield — the winners roll tabulated above. See [f_1996], [f_2000], [f_2001]. Four shields were illegible in the photographs and were supplied separately (source 16); 1961 alone remains unread. The earlier note here that the shields were "not yet reliably transcribed" described the state of the work in August 2026 and no longer holds.
 19. Editorial, "Competition in Camps: Values in Turmoil!" / "L'esprit de compétition dans les camps perturbe nos valeurs," and "Interview: June Labbett" (Jay Haddad's interview of 8 March 1980 at the Royal York Hotel), *Canadian Camping* Vol. 34 No. 1 (Spring 1982), pp. 3-5 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 141). A national editorial addressed to all member camps, not a Kanawana document.
 20. W. E. (Ted) Yard, "Memorable Experiences Leading Towards Spiritual Growth," reprinted with his obituary notice in *Canadian Camping* Vol. 35 No. 1 (Spring 1983), pp. 8-9 [src_ia_canadian_camping_collection]. Found by the same read (issue 146). Yard directed Camp Pine Crest in the 1950s and early 1960s and was CCA President 1953-55; the article is undated and describes Pine Crest, not Kanawana.
+21. Concordia University, *A History of Bursary Award Winners 1989-2006*, A. Ross Seaman Leadership Development Fund, 23 May 2007 [src_concordia_seaman_award_history_2007]. Cached at `sources/cache/concordia-publications/2026-09-07-seaman-fund-award-winners-1989-2006.txt`. The winner is named in the booklet and is not named here — a living private individual; see register entry `r_0006`. See [f_5411].
 
 ## Open Questions
 
