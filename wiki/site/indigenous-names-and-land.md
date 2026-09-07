@@ -1,6 +1,6 @@
 # Indigenous Place Names and Land History
 
-*Status: R3-verified | Sources: 35*
+*Status: R3-verified | Sources: 36*
 *Last Updated: 2026-09-06 (p_369 answered, in the negative and with the instrument calibrated)*
 
 ## Overview
@@ -147,6 +147,18 @@ the assembling was done in print, deliberately, by a named author whose book the
 reprinting in 1978.
 
 Eastaugh's article is worth reading beside Edgar's talk, because it is the same tradition defending itself twenty months later and conceding more. He compares camp Indian Lore to the minstrel show in order to deny the parallel, then grants the substance of the charge: "Indian Lore in the summer camp is guilty of ignoring cultural facts … **We have stolen the tepee from the people of the plains, the grotesque and marvellously hideous masks of the Iroquois, the birch bark crafts of the Hurons and the rich and colourful designs of the West Coast Indians.**" His remedy is attribution rather than discontinuation. He also records that "the Y.M.C.A. camps in Eastern and Western Canada for years have welcomed the participation of, and appreciated the contribution of local Indians in their programs," naming Golden Lake, Couchiching, Georgian Bay, Brantford and Moosonee — which, for a YMCA camp, is a claim about Kanawana's own movement that no Kanawana source has yet confirmed or denied.^16
+
+### How it was taught: a syllabus, 1932
+
+The provenance above is a story about individuals — Edgar learning from Jolliffe, Statten teaching camp leaders in the 1920s. **Here is the same transmission as an institution.** The Montreal *News Bulletin* of June 1932 describes the spring training school that "the various **Toronto** Associations have united to conduct" for camp leaders.^36 *(Read the provenance carefully: the school is Toronto's, printed for Montreal's readers as good practice. Nothing here says Montreal ran the same one.)*
+
+Seven evening sessions, an opening banquet at an inn outside the city, loose-leaf folders of outlines and notes, and in the spring of 1932 an enrolment of **135**, over twenty-five per cent above estimate. Each evening ran in three periods: forty-five minutes in which students from the **five cooperating camps** met separately on "the Mechanics of Camping"; a short whole-institute period on **camp songs**, on the stated belief that "if the leaders know and can interpret a wide range of songs they are much more readily learned by the boys"; then an hour and a quarter of **"Practicum Periods"** with patterns and materials to take away.
+
+The practicum subjects are listed, and one of them is this:
+
+> "Dramatics and Camp Fire Programs — Stunts, Rainy day programs, Camp Fire stories, etc. Leathercraft… Nature Study… **Indian Lore — Simple Indian ceremonies, making head bands, Indian dances, etc.** Woodworking — Chiefly whittling, boat building, bird house building and fretwork… Campcraft — How to prepare for an overnight hike, simple camp cooking, care of feet, use of a canoe on longer trips…"^36
+
+**That is the answer to "how did it travel" in its plainest form.** Not a lineage of remarkable individuals but an evening class, in which "Indian Lore" sat between leathercraft and whittling as one more craft a camp leader was expected to be able to run, taught with handouts to 135 people in a single spring. Whatever Kanawana's own leaders were taught and wherever, this is the shape of the thing in the decade after its council ring script was written.
 
 ### What a systematic search returns, and what that is worth
 
@@ -306,6 +318,7 @@ The Kanawana site sits in the municipality of Saint-Sauveur, in the Laurentian h
 33. The 1951 Kamp Kanawana history, on both renamings [src_ia_kanawana_history_1951]. See [f_2371] (Lac Desjardins to Lake Wilson, for J. W. McConnell's son), [f_2372] (Lake St. Louis to Lake Kanawana). The oral-history version of the Desjardins renaming is [f_1206].
 34. Données Québec open datasets published by the Commission de toponymie: *Toponymes officiels* (131,634 rows), *Toponymes désofficialisés* (13,951 rows) and *Noms traditionnels autochtones* (2,675 rows) [src_donneesquebec_bnlq_2026]. Downloaded and queried 2026-09-06; not cached in the repo (27 MB), with every row that matters quoted in [f_4874], [f_4876], [f_4877], [f_4878].
 35. Jean-Paul Patinaude, "Camping in the North," *Canadian Camping* Vol. 21 No. 2 (Winter 1969), p. 47 [src_ia_canadian_camping_collection]. Patinaude is the spelling taken from the full word-for-word read of the run, where this author is recorded writing in Winter 1969 ([f_3331]); this scan's OCR renders the surname "Paiinaude". See [f_5230].
+36. "Camp Leaders' Training Course," *The News Bulletin* Vol. 8 No. 2 (June 1932), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_08_02]. Internet Archive item `the-news-bulletin-vol-08-no-02`, in the `ymca-montreal-fonds` collection. **The course described is Toronto's**, printed for Montreal's readers. Found 2026-09-07 by the enumeration at [f_5243]. See [f_5251].
 
 ## Research Notes
 

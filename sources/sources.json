@@ -30471,7 +30471,23 @@
       "extraction_version": "8.83",
       "reliability": "primary",
       "notes": "In the Internet Archive's ymca-montreal-fonds collection. Read 2026-09-07 under p_462 for the national Boys' Work Committee's camp policy; the rest of the issue is not read."
+    },
+    {
+      "source_id": "src_ia_ymca_montreal_news_bulletin_08_02",
+      "type": "periodical",
+      "title": "The News Bulletin, Volume 8, Number 2 (June 1932), YMCA of Montreal — \"Camp Leaders' Training Course\"",
+      "date": "1932-06",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/the-news-bulletin-vol-08-no-02",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-07T00:58:00Z",
+      "extracted": true,
+      "extraction_version": "8.84",
+      "reliability": "primary",
+      "notes": "In the Internet Archive's ymca-montreal-fonds collection. Read 2026-09-07 under p_462 for its camp-leader training article; the rest of the issue is not read. THE COURSE DESCRIBED IS TORONTO'S, printed for Montreal's readers."
     }
   ],
-  "source_count": 1694
+  "source_count": 1695
 }

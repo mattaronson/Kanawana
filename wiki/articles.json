@@ -7798,11 +7798,13 @@
         "f_1559",
         "f_4855",
         "f_4857",
-        "f_5230"
+        "f_5230",
+        "f_5251"
       ],
       "sources_cited": [
         "src_ia_canadian_camping_collection",
-        "src_seton_book_of_woodcraft_1912"
+        "src_seton_book_of_woodcraft_1912",
+        "src_ia_ymca_montreal_news_bulletin_08_02"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -7815,7 +7817,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 8499,
+      "word_count": 8887,
       "tags": {
         "era": [],
         "region": "not-applicable",

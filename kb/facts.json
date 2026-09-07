@@ -1,8 +1,8 @@
 {
-  "version": "8.83",
-  "kb_version": "8.83",
+  "version": "8.84",
+  "kb_version": "8.84",
   "migrated_from": "3.3",
-  "fact_count": 5212,
+  "fact_count": 5213,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -94000,6 +94000,25 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.83",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5251",
+      "category": "programs",
+      "date_ref": "1932-06",
+      "entities": [
+        "YMCA of Montreal",
+        "Toronto YMCA",
+        "Indian Lore",
+        "Kamp Kanawana"
+      ],
+      "claim": "A FULL YMCA CAMP-LEADER TRAINING SYLLABUS OF 1932, AND IT TEACHES INDIAN LORE AS A CRAFT. The Montreal News Bulletin of June 1932 prints a description of the spring training school that 'the various TORONTO Associations have united to conduct' -- READ THE PROVENANCE CAREFULLY: THE COURSE IS TORONTO'S, printed for Montreal's readers as good practice, and nothing here says Montreal ran the same. Seven full evening sessions; a registration fee covering an opening banquet 'in a quaint old inn just outside the city' plus loose-leaf folders, outlines and notes; enrolment in the spring of 1932 exceeding the estimate by over twenty-five per cent at 135. EACH EVENING IN THREE PERIODS: forty-five minutes in which students from the FIVE COOPERATING CAMPS meet separately on 'The Mechanics of Camping' -- schedules, order of the day, equipment, as they relate to their own camp; a short whole-institute period of instruction in CAMP SONGS, on the belief that 'if the leaders know and can interpret a wide range of songs they are much more readily learned by the boys'; then an hour and a quarter of 'Practicum Periods'. THE PRACTICUM SUBJECTS, VERBATIM: 'Dramatics and Camp Fire Programs -- Stunts, Rainy day programs, Camp Fire stories, etc. Leathercraft... Nature Study... INDIAN LORE -- SIMPLE INDIAN CEREMONIES, MAKING HEAD BANDS, INDIAN DANCES, ETC. Woodworking -- Chiefly whittling, boat building, bird house building and fretwork... Campcraft -- How to prepare for an overnight hike, simple camp cooking, care of feet, use of a canoe on longer trips... Discussion of principles of leadership... Advanced Course -- a seminar for those leaders of more mature experience.' WHY IT MATTERS TO THIS WIKI: it is the TRANSMISSION MECHANISM in a syllabus. This project traces camp 'Indian Lore' from Seton through Statten to Kanawana's council ring and asks how the practice travelled; here it is, taught in an evening school to 135 camp leaders as one craft among leathercraft and whittling, with patterns and materials handed out. It also shows camp songs treated as a leader competence to be taught rather than a thing campers pick up.",
+      "sources": [
+        "src_ia_ymca_montreal_news_bulletin_08_02"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.84",
       "added_by": "ralph_loop"
     }
   ]
