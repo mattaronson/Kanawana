@@ -1,6 +1,6 @@
 # Kanawana in Media and Culture
 
-*Status: E1-reviewed | Sources: 31*
+*Status: E1-reviewed | Sources: 32*
 *Last Updated: 2026-09-07 (every archival reference code corrected, by one; the Flickr album index read)*
 
 ## Overview
@@ -9,8 +9,15 @@ Camp Kanawana has appeared in a range of media over its 130-year history, from p
 
 ## Film and Video
 
-**1935: a government photographer shot moving pictures at the camp, and this is the earliest film of
-Kanawana on record anywhere.** Two documents from that summer describe the same visit without either
+**1918: a couple filming YMCA work around the world put Kanawana on a reel.** *The Gazette* of 11 July
+1918 reports that the camp "was visited a few days ago" by **Mr. and Mrs. Frank Lawes, of London,
+England, who are touring the world, taking film** of YMCA work; a reel of Kanawana activities was added
+to their collection.^32 Nothing here says the reel survives, where it went, or whether the couple were
+YMCA staff or independent. It is the earliest filming of Kamp Kanawana this project has any record of, and
+unlike the 1935 government film below it was made for an international YMCA audience rather than a
+government one. Both are recorded from a written notice of a filming, not from a surviving frame.
+
+**1935: a government photographer shot moving pictures at the camp.** *(Corrected 2026-09-07, within the hour. This heading read "and this is the earliest film of Kanawana on record anywhere." It is not. The 1918 filming above precedes it by seventeen years, and it was in [[history/founding-1894|Founding, 1894]] the whole time — this article's film section had simply never carried it. The error came from checking what this section already said instead of what the project already knew, which is the destination-grep rule failing in the direction that looks like diligence.)* Two documents from that summer describe the same visit without either
 naming what the other names. The camp's own season chronicle puts him in the fourth week: "the fourth
 week of camp was brightened by a visit from [Howard C.] Ross, K.C., who read a great deal of his
 delightful poetry. [A gap where a name was] official government photographer, spent some time in camp
@@ -343,6 +350,7 @@ To which can be added a fifth of a different kind: **Armand B. Ball, *Basic Camp
 29. "The Voice of Youth" No. 30, full script with the sponsor's copy, 10 November 1938 [src_ymf_1938_11_10_the_voice_of_youth_no_30], Internet Archive item `1938-11-10-the-voice-of-youth-no.-30`. **A THIRD, LONGER VERSION of the same broadcast**: 12,127 characters against the 6,248 of the script at note 25 and the 8,302 of the undated `kamp-kanawana-radio-broadcast`. Only this one carries the programme's opening, its sponsor and its advertising copy — the shorter versions begin after them. Cached at `sources/cache/ymca-montreal-fonds/1938-11-10-the-voice-of-youth-no.-30.txt`; read 2026-09-07 under p_482.
 30. Concordia University Records Management and Archives, *Finding Aid — YMCA of Montreal Fonds (P0145)*, generated 24 November 2023, 125 pp. [src_concordia_p0145_full_findingaid_pdf]. Cached at `sources/cache/concordia-findingaid/P0145-ymca-of-montreal-fonds-findingaid-2023-11-24.txt`. Re-read 2026-09-07 under p_487, which is when the reference codes below were corrected. See [f_5604].
 31. The **1935** government photographer, and his name. "A History of Kamp Kanawana", the **1935** season chronicle [src_history_1935], `sources/cache/green-triangle/1935-history.txt`, carries the fourth-week sentence about the "offielal government photographer" and the "still and moving pictures" — read with its OCR damage intact at [f_0130]. *The Green Triangle* of **20 July 1935** [src_ymf_the_green_triangle_1935_07_20] welcomes "Mr. Fowle, photographer" and reports both the photography class and the mass picture of all campers, and it is the same issue that reports **Howard C. Ross, K.C.** reading modern poetry — the visitor who dates the chronicle's fourth week. The issue of **27 July 1935** [src_ymf_the_green_triangle_1935_07_27] adds Fowle's photographs of the **21 July** chapel service. The two Green Triangle issues are together at [f_5512]; the identification of Fowle with the chronicle's government photographer, the search for him, and the null result are at [f_5628].
+32. *The Gazette* (Montreal), **11 July 1918** [src_newspapers_gazette_1918], `sources/cache/web-pages/newspapers_gazette_1918.txt`. **The cache carries the page OCR, not only the paywall wrapper**, and the paragraph headed "AT CAMP KANAWANA" is in it verbatim — checked 2026-09-07 under p_492, after the sibling record `src_newspapers_com_gazette` turned out to hold nothing but chrome. The **Frank Lawes** filming is at [f_0439] and [f_0608]; the **110**-member attendance and the **1918** activity list are at [f_0437] and [f_0438].
 
 *All four are lending-restricted on the Internet Archive and none has been read; each passage was reconstructed from overlapping Open Library search-inside queries and is cached with its queries under `sources/cache/openlibrary-search-inside/`.*
 

@@ -1,6 +1,6 @@
 {
-  "version": "10.38",
-  "kb_version": "10.38",
+  "version": "10.39",
+  "kb_version": "10.39",
   "migrated_from": "3.3",
   "fact_count": 5591,
   "facts": [
@@ -24689,7 +24689,7 @@
     },
     {
       "fact_id": "f_1467",
-      "claim": "In July 1913, detachments of Montreal YMCA boys left the city for Kamp Kanawana, with a programme for boys aged 3 to 17 that included instruction in athletics, educational subjects, and Bible study.",
+      "claim": "In July 1913, detachments of Montreal YMCA boys left the city for Kamp Kanawana, with a programme for boys aged 3 to 17 that included instruction in athletics, educational subjects, and Bible study.\n\n[PROVENANCE CORRECTED 2026-09-07 under p_492. This fact cites src_newspapers_com_gazette, whose ONLY cached artifact is `sources/cache/web-pages/newspapers_gazette_1897.txt` -- 533,742 bytes of which 2,148 are visible text, all of it newspapers.com navigation chrome plus the line 'YMCA Summer Camp Kanawana / Article from 07 Jul 1897 / The Gazette (Montreal, Quebec, Canada)'. The words 1913, 1918, 1942, Furey, Hamilton and detachment do not occur in it. The record's TITLE claims coverage of 1897, 1913, 1918, 1942 and 1962 and its char_count of 533,742 makes it look substantial; the char_count is 99.6 per cent JavaScript. So this fact's CONTENT is not supported by anything on disk. It is NOT deleted and NOT presumed false -- somebody read it somewhere in June 2026 -- but the citation does not carry it. WHAT COVERS IT INSTEAD: f_0607, on src_newspapers_gazette_1913, states the same 7 July 1913 Gazette report of two detachments and 'programme adapted for specific ages'. THE ONE THING THIS FACT ADDS AND f_0607 DOES NOT IS THE AGE RANGE, 'boys aged 3 to 17', AND THAT IS THE PART WITH NO COVER AT ALL. It is almost certainly a mis-scan -- the 1918 Gazette gives 'ages range from 12 to 17' and the 1936 CFCF script's youngest section is 'boys under twelve' -- but almost certainly is not a source. history/founding-1894.md already declined to print the range, writing 'a programme adapted for specific ages' instead, WITHOUT SAYING WHY; that silence is now written into the article. Treat 3 as unverified and do not print it.]",
       "sources": [
         "src_newspapers_com_gazette"
       ],
@@ -24706,7 +24706,7 @@
     },
     {
       "fact_id": "f_1468",
-      "claim": "In July 1918, Camp Kanawana had the largest attendance in its history with 110 members in camp, and instruction included first aid work, basket-making, camp sanitation, wrestling, tumbling, and nature study.",
+      "claim": "In July 1918, Camp Kanawana had the largest attendance in its history with 110 members in camp, and instruction included first aid work, basket-making, camp sanitation, wrestling, tumbling, and nature study.\n\n[PROVENANCE CORRECTED 2026-09-07 under p_492. This fact cites src_newspapers_com_gazette, whose ONLY cached artifact is `sources/cache/web-pages/newspapers_gazette_1897.txt` -- 533,742 bytes of which 2,148 are visible text, all of it newspapers.com navigation chrome plus the line 'YMCA Summer Camp Kanawana / Article from 07 Jul 1897 / The Gazette (Montreal, Quebec, Canada)'. The words 1913, 1918, 1942, Furey, Hamilton and detachment do not occur in it. The record's TITLE claims coverage of 1897, 1913, 1918, 1942 and 1962 and its char_count of 533,742 makes it look substantial; the char_count is 99.6 per cent JavaScript. So this fact's CONTENT is not supported by anything on disk. It is NOT deleted and NOT presumed false -- somebody read it somewhere in June 2026 -- but the citation does not carry it. WHAT COVERS IT INSTEAD: f_0437, on src_newspapers_gazette_1918, is the same claim from a cache that DOES hold the text -- 'Camp Kanawana, the Y.M.C.A. outing centre, has the largest attendance this year of any season in its history, 110 members having in camp last week-end.' Cite f_0437. Note also that the Gazette of 27 July 1918 (f_2245, a different record) gives 'about 90 boys' later the same season, which is a session-to-session difference and not a contradiction.]",
       "sources": [
         "src_newspapers_com_gazette"
       ],
@@ -24723,7 +24723,7 @@
     },
     {
       "fact_id": "f_1469",
-      "claim": "In August 1942, YMCA boys staged a parade and circus at Kanawana, with 'Games of Luck and Skill' entertaining campers at a week-end festival.",
+      "claim": "In August 1942, YMCA boys staged a parade and circus at Kanawana, with 'Games of Luck and Skill' entertaining campers at a week-end festival.\n\n[PROVENANCE CORRECTED 2026-09-07 under p_492. This fact cites src_newspapers_com_gazette, whose ONLY cached artifact is `sources/cache/web-pages/newspapers_gazette_1897.txt` -- 533,742 bytes of which 2,148 are visible text, all of it newspapers.com navigation chrome plus the line 'YMCA Summer Camp Kanawana / Article from 07 Jul 1897 / The Gazette (Montreal, Quebec, Canada)'. The words 1913, 1918, 1942, Furey, Hamilton and detachment do not occur in it. The record's TITLE claims coverage of 1897, 1913, 1918, 1942 and 1962 and its char_count of 533,742 makes it look substantial; the char_count is 99.6 per cent JavaScript. So this fact's CONTENT is not supported by anything on disk. It is NOT deleted and NOT presumed false -- somebody read it somewhere in June 2026 -- but the citation does not carry it. WHAT COVERS IT INSTEAD: f_0851 and f_0738/f_0739 carry the 5 August 1942 parade and circus in far more detail, naming R. H. Hanagan and E. E. Smee. Their own source is also uncached, and f_4888 already records that the 1942 Gazette article was not reached and may not be in the archive at all. So 1942 is thinly held whichever record is cited; this one is merely the thinnest.]",
       "sources": [
         "src_newspapers_com_gazette"
       ],
@@ -24740,7 +24740,7 @@
     },
     {
       "fact_id": "f_1470",
-      "claim": "In November 1962, citizenship training and educational programs for youth and young adults were planned at Kamp Kanawana.",
+      "claim": "In November 1962, citizenship training and educational programs for youth and young adults were planned at Kamp Kanawana.\n\n[PROVENANCE CORRECTED 2026-09-07 under p_492. This fact cites src_newspapers_com_gazette, whose ONLY cached artifact is `sources/cache/web-pages/newspapers_gazette_1897.txt` -- 533,742 bytes of which 2,148 are visible text, all of it newspapers.com navigation chrome plus the line 'YMCA Summer Camp Kanawana / Article from 07 Jul 1897 / The Gazette (Montreal, Quebec, Canada)'. The words 1913, 1918, 1942, Furey, Hamilton and detachment do not occur in it. The record's TITLE claims coverage of 1897, 1913, 1918, 1942 and 1962 and its char_count of 533,742 makes it look substantial; the char_count is 99.6 per cent JavaScript. So this fact's CONTENT is not supported by anything on disk. It is NOT deleted and NOT presumed false -- somebody read it somewhere in June 2026 -- but the citation does not carry it. WHAT COVERS IT INSTEAD: f_1529, from the Westmount Examiner of 16 November 1962, reports the same citizenship-training plan one day earlier in a different paper. That is corroboration from a second title rather than a duplicate, and it is the one of these four whose substance is best supported. traditions/programs-activities.md already carries the Examiner version.]",
       "sources": [
         "src_newspapers_com_gazette"
       ],

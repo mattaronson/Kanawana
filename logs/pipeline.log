@@ -6526,3 +6526,35 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   sources_cited (51 -> 52). Cross-linked to canoe-trips for Jack Cameron. verify/all.py: all pass.
   NEW NAMES for later work: Neri Guadagni, Wes Woo, Bud Flaherty. None has a stub; none meets the
   five-fact threshold on this one document alone, so none was spawned.
+
+2026-09-07T16:48:59Z  p_492 -- unit: a cache that exists, is large, and holds nothing.
+  Started on orphan f_1467 (July 1913 Gazette, "boys aged 3 to 17"). The 3 looked like a mis-scan, so I
+  went to the cache to check it. src_newspapers_com_gazette's cache is 533,742 bytes of which 2,148 are
+  visible text: newspapers.com navigation chrome and the line "YMCA Summer Camp Kanawana / Article from
+  07 Jul 1897". The words 1913, 1918, 1942, Furey, Hamilton and detachment do not occur in it. The record
+  is titled as covering five years, is marked extracted=true, and carries six facts. IT PASSED EVERY
+  CHECK, because checks ask whether cache_path resolves and char_count is the size of the FILE.
+  Two of the six facts (f_0441, f_1466) claim only that the 1897 article exists on that date, which the
+  shell does support. The other four assert content. All four stamped in place with what covers them
+  instead: f_1468 duplicates f_0437 whose cache DOES hold the text; f_1469 is the thinnest of three 1942
+  records and f_4888 already says that article was never reached; f_1470 is corroborated by f_1529 from
+  a different paper. Only f_1467's "aged 3 to 17" has no cover anywhere, and that is the number
+  founding-1894.md had silently declined to print. The silence is now written into the article: declining
+  to print a number is a judgement, and a judgement nobody wrote down looks from outside exactly like a
+  number nobody found. Source record corrected, reliability dropped to tertiary. kb v10.39.
+  THREE INSTRUMENTS, ALL WRONG, WHICH IS THE PART WORTH KEEPING. (1) Visible-text-to-size ratio flagged
+  ten files; hand-sampling found five real pages that are merely JavaScript-heavy, three .gitkeep, two
+  real hits -- 20 per cent precision. (2) The blocker-marker test flagged exactly the two newspapers.com
+  files and looked precise, but newspapers_gazette_1918.txt carries the paywall banner AND the full page
+  OCR including "110 members having in camp last week-end" -- 50 per cent. I had already written that one
+  off before sampling it. (3) char_count is not a content measure. None shipped; p_496 queued with the
+  only test that measures the thing itself, plus all three failures recorded so nobody rebuilds them.
+  AND A REAL ERROR OF MINE, CORRECTED IN PLACE AN HOUR OLD. The 1935 Fowle passage I wrote earlier this
+  session called it "the earliest film of Kanawana on record anywhere." It is not. The Gazette of 11 July
+  1918 records Mr. and Mrs. Frank Lawes of London filming YMCA work around the world and adding a reel of
+  Kanawana -- seventeen years earlier, sitting in founding-1894.md the whole time. I had grepped the
+  media article's own film section and found nothing earlier, which is the destination-grep rule failing
+  in the direction that looks like diligence: I checked what the destination said instead of what the
+  project knew. The heading is corrected with the old text quoted, and the 1918 filming is now IN the
+  film section where it belongs, cited to src_newspapers_gazette_1918 (real cache) rather than to the
+  catch-all. Note 32 added; sources_cited 16 -> 17. Queued p_496.

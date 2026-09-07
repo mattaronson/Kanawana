@@ -150,7 +150,7 @@
         "timeline-overview"
       ],
       "file_id": "1h-vki1U2tjYj8-zZ5gzuyW6kQXelcUnB",
-      "word_count": 6856,
+      "word_count": 6973,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- replaced the bold-field header convention with the standardized two-line header, moved the embedded c_005 editorial-resolution paragraph into the existing Revision History section (merged the separate 'Research Notes'/'Revision History' H2 sections into one, per the wiki-wide convention). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -7622,7 +7622,8 @@
         "src_concordia_p0145_full_findingaid_pdf",
         "src_history_1935",
         "src_ymf_the_green_triangle_1935_07_20",
-        "src_ymf_the_green_triangle_1935_07_27"
+        "src_ymf_the_green_triangle_1935_07_27",
+        "src_newspapers_gazette_1918"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -7636,7 +7637,7 @@
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 6103,
+      "word_count": 6368,
       "tags": {
         "era": [
           "1960s",
