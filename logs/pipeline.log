@@ -7084,3 +7084,17 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   Kanawana is conspicuously absent from that list of three.
   Added f_5643 and f_5644, corrected f_5639 in place (kb v10.56, 5606 facts). New section and note 70 in
   camp-otoreke.md (78 sources), new section and note 4 in camp-dorval.md (7 sources). All checks pass.
+
+2026-09-07T17:53:50Z  p_491 -- unit: the wartime finding reaches the article it belongs in.
+  I cross-linked wartime-kanawana.md in the previous unit without editing it, which would have left a
+  link pointing at an article that does not carry the fact. Closed that.
+  New section: "The association's other camps went to the forces, and Kanawana did not" -- Otoreke, the
+  Lakeshore Club at Dorval and the Ski Lodge at Ste-Adele "were continuously used, in the[ir] seasons, by
+  men of the Forces", and KANAWANA IS NOT IN THAT LIST. The section notices the omission without
+  explaining it away: the three named places served adults and Kanawana was a boys' camp running full
+  seasons through the war, but no document read here says the boys' camp was considered and rejected. It
+  simply is not on the list.
+  This article uses LABELLED markers (^ar, ^gt40, ^mc, ^trent) rather than numbers, so
+  scripts/wiki/add_source_note.py refused it -- correctly, with "'## Sources' has no numbered entries to
+  append after". Added ^ar43 by hand in the article's own style instead of forcing the tool.
+  Source added (5 -> 6), cross-link registered. All checks pass.

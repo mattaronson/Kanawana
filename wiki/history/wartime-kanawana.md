@@ -81,6 +81,23 @@ Fifteen have passed **STAR SWIM**." Style was "judged by two staff members" over
 chute." The camp swimming champions of 1940 were Stan Christie (twelve and under), Bob Mahn (fifteen
 and under) and Roger Jaeger (leaders and staff), with Jack Liddy "the longest under water swimmer."
 
+## The association's other camps went to the forces, and Kanawana did not
+
+The war reached Kanawana through its staff and its programme. It reached the association's *other*
+outdoor properties more directly. The annual report for the year ending 31 March 1943 lists three of
+them in one sentence: "**Camp Otoreke at Lake St. Joseph, our Lakeshore Club at Dorval, and the
+Y.M.C.A. Ski Lodge at Ste-Adèle were continuously used, in the[ir] seasons, by men of the Forces.**"^ar43
+
+**Kanawana is not in that list**, and the omission is worth noticing rather than explaining away. The
+three named places served adults — [[site/camp-otoreke|Otoreke]] was the men's camp, the Lakeshore Club
+took about twenty young men, the ski lodge was a members' chalet — while Kanawana was a boys' camp
+running full seasons throughout the war. Nothing in the report says the boys' camp was considered and
+rejected for the purpose; it simply is not on the list, and no document read here explains why.
+
+*The Lakeshore Club is new to this project.* Central Branch leased it on the shore of Lake St. Louis in
+Dorval municipality in **1941**, after the association had "for years… sought a place in near proximity
+to the city"; it is set out at [[site/camp-dorval|Camp Dorval]], whose own 1928 request it answers.^ar43
+
 ## A document that exists and has not been obtained
 
 **Trent University Archives holds a Kanawana camp brochure dated 1940**, and this article should say so
@@ -128,6 +145,7 @@ operator work rather than something this project can do from here.
 
 - ^trent: Ontario Camping Association fonds finding aid, Trent University Archives [src_trent_oca_finding_aid_pdf, src_trent_oca_fonds_78_006] — the **1940** Kanawana brochure at accession 72-007 Box 1 Folder 5, and the circa-**1970s** brochure at accession 78-006 Box 24 Folder 25. See [f_2231] and [f_2232]. Brought into this article 2026-09-07 under p_492.
 
+- ^ar43: YMCA of Montreal annual report for the year ending 31 March **1943** [src_ymf_sgw_ymca_annual_report_1943]. The "men of the Forces" sentence and the **Lakeshore Club** leased on Lake St. Louis in **1941** are at [f_5644]. Brought into this article 2026-09-07 under p_491.
 - ^ar: YMCA of Montreal Annual Reports 1941 and 1947 (Concordia-digitized run, Internet Archive) [src_ia_ymca_montreal_annual_reports_collection]
 - ^gt40: *The Green Triangle*, Issue 2, 21 July 1940, and Vol. 47 No. 4, 29 July 1940 [src_ymf_the_green_triangle_1940_07_21, src_ymf_the_green_triangle_1940_07_29]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. See [f_5520].
 - CFCF Radio Broadcast Script, June 10, 1939. [Internet Archive](https://archive.org/details/1939-06-10-kamp-kanawana-broadcast-station-cfcf) (pre-war) [src_ia_cfcf_1939, src_ia_kanawana_broadcast_cfcf_1939]. **[URL corrected 2026-09-07: this link previously carried an identifier with an extra `ymca-` in it, `1939-06-10-ymca-...`, which returns empty metadata — there is no such item. The 1941 identifier below, which does contain `ymca-`, resolves normally on the same call, so the fault was in this line and not in the archive. The camp's four surviving CFCF-related scripts are `1936-kamp-kanawana-broadcast-station-cfcf`, `1939-06-10-kamp-kanawana-broadcast-station-cfcf`, `1941-06-26-ymca-kamp-kanawana-broadcast-station-cfcf` and the undated `kamp-kanawana-radio-broadcast`, which is the 10 November 1938 *Voice of Youth* script used in [[traditions/camp-songs-cheers|Camp Songs and Cheers]].]**
