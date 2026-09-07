@@ -1,6 +1,6 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 41*
+*Status: E1-reviewed | Sources: 42*
 *Last Updated: 2026-09-06 (the article reordered into dated sections; the 1969 report narrows conflict c_066)*
 
 *Earlier revisions: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
@@ -767,6 +767,12 @@ Canoe-trip plaques recovered from the dining hall document a "Tripper" (trip lea
 
 Today, canoe tripping remains central to the Kanawana experience. The 2026 program structure offers multiple expedition pathways: Adventurers Coureurs des Bois (boys and non-binary, 13–16) provides 4–6 day introductory canoe trips in La Vérendrye Wildlife Reserve; Adventurers Pathfinders (girls and non-binary, 13–16) offers the same format, with flat-water trips in La Vérendrye or white-water trips on Quebec and Ontario rivers; and Voyageurs Ultimate (15–17) runs a 26-day white-water canoe expedition.^4 ^5 The Explorers Pioneers program (girls and non-binary, 11–12) introduces younger campers to expedition travel with 3–4 day combined canoeing and hiking trips at Papineau-Labelle Wildlife Reserve.^6 A documented Papineau-Labelle route covers roughly 22 km over 4 days, with portages of 100–690 m linking Lac Saint-Denis, Lac du Crochet, and Lac Montjoie.^7
 
+## Building them, not only paddling them, 2001-02
+
+One line in the Montreal YMCA foundation's grants table for 2001-2002 lists, under **YMCA Kamp Kanawana**, a "**Programme de construction de canots**" — a canoe-*building* programme, as distinct from everything else on this page, which is about canoes being paddled.^42 It sits beside a second Kanawana line, "Accessibilité au YMCA."
+
+*The money is not assigned here.* The scan puts **$16,323** on the accessibility line and leaves the canoe line without a figure of its own, so the amount may belong to either or be a total for both, and nothing in the table decides it. Nor is anything known about what the programme was, who ran it, how long it lasted, or whether a canoe came out of it. **"Canoe building" and "construction de canots" occur nowhere else in this project** — which, for an article this long about canoes, is worth saying plainly.
+
 ## Related Articles
 
 - [[site/camp-otoreke|Camp Otoreke]]
@@ -825,3 +831,4 @@ Today, canoe tripping remains central to the Kanawana experience. The 2026 progr
 39. Montreal YMCA news release, undated, **1970** [src_ymf_p0145_news_release_1970_2] — the Les Voyageurs recruiting release, quoting A. Ross Seaman as "the Y's Executive Director of camping." Cached at `sources/cache/ymca-montreal-fonds/p0145-news-release-1970-2.txt`; read 2026-09-06 under p_451. See [f_5108].
 40. YMCA of Montreal annual report for the year ended **31 May 1969** [src_ymf_sgw_ymca_annual_report_1968], the Les Voyageurs item. Its season is the summer of 1968 (see [f_5090]). Read 2026-09-06 under p_441. See [f_5109].
 41. Eric W. Morse, *Fur Trade Canoe Routes of Canada: Then and Now* (Ottawa: Queen's Printer, 1968), both Internet Archive copies searched in full 2026-09-06 [furtradecanoerou0000mors, furtradecanoerou0000mors_r4a7]; and the **Canadian Camping Association fonds finding aid at Trent University Archives** (https://archives.trentu.ca/index.php/canadian-camping-association-fonds and accession 78-004), fetched and read the same day. Both are null for a fur-trade route guide. See [f_5135].
+42. YMCA *Rapport Annuel 2001-2002*, French edition [src_ia_sgw_ymca_annual_report_2001_2002_fr], Internet Archive item `sgw-ymca-annual-report-2001-2002-fr`, in the `ymca-montreal-fonds` collection. The foundation grants table. Read 2026-09-07 under p_462 as a second scan of a report whose English edition this project already holds. See [f_5257].

@@ -30599,7 +30599,23 @@
       "extraction_version": "8.90",
       "reliability": "primary",
       "notes": "In the Internet Archive's ymca-montreal-fonds collection; a SHORT VERSION of the 1959 report, distinct from the full one. Read 2026-09-07 under p_462 for its camp content."
+    },
+    {
+      "source_id": "src_ia_sgw_ymca_annual_report_2001_2002_fr",
+      "type": "report",
+      "title": "YMCA Rapport Annuel 2001-2002 (French edition), YMCA of Montreal",
+      "date": "2002",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/sgw-ymca-annual-report-2001-2002-fr",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-07T01:40:00Z",
+      "extracted": true,
+      "extraction_version": "8.91",
+      "reliability": "primary",
+      "notes": "In the Internet Archive's ymca-montreal-fonds collection. The FRENCH edition of a report whose English edition this project already holds and has read. Read 2026-09-07 under p_462 as a second scan; it confirms the project's rule that the French reports are straight translations."
     }
   ],
-  "source_count": 1702
+  "source_count": 1703
 }

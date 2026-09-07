@@ -1,8 +1,8 @@
 {
-  "version": "8.90",
-  "kb_version": "8.90",
+  "version": "8.91",
+  "kb_version": "8.91",
   "migrated_from": "3.3",
-  "fact_count": 5218,
+  "fact_count": 5219,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -94111,6 +94111,23 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.90",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5257",
+      "category": "programs",
+      "date_ref": "2001-2002",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE FRENCH 2001-02 REPORT IS A TRANSLATION, AS THE RULE SAYS, AND YIELDS ONE THING THE ENGLISH READ DID NOT CATCH. Read as a second scan under p_462. Everything in its Kanawana section is already held from the English edition and was checked item by item: the year of firsts, 220-plus campers and the nineteen per cent rise, Kamp Kabaret at Westmount in November, Kanapalooza at Club Soda raising $2,000, and the first winter camp for children aged 7 to 16 -- the last of which winter-programming.md already carries WITH the nuance that the camp had been used in winter since the 1940s, so the 'first' is a first of its kind and not a first outright. THIS CONFIRMS THE PROJECT'S OWN RULE that the French annual reports are straight translations, to be used as a second scan for OCR repair rather than as fresh sources. THE ONE ITEM NOT ALREADY HELD is in a grants table: under 'YMCA KAMP KANAWANA' the foundation lists a 'PROGRAMME DE CONSTRUCTION DE CANOTS' -- a canoe-BUILDING programme, as distinct from canoe tripping -- with a second line 'Accessibilite au YMCA'. 'Canoe building' and 'construction de canots' occur nowhere else in this project. THE AMOUNT IS NOT ASSIGNED HERE: the OCR puts '16 323 $' on the accessibility line and the canoe line has no figure of its own, so the money may belong to either or be a total for both, and nothing in this scan decides it. Also present and unrecorded elsewhere: a youth exchange in which teenagers from the Westmount and Hochelaga-Maisonneuve branches met at Kamp Kanawana, at both centres and in each other's homes, and 'ont appris ensemble des notions d'economie, de developpement international et d'espagnol'.",
+      "sources": [
+        "src_ia_sgw_ymca_annual_report_2001_2002_fr"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.91",
       "added_by": "ralph_loop"
     }
   ]
