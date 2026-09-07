@@ -98,6 +98,16 @@ Its title is itself evidence: a *seventh* annual report in 1900 counts the serie
 the Camp Committee reported annually from the founding year. Only two of those reports are digitized,
 both from 1900; the other six are not online. Getting them read is tracked as `p_288`.
 
+## Twenty years before: what the association's boys' work was in 1874
+
+The association's annual report for **1874** — a volume this project did not hold until 2026-09-07 — lists among its regular meetings a **Boys' Prayer Meeting on Friday evenings**, and describes where it came from:^ar1874
+
+> "This work commenced with **a few school boys**, who, by prayer, and earnest work amongst their fellows, in a short time succeeded in frequently gathering **an attendance of 120 and upwards**. There were occasions when the supervision of a responsible representative of the Committee, became needful; but on the whole, a good work was accomplished… This meeting is still held every Friday evening, but **the attendance now averages about 20 to 25**."
+
+**The association's work with boys began as something the boys ran and adults supervised when they had to**, reached over 120, and had fallen to a fifth of that by 1874. That is the state of Montreal boys' work twenty years before the first camp, and it sits directly beside the claim the association printed in 1944 that "the first organized boys' work in Canada was begun by the Montreal and Toronto Y.M.C.A.'s in **1873**" (see [[history/oldest-camp-question|The Oldest Camp Question]]). This is Montreal's report for the very next year, saying what that work actually was.
+
+**Two names on the same pages matter here.** The secretary is **D. A. Budge**, twenty years before he is the general secretary at the camp's founding. And the board includes a **C. Cushing** — which pushes that family's service to the association back thirteen years before the 1887 *Year Book* lists Charles Cushing as corresponding member for Quebec, and twenty-one before the Point St. Charles benefactors' list of 1895. *Which Cushing is not established*: the report gives an initial in a damaged scan and no first name, and the surname is not rare. The word "camp" does not occur anywhere in the report.^ar1874
+
 ## Precursors: Cushing and the Lake St. Joseph Trips (1892-1893)
 
 According to the Quebec Anglophone Heritage Network (QAHN), Lemuel Cushing brought a group of boys to Lake Saint-Joseph in Saint-Adolphe-d'Howard in 1892. The Concordia archives (fonds P145, sub-series 12L) contain camper lists, financial records, and fishing rights documentation dating to 1893, confirming organized activity at the site a full year before the conventional 1894 founding. Separately, sub-series 12A holds a "Report — trip to St. Agathe" dated 1893/1895, described as the "Journal of the first Montreal YMCA venture to explore the country round about St. Agathe with the view of securing a lake on which to establish a Summer Camp." This document confirms the YMCA was actively scouting the Laurentian territory for a permanent camp site as early as 1893. Whether 1893 represents a continuation of Cushing's initiative or a separate test run by Ball is not established. What *is* now established is the planning body behind it: the 1951 "Kamp Kanawana History" records that in the fall of 1892 "a Committee of Messrs. J. W. Ross, W. E. Cushing, W. W. Wilson, T. Duncan Patton and W. H. Ball, was appointed," and that the origin lay in a fishing trip General Secretary D. A. Budge made to Lac Des Isles that summer with a Director of the Association — the train then running only as far as Ste-Jérôme, the rest by horse and cart.^h51
@@ -226,6 +236,7 @@ The 1923 brochure and 1935 history together describe a camp that had grown into 
 
 ## Sources
 
+- **ar1874** — YMCA of Montreal Annual Report, **1874** [src_ia_sgw_ymca_annual_report_1874], Internet Archive item `sgw-ymca-annual-report-1874`, in the `ymca-montreal-fonds` collection. Found 2026-09-07 by the enumeration at [f_5243]; read for its officers and its boys' work, the rest not read. See [f_5255].
 - YMCA Quebec official history page (ymcaquebec.org/en/summer-camp-kanawana/history)
 - QAHN article: "The YMCA Camp of Saint-Adolphe d'Howard" (qahn.org)
 - Concordia University Archives, YMCA of Montreal fonds P145, sub-series 12L (Lac St-Joseph/Camp Jubilee)

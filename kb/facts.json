@@ -1,8 +1,8 @@
 {
-  "version": "8.88",
-  "kb_version": "8.88",
+  "version": "8.89",
+  "kb_version": "8.89",
   "migrated_from": "3.3",
-  "fact_count": 5216,
+  "fact_count": 5217,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93851,7 +93851,7 @@
         "YMCA of Montreal",
         "Concordia University"
       ],
-      "claim": "THE MONTREAL YMCA FONDS ON THE INTERNET ARCHIVE IS FOUR TIMES THE SIZE OF WHAT THIS PROJECT HAS READ FROM IT, AND FORTY-SEVEN OF THE UNREAD ITEMS ARE TEXTS. An enumeration on 2026-09-07 (advancedsearch.php, q=\"ymca of montreal\", rows=1000) returns 942 items. Checked one by one against sources.json, kb/facts.json and the cache filenames: 458 are held or cited somewhere in this project and 484 ARE NOT. Of those 484, 437 are images and 47 are texts. THE FORTY-SEVEN TEXTS ARE THE FIND, and they are whole serial runs this project has never touched: THE QUARTERLY REPORTER No. 1 (1856), the association's earliest periodical, five years after its founding; the ANNUAL REPORT FOR 1874; CANADIAN MANHOOD, six issues 1914-1919; THE NEWS BULLETIN, about twenty issues from 1931 to 1949; the NATIONAL COUNCIL BULLETIN, about ten issues 1950-1968; a short-version annual report for 1959; bulletins of 1970 and 1982; and a French annual report for 2001-2002. Greps confirm the titles: 'Canadian Manhood', 'Quarterly Reporter' and 'National Council Bulletin' occur NOWHERE in this project, and the four hits on 'news bulletin' are a single 1970 bilingual release, a different publication. THE 437 IMAGES ARE NOT DISMISSED: they are city-branch photographs catalogued with generic titles -- Basketball, Norris Building, Gym, Day Camp Activity, Pool -- and because they are NOT catalogued by camp, a Kanawana photograph among them would never surface in a search on the camp's name. A TRAP WORTH THE LINE IT TAKES: the plain-text file in these items is named after the item's TITLE and not its identifier, so the obvious <identifier>_djvu.txt returns HTTP 404 with a 146-byte body. Read the file list from archive.org/metadata/<identifier> and take the name ending _djvu.txt. The full list of the 47 is cached.",
+      "claim": "[CORRECTED 2026-09-07 BY OPENING THE ITEM. I listed among the unread texts 'THE QUARTERLY REPORTER No. 1 (1856), the association's earliest periodical, five years after its founding.' THAT IS WRONG THREE WAYS AND I HAD IT FROM THE CATALOGUE RATHER THAN THE DOCUMENT. (1) THE ITEM IS A JUNE 1944 PERIODICAL, Vol. 18 No. 6, which REPRODUCES the Quarterly Reporter's front page as a historical curiosity; the Internet Archive's date field of 1856 is the date of the thing pictured, not of the thing scanned. (2) THE REPRODUCED TITLE PAGE READS 'JANUARY, 1858. NUMBER ONE', not 1856 -- and the 1944 caption beside it says the Reporter 'was published from 1856 through 1858', so the two do not agree and neither is adopted here. (3) IT IS NOT MONTREAL'S. The masthead reads 'PUBLISHED BY THE CONFEDERATION OF YOUNG MEN'S CHRISTIAN ASSOCIATIONS ... UNDER THE DIRECTION OF THE CENTRAL COMMITTEE AT CINCINNATI, O.' It is the North American confederation's organ. The 1944 caption does establish one useful thing: the Quarterly Reporter 'was succeeded by the Young Men's Christian Journal' and 'is the first of the many ancestors of the National Council Bulletin', which is the lineage of the run read under p_462. THE LESSON IS THE ONE THIS PROJECT ALREADY WROTE DOWN FOR THE YMCA YEAR BOOK: A CATALOGUE YEAR IS WORTHLESS. I repeated the error in the same week the inventory warning against it was written. The original record follows.] [SUPERSEDED 2026-09-07: THE MONTREAL YMCA FONDS ON THE INTERNET ARCHIVE IS FOUR TIMES THE SIZE OF WHAT THIS PROJECT HAS READ FROM IT, AND FORTY-SEVEN OF THE UNREAD ITEMS ARE TEXTS. An enumeration on 2026-09-07 (advancedsearch.php, q=\"ymca of montreal\", rows=1000) returns 942 items. Checked one by one against sources.json, kb/facts.json and the cache filenames: 458 are held or cited somewhere in this project and 484 ARE NOT. Of those 484, 437 are images and 47 are texts. THE FORTY-SEVEN TEXTS ARE THE FIND, and they are whole serial runs this project has never touched: THE QUARTERLY REPORTER No. 1 (1856), the association's earliest periodical, five years after its founding; the ANNUAL REPORT FOR 1874; CANADIAN MANHOOD, six issues 1914-1919; THE NEWS BULLETIN, about twenty issues from 1931 to 1949; the NATIONAL COUNCIL BULLETIN, about ten issues 1950-1968; a short-version annual report for 1959; bulletins of 1970 and 1982; and a French annual report for 2001-2002. Greps confirm the titles: 'Canadian Manhood', 'Quarterly Reporter' and 'National Council Bulletin' occur NOWHERE in this project, and the four hits on 'news bulletin' are a single 1970 bilingual release, a different publication. THE 437 IMAGES ARE NOT DISMISSED: they are city-branch photographs catalogued with generic titles -- Basketball, Norris Building, Gym, Day Camp Activity, Pool -- and because they are NOT catalogued by camp, a Kanawana photograph among them would never surface in a search on the camp's name. A TRAP WORTH THE LINE IT TAKES: the plain-text file in these items is named after the item's TITLE and not its identifier, so the obvious <identifier>_djvu.txt returns HTTP 404 with a 146-byte body. Read the file list from archive.org/metadata/<identifier> and take the name ending _djvu.txt. The full list of the 47 is cached.]",
       "sources": [
         "src_ia_ymca_montreal_fonds_enumeration_2026"
       ],
@@ -94074,6 +94074,25 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.88",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5255",
+      "category": "institutional",
+      "date_ref": "1874",
+      "entities": [
+        "YMCA of Montreal",
+        "D. A. Budge",
+        "Charles Cushing",
+        "Kamp Kanawana"
+      ],
+      "claim": "MONTREAL'S BOYS' WORK IN 1874 WAS A FRIDAY PRAYER MEETING THAT THE BOYS STARTED THEMSELVES, AND IT WAS ALREADY IN DECLINE. The association's annual report for 1874 -- twenty years before the camp, and a volume this project did not hold until today -- lists among its regular meetings a BOYS' PRAYER MEETING on Friday evenings, and describes it: 'This work commenced with A FEW SCHOOL BOYS, who, by prayer, and earnest work amongst their fellows, in a short time succeeded in frequently gathering AN ATTENDANCE OF 120 AND UPWARDS. There were occasions when the supervision of a responsible representative of the Committee, became needful; but on the whole, a good work was accomplished, and several instances of thorough conversion amongst the lads were evident. This meeting is still held every Friday evening, but THE ATTENDANCE NOW AVERAGES ABOUT 20 TO 25.' SO THE ASSOCIATION'S WORK WITH BOYS BEGAN AS A BOY-RUN THING THAT ADULTS SUPERVISED WHEN THEY HAD TO, peaked above 120, and had fallen to a fifth of that by 1874. THAT SITS DIRECTLY BESIDE f_5249: the association's own 1944 list of firsts claims 'the first organized boys' work in Canada was begun by the Montreal and Toronto Y.M.C.A.'s in 1873', and this is Montreal's report for the very next year describing what that work was. THE OFFICERS, from the same pages: Thomas Craig president, D. A. BUDGE secretary -- twenty years before he is the association's general secretary at the camp's founding -- and a board including C. CUSHING (OCR gives 'OC. CUSHING'), R. G. Brown, Robert Lay, N. R. Mudge, H. Watson, J. M. M. Duff, W. Drysdale, W. Blackley, George Young, R. Henderson, W. Tees, O. C. Edwards, B. Hugman, D. Bentley and S. Caldecott. A CUSHING ON THE MONTREAL BOARD IN 1874 pushes that family's association service back thirteen years before the 1887 Year Book's Charles Cushing as corresponding member for Quebec, and twenty-one before the 1895 Point St. Charles benefactors' list (f_5206). WHICH Cushing is NOT established: the initial is a single letter in a damaged scan and no first name is given. The word 'camp' does not occur anywhere in the report.",
+      "sources": [
+        "src_ia_sgw_ymca_annual_report_1874"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.89",
       "added_by": "ralph_loop"
     }
   ]

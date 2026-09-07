@@ -30567,7 +30567,23 @@
       "extraction_version": "8.88",
       "reliability": "primary",
       "notes": "In the Internet Archive's ymca-montreal-fonds collection. Read 2026-09-07 under p_462 for its camping content; the rest is not read."
+    },
+    {
+      "source_id": "src_ia_sgw_ymca_annual_report_1874",
+      "type": "report",
+      "title": "YMCA of Montreal Annual Report, 1874",
+      "date": "1874",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/sgw-ymca-annual-report-1874",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-07T01:25:00Z",
+      "extracted": true,
+      "extraction_version": "8.89",
+      "reliability": "primary",
+      "notes": "In the Internet Archive's ymca-montreal-fonds collection. Twenty years before the camp. Read 2026-09-07 under p_462 for its officers and its boys' work; the rest is not read. The word 'camp' does not occur in it."
     }
   ],
-  "source_count": 1700
+  "source_count": 1701
 }

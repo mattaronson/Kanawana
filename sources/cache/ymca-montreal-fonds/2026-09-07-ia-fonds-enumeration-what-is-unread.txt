@@ -76,3 +76,15 @@ amounts sit in a separate OCR column run and are NOT matched to names here; do n
 Canadian Manhood (1914-1919) is the association's WARTIME magazine and its 'camp' content is
 MILITARY camps, not summer camps -- 45 and 71 hits in two issues, all of that kind.
 The 1874 annual report contains the word 'camp' zero times.
+
+CORRECTION, 2026-09-07, ADDED AFTER OPENING ONE OF THE ITEMS
+-------------------------------------------------------------
+the-quarterly-reporter-1856-01 IS NOT AN 1856 DOCUMENT AND IS NOT MONTREAL'S. It is a JUNE 1944
+periodical, Vol. 18 No. 6, which reproduces the Quarterly Reporter's front page as a curiosity. The
+reproduced page reads "JANUARY, 1858. NUMBER ONE" and its masthead gives the publisher as the
+Confederation of Young Men's Christian Associations under the Central Committee at CINCINNATI, OHIO.
+The Archive's 1856 date field is the date of the thing pictured. The 1944 caption is worth keeping:
+the Quarterly Reporter "was published from 1856 through 1858 and was succeeded by the Young Men's
+Christian Journal. It is the first of the many ancestors of the National Council Bulletin."
+TREAT EVERY YEAR IN THE TABLE ABOVE THE SAME WAY -- it comes from the catalogue, and this project
+already learned on the YMCA Year Book that a catalogue year is worthless.
