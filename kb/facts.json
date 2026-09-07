@@ -1,8 +1,8 @@
 {
-  "version": "9.68",
-  "kb_version": "9.68",
+  "version": "9.69",
+  "kb_version": "9.69",
   "migrated_from": "3.3",
-  "fact_count": 5406,
+  "fact_count": 5407,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -97086,7 +97086,7 @@
         "research method",
         "Weredale House"
       ],
-      "claim": "A FALSE POSITIVE RECORDED SO IT IS NOT CHASED TWICE. Concordia's FYI of 23 January 1975 matches the sweep's 'Weredale' keyword on 'St. Stephen's Church Hall, 1B WEREDALE RD.', in a listing for the Arcadians Musical Theatre Society's production of The Boy Friend. Weredale Road in Westmount is the street the institution was named for -- the Boys' Home of Montreal built on Weredale Park in 1930 -- but this is an address and nothing in the item concerns Weredale House or its camp. Written down because an unrecorded false positive costs the same half hour every time the corpus is swept, and because a later pass finding the string and no note would have no way to tell that it had already been read. [EXTENDED 2026-09-07: A SECOND CLASS OF THE SAME FALSE POSITIVE, and it will keep recurring. The Loyola Alumnus of January 1931 and March 1932 (identifiers loyola-alumnus-1931-jan, loyola-alumnus-1932-march) match on '18 WEREDALE PARK', which appears in their alphabetical alumni address directories against three different men -- Pierce Murphy, 'Sales Manager, Catelli Macaroni Products Corp.', with 18 Weredale Park given expressly as his RESIDENCE; Vincent Murphy; and Paul Murphy. Three Murphys at one address across two years is a family home. WHAT THIS DOES AND DOES NOT ESTABLISH. camp-weredale.md records that the Boys' Home of Montreal built its new quarters 'on Weredale Park in Westmount' in 1930, 'below St. Catherine Street off Atwater', and NO STREET NUMBER FOR THE HOME IS HELD ANYWHERE IN THIS PROJECT. So the conclusion that number 18 is not the Home rests on the three Murphys and on the Home being an institution rather than a private residence -- an inference, stated as one, not a certainty. What it does show is that WEREDALE PARK WAS A RESIDENTIAL ADDRESS BLOCK with private households on it, not a campus, which the article's phrasing does not make clear. ANY SWEEP OF MONTREAL DIRECTORIES, ALUMNI LISTS OR CITY DIRECTORIES WILL KEEP RETURNING WEREDALE PARK ADDRESSES, and they are almost all neighbours rather than the institution.]",
+      "claim": "A FALSE POSITIVE RECORDED SO IT IS NOT CHASED TWICE. Concordia's FYI of 23 January 1975 matches the sweep's 'Weredale' keyword on 'St. Stephen's Church Hall, 1B WEREDALE RD.', in a listing for the Arcadians Musical Theatre Society's production of The Boy Friend. Weredale Road in Westmount is the street the institution was named for -- the Boys' Home of Montreal built on Weredale Park in 1930 -- but this is an address and nothing in the item concerns Weredale House or its camp. Written down because an unrecorded false positive costs the same half hour every time the corpus is swept, and because a later pass finding the string and no note would have no way to tell that it had already been read. [EXTENDED 2026-09-07: A SECOND CLASS OF THE SAME FALSE POSITIVE, and it will keep recurring. The Loyola Alumnus of January 1931 and March 1932 (identifiers loyola-alumnus-1931-jan, loyola-alumnus-1932-march) match on '18 WEREDALE PARK', which appears in their alphabetical alumni address directories against three different men -- Pierce Murphy, 'Sales Manager, Catelli Macaroni Products Corp.', with 18 Weredale Park given expressly as his RESIDENCE; Vincent Murphy; and Paul Murphy. Three Murphys at one address across two years is a family home. WHAT THIS DOES AND DOES NOT ESTABLISH. camp-weredale.md records that the Boys' Home of Montreal built its new quarters 'on Weredale Park in Westmount' in 1930, 'below St. Catherine Street off Atwater', and NO STREET NUMBER FOR THE HOME IS HELD ANYWHERE IN THIS PROJECT. So the conclusion that number 18 is not the Home rests on the three Murphys and on the Home being an institution rather than a private residence -- an inference, stated as one, not a certainty. What it does show is that WEREDALE PARK WAS A RESIDENTIAL ADDRESS BLOCK with private households on it, not a campus, which the article's phrasing does not make clear. ANY SWEEP OF MONTREAL DIRECTORIES, ALUMNI LISTS OR CITY DIRECTORIES WILL KEEP RETURNING WEREDALE PARK ADDRESSES, and they are almost all neighbours rather than the institution.] [EXTENDED AGAIN 2026-09-07: A THIRD BATCH OF THE SAME FALSE POSITIVE, five items of THE PAPER, Sir George Williams' student newspaper -- paper-1969-jan-13, paper-1970-dec-7, paper-1971-jan-25, paper-1971-feb-8 and paper-1971-feb-15. All match on WEREDALE HOUSE or WEREDALE HOME in student volunteer-bureau copy, listing it among the organisations students helped -- 'the Unity Club, East End Boys Club as well as hospitals, individuals and Weredale Home' (1969); 'Catholic Family and Children Services, The Family Service Association of Montreal, The St. Kevins Boys Club, the Benedict Labour House, Dawson Boys Club, Mackay Centre for Deaf and Crippled Children, Meals on Wheels, WEREDALE HOUSE, The University Settlement Group, The Douglas Hospital, and The Y.M.C.A. Detached...' (1971) -- and one on a $100 charity line in an Evening Students' Association budget. THESE ARE THE SAME KIND OF EVIDENCE AS THE 1974 LOYOLA ITEM ALREADY WRITTEN UP: Weredale House in the company of Montreal's social agencies, taking student volunteers. Nothing about the CAMP, nothing about Kanawana, and the 1974 instance already carries that point in connections/related-camps/camp-weredale.md with two sources. Recorded rather than written up, because a third telling of the same small fact adds nothing and the identifiers need to be greppable so a later sweep does not re-chase them. RUNNING TOTAL OF THIS FALSE-POSITIVE CLASS: eight items -- one FYI street address, two Loyola Alumnus residential directories, five issues of The Paper.]",
       "sources": [],
       "confidence": "stated",
       "conflicts_with": [],
@@ -97482,6 +97482,26 @@
       "confidence": "disputed",
       "conflicts_with": [],
       "added_version": "9.68",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5445",
+      "category": "site",
+      "date_ref": "1952",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Otoreke",
+        "Camp Perrot",
+        "Christieville Ski Lodge",
+        "Sir George Williams University"
+      ],
+      "claim": "A 1952 SIR GEORGE WILLIAMS COLLEGE FUNDRAISING PROSPECTUS PUTS THE THREE CAMPS AND THE CHRISTIEVILLE SKI LODGE ON ONE MAP OF 'YOUR Y.M.C.A. OF GREATER MONTREAL'. STATE THE KIND OF EVIDENCE FIRST: the camp names do NOT occur in a sentence. They are labels on a map, and the OCR returns scattered label text with the cartography lost -- 'CAMP OTOREKE CAMP KANAWANA CAMP PERROT GOUIN BLVD CHRISTIEVILLE SKI LODGE ... ST. MICHEL RD. INTERNATIONAL COTE DE LIESSE CENTRAL Y.M.C.A. ROSEMOUNT NEW SIR GEORGE WILLIAMS COLLEGE NOTRE DAME DE GRACE ... WESTMOUNT ... BRANCH' -- with legend fragments 'Building Fund', 'Other Projects', 'Y.M.C.A. Branches'. WHAT CAN BE TAKEN: the three camps and the ski lodge were shown to donors in 1952 as part of the Association's Greater Montreal estate, beside the branches and the proposed new College building. WHAT CANNOT: any spatial relationship, distance or symbol-to-legend assignment, because those are properties of a graphic and OCR does not preserve them; THE PAGE IMAGE WOULD SETTLE THEM AND HAS NOT BEEN LOOKED AT. TWO THINGS WORTH HAVING. CHRISTIEVILLE SKI LODGE IS ON A DONOR MAP IN 1952: site/camp-otoreke.md has it only as finding-aid file titles -- purchase 1948-1951, a rental in 1948, the site in 1949, correspondence in 1959 -- and says the Y 'appears to have acquired a separate winter property and run it for at least a decade'. This is the middle of that decade, and a named entry on a fundraising map rather than a file title. AND THE CAMPS SIT INSIDE THE COLLEGE'S OWN FUNDRAISING FAMILY, which is the same institutional identity found repeatedly today -- the college on the second and third floors of the Drummond Street Y building, the Training Fellowship men staffing the camps, Camp Otoreke printed in the college calendar -- seen here from the donor's side, where the camps and the college are one institution's estate. Each camp name occurs EXACTLY ONCE in the 37,916-character document, all in this map; there is no prose about any camp anywhere in it.",
+      "sources": [
+        "src_sgw_build_a_better_future_1952"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.69",
       "added_by": "ralph_loop"
     }
   ]

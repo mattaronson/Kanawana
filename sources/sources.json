@@ -31263,7 +31263,25 @@
       "notes": "A NAMED DIRECTOR OF CAMP OTOREKE FOR 1966, WITH A REMARKABLE ROUTE TO THE JOB. 'ROBERT D. (BOB) SALLERY, B.A. 62, VALEDICTORIAN, CLASS OF 62 is now back in Montreal and WILL TAKE OVER THE POSITION OF DIRECTOR OF CAMP OTOREKE. After Sir George Bob went to Southern Illinois University with a teaching assistantship and tuition scholarship. FROM SEPTEMBER 63 TO SEPTEMBER 65 HE WAS IN BEIRUT, LEBANON WITH THE UNITED NATIONS RELIEF AND WORKS AGENCY FOR PALESTINE ARAB REFUGEES (UNRWA) RESPONSIBLE FOR THE DEVELOPMENT AND SUPERVISION OF 48 REFUGEE YOUTH ACTIVITY CENTRES scattered throughout Lebanon, Jordan, Syria and the Gaza Strip. Developed program for Canadian Y.M.C.A. summer service volunteers in the Middle East. 22 Canadian students (including 3 Georgians) have participated on a volunteer basis. In 1965 Bob was graduated from the American University of Beirut with an M.A. in Social Psychology. He has spent the last year at Dalhousie University on a doctoral program.' wiki/site/camp-otoreke.md is thin on named directors and Sallery fills 1966, the year before the camp was absorbed into Downtown Branch. The Y connection runs both ways: he built the pipeline that sent 22 Canadian students, three of them Georgians, to the Middle East as YMCA summer service volunteers. See f_5442.",
       "read_state": "extracted",
       "read_state_basis": "direct: full djvu text downloaded 2026-09-07 (single text file, checked); the Otoreke occurrence read in context and the whole entry transcribed."
+    },
+    {
+      "source_id": "src_sgw_build_a_better_future_1952",
+      "type": "report",
+      "title": "\"Build A Better Future\" — Sir George Williams College building-fund prospectus, 1952",
+      "date": "1952",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/sgw-build-a-better-future",
+      "cache_path": "sources/cache/sgw-publications/2026-09-07-build-a-better-future-1952-map.txt",
+      "char_count": 37916,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.69",
+      "reliability": "primary",
+      "notes": "A DONOR PROSPECTUS WHOSE MAP PUTS THE THREE CAMPS INSIDE THE COLLEGE'S OWN FUNDRAISING FAMILY. THE CAMP NAMES DO NOT OCCUR IN A SENTENCE -- they are labels on a map captioned 'HERE IS YOUR Y.M.C.A. OF GREATER MONTREAL', and the OCR returns the scattered label text with the cartography lost: 'CAMP OTOREKE CAMP KANAWANA CAMP PERROT GOUIN BLVD CHRISTIEVILLE SKI LODGE ... ST. MICHEL RD. INTERNATIONAL COTE DE LIESSE CENTRAL Y.M.C.A. ROSEMOUNT NEW SIR GEORGE WILLIAMS COLLEGE NOTRE DAME DE GRACE ... WESTMOUNT ... BRANCH', with legend fragments 'Building Fund', 'Other Projects', 'Y.M.C.A. Branches'. WHAT CAN BE TAKEN: that in 1952 a SIR GEORGE WILLIAMS COLLEGE fundraising prospectus showed the three camps and the Christieville ski lodge on one map of the Association's Greater Montreal holdings, beside the branches and the proposed new College building. WHAT CANNOT: any spatial relationship, distance, or symbol-to-legend assignment -- those are properties of a graphic that OCR does not preserve, and the page image has not been looked at. TWO THINGS WORTH HAVING. CHRISTIEVILLE SKI LODGE IS ON A DONOR MAP IN 1952, where camp-otoreke.md has it only as finding-aid file titles (purchase 1948-1951, rental 1948, site 1949, correspondence 1959) -- established enough by 1952 to be worth showing donors by name. And the camps sit inside the College's own fundraising estate, the same institutional identity found repeatedly today, seen from the donor's side. The prospectus proper argues that the Evening Division is 'bursting at the seams', that several hundred students were turned away, and that the Survey and Policy Committee of the YMCA recommended a new four-storey classroom and administration building beside the Drummond-Stanley Building; it names Principal Norris, Dean Henry F. Hall and Bursar Henry G. Worrell. NULLS: each of Kanawana, Otoreke, Perrot, Christieville and Gouin occurs EXACTLY ONCE in the whole document, all in that map, and there is no prose about any camp anywhere in it. See f_5445.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded 2026-09-07 (single text file, checked), the map labels and the surrounding argument read; camp-name counts run."
     }
   ],
-  "source_count": 1739
+  "source_count": 1740
 }

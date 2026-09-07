@@ -1,7 +1,7 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 57*
-*Last Updated: 2026-09-07 (Hupfield confirmed twice over; and the camp's 1979 linguistic assignment)*
+*Status: E1-reviewed | Sources: 58*
+*Last Updated: 2026-09-07 (Hupfield twice over, Sallery for 1966, the 1979 linguistic assignment, and the 1952 donor map)*
 
 ## Overview
 
@@ -566,6 +566,10 @@ Christieville property. - 1948-1951,"** with related files on a "Friendly Home-C
 (1948), the "Christieville site" (1949), and "Christieville ski lodge correspondence" (1959).^17 The
 Y appears to have acquired a separate winter property and run it for at least a decade.
 
+**And it was on a donor map in 1952, by name.** Sir George Williams College's building-fund prospectus *Build A Better Future* prints a map captioned "**Here is your Y.M.C.A. of Greater Montreal**," and among its labels are "CAMP OTOREKE, CAMP KANAWANA, CAMP PERROT, GOUIN BLVD, **CHRISTIEVILLE SKI LODGE**," alongside the branches and the proposed new College building.^58 That is the middle of the decade the finding aid brackets, and it is a named entry on a fundraising map rather than a file title — the lodge was established enough by 1952 to be worth showing donors.
+
+*What that source can and cannot support.* The camp names do not occur in a sentence: they are labels on a graphic, and what survives the OCR is scattered label text with the cartography gone. No spatial relationship, distance, or assignment of items to the legend's "Building Fund" against "Other Projects" can be read from it, and the page image has not been looked at. What it does show is that a **Sir George Williams College** prospectus asked donors to see the camps, the ski lodge and the college as one institution's estate — the same identity documented at [[connections/institutional-lineage/sgw-concordia-connection|The SGW–Concordia Connection]], seen here from the fundraising side.
+
 Two consequences for the rest of this wiki. First, the H. C. Cross file spanning **1929-1946** is the
 longest single documented span for [[people/harold-cross|Harold C. Cross]] anywhere in the archive,
 and it ties him specifically to winter programming. Second, CLAUDE.md's Phase 2 mandate lists
@@ -1034,6 +1038,7 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 55. "Re-modelled Pit Re-opens: Cafeteria Run Under New Management," *The McGill Daily* Vol. 31 No. 7, 9 October 1941 [src_mcgill_daily_1941_10_09]. Transcribed at `sources/cache/mcgill/2026-09-07-mcgill-daily-1938-and-1941.txt`. Found by the whole-corpus sweep of 9,890 McGill student publication items under p_479 — by matching *Otoreke*, since the column breaks the name as "Mr. Hup- field" and a search for it returns nothing. See [f_5407], [f_5408].
 56. "The Montreal Fact '75-'79", the YMCA of Montreal's four-year linguistic-policy review [src_ymf_1979_the_montreal_fact_75_79]. Cached at `sources/cache/ymca-montreal-fonds/2026-09-07-the-montreal-fact-75-79-linguistic-policy.txt`. See [f_5436].
 57. *The Postgrad* (Sir George Williams University alumni magazine), Vol. 22 No. 2, Summer 1966 [src_sgw_postgrad_1966_summer]; and Vol. 11 No. 1, Easter 1955 [src_sgw_postgrad_1955_04]. Transcribed in the relevant part at `sources/cache/sgw-publications/2026-09-07-postgrad-alumni-notes-1955-1966.txt`. Found by the accounted sweep of `rma-concordia-publications` under p_479. See [f_5442], [f_5444].
+58. "Build A Better Future" — Sir George Williams College building-fund prospectus, 1952 [src_sgw_build_a_better_future_1952]. The camp names are labels on a map captioned "Here is your Y.M.C.A. of Greater Montreal", not prose; transcribed with that caveat at `sources/cache/sgw-publications/2026-09-07-build-a-better-future-1952-map.txt`. See [f_5445].
 
 ## Research Notes
 
