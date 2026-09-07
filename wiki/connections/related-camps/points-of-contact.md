@@ -296,7 +296,10 @@ than a team. Its programme sections are Little Big Cove, Juniors, Seniors and Le
 the tradition it names is **"the Keeper of the Cove"**; and there is **no Voyageur section, no Lumbermen
 team and no colour-war competition** on the record.^13 The shared word is fur-trade vocabulary common to
 Canadian camping generally, and the coincidence of decade — both in the late 1940s — is a coincidence
-until a document says otherwise [f_4761].
+until a document says otherwise [f_4761]. *(Sourcing note, 2026-09-07: the KB fact behind this passage cited
+only the Wikipedia article for both halves, and the word "Voyageur" does not occur in that page at all.
+The Voyageur quote is Byrne's 1987 tribute at note 4 above, where it reads verbatim; this article had
+it right and the fact behind it did not. The fact is corrected. Nothing in the argument changes.)*
 
 This distinction matters beyond Big Cove. "Voyageur" appears across Canadian camping as a name for
 senior trippers, for canoe pageants, for whole camps. Finding the word at two camps establishes that

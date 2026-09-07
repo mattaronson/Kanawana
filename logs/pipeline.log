@@ -6582,3 +6582,29 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   pass.
   NOT established, and said so: where the ad ran, who wrote it, or whether anyone at the camp checked
   "first boys camp in Canada" before printing it.
+
+2026-09-07T16:55:08Z  p_496 -- BUILT, RUN, AND CLOSED THE SAME DAY. The check cannot be built as designed.
+  The quoted-phrase test from p_496 was implemented. First pass flagged 65 of 136 facts (48%). The quote
+  extractor was pairing the CLOSING mark of one excerpt with the OPENING mark of the next, so it was
+  testing each fact's own narration against its source. Fixed by pairing marks in order: 40 of 114 (35%).
+  STILL FAR TOO HIGH, AND THE REASON KILLS THE CHECK. Hand-testing the flagged facts showed the misses
+  are OCR. The 1969 director's report cache reads "February LST, 1969" where f_2086 quotes "February 1st,
+  1969". The 1951 history cache reads "Messrse JeWe Ross, WeEe Cushing" -- periods scanned as the letter
+  e -- where f_2072 quotes "Messrs. J. W. Ross, W. E. Cushing". THE FACTS HOLD BETTER READINGS OF THE
+  TEXT THAN THE CACHES DO, because whoever transcribed them corrected the scan. The check assumed the
+  cache is the authority and the fact is a copy; for a corpus of OCR'd typescripts that is backwards, and
+  shipping it would tell people to degrade good transcriptions back to the scanner's errors. Scoping to
+  born-digital pages, where OCR is not in play, leaves TWO candidates in the entire KB. Not a check.
+  NOTHING SHIPPED. But running it once by hand found one real defect, which is why the afternoon was not
+  wasted: f_4761 attributed Big Cove's Voyageur programme quote to src_wikipedia_big_cove, whose cached
+  page contains "Voyageur" ZERO times while containing "Keeper of the Cove" twice and every other detail
+  the fact takes from it. The quote is Kelley Byrne's 1987 tribute, Canadian Camping Vol. 38 No. 3,
+  Winter 1987, verbatim at line 1313 of that cache. The fact had combined two sources and cited one,
+  against the KB's own extraction rule. Corrected in place, second source added, kb v10.41.
+  AND THE ARTICLE WAS RIGHT WHILE THE FACT WAS WRONG. points-of-contact.md cites the Voyageur quote to
+  its note 4 (Byrne) and only the Wikipedia material to note 13. That is the reverse of the usual failure
+  and worth recording: a correctly written article does not guarantee a correctly attributed KB, so
+  auditing articles will not surface this class at all.
+  FOUR INSTRUMENTS HAVE NOW FAILED ON THIS QUESTION IN ONE AFTERNOON: visible-text ratio, blocker
+  markers, char_count, and exact quote matching. What found both real defects was reading a cache file
+  with my eyes after a fact looked odd. That is written into p_496 so nobody rebuilds any of the four.
