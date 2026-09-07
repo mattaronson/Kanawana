@@ -4760,3 +4760,30 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   unsourced, or an entry added for a passage never written, and only reading
   tells them apart.
   Verify green. Timestamp read from `date -u` in its own call.
+
+[2026-09-07T13:28:11Z] The single orphan generalised: 136 UNCITED SOURCE ENTRIES
+  ACROSS 34 ARTICLES, and no check could see any of them. NEW: f_5563, a ninth
+  verify check, p_484 expanded.
+  verify_harness tests that every citation MARKER resolves to a source ENTRY.
+  The reverse was tested by nothing, so an entry could sit uncited indefinitely
+  with every check green -- which is how this morning's spinout stranded one
+  without anything noticing.
+  CONTROLLED BEFORE BELIEVED, because eight coverage heuristics have misreported
+  in three days. The obvious artefact is articles whose sources are LETTERED
+  bullets, which the test would report as wholly uncited; three of the worst
+  offenders were checked and all use ordinary numeric markers, and articles with
+  no numbered entries are skipped. Then places-and-locations.md was read by eye:
+  28 source entries, NINE distinct markers in the whole body, entries 1 through
+  14 never cited once. Real.
+  WORST: places-and-locations 19, notable-alumni 18, myths-and-legends 17, then
+  lv-games, directors-index and canoe-trips at 8 each.
+  WHY IT IS NOT AUTO-FIXABLE. An uncited entry is either a citation LOST in an
+  edit -- in which case a claim in the article is now unsourced and the entry is
+  the evidence it once was not -- or an entry added for a passage never written.
+  Deleting all 136 risks the first; keeping all 136 guarantees the second. Only
+  reading tells them apart, so the check reports and never fixes.
+  scripts/verify/uncited_sources.py is the NINTH check, ADVISORY on the
+  section_headings.py precedent, carrying 136 as a baseline and saying so when
+  the number goes UP. The rising-count path was tested by lowering the baseline
+  and confirming the message fires. Make it blocking when p_484 clears.
+  Verify green, nine checks. Timestamp read from `date -u` in its own call.

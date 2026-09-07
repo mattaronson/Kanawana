@@ -2,7 +2,7 @@
   "version": "10.09",
   "kb_version": "10.09",
   "migrated_from": "3.3",
-  "fact_count": 5524,
+  "fact_count": 5525,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99580,6 +99580,20 @@
         "Camp Kanawana"
       ],
       "claim": "THE SPINOUT ORPHANED A FOOTNOTE AND NOTHING IN THE HARNESS NOTICED. project-docs/spinout-rule.md's mechanics list says to check which labels a cut orphans in the parent; this one orphaned entry 62, the YMCA of Montreal annual reports for 1917 and 1918, whose only two citations both left with the moved paragraphs. ALL EIGHT VERIFY CHECKS PASSED WITH THE ORPHAN IN PLACE -- the harness tests that every marker resolves to an entry, not that every entry is reached by a marker, so a cut that strands an entry is invisible to it. Found by hand, following the rule doc. FIXED PROPERLY RATHER THAN LEFT: entry 62 removed, 63 through 67 renumbered down, and every ^marker in the body shifted to match -- SCOPED TO THE SOURCES REGION, because the file has 81 lines matching a numbered-list pattern against 67 source entries, so a global renumber would have corrupted the other numbered lists. That is the same bounding lesson as the add_source_note.py fix earlier in the week. The two source ids were then removed from directors-index's sources_cited and the header count corrected from 67 to 66, which verify_harness DID catch. AND A PRE-EXISTING DEFECT SEPARATED FROM MINE RATHER THAN CONFLATED WITH IT: the same audit run against the file as it stood BEFORE the cut shows EIGHT source entries already citing nothing -- 5, 12, 13, 16, 23, 24, 25 and 32. Those are not this spinout's doing and are not fixed here, because each needs reading to tell an entry that lost its citation from one that was added for a passage never written. Queued as p_484.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5563",
+      "category": "methodology",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "136 SOURCE ENTRIES ACROSS 34 ARTICLES ARE CITED BY NOTHING, AND NO CHECK COULD SEE THEM. Found by generalising the single orphan a spinout created in directors-index.md (f_5562). verify_harness tests that every citation MARKER resolves to a source ENTRY; the reverse was tested by nothing, so an entry could sit uncited indefinitely and every check would pass. THE MEASUREMENT WAS CONTROLLED BEFORE IT WAS BELIEVED, because eight coverage heuristics have misreported in three days. The obvious artefact would be articles whose sources are LETTERED bullets rather than numbered entries, which the test would report as wholly uncited; three of the worst offenders were checked and all use ordinary numeric markers, and articles with no numbered entries are skipped entirely. Then places-and-locations.md was read by eye: 28 source entries, NINE distinct markers in the whole body, entries 1 through 14 never cited once. The defect is real. WORST: places-and-locations 19, notable-alumni 18, myths-and-legends 17, then lv-games, directors-index and canoe-trips at 8. WHY IT MATTERS: an uncited entry is one of two things and only reading tells them apart. A citation LOST in an edit means a claim in the article is now unsourced and the entry is the evidence that it once was not. An entry added for a passage never written is harmless noise. Deleting all 136 would risk the first; keeping all 136 guarantees the second. scripts/verify/uncited_sources.py is the ninth check, ADVISORY on the section_headings.py precedent, carrying 136 as a baseline and reporting when the number goes UP -- which is an edit stranding something, the case it was built for. The rising-count path was tested by lowering the baseline. Queued as p_484.",
       "sources": [],
       "confidence": "stated",
       "conflicts_with": [],

@@ -89,6 +89,17 @@ jobs:
         # failure, not present.
         run: python scripts/verify/restricted_guard.py
 
+      - name: Uncited source entries (advisory)
+        # Numbered source entries that no citation marker points at. Written
+        # 2026-09-07 after a spinout stranded an entry in directors-index.md and
+        # every existing check passed: verify_harness tests that each MARKER
+        # resolves to an ENTRY, and nothing tested the reverse. Advisory while
+        # the 136-entry backlog in p_484 remains; it still reports the number
+        # going UP, which is the case it was built for. Never auto-fixes: an
+        # uncited entry is either a lost citation, meaning some claim is now
+        # unsourced, or an entry added for a passage never written.
+        run: python scripts/verify/uncited_sources.py
+
       - name: Section headings
         # Every registered article carries the sections CLAUDE.md's template
         # names. Written 2026-09-07 after a spinout silently dropped the

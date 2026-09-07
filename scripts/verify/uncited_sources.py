@@ -1,0 +1,109 @@
+#!/usr/bin/env python3
+"""Find numbered source entries that no citation marker ever points at.
+
+WHY THIS EXISTS. On 2026-09-07 a spinout moved 1,143 words out of
+people/directors-index.md and stranded source entry 62, whose only two citations
+left with the moved paragraphs. ALL EIGHT VERIFY CHECKS PASSED WITH THE ORPHAN
+IN PLACE. verify_harness tests that every MARKER resolves to an ENTRY; the
+reverse -- every entry reached by a marker -- was tested by nothing, so an entry
+could sit uncited indefinitely. It was found by hand, following the mechanics
+list in project-docs/spinout-rule.md.
+
+WHY AN UNCITED ENTRY MATTERS, AND WHY IT CANNOT BE AUTO-FIXED. It is one of two
+quite different things and only reading tells them apart:
+
+  - a citation LOST in an edit, in which case some claim in the article is now
+    unsourced and the entry is the evidence that it once was not; or
+  - an entry added in anticipation of a passage never written, in which case the
+    article is fine and the entry is noise.
+
+Deleting all of them would risk the first; keeping all of them guarantees the
+second. So this reports and never fixes.
+
+ADVISORY, ON THE PRECEDENT section_headings.py SET. The first whole-wiki run
+found 136 uncited entries across 34 articles -- places-and-locations.md alone
+has 28 entries and cites 9 of them. That is a backlog, and a blocking check
+against a backlog trains everyone to ignore the output. Queued as p_484; make
+this blocking when it clears.
+
+WHAT IT DOES CATCH TODAY is the number going UP, which means an edit stranded
+something.
+
+LIMIT, STATED SO IT IS NOT MISREAD: articles whose sources are lettered bullets
+rather than numbered entries (programs-activities.md, coeducation-gender.md,
+french-language-camping.md) have no numbered entries and are skipped entirely.
+Their header reads "Sources: 0" by the same convention. This says nothing about
+them either way.
+"""
+import json
+import os
+import re
+import sys
+
+BASELINE = 136          # whole-wiki count at 2026-09-07, p_484
+
+
+def sources_region(text):
+    """(start, end) of the ## Sources section, bounded by the NEXT top-level
+    heading. Bounding matters: directors-index.md has 81 lines matching a
+    numbered-list pattern against 67 source entries, so an unbounded scan reads
+    Open Questions and Research Notes as sources."""
+    start = text.find('## Sources')
+    if start < 0:
+        return (-1, -1)
+    nxt = re.search(r'^## ', text[start + len('## Sources'):], re.M)
+    end = start + len('## Sources') + nxt.start() if nxt else len(text)
+    return (start, end)
+
+
+def main() -> int:
+    with open('wiki/articles.json', encoding='utf-8') as fh:
+        data = json.load(fh)
+    registered = {a['article_id']
+                  for a in (data['articles'] if isinstance(data, dict) else data)}
+
+    rows = []
+    for root, _dirs, files in os.walk('wiki'):
+        for name in sorted(files):
+            if not name.endswith('.md'):
+                continue
+            aid = name[:-3]
+            if aid not in registered:
+                continue
+            with open(os.path.join(root, name), encoding='utf-8') as fh:
+                text = fh.read()
+            start, end = sources_region(text)
+            if start < 0:
+                continue
+            entries = [int(m.group(1))
+                       for m in re.finditer(r'^(\d+)\. ', text[start:end], re.M)]
+            if not entries:                      # lettered-bullet sources
+                continue
+            body = text[:start] + text[end:]
+            marks = {int(m.group(1)) for m in re.finditer(r'\^(\d+)', body)}
+            uncited = [n for n in entries if n not in marks]
+            if uncited:
+                rows.append((len(uncited), aid, uncited))
+
+    total = sum(r[0] for r in rows)
+    print('=' * 70)
+    print('UNCITED SOURCE ENTRIES (advisory)')
+    print('=' * 70)
+    if not rows:
+        print('  PASS -- every numbered source entry is reached by a marker')
+        return 0
+    print('  %d entr(ies) across %d article(s) that no marker points at.' % (total, len(rows)))
+    print('  Baseline at p_484 was %d. %s' % (
+        BASELINE,
+        'UP BY %d -- an edit has stranded something; look at the newest change first.' % (total - BASELINE)
+        if total > BASELINE else 'Not above baseline.'))
+    for count, aid, uncited in sorted(rows, reverse=True):
+        shown = ', '.join(str(n) for n in uncited[:12])
+        more = '' if len(uncited) <= 12 else ' …+%d' % (len(uncited) - 12)
+        print('    %3d  %-38s %s%s' % (count, aid, shown, more))
+    print('  Each is either a citation lost in an edit -- so a claim is now unsourced --')
+    print('  or an entry added for a passage never written. Only reading tells them apart.')
+    return 0
+
+
+sys.exit(main())
