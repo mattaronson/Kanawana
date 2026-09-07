@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 68*
+*Status: E1-reviewed | Sources: 69*
 *Last Updated: 2026-09-07 (McKay dated to May 1962; the 1,507-camper season; and who was responsible for the camp)*
 
 ## Overview
@@ -420,6 +420,44 @@ modified water system toilets** were installed. **A direct telephone service to 
 also been provided."^68 That last phrase is worth keeping for the island question above: in 1949 the
 camp was on the island, and the association ran a telephone line out to it.
 
+### The club did not decline. It collapsed, in one year.
+
+Set 1950 beside 1959 and the ski club looks like a decade's slow drift. Fill in the years between and it
+is nothing of the kind.^69
+
+| Season | Members | Visitors |
+|---|---|---|
+| 1949-50 | **150** | 558 persons |
+| 1951-52 | **140** | aggregate attendance 1,100 |
+| 1954-55 | **the highest in its 11 years** — *the figure itself is destroyed by the scan* | — |
+| 1957-58 | **130** | close to 300 different young men and women |
+| 1958-59 | **87** | close to 100 |
+
+Membership held between 130 and 150 for the whole decade and peaked in the middle of it. Then, between
+the 1957-58 and 1958-59 seasons, it fell by a third and the visitor count by two thirds. **No report
+read here says why.**
+
+*A caveat on the right-hand column, because it is not one series:* 558 is persons, 1,100 is aggregate
+attendance and so counts repeat visits, and the last two are different people. Only the membership
+figures are like for like, and they carry the argument on their own.
+
+**1952 is the best picture of the place at its height.** "Sleeping quarters at the Laurentian Y.M.C.A.
+lodge were **taxed to the utmost during 16 weekends**, and the **overflow** of enthusiastic skiers were
+**accommodated at nearby farmhouses**… **Three ski tows** were operated near the lodge, and beginners
+classes were held throughout the season. An **operating committee of 15 men and women** took charge of
+cross-country runs, a **ski meet and carnival**, and a number of special events for club members."^69
+Sixteen weekends full, skiers billeted in farmhouses down the road because the lodge could not hold
+them, and fifteen volunteers running it.
+
+**1955, the peak year, is also the most human.** "Christieville has become a home to those who visit it
+regularly. Some guests are **from the States**, and some are **newcomers from Europe**, as well as many
+local Montrealers. **Thirty persons joined in a gathering and turkey dinner on Christmas Day.**"^69
+
+**And the scan dates the club.** "Its 11[th] year" in 1955 puts its founding at 1944 or 1945 — which is
+exactly what the 1950 report implies from the other end, in saying the lodge was "secured in the Fall of
+1947 after being used on a rental basis for **two seasons**." Two statements five years apart agreeing
+on when this began.
+
 ### 1959: not a camp any more, a lodge — and the report says why
 
 The annual report for the year ending 31 December 1959 files Otoreke under a heading it had not used
@@ -447,10 +485,10 @@ a summer, and was rewriting a residential camp as a weekend lodge with a midweek
 fill the hole. It names the mechanism, not just the symptom.
 
 **And Christieville still had a club.** *(This paragraph read "had a club" until the 1950 report was
-read twenty minutes later. The club is not a 1959 development — see the section above, where it has 150
-members and the lodge takes 558 guests in 1949-50. Set beside those figures the numbers below are not a
-report of activity but of decline: roughly half the membership and a sixth of the traffic, ten years
-on.)* "This Lodge is the **winter camp for many of the Otoreke guests, who
+read twenty minutes later, and then said "half the membership and a sixth of the traffic, ten years on,"
+which was right about the endpoints and wrong about the path. The table above has the years between: the
+club held its size for the whole decade and lost a third of it in the single year before this report.
+The numbers below are the far side of a cliff, not the bottom of a slope.)* "This Lodge is the **winter camp for many of the Otoreke guests, who
 have formed an Otoreke Ski Club**. Its **membership during the year was 87** with **close to 100 guests
 and members** visiting the Lodge during the ski weekends. It is situated in the heart of the ski country
 with **hills and tows on the property**, or easy access to St. Sauveur, Morin Heights, Mont Gabrielle,
@@ -1344,6 +1382,7 @@ centre. It is the same kind of use, twenty years earlier, that
 66. YMCA of Montreal annual reports for the years ending 30 April **1926** [src_ymf_sgw_ymca_annual_report_1926], **1928** [src_ymf_sgw_ymca_annual_report_1928] and **1929** [src_ymf_sgw_ymca_annual_report_1929], each on the previous summer. The **1925** secretaries' conference and its $28.20 deficit, the **1927** recovery to **160** with Chard, Thomas, Ellis and Mooney in charge, and the **1928** total of **211** with the $2,000 Metropolitan Board loan are together at [f_5636] — which also shows that "within five of the record attendance in the year 1920" and the **1921-1922** report's "216 in 1920" [src_ymf_sgw_ymca_annual_report_1921_1922] confirm each other.
 67. YMCA of Montreal annual report for the year ending 31 December **1959** [src_ymf_sgw_ymca_annual_report_1959], under the heading "OTOREKE SUMMER LODGE FOR ADULTS". The changed holiday habits, the **weekend** role, the conference proposal, and the Christieville **Otoreke Ski Club** with its **87** members are all at [f_5637]. Read 2026-09-07 under p_491.
 68. YMCA of Montreal annual report for the year ending 31 December **1950** [src_ymf_sgw_ymca_annual_report_1950], on the **1949** summer and the **1949-50** ski season. The **150**-member ski club and its **558** guests, the lodge "secured in the Fall of **1947** after being used on a rental basis for two seasons", the **1949** building work and the **seven** weekend conferences of June and September **1949** are all at [f_5638] — which corrects the impression left by the **1959** material at [f_5637].
+69. YMCA of Montreal annual reports for the years ending 31 December **1952** [src_ymf_sgw_ymca_annual_report_1952], **1955** [src_ymf_sgw_ymca_annual_report_1955] and **1958** [src_ymf_sgw_ymca_annual_report_1958], each on that winter's ski season. The **140** members and aggregate **1,100** of 1951-52, the peak "in its **11**[th] year" of 1954-55, and the **130** members and **300** visitors of 1957-58 are together at [f_5639], with the caveat that the attendance figures are not one series.
 
 ## Research Notes
 
