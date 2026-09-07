@@ -357,33 +357,17 @@
         "src_history_1935",
         "src_ia_canadian_camping_collection",
         "src_ia_kanawana_directors_report_1976",
+        "src_ia_sgw_ymca_annual_report_2001_2002_fr",
+        "src_ia_the_lookout_1993",
         "src_mcmorris_thesis",
         "src_porter_sargent_guides_1983_1987",
         "src_radiocanada_sepaq_laverendrye_2022",
         "src_reserve_laverendrye_history",
         "src_wikipedia_lac_landron",
-        "src_ia_the_lookout_1993",
-        "src_ymf_1959_report_of_older_boys_camps_summer",
-        "src_ymf_1967_les_voyageurs_de_la_verendrye_camp_directors_report",
-        "src_ymf_1960_les_voyageurs_de_la_verendrye_report",
-        "src_ymf_1963_les_voyageurs_de_la_verendrye_annual_report",
-        "src_ymf_1974_les_voyageurs_de_la_verendrye_report_on_summer",
-        "src_ymf_1979_les_voyageurs_de_la_verendrye_report",
-        "src_ymf_1970_les_voyageurs_de_la_verendrye_directors_report",
-        "src_ymf_1966_les_voyageurs_de_la_verendrye_report",
-        "src_ymf_1969_les_voyageurs_de_la_verendrye_report",
-        "src_ymf_1973_08_19_les_voyageurs_de_la_verendrye_final_report",
         "src_ymf_sgw_ymca_annual_report_1946",
         "src_ymf_sgw_ymca_annual_report_1948",
         "src_ymf_sgw_ymca_annual_report_1949",
-        "src_ymf_sgw_ymca_annual_report_1961",
-        "src_ymf_sgw_ymca_annual_report_1963",
-        "src_ymf_sgw_ymca_annual_report_1964",
-        "src_cache_sgw_ymca_annual_report_1966_67",
-        "src_cache_sgw_ymca_annual_report_1967",
-        "src_ymf_p0145_news_release_1970_2",
-        "src_ymf_sgw_ymca_annual_report_1968",
-        "src_ia_sgw_ymca_annual_report_2001_2002_fr"
+        "src_ymf_sgw_ymca_annual_report_1963"
       ],
       "open_questions": 0,
       "cross_links": [
@@ -399,7 +383,7 @@
         "traditions/order-of-owens"
       ],
       "file_id": "13MmwA1lO_3J3rJ7yEZjwsvT--vWooITy",
-      "word_count": 16292,
+      "word_count": 7460,
       "tags": {
         "era": [
           "1920s",
@@ -4970,7 +4954,7 @@
         "lv-games"
       ],
       "file_id": null,
-      "word_count": 8468,
+      "word_count": 8555,
       "notes": "Stub created 2026-02-27. Comprehensive inventory of named places, buildings, structures (current and historical). Includes Grand Portage and Longhouse from oral tradition (no written documentation found). Superintendent's house fire May 2023. Infirmary (5 beds), 30ft climbing wall, workshop pavilion added from web research. 13 open questions.",
       "tags": {
         "era": [
@@ -12138,7 +12122,60 @@
       ],
       "file_id": null,
       "word_count": 4450
+    },
+    {
+      "article_id": "les-voyageurs-de-la-verendrye",
+      "title": "Les Voyageurs de la Vérendrye",
+      "wiki_folder": "site",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [],
+      "sources_cited": [
+        "src_cache_sgw_ymca_annual_report_1966_67",
+        "src_cache_sgw_ymca_annual_report_1967",
+        "src_porter_sargent_guides_1983_1987",
+        "src_ymf_1959_report_of_older_boys_camps_summer",
+        "src_ymf_1960_les_voyageurs_de_la_verendrye_report",
+        "src_ymf_1963_les_voyageurs_de_la_verendrye_annual_report",
+        "src_ymf_1966_les_voyageurs_de_la_verendrye_report",
+        "src_ymf_1967_les_voyageurs_de_la_verendrye_camp_directors_report",
+        "src_ymf_1969_les_voyageurs_de_la_verendrye_report",
+        "src_ymf_1970_les_voyageurs_de_la_verendrye_directors_report",
+        "src_ymf_1973_08_19_les_voyageurs_de_la_verendrye_final_report",
+        "src_ymf_1974_les_voyageurs_de_la_verendrye_report_on_summer",
+        "src_ymf_1979_les_voyageurs_de_la_verendrye_report",
+        "src_ymf_p0145_news_release_1970_2",
+        "src_ymf_sgw_ymca_annual_report_1961",
+        "src_ymf_sgw_ymca_annual_report_1963",
+        "src_ymf_sgw_ymca_annual_report_1964",
+        "src_ymf_sgw_ymca_annual_report_1968"
+      ],
+      "open_questions": 5,
+      "cross_links": [
+        "traditions/canoe-trips",
+        "people/a-ross-seaman",
+        "people/derek-walsh",
+        "site/camp-otoreke",
+        "history/centennial-1967",
+        "history/coeducation-gender",
+        "connections/institutional-lineage/voyageur-canoe-pageant",
+        "traditions/lv-games"
+      ],
+      "file_id": null,
+      "word_count": 9919,
+      "tags": [
+        "spinout"
+      ],
+      "notes": "Spun out of traditions/canoe-trips.md on 2026-09-07, where the Voyageurs material had grown to 8,346 words of a 16,292-word article. Seventeen source notes moved exclusively; note 36 (the YMCA of Montreal 112th Annual Report) is shared and was DUPLICATED into both articles rather than moved. The parent was renumbered too. One section that sat inside the moving block -- '1963 at Kanawana, in numbers, and a first for parents' -- STAYED IN THE PARENT because it is about the main camp's season and not the satellite's, and its opening back-reference was rewritten. Three embargo blocks (r_0003, r_0004, r_0005) moved whole with their markers paired."
     }
   ],
-  "article_count": 121
+  "article_count": 122
 }

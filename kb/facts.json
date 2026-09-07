@@ -1,8 +1,8 @@
 {
-  "version": "9.51",
-  "kb_version": "9.51",
+  "version": "9.52",
+  "kb_version": "9.52",
   "migrated_from": "3.3",
-  "fact_count": 5365,
+  "fact_count": 5366,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -96779,6 +96779,22 @@
       "conflicts_with": [],
       "added_version": "9.51",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5404",
+      "category": "meta",
+      "date_ref": "1959-1987",
+      "entities": [
+        "Les Voyageurs de la Vérendrye",
+        "Camp Kanawana",
+        "Lac Landron"
+      ],
+      "claim": "LES VOYAGEURS DE LA VERENDRYE SPUN OUT OF traditions/canoe-trips.md ON 2026-09-07, WHERE IT WAS 8,346 WORDS OF A 16,292-WORD ARTICLE -- HALF THE PARENT. All three spinout criteria held. ITS OWN ARC: founded 1959 as an Older Boys Camp based at Kanawana itself, base moved 1963 to Lac Landron inside the Reserve faunique La Verendrye some 300 miles north of Montreal, listed by the Canadian Camping Association in January 1975 as A CAMP IN ITS OWN RIGHT with its own director and provincial accreditation (15 boys and 5 girls, 13-17), base camp gone by 1979, the name and the fourteen-day trip surviving in the Porter Sargent guides to 1987. SEVENTEEN NOTES MOVED EXCLUSIVELY and one (36, the YMCA of Montreal 112th Annual Report) is shared and was DUPLICATED into both rather than moved; the parent's remaining twenty-eight were renumbered, including six entries (1, 2, 8, 9, 10, 11) that were ALREADY UNCITED BEFORE THE CUT and were kept rather than dropped, since removing a source record is not a renumbering decision. TWO MECHANICAL THINGS WORTH RECORDING. FIRST, ONE SECTION SAT INSIDE THE MOVING BLOCK AND DID NOT BELONG TO IT: '1963 at Kanawana, in numbers, and a first for parents' is about the MAIN CAMP's season -- 602 boys, 419 swimming tests, and a five-meeting parent orientation programme the report calls an innovation -- and it stayed in the parent, its opening back-reference ('The same annual report gives the main camp's season') rewritten because its antecedent left. That is the accretion trap the spinout doc describes: headings marking where a reading stopped rather than what the material is. SECOND, THE CUT MADE A PRE-EXISTING DUPLICATION VISIBLE. David Blake's 1969 sentence about a cabin going up and 'mining claims restaked in the base camp area' was quoted TWICE in the parent, in two sections far enough apart to read as two uses; in one article they are a few screens apart. Checked against HEAD before touching it -- the duplication is inherited, not manufactured -- and resolved by keeping the words at the argumentative use, where the wording carries a point about when the lease was first sought, and making the narrative use a reference. Nothing was dropped. Three embargo blocks (r_0003, r_0004, r_0005) moved whole with their markers paired; the embargo check is green. Child registered as draft per the rule that a spinout enters as draft even from an E1-reviewed parent, and indexed from site/places-and-locations.md.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.52",
+      "added_by": "manual"
     }
   ]
 }

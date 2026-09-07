@@ -1,7 +1,7 @@
 # Places and Locations at Camp Kanawana
 
 *Status: E1-reviewed | Sources: 25*
-*Last Updated: 2026-09-06*
+*Last Updated: 2026-09-07 (Lac Landron added: the camp's one site outside the Laurentians)*
 
 ## Overview
 
@@ -100,6 +100,8 @@ Front Camp contains the **Farmhouse** and the **Blockhouse**, both winterized bu
 Private campsites available for rental at Lake Wilson, providing a more secluded experience than the main camp site [src_ymca_website]. Two-week campers use the Lake Wilson area for overnight trips as part of their program.
 
 ### Outpost Camps (Historical)
+
+The camp's furthest outpost came much later and much further north: from 1963 to some point in the 1970s Kanawana held a base camp at **Lac Landron**, inside the Réserve faunique La Vérendrye about three hundred miles from Montreal, for [[site/les-voyageurs-de-la-verendrye|Les Voyageurs de la Vérendrye]]. It is the only Kanawana site this wiki records outside the Laurentians.
 
 In 1923, outpost camps included **Otoreke** (the senior camp, on islands in Lake Saint-Joseph) and **Lake Marois** [src_gas_bag_1923]. Both served as destinations for extended trips from the main Kanawana site. See [[site/camp-otoreke|Camp Otoreke]] for details on the original Camp Jubilee/Otoreke site.
 
@@ -489,6 +491,7 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 - [[site/council-ring|The Council Ring]]
 - [[site/lake-wilson|Lake Wilson]]
 - [[site/camp-otoreke|Camp Otoreke]]
+- [[site/les-voyageurs-de-la-verendrye|Les Voyageurs de la Vérendrye]] — the wilderness satellite and its base camp at Lac Landron, 300 miles north
 - [[history/founding-1894|Founding of Camp Kanawana (1894)]]
 - [[people/harold-cross|Harold C. Cross]]
 - [[traditions/traditions-and-culture|Traditions and Culture at Kanawana]]
