@@ -1956,7 +1956,8 @@
         "src_brochure_1922",
         "src_brochure_1923",
         "src_ymca_year_book_official_rosters_1921",
-        "src_ymca_yearbook_1922"
+        "src_ymca_yearbook_1922",
+        "src_ymf_sgw_ymca_annual_report_1920"
       ],
       "cross_links": [
         "directors-index",
@@ -1965,7 +1966,7 @@
         "quebec-camp-landscape"
       ],
       "file_id": null,
-      "word_count": 1393,
+      "word_count": 1597,
       "open_questions": 4
     },
     {
@@ -2267,7 +2268,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 5751,
+      "word_count": 5819,
       "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged. | 2026-09-06: two lending-restricted items read through Open Library search-inside -- Henry F. Hall's The Georgian Spirit (1966 preface) names Cross 'historian of the Montreal YMCA'; the American Rose Annual 1970 lead is recorded and deliberately NOT identified.",
       "tags": {
         "era": [

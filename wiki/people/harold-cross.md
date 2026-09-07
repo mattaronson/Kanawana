@@ -84,8 +84,13 @@ running straight through the years this article dates his Kanawana directorship 
 Secretary**, was appointed. Mr. Cross gave a great deal of his time to this work, **over a period of six
 months**, the Association making his services available **without cost**."^16
 
-**There were two Acting General Secretaryships, not one.** This article has the 1941–1945 spell from a
-roster. The 1951 report records a second, with a cause: "**Following the death of John W. Beaton, General
+**There were two Acting General Secretaryships, not one, and they are the same man's absences.** This
+article has the 1941–1945 spell from a roster, and
+[[people/directors-index|the directors index]] separately quotes the 1942 report saying "**John W.
+Beaton, our General Secretary, has continued as Senior Secretary for National War Services**." The two
+were never put together: Beaton held the top post, was seconded to national war work, and **Cross was
+acting in his place**. Then Beaton returned — and in 1951 he died in office. The 1951 report records the
+second caretakership, with its cause: "**Following the death of John W. Beaton, General
 Secretary, Harold C. Cross, formerly Programme Secretary, was appointed Acting General Secretary.**"^16 The
 caretakership ended the next year, and he did not leave: "F. G. Hubbard, formerly of Vancouver, assumed the
 position of General Secretary of the Montreal Association in September. **Harold C. Cross and Clarence M.

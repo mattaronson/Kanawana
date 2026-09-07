@@ -1,8 +1,8 @@
 {
-  "version": "10.29",
-  "kb_version": "10.29",
+  "version": "10.30",
+  "kb_version": "10.30",
   "migrated_from": "3.3",
-  "fact_count": 5582,
+  "fact_count": 5583,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100560,6 +100560,26 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.29",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5621",
+      "category": "people",
+      "date_ref": "1919-1951",
+      "entities": [
+        "John W. Beaton",
+        "Harold C. Cross",
+        "Hay Finlay",
+        "YMCA of Montreal"
+      ],
+      "claim": "JOHN W. BEATON BRACKETED, AND IT EXPLAINS BOTH OF HAROLD CROSS'S ACTING GENERAL SECRETARYSHIPS. The 1920 annual report (year ending 30 April 1920), staff-changes section: 'Central Branch -- Mr. W. H. Henderson, Executive Secretary, RESIGNED IN SEPTEMBER TO TAKE THE EXECUTIVE SECRETARYSHIP AT HALIFAX. HE WAS SUCCEEDED BY MAJOR J. W. BEATON ON NOVEMBER 1ST.' So Beaton enters the Montreal record as a MAJOR, fresh from the war, taking Central Branch on 1 November 1919. The other end is f_5619's 1951 report: 'FOLLOWING THE DEATH OF JOHN W. BEATON, GENERAL SECRETARY...'. Thirty-two years, Central Branch to the association's top post, ending in office. WHAT IT EXPLAINS. people/harold-cross.md records Cross as Acting General Secretary 1941-1945 from a roster, and people/directors-index.md separately quotes the 1942 report: 'John W. Beaton, our General Secretary, HAS CONTINUED AS SENIOR SECRETARY FOR NATIONAL WAR SERVICES'. THE TWO FACTS HAD NEVER BEEN PUT TOGETHER: Beaton was the General Secretary, seconded to national war work, AND CROSS WAS ACTING IN HIS PLACE. Then Beaton came back, and in 1951 he died in post, and Cross acted a second time. Both of Cross's caretakerships are the same man's absences -- one to the war, one permanent -- which is a better account than 'two spells' and neither article says it. THE SAME PASSAGE gives four more Central Branch changes of 1919-20: Capt. H. C. Patterson joined as Secretary of the Young Men's Section in July and resigned 30 April to become Physical Director at Westmount; R. Ingleson joined 1 August as Membership Secretary; H. J. Swetman joined in February as Service Secretary; and 'DURING THE YEAR MR. E. T. ARMITAGE AND MR. HAY FINLAY JOINED THE BOYS' DEPARTMENT STAFF'. THAT LAST IS A CORRECTION OF SCOPE for people/hay-finlay.md, which begins his story at the 1922 Kanawana senior section: he was already an employed member of the Montreal YMCA's Boys' Department between May 1919 and April 1920, TWO OR THREE YEARS BEFORE the camp season the article opens with. He was an Association man before he was a camp man, which is the same pattern as Gordon, Betts and the Kidds -- and it means his later founding of Camp Nominingue was a departure from a YMCA career rather than an independent venture that happened to touch the Y.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1920",
+        "src_ymf_sgw_ymca_annual_report_1951"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.30",
       "added_by": "ralph_loop"
     }
   ]

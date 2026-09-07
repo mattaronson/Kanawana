@@ -1,12 +1,22 @@
 # Hay Finlay
 
-*Status: draft | Sources: 4*
-*Last Updated: 2026-09-06 (spun out of [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]] and [[people/directors-index|the directors index]])*
+*Status: draft | Sources: 5*
+*Last Updated: 2026-09-07 (on the Association payroll by 1920, two or three years before the camp season this article opened with)*
 
 ## Overview
 
 Hay Finlay ran Kanawana's senior section for the season of 1922 and, two or three years later,
-co-founded Camp Nominingue with F. M. Van Wagner. By February 1949 he was Secretary-Treasurer of
+co-founded Camp Nominingue with F. M. Van Wagner.
+
+**He was a YMCA employee before he was a camp man, and this article started too late.** The Montreal
+Association's annual report for the year ending 30 April 1920 records, among the Central Branch staff
+changes, that "during the year Mr. E. T. Armitage and **Mr. Hay Finlay joined the Boys' Department
+staff**."^5 So he was on the association's payroll somewhere between May 1919 and April 1920 — two or three
+years before the camp season this article opens with, and in the department Kanawana was run out of. That
+reframes what came after: **the founding of Camp Nominingue was a departure from a YMCA career**, not an
+independent venture that happened to touch the Y. It is also the same shape as three other men this project
+has placed — Harry K. Gordon, Harold E. Betts and the Kidd brothers all appear first as Association staff or
+fellowship holders and only then at camp. By February 1949 he was Secretary-Treasurer of
 the Canadian Camping Association. That is the fullest career of any Kanawana staff member of the
 camp's early years, and it is the only one that runs from a Kanawana section, through the founding
 of a private Laurentian camp, to national office in the movement.
@@ -116,3 +126,4 @@ which Van Wagner also founded, in 1937.
 2. *The McGill You Knew: An Anthology of Memories, 1920-1960* (Don Mills: Longman Canada, 1975), Internet Archive scan leaf 314 [src_mcgill_you_knew_1975]. **One passage only**, reconstructed 2026-09-06 from thirteen overlapping Open Library search-inside queries and walked to a chapter break; the book is lending-restricted, page images return HTTP 403, and it has not been read. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-mcgill-you-knew-hay-finlay.txt`. See [f_4959].
 3. *Kamp Kanawana* brochures, 1921, 1922 and 1923 (Internet Archive) [src_brochure_1921] [src_brochure_1922] [src_brochure_1923].
 4. *Year Book and Official Rosters of the Young Men's Christian Associations of North America*, the volumes for **1921** and **1922** [src_ymca_year_book_official_rosters_1921] [src_ymca_yearbook_1922], cached at `sources/cache/ymca-yearbooks/1921-ymca-year-book-official-rosters-montreal.txt` and `sources/cache/ymca-yearbooks/1922-ymca-year-book-montreal-roster.txt`. The 1921 volume gives Montreal's Central Branch roster at 127 Drummond St. with "Asst. Physical, Hay Finlay", and its index of employed officers gives "Finlay, Hay, Montreal, Que., Central, Asst. Physical, 14"; the 1922 volume's Central assistant physicals no longer name him. **Note the id:** the 1921 record is `src_ymca_year_book_official_rosters_1921`, not the `src_ymca_yearbook_1921` its siblings' naming would predict, and it exists — an id guessed from the pattern would find nothing and wrongly read as an unregistered document.
+5. YMCA of Montreal annual report for the year ending **30 April 1920**, the Central Branch staff-changes section [src_ymf_sgw_ymca_annual_report_1920]. Held at read_state *partial* — its camps section had been read and its staff section had not; read 2026-09-07 under p_490. See [f_5621].
