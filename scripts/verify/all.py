@@ -8,7 +8,7 @@ commit that CI then failed on A2 ninety seconds later. CI was doing its job; the
 local check was not a gate, only a display. This makes the local check a gate.
 
 It runs exactly the steps in .github/workflows/verify.yml, in that order, so a
-clean run here means a clean run there. Two of them (staleness, footnote_labels)
+clean run here means a clean run there. Three of them (staleness, footnote_labels, section_headings)
 are advisory and exit 0 by design; they are still run, because their output is
 worth reading, and their exit code is still honoured, because if one ever starts
 failing that is news.
@@ -31,6 +31,7 @@ CHECKS = [
     ("staleness",        "Staleness (advisory)"),
     ("footnote_labels",  "Footnote labels (advisory)"),
     ("restricted_guard", "Embargo labelling"),
+    ("section_headings", "Section headings (advisory)"),
 ]
 
 def main() -> int:
