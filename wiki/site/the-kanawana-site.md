@@ -1,6 +1,6 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 66*
+*Status: E1-reviewed | Sources: 67*
 *Last Updated: 2026-09-07 (the 1936 CFCF script; and what the site costs to rent in 2026)*
 
 ## Overview
@@ -10,6 +10,37 @@ Camp Kanawana occupies a 550-acre site in Saint-Sauveur, in the Laurentian Mount
 ## Location and Access
 
 The camp is situated at 673 Saint-Elmire Street in Saint-Sauveur-des-Monts,^17 approximately 90 km (45 minutes) north of Montreal by road,^1 or about 45 miles (72 km) by the historical railway route.^4 ^5 The broader region has deep colonial roots: the neighbouring municipality of Mille-Isles was created on July 1, 1855, after detaching from the parish of Saint-Jérôme, and takes its name from the Mille-Isles Seigneury, originally granted in 1683 to Michel-Sidrac Dugué de Boisbriand.^26 Early European settlement in the area dates to the 1830s.^26 The nearest railway station was historically at Piedmont on the CPR Sainte-Agathe line. In 1922, campers took the 7:30 AM train from Place Viger Station, disembarking at Piedmont and traveling 6 miles to the camp.^5 Hike destinations from camp in 1923 included Val Morin, Lac Hughes, Sainte-Agathe, Sixteen Island Lake, Lac Wilson, Pages, and Sainte-Adolphe.^6
+
+### How you got there in 1941
+
+The camp's own hand-drawn map of 1941, of which the archive holds three near-identical copies, prints the
+directions on the sheet:^67
+
+> "Kanawana is situated about **five miles from the village of St. Sauveur des Monts**. Take **C.N.R. train
+> from the Tunnel Station**. **The camp truck meets all week-end trains.** By road the camp is reached by
+> **highway No. 11 to Piedmont**. Turn left up the hill, through St. Sauveur village and follow the **Kamp
+> Kanawana road signs**."
+
+Three things in that are gone. **Tunnel Station** is Montreal's Canadian National terminus under Mount
+Royal, the one the Mount Royal Tunnel opened in 1918 and which closed to intercity service decades ago.
+**Highway No. 11** is the pre-Autoroute route north; the 15 replaced it. And the **camp truck meeting all
+week-end trains** describes an arrangement, not a service — parents put a boy on a train and the camp
+collected him. The 2026 parent guide's bus from Westmount High School, with an authorised pick-up list and
+photo ID checked at the curb, is the same journey under a completely different set of assumptions about who
+is responsible for a child in transit.
+
+The map itself labels Lake Kanawana, Lake Wilson and, tentatively, "**Lac des Beories**" — the Bec-scies
+name in another of its many spellings — with an inset captioned "Map showing Camp Property [with] Morgan's
+to Lock" and hand-lettered labels including **Junior Camp**, **Camp Cliff**, **Indian Grave** and, notably,
+a **Ski Course**.^67 A ski course drawn on a summer camp's map in 1941 belongs beside
+[[traditions/winter-programming|Winter Programming]] and the ski camp of 1945–47 the Concordia records
+document.
+
+**And a second map, forty years on.** The archive dates another site map to **1980–2001**, and its labels
+are a snapshot of the camp at its largest: Fitness Course, Ball Field, Hospital, Lookout, Archery Field,
+**Fire House**, Rock Climbing Wall, Craft Shop, "Chez Claude", Barn, Indian Council Ring, Chapel, Boating
+Waterfront, **Sauna**, a Tee Pee site, Senior and Junior parking lots, and a **Post Office**.^67 The Fitness
+Course and the Fire House appear nowhere else in this wiki.
 
 **Kanawana was a post office of the Dominion of Canada, and a summer one.** This is not in any camp
 document; it is in the federal record, and nothing in this wiki said it before 2026-09-06.^44
@@ -540,6 +571,7 @@ them on every line and by tenfold on revenue.
 64. "Kamp Kanawana Broadcast — Station CFCF," 1936 script [src_ymf_1936_kamp_kanawana_broadcast_station_cfcf]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/1936-kamp-kanawana-broadcast-station-cfcf.txt`, 13,201 characters. The earliest surviving CFCF text; read word for word 2026-09-07 under p_487. See [f_5003] and [f_5605].
 65. Camp YMCA Kanawana, "Lodging & Equipment Rental" [src_ymcaq_kanawana_lodging_rental_2026], https://www.ymcaquebec.org/en/summer-camp-kanawana/lodging-equipment-rental, read 2026-09-07; cached at `sources/cache/web-pages/ymcaquebec-kanawana-lodging-equipment-rental-2026.txt`. **A different page from the Groups & Rentals one at note 19**, and the one that carries prices. See [f_5615].
 66. YMCA of Montreal annual report for the year ending **31 December 1951** [src_ymf_sgw_ymca_annual_report_1951]. Held at read_state *partial*; its capital-works and camps sections read 2026-09-07 under p_490. See [f_5624].
+67. The Kanawana Flickr album of Concordia Archives historical images [src_flickr_kanawana_concordia_historical_album] — the **1941** hand-drawn camp map (three near-identical copies) at [f_1572], and a site map the archive dates to **1980–2001** at [f_1573]. Brought into this article 2026-09-07 under p_492, the orphan-fact sweep.
 
 ## Research Notes
 
