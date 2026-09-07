@@ -1,7 +1,7 @@
 # Directors and Staff of Camp Kanawana
 
 *Status: E1-reviewed | Sources: 58*
-*Last Updated: 2026-09-07 (the national Year Book names Shantz and Seaman, 1957 to 1968)*
+*Last Updated: 2026-09-07 (the missing volumes read: Holliday did not get boys' work back, and Ball left in 1901)*
 
 ## Summary
 
@@ -303,7 +303,7 @@ Four changes in a single year, and each is on the page rather than inferred. **B
 
 | Volume | President | General Secretary | Boys' Work | Physical Director |
 |---|---|---|---|---|
-| 1906 | **John W. Ross** | D. A. Budge | *(Asst.)* **W. J. Holliday** | J. E. Merritt |
+| 1906 | **John W. Ross** | D. A. Budge | **W. A. Maclaren**, Boys' Work Dir. — **W. J. Holliday** listed as *Asst.* | J. E. Merritt |
 | 1907 | **John W. Ross** | D. A. Budge | **W. J. Holliday**, Boys' Work Dir. | J. E. Merritt |
 | 1908 | **John W. Ross** | D. A. Budge | **W. J. Holliday**, Boys' Work Dir. | J. E. Merritt |
 | **1909** | **John W. Ross** | D. A. Budge *(entered 1874)* | **M. G. Brooks**, Boys' Work Dir. *(1905)* — **W. J. Holliday** listed as *Asst.* | J. E. Merritt *(1894)* |
@@ -314,15 +314,46 @@ That is a change of title in an annual roster and nothing more. It is not a demo
 
 There is a shape here worth naming without dressing it up. Holliday directs the camp in **1908**, is a plain assistant in the **1909** roster, and opens the **new site in 1910** — and 1909 is the one year in that stretch with no camp directorship recorded for him either. The camp was between sites. Whether the two things are connected, the sources do not say, and nothing here should be read as saying they are.
 
+**[CORRECTED 2026-09-07: the 1906 row above read "*(Asst.)* **W. J. Holliday**" with the Boys' Work column otherwise empty.]** The 1906 volume **does** name a Boys' Work Director and this project had not transcribed him. Its Montreal block ends with one line more than the quotation this page was built on: after "Asst. Phys. Dir., William Sovereign" comes "**Boys' Work Dir., W. A. Maclaren**," the last line of the Montreal block on that page — which is exactly where a transcription reading down a column stops early.^58 It changes the shape of Holliday's career. He does not appear from nowhere in 1907: **Maclaren held the post and Holliday was the assistant under him**, Maclaren having entered Association work in 1904 to Holliday's 1906. And the two men then trade places twice. Holliday takes boys' work in 1907 and 1908; by 1909 he is an assistant again and **Maclaren is secretary of the Fairmount Avenue Branch**; and by the 1910-11 volume **Holliday is secretary of the Fairmount Avenue Branch**, the post Maclaren had held. Twice, the junior man follows the senior into a job the senior has left. The volumes say nothing about why, and neither does this page.
+
 Three other things come off the same page. **Herbert C. Patterson** supplies the first name behind the "H. C. Paterson" the 1921 volume gave — spelt here with two t's, and not to be confused with **Philip G. Paterson**, the camp's 1923 director, whom nothing connects to him. **J. E. Merritt**, Ball's successor as Physical Director, **entered Association work in 1894**, the year the camp was founded. And the **Educational Director line is printed blank**, as it was in 1900 after E. G. Randal left for Taunton, though 1906 had J. S. Jamieson and 1907-08 W. H. Henderson in the post.
 
 *The volume was nearly missed twice.* Its catalogue record says 1907, and its title page says "May 1, 1908, to April 30, 1909". Taken on the catalogue year it is a duplicate. And this session's own title-page sweep, searching for "For the Year NNNN", returned nothing from it — the volume dates itself by the association year instead. A null from a pattern is a fact about the pattern.^46
 
 **And that is the end of what the Internet Archive holds.** The series is now inventoried in full: thirteen items carrying twenty-three annual volumes, six of the items holding more than one.^47 It is available for 1881-82, 1884, 1886-1888, 1890-1900, 1906-1909, 1921, 1922 and a restricted 1936. **It is not available anywhere on the Archive for 1901-1905 or 1910-1920** — and those holes are not an artefact of a bad query, since four separately corrected search methods converge on them.
 
+**[SUPERSEDED 2026-09-07: the paragraph that follows was true about HathiTrust and wrong about the conclusion. The missing years are readable from here, and the three questions the next paragraph poses are now answered — see below it.]**
+
 **They are on HathiTrust, they are public domain, and this environment cannot read them.**^48 Every one of the missing years has an identifier there: 1901 through 1905 as single volumes, and 1909-1910, 1910-11, 1911/12, 1913/14, 1915/16, 1916/17, 1917/18, 1918/19 and 1919/20 in a run from the University of Illinois. HathiTrust's catalogue API answers normally; every reading and search endpoint returns HTTP 403 behind a Cloudflare challenge. That is a fact about the gateway, not about the volumes — **a person with a browser can open all of them**, and the identifiers are listed in the cache file so that nobody has to find them again. Google Books may hold the same scans, the Illinois and Michigan copies both being Google-digitised, but its API is at its daily quota and returned 429 to the control query as well, so it says nothing yet either way.
 
 What to ask those volumes, in order: **is W. J. Holliday Boys' Work Director again in 1910-11?** He holds the post in 1907 and 1908, has lost it to M. G. Brooks by 1909, and opens the new camp site in 1910. Then the Montreal Boys' Work Director year by year through the war, the Boys' Department being what ran the camp. Then 1901-1905, for when W. H. Ball left the Physical Directorship.
+
+### The volumes were asked, and they answered
+
+**They are readable after all** — not on HathiTrust, which is still shut to this environment, but in the University of Minnesota Libraries' digitized run of the same series, which holds every year the Archive lacks and three that HathiTrust lacks too.^58 The route had been written down here as a place that "holds the series in print," an assumption standing in for a finding, and that is what kept it closed. All three questions above were put to the volumes the same day.
+
+**No, Holliday did not get it back.** He is a membership assistant in the 1909-10 volume — "Montreal, Central Dept. … Asst., (Memb.,) W. J. Holliday" — and then a branch secretary for seven straight years: Fairmount Avenue in 1910-11, and the North Branch, 2300 Park Ave., in 1911-12, 1912-13, 1913-14, 1914-15, 1915-16 and 1916-17. He never appears in a boys' work line in any of them. The 1931 report's "first camp director" opened the new site in 1910 while running a branch, not while running boys' work.
+
+**The Boys' Work line, year by year, as far as these volumes carry it:**
+
+| Volume | Montreal boys' work | Notes |
+|---|---|---|
+| 1900 | *"Junior Dept.," printed with no name* | |
+| 1901, 1902 | **John Brown**, Boys' Dept. | |
+| 1902-03 | *"Boys' Secy," printed with no name* | |
+| 1903-04 | **Cecil M. Daggett**, Boys' Work Director | New to this project |
+| 1904-05 | *"Boys' Work Dir.," printed with no name* | |
+| 1905-06 | **W. A. Maclaren**, Boys' Work Dir. | The line this project had missed |
+| 1907, 1908 | **W. J. Holliday**, Boys' Work Dir. | Already held |
+| 1909 | **M. G. Brooks**, Boys' Work Dir. | Already held |
+| 1910-11, 1911-12 | **Kenneth J. Hollinshead**, Central Dept., Boys | New |
+| 1912-13, 1913-14 | **D. J. Evans**, Central Dept., Boys | 1912-13 also "Asst. Boys, H. A. Lordly" |
+| 1914-15 | *"Boys," printed with no name* | |
+| 1915-16, 1916-17 | **John G. MacKinnon**, Central Br., Boys | |
+
+**Read that table with its own caution attached.** From 1910 these are the **Central** branch's boys' workers, and the 1909-10 volume prints "Boys' Work Dir." as a line distinct from the branch "Boys" lines — so an association-level directorship and a branch post are two different offices, and which of them the camp answered to is not settled by any of this. A blank line is not a vacant office either; these rosters leave lines blank routinely. What the table settles is that Holliday was not the man, and it turns a blank stretch into a continuous line of names to chase — of which **Cecil M. Daggett** and **Kenneth J. Hollinshead** occur nowhere else in this project at all, each checked by grep before being written here.
+
+**And Ball left between the 1901 and 1902 volumes**, not somewhere in a five-year span. The 1900 and 1901 volumes both read "Montreal … Phys. Director, W. H. Ball, Jr."; the 1902 volume reads "Phys. Director. J. E. Merritt," with the same **Arthur B. Dawson** as assistant physical director through the change. So Merritt succeeded Ball directly. **The name nearly ran this off the road**: an exact-phrase search for "W. H. Ball" returns forty-four pages across the series, and the hits in 1902, 1904-05, 1905-06 and 1906-07 are three *other* men — a W. H. Ball at Brooklyn's Prospect Park Branch, one at Springfield, and one who is Detroit's Physical Director for at least two years. Following the name would have kept Montreal's Ball in post to 1907. The answer came from reading Montreal's block in each volume rather than from searching for him. (A related hazard on the same pages: Montreal's assistant physical director in 1902-03 and 1903-04 is **Harold G. Beall**, one letter away.)
 
 **The pre-camp volumes give two names and one useful silence.**^47 **Charles Cushing** of Montreal is the corresponding member for Quebec in 1887 — the association's senior volunteer post in the province, held by D. A. Budge himself the year before. *[Corrected 2026-09-06, within the hour: this sentence continued "The name occurs nowhere else in this project." **It does.** [[people/cushing-family|The Cushing family article]] has had him since before this session, in its table of Lemuel Cushing Sr.'s eight sons — "Charles, 1848-?, Notary (McGill B.C.L. 1869)". The grep that produced the false claim searched for the phrase "Charles Cushing"; the table gives him as "| Charles |" in a row, with the surname in the heading. A query that cannot match the way a source writes a name is not evidence about the source.]* What **is** new is the post: that table records him as a notary and a Sun Life director with no YMCA connection at all, and he was the association's senior Quebec volunteer in 1887 — which extends the family's documented YMCA involvement from Lemuel Jr.'s presidency of 1867-68 to within five years of the 1892 Lake Saint-Joseph trip. The identification of the Year Book's "Charles Cushing, Montreal" with Lemuel Sr.'s son rests on name, city and period, and is written that way over in that article. **G. A. Kuhring** is an assistant under Budge in the 1882-or-1884 volume, also new here.
 

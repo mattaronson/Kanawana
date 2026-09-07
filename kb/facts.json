@@ -1,8 +1,8 @@
 {
-  "version": "8.97",
-  "kb_version": "8.97",
+  "version": "8.98",
+  "kb_version": "8.98",
   "migrated_from": "3.3",
-  "fact_count": 5234,
+  "fact_count": 5239,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -94403,6 +94403,98 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.97",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5273",
+      "category": "people",
+      "date_ref": "1900-1902",
+      "entities": [
+        "W. H. Ball",
+        "J. E. Merritt",
+        "YMCA of Montreal"
+      ],
+      "claim": "W. H. BALL LEFT MONTREAL'S PHYSICAL DIRECTORSHIP BETWEEN THE 1901 AND 1902 YEAR BOOKS, WHICH COLLAPSES A FIVE-YEAR BOUND TO A ONE-YEAR BOUNDARY. This project had his departure bounded only to somewhere in 1901-1905, because the Internet Archive holds none of those volumes. The Quebec block of the Directory of Associations settles it: the 1900 volume gives 'Montreal ... Phys. Director, W. H. Ball, Jr.' and the 1901 volume gives 'Phys.Director. W. H Ball, Jr.' with 'Asst. Phys. Dir., Arthur B. Dawson' under him; the 1902 volume gives 'Phys. Director. J. E. Merritt' with the same Arthur B. Dawson still assistant. So Merritt succeeded Ball directly, at the 1901/1902 boundary, and the assistant stayed through the change. AND A TRAP WORTH RECORDING, BECAUSE IT NEARLY CAUGHT THIS PASS: an exact-phrase search for 'W. H. Ball' across the collection returns forty-four pages, and the hits in the 1902, 1904-05, 1905-06 and 1906-07 volumes are THREE OTHER MEN -- a W. H. Ball at Brooklyn's Prospect Park Branch, one at Springfield, and one who is Detroit's Physical Director for at least two years. Chasing the name would have kept Montreal's Ball in post until 1907. The 1880s volumes had already shown this surname to be common in the association; the answer came from reading the Montreal block, not from searching the name. A FURTHER SPELLING HAZARD IN THE SAME PAGES: Montreal's Assistant Physical Director in the 1902-03 and 1903-04 volumes is 'Harold G. Beall', one letter from Ball.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.98",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5274",
+      "category": "people",
+      "date_ref": "1900-1906",
+      "entities": [
+        "John Brown",
+        "Cecil M. Daggett",
+        "W. A. Maclaren",
+        "W. J. Holliday",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE MONTREAL BOYS' WORK LINE FROM 1900 TO 1906, WHICH IS THE OFFICE THAT RAN THE CAMP. Read off the Quebec block of the Directory of Associations in six consecutive volumes: 1900, 'Junior Dept.,' PRINTED WITH NO NAME; 1901 and 1902, 'Boys' Dept., John Brown'; 1902-03, 'Boys' Secy,' PRINTED WITH NO NAME; 1903-04, 'Boys' Work Director, Cecil M. Daggett'; 1904-05, 'Boys' Work Dir.,' PRINTED WITH NO NAME; 1905-06, 'Boys' Work Dir., W. A. Maclaren'. CECIL M. DAGGETT OCCURS NOWHERE ELSE IN THIS PROJECT, checked by grep before this was written. The succession into the years this project already holds therefore runs Maclaren (1905-06) -> W. J. Holliday (1907, 1908) -> M. G. Brooks (1909). Two of the six years name nobody at all, and a blank line in a roster is not the same as a vacant office -- these volumes leave lines blank routinely, including Montreal's Educational Director in 1900 and 1904-05.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.98",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5275",
+      "category": "method",
+      "date_ref": "1905-1911",
+      "entities": [
+        "W. A. Maclaren",
+        "W. J. Holliday",
+        "YMCA of Montreal"
+      ],
+      "claim": "CORRECTION TO f_4967: THE 1906 MONTREAL ROSTER HAS ONE MORE LINE THAN THIS PROJECT TRANSCRIBED, AND IT IS THE BOYS' WORK DIRECTOR. f_4967 quotes the 1906 volume's Montreal block as ending 'Phys. Dir., J. E. MERRITT. Asst. Phys. Dir., William Sovereign.' The University of Minnesota scan of the same volume carries the identical list and then one further line, which is the last line of the Montreal block on that page: 'Boys' Work Dir., W. A. MACLAREN'. The omission matters because the project built its account of W. J. Holliday on his becoming Boys' Work Director 'by 1907' with 1906 apparently having nobody in the post -- and in fact the post was filled, by Maclaren, with Holliday listed above him as a plain assistant. THE TWO MEN THEN SWAP TWICE: Maclaren holds boys' work in 1905-06 and Holliday is an assistant; Holliday holds boys' work in 1907 and 1908; by 1909 Holliday is an assistant again and Maclaren is secretary of the Fairmount Avenue Branch (f_4983); and by the 1910-11 volume HOLLIDAY IS SECRETARY OF THE FAIRMOUNT AVENUE BRANCH, the post Maclaren had held (f_5267). Maclaren's year of entry into Association work is 1904 and Holliday's is 1906, so Maclaren was the senior man throughout. WHAT CAUSED THE OMISSION IS WORTH KNOWING TOO: the line sits at the very bottom of the page, which is exactly where a transcription that reads down a column stops early.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.98",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5276",
+      "category": "method",
+      "date_ref": "1962",
+      "entities": [
+        "Kamp Kanawana",
+        "A. Ross Seaman",
+        "Camp Otoreke"
+      ],
+      "claim": "WHY 1962 RETURNED NO KANAWANA HIT, AND IT IS NOT AN ABSENCE OF SEAMAN. f_5264 recorded that the 1962 volume produced no hit and that it had not been established whether the volume was even in the collection. It is: record 34925, and it is OCR'd and searchable -- it returns 'Kamp' (in 'Kamp Kiamesha', a New Jersey camp), 'Otoreke' and 'Hubbard'. Its Quebec block reads 'Montreal, 1441 Drummond St., 25, Metro. Bd. ... Staff Training & Development, Hedley G. Dimock / PROGRAM, A. ROSS SEAMAN / Public Relations, Gerald H. Wright / Director Camp Otoreke, Clarence J. McGerrigle.' SEAMAN IS THERE, IN THE SAME SLOT HE OCCUPIES IN 1961 AND 1963, BETWEEN DIMOCK AND WRIGHT -- the roster simply prints his title as bare 'Program' that year and drops the camp's name, while Otoreke's line on the very next row keeps its camp name. So the null is real, it is about one word in one year, and Seaman's run from 1959 to 1968 is unbroken. ALSO SETTLED: the 1885 (record 11848) and 1889 (13974) volumes, the last two nineteenth-century holes in this series, ARE in the collection and have not been read.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.98",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5277",
+      "category": "people",
+      "date_ref": "1952-1963",
+      "entities": [
+        "Colin R. McKay",
+        "Clarence J. McGerrigle",
+        "Camp Otoreke"
+      ],
+      "claim": "COLIN R. McKAY CAME TO MONTREAL FROM KITCHENER. The 1962 volume's alphabetical list of employed officers gives 'McKay, C. R., Kitchener, Ont., Adult Program, 52' -- adult programme work at the Kitchener YMCA, with 1952 as his year of entry into Association work -- and the 1963 volume has him at Montreal as 'Program, Camp Otoreke' (f_5272). So he moved to Montreal and to the camp between those two volumes. The same 1962 list gives 'McGerrigle, C. J., Montreal, Que., Met. Bd., Dir. Camp Otoreke, 27', an entry year of 1927, eight years before the 1935 start of the twenty-one-year association with Otoreke that the camp's article documents from a 1956 annual report.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.98",
       "added_by": "ralph_loop"
     }
   ]

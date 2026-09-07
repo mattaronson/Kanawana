@@ -5741,8 +5741,8 @@
       "rank": 465,
       "type": "RESEARCH",
       "weight": 8,
-      "status": "pending",
-      "description": "W. H. BALL'S DEPARTURE, 1901-1905 — THE FIVE VOLUMES THAT BOUND IT ARE NOW OPEN. This project has Ball holding Montreal's Physical Directorship in 1900 and J. E. Merritt holding it by 1906, with the departure bounded only to somewhere in between because the Internet Archive holds none of the intervening years. All five are in ContentDM collection p16022coll351: 1901 (rec 13624), 1902 (13285), 1902-03 (14318), 1903-04 (14699), 1904-05 (1059), 1905-06 (8010). Read the Quebec block of each and the alphabetical list of employed officers, which gives every man's year of entry into Association work and would date Merritt's arrival as well as Ball's exit. This is a bounded, mechanical task with a definite answer at the end of it, which is rare in this project."
+      "status": "done",
+      "description": "W. H. BALL'S DEPARTURE, 1901-1905 — THE FIVE VOLUMES THAT BOUND IT ARE NOW OPEN. This project has Ball holding Montreal's Physical Directorship in 1900 and J. E. Merritt holding it by 1906, with the departure bounded only to somewhere in between because the Internet Archive holds none of the intervening years. All five are in ContentDM collection p16022coll351: 1901 (rec 13624), 1902 (13285), 1902-03 (14318), 1903-04 (14699), 1904-05 (1059), 1905-06 (8010). Read the Quebec block of each and the alphabetical list of employed officers, which gives every man's year of entry into Association work and would date Merritt's arrival as well as Ball's exit. This is a bounded, mechanical task with a definite answer at the end of it, which is rare in this project. [DONE 2026-09-07. Ball left between the 1901 and 1902 volumes -- Merritt succeeded him directly, with Arthur B. Dawson staying on as assistant through the change. The name was a trap: three other W. H. Balls, at Brooklyn, Springfield and Detroit, appear in the same volumes. f_5273.]"
     },
     {
       "priority_id": "p_466",
@@ -5765,8 +5765,16 @@
       "rank": 468,
       "type": "RESEARCH",
       "weight": 5,
+      "status": "done",
+      "description": "THREE VOLUMES NOT CHECKED IN THE MINNESOTA COLLECTION: 1885, 1889 and 1962. The first two are the last nineteenth-century holes in this series and the third would complete the Kanawana director run, where 1962 is the only year between 1957 and 1968 with no hit — and it is NOT established whether that is because the volume is absent from the collection or because the camp is genuinely unnamed in it. The difference matters: one is a gap in a library's holdings and the other would be a fact about the roster. Enumerate the collection's 173 items by title, which is one dmQuery call, and settle all three. [DONE 2026-09-07. All three volumes are in the collection: 1885 rec 11848, 1889 rec 13974, 1962 rec 34925. The 1962 volume is searchable and DOES carry Seaman -- the roster prints his title as bare 'Program' that year and drops the camp's name, so the Kanawana null is one word in one year and the 1959-1968 run is unbroken. f_5276. The 1885 and 1889 volumes remain unread; that part is now p_469.]"
+    },
+    {
+      "priority_id": "p_469",
+      "rank": 469,
+      "type": "RESEARCH",
+      "weight": 4,
       "status": "pending",
-      "description": "THREE VOLUMES NOT CHECKED IN THE MINNESOTA COLLECTION: 1885, 1889 and 1962. The first two are the last nineteenth-century holes in this series and the third would complete the Kanawana director run, where 1962 is the only year between 1957 and 1968 with no hit — and it is NOT established whether that is because the volume is absent from the collection or because the camp is genuinely unnamed in it. The difference matters: one is a gap in a library's holdings and the other would be a fact about the roster. Enumerate the collection's 173 items by title, which is one dmQuery call, and settle all three."
+      "description": "READ THE 1885 AND 1889 YMCA YEAR BOOKS, the last two nineteenth-century holes in the series, now that both are known to be in the Minnesota collection (records 11848 and 13974) and this environment can read it (f_5276). Both are pre-camp. The one specific question they can answer is W. H. Ball's whereabouts: he entered Association work in 1889 and reached Montreal by 1892, and the 1884, 1886, 1887, 1888 and 1890 volumes contain no W. H. Ball anywhere -- so the 1889 volume is the one year of that blank stretch this project has never been able to open. Read the Montreal block of each and search the alphabetical list for Ball, with the warning from f_5273 attached: the surname is common in this association and at least four different W. H. Balls appear across the series, so a hit is not an identification until the city is checked."
     }
   ],
   "queue_ordering": {

@@ -234,3 +234,65 @@ Montreal (2,742 pages, 124 volumes — the OCR control), Holliday (243), Jubilee
 "Holliday Montreal Boys" (67), and exact-phrase "Harold C. Cross" (39);
 dmGetItemInfo on page records 40653, 10775, 5588, 9511, 5075, 4630, 6211, 8974, 3834, 34456,
 15084, 34016 and the seventeen Kanawana pages.
+
+
+==========================================================================================
+SECOND PASS, THE SAME DAY — THE 1900-1906 MONTREAL BLOCK, AND WHAT 1962 ACTUALLY SAYS
+==========================================================================================
+
+W. H. BALL'S DEPARTURE, NARROWED FROM FIVE YEARS TO ONE BOUNDARY
+  1900     "Montreal ... Phys. Director, W. H. Ball, Jr."
+  1901     "Phys.Director. W. H Ball, Jr. / Asst. Phys. Dir., Arthur B. Dawson"
+  1902     "Phys. Director. J. E. Merritt / Asst. Phys. Dir., Arthur B. Dawson"
+Merritt succeeded Ball directly at the 1901/1902 boundary; the assistant stayed through it.
+
+THE TRAP, RECORDED BECAUSE IT NEARLY WORKED. An exact-phrase search for "W. H. Ball" returns
+44 pages across the series, and the hits in the 1902, 1904-05, 1905-06 and 1906-07 volumes are
+THREE OTHER MEN: a W. H. Ball at Brooklyn's Prospect Park Branch, one at Springfield,
+Massachusetts, and one who is DETROIT's Physical Director for at least two years. Following the
+name would have kept Montreal's Ball in post until 1907 and been wrong by six years. The answer
+came from reading Montreal's own block in each volume. A related hazard on the same pages:
+Montreal's assistant physical director in 1902-03 and 1903-04 is HAROLD G. BEALL.
+
+FINDING THE MONTREAL BLOCK AT ALL IS THE FIDDLY PART. Each volume prints the same men twice —
+an international-committee membership list and the Directory of Associations — and a search for
+"D. A. Budge" returns both. The committee list is the one that runs "D. A. Budge ... Montreal,
+Que. / G. H. Harrower / A. Kingman / L. H. Packard"; the directory is the one that runs
+"Montreal ... Pres. / Gen. Secy. / Asst. / Phys. Director". Searching for "J. E. Merritt"
+lands on the directory page directly and is the faster route.
+
+THE MONTREAL BOYS' WORK LINE, WHICH IS THE OFFICE THAT RAN THE CAMP
+  1900        "Junior Dept.,"          NO NAME PRINTED
+  1901, 1902  "Boys' Dept., John Brown"
+  1902-03     "Boys' Secy,"            NO NAME PRINTED
+  1903-04     "Boys' Work Director, Cecil M. Daggett"
+  1904-05     "Boys' Work Dir.,"       NO NAME PRINTED
+  1905-06     "Boys' Work Dir., W. A. Maclaren"
+CECIL M. DAGGETT occurs nowhere else in this project. A blank line is NOT a vacant office —
+these rosters leave lines blank routinely, Montreal's Educational Director among them.
+
+AND A CORRECTION TO THIS PROJECT'S OWN TRANSCRIPTION. f_4967 quotes the 1906 Montreal block as
+ending "Phys. Dir., J. E. MERRITT. Asst. Phys. Dir., William Sovereign." The Minnesota scan of
+the same volume gives the identical list and then ONE MORE LINE, which is the last on the page:
+"Boys' Work Dir., W. A. Maclaren". So 1906's boys' work post was filled, and Holliday — listed
+that year as a plain assistant — was the junior man under Maclaren rather than a man appearing
+from nowhere in 1907. The two then trade places twice: Holliday takes boys' work in 1907-08;
+by 1909 he is an assistant again and MACLAREN is secretary of the Fairmount Avenue Branch; and
+by 1910-11 HOLLIDAY is secretary of the Fairmount Avenue Branch. Entry years: Maclaren 04,
+Holliday 06.
+
+WHY 1962 RETURNED NO "KANAWANA" HIT
+The 1962 volume IS in the collection (record 34925) and IS searchable — it returns "Kamp" (in
+"Kamp Kiamesha", a New Jersey camp), "Otoreke" and "Hubbard". Its Quebec block reads:
+"... Staff Training & Development, Hedley G. Dimock / PROGRAM, A. ROSS SEAMAN / Public
+Relations, Gerald H. Wright / Director Camp Otoreke, Clarence J. McGerrigle."
+SEAMAN IS THERE, in the same slot he holds in 1961 and 1963. The roster prints his title as bare
+"Program" that year and drops the camp's name, while Otoreke's line on the very next row keeps
+its own. The null is one word in one year; the 1959-1968 run is unbroken.
+
+The 1962 employed-officers list also gives "McKay, C. R., Kitchener, Ont., Adult Program, 52" —
+Colin R. McKay at Kitchener the year before he turns up at Montreal running Otoreke — and
+"McGerrigle, C. J., Montreal, Que., Met. Bd., Dir. Camp Otoreke, 27".
+
+STILL UNCHECKED: the 1885 (record 11848) and 1889 (13974) volumes, both in the collection, both
+unread. They are the last two nineteenth-century holes in this series.
