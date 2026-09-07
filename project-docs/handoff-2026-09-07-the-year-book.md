@@ -98,6 +98,20 @@ are a department's absence, not one man's.
 Training School, Springfield**, corroborating from outside Montreal the account Montreal gave of
 him three years later.
 
+**Harold C. Cross has a career and a retirement date.** Westmount Branch Secretary in 1927-28;
+**Acting Secretary of the Metropolitan association in 1945**, the senior professional post of the
+whole Montreal YMCA; **Program Secretary of the Metropolitan Board in 1948, 1950 and 1951**, which
+is what he was while writing the centennial history; **retired 1 March 1953**; and in the *Retired
+Secretaries* list down to **1969**, which is independent evidence he lived that long. Entry 1912 to
+retirement 1953 implies a birth about 1885-1892 — the first age estimate this project has had for
+him.
+
+**R. H. Hanagan is Ronald Hanagan**, proved by one publication printing the same post spelled out
+in the branch directory and abbreviated in the alphabetical list of the same volume.
+
+**Oscar L. Pearson is one man from 1912** — Toronto, Ottawa, Toronto, and Montreal Central in
+1941-43 — which joins the 1919 overseas captain to Kanawana's own association.
+
 **M. G. Brooks is Murray Brooks**, Strathcona Hall's own former secretary, sent out by the student
 association he had served; Colombo 1910-1923, Toronto 1934, **Burma** 1938, retired 11 March 1945.
 
@@ -202,6 +216,18 @@ nearly all saying "volume," and **"volume" crossed the cutoff** — which broke 
 `canoe-trips.md` and `camp-perrot.md` that had been passing on that word alone. Neither article
 was edited; the knowledge base moved under them. Put a name, a year or a number in the citing
 sentence.
+
+**39. Run `scripts/verify/all.py` in its own tool call, read it, *then* write the commit.**
+*(Added after pushing a red build.)* Putting the check and the commit in one call means the
+check's failure cannot stop the commit — and piping its output to `tail` makes the call exit zero
+whatever the check says. This project already had rule 25, "a claim about a check is a claim."
+This is its sibling: **a check that cannot stop the commit is decoration, not a gate.**
+
+**40. An exact search assumes the source spells a name the way you do — and a wildcard on the
+stem does not save you when the error is *inside* the word.** Three costs today: `H.C.Cross` run
+together with no spaces defeated three exact forms; `Otereke` with an E hid two years of
+McGerrigle's directorship and briefly convinced me the camp entered this series in 1958;
+`Holliday, Capt. William J.` did not match `Holliday, W. J.`
 
 ## Where to go next
 
