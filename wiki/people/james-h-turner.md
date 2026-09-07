@@ -78,6 +78,15 @@ three years now) and **need to make our position very clear as to where we stand
 camp's own director says the question is unsettled — which is what the long appendix on coeducation in
 the same report then sets out to answer. [f_5684]
 
+**Two doctors in 1970, none in 1971.** Turner's 1970 report records that "for campers health we had **two
+excellent Doctors** with us for the Summer", and that the nurse "worked extra duty because of her
+interest in the campers and her concern for our Cystic Fibrosis campers". The 1971 report has **no doctor
+in residence** — the nurse carrying it alone, and sick campers, "sometimes 8 at one time", driven to the
+doctor in St-Sauveur with a standing decision about whether to wait for consulting hours there or drive
+on to St-Jérôme or Montreal. **Medical cover went from two resident doctors to none in a single year, and
+neither report remarks on the change.**^6 By 1978 the camp is thanking an outside physician for "covering
+the infirmary at the end of the summer", which suggests the 1970 arrangement did not return. [f_5686]
+
 ## The 1971 recommendation
 
 Turner's parting report proposes dismantling the camp as a physical plant:

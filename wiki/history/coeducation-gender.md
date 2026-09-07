@@ -196,6 +196,18 @@ Coeducation was added to the site without the site being enlarged to take it. Th
 erosion crisis and the coeducation decision separately and never connected them; **the report connects
 them in consecutive sentences.**
 
+**And there is a third strand: the sanitation could not take it either.** The same report's Health &
+Safety section names the cause in the same breath as the complaint. "There were also several comments
+from staff and parents about **the 'smell' at camp**. Our facilities (ie septic tanks and kitchen sewage
+disposal area) are **inadequate for the size and type (coed) of camp we operate**." Then the summary
+judgement: "Most parts of our facilities are **too small (Q.C.A. standards for tent space)**, unsafe
+(rocks in the ball field), or unhealthy."^kk70
+
+That is the camp measuring itself against **the Quebec Camping Association's own standards and recording
+that it falls short** on tent spacing, in its annual report. The ball-field rocks are corroborated by the
+1971 report, which has the fields "still very dangerous with unlevel ground and large boulders protruding
+at irregular intervals". [f_5685]
+
 His answer is structural: "That we continue to carry on with coed camping at Kanawana. I would recommend
 that we do, however, **operate four separate operations** under the heading of Kamp Kanawana. These would
 be: 1. Boys Camp — ages 9-12 years. 2. Girls Camp — ages 9-12 years. 3. Coed Camp — ages 13-16 years.

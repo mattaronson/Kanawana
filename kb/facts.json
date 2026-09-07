@@ -1,8 +1,8 @@
 {
-  "version": "10.78",
-  "kb_version": "10.78",
+  "version": "10.79",
+  "kb_version": "10.79",
   "migrated_from": "3.3",
-  "fact_count": 5646,
+  "fact_count": 5648,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101787,6 +101787,41 @@
       "date_ref": "1970",
       "conflicts_with": [],
       "added_version": "10.78",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5685",
+      "claim": "THE THIRD STRAND OF WHAT COEDUCATION COST THE SITE: THE SANITATION COULD NOT TAKE IT, AND THE CAMP FAILED ITS OWN ASSOCIATION'S STANDARDS. Two strands of this are already recorded -- the erosion, and the tent platforms sited among the existing ones producing 'overcrowding and lack of privacy' (f_5679). The 1970 report's HEALTH & SAFETY section adds a third and names the cause in the same breath. 'There were also several comments from staff and parents about THE \"SMELL\" AT CAMP. Our facilities (ie SEPTIC TANKS AND KITCHEN SEWAGE DISPOSAL AREA) are INADEQUATE FOR THE SIZE AND TYPE (COED) OF CAMP WE OPERATE.' Then the summary judgement: 'Most parts of our facilities are TOO SMALL (Q.C.A. STANDARDS FOR TENT SPACE), UNSAFE (ROCKS IN THE BALL FIELD), or UNHEALTHY.' A camp measuring itself against the Quebec Camping Association's own standards and recording that it falls short of them on tent spacing, in its annual report. The ball-field rocks are corroborated by the 1971 report, which has the fields 'still very dangerous with unlevel ground and large boulders protruding at irregular intervals' and staff levelling some by hand in their free time (f_2423). AND THE LAUNDRY FAILED THE SAME SUMMER: 'Our camp washing machine broke as did two used for campers clothes. It took ALMOST THREE WEEKS to get them repaired. For the staff it meant a trip to the laundromat and for the campers an extra load on our OLD WRINGER MACHINES.' The 1971 report then records that after 'many futile attempts to secure permission to install a washing machine at camp we finally placed a SECOND-HAND WRINGER MACHINE for the benefit of the staff' -- so the 1970 breakdown is the background to the 1971 purchase, and the two reports read in sequence give a two-year story about a washing machine.",
+      "sources": [
+        "src_ia_kanawana_report_1970",
+        "src_ia_kanawana_report_1971"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Kamp Kanawana",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1970-1971",
+      "conflicts_with": [],
+      "added_version": "10.79",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5686",
+      "claim": "THE CAMP HAD TWO DOCTORS IN 1970 AND NONE IN 1971. The 1970 report: 'For campers health we had TWO EXCELLENT DOCTORS with us for the Summer. They were concerned about each camper and their personal problems and were an asset to us. Our Nurse worked extra duty because of her interest in the campers and her concern for our CYSTIC FIBROSIS CAMPERS.' The 1971 report, already recorded at f_2423, has NO DOCTOR IN RESIDENCE that year -- the nurse carrying the load alone, and sick campers, 'sometimes 8 at one time', driven to the doctor in St. Sauveur with a standing decision about whether to wait for consulting hours there or drive on to St. Jerome or Montreal. SO MEDICAL COVER WENT FROM TWO RESIDENT DOCTORS TO NONE IN A SINGLE YEAR, and neither report remarks on the change. Two further details join up across the same pair of reports. The 1970 nurse's extra duty is attributed to the C.F. campers, which is the same season recorded at f_5676 -- so the arrival of children needing daily therapy and the nurse's overwork are the same fact seen from two sections of one document. And by 1978 the camp is thanking an outside physician, Dr Don Smith, for 'covering the infirmary at the end of the summer' (f_5659), which suggests the 1970 arrangement of resident doctors did not return.",
+      "sources": [
+        "src_ia_kanawana_report_1970",
+        "src_ia_kanawana_report_1971"
+      ],
+      "confidence": "stated",
+      "category": "operations",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1970-1971",
+      "conflicts_with": [],
+      "added_version": "10.79",
       "added_by": "ralph_loop"
     }
   ]
