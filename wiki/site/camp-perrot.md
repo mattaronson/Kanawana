@@ -1,7 +1,7 @@
 # Camp Perrot
 
-*Status: E1-reviewed | Sources: 27*
-*Last Updated: 2026-09-07 (the 1948 and 1953 reports read whole: Kanawana canoe parties, the girls' camp's own report, a branch table corrected by summing it, and the tenth season)*
+*Status: E1-reviewed | Sources: 28*
+*Last Updated: 2026-09-07 (1955-57 filled in from the association's reports, and the decline re-dated)*
 
 ## Overview
 
@@ -94,6 +94,9 @@ Camp Perrot ran sequential single-sex sessions at the same site — a roughly si
 | **1950 (7th)** | — | — | — | — | **828** *(635 + 193)* — **the peak**^26 |
 | 1951 (8th) | — | — | — | — | **787** *(584 + 203)*^26 |
 | 1952 (9th) | — | — | — | — | **792** *(589 + 203)*^26 |
+| **1955** | **177** | **87** | two weeks | **264** | — *(average stay "just under 3 weeks")*^28 |
+| **1956** | **196** | **98** | two weeks | **294** | —^28 |
+| **1957** | **207** | **104** | two weeks | **311** | —^28 |
 
 **The camper-week column now runs to 1952, from the camp's own statistics.** The 1952 Perrot report
 carries a STATISTICS block giving camper weeks as Boys, Girls and total for five consecutive seasons, and
@@ -178,25 +181,47 @@ The morning interest groups are ranked in the report's own order of popularity �
 
 **The recreation hall that appears twice and is never finished.** In 1948 the Foremen's Club took the old barn as its service project and laid a floor toward "a planned transformation of the Barn into a Recreational Hall," and a stage went in that autumn. Five years later the same club is starting again: "after having presented the Camp with **twenty wharves** for the Swimming Pool," it "now plans to build a much needed Recreation Hall for Camp Perrot. **Two thousand dollars** was donated by this group as the first step towards this noble project." Nothing follows. Neither the 1954 nor the 1958 report mentions a recreation hall at all, and 1954's building sections are about painting the dining hall and reinforcing its tables. That is an absence in two documents rather than a statement that the hall was never built — the 1955–57 reports are not held here — but a $2,000 first step with no second step inside the camp's own next five years of reporting belongs in the record of a camp the association closed at the end of the decade. [f_5701]
 
-## The shape of the decline, from the reports read as a run
+## The shape of the run, from the reports read together
 
-No single Perrot report says the camp is in trouble. The run does.
+No single Perrot report says the camp is in trouble, and the run does not say it either in the way this
+section once did. *(This section was called "The shape of the decline" until 2026-09-07. The three years
+it had no evidence for turned out to be the camp's largest.)*
 
 **1950** is the peak, described above: at capacity, refusing applications, on half the advertising.
 **1951** reports "a near capacity registration throughout the entire **eight** weeks". **1954**: "In spite
 of poor camping weather, the Boys' Camp had a near capacity registration" — still the language of a full
 camp, four years on.
 
-**By 1958 the camp is smaller in three measurable ways, and its report says so in the second sentence.**
-"It is unfortunate that the enrollment was down at Perrot this summer, for in every other way it was a
-most successful season." The boys' season is now **six weeks, not eight**. Tent units hold "five or six
+**1958's report opens by saying the year was bad.** "It is unfortunate that the enrollment was down at
+Perrot this summer, for in every other way it was a most successful season." Tent units hold "five or six
 campers, **compared to the usual seven**" — and the report puts the best face on that, noting it "greatly
 facilitated" the counsellor being "with his campers at all times". Of twenty-four staff, only seven were
 new to Perrot, so the staff was experienced and returning even as the campers thinned.^26
 
-The sequence matters more than any one report: a camp at capacity in 1950 with its advertising halved,
-still near capacity in 1954, and by 1958 running a season two weeks shorter with tents a third empty.
-Perrot's operating span ends shortly after. [f_5675]
+**The three years in between have no camp report, and the association's own reports fill them in — with
+a different shape from the one this article used to draw.** Until 2026-09-07 this section read "by 1958
+the camp is smaller in three measurable ways", the first being that the boys' season was "now six weeks,
+not eight". **The season was already six weeks in 1955.** The 1958 report never presents six weeks as a
+change; it mentions the figure in passing, and the contraction from 1951's "entire eight weeks" was
+inferred from the gap between two reports seven years apart. The association's volumes have six weeks in
+**1955, 1956 and 1957** as well, so the shortening falls between 1954 and 1955.^28
+
+**And through those same three years the camp grew.** 264 individual campers in 1955, **294** in 1956,
+**311** in 1957, against 251 in 1948 and 260 in 1947 — higher at the end of them than in any season the
+camp's own surviving reports cover.^28 So the run is not a decline from the 1950 peak. It is a fall after
+1950, a recovery through the middle of the decade, and then a drop in a single season, 1958, which is the
+year the committee met with a list of reasons to close the camp. The tent occupancy and the returning
+staff still say what they said; the date attached to them does not. [f_5714], correcting [f_5675]
+
+**One thing those three years cannot settle.** They are exactly the years whose camp reports are missing:
+a title search of the Internet Archive returns twelve Camp Perrot items and nothing at all for 1955, 1956
+or 1957, and the collection search returns only the association's own volumes. All twelve were uploaded by
+the same archives address into the same collections, so this is one digitisation programme with three
+years absent from it. The association's paragraphs do not mention a recreation hall, and their Foremen's
+Club entries are about camperships rather than buildings — 24 boys and girls in 1956 with the Verdun Y's
+Men's Club, 19 in 1957 "as usual". The club stayed with the camp and the hall never surfaces again.
+That strengthens the question above without closing it, and it makes the request to Concordia a specific
+one. [f_5715]
 
 ## Connection to Kanawana
 
@@ -407,8 +432,9 @@ clearest single instance of it.
 23. *The Green Triangle*, Vol. 1 No. 1, **23 July 1932** — the first issue [src_ymf_the_green_triangle_1932_07_23]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-07-23.txt`. Held since 2026-08-25 at read_state "skimmed", read word for word 2026-09-07 under p_482, in the systematic issue-by-issue read the article's open question 2 asks for.
 24. *The Green Triangle*, **12 August 1933** and Vol. IV No. 2, **30 June 1935** [src_ymf_the_green_triangle_1933_08_12, src_ymf_the_green_triangle_1935_06_30]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 25. *The New YMCA Camp on Isle Perrot*, brochure, 1946 [src_ymf_1946_the_new_ymca_camp_on_isle_perrot_brochure]. Cached at `sources/cache/ymca-montreal-fonds/1946-the-new-ymca-camp-on-isle-perrot-brochure.txt`; read word for word 2026-09-07 under p_482.
-26. Camp Perrot's own annual reports for **1950** [src_ymf_1950_camp_perrot_annual_report], **1951** [src_ymf_1951_camp_perrot_annual_report], **1952** [src_ymf_1952_camp_perrot_annual_report], **1954** [src_ymf_1954_camp_perrot_annual_report] and **1958** [src_ymf_1958_camp_perrot_annual_report], cached in `sources/cache/ymca-montreal-fonds/`. Read as a run 2026-09-07 under `p_491`. The 1948-52 camper-week series and the 827/828 discrepancy are at [f_5674]; the shape of the decline at [f_5675]. The 1951 report's "Groups Using Camp Perrot" list, which carries a "Kanawana Canoe Trip", is at [f_5699].
+26. Camp Perrot's own annual reports for **1950** [src_ymf_1950_camp_perrot_annual_report], **1951** [src_ymf_1951_camp_perrot_annual_report], **1952** [src_ymf_1952_camp_perrot_annual_report], **1954** [src_ymf_1954_camp_perrot_annual_report] and **1958** [src_ymf_1958_camp_perrot_annual_report], cached in `sources/cache/ymca-montreal-fonds/`. Read as a run 2026-09-07 under `p_491`. The 1948-52 camper-week series and the 827/828 discrepancy are at [f_5674]; the run of seasons at [f_5675], **corrected on its dating by [f_5714]**. The 1951 report's "Groups Using Camp Perrot" list, which carries a "Kanawana Canoe Trip", is at [f_5699].
 27. *Camp Perrot Tenth Annual Report, 1953*, signed Donald Cochrane, Director [src_ymf_1953_camp_perrot_annual_report]. Cached at `sources/cache/ymca-montreal-fonds/1953-camp-perrot-annual-report.txt`; **body read whole 2026-09-07 under `p_491`**, having been held at read_state "partial" since 2026-09-06 with only its officer block read. See [f_5700]–[f_5703].
+28. YMCA of Montreal annual reports for the years ending **31 December 1955**, **1956** and **1957** [src_ymf_sgw_ymca_annual_report_1955, src_ymf_sgw_ymca_annual_report_1956, src_ymf_sgw_ymca_annual_report_1957], their Camp Perrot paragraphs. Cached under `sources/cache/ymca-montreal-fonds/`; read 2026-09-07 under `p_259`. **These stand in for camp reports that do not exist in digitised form**: a title search of the Internet Archive returns twelve Camp Perrot items and none for 1955, 1956 or 1957, and the collection search returns only the association's own volumes for those years — see [f_5715]. The season lengths and attendance are at [f_5714].
 
 ## Research Notes
 

@@ -1,8 +1,8 @@
 {
-  "version": "11.00",
-  "kb_version": "11.00",
+  "version": "11.01",
+  "kb_version": "11.01",
   "migrated_from": "3.3",
-  "fact_count": 5675,
+  "fact_count": 5677,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101615,7 +101615,7 @@
     },
     {
       "fact_id": "f_5675",
-      "claim": "THE SHAPE OF CAMP PERROT'S DECLINE, FROM ITS OWN REPORTS READ AS A RUN. 1950 is the peak and the report knows it: highest attendance on record, applications refused, only two weeks not over capacity, on a halved promotion budget. 1951 has 'a near capacity registration throughout the entire EIGHT weeks'. 1954: 'In spite of poor camping weather, the Boys' Camp had a near capacity registration.' BY 1958 THE CAMP IS SMALLER IN THREE MEASURABLE WAYS AND THE REPORT SAYS SO IN ITS SECOND SENTENCE. 'It is unfortunate that the enrollment was down at Perrot this summer, for in every other way it was a most successful season.' The season is now SIX weeks of boys' camp, not eight. Tent units hold 'five or six campers, compared to the usual seven' -- and the report puts the best face on it, noting this 'greatly facilitated' the counsellor being 'with his campers at all times'. Of twenty-four staff, only seven were new to Perrot, so the staff was experienced and returning even as the campers thinned. THE SEQUENCE MATTERS MORE THAN ANY ONE REPORT: a camp at capacity in 1950 with its advertising cut in half, still near capacity in 1954, and by 1958 running a season two weeks shorter with tents a third empty. Camp Perrot's operating span ends shortly after.",
+      "claim": "THE SHAPE OF CAMP PERROT'S DECLINE, FROM ITS OWN REPORTS READ AS A RUN. 1950 is the peak and the report knows it: highest attendance on record, applications refused, only two weeks not over capacity, on a halved promotion budget. 1951 has 'a near capacity registration throughout the entire EIGHT weeks'. 1954: 'In spite of poor camping weather, the Boys' Camp had a near capacity registration.' BY 1958 THE CAMP IS SMALLER IN THREE MEASURABLE WAYS AND THE REPORT SAYS SO IN ITS SECOND SENTENCE. 'It is unfortunate that the enrollment was down at Perrot this summer, for in every other way it was a most successful season.' The season is now SIX weeks of boys' camp, not eight. Tent units hold 'five or six campers, compared to the usual seven' -- and the report puts the best face on it, noting this 'greatly facilitated' the counsellor being 'with his campers at all times'. Of twenty-four staff, only seven were new to Perrot, so the staff was experienced and returning even as the campers thinned. THE SEQUENCE MATTERS MORE THAN ANY ONE REPORT: a camp at capacity in 1950 with its advertising cut in half, still near capacity in 1954, and by 1958 running a season two weeks shorter with tents a third empty. Camp Perrot's operating span ends shortly after. || CORRECTED 2026-09-07 (f_5714), the superseded wording left standing above. 'BY 1958 the camp is smaller in three measurable ways' overstates the first of them. The six-week boys' season is not a 1958 contraction: the association's annual reports have six weeks in 1955, 1956 and 1957 as well, so the shortening from the eight weeks of 1951 falls between 1954 and 1955. And attendance rose through those three years -- 264 individual campers in 1955, 294 in 1956, 311 in 1957, against 251 in 1948 -- so the run is a fall, a recovery and then a single-season drop, not a decline from the 1950 peak. The tent-occupancy and staff-continuity observations stand.",
       "sources": [
         "src_ymf_1950_camp_perrot_annual_report",
         "src_ymf_1951_camp_perrot_annual_report",
@@ -101628,7 +101628,9 @@
         "Camp Perrot"
       ],
       "date_ref": "1950-1958",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "f_5714"
+      ],
       "added_version": "10.73",
       "added_by": "ralph_loop"
     },
@@ -102352,6 +102354,48 @@
       "date_ref": "2026-09-07",
       "conflicts_with": [],
       "added_version": "11.00",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5714",
+      "claim": "CAMP PERROT'S BOYS' SEASON WAS ALREADY SIX WEEKS IN 1955, WHICH MOVES A DATED CLAIM IN AN E1-REVIEWED ARTICLE BY AT LEAST THREE YEARS -- AND THE CAMP GREW THROUGH THOSE YEARS RATHER THAN SHRINKING. camp-perrot.md's 'shape of the decline' section says that BY 1958 the camp is smaller in three measurable ways, the first being that 'the boys' season is now SIX WEEKS, NOT EIGHT'. The 1958 report does not present that as a change: it says, in passing, 'we had only one morning during the SIX WEEKS of boys' camp when it was necessary to have an indoor program'. The six-week figure was set against the 1951 report's 'entire eight weeks' and the gap between them was read as a 1958 contraction. THE ASSOCIATION'S OWN ANNUAL REPORTS CLOSE THAT GAP AND PUT THE CHANGE EARLIER. 1955: 'The season opened with a SIX WEEKS' session for boys, which attracted 177 boys to the campsite on Ile Perrot. It was followed by a TWO WEEKS' Camp for 87 girls. The average camper stayed just under 3 weeks.' 1956: '196 different boys attended during the SIX WEEK camping period for boys, while 98 girls were present for the two week period.' 1957: 'It operates a SIX WEEK period for boys and two weeks for girls. A total of 207 boys and 104 girls attended.' So six weeks was the season in 1955, 1956 and 1957, and the shortening from eight falls between 1954 and 1955, not at 1958. AND THE ATTENDANCE RUNS THE OTHER WAY FROM THE ARGUMENT. Individual campers: 260 in 1947, 251 in 1948, then 264 in 1955, 294 in 1956, 311 in 1957 -- rising in each of the three years for which no camp report survives, and higher at the end of them than in any year the camp's own reports cover. The 1958 report then opens 'It is unfortunate that the enrollment was down at Perrot this summer'. THE SHAPE IS NOT A DECLINE FROM 1950 BUT A FALL AND A RECOVERY AND THEN A DROP, with the drop arriving in a single season. THE FIGURES WERE NOT NEW TO THIS PROJECT AND THAT IS THE POINT: 177/87 for 1955 and 207/104 for 1957 are already in camp-perrot.md, in a different section, doing a different job -- rebutting a 1969 proposal's claim that the camp lay dormant. They were never carried into the attendance table or set against the decline argument, and 1956 was never extracted at all. This is the same failure as f_5432: a fact present in the article and absent from the place that needed it.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1955",
+        "src_ymf_sgw_ymca_annual_report_1956",
+        "src_ymf_sgw_ymca_annual_report_1957",
+        "src_ymf_1958_camp_perrot_annual_report",
+        "src_ymf_1951_camp_perrot_annual_report"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Camp Perrot"
+      ],
+      "date_ref": "1955-1958",
+      "conflicts_with": [
+        "f_5675"
+      ],
+      "added_version": "11.01",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5715",
+      "claim": "THE CAMP PERROT REPORTS FOR 1955, 1956 AND 1957 ARE NOT ON THE INTERNET ARCHIVE, AND THE GAP IS THE ARCHIVE'S RATHER THAN A SEARCH FAILURE. Checked 2026-09-07 under p_259 and f_5701, which needed those years to settle whether the Foremen's Club recreation hall was ever built. A title search of archive.org for 'camp perrot' returns TWELVE items and names every year this project holds -- 1947 and 1948 season reports, brochures for 1947, annual reports for 1950, 1951, 1952, 1953, 1954 and 1958, the 1954 girls' camp report, the 1959 memo and the 1969 Family Centre proposal -- and nothing for 1955, 1956 or 1957. A second search of the ymca-montreal-fonds collection for those years returns exactly one item each, the association's own annual report. All twelve Perrot items were uploaded by archives@concordia.ca into the same three collections, so this is one digitisation programme with three years missing from it, not three items catalogued somewhere else. WHAT THE SUBSTITUTE GIVES AND DOES NOT. The association's annual reports for those years carry a Camp Perrot paragraph each and they are worth having (f_5714). They do NOT mention a recreation hall, and their Foremen's Club entries are about camperships rather than buildings -- 1956, the Foremen's Club and the Verdun Y's Men's Club providing camping holidays for 24 boys and girls with welfare agencies sending 18 more; 1957, 'as usual, made available camping holidays for 19 boys and girls' with 15 more from city welfare agencies. So the club stayed involved with the camp and the hall never surfaces again in five consecutive years of the association's reporting. That strengthens f_5701 without closing it: the camp's own reports for the three years are still the documents that would say, and they are not digitised. THE REQUEST TO MAKE OF CONCORDIA is now specific: Camp Perrot annual reports for 1955, 1956 and 1957, which the archives' own digitised run skips.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1955",
+        "src_ymf_sgw_ymca_annual_report_1956",
+        "src_ymf_sgw_ymca_annual_report_1957"
+      ],
+      "confidence": "inferred",
+      "category": "sources",
+      "entities": [
+        "Camp Perrot",
+        "Foremen's Club of Montreal",
+        "Concordia University Archives"
+      ],
+      "date_ref": "1955-1957",
+      "conflicts_with": [],
+      "added_version": "11.01",
       "added_by": "ralph_loop"
     }
   ]
