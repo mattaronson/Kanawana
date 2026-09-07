@@ -1,8 +1,8 @@
 {
-  "version": "9.40",
-  "kb_version": "9.40",
+  "version": "9.41",
+  "kb_version": "9.41",
   "migrated_from": "3.3",
-  "fact_count": 5328,
+  "fact_count": 5329,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -96125,6 +96125,22 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.40",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5367",
+      "category": "sources",
+      "date_ref": "1999-2012",
+      "entities": [
+        "YMCA of Montreal",
+        "Internet Archive",
+        "ymcamontreal.qc.ca"
+      ],
+      "claim": "THE YMCA OF MONTREAL'S OWN WEBSITE IS ARCHIVED FOURTEEN YEARS RUNNING, AND THE CAPTURES SIT ALMOST EXACTLY ON THE START OF THE CAMP SEASON. Front-page captures of ymcamontreal.qc.ca returning HTTP 200 exist for 1999-10-13, 2000-06-20, 2001-05-16, 2002-05-30, 2003-05-29, 2004-06-06, 2005-06-02, 2006-06-13, 2007-06-12, 2008-06-07, 2009-06-01, 2010-06-12, 2011-07-06 and 2012-06-11 -- THIRTEEN OF THE FOURTEEN WITHIN THREE WEEKS OF 1 JUNE. A camp's pages in June carry that summer's session dates, age bands, fees, programme names and often its director, which is most of what this project has had to reconstruct for the 2000s from brochures and recollection. The successor domain ymcaquebec.org is archived from 2009-08-10, so the two runs together should also date the rebrand. THE INTERIOR CAMP PAGES CANNOT BE FOUND FROM HERE: /camps, /en/camps, /kanawana, /camp_kanawana, /en/kanawana, /camps/kanawana and /en all return no capture, which is evidence about those guesses and not about what was captured -- the site was bilingual, which doubles the ways a real path can differ from an English guess. The paths are in the navigation of the captures, and reading a capture needs a host this environment cannot reach.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.41",
       "added_by": "ralph_loop"
     }
   ]
