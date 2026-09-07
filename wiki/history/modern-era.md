@@ -1,6 +1,6 @@
 # The Modern Era: The Two-Tier Era (1995–Present)
 
-*Status: draft | Sources: 24*
+*Status: draft | Sources: 25*
 *Last Updated: 2026-09-06 (the credit directories, which date the Drummond Street move and settle whose staff figures they are)*
 
 ## Overview
@@ -110,6 +110,27 @@ after "the last seven summers at YMCA Camp Kanawana in Saint-Sauveur" — so a c
 differences**." Asked for one word: "**Learning!** Kanawana is truly an experience that allows you to learn
 more about yourself, nature, and others." The following summer, the report notes, would be her turn on the
 other side.^22
+
+## Who else used the camp, 2000-01
+
+**A psychiatric institute was among the camp's tenants, and not for the first time.** The association's
+annual report for 2000–01: "Once again this year, the camp welcomed people from the YMCA and from numerous
+other organizations as well, including the **Allan Memorial Institute** and several **Montreal school
+boards**."^25 The Allan Memorial is McGill's psychiatric institute. This wiki has documented the camp's
+rental business only in the abstract — as the thing that inflates the attendance figures of these years,
+which is why [[meta/attendance-series|the series]] flags 2000–01's "1,220 campers between the ages of 3 and
+60" as covering "summer camp **and rental programs** alone." Here is one of the tenants by name, and "once
+again" says it was a standing arrangement.
+
+The same passage gives the assistance figures: "The YMCA financial assistance program helped **27 children**
+from low-income families enjoy the Kamp Kanawana experience. Total funding for the children amounted to
+**$13,000**."^25 That is about $481 a child. Eleven years later the association reports $255,000 for over
+480 children across all its camps — about $530. The per-child figure barely moves across the decade.
+
+**And one small thing the report bothered to record.** "At the end of the summer, all remaining food from
+the kitchen, as well as any unclaimed clothing from the lost-and-found, were donated to **Le Bon Dieu dans
+la Rue**," the Montreal youth-homelessness charity.^25 Neither that organisation nor the practice appears
+anywhere else in this project.
 
 ## Two claims and two programmes, 2021 and 2024
 
@@ -344,6 +365,7 @@ endowment, and the association's endowment reporting is where to look next.
 22. YMCAs of Québec, community reports for **2011** and **2012** [src_ymf_sgw_ymca_community_report_2011, src_ymf_sgw_ymca_community_report_2012]. Both read for their Kanawana passages 2026-09-07 under the sharpened p_441. See [f_5579] and [f_5580].
 23. YMCAs of Québec, community reports for **2013**, **2014**, **2015** and **2017** [src_ymf_sgw_ymca_community_report_2013, src_ymf_sgw_ymca_community_report_2014, src_ymf_sgw_ymca_community_report_2015, src_ymf_sgw_ymca_community_report_2017], each printing the Camp YMCA Kanawana committee roster; and the "CITS 95" plaque transcribed at [[people/dan-aronson|Dan Aronson]] [src_flickr_kanawana_plaque_album]. See [f_5581] and [f_5582].
 24. YMCAs of Québec, community reports for **2016** and **2021** and impact reports for **2024** and **2025** [src_ymf_sgw_ymca_community_report_2016, src_ymf_ymca_community_report_2021_eng, src_ymf_ymca_impact_report_2024, src_ymf_ymca_impact_report_2025]. Read 2026-09-07 under the sharpened p_441. See [f_5585] and [f_5586].
+25. YMCA of Montreal, annual report for **2000-2001** [src_ymf_sgw_ymca_annual_report_2000_2001]. Read 2026-09-07 under the sharpened p_441. See [f_5588].
 
 ## Research Notes
 

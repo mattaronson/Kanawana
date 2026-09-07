@@ -21721,12 +21721,12 @@
       "cache_path": "sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-2000-2001.txt",
       "char_count": 35764,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
-      "extraction_version": "v5.60",
+      "extracted": true,
+      "extraction_version": "10.10",
       "reliability": "secondary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. || READ 2026-09-07 under the sharpened p_441. Names the camp's other users -- the ALLAN MEMORIAL INSTITUTE and several Montreal school boards, 'once again this year' -- gives 27 children on financial assistance at $13,000 total, and records that at summer's end the kitchen's remaining food and the unclaimed lost-and-found clothing went to LE BON DIEU DANS LA RUE. Its 1,220 attendance figure was already in the attendance series with its rentals caveat. See f_5588.",
+      "read_state": "read",
+      "read_state_basis": "read for its Kanawana passages 2026-09-07; supersedes the asserted keyword-swept state"
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_2000_2001_fr",

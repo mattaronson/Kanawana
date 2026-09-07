@@ -2,7 +2,7 @@
   "version": "10.10",
   "kb_version": "10.10",
   "migrated_from": "3.3",
-  "fact_count": 5549,
+  "fact_count": 5550,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100003,6 +100003,24 @@
       "claim": "A PARENT ON WHY SHE SENDS HER SON, PRINTED BY THE ASSOCIATION IN 2016. The community report for that year carries a first-person account signed with a first name only: 'My name is STAR. My thirteen-year-old son BISHOP has been going to Camp YMCA Kanawana SINCE HE WAS SIX. This wouldn't have been possible without FINANCIAL ASSISTANCE from the YMCA. There are clear benefits. I see a difference every time Bishop comes back from camp. He has a healthier, more positive view of himself... At his age, Bishop is still trying to figure out who he is. IT'S HARD TO FIND AN ENVIRONMENT THAT WILL HELP HIM BUILD HIS CHARACTER, WHERE HE WON'T BE PRESSURED INTO BEING SOMEONE HE'S NOT. I would like to thank you. THANK YOU FOR NOT EXCLUDING PEOPLE BASED ON THEIR INCOME or for any other reason.' WHY IT IS WORTH KEEPING. This project holds a great deal about what the camp's staff and its association SAID the camp was for, across 130 years, and almost nothing from the families who used it. Here is a parent giving the reason in her own words, and it is the same reason the 1931 national Boys' Work Committee and the 1950s 'Values for Living' framework gave in institutional language: character formed somewhere the pressure is off. Seven consecutive summers on financial assistance, 2009 to 2016. PRINTED WITH FIRST NAMES ONLY, in a published annual report, and quoted here as the association printed it.",
       "sources": [
         "src_ymf_sgw_ymca_community_report_2016"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5588",
+      "category": "institutional",
+      "date_ref": "2000-2001",
+      "entities": [
+        "Camp Kanawana",
+        "Allan Memorial Institute",
+        "YMCA of Montreal"
+      ],
+      "claim": "WHO ELSE USED THE CAMP IN 2000-01, AND WHAT HAPPENED TO THE LEFTOVERS. The YMCA of Montreal's annual report for the year: 'Once again this year, the camp welcomed people from the YMCA and from numerous other organizations as well, including the ALLAN MEMORIAL INSTITUTE and several MONTREAL SCHOOL BOARDS.' 'Allan Memorial' occurs NOWHERE ELSE IN THIS WIKI. It is the McGill teaching hospital's psychiatric institute, so this is a psychiatric institution among the camp's rental users -- a class of user this project has documented only in the abstract, through the rentals figures that inflate the attendance series. 'Once again this year' means it was not the first. THE ASSISTANCE FIGURES: 'The YMCA financial assistance program helped 27 CHILDREN from low-income families enjoy the Kamp Kanawana experience. TOTAL FUNDING FOR THE CHILDREN AMOUNTED TO $13,000' -- about $481 a child, against the $255,000 for over 480 children across all the camps in 2012 (f_5580), which is about $530. Two points eleven years apart, and the per-child figure barely moves. AND A SMALL THING WORTH KEEPING: 'At the end of the summer, ALL REMAINING FOOD FROM THE KITCHEN, as well as any UNCLAIMED CLOTHING FROM THE LOST-AND-FOUND, were donated to LE BON DIEU DANS LA RUE' -- the Montreal youth-homelessness charity. Neither that charity nor this practice appears anywhere else here. THE ATTENDANCE FIGURE IN THE SAME PASSAGE IS ALREADY HELD: '1,220 campers between the ages of 3 and 60... in our summer camp AND RENTAL PROGRAMS alone' is already in meta/attendance-series.md with its rentals caveat, checked before writing.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2000_2001"
       ],
       "confidence": "stated",
       "conflicts_with": [],

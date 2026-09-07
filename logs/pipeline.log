@@ -5296,3 +5296,27 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   wiki-link that the harness does not support, and a relative markdown path
   where a wiki-link belongs.
   Verify green, nine checks. Timestamp from `date -u` in its own call.
+
+[2026-09-07T14:29:00Z] The 2000-01 annual report: who else used the camp.
+  NEW: f_5588.
+  A PSYCHIATRIC INSTITUTE WAS AMONG THE TENANTS, AND NOT FOR THE FIRST TIME.
+  "Once again this year, the camp welcomed people from the YMCA and from
+  numerous other organizations as well, including the ALLAN MEMORIAL INSTITUTE
+  and several MONTREAL SCHOOL BOARDS." The Allan Memorial is McGill's
+  psychiatric institute and occurs nowhere else in this wiki. This project has
+  documented the rental business only in the abstract -- as the thing that
+  inflates the attendance figures of these years, which is why the series flags
+  2000-01's 1,220 as covering "summer camp AND RENTAL PROGRAMS alone". Here is a
+  tenant by name, and "once again" makes it standing.
+  THE ASSISTANCE FIGURES: 27 children, $13,000 total, about $481 a child.
+  Against 2012's $255,000 for over 480 children across all camps, about $530.
+  Eleven years apart and the per-child figure barely moves.
+  AND ONE SMALL THING THE REPORT BOTHERED TO RECORD: at summer's end the
+  kitchen's remaining food and the unclaimed lost-and-found clothing went to LE
+  BON DIEU DANS LA RUE. Neither the charity nor the practice is anywhere else
+  here.
+  TWO FIGURES CHECKED AND NOT CLAIMED: the 1,220 for 2000-01 and the 780 for
+  2023 are BOTH ALREADY in attendance-series.md, the second in its opening
+  sentence. Grepping the destination first stopped two duplicate claims in one
+  pass; that is now six or seven times today.
+  Verify green, nine checks. Timestamp from `date -u` in its own call.
