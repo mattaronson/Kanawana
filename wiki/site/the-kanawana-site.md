@@ -1,7 +1,7 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 73*
-*Last Updated: 2026-09-07 (the 1936 CFCF script; and what the site costs to rent in 2026)*
+*Status: E1-reviewed | Sources: 74*
+*Last Updated: 2026-09-07 (who used the property in 1970, named)*
 
 ## Overview
 
@@ -495,6 +495,10 @@ On May 16, 2023, the superintendent's house at Camp YMCA Kanawana was destroyed 
 
 ## Year-Round Use
 
+**Who used the property in 1970, named.** The rentals section of that year's annual report prints the roster, and the mix is more interesting than the practice: the Downtown YMCA Aquadyne Club; Mary Queen of Peace Cubs; St. Barnabas Cubs and Scouts; Sunnybrook Cubs; Beaconsfield High School; Outreach Services for Downtown Metro, Verdun-LaSalle and Westmount; the Westmount and N.D.G. day camps; W. H. Rhodes Canada Educational Trusts; the Boys Brigade of Montreal; the Westmount Project; the N.D.G. Community Services Project; the Integrated Media Workshop; and University Settlement.^74 Church-linked Cubs and Scouts, a high school, three branches of the association's own outreach arm, two day camps, two neighbourhood social-service projects, a settlement house and a media workshop — a camp whose summer roll was about eight hundred was carrying a second clientele drawn largely from social agencies.
+
+The report is not pleased about it. "There are some concerns about having these groups eating with the regular campers and taking part in camp activities (ie boating, swimming) especially when the campers do not have enough time for themselves." It wants a separate area with its own eating facilities, "a list of conditions for rentals," a full-time employee on site, and "a true costing of what it costs to have groups use our facilities." Two rentals that season, one early and one late, are also what the director blames for the maintenance that did not get done. [f_5704]
+
 Although primarily a summer camp, Kanawana operates as a "3-season outdoor and environmental education centre"^18 and is listed on Bonjour Québec as a "holiday centre" with a primary season of May 15 to October 15.^20 The camp has five distinct seasonal rental windows:^19
 
 - **Spring** (May 21–June 23): Full camp package for groups of 6–250 persons
@@ -730,6 +734,7 @@ them on every line and by tenfold on revenue.
 71. The YMCA of Montreal's annual-report schedules of capital improvements, read as a run 2026-09-07 under p_491: the **99th** report to 31 March 1950 [src_ymf_sgw_ymca_annual_report_1950], the **100th** covering the twenty-one months to 31 December 1951 [src_ymf_sgw_ymca_annual_report_1951], and the volumes to 31 December **1952** [src_ymf_sgw_ymca_annual_report_1952], **1953** [src_ymf_sgw_ymca_annual_report_1953], **1954** [src_ymf_sgw_ymca_annual_report_1954], **1955** [src_ymf_sgw_ymca_annual_report_1955], **1956** [src_ymf_sgw_ymca_annual_report_1956] and **1958** [src_ymf_sgw_ymca_annual_report_1958]. Transcribed together at [f_5640], with the year-ends taken from `project-docs/annual-report-year-ends.md`; the **Lower Pavilion**'s replacement is dated against the **1951** camp history at [f_2120].
 72. Kamp Kanawana director's report for **1979** [src_ia_kanawana_report_1979]: the **plastic enclosures** tested that year for the dining hall with the recommendation to buy enough for the rest, the room "quite dark on even the sunniest days", and Julien Tassé's season of work including the new dining-hall stairs. At [f_5650], which corrects the **1977** enclosure date given at [f_5627].
 73. Kamp Kanawana's own directors' reports for **1976** [src_ia_kanawana_directors_report_1976], **1977** [src_ia_kanawana_report_1977] and **1978** [src_ia_kanawana_report_1978], in their APPRECIATION sections; cached in `sources/cache/ymca-montreal-fonds/`. Read 2026-09-07 under `p_499`. See [f_5662].
+74. *Kamp Kanawana Annual Report 1970* [src_ia_kanawana_report_1970], its RENTALS and VISITORS section; cached at `sources/cache/ymca-montreal-fonds/1970-kamp-kanawana-annual-report.txt`. Read end to end 2026-09-07 under `p_491`. See [f_5704].
 
 ## Research Notes
 

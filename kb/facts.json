@@ -1,8 +1,8 @@
 {
-  "version": "10.94",
-  "kb_version": "10.94",
+  "version": "10.95",
+  "kb_version": "10.95",
   "migrated_from": "3.3",
-  "fact_count": 5665,
+  "fact_count": 5668,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102148,6 +102148,58 @@
       "date_ref": "1953",
       "conflicts_with": [],
       "added_version": "10.94",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5704",
+      "claim": "WHO ACTUALLY USED KAMP KANAWANA IN 1970, NAMED. The 1970 annual report's RENTALS section prints the roster, which this project had not used although it had mined the same section's analysis: the Downtown YMCA Aquadyne Club; Mary Queen of Peace Cubs; St. Barnabas Cubs and Scouts; Sunnybrook Cubs; Beaconsfield High School; Outreach Services for Downtown (Metro), Verdun-LaSalle and Westmount; the Westmount and N.D.G. day camps; W. H. Rhodes Canada Educational Trusts; the Boys Brigade of Montreal; the Westmount Project; the N.D.G. Community Services Project; the Integrated Media Workshop; and University Settlement. FIFTEEN ENTRIES, AND THE MIX IS THE POINT: church-linked Cubs and Scouts, a high school, three branches of the association's own Outreach Services, two day camps, two neighbourhood social-service projects, a settlement house and a media workshop. A camp whose summer roll was about eight hundred was carrying a second, year-round clientele drawn largely from social agencies. The report is not pleased about it -- 'there are some concerns about having these groups eating with the regular campers and taking part in camp activities... especially when the campers do not have enough time for themselves' -- and asks for a separate area, a list of conditions, a full-time employee on site and 'a true costing of what it costs to have groups use our facilities'. TWO SMALLER THINGS FROM THE SAME REPORT, ALSO UNUSED: 1970 was the FIRST YEAR THE FOOD WAS CATERED rather than cooked by camp staff ('the food services at camp this year were catered for the first time'), the caterer reporting through the Executive Director, and the director recommending the arrangement continue; [CORRECTED BEFORE COMMIT, 2026-09-07: this fact was drafted claiming a third unused item, the ten-year-old cystic fibrosis camper who 'swam two miles for his double black cord'. IT IS ALREADY IN programs-activities.md. The grep that said otherwise searched for 'black cord' and the article's line-wrap puts 'double black' at the end of one line and 'cord' at the start of the next. A negative result from a grep is a fact about the grep. The catering change stands as unused; the cord does not.]",
+      "sources": [
+        "src_ia_kanawana_report_1970"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Kamp Kanawana",
+        "University Settlement",
+        "Boys Brigade of Montreal"
+      ],
+      "date_ref": "1970",
+      "conflicts_with": [],
+      "added_version": "10.95",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5705",
+      "claim": "THE 1969 AND 1970 KANAWANA REPORTS ARE NOT 'ONLY PARTLY WORKED', AND MEASURING SAID SO. p_491 listed both as rich and under-used, the 1970 one 'in particular'. Read end to end on 2026-09-07 against the wiki, both turn out to be substantially written up already: the coeducation section, the cystic fibrosis season, the riding recommendation and its repeat, the erosion crisis, the Becsies squatters and the visitors-day recommendation, the 1969 camperships and outside groups, the geographical distribution tables and the ten-year summary all have destinations. THE RESIDUE IS SMALL: the 1970 rentals roster (f_5704), the first year of catering, sensitivity training in pre-camp, and the swollen applicant pool the director attributed to 'the unemployment situation throughout the country'. THIS IS THE OVER-COUNT p_491 WARNED ABOUT IN ITS OWN TEXT, committed by the person who wrote the warning. Judging a source under-used by how much of it a reader remembers writing up is not a measurement. TWO STRING PROXIES PRODUCED FALSE NEGATIVES WHILE CHECKING, EACH OF WHICH WOULD HAVE DUPLICATED EXISTING TEXT. The first was wording:  the article says 'discontinue visitors days', the report says 'cancel visitors days all together', and a grep for the report's wording returned nothing. The second was line-wrapping: the article carries the ten-year-old cystic fibrosis camper who 'swam two miles for his double black cord', but 'double black' ends one line and 'cord' begins the next, so a search for the phrase fails. Both were caught only by reading the destination. Search the destination with whitespace treated as flexible, and read the passage before concluding it is absent.",
+      "sources": [
+        "src_ia_kanawana_report_1969",
+        "src_ia_kanawana_report_1970"
+      ],
+      "confidence": "inferred",
+      "category": "methodology",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1969-1970",
+      "conflicts_with": [],
+      "added_version": "10.95",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5706",
+      "claim": "KANAWANA'S KITCHEN WENT TO AN OUTSIDE CATERER IN 1970, AND NOTHING IN THIS WIKI SAID SO. The 1970 annual report's FOOD SERVICES section: 'The food services at camp this year were CATERED FOR THE FIRST TIME. The food, service and rapport with the kitchen was excellent this year. Our chef not only prepared top quality meals but personally got involved in our program -- a Western style cook-out, received a pie in the face, etc. This spirit made camp very enjoyable.' The director recommends continuing with the caterer and asks that 'the whole catering service should be investigated (ie disposable dishes, etc.) for camp '71' and followed up by a special committee. THE ARRANGEMENT SHOWS UP IN THE ORGANISATION CHART TOO: the same report's STAFF ORGANIZATION section explains that the year's structure was unusual 'due to the Executive Director's relationship to INDUSTRIAL CATERERS and the Business Office and the Director's relationship to the program areas' -- so the caterer reported through the Executive Director while the Director kept programme and staff development, which the report calls 'definitely an asset'. It adds that 'Kanawana should have a fulltime competent Business Manager who is capable of dealing with the catering service and the business office'. WHY IT MATTERS: a camp that had cooked its own food since 1894 contracting it out is an institutional change of the same order as the section reorganisations this wiki tracks closely, and it happened in the same season as the first cystic fibrosis campers and the third year of coeducation. The word 'cater' occurs nowhere in this wiki outside an unrelated list containing 'caterpillars'.",
+      "sources": [
+        "src_ia_kanawana_report_1970"
+      ],
+      "confidence": "stated",
+      "category": "administration",
+      "entities": [
+        "Kamp Kanawana",
+        "Industrial Caterers"
+      ],
+      "date_ref": "1970",
+      "conflicts_with": [],
+      "added_version": "10.95",
       "added_by": "ralph_loop"
     }
   ]

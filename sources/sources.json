@@ -10332,7 +10332,7 @@
       "reliability": "primary",
       "notes": "Signed \"Geoff Anderson, Director.\" REFUTES the wiki's attribution of the 1969 directorship to Ross Bannerman. A recommendations-driven report; the author notes it \"may appear to be negative\" because its focus is items needing improvement.",
       "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact | cached text linked 2026-09-02: the file was on disk under no record"
+      "read_state_basis": "direct: read end to end 2026-09-07 under p_491, replacing a derived:cited-by-fact basis. The prior basis was inferred from the file being cited, not from a reading."
     },
     {
       "source_id": "src_ia_kanawana_report_1970",
@@ -10348,9 +10348,9 @@
       "extracted": true,
       "extraction_version": "v5.20",
       "reliability": "primary",
-      "notes": "Signed \"James H. Turner, Camp Director.\"",
+      "notes": "Signed \"James H. Turner, Camp Director.\" [READ END TO END 2026-09-07 under p_491. Most of it was already written up across programs-activities.md, camp-becsies.md, coeducation-gender.md, james-h-turner.md and attendance-series.md; see f_5705 for the measurement. What was NOT used and now is: the rentals roster of fifteen named groups (f_5704) and the first year of catered food services with Industrial Caterers reporting through the Executive Director (f_5706). Still unused and judged thin: sensitivity training running through the two weeks of pre-camp rather than in a set slot, and the director's note that applicants were numerous 'due to the unemployment situation throughout the country'.]",
       "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact | cached text linked 2026-09-02: the file was on disk under no record"
+      "read_state_basis": "direct: read end to end 2026-09-07 under p_491, replacing a derived:cited-by-fact basis. The prior basis was inferred from the file being cited, not from a reading."
     },
     {
       "source_id": "src_ia_kanawana_report_1971",

@@ -533,6 +533,21 @@ A separate line in the same list would have ended a long-standing fixture: "That
 visitors days** during camp for parents and friends." Whether either was adopted is not established
 here.^kk70 [f_5683]
 
+**And the kitchen stopped being the camp's own.** The same report's food services section opens: "The
+food services at camp this year were **catered for the first time**. The food, service and rapport with
+the kitchen was excellent this year. Our chef not only prepared top quality meals but personally got
+involved in our program — a Western style cook-out, **received a pie in the face**, etc." The director
+wanted the arrangement kept, the whole service investigated "(ie disposable dishes, etc.) for camp '71"
+and a committee to follow it up. The contractor appears again in the report's account of why that year's
+organisation chart looked odd — the structure was unusual "due to the **Executive Director's relationship
+to Industrial Caterers** and the Business Office and the Director's relationship to the program areas,"
+which the report calls "definitely an asset" because it let the Director concentrate on staff development
+and programme. The same paragraph asks for "a fulltime competent Business Manager who is capable of
+dealing with the catering service and the business office." A camp that had cooked its own food since
+1894 contracting it out is a change of the same order as the section reorganisations tracked above, and
+it happened in the season that also brought the first cystic fibrosis campers and the third year of
+coeducation.^kk70 [f_5706]
+
 **The French-language thread of these years is at [[traditions/french-language-camping|French-Language Camping and Kanawana, 1967-1973]].** Kanawana ran a residential French immersion section for English-speaking boys aged 12 to 16 in 1969, called "Living-in-French", and it was one branch of a Montreal YMCA programme that had been running French-language day camps for immigrant children since 1967. That article carries the two 1969 press releases, the day camps' proposal and season report, and the Mile End West submission of January 1971.
 
 **Staffing and the rest of the programme.** "In addition to section directors, supervisors, a diversified team of activity specialists, a resident doctor and nurse, and a **dietician** — Kanawana's staff includes **one counsellor for every seven campers**."^nr69 The seven-camper unit of the 1955 and 1958 reports was still the unit fourteen years later. The activity list adds two items new to this article: "horseback riding; swimming; canoeing; rowing; sailing; arts & crafts; **skin diving**; naturelore; archery; **riflery**; hiking; sports instruction."
