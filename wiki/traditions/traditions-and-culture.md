@@ -1,7 +1,7 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 56*
-*Last Updated: 2026-09-07 (Cuckoo Day, 1938; and the camp keeping up with the outside world)*
+*Status: E1-reviewed | Sources: 57*
+*Last Updated: 2026-09-07 (the c.1940 badges themselves, labelled by whoever kept the scrapbook)*
 
 ## Overview
 
@@ -438,6 +438,27 @@ The 1922 brochure documented a 32-subject Honour System, with the Large K as the
 - **KLS (Kanawana Life Saver)**: Based on the RLSS Award of Merit
 - **The Green Triangle**: Described as "the coveted Green Triangle" in a Reader's Digest account, this award was given to campers who accomplished a specified series of feats. Charles "Smillie" Buckland was the first recipient.^19
 
+**The badges survive, and somebody labelled them.** A scrapbook page in the camp's physical archive, captioned
+"**Awards, Circa 1940**" and annotated in period handwriting, shows the felt badges themselves with a note
+on each.^57 A **maroon triangle with an embroidered maple leaf**: "This was the leadership crest — Westmount
+'Y'." A **plain green felt 'K'**: "The small 'K'. **The second highest award**." An **outlined, unfilled
+triangle**: "awarded after getting a certain # of badges." And an **orange-and-black circular patch**
+carrying the YMCA Spirit/Mind/Body triangle with the citation **John 17:21** at its centre — the "that they
+all may be one" verse, which is the YMCA's own founding text and not a Kanawana choice. Three felt pennants
+in blue, gold and brown each carry a stitched **K** and nothing else.
+
+Two things this settles about the list above, which is drawn from the 1922 and 1923 brochures. **The
+hierarchy survived to about 1940 in the same shape** — the small k is still explicitly "the second highest
+award" nearly twenty years on, and the triangle is still the badge-count award. And the maroon leadership
+crest is a **branch** crest, Westmount's, worn at camp: the honour system and the branch system were both on
+the same tunic.
+
+**A separate club, not a rank.** Another felt badge in the same set reads "**KANAWANA OUTING CLUB**" around
+the YMCA triangle.^57 This project has no other trace of an Outing Club, and it does not fit anywhere in the
+badge hierarchy above; it looks like a membership, not an award. See
+[[traditions/winter-programming|Winter Programming]], which describes a Kanawana Outing Club in a later
+period — whether the badge belongs to that body or to an earlier one of the same name is not established.
+
 ### The M. E. Williams cups (1917–1922)
 
 A competition this wiki had no record of, with a winners roll thirty years older than the L&V trophy's. The *Gas Bag* "Extra, Vol. 13 No. 1" of 1923 asks "**Which branch will win the M. E. Williams cups?**" and prints a two-column table of winners for **Aquatics** and **Athletics**, 1917 through 1922.^34
@@ -705,3 +726,4 @@ Kanawana."^40 Whether either was ever held again is not known here.
 54. *Ka-News*, **January 1978**, **1 December 1979**, **6 February 1981** and **21 April 1981** [src_ymf_ka_news_1978_01, src_ymf_ka_news_1979_12_01, src_ymf_ka_news_1981_02_06, src_ymf_ka_news_1981_04_21]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 55. D. Cochrane and others, *J. R. Kidd: An International Legacy of Learning* (Monographs on Comparative and Area Studies in Adult Education) [src_kidd_international_legacy]. Internet Archive item `ERIC_ED272738`, full djvu text downloaded and read 2026-09-07. **"Kanawana" occurs zero times in it**; what it supplies is Kidd's Montreal YMCA career, his North Branch boys'-work post and his brother John. See [f_5569] and [f_5570].
 56. Henry F. Hall, *The Georgian Spirit: The Story of Sir George Williams University* [src_georgian_spirit_1967], which names "John P. Kidd" in a list headed "(a) Bachelor of Arts"; and *The Passionate Educators* [src_passionate_educators], whose notes cite four letters from J. R. Kidd to J. P. Kidd in 1950-51. Both reached through Open Library search-inside 2026-09-07; **neither full text was downloaded**, so both are snippet evidence. See [f_5571].
+57. Kamp Kanawana physical archive scans, 2026 [src_kanawana_physical_archive_scans_2026] — an operator-supplied set of scanned artefacts. The **c.1940** scrapbook page of felt badges is at [f_1582] and the **Kanawana Outing Club** badge at [f_1583]. Brought into this article 2026-09-07 under p_492, the orphan-fact sweep.
