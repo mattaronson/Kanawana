@@ -4723,3 +4723,40 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   p_430 moved to partially_complete; what remains is the directors not run above
   and the Kanawana Committee chairmen.
   Verify green. Timestamp read from `date -u` in its own call.
+
+[2026-09-07T13:25:50Z] p_452: W. J. Holliday spun out of the directors index.
+  NEW: wiki/people/w-j-holliday.md (draft, 2,011 words), f_5561, f_5562, p_484.
+  THE SAME DIAGNOSIS AS THE MOVEMENT ARTICLE THIS MORNING, in a different file.
+  directors-index.md's largest section, "Staff by Era" at 11,570 words, has its
+  bulk under two headings that name research episodes rather than subjects,
+  while the actual era subsections are 180 to 590 words. The second of those,
+  "The volumes were asked, and they answered," was 2,580 words of which 1,143 --
+  EIGHTY-SIX PER CENT -- were a continuous biography of W. J. Holliday. Nothing
+  indexes a man under "the volumes were asked."
+  HE MEETS THE RULE'S FIRST TEST, which is the operator's own example: a career
+  running before and after the camp. Montreal staff from 1906, opened the Lac
+  Wilson site in 1910 and called the camp's first director by the 1931 report,
+  resigned for overseas service 12 February 1918, two years running the
+  association at Sydney NS, an "Unemployment" portfolio in 1941, overseas again
+  1940-45, retired January 1948 after over 41 years. Captain William J.
+  Holliday, from a 1919 overseas list and confirmed independently in 1941.
+  WHAT STAYED, DELIBERATELY: the paragraphs about the other men who appear
+  beside him -- Guiton, Miller, Carson, Corbett, Hollinshead, MacKinnon, the
+  four camp men overseas in 1942 -- because the parent is an index of people.
+  The subsection was renamed to what remains. Entered as DRAFT, not inheriting
+  E1-reviewed, per the spinout rule.
+  THE CUT ORPHANED A FOOTNOTE AND ALL EIGHT CHECKS PASSED ANYWAY. Entry 62's
+  only two citations both left with the moved paragraphs. The harness tests that
+  every MARKER resolves to an ENTRY, not the reverse, so a stranded entry is
+  invisible to it; found by hand because the rule doc says to look. Fixed by
+  removing 62 and shifting 63-67 down with their markers, SCOPED TO THE SOURCES
+  REGION -- the file has 81 numbered-list lines against 67 source entries, so a
+  global renumber would have corrupted the other lists. Same bounding lesson as
+  the add_source_note.py fix. The header count 67 -> 66 verify_harness DID catch.
+  AND A PRE-EXISTING DEFECT KEPT SEPARATE FROM MINE: the same audit run against
+  the file BEFORE the cut shows EIGHT entries already citing nothing (5, 12, 13,
+  16, 23, 24, 25, 32). Not this cut's doing, not fixed here, queued as p_484 --
+  because an uncited entry is either a lost citation, which means a claim is now
+  unsourced, or an entry added for a passage never written, and only reading
+  tells them apart.
+  Verify green. Timestamp read from `date -u` in its own call.

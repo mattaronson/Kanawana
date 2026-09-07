@@ -2,7 +2,7 @@
   "version": "10.09",
   "kb_version": "10.09",
   "migrated_from": "3.3",
-  "fact_count": 5522,
+  "fact_count": 5524,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99551,6 +99551,35 @@
         "Camp Kanawana"
       ],
       "claim": "THE p_430 NAME SWEEP, FOURTEEN TERMS RUN AND LOGGED SO NOBODY RUNS THEM AGAIN. Open Library search-inside, exact-phrase, 2026-09-07 midday. PRODUCTIVE (1 of 14): 'G. David Twynam' 12 hits, giving a 1990 NRPA symposium paper and a 1991 Journal of Park and Recreation Administration article eight years earlier than anything the article held, plus a 1997 Ontario government publication and a new co-author. See f_5558, f_5559. ZERO, AND THE ZEROS ARE THE POINT: 'Murray B. Shantz' 0, 'Leo J. Robitaille' 0, 'Kanawanna' 0, 'Lac Kanawana' 0, 'Kanawana, Que' 0. Four of the five camp-name variants p_430 listed as untried are now tried and empty; only 'Lake Kanawana' returns anything (1 hit, Stuart McLean's Vinyl Cafe Notebooks, already held at f_4941). ALREADY HELD, so not claimed as finds -- and this is where the destination-grep earned its place FIVE times today: 'Jay Netherwood' 1 hit, the Porter Sargent guide entry, ALREADY at between-centennials.md:89. 'Nelson McEwen' 9 hits, of which the two real ones are a 1945 national office already established at f_0041/f_0405/f_1388 and the Dominion Bureau of Statistics Biennial Survey, which an earlier sweep THE SAME DAY had already found by the same query and worked properly (src_dbs_biennial_survey_education). 'Hedley S. Dimock' 269 hits, overwhelmingly his own books, which the wiki already cites. NAME COLLISIONS RECORDED SO THEY ARE NOT MISTAKEN LATER, the W. H. Ball trap again: 'Ralph H. Dawson' 12 hits include a First World War private in Under the Red Patch and an interview in La Presse of 5 DECEMBER 1928 cited in La Revanche de Maria Chapdelaine -- the latter is a genuine unexplored lead and is NOT asserted to be Kanawana's Dawson. 'Nelson McEwen' also returns a Weston grand organist, a Vancouver directory, an American men-of-science entry and a Horton genealogy. 'Derek V. Walsh' 2 hits are an occupational-stress researcher publishing with Ronald L. Crawford around 1980; Kanawana's Derek Walsh went to the Victoria YM-YWCA in 1979, so the two are neither identified nor excluded here. WHAT THIS SAYS ABOUT p_430: the sweep is closer to exhausted than its description implies. The names left are the directors in directors-index.md not run above and the Kanawana Committee chairmen.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5561",
+      "category": "meta",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "W. J. Holliday",
+        "Camp Kanawana"
+      ],
+      "claim": "W. J. HOLLIDAY SPUN OUT OF THE DIRECTORS INDEX, AND THE HEADING IS WHY HE WAS HARD TO FIND THERE. people/directors-index.md's largest section, 'Staff by Era', ran to 11,570 words, and its second subsection -- headed 'The volumes were asked, and they answered' -- was 2,580 words of which 1,143, EIGHTY-SIX PER CENT, were a continuous biography of W. J. Holliday. The heading names the research episode, not its subject, which is the failure project-docs/spinout-rule.md warns about and the second instance found today after canadian-camping-movement.md (f_5556). Nothing indexes a man under 'the volumes were asked'. HE QUALIFIES ON THE RULE'S FIRST TEST, which is the operator's own example: a career running before and after the camp years. Montreal staff from 1906; opened the Lac Wilson site in 1910 and called the camp's first director by the 1931 report; branch secretary through 1916-17; resigned for overseas service, dated by Montreal to 12 February 1918 and bracketed against a Canadian overseas list of 1 June 1918; two years running the association at Sydney, Nova Scotia, 1919-21; back at North Branch 1922; a Depression-era 'Unemployment' portfolio on the Metropolitan Board in 1941; overseas again early in 1940 to late 1945; retired January 1948 'after over 41 years'. His given name and rank -- Capt. William J. Holliday -- come from a 1919 overseas list and are confirmed independently by the 1941 roster twenty-two years later. WHAT STAYED IN THE INDEX, deliberately: the paragraphs about the OTHER men who appear beside him -- Guiton, Miller, Carson, Corbett, Hollinshead, MacKinnon, the four camp men overseas in 1942 -- because the parent is an index of people and that is what it is for. The subsection was renamed to what remains. ENTERED AS DRAFT, not inheriting the index's E1-reviewed status, per the spinout rule: the prose was reviewed there, the structure, overview and five open questions are new.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5562",
+      "category": "methodology",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "THE SPINOUT ORPHANED A FOOTNOTE AND NOTHING IN THE HARNESS NOTICED. project-docs/spinout-rule.md's mechanics list says to check which labels a cut orphans in the parent; this one orphaned entry 62, the YMCA of Montreal annual reports for 1917 and 1918, whose only two citations both left with the moved paragraphs. ALL EIGHT VERIFY CHECKS PASSED WITH THE ORPHAN IN PLACE -- the harness tests that every marker resolves to an entry, not that every entry is reached by a marker, so a cut that strands an entry is invisible to it. Found by hand, following the rule doc. FIXED PROPERLY RATHER THAN LEFT: entry 62 removed, 63 through 67 renumbered down, and every ^marker in the body shifted to match -- SCOPED TO THE SOURCES REGION, because the file has 81 lines matching a numbered-list pattern against 67 source entries, so a global renumber would have corrupted the other numbered lists. That is the same bounding lesson as the add_source_note.py fix earlier in the week. The two source ids were then removed from directors-index's sources_cited and the header count corrected from 67 to 66, which verify_harness DID catch. AND A PRE-EXISTING DEFECT SEPARATED FROM MINE RATHER THAN CONFLATED WITH IT: the same audit run against the file as it stood BEFORE the cut shows EIGHT source entries already citing nothing -- 5, 12, 13, 16, 23, 24, 25 and 32. Those are not this spinout's doing and are not fixed here, because each needs reading to tell an entry that lost its citation from one that was added for a passage never written. Queued as p_484.",
       "sources": [],
       "confidence": "stated",
       "conflicts_with": [],

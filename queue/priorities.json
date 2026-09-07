@@ -5915,6 +5915,15 @@
       "blocked_reason": "operator decision on repository visibility versus record completeness",
       "completed_at": "2026-09-07T12:37:09Z",
       "resolution": "ANSWERED BY THE OPERATOR 2026-09-07: keep it as is. Put to him with the finding stated plainly -- public repo, markers invisible on github.com, the 1973 do-not-re-hire list naming three people live on main, subjects now in their seventies -- and four options, including making the repo private and moving the embargoed passages to a private half. He chose to leave the repository public with the material in it and to carry on writing embargoed material into it as kb/restricted/README.md directs. CONSEQUENCES, so a later pass does not re-raise this. (1) The embargo scheme continues unchanged: every piece of this material is still extracted, still labelled, still registered, still dated. What the decision settles is the SURFACE, not the labelling -- 'unlabelled is the failure' still governs. (2) r_0006 is unblocked and the roster should be transcribed inside markers rather than summarised, which was the treatment kb/restricted/README.md's own reasoning called for in the first place. (3) The decision covers this repository. It is not permission to publish this material anywhere else."
+    },
+    {
+      "priority_id": "p_484",
+      "rank": 484,
+      "type": "REVIEW",
+      "weight": 4,
+      "status": "pending",
+      "description": "EIGHT SOURCE ENTRIES IN people/directors-index.md CITE NOTHING, and the harness cannot see them. Entries 5, 12, 13, 16, 23, 24, 25 and 32 have no ^marker pointing at them. Measured 2026-09-07 against the file as it stood BEFORE that day's Holliday spinout, so these are pre-existing and not that cut's doing (the cut orphaned exactly one, entry 62, which was fixed in the same commit -- see f_5562). WHY THE HARNESS MISSES THEM: verify_harness tests that every MARKER resolves to an ENTRY. The reverse -- every entry reached by a marker -- is not tested, so an entry can sit uncited indefinitely. WHY IT MATTERS AND WHY IT IS NOT AUTOMATABLE: an uncited entry is one of two quite different things, and only reading tells them apart. It may be a source whose citation was lost in an edit, in which case the claim it supported is now unsourced somewhere in the article -- that is a real defect. Or it may be an entry added in anticipation of a passage never written, in which case the article is fine and the entry is noise. Deleting all eight would risk the first case; keeping all eight guarantees the second. EACH NEEDS READING. GENERALISE IT AFTERWARDS: run the same test across all 124 articles before deciding whether it is worth a check of its own. If the count is small the check is worth writing; if it is large it is a backlog and should ship advisory, on the precedent of section_headings.py.",
+      "created_at": "2026-09-07T13:35:00Z"
     }
   ],
   "queue_ordering": {

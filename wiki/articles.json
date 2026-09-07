@@ -1841,8 +1841,6 @@
         "src_ymf_sgw_ymca_annual_report_1914",
         "src_ymf_sgw_ymca_annual_report_1904_men_of_montreal",
         "src_ymf_sgw_ymca_annual_report_1905",
-        "src_ymf_sgw_ymca_annual_report_1917",
-        "src_ymf_sgw_ymca_annual_report_1918",
         "src_ymf_sgw_ymca_annual_report_1942",
         "src_ymf_sgw_ymca_annual_report_1946",
         "src_ymf_sgw_ymca_annual_report_1948",
@@ -1893,7 +1891,7 @@
         "geoffrey-guiton"
       ],
       "file_id": null,
-      "word_count": 31567,
+      "word_count": 30576,
       "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article. | 2026-07-11: Added wiki-links to Gary White, David Leduc, Kate Taylor, Marie-Pierre Lacasse table rows and Related Articles, pointing to new standalone institutional-role-director articles. | 2026-07-11: Added wiki-links to Greig Macdiarmid, Francois Dauphin, Nicolas Garcia, Morgan Carter, Arleen Boyer, Justin Caldwell (Two-Tier Era + Staff by Era tables) and Matt/Dan Aronson (Related Articles), per the operator's revised C5 policy.",
       "tags": {
         "era": [
@@ -12375,7 +12373,49 @@
         "spinout"
       ],
       "notes": "Spun out of traditions/programs-activities.md on 2026-09-07, where the Noosphere material was 421 words in an 11,176-word catch-all article and a McGill Daily interview with the project's research analyst roughly doubled it. Own arc, and it is not Kanawana programming at all -- an outside body renting the site -- which is why it went to history/ rather than staying under Programs and Activities. The parent article uses LETTERED bullet sources; the child was renumbered to ordinary numbered notes 1-4. The interview is the first source to name Camp Kanawana in connection with the project other than the two 1971 French newspaper reports: Zinner's own 176-page thesis never names the camp, the YMCA or Saint-Sauveur."
+    },
+    {
+      "article_id": "w-j-holliday",
+      "title": "Captain William J. Holliday",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T13:30:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_5297",
+        "f_5298"
+      ],
+      "sources_cited": [
+        "src_the_school_magazine_vol2_1913_14",
+        "src_the_school_magazine_vol4_1915_16",
+        "src_the_school_magazine_vol5_1916_17",
+        "src_ymf_sgw_ymca_annual_report_1917",
+        "src_ymf_sgw_ymca_annual_report_1918",
+        "src_umedia_ymca_yearbook_series",
+        "src_ymf_sgw_ymca_annual_report_1942",
+        "src_ymf_sgw_ymca_annual_report_1946",
+        "src_ymf_sgw_ymca_annual_report_1948"
+      ],
+      "open_questions": 5,
+      "cross_links": [
+        "directors-index",
+        "founding-1894",
+        "the-kanawana-site",
+        "geoffrey-guiton",
+        "harold-cross",
+        "wartime-kanawana"
+      ],
+      "file_id": null,
+      "word_count": 2011,
+      "notes": "Created 2026-09-07 by a p_452 spinout from people/directors-index.md, where 1,143 words about Holliday had accumulated under a heading naming the research episode rather than the man. Entered as draft per project-docs/spinout-rule.md: the prose was reviewed in the index, the structure was not."
     }
   ],
-  "article_count": 123
+  "article_count": 124
 }
