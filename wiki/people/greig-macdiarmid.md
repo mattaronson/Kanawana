@@ -1,7 +1,7 @@
 # Greig Macdiarmid
 
-*Status: draft | Sources: 11*
-*Last Updated: 2026-09-05*
+*Status: draft | Sources: 12*
+*Last Updated: 2026-09-07 (at camp from at least 1933, two years before his first recorded season)*
 
 ## Overview
 
@@ -53,6 +53,23 @@ The identification of "Greig Macdiarmid" with "W.J.G. Macdiarmid" is settled: th
 
 What "W. J." stood for is still unknown, and the 1926 report complicates rather than settles it: a man printed as "J. Greig Macdiarmid" appears to have gone by his middle name with a leading "J," yet the initialed form puts a "W" before that "J." Both forms are documented; no source expands either letter.
 
+**He was at Kanawana in 1933, and the paper says "again".** This article's earliest attestation is the
+*Green Triangle* of 6 July 1935. The issue of **29 July 1933** has him arriving at Junior camp and
+taking over the morning routine: "This morning when the rising bell was sounded, the get-up cry was
+changed from the usual 'You'll have to hurry, hurry, hurry' to a new call, '**Little speed boys,
+little speed**', as only **Mr. MacDiarmid** can say it. We are sure glad to have **Mr. MacDiarmid with
+us again this summer**, and hope that he will have a very enjoyable summer."^12
+
+Three things follow. His association with Kanawana runs from **at least 1933**, two years earlier than
+recorded. "Again this summer" puts him at camp in **1932** as well, which is consistent with the Fire
+of Friendship account of 6 August 1932 signed "Graig MacDermaid" and with the arrival of a "Mr.
+McDermit" among new staff that July — an identification this project had rested on a spelling alone,
+and which the 1933 issue now supports with the name spelled correctly. And in 1933 he was **staff, not
+Chief**: [[people/w-h-spearman|W. H. Spearman]] was Camp Chief through 1934, and MacDiarmid is
+described here doing the wake-up call in Junior camp. So the sequence is a leader from 1932 or 1933,
+under Spearman, who became Chief by 1935. **The directors' table is not amended**, because it records
+directorships and this is not one; what changes is the length of his association.
+
 ## Open Questions
 
 1. [Important, narrowed 2026-09-05] What do the "W." and "J." stand for? **The obituary this project has
@@ -88,6 +105,7 @@ What "W. J." stood for is still unknown, and the 1926 report complicates rather 
 9. Kamp Kanawana broadcast, Station CFCF, June 10, 1939 [src_ia_ymca_montreal_fonds_collection].
 10. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University [src_mcmorris_thesis].
 11. "In Memoriam: J. G. 'Greig' Macdiarmid, May 21st, 1962," *Canadian Camping* Vol. 15 No. 1, December 1962, p. 17–18 [src_ia_canadian_camping_1962_12]. The obituary itself, read in full. Grace McMorris was quoting this notice; the Toronto General Secretaryship, the Pine Crest, Norval and Wangoma expansions, the twenty-three day camps, the Camp Illahee sentence, the 21 May 1962 death and the "J. G. 'Greig'" heading all come from here, and are cited to it rather than to the thesis quoting it.
+12. *The Green Triangle*, Vol. II Nos. 4 and 5, **29 July** and **5 August 1933** [src_ymf_the_green_triangle_1933_07_29, src_ymf_the_green_triangle_1933_08_05]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 
 ## Research Notes
 

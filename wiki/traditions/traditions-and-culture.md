@@ -1,7 +1,7 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 45*
-*Last Updated: 2026-09-07 (the Fire of Friendship at Kanawana in 1932, three years earlier than recorded)*
+*Status: E1-reviewed | Sources: 46*
+*Last Updated: 2026-09-07 (the Fire of Friendship in 1932; and the Kanawana Circus, documented at last)*
 
 ## Overview
 
@@ -119,6 +119,41 @@ solo, prayers from a leader, an address — Reg Kelley's farewell text was "**Wa
 faith, play the man and be strong**," illustrated throughout with references to sport — and the
 Benediction given by the Chief. The Sunday night **Council Ring** assembled "the Chiefs and Little
 Chiefs," in the last issue of the season.
+
+## The Kanawana Circus
+
+The camp ran an annual circus, and the knowledge base has carried facts about it for a year without
+any article saying so. It is documented in **1933**, **1935** and **1942**, and the 1933 account
+implies **1932** as well.
+
+**The fullest description is of Thursday 3 August 1933.**^46 It was a fundraiser and the paper is
+frank about that: "It turned out to be a fairly profitable business, as the camp pulled in some
+**fifty dollars**. The Chief, and others who are connected with the treasury, were highly elated as
+this showed **a marked improvement over last year's proceeds**" — so there was a 1932 circus too.
+"Only one crate of oranges were given out, as the various **rackets and gyp machines** were a greater
+swindle than ever."
+
+The booths are listed, and half of them were rigged. Tent 12 of the Juniors ran "a large tin on which
+was painted measly little dots. These dots you had to cover with a coin. Of course that was
+impossible, but **the Chief bit**, as he went out after supper to make a grand cleanup, and the
+leeches clung to him till his last gasp." Another Junior tent ran a bowl of water in a dish: "they
+jiggled the whole works just as you threw, so your coin would bounce out if you did happen to land it
+in the small bowl." **Doug Clarke** had "some weird contraptions down in the lower pavilion" and was
+teased "almost to tears" by "a small group of the usual holiday rowdies," which "only added a little
+zest to the show." **The Rev. Mr. Prettie** ran the refreshment stand — soft drinks and ice cream —
+and "this little stand pulled in more cash than any other." The straight games were bean bag toss,
+hammering the nail, darts, knife throwing, horseshoes and Eric Wright's ball-throwing rig. **Mr.
+Langille** "received over forty Sun kisses; but rumour has it that he paid just about as many dollars
+for them, so he wasn't so hot after all."
+
+**The later instances.** The 1935 season chronicle records "the annual Circus… of which the **$55**
+proceeds" went to camp funds — five dollars up on 1933. And in **August 1942** Camp Director R. H.
+Hanagan and Resident Director E. E. Smee staged a circus and parade covering the Bantam, Junior,
+Intermediate and Senior sections, with Hanagan appearing in Indian garb on horseback; the *Gazette*
+covered it, and the games it names — darts, nail and hammer, hoop-la, coconut shy — are recognisably
+the 1933 list nine years on. A camp event that keeps its booth list for a decade is a tradition, not
+a one-off, and the staff losing their own money at rigged games run by twelve-year-olds appears to
+have been the point.
 
 ## L&V Games
 
@@ -427,3 +462,4 @@ Kanawana."^40 Whether either was ever held again is not known here.
 43. *The Green Triangle*, Vol. 1 No. 2, **30 July 1932** [src_ymf_the_green_triangle_1932_07_30]. Cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-07-30.txt`; read word for word 2026-09-07 under p_482. Previously sampled only for its first 1,200 characters, at [f_2384].
 44. *The Green Triangle*, Vol. 1 No. 3, **6 August 1932** [src_ymf_the_green_triangle_1932_08_06]. Cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-08-06.txt`; read word for word 2026-09-07 under p_482.
 45. *The Green Triangle*, **13 August 1932** [src_ymf_the_green_triangle_1932_08_13], **20 August 1932** [src_ymf_the_green_triangle_1932_08_20] and **27 August 1932** [src_ymf_the_green_triangle_1932_08_27]. All cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. The 27 August issue survives in a badly degraded scan — much of it is unreadable and only its clearest passages are used here.
+46. *The Green Triangle*, Vol. II Nos. 4 and 5, **29 July** and **5 August 1933** [src_ymf_the_green_triangle_1933_07_29, src_ymf_the_green_triangle_1933_08_05]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.

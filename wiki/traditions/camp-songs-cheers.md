@@ -1,7 +1,7 @@
 # Camp Songs, Cheers, and Musical Traditions
 
-*Status: E1-reviewed | Sources: 27*
-*Last Updated: 2026-09-07 ("Dear Old Kanawana"; a hymn written at camp in 1932; the Yell on the road)*
+*Status: E1-reviewed | Sources: 28*
+*Last Updated: 2026-09-07 ("Dear Old Kanawana" printed in 1932, sung on the road, and very probably the unnamed camp song of 1933)*
 
 ## Overview
 
@@ -190,7 +190,7 @@ Kanawanians," six years before the "old Kanawanians" this wiki dates to 1938.
 
 ## Four named songs from 1933
 
-The *Green Triangle* of 29 July 1933 describes campers singing on the way up to camp and names four songs by title — **"Marois," "The Nonsense Song," "Sea-Side"** and **"Yo Triumphy"** — alongside an unnamed "the camp song" distinct from all four.^19 "Marois" is almost certainly connected to Lake Marois and to Marois Day, the 1935 season's most anticipated event; "Yo Triumphy" is the 1922 cheer below, still in the repertoire eleven years later, which is the only continuity this article can demonstrate between the 1920s and 1930s material.
+The *Green Triangle* of 29 July 1933 describes campers singing on the way up to camp and names four songs by title — **"Marois," "The Nonsense Song," "Sea-Side"** and **"Yo Triumphy"** — alongside an unnamed "the camp song" distinct from all four. **[The camp song is very probably identified, 2026-09-07.]** The 1933 piece is headed with a line in quotation marks — "**I'm glad I'm back at dear old Kanawana**" — and opens "That certainly was the thought that was uppermost in the minds of the four of us who drove up in all the rain and storm last night. As soon as we had left Montreal behind us someone, Graham Pelley I think, **started up the camp song**."^28 That heading is the first line of the verse *The Green Triangle* had printed over Max Ford's name a year earlier, set out above. So the song the four men started as they left the city, before working through "Marois," "The Nonsense Song," "Sea-Side" and "Yo Triumphy," was almost certainly Ford's. The caveat is real and small: a heading may be the writer's own framing rather than a title, and the text does not say "we sang 'Dear Old Kanawana'" in so many words. But a 1932 verse, a 1932 hike singing it, and a 1933 article headed with its first line and calling something "the camp song" in the next sentence is three converging attestations, and the alternative is that the camp had two different songs opening with the same eight words.^19 "Marois" is almost certainly connected to Lake Marois and to Marois Day, the 1935 season's most anticipated event; "Yo Triumphy" is the 1922 cheer below, still in the repertoire eleven years later, which is the only continuity this article can demonstrate between the 1920s and 1930s material.
 
 **No lyrics survive for any of these.** Across the entire digitized corpus there are song *titles* and one complete *yell* text, and no camp-song lyrics whatsoever.
 
@@ -381,6 +381,7 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 25. *The Green Triangle*, Vol. 1 No. 2, **30 July 1932** [src_ymf_the_green_triangle_1932_07_30]. Cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-07-30.txt`; read word for word 2026-09-07 under p_482. Previously sampled only for its first 1,200 characters, at [f_2384].
 26. *The Green Triangle*, Vol. 1 No. 3, **6 August 1932** [src_ymf_the_green_triangle_1932_08_06]. Cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-08-06.txt`; read word for word 2026-09-07 under p_482.
 27. *The Green Triangle*, **13 August 1932** [src_ymf_the_green_triangle_1932_08_13], **20 August 1932** [src_ymf_the_green_triangle_1932_08_20] and **27 August 1932** [src_ymf_the_green_triangle_1932_08_27]. All cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. The 27 August issue survives in a badly degraded scan — much of it is unreadable and only its clearest passages are used here.
+28. *The Green Triangle*, Vol. II Nos. 4 and 5, **29 July** and **5 August 1933** [src_ymf_the_green_triangle_1933_07_29, src_ymf_the_green_triangle_1933_08_05]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 
 ## Research Notes
 

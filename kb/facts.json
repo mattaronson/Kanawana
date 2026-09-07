@@ -1,8 +1,8 @@
 {
-  "version": "9.89",
-  "kb_version": "9.89",
+  "version": "9.90",
+  "kb_version": "9.90",
   "migrated_from": "3.3",
-  "fact_count": 5461,
+  "fact_count": 5465,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -98485,6 +98485,77 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.89",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5500",
+      "category": "people",
+      "date_ref": "1933-07-29",
+      "entities": [
+        "Greig Macdiarmid",
+        "W. H. Spearman",
+        "Camp Kanawana"
+      ],
+      "claim": "MACDIARMID AT KANAWANA IN 1933, NAMED AND SPELLED CORRECTLY, AND THE PAPER SAYS 'AGAIN'. The Green Triangle of 29 July 1933: 'This morning when the rising bell was sounded, the get-up cry was changed from the usual \"You'll have to hurry, hurry, hurry\" to a new call, \"LITTLE SPEED BOYS, LITTLE SPEED\", as only MR. MacDIARMID can say it. We are sure glad to have MR. MacDIARMID WITH US AGAIN THIS SUMMER.' THREE THINGS FOLLOW. His association runs from AT LEAST 1933, two years before this wiki's earliest attestation of 6 July 1935. 'AGAIN THIS SUMMER' PUTS HIM AT CAMP IN 1932 TOO, which is consistent with the Fire of Friendship account of 6 August 1932 signed 'Graig MacDermaid' and the 'Mr. McDermit' welcomed among new staff that July -- an identification f_5494 rested on a spelling alone and which this correctly-spelled 1933 attestation now supports. AND IN 1933 HE WAS STAFF, NOT CHIEF: W. H. Spearman was Camp Chief through 1934 and MacDiarmid is here doing the wake-up call in Junior camp. So the sequence is a leader from 1932 or 1933, under Spearman, who was Chief by 1935. THE DIRECTORS' TABLE IS NOT AMENDED because it records directorships and this is not one; what lengthens is the association.",
+      "sources": [
+        "src_ymf_the_green_triangle_1933_07_29"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.90",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5501",
+      "category": "traditions",
+      "date_ref": "1933-08-03",
+      "entities": [
+        "Camp Kanawana",
+        "Howie Langille",
+        "Douglas Clarke",
+        "The Green Triangle"
+      ],
+      "claim": "THE KANAWANA CIRCUS, DOCUMENTED IN DETAIL FOR 1933 AND IMPLYING 1932. The Green Triangle of 5 August 1933 on the circus of Thursday the third: 'It turned out to be a fairly profitable business, as the camp pulled in some FIFTY DOLLARS. The Chief, and others who are connected with the treasury, were highly elated as this showed A MARKED IMPROVEMENT OVER LAST YEAR'S PROCEEDS' -- so there was a 1932 circus. 'Only one crate of oranges were given out, as the various RACKETS AND GYP MACHINES were a greater swindle than ever.' HALF THE BOOTHS WERE RIGGED, BY THE CAMPERS. Tent 12 of the Juniors ran 'a large tin on which was painted measly little dots. These dots you had to cover with a coin. Of course that was impossible, but THE CHIEF BIT, as he went out after supper to make a grand cleanup, and the leeches clung to him till his last gasp.' Another Junior tent ran a bowl in a dish and 'JIGGLED THE WHOLE WORKS JUST AS YOU THREW'. DOUG CLARKE had 'some weird contraptions down in the lower pavilion' and was teased 'almost to tears'. THE REV. MR. PRETTIE ran the refreshment stand -- soft drinks and ice cream -- which 'pulled in more cash than any other'. Straight games: bean bag toss, hammering the nail, darts, knife throwing, horseshoes, and Eric Wright's ball-throwing rig. MR. LANGILLE 'received over forty Sun kisses; but rumour has it that he paid just about as many dollars for them'. THIS ARTICLE-LEVEL GAP IS NOW CLOSED: the KB has carried circus facts for 1935 ($55 proceeds) and 1942 (Hanagan and Smee's circus and parade, covered by the Gazette) with NO ARTICLE SAYING SO. The 1942 game list -- darts, nail and hammer, hoop-la, coconut shy -- is recognisably the 1933 list nine years on.",
+      "sources": [
+        "src_ymf_the_green_triangle_1933_08_05"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.90",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5502",
+      "category": "people",
+      "date_ref": "1933-08-03",
+      "entities": [
+        "Howie Langille",
+        "Camp Kanawana"
+      ],
+      "claim": "LANGILLE AT KANAWANA IN 1933, TWO YEARS BEFORE THE SENIOR DIRECTORSHIP THIS WIKI STARTS FROM. The Kanawana Circus account of 5 August 1933 lists among the staff attractions: 'MR. LANGILLE received over forty Sun kisses; but rumour has it that he paid just about as many dollars for them, so he wasn't so hot after all.' It is a joke in a camp newspaper and establishes exactly one thing, but that thing is a DATE: he is 'Mr. Langille', an adult member of staff, at Kanawana in the summer of 1933. wiki/people/howie-langille.md begins with his Senior section directorship in 1935. His documented run now reaches 1933 to the 48th season of 1941, and he was on staff alongside Greig Macdiarmid years before serving as Macdiarmid's Senior Director.",
+      "sources": [
+        "src_ymf_the_green_triangle_1933_08_05"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.90",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5503",
+      "category": "traditions",
+      "date_ref": "1933-07-29",
+      "entities": [
+        "Camp Kanawana",
+        "The Green Triangle"
+      ],
+      "claim": "THE UNNAMED 'CAMP SONG' OF 1933 IS VERY PROBABLY 'DEAR OLD KANAWANA'. wiki/traditions/camp-songs-cheers.md records the Green Triangle of 29 July 1933 naming four songs sung on the drive up -- Marois, The Nonsense Song, Sea-Side and Yo Triumphy -- 'alongside an unnamed \"the camp song\" distinct from all four'. THE PIECE IS HEADED, IN QUOTATION MARKS, 'I'M GLAD I'M BACK AT DEAR OLD KANAWANA', and opens: 'That certainly was the thought that was uppermost in the minds of the four of us who drove up in all the rain and storm last night. As soon as we had left Montreal behind us someone, Graham Pelley I think, STARTED UP THE CAMP SONG.' That heading is the first line of the verse the same paper had printed over MAX FORD's name a year earlier (f_5496). So the song started as they left the city, before the other four, was almost certainly Ford's. THE CAVEAT IS REAL AND SMALL: a heading may be a writer's framing rather than a title, and the text never says 'we sang \"Dear Old Kanawana\"' in those words. But a 1932 printed verse, a 1932 hiking party singing it home from Shawbridge, and a 1933 article headed with its first line that calls something 'the camp song' in the next sentence make three converging attestations -- and the alternative is that Kanawana had two different songs opening with the same eight words.",
+      "sources": [
+        "src_ymf_the_green_triangle_1933_07_29"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "9.90",
       "added_by": "ralph_loop"
     }
   ]

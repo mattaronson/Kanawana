@@ -1,7 +1,7 @@
 # Howie Langille
 
-*Status: draft | Sources: 3*
-*Last Updated: 2026-07-11*
+*Status: draft | Sources: 4*
+*Last Updated: 2026-09-07 (on staff by 1933, two years earlier than recorded)*
 
 ## Overview
 
@@ -16,6 +16,15 @@ The 1935 season chronicle names Langille as Senior Director, one of three sectio
 By 1941, Langille had become overall Camp Chief, having succeeded Macdiarmid (last documented as Chief in a July 1938 newsletter) at some point in the intervening two or three years.^1 ^3 On June 26, 1941, Langille went on CFCF radio to promote summer registrations, describing the camp's "48th season" — counting from the 1894 founding rather than the 1910 permanent-site acquisition.^1 ^3 The broadcast is the single richest surviving account of any wartime Kanawana season: total staff of 68, with 45 counsellors selected from 58 trained applicants; more than 30 evacuee children from Britain and continental Europe in attendance; registrations running 30 percent above the previous year; and J.W. Perks, Assistant Superintendent of the Protestant School Board, chairing the Personnel Committee.^1 ^3
 
 No director is documented at Kanawana between Langille's 1941 season and R.H. Hanagan's confirmed presence in 1942, suggesting Langille was directly succeeded by Hanagan, though no source states this explicitly.^1
+
+**And he was at camp by 1933**, two years before the Senior directorship this article starts from. The
+*Green Triangle*'s account of the Kanawana Circus of 3 August 1933 has him among the staff attractions:
+"**Mr. Langille** received over forty Sun kisses; but rumour has it that he paid just about as many
+dollars for them, so he wasn't so hot after all."^4 It is a joke in a camp newspaper and it establishes
+one thing only, but that one thing is a date: he is "Mr. Langille," an adult member of staff, at
+Kanawana in the summer of 1933. His documented run therefore reaches from 1933 to the 48th season of
+1941, and he was on staff alongside [[people/greig-macdiarmid|Greig Macdiarmid]] years before serving
+as his Senior Director.
 
 ## Open Questions
 
@@ -36,6 +45,7 @@ No director is documented at Kanawana between Langille's 1941 season and R.H. Ha
 1. CFCF Radio Broadcast, June 26, 1941 — "YMCA Kamp Kanawana" [src_cfcf_1941].
 2. "A History of Kamp Kanawana" (1935 Season Chronicle) [src_history_1935].
 3. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University [src_mcmorris_thesis].
+4. *The Green Triangle*, Vol. II Nos. 4 and 5, **29 July** and **5 August 1933** [src_ymf_the_green_triangle_1933_07_29, src_ymf_the_green_triangle_1933_08_05]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 
 ## Research Notes
 
