@@ -1,8 +1,8 @@
 {
-  "version": "9.27",
-  "kb_version": "9.27",
+  "version": "9.28",
+  "kb_version": "9.28",
   "migrated_from": "3.3",
-  "fact_count": 5290,
+  "fact_count": 5291,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -95432,6 +95432,25 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.26",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5329",
+      "category": "people",
+      "date_ref": "1886-1917",
+      "entities": [
+        "Kenneth J. Hollinshead",
+        "Albion College",
+        "YMCA of Montreal",
+        "Kamp Kanawana"
+      ],
+      "claim": "KENNETH J. HOLLINSHEAD WAS BORN AT PORT CLINTON, OHIO ON 5 SEPTEMBER 1886, AND TOOK MONTREAL'S BOYS' SECRETARYSHIP STRAIGHT OUT OF COLLEGE AT TWENTY-THREE. The Seventh General Catalogue of the Delta Tau Delta Fraternity (1917) is a biographical register giving each member a birth place, birth date, degree and current occupation, and its entry reads: 'KENNETH J. HOLLINSHEAD, Evanston, Ill. A.B.; born Port Clinton, Ohio, Sept. 5, 1886; secretary, Boys' Y.M.C.A.' Its index gives him as 'Epsilon '10' and the chapter roll is headed 'EPSILON ALBION', so he is ALBION COLLEGE, CLASS OF 1910. THAT DATES HIM AGAINST MONTREAL EXACTLY: the association's 1910 report says 'Mr. K. J. HOLLINSHEAD, OF ALBION COLLEGE, MICHIGAN, will take up the Boys' Secretaryship' (f_5283) -- he was that year's graduating class and took the post the same year, aged twenty-three, in the office that ran Kanawana through the new site's first three seasons. The 1913 report has him leaving on 1 August 1913 for Community Work; this catalogue finds him four years after that still in boys' YMCA work, AT EVANSTON, ILLINOIS. TWELVE HOURS AGO HE OCCURRED NOWHERE IN THIS PROJECT. A SECOND BOOK IS FOUND BUT NOT READ: 'Faith made visible: the history of Floyd Starr and his school' (1988) carries '... United States Senator, and KENNETH J. HOLLINSHEAD, NOW SECRETARY OF THE ALBION COLLEGE ...', so he returned to his own college as its secretary; the passage around that snippet has not been opened.",
+      "sources": [
+        "src_delta_tau_delta_catalogue_1917"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.28",
       "added_by": "ralph_loop"
     }
   ]

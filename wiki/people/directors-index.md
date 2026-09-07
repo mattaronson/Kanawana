@@ -1,6 +1,6 @@
 # Directors and Staff of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 64*
+*Status: E1-reviewed | Sources: 65*
 *Last Updated: 2026-09-07 (Holliday's 41 years, two wars, and the four camp men overseas together)*
 
 ## Summary
@@ -371,7 +371,7 @@ What to ask those volumes, in order: **is W. J. Holliday Boys' Work Director aga
 | 1905-06 | **W. A. Maclaren**, Boys' Work Dir. | The line this project had missed |
 | 1907, 1908 | **W. J. Holliday**, Boys' Work Dir. | Already held |
 | 1909 | **M. G. Brooks**, Boys' Work Dir. | Already held |
-| 1910-11, 1911-12 | **Kenneth J. Hollinshead**, Central Dept., Boys | New |
+| 1910-11, 1911-12 | **Kenneth J. Hollinshead**, Central Dept., Boys | **Born Port Clinton, Ohio, 5 Sept 1886; A.B., Albion College, class of 1910** — he took the post the year he graduated, aged 23^65 |
 | 1912-13, 1913-14 | **D. J. Evans**, Central Dept., Boys | 1912-13 also "Asst. Boys, H. A. Lordly" |
 | 1914-15 | *"Boys," printed with no name* | |
 | 1915-16 through 1918-19 | **John G. MacKinnon**, Central Br., Boys | **And he directed the camp in 1916, 1917, 1918 and 1919** — see his row above |
@@ -384,6 +384,8 @@ What to ask those volumes, in order: **is W. J. Holliday Boys' Work Director aga
 ### And then the names unlocked the reports we already had
 
 **Nothing below was fetched.** All of it comes from YMCA of Montreal annual reports that have been in this project's cache for weeks, in files marked read. What was missing was the names. **Hollinshead**, **Daggett** and **Murray Brooks** occurred nowhere in this project, so nobody could have grepped for them; the moment the *Year Book* supplied them, the reports answered.^59
+
+**And Hollinshead now has a life.** A fraternity general catalogue of 1917 — these are biographical registers, giving each member a birth place, a birth date, a degree and a current occupation — has him: "**Kenneth J. Hollinshead, Evanston, Ill. A.B.; born Port Clinton, Ohio, Sept. 5, 1886; secretary, Boys' Y.M.C.A.**", indexed "Epsilon '10" under a chapter roll headed "**Epsilon — Albion**."^65 **So he was Albion College's class of 1910 and took Montreal's Boys' Secretaryship the same year, at twenty-three**, which is what the association meant by "of Albion College, Michigan." He left on 1 August 1913 for Community Work and this catalogue finds him four years later still in boys' YMCA work at Evanston, Illinois. A second book, **found but not read**, has him later still: *Faith Made Visible: the history of Floyd Starr and his school* (1988) mentions "…United States Senator, and **Kenneth J. Hollinshead, now secretary of the Albion College**…" — he went back to his own college. *He occurred nowhere in this project before 2026-09-07.*
 
 **The Boys' Secretaryship, 1910 to 1913, in the association's own words.** The 1910 report: "Next month **Mr. K. J. Hollinshead, of Albion College, Michigan**, will take up the Boys' Secretaryship, which **Mr. Murray Brooks resigned to go as Strathcona Hall's representative in the Foreign Work in Ceylon**." The 1913 report: "**Mr. K. J. Hollinshead leaves on August 1st** to take up Community Work, and will be succeeded by **Mr. D. J. Evans, formerly Provincial Secretary of the Boy Scouts' Movement**. **Mr. H. A. Lordly** joined the Boys' Department staff in July, succeeding **Mr. H. W. Rittenhouse**." So M. G. Brooks — a man this page introduced last week as occurring nowhere else — is **Murray Brooks**, he **resigned** rather than being displaced, and he left for missionary work in Ceylon under McGill's student YMCA. The succession runs Brooks to mid-1910, Hollinshead from mid-1910 to 1 August 1913, Evans from that August, matching the *Year Book* volume for volume.
 
@@ -729,6 +731,7 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 62. YMCA of Montreal annual reports for **1917** and **1918** [src_ymf_sgw_ymca_annual_report_1917, src_ymf_sgw_ymca_annual_report_1918], both cached here since before this session and both consulted 2026-09-07 after the *Year Book* narrowed the question. See [f_5297] and [f_5298].
 63. YMCA of Montreal annual reports for **1942**, **1946** and **1948** [src_ymf_sgw_ymca_annual_report_1942, src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1948], all three cached here since before this session. The 1948 report's retirement paragraph is the fullest account of W. J. Holliday's career in any source this project holds. See [f_5323], [f_5324] and [f_5325].
 64. *Kamp Kanawana* brochure, 1922 season [src_brochure_1922], and the *YMCA North Branch* brochure for 1922-23 [src_ymf_1922_1923_ymca_north_branch_brochure]. Both cached here since before this session; the Guiton identification was made by asking them a question, not by fetching anything. See [f_5326].
+65. *The Seventh General Catalogue of the Delta Tau Delta Fraternity* (1917) [src_delta_tau_delta_catalogue_1917], Internet Archive item `seventhgeneralca00delt`, full text downloaded and searched. A fraternity general catalogue is a biographical register: birth place, birth date, degree and current occupation for each member. Found by exact-phrase search at `openlibrary.org/search/inside.json` under p_430. See [f_5329].
 
 ## Research Notes
 

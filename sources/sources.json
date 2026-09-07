@@ -30633,7 +30633,25 @@
       "read_state": "partial",
       "read_state_basis": "direct, selective: 173 items enumerated via the ContentDM dmQuery endpoint; full-text searched for Kanawana, Montreal, Holliday, Jubilee and the exact phrase \"Harold C. Cross\"; the OCR (transc field) of about thirty individual pages read word for word — the Quebec block of the Directory of Associations in the 1909-10 through 1920-21 and 1957-1968 volumes, the alphabetical list of employed officers in the 1957-1965 and 1962 volumes, and the Montreal block of the 1900 through 1905-06 volumes. The remaining bulk of every volume is unread.",
       "notes": "THE ROUTE THAT DEFEATS THE ACCESS FAILURE RECORDED 2026-09-06. This collection holds every year the Internet Archive lacks (1883, 1901-1905, 1909-1920) INCLUDING 1912-13, 1914-15 and 1920-21, which HathiTrust also lacks, and it is open where HathiTrust, Google Books and google.com/search?tbm=bks are all shut to this environment. Two endpoints do everything: dmQuery for enumeration and page-level full-text search, dmGetItemInfo for one page's OCR in the transc field. The cdmhasocr flag reads 0 on pages that plainly carry OCR — do not use it. UMedia's own search.json ignores set_spec and facets, so go to ContentDM directly. OCR coverage across all nineteen target volumes was controlled with a \"Montreal\" search before any null here was trusted."
+    },
+    {
+      "source_id": "src_delta_tau_delta_catalogue_1917",
+      "type": "catalog_reference",
+      "title": "The Seventh General Catalogue of the Delta Tau Delta Fraternity (1917)",
+      "date": "1917",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/seventhgeneralca00delt",
+      "cache_path": "sources/cache/biographical/1917-delta-tau-delta-kenneth-hollinshead.txt",
+      "char_count": 2716,
+      "ingested_at": "2026-09-07T14:00:00Z",
+      "extracted": true,
+      "extraction_version": "p_430",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "direct, targeted: the full 3,038,277-character djvu text was downloaded and searched; the Hollinshead entry, the Epsilon chapter headings and the surrounding class-year markers were read. The rest of the catalogue is unread.",
+      "notes": "A fraternity general catalogue, which is a biographical register: each member gets birth place, birth date, degree and current occupation. IT GIVES KENNETH J. HOLLINSHEAD -- Montreal's Boys' Secretary from mid-1910 to 1 August 1913, the office that ran Kanawana in the new site's first years -- a birth place, a birth date and a college class, none of which this project had. Found by exact-phrase search at openlibrary.org/search/inside.json, which is an excellent instrument for an uncommon name and useless for a common one. DOWNLOAD NOTE: archive.org/download/<id>/<id>_djvu.txt returns ZERO BYTES without -L; with redirects followed it returns the full file."
     }
   ],
-  "source_count": 1704
+  "source_count": 1705
 }
