@@ -382,9 +382,9 @@ happiness, enthusiasm and humour."
 
 1. Oral history, Matt Aronson [src_oral_aronson].
 2. Montreal YMCA annual reports, FY2001-2002 through 2012 (Wayback Machine) [src_wayback_ymcamontreal_annualreport_2001_2002].
-3. CBC News (2021, 2022), pandemic closure and staffing coverage [src_msn_kanawana_closed_2021].
+3. CBC News (2021, 2022), pandemic closure and staffing coverage [src_gazette_covid_2021].
 4. Oral history, Matt Aronson; LinkedIn (davidgleduc); camp "Contact Us" page snapshots 2010-2014 [src_oral_aronson].
-5. Montreal Families, gender-expansive tent coverage [src_montreal_families_gender].
+5. Montreal Families, gender-expansive tent coverage [src_mtl_families_gender].
 6. Les YMCA du Québec, Rapport Annuel 2007 [src_ymcaquebec_annualreport_2007].
 7. Les YMCA du Québec, Rapport Annuel 2008 [src_ymcaquebec_annualreport_2008].
 8. Les YMCA du Québec, Rapport Annuel 2009 [src_ymcaquebec_annualreport_2009].

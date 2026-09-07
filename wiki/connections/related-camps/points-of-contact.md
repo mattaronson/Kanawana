@@ -389,7 +389,7 @@ decline should be tested against the YMCA's own records before it is asserted.
 10. Kanawana L&V origin, 1947 [src_ymca_website]. See [f_0193], [f_0194].
 11. Leslie Paris on the colour-war genre, and YMCA Hayo-Went-Ha's Woodsmen/Voyageurs [src_ia_canadian_camping_collection]. See [f_1304], [f_1887], [f_4765].
 12. *Lumbermen & Voyageurs: The YMCA Pine Crest Story* — Camp Pine Crest's centennial history, **not read by this project** [src_ymcagta_pinecrest_games]. See [f_0373].
-13. Big Cove YMCA Camp programme sections and traditions [src_wikipedia_big_cove_sections]. See [f_4761].
+13. Big Cove YMCA Camp programme sections and traditions [src_wikipedia_big_cove]. See [f_4761].
 14. YMCA BC camps; YMCA of Greater Toronto; YMCA-YWCA of Winnipeg; YMCA of Greater Halifax [src_ymcabc_camps]. See [f_4762], [f_4763], [f_4764].
 15. YMCA of Simcoe/Muskoka, Camp Kitchikewana camp and programmes pages [src_ymca_simcoe_kitchikewana]; Know History, *Rooted: Beausoleil Island*, ch. 5, **not read** (HTTP 403) [src_knowhistory_beausoleil]. See [f_4766], [f_4767], [f_4769].
 16. Austin Matthews on the 1967 Midland school-camp week, and the Wanakita naming, *Canadian Camping* [src_ia_canadian_camping_collection]. See [f_3281], [f_1302], [f_4770].

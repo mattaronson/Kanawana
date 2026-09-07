@@ -101,7 +101,7 @@ The Concordia Archives also hold undated photographs of "R. H. Dawson" (likely R
 ## Sources
 
 1. Canadian Board of Marine Underwriters, CBMU History [src_cbmu_history].
-2. "Kamp Kanawana History" (presented at a training course, June 6, 1951), digitized on Internet Archive [src_1951_kamp_kanawana_history].
+2. "Kamp Kanawana History" (presented at a training course, June 6, 1951), digitized on Internet Archive [src_ia_kanawana_history_1951].
 3. Concordia Archives P0145/12A Finding Aid — Committees (Camping, Outdoor Programs) [src_concordia_p0145_12a_finding_aid].
 4. Concordia Archives — YMCA of Montreal Fonds P145 [src_concordia_fonds].
 5. Concordia Archives P0145/12A Finding Aid, photograph filing with R.H. Dawson [src_concordia_p0145_12a_finding_aid].

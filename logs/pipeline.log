@@ -5627,3 +5627,40 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   recorded -- a different defect, wanting URLs rather than a merge.
   f_5606. facts.json v10.18, 5,568 facts. Verify green, nine checks. Timestamp
   from `date -u` in its own call.
+
+[2026-09-07T15:19:40Z] VERIFY -- p_303's larger half. 72 URLS HELD BY 161
+  RECORDS: the same document under DIFFERENT ids, each record accumulating its
+  own facts, none referencing the others. No check could see it, because the
+  id-level duplicate check only looks at ids and every citation resolved to
+  something.
+  59 groups merged, 69 records folded, 124 fact source references repointed,
+  14 wiki files rewritten, five articles' sources_cited deduped where the remap
+  collapsed two entries into one. Records 1,705 -> 1,636. Every decision in
+  project-docs/source-id-remap-2026-09-07.md, with the rules stated.
+  THE PART WORTH REMEMBERING IS WHAT WAS NOT MERGED. A URL IDENTIFIES A SCAN OR
+  A PAGE, NOT NECESSARILY A DOCUMENT. Two Internet Archive items each bind
+  SEVERAL ANNUAL VOLUMES together, and this project had deliberately registered
+  one record per YEAR against the one scan URL, because each volume carries a
+  different Montreal staff roster. Merging them would have moved rosters onto
+  the wrong years -- the Budge and W. H. Ball series among them, the spine of
+  the 1898-1905 staff reconstruction. THE TITLE-SIMILARITY TEST PASSED THEM
+  HAPPILY, because the titles are near-identical by design. They were caught
+  only by a SECOND test on the date field, and the residue was then read by
+  hand. Eleventh-odd heuristic in a week to look right and be wrong, and the
+  FIRST where acting on it would have corrupted the record rather than merely
+  wasted time.
+  Also excluded, as a different defect: seven BAnQ records sharing the bare root
+  numerique.banq.qc.ca are seven different documents whose per-item URLs were
+  never recorded; src_concordia_fonds, the most-cited Concordia record at 59
+  facts, carries the 12A sub-series page's URL although it describes the whole
+  fonds; two distinct Flickr ALBUMS are both recorded against the album INDEX.
+  Those want URLs, not merges, and are queued as p_488 rather than left inside
+  a completed priority.
+  Two canonicals FORCED rather than computed, because the 2026-09-06 remap had
+  already chosen a winner and p_303 says fold the loser into it.
+  One footnote rewritten by hand: camp-pine-crest.md said a blog post was
+  "listed four times under three duplicate source ids" and named all three,
+  which after the remap named the same id three times. A note that describes
+  the state of the record is itself a thing the record can invalidate.
+  f_5607. facts.json v10.19, 5,569 facts, 1,636 sources. p_303 complete.
+  Verify green, nine checks. Timestamp from `date -u` in its own call.

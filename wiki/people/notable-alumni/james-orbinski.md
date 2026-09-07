@@ -54,8 +54,8 @@ droits et sa dignité en tant qu'être humain**."
 
 ## Sources
 
-1. YMCA Quebec, "Dr. James Orbinski Receives the Camp YMCA Kanawana Pip Award" (2024) [src_ymca_pip_orbinski_2024].
-2. YMCA Quebec, Pip Award news releases (2007–2024), recipient numbering [src_ymca_pip_orbinski].
+1. YMCA Quebec, "Dr. James Orbinski Receives the Camp YMCA Kanawana Pip Award" (2024) [src_ymca_quebec_pip_orbinski_2024].
+2. YMCA Quebec, Pip Award news releases (2007–2024), recipient numbering [src_ymca_quebec_pip_orbinski_2024].
 3. Wikipedia, "James Orbinski" [src_wikipedia_orbinski].
 4. Concordia University, "Notable Concordians: James Orbinski" [src_concordia_orbinski].
 5. YMCA Quebec, "Dr. James Orbinski Receives the Camp YMCA Kanawana Pip Award" (2024), MSF career detail [src_ymca_quebec_pip_orbinski_2024].

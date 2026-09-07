@@ -139,7 +139,7 @@ The 1980s are, after the 1947–1958 postwar gap, the thinnest-documented decade
 6. Ka-News, 1980, YMCA Camp Kanawana newsletter [src_ka_news_1980].
 7. Peter Goddard obituary and condolence entries naming "Kamp Kanawana" [src_goddard_obituary_condolence, src_goddard_obituary]; oral history, Matt Aronson [src_oral_aronson].
 8. Directors and Staff of Camp Kanawana (this wiki) — Richard Patten's 1976–1979 YMCA Montreal executive directorship, and the Jay-to-Bruce Netherwood succession, both cited there to oral history and the 1990 annual report [src_oral_aronson].
-9. YMCA John Island Alumni Newsletter, 2005 [src_ymca_john_island_newsletter].
+9. YMCA John Island Alumni Newsletter, 2005 [src_ymca_john_island_mclean_speech].
 10. YMCA of Montreal Annual Reports 1977-78 and 1978-79 (Internet Archive) — the Branch Chairmen and Executive Directors listing, distinguishing Patten's Downtown branch role from the association's General Secretary [src_ia_ymca_annual_report_1977_78, src_ia_ymca_annual_report_1978_79].
 11. Kamp Kanawana director's reports 1976, 1977 and 1979, digitized in Internet Archive's rma-concordia-publications collection [src_ia_ymca_annual_report_1978_79].
 12. *Kamp Kanawana Director's Report 1978* [src_ia_kanawana_report_1978] and *1977* [src_ia_kanawana_report_1977], Internet Archive.

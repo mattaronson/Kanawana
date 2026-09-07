@@ -36,10 +36,10 @@ Taylor appeared on three camping-industry podcasts: Go Camp Pro's "Beyond Camp" 
 
 1. LinkedIn profile, Kate Taylor [src_linkedin_kate_taylor].
 2. CampHacker episode 147 [src_camphacker_147].
-3. MSN/Montreal Gazette (2021), camp closure coverage [src_msn_kanawana_closed_2021].
+3. MSN/Montreal Gazette (2021), camp closure coverage [src_gazette_covid_2021].
 4. Oral history, Matt Aronson [src_oral_aronson].
-5. Montreal Families, gender-expansive tent coverage [src_montreal_families_gender].
-6. Go Camp Pro podcast, "Beyond Camp" episode 18 [src_gocamp_pro_kate_taylor].
+5. Montreal Families, gender-expansive tent coverage [src_mtl_families_gender].
+6. Go Camp Pro podcast, "Beyond Camp" episode 18 [src_gocamp_pro_kate].
 7. Camp Code episode 95 [src_campcode_95].
 
 ## Research Notes

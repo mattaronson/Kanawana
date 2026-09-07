@@ -204,7 +204,7 @@ neither Lighthall nor Kanawana as institutions.
 
 ## Sources
 
-1. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University [src_mcmorris_thesis_spectrum]. Junior League Camp visits through the 1940s; Intermediate Section Report, 5 July 1943.
+1. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University [src_mcmorris_thesis]. Junior League Camp visits through the 1940s; Intermediate Section Report, 5 July 1943.
 2. Mutchler, Agnes Knox. "Quebec Camps," *Canadian Camping* Vol. 1 No. 3 (June 1949), pp. 18–20 [src_ia_canadian_camping_1949_06].
 3. *Canadian Camping* Vol. 19 No. 4 (June 1967) [src_ia_canadian_camping_1967_06].
 4. *Canadian Camping Magazine* Vol. 28 No. 2 (January 1976), Quebec camp directory [src_ia_canadian_camping_1976_01]; and Vol. 27 No. 2 (January 1975) [src_ia_canadian_camping_1975_01].

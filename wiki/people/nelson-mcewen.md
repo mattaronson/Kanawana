@@ -72,7 +72,7 @@ Doug McEwen served as director of Camp Stephens from 1966 to 1970 and as Preside
 ## Sources
 
 1. Camp Stephens Alumni Blog, 2013 posts on Nelson McEwen (campstephensalumni.blogspot.com) [src_camp_stephens_alumni_blog]. Content recovered via search-engine snippets; direct WebFetch returned HTTP 403.
-2. Concordia University Archives, YMCA of Montreal fonds P0145, sub-series 14D (National Council) [src_concordia_fonds_14D].
+2. Concordia University Archives, YMCA of Montreal fonds P0145, sub-series 14D (National Council) [src_concordia_14D10].
 3. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University [src_mcmorris_thesis].
 4. Directors and Staff of Camp Kanawana (this wiki) — Greig Macdiarmid's documented 1935–1938 Camp Chief tenure.
 5. Concordia University Archives, sub-sub-series 14D10: National Council Boys' Work Secretary, Nelson McEwen — E.M. Nelson correspondence, 1941–1945 [src_concordia_14D10]. Not digitized.

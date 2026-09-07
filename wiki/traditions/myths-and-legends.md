@@ -266,7 +266,7 @@ These Quebec folk traditions are strong candidates for Kanawana campfire storyte
 17. Edith Fowke, "The Tale of Anson Minor: An Ontario Camp Legend," *Ethnologies* 3:1, 1981, pp. 3-15 [src_fowke_anson_minor_1981].
 18. *Fireside Canada* podcast, Episode 35: "The Legend of Anson Minor," hosted by David Williams, September 26, 2024 [src_fireside_canada_anson_minor].
 19. *Fireside Canada* podcast, Episode 5: "La Chasse-Galerie" (Parts 1 & 2), hosted by David Williams, 2021 [src_fireside_canada_chasse_galerie].
-20. "Kamp Kanawana History," presented at Training Course, June 6, 1951, Internet Archive [src_1951_kamp_kanawana_history]. Verified genuine via archive.org metadata API and direct OCR text fetch, 2026-07-10.
+20. "Kamp Kanawana History," presented at Training Course, June 6, 1951, Internet Archive [src_ia_kanawana_history_1951]. Verified genuine via archive.org metadata API and direct OCR text fetch, 2026-07-10.
 21. *The Green Triangle*, full digitized run 1932-1982 (38 issues), Internet Archive [src_ia_green_triangle_collection]; July 8, 1933 issue specifically [src_green_triangle_1933_07_08]. Read in full 2026-07-10.
 22. Furness Line fleet list (GGA Archives); Furness Bermuda Line fleet roster; Wikipedia, "Furness Withy"; Lloyd's Register Foundation digitized collection (Internet Archive). Five-surface search, zero matches, 2026-07-11.
 23. *Kamp Kanawana Director's Report 1987* (Internet Archive), documenting "the cave" as the hike-and-trip equipment store [src_ia_kanawana_report_1987]; and the whole-corpus null search across the digitized YMCA of Montreal fonds [src_ia_ymca_montreal_fonds_collection].
