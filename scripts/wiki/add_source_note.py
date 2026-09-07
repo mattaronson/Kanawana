@@ -27,6 +27,23 @@ Usage:
 
 It prints the number it assigned; put `^<number>` in the prose yourself, because
 where the marker belongs is a judgement about the sentence, not about the file.
+
+A NOTE ABOUT THE NOTE TEXT, learned three times in one afternoon (2026-09-07).
+citation_aim.py checks SOURCE NOTES as well as prose, and it will fail a note
+whose [f_XXXX] reference sits in a sentence sharing no name, year or number with
+that fact. The failing shape is always the same, and it is the natural way to
+write one of these:
+
+    "...cached at `sources/cache/foo.txt`. See [f_5083] and [f_5094]."
+
+The final sentence carries the fact ids and nothing else, so the check has
+nothing to match. Write instead:
+
+    "...cached at `sources/cache/foo.txt`. The **1953** and **1954** volumes are
+     at [f_5083]; the **1964** and **1965** volumes are at [f_5094]."
+
+Put each fact id beside the year, name or figure it covers. That is also better
+for a reader, who otherwise cannot tell which id holds which half.
 """
 import argparse
 import re

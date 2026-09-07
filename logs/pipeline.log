@@ -6403,3 +6403,15 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   corpora's coverage, not about her.
   citation_aim caught my source note a THIRD time today, same shape. Reworded.
   Verify green. Timestamp from `date -u` in its own call.
+
+[2026-09-07T16:27:04Z] REVIEW -- fixed the habit rather than the third instance.
+  citation_aim.py failed my SOURCE NOTES three times this afternoon, in the same
+  shape each time: a final sentence carrying the fact ids and nothing else --
+  "See [f_5083] and [f_5094]." -- so the check has no name, year or number to
+  match against. I reworded each and moved on twice before noticing it was a
+  habit and not an accident.
+  Written into scripts/wiki/add_source_note.py's docstring, which is the tool I
+  reach for every time I write one of these: the failing shape, the fixed shape,
+  and the reason the fixed one is also better for a reader, who otherwise cannot
+  tell which fact id holds which half of a multi-volume note.
+  Verify green. Timestamp from `date -u` in its own call.
