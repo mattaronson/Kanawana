@@ -3452,3 +3452,32 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   count_entries), since numbering, insertion and count must read the same slice.
   Articles: a-ross-seaman, derek-walsh, cit-lit-program, green-triangle,
   coeducation-gender. Verify green across all eight checks.
+
+2026-09-07T10:12Z  Concordia sweep CLOSED, and its hit list triaged.
+  The rma-concordia-publications sweep finished: 16,491 items, 16,038 CLEAN,
+  339 HIT, 85 NOTEXT, 29 zero-byte-at-source. The last 29 were re-run and all 29
+  failed identically; reading their metadata showed size 0 for the _djvu.txt at
+  source, verified for all 29 rather than generalized from one. That is a terminal
+  state, not an unchecked remainder -- the difference between "we did not read these"
+  and "there is nothing to read" (f_5471). Ids kept in scratchpad/concordia_emptyocr.txt.
+  TRIAGE OF THE 339 HITS. 20 had identifiers appearing nowhere in sources.json.
+  ELEVEN OF THOSE WERE ALREADY WORKED -- the Link ads of 1988/1989/1990 and the 1992
+  Seaman Cup notice are held under src_ ids whose single origin_url names only one
+  issue of a multi-issue record, and the 1989/1990 ads were transcribed into a cache
+  file this same morning. The identifier test over-reports novelty; it is not a
+  novelty test and is now recorded as such (f_5472). The check that caught all
+  eleven was grepping the cache directory and the wiki for the CONTENT.
+  NEW: sources 1751 -> 1756; facts 5430 -> 5434 (f_5469..f_5472); kb 9.77 -> 9.78.
+  FINDING. Five of the "Weredale" hits are about the INSTITUTION, not the street:
+  the SGW student press, 1968-1971. camp-weredale.md carried Loyola's volunteer
+  bureau tutoring Weredale boys in 1974 with an explicit caution that it was the
+  wrong half of the merger; the Georgian of 11 Dec 1968 and The Paper of 13 Jan 1969
+  and 25 Jan 1971 supply the Sir George Williams half, five years earlier, and the
+  1971 list puts Weredale House and the Y.M.C.A. side by side. The Paper of 7 Dec
+  1970 gives the only contemporary description of the home this project holds:
+  OVER 200 BOYS, AGED 9 TO 18, orphans and boys from broken homes, with a sports
+  programme of its own -- said in a year Camp Weredale was operating.
+  f_5421 extended with the remaining ten address false positives, enumerated
+  exhaustively now that the collection is closed, and with the explicit warning that
+  the five institutional items must not be filed there.
+  Verify green across all eight checks.
