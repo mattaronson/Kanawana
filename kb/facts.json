@@ -1,8 +1,8 @@
 {
-  "version": "10.51",
-  "kb_version": "10.51",
+  "version": "10.52",
+  "kb_version": "10.52",
   "migrated_from": "3.3",
-  "fact_count": 5601,
+  "fact_count": 5602,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100941,6 +100941,32 @@
       "date_ref": "1944-1959",
       "conflicts_with": [],
       "added_version": "10.51",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5640",
+      "claim": "KANAWANA'S CAPITAL WORKS YEAR BY YEAR, 1950-1958, FROM THE ANNUAL REPORTS' SCHEDULES OF IMPROVEMENTS -- A BUILDING CHRONOLOGY FOR THE POSTWAR DECADE THIS PROJECT DID NOT HAVE. Every report in the run carries a short list headed with the camp's name, and none of the items below occurs anywhere in this wiki. Read as a series under p_491 before any of it was written up, which is the rule the day's earlier corrections produced.\n\nDATING WARNING, AND IT IS NOT THE USUAL ONE. These are CAPITAL-WORKS SCHEDULES, tied to the association's FINANCIAL year, not to a camp season, so an item belongs to the twelve (or twenty-one) months the volume covers and cannot be assigned to a summer. Year-ends are taken from project-docs/annual-report-year-ends.md rather than assumed: 31 March through the 99th report (to 31 March 1950), then THE 100TH REPORT SPANS TWENTY-ONE MONTHS, 1 APRIL 1950 TO 31 DECEMBER 1951, and 31 December from there through 1962.\n\n99th report (to 31 March 1950): 'Kamp Kanawana = WHARF REPLACEMENT, REPLACEMENT OF TRUCK AND SEWAGE PUMP.'\n100th report (1 April 1950 to 31 December 1951): 'Kamp Kanawana - NEW REFRIGERATION FACILITIES and REPLACEMENT OF LOWER PAVILION BUILDING.'\nReport to 31 December 1952: 'replacement of KITCHEN STOVE, NEW ROOF ON GALLERY AND NEW STEPS AT THE LOOKOUT; NEW ROOF ON DINING HALL AND KITCHEN; REPAIRS TO FOUNDATIONS OF HOSPITAL.'\n1953: 'replacement of CRAFT SHOP, installation of DISHWASHING EQUIPMENT, VEGETABLE BIN and WASHING MACHINES.'\n1954: 'COMPLETION OF NEW ADMINISTRATION BUILDING.'\n1955: 'replacement of CAMP TRUCK WITH A BEACH WAGON and erection of a FOOD STORAGE ROOM ADJACENT TO THE ADMINISTRATION BUILDINGS. LODGE UNDERPINNING RENEWED.'\n1956: 'ACCOMMODATION OF HOSPITAL ENLARGED.'\n1958: 'Camp Kanawana = NEW CABINS WERE ERECTED IN THE BANTAM SECTION.'\n\nTHE LOWER PAVILION ENTRY SETTLES A DATE THIS PROJECT HELD ONLY AS A PLAN. f_2120, from the 1951 camp history, ends its building chronology with 'A NEW BOAT HOUSE TO REPLACE THE LOWER PAVILION WAS PLANNED FOR SEPTEMBER 1951'. The 100th report covers to 31 December 1951 and records the replacement as DONE. September 1951 falls inside that window, so the two documents agree and the work happened in the autumn of 1951. THIS ONLY WORKS BECAUSE THE 100TH REPORT IS THE TWENTY-ONE-MONTH VOLUME: on a naive one-year lag the report would describe 1950 and would appear to record the replacement a year before it was planned.\n\nOTOREKE'S WORKS FROM THE SAME SCHEDULES, which extend the ski-lodge material at f_5638 and f_5639: 1953, 'construction of FIVE NEW CABINS and installation of OIL BURNING EQUIPMENT AT THE SKI LODGE'; 1954, 'improvements to the WATER SYSTEM and installation of a NEW RANGE', with 'Ski Lodge = EXTENSION TO MAIN BUILDING'. So Christieville was being extended in the years the club was at its peak, which is consistent with the 1955 report's 'highest number of members in its 11 years'.\n\nONE FIGURE NOT TO REPEAT: the 1957 report describes Kanawana as 'a SIXTY ACRE site of woodland and lakes'. Every other source gives hundreds of acres and this wiki already flags the sixty as a mis-scan of six hundred. It is listed here so the next reader of this volume does not think it new.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1950",
+        "src_ymf_sgw_ymca_annual_report_1951",
+        "src_ymf_sgw_ymca_annual_report_1952",
+        "src_ymf_sgw_ymca_annual_report_1953",
+        "src_ymf_sgw_ymca_annual_report_1954",
+        "src_ymf_sgw_ymca_annual_report_1955",
+        "src_ymf_sgw_ymca_annual_report_1956",
+        "src_ymf_sgw_ymca_annual_report_1958"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Kamp Kanawana",
+        "Lower Pavilion",
+        "Camp Otoreke",
+        "Christieville Ski Lodge"
+      ],
+      "date_ref": "1950-1958",
+      "conflicts_with": [],
+      "added_version": "10.52",
       "added_by": "ralph_loop"
     }
   ]

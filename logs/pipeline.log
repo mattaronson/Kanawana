@@ -6883,3 +6883,30 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   corrections to one passage in five minutes and the rule that would have prevented them (read the whole
   run of a series before writing any of it up), and the controlled nulls on Fowle and on the 1935
   chronicle. This is the standing Phase 2 requirement to log each campaign.
+
+2026-09-07T17:30:07Z  p_491 -- unit: what the camp built, 1950-1958, and the first unit written the new way.
+  THE RULE WRITTEN AN HOUR AGO, APPLIED: the whole run of capital-works schedules was read before any of
+  it was written up. No correction was needed afterwards, which is the first time today that has been
+  true of a multi-document unit.
+  Every annual report of the postwar decade carries a short schedule of improvements headed with the
+  camp's name, and NONE of the items appears anywhere else in this wiki: wharf, truck and sewage pump
+  (to March 1950); new refrigeration and the replacement of the LOWER PAVILION (the twenty-one-month
+  100th report); kitchen stove, a new roof and steps at the LOOKOUT, a new roof on the DINING HALL AND
+  KITCHEN, hospital foundations (1952); the CRAFT SHOP replaced, dishwashing equipment, a vegetable bin
+  and washing machines (1953); COMPLETION OF THE NEW ADMINISTRATION BUILDING (1954); the truck replaced
+  with a beach wagon, a food storage room built beside the administration buildings, LODGE UNDERPINNING
+  RENEWED (1955); hospital accommodation enlarged (1956); new cabins in the BANTAM section (1958).
+  THE LOWER PAVILION ROW SETTLES A DATE HELD ONLY AS A PLAN. f_2120, from the 1951 camp history, ends
+  "a new boat house to replace the lower pavilion was PLANNED for September 1951". The 100th report runs
+  to 31 December 1951 and records it DONE, so the work happened that autumn and the two documents agree.
+  THIS ONLY WORKS BECAUSE I READ project-docs/annual-report-year-ends.md INSTEAD OF ASSUMING A ONE-YEAR
+  LAG: the 100th report is the odd volume spanning twenty-one months, and on the naive lag it would look
+  like a record of the replacement a year before anyone planned it. The project's own dating document
+  exists precisely because that mistake has been made here before, and consulting it cost one grep.
+  Otoreke is in the same schedules and extends the Christieville material: five new cabins and
+  oil-burning equipment at the Ski Lodge (1953), water-system improvements, a new range and an
+  "extension to main building" (1954) -- the lodge being enlarged in exactly the years its club peaked.
+  Also flagged so nobody re-finds it: the 1957 report's "sixty acre site" is the known mis-scan of six
+  hundred.
+  Added f_5640 (kb v10.52, 5602 facts). New section, table and note 71 in wiki/site/the-kanawana-site.md;
+  eight source ids added to sources_cited (48 -> 52). All checks pass.

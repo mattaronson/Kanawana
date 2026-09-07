@@ -1,6 +1,6 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 70*
+*Status: E1-reviewed | Sources: 71*
 *Last Updated: 2026-09-07 (the 1936 CFCF script; and what the site costs to rent in 2026)*
 
 ## Overview
@@ -529,6 +529,45 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 
 **The reconstruction was announced, then did not start, and the staff were told so.** The 1977 director's report opens with bulldozers arriving for an $850,000 two-site reconstruction and the line "this is the last year of K.K. as we've known it." Nine months later the camp's own staff newsletter reports the opposite: "At this point, we have not started construction of the new site. **So here we go again with another 'last' summer.**"^59 The "again" is the useful word. It says the staff had been told more than once that a given season would be the last on the present site, which puts the 1977 announcement in a sequence rather than at the head of one, and it dates the stall to **1 December 1977**. Nothing in the newsletter says what the new site was to be, and it should not be assumed to be the Weredale arrangement above; the two are contemporaneous and the newsletter does not join them.
 
+## What the camp built, 1950-1958
+
+Every annual report of the postwar decade carries a short schedule of capital improvements with the
+camp's name at its head. None of the items below appears anywhere else in this wiki, and together they
+are the building history of the ten years this project otherwise crosses in a sentence.^71
+
+| Volume | At Kanawana |
+|---|---|
+| 99th, to 31 Mar 1950 | wharf replacement; replacement of truck and sewage pump |
+| 100th, Apr 1950 – Dec 1951 | new refrigeration facilities; **replacement of the Lower Pavilion building** |
+| to Dec 1952 | replacement of kitchen stove; new roof on gallery and new steps at **the Lookout**; **new roof on Dining Hall and Kitchen**; repairs to foundations of the Hospital |
+| to Dec 1953 | replacement of **Craft Shop**; dishwashing equipment, vegetable bin and washing machines |
+| to Dec 1954 | **completion of new administration building** |
+| to Dec 1955 | camp truck replaced with a beach wagon; **food storage room** built adjacent to the administration buildings; **Lodge underpinning renewed** |
+| to Dec 1956 | **accommodation of hospital enlarged** |
+| to Dec 1958 | **new cabins erected in the Bantam section** |
+
+**A dating warning, and it is not the usual one.** These are capital-works schedules tied to the
+association's *financial* year, not to a camp season, so an item belongs to the months a volume covers
+and cannot be pinned to a summer. The year-ends come from `project-docs/annual-report-year-ends.md`
+rather than from an assumed lag — which matters most for the second row, because the 100th report is the
+odd volume that spans **twenty-one months**.
+
+**And that is what settles the Lower Pavilion.** The 1951 camp history ends its building chronology with
+"a new boat house to replace the lower pavilion was **planned for September 1951**." The 100th report
+runs to 31 December 1951 and records the replacement as **done**. September 1951 sits inside that
+window, so the two agree and the work happened that autumn. On a naive one-year lag the same report
+would appear to describe 1950 — and would seem to record the replacement a year before anyone planned
+it.
+
+**Otoreke and the ski lodge are in the same schedules**, and they extend the Christieville material at
+[[site/camp-otoreke|Camp Otoreke]]: five new cabins and oil-burning equipment at the Ski Lodge in the
+1953 volume, and in 1954 water-system improvements, a new range, and an "extension to main building" at
+the lodge. Christieville was being enlarged in exactly the years its ski club was at its peak.
+
+*One figure in this run not to repeat:* the 1957 report calls Kanawana "a **sixty acre** site of
+woodland and lakes." Every other source gives hundreds of acres, and this wiki already treats the sixty
+as a mis-scan of six hundred. It is noted here so the next reader of that volume does not think it new.
+
 ## Images
 
 ![The dining hall, c.1920s](../../assets/images/historical/dining-hall-c1920s.jpg)
@@ -663,6 +702,7 @@ them on every line and by tenfold on revenue.
 68. Kamp Kanawana physical archive scans, 2026 [src_kanawana_physical_archive_scans_2026] — the cyanotype blueprint "Proposed Service Wing to Dining Hall", signed **J. M. Venters, Architect, 1503 Mackay Street, Montreal**, at [f_1579]. Brought into this article 2026-09-07 under p_492, the orphan-fact sweep. The identification of that architect with the **John Venters** who led the **Camp Architecture** workshop at the **1953** conference is at [f_5625], from *Canadian Camping* Vol. 5 No. 3, **June 1953** [src_ia_canadian_camping_1953_06].
 69. The dining hall's open-sided span and the dates around it, assembled 2026-09-07 under p_492 at [f_5627]. The **c.1920s** interior photograph of the open-sided pavilion, with its "KAMP KANAWANA" banner and "YMCA" pennant, is [src_flickr_kanawana_concordia_historical_album] at [f_1727] — the image already sat in this article's gallery with no note and no prose. The **1923** exterior, "a large log building with a deep overhanging roof", is the "PICTORIAL REVIEW" page of *The Gas-Bag Extra* Vol. 13 No. 1 [src_ymf_the_gas_bag_extra_vol_13_no_1] at [f_4927]. The **1977** line "enclosing and renovating the dining hall" is the director's report for that year [src_ia_kanawana_report_1977], quoted from `sources/cache/ymca-montreal-fonds/1977-kamp-kanawana-directors-report.txt` rather than from its paraphrase. The **1918** Gazette's "served in the dining pavilion" is [src_newspapers_gazette_1918b] at [f_2245]; the **1920** completion and the "lower pavilion on the lake front" are the **1951** camp history [src_ia_kanawana_history_1951] at [f_2120]; the **1922** brochure's new Dining Pavilion is [src_brochure_1922] at [f_0303]; and the **1919** blueprints are Concordia P145/12B03 [src_concordia_12B03] at [f_1787].
 70. YMCA of Montreal annual report for the year ending 30 April **1920** [src_ymf_sgw_ymca_annual_report_1920], describing the **1919** season. The **289** boys, the **165** on site at once against a stated comfortable capacity of **80 or 90**, the **200**-boy target, and the Junior Camp Committee charged with "the erection of a new dining pavilion" that "will be in readiness for the opening of the Camp this year", are all at [f_5634]. The **1919** blueprints it is set beside are Concordia P145/12B03 [src_concordia_12B03] at [f_1787], and the **1920** completion is the **1951** camp history [src_ia_kanawana_history_1951] at [f_2120]. Found 2026-09-07 under p_491, in the paragraph after the attendance figure.
+71. The YMCA of Montreal's annual-report schedules of capital improvements, read as a run 2026-09-07 under p_491: the **99th** report to 31 March 1950 [src_ymf_sgw_ymca_annual_report_1950], the **100th** covering the twenty-one months to 31 December 1951 [src_ymf_sgw_ymca_annual_report_1951], and the volumes to 31 December **1952** [src_ymf_sgw_ymca_annual_report_1952], **1953** [src_ymf_sgw_ymca_annual_report_1953], **1954** [src_ymf_sgw_ymca_annual_report_1954], **1955** [src_ymf_sgw_ymca_annual_report_1955], **1956** [src_ymf_sgw_ymca_annual_report_1956] and **1958** [src_ymf_sgw_ymca_annual_report_1958]. Transcribed together at [f_5640], with the year-ends taken from `project-docs/annual-report-year-ends.md`; the **Lower Pavilion**'s replacement is dated against the **1951** camp history at [f_2120].
 
 ## Research Notes
 
