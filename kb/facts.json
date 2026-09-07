@@ -1,6 +1,6 @@
 {
-  "version": "10.47",
-  "kb_version": "10.47",
+  "version": "10.48",
+  "kb_version": "10.48",
   "migrated_from": "3.3",
   "fact_count": 5598,
   "facts": [
@@ -106,9 +106,9 @@
     },
     {
       "fact_id": "f_0007",
-      "claim": "Billy Ball took a group of boys to Lake St. Joseph, Township of Howard, near Ste-Agathe in 1894",
+      "claim": "Billy Ball took a group of boys to Lake St. Joseph, Township of Howard, near Ste-Agathe in 1894\n\n[SOURCE SHARPENED 2026-09-07 under p_489. This fact cited src_ymca_website, ONE RECORD FOR THE WHOLE OF ymcaquebec.org, so the citation named a site rather than a document. It is repointed to the history page. THE MATCH WAS CHECKED BY HAND, not taken from a matcher's score: a distinctive phrase from this claim was located in the cache file and the '=== PAGE:' header above it read to confirm which page it falls under. A token-overlap matcher proposed fifteen repointings; twelve were probed, ten confirmed, and only confirmed ones were applied. THE CAVEAT: this is the site as it stood in 2026 and is evidence for what the camp says now, not for the year the claim describes.]",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_session_pages_2026"
       ],
       "confidence": "stated",
       "category": "founding",
@@ -6152,9 +6152,9 @@
     },
     {
       "fact_id": "f_0368",
-      "claim": "YMCA Quebec website states Kanawana 'welcomed girls to its camp for the first time, beginning a long tradition of inclusion and diversity'",
+      "claim": "YMCA Quebec website states Kanawana 'welcomed girls to its camp for the first time, beginning a long tradition of inclusion and diversity'\n\n[SOURCE SHARPENED 2026-09-07 under p_489. This fact cited src_ymca_website, ONE RECORD FOR THE WHOLE OF ymcaquebec.org, so the citation named a site rather than a document. It is repointed to the history page. THE MATCH WAS CHECKED BY HAND, not taken from a matcher's score: a distinctive phrase from this claim was located in the cache file and the '=== PAGE:' header above it read to confirm which page it falls under. A token-overlap matcher proposed fifteen repointings; twelve were probed, ten confirmed, and only confirmed ones were applied. THE CAVEAT: this is the site as it stood in 2026 and is evidence for what the camp says now, not for the year the claim describes.]",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_session_pages_2026"
       ],
       "confidence": "stated",
       "category": "coeducation",
@@ -6168,9 +6168,9 @@
     },
     {
       "fact_id": "f_0369",
-      "claim": "The Mountaineer program was launched at Kanawana as an all-gender tent for transgender, non-binary, and gender non-conforming campers",
+      "claim": "The Mountaineer program was launched at Kanawana as an all-gender tent for transgender, non-binary, and gender non-conforming campers\n\n[SOURCE SHARPENED 2026-09-07 under p_489. This fact cited src_ymca_website, ONE RECORD FOR THE WHOLE OF ymcaquebec.org, so the citation named a site rather than a document. It is repointed to the history page. THE MATCH WAS CHECKED BY HAND, not taken from a matcher's score: a distinctive phrase from this claim was located in the cache file and the '=== PAGE:' header above it read to confirm which page it falls under. A token-overlap matcher proposed fifteen repointings; twelve were probed, ten confirmed, and only confirmed ones were applied. THE CAVEAT: this is the site as it stood in 2026 and is evidence for what the camp says now, not for the year the claim describes.]",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_session_pages_2026"
       ],
       "confidence": "stated",
       "category": "coeducation",
@@ -7778,9 +7778,9 @@
     },
     {
       "fact_id": "f_0462",
-      "claim": "YMCA Kanawana celebrates 131 years of history (as of 2025) and 148 years of the YMCA's commitment to residential camps.",
+      "claim": "YMCA Kanawana celebrates 131 years of history (as of 2025) and 148 years of the YMCA's commitment to residential camps.\n\n[SOURCE SHARPENED 2026-09-07 under p_489. This fact cited src_ymca_website, ONE RECORD FOR THE WHOLE OF ymcaquebec.org, so the citation named a site rather than a document. It is repointed to the history page. THE MATCH WAS CHECKED BY HAND, not taken from a matcher's score: a distinctive phrase from this claim was located in the cache file and the '=== PAGE:' header above it read to confirm which page it falls under. A token-overlap matcher proposed fifteen repointings; twelve were probed, ten confirmed, and only confirmed ones were applied. THE CAVEAT: this is the site as it stood in 2026 and is evidence for what the camp says now, not for the year the claim describes.]",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_session_pages_2026"
       ],
       "confidence": "stated",
       "category": "milestone",
@@ -8052,9 +8052,9 @@
     },
     {
       "fact_id": "f_0478",
-      "claim": "The camp has fire bowls for campfires and cookouts as part of its current outdoor program facilities.",
+      "claim": "The camp has fire bowls for campfires and cookouts as part of its current outdoor program facilities.\n\n[SOURCE SHARPENED 2026-09-07 under p_489. This fact cited src_ymca_website, ONE RECORD FOR THE WHOLE OF ymcaquebec.org, so the citation named a site rather than a document. It is repointed to the facilities page. THE MATCH WAS CHECKED BY HAND, not taken from a matcher's score: a distinctive phrase from this claim was located in the cache file and the '=== PAGE:' header above it read to confirm which page it falls under. A token-overlap matcher proposed fifteen repointings; twelve were probed, ten confirmed, and only confirmed ones were applied. THE CAVEAT: this is the site as it stood in 2026 and is evidence for what the camp says now, not for the year the claim describes.]",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_facilities_2026"
       ],
       "confidence": "stated",
       "category": "facilities",
@@ -9431,9 +9431,9 @@
     },
     {
       "fact_id": "f_0558",
-      "claim": "The Camp Kanawana infirmary has 5 beds and a private washroom. An emergency oxygen tank and AED are available.",
+      "claim": "The Camp Kanawana infirmary has 5 beds and a private washroom. An emergency oxygen tank and AED are available.\n\n[SOURCE SHARPENED 2026-09-07 under p_489. This fact cited src_ymca_website, ONE RECORD FOR THE WHOLE OF ymcaquebec.org, so the citation named a site rather than a document. It is repointed to the facilities page. THE MATCH WAS CHECKED BY HAND, not taken from a matcher's score: a distinctive phrase from this claim was located in the cache file and the '=== PAGE:' header above it read to confirm which page it falls under. A token-overlap matcher proposed fifteen repointings; twelve were probed, ten confirmed, and only confirmed ones were applied. THE CAVEAT: this is the site as it stood in 2026 and is evidence for what the camp says now, not for the year the claim describes.]",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_facilities_2026"
       ],
       "confidence": "stated",
       "category": "facilities",
@@ -9464,9 +9464,9 @@
     },
     {
       "fact_id": "f_0560",
-      "claim": "Camp Kanawana has a separate pavilion for workshops and training sessions, listed as a distinct facility from other named pavilions.",
+      "claim": "Camp Kanawana has a separate pavilion for workshops and training sessions, listed as a distinct facility from other named pavilions.\n\n[SOURCE SHARPENED 2026-09-07 under p_489. This fact cited src_ymca_website, ONE RECORD FOR THE WHOLE OF ymcaquebec.org, so the citation named a site rather than a document. It is repointed to the facilities page. THE MATCH WAS CHECKED BY HAND, not taken from a matcher's score: a distinctive phrase from this claim was located in the cache file and the '=== PAGE:' header above it read to confirm which page it falls under. A token-overlap matcher proposed fifteen repointings; twelve were probed, ten confirmed, and only confirmed ones were applied. THE CAVEAT: this is the site as it stood in 2026 and is evidence for what the camp says now, not for the year the claim describes.]",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_facilities_2026"
       ],
       "confidence": "stated",
       "category": "facilities",
@@ -9900,9 +9900,9 @@
     },
     {
       "fact_id": "f_0585",
-      "claim": "The YMCA facilities page lists the camp as having a 'boating waterfront with canoes, kayaks, paddleboards, a barge and a rescue boat' -- confirming the barge and rescue boat as distinct waterfront equipment.",
+      "claim": "The YMCA facilities page lists the camp as having a 'boating waterfront with canoes, kayaks, paddleboards, a barge and a rescue boat' -- confirming the barge and rescue boat as distinct waterfront equipment.\n\n[SOURCE SHARPENED 2026-09-07 under p_489. This fact cited src_ymca_website, ONE RECORD FOR THE WHOLE OF ymcaquebec.org, so the citation named a site rather than a document. It is repointed to the facilities page. THE MATCH WAS CHECKED BY HAND, not taken from a matcher's score: a distinctive phrase from this claim was located in the cache file and the '=== PAGE:' header above it read to confirm which page it falls under. A token-overlap matcher proposed fifteen repointings; twelve were probed, ten confirmed, and only confirmed ones were applied. THE CAVEAT: this is the site as it stood in 2026 and is evidence for what the camp says now, not for the year the claim describes.]",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_facilities_2026"
       ],
       "confidence": "stated",
       "category": "infrastructure",
@@ -13410,9 +13410,9 @@
     },
     {
       "fact_id": "f_0830",
-      "claim": "The Mountaineer program was launched at Kanawana as an all-gender tent to provide a safe and welcoming environment for transgender, non-binary, and gender non-conforming campers.",
+      "claim": "The Mountaineer program was launched at Kanawana as an all-gender tent to provide a safe and welcoming environment for transgender, non-binary, and gender non-conforming campers.\n\n[SOURCE SHARPENED 2026-09-07 under p_489. This fact cited src_ymca_website, ONE RECORD FOR THE WHOLE OF ymcaquebec.org, so the citation named a site rather than a document. It is repointed to the history page. THE MATCH WAS CHECKED BY HAND, not taken from a matcher's score: a distinctive phrase from this claim was located in the cache file and the '=== PAGE:' header above it read to confirm which page it falls under. A token-overlap matcher proposed fifteen repointings; twelve were probed, ten confirmed, and only confirmed ones were applied. THE CAVEAT: this is the site as it stood in 2026 and is evidence for what the camp says now, not for the year the claim describes.]",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_session_pages_2026"
       ],
       "confidence": "stated",
       "category": "section_names",
@@ -14211,9 +14211,9 @@
     },
     {
       "fact_id": "f_0876",
-      "claim": "The modern YMCA Kanawana Voyageurs program descends from the Les Voyageurs de la Vérendrye program (est. 1958-59). Current offerings include: 12-Day Travelers (Voyageurs) paddling the Coulonge, Dumoine, and Noire Rivers; Adventurers Coureurs des Bois (4-6 day introductory canoe trips in La Vérendrye Wildlife Reserve); and 26-Day Voyageurs Ultimate (21-day white water canoe trip).",
+      "claim": "The modern YMCA Kanawana Voyageurs program descends from the Les Voyageurs de la Vérendrye program (est. 1958-59). Current offerings include: 12-Day Travelers (Voyageurs) paddling the Coulonge, Dumoine, and Noire Rivers; Adventurers Coureurs des Bois (4-6 day introductory canoe trips in La Vérendrye Wildlife Reserve); and 26-Day Voyageurs Ultimate (21-day white water canoe trip).\n\n[SOURCE SHARPENED 2026-09-07 under p_489. This fact cited src_ymca_website, ONE RECORD FOR THE WHOLE OF ymcaquebec.org, so the citation named a site rather than a document. It is repointed to the expedition-programme pages. THE MATCH WAS CHECKED BY HAND, not taken from a matcher's score: a distinctive phrase from this claim was located in the cache file and the '=== PAGE:' header above it read to confirm which page it falls under. A token-overlap matcher proposed fifteen repointings; twelve were probed, ten confirmed, and only confirmed ones were applied. THE CAVEAT: this is the site as it stood in 2026 and is evidence for what the camp says now, not for the year the claim describes.]",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_expedition_leadership_pages_2026"
       ],
       "confidence": "stated",
       "category": "canoe_trips",
@@ -16892,10 +16892,10 @@
     },
     {
       "fact_id": "f_1027",
-      "claim": "Camp Kanawana uses the abbreviated form 'Non Nobis Solum' rather than the full Cicero quotation 'Non Nobis Solum Nati Sumus.' The camp presents the motto trilingually: 'Non Nobis Solum — Not for ourselves alone — Pas seulement pour nous-memes.'",
+      "claim": "Camp Kanawana uses the abbreviated form 'Non Nobis Solum' rather than the full Cicero quotation 'Non Nobis Solum Nati Sumus.' The camp presents the motto trilingually: 'Non Nobis Solum — Not for ourselves alone — Pas seulement pour nous-memes.'\n\n[SOURCE SHARPENED 2026-09-07 under p_489. This fact cited src_ymca_website, ONE RECORD FOR THE WHOLE OF ymcaquebec.org, so the citation named a site rather than a document. It is repointed to the camp landing page. THE MATCH WAS CHECKED BY HAND, not taken from a matcher's score: a distinctive phrase from this claim was located in the cache file and the '=== PAGE:' header above it read to confirm which page it falls under. A token-overlap matcher proposed fifteen repointings; twelve were probed, ten confirmed, and only confirmed ones were applied. THE CAVEAT: this is the site as it stood in 2026 and is evidence for what the camp says now, not for the year the claim describes.]",
       "sources": [
         "src_facebook_ykanawana",
-        "src_ymca_website"
+        "src_ymcaq_kanawana_session_pages_2026"
       ],
       "confidence": "stated",
       "category": "traditions",
@@ -21481,9 +21481,9 @@
     },
     {
       "fact_id": "f_1286",
-      "claim": "Camp Kanawana launched the 'Mountaineer' program as an all-gender tent to provide a safe and welcoming environment for transgender, non-binary, and gender non-conforming campers.",
+      "claim": "Camp Kanawana launched the 'Mountaineer' program as an all-gender tent to provide a safe and welcoming environment for transgender, non-binary, and gender non-conforming campers.\n\n[SOURCE SHARPENED 2026-09-07 under p_489. This fact cited src_ymca_website, ONE RECORD FOR THE WHOLE OF ymcaquebec.org, so the citation named a site rather than a document. It is repointed to the history page. THE MATCH WAS CHECKED BY HAND, not taken from a matcher's score: a distinctive phrase from this claim was located in the cache file and the '=== PAGE:' header above it read to confirm which page it falls under. A token-overlap matcher proposed fifteen repointings; twelve were probed, ten confirmed, and only confirmed ones were applied. THE CAVEAT: this is the site as it stood in 2026 and is evidence for what the camp says now, not for the year the claim describes.]",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_session_pages_2026"
       ],
       "confidence": "stated",
       "category": "programs",

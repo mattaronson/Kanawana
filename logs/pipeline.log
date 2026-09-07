@@ -6774,3 +6774,26 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   worse than one never recorded -- it tells the next reader the ground is covered.
   Added f_5636 (kb v10.47, 5598 facts). New section and note 66 in wiki/site/camp-otoreke.md (73 sources
   cited); open question 5 corrected in wiki/people/geoffrey-guiton.md. All checks pass.
+
+2026-09-07T17:19:33Z  p_489 -- unit: all 28 live Kanawana pages cached, twelve facts repointed.
+  Fetched the remaining thirteen pages in one pass into
+  sources/cache/web-pages/ymcaquebec-kanawana-session-pages-2026.txt, each with a "=== PAGE: <url> ==="
+  header so a citation to the record can still name the page, and registered it as
+  src_ymcaq_kanawana_session_pages_2026. THE PAGE LIST CAME FROM THE LANDING PAGE'S OWN LINKS rather
+  than being guessed, which is why it is exactly 28 and matches p_489's own count.
+  TWELVE FACTS REPOINTED off src_ymca_website, 69 -> 57. The matcher proposed fifteen. Twelve were
+  probed by locating a distinctive phrase in the cache and reading the "=== PAGE:" header above it; ten
+  confirmed outright and the Mountaineer pair confirmed by the same passage as a third fact. THREE WERE
+  LEFT ON THE CATCH-ALL because the probe did not find them -- f_0587, f_0583, f_0591 -- and they are
+  probably fine. Leaving them is deliberate: the previous attempt at this task put "first residential
+  camp in Quebec" on the jobs page and all three Mountaineer facts on pages where the word does not
+  occur, and the remedy for that is not a better score threshold. (The Mountaineer facts now match
+  correctly, incidentally, because the page that carries them was finally in the cache. The old matcher
+  was not only wrong, it was wrong about pages nobody had fetched.)
+  CONTENT: nothing new. The English history page is a translation of the French one already read, and
+  every milestone on it -- 1894, 1910 and 85 campers, the 1947 Games "inspired by Pinecrest Camp", 1968,
+  the 2022 Mountaineer programme, the 131st season, the 78th edition -- is already in this wiki. I
+  re-derived the 78th-edition arithmetic as a cross-check on the trophy's missing 2021 shield and found
+  lv-games.md had already made exactly that argument and resolved c_021 with it. Checked the destination
+  before writing, which is the only reason that did not become a fifth duplicate finding today.
+  kb/facts.json v10.48. All checks pass.

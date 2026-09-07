@@ -29553,6 +29553,22 @@
       "notes": "Four pages fetched, extracted and read 2026-09-07 under p_489, cached as one file with a header line per page giving that page's own URL. The origin_url is the jobs page; the rest are inside. Terms and Conditions is cached and is NOT read closely -- only the other three are. See f_5616.",
       "read_state": "skimmed",
       "read_state_basis": "direct:three-of-four-pages-read-in-full-2026-09-07; the Terms and Conditions block (9,247 chars) is cached and unread, which is why this record says skimmed rather than read"
+    },
+    {
+      "source_id": "src_ymcaq_kanawana_session_pages_2026",
+      "type": "web",
+      "title": "Camp YMCA Kanawana — the thirteen session, programme and guide pages (2026 site)",
+      "date": "2026-09-07",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://www.ymcaquebec.org/en/summer-camp-kanawana",
+      "cache_path": "sources/cache/web-pages/ymcaquebec-kanawana-session-pages-2026.txt",
+      "char_count": 149206,
+      "ingested_at": "2026-09-07T17:20:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "primary",
+      "notes": "Fetched 2026-09-07 under p_489, the split of the src_ymca_website catch-all. THIRTEEN PAGES IN ONE FILE, each opening with a '=== PAGE: <url> ===' header giving its own URL and its extracted character count, so a citation to this record can still name the page: the camp landing page, history, parents-guide, adventurers-coureurs-bois, adventurers-pathfinders, coureurs-des-bois, pathfinders, explorers-pioneers, explorers-woodsmen, pioneers-6-days, pioneers-12-days, woodsmen-6-days and woodsmen-12-days. With the eight files already held, ALL 28 LIVE KANAWANA PAGES ARE NOW CACHED; the page list was taken from the landing page's own links rather than guessed. CAVEAT THAT APPLIES TO EVERY PAGE HERE: this is the site as it stood in 2026 and is evidence for what the camp says now, not for any earlier year. The English history page was read on fetch and its milestones -- the 1894 opening with 20 campers, 1910 and 85 campers, the 1947 Games 'inspired by Pinecrest Camp', 1968, the 2022 Mountaineer programme and the 131st season -- are ALREADY IN THIS WIKI from the French version; it is a translation of a page already read, not new ground."
     }
   ],
   "source_count": 1757
