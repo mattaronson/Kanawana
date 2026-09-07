@@ -1,8 +1,8 @@
 {
-  "version": "10.74",
-  "kb_version": "10.74",
+  "version": "10.75",
+  "kb_version": "10.75",
   "migrated_from": "3.3",
-  "fact_count": 5639,
+  "fact_count": 5642,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101662,6 +101662,59 @@
       "date_ref": "1970",
       "conflicts_with": [],
       "added_version": "10.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5678",
+      "claim": "THE ARGUMENT FOR COEDUCATION AT KANAWANA IS IN AN APPENDIX, NOT THE SECTION -- AND IT IS ABOUT DRUGS AND SEX. f_5677 records the 1970 report's short COED CAMPING section, which gives the HOW. A separate and much longer COED CAMPING appendix in the same report gives the WHY, and it is far more socially specific than anything else this project holds on the subject. 'My personal recommendation on the issue of coeducational camping is that we continue in this area. I feel that the concern is NOT one of looking at the problems coeducational camping can produce or on the other hand trying to justify why we should be in this field. WE ARE DEALING WITH A SOCIETY THAT HAS CONFUSED AND FRUSTRATED OUR YOUTH TODAY. They are still faced with DOUBLE STANDARDS AND TABOOS which are coming under heavy criticism of the youth. DRUG USAGE AND PRE-MARITAL RELATIONS are personal choices and/or decisions which youth are forced to make each day.' The conclusion follows directly: 'If our role is to dialogue with youth about some of the above issues and help them come to some realistic conclusions I SEE THIS DONE, AS IT IS IN THE CITY, IN A COED SETTING.' AND HE DATES THE CHANGE INSTITUTIONALLY: 'Many, if not all, of our teen club groups set out to encompass the same roles BUT THEY NO LONGER EXIST (ie HI-Y). New coed groups have replaced them.' So coeducation at Kanawana is argued, by its own director in writing, as the camp catching up with what had already happened to the YMCA's city youth work. ONE PHRASE IS A DELIBERATE PUN AND SHOULD NOT BE TIDIED: the camp reaches young people 'through tripping - A DIFFERENT TYPE OF \"TRIP\" TO TURN THEM ON - and other programs at Kanawana.' Canoe tripping set against the drug usage named three paragraphs earlier, in a report to a board, in 1970.",
+      "sources": [
+        "src_ia_kanawana_report_1970"
+      ],
+      "confidence": "stated",
+      "category": "programming",
+      "entities": [
+        "Kamp Kanawana",
+        "coeducation",
+        "Hi-Y"
+      ],
+      "date_ref": "1970",
+      "conflicts_with": [],
+      "added_version": "10.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5679",
+      "claim": "COEDUCATION HAD A PHYSICAL COST AT KANAWANA, AND THE 1970 REPORT NAMES IT. Immediately after the erosion passage this project already quotes -- the main areas 'do not look like a camp but a section of St. Catherine Street' -- the same appendix connects the crowding to the arrival of girls. 'WITH THE INTRODUCTION OF GIRLS TO KANAWANA IT HAS BROUGHT, NATURALLY, MORE TENT PLATFORMS TO CAMP. These, unfortunately, WERE LOCATED AMONGST OUR EXISTING PLATFORMS and thereby created a feeling of OVERCROWDING AND LACK OF PRIVACY. Our support facilities (ie parliaments, staff accommodations, etc.) DID NOT INCREASE ADEQUATELY ENOUGH to handle the changes brought about by coed camping.' Coeducation was added to the site without the site being enlarged to take it, and three years in the director is writing that down. This project has the erosion crisis and has the coeducation decision, and has never connected them; the report does, in consecutive sentences. AND HE PROPOSES A STRUCTURAL ANSWER: 'That we continue to carry on with coed camping at Kanawana. I would recommend that we do, however, OPERATE FOUR SEPARATE OPERATIONS under the heading of Kamp Kanawana. These would be: 1. Boys Camp - ages 9-12 years. 2. Girls Camp - ages 9-12 years. 3. Coed Camp - ages 13-16 years. 4. Leadership (coed) Camp - ages 16-17 years.' That is coeducation kept for teenagers and withdrawn from the juniors, which is the reverse of how it began -- the first girls admitted in 1968 were aged 10 to 12, the youngest section. He also recommends hiring 'the Camp Director and Business Manager on a fulltime year round basis'. Whether any of it was adopted is not established here.",
+      "sources": [
+        "src_ia_kanawana_report_1970"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Kamp Kanawana",
+        "coeducation"
+      ],
+      "date_ref": "1970",
+      "conflicts_with": [],
+      "added_version": "10.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5680",
+      "claim": "A SEASON-COUNT THAT DOES NOT AGREE WITH THE OTHERS: 'KANAWANA IS SEVENTY-EIGHT YEARS OLD' IN 1970. f_4849 gathers five statements by the institution counting the camp's seasons, and they agree with one another on 1894: the 1946 report's '52nd for boys arranged by the Montreal Association' for 1945, the 1966-67 report's 'seventy-third year of operation' for 1966, the 1968 report's 75th anniversary, the 1975 report's 'eighty-second year', and the 1988 report's '94th year of operation'. THE 1970 REPORT'S COED APPENDIX DOES NOT FIT. Introducing the erosion problem it says: 'Kanawana is SEVENTY-EIGHT YEARS OLD and shows it.' 1970 minus 1894 is 76, not 78; seventy-eight in 1970 implies 1892. This is recorded as a DATA POINT AND NOT AS A CLAIM ABOUT THE FOUNDING. It is a rhetorical aside inside an argument about eroded ground, not a dated statement of record like the five in f_4849, and one loose round number against five agreeing counts is not evidence of a different founding year. It is written down because this project tracks season-counts deliberately, because an unrecorded outlier looks like an absence of evidence to the next reader, and because anyone re-reading the 1970 report will hit the same sentence and needs to find it already weighed.",
+      "sources": [
+        "src_ia_kanawana_report_1970"
+      ],
+      "confidence": "disputed",
+      "category": "history",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1970",
+      "conflicts_with": [
+        "f_4849"
+      ],
+      "added_version": "10.75",
       "added_by": "ralph_loop"
     }
   ]

@@ -168,7 +168,15 @@ This article notes above that "both countings were used contemporaneously." The 
 |---|---|---|
 | "Camping since 1894" | 1946 ("the 52nd for boys arranged by the Montreal Association"), 1948 (54th), 1949 (55th), 1966-67 (73rd), 1967 (74th), 1968 (75th), 1977-78, 2005-06 | The first Junior camp at Lac St. Joseph |
 | "Kanawana since 1910" | 1931 ("twenty-one years in its present location"), 1939 (29th season), 1984 ("its 75th year of service"), 1985 ("for the past 75 years") | The Saint-Sauveur site |
-| *(loose publicity arithmetic)* | 1963 news release: "In the **68 years** that Kamp Kanawana has been in existence" — which lands on 1895, not 1894^nr63 | Neither of the above |
+| *(loose publicity arithmetic)* | 1963 news release: "In the **68 years** that Kamp Kanawana has been in existence" — which lands on 1895, not 1894^nr63. And the 1970 report's coeducation appendix, opening its erosion complaint: "**Kanawana is seventy-eight years old and shows it**" — which lands on **1892**^kk70 | Neither of the above |
+
+Both of those loose figures sit inside arguments about something else — a publicity line and a complaint
+about worn ground — rather than being dated statements of record, and **neither is weighed against the
+run of counts in the first row**, which agree with each other across sixty years. They are logged because
+this project tracks season-counts deliberately, and because an outlier nobody wrote down reads to the
+next reader exactly like ground nobody covered. 1892 is not a new candidate in any case: it is already
+among the association's own unreliable retrospective dates, given in the reports of 1932, 1933, 1954 and
+1955. [f_5680]
 
 **So the 75th anniversary was celebrated twice — in 1968 and again in 1984.** And the camp has two centennials in the record: the 1993 report says Kanawana is "celebrating its 100th anniversary this year," while the 1994 report says "This was Kanawana's 100th year of operation." Neither is an error; they are different clocks, and the 1993 one is running on yet a third date (1893). See [[history/centennial-1994|The 1994 Centennial]].
 
@@ -281,6 +289,7 @@ two decades later.
 - ^mc13: Kamp Kanawana physical archive scans, 2026 [src_kanawana_physical_archive_scans_2026] — the **1913** reunion banquet menu card pictured above, dated "Wednesday, Nov. 26th, **1913**". See [f_1577]. Brought into this article 2026-09-07 under p_492; the image had been here since July with nothing written about what it says.
 
 - **ar1874** — YMCA of Montreal Annual Report, **1874** [src_ia_sgw_ymca_annual_report_1874], Internet Archive item `sgw-ymca-annual-report-1874`, in the `ymca-montreal-fonds` collection. Found 2026-09-07 by the enumeration at [f_5243]; read for its officers and its boys' work, the rest not read. See [f_5255].
+- **kk70** — *Kamp Kanawana Annual Report 1970* [src_ia_kanawana_report_1970], cached at `sources/cache/ymca-montreal-fonds/1970-kamp-kanawana-annual-report.txt`; the "seventy-eight years old" aside opening the erosion passage of its COED CAMPING appendix. Read whole 2026-09-07 under `p_491`. See [f_5680].
 - YMCA Quebec official history page (ymcaquebec.org/en/summer-camp-kanawana/history)
 - QAHN article: "The YMCA Camp of Saint-Adolphe d'Howard" (qahn.org)
 - Concordia University Archives, YMCA of Montreal fonds P145, sub-series 12L (Lac St-Joseph/Camp Jubilee)

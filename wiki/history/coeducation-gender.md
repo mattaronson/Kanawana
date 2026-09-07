@@ -156,6 +156,55 @@ physically separated they seemed to act and react as one section most of the tim
 in the dining hall)." The director records the staff position as unanimous — "I personally feel - as do
 all the staff - that we should remain in this field in the future." [f_5677]
 
+### And the argument for it, which is about drugs and sex
+
+The section above gives the *how*. **A separate and much longer COED CAMPING appendix in the same report
+gives the why**, and it is far more socially specific than anything else this article holds.^kk70
+
+"My personal recommendation on the issue of coeducational camping is that we continue in this area. I
+feel that the concern is **not** one of looking at the problems coeducational camping can produce or on
+the other hand trying to justify why we should be in this field. **We are dealing with a society that has
+confused and frustrated our youth today.** They are still faced with **double standards and taboos** which
+are coming under heavy criticism of the youth. **Drug usage and pre-marital relations** are personal
+choices and/or decisions which youth are forced to make each day."
+
+The conclusion follows without a step in between: "If our role is to dialogue with youth about some of
+the above issues and help them come to some realistic conclusions **I see this done, as it is in the
+city, in a coed setting.**"
+
+And he dates the change institutionally rather than morally: "Many, if not all, of our teen club groups
+set out to encompass the same roles **but they no longer exist (ie Hi-Y)**. New coed groups have replaced
+them." **Coeducation at Kanawana is argued, in writing, as the camp catching up with what had already
+happened to the Y's city youth work** — not as a principle newly discovered at the lake.
+
+One phrase in it is a deliberate pun and is not tidied here. The camp reaches young people "through
+tripping — **a different type of 'trip' to turn them on** — and other programs at Kanawana." Canoe
+tripping set against the drug usage named three paragraphs earlier, in a report to a board, in 1970.
+[f_5678]
+
+### What it cost the site, and the structure he proposed instead
+
+Immediately after the erosion passage this wiki already quotes — the main areas "do not look like a camp
+but a section of St. Catherine Street" — the same appendix connects the crowding to the girls.
+
+"**With the introduction of girls to Kanawana it has brought, naturally, more tent platforms to camp.**
+These, unfortunately, were located amongst our existing platforms and thereby created a feeling of
+**overcrowding and lack of privacy**. Our support facilities (ie parliaments, staff accommodations, etc.)
+**did not increase adequately enough** to handle the changes brought about by coed camping."
+
+Coeducation was added to the site without the site being enlarged to take it. This project has held the
+erosion crisis and the coeducation decision separately and never connected them; **the report connects
+them in consecutive sentences.**
+
+His answer is structural: "That we continue to carry on with coed camping at Kanawana. I would recommend
+that we do, however, **operate four separate operations** under the heading of Kamp Kanawana. These would
+be: 1. Boys Camp — ages 9-12 years. 2. Girls Camp — ages 9-12 years. 3. Coed Camp — ages 13-16 years.
+4. Leadership (coed) Camp — ages 16-17 years."
+
+**That is coeducation kept for teenagers and withdrawn from the juniors — the reverse of how it began**,
+since the first girls admitted in 1968 were aged 10 to 12, the camp's youngest section. Whether any of it
+was adopted is not established here.^kk70 [f_5679]
+
 ### The three-year delay
 
 The more interesting finding is that coeducation was **recommended in 1965 and declined**. The 1965 director's report argues for it at length and proposes a costed pilot — in the Woodsmen section, ten- and eleven-year-olds, four boys and four girls, with the only additional expense being "an adequate wash house with showers for the girls and this would not be an expense of more than $300."^ia The report notes an earlier constituency survey conducted under **Keith Farquharson** which found "a very large and positive response," and records that the Metropolitan Board declined to act.
