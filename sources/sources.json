@@ -30831,7 +30831,25 @@
       "notes": "FULLY DOWNLOADABLE. Found 2026-09-07 by the same sweep. Gives Forgie's Alberta post a date, an address and an employer: 'Boys' Secretary, A. W. Forgie, 302 I. O. O. F. Building, Calgary, Alberta' (printed twice) and 'A. Wallace Forgie, Boys' Work Secretary, ALBERTA RELIGIOUS EDUCATION COUNCIL' -- so after CSET his employer was the religious-education side of the movement rather than the association side. SIBLING VOLUMES ARE IN THE SAME CORPUS AND UNREAD: the 1936 yearbook (already noted in p_430) has Harold C. Cross as President of the Montreal council, and the 1942, 1943 and 1945 volumes have him as Corresponding Secretary at 1441 Drummond St. Only the Forgie lines were read here. See f_5352.",
       "read_state": "partial",
       "read_state_basis": "direct: full text downloaded; the three Forgie lines read and quoted. Nothing else in the volume was read, and the Cross lines in its sibling volumes were seen only as search highlights."
+    },
+    {
+      "source_id": "src_dbs_biennial_survey_education",
+      "type": "report",
+      "title": "Elementary and Secondary Education in Canada, being Part I of the Biennial Survey of Education in Canada — a bound run of the surveys for 1936-38 through 1956-58 (Dominion Bureau of Statistics)",
+      "date": "1936-1958",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/31761119680775",
+      "cache_path": "sources/cache/government/2026-09-07-dbs-biennial-survey-ymca-entry.txt",
+      "char_count": 4052674,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v9.36",
+      "reliability": "primary",
+      "notes": "Canada, Department of Trade and Commerce, Dominion Bureau of Statistics, Education Statistics Branch; Ottawa, King's Printer. FULLY DOWNLOADABLE. Found 2026-09-07 by a quoted \"Nelson McEwen\" sweep of the Internet Archive book corpus. THE ITEM'S TITLE PAGE SAYS 1936-38 AND IT BINDS AT LEAST TWELVE SURVEYS -- interior title pages carry 1936-38, 1938-40, 1940-42, 1943-44, 1944-46, 1945-46, 1947-48, 1948-50, 1950-54, 1954-56 and 1956-58 -- so every occurrence must be placed by the interior title page above it. Second bound-run item found in one day. Its national-organizations section carries a standing YMCA entry, reprinted with small edits in the surveys for 1938-40, 1943-44 and 1945-46: the association 'has conducted organized boys' camps since 1889 and is particularly concerned with the educational aspects of camping', with Nelson McEwen named as its chief boys' work director (later secretary) at 21 Dundas Street, later Square, Toronto. Only the YMCA entry and the index line for McEwen were read; the surveys themselves are unread. 'Kanawana' does not occur in the item. See f_5356, f_5357.",
+      "read_state": "partial",
+      "read_state_basis": "direct: full text downloaded and searched. The YMCA national-organizations entry read in all three surveys that carry it and quoted verbatim in the cache, with the differences between printings set out; the periodical index line for McEwen read. Nothing else in twelve bound surveys was read."
     }
   ],
-  "source_count": 1715
+  "source_count": 1716
 }

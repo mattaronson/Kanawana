@@ -8149,6 +8149,13 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-07",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "The Dominion Bureau of Statistics' Biennial Survey of Education in Canada, found by a quoted book-corpus sweep and read in full text. Its standing YMCA entry carries the 1889 camping date in federal print from the 1938-40 survey and names Nelson McEwen in the national boys' work post. Written with the boilerplate caveat in the prose rather than in a footnote, because the entry is one claim reprinted, not three witnesses."
         }
       ],
       "ralph_loops_completed": 1,
@@ -8170,7 +8177,8 @@
         "f_1386",
         "f_1387",
         "f_1388",
-        "f_1389"
+        "f_1389",
+        "f_5357"
       ],
       "sources_cited": [
         "src_camp_stephens_alumni_blog",
@@ -8180,7 +8188,8 @@
         "src_concordia_fonds_14D",
         "src_mcmorris_thesis",
         "src_ymca_year_book_official_rosters_1921",
-        "src_greig_ontario_boys_2014"
+        "src_greig_ontario_boys_2014",
+        "src_dbs_biennial_survey_education"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -8190,7 +8199,7 @@
         "camp-perrot"
       ],
       "file_id": null,
-      "word_count": 1453,
+      "word_count": 1802,
       "notes": "2026-07-11: Workstream C1 spawn. Synthesizes an already-completed formal RALPH campaign (documented in directors-index.md's R8/R9 research notes, 2026-06-22) into a standalone article -- no new research conducted. Single-source reliance on the Camp Stephens Alumni blog for most biographical detail is preserved as an explicit limitation.",
       "tags": {
         "era": [
@@ -11215,6 +11224,13 @@
           "at": "2026-09-05T00:00:00Z",
           "by": "auto",
           "task": "VERIFY"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-07",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "The Dominion Bureau of Statistics' Biennial Survey of Education in Canada, found by a quoted book-corpus sweep and read in full text. Its standing YMCA entry carries the 1889 camping date in federal print from the 1938-40 survey and names Nelson McEwen in the national boys' work post. Written with the boilerplate caveat in the prose rather than in a footnote, because the entry is one claim reprinted, not three witnesses."
         }
       ],
       "ralph_loops_completed": 2,
@@ -11291,7 +11307,8 @@
         "f_4851",
         "f_4862",
         "f_4950",
-        "f_5249"
+        "f_5249",
+        "f_5356"
       ],
       "sources_cited": [
         "src_cache_sgw_ymca_annual_report_1894_1895",
@@ -11324,7 +11341,8 @@
         "src_ymf_sgw_ymca_annual_report_1984",
         "src_ymf_sgw_ymca_annual_report_1985",
         "src_ball_basic_camp_management_2012",
-        "src_ia_ymca_montreal_news_bulletin_19_03"
+        "src_ia_ymca_montreal_news_bulletin_19_03",
+        "src_dbs_biennial_survey_education"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -11337,7 +11355,7 @@
         "connections/related-camps/quebec-camp-landscape"
       ],
       "file_id": null,
-      "word_count": 8125
+      "word_count": 8476
     },
     {
       "article_id": "points-of-contact",

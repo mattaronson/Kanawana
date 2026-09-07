@@ -1,6 +1,6 @@
 # Nelson McEwen
 
-*Status: draft | Sources: 12*
+*Status: draft | Sources: 13*
 *Last Updated: 2026-09-06 (Saint John in 1918, a middle initial, and the only quotation of his own words)*
 
 ## Overview
@@ -22,6 +22,27 @@ The Camp Stephens alumni blog also credits McEwen as a co-founder of the Canadia
 **He was at Saint John a generation before he went back to run it.** The YMCA's own *Year Book and Official Rosters* for 1921 lists him in its Alphabetical List of Employed Officers as "**McEwen, N. F., St. John, N. B., Boys', 18**", and the list's printed legend says the figure is "the year of entry into Association work".^11 So he entered YMCA employed service in **1918**, as **Boys' Work Secretary at Saint John, New Brunswick** — and this article's account of him "leaving Montreal in 1947 to become General Secretary of the Saint John YMCA" is a **return**, not an arrival. It also gives the middle initial, **F.**, which this article did not have.
 
 **And an academic historian quotes him.** Christopher J. Greig's *Ontario Boys: Masculinity and the Idea of Boyhood in Postwar Ontario, 1945-1960* (Wilfrid Laurier University Press, 2014): "In 1945, Nelson McEwen, **national boys work secretary of the Canadian YMCA**, told members at a father-and-son banquet that boys 'needed the help of the experience of older men.' He further urged 'fathers to unite with their sons' in carrying out boys work programs."^12 That is the title this article has from YMCA-adjacent sources, given independently by a historian working from the period press, and it is the only quotation of McEwen's own words this project holds.
+
+**And the federal government had him in the post two surveys earlier.** The Dominion Bureau of
+Statistics' *Biennial Survey of Education in Canada* lists national organizations, and its YMCA entry
+names him: in the survey for **1938-40**, "Nelson McEwen on the National Council of Y.M.C.A. of
+Canada, **21 Dundas Street, Toronto**, is the **chief boys' work director**"; in those for **1943-44**
+and **1945-46**, "**21 Dundas Square** … **chief boys' work secretary**."^13 This article's evidence
+for the national office was a Concordia file covering 1941-45 and Greig's 1945 quotation; a federal
+statistical publication has him in it by the survey of 1938-40.
+
+*The caveat belongs with the fact rather than in a footnote.* That paragraph is **standing
+boilerplate**, reprinted survey after survey with only the address and the job title touched up, which
+is what an entry supplied once by an organization and lightly re-checked looks like. It attests his
+tenure only as far as the Bureau troubled to re-check — and the sole evidence that they re-checked at
+all is precisely that the street became a square and the director became a secretary.^13
+
+*One line in the same run is a piece of his writing this project does not have.* The 1943-44 survey's
+index of periodical articles: "**McEwen, Nelson.—Y.M.C.A. Boys work as it relates to schools.
+N.H.S.B. March, 4-5.**" The abbreviation is not expanded anywhere in the scan; every other N.H.S.B.
+citation in that index is on home-and-school subjects, so it is probably the *National Home and School
+Bulletin*, **which is a guess from neighbouring entries and is not asserted here**. No year is given
+beyond the survey's own span.^13
 
 ## Later Career and Death (1947–1956)
 
@@ -62,6 +83,7 @@ Doug McEwen served as director of Camp Stephens from 1966 to 1970 and as Preside
 10. Canadian Camps Association, "Our History"; Trent University Archives CCA fonds (Doug McEwen / Camp Wa-Sa-Ah-Dun) [src_cca_history].
 11. *YMCA Year Book and Official Rosters* (New York: Association Press, 1921), "Alphabetical List of Employed Officers, June 1, 1921" [src_ymca_year_book_official_rosters_1921]. **Not lending-restricted**: the full djvu text was downloaded and searched 2026-09-06. See [f_4965].
 12. Christopher J. Greig, *Ontario Boys: Masculinity and the Idea of Boyhood in Postwar Ontario, 1945-1960* (Waterloo: Wilfrid Laurier University Press, 2014), Internet Archive scan leaf 218 [src_greig_ontario_boys_2014]. **One passage only**, reconstructed 2026-09-06 from eight overlapping Open Library search-inside queries; the book is lending-restricted, page images return HTTP 403, and it has not been read. See [f_4963].
+13. Canada, Department of Trade and Commerce, Dominion Bureau of Statistics, *Elementary and Secondary Education in Canada*, being Part I of the *Biennial Survey of Education in Canada* [src_dbs_biennial_survey_education], the surveys for **1938-40**, **1943-44** and **1945-46**. Internet Archive item `31761119680775`, full text downloaded; the item binds at least twelve surveys and each occurrence is placed by the interior title page above it. The YMCA entry is standing boilerplate, reprinted with small edits, and is read as such. See [f_5357].
 
 ## Research Notes
 

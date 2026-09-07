@@ -1,8 +1,8 @@
 {
-  "version": "9.35",
-  "kb_version": "9.35",
+  "version": "9.36",
+  "kb_version": "9.36",
   "migrated_from": "3.3",
-  "fact_count": 5317,
+  "fact_count": 5319,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -95937,6 +95937,42 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.35",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5356",
+      "category": "camping_movement",
+      "date_ref": "1938-1946",
+      "entities": [
+        "Dominion Bureau of Statistics",
+        "YMCA of Canada",
+        "Nelson McEwen",
+        "Chance Harbour"
+      ],
+      "claim": "THE FEDERAL GOVERNMENT PRINTED THE 1889 DATE, IN A SURVEY OF SCHOOLING, FOUR YEARS BEFORE MONTREAL'S OWN NEWS BULLETIN DID. The Dominion Bureau of Statistics' Biennial Survey of Education in Canada carries, among its national organizations: 'Young Men's Christian Association of Canada.--First organized in Canada in 1851, have two active boys' programmes in co-operation with schools, namely, Hi-Y clubs for older high school boys and Gra-Y clubs for younger boys in public or grade schools. THE Y.M.C.A. HAS CONDUCTED ORGANIZED BOYS' CAMPS SINCE 1889 and is particularly concerned with THE EDUCATIONAL ASPECTS OF CAMPING. Nelson McEwen on the National Council of Y.M.C.A. of Canada, 21 Dundas Street, Toronto, is the chief boys' work director.' It appears in the surveys for 1938-40, 1943-44 and 1945-46. HOW MUCH WEIGHT IT BEARS IS LESS THAN IT LOOKS: this is STANDING BOILERPLATE reprinted with only an address and a job title touched up ('Street' becomes 'Square', 'director' becomes 'secretary'), which is what an entry supplied once by the organization looks like -- so it is ONE claim printed three times, not three witnesses, and its text almost certainly came from the YMCA. WHAT IT IS GOOD FOR IS THAT IT IS NOT A YMCA DOCUMENT: this project's evidence for 1889 at Chance Harbour is internal, the Montreal association's News Bulletin of May 1944 and the 1989 centenary, and here the claim stands in a federal statistical publication tabled by a minister of the Crown and printed in 1940.",
+      "sources": [
+        "src_dbs_biennial_survey_education"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5357",
+      "category": "people",
+      "date_ref": "1938-1946",
+      "entities": [
+        "Nelson McEwen",
+        "National Council of YMCAs of Canada"
+      ],
+      "claim": "McEWEN'S NATIONAL OFFICE IS ATTESTED FROM THE 1938-40 SURVEY, EARLIER THAN ANY SOURCE THIS PROJECT HELD. His article gives the post from a Concordia file covering 1941-45 and from a historian's quotation of 1945; the Dominion Bureau of Statistics has him in it already in the survey for 1938-40, as 'the chief boys' work director' of the National Council at 21 Dundas Street, Toronto, and again in 1943-44 and 1945-46 as 'chief boys' work secretary' at 21 Dundas Square. THE CAVEAT BELONGS WITH THE FACT: the entry is boilerplate reprinted survey after survey, so it attests his tenure only as far as the Bureau re-checked it -- and the evidence that they re-checked at all is precisely that the street became a square and the director became a secretary. THE SAME BOUND RUN ALSO INDEXES AN ARTICLE OF HIS THIS PROJECT DOES NOT HOLD: 'McEwen, Nelson.--Y.M.C.A. Boys work as it relates to schools. N.H.S.B. March, 4-5', in the 1943-44 survey's index of periodical articles. N.H.S.B. is not expanded anywhere in the scan; every other N.H.S.B. citation there is on home-and-school subjects, so it is probably the National Home and School Bulletin, WHICH IS AN INFERENCE FROM NEIGHBOURING INDEX ENTRIES AND IS NOT ASSERTED.",
+      "sources": [
+        "src_dbs_biennial_survey_education"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.36",
       "added_by": "ralph_loop"
     }
   ]

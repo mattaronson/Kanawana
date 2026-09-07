@@ -1,6 +1,6 @@
 # Is Kanawana the Oldest Camp in Canada?
 
-*Status: draft | Sources: 25*
+*Status: draft | Sources: 26*
 *Last Updated: 2026-09-07 (the association conceded Canadian primacy in 1944, not only in 1989)*
 
 ## Overview
@@ -187,6 +187,25 @@ celebrate it. Whatever this article concludes, the camp's own association has al
 point once, in writing.
 
 **And it had conceded it forty-five years earlier, in flatter terms.** The association's own *News Bulletin* for **May 1944** prints a list of YMCA firsts, one of which reads: "The first organized boys' camping in North America was begun in the state of New York, and **the first organized camp in Canada was conducted in 1889 at Chance Harbour, Nova Scotia**."^25 That matters because of what it is not. The 1989 endorsement can be read as courtesy toward a centenary host, and the other Chance Harbour source this project holds hedges — "so far as we can discover." **The 1944 statement does neither.** It is a flat assertion in a list of institutional firsts, printed by Kanawana's own association in the camp's fiftieth year, at a moment when nobody in Nova Scotia was celebrating anything. *It is not evidence about 1889*; a bulletin of 1944 is evidence of what the Montreal association believed and published. But it means the concession is a settled institutional position of long standing rather than a one-off.
+
+**And the claim was in federal print before the association printed it.** The Dominion Bureau of
+Statistics' *Biennial Survey of Education in Canada* carries a standing entry among its national
+organizations: "Young Men's Christian Association of Canada.—First organized in Canada in 1851 …
+**The Y.M.C.A. has conducted organized boys' camps since 1889** and is particularly concerned with
+**the educational aspects of camping**." It is there in the survey for **1938-40**, printed at Ottawa
+by the King's Printer, and again in those for 1943-44 and 1945-46 — so the 1889 date was in a federal
+statistical publication four years before the *News Bulletin* list of 1944.^26
+
+*What that is worth, stated carefully.* It is **not** an independent witness. The paragraph is
+standing boilerplate, reprinted survey after survey with only an address and a job title amended
+("21 Dundas Street" becomes "21 Dundas Square"; "chief boys' work director" becomes "secretary"),
+which is exactly what an entry supplied once by the organization itself looks like. **The text almost
+certainly came from the YMCA.** What changes is only the venue: this project's evidence for 1889 at
+Chance Harbour has been the Montreal association's own bulletin and the 1989 centenary, and this puts
+the same claim in a document tabled by a minister of the Crown. **A different kind of record, not a
+different source.** It also shows the association giving that date to outsiders, in a survey of
+schooling, in the years Kanawana was running — which is a small thing but not nothing, since a claim
+an organization makes to a statistics bureau is one it expects to be checked.^26
 
 The same list gives Montreal a primacy of its own that this wiki did not have: "**the first organized boys' work in Canada was begun by the Montreal and Toronto Y.M.C.A.'s in 1873**" — shared, and twenty-one years before the camp.^25
 
@@ -580,3 +599,4 @@ across the country, and the century that closed its own sibling camp on the orig
 23. YMCA of Montreal annual reports for the years ended **31 May** 1984 and 1985 [src_ymf_sgw_ymca_annual_report_1984, src_ymf_sgw_ymca_annual_report_1985]. See [f_5047]. Their camping seasons are the summers of 1983 and 1984. **[Corrected 2026-09-06:** this note previously read "for the years ending March 1984 and March 1985" and cited [f_5039], the 31 March rule. The seasons are unchanged and still right, but the reason was wrong: the association's year-end was 31 March only through 1950, then 31 December, and by the mid-1960s **31 May**. The 1984 report's own title page reads "for the year ended May 31, 1984," and a June-to-May year contains the earlier summer. See [f_5081]; every other post-1950 season attribution is being audited under p_450.**]**
 24. Armand B. Ball, *Basic Camp Management: An Introduction to Camp Administration* (Monterey, CA: Healthy Learning, 2012), "An American Camp Association book", Internet Archive scan leaf 436 [src_ball_basic_camp_management_2012]. **One sentence only**, reconstructed from seven overlapping Open Library search-inside queries; lending-restricted, page images return HTTP 403, not read. Weighed at length in [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]. See [f_4950].
 25. "YMCA firsts" list, *The News Bulletin* Vol. 19 No. 3 (May 1944), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_19_03]. Internet Archive item `the-news-bulletin-vol-19-no-03`, in the `ymca-montreal-fonds` collection. Found 2026-09-07 by the enumeration at [f_5243]. See [f_5249].
+26. Canada, Department of Trade and Commerce, Dominion Bureau of Statistics, *Elementary and Secondary Education in Canada*, being Part I of the *Biennial Survey of Education in Canada* [src_dbs_biennial_survey_education], the surveys for **1938-40**, **1943-44** and **1945-46**, printed at Ottawa by the King's Printer. Internet Archive item `31761119680775`, full text downloaded 2026-09-07. The entry quoted is a standing one, reprinted across surveys with only an address and a job title amended, and is weighed as such. Set out with its variants at `sources/cache/government/2026-09-07-dbs-biennial-survey-ymca-entry.txt`. See [f_5356].
