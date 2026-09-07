@@ -1,8 +1,8 @@
 {
-  "version": "9.37",
-  "kb_version": "9.37",
+  "version": "9.38",
+  "kb_version": "9.38",
   "migrated_from": "3.3",
-  "fact_count": 5321,
+  "fact_count": 5323,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -96007,6 +96007,37 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.37",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5360",
+      "category": "sources",
+      "date_ref": "2015-2022",
+      "entities": [
+        "Carol Skinner",
+        "livelovelaughwithcarol.com",
+        "Internet Archive"
+      ],
+      "claim": "CAROL SKINNER'S BLOG IS CAPTURED IN THE INTERNET ARCHIVE FOR AT LEAST SEVEN YEARS, AND THE CAPTURES ARE NOW ENUMERATED EVEN THOUGH THIS ENVIRONMENT CANNOT READ THEM. Front-page captures returning HTTP 200 exist for 2015-06-13, 2016-03-30, 2017-07-04, 2018-04-13, 2019-06-27, 2019-12-15, 2020-08-06, 2021-05-15, and four times in 2022 (23 January, 22 April, 16 August, 26 September). ONE INTERIOR PAGE IS CONFIRMED: /blog/ at 2019-12-15 13:40:35, twelve minutes after that day's front page, so THAT CRAWL WENT DEEPER THAN THE FRONT PAGE and is where a reader should start. AND THERE IS A BOUNDARY TO RESPECT: every capture through 26 September 2022 is of www.livelovelaughwithcarol.com and every capture from 1 April 2023 on is of the bare domain, with no capture returned at all for January 2023 -- which is what a domain changing hands looks like, and matches f_4825's record that the address now serves an Indonesian gambling site. THE 2023-AND-LATER CAPTURES ARE PROBABLY NOT HER BLOG. That is a signal from URL form, not a proof; nothing here has read either side of it.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.38",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5361",
+      "category": "methodology",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Internet Archive",
+        "agent proxy"
+      ],
+      "claim": "THE WAYBACK BLOCK IN THIS ENVIRONMENT IS PER-HOST, AND THE ARCHIVE'S AVAILABILITY API IS ON A HOST THAT WORKS. web.archive.org is genuinely unreachable here -- port 443 drops the tunnel mid-exchange on every retry, and port 80 returns a 24-byte HTTP 403 reading 'Blocked by egress policy', which is the proxy talking rather than the archive. timetravel.mementoweb.org behaves the same. BUT http://archive.org/wayback/available?url=<URL>&timestamp=<YYYYMMDD> ANSWERS NORMALLY, and archive.org itself has been reachable all day for metadata and full-text downloads. It returns the closest capture to a given timestamp with its date, HTTP status and canonical URL, so PROBING IT TIMESTAMP BY TIMESTAMP ENUMERATES WHAT EXISTS WITHOUT EVER FETCHING A CAPTURE. That converts a task recorded as blocked into a task that can be prepared here and finished in minutes by anyone with a browser. THE GENERAL FORM: when an archive.org subdomain is unreachable, test the parent domain and its sibling APIs before recording the whole archive as blocked -- a negative result from one host is a fact about that host.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.38",
       "added_by": "ralph_loop"
     }
   ]

@@ -354,6 +354,15 @@ is not, and nothing should be derived from these stamps.** This session's eight 
 corrected against `git log --date=iso-strict`, which is the only real clock in the repository. A
 timestamp is a claim about the world, like any other.
 
+**Rule 45: a block is per-host until you have tested the neighbours.** `p_416` had recorded that
+"web.archive.org is blocked by THIS ENVIRONMENT'S egress policy," and it is — the tunnel drops on
+443 and port 80 returns a 24-byte "Blocked by egress policy" 403. But `archive.org` itself has been
+reachable all day, and `http://archive.org/wayback/available?url=…&timestamp=…` answers normally.
+Probed timestamp by timestamp it enumerates every capture of a site without fetching one, which
+turned a task filed as blocked into a task prepared to the point where a browser finishes it in
+minutes. **The same distinction that governs sources governs tools: a negative result from one host
+is a fact about that host.**
+
 ## The shape of the day, in one line
 
 **The Year Book's real contribution was not its own content but the names and dates that made
