@@ -696,3 +696,33 @@ about this series, nearly all of them saying "volume", and "VOLUME" CROSSED THE 
 broke two citations in canoe-trips.md and camp-perrot.md that had been passing on that one shared
 word. NEITHER ARTICLE WAS EDITED; the knowledge base moved under them. A citation resting on one
 ordinary shared word is fragile by construction. f_5309.
+
+
+==========================================================================================
+THIRTEENTH PASS — THE 1957-1968 NULL, TESTED THREE WAYS AFTER 37a
+==========================================================================================
+
+Rule 37a had just cost a wrong conclusion about Cross, so the session's other big null was
+re-tested rather than trusted.
+
+1. THE EXACT NAME. "Kanawana" -> 17 pages, 11 volumes, 1957 to 1968. As before.
+
+2. THE WILDCARD STEM. THE ENDPOINT SUPPORTS TRUNCATION: CISOSEARCHALL^Kanaw*^all^and works and
+   returns 386 pages across 69 volumes. EVERY SAMPLED ONE IS "KANAWHA" -- the West Virginia river
+   and county, and a common YMCA place name (Charleston sits on it). No OCR variant of the camp
+   turned up. ("Kanawana*" returns the same 17; "Kanawan" returns 0.)
+
+3. THE PLACE NAMES, since a camp can be listed by where it is rather than what it is called:
+     "Lac Wilson"    0 pages in the entire series
+     "Lake Wilson"   0
+     "Laurentian"    0
+     "Sauveur"       9 pages, ALL of them St. Sauveur de Montagut in the Ardeche, or a Henri
+                     Sauveur in Belgium. NOT ONE is Saint-Sauveur, Quebec.
+
+SO THE CAMP IS NOT IN THIS SERIES BEFORE 1957 UNDER ITS NAME, UNDER A PLAUSIBLE MANGLING OF ITS
+NAME, OR UNDER WHERE IT IS. The structural explanation stands and is the thing to record: the
+roster began listing camps as posts within a metropolitan board's staff in the late 1950s. The
+silence is about that practice, not about a camp that had been running sixty years by then.
+
+WORTH KEEPING FOR ITS OWN SAKE: THIS ENDPOINT DOES WILDCARDS. That is the tool rule 37a asks for
+when a name might be mangled, and it was not known here until now.

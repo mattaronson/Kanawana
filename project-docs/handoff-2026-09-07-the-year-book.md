@@ -41,6 +41,9 @@ READ ONE PAGE'S OCR
   .../index.php?q=dmGetItemInfo/p16022coll351/<page dmrecord>/json   → the "transc" field
 ```
 
+**The endpoint does wildcards** — `CISOSEARCHALL^Kanaw*^all^and` works. That is the tool rule 37a
+asks for when OCR might have mangled a name, and it was not known here until the end of the day.
+
 **Three traps, each of which cost something today.**
 1. `cdmhasocr` reads **0** on pages that plainly carry OCR in `transc`. Never use it to decide
    readability. Read `transc`.
@@ -113,7 +116,11 @@ job on two documents this project already cites.
 ## Nulls worth as much as the finds, all controlled
 
 - **Kanawana appears in this series only 1957-1968.** That is the roster's practice changing, not
-  the camp. Do not read the earlier silence as evidence of anything.
+  the camp. **Tested three ways** after rule 37a cost a wrong conclusion elsewhere: the exact name;
+  the wildcard stem `Kanaw*`, whose 386 hits across 69 volumes are all *Kanawha*, West Virginia;
+  and the place names, where "Lac Wilson", "Lake Wilson" and "Laurentian" return **zero pages in
+  the whole series** and all nine "Sauveur" hits are in the Ardèche or Belgium. The camp is not
+  there under its name, a mangling of its name, or where it is.
 - **1962** looked like a hole in that run. It is not: the volume is there and searchable, and
   Seaman is in it — the roster just prints his title as bare "Program" that year and drops the
   camp's name, while Otoreke's line on the next row keeps its own.

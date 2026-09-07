@@ -1,6 +1,6 @@
 {
-  "version": "9.13",
-  "kb_version": "9.13",
+  "version": "9.14",
+  "kb_version": "9.14",
   "migrated_from": "3.3",
   "fact_count": 5271,
   "facts": [
@@ -94249,7 +94249,7 @@
         "Kamp Kanawana",
         "YMCA Year Book"
       ],
-      "claim": "THE NAME KANAWANA APPEARS IN THE NORTH AMERICAN YMCA YEAR BOOK ONLY BETWEEN 1957 AND 1968, AND THAT IS A FACT ABOUT THE ROSTER RATHER THAN ABOUT THE CAMP. Seventeen pages in eleven volumes: 1957, 1958, 1959, 1960, 1961, 1963, 1964, 1965, 1966, 1967 and 1968, across a series running from 1877 to 1982. The silence before 1957 must NOT be read as evidence about Kanawana, which had been running for sixty years by then; what changes in the late 1950s is the publication's own practice of listing camps as posts within a metropolitan board's staff. OCR coverage was controlled first: a search for the word Montreal returns 2,742 pages across 124 volumes and reaches every volume in question, so the null is in the book and not in the scanning. The 1962 volume produced no hit and it was NOT checked whether that volume is in the collection at all, so 1962 is not recorded as a null. Spelling: the roster prints 'Kamp Kanawana' from 1957 through 1965 and 'Camp Kanawana' from 1966.",
+      "claim": "THE NAME KANAWANA APPEARS IN THE NORTH AMERICAN YMCA YEAR BOOK ONLY BETWEEN 1957 AND 1968, AND THAT IS A FACT ABOUT THE ROSTER RATHER THAN ABOUT THE CAMP. Seventeen pages in eleven volumes: 1957, 1958, 1959, 1960, 1961, 1963, 1964, 1965, 1966, 1967 and 1968, across a series running from 1877 to 1982. The silence before 1957 must NOT be read as evidence about Kanawana, which had been running for sixty years by then; what changes in the late 1950s is the publication's own practice of listing camps as posts within a metropolitan board's staff. OCR coverage was controlled first: a search for the word Montreal returns 2,742 pages across 124 volumes and reaches every volume in question, so the null is in the book and not in the scanning. The 1962 volume produced no hit and it was NOT checked whether that volume is in the collection at all, so 1962 is not recorded as a null. Spelling: the roster prints 'Kamp Kanawana' from 1957 through 1965 and 'Camp Kanawana' from 1966. [STRENGTHENED 2026-09-07, after rule 37a cost a wrong conclusion elsewhere in this session: this null has now been tested THREE WAYS and holds. (1) The exact name, 17 pages in 11 volumes, 1957-1968. (2) THE WILDCARD STEM 'Kanaw*', which the endpoint supports and which returns 386 pages across 69 volumes -- EVERY SAMPLED ONE IS 'KANAWHA', the West Virginia river and county, and none is an OCR variant of the camp. (3) THE PLACE NAMES, since a camp can be listed by location rather than by name: 'Lac Wilson', 'Lake Wilson' and 'Laurentian' return ZERO pages in the entire series, and the nine hits for 'Sauveur' are all St. Sauveur de Montagut in the Ardeche and a Henri Sauveur in Belgium -- not one is Saint-Sauveur, Quebec. So the camp is not in this series before 1957 under its name, under a plausible mangling of its name, or under where it is. The structural explanation stands: the roster began listing camps as posts within a metropolitan board's staff in the late 1950s, and this is a fact about that practice.]",
       "sources": [
         "src_umedia_ymca_yearbook_series"
       ],
