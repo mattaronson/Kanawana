@@ -29517,6 +29517,24 @@
       "notes": "Six pages fetched, extracted and read 2026-09-07 under p_489, and cached as ONE file with a header line per page giving that page's own URL, because they are six sides of one programme ladder and are always read together. The origin_url is the listing page they hang off; the per-page URLs are inside the cache file. Registered because these pages were being cited as 'YMCA Quebec, Summer Camp Kanawana: Programs' through the catch-all src_ymca_website. See f_5614.",
       "read_state": "read",
       "read_state_basis": "direct:fetched-extracted-and-read-2026-09-07"
+    },
+    {
+      "source_id": "src_ymcaq_kanawana_lodging_rental_2026",
+      "type": "web",
+      "title": "Camp YMCA Kanawana — \"Lodging & Equipment Rental\", the full off-season tariff, ymcaquebec.org, as at September 2026",
+      "date": "2026-09-07",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://www.ymcaquebec.org/en/summer-camp-kanawana/lodging-equipment-rental",
+      "cache_path": "sources/cache/web-pages/ymcaquebec-kanawana-lodging-equipment-rental-2026.txt",
+      "char_count": 8760,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v10.24",
+      "reliability": "primary",
+      "notes": "Fetched, extracted and read 2026-09-07 under p_489. This is a DIFFERENT PAGE from the 'Groups & Rentals' one cited as footnote 19 in site/the-kanawana-site.md, and it carries prices that one does not. It also disagrees with it on site capacity (160 against 250) -- see f_5615, where the disagreement is recorded rather than resolved. The page carries a visible broken-link marker, '[ananas broken link]', between the building-rental and equipment-rental blocks.",
+      "read_state": "read",
+      "read_state_basis": "direct:fetched-extracted-and-read-2026-09-07"
     }
   ],
   "source_count": 1757

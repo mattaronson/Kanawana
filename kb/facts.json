@@ -1,8 +1,8 @@
 {
-  "version": "10.24",
-  "kb_version": "10.24",
+  "version": "10.25",
+  "kb_version": "10.25",
   "migrated_from": "3.3",
-  "fact_count": 5576,
+  "fact_count": 5577,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100454,6 +100454,24 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5615",
+      "category": "operations",
+      "date_ref": "2026",
+      "entities": [
+        "Camp Kanawana",
+        "Rose des Vents Pavilion",
+        "Lake Wilson"
+      ],
+      "claim": "WHAT KANAWANA COSTS OUT OF SEASON, PRICED LINE BY LINE, 2026. site/the-kanawana-site.md already describes the camp's five seasonal rental windows from the 'Groups & Rentals' page. A DIFFERENT PAGE, 'Lodging & Equipment Rental', carries the TARIFF, and this project held none of it. All prices before tax, all options available 21 May to 23 June and 20 August to 14 October, reservations required. LODGING: CABINS WITH ELECTRICITY, $118.45 per cabin per night, maximum 12 people, 'in the Woodsy and Pioneers sections', heat and electricity 'depending on the time of year'. PROSPECTOR TENTS, $56.65 per tent per night, maximum 10, 'built on a wood platform and with a canvas tarp'. NATURE CAMPING ON LAKE WILSON, $24.21 per person per night, maximum 20 per site, each site 'equipped with a prospector tent and a fire pit' -- the camp sells its own overnight-camping sites, and describes Lake Wilson as offering 'a certain amount of solitude compared to the more bustling nature of our main site'. ROSE DES VENTS PAVILION, $200.85 low season and $283.25 high season per night: three bedrooms, sleeps six, common areas for sixteen, a kitchen with dishes and pots, A WOOD-BURNING STOVE, and available 15 October to 20 May as an unheated shelter with no running water. EXCLUSIVE RENTAL OF THE WHOLE SITE: $5,150.00 PER NIGHT, maximum 160 people, including 12 electric cabins, 14 prospector tents, 3 pavilion rooms, TWO STAFF for coordination and maintenance, and access to every common building -- cafeteria, gymnasium (Katimavik), arts and crafts pavilion, BEACH LODGE and nature nook -- excluding the industrial kitchen. The page offers it for 'weddings, colloqiums, jamboreers'. SINGLE BUILDINGS: the A&C Lodge, the Beach Lodge and the Katimavik at $180.25 per night each. BOATS, per boat per day: paddleboard $18.54 half / $28.12 full; flatwater canoe $23.69 / $43.78; flatwater kayak $18.54 / $28.12; paddles and life jackets included. FOOD, per meal per guest, groups of 75 or more only and three meals a day required: breakfast $12.36, lunch $15.45, dinner $18.54, snack $2.32, and CHILDREN 0-4 FREE; vegetarian, vegan, gluten-free 'not adapted to people with celiac disease' and lactose-free available. ONE DISAGREEMENT, RECORDED NOT RESOLVED: this page gives the site's maximum capacity as 160 PEOPLE, while the Groups & Rentals page behind the-kanawana-site.md's seasonal table gives the spring full-camp package as '6-250 persons'. Both are the camp's own current pages. The 160 figure is attached to a specific inventory (12 cabins, 14 tents, 3 rooms) and the 250 is not, which is a reason to prefer it but not proof. AND A PRODUCTION ARTIFACT, the second this project has found on a live YMCA Quebec document (see f_2319 for the unremoved designer's instruction in the 2026 parent guide): the page prints the literal text '[ananas broken link]' between the building-rental and equipment-rental blocks.",
+      "sources": [
+        "src_ymcaq_kanawana_lodging_rental_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.25",
       "added_by": "ralph_loop"
     }
   ]

@@ -1,7 +1,7 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 64*
-*Last Updated: 2026-09-07 (the 1936 CFCF script: the Juvenile cabins dated, and the site described building by building)*
+*Status: E1-reviewed | Sources: 65*
+*Last Updated: 2026-09-07 (the 1936 CFCF script; and what the site costs to rent in 2026)*
 
 ## Overview
 
@@ -362,6 +362,35 @@ The Farmhouse and Blockhouse in Front Camp are winterized facilities.^9 Lake Wil
 
 The Concordia Archives hold records of a winter ski camp at Kanawana from 1945 to 1947, documenting the camp's earliest known winter use.^13
 
+### What it costs, 2026
+
+A second rental page, distinct from the one behind the table above, carries the tariff.^65 All prices are
+before tax; every option runs 21 May to 23 June and 20 August to 14 October, by reservation.
+
+| | Price |
+|---|---|
+| Cabin with electricity (max 12; in the Woodsy and Pioneers sections) | **$118.45** per cabin per night |
+| Prospector tent (max 10; wood platform, canvas tarp) | **$56.65** per tent per night |
+| Nature camping on Lake Wilson (max 20 per site; prospector tent and fire pit) | **$24.21** per person per night |
+| Rose des Vents Pavilion (3 bedrooms, sleeps 6, common areas for 16, wood stove) | **$200.85** low season, **$283.25** high |
+| **Exclusive rental of the whole site** (max 160; 12 cabins, 14 tents, 3 pavilion rooms, two staff) | **$5,150.00** per night |
+| A single building — the A&C Lodge, the Beach Lodge, or the Katimavik | **$180.25** per night each |
+| Paddleboard / flatwater canoe / flatwater kayak | **$18.54** / **$23.69** / **$18.54** half day; **$28.12** / **$43.78** / **$28.12** full |
+| Meals, groups of 75+ only, three a day required | breakfast **$12.36**, lunch **$15.45**, dinner **$18.54**, snack **$2.32**, under-fives free |
+
+The exclusive-site package throws in "coordination and maintenance services (two staff members)" and access
+to every common building except the industrial kitchen, and the page offers it for "weddings, colloqiums,
+jamboreers." The Lake Wilson sites are sold on their solitude — "a certain amount of solitude compared to
+the more bustling nature of our main site" — which is the camp selling the same distinction its own
+overnight programme trades on.
+
+**One figure disagrees with the table above.** This page gives the site's maximum capacity as **160 people**;
+the Groups & Rentals page behind the seasonal windows gives the spring full-camp package as **6–250
+persons**. Both are the camp's own current pages. The 160 is attached to a specific inventory — twelve
+cabins, fourteen tents, three pavilion rooms — and the 250 is not, which is a reason to prefer it and not a
+proof. Recorded, not resolved.
+
+
 ## Environmental Character
 
 The camp's 550 acres of Laurentian forest and three private lakes provide the setting for environmental education and conservation programming. The YMCA positions Kanawana as "Quebec's environmental education leader"^21 and emphasizes stewardship values, with youth participating in community-based conservation projects implemented throughout the year.^1 ^7
@@ -508,6 +537,7 @@ them on every line and by tenfold on revenue.
 62. Kamp Kanawana counsellor recruitment advertisement, *The McGill Daily* Vol. 78 No. 83, 20 February 1989 [src_mcgill_daily_1989_02_20]: "on 1200 acres of land and three private lakes." Transcribed at `sources/cache/mcgill/2026-09-07-kanawana-ad-1989-and-perrot-doctors-1948.txt`. See [f_5429].
 63. YMCA of Montreal Annual Report **1920** [src_ymf_sgw_ymca_annual_report_1920], the association's asset schedule. Cached at `sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-1920.txt`; the Kanawana entries read word for word 2026-09-07 under p_482, the rest of the volume not read.
 64. "Kamp Kanawana Broadcast — Station CFCF," 1936 script [src_ymf_1936_kamp_kanawana_broadcast_station_cfcf]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/1936-kamp-kanawana-broadcast-station-cfcf.txt`, 13,201 characters. The earliest surviving CFCF text; read word for word 2026-09-07 under p_487. See [f_5003] and [f_5605].
+65. Camp YMCA Kanawana, "Lodging & Equipment Rental" [src_ymcaq_kanawana_lodging_rental_2026], https://www.ymcaquebec.org/en/summer-camp-kanawana/lodging-equipment-rental, read 2026-09-07; cached at `sources/cache/web-pages/ymcaquebec-kanawana-lodging-equipment-rental-2026.txt`. **A different page from the Groups & Rentals one at note 19**, and the one that carries prices. See [f_5615].
 
 ## Research Notes
 
