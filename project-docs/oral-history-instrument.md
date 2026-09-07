@@ -207,14 +207,23 @@ left traces in camp talk a decade later.
 
 ## Section 10 . The Pip Alumni Award and the Alumni Record *(rewritten, and now urgent)*
 
-**Status: the source has disappeared.** Most of what this project knows about the Pip Alumni Award, the
-Stuart McLean fund and the 2014 reunion came from pages of the YMCA Quebec website that **no longer
-exist**. The site was rebuilt around late 2025 and the current alumni page is about volunteer recognition.
+**Status: the source has disappeared, but less of it than I first told you.** *(Corrected 2026-09-07.)*
+The award itself is well documented here — a year-by-year table from 2007 to 2026, with three ordinals
+from the association's own releases fixing the count. What has gone are the pages behind the wider alumni
+record: the Stuart McLean fund, the 2014 reunion, and the biographical detail on several recipients came
+from YMCA Quebec pages that **no longer exist**. The site was rebuilt around late 2025 and the current alumni page is about volunteer recognition.
 Twenty-five facts here now rest on a citation that names a domain rather than a document, and the archived
 copies cannot be read from this environment.
 
-1. **Who received the Pip Award in 2019, 2020, 2021, 2022 and 2023?** The 2019 recipient is a "Dr." on
-   Andrew Caddell's LinkedIn and nothing else is known.
+1. **Which single Pip Award recipient is missing from 2020–2023, and which two of those years had no
+   award at all?** *(Corrected 2026-09-07. This question first read "who received the award in 2019,
+   2020, 2021, 2022 and 2023", which was wrong: I checked a knowledge-base fact listing four recipients
+   instead of reading [[traditions/pip-alumni-award|the article]], which carries a full year-by-year
+   table from 2007 to 2026.* **Dr. Amy Ornstein** has 2019 and **Dr. Karl Cernovich** has one of
+   2020–2023.) Three ordinals in the association's own releases — Mosher "the eighth" in 2015, Orbinski
+   "the 15th" in 2024, MacSween "the 17th" in 2026 — fix the arithmetic: exactly three awards were given
+   across 2019–2023 and two of those years had none. So one name is missing and two years are blank, and
+   we do not know which is which.
 2. The award paddles and your own roster disagree twice: **Oscar or Oskar Newsam** for 2008, and the 2009
    name. Which is right?
 3. Can you reach **Andrew Caddell**, who sponsors the award?

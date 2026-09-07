@@ -1,8 +1,8 @@
 {
-  "version": "11.07",
-  "kb_version": "11.07",
+  "version": "11.08",
+  "kb_version": "11.08",
   "migrated_from": "3.3",
-  "fact_count": 5684,
+  "fact_count": 5686,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102518,6 +102518,40 @@
       "date_ref": "2026-09-07",
       "conflicts_with": [],
       "added_version": "11.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5723",
+      "claim": "p_451'S RANKING PRODUCES A MUCH SHORTER READING LIST THAN THE PRIORITY IMPLIES, AND THE REASON IS NOT THAT THE DOCUMENTS WERE READ. p_451 asks for the 635 records marked 'extracted' by inference to be counted by how many facts genuinely draw on them, ranked by expected yield, and re-read from the bottom. MEASURED 2026-09-07: 546 records now carry a derived read_state_basis. By citation count they run 3 cited by nothing, 260 by one fact, 92 by two, 90 by three to five, 79 by six to fifteen and 22 by sixteen or more. THE LOW-YIELD TAIL IS 263 RECORDS AND 256 OF THEM HAVE NO CACHE_PATH AT ALL. Seven have a cached file, and only one of those seven mentions Kanawana. So the tail cannot be re-read from the bottom, because for 256 of them THERE IS NOTHING HERE TO RE-READ. The defect in that tail is not an unread document but an UNVERIFIABLE CLAIM: a record asserting 'extracted' about a document this project does not hold, where nothing can test the assertion in either direction. That is a different problem from the one p_451 describes and it cannot be fixed by reading. ACROSS ALL 546, only 36 have a cached text over 1,500 characters that mentions Kanawana, and 487 have no readable cached file. THE REAL READING LIST IS THOSE 36, LOWEST-CITED FIRST, and it is worth naming its head because two entries dwarf the rest: src_newspapers_gazette_1918 at 753,972 characters cited by five facts, and src_newspapers_com_gazette at 533,290 characters cited by six. Over a million characters of Montreal newspaper text carrying the camp's name, drawn on eleven times. Then src_lapresse_ymca_2018 (280,799, cited three), src_kk_prep_guide_2025 (73,926, cited nine), src_ymca_120th (70,816, cited three) and the two Pip newsroom pages (63,177 and 61,290, cited eight each). TESTED IMMEDIATELY ON THE TWO PIP PAGES AND THE RANKING WAS RIGHT: both had been cached and cited for eight facts each without the ordinal sentences in them being used, and the 2015 page's 'Mosher is the eighth person to receive the award' is a third fixed point in a count the wiki had been running on two (f_5724).",
+      "sources": [],
+      "confidence": "inferred",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026-09-07",
+      "conflicts_with": [],
+      "added_version": "11.08",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5724",
+      "claim": "A THIRD ORDINAL FOR THE PIP AWARD, AND A COUNT THIS WIKI HAD ONE DIGIT WRONG. The YMCA Quebec newsroom page of 3 AUGUST 2015 says Terry Mosher 'is the EIGHTH PERSON to receive the award'. pip-alumni-award.md had been running its arithmetic on two ordinals, Orbinski 'the 15th' in 2024 and MacSween 'the 17th' in 2026. COUNTING THE ARTICLE'S OWN TABLE THROUGH 2015 GIVES EXACTLY EIGHT RECIPIENTS, and only if 2010 had no award -- so the blank row the table carries for 2010, previously an inference from a gap in the newsroom, is now corroborated from outside the table. IT ALSO EXPOSES AN ARITHMETIC SLIP THAT DID NOT PROPAGATE: the article's open question 2 read 'with 12 documented through 2018', where the table and the new ordinal both give ELEVEN. The conclusion built on it -- three awards across 2019-2023 with two years having none -- happens to be right anyway, and is now stated from a count that holds. THE 2024 PAGE ADDS A FOUNDING DATE IN THE ASSOCIATION'S OWN WORDS: 'Created in 2007'. AND IT MISSPELLS ITS OWN RECIPIENT, giving 'Dr. James Orbinsky' twice in a body headed 'Dr. James Orbinski'. WHERE THESE CAME FROM: both pages have been cached in this project and cited by eight facts each, with these sentences unused, and they surfaced under p_451's ranking of records marked extracted by inference (f_5723). The 2015 page also carries the award's eligibility definition and a list of previous recipients that the article already holds in full.",
+      "sources": [
+        "src_ymca_pip_mosher",
+        "src_ymca_quebec_pip_orbinski_2024"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Pip Alumni Award",
+        "Terry Mosher",
+        "James Orbinski",
+        "Philip Caddell"
+      ],
+      "date_ref": "2015-2024",
+      "conflicts_with": [],
+      "added_version": "11.08",
       "added_by": "ralph_loop"
     }
   ]

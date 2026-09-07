@@ -4276,7 +4276,9 @@
         "src_legacy_lazarus_obituary_2004",
         "src_oral_aronson",
         "src_ymca_quebec_pip_macsween_2026",
-        "src_mcgill_news_caddell"
+        "src_mcgill_news_caddell",
+        "src_ymca_pip_mosher",
+        "src_ymca_quebec_pip_orbinski_2024"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -4288,7 +4290,7 @@
         "traditions/order-of-owens"
       ],
       "file_id": null,
-      "word_count": 4329,
+      "word_count": 4548,
       "notes": "v4.75: Pip Caddell full genealogy (The Peerage). James Caddell biography expanded (CMAT memorial). Andrew Caddell career timeline. Tara Newell post-2005 career. Pip Award 2019-2023 exhausted. OQ3 resolved. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header (was listing raw source IDs). Body prose was already clean. No facts, citations, or open questions dropped; status unchanged. | 2026-08-14: cross-linked to the new traditions/order-of-owens.md.",
       "tags": {
         "era": [

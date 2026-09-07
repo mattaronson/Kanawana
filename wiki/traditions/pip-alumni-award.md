@@ -1,7 +1,7 @@
 # The Pip Alumni Award
 
-*Status: E1-reviewed | Sources: 26*
-*Last Updated: 2026-08-14*
+*Status: E1-reviewed | Sources: 27*
+*Last Updated: 2026-09-07 (a third ordinal, from a page cached since before this session)*
 
 ## Overview
 
@@ -57,7 +57,7 @@ Caddell died on October 16, 2005 in Tupiza, Bolivia, at age 32, of pulmonary ede
 | 2025 | Alexandra Olshefsky | Camper through 2002; **Ranger 2002**; **Knight of Kanawana 2002** | Public defender and community volunteer^23 |
 | 2026 | [[people/jared-macsween\|Jared MacSween]] | Camper 1982–86; staff 1987–91 | General Manager, YMCA Cedar Glen Outdoor Centre; Manager of Training, YMCA Ontario Regional Development Centre 2012–24; 20+ years in youth work — transitional housing in Toronto, a City of Montreal/YMCA youth drop-in centre, and YMCAs of Quebec camping programmes; BA Applied Human Science and Diploma in Social Studies, Concordia^23 |
 
-**The count, fixed by two ordinals.** YMCA Quebec calls Orbinski **the 15th recipient** (2024) and the 2026 release calls Jared MacSween **the 17th** — so the 16th falls in **2025**.^5 ^23 The release's list of previous recipients is *selective*: it omits Bruce Netherwood (2011) and Chris Adam (2017). But the names it does carry run in **chronological order**, which places **Karl Cernovich** between Amy Ornstein (2019) and James Orbinski (2024), and **Alexandra Olshefsky** after Orbinski — making Olshefsky the 16th, of 2025, and putting Cernovich in one of 2020–2023.
+**The count, fixed by three ordinals.** The 2015 release calls Terry Mosher **"the eighth person to receive the award"**, YMCA Quebec calls Orbinski **the 15th recipient** (2024), and the 2026 release calls Jared MacSween **the 17th** — so the 16th falls in **2025**.^5 ^23 ^27 **The 2015 ordinal is the one that anchors the early years**, and it was found on 2026-09-07 in a page this project had cached and cited for eight facts without using this sentence. Counting the table above through 2015 gives exactly eight recipients, which it does only if **2010 had no award** — so the blank row there is now corroborated from outside the table rather than inferred from a gap in the newsroom. The release's list of previous recipients is *selective*: it omits Bruce Netherwood (2011) and Chris Adam (2017). But the names it does carry run in **chronological order**, which places **Karl Cernovich** between Amy Ornstein (2019) and James Orbinski (2024), and **Alexandra Olshefsky** after Orbinski — making Olshefsky the 16th, of 2025, and putting Cernovich in one of 2020–2023.
 
 **One recipient was already on this wiki's walls.** Alexandra Olshefsky, named in the 2026 release as a past recipient, is documented on two photographed dining-hall plaques from the 2002 season: the **Rangers 2002** board, which names her among eight Rangers, and the **Order of the Knights of Kanawana** roll, which carries "Lady Ali Olshefsky" for 2002 [f_4815]. The operator, who was staff that year, confirms she was a camper through 2002 and was knighted that summer [f_4816]. **Checked against the twenty-nine-name Knights roll, hers is the only name that also appears among the sixteen known Pip recipients** — knighted as a camper for mastery inside the camp, and given the Pip more than twenty years later for what she carried out of it. It is the first time this project can follow a Knight of Kanawana past the gate [f_4818]. *(This article stated an hour earlier that she appeared nowhere else in the wiki or KB. That was false and unchecked; see [f_4808].)*
 
@@ -96,7 +96,7 @@ In his memory, the annual "Five-Hole Sam" street hockey jamboree ("SAM JAM"), or
 ## Open Questions
 
 1. [Important] **Which year did Karl Cernovich receive the award, and who is the one recipient still unaccounted for?** Cernovich falls in 2020–2023 on the release's ordering; the missing fourteenth is either a 2010 recipient or a second award in the 2020s [f_4809]. Also open: the Kanawana years of Ornstein, Cernovich and Olshefsky, none of which any source gives. **The route is the committee's own list** — sixty-odd queries failed on 2019 before it was closed by asking, and two further recipients were unknown to this project until the sponsor's release was handed over (`p_413`).
-2. ~~[Important] Were awards given in 2020, 2021, 2022, and/or 2023?~~ [Resolved] Orbinski = 15th recipient (2024). With 12 documented through 2018, exactly 3 awards were given in 2019–2023, and 2 years had no award (likely COVID years 2020 and 2021).
+2. ~~[Important] Were awards given in 2020, 2021, 2022, and/or 2023?~~ [Resolved; **arithmetic corrected 2026-09-07**] Orbinski = 15th recipient (2024). With **eleven** documented through 2018 — not twelve, as this line read until the 2015 "eighth person" ordinal fixed the early count — exactly 3 awards were given in 2019–2023, and 2 years had no award (likely COVID years 2020 and 2021).
 3. ~~[Nice-to-have] What are the exact dates and causes of Philip "Pip" Caddell's birth and death?~~ [Resolved] Born July 7, 1913 in Brantford, Ontario; died July 24, 2004 in Ottawa (age 91). Full genealogy via The Peerage database. No formal obituary located, but biographical details confirmed through multiple sources.
 4. [Nice-to-have] Is there a physical award object (plaque, trophy)?
 5. [Nice-to-have] What was James Caddell's specific role at camp — camper from 1983, counsellor from what year, through 1991?
@@ -139,6 +139,7 @@ In his memory, the annual "Five-Hole Sam" street hockey jamboree ("SAM JAM"), or
 24. Montreal Gazette, "A voice for those who don't have one", 20 September 2016 [src_gazette_skinner_als_2016]. **Not read** — PressReader returned HTTP 403; known only from search-result summaries. See [f_4821], [f_4822].
 25. Ottawa Citizen, "My dad's been my biggest hero my whole life", 16 June 2018 [src_ottawa_citizen_skinner_als_2018]. **Not read** — same block. Establishes that Carol Skinner was alive in June 2018. See [f_4821], [f_4822].
 26. James Caddell, "Traveling Out of the Comfort Zone", *McGill News* (alumni quarterly), **Fall 2004**, in two pages [src_mcgill_news_caddell]. Both fetched 2026-09-07 and read in full; quoted at `sources/cache/biographical/2026-09-07-caddell-mcgill-news-travelling.txt`. This project had the article recorded as a 404 — the cause was its own URL, truncated by two characters and a path segment. See [f_5364], [f_5365].
+27. YMCA Quebec newsroom, "Terry “Aislin” Mosher Receives YMCA Kanawana “Pip” Alumni Award", **3 August 2015** [src_ymca_pip_mosher], cached at `sources/cache/web-pages/ymca_pip_mosher.txt`; and "Dr. James Orbinski Receives the Camp YMCA Kanawana “Pip” Award", **25 July 2024** [src_ymca_quebec_pip_orbinski_2024], cached at `sources/cache/web-pages/ymca_pip_orbinski.txt`. **Both had been cached and cited for years without the ordinals in them being used**; read whole 2026-09-07 under `p_451`, which is the priority for source records marked extracted by inference rather than by reading. The 2015 page also carries the award's own definition of eligibility and its list of previous recipients; the 2024 page dates the award's creation to **2007**.
 
 ## Research Notes
 
