@@ -1,8 +1,8 @@
 {
-  "version": "10.72",
-  "kb_version": "10.72",
+  "version": "10.73",
+  "kb_version": "10.73",
   "migrated_from": "3.3",
-  "fact_count": 5635,
+  "fact_count": 5637,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101589,6 +101589,43 @@
       "date_ref": "1971",
       "conflicts_with": [],
       "added_version": "10.72",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5674",
+      "claim": "CAMP PERROT'S CAMPER WEEKS, 1948-1952, BY SEX -- EXTENDING A TABLE THIS PROJECT ALREADY HAD BY FOUR YEARS AND FILLING ITS ONE BLANK. The camp-perrot article carries a by-sex attendance table for 1945-1948 built from the association's annual reports, with the 1948 camper-week cell empty. The 1952 Camp Perrot annual report carries a STATISTICS block giving camper weeks as Boys, Girls and total for five consecutive seasons, and every column sums correctly. Boys: 358, 588, 635, 584, 589. Girls: 178, 189, 193, 203, 203. Totals: 536 (1948), 777 (1949), 828 (1950), 787 (1951), 792 (1952). The 1951 report prints the 1950 column identically -- 635 / 193 / 828 -- so that year has two independent printings. THE COLUMN READING IS CONFIRMED BY A DOCUMENT WITH NO CONNECTION TO THE TABLE: the existing article records 89 girls at a TWO-WEEK girls' session in 1948, from the association's annual report, and 89 times 2 is 178, the girls' camper-week figure here exactly. WHAT IS NOT NEW, AND IS NOT CLAIMED AS SUCH: that Perrot served girls in numbers long before Kanawana. The article already says the girls were a quarter to a third of every season's intake from the camp's second year, and already makes the comparison with Kanawana's 1968. It also correctly describes the arrangement as SEQUENTIAL SINGLE-SEX SESSIONS at one site -- a six-week boys' camp then a two- or three-week girls' camp -- not simultaneous coeducation. What these five years add is that the camp kept counting the two populations separately in its own statistics for at least five seasons, and the numbers. THE PROSE CORROBORATES THE TABLE AND DISAGREES WITH IT BY ONE. The 1950 report calls that season 'the highest record of attendance' -- and 828 is the peak of the series -- adding that 'throughout the camp season it was necessary to refuse applications due to the large attendance' and 'there were only two weeks that the camp did not operate over-capacity', all while 'the promotion budget was cut in half'. But it gives the figure IN WORDS as 'eight hundred and twenty-seven weeks' where both later tables give 828. A one-week disagreement between the camp's own prose and its own later tables, recorded rather than smoothed. The 'Number of Individual Campers' block on the same page is shredded past reconstruction and nothing from it is recorded.",
+      "sources": [
+        "src_ymf_1950_camp_perrot_annual_report",
+        "src_ymf_1951_camp_perrot_annual_report",
+        "src_ymf_1952_camp_perrot_annual_report"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Camp Perrot"
+      ],
+      "date_ref": "1948-1952",
+      "conflicts_with": [],
+      "added_version": "10.73",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5675",
+      "claim": "THE SHAPE OF CAMP PERROT'S DECLINE, FROM ITS OWN REPORTS READ AS A RUN. 1950 is the peak and the report knows it: highest attendance on record, applications refused, only two weeks not over capacity, on a halved promotion budget. 1951 has 'a near capacity registration throughout the entire EIGHT weeks'. 1954: 'In spite of poor camping weather, the Boys' Camp had a near capacity registration.' BY 1958 THE CAMP IS SMALLER IN THREE MEASURABLE WAYS AND THE REPORT SAYS SO IN ITS SECOND SENTENCE. 'It is unfortunate that the enrollment was down at Perrot this summer, for in every other way it was a most successful season.' The season is now SIX weeks of boys' camp, not eight. Tent units hold 'five or six campers, compared to the usual seven' -- and the report puts the best face on it, noting this 'greatly facilitated' the counsellor being 'with his campers at all times'. Of twenty-four staff, only seven were new to Perrot, so the staff was experienced and returning even as the campers thinned. THE SEQUENCE MATTERS MORE THAN ANY ONE REPORT: a camp at capacity in 1950 with its advertising cut in half, still near capacity in 1954, and by 1958 running a season two weeks shorter with tents a third empty. Camp Perrot's operating span ends shortly after.",
+      "sources": [
+        "src_ymf_1950_camp_perrot_annual_report",
+        "src_ymf_1951_camp_perrot_annual_report",
+        "src_ymf_1954_camp_perrot_annual_report",
+        "src_ymf_1958_camp_perrot_annual_report"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Camp Perrot"
+      ],
+      "date_ref": "1950-1958",
+      "conflicts_with": [],
+      "added_version": "10.73",
       "added_by": "ralph_loop"
     }
   ]

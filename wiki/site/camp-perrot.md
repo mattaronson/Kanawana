@@ -1,7 +1,7 @@
 # Camp Perrot
 
-*Status: E1-reviewed | Sources: 25*
-*Last Updated: 2026-09-07 (Preston Robb at Kanawana in 1932-33; and Gordon Mackey's route to Isle Perrot)*
+*Status: E1-reviewed | Sources: 26*
+*Last Updated: 2026-09-07 (camper weeks to 1952, and the shape of the decline)*
 
 ## Overview
 
@@ -89,7 +89,26 @@ Camp Perrot ran sequential single-sex sessions at the same site — a roughly si
 | 1945 (2nd) | 180 | 62 | two weeks | 242 | 480 |
 | 1946 (3rd) | 166 | 90 | three weeks | 256 | 572 |
 | 1947 (4th) | 185 | 73 *(see below)* | three weeks | 258 *(sum; the report gives only the two figures)* | 690 |
-| 1948 (5th) | 162 | 89 | two weeks | 251 | — |
+| 1948 (5th) | 162 | 89 | two weeks | 251 | **536** *(358 + 178)*^26 |
+| 1949 (6th) | — | — | — | — | **777** *(588 + 189)*^26 |
+| **1950 (7th)** | — | — | — | — | **828** *(635 + 193)* — **the peak**^26 |
+| 1951 (8th) | — | — | — | — | **787** *(584 + 203)*^26 |
+| 1952 (9th) | — | — | — | — | **792** *(589 + 203)*^26 |
+
+**The camper-week column now runs to 1952, from the camp's own statistics.** The 1952 Perrot report
+carries a STATISTICS block giving camper weeks as Boys, Girls and total for five consecutive seasons, and
+every column sums correctly; the 1951 report prints the 1950 column identically, so that year has two
+printings. **The reading is confirmed by a document with no connection to the table**: the 1948 row above
+already recorded 89 girls at a two-week session, from the association's annual report, and 89 × 2 is 178
+— the girls' camper-week figure exactly.^26
+
+**1950 is the peak, and the report knows it.** It calls that season "the highest record of attendance",
+adds that "throughout the camp season it was necessary to refuse applications due to the large
+attendance" and that "there were only two weeks that the camp did not operate over-capacity" — all while
+"the promotion budget was cut in half". It also gives the figure **in words** as "eight hundred and
+twenty-seven weeks" where both later tables give **828**. A one-week disagreement between the camp's own
+prose and its own later tables, recorded here rather than smoothed away. The "Number of Individual
+Campers" block on the same page is shredded past reconstruction and nothing from it is used.^26 [f_5674]
 
 Two things the table shows that the prose above does not. The girls' session was **not** a fixed two weeks: it ran two in 1945, three in 1946 and 1947, and two again in 1948, so the "roughly two-week Girls' Camp" is the modal case rather than the rule. And the girls were between a quarter and a third of every season's intake from the camp's second year on — this was a camp for boys and girls from the start of its documented run, ten years before Kanawana's own director first recommended coeducation and twenty-three before girls arrived here.
 
@@ -124,6 +143,26 @@ The **kitchen** was "designed on a functional basis": an 80-gallon jack-heater, 
 The phrase "the late" is the more consequential half. [[history/founding-1894|John W. Ross]] chaired the association's Summer Camp committee in the mid-1890s, sat on the Permanent Camp Committee, and was Association President from 1906 to 1909. This project has held no death date for him. A report covering the year to 31 March 1947 calling him "the late" puts his death before that date — a bracket, not a date, but the first one there is.
 
 Donald Cochrane's 1959 memo makes the Kanawana comparison explicit in his own words: campers who attended both camps "prefer Perrot — possibly due to the fact that we are more of a family than is Kanawana with its four sections and individual tent sites." He also frames Perrot as an informal training ground for future Kanawana counsellors, since Kanawana's newly raised counsellor minimum age (17) left 16-year-old Perrot "Rangers" available to counsel at Perrot first.^6
+
+## The shape of the decline, from the reports read as a run
+
+No single Perrot report says the camp is in trouble. The run does.
+
+**1950** is the peak, described above: at capacity, refusing applications, on half the advertising.
+**1951** reports "a near capacity registration throughout the entire **eight** weeks". **1954**: "In spite
+of poor camping weather, the Boys' Camp had a near capacity registration" — still the language of a full
+camp, four years on.
+
+**By 1958 the camp is smaller in three measurable ways, and its report says so in the second sentence.**
+"It is unfortunate that the enrollment was down at Perrot this summer, for in every other way it was a
+most successful season." The boys' season is now **six weeks, not eight**. Tent units hold "five or six
+campers, **compared to the usual seven**" — and the report puts the best face on that, noting it "greatly
+facilitated" the counsellor being "with his campers at all times". Of twenty-four staff, only seven were
+new to Perrot, so the staff was experienced and returning even as the campers thinned.^26
+
+The sequence matters more than any one report: a camp at capacity in 1950 with its advertising halved,
+still near capacity in 1954, and by 1958 running a season two weeks shorter with tents a third empty.
+Perrot's operating span ends shortly after. [f_5675]
 
 ## Connection to Kanawana
 
@@ -330,6 +369,7 @@ clearest single instance of it.
 23. *The Green Triangle*, Vol. 1 No. 1, **23 July 1932** — the first issue [src_ymf_the_green_triangle_1932_07_23]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-07-23.txt`. Held since 2026-08-25 at read_state "skimmed", read word for word 2026-09-07 under p_482, in the systematic issue-by-issue read the article's open question 2 asks for.
 24. *The Green Triangle*, **12 August 1933** and Vol. IV No. 2, **30 June 1935** [src_ymf_the_green_triangle_1933_08_12, src_ymf_the_green_triangle_1935_06_30]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 25. *The New YMCA Camp on Isle Perrot*, brochure, 1946 [src_ymf_1946_the_new_ymca_camp_on_isle_perrot_brochure]. Cached at `sources/cache/ymca-montreal-fonds/1946-the-new-ymca-camp-on-isle-perrot-brochure.txt`; read word for word 2026-09-07 under p_482.
+26. Camp Perrot's own annual reports for **1950** [src_ymf_1950_camp_perrot_annual_report], **1951** [src_ymf_1951_camp_perrot_annual_report], **1952** [src_ymf_1952_camp_perrot_annual_report], **1954** [src_ymf_1954_camp_perrot_annual_report] and **1958** [src_ymf_1958_camp_perrot_annual_report], cached in `sources/cache/ymca-montreal-fonds/`. Read as a run 2026-09-07 under `p_491`. The 1948-52 camper-week series and the 827/828 discrepancy are at [f_5674]; the shape of the decline at [f_5675].
 
 ## Research Notes
 
