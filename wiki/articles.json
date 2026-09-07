@@ -7912,6 +7912,13 @@
           "at": "2026-09-05T00:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-09-07",
+          "by": "auto",
+          "task": "WRITE",
+          "note": "The Indigenous Programming section spun out to connections/institutional-lineage/indian-lore-programming.md, leaving a summary and a link. The page is about the names and the land again, as its title says. Sources renumbered 36 -> 17; note 31 was already uncited before the cut and is kept rather than deleted."
         }
       ],
       "ralph_loops_completed": 1,
@@ -7937,9 +7944,13 @@
         "f_5251"
       ],
       "sources_cited": [
+        "src_ct_fiches_kanawana_2026",
+        "src_donneesquebec_bnlq_2026",
         "src_ia_canadian_camping_collection",
+        "src_ia_kanawana_history_1951",
+        "src_mironline_reconciliation_camps",
         "src_seton_book_of_woodcraft_1912",
-        "src_ia_ymca_montreal_news_bulletin_08_02"
+        "src_waaseyaa_camp_traditions_2023"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -7949,10 +7960,11 @@
         "camp-oolahwan",
         "harold-cross",
         "page-family",
-        "the-kanawana-site"
+        "the-kanawana-site",
+        "indian-lore-programming"
       ],
       "file_id": null,
-      "word_count": 8887,
+      "word_count": 2645,
       "tags": {
         "era": [],
         "region": "not-applicable",
@@ -11974,7 +11986,59 @@
       ],
       "file_id": null,
       "word_count": 1499
+    },
+    {
+      "article_id": "indian-lore-programming",
+      "title": "\"Indian Lore\" in Canadian Camping, and Where Kanawana's Came From",
+      "wiki_folder": "connections/institutional-lineage",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07",
+          "by": "auto",
+          "task": "WRITE",
+          "note": "Spun out of site/indigenous-names-and-land.md, where it was 5,791 words -- almost two-thirds of an article whose title is about place names and land, and mostly not about Kanawana at all. All three spinout criteria held: its own arc from about 1899 to 1987, at least five articles that want to link to it, and length. Nineteen notes moved with no note shared between the two sides; the parent's remaining seventeen were renumbered. Entered as draft although the parent was R3-verified, per the spinout rule: the prose was reviewed, the new article's structure, overview and open questions were not."
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [
+        "f_0248",
+        "f_0249",
+        "f_0250",
+        "f_0254",
+        "f_0339",
+        "f_0426",
+        "f_0530",
+        "f_0672",
+        "f_0689",
+        "f_0692",
+        "f_1516",
+        "f_1527",
+        "f_1557",
+        "f_1558",
+        "f_1559",
+        "f_4855",
+        "f_4857",
+        "f_5230",
+        "f_5251"
+      ],
+      "sources_cited": [
+        "src_ia_canadian_camping_collection",
+        "src_ia_ymca_montreal_news_bulletin_08_02"
+      ],
+      "open_questions": 6,
+      "cross_links": [
+        "indigenous-names-and-land",
+        "council-ring",
+        "canadian-camping-movement",
+        "taylor-statten",
+        "camp-oolahwan",
+        "myths-and-legends"
+      ],
+      "file_id": null,
+      "word_count": 7066
     }
   ],
-  "article_count": 119
+  "article_count": 120
 }
