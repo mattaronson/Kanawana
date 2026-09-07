@@ -367,8 +367,10 @@ to whom Wallace Forgie was related by marriage — was **the** National Boys' Wo
 direct working relationship, not a shared milieu.
 
 **And the obituary closes it, without the initials ever being needed.** J. Harry Ebbs's notice of him —
-"**Wallace Forgie, International Camper, 1883-1967**" — has been in this project's cache all along, and it
-narrates, in order, the exact career the roster gives:^20
+"**Wallace Forgie, International Camper, 1883-1967**" — was already read and extracted here; what this
+project never had was the other half, his **YMCA employment record**, and so no way to connect the man in
+the obituary to the "A. W. Forgie" of the rosters. Set side by side, the obituary narrates in order the
+exact career the roster gives:^20
 
 > "known as **Commodore** by the many young leaders who came under his influence **in Canada from 1908
 > until 1927**… Many men knew him when he **served five years overseas in the First World War with the
@@ -382,6 +384,11 @@ overseas secretaries list of 1919**; **Calgary** in 1919-20; **India** from 1927
 first war with the YMCA, western Canada, India from 1927, Madras. **Every point matches and nothing
 conflicts.** The identification never needed "A. W." to resolve to "A. Wallace" — two independent records
 narrate one life.
+
+*The two corroborate each other on a point neither states alone*: the word-for-word read of *Canadian
+Camping* has him building the foundations of Camp On-Da-Da-Waks and moving the **Ottawa** camp to Golden
+Lake, and the roster has him as "Ottawa, Ont., **Boys**" in the 1907-08 and 1909-10 volumes — the camp
+work and the post in the same years, from two sources that never mention each other.
 
 *And the obituary gives what a roster cannot.* Five years overseas in the first war. The Calgary years as
 canoe trips into the north-west. An association with **Hedley Dimock**. And **Camp Tonakela**, opened by
