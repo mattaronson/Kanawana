@@ -6797,3 +6797,28 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   lv-games.md had already made exactly that argument and resolved c_021 with it. Checked the destination
   before writing, which is the only reason that did not become a fifth duplicate finding today.
   kb/facts.json v10.48. All checks pass.
+
+2026-09-07T17:21:32Z  p_491 -- unit: by 1959 Otoreke was a lodge, and the report diagnoses itself.
+  This is the one real gap in the 1959 report, which the thin-yield heuristic had ranked first and which
+  turned out otherwise to be thoroughly worked.
+  The report files Otoreke under a heading it had not used before: "OTOREKE SUMMER LODGE FOR ADULTS",
+  paired with the winter Ski Lodge at Christieville, both "operated by a separate Otoreke Camp
+  Committee" and offering "young men and women ... leisurely fellowship".
+  Then it diagnoses its own problem, which annual reports rarely do: "There is a very real change in the
+  holiday habits of our particular constituency of young people ... they are travelling to far places
+  for their vacations, but they are also supplementing their full summer vacation trips with regular
+  weekend outings. This appears to be the new role that Otoreke is fulfilling and it is likely that AS
+  THE LAURENTIANS BECOME MORE AND MORE A SUBURB OF MONTREAL we can anticipate an increase of short-term
+  guests." Plus a proposed second role, summer conference facilities for youth organisations, to "fill
+  the growing gap between mid-week and weekend occupancy". The association had watched cheap travel and
+  suburbanisation change what its members did with a summer, and was rewriting a residential camp as a
+  weekend lodge with a midweek conference trade. It names the mechanism, not just the symptom.
+  AND CHRISTIEVILLE HAD A CLUB: the Otoreke Ski Club, 87 members, close to 100 guests and members on ski
+  weekends, hills and tows on the property, skiing instruction, a Sunday morning worship service in the
+  lodge, and use by the Friendly Home for Orphans as a summer camp for children. Christieville was in
+  this article only as a finding-aid entry and a site-selection decision.
+  DOES NOT SETTLE THE ISLAND QUESTION the article leaves open: "the summer lodge near St. Adolphe de
+  Howard" is the same township as the three islands, so it chooses neither. It does show the institution
+  being called a LODGE rather than a camp by 1959, which is a change in kind and not only in address,
+  and the article says exactly that.
+  Added f_5637 (kb v10.49, 5599 facts). New section and note 67 in wiki/site/camp-otoreke.md. All pass.

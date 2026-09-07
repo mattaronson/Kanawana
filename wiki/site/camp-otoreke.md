@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 66*
+*Status: E1-reviewed | Sources: 67*
 *Last Updated: 2026-09-07 (McKay dated to May 1962; the 1,507-camper season; and who was responsible for the camp)*
 
 ## Overview
@@ -390,6 +390,43 @@ Petite-Bourgogne — Little Burgundy, the working-class district southwest of do
 > "After Sir George Bob went to Southern Illinois University with a teaching assistantship and tuition scholarship. **From September '63 to September '65 he was in Beirut, Lebanon with the United Nations Relief and Works Agency for Palestine Arab Refugees (UNRWA) responsible for the development and supervision of 48 refugee youth activity centres** scattered throughout Lebanon, Jordan, Syria and the Gaza Strip. Developed program for Canadian Y.M.C.A. summer service volunteers in the Middle East. 22 Canadian students (including 3 Georgians) have participated on a volunteer basis. In 1965 Bob was graduated from the American University of Beirut with an M.A. in Social Psychology. He has spent the last year at Dalhousie University on a doctoral program."^57
 
 A man who had spent two years supervising forty-eight refugee youth centres across four Middle Eastern territories came home to run a family camp in the Laurentians. The Y connection runs both ways: he built the programme that sent twenty-two Canadian students, three of them Sir George men, to the Middle East as YMCA summer service volunteers. His wife is named as Janet Marilyn, née Pickford of Westmount.
+
+### 1959: not a camp any more, a lodge — and the report says why
+
+The annual report for the year ending 31 December 1959 files Otoreke under a heading it had not used
+before: "**OTOREKE SUMMER LODGE FOR ADULTS**." It pairs it with Christieville — "two unique extensions of
+YMCA adult program facility are **the summer lodge near St. Adolphe de Howard** and **the winter Ski
+Lodge at Christieville**… Operated by a **separate Otoreke Camp Committee**, these two resident lodges
+provide a summer and winter Laurentian setting for **young men and women** to come together in an
+atmosphere of leisurely fellowship."^67
+
+Then it does something annual reports rarely do and diagnoses its own problem. "**There is a very real
+change in the holiday habits of our particular constituency of young people**… they are **travelling to
+far places for their vacations**, but they are also **supplementing their full summer vacation trips
+with regular weekend outings**. This appears to be **the new role that Otoreke is fulfilling** and it is
+likely that **as the Laurentians become more and more a suburb of Montreal** we can anticipate an
+increase of short-term guests." And a proposed second role: "increased requests from various youth
+organizations for **summer conference facilities**… such a scheme would go a long way to **fill the
+growing gap between mid-week and weekend occupancy**."^67
+
+The association had watched cheap travel and Laurentian suburbanisation change what its members did with
+a summer, and was rewriting a residential camp as a weekend lodge with a midweek conference trade to
+fill the hole. It names the mechanism, not just the symptom.
+
+**And Christieville had a club.** "This Lodge is the **winter camp for many of the Otoreke guests, who
+have formed an Otoreke Ski Club**. Its **membership during the year was 87** with **close to 100 guests
+and members** visiting the Lodge during the ski weekends. It is situated in the heart of the ski country
+with **hills and tows on the property**, or easy access to St. Sauveur, Morin Heights, Mont Gabrielle,
+Ste. Adele, Ste. Marguerite… There is skiing instruction, cross-country and downhill skiing, as well as
+indoor evening activities of a social nature. On Sunday, a **morning worship service** is conducted in
+the Lodge… It is also used by the **Friendly Home for Orphans as a summer camp for children**."^67
+Christieville appears elsewhere in this article only as a finding-aid entry and a site-selection
+decision; the ski club, its membership, its own hills and tows, the Sunday service and the orphanage's
+summer use of it are new.
+
+*This does not settle the island question above.* "The summer lodge near St. Adolphe de Howard" is the
+same township as the three islands, so the sentence chooses neither. What it does show is the
+institution being called a **lodge** rather than a camp by 1959 — a change in kind, not only in address.
 
 **An "Otoreke School" appears in 1955, and this article does not adopt it.** The same magazine's Easter 1955 issue reports a model United Nations Security Council staged at the YWCA building on Dorchester Street that February — nine Canadian schools and colleges, one American college and the United Nations Association playing the eleven members, in four languages. Among the delegations: "Assumption College, Windsor, Ont., (Belgium); Sir George Williams Day College (Peru); **Otoreke School, Que. (Brazil)**; United Nations Association (Turkey); University of Toronto (United Kingdom)…"^57
 
@@ -1268,6 +1305,7 @@ centre. It is the same kind of use, twenty years earlier, that
 64. YMCA of Montreal annual reports for the years ending 30 April **1918** [src_ymf_sgw_ymca_annual_report_1918], **1919** [src_ymf_sgw_ymca_annual_report_1919_montreal_men] and **1920** [src_ymf_sgw_ymca_annual_report_1920], each describing the previous summer. The **1917** season (90, under W. H. Henderson, W. A. MacLaren and M. F. Furey), the **1918** season (72, and the two-week 13–29 July season with the enlistment sentence) and the **1919** season (106, Herb Patterson released to take charge) are at [f_5633], which also corrects the three-stage naming count and the four names that gain initials. The earlier **1913–1916** seasons are at [f_5632].
 65. YMCA of Montreal annual report for the year ending 30 April **1927** [src_ymf_sgw_ymca_annual_report_1927], on the **1926** season: the deficit of **$589.03**, the transfer of the camp's operation to the Metropolitan Physical and Recreational Committee, the Lac St. Joseph regatta and concert, and the Sunday services "much appreciated by Lake residents and campers". All at [f_5635], with **W. J. Holliday**'s two months in charge that summer.
 66. YMCA of Montreal annual reports for the years ending 30 April **1926** [src_ymf_sgw_ymca_annual_report_1926], **1928** [src_ymf_sgw_ymca_annual_report_1928] and **1929** [src_ymf_sgw_ymca_annual_report_1929], each on the previous summer. The **1925** secretaries' conference and its $28.20 deficit, the **1927** recovery to **160** with Chard, Thomas, Ellis and Mooney in charge, and the **1928** total of **211** with the $2,000 Metropolitan Board loan are together at [f_5636] — which also shows that "within five of the record attendance in the year 1920" and the **1921-1922** report's "216 in 1920" [src_ymf_sgw_ymca_annual_report_1921_1922] confirm each other.
+67. YMCA of Montreal annual report for the year ending 31 December **1959** [src_ymf_sgw_ymca_annual_report_1959], under the heading "OTOREKE SUMMER LODGE FOR ADULTS". The changed holiday habits, the **weekend** role, the conference proposal, and the Christieville **Otoreke Ski Club** with its **87** members are all at [f_5637]. Read 2026-09-07 under p_491.
 
 ## Research Notes
 
