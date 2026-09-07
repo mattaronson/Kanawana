@@ -58,6 +58,8 @@ blank spans — 1919-1945, or after 1979 — she belongs in is unknown. Her Kana
 late 1980s and the "long career" the obituary describes point at the later end, but that is
 inference and nothing more.
 
+**She has been looked for outside the association, and she is not findable there.** Four queries on 2026-09-06 across general web search, the obituary aggregators Legacy.com and Dignity Memorial, and the YWCA of Montreal's own history pages — on her name with Dawson College, with Oolahwan, with the Kanawana endowment, and with "obituary 1993" — returned nothing about her.^3 That is four short of this project's own exhaustion standard of eight queries across three surfaces, so it is **recorded as a null that has been run, not as a subject exhausted**. The *Gazette* for 1993, Dawson's own records and the YWCA of Montreal are all still untried, and they are where the questions below point.
+
 ## Open Questions
 
 1. [Critical] When did Maureen McBride direct Camp Oolahwan? The YWCA of Montreal's own records

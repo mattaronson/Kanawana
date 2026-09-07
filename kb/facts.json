@@ -2,7 +2,7 @@
   "version": "10.09",
   "kb_version": "10.09",
   "migrated_from": "3.3",
-  "fact_count": 5525,
+  "fact_count": 5527,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99594,6 +99594,34 @@
         "Camp Kanawana"
       ],
       "claim": "136 SOURCE ENTRIES ACROSS 34 ARTICLES ARE CITED BY NOTHING, AND NO CHECK COULD SEE THEM. Found by generalising the single orphan a spinout created in directors-index.md (f_5562). verify_harness tests that every citation MARKER resolves to a source ENTRY; the reverse was tested by nothing, so an entry could sit uncited indefinitely and every check would pass. THE MEASUREMENT WAS CONTROLLED BEFORE IT WAS BELIEVED, because eight coverage heuristics have misreported in three days. The obvious artefact would be articles whose sources are LETTERED bullets rather than numbered entries, which the test would report as wholly uncited; three of the worst offenders were checked and all use ordinary numeric markers, and articles with no numbered entries are skipped entirely. Then places-and-locations.md was read by eye: 28 source entries, NINE distinct markers in the whole body, entries 1 through 14 never cited once. The defect is real. WORST: places-and-locations 19, notable-alumni 18, myths-and-legends 17, then lv-games, directors-index and canoe-trips at 8. WHY IT MATTERS: an uncited entry is one of two things and only reading tells them apart. A citation LOST in an edit means a claim in the article is now unsourced and the entry is the evidence that it once was not. An entry added for a passage never written is harmless noise. Deleting all 136 would risk the first; keeping all 136 guarantees the second. scripts/verify/uncited_sources.py is the ninth check, ADVISORY on the section_headings.py precedent, carrying 136 as a baseline and reporting when the number goes UP -- which is an edit stranding something, the case it was built for. The rising-count path was tested by lowering the baseline. Queued as p_484.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5564",
+      "category": "methodology",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "THE 136 UNCITED ENTRIES ARE TWO DIFFERENT DEFECTS AND NEED TWO DIFFERENT METHODS. Measured by asking, for each article, what fraction of its entries UP TO THE HIGHEST UNCITED ONE are uncited. POPULATION A -- FIVE ARTICLES, 53 ENTRIES, where 75 to 95 per cent of that low block is uncited: places-and-locations (19 uncited, block running to entry 20 of 28), myths-and-legends (17 of a block to 19), da-budge (6 of a block to 7 of only 8 entries), lv-games (8 to entry 10), council-ring (3 to entry 4). THE EXPLANATION WAS VERIFIED RATHER THAN ASSERTED, on da-budge.md: its entire body carries TWO markers, ^6 and ^8, and the biography itself -- born 16 April 1851, General Secretary 1874 to 1913, died 13 February 1933 -- carries none. The Sources list there is a BIBLIOGRAPHY, not a citation apparatus. These articles were written before inline markers were the convention here, and every later addition to them carries one, which is why the uncited entries cluster at the low numbers. SAY WHAT THAT IS AND IS NOT. It is NOT that the claims are unsupported: the sources are listed and were presumably read. It is that THE MAPPING FROM CLAIM TO SOURCE WAS NEVER RECORDED, so a reader cannot check any single sentence and a later editor cannot tell which entry a sentence rests on. That is a weaker defect than 'unsourced' and a real one. Fixing it means reading each claim against the listed sources and marking it -- slow, and a WRONG marker is worse than none, because it asserts a provenance the source may not carry. POPULATION B -- 29 ARTICLES, 83 ENTRIES, scattered rather than blocked: attendance-series 7, notable-alumni 18, canoe-trips 8, directors-index 8, and a long tail of ones and twos. These are the ones that are plausibly citations LOST in edits, or entries added for passages never written, and they are individually diagnosable in a way Population A is not. THE ORDER TO WORK THEM IS THEREFORE THE REVERSE OF THE SIZE ORDER: the tail of Population B is quick and decidable; Population A is an editorial project.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5565",
+      "category": "methodology",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "FIVE UNCITED ENTRIES RESOLVED, AND ALL FIVE WERE DIFFERENT PROBLEMS -- which is the case against ever batch-fixing these. 136 -> 129. (1) jared-macsween's entry 2 existed to support a NEGATIVE, that he is not among the named people on the surviving 1979-90 plaques, and the sentence making that claim carried no marker. (2) roy-locke's entry 3 is a THIRD source for a sentence already carrying two. (3) terry-mosher's entry 9 documents one row of an otherwise unmarked awards table, and entry 10 is the biography the whole table rests on -- so one got a row marker and the other an introduction. (4) sean-day's entry 15 is a Facebook post of 5 September 2014 calling him 'directeur du camp YMCA Kanawana', a dated title attestation belonging in the c_017 titles discussion, where it now sits with a note that it does not bear on when the role began; entry 12 is the fund's own page and now sits with the fund. (5) THE MOST INTERESTING ONE: maureen-mcbride's entry 3 recorded A SEARCH THAT FOUND NOTHING -- four queries across web search, two obituary aggregators and the YWCA's own history pages -- and the article never said so anywhere. A null was being held in a source list, which is the one place no reader looks for one, and this project's whole discipline is that a null must be recorded where it can be found. It is now a paragraph in the body, marked as FOUR QUERIES SHORT of the eight-query exhaustion standard, so it reads as a null that was run rather than a subject exhausted. AN UNCITED SOURCE ENTRY CAN THEREFORE BE A HIDDEN NULL, which is a third category neither f_5563 nor f_5564 anticipated.",
       "sources": [],
       "confidence": "stated",
       "conflicts_with": [],

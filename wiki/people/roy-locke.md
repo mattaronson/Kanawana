@@ -13,7 +13,7 @@
 
 *And note what kind of number the vacancies are.* Five and then four, advertised at the end of May, is not a staff total — it is what the camp still needed after its own channels had been worked, which says the late-season shortfall was small and roughly steady across two years. See [[connections/institutional-lineage/sgw-concordia-connection|The SGW–Concordia Connection]] for the other end of the same recruiting: the Sir George Fellowship men who staffed the Montreal camps in these years.
 
-His association career is the longest of any figure in this index: he appears as Kanawana's Camp Chief in 1947, returns as executive secretary of the **Camping Branch** in 1970–72 — this time as the branch head above [[people/james-h-turner|James H. Turner]] in the camp's short-lived two-tier structure — and is still on the Montreal YMCA's Metropolitan Staff in 1986 as Director of Funding Development. That is a documented span of roughly forty years.^1 ^2
+His association career is the longest of any figure in this index: he appears as Kanawana's Camp Chief in 1947, returns as executive secretary of the **Camping Branch** in 1970–72 — this time as the branch head above [[people/james-h-turner|James H. Turner]] in the camp's short-lived two-tier structure — and is still on the Montreal YMCA's Metropolitan Staff in 1986 as Director of Funding Development. That is a documented span of roughly forty years.^1 ^2 ^3
 
 ## Kanawana Camp Chief (1947–1954)
 

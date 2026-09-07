@@ -49,7 +49,7 @@ for the count and what remains unaccounted for.
 1. **[Important]** What did he do at Kanawana in 1987–91? The release gives the span and nothing else.
    Section, role, and whether he was ever a director or a tripper are all unknown. The dining-hall
    plaque corpus covers 1979–1990 and names people by season; **he does not appear in the person index
-   built from it**, which is a fact about which boards survived and were photographed, not about
+   built from it**,^2 which is a fact about which boards survived and were photographed, not about
    whether he was there.
 2. **[Important]** What is his connection to Concordia's Applied Human Science department? That
    department is the descendant of the Sir George Williams programme Hedley Dimock built out of YMCA

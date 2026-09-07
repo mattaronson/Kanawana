@@ -4787,3 +4787,36 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   the number goes UP. The rising-count path was tested by lowering the baseline
   and confirming the message fires. Make it blocking when p_484 clears.
   Verify green, nine checks. Timestamp read from `date -u` in its own call.
+
+[2026-09-07T13:32:32Z] p_484 first pass, and a diagnosis before any of it was
+  worked. NEW: f_5564, f_5565. 136 -> 129 entries, 34 -> 29 articles.
+  THE 136 ARE TWO DEFECTS NEEDING TWO METHODS (f_5564), measured by asking what
+  fraction of each article's entries UP TO ITS HIGHEST UNCITED ONE are uncited.
+  POPULATION A, five articles and 53 entries at 75-95%: places-and-locations,
+  myths-and-legends, da-budge, lv-games, council-ring. VERIFIED rather than
+  asserted, on da-budge, whose entire body carries TWO markers and whose
+  biography -- born 16 April 1851, General Secretary 1874-1913, died 13 February
+  1933 -- carries none. Its Sources list is a BIBLIOGRAPHY. These predate the
+  inline-marker convention. Precisely: the claims are not unsupported, the
+  MAPPING from claim to source was never recorded, which is a weaker defect than
+  "unsourced" and a real one. Fixing means reading each claim against the listed
+  sources, and a WRONG marker is worse than none because it asserts a provenance
+  the source may not carry.
+  POPULATION B, 29 articles and 83 entries, scattered: individually decidable.
+  SO THE WORK ORDER IS THE REVERSE OF THE SIZE ORDER.
+  FIVE CLEARED, AND ALL FIVE WERE DIFFERENT PROBLEMS (f_5565) -- which is the
+  case against batch-fixing. A negative claim never marked (macsween). A third
+  source for a sentence already carrying two (locke). One row of an unmarked
+  awards table, plus the biography the table rests on (mosher). A dated title
+  attestation that belonged in a conflict discussion, and a fund's own page that
+  belonged with the fund (sean-day).
+  AND ONE THAT WAS A HIDDEN NULL. maureen-mcbride's entry 3 recorded a SEARCH
+  THAT FOUND NOTHING -- four queries across web search, two obituary aggregators
+  and the YWCA's own history pages -- and the article never said so anywhere. A
+  null was being kept in a source list, which is the one place no reader looks
+  for one, in a project whose whole discipline is that a null must be findable.
+  Now a paragraph in the body, marked as FOUR QUERIES SHORT of the eight-query
+  exhaustion standard so it reads as a null that was run, not a subject
+  exhausted. That is a third category neither f_5563 nor f_5564 anticipated.
+  Check baseline moved 136 -> 129. Verify green, nine checks.
+  Timestamp read from `date -u` in its own call.
