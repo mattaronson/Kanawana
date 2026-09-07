@@ -4135,3 +4135,26 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   the annual reports of 1917-1920 and 1982-1995, the 1851-2001 anniversary
   publication, and the remaining ka-news issues.
   NEW: f_5530; kb 9.99 -> 10.00. Verify green. Timestamp read from `date -u`.
+
+2026-09-07T11:18Z  p_482: the 1917-1920 annual reports. Mostly worked; one real find.
+  THE REPRIORITISATION HELD UP, AND SO DID THE WARNING. The 1918 report's Kanawana
+  passage -- 168 boys in 1917 under MacKinnon, Dalley and Bradford -- is already in
+  attendance-series.md, and held better than I would have written it: the article
+  notes that the report calls this "a splendid increase over last year" and flags
+  that IT WAS A DECREASE, 175 the year before. Dalley is already in the directors
+  index. The senior camp's 90 against 130 is covered by the article's scope note.
+  So four of four modern-and-early reports sampled today were already worked.
+  THE ONE THING THAT WAS NOT: the 1920 asset schedule. "Camp Kanawana: Land 900.00,
+  Buildings 1,000.00, Equipment 600.00", and separately "Men's Camp: Land 600.00,
+  Buildings 600.00, Equipment 500.00", with camp revenue accounts of $2,536.18 and
+  $260.53. Two things worth having from a balance sheet. SCALE: Kanawana's entire
+  book value was $2,500 on a schedule where the Central branch building alone stands
+  at $424,966.27. Ten years after the site was bought the camp was a rounding error
+  on the association's books, and its revenue account was worth more than its
+  buildings. AND THE MEN'S CAMP WAS STILL A SEPARATE PROPERTY WITH ITS OWN LAND in
+  1920 -- the 1936 broadcast has the boys' camp opening "as a branch of their men's
+  camp", and here they are still carried apart a quarter-century later, the boys'
+  side larger on every line and by tenfold on revenue.
+  READ_STATE SET TO "partial", NOT "read": only the Kanawana entries in that volume
+  were read. Saying "read" would overstate it, which is the whole purpose of the field.
+  NEW: f_5531; kb 10.00 -> 10.01. Verify green. Timestamp read from `date -u`.

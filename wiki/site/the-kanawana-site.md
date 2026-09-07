@@ -1,7 +1,7 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 62*
-*Last Updated: 2026-09-07 (the 600-acre figure attested publicly in May 1949, outside the annual reports)*
+*Status: E1-reviewed | Sources: 63*
+*Last Updated: 2026-09-07 (the camp's book value in 1920, and the Men's Camp still carried separately)*
 
 ## Overview
 
@@ -378,6 +378,30 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 ![Camp Kanawana map, 1941](../../assets/images/maps/concordia-1941-map.jpg)
 *A 1941 map of the camp property. Pre-1949 photograph — public domain in Canada.*
 
+## What the Camp Was Worth on the Books, 1920
+
+The YMCA of Montreal's annual report for 1920 carries the association's asset schedule, and Kanawana
+is on it, itemised:^63
+
+| | Land | Buildings | Equipment |
+|---|---|---|---|
+| **Camp Kanawana** | $900.00 | $1,000.00 | $600.00 |
+| **Men's Camp** | $600.00 | $600.00 | $500.00 |
+
+Alongside, under "Camp Revenue Accounts," Kanawana carries **$2,536.18** against the Men's Camp's
+$260.53.
+
+**Two things are worth taking from a balance sheet.** The first is scale. Kanawana's entire book value
+in 1920 — land, buildings and equipment together — was **$2,500**, on a schedule where the Central
+branch building alone stands at **$424,966.27** and its land at $71,377.59. Ten years after the site
+was bought, the camp was a rounding error on the association's balance sheet, and its revenue account
+was worth more than its buildings.
+
+The second is that **the Men's Camp was still a separate property with its own land** in 1920. The
+1936 CFCF broadcast describes the boys' camp as having opened "as a branch of their men's camp," and
+this shows the two still carried apart a quarter-century later, the boys' side by then the larger of
+them on every line and by tenfold on revenue.
+
 ## Open Questions
 
 1. ~~[Important] The YMCA Kanawana Facts sheet dates the site purchase to 1910. Was the first season at Saint-Sauveur in 1910 or 1911?~~ [Resolved] McMorris confirms 1910 as the first season at the Saint-Sauveur site. The 1935 History's reference to the camp's "twenty-sixth year of existence" counts from 1910.^12
@@ -466,6 +490,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 60. *The Canadian Almanac and Directory*, "Post Offices and Railroad Stations in Canada", read edition by edition on 2026-09-07 [src_canadian_almanac_1917_1918]: the editions for **1910, 1911, 1943, 1951, 1954, 1956, 1957, 1958, 1960, 1961, 1962 and 1968**, each dated from its own title page. The dagger that the table's legend defines as "not a post office" is what carries the argument, and it is read against Kananaskis and Kanasuta, which carry it throughout, and Kanata and Kandahar, which never do. Every run quoted out in full, with the OCR as it stands, at `sources/cache/postal/2026-09-07-canadian-almanac-edition-by-edition.txt`. See [f_5345], [f_5346], [f_5347], [f_5348].
 61. Kamp Kanawana counsellor recruitment advertisement, *The McGill Daily* Vol. 38 No. 100, 25 May 1949 [src_mcgill_daily_1949_05_25]: "CAMP SITUATED IN LAURENTIANS — 3 LAKES — 600 ACRES OF WOODED PROPERTY." Transcribed at `sources/cache/mcgill/2026-09-07-kanawana-counsellor-ads-1948-1949.txt`. See [f_5415].
 62. Kamp Kanawana counsellor recruitment advertisement, *The McGill Daily* Vol. 78 No. 83, 20 February 1989 [src_mcgill_daily_1989_02_20]: "on 1200 acres of land and three private lakes." Transcribed at `sources/cache/mcgill/2026-09-07-kanawana-ad-1989-and-perrot-doctors-1948.txt`. See [f_5429].
+63. YMCA of Montreal Annual Report **1920** [src_ymf_sgw_ymca_annual_report_1920], the association's asset schedule. Cached at `sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-1920.txt`; the Kanawana entries read word for word 2026-09-07 under p_482, the rest of the volume not read.
 
 ## Research Notes
 

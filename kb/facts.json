@@ -1,8 +1,8 @@
 {
-  "version": "10.00",
-  "kb_version": "10.00",
+  "version": "10.01",
+  "kb_version": "10.01",
   "migrated_from": "3.3",
-  "fact_count": 5492,
+  "fact_count": 5493,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99027,6 +99027,23 @@
       "confidence": "inferred",
       "conflicts_with": [],
       "added_version": "10.00",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5531",
+      "category": "site",
+      "date_ref": "1920",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "WHAT KANAWANA WAS WORTH ON THE ASSOCIATION'S BOOKS IN 1920, ITEMISED. The YMCA of Montreal's annual report for 1920 carries the asset schedule: 'CAMP KANAWANA: Land 900.00, Buildings 1,000.00, Equipment 600.00' and, separately, 'MEN'S CAMP: Land 600.00, Buildings 600.00, Equipment 500.00', with 'Camp Revenue Accounts' of $2,536.18 for Kanawana and $260.53 for the Men's Camp. TWO THINGS FOLLOW. SCALE: Kanawana's entire book value -- land, buildings and equipment together -- was $2,500, on a schedule where the CENTRAL BRANCH BUILDING ALONE STANDS AT $424,966.27 and its land at $71,377.59. Ten years after the site was bought, the camp was a rounding error on the association's balance sheet, and its revenue account was worth more than its buildings. AND THE MEN'S CAMP WAS STILL A SEPARATE PROPERTY WITH ITS OWN LAND in 1920. The 1936 CFCF broadcast describes the boys' camp as having opened 'as a branch of their men's camp' (f_5003); this shows the two still carried apart a quarter-century later, with the boys' side by then larger on every line and by tenfold on revenue.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1920"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.01",
       "added_by": "ralph_loop"
     }
   ]

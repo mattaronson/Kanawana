@@ -3634,7 +3634,8 @@
         "src_ymf_sgw_ymca_annual_report_1913",
         "src_ymf_ka_news_1977_12_01",
         "src_mcgill_daily_1949_05_25",
-        "src_mcgill_daily_1989_02_20"
+        "src_mcgill_daily_1989_02_20",
+        "src_ymf_sgw_ymca_annual_report_1920"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -3649,7 +3650,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 8683,
+      "word_count": 8924,
       "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral. 2026-06-20: Added Indigenous territory context (f_1315) and Mille-Isles regional history (f_1314). 2026-06-21: Added 1976 Lovell's directory listing (f_1331) and 2023 superintendent's house fire (f_1333). | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph about the Weredale lease into a new Research Notes > Revision History section (this article previously had no Research Notes section at all). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
