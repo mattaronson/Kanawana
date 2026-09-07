@@ -7860,3 +7860,25 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   NEXT, NOT YET DONE: populate one bounded slice as a demonstration of what the job costs. Seaman is the natural candidate -- a dedicated
   article, 69 uncited facts, and a subject central to the camp (director 1959-67).
   KB v10.87 -> v10.88.
+2026-09-07T20:40:48Z  p_492  RETRACTION: the under-population finding is not supported. I reported a proxy's output as an answer.
+  WHAT STANDS: of 5,654 facts, 1,305 are cited by an [f_NNNN] marker somewhere and 4,349 are not. Exact, and unchanged.
+  WHAT I RETRACT: the inference that most of that content is missing from the wiki. It is not supported.
+  HOW IT FELL. I went to demonstrate the 'populating' job on the A. Ross Seaman cluster. The probe said 49 of his uncited facts were
+  content-absent. HIS ARTICLE CONTAINS ALL OF THEM -- the memorial fund, the 1959 renaming, "Past Director of Camp Perrot", the acting
+  chairmanship of Concordia Leisure Studies, "participatory democracy", Vankleek Hill, Elderhostel. Every single 'absent' example I
+  hand-checked was present in the prose, credited by NUMBERED SOURCE NOTES rather than fact ids.
+  WHY THE PROBE FAILS, and it is systematic not occasional: it tests EXACT STRING presence while articles PARAPHRASE their facts. It will
+  mark a well-written article as empty PRECISELY BECAUSE IT IS WELL WRITTEN. I wrote that caveat into f_5693 myself and then did not weight
+  it, which is worse than not having thought of it.
+  THE CORRECT READING: 77% measures CITATION STYLE. This project credits most content through numbered source notes and uses fact ids
+  selectively; a low fact-id rate is the expected shape, not a defect. THE SIZE OF THE KB-TO-ARTICLE GAP IS CURRENTLY UNKNOWN.
+  THE SIX ORPHANS CLOSED TODAY WERE REAL and remain closed. But they were found by READING SOURCES, and nothing establishes that they
+  generalise. My "under-populated, not just under-polished" line to the operator was built on this and is withdrawn.
+  THIRD INSTRUMENT IN ONE EVENING TO ANSWER A DIFFERENT QUESTION FROM THE ONE ASKED -- after the Jaccard duplicate detector (calibrated
+  against known positives and failed) and the loose-probe first pass ("Vice President" matching anything). THE RECURRING FAULT IS SPECIFIC
+  AND IT IS MINE: building a string-matching proxy for a semantic question, then reporting the proxy's output as the answer. The Jaccard one
+  I caught because I calibrated. This one I caught only because I went to USE the result on real work. USING A FINDING IS A STRONGER TEST
+  THAN CHECKING IT.
+  p_492's re-scoping note is retracted in place. Do not rebuild a string-matching proxy for this; it needs semantic comparison or a
+  hand-audit of a random sample.
+  KB v10.88 -> v10.89.
