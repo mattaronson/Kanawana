@@ -401,3 +401,50 @@ this project's own cache searchable.** Cross's overseas years, Holliday's war se
 retirement, Brooks's departure for Ceylon, Pearson's whole identity, the 1913 camp staff — all of
 it was already in this repo, in annual reports marked read, unfindable until an outside source
 made the question precise enough to ask.
+
+## Rule 49 — a size threshold in a sweep is a silent filter, and mine discarded 85 items unsearched
+
+**2026-09-07, found by auditing my own instrument rather than by anything failing.**
+
+The Concordia corpus sweep (`sweepconcordia.py`, 16,491 text items) classified each
+item HIT / CLEAN / NOTEXT / FAIL_DL. The FAIL_DL count kept climbing — 31, then 54,
+78, 101 — and a rising failure rate on a stable API is worth explaining before it is
+tolerated. It was not a network problem.
+
+The script downloaded the item's `_djvu.txt` and then did this:
+
+```python
+if sz > 800:          # the first version
+    ...search it...
+```
+```python
+if sz <= 200:         # the rewrite, no better
+    return record(idn, 'FAIL_DL', sz)
+```
+
+**Posters, flyers, invitations, exhibition notices and logos have genuine OCR
+sidecars of 30 to 200 bytes.** They downloaded fine. The threshold threw them away
+and filed them under a label that says the download failed. Of 102 FAIL_DL rows, **17
+were true zero-byte downloads and 85 were real text that was never searched.**
+
+That is the exact failure this project keeps writing rules about, committed by the
+tool built to prevent it: an item recorded as unreadable when it was merely short,
+which a later pass reads as "checked, nothing there."
+
+**The fix, and the general rule.** Only a **zero-byte** download is a failure.
+Everything else gets searched, however short — a poster titled *Kanawana* would have
+a forty-byte OCR file. `recheck.py` in the session scratchpad re-runs every row whose
+status starts with FAIL, using both URL forms and searching anything non-empty; it
+resumes from the results file, so it can be run again whenever a sweep finishes.
+
+**Result of the audit**: 103 items re-checked, **86 CLEAN, 17 genuinely empty, 0
+hits**. Nothing was missed. The point is that nobody could have known that without
+running it, and the sweep's own summary line said "101 fails" — which reads as a hole
+in the evidence and was, until it was measured, indistinguishable from one.
+
+**The seventeen persistent empties are a real category, not a transient.** They were
+retried on both the direct-server path and the `/download/` path, in two separate
+runs, and returned zero bytes each time: `1987-09-11-the-wizard-of-oz-poster`,
+`belmore-house-logo`, `3-40-illustrations-on-peasant-female-figures` and the like.
+The metadata advertises a `_djvu.txt` that has no content behind it. Record them as
+empty-by-nature, not as unread.

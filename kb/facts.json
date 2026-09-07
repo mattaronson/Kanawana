@@ -1,8 +1,8 @@
 {
-  "version": "9.56",
-  "kb_version": "9.56",
+  "version": "9.57",
+  "kb_version": "9.57",
   "migrated_from": "3.3",
-  "fact_count": 5380,
+  "fact_count": 5381,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -97044,6 +97044,20 @@
       "conflicts_with": [],
       "added_version": "9.56",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5419",
+      "category": "meta",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "research method"
+      ],
+      "claim": "A SIZE THRESHOLD IN THE CORPUS SWEEP WAS A SILENT FILTER, AND IT DISCARDED 85 ITEMS UNSEARCHED WHILE LABELLING THEM DOWNLOAD FAILURES. Found by auditing the instrument rather than by anything failing. sweepconcordia.py classified each of the 16,491 rma-concordia-publications text items HIT/CLEAN/NOTEXT/FAIL_DL, and its FAIL_DL count kept climbing -- 31, 54, 78, 101. A rising failure rate on a stable API is worth explaining before it is tolerated, and it was not a network problem. The script searched an item's _djvu.txt only if it exceeded a size threshold (800 bytes in the first version, 200 in the rewrite) and otherwise recorded FAIL_DL. POSTERS, FLYERS, INVITATIONS, EXHIBITION NOTICES AND LOGOS HAVE GENUINE OCR SIDECARS OF 30 TO 200 BYTES. They downloaded correctly. The threshold threw them away under a label that says the download failed. Of 102 FAIL_DL rows, 17 were true zero-byte downloads and 85 WERE REAL TEXT NEVER SEARCHED. THAT IS THE EXACT FAILURE THIS PROJECT KEEPS WRITING RULES ABOUT, COMMITTED BY THE TOOL BUILT TO PREVENT IT: an item recorded as unreadable when it was merely short, which a later pass reads as 'checked, nothing there'. THE FIX AND THE GENERAL RULE: only a ZERO-BYTE download is a failure, and everything else is searched however short -- a poster titled 'Kanawana' would have a forty-byte OCR file. THE AUDIT'S RESULT: 103 items re-checked with both URL forms, 86 CLEAN, 17 genuinely empty, ZERO HITS. Nothing was missed. The point is that nobody could have known that without running it, and the sweep's own summary line said '101 fails', which reads as a hole in the evidence and was indistinguishable from one until it was measured. The seventeen persistent empties are a real category rather than a transient: retried on both the direct-server path and the /download/ path across two separate runs, they return zero bytes every time, so the metadata advertises a _djvu.txt with no content behind it. Recorded as rule 49 in project-docs/handoff-2026-09-07-the-year-book.md.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.57",
+      "added_by": "manual"
     }
   ]
 }
