@@ -1,6 +1,6 @@
 # The Canadian Camping Movement
 
-*Status: E1-reviewed | Sources: 18*
+*Status: E1-reviewed | Sources: 19*
 *Last Updated: 2026-09-07 (the Commodore's day job, and he leaves Canada in 1927 like the obituary says)*
 
 ## Summary
@@ -389,11 +389,18 @@ in 1921-22, **Toronto Central** in 1922-23, **Montreal Central** in 1943.^18 A Y
 seven years' standing in 1919 is exactly the sort released for overseas service, and the figure carries
 through unchanged. **The 1919 captain and the Montreal physical director are one man.**
 
-That leaves only the 1958 editorial, and it is now the economical reading rather than the speculative
-one: a man who entered the work in 1912 was most likely born between about 1888 and 1892, so he would be
-in his late sixties in 1958, and writing on camp safety after thirty years in physical work is
-unremarkable. **The link is still by name alone** — the editorial is in *Canadian Camping Magazine*, not
-a YMCA roster, and nothing joins it to the rosters directly.
+**And Montreal says the rest of it outright.** The association's 1942 report, announcing its own new
+staff: "**Oscar L. Pearson, for many years on the staff of the Toronto Association, who served overseas
+in the Great War as a Y.M.C.A. officer**, and again in the present War, spent eighteen months overseas,
+came to Central Branch as Director of Physical Education."^19 Toronto, the Great War as a YMCA officer,
+then Montreal Central — the roster's three points, in one sentence, from the employer.
+
+Which leaves only the 1958 editorial, and it too now has a bridge. The 1947 report: "During the year
+**Oscar L. Pearson, Director of Physical Education resigned to take a position with the city of Toronto
+as Director of Recreation**."^19 A municipal Director of Recreation writing on camp safety eleven years
+later is not a coincidence needing explanation. **The editorial is still joined by name alone** — it is
+in *Canadian Camping Magazine*, not a YMCA roster — but the man it would have to be is now documented in
+the right city, in the right work, at the right time.
 
 **Elsie K. Palter and David Palter**, of Camp Kawagama, appear together on the editorial team of *The
 Camp Counselor's Book* (Northway and Lowes, Longmans Canada, 1963), the standard Canadian text.
@@ -549,6 +556,7 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 16. R. J. Colville, first-person career sketch (typescript, c. 1920), YMCA of Montreal fonds [src_ymf_1920_biography_of_r_j_colville]. See [f_5015]. Found by reading the document whole under p_441; the item had been keyword-swept and the sweep reached none of this.
 17. "Come to Kanawana" brochure, 1928 season, YMCA of Montreal fonds [src_ymf_1928_come_to_kanawana_brochure]. See [f_5028].
 18. *YMCA Year Book and Official Rosters*, 1918-19 volume, page 434: "Overseas Secretaries, Canadian National Council, June 1, 1919" [src_umedia_ymca_yearbook_series], read in the University of Minnesota Libraries' digitized run (ContentDM collection p16022coll351). See [f_5303] and [f_5304].
+19. YMCA of Montreal annual reports for **1942** and **1947** [src_ymf_sgw_ymca_annual_report_1942, src_ymf_sgw_ymca_annual_report_1947], cached here since before this session. See [f_5311] and [f_5323].
 
 ## Research Notes
 
