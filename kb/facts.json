@@ -1,8 +1,8 @@
 {
-  "version": "10.22",
-  "kb_version": "10.22",
+  "version": "10.23",
+  "kb_version": "10.23",
   "migrated_from": "3.3",
-  "fact_count": 5573,
+  "fact_count": 5575,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100406,6 +100406,38 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.22",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5612",
+      "category": "coeducation",
+      "date_ref": "2026-2027",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "THE CAMP'S CURRENT GENDER STRUCTURE, PROGRAMME BY PROGRAMME, IN ITS OWN LISTING. The live 'Find a Summer Camp' page (read 2026-09-07, advertising the 2027 season) gives SIXTEEN programmes, each carrying an explicit GENDER label. THE PATTERN IS THE FINDING: EVERY JUNIOR AND INTERMEDIATE PROGRAMME IS SINGLE-GENDER-PLUS-NON-BINARY, AND EVERY SENIOR AND LEADERSHIP PROGRAMME IS MIXED. '12-Day PIONEERS... Gender: GIRL AND NON-BINARY. Girls and non-binary campers aged 7 to 12'; '12-Day WOODSMEN... Gender: BOY AND NON-BINARY. Boys and non-binary campers aged 7 to 12'; '12-Day EXPLORERS PIONEERS... girl and non-binary... aged 11 to 12'; '12-Day EXPLORERS WOODSMEN... boy and non-binary... aged 11 to 12'; '12-Day PATHFINDERS... girl and non-binary... aged 13 to 16'; '12-Day COUREURS DES BOIS... boy and non-binary... aged 13 to 16'; '12-Day ADVENTURERS PATHFINDERS... girl and non-binary... aged 13 to 16'. Then the mixed ones: '24-Day RANGERS... Gender: MIXED... From 15 to 16 years old'; '19-Day VOYAGEURS EXTREME... mixed... 14 to 17'; '26-Day VOYAGEURS ULTIMATE... mixed... 15 to 17'; '48-Day TRAILBLAZERS COUNSELLOR-IN-TRAINING... mixed... 16 to 17 (4 sessions of 12 days)'; '48-Day FORESTERS CANOE GUIDES-IN-TRAINING... mixed... 16 to 17'. Durations offered: 6, 12, 19, 24, 26 and 48 days; ages 7 to 17. SO THE CAMP THAT ADMITTED GIRLS IN 1968 IS, IN 2026, STILL ORGANISED BY GENDER BELOW ABOUT FOURTEEN AND MIXED ABOVE IT -- and the non-binary provision is handled by pairing rather than by a third stream, each single-gender section reading 'and non-binary'. That is a different arrangement from the 2022 MOUNTAINEER all-gender tent (f_0369), WHICH DOES NOT APPEAR IN THIS LISTING AT ALL; whether it still runs, or has been absorbed into the 'and non-binary' formula, is not established here and should not be guessed. NOTE THE VOCABULARY DRIFT: this page says WOODSMEN where the 2026 parent guide's mail instructions say WOODSY (f_5603), and adds EXPLORERS and ADVENTURERS as qualifiers on Pioneers/Woodsmen and Pathfinders that the guide's list does not carry.",
+      "sources": [
+        "src_ymcaq_kanawana_programs_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.23",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5613",
+      "category": "operations",
+      "date_ref": "2026",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "KANAWANA PAYS ITS VOLUNTEERS IN CAMPER FEES, AND HAS A COMMITTEE NAMED AFTER THE MOTTO. The camp's live Alumni page (read 2026-09-07) sets out VOLUNTEER RECOGNITION GUIDELINES, described as 'back' -- so this is a revival of an earlier scheme. THE TERMS: all volunteering must address one of the camp's operational needs; the volunteer must pass a CRIMINAL BACKGROUND CHECK and the CHILD WELFARE SCREENING PROCESS; service must be AT LEAST ONE WEEK (seven days on site), must meet a real need, and 'REPLACE A SERVICE NORMALLY PERFORMED BY AN EMPLOYEE'. In exchange the volunteer receives 'COMPENSATION TOTALLING $700 PER WEEK OF SERVICE (SEVEN DAYS)', applied as a discount or reimbursement on the camp stay of a child, adopted child, nephew, niece or grandchild, in the current or following season -- or donated 'to help fund the stay of a camper from a less privileged background'. The credit expires on 30 September of the year after the service, and the page gives its own worked example. THAT IS A LABOUR-FOR-FEES EXCHANGE STATED IN DOLLARS, and it is the only such figure this project holds; it is also a camperships mechanism, since the alternative use of the credit is to fund another child's stay. TWO NAMED COMMITTEES: the LOCAL ADVISORY COMMITTEE, which meets quarterly to 'have a say on how Kanawana is managed... to discuss Kanawana's needs and future directions'; and the NON NOBIS SOLUM COMMITTEE, 'the perfect committee to get your hands dirty... an on-call volunteer group that helps out during coordinated volunteering events, such as SPRING CLEAN-UP'. The camp's Latin motto is the name of its working-party committee, which is the motto put to the most literal possible use. Ad-hoc volunteering is offered as a third route. The page also says the alumni newsletter subscription form 'will be available shortly', so the alumni newsletter is currently not running.",
+      "sources": [
+        "src_ymcaq_kanawana_alumni_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.23",
       "added_by": "ralph_loop"
     }
   ]

@@ -962,7 +962,8 @@
         "src_ymf_the_green_triangle_1939_07_01",
         "src_ymf_the_green_triangle_1939_07_29",
         "src_ymf_the_green_triangle_1940_08_04",
-        "src_ymf_the_green_triangle_1940_08_22"
+        "src_ymf_the_green_triangle_1940_08_22",
+        "src_ymcaq_kanawana_programs_2026"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -977,7 +978,7 @@
         "timeline-overview"
       ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
-      "word_count": 8335,
+      "word_count": 8767,
       "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_001 editorial-resolution narrative into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H2 into Research Notes. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -9889,7 +9890,8 @@
         "src_ymf_ymca_impact_report_2024",
         "src_ymf_ymca_impact_report_2025",
         "src_ymf_sgw_ymca_community_report_2016",
-        "src_ymf_sgw_ymca_annual_report_2000_2001"
+        "src_ymf_sgw_ymca_annual_report_2000_2001",
+        "src_ymcaq_kanawana_alumni_2026"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -9906,7 +9908,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 6073,
+      "word_count": 6446,
       "notes": "2026-07-11: Workstream C4 spawn (4 of 4, final). Connective-narrative synthesis, no new research conducted. Ties together this session's institutional-role-director spawns into continuous narrative history. This completes Workstream C4 and the full operator-approved plan. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
       "tags": {
         "era": [

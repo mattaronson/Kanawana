@@ -1,7 +1,7 @@
 # The Modern Era: The Two-Tier Era (1995–Present)
 
-*Status: draft | Sources: 26*
-*Last Updated: 2026-09-07 (the 2026 handbook's mission and six named values)*
+*Status: draft | Sources: 27*
+*Last Updated: 2026-09-07 (the 2026 handbook's values; the volunteer scheme and the Non Nobis Solum Committee)*
 
 ## Overview
 
@@ -358,6 +358,33 @@ The handbook also asks families to go through a **Camper Behavior Agreement** wi
 promises, framed as a commitment to the community and its motto, of which the last is "Contribute with my
 happiness, enthusiasm and humour."
 
+## Volunteers, paid in camper fees
+
+The camp's alumni page sets out **Volunteer Recognition Guidelines**, and describes them as "back" — so this
+is a revival of an earlier scheme rather than a new one, though when it lapsed is not stated.^27 The terms
+are unusually specific for a volunteer programme, and worth having in full because they put a dollar figure
+on something camps rarely price.
+
+A volunteer must pass a **criminal background check** and the camp's **child welfare screening process**,
+must serve **at least one week (seven days on site)**, must meet a real operational need, and — the phrase
+that gives the scheme its shape — must "**replace a service normally performed by an employee**." In
+exchange the volunteer receives "**compensation totalling $700 per week of service**," applied as a discount
+or reimbursement against the camp fees of a child, adopted child, nephew, niece or grandchild, in that
+season or the next. The credit expires on **30 September of the year following** the service, and the page
+supplies its own worked example. The alternative use is the interesting one: the volunteer may instead
+**donate the amount to fund the stay of a camper from a less privileged background**, which makes the scheme
+a camperships mechanism as much as a staffing one.
+
+The same page names the camp's **two standing committees**. The **Local Advisory Committee** meets
+quarterly, to "have a say on how Kanawana is managed… to discuss Kanawana's needs and future directions" —
+the body whose 2013–2017 rosters this article records above. And the **Non Nobis Solum Committee** is "the
+perfect committee to get your hands dirty," an on-call group for coordinated volunteering events such as the
+spring clean-up. The camp's Latin motto is the name of its working party, which is about as literal a use of
+*not for ourselves alone* as the phrase admits.
+
+One absence is worth noting rather than passing over: the page says the alumni newsletter subscription form
+"will be available shortly," so as of September 2026 **there is no working alumni newsletter sign-up**.
+
 ## Open Questions
 
 1. [Important] How exactly did the annual reports' single "Director" listings track the Executive-versus-on-site split in years like 2001–2007, when the record shows apparent inconsistencies (e.g. François Dauphin's 2007 head-office title alongside Sean Day's on-site presence)? See [[people/directors-index|Directors and Staff of Camp Kanawana]]'s Open Questions for the full discussion.
@@ -407,6 +434,7 @@ happiness, enthusiasm and humour."
 24. YMCAs of Québec, community reports for **2016** and **2021** and impact reports for **2024** and **2025** [src_ymf_sgw_ymca_community_report_2016, src_ymf_ymca_community_report_2021_eng, src_ymf_ymca_impact_report_2024, src_ymf_ymca_impact_report_2025]. Read 2026-09-07 under the sharpened p_441. See [f_5585] and [f_5586].
 25. YMCA of Montreal, annual report for **2000-2001** [src_ymf_sgw_ymca_annual_report_2000_2001]. Read 2026-09-07 under the sharpened p_441. See [f_5588].
 26. *Camp Kanawana Preparation Guide, Summer 2026* (parent handbook) [src_kk_prep_guide_2026], published on ymcaquebec.org and cached at `sources/cache/parent-guides/Camp-Kanawana-GUIDE-Parent-EN_2026.txt`, 74,071 characters; read word for word 2026-09-07 under p_487, having previously been marked *extracted* while its own record said a full extraction was outstanding. See [f_5603].
+27. Camp YMCA Kanawana, "Kanawana Alumni" [src_ymcaq_kanawana_alumni_2026], https://www.ymcaquebec.org/en/summer-camp-kanawana/alumni, read 2026-09-07; cached at `sources/cache/web-pages/ymcaquebec-kanawana-alumni-2026.txt`. Carries the Volunteer Recognition Guidelines and the camp's two named committees. See [f_5613].
 
 ## Research Notes
 

@@ -1,7 +1,7 @@
 # Coeducation and Gender at Kanawana
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-09-07 (Marois Day across 1932, 1935 and 1936; and the 1965 staff poll)*
+*Last Updated: 2026-09-07 (where it stands in 2026: a gender label on every one of sixteen programmes)*
 
 ## Overview
 
@@ -182,6 +182,46 @@ The camp has also made a public institutional commitment on this front: an offic
 
 The Mountaineer program represents a conceptual shift from the 1968-1969 transition. Where coeducation introduced a second gender category to a previously single-gender institution (with parallel section tracks like Pathfinders), the Mountaineer program acknowledged that a binary gender framework was itself insufficient.
 
+## Where it stands, 2026
+
+The camp's live programme listing, read on 7 September 2026 and already advertising the 2027 season, carries
+a **gender label on every one of its sixteen programmes**, and the pattern in them is the clearest statement
+of the camp's present arrangement anywhere in this wiki.^prog27
+
+**Every junior and intermediate programme is single-gender-plus-non-binary. Every senior and leadership
+programme is mixed.**
+
+| Programme | Ages | Gender, as the camp states it |
+|---|---|---|
+| Woodsmen, 6 and 12 day | 7–12 | boy and non-binary |
+| Pioneers, 6 and 12 day | 7–12 | girl and non-binary |
+| Explorers Woodsmen | 11–12 | boy and non-binary |
+| Explorers Pioneers | 11–12 | girl and non-binary |
+| Coureurs des Bois | 13–16 | boy and non-binary |
+| Pathfinders | 13–16 | girl and non-binary |
+| Adventurers Pathfinders | 13–16 | girl and non-binary |
+| Rangers, 24 day | 15–16 | **mixed** |
+| Voyageurs Extreme, 19 day | 14–17 | **mixed** |
+| Voyageurs Ultimate, 26 day | 15–17 | **mixed** |
+| Trailblazers counsellor-in-training, 48 day | 16–17 | **mixed** |
+| Foresters canoe-guides-in-training, 48 day | 16–17 | **mixed** |
+
+Two things follow. The camp that admitted girls in 1968 is, nearly sixty years on, **still organised by
+gender below about fourteen and mixed above it** — the line falls where tripping and leadership begin, not
+where adolescence does. And **the non-binary provision is handled by pairing rather than by a third
+stream**: each single-gender section reads "and non-binary," which puts the choice to a camper as one
+between two existing sections rather than a separate one.
+
+That is a different arrangement from the **Mountaineer program** described above. **Mountaineer does not
+appear in this listing at all.** Whether it still runs, has been folded into the "and non-binary" formula,
+or is a sleeping arrangement rather than a programme and so out of scope for a registration page, is not
+established here and should not be guessed; the 2022 launch and the 2026 listing are both recorded and the
+gap between them left open.
+
+A note on names: this page says **Woodsmen** where the 2026 parent guide's mailing instructions say
+**Woodsy**, and it adds *Explorers* and *Adventurers* as qualifiers that the guide's own section list does
+not carry. The camp uses more than one vocabulary for its own sections in the same season.
+
 ## Related Articles
 
 - [[history/timeline-overview|Timeline Overview: Camp Kanawana Decade by Decade]]
@@ -289,6 +329,8 @@ coming to Kamp Kanawana each summer."
 9. [New 2026-08-14] [renumbered 2026-09-05: this was written as a second "7."] Who was **Keith Farquharson**, and what did the pre-1965 constituency survey on coeducation actually find beyond "a very large and positive response"? And on what grounds did the Metropolitan Board decline the 1965 recommendation? The answer would turn a three-year delay from a fact into an explanation.
 
 ## Sources
+
+- **prog27** — Camp YMCA Kanawana, "Find a Summer Camp" programme listing [src_ymcaq_kanawana_programs_2026], https://www.ymcaquebec.org/en/summer-camp-kanawana/programs, read 2026-09-07 and advertising the 2027 season; cached at `sources/cache/web-pages/ymcaquebec-kanawana-programs-2026.txt`. See [f_5612].
 
 - **cyc** — Canadian Youth Commission, *Youth & Jobs in Canada* (Toronto: The Ryerson Press, 1945) [src_cyc_youth_and_jobs_1945]. **Two search highlights only**, found 2026-09-06 by an Open Library search-inside sweep on "Otoreke"; the book is lending-restricted and has not been read. Cached with the sweep at `sources/cache/openlibrary-search-inside/2026-09-06-otoreke-corpus-sweep.txt`. See [f_5196].
 - **ar36** — YMCA of Montreal Annual Report for the year ending 31 March 1936 [src_cache_sgw_ymca_annual_report_1936], covering the camping season of **1935**. Read for its camps section 2026-09-06 under p_441. See [f_5071], and [f_5039] on these reports' 31 March year-end.
