@@ -1,8 +1,8 @@
 {
-  "version": "10.25",
-  "kb_version": "10.25",
+  "version": "10.26",
+  "kb_version": "10.26",
   "migrated_from": "3.3",
-  "fact_count": 5577,
+  "fact_count": 5578,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100472,6 +100472,22 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.25",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5616",
+      "category": "operations",
+      "date_ref": "2026",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "WHO KANAWANA HIRES, IN WHAT LANGUAGES, AND HOW A SIXTEEN-YEAR-OLD APPLIES TO LEAD. Three live pages read 2026-09-07. (1) THE HIRING FLOOR, from the jobs page: 'all employees must meet the following requirements: BE AT LEAST 17 YEARS OLD; have NO CRIMINAL RECORD RELATED TO THE POSITION; hold valid FIRST AID AND CPR certification (COURSES MAY BE OFFERED IN THE SPRING for those who are not yet certified); SPEAK ENGLISH AND HAVE A BASIC UNDERSTANDING OF FRENCH FOR POSITIONS AT THE SUMMER CAMP, AND BE FLUENT IN BOTH ENGLISH AND FRENCH FOR ROLES AT THE OUTDOOR CENTRE (exceptions may be made for international staff); have experience working with youth OR HAVE COMPLETED THE LEADERSHIP / COUNSELLOR-IN-TRAINING PROGRAM.' THE LANGUAGE CLAUSE IS THE FINDING: the SUMMER CAMP runs in English with basic French, and the YEAR-ROUND OUTDOOR CENTRE requires FULL BILINGUALISM -- one site, two language regimes, split by season and by clientele. That belongs beside connections/institutional-lineage/french-language-camping-national.md and the 1941 Otoreke songbook's French closing block (f_5602): the French presence at this English camp is old and is now a hiring requirement for half the year. The posts hired: 'Camp counselors; Program leaders; Lifeguards; Program specialists; SECTION HEADS; EXPEDITION GUIDES; Kitchen staff; HEALTH CARE WORKERS; DRIVERS; Administrative staff.' 'While most of our positions take place during the summer as part of our overnight camp, OUR OUTDOOR CENTRE ALSO OPERATES IN THE SPRING AND FALL.' (2) HOW LEADERSHIP PLACES ARE WON, from the application page -- and it is not a form. Beyond age and availability, 'CANDIDATES: TELL US, IN THE MOST CREATIVE WAY YOU CAN THINK OF, WHY YOU WANT TO TAKE PART IN A CAMP YMCA KANAWANA LEADERSHIP PROGRAM... SUBMISSIONS WE'VE RECEIVED IN THE PAST INCLUDE SUCH THINGS AS SONGS, VIDEOS, DRAWINGS, CREATIVE WRITING, OR OTHER UNIQUE CREATIONS', in English or French. A camp that ran a printed newspaper of camper contributions in the 1930s still asks its sixteen-year-olds for a song. THE DATES AND CUT-OFFS, 2026 season: Trailblazer and Forester 22 June to 14 August, 16 or 17 by 20 July, available the entire summer; Rangers 22 June to 17 July, 15 or 16 by 30 September; Voyageurs Ultimate 20 July to 14 August, 15 to 17 by 30 September. AND A STATED POLICY ON SLEEPING ARRANGEMENTS that inverts the camper rule: 'for the LIT programs, CABIN MATE REQUESTS ARE NOT NECESSARILY TAKEN INTO CONSIDERATION... We believe that PART OF BEING AN LIT IS LEARNING TO LIVE IN A COMMUNITY WITH ALL OTHERS, and thus we create and change our sleeping arrangements when it suits the needs of the group's development.' (3) THE INTERNATIONAL SIDE: 'The United States, the United Kingdom, Spain, Mexico, Australia, EVEN ZIMBABWE... Every year, Camp YMCA Kanawana welcomes campers from all over the world.' Flights must fall between 22 June and 14 August or the camp cannot guarantee airport transport or supervision; medical insurance is the family's responsibility; valuables go into the camp safe on day one, accessible only to the directors, and are returned at departure. Airport transfer to Montreal-Trudeau costs $96 each way, $192 return, plus tax, and is 'eligible for tax credits'. 'ENGLISH IS THE MAIN LANGUAGE SPOKEN AT CAMP. Most staff members also speak French; some speak other languages but we cannot make any guarantees.'",
+      "sources": [
+        "src_ymcaq_kanawana_jobs_intl_leadership_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.26",
       "added_by": "ralph_loop"
     }
   ]

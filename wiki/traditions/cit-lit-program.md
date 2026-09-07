@@ -1,7 +1,7 @@
 # The CIT/LIT Program
 
-*Status: draft | Sources: 14*
-*Last Updated: 2026-09-07 (Kanawana required the Blackstock-Latimer handbook in 1978)*
+*Status: draft | Sources: 15*
+*Last Updated: 2026-09-07 (how leadership places are applied for, and the LIT as a hiring credential)*
 
 ## Overview
 
@@ -136,6 +136,37 @@ re-publish them.
 
 As of 2026, the CIT program is branded "Trailblazers": a 48-day program (four sessions of 12 days each) for campers aged 16–17.^5 Participants complete over 200 hours of workshops, training sessions, and activities covering creative programming, risk management, team building, and effective communication, capped by a five-day canoe trip.^5 Certifications earned include Standard First Aid and CPR (a 16-hour course) and a CIT certificate from the Association des camps certifiés du Québec (ACC).^5 A separate "Leaders in Training Information Guide" for Summer 2026 documents the current LIT program structure specifically, published as a PDF on the YMCA Quebec website.^6
 
+### Getting in is not a form
+
+Places on the leadership programmes are applied for, not simply registered, and the application asks for
+something a registration system cannot process.^15
+
+> **Candidates: Tell us, in the most creative way you can think of, why you want to take part in a Camp YMCA
+> Kanawana Leadership Program.** Let us know what you are most looking forward to learning, how you think the
+> program will help you in the future, and what you have to offer as a leader… Submissions we've received in
+> the past include such things as **songs, videos, drawings, creative writing, or other unique creations**.
+
+Submissions may be in English or French. A camp that printed a weekly newspaper out of its campers' own
+contributions in the 1930s still asks its sixteen-year-olds for a song, and the continuity is not
+sentimental: the thing being tested is whether the candidate will make something for the group without being
+told how.
+
+**And the sleeping arrangements are reversed for LITs.** Ordinary campers may make one mutual cabin-mate
+request. Leadership participants may not: "for the LIT programs, **cabin mate requests are not necessarily
+taken into consideration** when forming sleeping arrangements. We believe that **part of being an LIT is
+learning to live in a community with ALL others**, and thus we create and change our sleeping arrangements
+when it suits the needs of the group's development."^15 The bunk becomes a training instrument.
+
+The 2026 dates and cut-offs: **Trailblazer** and **Forester** run 22 June to 14 August and require 16 or 17
+by 20 July and availability for the whole summer; **Rangers** runs 22 June to 17 July, 15 or 16 by 30
+September; **Voyageurs Ultimate** runs 20 July to 14 August, 15 to 17 by 30 September.^15 Exceptions are
+offered for "educational conflicts," to be raised at interview — so there is an interview.
+
+**The programme is also a hiring credential.** The camp's own job requirements accept, in place of
+experience working with youth, that an applicant "**have completed the Leadership / Counsellor-in-Training
+program**."^15 That makes the LIT a formal qualification for employment at Kanawana and not only a camper
+experience, which is the clearest statement this article has of what the programme is *for*.
+
 
 **And two years before that outline, Kanawana had already made the handbook a condition of its own pre-camp.** Derek Walsh's staff bulletin of 28 April 1978 tells the season's staff: "I have mentioned to many that the book ***Camp Counsellor's Handbook* by John Latimer and Brian Blackstock** should be read. Kerry and I are planning the pre-kamp training program **with the assumption that all staff will have read it before June 17th**."^14 Every other appearance of this book in the wiki is the association recommending it — the CCA's 1980 counsellor-training outline, the second edition of March 1984. This is **the camp itself**, six years ahead of that second edition and two years ahead of the outline, which also dates the first edition to before April 1978. It does not close the question in the paragraph above: whether Kanawana used the CCA's CIT *package* is still undocumented. What is now documented is that it used the CCA's handbook, and that it did so while its own director sat as **Vice-President of the association that published it** — so the adoption was not at arm's length.
 
@@ -169,6 +200,7 @@ As of 2026, the CIT program is branded "Trailblazers": a 48-day program (four se
 12. Kanawana Flickr "Plaque" album [src_flickr_kanawana_plaque_album], via the plaque index at `kb/plaque-audit/person-index.json` — the boards "CITS 95", "Kanawana Staff 97", the We Shower Tent board of 2nd session 2000, the Leaders in Training of Summer 2008 and the 2009 Junior Counsellors board. Counts re-derived from the index 2026-09-06 under p_297. See [f_4932], [f_2340].
 13. National Boys' Work Committee report, *The News Bulletin* Vol. 7 No. 1 (January 1931), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_07_01]. Internet Archive item `the-news-bulletin-vol-07-no-01`, in the `ymca-montreal-fonds` collection. Found 2026-09-07 by the enumeration at [f_5243]. See [f_5250].
 14. Derek Walsh, *Ka-News '78*, staff bulletin of 28 April 1978 [src_ymf_ka_news_1978_04_28]. Kanawana's own pre-season mailing to staff, cached at `sources/cache/ymca-montreal-fonds/ka-news-1978-04-28.txt`.
+15. Camp YMCA Kanawana, "Applying for a Leadership Program" and "Summer Camp Jobs" [src_ymcaq_kanawana_jobs_intl_leadership_2026], under `ymcaquebec.org/en/summer-camp-kanawana/`. Read 2026-09-07; cached with two sibling pages at `sources/cache/web-pages/ymcaquebec-kanawana-jobs-international-leadership-2026.txt`, one header line per page giving its own URL. See [f_5616].
 
 ## Research Notes
 

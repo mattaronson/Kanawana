@@ -29535,6 +29535,24 @@
       "notes": "Fetched, extracted and read 2026-09-07 under p_489. This is a DIFFERENT PAGE from the 'Groups & Rentals' one cited as footnote 19 in site/the-kanawana-site.md, and it carries prices that one does not. It also disagrees with it on site capacity (160 against 250) -- see f_5615, where the disagreement is recorded rather than resolved. The page carries a visible broken-link marker, '[ananas broken link]', between the building-rental and equipment-rental blocks.",
       "read_state": "read",
       "read_state_basis": "direct:fetched-extracted-and-read-2026-09-07"
+    },
+    {
+      "source_id": "src_ymcaq_kanawana_jobs_intl_leadership_2026",
+      "type": "web",
+      "title": "Camp YMCA Kanawana — the staffing, international, leadership-application and terms pages, ymcaquebec.org, as at September 2026",
+      "date": "2026-09-07",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://www.ymcaquebec.org/en/summer-camp-kanawana/jobs",
+      "cache_path": "sources/cache/web-pages/ymcaquebec-kanawana-jobs-international-leadership-2026.txt",
+      "char_count": 17343,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v10.25",
+      "reliability": "primary",
+      "notes": "Four pages fetched, extracted and read 2026-09-07 under p_489, cached as one file with a header line per page giving that page's own URL. The origin_url is the jobs page; the rest are inside. Terms and Conditions is cached and is NOT read closely -- only the other three are. See f_5616.",
+      "read_state": "skimmed",
+      "read_state_basis": "direct:three-of-four-pages-read-in-full-2026-09-07; the Terms and Conditions block (9,247 chars) is cached and unread, which is why this record says skimmed rather than read"
     }
   ],
   "source_count": 1757

@@ -1,7 +1,7 @@
 # French-Language Camping and Kanawana, 1967-1973
 
 *Status: draft | Sources: 0 (bullet-style source list, not numbered — see below; six documents, carried over from the parent article's lettered scheme)*
-*Last Updated: 2026-09-07 (the 1975/1979/1981 policy trilogy, and the Montreal Fact as a national annex)*
+*Last Updated: 2026-09-07 (the policy trilogy; and where French sits at the camp in 2026, as a hiring rule)*
 
 ## Overview
 
@@ -102,6 +102,33 @@ Programmes, in the same report: **36% in French, 37% in English, 27% bilingual**
 
 **And the absence is the point, with the null run in both languages.** "Kanawana" occurs **zero** times in the English text and **zero** in the French.^mf79 A review that names five branches and two camps does not name the Association's oldest and best known camp. **This should not be overread.** A four-page promotional review is not an inventory, and absence from a showcase is not evidence of a policy about Kanawana. What it shows is narrower and still worth recording: when the Association wanted to point at camps embodying its linguistic policy in 1979, it pointed at the other two — **and it did the same again in 1981**, where "Kanawana" occurs zero times in a 29,000-character report.^pol81 The absence is consistent with several readings and this article chooses none of them: that Kanawana was already anglophone and stayed so; that it was not thought to need changing; or that its own French work, the 1969 "Living-in-French" section described above, predated the policy and was not counted as an achievement of it.
 
+## Where French sits at Kanawana now, and it is a hiring rule
+
+The article above runs to 1981 and the policy documents stop there. One line on the camp's current jobs page
+carries the thread to 2026, and it is more specific than anything in the policy trilogy.^jobs26
+
+> All employees must… **speak English and have a basic understanding of French for positions at the summer
+> camp, and be fluent in both English and French for roles at the outdoor centre** (exceptions may be made
+> for international staff).
+
+**One site, two language regimes, split by season.** The overnight summer camp runs in English with basic
+French; the outdoor centre that operates in spring and fall — school groups, corporate bookings, the rental
+business — requires full bilingualism. The camp says the same thing to families in its own words on the
+international page: "**English is the main language spoken at camp. Most staff members also speak French**;
+some speak other languages but we cannot make any guarantees."
+
+That is not a resolution of the 1969 "Living-in-French" question or of the Association's fifty-fifty aim. It
+is the settlement those questions arrived at: Kanawana's summer remained anglophone, and its French
+capability attached to the year-round operation that serves a Quebec institutional clientele rather than to
+the camp season that serves its own campers. Whether that was decided or simply happened is not documented
+anywhere read here.
+
+Two smaller things from the same page belong with it. Leadership-programme applications may be submitted
+"**in English OR French**," so the entry point to the camp's own staff pipeline is bilingual even where the
+season is not. And the hiring floor names the pipeline itself: an applicant must have experience with youth
+**or have completed the camp's own Leadership / Counsellor-in-Training programme**, which makes the LIT a
+formal qualification and not only a camper experience.
+
 ## Open Questions
 
 1. **Did "Living-in-French" run more than one season?** The two 1969 press releases announce it.
@@ -127,6 +154,8 @@ Programmes, in the same report: **36% in French, 37% in English, 27% bilingual**
 - [[people/geoff-anderson|Geoff Anderson]] — the director quoted in both 1969 releases
 
 ## Sources
+
+- ^jobs26: Camp YMCA Kanawana, "Summer Camp Jobs", "International Experience" and "Applying for a Leadership Program" [src_ymcaq_kanawana_jobs_intl_leadership_2026], under `ymcaquebec.org/en/summer-camp-kanawana/`. Read 2026-09-07; cached together at `sources/cache/web-pages/ymcaquebec-kanawana-jobs-international-leadership-2026.txt`, one header line per page giving its own URL. The Terms and Conditions page is cached in the same file and is **not** read. See [f_5616].
 
 - **nr69** — Montreal YMCA news release, **13 May 1969**, "YMCA's Kamp Kanawana Set for Record Summer," quoting Geoff Anderson, Director of Kanawana [src_ymf_news_release_1969_05_13_202501]. Cached at `sources/cache/ymca-montreal-fonds/news-release-1969-05-13_202501.txt`; read 2026-09-06 under p_451. See [f_5100].
 - ^nlc80: *National Linguistic Centre*, National Council of YMCAs of Canada / YMCA of Montreal, **January 1980** [src_ymf_1980_01_national_linguistic_centre]. Cached at `sources/cache/ymca-montreal-fonds/1980-01-national-linguistic-centre.txt`; read word for word 2026-09-07. Carries "Montreal Fact" and "Montreal Fact - analysis - 1975-1979" as its Annexes II and III. See [f_5543].

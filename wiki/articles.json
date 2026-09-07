@@ -1356,7 +1356,8 @@
         "src_ymf_news_release_1969_04_24",
         "src_ymf_news_release_1969_05_13_202501",
         "src_ymf_1980_01_national_linguistic_centre",
-        "src_ymf_p0145_news_release_1969_05_29"
+        "src_ymf_p0145_news_release_1969_05_29",
+        "src_ymcaq_kanawana_jobs_intl_leadership_2026"
       ],
       "cross_links": [
         "programs-activities",
@@ -1367,7 +1368,7 @@
         "french-language-camping-national"
       ],
       "file_id": null,
-      "word_count": 3816,
+      "word_count": 4183,
       "open_questions": 5
     },
     {
@@ -9552,7 +9553,8 @@
         "src_ymcaq_lit_guide_2026",
         "src_ymcaq_trailblazers_2026",
         "src_ia_ymca_montreal_news_bulletin_07_01",
-        "src_ymf_ka_news_1978_04_28"
+        "src_ymf_ka_news_1978_04_28",
+        "src_ymcaq_kanawana_jobs_intl_leadership_2026"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -9563,7 +9565,7 @@
         "notable-alumni"
       ],
       "file_id": null,
-      "word_count": 3705,
+      "word_count": 4121,
       "notes": "2026-07-11: Workstream C3 spawn -- structured, decades-spanning program synthesized from 5 scattered articles into a standalone article. No new research conducted. Individual plaque-roster names deliberately not reproduced here (privacy carve-out for C5-listed names already collectively catalogued in directors-index.md). | 2026-08-14 p_226: applied the programs/places BLOCKING fixes from the p_218 audit.",
       "tags": {
         "era": [
