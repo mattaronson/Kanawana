@@ -2,7 +2,7 @@
   "version": "10.09",
   "kb_version": "10.09",
   "migrated_from": "3.3",
-  "fact_count": 5528,
+  "fact_count": 5529,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99636,6 +99636,20 @@
         "Camp Kanawana"
       ],
       "claim": "AN UNCITED SOURCE ENTRY IS FIVE DIFFERENT THINGS, AND THREE OF THEM ARE SUPPOSED TO BE UNCITED. f_5563 assumed two categories and f_5565 found a third; a second working pass through a dozen articles found all five. (1) A CITATION LOST OR NEVER APPLIED -- the claim is in the article and the marker is not. traditions-and-culture entry 31 records that QAHN's Shawbridge article and Ka-News of May 1980 both contain nothing on the Shawbridge Meet; the article states that null in its own open question 4 and never pointed at the entry. Marked. (2) AN ENTRY FOR A PASSAGE NEVER WRITTEN. (3) A HIDDEN NULL, an entry whose whole content is a search that found nothing, kept in a source list where no reader looks for one (maureen-mcbride 3). (4) A TOMBSTONE, deliberately retained to record a withdrawn entry -- winter-programming entry 4 says so in its own text, 'Superseded 2026-09-06. This entry cited a knowledge-base fact id rather than a source.' LEGITIMATELY UNCITED. (5) A POINTER rather than a source: wallace-forgie entries 5 and 6 point at a cache path and at conflict c_069; edgar-smee entry 8 is 'Concordia University Archives... Potential staff records', a LEAD NOT YET CONSULTED. LEGITIMATELY UNCITED. WHAT FOLLOWS FOR THE CHECK. Deleting them all would risk (1); keeping them all guarantees (2) and (3); forcing a marker onto (4) or (5) would assert a provenance that does not exist -- which is worse than the gap, and is the failure this project has already recorded for empty template headings. SO THE COUNT WILL NEVER REACH ZERO AND THE CHECK SHOULD STAY ADVISORY EVEN AFTER p_484 CLEARS. The number to watch is the DELTA, not the total. That is written into the script's own docstring so the next person does not try to drive it to zero. ALSO CORRECTED WHILE HERE: carol-skinner.md said 'the Internet Archive is blocked by this environment's egress policy', which over-generalises. WEB.ARCHIVE.ORG is unreachable; ARCHIVE.ORG answers normally and is how this project reads hundreds of digitized documents. Narrowed in place, citing the controlled test at f_5460.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5567",
+      "category": "methodology",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "A MIS-AIMED FOOTNOTE MARKER FOUND, AND THE CHECK FOR IT BUILT, TESTED AND DISCARDED. THE DEFECT IS REAL. connections/related-camps/camp-oolahwan.md read 'described the transfer at length in an interview recorded on 8 MARCH 1980 and published in 1982.^26'. Entry 26 is Cliff Labbett, 'Our New President', DECEMBER 1979. The interview is entry 27. EVERY CHECK PASSED, because verify_harness confirms that ^26 resolves to a real entry and it does. A wrong-but-real marker is invisible to a resolver and reads as authority. Fixed to ^27. AND IT WAS FOUND BY THE UNCITED-ENTRY CHECK, not by reading: entry 27 showed up as cited by nothing (p_484) because the marker that should have been ^27 had been typed ^26. THAT PAIRING IS THE REAL SIGNAL AND IT IS WORTH KEEPING -- an uncited entry is often the SHADOW of a mis-aimed marker elsewhere in the same file. THE CHECK WAS THEN BUILT, on the model of citation_aim.py which does exactly this for [f_NNNN] fact citations, and IT FAILED. Comparing the distinctive tokens of a citing sentence against its source entry gave 516 findings; every one sampled was a CORRECT citation. A narrower variant comparing only four-digit YEARS gave 321, and those were correct too. WHY IT CANNOT WORK, WHICH IS THE POINT WORTH KEEPING. citation_aim succeeds because a KB fact's claim is PROSE RESTATING THE CONTENT, so a correct citation and its fact share words. A SOURCE ENTRY IS BIBLIOGRAPHIC -- author, title, publisher, identifier -- and DESCRIBES THE DOCUMENT RATHER THAN WHAT THE DOCUMENT SAYS. 'Manitoba won with a time of 507 hours' correctly cites 'Wikipedia, Centennial Voyageur Canoe Pageant' and shares nothing with it; McMorris's 2023 thesis correctly supports a sentence about 1935. There is no lexical or temporal relation to test, so the two dimensions are not analogous and the technique does not carry across. TENTH FAILED HEURISTIC IN THREE DAYS. The script was deleted rather than shipped advisory: an advisory check whose every finding is wrong is worse than no check, because it teaches people that findings are noise. What actually catches this class is the uncited-entry pairing above, and a human reading two adjacent entries.",
       "sources": [],
       "confidence": "stated",
       "conflicts_with": [],

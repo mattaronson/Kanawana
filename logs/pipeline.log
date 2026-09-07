@@ -4852,3 +4852,32 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   project reads hundreds of digitized documents. Narrowed in place against the
   controlled test at f_5460.
   Baseline 129 -> 127. Verify green, nine checks. Timestamp from `date -u`.
+
+[2026-09-07T13:39:34Z] p_484 third pass, and a check built, tested and thrown
+  away. NEW: f_5567. 127 -> 125 entries, 27 -> 25 articles.
+  A MIS-AIMED MARKER, WHICH IS THE WORST OF THE SIX CATEGORIES because every
+  check passes. camp-oolahwan.md read "described the transfer at length in an
+  interview recorded on 8 MARCH 1980 and published in 1982.^26". Entry 26 is
+  Cliff Labbett, "Our New President", DECEMBER 1979; the interview is entry 27.
+  verify_harness confirms ^26 resolves, and it does. Fixed to ^27.
+  AND THE UNCITED-ENTRY CHECK IS WHAT FOUND IT. Entry 27 showed as cited by
+  nothing precisely because the marker that should have pointed at it was typed
+  one lower. So an uncited entry is often the SHADOW of a mis-aimed marker
+  elsewhere in the same file -- a sixth category, and the one that makes this
+  check worth more than tidiness.
+  THEN THE CHECK FOR IT WAS BUILT AND DISCARDED IN THE SAME HOUR. Modelled on
+  citation_aim.py, which does exactly this for [f_NNNN] fact citations:
+  compare the distinctive tokens of the citing sentence against its source
+  entry. 516 FINDINGS, AND EVERY ONE SAMPLED WAS A CORRECT CITATION. A narrower
+  years-only variant gave 321, also correct.
+  WHY IT CANNOT WORK, and this is the part worth keeping. citation_aim succeeds
+  because a KB fact's claim is PROSE RESTATING THE CONTENT, so a correct
+  citation shares words with its fact. A SOURCE ENTRY IS BIBLIOGRAPHIC and
+  describes the DOCUMENT, not what the document says. "Manitoba won with a time
+  of 507 hours" correctly cites "Wikipedia, Centennial Voyageur Canoe Pageant"
+  and shares nothing with it; McMorris's 2023 thesis correctly supports a
+  sentence about 1935. The two dimensions are not analogous.
+  TENTH FAILED HEURISTIC IN THREE DAYS, and DELETED rather than shipped
+  advisory: an advisory check whose every finding is wrong is worse than no
+  check, because it teaches people that findings are noise.
+  Baseline 127 -> 125. Verify green, nine checks. Timestamp from `date -u`.

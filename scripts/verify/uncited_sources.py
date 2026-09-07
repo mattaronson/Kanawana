@@ -39,11 +39,27 @@ these entries are supposed to be here.
 That last point is why this stays advisory even after the backlog is worked: the
 number to watch is the DELTA, not the total.
 
+A SIXTH THING AN UNCITED ENTRY CAN BE, and the reason this check earns its keep
+beyond tidiness: THE SHADOW OF A MIS-AIMED MARKER SOMEWHERE ELSE IN THE SAME
+FILE. camp-oolahwan.md cited an interview of 8 March 1980, published 1982, to
+entry 26 -- which is a different article by the same author from December 1979.
+The interview is entry 27, and entry 27 showed up here as uncited because the
+marker that should have pointed at it had been typed one lower. verify_harness
+saw nothing wrong: ^26 resolves. So when an entry is uncited, look for a
+NEIGHBOURING number carrying a claim it does not support.
+
+That cannot be automated. A check comparing a citing sentence against its source
+entry was written on the model of citation_aim.py and DISCARDED the same hour:
+516 findings, every sampled one a correct citation, because a source entry is
+bibliographic and describes the document rather than what the document says.
+citation_aim works only because a KB fact's claim restates the content. See
+f_5567.
+
 ADVISORY, ON THE PRECEDENT section_headings.py SET. The first whole-wiki run
 found 136 uncited entries across 34 articles -- places-and-locations.md alone
 has 28 entries and cites 9 of them. That is a backlog, and a blocking check
 against a backlog trains everyone to ignore the output. Queued as p_484; make
-this blocking when it clears. The first pass took it to 127 across 27.
+this blocking when it clears. The first passes took it to 125 across 25.
 
 WHAT IT DOES CATCH TODAY is the number going UP, which means an edit stranded
 something.
@@ -59,7 +75,7 @@ import os
 import re
 import sys
 
-BASELINE = 127          # whole-wiki count after the first p_484 pass, 2026-09-07
+BASELINE = 125          # whole-wiki count after the first p_484 passes, 2026-09-07
 #                         (was 136 when this check was written, the same day)
 
 
