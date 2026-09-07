@@ -1,8 +1,8 @@
 {
-  "version": "9.02",
-  "kb_version": "9.02",
+  "version": "9.03",
+  "kb_version": "9.03",
   "migrated_from": "3.3",
-  "fact_count": 5252,
+  "fact_count": 5255,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -94741,6 +94741,65 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.02",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5291",
+      "category": "people",
+      "date_ref": "1889",
+      "entities": [
+        "W. H. Ball",
+        "Springfield Training School",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE FIRST YEAR OF W. H. BALL'S THREE-YEAR BLANK IS FILLED, AND IT SAYS SPRINGFIELD. The 1889 Year Book -- one of the two nineteenth-century volumes the Internet Archive does not hold, and never opened by this project until now -- lists under CORRESPONDING MEMBERS OF THE CONVENTION a long run of men at the Association Training School, Springfield, Massachusetts, and among them: 'Rev. David Allen Read, Springfield, Mass. / G. D. Baker, Ass'n Train. School, [ditto] / WM. H. BALL, JR., [ditto] / Geo. W. Banning, [ditto] ...' -- the ditto marks OCR'd as '44' and '14'. THE FIT IS EXACT ON THREE POINTS: this project has him entering Association work in 1889 (f_4976); Montreal introduces him in 1892 as 'the physical director, W. H. Ball Jr., A NEW MAN, FROM THE SPRINGFIELD TRAINING SCHOOL'; and the 1884, 1886, 1887, 1888 and 1890 volumes contain no W. H. Ball anywhere. So the 1889 volume catches him at the school in the very year he entered the work, and corroborates Montreal's account of where he came from FROM AN INDEPENDENT AND CONTEMPORANEOUS SOURCE rather than from Montreal's own later description. CALLED A STRONG IDENTIFICATION AND NOT A CERTAINTY, because this surname is common in the association and f_5273 records four different W. H. Balls across this series -- but none of the others is at Springfield, and the 'Jr.' and the year both match. The 1885 volume, checked at the same time, contains no W. H. Ball at all; its only Ball is an F. D. Ball. 1890 and 1891 remain blank.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5292",
+      "category": "people",
+      "date_ref": "1889",
+      "entities": [
+        "Charles Babcock",
+        "J. S. Hetherington",
+        "Robert S. Ross",
+        "Wm. Sloan",
+        "John R. Terrill",
+        "YMCA of Montreal"
+      ],
+      "claim": "FIVE MONTREAL MEN ARE CORRESPONDING MEMBERS OF THE YMCA'S NORTH AMERICAN CONVENTION IN 1889, FIVE YEARS BEFORE THE CAMP: 'Frank M. Pratt, Hamilton, Ont. / Geo. Rutherford, [ditto] / CHARLES BABCOCK, MONTREAL, QUE. / J. S. HETHERINGTON, [ditto] / ROBERT S. ROSS, [ditto] / WM. SLOAN, [ditto] / JOHN R. TERRILL, [ditto]' -- the last surname OCR'd 'Terrtll'. NONE OF THE FIVE OCCURS IN THIS PROJECT'S WIKI OR KNOWLEDGE BASE, checked by grep before this was written; Hetherington and Sloan appear in the cached source texts but were never extracted, and Babcock, Ross and Terrill appear nowhere at all. These are volunteer convention members rather than paid officers, so none is a camp figure by this record alone. They are recorded because the association's Montreal leadership in the years immediately before 1894 is thin here, and because the cache hits on two of the names are an immediate next step that costs nothing.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5293",
+      "category": "people",
+      "date_ref": "1893-1894",
+      "entities": [
+        "Wm. Sloan",
+        "J. S. Hetherington",
+        "John P. Copland",
+        "Geo. H. Harrower",
+        "YMCA of Montreal"
+      ],
+      "claim": "WM. SLOAN SAT ON THE YMCA OF MONTREAL'S EXTENSION FUND COMMITTEE IN THE CAMP'S FOUNDING YEAR. The annual report for 1893-94 lists under 'Extension Fund' the chairman GEO. H. HARROWER and secretary H. J. BROWN, with JOHN P. COPLAND and WM. SLOAN as members and the note 'Vacancies'. A Wm. Sloan is also one of the five Montreal corresponding members of the YMCA's North American convention in the 1889 Year Book (f_5292), and the two are plausibly the same man, THOUGH NOTHING HERE ESTABLISHES IT and Sloan is not a rare name -- the same report separately lists a John J. Sloan and a Geo. Sloan. The J. S. Hetherington of that 1889 list appears in this report only as a ten-dollar subscriber in the donor columns, which is a different kind of presence and not an office. Both names were run against this project's cache immediately on being found, per the rule recorded as f_5285.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1893_1894"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.03",
       "added_by": "ralph_loop"
     }
   ]

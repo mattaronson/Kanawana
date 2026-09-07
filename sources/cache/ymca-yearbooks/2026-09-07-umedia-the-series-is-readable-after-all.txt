@@ -391,3 +391,37 @@ A DOCUMENT MARKED "extracted" HAS BEEN READ FOR THE QUESTIONS SOMEBODY HAD AT TH
 not the same as having been read. And the corollary is the practical rule: WHEN AN OUTSIDE
 SOURCE HANDS YOU A NEW NAME FOR AN INSTITUTION THIS PROJECT ALREADY HOLDS DOCUMENTS ABOUT, GREP
 THE CACHE FOR IT IMMEDIATELY, before doing anything else with it.
+
+
+==========================================================================================
+FIFTH PASS — THE 1885 AND 1889 VOLUMES (p_469), AND BALL AT SPRINGFIELD
+==========================================================================================
+
+1889, record 13974, page 239 (rec 13863), under "CORRESPONDING MEMBERS OF THE CONVENTION":
+  "Rev. David Allen Read, Springfield, Mass. / G. D. Baker, Ass'n Train. School, [ditto] /
+   WM. H. BALL, JR., [ditto] / Geo. W. Banning, [ditto] / S. E. Barrett / K. O. Bartlett /
+   J. E. Canfield / F. M. Carey / A. T. Carson ..."
+The ditto marks OCR as "44", "14" and "4 4". The whole run is Association Training School,
+Springfield, Massachusetts.
+
+WHY IT MATTERS: this project has Ball entering Association work in 1889 (f_4976) and Montreal
+introducing him in 1892 as "the physical director, W. H. Ball Jr., A NEW MAN, FROM THE
+SPRINGFIELD TRAINING SCHOOL", with 1884, 1886, 1887, 1888 and 1890 holding no W. H. Ball at all.
+The 1889 volume catches him at the school in the year he entered the work. Montreal's account of
+where he came from is now corroborated from OUTSIDE MONTREAL and CONTEMPORANEOUSLY.
+
+STRONG, NOT CERTAIN. Four different W. H. Balls appear across this series (f_5273) and the
+surname is common in the association. None of the others is at Springfield, and the "Jr." and
+the year both match. Recorded that way.
+
+1885 (record 11848) HOLDS NO W. H. BALL. Its only Ball is an F. D. Ball. 1890 and 1891 are still
+blank and there is nothing left in this series to try for them.
+
+FIVE MONTREAL NAMES ON THE SAME 1889 PAGE, none of them previously anywhere in this project:
+  "Charles Babcock, Montreal, Que. / J. S. Hetherington / Robert S. Ross / Wm. Sloan /
+   John R. Terrill" (the last OCR'd "Terrtll")
+Convention volunteers, not paid officers. Grepped against the cache immediately, per the rule:
+a WM. SLOAN sits on the association's EXTENSION FUND committee in the report for 1893-94, THE
+CAMP'S FOUNDING YEAR, with John P. Copland under chairman Geo. H. Harrower; J. S. Hetherington
+appears there only as a ten-dollar subscriber. Whether the committee's Sloan is the convention's
+Sloan is NOT established, and the same report separately lists a John J. Sloan and a Geo. Sloan.
