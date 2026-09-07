@@ -5931,3 +5931,54 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   cannot later be mistaken for a verification.
   f_5617. facts.json v10.27, 5,579 facts. Verify green. Timestamp from `date -u`
   in its own call.
+
+[2026-09-07T15:51:59Z] RESEARCH -- the annual reports' staff-changes sections,
+  which nobody had read. NINETY-TWO Montreal YMCA annual reports in this repo
+  carry read_state "partial", and in every case the part that was read is the
+  CAMPS section. Built a finding aid --
+  kb/reread/ymca_annual_report_staff_changes.md, 358 passages across 49 reports,
+  each a window around an appointment phrase, quoted mechanically and NOT
+  individually assessed. Cite the report, never the aid. Queued as p_490.
+  MY FIRST HYPOTHESIS WAS WRONG AND THE SECOND WAS RIGHT. The camp-LABELLED
+  passages are ALREADY MINED: Roy Locke's 1954 move, Shantz handing Boys'
+  Camping to Seaman in 1959, Colin McKay and McGerrigle at Otoreke, Guiton
+  succeeded by Porteous -- four destination greps, four already in the wiki.
+  WHAT THE EARLIER SWEEPS MISSED IS THE OPPOSITE CASE: people whose CAMP role is
+  documented somewhere else and whose CAREER sits in these reports under a
+  NON-CAMP heading.
+  THREE OF THOSE, TODAY.
+  - HARRY K. GORDON, the 1960 Voyageurs Director who returns nothing to a web
+    search, has his whole Montreal career here: Assistant Secretary at the
+    NORTHMOUNT branch from 1958 succeeding David Daniels, and out in 1962
+    "to study for teaching", replaced by William Halliday. A branch secretary
+    seconded to a camp for a summer, which is why he is invisible outside the
+    Association's own paper. f_5618.
+  - HAROLD C. CROSS, one of the best-researched articles here, gains FOUR RUNGS.
+    His return dated to September 1926 at Westmount "as successor to Mr. Cecil
+    L. Brown", and the report calling him "a former member of our staff", which
+    corroborates the 1911-14 Montreal start from the Montreal side. The 1927
+    Westmount chain naming Guiton and Holliday in one sentence. A six-month
+    1938 loan-out to direct an "English-Speaking section", services given
+    without cost. AND A SECOND ACTING GENERAL SECRETARYSHIP, in 1951, "following
+    the death of John W. Beaton, General Secretary" -- the article had only the
+    1941-45 spell from a roster -- ending in 1952 when Hubbard arrived from
+    Vancouver and Cross and Clarence M. McCully became Assistant General
+    Secretaries. So he was the association's acting chief executive, then one of
+    two deputies, through the years he wrote the centennial history. The 1953
+    retirement notice's OCR "ll years" is settled as FORTY-ONE by the article's
+    own 1912 entry date, arithmetic rather than scan. f_5619.
+  - HAL BETTS, a hedge opened THIS MORNING and closed this afternoon. The 1938
+    report: "Mr. HAROLD E. BETTS secured his B.A. degree at our Sir George
+    Williams College and was appointed BOYS' WORK SECRETARY AT EDMONTON
+    ASSOCIATION", in a passage about fellowships for men heading into
+    Association secretaryship. Kanawana 1936, the SGW BA list beside John P.
+    Kidd, and the Association's own pipeline are one man. Third case of the same
+    pattern after the two Kidds. THE CAMP WAS A STAGE IN A CAREER STRUCTURE, and
+    the gossip column is where those names survive. f_5620, and f_5590's hedge
+    superseded in place.
+  A MECHANICAL JOIN WAS TRIED AND REJECTED: surnames from the sweep intersected
+  with the wiki gives 274 hits, mostly common nouns. Do it the other way -- take
+  the named people who lack career detail and grep the sweep for each. Ball,
+  Dawson, Cushing, Potter, Charlton and Langille all return zero, which is a
+  fact about these 49 reports and not about the men.
+  facts.json v10.29, 5,582 facts. Verify green. Timestamp from `date -u`.

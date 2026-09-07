@@ -1,6 +1,6 @@
 # The Green Triangle
 
-*Status: draft | Sources: 16*
+*Status: draft | Sources: 17*
 *Last Updated: 2026-09-07 (the four issues the run-wide read missed, read and written up)*
 
 ## Overview
@@ -264,6 +264,20 @@ compass." A campfire at Farewell Rock, and a lift home in boats. **The Panama is
 holds *the Suez* as a Kanawana place name; a second crossing called the Panama makes it a naming habit
 rather than a one-off, and the camp evidently named its water passages after the world's two great canals.
 
+**A third person placed, and a pipeline behind him.** "The love-light in **Hal Betts** eyes" is one of the
+twenty-five things the 1936 season was remembered for, and it looked like an unrecoverable in-joke. The
+association's 1938 annual report has him, in a passage about fellowships "to young men looking to the
+Association secretaryship as a career": "**Mr. Harold E. Betts secured his B.A. degree at our Sir George
+Williams College and was appointed Boys' Work Secretary at Edmonton Association.**"^17 Linwood B. Richardson
+is named in the same sentence, taking his degree and joining the staff.
+
+So the joke is about a man the Montreal YMCA was putting through its own college on the understanding that
+he would enter its own service, and who left for Edmonton the year he graduated. He is also the third case
+of one pattern — Kanawana leader, Sir George Williams degree on a YMCA fellowship, then a YMCA post
+elsewhere in Canada — the other two being the Kidd brothers, and Betts sits beside John P. Kidd in the same
+Bachelor of Arts list. **The camp was a stage in a career structure**, and the paper's gossip column is
+where the names of the men going through it survive.
+
 **And two people placed.** The 17 August 1935 issue names "**John Kidd**" outright, in a list of things
 campers might write up — "why John Kidd can never be found in Camp on Saturday evenings" — and the 1937
 Spring Issue's closing staff roster reads "John Kydd."^16 Between them they identify the "Capt. Kidd" of the
@@ -303,6 +317,7 @@ directing the Senior Section from an armchair on the Lookout veranda in the issu
 14. *The Green Triangle*, **September 1976** and **15 November 1982** [src_ymf_the_green_triangle_1976_09, src_ymf_the_green_triangle_1982_11_15_eng] — the two surviving issues of the revived paper. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 15. *The Green Triangle*, **13 August 1936** (the "Marois Issue"), **1** and **29 July 1939**, **4** and **22 August 1940** [src_ymf_the_green_triangle_1936_08_13, src_ymf_the_green_triangle_1939_07_01, src_ymf_the_green_triangle_1939_07_29, src_ymf_the_green_triangle_1940_08_04, src_ymf_the_green_triangle_1940_08_22]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. ~~With these the whole digitized 1932–1982 run has been read.~~ **Not with these: four issues were still unread when that was written. See entry 16.**
 16. *The Green Triangle*, **17 August 1935**, **30 March 1937** (the Spring Issue), **22 July 1939** and **27 June 1940** [src_ymf_the_green_triangle_1935_08_17, src_ymf_the_green_triangle_1937_03_30, src_ymf_the_green_triangle_1939_07_22, src_ymf_the_green_triangle_1940_06_27]. Cached under `sources/cache/ymca-montreal-fonds/`. **These are the four the p_482 read missed**; read word for word 2026-09-07. See [f_5591] for why they were missed, and [f_5592] through [f_5599] for what they held.
+17. YMCA of Montreal annual report for **1938**, the staff-changes and fellowships section [src_ymf_sgw_ymca_annual_report_1938]. Held at read_state *partial* — its camps section had been read and its staff section had not; read 2026-09-07. See [f_5620].
 
 ## Research Notes
 

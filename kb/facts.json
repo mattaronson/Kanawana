@@ -1,8 +1,8 @@
 {
-  "version": "10.27",
-  "kb_version": "10.27",
+  "version": "10.29",
+  "kb_version": "10.29",
   "migrated_from": "3.3",
-  "fact_count": 5579,
+  "fact_count": 5582,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100043,9 +100043,10 @@
       "date_ref": "1936",
       "entities": [
         "Camp Kanawana",
-        "Harold H. Potter"
+        "Harold H. Potter",
+        "Harold E. Betts"
       ],
-      "claim": "A LIST OF TWENTY-FIVE THINGS THE 1936 SEASON WAS REMEMBERED FOR, AND HAROLD POTTER AT THE PIANO. The same Spring Issue prints 'pictures on the roll of film in our mind-camera', a list of one-line recollections: 'The sudden rise of Lake Kanawana when the Chief took his morning dip; the love-light in HAL BETTS' eyes; JOHN PEARSON's trip to the scaffold; CURRY CARMICHAEL's experience with the cow; the Chef's birthday cake of tin; ... MARSHALL LEBEAU's symphonic orchestra; THE PIANO RECITALS OF HAL POTTER; the Champion Junior Camp Baseball team; the Senior Camp's St. Sauveur chorus; the noonday sing-songs; JACK CAMERON's hair cuts; the senior director trying to blow the royal salute; THE CANOE TRIPS TO WEIR AND LAC ARCHAMBAULT; THE HIKES TO LAUREL, MAUROIS [Marois], MORIN HEIGHTS, AND OTOREKE; GRAHAM PELLEY's cheer-leading; the melody of BILL PAUL's violin solo in the woods at chapel service; the Sunday crease in GEORGE FLOWER's pants; John Pearson's amateur hour trumpetting; GORDIE APPLETON's evening strolls to the Junior League Camp; THE MAROIS DAY REGATTA, SHOW, AND DANCE; DICK ABRAHMS singing, mandolining, and mouthorganing; BILL CRAWFORD's morning stroll of Parliamentary inspection.' 'THE PIANO RECITALS OF HAL POTTER' IS HAROLD H. POTTER AT CAMP IN 1936, almost certainly -- people/notable-alumni/harold-potter.md has him a Kanawana counsellor through his Sir George Williams summers of 1935-1939, and this is a specific season and a specific thing he did. 'HAL BETTS' IS PROBABLY HAROLD E. BETTS, who appears in The Georgian Spirit's Bachelor of Arts list beside JOHN P. KIDD (f_5571) -- so two of the six men in that BA list may both have been at this camp. Not asserted. AND THE TWO CAMPFIRES: 'If Jo Peep had to select just two days to spend in camp, and no more, he would choose the day camp opened officially to the campers and THE LAST NIGHT THAT THE WHOLE CAMP GATHERED IN THE COUNCIL RING'-- the opening and closing SPIRIT OF KANAWANA campfires, named as such in 1937.",
+      "claim": "A LIST OF TWENTY-FIVE THINGS THE 1936 SEASON WAS REMEMBERED FOR, AND HAROLD POTTER AT THE PIANO. The same Spring Issue prints 'pictures on the roll of film in our mind-camera', a list of one-line recollections: 'The sudden rise of Lake Kanawana when the Chief took his morning dip; the love-light in HAL BETTS' eyes; JOHN PEARSON's trip to the scaffold; CURRY CARMICHAEL's experience with the cow; the Chef's birthday cake of tin; ... MARSHALL LEBEAU's symphonic orchestra; THE PIANO RECITALS OF HAL POTTER; the Champion Junior Camp Baseball team; the Senior Camp's St. Sauveur chorus; the noonday sing-songs; JACK CAMERON's hair cuts; the senior director trying to blow the royal salute; THE CANOE TRIPS TO WEIR AND LAC ARCHAMBAULT; THE HIKES TO LAUREL, MAUROIS [Marois], MORIN HEIGHTS, AND OTOREKE; GRAHAM PELLEY's cheer-leading; the melody of BILL PAUL's violin solo in the woods at chapel service; the Sunday crease in GEORGE FLOWER's pants; John Pearson's amateur hour trumpetting; GORDIE APPLETON's evening strolls to the Junior League Camp; THE MAROIS DAY REGATTA, SHOW, AND DANCE; DICK ABRAHMS singing, mandolining, and mouthorganing; BILL CRAWFORD's morning stroll of Parliamentary inspection.' 'THE PIANO RECITALS OF HAL POTTER' IS HAROLD H. POTTER AT CAMP IN 1936, almost certainly -- people/notable-alumni/harold-potter.md has him a Kanawana counsellor through his Sir George Williams summers of 1935-1939, and this is a specific season and a specific thing he did. 'HAL BETTS' IS PROBABLY HAROLD E. BETTS, who appears in The Georgian Spirit's Bachelor of Arts list beside JOHN P. KIDD (f_5571) -- so two of the six men in that BA list may both have been at this camp. Not asserted. AND THE TWO CAMPFIRES: 'If Jo Peep had to select just two days to spend in camp, and no more, he would choose the day camp opened officially to the campers and THE LAST NIGHT THAT THE WHOLE CAMP GATHERED IN THE COUNCIL RING'-- the opening and closing SPIRIT OF KANAWANA campfires, named as such in 1937. [HEDGE CLOSED 2026-09-07, same day, by f_5620: \"'HAL BETTS' IS PROBABLY HAROLD E. BETTS... Not asserted\" can now be asserted. The Montreal YMCA's 1938 annual report has 'Mr. Harold E. Betts secured his B.A. degree at our Sir George Williams College and was appointed Boys' Work Secretary at Edmonton Association', in a passage about fellowships for men heading into Association secretaryship. Kanawana 1936, the SGW BA list beside John P. Kidd, and the Association's own fellowship pipeline are one man.]",
       "sources": [
         "src_ymf_the_green_triangle_1937_03_30"
       ],
@@ -100500,6 +100501,65 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.27",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5618",
+      "category": "people",
+      "date_ref": "1958-1962",
+      "entities": [
+        "Harry K. Gordon",
+        "YMCA of Montreal",
+        "Camp Kanawana"
+      ],
+      "claim": "HARRY K. GORDON, THE 1960 VOYAGEURS DIRECTOR, HAS A CAREER AND AN EXIT, AND BOTH WERE IN THIS PROJECT'S OWN CACHE. He has stood as an open lead since the 1960 Verendrye brochure named him 'Harry K. Gordon, Voyageurs Director' beside 'A. Ross Seaman, Director of Boys' Camping'. WEB SEARCH FINDS NOTHING -- one query on his name with YMCA, Montreal, camp and 1960 returned no relevant result. THE MONTREAL YMCA'S OWN ANNUAL REPORTS HAVE HIM TWICE, in their staff-changes sections, and both reports were already cached and marked read_state PARTIAL because only their camps sections had been read. THE 1958 REPORT (for the year ending 31 December 1958): 'HARRY GORDON BECAME ASSISTANT SECRETARY AT THE NORTHMOUNT BRANCH following DAVID DANIELS who moved to the Hamilton Ont. Association.' THE 1962 REPORT (year ending 31 December 1962): 'William Halliday was appointed Assistant Secretary at Northmount Branch TO REPLACE HARRY GORDON WHO RESIGNED TO STUDY FOR TEACHING.' SO THE ARC IS: Assistant Secretary at Northmount from 1958, Voyageurs Director for the 1960 season while holding that branch post, and out of the Association in 1962 to train as a teacher. That is the same shape as the other camp directorships of the period -- a branch secretary seconded to run a camp programme for the summer, not a camping professional -- and it is why he leaves no trace outside the Association's own paper. IT ALSO NARROWS THE VOYAGEURS QUESTION at site/les-voyageurs-de-la-verendrye.md. That article records Roger Wilson as the 1960 director on his signature on the season report, while the brochure puts Wilson among the leaders and Gordon in the director's chair, and offers a mid-season change as an equally good reading. Gordon being in post at Northmount across the whole of 1958-1962 makes a mid-season departure in 1960 less likely, though it does not exclude one: a branch secretary could be pulled back to his branch mid-summer without leaving the Association. WHAT THIS DOES NOT GIVE: his full name beyond the initial K, his dates, where he taught, or whether he ran the Voyageurs in any year but 1960. THE METHOD NOTE: both reports were marked PARTIAL and honestly so, and the material was in the half nobody had read. A partially-read report is not a read one, and staff-appointment sections are where this project's missing people keep turning out to be.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1958",
+        "src_ymf_sgw_ymca_annual_report_1962"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5619",
+      "category": "people",
+      "date_ref": "1926-1953",
+      "entities": [
+        "Harold C. Cross",
+        "YMCA of Montreal"
+      ],
+      "claim": "FOUR MISSING RUNGS IN HAROLD C. CROSS'S CAREER, FROM THE ANNUAL REPORTS' STAFF-CHANGES SECTIONS. people/harold-cross.md is one of this project's best-researched articles and had none of these, because the reports were read for their CAMPS sections and held at read_state 'partial'. (1) HIS RETURN TO MONTREAL IS DATED AND HE SUCCEEDED A NAMED MAN. The 1926 report: 'In June Mr. T. F. Best, who had been for eight months in charge of the Westmount Branch... left to resume his evangelistic work throughout the Dominion. Mr. J. M. Graham substituted for him until THE ARRIVAL IN SEPTEMBER OF MR. HAROLD C. CROSS, A FORMER MEMBER OF OUR STAFF, WHO WAS CALLED TO THE EXECUTIVE SECRETARYSHIP AS SUCCESSOR TO MR. CECIL L. BROWN.' So: Westmount, September 1926, succeeding Cecil L. Brown with T. F. Best and J. M. Graham filling the gap -- and the report itself calls him 'a former member of our staff', corroborating the 1911-1914 Montreal start the article reconstructed from the Year Book run. (2) THE 1927 REPORT PUTS HIM IN THE SAME SENTENCE AS HOLLIDAY AND GUITON: a senior secretary 'spent eight months of his time in Westmount PENDING THE ARRIVAL OF MR. CROSS, relieved Mr. Guiton who had been ACTING SECRETARY IN MR. HOLLIDAY'S ABSENCE, on February 1st.' That is the Westmount succession chain around the years the article dates his Kanawana directorship to. (3) A SPECIAL ASSIGNMENT IN 1938: the Association was asked 'to loan one of their senior Secretaries to direct the ENGLISH-SPEAKING SECTION' of two named projects, 'and Mr. Harold C. Cross, METROPOLITAN PROGRAMME SECRETARY was appointed. Mr. Cross gave a great deal of his time to this work, OVER A PERIOD OF SIX MONTHS, the Association making his services available WITHOUT COST.' (4) THE 1941-1945 ACTING GENERAL SECRETARYSHIP THE ARTICLE HAS FROM A ROSTER IS NOT THE ONLY ONE. The 1951 report: 'FOLLOWING THE DEATH OF JOHN W. BEATON, GENERAL SECRETARY, HAROLD C. CROSS, FORMERLY PROGRAMME SECRETARY, WAS APPOINTED ACTING GENERAL SECRETARY.' A second spell, a decade later, with a cause -- and it dates the death of Beaton, whom this project holds elsewhere. Then the 1952 report: 'F. G. Hubbard, formerly of Vancouver, assumed the position of General Secretary of the Montreal Association in September. HAROLD C. CROSS AND CLARENCE M. McCULLY WERE SUBSEQUENTLY APPOINTED ASSISTANT GENERAL SECRETARIES.' So the caretaker handed over to Hubbard and stayed on as one of two deputies -- and published the centennial history in the same stretch. (5) AND THE RETIREMENT IS CORROBORATED WITH ITS OWN WORDING: the 1953 report, 'On February 28, 1953, Mr. Harold C. Cross, Assistant General Secretary, RETIRED AFTER [4]1 YEARS OF LOYAL AND DEVOTED SERVICE.' The OCR gives 'll years', which is garbled: the article's independently established 1912 entry and 1 March 1953 retirement make it FORTY-ONE, and the reading is settled by that arithmetic rather than by the scan.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1926",
+        "src_ymf_sgw_ymca_annual_report_1927",
+        "src_ymf_sgw_ymca_annual_report_1938",
+        "src_ymf_sgw_ymca_annual_report_1951",
+        "src_ymf_sgw_ymca_annual_report_1952",
+        "src_ymf_sgw_ymca_annual_report_1953"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.29",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5620",
+      "category": "people",
+      "date_ref": "1938",
+      "entities": [
+        "Harold E. Betts",
+        "Camp Kanawana",
+        "Sir George Williams College"
+      ],
+      "claim": "HAL BETTS IDENTIFIED AND GIVEN A DESTINATION, THE SAME DAY THE LEAD OPENED. This morning's reading of the Green Triangle's 1937 Spring Issue found 'the love-light in HAL BETTS' eyes' among the twenty-five things the 1936 season was remembered for, and recorded as PROBABLE, not asserted, that this is the Harold E. Betts who appears in The Georgian Spirit's Bachelor of Arts list beside John P. Kidd (f_5590). THE 1938 ANNUAL REPORT SETTLES BOTH HALVES: under a passage about fellowships 'to young men looking to the Association secretaryship as a career', it reports that 'MR. HAROLD E. BETTS SECURED HIS B.A. DEGREE AT OUR SIR GEORGE WILLIAMS COLLEGE AND WAS APPOINTED BOYS' WORK SECRETARY AT EDMONTON ASSOCIATION.' So Harold E. Betts is a Montreal YMCA man on a fellowship, took his SGW degree in 1938, and left immediately for Edmonton as Boys' Work Secretary. THAT MAKES THE IDENTIFICATION SOLID rather than probable: the Kanawana of 1936, the SGW BA list, and the Association's own fellowship pipeline are one person. IT ALSO MAKES HIM THE THIRD MAN in a pattern the Kidd material shows -- Kanawana leader, Sir George Williams degree on a YMCA fellowship, then a YMCA post elsewhere in Canada. The same report names LINWOOD B. RICHARDSON in the same sentence, taking his B.A. and joining the staff. THE FELLOWSHIP SCHEME IS THE FINDING BEHIND THE NAME: the Montreal Association was paying for degrees at its own college on the explicit understanding that the graduates would enter Association secretaryship, and Kanawana was where they worked in the summers. NOT ESTABLISHED: Betts's dates, whether he returned to Montreal, or how long he was at camp.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1938"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.29",
       "added_by": "ralph_loop"
     }
   ]

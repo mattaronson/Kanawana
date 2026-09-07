@@ -1,7 +1,7 @@
 # Les Voyageurs de la Vérendrye
 
-*Status: draft | Sources: 19*
-*Last Updated: 2026-09-07 (the 1960 brochure: a Voyageurs Director this project did not have, and the 1959 company's own trip log)*
+*Status: draft | Sources: 20*
+*Last Updated: 2026-09-07 (Harry K. Gordon given a career, from the staff-changes sections nobody had read)*
 
 ## Overview
 
@@ -674,6 +674,25 @@ Gordon is a name this project did not hold**, and Seaman's own title that year �
 Camping, above the individual camps rather than inside one — is worth having beside
 [[people/a-ross-seaman|his article]], which has him directing Kanawana from 1959.
 
+**And Gordon now has a career.** He was not a camping professional. The Montreal Association's own annual
+reports carry him twice, in the staff-changes sections that nobody had read because both reports were held
+at read-state *partial* for their camps sections alone.^20 The 1958 report: "**Harry Gordon became Assistant
+Secretary at the Northmount Branch** following David Daniels who moved to the Hamilton Ont. Association."
+The 1962 report: "William Halliday was appointed Assistant Secretary at Northmount Branch **to replace Harry
+Gordon who resigned to study for teaching**."
+
+So the arc is Assistant Secretary at Northmount from 1958, Voyageurs Director for the summer of 1960 while
+holding that branch post, and out of the Association in 1962 to train as a teacher — the same shape as the
+period's other camp appointments, a branch secretary seconded to run a programme for a season rather than
+someone whose job was camping. It is also why he leaves no trace outside the Association's own paper: a web
+search on his name with the YMCA, Montreal, camp and 1960 returns nothing.
+
+That slightly narrows the question above without closing it. Gordon was in post at Northmount across the
+whole of 1958–1962, which makes a mid-season departure from the Voyageurs in 1960 less likely — though a
+branch secretary could be pulled back to his branch in July without leaving the Association at all. His full
+name beyond the initial K, his dates, where he taught, and whether he ran the Voyageurs in any other year
+are all still open.
+
 **And it shows who was standing behind the programme.** An **Advisory Committee** of four: John F.
 Lewis, **Dr. J. Preston Robb**, **Dr. H. G. Dimock** and **Dr. H. F. Hall**. Dimock is the Montreal
 YMCA's Coordinator of Staff Development and Training in exactly these years, whom
@@ -803,3 +822,4 @@ them recur in the 1960 masthead.
 17. Porter Sargent Publishers, *The Guide to Summer Camps and Summer Schools*, 1983-1984 (23rd edition) and December 1987, the KANAWANA entries [src_porter_sargent_guides_1983_1987]. **One entry from each edition**, reconstructed 2026-09-06 from fifteen overlapping Open Library search-inside queries; both books are lending-restricted and neither has been read. Cached with the queries at `sources/cache/openlibrary-search-inside/2026-09-06-porter-sargent-guides-1983-84-and-1987.txt`. See [f_4946].
 18. Les Voyageurs de la Vérendrye, director's season review for 1982 [src_ymf_1982_les_voyageurs_de_la_verendrye_review]. Concordia-digitized YMCA of Montreal fonds; full text cached at `sources/cache/ymca-montreal-fonds/1982-les-voyageurs-de-la-verendrye-review.txt`. Held since 2026-08-25 at read_state "skimmed" and read word for word 2026-09-07 under p_482. The author's signature is present but illegible in the OCR, so the report is cited unsigned.
 19. *The Adventures of the Voyageurs of Verendrye*, promotional brochure, Montreal YMCA, 1960 [src_ymf_1960_the_adventures_of_the_voyageurs_of_verendrye_brochure]. Concordia-digitized YMCA of Montreal fonds; full text cached at `sources/cache/ymca-montreal-fonds/1960-the-adventures-of-the-voyageurs-of-verendrye-brochure.txt`. Held since 2026-08-25 at read_state "skimmed", read word for word 2026-09-07 as the third item worked under p_482. A promotional document and read as one, but it carries three things a promotional document usually does not: a full committee roster, the charter roll of the 1959 company, and verbatim excerpts from an outfit's trip log.
+20. YMCA of Montreal annual reports for the years ending 31 December **1958** and **1962** [src_ymf_sgw_ymca_annual_report_1958, src_ymf_sgw_ymca_annual_report_1962], cached under `sources/cache/ymca-montreal-fonds/`. Both are read_state *partial* — only their camps sections had been read; the staff-changes sections were read 2026-09-07. See [f_5618].

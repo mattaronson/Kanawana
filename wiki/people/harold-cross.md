@@ -1,7 +1,7 @@
 # Harold C. Cross
 
-*Status: E1-reviewed | Sources: 15*
-*Last Updated: 2026-09-07 (called a former Kanawana Chief by the camp's own paper, and summering at Marois in 1935)*
+*Status: E1-reviewed | Sources: 16*
+*Last Updated: 2026-09-07 (four rungs from the annual reports' staff-changes sections, including a second Acting General Secretaryship)*
 
 ## Overview
 
@@ -59,6 +59,46 @@ Phase 2 research (2026) established that Cross was based at the Victoria, Britis
 - **1971**: A photograph of Harold C. Cross from this year is held in the Concordia Archives.^1
 
 
+## Four rungs from the staff-changes sections
+
+Six of the association's annual reports were held in this repo at read-state *partial* — their camps sections
+read, their staff-changes sections not — and Cross is in four of them.^16 None of what follows was in this
+article.
+
+**The return to Montreal is dated, and he replaced a named man.** The 1926 report: "In June Mr. T. F. Best,
+who had been for eight months in charge of the Westmount Branch… left to resume his evangelistic work
+throughout the Dominion. Mr. J. M. Graham substituted for him until **the arrival in September of Mr. Harold
+C. Cross, a former member of our staff, who was called to the Executive Secretaryship as successor to Mr.
+Cecil L. Brown**." So Westmount, September 1926, after Best and Graham — and the association's own report
+calls him "a former member of our staff," which corroborates from the Montreal side the 1911–1914 North
+Branch start this article reconstructed out of the *Year Book* run.
+
+**And the 1927 report puts him in one sentence with Holliday and Guiton.** A senior secretary "spent eight
+months of his time in Westmount **pending the arrival of Mr. Cross**, relieved Mr. Guiton who had been
+**Acting Secretary in Mr. Holliday's absence**, on February 1st."^16 That is the Westmount succession chain
+running straight through the years this article dates his Kanawana directorship to. See
+[[people/w-j-holliday|W. J. Holliday]].
+
+**A loan-out in 1938.** The association was asked "to loan one of their senior Secretaries to direct the
+**English-Speaking section**" of two projects, "and Mr. Harold C. Cross, **Metropolitan Programme
+Secretary**, was appointed. Mr. Cross gave a great deal of his time to this work, **over a period of six
+months**, the Association making his services available **without cost**."^16
+
+**There were two Acting General Secretaryships, not one.** This article has the 1941–1945 spell from a
+roster. The 1951 report records a second, with a cause: "**Following the death of John W. Beaton, General
+Secretary, Harold C. Cross, formerly Programme Secretary, was appointed Acting General Secretary.**"^16 The
+caretakership ended the next year, and he did not leave: "F. G. Hubbard, formerly of Vancouver, assumed the
+position of General Secretary of the Montreal Association in September. **Harold C. Cross and Clarence M.
+McCully were subsequently appointed Assistant General Secretaries.**"^16 So through the years he was writing
+and publishing the centennial history he was first the association's acting chief executive and then one of
+its two deputies.
+
+**The retirement, in the association's own words**, and it settles a scan. The 1953 report: "On **February
+28, 1953**, Mr. Harold C. Cross, Assistant General Secretary, **retired after [4]1 years of loyal and
+devoted service**."^16 The OCR reads "ll years," which is garbled; the 1912 entry and the 1953 retirement
+established elsewhere in this article make it **forty-one**, and the reading rests on that arithmetic rather
+than on the page.
+
 ## The 1951 Book
 
 Harold C. Cross's principal work, *100 Years of Service to Youth* (also titled *One Hundred Years: The Story of the Montreal Y.M.C.A.*), was written to commemorate the centennial of the Montreal YMCA, which was founded at St. Helen Street Baptist Church in November 1851 — the first YMCA in North America.^1 Chapter 7 of the manuscript is titled "Dominion Square Building (One Hundred Years of Service to Youth)."^1
@@ -114,6 +154,7 @@ of the association, it is the only glimpse of him off duty.
 13. YMCA of Montreal, *Sixty-Third Annual Report, Year ending April 30th, 1914* [src_ymf_sgw_ymca_annual_report_1914]. Cached at `sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-1914.txt`, in this project since before this session and already the source of the 1913 attendance figure in [[meta/attendance-series|the attendance series]] — the camp staff named in the same sentence had not been extracted. See [f_5282].
 14. The two MULTI-YEAR items of the yearbook series, re-read 2026-09-07: [src_icre_yearbook_1933], whose title page says 1933 but which binds the yearbooks for **1933 through 1938**, and [src_icre_yearbook_undated], which binds **1939 through 1942** and whose running heads carry all four. Each Quebec officer block placed by the dated year-marks bracketing it in the same text, monotonic across ten blocks, with J. P. Copland present as Honorary Treasurer in every one as a control. Set out year by year at `sources/cache/religious-education/2026-09-07-quebec-council-year-by-year.txt`. See [f_5353], [f_5354], [f_5355].
 15. *The Green Triangle*, Vol. IV No. 7, **4 August 1935**, and Volume 5, **Re-union Number, 17 October 1936** [src_ymf_the_green_triangle_1935_08_04, src_ymf_the_green_triangle_1936_10_17]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+16. YMCA of Montreal annual reports for **1926, 1927, 1938, 1951, 1952** and **1953**, the STAFF-CHANGES sections [src_ymf_sgw_ymca_annual_report_1926, src_ymf_sgw_ymca_annual_report_1927, src_ymf_sgw_ymca_annual_report_1938, src_ymf_sgw_ymca_annual_report_1951, src_ymf_sgw_ymca_annual_report_1952, src_ymf_sgw_ymca_annual_report_1953]. All six are held at read_state *partial*: their CAMPS sections had been read and their staff sections had not, which is why none of this was here. Read 2026-09-07; passages indexed at `kb/reread/ymca_annual_report_staff_changes.md`. See [f_5619].
 
 ## Research Notes
 
