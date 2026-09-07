@@ -305,7 +305,12 @@ route to the **summer of 1914** — the one camp season in the war decade still 
   cites and has never opened. If "A. W." is A. Wallace, then the man who taught the Canadian
   camping movement's matriarch to canoe-trip was a national YMCA boys' work official who served in
   both wars and spent eight years in India.
-- **`p_471`** — the Guiton identification, through the two other names in that 1923 *Gas Bag* poem.
+~~- **`p_471`** — the Guiton identification.~~ **Closed, and not by the route the priority proposed.**
+  I had suggested identifying Walt Reeves or Phil Godfrey to fix the poem's cast. Unnecessary: the
+  **1922 Kanawana brochure** lists "G. Guiton, North" among the Boys' Work Secretaries who take
+  camp applications, and the **1922-23 North Branch brochure** gives him as that branch's Boys'
+  Secretary under W. J. Holliday. Both were in the cache. *Fourth time today the answer was already
+  here.*
 
 **For the operator, unchanged and not to be ground on:** `c_067`, `c_068`, `p_442`, `p_443`,
 `p_439`, the fifty-nine fonds images that need eyes rather than searches, and the eleven items in

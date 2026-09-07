@@ -1,8 +1,8 @@
 {
-  "version": "9.23",
-  "kb_version": "9.23",
+  "version": "9.24",
+  "kb_version": "9.24",
   "migrated_from": "3.3",
-  "fact_count": 5287,
+  "fact_count": 5288,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -95376,6 +95376,25 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.23",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5326",
+      "category": "people",
+      "date_ref": "1922-1923",
+      "entities": [
+        "Geoffrey Guiton",
+        "W. J. Holliday",
+        "Kamp Kanawana"
+      ],
+      "claim": "THE GUITON OF THE 1923 GAS BAG IS THE NORTH BRANCH'S BOYS' SECRETARY, AND THE CAMP'S OWN BROCHURE PUTS HIM IN CHARGE OF ITS APPLICATIONS. f_5290 recorded a Guiton in a raided tent with the 'North Branch tribe' in the camp's 1923 newsletter and refused to identify him with the Geoffrey Guiton the Year Book has as North Branch's boys' worker in 1920-21, for want of an initial or a role. TWO CACHED BROCHURES SETTLE IT. THE 1922 KAMP KANAWANA BROCHURE, listing the Boys' Work Secretaries at each city branch to whom camp applications are to be made: 'R. E. G. Davis, Central, 127 Drummond Street ... G. R. Ingleson, Westmount, 4585 Sherbrooke St. ... G. GUITON, NORTH, 2300 PARK AVENUE, Rockland 1179 ... J. G. MacKinnon, Cote St. Paul ...' AND THE 1922-23 NORTH BRANCH BROCHURE, giving that branch's whole staff: 'A. E. SHAW, Chairman / W. J. HOLLIDAY, Executive Secretary / Robt. THOMAS, Physical Director / G. GUITON, BOYS' SECRETARY.' So G. Guiton is North Branch's Boys' Secretary in 1922-23, under W. J. Holliday, and is the man the camp's own brochure tells North Branch families to apply to. A boys' secretary who is his branch's camp contact, sleeping in a tent with his branch's boys the following summer, is the natural reading of the poem and now much the better one. STILL SHORT OF CERTAINTY ON THE POEM ITSELF: it gives no initial, and a relative cannot be excluded. But the identification of the Year Book's Geoffrey Guiton with the brochures' G. Guiton is firm -- same branch, same post, same years -- and the camp connection this project wanted for a named branch boys' worker is now documented outright, poem or no poem.",
+      "sources": [
+        "src_brochure_1922",
+        "src_ymf_1922_1923_ymca_north_branch_brochure"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.24",
       "added_by": "ralph_loop"
     }
   ]

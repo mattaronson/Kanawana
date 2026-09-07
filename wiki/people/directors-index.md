@@ -1,6 +1,6 @@
 # Directors and Staff of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 63*
+*Status: E1-reviewed | Sources: 64*
 *Last Updated: 2026-09-07 (Holliday's 41 years, two wars, and the four camp men overseas together)*
 
 ## Summary
@@ -340,6 +340,8 @@ What to ask those volumes, in order: **is W. J. Holliday Boys' Work Director aga
 **It was a war record, and the association says so itself.** The report for the year ending 30 April 1918: "North Branch. — **Mr. W. J. Holliday, Secretary, resigned for overseas service** and was succeeded by **Mr. T. S. Smith, of Quebec, on February 12th**."^62 The refusal above was right to stand — the hypothesis was obvious and the evidence for it was not in the volume — and the answer was in this project's own cache the whole time, in a sentence nobody had reason to look for until the *Year Book* narrowed the question to a two-year window.
 
 **And the going is bracketed to under four months.** The *previous* volume carries its own Canadian list — "Overseas Secretaries, Canadian National Council, **June 1, 1918**" — and Holliday is on that one too. Montreal has him succeeded at the North Branch on **12 February 1918**. So he left between those two dates and is on the Canadian overseas lists of both 1918 and 1919. *(A correction to the sentence above, made the same session: he is not "absent from the 1917-18 and 1918-19 volumes" — he is absent from their **alphabetical list of paid officers and the Montreal directory**, and present in both volumes' war-service sections. An exact-phrase search on the roster form "Holliday, W. J." misses him because those lists print "Holliday, Capt. William J." A man can be missing from one list in a volume and named in another, and saying "absent from the volume" papers over exactly that.)*
+
+**A North Branch boys' secretary was the camp's own contact for his branch.** The **1922 Kamp Kanawana brochure**, listing the Boys' Work Secretaries to whom camp applications are to be made: "R. E. G. Davis, Central, 127 Drummond Street … G. R. Ingleson, Westmount … **G. Guiton, North, 2300 Park Avenue** … J. G. MacKinnon, Cote St. Paul …" And the **1922-23 North Branch brochure** gives that branch's whole staff: "A. E. Shaw, Chairman — **W. J. Holliday, Executive Secretary** — Robt. Thomas, Physical Director — **G. Guiton, Boys' Secretary**."^64 So Guiton served under Holliday and was the man North Branch families applied to for camp — which makes the **Guiton in the 1923 *Gas Bag***, in a raided tent with the "North Branch tribe," almost certainly him. *The poem still gives no initial and a relative cannot be excluded; the brochures, though, need no poem at all.*
 
 **Four camp men were overseas at once, which is why this stretch of the record thins.** The 1942 report, in one paragraph: "John W. Beaton, our General Secretary, has continued as Senior Secretary for National Y.M.C.A. War Services, on loan from the Montreal Association. **W. J. G. Macdiarmid** is senior Y.M.C.A. supervisor for Great Britain, **C. J. McGerrigle** and **W. J. Holliday** are also serving in the War Services overseas. **W. H. Spearman** has recently been appointed manager of the famous Beaver Club in London."^63 Read the camp names off it: **Macdiarmid** was Kanawana's Camp Chief 1935-1938, **Spearman** 1932-1934, **McGerrigle** ran Camp Otoreke from about 1935 and returned to it after, and **Holliday** opened the Lac Wilson site in 1910. Four eras of the camp's leadership, abroad in the same year.
 
@@ -726,6 +728,7 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 61. YMCA of Montreal, annual report for **1893-94** [src_ymf_sgw_ymca_annual_report_1893_1894], cached here since before this session. Consulted 2026-09-07 by grepping the cache for names the 1889 *Year Book* had just supplied. See [f_5293].
 62. YMCA of Montreal annual reports for **1917** and **1918** [src_ymf_sgw_ymca_annual_report_1917, src_ymf_sgw_ymca_annual_report_1918], both cached here since before this session and both consulted 2026-09-07 after the *Year Book* narrowed the question. See [f_5297] and [f_5298].
 63. YMCA of Montreal annual reports for **1942**, **1946** and **1948** [src_ymf_sgw_ymca_annual_report_1942, src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1948], all three cached here since before this session. The 1948 report's retirement paragraph is the fullest account of W. J. Holliday's career in any source this project holds. See [f_5323], [f_5324] and [f_5325].
+64. *Kamp Kanawana* brochure, 1922 season [src_brochure_1922], and the *YMCA North Branch* brochure for 1922-23 [src_ymf_1922_1923_ymca_north_branch_brochure]. Both cached here since before this session; the Guiton identification was made by asking them a question, not by fetching anything. See [f_5326].
 
 ## Research Notes
 
