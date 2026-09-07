@@ -1,7 +1,7 @@
 # Kanawana in Media and Culture
 
 *Status: E1-reviewed | Sources: 30*
-*Last Updated: 2026-09-07 (every archival reference code corrected, by one)*
+*Last Updated: 2026-09-07 (every archival reference code corrected, by one; the Flickr album index read)*
 
 ## Overview
 
@@ -197,6 +197,26 @@ The centrepiece was not music but a comedy sketch. **Morry Cross** — "Kanawana
 ## Social Media and Online Presence
 
 **Flickr.** YMCA Camp Kanawana maintains an official Flickr photostream with over 4,400 photos documenting camp activities and history.^14
+
+The album index was read on 7 September 2026 and lists **twenty-four albums**, which is the camp's own
+published record of what it thought worth photographing between 2009 and 2013.^14 Four **session albums**
+for each of 2010, 2011, 2012 and 2013, plus Session 4 of 2009. Then the named ones: **Advance Guard 2010**,
+**L & V 2012**, **Open House Day 2012** and **2013**, **Staff Hockey Cards 2012**, **Staff Pics 2011**, and
+**Kanawana 2013 Group Photos**. The run stops after 2013.
+
+Three of those names carry further than the photographs. **Advance Guard** is the crew that goes up to open
+camp — the same job the *Green Triangle* described in 1937 as "the first truck load of those sent to 'break
+camp'," so the role has a name in 2010 and had one in 1936 (see [[documents/green-triangle|The Green
+Triangle]]). **L & V** is the [[traditions/lv-games|Lumbermen and Voyageurs games]], here with a dated
+photographic record. And **Open House Day** is dated to 2012 and 2013 and is still advertised in the 2026
+parent guide, which makes it a continuing institution rather than a one-off.
+
+**A note on the two albums this project actually works from.** The 151 plaque photographs behind
+[[meta/plaque-audit|The Plaque Audit]] and the 34 historical images and maps are both catalogued against
+this index URL, and **neither album is in it**. They were delivered by the operator in June 2026 rather than
+fetched from a public listing, so those albums are unlisted, private, or gone. The index URL is kept on both
+source records because it points honestly at the account; an album URL invented to look tidier would resolve
+to nothing.
 
 **YouTube.** The camp operates a YouTube channel ("Kamp Kanawana") with promotional and archival video content.^15
 

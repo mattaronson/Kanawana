@@ -1,8 +1,8 @@
 {
-  "version": "10.19",
-  "kb_version": "10.19",
+  "version": "10.20",
+  "kb_version": "10.20",
   "migrated_from": "3.3",
-  "fact_count": 5569,
+  "fact_count": 5571,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -14113,7 +14113,7 @@
       "fact_id": "f_0871",
       "claim": "The Concordia University Archives YMCA of Montreal fonds (P0145) sub-series 12 covers Camping and Outdoor Programs, with the following camp-specific sub-series: 12A (Committees), 12B (Kamp Kanawana), 12C (Camp Otoreke), 12D (Camp Becsies), 12E (Camp Dorval), 12F (Camp Weredale), 12G (Camp Perrot), 12H (Ski lodge), 12I (Camp Thunderbird), 12J (Wilderness Survival Camp), 12K (Les Voyageurs de la Vérendrye), 12L (Lac St-Joseph/Camp Jubilee), 12M (Day camp), 12N (Camping associations).",
       "sources": [
-        "src_concordia_atom_fonds"
+        "src_concordia_fonds"
       ],
       "confidence": "stated",
       "category": "sources_archives",
@@ -14139,7 +14139,7 @@
       "fact_id": "f_0872",
       "claim": "Camp Becsies was a YMCA Montreal camp documented in Concordia Archives sub-series P0145/12D, with textual records dating from 1929-1936 and 1960-1971 (3 cm of records).",
       "sources": [
-        "src_concordia_atom_fonds"
+        "src_concordia_fonds"
       ],
       "confidence": "stated",
       "category": "inter-camp",
@@ -14157,7 +14157,7 @@
       "fact_id": "f_0873",
       "claim": "Camp Dorval was a YMCA Montreal camp documented in Concordia Archives sub-series P0145/12E, with textual records dating from 1926-1928 (0.5 cm of records).",
       "sources": [
-        "src_concordia_atom_fonds"
+        "src_concordia_fonds"
       ],
       "confidence": "stated",
       "category": "inter-camp",
@@ -14175,7 +14175,7 @@
       "fact_id": "f_0874",
       "claim": "Camp Perrot was a boys' camp operated by the Montreal YMCA alongside Kamp Kanawana. Concordia Archives hold a 'Comparison of Two Boys Camps operated by Montreal YMCA' (c.1945-46) and a further comparison of Kamp Kanawana and Camp Perrot (1953-54).",
       "sources": [
-        "src_concordia_atom_fonds"
+        "src_concordia_fonds"
       ],
       "confidence": "stated",
       "category": "inter-camp",
@@ -14231,7 +14231,7 @@
       "fact_id": "f_0877",
       "claim": "Concordia Archives sub-series P0145/12A (Committees) holds a 'Comparison of Two Boys Camps operated by Montreal YMCA' (c.1945-46), a Boys' Camping Committee Survey Committee report (1950), and a 'Report of the Staff Task Group on Outdoor Education in the Montreal YMCA' (1974).",
       "sources": [
-        "src_concordia_atom_fonds"
+        "src_concordia_fonds"
       ],
       "confidence": "stated",
       "category": "sources_archives",
@@ -14250,7 +14250,7 @@
       "fact_id": "f_0878",
       "claim": "Concordia Archives sub-series P0145/12A holds Permanent Camp Committee minutes dating back to 1895-1896, the earliest known YMCA Montreal camping administrative records.",
       "sources": [
-        "src_concordia_atom_fonds"
+        "src_concordia_fonds"
       ],
       "confidence": "stated",
       "category": "sources_archives",
@@ -14267,7 +14267,7 @@
       "fact_id": "f_0879",
       "claim": "Concordia Archives sub-series P0145/12A holds a 'journal of the first Montreal YMCA venture to explore the country around St. Agathe with the view of securing a lake for a summer camp' dated 1895.",
       "sources": [
-        "src_concordia_atom_fonds"
+        "src_concordia_fonds"
       ],
       "confidence": "stated",
       "category": "founding",
@@ -14705,7 +14705,7 @@
       "fact_id": "f_0903",
       "claim": "Concordia Archives sub-series P0145/12A holds a 'Report — trip to St. Agathe' dated 1893 and 1895, described as the 'Journal of the first Montreal YMCA venture to explore the country round about St. Agathe with the view of securing a lake on which to establish a Summer Camp.' The 1893 date places this scouting expedition one year BEFORE Camp Jubilee's founding in 1894.",
       "sources": [
-        "src_concordia_atom_fonds"
+        "src_concordia_fonds"
       ],
       "confidence": "stated",
       "category": "founding",
@@ -14724,7 +14724,7 @@
       "fact_id": "f_0904",
       "claim": "Concordia Archives P0145/12A holds Permanent Camp Committee records spanning: minutes (1895-96), correspondence/financial records (1899-1901, fragile documents), minutes/correspondence (1908), minute book (1911-1926), minutes (1921), and a Camp Executive meeting from December 12, 1945.",
       "sources": [
-        "src_concordia_atom_fonds"
+        "src_concordia_fonds"
       ],
       "confidence": "stated",
       "category": "sources_archives",
@@ -14797,7 +14797,7 @@
       "fact_id": "f_0908",
       "claim": "Concordia Archives sub-series P0145/11C holds 'Ross Bannerman's International Branch file' dated 1970, placing Bannerman at the YMCA du Parc (International) branch c.1968-1970, contemporaneous with his 1969 Kanawana report.",
       "sources": [
-        "src_concordia_atom_fonds"
+        "src_concordia_fonds"
       ],
       "confidence": "stated",
       "category": "directors",
@@ -15386,8 +15386,7 @@
       "fact_id": "f_0940",
       "claim": "The Concordia Archives (P0145/12A) place Hanagan's report alongside: 'Comparison of Two Boys Camps operated by Montreal YMCA' (Kanawana and Camp Perrot, c.1945-46), 'Report of the Montreal YMCA Camps for Boys and Girls' (1946), and an ACA Conference report to the Board of Management (1946). This confirms Hanagan's portfolio extended beyond Kanawana.",
       "sources": [
-        "src_concordia_fonds",
-        "src_concordia_atom_fonds"
+        "src_concordia_fonds"
       ],
       "confidence": "inferred",
       "category": "administration",
@@ -37216,7 +37215,7 @@
       "fact_id": "f_2187",
       "claim": "ALIAS (p_263, 2026-08-18): source record src_concordia_atom_fonds_p0145 is the SAME DOCUMENT as src_concordia_atom_fonds -- identical origin_url -- and the wiki already cites the twin. It was counted as a dormant, unexamined source only because it carries a second id. Eight of the 53 dormant sources are aliases of this kind, which means the genuinely unexamined set is 45, not 53.",
       "sources": [
-        "src_concordia_atom_fonds"
+        "src_concordia_fonds"
       ],
       "confidence": "stated",
       "category": "meta",
@@ -38013,7 +38012,7 @@
       "claim": "CORROBORATION, NOT A NEW NAME (p_263): a research agent reported 'Derek Walsh, Kamp Kanawana, YMCA, Montreal, Quebec' from the Trent CCA portrait series as a new name for the people index. He is not new -- the directors index already records Derek Walsh as Camp Director 1974 to February 1979 and ALREADY CITES the Trent CCA fonds for him. The portrait is a distinct item within that fonds and corroborates his CCA involvement; it adds no name. Likewise R. H. Hanagan, reported as a name inside the directors gap, is already documented as Montreal YMCA camp director in 1942 and 1946.",
       "sources": [
         "src_trent_cca_fonds_umbrella",
-        "src_concordia_atom_fonds"
+        "src_concordia_fonds"
       ],
       "confidence": "stated",
       "category": "people",
@@ -38030,7 +38029,7 @@
       "fact_id": "f_2236",
       "claim": "METHODOLOGICAL UNLOCK (p_263): Concordia's AtoM catalogue at concordia.accesstomemory.org serves a JavaScript challenge to automated clients and cannot be read. BUT Concordia publishes a STATIC HTML MIRROR of the same finding aid at www.concordia.ca/offices/archives/ymca-fonds-*.html which is unchallenged and complete -- e.g. ymca-fonds-sub-series-12A.html. The full series/sub-series/sub-sub-series tree can be walked this way. This reopens the project's single most important archival catalogue.",
       "sources": [
-        "src_concordia_atom_fonds"
+        "src_concordia_fonds"
       ],
       "confidence": "stated",
       "category": "meta",
@@ -38046,7 +38045,7 @@
       "fact_id": "f_2237",
       "claim": "From the Concordia finding aid (P145/12A), documents that physically exist and have never been read by this project: a 'Permanent Camp Committee' with minutes 1895-1896, correspondence and financial records 1899-1901, minutes 1908, a minute book 1911-1926; 'History of Kamp Kanawana, by Ralph Dawson, 1933'; 'Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana, by R. L Charlton, 1943'; 'Historical sketches-Lake St. Joseph, by W. E. Cushing, 1943'; and -- in Box HA2166 -- promotional brochures for the 1897 and 1898 summer camp seasons pasted at pages 156 and 159 of a large scrapbook.",
       "sources": [
-        "src_concordia_atom_fonds"
+        "src_concordia_fonds"
       ],
       "confidence": "stated",
       "category": "documents",
@@ -38064,7 +38063,7 @@
       "fact_id": "f_2238",
       "claim": "The Concordia finding aid records the institutional arc of the camp's later years: a 'Comparison of Two Boys Camps operated by Montreal YMCA' (Kamp Kanawana and Camp Perrot) from 1945 or 1946 and again 1953-1954; 'Reports on Co-ed Camping Pilot Project, 1967-1970'; a 'Proposed two-site operation-Kanawana and Weredale, 1977'; and a 1980 working document carrying 'Situation reports profiling Kamp Kanawana, Camp Otoreke and Camp Weredale' -- the three camps assessed together.",
       "sources": [
-        "src_concordia_atom_fonds"
+        "src_concordia_fonds"
       ],
       "confidence": "stated",
       "category": "history",
@@ -38082,7 +38081,7 @@
       "fact_id": "f_2239",
       "claim": "CATALOGUING DEFECT in the Concordia finding aid itself: R. L. Charlton and R. H. Charlton appear as the author of the same 1943 'Early Days' text within the SAME sub-series, and Ralph Dawson is filed both as 'Ralph Dawson' and as 'R. H. Dawson'. Anyone matching these documents by author initial will miss one of each pair.",
       "sources": [
-        "src_concordia_atom_fonds"
+        "src_concordia_fonds"
       ],
       "confidence": "stated",
       "category": "sources",
@@ -38100,7 +38099,7 @@
       "claim": "NULL RESULT (p_263), and a corroborative one: the YMCA of Montreal's 41st Annual Report, presented May 1892 and covering 1891-92, was read in full OCR and contains NO camping content of any kind -- no camp, lake, Ste-Agathe, tent, outing or excursion reference. The Association then ran a Junior Department but no camping program. This is consistent with the Concordia finding aid's record that the search for a camp lake began with a trip to St-Agathe journalled in 1893.",
       "sources": [
         "src_ia_ymca_annual_1891_92",
-        "src_concordia_atom_fonds"
+        "src_concordia_fonds"
       ],
       "confidence": "stated",
       "category": "founding",
@@ -40598,7 +40597,7 @@
       "fact_id": "f_2381",
       "claim": "'CAMP BECSIES' IS A REAL YMCA OF MONTREAL CAMP, with its own sub-series P0145/12D in the Concordia fonds, alongside Otoreke (12C), Dorval (12E), Weredale (12F), Perrot (12G), Thunderbird (12I) and the Wilderness Survival Camp (12J). This settles an OCR uncertainty in the 1951 camp history, which gives the camp's extent as 'all of Lakes Kanawana, Wilson, and Round Lake, plus a sizeable part of the shoreline on Lake [Becsiee]' -- the scan's 'Becsiee' is Becsies. Kanawana's property therefore touched a lake that gave its name to another YMCA camp. This project has no article on Camp Becsies and one passing mention.",
       "sources": [
-        "src_concordia_atom_fonds",
+        "src_concordia_fonds",
         "src_ia_kanawana_history_1951"
       ],
       "confidence": "stated",
@@ -100342,6 +100341,34 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.19",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5608",
+      "category": "documents",
+      "date_ref": "2009-2013",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "THE CAMP'S FLICKR ACCOUNT LISTS TWENTY-FOUR ALBUMS, AND THE TWO THIS PROJECT WORKS FROM ARE NOT AMONG THEM. flickr.com/photos/kanawana/albums fetched 2026-09-07 across four pages. THE INVENTORY, with the years the camp itself chose to publish: SESSION ALBUMS -- Session 4 2009; Sessions 1, 2, 3 and 4 for 2010; Sessions 1, 2, 3 and 4 for 2011; Sessions 1, 2, 3 and 4 for 2012; Sessions 1, 2, 3 and 4 for 2013. NAMED EVENTS AND GROUPS -- 'ADVANCE GUARD 2010', 'L & V 2012' (the Lumbermen and Voyageurs games), 'OPEN HOUSE DAY 2012' and 'OPEN HOUSE DAY 2013', 'STAFF HOCKEY CARDS 2012', 'STAFF PICS 2011', and 'Kanawana 2013 Group Photos'. The run stops after 2013. WHY IT MATTERS BEYOND THE LIST: 'Advance Guard' is the crew that opens camp, which is the same role the 1937 Green Triangle describes as 'the first truck load of those sent to break camp' (f_5589) -- the practice has a name in 2010 and had one in 1936. 'L & V 2012' is a dated photographic record of the Lumbermen and Voyageurs games. 'Open House Day' is dated to 2012 and 2013, and the 2026 parent guide still advertises an Open House (f_5603), so it is a continuing institution. AND THE PROVENANCE FINDING: NEITHER THE 'PLAQUE' ALBUM (151 photos, the whole basis of meta/plaque-audit.md) NOR THE 'UNIVERSITY CONCORDIA ARCHIVES' ALBUM (34 images) APPEARS IN THE PUBLIC INDEX. Both were delivered by the operator through photodownloads/ in June 2026 rather than fetched from a public listing, so those albums are unlisted, private, or gone. Their source records keep the index URL, which points honestly at the account; an album URL invented to look tidier would resolve to nothing.",
+      "sources": [
+        "src_flickr_kanawana"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5609",
+      "category": "method",
+      "date_ref": null,
+      "entities": [],
+      "claim": "BANQ NUMERIQUE IS UNREACHABLE FROM THIS ENVIRONMENT, AND THE UNCONTROLLED CHECK SAYS THE OPPOSITE. Controlled 2026-09-07 under p_488, while trying to recover per-item URLs for six BAnQ records that carry only the bare domain root. THE TRAP: numerique.banq.qc.ca/ returns HTTP 200 with 60 KB, and /resultats?q=kanawana returns HTTP 200 with 744 KB and twenty result links -- which looks like a working search and is not. The q parameter is IGNORED; the page reports 2,421,005 results and returns the whole catalogue alphabetically, so the first hits are estampes by Bougie and Dugas. THE SITE'S OWN FORM NAMES THE FIELD `terme`, and /resultats?terme=kanawana returns HTTP 302 to validate.perfdrive.com -- Radware bot manager. So does every detail page: a known-good /patrimoine/details/52327/ item was fetched FIVE TIMES over thirty seconds with a desktop Chrome user-agent and returned the challenge every time, and the one response that came back HTTP 200 at 89 KB was the challenge page itself served with a 200. TWO LESSONS, both already in this project's rules and both nearly missed here. A wrong parameter name gives a rich, plausible, entirely irrelevant page -- so a search is only controlled when a query that MUST match returns something that MUST be in it, not when it returns a lot. And a site whose homepage answers is not a site that is reachable. THE CONSEQUENCE: the six records -- src_banq_lesoleil_1971, src_banq_lovells_1976, src_banq_sherbrooke_1972, src_banq_aurore_1843, src_banq_ledroit_1937, src_banq_westmount_examiner -- came from an operator browser session in June 2026 and only an operator browser can recover their URLs. Recorded on each record. NOT contradicted: individual BAnQ detail pages WERE read earlier in this project (the 1933-07-26 Huntingdon Gleaner, the 1937-06-27 Petit Journal), so the block is either new or intermittent at a scale longer than thirty seconds; either way it is not a fact about the documents.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.20",
       "added_by": "ralph_loop"
     }
   ]

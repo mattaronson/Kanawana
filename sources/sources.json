@@ -293,18 +293,18 @@
     {
       "source_id": "src_concordia_fonds",
       "type": "catalog_reference",
-      "title": "Concordia Archives - YMCA of Montreal Fonds P145",
+      "title": "Concordia University Archives — YMCA of Montreal fonds P0145, the fonds-level record and its AtoM finding aid",
       "date": null,
       "date_precision": "approximate",
       "origin": "concordia_archives",
-      "origin_url": "https://www.concordia.ca/offices/archives/ymca-fonds-sub-series-12A.html",
-      "cache_path": null,
-      "char_count": 0,
+      "origin_url": "https://concordia.accesstomemory.org/ymca-of-montreal-fonds-2",
+      "cache_path": "sources/cache/web-pages/concordia-atom-kanawana-full.txt",
+      "char_count": 14500,
       "ingested_at": "2026-02-10T00:00:00Z",
       "extracted": true,
       "extraction_version": "3.3",
       "reliability": "primary",
-      "notes": "Fonds catalog. Box HA1874. 14 sub-series (12A-12N). Physical visit required for full access.",
+      "notes": "MERGED AND URL CORRECTED 2026-09-07 under p_488. This record is the FONDS-LEVEL one, carrying the largest share of this project's Concordia citations, and its origin_url was https://www.concordia.ca/offices/archives/ymca-fonds-sub-series-12A.html -- the static page for ONE sub-series, Camping Committees. A collection-level record pointing at one sub-series is worse than one pointing at nothing, because it looks answered, and it would have made the next URL-grouping pass merge the fonds into 12A. The 12A page's only outbound YMCA link names the real landing page, the AtoM fonds entry, which is now this record's URL. `src_concordia_atom_fonds` held that URL and described the same object at the same level, so it is folded in here. || Fonds catalog. Box HA1874. 14 sub-series (12A-12N). Physical visit required for full access. || MERGED 2026-09-07 under p_303: `src_concordia_atom_fonds_p0145` held THIS SAME URL and described the same document, so a [src_] citation did not name one object and two passes could read the same page twice without either seeing the other. Folded in here; facts and wiki citations repointed. Dates held by the merged records: 2026, None. Their notes follow. || AtoM online finding aid for P0145. Reveals 14 camping sub-series including previously unknown camps: Becsies, Dorval, Perrot, Thunderbird, Wilderness Survival Camp. || Parent fonds P0145. Documents Montreal YMCA from founding Nov 1851 to late 20th century. Includes Harold C. Cross and Murray C. Ross research materials. 15 series. Donated to Concordia 2000-2005 from Norris Building. PDF finding aid available at concordia.accesstomemory.org/downloads/ymca-of-montreal-fonds-2.pdf. Series 12 covers all camping programs including 14 sub-series (12A-12N): Kanawana, Otoreke, Becsies, Dorval, Weredale, Perrot, Ski lodge, Thunderbird, Wilderness Survival, Voyageurs de la Vérendrye, Lac St-Joseph/Camp Jubilee, Day camp, Camping associations. [2026-08-18, p_263] ALIAS RECORD: same origin_url as src_concordia_atom_fonds, which the wiki already uses. Not unexamined material. Do not re-research; consolidate or leave, but never count as a research lead.",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
     },
@@ -3185,24 +3185,6 @@
       "extraction_version": "4.20",
       "reliability": "secondary",
       "notes": "West Island Blog article on Camp Oolahwan centennial celebration. Gives dates August 25-27, 2017. | [LINK AUDIT 2026-09-07: the live URL now returns 404. THE INTERNET ARCHIVE HAS IT: capture 2020-10-27T21:11:28, HTTP 200, at http://web.archive.org/web/20201027211128/https://www.westislandblog.com/camp-oolahwan-centennial-celebration-august-25-27-2017/ . Reachable by anyone with a browser; web.archive.org is blocked in the agent environment (f_5361). Do not read this record's 404 as the source being gone. See f_5368.]",
-      "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact"
-    },
-    {
-      "source_id": "src_concordia_atom_fonds",
-      "type": "catalog_reference",
-      "title": "Concordia University AtoM: YMCA of Montreal Fonds P0145 — full finding aid",
-      "date": "2026",
-      "date_precision": "year",
-      "origin": "concordia_archives",
-      "origin_url": "https://concordia.accesstomemory.org/ymca-of-montreal-fonds-2",
-      "cache_path": "sources/cache/web-pages/concordia-atom-kanawana-full.txt",
-      "char_count": 14500,
-      "ingested_at": "2026-03-15T03:59:07.539577",
-      "extracted": true,
-      "extraction_version": "v4.20",
-      "reliability": "primary",
-      "notes": "MERGED 2026-09-07 under p_303: `src_concordia_atom_fonds_p0145` held THIS SAME URL and described the same document, so a [src_] citation did not name one object and two passes could read the same page twice without either seeing the other. Folded in here; facts and wiki citations repointed. Dates held by the merged records: 2026, None. Their notes follow. || AtoM online finding aid for P0145. Reveals 14 camping sub-series including previously unknown camps: Becsies, Dorval, Perrot, Thunderbird, Wilderness Survival Camp. || Parent fonds P0145. Documents Montreal YMCA from founding Nov 1851 to late 20th century. Includes Harold C. Cross and Murray C. Ross research materials. 15 series. Donated to Concordia 2000-2005 from Norris Building. PDF finding aid available at concordia.accesstomemory.org/downloads/ymca-of-montreal-fonds-2.pdf. Series 12 covers all camping programs including 14 sub-series (12A-12N): Kanawana, Otoreke, Becsies, Dorval, Weredale, Perrot, Ski lodge, Thunderbird, Wilderness Survival, Voyageurs de la Vérendrye, Lac St-Joseph/Camp Jubilee, Day camp, Camping associations. [2026-08-18, p_263] ALIAS RECORD: same origin_url as src_concordia_atom_fonds, which the wiki already uses. Not unexamined material. Do not re-research; consolidate or leave, but never count as a research lead.",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
     },
@@ -7738,9 +7720,9 @@
       "extracted": true,
       "extraction_version": "v4.88",
       "reliability": "secondary",
-      "notes": "From operator browser (Chrome for Claude) research session, June 2026.",
+      "notes": "From operator browser (Chrome for Claude) research session, June 2026. || PER-ITEM URL STILL MISSING, and the reason is now controlled (2026-09-07, p_488). This record carries the bare root numerique.banq.qc.ca, which reaches the site but not this document. Recovering the per-item URL needs BAnQ search, and BAnQ IS UNREACHABLE FROM THIS ENVIRONMENT: /resultats?terme= returns HTTP 302 to validate.perfdrive.com (Radware bot manager), and a known-good /patrimoine/details/ page was tried five times over thirty seconds with a browser user-agent and returned the same challenge every time. The static homepage answers normally, which is why an uncontrolled check would have called the site reachable. This item came from an operator browser session in June 2026 and only an operator browser can recover its URL.",
       "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact"
+      "read_state_basis": "derived:cited-by-fact | url-recovery blocked: BAnQ Radware challenge, controlled 2026-09-07"
     },
     {
       "source_id": "src_banq_lovells_1976",
@@ -7756,9 +7738,9 @@
       "extracted": true,
       "extraction_version": "v4.88",
       "reliability": "secondary",
-      "notes": "From operator browser (Chrome for Claude) research session, June 2026.",
+      "notes": "From operator browser (Chrome for Claude) research session, June 2026. || PER-ITEM URL STILL MISSING, and the reason is now controlled (2026-09-07, p_488). This record carries the bare root numerique.banq.qc.ca, which reaches the site but not this document. Recovering the per-item URL needs BAnQ search, and BAnQ IS UNREACHABLE FROM THIS ENVIRONMENT: /resultats?terme= returns HTTP 302 to validate.perfdrive.com (Radware bot manager), and a known-good /patrimoine/details/ page was tried five times over thirty seconds with a browser user-agent and returned the same challenge every time. The static homepage answers normally, which is why an uncontrolled check would have called the site reachable. This item came from an operator browser session in June 2026 and only an operator browser can recover its URL.",
       "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact"
+      "read_state_basis": "derived:cited-by-fact | url-recovery blocked: BAnQ Radware challenge, controlled 2026-09-07"
     },
     {
       "source_id": "src_banq_sherbrooke_1972",
@@ -7774,9 +7756,9 @@
       "extracted": true,
       "extraction_version": "v4.88",
       "reliability": "secondary",
-      "notes": "From operator browser (Chrome for Claude) research session, June 2026.",
+      "notes": "From operator browser (Chrome for Claude) research session, June 2026. || PER-ITEM URL STILL MISSING, and the reason is now controlled (2026-09-07, p_488). This record carries the bare root numerique.banq.qc.ca, which reaches the site but not this document. Recovering the per-item URL needs BAnQ search, and BAnQ IS UNREACHABLE FROM THIS ENVIRONMENT: /resultats?terme= returns HTTP 302 to validate.perfdrive.com (Radware bot manager), and a known-good /patrimoine/details/ page was tried five times over thirty seconds with a browser user-agent and returned the same challenge every time. The static homepage answers normally, which is why an uncontrolled check would have called the site reachable. This item came from an operator browser session in June 2026 and only an operator browser can recover its URL.",
       "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact"
+      "read_state_basis": "derived:cited-by-fact | url-recovery blocked: BAnQ Radware challenge, controlled 2026-09-07"
     },
     {
       "source_id": "src_banq_aurore_1843",
@@ -7792,9 +7774,9 @@
       "extracted": true,
       "extraction_version": "v4.88",
       "reliability": "secondary",
-      "notes": "From operator browser (Chrome for Claude) research session, June 2026.",
+      "notes": "From operator browser (Chrome for Claude) research session, June 2026. || PER-ITEM URL STILL MISSING, and the reason is now controlled (2026-09-07, p_488). This record carries the bare root numerique.banq.qc.ca, which reaches the site but not this document. Recovering the per-item URL needs BAnQ search, and BAnQ IS UNREACHABLE FROM THIS ENVIRONMENT: /resultats?terme= returns HTTP 302 to validate.perfdrive.com (Radware bot manager), and a known-good /patrimoine/details/ page was tried five times over thirty seconds with a browser user-agent and returned the same challenge every time. The static homepage answers normally, which is why an uncontrolled check would have called the site reachable. This item came from an operator browser session in June 2026 and only an operator browser can recover its URL.",
       "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact"
+      "read_state_basis": "derived:cited-by-fact | url-recovery blocked: BAnQ Radware challenge, controlled 2026-09-07"
     },
     {
       "source_id": "src_banq_ledroit_1937",
@@ -7810,9 +7792,9 @@
       "extracted": true,
       "extraction_version": "v4.88",
       "reliability": "secondary",
-      "notes": "From operator browser (Chrome for Claude) research session, June 2026.",
+      "notes": "From operator browser (Chrome for Claude) research session, June 2026. || PER-ITEM URL STILL MISSING, and the reason is now controlled (2026-09-07, p_488). This record carries the bare root numerique.banq.qc.ca, which reaches the site but not this document. Recovering the per-item URL needs BAnQ search, and BAnQ IS UNREACHABLE FROM THIS ENVIRONMENT: /resultats?terme= returns HTTP 302 to validate.perfdrive.com (Radware bot manager), and a known-good /patrimoine/details/ page was tried five times over thirty seconds with a browser user-agent and returned the same challenge every time. The static homepage answers normally, which is why an uncontrolled check would have called the site reachable. This item came from an operator browser session in June 2026 and only an operator browser can recover its URL.",
       "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact"
+      "read_state_basis": "derived:cited-by-fact | url-recovery blocked: BAnQ Radware challenge, controlled 2026-09-07"
     },
     {
       "source_id": "src_banq_westmount_examiner",
@@ -7828,9 +7810,9 @@
       "extracted": true,
       "extraction_version": "v4.88",
       "reliability": "secondary",
-      "notes": "From operator browser (Chrome for Claude) research session, June 2026.",
+      "notes": "From operator browser (Chrome for Claude) research session, June 2026. || PER-ITEM URL STILL MISSING, and the reason is now controlled (2026-09-07, p_488). This record carries the bare root numerique.banq.qc.ca, which reaches the site but not this document. Recovering the per-item URL needs BAnQ search, and BAnQ IS UNREACHABLE FROM THIS ENVIRONMENT: /resultats?terme= returns HTTP 302 to validate.perfdrive.com (Radware bot manager), and a known-good /patrimoine/details/ page was tried five times over thirty seconds with a browser user-agent and returned the same challenge every time. The static homepage answers normally, which is why an uncontrolled check would have called the site reachable. This item came from an operator browser session in June 2026 and only an operator browser can recover its URL.",
       "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact"
+      "read_state_basis": "derived:cited-by-fact | url-recovery blocked: BAnQ Radware challenge, controlled 2026-09-07"
     },
     {
       "source_id": "src_cca_ross_macdonald",
@@ -8098,7 +8080,7 @@
       "extracted": true,
       "extraction_version": "v4.9x",
       "reliability": "primary",
-      "notes": "All 151 photos delivered via photodownloads/ (2026-06-29) and filed to assets/images/plaques/; see credits.json. Photographed c.2010 (modern), depicting hand-painted/carved plaques and canoe boards naming sections, trips, and years with member/director/counsellor names back to 1933. Full visual-mining pass completed 2026-07-05 (8 parallel review agents): all 151 images transcribed, ~140 boards yielded usable facts (f_1569 onward). A handful of boards (dsc-0544, staff-2000 name columns, voyageurs-1998-3) remain substantially illegible and would need higher-resolution re-photography to recover further names.",
+      "notes": "All 151 photos delivered via photodownloads/ (2026-06-29) and filed to assets/images/plaques/; see credits.json. Photographed c.2010 (modern), depicting hand-painted/carved plaques and canoe boards naming sections, trips, and years with member/director/counsellor names back to 1933. Full visual-mining pass completed 2026-07-05 (8 parallel review agents): all 151 images transcribed, ~140 boards yielded usable facts (f_1569 onward). A handful of boards (dsc-0544, staff-2000 name columns, voyageurs-1998-3) remain substantially illegible and would need higher-resolution re-photography to recover further names. || URL CHECKED 2026-09-07 under p_488, and NOT repaired, for a reason worth recording. This record points at the album INDEX, flickr.com/photos/kanawana/albums, not at the \"Plaque\" album itself. The index was fetched on 2026-09-07 and lists TWENTY-FOUR albums -- session albums for 2009 through 2013, plus Advance Guard 2010, L & V 2012, Open House Day 2012 and 2013, Staff Hockey Cards 2012, Staff Pics 2011 and Kanawana 2013 Group Photos -- AND NEITHER THIS ALBUM NOR ITS SIBLING IS AMONG THEM. The 151 images were delivered by the operator through photodownloads/ in June 2026, not fetched from a public listing, so the album is unlisted, private, or gone. The index URL is therefore a pointer to the ACCOUNT and is left as the honest one; an album URL invented to look tidier would resolve to nothing.",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
     },
@@ -8116,7 +8098,7 @@
       "extracted": true,
       "extraction_version": "v4.9x",
       "reliability": "primary",
-      "notes": "All 34 images delivered via photodownloads/ (2026-06-29) and filed to assets/images/historical/ and assets/images/maps/; see credits.json. Genuine vintage photographs and site maps (not plaques) -- confirmed by visual inspection. Supersedes the img_concordia_archives_album placeholder in credits.json. Full visual-mining pass completed 2026-07-05: all 35 images (31 historical + 4 maps) reviewed; captions, signage, and map labels transcribed into KB facts (f_1569 onward).",
+      "notes": "All 34 images delivered via photodownloads/ (2026-06-29) and filed to assets/images/historical/ and assets/images/maps/; see credits.json. Genuine vintage photographs and site maps (not plaques) -- confirmed by visual inspection. Supersedes the img_concordia_archives_album placeholder in credits.json. Full visual-mining pass completed 2026-07-05: all 35 images (31 historical + 4 maps) reviewed; captions, signage, and map labels transcribed into KB facts (f_1569 onward). || URL CHECKED 2026-09-07 under p_488, and NOT repaired, for a reason worth recording. This record points at the album INDEX, flickr.com/photos/kanawana/albums, not at the \"University Concordia Archives\" album itself. The index was fetched on 2026-09-07 and lists TWENTY-FOUR albums -- session albums for 2009 through 2013, plus Advance Guard 2010, L & V 2012, Open House Day 2012 and 2013, Staff Hockey Cards 2012, Staff Pics 2011 and Kanawana 2013 Group Photos -- AND NEITHER THIS ALBUM NOR ITS SIBLING IS AMONG THEM. The 34 images were delivered by the operator through photodownloads/ in June 2026, not fetched from a public listing, so the album is unlisted, private, or gone. The index URL is therefore a pointer to the ACCOUNT and is left as the honest one; an album URL invented to look tidier would resolve to nothing.",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
     },
@@ -25911,7 +25893,7 @@
       "date": "2026",
       "date_precision": "year",
       "origin": "web",
-      "origin_url": "https://www.ymcathreerivers.ca/overnight-camp",
+      "origin_url": null,
       "cache_path": null,
       "char_count": 0,
       "ingested_at": "2026-09-05T17:56:59Z",
@@ -25920,7 +25902,7 @@
       "reliability": "primary",
       "read_state": "extracted",
       "read_state_basis": "direct: association overnight-camp pages fetched or search-surfaced 2026-09-05",
-      "notes": "Composite record for the p_409 enumeration of 2026-09-05: YMCA of Three Rivers (Belwood, Ki-Wa-Y, Waabanaki), YMCA HBB (Wanakita), YMCA SWO (Camp Henry, Camp Queen Elizabeth), YMCA Northeastern Ontario (Camp Tillicum, John Island Camp), YMCA National Capital Region (Camp Otonabee), YMCA Owen Sound Grey Bruce (Rotary YMCA Camp Presqu'ile). All checked for a Lumbermen-and-Voyageurs competition; all negative. ymcaswo.ca returns HTTP 403 to the fetch tool and was covered by search summaries instead."
+      "notes": "Composite record for the p_409 enumeration of 2026-09-05: YMCA of Three Rivers (Belwood, Ki-Wa-Y, Waabanaki), YMCA HBB (Wanakita), YMCA SWO (Camp Henry, Camp Queen Elizabeth), YMCA Northeastern Ontario (Camp Tillicum, John Island Camp), YMCA National Capital Region (Camp Otonabee), YMCA Owen Sound Grey Bruce (Rotary YMCA Camp Presqu'ile). All checked for a Lumbermen-and-Voyageurs competition; all negative. ymcaswo.ca returns HTTP 403 to the fetch tool and was covered by search summaries instead. || URL REMOVED 2026-09-07 under p_488. This record carried https://www.ymcathreerivers.ca/overnight-camp -- ONE of the nine association pages it enumerates, standing in for all of them, and the same URL as src_ymca_three_rivers_wabanaki, which is actually about that page. A composite record has no single origin_url and should say so rather than borrow one member's; the nine pages are named in the note above."
     },
     {
       "source_id": "src_dal_pediatrics_ornstein",

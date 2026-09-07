@@ -5664,3 +5664,44 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   the state of the record is itself a thing the record can invalidate.
   f_5607. facts.json v10.19, 5,569 facts, 1,636 sources. p_303 complete.
   Verify green, nine checks. Timestamp from `date -u` in its own call.
+
+[2026-09-07T15:24:58Z] VERIFY -- p_488, the wrong and missing URLs.
+  src_concordia_fonds carried 59 facts and 9 wiki citations at the FONDS level
+  while its origin_url was the static page for ONE sub-series, 12A. A
+  collection-level record pointing at one sub-series is worse than one pointing
+  at nothing, because it looks answered, and it would have made the next
+  URL-grouping pass merge the fonds into 12A. The 12A page's only outbound YMCA
+  link names the real landing page, the AtoM fonds entry; that is now this
+  record's URL, and src_concordia_atom_fonds -- the same object at the same
+  level -- is folded into it. 19 fact refs, 2 wiki files.
+  THE FLICKR ALBUMS WERE NOT "FIXED", AND THAT IS THE RIGHT ANSWER. Both album
+  records point at the album INDEX. Fetched the index across four pages: it
+  lists TWENTY-FOUR albums and NEITHER of theirs is among them. The 151 plaque
+  photographs and the 34 historical images were delivered by the operator in
+  June 2026, not fetched from a public listing, so those albums are unlisted,
+  private or gone. Index URL kept on both, with the reason recorded; an album
+  URL invented to look tidier would resolve to nothing.
+  THE INVENTORY IS ITSELF A FINDING, f_5608, into kanawana-in-media.md: four
+  session albums each for 2010-2013 plus Session 4 2009, and ADVANCE GUARD 2010,
+  L & V 2012, OPEN HOUSE DAY 2012 and 2013, STAFF HOCKEY CARDS 2012, STAFF PICS
+  2011, Kanawana 2013 Group Photos. The run stops after 2013. "Advance Guard" is
+  the crew that opens camp -- the same job the 1937 Green Triangle calls "the
+  first truck load of those sent to break camp", so the role has a name in 2010
+  and had one in 1936.
+  src_ymca_ontario_camp_enumeration's URL REMOVED: a composite record over nine
+  association pages was borrowing one member's URL, and that member has its own
+  record at the same address.
+  BANQ IS BLOCKED, AND THE UNCONTROLLED CHECK SAYS THE OPPOSITE, f_5609.
+  numerique.banq.qc.ca/ returns 200 with 60 KB, and /resultats?q=kanawana
+  returns 200 with 744 KB AND TWENTY RESULT LINKS -- which looks like a working
+  search and is not. The q parameter is IGNORED; the page reports 2,421,005
+  results and returns the catalogue alphabetically, so the top hits are estampes
+  by Bougie and Dugas. The site's own form names the field `terme`, and
+  /resultats?terme= returns 302 to validate.perfdrive.com. So does every detail
+  page: five attempts over thirty seconds with a desktop Chrome user-agent, same
+  challenge each time, and the one HTTP 200 at 89 KB WAS the challenge page.
+  A search is controlled only when a query that MUST match returns something
+  that MUST be in it -- not when it returns a lot. Six BAnQ records need an
+  operator browser; noted on each.
+  facts.json v10.20, 5,571 facts, 1,635 sources. Verify green, nine checks.
+  Timestamp from `date -u` in its own call.
