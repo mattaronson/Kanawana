@@ -29391,6 +29391,24 @@
       "notes": "SEARCH-INSIDE HITS ONLY, NOT READ. Found 2026-09-07 chasing the two Kidds. Its notes cite FOUR LETTERS from J. R. KIDD TO J. P. KIDD -- 16 August 1950, 16 November 1950, 3 August 1951 and 30 August 1951 -- which establishes sustained correspondence between the two men in the years J. P. Kidd ran the Canadian Citizenship Council and J. R. Kidd ran the CAAE. One snippet reads 'for Robbins. 40. Ibid., Letter, J. R. Kidd to J. P. Kidd', so the work discusses Robbins and the Kidd correspondence as separate things, which is useful against the John Robbins confusion recorded at f_5570. NO CACHE: the book was reached only through Open Library's search-inside endpoint and its full text has not been downloaded, so everything here is snippet evidence. THE ARCHIVE IS NOW IDENTIFIED. Further windowing gives Faris's abbreviation in full -- '...for Adult Education, ARCHIVES (hereinafter referred to as CAAE), Letter, M. A. Cartwright to...' -- so the four Kidd-to-Kidd letters are in the CANADIAN ASSOCIATION FOR ADULT EDUCATION ARCHIVES. Where that collection now sits is not established and is not guessed at here. LENDING-RESTRICTED: a direct fetch of the djvu.txt returns HTTP 401, tested rather than assumed; everything held comes from search-inside windows, each quoted here so the joins can be checked. See f_5571.",
       "read_state": "skimmed",
       "read_state_basis": "search-inside snippets only, 2026-09-07; full text not fetched and the citing 'Ibid.' archive not identified"
+    },
+    {
+      "source_id": "src_njskylands_ymca_camps",
+      "type": "web",
+      "title": "NJ Skylands, \"YMCA Camps in New Jersey Northwest Skylands\" — the Newark YMCA's Sussex County camps, including Camp Kiamesha (1909)",
+      "date": "2026",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://njskylands.com/odymca",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v10.20",
+      "reliability": "secondary",
+      "notes": "Fetched and read 2026-09-07 under the Ken Westervelt biographical search (p_487 follow-on). Gives Camp Kiamesha as a NEWARK YMCA camp established 1909 at Stillwater, Sussex County, NEW JERSEY, whose \"stone pillars and buildings still stand on state land\". Used to correct the 1939 Green Triangle's \"Camp Kiamesha in northern Pennsylvania\". See f_5610.",
+      "read_state": "read",
+      "read_state_basis": "direct:fetched-and-read-2026-09-07"
     }
   ],
   "source_count": 1757

@@ -1,8 +1,8 @@
 {
-  "version": "10.20",
-  "kb_version": "10.20",
+  "version": "10.21",
+  "kb_version": "10.21",
   "migrated_from": "3.3",
-  "fact_count": 5571,
+  "fact_count": 5572,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100369,6 +100369,25 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5610",
+      "category": "people",
+      "date_ref": "1939",
+      "entities": [
+        "Ken Westervelt",
+        "Camp Kanawana",
+        "Camp Kiamesha"
+      ],
+      "claim": "KEN WESTERVELT IS NOT FINDABLE, AND ONE OF THE THREE FACTS HIS CV GIVES IS WRONG. f_5597 recovered Kanawana's 1939 nature director from the Green Triangle: 'KEN WESTERVELT... holds a B.A. from COLGATE UNIVERSITY and has studied extensively Geology, Forestry and Botany. He has had camping experience at CAMP KIAMESHA IN NORTHERN PENNSYLVANIA and this season taught nature lore at CAMP KERSEY before coming here.' NINE QUERIES ACROSS THREE SURFACES, and the man himself returns nothing: web search on 'Westervelt' with Colgate, 1939, nature and camp; on 'Ken Westervelt' and 'Kenneth Westervelt'; archive.org metadata search on each of those and on 'Westervelt' with 'Camp Kiamesha' (all numFound 0, against a control query for 'Kanawana' returning 97, so the endpoint works); and two searches for a Colgate yearbook, which is NOT on the Internet Archive at all. Archive.org's FULL-TEXT search (ia-fts.archive.org) is BLOCKED BY THIS ENVIRONMENT'S EGRESS PROXY -- CONNECT tunnel refused, 502 -- so the surface most likely to hold a name in a yearbook or alumni bulletin was not searched, and that is a fact about the tooling and not about the man. NOT EXHAUSTED, therefore: what remains untried is Colgate's own alumni records, a physical Salmagundi yearbook, and IA full-text from an unblocked network. THE CORRECTION, WHICH IS THE FINDING: 'CAMP KIAMESHA IN NORTHERN PENNSYLVANIA' IS WRONG ABOUT THE STATE. Camp Kiamesha was a NEWARK YMCA camp established 1909 at STILLWATER, SUSSEX COUNTY, NEW JERSEY, 'whose stone pillars and buildings still stand on state land'. This project already held the same correction from the other direction and had not connected it: f_5276 records 'Kamp Kiamesha' turning up as a NEW JERSEY camp in the 1962 YMCA yearbook. Sussex County borders Pennsylvania across the Delaware, so the writer may have meant the region loosely, but the state as printed is wrong. WHAT IT ADDS BESIDES THE CORRECTION: Westervelt came to Kanawana from a YMCA camp of almost exactly Kanawana's own vintage -- Kiamesha 1909, Kanawana's Saint-Sauveur site 1910 -- which places his hiring inside the YMCA camping network rather than in the open market. 'CAMP KERSEY' RETURNS NOTHING and is probably an OCR misreading; the 1939 issue's OCR is poor throughout.",
+      "sources": [
+        "src_ymf_the_green_triangle_1939_07_22",
+        "src_njskylands_ymca_camps"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.21",
       "added_by": "ralph_loop"
     }
   ]

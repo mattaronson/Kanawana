@@ -338,9 +338,27 @@ learning good or bad habits everytime you come to the Craftshop."
 
 The same issue announces two staff arrivals of the previous day and hands one of them a column.^gt39 **Ken
 Westervelt** took charge of the nature crafts: a B.A. from Colgate University, extensive study in geology,
-forestry and botany, camping experience at Camp Kiamesha in northern Pennsylvania, and a season teaching
-nature lore at Camp Kersey immediately before coming to Kanawana. He is the earliest named nature specialist
-in this project's record, and the first with a documented training.
+forestry and botany, camping experience at "Camp Kiamesha in northern Pennsylvania," and a season teaching
+nature lore at "Camp Kersey" immediately before coming to Kanawana. He is the earliest named nature
+specialist in this project's record, and the first with a documented training.
+
+**Two corrections to that CV, and a null.**^kw Camp Kiamesha was not in Pennsylvania: it was a **Newark
+YMCA camp established in 1909 at Stillwater, Sussex County, New Jersey**, whose stone pillars and buildings
+still stand on state land. Sussex County faces Pennsylvania across the Delaware, so the writer may have
+meant the region loosely, but the state as printed is wrong — and this wiki already held the same correction
+from the other direction without connecting it, since "Kamp Kiamesha" turns up as a New Jersey camp in the
+1962 YMCA yearbook. What that changes is the shape of the hire: Westervelt came from a YMCA camp of almost
+exactly Kanawana's own vintage, Kiamesha 1909 against the Saint-Sauveur site in 1910, which places his
+recruitment inside the YMCA camping network rather than in the open market. "Camp Kersey" returns nothing at
+all and is probably a misreading; this issue's OCR is poor throughout.
+
+**Westervelt himself is not findable.** Nine queries across three surfaces — web search on his name with
+Colgate, 1939, nature and camp; Internet Archive metadata searches on "Ken Westervelt," "Kenneth
+Westervelt," and Westervelt with Camp Kiamesha, all returning zero against a control query that returns
+ninety-seven; and two searches establishing that no Colgate yearbook is on the Internet Archive. **The
+search is not exhausted, and the reason is the tooling**: the Internet Archive's full-text search, the
+surface most likely to hold a name printed in a yearbook or an alumni bulletin, is blocked by this
+environment's egress proxy. Colgate's own alumni records and a physical *Salmagundi* remain untried.
 
 His column is a programme statement. He rejects "nature study" — the term "seems to suggest schools and all
 the confinement associated with that institution" — for **nature-craft**, "because it covers the application
@@ -742,6 +760,7 @@ report does not say so, and this article does not assume it.
 8. What was the Pathfinder program Summer Summary (1965 archives listing)? Was it the existing boys' section (est. 1959) or something new?
 
 ## Sources
+- ^kw: NJ Skylands, "YMCA Camps in New Jersey Northwest Skylands" [src_njskylands_ymca_camps], https://njskylands.com/odymca — the Newark YMCA's Sussex County camps, giving Camp Kiamesha as founded 1909 at Stillwater, New Jersey. Fetched and read 2026-09-07 in the course of the Westervelt search. See [f_5610], and [f_5276] for the 1962 yearbook's independent New Jersey placing.
 - ^pg26: *Camp Kanawana Preparation Guide, Summer 2026* (parent handbook) [src_kk_prep_guide_2026], published on ymcaquebec.org and cached at `sources/cache/parent-guides/Camp-Kanawana-GUIDE-Parent-EN_2026.txt`, 74,071 characters. The record read `extracted` while its own note said a full extraction was "flagged as future work"; read word for word 2026-09-07 under p_487. See [f_5603].
 - ^gt39: *The Green Triangle*, **22 July 1939** [src_ymf_the_green_triangle_1939_07_22], Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1939-07-22.txt`. Held since 2026-08-25 at read_state "skimmed" and **passed over by the issue-by-issue read of the whole run**, because the *Green Triangle* article already listed it among the issues read in full; read word for word 2026-09-07. See [f_5591], [f_5596], [f_5597].
 - **nb59** — YMCA of Montreal Annual Report **1959, short version** [src_ia_sgw_ymca_annual_report_1959_short], Internet Archive item `sgw-ymca-annual-report-1959-short-version`, in the `ymca-montreal-fonds` collection — a short version distinct from the full 1959 report. Found and read 2026-09-07 under p_462. See [f_5256].

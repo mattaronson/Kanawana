@@ -5705,3 +5705,32 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   operator browser; noted on each.
   facts.json v10.20, 5,571 facts, 1,635 sources. Verify green, nine checks.
   Timestamp from `date -u` in its own call.
+
+[2026-09-07T15:28:47Z] RESEARCH -- Ken Westervelt, Kanawana's 1939 nature
+  director. Nine queries across three surfaces. THE MAN RETURNS NOTHING and the
+  null is only partly controlled, which is the honest state.
+  Queries: web search on Westervelt with Colgate/1939/nature/camp, on "Camp
+  Kiamesha", on "Camp Kersey"; archive.org metadata on "Ken Westervelt",
+  "Kenneth Westervelt", and Westervelt + Camp Kiamesha -- all numFound 0 against
+  a control query for "Kanawana" returning 97, so the endpoint works; and two
+  searches establishing that NO COLGATE YEARBOOK IS ON THE INTERNET ARCHIVE.
+  NOT EXHAUSTED, AND THE REASON IS THE TOOLING: archive.org's FULL-TEXT search
+  (ia-fts.archive.org) is BLOCKED BY THIS ENVIRONMENT'S EGRESS PROXY -- CONNECT
+  tunnel refused, 502 -- and that is the surface most likely to hold a name
+  printed in a yearbook or an alumni bulletin. Untried: Colgate's own alumni
+  records, a physical Salmagundi, IA full-text from an unblocked network.
+  THE FINDING IS A CORRECTION TO THE SOURCE. "Camp Kiamesha in northern
+  PENNSYLVANIA" is wrong about the state: Kiamesha was a NEWARK YMCA camp
+  established 1909 at STILLWATER, SUSSEX COUNTY, NEW JERSEY, its stone pillars
+  still standing on state land. THIS PROJECT ALREADY HELD THE SAME CORRECTION
+  FROM THE OTHER DIRECTION AND HAD NOT CONNECTED IT: f_5276 records "Kamp
+  Kiamesha" as a New Jersey camp in the 1962 YMCA yearbook. Sussex County faces
+  Pennsylvania across the Delaware, so the writer may have meant the region, but
+  the state as printed is wrong.
+  WHAT THE CORRECTION BUYS: Westervelt came from a YMCA camp of almost exactly
+  Kanawana's vintage -- Kiamesha 1909 against the Saint-Sauveur site in 1910 --
+  which places his hiring inside the YMCA camping network rather than the open
+  market. "Camp Kersey" returns nothing and is probably an OCR misreading.
+  New source src_njskylands_ymca_camps, fetched and read. f_5610.
+  facts.json v10.21, 5,572 facts, 1,636 sources. Verify green, nine checks.
+  Timestamp from `date -u` in its own call.
