@@ -1,7 +1,7 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 47*
-*Last Updated: 2026-09-07 (the Fire of Friendship in 1932; and the Kanawana Circus, documented at last)*
+*Status: E1-reviewed | Sources: 48*
+*Last Updated: 2026-09-07 (internationalism 1932-1965, including a koinobori from Japan in 1935)*
 
 ## Overview
 
@@ -162,6 +162,64 @@ then two bylines that are jokes rather than people: "**Kanawana Thru' a Keyhole*
 pseudonyms were running the same columns that appeared in the paper's first issue three summers
 earlier, so a newspaper that lasted from 1932 to 1940 was handing down not only a masthead but two
 comic personae.
+
+## Internationalism at Kanawana, 1932–1965
+
+The Fire of Friendship above was not a one-off gesture, and the strand it belongs to runs across the
+whole period this article covers. Set the pieces beside each other and they make an argument the camp
+was making about itself.
+
+**1932: a link in a worldwide chain**, described in the section above — thirteen international fires
+since Vaumarcus, a boy carrying the message of each, and a pledge about "peace and good will among
+men."
+
+**1935: the ceremony again, at the Council Ring, with nine nationalities in camp.** *The Green
+Triangle* of 6 July 1935 describes that year's Torch Ceremony, "symbolic of World Friendship and
+Brotherliness," held at the **Council Ring**.^48 The Chief spoke "about the two Fires of Friendship,
+at **Vaumarcus, Switzerland, in 1925**, and at **Toronto in 1933**" — note that the 1932 account gave
+the Toronto fire as the previous year, 1931, so either there was more than one or the date drifted in
+retelling; both are recorded. Boys representing each continent lit torches from one kindled at
+Toronto, and together lit "the first Kanawana fire for 1935." Then "**runners were dispatched with
+flaming torches to light the other fires of Kanawana**," and in the interval before they returned,
+"**natives of nine different countries then in camp told something of the youth of their own land**."
+Nine nationalities, at a Montreal boys' camp, in 1935, each given the floor.
+
+**1935: a carp from Japan.** A week later, on 7 July, "at an impressive ceremony around the flag pole
+on Junior Campus," **Mr. Ernest Trueman of Montreal** "presented to the Camp **on behalf of the youth
+of Japan** a '**Koi Nobori**' or huge effigy of a carp, which flew from the flagpole for the remainder
+of the day. In an effort to promote international goodwill and brotherhood, the boys of [Japan] have
+dispatched such fish to nations all over the world. One came here to Kanawana and **was accepted in
+the spirit it was given. A fitting reply has been mailed to our Japanese friends**, and those who
+attended the ceremony have a clearer understanding of the Japanese than ever before."^48 *(The scan
+reads "the boys of Cjina" in that one sentence, against "the youth of Japan" and "our Japanese
+friends" either side of it; the OCR of this run is poor and the surrounding text is unambiguous.)* A
+koinobori flying over a Laurentian boys' camp in 1935, six years before Japan and Canada were at war,
+with a reply posted back — this project holds nothing else like it.
+
+**1965: three languages a tent.** Thirty years on, a camper's own piece in *The Chestnut*: "In most
+tents, there are **at least three languages**. I think this is good because it helps campers to get
+along with people from different countries… I find that an **international camp** is fun and
+adventurous and that is my main reason for coming to Kamp Kanawana each summer." Quoted more fully in
+[[history/coeducation-gender|Coeducation and Gender]], where it was first written up.
+
+**What holds these together** is that the camp kept doing this deliberately for at least three
+decades, and said so in its own publications rather than in fundraising copy. If this strand grows
+much further it should have its own article; for now it belongs here.
+
+## Two evenings from 1935
+
+**The pyjama parade.** "Thursday night another milestone in Kanawana for 1935 was passed — the pyjama
+parade. To the martial strains of Robert Greening's accordion and Doug MacDonald's bugle and the not
+so melodious tones of Ken Clark's makeshift drum, **the whole camp, dressed in pyjamas or less,
+marched down to the post office** to receive the day's mail and as many oranges as possible… but the
+real hit of the evening was **the Chief in his purple striped with yellow pyjamas**. Even Ralph
+Flitton in his lone hand towel couldn't steal the show."^48
+
+**The Boating Carnival.** Decorated boats entered by tent, judged, and won by a pie: the 1935 prize
+list has a tie for first between two Junior tents, with entries named "**Toonerville Trolley**" and
+"**Kanawana Prison**," and a Senior Camp entry called "**A Waiting Game**." The seniors' own entry is
+described only as one "we shan't tell you what it was — the matter is much too delicate; suffice it
+to say that a **House of Parliament** was removed from the hill."^48
 
 ## L&V Games
 
@@ -472,3 +530,4 @@ Kanawana."^40 Whether either was ever held again is not known here.
 45. *The Green Triangle*, **13 August 1932** [src_ymf_the_green_triangle_1932_08_13], **20 August 1932** [src_ymf_the_green_triangle_1932_08_20] and **27 August 1932** [src_ymf_the_green_triangle_1932_08_27]. All cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. The 27 August issue survives in a badly degraded scan — much of it is unreadable and only its clearest passages are used here.
 46. *The Green Triangle*, Vol. II Nos. 4 and 5, **29 July** and **5 August 1933** [src_ymf_the_green_triangle_1933_07_29, src_ymf_the_green_triangle_1933_08_05]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 47. *The Green Triangle*, **12 August 1933** and Vol. IV No. 2, **30 June 1935** [src_ymf_the_green_triangle_1933_08_12, src_ymf_the_green_triangle_1935_06_30]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+48. *The Green Triangle*, Vol. IV Nos. 3 and 4, **6** and **13 July 1935** [src_ymf_the_green_triangle_1935_07_06, src_ymf_the_green_triangle_1935_07_13]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.

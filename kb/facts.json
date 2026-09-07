@@ -1,8 +1,8 @@
 {
-  "version": "9.91",
-  "kb_version": "9.91",
+  "version": "9.92",
+  "kb_version": "9.92",
   "migrated_from": "3.3",
-  "fact_count": 5468,
+  "fact_count": 5471,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -98609,6 +98609,60 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.91",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5507",
+      "category": "traditions",
+      "date_ref": "1935-06-30",
+      "entities": [
+        "Camp Kanawana",
+        "Council Ring",
+        "Greig Macdiarmid"
+      ],
+      "claim": "THE 1935 TORCH CEREMONY, AT THE COUNCIL RING, WITH NINE NATIONALITIES SPEAKING. The Green Triangle of 6 July 1935: 'Last Sunday evening the fires of Kanawana were kindled in a beautiful TORCH CEREMONY SYMBOLIC OF WORLD FRIENDSHIP AND BROTHERLINESS... THE COUNCIL RING was the scene of the main activities.' The Chief spoke 'about the two Fires of Friendship, at VAUMARCUS, SWITZERLAND IN 1925, and at TORONTO IN 1933', and their aim to 'send men forth with a wider vision of Christian fellowship and determined to work for peace and goodwill among men'. A DATE VARIANCE WORTH KEEPING: the 1932 account (f_5493) gives the Toronto fire as 'last year', i.e. 1931; this gives 1933. Either there was more than one Toronto fire or the date drifted in retelling, and BOTH ARE RECORDED. Boys representing each continent lit torches from one kindled at Toronto and together lit 'the first Kanawana fire for 1935'. Then 'RUNNERS WERE DISPATCHED WITH FLAMING TORCHES TO LIGHT THE OTHER FIRES OF KANAWANA' -- so the ceremony spread across the site, not just the Council Ring -- and in the interval, 'NATIVES OF NINE DIFFERENT COUNTRIES THEN IN CAMP TOLD SOMETHING OF THE YOUTH OF THEIR OWN LAND'. Nine nationalities at a Montreal boys' camp in 1935, each given the floor.",
+      "sources": [
+        "src_ymf_the_green_triangle_1935_07_06"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.92",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5508",
+      "category": "traditions",
+      "date_ref": "1935-07-07",
+      "entities": [
+        "Camp Kanawana",
+        "Ernest Trueman",
+        "Japan"
+      ],
+      "claim": "A KOINOBORI FROM THE YOUTH OF JAPAN FLEW OVER KANAWANA IN 1935. The Green Triangle of 13 July 1935: 'In the afternoon, at an impressive ceremony AROUND THE FLAG POLE ON JUNIOR CAMPUS, MR. ERNEST TRUEMAN of Montreal presented to the Camp ON BEHALF OF THE YOUTH OF JAPAN a \"KOI NOBORI\" or huge effigy of a carp, which FLEW FROM THE FLAGPOLE for the remainder of the day. In an effort to promote international goodwill and brotherhood, the boys of [Japan] have dispatched such fish to nations all over the world. One came here to Kanawana and WAS ACCEPTED IN THE SPIRIT IT WAS GIVEN. A FITTING REPLY HAS BEEN MAILED TO OUR JAPANESE FRIENDS, and those who attended the ceremony have a clearer understanding of the Japanese than ever before.' ONE OCR SLIP FLAGGED RATHER THAN SILENTLY MENDED: the scan reads 'the boys of Cjina' in that one sentence, between 'the youth of Japan' and 'our Japanese friends'; the surrounding text is unambiguous and this run's OCR is poor. THIS PROJECT HOLDS NOTHING ELSE LIKE IT -- a Japanese carp streamer flying over a Laurentian boys' camp SIX YEARS BEFORE JAPAN AND CANADA WERE AT WAR, presented as part of an organised international exchange, with a reply posted back.",
+      "sources": [
+        "src_ymf_the_green_triangle_1935_07_13"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.92",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5509",
+      "category": "traditions",
+      "date_ref": "1935-07",
+      "entities": [
+        "Camp Kanawana",
+        "The Green Triangle"
+      ],
+      "claim": "THE PYJAMA PARADE AND THE BOATING CARNIVAL, 1935. THE PYJAMA PARADE: 'Thursday night another milestone in Kanawana for 1935 was passed -- THE PYJAMA PARADE. To the martial strains of Robert Greening's accordion and Doug MacDonald's bugle and the not so melodious tones of Ken Clark's makeshift drum, THE WHOLE CAMP, DRESSED IN PYJAMAS OR LESS, MARCHED DOWN TO THE POST OFFICE to receive the day's mail and as many oranges as possible. Of course, ALL THE BELLES OF MILE HILL were present, under the glare of numerous flash lights; but the real hit of the evening was THE CHIEF IN HIS PURPLE STRIPED WITH YELLOW PYJAMAS. Even Ralph Flitton in his lone hand towel couldn't steal the show.' MILE HILL occurs nowhere else in this project and is on no map read so far; the joke requires local residents. THE BOATING CARNIVAL: decorated boats entered by tent, judged, the prize a pie. The 1935 list ties two Junior tents for first, with entries named 'TOONERVILLE TROLLEY' and 'KANAWANA PRISON', and a Senior Camp entry called 'A WAITING GAME'. The seniors' own entry is described only as something 'we shan't tell you what it was -- the matter is much too delicate; suffice it to say that A HOUSE OF PARLIAMENT WAS REMOVED FROM THE HILL', which is a camp newspaper reporting an outhouse prank in 1935 and declining to say so.",
+      "sources": [
+        "src_ymf_the_green_triangle_1935_07_06",
+        "src_ymf_the_green_triangle_1935_07_13"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.92",
       "added_by": "ralph_loop"
     }
   ]

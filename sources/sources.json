@@ -22621,12 +22621,12 @@
       "cache_path": "sources/cache/ymca-montreal-fonds/the-green-triangle-1935-07-06.txt",
       "char_count": 6942,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
-      "extraction_version": "v5.60",
+      "extracted": true,
+      "extraction_version": "v9.92",
       "reliability": "primary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ WORD FOR WORD 2026-09-07 under p_482. Vol. IV No. 3: the 1935 TORCH CEREMONY at the COUNCIL RING, with the Chief's speech naming Vaumarcus 1925 and Toronto 1933, runners dispatched to light the camp's other fires, and NATIVES OF NINE DIFFERENT COUNTRIES then in camp each speaking about the youth of their own land; the first service of the season in the woodland chapel, conducted by the Junior Section; and the PYJAMA PARADE to the post office.",
+      "read_state": "read",
+      "read_state_basis": "read-word-for-word-2026-09-07-under-p_482"
     },
     {
       "source_id": "src_ymf_the_green_triangle_1935_07_13",
@@ -22639,12 +22639,12 @@
       "cache_path": "sources/cache/ymca-montreal-fonds/the-green-triangle-1935-07-13.txt",
       "char_count": 6743,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
-      "extraction_version": "v5.60",
+      "extracted": true,
+      "extraction_version": "v9.92",
       "reliability": "primary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ WORD FOR WORD 2026-09-07 under p_482. Vol. IV No. 4: over a hundred visitors on a rainy Sunday; a chapel service in the Lodge with the 'Kanawana Quartette, consisting of seven baritones and one tenor'; and the presentation by Mr. Ernest Trueman, ON BEHALF OF THE YOUTH OF JAPAN, of a KOI NOBORI carp streamer flown from the Junior Campus flagpole, with a reply posted back -- 1935, six years before Japan and Canada were at war. Also the Boating Carnival prize list. NOTE one OCR slip: the text reads 'the boys of Cjina' in a sentence surrounded by 'the youth of Japan' and 'our Japanese friends'.",
+      "read_state": "read",
+      "read_state_basis": "read-word-for-word-2026-09-07-under-p_482"
     },
     {
       "source_id": "src_ymf_the_green_triangle_1935_07_20",
