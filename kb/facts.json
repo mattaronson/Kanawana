@@ -1,8 +1,8 @@
 {
-  "version": "10.99",
-  "kb_version": "10.99",
+  "version": "11.00",
+  "kb_version": "11.00",
   "migrated_from": "3.3",
-  "fact_count": 5674,
+  "fact_count": 5675,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102336,6 +102336,22 @@
       "date_ref": "1920-1958",
       "conflicts_with": [],
       "added_version": "10.99",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5713",
+      "claim": "A SOURCE NOTE THAT STARTED ACCURATE AND WENT ON BEING CITED FOR VOLUMES IT DID NOT NAME. Found 2026-09-07 while preparing a spinout from people/directors-index.md, by checking what each footnote in the move set could actually support. Entry 58 read, in full, '*YMCA Year Book and Official Rosters*, the volumes for 1957 through 1968', and the article cites it eleven times -- for the 1885 and 1889 corresponding-member lists, the 1903-04 and 1905-06 Montreal blocks, the 1918 and 1919 war-service sections, the North Branch volumes of 1919-20 through 1926-27, the 1941 roster, and a run of 1950 to 1973 -- so the marker had come to point at an entry that could not support half the claims resting on it. THE SOURCE RECORD WAS NEVER WRONG: src_umedia_ymca_yearbook_series describes the whole digitized run at the University of Minnesota, which is what made the early reads possible in the first place. What drifted was the article's DESCRIPTION of it, written once for the read that prompted it and then reused as each new read was made. HOW IT SURVIVED AN E1 REVIEW: every check this project runs asks whether a marker has a target and whether a target is cited, and both were true throughout. Nothing compares what an entry SAYS against what the sentences citing it CLAIM, and no reasonable check could without reading both. THE COMPARABLE CASES ARE THE MIS-NAMED SECTION HEADINGS this project has now found five of (f_5122, f_5237, f_5556): a container labelled once and then filled with something wider. A source note is the same shape of defect one level down. THE OTHER ARTICLES ARE FINE ON THIS POINT, and that is worth recording as a control rather than assumed: geoffrey-guiton, harold-cross, rh-hanagan, camp-otoreke and bruce-netherwood each name the volumes they themselves read, and w-j-holliday names none, which is vague but not wrong. Entry 58 is now written out volume by volume with the correction stated in place.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "inferred",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026-09-07",
+      "conflicts_with": [],
+      "added_version": "11.00",
       "added_by": "ralph_loop"
     }
   ]
