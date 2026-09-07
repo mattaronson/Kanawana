@@ -1,6 +1,6 @@
 # The Interwar Era (1920s–1930s)
 
-*Status: draft | Sources: 14*
+*Status: draft | Sources: 15*
 *Last Updated: 2026-09-07 (Harry Smith surnamed and placed in 1918, and a second Spinney)*
 
 ## Overview
@@ -44,6 +44,8 @@ Senior campers built the Council Ring in 1922, sited between the cabins and the 
 
 ## The Mid-1930s and the Camp's First History
 
+**The 1935 season opened on 23 June into eleven straight days of rain.** The camp's own chronicle: "Finally the twenty-third arrived, and **thirty-one campers braved eleven consecutive days of rain — a new record for the Kanawana district**. In between showers, however, the golf course was conditioned and the *Green Triangle* launched on its fourth precarious volume. And despite frequent rains everyone enjoyed himself."^15 Thirty-one is the opening-day count and not the season's. Two smaller things sit in the same sentence: the paper's "fourth precarious volume" in 1935 counts volume one to **1932**, which is the year of its own first issue, so the numbering runs one volume per season with none missed; and the camp had a **golf course** to condition, in the year the *Green Triangle* was calling Jack Cameron "the golfing Scot."
+
 By 1935, staffing had further stabilized under Camp Chief Greig Macdiarmid, with Howie Langille as Senior Director, Ernie Taylor as Junior Director, and Lorne Hamilton as Juvenile Director, overseeing 35 counsellors.^9 Macdiarmid's tenure is independently confirmed continuing through at least 1938 by that July's *Green Triangle* newsletter.^11 In 1933, Ralph Dawson wrote "History of Kamp Kanawana" — the camp's first attempt at documenting its own past. R.L. Charlton later wrote a companion manuscript on the same early period, "Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana" (1943). **Neither manuscript has been read by this project**: both survive only as non-digitized items in the Concordia archives, so what either actually says — and whether they agree — is undocumented. See [[people/ralph-dawson|Ralph Dawson]] and [[people/rl-charlton|R.L. Charlton]] for both men's fuller biographies. No source specific to this KB documents how the camp weathered the Depression financially or in attendance; the staffing and programming record continues without evident interruption, but that silence should not be read as confirmation that the camp was financially untouched by the era — see Open Questions.
 
 ## Open Questions
@@ -77,6 +79,7 @@ By 1935, staffing had further stabilized under Camp Chief Greig Macdiarmid, with
 12. The Council Ring (this wiki) — council-ring form provenance (Jens Jensen; Seton, Silver Bay 1910) and the 1929 rebuild to seat 325, both cited there to McMorris [src_mcmorris_thesis].
 13. *Montreal Men*, the YMCA of Montreal's annual report for the year ending 30 April 1919 [src_ymf_sgw_ymca_annual_report_1919_montreal_men], the recruiting page headed "Camp Kanawana." Read 2026-09-06 under p_454. See [f_5178].
 14. *The Gazette* (Montreal), **27 July 1918**, "Youngsters Have Gay Time at Camp — Kanawana" [src_newspapers_gazette_1918b]. Recovered via Google Books after newspapers.com refused access. The **1918** season description is at [f_2245]; the two staff names it gives, **Harry Smith** and **Robert Spinney**, are at [f_2246]. Brought into this article 2026-09-07 under p_492, the orphan-fact sweep — it names **Harry Smith** in 1918, in the middle of the tenure this section describes as evidenced only at its ends.
+15. "History of Kamp Kanawana, 1935", the season chronicle [src_history_1935], `sources/cache/green-triangle/1935-history.txt`, 4,928 characters. **Read end to end 2026-09-07 under p_492**, and everything distinctive in it was already in this wiki except the opening sentence quoted here — the **23 June** opening, the **thirty-one** campers and the **eleven** days of rain, all at [f_5631]. The **1935** staff list in the paragraph above comes from the same document.
 
 ## Research Notes
 

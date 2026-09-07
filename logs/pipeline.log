@@ -6608,3 +6608,26 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   FOUR INSTRUMENTS HAVE NOW FAILED ON THIS QUESTION IN ONE AFTERNOON: visible-text ratio, blocker
   markers, char_count, and exact quote matching. What found both real defects was reading a cache file
   with my eyes after a fact looked odd. That is written into p_496 so nobody rebuilds any of the four.
+
+2026-09-07T16:57:44Z  p_492 / p_487 -- unit: the 1935 chronicle read whole, and a verification method that works.
+  Went into src_history_1935 for one sentence (the government photographer, f_5628) and read all 4,928
+  characters of it instead. Then checked every distinctive item in it against the wiki: the buried
+  history read at the next season's first campfire, the pyjama parade to the post office, the Council of
+  the Tribes, the boating carnival, Marois Day, the musicale, the eating-out day at the haunted house,
+  the dam between Lakes Kanawana and Wilson let out before the assembled campers, the Buckley and Eardley
+  mid-season swaps, Bob Bennet's shields, and the staff list of Macdiarmid, Langille, Taylor, Hamilton
+  and thirty-five counsellors. EIGHTEEN ITEMS, ALL PRESENT, most in more than one article. Exactly one
+  gap: the opening sentence.
+  Filled it. 23 June 1935, thirty-one campers, "eleven consecutive days of rain - a new record for the
+  Kanawana district", the Green Triangle on its "fourth precarious volume" (which counts volume one to
+  1932, the year of its own first issue, so the numbering runs one per season with none missed), and a
+  golf course conditioned before opening in the same year the paper called Jack Cameron "the golfing
+  Scot". f_5631 added, kb v10.42. New passage and note 15 in wiki/history/interwar-era.md.
+  THE METHOD IS THE POINT, and it is the inverse of the one that failed two hours earlier. p_496 tried to
+  verify reads by matching FACTS against CACHE and could not, because the caches are OCR and the facts
+  hold corrected readings, so good transcription looks like a miss. This runs the other way: read the
+  document, list what is distinctive, grep THE WIKI. The wiki holds the corrected transcription, so OCR
+  is not in the path at all; presence proves the read happened, absence is a specific checkable gap. It
+  cannot be automated because "what is distinctive" requires reading. Ten minutes on a 4,928-character
+  document, clean verdict. Written into p_487, with src_history_1935 recorded as CLEARED so nobody
+  re-derives it, and the instruction to work the rest shortest-first and record each verdict.

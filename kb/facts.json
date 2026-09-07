@@ -1,8 +1,8 @@
 {
-  "version": "10.41",
-  "kb_version": "10.41",
+  "version": "10.42",
+  "kb_version": "10.42",
   "migrated_from": "3.3",
-  "fact_count": 5592,
+  "fact_count": 5593,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100757,6 +100757,23 @@
       "date_ref": "1982",
       "conflicts_with": [],
       "added_version": "10.40",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5631",
+      "claim": "THE 1935 SEASON OPENED ON 23 JUNE WITH THIRTY-ONE CAMPERS AND ELEVEN STRAIGHT DAYS OF RAIN, 'A NEW RECORD FOR THE KANAWANA DISTRICT'. From the 1935 season chronicle, read whole under p_492 on 2026-09-07 rather than for the sentence that was wanted: 'Finally the twenty-third arrived, and THIRTY-ONE CAMPERS BRAVED ELEVEN CONSECUTIVE DAYS OF RAIN - A NEW RECORD FOR THE KANAWANA DISTRICT. In between showers, however, the golf course was conditioned and the GREEN TRIANGLE launched on its fourth precarious volume. And despite frequent rains everyone enjoyed himself.'\n\nTHREE SMALL THINGS IN ONE SENTENCE. (1) A DATED OPENING AND AN OPENING-DAY COUNT for 1935, distinct from any season total. (2) THE GREEN TRIANGLE'S 'FOURTH PRECARIOUS VOLUME' in 1935 -- counting back, volume 1 is 1932, which matches the paper's own first issue of 23 July 1932 (f_5491), so the volume numbering runs one per season with none missed. 'Precarious' is the paper describing its own survival. (3) A GOLF COURSE conditioned before opening, which is also the year the Green Triangle calls Jack Cameron 'the golfing Scot' (f_5629).\n\nAND A VERIFICATION, WHICH IS THE LARGER POINT. This document was read end to end and every other distinctive thing in it was already in the wiki, in most cases in more than one article: the buried history read at the next season's first campfire; the pyjama parade to the post office; the Council of the Tribes; the boating carnival; Marois Day; the musicale; the eating-out day at the haunted house; the dam between Lakes Kanawana and Wilson let out before the assembled campers; the mid-season swap of Wilf Buckley and of Dr. Weaver for Dr. Eardley; Bob Bennet's shields; the staff list of Macdiarmid, Langille, Taylor, Hamilton and thirty-five counsellors; and the government photographer, which is what sent me here. ONLY THE RAIN SENTENCE WAS MISSING. src_history_1935's asserted read is GENUINE and thorough, which is a result p_487 should record rather than re-derive.\n\nTHE METHOD THAT ESTABLISHED IT IS WORTH KEEPING, because the automated version failed the same afternoon. p_496 tried to verify facts by matching their quotations against the cached source text, and could not, because the caches are OCR and the facts hold corrected readings. THIS RUNS THE OTHER WAY: read the document, list what is distinctive in it, then grep THE WIKI for each item. The wiki holds the corrected transcription, so OCR noise is not in the path at all. It cannot be automated -- 'what is distinctive' requires reading -- but for checking whether an asserted read actually happened it works, and it took about ten minutes on a 4,928-character document.",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "history",
+      "entities": [
+        "Kamp Kanawana",
+        "Green Triangle"
+      ],
+      "date_ref": "1935-06-23",
+      "conflicts_with": [],
+      "added_version": "10.42",
       "added_by": "ralph_loop"
     }
   ]
