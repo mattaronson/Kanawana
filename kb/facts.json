@@ -1,8 +1,8 @@
 {
-  "version": "9.18",
-  "kb_version": "9.18",
+  "version": "9.19",
+  "kb_version": "9.19",
   "migrated_from": "3.3",
-  "fact_count": 5279,
+  "fact_count": 5280,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -95229,6 +95229,23 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.18",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5318",
+      "category": "method",
+      "date_ref": "1916-1945",
+      "entities": [
+        "YMCA Year Book",
+        "W. J. Holliday"
+      ],
+      "claim": "ONLY TWO VOLUMES CARRY THE FIRST WAR'S SERVICE ROSTERS, SO A MAN'S RETURN CANNOT BE DATED FROM A THIRD. The phrase that keys them, 'Released from regular Y. M. C. A. work for this special service', occurs in the 1917-18 AND 1918-19 VOLUMES AND NOWHERE ELSE in the series. The 1919-20 volume carries no equivalent list, which is what p_474 asked. The exact phrase 'War Service' does appear in the 1916-17 volume, but both hits are ORDINARY PROSE in the preface and a committee statement -- 'all leaders were on double duty owing to the extra war service', 'students who left college for various forms of war service' -- and not a roster. So the two dated lists of 1 June 1918 and 1 June 1919 are the whole of it, and W. J. Holliday's presence on both bounds his service at its start (12 February to 1 June 1918, f_5296) but not at its end; his return is dated only by his appearing at Sydney, Nova Scotia in the 1919-20 volume. A DIFFERENT CONVENTION APPLIES IN THE SECOND WAR AND IS WORTH KNOWING: from the 1940s volumes, men on war service are marked in the ALPHABETICAL LIST ITSELF, with 'War Service' standing where an association would go -- 'Hall, A. M., War Service, 42', 'Peart, H. W., War Service'. So the second war's servicemen are found by reading the ordinary roster, not by finding a separate list.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.19",
       "added_by": "ralph_loop"
     }
   ]
