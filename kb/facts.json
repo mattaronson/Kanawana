@@ -1,8 +1,8 @@
 {
-  "version": "10.96",
-  "kb_version": "10.96",
+  "version": "10.97",
+  "kb_version": "10.97",
   "migrated_from": "3.3",
-  "fact_count": 5669,
+  "fact_count": 5670,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102221,6 +102221,23 @@
       "date_ref": "2026",
       "conflicts_with": [],
       "added_version": "10.96",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5708",
+      "claim": "THE WAYBACK MACHINE IS HALF-AVAILABLE IN THIS ENVIRONMENT, AND THE HALF THAT WORKS IS THE INDEX. Attempted 2026-09-07 under p_500, to recover the pre-rebuild YMCA Quebec alumni pages behind the twenty-five untraceable facts at f_5707. WHAT WORKS: archive.org itself, including the availability API at archive.org/wayback/available, which answers per-URL and per-year and returns snapshot timestamps and status codes. A control fetch of archive.org/metadata returned 200 in the same minute. WHAT DOES NOT: web.archive.org REPLAY. Every attempt -- curl over HTTP/2 and HTTP/1.1, with and without the id_ raw modifier, three retries with backoff -- died as 'Recv failure: Connection reset by peer', and the proxy's own status endpoint names the cause as ws_closed_mid_exchange, the tunnel closing after eleven seconds with 39 bytes received. WebFetch refuses the host outright. The CDX search API at web.archive.org/cdx resets the same way, which removes URL enumeration and leaves only per-URL guessing. THIS IS A FACT ABOUT THE INSTRUMENT, NOT ABOUT THE PAGES. Nothing here says the alumni material is absent from the archive; it says this environment cannot read a replayed snapshot. Do not re-run these as though they were searches for the content, and do not record a null result against the alumni pages on their basis. WHAT THE INDEX GAVE ANYWAY, and it is a target list precise enough for someone with a browser: THE URL SHAPE CHANGED. The current /en/summer-camp-kanawana/alumni has NO snapshot before 18 November 2025, and /en/summer-camp-kanawana none before 8 November 2025, so the current site is about ten months old. The predecessor is /en/find-a-y/camp-ymca-kanawana, with 200-status snapshots at 2016-01-10, 2017-12-24, 2019-12-10, 2022-01-21, 2024-01-10 and 2025-08-12, and an /our-team child at 2022-11-28. Nothing resolves under a guessed /alumni or /pip-award child of the old shape, which is what CDX enumeration would settle in one query.",
+      "sources": [
+        "src_ymca_website"
+      ],
+      "confidence": "stated",
+      "category": "methodology",
+      "entities": [
+        "YMCA Quebec",
+        "Internet Archive"
+      ],
+      "date_ref": "2026-09-07",
+      "conflicts_with": [],
+      "added_version": "10.97",
       "added_by": "ralph_loop"
     }
   ]
