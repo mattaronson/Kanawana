@@ -13534,9 +13534,9 @@
       "extracted": false,
       "extraction_version": "v5.60",
       "reliability": "primary",
-      "notes": "[READ 2026-09-06 under p_441; read_state corrected from 'skimmed'.] A 64,000-character songbook that is ALMOST ENTIRELY GENERAL SONGS -- 'There'll Always Be an England', Kipling's 'Mandalay', the wartime community-singing repertoire. FIVE LINES ARE ABOUT THE CAMP and they are the useful ones: the OTOREKE CAMP SONG, headed '(To tune of \"Sierra Sue\")' and naming both Otoreke's lake and Lake Suez; and a parody verse, 'You can't go to heaven in an Otoreke boat, / Cause the goll-darn things don't stay afloat.' The borrowed-tune pattern this project documents at Kanawana is thereby attested at the sibling camp. The general repertoire is NOT extracted. See f_5004.",
+      "notes": "[READ 2026-09-06 under p_441; read_state corrected from 'skimmed'.] A 64,000-character songbook that is ALMOST ENTIRELY GENERAL SONGS -- 'There'll Always Be an England', Kipling's 'Mandalay', the wartime community-singing repertoire. FIVE LINES ARE ABOUT THE CAMP and they are the useful ones: the OTOREKE CAMP SONG, headed '(To tune of \"Sierra Sue\")' and naming both Otoreke's lake and Lake Suez; and a parody verse, 'You can't go to heaven in an Otoreke boat, / Cause the goll-darn things don't stay afloat.' The borrowed-tune pattern this project documents at Kanawana is thereby attested at the sibling camp. The general repertoire is NOT extracted. See f_5004. READ WORD FOR WORD 2026-09-07 under p_487. The basis was \"asserted:full-text-cached-and-keyword-swept-not-read-closely\" on a record marked \"extracted\", which is the population f_5601 identifies as invisible: nothing revisits a record claiming a full read. Thin yield was the tell -- 64,053 characters, one fact. The full numbered repertoire of at least 94 songs is now enumerated at f_5602.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "direct:read-word-for-word-2026-09-07-repertoire-enumerated-at-f_5602"
     },
     {
       "source_id": "src_ymf_1943_08_15_report_on_camp_thunderbird",

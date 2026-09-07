@@ -1,7 +1,7 @@
 # Camp Songs, Cheers, and Musical Traditions
 
-*Status: E1-reviewed | Sources: 29*
-*Last Updated: 2026-09-07 (the Harmony Club and the 1939 Sunday Musicals; "Kanawana Melody", 1940)*
+*Status: E1-reviewed | Sources: 30*
+*Last Updated: 2026-09-07 (the 1941 Otoreke songbook read in full and its 94-song repertoire enumerated)*
 
 ## Overview
 
@@ -314,6 +314,67 @@ songs are borrowed," and it is the one the sources support [f_4870].
 His closing rule also matches the shape already documented here: Kay McClelland's 1956 campfire
 structure, in the section below, ends the same way.
 
+## What a Montreal YMCA camp songbook actually held, 1941
+
+Open question 5 below asks what was in the Kanawana song books of 1941–1945, and has stood as a dead end
+since July because Concordia's finding aid stops at folder level. **This project holds the sibling camp's
+book**, from the same fonds, the same institution and the same year: a 1941 songbook for
+[[site/camp-otoreke|Camp Otoreke]], 64,053 characters of it, numbered to at least 94.^30 It does not
+itemize Kanawana's book. It does answer the question a Montreal YMCA camp songbook of 1941 was asked.
+
+Read for Kanawana's own purposes it is thin — five lines about the camp, and this wiki already had them.
+Read as a document it has a shape, and the shape is the evidence. It **opens with the camp's own song** (to
+the tune of "Sierra Sue"), then goes straight to **wartime British patriotism**: "There'll Always Be an
+England," "Land of Hope and Glory," and "I Am a Canadian" set out across four blocks, then Kipling's "The
+Road to Mandalay." A long **parlour and art-song** run follows — "Drink to Me Only," "Early One Morning,"
+"All Through the Night," "Sweet and Low," "Believe Me If All Those Endearing Young Charms," "Santa Lucia,"
+"Juanita," "Love's Old Sweet Song," "Let Me Call You Sweetheart," "Smiles," "There's a Long Long Trail" —
+then a **Scots and Irish block** at roughly 24 to 34, "Annie Laurie," "Loch Lomond," "Comin' Thro' the Rye,"
+"Auld Lang Syne," "Roamin' in the Gloamin'," "My Wild Irish Rose," "Cockles and Mussels," "The Rose of
+Tralee," "Mother Machree," "An Eriskay Love Lilt," "Come Back to Erin," "Billy Boy" — then **five sea
+shanties** at 38 to 42: "Bound for the Rio Grande," "The Dead Horse," "Fire Down Below," "The Banks of
+Sacramento," "Haul Away Joe."
+
+Then the book stops sounding like a community songbook and starts sounding like a camp. "Ich Bin In
+Musikaut," "Working on the Railroad," "Beer Barrel Polka," "The Little Skunk's Hole," "Yip-I-Dee," "The
+Bells of Hell," **"What Shall We Do With a Sleepy Camper?"** at 54, "It Ain't No Fault of Mine," "You Can't
+Get to Heaven," "There's a Fly on Baby's Bran," "Whistle While You Work" and "Heigh-Ho" — the two Snow White
+songs, four years old in 1941 and already in the book — "Down by the Old Mill Stream," "The Old Pine Tree,"
+"The Old Apple Tree," "Twilight on the Prairie," "She'll Be Comin' Round the Mountain," "Grandfather's
+Clock," "Clementine," "One More River," "Short'nin' Bread," "On Moonlight Bay," "Rise and Shine." Two rounds
+follow, "Lovely Evening" and "Row Your Boat."
+
+Three findings come out of it for this article.
+
+**Number 73 is the Battle Hymn of the Republic.** That is the tune this wiki records for "Dear Old
+Kanawana." It sat in the sibling camp's printed book, numbered, in exactly the years Kanawana's own song
+books were compiled — so a boy moving between the two Montreal YMCA camps arrived already knowing the tune,
+and the borrowing looks less like a local invention than like the obvious thing to do with a song everyone
+in the system could already sing.
+
+**The book closes on French Canada, and the choice is deliberate.** Songs 90 to 94 are "En passant par la
+Lorraine," "C'est l'aviron qui nous mène en haut," "À la claire fontaine," "En roulant ma boule roulant" and
+**"Vive la Canadienne!"** Five songs of the standard Quebec folk canon, at the end of an otherwise English
+book, at an English-language Montreal YMCA camp, in 1941. That is earlier than anything in
+[[connections/institutional-lineage/french-language-camping-national|French-Language Camping]], and it puts
+the French repertoire inside English camps a generation before the institutional story usually starts. The
+canoe songs among them are the paddling repertoire, which is the likeliest route in.
+
+**And the localisation habit is on the page.** Number 55 or thereabouts, "You Can't Get to Heaven," carries
+the line "**You can't go to heaven in an Otoreke boat**" — the camp's own name dropped into a standard song,
+which is precisely the practice the Kanawana material shows and this article describes under "How the
+repertoire was passed on."
+
+One part of the book needs saying plainly rather than leaving out. Six of the ninety-four are **minstrel or
+ethnic-caricature songs**: "The Darky Sunday School," "Short'nin' Bread," "Carry Me Back to Old Virginny,"
+"In the Evening by the Moonlight," "A Gay Caballero" and "Abdul the Bulbul Ameer." They were standard
+North American community-singing repertoire in 1941 and their presence here is not remarkable for the
+period; they are listed because a repertoire with its uncomfortable half quietly removed is not the
+repertoire, and a later reader comparing this book to a modern one should be able to see what changed.
+
+The OCR is poor. About ten of the ninety-four numbers are unrecovered and the page order is jumbled in
+places, so this is the repertoire and approximately its order, not a verified table of contents.
+
 ## How the repertoire was passed on
 
 The transmission of a camp's songs is almost never described, because it happened in the ordinary run of the day and nobody wrote it down. One counsellor did, in October 1980. Christine Nixon of Camp Oconto, writing on music for young campers, sets out the mechanism:^22
@@ -365,7 +426,7 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 2. [Critical, partially advanced 2026-07-09] What cheers are associated with the L&V Games (Voyageur cheer, Lumberman cheer, section cheers)? One section cheer (Voyageurs sound-off, girls'-section cheer) is in fact already documented on the "Medley '81" sheet (f_1566) — see the corrected Section Cheers note above. A possible model/common-origin lead surfaced: YMCA Camp Pine Crest's "Lumbermen vs. Voyageurs" games (since 1940) — its centennial book is an unread, worth-pursuing source.
 3. ~~[Critical] What is the full text of the Kamp Kanawana Marching Song?~~ [Largely resolved] Full 2000s-era text recorded from oral history (f_1196).^14 Remaining: the rediscovered lost verses from Concordia (2006) for comparison against the modern version.
 4. ~~[Important] What are the words of Grace as said at Kanawana?~~ [Partially resolved] Rotating sung graces: Johnny Appleseed and Joy to the World ("Jeremiah was a Bullfrog") identified (f_1195).^14 Remaining: any other graces in the rotation, and when the rotation replaced a single fixed grace.
-5. [Important, re-confirmed dead end 2026-07-09] What songs are in the 1925/1927 song sheets and the 1941-1945 Kanawana song books? Box number now confirmed (HA2315, along with two previously undocumented adjacent items — "KK pageant scripts" 1931-32 and "Fire of Friendship, Kanawana show" 1939 — see [[traditions/traditions-and-culture|Traditions and Culture]]) but the finding aid is folder-level only; no song titles are itemized online.
+5. [Important, ADVANCED 2026-09-07 — no longer a flat dead end] What songs are in the 1925/1927 song sheets and the 1941-1945 Kanawana song books? **The sibling camp's 1941 book is held in full and its repertoire is now enumerated** — see "What a Montreal YMCA camp songbook actually held, 1941" above. That is the same institution, the same fonds and the same year, and it establishes what such a book contained, including the Battle Hymn of the Republic at number 73 and a five-song French-Canadian close. Kanawana's own titles remain unlisted, and only page images of HA2315 will give them. Box number confirmed (HA2315, along with two previously undocumented adjacent items — "KK pageant scripts" 1931-32 and "Fire of Friendship, Kanawana show" 1939 — see [[traditions/traditions-and-culture|Traditions and Culture]]) but the finding aid is folder-level only; no song titles are itemized online.
 6. [PARTIALLY ANSWERED 2026-08-25] When was the "Yo Triumphy" cheer replaced by the Marching Song? Did both coexist? **The cheer was already described as a "former Kanawana yell" in *The Green Triangle* of 9 July 1938, and reprinted so campers could learn it again** — so it fell out of general use between 1933 (when campers were still singing it) and 1938, and was the object of a deliberate revival attempt that year. Whether the Marching Song displaced it, and whether the two overlapped, remains open. The earlier note that "only physical Green Triangle/Ka-News issues (1932-1982, Concordia) can resolve this" was correct — this came from the digitized 1938 run. The 1941-1975 issues remain undigitized and would settle the rest.
 7. [Nice-to-have] What songs were commonly sung at campfire sing-songs across different eras?
 8. ~~[Nice-to-have] Did the camp song change over time, or has "On My Way to Kanawana" always been the primary camp song?~~ [Resolved] Yes — "Dear Old Kanawana" (to the Battle Hymn of the Republic) was the camp song during the pre-war and mid-century periods. "On My Way to Kanawana" by Richard Kerr is a later composition (date unknown).^13
@@ -415,6 +476,7 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 27. *The Green Triangle*, **13 August 1932** [src_ymf_the_green_triangle_1932_08_13], **20 August 1932** [src_ymf_the_green_triangle_1932_08_20] and **27 August 1932** [src_ymf_the_green_triangle_1932_08_27]. All cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. The 27 August issue survives in a badly degraded scan — much of it is unreadable and only its clearest passages are used here.
 28. *The Green Triangle*, Vol. II Nos. 4 and 5, **29 July** and **5 August 1933** [src_ymf_the_green_triangle_1933_07_29, src_ymf_the_green_triangle_1933_08_05]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 29. *The Green Triangle*, **13 August 1936** (the "Marois Issue"), **1** and **29 July 1939**, **4** and **22 August 1940** [src_ymf_the_green_triangle_1936_08_13, src_ymf_the_green_triangle_1939_07_01, src_ymf_the_green_triangle_1939_07_29, src_ymf_the_green_triangle_1940_08_04, src_ymf_the_green_triangle_1940_08_22]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. With these the whole digitized 1932–1982 run has been read.
+30. *Camp Otoreke songbook*, 1941 [src_ymf_1941_camp_otoreke_songs]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/1941-camp-otoreke-songs.txt`, 64,053 characters. Held since 2026-08-25 at basis "asserted: keyword-swept, not read closely" on a record marked *extracted*; read word for word 2026-09-07 under p_487, and the repertoire enumerated. See [f_5004] and [f_5602].
 
 ## Research Notes
 
