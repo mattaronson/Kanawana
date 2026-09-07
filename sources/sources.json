@@ -31569,7 +31569,25 @@
       "char_count": 0,
       "ingested_at": "2026-09-07T10:05:00Z",
       "notes": "Same sweep. The published ESA budget carries a line 'Charity (Weredale House) 100.00' as budgeted and spent. The same table is reprinted in the issue of 15 February 1971 (identifier paper-1971-feb-15), which is why that item also came back a hit; it is the same document, not a second one."
+    },
+    {
+      "source_id": "src_mcgill_daily_1946_02_22",
+      "type": "periodical",
+      "title": "The McGill Daily Vol. 35 No. 90, 22 February 1946 — McGill Outing Club ski tours, Morin Heights to Shawbridge",
+      "date": "1946-02-22",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/McGillLibrary-mcgill-daily-v35-n090-february-22-1946-9545",
+      "cache_path": null,
+      "char_count": 77876,
+      "ingested_at": "2026-09-07T10:20:00Z",
+      "extracted": true,
+      "extraction_version": "v9.79",
+      "reliability": "secondary",
+      "notes": "Found by the download-and-grep sweep of the McGill Library's digitized McGill Daily. One Kanawana match in the issue, and it is the LAKE as a landmark on a ski trail, not the camp. Quoted in full in f_5473; the text was read and deleted per the sweep method rather than cached, since the passage is three sentences.",
+      "read_state": "read",
+      "read_state_basis": "whole-issue-grepped-passage-read"
     }
   ],
-  "source_count": 1756
+  "source_count": 1757
 }

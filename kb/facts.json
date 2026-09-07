@@ -1,8 +1,8 @@
 {
-  "version": "9.78",
-  "kb_version": "9.78",
+  "version": "9.79",
+  "kb_version": "9.79",
   "migrated_from": "3.3",
-  "fact_count": 5434,
+  "fact_count": 5435,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -97986,6 +97986,27 @@
       "confidence": "inferred",
       "conflicts_with": [],
       "added_version": "9.78",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5473",
+      "category": "site",
+      "date_ref": "1946-02-22",
+      "entities": [
+        "Lake Kanawana",
+        "Camp Kanawana",
+        "Camp Lighthall",
+        "McGill University",
+        "Shawbridge",
+        "Morin Heights"
+      ],
+      "claim": "THE TRAIL PAST KANAWANA, CONFIRMED FROM OUTSIDE THE CAMP'S OWN PAPER. The McGill Daily of 22 February 1946, on the McGill Outing Club's two ski tours for that Sunday: 'For the short tour or gopher hop the TRAIL STARTS FROM MORIN HEIGHTS AND ENDS UP IN SHAWBRIDGE. The trail will always be BELOW THE C.N.R. TRACKS and will PASS BY LAKE KANAWANA AND LAKE MAROIS. The Long tour will start from MONTFORT winding down to Shawbridge too and passing along almost the same route.' Lunch was advised for 'the final push to the M.O.C. HOUSE AT SHAWBRIDGE'. (The club sorted its members into 'average skiers and GOPHERS'.) WHY THIS IS WORTH A FACT. wiki/connections/related-camps/camp-lighthall.md places Camp Lighthall using this very route -- 'the 1930s Green Triangle material places it on the trail between Kanawana and Shawbridge, past Lac Marois. All three localities are adjacent' -- and that trail was known only from KANAWANA'S OWN NEWSPAPER. Here is the same trail in the same order, past the same two lakes, in an outside publication a decade later, with a western terminus (Morin Heights, or Montfort for the long tour) and a fixed constraint the camp's account does not give: it runs BELOW THE C.N.R. TRACKS. The adjacency argument in that article no longer rests on a single source. TWO CAUTIONS. 'Lake Kanawana' here is the lake as a public landmark and the camp is not mentioned; and a trail passing BY a lake says nothing about who owned it, so this is not evidence against the 'three private lakes' of the camp's later advertising.",
+      "sources": [
+        "src_mcgill_daily_1946_02_22"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.79",
       "added_by": "ralph_loop"
     }
   ]

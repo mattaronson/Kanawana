@@ -3481,3 +3481,20 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   exhaustively now that the collection is closed, and with the explicit warning that
   the five institutional items must not be filed there.
   Verify green across all eight checks.
+
+2026-09-07T10:24Z  rescan_multi CLOSED; McGill sweep hit worked.
+  rescan_multi finished: 12,089 unique items, 5 unresolved, all 5 re-run and all 5
+  CLEAN. So the rule-50 back-fill is complete -- 167 items carry more than one text
+  file and 4 of those hid a Kanawana passage outside txts[0], all four now worked.
+  McGill Daily sweep at 7,460/9,890 with 8 hits; 7 already held. The eighth, the
+  issue of 22 February 1946, is Lake Kanawana as a LANDMARK on a McGill Outing Club
+  ski trail: Morin Heights to Shawbridge, always below the C.N.R. tracks, past Lake
+  Kanawana and Lake Marois. camp-lighthall.md placed that camp using this very trail
+  and had it only from Kanawana's own Green Triangle -- one source carrying an
+  adjacency argument. Same trail, same lakes, same order, from an outside paper a
+  decade later, with a western terminus and a constraint the camp's account lacks.
+  Recorded with two cautions: the Daily mentions no camp, and a trail passing by a
+  lake says nothing about ownership, so it is not evidence against the "three private
+  lakes" of the camp's later advertising.
+  NEW: sources 1756 -> 1757; facts 5434 -> 5435 (f_5473); kb 9.78 -> 9.79.
+  Verify green across all eight checks.

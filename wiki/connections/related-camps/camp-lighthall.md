@@ -1,7 +1,7 @@
 # Camp Lighthall
 
-*Status: R3-verified | Sources: 12*
-*Last Updated: 2026-09-06 (VERIFY pass, p_284)*
+*Status: R3-verified | Sources: 13*
+*Last Updated: 2026-09-07 (the Kanawana-Shawbridge trail confirmed from outside the camp's own paper)*
 
 ## Overview
 
@@ -166,6 +166,18 @@ Shawbridge, past Lac Marois. All three localities are adjacent. Whether the camp
 Saint-Sauveur was simply the postal address of a site in the Sainte-Marguerite vicinity, is
 unresolved. No lot, lake, or civic address has been found.
 
+**And that trail is now attested from outside Kanawana's own paper.** The route above came from the
+1930s *Green Triangle*, which is the camp writing about its own neighbourhood — a single source
+carrying an adjacency argument. *The McGill Daily* of **22 February 1946** describes the McGill Outing
+Club's Sunday ski tours in the same terms: "the trail starts from **Morin Heights** and ends up in
+**Shawbridge**. The trail will always be **below the C.N.R. tracks** and will **pass by Lake Kanawana
+and Lake Marois**," with a longer variant starting at **Montfort** and running "almost the same
+route" to the club's house at Shawbridge.^13 Same trail, same two lakes, same order, ten years later,
+in a paper with no connection to the camp — and with a western terminus and a constraint the camp's
+own account does not supply. The adjacency of these localities no longer rests on one witness. It
+still does not locate Lighthall: the *Daily* is describing a ski route, not a camp, and mentions
+neither Lighthall nor Kanawana as institutions.
+
 ## Open Questions
 
 1. **[Critical]** When did the camp close? The last evidence of operation is the January 1976
@@ -204,6 +216,7 @@ unresolved. No lot, lake, or civic address has been found.
 10. *The Green Triangle*, Kamp Kanawana campers' newspaper, issues of 1932-07-23, 1932-08-06, 1932-08-13, 1933-07-08, 1935-08-17, 1936-08-13, 1936-10-17, 1937-03-30, 1938-07-29, 1939-07-01 and 1940-06-27 [src_ia_green_triangle_collection]. Located by full-text grep across the digitized run.
 11. *Canadian Camping* Vol. 19 No. 4 (June 1967), p. 125 [src_ia_canadian_camping_1967_06]. Profile of the Montreal YMCA Director of Camping.
 12. Trent University Archives, Canadian Camping Association fonds, accession 78-004, Appendix 1 (Photographs), Box 5, item 577 [src_trent_cca_fonds_umbrella]. "Denise Lamer, Camp Lighthall, St. Sauveur, Quebec." Series dated c. 1972 by adjacent CCA board photographs taken at Montreal City Hall, 19 April 1972.
+13. "Ski Tours" notice, *The McGill Daily* Vol. 35 No. 90, 22 February 1946 [src_mcgill_daily_1946_02_22]. Found by the download-and-grep sweep of the digitized *McGill Daily*. See [f_5473].
 
 ## Research Notes
 

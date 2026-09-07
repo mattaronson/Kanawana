@@ -10824,7 +10824,8 @@
         "src_cgns_lighthall",
         "src_ia_green_triangle_collection",
         "src_trent_cca_fonds_umbrella",
-        "src_mcmorris_thesis_spectrum"
+        "src_mcmorris_thesis_spectrum",
+        "src_mcgill_daily_1946_02_22"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -10836,7 +10837,7 @@
         "camp-perrot"
       ],
       "file_id": null,
-      "word_count": 2734
+      "word_count": 2942
     },
     {
       "article_id": "t-duncan-patton",
