@@ -1,7 +1,7 @@
 # Camp Weredale and Its Relationship to Kanawana
 
 *Status: E1-reviewed | Sources: 13*
-*Last Updated: 2026-09-07 (the YMCA called it a French camp; and two university newsletters)*
+*Last Updated: 2026-09-07 (the YMCA called it a French camp; two university newsletters; and a question about the building)*
 
 ## Overview
 
@@ -89,7 +89,8 @@ The camps also shared overlapping communities of Montreal youth workers. Frank E
 2a. ~~[Verification] One June 2026 search excerpt dated Youth Horizons' formation to 1973 rather than 1977~~ [Resolved 2026-07-10] Confirmed 1977 via direct raw-HTML fetch of batshawcentreshistory.ca's own timeline page; the "1973" excerpt was a misreading of an adjacent, unrelated timeline entry ("Ville Marie Social Services is formed," 1973).
 3. [Nice-to-have] What is in the Weredale House fonds at LAC that might illuminate the camp's relationship to the YMCA? LAC's online catalogue (bac-lac.gc.ca) returns HTTP 403 to all automated fetch attempts, consistent with the general AtoM-style bot-blocking pattern seen elsewhere in this project.
 4. [Nice-to-have, largely superseded by Q1] Were there any other connections between Weredale House and the Montreal YMCA beyond the 1977–1980 planning documents? Now answered in part — see the 1979-1982 lease/joint-files finding above.
-5. [Nice-to-have] What role did Frank Crabbe play at Camp Lewis, and are there other documented Weredale–Kanawana personnel crossovers? Re-confirmed dead end: no other named individual crossing between Weredale/Camp Lewis and Kanawana was found in any search.
+5. [Nice-to-have, **new 2026-09-07**] **What became of the Weredale House building?** This article follows the institution to its 1977 merger into Youth Horizons and stops. A Montreal community listing of December 1998 advertises an event "at the **auditorium of 6 Weredale Park (Métro Atwater)**," and this article describes the Home's 1930 quarters as "a four-story brick building located below St. Catherine Street off Atwater" on Weredale Park. **Those may or may not be the same building** — Weredale Park is a small Westmount square with more than one address on it, and nothing found connects them. A Westmount assessment roll, a heritage inventory, or the Youth Horizons records would settle it. See [f_5421].
+6. [Nice-to-have] What role did Frank Crabbe play at Camp Lewis, and are there other documented Weredale–Kanawana personnel crossovers? Re-confirmed dead end: no other named individual crossing between Weredale/Camp Lewis and Kanawana was found in any search.
 
 ## Related Articles
 
