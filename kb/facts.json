@@ -1,8 +1,8 @@
 {
-  "version": "9.00",
-  "kb_version": "9.00",
+  "version": "9.01",
+  "kb_version": "9.01",
   "migrated_from": "3.3",
-  "fact_count": 5247,
+  "fact_count": 5250,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -94581,7 +94581,7 @@
         "H. A. Lordly",
         "Kamp Kanawana"
       ],
-      "claim": "HAROLD C. CROSS WAS IN CHARGE OF PART OF THE 1913 KANAWANA SEASON, TWELVE YEARS BEFORE THE DIRECTORSHIP THIS PROJECT KNEW ABOUT. The YMCA of Montreal's Sixty-Third Annual Report, for the year ending 30 April 1914, reports on the summer inside that year: 'The Boys' Camp at Lake Kanawana was open for July and August with 162 boys, apart from visitors, IN CHARGE OF MESSRS. D. J. EVANS, HAROLD CROSS, AND H. A. LORDLY FOR SUCCESSIVE PORTIONS OF THE SEASON.' The year-end regime makes that summer 1913, not 1914. IT FITS THE YEAR BOOK EXACTLY: Cross is Montreal's North Branch boys' worker through the 1913-14 volume and General Secretary at Charlottetown by 1914-15 (f_5269), so the 1913 season was his last Montreal summer before leaving for Prince Edward Island. This is the EARLIEST CAMP CONNECTION on record for him by more than a decade, and it means the man who came back in the mid-1920s to direct Kanawana had already run part of a season at it. Evans was the association's Boys' Secretary from August 1913 and Lordly joined the Boys' Department that same July, so all three men named were Boys' Department staff sharing a season, which is what 'successive portions' describes.",
+      "claim": "[SUPERSEDED 2026-09-07, within the hour, BY THE PROJECT'S OWN RECORDS. This fact was written as a discovery and it is not one. directors-index.md's table of early directors ALREADY CARRIED the row 'D. J. Evans, Harold Cross, H. A. Lordly | 1913' with this exact quotation, and the KB already held the passage. The check that would have caught it is the one this project runs constantly and the one I had invoked four times the same day: GREP THE DESTINATION BEFORE CLAIMING NOVELTY. I grepped the CACHE for Lordly and never grepped the WIKI. The original claim follows, corrected.] HAROLD C. CROSS WAS IN CHARGE OF PART OF THE 1913 KANAWANA SEASON, AND THIS PROJECT ALREADY KNEW IT -- WHAT WAS MISSING IS THAT HIS OWN ARTICLE DID NOT SAY SO. The YMCA of Montreal's Sixty-Third Annual Report, for the year ending 30 April 1914, reports on the summer inside that year: 'The Boys' Camp at Lake Kanawana was open for July and August with 162 boys, apart from visitors, IN CHARGE OF MESSRS. D. J. EVANS, HAROLD CROSS, AND H. A. LORDLY FOR SUCCESSIVE PORTIONS OF THE SEASON.' The year-end regime makes that summer 1913, not 1914. IT FITS THE YEAR BOOK EXACTLY: Cross is Montreal's North Branch boys' worker through the 1913-14 volume and General Secretary at Charlottetown by 1914-15 (f_5269), so the 1913 season was his last Montreal summer before leaving for Prince Edward Island. This is the EARLIEST CAMP CONNECTION on record for him by more than a decade, and it means the man who came back in the mid-1920s to direct Kanawana had already run part of a season at it. Evans was the association's Boys' Secretary from August 1913 and Lordly joined the Boys' Department that same July, so all three men named were Boys' Department staff sharing a season, which is what 'successive portions' describes. WHAT IS ACTUALLY NEW HERE, AND IT IS SMALLER THAN THE HEADLINE ABOVE: harold-cross.md, the article about the man, carried nothing about 1913 at all, and the 1913 row of attendance-series.md carried the figure with no staff. The material was in the directors index and in the KB and had never been carried across to either. That is a cross-linking gap, not a discovery. THE GENUINE GAIN FROM THE YEAR BOOK IS THE FIT: the roster puts Cross at Montreal's North Branch through the 1913-14 volume and at Charlottetown by 1914-15, which dates the 1913 season as his LAST MONTREAL SUMMER and explains why he is in the camp record once and never again.",
       "sources": [
         "src_ymf_sgw_ymca_annual_report_1914",
         "src_umedia_ymca_yearbook_series"
@@ -94638,7 +94638,7 @@
         "YMCA of Montreal",
         "Kamp Kanawana"
       ],
-      "claim": "A NAME YOU DO NOT HAVE IS A SEARCH YOU CANNOT RUN, AND TODAY IS THE PROOF. Every one of the findings in f_5282, f_5283 and f_5284 comes from Montreal annual reports THAT HAVE BEEN IN THIS PROJECT'S CACHE FOR WEEKS. Nothing was fetched to get them. What was missing was the names: Hollinshead, Lordly, Daggett and Murray Brooks occurred nowhere in this project, so nobody could have grepped for them, and the passages sat unread in files marked read. THE SHARPEST INSTANCE: the 1913 attendance figure of 162 in attendance-series.md was taken from THE VERY SENTENCE that names D. J. Evans, Harold Cross and H. A. Lordly as the season's staff. The number was extracted and the three names in the same clause were left. THE PRACTICAL RULE: when an outside source hands you a new name for an institution this project already holds documents about, grep the cache for it IMMEDIATELY -- before doing anything else with it. The reverse also follows, and is less comfortable: a cached document marked 'extracted' has been read for the questions someone had at the time, and a new question can find new material in it without any new source at all.",
+      "claim": "A NAME YOU DO NOT HAVE IS A SEARCH YOU CANNOT RUN, AND TODAY IS THE PROOF. Every one of the findings in f_5282, f_5283 and f_5284 comes from Montreal annual reports THAT HAVE BEEN IN THIS PROJECT'S CACHE FOR WEEKS. Nothing was fetched to get them. What was missing was the names: Hollinshead, Daggett and Murray Brooks occurred nowhere in this project [CORRECTED 2026-09-07: this list originally included LORDLY, which was wrong -- he was already in directors-index.md and in the KB. The error is instructive rather than trivial: I grepped the CACHE for these names and did not grep the WIKI, which is how the same passage got written up twice, the second time as a discovery. THE RULE HAS TWO HALVES AND I RAN ONLY ONE.], so nobody could have grepped for them, and the passages sat unread in files marked read. THE SHARPEST INSTANCE IS NARROWER THAN FIRST WRITTEN: the 1913 attendance figure of 162 in attendance-series.md was taken from the very sentence that names D. J. Evans, Harold Cross and H. A. Lordly, and that row carried no staff -- but the names were NOT lost, they went into directors-index.md's table of early directors instead. So the failure is one of cross-linking between articles, not of extraction. THE PRACTICAL RULE: when an outside source hands you a new name for an institution this project already holds documents about, grep the cache for it IMMEDIATELY -- before doing anything else with it. The reverse also follows, and is less comfortable: a cached document marked 'extracted' has been read for the questions someone had at the time, and a new question can find new material in it without any new source at all.",
       "sources": [
         "src_ymf_sgw_ymca_annual_report_1914",
         "src_umedia_ymca_yearbook_series"
@@ -94646,6 +94646,64 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.00",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5286",
+      "category": "people",
+      "date_ref": "1904",
+      "entities": [
+        "Cecil M. Daggett",
+        "R. H. Macdonald",
+        "Kamp Kanawana",
+        "Camp Jubilee"
+      ],
+      "claim": "C. M. DAGGETT WAS TO RUN THE 1904 CAMP, AND HE FILLS A DIRECTOR GAP THAT RUNS FROM 1901 TO 1908. The association's own monthly, Men of Montreal, Vol. I No. 6 for June 1904 -- the issue whose masthead calls it the Summer Camp Number -- announces the coming season: 'The camp will be in charge of MR. C. M. DAGGETT, assisted by a group of adult leaders.' It gives two camps that summer, a BUSINESS BOYS' CAMP with applications closing 16 June and a SCHOOL BOYS' CAMP closing 30 June, at '$11.00 for two weeks, WHICH COVERS EVERYTHING, INCLUDING RAILWAY FARE', on a $2.00 deposit. directors-index.md's table of early directors jumps from John Roy in 1901 to W. J. Holliday in 1908 with nothing between; Daggett is the first name in that gap, and the Year Book independently has him as Montreal's Boys' Work Director in the 1903-04 volume (f_5274). IT IS AN ANNOUNCEMENT AND NOT A REPORT -- the sentence is in the future tense, printed in June before the season, so it establishes who was appointed and not who actually served.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1904_men_of_montreal",
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.01",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5287",
+      "category": "chronology",
+      "date_ref": "1904",
+      "entities": [
+        "Kamp Kanawana",
+        "Camp Jubilee"
+      ],
+      "claim": "THE ASSOCIATION SAID IN JUNE 1904 THAT THE CAMP HAD 'NOW BEEN IN OPERATION FOR TEN YEARS', WHICH IS THE FOUNDING DATE STATED BY THE INSTITUTION ITSELF, TEN YEARS AFTER THE FACT. Men of Montreal for June 1904: 'The camp has now been in operation for ten years, during which we have had no accidents of any kind nor any serious illness. Parents who are thinking of sending their boy to camp have the assurance that the same unremitting care will be exercised in this as in previous years.' Ten years back from the 1904 season is 1894. THE VALUE OF THIS IS ITS DATE AND ITS PURPOSE, NOT ITS NOVELTY: the 1894 founding is well established here from other sources, but this is the association counting the years in a sentence written to reassure parents, in a publication with no interest in anniversaries, a decade after the founding rather than at a jubilee. It is also a continuity claim -- 'in operation for ten years' with no gap mentioned -- from a period this project's own record of the camp is thin for.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1904_men_of_montreal"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.01",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5288",
+      "category": "people",
+      "date_ref": "1903-1905",
+      "entities": [
+        "Cecil M. Daggett",
+        "R. H. Macdonald",
+        "W. A. Maclaren",
+        "YMCA of Montreal"
+      ],
+      "claim": "DAGGETT'S MONTREAL SERVICE IS BOUNDED AT BOTH ENDS BY THE ASSOCIATION'S OWN WORDS, AND HIS PREDECESSOR IS NAMED. Men of Montreal, June 1904, on the Boys' Department: 'LAST MAY MR. R. H. MACDONALD LEFT THE WORK, AND DURING THE SUMMER MONTHS WE WERE WITHOUT A SECRETARY. IN SEPTEMBER MR. C. M. DAGGETT CAME AND TOOK CHARGE, and since then the work has gone on uninterruptedly.' The 1905 annual report: 'MR. C. M. DAGGETT LEFT IN MAY TO TAKE THE JUNIOR SECRETARYSHIP OF THE ST. LOUIS, MO., ASSOCIATION.' So: R. H. Macdonald to May 1903; NO BOYS' SECRETARY AT ALL OVER THE SUMMER OF 1903, which is a season the camp ran without one; Daggett from September 1903 to May 1905; and then W. A. Maclaren, whom the 1905-06 Year Book has in the post (f_5274). The same 1905 report records two other departures in the same paragraph -- E. S. Conklin to a Brooklyn branch in November and H. Ballantyne to the Central Department Building in Toronto in January. R. H. MACDONALD IS NEW TO THIS PROJECT and is not to be confused with the R. H. Macdonald who chairs the Westmount Branch in the 1911-12 and 1912-13 Year Books; same name, eight years later, no relationship established. Daggett also sang: the 1905 report has him in a Male Quartette and as Musical Director.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1904_men_of_montreal",
+        "src_ymf_sgw_ymca_annual_report_1905",
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.01",
       "added_by": "ralph_loop"
     }
   ]

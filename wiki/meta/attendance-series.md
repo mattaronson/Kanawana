@@ -1,7 +1,7 @@
 # Attendance at Kanawana, 1894–2023
 
 *Status: draft | Sources: 36*
-*Last Updated: 2026-09-07 (who was in charge in 1913, from the same sentence as the figure)*
+*Last Updated: 2026-09-07 (who was in charge in 1913, carried across from the directors index)*
 
 ## Overview
 
@@ -40,7 +40,7 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 |---|---|---|---|
 | 1910 | *(capacity 70)* | — | Opening season, 1 July – 15 Aug, under **W. J. Holliday** — whom the 1931 report calls "**the first camp director**" |
 | 1912 | 187 | — | "Last summer **123 men and 187 boys** secured a most delightful vacation in these helpful surroundings" — the 123 is the men's camp at Lac St. Joseph the same summer, and the two must not be added^31 |
-| 1913 | 162 | — | **In charge of the season: D. J. Evans, Harold Cross and H. A. Lordly, "for successive portions."** Open July and August. The staff names sit in the same sentence as this figure and went unextracted until 2026-09-07; Cross would direct the camp a decade later^36 |
+| 1913 | 162 | — | **In charge of the season: D. J. Evans, Harold Cross and H. A. Lordly, "for successive portions."** Open July and August. The staff names sit in the same sentence as this figure and had gone into [[people/directors-index|the directors index]] without ever being carried across to this row; Cross would direct the camp a decade later^36 |
 | 1915 | 167 | — | 26 June – 25 Aug |
 | 1916 | 175 | — | Season 24 June – 12 August; $5.00 a week^11 |
 | 1917 | 168 | — | The report calls this "a splendid increase over last year." **It was a decrease** — 175 the year before ⚠️ |

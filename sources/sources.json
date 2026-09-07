@@ -20074,10 +20074,10 @@
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1904_men_of_montreal",
-      "type": "report",
-      "title": "Sgw ymca annual report 1904 men of montreal — \"Issued by the Young\"",
-      "date": "1904",
-      "date_precision": "year",
+      "type": "periodical",
+      "title": "*Men of Montreal*, Vol. I No. 6, June 1904 — the \"Camp Club House, Lake St. Joseph, and Summer Camp Number\", issued by the Young Men's Christian Association of the City of Montreal",
+      "date": "1904-06",
+      "date_precision": "exact",
       "origin": "internet_archive",
       "origin_url": "https://archive.org/details/sgw-ymca-annual-report-1904-men-of-montreal",
       "cache_path": "sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-1904-men-of-montreal.txt",
@@ -20086,7 +20086,7 @@
       "extracted": false,
       "extraction_version": "v5.60",
       "reliability": "secondary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
+      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. [CORRECTED 2026-09-07: this record was titled \"Sgw ymca annual report 1904 men of montreal\" and typed \"report\", and its cache filename still says annual-report. IT IS NOT AN ANNUAL REPORT. It is the June 1904 issue of the association's own monthly, Men of Montreal, and its masthead names it the Summer Camp Number. That matters for how its camp passages read: they are ANNOUNCEMENTS of the coming season, in the future tense, not a report on a season past. The filename is left alone so that existing citations keep resolving.]",
       "read_state": "skimmed",
       "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
     },
