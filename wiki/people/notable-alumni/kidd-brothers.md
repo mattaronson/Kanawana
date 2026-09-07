@@ -45,11 +45,28 @@ Williams College** in 1938 while doing it, then an MA at McGill in 1943 and an E
 two Montreal posts are named: "Secretary of '**boys work**' at **North Branch Y**, and as Program Secretary
 at Notre Dame de Grace."^3
 
+**He was not a novice at it.** "By the time he left for Montreal, he had put in **ten seasons at Camp
+Elphinstone, five of them as a leader** responsible for practicable decisions. He was, in fact, well
+prepared for the road ahead in 1935."^3 So the name in the circus report belonged to a man who had already
+run five seasons of a YMCA camp on the other coast before he reached Montreal. The move itself is dated and
+explained: he came east in 1935 for the Sir George Williams degree, and took the YMCA job to pay for it,
+which is what his brother had suggested.^3
+
 North Branch is a Kanawana post. The 1922 camp brochure lists the branch Boys' Work Secretaries to whom camp
 applications were to be made and North Branch is among them — the branch [[people/w-j-holliday|W. J.
 Holliday]] ran and where [[people/geoffrey-guiton|Geoffrey Guiton]] held the boys' secretaryship. Kidd had
 also been a YMCA camper from the age of ten, at the Vancouver association's Camp Elphinstone in West Howe
 Sound.^3
+
+**And he wrote about city children while he was there.** His bibliography's item 42.02 is "*A New Deed for
+City Children*. Montreal: **Notre Dame de Grace Young Men's Christian Association**," 1942 — a branch
+publication from the branch where he was Programme Secretary, two years after the circus.^3 Nobody has seen
+it: the exact title returns nothing from Open Library's search-inside and nothing from the Internet
+Archive's catalogue, which is what one expects of a branch pamphlet. It is queued as `p_486` with its full
+citation, because a physical-archive request needs a citation more than it needs a search. *Not asserted:
+that it mentions Kanawana.* What can be said is that a Montreal YMCA programme secretary who had run five
+camp seasons wrote something in 1942 about getting city children looked after, and that this project's
+wartime record for the camp is thin enough to want it.
 
 *The limit, stated plainly.* His biography never mentions Kanawana. The camp connection rests on the 1940
 circus report alone. What the biography supplies is the man, the city, the years and the job that make that

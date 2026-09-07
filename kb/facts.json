@@ -2,7 +2,7 @@
   "version": "10.10",
   "kb_version": "10.10",
   "migrated_from": "3.3",
-  "fact_count": 5535,
+  "fact_count": 5537,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99758,6 +99758,41 @@
       "conflicts_with": [
         "f_5570"
       ],
+      "added_version": "10.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5574",
+      "category": "people",
+      "date_ref": "1935",
+      "entities": [
+        "J. Roby Kidd",
+        "Camp Elphinstone",
+        "Camp Kanawana"
+      ],
+      "claim": "ROBY KIDD ARRIVED IN MONTREAL AS A TEN-SEASON CAMP VETERAN, WHICH CHANGES WHAT HIS NAME IN A 1940 CIRCUS REPORT MEANS. His biography: 'By the time he left for Montreal, he had put in TEN SEASONS AT CAMP ELPHINSTONE, FIVE OF THEM AS A LEADER responsible for practicable decisions. He was, in fact, well prepared for the road ahead in 1935.' Camp Elphinstone is the Vancouver YMCA's camp in West Howe Sound, founded 1907, where he had summered from the age of ten. AND THE MOVE IS DATED AND EXPLAINED: 'By 1938, Roby Kidd had completed his B.A. degree at Sir George Williams University in Montreal... THIS WAS THE PRINCIPAL REASON THAT HAD BROUGHT HIM, IN 1935, FROM GIBSON'S LANDING, B.C., TO WORK AT THE YMCA IN MONTREAL.' So he came east for the degree and took the YMCA job to pay for it, which is what his brother John had suggested. WHY IT MATTERS HERE. A name in a camp paper's circus report is easy to read as a visitor or a passing staffer. This one belonged to a man who had already run five seasons of a YMCA camp on the other coast before he set foot in Montreal, and who held the North Branch boys'-work post when the report was printed. The 1940 Kanawana line is the least remarkable thing about him and the only one this project would ever have seen.",
+      "sources": [
+        "src_kidd_international_legacy"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5575",
+      "category": "documents",
+      "date_ref": "1942",
+      "entities": [
+        "J. Roby Kidd",
+        "YMCA of Montreal"
+      ],
+      "claim": "A 1942 MONTREAL YMCA BOYS'-WORK PUBLICATION BY A MAN DOCUMENTED AT KANAWANA IN 1940, AND IT IS NOT ONLINE. Roby Kidd's own bibliography, item 42.02: 'A NEW DEED FOR CITY CHILDREN. Montreal: NOTRE DAME DE GRACE YOUNG MEN'S CHRISTIAN ASSOCIATION.' He was Program Secretary at that branch. The companion item 42.01 is 'Citizens are made -- not born', Survey Midmonthly 28, pp. 135-136. WHY IT IS WORTH WANTING. It is a Montreal YMCA publication about CITY CHILDREN, written in 1942 by a branch programme secretary who had run five seasons of a YMCA camp and who appears in Kanawana's own paper two years earlier. This project's wartime record for the camp is thin, and a document of that kind from that branch in that year is the sort of thing that discusses getting city children out of the city -- which is what the camp was for. NOT ASSERTED that it mentions Kanawana; nobody has seen it. THE NULL IS CONTROLLED ON TWO SURFACES: Open Library search-inside returns 0 for the exact title, and the Internet Archive's catalogue returns numFound 0. It is a branch pamphlet, so that is what one would expect. Queued as p_486 with its full citation, because a physical-archive request needs the citation more than it needs a search.",
+      "sources": [
+        "src_kidd_international_legacy"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
       "added_version": "10.10",
       "added_by": "ralph_loop"
     }
