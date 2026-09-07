@@ -229,6 +229,21 @@ together with no spaces defeated three exact forms; `Otereke` with an E hid two 
 McGerrigle's directorship and briefly convinced me the camp entered this series in 1958;
 `Holliday, Capt. William J.` did not match `Holliday, W. J.`
 
+## One thing left deliberately unsettled
+
+Two facts (`f_5319`, `f_5320`) rest on the reading that **a dagger in the 1940s Roster of Employed
+Officers marks a man in Y.M.C.A. War Services**. It matters: it is what puts General Secretary
+John W. Beaton at the war, and so explains Harold Cross's four years acting in his place, and it
+is what suggests W. J. Holliday served in the **second** war as well as the first, at about sixty.
+
+The evidence is good and is **not a legend**. The Montreal page's footer says "See alphabetical
+list of those in Y.M.C.A. War services following alphabetical Roster of Employed Officers, page
+258," and the dagger is **selective** — "†\*Holliday, W. J., Montreal, Que., Unemployment, 06"
+carries both marks where most names on the page carry the asterisk alone. But the key line itself
+was not found, so both facts say so in their own text. **Do not quietly upgrade this.** `p_477`
+carries the route: a third list in name-and-home-address format begins around record 38425 in the
+volume catalogued 1941, and checking whether Beaton or Holliday is in it would settle it.
+
 ## Where to go next
 
 - **`p_475`** — Forgie's initials, from the Ebbs obituary or the Northway profile. Two documents
