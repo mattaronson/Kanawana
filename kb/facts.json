@@ -1,8 +1,8 @@
 {
-  "version": "9.05",
-  "kb_version": "9.05",
+  "version": "9.06",
+  "kb_version": "9.06",
   "migrated_from": "3.3",
-  "fact_count": 5260,
+  "fact_count": 5264,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -94894,6 +94894,79 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5299",
+      "category": "people",
+      "date_ref": "1919",
+      "entities": [
+        "W. J. Holliday",
+        "Kamp Kanawana"
+      ],
+      "claim": "KANAWANA'S FIRST CAMP DIRECTOR HAS A GIVEN NAME AND A RANK: HE IS CAPTAIN WILLIAM J. HOLLIDAY. The 1918-19 Year Book, page 434, prints 'OVERSEAS SECRETARIES, CANADIAN NATIONAL COUNCIL, JUNE 1, 1919 -- Released from regular Y. M. C. A. work for this special service', and the list includes 'HOLLIDAY, CAPT. WILLIAM J.' EVERY ROSTER THIS PROJECT HAS EVER SEEN GIVES HIM AS 'W. J.' ONLY, and p_472 named the missing given name as the single thing that would unlock a genealogical search for him. It also confirms from a second, independent publication what Montreal's own 1918 report says -- that he 'resigned for overseas service' (f_5297) -- and puts a rank and a date on it. THE LIST'S OWN WORDING MATTERS: these men were RELEASED FROM REGULAR YMCA WORK FOR SPECIAL SERVICE, so the ranks are those of YMCA officers attached to the forces rather than necessarily of enlisted soldiers, which bears directly on whether a Canadian Expeditionary Force personnel file exists for him.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5300",
+      "category": "people",
+      "date_ref": "1919",
+      "entities": [
+        "T. Hicks Miller",
+        "J. Morley Carson",
+        "E. A. Corbett",
+        "Herbert J. Swetman",
+        "J. G. McKay",
+        "F. J. McKellar",
+        "YMCA of Montreal"
+      ],
+      "claim": "MONTREAL'S YMCA STAFF GOES OVERSEAS TOGETHER, AND TWO OF THE MEN ON THE LIST HAD RUN KANAWANA SEASONS. The same Canadian National Council overseas list of 1 June 1919 carries, besides Holliday: 'MILLER, CAPT. THOMAS HICKS' -- the T. Hicks Miller who had charge of the Kanawana season during July 1915, and whose given names this project did not have; 'CARSON, LIEUT. J. MORLEY', Westmount Branch secretary through the Montreal rosters; 'CORBETT, CAPT. ED. A.', General Secretary of the McGill University association in the 1914-15 and 1915-16 volumes; 'SWETMAN, CAPT. HERBERT J.', Central Branch Social secretary by 1920-21; 'McKAY, CAPT. J. G.', McGill's General Secretary by 1919-20 and Westmount's secretary in 1911-12; and 'McKELLAR, F. J.', an assistant at Montreal Central in the 1907 volume. SO THE 1917-18 AND 1918-19 GAPS IN MONTREAL'S ROSTER ARE NOT ONE MAN'S ABSENCE BUT A DEPARTMENT'S. The list is Canada-wide and roughly a hundred names long; the Montreal share of it is what is recorded here, each name checked against this project's own rosters rather than assumed from a surname.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5301",
+      "category": "people",
+      "date_ref": "1918",
+      "entities": [
+        "Kenneth J. Hollinshead",
+        "YMCA of Montreal"
+      ],
+      "claim": "KENNETH J. HOLLINSHEAD IS IN THE WAR-SERVICE LIST TOO. The 1917-18 Year Book's section 'SECRETARIES AND OTHERS IN WAR SERVICE' prints, among names given in full rather than by initial, 'Hollinshead, Kenneth J.' -- with a dagger or cross prefixed, WHOSE MEANING IS NOT ESTABLISHED HERE; the section's key was not found on the pages read and no guess is recorded. He is Montreal's Boys' Secretary from mid-1910 to 1 August 1913, the man over the camp in the new site's first years (f_5283), and the name is distinctive and matches exactly, so this is a strong identification -- but he left Montreal for 'Community Work' six years earlier and nothing here says where he was working when he went. TAKEN WITH f_5299 AND f_5300, BOTH OF THE MEN WHO RAN MONTREAL'S BOYS' WORK ACROSS THE 1910s ENDED UP IN WAR SERVICE.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5302",
+      "category": "people",
+      "date_ref": "1918",
+      "entities": [
+        "Geo. W. O. Matthews",
+        "J. G. Cruickshank"
+      ],
+      "claim": "GEO. W. O. MATTHEWS IS A GENUINE NULL IN THE YEAR BOOK, AND THE LIKELY REASON IS INSTRUCTIVE. He is attested exactly once in this whole project: in Montreal's 1918 report, in the sentence naming the man who SUCCEEDED him -- 'Mr. J. G. Cruikshank ... succeeds Mr. Geo. W. O. Matthews, as Boys' Work Secretary, on May 1st' (f_5297). Searched for in the Minnesota collection as the exact phrases 'Matthews, G. W. O.' and 'Geo. W. O. Matthews' (zero hits each) and as the loose terms 'Matthews' and 'Mathews' across the 1915-16 to 1919-20 volumes, where every hit in the Montreal-adjacent pages turns out to be an Alabama branch secretary or a US army camp secretary. HE IS IN NO ROSTER. The likely explanation is that his whole tenure fell BETWEEN TWO ANNUAL EDITIONS -- the 1916-17 volume has S. Burton Cuthbert in the North Branch boys' post, Cuthbert retired 30 April 1918, and the 1917-18 volume already shows Cruickshank -- WHICH IS A HYPOTHESIS AND NOT A FINDING, since the report never says when Matthews started. What it does establish is that the branch boys' line reconstructed from the Year Book in f_5280 IS INCOMPLETE, and that an annual roster cannot see a man who came and went inside one year.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.06",
       "added_by": "ralph_loop"
     }
   ]
