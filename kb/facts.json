@@ -1,8 +1,8 @@
 {
-  "version": "10.45",
-  "kb_version": "10.45",
+  "version": "10.46",
+  "kb_version": "10.46",
   "migrated_from": "3.3",
-  "fact_count": 5596,
+  "fact_count": 5597,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100842,6 +100842,24 @@
       "date_ref": "1919-1920",
       "conflicts_with": [],
       "added_version": "10.45",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5635",
+      "claim": "W. J. HOLLIDAY RAN CAMP OTOREKE, BROKE DOWN, AND WAS GIVEN A YEAR OFF ON FULL PAY. From the YMCA of Montreal annual report for the year ending 30 April 1927, found under p_491 by the thin-yield tell: 'Mr. W. J. Holliday, Executive Secretary of the North Branch, who first entered Association work in this city in 1906, AFTER TWO MONTHS IN THE LAURENTIANS IN CHARGE OF CAMP OTOREKE and THREE MONTHS' LEAVE OF ABSENCE IN GEORGIA, resumed his duties on JANUARY 1ST but, FINDING HIS WORK TOO HEAVY FOR HIS DEPLETED STRENGTH, was forced to tender his resignation. THE METROPOLITAN BOARD GAVE HIM ONE YEAR'S LEAVE OF ABSENCE ON FULL SALARY. There have been few more loyal and devoted...' (the sentence runs on past the page break).\n\nDATING, by the fiscal convention: the two months at Otoreke are the summer of 1926, the three months in Georgia the autumn, and 1 January is 1 January 1927.\n\nWHAT IT ADDS TO HIS ARTICLE, which currently runs his career from the 1906 entry to the 1948 retirement with the two wars and the two Sydney years in it: a HEALTH COLLAPSE in the winter of 1926-27, a resignation tendered and refused, and a year's paid leave. Georgia in the autumn reads as convalescence in a warm climate, which is what a Montreal association man of the 1920s would be sent for; the report does not say so. His article records no sighting between the 1923-24 Year Book and 1941; this sits inside that gap and is the only account of those years held here.\n\nAND IT STRENGTHENS AN IDENTIFICATION MADE THE SAME DAY. f_5632 recorded a 'Mr. Holliday' in charge of the senior camp at Lac St. Joseph for the last two weeks of the 1916 season, and called him a candidate for W. J. Holliday because the report gave no initials. This report has W. J. Holliday actually running that camp ten years later. Still not proof -- neither document gives both the initials and the 1916 season -- but a man documented in charge of Otoreke in 1926 is a much better candidate for a 'Mr. Holliday' in charge of it in 1916 than a stranger would be.\n\nFROM THE SAME REPORT, ON THE CAMP RATHER THAN THE MAN: 'THE CAMP OPERATED AT A DEFICIT OF $589.03 DUE TO FALLING OFF IN ATTENDANCE. With a view to experimenting further with this enterprise, your Directors have adopted the recommendation of the Otoreke Committee TO PLACE ITS OPERATION IN CHARGE OF THE METROPOLITAN PHYSICAL AND RECREATIONAL COMMITTEE.' So the 1926 season lost money, the Otoreke Committee recommended handing the camp to another committee, and the directors agreed -- a governance change this project did not hold. The same page records that 'the Lac St. Joseph regatta and concert was again held, and was well attended', and that Sunday morning and evening services were 'much appreciated by LAKE RESIDENTS and campers', which is the camp serving a cottage community and not only its own guests.\n\nNOT ESTABLISHED: what the illness was, whether the year's leave was taken, what he did in it, or whether the 1926 deficit is connected to his two months there.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1927"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "W. J. Holliday",
+        "Camp Otoreke",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1926-1927",
+      "conflicts_with": [],
+      "added_version": "10.46",
       "added_by": "ralph_loop"
     }
   ]
