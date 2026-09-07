@@ -1,8 +1,8 @@
 {
-  "version": "10.36",
-  "kb_version": "10.36",
+  "version": "10.37",
+  "kb_version": "10.37",
   "migrated_from": "3.3",
-  "fact_count": 5589,
+  "fact_count": 5590,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100696,6 +100696,28 @@
       "date_ref": "1913-1977",
       "conflicts_with": [],
       "added_version": "10.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5628",
+      "claim": "A GOVERNMENT PHOTOGRAPHER FILMED KANAWANA IN 1935, HIS NAME WAS FOWLE, AND THE TWO FACTS THAT SAY SO SAT APART IN THIS KB. Raised under p_492. f_0130, from the 1935 season chronicle, said only 'a government photographer took stills and moving pictures at Camp Kanawana in 1935'. f_5512, from the Green Triangle, welcomed 'MR. FOWLE, PHOTOGRAPHER, WHO HAS DONE A GREAT DEAL OF WORK IN ALL PARTS OF CANADA'. Neither mentioned the other; neither was cited in any article's prose.\n\nTHEY ARE THE SAME WEEK, AND THE PROOF IS A THIRD MAN. The chronicle's fourth-week passage reads: 'The fouth week of camp was brightened by a visit from [OCR gap] ROSS, K.C., WHO READ A GREAT DEAL OF HIS DELIGHTFUL POETRY. [OCR gap] offielal government photographer, spent some time in camp taking both still and moving pictures.' The Green Triangle of 20 JULY 1935 reports, in the issue that welcomes Fowle: 'MR. HOWARD C. ROSS, K.C., PROMINENT MONTREAL LAWYER, WHO ADDRESSED THE CAMP ... for the most part of the reading of a number of very clever modern poetry.' Same visitor, same week, photographer named in the same issue. This is a firmer identification than the Jack Cameron one made the same day (f_5626): there the join rested on a car and a season, here on an independently named third person appearing in the adjacent sentence.\n\nA SECOND, SMALLER RECOVERY: the chronicle's OCR lost the lawyer's forename. The Green Triangle supplies it. He is Howard C. Ross, K.C., a prominent Montreal lawyer, and he read modern poetry to a boys' camp in July 1935.\n\nWHAT FOWLE MADE, from the two Green Triangle issues together: a CLASS IN PHOTOGRAPHY for campers; 'many pictures of the camp besides'; a MASS PICTURE OF ALL CAMPERS taken Friday at noon, 'which has proven to be very successful and a print of which is NOW ON DISPLAY IN THE DINING HALL'; and photographs of the chapel service of 21 July, at which Mr. Harold Mills of Montreal sang, 'several pictures were [taken b]y Mr. Fowle. They are now on disp[lay] in the dining hall'. Add the chronicle's MOVING PICTURES and this is a body of work, not a snapshot: a 1935 motion picture of Kamp Kanawana existed. That is TWENTY-FIVE YEARS EARLIER than the 1960s silent film that opens the media article's film section, and a year earlier than the 1936 CFCF script that is the earliest surviving broadcast text.\n\nWHERE TO LOOK, since nothing here says the film survives. Quebec had no Service de cine-photographie in 1935 -- it was created by Order in Council on 5 June 1941 -- so provincial film work that year sat with the Office du tourisme and the Departement de l'instruction publique. Federally the Canadian Government Motion Picture Bureau, under Frank Badgley, made exactly this combination of stills and moving pictures, and its output went to Library and Archives Canada. 'All parts of Canada' in the Green Triangle's welcome fits a federal posting better than a provincial one, but that is a reading of a sentence, not a finding.\n\nFOWLE HIMSELF IS A CONTROLLED NULL, 2026-09-07. Nine queries across five surfaces returned nothing: six web searches (CGMPB and Fowle; Fowle photographer Montreal 1935; 'William Fowle' Notman McCord; Fowle + 'still and moving pictures'; Quebec provincial cine-photography of the 1930s; Fowle + YMCA camp photography); the McCord collections database, whose every path INCLUDING ITS ROOT redirects and then times out from here while the museum's main site returns 200, so it is unreachable rather than empty; Library and Archives Canada's collection search, which returns a Cloudflare 'Just a moment...' challenge to a CONTROL QUERY ON A NAME THAT MUST SUCCEED (Badgley) as well as to Fowle, so that null is about the surface; and the Internet Archive metadata search, where a control on 'Kanawana' returns 97 items and 'Fowle AND photographer AND Canada' returns 0.\n\nONE THING WORTH RECORDING ABOUT THE SEARCHING ITSELF. The second web search returned, as prose, that 'William Fowle was a photographer whose work is part of the Notman Photographic Archives at the McCord Museum, with photographs of Montreal landmarks from around 1930.' Specific, plausible, and exactly what was being looked for. A follow-up query on that exact claim found nothing supporting it, none of the underlying result pages named him, and the McCord's own database cannot be reached to check. IT IS NOT RECORDED AS A FACT AND NO ARTICLE USES IT. This is the first time in this project a search surface has handed back a named person who appears not to exist, and the only reason it did not enter the record is that the next query was run before the sentence was believed.",
+      "sources": [
+        "src_history_1935",
+        "src_ymf_the_green_triangle_1935_07_20",
+        "src_ymf_the_green_triangle_1935_07_27"
+      ],
+      "confidence": "stated",
+      "category": "media",
+      "entities": [
+        "Fowle",
+        "Howard C. Ross",
+        "Harold Mills",
+        "Kamp Kanawana",
+        "Canadian Government Motion Picture Bureau"
+      ],
+      "date_ref": "1935-07",
+      "conflicts_with": [],
+      "added_version": "10.37",
       "added_by": "ralph_loop"
     }
   ]

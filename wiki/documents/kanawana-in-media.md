@@ -1,6 +1,6 @@
 # Kanawana in Media and Culture
 
-*Status: E1-reviewed | Sources: 30*
+*Status: E1-reviewed | Sources: 31*
 *Last Updated: 2026-09-07 (every archival reference code corrected, by one; the Flickr album index read)*
 
 ## Overview
@@ -8,6 +8,41 @@
 Camp Kanawana has appeared in a range of media over its 130-year history, from promotional radio broadcasts in the 1930s and 1940s to a Governor General's Award-winning graphic novel in 2012. This article collects the camp's documented appearances in film, literature, journalism, and broadcast media.
 
 ## Film and Video
+
+**1935: a government photographer shot moving pictures at the camp, and this is the earliest film of
+Kanawana on record anywhere.** Two documents from that summer describe the same visit without either
+naming what the other names. The camp's own season chronicle puts him in the fourth week: "the fourth
+week of camp was brightened by a visit from [Howard C.] Ross, K.C., who read a great deal of his
+delightful poetry. [A gap where a name was] official government photographer, spent some time in camp
+taking both **still and moving pictures**." The *Green Triangle* of **20 July 1935** welcomes him by
+name: "**Mr. Fowle, photographer, who has done a great deal of work in all parts of Canada** and who is
+going to take a class in photography and many pictures of the camp besides. Friday at noon he took a
+**mass picture of all campers**, which has proven to be very successful and a print of which is now on
+display in the dining hall."^31
+
+The two are the same man, and a third person proves it rather than the calendar. The chronicle names the
+poetry-reading K.C. in the sentence immediately before the photographer, and the *Green Triangle* issue
+that welcomes Fowle is the issue that reports "**Mr. Howard C. Ross, K.C., prominent Montreal lawyer**,
+who addressed the camp … for the most part of the reading of a number of very clever modern poetry."
+Same week, same issue, and the chronicle's damaged scan loses the lawyer's forename that the newsletter
+supplies.^31
+
+The following week's issue adds more of the work. At the chapel service of **21 July**, where Mr. Harold
+Mills of Montreal sang, "several pictures were [taken b]y Mr. Fowle. They are now on displ[ay] in the
+dining hall."^31 So the season produced a photography class, a whole-camp portrait, chapel photographs,
+prints hung in the dining hall, and film. **A motion picture of Kamp Kanawana existed in 1935** —
+twenty-five years before the silent colour film below, and a year before the earliest surviving CFCF
+script.
+
+Nothing says it survives, and nothing here identifies Fowle. He was searched for on 2026-09-07 across
+nine queries and five surfaces and not found; two of those surfaces returned nulls that are about the
+surface rather than the man, and are recorded that way.^31 The place to ask is narrower than it looks.
+Quebec had no Service de ciné-photographie in 1935 — it was created by Order in Council on 5 June 1941 —
+so provincial film work that summer sat with the Office du tourisme and the Département de l'instruction
+publique. Federally, the Canadian Government Motion Picture Bureau under Frank Badgley made precisely
+this pairing of stills and moving pictures, and its output went to Library and Archives Canada. "All
+parts of Canada" reads more like a federal posting than a provincial one, but that is a reading of a
+sentence and not a finding.
 
 **1960s silent film.** A silent colour film of Kamp Kanawana from the 1960s survives in the Concordia University Archives (P0145-09-0087), showing swimming and diving activities. A YouTube access copy exists, confirmed 2026-07-09 at https://www.youtube.com/watch?v=ZrUuQ1SU7q8, titled "YMCA: Kamp Kanawana (no sound)," uploaded 2022-06-21 by Concordia University Records Management & Archives.^1
 
@@ -110,7 +145,10 @@ fruit* in 1935, *Heavyweight* alongside the camp block in 1936, *Indian and tote
 *Laurentian window* in 1946 at $100.^26
 
 **This is the earliest depiction of either Montreal YMCA camp this project holds in any medium but
-photography, and the only one exhibited publicly as art.** Nothing here says whether Robertson had
+photography, and the only one exhibited publicly as art.** *(Qualified 2026-09-07: the **1935** government film above is an
+earlier recorded work, and the 1936 woodcut is later than it. Neither survives in this project's hands —
+both are known from a written record of a work, not from the work — so the claim is left standing for
+print and stands beside the film rather than over it.)* Nothing here says whether Robertson had
 any connection to the camp, whether the block or an impression of it survives, or where it might be.
 The Montreal Museum of Fine Arts' own collection, the National Gallery's, and the print trade are
 where to ask. *She was looked for and not found:* a book-corpus search on her name returns one item, a 1950 Boston residents list, and three web searches turn up only other artists — Sarah Robertson the Montreal painter, Doris Boulton-Maude, Doris Adeney Robertson. **She survives in this record through one catalogue of exhibition entries and nowhere else that is indexed**, which says more about how thinly Montreal's women printmakers of the 1930s are documented than about her: she showed at the Art Association for thirteen years.
@@ -304,6 +342,7 @@ To which can be added a fifth of a different kind: **Armand B. Ball, *Basic Camp
 28. Kamp Kanawana counsellor recruitment advertisement, *The McGill Daily* Vol. 78 No. 83, 20 February 1989, p. 14 [src_mcgill_daily_1989_02_20]: the display closes "The experience that lasts a Lifetime!" Transcribed at `sources/cache/mcgill/2026-09-07-kanawana-ad-1989-and-perrot-doctors-1948.txt`. See [f_5428].
 29. "The Voice of Youth" No. 30, full script with the sponsor's copy, 10 November 1938 [src_ymf_1938_11_10_the_voice_of_youth_no_30], Internet Archive item `1938-11-10-the-voice-of-youth-no.-30`. **A THIRD, LONGER VERSION of the same broadcast**: 12,127 characters against the 6,248 of the script at note 25 and the 8,302 of the undated `kamp-kanawana-radio-broadcast`. Only this one carries the programme's opening, its sponsor and its advertising copy — the shorter versions begin after them. Cached at `sources/cache/ymca-montreal-fonds/1938-11-10-the-voice-of-youth-no.-30.txt`; read 2026-09-07 under p_482.
 30. Concordia University Records Management and Archives, *Finding Aid — YMCA of Montreal Fonds (P0145)*, generated 24 November 2023, 125 pp. [src_concordia_p0145_full_findingaid_pdf]. Cached at `sources/cache/concordia-findingaid/P0145-ymca-of-montreal-fonds-findingaid-2023-11-24.txt`. Re-read 2026-09-07 under p_487, which is when the reference codes below were corrected. See [f_5604].
+31. The **1935** government photographer, and his name. "A History of Kamp Kanawana", the **1935** season chronicle [src_history_1935], `sources/cache/green-triangle/1935-history.txt`, carries the fourth-week sentence about the "offielal government photographer" and the "still and moving pictures" — read with its OCR damage intact at [f_0130]. *The Green Triangle* of **20 July 1935** [src_ymf_the_green_triangle_1935_07_20] welcomes "Mr. Fowle, photographer" and reports both the photography class and the mass picture of all campers, and it is the same issue that reports **Howard C. Ross, K.C.** reading modern poetry — the visitor who dates the chronicle's fourth week. The issue of **27 July 1935** [src_ymf_the_green_triangle_1935_07_27] adds Fowle's photographs of the **21 July** chapel service. The two Green Triangle issues are together at [f_5512]; the identification of Fowle with the chronicle's government photographer, the search for him, and the null result are at [f_5628].
 
 *All four are lending-restricted on the Internet Archive and none has been read; each passage was reconstructed from overlapping Open Library search-inside queries and is cached with its queries under `sources/cache/openlibrary-search-inside/`.*
 

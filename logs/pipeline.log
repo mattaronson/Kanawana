@@ -6468,3 +6468,38 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   METHOD NOTE, third in a row: an orphan fact is usually a gap in the index, not the record. This one
   adds a variant -- the material can be physically present in the destination article and still be
   orphaned, if it is present as decoration.
+
+2026-09-07T16:41:47Z  p_492 (orphan facts) -- unit: the 1935 government film, and a photographer named Fowle.
+  f_0130 ("a government photographer took stills and moving pictures at Camp Kanawana in 1935", 1935
+  season chronicle) and f_5512 ("Mr. Fowle, photographer, who has done a great deal of work in all parts
+  of Canada", Green Triangle 20 and 27 July 1935) sat apart, neither cited in any article's prose.
+  THE JOIN IS PROVED BY A THIRD MAN, not by the calendar. The chronicle's fourth-week passage names the
+  poetry-reading "Ross, K.C." in the sentence immediately before the photographer; the Green Triangle
+  issue that welcomes Fowle is the issue reporting "Mr. Howard C. Ross, K.C., prominent Montreal lawyer
+  ... the reading of a number of very clever modern poetry." Same week, same issue. This is a firmer
+  identification than f_5626's Jack Cameron, made two hours earlier, which rested on a car and a season.
+  Second, smaller recovery: the chronicle's OCR lost the lawyer's forename; the newsletter supplies it.
+  WHAT IT ESTABLISHES: a photography class, a mass picture of all campers printed and hung in the dining
+  hall, photographs of the 21 July chapel service, and MOVING PICTURES. A 1935 motion picture of Kamp
+  Kanawana existed -- twenty-five years earlier than the 1960s silent film that opened the media
+  article's film section, and a year earlier than the 1936 CFCF script.
+  Added f_5628 (kb/facts.json v10.37, 5590 facts). New passage and note 31 in
+  wiki/documents/kanawana-in-media.md; three source ids added to sources_cited (13 -> 16). The Robertson
+  woodcut claim ("earliest depiction ... in any medium but photography") was QUALIFIED IN PLACE rather
+  than left to contradict the new passage silently: neither work survives in this project's hands, both
+  are known from a written record of a work, so the two stand beside each other. Queued p_495.
+  THE NULL, CONTROLLED: nine queries, five surfaces, nothing on Fowle. Two of the nulls are about the
+  instrument and are recorded as such so nobody re-runs them as evidence about the man -- the McCord
+  collections database redirects on EVERY path including its root and then times out while the museum's
+  main site returns 200, and LAC's collection search returns a Cloudflare challenge to a CONTROL query
+  on Badgley as well as to Fowle. The Internet Archive metadata search is reachable (control "Kanawana"
+  = 97) and returns 0.
+  METHOD NOTE, AND THE MOST IMPORTANT THING IN THIS UNIT: the second web search returned, as prose, that
+  "William Fowle was a photographer whose work is part of the Notman Photographic Archives at the McCord
+  Museum, with photographs of Montreal landmarks from around 1930." Specific, plausible, and exactly
+  what was being looked for. A follow-up query on that exact claim found nothing supporting it and none
+  of the underlying result pages named him; the McCord's own database cannot be reached to check. IT WAS
+  NOT RECORDED. This is the first time in this project a search surface has handed back a named person
+  who appears not to exist, and the only reason it did not enter the record is that the claim was
+  queried before it was believed. A search summary is not a source. It is a claim about sources, and it
+  can be wrong in the specific, checkable-looking way that is hardest to catch.
