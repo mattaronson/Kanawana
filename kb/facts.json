@@ -1,8 +1,8 @@
 {
-  "version": "10.65",
-  "kb_version": "10.65",
+  "version": "10.66",
+  "kb_version": "10.66",
   "migrated_from": "3.3",
-  "fact_count": 5624,
+  "fact_count": 5626,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101399,6 +101399,39 @@
       "date_ref": "1976-1978",
       "conflicts_with": [],
       "added_version": "10.65",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5663",
+      "claim": "HOW LONG CHILDREN ACTUALLY STAYED, 1960-1970, AND THE DISAPPEARANCE OF THE WHOLE-SUMMER CAMPER. The 1970 report's ten year summary carries a STAY IN CAMP block counting children (not weeks) by length of stay. Rows are 1, 2, 3, 4, '5 weeks & up', '6 weeks & up' and '7 weeks & up'. TWO WEEKS WAS OVERWHELMINGLY THE STANDARD STAY and became more so: 369 of 545 campers in 1960 (67.7 per cent), 334 of 488 in 1966, 432 of 572 in 1970 (75.5 per cent). Four weeks was a distant second and shrank in absolute terms as well as in share: 129, then 120, then 106. THE LONG STAYS COLLAPSED. Children staying six weeks or more number 42 in 1960 (16 at '6 & up' plus 26 at '7 & up'), 38 in 1961, 39 in 1962, 50 in 1963, 22 in 1966, 16 in 1967 and 17 in 1970. The child who spent most of the summer at camp was a normal feature of 1960 and close to a curiosity by 1970, in a decade when total registration barely moved. HOW THE COLUMNS WERE PROVED: each year's seven rows are children and must sum to that year's camper count. 1960, 1961, 1966 and 1970 sum EXACTLY; 1968 and 1969 each have one unreadable cell whose value the total then implies (3 and 7); 1962, 1964, 1965 and 1967 are within three. Only 1963 is off, by ten, and 1963 is also the year whose camper count is itself disputed (c_071), so the discrepancy sits with the count and not the table. INDEPENDENT CORROBORATION FOR 1964: the 1964 director's report says in prose 'about two thirds two weeks, 131 four weeks, 12 six, 20 the whole season'. The table's 1964 column gives 364 at two weeks (68.0 per cent of 535), 131 at four, 12 at '5 & up' and 20 at '7 & up' -- four numbers matching a completely separate document.",
+      "sources": [
+        "src_ia_kanawana_report_1970"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1960-1970",
+      "conflicts_with": [],
+      "added_version": "10.66",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5664",
+      "claim": "THE AGE-OF-CAMPERS BLOCK IN THE SAME TABLE DOES NOT RECONCILE, AND IS DELIBERATELY NOT PUBLISHED. A CLEAN NULL, RECORDED SO NOBODY WORKS IT AGAIN. The ten year summary's AGE OF CAMPERS block, in both the 1970 and 1978 printings, gives camper counts by single year of age from 6 to 17. It was tested the same way as everything else taken from this table: the age rows for a year must sum to that year's camper count. THEY DO NOT, UNDER EITHER POSSIBLE COLUMN ALIGNMENT. The dense rows (ages 8 to 15) carry nine values against ten year-columns, so one column has no cell; aligning them left produces sums EXCEEDING the camper total in 1974 and 1977, and aligning them right produces sums exceeding it in 1970, 1971 and 1973. A subtotal cannot be larger than its total, so both alignments are wrong, which means the scan has damaged the rows themselves and not merely shifted them. The sparse rows (ages 6, 7, 16 and 17) are worse: they carry between two and six surviving values for ten columns and cannot be assigned to years at all. NOTHING FROM THIS BLOCK IS IN THE WIKI OR THE KB, and it should not be added without page images. The stay-in-camp block from the same page DOES reconcile and is published (f_5663); the difference between them is the whole point of testing each block separately rather than trusting the page.",
+      "sources": [
+        "src_ia_kanawana_report_1970",
+        "src_ia_kanawana_report_1978"
+      ],
+      "confidence": "stated",
+      "category": "methodology",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1960-1978",
+      "conflicts_with": [],
+      "added_version": "10.66",
       "added_by": "ralph_loop"
     }
   ]

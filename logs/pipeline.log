@@ -7373,3 +7373,20 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   Eric Sandmark's 1978 t-shirt artwork does NOT close orphan f_1580 (1980s-90s t-shirt art); it pushes the practice back and names an
   artist already in the wiki via a Voyageurs sketch. Three Sandmarks (Eric, Peter, Stewart) were on staff in 1976 and 1977, so the
   Stewart/Eric difference is siblings, not OCR.
+2026-09-07T19:29:40Z  p_499  ATOMIC UNIT: stay lengths 1960-1970 published; the age block tested and REJECTED.
+  Two more blocks from the same ten year summary page. Tested separately rather than trusted together, which is the whole point.
+  STAY IN CAMP -- PASSES. Rows are children, so each column must sum to that year's camper count. 1960, 1961, 1966, 1970 sum EXACTLY;
+  1968 and 1969 each have one unreadable cell whose value the total implies (3 and 7); 1962/1964/1965/1967 within three; only 1963 off,
+  by ten, and 1963 is the year whose camper count is itself disputed (c_071) -- so the discrepancy sits with the count, not the table.
+  INDEPENDENT CHECK: the 1964 column matches the 1964 director's report's own PROSE on four separate numbers ("about two thirds two
+  weeks, 131 four weeks, 12 six, 20 the whole season" vs 364/535 = 68.0%, 131, 12, 20). Two documents, no contact between them.
+  THE FINDING: two weeks was the standard stay and became more so (68% in 1960 -> 75% in 1970), but underneath it the LONG STAY
+  COLLAPSED. Six weeks or more: 42 children in 1960, 38, 39, 50 in 1963 -- then 22 in 1966, 16 in 1967, 17 in 1970, with total
+  registration barely moving. The child who spent most of the summer at Kanawana was ordinary in 1960 and nearly extinct by 1970.
+  Nothing else in this project records that.
+  AGE OF CAMPERS -- FAILS, AND IS RECORDED AS A CLEAN NULL (f_5664). The dense rows (ages 8-15) carry nine values against ten
+  year-columns, and BOTH possible alignments produce age sums LARGER than the year's camper total (left: 1974, 1977; right: 1970, 1971,
+  1973). A subtotal cannot exceed its total, so the scan damaged the rows themselves rather than merely shifting them; the sparse rows
+  (6, 7, 16, 17) have two to six surviving values for ten columns. Nothing from this block goes into the wiki or the KB. Written down so
+  the next pass does not spend a morning rediscovering it -- an unrecorded null reads exactly like unexamined ground.
+  KB v10.65 -> v10.66, 5,624 -> 5,626.

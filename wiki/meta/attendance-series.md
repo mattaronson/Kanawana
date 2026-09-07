@@ -370,6 +370,43 @@ it had more than halved, and then removed the question from its own annual stati
 finding about the institution rather than about the campers, and is the sort of thing an attendance
 series is unusually well placed to catch.^45 [f_5656]
 
+**How long children actually stayed, and the whole-summer camper's disappearance.** The same page counts
+children by length of stay, and it is the only long run of that measure this project holds.
+
+| Stay | 1960 | 1961 | 1962 | 1963 | 1964 | 1965 | 1966 | 1967 | 1968 | 1969 | 1970 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 week | 0 | 0 | 3 | 1 | 2 | 1 | 1 | 2 | *3* | 1 | 4 |
+| **2 weeks** | **369** | **316** | **345** | **360** | **364** | **286** | **334** | **304** | **416** | **464** | **432** |
+| 3 weeks | 3 | 1 | 1 | 2 | 7 | 3 | 9 | 11 | 5 | 17 | 11 |
+| 4 weeks | 129 | 143 | 163 | 143 | 131 | 111 | 120 | 81 | 132 | 111 | 106 |
+| 5 weeks & up | 2 | 0 | 0 | 1 | 12 | 2 | 2 | 6 | 0 | 2 | 2 |
+| 6 weeks & up | 16 | 21 | 19 | 21 | 0 | 19 | 17 | 13 | 15 | 20 | 13 |
+| 7 weeks & up | 26 | 22 | 20 | 29 | 20 | 5 | 5 | 3 | 6 | *7* | 4 |
+
+*Italicised cells are unreadable in the scan and are the value the year's own total requires. The rows are
+children, so each column must sum to that year's camper count: **1960, 1961, 1966 and 1970 sum exactly**,
+1962, 1964, 1965 and 1967 are within three, and only 1963 is off — by ten, in the one year whose camper
+count is itself disputed (`c_071`).*
+
+Two weeks was the standard stay and got more so, from 68 per cent of campers in 1960 to 75 per cent in
+1970. **What changed underneath is the long stay.** Children at camp for six weeks or more number 42 in
+1960, 38 in 1961, 39 in 1962, 50 in 1963 — and then 22 in 1966, 16 in 1967, 17 in 1970. Total registration
+barely moved across that decade. The child who spent most of the summer at Kanawana was ordinary in 1960
+and nearly extinct by 1970, and nothing else in this project records that happening.
+
+The 1964 column is worth singling out because it can be checked against a **different document**: the 1964
+director's report says in prose "about two thirds two weeks, 131 four weeks, 12 six, 20 the whole season",
+and the table gives 364 at two weeks (68.0 per cent of 535), 131 at four, 12 at "5 & up" and 20 at "7 &
+up". Four numbers, two sources, no contact between them.^45 [f_5663]
+
+**The age block on the same page does not reconcile, and is not published here.** The summary also counts
+campers by single year of age, 6 to 17. Tested the same way, it fails: the dense rows (ages 8 to 15) carry
+nine values against ten year-columns, and **both possible alignments produce age sums larger than the
+year's camper count** — left-aligning in 1974 and 1977, right-aligning in 1970, 1971 and 1973. A subtotal
+cannot exceed its total, so the scan has damaged the rows and not merely shifted them; the sparse rows are
+worse still. This is recorded rather than passed over in silence so that the next pass does not spend a
+morning rediscovering it. Page images would settle this block too.^45 [f_5664]
+
 **The religious breakdown, for the three years it can be proved.** The 1970 printing gives the block by
 camper weeks: Protestant, Roman Catholic, Jewish, Buddhist, Hindu or Moslem, Not reported. Three columns
 sum exactly to their year's printed camper-week total and are recorded here on that basis — **1960**
