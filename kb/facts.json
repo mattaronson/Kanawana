@@ -1,8 +1,8 @@
 {
-  "version": "10.63",
-  "kb_version": "10.63",
+  "version": "10.64",
+  "kb_version": "10.64",
   "migrated_from": "3.3",
-  "fact_count": 5612,
+  "fact_count": 5620,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101170,6 +101170,158 @@
       "date_ref": "1977-1979",
       "conflicts_with": [],
       "added_version": "10.63",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5651",
+      "claim": "THE \"KAMP KANAWANA TEN YEAR SUMMARY\" IS A ROLLING TABLE, REPRINTED IN EIGHT REPORTS, AND MOST OF IT IS READABLE -- WHICH PARTLY CLOSES p_497. This project recorded the table once, from the 1965 report, and concluded the scan had interleaved its rows beyond recovery (f_5641, and the section \"A ten-year table nobody can read yet\" in the attendance-series article). That was true of THAT PRINTING. It is a rolling ten-year window, and the same table is printed at the back of at least EIGHT cached reports: 1965, 1966, 1969, 1970, 1975, 1976, 1978 and 1979. Four of those printings (1969, 1970, 1976, 1978) survived scanning with their columns intact, and between them they cover EVERY SEASON FROM 1960 TO 1978 -- including the whole of the 1960s the 1965 printing was wanted for. The lesson is procedural and general: a document that resists reading may exist in another impression, and a serial publication that carries a rolling appendix reprints its own back years. Nobody checked whether the table appeared anywhere else before it was written off.",
+      "sources": [
+        "src_ia_kanawana_report_1969",
+        "src_ia_kanawana_report_1970",
+        "src_ia_kanawana_directors_report_1976",
+        "src_ia_kanawana_report_1978",
+        "src_ia_kanawana_report_1979"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Kamp Kanawana",
+        "Ten Year Summary"
+      ],
+      "date_ref": "1960-1979",
+      "conflicts_with": [],
+      "added_version": "10.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5652",
+      "claim": "CAMPER WEEKS AND CAMPER COUNTS, 1960-1965, FROM THE TEN YEAR SUMMARY, EACH YEAR CONFIRMED FOUR WAYS. Camper weeks: 1960 = 1,585; 1961 = 1,509; 1962 = 1,640; 1963 = 1,641; 1964 = 1,518; 1965 = 1,182. Different children: 1960 = 545; 1961 = 503; 1962 = 548; 1963 = 567; 1964 = 535; 1965 = 429. HOW EACH COLUMN WAS TESTED before being written down: the table prints the same year's weeks three times over -- as a sum of four or five section rows, as a sum of eight weekly rows, and as a printed total -- and the 1969 and 1970 reports print the years 1961-1965 INDEPENDENTLY OF EACH OTHER. Every one of these six years reconciles on the section sum and the printed total, 1960-1963 and 1965 also reconcile on the weekly sum, and 1961-1965 are identical in both printings. Only 1964's weekly rows disagree (they sum to 1,475 against a printed 1,518), the same way in both printings, so it is the document's own inconsistency and not a scanning error. TWO OF THESE LAND ON EXISTING PROBLEMS. The 1964 season's camper weeks were previously known only as \"budgeted 1,530, missed\": the actual figure is 1,518, twelve short. And 1965's camper weeks stood in this project as \"1,200 or 1,182\", flagged; two further printings of the summary give 1,182.",
+      "sources": [
+        "src_ia_kanawana_report_1969",
+        "src_ia_kanawana_report_1970"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1960-1965",
+      "conflicts_with": [],
+      "added_version": "10.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5653",
+      "claim": "THE RANGERS: A FIFTH SECTION THAT RAN THROUGH 1964 AND THEN STOPPED. The ten year summary's camper-weeks-by-section block, as printed in the 1969 and 1970 reports, carries FIVE section rows for the early 1960s -- Pioneers, Woodsmen, Coureur de Bois, Pathfinders and RANGERS -- where every later printing carries four. Rangers weeks: 1960 = 48, 1961 = 46, 1962 = 46, 1963 = 40, 1964 = 28, and from 1965 the row is a dash. The section was always tiny, under three per cent of camp, and it shrank by half over five years before ending. Its disappearance is confirmed arithmetically rather than only read off the row: 1965's four remaining sections (314 + 294 + 323 + 251) sum exactly to the printed total of 1,182, leaving nothing for a fifth. THIS PROJECT HAD NO RECORD OF A RANGERS SECTION AT KANAWANA AT ALL.",
+      "sources": [
+        "src_ia_kanawana_report_1969",
+        "src_ia_kanawana_report_1970"
+      ],
+      "confidence": "stated",
+      "category": "programming",
+      "entities": [
+        "Rangers",
+        "Pioneers",
+        "Woodsmen",
+        "Coureur de Bois",
+        "Pathfinders"
+      ],
+      "date_ref": "1960-1965",
+      "conflicts_with": [],
+      "added_version": "10.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5654",
+      "claim": "COEDUCATION, COUNTED: GIRL CAMPERS EVERY YEAR FROM 1968 TO 1978. The summary prints girls in brackets inside each total, under the legend \"Figures shown in brackets - Girl Campers (included in overall totals)\". Different girls, with the year's total beside them: 1968 = 66 of 577; 1969 = 160 of 622; 1970 = 203 of 572; 1971 = 197 of 492; 1972 = 215 of 520; 1973 = 208 of 467; 1974 = 198 of 449; 1975 = 229 of 475; 1976 = 238 of 480; 1977 = 167 of 414; 1978 = 170 of 442. Girls went from eleven per cent of camp in the first coeducational season to a peak of just under half (49.6 per cent) in 1976, then fell back to about forty per cent as total registration dropped. The 1968 figure of 66 girls MATCHES what this project already held from another source, which is what first confirmed the column alignment was being read correctly. THE STRUCTURAL POINT UNDER THE NUMBERS: girls appear only in the Woodsmen and Pathfinders rows, never in Pioneers or Coureur de Bois, so the camp ran coeducation in two of its four sections and the other two stayed all-boy until they were wound up after 1972.",
+      "sources": [
+        "src_ia_kanawana_report_1970",
+        "src_ia_kanawana_directors_report_1976",
+        "src_ia_kanawana_report_1978"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Kamp Kanawana",
+        "coeducation"
+      ],
+      "date_ref": "1968-1978",
+      "conflicts_with": [],
+      "added_version": "10.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5655",
+      "claim": "THE CAMP TRACKED ITS OWN RETURNEE RATE FOR TWENTY YEARS, AND THE SERIES SURVIVES: 1960-1979. \"Percentage of former campers\", as printed across four impressions of the ten year summary (girls' rate in brackets where given): 1960 = 43.1; 1961 = 44.7; 1962 = 49.2; 1963 = 51; 1964 = 52; 1965 = 43.92; 1966 = 40.6 in the 1970 printing but 40.25 in the 1975 and 1976 printings; 1967 = 47.8; 1968 = 41.13; 1969 = 34.73 (18.75); 1970 = 31.45 (25.12); 1971 = 36.79 (36.00); 1972 = 42.12 (40.5); 1973 = 42.6; 1974 = 45.2; 1975 = 46.8; 1976 = 44.8 (45.8); 1977 = 54.83 (58.08); 1978 = 56.11 (58.24); 1979 = 48.80 (51.79). THE SHAPE IS A V. Loyalty climbed through the early 1960s to a peak of 52 per cent in 1964, collapsed to 31.45 per cent in 1970 -- the low is the second coeducational season, and girls returned at a far lower rate than boys in exactly those years -- then climbed steadily to 56.11 per cent in 1978 before falling back in 1979. The 1978 and 1979 figures independently check each other: the 1979 director's report describes that year's returnee rate as down 7.3 points, and 56.11 minus 48.80 is 7.31.",
+      "sources": [
+        "src_ia_kanawana_report_1970",
+        "src_ia_kanawana_report_1975",
+        "src_ia_kanawana_directors_report_1976",
+        "src_ia_kanawana_report_1978",
+        "src_ia_kanawana_report_1979"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1960-1979",
+      "conflicts_with": [],
+      "added_version": "10.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5656",
+      "claim": "THE CAMP MEASURED HOW MANY OF ITS CAMPERS WERE YMCA MEMBERS, WATCHED THE FIGURE HALVE, AND THEN STOPPED MEASURING IT. The ten year summary's last row is \"Percentage of 'Y' members\": 1960 = 38.3; 1961 = 35.6; 1962 = 37.61; 1963 = 36.2; 1964 = 37.5; 1965 = 38.0; 1966 = 35.1; 1967 = 32.3; 1968 = 27.49 (45.0); 1969 = 21.54 (30.62); 1970 = 21.66 (20.19); 1971 = 20.95 (19.29); 1972 = 14.44 (14.4). The rate sat between 35 and 38 per cent for the whole of the early 1960s without moving, then fell every year from 1966 to 1972, ending at well under half where it began. IN THE 1975 AND 1976 PRINTINGS THE ROW STOPS AFTER 1972 AND THE REMAINING CELLS READ \"(NO RECORDS)\". By the 1978 and 1979 printings the row has been dropped from the table altogether. The camp stopped counting the thing immediately after it had more than halved, and then removed the question from its own annual statistics. Girls were more likely to be Y members than boys in 1968 and 1969 (45.0 and 30.62 per cent against a whole-camp 27.49 and 21.54) and the gap had closed by 1970.",
+      "sources": [
+        "src_ia_kanawana_report_1970",
+        "src_ia_kanawana_report_1975",
+        "src_ia_kanawana_directors_report_1976",
+        "src_ia_kanawana_report_1978"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1960-1979",
+      "conflicts_with": [],
+      "added_version": "10.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5657",
+      "claim": "THE RELIGIOUS BREAKDOWN OF THE CAMP, FOR THE THREE YEARS WHERE IT CAN BE PROVED. The attendance-series article records that the summary's religious-affiliation block is \"held nowhere else in this project\" and could not be read from the 1965 printing. The 1970 printing gives it by camper weeks under the heading \"BY WEEKS\", with rows for Protestant, Roman Catholic, Jewish, Buddhist, Hindu or Moslem, and Not reported. ONLY THREE COLUMNS CAN BE SHOWN TO BE READ CORRECTLY, and only those are recorded here. 1960: Protestant 1,079, Roman Catholic 258, Jewish 248 -- summing to 1,585, the year's printed camper-week total exactly. 1961: Protestant 963, Roman Catholic 266, Jewish 280, summing to 1,509, again exact. 1963: Protestant 963, Roman Catholic 318, Jewish 360, summing to 1,641, again exact. On this evidence roughly one camper week in six was Roman Catholic and one in six Jewish at the start of the 1960s, in a camp two thirds Protestant. THE OTHER COLUMNS ARE DELIBERATELY NOT RECORDED. From 1964 onward the three main rows fall short of the year's total by a margin that grows from 16 to 69 weeks, and the Buddhist, Hindu or Moslem and Not reported rows carry too few surviving values to be assigned to years with confidence. A reconstruction would be arithmetic dressed as evidence, which is the specific failure p_497 was written to avoid. Page images would settle it.",
+      "sources": [
+        "src_ia_kanawana_report_1970"
+      ],
+      "confidence": "stated",
+      "category": "demographics",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1960-1963",
+      "conflicts_with": [],
+      "added_version": "10.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5658",
+      "claim": "THE TABLE CONTAINS ITS OWN ERROR-CORRECTING CHECK, AND IT SETTLES FOUR AMBIGUOUS CELLS. The summary prints \"Average length of stay (weeks)\" as a separate row, which is camper weeks divided by campers -- so where the girl-week count is uncertain, the printed girls' average decides between the candidates. This matters because the document disagrees with itself about girl weeks in two years, and does so differently in different printings. 1970: the section rows total 515 girl weeks, the weekly rows total 520, the 1970 report's own section-total row says 535 and the 1976 report's says 515. The printed girls' average of 2.56 against 203 girls implies 519.7, so 520 is the figure. 1971: the section rows give 515, the weekly rows 537, the printed total 575. The printed girls' average of 2.73 against 197 girls implies 537.8, so 537 is the figure. 1973: the printed total says 578 but the weekly rows sum to 604; the printed average of 2.78 against 208 girls implies 578.2, so 578 is right and the weekly detail is damaged. 1976: the girl camper count is scanned as \"2.38\"; the printed girls' average of 2.71 against 646 girl weeks implies 238.4, so it is 238. The check works because a ratio row is not derivable from the row it corrects by anyone reading the scan, only by the clerk who had the real figures. TWO CELLS FAIL EVERY TEST AND ARE LEFT ALONE: the whole-camp average printed for 1967 is 2.84 where 1,098 over 421 is 2.61, and both of 1974's averages are printed one rounding notch high.",
+      "sources": [
+        "src_ia_kanawana_report_1970",
+        "src_ia_kanawana_directors_report_1976",
+        "src_ia_kanawana_report_1978"
+      ],
+      "confidence": "stated",
+      "category": "methodology",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1960-1978",
+      "conflicts_with": [],
+      "added_version": "10.64",
       "added_by": "ralph_loop"
     }
   ]

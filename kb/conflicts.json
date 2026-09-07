@@ -1083,6 +1083,33 @@
       "flagged_at": "2026-09-07T05:06:39Z",
       "status": "open",
       "notes": "Raised 2026-09-07 out of a quoted book-corpus sweep on 'Wallace Forgie'. NOTHING HAS BEEN CHANGED IN THE ARTICLES ON THE DATE. What the articles DO now carry is the Forgie attribution, written as what the 1929 source says rather than as a correction of Statten's -- the two are not mutually exclusive and the sources do not treat them as such. The 1914 claim's own sourcing should be re-read before anything is decided: the V1 note lists it among sixteen claims confirmed in one pass and does not say against what. | [2026-09-07T05:28:07Z: provenance traced. The 1914 date rests on Wikipedia alone. Both articles now say so in the prose beside the date.]"
+    },
+    {
+      "conflict_id": "c_070",
+      "entity": "Kamp Kanawana, 1971 season: campers and camper weeks",
+      "description": "THE CAMP'S OWN 1971 DIRECTOR'S REPORT AND THE CAMP'S OWN TEN YEAR SUMMARY GIVE DIFFERENT 1971 FIGURES. The 1971 director's report, written at the end of that season, gives 481 different campers (284 boys, 197 girls) and 1,247 camper weeks (743 boys, 504 girls) -- the first year the camp broke registration out by sex, recorded at f_4843 and carried in the attendance-series table. The rolling ten year summary printed at the back of the 1976 and 1978 reports gives, for the same season, 492 campers and 1,270 camper weeks. THE GIRLS AGREE EXACTLY AT 197 AND EVERYTHING ELSE DIFFERS: eleven more campers and twenty-three more weeks in the retrospective table, all of it on the boys' side. Both are documented, both are the institution's own, and the operator directive about oral history yielding to documents does not apply -- this is two documents. NOT RESOLVED HERE. Note that the summary's own 1971 column is the single messiest in the table: its girl-week figure is printed three different ways (515 from the section rows, 537 from the weekly rows, 575 from the printed total), and the printed average length of stay picks 537 (f_5658). A column that disagrees with itself three ways is not obviously the better authority, and the contemporaneous report has the stronger prior. The likeliest mundane explanation, which is a hypothesis and not a finding, is that the two counts draw the boundary differently around Counsellors-in-Training or Les Voyageurs de la Verendrye; the 1979 report counts C.I.T.s separately and says so, which shows the camp knew the distinction mattered.",
+      "facts": [
+        "f_4843",
+        "f_5652",
+        "f_5654",
+        "f_5658"
+      ],
+      "flagged_at": "2026-09-07T19:20:13Z",
+      "status": "open",
+      "notes": "Raised 2026-09-07 under p_499 while reading the ten year summary across four printings. The attendance-series table now shows both figures at the 1971 row with a flag. HUMAN DECISION POINT: two documented sources, per CLAUDE.md. What would settle it: page images of either table, or the 1971 report's own C.I.T. and Voyageurs counts read against the summary's definition of a camper."
+    },
+    {
+      "conflict_id": "c_071",
+      "entity": "Kamp Kanawana, camper counts 1962-1972: contemporaneous reports against the retrospective summary",
+      "description": "THE TEN YEAR SUMMARY DISAGREES WITH THE CONTEMPORANEOUS RECORD IN FOUR MORE SEASONS, ALWAYS BY A LITTLE. 1962: this project holds 590 from the statistical summary and 550 from a news release of 22 April 1963, already flagged; the ten year summary makes a third figure, 548. 1963: the project holds 602, noted as including Les Voyageurs; the summary says 567, a difference of 35. 1965: the project holds 420; the summary says 429. 1972: the project holds 523; the summary says 520. THE PATTERN IS THE POINT. The differences are small, they run in both directions, and the two series agree exactly wherever a figure is not disputed -- 1964 at 535, 1966 at 488, 1967 at 421, 1968 at 577, 1969 at 622, 1975 at 475, 1976 at 480, 1977 at 414 and 1978 at 442 all match to the camper. A retrospective table that reproduces nine seasons exactly and differs in five by single digits and one by 35 is not carelessly compiled; it is more likely counting a slightly different population, and the 1963 note about Voyageurs points at what that population might be. NOT RESOLVED. Both sides are documented and institutional.",
+      "facts": [
+        "f_5652",
+        "f_5654",
+        "f_4846"
+      ],
+      "flagged_at": "2026-09-07T19:20:13Z",
+      "status": "open",
+      "notes": "Raised 2026-09-07 under p_499. Both figures are shown at each affected row of the attendance-series table. HUMAN DECISION POINT under CLAUDE.md: documented against documented. Worth noting that 1962 now carries THREE documented values (590, 550, 548), which makes it the worst-attested season in the 1960s despite being one of the best-documented."
     }
   ]
 }

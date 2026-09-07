@@ -7316,3 +7316,37 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   the-kanawana-site.md rewritten with its old wording quoted; note 72; source added (52 -> 53).
   NOT ESTABLISHED, and the article now says so: when the enclosure was completed, whether the plastic was
   ever replaced by permanent walls, or whether the room was ever brightened.
+2026-09-07T19:22:32Z  p_499 / p_497 (partial)  ATOMIC UNIT: the ten year summary is a ROLLING table, reprinted in eight reports, and four printings are readable.
+  Found while reading directors' report acknowledgement sections under p_499: the statistical appendix at the back of the 1976 and 1978
+  reports is the same "KAMP KANAWANA TEN YEAR SUMMARY" this project wrote off as unreadable from the 1965 printing (f_5641, and the
+  attendance-series section literally titled "A ten-year table nobody can read yet"). It is a ROLLING ten-year window. Eight cached reports
+  carry it (1965, 1966, 1969, 1970, 1975, 1976, 1978, 1979); four survived scanning intact; between them they cover 1960-1978 -- including
+  the whole of the 1960s the 1965 printing was wanted for. NOBODY CHECKED WHETHER THE TABLE APPEARED ANYWHERE ELSE BEFORE REQUESTING PAGE
+  IMAGES. Generalisable: a serial publication with a rolling appendix reprints its own back years.
+  METHOD, because a wide OCR'd table is exactly how a reconstruction gets mistaken for data (the risk p_497 was written to name): nothing was
+  written down until it reconciled. Each year's camper weeks is printed three times (section sum, weekly sum, printed total) and 1961-65 are
+  printed independently in two reports. Column alignment was confirmed against five counts already held from other sources (488/1966,
+  421/1967, 66 girls/1968, 622/1969, 475/1975) -- all reproduced to the camper. The AVERAGE LENGTH OF STAY row turns out to be an
+  error-correcting check: a ratio no one reading a damaged scan could reconstruct, but the clerk could. It resolves girl-weeks for 1970 (520
+  over 515 and 535), 1971 (537 over 515 and 575), 1973 (578 over 604) and reads "2.38" girl campers of 1976 back to 238.
+  ADDED: f_5651-f_5658 (KB v10.63 -> v10.64, 5,612 -> 5,620). c_070, c_071.
+  FILLED in attendance-series.md: camper weeks for 1960-63 and 1972 (none held), campers for 1960, 1961, 1968, 1970, 1973, 1974 (none held),
+  girl splits for every season 1968-1978. 1964 camper weeks were held only as "budgeted 1,530, missed" -- the actual is 1,518, twelve short.
+  1965's flagged "1,200 or 1,182" is settled at 1,182 on two further printings.
+  NEW: the RANGERS, a fifth section running 1960-64 (48/46/46/40/28 weeks) then gone; this project had no record of it at all. A 20-year
+  returnee series, V-shaped, bottoming at 31.45% in 1970 (the second coeducational season) -- and the 1978/1979 ends check each other against
+  the 1979 report's own "down 7.3 points". The 'Y' MEMBERSHIP ROW: flat at 35-38% through the early 1960s, falls every year 1966-1972 to
+  14.44%, then reads "(NO RECORDS)" in the 1975/1976 printings and is DELETED from the table by 1978. The camp stopped counting immediately
+  after the figure had more than halved.
+  PUBLISHED ONLY WHAT RECONCILES: the religious breakdown (the thing the article said is held nowhere else) is given for 1960, 1961 and 1963
+  only, because those three columns sum exactly to their printed camper-week totals. From 1964 the rows fall short by a margin growing 16->69
+  and the minor rows cannot be assigned to years. Not reconstructed. Two cells left alone as printed errors: the 1967 average (2.84 vs 2.61)
+  and both of 1974's, a rounding notch high.
+  CONFLICTS RAISED, NOT RESOLVED (documented vs documented = human decision point): c_070, the 1971 report's 481 campers / 1,247 weeks against
+  the summary's 492 / 1,270 -- girls agree exactly at 197, every boys' figure differs. c_071, four more seasons differing by single digits
+  (1962 now has THREE documented values, 1963 602 vs 567, 1965 420 vs 429, 1972 523 vs 520) while nine undisputed seasons match to the camper.
+  NOT YET WRITTEN UP, carried to the next unit: the 1975/1976/1978/1979 acknowledgement lists that started this. Confirmed 0-in-wiki 0-in-KB:
+  Andy Barrie and CJAD's 15-minute story on the 1976 reunion; Dr Bernard Villemaire; Colin Kirk (Montreal Orienteering Assoc.); Chuck
+  Baronowski of Trails End; Kerry Johnston; Ivanhoe Corporation and the Dorval Gardens parking lot as the Montreal terminal 1976-78. Also a
+  poem by Kitti Luce printed in the 1976 report, written "when she was a senior girl kamper" -- she is already in the wiki as 1980 staff, so
+  this is a camper-to-staff trajectory and the only piece of camper-voice writing found in this corpus. 1977's list is already f_5649.
