@@ -1,8 +1,8 @@
 {
-  "version": "10.43",
-  "kb_version": "10.43",
+  "version": "10.44",
+  "kb_version": "10.44",
   "migrated_from": "3.3",
-  "fact_count": 5594,
+  "fact_count": 5595,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100797,6 +100797,31 @@
       "date_ref": "1913-1916",
       "conflicts_with": [],
       "added_version": "10.43",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5633",
+      "claim": "THE SENIOR CAMP SERIES 1912-1921 COMPLETE, AND THE NAMING RAN IN THREE STAGES NOT TWO. This corrects and extends f_5632, written an hour earlier the same day. f_5632 counted the names 'Men's Camp' and 'Otoreke' across the annual reports and concluded the association 'described the men's camp by function' until 1921. TRUE BUT INCOMPLETE, AND INCOMPLETE FOR THE USUAL REASON: MY SEARCH TERMS WERE THE LIMIT. From the report of 1918 the label changes to 'SENIOR CAMP', which f_5632's count did not look for, so the years 1918, 1919 and 1920 were recorded as reports where neither name appeared when in fact a third name did.\n\nTHE THREE STAGES, counted across every report held for 1910-1924. 'Men's Camp': 1913, 1914, 1916, 1917, and once more in 1920. 'Senior Camp': once in 1910, then 1918, 1919 and 1920. 'Otoreke': ZERO before the 1921-1922 volume, then 3, 4 and 5 times in 1921-22, 1922-23 and 1924. THE 1920 REPORT USES BOTH OLD LABELS AT ONCE, and the split is worth seeing: its NARRATIVE says 'The Senior Camp Committee has been entirely reorganized' while its BALANCE SHEET still heads a column 'Men's Camp'. The bookkeeping kept the old name after the prose had dropped it, which is how institutional vocabulary usually changes.\n\nTHE SERIES, dating by meta/attendance-series.md's Dating note. 1912: 123 ('Last summer 123 men and 187 boys', already noted in that article). 1913: 160, 5 July to 2 September, H. C. Patterson. 1914: 160. 1915: 141, 9 July to 23 August, Patterson. 1916: 131 by the 1917 report's own count and branch breakdown, but 130 by the 1918 report's retrospective 'as compared with 130, last year' -- A ONE-CAMPER DISCREPANCY BETWEEN TWO REPORTS ON THE SAME SEASON, recorded and not resolved. 1917: 90, under W. H. Henderson, W. A. MacLaren and M. F. Furey. 1918: 72, and the season collapsed to TWO WEEKS -- '13 to 29 July, 1918 ... also during week-ends and holidays in May, June and August', balance $73. 1919: 106, with 'Mr. Herb Patterson released to take charge'. 1920: 216. 1921: 126.\n\nTHE WAR IS NAMED, IN THE ASSOCIATION'S OWN WORDS: 'THE ENLISTMENT FOR OVERSEAS' SERVICE FROM OUR MEMBERSHIP GREATLY INTERFERED WITH THE OPERATION OF THE SENIOR CAMP THIS YEAR.' 90 in 1917 and 72 in 1918 against 160 in 1913 and 1914, with the season cut from nine weeks to two -- and the boys' camp in the same summers went 168 then 223, 'a record season'. THE TWO CAMPS MOVED IN OPPOSITE DIRECTIONS THROUGH THE WAR, which is exactly what one would expect when one camp's clientele was of enlistment age and the other's was not, and it is the plainest statement of the war's effect on the association's camping in this project.\n\nFOUR NAMES GAIN INITIALS OR A FORENAME. 'Mr. Henderson' of 1916 is W. H. HENDERSON. 'Mr. MacLaren' is W. A. MacLAREN. M. F. FUREY, third in charge of the 1917 senior camp, is the M. F. Furey the 1913 Gazette names as the association's physical director, speaking as the boys left for Kanawana. And 'MR. HERB PATTERSON', released to take charge for 1919, is very probably the H. C. PATTERSON who ran the camp in 1913 and 1915 -- same surname, same camp, same role, six years apart -- which would give that man a forename. Stated as probable, not proved: no document here writes the name out in full.\n\nWHAT THIS DOES NOT CHANGE: attendance-series.md already carried the 1918 senior figure of seventy-two, the enlistment sentence and the boys' figures for all these years. What it did not carry is the senior camp as a SERIES, and camp-otoreke.md carried none of it.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1918",
+        "src_ymf_sgw_ymca_annual_report_1919_montreal_men",
+        "src_ymf_sgw_ymca_annual_report_1920",
+        "src_ymf_sgw_ymca_annual_report_1917",
+        "src_ymf_sgw_ymca_annual_report_1921_1922"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Camp Otoreke",
+        "W. H. Henderson",
+        "W. A. MacLaren",
+        "M. F. Furey",
+        "Herb Patterson",
+        "H. C. Patterson"
+      ],
+      "date_ref": "1912-1921",
+      "conflicts_with": [],
+      "added_version": "10.44",
       "added_by": "ralph_loop"
     }
   ]

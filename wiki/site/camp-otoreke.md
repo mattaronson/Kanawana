@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 63*
+*Status: E1-reviewed | Sources: 64*
 *Last Updated: 2026-09-07 (McKay dated to May 1962; the 1,507-camper season; and who was responsible for the camp)*
 
 ## Overview
@@ -152,10 +152,10 @@ Saint-Sauveur site.
 
 In 1909, Camp Jubilee was renamed Camp Otoreke. The following year, in 1910, the YMCA purchased the current Kanawana site near Saint-Sauveur,^7 and the main boys' camping program relocated there. Camp Otoreke continued operating on the original islands, but its purpose evolved: it served men aged 18 and over, women and men, married couples, and low-income families.^1
 
-## Four seasons of the men's camp, 1913-1916
+## The senior camp season by season, 1912-1921
 
 The article below says the 216 of 1920 is the earliest attendance figure this project holds for the
-camp. It is not, by seven years, and the reason nobody found the earlier ones is worth stating: the
+camp. It is not, by eight years, and the reason nobody found the earlier ones is worth stating: the
 association's annual reports give the two camps in **adjacent sentences**, and every pass through them
 read the Kanawana sentence and stopped at the full stop.^63
 
@@ -164,10 +164,20 @@ April through the 1925 report, so a report describes the previous summer.
 
 | Season | Men | Dates | In charge |
 |---|---|---|---|
+| 1912 | 123 | — | *(already noted at [[meta/attendance-series\|The Attendance Series]])* |
 | **1913** | **160** | 5 July – 2 September | Mr. H. C. Patterson |
 | **1914** | **160** | — | — |
 | **1915** | **141** | 9 July – 23 August | Mr. H. C. Patterson, Assistant Physical Director at Central |
-| **1916** | **131** | 14 July – 19 August | Mr. Henderson (two weeks), Mr. MacLaren (one), Mr. Holliday (two) |
+| **1916** | **131** ⚠️ | 14 July – 19 August | Mr. W. H. Henderson (two weeks), Mr. W. A. MacLaren (one), Mr. Holliday (two) |
+| **1917** | **90** | — | W. H. Henderson, W. A. MacLaren and M. F. Furey |
+| **1918** | **72** | **13–29 July**, plus weekends and holidays in May, June and August | W. H. Henderson and W. A. MacLaren |
+| **1919** | **106** | — | "Mr. Herb Patterson has been released to take charge" |
+| 1920 | 216 | — | — |
+| 1921 | 126 | July and August | — |
+
+⚠️ **1916 is given twice and the two do not agree.** The report of 1917 counts 131 and breaks it down by
+branch; the report of 1918 looks back and says "as compared with **130**, last year." One camper apart,
+two reports, same season. Recorded, not resolved.^64
 
 The 1913 sentence reads: "The Men's Camp as [at] Lake St. Joseph, in charge of Mr. H. C. Patterson, was
 open from July 5th to September 2nd, **with 160 men out**." The sentence directly after it is the one
@@ -181,13 +191,30 @@ give no reason at all. The 1916 season's branch breakdown is Central 92, North 2
 its own books: a surplus of **$208.57** in 1915 against the boys' camp's $198.40, and a credit balance
 of **$40.60** in 1916.
 
-**And the association did not call it Otoreke.** Counting both names across every annual report held
-here for 1913 to 1922: "Otoreke" occurs **zero** times in the reports of 1913, 1914, 1915, 1916, 1917,
-1918, 1919 and 1920, and first appears in the **1921-1922** volume, as a heading — "CAMP OTOREKE — The
-Camp for men was again conducted during the months of July and August."^63 The control that makes the
-count mean something is that **"Kanawana" occurs in those same reports throughout**, one to four times a
-volume. The association used the boys' camp's proper name from 1913 and went on describing the men's
-camp by function for another eight years. This article dates the rename from Camp Jubilee to 1909, and
+**And the war is named, in the association's own words.** The report for 1919: "**The enlistment for
+overseas' service from our membership greatly interfered with the operation of the Senior Camp this
+year.**"^64 That season ran **two weeks**, 13 to 29 July, plus weekends and holidays either side, and drew
+72 men against 160 five years before. What makes it worth reading twice is what the boys' camp was doing
+in the same summers: 168 in 1917 and 223 in 1918, which its own report calls "a record season."
+**The two camps moved in opposite directions through the war** — which is what one would expect when one
+camp's clientele was of enlistment age and the other's was not, and it is the plainest statement of the
+war's effect on the association's camping anywhere in this project.
+
+**And the association did not call it Otoreke — it called it three things in turn.** Counting the names
+across every annual report held here for 1910 to 1924: "**Men's Camp**" in 1913, 1914, 1916 and 1917;
+"**Senior Camp**" once in 1910 and then from 1918; and "**Otoreke**" **zero** times before the
+**1921-1922** volume, where it arrives as a heading — "CAMP OTOREKE — The Camp for men was again
+conducted during the months of July and August."^63 ^64 The control that makes the count mean something
+is that **"Kanawana" occurs in those same reports throughout**, one to four times a volume. The 1920
+report is the seam and shows how these changes actually happen: its **narrative** says "the Senior Camp
+Committee has been entirely reorganized" while its **balance sheet** still heads a column "Men's Camp."
+The bookkeeping kept the old name after the prose had dropped it.
+
+*(Corrected 2026-09-07, an hour after the section was written. The first version of this passage counted
+only "Men's Camp" and "Otoreke" and reported 1918, 1919 and 1920 as reports where neither name appeared.
+A third name appeared in them; my search terms were the limit, not the record.)* The association used
+the boys' camp's proper name from 1913 and went on naming the senior camp by function for another eight
+years. This article dates the rename from Camp Jubilee to 1909, and
 both can be true — an annual report may use a label for a camp that has a name — but twelve years of
 the association's own reporting never once using it is worth setting beside a rename date that comes
 from elsewhere.
@@ -196,7 +223,13 @@ from elsewhere.
 the same adult clientele and the same institution, four to seven years after the stated rename. No
 document held here joins the two names.* "Mr. Holliday" is a candidate for
 [[people/w-j-holliday|W. J. Holliday]]; the report gives no initials, so he is a candidate and not an
-identification. Henderson and MacLaren are new.
+identification. **Henderson and MacLaren gain theirs** from the later reports: W. H. Henderson and W. A.
+MacLaren.^64 So does a third man — **M. F. Furey**, third in charge of the 1917 senior camp, is the M. F.
+Furey the *Gazette* of 7 July 1913 names as the association's physical director, speaking as the boys
+left for Kanawana; see [[history/founding-1894|Founding, 1894]]. And "**Mr. Herb Patterson**," released
+to take charge for 1919, is very probably the **H. C. Patterson** who ran the camp in 1913 and 1915 —
+same surname, same camp, same role, six years apart — which would give that man a forename. Probable,
+not proved: no document held here writes the name out in full.
 
 ## The 1920s: two seasons, and a decision the association did not carry out
 
@@ -212,7 +245,7 @@ every Kanawana breakdown of these years — is absent from the list, so a droppe
 the likeliest explanation; the season total of 126 is the figure the report states and compares
 against, and is the one to use. ~~The 216 of 1920 is the earliest Otoreke attendance figure this
 project holds.~~ *(Corrected 2026-09-07: it is not. Four earlier seasons — 1913, 1914, 1915 and 1916 —
-are in the annual reports this project already held, and are tabled in the section above. The 1920
+are in the annual reports this project already held, and are tabled in the section above, along with 1912 and 1917-1919. The 1920
 figure is the earliest this article had ever carried, which is a different claim and the one that
 should have been made.)* Together the 1920 and 1921 figures say the men's camp lost 42% of its
 attendance in a single year — and against the 160 of 1913 the fall is steeper still, though 1920's 216
@@ -1176,6 +1209,7 @@ centre. It is the same kind of use, twenty years earlier, that
 61. YMCA of Montreal annual reports for the years ending **31 December 1956** and **31 December 1959** [src_ymf_sgw_ymca_annual_report_1956, src_ymf_sgw_ymca_annual_report_1959], the branch- and camp-chairman lists. Read 2026-09-06 under p_441 and extracted at [f_5080]; brought into **this** article 2026-09-07 under p_491, which exists because the article was not citing reports whose Otoreke content the project already held.
 62. YMCA of Montreal annual reports for the years ending **31 December 1953**, **1954**, **1964** and **1965** [src_ymf_sgw_ymca_annual_report_1953, src_ymf_sgw_ymca_annual_report_1954, src_ymf_sgw_ymca_annual_report_1964, src_ymf_sgw_ymca_annual_report_1965]. The **1953** and **1954** volumes, describing the Christieville Ski Lodge and its two lodges, are at [f_5083]; the **1964** and **1965** volumes, with Otoreke's 1,052 campers, are at [f_5094]. Both were read 2026-09-06 under p_441 and brought into **this** article 2026-09-07 under p_491.
 63. YMCA of Montreal annual reports for the years ending 30 April **1914** [src_ymf_sgw_ymca_annual_report_1914], **1916** [src_ymf_sgw_ymca_annual_report_1916] and **1917** [src_ymf_sgw_ymca_annual_report_1917], each describing the previous summer under the Dating rule at [[meta/attendance-series|The Attendance Series]]. The **1913** season (160 men, 5 July to 2 September, H. C. Patterson), the **1915** season (141, 9 July to 23 August) and the **1916** season (131, 14 July to 19 August, with the branch breakdown and the Henderson–MacLaren–Holliday rotation) are together at [f_5632], which also records the count of the name "Otoreke" across every report from **1913** to **1922**. The **1921-1922** volume that first uses the name is [src_ymf_sgw_ymca_annual_report_1921_1922].
+64. YMCA of Montreal annual reports for the years ending 30 April **1918** [src_ymf_sgw_ymca_annual_report_1918], **1919** [src_ymf_sgw_ymca_annual_report_1919_montreal_men] and **1920** [src_ymf_sgw_ymca_annual_report_1920], each describing the previous summer. The **1917** season (90, under W. H. Henderson, W. A. MacLaren and M. F. Furey), the **1918** season (72, and the two-week 13–29 July season with the enlistment sentence) and the **1919** season (106, Herb Patterson released to take charge) are at [f_5633], which also corrects the three-stage naming count and the four names that gain initials. The earlier **1913–1916** seasons are at [f_5632].
 
 ## Research Notes
 
