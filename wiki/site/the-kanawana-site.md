@@ -1,6 +1,6 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 71*
+*Status: E1-reviewed | Sources: 72*
 *Last Updated: 2026-09-07 (the 1936 CFCF script; and what the site costs to rent in 2026)*
 
 ## Overview
@@ -383,11 +383,23 @@ souvenir.
 
 The *Gas-Bag Extra* of 1923 photographed the same building from outside, as "a large log building with a
 deep overhanging roof and an upper rail or gallery," and the picture is reproduced in
-[[site/places-and-locations|Places and Locations]]. And the walls arrive in the autumn of **1977**, in a
-list of works then under way in the director's report: "renovation of block house and farm house —
+[[site/places-and-locations|Places and Locations]]. And the closing-in begins in the autumn of **1977**, in a
+list of works then **under way** in the director's report: "renovation of block house and farm house —
 **enclosing and renovating the dining hall** — relocating tent platforms in the new and old sites —
-erecting a new shower building in the senior section."^69 Anyone who was at camp from 1978 onward
-remembers the enclosed hall. It is the late form of the building, not the original one.
+erecting a new shower building in the senior section."^69
+
+**It was not finished then, and it was not done with walls.** *(This paragraph read "the walls arrive in
+the autumn of 1977" until the 1979 report was read; the 1977 report says only that the work was under
+way, and "under way" was taken for "done.")* Two years later the director is still recommending: "The
+**plastic enclosures tested this year** for the dining hall [are a] good investment and should have an
+extended life if properly maintained. **We should purchase enough for the entire dining hall.**"^72
+Tested on part of it, in plastic, with the rest still to buy.
+
+**And the same page records what closing it in had cost the room.** "We have to spend some time
+**brightening up the dining hall. It's quite dark on even the sunniest days.**"^72 Which is what happens
+when a pavilion with a deep overhanging roof, built to take light from every side, has its sides put
+back on. The building anyone at camp from the 1980s remembers is the late form — but when it finished
+becoming that, and whether the plastic was ever replaced, are not established here.
 
 **A dining structure is recorded five times between 1913 and 1922, and the conflict record only knows
 about two of them.** Conflict `c_049` sets the 1988 facilities table's **1919** against the 1951 camp
@@ -706,6 +718,7 @@ them on every line and by tenfold on revenue.
 69. The dining hall's open-sided span and the dates around it, assembled 2026-09-07 under p_492 at [f_5627]. The **c.1920s** interior photograph of the open-sided pavilion, with its "KAMP KANAWANA" banner and "YMCA" pennant, is [src_flickr_kanawana_concordia_historical_album] at [f_1727] — the image already sat in this article's gallery with no note and no prose. The **1923** exterior, "a large log building with a deep overhanging roof", is the "PICTORIAL REVIEW" page of *The Gas-Bag Extra* Vol. 13 No. 1 [src_ymf_the_gas_bag_extra_vol_13_no_1] at [f_4927]. The **1977** line "enclosing and renovating the dining hall" is the director's report for that year [src_ia_kanawana_report_1977], quoted from `sources/cache/ymca-montreal-fonds/1977-kamp-kanawana-directors-report.txt` rather than from its paraphrase. The **1918** Gazette's "served in the dining pavilion" is [src_newspapers_gazette_1918b] at [f_2245]; the **1920** completion and the "lower pavilion on the lake front" are the **1951** camp history [src_ia_kanawana_history_1951] at [f_2120]; the **1922** brochure's new Dining Pavilion is [src_brochure_1922] at [f_0303]; and the **1919** blueprints are Concordia P145/12B03 [src_concordia_12B03] at [f_1787].
 70. YMCA of Montreal annual report for the year ending 30 April **1920** [src_ymf_sgw_ymca_annual_report_1920], describing the **1919** season. The **289** boys, the **165** on site at once against a stated comfortable capacity of **80 or 90**, the **200**-boy target, and the Junior Camp Committee charged with "the erection of a new dining pavilion" that "will be in readiness for the opening of the Camp this year", are all at [f_5634]. The **1919** blueprints it is set beside are Concordia P145/12B03 [src_concordia_12B03] at [f_1787], and the **1920** completion is the **1951** camp history [src_ia_kanawana_history_1951] at [f_2120]. Found 2026-09-07 under p_491, in the paragraph after the attendance figure.
 71. The YMCA of Montreal's annual-report schedules of capital improvements, read as a run 2026-09-07 under p_491: the **99th** report to 31 March 1950 [src_ymf_sgw_ymca_annual_report_1950], the **100th** covering the twenty-one months to 31 December 1951 [src_ymf_sgw_ymca_annual_report_1951], and the volumes to 31 December **1952** [src_ymf_sgw_ymca_annual_report_1952], **1953** [src_ymf_sgw_ymca_annual_report_1953], **1954** [src_ymf_sgw_ymca_annual_report_1954], **1955** [src_ymf_sgw_ymca_annual_report_1955], **1956** [src_ymf_sgw_ymca_annual_report_1956] and **1958** [src_ymf_sgw_ymca_annual_report_1958]. Transcribed together at [f_5640], with the year-ends taken from `project-docs/annual-report-year-ends.md`; the **Lower Pavilion**'s replacement is dated against the **1951** camp history at [f_2120].
+72. Kamp Kanawana director's report for **1979** [src_ia_kanawana_report_1979]: the **plastic enclosures** tested that year for the dining hall with the recommendation to buy enough for the rest, the room "quite dark on even the sunniest days", and Julien Tassé's season of work including the new dining-hall stairs. At [f_5650], which corrects the **1977** enclosure date given at [f_5627].
 
 ## Research Notes
 
