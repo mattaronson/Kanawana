@@ -5588,3 +5588,42 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   own year on those figures.
   facts.json v10.17, 5,567 facts. Verify green, nine checks. Timestamp from
   `date -u` in its own call.
+
+[2026-09-07T15:13:37Z] VERIFY -- p_303's record half cleared. Two defects, both
+  invisible to every check because both left the citation resolving to
+  SOMETHING.
+  (1) TWENTY SOURCE IDS HELD BY 45 RECORDS. src_flickr_kanawana by six,
+  src_cca_history and src_samaritanmag_mclean by three. A [src_] citation to any
+  of them named no single object and any tool resolving one took whichever
+  record it reached first. Every group described ONE document -- seventeen
+  shared an identical origin_url; the other three had one record with a URL and
+  one without. Merged under a stated field rule (longest title; most precise
+  date carrying its own precision; longest origin_url with the others kept in
+  the note; most specific type; highest reliability; first non-empty read-state
+  fields), every distinct note preserved. NO FACT OR ARTICLE NEEDED REPOINTING,
+  BECAUSE THE ID NEVER CHANGED -- which is exactly why nothing had noticed.
+  data_integrity.py's duplicate-id check has been advisory since it shipped,
+  queued as p_303, with a comment saying to make it blocking when that cleared.
+  IT IS NOW BLOCKING. Tested by re-introducing a duplicate: exit 1.
+  (2) TWENTY-EIGHT DOCUMENTS BOTH READ AND UNREAD. Every src_cache_X / src_X
+  twin, and the pattern was UNIFORM ACROSS ALL 28: the cache record held the
+  FILE and said `unread`; the bare record held ALL the citations, said
+  `extracted`, and had NO cache_path. Neither referenced the other. So a pass
+  starting from a citation saw no cache and would have re-fetched from a network
+  this environment only half-reaches, while the text sat on disk -- the same
+  defect as the six Canadian Camping records this morning, at 28x. cache_path
+  and char_count folded into the cited record, twin deleted, its note kept.
+  Records 1,759 -> 1,705.
+  THE COUNT MOVED AND THE LOG IS LEFT ALONE: research-log.md records 69 such
+  pairs when p_442 measured them, 68 of them unread-versus-read. 28 remained
+  today; about forty were resolved in between. The number was true when taken.
+  WHAT REMAINS IS THE LARGER HALF, now written into p_303: 76 ORIGIN_URLS HELD
+  BY MORE THAN ONE RECORD ACROSS 174 RECORDS -- the same document under
+  DIFFERENT ids, which the id-level check cannot see and which DOES need facts
+  and wiki citations repointed. The Concordia 12A finding aid is under five ids;
+  the 1941 CFCF broadcast, the Facebook page and the full finding aid under four
+  each. Excluded deliberately: the seven BAnQ records sharing the bare root
+  numerique.banq.qc.ca are different documents whose per-item URLs were never
+  recorded -- a different defect, wanting URLs rather than a merge.
+  f_5606. facts.json v10.18, 5,568 facts. Verify green, nine checks. Timestamp
+  from `date -u` in its own call.

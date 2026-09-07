@@ -1,8 +1,8 @@
 {
-  "version": "10.17",
-  "kb_version": "10.17",
+  "version": "10.18",
+  "kb_version": "10.18",
   "migrated_from": "3.3",
-  "fact_count": 5567,
+  "fact_count": 5568,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100325,6 +100325,18 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.17",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5606",
+      "category": "method",
+      "date_ref": null,
+      "entities": [],
+      "claim": "TWENTY SOURCE IDS HELD BY MORE THAN ONE RECORD, AND TWENTY-EIGHT DOCUMENTS THAT WERE BOTH READ AND UNREAD. p_303's record half, cleared 2026-09-07. TWO DISTINCT DEFECTS, both invisible to every check because both left the citation resolving to SOMETHING. (1) TWENTY SOURCE IDS WERE HELD BY 45 RECORDS -- src_flickr_kanawana by six, src_cca_history and src_samaritanmag_mclean by three each. A [src_] citation to any of them named no single object, and any tool resolving one took whichever record it reached first. Every group turned out to describe ONE document; seventeen of the twenty shared an identical origin_url, and the three that did not had one record holding a URL and the other holding none. Merged field by field under a stated rule -- longest title, most precise date carrying its own precision, longest origin_url with the others kept in the note, most specific type, highest reliability, first non-empty read-state fields -- with every distinct note preserved. NO FACT OR ARTICLE NEEDED REPOINTING, BECAUSE THE ID NEVER CHANGED, WHICH IS EXACTLY WHY NOTHING HAD NOTICED. data_integrity.py's duplicate-source-id check, advisory since it shipped, IS NOW BLOCKING; the blocking path was tested by re-introducing a duplicate. (2) TWENTY-EIGHT DOCUMENTS WERE HELD UNDER TWO IDS AT ONCE, one prefixed `src_cache_` and one not -- src_cache_qahn_howard beside src_qahn_howard, and so on. THE PATTERN WAS PERFECTLY UNIFORM ACROSS ALL 28: the `src_cache_` record held the FILE and was marked `unread`; the bare record held ALL the citations and was marked `extracted`, with no cache_path at all. So each pair asserted that one document had been both read and never read, and neither record referenced the other. The practical damage is the one f_5601 names: anything starting from a citation saw no cache and would have re-fetched from a network this environment only half-reaches, while the text sat on disk. The cache_path and char_count were folded into the cited record and the twin deleted, its own note preserved. THE COUNT MOVED: project-docs/research-log.md records 69 such pairs when p_442 measured them, of which 68 were unread-versus-read; 28 remained today, so about forty were resolved in between. The log's number is left as it was, since it was true when taken. Records: 1,759 to 1,705. STILL OPEN, AND LARGER: 76 origin_urls are held by more than one record across 174 records -- the same document under DIFFERENT ids, which the id-level check cannot see and which does need facts and wiki citations repointed. Among them the QAHN article on the Saint-Adolphe camp under three ids, the 1941 CFCF broadcast under four, the Facebook page under four, and the Concordia 12A finding aid under five.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.18",
       "added_by": "ralph_loop"
     }
   ]

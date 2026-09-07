@@ -145,11 +145,24 @@ def main():
         rec = s if isinstance(s, list) else s['sources']
         sids = [r['source_id'] for r in rec]
         dup = [k for k, v in collections.Counter(sids).items() if v > 1]
+        # BLOCKING SINCE 2026-09-07, when p_303's record half cleared. It shipped
+        # advisory because twenty pre-existing groups -- 45 records for 20 ids,
+        # src_flickr_kanawana alone held by six -- would have failed every build
+        # until the backlog was worked, which trains everyone to ignore the
+        # output. Every group turned out to describe ONE document under two or
+        # more records, and they were merged field by field under a stated rule
+        # (longest title, most precise date with its own precision, longest
+        # origin_url, most specific type, highest reliability, first non-empty
+        # read-state fields), with every distinct note and every other URL kept
+        # in the merged record. No fact or article needed repointing, because
+        # the id never changed -- which is exactly why nothing had noticed.
         if dup:
-            note.append('sources/sources.json: %d source_id(s) held by more than one record; '
-                        'a [src_] citation to any of them is ambiguous. Pre-existing and queued '
-                        'as p_303 -- advisory until that clears, then make this blocking. '
-                        'First few: %s' % (len(dup), sorted(dup)[:5]))
+            bad.append('sources/sources.json: %d source_id(s) held by more than one record; '
+                       'a [src_] citation to any of them is ambiguous, and the checks that '
+                       'resolve a citation will silently take whichever record they reach '
+                       'first. Merge them into one record per document, or give the genuinely '
+                       'different document its own id. First few: %s'
+                       % (len(dup), sorted(dup)[:5]))
 
         # every source_id a fact cites must have a record here. A fact written
         # by hand can invent one, and forty-two of them had, silently, for
