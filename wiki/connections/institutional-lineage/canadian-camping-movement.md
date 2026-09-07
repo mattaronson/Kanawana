@@ -158,7 +158,24 @@ Women were pioneers in their own right:
 - **Mary Hamilton** founded Camp Tanamakoon in Algonquin Park (1925) and authored *The Call of Algonquin: A Biography of a Summer Camp*. She was a founding OCA member.^7
 - **Ferna Halliday** co-founded Camp Ouareau (1922) with Mabel Jamieson and was also an OCA founding member.^7
 
-## Kanawana's Place in the Movement
+## The National Association's Own Record, and Where Kanawana Appears in It
+
+*This section was called "Kanawana's Place in the Movement" until 2026-09-07, and the name had stopped
+describing it. Of its eight thousand words, about seven thousand are the Canadian Camping Association's
+record of itself — what it accredited and what it declined to, its executives, its national days, its
+last years — in which Kanawana appears eleven times across two thousand words in one subsection and
+three times across another two thousand in the next. That is a section about the association with
+Kanawana in it, which is a different thing and a more accurate one. The rename follows this project's
+own [spinout rule](../../../project-docs/spinout-rule.md), whose standing warning is that a long article
+grown by reading a source run issue by issue ends up with headings that mark where the reading stopped
+rather than what the material is; the harm is that the audit tool then reports the section as a
+candidate for the article it names, and the material actually there goes unnamed. **Kanawana's own place
+in the movement is argued in [[history/oldest-camp-question|Is Kanawana the Oldest Camp in Canada?]]; what
+follows is the association's story, read from its magazine, with the camp appearing in it where it
+does.* (Under the hub-and-spoke rule Kanawana's own story belongs in a core folder rather than inside a
+spoke article about another institution. No core article yet gathers the camp's relationship to the national
+movement as such; that is left as Open Question 7 rather than asserted here as a link to something that does
+not exist.)
 
 ### A textbook says Kanawana was first, and it is not enough
 
@@ -514,6 +531,7 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 4. [**Resolved on the connection question, 2026-09-06**; the Camping School half remains partially resolved] ~~No named individual confirmed on both sides of the Kanawana-Nominingue connection.~~ **Hay Finlay** — Kanawana's Senior Section Director in 1922 and co-founder of Camp Nominingue with F. M. Van Wagner in 1924-25 — is that individual, and the evidence for it was in this project's KB before this article's open question was last revised. See the section above. *The correction is recorded rather than quietly made: the question was not unanswered, it was unread.* The rest of the question stands. The QCA/CCA organized a formal Camping School at McGill University from 1937 to 1940, one of the earliest camp leader training programs in Canada. A related "camping evening course" at McGill was held in 1952. No direct Kanawana staff participation has been confirmed, though the institutional overlap is strong. Arthur S. Lamb (1886-1958), a former Vancouver YMCA PE director and Springfield College graduate, directed McGill PE for 37 years (1919-1956) and established Canada's first university PE department — a key institutional bridge between YMCA and university training. McGill PE students attended a "Camp School" at Camp Nominingue (founded 1925) learning camping, paddling, portaging, and axe use in the 1940s-1950s.^8p A newly-identified, previously unflagged Concordia sub-series, P0145/12B05 ("Staff and Counsellors," Kamp Kanawana), is a plausible but untested lead for finding direct staff overlap — not yet examined (2026-07-09). No named individual confirmed on both sides of the connection so far (checked Camp Nominingue counsellor Marc Beique specifically — no Kanawana link found).
 5. [Largely resolved 2026-07-09] What is in the OCA "Kanawana (1940)" brochure file at Trent? The file's precise physical location is now confirmed: Box 1, Folder 5 of the "Camp Brochures and Photographs" series (OCA fonds 72-007), alphabetically between "Glen Mohr" and "Kiawa." No content description exists online beyond this catalog entry — confirmed as a genuine physical-archive-access requirement, not an online research gap.
 6. [Partially resolved] Philip D. Fagans, executive secretary of Ernest Thompson Seton's Woodcraft League of America (headquartered at 13 West 29th St, NYC), visited Camp Kanawana in July 1918 as reported in the *Montreal Gazette* (July 11, 1918).^8q This is the earliest documented Woodcraft League connection. Fagans was previously a YMCA camp director at Trenton NJ and West Side YMCA NYC, and later founded Greenkill Camp in Kingston NY. A Woodcraft League charter cost $3.00 annually; it "certif[ied] that the Tribe is registered at Headquarters" and entitled the tribe to recognize achievements per the *Birch Bark Roll of Woodcraft* and wear League badges.^8q "Almost all [Woodcraft] tribes operated within the YMCA" — the YMCA was the primary institutional host for Woodcraft Indian tribes.^8q The League peaked at ~5,000 members in the 1920s-1930s and dissolved after Seton's death in 1946.^8q The 1923 Kanawana brochure mentions "a large Council Ring where woodcraft meetings are held" but does not explicitly reference the charter, possibly indicating the formal affiliation was being de-emphasized by 1923.^8q
+7. [Important, **new 2026-09-07**] **Should there be a core-folder article on Kanawana and the national camping movement?** Under the hub-and-spoke rule in CLAUDE.md, Kanawana's own story belongs in `history/`, `traditions/` or `site/`, and this article is a spoke about another institution. Yet the camp's relationship to the movement is real and documented — the 1983 National Camping Day poster mailing it took on for the whole country, Derek Walsh as Quebec's regional vice-president, the accreditation regime it worked under, the Ball textbook's claim — and at present that material is scattered across this article, [[history/oldest-camp-question|the oldest-camp question]] and [[connections/institutional-lineage/quebec-camping-association|the Quebec association]]. The question is whether gathering it would produce an article or only a fourth copy; the answer needs the destinations read first, per `project-docs/spinout-rule.md`, not a decision made from this note.
 
 ## Related Articles
 

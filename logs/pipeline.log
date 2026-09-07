@@ -4579,3 +4579,32 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   and this. What remains under the original 107 heading is the 437 fonds IMAGE
   items, which need eyes on page scans and are for the operator.
   Verify green. Timestamp read from `date -u` in its own call.
+
+[2026-09-07T13:01:23Z] p_452: a heading that had stopped describing its contents.
+  NEW: f_5556.
+  canadian-camping-movement.md carried "Kanawana's Place in the Movement" at
+  8,111 words, 42 per cent of the article. Counted subsection by subsection,
+  about SEVEN THOUSAND of those words are the Canadian Camping Association's
+  record of itself: 2,883 words naming Kanawana 14 times, 2,185 naming it 11,
+  and 2,058 naming it THREE. The one subsection densely about the camp is 296
+  words. Renamed to "The National Association's Own Record, and Where Kanawana
+  Appears in It", with the old name and the reason kept in the article.
+  THE HARM THE OLD NAME DID is the one project-docs/spinout-rule.md already
+  names: spinout_audit.py reports a section under the article its HEADING names,
+  so eight thousand words of association history sat in the queue as Kanawana
+  material while the association material went unnamed.
+  TWO CHECKS BEFORE CUTTING, BOTH SAYING DO NOT CUT. The Ball textbook
+  subsection looked like a duplicate of oldest-camp-question.md; reading both
+  showed a deliberate arrangement -- full reasoning here, compressed version
+  with a pointer there, cross-linked both ways. And p_452's item (3), the
+  decline of the camping associations, is ALREADY SPUN OUT into
+  cca-national-office and quebec-camping-association; what remains under those
+  names are pointers. Item (4), the Annuaire, likewise.
+  ONE ERROR MADE AND CORRECTED IN THE SAME MINUTE. The rename note first linked
+  "history/canadian-camping-movement-and-kanawana" as where the core-folder
+  treatment lives. NO SUCH ARTICLE EXISTS. It was written from what the
+  hub-and-spoke rule implies ought to exist rather than from what does -- the
+  same error as deriving a source id from a filename. Removed, and whether that
+  article should exist is now Open Question 7 on the parent, phrased so the
+  answer needs the destinations read rather than assumed.
+  Verify green. Timestamp read from `date -u` in its own call.

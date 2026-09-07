@@ -2,7 +2,7 @@
   "version": "10.09",
   "kb_version": "10.09",
   "migrated_from": "3.3",
-  "fact_count": 5517,
+  "fact_count": 5518,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99475,6 +99475,20 @@
       "sources": [
         "src_ymf_the_montreal_ymca_1851_2001_anniversary_publication_fr"
       ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5556",
+      "category": "meta",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "A SECTION HEADING THAT HAD STOPPED DESCRIBING ITS CONTENTS, FOUND BY MEASURING RATHER THAN READING THE NAME. canadian-camping-movement.md carried a section called \"Kanawana's Place in the Movement\" running to 8,111 words -- 42 per cent of the article and the largest single block in it. Counted subsection by subsection, ABOUT SEVEN THOUSAND OF THOSE WORDS ARE THE CANADIAN CAMPING ASSOCIATION'S RECORD OF ITSELF: 'What the association did, and what it chose not to regulate' (2,883 words, Kanawana named 14 times), 'The association's own record of itself, 1982-1985' (2,185 words, 11 times), 'The magazine's last three years, 1985-1987' (2,058 words, THREE times). The one subsection densely about the camp is 296 words long. RENAMED to 'The National Association's Own Record, and Where Kanawana Appears in It', with a note saying what it was called and why it changed. THE HARM THE OLD NAME DID is the one project-docs/spinout-rule.md already names: spinout_audit.py reports a long section as a candidate for the article its HEADING names, so eight thousand words of association history were being queued as Kanawana material while the association material went unnamed and unfindable. The cause is accretion -- an article grown by reading a magazine run issue by issue ends with headings marking where the reading stopped. TWO THINGS CHECKED BEFORE ANY CUT AND BOTH SAID DO NOT CUT. The Ball textbook subsection looked like a duplicate of the same argument in history/oldest-camp-question.md; reading both showed a deliberate arrangement -- the full three-reason reasoning here, a compressed version with a pointer there, cross-linked both ways -- so nothing was moved. And p_452's item (3), 'the decline of the camping associations', turns out ALREADY SPUN OUT, into cca-national-office and quebec-camping-association; the remaining subsections are pointers to them. ONE ERROR MADE AND CORRECTED IN THE SAME MINUTE: the rename note first linked 'history/canadian-camping-movement-and-kanawana' as where the core-folder treatment lives. NO SUCH ARTICLE EXISTS. It was written from what the hub-and-spoke rule implies OUGHT to exist rather than from what does -- the same error as citing a source from what its filename predicts. The link was removed and the question of whether that article should exist is now Open Question 7 on the parent, phrased so the answer requires reading the destinations rather than being assumed from this note.",
+      "sources": [],
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.09",
