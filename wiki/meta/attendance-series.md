@@ -1,7 +1,7 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 35*
-*Last Updated: 2026-09-06 (the 1916 fee and season, from a school magazine advertisement)*
+*Status: draft | Sources: 36*
+*Last Updated: 2026-09-07 (who was in charge in 1913, from the same sentence as the figure)*
 
 ## Overview
 
@@ -40,7 +40,7 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 |---|---|---|---|
 | 1910 | *(capacity 70)* | — | Opening season, 1 July – 15 Aug, under **W. J. Holliday** — whom the 1931 report calls "**the first camp director**" |
 | 1912 | 187 | — | "Last summer **123 men and 187 boys** secured a most delightful vacation in these helpful surroundings" — the 123 is the men's camp at Lac St. Joseph the same summer, and the two must not be added^31 |
-| 1913 | 162 | — | |
+| 1913 | 162 | — | **In charge of the season: D. J. Evans, Harold Cross and H. A. Lordly, "for successive portions."** Open July and August. The staff names sit in the same sentence as this figure and went unextracted until 2026-09-07; Cross would direct the camp a decade later^36 |
 | 1915 | 167 | — | 26 June – 25 Aug |
 | 1916 | 175 | — | Season 24 June – 12 August; $5.00 a week^11 |
 | 1917 | 168 | — | The report calls this "a splendid increase over last year." **It was a decrease** — 175 the year before ⚠️ |
@@ -411,6 +411,7 @@ Three things stand out and none of them is visible from any single article.
 33. YMCA of Montreal, **114th Annual Report** [src_ymf_sgw_ymca_annual_report_1965]. Its title page states the span outright — "1965 / 114th ANNUAL REPORT / JUNE 1, 1965 – MAY 31, 1966" — read by eye 2026-09-06 while working on Camp Otoreke. See [f_5203].
 34. YMCA of Montreal annual report for the year ending 30 April 1923 [src_ymf_sgw_ymca_annual_report_1922_1923] — its Verdun branch narrative and its metropolitan enrolment table, which do not agree. Read 2026-09-06 under p_454. See [f_5173].
 35. National review of 1967, *National Council Bulletin* Vol. 41 No. 3 (1968), YMCA of Canada [src_ia_ymca_national_council_bulletin_41_03]. Internet Archive item `national-council-bulletin-vol-41-no-03`, in the `ymca-montreal-fonds` collection. Found 2026-09-07 by the enumeration at [f_5243]. See [f_5253].
+36. YMCA of Montreal, *Sixty-Third Annual Report, Year ending April 30th, 1914* [src_ymf_sgw_ymca_annual_report_1914]. The sentence this row's figure comes from also names the season's staff, which had not been extracted until 2026-09-07. See [f_5282] and [f_5285].
 
 ## Research Notes
 

@@ -1,8 +1,8 @@
 {
-  "version": "8.98",
-  "kb_version": "8.98",
+  "version": "9.00",
+  "kb_version": "9.00",
   "migrated_from": "3.3",
-  "fact_count": 5239,
+  "fact_count": 5247,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -94495,6 +94495,157 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.98",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5278",
+      "category": "people",
+      "date_ref": "1915-1920",
+      "entities": [
+        "John G. MacKinnon",
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE CAMP'S DIRECTOR AND MONTREAL'S CENTRAL BRANCH BOYS' WORKER WERE THE SAME MAN FROM 1916 TO 1919, AND TWO INDEPENDENT RECORDS SAY SO. directors-index.md already had J. G. MacKinnon directing Kanawana in 1916, 1917, 1918 (to 3 August) and 1919 -- 'Mr. MacKinnon acted as Leader throughout' in 1916, 'Mr. MacKinnon has been appointed Director for this season' in 1919 -- all of it from the YMCA of Montreal's own annual reports. The Year Book's Directory of Associations, a separate publication, gives 'Central Br. ... Boys, John G. MacKinnon' in the 1915-16, 1916-17, 1917-18 AND 1918-19 volumes, and by the 1920-21 volume the post has passed to R. E. G. Davis while MacKinnon has moved up to Industrial Secretary. THE TWO RUNS COINCIDE ALMOST EXACTLY. THIS QUALIFIES THE CAUTION IN f_5268, WHICH SAID IT WAS NOT SETTLED WHETHER THE MAN OVER THE CAMP WAS THE CENTRAL BRANCH'S BOYS' WORKER: for 1916-1919 it is settled, by the two records agreeing on one man. It does not settle the earlier years -- Hollinshead in 1910-12 and D. J. Evans in 1912-14 hold the same post with no camp record attached to either -- but it makes the Central Branch boys' post the first place to look for them, rather than one possibility among several.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.99",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5279",
+      "category": "people",
+      "date_ref": "1917-1922",
+      "entities": [
+        "W. J. Holliday",
+        "Thomas S. Smith",
+        "YMCA of Montreal"
+      ],
+      "claim": "W. J. HOLLIDAY DISAPPEARS FROM THE MONTREAL ROSTER BETWEEN THE 1916-17 AND 1917-18 VOLUMES, AND IS BACK BY 1922. He is secretary of the North Branch, 2300 Park Ave., in every volume from 1911-12 through 1916-17 (f_5267). The 1917-18 volume gives that post to THOMAS S. SMITH, and the 1918-19 volume gives it to Smith as well; Holliday is not in the Montreal block of either. f_4968 already has him back as secretary of the same North Branch in the 1922 volume. SO THERE IS A GAP OF ABOUT FIVE YEARS IN THE MIDDLE OF THE CAREER OF THE MAN THE ASSOCIATION'S 1931 REPORT CALLS KANAWANA'S FIRST CAMP DIRECTOR, and it opens in the last year of the First World War. THAT IS A NULL IN ONE PUBLICATION AND NOT A FINDING ABOUT WHERE HE WENT. The 1919-20 and 1920-21 volumes were read at the North Branch and Westmount blocks but their Central and association-level lines were not fully checked for him, so the gap's far end is soft. War service is the obvious hypothesis and is not claimed here.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.99",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5280",
+      "category": "people",
+      "date_ref": "1914-1921",
+      "entities": [
+        "Arthur L. Walsh",
+        "J. G. Cruickshank",
+        "Charles G. Hewett",
+        "Geoffrey Guiton",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE NORTH BRANCH BOYS' WORKERS, YEAR BY YEAR, AFTER HAROLD C. CROSS LEFT: Arthur L. Walsh in the 1914-15 and 1915-16 volumes; S. Burton Cuthbert in 1916-17; J. G. Cruickshank in 1917-18 and 1918-19; Charles G. Hewett in 1919-20; and Geoffrey Guiton in 1920-21, with Robert E. Blake and G. S. Mooney as assistants. CRUICKSHANK AND HEWETT OCCUR NOWHERE ELSE IN THIS PROJECT and Guiton occurs once. This is the branch Cross worked at from 1911 to 1914 (f_5269) and the branch Holliday ran as secretary from 1911 to 1917 (f_5267), so its staff list is worth having whole even though no camp connection is documented for any of these four men.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.99",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5281",
+      "category": "people",
+      "date_ref": "1915-1921",
+      "entities": [
+        "Grant D. Brandon",
+        "Percy D. Brandon",
+        "Kamp Kanawana"
+      ],
+      "claim": "GRANT D. BRANDON WAS ON THE YMCA OF MONTREAL'S ASSOCIATION-LEVEL STAFF BY THE 1918-19 VOLUME, THREE YEARS BEFORE HE DIRECTED THE CAMP. The 1918-19 Directory gives, under Central Br., 'Community, Grant D. Brandon', and the 1920-21 volume moves him up to the association-level list alongside R. Gordon Burgoyne: 'Community, Grant D. Brandon'. This project's earliest sighting of him was the 1921 volume (already read from the Internet Archive), and the 1921 brochure names him as that season's camp director. So the man who ran Kanawana in 1921 was the association's COMMUNITY secretary, not its boys' work secretary -- one more instance of the camp directorship being separable from the boys' work post. A NAME TO KEEP APART: PERCY D. BRANDON is a different man in the same rosters, Assistant Physical at Central in 1915-16 and Boys Physical in 1916-17 and 1917-18. Two Brandons on one association's staff; nothing here establishes any relationship between them and none should be assumed.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.99",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5282",
+      "category": "people",
+      "date_ref": "1913",
+      "entities": [
+        "Harold C. Cross",
+        "D. J. Evans",
+        "H. A. Lordly",
+        "Kamp Kanawana"
+      ],
+      "claim": "HAROLD C. CROSS WAS IN CHARGE OF PART OF THE 1913 KANAWANA SEASON, TWELVE YEARS BEFORE THE DIRECTORSHIP THIS PROJECT KNEW ABOUT. The YMCA of Montreal's Sixty-Third Annual Report, for the year ending 30 April 1914, reports on the summer inside that year: 'The Boys' Camp at Lake Kanawana was open for July and August with 162 boys, apart from visitors, IN CHARGE OF MESSRS. D. J. EVANS, HAROLD CROSS, AND H. A. LORDLY FOR SUCCESSIVE PORTIONS OF THE SEASON.' The year-end regime makes that summer 1913, not 1914. IT FITS THE YEAR BOOK EXACTLY: Cross is Montreal's North Branch boys' worker through the 1913-14 volume and General Secretary at Charlottetown by 1914-15 (f_5269), so the 1913 season was his last Montreal summer before leaving for Prince Edward Island. This is the EARLIEST CAMP CONNECTION on record for him by more than a decade, and it means the man who came back in the mid-1920s to direct Kanawana had already run part of a season at it. Evans was the association's Boys' Secretary from August 1913 and Lordly joined the Boys' Department that same July, so all three men named were Boys' Department staff sharing a season, which is what 'successive portions' describes.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1914",
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.00",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5283",
+      "category": "people",
+      "date_ref": "1910-1913",
+      "entities": [
+        "M. G. Brooks",
+        "Kenneth J. Hollinshead",
+        "D. J. Evans",
+        "H. A. Lordly",
+        "W. J. Holliday"
+      ],
+      "claim": "THE MONTREAL BOYS' SECRETARYSHIP, 1910 TO 1913, IN THE ASSOCIATION'S OWN WORDS -- THE OFFICE THAT RAN THE CAMP. The 1910 annual report: 'Next month Mr. K. J. HOLLINSHEAD, OF ALBION COLLEGE, MICHIGAN, will take up the Boys' Secretaryship, which MR. MURRAY BROOKS RESIGNED TO GO AS STRATHCONA HALL'S REPRESENTATIVE IN THE FOREIGN WORK IN CEYLON.' The 1913 annual report: 'Mr. K. J. Hollinshead LEAVES ON AUGUST 1ST to take up Community Work, and WILL BE SUCCEEDED BY MR. D. J. EVANS, FORMERLY PROVINCIAL SECRETARY OF THE BOY SCOUTS' MOVEMENT. Mr. H. A. LORDLY joined the Boys' Department staff in July, SUCCEEDING MR. H. W. RITTENHOUSE.' SO THE SUCCESSION IS: M. G. ('Murray') Brooks to mid-1910; Kenneth J. Hollinshead from mid-1910 to 1 August 1913; D. J. Evans from August 1913. That matches the Year Book's Central Department 'Boys' line volume for volume (f_5268) and puts dates and biographies on three men who were, until today, nowhere in this project at all. THE M. G. BROOKS QUESTION IS ANSWERED IN PASSING: he is Murray Brooks, he resigned rather than being displaced, and he left for missionary work in Ceylon under Strathcona Hall, McGill's student YMCA.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1910",
+        "src_ymf_sgw_ymca_annual_report_1913"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.00",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5284",
+      "category": "people",
+      "date_ref": "1910",
+      "entities": [
+        "W. J. Holliday",
+        "Kamp Kanawana"
+      ],
+      "claim": "WHY HOLLIDAY LEFT CENTRAL FOR THE FAIRMOUNT BRANCH IN 1910, AND IT WAS NOT A DEMOTION. The 1910 annual report, in the same paragraph that announces Hollinshead's arrival: 'The Central Association will also lose, with regret, Mr. Holliday's services, as IN THE EARLY FALL HE GOES AS SECRETARY TO THE FAIRMOUNT BRANCH, PREPARING THE WAY FOR THE LARGER WORK IN THE ANNEX, WHICH THE NEW BUILDING WILL ENTAIL.' The Year Book's 1910-11 volume duly lists him as Fairmount Avenue's secretary (f_5267). THIS SETTLES A QUESTION directors-index.md HAD LEFT DELIBERATELY OPEN: it recorded his 1909 change of title from Boys' Work Director to plain 'Asst.' and said carefully that a title can change for many reasons and the volume gives none. The association's own report gives one -- he was being sent to open a branch, 'with regret', ahead of a new building. So the sequence for the man who opened Kanawana's Lac Wilson site in the summer of 1910 is: boys' work director to 1908, assistant through 1909 and into 1910, opens the new camp site that summer, and goes to Fairmount in the early autumn. He was moving up and out, not down.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1910",
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.00",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5285",
+      "category": "method",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "YMCA of Montreal",
+        "Kamp Kanawana"
+      ],
+      "claim": "A NAME YOU DO NOT HAVE IS A SEARCH YOU CANNOT RUN, AND TODAY IS THE PROOF. Every one of the findings in f_5282, f_5283 and f_5284 comes from Montreal annual reports THAT HAVE BEEN IN THIS PROJECT'S CACHE FOR WEEKS. Nothing was fetched to get them. What was missing was the names: Hollinshead, Lordly, Daggett and Murray Brooks occurred nowhere in this project, so nobody could have grepped for them, and the passages sat unread in files marked read. THE SHARPEST INSTANCE: the 1913 attendance figure of 162 in attendance-series.md was taken from THE VERY SENTENCE that names D. J. Evans, Harold Cross and H. A. Lordly as the season's staff. The number was extracted and the three names in the same clause were left. THE PRACTICAL RULE: when an outside source hands you a new name for an institution this project already holds documents about, grep the cache for it IMMEDIATELY -- before doing anything else with it. The reverse also follows, and is less comfortable: a cached document marked 'extracted' has been read for the questions someone had at the time, and a new question can find new material in it without any new source at all.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1914",
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.00",
       "added_by": "ralph_loop"
     }
   ]

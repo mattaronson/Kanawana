@@ -296,3 +296,98 @@ Colin R. McKay at Kitchener the year before he turns up at Montreal running Otor
 
 STILL UNCHECKED: the 1885 (record 11848) and 1889 (13974) volumes, both in the collection, both
 unread. They are the last two nineteenth-century holes in this series.
+
+
+==========================================================================================
+THIRD PASS — THE WAR YEARS' MONTREAL BLOCK, WHICH THE FIRST PASS DID NOT REACH
+==========================================================================================
+
+THE ONE THAT MATTERS: THE CAMP'S DIRECTOR AND CENTRAL'S BOYS' WORKER ARE THE SAME MAN, 1916-1919
+  Year Book, Central Br., Boys:  John G. MacKinnon in 1915-16, 1916-17, 1917-18 and 1918-19.
+  Annual reports (already held): MacKinnon directs Kanawana in 1916, 1917, 1918 (to 3 August)
+                                 and 1919 -- "Mr. MacKinnon has been appointed Director for
+                                 this season."
+Two publications with no view of each other, one man, the same four years. By the 1920-21
+volume the post has passed to R. E. G. Davis and MacKinnon is Industrial Secretary.
+THIS QUALIFIES THE CAUTION WRITTEN IN THE FIRST PASS. It remains true that a branch boys' post
+and an association-level Boys' Work directorship are two different offices. But for 1916-1919
+the question of which one the camp answered to has an answer, and it makes the Central Branch
+boys' post the first place to look for Hollinshead (1910-12) and D. J. Evans (1912-14).
+
+HOLLIDAY VANISHES, 1917 TO 1922
+  1911-12 to 1916-17   North Br., 2300 Park Ave., Secy., W. J. Holliday
+  1917-18              North Br., Secy., THOMAS S. SMITH   -- Holliday not in the Montreal block
+  1918-19              North Br., Secy., Thomas S. Smith   -- Holliday not in the Montreal block
+  1922 (already held)  North Br., 2300 Park Ave., Secy., W. J. Holliday
+A five-year hole in the middle of the career of the man the 1931 report calls the camp's first
+director, opening in the last year of the war. IT IS A NULL IN ONE PUBLICATION. The far end is
+soft: the 1919-20 and 1920-21 volumes were read at their North Branch and Westmount blocks, not
+swept whole for the name.
+
+NORTH BRANCH BOYS' WORKERS AFTER CROSS
+  1914-15, 1915-16   Arthur L. Walsh
+  1916-17            S. Burton Cuthbert
+  1917-18, 1918-19   J. G. Cruickshank
+  1919-20            Charles G. Hewett
+  1920-21            Geoffrey Guiton, with Robert E. Blake and G. S. Mooney as assistants
+Cruickshank and Hewett occur nowhere else in this project. This is Cross's branch (1911-14) and
+Holliday's branch (1911-17), so the list is worth having whole; no camp connection is documented
+for any of these four.
+
+GRANT D. BRANDON, EARLIER THAN THIS PROJECT HAD HIM
+  1918-19   Central Br., "Community, Grant D. Brandon"
+  1920-21   association level, "Community, R. Gordon Burgoyne / Community, Grant D. Brandon"
+The project's earliest sighting was the 1921 volume. He directs Kanawana in 1921, so THE 1921
+CAMP DIRECTOR WAS THE ASSOCIATION'S COMMUNITY SECRETARY, not its boys' work secretary -- one
+more case of the camp directorship sitting apart from the boys' work post.
+KEEP APART: PERCY D. BRANDON is a different man in the same rosters -- Assistant Physical at
+Central in 1915-16, Boys Physical in 1916-17 and 1917-18. Two Brandons, no established relation.
+
+FINDING THE MONTREAL BLOCK IN THE LATER VOLUMES: an exact-phrase search for "D. A. Budge" still
+works (he is Consulting Secretary into the 1920s), and "Westmount Br" is a good second probe
+since the Montreal block always runs Central, North, Westmount, R. R. in that order.
+
+
+==========================================================================================
+FOURTH PASS — AND THIS ONE FETCHED NOTHING
+==========================================================================================
+
+Every finding below comes from YMCA of Montreal annual reports already in this project's cache,
+in files marked read. The Year Book's contribution was the NAMES. Hollinshead, Lordly, Daggett
+and Murray Brooks occurred nowhere in this project, so nobody could grep for them.
+
+FROM THE 1910 ANNUAL REPORT (sgw-ymca-annual-report-1910.txt):
+  "Next month Mr. K. J. HOLLINSHEAD, OF ALBION COLLEGE, MICHIGAN, will take up the Boys'
+   Secretaryship, which MR. MURRAY BROOKS RESIGNED TO GO AS STRATHCONA HALL'S REPRESENTATIVE
+   IN THE FOREIGN WORK IN CEYLON."
+  "The Central Association will also lose, with regret, MR. HOLLIDAY'S SERVICES, AS IN THE EARLY
+   FALL HE GOES AS SECRETARY TO THE FAIRMOUNT BRANCH, PREPARING THE WAY FOR THE LARGER WORK IN
+   THE ANNEX, WHICH THE NEW BUILDING WILL ENTAIL."
+
+FROM THE 1913 ANNUAL REPORT:
+  "Mr. K. J. Hollinshead LEAVES ON AUGUST 1ST to take up Community Work, and will be succeeded
+   by MR. D. J. EVANS, FORMERLY PROVINCIAL SECRETARY OF THE BOY SCOUTS' MOVEMENT. MR. H. A.
+   LORDLY joined the Boys' Department staff in July, SUCCEEDING MR. H. W. RITTENHOUSE."
+
+FROM THE 1914 ANNUAL REPORT (year ending 30 April 1914, so the summer of 1913):
+  "The Boys' Camp at Lake Kanawana was open for July and August with 162 boys, apart from
+   visitors, IN CHARGE OF MESSRS. D. J. EVANS, HAROLD CROSS, AND H. A. LORDLY FOR SUCCESSIVE
+   PORTIONS OF THE SEASON."
+  (The men's camp at Lake St. Joseph the same summer: H. C. Patterson, 160 men, 5 July to
+   2 September.)
+
+WHAT THAT SETTLES
+  - M. G. Brooks is MURRAY BROOKS; he RESIGNED, and went to Ceylon. p_466 closed.
+  - The Boys' Secretaryship: Brooks -> mid-1910 Hollinshead -> 1 Aug 1913 D. J. Evans.
+  - Holliday's 1909-10 move to Fairmount was a posting to open a branch ahead of a new
+    building, "with regret" — not a demotion. directors-index.md had deliberately left the
+    reason open; the association supplied one.
+  - HAROLD C. CROSS WAS AT KANAWANA IN 1913, twelve years before his directorship.
+
+AND THE UNCOMFORTABLE PART, WHICH IS THE REAL LESSON
+The 162-boy figure in that last quotation has been in attendance-series.md for months. It was
+taken from the sentence that names three men. The number came out; the names stayed in.
+A DOCUMENT MARKED "extracted" HAS BEEN READ FOR THE QUESTIONS SOMEBODY HAD AT THE TIME. That is
+not the same as having been read. And the corollary is the practical rule: WHEN AN OUTSIDE
+SOURCE HANDS YOU A NEW NAME FOR AN INSTITUTION THIS PROJECT ALREADY HOLDS DOCUMENTS ABOUT, GREP
+THE CACHE FOR IT IMMEDIATELY, before doing anything else with it.
