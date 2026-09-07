@@ -1,8 +1,8 @@
 {
-  "version": "9.45",
-  "kb_version": "9.45",
+  "version": "9.46",
+  "kb_version": "9.46",
   "migrated_from": "3.3",
-  "fact_count": 5336,
+  "fact_count": 5337,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -96261,6 +96261,22 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.45",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5375",
+      "category": "methodology",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "kb/facts.json",
+        "coverage analysis",
+        "John Latimer"
+      ],
+      "claim": "A COVERAGE ANALYSIS OF THE WHOLE KB: 2,846 OF 5,333 FACTS (53%) ARE CITED BY NO ARTICLE, AND THAT IS A POLICY OUTCOME RATHER THAN A DEFECT. Of the orphans, 1,882 are in substantive categories; they cluster overwhelmingly on the CANADIAN CAMPING MOVEMENT -- 405 on the Canadian Camping Association, 136 on the Quebec Camping Association, 85 on the Ontario Camping Association -- which is the body of material the word-for-word read of Canadian Camping produced and which p_402 DECIDED TO FOLD RATHER THAN SPAWN STUBS FOR. So this is the steady state that decision produces, not a gap in the wiki. NO ENTITY-LEVEL GAP EXISTS: every clustered entity is discussed in at least one article. TWO APPARENT ZEROES ARE INSTRUMENT ARTEFACTS AND ARE RECORDED SO A LATER ANALYSIS DOES NOT OVER-REACT. 'Association des camps du Quebec' (65 orphan facts) matched no article because the KB entity string is UNACCENTED and the wiki writes 'Quebec' with an accent; the body is discussed in at least three articles. 'Canadian Camping (magazine)' (22) matched none because the parenthesised form is an entity label and nothing else; fifty-nine articles discuss the magazine. THE MEASUREMENT WAS EXACT-STRING AND THE WORLD IS NOT. THE ONE CLUSTER WORTH A DECISION IS JOHN LATIMER: 82 facts, 79 of them uncited, spanning 1955 to 1978, mentioned in twelve articles and the subject of none -- national chairman of the CCA Centenary Journey Committee, the 1967 relay Kanawana paddled a leg of. Raised as p_480 rather than acted on, because p_402's precedent points at folding and the volume points at an article, and that is an editorial call.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.46",
       "added_by": "ralph_loop"
     }
   ]
