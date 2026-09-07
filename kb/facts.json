@@ -1,8 +1,8 @@
 {
-  "version": "10.95",
-  "kb_version": "10.95",
+  "version": "10.96",
+  "kb_version": "10.96",
   "migrated_from": "3.3",
-  "fact_count": 5668,
+  "fact_count": 5669,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -72,9 +72,9 @@
     },
     {
       "fact_id": "f_0005",
-      "claim": "Camp Kanawana was the first residential camp in Quebec",
+      "claim": "Camp Kanawana was the first residential camp in Quebec || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_histoire_fr_2026"
       ],
       "confidence": "stated",
       "category": "founding",
@@ -89,9 +89,9 @@
     },
     {
       "fact_id": "f_0006",
-      "claim": "Billy Ball was the first camp leader in 1894",
+      "claim": "Billy Ball was the first camp leader in 1894 || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_histoire_fr_2026"
       ],
       "confidence": "stated",
       "category": "founding",
@@ -205,9 +205,9 @@
     },
     {
       "fact_id": "f_0013",
-      "claim": "The Page family sold the land for the current Saint-Sauveur site to the YMCA",
+      "claim": "The Page family sold the land for the current Saint-Sauveur site to the YMCA || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_histoire_fr_2026"
       ],
       "confidence": "stated",
       "category": "founding",
@@ -223,9 +223,9 @@
     },
     {
       "fact_id": "f_0014",
-      "claim": "The YMCA acquired the larger site from the Page family at Saint-Sauveur-des-Monts circa 1910",
+      "claim": "The YMCA acquired the larger site from the Page family at Saint-Sauveur-des-Monts circa 1910 || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_histoire_fr_2026"
       ],
       "confidence": "stated",
       "category": "founding",
@@ -364,9 +364,9 @@
     },
     {
       "fact_id": "f_0022",
-      "claim": "Camp Kanawana is located approximately 90km north of Montreal, in Saint-Sauveur, in the Laurentians",
+      "claim": "Camp Kanawana is located approximately 90km north of Montreal, in Saint-Sauveur, in the Laurentians || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text. NOTE ADDED IN THE SAME PASS: the facilities page does NOT say 90 km. It says the camp is 'only 45 minutes north of Montreal' and 'located in Saint-Sauveur on 550 acres'. The 90 km figure is CBC's, recorded at f_0925; this fact attributed to the YMCA website a number the website does not print.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_facilities_2026"
       ],
       "confidence": "stated",
       "category": "geography",
@@ -3251,9 +3251,9 @@
     },
     {
       "fact_id": "f_0193",
-      "claim": "The L&V Games arrived at Camp Kanawana in 1947 (confirmed: YMCA official history says 78th edition in 2025)",
+      "claim": "The L&V Games arrived at Camp Kanawana in 1947 (confirmed: YMCA official history says 78th edition in 2025) || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_histoire_fr_2026"
       ],
       "confidence": "stated",
       "category": "lv_games",
@@ -6185,9 +6185,9 @@
     },
     {
       "fact_id": "f_0370",
-      "claim": "Pine Crest Games started in 1940; Kanawana L&V Games adopted from Pine Crest starting 1947 (~7-year lag)",
+      "claim": "Pine Crest Games started in 1940; Kanawana L&V Games adopted from Pine Crest starting 1947 (~7-year lag) || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text. The Pine Crest half of this claim is NOT on the Kanawana history page, which says only that 'le camp Pinecrest inspire la creation de ces jeux'. The 1940 Pine Crest start date comes from elsewhere and is not carried by this source.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_histoire_fr_2026"
       ],
       "confidence": "stated",
       "category": "lv_games",
@@ -6285,9 +6285,9 @@
     },
     {
       "fact_id": "f_0376",
-      "claim": "YMCA Quebec discontinued day camps (including holiday/spring break camps) as of fall 2025; Kanawana summer camp continues to operate",
+      "claim": "YMCA Quebec discontinued day camps (including holiday/spring break camps) as of fall 2025; Kanawana summer camp continues to operate || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_day_camps_end_2025"
       ],
       "confidence": "stated",
       "category": "context",
@@ -6302,7 +6302,7 @@
     },
     {
       "fact_id": "f_0377",
-      "claim": "Camp Kanawana 120th anniversary reunion held in 2014, consistent with 1894 founding",
+      "claim": "Camp Kanawana 120th anniversary reunion held in 2014, consistent with 1894 founding || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, which stands for the whole of ymcaquebec.org and whose cached text is the French HOMEPAGE, not the page the claim came from. Every page this project has since cached from that site was searched for this claim's distinctive terms and none carries it. THE LIKELIEST EXPLANATION IS THAT THE PAGE NO LONGER EXISTS IN THAT FORM: the site was rebuilt some time before 2026, and the current alumni page is about volunteer recognition rather than award recipients. RECOVERING THIS MEANS THE WAYBACK MACHINE, not a re-read of the live site. The claim is left standing and the citation is left as the catch-all rather than being pointed at a guessed URL, which would be worse.",
       "sources": [
         "src_ymca_website"
       ],
@@ -6318,9 +6318,9 @@
     },
     {
       "fact_id": "f_0378",
-      "claim": "Current Kanawana activities include archery, rope courses, rock climbing, water trampolining, paddle boarding, theatre, music, arts and crafts, nature, dance, survival techniques, woodworking",
+      "claim": "Current Kanawana activities include archery, rope courses, rock climbing, water trampolining, paddle boarding, theatre, music, arts and crafts, nature, dance, survival techniques, woodworking || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_session_pages_2026"
       ],
       "confidence": "stated",
       "category": "programs",
@@ -6334,9 +6334,9 @@
     },
     {
       "fact_id": "f_0379",
-      "claim": "Kanawana daily schedule includes 'Interest Groups' (camper-chosen activities), cabin/tent group time, and 'General Swim'",
+      "claim": "Kanawana daily schedule includes 'Interest Groups' (camper-chosen activities), cabin/tent group time, and 'General Swim' || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_session_pages_2026"
       ],
       "confidence": "stated",
       "category": "programs",
@@ -6350,7 +6350,7 @@
     },
     {
       "fact_id": "f_0380",
-      "claim": "Kanawana is a technology-free camp",
+      "claim": "Kanawana is a technology-free camp || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, which stands for the whole of ymcaquebec.org and whose cached text is the French HOMEPAGE, not the page the claim came from. Every page this project has since cached from that site was searched for this claim's distinctive terms and none carries it. THE LIKELIEST EXPLANATION IS THAT THE PAGE NO LONGER EXISTS IN THAT FORM: the site was rebuilt some time before 2026, and the current alumni page is about volunteer recognition rather than award recipients. RECOVERING THIS MEANS THE WAYBACK MACHINE, not a re-read of the live site. The claim is left standing and the citation is left as the catch-all rather than being pointed at a guessed URL, which would be worse.",
       "sources": [
         "src_ymca_website"
       ],
@@ -6912,7 +6912,7 @@
     },
     {
       "fact_id": "f_0412",
-      "claim": "Camp Kanawana (as Camp Jubilee, 1894) is Canada's second-oldest residential summer camp after Big Cove (1889), and Quebec's first residential summer camp. Both are YMCA camps. [SUPERSEDED 2026-09-05 as to the national ranking, which this project has withdrawn: Big Cove's own date ranges over 1889-1891 and YM-YWCA Camp Stephens claims a start in 1891 (f_4665), while a Kanawana founder dates the same Lake of the Woods camping to 1894 (f_4666). Three of the four candidate dates now fall in 1889-1891 (f_4668). The Quebec claim in this fact stands unaffected; the second-oldest claim does not. Preserved, not deleted; see c_031.]",
+      "claim": "Camp Kanawana (as Camp Jubilee, 1894) is Canada's second-oldest residential summer camp after Big Cove (1889), and Quebec's first residential summer camp. Both are YMCA camps. [SUPERSEDED 2026-09-05 as to the national ranking, which this project has withdrawn: Big Cove's own date ranges over 1889-1891 and YM-YWCA Camp Stephens claims a start in 1891 (f_4665), while a Kanawana founder dates the same Lake of the Woods camping to 1894 (f_4666). Three of the four candidate dates now fall in 1889-1891 (f_4668). The Quebec claim in this fact stands unaffected; the second-oldest claim does not. Preserved, not deleted; see c_031.] || SOURCE NOTE 2026-09-07 (p_489): the src_ymca_website citation on this fact is the site-level catch-all and was left in place deliberately. This fact is a supersession or resolution record rather than a page-level extraction, and its weight rests on the other sources cited beside it.",
       "sources": [
         "src_wikipedia_big_cove",
         "src_ymca_website"
@@ -7017,7 +7017,7 @@
     },
     {
       "fact_id": "f_0418",
-      "claim": "After Stuart McLean's death in 2017, his family established the Stuart McLean Camp Kanawana Fund, which helps children attend camp who lack financial means. The fund raises over $150,000 per year.",
+      "claim": "After Stuart McLean's death in 2017, his family established the Stuart McLean Camp Kanawana Fund, which helps children attend camp who lack financial means. The fund raises over $150,000 per year. || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, which stands for the whole of ymcaquebec.org and whose cached text is the French HOMEPAGE, not the page the claim came from. Every page this project has since cached from that site was searched for this claim's distinctive terms and none carries it. THE LIKELIEST EXPLANATION IS THAT THE PAGE NO LONGER EXISTS IN THAT FORM: the site was rebuilt some time before 2026, and the current alumni page is about volunteer recognition rather than award recipients. RECOVERING THIS MEANS THE WAYBACK MACHINE, not a re-read of the live site. The claim is left standing and the citation is left as the catch-all rather than being pointed at a guessed URL, which would be worse.",
       "sources": [
         "src_ymca_website"
       ],
@@ -7034,7 +7034,7 @@
     },
     {
       "fact_id": "f_0419",
-      "claim": "Terry 'Aislin' Mosher, the Montreal Gazette editorial cartoonist, was a camper at Camp Kanawana in 1952-1953. He received the camp's 'Pip' Alumni Award in 2015 and returned to camp after 60+ years.",
+      "claim": "Terry 'Aislin' Mosher, the Montreal Gazette editorial cartoonist, was a camper at Camp Kanawana in 1952-1953. He received the camp's 'Pip' Alumni Award in 2015 and returned to camp after 60+ years. || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, which stands for the whole of ymcaquebec.org and whose cached text is the French HOMEPAGE, not the page the claim came from. Every page this project has since cached from that site was searched for this claim's distinctive terms and none carries it. THE LIKELIEST EXPLANATION IS THAT THE PAGE NO LONGER EXISTS IN THAT FORM: the site was rebuilt some time before 2026, and the current alumni page is about volunteer recognition rather than award recipients. RECOVERING THIS MEANS THE WAYBACK MACHINE, not a re-read of the live site. The claim is left standing and the citation is left as the catch-all rather than being pointed at a guessed URL, which would be worse.",
       "sources": [
         "src_ymca_website"
       ],
@@ -7051,7 +7051,7 @@
     },
     {
       "fact_id": "f_0420",
-      "claim": "Philip 'Pip' Caddell (1913-2004) was a camper at Camp Kanawana in 1928. His grandson James Caddell (1973-2005) was a camper and counselor in the 1980s-1990s. Andrew Caddell sponsors the 'Pip' Alumni Award in Philip's honour.",
+      "claim": "Philip 'Pip' Caddell (1913-2004) was a camper at Camp Kanawana in 1928. His grandson James Caddell (1973-2005) was a camper and counselor in the 1980s-1990s. Andrew Caddell sponsors the 'Pip' Alumni Award in Philip's honour. || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, which stands for the whole of ymcaquebec.org and whose cached text is the French HOMEPAGE, not the page the claim came from. Every page this project has since cached from that site was searched for this claim's distinctive terms and none carries it. THE LIKELIEST EXPLANATION IS THAT THE PAGE NO LONGER EXISTS IN THAT FORM: the site was rebuilt some time before 2026, and the current alumni page is about volunteer recognition rather than award recipients. RECOVERING THIS MEANS THE WAYBACK MACHINE, not a re-read of the live site. The claim is left standing and the citation is left as the catch-all rather than being pointed at a guessed URL, which would be worse.",
       "sources": [
         "src_ymca_website"
       ],
@@ -7070,7 +7070,7 @@
     },
     {
       "fact_id": "f_0421",
-      "claim": "Carol Skinner was a counselor and section director (not overall camp director) at Camp Kanawana from 1990-1995. She received the 'Pip' Alumni Award for her ALS advocacy.",
+      "claim": "Carol Skinner was a counselor and section director (not overall camp director) at Camp Kanawana from 1990-1995. She received the 'Pip' Alumni Award for her ALS advocacy. || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, which stands for the whole of ymcaquebec.org and whose cached text is the French HOMEPAGE, not the page the claim came from. Every page this project has since cached from that site was searched for this claim's distinctive terms and none carries it. THE LIKELIEST EXPLANATION IS THAT THE PAGE NO LONGER EXISTS IN THAT FORM: the site was rebuilt some time before 2026, and the current alumni page is about volunteer recognition rather than award recipients. RECOVERING THIS MEANS THE WAYBACK MACHINE, not a re-read of the live site. The claim is left standing and the citation is left as the catch-all rather than being pointed at a guessed URL, which would be worse.",
       "sources": [
         "src_ymca_website"
       ],
@@ -7087,7 +7087,7 @@
     },
     {
       "fact_id": "f_0422",
-      "claim": "Kate Taylor is the current camp director of Camp Kanawana as of the 2020s.",
+      "claim": "Kate Taylor is the current camp director of Camp Kanawana as of the 2020s. || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, which stands for the whole of ymcaquebec.org and whose cached text is the French HOMEPAGE, not the page the claim came from. Every page this project has since cached from that site was searched for this claim's distinctive terms and none carries it. THE LIKELIEST EXPLANATION IS THAT THE PAGE NO LONGER EXISTS IN THAT FORM: the site was rebuilt some time before 2026, and the current alumni page is about volunteer recognition rather than award recipients. RECOVERING THIS MEANS THE WAYBACK MACHINE, not a re-read of the live site. The claim is left standing and the citation is left as the catch-all rather than being pointed at a guessed URL, which would be worse.",
       "sources": [
         "src_ymca_website"
       ],
@@ -7104,7 +7104,7 @@
     },
     {
       "fact_id": "f_0423",
-      "claim": "Dr. James Orbinski, the humanitarian physician, attended Camp Kanawana as a camper and counselor in the 1980s-1990s. He received the 2024 'Pip' Alumni Award.",
+      "claim": "Dr. James Orbinski, the humanitarian physician, attended Camp Kanawana as a camper and counselor in the 1980s-1990s. He received the 2024 'Pip' Alumni Award. || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, which stands for the whole of ymcaquebec.org and whose cached text is the French HOMEPAGE, not the page the claim came from. Every page this project has since cached from that site was searched for this claim's distinctive terms and none carries it. THE LIKELIEST EXPLANATION IS THAT THE PAGE NO LONGER EXISTS IN THAT FORM: the site was rebuilt some time before 2026, and the current alumni page is about volunteer recognition rather than award recipients. RECOVERING THIS MEANS THE WAYBACK MACHINE, not a re-read of the live site. The claim is left standing and the citation is left as the catch-all rather than being pointed at a guessed URL, which would be worse.",
       "sources": [
         "src_ymca_website"
       ],
@@ -7121,7 +7121,7 @@
     },
     {
       "fact_id": "f_0424",
-      "claim": "Camp Kanawana's 120th anniversary reunion was held in September 2014 at Victoria Hall.",
+      "claim": "Camp Kanawana's 120th anniversary reunion was held in September 2014 at Victoria Hall. || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, which stands for the whole of ymcaquebec.org and whose cached text is the French HOMEPAGE, not the page the claim came from. Every page this project has since cached from that site was searched for this claim's distinctive terms and none carries it. THE LIKELIEST EXPLANATION IS THAT THE PAGE NO LONGER EXISTS IN THAT FORM: the site was rebuilt some time before 2026, and the current alumni page is about volunteer recognition rather than award recipients. RECOVERING THIS MEANS THE WAYBACK MACHINE, not a re-read of the live site. The claim is left standing and the citation is left as the catch-all rather than being pointed at a guessed URL, which would be worse.",
       "sources": [
         "src_ymca_website"
       ],
@@ -7137,7 +7137,7 @@
     },
     {
       "fact_id": "f_0425",
-      "claim": "The Camp YMCA Kanawana 'Pip' Alumni Award is an annual recognition given to notable camp alumni. Named after Philip 'Pip' Caddell (1913-2004). Past recipients include Terry 'Aislin' Mosher (2015), Chris Adam (2017), Marina Sharpe (2018), and James Orbinski (2024).",
+      "claim": "The Camp YMCA Kanawana 'Pip' Alumni Award is an annual recognition given to notable camp alumni. Named after Philip 'Pip' Caddell (1913-2004). Past recipients include Terry 'Aislin' Mosher (2015), Chris Adam (2017), Marina Sharpe (2018), and James Orbinski (2024). || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, which stands for the whole of ymcaquebec.org and whose cached text is the French HOMEPAGE, not the page the claim came from. Every page this project has since cached from that site was searched for this claim's distinctive terms and none carries it. THE LIKELIEST EXPLANATION IS THAT THE PAGE NO LONGER EXISTS IN THAT FORM: the site was rebuilt some time before 2026, and the current alumni page is about volunteer recognition rather than award recipients. RECOVERING THIS MEANS THE WAYBACK MACHINE, not a re-read of the live site. The claim is left standing and the citation is left as the catch-all rather than being pointed at a guessed URL, which would be worse.",
       "sources": [
         "src_ymca_website"
       ],
@@ -7223,7 +7223,7 @@
     },
     {
       "fact_id": "f_0430",
-      "claim": "A William Ball (Canadian) launched a national YMCA swimming instruction program in 1910 and was a YMCA national board member who encouraged the Red Cross to include lifesaving instruction. It is unknown whether this is the same person as 'Billy' Ball who founded Camp Jubilee in 1894.",
+      "claim": "A William Ball (Canadian) launched a national YMCA swimming instruction program in 1910 and was a YMCA national board member who encouraged the Red Cross to include lifesaving instruction. It is unknown whether this is the same person as 'Billy' Ball who founded Camp Jubilee in 1894. || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, which stands for the whole of ymcaquebec.org and whose cached text is the French HOMEPAGE, not the page the claim came from. Every page this project has since cached from that site was searched for this claim's distinctive terms and none carries it. THE LIKELIEST EXPLANATION IS THAT THE PAGE NO LONGER EXISTS IN THAT FORM: the site was rebuilt some time before 2026, and the current alumni page is about volunteer recognition rather than award recipients. RECOVERING THIS MEANS THE WAYBACK MACHINE, not a re-read of the live site. The claim is left standing and the citation is left as the catch-all rather than being pointed at a guessed URL, which would be worse.",
       "sources": [
         "src_ymca_website"
       ],
@@ -7461,7 +7461,7 @@
     },
     {
       "fact_id": "f_0444",
-      "claim": "The camp motto is 'Non Nobis Solum' (Latin: 'Not For Ourselves Alone'), derived from Cicero's De Officiis 1:22.",
+      "claim": "The camp motto is 'Non Nobis Solum' (Latin: 'Not For Ourselves Alone'), derived from Cicero's De Officiis 1:22. || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, which stands for the whole of ymcaquebec.org and whose cached text is the French HOMEPAGE, not the page the claim came from. Every page this project has since cached from that site was searched for this claim's distinctive terms and none carries it. THE LIKELIEST EXPLANATION IS THAT THE PAGE NO LONGER EXISTS IN THAT FORM: the site was rebuilt some time before 2026, and the current alumni page is about volunteer recognition rather than award recipients. RECOVERING THIS MEANS THE WAYBACK MACHINE, not a re-read of the live site. The claim is left standing and the citation is left as the catch-all rather than being pointed at a guessed URL, which would be worse.",
       "sources": [
         "src_ymca_website"
       ],
@@ -7547,9 +7547,9 @@
     },
     {
       "fact_id": "f_0449",
-      "claim": "The camp's gymnasium is called the 'Katimavik'.",
+      "claim": "The camp's gymnasium is called the 'Katimavik'. || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_facilities_2026"
       ],
       "confidence": "stated",
       "category": "facilities",
@@ -7581,7 +7581,7 @@
     },
     {
       "fact_id": "f_0451",
-      "claim": "Front Camp houses the Farmhouse and Blockhouse, which are winterized facilities with fully equipped kitchens, living space, bathrooms, showers and electricity.",
+      "claim": "Front Camp houses the Farmhouse and Blockhouse, which are winterized facilities with fully equipped kitchens, living space, bathrooms, showers and electricity. || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, which stands for the whole of ymcaquebec.org and whose cached text is the French HOMEPAGE, not the page the claim came from. Every page this project has since cached from that site was searched for this claim's distinctive terms and none carries it. THE LIKELIEST EXPLANATION IS THAT THE PAGE NO LONGER EXISTS IN THAT FORM: the site was rebuilt some time before 2026, and the current alumni page is about volunteer recognition rather than award recipients. RECOVERING THIS MEANS THE WAYBACK MACHINE, not a re-read of the live site. The claim is left standing and the citation is left as the catch-all rather than being pointed at a guessed URL, which would be worse.",
       "sources": [
         "src_ymca_website"
       ],
@@ -7616,9 +7616,9 @@
     },
     {
       "fact_id": "f_0453",
-      "claim": "The four core camp sections are: Pioneers (girls 7-12), Woodsmen (boys 7-12), Pathfinders (girls 13-15), and Coureurs des Bois (boys 13-15). Mountaineers is the gender-neutral section (13-15). Voyageurs is the all-gender long canoe trip program. Trailblazers are Leaders-in-Training (age 16). Foresters is the canoe trip leader specialization.",
+      "claim": "The four core camp sections are: Pioneers (girls 7-12), Woodsmen (boys 7-12), Pathfinders (girls 13-15), and Coureurs des Bois (boys 13-15). Mountaineers is the gender-neutral section (13-15). Voyageurs is the all-gender long canoe trip program. Trailblazers are Leaders-in-Training (age 16). Foresters is the canoe trip leader specialization. || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text.",
       "sources": [
-        "src_ymca_website",
+        "src_ymcaq_kanawana_programs_2026",
         "src_oral_aronson"
       ],
       "confidence": "stated",
@@ -7827,9 +7827,9 @@
     },
     {
       "fact_id": "f_0465",
-      "claim": "The Rangers program at Kanawana runs from late June to mid-July, for ages 15-16, and provides DAFA certification from the Conseil Québécois du Loisir (CQL).",
+      "claim": "The Rangers program at Kanawana runs from late June to mid-July, for ages 15-16, and provides DAFA certification from the Conseil Québécois du Loisir (CQL). || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_expedition_leadership_pages_2026"
       ],
       "confidence": "stated",
       "category": "programs",
@@ -8036,7 +8036,7 @@
     },
     {
       "fact_id": "f_0477",
-      "claim": "Camp Kanawana's environmental education mission includes stewardship and conservation action projects, with youth participating in community-based conservation projects implemented throughout the year.",
+      "claim": "Camp Kanawana's environmental education mission includes stewardship and conservation action projects, with youth participating in community-based conservation projects implemented throughout the year. || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, which stands for the whole of ymcaquebec.org and whose cached text is the French HOMEPAGE, not the page the claim came from. Every page this project has since cached from that site was searched for this claim's distinctive terms and none carries it. THE LIKELIEST EXPLANATION IS THAT THE PAGE NO LONGER EXISTS IN THAT FORM: the site was rebuilt some time before 2026, and the current alumni page is about volunteer recognition rather than award recipients. RECOVERING THIS MEANS THE WAYBACK MACHINE, not a re-read of the live site. The claim is left standing and the citation is left as the catch-all rather than being pointed at a guessed URL, which would be worse.",
       "sources": [
         "src_ymca_website"
       ],
@@ -9380,7 +9380,7 @@
     },
     {
       "fact_id": "f_0555",
-      "claim": "The YMCA Quebec website describes Kanawana's contemporary experience as including 'sitting around a camp fire, singing call-and-response songs in the forest.' This confirms that campfire singing with call-and-response format remains a current tradition at the camp.",
+      "claim": "The YMCA Quebec website describes Kanawana's contemporary experience as including 'sitting around a camp fire, singing call-and-response songs in the forest.' This confirms that campfire singing with call-and-response format remains a current tradition at the camp. || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, which stands for the whole of ymcaquebec.org and whose cached text is the French HOMEPAGE, not the page the claim came from. Every page this project has since cached from that site was searched for this claim's distinctive terms and none carries it. THE LIKELIEST EXPLANATION IS THAT THE PAGE NO LONGER EXISTS IN THAT FORM: the site was rebuilt some time before 2026, and the current alumni page is about volunteer recognition rather than award recipients. RECOVERING THIS MEANS THE WAYBACK MACHINE, not a re-read of the live site. The claim is left standing and the citation is left as the catch-all rather than being pointed at a guessed URL, which would be worse.",
       "sources": [
         "src_ymca_website"
       ],
@@ -9668,7 +9668,7 @@
     },
     {
       "fact_id": "f_0572",
-      "claim": "Camp Kanawana has 16 commercial Clivus Multrum composting units accommodating 22,500 uses each per year, and 32 dry toilets saving 576,000 gallons of water annually. Two central buildings contain all bathroom and shower facilities. The system eliminated the old septic system to keep Lake Kanawana safe from pollution.",
+      "claim": "Camp Kanawana has 16 commercial Clivus Multrum composting units accommodating 22,500 uses each per year, and 32 dry toilets saving 576,000 gallons of water annually. Two central buildings contain all bathroom and shower facilities. The system eliminated the old septic system to keep Lake Kanawana safe from pollution. || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, which stands for the whole of ymcaquebec.org and whose cached text is the French HOMEPAGE, not the page the claim came from. Every page this project has since cached from that site was searched for this claim's distinctive terms and none carries it. THE LIKELIEST EXPLANATION IS THAT THE PAGE NO LONGER EXISTS IN THAT FORM: the site was rebuilt some time before 2026, and the current alumni page is about volunteer recognition rather than award recipients. RECOVERING THIS MEANS THE WAYBACK MACHINE, not a re-read of the live site. The claim is left standing and the citation is left as the catch-all rather than being pointed at a guessed URL, which would be worse.",
       "sources": [
         "src_clivus_multrum_projects",
         "src_ymca_website"
@@ -9761,7 +9761,7 @@
     },
     {
       "fact_id": "f_0577",
-      "claim": "GLCRM Architectes Inc. and Garoy Construction Inc. are listed as major partners of the YMCAs of Quebec Foundation alongside Fondation Desjardins.",
+      "claim": "GLCRM Architectes Inc. and Garoy Construction Inc. are listed as major partners of the YMCAs of Quebec Foundation alongside Fondation Desjardins. || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, which stands for the whole of ymcaquebec.org and whose cached text is the French HOMEPAGE, not the page the claim came from. Every page this project has since cached from that site was searched for this claim's distinctive terms and none carries it. THE LIKELIEST EXPLANATION IS THAT THE PAGE NO LONGER EXISTS IN THAT FORM: the site was rebuilt some time before 2026, and the current alumni page is about volunteer recognition rather than award recipients. RECOVERING THIS MEANS THE WAYBACK MACHINE, not a re-read of the live site. The claim is left standing and the citation is left as the catch-all rather than being pointed at a guessed URL, which would be worse.",
       "sources": [
         "src_ymca_website"
       ],
@@ -9833,9 +9833,9 @@
     },
     {
       "fact_id": "f_0581",
-      "claim": "Camp Kanawana's property size is reported as 550 acres on the YMCA's official website. An older third-party source (Wikimapia) states 455 acres. The discrepancy may reflect additional land acquisition over time or a difference in measurement.",
+      "claim": "Camp Kanawana's property size is reported as 550 acres on the YMCA's official website. An older third-party source (Wikimapia) states 455 acres. The discrepancy may reflect additional land acquisition over time or a difference in measurement. || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_facilities_2026"
       ],
       "confidence": "stated",
       "category": "property",
@@ -9865,9 +9865,9 @@
     },
     {
       "fact_id": "f_0583",
-      "claim": "Camp Kanawana has 'nature interpretation trails' across its 500+ acres of mature forest. The YMCA website describes the trails as opportunities to 'explore our hiking trails and head off to discover the marvels of our site.' No individual trail names are published.",
+      "claim": "Camp Kanawana has 'nature interpretation trails' across its 500+ acres of mature forest. The YMCA website describes the trails as opportunities to 'explore our hiking trails and head off to discover the marvels of our site.' No individual trail names are published. || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_facilities_2026"
       ],
       "confidence": "stated",
       "category": "property",
@@ -9932,9 +9932,9 @@
     },
     {
       "fact_id": "f_0587",
-      "claim": "Platform tents at Camp Kanawana in the senior sections (Coureurs des Bois, Pathfinders, Rangers, Trailblazers, Voyageurs, Foresters and Adventurers) consist of a wooden platform with bunk beds covered by a heavy canvas tent and waterproof tarp, housing 8 campers and 1-2 staff members sharing the same space.",
+      "claim": "Platform tents at Camp Kanawana in the senior sections (Coureurs des Bois, Pathfinders, Rangers, Trailblazers, Voyageurs, Foresters and Adventurers) consist of a wooden platform with bunk beds covered by a heavy canvas tent and waterproof tarp, housing 8 campers and 1-2 staff members sharing the same space. || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_facilities_2026"
       ],
       "confidence": "stated",
       "category": "buildings",
@@ -9948,9 +9948,9 @@
     },
     {
       "fact_id": "f_0588",
-      "claim": "The four core camp sections are gender-split: Pioneers (girls 7-12) and Woodsmen (boys 7-12) are Junior sections in cabins; Pathfinders (girls 13-15) and Coureurs des Bois (boys 13-15) are Senior sections in platform tents. Mountaineers (est. 2022) is the gender-neutral Senior section (13-15). 'Senior Kanawanians' is NOT a section name.",
+      "claim": "The four core camp sections are gender-split: Pioneers (girls 7-12) and Woodsmen (boys 7-12) are Junior sections in cabins; Pathfinders (girls 13-15) and Coureurs des Bois (boys 13-15) are Senior sections in platform tents. Mountaineers (est. 2022) is the gender-neutral Senior section (13-15). 'Senior Kanawanians' is NOT a section name. || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text.",
       "sources": [
-        "src_ymca_website",
+        "src_ymcaq_kanawana_programs_2026",
         "src_oral_aronson"
       ],
       "confidence": "stated",
@@ -9982,9 +9982,9 @@
     },
     {
       "fact_id": "f_0590",
-      "claim": "Camp Kanawana's address is 673 Montee Saint-Elmire, Saint-Sauveur, Quebec, Canada, J0R 1R1. The YMCA office is at 1440 Rue Stanley, Montreal H3A 1P7.",
+      "claim": "Camp Kanawana's address is 673 Montee Saint-Elmire, Saint-Sauveur, Quebec, Canada, J0R 1R1. The YMCA office is at 1440 Rue Stanley, Montreal H3A 1P7. || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_session_pages_2026"
       ],
       "confidence": "stated",
       "category": "property",
@@ -9998,9 +9998,9 @@
     },
     {
       "fact_id": "f_0591",
-      "claim": "Camp Kanawana is available for rental year-round for groups of 6-250 persons, and in limited capacity during summer and winter for groups of 6-26 persons. The rental season runs from approximately May 21 to June 23 and August 20 to October 14.",
+      "claim": "Camp Kanawana is available for rental year-round for groups of 6-250 persons, and in limited capacity during summer and winter for groups of 6-26 persons. The rental season runs from approximately May 21 to June 23 and August 20 to October 14. || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text. The rental WINDOW here -- 'available from May 21 to June 23 and from August 20 to October 14' -- is verbatim on the lodging and equipment rental page. The GROUP-SIZE half (6-250, and 6-26 in summer and winter) is on the separate Groups & Rentals page, which this project cites in the-kanawana-site.md but holds no source record or cached text for; that half is therefore still untraced.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_lodging_rental_2026"
       ],
       "confidence": "stated",
       "category": "programs",
@@ -10496,7 +10496,7 @@
     },
     {
       "fact_id": "f_0620",
-      "claim": "Camp YMCA Kanawana maintains active social media: Instagram @ymcakanawana (1,824 followers, 571 posts), TikTok @campymcakanawana, and X/Twitter @YMCA_Kanawana",
+      "claim": "Camp YMCA Kanawana maintains active social media: Instagram @ymcakanawana (1,824 followers, 571 posts), TikTok @campymcakanawana, and X/Twitter @YMCA_Kanawana || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, which stands for the whole of ymcaquebec.org and whose cached text is the French HOMEPAGE, not the page the claim came from. Every page this project has since cached from that site was searched for this claim's distinctive terms and none carries it. THE LIKELIEST EXPLANATION IS THAT THE PAGE NO LONGER EXISTS IN THAT FORM: the site was rebuilt some time before 2026, and the current alumni page is about volunteer recognition rather than award recipients. RECOVERING THIS MEANS THE WAYBACK MACHINE, not a re-read of the live site. The claim is left standing and the citation is left as the catch-all rather than being pointed at a guessed URL, which would be worse.",
       "sources": [
         "src_ymca_website"
       ],
@@ -13393,9 +13393,9 @@
     },
     {
       "fact_id": "f_0829",
-      "claim": "The Camp Kanawana current sections are: Pioneers (girls 7-12), Woodsmen (boys 7-12), Pathfinders (girls 13-15), Coureurs des Bois (boys 13-15), Mountaineers (gender-neutral 13-15, est. 2022). Specialized programs: Voyageurs (all-gender long canoe trip program), Trailblazers (Leaders-in-Training, age 16), Foresters (canoe trip leader specialization). 'Senior Kanawanians' is not a section name. The section structure dates to at least the early 1980s.",
+      "claim": "The Camp Kanawana current sections are: Pioneers (girls 7-12), Woodsmen (boys 7-12), Pathfinders (girls 13-15), Coureurs des Bois (boys 13-15), Mountaineers (gender-neutral 13-15, est. 2022). Specialized programs: Voyageurs (all-gender long canoe trip program), Trailblazers (Leaders-in-Training, age 16), Foresters (canoe trip leader specialization). 'Senior Kanawanians' is not a section name. The section structure dates to at least the early 1980s. || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text.",
       "sources": [
-        "src_ymca_website",
+        "src_ymcaq_kanawana_programs_2026",
         "src_oral_aronson"
       ],
       "confidence": "stated",
@@ -13628,10 +13628,10 @@
     },
     {
       "fact_id": "f_0843",
-      "claim": "The Pagé family has deep roots in Saint-Sauveur. Boulangerie Pagé was established in 1903; Édouard Pagé acquired it in 1914. 'Domaine-Pagé' is a named locality in Saint-Sauveur. The 'Page family' from whom the YMCA acquired the camp property is almost certainly this Pagé family.",
+      "claim": "The Pagé family has deep roots in Saint-Sauveur. Boulangerie Pagé was established in 1903; Édouard Pagé acquired it in 1914. 'Domaine-Pagé' is a named locality in Saint-Sauveur. The 'Page family' from whom the YMCA acquired the camp property is almost certainly this Pagé family. || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text. Only the 'Page family sold the land' half rests on the YMCA page; the Boulangerie Page and Domaine-Page material is from the other source cited here.",
       "sources": [
         "src_lesaffaires_boulangerie_page",
-        "src_ymca_website"
+        "src_ymcaq_kanawana_histoire_fr_2026"
       ],
       "confidence": "inferred",
       "category": "places",
@@ -14740,7 +14740,7 @@
     },
     {
       "fact_id": "f_0905",
-      "claim": "The 120th anniversary reunion of Camp YMCA Kanawana was held at Victoria Hall on September 5, 2014, for alumni (former campers and staff members).",
+      "claim": "The 120th anniversary reunion of Camp YMCA Kanawana was held at Victoria Hall on September 5, 2014, for alumni (former campers and staff members). || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, which stands for the whole of ymcaquebec.org and whose cached text is the French HOMEPAGE, not the page the claim came from. Every page this project has since cached from that site was searched for this claim's distinctive terms and none carries it. THE LIKELIEST EXPLANATION IS THAT THE PAGE NO LONGER EXISTS IN THAT FORM: the site was rebuilt some time before 2026, and the current alumni page is about volunteer recognition rather than award recipients. RECOVERING THIS MEANS THE WAYBACK MACHINE, not a re-read of the live site. The claim is left standing and the citation is left as the catch-all rather than being pointed at a guessed URL, which would be worse.",
       "sources": [
         "src_ymca_website"
       ],
@@ -15116,7 +15116,7 @@
     },
     {
       "fact_id": "f_0925",
-      "claim": "Camp Kanawana is described as located 90 kilometres north of Montreal (CBC 2017) and 10 minutes from Saint-Sauveur (YMCA website). These distances suggest the camp is near Piedmont/Saint-Sauveur in the Laurentians.",
+      "claim": "Camp Kanawana is described as located 90 kilometres north of Montreal (CBC 2017) and 10 minutes from Saint-Sauveur (YMCA website). These distances suggest the camp is near Piedmont/Saint-Sauveur in the Laurentians. || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, which stands for the whole of ymcaquebec.org and whose cached text is the French HOMEPAGE, not the page the claim came from. Every page this project has since cached from that site was searched for this claim's distinctive terms and none carries it. THE LIKELIEST EXPLANATION IS THAT THE PAGE NO LONGER EXISTS IN THAT FORM: the site was rebuilt some time before 2026, and the current alumni page is about volunteer recognition rather than award recipients. RECOVERING THIS MEANS THE WAYBACK MACHINE, not a re-read of the live site. The claim is left standing and the citation is left as the catch-all rather than being pointed at a guessed URL, which would be worse.",
       "sources": [
         "src_cbc_mclean_fund_2017",
         "src_ymca_website"
@@ -15617,7 +15617,7 @@
     },
     {
       "fact_id": "f_0953",
-      "claim": "Dr. James Orbinski received the Pip Alumni Award in 2024. He is known for his work with Doctors Without Borders (MSF).",
+      "claim": "Dr. James Orbinski received the Pip Alumni Award in 2024. He is known for his work with Doctors Without Borders (MSF). || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, whose cached text is the French homepage rather than the page the claim came from. Every Kanawana page this project has cached from that site was searched for the claim's distinctive terms and none carries it; the page has most likely been rebuilt away. Recovering it means the Wayback Machine. The citation is left as the catch-all rather than pointed at a guessed URL.",
       "sources": [
         "src_ymca_website"
       ],
@@ -15635,7 +15635,7 @@
     },
     {
       "fact_id": "f_0954",
-      "claim": "Dr. Marina Sharpe received the Pip Alumni Award in 2018. She is a refugee law expert.",
+      "claim": "Dr. Marina Sharpe received the Pip Alumni Award in 2018. She is a refugee law expert. || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, whose cached text is the French homepage rather than the page the claim came from. Every Kanawana page this project has cached from that site was searched for the claim's distinctive terms and none carries it; the page has most likely been rebuilt away. Recovering it means the Wayback Machine. The citation is left as the catch-all rather than pointed at a guessed URL.",
       "sources": [
         "src_ymca_website"
       ],
@@ -15716,9 +15716,9 @@
     },
     {
       "fact_id": "f_0959",
-      "claim": "Kanawana leadership programs require successful completion of Secondary 4/Grade 10 and focus on becoming camp counsellor, canoe trip guide, or program coordinator",
+      "claim": "Kanawana leadership programs require successful completion of Secondary 4/Grade 10 and focus on becoming camp counsellor, canoe trip guide, or program coordinator || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_session_pages_2026"
       ],
       "confidence": "stated",
       "category": "programs",
@@ -15732,9 +15732,9 @@
     },
     {
       "fact_id": "f_0960",
-      "claim": "As of fall 2025, YMCAs of Quebec no longer offer day camps (including holiday and spring break camps), but Kanawana summer overnight camp continues operating",
+      "claim": "As of fall 2025, YMCAs of Quebec no longer offer day camps (including holiday and spring break camps), but Kanawana summer overnight camp continues operating || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_day_camps_end_2025"
       ],
       "confidence": "stated",
       "category": "operations",
@@ -15765,9 +15765,9 @@
     },
     {
       "fact_id": "f_0962",
-      "claim": "2026 Kanawana Pioneer session dates: June 22-July 3, July 6-17, July 21-31, August 3-14 (12-day sessions)",
+      "claim": "2026 Kanawana Pioneer session dates: June 22-July 3, July 6-17, July 21-31, August 3-14 (12-day sessions) || PARTLY TRACED 2026-09-07 (p_489). The four twelve-day session date ranges are on no page this project has cached. What IS cached, on the international-leadership page, is the season's outer bracket: flights 'must be scheduled between June 22 and August 14', which matches the first date and the last of the four ranges exactly and so corroborates the bracket without confirming the internal boundaries. Repointed here rather than left on the site-level catch-all, with that limit stated.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_jobs_intl_leadership_2026"
       ],
       "confidence": "stated",
       "category": "programs",
@@ -15781,9 +15781,9 @@
     },
     {
       "fact_id": "f_0963",
-      "claim": "Kanawana activities (2026) include theatre, music, arts and crafts, nature exploration, dance, survival techniques, woodworking, canoe, archery, general swim, and open program areas",
+      "claim": "Kanawana activities (2026) include theatre, music, arts and crafts, nature exploration, dance, survival techniques, woodworking, canoe, archery, general swim, and open program areas || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_session_pages_2026"
       ],
       "confidence": "stated",
       "category": "programs",
@@ -15797,9 +15797,9 @@
     },
     {
       "fact_id": "f_0964",
-      "claim": "Kanawana changeover weekends include visits to Sommet Saint-Sauveur water park, meals, supervision, laundry service, and opportunity to call home",
+      "claim": "Kanawana changeover weekends include visits to Sommet Saint-Sauveur water park, meals, supervision, laundry service, and opportunity to call home || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_session_pages_2026"
       ],
       "confidence": "stated",
       "category": "operations",
@@ -20303,10 +20303,10 @@
     },
     {
       "fact_id": "f_1221",
-      "claim": "The section system at Camp Kanawana remained essentially the same from the informant's era (1980s-2000s) through to the present day, confirming the 1959 section names (Pioneers, Woodsmen, Coureurs de Bois, Pathfinders) have remained in continuous use for over 60 years.",
+      "claim": "The section system at Camp Kanawana remained essentially the same from the informant's era (1980s-2000s) through to the present day, confirming the 1959 section names (Pioneers, Woodsmen, Coureurs de Bois, Pathfinders) have remained in continuous use for over 60 years. || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text. The website half of this claim is the current section list on the programs page; the continuity judgement rests on the oral history cited beside it.",
       "sources": [
         "src_oral_aronson",
-        "src_ymca_website"
+        "src_ymcaq_kanawana_programs_2026"
       ],
       "confidence": "user_knowledge",
       "category": "traditions",
@@ -21002,7 +21002,7 @@
     },
     {
       "fact_id": "f_1259",
-      "claim": "Camp Kanawana anniversary pattern: 95th reunion April 7, 1989 (with '95 years of sharing' promotional materials); centennial 1994 (commemorative poster produced); 120th reunion September 5, 2014 at Victoria Hall, Montreal; 125th anniversary summer 2019 'Family, Alumni, and Friends Weekend' at camp.",
+      "claim": "Camp Kanawana anniversary pattern: 95th reunion April 7, 1989 (with '95 years of sharing' promotional materials); centennial 1994 (commemorative poster produced); 120th reunion September 5, 2014 at Victoria Hall, Montreal; 125th anniversary summer 2019 'Family, Alumni, and Friends Weekend' at camp. || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, whose cached text is the French homepage rather than the page the claim came from. Every Kanawana page this project has cached from that site was searched for the claim's distinctive terms and none carries it; the page has most likely been rebuilt away. Recovering it means the Wayback Machine. The citation is left as the catch-all rather than pointed at a guessed URL.",
       "sources": [
         "src_concordia_12B04",
         "src_ymca_website"
@@ -21427,7 +21427,7 @@
     },
     {
       "fact_id": "f_1283",
-      "claim": "On September 5, 2014, Camp YMCA Kanawana alumni (former campers and staff) assembled at Victoria Hall (Westmount) to celebrate the camp's 120th anniversary reunion.",
+      "claim": "On September 5, 2014, Camp YMCA Kanawana alumni (former campers and staff) assembled at Victoria Hall (Westmount) to celebrate the camp's 120th anniversary reunion. || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, which stands for the whole of ymcaquebec.org and whose cached text is the French HOMEPAGE, not the page the claim came from. Every page this project has since cached from that site was searched for this claim's distinctive terms and none carries it. THE LIKELIEST EXPLANATION IS THAT THE PAGE NO LONGER EXISTS IN THAT FORM: the site was rebuilt some time before 2026, and the current alumni page is about volunteer recognition rather than award recipients. RECOVERING THIS MEANS THE WAYBACK MACHINE, not a re-read of the live site. The claim is left standing and the citation is left as the catch-all rather than being pointed at a guessed URL, which would be worse.",
       "sources": [
         "src_ymca_website"
       ],
@@ -21498,9 +21498,9 @@
     },
     {
       "fact_id": "f_1287",
-      "claim": "YMCA day camps, holiday camps, and spring break camps will no longer be offered as of fall 2025. The Kanawana summer camp will continue to operate.",
+      "claim": "YMCA day camps, holiday camps, and spring break camps will no longer be offered as of fall 2025. The Kanawana summer camp will continue to operate. || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_day_camps_end_2025"
       ],
       "confidence": "stated",
       "category": "institutional",
@@ -21881,7 +21881,7 @@
     },
     {
       "fact_id": "f_1308",
-      "claim": "Camp YMCA Kanawana held an Open House on Sunday, June 14, 2026, from 10:00 a.m. to 4:00 p.m.",
+      "claim": "Camp YMCA Kanawana held an Open House on Sunday, June 14, 2026, from 10:00 a.m. to 4:00 p.m. || NOT TRACEABLE TO A PAGE, 2026-09-07 (p_489). This fact cites the site-level record src_ymca_website, which stands for the whole of ymcaquebec.org and whose cached text is the French HOMEPAGE, not the page the claim came from. Every page this project has since cached from that site was searched for this claim's distinctive terms and none carries it. THE LIKELIEST EXPLANATION IS THAT THE PAGE NO LONGER EXISTS IN THAT FORM: the site was rebuilt some time before 2026, and the current alumni page is about volunteer recognition rather than award recipients. RECOVERING THIS MEANS THE WAYBACK MACHINE, not a re-read of the live site. The claim is left standing and the citation is left as the catch-all rather than being pointed at a guessed URL, which would be worse.",
       "sources": [
         "src_ymca_website"
       ],
@@ -21966,9 +21966,9 @@
     },
     {
       "fact_id": "f_1313",
-      "claim": "Marie-Pierre Lacasse holds the title 'Executive Camp Director' (directeur principal) of Camp YMCA Kanawana as of 2024. She is listed on the YMCA Quebec management team page and on LinkedIn as Directeur principal at Les YMCA du Québec.",
+      "claim": "Marie-Pierre Lacasse holds the title 'Executive Camp Director' (directeur principal) of Camp YMCA Kanawana as of 2024. She is listed on the YMCA Quebec management team page and on LinkedIn as Directeur principal at Les YMCA du Québec. || SOURCE REPOINTED 2026-09-07 under p_489, from the site-level catch-all src_ymca_website to the page that carries this claim, verified against that page's cached text.",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_our_team_2026"
       ],
       "confidence": "stated",
       "category": "people",
@@ -85257,7 +85257,7 @@
     },
     {
       "fact_id": "f_4796",
-      "claim": "[SUPERSEDED 2026-09-05: wrong on both halves. The 1947 date does NOT rest only on the edition count -- the camp's own 1988 report states it outright, and the perpetual trophy's first shield reads 47. And the arithmetic does yield 1947: only ONE season was lost, 2021, not two. See the reconciliation fact f_4798.] THE 1947 START DATE FOR KANAWANA'S L&V GAMES RESTS ON A MODERN EDITION COUNT, NOT ON A CONTEMPORARY DOCUMENT, AND THE ARITHMETIC DOES NOT CLEANLY YIELD 1947. This project's basis for 1947 is the YMCA's statement that 2025 saw the 78th edition. If the Games ran every year without a gap, the 78th edition in 2025 implies a first edition in 1948. If the two COVID years of 2020 and 2021 are excluded from the count, 78 editions span eighty calendar years and imply a first edition in 1946. 1947 is what neither reading yields. The earliest contemporary mention in this project's cache is the 1950 annual report. The 1947 date should be treated as approximate, and the discrepancy resolved before it is relied on.",
+      "claim": "[SUPERSEDED 2026-09-05: wrong on both halves. The 1947 date does NOT rest only on the edition count -- the camp's own 1988 report states it outright, and the perpetual trophy's first shield reads 47. And the arithmetic does yield 1947: only ONE season was lost, 2021, not two. See the reconciliation fact f_4798.] THE 1947 START DATE FOR KANAWANA'S L&V GAMES RESTS ON A MODERN EDITION COUNT, NOT ON A CONTEMPORARY DOCUMENT, AND THE ARITHMETIC DOES NOT CLEANLY YIELD 1947. This project's basis for 1947 is the YMCA's statement that 2025 saw the 78th edition. If the Games ran every year without a gap, the 78th edition in 2025 implies a first edition in 1948. If the two COVID years of 2020 and 2021 are excluded from the count, 78 editions span eighty calendar years and imply a first edition in 1946. 1947 is what neither reading yields. The earliest contemporary mention in this project's cache is the 1950 annual report. The 1947 date should be treated as approximate, and the discrepancy resolved before it is relied on. || SOURCE NOTE 2026-09-07 (p_489): the src_ymca_website citation on this fact is the site-level catch-all and was left in place deliberately. This fact is a supersession or resolution record rather than a page-level extraction, and its weight rests on the other sources cited beside it.",
       "category": "methodology",
       "entities": [
         "Camp Kanawana"
@@ -85290,7 +85290,7 @@
     },
     {
       "fact_id": "f_4798",
-      "claim": "RESOLUTION of the L&V start date (p_410): 1947 is CONFIRMED, and this project's own doubt of 2026-09-05 (f_4796) was an error. Three independent lines converge. (1) THE OBJECT: the perpetual Kanawana Annual Trophy for Lumbermen Voyageur Games carries a shield for every season, and the first reads 47 -- 1947, Voyageurs. (2) THE CAMP'S OWN RECORD: \"Kanawana... A Place to Grow\" (YMCA of Montreal, 1988) lists under PROGRAMME HIGHLIGHTS: \"1947 Kanawana introduces new camp wide event to highlight the final session of camp. Lumbermen and Voyageurs competition is created.\" (3) THE ARITHMETIC, CORRECTED: YMCA Quebec calls 2025 the 78th edition. 1947 through 2025 inclusive is 79 calendar seasons; exactly one was lost, 2021, which has no shield -- 2020 WAS contested, remotely, and does have one. 79 minus 1 is 78. The count lands on 1947 to the year, and independently confirms 2026 as the 79th edition. The earlier arithmetic failed only because it deducted two pandemic seasons where the trophy and the operator's account both record one. What survives of the doubt is narrower and still open: the annual reports for 1947, 1948 and 1949 are silent on the tradition and the camp's own 1951 history does not mention it (f_4795), so no CONTEMPORARY document from the founding seasons has yet been found -- the 1988 report is retrospective and the trophy's early shields could in principle have been back-filled. That is a gap in the contemporary record, not a competing date: nothing anywhere proposes a year other than 1947.",
+      "claim": "RESOLUTION of the L&V start date (p_410): 1947 is CONFIRMED, and this project's own doubt of 2026-09-05 (f_4796) was an error. Three independent lines converge. (1) THE OBJECT: the perpetual Kanawana Annual Trophy for Lumbermen Voyageur Games carries a shield for every season, and the first reads 47 -- 1947, Voyageurs. (2) THE CAMP'S OWN RECORD: \"Kanawana... A Place to Grow\" (YMCA of Montreal, 1988) lists under PROGRAMME HIGHLIGHTS: \"1947 Kanawana introduces new camp wide event to highlight the final session of camp. Lumbermen and Voyageurs competition is created.\" (3) THE ARITHMETIC, CORRECTED: YMCA Quebec calls 2025 the 78th edition. 1947 through 2025 inclusive is 79 calendar seasons; exactly one was lost, 2021, which has no shield -- 2020 WAS contested, remotely, and does have one. 79 minus 1 is 78. The count lands on 1947 to the year, and independently confirms 2026 as the 79th edition. The earlier arithmetic failed only because it deducted two pandemic seasons where the trophy and the operator's account both record one. What survives of the doubt is narrower and still open: the annual reports for 1947, 1948 and 1949 are silent on the tradition and the camp's own 1951 history does not mention it (f_4795), so no CONTEMPORARY document from the founding seasons has yet been found -- the 1988 report is retrospective and the trophy's early shields could in principle have been back-filled. That is a gap in the contemporary record, not a competing date: nothing anywhere proposes a year other than 1947. || SOURCE NOTE 2026-09-07 (p_489): the src_ymca_website citation on this fact is the site-level catch-all and was left in place deliberately. This fact is a supersession or resolution record rather than a page-level extraction, and its weight rests on the other sources cited beside it.",
       "category": "traditions",
       "entities": [
         "Lumbermen and Voyageurs Games",
@@ -102200,6 +102200,27 @@
       "date_ref": "1970",
       "conflicts_with": [],
       "added_version": "10.95",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5707",
+      "claim": "THE SITE-LEVEL CATCH-ALL SPLIT, AND WHAT IT EXPOSED: A THIRD OF ITS FACTS CANNOT BE TRACED TO A PAGE AT ALL. src_ymca_website stood for the whole of ymcaquebec.org and carried 57 facts. Its cached text is not a Kanawana page: it is the site's FRENCH HOMEPAGE, 103,206 bytes of TYPO3 markup, so the record could not even show what had been read. Worked page by page against the nine Kanawana pages this project has since cached, 2026-09-07: TWENTY-NINE FACTS REPOINTED with the claim checked against the cached text of the page named -- the history timeline (the 1894 Billy Ball narrative, the Page family, the 1910 opening, the 1947 L&V origin), the facilities page (550 acres, three lakes, the Katimavik, the nature interpretation trails, the platform tents), the programs page (the section list with ages and gender), the session pages, the expedition and leadership pages (the Rangers' DAFA certification), the our-team page, the lodging page and the day-camps announcement. TWENTY-FIVE FLAGGED AS UNTRACEABLE, on the fact, rather than pointed at a guessed URL. THE PATTERN IN THOSE TWENTY-FIVE IS THE FINDING: almost all of them are ALUMNI MATERIAL -- the Stuart McLean fund, the Pip Alumni Award and every recipient of it, Terry Mosher, James Orbinski, Marina Sharpe, Carol Skinner, the Caddells, the 2014 reunion at Victoria Hall -- and the camp's current alumni page carries none of it. It is a volunteer-recognition page now. The site was rebuilt, and a body of biographical material about named alumni went with it. THIS PROJECT'S ONLY RECORD OF THOSE PAGES IS THESE FACTS, and recovering the pages themselves means the Wayback Machine, not a re-read of the live site. THREE FACTS KEEP THE CATCH-ALL DELIBERATELY (f_0412, f_4796, f_4798), being supersession and resolution records rather than page-level extractions. TWO SMALLER CORRECTIONS FELL OUT OF THE CHECKING. f_0022 attributed '90 km north of Montreal' to the YMCA website; the facilities page says '45 minutes north of Montreal' and no cached page gives a kilometre figure -- the 90 km is CBC's (f_0925). And places-and-locations.md prints section age bands of two years each (Woodsmen 10-11, Pioneers 8-9, Coureurs des Bois 12-13, Pathfinders 14-15) with cabin and tent counts, all cited to the catch-all; the current programs page gives 7-12 and 13-16 and counts nothing. That passage is a superseded reading of the camp's own site, and because the citation names a domain rather than a document there is no way to date it. Flagged in the article rather than repointed or quietly updated.",
+      "sources": [
+        "src_ymca_website",
+        "src_ymcaq_kanawana_histoire_fr_2026",
+        "src_ymcaq_kanawana_facilities_2026",
+        "src_ymcaq_kanawana_programs_2026",
+        "src_ymcaq_kanawana_alumni_2026"
+      ],
+      "confidence": "inferred",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA Quebec"
+      ],
+      "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "10.96",
       "added_by": "ralph_loop"
     }
   ]

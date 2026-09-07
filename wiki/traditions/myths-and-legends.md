@@ -29,7 +29,7 @@ Camp Keewaydin in Ontario, founded in 1893, also predates Kanawana by one year; 
 
 This entry is worth keeping under "Myths" for a reason that has nothing to do with Kanawana's founders: **the withdrawn ranking was this wiki's own**, not a camp legend it inherited. It was stated as settled fact for months on the strength of one uncorroborated date. That is the same failure mode the rest of this article documents in others.
 
-The Ottertooth.com list of Canada's oldest camps lists Kanawana as tied with Keewaydin, though other sources place Keewaydin at 1893. This discrepancy arises because some sources date Kanawana from 1894 (Camp Jubilee at Lake Saint-Joseph) while others use the 1910 Saint-Sauveur site acquisition. The YMCA's own website and the Kanawana Facts timeline both use 1894 [src_kanawana_facts, src_ymca_website].
+The Ottertooth.com list of Canada's oldest camps lists Kanawana as tied with Keewaydin, though other sources place Keewaydin at 1893. This discrepancy arises because some sources date Kanawana from 1894 (Camp Jubilee at Lake Saint-Joseph) while others use the 1910 Saint-Sauveur site acquisition. The YMCA's own website and the Kanawana Facts timeline both use 1894 [src_kanawana_facts, src_ymcaq_kanawana_histoire_fr_2026].
 
 ### Myth 2: The Meaning of "Kanawana"
 
@@ -55,7 +55,7 @@ Today, the camp has moved away from these practices. The 2023 McMorris thesis an
 
 ### Myth 4: The Founding Narrative
 
-The standard founding narrative -- "Billy Ball took a group of boys to camp on an island in Lake St. Joseph in 1894" -- is the official YMCA version and appears on the current YMCA Quebec website [src_ymca_website]. However, archival evidence suggests the story is more complex. A journal from 1893 documents the "first Montreal YMCA venture to explore the country round about St. Agathe with the view of securing a lake on which to establish a Summer Camp" [src_concordia_fonds], and the Permanent Camp Committee minutes begin in 1895 [src_concordia_fonds]. The relationship between [[people/da-budge|D.A. Budge]] (Secretary General), "[[people/billy-ball|Billy Ball]]," and the [[people/cushing-family|Cushing family]] in the founding remains incompletely documented. See [[history/founding-1894|Founding of Camp Kanawana (1894)]] for the documented history.
+The standard founding narrative -- "Billy Ball took a group of boys to camp on an island in Lake St. Joseph in 1894" -- is the official YMCA version and appears on the current YMCA Quebec website [src_ymcaq_kanawana_histoire_fr_2026], whose first entry reads: "« Billy » Ball du YMCA de Montréal amène un groupe de jeunes campeurs sur une île du lac Saint-Joseph, près de Sainte-Agathe."^1 However, archival evidence suggests the story is more complex. A journal from 1893 documents the "first Montreal YMCA venture to explore the country round about St. Agathe with the view of securing a lake on which to establish a Summer Camp" [src_concordia_fonds], and the Permanent Camp Committee minutes begin in 1895 [src_concordia_fonds]. The relationship between [[people/da-budge|D.A. Budge]] (Secretary General), "[[people/billy-ball|Billy Ball]]," and the [[people/cushing-family|Cushing family]] in the founding remains incompletely documented. See [[history/founding-1894|Founding of Camp Kanawana (1894)]] for the documented history.
 
 ## Kanawana Legends
 
@@ -247,7 +247,7 @@ These Quebec folk traditions are strong candidates for Kanawana campfire storyte
 
 ## Sources
 
-1. YMCA Quebec, "The Kanawana Story" (current website) [src_ymca_website].
+1. Camp YMCA Kanawana, "L'histoire de Kanawana" [src_ymcaq_kanawana_histoire_fr_2026], https://www.ymcaquebec.org/fr/camp-vacances-kanawana/histoire; cached at `sources/cache/web-pages/ymcaquebec-kanawana-histoire-fr-2026.txt`. **Cited here as [src_ymca_website] until 2026-09-07**, a single record standing for the whole of ymcaquebec.org whose cached text is the site's French homepage rather than this page. Repointed under `p_489`.
 2. Concordia University Archives, Kamp Kanawana sub-series P0145/12B, Communications sub-sub-series P0145/12B04 [src_concordia_atom_12B04].
 3. Grace McMorris, "An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967," MA thesis, Concordia University, 2023 [src_mcmorris_thesis].
 4. "Kamp Kanawana: The Experience that Lasts a Lifetime," film produced by Cathy Reeves, 1993/1996.

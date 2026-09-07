@@ -203,7 +203,7 @@
     {
       "source_id": "src_ymca_website",
       "type": "web",
-      "title": "YMCA Quebec Website - History",
+      "title": "ymcaquebec.org, SITE-LEVEL CATCH-ALL -- retired as a citation target 2026-09-07, retained only for facts that cannot be traced to a page",
       "date": null,
       "date_precision": "approximate",
       "origin": "web",
@@ -214,9 +214,9 @@
       "extracted": true,
       "extraction_version": "3.3",
       "reliability": "secondary",
-      "notes": "Official YMCA Quebec history page. Confirmed 1968 coeducation date. Contains 'Kawanana' typo. || CACHE PATH RECOVERED 2026-09-07 under p_303, by folding in the twin record `src_cache_ymca_website`, which is now deleted. That record held THIS SAME DOCUMENT's cached text and was marked `unread`, while this record held the citations and was marked `extracted`. The pair asserted that one document was both read and never read, and neither record referenced the other, so anything starting from a citation saw no cache and would have re-fetched from a network this environment only half-reaches. Twenty-eight pairs had exactly this shape and every one was uniform: cache record `unread` with a file, cited record `extracted` with none. The twin's own note read: \"Text was already OCR'd and on disk in web-pages; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read.\"",
+      "notes": "Official YMCA Quebec history page. Confirmed 1968 coeducation date. Contains 'Kawanana' typo. || CACHE PATH RECOVERED 2026-09-07 under p_303, by folding in the twin record `src_cache_ymca_website`, which is now deleted. That record held THIS SAME DOCUMENT's cached text and was marked `unread`, while this record held the citations and was marked `extracted`. The pair asserted that one document was both read and never read, and neither record referenced the other, so anything starting from a citation saw no cache and would have re-fetched from a network this environment only half-reaches. Twenty-eight pairs had exactly this shape and every one was uniform: cache record `unread` with a file, cited record `extracted` with none. The twin's own note read: \"Text was already OCR'd and on disk in web-pages; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read.\" [SPLIT 2026-09-07 under p_489 (f_5707). This record stood for the whole domain and carried 57 facts, while its cached text is the site's FRENCH HOMEPAGE and not any Kanawana page. Twenty-nine facts were repointed to the nine page-level records this project has cached, each checked against that page's text. Twenty-five are flagged on the fact as untraceable to a page: almost all are ALUMNI material -- the Stuart McLean fund, the Pip Alumni Award and its recipients, the 2014 Victoria Hall reunion -- and the camp's current alumni page carries none of it, so those pages appear to have been rebuilt away and this project's facts are the only record of them here. Three supersession records keep this citation deliberately. DO NOT CITE THIS RECORD IN NEW WORK: register the page. If one of the flagged facts must be re-grounded, the route is the Wayback Machine, not the live site.]",
       "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact"
+      "read_state_basis": "direct: the cached file is the ymcaquebec.org French homepage, read 2026-09-07 to establish what this record actually holds. It is not the source of the claims that cite it."
     },
     {
       "source_id": "src_wikipedia_mcconnell",

@@ -1,7 +1,7 @@
 # Places and Locations at Camp Kanawana
 
 *Status: E1-reviewed | Sources: 32*
-*Last Updated: 2026-09-07 (the three section names two years earlier, from the 1936 CFCF script)*
+*Last Updated: 2026-09-07 (the section age bands flagged as a superseded reading of the camp's own website)*
 
 ## Overview
 
@@ -90,6 +90,17 @@ The traditional residential core of the camp, consisting of small cabins without
 These section names date to 1959, when they replaced the earlier Junior, Juvenile, and Senior designations used since at least **1936** [f_0216] — the 1936 CFCF broadcast script sets out all three with their age bands: "Juveniles, for boys under twelve years of age, Juniors, for boys twelve to fourteen, and Senior, for boys fifteen to seventeen," each with its own director, staff, campus and recreation hall.^29 *(Corrected from "at least 1938" on 2026-09-07.)* The 1959 names remain in use today [f_0217].
 
 In the camp's earliest years, boys slept in tents with wood floors, each housing eight to ten boys under a tent leader [src_brochure_1923].
+
+**A caution on the age bands above, added 2026-09-07.** The ages, cabin counts and tent counts in that list
+were taken from the YMCA Quebec website through a single record standing for the whole site, and they do
+not match what the site says now. The current programs page gives **Pioneers and Woodsmen at 7–12** and
+**Pathfinders and Coureurs des Bois at 13–16**, in place of the four narrow bands of two years each printed
+above; the current facilities page counts no cabins or tents at all. So this passage records a **superseded
+version of the camp's own site**, and the page it came from cannot be identified, because the record it
+cites is the domain rather than a document. It is left as it stands, and flagged, rather than repointed at
+a current page that says something different or silently updated to the present scheme — the two-year bands
+may well have been accurate when they were read. Recovering the page that carried them means the Wayback
+Machine. [f_5707]
 
 ### Front Camp
 
