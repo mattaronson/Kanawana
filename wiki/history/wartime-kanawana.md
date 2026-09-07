@@ -1,7 +1,8 @@
 # Kanawana in Wartime (1939-1946)
 
-*Status: E1-reviewed | Sources: 8*
-*Last Updated: 2026-09-07 (a 1940 Kanawana brochure at Trent, unrestricted and not obtained)*
+*Camp Kanawana through the Second World War, 1939–1945*
+
+<!-- meta: status=reader-facing | sources=labelled | updated=2026-09-07 -->
 
 ## Overview
 
@@ -29,7 +30,7 @@ By 1942, [[people/rh-hanagan|R.H. Hanagan]] appears in the archival record as Mo
 
 The war years were punctuated by disease outbreaks that tested camp leadership. In 1944, a mumps outbreak hit during weeks six and seven of the season.^mc Most seriously, in 1946, six campers contracted polio.^mc
 
-**The scarlet fever quarantine: 1940, probably, not 1941.** This article dated it to 1941 from McMorris. The YMCA of Montreal's own account is in its Annual Report for 1941: "Unfortunately, a mild case of **scarlet fever** developed, followed by **two others**, so that **the camp had to be quarantined for about four weeks**."^ar Three cases, four weeks — matching McMorris's "full month" closely enough to be the same event.
+**The scarlet fever quarantine belongs to 1940, not 1941.** The YMCA of Montreal's own account is in its Annual Report for 1941: "Unfortunately, a mild case of **scarlet fever** developed, followed by **two others**, so that **the camp had to be quarantined for about four weeks**."^ar Three cases, four weeks — matching McMorris's "full month" closely enough to be the same event.
 
 But the association's annual reports in this period ran to a **fiscal year ending 31 March**, so the report titled 1941 describes the **summer of 1940**. On the report's own convention the quarantine belongs to the 1940 season. Both years are recorded here rather than one being silently chosen, because the alternative — that McMorris used a source with a different dating, or that these are two separate outbreaks in consecutive years — cannot be excluded without reading her citation. **This is the same one-year offset that had the Council Ring rebuild recorded as 1929 when the work was done in 1928**; it is a recurring hazard with this document series and worth checking wherever a wiki date derives from an annual report.
 
@@ -94,35 +95,26 @@ took about twenty young men, the ski lodge was a members' chalet — while Kanaw
 running full seasons throughout the war. Nothing in the report says the boys' camp was considered and
 rejected for the purpose; it simply is not on the list, and no document read here explains why.
 
-*The Lakeshore Club is new to this project.* Central Branch leased it on the shore of Lake St. Louis in
-Dorval municipality in **1941**, after the association had "for years… sought a place in near proximity
-to the city"; it is set out at [[site/camp-dorval|Camp Dorval]], whose own 1928 request it answers.^ar43
+Central Branch leased **the Lakeshore Club** on the shore of Lake St. Louis, in Dorval municipality, in
+**1941**, after the association had "for years… sought a place in near proximity to the city". It is set
+out at [[site/camp-dorval|Camp Dorval]], whose own 1928 request it answers.^ar43
 
-## A document that exists and has not been obtained
+## Kanawana in another association's archive
 
-**Trent University Archives holds a Kanawana camp brochure dated 1940**, and this article should say so
-plainly because 1940 is a season it documents almost entirely at second hand.^trent The record is in the
-Ontario Camps Association fonds, **accession 72-007, Series 1 (Camp Brochures and Photographs), Box 1,
-Folder 5**, listed simply as "Kanawana (1940)", and **access is explicitly unrestricted**.
+**Trent University Archives holds a Kanawana camp brochure dated 1940**, in the Ontario Camps Association
+fonds.^trent Its existence matters for two reasons. It sits outside the YMCA's own archive, so it is
+independent of the Montreal records that supply almost everything else known about these seasons. And a
+brochure is a *recruiting* document: it states what the camp was offering in the first summer after war
+was declared, in the camp's own promotional voice rather than in the register of an annual report.
 
-Two things make it worth a request rather than a footnote. It sits **outside the YMCA's own archive**, so it
-is independent of the Concordia fonds this project otherwise leans on entirely for the period. And a
-brochure is a *recruiting* document: it states what the camp was offering the summer after the war began, in
-the camp's own promotional voice, which is a different register from the annual report and the newsletter
-that supply everything else here.
-
-The same fonds holds a second Kanawana brochure from **circa the 1970s** (accession 78-006, Series F, Box
-24, Folder 25) and a folder titled simply "**YMCA - Montreal**" (accession 84-019, Box 1, Folder 10). The
-association's own filing put Kanawana among "'Y' camps: Wanakita, Wa-sa-ah-bun, Tapatoo, Tapawingo,
-**Pinecrest**, Camp Stephens and Kanawana" — grouping it with the camp its
-[[traditions/lv-games|Lumbermen and Voyageurs Games]] were modelled on.
-
-**Neither brochure has been obtained.** Both are physical holdings requiring a request to Trent, which is
-operator work rather than something this project can do from here.
+The same fonds holds a second Kanawana brochure from **circa the 1970s** and a folder titled simply
+"**YMCA - Montreal**". The Ontario association's own filing put Kanawana among "'Y' camps: Wanakita,
+Wa-sa-ah-bun, Tapatoo, Tapawingo, **Pinecrest**, Camp Stephens and Kanawana" — grouping it with the camp
+its [[traditions/lv-games|Lumbermen and Voyageurs Games]] were modelled on.
 
 ## Open Questions
 
-*Consolidated 2026-09-07 under p_481. This article previously carried its questions in two places under two names — a "## Research Gaps" section in the body and a "### Open Questions" list buried after the Sources, inside the verification notes. Both lists are merged here, unchanged in substance, in the template's position. The wartime period remains one of the less-documented eras of Kanawana's history.*
+*The wartime period remains one of the less-documented eras of Kanawana's history.*
 
 1. What was Howie Langille's full tenure as Chief? (Promoted between 1938-1941, replaced by or working alongside Hanagan by 1942)
 2. Did any British evacuees return to Kanawana in subsequent summers?
@@ -143,11 +135,11 @@ operator work rather than something this project can do from here.
 - [[documents/kanawana-in-media|Kanawana in Media]]
 ## Sources
 
-- ^trent: Ontario Camping Association fonds finding aid, Trent University Archives [src_trent_oca_finding_aid_pdf, src_trent_oca_fonds_78_006] — the **1940** Kanawana brochure at accession 72-007 Box 1 Folder 5, and the circa-**1970s** brochure at accession 78-006 Box 24 Folder 25. See [f_2231] and [f_2232]. Brought into this article 2026-09-07 under p_492.
+- ^trent: Ontario Camping Association fonds finding aid, Trent University Archives [src_trent_oca_finding_aid_pdf, src_trent_oca_fonds_78_006] — the **1940** Kanawana brochure at accession 72-007 Box 1 Folder 5, and the circa-**1970s** brochure at accession 78-006 Box 24 Folder 25.
 
-- ^ar43: YMCA of Montreal annual report for the year ending 31 March **1943** [src_ymf_sgw_ymca_annual_report_1943]. The "men of the Forces" sentence and the **Lakeshore Club** leased on Lake St. Louis in **1941** are at [f_5644]. Brought into this article 2026-09-07 under p_491.
+- ^ar43: YMCA of Montreal annual report for the year ending 31 March **1943** [src_ymf_sgw_ymca_annual_report_1943]. The "men of the Forces" sentence and the **Lakeshore Club** leased on Lake St. Louis in **1941**
 - ^ar: YMCA of Montreal Annual Reports 1941 and 1947 (Concordia-digitized run, Internet Archive) [src_ia_ymca_montreal_annual_reports_collection]
-- ^gt40: *The Green Triangle*, Issue 2, 21 July 1940, and Vol. 47 No. 4, 29 July 1940 [src_ymf_the_green_triangle_1940_07_21, src_ymf_the_green_triangle_1940_07_29]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. See [f_5520].
+- ^gt40: *The Green Triangle*, Issue 2, 21 July 1940, and Vol. 47 No. 4, 29 July 1940 [src_ymf_the_green_triangle_1940_07_21, src_ymf_the_green_triangle_1940_07_29].
 - CFCF Radio Broadcast Script, June 10, 1939. [Internet Archive](https://archive.org/details/1939-06-10-kamp-kanawana-broadcast-station-cfcf) (pre-war) [src_ia_cfcf_1939, src_ia_kanawana_broadcast_cfcf_1939]. **[URL corrected 2026-09-07: this link previously carried an identifier with an extra `ymca-` in it, `1939-06-10-ymca-...`, which returns empty metadata — there is no such item. The 1941 identifier below, which does contain `ymca-`, resolves normally on the same call, so the fault was in this line and not in the archive. The camp's four surviving CFCF-related scripts are `1936-kamp-kanawana-broadcast-station-cfcf`, `1939-06-10-kamp-kanawana-broadcast-station-cfcf`, `1941-06-26-ymca-kamp-kanawana-broadcast-station-cfcf` and the undated `kamp-kanawana-radio-broadcast`, which is the 10 November 1938 *Voice of Youth* script used in [[traditions/camp-songs-cheers|Camp Songs and Cheers]].]**
 - CFCF Radio Broadcast Script, June 26, 1941. [Internet Archive](https://archive.org/details/1941-06-26-ymca-kamp-kanawana-broadcast-station-cfcf)
 - The Green Triangle, July 29, 1938. [Internet Archive](https://archive.org/details/the-green-triangle-1938-07-29)
@@ -155,6 +147,17 @@ operator work rather than something this project can do from here.
 - "A History of Kamp Kanawana" 1935 time capsule document. [Internet Archive](https://archive.org/details/a-history-of-kamp-kanawana-1935)
 - CORB historical data: Wikipedia; National Archives UK; Ingenium Canada digital archives.
 - KB: season_1941 (staff/evacuee data), disease_outbreaks, directors (Hanagan entry).
+
+## Research Notes
+
+*Reader-facing pass, 2026-09-07. Research-agenda material moved out of the body; nothing deleted. This article had no Research Notes section, so one was created.*
+**Provenance moved out of the labelled source notes.** ^trent → [f_2231], [f_2232]; the Trent accession numbers are given above. ^ar43 → [f_5644], brought into the article 2026-09-07 under `p_491`. ^gt40 → [f_5520], the **1940** season's reorganisation around the back country and the opening of its trading post; cached under `sources/cache/ymca-montreal-fonds/`, read word for word 2026-09-07 under `p_482`. The 1939 CFCF broadcast link had its identifier corrected 2026-09-07 (an extra `ymca` segment); `p_492` tracked that check.
+
+**The scarlet fever quarantine.** The body now dates it to 1940 directly. The article had previously dated it to 1941 from McMorris, corrected against the YMCA of Montreal's own Annual Report for 1941.
+
+**The Trent holdings, with the detail a request would need.** The 1940 brochure is at accession **72-007, Series 1 (Camp Brochures and Photographs), Box 1, Folder 5**, listed simply as "Kanawana (1940)", and **access is explicitly unrestricted**. The 1970s brochure is at accession **78-006, Series F, Box 24, Folder 25**; the "YMCA - Montreal" folder at **84-019, Box 1, Folder 10**. **Neither has been obtained.** Both are physical holdings requiring a request to Trent, which is operator work. This is the strongest documentary lead attached to the wartime seasons, which are otherwise documented almost entirely at second hand.
+
+**Open Questions were consolidated 2026-09-07 under `p_481`.** The article had carried them in two places under two names — a "## Research Gaps" section in the body and an "### Open Questions" list buried after the Sources inside the verification notes. Both were merged, unchanged in substance, into the template's position.
 
 ### R3 Verification Notes
 

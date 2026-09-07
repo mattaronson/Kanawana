@@ -726,7 +726,7 @@
         "site/camp-dorval"
       ],
       "file_id": "1FzPFWuQ3jBYZdPOSVC_xjANKsWr7RjSK",
-      "word_count": 2623,
+      "word_count": 2708,
       "tags": {
         "era": [
           "1910s",
@@ -749,7 +749,8 @@
           "founding"
         ],
         "is_hub": false
-      }
+      },
+      "reader_facing": true
     },
     {
       "article_id": "section-names",

@@ -7989,3 +7989,22 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   CALIBRATED against all three cases before being trusted; all three behave, correct state silent.
   RUNNING TOTAL OF HARNESS WORK: three checks taught a second article format (A1, F, G). All one-time. Article 3 is the test of whether it
   is now actually zero.
+2026-09-07T21:32:04Z  PUBLICATION PASS, article 3 of 3: wartime-kanawana reader-facing. Harness cost was NOT zero, and the reason is structural variety.
+  MEASUREMENT: 2,623 body words -> 2,313 (11.8%). Ids 8 -> 0. Project-voice 8 -> 0.
+  THE THREE ARTICLES, side by side: Tasse 1,891 -> 1,392 (26%); Shorgan 1,197 -> 1,154 (3.6%); wartime 2,623 -> 2,313 (11.8%).
+  COST TRACKS PROJECT-VOICE PASSAGES, NOT LENGTH AND NOT ID DENSITY. Shorgan had the second-highest id density in the wiki and cost almost
+  nothing because it was already written about its subject.
+  PREDICTION FAILED: I expected harness work to be zero by article 3 because A1, F and G had been taught the format. IT WAS NOT, and each
+  new cost came from a STRUCTURAL VARIANT the first two did not have:
+   (a) NO RESEARCH NOTES SECTION AT ALL. The template is not uniformly applied, so there was no destination for the moved material; one had
+       to be created. An assert caught it -- s.count("## Research Notes") was 0, not 1.
+   (b) LABELLED SOURCE NOTES EMBED PROVENANCE DIFFERENTLY from numbered ones. In articles 1 and 2 a single regex on "See [f_NNNN]." cleared
+       them; here the ids sit inside sentences ("are at [f_5644]", "Brought into this article... under p_491", "read word for word... under
+       p_482"), and needed four separate patterns.
+   (c) CITATION_AIM RUNS OVER RESEARCH NOTES TOO. Moving provenance there is not free -- a moved citation must still share a distinctive
+       token with the fact it cites, or the build fails. It did, and I had to name the 1940 season in the provenance line.
+  I ALSO UNDER-DID IT FIRST AND CAUGHT IT BY MEASURING. My first pass reported "AFTER ids 7, voice 3" and I nearly moved on; printing the
+  actual matched substrings rather than the containing lines showed seven real ids and three real "this article"s still in the body,
+  including a correction narrative about the scarlet-fever date. PRINT THE MATCH, NOT THE LINE.
+  RUNNING TOTALS: three articles, four harness checks taught the second format (A1, F, G, and citation_aim's reach into Research Notes as a
+  constraint rather than a change). Prose cost 3.6-26% of body words, driven by how much of the article was about the research.
