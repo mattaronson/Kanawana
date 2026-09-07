@@ -1,8 +1,8 @@
 {
-  "version": "10.55",
-  "kb_version": "10.55",
+  "version": "10.56",
+  "kb_version": "10.56",
   "migrated_from": "3.3",
-  "fact_count": 5604,
+  "fact_count": 5606,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100924,7 +100924,7 @@
     },
     {
       "fact_id": "f_5639",
-      "claim": "THE OTOREKE SKI CLUB DID NOT DECLINE GRADUALLY; IT COLLAPSED IN ONE YEAR. This corrects f_5638, written minutes earlier, which set 1949-50 against 1959 and read the difference as a decade's drift. Filling the years between shows the opposite shape.\n\nTHE SERIES, from the annual reports, each on the ski season ending in its report year:\n1949-50: 150 MEMBERS; 558 persons guests at the lodge, 'not including the many who had meals only'.\n1951-52: 140 MEMBERS; 'Sleeping quarters at the Laurentian Y.M.C.A. lodge were TAXED TO THE UTMOST DURING 16 WEEKENDS, and the OVERFLOW of enthusiastic skiers were ACCOMMODATED AT NEARBY FARMHOUSES. During the season there was an AGGREGATE ATTENDANCE OF 1100. THREE SKI TOWS were operated near the lodge, and beginners classes were held throughout the season. An OPERATING COMMITTEE OF 15 MEN AND WOMEN took charge of cross-country runs, A SKI MEET AND CARNIVAL, and a number of special events.'\n1954-55: 'The Otoreke Ski Club had THE HIGHEST NUMBER OF MEMBERS IN ITS 11 [YEAR] ...' -- THE NUMBER ITSELF IS DESTROYED BY OCR, the line running 'wear Vasey ese see ee eet eee Wace'. So the peak year is known and its size is not. The same passage: 'Christieville has become a home to those who visit it regularly. SOME GUESTS ARE FROM THE STATES, and SOME ARE NEWCOMERS FROM EUROPE, as well as many local Montrealers. THIRTY PERSONS joined in a gathering and TURKEY DINNER ON CHRISTMAS DAY.'\n1957-58: 130 MEMBERS, 'with CLOSE TO 300 different young men and women visiting the lodge during the ski season'.\n1958-59: 87 MEMBERS, 'with CLOSE TO 100 GUESTS AND MEMBERS visiting the Lodge during the ski weekends' (f_5637).\n\nSO THE FALL IS 130 TO 87 IN MEMBERSHIP AND ABOUT 300 TO ABOUT 100 IN VISITORS, IN A SINGLE YEAR. Membership had held between 130 and 150 for the whole decade and peaked in the middle of it. Whatever happened, happened between the 1957-58 and 1958-59 seasons, and no report read here says what.\n\nA CAVEAT ON COMPARING THE ATTENDANCE FIGURES, because they are not one series: 558 in 1950 is PERSONS, 1,100 in 1952 is AGGREGATE ATTENDANCE (so it counts repeat visits), and 300 in 1958 and 100 in 1959 are DIFFERENT PEOPLE. Only the membership numbers -- 150, 140, peak, 130, 87 -- are like for like, and they carry the argument on their own.\n\nAND THE CLUB'S AGE IS DATEABLE FROM THE OCR THAT SURVIVED. 'Its 11 [year]' in the report for 1955 puts the club's start at 1944 or 1945, which fits the 1950 report's statement that the lodge was 'secured in the Fall of 1947 AFTER BEING USED ON A RENTAL BASIS FOR TWO SEASONS' (f_5638) -- rented for the 1945-46 and 1946-47 winters. Two independent statements, five years apart, agreeing on when this started.\n\nTHE 1952 DETAIL IS THE BEST PICTURE OF THE PLACE AT ITS HEIGHT: three tows, sixteen weekends full, skiers sleeping in farmhouses down the road because the lodge could not hold them, a ski meet and carnival, and fifteen volunteers running it.",
+      "claim": "THE OTOREKE SKI CLUB DID NOT DECLINE GRADUALLY; IT COLLAPSED IN ONE YEAR. This corrects f_5638, written minutes earlier, which set 1949-50 against 1959 and read the difference as a decade's drift. Filling the years between shows the opposite shape.\n\nTHE SERIES, from the annual reports, each on the ski season ending in its report year:\n1949-50: 150 MEMBERS; 558 persons guests at the lodge, 'not including the many who had meals only'.\n1951-52: 140 MEMBERS; 'Sleeping quarters at the Laurentian Y.M.C.A. lodge were TAXED TO THE UTMOST DURING 16 WEEKENDS, and the OVERFLOW of enthusiastic skiers were ACCOMMODATED AT NEARBY FARMHOUSES. During the season there was an AGGREGATE ATTENDANCE OF 1100. THREE SKI TOWS were operated near the lodge, and beginners classes were held throughout the season. An OPERATING COMMITTEE OF 15 MEN AND WOMEN took charge of cross-country runs, A SKI MEET AND CARNIVAL, and a number of special events.'\n1954-55: 'The Otoreke Ski Club had THE HIGHEST NUMBER OF MEMBERS IN ITS 11 [YEAR] ...' -- THE NUMBER ITSELF IS DESTROYED BY OCR, the line running 'wear Vasey ese see ee eet eee Wace'. So the peak year is known and its size is not. The same passage: 'Christieville has become a home to those who visit it regularly. SOME GUESTS ARE FROM THE STATES, and SOME ARE NEWCOMERS FROM EUROPE, as well as many local Montrealers. THIRTY PERSONS joined in a gathering and TURKEY DINNER ON CHRISTMAS DAY.'\n1957-58: 130 MEMBERS, 'with CLOSE TO 300 different young men and women visiting the lodge during the ski season'.\n1958-59: 87 MEMBERS, 'with CLOSE TO 100 GUESTS AND MEMBERS visiting the Lodge during the ski weekends' (f_5637).\n\nSO THE FALL IS 130 TO 87 IN MEMBERSHIP AND ABOUT 300 TO ABOUT 100 IN VISITORS, IN A SINGLE YEAR. Membership had held between 130 and 150 for the whole decade and peaked in the middle of it. Whatever happened, happened between the 1957-58 and 1958-59 seasons, and no report read here says what.\n\nA CAVEAT ON COMPARING THE ATTENDANCE FIGURES, because they are not one series: 558 in 1950 is PERSONS, 1,100 in 1952 is AGGREGATE ATTENDANCE (so it counts repeat visits), and 300 in 1958 and 100 in 1959 are DIFFERENT PEOPLE. Only the membership numbers -- 150, 140, peak, 130, 87 -- are like for like, and they carry the argument on their own.\n\nAND THE CLUB'S AGE IS DATEABLE FROM THE OCR THAT SURVIVED. 'Its 11 [year]' in the report for 1955 puts the club's start at 1944 or 1945, which fits the 1950 report's statement that the lodge was 'secured in the Fall of 1947 AFTER BEING USED ON A RENTAL BASIS FOR TWO SEASONS' (f_5638) -- rented for the 1945-46 and 1946-47 winters. Two independent statements, five years apart, agreeing on when this started.\n\nTHE 1952 DETAIL IS THE BEST PICTURE OF THE PLACE AT ITS HEIGHT: three tows, sixteen weekends full, skiers sleeping in farmhouses down the road because the lodge could not hold them, a ski meet and carnival, and fifteen volunteers running it.\n\n[CORRECTED 2026-09-07 by f_5643. This fact read the 1955 report's 'its 11 year' as dating the CLUB'S FOUNDING to 1944-45 and said the 1950 report agreed 'from the other end'. Both are about THE CHRISTIEVILLE ERA. The Otoreke Ski Club was running in 1941-42 at a rented chalet AT PIEDMONT sleeping 44, and in 1942-43 with 50 members at ALOUETTE LODGE NEAR STE. ADELE. It reached Christieville by the winter of 1945-46 and the association bought that lodge in the autumn of 1947. The membership series therefore starts at 50 in 1942-43 and runs over 150 by 1947-48. The figures in this fact are right; the club is three years older than it says and began somewhere else.]",
       "sources": [
         "src_ymf_sgw_ymca_annual_report_1952",
         "src_ymf_sgw_ymca_annual_report_1955",
@@ -101004,6 +101004,48 @@
       "date_ref": "1925-1928",
       "conflicts_with": [],
       "added_version": "10.55",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5643",
+      "claim": "THE OTOREKE SKI CLUB BEGAN AT PIEDMONT IN 1941-42, NOT AT CHRISTIEVILLE, AND IT MOVED TWICE. This CORRECTS f_5639, written earlier the same day, which read the 1955 report's 'highest number of members in its 11 year[s]' as dating the club's FOUNDING to 1944 or 1945 and called that 'exactly what the 1950 report implies from the other end'. Both statements are about THE CHRISTIEVILLE ERA. The club is three years older and started somewhere else.\n\n1941-42, from the report for the year ending 31 March 1942: '(2) OTOREKE SKI LODGE: FOR THE FIRST TIME IN ITS HISTORY, THE ASSOCIATION HAD ITS OWN (RENTED) SKI LODGE available for the use of members throughout the winter season. SITUATED AT PIEDMONT, in the heart of the finest ski-ing country in the Laurentians, the Chalet became a popular rendezvous for skiers. The comfortable lounge with its roaring fireplace, the good food and COMFORTABLE ACCOMMODATION FOR 44 SKIERS...' Piedmont is the railway stop for Kanawana, which is presumably why the association knew it.\n\n1942-43: 'OTOREKE SKI CLUB: With 50 MEMBERS had a very successful season at ALOUETTE LODGE NEAR STE. ADELE, WHICH WAS RENTED FOR THE SEASON.' A second rented lodge, a different village.\n\n1945-46: 'a very successful season at OUR SKI LODGE AT CHRISTIEVILLE which was USED BY 269 INDIVIDUALS during the winter.' So Christieville is in hand by the winter of 1945-46, which fits the 1950 report's 'secured in the Fall of 1947 after being used on a RENTAL BASIS FOR TWO SEASONS' -- rented 1945-46 and 1946-47, bought in the autumn of 1947.\n\n1947-48: 'at Christieville, A LODGE OWNED BY THE ASSOCIATION, used by young people of all the Branches'; and 'With OTOREKE CAMPERS AS THE NUCLEUS, OVER 150 YOUNG PEOPLE were active in the Otoreke Ski Club during the ski season, and on several occasions AS MANY AS 30 ADDITIONAL WERE ACCOMMODATED AT NEARBY FARMHOUSES. THE CHRISTIEVILLE DISTRICT IS INCREASING IN POPULARITY AMONGST SKIERS, since the addition of ANOTHER SKI-TOW AND A LARGE COMPETITION JUMP.'\n\nSO THE FULL MEMBERSHIP SERIES IS: 50 (1942-43), over 150 (1947-48), 150 (1949-50), 140 (1951-52), a peak in 1954-55, 130 (1957-58), 87 (1958-59). The club tripled in its first six years, held for a decade, and lost a third in one year at the end. AND 'ITS 11 YEAR' IN 1955 COUNTS FROM 1944-45, WHICH IS THE CHRISTIEVILLE RELATIONSHIP AND NOT THE CLUB -- the club was already four seasons old by then. The farmhouse overflow, which f_5639 reported from 1952, was happening in 1947-48 too.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1942",
+        "src_ymf_sgw_ymca_annual_report_1943",
+        "src_ymf_sgw_ymca_annual_report_1946",
+        "src_ymf_sgw_ymca_annual_report_1948"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Otoreke Ski Club",
+        "Christieville Ski Lodge",
+        "Alouette Lodge",
+        "Piedmont"
+      ],
+      "date_ref": "1941-1948",
+      "conflicts_with": [],
+      "added_version": "10.56",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5644",
+      "claim": "THE LAKESHORE CLUB AT DORVAL, 1941, IS THE ASSOCIATION ANSWERING CAMP DORVAL'S 1928 REQUEST IN ITS OWN WORDS. A YMCA of Montreal facility this project held NOTHING on: zero mentions in the wiki and zero facts in the KB before today.\n\nFROM THE REPORT FOR THE YEAR ENDING 31 MARCH 1942, on the summer of 1941: '(3) LAKESHORE CLUB: FOR YEARS THE ASSOCIATION HAS SOUGHT A PLACE IN NEAR PROXIMITY TO THE CITY, where members and their friends might enjoy the benefits of outdoor life during the summer months. LAST SUMMER CENTRAL BRANCH WAS ABLE TO LEASE SUCH A PLACE ON THE SHORE OF LAKE ST. LOUIS IN DORVAL MUNICIPALITY. The property includes A HOUSE WHICH PROVIDES LIVING ACCOMMODATION FOR ABOUT 20 YOUNG MEN. There is ample grass space, FINE ELMS and other trees and shrubs, boating and swimming facilities, TENNIS COURT, space for ARCHERY, HORSE-SHOES, SOFTBALL, etc. THE VIEW OF THE LAKE IS UNEXCELLED. TRANSPORTATION IS BY BUS AND TRAM CAR. IT WOULD BE A WONDERFUL THING IF THE ASSOCIATION MIGHT SECURE THE PERMANENT USE OF SUCH A PROPERTY.'\n\nCOMPARE CAMP DORVAL, THIRTEEN YEARS EARLIER (f_5642). The annual report on the 1928 season said the near-the-city idea met 'a very important need' but that 'the facilities available ... are so inadequate that UNLESS SOME PROPERTY CAN BE SECURED which will better meet the needs of the situation, it is proposed to discontinue this service.' In 1942 the association writes that it has sought exactly such a place 'FOR YEARS', has now leased one, and would like to own it. SAME NEED, SAME MUNICIPALITY, SAME WORDING ABOUT PROPERTY. This is documented continuity rather than the inference camp-dorval.md was carrying, and the article is corrected to say so. It is still not the SAME property: Camp Dorval's leased house overlooked the Royal Montreal Golf Club and this one is on the shore of Lake St. Louis, and no document connects the two leases.\n\n1943, the only other season read: '(e) LAKESHORE CLUB: Situated on Lake St. Louis near Dorval, was OPEN FROM MAY TO OCTOBER for a limited number of residents, and in addition, was available for BOATING, SWIMMING, TENNIS, ARCHERY, HORSE-SHOES, PICNICS, etc. SEVERAL CONFERENCES ALSO TOOK PLACE ON THE PROPERTY.'\n\nAND THE WAR PUT SERVICEMEN IN ALL THREE OF THE ASSOCIATION'S OUTDOOR PROPERTIES. The same 1943 report: 'CAMP OTOREKE AT LAKE ST. JOSEPH, OUR LAKESHORE CLUB AT DORVAL, AND THE Y.M.C.A. SKI LODGE AT STE. ADELE WERE CONTINUOUSLY USED, IN THE[IR] SEASONS, BY MEN OF THE FORCES.' history/wartime-kanawana.md has the war reaching Kanawana through staff enlistment and programme; this is the association's outdoor plant being turned over to the forces as a whole, and Kanawana is conspicuously NOT in that list of three.\n\nNOT ESTABLISHED: where exactly the property was, who owned it, whether the lease was renewed, whether the association ever secured the permanent use it wanted, or when the club ended. The reports after 1943 have not been swept for it.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1942",
+        "src_ymf_sgw_ymca_annual_report_1943"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Lakeshore Club",
+        "Camp Dorval",
+        "YMCA of Montreal",
+        "Lake St. Louis"
+      ],
+      "date_ref": "1941-1943",
+      "conflicts_with": [],
+      "added_version": "10.56",
       "added_by": "ralph_loop"
     }
   ]

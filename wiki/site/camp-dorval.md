@@ -1,6 +1,6 @@
 # Camp Dorval
 
-*Status: stub | Sources: 3*
+*Status: stub | Sources: 4*
 *Last Updated: 2026-09-07 (created from the annual reports, read as a run)*
 
 ## Overview
@@ -67,10 +67,41 @@ association concludes that it should therefore stop unless somebody buys it a si
 for lack of demand** — neither document claims that — and which body's view prevailed is not established
 here. Concordia's records for the camp stop in 1928.
 
-*A sequence, offered as a reading and not as a finding:* the association asks for a property in 1928,
-[[site/camp-becsies|Camp Becsies]] is built as an annex in 1929, and [[site/camp-perrot|Camp Perrot]] is
-finally bought in 1945 "after many years of search" — a near-the-city camp on Île Perrot, seventeen
-years after Dorval was told it needed one. No document joins them.
+## The Lakeshore Club, 1941: the association answers itself, thirteen years later
+
+*This section replaced a paragraph offering the sequence below as an inference. It is not an inference
+any more.*
+
+The report on the summer of **1941**: "**(3) Lakeshore Club: For years the Association has sought a place
+in near proximity to the city**, where members and their friends might enjoy the benefits of outdoor
+life during the summer months. **Last summer Central Branch was able to lease such a place on the shore
+of Lake St. Louis in Dorval municipality.** The property includes **a house which provides living
+accommodation for about 20 young men**. There is ample grass space, **fine elms** and other trees and
+shrubs, boating and swimming facilities, **tennis court**, space for **archery, horse-shoes, softball**,
+etc. **The view of the lake is unexcelled. Transportation is by bus and tram car. It would be a
+wonderful thing if the Association might secure the permanent use of such a property.**"^4
+
+Set that against the 1928 sentence above. The association said then that the near-the-city idea met "a
+very important need" and that it would stop **unless some property can be secured**. In 1942 it writes
+that it has sought exactly such a place **"for years,"** has leased one, **in the same municipality**,
+and would like to own it. Same need, same place-name, same word about property. **The continuity is
+documented rather than inferred** — though it is emphatically *not the same property*: Camp Dorval's
+house overlooked the Royal Montreal Golf Club and this one is on the Lake St. Louis shore, and no
+document connects the two leases.
+
+By **1943** it was "open from **May to October** for a limited number of residents, and in addition, was
+available for boating, swimming, tennis, archery, horse-shoes, picnics, etc. **Several conferences also
+took place on the property**."^4
+
+**And the war took it.** The same 1943 report: "**Camp Otoreke at Lake St. Joseph, our Lakeshore Club at
+Dorval, and the Y.M.C.A. Ski Lodge at Ste-Adèle were continuously used, in the[ir] seasons, by men of
+the Forces.**"^4 That is the association's whole outdoor plant turned over to servicemen — and
+[[site/the-kanawana-site|Kanawana]] is conspicuously not in the list of three. See
+[[history/wartime-kanawana|Wartime Kanawana]].
+
+*What still is a reading and not a finding:* that [[site/camp-becsies|Camp Becsies]] in 1929 and
+[[site/camp-perrot|Camp Perrot]] in 1945, bought "after many years of search," belong to the same
+search. No document joins those to Dorval.
 
 ## Open Questions
 
@@ -103,3 +134,4 @@ years after Dorval was told it needed one. No document joins them.
 1. YMCA of Montreal annual reports for the years ending 30 April **1926** [src_ymf_sgw_ymca_annual_report_1926], **1927** [src_ymf_sgw_ymca_annual_report_1927] and 31 March **1929** [src_ymf_sgw_ymca_annual_report_1929], each describing the previous season. The **1925** founding and MacKinnon's initiative, the **1926** equipment list and the **$1.00** weekend, and the **1928** figures with the proposal to discontinue are transcribed together at [f_5642].
 2. Concordia University Archives, YMCA of Montreal fonds, sub-series **P0145/12E**, Camp Dorval, **1926-1928**, 0.5 cm of textual records [src_concordia_12E]; the "Camp Dorval director's report" (1926) and "Report on Camp Dorval season 1928" are at [f_1852], and the sub-series description at [f_1365]. The **1926** director's report has not been read.
 3. *Report on Camp Dorval for the season of 1928* [src_camp_dorval_1928]. The **$75** lease, the roughly **$500** season, the twenty-cent meals and the recommendation that the camp be continued are at [f_1979]; **Dent Harrison**'s motor launch on **Lake St. Louis** is at [f_5005].
+4. YMCA of Montreal annual reports for the years ending 31 March **1942** [src_ymf_sgw_ymca_annual_report_1942] and **1943** [src_ymf_sgw_ymca_annual_report_1943]. The **Lakeshore Club** leased on Lake St. Louis in **1941**, the "for years the Association has sought a place in near proximity to the city" passage, the **May to October** season, and the wartime use of the association's outdoor properties "by men of the Forces" are all at [f_5644].

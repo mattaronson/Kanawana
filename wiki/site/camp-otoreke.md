@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 69*
+*Status: E1-reviewed | Sources: 70*
 *Last Updated: 2026-09-07 (McKay dated to May 1962; the 1,507-camper season; and who was responsible for the camp)*
 
 ## Overview
@@ -391,6 +391,39 @@ Petite-Bourgogne — Little Burgundy, the working-class district southwest of do
 
 A man who had spent two years supervising forty-eight refugee youth centres across four Middle Eastern territories came home to run a family camp in the Laurentians. The Y connection runs both ways: he built the programme that sent twenty-two Canadian students, three of them Sir George men, to the Middle East as YMCA summer service volunteers. His wife is named as Janet Marilyn, née Pickford of Westmount.
 
+### The ski club before Christieville: Piedmont, then Ste-Adèle
+
+The club did not start at Christieville and did not start in 1945. It ran for four seasons in two other
+places first.^70
+
+**1941-42.** "For the **first time in its history**, the Association had **its own (rented) ski lodge**
+available for the use of members throughout the winter season. **Situated at Piedmont**, in the heart of
+the finest ski-ing country in the Laurentians, the Chalet became a popular rendezvous for skiers. The
+comfortable lounge with its roaring fireplace, the good food and comfortable **accommodation for 44
+skiers**…" Piedmont is the railway stop for Kanawana, which is presumably how the association came to
+know it.
+
+**1942-43.** "Otoreke Ski Club: With **50 members** had a very successful season at **Alouette Lodge near
+Ste-Adèle**, which was **rented for the season**." A second rented lodge, a different village.
+
+**1945-46.** "a very successful season at **our Ski Lodge at Christieville**, which was used by **269
+individuals** during the winter." Christieville is in hand by this winter, which fits the 1950 report's
+"secured in the Fall of 1947 after being used on a rental basis for **two seasons**" — rented 1945-46
+and 1946-47, bought in the autumn of 1947.
+
+**1947-48.** Christieville is now "**a lodge owned by the Association**, used by young people of all the
+Branches," and "with **Otoreke campers as the nucleus**, **over 150 young people** were active in the
+Otoreke Ski Club… on several occasions as many as **30 additional were accommodated at nearby
+farmhouses**. The Christieville district is increasing in popularity amongst skiers, since the addition
+of **another ski-tow and a large competition jump**."
+
+*(Corrected 2026-09-07, later the same day: the section below read "its 11[th] year" in the 1955 report
+as dating the club's **founding** to 1944 or 1945, and said the 1950 report agreed from the other end.
+Both of those are about the **Christieville era**. The club was four seasons old by then and had moved
+twice. Its membership series runs 50 in 1942-43, over 150 in 1947-48, then the figures in the table
+below — so it tripled in six years, held for a decade, and lost a third of itself in one year at the
+end. The farmhouse overflow the table dates to 1952 was already happening in 1947-48.)*
+
 ### Christieville at its peak, 1949-50
 
 The ski lodge was **secured in the autumn of 1947** "after being used on a rental basis for two
@@ -453,10 +486,11 @@ them, and fifteen volunteers running it.
 regularly. Some guests are **from the States**, and some are **newcomers from Europe**, as well as many
 local Montrealers. **Thirty persons joined in a gathering and turkey dinner on Christmas Day.**"^69
 
-**And the scan dates the club.** "Its 11[th] year" in 1955 puts its founding at 1944 or 1945 — which is
-exactly what the 1950 report implies from the other end, in saying the lodge was "secured in the Fall of
-1947 after being used on a rental basis for **two seasons**." Two statements five years apart agreeing
-on when this began.
+**And the scan dates the Christieville era, not the club.** "Its 11[th] year" in 1955 counts back to
+1944 or 1945 — which is what the 1950 report implies from the other end, in saying the lodge was
+"secured in the Fall of 1947 after being used on a rental basis for **two seasons**." Two statements
+five years apart agreeing on when *Christieville* began. **The club itself is older**, and had already
+skied at Piedmont and at Ste-Adèle; see the section above.
 
 ### 1959: not a camp any more, a lodge — and the report says why
 
@@ -1383,6 +1417,7 @@ centre. It is the same kind of use, twenty years earlier, that
 67. YMCA of Montreal annual report for the year ending 31 December **1959** [src_ymf_sgw_ymca_annual_report_1959], under the heading "OTOREKE SUMMER LODGE FOR ADULTS". The changed holiday habits, the **weekend** role, the conference proposal, and the Christieville **Otoreke Ski Club** with its **87** members are all at [f_5637]. Read 2026-09-07 under p_491.
 68. YMCA of Montreal annual report for the year ending 31 December **1950** [src_ymf_sgw_ymca_annual_report_1950], on the **1949** summer and the **1949-50** ski season. The **150**-member ski club and its **558** guests, the lodge "secured in the Fall of **1947** after being used on a rental basis for two seasons", the **1949** building work and the **seven** weekend conferences of June and September **1949** are all at [f_5638] — which corrects the impression left by the **1959** material at [f_5637].
 69. YMCA of Montreal annual reports for the years ending 31 December **1952** [src_ymf_sgw_ymca_annual_report_1952], **1955** [src_ymf_sgw_ymca_annual_report_1955] and **1958** [src_ymf_sgw_ymca_annual_report_1958], each on that winter's ski season. The **140** members and aggregate **1,100** of 1951-52, the peak "in its **11**[th] year" of 1954-55, and the **130** members and **300** visitors of 1957-58 are together at [f_5639], with the caveat that the attendance figures are not one series.
+70. YMCA of Montreal annual reports for the years ending 31 March **1942** [src_ymf_sgw_ymca_annual_report_1942], **1943** [src_ymf_sgw_ymca_annual_report_1943], **1946** [src_ymf_sgw_ymca_annual_report_1946] and **1948** [src_ymf_sgw_ymca_annual_report_1948]. The rented chalet at **Piedmont** in **1941-42**, the **50** members at **Alouette Lodge** near Ste-Adèle in **1942-43**, the **269** individuals at Christieville in **1945-46** and the **150**-plus of **1947-48** with its new tow and competition jump are together at [f_5643], which corrects the founding date given at [f_5639]. The wartime use of Otoreke, the Lakeshore Club and the ski lodge "by men of the Forces" is at [f_5644].
 
 ## Research Notes
 
