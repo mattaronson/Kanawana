@@ -1,8 +1,8 @@
 {
-  "version": "8.84",
-  "kb_version": "8.84",
+  "version": "8.85",
+  "kb_version": "8.85",
   "migrated_from": "3.3",
-  "fact_count": 5213,
+  "fact_count": 5214,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -94019,6 +94019,23 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5252",
+      "category": "institutional",
+      "date_ref": "1965",
+      "entities": [
+        "YMCA of Canada",
+        "Kamp Kanawana"
+      ],
+      "claim": "A NATIONAL YMCA CAMP COUNT FOR 1965, WHICH IS WHAT p_406 ASKED FOR. The National Council Bulletin's year-in-figures feature for 1965 states: 'WE CAMPED: 24,500 OF US, AT 48 \"Y\" RESIDENCE CAMPSITES AND MORE THAN 70 DAY CAMPSITES.' Alongside it: 15,800 people earned YMCA swimming awards in 62 pools, with 1,200 scuba and skin-diving qualifications; membership of nearly 50,000 boys under 18; and 30,000 girls under 18 enrolled in YWCAs or joint YMCA-YWCAs. WHY THIS MATTERS: p_406 asks for the real number of YMCA camps in Canada over time and warns that the apparent contraction is a comparison of three different instruments. THIS IS THE SAME INSTRUMENT AS ONE OF THEM -- a count published by the national office -- so 48 RESIDENCE CAMPSITES IN 1965 and TWENTY-NINE YMCA CAMPS taking part in the 1989 centenary relay campfire are comparable in a way the 2026 figure is not, the latter being six camps this project could NAME from separate association websites rather than a count anybody published. So there is now a measured national series of two points, 1965 and 1989, and a third that remains a different kind of number. TWO CAUTIONS. 'Residence campsites' counts SITES, not camps or associations, and a camp can hold more than one site or a site serve more than one camp -- Kanawana's own Lac Becscies annex is exactly that case. And the 1989 relay figure counts camps that TOOK PART in an event, which is a floor for the number existing, not the number itself.",
+      "sources": [
+        "src_ia_ymca_national_council_bulletin_39_03"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.85",
       "added_by": "ralph_loop"
     }
   ]

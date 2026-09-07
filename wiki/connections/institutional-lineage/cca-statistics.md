@@ -1,7 +1,7 @@
 # The Association's Own Statistics, and the One Camp in Ten
 
-*Status: draft | Sources: 5*
-*Last Updated: 2026-09-06 (spun out of [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]])*
+*Status: draft | Sources: 6*
+*Last Updated: 2026-09-07 (the YMCA's own national camp count for 1965)*
 
 ## Overview
 
@@ -66,6 +66,14 @@ The labelled table also decodes most of the illegible one. Its 1980 volunteer an
 
 **Two provinces confirm the membership figure from the ground.** Booth's estimate that the association spoke for "probably 10 to 12" percent of Canadian camps is corroborated, independently and candidly, in two of the provincial reports bound into the association's 1982 Annual Report. Nova Scotia: staff "visited all the camps to carry the message of the Association… Interestingly enough, and maybe not so, but **some of the Directors operating camps had never heard of the Association!**" Saskatchewan: "**We speak for about twenty camps but there are probably more than one hundred other camps out there** who may or may not know we exist to speak for them." Every CCA statistic used in this wiki describes a member sample of roughly a tenth of the field, sampled at about half again.^5
 
+## A second denominator: the YMCA counted its own camps
+
+Everything above counts **Canadian Camping Association member camps**, which were about one in ten of the field. The YMCA kept its own national count, and it is a different denominator worth having beside this one. The *National Council Bulletin*'s year-in-figures for **1965** reports: "**We camped: 24,500 of us, at 48 'Y' residence campsites and more than 70 day campsites.**"^6 The same feature gives 15,800 YMCA swimming awards earned in 62 pools, nearly 50,000 boys under 18 in membership, and 30,000 girls under 18 in YWCAs or joint associations.
+
+**Why this is worth more than a stray number.** The question of how many YMCA camps Canada had, and whether that number fell, has been stuck on the fact that the available figures came from different kinds of instrument. This one is the *same* instrument as the **twenty-nine YMCA camps** that each burned an hour of the 1989 centenary relay campfire: both are counts published by the national body. So there is now a national series of two comparable points, **48 residence campsites in 1965** and **twenty-nine camps in 1989**. The modern figure of six is not a third point in that series — it is the number of overnight YMCA camps this project could *name* from separate association websites, which is a different thing entirely.
+
+*Two cautions belong with it.* "Residence campsites" counts **sites**, not camps or associations, and a single camp can hold more than one site — Kanawana's own Lac Becscies annex is exactly that case. And the 1989 relay counted the camps that **took part**, which is a floor for the number existing rather than the number itself.
+
 ## Open Questions
 
 1. **What is column 4 of the 1980-81 provincial table?** Columns 1, 2 and 3 were identified as
@@ -96,3 +104,4 @@ The labelled table also decodes most of the illegible one. Its 1980 volunteer an
 3. "Interview: Marjorie Booth," Jay Haddad's interview at Toronto, 20 November 1982, *Canadian Camping* Vol. 34 No. 4 (Winter 1983), pp. 6-7, 10 [src_ia_canadian_camping_collection]. Found by the same read (issue 145). **The scan of this issue is rotated 180 degrees and was machine-read upside down; the text was recovered with `scripts/reread/unrotate.py`, a lossy decoder written for this project. Quotations are reconstructions and the figures should be verified against a clean copy — see `p_324`.**
 4. "Interview: May Brown" (Jay Haddad's interview at Vancouver, 25 November 1976); the CCA/ACC Annual Report 1981 (President's Report by Jocelyn Palm; the Quebec report by Claire Menard; the Archives, Education and Immigration Task Force reports); and "CCA/ACC National Statistics," compiled by Marjorie Booth, March 1982 — *Canadian Camping* Vol. 34 No. 2 (Summer 1982), pp. 4-5, 6-12, 17 [src_ia_canadian_camping_collection]. Found by the same read (issue 142). The national statistics are partial aggregates of provincial returns — eight associations for 1980, six for 1981 — not a census.
 5. *Canadian Camping* Vol. 35 No. 2, Summer 1983 — the **1982 Annual Report** insert entire: "CCA/ACC STATISTICS 1982 - SUMMER" by province and the three-year national series; the Quebec (ACQ) provincial report signed Claire Menard; the Nova Scotia and Saskatchewan provincial reports; Brian Law's Standards Task Force report on the National Standards Workshop of 25-26 January 1983; the Nominations Committee report on the 1983-85 executive; Jane McCutcheon's French Language Committee report; and the "National Camping Day" results page [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 147).
+6. "The year in figures" feature for 1965, *National Council Bulletin* Vol. 39 No. 3 (1966), YMCA of Canada [src_ia_ymca_national_council_bulletin_39_03]. Internet Archive item `national-council-bulletin-vol-39-no-03`, in the `ymca-montreal-fonds` collection. Found 2026-09-07 by the enumeration at [f_5243]. See [f_5252].

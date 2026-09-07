@@ -2807,9 +2807,12 @@
         }
       ],
       "ralph_loops_completed": 0,
-      "kb_facts_used": [],
+      "kb_facts_used": [
+        "f_5252"
+      ],
       "sources_cited": [
-        "src_ia_canadian_camping_collection"
+        "src_ia_canadian_camping_collection",
+        "src_ia_ymca_national_council_bulletin_39_03"
       ],
       "cross_links": [
         "canadian-camping-movement",
@@ -2819,7 +2822,7 @@
         "quebec-camp-landscape"
       ],
       "file_id": null,
-      "word_count": 2543,
+      "word_count": 2861,
       "open_questions": 4
     },
     {
