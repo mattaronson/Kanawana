@@ -2,7 +2,7 @@
   "version": "10.10",
   "kb_version": "10.10",
   "migrated_from": "3.3",
-  "fact_count": 5546,
+  "fact_count": 5549,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99952,6 +99952,57 @@
       "claim": "SEAN DAY RAN THE SKI SCHOOL AS WELL AS THE CAMP. The 2013 community report's SENIOR MANAGEMENT listing: 'Day, Sean -- DIRECTOR, CAMP YMCA KANAWANA AND YMCA SKI SCHOOL.' wiki/people/sean-day.md carries his titles as Director of Camp YMCA Kanawana and Regional Director of Camps for the Quebec YMCAs; THE SKI SCHOOL IS NOT AMONG THEM, and 'Ski School' occurs nowhere in this wiki except in camp-otoreke.md, where it is McGill's. WHY IT MATTERS BEYOND A TITLE. The camp's winter operation is a documented thread here -- the ski tow of 1971-72, the lift and three downhill slopes of 1973, the Kanawana Outing Club with its twenty miles of trails and its clubhouse, all worked earlier today. A 2013 senior-management title pairing the CAMP and a SKI SCHOOL under one director is the late end of that thread, and the first evidence this project holds that the association ran a named ski school at all. WHAT IS NOT ESTABLISHED: whether the YMCA Ski School operated at Kanawana or elsewhere. The listing pairs the two under one man and does not place them on one site.",
       "sources": [
         "src_ymf_sgw_ymca_community_report_2013"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5585",
+      "category": "institutional",
+      "date_ref": "2021",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "TWO CLAIMS THE ASSOCIATION MAKES ABOUT THE CAMP IN 2021, ONE OF THEM CHECKABLE AND NEW. The YMCAs of Québec community report for 2021 calls it 'Camp YMCA Kanawana, QUEBEC'S FIRST OVERNIGHT SUMMER CAMP' -- the association's own wording, which is the narrower claim wiki/history/oldest-camp-question.md has settled on and worth having in the association's voice for that year. AND: 'In 1894, we opened Camp Kanawana. Today, Camp Kanawana is ONE OF ONLY TWO GREEN CAMPS IN THE PROVINCE and our day camps are renowned for their commitment to including children with different needs.' 'GREEN CAMPS' OCCURS NOWHERE IN THIS WIKI. The phrase implies a certification or designation with a defined holder count, so it is checkable: WHO CERTIFIES IT AND WHICH IS THE OTHER CAMP are both open. The same report has 'Camp YMCA Kanawana builds sustainable facilities and introduces programs to strengthen environmental education', which is the green shift this project already documents from 2006. NOT ASSERTED: that the 'two green camps' designation is formal. The report does not name a certifying body.",
+      "sources": [
+        "src_ymf_ymca_community_report_2021_eng"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5586",
+      "category": "program",
+      "date_ref": "2024",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE 2024 SEASON: 782 CAMPERS, THE 130TH ANNIVERSARY, AND TWO PROGRAMMES THIS PROJECT DID NOT HAVE. The YMCAs of Québec impact report for 2024. ATTENDANCE: '782 KIDS AND TEENS enjoyed a stay in the great outdoors at Camp Kanawana', printed beside '93 campers in our Companion program'. meta/attendance-series.md has NO 2024 figure, and '782' occurs nowhere in this wiki as a camper count. That is a hard number for a year the series lacks. THE ANNIVERSARY: the report's highlights list '130th anniversary of Camp Kanawana', which history/modern-era.md already carries. AND TWO PROGRAMMES THAT ARE NEW HERE. A SCIENCE AND ENGINEERING CAMP 'at Kanawana Camp. Through a range of different programs, the science and engineering camp offers participants opportunities to explore CHEMISTRY, SPACE, ARTIFICIAL INTELLIGENCE, and even the environment.' 'Science and engineering' occurs nowhere in this wiki. And 'ADVENTURE AT KANAWANA... offers participants all the benefits of fully immersing themselves in the great outdoors on our gorgeous summer camp site in Saint-Sauveur, BUT IN A DAY CAMP FORMAT' -- which is the 'Aventure à Kanawana' day camp modern-era.md dates to 2024, here described in English and confirmed as running.",
+      "sources": [
+        "src_ymf_ymca_impact_report_2024"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5587",
+      "category": "program",
+      "date_ref": "2016",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "A PARENT ON WHY SHE SENDS HER SON, PRINTED BY THE ASSOCIATION IN 2016. The community report for that year carries a first-person account signed with a first name only: 'My name is STAR. My thirteen-year-old son BISHOP has been going to Camp YMCA Kanawana SINCE HE WAS SIX. This wouldn't have been possible without FINANCIAL ASSISTANCE from the YMCA. There are clear benefits. I see a difference every time Bishop comes back from camp. He has a healthier, more positive view of himself... At his age, Bishop is still trying to figure out who he is. IT'S HARD TO FIND AN ENVIRONMENT THAT WILL HELP HIM BUILD HIS CHARACTER, WHERE HE WON'T BE PRESSURED INTO BEING SOMEONE HE'S NOT. I would like to thank you. THANK YOU FOR NOT EXCLUDING PEOPLE BASED ON THEIR INCOME or for any other reason.' WHY IT IS WORTH KEEPING. This project holds a great deal about what the camp's staff and its association SAID the camp was for, across 130 years, and almost nothing from the families who used it. Here is a parent giving the reason in her own words, and it is the same reason the 1931 national Boys' Work Committee and the 1950s 'Values for Living' framework gave in institutional language: character formed somewhere the pressure is off. Seven consecutive summers on financial assistance, 2009 to 2016. PRINTED WITH FIRST NAMES ONLY, in a published annual report, and quoted here as the association printed it.",
+      "sources": [
+        "src_ymf_sgw_ymca_community_report_2016"
       ],
       "confidence": "stated",
       "conflicts_with": [],

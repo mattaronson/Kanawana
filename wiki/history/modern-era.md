@@ -1,6 +1,6 @@
 # The Modern Era: The Two-Tier Era (1995–Present)
 
-*Status: draft | Sources: 23*
+*Status: draft | Sources: 24*
 *Last Updated: 2026-09-06 (the credit directories, which date the Drummond Street move and settle whose staff figures they are)*
 
 ## Overview
@@ -110,6 +110,42 @@ after "the last seven summers at YMCA Camp Kanawana in Saint-Sauveur" — so a c
 differences**." Asked for one word: "**Learning!** Kanawana is truly an experience that allows you to learn
 more about yourself, nature, and others." The following summer, the report notes, would be her turn on the
 other side.^22
+
+## Two claims and two programmes, 2021 and 2024
+
+**The association's own framing of the camp in 2021.** The community report for that year calls it "Camp
+YMCA Kanawana, **Quebec's first overnight summer camp**" — the narrower claim
+[[history/oldest-camp-question|the oldest-camp question]] settles on, in the association's voice — and adds
+that "In 1894, we opened Camp Kanawana. Today, Camp Kanawana is **one of only two green camps in the
+province**."^24 *"Green camps" appears nowhere else in this wiki, and the phrasing implies a designation
+with a countable set of holders, so two things are open: who certifies it, and which is the other camp.* The
+report does not name a certifying body, and none is assumed here.
+
+**2024 brought a science camp and a day-camp version of the place.** The impact report describes a **science
+and engineering camp** at Kanawana offering "opportunities to explore **chemistry, space, artificial
+intelligence**, and even the environment," and "**Adventure at Kanawana**," which "offers participants all
+the benefits of fully immersing themselves in the great outdoors on our gorgeous summer camp site in
+Saint-Sauveur, **but in a day camp format**."^24 The second is the "Aventure à Kanawana" day camp dated to
+2024 above, here described in English and confirmed running; the science camp is new to this project
+entirely. The same report gives the season's attendance — **782 kids and teens** — which is carried in
+[[meta/attendance-series|the attendance series]].
+
+## A parent's reason, 2016
+
+This wiki holds a great deal about what the camp's staff and its association said the camp was *for*, across
+130 years, and very little from the families who used it. The 2016 community report prints one, with first
+names only:
+
+> "My name is **Star**. My thirteen-year-old son **Bishop** has been going to Camp YMCA Kanawana **since he
+> was six**. This wouldn't have been possible without **financial assistance** from the YMCA… I see a
+> difference every time Bishop comes back from camp. He has a healthier, more positive view of himself… At
+> his age, Bishop is still trying to figure out who he is. **It's hard to find an environment that will help
+> him build his character, where he won't be pressured into being someone he's not.** I would like to thank
+> you. **Thank you for not excluding people based on their income** or for any other reason."^24
+
+Seven consecutive summers on assistance, 2009 to 2016. The reason she gives is the one the national Boys'
+Work Committee gave in 1931 and the "Values for Living" framework at [[traditions/programs-activities|Programs and Activities]]
+gave in the 1950s, in institutional language: character formed somewhere the pressure is off.
 
 ## The camp's own committee, 2014-2017
 
@@ -307,6 +343,7 @@ endowment, and the association's endowment reporting is where to look next.
 21. YMCAs of Québec, community report for **2010** [src_ymf_sgw_ymca_community_report_2010]. Cached at `sources/cache/ymca-montreal-fonds/sgw-ymca-community-report-2010.txt`; read for its twenty-three Kanawana passages 2026-09-07 under the sharpened p_441. See [f_5578].
 22. YMCAs of Québec, community reports for **2011** and **2012** [src_ymf_sgw_ymca_community_report_2011, src_ymf_sgw_ymca_community_report_2012]. Both read for their Kanawana passages 2026-09-07 under the sharpened p_441. See [f_5579] and [f_5580].
 23. YMCAs of Québec, community reports for **2013**, **2014**, **2015** and **2017** [src_ymf_sgw_ymca_community_report_2013, src_ymf_sgw_ymca_community_report_2014, src_ymf_sgw_ymca_community_report_2015, src_ymf_sgw_ymca_community_report_2017], each printing the Camp YMCA Kanawana committee roster; and the "CITS 95" plaque transcribed at [[people/dan-aronson|Dan Aronson]] [src_flickr_kanawana_plaque_album]. See [f_5581] and [f_5582].
+24. YMCAs of Québec, community reports for **2016** and **2021** and impact reports for **2024** and **2025** [src_ymf_sgw_ymca_community_report_2016, src_ymf_ymca_community_report_2021_eng, src_ymf_ymca_impact_report_2024, src_ymf_ymca_impact_report_2025]. Read 2026-09-07 under the sharpened p_441. See [f_5585] and [f_5586].
 
 ## Research Notes
 

@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 40*
+*Status: draft | Sources: 41*
 *Last Updated: 2026-09-07 (240 in 1936; and "some 700" around 2001)*
 
 ## Overview
@@ -199,6 +199,25 @@ The 1958 report prints a "Kanawana Statistics" table with columns for 1956, 1957
 **The 1957 column checks and the 1958 column does not.** The nine 1957 figures sum to exactly 558, which is the total this table already carried for that season from another source. The nine 1958 figures sum to 538 against a printed total of 528. Either one age figure is misread by ten or the total is; 528 and 538 are a plausible OCR pair in these scans. Nothing has been adjusted, and the 1958 row above still shows 528.
 
 **Kanawana in the late 1950s was a camp for ten- to twelve-year-olds.** Taking the 1957 column as sound, ages 10 through 12 account for 286 campers of 558 — more than half — while everyone aged 15 or 16 comes to 33, six per cent of the camp. That thin senior tail is the demographic shape behind the older-boys problem the association was working on at exactly this moment, and behind the founding of [[traditions/canoe-trips|Les Voyageurs de la Vérendrye]] for older campers in 1959. The report draws no such connection; this table simply shows the distribution the camp had.
+
+## A 2024 figure, and two that were refused
+
+**2024: 782.** The YMCAs of Québec impact report for that year: "**782 kids and teens** enjoyed a stay in
+the great outdoors at Camp Kanawana," printed beside "93 campers in our Companion program."^41 This series
+had nothing for 2024, and nothing anywhere in the 2010s beyond the plaque-derived years. It is a single
+association-published number with no breakdown by session and no statement of what counts as a stay, so it
+carries the same caution as every annual-report figure in this series — see *A note for anyone taking a figure from an annual report*, below.
+
+**And 2011: over 700.** The 2011 community report's chronology — "Summer is set to begin for **over 700
+campers**" — is a forward-looking statement made at the season's opening, not a season total, and is
+recorded here as such.
+
+**Two figures from the same series were deliberately not taken.** The 2010 report's "more than **2,000**
+youth aged 6 to 17 years **each year**" is a recurring capacity statement rather than a count for 2010. The
+2012 report's "**3,000** children were welcomed by our **day camps and** YMCA Camp Kanawana" is a combined
+figure across the day camps and the resident camp. Both would sit convincingly in a column of camper
+numbers and both would be wrong there. *The value of this series is that its gaps are honest; a figure that
+looks like a data point and is not is worse than the gap it fills.*
 
 ## Where the record disagrees with itself
 
@@ -453,6 +472,7 @@ from inside the camp office, in a year the camp was moving to coeducation.
 38. *The Green Triangle*, Vol. IV No. 7, **4 August 1935**, and Volume 5, **Re-union Number, 17 October 1936** [src_ymf_the_green_triangle_1935_08_04, src_ymf_the_green_triangle_1936_10_17]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 39. *The Montreal YMCA 1851–2001*, 150th anniversary publication [src_ymf_the_montreal_ymca_1851_2001_anniversary_publication]. Cached at `sources/cache/ymca-montreal-fonds/the-montreal-ymca-1851-2001-anniversary-publication.txt`; the Kanawana and Otoreke passages and the camp's directory entry read word for word 2026-09-07 under p_482, the rest of the volume not read. A French twin of the same publication is held separately.
 40. YMCA of Montreal newsletter, **27 March 1969** [src_ymf_newsletter_1969_03_27]. Cached at `sources/cache/ymca-montreal-fonds/newsletter-1969-03-27.txt`; read word for word 2026-09-07 under p_482.
+41. YMCAs of Québec, impact report for **2024** [src_ymf_ymca_impact_report_2024]: "782 kids and teens enjoyed a stay in the great outdoors at Camp Kanawana," printed beside "93 campers in our Companion program." Read 2026-09-07 under the sharpened p_441. See [f_5586].
 
 ## Research Notes
 

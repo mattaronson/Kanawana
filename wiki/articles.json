@@ -9874,7 +9874,11 @@
         "src_ymf_sgw_ymca_community_report_2014",
         "src_ymf_sgw_ymca_community_report_2015",
         "src_ymf_sgw_ymca_community_report_2017",
-        "src_ymf_sgw_ymca_community_report_2013"
+        "src_ymf_sgw_ymca_community_report_2013",
+        "src_ymf_ymca_community_report_2021_eng",
+        "src_ymf_ymca_impact_report_2024",
+        "src_ymf_ymca_impact_report_2025",
+        "src_ymf_sgw_ymca_community_report_2016"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -9891,7 +9895,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 4797,
+      "word_count": 5267,
       "notes": "2026-07-11: Workstream C4 spawn (4 of 4, final). Connective-narrative synthesis, no new research conducted. Ties together this session's institutional-role-director spawns into continuous narrative history. This completes Workstream C4 and the full operator-approved plan. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
       "tags": {
         "era": [
@@ -10885,7 +10889,8 @@
         "src_ymf_the_green_triangle_1935_08_04",
         "src_ymf_the_green_triangle_1936_10_17",
         "src_ymf_the_montreal_ymca_1851_2001_anniversary_publication",
-        "src_ymf_newsletter_1969_03_27"
+        "src_ymf_newsletter_1969_03_27",
+        "src_ymf_ymca_impact_report_2024"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -10900,7 +10905,7 @@
         "cca-statistics"
       ],
       "file_id": null,
-      "word_count": 10222,
+      "word_count": 10512,
       "notes": "Created 2026-08-14 (p_256) from the 114-annual-report sweep. ~60 seasons of camper counts and camper-weeks, 1894-2023, with SIX internal inconsistencies carried as flags rather than resolved -- every one of them the association contradicting itself. Kept as a separate article so the contradictions travel with the numbers. No aggregate totals computed: too many missing years, the 1998-2001 rows count a different population, and the two documented lifetime totals (40,000 in 1964, 34,000 in 1984) contradict each other. Marked draft, not stub, because it is transcription of primary figures rather than synthesis; NOT yet VERIFY-passed -- figures should be spot-checked against the OCR before advancing."
     },
     {
