@@ -1,7 +1,7 @@
 # Directors and Staff of Camp Kanawana
 
 *Status: E1-reviewed | Sources: 61*
-*Last Updated: 2026-09-07 (W. H. Ball at Springfield in 1889, and C. M. Daggett in 1904)*
+*Last Updated: 2026-09-07 (M. G. Brooks, Strathcona Hall to Colombo to Barrie)*
 
 ## Summary
 
@@ -364,6 +364,14 @@ What to ask those volumes, in order: **is W. J. Holliday Boys' Work Director aga
 **Nothing below was fetched.** All of it comes from YMCA of Montreal annual reports that have been in this project's cache for weeks, in files marked read. What was missing was the names. **Hollinshead**, **Daggett** and **Murray Brooks** occurred nowhere in this project, so nobody could have grepped for them; the moment the *Year Book* supplied them, the reports answered.^59
 
 **The Boys' Secretaryship, 1910 to 1913, in the association's own words.** The 1910 report: "Next month **Mr. K. J. Hollinshead, of Albion College, Michigan**, will take up the Boys' Secretaryship, which **Mr. Murray Brooks resigned to go as Strathcona Hall's representative in the Foreign Work in Ceylon**." The 1913 report: "**Mr. K. J. Hollinshead leaves on August 1st** to take up Community Work, and will be succeeded by **Mr. D. J. Evans, formerly Provincial Secretary of the Boy Scouts' Movement**. **Mr. H. A. Lordly** joined the Boys' Department staff in July, succeeding **Mr. H. W. Rittenhouse**." So M. G. Brooks — a man this page introduced last week as occurring nowhere else — is **Murray Brooks**, he **resigned** rather than being displaced, and he left for missionary work in Ceylon under McGill's student YMCA. The succession runs Brooks to mid-1910, Hollinshead from mid-1910 to 1 August 1913, Evans from that August, matching the *Year Book* volume for volume.
+
+**And M. G. Brooks turns out to have a whole life.** He entered this page a week ago as "a man who occurs nowhere else in this project," holding Montreal's Boys' Work directorship in 1909 — the year before the camp moved to Lac Wilson — and then vanishing. The *Year Book*'s alphabetical list of employed officers, followed forwards and backwards on a single entry-year figure of 05, gives forty years of him.^58
+
+He came **from Strathcona Hall**, which is what makes the 1910 report's odd phrasing make sense. The 1907-08 volume: "Brooks, M. G., **McGill Univ., Montreal, Sec**, 05" — secretary of the McGill University YMCA, which had moved into Strathcona Hall in 1905. The 1908-09 volume: "Montreal, Que., **Boys**." Then the directorship in 1909, then the resignation, and the student association sent out **its own former secretary** as its missionary.
+
+And then he stayed out. "**Colombo, Ceylon, Sec. Int. Com.**" — the International Committee being the YMCA's foreign-work arm — in the volumes for 1910-11, 1911-12, 1912-13, 1913-14, 1915-16, 1916-17, 1917-18, 1918-19, 1919-20, 1921-22 and 1922-23. By 1934 he is "**Toronto, Ont., Sec. National Council**." By 1938, "**Burma, Sec World Service**." And the 1944 volume's Section IV, *Retired Secretaries*, as of 1 April 1945: "Brooks, M. G. … **Montreal, Que., Central** … 456 Pine Ave., W., Montreal … **retired March 11, 1945**." The 1957 volume still carries him among the retired, at 93 Berczy Street, Barrie, Ontario. *One caution: that "Association" column may name the association through which a man was pensioned rather than where he last served, and he was in Burma in 1938 — so it should not be read as a return to Montreal service.*
+
+**No camp connection is documented for him beyond the office.** He held the post that ran the camp, for the season before the move, and nothing here puts him at Lac Wilson or Lake Kanawana. He is kept on this page rather than given an article of his own for that reason; if anything ever places him at the camp, he has earned one twice over.
 
 **And Holliday's 1909 change of title has a reason after all.** This page recorded it carefully and refused to interpret it: "a title can change for a reorganisation, a secondment, or a job the roster names differently, and the volume gives no reason." The volume gives none; the association's own report does, in the same paragraph as Hollinshead's arrival. "The Central Association will also lose, with regret, **Mr. Holliday's services, as in the early Fall he goes as Secretary to the Fairmount Branch, preparing the way for the larger work in the Annex, which the new building will entail**." He was being sent to open a branch, with regret, ahead of a new building. **The sequence for the man who opened Kanawana's Lac Wilson site is: boys' work director to 1908, assistant through 1909 and into 1910, opens the new camp site that summer, and goes to Fairmount that autumn.** Moving up and out, not down.
 

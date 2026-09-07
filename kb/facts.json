@@ -1,8 +1,8 @@
 {
-  "version": "9.03",
-  "kb_version": "9.03",
+  "version": "9.04",
+  "kb_version": "9.04",
   "migrated_from": "3.3",
-  "fact_count": 5255,
+  "fact_count": 5257,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -94800,6 +94800,42 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5294",
+      "category": "people",
+      "date_ref": "1905-1910",
+      "entities": [
+        "M. G. Brooks",
+        "Strathcona Hall",
+        "McGill University",
+        "YMCA of Montreal"
+      ],
+      "claim": "M. G. BROOKS CAME INTO MONTREAL'S BOYS' WORK FROM STRATHCONA HALL, WHICH IS WHY HE LEFT AS ITS REPRESENTATIVE. The 1910 annual report says he 'resigned to go as STRATHCONA HALL'S REPRESENTATIVE in the Foreign Work in Ceylon' (f_5283), and the phrase reads oddly until the Year Book's alphabetical list of employed officers is followed backwards: the 1907-08 volume gives 'BROOKS, M. G., McGILL UNIV., MONTREAL, SEC, 05' -- Secretary of the McGill University YMCA, which had moved into Strathcona Hall in 1905 -- and the 1908-09 volume gives 'Brooks, M. G., Montreal, Que., BOYS, 05'. So he was Strathcona Hall's own secretary before he was Montreal's boys' worker, and the student association sent out its former secretary as its missionary. HE IS THE MAN WHO HELD MONTREAL'S BOYS' WORK DIRECTORSHIP IN 1909, the year before Kanawana moved to Lac Wilson, and a week ago he occurred nowhere in this project at all.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5295",
+      "category": "people",
+      "date_ref": "1905-1957",
+      "entities": [
+        "M. G. Brooks",
+        "Kamp Kanawana"
+      ],
+      "claim": "THE WHOLE OF M. G. BROOKS'S CAREER, FROM THE ALPHABETICAL LIST OF EMPLOYED OFFICERS, EVERY ENTRY CARRYING THE SAME YEAR OF ENTRY, 05. 1907-08: 'McGill Univ., Montreal, Sec'. 1908-09: 'Montreal, Que., Boys'. 1909: Montreal's Boys' Work Director (f_4983). Then COLOMBO, CEYLON, 'Sec. Int. Com.' -- secretary of the International Committee, the YMCA's foreign-work arm -- in the volumes for 1910-11, 1911-12, 1912-13, 1913-14, 1915-16, 1916-17, 1917-18, 1918-19, 1919-20, 1921-22 and 1922-23, an unbroken run of more than a decade. By 1934 he is 'Toronto, Ont., Sec. National Council'. By 1938 he is 'BURMA, SEC WORLD SERVICE'. And the 1944 volume's SECTION IV, RETIRED SECRETARIES, as of 1 April 1945, gives 'Brooks, M. G. ... Montreal, Que., Central ... 456 Pine Ave., W., Montreal, Que. ... RETIRED MARCH 11, 1945' -- so he came home, and the association credited with his retirement is Montreal Central, the one he began with. The 1957 volume still carries him among the retired, at 93 Berczy St., Barrie, Ontario. ONE CAUTION: the retired list's 'Association' column may name the association through which a man was pensioned rather than where he last served, and Brooks was in Burma in 1938, so 'Montreal, Que., Central' in 1945 should not be read as a return to Montreal service.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.04",
       "added_by": "ralph_loop"
     }
   ]

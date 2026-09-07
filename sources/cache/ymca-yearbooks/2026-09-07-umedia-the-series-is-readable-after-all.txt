@@ -425,3 +425,42 @@ a WM. SLOAN sits on the association's EXTENSION FUND committee in the report for
 CAMP'S FOUNDING YEAR, with John P. Copland under chairman Geo. H. Harrower; J. S. Hetherington
 appears there only as a ten-dollar subscriber. Whether the committee's Sloan is the convention's
 Sloan is NOT established, and the same report separately lists a John J. Sloan and a Geo. Sloan.
+
+
+==========================================================================================
+SIXTH PASS — M. G. BROOKS, FORTY YEARS FROM ONE ENTRY-YEAR FIGURE (p_470)
+==========================================================================================
+
+METHOD, BECAUSE IT IS REUSABLE. The alphabetical list of employed officers prints a two-digit
+YEAR OF ENTRY INTO ASSOCIATION WORK after every name, and it does not change as the man moves.
+So a single figure -- 05 for Brooks -- lets you follow one man across forty years of volumes and
+tell him apart from other men of the same name. An exact-phrase search on the INVERTED form
+("Brooks, M. G.") is what these lists respond to; the running form does not appear in them.
+
+  1907-08   "Brooks, M. G., McGILL UNIV., MONTREAL, SEC, 05"
+  1908-09   "Brooks, M. G., Montreal, Que., BOYS, 05"
+  1909      Montreal's BOYS' WORK DIRECTOR (already held here, f_4983)
+  1910      resigns "to go as Strathcona Hall's representative in the Foreign Work in Ceylon"
+  1910-11   "Brooks, M. G., COLOMBO, CEYLON, Sec Int. Com., 05"
+  ... and the same in 1911-12, 1912-13, 1913-14, 1915-16, 1916-17, 1917-18, 1918-19, 1919-20,
+      1921-22 and 1922-23
+  1934      "Brooks, M. G., TORONTO, ONT., Sec. National Council, 05"
+  1938      "Brooks, M. G., BURMA, Sec World Service, 05"
+  1944      SECTION IV, RETIRED SECRETARIES (as of 1 April 1945):
+            "Brooks, M. G. ... Montreal, Que., Central ... 456 Pine Ave., W., Montreal, Que.
+             ... March 11, 1945"
+  1957      still among the retired, at 93 Berczy St., Barrie, Ont.
+
+THE PIECE THAT MAKES THE 1910 REPORT MAKE SENSE: he was STRATHCONA HALL'S OWN SECRETARY before
+he was Montreal's boys' worker. The McGill University YMCA moved into Strathcona Hall in 1905.
+So "Strathcona Hall's representative in the Foreign Work" is the student association sending out
+its former secretary, not a stranger it was funding.
+
+CAUTION ON THE RETIRED LIST: its "Association" column may name the association through which a
+man was PENSIONED rather than where he last served. Brooks was in Burma in 1938. Do not read
+"Montreal, Que., Central" in 1945 as a return to Montreal service.
+
+WHAT DID NOT WORK, RECORDED SO IT IS NOT RETRIED: Open Library search-inside on the three name
+forms. "Brooks, M. G." 934 hits, "M. G. Brooks" 346, "Murray Brooks" 190 -- all noise, the name
+being far too common. The book corpus is the wrong instrument for a man with this name; the
+roster, with its entry-year figure, is the right one.
