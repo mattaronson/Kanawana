@@ -7667,7 +7667,8 @@
         "src_newspapers_gazette_1918",
         "src_ia_kanawana_report_1977",
         "src_ia_kanawana_report_1970",
-        "src_cache_canadiancampingmagazine_vol29_no1_1977february"
+        "src_cache_canadiancampingmagazine_vol29_no1_1977february",
+        "src_ia_kanawana_report_1969"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -7681,7 +7682,7 @@
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 7642,
+      "word_count": 7843,
       "tags": {
         "era": [
           "1960s",
@@ -9885,7 +9886,10 @@
         "src_ymf_ka_news_1978_10",
         "src_ymf_ka_news_1978_12",
         "src_ymf_ka_news_1978_03_29",
-        "src_ia_kanawana_report_1971"
+        "src_ia_kanawana_report_1971",
+        "src_ia_kanawana_report_1969",
+        "src_ia_kanawana_report_1975",
+        "src_ia_kanawana_report_1979"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -9901,7 +9905,7 @@
         "movement-archive-turn"
       ],
       "file_id": null,
-      "word_count": 5182,
+      "word_count": 5559,
       "notes": "2026-07-11: Workstream C4 spawn (3 of 4). Connective-narrative synthesis, no new research conducted. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit. | 2026-08-14 p_225 research: deep web research resolved three long-standing questions against PRIMARY sources (YMCA of Montreal news release 1970 + annual reports 1977-79 on Internet Archive; Camp Pascobac's own history page; broadcasting-history.ca).",
       "tags": {
         "era": [

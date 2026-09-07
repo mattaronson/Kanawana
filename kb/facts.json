@@ -1,8 +1,8 @@
 {
-  "version": "10.81",
-  "kb_version": "10.81",
+  "version": "10.82",
+  "kb_version": "10.82",
   "migrated_from": "3.3",
-  "fact_count": 5649,
+  "fact_count": 5650,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101839,6 +101839,22 @@
       "date_ref": "1969-1970",
       "conflicts_with": [],
       "added_version": "10.81",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5688",
+      "claim": "THE CAMP WAS DOING RADIO AND TELEVISION AS ROUTINE PROMOTION IN 1969, WHICH FILLS THE GAP IN ITS BROADCAST RECORD. The media article's radio section runs CFCF and CBM between 1936 and 1941, then jumps to CJAD in 1976-78 (f_5660) -- a thirty-five-year hole. The 1969 annual report's PROMOTION section closes part of it, not with a named broadcast but with a description of standing practice. After the brochure, 'there are a multitude of other methods used to attempt to \"sell\" Kanawana and these would include RADIO AND TV APPEARANCES, ads and stories in daily and weekly newspapers, displays in shopping centres, display posters, letters and flyers to schools, and A PHONE CALL CHECK OF ALL THE PREVIOUS YEAR'S CAMPERS.' TWO THINGS FOLLOW. THE CAMP APPEARED ON TELEVISION -- this project holds no other reference to Kanawana on TV in any period, and the line treats it as ordinary rather than notable. And the broadcast appearances were not occasional stunts but one item in a standing list, which means the 1976-78 CJAD items are the surviving trace of a continuous practice rather than a revival. The brochure went 'to former campers, to all YMCA youth members, THE BUSINESS MEN'S HEALTH CLUB, and to any person who inquires', plus display at every branch. NO PROGRAMME, STATION OR DATE IS GIVEN for the radio or TV appearances, and none is inferred here.",
+      "sources": [
+        "src_ia_kanawana_report_1969"
+      ],
+      "confidence": "stated",
+      "category": "media",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1969",
+      "conflicts_with": [],
+      "added_version": "10.82",
       "added_by": "ralph_loop"
     }
   ]

@@ -1,6 +1,6 @@
 # Between Centennials (1968–1993)
 
-*Status: draft | Sources: 25*
+*Status: draft | Sources: 27*
 *Last Updated: 2026-09-07 (1971: the director proposed making the camp smaller)*
 
 ## Overview
@@ -67,6 +67,31 @@ to discontinue [[traditions/programs-activities|the riding programme]] as "an ex
 program", and the recommendation to sell [[site/camp-becsies|the Becsies property]] rather than run it as
 a hostel, are the same argument applied twice: an expensive programme and an unpoliceable outlying
 property, in a camp being asked to do less and do it better. [f_5673] [f_2423]
+
+### Who else was on the site, and who paid for the children who could not
+
+Two things run right through this decade in the camp's own reports and appear nowhere in this wiki. Both
+were in the knowledge base before this article was written, and neither had been cited by any article.
+
+**The site was in heavy third-party use by 1969.** The director's report lists, among groups on the
+property that year, "the **Rhodes students from England**, a **Kairos** group, several troops of **Scouts
+and Cubs** and a variety of YMCA groups", plus overnight use of the campsites by the **Westmount and
+N.D.G. day camps**.^26 That is the earliest itemised account of outside use of Kanawana this project
+holds, and it matters because the wiki elsewhere treats renting the site to outside groups as a later
+development. By 1970 the reports are arguing about how to manage it — keeping rental groups "separate
+from Kanawana", with their own cooking at Pagé's, their own equipment, an on-site co-ordinator and a
+contract setting out the rules. [f_2411]
+
+**And the camp took in children other people paid for, in every year the reports survive to say so.**
+1969: "**Westmount Rotary and the St. Nicholas Men's Club** both sponsored large groups of campers.
+Altogether Kamp Kanawana provided **125 weeks of camperships at no cost** to the agency or group."^26
+1975: children sponsored from an orphanage and from **Weredale House**. 1979: "Kanawana accepted children
+from **Youth Horizons**, **Children's Mountain Cottage** and some sponsored by the **Rotary Club of
+Westmount**."^27
+
+**Ten years apart, the same Rotary club appears at both ends.** The camp's charitable intake was not a
+gesture made once and recorded; it was a standing arrangement with named clubs and agencies, and the one
+year that quantifies it puts the figure at 125 camper weeks given away. [f_2452]
 
 ### The movement dated its own crisis, and Kanawana's 1970s should be read inside it
 
@@ -224,6 +249,8 @@ The 1980s are, after the 1947–1958 postwar gap, the thinnest-documented decade
 23. *Ka-News*, **January 1978**, **1 December 1979**, **6 February 1981** and **21 April 1981** [src_ymf_ka_news_1978_01, src_ymf_ka_news_1979_12_01, src_ymf_ka_news_1981_02_06, src_ymf_ka_news_1981_04_21]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 24. *Ka-News*, the camp's staff bulletin, for **October 1978**, **December 1978** and **29 March 1978** [src_ymf_ka_news_1978_10, src_ymf_ka_news_1978_12, src_ymf_ka_news_1978_03_29]. The autumn **1978** works are at [f_5222]; the four staffing changes announced for **1979** are at [f_5223]. Brought into this article 2026-09-07 under p_492, the orphan-fact sweep.
 25. *Kamp Kanawana Director's Report 1971* [src_ia_kanawana_report_1971], cached at `sources/cache/ymca-montreal-fonds/1971-kamp-kanawana-directors-report.txt`. Read whole 2026-09-07 under `p_491`. The restructuring argument is at [f_5673]; the report's conditions -- no doctor in residence, the wringer washing machine, the boulder-strewn ball fields, the Preston-Simon pre-camp trip -- are at [f_2423], which had been in the KB since before this article existed and was cited by no article at all.
+26. Kamp Kanawana's own annual report for **1969** [src_ia_kanawana_report_1969], its OUTSIDE GROUPS section. Cached at `sources/cache/ymca-montreal-fonds/`; read 2026-09-07 under `p_491`. See [f_2411], which had been in the KB since long before this article and was cited by no article at all.
+27. Kamp Kanawana's own directors' reports for **1975** [src_ia_kanawana_report_1975] and **1979** [src_ia_kanawana_report_1979], on the children sponsored into camp each year. See [f_2452], also uncited by any article until now, and [f_4849].
 
 ## Research Notes
 

@@ -1,6 +1,6 @@
 # Kanawana in Media and Culture
 
-*Status: E1-reviewed | Sources: 36*
+*Status: E1-reviewed | Sources: 37*
 *Last Updated: 2026-09-07 (every archival reference code corrected, by one; the Flickr album index read)*
 
 ## Overview
@@ -295,6 +295,20 @@ settled by the 1970 proposal that names its purpose. The sequence also shows Kan
 technique its national association was still circulating as advice seven years later, and holding a
 professionally designed card in the year the advice appeared. [f_5681]
 
+**And the camp was doing radio and television as routine promotion in 1969.** The radio section below
+runs CFCF and CBM between 1936 and 1941 and then jumps to CJAD in 1976. The 1969 report closes part of
+that gap, not with a named broadcast but with a description of standing practice. After the brochure,
+"there are a multitude of other methods used to attempt to 'sell' Kanawana and these would include
+**radio and TV appearances**, ads and stories in daily and weekly newspapers, displays in shopping
+centres, display posters, letters and flyers to schools, and **a phone call check of all the previous
+year's campers**."^37
+
+Two things follow. **This project holds no other reference to Kanawana on television in any period**, and
+the line treats it as ordinary rather than remarkable. And the broadcast appearances are one item in a
+standing list rather than occasional events, which makes the CJAD items of 1976 to 1978 the surviving
+trace of a continuous practice rather than a revival. **No programme, station or date is given, and none
+is inferred here.** [f_5688]
+
 **Who Jim Simpkins was is not established, and the obvious answer has been tested.** The report names him
 and says nothing else. The candidate that suggests itself is **James Simpkins the cartoonist** — James
 Nathaniel Simpkins, born Winnipeg 1910, died Dundas, Ontario, 2004, creator of **Jasper the Bear**, a
@@ -442,6 +456,7 @@ To which can be added a fifth of a different kind: **Armand B. Ball, *Basic Camp
 34. Kamp Kanawana's own directors' reports for **1976** [src_ia_kanawana_directors_report_1976] and **1978** [src_ia_kanawana_report_1978], cached in `sources/cache/ymca-montreal-fonds/`; their APPRECIATION sections and, in the 1976 report, the poem printed between the acknowledgements and the statistical appendix. Read 2026-09-07 under `p_499`. See [f_5660] for the radio broadcasts and [f_5661] for the poem; [f_5659] sets out the whole 1975-79 run of acknowledgement lists.
 35. John Latimer (Director, Kilcoo Camp), "Promotion", *Canadian Camping* Vol. 29 No. 1, **February 1977** [src_cache_canadiancampingmagazine_vol29_no1_1977february]. The Canadian Camping Association's promotion doctrine, including birthday cards among the retention devices. **John Latimer**'s February 1977 doctrine, birthday cards included, is at [f_3940] — which had been in the KB since before this section existed and was cited by no article.
 36. **James Simpkins, biographical, and a null.** One web search on **2026-09-07** under `p_491`, returning The Canadian Encyclopedia, Wikipedia, the Lambiek Comiclopedia and the Canadian Animation, Cartooning and Illustration encyclopedia. These establish the cartoonist's dates and career and **nothing linking him to Montreal, the YMCA or Kanawana**; the identification is recorded as untested rather than made. See [f_5682].
+37. Kamp Kanawana's own annual report for **1969** [src_ia_kanawana_report_1969], its PROMOTION section. Cached at `sources/cache/ymca-montreal-fonds/1969-kamp-kanawana-annual-report.txt`; read 2026-09-07 under `p_491`. See [f_5688].
 
 *All four are lending-restricted on the Internet Archive and none has been read; each passage was reconstructed from overlapping Open Library search-inside queries and is cached with its queries under `sources/cache/openlibrary-search-inside/`.*
 
