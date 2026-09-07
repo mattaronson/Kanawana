@@ -1,8 +1,8 @@
 {
-  "version": "10.85",
-  "kb_version": "10.85",
+  "version": "10.86",
+  "kb_version": "10.86",
   "migrated_from": "3.3",
-  "fact_count": 5653,
+  "fact_count": 5654,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101914,6 +101914,24 @@
       "date_ref": "1969",
       "conflicts_with": [],
       "added_version": "10.85",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5692",
+      "claim": "THE RIDING PROGRAMME ACROSS FOUR CONSECUTIVE REPORTS, WHICH NO SINGLE ONE OF THEM SHOWS. The pieces were all held separately and the sequence was not. 1969 (f_2412): 'The horseback riding AGAIN THIS YEAR was ONE OF THE MOST POPULAR PROGRAMS WE OFFERED' -- the 'again' putting it in 1968 at the latest -- with a woman instructor, senior campers volunteering at the stables as their special programme, and the director's verdict: 'THIS PROGRAM DESERVES A MAJOR EMPHASIS IN OUR FUTURE PLANNING.' 1970, twelve months later, in the same camp's summation (f_5684): riding is the named example of programmes 'INTRODUCED IN A LOW QUALITY MANNER', and the recommendations for Camp '71 say 'c) HORSEBACK RIDING - CANCEL THIS PROGRAM FOR CAMP \\'71.' 1971: IT RAN ANYWAY. The report describes trail riding, lunch rides, overnight trips, stalls built at two locations so the horses could stay out, horsemanship awards, grooming and 'understanding of horses' taught alongside riding, and says 'the program went extremely well this summer' -- then recommends discontinuing it as 'an expensive (TOO EXPENSIVE) program' (f_5672). THE SHAPE IS NOT A DECLINE. In one year the camp went from a programme deserving major emphasis in its future planning to one marked for cancellation as poorly executed; then the cancellation was ignored; then the programme was praised and cancelled again on a completely different ground. THREE VERDICTS AND TWO REASONS FOR THE SAME DECISION, and the article records that riding does disappear from the programme areas afterwards. WHAT THIS PROJECT CANNOT SAY is what changed between 1969 and 1970. Nothing in the reports explains the reversal: no incident, no cost figure, no change of instructor is recorded. The 1970 report simply reclassifies it.",
+      "sources": [
+        "src_ia_kanawana_report_1969",
+        "src_ia_kanawana_report_1970",
+        "src_ia_kanawana_report_1971"
+      ],
+      "confidence": "stated",
+      "category": "programming",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1969-1971",
+      "conflicts_with": [],
+      "added_version": "10.86",
       "added_by": "ralph_loop"
     }
   ]

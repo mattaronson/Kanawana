@@ -473,6 +473,23 @@ Fifty-four years later the YMCAs of Québec's 2024 impact report prints "93 camp
 program" beside 782 at Kanawana. **1970, at seven children, is the earliest documented instance of the
 same idea** this project has found. [f_5676]
 
+**The horses across four reports, which no single one of them shows.** 1969 is where the programme is
+strongest and the pieces of this have been held separately without the sequence ever being set down.
+"The horseback riding **again this year** was **one of the most popular programs we offered**" — the
+"again" placing it in 1968 at the latest — with a woman instructor, senior campers volunteering at the
+stables as their special programme, and a plain verdict: "**This program deserves a major emphasis in our
+future planning.**"^kk70 [f_2412]
+
+Twelve months later the same camp's summation names riding as its example of programmes "introduced in a
+**low quality manner**", and the recommendations say "cancel this program for camp '71". It ran anyway.
+The 1971 report then calls the season excellent and recommends discontinuing it on cost.
+
+**That is three verdicts and two different reasons for the same decision, inside three years.** It is not
+a decline. A programme deserving major emphasis in the camp's future planning becomes, within twelve
+months, a poorly executed novelty to be cut — and **nothing in the reports explains the reversal**. No
+incident, no cost figure, no change of instructor is recorded. The 1970 report simply reclassifies it.
+[f_5692]
+
 **And here is what the horses actually were, three years on.** This wiki has recorded the arrival of
 riding and nothing about how it ran or when it stopped. The 1971 director's report gives the programme at
 its fullest: "The program went extremely well this summer with **trail riding, lunch rides and overnight
