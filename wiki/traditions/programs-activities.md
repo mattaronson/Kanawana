@@ -136,7 +136,7 @@ followed up after Camp was over, were encouraged."^ar28
 Outside instructors came in: representatives of the **Forestry Department at Ottawa** "again spent
 several days in camp," so 1926 as well. And the waterfront had a record year — two examinations by
 **A. W. Ross** of the Royal Life Saving Society produced **60 awards including seven Awards of
-Merit**, "we believe… a record for Kanawana."^ar28
+Merit**, "we believe… a record for Kanawana."^ar28 *The same examiner turns up the following summer at the Montreal YWCA's Laurentian camp: an untitled 1928 clipping reports Royal Life Saving Society classes at Camp Oolahwan with "A. W. Ross represented the R.L.S.S." So one man carried the qualification into the boys' camp and the girls' camp a year apart, which is the first personal link between them this project holds. See [[connections/related-camps/camp-oolahwan|Camp Oolahwan]] [f_5240].*
 
 *One contradiction between the camp's own documents, recorded rather than resolved.* The 1928
 brochure announces that "**archery** will be introduced to Kanawana this season," but archery is

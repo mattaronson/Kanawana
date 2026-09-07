@@ -1,8 +1,8 @@
 {
-  "version": "8.75",
-  "kb_version": "8.75",
+  "version": "8.76",
+  "kb_version": "8.76",
   "migrated_from": "3.3",
-  "fact_count": 5201,
+  "fact_count": 5203,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93782,6 +93782,44 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5240",
+      "category": "people",
+      "date_ref": "1928",
+      "entities": [
+        "Camp Oolahwan",
+        "A. W. Ross",
+        "Royal Life Saving Society",
+        "Elizabeth Pitt Barron",
+        "Kamp Kanawana",
+        "Margaret Eaton School"
+      ],
+      "claim": "THE SAME ROYAL LIFE SAVING SOCIETY EXAMINER SERVED THE YMCA BOYS' CAMP AND THE YWCA GIRLS' CAMP IN CONSECUTIVE SEASONS. An untitled 1928 clipping headed 'LIFE-SAVING TESTS' reports that 'Royal Life Saving Society classes were conducted at the Y.W.C.A. camp \"Oolahwan,\" located up in the Laurentian Hills. A. W. Ross represented the R.L.S.S., and he reports that everything is lovely at the camp.' programs-activities.md already records A. W. ROSS conducting TWO EXAMINATIONS AT KANAWANA IN 1927 that produced sixty awards including seven Awards of Merit, 'a record for Kanawana'. So one named man carried the same outside qualification into the Montreal YMCA's boys' camp and the Montreal YWCA's girls' camp a year apart -- a personal point of contact between the two camps that this project's Oolahwan article did not have, its Connection section having rested on institutional parallels and a 1970s photograph. THE AWARD LIST, printed in full: Proficiency Certificate and Bronze Medallion to Anne Logan, Eleanor Cowan, Helen Stocking, Helen Thompson, Gertrude Parker, Wilhelmina Rutherford, Andre Levy and Yvette Levy; Award of Merit to Greta E. Granger; and the Honorary Instructor's Certificate to Miss C. Robertson 'for having conducted the camp class'. AND THE CAMP'S SPORTS MANAGER IS NAMED: 'Miss Pitt, the sports manager, is having great success.' That is ELIZABETH PITT, later Elizabeth Pitt Barron (1904-1997), whose own album this clipping is pasted into -- a MARGARET EATON SCHOOL student from Toronto, the school that trained Canadian physical educators, running sport at a Montreal YWCA camp. She occurs nowhere else in this project.",
+      "sources": [
+        "src_ia_margaret_eaton_album_168_1928"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.76",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5241",
+      "category": "programs",
+      "date_ref": "1928",
+      "entities": [
+        "Camp Oolahwan",
+        "YWCA of Montreal"
+      ],
+      "claim": "A FILM WAS SHOT AT CAMP OOLAHWAN IN THE SUMMER OF 1928, AND ITS CABINS CARRIED HIAWATHA NAMES. The clipping 'GIRLS MAKE FILMS: Y.W.C.A. Camp Will Be Open to Sunday Visitors' reports that 'the month of July at Camp Oolahwan has beaten all records for attendance, accommodation having been taxed to the utmost by applications from hundreds of city girls', with vacancies still open for August through the Central Y. THEN THE FILM: 'Yesterday provided an unexpected thrill for the campers in the arrival on the scene of a \"movie\" man, with cameras and several hundred feet of film. The girls put their best efforts into fancy dives, while tennis and basketball were never so enthusiastically contested while the camera was registering \"action\".' SEVERAL HUNDRED FEET OF 1928 FILM OF A LAURENTIAN GIRLS' CAMP therefore existed; the clipping does not say who shot it or for whom. THE BUNGALOWS: girls in the new sleeping bungalows 'put up the Indian names which they had chosen over the entrances', and the OCR gives 'rainbow', 'Wahwahtaysee, firefly', 'Minnetoska, happy laughter', 'Wawonaissa, whippoorwill' and one beginning 'Sen-' that 'burns outside the door all night'. WAHWAHTAYSEE AND WAWONAISSA ARE LONGFELLOW'S HIAWATHA, not local usage, which puts the same literary source under the Oolahwan cabins in 1928 that this project traces through Kanawana's council ring. camp-oolahwan.md had Oolahwan 'playing Indian' only from a 1970s photograph; this is forty-odd years earlier and in the camp's architecture. ALSO: swimmers were graded in four classes -- 'tadpoles, cygnets, swans and mermaids' -- with tadpoles in red caps so the sports officers could watch the beginners; Friday was 'stunt night'; and one Sunday was set aside as visitors' day, noon to four, with no meals served 'owing to limited kitchen facilities'. TWO READINGS ARE UNCERTAIN AND ARE NOT ASSERTED: the visitors' day date, OCR'd 'Sunday August lind', and the town the camp is near, the clipping being cut off at 'within a few miles of Ste.'",
+      "sources": [
+        "src_ia_margaret_eaton_album_168_1928"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.76",
       "added_by": "ralph_loop"
     }
   ]

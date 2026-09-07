@@ -30327,7 +30327,23 @@
       "extraction_version": "8.75",
       "reliability": "primary",
       "notes": "A 2:09 community-television news item shot at the camp, originally YouTube vFvHCELC4zI. THE FILM ITSELF IS THE SOURCE AND HAS NOT BEEN WATCHED; what is cached is its two machine-generated caption tracks, of which the French is a machine translation of the English ASR. The interview at the centre of the piece is not recoverable from either. No name in the captions is reliable."
+    },
+    {
+      "source_id": "src_ia_margaret_eaton_album_168_1928",
+      "type": "periodical",
+      "title": "Two 1928 newspaper clippings on Camp Oolahwan, in the photograph album of Elizabeth Pitt Barron, Margaret Eaton School",
+      "date": "1928",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/MargaretEatonSchool_redeemer_168",
+      "cache_path": "sources/cache/periodicals/1928-camp-oolahwan-two-clippings-margaret-eaton-album.txt",
+      "char_count": 5049,
+      "ingested_at": "2026-09-07T00:25:00Z",
+      "extracted": true,
+      "extraction_version": "8.76",
+      "reliability": "primary",
+      "notes": "\"Girls Make Films: YWCA Camp Oolahwan Will Be Open to Sunday Visitors\" and \"Life-Saving Tests in the Laurentians\", both 1928, pasted into a Toronto physical-education student's album. NEITHER CLIPPING NAMES ITS NEWSPAPER OR ITS DATE; 1928 is the archive's dating of the folder. Almost certainly Montreal papers. OCR is rough and two readings are flagged in the cache header."
     }
   ],
-  "source_count": 1685
+  "source_count": 1686
 }

@@ -1,7 +1,7 @@
 # Camp Oolahwan
 
-*Status: E1-reviewed | Sources: 34*
-*Last Updated: 2026-09-06 (a fourth director, Maureen McBride, from a YMCA newsletter)*
+*Status: E1-reviewed | Sources: 35*
+*Last Updated: 2026-09-07 (the summer of 1928, from two clippings in a Toronto student's album)*
 
 ## Overview
 
@@ -96,7 +96,17 @@ Two things follow. Oolahwan was **an operating YWCA residential camp in the late
 
 Camp Oolahwan's programming focused on developing healthy minds and bodies through activities designed to encourage self-esteem, build lasting relationships, and promote leadership.^1 Activities included sports, learning new skills, nature appreciation, and campfire singing — including "Land of the Silver Birch" and other folk songs.^1 ^11 The camp's philosophy, rooted in the YWCA's belief since 1915 that young women must acquire self-confidence and the ability to "laugh and have fun," emphasized healthy life habits and empowerment.^1
 
+**The camp in the summer of 1928, from two clippings in a Toronto student's album.** Neither names its newspaper, and both were found by an enumeration that turned up exactly one Internet Archive item this project did not already hold.^35 **July 1928 "beaten all records for attendance, accommodation having been taxed to the utmost by applications from hundreds of city girls"**, with vacancies still open for August through the Central Y. Swimmers were graded in four classes — **tadpoles, cygnets, swans and mermaids** — the tadpoles in red caps "to catch the vigilant eye of the sports officers" so beginners could be watched. **Friday was "stunt" night.** One Sunday was visitors' day, noon to four, with no meals served "owing to limited kitchen facilities."^35
+
+**A film was shot there that summer.** "Yesterday provided an unexpected thrill for the campers in the arrival on the scene of a **'movie' man, with cameras and several hundred feet of film**. The girls put their best efforts into fancy dives, while tennis and basketball were never so enthusiastically contested while the camera was registering 'action'."^35 *The clipping does not say who shot it or for whom, and no such film is known to survive.* It would be the earliest moving picture of a Laurentian girls' camp this project has heard of.
+
+**And the cabins carried Hiawatha names, in 1928.** Girls in the new sleeping bungalows "put up the Indian names which they had chosen over the entrances": *rainbow*, **Wahwahtaysee, firefly**, *Minnetoska, happy laughter*, **Wawonaissa, whippoorwill**, and one beginning "Sen-" that "burns outside the door all night."^35 **Wahwahtaysee and Wawonaissa are Longfellow**, not local usage — the same literary source this wiki traces under Kanawana's council ring, here fixed over the doors of a girls' camp forty years before the 1970s photograph this article had been resting on.
+
 ## Connection to Kanawana
+
+**One named man worked at both camps in consecutive seasons.** A 1928 clipping headed "Life-Saving Tests" reports that "Royal Life Saving Society classes were conducted at the Y.W.C.A. camp 'Oolahwan,' located up in the Laurentian Hills. **A. W. Ross** represented the R.L.S.S., and he reports that everything is lovely at the camp."^35 The same A. W. Ross conducted **two examinations at Kanawana in 1927** that produced sixty awards including seven Awards of Merit, which the camp called a record (see [[traditions/programs-activities|Programs and Activities]]). So the outside qualification came into the boys' camp and the girls' camp through one person a year apart. That is a **personal** point of contact, which this section previously lacked: everything else in it is institutional parallel or programme resemblance.
+
+The clipping also names the camp's staff and its award-winners. **Miss Pitt, the sports manager** — Elizabeth Pitt, later **Elizabeth Pitt Barron** (1904-1997), whose own album the clipping is pasted into, a **Margaret Eaton School** student from Toronto — "is having great success, and the young ladies are showing a keen wish to take active part in all the fun." **Miss C. Robertson** took the Honorary Instructor's Certificate "for having conducted the camp class," and the awards went to Anne Logan, Eleanor Cowan, Helen Stocking, Helen Thompson, Gertrude Parker, Wilhelmina Rutherford, Andre Levy and Yvette Levy (Proficiency Certificate and Bronze Medallion) and **Greta E. Granger** (Award of Merit).^35 A Toronto-trained physical educator running sport at the Montreal YWCA's camp is worth noting on its own: it is the training pipeline this wiki traces elsewhere through Mary S. Edgar, running in the same years and into the same camp.
 
 Camp Oolahwan's connection to Camp Kanawana runs through the YMCA/YWCA Montreal institutional network. Both camps were operated by branches of the same parent organization. Direct inter-camp contact is documented and, per a full-text extraction of Grace McMorris's thesis, was not a one-off: "in the 1940s Kanawana occasionally hosted visitors from... Camp Oolahwan... and from the Junior League Camp."^6 The cocoa-powder/"Indians" greeting event is now precisely dated to the "Intermediate Section Log, 17 July 1946."^6
 
@@ -178,6 +188,7 @@ The name "Oolahwan" may derive from the Lakota word *olówaŋ* meaning "song" or
 32. Mary Northway, "Blue Lake and Rocky Shore," her Ontario Camping Association banquet speech of 1968, reprinted in *Canadian Camping Magazine* Vol. 39 No. 2 (Fall 1987), p. 17 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 163).
 33. "Personality Profile: Lorne Brown (1908-1976)" — interview with May Brown, *Canadian Camping Magazine* Vol. 39 No. 3 (Winter 1988), pp. 12-18 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 164), the final issue of the run.
 34. *The Lookout* Vol. 1 No. 3 (Kanawana Alumni Committee, autumn 1993), obituary of Maureen McBride [src_ia_the_lookout_1993]. A Kanawana newsletter, so this is a YWCA camp named in passing in a YMCA camp's paper — which is why no amount of searching the YWCA's own record would have turned it up. See [f_5009] and [[people/maureen-mcbride|Maureen McBride]].
+35. Two 1928 newspaper clippings, "Girls Make Films: YWCA Camp Oolahwan Will Be Open to Sunday Visitors" and "Life-Saving Tests in the Laurentians," pasted into the photograph album of **Elizabeth Pitt Barron** (1904-1997) of the Margaret Eaton School, Toronto [src_ia_margaret_eaton_album_168_1928]. Internet Archive item `MargaretEatonSchool_redeemer_168`. **Neither clipping names its newspaper or its date**; 1928 is the archive's dating of the folder, and both are almost certainly Montreal papers. Found 2026-09-07 by an Internet Archive enumeration on "oolahwan," which returns exactly one item this project did not already hold. See [f_5240] and [f_5241].
 
 ## Research Notes
 
