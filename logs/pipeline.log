@@ -4906,3 +4906,45 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   two lines away. Removing a citation on an inference about numbering is the
   same error as adding one. The doubt is written into the article.
   Baseline 125 -> 124. Verify green. Timestamp from `date -u`.
+
+[2026-09-07T13:48:43Z] THE ROBY KIDD LEAD, CLOSED ONTO A NAMED MAN. NEW: f_5569,
+  f_5570, src_kidd_international_legacy.
+  The Green Triangle's account of the Kanawana circus of 25 July 1940 names
+  "Roby Kidd" among "Kanawana's Three Men On A Horse" (f_5519), flagged as an
+  open lead. He is very probably J. ROBY KIDD -- James Robbins Kidd, 1915-1982 --
+  later Director of the Canadian Association for Adult Education, a UNESCO
+  adviser and founding chairman of the International Council for Adult
+  Education. His biography (ERIC ED272738, read in full) puts him in exactly the
+  right place: "From 1935 to 1945 he worked as Secretary of the Young Men's
+  Christian Association in Montreal and Ottawa," BA part-time at SIR GEORGE
+  WILLIAMS in 1938, MA McGill 1943, EdD Columbia 1947.
+  AND THE POST IS NAMED, AND IT IS A KANAWANA POST: "Roby's positions in
+  Montreal, as SECRETARY OF 'BOYS WORK' AT NORTH BRANCH Y, and as Program
+  Secretary at Notre Dame de Grace." The 1922 camp brochure lists the branch
+  Boys' Work Secretaries to whom camp applications were made, North Branch among
+  them -- the post W. J. Holliday's branch held and Geoffrey Guiton filled. A
+  man in that job, in Montreal, in 1940, clowning at the camp circus is not a
+  coincidence to explain away. He had been a YMCA camper from the age of ten at
+  Camp Elphinstone.
+  THE LIMIT IS STATED IN THE ARTICLE: the biography never mentions Kanawana --
+  zero occurrences in 733,768 characters, as for Kolah and Seaman. The camp
+  connection rests on the 1940 circus report alone; the biography supplies the
+  man, the city, the years and the job that make that line read as him.
+  AND THE TWO KIDDS ARE VERY PROBABLY BROTHERS, NOT ASSERTED. The biography: he
+  "followed his brother JOHN to Sir George Williams University in Montreal. John
+  had suggested that Roby could pay his way through university by working at the
+  Y." This project already holds JOHN P. KIDD as a Kanawana leader of 1934, from
+  his own signed 1950 Canadian Camping article bylined "Executive Director,
+  Canadian Citizenship Council" -- an elder brother in Montreal camping in 1934,
+  a younger one arriving in 1935, which is the order the biography gives. Roby's
+  1947 doctoral thesis was on the function of that same council.
+  NOT ASSERTED, AND THE TRAP IS NAMED: the biography gives brother John no
+  middle initial, never places him in Montreal camping, and names a DIFFERENT
+  man -- JOHN ROBBINS -- as director of the citizenship council, while Kidd's
+  own middle name is ROBBINS. John Robbins beside James Robbins Kidd beside John
+  P. Kidd is the three-W.-H.-Balls shape exactly.
+  ONE ERROR, CAUGHT BY VERIFY BEFORE COMMIT: I coined the source id and cited it
+  before creating the record, so verify_harness reported a dead source id. The
+  record and the cache are in now. That is the "never derive an id" rule in its
+  other direction -- never cite one you have not yet made.
+  Verify green, nine checks. Timestamp from `date -u` in its own call.

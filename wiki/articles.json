@@ -3400,7 +3400,8 @@
         "src_ymf_ka_news_1981_04_21",
         "src_ymf_ka_news_1978_01",
         "src_ymf_ka_news_1979_12_01",
-        "src_ymf_ka_news_1981_02_06"
+        "src_ymf_ka_news_1981_02_06",
+        "src_kidd_international_legacy"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -3419,7 +3420,7 @@
         "traditions/knights-of-kanawana"
       ],
       "file_id": null,
-      "word_count": 12159,
+      "word_count": 12704,
       "notes": "E1 REVIEW (2026-02-19): Fixed non-existent src_concordia_12B04 in header (removed; src_concordia_atom_12B04 already present). Fixed '131-year history' ambiguity to 'more than 130 years'. All claims cited, dates consistent, names cross-checked, tone encyclopedic. | 2026-08-14: cross-linked to the new traditions/order-of-owens.md. | 2026-08-14: NEW prose section on the Order of the Knights of Kanawana, giving the proclamation text and the six challenges for knighthood (previously the KB held the oath and the 1980-2009 roll but not the criteria). NOTE: this article is E1-reviewed and has received substantive new content; warrants a re-REVIEW pass. | 2026-08-14 (2nd pass): charter mined further -- A/B/C skill-grading system across named activities (f_2004), 'Kamp' spelling in challenge 5 corroborating the pre-2005 usage (f_2005), and the birchbark medium/composition (f_2006).",
       "tags": {
         "era": [

@@ -1,6 +1,6 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 54*
+*Status: E1-reviewed | Sources: 55*
 *Last Updated: 2026-09-07 (Cuckoo Day, 1938; and the camp keeping up with the outside world)*
 
 ## Overview
@@ -152,7 +152,42 @@ soft drinks** were imbibed."^51 It reports "literally hundreds of booths, with e
 of skill to riding the graceful and swift steed of **M. Page**" — a horse, in fact a mare, from the
 neighbouring [[people/page-family|Page family]], tame enough to carry most of Juvenile Camp and still
 able to throw the business manager and all three of "Kanawana's 'Three Men On A Horse', **Roby Kidd**,
-Tom Hardwick, and our daring B.M." The best-attended booths were the ice cream and soft drink stand
+Tom Hardwick, and our daring B.M."
+
+**And Roby Kidd is somebody.** The name belongs, very probably, to **J. Roby Kidd** — James Robbins Kidd
+(1915–1982), later Director of the Canadian Association for Adult Education, a UNESCO adviser, and the
+founding chairman of the International Council for Adult Education. His biography puts him in exactly the
+right place: "**From 1935 to 1945 he worked as Secretary of the Young Men's Christian Association in
+Montreal** and Ottawa," taking his BA part-time at **Sir George Williams College** in 1938 while doing it,
+and his two Montreal posts are named — "**Secretary of 'boys work' at North Branch Y**, and as Program
+Secretary at Notre Dame de Grace."^55 **North Branch is a Kanawana post.** The 1922 camp brochure lists the
+branch Boys' Work Secretaries to whom camp applications were made and North Branch is among them; see
+[[people/w-j-holliday|W. J. Holliday]], who ran that branch, and [[people/geoffrey-guiton|Geoffrey Guiton]],
+who held its boys' secretaryship. He had been a YMCA camper since he was ten, at the Vancouver
+association's Camp Elphinstone.^55
+
+*The limit, stated plainly: **his biography never mentions Kanawana** — the word occurs nowhere in its
+733,768 characters. The camp connection rests on this circus report alone. What the biography supplies is
+the man, the city, the years and the job that make this line read as him rather than as a stranger with a
+distinctive name.*
+
+**There is a second Kidd in this wiki, and the two are very probably brothers.** [[people/directors-index|
+John P. Kidd]] was a Kanawana leader in **1934**, documented by his own signed account in *Canadian
+Camping* of June 1950 — a wounded soldier in a Canadian Army hospital at Caserta recognising him and saying
+"Kamp Kanavana… 1934" — bylined "Executive Director, Canadian Citizenship Council, Ottawa." Roby's
+biography says he "**followed his brother John to Sir George Williams University in Montreal**. John had
+suggested that Roby could pay his way through university by working at the Y."^55 An elder brother in
+Montreal YMCA camping in 1934, a younger one arriving in 1935: that is the order the biography describes.
+Roby's 1947 doctoral thesis was on the function of the Canadian Citizenship Council, the body John P. Kidd
+was running by 1950.
+
+*Not asserted, and the reason is a trap this project has fallen into before.* The biography gives brother
+John no middle initial, never places him in Montreal camping, and never mentions Kanawana. It also names a
+**different man** in the neighbouring role: "John Robbins, then Director of the Canadian Council on
+Education for Citizenship (later the Canadian Citizenship Council)" — and Roby's own middle name is
+**Robbins**. A John Robbins beside a James Robbins Kidd beside a John P. Kidd is the same shape as the three
+W. H. Balls that once cost this project five years of a man's career. Sir George Williams registration
+records, the Montreal YMCA's 1934 staff roster, or an obituary naming Roby's brother would settle it. The best-attended booths were the ice cream and soft drink stand
 and the hamburger shop; one group sold "Surprise Package" tickets "but these turned out to be a lemon
 to most who bought them."
 
@@ -694,3 +729,4 @@ Kanawana."^40 Whether either was ever held again is not known here.
 52. *The Green Triangle*, **9**, **16 July** and **6 August 1938** [src_ymf_the_green_triangle_1938_07_09, src_ymf_the_green_triangle_1938_07_16, src_ymf_the_green_triangle_1938_08_06]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 53. *The Green Triangle*, **13 August 1936** (the "Marois Issue"), **1** and **29 July 1939**, **4** and **22 August 1940** [src_ymf_the_green_triangle_1936_08_13, src_ymf_the_green_triangle_1939_07_01, src_ymf_the_green_triangle_1939_07_29, src_ymf_the_green_triangle_1940_08_04, src_ymf_the_green_triangle_1940_08_22]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. With these the whole digitized 1932–1982 run has been read.
 54. *Ka-News*, **January 1978**, **1 December 1979**, **6 February 1981** and **21 April 1981** [src_ymf_ka_news_1978_01, src_ymf_ka_news_1979_12_01, src_ymf_ka_news_1981_02_06, src_ymf_ka_news_1981_04_21]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+55. D. Cochrane and others, *J. R. Kidd: An International Legacy of Learning* (Monographs on Comparative and Area Studies in Adult Education) [src_kidd_international_legacy]. Internet Archive item `ERIC_ED272738`, full djvu text downloaded and read 2026-09-07. **"Kanawana" occurs zero times in it**; what it supplies is Kidd's Montreal YMCA career, his North Branch boys'-work post and his brother John. See [f_5569] and [f_5570].

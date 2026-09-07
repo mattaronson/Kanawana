@@ -31587,6 +31587,24 @@
       "notes": "Found by the download-and-grep sweep of the McGill Library's digitized McGill Daily. One Kanawana match in the issue, and it is the LAKE as a landmark on a ski trail, not the camp. Quoted in full in f_5473; the text was read and deleted per the sweep method rather than cached, since the passage is three sentences.",
       "read_state": "read",
       "read_state_basis": "whole-issue-grepped-passage-read"
+    },
+    {
+      "source_id": "src_kidd_international_legacy",
+      "type": "thesis",
+      "title": "J. R. Kidd: An International Legacy of Learning (Monographs on Comparative and Area Studies in Adult Education)",
+      "date": "1986",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/ERIC_ED272738",
+      "cache_path": "sources/cache/biographical/j-r-kidd-international-legacy-of-learning.txt",
+      "char_count": 733768,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "10.09",
+      "reliability": "secondary",
+      "notes": "A biography of J. ROBY KIDD -- James Robbins Kidd, 1915-1982 -- found 2026-09-07 by the p_430 name sweep while chasing the 'Roby Kidd' named in the Green Triangle's account of the Kanawana circus of 25 July 1940 (f_5519). READ IN FULL. 'KANAWANA' OCCURS ZERO TIMES IN IT, as do 'Kolah' and 'Seaman'; that null is the point of holding it, because what the book DOES supply is everything around the camp connection: Kidd was Secretary of the YMCA in Montreal and Ottawa FROM 1935 TO 1945, took his BA part-time at Sir George Williams College in 1938, and held two named Montreal posts -- 'Secretary of \"boys work\" at NORTH BRANCH Y, and as Program Secretary at Notre Dame de Grace'. North Branch is a documented Kanawana feeder post. He had summered at the Vancouver YMCA's Camp Elphinstone from the age of ten. It also says he 'followed his brother JOHN to Sir George Williams University in Montreal', which is a strong lead on this project's John P. Kidd, the Kanawana leader of 1934 -- NOT an identification, and the record carries the reason: the book names a DIFFERENT man, JOHN ROBBINS, as director of the citizenship council, and Kidd's own middle name is Robbins. See f_5569 and f_5570.",
+      "read_state": "read",
+      "read_state_basis": "direct: full djvu text downloaded and read 2026-09-07 for the Montreal, YMCA, camp and brother passages; counts run for Kanawana (0), Kolah (0), Seaman (0), Montreal (48), YMCA (25)"
     }
   ],
   "source_count": 1757

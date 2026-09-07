@@ -2,7 +2,7 @@
   "version": "10.09",
   "kb_version": "10.09",
   "migrated_from": "3.3",
-  "fact_count": 5530,
+  "fact_count": 5532,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99667,6 +99667,39 @@
       "claim": "A SECOND MIS-AIMED CITATION GROUP, FOUND BY A RELATIVE TEST THAT IS ITSELF NOT SHIPPABLE. After the absolute footnote-aim check failed (f_5567), a NARROWER question was tried: not 'is this citation relevant' but 'does a NEIGHBOURING entry match this sentence's years better than the one cited, AND is that neighbour uncited'. That gave 12 candidates instead of 516 -- but sampling shows most are still false, the worst being lv-games.md, where a sentence reading 'By 1958, MCMORRIS describes the L&V program as well-developed' was flagged for citing McMorris. SO IT IS NOT A CHECK EITHER, and was run as a one-off diagnostic and not kept. IT DID FIND ONE REAL THING. people/directors-index.md carries the citation group '^31 ^33 ^34' in THREE places, all about Peter Goddard 1982-1986, and the sentence it supports makes three claims in order: the Canadian Camping Association's Publicity report thanking 'Peter Goddard and the staff of Kamp Kanawana' for mailing the National Camping Day posters; the International Youth Year Task Force listing 'Peter Goddard (Qué.)' in winter 1983-84; and the same task force in spring 1985. Entries 33 and 34 are the second and third exactly. THE FIRST IS ENTRY 32 -- the Summer 1983 Publicity and Public Relations report by Marnie Ellis, naming Goddard and the poster mailing -- AND IT WAS CITED NOWHERE IN THE ARTICLE. Added in all three places. ^31 LEFT IN PLACE AND FLAGGED RATHER THAN REMOVED, and the restraint is the point: entry 31 is Jay Netherwood's 1988 'L'Étranger' plus the operator's oral history, and a Winter 1988 article cannot attest a 1983-85 task force -- but entry 31's ORAL-HISTORY half may be carrying something else in those rows, and ^31 is used correctly on the Netherwood row two lines away. Removing a citation on an inference about numbering would be the same error as adding one. The doubt is written into the article where the next reader meets it.",
       "sources": [],
       "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5569",
+      "category": "people",
+      "date_ref": "1935-1945",
+      "entities": [
+        "J. Roby Kidd",
+        "Camp Kanawana",
+        "YMCA of Montreal",
+        "Sir George Williams"
+      ],
+      "claim": "THE 'ROBY KIDD' AT KANAWANA'S 1940 CIRCUS IS VERY PROBABLY J. ROBY KIDD, AND HE WAS ON THE MONTREAL YMCA'S STAFF IN THE POST THAT SENT BOYS TO THE CAMP. From Cochrane and Collins's 'J. R. Kidd: An International Legacy of Learning' (ERIC ED272738, full text read 2026-09-07): 'JAMES ROBBINS KIDD was born in Wapella, Saskatchewan, in 1915... FROM 1935 TO 1945 HE WORKED AS SECRETARY OF THE YOUNG MEN'S CHRISTIAN ASSOCIATION IN MONTREAL AND OTTAWA, and then as veteran counsellor for the YMCA in New York from 1945 to 1947. He continued his education as a part-time student at SIR GEORGE WILLIAMS COLLEGE IN MONTREAL, where he received his Bachelor of Arts Degree in 1938,' then an MA at McGill in 1943 and a Columbia EdD in 1947. AND THE POSTS ARE NAMED: 'Roby's positions in Montreal, as SECRETARY OF \"BOYS WORK\" AT NORTH BRANCH Y, and as PROGRAM SECRETARY AT NOTRE DAME DE GRACE.' WHY NORTH BRANCH MATTERS TO THIS WIKI SPECIFICALLY. The 1922 Kamp Kanawana brochure lists the Boys' Work Secretaries to whom camp applications were made, North Branch among them; W. J. Holliday ran that branch and Geoffrey Guiton was its Boys' Secretary. So the North Branch boys' work post WAS a Kanawana feeder post, and Kidd held it. A man in that job, in Montreal in 1940, clowning at the camp circus is not a coincidence to explain away. HE WAS ALSO A YMCA CAMP MAN FROM CHILDHOOD: 'From the age of ten, Roby spent time each summer at CAMP ELPHINSTONE,' the Vancouver YMCA's camp in West Howe Sound, established 1907. THE LIMIT, STATED PLAINLY: THE BIOGRAPHY NEVER MENTIONS KANAWANA. 'Kanawana' occurs ZERO times in its 733,768 characters, as do 'Kolah' and 'Seaman'. The camp connection rests entirely on the Green Triangle of 1940 (f_5519); what the biography supplies is the man, the city, the years and the job that make that line read as him.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5570",
+      "category": "people",
+      "date_ref": "1934-1950",
+      "entities": [
+        "John P. Kidd",
+        "J. Roby Kidd",
+        "Camp Kanawana"
+      ],
+      "claim": "THE TWO KIDDS AT KANAWANA ARE VERY PROBABLY BROTHERS, AND THE BIOGRAPHY SUPPLIES THE MECHANISM -- BUT THE IDENTIFICATION IS NOT MADE HERE. Kidd's biography: 'Later, he followed HIS BROTHER JOHN to Sir George Williams University in Montreal. JOHN HAD SUGGESTED THAT ROBY COULD PAY HIS WAY THROUGH UNIVERSITY BY WORKING AT THE Y because the family did not have the financial resources.' Elsewhere: 'His brother, John, worked at the Vancouver centre.' SET THAT BESIDE WHAT THIS PROJECT ALREADY HELD. JOHN P. KIDD was a Kanawana leader in 1934 (f_2288, f_2523) -- documented by his own signed first-person article in Canadian Camping of June 1950, 'Campers Are Citizens', bylined 'John P. Kidd, EXECUTIVE DIRECTOR, CANADIAN CITIZENSHIP COUNCIL, Ottawa', in which he recounts a wounded soldier at Caserta recognising him and saying 'Kamp Kanavana... 1934'. So a John Kidd was in Montreal YMCA camping in 1934, a year BEFORE Roby's Montreal career begins in 1935 -- which is exactly the order the biography describes, the elder brother first and Roby following him. And Roby's 1947 Columbia doctoral thesis 'sought to understand the function of the CANADIAN CITIZENSHIP COUNCIL', the body John P. Kidd was running by 1950. WHY IT IS STILL NOT ASSERTED, AND THE REASON IS A TRAP THIS PROJECT HAS FALLEN INTO BEFORE. The biography never gives brother John a middle initial, never says he went to Montreal camping, and NEVER MENTIONS KANAWANA. Worse, it names a DIFFERENT MAN in the adjacent role: 'JOHN ROBBINS, then Director of the Canadian Council on Education for Citizenship (LATER THE CANADIAN CITIZENSHIP COUNCIL)' -- and Roby's own middle name is ROBBINS. A John Robbins beside a James Robbins Kidd beside a John P. Kidd is precisely the shape of the three-W.-H.-Balls trap. The two directorships may both be true of different men at different times, the council having had a predecessor body. RECORDED AS A STRONG LEAD WITH ITS MECHANISM, NOT AS AN IDENTIFICATION. What would settle it: Sir George Williams registration records, the Montreal YMCA's own staff rosters for 1934, or an obituary giving Roby's brother's full name.",
+      "sources": [],
+      "confidence": "inferred",
       "conflicts_with": [],
       "added_version": "10.09",
       "added_by": "ralph_loop"
