@@ -30503,7 +30503,23 @@
       "extraction_version": "8.85",
       "reliability": "primary",
       "notes": "In the Internet Archive's ymca-montreal-fonds collection. Read 2026-09-07 under p_462 for its national camping figures; the rest of the issue is not read."
+    },
+    {
+      "source_id": "src_ia_ymca_national_council_bulletin_38_04",
+      "type": "periodical",
+      "title": "National Council Bulletin, Volume 38, Number 4 (June 1965), YMCA of Canada — the year in figures for 1964",
+      "date": "1965-06",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/national-council-bulletin-vol-38-no-04",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-07T01:08:00Z",
+      "extracted": true,
+      "extraction_version": "8.86",
+      "reliability": "primary",
+      "notes": "In the Internet Archive's ymca-montreal-fonds collection. Read 2026-09-07 under p_462 for its national camping figures; the rest is not read."
     }
   ],
-  "source_count": 1696
+  "source_count": 1697
 }
