@@ -1,8 +1,8 @@
 {
-  "version": "10.68",
-  "kb_version": "10.68",
+  "version": "10.69",
+  "kb_version": "10.69",
   "migrated_from": "3.3",
-  "fact_count": 5631,
+  "fact_count": 5632,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101519,6 +101519,23 @@
       "date_ref": "1965-1979",
       "conflicts_with": [],
       "added_version": "10.68",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5670",
+      "claim": "THE CAMP'S OWN MAP OF WHERE ITS CAMPERS CAME FROM, MID-1960s -- THE LIST SURVIVES, THE NUMBERS DO NOT. The ten year summary's last block is 'GEOGRAPHICAL DISTRIBUTION OF CAMPERS' by Montreal district and suburb. In the 1966 impression THE COUNTS ARE SHREDDED BEYOND RECOVERY -- the column reduces to strings like 'KH wWOoOoUwmdrwn COrN' -- and no figure from it is recorded anywhere. THE TWENTY-FIVE ROW LABELS ARE INTACT, and in the order printed they run: Ile Perrot, Senneville, Baie d'Urfe, Beaurepaire, Beaconsfield, Pointe Claire, Valois, Dorval, Lachine, Ville St. Pierre, St. Laurent, Ahuntsic and Cartierville, 'N.D.G., Montreal West and Hampstead', Cote St. Luc, Westmount, Snowdon, Central, Outremont, North End, Rosemount, T.M.R., Rosemere, Roxboro, Dollard des Ormeaux, Pierrefonds. The order is geographic: west to east along the Lakeshore, then into the city, then north and off-island, with the two newest suburbs appended at the end. WHAT IS ON THE LIST IS THE WEST ISLAND AND ANGLOPHONE CENTRAL MONTREAL. WHAT IS NOT ON IT: Verdun, LaSalle, the South Shore, and the whole east end -- no Hochelaga, no Maisonneuve, no Pointe-Saint-Charles, no Saint-Henri and NO LITTLE BURGUNDY. Rosemount and 'North End' are the easternmost entries. This is a catchment, not a census, and a district's absence could mean the camp drew nobody from it or that the list follows YMCA branch boundaries; the document does not say which. IT IS WORTH SETTING BESIDE WHAT COMES NEXT. Within about five years the association is describing Kanawana as serving inner-city families, and the 1971 'Projet La Petite Bourgogne' ran a French-language camp out of Little Burgundy -- the one neighbourhood whose absence from this list is most conspicuous.",
+      "sources": [
+        "src_ia_kanawana_annual_report_1966"
+      ],
+      "confidence": "stated",
+      "category": "demographics",
+      "entities": [
+        "Kamp Kanawana",
+        "Montreal"
+      ],
+      "date_ref": "1956-1966",
+      "conflicts_with": [],
+      "added_version": "10.69",
       "added_by": "ralph_loop"
     }
   ]

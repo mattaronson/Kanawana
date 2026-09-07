@@ -467,6 +467,28 @@ religion"**. The exact sums in the table above are unaffected and those figures 
 now has a seventh possible home rather than three, which makes reconstructing the later columns
 **worse**-founded than when the refusal was written, not better.)*^47 [f_5669]
 
+**Where the campers came from — the list survives, the numbers do not.** The summary's last block is
+"GEOGRAPHICAL DISTRIBUTION OF CAMPERS" by Montreal district and suburb. **Its counts are shredded beyond
+recovery** in the 1966 impression, reducing to strings like `KH wWOoOoUwmdrwn COrN`, and no figure from it
+is recorded here. **The twenty-five row labels are intact**, and they are worth having on their own,
+because a list of the places an institution counts is a statement about who it thinks it is for. In the
+order printed: Île Perrot, Senneville, Baie d'Urfé, Beaurepaire, Beaconsfield, Pointe Claire, Valois,
+Dorval, Lachine, Ville St-Pierre, St-Laurent, Ahuntsic and Cartierville, "N.D.G., Montreal West and
+Hampstead", Côte St-Luc, Westmount, Snowdon, Central, Outremont, North End, Rosemount, T.M.R., Rosemère,
+Roxboro, Dollard-des-Ormeaux, Pierrefonds. The order is geographic — west to east along the Lakeshore,
+then into the city, then north and off-island, with the two newest suburbs appended at the end.
+
+**What is on it is the West Island and anglophone central Montreal. What is not on it:** Verdun, LaSalle,
+the South Shore, and the entire east end — no Hochelaga, no Maisonneuve, no Pointe-Saint-Charles, no
+Saint-Henri and **no Little Burgundy**. Rosemount and "North End" are the easternmost entries.
+
+This is a catchment and not a census, and a district's absence could mean the camp drew nobody from it or
+that the list follows YMCA branch boundaries; the document does not say which. It is worth setting beside
+what comes next, though. Within about five years the association is describing Kanawana as serving
+inner-city families, and the 1971 *Projet La Petite Bourgogne* ran a French-language camp out of
+[[traditions/french-language-camping|Little Burgundy]] — the one neighbourhood whose absence from this
+list is most conspicuous.^46 [f_5670]
+
 **Both of these questions stopped being asked.** The religion block is printed in the 1965, 1966, 1969
 and 1970 impressions and is **absent entirely** from 1975, 1976, 1978 and 1979 — checked by searching all
 four for every category name, with no hits. The 'Y' membership row lasts a little longer, reading "(NO
