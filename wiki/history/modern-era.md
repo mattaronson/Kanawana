@@ -1,6 +1,6 @@
 # The Modern Era: The Two-Tier Era (1995–Present)
 
-*Status: draft | Sources: 20*
+*Status: draft | Sources: 21*
 *Last Updated: 2026-09-06 (the credit directories, which date the Drummond Street move and settle whose staff figures they are)*
 
 ## Overview
@@ -51,6 +51,29 @@ directorship with its own assistant is the tripping programme's line of command 
 plausible-looking post lists came back in the same search windows. None of those is attributed here.
 Only the text walked contiguously from Kanawana's own heading is quoted.
 
+
+## The camp as a fundraising unit, 2010
+
+**By 2010 Kanawana was raising money as a branch of the association, not only spending it.** The YMCAs of
+Québec community report for that year puts the camp in the Strong Kids Campaign beside the association's
+other units: "volunteers from the **ten Y centres, the International Language School, the Residence, and Camp
+Y Kanawana** raised close to **$340,000** to help empower youth, the young at heart, families, and
+individuals in need." Nearly **$50,000** of that came from "an **online viral campaign** which was also
+promoted through **Facebook**," with "a hundred or so '**volunteer storytellers**'" contributing.^21 That is
+the earliest instance this project holds of the camp inside a social-media fundraising campaign.
+
+**And it was one of only two things the association was asking donors to build.** The same report solicits
+"commitments to our **development projects (Camp Y Kanawana and Destination Youth)**."^21 The camp had been
+in the green shift since 2006; this is what that looked like from the fundraising side.
+
+The report also dates the season — "**06/28** — Start of the summer season for Camp Y Kanawana, with 12 new
+three-season cabins" — and gives the camp's standing capacity as "more than **2,000 youth aged 6 to 17 years
+each year."^21 *That figure is a recurring annual statement rather than a count for 2010*, so it belongs
+with the camp's capacity claims and not in [[meta/attendance-series|the attendance series]], whose gap runs
+across most of 2010–2019. The twelve cabins are at
+[[traditions/environmental-history|Environmental Education and Stewardship]]. The association served over
+115,000 people at 30 points of service that year, and calls the camp **"Camp Y Kanawana"** throughout its
+own English text.^21
 
 ## The camp in the credit directories, 1993–2001
 
@@ -218,6 +241,7 @@ endowment, and the association's endowment reporting is where to look next.
 
 19. *Canadian Key Business Directory* (Dun & Bradstreet Canada), the volumes for 1993, 1994, 1995, 1997, 1998, 1999, 2000 and 2001, plus one the Internet Archive leaves undated [src_canadian_key_business_directory_1993_2001]. **One entry, walked in each volume from the D-U-N-S number that opens it to the one that opens the next**, reconstructed 2026-09-06 from overlapping Open Library search-inside queries; every volume is lending-restricted, none has been read, and page images return HTTP 403, so the column alignment of the officer titles could not be checked against the page. Cached with its queries, its control test and its access failure at `sources/cache/openlibrary-search-inside/2026-09-06-canadian-key-business-directories-ymca-kanawana.txt`. See [f_4951].
 20. YMCA of Greater Montreal annual report 2004-2005 [src_ymf_sgw_ymca_annual_report_2004_2005], the Endowment Fund pages and the President's report. Read 2026-09-06 under p_454; no Wayback copy of this year exists in this project.
+21. YMCAs of Québec, community report for **2010** [src_ymf_sgw_ymca_community_report_2010]. Cached at `sources/cache/ymca-montreal-fonds/sgw-ymca-community-report-2010.txt`; read for its twenty-three Kanawana passages 2026-09-07 under the sharpened p_441. See [f_5578].
 
 ## Research Notes
 
