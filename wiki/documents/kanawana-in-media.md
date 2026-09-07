@@ -1,7 +1,7 @@
 # Kanawana in Media and Culture
 
-*Status: E1-reviewed | Sources: 29*
-*Last Updated: 2026-09-07 (the 1938 broadcast had a sponsor, and a corn syrup commercial ran into the camp feature)*
+*Status: E1-reviewed | Sources: 30*
+*Last Updated: 2026-09-07 (every archival reference code corrected, by one)*
 
 ## Overview
 
@@ -27,17 +27,30 @@ request.^20
 
 ### Audio reels
 
+**Every reference code in the two tables below was corrected on 7 September 2026, by one.**^30 They had been
+read off the archive's PDF finding aid, whose two-column layout the text extractor flattens into alternating
+runs of reference code and item title. The code sits *above* its title in that flattened text, and the codes
+had been read as sitting below — so each item carried its neighbour's number, and anyone ordering a reel
+from this page would have been handed the next one on the shelf. Two independent controls fix the direction.
+The 1960s silent film described above is P0145-09-0087 on Concordia's own YouTube upload, and the
+code-above-title reading is the one that puts "Various scenes… including swimming and diving" at 0087. And
+the finding aid's P0145-09-0011 block carries the scope note "Inter-title: Boating and Water Sports All
+Summer Long" directly beneath the title it belongs to. One pair resists: **P0145-11-0196 and -0197 appear on
+consecutive lines with two titles after them**, so "What is God?" is 0196 on the pattern that holds
+everywhere else, but the run could be read the other way. Verify that one with the archivist before ordering
+it.
+
 Quarter-inch reels in series P0145/11:
 
 | Reference | Title | Date |
 |---|---|---|
-| P0145-11-0193 | **Kamp Kanawana — Interview with Woodsman** | **24 August 1962** |
-| P0145-11-0197 | **What is God? / Interview of Kamp Kanawana campers and staff** | **1963** |
-| P0145-11-0191 | Pathfinder evaluation | undated |
-| P0145-11-0190 | Kanawana promotional tape | undated |
-| P0145-11-0180 | Kamp Kanawana | undated |
-| P0145-11-0194 | Homesick tape | undated |
-| P0145-11-0002 | *On my way to Kanawana* — CD, 4 min., "Words and music by Richard Itch Kerr and used for the YMCA Montreal 150 years" | 2001 |
+| P0145-11-0192 | **Kamp Kanawana — Interview with Woodsman** | **24 August 1962** |
+| P0145-11-0196 | **What is God? / Interview of Kamp Kanawana campers and staff** | **1963** |
+| P0145-11-0190 | Pathfinder evaluation | undated |
+| P0145-11-0189 | Kanawana promotional tape | undated |
+| P0145-11-0179 | Kamp Kanawana | undated |
+| P0145-11-0193 | Homesick tape | undated |
+| P0145-11-0001 | *On my way to Kanawana* — CD, 4 min., "Words and music by Richard Itch Kerr and used for the YMCA Montreal 150 years" | 2001 |
 
 The first two matter out of proportion to their length. **They are dated recordings of campers and
 staff speaking, from 1962 and 1963** — a decade this wiki documents almost entirely through annual
@@ -52,13 +65,13 @@ to recordings of homesick campers; it is listed here so it is not lost.
 
 | Reference | Title | Note |
 |---|---|---|
-| P0145-09-0012 | *Camp Kanawana: Boating and Water Sports All Summer Long* | Inter-titled silent footage; digitized 16 January 2003 |
-| P0145-09-0088 | *Kamp Kanawana* [ca. 196-] | 16 mm reel, no sound — "Various scenes… including swimming and diving"; access copy 30 January 2003 |
-| P0145-09-0066 | *Canoe Trips* | "Promotional video for the canoe trips organized by the YMCA of Montreal… no sound." Access copy on the RMA YouTube channel |
-| P0145-09-0136 | *Kamp Kanawana* | **March 1987** — noted in the finding aid as "English version" |
-| P0145-09-0135 | *Message d'intérêt public : — Kamp Kanawana* | **6 December 1988** — the French counterpart |
-| P0145-09-0057 | *News Documents and Kamp Kanawana* | undated |
-| P0145-09-0035 | *Kamp Kanawana: The Experience that Lasts a Lifetime* | 1993 — the documentary described above |
+| P0145-09-0011 | *Camp Kanawana: Boating and Water Sports All Summer Long* | Inter-titled silent footage; digitized 16 January 2003 |
+| P0145-09-0087 | *Kamp Kanawana* [ca. 196-] | 16 mm reel, no sound — "Various scenes… including swimming and diving"; access copy 30 January 2003 |
+| P0145-09-0066 | *Canoe Trips* | "Promotional video for the canoe trips organized by the YMCA of Montreal… no sound." Access copy on the RMA YouTube channel, whose description gives this code. **The 2023 finding aid titles P0145-09-0066 simply *Otoreke***, access copy created 28 January 2003 — either the same film retitled for the upload, or a catalogue change since 2023.^30 |
+| P0145-09-0135 | *Kamp Kanawana* | **March 1987** — noted in the finding aid as "English version" |
+| P0145-09-0134 | *Message d'intérêt public : — Kamp Kanawana* | **6 December 1988** — the French counterpart |
+| P0145-09-0056 | *News Documents and Kamp Kanawana* | undated |
+| P0145-09-0034 | *Kamp Kanawana: The Experience that Lasts a Lifetime* | 1993 — the documentary described above |
 
 The 1987/1988 pair is a **bilingual public-service-announcement campaign** that this wiki did not
 previously record at all. That the English version precedes the French by twenty-one months is worth
@@ -270,6 +283,7 @@ To which can be added a fifth of a different kind: **Armand B. Ball, *Basic Camp
 27. CUTV Montreal, "YMCA Sommet international de l'engagement jeunesse" [src_ia_cutv_ymca_youth_summit_2013], Internet Archive item `cutvqc-YMCA_Sommet_international_de_lengagement_jeunesse`, originally YouTube `vFvHCELC4zI`. **The film has not been watched.** What is cached is its two machine-generated caption tracks, of which the French is a machine translation of the English rather than a transcription of the French speech; the interview at the centre of the piece is unrecoverable from either, and no name in them is reliable. See [f_5238].
 28. Kamp Kanawana counsellor recruitment advertisement, *The McGill Daily* Vol. 78 No. 83, 20 February 1989, p. 14 [src_mcgill_daily_1989_02_20]: the display closes "The experience that lasts a Lifetime!" Transcribed at `sources/cache/mcgill/2026-09-07-kanawana-ad-1989-and-perrot-doctors-1948.txt`. See [f_5428].
 29. "The Voice of Youth" No. 30, full script with the sponsor's copy, 10 November 1938 [src_ymf_1938_11_10_the_voice_of_youth_no_30], Internet Archive item `1938-11-10-the-voice-of-youth-no.-30`. **A THIRD, LONGER VERSION of the same broadcast**: 12,127 characters against the 6,248 of the script at note 25 and the 8,302 of the undated `kamp-kanawana-radio-broadcast`. Only this one carries the programme's opening, its sponsor and its advertising copy — the shorter versions begin after them. Cached at `sources/cache/ymca-montreal-fonds/1938-11-10-the-voice-of-youth-no.-30.txt`; read 2026-09-07 under p_482.
+30. Concordia University Records Management and Archives, *Finding Aid — YMCA of Montreal Fonds (P0145)*, generated 24 November 2023, 125 pp. [src_concordia_p0145_full_findingaid_pdf]. Cached at `sources/cache/concordia-findingaid/P0145-ymca-of-montreal-fonds-findingaid-2023-11-24.txt`. Re-read 2026-09-07 under p_487, which is when the reference codes below were corrected. See [f_5604].
 
 *All four are lending-restricted on the Internet Archive and none has been read; each passage was reconstructed from overlapping Open Library search-inside queries and is cached with its queries under `sources/cache/openlibrary-search-inside/`.*
 

@@ -78,7 +78,7 @@ The 1965 Concordia archives listing includes "The Pathfinder program Summer Summ
 However, the name was later reassigned to the senior girls section when coeducation occurred, and today Pathfinders serves girls and non-binary campers aged 13-16. When this gender reassignment took place is not documented. It may have happened during the Co-ed Camping Pilot Project (1967-1970), or it may have been a later reorganization. The Concordia archives listing does not specify which camp the 1965 summary belongs to, so the question remains open.
 
 **An unheard recording may settle this.** Concordia's full finding aid lists a quarter-inch audio
-reel, **P0145-11-0191, titled simply "Pathfinder evaluation."**^pf It is undated; the immediately
+reel, **P0145-11-0190, titled simply "Pathfinder evaluation."**^pf The code was corrected from -0191 on 2026-09-07; see [[documents/kanawana-in-media|Kanawana in Media]] for why every reference code read off this finding aid was one out. It is undated; the immediately
 adjacent untitled item carries the dates 1969 and 1964, which places the neighbourhood but not the
 reel. If it evaluates the boys' section introduced in 1959, it settles the 1965 summary as boys'
 programming; if it evaluates a girls' programme, the timeline moves. Either way it is a more direct

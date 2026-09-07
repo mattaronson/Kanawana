@@ -5521,3 +5521,39 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   field exists to prevent.
   facts.json v10.15, 5,565 facts. Verify green, nine checks. Timestamp from
   `date -u` in its own call.
+
+[2026-09-07T15:05:16Z] VERIFY -- EVERY ARCHIVAL REFERENCE CODE IN THIS PROJECT
+  WAS ONE OUT. Fourth application of p_487's tell, and much the worst thing it
+  has found. The 231,000-character Concordia finding aid carried read_state
+  "extracted" on the basis "asserted:pdf-downloaded-and-text-extracted-in-full"
+  -- a basis describing the DOWNLOAD, not a read.
+  The finding aid is a two-column table and the extractor flattens it into
+  alternating runs. THE CODE COMES ABOVE ITS TITLE. It had been read as coming
+  below, so every item in f_2272, f_2273 and f_2274, and every row of both
+  tables in documents/kanawana-in-media.md, carried ITS NEIGHBOUR'S NUMBER.
+  Anyone ordering a reel from this wiki would have been handed the next item on
+  the shelf.
+  TWO INDEPENDENT CONTROLS, neither of them the pattern itself. (1) The SAME
+  ARTICLE already said in prose, from an earlier pass, that the 1960s silent
+  film is P0145-09-0087, with a YouTube access copy verified in July -- and its
+  own table said 0088. It held both readings of one film and nothing noticed.
+  (2) The finding aid's 09-0011 block carries the scope note "Inter-title:
+  Boating and Water Sports All Summer Long" under the title it belongs to.
+  Thirteen codes corrected, each by one, in the KB and the article. Among them
+  P0145-11-0191 -> 0190, "Pathfinder evaluation", which coeducation-gender.md
+  leans on for a standing open question -- fixed there too, with the reason.
+  ONE PAIR RESISTS: 11-0196 and -0197 sit on consecutive lines followed by two
+  titles, so "What is God?" is 0196 on the pattern that holds everywhere else,
+  but the run could be read the other way. Flagged in the article as needing the
+  archivist before ordering.
+  ONE CODE IS A REAL DISAGREEMENT, NOT AN ERROR, and is left standing: the wiki
+  gives 09-0066 as "Canoe Trips" on Concordia's own YouTube description, while
+  the 2023 finding aid titles 0066 "Otoreke". Same archive, same code, two
+  titles. Recorded in the article, not resolved.
+  THE LESSON, f_5604: a reference code is the one thing in a citation a reader
+  acts on WITHOUT reading anything else, so it is the worst place to be
+  confidently wrong -- and pattern-matching it out of flattened PDF text has no
+  internal check at all. Anchor every code to an item whose identity is fixed by
+  something other than its position.
+  facts.json v10.16, 5,566 facts. Verify green, nine checks. Timestamp from
+  `date -u` in its own call.

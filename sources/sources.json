@@ -12778,9 +12778,9 @@
       "extracted": true,
       "extraction_version": "v5.44",
       "reliability": "primary",
-      "notes": "THE AUTHORITATIVE FINDING AID, and a strict superset of the static-HTML mirror this project had been working from. 173 sub-series and sub-sub-series units against the mirror's 95; every mirror page corresponds to a unit here, and 78 units have no mirror page at all. Reached via the /downloads/ path, which is NOT behind the AtoM browser challenge that blocks concordia.accesstomemory.org itself. PDF and extracted text both cached. NOTE ON THE CACHE: the repo's .gitignore excludes *.pdf, so only the extracted .txt is committed. The PDF is re-fetchable at the origin_url with a plain curl -- no challenge, no auth.",
+      "notes": "THE AUTHORITATIVE FINDING AID, and a strict superset of the static-HTML mirror this project had been working from. 173 sub-series and sub-sub-series units against the mirror's 95; every mirror page corresponds to a unit here, and 78 units have no mirror page at all. Reached via the /downloads/ path, which is NOT behind the AtoM browser challenge that blocks concordia.accesstomemory.org itself. PDF and extracted text both cached. NOTE ON THE CACHE: the repo's .gitignore excludes *.pdf, so only the extracted .txt is committed. The PDF is re-fetchable at the origin_url with a plain curl -- no challenge, no auth. | RE-READ 2026-09-07 under p_487. The Kanawana-relevant item entries were realigned against their reference codes and thirteen codes corrected across f_2272, f_2273, f_2274 and documents/kanawana-in-media.md. See f_5604 for the two external controls that fixed the direction and for the one pair (11-0196/-0197) that remains uncertain.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:pdf-downloaded-and-text-extracted-in-full"
+      "read_state_basis": "direct:re-read-2026-09-07-under-p_487-item-level-codes-realigned. The basis was \"asserted:pdf-downloaded-and-text-extracted-in-full\", which described the DOWNLOAD, not a read. The re-read found every item-level reference code in the KB and wiki one too high (f_5604): the PDF is a two-column table and the extractor puts the code ABOVE its title, which is the opposite of how it had been read."
     },
     {
       "source_id": "src_concordia_atom_catalogue",

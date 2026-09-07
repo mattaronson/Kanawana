@@ -1,8 +1,8 @@
 {
-  "version": "10.15",
-  "kb_version": "10.15",
+  "version": "10.16",
+  "kb_version": "10.16",
   "migrated_from": "3.3",
-  "fact_count": 5565,
+  "fact_count": 5566,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -38661,7 +38661,7 @@
     },
     {
       "fact_id": "f_2272",
-      "claim": "THE FINDING AID CARRIES ITEM-LEVEL AV RECORDS -- 611 'Item' entries in all, and the Kanawana audio holdings are the single richest unexploited seam found to date. Quarter-inch audio reels in P0145/11: P0145-11-0180 'Kamp Kanawana'; P0145-11-0190 'Kanawana promotional tape'; P0145-11-0191 'Pathfinder evaluation'; P0145-11-0193 'Kamp Kanawana - Interview with Woodsman', dated 24 August 1962; P0145-11-0194 'Homesick tape'; and P0145-11-0197 'What is God? / Interview of Kamp Kanawana campers and staff', 1963. Also P0145-11-0002, 'On my way to Kanawana', a 4-minute CD from 2001, 'Words and music by Richard Itch Kerr and used for the YMCA Montreal 150 years'. Two of these are DATED ORAL RECORDINGS OF CAMPERS AND STAFF from 1962 and 1963 -- primary voice material from the period this wiki documents almost entirely through paper.",
+      "claim": "THE FINDING AID CARRIES ITEM-LEVEL AV RECORDS -- 611 'Item' entries in all, and the Kanawana audio holdings are the single richest unexploited seam found to date. Quarter-inch audio reels in P0145/11: P0145-11-0179 'Kamp Kanawana'; P0145-11-0189 'Kanawana promotional tape'; P0145-11-0190 'Pathfinder evaluation'; P0145-11-0192 'Kamp Kanawana - Interview with Woodsman', dated 24 August 1962; P0145-11-0193 'Homesick tape'; and P0145-11-0196 'What is God? / Interview of Kamp Kanawana campers and staff', 1963. Also P0145-11-0001, 'On my way to Kanawana', a 4-minute CD from 2001, 'Words and music by Richard Itch Kerr and used for the YMCA Montreal 150 years'. Two of these are DATED ORAL RECORDINGS OF CAMPERS AND STAFF from 1962 and 1963 -- primary voice material from the period this wiki documents almost entirely through paper. [CODES CORRECTED 2026-09-07 by f_5604: EVERY reference code in this fact was one too high. The finding aid's PDF is a two-column table and its code sits ABOVE its title in the flattened text; it had been read as sitting below. The codes above are the corrected ones. The superseded values were each exactly one higher, and 11-0196 (What is God?) is the one uncertain case.]",
       "sources": [
         "src_concordia_p0145_full_findingaid_pdf"
       ],
@@ -38678,7 +38678,7 @@
     },
     {
       "fact_id": "f_2273",
-      "claim": "P0145-11-0191 is an audio reel titled 'Pathfinder evaluation'. This bears directly on a standing open question in coeducation-gender.md: the 1965 'Pathfinder program Summer Summary' is ambiguous because 'Pathfinders' was introduced at Kanawana in 1959 as a BOYS' section name for ages 14-15, and was only later reassigned to the senior girls' section. An evaluation recording could settle which programme is meant. The item is undated in the finding aid; the immediately adjacent untitled item P0145-11-0192 carries the dates 1969 and 1964, which brackets the neighbourhood but does not date the reel itself.",
+      "claim": "P0145-11-0190 is an audio reel titled 'Pathfinder evaluation'. This bears directly on a standing open question in coeducation-gender.md: the 1965 'Pathfinder program Summer Summary' is ambiguous because 'Pathfinders' was introduced at Kanawana in 1959 as a BOYS' section name for ages 14-15, and was only later reassigned to the senior girls' section. An evaluation recording could settle which programme is meant. The item is undated in the finding aid; the immediately adjacent untitled item P0145-11-0192 carries the dates 1969 and 1964, which brackets the neighbourhood but does not date the reel itself. [CODES CORRECTED 2026-09-07 by f_5604: EVERY reference code in this fact was one too high. The finding aid's PDF is a two-column table and its code sits ABOVE its title in the flattened text; it had been read as sitting below. The codes above are the corrected ones. The superseded values were each exactly one higher, and 11-0196 (What is God?) is the one uncertain case.]",
       "sources": [
         "src_concordia_p0145_full_findingaid_pdf"
       ],
@@ -38695,7 +38695,7 @@
     },
     {
       "fact_id": "f_2274",
-      "claim": "Moving-image items for the camp, with reference codes: P0145-09-0012 'Camp Kanawana: Boating and Water Sports All Summer Long' (inter-titled silent footage, digitized 2003-01-16); P0145-09-0035 the 1993 Cathy Reeves documentary; P0145-09-0057 'News Documents and Kamp Kanawana'; P0145-09-0066 'Canoe Trips'; P0145-09-0088 'Kamp Kanawana' [ca. 196-], a 16 mm reel, no sound, 'Various scenes from Kamp Kanawana, including swimming and diving', access copy created 2003-01-30; P0145-09-0135 'Message d'interet public: - Kamp Kanawana', 6 December 1988, a French public-service announcement; and P0145-09-0136 'Kamp Kanawana', March 1987, noted as the English version. The 1987/1988 pair is a bilingual PSA campaign the wiki does not record at all.",
+      "claim": "Moving-image items for the camp, with reference codes: P0145-09-0011 'Camp Kanawana: Boating and Water Sports All Summer Long' (inter-titled silent footage, digitized 2003-01-16); P0145-09-0034 the 1993 Cathy Reeves documentary; P0145-09-0056 'News Documents and Kamp Kanawana'; P0145-09-0066 'Canoe Trips'; P0145-09-0087 'Kamp Kanawana' [ca. 196-], a 16 mm reel, no sound, 'Various scenes from Kamp Kanawana, including swimming and diving', access copy created 2003-01-30; P0145-09-0134 'Message d'interet public: - Kamp Kanawana', 6 December 1988, a French public-service announcement; and P0145-09-0135 'Kamp Kanawana', March 1987, noted as the English version. The 1987/1988 pair is a bilingual PSA campaign the wiki does not record at all. [CODES CORRECTED 2026-09-07 by f_5604: EVERY reference code in this fact was one too high. The finding aid's PDF is a two-column table and its code sits ABOVE its title in the flattened text; it had been read as sitting below. The codes above are the corrected ones. The superseded values were each exactly one higher, and 11-0196 (What is God?) is the one uncertain case.]",
       "sources": [
         "src_concordia_p0145_full_findingaid_pdf"
       ],
@@ -100291,6 +100291,23 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5604",
+      "category": "method",
+      "date_ref": null,
+      "entities": [
+        "Concordia University Archives",
+        "Camp Kanawana"
+      ],
+      "claim": "EVERY ARCHIVAL REFERENCE CODE THIS PROJECT READ OFF CONCORDIA'S FINDING AID WAS ONE OUT. The 231,000-character PDF finding aid for the YMCA of Montreal fonds carried read_state 'extracted' on the basis 'asserted:pdf-downloaded-and-text-extracted-in-full' and had produced ten facts. Re-read 2026-09-07 under p_487. THE FINDING AID IS A TWO-COLUMN TABLE -- reference code in one column, item title in the other -- and the text extractor flattens it into alternating runs. THE CODE COMES FIRST, ABOVE ITS TITLE. It had been read as coming after, so every item in f_2272, f_2273 and f_2274, and every row of the two tables in documents/kanawana-in-media.md, carried ITS NEIGHBOUR'S NUMBER. Anyone ordering a reel from this wiki would have been handed the next item on the shelf. TWO INDEPENDENT CONTROLS FIX THE DIRECTION, and neither is the pattern itself. (1) documents/kanawana-in-media.md already carried, in prose and from a different pass, 'a silent colour film of Kamp Kanawana from the 1960s... (P0145-09-0087)' with a YouTube access copy verified 2026-07-09 -- and the code-above-title reading is the one that puts 'Various scenes from Kamp Kanawana, including swimming and diving' at 0087. The SAME ARTICLE's table gave that item as 0088. It held both readings of the same film and nothing noticed. (2) The finding aid's P0145-09-0011 block carries the scope note 'Inter-title: Boating and Water Sports All Summer Long' immediately beneath the title it belongs to, which only the code-above reading makes coherent. THE CORRECTIONS, old to new: 09-0012 to 09-0011 (Boating and Water Sports); 09-0035 to 09-0034 (the 1993 documentary); 09-0057 to 09-0056 (News Documents and Kamp Kanawana); 09-0088 to 09-0087 (the 1960s silent reel); 09-0135 to 09-0134 (the French PSA, 6 December 1988); 09-0136 to 09-0135 (Kamp Kanawana, March 1987, 'English version'); 11-0002 to 11-0001 (On my way to Kanawana, 2001); 11-0180 to 11-0179; 11-0190 to 11-0189 (Kanawana promotional tape); 11-0191 to 11-0190 (PATHFINDER EVALUATION, which coeducation-gender.md leans on for a standing open question and which is now corrected there too); 11-0193 to 11-0192 (Interview with Woodsman, 24 August 1962); 11-0194 to 11-0193 (Homesick tape); 11-0197 to 11-0196 (What is God?, 1963). ONE PAIR RESISTS: P0145-11-0196 and -0197 appear on consecutive lines followed by two titles, so 'What is God?' is 0196 on the pattern that holds everywhere else but the run could be read the other way. Flagged in the article as needing confirmation from the archivist before ordering. ONE CODE IS NOT CORRECTED AND IS A REAL DISAGREEMENT rather than an error: the wiki gives P0145-09-0066 as 'Canoe Trips' on the authority of Concordia's own YouTube description (f_2269), while the 2023 finding aid titles 0066 simply 'Otoreke'. Same archive, same code, two titles -- either the same film retitled for the upload or a catalogue change since 2023. Recorded in the article, not resolved. THE GENERAL LESSON: a reference code is the one thing in a citation that a reader acts on WITHOUT reading anything else, so it is the worst place in the record to be confidently wrong, and the pattern-matching that produces it from flattened PDF text has no internal check at all. Anchor every code to an item whose identity is fixed by something other than its position.",
+      "sources": [
+        "src_concordia_p0145_full_findingaid_pdf"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.16",
       "added_by": "ralph_loop"
     }
   ]
