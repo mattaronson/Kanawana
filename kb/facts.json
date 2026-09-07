@@ -1,8 +1,8 @@
 {
-  "version": "8.77",
-  "kb_version": "8.77",
+  "version": "8.78",
+  "kb_version": "8.78",
   "migrated_from": "3.3",
-  "fact_count": 5204,
+  "fact_count": 5206,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93840,6 +93840,43 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.77",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5243",
+      "category": "method",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Internet Archive",
+        "YMCA of Montreal",
+        "Concordia University"
+      ],
+      "claim": "THE MONTREAL YMCA FONDS ON THE INTERNET ARCHIVE IS FOUR TIMES THE SIZE OF WHAT THIS PROJECT HAS READ FROM IT, AND FORTY-SEVEN OF THE UNREAD ITEMS ARE TEXTS. An enumeration on 2026-09-07 (advancedsearch.php, q=\"ymca of montreal\", rows=1000) returns 942 items. Checked one by one against sources.json, kb/facts.json and the cache filenames: 458 are held or cited somewhere in this project and 484 ARE NOT. Of those 484, 437 are images and 47 are texts. THE FORTY-SEVEN TEXTS ARE THE FIND, and they are whole serial runs this project has never touched: THE QUARTERLY REPORTER No. 1 (1856), the association's earliest periodical, five years after its founding; the ANNUAL REPORT FOR 1874; CANADIAN MANHOOD, six issues 1914-1919; THE NEWS BULLETIN, about twenty issues from 1931 to 1949; the NATIONAL COUNCIL BULLETIN, about ten issues 1950-1968; a short-version annual report for 1959; bulletins of 1970 and 1982; and a French annual report for 2001-2002. Greps confirm the titles: 'Canadian Manhood', 'Quarterly Reporter' and 'National Council Bulletin' occur NOWHERE in this project, and the four hits on 'news bulletin' are a single 1970 bilingual release, a different publication. THE 437 IMAGES ARE NOT DISMISSED: they are city-branch photographs catalogued with generic titles -- Basketball, Norris Building, Gym, Day Camp Activity, Pool -- and because they are NOT catalogued by camp, a Kanawana photograph among them would never surface in a search on the camp's name. A TRAP WORTH THE LINE IT TAKES: the plain-text file in these items is named after the item's TITLE and not its identifier, so the obvious <identifier>_djvu.txt returns HTTP 404 with a 146-byte body. Read the file list from archive.org/metadata/<identifier> and take the name ending _djvu.txt. The full list of the 47 is cached.",
+      "sources": [
+        "src_ia_ymca_montreal_fonds_enumeration_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.78",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5244",
+      "category": "institutional",
+      "date_ref": "1939",
+      "entities": [
+        "Kamp Kanawana",
+        "Camp Otoreke",
+        "YMCA of Montreal",
+        "National Council of YMCAs of Canada"
+      ],
+      "claim": "THE CAMPS WERE THEIR OWN FUNDRAISING UNITS IN THE NATIONAL YMCA'S OVERSEAS PROGRAMME. A sample of nine of the forty-seven unread texts was pulled to test whether the run is worth reading. It is. The News Bulletin, Volume 15 Number 1 (1939), prints 'WORLD SERVICE OBJECTIVES SUGGESTED FOR 1939 (As Approved by The Council)' -- a national list of Canadian associations and their World Service objectives -- and under Montreal it lists, as separate line items: Metropolitan, [Central], Westmount, Southwestern, Eastern Community, Point St. Charles, CAMP KANAWANA, Sir George Williams College, CAMP OTOREKE, Lachine. So the two camps carried their own World Service objectives alongside the city branches and the college, which makes each camp a contributing unit of the national association's overseas programme rather than a line inside the Boys' Work budget. THE AMOUNTS ARE NOT GIVEN HERE AND MUST NOT BE GUESSED: the OCR puts the names in one column run and the figures in another, so no name is safely matched to a number from this scan. 'World Service' occurs three times in this project's KB and in one article, none of it about the camps. TWO OTHER RESULTS FROM THE SAME SAMPLE, both negative and both worth having: CANADIAN MANHOOD (1914-1919) is the association's WARTIME magazine and its 'camp' content is MILITARY camps -- 45 hits in one 1915 issue and 71 in a 1917 issue, all of that kind -- so it is a source for the war and not for the summer camp; and the 1874 annual report contains the word 'camp' zero times, twenty years before the camp existed, which is what it should do and confirms the search is working.",
+      "sources": [
+        "src_ia_ymca_montreal_fonds_enumeration_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.78",
       "added_by": "ralph_loop"
     }
   ]

@@ -30343,7 +30343,23 @@
       "extraction_version": "8.76",
       "reliability": "primary",
       "notes": "\"Girls Make Films: YWCA Camp Oolahwan Will Be Open to Sunday Visitors\" and \"Life-Saving Tests in the Laurentians\", both 1928, pasted into a Toronto physical-education student's album. NEITHER CLIPPING NAMES ITS NEWSPAPER OR ITS DATE; 1928 is the archive's dating of the folder. Almost certainly Montreal papers. OCR is rough and two readings are flagged in the cache header."
+    },
+    {
+      "source_id": "src_ia_ymca_montreal_fonds_enumeration_2026",
+      "type": "catalog_reference",
+      "title": "The YMCA of Montreal fonds on the Internet Archive — enumeration of what this project has not read",
+      "date": "2026-09-07",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/advancedsearch.php?q=%22ymca+of+montreal%22",
+      "cache_path": "sources/cache/ymca-montreal-fonds/2026-09-07-ia-fonds-enumeration-what-is-unread.txt",
+      "char_count": 6855,
+      "ingested_at": "2026-09-07T00:35:00Z",
+      "extracted": true,
+      "extraction_version": "8.78",
+      "reliability": "tertiary",
+      "notes": "A finding aid compiled here, not a source of camp facts. 942 items; 458 already held; 484 not, of which 437 are city-branch photographs and 47 are texts. Carries the list of the 47 and the filename trap."
     }
   ],
-  "source_count": 1686
+  "source_count": 1687
 }

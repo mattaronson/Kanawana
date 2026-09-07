@@ -1,0 +1,78 @@
+THE YMCA OF MONTREAL FONDS ON THE INTERNET ARCHIVE -- WHAT THIS PROJECT HAS NOT READ
+====================================================================================
+Enumerated 2026-09-07. advancedsearch.php, q="ymca of montreal", rows=1000. numFound 942.
+
+HELD OR CITED SOMEWHERE IN THIS PROJECT: 458.   NOT: 484 (437 images, 47 texts).
+
+A TRAP THAT COSTS AN HOUR IF YOU DO NOT KNOW IT
+-----------------------------------------------
+The plain-text file in these items is named after the item's TITLE, not its identifier:
+  https://archive.org/download/the-news-bulletin-vol-07-no-06/The%20News%20Bulletin%20-%20Vol%2007,%20No%2006_djvu.txt
+The obvious <identifier>_djvu.txt returns HTTP 404 with a 146-byte body. Read the file list
+from archive.org/metadata/<identifier> and take the name that ends in _djvu.txt.
+
+THE 47 UNREAD TEXT ITEMS, oldest first
+--------------------------------------
+  1856   the-quarterly-reporter-1856-01                       The Quarterly Reporter - No. 1
+  1874   sgw-ymca-annual-report-1874                          YMCA Annual Report 1874
+  1914   canadian-manhood-vol-01-no-03                        Canadian Manhood - Volume 01, Number 03
+  1915   canadian-manhood-vol-02-no-02                        Canadian Manhood - Volume 02, Number 02
+  1915   canadian-manhood-vol-02-no-03                        Canadian Manhood - Volume 02, Number 03
+  1915   canadian-manhood-vol-02-no-04                        Canadian Manhood - Volume 02, Number 04
+  1917   canadian-manhood-vol-04-no-04                        Canadian Manhood - Volume 04, Number 04
+  1919   canadian-manhood-enlarged-series-vol-01-no-01        Canadian Manhood (Enlarged Series) - Volume 01, Number 01
+  1931   the-news-bulletin-vol-07-no-06                       The News Bulletin - Volume 07, Number 06
+  1931   the-news-bulletin-vol-07-no-07                       The News Bulletin - Volume 07, Number 07
+  1931   the-news-bulletin-vol-07-no-01                       The News Bulletin - Volume 07, Number 01
+  1931   the-news-bulletin-vol-07-no-05                       The News Bulletin - Volume 07, Number 05
+  1931   the-news-bulletin-vol-07-no-03                       The News Bulletin - Volume 07, Number 03
+  1932   the-news-bulletin-vol-08-no-03                       The News Bulletin - Volume 08, Number 03
+  1932   the-news-bulletin-vol-09-no-02                       The News Bulletin - Volume 09, Number 02
+  1932   the-news-bulletin-vol-08-no-02                       The News Bulletin - Volume 08, Number 02
+  1933   the-news-bulletin-vol-09-no-01                       The News Bulletin - Volume 09, Number 01
+  1933   the-news-bulletin-vol-09-no-03                       The News Bulletin - Volume 09, Number 03
+  1934   ymca-news-bulletin-1934-12                           Y.M.C.A. News Bulletin - 1934-12
+  1936   the-news-bulletin-vol-12-no-03                       The News Bulletin - Volume 12, Number 03
+  1938   the-national-news-letter-1938-12-06                  The National News Letter - 1938-12-06
+  1939   the-news-bulletin-vol-15-no-01                       The News Bulletin - Volume 15, Number 01
+  1943   the-news-bulletin-vol-20-no-07                       The News Bulletin - Volume 20, Number 07
+  1944   the-news-bulletin-vol-19-no-02                       The News Bulletin - Volume 19, Number 02
+  1944   the-news-bulletin-vol-19-no-03                       The News Bulletin - Volume 19, Number 03
+  1946   the-news-bulletin-vol-21-no-03                       The News Bulletin - Volume 21, Number 03
+  1946   the-news-bulletin-vol-21-no-04                       The News Bulletin - Volume 21, Number 04
+  1946   the-news-bulletin-vol-21-no-01                       The News Bulletin - Volume 21, Number 01
+  1946   the-news-bulletin-vol-21-no-02                       The News Bulletin - Volume 21, Number 02
+  1949   the-news-bulletin-vol-24-no-04                       The News Bulletin - Volume 24, Number 04
+  1949   the-news-bulletin-vol-24-no-01                       The News Bulletin - Volume 24, Number 01
+  1950   national-council-bulletin-vol-24-no-01               National Council Bulletin - Volume 24, Number 01
+  1950   national-council-bulletin-vol-24-no-02               National Council Bulletin - Volume 24, Number 02
+  1959   sgw-ymca-annual-report-1959-short-version            YMCA Annual Report 1959 Short Version
+  1962   national-council-bulletin-vol-36-no-04               National Council Bulletin - Volume 36, Number 04
+  1965   national-council-bulletin-vol-38-no-04               National Council Bulletin - Volume 38, Number 04
+  1966   national-council-bulletin-vol-39-no-03               National Council Bulletin - Volume 39, Number 03
+  1966   national-council-bulletin-vol-40-no-01               National Council Bulletin - Volume 40, Number 01
+  1967   national-council-bulletin-vol-40-no-02               National Council Bulletin - Volume 40, Number 02
+  1967   national-council-bulletin-vol-40-no-03               National Council Bulletin - Volume 40, Number 03
+  1968   national-council-bulletin-vol-41-no-03               National Council Bulletin - Volume 41, Number 03
+  1968   national-council-bulletin-vol-41-no-02               National Council Bulletin - Volume 41, Number 02
+  1970   bulletin-1970-02-13                                  Bulletin - 1970-02-13
+  1972   canada-newsletter-1972-spring                        Canada Newsletter - 1972 Spring
+  1982   communique-incendie-orillia                          Un incendie ravage le YMCA d'Orillia
+  1982   bulletin-1982-12-15                                  Bulletin - 1982-12-15
+  2002   sgw-ymca-annual-report-2001-2002-fr                  YMCA Rapport Annuel 2001-2002
+
+THE 437 UNREAD IMAGE ITEMS are city-branch photographs with generic titles -- Basketball (13),
+Norris Building (10), Gym (10), Gymnasium Activity (8), Day Camp Activity (7), Pool (6),
+Swimming Class (5), Hockey Rink (5) and so on. They are NOT catalogued by camp, so a camp
+photograph among them would not surface in a search on the camp's name. That is a real
+possibility and it is why they are counted here rather than dismissed.
+
+WHAT A SAMPLE OF NINE PROVED, 2026-09-07
+----------------------------------------
+The News Bulletin, Vol 15 No 1 (1939), carries the table 'WORLD SERVICE OBJECTIVES SUGGESTED
+FOR 1939 (As Approved by The Council)', in which CAMP KANAWANA and CAMP OTOREKE are listed as
+their own contributing units, among Montreal's branches and Sir George Williams College. The
+amounts sit in a separate OCR column run and are NOT matched to names here; do not guess them.
+Canadian Manhood (1914-1919) is the association's WARTIME magazine and its 'camp' content is
+MILITARY camps, not summer camps -- 45 and 71 hits in two issues, all of that kind.
+The 1874 annual report contains the word 'camp' zero times.
