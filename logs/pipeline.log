@@ -7119,3 +7119,24 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   f_5644 extended (kb v10.57); the Dorval article's Lakeshore section rewritten with the closed sweep;
   its open question 4 narrowed, since the 1928 season report HAS been read and only the 1926 director's
   report has not. 1944 source registered. All checks pass.
+
+2026-09-07T17:58:51Z  p_491 -- unit: Camp Macaulay's single attestation, measured, and the donor dated.
+  Ran the same sweep that found Dorval's Lakeshore Club on the one other barely-attested camp.
+  THE RESULT IS A CONFIRMATION, NOT A DISCOVERY, and that is worth recording as such.
+  quebec-camp-landscape.md says the name "appears in no other document held here". True, and now
+  MEASURED: the exact phrase "Camp Macaulay" returns ONE hit across every cached annual report. THE
+  CONTROL: the bare surname MACAULAY returns hits in twenty-seven volumes from 1878 to 1951, every one
+  sampled a person -- an 1878 subscriber, an Advisory Director in 1930, an obituary in 1942. The corpus
+  is full of Macaulays and holds exactly one Camp Macaulay, so the single attestation is real and not a
+  search that missed. Converting an assertion into a measurement is a smaller thing than a find and is
+  the reason the assertion can now be relied on.
+  WHAT IS NEW is the donor context's shape. The article said "subscribers from the 1880s, which makes a
+  donor naming plausible and nothing more" -- true but vague. The 1929-30 report is specific: "complete
+  our Building Campaign objective, toward which Messrs. J. W. McCONNELL, GERALD W. BIRKS and T. B.
+  MACAULAY had PROMISED $80,000.00 conditional on the goal being reached", two or three years before the
+  camp's only attestation and naming two men this wiki already carries. The 1942 report records his
+  death. NONE OF THAT NAMES THE CAMP AFTER HIM and the article says so in those words; the hypothesis
+  has a figure and a date now instead of a decade.
+  Added f_5645 (kb v10.58, 5607 facts). Note 30 and a new passage in quebec-camp-landscape.md; two
+  sources added (8 -> 10). Caught and fixed a wrong source id before writing: the 1930 volume is
+  src_cache_sgw_ymca_annual_report_1930, not src_ymf_..., which the id check surfaced immediately.

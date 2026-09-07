@@ -1,6 +1,6 @@
 # The Quebec Camping Landscape
 
-*Status: E1-reviewed | Sources: 29*
+*Status: E1-reviewed | Sources: 30*
 *Last Updated: 2026-09-06*
 
 ## Overview
@@ -117,6 +117,23 @@ with immigrant Montrealers (the same report describes Boy Scout work with Italia
 Union United served Black Montrealers, and those are not one constituency. And the *name* itself is
 unexplained: Robertson and T. B. Macaulay of Sun Life were the association's subscribers from the
 1880s, which makes a donor naming plausible and nothing more. See `p_456`.
+
+**The single attestation is now measured rather than assumed, and the donor context has a date and a
+number.** The exact phrase "Camp Macaulay" was counted across every cached annual report and returns
+**one hit**, the 1933 one above. The control that makes that mean something: the bare surname
+**Macaulay** returns hits in **twenty-seven volumes between 1878 and 1951**, and every one sampled is a
+person — "H. Macaulay" in an 1878 subscriber list, "Douglas L. Macaulay" as an Advisory Director in
+1930, an obituary in 1942. The corpus is full of Macaulays and contains exactly one Camp Macaulay.^30
+
+And the giving can be dated. The report covering 1929-30: "complete our Building Campaign objective,
+toward which Messrs. **J. W. McConnell, Gerald W. Birks and T. B. Macaulay** had promised **$80,000.00**
+conditional on the goal being reached." A joint pledge of that size, two or three years before the
+camp's only attestation, from a man named beside two others this wiki already carries, is a sharper
+context than "subscriber" — and the 1942 report records his death: "In the death of **Thomas B.
+Macaulay**, we lost another old friend. Mr. Macaulay was deeply interested in the extension of the
+Kingdom of God in the world, and the Young Men's Christian Association…"^30 **None of that names the
+camp after him.** No document read here does. The hypothesis simply has a figure and a date attached
+now instead of a decade.
 
 **YMCA Day Camps**. In recent decades, the YMCA of Quebec ran day camps at Concordia University (Fine Arts Camp, Science and Engineering Camp) alongside Camp Kanawana programs, until discontinuing day camps in fall 2025.^4
 
@@ -331,6 +348,7 @@ Several patterns emerge from the Quebec and Canadian camp landscape:
 27. Commission de toponymie du Québec, *Toponymes officiels*, entity class **Camp**, swept province-wide 2026-09-06 [src_donneesquebec_bnlq_2026]. All 87 entries read. See [f_4893], and [f_4891] for the Kanawana district. The register records a place name, not an institution: it says nothing about who ran a camp, when it opened, or whether it is still running.
 28. Commission de toponymie du Québec, fiches for **Camp Olier** (no_seq 145208), **Camp de l'Avenir** (393822), **Camp Hiawatha** (137664), **Old Brewery Mission** (150335), **Camp Marian** (105558) and **Camp Aurelda** (105559) [src_ct_fiches_neighbour_camps_2026]. Fetched and read 2026-09-06 (p_423); cached at `sources/cache/toponymie/`. See [f_4894], [f_4895].
 29. YMCA of Montreal annual report for the year ending 31 March 1933 [src_ymf_sgw_ymca_annual_report_1933], the International Branch section; and Maranda Moses, *Proud Past, Bright Future* ([Montreal]: Union United Church, 2008) [src_moses_union_united_proud_past_2008], one line of a photo-caption list. Read 2026-09-06 under p_456. The Moses book is lending-restricted and has not been read. See [f_5201].
+30. YMCA of Montreal annual reports for the years ending 31 March **1930** [src_cache_sgw_ymca_annual_report_1930] and **1942** [src_ymf_sgw_ymca_annual_report_1942]. The **$80,000** Building Campaign pledge made jointly by **J. W. McConnell**, **Gerald W. Birks** and **T. B. Macaulay**, Macaulay's **1942** obituary, and the measured count showing "Camp Macaulay" occurs exactly once across the whole annual-report run are at [f_5645].
 
 ## Research Notes
 

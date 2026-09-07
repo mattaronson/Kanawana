@@ -1,8 +1,8 @@
 {
-  "version": "10.57",
-  "kb_version": "10.57",
+  "version": "10.58",
+  "kb_version": "10.58",
   "migrated_from": "3.3",
-  "fact_count": 5606,
+  "fact_count": 5607,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101046,6 +101046,27 @@
       "date_ref": "1941-1943",
       "conflicts_with": [],
       "added_version": "10.56",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5645",
+      "claim": "'CAMP MACAULAY' OCCURS EXACTLY ONCE IN THE ENTIRE ANNUAL-REPORT RUN, MEASURED; AND T. B. MACAULAY'S GIVING CAN BE DATED AND SIZED. quebec-camp-landscape.md states that the name 'appears in no other document held here' and that a donor naming is 'plausible and nothing more'. Both statements are correct and the first is now a MEASUREMENT rather than an assertion.\n\nTHE COUNT, run across every cached YMCA of Montreal annual report: the exact phrase 'CAMP MACAULAY' returns ONE hit, in the report for the year ending 31 March 1933. THE CONTROL THAT MAKES IT MEAN SOMETHING: the bare surname MACAULAY returns hits in twenty-seven volumes from 1878 to 1951, and every one sampled is a PERSON -- 'H. Macaulay' in a subscriber list of 1878, 'Douglas L. Macaulay' as an Advisory Director in 1930, an obituary in 1942. So the corpus is full of Macaulays and contains exactly one Camp Macaulay. That is a real single attestation, not a search that missed.\n\nWHAT SHARPENS THE DONOR HYPOTHESIS WITHOUT PROVING IT. The article dates the Macaulay association to 'subscribers from the 1880s', which is true but vague. The report covering 1929-30 is specific: 'complete our Building Campaign objective, toward which Messrs. J. W. McCONNELL, GERALD W. BIRKS and T. B. MACAULAY had PROMISED $80,000.00 CONDITIONAL ON THE GOAL BEING REACHED.' A joint pledge of that size, two or three years before the camp's single attestation, from a man named alongside McConnell and Birks -- both of whom this project already holds -- is a much more pointed context than 'subscriber'. And the 1942 report records his death: 'In the death of THOMAS B. MACAULAY, we lost another old friend. Mr. Macaulay was DEEPLY INTERESTED IN THE EXTENSION OF THE KINGDOM OF GOD IN THE WORLD, and the Young Men's Christian Association...'\n\nIT IS STILL NOT PROOF AND THE ARTICLE SHOULD NOT SAY IT IS. No document read here says the camp was named for him, or for any Macaulay. What has changed is that the hypothesis now has a date and a number attached instead of a decade, and that the single attestation has been counted rather than assumed.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1930",
+        "src_ymf_sgw_ymca_annual_report_1933",
+        "src_ymf_sgw_ymca_annual_report_1942"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Camp Macaulay",
+        "Thomas B. Macaulay",
+        "J. W. McConnell",
+        "Gerald W. Birks"
+      ],
+      "date_ref": "1929-1942",
+      "conflicts_with": [],
+      "added_version": "10.58",
       "added_by": "ralph_loop"
     }
   ]
