@@ -1,8 +1,8 @@
 {
-  "version": "10.34",
-  "kb_version": "10.34",
+  "version": "10.35",
+  "kb_version": "10.35",
   "migrated_from": "3.3",
-  "fact_count": 5587,
+  "fact_count": 5588,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100651,6 +100651,25 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.34",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5626",
+      "category": "people",
+      "date_ref": "1936-1941",
+      "entities": [
+        "Jack Cameron",
+        "Camp Kanawana"
+      ],
+      "claim": "'POP CAMERON' IS JACK CAMERON, AND HE DROVE THE CANOE TRIPPERS. Second application of the Venters move, and it works the same way: two facts already in this KB, sitting apart, joined by one grep. A Concordia Archives photograph captioned 'POP CAMERON AND THE CANOE TRIPPERS' shows boys and men with canoes and packs posed around a car bearing a 1941 Quebec licence plate, '54-868 QUEBEC 41', and f_1571 recorded 'Pop Cameron' as 'a previously undocumented staff member'. THE GREEN TRIANGLE OF 21 JULY 1940 HAS THE SAME MAN AND THE SAME CAR: 'JUVENILE CANOE TRIP -- UP NORT'. Monday morning, SIX OF US PILED INTO THE BACK OF JACK CAMERON'S CAR and were off to St. Donat de Montcalm. Here we got our permits to travel in the bush.' A Cameron with a car driving canoe trippers north in 1940, and a photograph of Pop Cameron with the canoe trippers around a car in 1941. THE IDENTIFICATION IS NOT PROVED -- no document uses both names -- but the car, the trippers and the year make the coincidence a bad explanation. WHAT IT ASSEMBLES. Jack Cameron is now in four documents across six years: the 1937 Spring Issue's account of the crew that opened the 1936 season, 'JACK CAMERON, THE GOLFING SCOT', first-named in the League-of-Nations passage (f_5589); the same issue's list of what the 1936 season was remembered for, 'JACK CAMERON'S HAIR CUTS' (f_5590); the 1937 closing staff roster; and the 1940 canoe-trip log, driving. A Scot who cut the campers' hair, was in the first truck up to open camp, and ran boys to St-Donat in his own car for permits to travel in the bush -- and whom somebody, by 1941, was calling POP. That is not a director or a section head; it is the kind of long-serving fixture the printed record almost never names, and it survives because a gossip column, a photograph caption and a boy's trip log each happened to mention him. NOT ESTABLISHED: his role or title, his years of service, or whether 'Pop' predates 1940.",
+      "sources": [
+        "src_ymf_the_green_triangle_1940_07_21",
+        "src_flickr_kanawana_concordia_historical_album",
+        "src_ymf_the_green_triangle_1937_03_30"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.35",
       "added_by": "ralph_loop"
     }
   ]

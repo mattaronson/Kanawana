@@ -6415,3 +6415,24 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   and the reason the fixed one is also better for a reader, who otherwise cannot
   tell which fact id holds which half of a multi-volume note.
   Verify green. Timestamp from `date -u` in its own call.
+
+2026-09-07T16:31:03Z  p_492 (orphan facts) -- unit: Jack Cameron / "Pop Cameron" joined.
+  f_1571 (Concordia photograph captioned "Pop Cameron and the Canoe Trippers", dated 1941 by its
+  "54-868 QUEBEC 41" plate) had sat orphaned with no first name attached. One grep of the already-read
+  Green Triangle corpus produced the 21 July 1940 juvenile canoe-trip log: "six of us piled into the
+  back of Jack Cameron's car and were off to St. Donat de Montcalm." Jack Cameron is now in four
+  documents across six years -- 1937 Spring Issue (League-of-Nations break-camp crew, "the golfing
+  Scot"; and "Jack Cameron's hair cuts" recalling 1936), the 1937 closing staff roster, and the 1940
+  trip log.
+  Added f_5626 (kb/facts.json v10.35, 5588 facts). Added note 31 and a new subsection
+  "The man who drove them: Jack Cameron, 1936-1941" to wiki/traditions/canoe-trips.md; added
+  src_ymf_the_green_triangle_1940_07_21 and src_flickr_kanawana_concordia_historical_album to that
+  article's sources_cited (18 -> 20). build_article_counts + verify/all.py: all pass.
+  NOT established, and said so in the article: his role or title, his years of service, or whether
+  "Pop" predates 1940. The identification is not proved -- no document uses both names -- but the car,
+  the trippers and the year make the coincidence a bad explanation.
+  METHOD NOTE: this is the SECOND time (after the Venters move) that two facts already in the KB were
+  joined by one grep of a corpus that was searchable the whole time. Neither join needed a new source,
+  a new fetch, or an archive request. The generalisation worth keeping: an orphan fact is not
+  necessarily a gap in the record, it is often a gap in the index, and the cheapest test for which one
+  it is costs a single grep of what has already been read.

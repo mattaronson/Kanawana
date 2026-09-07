@@ -1,6 +1,6 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 30*
+*Status: E1-reviewed | Sources: 31*
 *Last Updated: 2026-09-07 (the Foresters expedition, and the Ultimate programme length separated from its trip length)*
 
 *Earlier revisions: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
@@ -39,6 +39,14 @@ Adele Ebbs reprinted, in 1986, a complete outfitting list made in **1926** by **
 — "approximately **$1.25 per person per day**."^22
 
 This is the only itemised cost of a 1920s Canadian canoe trip found by this project, and it is a direct comparator for Kanawana's own tripping in the same decade: the camp was running canoe trips out of Lake Wilson through the 1920s, and the figure gives a sense of what its per-camper tripping costs would have been against a season fee. Nothing here is a Kanawana record; it is a contemporary benchmark from the same years and the same kind of country.
+
+### The man who drove them: Jack Cameron, 1936-1941
+
+A Concordia Archives photograph in the camp's historical album is captioned "**Pop Cameron and the Canoe Trippers**" and can be dated to **1941** by the "54-868 QUEBEC 41" plate on the car in it.^31 Nothing else in this project attached a first name to that caption. The *Green Triangle* of **21 July 1940** does: "JUVENILE CANOE TRIP - UP NORT'. Monday morning, six of us piled into the back of **Jack Cameron's car** and were off to St. Donat de Montcalm. Here we got our permits to travel in the bush."^31
+
+A car, canoe trippers, and consecutive summers. The identification is not proved, because no document uses both names, but a second Cameron driving a second carload of trippers in the same two seasons is a poor explanation of the coincidence. Taken with the earlier issues, Jack Cameron sits in four documents across six years: the 1937 Spring Issue's list of the League-of-Nations crew sent up in the first truck to break camp — "**Jack Cameron, the golfing Scot**" — the same issue's recollection of "**Jack Cameron's hair cuts**" from the 1936 season, the 1937 closing staff roster, and this 1940 trip log.^31
+
+What none of the four gives is his role or title, his years of service, or whether "Pop" was in use before 1940. He is a man who is repeatedly present, who cut hair and drove the juveniles north, and whose job at the camp is nowhere written down. The pattern is worth naming, because the driving is the part that matters here: getting six boys to St-Donat in 1940 meant a private car and a day of somebody's time, and the trip logs almost never record who provided either.
 
 ### 1945 to 1948: eight trips down the North River, and a circuit to Kingston and back
 
@@ -271,3 +279,4 @@ One line in the Montreal YMCA foundation's grants table for 2001-2002 lists, und
 28. YMCA *Rapport Annuel 2001-2002*, French edition [src_ia_sgw_ymca_annual_report_2001_2002_fr], Internet Archive item `sgw-ymca-annual-report-2001-2002-fr`, in the `ymca-montreal-fonds` collection. The foundation grants table. Read 2026-09-07 under p_462 as a second scan of a report whose English edition this project already holds. See [f_5257].
 29. "Report of the Montreal YMCA Camp Perrot for Boys and Girls", 1948, signed A. T. Dodds, Camp Director [src_ymf_1948_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls]. The table of overnight groups using the property. Recovered 2026-09-07 from the second text file of an item this project had read only the first of. See [f_5432].
 30. Camp YMCA Kanawana, the six expedition and leadership programme pages [src_ymcaq_kanawana_expedition_leadership_pages_2026] — Voyageurs, Voyageurs Extreme, Voyageurs Ultimate, Rangers, Trailblazers CIT and Foresters canoe-guides-in-training, under `ymcaquebec.org/en/summer-camp-kanawana/`. Read 2026-09-07 and advertising the 2027 season; cached together at `sources/cache/web-pages/ymcaquebec-kanawana-expedition-leadership-pages-2026.txt`, one header line per page giving its own URL. See [f_5614].
+31. *The Green Triangle*, Issue 2, **21 July 1940** [src_ymf_the_green_triangle_1940_07_21], and a Concordia Archives photograph captioned "Pop Cameron and the Canoe Trippers", dated by its **1941** Quebec licence plate [src_flickr_kanawana_concordia_historical_album]. The **1940** canoe-trip log naming **Jack Cameron's car** and the **1941** photograph naming **Pop Cameron** are joined at [f_5626]; the photograph alone is at [f_1571].
