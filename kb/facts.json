@@ -1,8 +1,8 @@
 {
-  "version": "10.71",
-  "kb_version": "10.71",
+  "version": "10.72",
+  "kb_version": "10.72",
   "migrated_from": "3.3",
-  "fact_count": 5634,
+  "fact_count": 5635,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101573,6 +101573,22 @@
       "date_ref": "1971",
       "conflicts_with": [],
       "added_version": "10.71",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5673",
+      "claim": "THE 1971 DIRECTOR'S REPORT IS A PROPOSAL TO SHRINK KANAWANA AND MAKE IT A HIKE-AND-TRIP CAMP, AND NO ARTICLE IN THIS WIKI SAYS SO. f_2423 records the report's texture -- no doctor in residence, the wringer washing machine, the boulder-strewn ball fields -- and is cited in NO article. Its central argument has never been recorded at all. The report states its own method: 'The remaining sections of this report will look at various areas of Camp \\'71 and all recommendations will be based on the proposed model suggested above.' EVERY RECOMMENDATION IN IT IS DERIVED FROM ONE PROPOSAL, which is that the camp become smaller and specialise in what it is already best at. ON SIZE: 'The camp is a large organization (over 60 staff, most of whom might be hired up to one month before camp begins). I FEEL THAT IT IS TOO LARGE FOR WHAT WE REALLY NEED TO DO. This summer there were 13 people supervised by the Director and 4 by the Business Manager.' The stated cost of that span is supervision: staff change roles yearly, counsellor to section director, and 'time at camp does not always allow' the Director both to support them and to see programmes running. RECOMMENDATION: 'By focusing on hiking and tripping we would eliminate a large number of staff (and reduce budget expenses) to bring the camp into a more personal focus.' ON FOOD, and this is the sharpest of them: 'If the campers prepared their own meals while at base camp (possibly 3 days in total) then we would save a sizable budget figure. If the camper is expected to be knowledgeable about camping he should begin immediately upon his arrival.' A budget argument and a pedagogical one in consecutive sentences. ON PRE-CAMP: keep the two-week training but re-cut it as 4 days repairing sites and equipment, 4 days of skills, 1 day of lay-staff sessions, 4 days on a canoe trip or hike, 1 day free -- and send the trippers out A MONTH BEFORE pre-camp to scout new routes and check what has changed on the old ones. 'Pre-camp should extend all year round with reunions, training sessions, skill (i.e. lifesaving) sessions, etc. held in Montreal.' THE READ ACROSS TO THE REST OF THE REPORT: the riding recommendation (f_5672) and the proposal to sell the Becsies property (f_5671) are not separate judgements. Both are the same argument applied -- an expensive programme and an unpoliceable outlying property, in a camp being asked to do less and do it better.",
+      "sources": [
+        "src_ia_kanawana_report_1971"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1971",
+      "conflicts_with": [],
+      "added_version": "10.72",
       "added_by": "ralph_loop"
     }
   ]

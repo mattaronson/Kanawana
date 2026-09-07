@@ -1,7 +1,7 @@
 # Between Centennials (1968–1993)
 
-*Status: draft | Sources: 24*
-*Last Updated: 2026-09-07 (the autumn 1978 works, and the four things the camp changed for 1979)*
+*Status: draft | Sources: 25*
+*Last Updated: 2026-09-07 (1971: the director proposed making the camp smaller)*
 
 ## Overview
 
@@ -34,6 +34,39 @@ Two entries in the Canadian Camping Association's national Directory Issues give
 Several things follow for this decade. **Coeducation is registered as near-parity, not as a policy in progress**: ninety and ninety in 1975, ninety-eight and ninety-one in 1976, the same age band for both. **The camp's own headline description of itself changed between the two years** — swimming and the C.I.T. programme drop out of the five listed activities and canoeing and orienteering come in, which is a small but real signal about where the emphasis was moving. **Total registered capacity rose from 180 to 189.** And the 1976 fee gives a figure this article has never had: $210 for the standard two-week session, with a marginal rate of $190 for each further fortnight — a deliberate discount for longer stays.
 
 The **1976 season also ran straight through the Montreal Olympics** (17 July – 1 August), which fell across the end of the second session and the start of the third; camps nearer the city were advertising group accommodation to Olympic visitors in the same issue.^14 Whether that affected Kanawana's registration or programme is not recorded anywhere read so far, and is worth asking of the 1976 director's report.
+
+### 1971: the camp's own director proposed making it smaller
+
+The thinness of this decade's record makes it easy to miss that the decade opens with an argument. The
+**1971 director's report is a restructuring proposal**, and it says so about itself: "The remaining
+sections of this report will look at various areas of Camp '71 and all recommendations will be based on
+the proposed model suggested above."^25 Every recommendation in it descends from one idea — that Kanawana
+should become **smaller and specialise in what it is already best at**, hiking and tripping.
+
+On size: "The camp is a large organization (over 60 staff, most of whom might be hired up to one month
+before camp begins). **I feel that it is too large for what we really need to do.** This summer there were
+13 people supervised by the Director and 4 by the Business Manager." The cost he names is supervision —
+staff move roles each year, counsellor to section director, and "time at camp does not always allow" a
+director both to support them and to watch programmes run. The recommendation follows: "By focusing on
+hiking and tripping we would **eliminate a large number of staff** (and reduce budget expenses) to bring
+the camp into a more personal focus."
+
+The sharpest of them is about food. "If the campers prepared their own meals while at base camp (possibly
+3 days in total) then we would save a sizable budget figure. **If the camper is expected to be
+knowledgeable about camping he should begin immediately upon his arrival.**" A budget argument and a
+pedagogical one in consecutive sentences, and the report does not distinguish them.
+
+Pre-camp would stay two weeks but be re-cut: four days repairing sites and equipment, four days of
+skills, one day of lay-and-staff sessions, four days on a canoe trip or hike, one free. The trippers
+would go out **a month before pre-camp** to scout new routes and see what had changed on the old ones.
+And "pre-camp should extend all year round with reunions, training sessions, skill (i.e. lifesaving)
+sessions, etc. held in Montreal."^25
+
+**This reframes two things recorded elsewhere in this wiki as separate judgements.** The recommendation
+to discontinue [[traditions/programs-activities|the riding programme]] as "an expensive (too expensive)
+program", and the recommendation to sell [[site/camp-becsies|the Becsies property]] rather than run it as
+a hostel, are the same argument applied twice: an expensive programme and an unpoliceable outlying
+property, in a camp being asked to do less and do it better. [f_5673] [f_2423]
 
 ### The movement dated its own crisis, and Kanawana's 1970s should be read inside it
 
@@ -190,6 +223,7 @@ The 1980s are, after the 1947–1958 postwar gap, the thinnest-documented decade
 22. Porter Sargent Publishers, *The Guide to Summer Camps and Summer Schools*, 1983-1984 (23rd edition) and December 1987 [src_porter_sargent_guides_1983_1987]. **One entry from each edition**, reconstructed 2026-09-06 from fifteen overlapping Open Library search-inside queries; both books are lending-restricted and neither has been read. The 1987 fee figure and the full in-camp activities list were not recovered. Cached with the queries at `sources/cache/openlibrary-search-inside/2026-09-06-porter-sargent-guides-1983-84-and-1987.txt`. See [f_4946].
 23. *Ka-News*, **January 1978**, **1 December 1979**, **6 February 1981** and **21 April 1981** [src_ymf_ka_news_1978_01, src_ymf_ka_news_1979_12_01, src_ymf_ka_news_1981_02_06, src_ymf_ka_news_1981_04_21]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 24. *Ka-News*, the camp's staff bulletin, for **October 1978**, **December 1978** and **29 March 1978** [src_ymf_ka_news_1978_10, src_ymf_ka_news_1978_12, src_ymf_ka_news_1978_03_29]. The autumn **1978** works are at [f_5222]; the four staffing changes announced for **1979** are at [f_5223]. Brought into this article 2026-09-07 under p_492, the orphan-fact sweep.
+25. *Kamp Kanawana Director's Report 1971* [src_ia_kanawana_report_1971], cached at `sources/cache/ymca-montreal-fonds/1971-kamp-kanawana-directors-report.txt`. Read whole 2026-09-07 under `p_491`. The restructuring argument is at [f_5673]; the report's conditions -- no doctor in residence, the wringer washing machine, the boulder-strewn ball fields, the Preston-Simon pre-camp trip -- are at [f_2423], which had been in the KB since before this article existed and was cited by no article at all.
 
 ## Research Notes
 
