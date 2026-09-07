@@ -1,7 +1,7 @@
 # Is Kanawana the Oldest Camp in Canada?
 
-*Status: draft | Sources: 27*
-*Last Updated: 2026-09-07 (the camp advertised itself as 93 years old in 1988)*
+*Status: draft | Sources: 28*
+*Last Updated: 2026-09-07 (a 1938 broadcast counting from 1909 while calling the camp one of the oldest)*
 
 ## Overview
 
@@ -463,6 +463,21 @@ Kanawana's recruitment advertising in *The Link*, Concordia's student paper, ran
 
 **The gap is one year and it is not a problem.** Every ordinary explanation covers it: counting completed *seasons* rather than calendar years; counting from the first full season rather than from the founding; or a round figure chosen by whoever wrote the copy, which is what advertising numbers usually are. **It is not offered as evidence against 1894**, and nobody should later cite it as such.
 
+**And a second self-count, fifty years earlier, on the other convention.** *The Voice of Youth* of
+10 November 1938 — a commercially sponsored radio journal, not a camp publication — introduced its
+Kanawana episode with "**For twenty-nine years now, Kanawana has been a by-word amongst the boys of
+Montreal**," and its host called the camp "**one of the oldest and largest camps in the Laurentians**."^28
+Twenty-nine years in 1938 counts from **1909**, which is the site-purchase convention this article
+already records from the 1935 document calling Kanawana "in its twenty-sixth year of existence," and
+from the 1983 "past 75 years." It is **not** the 1894 convention the 1941 broadcast used when Howie
+Langille called that season the camp's 48th.
+
+So the same institution counted its own age two different ways in the same decade, on the radio, three
+years apart — from 1909 in 1938 and from 1894 in 1941 — and neither is a mistake. One counts the
+permanent site, the other the founding. This article's point is that **both counts were house style at
+once**, and the 1938 broadcast is the clearest single instance of it, because the claim to be "one of
+the oldest" camps was being made publicly on the shorter of the two numbers.
+
 What it is worth is that it is the camp counting **in public, in its own paid advertising**, in a year for which this project holds no other self-description. A run of such figures across the decades — brochures, anniversaries, letterheads — would be a useful series to assemble, and would show whether the camp's own arithmetic was ever consistent. This is one point in it.
 
 ## The tests, and how each contender does
@@ -613,3 +628,4 @@ across the country, and the century that closed its own sibling camp on the orig
 25. "YMCA firsts" list, *The News Bulletin* Vol. 19 No. 3 (May 1944), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_19_03]. Internet Archive item `the-news-bulletin-vol-19-no-03`, in the `ymca-montreal-fonds` collection. Found 2026-09-07 by the enumeration at [f_5243]. See [f_5249].
 26. Canada, Department of Trade and Commerce, Dominion Bureau of Statistics, *Elementary and Secondary Education in Canada*, being Part I of the *Biennial Survey of Education in Canada* [src_dbs_biennial_survey_education], the surveys for **1938-40**, **1943-44** and **1945-46**, printed at Ottawa by the King's Printer. Internet Archive item `31761119680775`, full text downloaded 2026-09-07. The entry quoted is a standing one, reprinted across surveys with only an address and a job title amended, and is weighed as such. Set out with its variants at `sources/cache/government/2026-09-07-dbs-biennial-survey-ymca-entry.txt`. See [f_5356].
 27. Kamp Kanawana recruitment advertisement, *The Link* (Concordia University) Vol. 8 Nos. 39-41, 22 and 29 March 1988 [src_concordia_link_1988_03_22]: "For 93 years we have shared our excitement…" Transcribed at `sources/cache/concordia-publications/2026-09-07-the-link-kanawana-1988-1993.txt`. See [f_5448].
+28. "The Voice of Youth" No. 30, full script, 10 November 1938 [src_ymf_1938_11_10_the_voice_of_youth_no_30]. Read 2026-09-07 under p_482. See [f_5485].

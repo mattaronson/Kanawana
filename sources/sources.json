@@ -13495,12 +13495,12 @@
       "cache_path": "sources/cache/ymca-montreal-fonds/1938-11-10-the-voice-of-youth-no.-30.txt",
       "char_count": 12127,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
-      "extraction_version": "v5.60",
+      "extracted": true,
+      "extraction_version": "v9.84",
       "reliability": "primary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ WORD FOR WORD 2026-09-07 under p_482. THE LONGEST OF THREE ARCHIVE ITEMS carrying the same 10 November 1938 broadcast script: 12,127 characters, against 6,248 for `1938-11-10-the-voice-of-youth` (src_ymf_1938_11_10_the_voice_of_youth, the copy this wiki had worked) and 8,302 for the undated `kamp-kanawana-radio-broadcast`. ONLY THIS COPY CARRIES THE PROGRAMME'S OPENING AND ITS SPONSOR -- the Canada Starch Company Limited, makers of Crown Brand Corn Syrup, through the agency Vickers & Benson Ltd. of Montreal and Toronto -- with two blocks of advertising copy, the host Ted Moorhouse as 'editor-in-chief', the announcer Jerry Wilmot, the series slogan 'the radio journal for youth by youth', and the announcer's description of Kanawana as 'one of the oldest and largest camps in the Laurentians' with over four hundred boys a year, four lakes, three swimming wharves, forty boats, a craft shop, a library and an outdoor chapel. The shorter copies begin after all of it, which is why the wiki's account of this broadcast was missing its first act.",
+      "read_state": "read",
+      "read_state_basis": "read-word-for-word-2026-09-07-under-p_482"
     },
     {
       "source_id": "src_ymf_1940_08_23_mr_d_a_budge",

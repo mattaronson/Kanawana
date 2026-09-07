@@ -1,8 +1,8 @@
 {
-  "version": "9.83",
-  "kb_version": "9.83",
+  "version": "9.84",
+  "kb_version": "9.84",
   "migrated_from": "3.3",
-  "fact_count": 5446,
+  "fact_count": 5448,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -98215,6 +98215,41 @@
         "basis": "living private individuals under CLAUDE.md Phase 2 section 7; a roster and not a personal assessment, so the 75/100-year default is not strictly engaged -- the date is set at estimated birth (c. 1943, boys of fourteen to seventeen in 1959) + 100 and rounded, as the nearest defensible analogue",
         "why": "thirty named boys with an age band, from a founding roll; honorific in character and from a public document, but still personal information about probably-living private individuals"
       }
+    },
+    {
+      "fact_id": "f_5485",
+      "category": "documents",
+      "date_ref": "1938-11-10",
+      "entities": [
+        "Camp Kanawana",
+        "The Voice of Youth",
+        "Greig Macdiarmid",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE 1938 BROADCAST WAS COMMERCIALLY SPONSORED, AND THIS WIKI'S ACCOUNT OF IT WAS MISSING ITS FIRST ACT. Three archive items carry the same 10 November 1938 script at different lengths -- 6,248 characters (the copy already worked in kanawana-in-media.md), 8,302 (the undated kamp-kanawana-radio-broadcast) and 12,127. ONLY THE LONGEST HAS THE OPENING. 'THE CANADA STARCH COMPANY LIMITED presents: \"The Voice of Youth\", A RADIO JOURNAL FOR BOYS AND GIRLS with TED MOORHOUSE', advertising placed by VICKERS & BENSON LTD., Montreal-Toronto, announced by JERRY WILMOT, under the slogan 'THE RADIO JOURNAL FOR YOUTH BY YOUTH', at 7.15 on Thursday evenings. So The Voice of Youth was NOT a YMCA programme with a camp segment; it was a sponsored commercial series that gave Kanawana an episode -- 'It's feature article night once again… tonight is CAMP NIGHT… It's KANAWANA NIGHT.' TWO ADVERTISEMENTS RAN INSIDE IT, one immediately before the camp feature: 'Start the day off right, eat \"CROWN BRAND\" CORN SYRUP every morning… For personality plus eat \"CROWN BRAND\" CORN SYRUP', and later 'If you are strong and full of energy and pep, you are far more likely to succeed in work, study or sport and BE LIKED BY EVERYONE YOU MEET.' Corn syrup sold to children as a route to popularity, in the same quarter-hour and the same voice as a YMCA camp's account of character-building. THE ANNOUNCER'S DESCRIPTION OF THE CAMP is the fullest outside a brochure: 'over FOUR HUNDRED BOYS each year', 'St. Sauveur, 54 MILES NORTH OF MONTREAL', CHIEF GREIG MacDIARMID named on air, and facilities of 'the shores of FOUR LAKES, THREE SWIMMING WHARVES, a fleet of FORTY BOATS, a CRAFT SHOP, a LIBRARY and an OUTDOOR CHAPEL'.",
+      "sources": [
+        "src_ymf_1938_11_10_the_voice_of_youth_no_30"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5486",
+      "category": "history",
+      "date_ref": "1938-11-10",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "THE CAMP CALLED ITSELF ONE OF THE OLDEST WHILE COUNTING FROM THE SHORTER OF ITS TWO CONVENTIONS. The 1938 broadcast introduces Kanawana as 'one of THE OLDEST AND LARGEST CAMPS IN THE LAURENTIANS' and, in the same segment, says 'For TWENTY-NINE YEARS now, Kanawana has been a by-word amongst the boys of Montreal.' Twenty-nine years in 1938 counts from 1909 -- THE SITE-PURCHASE CONVENTION, the same one behind the 1935 document's 'twenty-sixth year of existence' and the 1983 'past 75 years' -- and NOT the 1894 founding convention Howie Langille used on air in 1941 when he called that season the camp's 48th. So the institution counted its own age both ways within three years, on the radio, and neither is an error: one counts the permanent site and the other the founding. What makes the 1938 instance the sharpest is that THE CLAIM TO BE ONE OF THE OLDEST WAS BEING MADE PUBLICLY ON THE SHORTER NUMBER, which is the strongest single illustration of the point wiki/history/oldest-camp-question.md is built on.",
+      "sources": [
+        "src_ymf_1938_11_10_the_voice_of_youth_no_30"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.84",
+      "added_by": "ralph_loop"
     }
   ]
 }

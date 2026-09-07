@@ -1,7 +1,7 @@
 # Kanawana in Media and Culture
 
-*Status: E1-reviewed | Sources: 28*
-*Last Updated: 2026-09-07 (the 1993 film's title was the camp's slogan first)*
+*Status: E1-reviewed | Sources: 29*
+*Last Updated: 2026-09-07 (the 1938 broadcast had a sponsor, and a corn syrup commercial ran into the camp feature)*
 
 ## Overview
 
@@ -113,6 +113,44 @@ The Concordia Archives (P145/12B04, Communications sub-series) describe CFCF bro
 **"The Voice of Youth", CBM, 10 November 1938 — the boys produced the whole thing.** A different broadcast from the CFCF pair, on a different station, and the full script survives along with the note calling the boys to rehearsal.^25 [[traditions/camp-songs-cheers|The songs article]] takes its set list; what follows is everything else in it.
 
 They rehearsed on the Tuesday at half past six in the **Willingdon Room**, second floor of the Central Branch at 1441 Drummond Street, then "slip across the street to C.B.M. Studios for a few minutes longer" — the broadcast itself going out at 7.15 on the Thursday evening. The covering letter is signed simply "**CHIEF**", and its letterhead reads "O. N. H. **Owens**, Chairman. W. J. G. **Macdiarmid**, Director — THE MONTREAL Y.M.C.A. CAMP FOR BOYS", with the camp's address "from June 20th: **KANAWANA P.O., Que.**"
+
+**The broadcast had a sponsor, and the account above was missing its first act.** A third and longer
+version of the same script — 12,127 characters against the 6,248 read for the material above — carries
+the opening the shorter copies begin after.^29 *The Voice of Youth* was **not a YMCA programme with a
+camp segment. It was a commercially sponsored radio journal that gave Kanawana an episode.**
+
+"**The Canada Starch Company Limited presents: 'The Voice of Youth', a radio journal for boys and
+girls with Ted Moorhouse.**" The advertising was placed by **Vickers & Benson Ltd., Montreal-Toronto**,
+whose name is printed in the margin of each page of copy. **Ted Moorhouse** played "editor-in-chief"
+at a desk, **Jerry Wilmot** announced, and the conceit ran throughout — "It's feature article night
+once again," "every Thursday night brings us a full-length article on some one of the group activities
+of youth in this district. And tonight is **camp night**… It's **Kanawana night**." The sign-off names
+the series' own slogan: "Tomorrow evening at 7.15, The Canada Starch Company Limited, makers of Crown
+Brand Corn Syrup will present another edition of 'The Voice of Youth', **the radio journal for youth by
+youth**. Will you be listening? Your announcer, **Jerry Wilmot**, bids you 'Good Night'."
+
+**The commercial ran immediately before the camp feature**, and the second one late in the programme:
+
+> Start the day off right, eat "**CROWN BRAND**" **CORN SYRUP** every morning. Try it on your cereal,
+> porridge, toast and pancakes. It's a delicious treat and a wonderful source of quick energy. For
+> personality plus eat "CROWN BRAND" CORN SYRUP.
+
+> If you are strong and full of energy and pep, you are far more likely to succeed in work, study or
+> sport and **be liked by everyone you meet**. To gain that vitality and keep it nothing is of more
+> importance than eating the proper kinds of food… eat "CROWN BRAND" CORN SYRUP — every day.
+
+That is corn syrup sold to children as a route to popularity, read out in the same quarter-hour as a
+YMCA camp's account of character-building, by the same voice. Neither party appears to have found the
+juxtaposition remarkable, which is itself worth noticing about 1938 broadcasting.
+
+**And the announcer's description of the camp is the fullest outside a brochure.** "For twenty-nine
+years now, Kanawana has been a by-word amongst the boys of Montreal, and from this city and other
+parts of the province **over four hundred boys each year** revel in the fun to be had amongst the
+lakes and the woods near St. Sauveur, **54 miles north of Montreal**." He names **Chief Greig
+MacDiarmid** on air, and lists "the shores of **four lakes**, **three swimming wharves**, a fleet of
+**forty boats**, a **craft shop**, a **library** and an **outdoor chapel**." Introducing the segment,
+Moorhouse calls Kanawana "**one of the oldest and largest camps in the Laurentians**" — a claim of age
+made on commercial radio, which [[history/oldest-camp-question|The Oldest Camp Question]] takes up.
 
 The centrepiece was not music but a comedy sketch. **Morry Cross** — "Kanawana's expert skit producer" — supplied "**Hot News**", set in a newspaper office, with himself as editor and **Allan Steeves**, **Keith Farquarson** and **Bob Lemoine** as reporters. Each brings in a catastrophe and each is thrown out for staleness: a railway accident at Westmount, fifty dead, half an hour old; an aeroplane collision at Cartierville, eighty dead, ten minutes old; and at last the Ville Emard gasworks —
 
@@ -231,6 +269,7 @@ To which can be added a fifth of a different kind: **Armand B. Ball, *Basic Camp
 26. Evelyn de R. McMann, *Montreal Museum of Fine Arts, formerly Art Association of Montreal: Spring Exhibitions 1880-1970* (University of Toronto Press, 1988) [src_mcmann_aam_spring_exhibitions_1988]. Doris Robertson's entry reconstructed 2026-09-06 from six overlapping Open Library search-inside queries walked backwards from the Camp Otoreke line to her name, which the original hit did not contain; the book is lending-restricted and has not been read. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-otoreke-corpus-sweep.txt`. See [f_5197].
 27. CUTV Montreal, "YMCA Sommet international de l'engagement jeunesse" [src_ia_cutv_ymca_youth_summit_2013], Internet Archive item `cutvqc-YMCA_Sommet_international_de_lengagement_jeunesse`, originally YouTube `vFvHCELC4zI`. **The film has not been watched.** What is cached is its two machine-generated caption tracks, of which the French is a machine translation of the English rather than a transcription of the French speech; the interview at the centre of the piece is unrecoverable from either, and no name in them is reliable. See [f_5238].
 28. Kamp Kanawana counsellor recruitment advertisement, *The McGill Daily* Vol. 78 No. 83, 20 February 1989, p. 14 [src_mcgill_daily_1989_02_20]: the display closes "The experience that lasts a Lifetime!" Transcribed at `sources/cache/mcgill/2026-09-07-kanawana-ad-1989-and-perrot-doctors-1948.txt`. See [f_5428].
+29. "The Voice of Youth" No. 30, full script with the sponsor's copy, 10 November 1938 [src_ymf_1938_11_10_the_voice_of_youth_no_30], Internet Archive item `1938-11-10-the-voice-of-youth-no.-30`. **A THIRD, LONGER VERSION of the same broadcast**: 12,127 characters against the 6,248 of the script at note 25 and the 8,302 of the undated `kamp-kanawana-radio-broadcast`. Only this one carries the programme's opening, its sponsor and its advertising copy — the shorter versions begin after them. Cached at `sources/cache/ymca-montreal-fonds/1938-11-10-the-voice-of-youth-no.-30.txt`; read 2026-09-07 under p_482.
 
 *All four are lending-restricted on the Internet Archive and none has been read; each passage was reconstructed from overlapping Open Library search-inside queries and is cached with its queries under `sources/cache/openlibrary-search-inside/`.*
 
