@@ -1,0 +1,168 @@
+A. WALLACE FORGIE AND THE ORIGIN OF C.S.E.T.
+Two books, read in full text rather than in snippets, found 2026-09-07 by a
+QUOTED "Wallace Forgie" sweep of the Internet Archive book corpus.
+
+=====================================================================
+1. THE C.S.E.T. MANUAL FOR TUXIS BOYS (1918) -- THE PRIMARY SOURCE
+   archive.org item cihm_66450. [Toronto]: C.S.E.T. of the National Council
+   of Young Men's Christian Associations of Canada, 1918. Fully downloadable.
+=====================================================================
+
+From the acknowledgements, immediately after a list of the committee's
+denominational members:
+
+  "a mention should be made of the work of Capt. A. Wallace Forgie, Secretary
+  of the C.S.E.T. Committee, who has been indefatigable in the correlation of
+  the mass of information and material considered by the Committee. On his
+  going to France in September last the work was continued by Mr. Gordon K.
+  [H]ignell a well-known boys' worker of the Central West.
+
+  We announce with the deepest regret that just as the press work of this book
+  was completed, M[r]. Hignell contracted pneumonia and passed away in
+  Winnipeg, on October 21, 1918, just one week after he had returned from
+  Toronto and his labors in connection with this book. Mr. Hignell had served
+  overseas and on his return again took up Boys' Work."
+
+TWO THINGS THIS SETTLES OUTRIGHT:
+  * THE NAME FORM. "Capt. A. Wallace Forgie", printed by his own committee in
+    1918. This project had reasoned its way to "A. Wallace" from an obituary
+    and a roster and said so; here it is, stated.
+  * THE OFFICE. He was SECRETARY OF THE C.S.E.T. COMMITTEE -- the body that
+    produced the programme -- and the manual credits him with correlating its
+    material. He went to France in September 1918.
+
+=====================================================================
+2. THE BOY'S OWN BOOK (1929) -- THE PROGRAMME'S OWN ORIGIN STORY
+   archive.org item boysownbook00shei. Toronto: National Boys' Work Board of
+   the Religious Education Council of Canada, copyright 1929. Fully
+   downloadable. This is the governing body of the programme telling its own
+   history seventeen years after the fact.
+=====================================================================
+
+  "* * in 1912, just seventeen years ago, that the forerunner of our present
+  Trail Ranger and Tuxis programmes was prepared and published. The group of
+  men who laid the foundation of our present programmes was appointed by the
+  National Council of the Young Men's Christian Association. The moving spirit
+  in and through it all was Mr. Taylor Statten, then secretary of the Boys'
+  Work Committee of the National Council Y.M.C.A.
+
+  The origin, however, goes back another five years, during which period
+  Messrs. Taylor Statten and Wallace Forgie, as Boys' Work Secretaries of the
+  Central Branch of the Y.M.C.A., in Toronto, were carrying on experiments
+  which in 1912 were to blossom out into what were then called the Canadian
+  Standard Efficiency Tests. IT WAS IN 1907 THAT MR. FORGIE GOT THE IDEA OF
+  LUKE 2:52, 'And Jesus increased in wisdom and stature and in favour with God
+  and man,' AS A BASIS FOR SUCH A PROGRAMME. It was about this time also that
+  the idea of charting boys on a four-fold scale was first practiced.
+
+  Simple as were these first attempts to formulate a four-fold programme based
+  on Luke 2:52, they met with an instant response from both Sunday School and
+  Association [boys] ..."
+
+And later, on the revision:
+
+  "... that further improvement could be made. The little red handbook had
+  rendered yeoman service. FORTY-TWO THOUSAND HAD BEEN USED but we were ready
+  for something better. The programme, it was felt, should be clothed in more
+  attractive form. There should be insignia, initiation ceremonies, badge work
+  projects and possibly a division of the programme with more appealing
+  activities for boys from twelve to fourteen.
+
+  MR. FORGIE OF THE Y.M.C.A. WAS ASKED TO DIRECT THE WORK of incorporating
+  these new ideas in a revised programme. The assistance of a large body of
+  experienced men was secured. Magistrate J. Edmund Jones, particularly, made
+  a splendid contribution.
+
+  When Mr. Forgie returned to the front, Gordon Hignell, of Winnipeg, was set
+  aside by the Association to complete the work of publication. This was his
+  last task ...
+
+  Finally in October 1918, the work was complete. THE NAME 'CANADIAN STANDARD
+  EFFICIENCY TRAINING' BECAME A [...]"
+
+=====================================================================
+WHAT THE TWO SOURCES DO TOGETHER
+=====================================================================
+
+They were published eleven years apart, by two different bodies -- the YMCA's
+National Council and the Religious Education Council of Canada -- and they
+agree in detail: Forgie directing the revision, Forgie leaving for the front,
+Hignell of Winnipeg finishing it, the work complete in October 1918. The 1918
+manual adds Hignell's death on 21 October 1918, a week after he came back from
+Toronto; the 1929 book adds the forty-two thousand copies of the little red
+handbook and the reason for the revision.
+
+AND THEY GIVE C.S.E.T. A CHRONOLOGY THIS PROJECT DOES NOT HAVE:
+
+  1907   Forgie, at Toronto Central with Statten, takes Luke 2:52 as the basis
+         of a fourfold programme; charting boys on a four-fold scale begins
+  1912   the forerunner is prepared and published as the CANADIAN STANDARD
+         EFFICIENCY TESTS -- the "little red handbook", 42,000 used
+  ----   Forgie directs the revision: insignia, initiation ceremonies, badge
+         work, and a division for boys of twelve to fourteen
+  Sept
+  1918   Forgie goes to France; Hignell takes over
+  Oct
+  1918   the work is complete and the name becomes CANADIAN STANDARD
+         EFFICIENCY TRAINING
+
+NOTE THE TWO EXPANSIONS OF ONE ACRONYM. 1912 gives Canadian Standard
+Efficiency TESTS; October 1918 gives Canadian Standard Efficiency TRAINING.
+They are not the same programme under one name; they are two programmes, the
+second a deliberate revision of the first, and the acronym survived the change.
+
+=====================================================================
+THE CONFLICT THIS RAISES, WHICH IS NOT RESOLVED HERE
+=====================================================================
+
+This project's articles say "In 1914, he [Statten] established the Canadian
+Standards Efficiency Training (CSET) program", and a V1 verify pass in
+February 2026 recorded "CSET 1914" as independently confirmed. NEITHER OF
+THESE TWO SOURCES SUPPORTS 1914. One gives 1912 for the Tests and October 1918
+for the Training, and the other, printed in 1918 by the programme's own
+committee, is silent on the founding date but consistent with it.
+
+1914 may be right about something these two do not describe. It is not
+overwritten here. A conflict record is raised instead.
+
+AND THE ATTRIBUTION QUESTION IS SEPARATE FROM THE DATE. Both articles credit
+CSET to Taylor Statten alone. The 1929 book, published by the programme's own
+board, calls Statten "the moving spirit in and through it all" AND gives the
+originating idea to Forgie in 1907 and the direction of the 1918 revision to
+Forgie as well. That is not a contradiction of Statten's role; it is a second
+name that this project's account leaves out entirely.
+
+=====================================================================
+3. INTERNATIONAL COUNCIL OF RELIGIOUS EDUCATION YEARBOOK 1924
+   archive.org item yearbook0000inte_m3q0. Fully downloadable.
+=====================================================================
+
+  "Boys' Secretary, A. W. Forgie, 302 I. O. O. F. Building, Calgary, Alberta"
+  (printed twice)
+  "A. Wallace Forgie, Boys' Work Secretary, Alberta Religious Education
+  Council"
+
+So the Alberta post is dated to 1924 and given an address, and it is the
+ALBERTA RELIGIOUS EDUCATION COUNCIL rather than the YMCA -- which is the same
+kind of body that published The Boy's Own Book, and is worth noticing: after
+CSET, Forgie's employer was the religious-education side of the movement, not
+the association side.
+
+=====================================================================
+LEADS NOT FOLLOWED, FROM THE SAME SWEEP -- ALL SNIPPETS, NONE READ
+=====================================================================
+
+  algonquinstory0000saun -- Audrey Saunders, "Algonquin Story": a camp of the
+    Taylor Statten Camps "directed by Wallace Forgie". Three scans of it.
+  nastawgancanadia0000unse -- "Nastawgan": a Temagami canoe trip "with his
+    assistant Wallace Forgie".
+  worldservice0000lato -- "Dunderdale was sent from Canada to replace Wallace
+    Forgie for work for boys in South India".
+  canadabritishwor0000unse -- "Maj. Wallace Forgie, Comrades to Canadian Boys
+    and the Four Square" (note the RANK: Capt. in 1918, Maj. here).
+  asianexperiment0000elma -- a weekend at Camp Tonakela with its founder.
+  richbrothmemoirs0000reec -- a Canadian diplomat's memoir: "on the upper
+    slopes of middle age, Wallace Forgie. He lived in spartan conditions..."
+  mydesire0000wats -- "met such men as E. A. Corbett and Wallace Forgie".
+  everettboydjacks00pier -- a life shaped "chiefly through the inspiration of
+    Mr. Wallace Forgie, who became his ideal and his intimate [friend]".

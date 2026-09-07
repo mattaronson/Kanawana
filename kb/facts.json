@@ -1,8 +1,8 @@
 {
-  "version": "9.33",
-  "kb_version": "9.33",
+  "version": "9.34",
+  "kb_version": "9.34",
   "migrated_from": "3.3",
-  "fact_count": 5310,
+  "fact_count": 5314,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -95799,6 +95799,81 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.33",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5349",
+      "category": "camping_movement",
+      "date_ref": "1918",
+      "entities": [
+        "A. Wallace Forgie",
+        "CSET",
+        "Gordon K. Hignell",
+        "National Council of YMCAs of Canada"
+      ],
+      "claim": "THE 1918 C.S.E.T. MANUAL NAMES A. WALLACE FORGIE AS SECRETARY OF THE C.S.E.T. COMMITTEE, IN PRINT, AND SETTLES THE NAME FORM THIS PROJECT HAD REASONED TO. Its acknowledgements read: 'a mention should be made of the work of Capt. A. Wallace Forgie, Secretary of the C.S.E.T. Committee, who has been indefatigable in the correlation of the mass of information and material considered by the Committee. On his going to France in September last the work was continued by Mr. Gordon K. [H]ignell a well-known boys' worker of the Central West.' The same page records that Hignell 'contracted pneumonia and passed away in Winnipeg, on October 21, 1918, just one week after he had returned from Toronto and his labors in connection with this book.' SO: Forgie ran the committee's material, left for France in September 1918, and the manual was finished by a man who died the month it went to press. The movement article had written that the identification 'never needed A. W. to resolve to A. Wallace'; the programme's own manual prints it.",
+      "sources": [
+        "src_cset_manual_tuxis_1918"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.34",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5350",
+      "category": "camping_movement",
+      "date_ref": "1907-1918",
+      "entities": [
+        "A. Wallace Forgie",
+        "Taylor Statten",
+        "CSET",
+        "Toronto Central YMCA"
+      ],
+      "claim": "C.S.E.T.'S ORIGINATING IDEA IS CREDITED TO FORGIE, IN 1907, BY THE PROGRAMME'S OWN GOVERNING BODY. The Boy's Own Book (1929), issued by the National Boys' Work Board of the Religious Education Council of Canada: 'The origin, however, goes back another five years, during which period Messrs. TAYLOR STATTEN AND WALLACE FORGIE, AS BOYS' WORK SECRETARIES OF THE CENTRAL BRANCH OF THE Y.M.C.A., IN TORONTO, were carrying on experiments which in 1912 were to blossom out into what were then called the Canadian Standard Efficiency Tests. IT WAS IN 1907 THAT MR. FORGIE GOT THE IDEA OF LUKE 2:52, \"And Jesus increased in wisdom and stature and in favour with God and man,\" AS A BASIS FOR SUCH A PROGRAMME. It was about this time also that the idea of charting boys on a four-fold scale was first practiced.' The same passage calls Statten 'the moving spirit in and through it all'. THIS IS NOT A CONTRADICTION OF STATTEN'S ROLE BUT A SECOND NAME THIS PROJECT'S ACCOUNT LEAVES OUT: both articles that discuss CSET credit it to Statten alone, and the fourfold scheme -- which is what the programme is remembered for -- is here given to Forgie. It also puts the two men in one office at Toronto Central, which is where the working relationship behind the whole programme began.",
+      "sources": [
+        "src_boys_own_book_1929"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.34",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5351",
+      "category": "camping_movement",
+      "date_ref": "1912-1918",
+      "entities": [
+        "CSET",
+        "A. Wallace Forgie",
+        "Gordon Hignell",
+        "Taylor Statten"
+      ],
+      "claim": "C.S.E.T. IS TWO PROGRAMMES UNDER ONE ACRONYM, AND THE 1929 ACCOUNT GIVES NEITHER OF THEM THE DATE THIS PROJECT USES. The Boy's Own Book has the forerunner 'prepared and published' in 1912 by a group appointed by the YMCA's National Council, as the CANADIAN STANDARD EFFICIENCY TESTS -- 'the little red handbook ... FORTY-TWO THOUSAND HAD BEEN USED'. Then: 'MR. FORGIE OF THE Y.M.C.A. WAS ASKED TO DIRECT THE WORK of incorporating these new ideas in a revised programme' -- insignia, initiation ceremonies, badge work, 'and possibly a division of the programme with more appealing activities for boys from twelve to fourteen', which is Trail Rangers. 'When Mr. Forgie returned to the front, Gordon Hignell, of Winnipeg, was set aside by the Association to complete the work of publication.' And: 'Finally in October 1918, the work was complete. THE NAME \"CANADIAN STANDARD EFFICIENCY TRAINING\" BECAME [...]'. SO THE ACRONYM'S EXPANSION CHANGED: Tests in 1912, Training from October 1918. THIS CONFLICTS WITH THIS PROJECT'S OWN ARTICLES, which say Statten 'established the Canadian Standards Efficiency Training (CSET) program' in 1914 and which a February 2026 verify pass recorded as independently confirmed. Neither 1918 source supports 1914. NOT OVERWRITTEN; a conflict record is raised, since two documented sources disagree and that is a human decision point under this project's own rule.",
+      "sources": [
+        "src_boys_own_book_1929"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.34",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5352",
+      "category": "camping_movement",
+      "date_ref": "1924",
+      "entities": [
+        "A. Wallace Forgie",
+        "Alberta Religious Education Council",
+        "Calgary"
+      ],
+      "claim": "FORGIE'S ALBERTA POST IS DATED, ADDRESSED, AND ATTRIBUTED TO THE WRONG EMPLOYER IN THIS PROJECT'S ACCOUNT SO FAR. The International Council of Religious Education Yearbook for 1924 prints 'Boys' Secretary, A. W. Forgie, 302 I. O. O. F. Building, Calgary, Alberta' twice, and elsewhere 'A. Wallace Forgie, Boys' Work Secretary, ALBERTA RELIGIOUS EDUCATION COUNCIL'. The obituary and the profiles describe these as his years of 'boys' work in Western Canada' and this project has read them as YMCA years; the yearbook has him employed by the religious-education council of the province, the same kind of body that published The Boy's Own Book. That is consistent with the Year Book roster, which has him at Calgary in 1919-20 and then not in the association's employed-officer lists -- an absence that now has an explanation rather than a gap.",
+      "sources": [
+        "src_icre_yearbook_1924"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.34",
       "added_by": "ralph_loop"
     }
   ]

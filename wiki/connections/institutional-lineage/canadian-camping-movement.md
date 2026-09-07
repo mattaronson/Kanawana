@@ -1,6 +1,6 @@
 # The Canadian Camping Movement
 
-*Status: E1-reviewed | Sources: 21*
+*Status: E1-reviewed | Sources: 22*
 *Last Updated: 2026-09-07 (the Commodore identified: A. W. Forgie, boys' work, both his wars, and Madras)*
 
 ## Summary
@@ -383,7 +383,15 @@ Set that against the table above: boys' work at Ottawa and Toronto and nationall
 overseas secretaries list of 1919**; **Calgary** in 1919-20; **India** from 1927-28. Boys' work, the
 first war with the YMCA, western Canada, India from 1927, Madras. **Every point matches and nothing
 conflicts.** The identification never needed "A. W." to resolve to "A. Wallace" — two independent records
-narrate one life.
+narrate one life. *[2026-09-07: and the programme's own manual prints it. The 1918
+C.S.E.T. manual's acknowledgements read "**Capt. A. Wallace Forgie, Secretary of the C.S.E.T.
+Committee**." The reasoning above was sound and the document was there all along. That manual, and
+The Boy's Own Book of 1929, turn Forgie from a name in this section into a subject with an article:
+he is credited with the Luke 2:52 fourfold idea in 1907, at Toronto Central alongside Taylor Statten,
+and with directing the revision that became CSET. See **[[connections/institutional-lineage/wallace-forgie|A. Wallace Forgie]]**, and conflict c_069 on the founding date. His Alberta years also change employer: the 1924
+yearbook of the International Council of Religious Education has him as Boys' Work Secretary of the
+**Alberta Religious Education Council**, at 302 I.O.O.F. Building, Calgary — not the YMCA, which is
+why the association's roster stops listing him after 1919-20.]*^22
 
 *The two corroborate each other on a point neither states alone*: the word-for-word read of *Canadian
 Camping* has him building the foundations of Camp On-Da-Da-Waks and moving the **Ottawa** camp to Golden
@@ -600,6 +608,7 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 19. YMCA of Montreal annual reports for **1942** and **1947** [src_ymf_sgw_ymca_annual_report_1942, src_ymf_sgw_ymca_annual_report_1947], cached here since before this session. See [f_5311] and [f_5323].
 20. J. Harry Ebbs, "Wallace Forgie, International Camper, 1883-1967," *Canadian Camping Magazine* Vol. 20 No. 2, Winter 1968 [src_cache_canadiancampingmagazine_vol20_no2_1968winter], cached here since before this session. Its headline is OCR'd "WALLACE FOKBIE." See [f_5327].
 21. *YMCA Year Book and Official Rosters*, the volumes for **1932, 1933, 1935, 1939 and 1940** [src_umedia_ymca_yearbook_series], read in the University of Minnesota Libraries' digitized run (ContentDM collection p16022coll351). The alphabetical list of employed officers, with its unchanging entry-year figure, and the war-service list of 1939-40. See [f_5344].
+22. *The C.S.E.T. Manual for Tuxis Boys* (1918) [src_cset_manual_tuxis_1918] and *The Boy's Own Book* (1929) [src_boys_own_book_1929]; *The International Council of Religious Education Yearbook, 1924* [src_icre_yearbook_1924]. All three found 2026-09-07 by a quoted book-corpus sweep and downloaded in full. See [f_5349], [f_5350], [f_5352], and [[connections/institutional-lineage/wallace-forgie|A. Wallace Forgie]].
 
 ## Research Notes
 

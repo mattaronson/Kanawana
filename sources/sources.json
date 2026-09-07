@@ -30777,7 +30777,61 @@
       "notes": "Found 2026-09-07 by the same sweep, on the query \"Reverend Geoffrey Guiton\" -- one hit in the whole corpus. One highlight, no read: \"[mis]sionary who had built up the school, the Reverend Geoffrey Guiton. Geoffrey, as I learned about him, seemed to\". THE ONLY SOURCE HERE FOR THE INDIA SCHOOL, and the weakest: the highlight gives neither the school's name nor a date, and the book's date, 1992, comes from the Internet Archive item record rather than from anything read. See f_5336.",
       "read_state": "snippet",
       "read_state_basis": "snippet:search-highlights-only-book-borrow-restricted-and-not-read"
+    },
+    {
+      "source_id": "src_cset_manual_tuxis_1918",
+      "type": "report",
+      "title": "The C.S.E.T. Manual for Tuxis Boys (boys 15 years and over), including the Canadian Standard Efficiency Training program",
+      "date": "1918",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/cihm_66450",
+      "cache_path": "sources/cache/cset/2026-09-07-forgie-and-the-origin-of-cset.txt",
+      "char_count": 663368,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v9.34",
+      "reliability": "primary",
+      "notes": "[Toronto]: C.S.E.T. of the National Council of Young Men's Christian Associations of Canada, 1918; CIHM microform, over two hundred illustrations by Leonard Rossell. FULLY DOWNLOADABLE, not lending-restricted. Found 2026-09-07 by a QUOTED \"Wallace Forgie\" sweep. THE PROGRAMME'S OWN MANUAL, and its acknowledgements name \"Capt. A. Wallace Forgie, Secretary of the C.S.E.T. Committee\" -- which settles a name form this project had reasoned to rather than read -- and record his going to France in September 1918 and the death of his successor Gordon K. Hignell in Winnipeg on 21 October 1918. Only the acknowledgements were read; the manual's own programme content is unread and would bear directly on what CSET asked of camps. See f_5349.",
+      "read_state": "partial",
+      "read_state_basis": "direct: full text downloaded; the acknowledgements read closely and quoted in full in the cache. The body of the manual -- the programme itself -- is UNREAD."
+    },
+    {
+      "source_id": "src_boys_own_book_1929",
+      "type": "report",
+      "title": "The Boy's Own Book, issued by the National Boys' Work Board of the Religious Education Council of Canada",
+      "date": "1929",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/boysownbook00shei",
+      "cache_path": "sources/cache/cset/2026-09-07-forgie-and-the-origin-of-cset.txt",
+      "char_count": 158627,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v9.34",
+      "reliability": "primary",
+      "notes": "Toronto: National Boys' Work Board of the Religious Education Council of Canada, copyright 1929; digitized from the Sheila Thibaudeau Lambrinos Collection at York University. FULLY DOWNLOADABLE. Found 2026-09-07 by the same sweep. THE PROGRAMME'S GOVERNING BODY TELLING ITS OWN ORIGIN STORY seventeen years after 1912, and it gives C.S.E.T. a chronology this project did not have: Forgie's Luke 2:52 idea in 1907 at Toronto Central alongside Taylor Statten, the Canadian Standard Efficiency TESTS published 1912 as a little red handbook of which forty-two thousand were used, Forgie directing the revision, Hignell finishing it after Forgie left for the front, and the name Canadian Standard Efficiency TRAINING dating from October 1918. Only the CSET-origin passages were read. See f_5349, f_5350, f_5351.",
+      "read_state": "partial",
+      "read_state_basis": "direct: full text downloaded; the two CSET-origin passages read closely and quoted in full in the cache. The rest of the book -- a boys' programme anthology with poetry and project material -- is UNREAD and may well bear on camp programming."
+    },
+    {
+      "source_id": "src_icre_yearbook_1924",
+      "type": "report",
+      "title": "The International Council of Religious Education Yearbook, 1924",
+      "date": "1924",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/yearbook0000inte_m3q0",
+      "cache_path": "sources/cache/cset/2026-09-07-forgie-and-the-origin-of-cset.txt",
+      "char_count": 985915,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v9.34",
+      "reliability": "primary",
+      "notes": "FULLY DOWNLOADABLE. Found 2026-09-07 by the same sweep. Gives Forgie's Alberta post a date, an address and an employer: 'Boys' Secretary, A. W. Forgie, 302 I. O. O. F. Building, Calgary, Alberta' (printed twice) and 'A. Wallace Forgie, Boys' Work Secretary, ALBERTA RELIGIOUS EDUCATION COUNCIL' -- so after CSET his employer was the religious-education side of the movement rather than the association side. SIBLING VOLUMES ARE IN THE SAME CORPUS AND UNREAD: the 1936 yearbook (already noted in p_430) has Harold C. Cross as President of the Montreal council, and the 1942, 1943 and 1945 volumes have him as Corresponding Secretary at 1441 Drummond St. Only the Forgie lines were read here. See f_5352.",
+      "read_state": "partial",
+      "read_state_basis": "direct: full text downloaded; the three Forgie lines read and quoted. Nothing else in the volume was read, and the Cross lines in its sibling volumes were seen only as search highlights."
     }
   ],
-  "source_count": 1712
+  "source_count": 1715
 }

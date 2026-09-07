@@ -1068,6 +1068,19 @@
       "flagged_at": "2026-09-06T23:45:00Z",
       "status": "open",
       "notes": "Two documented sources, so a human decision point under the operator directive of 2026-07-07 -- the oral-history rule does not apply, neither side is oral history. The article has been corrected in place NOT to resolve the conflict but because the sentence it carried ('a seventeen-year-old survivor newly arrived in Canada', 'the first summer of this gap') was this project's own inference on top of the disputed year, and is unsafe under either reading."
+    },
+    {
+      "conflict_id": "c_069",
+      "entity": "CSET (Canadian Standard Efficiency Tests / Training)",
+      "description": "THE FOUNDING DATE OF CSET, AND ITS AUTHORSHIP. This project's articles say Taylor Statten 'established the Canadian Standards Efficiency Training (CSET) program' in 1914, and a V1 verify pass of 14 February 2026 recorded 'CSET 1914' among claims independently confirmed. THE PROGRAMME'S OWN GOVERNING BODY GIVES A DIFFERENT CHRONOLOGY. The Boy's Own Book (1929), issued by the National Boys' Work Board of the Religious Education Council of Canada, has the forerunner 'prepared and published' in 1912 as the Canadian Standard Efficiency TESTS -- a little red handbook of which forty-two thousand were used -- and the revised programme completed in October 1918, when 'the name \"Canadian Standard Efficiency TRAINING\" became' the name (f_5351). So the acronym covers two programmes with two expansions, and neither is dated 1914. The C.S.E.T. manual itself, printed in 1918 by the National Council of YMCAs of Canada, is consistent with that and silent on the founding date (f_5349). A SEPARATE AND EQUALLY SUBSTANTIAL DISAGREEMENT SITS BESIDE THE DATE: both of this project's articles credit CSET to Statten alone, while the 1929 account calls him 'the moving spirit in and through it all' AND gives the originating idea -- Luke 2:52 as the basis of a fourfold programme, in 1907 -- to A. WALLACE FORGIE, and the direction of the 1918 revision to Forgie as well (f_5350). WHAT WOULD SETTLE THE DATE: what happened in 1914, which neither 1918 nor 1929 source describes and which the V1 pass's own sources presumably do. It is possible that 1914 is right about a third thing -- a national adoption, an incorporation, a first camp use -- and that all three dates are true of different events. NOT RESOLVED HERE, AND NOT OVERWRITTEN: two documented sources disagreeing is a human decision point under this project's rule, and the oral-history directive of 2026-07-07 does not apply, since neither side is oral history.",
+      "facts": [
+        "f_5349",
+        "f_5350",
+        "f_5351"
+      ],
+      "flagged_at": "2026-09-07T05:06:39Z",
+      "status": "open",
+      "notes": "Raised 2026-09-07 out of a quoted book-corpus sweep on 'Wallace Forgie'. NOTHING HAS BEEN CHANGED IN THE ARTICLES ON THE DATE. What the articles DO now carry is the Forgie attribution, written as what the 1929 source says rather than as a correction of Statten's -- the two are not mutually exclusive and the sources do not treat them as such. The 1914 claim's own sourcing should be re-read before anything is decided: the V1 note lists it among sixteen claims confirmed in one pass and does not say against what."
     }
   ]
 }
