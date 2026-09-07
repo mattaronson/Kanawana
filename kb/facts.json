@@ -1,8 +1,8 @@
 {
-  "version": "9.97",
-  "kb_version": "9.97",
+  "version": "9.98",
+  "kb_version": "9.98",
   "migrated_from": "3.3",
-  "fact_count": 5485,
+  "fact_count": 5487,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -98908,6 +98908,40 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.97",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5524",
+      "category": "traditions",
+      "date_ref": "1938-08-04",
+      "entities": [
+        "Camp Kanawana",
+        "The Green Triangle"
+      ],
+      "claim": "CUCKOO DAY: A TOPSY-TURVY DAY RUN BY THE CAMP COUNCIL, AND ALREADY A REVIVAL IN 1938. The Green Triangle of 6 August 1938: 'The announcement of CUCKOO DAY for Thursday, August 4th was received with much uneasiness by the Camp -- WHO BUT THE CAMP COUNCIL KNEW whether we would be hauled out of bed at the unearthly hour of 5 a.m., or be allowed the blissful rest of an extra hour's sleep; whether we would have a moonlight dip at 10 a.m., or at 4; whether we would have PORRIDGE FOR SUPPER, OR SALAD FOR BREAKFAST.' THE DAY INVERTED THE CAMP. Breakfast was rung at the hour of evening programme and served like one. 'Butter and jam were served on huge trays, while the milk was placed in open bowls; the milk jug on the staff table was A LARGE EIGHT GALLON MILK CAN, into which their cups were informally dipped. CHIEF AND THE DOCTOR ACTED AS WAITERS FOR THE WHOLE CAMP, and when the time came for the first course to be served, they unceremoniously placed A HUGE PAN OF PORRIDGE IN THE MIDDLE OF THE DINING HALL, from which the campers filled their bowls. In a similar way the toast, DONE ON ONE SIDE ONLY, was served.' THEN THE ROLES REVERSED FOR THE PROGRAMME: at the boating period 'all leaders being on patrol' meant 'there were no row boats left for the campers, who stood on shore and gaped as the patrols enjoyed a pleasant outing'; at general swim 'the leaders and staff enjoyed a long swim while THE CAMPERS ACTED AS PATROLS'. TWO THINGS FOLLOW. The CAMP COUNCIL -- announced as a new body in the season's opening issue that July -- set the day and kept it secret, so a camper committee had real programme power in 1938. And the paper calls it 'THE REVIVAL of this event', so CUCKOO DAY PREDATES 1938 and had lapsed. Nothing read so far says when it began or ended.",
+      "sources": [
+        "src_ymf_the_green_triangle_1938_08_06"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.98",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5525",
+      "category": "traditions",
+      "date_ref": "1932-1938",
+      "entities": [
+        "Camp Kanawana",
+        "The Green Triangle"
+      ],
+      "claim": "THE CAMP KEPT UP WITH THE OUTSIDE WORLD, AND THE 1930S RUN DOCUMENTS IT SIX TIMES. In 1932 the intramural leagues were named for CONSUMER BRANDS -- Cadillacs and Auburns, Minty's and Forhan's and Pepsodent's, Harley Davidsons and Hendersons and Indians and Super X -- and the junior programme spent a week as the LOS ANGELES OLYMPICS with teams for six nations and boys impersonating Percy Williams and Phil Edwards (f_5495). In 1938 the boating carnival's floats were CLEOPATRA IN A GALLEY SHIP (Senior camp, the winner, on two rowboats and a double platform), the LOUIS VS. SCHMELING FIGHT (Juvenile cabin 2 -- the rematch had been fought on 22 JUNE 1938, SIX WEEKS EARLIER), the DIONNE QUINTUPLETS (cabin 1), a PIRATE SHIP, THE SURVIVORS FROM THE TITANIC, and one tent's straight-faced 'Opening Ceremonies at Kamp Kanawana'. The announcer, NORM WALLACE, wore 'a cap which might have been stolen from a Montreal street-car conductor', and under his announcements 'the music from BENNY GOODMAN'S RECORDS was wafted from the gramophone in the CROW'S NEST'. SWING RECORDS, A HEAVYWEIGHT TITLE FIGHT, THE QUINTUPLETS AND THE OLYMPICS ALL REACHED A LAURENTIAN BOYS' CAMP WITHIN WEEKS OF HAPPENING. Whatever else the camp was selling -- woodcraft, the simple life, the out-of-doors -- its campers arrived with the decade in their heads and built it into their boats.",
+      "sources": [
+        "src_ymf_the_green_triangle_1938_07_16"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.98",
       "added_by": "ralph_loop"
     }
   ]

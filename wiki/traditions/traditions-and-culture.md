@@ -1,7 +1,7 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 51*
-*Last Updated: 2026-09-07 (the Code of a Good Sport, and the 1935 change to how the Best Camper Shield was decided)*
+*Status: E1-reviewed | Sources: 52*
+*Last Updated: 2026-09-07 (Cuckoo Day, 1938; and the camp keeping up with the outside world)*
 
 ## Overview
 
@@ -291,6 +291,61 @@ teaching a photography class and on the Friday "took a **mass picture of all Cam
 displayed in the dining hall — so a whole-camp photograph of 1935 was made, which is worth knowing for
 anyone working through the fonds' image holdings. And **Mr. Spearman**, Camp Chief through 1934,
 returned in 1935 to deliver the chapel address under his successor.
+
+## Cuckoo Day, 1938
+
+A tradition this project had no record of, described in full, and already a revival when it was
+described.^52 *The Green Triangle* of 6 August 1938, on Thursday the 4th:
+
+> The announcement of **Cuckoo Day** for Thursday, August 4th was received with much uneasiness by the
+> Camp — **who but the Camp Council knew** whether we would be hauled out of bed at the unearthly hour
+> of 5 a.m., or be allowed the blissful rest of an extra hour's sleep; whether we would have a
+> moonlight dip at 10 a.m., or at 4; whether we would have porridge for supper, or salad for
+> breakfast…
+
+**The day inverted the camp.** Breakfast was rung at the hour of evening programme and served like
+one, with announcements. "Butter and jam were served on huge trays, while the milk was placed in open
+bowls; the milk jug on the staff table was a **large eight gallon milk can**, into which their cups
+were informally dipped. **Chief and the Doctor acted as waiters for the whole camp**, and when the
+time came for the first course to be served, they unceremoniously placed **a huge pan of porridge in
+the middle of the dining hall**, from which the campers filled their bowls. In a similar way the
+toast, **done on one side only**, was served."
+
+**And then the roles reversed for the day's programme.** At the boating period "all leaders being on
+patrol" meant "there were no row boats left for the campers, who stood on shore and gaped as the
+patrols enjoyed a pleasant outing." At general swim, "the leaders and staff enjoyed a long swim while
+**the campers acted as patrols**, who had a short swim afterwards." Dinner "was served and eaten much
+more civilly," and the afternoon was a regatta.
+
+Two things are worth taking from it. The **Camp Council** — announced as a new body in the season's
+opening issue that July — was the authority that set the day and kept it secret, so a camper committee
+had real programme power in 1938. And the paper's verdict is that "the **revival** of this event was a
+great success, and should be made an [annual affair]," so **Cuckoo Day predates 1938** and had lapsed.
+Nothing read so far says when it began or when it stopped.
+
+**The craft shop advertised itself as a radio station.** The same issue: "Calling all boys! Bring your
+airplane models, plasticine models, vases, trays, bookcases, whisks, serviette rings, cork calendars,
+caterpillars, horses' teeth, boats, bugs, snakes, sketches, **felt crests**, fungi, fossils, et cetera
+to the craftshop to take place in the **gigantic hobby show** this coming Sunday. Enter your models in
+the airplane show, photographic negative contest or various other displays… Your models will be safe
+in the care of Tom Best until they are returned to you. **Station KKC signing off. That is all.**"
+
+## The camp kept up with the outside world
+
+A pattern worth naming, because it runs across the whole 1930s run and every instance is small on its
+own. In **1932** the intramural leagues were named for cars, toothpaste and motorcycles, and the
+junior programme spent a week as the Los Angeles Olympics with teams for six nations. In **1938** the
+boating carnival's floats were **Cleopatra in a galley ship** (Senior camp, and the winner), the
+**Louis vs. Schmeling fight** (Juvenile cabin 2 — the rematch had been fought on 22 June that year,
+six weeks earlier), the **Dionne Quintuplets** (cabin 1), a **Pirate Ship**, the **survivors from the
+Titanic**, and one tent's straight-faced "Opening Ceremonies at Kamp Kanawana."^52 The announcer,
+**Norm Wallace**, wore "a cap which might have been stolen from a Montreal street-car conductor," and
+under his announcements "the music from **Benny Goodman's records** was wafted from the gramophone in
+the **Crow's Nest**."
+
+Swing records, a heavyweight title fight, the quintuplets and the Olympics all reached a Laurentian
+boys' camp within weeks of happening. Whatever else the camp was selling — woodcraft, the simple life,
+the out-of-doors — its campers arrived with the decade in their heads and built it into their boats.
 
 ## L&V Games
 
@@ -605,3 +660,4 @@ Kanawana."^40 Whether either was ever held again is not known here.
 49. *The Green Triangle*, Vol. IV Nos. 5 and 6, **20** and **27 July 1935** [src_ymf_the_green_triangle_1935_07_20, src_ymf_the_green_triangle_1935_07_27]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 50. *The Green Triangle*, **1 August 1936** ("An Issue in verse") and the issue opening volume 45, **2 July 1938** [src_ymf_the_green_triangle_1936_08_01, src_ymf_the_green_triangle_1938_06_02]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. **Note the date discrepancy on the second**: the Internet Archive item is identified as `1938-06-02` and the cache file follows it, but the masthead reads "Kamp Kanawana - Saturday, July 2, 1938". July 2 1938 was a Saturday; June 2 was a Thursday. The masthead is preferred.
 51. *The Green Triangle*, Issue 2, **21 July 1940**, and Vol. 47 No. 4, **29 July 1940** [src_ymf_the_green_triangle_1940_07_21, src_ymf_the_green_triangle_1940_07_29]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+52. *The Green Triangle*, **9**, **16 July** and **6 August 1938** [src_ymf_the_green_triangle_1938_07_09, src_ymf_the_green_triangle_1938_07_16, src_ymf_the_green_triangle_1938_08_06]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
