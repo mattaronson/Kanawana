@@ -1,8 +1,8 @@
 {
-  "version": "9.82",
-  "kb_version": "9.82",
+  "version": "9.83",
+  "kb_version": "9.83",
   "migrated_from": "3.3",
-  "fact_count": 5442,
+  "fact_count": 5446,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -98134,6 +98134,86 @@
         "review_on": "2061-01-01",
         "basis": "personal assessment of identifiable private individuals: later of record date (1973) + 75 = 2048 and estimated birth (c. 1960) + 100 = 2060, the later governing, rounded to the following 1 January",
         "why": "a graded roster of thirteen named children, probably living"
+      }
+    },
+    {
+      "fact_id": "f_5481",
+      "category": "people",
+      "date_ref": "1960",
+      "entities": [
+        "Les Voyageurs de la Vérendrye",
+        "Harry K. Gordon",
+        "A. Ross Seaman",
+        "Roger Wilson",
+        "Hedley Dimock",
+        "Henry F. Hall",
+        "Roy D. Locke"
+      ],
+      "claim": "A VOYAGEURS DIRECTOR THIS PROJECT DID NOT HOLD, AND IT REVISES AN ANSWER ALREADY GIVEN. The 1960 brochure's masthead: 'Directors: A. ROSS SEAMAN, DIRECTOR OF BOYS' CAMPING; HARRY K. GORDON, VOYAGEURS DIRECTOR', with 'Voyageurs Leaders: J. ORGAN; R. WILSON; A. PERRY'. wiki/site/les-voyageurs-de-la-verendrye.md has listed ROGER WILSON as the 1960 director on the strength of his signature on that season's report; the season's own brochure puts Wilson among the LEADERS and Gordon in the director's chair. The likeliest reading is that Gordon held the post and Wilson wrote the report, though a mid-season change fits equally well; the open question is amended rather than closed. SEAMAN'S OWN TITLE that year is also worth having: Director of Boys' Camping, a post ABOVE the individual camps, held in a year his own article has him directing Kanawana. THE GOVERNANCE, which is disproportionate and interesting for that reason: a wilderness programme for thirty boys had an ADVISORY COMMITTEE of four -- John F. Lewis, Dr. J. Preston Robb, DR. H. G. DIMOCK and DR. H. F. HALL -- and a CAMP COMMITTEE of seventeen chaired by Gordon A. Mackey, including ROY D. LOCKE, O. N. H. Owens, F. J. Nobbs, Marshall Lebeau, W. J. C. Hewetson and George Clouston. Dimock is the Montreal YMCA's Coordinator of Staff Development and Training in exactly these years per wiki/history/postwar-gap.md; this adds his seat on the Voyageurs' advisory committee.",
+      "sources": [
+        "src_ymf_1960_the_adventures_of_the_voyageurs_of_verendrye_brochure"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.83",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5482",
+      "category": "programs",
+      "date_ref": "1959",
+      "entities": [
+        "Les Voyageurs de la Vérendrye",
+        "Camp Kanawana",
+        "Parc de la Vérendrye"
+      ],
+      "claim": "THE 1959 FOUNDING PROJECT, DESCRIBED A YEAR LATER BY THE PEOPLE WHO RAN IT, AND ITS STATED PURPOSE IS RETENTION. The 1960 brochure: 'Last summer the METROPOLITAN BOYS CAMP COMMITTEE of the Montreal YMCA set up SIX THREE-WEEK CANOE-TRIP \"VOYAGEURS\" ADVENTURES into the Quebec northlands. The test project involved 30 BOYS, 14-17 YEARS OLD', and 'a \"voyageurs\" group would be comprised of FIVE BOYS AND A SENIOR YMCA LEADER'. THE REASON GIVEN: 'By the time a lad has had five or six years of organized camp program, he feels he has \"HAD THE COURSE\" and is looking for a more challenging experience' -- the programme was designed to hold teenagers who had aged out of camp, which is a retention problem stated in the camp's own words. THE SHAPE OF IT: a THREE-DAY BASE CAMP outside Kanawana for canoe handling, bedding down, cooking, packing, repair of 'torn canvas and cracked ribbings' on CANVAS CANOES, and 'lessons in map reading with government topographical maps... there is no one to ask directions of in La Verendrye Park!'; then 'the long trip to the northern outpost (250 MILES) BY TRUCK... hauling a trailer of food, packs, equipment, and SIX CANOES'; then 'separate routes, PLANNED AND MAPPED BY THEMSELVES', some covering 200 MILES. ONE FIGURE NOT ADOPTED: the base camp is given as '144 miles outside YMCA Kamp Kanawana', which cannot be right for a three-day orientation preceding a 250-mile haul and is very likely OCR of a fraction. Recorded as unreliable rather than repaired.",
+      "sources": [
+        "src_ymf_1960_the_adventures_of_the_voyageurs_of_verendrye_brochure"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.83",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5483",
+      "category": "programs",
+      "date_ref": "1959-07",
+      "entities": [
+        "Les Voyageurs de la Vérendrye",
+        "Parc de la Vérendrye"
+      ],
+      "claim": "THE EARLIEST FIRST-HAND VOYAGEUR VOICE THIS PROJECT HOLDS, AND IT IS A RECORD OF GETTING LOST. The 1960 brochure prints excerpts from THE LOG OF OUTFIT 3, July 1959, written by the boys. 16 JULY, their first day paddling: high wind, lost direction, directions from 'a group of Pennsylvanian fishermen', a log jam and then one 'about a mile long' -- 'Stan got out, peeled off his jeans, and guided the canoe through... It was a grand sight to see him standing up in the stern MAKING LIKE A VIENNESE GONDOLIER'; then 'we had to smash 10,000,000,000,000,000 LOGGING BOOMS'. Tally: 'Seen: 1 cow moose, 1 calf moose, 1 deer, 1,000,000 BUGS. Tragedies: Ron lost 1 moccasin.' 19 JULY: 'We paddled into 1,000 bays, inlets, and streams searching for the Ottawa River. Along the way we found 30 DIFFERENT CAPISTACHUONE RIVERS'; a road 'skirted the border of La Verendrye Park. SOMEBODY GOOFED!'; after 'a long exhaustive study (taking all of 15 seconds)' they had gone 'over 20 miles that day LOOKING FOR A LAKE THAT WASN'T THERE'. 22 JULY: 'rose early to pleasant sound of millions of mosquitos', a four-mile portage, then 'a miserable 1-1.5 miles through bush and fallen logs to LAKE CAMASHIGAMA', greeted by 'A WELCOMING COMMITTEE OF 10,000 GULLS WHO STAGED A PROTEST DEMONSTRATION AGAINST OUR ARRIVAL'. TWO THINGS BEYOND THE PLEASURE OF IT. The routes were self-planned AND WENT WRONG, and a promotional brochure printed that, which is itself an argument about what the programme was for. And the places are nameable -- CAMATOSE LAKE AND RIVER, THE CAPISTACHUONE, PORTAGE BAY, LAKE CAMASHIGAMA -- giving a 1959 route in the participants' own words.",
+      "sources": [
+        "src_ymf_1960_the_adventures_of_the_voyageurs_of_verendrye_brochure"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.83",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5484",
+      "category": "people",
+      "date_ref": "1959",
+      "entities": [
+        "Les Voyageurs de la Vérendrye"
+      ],
+      "claim": "THE CHARTER ROLL OF THE GRAND COMPANY OF THE VOYAGEURS OF VERENDRYE, 1959. Thirty named boys in six outfits of five, with three leaders each listed against two outfits. Reproduced in wiki/site/les-voyageurs-de-la-verendrye.md inside embargo markers and registered as r_0008. THE AGGREGATE IS UNEMBARGOED AND CARRIED IN f_5482: thirty boys aged fourteen to seventeen, six outfits, five boys and a senior leader each. THE THREE LEADERS ARE DELIBERATELY NOT SUBJECTS OF THIS FACT and are named openly in the article and in f_5481, being staff rather than campers; one of them recurs on the 1960 masthead as a Voyageurs Leader. Their names are kept out of this record so that the embargo guard, which tests whether a name occurring only in an embargoed fact appears outside a block, is not made to report a deliberate editorial decision as a labelling failure. THE THIRTY EMBARGOED SUBJECTS ARE THE CAMPERS. WHY IT IS LABELLED: the standing instruction is not to publish personal information about living private individuals, and thirty names with an age band is that; the men would be in their eighties. WHY IT IS WRITTEN DOWN RATHER THAN SUMMARISED: a roster that is merely omitted becomes indistinguishable to any later reader from a roster the source never carried, which is the failure kb/restricted/README.md exists to prevent. THIS DIFFERS FROM THE HANDLING OF r_0006, where a comparable roster was summarised and not reproduced; on the README's own reasoning that earlier decision is the weaker one and is worth revisiting.",
+      "sources": [
+        "src_ymf_1960_the_adventures_of_the_voyageurs_of_verendrye_brochure"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.83",
+      "added_by": "ralph_loop",
+      "publication": {
+        "status": "embargoed",
+        "register_id": "r_0008",
+        "review_on": "2060-01-01",
+        "basis": "living private individuals under CLAUDE.md Phase 2 section 7; a roster and not a personal assessment, so the 75/100-year default is not strictly engaged -- the date is set at estimated birth (c. 1943, boys of fourteen to seventeen in 1959) + 100 and rounded, as the nearest defensible analogue",
+        "why": "thirty named boys with an age band, from a founding roll; honorific in character and from a public document, but still personal information about probably-living private individuals"
       }
     }
   ]

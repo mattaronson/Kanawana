@@ -12198,9 +12198,10 @@
         "src_ymf_sgw_ymca_annual_report_1963",
         "src_ymf_sgw_ymca_annual_report_1964",
         "src_ymf_sgw_ymca_annual_report_1968",
-        "src_ymf_1982_les_voyageurs_de_la_verendrye_review"
+        "src_ymf_1982_les_voyageurs_de_la_verendrye_review",
+        "src_ymf_1960_the_adventures_of_the_voyageurs_of_verendrye_brochure"
       ],
-      "open_questions": 5,
+      "open_questions": 4,
       "cross_links": [
         "traditions/canoe-trips",
         "people/a-ross-seaman",
@@ -12212,7 +12213,7 @@
         "traditions/lv-games"
       ],
       "file_id": null,
-      "word_count": 10741,
+      "word_count": 12215,
       "tags": [
         "spinout"
       ],

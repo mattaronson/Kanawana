@@ -1,7 +1,7 @@
 # Les Voyageurs de la Vérendrye
 
-*Status: draft | Sources: 18*
-*Last Updated: 2026-09-07 (a 1982 season review, three years later than the article's previous last document)*
+*Status: draft | Sources: 19*
+*Last Updated: 2026-09-07 (the 1960 brochure: a Voyageurs Director this project did not have, and the 1959 company's own trip log)*
 
 ## Overview
 
@@ -656,11 +656,118 @@ house… it must be taken care of." A route map covering roughly 1972 to 1982, d
 article already quotes, was a physical object in a named building at Kanawana in 1982. Whether it
 survives is a question for the camp and for the fonds, not for the open web.
 
+## The 1960 brochure, and the founding company of 1959
+
+*The Adventures of the Voyageurs of Verendrye* is a promotional brochure the Montreal YMCA printed
+for the 1960 season, and it is read here as one — its prose sells.^19 But it carries three things
+promotional documents usually do not: a complete governing roster, the charter roll of the 1959
+company, and verbatim excerpts from an outfit's own trip log.
+
+**It names a Voyageurs Director this article did not have.** The 1960 masthead reads: "Directors:
+**A. Ross Seaman, Director of Boys' Camping**; **Harry K. Gordon, Voyageurs Director**," with
+"Voyageurs Leaders: **J. Organ; R. Wilson; A. Perry**." That bears directly on open question 3 below.
+This article has listed **Roger Wilson as the 1960 director** on the strength of his signature on the
+1960 report — but the brochure of the same season puts Wilson among the *leaders* and Harry K. Gordon
+in the director's chair. The likeliest reading is that Gordon held the post and Wilson wrote the
+season report, though a mid-season change would fit the evidence equally well. Either way **Harry K.
+Gordon is a name this project did not hold**, and Seaman's own title that year — Director of Boys'
+Camping, above the individual camps rather than inside one — is worth having beside
+[[people/a-ross-seaman|his article]], which has him directing Kanawana from 1959.
+
+**And it shows who was standing behind the programme.** An **Advisory Committee** of four: John F.
+Lewis, **Dr. J. Preston Robb**, **Dr. H. G. Dimock** and **Dr. H. F. Hall**. Dimock is the Montreal
+YMCA's Coordinator of Staff Development and Training in exactly these years, whom
+[[history/postwar-gap|The Postwar Gap]] already carries; this puts him on the Voyageurs' advisory
+committee as well. The **Camp Committee** ran to seventeen, chaired by Gordon A. Mackey and including
+**Roy D. Locke**, O. N. H. Owens, F. J. Nobbs, Marshall Lebeau, W. J. C. Hewetson and George Clouston.
+A wilderness programme for thirty boys had a governing apparatus of twenty-one men.
+
+**The rationale is stated plainly, and it is a retention problem.** "By the time a lad has had five or
+six years of organized camp program, he feels he has **'had the course'** and is looking for a more
+challenging experience." The question the committee set itself was what to offer "a boy who stands
+shorn of childish pursuits yet unprepared and unaccepted in the adult world" — the brochure's cover
+puts it as "senior boys standing at the **threshold to manhood**." Les Voyageurs was designed to keep
+teenagers who had aged out of camp.
+
+**The 1959 project, described a year later by the people who ran it.** "Last summer the **Metropolitan
+Boys Camp Committee** of the Montreal YMCA set up **six three-week canoe-trip 'voyageurs' adventures**
+into the Quebec northlands. The test project involved **30 boys, 14-17 years old**," and "it was
+decided that a 'voyageurs' group would be comprised of **five boys and a senior YMCA leader**." A
+three-day **Base Camp** was set up outside Kanawana — the brochure gives the distance as "144 miles,"
+which cannot be right for a three-day orientation and is very likely OCR of a fraction — where the
+boys rehearsed canoe handling, bedding down, cooking, packing, and "proper care for and repair of torn
+canvas and cracked ribbings" on **canvas canoes**, plus "lessons in map reading with government
+topographical maps . . . **there is no one to ask directions of in La Verendrye Park!**" Then "the
+long trip to the northern outpost (**250 miles**) by truck . . . hauling a trailer of food, packs,
+equipment, and **six canoes**." From there "the Voyageurs set out on separate routes, **planned and
+mapped by themselves**," some covering **200 miles**.
+
+### What a 1959 outfit actually wrote down
+
+The brochure prints excerpts from **the log of Outfit 3**, and they are the earliest first-hand
+Voyageur voice this project holds — teenagers writing for themselves, not for a committee.^19
+
+On **Thursday 16 July 1959**, their first day paddling, they lost direction in high wind, were told
+the way to the Camatose River by "a group of Pennsylvanian fishermen," and hit a log jam, then another
+"about a mile long": "Stan got out, peeled off his jeans, and guided the canoe through for a while. It
+was a grand sight to see him standing up in the stern **making like a Viennese gondolier**." Then
+"this time we had to smash **10,000,000,000,000,000 logging booms**." The day's tally: "Seen: 1 cow
+moose, 1 calf moose, 1 deer, **1,000,000 bugs**. Tragedies: Ron lost 1 moccasin."
+
+On **Sunday 19 July** they got comprehensively lost: "We paddled into 1,000 bays, inlets, and streams
+searching for the Ottawa River. Along the way we found **30 different Capistachuone Rivers**." At 8:30
+they found a road, "walked up the road and discovered it skirted the border of La Verendrye Park.
+**Somebody goofed!**" After "a long exhaustive study (taking all of 15 seconds)" they worked out they
+were on the Capistachuone and "had travelled over 20 miles that day **looking for a lake that wasn't
+there**." Then: "Slept and froze at night."
+
+On **Tuesday 21 July** they "saw four **'meese'** that morning." On **Wednesday 22 July** they "rose
+early to pleasant sound of millions of mosquitos," did a four-mile portage and then "a miserable
+1-1½ miles through bush and fallen logs to Lake Camashigama," where they were "greeted at the other
+end by **a welcoming committee of 10,000 gulls who staged a protest demonstration against our
+arrival**." They camped on "a long and beautiful beach. Swam for hours, ate, and swam again."
+
+Two things are worth taking from this beyond the pleasure of it. The routes were **self-planned and
+went wrong**, and the brochure prints that — a promotional document reproducing a day the boys spent
+twenty miles off course is making an argument about what the programme was for. And the places are
+nameable: **Camatose Lake and River, the Capistachuone, Portage Bay, Lake Camashigama** — a 1959 route
+in the boys' own words, which is the sort of thing [[traditions/canoe-trips|Canoe Trips]] can rarely
+pin down.
+
+<!-- embargo:r_0008 -->
+*Embargoed material: the charter roll of the 1959 company, thirty named boys in six outfits, register
+r_0008, review 2060-01-01. The aggregate — thirty boys aged 14 to 17, six outfits of five and a
+leader — is given above; this is the roll itself.*
+
+**CHARTER ROLL — THE GRAND COMPANY OF THE VOYAGEURS OF VERENDRYE**
+
+| Outfit | Members | Leader listed with the outfit |
+|---|---|---|
+| 1 | Pete Marosi, Bob Pepper, Colin Lewis, Jacques Couture, Alex Henderson | Jack Organ |
+| 2 | Ross Mountain, Bob Clibbon, Ross Probert, "Chuck" Prosser, David Reed | Peter Whitenect |
+| 3 | François de Martigny, Dick Spencer, Ron Foreman, Stanley Gray, Leonard Thyer | Dave Carson |
+| 4 | Michel Gaucher, Tim Weisbord, Bruce Fogle, "Bernie" Achtman, "Cal" Creslin | Jack Organ |
+| 5 | Terry Alcorn, Bill Palmer, Andy Aschner, Paul Tutsch, Steve Gruber | Peter Whitenect |
+| 6 | Ronnie Brown, Ron Blofield, John Rothschild, Dick Evans, Jim Campbell | Dave Carson |
+
+*Three leaders each appear against two outfits. Whether that means two trip periods, or is an
+artefact of the brochure's two-column layout, the document does not say.*
+<!-- /embargo:r_0008 -->
+
+**On the roll above.** It is honorific — a charter roll of a founding expedition, printed by the
+organisation itself to be read. The men in it were fourteen to seventeen in 1959 and would be in
+their eighties now. It is labelled rather than reproduced openly because the standing instruction is
+not to publish personal information about living private individuals, and thirty names with an age
+band is that; it is written down rather than summarised away because a roster that is merely omitted
+becomes indistinguishable, to any later reader, from a roster the source never had. The leaders —
+**Jack Organ, Peter Whitenect and Dave Carson** — are named outside the block, being staff, and two of
+them recur in the 1960 masthead.
+
 ## Open Questions
 
 1. [Critical] **When was the Lac Landron lease actually signed?** Two documented institutional sources disagree, and this article sets both out rather than choosing. The camp's own season report of late summer 1963 and the association's annual report closing 31 May 1964 can both be satisfied by a lease signed between them — but that reading does not explain the 1966 report still asking about it. Concordia's Fonds P145 sub-series 12K is where a lease would be.
 2. [Critical] **What happened to the base camp, and when?** This article has the property at risk in 1969, an absorption proposed in 1970 and refused in writing, Paul Mongraw forecasting the end in 1974, and the base gone by 1979. The document that records the actual closure or surrender of the site has not been found.
-3. [Important] **Who directed the programme in the years with no report here?** Named directors held: Roger Wilson (1960), Jack Soule (1966), David Blake (1967, 1969), Yves St. Pierre (1970), John Evans (1973), Paul Mongraw (1974), Derek V. Walsh (accredited director, 1975), Robert D. Woodhouse (1979). The gaps are 1959, 1961–1965, 1968, 1971–72 and everything after 1979.
+3. [Important, **Partially resolved 2026-09-07**] **Who directed the programme in the years with no report here?** For 1960 the answer has changed: the season's own brochure names **Harry K. Gordon** as Voyageurs Director and puts Roger Wilson among the leaders, so the entry below reflects who signed the report rather than who held the post. Named directors held: Roger Wilson (1960, **but see the brochure — Harry K. Gordon**), Jack Soule (1966), David Blake (1967, 1969), Yves St. Pierre (1970), John Evans (1973), Paul Mongraw (1974), Derek V. Walsh (accredited director, 1975), Robert D. Woodhouse (1979). The gaps are 1959, 1961–1965, 1968, 1971–72 and everything after 1979.
 4. [Important] **Did the programme end, or only stop being reported?** The Porter Sargent guides still print "The Voyageurs Program" with fourteen-day trips for ages 13–18 in 1983-84 and 1987. Nothing here says when the name stopped being used, and the YMCA Quebec material describes present-day La Vérendrye trips under other section names — so the route outlasted the programme's name by some margin that is not documented.
 5. [Nice-to-have] **What was the relationship to the Réserve faunique's own administration?** The reports describe a base camp inside a provincial wildlife reserve across two decades without ever describing the permission under which it sat.
 
@@ -695,3 +802,4 @@ survives is a question for the camp and for the fonds, not for the open web.
 16. *Canadian Camping* Vol. 27 No. 2 (January 1975), the Canadian Camping Association Directory Issue — Quebec Camping Association accredited member camps listing. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 103).
 17. Porter Sargent Publishers, *The Guide to Summer Camps and Summer Schools*, 1983-1984 (23rd edition) and December 1987, the KANAWANA entries [src_porter_sargent_guides_1983_1987]. **One entry from each edition**, reconstructed 2026-09-06 from fifteen overlapping Open Library search-inside queries; both books are lending-restricted and neither has been read. Cached with the queries at `sources/cache/openlibrary-search-inside/2026-09-06-porter-sargent-guides-1983-84-and-1987.txt`. See [f_4946].
 18. Les Voyageurs de la Vérendrye, director's season review for 1982 [src_ymf_1982_les_voyageurs_de_la_verendrye_review]. Concordia-digitized YMCA of Montreal fonds; full text cached at `sources/cache/ymca-montreal-fonds/1982-les-voyageurs-de-la-verendrye-review.txt`. Held since 2026-08-25 at read_state "skimmed" and read word for word 2026-09-07 under p_482. The author's signature is present but illegible in the OCR, so the report is cited unsigned.
+19. *The Adventures of the Voyageurs of Verendrye*, promotional brochure, Montreal YMCA, 1960 [src_ymf_1960_the_adventures_of_the_voyageurs_of_verendrye_brochure]. Concordia-digitized YMCA of Montreal fonds; full text cached at `sources/cache/ymca-montreal-fonds/1960-the-adventures-of-the-voyageurs-of-verendrye-brochure.txt`. Held since 2026-08-25 at read_state "skimmed", read word for word 2026-09-07 as the third item worked under p_482. A promotional document and read as one, but it carries three things a promotional document usually does not: a full committee roster, the charter roll of the 1959 company, and verbatim excerpts from an outfit's trip log.

@@ -3586,3 +3586,43 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   rather than leaving a silent hole.
   NEW: facts 5439 -> 5442 (f_5478..f_5480); kb 9.81 -> 9.82. Verify green, embargo
   labelling included.
+
+2026-09-07T11:08Z  p_482 item 3: the 1960 Voyageurs brochure.
+  A promotional document, read as one, but carrying three things promotional
+  documents usually do not.
+  (1) A GOVERNING ROSTER THAT REVISES AN ANSWER ALREADY GIVEN. The 1960 masthead
+  names HARRY K. GORDON as Voyageurs Director under A. Ross Seaman as "Director of
+  Boys' Camping", and puts ROGER WILSON among the LEADERS. This article listed
+  Wilson as the 1960 director on the strength of his signature on that season's
+  report. Open question 3 is amended rather than closed: Gordon probably held the
+  post and Wilson wrote the report, but a mid-season change fits equally. Gordon is
+  a name this project did not hold. Also an Advisory Committee of four including
+  H. G. DIMOCK -- already in the wiki as the Montreal Y's Coordinator of Staff
+  Development and Training in exactly these years -- and H. F. Hall; and a
+  seventeen-man Camp Committee including Roy D. Locke.
+  (2) THE 1959 PROJECT IN ITS OWN WORDS, and its purpose is RETENTION: "By the time
+  a lad has had five or six years of organized camp program, he feels he has 'had
+  the course'." Six three-week trips, 30 boys aged 14-17, groups of five plus a
+  senior leader, a three-day base camp, a 250-mile truck haul, routes planned and
+  mapped by the boys, up to 200 miles. One figure NOT adopted: the base camp given
+  as "144 miles outside Kanawana", which cannot be right and is very likely OCR of
+  a fraction -- recorded as unreliable rather than quietly repaired.
+  (3) EXCERPTS FROM OUTFIT 3'S TRIP LOG, July 1959 -- the earliest first-hand
+  Voyageur voice held. Mostly a record of getting lost: "we found 30 different
+  Capistachuone Rivers... Somebody goofed!" and 20 miles spent "looking for a lake
+  that wasn't there". A promotional brochure printing that is making an argument
+  about what the programme was for.
+  EMBARGO r_0008: the 1959 charter roll, thirty named boys in six outfits, written
+  into the article inside markers, review 2060 (set to match r_0007 so the two are
+  reviewed together). The register entry says plainly that this DIFFERS from
+  r_0006, where a comparable roster was summarised away, and that on the README's
+  own reasoning the earlier decision is the weaker one.
+  TWO THINGS THE TOOLING CAUGHT AND I HAD WRONG. Tagging open question 3 "partly
+  answered" made the builder count it resolved; the wiki's convention for a
+  half-answered question is a qualified tag like "Partially resolved", so it is
+  that now and stays counted. And the embargo guard refused the commit because the
+  three leaders, deliberately named in the open as staff, were also listed as
+  subjects of the embargoed fact -- so the fact would have made a deliberate
+  editorial decision look like a labelling failure. They are out of f_5484 now.
+  NEW: facts 5442 -> 5446 (f_5481..f_5484); kb 9.82 -> 9.83. Article 10,741 ->
+  12,215 words. Verify green.
