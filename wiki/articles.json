@@ -3422,7 +3422,7 @@
         "traditions/knights-of-kanawana"
       ],
       "file_id": null,
-      "word_count": 12949,
+      "word_count": 12397,
       "notes": "E1 REVIEW (2026-02-19): Fixed non-existent src_concordia_12B04 in header (removed; src_concordia_atom_12B04 already present). Fixed '131-year history' ambiguity to 'more than 130 years'. All claims cited, dates consistent, names cross-checked, tone encyclopedic. | 2026-08-14: cross-linked to the new traditions/order-of-owens.md. | 2026-08-14: NEW prose section on the Order of the Knights of Kanawana, giving the proclamation text and the six challenges for knighthood (previously the KB held the oath and the 1980-2009 roll but not the criteria). NOTE: this article is E1-reviewed and has received substantive new content; warrants a re-REVIEW pass. | 2026-08-14 (2nd pass): charter mined further -- A/B/C skill-grading system across named activities (f_2004), 'Kamp' spelling in challenge 5 corroborating the pre-2005 usage (f_2005), and the birchbark medium/composition (f_2006).",
       "tags": {
         "era": [
@@ -6904,7 +6904,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 2647,
+      "word_count": 2772,
       "tags": {
         "era": [
           "1910s",
@@ -12418,7 +12418,70 @@
       "file_id": null,
       "word_count": 2011,
       "notes": "Created 2026-09-07 by a p_452 spinout from people/directors-index.md, where 1,143 words about Holliday had accumulated under a heading naming the research episode rather than the man. Entered as draft per project-docs/spinout-rule.md: the prose was reviewed in the index, the structure was not."
+    },
+    {
+      "article_id": "kidd-brothers",
+      "title": "The Kidd Brothers",
+      "wiki_folder": "people/notable-alumni",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T14:02:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_2288",
+        "f_2523",
+        "f_5519",
+        "f_5569",
+        "f_5570",
+        "f_5571",
+        "f_5572",
+        "f_5573"
+      ],
+      "sources_cited": [
+        "src_ia_canadian_camping_1950_06",
+        "src_ia_canadian_camping_collection",
+        "src_ia_canadian_camping_1983_summer",
+        "src_ia_canadian_camping_1988_winter",
+        "src_kidd_international_legacy",
+        "src_georgian_spirit_1967",
+        "src_ymf_the_green_triangle_1940_07_29",
+        "src_passionate_educators"
+      ],
+      "open_questions": 5,
+      "cross_links": [
+        "directors-index",
+        "traditions-and-culture",
+        "a-ross-seaman",
+        "w-j-holliday",
+        "geoffrey-guiton",
+        "sgw-concordia-connection",
+        "notable-alumni"
+      ],
+      "file_id": null,
+      "word_count": 1652,
+      "notes": "Created 2026-09-07. The two Kidds were on Kanawana's staff six years apart and were brothers; the material had accumulated inside traditions-and-culture.md's 1940 circus passage, which does not fit two biographies. Filed under notable-alumni on the hub-and-spoke test: J. Roby Kidd would warrant an article if Kanawana had never existed. One article rather than two, on the cushing-family and page-family precedent, because the Kanawana story is one story.",
+      "tags": {
+        "era": [
+          "1940s",
+          "1950s",
+          "1960s",
+          "2000s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "staff",
+        "topics": [
+          "people"
+        ],
+        "is_hub": false
+      }
     }
   ],
-  "article_count": 124
+  "article_count": 125
 }

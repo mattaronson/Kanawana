@@ -5035,3 +5035,31 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   mention Kanawana, and this project has almost nothing in either man's own
   voice about the camp.
   Verify green, nine checks. Timestamp from `date -u` in its own call.
+
+[2026-09-07T14:02:58Z] THE KIDD BROTHERS spun out to their own article.
+  NEW: wiki/people/notable-alumni/kidd-brothers.md (draft, 1,652 words),
+  registered, indexed. Article count 124 -> 125.
+  WHY IT MOVED. The material had accumulated inside traditions-and-culture.md's
+  passage about the 1940 camp circus, which is not where a reader looks for two
+  biographies -- the same shape as this morning's two "heading that stopped
+  describing its contents" finds, one step earlier. It meets the spinout rule's
+  FIRST test, the operator's own: both men's lives run before and after the
+  camp, and the enduring part of each is lived entirely outside it.
+  FILED UNDER notable-alumni/ RATHER THAN CORE people/, on CLAUDE.md's
+  hub-and-spoke test -- J. Roby Kidd would warrant an article if Kanawana had
+  never existed. ONE ARTICLE RATHER THAN TWO, on the cushing-family and
+  page-family precedent, because the Kanawana story is one story and the
+  brothers are the point of it.
+  The parent keeps a paragraph and a link and still reads whole; it went 12,949
+  -> 12,397 words. The uncited-entry count did not move, so the cut stranded
+  nothing -- checked, because the Holliday spinout earlier today DID strand one
+  and every check passed anyway.
+  ONE HEADER MISMATCH CAUGHT BY VERIFY before commit: the new article declared
+  "Sources: 5" against six entries. Fixed.
+  Entered as DRAFT, not inheriting traditions-and-culture's E1-reviewed status.
+  Five open questions, all of them specific: what each brother actually did at
+  camp, whether the four 1950-51 letters mention it, which year John died (the
+  same book says 1962 and 1963), whether John was at Sir George Williams as
+  student or staff, and whether sister Muriel's YMCA involvement ever touched
+  Montreal.
+  Verify green, nine checks. Timestamp from `date -u` in its own call.

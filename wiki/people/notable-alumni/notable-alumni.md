@@ -65,6 +65,16 @@ Grandson of Pip. Camper and counsellor 1983–1991. McGill BA 1997, RMC War Stud
 
 Montreal marine surveyor and "ardent YMCA worker" credited by a 1951 primary source as the person who proposed the camp's name. See [[people/rl-charlton|R.L. Charlton]] for full biography.
 
+### John P. Kidd (d. 1962 or 1963) and J. Roby Kidd (1915–1982)
+
+Brothers, on Kanawana's staff six years apart. **John P. Kidd** was a camp leader in **1934** and by 1950
+was Executive Director of the **Canadian Citizenship Council**, writing in *Canadian Camping* about a
+wounded soldier at Caserta who recognised him and said "Kamp Kanavana… 1934." **James Robbins "Roby" Kidd**
+appears in the camp paper's account of the circus of 25 July 1940; he was then Secretary of boys' work at
+the YMCA's North Branch, and went on to direct the Canadian Association for Adult Education, advise UNESCO,
+and become founding chairman of the **International Council for Adult Education**. Neither man's Kanawana
+years appear in anything written about them. See [[people/notable-alumni/kidd-brothers|The Kidd Brothers]].
+
 ### Harold H. Potter (1914–2004)
 
 Harold Herbert Potter grew up in Little Burgundy, Montreal's English-speaking Black community, the son of émigrés from British Guiana.^33 He worked as a camp counsellor at Kamp Kanawana during summers while earning his B.A. at Sir George Williams College (1935–1939).^33 Potter edited The Georgian, the SGW student newspaper, in 1938–39 — a position later held by Mordecai Richler.^33 In 1947, he became the first Canadian-born Black sociologist hired by a Canadian post-secondary institution when appointed lecturer in Sociology at Sir George Williams College (now part of Concordia University).^33

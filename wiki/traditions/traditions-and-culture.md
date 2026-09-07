@@ -154,57 +154,13 @@ neighbouring [[people/page-family|Page family]], tame enough to carry most of Ju
 able to throw the business manager and all three of "Kanawana's 'Three Men On A Horse', **Roby Kidd**,
 Tom Hardwick, and our daring B.M."
 
-**And Roby Kidd is somebody.** The name belongs, very probably, to **J. Roby Kidd** — James Robbins Kidd
-(1915–1982), later Director of the Canadian Association for Adult Education, a UNESCO adviser, and the
-founding chairman of the International Council for Adult Education. His biography puts him in exactly the
-right place: "**From 1935 to 1945 he worked as Secretary of the Young Men's Christian Association in
-Montreal** and Ottawa," taking his BA part-time at **Sir George Williams College** in 1938 while doing it,
-and his two Montreal posts are named — "**Secretary of 'boys work' at North Branch Y**, and as Program
-Secretary at Notre Dame de Grace."^55 **North Branch is a Kanawana post.** The 1922 camp brochure lists the
-branch Boys' Work Secretaries to whom camp applications were made and North Branch is among them; see
-[[people/w-j-holliday|W. J. Holliday]], who ran that branch, and [[people/geoffrey-guiton|Geoffrey Guiton]],
-who held its boys' secretaryship. He had been a YMCA camper since he was ten, at the Vancouver
-association's Camp Elphinstone.^55
+**And the two Kidds are somebody.** The circus report names **Roby Kidd**, and six years earlier a **John
+P. Kidd** was a Kanawana leader. They were brothers — the elder went on to run the Canadian Citizenship
+Council, the younger became one of the central figures of adult education worldwide — and Roby was on the
+Montreal YMCA's staff in the North Branch boys'-work post that sent boys to this camp when he turned up
+clowning on the Page family's mare. The whole of it, including what his biography does not say, is at
+[[people/notable-alumni/kidd-brothers|The Kidd Brothers]].^55 ^56
 
-*The limit, stated plainly: **his biography never mentions Kanawana** — the word occurs nowhere in its
-733,768 characters. The camp connection rests on this circus report alone. What the biography supplies is
-the man, the city, the years and the job that make this line read as him rather than as a stranger with a
-distinctive name.*
-
-**There is a second Kidd in this wiki, and they were brothers.** [[people/directors-index|John P. Kidd]]
-was a Kanawana leader in **1934**, documented by his own signed account in *Canadian Camping* of June 1950 —
-a wounded soldier in a Canadian Army hospital at Caserta recognising him and saying "Kamp Kanavana… 1934" —
-bylined "Executive Director, Canadian Citizenship Council, Ottawa." Roby's biography, written partly by his
-family, settles the relationship three ways.
-
-It names him: "Another member of the family who had great influence on [Roby] was **his brother John**. He
-was ten when we lost our father… older than Roby, and someone to look up to." And: "**John was instrumental
-in encouraging Roby to attend Sir George Williams College**, and shared his brother's keenness for adult
-education. **When John died in 1963**, Roby lost his most valuable sounding board and friend."^55
-
-It attaches the initial to him. Describing the Bon Echo conference centre — "**Roby and his brother John**
-envisioned a conference and training centre comparable to the Banff School of Fine Arts… **John** settled on
-the site with his family in the summer of 1957" — it gives that season's attendance and sources it "**(J. P.
-Kidd, 1957)**."^55
-
-And they published together. Roby's own bibliography carries "**46.03 with Kidd, J. P. (Eds.). *Community
-Centers*. Ottawa: Canadian Council of Education for Citizenship**" — the two of them co-editing a 1946 book
-for the predecessor of the very council John P. Kidd was running by 1950.^55
-
-**So two brothers were on this camp's staff six years apart.** The elder, John P. Kidd, a Kanawana leader in
-1934, went on to the citizenship council and died in 1962 or 1963. The younger, James Robbins Kidd, followed
-him to Montreal in 1935 — into the YMCA, into Sir George Williams, into the North Branch boys'-work post —
-turns up clowning at the camp circus in 1940, and became one of the central figures of adult education
-worldwide.
-
-*The Robbins confusion resolves rather than lingering.* The biography distinguishes the two men itself: John
-Robbins directed the Canadian Council on Education for Citizenship, and at that body's meeting of February
-1960 "**John Kidd** made a strong statement to stimulate thinking, and **Roby** spoke on 'Emphases and
-Objectives'."^55 Two different men in the same room.
-
-*One discrepancy, recorded rather than smoothed:* the family memoir says John died in **1963**; the
-institutional narrative in the same book says the Canadian Centenary Council's final meeting of early 1967
-paid tribute to "John Kidd, who had died in **1962**." Neither year is preferred here.
 alone; neither full text has been downloaded, and their records say so.)* The best-attended booths were the ice cream and soft drink stand
 and the hamburger shop; one group sold "Surprise Package" tickets "but these turned out to be a lemon
 to most who bought them."
