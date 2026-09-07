@@ -3830,7 +3830,10 @@
         "src_ia_ymca_national_council_bulletin_40_02",
         "src_ia_ymca_national_council_bulletin_40_03",
         "src_umedia_ymca_yearbook_series",
-        "src_ia_georgian_1961_10_03"
+        "src_ia_georgian_1961_10_03",
+        "src_sgw_yearbook_1942",
+        "src_sgw_yearbook_1943",
+        "src_sgw_calendar_1941_42"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -3843,7 +3846,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 14252,
+      "word_count": 15191,
       "notes": "E1 REVIEW (2026-02-19): Removed unverifiable 'Google Maps' source and '20 km' distance claim. Expanded 'Multiple sources' citation into discrete references (Facts sheet + McMorris). Removed src_oral_aronson (no inline citation). Removed unsourced bullet. Fixed postcard inference. Fixed closure section process language. Split 1967 conference/reports sentence. Renumbered sources 1-10. Added camp-otoreke cross-link to centennial-1967. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_008 editorial-resolution narrative into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -5361,7 +5364,8 @@
         "src_ia_canadian_camping_collection",
         "src_directory_canadian_welfare_services_1974",
         "src_ymf_news_release_1969_11_28",
-        "src_concordia_magazine_1988_01"
+        "src_concordia_magazine_1988_01",
+        "src_sgw_yearbook_1943"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -5370,7 +5374,7 @@
         "section-names"
       ],
       "file_id": null,
-      "word_count": 4666,
+      "word_count": 4822,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -7750,7 +7754,10 @@
         "src_ia_the_georgian",
         "src_ia_georgian_1962_02_20",
         "src_ia_georgian_1961_10_03",
-        "src_concordia_magazine_1988_01"
+        "src_concordia_magazine_1988_01",
+        "src_sgw_yearbook_1942",
+        "src_sgw_yearbook_1943",
+        "src_sgw_calendar_1941_42"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -7762,7 +7769,7 @@
         "sources-index"
       ],
       "file_id": null,
-      "word_count": 1617,
+      "word_count": 2189,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, corrected the Sources count in the header (was 8, actual is 9). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -10445,7 +10452,8 @@
       "sources_cited": [
         "src_ia_camp_perrot_collection",
         "src_ia_the_lookout_1993",
-        "src_ia_ymca_montreal_annual_reports_collection"
+        "src_ia_ymca_montreal_annual_reports_collection",
+        "src_sgw_yearbook_1943"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -10455,7 +10463,7 @@
         "history/postwar-gap"
       ],
       "file_id": null,
-      "word_count": 869,
+      "word_count": 1079,
       "notes": "Created 2026-08-14 (p_250). Thinnest-documented director in the index -- one document names him in the role (the 16 April 1956 annual-meeting agenda). 1955/1957/1958 rest on an argument from silence in the personnel-change lists, stated as such."
     },
     {

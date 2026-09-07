@@ -1,7 +1,7 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 53*
-*Last Updated: 2026-09-07 (McGerrigle to 1961, and Colin R. McKay after him)*
+*Status: E1-reviewed | Sources: 54*
+*Last Updated: 2026-09-07 (Hupfield WAS the wartime director; Otoreke in the SGW calendar; a named ski lodge director for 1943)*
 
 ## Overview
 
@@ -361,6 +361,29 @@ until 1947 and is never placed at Otoreke by any source held here. **Two of the 
 now attested and its chronology is not.** Nothing here names Valma, and the reports never give Mrs.
 McGerrigle a first name of her own.
 
+**[SUPERSEDED 2026-09-07 — the paragraph above is kept as written, and its last conclusion is
+wrong. The blog's chronology is attested.]** Sir George Williams College's yearbook for **1942**
+carries Ron Hupfield's graduating entry, and it ends the question:^54
+
+> "**RON HUPFIELD** — ARTS. Activities: Y.M.C.A. Fellowship student. 'Y' handball champion, '39 &
+> '41; Pres. of Fellowship Men, '40, '41; Chairman, Relig. Educ. Council of Que. '38, '39; Sec'y.
+> North Branch 'Y' '40-'41; Mgr. Strathcona Hall, '41 & '42; **Director of 'Y' Camp Otoreke**; Sec'y.
+> Y.M.C.A. Ski Club; Asst. Young Men's Sec'y., Central Y.M.C.A. '39-'40. Future Plans: To go into
+> full-time Y.M.C.A. secretaryship upon graduation."
+
+He was directing Otoreke by 1942 and had held Association posts continuously since 1938. The blog had
+him running the camp during the war because he was.
+
+**Which half of the paragraph above failed, and why it matters for how the rest of this article is
+read.** "Never placed at Otoreke by any source held here" was correctly hedged and was true of the
+sources held when it was written. "**Does not appear on the Montreal staff at all until 1947**" is
+the half that overreached. It is a statement about the *annual reports* — which list appointments to
+branch secretaryships — generalised into a statement about the man. A student holding the Strathcona
+Hall managership and a branch secretaryship while enrolled at the college on a Training Fellowship
+would not be in those lists at all. **The blog's chronology was right and the annual reports were the
+wrong instrument for testing it.** The rest of that paragraph stands: the spelling is one *p*, and
+the McGerrigle dates are unaffected. Valma is still unattested anywhere here.
+
 **One loose end, raised as `p_456`.** The 1933 report has "the boys' section at **Camp Macaulay** was
 under the charge of C. J. McGerrigle, who chose his staff of councillors from members of this
 branch."^46 That camp name occurs nowhere else in this project. The surname does: the association's
@@ -439,7 +462,56 @@ Saint-Adolphe-d'Howard, in the Laurentians north of Montreal. The likeliest read
 — the programme run by or for the South Shore branch and filed under its section — but the report
 does not say so, and nothing else in this project connects Otoreke to the South Shore.
 
+### The college week, in the college's own calendar
+
+**Sir George Williams College put Camp Otoreke in its printed calendar, and indexed it.** The
+*Faculty of Arts, Science and Commerce Announcement 1941-1942* carries this, immediately after the
+paragraph on the Canadian Officers' Training Corps and the 110 hours of basic military training:^54
+
+> "**COLLEGE WEEK AT CAMP OTOREKE.** During the first week of September the Y.M.C.A. Camp Otoreke is
+> reserved for former and prospective students of the College and members of the faculty. This
+> activity offers students and staff an excellent opportunity for informal fellowship. Registrations
+> for the week at Camp Otoreke will be accepted at **the college office** during the month of August,
+> until **August 22nd**."
+
+It appears twice more in the index at the back, as "Camp Otoreke; college week" and as "Otoreke,
+Camp."^54 A calendar is the document a college uses to state what it formally offers, so this is not
+a notice about a camp some students happened to like: the site was reserved for one named week each
+September, the booking ran through the college office rather than the Y's, and the week was open to
+alumni and prospective students as well as to the enrolled. The same calendar places the college
+itself "on the second and third floors of the Drummond Street Y.M.C.A. building," with room for 2,500
+students.^54 The camp and the campus were both the Association's premises. See
+[[connections/institutional-lineage/sgw-concordia-connection|The SGW–Concordia Connection]].
+
+**And the camp was advertising for a market that was not boys.** From the advertising pages of the
+same college's 1942 yearbook:^54
+
+> "VACATION TIME IS CALLING YOU! / **CAMP OTOREKE** / An ideal vacation spot in the heart of the
+> Laurentians for **young men, young women and young married couples**. Open **June 6th to Sept.
+> 7th** — Canoeing, swimming, tennis, etc. **Camper-planned recreation.** Low Rates. INFORMATION FROM
+> YOUR LOCAL Y.M.C.A. A HOLIDAY YOU'LL NEVER FORGET."
+
+That gives the 1942 season's exact dates and a clientele including married couples. The phrase worth
+stopping on is **"camper-planned recreation,"** used as a selling point in 1942. The Montreal YMCA's
+1966-67 annual report quotes A. Ross Seaman describing Kamp Kanawana's philosophy as a "participatory
+democracy," with campers planning their own activities rather than following a fixed programme, and
+this wiki has treated that as the clearest statement of his approach. It was in a Montreal Y camp's
+advertising twenty-four years earlier, where it was expected to attract rather than to puzzle. This
+is not evidence that Seaman took the idea from Otoreke. It is evidence that he was working inside a
+local tradition rather than inventing one. See [[people/a-ross-seaman|A. Ross Seaman]].
+
 ## The Ski Lodge and Winter Operations (1940–1961 or later)
+
+**A named director of the ski lodge, from the Sir George yearbooks.** The 1943 volume gives George N.
+Barker's entry as "President S.C.M. Group '41-'42, National Council representative '43… **Dir.
+Otoreke Ski Lodge '43**, Executive Fellowship Secretaries Group '43, Member Montreal Christian Youth
+Com. '42-'43" — a graduate of Newmarket High School and of the International Accountants Society
+whose sports were "all sports especially handball, skiing, canoe tripping" and whose plans were
+"Y.M.C.A. war services, P. Graduate studies someday, (I hope)."^54 The sub-series described below
+lists the ski lodge's *files* and never says who ran it; Barker is a name in that gap. He is also one
+of the four men the Montreal YMCA's 1943 annual report names as completing Training Fellowships that
+year — another of whom, [[people/murray-shantz|Murray B. Shantz]], would direct Kamp Kanawana a
+decade later.
 
 Otoreke was not only a summer site. Concordia's finding aid gives the ski lodge an entire sub-series
 of its own — **P145/12H, "Ski lodge"** — running from 1929 to 1959 and fetched for the first time in
@@ -919,6 +991,7 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 51. "Note These Dates," *National Council Bulletin* Vol. 40 Nos. 2 and 3 (1967), YMCA of Canada [src_ia_ymca_national_council_bulletin_40_02, src_ia_ymca_national_council_bulletin_40_03]. Internet Archive items in the `ymca-montreal-fonds` collection. The same July entry appears in both issues. Found 2026-09-07 by the enumeration recorded at [f_5243]; read for the Otoreke line only. See [f_5246].
 52. *YMCA Year Book and Official Rosters*, the volumes for **1957** through **1965** [src_umedia_ymca_yearbook_series], read in the University of Minnesota Libraries' digitized run (ContentDM collection p16022coll351, Kautz Family YMCA Archives). Only the Quebec block of the Directory of Associations was read in each. See [f_5272].
 53. "Mr. Mac", *The Georgian* (Sir George Williams University), Vol. 25 No. 2, **3 October 1961** [src_ia_georgian_1961_10_03]. Internet Archive item `1961-10-03-georgian-vol-25-no-02`, found by downloading and grepping all 292 issues of the paper, the only route available since no index reaches this collection's contents. Quoted in full, with the adjacent column that could be misread, at `sources/cache/georgian/2026-09-07-all-292-georgian-issues-swept.txt`. See [f_5374].
+54. Sir George Williams College, *The Annual Yearbook 1942* [src_sgw_yearbook_1942]; and *The Annual Yearbook 1943* [src_sgw_yearbook_1943]; and the *Faculty of Arts, Science and Commerce Announcement 1941-1942* [src_sgw_calendar_1941_42]. All three transcribed in the relevant part at `sources/cache/sgw-publications/2026-09-07-sgw-calendar-and-yearbooks-1941-1943.txt`. Found 2026-09-07 by the accounted whole-corpus sweep of the Internet Archive collection `rma-concordia-publications` (16,491 text items) under p_479; none of the three was previously in `sources.json`. See [f_5396]–[f_5398], [f_5401].
 
 ## Research Notes
 

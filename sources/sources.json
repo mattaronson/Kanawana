@@ -30957,7 +30957,61 @@
       "notes": "THE EARLIEST DOCUMENT FOUND CONNECTING KANAWANA TO THE CANADIAN STANDARD EFFICIENCY TEST, and the one wiki/connections/institutional-lineage/wallace-forgie.md said it did not have when it was written the same day. A report of the McGill Y.M. Bible Study Groups' supper in Strathcona Hall on 25 February 1918. JOHN BRADFORD -- who supervised Camp Kanawana in 1917 per the directors index, and who appears here as 'of Central Y.M.C.A.' running the senior social service class -- described the CSET as 'the most recent developments in Boys' Work in Canada', gave its fourfold divisions as '1, Mental; 2, Physical; 3, Spiritual, and 4, Social', noted that 'under the head of Religion they group Poetry, Music, Art and Nature', and said that 'although begun in Canada, the idea is being taken up rapidly in the United States'. He then 'asked \"Doc.\" Busby to give his point of view. The latter told about the valuable work along this line being done at the KANAWANA BOYS' CAMP IN THE LAURENTIANS.' Busby occurs nowhere else in this project. Found by the whole-corpus sweep of 9,890 McGill student publication items under p_479; 'Kanawana' occurs once in the issue. Transcribed complete in the cache. See f_5391 through f_5395.",
       "read_state": "extracted",
       "read_state_basis": "direct: full djvu text downloaded 2026-09-07, the report read and transcribed word for word, and the remaining text greped for Kanawana (1 occurrence, this report), Busby (1), Bradford (4), Forgie (0) and Statten (0)."
+    },
+    {
+      "source_id": "src_sgw_calendar_1941_42",
+      "type": "catalog_reference",
+      "title": "Sir George Williams College, \"Faculty of Arts, Science and Commerce Announcement 1941-1942\"",
+      "date": "1941",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/1941-1942",
+      "cache_path": "sources/cache/sgw-publications/2026-09-07-sgw-calendar-and-yearbooks-1941-1943.txt",
+      "char_count": 171462,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.51",
+      "reliability": "primary",
+      "notes": "THE COLLEGE'S OWN PRINTED CALENDAR, CARRYING CAMP OTOREKE AS AN INDEXED ENTRY. 'COLLEGE WEEK AT CAMP OTOREKE. During the first week of September the Y.M.C.A. Camp Otoreke is reserved for former and prospective students of the College and members of the faculty... Registrations for the week at Camp Otoreke will be accepted at the college office during the month of August, until August 22nd.' Indexed twice at the back, as 'Camp Otoreke; college week' and 'Otoreke, Camp'. A calendar states what a college formally offers, and the booking ran through the college office rather than the Y's. Also locates the college: 'the second and third floors of the Drummond Street Y.M.C.A. building', accommodating 2,500 students. Found by the accounted sweep of rma-concordia-publications under p_479. Term counts run rather than assumed: Otoreke 5, Kanawana 0, Fellowship 1, Hupfield 0, Barker 0. See f_5396.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded 2026-09-07, every Otoreke occurrence read in context and the College Week paragraph transcribed complete."
+    },
+    {
+      "source_id": "src_sgw_yearbook_1942",
+      "type": "periodical",
+      "title": "Sir George Williams College, \"The Annual Yearbook 1942\"",
+      "date": "1942",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/1942-the-annual-yearbook",
+      "cache_path": "sources/cache/sgw-publications/2026-09-07-sgw-calendar-and-yearbooks-1941-1943.txt",
+      "char_count": 228830,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.51",
+      "reliability": "primary",
+      "notes": "NAMES RON HUPFIELD 'DIRECTOR OF \"Y\" CAMP OTOREKE' IN HIS GRADUATING ENTRY, WHICH CONTRADICTS wiki/site/camp-otoreke.md. That article concluded Hupfield 'does not appear on the Montreal staff at all until 1947 and is never placed at Otoreke by any source held here', and on that basis called a camp blog's account of him running the camp during the war 'not attested'. The entry attests it and lists Association posts from 1938 onward: Religious Education Council of Quebec chairman '38-'39, Assistant Young Men's Secretary at Central '39-'40, Secretary of North Branch '40-'41, Manager of Strathcona Hall '41-'42, 'Y' handball champion, Secretary of the YMCA Ski Club, 'Pres. of Fellowship Men, '40, '41', and 'Y.M.C.A. Fellowship student'. ALSO CARRIES A CAMP OTOREKE ADVERTISEMENT: 'An ideal vacation spot in the heart of the Laurentians for young men, young women and young married couples. Open June 6th to Sept. 7th... CAMPER-PLANNED RECREATION. Low Rates.' -- the 1942 season dates, a clientele including married couples, and camper-planned programming as a selling point twenty-four years before Seaman's 'participatory democracy'. Term counts run: Otoreke 2, Kanawana 0, Fellowship 8, Hupfield 1, Barker 1. See f_5397, f_5398, f_5401.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded 2026-09-07; both Otoreke occurrences and all eight Fellowship occurrences read in context and transcribed."
+    },
+    {
+      "source_id": "src_sgw_yearbook_1943",
+      "type": "periodical",
+      "title": "Sir George Williams College, \"The Annual Yearbook 1943\"",
+      "date": "1943",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/1943-the-annual-yearbook",
+      "cache_path": "sources/cache/sgw-publications/2026-09-07-sgw-calendar-and-yearbooks-1941-1943.txt",
+      "char_count": 191404,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.51",
+      "reliability": "primary",
+      "notes": "THE YMCA TRAINING FELLOWSHIP DOCUMENTED FROM INSIDE, IN THE SAME YEAR THE MONTREAL ANNUAL REPORT NAMES ITS COHORT. MacArthur Pat. Gordon's entry says what the post was: 'Y.M.C.A. SECRETARY IN TRAINING... HAVE BEEN MTL. FELLOWSHIP SECRETARY FOR 2 YEARS, with Central Branch doing Hi-Y & Gra-Y club work and in Rosemont Community doing Community Boys Work' -- a paid apprenticeship worked in the branches with college attendance as its academic half, which is what A. Ross Seaman's obituary means by 'he attended Sir George as a YMCA Fellowship Secretary'. GEORGE N. BARKER is 'DIR. OTOREKE SKI LODGE '43' and of the 'Executive Fellowship Secretaries Group '43'. MURRAY B. SHANTZ, later Director of Kamp Kanawana, is 'Fellowship student', 'President S.C.M. 1943, sec'y Fellowship 1942'. wiki/people/murray-shantz.md already quotes the 1943 annual report naming the cohort -- 'Murray Shantz, George Barker, Gordon Patrick and Lloyd Welton complete their Training Fellowships' -- and THREE OF THOSE FOUR ARE IN THIS YEARBOOK as Sir George students, Welton on the basketball team beside Shantz; so the Training Fellowship and enrolment at the college were the same thing from two ends. The fellows acted as a body: a volleyball team, a six-week class gymnastics course they taught each other, voluntary waiters at the athletic awards 'under the able guidance of head-waiter G. N. Barker'. Term counts run: Otoreke 1, Kanawana 0, Fellowship 11, Hupfield 2, Barker 5. See f_5399, f_5400, f_5402, f_5403.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded 2026-09-07; the Otoreke occurrence and all eleven Fellowship occurrences read in context, and the three graduating entries transcribed in full."
     }
   ],
-  "source_count": 1722
+  "source_count": 1725
 }

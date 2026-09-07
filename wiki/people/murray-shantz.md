@@ -1,7 +1,7 @@
 # Murray B. Shantz
 
-*Status: draft | Sources: 4*
-*Last Updated: 2026-08-14*
+*Status: draft | Sources: 5*
+*Last Updated: 2026-09-07 (his student years at Sir George, from the 1943 yearbook)*
 
 ## Overview
 
@@ -14,6 +14,8 @@ The single naming source is the printed agenda of the Montreal YMCA's annual mee
 > "MURRAY B. SHANTZ, Assistant Metropolitan Program Secretary **and Director of Kamp Kanawana**."^1
 
 **He entered the profession as a Montreal trainee.** The 1943 annual report records that "**Murray Shantz**, George Barker, Gordon Patrick and Lloyd Welton complete their **Training Fellowships**" — the association's own scheme for "young men looking to the Assn. secretaryship as a career."^2 He is therefore a Montreal product, formed by the association eleven years before it appointed him to camping.
+
+**The college end of that fellowship is now documented, and it was Sir George Williams.** Shantz's graduating entry in the college's yearbook for 1943 reads: "Activities: **Georgian basketball team, S.C.M., Fellowship student**. Office: **President S.C.M. 1943, sec'y Fellowship 1942**. Former Education: **St. Catharines Collegiate Institute**. Outside Interests: Looking after …. Future Plans: Rather inclined to think that the government will help me to decide this."^5 So the Training Fellowship the annual report records and enrolment at Sir George were the same thing seen from two ends — three of the four men named in that report appear in this yearbook as students of the college, "L. Welton" beside "M. Shantz" in the basketball team's player list.^5 It also supplies the first facts about Shantz before the Y: an Ontario schooling at St. Catharines, a basketball player, elected secretary of the Fellowship in 1942 and president of the Student Christian Movement in 1943. The flat joke at the end is a graduating class of 1943 writing about conscription. See [[connections/institutional-lineage/sgw-concordia-connection|The SGW–Concordia Connection]].
 
 His arrival and departure are documented separately and bracket the tenure. He came from the **General Secretaryship of the Cornwall YMCA**, appointed Assistant Metropolitan Program Secretary on **15 September 1954** — filling the portfolio Roy Locke had vacated a fortnight earlier.^1 He left in 1959: "A. R. Seaman became Metropolitan Program Secretary, Secretary and Director of Boys' Camping, succeeding **Murray G. Shantz**, who joined the YMCA National Council staff."^1 (The "G." is a transcription slip; every other appearance gives B.)
 
@@ -48,6 +50,7 @@ That "Murray G." is an OCR or typographic slip for Murray B.; the 1962 report co
 2. YMCA of Montreal Annual Report 1943, Training Fellowships [src_ia_ymca_montreal_annual_reports_collection].
 3. Camp Perrot Annual Report 1958, Boys' Camping Committee membership [src_ia_camp_perrot_collection].
 4. *The Lookout* Vol. 1 No. 3, autumn 1993, alumni roll [src_ia_the_lookout_1993].
+5. Sir George Williams College, *The Annual Yearbook 1943* [src_sgw_yearbook_1943]. Shantz's graduating entry, transcribed at `sources/cache/sgw-publications/2026-09-07-sgw-calendar-and-yearbooks-1941-1943.txt`. Found 2026-09-07 by the accounted sweep of `rma-concordia-publications` under p_479. See [f_5400], [f_5402].
 
 ## Research Notes
 
