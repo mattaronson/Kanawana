@@ -1,8 +1,8 @@
 {
-  "version": "8.93",
-  "kb_version": "8.93",
+  "version": "8.95",
+  "kb_version": "8.95",
   "migrated_from": "3.3",
-  "fact_count": 5221,
+  "fact_count": 5223,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93775,7 +93775,7 @@
         "Internet Archive",
         "Kamp Kanawana"
       ],
-      "claim": "THE INTERNET ARCHIVE HOLDS NINETY-SEVEN ITEMS MATCHING 'KANAWANA', AND THIS PROJECT ALREADY HELD NINETY-SIX OF THEM. A full advancedsearch enumeration on 2026-09-07 (q=kanawana, 100 rows, numFound 97) was checked item by item against sources.json, kb/facts.json and the cache filenames. EXACTLY ONE was unrecorded anywhere: cutvqc-YMCA_Sommet_international_de_lengagement_jeunesse, the 2013 CUTV film (f_5238). Everything else -- the Green Triangle run, the Ka-News run, the director's reports, the brochures, the CFCF broadcasts, the maps, the postcard, the Lookout, the two P0145 photographs -- is already in the project. TWO THINGS THE ENUMERATION SETTLES BEYOND THAT. FIRST, THE DIRECTOR'S REPORTS ON THE INTERNET ARCHIVE RUN 1971, 1973, 1974, 1975, 1976, 1977, 1978, 1979 AND THEN JUMP TO 1987, with the annual reports of 1964, 1965, 1966, 1969 and 1970 before them. There is no 1980-1986 report there, which independently corroborates the 'genuine blank' directors-index.md records for those years rather than leaving it as an absence in this project's own collecting. SECOND, NOTHING ON THE INTERNET ARCHIVE ANSWERS p_459: no item dated 1985 or 1986 exists at all, so if Kanawana wrote a camp history for the International Youth Year kit of May 1985 or for the association's fiftieth-anniversary invitation of 1986, it is not there. DO NOT RE-ENUMERATE THIS SEARCH; the identifier list and the method are in this fact.",
+      "claim": "[QUALIFIED 2026-09-07, AND THE QUALIFICATION MATTERS MORE THAN THE COUNT: see f_5260. This enumeration, and the instruction 'DO NOT RE-ENUMERATE THIS SEARCH' below, cover the Internet Archive's CATALOGUE and not its contents. advancedsearch.php is metadata-only and says so when asked otherwise -- sin=TXT returns UNSUPPORTED_VALUE -- and the Archive's full-text endpoints are unreachable from this environment. So ninety-seven items match the camp's name in TITLES, DESCRIPTIONS AND SUBJECTS; a document that mentions Kanawana only in its text is invisible to it. The 341 issues of The Georgian in the same archive are the case in point.] THE INTERNET ARCHIVE HOLDS NINETY-SEVEN ITEMS MATCHING 'KANAWANA', AND THIS PROJECT ALREADY HELD NINETY-SIX OF THEM. A full advancedsearch enumeration on 2026-09-07 (q=kanawana, 100 rows, numFound 97) was checked item by item against sources.json, kb/facts.json and the cache filenames. EXACTLY ONE was unrecorded anywhere: cutvqc-YMCA_Sommet_international_de_lengagement_jeunesse, the 2013 CUTV film (f_5238). Everything else -- the Green Triangle run, the Ka-News run, the director's reports, the brochures, the CFCF broadcasts, the maps, the postcard, the Lookout, the two P0145 photographs -- is already in the project. TWO THINGS THE ENUMERATION SETTLES BEYOND THAT. FIRST, THE DIRECTOR'S REPORTS ON THE INTERNET ARCHIVE RUN 1971, 1973, 1974, 1975, 1976, 1977, 1978, 1979 AND THEN JUMP TO 1987, with the annual reports of 1964, 1965, 1966, 1969 and 1970 before them. There is no 1980-1986 report there, which independently corroborates the 'genuine blank' directors-index.md records for those years rather than leaving it as an absence in this project's own collecting. SECOND, NOTHING ON THE INTERNET ARCHIVE ANSWERS p_459: no item dated 1985 or 1986 exists at all, so if Kanawana wrote a camp history for the International Youth Year kit of May 1985 or for the association's fiftieth-anniversary invitation of 1986, it is not there. DO NOT RE-ENUMERATE THIS SEARCH; the identifier list and the method are in this fact.",
       "sources": [
         "src_ia_cutv_ymca_youth_summit_2013"
       ],
@@ -94163,6 +94163,43 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.93",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5260",
+      "category": "method",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Internet Archive",
+        "The Georgian",
+        "Kamp Kanawana"
+      ],
+      "claim": "EVERY INTERNET ARCHIVE ENUMERATION THIS PROJECT HAS RUN IS A METADATA SEARCH, AND THE ARCHIVE ITSELF SAYS SO. archive.org/advancedsearch.php, the endpoint behind tonight's sweeps and behind f_5239's 'do not re-enumerate', REJECTS the full-text parameter outright: q=kanawana&sin=TXT returns '{\"error\":\"[UNSUPPORTED_VALUE] A requested parameter has an inappropriate value TXT for request parameter sin\"}'. So it matches TITLES, DESCRIPTIONS AND SUBJECTS, NOT THE WORDS INSIDE A DOCUMENT. THE CONSEQUENCE IS SHARP AND WAS NEARLY MISSED. The Archive holds 341 items titled for THE GEORGIAN, Sir George Williams' student newspaper, in the rma-concordia-publications collection, and sgw-concordia-connection.md has asked since 2026-07-09 whether it carried anything on the camp. NONE OF THEM APPEARS IN A SEARCH ON 'KANAWANA' -- and that is not evidence that they never mention it. A Georgian issue could print a page about the camp and remain invisible to every enumeration run tonight, because the camp's name would be in the ink and not in the catalogue. THE SAME QUALIFICATION APPLIES TO THE 1,120-ITEM FONDS SWEEP AND TO THE NINETY-SEVEN 'Kanawana' ITEMS: those are complete as METADATA enumerations and say nothing about contents. THE FULL-TEXT ENDPOINTS ARE NOT REACHABLE FROM HERE: ia-fts.archive.org/api/v1/search/hits returns 000 through this environment's proxy, and archive.org/services/search/beta/page_production/scrape.json returns 404. THE ONE ROUTE THAT DOES REACH INTERNET ARCHIVE FULL TEXT FROM HERE is Open Library's search/inside.json, which earlier sessions established as full-text search over the IA BOOK corpus including lending-restricted books -- but it is a book index, and whether a Concordia student newspaper is in it is untested. THAT TEST IS THE NEXT STEP, and until it is run, 'the Internet Archive has been enumerated for Kanawana' must be read as 'its catalogue has'.",
+      "sources": [
+        "src_ia_ymca_montreal_fonds_enumeration_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.94",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5261",
+      "category": "method",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Open Library",
+        "Internet Archive",
+        "The Green Triangle",
+        "The Georgian"
+      ],
+      "claim": "OPEN LIBRARY'S SEARCH-INSIDE DOES NOT INDEX THE INTERNET ARCHIVE'S PERIODICAL SCANS, AND THE TEST WAS CONTROLLED. p_463 asked whether the one full-text route into the Internet Archive that works from this environment reaches non-book texts such as the Concordia collection's newspaper and bulletin scans. IT DOES NOT. THE TEST: a distinctive phrase taken from a document this project already holds -- 'chronicle of events. This essay purposes to deal with events at Kanawana', from A History of Kamp Kanawana 1935, an Internet Archive item -- returns ZERO from openlibrary.org/search/inside.json. THE CONTROL, run in the same minute so a zero could not be blamed on the endpoint: the ordinary phrase 'the twenty-sixth year of its existence' returns NINETEEN hits, all book identifiers of the ...0000xxxx form. The search works; the item is not in it. TWO STRUCTURAL CONFIRMATIONS: searching inside for 'the Green Triangle' returns 2,118 hits and not one is a Green Triangle issue, and searching for 'Sir George Williams College' returns 862 and not one is an issue of The Georgian. Every identifier that comes back has book shape. SO THE EARLIER CHARACTERISATION NEEDS ITS LIMIT SPELLED OUT: search/inside.json is full-text search over the Internet Archive's BOOK corpus, including lending-restricted books, and that is all. It is not a full-text search of the Internet Archive. WHAT THIS LEAVES: the 341 issues of The Georgian, the McGill Daily run, and every other periodical scan on the Archive are searchable only through archive.org's OWN full-text search, whose endpoints are unreachable here (f_5260). That is now a browser task, not a research dead end.",
+      "sources": [
+        "src_ia_ymca_montreal_fonds_enumeration_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.95",
       "added_by": "ralph_loop"
     }
   ]

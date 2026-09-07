@@ -9,7 +9,7 @@ must throw a switch) and `trent-access-plan.md` (a reading room or a paid retrie
 
 ## Why this document exists
 
-Seven distinct obstacles have been tested and named this session (f_5207, f_5213, f_5214, f_5215, f_5229).
+Eight distinct obstacles have been tested and named (f_5207, f_5213, f_5214, f_5215, f_5229, f_5260, f_5261) — the eighth being that this project's only working full-text route into the Internet Archive covers books alone.
 **Not one of them is an institution refusing this project.**
 
 | What you see | What it is | Hosts |
@@ -82,6 +82,18 @@ prints in the historical note at the foot of each regulation. Both LegisQuébec 
 blocked here. **`p_388`.**
 *If the historical note is thin,* the Gazette officielle du Québec for 1977-78 carries the decree itself,
 and BAnQ numérique has the Gazette.
+
+### 10. The Georgian and the McGill Daily — archive.org's own full-text search
+**341 issues** of Sir George Williams' student newspaper sit on the Internet Archive in the
+`rma-concordia-publications` collection, and the McGill Daily run is there too. `sgw-concordia-connection.md`
+has asked since July whether either covered the camp. **Neither can be searched from here**, and the reason
+is precise: `advancedsearch.php` is metadata-only and says so (`sin=TXT` → `UNSUPPORTED_VALUE`), the
+Archive's full-text endpoints answer `000` or `404` through this proxy, and Open Library's search-inside —
+the one full-text route that does work here — indexes only the **book** corpus. That last was tested with a
+control: a phrase from a Kanawana document *held on the Archive* returns zero, while an ordinary phrase
+returns nineteen book hits in the same minute (f_5261).
+**A person at archive.org can type `kanawana` into the search box with "search text contents" selected.**
+That is the whole task. **`p_463`.**
 
 ## What this list is not
 
