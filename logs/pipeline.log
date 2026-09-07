@@ -7445,3 +7445,22 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   p_497 narrowed a second time tonight. What still needs images: the counsellor block (only 1956 readable: 21 aged 16-18, 7 aged 19-21,
   3 aged 22-27) and the counts for this geographical block. Everything else it originally asked for came from other impressions.
   KB v10.68 -> v10.69, 5,631 -> 5,632.
+2026-09-07T19:43:06Z  p_491  ATOMIC UNIT: why the Camp Becsies records stop in 1971.
+  camp-becsies.md said, flatly and without explanation, that the archival records end in 1971 and the lake was afterwards developed
+  residentially. Kanawana's own reports for the three years running up to it say what happened, and READ AS A RUN THEY REVERSE THEMSELVES
+  -- which is the whole argument for the rule.
+  1969, among strategic aims: "the development of our property on Lake Becsies to realize its full potential".
+  1970: "Our second group are young people (ages 16-30 years) that appear at camp ... looking for a place to swim, crash, or just get away
+  from it! This group frequented Becsies this Summer." And the recommendation is to LET THEM: "Today there are many young people on the
+  move and in most cases with nowhere to go. We should consider OPENING BECSIES FOR USE BY THESE YOUTH." Same report treats it as
+  rentable plant wanting its own eating facilities and a full-time employee on site.
+  1971, twelve months later: "our Becsies property is over-run by 'locals' and wandering youth. It should become a 'hostel in the north',
+  or better, TO SELL IT NOW and use the proceeds to equip our hikes and trips." And: "It has become too well known. To place a guard on
+  the property would be poor local P.R. and only a gesture." And of Kanawana itself: "The camp began, at one point, to look like a drop-in
+  center for almost everyone (Becsies had more visitors dropping in than we did however)."
+  Three years take one piece of land from asset to opportunity to liability, and the 1970 report proposes opening it to precisely the
+  population the 1971 report names as the problem. Neither acknowledges the other. It is the last recorded institutional discussion of the
+  property and the nearest thing to a reason the record holds for what follows -- stated that way, not as a cause of the sale.
+  Caught in passing: I wrote src_ymf_1971_kamp_kanawana_directors_report into the fact from memory; the actual id is
+  src_ia_kanawana_report_1971. Fixed before it went anywhere. Checking a source id against sources.json costs one line.
+  KB v10.69 -> v10.70, 5,632 -> 5,633.

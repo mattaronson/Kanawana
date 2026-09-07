@@ -1,8 +1,8 @@
 {
-  "version": "10.69",
-  "kb_version": "10.69",
+  "version": "10.70",
+  "kb_version": "10.70",
   "migrated_from": "3.3",
-  "fact_count": 5632,
+  "fact_count": 5633,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101536,6 +101536,26 @@
       "date_ref": "1956-1966",
       "conflicts_with": [],
       "added_version": "10.69",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5671",
+      "claim": "WHY THE CAMP BECSIES RECORDS STOP IN 1971: THE PROPERTY WAS OVER-RUN, AND THE DIRECTOR ASKED TO SELL IT. The Becsies article states that the archival records end in 1971 and that the lake was afterwards developed residentially, without saying what happened. Kanawana's own reports for three consecutive years say, and READ AS A RUN THEY REVERSE THEMSELVES. 1969, among the camp's strategic aims: 'iv) The development of our property on Lake Becsies to realize its full potential'. 1970, describing who was turning up: 'Our second group are young people (ages 16-30 years) that appear at camp -- at various parts of the camp -- looking for a place to swim, crash, or just get away from it! This group frequented Becsies this Summer. At the point of writing a young couple are located at Wilson.' The same report's recommendation is to WELCOME them: 'Today there are many young people on the move and in most cases with nowhere to go. We should consider OPENING BECSIES FOR USE BY THESE YOUTH.' It also treats Becsies as rentable plant, wanting 'a special area (ie Becsies or Page's) with its own eating, etc., facilities' and noting 'if we are going to continue to rent we need better facilities, a list of conditions for rentals, and a full-time employee on site'. 1971, twelve months later: 'our Becsies property is over-run by \"locals\" and wandering youth. It should become a \"hostel in the north\", or better, TO SELL IT NOW and use the proceeds to equip our hikes and trips.' The same report elaborates: 'Our Becsies property has become over-run with the \"locals\" using it for weekend picnics and old staff and Campers using it for a place to \"crash\". IT HAS BECOME TOO WELL KNOWN. To place a guard on the property would be poor local P.R. and only a gesture.' And, on Kanawana proper: 'The camp began, at one point, to look like a drop-in center for almost everyone (BECSIES HAD MORE VISITORS DROPPING IN THAN WE DID HOWEVER).' THREE YEARS TAKE THE SAME PIECE OF LAND FROM ASSET TO OPPORTUNITY TO LIABILITY, and the 1970 report proposes opening it to exactly the population the 1971 report names as the problem. Neither report acknowledges the other. This is the last recorded institutional discussion of the property before the records end.",
+      "sources": [
+        "src_ia_kanawana_report_1969",
+        "src_ia_kanawana_report_1970",
+        "src_ia_kanawana_report_1971"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Camp Becsies",
+        "Lake Becsies",
+        "Lake Wilson"
+      ],
+      "date_ref": "1969-1971",
+      "conflicts_with": [],
+      "added_version": "10.70",
       "added_by": "ralph_loop"
     }
   ]

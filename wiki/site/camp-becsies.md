@@ -1,7 +1,7 @@
 # Camp Becsies
 
-*Status: E1-reviewed | Sources: 16*
-*Last Updated: 2026-09-07 (Becsies campers in Kanawana's chapel, and a girls' section by 1935)*
+*Status: E1-reviewed | Sources: 17*
+*Last Updated: 2026-09-07 (why the records stop in 1971)*
 
 ## Overview
 
@@ -82,6 +82,37 @@ That reframes this second period. It was not a separate camp reviving on its own
 
 It also puts a small irony in the record. The following year the same association explained a fall in Kanawana's own attendance — 420 boys, down from 535 — partly by "an increasing popularity of **family camping**." The competing product was its own, a mile and a half away. Neither report draws the connection, and this article does not claim the two are cause and effect; the association named three causes and family camping was one of them.
 
+### Why the records stop in 1971
+
+This article has said, without explanation, that the records end in 1971. Kanawana's own reports for the
+three years running up to it say what happened, and **read as a run they reverse themselves.**
+
+**1969** lists among the camp's strategic aims "the development of our property on Lake Becsies to
+realize its full potential".^17
+
+**1970** describes who was actually turning up. Under a heading about visitors: "Our second group are
+young people (ages 16-30 years) that appear at camp — at various parts of the camp — looking for a place
+to swim, **crash**, or just get away from it! **This group frequented Becsies this Summer.** At the point
+of writing a young couple are located at [[site/lake-wilson|Wilson]]." The report's recommendation is to
+**let them**: "Today there are many young people on the move and in most cases with nowhere to go. **We
+should consider opening Becsies for use by these youth.**" The same report treats the place as rentable
+plant, wanting "a special area (ie Becsies or Pagé's) with its own eating, etc., facilities" and noting
+that "if we are going to continue to rent we need better facilities, a list of conditions for rentals,
+and a full-time employee on site".^17
+
+**1971**, twelve months later: "our Becsies property is **over-run by 'locals' and wandering youth**. It
+should become a 'hostel in the north', or better, **to sell it now** and use the proceeds to equip our
+hikes and trips." The body of the same report elaborates: "Our Becsies property has become over-run with
+the 'locals' using it for weekend picnics and old staff and Campers using it for a place to 'crash'. **It
+has become too well known.** To place a guard on the property would be poor local P.R. and only a
+gesture." And, of Kanawana itself: "The camp began, at one point, to look like a drop-in center for
+almost everyone (**Becsies had more visitors dropping in than we did however**)."^17
+
+**Three years take the same piece of land from asset to opportunity to liability**, and the 1970 report
+proposes opening it to precisely the population the 1971 report names as the problem. Neither
+acknowledges the other. This is the last recorded institutional discussion of the property, and it is the
+nearest thing to a reason the record has for what follows. [f_5671]
+
 ## After the YMCA (1971–present)
 
 Following the end of Camp Becsies records in 1971, the lake was developed as a residential area. Today approximately 240 homes (mix of primary residences and vacation properties) line its shores.^5 The Association du Lac des Becs-scie was formed in January 2003 (succeeding an earlier ecological association that became inactive) and has over 100 member homes.^5 A heritage-listed chapel, Sainte-Thérèse-du-Lac-des-Becs-Scies, was built on the lake in 1950-1951 during the gap between the camp's two operational periods.^7 The lake also has early settlement history: a traditional log house built by Louis Alary was purchased in 1928 by Dr. Joseph-Octave Lapointe, who later served as mayor of Saint-Sauveur (1944-1945).^5
@@ -144,3 +175,4 @@ went both ways across the gender line.
 14. *The Green Triangle*, Vol. IV Nos. 5 and 6, **20** and **27 July 1935** [src_ymf_the_green_triangle_1935_07_20, src_ymf_the_green_triangle_1935_07_27]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 15. *The Green Triangle*, Vol. IV No. 7, **4 August 1935**, and Volume 5, **Re-union Number, 17 October 1936** [src_ymf_the_green_triangle_1935_08_04, src_ymf_the_green_triangle_1936_10_17]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 16. YMCA of Montreal annual report for the year ending 30 April **1927** [src_ymf_sgw_ymca_annual_report_1927], on the **1926** season: "Hikes were organized to Lac Manitou, Val Morin, Sixteen Island Lake, L'Achigan, **Becsis**, Morin Heights, Otoreke and Shawbridge, with total attendance of **240**." At [f_5646].
+17. Kamp Kanawana's own annual reports for **1969** [src_ia_kanawana_report_1969] and **1970** [src_ia_kanawana_report_1970] and director's report for **1971** [src_ia_kanawana_report_1971], cached in `sources/cache/ymca-montreal-fonds/`. Read as a run 2026-09-07 under `p_491`; the 1969-to-1971 reversal over the **Becsies** property, from "full potential" to "sell it now", is at [f_5671].
