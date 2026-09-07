@@ -1,8 +1,8 @@
 {
-  "version": "10.42",
-  "kb_version": "10.42",
+  "version": "10.43",
+  "kb_version": "10.43",
   "migrated_from": "3.3",
-  "fact_count": 5593,
+  "fact_count": 5594,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100774,6 +100774,29 @@
       "date_ref": "1935-06-23",
       "conflicts_with": [],
       "added_version": "10.42",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5632",
+      "claim": "FOUR SEASONS OF THE MEN'S CAMP AT LAC ST. JOSEPH, 1913-1916, RECOVERED FROM REPORTS THIS PROJECT HAS HELD ALL ALONG. camp-otoreke.md states that the 216 of 1920 'is the earliest Otoreke attendance figure this project holds'. It is not, by seven years, and the reason nobody found the earlier ones is specific: the annual reports give the two camps in ADJACENT SENTENCES, and every pass through them read the Kanawana sentence and stopped.\n\nDating follows meta/attendance-series.md's Dating note -- the fiscal year ended 30 April through the 1925 report, so a report describes the PREVIOUS summer -- and is not re-derived here.\n\n1913 (report for the year ending 30 April 1914): 'The Men's Camp as [at] Lake St. Joseph, IN CHARGE OF MR. H. C. PATTERSON, was open FROM JULY 5TH TO SEPTEMBER 2ND, WITH 160 MEN OUT.' The sentence immediately following is the one already in this project: 'The Boys' Camp at Lake Kanawana was open for July and August with 162 boys.'\n1914 (stated retrospectively in the 1916 report as 'the previous season'): 160.\n1915 (report for the year ending 30 April 1916): 'The Men's Camp was open FROM JULY 9TH TO AUGUST 23RD, in charge of MR. H. C. PATTERSON, ASSISTANT PHYSICAL DIRECTOR AT CENTRAL. The total attendance for the summer was 141 compared with 160 the previous season. The Camp showed a surplus as follows: -- BOYS, $198.40; MEN'S, $208.57.'\n1916 (report for the year ending 30 April 1917): 'The Men's Camp was open last season FROM JULY 14TH TO AUGUST 19TH with a TOTAL ATTENDANCE OF 131 -- from the CENTRAL BRANCH 92, NORTH BRANCH 26, RAILROAD 8, WESTMOUNT 4, McGILL 1. MR. HENDERSON had charge during the two weeks in July, followed by MR. MacLAREN for one week, and MR. HOLLIDAY for the last two weeks. ... A credit balance of $40.60 remained.' The branch figures sum to 131 exactly, unlike the 1921 set which does not.\n\nSO THE MEN'S CAMP SHRANK STEADILY -- 160, 160, 141, 131 -- and its season shortened with it: nine weeks in 1913, six and a half in 1915, five in 1916. Wartime is the obvious reading and is not asserted here; the reports give no reason.\n\nAND THE ASSOCIATION DID NOT CALL IT OTORE KE. Controlled by counting both names across every annual report held for 1913-1922: 'Otoreke' occurs ZERO times in the reports of 1913, 1914, 1915, 1916, 1917, 1918, 1919 and 1920, and first appears in the 1921-1922 volume as a heading, 'CAMP OTOREKE -- The Camp for men was again conducted during the months of July and August'. THE CONTROL THAT MAKES THIS MEAN SOMETHING: 'Kanawana' occurs in those same reports throughout, one to four times a volume. So the reports used the boys' camp's proper name from 1913 while calling the men's camp descriptively for another eight years. camp-otoreke.md dates the rename from Camp Jubilee to 1909. Both can be true -- an annual report may use a descriptive label for a camp that had a name -- but twelve years of the association's own reporting never once using the name is worth recording against a rename date sourced elsewhere.\n\nIDENTIFICATION, STATED AS A READING: that the 'Men's Camp at Lake St. Joseph' of 1913-1916 is Otoreke rests on the same lake, the same adult clientele, and the same institution, four to seven years after the stated rename. No document in this KB joins the two names.\n\n'MR. HOLLIDAY', in charge for the last two weeks of 1916, is a candidate for the W. J. Holliday this project already has an article on; the report gives no initials, so it is a candidate and not an identification. Henderson and MacLaren are new names.\n\nMETHOD: this came out of applying the p_487 verification to src_ymf_sgw_ymca_annual_report_1914, an asserted read carrying only two facts against 23,104 characters -- the thin-yield tell. The yield was thin because the read was half a read, not because the document was thin. THE GENERAL FORM OF THE FAILURE IS WORTH NAMING: a keyword-driven read finds its keyword and skips the sentence next door, and in these reports the sentence next door is the sibling camp.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1914",
+        "src_ymf_sgw_ymca_annual_report_1916",
+        "src_ymf_sgw_ymca_annual_report_1917",
+        "src_ymf_sgw_ymca_annual_report_1921_1922"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Camp Otoreke",
+        "H. C. Patterson",
+        "W. J. Holliday",
+        "Lac St. Joseph",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1913-1916",
+      "conflicts_with": [],
+      "added_version": "10.43",
       "added_by": "ralph_loop"
     }
   ]

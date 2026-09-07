@@ -6631,3 +6631,36 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   cannot be automated because "what is distinctive" requires reading. Ten minutes on a 4,928-character
   document, clean verdict. Written into p_487, with src_history_1935 recorded as CLEARED so nobody
   re-derives it, and the instruction to work the rest shortest-first and record each verdict.
+
+2026-09-07T17:02:52Z  p_487 / p_491 -- unit: four seasons of the men's camp, from reports held all along.
+  Applied the p_487 method to src_ymf_sgw_ymca_annual_report_1914, chosen because it carried only TWO
+  facts against 23,104 characters -- the thin-yield tell. The yield was thin because THE READ WAS HALF A
+  READ, not because the document was thin.
+  The annual reports give the two camps in ADJACENT SENTENCES. "The Men's Camp as [at] Lake St. Joseph,
+  in charge of Mr. H. C. Patterson, was open from July 5th to September 2nd, with 160 men out. The Boys'
+  Camp at Lake Kanawana was open for July and August with 162 boys." Every pass through these reports
+  extracted the second sentence and stopped at the full stop. The general form: a keyword-driven read
+  finds its keyword and skips the sentence next door, and here the sentence next door is the sibling camp.
+  RECOVERED, dating by meta/attendance-series.md's Dating note rather than re-derived: 1913 = 160 men,
+  5 July to 2 September, H. C. Patterson; 1914 = 160 (stated retrospectively); 1915 = 141, 9 July to 23
+  August, Patterson, "Assistant Physical Director at Central", surplus $208.57 against the boys' camp's
+  $198.40; 1916 = 131, 14 July to 19 August, branch breakdown Central 92 / North 26 / Railroad 8 /
+  Westmount 4 / McGill 1 summing exactly, staff rotation Henderson-MacLaren-Holliday, credit balance
+  $40.60. The camp shrank and its season shortened together, nine weeks to five. The reports give no
+  reason and none is asserted here.
+  AND A CONTROLLED NAMING RESULT. "Otoreke" occurs ZERO times in the annual reports of 1913, 1914, 1915,
+  1916, 1917, 1918, 1919 and 1920, first appearing in the 1921-1922 volume as a heading. THE CONTROL:
+  "Kanawana" occurs in those same reports throughout, one to four times a volume. So the association used
+  the boys' camp's proper name from 1913 and described the men's camp by function for another eight
+  years, against this wiki's rename date of 1909. Both can be true; the twelve-year silence is recorded,
+  not resolved.
+  CORRECTED IN PLACE with the old text struck through: camp-otoreke.md said "The 216 of 1920 is the
+  earliest Otoreke attendance figure this project holds." It was the earliest this ARTICLE carried, which
+  is a different claim, and the four earlier seasons were in the cache the whole time.
+  Added f_5632 (kb v10.43, 5594 facts). New section, table and note 63 in wiki/site/camp-otoreke.md; four
+  source ids added to sources_cited (63 -> 67). All checks pass.
+  FIVE INSTRUMENT FAILURES TODAY, AND ONE MORE HERE THAT NEARLY SHIPPED: the first naming count used
+  basic-regex quantifiers and an unset locale, so "Men's Camp" with a curly apostrophe went unmatched and
+  the 1914 report scored zero on a phrase I had just read with my own eyes. I nearly asserted a
+  twelve-year naming lag on a broken grep. The count above was re-run with -E and a byte-tolerant class,
+  and every cell was checked against a passage read directly.

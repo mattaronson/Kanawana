@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 62*
+*Status: E1-reviewed | Sources: 63*
 *Last Updated: 2026-09-07 (McKay dated to May 1962; the 1,507-camper season; and who was responsible for the camp)*
 
 ## Overview
@@ -152,6 +152,52 @@ Saint-Sauveur site.
 
 In 1909, Camp Jubilee was renamed Camp Otoreke. The following year, in 1910, the YMCA purchased the current Kanawana site near Saint-Sauveur,^7 and the main boys' camping program relocated there. Camp Otoreke continued operating on the original islands, but its purpose evolved: it served men aged 18 and over, women and men, married couples, and low-income families.^1
 
+## Four seasons of the men's camp, 1913-1916
+
+The article below says the 216 of 1920 is the earliest attendance figure this project holds for the
+camp. It is not, by seven years, and the reason nobody found the earlier ones is worth stating: the
+association's annual reports give the two camps in **adjacent sentences**, and every pass through them
+read the Kanawana sentence and stopped at the full stop.^63
+
+Dating follows the rule at [[meta/attendance-series|The Attendance Series]] — the fiscal year ended 30
+April through the 1925 report, so a report describes the previous summer.
+
+| Season | Men | Dates | In charge |
+|---|---|---|---|
+| **1913** | **160** | 5 July – 2 September | Mr. H. C. Patterson |
+| **1914** | **160** | — | — |
+| **1915** | **141** | 9 July – 23 August | Mr. H. C. Patterson, Assistant Physical Director at Central |
+| **1916** | **131** | 14 July – 19 August | Mr. Henderson (two weeks), Mr. MacLaren (one), Mr. Holliday (two) |
+
+The 1913 sentence reads: "The Men's Camp as [at] Lake St. Joseph, in charge of Mr. H. C. Patterson, was
+open from July 5th to September 2nd, **with 160 men out**." The sentence directly after it is the one
+this project has quoted for years: "The Boys' Camp at Lake Kanawana was open for July and August with
+162 boys."^63
+
+**The camp shrank and its season shortened together** — nine weeks in 1913, six and a half in 1915,
+five in 1916, and 160 down to 131. Wartime is the obvious reading and the reports do not offer it; they
+give no reason at all. The 1916 season's branch breakdown is Central 92, North 26, Railroad 8, Westmount
+4 and McGill 1, which sums to 131 exactly, unlike the 1921 set discussed below. The men's camp also ran
+its own books: a surplus of **$208.57** in 1915 against the boys' camp's $198.40, and a credit balance
+of **$40.60** in 1916.
+
+**And the association did not call it Otoreke.** Counting both names across every annual report held
+here for 1913 to 1922: "Otoreke" occurs **zero** times in the reports of 1913, 1914, 1915, 1916, 1917,
+1918, 1919 and 1920, and first appears in the **1921-1922** volume, as a heading — "CAMP OTOREKE — The
+Camp for men was again conducted during the months of July and August."^63 The control that makes the
+count mean something is that **"Kanawana" occurs in those same reports throughout**, one to four times a
+volume. The association used the boys' camp's proper name from 1913 and went on describing the men's
+camp by function for another eight years. This article dates the rename from Camp Jubilee to 1909, and
+both can be true — an annual report may use a label for a camp that has a name — but twelve years of
+the association's own reporting never once using it is worth setting beside a rename date that comes
+from elsewhere.
+
+*That the "Men's Camp at Lake St. Joseph" of these four seasons is this camp rests on the same lake,
+the same adult clientele and the same institution, four to seven years after the stated rename. No
+document held here joins the two names.* "Mr. Holliday" is a candidate for
+[[people/w-j-holliday|W. J. Holliday]]; the report gives no initials, so he is a candidate and not an
+identification. Henderson and MacLaren are new.
+
 ## The 1920s: two seasons, and a decision the association did not carry out
 
 The men's camp is thinly documented between the move north and the ski lodge, and two consecutive
@@ -164,8 +210,13 @@ previous. Numbers from the various Branches are as follows:- Visitors 9; Westmou
 equipment this year."^42 The four branch figures sum to 119, not 126, and Verdun — which appears in
 every Kanawana breakdown of these years — is absent from the list, so a dropped line in the scan is
 the likeliest explanation; the season total of 126 is the figure the report states and compares
-against, and is the one to use. The 216 of 1920 is the earliest Otoreke attendance figure this
-project holds. Together they say the men's camp lost 42% of its attendance in a single year.
+against, and is the one to use. ~~The 216 of 1920 is the earliest Otoreke attendance figure this
+project holds.~~ *(Corrected 2026-09-07: it is not. Four earlier seasons — 1913, 1914, 1915 and 1916 —
+are in the annual reports this project already held, and are tabled in the section above. The 1920
+figure is the earliest this article had ever carried, which is a different claim and the one that
+should have been made.)* Together the 1920 and 1921 figures say the men's camp lost 42% of its
+attendance in a single year — and against the 160 of 1913 the fall is steeper still, though 1920's 216
+shows the decline was not monotonic.
 
 The same report then announces the camp's closure. "After careful consideration, it was the decision
 of your Directors that this Camp be not opened during the present year. It is generally recognized
@@ -1124,6 +1175,7 @@ centre. It is the same kind of use, twenty years earlier, that
 60. YMCA of Montreal annual report for **1962**, the Camp Otoreke section [src_ymf_sgw_ymca_annual_report_1962]. Held at read_state *partial* — its camps listing and title page had been read, the rest had not; read 2026-09-07 under p_490. See [f_5622].
 61. YMCA of Montreal annual reports for the years ending **31 December 1956** and **31 December 1959** [src_ymf_sgw_ymca_annual_report_1956, src_ymf_sgw_ymca_annual_report_1959], the branch- and camp-chairman lists. Read 2026-09-06 under p_441 and extracted at [f_5080]; brought into **this** article 2026-09-07 under p_491, which exists because the article was not citing reports whose Otoreke content the project already held.
 62. YMCA of Montreal annual reports for the years ending **31 December 1953**, **1954**, **1964** and **1965** [src_ymf_sgw_ymca_annual_report_1953, src_ymf_sgw_ymca_annual_report_1954, src_ymf_sgw_ymca_annual_report_1964, src_ymf_sgw_ymca_annual_report_1965]. The **1953** and **1954** volumes, describing the Christieville Ski Lodge and its two lodges, are at [f_5083]; the **1964** and **1965** volumes, with Otoreke's 1,052 campers, are at [f_5094]. Both were read 2026-09-06 under p_441 and brought into **this** article 2026-09-07 under p_491.
+63. YMCA of Montreal annual reports for the years ending 30 April **1914** [src_ymf_sgw_ymca_annual_report_1914], **1916** [src_ymf_sgw_ymca_annual_report_1916] and **1917** [src_ymf_sgw_ymca_annual_report_1917], each describing the previous summer under the Dating rule at [[meta/attendance-series|The Attendance Series]]. The **1913** season (160 men, 5 July to 2 September, H. C. Patterson), the **1915** season (141, 9 July to 23 August) and the **1916** season (131, 14 July to 19 August, with the branch breakdown and the Henderson–MacLaren–Holliday rotation) are together at [f_5632], which also records the count of the name "Otoreke" across every report from **1913** to **1922**. The **1921-1922** volume that first uses the name is [src_ymf_sgw_ymca_annual_report_1921_1922].
 
 ## Research Notes
 
