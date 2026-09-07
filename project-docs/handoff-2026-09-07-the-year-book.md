@@ -448,3 +448,59 @@ runs, and returned zero bytes each time: `1987-09-11-the-wizard-of-oz-poster`,
 `belmore-house-logo`, `3-40-illustrations-on-peasant-female-figures` and the like.
 The metadata advertises a `_djvu.txt` that has no content behind it. Record them as
 empty-by-nature, not as unread.
+
+## Rule 50 — an archive item can hold more than one text file, and reading the first one is not reading the item
+
+**2026-09-07, found within an hour of rule 49, by pulling on the same thread.**
+
+Rule 49 fixed a size threshold that discarded short items unsearched. The audit it
+prompted asked a second question: are any CLEAN results *anomalously small for their
+document class*? A 218-byte poster is a complete read. **A 436-byte undergraduate
+calendar is not.**
+
+`2005-2006-undergraduate-calendar` was recorded CLEAN at 436 bytes, against a median
+of 1.9 MB for the 91 calendars in the corpus. The item has **two** `_djvu.txt` files:
+
+```
+2005-2006_cover_undergraduate_calendar_djvu.txt          436
+2005-2006_undergraduate_calendar_djvu.txt            2689388
+```
+
+The sweep did `txts[0]`. "cover" sorts before "undergraduate". **It read the cover
+page and reported that the document does not mention Kanawana.** The document
+mentions Kanawana. Fetched properly, it carries the A. Ross Seaman Memorial
+Scholarship entry in the same words as every other year.
+
+**I had already written the consequence of the bug into a source record as a fact
+about the archive**: "The 2005-06 edition is not in the collection's text items, so
+the run has one gap and it is a gap in the archive rather than in the reading."
+Exactly backwards, and written without checking. That is the failure this project
+exists to avoid — an absence of evidence manufactured out of an instrument's defect
+and then attributed to the record.
+
+**How common.** A random sample of 300 swept identifiers: **1.3% carry more than one
+`_djvu.txt`** — roughly 214 items across the 16,491. The pattern is not random:
+
+```
+1980-01 National Linguistic Centre eng_djvu.txt  /  ...fr_djvu.txt
+1993-1994 Annual Report on Giving eng_djvu.txt   /  ...fr_djvu.txt
+2012-05-02 FDBK Steve Bates Poster eng_djvu.txt  /  ...fr_djvu.txt
+```
+
+**They are English/French pairs.** This is a bilingual Montreal collection, and
+`eng` sorts before `fr`, so the sweep systematically read the English of every
+bilingual document and never the French. Several of this wiki's best sources are
+French — *Le Soleil*, *Montreal-matin*, the Y's own bilingual communiqués — so this
+is not a hypothetical loss.
+
+**The rule.** Search **every** `_djvu.txt` in an item, not the first, and never
+assume one file per item. `rescan_multi.py` in the session scratchpad back-fills:
+for every already-swept identifier it re-fetches metadata and searches every text
+file *after* the first. It resumes from its own results file. **It found a hit in
+its first 224 items** — a second text of the 1948 Montreal YMCA Camp Perrot report.
+
+**And the general form of both rules 49 and 50.** A sweep reports three states and
+only two of them are honest: HIT and CLEAN are claims about the world, FAIL is a
+claim about the instrument, and every bug so far has consisted of an instrument
+failure wearing one of the other two labels. When a sweep's own summary is the only
+evidence that something was read, it is worth measuring what "read" meant.

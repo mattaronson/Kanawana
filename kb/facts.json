@@ -1,8 +1,8 @@
 {
-  "version": "9.60",
-  "kb_version": "9.60",
+  "version": "9.62",
+  "kb_version": "9.62",
   "migrated_from": "3.3",
-  "fact_count": 5388,
+  "fact_count": 5389,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -97086,7 +97086,7 @@
         "research method",
         "Weredale House"
       ],
-      "claim": "A FALSE POSITIVE RECORDED SO IT IS NOT CHASED TWICE. Concordia's FYI of 23 January 1975 matches the sweep's 'Weredale' keyword on 'St. Stephen's Church Hall, 1B WEREDALE RD.', in a listing for the Arcadians Musical Theatre Society's production of The Boy Friend. Weredale Road in Westmount is the street the institution was named for -- the Boys' Home of Montreal built on Weredale Park in 1930 -- but this is an address and nothing in the item concerns Weredale House or its camp. Written down because an unrecorded false positive costs the same half hour every time the corpus is swept, and because a later pass finding the string and no note would have no way to tell that it had already been read.",
+      "claim": "A FALSE POSITIVE RECORDED SO IT IS NOT CHASED TWICE. Concordia's FYI of 23 January 1975 matches the sweep's 'Weredale' keyword on 'St. Stephen's Church Hall, 1B WEREDALE RD.', in a listing for the Arcadians Musical Theatre Society's production of The Boy Friend. Weredale Road in Westmount is the street the institution was named for -- the Boys' Home of Montreal built on Weredale Park in 1930 -- but this is an address and nothing in the item concerns Weredale House or its camp. Written down because an unrecorded false positive costs the same half hour every time the corpus is swept, and because a later pass finding the string and no note would have no way to tell that it had already been read. [EXTENDED 2026-09-07: A SECOND CLASS OF THE SAME FALSE POSITIVE, and it will keep recurring. The Loyola Alumnus of January 1931 and March 1932 (identifiers loyola-alumnus-1931-jan, loyola-alumnus-1932-march) match on '18 WEREDALE PARK', which appears in their alphabetical alumni address directories against three different men -- Pierce Murphy, 'Sales Manager, Catelli Macaroni Products Corp.', with 18 Weredale Park given expressly as his RESIDENCE; Vincent Murphy; and Paul Murphy. Three Murphys at one address across two years is a family home. WHAT THIS DOES AND DOES NOT ESTABLISH. camp-weredale.md records that the Boys' Home of Montreal built its new quarters 'on Weredale Park in Westmount' in 1930, 'below St. Catherine Street off Atwater', and NO STREET NUMBER FOR THE HOME IS HELD ANYWHERE IN THIS PROJECT. So the conclusion that number 18 is not the Home rests on the three Murphys and on the Home being an institution rather than a private residence -- an inference, stated as one, not a certainty. What it does show is that WEREDALE PARK WAS A RESIDENTIAL ADDRESS BLOCK with private households on it, not a campus, which the article's phrasing does not make clear. ANY SWEEP OF MONTREAL DIRECTORIES, ALUMNI LISTS OR CITY DIRECTORIES WILL KEEP RETURNING WEREDALE PARK ADDRESSES, and they are almost all neighbours rather than the institution.]",
       "sources": [],
       "confidence": "stated",
       "conflicts_with": [],
@@ -97177,6 +97177,20 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.60",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5427",
+      "category": "meta",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "research method"
+      ],
+      "claim": "AN ARCHIVE ITEM CAN HOLD MORE THAN ONE TEXT FILE, AND THE SWEEP WAS READING ONLY THE FIRST -- WHICH FOR BILINGUAL DOCUMENTS MEANT READING THE ENGLISH AND NEVER THE FRENCH. Found within an hour of f_5419 by pulling the same thread: are any CLEAN results ANOMALOUSLY SMALL FOR THEIR DOCUMENT CLASS? A 218-byte poster is a complete read; a 436-byte undergraduate calendar is not. 2005-2006-undergraduate-calendar was recorded CLEAN at 436 bytes against a median of 1.9 MB for the 91 calendars in the corpus. THE ITEM HAS TWO _djvu.txt FILES: a 436-byte COVER and the 2,689,388-byte CALENDAR. The sweep took txts[0], and 'cover' sorts before 'undergraduate', so IT READ THE COVER PAGE AND REPORTED THAT THE DOCUMENT DOES NOT MENTION KANAWANA. Fetched properly it carries the A. Ross Seaman Memorial Scholarship entry in the same words as every other year, so the calendar run is TWELVE unbroken editions 1995-96 to 2006-07, not eleven with a gap. WORSE: I HAD ALREADY WRITTEN THE CONSEQUENCE OF THE BUG INTO A SOURCE RECORD AS A FACT ABOUT THE ARCHIVE -- 'the 2005-06 edition is not in the collection's text items, so the run has one gap and it is a gap in the archive rather than in the reading'. Exactly backwards, written without checking, and corrected in place within the hour. An absence of evidence manufactured out of an instrument's defect and attributed to the record is the specific failure this project exists to avoid. HOW COMMON: a random sample of 300 swept identifiers found 1.3% carrying more than one _djvu.txt, roughly 214 items across the 16,491, AND THE PATTERN IS NOT RANDOM -- they are ENGLISH/FRENCH PAIRS ('...eng_djvu.txt' and '...fr_djvu.txt'). This is a bilingual Montreal collection and 'eng' sorts before 'fr', so the sweep systematically read the English of every bilingual document and never the French. Several of this wiki's best sources are French. THE FIX: search EVERY _djvu.txt in an item. rescan_multi.py back-fills every already-swept identifier and found a hit in its first 224 items, a second text of the 1948 Montreal YMCA Camp Perrot report. THE GENERAL FORM OF THIS AND f_5419: a sweep reports three states and only two are honest -- HIT and CLEAN are claims about the world, FAIL is a claim about the instrument, and every bug so far has been an instrument failure wearing one of the other two labels. Recorded as rule 50.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.62",
       "added_by": "manual"
     }
   ]
