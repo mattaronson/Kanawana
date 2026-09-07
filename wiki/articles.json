@@ -1549,6 +1549,13 @@
           "at": "2026-09-05T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-07",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "The G. Guiton paragraph resolved to Geoffrey Guiton and spun out to people/geoffrey-guiton.md. The paragraph is kept because it is the evidence for his camp role -- the 1922 brochure and the North Branch brochure -- and the note added points at the new article for the church half and for why the two halves are not joined."
         }
       ],
       "ralph_loops_completed": 2,
@@ -1883,10 +1890,11 @@
         "wartime-kanawana",
         "maureen-mcbride",
         "hay-finlay",
-        "cca-director-certification"
+        "cca-director-certification",
+        "geoffrey-guiton"
       ],
       "file_id": null,
-      "word_count": 31215,
+      "word_count": 31340,
       "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article. | 2026-07-11: Added wiki-links to Gary White, David Leduc, Kate Taylor, Marie-Pierre Lacasse table rows and Related Articles, pointing to new standalone institutional-role-director articles. | 2026-07-11: Added wiki-links to Greig Macdiarmid, Francois Dauphin, Nicolas Garcia, Morgan Carter, Arleen Boyer, Justin Caldwell (Two-Tier Era + Staff by Era tables) and Matt/Dan Aronson (Related Articles), per the operator's revised C5 policy.",
       "tags": {
         "era": [
@@ -11764,7 +11772,51 @@
       "file_id": null,
       "word_count": 2947,
       "open_questions": 4
+    },
+    {
+      "article_id": "geoffrey-guiton",
+      "title": "Geoffrey Guiton",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07",
+          "by": "auto",
+          "task": "WRITE",
+          "note": "Spun out of a paragraph in directors-index.md on the first criterion of the spinout rule -- his arc runs before and after the camp, and after it by a great deal. The Year Book gave the given name, the entry year of 1920 and an unbroken eight-volume run at North Branch; a QUOTED sweep of the book corpus gave a Rev. Geoffrey Guiton (1892-1947) of Montreal who founded the Fellowship of the West in 1929 and ended as a missionary schoolmaster in India. The article is deliberately written in two halves because the join between them is not established, and a fourth section plus f_5338 exist to stop a later pass promoting it quietly."
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_5326",
+        "f_5335",
+        "f_5336",
+        "f_5337",
+        "f_5338",
+        "f_5339"
+      ],
+      "sources_cited": [
+        "src_brochure_1922",
+        "src_ymf_1922_1923_ymca_north_branch_brochure",
+        "src_gas_bag_1923",
+        "src_umedia_ymca_yearbook_series",
+        "src_carrington_anglican_church_in_canada",
+        "src_cooper_blessed_communion",
+        "src_reisner_measure_of_faith",
+        "src_storrs_companions_of_the_peace",
+        "src_storrs_gods_galloping_girl",
+        "src_thomas_journey_to_india"
+      ],
+      "open_questions": 5,
+      "cross_links": [
+        "directors-index",
+        "founding-1894",
+        "canadian-camping-movement"
+      ],
+      "file_id": null,
+      "word_count": 1417
     }
   ],
-  "article_count": 117
+  "article_count": 118
 }

@@ -334,6 +334,18 @@ what remains to be done, and a long session going well is exactly what makes it 
 session closes a seam, re-read the pending queue for anything the seam has quietly answered —
 *before* writing the summary that tells someone else what is left for them.
 
+**Rule 43: quote the phrase, and be suspicious of a mechanical lesson learned from two data
+points.** Earlier today this session wrote down that the Internet Archive book corpus is "an
+excellent instrument for an UNCOMMON name and useless for a common one," inferred from three
+clean hits on "Kenneth J. Hollinshead" against 934 on "M. G. Brooks." The symptom was described
+correctly and the cause was invented. `openlibrary.org/search/inside` does not phrase-match an
+unquoted query; it ANDs the tokens independently across a whole book, so a two-word name matches
+any volume containing each word somewhere. Unquoted, "Ronald Hanagan" returns 1,570 hits and
+"Geoffrey Guiton" 2,620, all noise — quoted, 1 and 9, and the 9 gave a whole life. Hollinshead
+worked because both of his tokens are individually rare. **A rule about how an instrument behaves
+is a claim like any other, and two observations do not establish one.** The cost here was nearly
+closing two names as dead ends on a property the instrument does not have.
+
 ## The shape of the day, in one line
 
 **The Year Book's real contribution was not its own content but the names and dates that made

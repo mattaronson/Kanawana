@@ -1,8 +1,8 @@
 {
-  "version": "9.30",
-  "kb_version": "9.30",
+  "version": "9.31",
+  "kb_version": "9.31",
   "migrated_from": "3.3",
-  "fact_count": 5296,
+  "fact_count": 5301,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -95544,6 +95544,103 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.30",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5335",
+      "category": "people",
+      "date_ref": "1919-1927",
+      "entities": [
+        "Geoffrey Guiton",
+        "YMCA of Montreal North Branch",
+        "Reginald P. Thomas",
+        "Charles G. Hewett",
+        "W. J. Holliday"
+      ],
+      "claim": "G. GUITON OF THE 1922 KANAWANA BROCHURE IS GEOFFREY GUITON, AND HIS YEAR OF ENTRY INTO ASSOCIATION WORK IS 1920. The Year Book's alphabetical list of employed officers prints 'Guiton, Geoffrey, Montreal, Que, North, Boys', 20' and, in the earliest volume, 'Guiton, Geoffrey, Montreal, North, Asst., 20' -- one entry-year figure carried unchanged through the run, which is what separates a man from others of his surname. HE APPEARS IN EIGHT CONSECUTIVE VOLUMES, 1919-20 THROUGH 1926-27, AND IN NONE LATER. He comes in as ASSISTANT at North Branch in the 1919-20 volume, under Boys' Secretary Charles G. Hewett -- 'Montreal, North Br. Asst., Geoffrey Guiton -- Physical, Reginald P. Thomas -- Boys, Charles G. Hewett' -- and holds the Boys' post himself from the 1920-21 volume on, with Robert E. Blake and G. S. Mooney as his assistants. The 1923-24 volume puts him under W. J. Holliday as branch Secretary at 2300 Park Ave, which is the address the 1922 Kanawana brochure gives for him. By the 1926-27 volume the branch is 'East Montreal, North Br., 5550 Park Ave.' and he is still its Boys' Secretary.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5336",
+      "category": "people",
+      "date_ref": "1929-1930",
+      "entities": [
+        "Geoffrey Guiton",
+        "Fellowship of the West",
+        "Diocese of Montreal",
+        "Elton Scott",
+        "R. K. Naylor",
+        "Richard Haviland"
+      ],
+      "claim": "A GEOFFREY GUITON, ANGLICAN PRIEST OF MONTREAL, FOUNDED THE FELLOWSHIP OF THE WEST IN 1929 AND WENT WEST WITH IT IN 1930. Four church histories agree and none of them mentions the YMCA. Carrington's national history has the Fellowship formed 'largely through the enthusiasm of the Rev. Geoffrey Guiton (who later on devoted his life to missionary [work])'. Cooper's history of the Diocese of Montreal gives it a chapter -- 'The Fellowship of the West: The Colonization Movement' -- and names the three priests 'immediately responsible, Geoffrey Guiton, Elton Scott, and R. K. Naylor', calling Guiton 'later a missionary'. Reisner's annals of the diocese date the formation to 1929 and record that 'In 1930 three teams were sent out: Geoffrey Guiton and Richard Haviland, W. C. Eccleston and Henry [...]'. A separate Reisner passage has 'The Rev. Geoffrey Guiton was the Anglican representative in this work' of relief on the street. And an account of an Indian mission names 'the [mis]sionary who had built up the school, the Reverend Geoffrey Guiton'.",
+      "sources": [
+        "src_carrington_anglican_church_in_canada",
+        "src_cooper_blessed_communion",
+        "src_reisner_measure_of_faith",
+        "src_thomas_journey_to_india"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5337",
+      "category": "people",
+      "date_ref": "1892-1947",
+      "entities": [
+        "Geoffrey Guiton",
+        "Monica Storrs",
+        "Fellowship of the West"
+      ],
+      "claim": "THE PRIEST'S DATES ARE 1892-1947, AND THEY COME FROM A FOOTNOTE IN AN EDITED DIARY RATHER THAN FROM ANY CHURCH RECORD. Companions of the Peace, the edited diaries and letters of Monica Storrs, carries 'Geoffrey Guiton (1892-1947), one of the founders of the Fellowship of the West, served in [...]'. The same volume has him arriving at her Peace River mission as one of 'our first visitors ... the Rev. Geoffrey Guiton and another student called Norton Deane' and, soon after, volunteering for the Canadian Mission. Its companion volume, God's Galloping Girl, gives a diarist's-eye view of him at work: he and a colleague are 'the twin pillars of the Fellowship of the West', 'Guiton says he can raise practically all the money through his Fellowship of the West in Montreal', and he goes 'back to Montreal' at the end of a visit. IF THIS IS THE YMCA MAN, HE WAS TWENTY-EIGHT WHEN HE ENTERED ASSOCIATION WORK IN 1920 AND THIRTY-FOUR WHEN HE LEFT THE ROSTER.",
+      "sources": [
+        "src_storrs_companions_of_the_peace",
+        "src_storrs_gods_galloping_girl"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5338",
+      "category": "people",
+      "date_ref": "1926-1929",
+      "entities": [
+        "Geoffrey Guiton"
+      ],
+      "claim": "THE YMCA GUITON AND THE PRIEST GUITON ARE NOT SHOWN TO BE ONE MAN BY ANYTHING READ HERE, AND THIS FACT EXISTS TO KEEP THAT STRAIGHT. The join rests on an uncommon surname with an uncommon given name, in one city, in adjacent decades, with no overlap: the Year Book record stops after the 1926-27 volume and the church record begins in 1929. That interval is exactly the shape of a man leaving a branch secretaryship for theological college -- and it is also exactly the shape a coincidence would take, since the two records cannot contradict each other when they never cover the same year. NO SOURCE READ HERE PLACES ONE MAN IN BOTH LIVES. What would settle it: the Montreal Diocesan Theological College register for the later 1920s, a 1947 obituary, or any church source describing what Guiton did before 1929 -- and the last is the likeliest, since the Storrs volumes are annotated and one of their footnotes already supplied his birth and death years. Both Storrs volumes are borrow-restricted on the Internet Archive and were not read here.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series",
+        "src_storrs_companions_of_the_peace"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "9.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5339",
+      "category": "methodology",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Internet Archive book corpus",
+        "Open Library search inside"
+      ],
+      "claim": "THE BOOK-CORPUS SEARCH DOES NOT PHRASE-MATCH AN UNQUOTED QUERY, AND THE RULE WRITTEN ABOUT IT EARLIER TODAY MISDIAGNOSED THE PROBLEM. openlibrary.org/search/inside ANDs the tokens of an unquoted query independently across a whole book, so a two-word name matches any volume containing each word anywhere. 'Ronald Hanagan' unquoted returns 1,570 hits and 'Geoffrey Guiton' 2,620, all of it noise. QUOTED, THE SAME QUERIES RETURN 1 AND 9. The earlier finding -- that the instrument is 'excellent for an UNCOMMON name and useless for a common one', from Hollinshead's three clean hits against Brooks's 934 -- described the symptom correctly and the cause wrongly: Hollinshead worked because BOTH his tokens are individually rare, not because the name as a name is rare. THE OPERATING RULE IS SIMPLY TO QUOTE THE PHRASE, and any unquoted multi-token name search run before 2026-09-07 is worth re-running.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [
+        "f_5329"
+      ],
+      "added_version": "9.31",
       "added_by": "ralph_loop"
     }
   ]
