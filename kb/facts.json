@@ -1,8 +1,8 @@
 {
-  "version": "10.05",
-  "kb_version": "10.05",
+  "version": "10.06",
+  "kb_version": "10.06",
   "migrated_from": "3.3",
-  "fact_count": 5502,
+  "fact_count": 5503,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99204,6 +99204,27 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5541",
+      "category": "people",
+      "date_ref": "1986-1990",
+      "entities": [
+        "Andrew Caddell",
+        "Tom Snabl",
+        "Peter Goddard",
+        "Bruce Netherwood",
+        "Camp Kanawana"
+      ],
+      "claim": "THE 1994 CENTENNIAL COMMITTEE WAS A STANDING CAMP COMMITTEE FOUR YEARS EARLIER. The Montreal YMCA's annual report for 1990 lists four names under the heading KAMP KANAWANA: ANDREW CADDELL, DANIELLE DELHAES, TOM SNABL, MAUREEN McBRIDE, with Bruce Netherwood appearing separately as a director. wiki/history/centennial-1994.md gives the Centennial committee as 'Andrew Caddell (Chairperson), Tim Clark, Barbara Drury, Sue Khan, Bob Lewandowski, Bruce Netherwood (YMCA staff), and Tom Snabl'. SO CADDELL, WHO CHAIRED IT, AND SNABL WERE ALREADY IN KANAWANA ROLES IN THE ASSOCIATION'S OWN ANNUAL REPORT FOUR YEARS BEFORE the anniversary they organised. The Centennial committee therefore looks less like a body raised for an occasion and more like a standing camp committee that took one on. DANIELLE DELHAES AND MAUREEN McBRIDE are names this project holds nowhere else. SEPARATELY, the 1986 French annual report lists 'GODDARD, P. (directeur du Kamp Kanawana)', an independent confirmation of Peter Goddard in post that year from a source the directors index had not used, and gives the camp's telephone at Saint-Sauveur as 1-227-2414.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1990_fr",
+        "src_ymf_sgw_ymca_annual_report_1986_fr"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.06",
       "added_by": "ralph_loop"
     }
   ]

@@ -4270,3 +4270,21 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   McKay as Director of Camp Otoreke, who is already held.
   NEW: facts 5500 -> 5502 (f_5539, f_5540); kb 10.04 -> 10.05. Verify green.
   Timestamp read from `date -u` in its own call.
+
+2026-09-07T11:32Z  p_482: the 1986 and 1990 French annual reports.
+  THE 1994 CENTENNIAL COMMITTEE WAS A STANDING CAMP COMMITTEE FOUR YEARS EARLIER.
+  The 1990 annual report lists four names under KAMP KANAWANA -- Andrew Caddell,
+  Danielle Delhaes, Tom Snabl, Maureen McBride -- with Netherwood separately as
+  director. centennial-1994.md gives the Centennial committee as Caddell
+  (Chairperson), Tim Clark, Barbara Drury, Sue Khan, Bob Lewandowski, Netherwood and
+  Snabl. So the chairman and one member were already in Kanawana roles in the
+  association's own annual report four years before the anniversary they organised.
+  The committee looks less like a body raised for an occasion and more like a
+  standing camp committee that took one on. Delhaes and McBride are names this
+  project holds nowhere else.
+  AND THE 1986 REPORT NAMES THE DIRECTOR IN FRENCH: "Goddard, P. (directeur du Kamp
+  Kanawana)" -- an independent confirmation of Peter Goddard in post that year, from
+  a source the directors index had not used.
+  BOTH SOURCES MARKED read_state "partial": the Kanawana entries were read, the
+  volumes were not. Reading a name out of a roster is not reading an annual report.
+  NEW: f_5541; kb 10.05 -> 10.06. Verify green. Timestamp read from `date -u`.

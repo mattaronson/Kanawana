@@ -1,7 +1,7 @@
 # The 1994 Centennial
 
-*Status: E1-reviewed | Sources: 14*
-*Last Updated: 2026-09-07 (the documentary's title was the camp's own slogan first)*
+*Status: E1-reviewed | Sources: 15*
+*Last Updated: 2026-09-07 (the Centennial committee was a standing camp committee four years earlier)*
 
 ## Overview
 
@@ -45,6 +45,22 @@ Camp Nakanawa (Tennessee), a comparable American camp, held its own 100th annive
 
 Bruce Netherwood was Director of Camp Kanawana from 1988 to 1994, meaning the centennial fell during his tenure; he had succeeded his brother Jay Netherwood, who directed the camp in 1986–1987.^6 ^7 Netherwood later received the [[traditions/pip-alumni-award|Pip Alumni Award]] in 2011 and went on to become Vice President of Camping & Social Responsibility at South Shore YMCA in Hanover, Massachusetts, overseeing Camp Burgess & Hayward.^8
 
+**The committee did not assemble itself for the occasion.** The Montreal YMCA's annual report for
+**1990**, four years before the Centennial, lists four names under the heading **KAMP KANAWANA**:
+**Andrew Caddell, Danielle Delhaes, Tom Snabl, Maureen McBride**.^15 Two of them — **Caddell**, who
+chaired the Centennial committee, and **Snabl** — were therefore already in Kanawana roles in the
+association's own annual report **four years before** the anniversary they organised. Bruce Netherwood
+appears separately in the same volume as a director.
+
+So the Centennial committee of 1994 looks less like a body raised for an anniversary and more like a
+standing camp committee that took one on. **Danielle Delhaes** and **Maureen McBride** are names this
+project holds nowhere else.
+
+**And the 1986 report names the director in French.** The same series for 1986 lists "**Goddard, P.
+(directeur du Kamp Kanawana)**," which is an independent confirmation of Peter Goddard in post that
+year from a source [[people/directors-index|the directors index]] had not used, and it gives the camp's
+telephone at Saint-Sauveur as 1-227-2414.
+
 ## Open Questions
 
 1. ~~[Critical] Was there a formal centennial event or celebration at camp in summer 1994? What form did it take?~~ [Resolved 2026-07-09] Yes — an Alumni reunion held during Labor Day weekend 1994, attracting over 200 past campers and staff, per the YMCA of Montreal's own 1994 Annual Report. *Le Devoir*'s article text itself remains BAnQ-paywalled and unread.
@@ -79,3 +95,4 @@ Bruce Netherwood was Director of Camp Kanawana from 1988 to 1994, meaning the ce
 12. YMCA of Montreal Annual Reports, 1989 (French), 1990, 1994 (English and French) [src_ia_ymca_annual_1989_fr, src_ia_ymca_annual_1990, src_ia_ymca_annual_1994, src_ia_ymca_annual_1994_fr].
 13. *The Lookout* Vol. 1 No. 3 (Kanawana Alumni Committee, autumn 1993) [src_ia_the_lookout_1993], and the YMCA of Montreal annual reports for the years ended **31 May** 1984 and 1985 [src_ymf_sgw_ymca_annual_report_1984, src_ymf_sgw_ymca_annual_report_1985], whose camping seasons are the summers of 1983 and 1984. See [f_5008] and [f_5047]. **[Corrected 2026-09-06:** this note read "for the years ending March 1984 and March 1985." The 1984 report's title page says "for the year ended May 31, 1984." The seasons are unchanged — a June-to-May year contains the earlier summer — but the association used a 31 March year-end only through 1950. See [f_5081].**]**
 14. Kamp Kanawana counsellor recruitment advertisement, *The McGill Daily* Vol. 78 No. 83, 20 February 1989, p. 14 [src_mcgill_daily_1989_02_20]: "The experience that lasts a Lifetime!" Transcribed at `sources/cache/mcgill/2026-09-07-kanawana-ad-1989-and-perrot-doctors-1948.txt`. Found by the whole-corpus sweep of 9,890 McGill student publication items under p_479. See [f_5428].
+15. YMCA of Montreal annual report **1990**, French edition [src_ymf_sgw_ymca_annual_report_1990_fr], and the annual report **1986**, French edition [src_ymf_sgw_ymca_annual_report_1986_fr]. Cached under `sources/cache/ymca-montreal-fonds/`; the Kanawana entries read word for word 2026-09-07 under p_482, the volumes not read.
