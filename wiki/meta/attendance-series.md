@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 34*
+*Status: draft | Sources: 35*
 *Last Updated: 2026-09-06 (the 1916 fee and season, from a school magazine advertisement)*
 
 ## Overview
@@ -331,6 +331,14 @@ and because it decided something outside this article: [[site/camp-thunderbird|C
 is known almost entirely from these tables, and the convention dates its two summers to **1942 and
 1943** — ending in the season Camp Perrot began.
 
+## A cause for the 1967 dip, from the national office
+
+The table records **488 campers and 1,323 camper-weeks in 1966 against 421 and 1,098 in 1967** — a fall of about fourteen per cent in campers and seventeen in camper-weeks — and offers no reason for it. The YMCA of Canada's national review of that year does: the ordinary programmes carried the load, "youth program, camping, (**although in Eastern Canada there was a slight falling off of attendance at residence camps which was attributed to family trips to Expo 67**), and especially Physical Education."^35
+
+Kanawana is an Eastern Canadian residence camp and its numbers fit the tendency. *That is not the same as saying Expo caused this camp's fall*: the bulletin describes a region, not a camp, and the 1965 row two lines above shows Kanawana attributing its own drop to weather, summer school and changed family holidays — three things that were not a world's fair. The camp's own 1967 report is where to test it.
+
+**What is worth pausing on is that the camp was on both sides of Expo at once.** The same 1967 row records Kanawana serving **3,000 meals and 2,170 bed-nights to 664 Expo visitors**. The fair took Montreal families away from the camp in July and August and sent strangers to sleep in it, and the association counted both in the same season.
+
 ## What the shape of the series shows
 
 Three things stand out and none of them is visible from any single article.
@@ -402,6 +410,7 @@ Three things stand out and none of them is visible from any single article.
 32. YMCA of Montreal annual report for **1999-2000** [src_ymf_sgw_ymca_annual_report_1999_2000], the page headed "Kamp Kanawana - A Camp for People of All Ages." Read 2026-09-06 under p_454. See [f_5195].
 33. YMCA of Montreal, **114th Annual Report** [src_ymf_sgw_ymca_annual_report_1965]. Its title page states the span outright — "1965 / 114th ANNUAL REPORT / JUNE 1, 1965 – MAY 31, 1966" — read by eye 2026-09-06 while working on Camp Otoreke. See [f_5203].
 34. YMCA of Montreal annual report for the year ending 30 April 1923 [src_ymf_sgw_ymca_annual_report_1922_1923] — its Verdun branch narrative and its metropolitan enrolment table, which do not agree. Read 2026-09-06 under p_454. See [f_5173].
+35. National review of 1967, *National Council Bulletin* Vol. 41 No. 3 (1968), YMCA of Canada [src_ia_ymca_national_council_bulletin_41_03]. Internet Archive item `national-council-bulletin-vol-41-no-03`, in the `ymca-montreal-fonds` collection. Found 2026-09-07 by the enumeration at [f_5243]. See [f_5253].
 
 ## Research Notes
 

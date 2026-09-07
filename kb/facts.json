@@ -1,8 +1,8 @@
 {
-  "version": "8.86",
-  "kb_version": "8.86",
+  "version": "8.87",
+  "kb_version": "8.87",
   "migrated_from": "3.3",
-  "fact_count": 5214,
+  "fact_count": 5215,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -94037,6 +94037,24 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.85",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5253",
+      "category": "attendance",
+      "date_ref": "1967",
+      "entities": [
+        "YMCA of Canada",
+        "Kamp Kanawana",
+        "Expo 67"
+      ],
+      "claim": "THE NATIONAL BODY EXPLAINS KANAWANA'S 1967 DIP, AND THE CAMP WAS ON BOTH SIDES OF IT. The National Council Bulletin's review of 1967 notes that the year's heavy load fell on the regular programmes, 'youth program, camping, (ALTHOUGH IN EASTERN CANADA THERE WAS A SLIGHT FALLING OFF OF ATTENDANCE AT RESIDENCE CAMPS WHICH WAS ATTRIBUTED TO FAMILY TRIPS TO EXPO 67), and especially Physical Education.' KANAWANA IS AN EASTERN CANADIAN RESIDENCE CAMP AND ITS OWN NUMBERS FIT: attendance-series.md records 488 campers and 1,323 camper-weeks in 1966 against 421 and 1,098 in 1967, a fall of about fourteen per cent in campers and seventeen per cent in camper-weeks. The series had the numbers and no explanation for them; this is a dated one from the national office, and it is the same genre as the 1965 row's 'attributed to weather, summer school, changed family holidays'. THE THING WORTH NOTICING IS THAT KANAWANA WAS ON BOTH SIDES OF EXPO AT ONCE. The same 1967 row records the camp serving 3,000 meals and 2,170 bed-nights to 664 Expo visitors. So the fair itself took families away from the camp in July and August and sent strangers to sleep in it, and the association counted both. NOT ASSERTED: that Expo caused Kanawana's fall specifically. The bulletin describes a regional tendency; the camp's own reports for 1967 are the place to test it, and the 1965 row shows the camp attributing a fall to three other things entirely two years before.",
+      "sources": [
+        "src_ia_ymca_national_council_bulletin_41_03"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.87",
       "added_by": "ralph_loop"
     }
   ]

@@ -30519,7 +30519,23 @@
       "extraction_version": "8.86",
       "reliability": "primary",
       "notes": "In the Internet Archive's ymca-montreal-fonds collection. Read 2026-09-07 under p_462 for its national camping figures; the rest is not read."
+    },
+    {
+      "source_id": "src_ia_ymca_national_council_bulletin_41_03",
+      "type": "periodical",
+      "title": "National Council Bulletin, Volume 41, Number 3 (1968), YMCA of Canada — the national review of 1967",
+      "date": "1968",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/national-council-bulletin-vol-41-no-03",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-07T01:12:00Z",
+      "extracted": true,
+      "extraction_version": "8.87",
+      "reliability": "primary",
+      "notes": "In the Internet Archive's ymca-montreal-fonds collection. Read 2026-09-07 under p_462 for its camping paragraph; the rest is not read."
     }
   ],
-  "source_count": 1697
+  "source_count": 1698
 }
