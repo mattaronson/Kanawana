@@ -1,6 +1,6 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 53*
+*Status: E1-reviewed | Sources: 54*
 *Last Updated: 2026-09-07 (Cuckoo Day, 1938; and the camp keeping up with the outside world)*
 
 ## Overview
@@ -370,6 +370,14 @@ if the demand is sufficient."^53 The demand was evidently not sufficient: no lat
 [[traditions/camp-songs-cheers|The songs and cheers article]] has the camp's yells surviving only in
 fragments, and this is a day on which a dozen new ones were composed and none written down.
 
+**The reunion tradition was still running in 1981, and by then it had split in two.** *Ka-News* of 21
+April 1981 lists what was coming: "**Kamper Reunion at Westmount Y on May 2**… All are welcome of
+course, and hope to see you there. **Staff Reunion/Get-together is tentatively planned for May 30/31
+in St. Sauveur.**"^54 [[documents/green-triangle|The Green Triangle]] records the twenty-seventh annual
+reunion of "old Kanawanians" in October 1936, counting the series from about 1909. Forty-five years
+later the camp was still holding one — two, in fact, a campers' reunion in the city and a staff
+reunion at the camp itself, five weeks apart.
+
 ## L&V Games
 
 The L&V (Lumbermen vs. Voyageurs) Games have been held at Kanawana since 1947, adopted from YMCA Camp Pine Crest in Ontario where they originated in 1940.^8 The games occupy the final week of the camp season, dividing the entire camp into two teams: Voyageurs (symbol: paddle) and Lumbermen (symbol: axe). Alumna Leigh Evans described it as "a 3-day event in which every person, camper and staff alike, is placed on either the Lumberman or Voyageur team and every activity at camp becomes a competition."^20 By 1958, teams were decided on Friday with captains picked that evening and competition running through the week.^8 Campers made model paddles or axes to wear around their necks.^8 The role of "Capitaine" — leader of the Voyageur team — is considered one of the highest honours a staff member can receive.^9 The 78th edition of the L&V Games was held in 2025.^8
@@ -685,3 +693,4 @@ Kanawana."^40 Whether either was ever held again is not known here.
 51. *The Green Triangle*, Issue 2, **21 July 1940**, and Vol. 47 No. 4, **29 July 1940** [src_ymf_the_green_triangle_1940_07_21, src_ymf_the_green_triangle_1940_07_29]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 52. *The Green Triangle*, **9**, **16 July** and **6 August 1938** [src_ymf_the_green_triangle_1938_07_09, src_ymf_the_green_triangle_1938_07_16, src_ymf_the_green_triangle_1938_08_06]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 53. *The Green Triangle*, **13 August 1936** (the "Marois Issue"), **1** and **29 July 1939**, **4** and **22 August 1940** [src_ymf_the_green_triangle_1936_08_13, src_ymf_the_green_triangle_1939_07_01, src_ymf_the_green_triangle_1939_07_29, src_ymf_the_green_triangle_1940_08_04, src_ymf_the_green_triangle_1940_08_22]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. With these the whole digitized 1932–1982 run has been read.
+54. *Ka-News*, **January 1978**, **1 December 1979**, **6 February 1981** and **21 April 1981** [src_ymf_ka_news_1978_01, src_ymf_ka_news_1979_12_01, src_ymf_ka_news_1981_02_06, src_ymf_ka_news_1981_04_21]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.

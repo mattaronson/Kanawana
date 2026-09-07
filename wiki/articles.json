@@ -3396,7 +3396,11 @@
         "src_ymf_the_green_triangle_1939_07_01",
         "src_ymf_the_green_triangle_1939_07_29",
         "src_ymf_the_green_triangle_1940_08_04",
-        "src_ymf_the_green_triangle_1940_08_22"
+        "src_ymf_the_green_triangle_1940_08_22",
+        "src_ymf_ka_news_1981_04_21",
+        "src_ymf_ka_news_1978_01",
+        "src_ymf_ka_news_1979_12_01",
+        "src_ymf_ka_news_1981_02_06"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -3415,7 +3419,7 @@
         "traditions/knights-of-kanawana"
       ],
       "file_id": null,
-      "word_count": 12026,
+      "word_count": 12159,
       "notes": "E1 REVIEW (2026-02-19): Fixed non-existent src_concordia_12B04 in header (removed; src_concordia_atom_12B04 already present). Fixed '131-year history' ambiguity to 'more than 130 years'. All claims cited, dates consistent, names cross-checked, tone encyclopedic. | 2026-08-14: cross-linked to the new traditions/order-of-owens.md. | 2026-08-14: NEW prose section on the Order of the Knights of Kanawana, giving the proclamation text and the six challenges for knighthood (previously the KB held the oath and the 1980-2009 roll but not the criteria). NOTE: this article is E1-reviewed and has received substantive new content; warrants a re-REVIEW pass. | 2026-08-14 (2nd pass): charter mined further -- A/B/C skill-grading system across named activities (f_2004), 'Kamp' spelling in challenge 5 corroborating the pre-2005 usage (f_2005), and the birchbark medium/composition (f_2006).",
       "tags": {
         "era": [
@@ -6230,7 +6234,11 @@
         "src_ia_kanawana_report_1978",
         "src_ia_kanawana_report_1979",
         "src_ia_kanawana_report_1987",
-        "src_twynam_johnston_2004"
+        "src_twynam_johnston_2004",
+        "src_ymf_ka_news_1981_02_06",
+        "src_ymf_ka_news_1981_04_21",
+        "src_ymf_ka_news_1979_12_01",
+        "src_ymf_ka_news_1978_01"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -6240,7 +6248,7 @@
         "canadian-camping-movement"
       ],
       "file_id": null,
-      "word_count": 1541,
+      "word_count": 1911,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical, and fixed staleness: this article still described conflict c_007 as unresolved when it had actually been resolved (1979) back in Campaign 25 -- updated the Directorship section and Open Question 1 to state the resolved understanding, added a Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -9758,7 +9766,11 @@
         "src_porter_sargent_guides_1983_1987",
         "src_summer_camps_and_programs_1983",
         "src_ymca_john_island_newsletter",
-        "src_ymca_kanawana_history"
+        "src_ymca_kanawana_history",
+        "src_ymf_ka_news_1981_02_06",
+        "src_ymf_ka_news_1981_04_21",
+        "src_ymf_ka_news_1978_01",
+        "src_ymf_ka_news_1979_12_01"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -9774,7 +9786,7 @@
         "movement-archive-turn"
       ],
       "file_id": null,
-      "word_count": 4192,
+      "word_count": 4238,
       "notes": "2026-07-11: Workstream C4 spawn (3 of 4). Connective-narrative synthesis, no new research conducted. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit. | 2026-08-14 p_225 research: deep web research resolved three long-standing questions against PRIMARY sources (YMCA of Montreal news release 1970 + annual reports 1977-79 on Internet Archive; Camp Pascobac's own history page; broadcasting-history.ca).",
       "tags": {
         "era": [

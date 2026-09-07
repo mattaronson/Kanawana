@@ -1,7 +1,7 @@
 # G. David Twynam
 
-*Status: E1-reviewed | Sources: 13*
-*Last Updated: 2026-08-14*
+*Status: E1-reviewed | Sources: 14*
+*Last Updated: 2026-09-07 (in post to April 1981, and the Nancy of the Ka-News letters)*
 
 ## Overview
 
@@ -53,6 +53,31 @@ Twynam was also involved in the Heart of Gold Project, an international sustaina
 
 Twynam holds a doctorate, as confirmed by the title "Dr." in multiple institutional sources and "Dave Twynam, PhD" on the Heart of Gold Project website.^10 His ResearchGate profile lists an affiliation with the University of British Columbia, which may indicate a UBC connection — possibly for his PhD — but the specific degree-granting institution has not been confirmed.^4 His undergraduate education is unknown.
 
+**He was still in post in February and April 1981**, which moves the last confirmed year on by one.
+Two issues of *Ka-News* survive from that spring, both written in the first person by the camp's
+director and both signed only "Dave," on YMCA of Montreal letterhead at 1441 rue Drummond.^14 The
+February one opens hiring for the season — "included please find one Returnee Staff application… we
+are going to start hiring personnel very shortly" — and the April one reports that "the gang downtown
+(**Dave, Nancy and Dave**) are busy helping **Olga** to prepare for K.K. '81. Lots of phone,
+interviewing and planning."
+
+**And it explains who Nancy was.** In the same February letter, between the staff salaries and the
+waterfront works: "**Nancy and I are getting married February 28**, for those of you who have not
+heard." [[people/directors-index|The directors index]] records **Nancy Sawyer** as Assistant Director
+in 1980, identified from *Ka-News* as serving under "Dave." She is named beside him again in the April
+1981 letter. The identification of "Dave" as Twynam rests, as it did before, on the directorship dates
+rather than on a signature — the letters give no surname — but a Dave and a Nancy running the camp
+office together across 1980 and 1981, marrying in between, is a good deal more coherent than two
+unrelated Daves.
+
+**What else the two letters carry.** Staff salaries rose "**$100–$200 in all areas**" for 1981. Julien
+Tassé "worked on the Boating waterfront area, it looks better and has a fireplace, **also the Totem
+pole still stands**." **Doug Peets** "has sold over **$1,000 worth of advertising in the K.K.
+Brochure**, the money will be used on equipment" — so the camp's own brochure carried paid advertising
+and was a revenue item. And the 1979 letter shows the administrative side of a season's end: the
+director chasing outstanding staff reports by withholding final cheques, and hunting missing **data
+cards** because "parents are calling wondering what happened to them."
+
 ## Open Questions
 
 1. ~~[Critical] What were the exact years of Twynam's Kanawana directorship? Archival correspondence is dated 1979 (or possibly 1976 — see conflict c_007)~~ [Resolved 2026-07-09] A full raw fetch (not a search-snippet) of Concordia's 12B01 finding aid confirms exactly one Twynam entry exists — "Camp director Dave Twynam-correspondence. -- 1979" (Box HA2054) — with no separate 1976 entry anywhere in the list, resolving conflict c_007 in favour of 1979. The Ka-News reference still extends his documented tenure to 1980.
@@ -82,6 +107,7 @@ Twynam holds a doctorate, as confirmed by the title "Dr." in multiple institutio
 11. Twynam, G.D. & Johnston, M.E. (2004). Study of volunteer/resident perceptions, 1995 Nordic World Ski Championships, Thunder Bay [src_twynam_johnston_2004].
 12. *Kamp Kanawana Director's Report 1979*, YMCA of Montreal (Internet Archive) [src_ia_kanawana_report_1979]; and the 1974-1978 reports establishing Walsh as predecessor [src_ia_kanawana_report_1974, src_ia_kanawana_report_1978].
 13. *Kamp Kanawana Director's Report 1987* [src_ia_kanawana_report_1987].
+14. *Ka-News*, **January 1978**, **1 December 1979**, **6 February 1981** and **21 April 1981** [src_ymf_ka_news_1978_01, src_ymf_ka_news_1979_12_01, src_ymf_ka_news_1981_02_06, src_ymf_ka_news_1981_04_21]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 
 ## Research Notes
 

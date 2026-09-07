@@ -1,8 +1,8 @@
 {
-  "version": "10.02",
-  "kb_version": "10.02",
+  "version": "10.03",
+  "kb_version": "10.03",
   "migrated_from": "3.3",
-  "fact_count": 5495,
+  "fact_count": 5498,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99078,6 +99078,61 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.02",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5534",
+      "category": "people",
+      "date_ref": "1981",
+      "entities": [
+        "Dave Twynam",
+        "Nancy Sawyer",
+        "Olga Hall",
+        "Julien Tassé",
+        "Camp Kanawana"
+      ],
+      "claim": "TWYNAM IN POST TO APRIL 1981, AND THE NANCY OF THE KA-NEWS LETTERS EXPLAINED. wiki/history/between-centennials.md said 'Twynam's tenure is last confirmed in 1980'. Two Ka-News issues of spring 1981, both written in the first person by the camp's director on YMCA of Montreal letterhead at 1441 rue Drummond and both signed only 'Dave', move that on by a year. FEBRUARY opens hiring -- 'included please find one Returnee Staff application... we are going to start hiring personnel very shortly'. APRIL reports 'the gang downtown (DAVE, NANCY AND DAVE) are busy helping OLGA to prepare for K.K. '81'. AND THE FEBRUARY LETTER EXPLAINS NANCY: between the staff salaries and the waterfront works, 'NANCY AND I ARE GETTING MARRIED FEBRUARY 28, for those of you who have not heard.' The directors index records NANCY SAWYER as Assistant Director in 1980, identified from Ka-News as serving under 'Dave'. THE IDENTIFICATION OF 'DAVE' AS TWYNAM STILL RESTS ON THE DIRECTORSHIP DATES AND NOT ON A SIGNATURE -- the letters give no surname -- but a Dave and a Nancy running the camp office together across 1980 and 1981 and marrying in between is far more coherent than two unrelated Daves. ALSO FROM THE SAME LETTERS: staff salaries rose $100-$200 IN ALL AREAS for 1981; JULIEN TASSE 'worked on the Boating waterfront area, it looks better and has a fireplace, ALSO THE TOTEM POLE STILL STANDS'; and DOUG PEETS 'has sold over $1,000 WORTH OF ADVERTISING IN THE K.K. BROCHURE, the money will be used on equipment' -- so the camp's own brochure carried paid advertising and was a revenue item.",
+      "sources": [
+        "src_ymf_ka_news_1981_02_06",
+        "src_ymf_ka_news_1981_04_21"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5535",
+      "category": "traditions",
+      "date_ref": "1936-1981",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "THE REUNION TRADITION RAN FROM ABOUT 1909 TO AT LEAST 1981, AND BY THE END IT HAD SPLIT IN TWO. Ka-News of 21 April 1981: 'KAMPER REUNION AT WESTMOUNT Y ON MAY 2... All are welcome of course, and hope to see you there. STAFF REUNION/GET-TOGETHER is tentatively planned for MAY 30/31 IN ST. SAUVEUR.' The Green Triangle's Re-union Number of October 1936 marks 'the twenty-seventh annual re-union of old Kanawanians', counting the series from about 1909 (f_5513). FORTY-FIVE YEARS LATER THE CAMP WAS STILL HOLDING ONE -- two, in fact, a CAMPERS' REUNION IN THE CITY and a STAFF REUNION AT THE CAMP, five weeks apart. Neither this project nor the wiki had any record of Kanawana reunions before today.",
+      "sources": [
+        "src_ymf_ka_news_1981_04_21"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5536",
+      "category": "documents",
+      "date_ref": "1978-01",
+      "entities": [
+        "Ka-News",
+        "The Green Triangle",
+        "Camp Kanawana"
+      ],
+      "claim": "KA-NEWS AND THE GREEN TRIANGLE WENT OUT AS ENCLOSURES OF ONE MAILING, WHICH REFINES THE CORRECTION MADE EARLIER TODAY. The Ka-News of January 1978: 'You will see by THE ATTACHED GREEN TRIANGLE that we have begun our hiring for this summer.' f_5467 read the April 1978 bulletin's 'a Green Triangle will follow next week' as the two titles ALTERNATING; f_5522 corrected that to a director's circular sent to whichever constituency a mailing needed. THIS IS SHARPER AGAIN: in January 1978 the Green Triangle was PHYSICALLY ENCLOSED WITH the Ka-News, so they were not two mailings in rotation but one envelope with two sheets in it, each doing a different job -- Ka-News the director's letter, the Green Triangle the hiring notice. The April promise that one 'will follow next week' is then a separate sheet due shortly, not an alternating title.",
+      "sources": [
+        "src_ymf_ka_news_1978_01"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.03",
       "added_by": "ralph_loop"
     }
   ]
