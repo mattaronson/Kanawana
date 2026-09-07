@@ -140,13 +140,29 @@ for a in sorted(DRAFTS, key=lambda x: x['article_id']):
     body = parts[0]
     srcsec = re.split(r'^## ', parts[1], flags=re.M)[0] if len(parts) > 1 else ''
 
+    # 2026-09-07: a reader-facing article carries the same two fields in an HTML
+    # comment instead of a visible status line, because "draft"/"R3-verified" is
+    # pipeline vocabulary and does not belong in front of a reader. Its status is
+    # necessarily 'reader-facing' and will not equal articles.json's pipeline
+    # status, so the status comparison is skipped for that form -- articles.json
+    # keeps the pipeline state and a separate reader_facing flag records the rest.
     m = hdr_src_re.search(text)
-    if not m:
-        issues.append('F: no parseable "*Status: X | Sources: N*" header line')
+    mm = meta_src_re.search(text) if not m else None
+    if not m and not mm:
+        issues.append('F: no parseable "*Status: X | Sources: N*" header line '
+                      'and no "<!-- meta: status=... | sources=N -->" comment')
         hdr_n = None
+    elif mm:
+        hdr_n = int(mm.group(2))
+        if not a.get('reader_facing'):
+            issues.append('F: carries a reader-facing meta header but articles.json '
+                          'does not set reader_facing: true')
     else:
         hdr_status, hdr_n = m.group(1), int(m.group(2))
-        if hdr_status != a['status']:
+        if a.get('reader_facing'):
+            issues.append('F: articles.json sets reader_facing: true but the article '
+                          'still carries a visible pipeline status line')
+        elif hdr_status != a['status']:
             issues.append('F: header status %r != articles.json status %r' % (hdr_status, a['status']))
 
     numbered = srcline_re.findall(srcsec)
@@ -185,8 +201,10 @@ for a in sorted(DRAFTS, key=lambda x: x['article_id']):
     if bad_links:
         issues.append('E: broken wiki-links: %s' % sorted(set(bad_links)))
 
-    if not re.search(r'^\*Last Updated:', text, re.M):
-        issues.append('G: no "*Last Updated:*" line')
+    # G accepts the reader-facing form's updated= field for the same reason.
+    if not re.search(r'^\*Last Updated:', text, re.M) and not re.search(
+            r'^<!--\s*meta:.*\bupdated=\d{4}-\d{2}-\d{2}', text, re.M):
+        issues.append('G: no "*Last Updated:*" line and no updated= in the meta comment')
 
     report[a['article_id']] = issues
 

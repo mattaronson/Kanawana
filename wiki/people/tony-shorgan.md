@@ -1,7 +1,8 @@
 # Tony Shorgan
 
-*Status: draft | Sources: 6*
-*Last Updated: 2026-09-05*
+*Founder of the French-language camping association of Quebec, active 1943 – 1988*
+
+<!-- meta: status=reader-facing | sources=6 | updated=2026-09-07 -->
 
 ## Overview
 
@@ -12,10 +13,9 @@ Children's Camp at St-Alphonse-de-Joliette**, a member of the Quebec Camping Ass
 **1943**, first president of its French section from **1958**, **Vice-President of the QCA by 1959**, and
 by 1975 one of its Past Presidents and Honorary Members.^1 ^2 ^5
 
-He has no article in this wiki until now, and no connection to Kanawana that this project has
-documented. He is here because **the institution that inspects and accredits Kanawana exists in its
-present form largely because of what he did between 1957 and 1960**, and because he wrote down how,
-which almost nobody in this record did.
+**No source places him at Kanawana.** He belongs in this history for a different reason: the institution
+that inspects and accredits Kanawana exists in its present form largely because of what he did between
+1957 and 1960, and he wrote down how he did it — which almost none of his contemporaries did.
 
 ## The founding, in his own dates
 
@@ -31,11 +31,10 @@ Québec)" in *Canadian Camping*.^1 It is the founding narrative from the man who
 | **1959** | A newsletter every two months; inter-camp visits inaugurated, French directors visiting English and Jewish camps |
 | **1960** | The group changes its own name to **"Association des Camps du Québec (Section Française)"** |
 
-That 1960 renaming is why he matters to this wiki's institutional record. The association Kanawana is
-accredited by carries **the French section's name**, adopted by that section for itself before the merger
-with the QCA Inc. (English Section) — a different descent from "the Quebec Camping Association renamed"
-[f_4863, f_4864]. See [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping
-Movement]].
+That 1960 renaming is the reason his name matters institutionally. The association Kanawana is accredited
+by carries **the French section's name**, adopted by that section for itself before the merger with the
+QCA Inc. (English Section) — a different line of descent from "the Quebec Camping Association renamed".
+See [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]].
 
 **He was frank about why the merger waited.** Reporting the first year in June 1959: "The feeling was
 that some of the Camp Directors might be handicapped because they did not understand the English
@@ -71,23 +70,21 @@ approximately one hundred in number."^2
   after the blizzard meeting he was still the person handed the province's own history.
 
 **On the spelling.** His byline and the 1959 report give **Shorgan**; the 1987 Quebec column gives
-*Shorgun*. The byline is the better authority, and both spellings are kept here so a search on either
-finds him.
+*Shorgun*. The byline is the better authority, and both spellings are given here so that a search on
+either will find him.
 
 ## Open Questions
 
-1. **[Important]** Did the 1988 fiftieth-anniversary observance happen, and did it produce a programme,
-   a press notice or a commemorative publication? It would be a history of Quebec camping assembled by a
-   participant, and Kanawana would be in it. A 1988 Shorgan anniversary document is the strongest single
-   lead attached to his name [f_4620].
-2. **[Important]** What are his dates, and what was his first name in full? "Tony" is what every source
-   in this project calls him. No obituary has been searched for.
-3. **[Nice-to-have]** Is there any documented contact between Shorgan and Kanawana? He and Kanawana's
-   directors sat in the same provincial association for two decades and appear in the same officer
-   lists, but no source here puts them in a room together.
-4. **[Nice-to-have]** Which director was it who told him he needed nobody to dictate to him, and then
-   became president of the French section? Shorgan declines to name him; the section's presidential
-   succession would identify him.
+1. Did the 1988 fiftieth-anniversary observance happen, and did it produce a programme, a press notice
+   or a commemorative publication? It would be a history of Quebec camping assembled by a participant,
+   and Kanawana would be in it.
+2. What are his dates, and what was his first name in full? "Tony" is the only form any surviving source
+   gives.
+3. Is there any documented contact between Shorgan and Kanawana? He and Kanawana's directors sat in the
+   same provincial association for two decades and appear in the same officer lists, but no source puts
+   them in a room together.
+4. Which director told him he needed nobody to dictate to him, and then became president of the French
+   section? Shorgan declines to name him; the section's presidential succession would identify him.
 
 ## Related Articles
 
@@ -96,14 +93,21 @@ finds him.
 
 ## Sources
 
-1. Tony Shorgan, "Birth of the French Camping Association (l'Association des Camps du Québec)," *Canadian Camping* Vol. 17 No. 3, April 1965, pp. 83–84 [src_cache_canadiancampingmagazine_vol17no3_1965april]. See [f_3146], [f_3147], [f_3149], [f_4863], [f_4864].
-2. Tony Shorgan's report of the French section's first year, *Canadian Camping*, June 1959 [src_ia_canadian_camping_collection]. The hundred invitations, the deferred merger and the language reason. See [f_2870], [f_2871], [f_2873].
-3. Tony Shorgan, on the Crippled Children's Camp at St-Alphonse-de-Joliette, *Canadian Camping*, December 1960 [src_ia_canadian_camping_collection]. See [f_2932].
-4. The same article's argument against over-protection [src_ia_canadian_camping_collection]. See [f_2933].
-5. Quebec association officer lists, January 1975 [src_ia_canadian_camping_collection]. Past Presidents and English Section Honorary Members. See [f_3821], [f_3826].
-6. Ken Willis, Quebec column, *Canadian Camping* Vol. 38 No. 3, Winter 1987 [src_ia_canadian_camping_collection]. The 1938 dating and the 1988 anniversary planning. See [f_4617], [f_4620].
+1. Tony Shorgan, "Birth of the French Camping Association (l'Association des Camps du Québec)," *Canadian Camping* Vol. 17 No. 3, April 1965, pp. 83–84 [src_cache_canadiancampingmagazine_vol17no3_1965april].
+2. Tony Shorgan's report of the French section's first year, *Canadian Camping*, June 1959 [src_ia_canadian_camping_collection]. The hundred invitations, the deferred merger and the language reason.
+3. Tony Shorgan, on the Crippled Children's Camp at St-Alphonse-de-Joliette, *Canadian Camping*, December 1960 [src_ia_canadian_camping_collection].
+4. The same article's argument against over-protection [src_ia_canadian_camping_collection].
+5. Quebec association officer lists, January 1975 [src_ia_canadian_camping_collection]. Past Presidents and English Section Honorary Members.
+6. Ken Willis, Quebec column, *Canadian Camping* Vol. 38 No. 3, Winter 1987 [src_ia_canadian_camping_collection]. The 1938 dating and the 1988 anniversary planning.
 
 ## Research Notes
+
+*Reader-facing pass, 2026-09-07. Fact-level provenance moved out of the source notes; nothing deleted.*
+
+**Provenance.** Source 1 → [f_3146], [f_3147], [f_3149], [f_4863], [f_4864] (the last two carrying the
+descent of the association's name). Source 2 → [f_2870], [f_2871], [f_2873]. Source 3 → [f_2932].
+Source 4 → [f_2933]. Source 5 → [f_3821], [f_3826]. Source 6 → [f_4617], [f_4620]; [f_4620] is the 1988
+anniversary lead named in Open Question 1 and is the strongest single lead attached to his name.
 
 <!-- Created 2026-09-05 (p_336) from facts already in this KB — 23 of them mention him — plus a full
 read of his April 1965 article. Status draft rather than stub: six sources, a documented chronology and

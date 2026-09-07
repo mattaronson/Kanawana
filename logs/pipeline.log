@@ -7972,3 +7972,20 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   MECHANICAL NOTE: this log entry failed to write the first time. An unquoted heredoc (needed so the timestamp would expand) also let bash
   command-substitute the backticks in a code span, and the whole entry was lost while the commit went through without it. Use a QUOTED
   heredoc and append the timestamp separately.
+2026-09-07T21:27:55Z  PUBLICATION PASS, article 2 of 3: tony-shorgan reader-facing. THE COST DRIVER IS NOT LENGTH.
+  MEASUREMENT, article 2: 1,197 body words -> 1,154. Ids 17 -> 0. Self-reference 5 -> 0.
+  COMPARE ARTICLE 1: 1,891 -> 1,392, a 26 per cent rewrite. Article 2 is a 3.6 per cent rewrite of a
+  comparable-length article with MORE fact ids in it.
+  WHY THE DIFFERENCE, and this is the finding: Tasse had an entire section that was THE STORY OF THE ARTICLE'S OWN EARLIER ERROR, and an
+  Overview whose best line was about the project discovering him rather than about him. Shorgan was already written about Shorgan. Stripping
+  seventeen fact ids from source notes is mechanical and near-free. Rewriting a section that is secretly about us is not.
+  SO THE COST IS NOT PER WORD AND NOT PER ID. It is per passage where the article's subject is the research rather than the camp. That is
+  a property this project can measure -- and the earlier "register" count of ids and grep/OCR mentions DOES NOT MEASURE IT. Shorgan scored
+  14.4 per thousand, the second-densest article in the wiki, and cost almost nothing.
+  SECOND HARNESS GAP, AND IT IS WORSE FOR DRAFTS. Article 1 was R3-verified and escaped checks F and G entirely (draft-only scope). Article 2
+  is a DRAFT, so both fired: "F: no parseable Status header" and "G: no Last Updated line". A reader-facing article has neither by design.
+  FIXED: F and G now accept the meta comment, AND F enforces the convention in BOTH DIRECTIONS -- it fails an article carrying a reader-facing
+  meta header without reader_facing:true in articles.json, and fails one flagged reader_facing that still shows a pipeline status line.
+  CALIBRATED against all three cases before being trusted; all three behave, correct state silent.
+  RUNNING TOTAL OF HARNESS WORK: three checks taught a second article format (A1, F, G). All one-time. Article 3 is the test of whether it
+  is now actually zero.
