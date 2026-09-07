@@ -13981,12 +13981,12 @@
       "cache_path": "sources/cache/ymca-montreal-fonds/1965-the-chestnut.txt",
       "char_count": 11762,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
-      "extraction_version": "v5.60",
+      "extracted": true,
+      "extraction_version": "v9.85",
       "reliability": "primary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ WORD FOR WORD 2026-09-07 under p_482, and the richest single item worked from the fonds backlog so far. The Pathfinder section's 'Summer Summary' for 1965: the section's own yell, printed as original to that year; staff profile pages that put the same questions to nearly every member of staff, including whether the camp should be coeducational, which makes the issue readable as a POLL TWO YEARS BEFORE THE 1967 ANNOUNCEMENT (seven for, three against); A. Ross Seaman interviewed by the boys, giving the camp's size as 226 campers and 69 staff and arguing for coeducation; biographical detail on Julien Tasse (33, seven years at camp, his winter work); 'Ric Patten' spelled correctly on the joke advertisements page though rendered 'Petten' in his profile; Barbara Jack as the 21-year-old camp nurse, which bears on the 2001 Thursday Report's unnamed camp; and a camper's essay 'Internationality at Camp'. OCR confuses a and e throughout.",
+      "read_state": "read",
+      "read_state_basis": "read-word-for-word-2026-09-07-under-p_482"
     },
     {
       "source_id": "src_ymf_1966_05_02_proposal_for_expansion",
@@ -15550,9 +15550,9 @@
       "extracted": false,
       "extraction_version": "v5.60",
       "reliability": "primary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ IN FULL 2026-09-07 under p_482, which took under a minute: THE ITEM IS AN IMAGE AND ITS OCR SIDECAR IS ONLY A CAPTION -- 41 and 202 characters respectively. There is no body text to read and never was. Recorded as read rather than left at 'skimmed' so that it stops appearing in counts of unread material; the picture itself is unexamined and is part of the fonds image backlog, which is a separate question.",
+      "read_state": "read",
+      "read_state_basis": "read-in-full-2026-09-07-the-item-is-an-image-with-a-caption"
     },
     {
       "source_id": "src_ymf_kanawana_orienteering_map_1974",
@@ -15604,9 +15604,9 @@
       "extracted": false,
       "extraction_version": "v5.60",
       "reliability": "primary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ IN FULL 2026-09-07 under p_482, which took under a minute: THE ITEM IS AN IMAGE AND ITS OCR SIDECAR IS ONLY A CAPTION -- 41 and 202 characters respectively. There is no body text to read and never was. Recorded as read rather than left at 'skimmed' so that it stops appearing in counts of unread material; the picture itself is unexamined and is part of the fonds image backlog, which is a separate question.",
+      "read_state": "read",
+      "read_state_basis": "read-in-full-2026-09-07-the-item-is-an-image-with-a-caption"
     },
     {
       "source_id": "src_ymf_memorandum_on_property_pruchase_for_a_college_building",

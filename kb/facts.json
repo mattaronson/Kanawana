@@ -1,8 +1,8 @@
 {
-  "version": "9.84",
-  "kb_version": "9.84",
+  "version": "9.86",
+  "kb_version": "9.86",
   "migrated_from": "3.3",
-  "fact_count": 5448,
+  "fact_count": 5451,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -97844,7 +97844,7 @@
         "McGill University",
         "Derek Walsh"
       ],
-      "claim": "THE QUEBEC CAMPING ASSOCIATION RAN A ONE-DAY COUNSELLORS' WORKSHOP AT McGILL IN MAY 1978, AND KANAWANA OFFERED TO PAY FOR IT. From the same bulletin: 'The Quebec Camping Association is sponsoring a ONE DAY WORKSHOP ON SATURDAY, MAY 13TH, AT McGILL (SIR ARTHUR CURRIE GYM). Some of the sessions include: SONG LEADING, GAMES, DRAMATICS, ATTITUDES FOR RAINY DAYS, AQUATICS, NATURE, FOLK DANCING, CAMPFIRES, ETC. It should be a valuable program for any staff member, particularly new counsellors. KAMP KANAWANA IS PREPARED TO SPONSOR YOU, so please let me know if you are able to attend.' Registration for the advance rate ran through Walsh or MRS. HALL by 4 May; he hoped for 'a large group of KANAWANITANS present'. A parallel Ontario Camping Association programme ran 6 MAY 1978, contact (416) 486-8630. THREE THINGS HERE ARE NEW TO THIS PROJECT. The session list is a direct statement of WHAT THE QUEBEC ASSOCIATION THOUGHT A COUNSELLOR NEEDED IN 1978, and its first four items are cultural rather than technical. The sponsorship shows the camp PAYING FOR OUTSIDE TRAINING for seasonal staff. And 'KANAWANITANS' is a demonym this wiki has not recorded -- it holds 'old Kanawanians' from 1938, a different formation.",
+      "claim": "THE QUEBEC CAMPING ASSOCIATION RAN A ONE-DAY COUNSELLORS' WORKSHOP AT McGILL IN MAY 1978, AND KANAWANA OFFERED TO PAY FOR IT. From the same bulletin: 'The Quebec Camping Association is sponsoring a ONE DAY WORKSHOP ON SATURDAY, MAY 13TH, AT McGILL (SIR ARTHUR CURRIE GYM). Some of the sessions include: SONG LEADING, GAMES, DRAMATICS, ATTITUDES FOR RAINY DAYS, AQUATICS, NATURE, FOLK DANCING, CAMPFIRES, ETC. It should be a valuable program for any staff member, particularly new counsellors. KAMP KANAWANA IS PREPARED TO SPONSOR YOU, so please let me know if you are able to attend.' Registration for the advance rate ran through Walsh or MRS. HALL by 4 May; he hoped for 'a large group of KANAWANITANS present'. A parallel Ontario Camping Association programme ran 6 MAY 1978, contact (416) 486-8630. THREE THINGS HERE ARE NEW TO THIS PROJECT. The session list is a direct statement of WHAT THE QUEBEC ASSOCIATION THOUGHT A COUNSELLOR NEEDED IN 1978, and its first four items are cultural rather than technical. The sponsorship shows the camp PAYING FOR OUTSIDE TRAINING for seasonal staff. And 'KANAWANITANS' is a demonym this wiki has not recorded -- it holds 'old Kanawanians' from 1938, a different formation. [IDENTIFIED 2026-09-07: 'MRS. HALL' IS OLGA HALL, KANAWANA'S CAMP SECRETARY. This wiki already holds her, from the other direction. A YMCA news release of 26 October 1973 gives the contact for the camp's winter ski programme as 'MRS. OLGA HALL AT 849-5331' -- the camp office number printed on Kanawana's own recruitment advertising throughout this period, and the number the 1978 bulletin's readers were told to call. The 1977 director's report thanks her by name as camp secretary, noting that the building and renovation work 'as well as the camp director being President of the Q.C.A. substantially increased her work load'; f_5222 has her preparing the Kanawana Outing Club winter programme WITH DEREK WALSH IN 1978, the same man and the same season as this bulletin. So the woman taking the workshop registrations in April 1978 is the camp secretary who, per Julien Tasse's article, carried four different camp directors.]",
       "sources": [
         "src_ymf_ka_news_1978_04_28"
       ],
@@ -97914,9 +97914,10 @@
       "entities": [
         "A. Ross Seaman"
       ],
-      "claim": "A CAMP NURSE WHO WORKED WITH SEAMAN, AND THE CAMP IS NOT NAMED. The 2001 report says of the winner Barbara Jack that she 'was also lucky enough to have WORKED WITH ROSS SEAMAN AS A CAMP NURSE early on in her professional career.' RECORDED WITHOUT THE INFERENCE: Seaman directed Kanawana from 1959 to 1967 and the sentence appears in an article about an award with a Kanawana seat, so Kanawana is the obvious reading -- but the report does not say Kanawana, Seaman worked at other camps, and this project has been wrong before by completing a sentence a source left open. If the camp is ever established the fact is a line on Kanawana's medical staffing; until then it is a lead.",
+      "claim": "A CAMP NURSE WHO WORKED WITH SEAMAN, AND THE CAMP IS NOT NAMED. The 2001 report says of the winner Barbara Jack that she 'was also lucky enough to have WORKED WITH ROSS SEAMAN AS A CAMP NURSE early on in her professional career.' RECORDED WITHOUT THE INFERENCE: Seaman directed Kanawana from 1959 to 1967 and the sentence appears in an article about an award with a Kanawana seat, so Kanawana is the obvious reading -- but the report does not say Kanawana, Seaman worked at other camps, and this project has been wrong before by completing a sentence a source left open. If the camp is ever established the fact is a line on Kanawana's medical staffing; until then it is a lead. [ADVANCED 2026-09-07, and the camp is very probably Kanawana after all. The Chestnut of 1965 profiles Kanawana's staff and includes: 'BARBARA JACK -- the nurse, is 21 YEARS OF AGE and is a nurse by occupation. She came to camp on advice of Dave Hardcastle. THIS IS HER FIRST CAMP JOB and she wishes to return next year - she likes outdoor atmosphere.' FOUR PARTICULARS CONVERGE: the same name, the same role, the same director -- Seaman was Chief at Kanawana in 1965 -- and a first camp job, which is exactly what 'early on in her professional career' describes for someone taking a Concordia degree decades later. THIS IS STILL AN INFERENCE FROM CONVERGENT PARTICULARS AND NOT A DOCUMENTED IDENTITY, and the caution in the original fact stands rather than being deleted: the 2001 report does not name the camp, and a shared surname is not a person. But it is a great deal more than a coincidence of name, and the 1965 camp is Kanawana. The same profile records her AGAINST coeducation, on the ground that 'we are the wrong age to associate with girls' -- see f_5487.]",
       "sources": [
-        "src_concordia_thursday_report_2001_04_12"
+        "src_concordia_thursday_report_2001_04_12",
+        "src_ymf_1965_the_chestnut"
       ],
       "confidence": "stated",
       "conflicts_with": [],
@@ -98249,6 +98250,59 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5487",
+      "category": "history",
+      "date_ref": "1965",
+      "entities": [
+        "Camp Kanawana",
+        "A. Ross Seaman",
+        "Julien Tassé",
+        "Barbara Jack"
+      ],
+      "claim": "A STAFF POLL ON COEDUCATION IN 1965, TWO YEARS BEFORE THE ANNOUNCEMENT, IN THE CAMPERS' OWN PUBLICATION. The Chestnut, the Pathfinder section's Summer Summary for 1965, profiles nearly every member of staff and puts the same questions to each, so the issue can be read as a poll. FOR (seven): A. ROSS SEAMAN, asked what he would change, named 'a good staff lounge and A CO-EDUCATIONAL CAMP' and, pressed, 'said BOYS AND GIRLS SHOULD BE TOGETHER AND IT WOULD BE GOOD FOR THE MORALE'; BILLY, 19, a Sir George Williams student and tent-one counsellor, 'would like to see KK coeducational FOR AN EXPERIMENTAL YEAR'; STEVE MILLS, 18, McGill dentistry, first at camp ten years earlier as a camper; JULIEN TASSE; ARNIE ACHTMAN, 17, in his tenth year; GAVIN TURLEY, Sir George Williams, first year; and JORGE JEMALTKA, nature lore, six years. AGAINST (three), with different reasons: BILL McDONALD 'dislikes T-GROUPS AND COEDUCATIONAL CAMPS', pairing it with sensitivity training; DOC SWAINE, 35, a Lakeshore physician who came at the Chief's request, because 'he thinks it is A GOOD IDEA FOR BOYS TO BE TOGETHER'; and BARBARA JACK, 21, the camp nurse and the only woman recorded on the question, because 'she thinks WE ARE THE WRONG AGE TO ASSOCIATE WITH GIRLS'. WHAT IT IS WORTH. Ten opinions is not a referendum. But wiki/history/coeducation-gender.md already argued from the 1935 precedent that 'the proposal came from members and staff rather than from above', and this is that claim in individual voices, two years early, with the director, the youngest counsellors, the longest-serving handyman and a ten-year camper for it, a doctor, a counsellor and the nurse against, and NOBODY TREATING THE QUESTION AS OUTLANDISH. Seaman also gives the camp's size in the same interview: 226 CAMPERS AND 69 STAFF.",
+      "sources": [
+        "src_ymf_1965_the_chestnut"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.85",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5488",
+      "category": "people",
+      "date_ref": "1965",
+      "entities": [
+        "Julien Tassé",
+        "Camp Kanawana"
+      ],
+      "claim": "THE FIRST HARD BIOGRAPHICAL FACTS ABOUT JULIEN TASSE. The Chestnut of 1965: 'JULIAN IS 33 YEARS OF AGE. He has been WORKING AT CAMP FOR SEVEN YEARS. He would like to see KK as a COEDUCATIONAL CAMP. His favourite expression is SACRE BLEU. In the winter, HE PAINTS BOATS, HE SHOVELS SNOW AND MAKES AND REPAIRS SCREENS. These are only a few of his many jobs.' FOUR THINGS FOLLOW. Thirty-three in the summer of 1965 puts his BIRTH AT ABOUT 1932. Seven years at camp puts his START AT ABOUT 1958, several years before the run of director's reports that name him from 1964 onward -- so the documentary record picks him up late. THE WINTER WORK ANSWERS A QUESTION wiki/people/julien-tasse.md RAISES about what he did between seasons: boat paint, snow and window screens. And he was FOR COEDUCATION in 1965, which puts the longest-serving man on the site with the director and against the camp doctor.",
+      "sources": [
+        "src_ymf_1965_the_chestnut"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.85",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5489",
+      "category": "people",
+      "date_ref": "1965",
+      "entities": [
+        "Richard Patten",
+        "Camp Kanawana"
+      ],
+      "claim": "THE 1965 CHESTNUT SPELLS THE NAME PATTEN AND DESCRIBES A STAFF CAREER THAT FITS, WITHOUT CLOSING THE QUESTION. The profile: 'Ric is 22 YEARS OF AGE and has SEVEN YEARS ON CAMP STAFF. His jobs have included being a COUNSELLOR FOR THREE YEARS and SPC FOR TWO YEARS and a SECTION DIRECTOR FOR ONE. He also was ADMIRAL FOR ONE YEAR. Ric doubts he will be back next year because of the forthcoming happy event in his life.' The profile page renders the surname 'Petten', but the same issue's joke advertisements page has 'FOR ARA & GEAR AND LOTS OF CHEER -- SEE RIC PATTEN'; the OCR confuses a and e throughout this document. SEVEN YEARS ON STAFF BY 1965 MEANS STARTING ABOUT 1958-59, which would place a 'Rick Patten' on the Advance Guard plaque of 1963 in the middle of that run -- real support for open question 1 of wiki/people/notable-alumni/richard-patten.md. IT DOES NOT CLOSE IT, AND ONE PARTICULAR IS OFF: Richard Patten was born 13 May 1942, so in the summer of 1965 he was 23, NOT 22. A year's slip in a newsletter compiled by teenagers is unremarkable; so is a second Ric Patten. Recorded as strengthened, not resolved. It answers question 2 only in part: seven years ON STAFF, nothing about years as a camper.",
+      "sources": [
+        "src_ymf_1965_the_chestnut"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.85",
       "added_by": "ralph_loop"
     }
   ]

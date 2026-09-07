@@ -1,7 +1,7 @@
 # Coeducation and Gender at Kanawana
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-09-07 (a Junior Girls Section directorship advertised in 1978)*
+*Last Updated: 2026-09-07 (the 1965 staff poll: seven for coeducation, three against, two years before the announcement)*
 
 ## Overview
 
@@ -204,6 +204,47 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 
 **A Junior Girls section had its own director in 1978, and the camp was recruiting one in April.** Kanawana's staff bulletin of 28 April 1978 lists four posts still unfilled six weeks before the season: Waterfront Director, Sailing Director, C.I.T. Director, and **Junior Girls Section Director**.^kn78 The wiki's next-nearest evidence for a named Junior Girls section is a plaque of 1992, fourteen years later. This is a small line in a recruiting notice, but it is the camp's own paper treating a Junior Girls section as an established part of the 1978 structure with a directorship of its own — not as an experiment, and not as girls attached to a boys' camp.
 
+## The 1965 staff poll
+
+The clearest evidence that Kanawana's move to coeducation came from inside the camp is not a report
+but a section newsletter. *The Chestnut*, the Pathfinder section's "Summer Summary" for **1965**,
+carries profile pages that put the same question to nearly every member of staff, and the answers can
+be counted.^ch65 Two years before the announcement, the camp was already arguing about it in print.
+
+**The Chief was for it, and said so to the campers.** Asked what he would change, A. Ross Seaman named
+"a good staff lounge and **a co-educational camp**," and when pressed further "said **boys and girls
+should be together and it would be good for the morale**." The interview is conducted by boys, printed
+in a boys' publication, and Seaman answers as though the question were ordinary.
+
+**Seven staff are recorded in favour**, in their own profiles: Seaman; **Billy**, a nineteen-year-old
+Sir George Williams student and tent-one counsellor, who "would like to see KK coeducational **for an
+experimental year**"; **Steve Mills**, eighteen, a McGill dentistry student who had first come as a
+camper ten years earlier; **Julien Tassé**; **Arnie Achtman**, seventeen and in his tenth year at
+camp; **Gavin Turley**, a Sir George Williams student in his first year; and **Jorge Jemaltka**, the
+nature lore instructor of six years' standing, who wanted the nature programme "more child centred"
+in the same breath.
+
+**Three are recorded against**, and their reasons differ. **Bill McDonald** "dislikes T-groups and
+coeducational camps" — pairing it with the sensitivity-training method, which suggests what he thought
+the change belonged to. **Doc Swaine**, thirty-five, a Lakeshore physician who came at the Chief's
+request, was against "because he thinks it is **a good idea for boys to be together**." And **Barbara
+Jack**, the twenty-one-year-old camp nurse and the only woman recorded on the question, "doesn't want
+KK to become coeducational because she thinks **we are the wrong age to associate with girls**."
+
+Ten opinions is not a referendum and *The Chestnut* is not a ballot. But the distribution is worth
+having: the director, the youngest counsellors, the longest-serving handyman and a ten-year camper all
+for it; a physician, a counsellor and the nurse against; and nobody treating the question as
+outlandish. This article already argued, from the 1935 precedent at the site Kanawana came from, that
+"the proposal came from members and staff rather than from above." The 1965 *Chestnut* is that claim
+in individual voices, two years before the decision.
+
+**And the camp was already thinking of itself as international.** A camper's own piece in the same
+issue, "Internationality at Camp" by **Billy Wenzel**: "In most tents, there are **at least three
+languages**. I think this is good because it helps campers to get along with people from different
+countries… Canadians tease people from different countries — they forget that these people are as good
+as they are. I find that an international camp is fun and adventurous and that is my main reason for
+coming to Kamp Kanawana each summer."
+
 ## Open Questions
 
 1. What do the Co-ed Camping Pilot Project reports (1967-1970, Concordia archives sub-series 12A) actually contain? Were girls at Kanawana specifically, or was the pilot across multiple YMCA camps?
@@ -237,6 +278,7 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 - [gz] *The Gazette* (Montreal), summer-camp feature, 18 April 1974 [src_newspapers_gazette_1974]. See [f_2248].
 - [pf] Concordia University Records Management and Archives, *Finding Aid — YMCA of Montreal Fonds (P0145)*, 24 November 2023, item-level audio listing [src_concordia_p0145_full_findingaid_pdf]. The reel has not been heard. See [f_2273].
 - [cp] "Interview: Charles Plewman," Jay Haddad's interview of 15 August 1976 at Plewman's Haliburton rest home, printed with the notice of his death on 28 December 1981, *Canadian Camping* Vol. 33 No. 6 (Winter 1982), pp. 4-5 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 140). Movement context, not a Kanawana document; the interview is one of the CCA/ACC oral history tapes deposited at Trent University.
+- ^ch65: *The Chestnut* ("the pathfinder — Summer Summary"), Kamp Kanawana Pathfinder section publication, 1965 [src_ymf_1965_the_chestnut]. Cached at `sources/cache/ymca-montreal-fonds/1965-the-chestnut.txt`; held since 2026-08-25 at read_state "skimmed" and read word for word 2026-09-07 under p_482. See [f_5487].
 - ^kn78: Derek Walsh, *Ka-News '78*, Kamp Kanawana staff bulletin of 28 April 1978 [src_ymf_ka_news_1978_04_28]. Cached in full at `sources/cache/ymca-montreal-fonds/ka-news-1978-04-28.txt`; read word for word 2026-09-07. See [f_5465].
 - [cm] Concordia University Archives static finding-aid mirror, YMCA of Montreal fonds P145 sub-series 12C01, 12D, 12E, 12I, 12J [src_concordia_mirror_12c01, src_concordia_mirror_12d, src_concordia_mirror_12e, src_concordia_mirror_12i, src_concordia_mirror_12j]. Fetched and extracted 2026-08-25 in the p_268 mirror walk. Finding aids: they establish that a file of a given title and date exists, not its contents. See [f_2258], [f_2264].
 - [lw] "Camping… The Last Word!" (the A.B. Thiessen exchange with editor Jay Haddad); the bilingual editorial "segregation… It Still Exists!!!"; and Sylvia Haynes, "Camping is Fun! And it is For Everyone!", *Canadian Camping* Vol. 36 No. 1 (Spring 1984), pp. 3, 8-9, 19 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 150).

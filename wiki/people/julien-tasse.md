@@ -1,7 +1,7 @@
 # Julien Tassé
 
-*Status: R3-verified | Sources: 5*
-*Last Updated: 2026-09-03*
+*Status: R3-verified | Sources: 6*
+*Last Updated: 2026-09-07 (born about 1932, at camp from about 1958, and for coeducation in 1965)*
 
 ## Overview
 
@@ -49,6 +49,20 @@ So the camp's own title for him was **Maintenance Supervisor**, not "caretaker" 
 
 He appears in every Kanawana director's report read so far — 1964, 1965, 1970, 1971, 1973, 1974, 1975, 1976 — usually in the same register. In 1970 he "once again did a fantastic job holding the camp together with chewing gum, etc." In 1971 the stables "were placed in excellent condition due to the work of Julien Tasse during pre-camp." In 1973: "Julien Tasse and his crew did their usual tremendous job of keeping our ageing facilities in top shape... How he ever manages to satisfy them all in addition to the regular work load and still keep smiling will always be a mystery to me." Two successive directors, in 1974 and 1975, close their annual reports by naming him and the office secretary Olga Hall as the two people they could not have done without.
 
+**A 1965 profile gives his age, his start, his winter work and his opinion.** *The Chestnut* of that
+year: "**Julian is 33 years of age. He has been working at camp for seven years.** He would like to see
+KK as a **coeducational camp**. His favourite expression is **Sacré Bleu**. In the winter, he paints
+boats, he shovels snow and makes and repairs screens. These are only a few of his many jobs."^6
+
+Four things follow, and they are the first hard biographical facts this article has. Thirty-three in
+the summer of 1965 puts his birth at about **1932**. Seven years at camp puts his start at about
+**1958**, which sits just before the run of director's reports that name him from 1964 onward and
+means the record picks him up several years late. The winter work is the answer to a question this
+article raises — what the caretaker did between seasons — and it is boat paint, snow and window
+screens. And he was **for coeducation**, two years before the camp announced it, which puts the
+longest-serving man on the site with the director and against the camp doctor; see
+[[history/coeducation-gender|Coeducation and Gender]] for the whole poll.
+
 ## What the record does not have
 
 
@@ -87,6 +101,7 @@ Naming it after him was fitting and, apparently, futile. The failure of the name
 3. Oral history, Matt Aronson, 28 August 2026: Julien and Yves Tassé are father and son [src_oral_aronson_tasse_family]. See [f_2356].
 4. *Kamp Kanawana Annual Report 1964*, YMCA of Montreal [src_ia_kanawana_report_1964], sections "Flush Toilets", "Junior Waterfront" and "Caretaker's House". Full text cached at `sources/cache/ymca-montreal-fonds/1964-kamp-kanawana-annual-report.txt`. See [f_2387], [f_2393].
 5. *Kamp Kanawana Director's Report 1976* [src_ia_kanawana_directors_report_1976], staff list. See [f_2439]. Further appearances: the annual reports for 1965 [src_ia_kanawana_report_1965], 1970 [src_ia_kanawana_report_1970] and 1971 [src_ia_kanawana_report_1971], and the director's reports for 1973 [src_ia_kanawana_report_1973], 1974 [src_ia_kanawana_report_1974] and 1975 [src_ia_kanawana_report_1975].
+6. *The Chestnut* ("the pathfinder — Summer Summary"), Kamp Kanawana Pathfinder section publication, 1965 [src_ymf_1965_the_chestnut]. Concordia-digitized YMCA of Montreal fonds; full text cached at `sources/cache/ymca-montreal-fonds/1965-the-chestnut.txt`. Held since 2026-08-25 at read_state "skimmed", read word for word 2026-09-07 under p_482. Its staff-profile pages put the same question to nearly every member of staff, which is why it can be read as a poll.
 
 ## Research Notes
 

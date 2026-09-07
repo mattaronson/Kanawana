@@ -1,7 +1,7 @@
 # A. Ross Seaman
 
-*Status: E1-reviewed | Sources: 26*
-*Last Updated: 2026-09-07 (the awards evening counts from 1989; a school at Vankleek Hill; the fund website that was never archived)*
+*Status: E1-reviewed | Sources: 27*
+*Last Updated: 2026-09-07 (the awards count from 1989; a school at Vankleek Hill; the 1965 camp nurse; and Seaman arguing for coeducation in 1965)*
 
 ## Overview
 
@@ -146,6 +146,24 @@ That is a claim of the **presidency** of the Quebec Camping Association. Everyth
 
 **A camp nurse, and the camp is not named.** Of the 2001 winner Barbara Jack, the report adds that she "was also lucky enough to have **worked with Ross Seaman as a Camp Nurse** early on in her professional career."^25 Seaman ran Kanawana from 1959 to 1967 and the sentence sits inside an article about an award with a Kanawana seat, so Kanawana is the obvious reading. The report does not say Kanawana, he worked at other camps, and the obvious reading is recorded here as a lead rather than as a line on Kanawana's medical staffing.
 
+**The camp nurse of the 2001 citation is very probably Kanawana's, in 1965.** The note above records
+the *Thursday Report*'s line that Barbara Jack "worked with Ross Seaman as a Camp Nurse early on in her
+professional career," and leaves the camp unnamed because the report does not name it. *The Chestnut*
+of 1965 profiles Kanawana's staff, and among them: "**Barbara Jack** — the nurse, is 21 years of age
+and is a nurse by occupation. She came to camp on advice of Dave Hardcastle. **This is her first camp
+job** and she wishes to return next year."^27 Four particulars converge — the same name, the same
+role, the same director, and a first camp job that would indeed be "early on in her professional
+career" for someone taking a Concordia degree decades later. That is not a documented identity and is
+not recorded as one, but it is a good deal more than a coincidence of surname, and the 1965 camp is
+Kanawana.
+
+**And it shows him arguing for coeducation two years before the decision.** Asked by the boys what he
+would change about camp, Seaman named "a good staff lounge and **a co-educational camp**," and,
+pressed, "said boys and girls should be together and it would be good for the morale."^27 He gives
+the camp's size in the same interview — he "likes to see a full camp (**226 campers and 69 staff**)" —
+and mentions that his wife was herself a camp director. See
+[[history/coeducation-gender|Coeducation and Gender]] for the staff poll around him.
+
 ## Open Questions
 
 1. [Critical, **birth year answered 2026-09-07**] What are Seaman's full biographical details — birth year, full name, education beyond SGW? **The birth year is 1921**, from the headline "ROSS SEAMAN / 1921-1987" over Concordia University Magazine's obituary, which also gives his age at death as 66.^19 Since he died on 23 October, his birthday fell on or before that date — a test any birth record found later has to pass, and a narrowing of the search from a year to ten months. The 1967 profile adds that he was "**born and educated in Montreal**" and took a **Master of Education from Springfield College** after the Sir George B.A.,^9 so "education beyond SGW" is answered too; what remains open is the **full given name behind the initial A.**, the exact birth date, and the Springfield years. **The death date is exact: 23 October 1987**, from the memorial fund notice in *Canadian Camping Magazine* (Winter 1988), which narrows any obituary search to the last week of October and the first weeks of November 1987, and is now held on **two** independently produced documents rather than one, the Concordia obituary agreeing with the fund notice.^19 A further pass (genealogy sites, FindAGrave, Vankleek Hill obituary aggregators) found nothing new. The Vankleek Hill newspaper "The Review" (archived from 1893) very likely carries an October/November 1987 obituary, but its own online archive is not full-text searchable — this requires a paid GenealogyBank-style subscription search or direct contact with the newspaper or a Vankleek Hill funeral home, not further web queries.
@@ -191,3 +209,4 @@ That is a claim of the **presidency** of the Quebec Camping Association. Everyth
 24. Concordia's Thursday Report: Vol. 15 No. 11, 15 November 1990 [src_concordia_thursday_report_1990_11_15]; Vol. 15 No. 30, 6 June 1991 [src_concordia_thursday_report_1991_06_06]; and Vol. 16 No. 21, 19 March 1992 [src_concordia_thursday_report_1992_03_19]. All three transcribed in the relevant part at `sources/cache/concordia-publications/2026-09-07-thursday-report-seaman-awards-1990-1992.txt`. See [f_5451]–[f_5454].
 25. "Seaman Awards Given for Community Involvement," by Laurel C. Leduc, *Concordia's Thursday Report*, 12 April 2001 [src_concordia_thursday_report_2001_04_12]. Found by the download-and-grep sweep of the `rma-concordia-publications` collection. Transcribed at `sources/cache/concordia-publications/thursday-report-2001-04-12-seaman.md`.
 26. "Seaman Awards for Community Leadership," photo caption, *Concordia's Thursday Report*, 23 May 2002 [src_concordia_thursday_report_2002_05_23]. A caption, not an article -- the awards got a photograph that year. Transcribed at `sources/cache/concordia-publications/thursday-report-2002-05-23-seaman.md`.
+27. *The Chestnut* ("the pathfinder — Summer Summary"), Kamp Kanawana Pathfinder section publication, 1965 [src_ymf_1965_the_chestnut]. Concordia-digitized YMCA of Montreal fonds; full text cached at `sources/cache/ymca-montreal-fonds/1965-the-chestnut.txt`. Held since 2026-08-25 at read_state "skimmed", read word for word 2026-09-07 under p_482. Its staff-profile pages put the same question to nearly every member of staff, which is why it can be read as a poll.

@@ -950,7 +950,8 @@
         "src_ymf_news_release_1969_05_13_202501",
         "src_ymf_sgw_ymca_annual_report_1968",
         "src_cyc_youth_and_jobs_1945",
-        "src_ymf_ka_news_1978_04_28"
+        "src_ymf_ka_news_1978_04_28",
+        "src_ymf_1965_the_chestnut"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -965,7 +966,7 @@
         "timeline-overview"
       ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
-      "word_count": 7251,
+      "word_count": 7794,
       "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_001 editorial-resolution narrative into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H2 into Research Notes. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -5378,7 +5379,8 @@
         "src_concordia_thursday_report_1994_03_03",
         "src_concordia_thursday_report_1997_03_27",
         "src_concordia_thursday_report_2001_04_12",
-        "src_concordia_thursday_report_2002_05_23"
+        "src_concordia_thursday_report_2002_05_23",
+        "src_ymf_1965_the_chestnut"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -5387,7 +5389,7 @@
         "section-names"
       ],
       "file_id": null,
-      "word_count": 7482,
+      "word_count": 7802,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -8731,7 +8733,8 @@
         "src_ia_ymca_annual_report_1978_79",
         "src_patten_obituary",
         "src_wikipedia_richard_patten",
-        "src_ymca_quebec_pip_skinner"
+        "src_ymca_quebec_pip_skinner",
+        "src_ymf_1965_the_chestnut"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -8741,7 +8744,7 @@
         "directors-index"
       ],
       "file_id": null,
-      "word_count": 1087,
+      "word_count": 1422,
       "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. No new research conducted. Corrected two dangling source_id references (src_patten_wikipedia -> src_wikipedia_richard_patten; src_hpmcgarry_patten_obituary -> src_patten_obituary) in kb/facts.json while preparing this article. | 2026-08-14 p_225 research: deep web research resolved three long-standing questions against PRIMARY sources (YMCA of Montreal news release 1970 + annual reports 1977-79 on Internet Archive; Camp Pascobac's own history page; broadcasting-history.ca).",
       "tags": {
         "era": [
@@ -11202,7 +11205,8 @@
         "src_ia_kanawana_report_1971",
         "src_ia_kanawana_report_1973",
         "src_ia_kanawana_report_1974",
-        "src_ia_kanawana_report_1975"
+        "src_ia_kanawana_report_1975",
+        "src_ymf_1965_the_chestnut"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -11212,7 +11216,7 @@
         "people/directors-index"
       ],
       "file_id": null,
-      "word_count": 1776
+      "word_count": 2049
     },
     {
       "article_id": "derek-walsh",
@@ -11319,7 +11323,7 @@
         "quebec-camping-association"
       ],
       "file_id": null,
-      "word_count": 4509
+      "word_count": 4556
     },
     {
       "article_id": "oldest-camp-question",
