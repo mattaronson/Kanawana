@@ -3593,7 +3593,8 @@
         "src_ymf_sgw_ymca_annual_report_1919_montreal_men",
         "src_ymf_sgw_ymca_annual_report_1933",
         "src_ymf_sgw_ymca_annual_report_1913",
-        "src_ymf_ka_news_1977_12_01"
+        "src_ymf_ka_news_1977_12_01",
+        "src_mcgill_daily_1949_05_25"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -3608,7 +3609,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 8329,
+      "word_count": 8548,
       "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral. 2026-06-20: Added Indigenous territory context (f_1315) and Mille-Isles regional history (f_1314). 2026-06-21: Added 1976 Lovell's directory listing (f_1331) and 2023 superintendent's house fire (f_1333). | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph about the Weredale lease into a new Research Notes > Revision History section (this article previously had no Research Notes section at all). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -5353,7 +5354,8 @@
         "src_ymf_news_release_1969_11_28",
         "src_concordia_magazine_1988_01",
         "src_sgw_yearbook_1943",
-        "src_concordia_seaman_award_history_2007"
+        "src_concordia_seaman_award_history_2007",
+        "src_concordia_undergraduate_calendars_2000_2007"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -5362,7 +5364,7 @@
         "section-names"
       ],
       "file_id": null,
-      "word_count": 5323,
+      "word_count": 5547,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -10399,7 +10401,9 @@
         "src_ia_kanawana_history_1951",
         "src_ia_ymca_montreal_annual_reports_collection",
         "src_ia_ymca_montreal_fonds_collection",
-        "src_stamp_canadian_obituary_record"
+        "src_stamp_canadian_obituary_record",
+        "src_mcgill_daily_1948_05_20",
+        "src_mcgill_daily_1949_05_25"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -10410,7 +10414,7 @@
         "site/camp-perrot"
       ],
       "file_id": null,
-      "word_count": 2568,
+      "word_count": 2837,
       "notes": "Created 2026-08-14 (p_250). First name filling the 1947-1958 postwar gap. Documented Montreal YMCA span of ~40 years: Kanawana Camp Chief 1947, Camping Branch executive secretary 1970-72, Metropolitan Staff 1986. Status stub not draft -- no dedicated RALPH cycle, no VERIFY pass."
     },
     {

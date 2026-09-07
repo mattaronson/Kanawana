@@ -1,11 +1,17 @@
 # Roy D. Locke
 
-*Status: draft | Sources: 14*
-*Last Updated: 2026-09-06 (his obituary found; the Montreal West identification settled)*
+*Status: draft | Sources: 15*
+*Last Updated: 2026-09-07 (his own recruitment advertisements, 1948 and 1949)*
 
 ## Overview
 
 **Roy D. Locke** became Camp Chief of Kamp Kanawana in the summer of 1947 and held the Montreal YMCA's Boys' Work and Camping portfolio until September 1954. He is the first name to fill the 1947–1958 postwar gap, which this project treated as entirely undocumented until August 2026.
+
+**And he advertised, publicly, under his own name and telephone number.** *The McGill Daily* of **20 May 1948** carries: "**FIVE VACANCIES** on our Counsellor Staff. Phone: **R. D. Locke, Director**, Y.M.C.A. Kamp Kanawana. **MA. 8331**, for an interesting, healthful and profitable summer." The same block ran on **25 May 1949** with "**FOUR VACANCIES**" and a line of property description.^15 These are the first outside, dated documents this project holds from inside his Kanawana years, and they were placed by the camp itself, in the last week of term, in a university newspaper.
+
+*Note the title, and do not read too much into it.* The association's own records call him **Camp Chief**; the advertisement he placed calls him **Director**. Which is what a camp puts in a newspaper to strangers. It is a caution against treating title variation in this period as evidence of a change in post.
+
+*And note what kind of number the vacancies are.* Five and then four, advertised at the end of May, is not a staff total — it is what the camp still needed after its own channels had been worked, which says the late-season shortfall was small and roughly steady across two years. See [[connections/institutional-lineage/sgw-concordia-connection|The SGW–Concordia Connection]] for the other end of the same recruiting: the Sir George Fellowship men who staffed the Montreal camps in these years.
 
 His association career is the longest of any figure in this index: he appears as Kanawana's Camp Chief in 1947, returns as executive secretary of the **Camping Branch** in 1970–72 — this time as the branch head above [[people/james-h-turner|James H. Turner]] in the camp's short-lived two-tier structure — and is still on the Montreal YMCA's Metropolitan Staff in 1986 as Director of Funding Development. That is a documented span of roughly forty years.^1 ^2
 
@@ -166,6 +172,7 @@ That is the direct ancestor of the **Camp Plant Manual** the 1965 annual report 
 12. *Kamp Kanawana Director's Report 1978*, acknowledgements [src_ia_ymca_montreal_fonds_collection].
 13. *Canadian Camping*: officer lists June 1949, February 1951, April 1952 and April 1954, and Roy D. Locke, "A Manual of Operations," June 1953 [src_ia_canadian_camping_collection]. See [f_2472]. The 1965 successor is at [f_2403].
 14. Robert M. Stamp (ed.), *The Canadian Obituary Record* (Toronto: Dundurn Press), entry "LOCKE, ROY", Internet Archive scan leaf 266 [src_stamp_canadian_obituary_record]. **One entry only**, reconstructed 2026-09-06 from about a dozen overlapping Open Library search-inside queries, with one internal gap not recovered; the volume is lending-restricted and has not been read, and the printed page number is unknown. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-stamp-obituary-roy-locke.txt`. See [f_4935], [f_4933].
+15. Kamp Kanawana counsellor recruitment advertisements, *The McGill Daily*, Vol. 37 No. 100, 20 May 1948 [src_mcgill_daily_1948_05_20] and Vol. 38 No. 100, 25 May 1949 [src_mcgill_daily_1949_05_25]. Both transcribed at `sources/cache/mcgill/2026-09-07-kanawana-counsellor-ads-1948-1949.txt`. Found by the whole-corpus sweep of 9,890 McGill student publication items under p_479. See [f_5413], [f_5414].
 
 ## Research Notes
 

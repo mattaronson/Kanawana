@@ -1,8 +1,8 @@
 {
-  "version": "9.54",
-  "kb_version": "9.54",
+  "version": "9.55",
+  "kb_version": "9.55",
   "migrated_from": "3.3",
-  "fact_count": 5374,
+  "fact_count": 5378,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -96874,12 +96874,14 @@
         "Camp Kanawana",
         "Concordia University"
       ],
-      "claim": "KANAWANA WAS A STANDING FEEDER COMMUNITY FOR THE A. ROSS SEAMAN LEADERSHIP DEVELOPMENT FUND FOR NEARLY TWO DECADES. Concordia's commemorative booklet 'A History of Bursary Award Winners 1989-2006', printed 23 May 2007, carries a citation for every winner, and 'Kanawana' occurs TWENTY-SEVEN times across them -- the camp is the most frequently named institution in the winners' backgrounds after Concordia itself and the YMCA generally. The camp roles named include camper, counsellor-in-training, junior counsellor, senior counsellor, nature specialist, senior camp programme lead and off-season volunteer. WHY THIS IS MORE THAN A LIST. The fund was founded at a meeting on 10 November 1987 attended by representatives of Concordia, Dawson College, the YMCA and Camp Kanawana. It then spent eighteen years awarding its bursary, year after year, to people whose leadership had been formed at that camp. The circuit Seaman himself ran -- camp into college into the profession -- was still running twenty years after his death, under his name. One winner came from VANKLEEK HILL COLLEGIATE, Seaman's home-town high school in eastern Ontario, which shows that connection running through the Montreal fund and not only as the separate home-town memorial the wiki records.",
+      "claim": "KANAWANA WAS A STANDING FEEDER COMMUNITY FOR THE A. ROSS SEAMAN LEADERSHIP DEVELOPMENT FUND FOR NEARLY TWO DECADES. Concordia's commemorative booklet 'A History of Bursary Award Winners 1989-2006', printed 23 May 2007, carries a citation for every winner, and 'Kanawana' occurs TWENTY-SEVEN times across them -- the camp is the most frequently named institution in the winners' backgrounds after Concordia itself and the YMCA generally. The camp roles named include camper, counsellor-in-training, junior counsellor, senior counsellor, nature specialist, senior camp programme lead and off-season volunteer. WHY THIS IS MORE THAN A LIST. The fund was founded at a meeting on 10 November 1987 attended by representatives of Concordia, Dawson College, the YMCA and Camp Kanawana. It then spent eighteen years awarding its bursary, year after year, to people whose leadership had been formed at that camp. The circuit Seaman himself ran -- camp into college into the profession -- was still running twenty years after his death, under his name. One winner came from VANKLEEK HILL COLLEGIATE, Seaman's home-town high school in eastern Ontario, which shows that connection running through the Montreal fund and not only as the separate home-town memorial the wiki records. [CORRECTED 2026-09-07, THE SAME DAY, BY f_5416 -- THE READING ABOVE IS KEPT AS WRITTEN AND IS TOO STRONG. Concordia's Undergraduate Calendar states the award's terms: 'Each year, students from these four institutions are recognized for their leadership and scholarship.' Kanawana is named in the scholarship's own constitution as one of four constituencies, so its recurrence across the honour roll is partly STRUCTURAL rather than the camp spontaneously producing winners, and 'a standing feeder community' claims more than the evidence carries. What survives, and is the better fact: the fund's founders wrote the camp into the terms of the award alongside two colleges and the association, and it was still there twenty years later.]",
       "sources": [
         "src_concordia_seaman_award_history_2007"
       ],
       "confidence": "stated",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "f_5416"
+      ],
       "added_version": "9.54",
       "added_by": "ralph_loop"
     },
@@ -96932,6 +96934,78 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.54",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5413",
+      "category": "people",
+      "date_ref": "1948-1949",
+      "entities": [
+        "Roy D. Locke",
+        "Camp Kanawana",
+        "McGill University"
+      ],
+      "claim": "KANAWANA ADVERTISED FOR COUNSELLORS IN THE McGILL DAILY IN TWO CONSECUTIVE YEARS, OVER R. D. LOCKE'S NAME AND TELEPHONE NUMBER. 20 May 1948: 'FIVE VACANCIES on our Counsellor Staff. Phone: R. D. Locke, Director, Y.M.C.A. Kamp Kanawana. MA. 8331, for an interesting, healthful and profitable summer.' 25 May 1949: the same block with 'FOUR VACANCIES' and a line of property description. wiki/people/roy-locke.md has him becoming CAMP CHIEF in the summer of 1947 and holding the Boys' Work and Camping portfolio to September 1954, entirely on internal association evidence; these are two dated outside documents from inside that span. THE TITLE IS THE SMALL THING WORTH KEEPING: the association's own records say Camp Chief, the advertisement he placed says DIRECTOR -- which is what a camp puts in a newspaper, and a caution against reading title variation in this period as evidence of a change in post. Both advertisements ran in the last week of May, at the end of term.",
+      "sources": [
+        "src_mcgill_daily_1948_05_20",
+        "src_mcgill_daily_1949_05_25"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.55",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5414",
+      "category": "institutional",
+      "date_ref": "1948-05-20",
+      "entities": [
+        "Camp Kanawana",
+        "McGill University"
+      ],
+      "claim": "THE EARLIEST DIRECT EVIDENCE THIS PROJECT HOLDS THAT KANAWANA RECRUITED ITS COUNSELLORS OUT OF THE UNIVERSITIES. The pattern has been assembled all day from the other end -- Sir George Fellowship men staffing the camps in the 1940s, the Georgian's Kanawana staff advertisement of February 1962, the McGill Daily's 1993 notice of a dance collective whose members 'know each other from Camp Kanawana'. This is the plainest instance and the earliest: the camp buying display space in a student newspaper in the last week of term, in 1948 and again in 1949. FIVE VACANCIES in 1948 and FOUR in 1949, which is a different kind of number from a staff total -- it says what the camp still needed after its own channels had been worked, and it says the shortfall was small and roughly steady.",
+      "sources": [
+        "src_mcgill_daily_1948_05_20"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.55",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5415",
+      "category": "site",
+      "date_ref": "1949-05-25",
+      "entities": [
+        "Camp Kanawana",
+        "Lake Wilson"
+      ],
+      "claim": "THE 600-ACRE FIGURE IS CORROBORATED FROM OUTSIDE THE ANNUAL REPORTS, IN PUBLIC, IN THE FIRST YEAR OF THE RANGE. The Kanawana advertisement in the McGill Daily of 25 May 1949 ends: 'CAMP SITUATED IN LAURENTIANS -- 3 LAKES -- 600 ACRES OF WOODED PROPERTY.' wiki/site/the-kanawana-site.md gives '600 acres' on the authority of the YMCA annual reports for 1949-1959 and nothing else, and quotes the 1958 report's 'three lakes and a part of a fourth, covering some 600 acres'. This is the same two figures stated to strangers, in a recruitment advertisement, where an overstatement would have been checkable by anyone who took the job -- and it is dated to May 1949, the very start of the range the reports cover. WHAT IT DOES NOT DO: it does not resolve the article's open question about the later jump from 600 acres to 1,000, and it does not bear on the 1957 report's anomalous 'sixty acres'. One small difference worth keeping: the advertisement says three lakes flat, where the 1958 report says three and part of a fourth.",
+      "sources": [
+        "src_mcgill_daily_1949_05_25"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.55",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5416",
+      "category": "institutional",
+      "date_ref": "1987-2007",
+      "entities": [
+        "A. Ross Seaman",
+        "Camp Kanawana",
+        "Concordia University",
+        "Dawson College"
+      ],
+      "claim": "KANAWANA IS NAMED IN THE SEAMAN SCHOLARSHIP'S OWN TERMS AS ONE OF FOUR CONSTITUENCIES, WHICH QUALIFIES f_5409 AND THE ARTICLE PASSAGE WRITTEN FROM IT. Six editions of Concordia's Undergraduate Calendar -- 2000-01 through 2006-07 -- carry the same entry word for word: 'A. Ross Seaman Memorial Scholarship. Established in 1987 to honour the memory of A. Ross Seaman for his life-long dedication to the communities of Concordia University, Dawson College, Kamp Kanawana and the YMCA. EACH YEAR, STUDENTS FROM THESE FOUR INSTITUTIONS ARE RECOGNIZED for their leadership and scholarship. Eligibility: Students can apply or be nominated.' f_5409 read the twenty-seven Kanawana mentions in the fund's 1989-2006 honour roll as the camp being 'a standing feeder community' and as 'the circuit Seaman ran, still running'. THAT OVERSTATED IT. The award is by its own terms allocated across four named communities, so the camp's recurrence in the roster is partly STRUCTURAL and is not evidence that Kanawana spontaneously kept producing winners. THE FINDING SURVIVES IN A BETTER FORM: the fund's founders wrote the camp into the constitution of the award, alongside two colleges and the association, and kept it there for at least twenty years. That is a stronger statement about what those founders thought Kanawana was than the reading it replaces. The entry also gives the mechanism -- apply or be nominated, through the Department of Applied Human Sciences -- and uses the 'Memorial' form of the name that the 2007 booklet drops.",
+      "sources": [
+        "src_concordia_undergraduate_calendars_2000_2007"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.55",
       "added_by": "ralph_loop"
     }
   ]

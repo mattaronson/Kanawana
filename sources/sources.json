@@ -31065,7 +31065,61 @@
       "notes": "A COMMEMORATIVE BOOKLET REPRINTING THE FUND'S MEMORIAL STATEMENT AND A CITATION FOR EVERY BURSARY WINNER 1989-2006. 'Kanawana' occurs TWENTY-SEVEN times in it -- the camp is the most frequently named institution in the winners' backgrounds after Concordia and the YMCA generally, with roles including camper, CIT, junior counsellor, senior counsellor, nature specialist and senior camp programme lead. THE INSTITUTIONAL FINDING: a memorial fund founded in Montreal in November 1987 by representatives of Concordia, Dawson, the YMCA and Camp Kanawana went on awarding its bursary, year after year for nearly two decades, to people whose leadership had been formed at that camp -- the circuit Seaman himself ran, camp into college into the profession, still running twenty years after his death under his name. THIRD WITNESS to the memorial text the wiki holds from Canadian Camping Magazine, with three variants recorded rather than smoothed: 'a cheerleader FOR the human race' (the wiki has 'of'), 'consummate teacher AND MENTOR', and the fund named without 'Memorial'. TWO PARTICULARS KEPT WITHOUT NAMES: a Human Relations Award winner who 'caught the leadership bug early in her professional career AS A CAMP NURSE, UNDER THE MENTORSHIP OF ROSS SEAMAN' -- the only testimony this project holds from someone Seaman taught; and a dated instance of the Capitaine role, a man at Kanawana from the summer of 1992 'selected as the Capitaine of the Voyageurs for the annual summer-ending Lumbermen and Voyageurs games'. Also one winner from VANKLEEK HILL COLLEGIATE, Seaman's home-town high school, showing that connection running through the Montreal fund and not only as a separate memorial. THE ROSTER OF NAMES IS DELIBERATELY NOT REPRODUCED IN THE WIKI -- living private individuals, most students at the time -- and that decision is registered as r_0006 with the OCR line numbers, so a later pass can tell a silent source from a silent editor. See f_5409 through f_5412.",
       "read_state": "extracted",
       "read_state_basis": "direct: full djvu text downloaded 2026-09-07; the memorial statement transcribed complete, all 27 Kanawana occurrences read in context, and the text greped for Otoreke (0), Perrot (0), 'Voyageurs de la' (0) and Vankleek (1 -- a count first written as 0 from expectation and corrected by running it)."
+    },
+    {
+      "source_id": "src_mcgill_daily_1948_05_20",
+      "type": "periodical",
+      "title": "Kamp Kanawana counsellor recruitment advertisement, The McGill Daily, Vol. 37 No. 100, 20 May 1948",
+      "date": "1948-05-20",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/McGillLibrary-mcgill-daily-v37-n100-may-20-1948-5382",
+      "cache_path": "sources/cache/mcgill/2026-09-07-kanawana-counsellor-ads-1948-1949.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.55",
+      "reliability": "primary",
+      "notes": "'FIVE VACANCIES on our Counsellor Staff. Phone: R. D. Locke, Director, Y.M.C.A. Kamp Kanawana. MA. 8331, for an interesting, healthful and profitable summer.' A dated outside attestation of Roy D. Locke running the camp, placed by the camp itself in a university newspaper in the last week of term. Note the title: the association's own records call him CAMP CHIEF, his own advertisement calls him DIRECTOR. 'Kanawana' occurs once in the issue; Otoreke and Perrot 0. See f_5413, f_5414.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded 2026-09-07, the advertisement read and transcribed, and the issue greped for the camp names."
+    },
+    {
+      "source_id": "src_mcgill_daily_1949_05_25",
+      "type": "periodical",
+      "title": "Kamp Kanawana counsellor recruitment advertisement, The McGill Daily, Vol. 38 No. 100, 25 May 1949",
+      "date": "1949-05-25",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/McGillLibrary-mcgill-daily-v38-n100-may-25-1949-5479",
+      "cache_path": "sources/cache/mcgill/2026-09-07-kanawana-counsellor-ads-1948-1949.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.55",
+      "reliability": "primary",
+      "notes": "'FOUR VACANCIES on our Counsellor Staff. Phone: R. D. Locke, Director, Y.M.C.A. Kamp Kanawana. MA. 8331. For an interesting, healthful and profitable summer. CAMP SITUATED IN LAURENTIANS -- 3 LAKES -- 600 ACRES OF WOODED PROPERTY.' The acreage line is the value: wiki/site/the-kanawana-site.md holds '600 acres' on the authority of the YMCA annual reports 1949-1959 and nothing else, and this states the same figure PUBLICLY, TO STRANGERS, in May 1949 -- the first year of that range -- where an overstatement would have been checkable by anyone who took the job. It does not resolve the open question about the later jump to 1,000 acres, and it does not touch the 1957 report's 'sixty acres'. The ad says three lakes flat where the 1958 report says three and part of a fourth. 'Kanawana' occurs once in the issue; Otoreke and Perrot 0. See f_5413, f_5415.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded 2026-09-07, the advertisement read and transcribed, and the issue greped for the camp names."
+    },
+    {
+      "source_id": "src_concordia_undergraduate_calendars_2000_2007",
+      "type": "catalog_reference",
+      "title": "Concordia University, Undergraduate Calendar, the A. Ross Seaman Memorial Scholarship entry, editions 2000-01 through 2006-07",
+      "date": "2000/2007",
+      "date_precision": "approximate",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/2000-2001-undergraduate-calendar",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.55",
+      "reliability": "primary",
+      "notes": "THE SCHOLARSHIP'S OWN TERMS, AND THEY QUALIFY A CLAIM MADE HERE AN HOUR EARLIER. Six editions -- 2000-01, 2001-02, 2002-03, 2003-04, 2004-05 and 2006-07, found by the accounted sweep of rma-concordia-publications under p_479 -- carry the same entry word for word: 'A. Ross Seaman Memorial Scholarship. Established in 1987 to honour the memory of A. Ross Seaman for his life-long dedication to the communities of Concordia University, Dawson College, Kamp Kanawana and the YMCA. EACH YEAR, STUDENTS FROM THESE FOUR INSTITUTIONS ARE RECOGNIZED for their leadership and scholarship. Eligibility: Students can apply or be nominated.' So Kanawana is written into the award's own terms as one of four named constituencies, which means the twenty-seven Kanawana mentions in the fund's 1989-2006 honour roll are partly STRUCTURAL and not evidence of the camp spontaneously producing winners. f_5409 and wiki/people/a-ross-seaman.md were corrected in place on 2026-09-07 accordingly. The finding survives the correction in a better form: the fund's founders wrote the camp into the constitution of the award. The entry also gives the application mechanism -- apply or be nominated, through the Department of Applied Human Sciences -- and confirms the 'Memorial' form of the name in the university's own calendar. See f_5416.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: the 2000-01 calendar's full djvu text downloaded 2026-09-07 and the entry read whole; the five other editions read from the sweep's context windows, which show the same wording."
     }
   ],
-  "source_count": 1728
+  "source_count": 1731
 }
