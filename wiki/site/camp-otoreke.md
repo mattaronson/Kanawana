@@ -1,7 +1,7 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 51*
-*Last Updated: 2026-09-06 (the camp's 1956 purchase of ninety mainland acres, the first acreage figure this article has had)*
+*Status: E1-reviewed | Sources: 52*
+*Last Updated: 2026-09-07 (McGerrigle to 1961, and Colin R. McKay after him)*
 
 ## Overview
 
@@ -313,7 +313,15 @@ relationship of **Mr. and Mrs. C. J. McGerrigle, who have been associated with t
 undertaking for twenty-one years**. Mr. and Mrs. '**Mac**' have a deep interest in young people."^38
 Twenty-one years back from 1956 is **1935** — the year this camp went coeducational on its own staff's
 proposal, described above. The McGerrigles arrive with that reorganisation and are still there two
-decades on, which makes them the longest documented tenure anywhere in Otoreke's record.
+decades on, which makes them the longest documented tenure anywhere in Otoreke's record. **And they
+were still there for five years more.** The North American *YMCA Year Book* prints "Dir. Camp Otoreke,
+Clarence J. McGerrigle" in the Montreal Metropolitan Board's staff block for 1957, 1958, 1959, 1960
+and 1961 — carrying the association to twenty-six years — and then, in 1963, a different name:
+"**Program, Camp Otoreke, Colin R. McKay**," who holds it in 1964 and 1965 as well.^52 **Colin R. McKay
+occurs nowhere else in this project**, checked by grep across the wiki, the knowledge base, the
+project documents and the source index before this sentence was written. He is a name and a post and
+three years; 1962 produced no hit and it was not established whether the 1962 volume is in the
+collection, so nothing is claimed about the handover year.
 
 **Hupfield is real too, and the blog has the two men in the wrong order.** The 1947 report appoints
 "**Ronald Hupfield** Men's Programme Secretary at Southwestern Branch"; the 1950 report moves "**J. R.
@@ -882,6 +890,7 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 49. YMCA of Montreal annual report for **1969** [src_ymf_sgw_ymca_annual_report_1969], the Camp Otoreke item, **both columns** — the French names a neighbourhood the English does not. Read 2026-09-06 under p_454. See [f_5192].
 50. United Church of Canada, Board of Evangelism and Social Service, **Annual Report 1967, vol. 42** [src_ucc_evangelism_social_service_1967], and the McGraw-Hill and *Canadian Almanac* postal directories [src_mcgraw_hill_directory_almanac_canada_1960s, src_canadian_almanac_1917_1918]. Found 2026-09-06 by an Open Library search-inside sweep on "Otoreke"; search highlights only, none of these volumes read here. See [f_5199], [f_5200].
 51. "Note These Dates," *National Council Bulletin* Vol. 40 Nos. 2 and 3 (1967), YMCA of Canada [src_ia_ymca_national_council_bulletin_40_02, src_ia_ymca_national_council_bulletin_40_03]. Internet Archive items in the `ymca-montreal-fonds` collection. The same July entry appears in both issues. Found 2026-09-07 by the enumeration recorded at [f_5243]; read for the Otoreke line only. See [f_5246].
+52. *YMCA Year Book and Official Rosters*, the volumes for **1957** through **1965** [src_umedia_ymca_yearbook_series], read in the University of Minnesota Libraries' digitized run (ContentDM collection p16022coll351, Kautz Family YMCA Archives). Only the Quebec block of the Directory of Associations was read in each. See [f_5272].
 
 ## Research Notes
 

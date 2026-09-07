@@ -1,8 +1,8 @@
 {
-  "version": "8.96",
-  "kb_version": "8.96",
+  "version": "8.97",
+  "kb_version": "8.97",
   "migrated_from": "3.3",
-  "fact_count": 5224,
+  "fact_count": 5234,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -94219,6 +94219,190 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.96",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5263",
+      "category": "method",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "YMCA Year Book",
+        "University of Minnesota",
+        "HathiTrust",
+        "Google Books",
+        "Internet Archive"
+      ],
+      "claim": "CORRECTION TO THE ACCESS FAILURE RECORDED 2026-09-06: THE MISSING YEAR BOOK YEARS ARE READABLE FROM THIS ENVIRONMENT AFTER ALL. Yesterday's finding aid listed four routes to the 1901-1905 and 1910-1920 volumes and recorded three as shut. The fourth read 'the Kautz Family YMCA Archives, University of Minnesota, WHICH HOLDS THE SERIES IN PRINT' -- and that last clause was an assumption nobody had tested. Minnesota also holds the series digitally, in ContentDM collection p16022coll351 on cdm16022.contentdm.oclc.org, 173 items, open to this environment. IT HOLDS EVERY HOLE: 1883, 1901, 1902, 1902-03, 1903-04, 1904-05, 1905-06, and 1909-10 through 1920-21 unbroken -- INCLUDING 1912-13, 1914-15 and 1920-21, which HathiTrust also lacks. Two endpoints do everything: dmQuery for enumeration and PAGE-LEVEL full-text search (searchstring CISOSEARCHALL^terms^all^and, or ^exact^ for a phrase, which works), and dmGetItemInfo for one page's OCR, carried in the transc field. TRAP: the cdmhasocr flag reads 0 on pages that plainly carry OCR in transc, so it must not be used to decide readability. SECOND TRAP: UMedia's own search.json at umedia.lib.umn.edu answers but silently ignores set_spec and facets parameters, returning Social Work Year Books and Minnesota county maps for collection-scoped queries -- go to ContentDM directly. The three routes shut yesterday were retried today and are still shut: Google Books returns HTTP 429 naming THE SAME consumer project number, which reframes it as a shared key exhausted by other traffic rather than a daily allowance that resets, so 'retry tomorrow' is not the fix; books.google.com and google.com/search?tbm=bks both 302 to /sorry/index, Google's bot wall; babel.hathitrust.org is still the Cloudflare interstitial. THE LESSON IS NARROWER THAN 'RETRY EVERYTHING': the route that gave way was the one written down with an untested qualifier attached. 'Holds it in print' was doing the work of a finding while being a guess.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.97",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5264",
+      "category": "method",
+      "date_ref": "1957-1968",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA Year Book"
+      ],
+      "claim": "THE NAME KANAWANA APPEARS IN THE NORTH AMERICAN YMCA YEAR BOOK ONLY BETWEEN 1957 AND 1968, AND THAT IS A FACT ABOUT THE ROSTER RATHER THAN ABOUT THE CAMP. Seventeen pages in eleven volumes: 1957, 1958, 1959, 1960, 1961, 1963, 1964, 1965, 1966, 1967 and 1968, across a series running from 1877 to 1982. The silence before 1957 must NOT be read as evidence about Kanawana, which had been running for sixty years by then; what changes in the late 1950s is the publication's own practice of listing camps as posts within a metropolitan board's staff. OCR coverage was controlled first: a search for the word Montreal returns 2,742 pages across 124 volumes and reaches every volume in question, so the null is in the book and not in the scanning. The 1962 volume produced no hit and it was NOT checked whether that volume is in the collection at all, so 1962 is not recorded as a null. Spelling: the roster prints 'Kamp Kanawana' from 1957 through 1965 and 'Camp Kanawana' from 1966.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.97",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5265",
+      "category": "people",
+      "date_ref": "1957-1959",
+      "entities": [
+        "Murray B. Shantz",
+        "A. Ross Seaman",
+        "Kamp Kanawana"
+      ],
+      "claim": "THE 1957 AND 1958 YEAR BOOKS NAME MURRAY B. SHANTZ IN THE KANAWANA POST OUTRIGHT, CONVERTING TWO INFERRED YEARS INTO DOCUMENTED ONES. The Quebec block of the Directory of Associations reads, under Montreal's Metropolitan Board, 'Assistant Program, Kamp Kanawana, Murray B. Shantz' in both volumes. directors-index.md had carried him at 1955-1958 with the note that '1956-1958 is inference from that silence' -- the silence being the Montreal annual reports recording no change of Kanawana staff. This is a positive statement, from a national publication outside the Montreal association's own paper. The 1959 volume replaces him with 'Assistant Program, Kamp Kanawana, A. Ross Seaman' and lists Shantz himself as 'Shantz, M. B., Toronto, Ont., Sec. National Council, 46', independently corroborating the index's account that he left in 1959 for the National Council staff, and giving his year of entry into Association work as 1946.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.97",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5266",
+      "category": "people",
+      "date_ref": "1957-1968",
+      "entities": [
+        "A. Ross Seaman",
+        "Kamp Kanawana",
+        "Lachine YMCA"
+      ],
+      "claim": "A. ROSS SEAMAN IS NAMED IN THE KANAWANA POST IN EVERY YEAR BOOK FROM 1959 TO 1968, AND WAS EXECUTIVE OF THE LACHINE YMCA IMMEDIATELY BEFORE IT. The Quebec block gives 'Assistant Program, Kamp Kanawana, A. Ross Seaman' for 1959 and 'Program, Kamp Kanawana' (from 1966, 'Camp Kanawana') for 1960, 1961, 1963, 1964, 1965, 1966, 1967 and 1968. The alphabetical list of employed officers in the 1957 and 1958 volumes places him at 'Montreal, Que., Lachine, Exec, 53' -- Executive of the Lachine YMCA in the two seasons before he took the camp, with 1953 as his year of entry into Association work. directors-index.md says only 'career in community work preceded directorship'. READ THE 1968 ENTRY CAREFULLY: the same index records that 'Summer 1968 has no named on-site director anywhere', and this is a metropolitan staff roster that gives Seaman the camp exactly as it does for 1966 and 1967 without using the words on-site director. The index's own warning -- that the man holding the camping portfolio is not always the man on the ground -- applies with full force. What this establishes is that a national publication put Seaman in the Kanawana post for 1968; it does not establish who ran the 1968 season at the lake.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.97",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5267",
+      "category": "people",
+      "date_ref": "1909-1917",
+      "entities": [
+        "W. J. Holliday",
+        "M. G. Brooks",
+        "YMCA of Montreal"
+      ],
+      "claim": "W. J. HOLLIDAY DID NOT RECOVER THE MONTREAL BOYS' WORK DIRECTORSHIP. HE MOVED INTO BRANCH ADMINISTRATION AND STAYED THERE. This was the first question on the 2026-09-06 list, asked because he holds the Boys' Work post in the 1907 and 1908 volumes, is plain 'Asst.' in 1909 with M. G. Brooks in the post, and opens the camp's new site in 1910. The Year Books answer it across eight consecutive volumes: 1909-10 'Montreal, Central Dept. ... Asst., (Memb.,) W. J. Holliday', a membership assistant; 1910-11 'Fairmount Ave. Br., Ch., W. A. Wilson / Secy., W. J. Holliday'; and then North Branch Secretary in 1911-12, 1912-13, 1913-14, 1914-15, 1915-16 and 1916-17, the branch given as 2300 Park Ave. from 1914-15. He never reappears in a boys' work line in any of them. (The Fairmount Avenue branch of 1910-11 and the North Branch from 1911 share both chairman and secretary across the changeover, which suggests one branch renamed at a new address -- AN INFERENCE FROM TWO NAMES, stated nowhere in these volumes.)",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.97",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5268",
+      "category": "people",
+      "date_ref": "1910-1917",
+      "entities": [
+        "Kenneth J. Hollinshead",
+        "D. J. Evans",
+        "John G. MacKinnon",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE MONTREAL CENTRAL BRANCH BOYS' WORKERS THROUGH THE NEW SITE'S FIRST DECADE, YEAR BY YEAR: 'Boys, Kenneth J. Hollinshead' in 1910-11 and 1911-12; 'Boys, D. J. Evans' in 1912-13 (with 'Asst. Boys, H. A. Lordly') and 1913-14; a line printed in 1914-15 WITH NO NAME AFTER IT; and 'Boys, John G. MacKinnon' in 1915-16 and 1916-17. KENNETH J. HOLLINSHEAD OCCURS NOWHERE ELSE IN THIS PROJECT, checked by grep across wiki, kb, project-docs and the source index before this was written. THE CAUTION MATTERS AS MUCH AS THE LIST: these are the CENTRAL branch's boys' workers, and the 1909-10 volume prints 'Boys' Work Dir.' as a line distinct from the branch 'Boys' lines, so an association-level directorship and a branch boys' post are not the same office. Whether the man over Kanawana in these years is the Central Branch boys' worker, an association-level Boys' Work Director, or someone this publication does not list is NOT settled by any of it. What is settled is that Holliday was not it.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.97",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5269",
+      "category": "people",
+      "date_ref": "1911-1921",
+      "entities": [
+        "Harold C. Cross",
+        "W. S. Maguire",
+        "YMCA of Montreal",
+        "Charlottetown YMCA",
+        "Victoria YMCA"
+      ],
+      "claim": "WHERE HAROLD C. CROSS WAS BETWEEN 1912 AND 1919 -- FIVE OF THE MISSING YEARS, AND THE FIRST THREE SAY MONTREAL. wiki/people/harold-cross.md poses the question in exactly those words. The Year Books answer: 'North Br. ... Physical, W. S. Maguire / Boys, Harold C. Cross' in 1911-12, 1912-13 and 1913-14, making him a MONTREAL YMCA BOYS' WORKER AT THE NORTH BRANCH more than a decade before he directed Kanawana; then 'Prince Edward Island / Charlottetown ... Gen. Secy., Harold C. Cross' in 1914-15, a general secretaryship at twenty-something that the article did not have; then gone -- Charlottetown's General Secretary is J. Morrison Clark by 1915-16, and an exact-phrase search for 'Harold C. Cross' returns no page in the 1915-16, 1916-17 or 1917-18 volumes, all three of which are OCR'd and searchable; then 'Victoria. ... Boys, Harold C. Cross' in 1918-19 and again in 1920-21, corroborating from outside Concordia the Victoria years the article already had from a Concordia source. TWO THINGS HELD LOOSELY. The three absent volumes are a null in this series and not a finding about his whereabouts; war service is the obvious guess and a CEF service file the obvious check, and neither is recorded here as fact. And the entry-year figure of '12' printed against his name in 1921 sits a year later than his first appearance, in the 1911-12 volume -- either the volume year and the roster year overlap or the figure is approximate, unresolved, noted so that nobody later reads a contradiction into it.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.97",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5270",
+      "category": "people",
+      "date_ref": "1911-1921",
+      "entities": [
+        "W. S. Maguire",
+        "Harold C. Cross"
+      ],
+      "claim": "W. S. MAGUIRE AND HAROLD C. CROSS SERVED ON THE SAME BRANCH STAFF ON OPPOSITE COASTS NINE YEARS APART. Maguire is Physical Director at Montreal's North Branch alongside Cross as Boys' worker through the 1911-12 to 1915-16 volumes; is General Secretary at Brandon, Manitoba in 1918-19; and is Physical Director at Victoria, British Columbia in 1920-21, in the same branch list that gives 'Boys, Harold C. Cross'. Recorded as the documented coincidence it is. Nothing here says the two men moved together or that either followed the other.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.97",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5271",
+      "category": "people",
+      "date_ref": "1914-1916",
+      "entities": [
+        "Lemuel Cushing",
+        "Charles Cushing",
+        "W. E. Cushing",
+        "YMCA of Montreal"
+      ],
+      "claim": "A LEMUEL CUSHING CHAIRS MONTREAL'S CENTRAL BRANCH IN 1914-15 AND 1915-16: 'Central Br., 127 Drummond St., Chairman, Lemuel Cushing'. This project already holds a Lemuel Cushing who took boys to Lake Saint-Joseph in 1892, a W. E. Cushing on the 1892 committee, a Percy H. Cushing as Assistant Secretary in 1894-95, and a Charles Cushing recorded 2026-09-06 as the YMCA's corresponding member for Quebec in 1887. A Lemuel Cushing chairing the Central Branch twenty-two years after the Lake Saint-Joseph trip is either the same man late in life or a younger relative. NEITHER IS ESTABLISHED HERE AND NEITHER SHOULD BE ASSUMED FROM A SURNAME THAT IS NOT RARE. It is a name, a post and two years.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.97",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5272",
+      "category": "people",
+      "date_ref": "1957-1965",
+      "entities": [
+        "Colin R. McKay",
+        "Clarence J. McGerrigle",
+        "Camp Otoreke"
+      ],
+      "claim": "THE YEAR BOOKS NAME CAMP OTOREKE'S DIRECTORS ALONGSIDE KANAWANA'S: 'Dir. Camp Otoreke, Clarence J. McGerrigle' in 1957, 1958, 1959, 1960 and 1961, and 'Program, Camp Otoreke, Colin R. McKay' in 1963, 1964 and 1965. COLIN R. McKAY OCCURS NOWHERE ELSE IN THIS PROJECT -- checked by grep across wiki, kb, project-docs and the source index before this was written. McGerrigle is already known here.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.97",
       "added_by": "ralph_loop"
     }
   ]

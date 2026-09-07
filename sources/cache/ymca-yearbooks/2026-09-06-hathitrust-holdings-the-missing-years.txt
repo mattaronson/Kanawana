@@ -1,5 +1,17 @@
 WHERE THE MISSING YEAR BOOK YEARS ARE — HATHITRUST, AND THIS ENVIRONMENT CANNOT READ THEM
 ==========================================================================================
+
+[SUPERSEDED 2026-09-07 IN ITS CONCLUSION, NOT IN ITS FACTS. Everything below about HathiTrust's
+holdings and about the Cloudflare wall is still true and still useful. THE TITLE'S SECOND CLAUSE
+IS NOT. This environment CAN read the missing years — all of them, including the three
+HathiTrust itself lacks — at the University of Minnesota's ContentDM collection p16022coll351,
+which is open. The route was sitting inside this very file, in the ROUTES NOT TRIED list, as
+"the Kautz Family YMCA Archives, University of Minnesota, WHICH HOLDS THE SERIES IN PRINT" —
+where the last clause was an assumption written down as though it were a finding, and it closed
+the route off. See 2026-09-07-umedia-the-series-is-readable-after-all.txt and f_5263. Google
+Books was retried on 2026-09-07 as this file asks: still 429, and naming the same consumer
+project number, so it is a shared key exhausted by other traffic rather than a daily quota that
+resets — the "retry on a later day" advice below is wrong and should not be followed again.]
 Compiled 2026-09-06 (p_436). This is a finding aid and an ACCESS FAILURE RECORD, not a source of
 camp facts. Nothing below has been read.
 

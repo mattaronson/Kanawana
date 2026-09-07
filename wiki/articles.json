@@ -1829,7 +1829,8 @@
         "src_ymf_sgw_ymca_annual_report_1925",
         "src_ymf_sgw_ymca_annual_report_1926",
         "src_ymf_sgw_ymca_annual_report_1921_1922",
-        "src_ia_ymca_national_council_bulletin_36_04"
+        "src_ia_ymca_national_council_bulletin_36_04",
+        "src_umedia_ymca_yearbook_series"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -1871,7 +1872,7 @@
         "cca-director-certification"
       ],
       "file_id": null,
-      "word_count": 25110,
+      "word_count": 25596,
       "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article. | 2026-07-11: Added wiki-links to Gary White, David Leduc, Kate Taylor, Marie-Pierre Lacasse table rows and Related Articles, pointing to new standalone institutional-role-director articles. | 2026-07-11: Added wiki-links to Greig Macdiarmid, Francois Dauphin, Nicolas Garcia, Morgan Carter, Arleen Boyer, Justin Caldwell (Two-Tier Era + Staff by Era tables) and Matt/Dan Aronson (Related Articles), per the operator's revised C5 policy.",
       "tags": {
         "era": [
@@ -2209,9 +2210,10 @@
         "src_icre_yearbook_undated",
         "src_georgian_spirit_1967",
         "src_american_rose_annual_1970",
-        "src_ymf_1928_come_to_kanawana_brochure"
+        "src_ymf_1928_come_to_kanawana_brochure",
+        "src_umedia_ymca_yearbook_series"
       ],
-      "open_questions": 4,
+      "open_questions": 5,
       "cross_links": [
         "centennial-1967",
         "council-ring",
@@ -2221,7 +2223,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 2653,
+      "word_count": 3503,
       "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged. | 2026-09-06: two lending-restricted items read through Open Library search-inside -- Henry F. Hall's The Georgian Spirit (1966 preface) names Cross 'historian of the Montreal YMCA'; the American Rose Annual 1970 lead is recorded and deliberately NOT identified.",
       "tags": {
         "era": [
@@ -3739,7 +3741,8 @@
         "src_mcgraw_hill_directory_almanac_canada_1960s",
         "src_canadian_almanac_1917_1918",
         "src_ia_ymca_national_council_bulletin_40_02",
-        "src_ia_ymca_national_council_bulletin_40_03"
+        "src_ia_ymca_national_council_bulletin_40_03",
+        "src_umedia_ymca_yearbook_series"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -3752,7 +3755,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 13635,
+      "word_count": 13804,
       "notes": "E1 REVIEW (2026-02-19): Removed unverifiable 'Google Maps' source and '20 km' distance claim. Expanded 'Multiple sources' citation into discrete references (Facts sheet + McMorris). Removed src_oral_aronson (no inline citation). Removed unsourced bullet. Fixed postcard inference. Fixed closure section process language. Split 1967 conference/reports sentence. Renumbered sources 1-10. Added camp-otoreke cross-link to centennial-1967. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_008 editorial-resolution narrative into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

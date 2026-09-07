@@ -5727,6 +5727,46 @@
       "status": "pending",
       "description": "SEARCH THE INTERNET ARCHIVE'S FULL TEXT, NOT ONLY ITS CATALOGUE. Every IA enumeration this project has run is a METADATA search: advancedsearch.php rejects the full-text parameter outright, returning UNSUPPORTED_VALUE for sin=TXT (f_5260). So the ninety-seven 'Kanawana' items and the 1,120-item fonds sweep are complete as catalogue enumerations and say NOTHING about what is inside documents whose titles do not name the camp. THE CASE IN POINT IS THE GEORGIAN: 341 issues of Sir George Williams' student newspaper sit in the rma-concordia-publications collection, sgw-concordia-connection.md has asked since 2026-07-09 whether any of them covered the camp, and NONE appears in any name search because a student newspaper is catalogued by date and not by contents. FIRST STEP, CHEAP: test whether Open Library's search/inside.json -- the one route to IA full text that works from here -- indexes non-book texts like these. Query the exact phrase 'Kanawana' and see whether any Georgian or Green Triangle issue comes back; if the index is books-only, that is a characterised null and the answer is a person with a browser at archive.org's own full-text search. SECOND: the same question applies to the McGill Daily, named in the same open question and in CLAUDE.md's Phase 2 mandate. THIRD: the Green Triangle issues ARE in this project and were found by metadata, so their full text is already held -- the gap is other people's publications, not the camp's own. Raised 2026-09-07. || FIRST STEP DONE THE SAME DAY, AND THE ANSWER IS NO (f_5261). Open Library's search/inside.json does NOT index the Internet Archive's periodical scans. Tested with a control: a distinctive phrase from a document this project already holds -- 'chronicle of events. This essay purposes to deal with events at Kanawana', from the 1935 history on the Internet Archive -- returns ZERO, while the ordinary phrase 'the twenty-sixth year of its existence' returns nineteen book hits in the same minute. Structural confirmation: 'the Green Triangle' returns 2,118 hits and none is a Green Triangle issue; 'Sir George Williams College' returns 862 and none is an issue of The Georgian. Every identifier returned has book shape. SO search/inside.json is full-text over the Archive's BOOK CORPUS and nothing else, and the project's earlier characterisation of it needs that limit read alongside. THE GEORGIAN AND THE McGILL DAILY ARE THEREFORE A BROWSER TASK, at archive.org's own full-text search, and are added to one-afternoon-with-a-browser.md rather than left as research.",
       "created": "2026-09-07"
+    },
+    {
+      "priority_id": "p_464",
+      "rank": 464,
+      "type": "RESEARCH",
+      "weight": 9,
+      "status": "pending",
+      "description": "WHO RAN KANAWANA FROM 1910 TO 1920 — THE VOLUMES ARE NOW READABLE AND THE QUESTION IS NOT YET ANSWERED. The whole war decade of the YMCA Year Book is open at the University of Minnesota's ContentDM collection p16022coll351 (f_5263), and one pass through the Quebec block has already settled that W. J. Holliday did not recover the Boys' Work directorship (f_5267) and listed the Central Branch boys' workers year by year: Hollinshead 1910-12, D. J. Evans 1912-14, a blank line in 1914-15, John G. MacKinnon 1915-17 (f_5268). WHAT IS NOT SETTLED is whether any of those men is the man over the camp. The 1909-10 volume prints 'Boys' Work Dir.' as a line separate from the branch 'Boys' lines, so an association-level directorship exists alongside the branch posts, and the camp was run by the Boys' Department. NEXT STEPS, in order: (1) read the full Montreal block of 1909-10 and 1917-18 through 1920-21, which this pass did not reach, and find whether the association-level Boys' Work Dir. line is filled in any of them; (2) full-text search the collection for the surnames Hollinshead, MacKinnon and Lordly to see whether any of them turns up in a camp context elsewhere in the series; (3) check the Montreal annual reports this project already holds for those same names, which is a grep, not a fetch. KENNETH J. HOLLINSHEAD AND ARTHUR L. WALSH AND PERCY D. BRANDON ARE ALL NEW TO THIS PROJECT and each may be worth a stub if more than a roster line turns up."
+    },
+    {
+      "priority_id": "p_465",
+      "rank": 465,
+      "type": "RESEARCH",
+      "weight": 8,
+      "status": "pending",
+      "description": "W. H. BALL'S DEPARTURE, 1901-1905 — THE FIVE VOLUMES THAT BOUND IT ARE NOW OPEN. This project has Ball holding Montreal's Physical Directorship in 1900 and J. E. Merritt holding it by 1906, with the departure bounded only to somewhere in between because the Internet Archive holds none of the intervening years. All five are in ContentDM collection p16022coll351: 1901 (rec 13624), 1902 (13285), 1902-03 (14318), 1903-04 (14699), 1904-05 (1059), 1905-06 (8010). Read the Quebec block of each and the alphabetical list of employed officers, which gives every man's year of entry into Association work and would date Merritt's arrival as well as Ball's exit. This is a bounded, mechanical task with a definite answer at the end of it, which is rare in this project."
+    },
+    {
+      "priority_id": "p_466",
+      "rank": 466,
+      "type": "RESEARCH",
+      "weight": 7,
+      "status": "pending",
+      "description": "M. G. BROOKS, WHO HELD MONTREAL'S BOYS' WORK DIRECTORSHIP IN THE YEAR BEFORE THE NEW SITE OPENED. He is new to this project, is named in the 1909 volume in the post Holliday had lost, and Holliday never got it back (f_5267). So Brooks, not Holliday, is the boys' work man of record at the moment Kanawana moved to Lac Wilson. Trace him through the now-open run: full-text search p16022coll351 for 'Brooks' across the 1907-1915 volumes, read the Montreal block of each, and get his year of entry and his next posting from the employed-officers list. Then check this project's own Montreal annual reports and the McMorris thesis by grep before concluding he is absent from them."
+    },
+    {
+      "priority_id": "p_467",
+      "rank": 467,
+      "type": "RESEARCH",
+      "weight": 6,
+      "status": "pending",
+      "description": "WHERE WAS HAROLD C. CROSS BETWEEN 1915 AND 1918? Three consecutive Year Book volumes, all OCR'd and searchable, name him nowhere, between a General Secretaryship at Charlottetown in 1914-15 and boys' work at Victoria in 1918-19 (f_5269). He would have been in his twenties in wartime and the obvious hypothesis is service, but the null is in one publication and proves nothing. TEST IT: Library and Archives Canada's Canadian Expeditionary Force personnel records are digitized and searchable by surname, though 'Cross' with no birth date and no regimental number may not narrow — the Charlottetown and Victoria connections are the discriminators. Also worth trying: Charlottetown's Guardian or Victoria's Daily Colonist for a notice of his arrival or departure, both of which have digitized runs. THIS WOULD ALSO GET AT THE ARTICLE'S OLDEST QUESTION, his birth date, since an attestation paper carries one."
+    },
+    {
+      "priority_id": "p_468",
+      "rank": 468,
+      "type": "RESEARCH",
+      "weight": 5,
+      "status": "pending",
+      "description": "THREE VOLUMES NOT CHECKED IN THE MINNESOTA COLLECTION: 1885, 1889 and 1962. The first two are the last nineteenth-century holes in this series and the third would complete the Kanawana director run, where 1962 is the only year between 1957 and 1968 with no hit — and it is NOT established whether that is because the volume is absent from the collection or because the camp is genuinely unnamed in it. The difference matters: one is a gap in a library's holdings and the other would be a fact about the roster. Enumerate the collection's 173 items by title, which is one dmQuery call, and settle all three."
     }
   ],
   "queue_ordering": {

@@ -1,0 +1,236 @@
+THE YMCA YEAR BOOK IS READABLE FROM HERE — EVERY YEAR THIS PROJECT CALLED MISSING
+==================================================================================
+Compiled 2026-09-07. THIS FILE SUPERSEDES THE ACCESS-FAILURE VERDICT IN
+2026-09-06-hathitrust-holdings-the-missing-years.txt AND THE CLOSING PARAGRAPH OF
+2026-09-06-complete-ia-inventory-of-the-series.txt. Both remain accurate about the Internet
+Archive and about HathiTrust. Both were wrong about the conclusion drawn from them, which was
+that this environment cannot read the missing years. It can.
+
+WHAT WAS WRONG WITH YESTERDAY'S VERDICT
+---------------------------------------
+Yesterday's note listed four routes to the 1901-1905 and 1910-1920 volumes and found three shut
+(HathiTrust behind Cloudflare, Google Books behind a quota, the Data API behind OAuth). The
+fourth was written down as "the Kautz Family YMCA Archives, University of Minnesota, WHICH HOLDS
+THE SERIES IN PRINT." That last clause was an assumption, not a finding. Nobody had asked
+Minnesota whether it also holds the series digitally. It does, and the digital copy is open.
+
+Retried first, for the record, because the note said to: Google Books still returns HTTP 429,
+and the quota message names THE SAME consumer project number as yesterday. That reframes it —
+it is a shared key exhausted by other traffic, not a daily allowance that resets for this
+session, so "retry tomorrow" is not the fix. books.google.com and google.com/search?tbm=bks both
+302 to /sorry/index, Google's bot wall. babel.hathitrust.org is still the Cloudflare
+interstitial. So three of yesterday's four routes are shut today as well; only the untested
+assumption gave way.
+
+THE ROUTE THAT WORKS
+--------------------
+University of Minnesota Libraries, collection "YMCA Yearbooks, Directories, and Proceedings",
+ContentDM alias p16022coll351 on cdm16022.contentdm.oclc.org. 173 items. Finding aid:
+https://archives.lib.umn.edu/repositories/7/resources/883
+
+Two endpoints, both answering normally from this environment:
+
+  ENUMERATE / FULL-TEXT SEARCH
+  https://cdm16022.contentdm.oclc.org/digital/bl/dmwebservices/index.php?q=
+      dmQuery/p16022coll351/<searchstring>/title!dmrecord/nosort/<rows>/<start>/0/0/0/json
+  searchstring is either 0 (everything) or FIELD^TERMS^MODE^OPERATOR, e.g.
+      CISOSEARCHALL^Kanawana^all^and          (all words)
+      CISOSEARCHALL^Harold C. Cross^exact^and (exact phrase — verified working)
+  Hits come back AT PAGE LEVEL, each carrying parentobject = the volume's dmrecord.
+
+  READ ONE PAGE'S OCR
+  ...index.php?q=dmGetItemInfo/p16022coll351/<page dmrecord>/json
+  The OCR is the "transc" field. NOTE: cdmhasocr reads 0 on pages that plainly have OCR in
+  transc, so DO NOT USE cdmhasocr TO DECIDE WHETHER A PAGE IS READABLE. Read transc.
+
+  UMedia's own search.json (umedia.lib.umn.edu) also answers but IGNORES the set_spec and
+  facets parameters — it returned Social Work Year Books and county maps for collection-scoped
+  queries. Use ContentDM directly.
+
+EVERY HOLE IS HERE, WITH ITS RECORD NUMBER
+------------------------------------------
+The years the Internet Archive lacks entirely, and the three HathiTrust also lacks (starred):
+
+  1883        2255        1909-10     11112
+  1901        13624       1910-11     5935
+  1902        13285       1911-12     9872
+  1902-03     14318       1912-13 *   5467
+  1903-04     14699       1913-14     5052
+  1904-05     1059        1914-15 *   6336
+  1905-06     8010        1915-16     9113
+                          1916-17     3985
+                          1917-18     15936
+                          1918-19     15358
+                          1919-20     16539
+                          1920-21 *   34602
+
+The collection also runs forward through 1982 (the 1957-1968 volumes are what carry Kanawana;
+see below), and holds 1885 and 1889 — the remaining two nineteenth-century holes — is NOT
+established here and was not checked.
+
+OCR COVERAGE WAS CONTROLLED BEFORE ANY NULL WAS TRUSTED
+-------------------------------------------------------
+A full-text search for "Montreal" returns 2,742 page hits across 124 distinct volumes, and
+EVERY ONE of the nineteen target volumes above appears among them. So these volumes are OCR'd
+and searchable, and a null in them is a null in the book rather than a hole in the scanning.
+That control is what makes the two nulls recorded below worth anything.
+
+
+FINDING 1 — "KANAWANA" APPEARS IN THIS SERIES ONLY FROM 1957 TO 1968
+=====================================================================
+Seventeen pages, in eleven volumes: 1957, 1958, 1959, 1960, 1961, 1963, 1964, 1965, 1966, 1967,
+1968. Not once before 1957 and not once after 1968, across a series running 1877-1982.
+
+THAT IS A NULL ABOUT THE NATIONAL ROSTER, NOT ABOUT THE CAMP. What changes in the late 1950s is
+almost certainly the roster's own practice — camps start being listed as posts within a
+metropolitan board — not anything about Kanawana, which had been running for sixty years by
+then. Do not read the 1894-1956 silence as evidence of anything except that this particular
+publication did not name camps.
+
+The camp is spelled "Kamp Kanawana" in the roster from 1957 through 1965 and "Camp Kanawana"
+from 1966. This project already knows the K spelling well; it is recorded here only because the
+changeover year is clean in this series.
+
+THE DIRECTOR SERIES, VERBATIM FROM THE QUEBEC BLOCK OF THE DIRECTORY OF ASSOCIATIONS
+------------------------------------------------------------------------------------
+1957  "Assistant Program, Kamp Kanawana, Murray B. Shantz"      (Montreal Metro. Bd.)
+1958  "Assistant Program, Kamp Kanawana, Murray B. Shantz"
+1959  "Assistant Program, Kamp Kanawana, A. Ross Seaman"
+1960  "Program, Kamp Kanawana, A. Ross Seaman"
+1961  "Program, Kamp Kanawana, A. Ross Seaman"
+1963  "Program, Kamp Kanawana, A. Ross Seaman"
+1964  "Program, Kamp Kanawana, A. Ross Seaman"
+1965  "Program, Kamp Kanawana, A. Ross Seaman"
+1966  "Program, Camp Kanawana, A. Ross Seaman"
+1967  "Program, Camp Kanawana, A. Ross Seaman"
+1968  "Program, Camp Kanawana, A. Ross Seaman"
+
+1962 IS ABSENT FROM THE HIT LIST and it is not clear whether the 1962 volume is in this
+collection at all — that was not checked. Do not record 1962 as a null until it is.
+
+WHY THIS MATTERS TO THE WIKI, PRECISELY
+  - directors-index.md carries Shantz at 1955-1958 with "1956-1958 is inference from that
+    silence" — inference from the Montreal annual reports NOT recording a change. The 1957 and
+    1958 Year Books state him in the post outright, from outside Montreal's own paper. Two of
+    those three inferred years become documented.
+  - The same index says of 1968: "Summer 1968 has no named on-site director anywhere — not in
+    the annual report, not in any 1968 news release or newsletter." The 1968 Year Book names
+    Seaman in the Kanawana post. READ IT CAREFULLY BEFORE CLAIMING TOO MUCH: this is the
+    Metropolitan Board's staff roster and gives him the camp, exactly as it does for 1966 and
+    1967; it does not use the words "on-site director," and the index's own warning about the
+    branch-officers table — that the man holding the camping portfolio is not always the man on
+    site — applies here with equal force. What it establishes is that a national publication
+    put Seaman in the Kanawana post for 1968. It does not establish who ran the 1968 season on
+    the ground.
+  - Seaman's own entry line in the alphabetical list of employed officers gives his year of
+    entry into Association work as 53, and the 1957 and 1958 volumes place him at "Montreal,
+    Que., Lachine, Exec" — Executive of the Lachine YMCA in the two years before he took the
+    camp. The index says only "career in community work preceded directorship."
+  - Shantz's entry line gives his year of entry as 46, and the 1959 and later volumes show him
+    at "Toronto, Ont., Sec. National Council" — corroborating the index's "left in 1959 for the
+    YMCA National Council staff" from an independent source.
+  - Camp Otoreke: "Dir. Camp Otoreke, Clarence J. McGerrigle" 1957-1961, and "Program, Camp
+    Otoreke, Colin R. McKay" 1963-1965. COLIN R. McKAY OCCURS NOWHERE IN THIS PROJECT — checked
+    by grep across wiki, kb, project-docs and the source index before writing this line.
+
+
+FINDING 2 — W. J. HOLLIDAY DID NOT GET THE BOYS' WORK DIRECTORSHIP BACK
+========================================================================
+This was question 1 on yesterday's list, and the answer is no. He goes sideways into branch
+administration and stays there for at least seven years.
+
+  1909-10  Montreal, Central Dept.: "Asst., (Memb.,) W. J. Holliday" — a membership assistant.
+  1910-11  "Fairmount Ave. Br., Ch., W. A. Wilson / Secy., W. J. Holliday"
+  1911-12  "North Br., Chairman, W. A. Wilson / Secy., W. J. Holliday"
+  1912-13  "North Br. ... Secy., W. J. Holliday"
+  1913-14  "North Br., Chairman, H. R. MacGregor / Secy., W. J. Holliday"
+  1914-15  "North Br., 2300 Park Ave., Chairman, George S. Rorke / Secy., W. J. Holliday"
+  1915-16  "North Br., 2300 Park Ave., Chairman, George S. Rorke / Secy., W. J. Holliday"
+  1916-17  "North Br., 2300 Park Ave., Chairman, S. W. Cuthbert / Secy., W. J. Holliday"
+
+The Fairmount Avenue branch of 1910-11 and the North Branch of 1911 onward share a chairman
+(W. A. Wilson) and a secretary (Holliday) across the changeover, which suggests the same branch
+under a new name at 2300 Park Ave. THAT IS AN INFERENCE FROM TWO NAMES AND IS NOT STATED
+ANYWHERE IN THESE VOLUMES.
+
+AND THE MONTREAL BOYS' WORK POST ITSELF, YEAR BY YEAR — yesterday's question 2, the closest
+thing to a list of the men over the camp through the new site's first decade:
+
+  1910-11  Central Dept., "Boys, Kenneth J. Hollinshead"
+  1911-12  Central Dept., "Boys, Kenneth J. Hollinshead"
+  1912-13  Central Dept., "Boys, D. J. Evans" (with "Asst. Boys, H. A. Lordly")
+  1913-14  Central Dept., "Boys, D. J. Evans"
+  1914-15  Central Br., "Boys," — THE LINE IS PRINTED WITH NO NAME AFTER IT
+  1915-16  Central Br., "Boys, John G. MacKinnon"
+  1916-17  Central Br., "Boys, John G. MacKinnon"
+
+KENNETH J. HOLLINSHEAD OCCURS NOWHERE IN THIS PROJECT; so does no Percy D. Brandon and no
+Arthur L. Walsh. All three checked by grep before writing.
+
+A CAUTION THAT MATTERS FOR THE CAMP. These are the CENTRAL DEPARTMENT / CENTRAL BRANCH boys'
+workers. The 1909-10 volume prints "Boys' Work Dir." as a separate line from the branch "Boys"
+lines, which means the association-level directorship and a branch boys' post are not the same
+office. Whether the man who ran Kanawana in these years is the Central Branch's boys' worker,
+an association-level Boys' Work Director, or someone the Year Book does not list at all is NOT
+settled by any of the above. What is settled is that Holliday was not it.
+
+
+FINDING 3 — WHERE HAROLD C. CROSS WAS BETWEEN 1912 AND 1919
+============================================================
+wiki/people/harold-cross.md states the question in those words: his 1921 entry-year figure of
+"12" is "seven years earlier than any date this article had, and it opens a question that did
+not exist before: where was he between 1912 and 1919?" Five of those years now have an answer,
+and the first three of them say Montreal.
+
+  1911-12  "North Br. ... Physical, W. S. Maguire / Boys, Harold C. Cross"      MONTREAL
+  1912-13  "North Br. ... Physical, W. S. Maguire / Boys, Harold C. Cross"      MONTREAL
+  1913-14  "North Br. ... Physical, W. S. Maguire / Boys, Harold C. Cross"      MONTREAL
+  1914-15  "Prince Edward Island / Charlottetown ... Gen. Secy., Harold C. Cross"
+  1915-16  Charlottetown's General Secretary is J. Morrison Clark. Cross is gone.
+  1915-16, 1916-17, 1917-18  ABSENT — an exact-phrase search for "Harold C. Cross" returns no
+           page in any of these three volumes, which ARE OCR'd (see the control above).
+  1918-19  "Victoria. President, / Gen. Secy., J. M. Graham / Asst., Harry H. Hollins /
+            Physical, James Thompson / Boys, Harold C. Cross"                   VICTORIA, B.C.
+  1920-21  "Victoria. President, George McGregor / Gen. Secy., J. M. Graham / ...
+            Physical, W. S. Maguire / Boys, Harold C. Cross"                    VICTORIA, B.C.
+
+SO: a Montreal YMCA boys' worker at the North Branch for three years in the early 1910s, more
+than a decade before he directed Kanawana; then General Secretary at Charlottetown for a year;
+then unfound for three volumes; then Boys' Work at Victoria, where the article already had him
+from 1919 on a Concordia source. The Victoria years are now corroborated from outside Concordia.
+
+TWO THINGS TO HOLD LOOSELY HERE.
+1. The three absent volumes are a null in this series, not a finding about his whereabouts.
+   The obvious guess is war service and the obvious check is a CEF service file, but this
+   document does not support the guess and it is not recorded as a fact.
+2. The entry-year figure of "12" printed in 1921 sits a year later than his first appearance
+   in the 1911-12 volume. Either the volume year and the roster year overlap, or the figure is
+   approximate. Not resolved; noted so nobody later reads a contradiction into it.
+
+AND ONE HUMAN DETAIL THAT IS DOCUMENTED RATHER THAN INFERRED: W. S. MAGUIRE is the Physical
+Director alongside Cross at Montreal's North Branch through 1911-1916, is General Secretary at
+Brandon, Manitoba in 1918-19, and is Physical Director at VICTORIA alongside Cross again in
+1920-21. The two men appear on the same branch staff on opposite coasts nine years apart.
+
+
+A THIRD NAME FOR THE CUSHING TANGLE
+-----------------------------------
+"Central Br., 127 Drummond St., Chairman, LEMUEL CUSHING" in both 1914-15 and 1915-16. This
+project already has a Lemuel Cushing taking boys to Lake Saint-Joseph in 1892 and a W. E.
+Cushing on the 1892 committee, and yesterday's inventory added a Charles Cushing as the YMCA's
+corresponding member for Quebec in 1887. A Lemuel Cushing chairing Montreal's Central Branch
+twenty-two years after the Lake Saint-Joseph trip is either the same man late in life or a
+younger relative. NEITHER IS ESTABLISHED HERE. It is a name, a post and two years.
+
+
+QUERIES RUN
+-----------
+googleapis.com/books/v1/volumes with a control (429, same consumer project as yesterday);
+books.google.com and google.com/search?tbm=bks (302 to /sorry/); babel.hathitrust.org/cgi/pt
+(403 Cloudflare); umedia.lib.umn.edu/search.json bare, with set_spec, and with facets[] forms;
+archives.lib.umn.edu/repositories/14/resources (202, empty body);
+dmQuery on p16022coll351 for: everything (173), CISOSEARCHALL Kanawana (17 pages, 11 volumes),
+Montreal (2,742 pages, 124 volumes — the OCR control), Holliday (243), Jubilee (112),
+"Holliday Montreal Boys" (67), and exact-phrase "Harold C. Cross" (39);
+dmGetItemInfo on page records 40653, 10775, 5588, 9511, 5075, 4630, 6211, 8974, 3834, 34456,
+15084, 34016 and the seventeen Kanawana pages.
