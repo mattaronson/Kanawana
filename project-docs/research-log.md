@@ -7062,3 +7062,42 @@ control query as well as to the real one. The Internet Archive metadata search i
 "Kanawana" returns 97 items) and returns nothing. Separately, the 1935 season chronicle was read end to
 end and eighteen of its nineteen distinctive items were already in the wiki, which is a *clean* verdict
 on an asserted read and is now recorded so the next pass does not re-derive it.
+
+### Addendum, same afternoon: the sibling camps
+
+The sentence-next-door habit kept going and turned into a small campaign of its own. Ranking the
+association's other camps by annual-report mentions against facts held and article size showed Camp
+Dorval as the least served — eleven mentions, thirteen facts, and no article — and every one of those
+thirteen facts was about *archival records* rather than about the camp. Read as a run, the reports of
+1926 to 1929 give it a whole life: founded 1925 on J. G. MacKinnon's initiative, a house leased from the
+Marcil Trust Company, canvas cots for thirty boys made from material donated by Dominion Textile on
+steel pipe from Sessenwein Brothers, over two hundred working boys at a dollar plus twenty cents car
+fare a weekend, and a camp "overlooking the Royal Montreal Golf Club" that the report itself calls "in
+singular contrast to it."
+
+It has an article now. Writing it produced the day's cleanest illustration of why the destination-grep
+rule exists: I had drafted the ending from the association's annual report, which proposes discontinuing
+the camp, when `quebec-camp-landscape.md` said the 1928 report *recommends continuing*. Both are true.
+They are two different documents — the camp's own season report argues to continue, the association's
+annual report proposes to stop unless somebody buys a site — and the disagreement between them is a
+better section than the one I was about to write.
+
+Following the same thread into the 1940s turned up the **Lakeshore Club**, a YMCA of Montreal property
+on Lake St. Louis leased in 1941, with zero mentions in the wiki and zero facts in the knowledge base
+beforehand. It matters because of what the report says about it: "for years the Association has sought a
+place in near proximity to the city." That is Camp Dorval's 1928 request answered in the association's
+own words, thirteen years later, in the same municipality — documented continuity where the article had
+been carrying an inference. Its whole recorded life is 1941 to 1944, which is the war, and it spent
+every season of it serving forces personnel alongside Otoreke and the ski lodge. Kanawana is
+conspicuously absent from that list of three, and the wartime article now says so without explaining it
+away.
+
+Two of my own findings from earlier the same afternoon were corrected in the process. The Otoreke Ski
+Club does not begin at Christieville in 1944-45: it ran at a rented chalet at **Piedmont** in 1941-42
+and at **Alouette Lodge** near Ste-Adèle in 1942-43 with fifty members, and "its 11 year" in the 1955
+report counts the Christieville era, not the club. And the club did not decline gradually across the
+1950s; it held between 130 and 150 members for a decade, peaked in the middle, and lost a third of
+itself in the single year before 1959.
+
+Every one of those corrections came from reading the *next* document. That is now the working rule, and
+the last several units were done that way with no correction needed afterwards.
