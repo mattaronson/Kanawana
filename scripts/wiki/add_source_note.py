@@ -34,9 +34,31 @@ import sys
 from pathlib import Path
 
 
+def sources_region(text: str) -> tuple:
+    """(start, end) of the ## Sources section -- to the NEXT top-level heading.
+
+    WHY THE END MATTERS. Every function here used to slice from "## Sources" to
+    end of file, and most articles carry ## Research Notes after Sources. On
+    2026-09-07 green-triangle.md had an orphan "7. ..." line inside its Research
+    Notes, left over from an older edit; the new entry was appended after THAT,
+    landing outside the Sources list where the marker resolves to nothing. Verify
+    caught it as A1 + B, which is exactly the failure this script exists to
+    prevent -- so the bug was in the fence, not in the hand. Bounding the region
+    fixes the numbering, the insertion point and the count together, because all
+    three read the same slice.
+    """
+    start = text.find("## Sources")
+    if start < 0:
+        return (-1, -1)
+    nxt = re.search(r"^## ", text[start + len("## Sources"):], re.M)
+    end = start + len("## Sources") + nxt.start() if nxt else len(text)
+    return (start, end)
+
+
 def next_free(text: str) -> int:
     """Highest of every numbered entry and every ^N marker, plus one."""
-    src = text[text.find("## Sources"):] if "## Sources" in text else ""
+    s, e = sources_region(text)
+    src = text[s:e] if s >= 0 else ""
     entries = {int(m.group(1)) for m in re.finditer(r"^(\d+)\. ", src, re.M)}
     markers = {int(m.group(1)) for m in re.finditer(r"\^(\d+)\b", text)}
     return max(entries | markers, default=0) + 1
@@ -44,11 +66,11 @@ def next_free(text: str) -> int:
 
 def insert_after_last_entry(text: str, note_line: str) -> str:
     """Place the note directly after the last numbered entry in ## Sources."""
-    start = text.find("## Sources")
+    start, end = sources_region(text)
     if start < 0:
         raise SystemExit("no '## Sources' heading in this article")
     last_end = None
-    for m in re.finditer(r"^\d+\. .*$", text[start:], re.M):
+    for m in re.finditer(r"^\d+\. .*$", text[start:end], re.M):
         last_end = start + m.end()
     if last_end is None:
         raise SystemExit("'## Sources' has no numbered entries to append after")
@@ -64,7 +86,8 @@ def bump_header(text: str, new_count: int) -> str:
 
 
 def count_entries(text: str) -> int:
-    src = text[text.find("## Sources"):] if "## Sources" in text else ""
+    s, e = sources_region(text)
+    src = text[s:e] if s >= 0 else ""
     return len({int(m.group(1)) for m in re.finditer(r"^(\d+)\. ", src, re.M)})
 
 

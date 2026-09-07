@@ -15313,12 +15313,12 @@
       "cache_path": "sources/cache/ymca-montreal-fonds/ka-news-1978-04-28.txt",
       "char_count": 2961,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
-      "extraction_version": "v5.60",
+      "extracted": true,
+      "extraction_version": "v9.77",
       "reliability": "primary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ WORD FOR WORD 2026-09-07, superseding the \"skimmed\" state recorded on 2026-08-25. Derek Walsh's pre-season staff bulletin for the 1978 season: the required reading (Blackstock and Latimer's Camp Counsellor's Handbook) before pre-kamp on 17 June, the Quebec Camping Association counsellors' workshop of 13 May 1978 at McGill which Kanawana offered to pay for, four section and activity directorships still unfilled a month before the season, the camp office's location in the Downtown Y and the fire there, and enclosures (the camp crest with its interpretation, the Kamper Information Booklet) that are themselves documents this project does not hold. Closes with a staff news column of personal items about named staff -- jobs, studies, a wedding date -- which is recorded here as present rather than extracted fact by fact, since it is private detail about people who are probably living and it carries no institutional content beyond the two staffing items extracted. The item also has a French half (Nouvelles-KA, 2,941 bytes) which the rule-50 rescan surfaced; it is a translation of the same bulletin, not a second document.",
+      "read_state": "read",
+      "read_state_basis": "read-word-for-word-2026-09-07"
     },
     {
       "source_id": "src_ymf_ka_news_1978_10",
@@ -31443,7 +31443,43 @@
       "notes": "McLEAN CREDITS THE CAMP FROM A CONCORDIA PODIUM IN 2004. 'Stuart McLean, host of CBC Radio's The Vinyl Cafe and a TENURED PROFESSOR AT RYERSON UNIVERSITY, read one of his droll short stories at an alumni luncheon at a downtown hotel on SEPT. 30. Before he did so, he told the audience how much his years at Sir George Williams University meant to him, PARTICULARLY HIS COURSES IN APPLIED HUMAN SCIENCE AND SUMMERS WORKING AT CAMP KANAWANA. He graduated in 1971, and went on to make a career as a broa[dcaster]...' The wiki has the five summers and the 1971 graduation; what is new is McLean pairing the courses and the camp as the two things that mattered, said to a Concordia alumni audience, and the Ryerson tenure. Note 'Applied Human Science' here against 'Applied Social Sciences' in the 1997 report -- the department was renamed between the two. See f_5457.",
       "read_state": "extracted",
       "read_state_basis": "direct: the passage read in full from the sweep's context window; the item's single text file was confirmed by metadata."
+    },
+    {
+      "source_id": "src_concordia_thursday_report_2001_04_12",
+      "type": "periodical",
+      "title": "Concordia's Thursday Report, 12 April 2001 — \"Seaman Awards Given for Community Involvement\" by Laurel C. Leduc",
+      "date": "2001-04-12",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/thursday-report-2001-april-12",
+      "cache_path": "sources/cache/concordia-publications/thursday-report-2001-04-12-seaman.md",
+      "char_count": 117451,
+      "ingested_at": "2026-09-07T09:45:00Z",
+      "extracted": true,
+      "extraction_version": "v9.77",
+      "reliability": "secondary",
+      "notes": "Found by the download-and-grep sweep of the rma-concordia-publications collection (HIT). Full report on the 13th annual A. Ross Seaman awards evening, 22 March 2001, naming the fund's constituencies and that year's winners including the Kamp Kanawana recipient. Also gives the fund's own website address, arossseaman.tripod.com, which the Wayback Machine has no capture of. Only the Seaman article is transcribed to cache; the rest of the 117 KB issue was read for further Kanawana mentions and has none.",
+      "read_state": "read",
+      "read_state_basis": "grepped-whole-issue-and-read-the-hit-article-word-for-word"
+    },
+    {
+      "source_id": "src_concordia_thursday_report_2002_05_23",
+      "type": "periodical",
+      "title": "Concordia's Thursday Report, 23 May 2002 — \"Seaman Awards for Community Leadership\" (photo caption)",
+      "date": "2002-05-23",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/thursday-report-2002-may-23",
+      "cache_path": "sources/cache/concordia-publications/thursday-report-2002-05-23-seaman.md",
+      "char_count": 120806,
+      "ingested_at": "2026-09-07T09:45:00Z",
+      "extracted": true,
+      "extraction_version": "v9.77",
+      "reliability": "secondary",
+      "notes": "Found by the same sweep (HIT). The Kanawana material is a photo caption, not an article: the Seaman award ceremony of 20 March 2002 at Dawson College, with the winners named by constituency including Kamp Kanawana. Caption transcribed in full to cache; the rest of the issue was grepped and carries no other Kanawana mention.",
+      "read_state": "read",
+      "read_state_basis": "grepped-whole-issue-and-read-the-hit-caption-word-for-word"
     }
   ],
-  "source_count": 1749
+  "source_count": 1751
 }

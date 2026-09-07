@@ -1,7 +1,7 @@
 # Derek Walsh
 
-*Status: draft | Sources: 16*
-*Last Updated: 2026-09-06 (his own resignation letter, which settles where he went)*
+*Status: draft | Sources: 17*
+*Last Updated: 2026-09-07 (his own staff bulletin of April 1978: what a director was doing six weeks out)*
 
 ## Overview
 
@@ -69,6 +69,18 @@ The citation for that award is the fullest single summary of him anywhere: it th
 
 A camp director whose own 1977 report worried about promotion was, in the same years, the national association's authority on it.
 
+## His own voice, six weeks before a season (1978)
+
+The camp's pre-season staff bulletin of **28 April 1978** is the only document in this project written by Walsh to his own staff, and it is worth reading as a portrait of what a Kanawana director was doing in late April.^17 He signs it "Adios, Derek," calls the season "K.K. '78," addresses the staff as "gang," and hopes for "a large group of **Kanawanitans** present" at a workshop — a demonym this wiki has nowhere else, alongside the "old Kanawanians" of 1938.
+
+**He was buying outside training for seasonal staff.** The Quebec Camping Association was running a one-day counsellors' workshop on **Saturday 13 May 1978 at McGill**, in the Sir Arthur Currie Gym, covering "song leading, games, dramatics, attitudes for rainy days, aquatics, nature, folk dancing, campfires, etc." Walsh's line is unambiguous: "**Kamp Kanawana is prepared to sponsor you**, so please let me know if you are able to attend," with registrations through him or **Mrs. Hall** by 4 May to catch the advance rate. He points staff who happened to be in Toronto at the Ontario Camping Association's parallel programme on 6 May. That session list is also a direct statement of what the Quebec association thought a counsellor needed in 1978, and its first four items are cultural rather than technical.
+
+**Four directorships were still open six weeks out.** Under "Positions Still Open": **Waterfront Director, Sailing Director, C.I.T. Director, Junior Girls Section Director** — "if perchance you know of someone who may be interested, just have them give me a call." Some staff had not returned their staff agreements. Read as structure rather than as a staffing problem, that list attests a Junior Girls section with its own director in 1978, sailing as a programme with a director distinct from the waterfront, and a CIT programme with a director. **Kerry Finucan** was returning from Nova Scotia to start full-time at the camp on **4 May**, and was co-planning pre-camp training with Walsh, which makes Finucan the season's second-in-command by function whatever the title was.
+
+**The camp office was in the Downtown Y, and the building had just burned.** From the bulletin's staff-news column: "The Downtown Y had a fire recently, damage was mainly on the 2nd and 3rd floors — **the camp office is OK except for the smell**." The incidental half of that sentence is the useful one. Kanawana's year-round administrative office sat inside the Downtown YMCA building in 1978, which is where the camp's records were kept and where a fire on the floors above them came close. The fire is undated beyond "recently" and its cause is not given; anyone later accounting for holes in Kanawana's 1970s paper record should know about it.
+
+**Three documents are named that this project does not hold**: "the Kanawana crest and interpretation," enclosed with the bulletin, which would be the only written explanation of the crest anywhere in this research; a **Kamper Information Booklet** sent to campers and carrying the staff medical form; and the Green Triangle promised for the following week. The bulletin closes with a column of staff news — jobs, studies, a wedding date — about named individuals who are probably living. It is recorded here as present, and described, rather than reproduced.
+
 ## Open Questions
 
 1. [Critical] **Who was he, outside camping?** The 2026 RALPH cycle found no obituary, no birth or death date, no family and no occupation away from the YMCA — for a man who ran Kanawana for five years and held national office for seven [f_4827]. This absorbs the earlier separate question on biographical basics. **The untried routes are the ones likely to work, and none of them is a search engine:** obituary aggregators searched by name alone, Concordia's YMCA of Montreal fonds for personnel files, the CCA's own membership records, and the camp's living alumni network. The one new trace is a CBC photo credit that has not been read [f_4826].
@@ -103,6 +115,7 @@ A camp director whose own 1977 report worried about promotion was, in the same y
 14. CBC News, "Stuart McLean fund to help kids in need attend Quebec camp" (2017) [src_cbc_mclean_fund_2017]. **Not read** — cbc.ca returns HTTP 403 to this project's fetch tool. A search-result summary indicates Derek Walsh is credited for the article's photographs of Stuart McLean at camp. See [f_4826], [f_4827].
 15. Derek V. Walsh, "Special Ka-News," 5 February 1979 [src_ymf_ka_news_1979_02_05], YMCA of Montreal fonds. His own resignation letter to the Kanawana staff. Read in full 2026-09-06 under p_418. See [f_5219].
 16. Kevin Forster and Dave Twynam, "Ka-News '79," May 1979 [src_ymf_ka_news_1979_05], YMCA of Montreal fonds. Read in full 2026-09-06 under p_418. See [f_5220].
+17. Derek Walsh, *Ka-News '78*, staff bulletin of 28 April 1978 [src_ymf_ka_news_1978_04_28]. Cached in full at `sources/cache/ymca-montreal-fonds/ka-news-1978-04-28.txt`; read word for word 2026-09-07, having been held since 2026-08-25 in a "skimmed" read state. The item also carries a French half (*Nouvelles-KA*), a translation of the same bulletin rather than a second document, surfaced by the rescan for multi-text items.
 
 ## Research Notes
 

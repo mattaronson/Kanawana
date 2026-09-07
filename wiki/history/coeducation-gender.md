@@ -1,7 +1,7 @@
 # Coeducation and Gender at Kanawana
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-09-06 (the 1967 announcement, and the 1969 doubling that explains the competing date)*
+*Last Updated: 2026-09-07 (a Junior Girls Section directorship advertised in 1978)*
 
 ## Overview
 
@@ -202,6 +202,8 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 ![Junior Girls section plaque, 1992](../../assets/images/plaques/junior-girls-1992.jpg)
 *A Junior Girls section plaque, 1992. Copyright All rights reserved by Kanawana.*
 
+**A Junior Girls section had its own director in 1978, and the camp was recruiting one in April.** Kanawana's staff bulletin of 28 April 1978 lists four posts still unfilled six weeks before the season: Waterfront Director, Sailing Director, C.I.T. Director, and **Junior Girls Section Director**.^kn78 The wiki's next-nearest evidence for a named Junior Girls section is a plaque of 1992, fourteen years later. This is a small line in a recruiting notice, but it is the camp's own paper treating a Junior Girls section as an established part of the 1978 structure with a directorship of its own — not as an experiment, and not as girls attached to a boys' camp.
+
 ## Open Questions
 
 1. What do the Co-ed Camping Pilot Project reports (1967-1970, Concordia archives sub-series 12A) actually contain? Were girls at Kanawana specifically, or was the pilot across multiple YMCA camps?
@@ -235,6 +237,7 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 - [gz] *The Gazette* (Montreal), summer-camp feature, 18 April 1974 [src_newspapers_gazette_1974]. See [f_2248].
 - [pf] Concordia University Records Management and Archives, *Finding Aid — YMCA of Montreal Fonds (P0145)*, 24 November 2023, item-level audio listing [src_concordia_p0145_full_findingaid_pdf]. The reel has not been heard. See [f_2273].
 - [cp] "Interview: Charles Plewman," Jay Haddad's interview of 15 August 1976 at Plewman's Haliburton rest home, printed with the notice of his death on 28 December 1981, *Canadian Camping* Vol. 33 No. 6 (Winter 1982), pp. 4-5 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 140). Movement context, not a Kanawana document; the interview is one of the CCA/ACC oral history tapes deposited at Trent University.
+- ^kn78: Derek Walsh, *Ka-News '78*, Kamp Kanawana staff bulletin of 28 April 1978 [src_ymf_ka_news_1978_04_28]. Cached in full at `sources/cache/ymca-montreal-fonds/ka-news-1978-04-28.txt`; read word for word 2026-09-07. See [f_5465].
 - [cm] Concordia University Archives static finding-aid mirror, YMCA of Montreal fonds P145 sub-series 12C01, 12D, 12E, 12I, 12J [src_concordia_mirror_12c01, src_concordia_mirror_12d, src_concordia_mirror_12e, src_concordia_mirror_12i, src_concordia_mirror_12j]. Fetched and extracted 2026-08-25 in the p_268 mirror walk. Finding aids: they establish that a file of a given title and date exists, not its contents. See [f_2258], [f_2264].
 - [lw] "Camping… The Last Word!" (the A.B. Thiessen exchange with editor Jay Haddad); the bilingual editorial "segregation… It Still Exists!!!"; and Sylvia Haynes, "Camping is Fun! And it is For Everyone!", *Canadian Camping* Vol. 36 No. 1 (Spring 1984), pp. 3, 8-9, 19 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 150).
 - [ty] "Personality Profile: W. E. (Ted) Yard (1919-1983)" — interview with Shirley Yard and Ted Yard Jr., *Canadian Camping Magazine* Vol. 38 No. 2 (Fall 1986), pp. 10-15 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 159). Movement context, not a Kanawana document.

@@ -1,7 +1,7 @@
 # The Green Triangle
 
-*Status: draft | Sources: 9*
-*Last Updated: 2026-07-11*
+*Status: draft | Sources: 10*
+*Last Updated: 2026-09-07 (the revived Green Triangle went to staff, not campers)*
 
 ## Overview
 
@@ -53,6 +53,11 @@ Separately from the newsletter, "the Green Triangle" was also a coveted camper a
 
 Beyond the publication and the award, "Green Triangle" functioned more broadly as a symbolic identity marker for the camp. It appears in the coda of the Kanawana marching cheer as performed in the 2000s ("What's the matter with the Green Triangle?"), and the camp historian [[people/matt-aronson|Matt Aronson]] has theorized — without yet elaborating publicly — that the Kanawana Marching Song itself arrived via "the tradition of Green Triangle."^9
 
+
+## Who the Revived Green Triangle Was For (1978)
+
+The 1978–1982 revival recorded above has a witness from outside the run itself, and it changes the readership. Derek Walsh's staff bulletin of **28 April 1978** — an issue of *Ka-News*, the other revived title — signs off: "That's all for now gang… **A Green Triangle will follow next week**."^10 The Green Triangle promised there was going to the camp's **staff**, in the pre-season, in April, alternating with *Ka-News* as a staff mailing. This article describes the Green Triangle throughout as the campers' newsletter, which the 1932–1940 run plainly was. The revived paper of 1976–1982 was, at least in this instance, something else: the two titles appear to have been used in rotation for pre-season staff communication, not resumed as a summer paper for boys.
+
 ## Open Questions
 
 1. [Important] What did the Green Triangle award's "series of feats" actually consist of, beyond Buckland's single anecdotal account? No source itemizes the specific requirements.
@@ -78,6 +83,7 @@ Beyond the publication and the award, "Green Triangle" functioned more broadly a
 7. Buckland, Smillie. "How Summer Camp Shapes Lives." Reader's Digest Canada [src_readers_digest_buckland].
 8. "How Summer Camp Shapes Lives" (Reader's Digest Canada, updated 2016) [src_readers_digest_camp_shapes_lives].
 9. Spirit of Kanawana (blog by Matt Aronson); oral history, Matt Aronson [src_spirit_kanawana_blog].
+10. Derek Walsh, *Ka-News '78*, staff bulletin of 28 April 1978 [src_ymf_ka_news_1978_04_28]. Cached at `sources/cache/ymca-montreal-fonds/ka-news-1978-04-28.txt`.
 
 ## Research Notes
 

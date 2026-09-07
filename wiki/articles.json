@@ -949,7 +949,8 @@
         "src_cache_sgw_ymca_annual_report_1967",
         "src_ymf_news_release_1969_05_13_202501",
         "src_ymf_sgw_ymca_annual_report_1968",
-        "src_cyc_youth_and_jobs_1945"
+        "src_cyc_youth_and_jobs_1945",
+        "src_ymf_ka_news_1978_04_28"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -964,7 +965,7 @@
         "timeline-overview"
       ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
-      "word_count": 7115,
+      "word_count": 7251,
       "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_001 editorial-resolution narrative into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H2 into Research Notes. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -5369,7 +5370,9 @@
         "src_concordia_thursday_report_1991_06_06",
         "src_concordia_thursday_report_1992_03_19",
         "src_concordia_thursday_report_1994_03_03",
-        "src_concordia_thursday_report_1997_03_27"
+        "src_concordia_thursday_report_1997_03_27",
+        "src_concordia_thursday_report_2001_04_12",
+        "src_concordia_thursday_report_2002_05_23"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -5378,7 +5381,7 @@
         "section-names"
       ],
       "file_id": null,
-      "word_count": 6638,
+      "word_count": 7482,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -9328,7 +9331,8 @@
         "src_ia_green_triangle_collection",
         "src_readers_digest_buckland",
         "src_readers_digest_camp_shapes_lives",
-        "src_spirit_kanawana_blog"
+        "src_spirit_kanawana_blog",
+        "src_ymf_ka_news_1978_04_28"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -9339,7 +9343,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 1343,
+      "word_count": 1501,
       "notes": "2026-07-11: Workstream C3 spawn -- newsletter/award/symbol synthesized into standalone article, cited as a source in 13+ articles but never its own subject. No new research conducted. Corrected two dangling source_id references (src_web_readers_digest_buckland -> src_readers_digest_buckland; src_ia_green_triangle_1938 -> src_green_triangle_1938) in kb/facts.json while preparing this article. | 2026-08-14 p_226: applied the programs/places BLOCKING fixes from the p_218 audit.",
       "tags": {
         "era": [
@@ -9423,7 +9427,8 @@
         "src_oral_aronson",
         "src_ymcaq_lit_guide_2026",
         "src_ymcaq_trailblazers_2026",
-        "src_ia_ymca_montreal_news_bulletin_07_01"
+        "src_ia_ymca_montreal_news_bulletin_07_01",
+        "src_ymf_ka_news_1978_04_28"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -9434,7 +9439,7 @@
         "notable-alumni"
       ],
       "file_id": null,
-      "word_count": 3503,
+      "word_count": 3705,
       "notes": "2026-07-11: Workstream C3 spawn -- structured, decades-spanning program synthesized from 5 scattered articles into a standalone article. No new research conducted. Individual plaque-roster names deliberately not reproduced here (privacy carve-out for C5-listed names already collectively catalogued in directors-index.md). | 2026-08-14 p_226: applied the programs/places BLOCKING fixes from the p_218 audit.",
       "tags": {
         "era": [
@@ -11294,7 +11299,8 @@
         "src_ia_kanawana_report_1977",
         "src_ia_ymca_montreal_annual_reports_collection",
         "src_ymf_ka_news_1979_02_05",
-        "src_ymf_ka_news_1979_05"
+        "src_ymf_ka_news_1979_05",
+        "src_ymf_ka_news_1978_04_28"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -11305,7 +11311,7 @@
         "quebec-camping-association"
       ],
       "file_id": null,
-      "word_count": 3898
+      "word_count": 4509
     },
     {
       "article_id": "oldest-camp-question",

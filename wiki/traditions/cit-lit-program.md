@@ -1,7 +1,7 @@
 # The CIT/LIT Program
 
-*Status: draft | Sources: 13*
-*Last Updated: 2026-09-07 (the camp as a laboratory for leaders, stated nationally in 1931)*
+*Status: draft | Sources: 14*
+*Last Updated: 2026-09-07 (Kanawana required the Blackstock-Latimer handbook in 1978)*
 
 ## Overview
 
@@ -136,6 +136,9 @@ re-publish them.
 
 As of 2026, the CIT program is branded "Trailblazers": a 48-day program (four sessions of 12 days each) for campers aged 16–17.^5 Participants complete over 200 hours of workshops, training sessions, and activities covering creative programming, risk management, team building, and effective communication, capped by a five-day canoe trip.^5 Certifications earned include Standard First Aid and CPR (a 16-hour course) and a CIT certificate from the Association des camps certifiés du Québec (ACC).^5 A separate "Leaders in Training Information Guide" for Summer 2026 documents the current LIT program structure specifically, published as a PDF on the YMCA Quebec website.^6
 
+
+**And two years before that outline, Kanawana had already made the handbook a condition of its own pre-camp.** Derek Walsh's staff bulletin of 28 April 1978 tells the season's staff: "I have mentioned to many that the book ***Camp Counsellor's Handbook* by John Latimer and Brian Blackstock** should be read. Kerry and I are planning the pre-kamp training program **with the assumption that all staff will have read it before June 17th**."^14 Every other appearance of this book in the wiki is the association recommending it — the CCA's 1980 counsellor-training outline, the second edition of March 1984. This is **the camp itself**, six years ahead of that second edition and two years ahead of the outline, which also dates the first edition to before April 1978. It does not close the question in the paragraph above: whether Kanawana used the CCA's CIT *package* is still undocumented. What is now documented is that it used the CCA's handbook, and that it did so while its own director sat as **Vice-President of the association that published it** — so the adoption was not at arm's length.
+
 ## Open Questions
 
 1. [Important, reframed 2026-09-03] ~~Who introduced the CIT program in the 1960s~~ — the programme predates that by two decades (1941 at the latest).^7 The question is now **when it began and what Seaman changed**: a CIT category existed in 1941, and the 1960s reforms were a redesign of something already there, not a founding. The Kanawana annual and director's reports for 1964-1979 document at least three further redesigns — co-ed and released from table-waiting in 1969, the CIT and Junior Counsellor titles merged in 1971, integrated into the sections rather than run separately in 1973 — so this is a programme repeatedly rebuilt, not a continuous line? No source directly credits him.
@@ -165,6 +168,7 @@ As of 2026, the CIT program is branded "Trailblazers": a 48-day program (four se
 11. Madelene Allen (Director, Camp Ouareau, and Quebec Camping Association Standards Committee), *Canadian Camping* Vol. 26 No. 2 (Winter/Spring 1974) [src_ia_canadian_camping_collection]. The night before the visitor, and the five CITs auditing the camp against the standards and their marking scheme. See [f_3784], [f_3785], [f_3823].
 12. Kanawana Flickr "Plaque" album [src_flickr_kanawana_plaque_album], via the plaque index at `kb/plaque-audit/person-index.json` — the boards "CITS 95", "Kanawana Staff 97", the We Shower Tent board of 2nd session 2000, the Leaders in Training of Summer 2008 and the 2009 Junior Counsellors board. Counts re-derived from the index 2026-09-06 under p_297. See [f_4932], [f_2340].
 13. National Boys' Work Committee report, *The News Bulletin* Vol. 7 No. 1 (January 1931), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_07_01]. Internet Archive item `the-news-bulletin-vol-07-no-01`, in the `ymca-montreal-fonds` collection. Found 2026-09-07 by the enumeration at [f_5243]. See [f_5250].
+14. Derek Walsh, *Ka-News '78*, staff bulletin of 28 April 1978 [src_ymf_ka_news_1978_04_28]. Kanawana's own pre-season mailing to staff, cached at `sources/cache/ymca-montreal-fonds/ka-news-1978-04-28.txt`.
 
 ## Research Notes
 

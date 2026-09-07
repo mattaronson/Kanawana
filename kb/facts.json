@@ -1,8 +1,8 @@
 {
-  "version": "9.76",
-  "kb_version": "9.76",
+  "version": "9.77",
+  "kb_version": "9.77",
   "migrated_from": "3.3",
-  "fact_count": 5419,
+  "fact_count": 5430,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -97716,6 +97716,211 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.76",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5458",
+      "category": "people",
+      "date_ref": "2001-03-22",
+      "entities": [
+        "A. Ross Seaman",
+        "Camp Kanawana",
+        "Concordia University",
+        "Dawson College",
+        "YMCA of Montreal",
+        "Vankleek Hill"
+      ],
+      "claim": "THE SEAMAN AWARDS EVENING WAS IN ITS 13TH YEAR IN 2001, AND THE CONSTITUENCY LIST NOW INCLUDES A SCHOOL. Concordia's Thursday Report of 12 April 2001, in Laurel C. Leduc's report on the fund: 'The 13TH ANNUAL AWARDS EVENING TOOK PLACE MARCH 22, and as usual, was a great success.' A 13th annual evening in 2001 counts from 1989, WHICH IS EXACTLY THE START YEAR OF CONCORDIA'S OWN COMMEMORATIVE BOOKLET, 'A History of Bursary Award Winners 1989-2006', already held in wiki/people/a-ross-seaman.md. THE TWO COUNTS THAT LOOKED LIKE A CONFLICT ARE NOT ONE: the 1997 report's tenth anniversary of the SEAMAN CUP counts from 1988, and the awards evening counts from 1989, so on this evidence THE CUP RAN ONE YEAR BEFORE THE AWARDS EVENING IT CAME TO FUND. The same report lists the groups Seaman shaped: 'not only of Concordia students, but also of those at DAWSON COLLEGE (Community Recreation Leadership Training -- CRLT), THE YMCA, KAMP KANAWANA and VAN KLEEK HIGH SCHOOL.' Van Kleek High School, printed as two words, is the school at Vankleek Hill, Ontario. The 1991 report gave that constituency as Prescott-Russell (the county Vankleek Hill is in) and the article already has Vankleek Hill as Seaman's home community; THIS IS THE FIRST SOURCE TO PUT HIM WITH STUDENTS AT A SCHOOL THERE rather than simply living in the town. The report also states 'He died in 1987', agreeing with the obituary's 23 October 1987.",
+      "sources": [
+        "src_concordia_thursday_report_2001_04_12"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.77",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5459",
+      "category": "people",
+      "date_ref": "2001-2002",
+      "entities": [
+        "A. Ross Seaman",
+        "Camp Kanawana",
+        "Concordia University",
+        "Dawson College",
+        "YMCA of Montreal",
+        "YWCA"
+      ],
+      "claim": "KAMP KANAWANA HELD A SEAT IN THE SEAMAN AWARD IN BOTH 2001 AND 2002, AND THE OTHER SEATS MOVED. The 2001 winners: Barbara Jack, Elizabeth Anderson and Jamie Patterson (Concordia AHSC), Chantale Victoria Lewis (Dawson-CRLT), Farah Wikarski (YMCA) and MATTHEW BUSBRIDGE (KAMP KANAWANA). The 2002 winners, honoured 20 MARCH 2002 AT A CEREMONY AT DAWSON COLLEGE: Jacinthe Morsani, Kimberley Jackson, Ruxandra Vlad and Shawn Jaffray (Concordia), JUSTIN DESFORGES (KAMP KANAWANA), Anna Tafuto (Dawson), and Elizabeth Sweeney (YWCA), with Donna O'Bomsawin (Concordia) absent from the photograph. TWO OBSERVATIONS. First, this is a third and fourth consecutive documented year of a named Kanawana recipient, WHICH SUPPORTS THE CORRECTED READING OF f_5409: the award's terms allocate across named constituencies, so Kanawana's recurrence is structural rather than evidence of a standing flow of candidates. Second, THE CONSTITUENCY LIST IS NOT FIXED: 2001 has the YMCA and no YWCA, 2002 has the YWCA and no YMCA. Whether that is a substitution, a caption error, or a year in which the YMCA seat went unclaimed cannot be told from a photo caption.",
+      "sources": [
+        "src_concordia_thursday_report_2001_04_12",
+        "src_concordia_thursday_report_2002_05_23"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.77",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5460",
+      "category": "documents",
+      "date_ref": "2001-04-12",
+      "entities": [
+        "A. Ross Seaman",
+        "Concordia University"
+      ],
+      "claim": "THE SEAMAN FUND HAD ITS OWN WEBSITE IN 2001, AND IT IS GONE. The 2001 report closes: 'For more information on the A. Ross Seaman Memorial Leadership Development Fund, visit their Web site at: HTTP://AROSSSEAMAN.TRIPOD.COM/.' A fund website would be the natural place for a full winners list, the award's terms and the fund's own account of Seaman -- material this project has had to assemble from a dozen scattered notices. THE WAYBACK MACHINE HAS NO CAPTURE OF IT. The availability API returns an empty archived_snapshots object for arossseaman.tripod.com, for arossseaman.tripod.com/index.html and for www.arossseaman.tripod.com, AGAINST A CONTROL (concordia.ca) THAT RETURNS A SNAPSHOT ON THE SAME CALL, so the null is the site's and not the tool's. ONE LIMIT ON THAT NULL, STATED SO IT IS NOT READ AS MORE THAN IT IS: the fuller CDX enumeration, which would catch captures of deeper pages under a differently-keyed host, COULD NOT BE RUN -- web.archive.org/cdx is unreachable from this environment (connection reset through the agent proxy), while archive.org itself answers normally. So 'no capture' rests on the availability API alone and should be re-run from an environment that can reach CDX before the site is called definitively lost.",
+      "sources": [
+        "src_concordia_thursday_report_2001_04_12"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.77",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5461",
+      "category": "institutional",
+      "date_ref": "2000-10/2002",
+      "entities": [
+        "Concordia University",
+        "A. Ross Seaman",
+        "Richard D. McDonald"
+      ],
+      "claim": "THE DEPARTMENT STUART McLEAN AND ROSS SEAMAN BOTH BELONGED TO WAS MADE BY A MERGER, AND THE 2001 REPORT NAMES THE MAN WHO MADE IT. Of Richard D. McDonald, who died in October 2000: 'A long-standing member of the Department of Applied Social Sciences, Dick was AN INTEGRAL PART OF THE MERGER BETWEEN THE APSS AND LEISURE SCIENCES THAT CREATED THE DEPARTMENT OF APPLIED HUMAN SCIENCES.' At his death he was involved in the Centre for Human Relations and Community Studies. All 2001 auction proceeds went to a new scholarship in his memory. THIS DATES AND EXPLAINS A RENAMING THIS PROJECT HAD ONLY OBSERVED: f_5457 noted that the Thursday Report calls McLean's programme 'Applied Social Sciences' in 1997 and 'Applied Human Science' in 2004 and concluded only that 'the department was renamed between them'. It was not a renaming but A MERGER OF THE TWO DEPARTMENTS SEAMAN HIMSELF BELONGED TO -- Applied Social Science and Leisure Studies/Sciences -- which is why both names attach to him. The merger's date is still not stated here, only that McDonald drove it and was long-standing in APSS at his death in October 2000.",
+      "sources": [
+        "src_concordia_thursday_report_2001_04_12"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.77",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5462",
+      "category": "documents",
+      "date_ref": "2002-05-23",
+      "entities": [
+        "A. Ross Seaman",
+        "Concordia University"
+      ],
+      "claim": "A SECOND SEAMAN-ADJACENT SCHOLARSHIP WAS FUNDED BY BOOK SALES. The 2002 caption names Kimberley Jackson as 'winner of A SCHOLARSHIP FROM THE SALE OF A BOOK CALLED TAPESTRY OF ADULTHOOD: WOMEN'S REFLECTIONS', and a second such winner, Donna O'Bomsawin, absent from the photograph. This is a funding mechanism separate from the auction evening that funds the Seaman awards proper, awarded at the same ceremony. The book's relationship to the fund, its authorship and whether the scholarship was formally part of the Seaman fund or merely presented alongside it are not stated.",
+      "sources": [
+        "src_concordia_thursday_report_2002_05_23"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.77",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5463",
+      "category": "programs",
+      "date_ref": "1978-04-28",
+      "entities": [
+        "Camp Kanawana",
+        "Derek Walsh",
+        "John Latimer",
+        "Brian Blackstock",
+        "Canadian Camping Association"
+      ],
+      "claim": "KANAWANA REQUIRED ITS OWN STAFF TO READ BLACKSTOCK AND LATIMER'S HANDBOOK BEFORE THE 1978 SEASON. Derek Walsh's staff bulletin of 28 April 1978 (Ka-News '78): 'I have mentioned to many that the book CAMP COUNSELLOR'S HANDBOOK BY JOHN LATIMER AND BRIAN BLACKSTOCK SHOULD BE READ. KERRY AND I ARE PLANNING THE PRE-KAMP TRAINING PROGRAM WITH THE ASSUMPTION THAT ALL STAFF WILL HAVE READ IT BEFORE JUNE 17TH. Please do so at your earliest convenience.' WHY THIS MATTERS TO WHAT THE WIKI ALREADY HOLDS. The handbook is already in this project twice, both times from the national side: the CCA's 1980 counsellor-training outline names it as recommended reading, and the second edition appeared in March 1984 at $9.95, 'totally revised'. BOTH OF THOSE ARE THE ASSOCIATION RECOMMENDING A BOOK. This is the camp itself making the first edition a precondition of its own pre-camp training, SIX YEARS BEFORE THE SECOND EDITION and two years before the national outline -- so it also dates the first edition to before April 1978. It bears directly on the qualifier in wiki/traditions/cit-lit-program.md that Kanawana's use of CCA training material 'is not documented': Kanawana's use of the CCA package is still not documented, but ITS USE OF THE HANDBOOK NOW IS. Note also that the camp's director was at this time Vice-President of the CCA, so the adoption is not an arm's-length one. DISAMBIGUATION: Brian Blackstock the co-author is NOT C. R. 'Blackie' Blackstock, the former Camp Pine Crest director who died in 1979 and whom this wiki carries separately.",
+      "sources": [
+        "src_ymf_ka_news_1978_04_28"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.77",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5464",
+      "category": "programs",
+      "date_ref": "1978-05-13",
+      "entities": [
+        "Camp Kanawana",
+        "Quebec Camping Association",
+        "Ontario Camping Association",
+        "McGill University",
+        "Derek Walsh"
+      ],
+      "claim": "THE QUEBEC CAMPING ASSOCIATION RAN A ONE-DAY COUNSELLORS' WORKSHOP AT McGILL IN MAY 1978, AND KANAWANA OFFERED TO PAY FOR IT. From the same bulletin: 'The Quebec Camping Association is sponsoring a ONE DAY WORKSHOP ON SATURDAY, MAY 13TH, AT McGILL (SIR ARTHUR CURRIE GYM). Some of the sessions include: SONG LEADING, GAMES, DRAMATICS, ATTITUDES FOR RAINY DAYS, AQUATICS, NATURE, FOLK DANCING, CAMPFIRES, ETC. It should be a valuable program for any staff member, particularly new counsellors. KAMP KANAWANA IS PREPARED TO SPONSOR YOU, so please let me know if you are able to attend.' Registration for the advance rate ran through Walsh or MRS. HALL by 4 May; he hoped for 'a large group of KANAWANITANS present'. A parallel Ontario Camping Association programme ran 6 MAY 1978, contact (416) 486-8630. THREE THINGS HERE ARE NEW TO THIS PROJECT. The session list is a direct statement of WHAT THE QUEBEC ASSOCIATION THOUGHT A COUNSELLOR NEEDED IN 1978, and its first four items are cultural rather than technical. The sponsorship shows the camp PAYING FOR OUTSIDE TRAINING for seasonal staff. And 'KANAWANITANS' is a demonym this wiki has not recorded -- it holds 'old Kanawanians' from 1938, a different formation.",
+      "sources": [
+        "src_ymf_ka_news_1978_04_28"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.77",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5465",
+      "category": "staff",
+      "date_ref": "1978-04-28",
+      "entities": [
+        "Camp Kanawana",
+        "Derek Walsh",
+        "Kerry Finucan"
+      ],
+      "claim": "FOUR DIRECTORSHIPS WERE STILL UNFILLED SIX WEEKS BEFORE THE 1978 SEASON. The bulletin's 'Positions Still Open' as of 28 April 1978: WATERFRONT DIRECTOR, SAILING DIRECTOR, C.I.T. DIRECTOR, JUNIOR GIRLS SECTION DIRECTOR -- 'if perchance you know of someone who may be interested, just have them give me a call.' Some staff had also not returned their staff agreements. THIS IS A STRUCTURE STATEMENT AS MUCH AS A STAFFING ONE: it attests, from the camp's own paper, a JUNIOR GIRLS SECTION with its own director in 1978 (the wiki's next-nearest evidence is a Junior Girls section plaque of 1992), SAILING as a program with a director distinct from the waterfront, and a C.I.T. PROGRAM with a director. The same bulletin has KERRY FINUCAN returning from Nova Scotia to begin FULLTIME WORK AT THE CAMP ON 4 MAY 1978 and co-planning the pre-camp training programme with Walsh, which makes Finucan the camp's second-in-command for that season by function if not by stated title.",
+      "sources": [
+        "src_ymf_ka_news_1978_04_28"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.77",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5466",
+      "category": "site",
+      "date_ref": "1978-04",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal",
+        "Downtown YMCA"
+      ],
+      "claim": "THE CAMP OFFICE WAS INSIDE THE DOWNTOWN Y, AND THE BUILDING BURNED IN THE SPRING OF 1978. From the staff news column of 28 April 1978: 'THE DOWNTOWN Y HAD A FIRE RECENTLY, DAMAGE WAS MAINLY ON THE 2ND AND 3RD FLOORS -- THE CAMP OFFICE IS OK EXCEPT FOR THE SMELL.' Two facts in one sentence, and the incidental one is the more useful: KANAWANA'S YEAR-ROUND ADMINISTRATIVE OFFICE WAS PHYSICALLY IN THE DOWNTOWN YMCA BUILDING in 1978, which is where the camp's records would have been kept and where a fire would have destroyed them. The fire is undated beyond 'recently' relative to 28 April 1978 and its cause is not stated. Anyone later accounting for gaps in Kanawana's 1970s paper record should know a fire reached the floors above the camp office in that season.",
+      "sources": [
+        "src_ymf_ka_news_1978_04_28"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.77",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5467",
+      "category": "documents",
+      "date_ref": "1978-04-28",
+      "entities": [
+        "Camp Kanawana",
+        "The Green Triangle",
+        "Derek Walsh"
+      ],
+      "claim": "THREE KANAWANA DOCUMENTS ARE NAMED IN THE 1978 BULLETIN THAT THIS PROJECT DOES NOT HOLD. (1) 'Enclosed is THE KANAWANA CREST AND INTERPRETATION' -- so a written interpretation of the camp crest was circulated to staff in 1978. This wiki has no document explaining the crest. (2) A 'KAMPER INFORMATION BOOKLET', sent to campers, containing the staff medical form, which staff were told to be familiar with. (3) 'A GREEN TRIANGLE WILL FOLLOW NEXT WEEK.' THE THIRD REFINES SOMETHING THE WIKI ALREADY HAS RATHER THAN ADDING IT: wiki/documents/green-triangle.md already records the 1978-1982 revival, so a Green Triangle in early May 1978 is expected. What is new is the ADDRESSEE. That article describes the Green Triangle as the CAMPERS' newsletter; this issue was promised to STAFF, in the pre-season, alternating with Ka-News as a staff mailing. The revived Green Triangle was therefore not simply the 1930s campers' paper resumed.",
+      "sources": [
+        "src_ymf_ka_news_1978_04_28"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.77",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5468",
+      "category": "people",
+      "date_ref": "pre-1987",
+      "entities": [
+        "A. Ross Seaman"
+      ],
+      "claim": "A CAMP NURSE WHO WORKED WITH SEAMAN, AND THE CAMP IS NOT NAMED. The 2001 report says of the winner Barbara Jack that she 'was also lucky enough to have WORKED WITH ROSS SEAMAN AS A CAMP NURSE early on in her professional career.' RECORDED WITHOUT THE INFERENCE: Seaman directed Kanawana from 1959 to 1967 and the sentence appears in an article about an award with a Kanawana seat, so Kanawana is the obvious reading -- but the report does not say Kanawana, Seaman worked at other camps, and this project has been wrong before by completing a sentence a source left open. If the camp is ever established the fact is a line on Kanawana's medical staffing; until then it is a lead.",
+      "sources": [
+        "src_concordia_thursday_report_2001_04_12"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.77",
       "added_by": "ralph_loop"
     }
   ]
