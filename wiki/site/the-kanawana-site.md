@@ -1,6 +1,6 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 65*
+*Status: E1-reviewed | Sources: 66*
 *Last Updated: 2026-09-07 (the 1936 CFCF script; and what the site costs to rent in 2026)*
 
 ## Overview
@@ -280,6 +280,7 @@ Facilities documented from the 1920s through the 1970s include:^5 ^11
 - Two pavilions (a Dining Pavilion and a lakeside Pavilion, both new as of 1922)
 - **Dining Hall** (1911) — technically **Salle Julien Tassé**, renamed after the camp's caretaker of thirty-odd years following his death c. 1992–95. The name never entered ordinary use; everyone went on calling it the dining hall.^41 It is also the room where Kanawana's plaque wall hangs: all 151 surviving boards are mounted inside it. See [[people/julien-tasse|Julien Tassé]] and [[meta/plaque-audit|The Plaque Audit]].
 - **Infirmary** (1920s?)^23
+- **The Lower Pavilion**, on the lake front, one of the earliest structures on the site — and **replaced in 1951**. The association's capital-works list for the year ending 31 December 1951 reads: "Kamp Kanawana — **new refrigeration facilities and replacement of Lower Pavilion building**."^66 The 1951 camp history has the original "built early"; this dates its end.
 - **Grand Portage**: One of the oldest cabins, built after the Lookout, Dining Hall, and Infirmary. Located just north of the Senior Parking Lot, west of the Dining Hall. Served as CIT director's cabin in the 1980s-90s. According to oral history, the end of WWII was heard on the radio here. Demolished c. 2006 for the green shift washroom buildings, which now bear its name.^23
 - **The Longhouse**: A large 2-3 story pavilion/boathouse on the Boating Waterfront (due south of the Dining Hall), right at the shoreline. Used for large group gatherings and dances; the Boating Director ("the Admiral") had living quarters in it. Demolished by controlled fire c. 1979 due to irreparable condition.^23
 - **The Sanctum**: The Senior Boys section cabin, in use from the mid-1990s until it was demolished in 2007.^42 It is the only cabin recorded for a section that otherwise sleeps in prospector tents. The 2007 Senior Boys plaque is headed "Senior Boys SANCTUM 2KK7" and carries the line "May the Sanctum R.I.P." beneath the roster — the boys commemorating the demolition of their own cabin in the season it came down.^42 Whether the green shift was the reason is unestablished; the timing matches Grand Portage's demolition c. 2006. See [[site/named-places-and-camp-vocabulary|Named Places and Camp Vocabulary]].
@@ -538,6 +539,7 @@ them on every line and by tenfold on revenue.
 63. YMCA of Montreal Annual Report **1920** [src_ymf_sgw_ymca_annual_report_1920], the association's asset schedule. Cached at `sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-1920.txt`; the Kanawana entries read word for word 2026-09-07 under p_482, the rest of the volume not read.
 64. "Kamp Kanawana Broadcast — Station CFCF," 1936 script [src_ymf_1936_kamp_kanawana_broadcast_station_cfcf]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/1936-kamp-kanawana-broadcast-station-cfcf.txt`, 13,201 characters. The earliest surviving CFCF text; read word for word 2026-09-07 under p_487. See [f_5003] and [f_5605].
 65. Camp YMCA Kanawana, "Lodging & Equipment Rental" [src_ymcaq_kanawana_lodging_rental_2026], https://www.ymcaquebec.org/en/summer-camp-kanawana/lodging-equipment-rental, read 2026-09-07; cached at `sources/cache/web-pages/ymcaquebec-kanawana-lodging-equipment-rental-2026.txt`. **A different page from the Groups & Rentals one at note 19**, and the one that carries prices. See [f_5615].
+66. YMCA of Montreal annual report for the year ending **31 December 1951** [src_ymf_sgw_ymca_annual_report_1951]. Held at read_state *partial*; its capital-works and camps sections read 2026-09-07 under p_490. See [f_5624].
 
 ## Research Notes
 

@@ -6095,3 +6095,33 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   article.
   Nothing committed to the KB this unit; the measurement is the output.
   Verify green. Timestamp from `date -u` in its own call.
+
+[2026-09-07T16:06:15Z] RESEARCH -- f_5038's open question answered, and then the
+  answer turned out to be already written down. WORTH RECORDING IN FULL because
+  it is the first time today I derived a whole result before checking the
+  destination.
+  f_5038 said the annual reports' camper tables appear to lag the season by a
+  year and named what would settle it: "the reports' own cover dates and
+  fiscal-year statements, WHICH HAVE NOT BEEN READ." I read them, volume by
+  volume, 1938 through 1952. EVERY REPORT 1938-1950 IS "FOR THE YEAR ENDING
+  MARCH 31ST" (1947's OCR mangles it to "YAR ENDING MARCH 318ST"), so each
+  contains the PREVIOUS summer and the lag is the fiscal year, not an error. The
+  1951 and 1952 volumes are December-year and describe their OWN summer,
+  confirmed in the 1951 report's own words, "for the past season", singular.
+  THEN I GREPPED THE DESTINATION. meta/attendance-series.md's Dating note
+  already says it, and better: "the fiscal year ended 30 April through the 1925
+  report, ran ELEVEN MONTHS to 31 March 1926, ended 31 March from 1926 to 1950,
+  and matched the calendar year from 1951" -- a wider span than I checked, and
+  it catches an eleven-month stub volume I did not. Its 1950 row ALREADY records
+  the gap the changeover leaves. So the article knew and the FACT did not, which
+  is the orphan problem p_491 names, running in the other direction.
+  f_5624 corrected in place rather than left standing as a discovery.
+  WHAT SURVIVES AS NEW, both from the 1951 volume and in neither the article nor
+  the KB: "Kamp Kanawana -- NEW REFRIGERATION FACILITIES AND REPLACEMENT OF
+  LOWER PAVILION BUILDING", which DATES THE END of a structure the 1951 camp
+  history has only as "built early" (into the-kanawana-site.md); and the
+  Association acquiring 1435 DRUMMOND and 136 STANLEY through MONTREAL TRUST as
+  nominee that year, for the college rather than the camp -- context for the
+  camp office address that appears at 1435 by 2006 against 1441 through 2001.
+  Fourth destination-grep save of the day, and the most expensive.
+  f_5624. facts.json v10.33, 5,586 facts. Verify green. Timestamp from `date -u`.
