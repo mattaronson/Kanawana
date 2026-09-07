@@ -6071,3 +6071,27 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   was worked from a summary. Three records moved from partial to read with the
   duplication written down, so nobody re-walks them.
   f_5623. facts.json v10.32, 5,585 facts. Verify green. Timestamp from `date -u`.
+
+[2026-09-07T16:03:00Z] VERIFY -- measured a gap, then measured it again and it
+  changed shape. Following the 1962 Otoreke find, asked how many partial annual
+  reports carry substantial Otoreke content that camp-otoreke.md does not cite.
+  FIRST CUT: 39 reports with three or more Otoreke mentions, TWENTY-THREE of
+  them named nowhere in a 17,000-word article. That looks like twenty-three
+  unread sources.
+  SECOND INSTRUMENT SAYS OTHERWISE. Thirty-seven facts cite those reports, five
+  of them mentioning Otoreke by name -- so the content is in the KB. What
+  camp-otoreke.md is missing is the CITATIONS: it references one of the
+  thirty-seven by fact id and NONE of the five. An ORPHAN-FACT problem in
+  CLAUDE.md's own Coverage Analysis sense, not an unread-source one.
+  CONFIRMED BY HAND on the 1955 report, whose Otoreke passage is genuinely rich
+  -- "a summer vacation camp for young adults... the site of the first Y.M.C.A.
+  camp established in 1892", 2,199 campers against 1,891 and 1,949, 108 camp
+  leaders, Kanawana's 473 at an average stay of 3.5 weeks. EVERY FIGURE ALREADY
+  HELD, and the 1892 claim already sitting inside f_2146's series of unreliable
+  founding dates. ABSENCE OF A SOURCE ID FROM AN ARTICLE IS NOT ABSENCE OF ITS
+  CONTENT FROM THE PROJECT, and I nearly wrote a priority saying it was.
+  Queued as p_491 with the five facts to start from, f_5038 first -- the camper
+  tables appear to lag the season by a year, which bears on every figure in that
+  article.
+  Nothing committed to the KB this unit; the measurement is the output.
+  Verify green. Timestamp from `date -u` in its own call.
