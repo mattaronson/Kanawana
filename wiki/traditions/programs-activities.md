@@ -330,6 +330,10 @@ The programme itself, in the association's own list for 1960: "Camp fires, regat
 
 The tent group itself predates the framework. The 1955 report already has "each tent group of 7 campers planned their own program together," with "**competition with self, rather than comparison with others**" as the stated key note in all activities.^vfl
 
+**And "Planned Group Development" was being run on the staff a year before it was run on the campers.** The short version of the 1959 annual report, under the heading "Another Significant Social Study," records that "**Kamp Kanawana in 1959 was the centre of a unique social study project**… an outgrowth of the **staff training retreat** earlier in the year. The Camp Committee studied and approved a proposed program of '**Planned Group Development**' **for camp counsellor and staff training in the 1959 season**."^nb59 Its aim was to raise "the level of '**Value Education**' in all camp program, first by increasing the skill of counsellors and staff to recognize '**Value Learning**' opportunities in the general program, and second, to be sensitive to symptoms of emotional or 'Value' problems in their young campers," and its finding was that "volunteer leaders, advisors, etc., given the proper setting and adequate skilled help, can achieve a high degree of competence."
+
+*This does not contradict the 1961 report's "for the second season," which dates the camper-facing programme to 1960; it separates two uses of one name.* The 1959 text is explicitly about **counsellor and staff training**, not about how campers were grouped. The plainest reading is that PGD was worked on the staff first and on the tent groups afterwards — which is exactly the order the association's own 1931 doctrine recommended, that the camp's real product is its leaders (see [[traditions/cit-lit-program|The CIT/LIT Program]]). *Not asserted*: that the two are the same programme under one name.^nb59
+
 ## Coeducation and Reorganization (1968-1970s)
 
 ### 1968-69: horses, a doubled co-ed intake, and what else the seasons held
@@ -514,6 +518,7 @@ environmental-education positioning without originating from it.
 8. What was the Pathfinder program Summer Summary (1965 archives listing)? Was it the existing boys' section (est. 1959) or something new?
 
 ## Sources
+- **nb59** — YMCA of Montreal Annual Report **1959, short version** [src_ia_sgw_ymca_annual_report_1959_short], Internet Archive item `sgw-ymca-annual-report-1959-short-version`, in the `ymca-montreal-fonds` collection — a short version distinct from the full 1959 report. Found and read 2026-09-07 under p_462. See [f_5256].
 - **nb36** — "Institute for Camp Leaders," *The News Bulletin* Vol. 12 No. 3 (May 1936), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_12_03], Internet Archive item `the-news-bulletin-vol-12-no-03`, in the `ymca-montreal-fonds` collection. Found by the enumeration at [f_5243] and read 2026-09-07 under p_462. See [f_5248].
 - **ar30** — YMCA of Montreal annual report for the year ending 31 March 1930 [src_cache_sgw_ymca_annual_report_1930], the Kamp Kanawana section, camping season **1929**. The volume's Becscies extension and its finances were already read into [[site/camp-becsies|Camp Becscies]]; its catchment, church-camp and programme paragraphs are read here, 2026-09-06. See [f_5216], [f_5217] and [f_5218].
 - **ar97** — Montreal YMCA annual report **1997** [src_ymf_sgw_ymca_annual_report_1997], the Westmount and programme-launch items. Read 2026-09-06 under p_454. See [f_5194].

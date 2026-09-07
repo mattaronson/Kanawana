@@ -30583,7 +30583,23 @@
       "extraction_version": "8.89",
       "reliability": "primary",
       "notes": "In the Internet Archive's ymca-montreal-fonds collection. Twenty years before the camp. Read 2026-09-07 under p_462 for its officers and its boys' work; the rest is not read. The word 'camp' does not occur in it."
+    },
+    {
+      "source_id": "src_ia_sgw_ymca_annual_report_1959_short",
+      "type": "report",
+      "title": "YMCA of Montreal Annual Report 1959, short version",
+      "date": "1959",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/sgw-ymca-annual-report-1959-short-version",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-07T01:32:00Z",
+      "extracted": true,
+      "extraction_version": "8.90",
+      "reliability": "primary",
+      "notes": "In the Internet Archive's ymca-montreal-fonds collection; a SHORT VERSION of the 1959 report, distinct from the full one. Read 2026-09-07 under p_462 for its camp content."
     }
   ],
-  "source_count": 1701
+  "source_count": 1702
 }

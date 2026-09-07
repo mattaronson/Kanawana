@@ -1,8 +1,8 @@
 {
-  "version": "8.89",
-  "kb_version": "8.89",
+  "version": "8.90",
+  "kb_version": "8.90",
   "migrated_from": "3.3",
-  "fact_count": 5217,
+  "fact_count": 5218,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -94093,6 +94093,24 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.89",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5256",
+      "category": "programs",
+      "date_ref": "1959",
+      "entities": [
+        "Kamp Kanawana",
+        "Planned Group Development",
+        "YMCA of Montreal"
+      ],
+      "claim": "PLANNED GROUP DEVELOPMENT RAN AT KANAWANA IN 1959, A YEAR BEFORE THE SEASON THIS PROJECT CALLS ITS FIRST -- AND THE TWO STATEMENTS ARE ABOUT DIFFERENT THINGS. The short version of the 1959 annual report, under the heading 'Another Significant Social Study': 'Kamp Kanawana in 1959 was the centre of a unique social study project. This project was AN OUTGROWTH OF THE STAFF TRAINING RETREAT earlier in the year. The Camp Committee studied and approved a proposed program of \"Planned Group Development\" FOR CAMP COUNSELLOR AND STAFF TRAINING IN THE 1959 SEASON.' Its aim: '\"Operation P. G. D.\" was to examine how much we could raise the level of \"Value Education\" in all camp program, FIRST by increasing the skill of counsellors and staff to recognize \"Value Learning\" opportunities in the general program, and SECOND, to be sensitive to symptoms of emotional or \"Value\" problems in their young campers.' The finding: 'volunteer leaders, advisors, etc., given the proper setting and adequate skilled help, can achieve a high degree of competence in leading a...' (the sentence runs past the read passage). THIS DOES NOT CONTRADICT THE EXISTING RECORD, IT SEPARATES TWO USES. This KB holds that 'Planned Group Development' is the name the association gave the TENT-GROUP METHOD and that 1960 was its first season, on the 1961 report's 'for the second season'. The 1959 text is explicitly about COUNSELLOR AND STAFF TRAINING, not about how campers were grouped. So the likeliest reading is that PGD was applied to staff training in 1959 and to the camper programme from 1960, and the two reports are each right about their own subject. NOT ASSERTED: that they are the same programme under one name, or that the 1961 report was wrong. ALSO FROM THE SAME REPORT: 'Camps Kanawana, Perrot, and Otoreke benefited $75,000 in capital replacement and addition through the decade' -- a 1950s capital figure for the three camps together, which this project did not have; and the committee chairmen for the year, Gordon Mackey for Boys' Camping and GORDON POIRIER for the Otoreke Camp Committee.",
+      "sources": [
+        "src_ia_sgw_ymca_annual_report_1959_short"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.90",
       "added_by": "ralph_loop"
     }
   ]
