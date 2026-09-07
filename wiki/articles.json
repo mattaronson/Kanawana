@@ -3355,7 +3355,8 @@
         "src_elvin_box_from_braunau_2009",
         "src_ymf_sgw_ymca_annual_report_2004_2005",
         "src_ymf_sgw_ymca_annual_report_2002_2003",
-        "src_ymf_sgw_ymca_annual_report_2001_2002"
+        "src_ymf_sgw_ymca_annual_report_2001_2002",
+        "src_mcgill_daily_1938_03_02"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -3374,7 +3375,7 @@
         "traditions/knights-of-kanawana"
       ],
       "file_id": null,
-      "word_count": 6503,
+      "word_count": 6932,
       "notes": "E1 REVIEW (2026-02-19): Fixed non-existent src_concordia_12B04 in header (removed; src_concordia_atom_12B04 already present). Fixed '131-year history' ambiguity to 'more than 130 years'. All claims cited, dates consistent, names cross-checked, tone encyclopedic. | 2026-08-14: cross-linked to the new traditions/order-of-owens.md. | 2026-08-14: NEW prose section on the Order of the Knights of Kanawana, giving the proclamation text and the six challenges for knighthood (previously the KB held the oath and the 1980-2009 roll but not the criteria). NOTE: this article is E1-reviewed and has received substantive new content; warrants a re-REVIEW pass. | 2026-08-14 (2nd pass): charter mined further -- A/B/C skill-grading system across named activities (f_2004), 'Kamp' spelling in challenge 5 corroborating the pre-2005 usage (f_2005), and the birchbark medium/composition (f_2006).",
       "tags": {
         "era": [
@@ -3817,7 +3818,8 @@
         "src_ia_georgian_1961_10_03",
         "src_sgw_yearbook_1942",
         "src_sgw_yearbook_1943",
-        "src_sgw_calendar_1941_42"
+        "src_sgw_calendar_1941_42",
+        "src_mcgill_daily_1941_10_09"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -3830,7 +3832,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 15191,
+      "word_count": 15585,
       "notes": "E1 REVIEW (2026-02-19): Removed unverifiable 'Google Maps' source and '20 km' distance claim. Expanded 'Multiple sources' citation into discrete references (Facts sheet + McMorris). Removed src_oral_aronson (no inline citation). Removed unsourced bullet. Fixed postcard inference. Fixed closure section process language. Split 1967 conference/reports sentence. Renumbered sources 1-10. Added camp-otoreke cross-link to centennial-1967. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_008 editorial-resolution narrative into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

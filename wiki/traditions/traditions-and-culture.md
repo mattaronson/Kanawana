@@ -1,7 +1,7 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 40*
-*Last Updated: 2026-09-06 (a last-day ritual the camp never printed, from an American family's memoir of the late 1920s)*
+*Status: E1-reviewed | Sources: 41*
+*Last Updated: 2026-09-07 ("old Kanawanians" attested in 1938, twenty-six years earlier and from outside)*
 
 ## Overview
 
@@ -167,6 +167,37 @@ The order overlaps in membership with [[traditions/order-of-owens|the Order of O
 
 **The roll itself.** Twenty-nine people were invested between 1980 and 2009, each named on a dining-hall board with their year and the title Sir or Lady. This wiki recorded three of them until the [[meta/plaque-audit|plaque audit]] of August 2026 recovered the full list. The roll, the cross-references it opens up, and what its considerable gaps might mean are set out in **[[traditions/knights-of-kanawana|The Order of the Knights of Kanawana]]**.
 
+## "Old Kanawanians": the word in 1938, in someone else's newspaper
+
+**Every use of "Kanawanian" this wiki held was the camp using its own word about its own people.** The
+1964 annual report's "Forty thousand boys have earned the title 'Kanawanian' since Kanawana was
+opened"; the 1980 charter of the Knights of Kanawana; the Order of Owens citation, which honours "a
+Kanawanian who best exemplifies the leadership qualities and attitude of a canoe tripper"; and Ayunda
+Dube's "We are all Kanawanians" of 2004-05, below. Institutional language about itself, in other
+words, which does not tell you whether anyone outside used the word.
+
+**Someone outside did, in 1938, and did not stop to explain it.** *The McGill Daily* of 2 March 1938
+reported the Student Christian Movement's ski weekend at Lac Guindon, and one party's misadventure:^41
+
+> "During Sunday afternoon, one skiing party got itself into such a predicament that at one time each
+> of its nine members was pointing to a different direction for return. When they neared Kamp
+> Kanawana they were finally led back safely under the direction of **two old Kanawanians in the
+> party**, only half an hour too late for supper."
+
+That is twenty-six years earlier than the earliest dated instance previously held here, and it is a
+different kind of evidence. A student newspaper writing for a general campus readership uses the word
+in passing, about two men in a ski party, with no gloss — so it was current in Montreal student
+circles by 1938 and expected to be understood. The form is worth noting too: **"old Kanawanians,"** on
+the model of an old boy of a school, which is how alumni of the English schools were named.
+
+**What the same sentence does not say, since it invites the error.** The conference was not held at
+Kanawana. It was at Madame Hébert's "Laurentide Home" on the shores of Lac Guindon, about three miles
+up the lumber trail from Shawbridge, and the party merely passed near the camp.^41 What that *does*
+establish belongs to the site rather than to the culture: nine lost skiers knew where they were when
+Kanawana came in sight, and two former campers could navigate home from it — so the place was known,
+recognisable and passable in deep winter, in trail country the Douglas Trail and the Johannsen-West
+route ran through. See [[site/places-and-locations|Places and Locations]].
+
 ## "We are all Kanawanians": a counsellor's account, 2004-05
 
 The YMCA of Greater Montreal's annual report for 2004-2005 profiles **Ayunda Dube**, and it is the
@@ -292,3 +323,4 @@ Kanawana."^40 Whether either was ever held again is not known here.
 38. YMCA of Greater Montreal annual report 2004-2005 [src_ymf_sgw_ymca_annual_report_2004_2005], the "People with Strong Values" profile of Ayunda Dube. Read 2026-09-06 under p_454. A SELF-AUTHORED PUBLISHED TESTIMONIAL, given by name to the association for its own annual report, not a third-party assessment of a private individual, so the embargo procedure for personal assessments does not apply.
 39. Montreal YMCA annual report 2002-2003, year ended 31 May 2003 [src_ymf_sgw_ymca_annual_report_2002_2003]: the Non Nobis Solum staff volunteer group. Read 2026-09-06 under p_454.
 40. Montreal YMCA annual report 2001-2002 [src_ymf_sgw_ymca_annual_report_2001_2002], "YMCA Kamp Kanawana - A Year of Firsts" and the International Programs page. Read 2026-09-06 under p_454.
+41. "Lost Skiers Find Trails," *The McGill Daily* Vol. 27 No. 87, 2 March 1938 [src_mcgill_daily_1938_03_02]. Transcribed in full at `sources/cache/mcgill/2026-09-07-mcgill-daily-1938-and-1941.txt`. Found by the whole-corpus sweep of 9,890 McGill student publication items under p_479. See [f_5405], [f_5406].

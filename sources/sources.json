@@ -31011,7 +31011,43 @@
       "notes": "THE YMCA TRAINING FELLOWSHIP DOCUMENTED FROM INSIDE, IN THE SAME YEAR THE MONTREAL ANNUAL REPORT NAMES ITS COHORT. MacArthur Pat. Gordon's entry says what the post was: 'Y.M.C.A. SECRETARY IN TRAINING... HAVE BEEN MTL. FELLOWSHIP SECRETARY FOR 2 YEARS, with Central Branch doing Hi-Y & Gra-Y club work and in Rosemont Community doing Community Boys Work' -- a paid apprenticeship worked in the branches with college attendance as its academic half, which is what A. Ross Seaman's obituary means by 'he attended Sir George as a YMCA Fellowship Secretary'. GEORGE N. BARKER is 'DIR. OTOREKE SKI LODGE '43' and of the 'Executive Fellowship Secretaries Group '43'. MURRAY B. SHANTZ, later Director of Kamp Kanawana, is 'Fellowship student', 'President S.C.M. 1943, sec'y Fellowship 1942'. wiki/people/murray-shantz.md already quotes the 1943 annual report naming the cohort -- 'Murray Shantz, George Barker, Gordon Patrick and Lloyd Welton complete their Training Fellowships' -- and THREE OF THOSE FOUR ARE IN THIS YEARBOOK as Sir George students, Welton on the basketball team beside Shantz; so the Training Fellowship and enrolment at the college were the same thing from two ends. The fellows acted as a body: a volleyball team, a six-week class gymnastics course they taught each other, voluntary waiters at the athletic awards 'under the able guidance of head-waiter G. N. Barker'. Term counts run: Otoreke 1, Kanawana 0, Fellowship 11, Hupfield 2, Barker 5. See f_5399, f_5400, f_5402, f_5403.",
       "read_state": "extracted",
       "read_state_basis": "direct: full djvu text downloaded 2026-09-07; the Otoreke occurrence and all eleven Fellowship occurrences read in context, and the three graduating entries transcribed in full."
+    },
+    {
+      "source_id": "src_mcgill_daily_1938_03_02",
+      "type": "periodical",
+      "title": "\"Lost Skiers Find Trails\", The McGill Daily, Vol. 27 No. 87, 2 March 1938",
+      "date": "1938-03-02",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/McGillLibrary-mcgill-daily-v27-n087-march-02-1938-8744",
+      "cache_path": "sources/cache/mcgill/2026-09-07-mcgill-daily-1938-and-1941.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.53",
+      "reliability": "primary",
+      "notes": "THE EARLIEST ATTESTATION OF 'KANAWANIAN' HELD HERE, AND IT IS IN SOMEBODY ELSE'S NEWSPAPER. A report of the Student Christian Movement's ski conference at Lac Guindon: nine skiers got lost in the St-Sauveur-Shawbridge trail country and 'when they neared Kamp Kanawana they were finally led back safely under the direction of TWO OLD KANAWANIANS in the party, only half an hour too late for supper.' READ THE WHOLE ARTICLE BEFORE USING IT: the conference was NOT at Kanawana but at Madame Hebert's 'Laurentide Home' on Lac Guindon, three miles up the lumber trail from Shawbridge, and the camp appears only as a landmark. That misreading was made here on first sight and corrected by reading, which is why the article is transcribed in full in the cache. What it gives: the word 'Kanawanian' used with no gloss by an outside publication twenty-six years before the earliest dated instance the wiki held, and the camp as a recognisable winter landmark in a trail network Montreal students were skiing between the wars. Also names Dr. Fred Howes, Neil Morrison (S.C.M. secretary), Ivor Williams, 42 students including five co-eds from Macdonald College, the theme 'Freedom and Security', the Douglas Trail, Hill 70 and the Johannsen-West trail. See f_5405, f_5406.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded 2026-09-07 and the whole article read and transcribed; 'Kanawana' occurs once in the issue, 'Otoreke' not at all."
+    },
+    {
+      "source_id": "src_mcgill_daily_1941_10_09",
+      "type": "periodical",
+      "title": "\"Re-modelled Pit Re-opens: Cafeteria Run Under New Management\", The McGill Daily, Vol. 31 No. 7, 9 October 1941",
+      "date": "1941-10-09",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/McGillLibrary-mcgill-daily-v31-n007-october-09-1941-9067",
+      "cache_path": "sources/cache/mcgill/2026-09-07-mcgill-daily-1938-and-1941.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.53",
+      "reliability": "primary",
+      "notes": "INDEPENDENT AND EARLIER CORROBORATION THAT RON HUPFIELD DIRECTED CAMP OTOREKE. 'The Pit, co-operative cafeteria in the basement of Strathcona Hall... There is an entirely new staff under the management of MR. HUP-FIELD, DIRECTOR OF THE Y.M.C.A. CAMP OTOREKE, AND FOURTH YEAR ARTS STUDENT.' A different institution's student paper, October 1941, in a story about a cafeteria refit with no reason to flatter him -- a year earlier than the Sir George yearbook that overturned this wiki's conclusion the same day. It also says what he managed at Strathcona Hall: The Pit, taken over with a new staff at the start of the 1941-42 session. NOT SMOOTHED OVER: the Daily calls him a fourth-year Arts student without naming a college and its readers were McGill's, while the Sir George yearbook has him graduating in Arts from SIR GEORGE in 1942. Left open. HOW IT WAS FOUND, AND THE CAUTION IN IT: 'Hupfield' returns ZERO in this text because the column breaks it as 'Mr. Hup- field'; the sweep matched on 'Otoreke'. A name search would have missed the document. A TRAP: 'Mother Mac', the Pit's new chef, is NOT 'Mr. Mac', Clarence J. McGerrigle of Otoreke. See f_5407, f_5408.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded 2026-09-07 and the whole article read and transcribed; 'Otoreke' occurs once in the issue, 'Kanawana' not at all."
     }
   ],
-  "source_count": 1725
+  "source_count": 1727
 }

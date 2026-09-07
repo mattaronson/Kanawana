@@ -1,7 +1,7 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 54*
-*Last Updated: 2026-09-07 (Hupfield WAS the wartime director; Otoreke in the SGW calendar; a named ski lodge director for 1943)*
+*Status: E1-reviewed | Sources: 55*
+*Last Updated: 2026-09-07 (Hupfield's directorship confirmed from a second institution, and dated a year earlier)*
 
 ## Overview
 
@@ -373,6 +373,30 @@ carries Ron Hupfield's graduating entry, and it ends the question:^54
 
 He was directing Otoreke by 1942 and had held Association posts continuously since 1938. The blog had
 him running the camp during the war because he was.
+
+**And a second institution says so, a year earlier, in a story about a cafeteria.** *The McGill
+Daily* of 9 October 1941 reported the refit of The Pit, the co-operative cafeteria in the basement of
+Strathcona Hall: "There is an entirely new staff under the management of **Mr. Hup-field, director of
+the Y.M.C.A. Camp Otoreke, and fourth year Arts student**."^55 Nothing in that story turns on the
+camp; the directorship is there only to identify the man running the cafeteria, which is the most
+reliable kind of mention there is. It also says what the yearbook's "Mgr. Strathcona Hall, '41 & '42"
+meant in practice — The Pit, taken over with a new staff at the start of the 1941-42 session, under a
+policy of "good food in the home-cooked manner, at prices in keeping with the new war-time economy."
+
+*Two things left as they are rather than tidied.* The *Daily* calls him a "fourth year Arts student"
+without naming a college, and its readers were McGill's, while the Sir George yearbook has him
+graduating in Arts from **Sir George** in 1942. The likeliest reading is that a Sir George man managed
+the McGill YMCA's cafeteria and the *Daily* saw no distinction worth making — which would say
+something in itself about how porous the two YMCA institutions were — but the article does not say
+so. And **"Mother Mac," the Pit's new chef, is not "Mr. Mac,"** Clarence J. McGerrigle; this article
+already carries one warning of that kind, about the V. McAdam who appears in the column beside the
+1961 retirement notice.
+
+*How it was found, because the method matters.* "Hupfield" returns **zero** in this issue: the narrow
+column breaks the name as "Mr. Hup- field," so no such token exists in the OCR. The sweep matched on
+*Otoreke*. A name search of this corpus — the kind this project runs whenever it chases a person —
+would have missed the document entirely, and a null result from one would have been read as absence.
+See [f_5408].
 
 **Which half of the paragraph above failed, and why it matters for how the rest of this article is
 read.** "Never placed at Otoreke by any source held here" was correctly hedged and was true of the
@@ -992,6 +1016,7 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 52. *YMCA Year Book and Official Rosters*, the volumes for **1957** through **1965** [src_umedia_ymca_yearbook_series], read in the University of Minnesota Libraries' digitized run (ContentDM collection p16022coll351, Kautz Family YMCA Archives). Only the Quebec block of the Directory of Associations was read in each. See [f_5272].
 53. "Mr. Mac", *The Georgian* (Sir George Williams University), Vol. 25 No. 2, **3 October 1961** [src_ia_georgian_1961_10_03]. Internet Archive item `1961-10-03-georgian-vol-25-no-02`, found by downloading and grepping all 292 issues of the paper, the only route available since no index reaches this collection's contents. Quoted in full, with the adjacent column that could be misread, at `sources/cache/georgian/2026-09-07-all-292-georgian-issues-swept.txt`. See [f_5374].
 54. Sir George Williams College, *The Annual Yearbook 1942* [src_sgw_yearbook_1942]; and *The Annual Yearbook 1943* [src_sgw_yearbook_1943]; and the *Faculty of Arts, Science and Commerce Announcement 1941-1942* [src_sgw_calendar_1941_42]. All three transcribed in the relevant part at `sources/cache/sgw-publications/2026-09-07-sgw-calendar-and-yearbooks-1941-1943.txt`. Found 2026-09-07 by the accounted whole-corpus sweep of the Internet Archive collection `rma-concordia-publications` (16,491 text items) under p_479; none of the three was previously in `sources.json`. See [f_5396]–[f_5398], [f_5401].
+55. "Re-modelled Pit Re-opens: Cafeteria Run Under New Management," *The McGill Daily* Vol. 31 No. 7, 9 October 1941 [src_mcgill_daily_1941_10_09]. Transcribed at `sources/cache/mcgill/2026-09-07-mcgill-daily-1938-and-1941.txt`. Found by the whole-corpus sweep of 9,890 McGill student publication items under p_479 — by matching *Otoreke*, since the column breaks the name as "Mr. Hup- field" and a search for it returns nothing. See [f_5407], [f_5408].
 
 ## Research Notes
 
