@@ -14449,12 +14449,12 @@
       "cache_path": "sources/cache/ymca-montreal-fonds/1973-wilderness-camp-directors-report.txt",
       "char_count": 7026,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
-      "extraction_version": "v5.60",
+      "extracted": true,
+      "extraction_version": "v9.82",
       "reliability": "primary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ WORD FOR WORD 2026-09-07 under p_482. The 1973 Wilderness Camp director's report: two August sessions, thirteen campers, a programme dispatched with no stated objectives whose director invented its two awards himself, a full daily schedule and menu, an equipment inventory naming Les Voyageurs and the Montreal outfitter Hike & Trip as sources, a complete balance sheet, and recommendations describing friction with the main camp and with unannounced groups from Camp Tamaracouta. Carries a roster of thirteen named boys with ages and award grades, embargoed as r_0007. Points to a document this project does not hold: Derek Walsh's own Kanawana report for 1973.",
+      "read_state": "read",
+      "read_state_basis": "read-word-for-word-2026-09-07-under-p_482"
     },
     {
       "source_id": "src_ymf_1974_les_voyageurs_de_la_verendrye_report_on_summer",

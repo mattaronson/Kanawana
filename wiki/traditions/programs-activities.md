@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-09-07 (Project Noosphere spun out to history/)*
+*Last Updated: 2026-09-07 (Wilderness Camp 1973, a programme sent out without objectives)*
 
 ## Overview
 
@@ -480,6 +480,87 @@ programme, "Familles en nature: 4 saisons de plaisir," ran an activity at the ca
 hike on spring flora and fauna with canoeing and a campfire dinner.^fn Both fit the camp's
 environmental-education positioning without originating from it.
 
+## Wilderness Camp, 1973
+
+Kanawana ran a short post-season programme called **Wilderness Camp** in August 1973, and its
+director's report survives.^wc73 It is a small document about a small programme — thirteen boys, eight
+days, two sessions — but it is unusually complete, carrying a daily schedule, a full menu, an
+equipment inventory with sources, a balance sheet and a set of recommendations, and it records one
+thing that is hard to find stated so plainly anywhere in this project.
+
+**The programme was sent out without objectives, and its director wrote his own.** "**We were not
+given any objectives or goals of Wilderness Camp.** We felt some sort of motivation in the sense of an
+award was needed. We therefore devised two awards called **Wilderness I and II**." Wilderness II
+required Kanawana's existing "C" Campcraft and "C" Canoeing; Wilderness I required the same "plus an
+**evident degree of comfortability in the woods**" — a criterion that is a judgement rather than a
+test, and is the more interesting of the two for that reason. All thirteen campers earned one or the
+other, and the award itself was "**a letter sent to the boys from the Director**," with copies "on
+file at the Camp Office."
+
+**What was taught, and how.** The programme was "two basic skill areas of canoeing and campcraft" —
+canoeing built on Kanawana's "C" award with "singles, doubles, games, races, stunts and portaging,"
+campcraft "geared to a sophisticated 'C' level" covering "use of tools, tent erection, conservation,
+fires, maps and compass." The method is stated as a choice: "**The instructing process was done with a
+game and competition approach, rather than formal instructions.**" What went over best were "the canoe
+orienteering race, canoeing contests as well as cooking and gadget making." The day ran from a 7 a.m.
+cook's wake-up through morning water programme, general swim, afternoon land programme, practice, a
+second general swim, supper and an 8 p.m. evening fire.
+
+**The finances, in full, because they are rarely this legible.** Thirteen campers at **$65.00** each
+gave a gross of **$845.00** against approximately **$415.00** of expenses: food $140 (IGA in
+Saint-Sauveur $100, the Kanawana kitchen $20, Hike & Trip $20), salaries $250 (director $100, two
+counsellors at $75), transportation $20 and hardware $5. The programme therefore returned something
+over four hundred dollars on a budget of four hundred — a detail worth holding beside the recurring
+question of why Kanawana's smaller programmes survived or did not.
+
+**The equipment came from three places**, and the report tabulates them: Les Voyageurs supplied the
+tents, flys, nesting pots, first aid kits, saws, ten canoes and sixteen lifejackets from the
+waterfront; **Hike & Trip**, a Montreal outfitter, supplied tarps, packs, compasses and maps; a local
+hardware store supplied rope, candles, nails and two Kurley Kates. So a Kanawana programme in 1973 was
+outfitted partly out of the Voyageurs' own stores, which is a concrete instance of the overlap
+[[site/les-voyageurs-de-la-verendrye|Les Voyageurs de la Vérendrye]] traces from the other side.
+
+**Three of the recommendations describe friction with the main camp.** Wilderness Camp "should not
+start on the day Kanawana ends" — the overlap left the wilderness staff no time off and no room for
+equipment or programme preparation, and a two- or three-day gap is proposed. Campers "should be moved
+out of K.K. as soon as possible and return from their sites as late as possible." And they "should
+have a minimal exposure to camp and people from outside the program. There was a problem with
+**several unannounced groups from Camp Tamaracouta**. This should be looked into. Please see **K.K.
+report '73 — D. Walsh**." That last is a pointer to Derek Walsh's own 1973 Kanawana report, a document
+this project does not hold.
+
+<!-- embargo:r_0007 -->
+*Embargoed material: the 1973 award roster, thirteen named boys with ages and award grades, register
+r_0007, review 2061-01-01. The aggregate is given above; this is the roster itself.*
+
+| Camper | Award | Age |
+|---|---|---|
+| Ralph Barqueiro | W-I | 16 |
+| John Beaton | W-II | 13 |
+| Scott Browning | W-I | 13 |
+| Brian Clarke | W-II | 12 |
+| John Duff | W-II | 14 |
+| François Durivage | W-I | 13 |
+| David Hart | W-I | 14 |
+| Kevin Gibb | W-I | [age illegible in the scan] |
+| André Masson | W-II | 13 |
+| John Payne | W-I | 14 |
+| Scott Turner | W-II | 12 |
+| Sandy Wilson | W-I | 12 |
+| Ian Wright | W-II | 13 |
+<!-- /embargo:r_0007 -->
+
+**On the roster above.** It is a list of thirteen boys aged twelve to sixteen, each graded into one of
+two tiers by a criterion that includes "comfortability in the woods." Everything about it is
+favourable — all thirteen passed — and the document it comes from is public, digitized by Concordia
+and readable on the Internet Archive. It is labelled here anyway, because the grading is an
+assessment of named children who are probably living, and because the register exists precisely so
+that this decision is made once, in the open, by someone reading a list, rather than by an editor
+quietly leaving something out. The counsellors, **John Evans and Perry Olshansky**, are named
+unembargoed: they were staff, not campers. A John Evans signs the Les Voyageurs report of 19 August
+1973 as its director, and the two may be the same man working both programmes in one season — the
+report does not say so, and this article does not assume it.
+
 ## Related Articles
 
 - [[traditions/lv-games|The L&V Games]]
@@ -517,6 +598,7 @@ environmental-education positioning without originating from it.
 
 ## Sources
 - **nb59** — YMCA of Montreal Annual Report **1959, short version** [src_ia_sgw_ymca_annual_report_1959_short], Internet Archive item `sgw-ymca-annual-report-1959-short-version`, in the `ymca-montreal-fonds` collection — a short version distinct from the full 1959 report. Found and read 2026-09-07 under p_462. See [f_5256].
+- ^wc73: "Wilderness Camp Director's Report, 1973" [src_ymf_1973_wilderness_camp_directors_report], Internet Archive item `1973-wilderness-camp-directors-report` in the `ymca-montreal-fonds` collection. Full text cached at `sources/cache/ymca-montreal-fonds/1973-wilderness-camp-directors-report.txt`; held since 2026-08-25 at read_state "skimmed" and read word for word 2026-09-07 as the second item worked under p_482. Unsigned — the director writes in the first person and names his two counsellors. See [f_5478] and [f_5479].
 - **nb36** — "Institute for Camp Leaders," *The News Bulletin* Vol. 12 No. 3 (May 1936), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_12_03], Internet Archive item `the-news-bulletin-vol-12-no-03`, in the `ymca-montreal-fonds` collection. Found by the enumeration at [f_5243] and read 2026-09-07 under p_462. See [f_5248].
 - **ar30** — YMCA of Montreal annual report for the year ending 31 March 1930 [src_cache_sgw_ymca_annual_report_1930], the Kamp Kanawana section, camping season **1929**. The volume's Becscies extension and its finances were already read into [[site/camp-becsies|Camp Becscies]]; its catchment, church-camp and programme paragraphs are read here, 2026-09-06. See [f_5216], [f_5217] and [f_5218].
 - **ar97** — Montreal YMCA annual report **1997** [src_ymf_sgw_ymca_annual_report_1997], the Westmount and programme-launch items. Read 2026-09-06 under p_454. See [f_5194].

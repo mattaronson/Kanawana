@@ -1,8 +1,8 @@
 {
-  "version": "9.81",
-  "kb_version": "9.81",
+  "version": "9.82",
+  "kb_version": "9.82",
   "migrated_from": "3.3",
-  "fact_count": 5439,
+  "fact_count": 5442,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -98072,6 +98072,69 @@
       "conflicts_with": [],
       "added_version": "9.81",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5478",
+      "category": "programs",
+      "date_ref": "1973-08",
+      "entities": [
+        "Camp Kanawana",
+        "Wilderness Camp",
+        "Les Voyageurs de la Vérendrye",
+        "Camp Tamaracouta",
+        "Derek Walsh"
+      ],
+      "claim": "A KANAWANA PROGRAMME WAS SENT OUT IN 1973 WITH NO STATED OBJECTIVES, AND ITS DIRECTOR WROTE HIS OWN. The Wilderness Camp director's report for 1973: 'WE WERE NOT GIVEN ANY OBJECTIVES OR GOALS OF WILDERNESS CAMP. We felt some sort of motivation in the sense of an award was needed. We therefore devised two awards called WILDERNESS I AND II.' Wilderness II required Kanawana's existing 'C' Campcraft and 'C' Canoeing; Wilderness I required the same 'plus an EVIDENT DEGREE OF COMFORTABILITY IN THE WOODS' -- a judgement rather than a test. All thirteen campers earned one or the other, and the award was 'A LETTER SENT TO THE BOYS FROM THE DIRECTOR', copies 'on file at the Camp Office'. THE PROGRAMME: two sessions, 21-25 and 26-28 August 1973; canoeing and campcraft only; 'the instructing process was done with A GAME AND COMPETITION APPROACH, RATHER THAN FORMAL INSTRUCTIONS'; days from a 7 a.m. cook's wake-up to an 8 p.m. evening fire. Ages twelve to fourteen with one sixteen-year-old; tent groups of six to eight, one counsellor each, 'each group at a different site'. THE FINANCES IN FULL: thirteen campers at $65.00 = $845.00 gross against about $415.00 of expenses -- food $140 (IGA Saint-Sauveur $100, the KK kitchen $20, Hike & Trip $20), salaries $250 (DIRECTOR $100, TWO COUNSELLORS AT $75), transportation $20, hardware $5. EQUIPMENT CAME FROM THREE SOURCES and the report tabulates them: LES VOYAGEURS supplied the tents, flys, pots, first aid kits, saws, ten canoes and sixteen waterfront lifejackets; HIKE & TRIP, a Montreal outfitter, the tarps, packs, compasses and maps; a local hardware store the rope, candles, nails and two Kurley Kates. Counsellors JOHN EVANS and PERRY OLSHANSKY. NOT ASSUMED: a John Evans signs the Les Voyageurs report of 19 August 1973 as ITS director and is in this wiki's directors index as such; whether the two are one man working both programmes in a single season is not stated by either document.",
+      "sources": [
+        "src_ymf_1973_wilderness_camp_directors_report"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.82",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5479",
+      "category": "programs",
+      "date_ref": "1973-08",
+      "entities": [
+        "Camp Kanawana",
+        "Wilderness Camp",
+        "Camp Tamaracouta",
+        "Derek Walsh"
+      ],
+      "claim": "THE 1973 WILDERNESS CAMP'S RECOMMENDATIONS DESCRIBE FRICTION WITH THE MAIN CAMP, AND POINT AT A DOCUMENT NOT HELD. (1) 'Wilderness Camp SHOULD NOT START ON THE DAY KANAWANA ENDS. The timing this year made it difficult for the Wilderness staff in terms of TIME OFF, EQUIPMENT AND PROGRAM PREPARATION. I would suggest a 2-3 day break between K.K. and Wilderness.' (2) Campers 'should be MOVED OUT OF K.K. AS SOON AS POSSIBLE and return from their sites AS LATE AS POSSIBLE', with a 9 a.m. start and 5 p.m. close replacing 12:30 for both. (3) Campers 'should have a MINIMAL EXPOSURE TO CAMP AND PEOPLE FROM OUTSIDE THE PROGRAM. There was a problem with SEVERAL UNANNOUNCED GROUPS FROM CAMP TAMARACOUTA. This should be looked into. Please see K.K. REPORT '73 - D. WALSH.' TWO THINGS FOLLOW. The wilderness programme wanted separation from Kanawana in time, in space and in company -- the same instinct the Voyageurs' directors express in their own reports, from a second programme, in the same era. And DEREK WALSH'S KANAWANA REPORT FOR 1973 EXISTS, or existed: it is cited here by its author's own colleague as the place the Tamaracouta intrusions are described. This project does not hold it and it is not in the digitized fonds under any title found so far.",
+      "sources": [
+        "src_ymf_1973_wilderness_camp_directors_report"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.82",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5480",
+      "category": "programs",
+      "date_ref": "1973-08",
+      "entities": [
+        "Wilderness Camp",
+        "Camp Kanawana"
+      ],
+      "claim": "THE 1973 WILDERNESS CAMP AWARD ROSTER. Thirteen boys, each named with an age and one of the two award grades the director had invented that summer. Reproduced in wiki/traditions/programs-activities.md inside embargo markers and registered as r_0007. THE AGGREGATE IS UNEMBARGOED AND CARRIED IN f_5478: thirteen campers, ages twelve to fourteen with one sixteen-year-old, all successful, seven at Wilderness I and six at Wilderness II. WHY IT IS LABELLED AT ALL, since everything in it is favourable and the document is public: the two tiers are an assessment of named children who are probably living, one of whose criteria is 'an evident degree of comfortability in the woods', and the register exists so that a decision like this is made once, visibly, from a list, rather than by an editor quietly leaving it out. The counsellors are named unembargoed, being staff rather than campers. One camper's age is illegible in the scan and is recorded as illegible rather than guessed.",
+      "sources": [
+        "src_ymf_1973_wilderness_camp_directors_report"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.82",
+      "added_by": "ralph_loop",
+      "publication": {
+        "status": "embargoed",
+        "register_id": "r_0007",
+        "review_on": "2061-01-01",
+        "basis": "personal assessment of identifiable private individuals: later of record date (1973) + 75 = 2048 and estimated birth (c. 1960) + 100 = 2060, the later governing, rounded to the following 1 January",
+        "why": "a graded roster of thirteen named children, probably living"
+      }
     }
   ]
 }
