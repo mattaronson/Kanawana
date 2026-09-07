@@ -1,8 +1,8 @@
 {
-  "version": "10.64",
-  "kb_version": "10.64",
+  "version": "10.65",
+  "kb_version": "10.65",
   "migrated_from": "3.3",
-  "fact_count": 5620,
+  "fact_count": 5624,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101322,6 +101322,83 @@
       "date_ref": "1960-1978",
       "conflicts_with": [],
       "added_version": "10.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5659",
+      "claim": "THE FORMAL APPRECIATION LIST IS A FIVE-YEAR SERIES, 1975-1979, AND IT IS A PICTURE OF HOW THE CAMP WAS ACTUALLY SUPPLIED. Following f_5649, which recorded the 1977 list, all cached directors' reports were checked. A headed APPRECIATION section appears in exactly five consecutive reports, 1975 through 1979. The 1971, 1973 and 1974 reports thank people in running prose but print no list; 1967, 1970 and 1987 have neither. NAMES AND BODIES THAT OCCUR NOWHERE ELSE IN THIS PROJECT. 1975: Eric Smart, who helped set up the sailing programme; Ron Whittingham, the camp's Controller, for advice on financial and legal matters; Colin Kirk of the MONTREAL ORIENTEERING ASSOCIATION, who helped organise the orienteering programme (the 1975 report separately thanks the same association for maps); DR BERNARD VILLEMAIRE, 'for his advice on health matters and attending to our sick'; Ross Bannerman, Kerry Johnston and Tom Potts; various 'O.F.Y. groups' presenting skits or training; seventeen Counsellors-in-Training. 1976: a group of DENTAL HYGIENISTS who lectured the campers on dental hygiene; fifteen C.I.T.s. 1978: DR DON SMITH, who covered the infirmary at the end of the summer; CHUCK BARONOWSKI, Director of TRAILS END CAMP, who conducted the life saving exams; Bruce Skahan for the astronomy programme; Canadian Paper & Packaging Company Limited, for rolls of paper; Scotty Brotman, three books to the camp library; Mrs Cairns of the MONTREAL CHILDREN'S LIBRARY; The Energetic Company, for skits. 1979: THE CANADIAN SKI PATROL; DIANA DEAKIN, who conducted the lifesaving exams; The Avon Company. WHAT THE SERIES SHOWS AS A SERIES: the infirmary was stocked by donated pharmaceutical company samples every year it is documented; the lifesaving examiner was always an OUTSIDER brought in, and a different one each year; and specialist programme content -- sailing, orienteering, astronomy, dental hygiene, skits -- came from named volunteers and outside associations rather than from staff.",
+      "sources": [
+        "src_ia_kanawana_report_1975",
+        "src_ia_kanawana_directors_report_1976",
+        "src_ia_kanawana_report_1978",
+        "src_ia_kanawana_report_1979"
+      ],
+      "confidence": "stated",
+      "category": "operations",
+      "entities": [
+        "Kamp Kanawana",
+        "Montreal Orienteering Association",
+        "Trails End Camp",
+        "Canadian Ski Patrol"
+      ],
+      "date_ref": "1975-1979",
+      "conflicts_with": [],
+      "added_version": "10.65",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5660",
+      "claim": "THE CAMP'S RADIO RECORD EXTENDS TO 1976 AND 1978, AND ANDY BARRIE IS IN IT. The 1976 director's report thanks 'ANDY BARRIE AND CJAD RADIO for the 15 minute story on Kanawana and our giant reunion'. The 1978 report thanks 'JACK FINIGAN of CJAD and DAVE PATRICK of CFCF who spoke of Kanawana this summer'. With the 1977 report's George Balcan and Jack Finnigan (f_5649), that is CJAD carrying Kanawana in three consecutive years, 1976-1978, and CFCF returning to it in 1978 -- thirty-seven years after the 1941 broadcast that was the last CFCF item this project held. Andy Barrie was a working Montreal broadcaster at CJAD in this period and later a nationally known CBC host; the reference is to a public figure acting in a public professional capacity. TWO THINGS FOLLOW. The 1976 broadcast is fifteen minutes, which is a feature rather than a mention, and it is the only evidence in this project of a 'GIANT REUNION' held at or for the camp in 1976 -- an event otherwise unrecorded here.",
+      "sources": [
+        "src_ia_kanawana_directors_report_1976",
+        "src_ia_kanawana_report_1978"
+      ],
+      "confidence": "stated",
+      "category": "media",
+      "entities": [
+        "Andy Barrie",
+        "CJAD",
+        "CFCF",
+        "Jack Finigan",
+        "Dave Patrick"
+      ],
+      "date_ref": "1976-1978",
+      "conflicts_with": [],
+      "added_version": "10.65",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5661",
+      "claim": "A CAMPER'S POEM, PRINTED IN FULL AT THE BACK OF THE 1976 DIRECTOR'S REPORT -- THE ONLY PIECE OF CAMPER-VOICE WRITING THIS PROJECT HOLDS. Between the acknowledgements and the statistical appendix, the 1976 report prints sixteen lines signed 'Kitti Luce', with the note: 'Kitti Luce wrote this poem this summer when she was a senior girl kamper.' TEXT AS PRINTED: \"I'm trying to find a place, where / My mind can just let go / Of all the thoughts of hate, that / I am starting to show. // I've discovered a place, where / You can hear the breeze / It drifts quietly across the lake, and / Rustles through the trees. // I'm going to a place, where / I feel very free / To love, and live, and be myself / With people a lot like me. // I think you know the name, of / This place, that I love / But, just in case you're not quite sure / It's Kanawana I'm thinking of.\" THE NAME CONNECTS TO ONE ALREADY HERE. A Kitti Luce appears in the May 1980 Ka-News staff list (f_0112), four years later, which makes this a documented camper-to-staff trajectory rather than two coincidental names -- though nothing in either document explicitly identifies them as the same person. NOTE ON WHY THIS IS RECORDED AND NOT HELD BACK: it is an authored work printed under its author's byline in an institutional document, not a third party's assessment of a child, and the name is already published in this wiki from a separate camp publication. The first stanza's 'thoughts of hate that I am starting to show' is not what a camp report ordinarily prints about itself, and the camp printed it.",
+      "sources": [
+        "src_ia_kanawana_directors_report_1976"
+      ],
+      "confidence": "stated",
+      "category": "culture",
+      "entities": [
+        "Kitti Luce"
+      ],
+      "date_ref": "1976",
+      "conflicts_with": [],
+      "added_version": "10.65",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5662",
+      "claim": "THE CAMP'S MONTREAL DEPARTURE POINT IN THE LATE 1970s WAS A SUBURBAN SHOPPING CENTRE CAR PARK. The directors' reports for 1976, 1977 and 1978 each thank the IVANHOE CORPORATION 'for permitting us to use the parking lot of the DORVAL GARDENS SHOPPING CENTRE as the Montreal terminal for kamper transportation'. Three consecutive years in identical wording makes it a standing arrangement rather than a one-off. THIS PROJECT HELD NO RECORD OF WHERE CAMPERS ASSEMBLED TO TRAVEL TO CAMP IN ANY PERIOD. The choice is itself evidence of where the camp's families were by the 1970s: Dorval is a West Island suburb, not downtown, and the same reports thank the Westmount, West Island, Downtown, N.D.G. and Lachine-Dorval branches for lending rooms for parents' meetings.",
+      "sources": [
+        "src_ia_kanawana_directors_report_1976",
+        "src_ia_kanawana_report_1978"
+      ],
+      "confidence": "stated",
+      "category": "operations",
+      "entities": [
+        "Ivanhoe Corporation",
+        "Dorval Gardens Shopping Centre"
+      ],
+      "date_ref": "1976-1978",
+      "conflicts_with": [],
+      "added_version": "10.65",
       "added_by": "ralph_loop"
     }
   ]

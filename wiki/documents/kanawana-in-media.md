@@ -1,6 +1,6 @@
 # Kanawana in Media and Culture
 
-*Status: E1-reviewed | Sources: 33*
+*Status: E1-reviewed | Sources: 34*
 *Last Updated: 2026-09-07 (every archival reference code corrected, by one; the Flickr album index read)*
 
 ## Overview
@@ -137,6 +137,31 @@ Kamp Otoreke — Group of people on a log bridge on their way to Chapel Island."
 
 ***Jane, le renard et moi*** **(2012).** The graphic novel *Jane, le renard et moi* (*Jane, the Fox and Me*) by Fanny Britt (text) and Isabelle Arsenault (illustration) is set partly at Camp Kanawana.^4 The protagonist, Hélène, dreads an English immersion class trip to Camp Kanawana (Lac Kanawana), where she faces social difficulties with her classmates. On the second-to-last evening, while sitting on the porch of her cabin, a fox approaches her — a pivotal encounter in the narrative. The book won the Governor General's Literary Award for Children's Illustration (French), the Joe Shuster Award (Writer and Artist), and was named a *New York Times* Best Illustrated Children's Book.^5 An English translation by Susan Ouriou was published by Groundwood Books in 2013. The camp's use as an English immersion destination in the novel reflects its real-world role hosting school groups.
 
+**A camper's poem, printed by the camp, 1976.** Between the acknowledgements and the statistical
+appendix, the 1976 director's report prints sixteen lines signed **Kitti Luce**, under the note "Kitti
+Luce wrote this poem this summer when she was a senior girl kamper".^34 **It is the only piece of
+camper-voice writing this project holds** — everything else in this article is written about the camp
+by adults, or by the institution about itself.
+
+> I'm trying to find a place, where / My mind can just let go
+> Of all the thoughts of hate, that / I am starting to show.
+>
+> I've discovered a place, where / You can hear the breeze
+> It drifts quietly across the lake, and / Rustles through the trees.
+>
+> I'm going to a place, where / I feel very free
+> To love, and live, and be myself / With people a lot like me.
+>
+> I think you know the name, of / This place, that I love
+> But, just in case you're not quite sure / It's Kanawana I'm thinking of.
+
+The opening is not what a camp report ordinarily prints about itself. A child describing the hate she
+is starting to show, and naming the camp as the place it stops, is a harder claim for the institution
+than any testimonial it could have commissioned — and the institution printed it, unedited, in the
+document it sent to its own board. A **Kitti Luce** appears in the May 1980 *Ka-News* staff list, four
+years on, which would make this a camper who came back to work there; neither document says they are
+the same person. [f_5661]
+
 ## Art
 
 **A print of the camp hung in the Art Association of Montreal's spring exhibition of 1936.** Evelyn de
@@ -168,10 +193,23 @@ where to ask. *She was looked for and not found:* a book-corpus search on her na
 
 The Concordia Archives (P145/12B04, Communications sub-series) describe CFCF broadcasts promoting Kanawana as running from 1936 to 1941, suggesting further, not-yet-digitized broadcasts beyond these two surviving recordings.^19 See [[people/howie-langille|Howie Langille]] for the 1941 broadcast's fuller biographical context, and [[history/wartime-kanawana|Wartime Kanawana]] for its content in the camp's wartime narrative.
 
-**CJAD, 1977 — and the radio record was stopping in 1941.** Kanawana's own director's report for 1977
-thanks, among its acknowledgements, "**George Balcan and Jack Finnigan of CJAD radio who spoke about
-some of our programs this summer**."^33 Everything above this paragraph is CFCF and CBM between 1936 and
-1941; **this is thirty-six years later and a different station**, and it names the broadcasters.
+**CJAD, 1976–1978 — and the radio record was stopping in 1941.** Kanawana's own director's report for
+1977 thanks, among its acknowledgements, "**George Balcan and Jack Finnigan of CJAD radio who spoke
+about some of our programs this summer**."^33 Everything above this paragraph is CFCF and CBM between
+1936 and 1941; **this is thirty-six years later and a different station**, and it names the
+broadcasters.
+
+*(Extended 2026-09-07: it is not one year but three, and the 1977 item is the middle of them.)* The
+**1976** report thanks "**Andy Barrie and CJAD radio for the 15 minute story on Kanawana and our giant
+reunion**", and the **1978** report thanks "**Jack Finigan of CJAD and Dave Patrick of CFCF who spoke
+of Kanawana this summer**".^34 So CJAD carried the camp in three consecutive years, and **CFCF came
+back to it in 1978 — thirty-seven years after the 1941 broadcast** that had been the last CFCF item
+this project held. Andy Barrie was then a CJAD broadcaster and later a nationally known CBC host.
+
+Two things sit inside the 1976 line. Fifteen minutes is a feature, not a mention — the longest single
+piece of Kanawana broadcasting recorded anywhere here. And **"our giant reunion" is the only evidence
+in this project that a reunion of that size happened in 1976**, or at all; nothing else in the wiki
+mentions it. [f_5660]
 
 Read it for exactly what it says. The report thanks two men who "spoke about" the camp's programmes on
 air — **a mention, not a programme**. Nothing says they broadcast from camp, no date is given, and no
@@ -362,6 +400,7 @@ To which can be added a fifth of a different kind: **Armand B. Ball, *Basic Camp
 31. The **1935** government photographer, and his name. "A History of Kamp Kanawana", the **1935** season chronicle [src_history_1935], `sources/cache/green-triangle/1935-history.txt`, carries the fourth-week sentence about the "offielal government photographer" and the "still and moving pictures" — read with its OCR damage intact at [f_0130]. *The Green Triangle* of **20 July 1935** [src_ymf_the_green_triangle_1935_07_20] welcomes "Mr. Fowle, photographer" and reports both the photography class and the mass picture of all campers, and it is the same issue that reports **Howard C. Ross, K.C.** reading modern poetry — the visitor who dates the chronicle's fourth week. The issue of **27 July 1935** [src_ymf_the_green_triangle_1935_07_27] adds Fowle's photographs of the **21 July** chapel service. The two Green Triangle issues are together at [f_5512]; the identification of Fowle with the chronicle's government photographer, the search for him, and the null result are at [f_5628].
 32. *The Gazette* (Montreal), **11 July 1918** [src_newspapers_gazette_1918], `sources/cache/web-pages/newspapers_gazette_1918.txt`. **The cache carries the page OCR, not only the paywall wrapper**, and the paragraph headed "AT CAMP KANAWANA" is in it verbatim — checked 2026-09-07 under p_492, after the sibling record `src_newspapers_com_gazette` turned out to hold nothing but chrome. The **Frank Lawes** filming is at [f_0439] and [f_0608]; the **110**-member attendance and the **1918** activity list are at [f_0437] and [f_0438].
 33. Kamp Kanawana director's report for **1977** [src_ia_kanawana_report_1977], `sources/cache/ymca-montreal-fonds/1977-kamp-kanawana-directors-report.txt`, in its section of acknowledgements. **George Balcan** and **Jack Finnigan** of **CJAD**, the ten drug companies that stocked the infirmary, **Jim Simpkins**'s donated birthday-card design and the rest of the list are at [f_5649]; the **Clouston Company**'s drink machine, from the same page, is at [f_5648].
+34. Kamp Kanawana's own directors' reports for **1976** [src_ia_kanawana_directors_report_1976] and **1978** [src_ia_kanawana_report_1978], cached in `sources/cache/ymca-montreal-fonds/`; their APPRECIATION sections and, in the 1976 report, the poem printed between the acknowledgements and the statistical appendix. Read 2026-09-07 under `p_499`. See [f_5660] for the radio broadcasts and [f_5661] for the poem; [f_5659] sets out the whole 1975-79 run of acknowledgement lists.
 
 *All four are lending-restricted on the Internet Archive and none has been read; each passage was reconstructed from overlapping Open Library search-inside queries and is cached with its queries under `sources/cache/openlibrary-search-inside/`.*
 

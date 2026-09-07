@@ -1,6 +1,6 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 72*
+*Status: E1-reviewed | Sources: 73*
 *Last Updated: 2026-09-07 (the 1936 CFCF script; and what the site costs to rent in 2026)*
 
 ## Overview
@@ -28,6 +28,16 @@ week-end trains** describes an arrangement, not a service — parents put a boy 
 collected him. The 2026 parent guide's bus from Westmount High School, with an authorised pick-up list and
 photo ID checked at the curb, is the same journey under a completely different set of assumptions about who
 is responsible for a child in transit.
+
+**And there is a middle term, found 2026-09-07.** The directors' reports for **1976, 1977 and 1978** each
+thank the **Ivanhoe Corporation** "for permitting us to use the parking lot of the **Dorval Gardens
+Shopping Centre** as the Montreal terminal for kamper transportation" — the same sentence three years
+running, so a standing arrangement rather than a favour.^73 The camp had gone from a railway station under
+Mount Royal, to a suburban shopping-centre car park, to a high-school forecourt with ID checks. The middle
+one says something the other two do not: by the late 1970s the assembly point that made sense was **on the
+West Island**, not downtown, and the same reports thank the Westmount, West Island, Downtown, N.D.G. and
+Lachine-Dorval branches for lending rooms for parents' meetings. **This project previously held no record
+of where campers gathered to travel to camp in any period.** [f_5662]
 
 The map itself labels Lake Kanawana, Lake Wilson and, tentatively, "**Lac des Beories**" — the Bec-scies
 name in another of its many spellings — with an inset captioned "Map showing Camp Property [with] Morgan's
@@ -719,6 +729,7 @@ them on every line and by tenfold on revenue.
 70. YMCA of Montreal annual report for the year ending 30 April **1920** [src_ymf_sgw_ymca_annual_report_1920], describing the **1919** season. The **289** boys, the **165** on site at once against a stated comfortable capacity of **80 or 90**, the **200**-boy target, and the Junior Camp Committee charged with "the erection of a new dining pavilion" that "will be in readiness for the opening of the Camp this year", are all at [f_5634]. The **1919** blueprints it is set beside are Concordia P145/12B03 [src_concordia_12B03] at [f_1787], and the **1920** completion is the **1951** camp history [src_ia_kanawana_history_1951] at [f_2120]. Found 2026-09-07 under p_491, in the paragraph after the attendance figure.
 71. The YMCA of Montreal's annual-report schedules of capital improvements, read as a run 2026-09-07 under p_491: the **99th** report to 31 March 1950 [src_ymf_sgw_ymca_annual_report_1950], the **100th** covering the twenty-one months to 31 December 1951 [src_ymf_sgw_ymca_annual_report_1951], and the volumes to 31 December **1952** [src_ymf_sgw_ymca_annual_report_1952], **1953** [src_ymf_sgw_ymca_annual_report_1953], **1954** [src_ymf_sgw_ymca_annual_report_1954], **1955** [src_ymf_sgw_ymca_annual_report_1955], **1956** [src_ymf_sgw_ymca_annual_report_1956] and **1958** [src_ymf_sgw_ymca_annual_report_1958]. Transcribed together at [f_5640], with the year-ends taken from `project-docs/annual-report-year-ends.md`; the **Lower Pavilion**'s replacement is dated against the **1951** camp history at [f_2120].
 72. Kamp Kanawana director's report for **1979** [src_ia_kanawana_report_1979]: the **plastic enclosures** tested that year for the dining hall with the recommendation to buy enough for the rest, the room "quite dark on even the sunniest days", and Julien Tassé's season of work including the new dining-hall stairs. At [f_5650], which corrects the **1977** enclosure date given at [f_5627].
+73. Kamp Kanawana's own directors' reports for **1976** [src_ia_kanawana_directors_report_1976], **1977** [src_ia_kanawana_report_1977] and **1978** [src_ia_kanawana_report_1978], in their APPRECIATION sections; cached in `sources/cache/ymca-montreal-fonds/`. Read 2026-09-07 under `p_499`. See [f_5662].
 
 ## Research Notes
 
