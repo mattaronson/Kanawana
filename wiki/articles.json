@@ -5361,7 +5361,8 @@
         "src_concordia_magazine_1988_01",
         "src_sgw_yearbook_1943",
         "src_concordia_seaman_award_history_2007",
-        "src_concordia_undergraduate_calendars_1995_2007"
+        "src_concordia_undergraduate_calendars_1995_2007",
+        "src_concordia_link_1992_03_17"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -5370,7 +5371,7 @@
         "section-names"
       ],
       "file_id": null,
-      "word_count": 5676,
+      "word_count": 5880,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -6546,7 +6547,8 @@
         "f_5377"
       ],
       "sources_cited": [
-        "src_mcgill_daily_1993_11_25"
+        "src_mcgill_daily_1993_11_25",
+        "src_concordia_link_1993_11_26"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -6557,7 +6559,7 @@
         "stuart-mclean"
       ],
       "file_id": null,
-      "word_count": 2184,
+      "word_count": 2510,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical, moved the c_017 editorial-resolution narrative into a new Research Notes > Revision History section, fixed two Sources entries (13, 14) that still labeled the conflict 'unresolved', and fixed Open Questions numbering (was out of sequence: 1, 5, 2, 3, 4). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -11451,7 +11453,8 @@
         "src_ymf_sgw_ymca_annual_report_1985",
         "src_ball_basic_camp_management_2012",
         "src_ia_ymca_montreal_news_bulletin_19_03",
-        "src_dbs_biennial_survey_education"
+        "src_dbs_biennial_survey_education",
+        "src_concordia_link_1988_03_22"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -11464,7 +11467,7 @@
         "connections/related-camps/quebec-camp-landscape"
       ],
       "file_id": null,
-      "word_count": 8476
+      "word_count": 8739
     },
     {
       "article_id": "points-of-contact",

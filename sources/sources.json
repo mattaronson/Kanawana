@@ -31281,7 +31281,61 @@
       "notes": "A DONOR PROSPECTUS WHOSE MAP PUTS THE THREE CAMPS INSIDE THE COLLEGE'S OWN FUNDRAISING FAMILY. THE CAMP NAMES DO NOT OCCUR IN A SENTENCE -- they are labels on a map captioned 'HERE IS YOUR Y.M.C.A. OF GREATER MONTREAL', and the OCR returns the scattered label text with the cartography lost: 'CAMP OTOREKE CAMP KANAWANA CAMP PERROT GOUIN BLVD CHRISTIEVILLE SKI LODGE ... ST. MICHEL RD. INTERNATIONAL COTE DE LIESSE CENTRAL Y.M.C.A. ROSEMOUNT NEW SIR GEORGE WILLIAMS COLLEGE NOTRE DAME DE GRACE ... WESTMOUNT ... BRANCH', with legend fragments 'Building Fund', 'Other Projects', 'Y.M.C.A. Branches'. WHAT CAN BE TAKEN: that in 1952 a SIR GEORGE WILLIAMS COLLEGE fundraising prospectus showed the three camps and the Christieville ski lodge on one map of the Association's Greater Montreal holdings, beside the branches and the proposed new College building. WHAT CANNOT: any spatial relationship, distance, or symbol-to-legend assignment -- those are properties of a graphic that OCR does not preserve, and the page image has not been looked at. TWO THINGS WORTH HAVING. CHRISTIEVILLE SKI LODGE IS ON A DONOR MAP IN 1952, where camp-otoreke.md has it only as finding-aid file titles (purchase 1948-1951, rental 1948, site 1949, correspondence 1959) -- established enough by 1952 to be worth showing donors by name. And the camps sit inside the College's own fundraising estate, the same institutional identity found repeatedly today, seen from the donor's side. The prospectus proper argues that the Evening Division is 'bursting at the seams', that several hundred students were turned away, and that the Survey and Policy Committee of the YMCA recommended a new four-storey classroom and administration building beside the Drummond-Stanley Building; it names Principal Norris, Dean Henry F. Hall and Bursar Henry G. Worrell. NULLS: each of Kanawana, Otoreke, Perrot, Christieville and Gouin occurs EXACTLY ONCE in the whole document, all in that map, and there is no prose about any camp anywhere in it. See f_5445.",
       "read_state": "extracted",
       "read_state_basis": "direct: full djvu text downloaded 2026-09-07 (single text file, checked), the map labels and the surrounding argument read; camp-name counts run."
+    },
+    {
+      "source_id": "src_concordia_link_1988_03_22",
+      "type": "periodical",
+      "title": "Kamp Kanawana recruitment advertisement, The Link (Concordia University), Vol. 8 Nos. 39-41, 22 and 29 March 1988",
+      "date": "1988-03-22",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/the-link-vol-08-no-39",
+      "cache_path": "sources/cache/concordia-publications/2026-09-07-the-link-kanawana-1988-1993.txt",
+      "char_count": 137899,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.74",
+      "reliability": "primary",
+      "notes": "MOVES THE TAGLINE BACK A YEAR AND CARRIES THE CAMP'S OWN AGE COUNT. 'THE EXPERIENCE THAT LASTS A LIFETIME! We specialize in fun. Kamp Kanawana is nestled in the heart of the Laurentians, on 1200 ACRES, near St. Sauveur. FOR 93 YEARS we have shared our excitement for discovery, personal growth and leadership with the youth of Montreal... a co-ed camp for children aged 7-15.' Run three weeks together in vol. 8 nos. 39, 40 and 41. The tagline was written up this morning from the McGill Daily of 20 February 1989 as predating the 1993 documentary by four years; this makes it five, and shows it running in two student papers. 'FOR 93 YEARS' IN MARCH 1988 GIVES 1895, against this project's founding date of 1894 -- a one-year gap with ordinary explanations (completed seasons, first full season, or a round number chosen by whoever wrote the copy). NOT OFFERED AS EVIDENCE AGAINST 1894. What it is worth is that it is the CAMP counting its own age in public, which is the kind of self-description history/oldest-camp-question.md is built on. Later variants: vol. 9 nos. 34 and 36 (1989) carry the '1200 acres of land and three private lakes' wording the McGill Daily also ran, and vol. 10 nos. 34 and 38 (1990) a third. See f_5447, f_5448.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded 2026-09-07 (single text file, checked), the advertisement read and transcribed; the 1989 and 1990 variants read from the sweep's context windows."
+    },
+    {
+      "source_id": "src_concordia_link_1992_03_17",
+      "type": "periodical",
+      "title": "\"A. Ross Seaman Memorial Cup\" event notice, The Link (Concordia University), Vol. 12 No. 38, 17 March 1992",
+      "date": "1992-03-17",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/the-link-vol-12-no-38",
+      "cache_path": "sources/cache/concordia-publications/2026-09-07-the-link-kanawana-1988-1993.txt",
+      "char_count": 134750,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.74",
+      "reliability": "primary",
+      "notes": "THE SEAMAN FUND'S ANNUAL EVENT HAS A NAME, A FORMAT AND A GUEST LIST. 'Friday, March 20. A. ROSS SEAMAN MEMORIAL CUP: friendly competition of \"SPACEBALL\" between LEISURE STUDIES, APSS, DAWSON'S CRLT PROGRAMME, AND YMCA'S CAMP KANAWANA. Also: variety show, t-shirts, buffet dinner, an auction, & awards. 2:30pm, Loyola Campus Athletic Complex, 7141 Sherbrooke St. W.' (Repeated in vol. 12 no. 39.) wiki/people/a-ross-seaman.md knew only that the fund raised money 'through an annual awards evening with auction'. THE FOUR SPACEBALL TEAMS ARE THE FOUR CONSTITUENCIES NAMED IN THE SCHOLARSHIP'S OWN TERMS: Concordia's calendar says the award honours Seaman's dedication 'to the communities of Concordia University, Dawson College, Kamp Kanawana and the YMCA', and Leisure Studies and Applied Social Science are the two Concordia departments he taught in, CRLT the Dawson programme he built. THE FOUR COMMUNITIES OF THE SCHOLARSHIP PLAYED A BALL GAME AGAINST EACH OTHER TO RAISE THE MONEY FOR IT. It also joins the 2007 bursary booklet read earlier today, one of whose citations praises a winner who 'worked on the T-shirt Committee, A. Ross Seaman Cup and Bill Lewis Race at the YMCA' -- t-shirts and Cup both appear here; 'Bill Lewis Race' remains unidentified. See f_5449.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded 2026-09-07 (single text file, checked) and the notice read whole and transcribed."
+    },
+    {
+      "source_id": "src_concordia_link_1993_11_26",
+      "type": "periodical",
+      "title": "Sarah Musgrave, \"Folk rhythm and light spirits\", The Link (Concordia University), Vol. 14 No. 20, 26 November 1993",
+      "date": "1993-11-26",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/the-link-vol-14-no-20",
+      "cache_path": "sources/cache/concordia-publications/2026-09-07-the-link-kanawana-1988-1993.txt",
+      "char_count": 73553,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.74",
+      "reliability": "primary",
+      "notes": "NAMES A NATURALIST wiki/people/sean-day.md SAYS IS NOT NAMED, and gives Day's origin as a songwriter. A companion to the McGill Daily's review of the same show one day earlier, already held. 'The music largely represents a selection of Day's compositions since he first picked up a guitar TWO YEARS AGO ON A TRIP TO INDONESIA. \"I was suffering from culture shock. I just didn't want to come out of the hut. So I borrowed a guitar and passed my time inside writing songs.\" HE TRIED OUT HIS MUSIC ON A \"CAPTIVE AUDIENCE\" AT KANAWANA... CONCORDIA DANCE STUDENT ELAINE HOOPER MET DAY WHEN THEY WORKED TOGETHER AS NATURALISTS AT CAMP. Hooper has a degree in biology and her desire to incorporate her ecological and biological knowledge into her performance was in keeping with Day's environmental themes.' Also: Day 'is presently training for a future in OPERA'; three vocalists, two guitarists, a trumpet player and two dancers, aged 17 to 30; songs by Day and McGill student Hartley Wynberg; the other dancer Alorani Martin; the show called 'Spirit Rhythms' here against the Daily's 'Spirit Rhythm'. THE CAUTION MATTERS: sean-day.md says of Day's remark that he 'used to work with a naturalist' at Kanawana that 'the naturalist is not named' and that Chris Adam is the obvious candidate. Hooper is A naturalist Day worked with there, which makes her a far stronger candidate than Adam -- but not THAT naturalist, since Day says 'a naturalist' singular and unnamed while the Link says the two of them worked 'as naturalists', describing both holding the role. The candidate changes; the question does not close. See f_5450.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded 2026-09-07 (single text file, checked) and the whole review read and transcribed at length."
     }
   ],
-  "source_count": 1740
+  "source_count": 1743
 }

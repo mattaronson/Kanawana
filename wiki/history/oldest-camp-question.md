@@ -1,7 +1,7 @@
 # Is Kanawana the Oldest Camp in Canada?
 
-*Status: draft | Sources: 26*
-*Last Updated: 2026-09-07 (the association conceded Canadian primacy in 1944, not only in 1989)*
+*Status: draft | Sources: 27*
+*Last Updated: 2026-09-07 (the camp advertised itself as 93 years old in 1988)*
 
 ## Overview
 
@@ -453,6 +453,18 @@ carry Kanawana through the pandemic carries Big Cove through it too — and Big 
 all three of its candidate founding dates. The pandemic separates nobody [f_4750], which is useful for a
 different reason: it makes **2019 a clean common cutoff** for measuring what came before.
 
+## How the camp has counted its own age
+
+**A camp's own arithmetic is evidence of a kind, and this article is built on that kind.** One datum, recorded because nothing else here covers the year and because it does not quite agree with the founding date this project uses.
+
+Kanawana's recruitment advertising in *The Link*, Concordia's student paper, ran three weeks together in **March 1988** and opened: "**For 93 years** we have shared our excitement for discovery, personal growth and leadership with the youth of Montreal."^27
+
+1988 − 93 = **1895**. This wiki dates the founding to **1894**.
+
+**The gap is one year and it is not a problem.** Every ordinary explanation covers it: counting completed *seasons* rather than calendar years; counting from the first full season rather than from the founding; or a round figure chosen by whoever wrote the copy, which is what advertising numbers usually are. **It is not offered as evidence against 1894**, and nobody should later cite it as such.
+
+What it is worth is that it is the camp counting **in public, in its own paid advertising**, in a year for which this project holds no other self-description. A run of such figures across the decades — brochures, anniversaries, letterheads — would be a useful series to assemble, and would show whether the camp's own arithmetic was ever consistent. This is one point in it.
+
 ## The tests, and how each contender does
 
 | Test | Winner | Kanawana's position |
@@ -600,3 +612,4 @@ across the country, and the century that closed its own sibling camp on the orig
 24. Armand B. Ball, *Basic Camp Management: An Introduction to Camp Administration* (Monterey, CA: Healthy Learning, 2012), "An American Camp Association book", Internet Archive scan leaf 436 [src_ball_basic_camp_management_2012]. **One sentence only**, reconstructed from seven overlapping Open Library search-inside queries; lending-restricted, page images return HTTP 403, not read. Weighed at length in [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]. See [f_4950].
 25. "YMCA firsts" list, *The News Bulletin* Vol. 19 No. 3 (May 1944), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_19_03]. Internet Archive item `the-news-bulletin-vol-19-no-03`, in the `ymca-montreal-fonds` collection. Found 2026-09-07 by the enumeration at [f_5243]. See [f_5249].
 26. Canada, Department of Trade and Commerce, Dominion Bureau of Statistics, *Elementary and Secondary Education in Canada*, being Part I of the *Biennial Survey of Education in Canada* [src_dbs_biennial_survey_education], the surveys for **1938-40**, **1943-44** and **1945-46**, printed at Ottawa by the King's Printer. Internet Archive item `31761119680775`, full text downloaded 2026-09-07. The entry quoted is a standing one, reprinted across surveys with only an address and a job title amended, and is weighed as such. Set out with its variants at `sources/cache/government/2026-09-07-dbs-biennial-survey-ymca-entry.txt`. See [f_5356].
+27. Kamp Kanawana recruitment advertisement, *The Link* (Concordia University) Vol. 8 Nos. 39-41, 22 and 29 March 1988 [src_concordia_link_1988_03_22]: "For 93 years we have shared our excitement…" Transcribed at `sources/cache/concordia-publications/2026-09-07-the-link-kanawana-1988-1993.txt`. See [f_5448].

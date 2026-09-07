@@ -1,8 +1,8 @@
 {
-  "version": "9.73",
-  "kb_version": "9.73",
+  "version": "9.74",
+  "kb_version": "9.74",
   "migrated_from": "3.3",
-  "fact_count": 5408,
+  "fact_count": 5412,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -97517,6 +97517,75 @@
       "conflicts_with": [],
       "added_version": "9.72",
       "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5447",
+      "category": "documents",
+      "date_ref": "1988-03-22",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "'THE EXPERIENCE THAT LASTS A LIFETIME' MOVES BACK ANOTHER YEAR, TO MARCH 1988. The tagline was written up earlier today from the McGill Daily of 20 February 1989 as predating the 1993 documentary of that name by four years. The Link, Concordia's student paper, carries it in the camp's recruitment display of 22 MARCH 1988, run three weeks together across vol. 8 nos. 39, 40 and 41: 'THE EXPERIENCE THAT LASTS A LIFETIME! We specialize in fun. Kamp Kanawana is nestled in the heart of the Laurentians, on 1200 acres, near St. Sauveur.' So the margin over the film is FIVE years, and the phrase was running in at least two student papers before Laurentien Productions used it as a title. The camp also advertised in The Link in 1989 (vol. 9 nos. 34, 36, the 'three private lakes' wording the McGill Daily ran the same season) and 1990 (vol. 10 nos. 34, 38, a third variant).",
+      "sources": [
+        "src_concordia_link_1988_03_22"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5448",
+      "category": "history",
+      "date_ref": "1988-03-22",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "THE CAMP ADVERTISED ITSELF AS '93 YEARS' OLD IN MARCH 1988, WHICH GIVES 1895 AND NOT 1894. 'FOR 93 YEARS we have shared our excitement for discovery, personal growth and leadership with the youth of Montreal.' 1988 minus 93 is 1895; this project dates the founding to 1894. THIS IS NOT OFFERED AS EVIDENCE AGAINST 1894 and should not be read as such -- the gap is one year and every ordinary explanation covers it: counting completed seasons rather than calendar years, counting from the first full season rather than the founding, or a round figure chosen by whoever wrote the advertising copy. WHAT IT IS WORTH IS ITS KIND. history/oldest-camp-question.md is built on how the camp and its neighbours have described their own ages over time, and this is THE CAMP COUNTING, IN PUBLIC, IN ITS OWN PAID ADVERTISING, in a year for which no other self-description is held. A run of such figures across decades would be worth assembling; this is one data point in it.",
+      "sources": [
+        "src_concordia_link_1988_03_22"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5449",
+      "category": "institutional",
+      "date_ref": "1992-03-20",
+      "entities": [
+        "A. Ross Seaman",
+        "Camp Kanawana",
+        "Concordia University",
+        "Dawson College"
+      ],
+      "claim": "THE SEAMAN MEMORIAL FUND'S ANNUAL EVENT HAD A NAME AND A FORMAT, AND ITS FOUR TEAMS WERE THE SCHOLARSHIP'S FOUR CONSTITUENCIES. The Link of 17 March 1992: 'Friday, March 20. A. ROSS SEAMAN MEMORIAL CUP: friendly competition of \"SPACEBALL\" between LEISURE STUDIES, APSS, DAWSON'S CRLT PROGRAMME, AND YMCA'S CAMP KANAWANA. Also: variety show, t-shirts, buffet dinner, an auction, & awards. 2:30pm, Loyola Campus Athletic Complex, 7141 Sherbrooke St. W.' wiki/people/a-ross-seaman.md knew only that the fund raised money 'through an annual awards evening with auction -- described as possibly the only active Concordia scholarship using this fundraising model'. NOW IT HAS THE EVENT. And the four Spaceball teams are exactly the four communities Concordia's own calendar names in the award's terms -- 'Concordia University, Dawson College, Kamp Kanawana and the YMCA' -- with Leisure Studies and Applied Social Science standing for the two Concordia departments Seaman taught in and CRLT for the Dawson programme he built. THE FOUR COMMUNITIES OF THE SCHOLARSHIP PLAYED A BALL GAME AGAINST EACH OTHER TO RAISE THE MONEY FOR IT, which is a more exact and a stranger fact than 'an awards evening with auction'. It also joins the 2007 bursary booklet read earlier today, one of whose citations praises a winner who 'worked on the T-shirt Committee, A. Ross Seaman Cup and Bill Lewis Race at the YMCA': the t-shirts and the Cup both appear in this notice, and 'Bill Lewis Race' is still unidentified.",
+      "sources": [
+        "src_concordia_link_1992_03_17"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5450",
+      "category": "people",
+      "date_ref": "1993-11-26",
+      "entities": [
+        "Sean Day",
+        "Elaine Hooper",
+        "Camp Kanawana"
+      ],
+      "claim": "A NATURALIST sean-day.md SAYS IS NOT NAMED IS NAMED HERE, AND THE ANSWER CHANGES THE CANDIDATE WITHOUT CLOSING THE QUESTION. The Link's review of Spirit Rhythms, 26 November 1993, one day after the McGill Daily's: 'CONCORDIA DANCE STUDENT ELAINE HOOPER MET DAY WHEN THEY WORKED TOGETHER AS NATURALISTS AT CAMP. Hooper has a degree in biology and her desire to incorporate her ecological and biological knowledge into her performance was in keeping with Day's environmental themes.' wiki/people/sean-day.md quotes Day saying 'I used to work with a naturalist, mostly in Kanawana. We used to do an \"earth values\" program', and states plainly: 'And the naturalist is not named. Chris Adam is the obvious candidate -- he built the camp's Nature Awareness programme in 1980 and is the naturalist this project knows -- but Day does not say.' HOOPER IS A NATURALIST DAY WORKED WITH AT KANAWANA, which makes her a far stronger candidate than Adam. IT DOES NOT MAKE HER THAT NATURALIST: Day says 'a naturalist', singular and unnamed, while the Link says the two of them worked 'as naturalists', describing both of them holding the role rather than identifying his collaborator on the earth values programme. The candidate changes; the question does not close. THE SAME PIECE GIVES DAY'S ORIGIN AS A SONGWRITER, which nothing here had: he 'first picked up a guitar TWO YEARS AGO ON A TRIP TO INDONESIA' -- 'I was suffering from culture shock. I just didn't want to come out of the hut. So I borrowed a guitar and passed my time inside writing songs' -- and 'tried out his music on a \"captive audience\" AT KANAWANA', where the response was 'overwhelmingly positive'. So the camp was the proving ground for the songs, twelve years before he directed it. He was also 'presently training for a future in OPERA'.",
+      "sources": [
+        "src_concordia_link_1993_11_26"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.74",
+      "added_by": "ralph_loop"
     }
   ]
 }

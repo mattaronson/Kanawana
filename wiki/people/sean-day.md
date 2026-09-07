@@ -1,7 +1,7 @@
 # Sean Day
 
-*Status: E1-reviewed | Sources: 16*
-*Last Updated: 2026-07-10*
+*Status: E1-reviewed | Sources: 17*
+*Last Updated: 2026-09-07 (a fellow naturalist named, and where the songs were first tried)*
 
 ## Overview
 
@@ -25,6 +25,12 @@ name of [[traditions/environmental-history|Chris Adam's later Earthvalues Instit
 at Kanawana first. **And the naturalist is not named.** Chris Adam is the obvious candidate — he built
 the camp's Nature Awareness programme in 1980 and is the naturalist this project knows — but Day does
 not name him, and nothing here does. *That is a strong reading and not a document.*^16
+
+**[UPDATED 2026-09-07 — a name arrives, and it is not Chris Adam.]** *The Link* reviewed the same show one day after the *Daily*, on 26 November 1993, and its account of how the collective formed includes this: "**Concordia dance student Elaine Hooper met Day when they worked together as naturalists at camp.** Hooper has a degree in biology and her desire to incorporate her ecological and biological knowledge into her performance was in keeping with Day's environmental themes."^17
+
+**Read that precisely.** Elaine Hooper is *a* naturalist Day worked with at Kanawana, which makes her a far better candidate than Chris Adam for the naturalist of the quotation — Adam was never more than an inference from being the naturalist this project happened to know. **It does not make her that naturalist.** Day says "a naturalist," singular and unnamed; the *Link* says the two of them worked "as naturalists," which describes both of them holding the role rather than identifying his collaborator on the earth values programme. The candidate changes and the question stays open.
+
+**And the same piece gives his origin as a songwriter, which nothing here had.** He "first picked up a guitar two years ago on a trip to Indonesia" — "I was suffering from culture shock. I just didn't want to come out of the hut. So I borrowed a guitar and passed my time inside writing songs" — and then "tried out his music on a '**captive audience**' at Kanawana, where the response was overwhelmingly positive."^17 So the camp was where the songs were tested, twelve years before he came to direct it. He was at the time "presently training for a future in **opera**." 
 
 ## Early Connection to Kanawana
 
@@ -106,6 +112,7 @@ Day became Director of Fund Development at **Tyndale St-Georges Community Centre
 14. ymcakanawana.com, "Pour nous joindre" contact page, Wayback Machine snapshots 2005-12-16 through 2007-12-28. Names "Sean Day, directeur du camp estival et des programmes" continuously across five snapshots; no mention of Francois Dauphin. The side of conflict c_017 favoured in the editorial resolution -- see Revision History.
 15. Camp YMCA Kanawana Facebook page, 120th-anniversary post (September 5, 2014). Labels Day "directeur du camp YMCA Kanawana"; content only partially extractable due to Facebook's mobile wrapper.
 16. Julie Crysler, "Do it yourself, environmental style: Contemporary dance and music at the Hive", *The McGill Daily* (Culture), Vol. 83 No. 46, **25 November 1993** [src_mcgill_daily_1993_11_25]. Internet Archive item `McGillLibrary-mcgill-daily-culture-v83-n046-november-25-1993-13865`, found by a whole-corpus sweep of the McGill student publications, since no index reaches their contents. Quoted in full at `sources/cache/mcgill/2026-09-07-spirit-rhythm-1993.txt`. See [f_5376], [f_5377].
+17. Sarah Musgrave, "Folk rhythm and light spirits," *The Link* (Concordia University) Vol. 14 No. 20, 26 November 1993 [src_concordia_link_1993_11_26]. The companion review to the *McGill Daily*'s of the day before. Transcribed at `sources/cache/concordia-publications/2026-09-07-the-link-kanawana-1988-1993.txt`. See [f_5450].
 
 ## Research Notes
 
