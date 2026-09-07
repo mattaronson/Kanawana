@@ -1,8 +1,8 @@
 {
-  "version": "9.01",
-  "kb_version": "9.01",
+  "version": "9.02",
+  "kb_version": "9.02",
   "migrated_from": "3.3",
-  "fact_count": 5250,
+  "fact_count": 5252,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -94704,6 +94704,43 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.01",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5289",
+      "category": "people",
+      "date_ref": "1920",
+      "entities": [
+        "J. G. Cruickshank",
+        "Charles G. Hewett",
+        "YMCA of Montreal"
+      ],
+      "claim": "J. G. CRUICKSHANK'S DEPARTURE IS DATED TO THE DAY BY MONTREAL'S OWN 1920 REPORT: 'North Branch -- Mr. J. G. Cruickshank, RESIGNED APRIL 30TH from the Boys' Secretaryship TO ENTER BUSINESS.' The Year Book has him in that post in the 1917-18 and 1918-19 volumes and Charles G. Hewett in it by 1919-20 (f_5280), so the two records bracket a handover in 1919 or 1920 and the report fixes the resignation at 30 April, the association's own year-end. The same paragraph dates A. D. Youmans's resignation from Westmount to 1 May 1920, 'to accept the position of Physical Director at Brandon, Man.', and T. Hicks Miller's arrival there on 1 August -- and T. HICKS MILLER IS ALREADY IN THIS PROJECT as the man who had charge of the Kanawana season during July 1915. Found by grepping the cache for a name the Year Book supplied, with the wiki grepped too this time.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1920",
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.02",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5290",
+      "category": "people",
+      "date_ref": "1923",
+      "entities": [
+        "Geoffrey Guiton",
+        "Kamp Kanawana"
+      ],
+      "claim": "A GUITON IS AT THE CAMP IN 1923, IN THE NORTH BRANCH GROUP, AND WHETHER HE IS THE NORTH BRANCH'S BOYS' SECRETARY IS NOT ESTABLISHED. The Gas Bag of 1923, the camp's own newsletter, carries a mock-heroic poem about a night raid on a tent: 'Beneath the folds eight warriors tossed and tore ... GUITON WAS FIRST TO REACH THE OPEN AIR, breathing forth threats and bidding all beware ... Walt Reeves came next ... Phil Godfrey shouted words of stern command ... And NORTH BRANCH TRIBE were forced to own defeat.' The Year Book has GEOFFREY GUITON as the Boys' worker at Montreal's North Branch in the 1920-21 volume (f_5280). THE TWO ARE TWO YEARS AND ONE SURNAME APART, AND THE POEM GIVES NO INITIAL, NO AGE AND NO ROLE. He is inside a tent with seven others being raided, which reads as a camper or a junior leader more naturally than as a branch secretary, and a branch's boys' secretary bringing his own boys to camp would be an equally ordinary reading. NEITHER IS CLAIMED. Recorded as a lead because a camp connection for a named branch boys' worker is exactly what this project is short of, and because the Gas Bag names two other people -- WALT REEVES and PHIL GODFREY -- in the same stanza who can be checked against the camp's rosters.",
+      "sources": [
+        "src_gas_bag_1923",
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.02",
       "added_by": "ralph_loop"
     }
   ]
