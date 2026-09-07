@@ -1,8 +1,8 @@
 {
-  "version": "9.17",
-  "kb_version": "9.17",
+  "version": "9.18",
+  "kb_version": "9.18",
   "migrated_from": "3.3",
-  "fact_count": 5278,
+  "fact_count": 5279,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -95212,6 +95212,23 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.17",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5317",
+      "category": "method",
+      "date_ref": "1915",
+      "entities": [
+        "YMCA of Montreal",
+        "Kamp Kanawana"
+      ],
+      "claim": "THE 1915 MONTREAL ANNUAL REPORT IN THIS CACHE IS AN EXTRACTS PAMPHLET, SO ITS SILENCE ABOUT THE CAMP MEANS NOTHING. Its own title page reads 'EXTRACTS from the ANNUAL REPORT of the BOARD OF DIRECTORS, As Presented at the 64th Annual Meeting ... May 20th, 1915'. The file runs 14,769 characters against 23,104 for 1914 and far more for 1916, and carries the officers, the board and a short narrative with NO committee reports, NO camp section and no financial statements. THE DOCUMENT IS THE EXTRACT, NOT THE SCAN: nothing is missing from the cache, and the source record's note that the full text is held is true and misleading at once. THE CONSEQUENCE MATTERS FOR A SPECIFIC QUESTION. This report year, ending 30 April 1915, covers THE SUMMER OF 1914 -- the one season in the war decade with no named camp staff, and the last gap in the line reconstructed under p_464. The camp is not mentioned here, and that is a fact about what the association chose to PRINT in a pamphlet, not about the season. The 1914 season remains undocumented and the full 1915 report, if it survives, is where to look. Of the cached Montreal reports only this one and the 1856 and 1859 items carry the word EXTRACTS, and those two are large enough to be substantive; checked across the whole run by size and by header.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1915"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.18",
       "added_by": "ralph_loop"
     }
   ]

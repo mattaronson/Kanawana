@@ -20219,7 +20219,7 @@
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1915",
       "type": "report",
-      "title": "Sgw ymca annual report 1915 — \"Sixty-Fourth Annual Report\"",
+      "title": "Sgw ymca annual report 1915 — \"Sixty-Fourth Annual Report\" — EXTRACTS ONLY",
       "date": "1915",
       "date_precision": "year",
       "origin": "internet_archive",
@@ -20230,7 +20230,7 @@
       "extracted": false,
       "extraction_version": "v5.60",
       "reliability": "secondary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
+      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. [CORRECTED 2026-09-07: THIS ITEM IS NOT A FULL ANNUAL REPORT. Its own title page reads 'EXTRACTS from the ANNUAL REPORT of the BOARD OF DIRECTORS, As Presented at the 64th Annual Meeting of the Association held in the Westmount Building, May 20th, 1915', and the file is 14,769 characters against 23,104 for 1914 and far more for 1916. It carries the officers, the board, and a short narrative, and NO committee reports, NO camp section and no financial statements. THE DOCUMENT IS THE EXTRACT, NOT THE SCAN -- nothing is missing from the cache. THE CONSEQUENCE: any null taken from this file is worthless. In particular the camp is not mentioned in it, and that says nothing whatever about the summer of 1914, which is the season this report year covers. Of the cached Montreal reports only this one and the 1856 and 1859 items carry the word EXTRACTS, and those two are large enough to be substantive.]",
       "read_state": "skimmed",
       "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
     },
