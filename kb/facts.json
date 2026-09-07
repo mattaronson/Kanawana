@@ -1,8 +1,8 @@
 {
-  "version": "9.11",
-  "kb_version": "9.11",
+  "version": "9.13",
+  "kb_version": "9.13",
   "migrated_from": "3.3",
-  "fact_count": 5268,
+  "fact_count": 5271,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -94342,7 +94342,7 @@
         "Charlottetown YMCA",
         "Victoria YMCA"
       ],
-      "claim": "WHERE HAROLD C. CROSS WAS BETWEEN 1912 AND 1919 -- FIVE OF THE MISSING YEARS, AND THE FIRST THREE SAY MONTREAL. wiki/people/harold-cross.md poses the question in exactly those words. The Year Books answer: 'North Br. ... Physical, W. S. Maguire / Boys, Harold C. Cross' in 1911-12, 1912-13 and 1913-14, making him a MONTREAL YMCA BOYS' WORKER AT THE NORTH BRANCH more than a decade before he directed Kanawana; then 'Prince Edward Island / Charlottetown ... Gen. Secy., Harold C. Cross' in 1914-15, a general secretaryship at twenty-something that the article did not have; then gone -- Charlottetown's General Secretary is J. Morrison Clark by 1915-16, and an exact-phrase search for 'Harold C. Cross' returns no page in the 1915-16, 1916-17 or 1917-18 volumes, all three of which are OCR'd and searchable; then 'Victoria. ... Boys, Harold C. Cross' in 1918-19 and again in 1920-21, corroborating from outside Concordia the Victoria years the article already had from a Concordia source. TWO THINGS HELD LOOSELY. The three absent volumes are a null in this series and not a finding about his whereabouts; war service is the obvious guess and a CEF service file the obvious check, and neither is recorded here as fact. And the entry-year figure of '12' printed against his name in 1921 sits a year later than his first appearance, in the 1911-12 volume -- either the volume year and the roster year overlap or the figure is approximate, unresolved, noted so that nobody later reads a contradiction into it.",
+      "claim": "WHERE HAROLD C. CROSS WAS BETWEEN 1912 AND 1919 -- FIVE OF THE MISSING YEARS, AND THE FIRST THREE SAY MONTREAL. wiki/people/harold-cross.md poses the question in exactly those words. The Year Books answer: 'North Br. ... Physical, W. S. Maguire / Boys, Harold C. Cross' in 1911-12, 1912-13 and 1913-14, making him a MONTREAL YMCA BOYS' WORKER AT THE NORTH BRANCH more than a decade before he directed Kanawana; then 'Prince Edward Island / Charlottetown ... Gen. Secy., Harold C. Cross' in 1914-15, a general secretaryship at twenty-something that the article did not have; then gone from the Directory of Associations -- Charlottetown's General Secretary is J. Morrison Clark by 1915-16, and an exact-phrase search for 'Harold C. Cross' returns no page in the 1915-16, 1916-17 or 1917-18 volumes [CORRECTED 2026-09-07: this fact originally read that he was simply absent from those three volumes. HE IS IN TWO OF THEM. The 1915-16 and 1916-17 volumes carry him under the role 'Overseas Representative' in the Canada section's table of National Council secretaries, printed 'H.C.Cross' with no spaces, which is why every exact-phrase form missed him. See f_5307. Name the list, not the volume]; then 'Victoria. ... Boys, Harold C. Cross' in 1918-19 and again in 1920-21, corroborating from outside Concordia the Victoria years the article already had from a Concordia source. TWO THINGS HELD LOOSELY. The three absent volumes are a null in this series and not a finding about his whereabouts; war service is the obvious guess and a CEF service file the obvious check, and neither is recorded here as fact. And the entry-year figure of '12' printed against his name in 1921 sits a year later than his first appearance, in the 1911-12 volume -- either the volume year and the roster year overlap or the figure is approximate, unresolved, noted so that nobody later reads a contradiction into it.",
       "sources": [
         "src_umedia_ymca_yearbook_series"
       ],
@@ -95014,7 +95014,7 @@
         "W. J. Holliday",
         "Kenneth J. Hollinshead"
       ],
-      "claim": "HAROLD C. CROSS IS ON NEITHER WAR-SERVICE LIST, AND THAT IS A CONTROLLED NEGATIVE RATHER THAN A SILENCE. His article's oldest open question is where he was between the 1914-15 and 1918-19 volumes, three editions that name him nowhere (f_5269), with war service the obvious hypothesis. The Year Book carries two rosters that would catch a YMCA man who went: the 1917-18 volume's 'Secretaries and Others in War Service', and the 1918-19 volume's 'Overseas Secretaries, Canadian National Council, June 1, 1919'. SEARCHED AS THE EXACT PHRASES 'Cross, H. C.', 'Cross, Harold' AND 'Harold C. Cross', AND BY READING THE CANADIAN LIST'S FULL TEXT, WHERE THE SURNAME CROSS DOES NOT OCCUR AT ALL. He is on neither. THE CONTROL IS WHAT MAKES THIS WORTH ANYTHING: these same lists DO name his Montreal colleagues -- W. J. Holliday as Capt. William J. Holliday on the Canadian list (f_5299) and Kenneth J. Hollinshead on the United States one (f_5301) -- so the lists reach the right institution in the right years and are not simply blind to Montreal. WHAT IT DOES AND DOES NOT RULE OUT: it makes it unlikely he went overseas AS A YMCA SECRETARY, which was the specific route his colleagues took. It does not rule out military enlistment, which would leave no trace in a YMCA roster, and it does not rule out ordinary civilian work somewhere the roster did not reach. So the CEF personnel records become MORE relevant to his case than to Holliday's, not less -- Holliday was a YMCA officer attached to the forces and may have no service file, whereas an enlisted man would.",
+      "claim": "[SUPERSEDED 2026-09-07, WITHIN THE HOUR, AND THE CONCLUSION IS OVERTURNED -- see f_5307 and f_5308. Cross DID go overseas with the Canadian YMCA, from about 1915, listed under the role 'Overseas Representative' in the CANADA section's table of National Council secretaries: a THIRD list I had not searched. The entry is printed 'H.C.Cross' without spaces, which is why every exact-phrase form missed it. The original text, which remains accurate about the two lists it actually searched, follows.] HAROLD C. CROSS IS ON NEITHER WAR-SERVICE LIST, AND THAT IS A CONTROLLED NEGATIVE RATHER THAN A SILENCE. His article's oldest open question is where he was between the 1914-15 and 1918-19 volumes, three editions that name him nowhere (f_5269), with war service the obvious hypothesis. The Year Book carries two rosters that would catch a YMCA man who went: the 1917-18 volume's 'Secretaries and Others in War Service', and the 1918-19 volume's 'Overseas Secretaries, Canadian National Council, June 1, 1919'. SEARCHED AS THE EXACT PHRASES 'Cross, H. C.', 'Cross, Harold' AND 'Harold C. Cross', AND BY READING THE CANADIAN LIST'S FULL TEXT, WHERE THE SURNAME CROSS DOES NOT OCCUR AT ALL. He is on neither. THE CONTROL IS WHAT MAKES THIS WORTH ANYTHING: these same lists DO name his Montreal colleagues -- W. J. Holliday as Capt. William J. Holliday on the Canadian list (f_5299) and Kenneth J. Hollinshead on the United States one (f_5301) -- so the lists reach the right institution in the right years and are not simply blind to Montreal. WHAT IT DOES AND DOES NOT RULE OUT: it makes it unlikely he went overseas AS A YMCA SECRETARY, which was the specific route his colleagues took. It does not rule out military enlistment, which would leave no trace in a YMCA roster, and it does not rule out ordinary civilian work somewhere the roster did not reach. So the CEF personnel records become MORE relevant to his case than to Holliday's, not less -- Holliday was a YMCA officer attached to the forces and may have no service file, whereas an enlisted man would. [AND THE FINAL SENTENCE ABOVE IS NOW BACKWARDS. He did go overseas as a YMCA man, so the CEF records are LESS likely to hold him, not more -- the same reasoning that applies to Holliday applies to him.]",
       "sources": [
         "src_umedia_ymca_yearbook_series"
       ],
@@ -95037,6 +95037,60 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.11",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5307",
+      "category": "people",
+      "date_ref": "1915-1917",
+      "entities": [
+        "Harold C. Cross",
+        "T. Hicks Miller",
+        "A. W. Forgie",
+        "C. T. Sharpe",
+        "Taylor Statten"
+      ],
+      "claim": "HAROLD C. CROSS WENT OVERSEAS WITH THE CANADIAN YMCA IN THE WAR, AND THIS ANSWERS THE OLDEST QUESTION IN HIS ARTICLE. The Year Book's CANADA section prints a table, 'SECRETARIES OF THE NATIONAL COUNCIL', giving each man a role -- General Secretary, Boys' Work Secretary (Taylor Statten), Railroad Secretary and so on -- and then a long run of names under the role 'OVERSEAS REPRESENTATIVE', carried down by ditto marks. H. C. CROSS IS IN THAT RUN IN BOTH THE 1915-16 AND THE 1916-17 VOLUMES, printed 'H.C.Cross' with no spaces. He is NOT in the 1914-15 one, where he is General Secretary at Charlottetown (f_5269). SO THE SEQUENCE IS: Montreal North Branch boys' work to 1914; Charlottetown for a year; OVERSEAS WITH THE CANADIAN NATIONAL COUNCIL from about 1915; and Victoria by the 1918-19 volume. The war years are no longer a hole. AND HE IS IN COMPANY: the same run carries THOMAS H. MILLER -- the T. Hicks Miller who had charge of the Kanawana season in July 1915 -- along with A. W. FORGIE and C. T. SHARPE, both of whom appear elsewhere in this session's work. Forgie is in the run from the 1914-15 volume onward.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5308",
+      "category": "method",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Harold C. Cross",
+        "YMCA Year Book"
+      ],
+      "claim": "THE 'NAME THE LIST' RULE CAUGHT ONE OF MY OWN CLAIMS WITHIN MINUTES OF MY WRITING IT, AND THE CLAIM WAS THE STRONGEST NEGATIVE OF THE SESSION. f_5305 recorded that Harold C. Cross is on neither of the Year Book's war-service lists, controlled by the fact that those lists DO name Holliday and Hollinshead, and concluded that YMCA overseas service was UNLIKELY for him and that Canadian Expeditionary Force records were therefore the sharper instrument. THAT CONCLUSION IS WRONG. He was overseas with the Canadian YMCA from about 1915 (f_5307) -- listed not in either 'war service' list but under the role 'Overseas Representative' in the CANADA section's table of National Council secretaries, a THIRD list I had not searched and did not know existed. THE CONTROL WAS SOUND AND THE INFERENCE WAS NOT: two lists naming his colleagues does not make two lists exhaustive. WHAT ACTUALLY HID HIM WAS THE OCR: the entry is printed 'H.C.Cross' WITHOUT SPACES, so the exact phrases 'Cross, H. C.', 'Cross, Harold' and 'Harold C. Cross' all miss it, and only a loose single-word search for 'Cross' across the three volumes found it. This project has been caught by whitespace before -- rule 22, 'a multi-word grep returning zero may be a fact about the whitespace'. THE COMPOUND RULE: A NEGATIVE ABOUT A PERSON NEEDS A LOOSE SINGLE-TOKEN SEARCH BEFORE IT IS RECORDED, whatever exact forms have already been tried, because the exact forms all share the assumption that the source spaces names the way you do.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5309",
+      "category": "method",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "citation_aim",
+        "YMCA Year Book"
+      ],
+      "claim": "WRITING A LOT OF FACTS ABOUT ONE KIND OF DOCUMENT CAN BREAK CITATIONS IN ARTICLES YOU NEVER TOUCHED. scripts/verify/citation_aim.py decides whether a citing sentence shares anything DISTINCTIVE with the fact it cites, and it builds its stopword list BY DOCUMENT FREQUENCY ACROSS THE WHOLE KNOWLEDGE BASE: any word appearing in more than DF_CUTOFF of all facts stops counting as distinctive. Numbers are deliberately exempt; words are not. THIS SESSION WROTE TWENTY-ODD FACTS ABOUT THE YMCA YEAR BOOK, nearly every one of them saying 'volume' several times, AND 'VOLUME' CROSSED THE CUTOFF. Two citations in canoe-trips.md and camp-perrot.md -- 'A December-year volume, so its season is 1961 (see [f_5081])' -- had been passing on the shared word 'volume' alone, and both began failing the build. NEITHER ARTICLE WAS EDITED; the knowledge base moved under them. FIXED as the checker itself advises, by rewording the citing sentences to carry something the fact carries: 'A December year-end report, and the YMCA of Montreal's 31 December era runs its camping season inside the cover year'. THE GENERAL LESSON IS ABOUT THE TOOL AND WORTH KNOWING BEFORE IT BITES AGAIN: a corpus-frequency stopword list means the checker's standard TIGHTENS AS THE KB GROWS, and a heavy run of facts on one subject can silently demote that subject's vocabulary. A citation resting on ONE ordinary shared word is fragile by construction. Prefer a name, a year or a number in the citing sentence -- the same advice the checker prints, now with a mechanism behind it.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.13",
       "added_by": "ralph_loop"
     }
   ]

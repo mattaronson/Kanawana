@@ -66,11 +66,12 @@ years, Forgie's career and his 1927 departure from Canada.
 
 ## What was found, in order of weight
 
-**Harold C. Cross's career begins in Montreal, not Victoria.** His article asks in those words
-"where was he between 1912 and 1919?" He was the **North Branch's boys' worker** through the
-1911-12, 1912-13 and 1913-14 volumes and **General Secretary at Charlottetown** in 1914-15. The
-man who came back in the mid-1920s to direct Kanawana was returning to the association he began
-in.
+**Harold C. Cross's whole 1912-1919 gap is filled, and his career begins in Montreal.** His
+article asks in those words "where was he between 1912 and 1919?" He was the **North Branch's
+boys' worker** through the 1911-12, 1912-13 and 1913-14 volumes, **General Secretary at
+Charlottetown** in 1914-15, and then **Overseas Representative of the National Council of
+Canada** in the 1915-16 and 1916-17 volumes before Victoria. *That last one was found only after
+this session had twice written him up as absent* — see the corrections below.
 
 **W. J. Holliday is Captain William J. Holliday**, and his going is bracketed to between 12
 February and 1 June 1918 by two Canadian overseas lists a year apart. Every roster this project ever saw gave him as
@@ -120,10 +121,13 @@ job on two documents this project already cites.
   between two annual editions — a hypothesis, not a finding. The established consequence:
   **an annual roster cannot see a man who came and went inside one year**, so the branch boys'
   line built from this series is incomplete by at least him.
-- **Harold C. Cross is on neither war-service list**, though both name Holliday and Hollinshead —
-  so the lists reach Montreal in the right years. It makes YMCA overseas service unlikely for him
-  and says nothing about enlistment, which inverts the value of the CEF records: worth more for
-  Cross than for Holliday.
+- ~~**Harold C. Cross is on neither war-service list**, so YMCA overseas service is unlikely for
+  him.~~ **This was the strongest negative of the session and it was wrong.** The control was
+  sound — those lists do name Holliday and Hollinshead — but *two lists naming his colleagues does
+  not make two lists exhaustive*, and the **Overseas Representative** run in the Canada section is
+  a third list nobody here knew existed. He is in it for 1915-16 and 1916-17. What hid him was the
+  typesetting: the entry reads "**H.C.Cross**" with no spaces, so every exact-phrase form missed
+  it and only a loose single-token search found him.
 - **Open Library search-inside is the wrong instrument for a common name.** "Brooks, M. G.",
   "M. G. Brooks" and "Murray Brooks" return 934, 346 and 190 hits of noise.
 
@@ -163,6 +167,12 @@ same passage got written up twice, the second time as a discovery.
 source with.** Holliday's "overseas service" was in this repo the whole time. What the Year Book
 supplied was a two-year window that made the sentence findable.
 
+**37a. A negative about a person needs a loose single-token search before it is recorded**,
+however many exact forms have been tried — every exact form shares the assumption that the source
+spaces a name the way you do. "H.C.Cross" defeated three of them. *(This project already had
+rule 22, "a multi-word grep returning zero may be a fact about the whitespace." It cost a wrong
+conclusion anyway.)*
+
 **37. Name the list, never the volume.** *(Added after this handoff was first written, from an
 error made an hour later.)* One Year Book volume holds an alphabetical list of paid officers, a
 Directory of Associations, and in the war years several dated war-service lists under one running
@@ -172,6 +182,14 @@ searches **one list**. This session twice wrote "absent from the volume" when it
 from the alphabetical list of paid officers," and Holliday turned out to be in both volumes it
 had called him absent from. "Not in this list" is checkable; "not in the volume" is a claim about
 a dozen lists at once.
+
+**38. A citation resting on one ordinary shared word is fragile by construction.**
+`citation_aim` builds its stopword list **by document frequency across the whole KB**, so its
+standard tightens as the KB grows. This session wrote twenty-odd facts about the *Year Book*,
+nearly all saying "volume," and **"volume" crossed the cutoff** — which broke two citations in
+`canoe-trips.md` and `camp-perrot.md` that had been passing on that word alone. Neither article
+was edited; the knowledge base moved under them. Put a name, a year or a number in the citing
+sentence.
 
 ## Where to go next
 

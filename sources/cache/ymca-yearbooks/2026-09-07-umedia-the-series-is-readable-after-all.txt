@@ -652,3 +652,47 @@ THE RULE: NAME THE LIST, NEVER THE VOLUME. "He is not in the alphabetical list o
 is a statement that can be true and checked. "He is not in the volume" is a claim about a dozen
 lists at once and needs a dozen searches behind it. The same slip is what made the war-service
 key look missing in the eighth pass -- it was on a page the search form never reached.
+
+
+==========================================================================================
+TWELFTH PASS — RULE 37 CATCHES ITS AUTHOR, AND CROSS WENT OVERSEAS AFTER ALL
+==========================================================================================
+
+Within minutes of writing "name the list, never the volume", it overturned the session's
+strongest negative.
+
+THE CANADA SECTION carries a table headed "SECRETARIES OF THE NATIONAL COUNCIL", giving each man
+a role -- General Secretary, Boys' Work Secretary (TAYLOR STATTEN), Railroad Secretary -- and
+then a long run of names under the role "OVERSEAS REPRESENTATIVE", carried down by ditto marks.
+
+  1914-15 (rec 6209)   Forgie present. NO Cross -- he is General Secretary at Charlottetown.
+  1915-16 (rec 8972)   "... C. T. Sharpe / Elwood G. Duncan / Fred J. Smith /
+                        Frederick G. Mara / H.C.Cross / THOMAS H. MILLER / F. E. Wilson ..."
+  1916-17 (rec 3831)   "... James Clarke / H.C.Cross / H. H. Dennison / Elwood G. Duncan /
+                        George Stuart Easton / William Fingland / George W. Fisher /
+                        A. W. FORGIE ..."
+
+SO HAROLD C. CROSS WENT OVERSEAS WITH THE CANADIAN YMCA FROM ABOUT 1915, and the war years in his
+biography are no longer a hole. THOMAS H. MILLER -- who had charge of the Kanawana season in July
+1915 -- is in the same run, as is A. W. Forgie.
+
+WHY IT WAS MISSED, AND IT IS NOT THE SAME REASON AS LAST TIME.
+  - f_5305 recorded that Cross is on NEITHER war-service list, CONTROLLED by the fact that both
+    lists name Holliday and Hollinshead. THE CONTROL WAS SOUND. THE INFERENCE WAS NOT: two lists
+    naming his colleagues does not make two lists exhaustive. This is a third list.
+  - AND THE OCR HID HIM. The entry is printed "H.C.Cross" WITH NO SPACES. The exact phrases
+    "Cross, H. C.", "Cross, Harold" and "Harold C. Cross" ALL MISS IT. Only a loose single-word
+    search for "Cross" across the three volumes found him.
+  - This project already had rule 22 -- "a multi-word grep returning zero may be a fact about the
+    whitespace." It cost a wrong conclusion anyway.
+
+RULE 37a: A NEGATIVE ABOUT A PERSON NEEDS A LOOSE SINGLE-TOKEN SEARCH BEFORE IT IS RECORDED,
+however many exact forms have been tried. Every exact form shares the assumption that the source
+spaces a name the way you do.
+
+AND A TOOL EFFECT WORTH KNOWING, FOUND WHILE FIXING THIS. scripts/verify/citation_aim.py builds
+its stopword list BY DOCUMENT FREQUENCY ACROSS THE WHOLE KB. This session wrote twenty-odd facts
+about this series, nearly all of them saying "volume", and "VOLUME" CROSSED THE CUTOFF -- which
+broke two citations in canoe-trips.md and camp-perrot.md that had been passing on that one shared
+word. NEITHER ARTICLE WAS EDITED; the knowledge base moved under them. A citation resting on one
+ordinary shared word is fragile by construction. f_5309.
