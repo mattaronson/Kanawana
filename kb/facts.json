@@ -1,8 +1,8 @@
 {
-  "version": "9.92",
-  "kb_version": "9.92",
+  "version": "9.93",
+  "kb_version": "9.93",
   "migrated_from": "3.3",
-  "fact_count": 5471,
+  "fact_count": 5474,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -98663,6 +98663,59 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.92",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5510",
+      "category": "traditions",
+      "date_ref": "1935-07-20",
+      "entities": [
+        "Camp Kanawana",
+        "The Green Triangle"
+      ],
+      "claim": "THE CODE OF A GOOD SPORT, PRINTED IN 1935, AND THE 1932 ISSUE COMPLETES ITS LAST LINE. The Green Triangle's first sport section in July 1932 told campers to 'remember the TEN COMMANDMENTS OF A TRUE SPORT' and quoted only the last. The issue of 20 July 1935 prints the list: '1. THOU SHALT NOT QUIT. 2. THOU SHALT NOT ALIBI. 3. THOU SHALT NOT GLOAT OVER WINNING. 4. THOU SHALT NOT BE A ROTTEN LOSER. 5. THOU SHALT NOT TAKE UNFAIR ADVANTAGE. 6. HONOUR THE GAME THOU PLAYEST, for he who...' -- where the OCR fails, and the 1932 issue supplies the ending: 'playeth the game straight and hard, wins, though he looses'. ONLY SIX OF THE TEN SURVIVE. No other issue read so far reprints the list, so four are lost unless a page image turns up. THE CODE CAME TO CAMP ATTACHED TO A STORY, left with the editor by a Sunday visitor: LARRY SHIELDS, the Penn State miler, slowed at the anchor of a distance medley relay in Philadelphia to let a fallen Georgetown runner regain his feet, won the sprint, was disqualified anyway on the judges' view that he had caused the fall, and 'was hailed as a hero in spite of the fact that he lost'.",
+      "sources": [
+        "src_ymf_the_green_triangle_1935_07_20"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.93",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5511",
+      "category": "traditions",
+      "date_ref": "1935-07-27",
+      "entities": [
+        "Camp Kanawana",
+        "The Green Triangle"
+      ],
+      "claim": "THE BEST CAMPER SHIELD CHANGED HANDS IN 1935, FROM STAFF SELECTION TO A CAMPER VOTE. The Green Triangle of 27 July 1935: 'A NEW SYSTEM of arriving at a decision as to who deserved the awards WAS ADOPTED THIS YEAR. FORMERLY, CAMPERS WERE CHOSEN BY THEIR LEADERS AND SECTIONAL DIRECTOR ALONE; but this year EVERY CAMPER IN EVERY SECTION HAD A CHANCE TO VOTE for the boy whom he thought to be the best all round camper. Then [from] the TEN OR TWELVE BOYS WHO RECEIVED THE MOST VOTES the leaders and staff together chose the boys to receive the shields. Thus THIS YEAR THE SHIELD MEANS MORE THAN EVER BEFORE -- it carries with it the DOUBLE APPROVAL OF CAMPERS AND STAFF ALIKE.' wiki/traditions/traditions-and-culture.md lists Best Camper Shields among end-of-season traditions without saying how they were decided. This gives both the old method, the new two-stage one, the year of the change, and the camp's own argument for why it made the award worth more -- printed for the campers rather than recorded in a staff report. The July winners were Bob Bennet (Senior), John Kennedy and Bryce Chatam (Junior) and Junior Taylor (Juvenile).",
+      "sources": [
+        "src_ymf_the_green_triangle_1935_07_27"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.93",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5512",
+      "category": "site",
+      "date_ref": "1935-07",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Becsies",
+        "W. H. Spearman"
+      ],
+      "claim": "TWO SMALL THINGS FROM JULY 1935. A PHOTOGRAPHER SPENT THE WEEK AT CAMP: 'Mr. Fowle, photographer, who has done a great deal of work in all parts of Canada... is going to take a CLASS IN PHOTOGRAPHY and many pictures of the camp besides. Friday at noon HE TOOK A MASS PICTURE OF ALL CAMPERS, which has proven to be very successful and a print of which is NOW ON DISPLAY IN THE DINING HALL.' So a whole-camp photograph of 1935 was made and printed -- worth knowing for anyone working through the fonds' image holdings, which this project has 437 unread items of. AND BECSIES CAMPERS ATTENDED KANAWANA'S CHAPEL: on 21 July 1935, 'a very beautiful chapel service in the even more beautiful Chapel -- with MR. SPEARMAN delivering the address. OUR FRIENDS FROM BECIS WERE PRESENT WITH US, COMPLETELY FILLING THE CHAPEL.' Two things in one sentence: the two camps were close enough that one walked to the other's Sunday service in numbers enough to fill the building, which is a different relationship from the portages and trail references that make up most of the Becsies material; and W. H. Spearman, Camp Chief through 1934, came back in 1935 to preach under his successor.",
+      "sources": [
+        "src_ymf_the_green_triangle_1935_07_20",
+        "src_ymf_the_green_triangle_1935_07_27"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.93",
       "added_by": "ralph_loop"
     }
   ]

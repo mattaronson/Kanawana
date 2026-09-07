@@ -1,7 +1,7 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 48*
-*Last Updated: 2026-09-07 (internationalism 1932-1965, including a koinobori from Japan in 1935)*
+*Status: E1-reviewed | Sources: 49*
+*Last Updated: 2026-09-07 (the Code of a Good Sport, and the 1935 change to how the Best Camper Shield was decided)*
 
 ## Overview
 
@@ -220,6 +220,51 @@ list has a tie for first between two Junior tents, with entries named "**Toonerv
 "**Kanawana Prison**," and a Senior Camp entry called "**A Waiting Game**." The seniors' own entry is
 described only as one "we shan't tell you what it was — the matter is much too delicate; suffice it
 to say that a **House of Parliament** was removed from the hill."^48
+
+## The Code of a Good Sport
+
+The paper's very first sport section, in July 1932, told campers to "remember the **ten commandments
+of a True Sport**" and quoted only the last of them. Three years later the paper printed the list, and
+the two issues together give what a Kanawana boy was expected to have by heart.^49 As printed on 20
+July 1935, with the numbering as the scan has it:
+
+> 1. Thou shalt not quit.
+> 2. Thou shalt not alibi.
+> 3. Thou shalt not gloat over winning.
+> 4. Thou shalt not be a rotten loser.
+> 5. Thou shalt not take unfair advantage.
+> 6. Honour the game thou playest, for he who [playeth the game straight and hard, wins, though he
+>    loses] —
+
+The sixth breaks off where the OCR fails; the bracketed completion is the 1932 issue's own wording of
+the same line. **Only six of the ten survive**, and no other issue read so far reprints the list, so
+four are lost unless a page image turns up. The code arrived at camp attached to a story: a visitor
+left with the editor an account of **Larry Shields**, the Penn State miler, who slowed at the anchor
+of a distance medley relay in Philadelphia to let a fallen Georgetown runner regain his feet, won the
+sprint, was disqualified anyway, and was "hailed as a hero in spite of the fact that he lost."
+
+## How the Best Camper Shield was decided, and the year it changed
+
+The Shields are listed among this article's end-of-season traditions. *The Green Triangle* of 27 July
+1935 records both the method and a deliberate change to it:^49
+
+> A new system of arriving at a decision as to who deserved the awards was adopted this year.
+> **Formerly, campers were chosen by their leaders and sectional director alone**; but this year
+> **every camper in every section had a chance to vote** for the boy whom he thought to be the best
+> all round camper. Then [from] the ten or twelve boys who received the most votes the leaders and
+> staff together chose the boys to receive the shields. Thus **this year the shield means more than
+> ever before** — it carries with it the **double approval of campers and staff alike**.
+
+A two-stage method — open nomination by the whole section, final selection by staff — introduced in
+1935 and explained to the campers in their own paper, with an argument for why it made the award worth
+more. The July winners were Bob Bennet (Senior), John Kennedy and Bryce Chatam (Junior) and Junior
+Taylor (Juvenile).
+
+**Two smaller things from the same fortnight.** A photographer, **Mr. Fowle**, spent the week at camp
+teaching a photography class and on the Friday "took a **mass picture of all Campers**," printed and
+displayed in the dining hall — so a whole-camp photograph of 1935 was made, which is worth knowing for
+anyone working through the fonds' image holdings. And **Mr. Spearman**, Camp Chief through 1934,
+returned in 1935 to deliver the chapel address under his successor.
 
 ## L&V Games
 
@@ -531,3 +576,4 @@ Kanawana."^40 Whether either was ever held again is not known here.
 46. *The Green Triangle*, Vol. II Nos. 4 and 5, **29 July** and **5 August 1933** [src_ymf_the_green_triangle_1933_07_29, src_ymf_the_green_triangle_1933_08_05]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 47. *The Green Triangle*, **12 August 1933** and Vol. IV No. 2, **30 June 1935** [src_ymf_the_green_triangle_1933_08_12, src_ymf_the_green_triangle_1935_06_30]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 48. *The Green Triangle*, Vol. IV Nos. 3 and 4, **6** and **13 July 1935** [src_ymf_the_green_triangle_1935_07_06, src_ymf_the_green_triangle_1935_07_13]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+49. *The Green Triangle*, Vol. IV Nos. 5 and 6, **20** and **27 July 1935** [src_ymf_the_green_triangle_1935_07_20, src_ymf_the_green_triangle_1935_07_27]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.

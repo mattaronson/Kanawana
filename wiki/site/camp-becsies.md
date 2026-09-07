@@ -1,7 +1,7 @@
 # Camp Becsies
 
-*Status: E1-reviewed | Sources: 13*
-*Last Updated: 2026-09-06 (the founding decision, dated 1928 and reasoned)*
+*Status: E1-reviewed | Sources: 14*
+*Last Updated: 2026-09-07 (Becsies campers filling Kanawana's chapel in 1935)*
 
 ## Overview
 
@@ -82,6 +82,13 @@ Following the end of Camp Becsies records in 1971, the lake was developed as a r
 
 The camp's records are held at Concordia University Archives as sub-series P0145/12D within the YMCA of Montreal fonds. The collection comprises 3 cm of textual records spanning both operational periods (1929-1936 and 1960-1971).^2 Camp Becsies is one of several YMCA Montreal camps documented in the fonds alongside Camp Kanawana (12B), Camp Otoreke (12C), Camp Dorval (12E), Camp Weredale (12F), and Camp Perrot (12G).^2
 
+**Becsies campers attended Kanawana's chapel.** *The Green Triangle* of 27 July 1935, on that Sunday's
+service: "Last Sunday we again held a very beautiful chapel service in the even more beautiful Chapel —
+with Mr. Spearman delivering the address. **Our friends from Becis were present with us, completely
+filling the chapel.**"^14 The two camps were close enough that one walked to the other's Sunday
+service in numbers large enough to fill the building, which is a different kind of relationship from
+the canoe portages and hiking-trail references that make up most of the Becsies material here.
+
 ## Open Questions
 
 1. [Important, narrowed 2026-07-09] Why did Camp Becsies close after 1936 and not resume operations until 1960? A comprehensive 21-year annual-report check (1938-1962) confirms the end-date and rules out visible Kanawana-side financial distress as the cause (Kanawana had record attendance the very next season), but the actual reason remains undocumented online -- likely requires a physical Concordia Archives visit or Protestant Orphans'/Ladies' Benevolent Society records.
@@ -116,3 +123,4 @@ The camp's records are held at Concordia University Archives as sub-series P0145
 11. YMCA of Montreal, 78th Annual Report, for the year ending 31 March 1929 [src_ymf_sgw_ymca_annual_report_1929] — so its camping season is the summer of **1928** (see [f_5039]). Read for its camps section 2026-09-06 under p_441. See [f_5065] and [f_5066].
 12. YMCA of Montreal annual reports for the years ending 31 March **1930, 1934, 1935 and 1936** [src_cache_sgw_ymca_annual_report_1930, src_cache_sgw_ymca_annual_report_1934, src_cache_sgw_ymca_annual_report_1935, src_cache_sgw_ymca_annual_report_1936] — camping seasons 1929, 1933, 1934 and 1935. Camps sections read 2026-09-06 under p_441. See [f_5070]. **Note the spelling**: these volumes write the lake *Becscies*, which a grep for *Becsies* does not find.
 13. YMCA of Montreal, **113th Annual Report**, for the year ended **31 May 1965** [src_ymf_sgw_ymca_annual_report_1964] — camping section, "Family Camping." Its camping season is the summer of 1964 (see [f_5090]). Read 2026-09-06 under p_441. See [f_5094].
+14. *The Green Triangle*, Vol. IV Nos. 5 and 6, **20** and **27 July 1935** [src_ymf_the_green_triangle_1935_07_20, src_ymf_the_green_triangle_1935_07_27]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.

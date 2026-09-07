@@ -3373,7 +3373,9 @@
         "src_ymf_the_green_triangle_1933_08_12",
         "src_ymf_the_green_triangle_1935_06_30",
         "src_ymf_the_green_triangle_1935_07_06",
-        "src_ymf_the_green_triangle_1935_07_13"
+        "src_ymf_the_green_triangle_1935_07_13",
+        "src_ymf_the_green_triangle_1935_07_20",
+        "src_ymf_the_green_triangle_1935_07_27"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -3392,7 +3394,7 @@
         "traditions/knights-of-kanawana"
       ],
       "file_id": null,
-      "word_count": 9900,
+      "word_count": 10458,
       "notes": "E1 REVIEW (2026-02-19): Fixed non-existent src_concordia_12B04 in header (removed; src_concordia_atom_12B04 already present). Fixed '131-year history' ambiguity to 'more than 130 years'. All claims cited, dates consistent, names cross-checked, tone encyclopedic. | 2026-08-14: cross-linked to the new traditions/order-of-owens.md. | 2026-08-14: NEW prose section on the Order of the Knights of Kanawana, giving the proclamation text and the six challenges for knighthood (previously the KB held the oath and the 1980-2009 roll but not the criteria). NOTE: this article is E1-reviewed and has received substantive new content; warrants a re-REVIEW pass. | 2026-08-14 (2nd pass): charter mined further -- A/B/C skill-grading system across named activities (f_2004), 'Kamp' spelling in challenge 5 corroborating the pre-2005 usage (f_2005), and the birchbark medium/composition (f_2006).",
       "tags": {
         "era": [
@@ -7625,7 +7627,9 @@
         "src_cache_sgw_ymca_annual_report_1934",
         "src_cache_sgw_ymca_annual_report_1935",
         "src_cache_sgw_ymca_annual_report_1936",
-        "src_ymf_sgw_ymca_annual_report_1964"
+        "src_ymf_sgw_ymca_annual_report_1964",
+        "src_ymf_the_green_triangle_1935_07_20",
+        "src_ymf_the_green_triangle_1935_07_27"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -7634,7 +7638,7 @@
         "quebec-camp-landscape"
       ],
       "file_id": null,
-      "word_count": 2441,
+      "word_count": 2564,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, softened a dated bold-label marker in prose. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
