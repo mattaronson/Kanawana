@@ -19875,6 +19875,24 @@
       "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
     },
     {
+      "source_id": "src_ymf_sgw_ymca_annual_report_1996",
+      "type": "report",
+      "title": "Sgw ymca annual report 1996 — \"1996 Annual Report\"",
+      "date": "1996",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/sgw-ymca-annual-report-1996",
+      "cache_path": "sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-1996.txt",
+      "char_count": 35654,
+      "ingested_at": "2026-09-05T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v11.03",
+      "reliability": "secondary",
+      "notes": "REGISTERED 2026-09-07 under p_259. The file had been on disk since 2026-09-05 under no source record at all, which is the same defect f_5713 records one level up: the material was reachable and nothing pointed at it. Its Senior Management section names 'Hoad, Joanna (Director; Kamp Kanawana)', one of the six volumes that document a directorship this project had been calling uncorroborated (f_5717).",
+      "read_state": "partial",
+      "read_state_basis": "2026-09-07 under p_259: the Senior Management roster read for the Kanawana director. THE REST OF THE VOLUME IS NOT READ."
+    },
+    {
       "source_id": "src_ymf_sgw_ymca_annual_report_1997",
       "type": "report",
       "title": "Sgw ymca annual report 1997 — \"1997 Annual Report\"",
@@ -29605,5 +29623,5 @@
       "notes": "Not an external source. A measurement run against this repo: fact-id citation coverage across all wiki articles, plus a 30-fact probe sample testing whether uncited content is present under a numbered source note. Method and caveats are in f_5693 and in logs/pipeline.log."
     }
   ],
-  "source_count": 1758
+  "source_count": 1759
 }

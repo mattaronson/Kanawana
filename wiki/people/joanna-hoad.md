@@ -1,13 +1,35 @@
 # Joanna A.A. Hoad
 
-*Status: E1-reviewed | Sources: 3*
-*Last Updated: 2026-09-06 (E1 REVIEW pass, p_219)*
+*Status: E1-reviewed | Sources: 4*
+*Last Updated: 2026-09-07 (the appointment documented, and the first woman to run the camp)*
 
 ## Overview
 
 Joanna A.A. Hoad served as the on-site Director of Camp Kanawana from 1995 to 2000, under year-round Executive Director Arleen Boyer, in the two-tier leadership structure the camp adopted that year. Her name was twice misrecorded in this wiki before being corrected to "Joanna A.A. Hoad" — first as "Joanna Hode," then as "Johanna A.A. Hoade" — and for months after the correction, extensive web research found no independent trace of her at all. That changed once the operator recalled she had gone on to work at Lower Canada College (LCC), a Montreal private school, after leaving Kanawana: LCC's own Wayback-archived staff records confirm her identity precisely, including the "A.A." middle initials, and place her there as Director of Community Programs beginning in 2000, the same year her Kanawana directorship ended.
 
 ## Kanawana Service (1995–2000)
+
+**The camp's own association announced her appointment, and this article said for months that nothing had.**
+Until 2026-09-07 the wiki recorded her Kanawana tenure as resting on oral history alone, "not independently
+corroborated by any source found." It is in six of the YMCA of Montreal's annual reports, all of them cached
+in this project throughout. The 1995 volume:^4
+
+> "In March 1995, **Ms. Joanna Hoad was named Kamp Director**. Joanna is the **first female director in the
+> over 100 year history of the Kamp**. Under her leadership, the Kamp had a very successful 1995 summer
+> season. Camper registration and the return rate continued to be among the highest in the country."
+
+So the appointment has a month, and **she was the first woman to run the camp** — a fact this wiki did not
+hold anywhere. The association's Senior Management rosters then carry her for five more volumes: "Hoad,
+Joanna (Director; Kamp Kanawana)" in 1996 and 1997, "(Director, Kamp Kanawana)" in 1998, and "Hoad, Joanna /
+Director / Kamp Kanawana" in 1998–99 and 1999–2000.^4 The roster for 2000–2001 gives "White, Gary /
+Director, Kamp Kanawana" in her place, which dates the other end. [f_5717]
+
+*How it was missed is worth stating, and it is worse than nobody looking.* **The 1995 report was read.**
+[[people/bruce-netherwood|Bruce Netherwood]]'s article cites it and takes his 1989–1994 span from it. The
+Netherwood sentence is the *second* paragraph of that report's Kanawana section; the announcement above is
+the first. A passage was opened for one name, the name was taken, and the paragraph above it went unread.
+Two research passes then searched nine or more surfaces for Joanna Hoad and concluded nothing corroborated
+her, while the corroboration sat one paragraph above a sentence this project had already quoted.
 
 Hoad held the on-site Director role — colloquially "Chief" at the time — for Kanawana's full three-season summer operation each year from 1995 to 2000, reporting to Executive Director Arleen Boyer in a two-tier structure that split the camp's leadership into a year-round administrative role and a summer-only operational one.^1 This account comes from operator oral history; despite a formal-RALPH research pass (2026-07-05, 13+ queries) and a further direct-fetch pass once network access was restored (2026-07-07, 18 WebSearch queries plus 12 direct fetches across 9 surfaces, including a final check under the corrected spelling), no source specific to her Kanawana tenure has been found — the camp's own surviving records for this period (YMCA Quebec's website, the Concordia University Archives finding aids for the YMCA of Montreal fonds) simply don't cover 1995-2000 staffing at that level of detail.
 
@@ -44,6 +66,7 @@ The "jaahoad" email prefix independently confirms the "A.A." middle initials aga
 1. Oral history, Matt Aronson (2026-07-05, name-spelling corrected 2026-07-07).
 2. Lower Canada College internal staff phone list, archived 2001-02-21. [Wayback Machine](https://web.archive.org/web/20010221151029/http://www.lcc.ca:80/Faculty/Phonelist.asp)
 3. Lower Canada College staff directory profile for Joanna Hoad, archived 2001-04-29. [Wayback Machine](https://web.archive.org/web/20010429094053/http://www.lcc.ca:80/lccscripts/SDDisp.asp?ID=jhoad)
+4. YMCA of Montreal annual reports for **1995**, **1996**, **1997**, **1998**, **1998–99**, **1999–2000** and **2000–2001** [src_ymf_sgw_ymca_annual_report_1995, src_ymf_sgw_ymca_annual_report_1996, src_ymf_sgw_ymca_annual_report_1997, src_ymf_sgw_ymca_annual_report_1998, src_ymf_sgw_ymca_annual_report_1998_1999, src_ymf_sgw_ymca_annual_report_1999_2000, src_ymf_sgw_ymca_annual_report_2000_2001] — the 1995 volume's Kamp Kanawana passage and the Senior Management roster in each of the others. All cached under `sources/cache/ymca-montreal-fonds/`; read 2026-09-07 under `p_259`. The 1996 volume had been on disk since 2026-09-05 **under no source record at all** and was registered the same day. See [f_5717].
 
 ### R1 Research Notes
 

@@ -21,7 +21,7 @@ Liberal Ontario MPP for Ottawa Centre (1987–90, 1995–2007) with an extensive
 
 ### Bruce Netherwood (Pip Award 2011)
 
-Directed Camp Kanawana 1988–1994, succeeding his brother Jay Netherwood; later VP Camping & Social Responsibility, South Shore YMCA, Massachusetts. See [[people/bruce-netherwood|Bruce Netherwood]] for full biography.
+Directed Camp Kanawana **1989–1994**, succeeding his brother Jay Netherwood; later VP Camping & Social Responsibility, South Shore YMCA, Massachusetts. See [[people/bruce-netherwood|Bruce Netherwood]] for full biography.
 
 ### John Cleghorn (Pip Award 2012)
 

@@ -139,14 +139,18 @@ Desjardins pavilion.
 YMCA's own files: **Dave Twynam** is last confirmed in April 1981; **Peter Gilling Goddard** (1953 to
 2016) signs a camp newsletter as Director in November 1982 and appears in national camping association
 papers as a Quebec representative through 1986; **Jay Netherwood** in 1986 and 1987; **Bruce Netherwood**
-from 1988 through the 1994 centennial; **Joanna Hoad** around 1995 to 2000, spelling uncertain;
+from 1988 through the 1994 centennial; **Joanna Hoad** from March 1995, the first woman to hold the job, through 1999–2000;
 **Nicolas Garcia** from 2009; **Sean Day** through to 2023; **Marie-Pierre Lacasse** as Executive Camp
 Director from 2024; **Kate Taylor** as camp director.
 
 1. Who was director in each year you were there, and which section directors and staff stand out?
 2. What years were you at camp, as camper and as staff?
 3. Names from lore, before your time: any of Twynam, Goddard, either Netherwood, Hoad, Hanagan, Sawyer?
-4. **Joanna Hoad, Hode, Houde or another spelling?**
+4. ~~Joanna Hoad, Hode, Houde or another spelling?~~ **Answered from documents on 2026-09-07 and left here
+   so you know it is closed.** The association's own annual reports name her, and the 1995 volume announces
+   the appointment: "In March 1995, Ms. Joanna Hoad was named Kamp Director. Joanna is the first female
+   director in the over 100 year history of the Kamp." What is still worth having from you is what she was
+   like to work for, and whether the camp made anything of her being the first woman in the job.
 5. Two people are recorded holding the single on-site Director role for 2013 into early 2014. Do you know
    how that worked, or who was actually running camp?
 6. Sean Day: what did he start, what did he change?

@@ -1,8 +1,8 @@
 {
-  "version": "11.02",
-  "kb_version": "11.02",
+  "version": "11.03",
+  "kb_version": "11.03",
   "migrated_from": "3.3",
-  "fact_count": 5678,
+  "fact_count": 5679,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102410,6 +102410,31 @@
       "date_ref": "2026-09-07",
       "conflicts_with": [],
       "added_version": "11.02",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5717",
+      "claim": "JOANNA HOAD'S KANAWANA DIRECTORSHIP IS DOCUMENTED IN SIX OF THE ASSOCIATION'S OWN ANNUAL REPORTS, AND THIS PROJECT HAS SAID FOR MONTHS THAT NOTHING CORROBORATED IT. directors-index.md: 'Her Kanawana tenure itself is not independently corroborated by any source found (TWO FULL RESEARCH PASSES ACROSS 9+ SURFACES).' plaque-culture.md: 'Hoad's Kanawana tenure is the one span in the directors index that NO DOCUMENT HAS EVER CORROBORATED.' Both are wrong, and the documents have been cached in this project throughout. THE 1995 REPORT ANNOUNCES HER APPOINTMENT AND SAYS SOMETHING NOBODY HERE HAD RECORDED: 'In March 1995, Ms. Joanna Hoad was named Kamp Director. JOANNA IS THE FIRST FEMALE DIRECTOR IN THE OVER 100 YEAR HISTORY OF THE KAMP. Under her leadership, the Kamp had a very successful 1995 summer season. Camper registration and the return rate continued to be among the highest in the country.' THE SENIOR MANAGEMENT ROSTERS THEN CARRY HER FOR FIVE MORE VOLUMES: 'Hoad, Joanna (Director; Kamp Kanawana)' in 1996 and 1997, 'Hoad, Joanna (Director, Kamp Kanawana)' in 1998, and 'Hoad, Joanna / Director / Kamp Kanawana' in 1998-99 and 1999-2000. THE SAME ROSTER DATES THE END: the report for 2000-2001 gives 'White, Gary / Director, Kamp Kanawana'. So her tenure runs March 1995 to some point before the 2000-01 volume, which is the span this wiki already carried from oral history, now with both ends in the association's own print. AND IT MOVES GARY WHITE BACK A YEAR: gary-white.md dates his directorship to fiscal 2001-2002 'per the Montreal YMCA's own annual report'; the 2000-2001 volume already names him. THE SAME 1995 PASSAGE SETTLES THE MAN BEFORE HER, TWICE OVER: 'Bruce Netherwood, who served as Kamp Director FROM 1989 TO 1994, moved to Cape Cod where he is the Director of Camping Services of the South Shore YMCA in Qunicy, Massachusetts.' That is a second document for the 1989-1994 span this project corrected to on 2026-09-07, and it is the only source here for where he went. (The scan's 'Qunicy' is Quincy, Massachusetts, where the South Shore YMCA is; 'Cape Cod' and Quincy are eighty kilometres apart and the report gives both, which is the association writing loosely rather than two places.) HOW IT WAS MISSED IS SHARPER THAN 'NOBODY LOOKED', AND WORSE. THE 1995 REPORT WAS READ. bruce-netherwood.md cites it as its source 12 and takes the 1989-1994 span from it, correcting that article's own dates on 2026-09-07. The Netherwood sentence is the SECOND paragraph of the report's Kanawana section. The Hoad announcement is the FIRST. So this is not an unread document but THE SENTENCE NEXT DOOR, the habit this project named weeks ago and keeps paying for: a passage was opened for one name, the name was taken, and the paragraph above it was not read. Two research passes then went looking for Joanna Hoad across nine or more surfaces -- the open web, genealogy, obituary databases, school records -- and concluded that nothing corroborated her, while the corroboration sat one paragraph above a sentence this project had already quoted. WHAT IS GENUINELY NEW HERE IS THE HOAD MATERIAL AND THE 1996-2000 ROSTERS. Netherwood's destination is already documented in his own article from the YMCA Directory and the South Shore YMCA's own page, and the 1995 report's 'Cape Cod... Quincy' adds nothing to it except the association's looseness about which town.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1995",
+        "src_ymf_sgw_ymca_annual_report_1996",
+        "src_ymf_sgw_ymca_annual_report_1997",
+        "src_ymf_sgw_ymca_annual_report_1998",
+        "src_ymf_sgw_ymca_annual_report_1998_1999",
+        "src_ymf_sgw_ymca_annual_report_1999_2000",
+        "src_ymf_sgw_ymca_annual_report_2000_2001"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Joanna A.A. Hoad",
+        "Bruce Netherwood",
+        "Gary White",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1995-2001",
+      "conflicts_with": [],
+      "added_version": "11.03",
       "added_by": "ralph_loop"
     }
   ]
