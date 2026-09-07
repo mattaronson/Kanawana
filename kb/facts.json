@@ -1,8 +1,8 @@
 {
-  "version": "10.76",
-  "kb_version": "10.76",
+  "version": "10.77",
+  "kb_version": "10.77",
   "migrated_from": "3.3",
-  "fact_count": 5644,
+  "fact_count": 5645,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101560,7 +101560,7 @@
     },
     {
       "fact_id": "f_5672",
-      "claim": "THE RIDING PROGRAMME AT ITS FULLEST, AND THE RECOMMENDATION TO END IT. The wiki records horses arriving with the girls -- a 1969 press release saying 'In 1968 it was girls and horses' -- and records nothing about how the programme ran or when it stopped. The 1971 director's report gives both. HOW IT RAN: 'The program went extremely well this summer with trail riding, lunch rides and overnight trips. SPECIAL STALLS WERE BUILT AT TWO LOCATIONS ON CAMP PROPERTY so the horses could be used for overnight rides. Most of the Campers received sufficient riding time and many \"horsemanship\" awards were presented to proud campers.' It was not only riding: 'Actual grooming, preparing and understanding of horses was included in the riding program.' Campers volunteered their own time at the stables. Julien Tasse put the stables 'in excellent condition' during pre-camp. WHAT WENT WRONG WAS LOGISTICS, NOT THE PROGRAMME: 'communications proved to be a problem here due to (a) THE DISTANCE OF THE STABLES TO THE CAMP and (b) the uncertainty as to who was on staff or helping at the stables.' THE RECOMMENDATION: 'That the riding program be discontinued as a part of Kanawana program. It may be re-considered as one particular program separate from all others for those whose interests move in that direction. IT IS AN EXPENSIVE (too expensive) PROGRAM FOR KANAWANA AT THE PRESENT TIME.' This is a recommendation and not a record of closure; whether the horses came back is not established here. Note the parenthesis -- the director wrote 'expensive', then added '(too expensive)' as if correcting himself on the page.",
+      "claim": "THE RIDING PROGRAMME AT ITS FULLEST, AND THE RECOMMENDATION TO END IT. The wiki records horses arriving with the girls -- a 1969 press release saying 'In 1968 it was girls and horses' -- and records nothing about how the programme ran or when it stopped. The 1971 director's report gives both. HOW IT RAN: 'The program went extremely well this summer with trail riding, lunch rides and overnight trips. SPECIAL STALLS WERE BUILT AT TWO LOCATIONS ON CAMP PROPERTY so the horses could be used for overnight rides. Most of the Campers received sufficient riding time and many \"horsemanship\" awards were presented to proud campers.' It was not only riding: 'Actual grooming, preparing and understanding of horses was included in the riding program.' Campers volunteered their own time at the stables. Julien Tasse put the stables 'in excellent condition' during pre-camp. WHAT WENT WRONG WAS LOGISTICS, NOT THE PROGRAMME: 'communications proved to be a problem here due to (a) THE DISTANCE OF THE STABLES TO THE CAMP and (b) the uncertainty as to who was on staff or helping at the stables.' THE RECOMMENDATION: 'That the riding program be discontinued as a part of Kanawana program. It may be re-considered as one particular program separate from all others for those whose interests move in that direction. IT IS AN EXPENSIVE (too expensive) PROGRAM FOR KANAWANA AT THE PRESENT TIME.' This is a recommendation and not a record of closure; whether the horses came back is not established here. Note the parenthesis -- the director wrote 'expensive', then added '(too expensive)' as if correcting himself on the page. || [CORRECTED AND EXTENDED 2026-09-07, on finishing the 1970 report.] THE 1971 RECOMMENDATION WAS THE SECOND, NOT THE FIRST, AND THE PROGRAMME RAN ANYWAY. The 1970 annual report's recommendations for Camp '71, under Program, say plainly: 'c) HORSEBACK RIDING - CANCEL THIS PROGRAM FOR CAMP \\'71.' It ran in 1971 regardless -- the 1971 report describes trail rides, lunch rides, overnight trips, stalls built at two locations and horsemanship awards, says 'the program went extremely well this summer', and then recommends discontinuing it again. SO A DECISION WAS TAKEN, IGNORED, AND RETAKEN. That is the same shape as a pattern already documented in this project from forty-nine years earlier: the association's directors resolved not to open Camp Otoreke in 1922 and it operated for three weeks with 36 campers, with neither report acknowledging the other. Recording the 1971 recommendation on its own made it look like a fresh judgement; it was a second attempt. The error was mine and came from writing up the 1971 report's riding section without having read the 1970 report's recommendations, which is the fourth time today that reading one document ahead would have changed what was written.",
       "sources": [
         "src_ia_kanawana_report_1971"
       ],
@@ -101752,6 +101752,24 @@
       "date_ref": "1977",
       "conflicts_with": [],
       "added_version": "10.76",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5683",
+      "claim": "THE 1970 REPORT PROPOSES FIXES FOR THE CYSTIC FIBRosis PARTNERSHIP IT HAD JUST CRITICISED, AND WOULD HAVE ENDED VISITORS' DAYS. f_5676 records the camp's first C.F. season and its blunt complaint that relations with the C.F. Association were 'shaky', with 'no clearing house' and everyone doing 'pretty well what they wanted when they wanted'. THE SAME REPORT'S RECOMMENDATIONS SECTION SAYS WHAT SHOULD REPLACE IT, and the proposals are specific rather than a grievance: 'Our contact with the Cystic Fibrosis Association be continued next year' -- so the camp wanted the children back -- with 'their THERAPISTS BECOME PART OF OUR STAFF AND ARE SUPERVISED BY US'; 'the PARENTS from this group attend a SPECIAL MEETING to discuss camp and its programs along with any concerns that they have'; and 'the length of their stay at camp be TWO WEEKS AT A TIME'. Read against the season narrative, each fix answers something the narrative named: the unsupervised outside staff, the parents the report blamed for the children's homesickness, and the four children for whom a month proved too long. A SEPARATE RECOMMENDATION IN THE SAME LIST WOULD HAVE ENDED A LONG-STANDING CAMP FIXTURE: 'That we DISCONTINUE VISITORS DAYS during camp for parents and friends.' Whether either was adopted is not established here. The report is signed 'James H. Turner, Camp Director', so this whole appendix is Turner's and belongs with his article.",
+      "sources": [
+        "src_ia_kanawana_report_1970"
+      ],
+      "confidence": "stated",
+      "category": "programming",
+      "entities": [
+        "Kamp Kanawana",
+        "James H. Turner",
+        "Canadian Cystic Fibrosis Association"
+      ],
+      "date_ref": "1970",
+      "conflicts_with": [],
+      "added_version": "10.77",
       "added_by": "ralph_loop"
     }
   ]

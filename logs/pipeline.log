@@ -7600,3 +7600,21 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   MECHANICAL NOTE: my "Sources: 34" replace failed silently because add_source_note.py had already bumped the header to 35, and the
   no-assert replace hid it. verify_harness caught the mismatch. Assert on every header edit, not just the prose ones.
   KB v10.75 -> v10.76, 5,642 -> 5,644.
+2026-09-07T20:05:37Z  p_491  ATOMIC UNIT: finishing the 1970 report corrected my own riding unit from two hours ago.
+  THE 1970 REPORT ALREADY SAID CANCEL IT. Its recommendations for Camp '71, under Program: "c) HORSEBACK RIDING - CANCEL THIS PROGRAM FOR
+  CAMP '71." I wrote up the 1971 report's discontinuation recommendation as though it were the first. IT WAS THE SECOND, AND THE PROGRAMME
+  RAN IN 1971 ANYWAY -- the 1971 report describes trail rides, lunch rides, overnight trips, stalls built at two locations, horsemanship
+  awards, calls the season a good one, and recommends discontinuing it again.
+  A DECISION TAKEN, IGNORED, AND RETAKEN. Same shape as a pattern this project already documents from forty-nine years earlier: the
+  directors resolved not to open Camp Otoreke in 1922 and it ran three weeks with 36 campers, with neither report acknowledging the other.
+  Corrected in place in f_5672 and in programs-activities.md, superseded reading kept.
+  FOURTH TIME TODAY that reading one document ahead would have changed what was written. The pattern is now specific enough to name: I read
+  the document that mentions the thing, not the document that DECIDES about the thing. Recommendations live in the report BEFORE the one
+  that describes the consequence.
+  ALSO FROM THE SAME LIST (f_5683): the report proposes FIXES for the C.F. partnership it had just called shaky, and they are specific --
+  contact "be continued next year" (the camp wanted the children back), "their THERAPISTS BECOME PART OF OUR STAFF AND ARE SUPERVISED BY
+  US", the PARENTS to attend a special meeting, stays limited to TWO WEEKS AT A TIME. Each answers something the season narrative named:
+  unsupervised outside staff, the parents the report blamed for homesickness, and the four children for whom a month was too long.
+  AND: "That we DISCONTINUE VISITORS DAYS during camp for parents and friends." Adoption not established for any of it.
+  Appendix signed "James H. Turner, Camp Director", so the whole of it is Turner's.
+  KB v10.76 -> v10.77, 5,644 -> 5,645.

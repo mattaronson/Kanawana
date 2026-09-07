@@ -493,6 +493,29 @@ Note the parenthesis — the director wrote "expensive" and then corrected himse
 recommendation, not a record of closure**, and whether the horses came back is not established here.^kk71
 [f_5672]
 
+*(Corrected 2026-09-07, on finishing the 1970 report.* **That was the second such recommendation, not the
+first, and the programme ran anyway.** *The 1970 report's recommendations for Camp '71 say plainly:
+"**c) Horseback Riding — cancel this program for camp '71.**"^kk70 It ran in 1971 regardless — the 1971
+report describes trail rides, overnight trips, stalls at two locations and horsemanship awards, calls the
+season a good one, and then recommends discontinuing it again.* **A decision taken, ignored, and
+retaken.** *That is the same shape as a pattern this wiki already documents from forty-nine years
+earlier: the association's directors resolved not to open [[site/camp-otoreke|Camp Otoreke]] in 1922, and
+it operated for three weeks with 36 campers, with neither report acknowledging the other. Writing up the
+1971 recommendation alone made it look like a fresh judgement.)*
+
+**And the report proposes fixes for the cystic fibrosis partnership it had just criticised.** The same
+recommendations list is specific rather than aggrieved: "Our contact with the Cystic Fibrosis Association
+**be continued next year**" — so the camp wanted the children back — with "their **therapists become part
+of our staff and are supervised by us**"; "the **parents** from this group attend a **special meeting** to
+discuss camp and its programs along with any concerns that they have"; and "the length of their stay at
+camp be **two weeks at a time**". Each answers something the season narrative named: the unsupervised
+outside staff, the parents the report blamed for the children's homesickness, and the four children for
+whom a month proved too long.
+
+A separate line in the same list would have ended a long-standing fixture: "That we **discontinue
+visitors days** during camp for parents and friends." Whether either was adopted is not established
+here.^kk70 [f_5683]
+
 **The French-language thread of these years is at [[traditions/french-language-camping|French-Language Camping and Kanawana, 1967-1973]].** Kanawana ran a residential French immersion section for English-speaking boys aged 12 to 16 in 1969, called "Living-in-French", and it was one branch of a Montreal YMCA programme that had been running French-language day camps for immigrant children since 1967. That article carries the two 1969 press releases, the day camps' proposal and season report, and the Mile End West submission of January 1971.
 
 **Staffing and the rest of the programme.** "In addition to section directors, supervisors, a diversified team of activity specialists, a resident doctor and nurse, and a **dietician** — Kanawana's staff includes **one counsellor for every seven campers**."^nr69 The seven-camper unit of the 1955 and 1958 reports was still the unit fourteen years later. The activity list adds two items new to this article: "horseback riding; swimming; canoeing; rowing; sailing; arts & crafts; **skin diving**; naturelore; archery; **riflery**; hiking; sports instruction."
