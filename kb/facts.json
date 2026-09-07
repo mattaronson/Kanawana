@@ -1,8 +1,8 @@
 {
-  "version": "10.83",
-  "kb_version": "10.83",
+  "version": "10.84",
+  "kb_version": "10.84",
   "migrated_from": "3.3",
-  "fact_count": 5651,
+  "fact_count": 5652,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101873,6 +101873,29 @@
       "date_ref": "1960-1967",
       "conflicts_with": [],
       "added_version": "10.83",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5690",
+      "claim": "THE SECTION STRUCTURE OF KANAWANA IS NOW VERIFIED YEAR BY YEAR, 1960 TO 1978, BY RESIDUAL RATHER THAN BY READING. Following the Rangers correction (f_5689), the same test was run across every year the ten year summary covers. For each season, the printed section rows are summed and compared with that year's printed camper-week total; a residual of zero means no further section carried campers, and a non-zero residual must be accounted for. EVERY YEAR FROM 1960 TO 1978 RECONCILES EXACTLY. FIVE SECTIONS, 1960-1964: Pioneers, Woodsmen, Coureur de Bois, Pathfinders and Rangers, the last at 48, 46, 46, 40 and 28 camper weeks. FOUR SECTIONS, 1965-1972: the same minus Rangers, with residuals of exactly zero in 1965, 1966 and 1967 -- which is what disproves the article's former 1967 Rangers date. TWO SECTIONS, 1973-1978: Woodsmen and Pathfinders alone, again with zero residual every year, which confirms that Pioneers and Coureurs de Bois genuinely stop after 1972 rather than being lost to a scanning error. WHAT THIS SETTLES. The section history is no longer an inference from row labels that a column shift can break; it is arithmetic that a column shift would immediately fail. It also rules out a hidden or unnamed fifth section in any season between 1960 and 1978, which no amount of reading the rows could establish. AND IT SHARPENS THE CHRONOLOGY: the four-name system does not collapse at coeducation. It loses Rangers FOUR YEARS BEFORE girls arrive (1964 against 1968) and loses Pioneers and Coureurs de Bois FOUR YEARS AFTER (1972), so the two contractions sit either side of the change rather than following from it.",
+      "sources": [
+        "src_ia_kanawana_report_1969",
+        "src_ia_kanawana_report_1970",
+        "src_ia_kanawana_directors_report_1976",
+        "src_ia_kanawana_report_1978"
+      ],
+      "confidence": "stated",
+      "category": "programming",
+      "entities": [
+        "Rangers",
+        "Pioneers",
+        "Woodsmen",
+        "Coureur de Bois",
+        "Pathfinders"
+      ],
+      "date_ref": "1960-1978",
+      "conflicts_with": [],
+      "added_version": "10.84",
       "added_by": "ralph_loop"
     }
   ]

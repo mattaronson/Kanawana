@@ -42,6 +42,18 @@ appear in 1972. But the consequence for this article's own argument is worth sta
 in 1964 rather than 1967, its disappearance* **precedes coeducation by four years instead of following it
 by one**, *and cannot be read as a consequence of it.)* [f_5689]
 
+**The whole structure has now been checked the same way, 1960 to 1978, and every year reconciles
+exactly.** Five sections 1960–64; four from 1965 once Rangers stops; **two** from 1973, Woodsmen and
+Pathfinders alone. The residual is zero in every one of those nineteen seasons, which does two things
+beyond confirming the dates: it rules out a hidden or unnamed fifth section in any of them, and it means
+the section history no longer rests on reading row labels that a column shift can break. **A shift would
+now fail the arithmetic immediately.**
+
+It also sharpens the chronology this section is about. The four-name system does not collapse at
+coeducation. It loses Rangers **four years before** girls arrive and loses Pioneers and Coureurs de Bois
+**four years after** — so the two contractions sit either side of the change rather than following from
+it.^kk70 [f_5690]
+
 **Gendering is visible on the 1969 org chart**, a year after coeducation began: it shows PIONEER (M), WOODSMEN (M), CdeB (M) and PATHFINDER (M) under the Camp Director, with WOODSMEN (G) and CdeB (G) under a separate "Camp Director of Girls." By 1970 the chart lists Pathfinder Boys, Woodsman Boys, Pathfinder Girls, Woodsmen Girls and Pioneer; by 1971 Coureur de Bois has gone; and from 1974 through 1979 the reports use plain Junior/Senior Boys/Girls, with the tables glossing Woodsmen as Junior and Pathfinders as Senior. **So the gender reassignment began immediately in 1969, not in the 1970s** — which answers the first Open Question below far better than the paywalled 1974 Gazette clipping would have.
 
 **"Rover" at Kanawana is a job, not a section.** In the 1970s reports it is a relief-counsellor post — "Senior Girls Rover-Counsellor" (1977), "Junior Boys Rover" (1979). Anyone encountering the name in a YMCA camping context should not read it as a Kanawana section.
@@ -69,6 +81,7 @@ Beyond the Camp Director who ran the whole operation, individual sections and pr
 - KB: staff_1935 (section directors named by section), section_names (full evolution timeline).
 - ^ars Concordia University, *A History of Bursary Award Winners 1989-2006*, A. Ross Seaman Leadership Development Fund, 23 May 2007 [src_concordia_seaman_award_history_2007]. The Kanawana-presented award citation for Héléna Longpré. Cached at `sources/cache/concordia-publications/2007-05-23-seaman-award-winners-booklet-ocr.txt`. See [f_5545].
 - ^oa Oral history, Matt Aronson, 28 August 2026: the Rangers/Wolf/Trailblazers/Foresters program lineage [src_oral_aronson_rangers_wolf_lineage]. See [f_2343], [f_2344], [f_2345].
+- ^kk70 Kamp Kanawana's own annual reports for **1969** and **1970** [src_ia_kanawana_report_1969, src_ia_kanawana_report_1970] and directors' reports for **1976** and **1978** [src_ia_kanawana_directors_report_1976, src_ia_kanawana_report_1978], their "KAMP KANAWANA TEN YEAR SUMMARY" appendices. Cached in `sources/cache/ymca-montreal-fonds/`. The Rangers correction is at [f_5689]; the full 1960-1978 verification at [f_5690].
 - Dining-hall and canoe-trip plaques, photo-mined 2026-07-05 (f_1569-f_1739): Rangers, CIT, LIT, and Voyageurs section/program directors, 1959-2008. See [[people/directors-index|Directors and Staff of Camp Kanawana]] for the full table.
 - Montreal Gazette, "Summer Camps – Kanawana" (April 18, 1974), Newspapers.com [src_gazette_1974_summer_camps_clipping]. Located but paywalled; requires operator account to read.
 
