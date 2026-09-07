@@ -1,8 +1,8 @@
 {
-  "version": "10.23",
-  "kb_version": "10.23",
+  "version": "10.24",
+  "kb_version": "10.24",
   "migrated_from": "3.3",
-  "fact_count": 5575,
+  "fact_count": 5576,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100438,6 +100438,22 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.23",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5614",
+      "category": "canoe_trips",
+      "date_ref": "2026-2027",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "THE EXPEDITION LADDER IN THE CAMP'S OWN WORDS, WITH THE TRIP LENGTHS SEPARATED FROM THE PROGRAMME LENGTHS. Six live programme pages read 2026-09-07. THE LADDER: '12-Day VOYAGEURS' (13-16, mixed) -- 'an immersive canoe-tripping experience, including AN EIGHT-DAY TRIP through Quebec's natural landscapes... After preparing at Camp YMCA Kanawana, they take an active role in every aspect of the trip, from navigation and portaging to everyday tasks.' '19-Day VOYAGEURS EXTREME' (14-17) -- 'AN INITIAL FOUR-DAY TRIP, they take part in preparing and planning A 12-DAY ADVENTURE ON A RIVER IN QUEBEC OR ONTARIO', developing 'canoe-trip and WHITEWATER skills'. '26-Day VOYAGEURS ULTIMATE' (15-17) -- 'At the heart of the program is A 19-DAY WHITEWATER CANOE EXPEDITION, during which they take part in trip planning'. '24-Day RANGERS' (15-16) -- 'their first hands-on leadership experience... by taking an active role in camp life and programming', with 'training leading to a DAFA CERTIFICATE' and described as 'a stepping stone to Kanawana's more advanced leadership programs'. '48-Day TRAILBLAZERS COUNSELLOR-IN-TRAINING' (16-17) -- 'more than 200 hours of workshops and training' plus 'a five-day canoe trip'. AND '48-Day FORESTERS CANOE GUIDES-IN-TRAINING' (16-17) -- 'advanced training that combines leadership development, outdoor skills and preparation for the role of a CANOE TRIP GUIDE. Hands-on workshops and A CANOE EXPEDITION CONSISTING OF 28 TO 32 DAYS OF WHITEWATER TRAVEL AND FOUR DAYS OF FLATWATER TRAVEL.' A THIRTY-TWO-TO-THIRTY-SIX-DAY EXPEDITION FOR SIXTEEN- AND SEVENTEEN-YEAR-OLDS, inside a 48-day programme. THE FORESTERS PROGRAMME APPEARS NOWHERE IN THIS PROJECT'S WIKI -- not in traditions/canoe-trips.md, not in traditions/cit-lit-program.md, not in traditions/programs-activities.md -- and it is the longest trip the camp currently runs by a wide margin. A CORRECTION FOLLOWS FOR canoe-trips.md, which reads 'Voyageurs Ultimate (15-17) runs a 26-DAY white-water canoe expedition': 26 days is the PROGRAMME, and the expedition inside it is NINETEEN days. The distinction matters because the article's own plaque evidence records a '2008 Missinaibi River 21-DAY Voyageurs Ultimate expedition', which would look like a shortening against 26 and is a lengthening against 19. Both figures are the camp's own; the difference is what is being counted. ALSO WORTH HAVING: the leadership programmes (Rangers, Voyageurs Ultimate, Trailblazers, Foresters) all require a separate APPLICATION, not just registration, which is a selection step the camp-based programmes do not have; registration runs through a third-party platform called ACTIVE; and the camp's address is given throughout as 673 Saint-Elmire Street with contact numbers 514-687-9622 and 1-833-505-9622 extension 1524.",
+      "sources": [
+        "src_ymcaq_kanawana_expedition_leadership_pages_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.24",
       "added_by": "ralph_loop"
     }
   ]

@@ -1,7 +1,7 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 29*
-*Last Updated: 2026-09-07 (Perrot's own count of Kanawana canoe parties, 1948)*
+*Status: E1-reviewed | Sources: 30*
+*Last Updated: 2026-09-07 (the Foresters expedition, and the Ultimate programme length separated from its trip length)*
 
 *Earlier revisions: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
@@ -194,7 +194,23 @@ Canoe-trip plaques recovered from the dining hall document a "Tripper" (trip lea
 
 **How much tripping a single season actually was, in 1993.** Director Bruce Netherwood's report on the 99th summer counts it: **four Voyageur trips and 38 camper trips**, three of the latter Junior excursions, and **over four hundred Kanawanians** on the water across Papineau-Labelle and Parc La Vérendrye.^25 That is the only whole-season trip count this article holds for any year. Netherwood's "over four hundred" counts campers and staff together and cannot be turned into a participation rate, but it is a large fraction of a camp that ran at over 99% of capacity that summer, and the reserve pairing the 2026 programme still uses — Papineau-Labelle and La Vérendrye — was already the shape of it.
 
-Today, canoe tripping remains central to the Kanawana experience. The 2026 program structure offers multiple expedition pathways: Adventurers Coureurs des Bois (boys and non-binary, 13–16) provides 4–6 day introductory canoe trips in La Vérendrye Wildlife Reserve; Adventurers Pathfinders (girls and non-binary, 13–16) offers the same format, with flat-water trips in La Vérendrye or white-water trips on Quebec and Ontario rivers; and Voyageurs Ultimate (15–17) runs a 26-day white-water canoe expedition.^4 ^5 The Explorers Pioneers program (girls and non-binary, 11–12) introduces younger campers to expedition travel with 3–4 day combined canoeing and hiking trips at Papineau-Labelle Wildlife Reserve.^6 A documented Papineau-Labelle route covers roughly 22 km over 4 days, with portages of 100–690 m linking Lac Saint-Denis, Lac du Crochet, and Lac Montjoie.^7
+Today, canoe tripping remains central to the Kanawana experience. The 2026 program structure offers multiple expedition pathways: Adventurers Coureurs des Bois (boys and non-binary, 13–16) provides 4–6 day introductory canoe trips in La Vérendrye Wildlife Reserve; Adventurers Pathfinders (girls and non-binary, 13–16) offers the same format, with flat-water trips in La Vérendrye or white-water trips on Quebec and Ontario rivers; and Voyageurs Ultimate (15–17) is a 26-day *programme* built around a **19-day** white-water canoe expedition.^4 ^5 ^30 *(Corrected 2026-09-07: this read "runs a 26-day white-water canoe expedition". Twenty-six days is the programme; the camp's own page puts the expedition inside it at nineteen. The distinction matters here, because the 2008 Missinaibi River trip below is recorded at 21 days — a shortening against 26 and a lengthening against 19, and the difference is what is being counted.)* **The longest trip the camp runs is not in this article.** The **Foresters canoe-guides-in-training**
+programme — 48 days, ages 16 and 17, mixed — trains participants "for the role of a canoe trip guide"
+through "hands-on workshops and **a canoe expedition consisting of 28 to 32 days of whitewater travel and
+four days of flatwater travel**."^30 That is a thirty-two to thirty-six day expedition undertaken by
+sixteen- and seventeen-year-olds, and it appears nowhere else in this wiki — not here, not in
+[[traditions/cit-lit-program|the CIT and LIT article]], not in
+[[traditions/programs-activities|Programs and Activities]]. It sits beside **Trailblazers**, the
+counsellor-in-training stream of the same length, which runs "more than 200 hours of workshops and training"
+and a five-day trip: two 48-day programmes, one making counsellors and one making guides.
+
+The rest of the ladder, in the camp's own numbers: **Voyageurs** (12 days, 13–16) contains **an eight-day
+trip**; **Voyageurs Extreme** (19 days, 14–17) runs "an initial four-day trip" and then a camper-planned
+**12-day river trip in Quebec or Ontario**; **Rangers** (24 days, 15–16) is the first leadership rung and
+carries **DAFA** certification.^30 All four leadership programmes require a separate **application** rather
+than simple registration, which is a selection step the camp-based sections do not have.
+
+The Explorers Pioneers program (girls and non-binary, 11–12) introduces younger campers to expedition travel with 3–4 day combined canoeing and hiking trips at Papineau-Labelle Wildlife Reserve.^6 A documented Papineau-Labelle route covers roughly 22 km over 4 days, with portages of 100–690 m linking Lac Saint-Denis, Lac du Crochet, and Lac Montjoie.^7
 
 ## Building them, not only paddling them, 2001-02
 
@@ -254,3 +270,4 @@ One line in the Montreal YMCA foundation's grants table for 2001-2002 lists, und
 27. YMCA of Montreal, **112th Annual Report**, for the year ended **31 May 1964** [src_ymf_sgw_ymca_annual_report_1963] — a seventeen-month volume covering 1 January 1963 to 31 May 1964, so its camping season is the summer of **1963** (see [f_5090]). Read 2026-09-06 under p_441. See [f_5091], [f_5092].
 28. YMCA *Rapport Annuel 2001-2002*, French edition [src_ia_sgw_ymca_annual_report_2001_2002_fr], Internet Archive item `sgw-ymca-annual-report-2001-2002-fr`, in the `ymca-montreal-fonds` collection. The foundation grants table. Read 2026-09-07 under p_462 as a second scan of a report whose English edition this project already holds. See [f_5257].
 29. "Report of the Montreal YMCA Camp Perrot for Boys and Girls", 1948, signed A. T. Dodds, Camp Director [src_ymf_1948_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls]. The table of overnight groups using the property. Recovered 2026-09-07 from the second text file of an item this project had read only the first of. See [f_5432].
+30. Camp YMCA Kanawana, the six expedition and leadership programme pages [src_ymcaq_kanawana_expedition_leadership_pages_2026] — Voyageurs, Voyageurs Extreme, Voyageurs Ultimate, Rangers, Trailblazers CIT and Foresters canoe-guides-in-training, under `ymcaquebec.org/en/summer-camp-kanawana/`. Read 2026-09-07 and advertising the 2027 season; cached together at `sources/cache/web-pages/ymcaquebec-kanawana-expedition-leadership-pages-2026.txt`, one header line per page giving its own URL. See [f_5614].

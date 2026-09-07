@@ -29499,6 +29499,24 @@
       "notes": "Fetched, extracted and read 2026-09-07 under p_489. Registered because the camp's live pages were being cited through src_ymca_website, one record standing for the whole site and carrying eighty facts. The camp's own navigation lists TWENTY-EIGHT Kanawana pages; this is one of the three read on that date.",
       "read_state": "read",
       "read_state_basis": "direct:fetched-extracted-and-read-2026-09-07"
+    },
+    {
+      "source_id": "src_ymcaq_kanawana_expedition_leadership_pages_2026",
+      "type": "web",
+      "title": "Camp YMCA Kanawana — the six expedition and leadership programme pages (Voyageurs, Voyageurs Extreme, Voyageurs Ultimate, Rangers, Trailblazers CIT, Foresters canoe-guides-in-training), ymcaquebec.org, as at September 2026",
+      "date": "2026-09-07",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://www.ymcaquebec.org/en/summer-camp-kanawana/programs",
+      "cache_path": "sources/cache/web-pages/ymcaquebec-kanawana-expedition-leadership-pages-2026.txt",
+      "char_count": 28045,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v10.23",
+      "reliability": "primary",
+      "notes": "Six pages fetched, extracted and read 2026-09-07 under p_489, and cached as ONE file with a header line per page giving that page's own URL, because they are six sides of one programme ladder and are always read together. The origin_url is the listing page they hang off; the per-page URLs are inside the cache file. Registered because these pages were being cited as 'YMCA Quebec, Summer Camp Kanawana: Programs' through the catch-all src_ymca_website. See f_5614.",
+      "read_state": "read",
+      "read_state_basis": "direct:fetched-extracted-and-read-2026-09-07"
     }
   ],
   "source_count": 1757
