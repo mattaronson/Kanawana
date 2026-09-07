@@ -1,7 +1,7 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 59*
-*Last Updated: 2026-09-07 (Otoreke Lodge as an interfaith conference venue in 1963)*
+*Status: E1-reviewed | Sources: 60*
+*Last Updated: 2026-09-07 (McKay dated to May 1962, the 1,507-camper season, and French Canadian campers arriving)*
 
 ## Overview
 
@@ -345,6 +345,36 @@ has been '**Mr. Camp Director**' for **over 15 years**)."^53 The Friday before 3
 **29 September 1961**, so McGerrigle retired at the end of that season and **Colin R. McKay's
 appearance in the 1963 volume is the succession, not a gap**. The nickname is the association's own —
 the 1956 report above already has "Mr. and Mrs. '**Mac**'".
+
+**[MONTH DATED, AND THE SEASON DESCRIBED, 2026-09-07.]** The association's own 1962 annual report supplies
+what the directory could not: "**Colin McKay was appointed Director of Otoreke in May 1962** and, under his
+supervision, **the tradition of strong camper participation in camp program planning and administration**
+has been continued."^60 So the handover is May 1962, McGerrigle having retired the previous September, and
+the 1963 directory entry is the second year rather than the first.
+
+The same report gives the camp a season. **"Otoreke served 695 women and 812 men campers in its May to
+September season"** — 1,507 people across five months, coeducational, plus **eight organisations** using the
+site for study conferences. That is a larger and longer operation than anything this article had for the
+1960s, and larger than Kanawana's own season figures for the period. Facilities work that year "kept pace
+with long range plans to **increase the 'comfort level' of the camp without decreasing its original rustic
+flavour**," which is the same argument the 1939 *Green Triangle* editorial made at Kanawana against "Summer
+Resort" camping, twenty-three years later and settled the other way.
+
+**And then a paragraph that belongs to a bigger story than this camp.**
+
+> **In the light of changing times in Quebec**, an interesting footnote to the '62 season was the **marked
+> increase in French Canadian campers**. The committee has been alert to see in this a unique opportunity
+> for the Montreal YMCA to bring together, on a common friendship basis, **young men and women from the
+> English and French communities of our Province**. The committee acted promptly to **enlarge itself with
+> the addition of several French speaking members** and looks forward to a new experience in
+> "**cross-cultural**" programming.^60
+
+"Changing times in Quebec" is the Quiet Revolution, named without being named, in the year Lesage's second
+mandate began. What matters for this project is the shape of it: **francophone campers arrived first and the
+institution reorganised to meet them**, including changing who sat on the committee — the reverse of the
+policy-first account in [[traditions/french-language-camping|French-Language Camping and Kanawana]], whose
+thread begins five years later in 1967. That article's date range still holds for Kanawana. What moves is
+the Montreal Association's clock.
 
 *And it separates two spans the 1956 report runs together.* Association from **1935**, twenty-one
 years by 1956; but "Mr. Camp Director for over 15 years" reaches back from 1961 to about **1946**.
@@ -1048,6 +1078,7 @@ centre. It is the same kind of use, twenty years earlier, that
 57. *The Postgrad* (Sir George Williams University alumni magazine), Vol. 22 No. 2, Summer 1966 [src_sgw_postgrad_1966_summer]; and Vol. 11 No. 1, Easter 1955 [src_sgw_postgrad_1955_04]. Transcribed in the relevant part at `sources/cache/sgw-publications/2026-09-07-postgrad-alumni-notes-1955-1966.txt`. Found by the accounted sweep of `rma-concordia-publications` under p_479. See [f_5442], [f_5444].
 58. "Build A Better Future" — Sir George Williams College building-fund prospectus, 1952 [src_sgw_build_a_better_future_1952]. The camp names are labels on a map captioned "Here is your Y.M.C.A. of Greater Montreal", not prose; transcribed with that caveat at `sources/cache/sgw-publications/2026-09-07-build-a-better-future-1952-map.txt`. See [f_5445].
 59. YMCA news release, **14 June 1963** [src_ymf_news_release_1963_06_14_2]. Cached at `sources/cache/ymca-montreal-fonds/news-release-1963-06-14-2.txt`; read word for word 2026-09-07 under p_482.
+60. YMCA of Montreal annual report for **1962**, the Camp Otoreke section [src_ymf_sgw_ymca_annual_report_1962]. Held at read_state *partial* — its camps listing and title page had been read, the rest had not; read 2026-09-07 under p_490. See [f_5622].
 
 ## Research Notes
 

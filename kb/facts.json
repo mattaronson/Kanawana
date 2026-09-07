@@ -1,8 +1,8 @@
 {
-  "version": "10.30",
-  "kb_version": "10.30",
+  "version": "10.31",
+  "kb_version": "10.31",
   "migrated_from": "3.3",
-  "fact_count": 5583,
+  "fact_count": 5584,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100580,6 +100580,24 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.30",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5622",
+      "category": "programs",
+      "date_ref": "1962",
+      "entities": [
+        "Camp Otoreke",
+        "YMCA of Montreal",
+        "Colin R. McKay"
+      ],
+      "claim": "THE MONTREAL YMCA'S CAMPING RESPONSE TO THE QUIET REVOLUTION IS DATED 1962, AT OTOREKE, FIVE YEARS BEFORE THE KANAWANA THREAD BEGINS. The 1962 annual report, in the Otoreke section: 'COLIN McKAY WAS APPOINTED DIRECTOR OF OTOREKE IN MAY 1962 and, under his supervision, THE TRADITION OF STRONG CAMPER PARTICIPATION IN CAMP PROGRAM PLANNING AND ADMINISTRATION has been continued. OTOREKE SERVED 695 WOMEN AND 812 MEN CAMPERS IN ITS MAY TO SEPTEMBER SEASON. In addition, EIGHT ORGANIZATIONS made use of the camp for study conferences. Improvement in the facilities kept pace with long range plans to INCREASE THE \"COMFORT LEVEL\" OF THE CAMP WITHOUT DECREASING ITS ORIGINAL RUSTIC FLAVOUR.' THEN THE PASSAGE THAT MATTERS: 'IN THE LIGHT OF CHANGING TIMES IN QUEBEC, AN INTERESTING FOOTNOTE TO THE \\'62 SEASON WAS THE MARKED INCREASE IN FRENCH CANADIAN CAMPERS. The committee has been alert to see in this A UNIQUE OPPORTUNITY FOR THE MONTREAL YMCA TO BRING TOGETHER, ON A COMMON FRIENDSHIP BASIS, YOUNG MEN AND WOMEN FROM THE ENGLISH AND FRENCH COMMUNITIES OF OUR PROVINCE. THE COMMITTEE ACTED PROMPTLY TO ENLARGE ITSELF WITH THE ADDITION OF SEVERAL FRENCH SPEAKING MEMBERS and looks forward to a new experience in \"CROSS-CULTURAL\" PROGRAMMING.' FOUR THINGS. (1) traditions/french-language-camping.md is titled 'French-Language Camping and Kanawana, 1967-1973' and its thread starts with the International Branch's French day camp of 1967. THIS IS 1962, and it is a different KIND of response: not a programme teaching French to English boys, but francophone campers ARRIVING ON THEIR OWN and the camp committee changing its own composition to meet them. The demand came first and the policy followed, which is the reverse of the 1975-1981 policy documents' account. (2) 'IN THE LIGHT OF CHANGING TIMES IN QUEBEC' is the Quiet Revolution named without being named, in an institutional report, in the year Jean Lesage's second mandate began. (3) IT IS AT OTOREKE, NOT KANAWANA, so the Kanawana article's own date range stands; what moves is the Montreal Association's clock. (4) THE ATTENDANCE FIGURES ARE NEW AND ARE SPLIT BY SEX: 695 women, 812 men, 1,507 in all, over a MAY TO SEPTEMBER season -- a five-month adult and family operation, coeducational, larger than Kanawana's own season figures for the period, plus eight organisations using it for study conferences. site/camp-otoreke.md has McKay's appointment from a directory but none of this. THE SOURCE was held at read_state 'partial': its camps listing and title page had been read and the rest had not.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1962"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.31",
       "added_by": "ralph_loop"
     }
   ]

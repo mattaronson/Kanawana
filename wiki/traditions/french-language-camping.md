@@ -1,7 +1,7 @@
 # French-Language Camping and Kanawana, 1967-1973
 
 *Status: draft | Sources: 0 (bullet-style source list, not numbered — see below; six documents, carried over from the parent article's lettered scheme)*
-*Last Updated: 2026-09-07 (the policy trilogy; and where French sits at the camp in 2026, as a hiring rule)*
+*Last Updated: 2026-09-07 (French at the camp in 2026 as a hiring rule; and the 1962 prehistory at Otoreke)*
 
 ## Overview
 
@@ -129,6 +129,37 @@ season is not. And the hiring floor names the pipeline itself: an applicant must
 **or have completed the camp's own Leadership / Counsellor-in-Training programme**, which makes the LIT a
 formal qualification and not only a camper experience.
 
+## Prehistory: the demand came first, and it came to Otoreke in 1962
+
+This article's thread starts in 1967, and its title says so. **The Montreal Association's own clock starts
+five years earlier**, at the other camp, and the difference is not a detail of dating but of direction.^ot62
+
+The 1962 annual report's Otoreke section closes on this:
+
+> **In the light of changing times in Quebec**, an interesting footnote to the '62 season was the **marked
+> increase in French Canadian campers**. The committee has been alert to see in this a unique opportunity
+> for the Montreal YMCA to bring together, on a common friendship basis, **young men and women from the
+> English and French communities of our Province**. The committee acted promptly to **enlarge itself with
+> the addition of several French speaking members** and looks forward to a new experience in
+> "**cross-cultural**" programming.
+
+Three things follow. **"Changing times in Quebec" is the Quiet Revolution**, named without being named, in
+the year Lesage's second mandate began — an institutional report reaching for a euphemism and finding one
+that dates itself precisely.
+
+**The demand arrived before the policy.** Everything else in this article runs the other way: the
+International Branch builds a French day camp in 1967, Kanawana runs "Living-in-French" for English boys in
+1969, the Association writes language policy in 1975, 1979 and 1981. Here francophone campers simply turned
+up in larger numbers, and the response was to **change the composition of the committee** — governance
+before programme, and the earliest instance in this project of the Montreal YMCA altering who decides rather
+than what is offered.
+
+**And it is Otoreke, not Kanawana**, which is why this article's date range still stands. [[site/camp-otoreke|Camp Otoreke]] in 1962
+was a coeducational adult and family camp serving 695 women and 812 men across a May-to-September season —
+a very different constituency from a boys' camp, and the one a francophone Montrealer would reach first.
+Whether anything of this reached Kanawana before 1967 is not documented; the 1962 report says nothing about
+it, and this article should not assume the two camps moved together.
+
 ## Open Questions
 
 1. **Did "Living-in-French" run more than one season?** The two 1969 press releases announce it.
@@ -154,6 +185,8 @@ formal qualification and not only a camper experience.
 - [[people/geoff-anderson|Geoff Anderson]] — the director quoted in both 1969 releases
 
 ## Sources
+
+- ^ot62: YMCA of Montreal annual report for **1962**, the Camp Otoreke section [src_ymf_sgw_ymca_annual_report_1962]. Held at read_state *partial* — its camps listing and title page had been read and the rest had not; read 2026-09-07 under p_490. See [f_5622].
 
 - ^jobs26: Camp YMCA Kanawana, "Summer Camp Jobs", "International Experience" and "Applying for a Leadership Program" [src_ymcaq_kanawana_jobs_intl_leadership_2026], under `ymcaquebec.org/en/summer-camp-kanawana/`. Read 2026-09-07; cached together at `sources/cache/web-pages/ymcaquebec-kanawana-jobs-international-leadership-2026.txt`, one header line per page giving its own URL. The Terms and Conditions page is cached in the same file and is **not** read. See [f_5616].
 
