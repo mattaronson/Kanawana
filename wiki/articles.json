@@ -11209,7 +11209,8 @@
         "f_2335"
       ],
       "sources_cited": [
-        "src_flickr_kanawana_plaque_album"
+        "src_flickr_kanawana_plaque_album",
+        "src_ia_kanawana_report_1964"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -11218,7 +11219,7 @@
         "traditions/traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 1463
+      "word_count": 1783
     },
     {
       "article_id": "knights-of-kanawana",

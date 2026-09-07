@@ -1,6 +1,6 @@
 # The Plaque Audit
 
-*Status: R3-verified | Sources: 1*
+*Status: R3-verified | Sources: 2*
 *Last Updated: 2026-09-02*
 
 ## Overview
@@ -37,6 +37,28 @@ The worst ratios were on the largest boards, where the loss is greatest: the Sta
 **Coeducation in the campers' own handwriting.** "The 1st Ladies of the Barracks" (2007). "To the women that filled the Lookout with love and friendship" (2008). And an all-female Voyageur crew in 2010 whose board does not remark on it at all — thirty-eight years after the first all-female canoe trip was worth painting a plaque about. See [[history/coeducation-gender|Coeducation and Gender at Kanawana]].
 
 **Culture the roster-facts had discarded.** A Robert Frost epigraph on the 1984 CIT board. Thirteen catchphrases from the summer of 1985. A dated 2006 setlist that turns out to be pop covers, not camp songs. Kanawoodstock running across at least three widely separated years. And a bone-shaped board with a paw print painted on it, which is how we know Raku was a dog.
+
+## What a span measures, in one man
+
+[[people/multi-year-index|The multi-year index]] gives **Ben Hannan** two years, 1955 and 1956, and a
+span of one. That is what the boards say: two of them survived with his name on.
+
+The camp's own annual report for 1964 has him in his **fifth year as Assistant Camp Director** and his
+**fifteenth on the Kanawana staff**, which reaches back to about **1949**.^2 The report gives him a full
+paragraph — "a unique and outstanding contribution… a warm outgoing personality and an ability to help
+that has endeared him to all… **a school teacher by vocation, a Kanawanian by avocation**" — and he was
+the man who gave the commentary at the camp's parent meetings.
+
+**The index is not wrong about him and cannot be fixed.** It measures which boards survived, which is
+exactly what this article says it measures, and the table is generated rather than written. What Hannan
+gives it is a calibration: a fifteen-year career showing up as a one-year span, an error of thirteen
+years in the only direction the corpus can err. **Every span in that table is a floor.** Where a
+documentary record exists for the same person, it will almost always be longer, and the two should be
+read together rather than one against the other.
+
+*(Concordia's finding aid lists "Kanawana Reminiscence (of 1948), by **Ben T. Hannah** — 1989," one
+letter different and consistent with a staff career beginning in the late 1940s. Whether that is the
+same man is not settled here.)*
 
 ## Errors found, including my own
 
@@ -76,6 +98,7 @@ Two tools came out of the verify pass on the articles above, and both exist beca
 ## Sources
 
 1. Kanawana Flickr "Plaque" album, all 151 images [src_flickr_kanawana_plaque_album]. Per-image audit records in `kb/plaque-audit/audit.jsonl`; full account in `kb/plaque-audit/FINDINGS.md`.
+2. Kamp Kanawana's own annual report for **1964** [src_ia_kanawana_report_1964], which gives **Ben T. Hannan** his fifth year as Assistant Camp Director and his **fifteenth** on the staff, against the **two** years the plaque corpus records for him. The full paragraph the report devotes to him, and the note on the "Hannah" spelling in Concordia's finding aid, are at [f_2386]. Brought in 2026-09-07 under p_492.
 
 ## Research Notes
 
