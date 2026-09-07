@@ -2722,7 +2722,8 @@
         "src_ball_basic_camp_management_2012",
         "src_mcgill_you_knew_1975",
         "src_ymf_1920_biography_of_r_j_colville",
-        "src_ymf_1928_come_to_kanawana_brochure"
+        "src_ymf_1928_come_to_kanawana_brochure",
+        "src_umedia_ymca_yearbook_series"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -2742,7 +2743,7 @@
         "movement-archive-turn"
       ],
       "file_id": null,
-      "word_count": 17889,
+      "word_count": 18223,
       "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

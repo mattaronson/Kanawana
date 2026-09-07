@@ -1,8 +1,8 @@
 {
-  "version": "9.06",
-  "kb_version": "9.06",
+  "version": "9.07",
+  "kb_version": "9.07",
   "migrated_from": "3.3",
-  "fact_count": 5264,
+  "fact_count": 5266,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -94967,6 +94967,42 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5303",
+      "category": "people",
+      "date_ref": "1919",
+      "entities": [
+        "A. W. Forgie",
+        "Wallace Forgie",
+        "Adele Statten Ebbs",
+        "Taylor Statten"
+      ],
+      "claim": "A FORGIE IS ON THE 1919 CANADIAN OVERSEAS SECRETARIES LIST, AND THIS PROJECT ALREADY HAS A FORGIE WHO MATTERS. The list of Canadian YMCA men released for overseas service as of 1 June 1919 includes 'FORGIE, A. W.' -- one of only three names on it printed without a rank. This project separately holds WALLACE FORGIE as Adele Statten Ebbs's uncle, therefore related by marriage to Taylor Statten, and as 'a pioneer in canoe tripping' who took her on her first big trip, from Mary L. Northway's 1967 profile of Ebbs. 'A. W.' would fit an A. Wallace or Arthur Wallace Forgie. THAT IS A SUGGESTION AND NOT AN IDENTIFICATION. The surname is uncommon, the period is right, and a canoe-tripping pioneer inside the YMCA's overseas war service would join two threads this project has kept entirely separate -- the Montreal association's war service and the Statten circle that founded the Canadian camping movement. It is recorded here so that a later reader can test it rather than rediscover the coincidence. AND THE PROJECT'S OWN ARTICLE MAKES IT STRONGER THAN IT LOOKED, WHICH IS WHY THE DESTINATION GETS READ AND NOT JUST GREPPED: canadian-camping-movement.md gives WALLACE FORGIE (1883 - 1 December 1967), called 'Commodore' by the young leaders who came under his influence IN CANADA FROM 1908 TO 1927. Four things converge. The surname is uncommon. He was in Canada across 1919. Born 1883 he was THIRTY-SIX in 1919, which is squarely the age of a captain on that list. And the milieu is YMCA rather than merely adjacent to it -- Taylor Statten, to whom Forgie was related by marriage, was Canada's national YMCA Boys' Work Secretary -- so a Forgie among the YMCA's Canadian overseas secretaries is what one would expect rather than a coincidence to be explained away. IT IS STILL NOT AN IDENTIFICATION: 'A. W.' is not 'Wallace', and no source read here gives Forgie's initials. HOW TO SETTLE IT: Forgie's given names, from the Northway profile itself, from Taylor Statten or Ebbs genealogy, or from the alphabetical list of employed officers in this same series, which would also give his association and his year of entry.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5304",
+      "category": "people",
+      "date_ref": "1919-1958",
+      "entities": [
+        "C. T. Sharpe",
+        "Oscar L. Pearson"
+      ],
+      "claim": "TWO MORE NAMES FROM THE 1919 OVERSEAS LIST ARE ALREADY IN THIS PROJECT, BOTH FROM FORTY YEARS LATER, AND NEITHER IS MERGED. The list carries 'SHARPE, CAPT. C. T.' and 'PEARSON, CAPT. OSCAR L.' This project holds a C. T. SHARPE as Assistant Director of Camping for the Ontario Department of Education, complaining in December 1957 that camp standards were not being kept, and an OSCAR L. PEARSON writing a camp safety editorial in February 1958 -- both from the same run of Canadian Camping Magazine. THE ARITHMETIC IS THE WHOLE QUESTION: a captain in 1919 was most likely born between about 1885 and 1895, which puts him in his sixties in 1957. That is possible for men still writing in a movement this project has repeatedly found rewards long careers -- Roy Locke ran from 1947 to 1986, C. J. McGerrigle from 1927 to 1961 -- but possible is not established, and TWO independent forty-year coincidences in one pair of decades is exactly the pattern that should make a reader suspicious in both directions. NEITHER PAIR IS MERGED. If they are the same men it would mean the Canadian camping movement's administrators of the 1950s were YMCA war-service veterans, which is a claim about the movement and needs better evidence than a name.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.07",
       "added_by": "ralph_loop"
     }
   ]

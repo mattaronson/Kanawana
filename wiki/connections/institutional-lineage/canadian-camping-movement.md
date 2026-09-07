@@ -1,7 +1,7 @@
 # The Canadian Camping Movement
 
-*Status: E1-reviewed | Sources: 17*
-*Last Updated: 2026-09-06 (the association's own statistics spun out)*
+*Status: E1-reviewed | Sources: 18*
+*Last Updated: 2026-09-07 (a Forgie among the YMCA's Canadian overseas secretaries, 1919)*
 
 ## Summary
 
@@ -339,6 +339,25 @@ canoe-tripping line running through this whole story: "her uncle, Wallace Forgie
 big canoe trip through Temagami when she was ten years old."^8bq2 The woman who became the movement's
 matriarch learned to trip from him.
 
+**And a Forgie was a YMCA overseas secretary in 1919.** The *YMCA Year Book* for 1918-19 prints the
+Canadian National Council's list of "Overseas Secretaries … released from regular Y. M. C. A. work for
+this special service" as of 1 June 1919, and on it is "**Forgie, A. W.**" — one of only three names there
+carrying no rank.^18 **This is not an identification and is not written as one**: "A. W." is not
+"Wallace," and no source read here gives Forgie's initials. But four things converge. The surname is
+uncommon; he was in Canada across 1919 by this article's own dates; born in 1883 he was **thirty-six**,
+squarely the age of the captains and lieutenants on that list; and the milieu is the YMCA itself rather
+than merely adjacent to it, Taylor Statten having been Canada's national YMCA Boys' Work Secretary. A
+Forgie among the YMCA's Canadian overseas secretaries is what one would expect, not a coincidence needing
+explanation. His given names — from the Ebbs obituary, from Statten genealogy, or from the *Year Book*'s
+own alphabetical list of employed officers — would settle it in a line.
+
+*Two other names on that same list are already in this article's world and are more doubtful, not less.*
+"**Sharpe, Capt. C. T.**" and "**Pearson, Capt. Oscar L.**" sit beside the C. T. Sharpe who was Ontario's
+Assistant Director of Camping complaining about standards in December 1957 and the Oscar L. Pearson who
+wrote a camp safety editorial in February 1958. A captain in 1919 would be in his sixties by then, which
+this movement's long careers make possible — but **two** independent forty-year coincidences in one pair
+of decades is the kind of pattern that should raise suspicion in both directions. Neither is merged.^18
+
 **Elsie K. Palter and David Palter**, of Camp Kawagama, appear together on the editorial team of *The
 Camp Counselor's Book* (Northway and Lowes, Longmans Canada, 1963), the standard Canadian text.
 Elsie Palter's own contributions are the ones with teeth: "Counsellors Can Help Their Campers" (April 1964)
@@ -492,6 +511,7 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 15. *The McGill You Knew: An Anthology of Memories, 1920-1960* (Don Mills: Longman Canada, 1975), Internet Archive scan leaf 314 [src_mcgill_you_knew_1975]. **One passage only**, reconstructed 2026-09-06 from thirteen overlapping Open Library search-inside queries and walked to a chapter break; the book is lending-restricted, page images return HTTP 403, and it has not been read. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-mcgill-you-knew-hay-finlay.txt`. See [f_4959].
 16. R. J. Colville, first-person career sketch (typescript, c. 1920), YMCA of Montreal fonds [src_ymf_1920_biography_of_r_j_colville]. See [f_5015]. Found by reading the document whole under p_441; the item had been keyword-swept and the sweep reached none of this.
 17. "Come to Kanawana" brochure, 1928 season, YMCA of Montreal fonds [src_ymf_1928_come_to_kanawana_brochure]. See [f_5028].
+18. *YMCA Year Book and Official Rosters*, 1918-19 volume, page 434: "Overseas Secretaries, Canadian National Council, June 1, 1919" [src_umedia_ymca_yearbook_series], read in the University of Minnesota Libraries' digitized run (ContentDM collection p16022coll351). See [f_5303] and [f_5304].
 
 ## Research Notes
 
