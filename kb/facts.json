@@ -1,8 +1,8 @@
 {
-  "version": "9.86",
-  "kb_version": "9.86",
+  "version": "9.87",
+  "kb_version": "9.87",
   "migrated_from": "3.3",
-  "fact_count": 5451,
+  "fact_count": 5454,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -98303,6 +98303,60 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.85",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5490",
+      "category": "traditions",
+      "date_ref": "1932-07-23",
+      "entities": [
+        "Camp Kanawana",
+        "The Green Triangle"
+      ],
+      "claim": "A THIRD PHRASE, CALLED THE CAMP MOTTO BY THE CAMP'S OWN PAPER IN 1932. The first issue of The Green Triangle, 23 July 1932, closing its account of a juniors' farewell programme: 'This ended another successful evening with THE CAMP MOTTO \"SHOOT STRAIGHT AND HIT THE MARK\".' The phrase occurs NOWHERE ELSE in this project. WHAT IT DOES AND DOES NOT DO. It does not displace either motto the wiki holds -- the English 'Each for all and all for each' and the Latin 'Non Nobis Solum' -- and is not offered as doing so. The register is sporting rather than institutional, and the same issue closes its sport section with the period creed 'Honour the game thou playest, for he who playeth the game straight and hard, wins, though he loses', so this may be a SPORTSMANSHIP SLOGAN IN CEREMONIAL USE rather than the motto on the crest. BUT IT SITS SQUARELY INSIDE THE WINDOW of traditions-and-culture.md's critical open question 1, on when the Latin motto was adopted; and green-triangle.md records as a CORPUS-WIDE NULL that neither known motto appears anywhere in the paper's entire 1932-1940 run. That large negative now has a positive beside it: what the paper does carry, once, is a third phrase. Whether the Latin motto was not yet adopted or simply never printed in a camper newsletter remains open -- but that the camp said a DIFFERENT motto out loud in the 1930s is now evidenced rather than speculative.",
+      "sources": [
+        "src_ymf_the_green_triangle_1932_07_23"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.87",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5491",
+      "category": "documents",
+      "date_ref": "1932-07-23",
+      "entities": [
+        "The Green Triangle",
+        "Camp Kanawana",
+        "Camp Becsies"
+      ],
+      "claim": "WHAT THE CAMP'S NEWSPAPER WAS FOR, SAID IN ITS FIRST ISSUE. The Chief's editorial, signed W.H.S., 23 July 1932: 'A TRUE CAMP SPIRIT IS THE THING WE WANT TO DEVELOP. What is this thing called \"Camp Spirit\"? You know and I know. It is the thing that WELDS US TOGETHER, the feeling which makes us ENJOY DISAGREEABLE TASKS when we would like to grumble... It grows around the Camp Fire as we sing our camp songs, as we swing along the roads on our hikes, shoulder to shoulder.' The paper's stated purpose is explicitly WINTER: that it will report the camp's doings so 'we will be able to AGAIN LIVE OVER THE DAY LIVED IN CAMP EVEN THOUGH IT BE THE MIDDLE OF WINTER WITH THE SNOW PILED HIGH.' A second note, signed H.M., thanks 'the Editors of the various departments', announces a suggestions box in the dining pavilion, and proposes the paper's own motto: 'EACH ISSUE BETTER THAN THE PREVIOUS ISSUE'. THE CONTENTS ARE LESS IMPROVING THAN THE EDITORIAL, AND ON FACING PAGES: a gossip column, joke classified advertisements, and a full parody of the syndicated advice column DOROTHY DIX in which staff write in about girls at Saint-Sauveur and Marois. THE SPORT SECTION CRITICISES THE CAMP: after a juvenile baseball final ended in a disputed umpire's decision, 'It was decidedly unsportsman-like and after the stress on good sportsmanship at Chapel services this week we feel that it should indeed be brought to the attention of the campers that WE ARE AT KANAWANA TO LEARN A SPORTSMAN-LIKE WAY OF GOING ABOUT CHRISTIANITY AND ATHLETICS.' ALSO: a senior-section truck trip to MONT TREMBLANT, 'approximately 50 miles from here... the highest mountain this side of the Rockies'; juvenile leaders portaging canoes to BECSIS; and staff repeatedly at Marois and Saint-Sauveur on time off.",
+      "sources": [
+        "src_ymf_the_green_triangle_1932_07_23"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.87",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5492",
+      "category": "people",
+      "date_ref": "1932-1960",
+      "entities": [
+        "J. Preston Robb",
+        "Camp Kanawana",
+        "Camp Perrot",
+        "Les Voyageurs de la Vérendrye"
+      ],
+      "claim": "PRESTON ROBB ACROSS TWENTY-EIGHT YEARS AND THREE OF THE ASSOCIATION'S CAMPS, ON THE STRENGTH OF A JOKE ADVERTISEMENT. The Green Triangle of 23 July 1932 carries, among its joke classifieds: 'Wanted: MORE GRAFT FOR THE GRAFT SHOP. SEE PRESTON ROBB.' -- the craft shop, spelled for the pun. This wiki already holds a PRESTON ROBB as CHAIRMAN of the Camp Perrot committee in 1958, and DR. J. PRESTON ROBB on the Advisory Committee of Les Voyageurs de la Verendrye in 1960. A young man minding Kanawana's craft shop in 1932 and a physician chairing camp committees a quarter-century later is a plausible and satisfying arc. THE IDENTIFICATION RESTS ON THE NAME ALONE and the 1932 item is a joke, so it is recorded as a likely arc and not a documented one.",
+      "sources": [
+        "src_ymf_the_green_triangle_1932_07_23"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "9.87",
       "added_by": "ralph_loop"
     }
   ]

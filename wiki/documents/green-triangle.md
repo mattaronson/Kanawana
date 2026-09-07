@@ -1,7 +1,7 @@
 # The Green Triangle
 
-*Status: draft | Sources: 10*
-*Last Updated: 2026-09-07 (the revived Green Triangle went to staff, not campers)*
+*Status: draft | Sources: 11*
+*Last Updated: 2026-09-07 (the first issue of 23 July 1932, read in full)*
 
 ## Overview
 
@@ -45,6 +45,48 @@ Surviving issues document camp life in granular detail. The July 29, 1938 issue 
 
 The July 8, 1933 issue — two years earlier than the previously-known earliest attestation — describes a full, staged "Haunted House" campfire tradition: a "reception... given by the ghosts of the haunted house to all Kanawana campers," with the Chief leading legends and a sing-song, staged "mock-knocking" sound effects, and a folkloric rule that "the spirits never appeared except when the wind blew from the east and when the moon and stars were invisible."^6 The same issue mentions passing "the deserted village" en route to the event — an unexplained, unexplored detail. The tradition recurs across four further issues: the August 17, 1935 issue; a photo caption in the March 30, 1937 issue ("The picnic at the Haunted House," describing the previous summer's outing); a July 1939 mention of supper "at the falls near the haunted house"; and a June 1940 mention of a "Haunted House treat... received at Tamaracouta" joined by the Juveniles.^4 A full-text search of the 38-issue collection returns no hit for "Chopsy" or "Cropsy", and none of the six issues read in full contains a specific explanation of the camp's own name. See [[traditions/myths-and-legends|Myths and Legends of Camp Kanawana]] for the fuller Chopsy and naming-origin discussion.
 
+## The First Issue, 23 July 1932
+
+The systematic read this article's open question 2 asks for has begun, and the first issue is worth
+setting out in full because it states what the paper was for.^11
+
+**The Chief opened it.** "As the first issue of the Green Triangle makes its appearance I want to
+suggest that we as members of this camp get behind the editors and work hard to make the paper a great
+success. **A true camp spirit is the thing we want to develop.** What is this thing called 'Camp
+Spirit'? You know and I know. It is the thing that welds us together, the feeling which makes us enjoy
+disagreeable tasks when we would like to grumble; it makes us take pride in our camp, in our work and
+in our play. It grows around the Camp Fire as we sing our camp songs, as we swing along the roads on
+our hikes, shoulder to shoulder." He gives the paper a purpose that is explicitly about winter: "as
+the *Green Triangle* goes forward it will report the doings at KANAWANA in such a splendid manner that
+we will be able to **again live over the day lived in camp even though it be the middle of winter with
+the snow piled high**." Signed **W.H.S.**
+
+**The editor gave the paper its own motto.** A second note, signed H.M., thanks "the Editors of the
+various departments," asks campers for suggestions — "a box will be placed in the dining pavilion" —
+and proposes "that our motto for the paper be: **'Each Issue Better Than the Previous Issue'**."
+
+**What was in it.** A social column (a juniors' farewell programme, a sing-song led by Norman Thom, an
+address by Mr. Buckley on "camp sanitation and camp friendships," a story by **Nurse Bess**, and ice
+cream); a sport section; a "We Would Like To Know" gossip column; classified small ads; and a full
+parody of the syndicated advice column **Dorothy Dix**, in which staff write in about girls at
+Saint-Sauveur and Marois and receive puns for answers. The tone is a good deal less improving than the
+Chief's editorial, and the two sit on facing pages.
+
+**The sport section is a genuine report and it is critical of the camp.** A juvenile baseball final
+between the **Cadillacs** and the **Auburns** ended 12–12 in near darkness, a man was ordered off, the
+Auburns "threw in the sponge," and umpire Tom Cornell awarded the game to the Cadillacs. The writer's
+verdict: "It was decidedly unsportsman-like and after the stress on good sportsmanship at Chapel
+services this week we feel that it should indeed be brought to the attention of the campers that **we
+are at Kanawana to learn a sportsman-like way of going about Christianity and Athletics**." He closes
+the section with the period's sporting creed: "Honour the game thou playest, for he who playeth the
+game straight and hard, wins, though he loses."
+
+**And a trip and a portage worth indexing.** "One Thursday a party from Senior camp went **by truck to
+Mont Tremblant**, which is approximately 50 miles from here. They climbed the mountain which is said to
+be the highest mountain this side of the Rockies." The gossip column asks "why certain Juvenile
+leaders portage canoes to **Becsis**" — [[site/camp-becsies|Camp Becsies]] — and repeatedly places
+staff at **Marois** and Saint-Sauveur on their time off.
+
 ## The Green Triangle Award
 
 Separately from the newsletter, "the Green Triangle" was also a coveted camper achievement award, given to a camper who accomplished a series of feats.^7 Charles "Smillie" Buckland, who attended Kanawana from 1944 to 1951, described being its first recipient, circa 1944–1948; he also held the camp's lake swim record.^7 ^8
@@ -84,6 +126,7 @@ The 1978–1982 revival recorded above has a witness from outside the run itself
 8. "How Summer Camp Shapes Lives" (Reader's Digest Canada, updated 2016) [src_readers_digest_camp_shapes_lives].
 9. Spirit of Kanawana (blog by Matt Aronson); oral history, Matt Aronson [src_spirit_kanawana_blog].
 10. Derek Walsh, *Ka-News '78*, staff bulletin of 28 April 1978 [src_ymf_ka_news_1978_04_28]. Cached at `sources/cache/ymca-montreal-fonds/ka-news-1978-04-28.txt`.
+11. *The Green Triangle*, Vol. 1 No. 1, **23 July 1932** — the first issue [src_ymf_the_green_triangle_1932_07_23]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-07-23.txt`. Held since 2026-08-25 at read_state "skimmed", read word for word 2026-09-07 under p_482, in the systematic issue-by-issue read the article's open question 2 asks for.
 
 ## Research Notes
 

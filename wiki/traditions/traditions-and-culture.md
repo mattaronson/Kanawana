@@ -1,7 +1,7 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 41*
-*Last Updated: 2026-09-07 ("old Kanawanians" attested in 1938, twenty-six years earlier and from outside)*
+*Status: E1-reviewed | Sources: 42*
+*Last Updated: 2026-09-07 (a third motto, "Shoot Straight and hit the mark", from the camp's own paper in 1932)*
 
 ## Overview
 
@@ -236,6 +236,24 @@ account to set beside it.
 ![Felt YMCA pennant, c.1930s](../../assets/images/artifacts/ymca-pennant-crest.jpg)
 *A felt YMCA pennant bearing the camp crest and the motto “Non Nobis Solum.” Copyright All rights reserved by Kanawana.*
 
+**A third phrase, used as the camp motto in 1932.** The first issue of *The Green Triangle*, 23 July
+1932, closes its account of a juniors' farewell programme: "This ended another successful evening with
+the **camp motto 'Shoot Straight and hit the mark'**."^42 The phrase occurs nowhere else in this
+project, and it is called *the camp motto* by the camp's own paper.
+
+**What to make of it, carefully.** It does not displace either motto above and is not offered as doing
+so. The register is sporting rather than institutional, and the same issue closes its sport section
+with the period creed "Honour the game thou playest, for he who playeth the game straight and hard,
+wins, though he loses" — so "shoot straight and hit the mark" may be a sportsmanship slogan in
+ceremonial use rather than the motto on the crest. But the camp's own newspaper calls it the camp
+motto, in 1932, which is squarely inside the window open question 1 below is about; and
+[[documents/green-triangle|the newspaper article]] records as a corpus-wide null that **neither**
+"Non Nobis Solum" **nor** "Each for all and all for each" appears anywhere in the paper's whole
+1932–1940 run. A negative that large now has a positive beside it: what the paper does carry, once, is
+a third phrase. Whether the Latin motto was not yet adopted, or simply never printed in a camper
+newsletter, remains open — but the possibility that the camp used a different motto out loud in the
+1930s is now evidenced rather than speculative.
+
 ## Open Questions
 
 1. [Critical, re-confirmed dead end 2026-07-09] When did the camp adopt the Latin motto "Non Nobis Solum" in place of "Each for all and all for each"? The English motto is documented in the 1922 and 1927 brochures. The Latin motto is first attested in the 1993 documentary. Even the McMorris thesis, with full archival access, could not narrow this window. A concrete physical-archive target now exists: Concordia's Box HA1874 holds individually itemized (but undigitized) camp brochures from 1950, 1959, [1960s], 1964, 1965, [1968?], [197-], 1978, 1982, and 1983 — inspecting these, particularly the pre-1993 ones, is very likely the only way to narrow the transition window.^30 Note: "Each for all — all for each" is also the motto of Camp Becket (Becket-Chimney Corners YMCA, est. 1903), suggesting a shared YMCA camping tradition.
@@ -324,3 +342,4 @@ Kanawana."^40 Whether either was ever held again is not known here.
 39. Montreal YMCA annual report 2002-2003, year ended 31 May 2003 [src_ymf_sgw_ymca_annual_report_2002_2003]: the Non Nobis Solum staff volunteer group. Read 2026-09-06 under p_454.
 40. Montreal YMCA annual report 2001-2002 [src_ymf_sgw_ymca_annual_report_2001_2002], "YMCA Kamp Kanawana - A Year of Firsts" and the International Programs page. Read 2026-09-06 under p_454.
 41. "Lost Skiers Find Trails," *The McGill Daily* Vol. 27 No. 87, 2 March 1938 [src_mcgill_daily_1938_03_02]. Transcribed in full at `sources/cache/mcgill/2026-09-07-mcgill-daily-1938-and-1941.txt`. Found by the whole-corpus sweep of 9,890 McGill student publication items under p_479. See [f_5405], [f_5406].
+42. *The Green Triangle*, Vol. 1 No. 1, **23 July 1932** — the first issue [src_ymf_the_green_triangle_1932_07_23]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-07-23.txt`. Held since 2026-08-25 at read_state "skimmed", read word for word 2026-09-07 under p_482, in the systematic issue-by-issue read the article's open question 2 asks for.
