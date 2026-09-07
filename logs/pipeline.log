@@ -7618,3 +7618,27 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   AND: "That we DISCONTINUE VISITORS DAYS during camp for parents and friends." Adoption not established for any of it.
   Appendix signed "James H. Turner, Camp Director", so the whole of it is Turner's.
   KB v10.76 -> v10.77, 5,644 -> 5,645.
+2026-09-07T20:08:46Z  p_491  ATOMIC UNIT: the 1970 SUMMATION, which answers an Important open question that has stood on james-h-turner.md.
+  That article's open question 1 reads: "[Important] What prompted the 1971 proposal... The report states the recommendation but not the
+  reasoning behind it beyond budget." TURNER MADE THE REASONING A YEAR EARLIER, in the summation closing his 1970 report. First half of the
+  question closed; the board's response half is still open and marked so.
+  The praise comes first and is specific: an excellent reputation built on relationships, and programmes "looked upon, BY OTHER CAMPS, as
+  being of a superior quality". THEN THE PLANT: "we are basically trying to operate our camp with MOST OF ITS ORIGINAL FACILITIES. Our camp
+  is INADEQUATE, OUT-DATED and at times GETS IN THE WAY of what we are trying to do - working with people." In the same report as the
+  St. Catherine Street erosion line, so it is a verdict on the whole physical camp, not one worn area.
+  THE PROGRAMME CRITIQUE IS BLUNTER: the programme vehicles "have (a) DISINTEGRATED TO A BARE MINIMUM or (b) new innovative areas have been
+  introduced in a LOW QUALITY MANNER (ie waterfront and tripping areas are the former and our riding program the latter)". The waterfront
+  and tripping are the two things the 1971 proposal wants to rebuild the camp around, and a year earlier they are described as run down.
+  THE YEAR-ROUND STAFFING CASE IS ONE SENTENCE, carrying the scale: "How then can we operate A $100,000 OPERATION WITH OVER 80 STAFF and
+  involving APPROXIMATELY 800 CAMPERS on a PART-TIME BASIS?" Hence the recommendation to hire Director and Business Manager full-time
+  year-round and senior staff on eight-month commitments.
+  AND ON COEDUCATION: "We have also moved into coeducational camping (for three years now) and NEED TO MAKE OUR POSITION VERY CLEAR AS TO
+  WHERE WE STAND." Three years in the director says the question is unsettled -- which is what the long appendix in the same report answers.
+  RIDING, EXTENDED AGAIN (f_5672). The two cancellation recommendations give DIFFERENT REASONS: 1970 puts riding among things done BADLY
+  ("introduced in a low quality manner"), 1971 among things done DEARLY ("an expensive (too expensive) program") after a season the same
+  director calls excellent. The programme apparently improved and was recommended for cancellation anyway. The article already recorded
+  that riding "does disappear from the program areas thereafter", so of Turner's two attempts the first was ignored and the second took.
+  TWO MECHANICAL NOTES. (1) A trailing comma turned a += into a tuple concat and raised before the write, so facts.json was untouched --
+  confirmed by re-reading version and count before retrying rather than assuming. (2) THE ASSERT I PROMISED IN THE LAST UNIT FIRED, on the
+  header count: add_source_note.py had already bumped Sources to 6, so my regex sub was a no-op and would have been silent. Kept the assert.
+  KB v10.77 -> v10.78, 5,645 -> 5,646.
