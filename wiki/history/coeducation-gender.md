@@ -1,7 +1,7 @@
 # Coeducation and Gender at Kanawana
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-09-07 (Marois Day 1932, a mixed regatta programme at a boys' camp; and the 1965 staff poll)*
+*Last Updated: 2026-09-07 (Marois Day across 1932, 1935 and 1936; and the 1965 staff poll)*
 
 ## Overview
 
@@ -223,6 +223,8 @@ the detail that matters:
 Two of five events were mixed and one was women-only. Afterwards "a general swim was then enjoyed by
 all," and at supper the visitors "sat with them and then assisted in doing the dishes after the meal."
 
+**And in 1936 the paper gave the day an entire issue.** *The Green Triangle* of 13 August 1936 is headed "**Marois Issue**" and is written from beginning to end in rhyming couplets addressed to the visitors: "For many weeks and many days… we've longed to see the girls we've raved about"; "But now we gaze upon you all in finery chic and smart / And realize just why we've had a palpitating heart."^gt32b The verse is adolescent and entirely unembarrassed — "such cheeks and hair and dancing feet and smiles like toothpaste ad" — and it makes the point about frequency better than the 1932 programme does: a camp does not write a whole issue in verse for something that happens once. Three attestations now stand across 1932, 1935 and 1936.
+
 **What this adds.** This article already has girls from the Lake Marois area visiting in **1923** for
 "a mixed regatta, ball game, and dance." The 1932 account shows the same thing nine years later, with
 a name — *Marois Day* — a printed programme of events by category, and enough routine in the telling
@@ -309,6 +311,7 @@ coming to Kamp Kanawana each summer."
 - ^ch65: *The Chestnut* ("the pathfinder — Summer Summary"), Kamp Kanawana Pathfinder section publication, 1965 [src_ymf_1965_the_chestnut]. Cached at `sources/cache/ymca-montreal-fonds/1965-the-chestnut.txt`; held since 2026-08-25 at read_state "skimmed" and read word for word 2026-09-07 under p_482. See [f_5487].
 - ^kn78: Derek Walsh, *Ka-News '78*, Kamp Kanawana staff bulletin of 28 April 1978 [src_ymf_ka_news_1978_04_28]. Cached in full at `sources/cache/ymca-montreal-fonds/ka-news-1978-04-28.txt`; read word for word 2026-09-07. See [f_5465].
 - ^gt32: *The Green Triangle*, 13, 20 and 27 August 1932 [src_ymf_the_green_triangle_1932_08_13, src_ymf_the_green_triangle_1932_08_20, src_ymf_the_green_triangle_1932_08_27]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. The 27 August issue survives in a badly degraded scan. See [f_5497].
+- ^gt32b: *The Green Triangle*, 13 August 1936, the "Marois Issue" [src_ymf_the_green_triangle_1936_08_13]. Cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1936-08-13.txt`; read word for word 2026-09-07 under p_482. See [f_5527].
 - [cm] Concordia University Archives static finding-aid mirror, YMCA of Montreal fonds P145 sub-series 12C01, 12D, 12E, 12I, 12J [src_concordia_mirror_12c01, src_concordia_mirror_12d, src_concordia_mirror_12e, src_concordia_mirror_12i, src_concordia_mirror_12j]. Fetched and extracted 2026-08-25 in the p_268 mirror walk. Finding aids: they establish that a file of a given title and date exists, not its contents. See [f_2258], [f_2264].
 - [lw] "Camping… The Last Word!" (the A.B. Thiessen exchange with editor Jay Haddad); the bilingual editorial "segregation… It Still Exists!!!"; and Sylvia Haynes, "Camping is Fun! And it is For Everyone!", *Canadian Camping* Vol. 36 No. 1 (Spring 1984), pp. 3, 8-9, 19 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 150).
 - [ty] "Personality Profile: W. E. (Ted) Yard (1919-1983)" — interview with Shirley Yard and Ted Yard Jr., *Canadian Camping Magazine* Vol. 38 No. 2 (Fall 1986), pp. 10-15 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 159). Movement context, not a Kanawana document.

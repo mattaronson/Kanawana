@@ -956,7 +956,12 @@
         "src_ymf_1965_the_chestnut",
         "src_ymf_the_green_triangle_1932_08_13",
         "src_ymf_the_green_triangle_1932_08_20",
-        "src_ymf_the_green_triangle_1932_08_27"
+        "src_ymf_the_green_triangle_1932_08_27",
+        "src_ymf_the_green_triangle_1936_08_13",
+        "src_ymf_the_green_triangle_1939_07_01",
+        "src_ymf_the_green_triangle_1939_07_29",
+        "src_ymf_the_green_triangle_1940_08_04",
+        "src_ymf_the_green_triangle_1940_08_22"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -971,7 +976,7 @@
         "timeline-overview"
       ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
-      "word_count": 8159,
+      "word_count": 8310,
       "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_001 editorial-resolution narrative into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H2 into Research Notes. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -3386,7 +3391,12 @@
         "src_ymf_the_green_triangle_1940_07_29",
         "src_ymf_the_green_triangle_1938_07_09",
         "src_ymf_the_green_triangle_1938_07_16",
-        "src_ymf_the_green_triangle_1938_08_06"
+        "src_ymf_the_green_triangle_1938_08_06",
+        "src_ymf_the_green_triangle_1936_08_13",
+        "src_ymf_the_green_triangle_1939_07_01",
+        "src_ymf_the_green_triangle_1939_07_29",
+        "src_ymf_the_green_triangle_1940_08_04",
+        "src_ymf_the_green_triangle_1940_08_22"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -3405,7 +3415,7 @@
         "traditions/knights-of-kanawana"
       ],
       "file_id": null,
-      "word_count": 11629,
+      "word_count": 12026,
       "notes": "E1 REVIEW (2026-02-19): Fixed non-existent src_concordia_12B04 in header (removed; src_concordia_atom_12B04 already present). Fixed '131-year history' ambiguity to 'more than 130 years'. All claims cited, dates consistent, names cross-checked, tone encyclopedic. | 2026-08-14: cross-linked to the new traditions/order-of-owens.md. | 2026-08-14: NEW prose section on the Order of the Knights of Kanawana, giving the proclamation text and the six challenges for knighthood (previously the KB held the oath and the 1980-2009 roll but not the criteria). NOTE: this article is E1-reviewed and has received substantive new content; warrants a re-REVIEW pass. | 2026-08-14 (2nd pass): charter mined further -- A/B/C skill-grading system across named activities (f_2004), 'Kamp' spelling in challenge 5 corroborating the pre-2005 usage (f_2005), and the birchbark medium/composition (f_2006).",
       "tags": {
         "era": [
@@ -4794,7 +4804,12 @@
         "src_ymf_the_green_triangle_1932_08_20",
         "src_ymf_the_green_triangle_1932_08_27",
         "src_ymf_the_green_triangle_1933_07_29",
-        "src_ymf_the_green_triangle_1933_08_05"
+        "src_ymf_the_green_triangle_1933_08_05",
+        "src_ymf_the_green_triangle_1936_08_13",
+        "src_ymf_the_green_triangle_1939_07_01",
+        "src_ymf_the_green_triangle_1939_07_29",
+        "src_ymf_the_green_triangle_1940_08_04",
+        "src_ymf_the_green_triangle_1940_08_22"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -4807,7 +4822,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 6988,
+      "word_count": 7358,
       "notes": "R1 RALPH completed 2026-02-27. 14 new KB facts. 23 KB facts total. 15 sources. Key findings: Marching Song traced to Alabama Jubilee (1915), lost verses found at Concordia 2006; full 1922 Yo Triumphy cheer; 1923 Gas Bag original songs; 1935 musicale; 1938 choir by Leshley; Kerr song on CD P145/SR0001 (4:30). Blocked on: oral history for section cheers/Grace/campfire repertoire; Concordia archives for song books 1925-1945. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the 'Correction (2026-07-09)' paragraph into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -9404,9 +9419,14 @@
         "src_ymf_the_green_triangle_1936_08_01",
         "src_ymf_the_green_triangle_1938_06_02",
         "src_ymf_the_green_triangle_1976_09",
-        "src_ymf_the_green_triangle_1982_11_15_eng"
+        "src_ymf_the_green_triangle_1982_11_15_eng",
+        "src_ymf_the_green_triangle_1936_08_13",
+        "src_ymf_the_green_triangle_1939_07_01",
+        "src_ymf_the_green_triangle_1939_07_29",
+        "src_ymf_the_green_triangle_1940_08_04",
+        "src_ymf_the_green_triangle_1940_08_22"
       ],
-      "open_questions": 3,
+      "open_questions": 2,
       "cross_links": [
         "camp-songs-cheers",
         "directors-index",
@@ -9415,7 +9435,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 3136,
+      "word_count": 3496,
       "notes": "2026-07-11: Workstream C3 spawn -- newsletter/award/symbol synthesized into standalone article, cited as a source in 13+ articles but never its own subject. No new research conducted. Corrected two dangling source_id references (src_web_readers_digest_buckland -> src_readers_digest_buckland; src_ia_green_triangle_1938 -> src_green_triangle_1938) in kb/facts.json while preparing this article. | 2026-08-14 p_226: applied the programs/places BLOCKING fixes from the p_218 audit.",
       "tags": {
         "era": [

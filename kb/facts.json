@@ -1,8 +1,8 @@
 {
-  "version": "9.98",
-  "kb_version": "9.98",
+  "version": "9.99",
+  "kb_version": "9.99",
   "migrated_from": "3.3",
-  "fact_count": 5487,
+  "fact_count": 5491,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -98942,6 +98942,79 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.98",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5526",
+      "category": "documents",
+      "date_ref": "1937-1939",
+      "entities": [
+        "The Green Triangle",
+        "Camp Kanawana"
+      ],
+      "claim": "THREE THINGS THE RUN SAYS ABOUT ITS OWN PRODUCTION. (1) IT COST TWO CENTS. The opening issue of 1939 reminisces 'about the day when it FIRST APPEARED IN PRINT AT TWO CENTS PER COPY', which dates the price to the 1937 change from reading aloud to printing and is the only price this project holds for any Kanawana publication. (2) IT HAD SPECIAL ISSUES AS WELL AS A RE-UNION NUMBER: the number of 13 August 1936 is headed 'MAROIS ISSUE' and written entirely in verse, so the paper produced a dedicated issue for a single event -- three formats in all, the seasonal weekly, the off-season Re-union Number, and the occasional special. (3) AND IN 1939 IT CHANGED HOW IT GATHERED NEWS, with a device worth admiring: 'Beginning with this issue... a new system of production will be followed. EACH SECTION WILL BE ALLOTTED A FULL PAGE and will be responsible for the news therein. Consequently, IF PART OF A PAGE IS LEFT BLANK, THE OMISSION SIGNIFIES THAT NOT ENOUGH NEWS HAS BEEN RECEIVED FROM THAT SECTION.' Rather than chase contributions -- which every editorial from 1932 onward does, increasingly plaintively -- the 1939 editors made the shortfall visible and let each section answer for its own white space.",
+      "sources": [
+        "src_ymf_the_green_triangle_1939_07_01",
+        "src_ymf_the_green_triangle_1939_07_29",
+        "src_ymf_the_green_triangle_1936_08_13"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.99",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5527",
+      "category": "history",
+      "date_ref": "1936-08-13",
+      "entities": [
+        "Camp Kanawana",
+        "Lake Marois"
+      ],
+      "claim": "THE PAPER GAVE MAROIS DAY AN ENTIRE ISSUE IN 1936, WHICH MAKES THREE ATTESTATIONS. The Green Triangle of 13 August 1936 is headed 'MAROIS ISSUE' and is written from beginning to end in rhyming couplets addressed to the visiting girls: 'For many weeks and many days... we've longed to see the girls we've raved about'; 'But now we gaze upon you all in finery chic and smart / And realize just why we've had a palpitating heart'; 'such cheeks and hair and dancing feet and SMILES LIKE TOOTHPASTE AD'. The verse is adolescent and entirely unembarrassed. IT MAKES THE POINT ABOUT FREQUENCY BETTER THAN THE 1932 PROGRAMME DOES: a camp does not write a whole issue in verse for something that happens once. Marois Day now stands attested in 1932 (with its printed programme of Mixed and Ladies' races, f_5497), 1935 ('the season's most anticipated event') and 1936 (its own issue).",
+      "sources": [
+        "src_ymf_the_green_triangle_1936_08_13"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.99",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5528",
+      "category": "traditions",
+      "date_ref": "1939-1940",
+      "entities": [
+        "Camp Kanawana",
+        "The Green Triangle"
+      ],
+      "claim": "THE MASQUERADE BALL SPLIT BY SECTION, AND A DOZEN YELLS WERE COMPOSED AND NONE WRITTEN DOWN. THE BALL, 22 August 1940: 'Last Saturday night saw the success of ANOTHER ANNUAL MASQUERADE BALL. LIKE LAST YEAR THE JUVENILE SECTION HELD A SEPARATE BALL OF THEIR OWN, while over in the dining hall the Juniors and Seniors held theirs. After the general march led by Doug Fairbairn in which the winners were picked, there was group singing,' a solo, 'and a short talk by the Doctor. THE FEATURE OF THE EVENING WAS THE HOBO DANCE.' With the fancy dress carnival of 1935 and the fancy dress ball of 1938 that makes the costume evening a fixture across at least six seasons; 1940 adds that it had SPLIT BY SECTION by 1939 and had a set piece called the hobo dance. THE YELLING CONTEST, 1 July 1939: 'Another rainy day, and at the Chief's suggestion EACH TABLE IN THE DINING HALL COMPOSED AND DELIVERED THEMSELVES OF A YELL at supper time. The judges... were NURSE RAYNER, DR. ROBB and Bill Green... an exciting \"shout off\" resulted in a victory for the Staff, with the Seniors yelling \"WE WERE GYPPED\". The Chief presented the prize -- A LARGE HOLLOW BULL'S HORN FILLED WITH STALE CHOCOLATES, which were hesitatingly consumed by the staff. THE WINNING YELLS WILL BE PRINTED IF THE DEMAND IS SUFFICIENT.' THE DEMAND WAS NOT SUFFICIENT: no later issue prints them. wiki/traditions/camp-songs-cheers.md has the camp's yells surviving only in fragments, and this is a day on which a dozen new ones were composed and none written down.",
+      "sources": [
+        "src_ymf_the_green_triangle_1940_08_22",
+        "src_ymf_the_green_triangle_1939_07_01"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.99",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5529",
+      "category": "traditions",
+      "date_ref": "1939-1940",
+      "entities": [
+        "Camp Kanawana",
+        "The Harmony Club",
+        "Frank Sharpe"
+      ],
+      "claim": "THE HARMONY CLUB, A CLASSICAL SUNDAY PROGRAMME, AND A SECOND CAMP VERSE. THE SUNDAY MUSICALS, 1939: an hour in the Lodge opening with 'a rousing rendition of THE CAMP MARCHING SONG', then FRANK PATTERSON playing RACHMANINOFF'S PRELUDE IN C SHARP MINOR, a new song 'In Poland there's an Inn', BILL KOSS playing MENDELSSOHN'S SPRING SONG on violin, 'Abide With Me' by THE HARMONY CLUB, Patterson playing LISZT'S LIEBESTRAUM, 'We are climbing Jacob's Ladder', and 'Now the Day is Over' led by the Harmony Club. THE HARMONY CLUB is a named camp singing group this project holds nowhere else, and the repertoire is worth noting for what it is not -- a Laurentian boys' camp in 1939 programming Rachmaninoff, Liszt and Mendelssohn played by campers, between a marching song and a hymn. AND A SECOND CAMP VERSE, 'KANAWANA MELODY' by FRANK SHARPE -- the same man who was Special Events Editor of the 1938 Voice of Youth broadcast -- printed 4 August 1940: 'Kanawana's hills and lakes, its trees and sunset glows... And, best of all, its lasting friends that campers brought and brings -- Are like a melody of joy that Kanawana sings.' Like Max Ford's verse of 1932 it is a list poem naming places this wiki holds separately; unlike Ford's, nothing in the run shows it being sung.",
+      "sources": [
+        "src_ymf_the_green_triangle_1939_07_01",
+        "src_ymf_the_green_triangle_1940_08_04"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.99",
       "added_by": "ralph_loop"
     }
   ]

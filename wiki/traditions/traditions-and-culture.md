@@ -1,6 +1,6 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 52*
+*Status: E1-reviewed | Sources: 53*
 *Last Updated: 2026-09-07 (Cuckoo Day, 1938; and the camp keeping up with the outside world)*
 
 ## Overview
@@ -32,7 +32,7 @@ The camp calendar was punctuated by recurring competitive and social events:
 - **Shawbridge Meet**: An annual athletic competition involving a hike to Shawbridge, with the J. Earl Birks Trophy awarded. As of 1922, it had been running for ten years (since approximately 1912).^2 ^7 Still documented in 1935.^5
 - **Silver Trophies**: Annual inter-branch competition awards; in 1923, Westmount won Athletics and Aquatics for the third consecutive year.^7
 - **Boating Carnival** and **All-Camp Regatta**: Documented in 1935.^5
-- **Marois Day and Marois Regatta**: Events connected to the nearby Marois lake area — and mixed events; the 1932 programme, with its Ladies' and Mixed races, is set out in [[history/coeducation-gender|Coeducation and Gender]].^5
+- **Marois Day and Marois Regatta**: Events connected to the nearby Marois lake area — and mixed events; the 1932 programme, with its Ladies' and Mixed races, is set out in [[history/coeducation-gender|Coeducation and Gender]]. The paper devoted an entire issue to the occasion in 1936, headed "**Marois Issue**" and written throughout in verse addressed to the visiting girls^53.^5
 - **Annual Circus**: Raised $5 in proceeds during the 1935 season.^5
 - **Fancy Dress Ball**: Documented in the 1938 *Green Triangle* — and three years earlier, as a "**fancy dress carnival**" on a Thursday evening in June 1935, with prizes to Jimmy Hamilton "as a savage tribesman", Burgess and Drossey "as a rickshaw team", Bruce Johnson "as a hula-hula dancer", Dickie Ott "as a bandit" and Junior Taylor "as a Chinaman"^47 — a costume list very much of its date, recorded as printed.^6
 - **Pyjama Parade**: An annual procession to the post office.^5
@@ -346,6 +346,29 @@ the **Crow's Nest**."
 Swing records, a heavyweight title fight, the quintuplets and the Olympics all reached a Laurentian
 boys' camp within weeks of happening. Whatever else the camp was selling — woodcraft, the simple life,
 the out-of-doors — its campers arrived with the decade in their heads and built it into their boats.
+
+## The Masquerade Ball and a yelling contest
+
+**The masquerade ball was annual and the Juveniles held their own.** *The Green Triangle* of 22 August
+1940: "Last Saturday night saw the success of another **annual masquerade ball**. **Like last year the
+Juvenile Section held a separate ball of their own**, while over in the dining hall the Juniors and
+Seniors held theirs. After the general march led by Doug Fairbairn in which the winners were picked,
+there was group singing," a solo, "and a short talk by the Doctor. **The feature of the evening was
+the hobo dance**, after which refreshments were served. A moonlight dip was also a highlight."^53 With
+the fancy dress carnival of June 1935 and the fancy dress ball of 1938, that makes the costume evening
+a fixture across at least six seasons, and 1940 adds two things: it had **split by section** by 1939,
+and it had a set piece of its own called the hobo dance.
+
+**And on a rainy day in 1939, the Chief made the whole dining hall compose yells.** "Another rainy
+day, and at the Chief's suggestion **each table in the dining hall composed and delivered themselves
+of a yell at supper time**. The judges for the occasion were **Nurse Rayner, Dr. Robb and Bill
+Green**. After a good deal of hulla-lu-hullo, the Doctor called it a dead heat between Senior Table
+No. 1 and the Staff; an exciting 'shout off' resulted in a victory for the Staff, with the Seniors
+yelling '**we were gypped**.' The Chief presented the prize — **a large hollow bull's horn filled with
+stale chocolates**, which were hesitatingly consumed by the staff. The winning yells will be printed
+if the demand is sufficient."^53 The demand was evidently not sufficient: no later issue prints them.
+[[traditions/camp-songs-cheers|The songs and cheers article]] has the camp's yells surviving only in
+fragments, and this is a day on which a dozen new ones were composed and none written down.
 
 ## L&V Games
 
@@ -661,3 +684,4 @@ Kanawana."^40 Whether either was ever held again is not known here.
 50. *The Green Triangle*, **1 August 1936** ("An Issue in verse") and the issue opening volume 45, **2 July 1938** [src_ymf_the_green_triangle_1936_08_01, src_ymf_the_green_triangle_1938_06_02]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. **Note the date discrepancy on the second**: the Internet Archive item is identified as `1938-06-02` and the cache file follows it, but the masthead reads "Kamp Kanawana - Saturday, July 2, 1938". July 2 1938 was a Saturday; June 2 was a Thursday. The masthead is preferred.
 51. *The Green Triangle*, Issue 2, **21 July 1940**, and Vol. 47 No. 4, **29 July 1940** [src_ymf_the_green_triangle_1940_07_21, src_ymf_the_green_triangle_1940_07_29]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 52. *The Green Triangle*, **9**, **16 July** and **6 August 1938** [src_ymf_the_green_triangle_1938_07_09, src_ymf_the_green_triangle_1938_07_16, src_ymf_the_green_triangle_1938_08_06]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+53. *The Green Triangle*, **13 August 1936** (the "Marois Issue"), **1** and **29 July 1939**, **4** and **22 August 1940** [src_ymf_the_green_triangle_1936_08_13, src_ymf_the_green_triangle_1939_07_01, src_ymf_the_green_triangle_1939_07_29, src_ymf_the_green_triangle_1940_08_04, src_ymf_the_green_triangle_1940_08_22]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. With these the whole digitized 1932–1982 run has been read.

@@ -1,7 +1,7 @@
 # The Green Triangle
 
-*Status: draft | Sources: 14*
-*Last Updated: 2026-09-07 (the Gas Bag was its predecessor; and the revived paper was a director's circular, correcting an earlier reading)*
+*Status: draft | Sources: 15*
+*Last Updated: 2026-09-07 (the whole digitized run read issue by issue, closing open question 2)*
 
 ## Overview
 
@@ -143,6 +143,25 @@ thing. Nothing read so far settles which.
 The same issue asks readers to join a "**Publisher's Guild**" and turn up to its first meeting, which
 is the only name this project has for the paper's staff as a body.
 
+## Three things the run says about its own production
+
+**It cost two cents.** The opening issue of 1939 reminisces "about the day when it first appeared in
+print at **two cents per copy**" — which dates the price to the 1937 change from reading aloud to
+printing, and is the only price this project has for any Kanawana publication.^15
+
+**It had special issues as well as a Re-union Number.** The issue of 13 August 1936 is headed "**Marois
+Issue**" and is written entirely in verse, addressed to the visiting girls: "For many weeks and many
+days… we've longed to see the girls we've raved about." So the paper produced a dedicated number for
+Marois Day, which makes three special formats across the run — the seasonal weekly, the off-season
+**Re-union Number**, and an occasional issue for a single event.
+
+**And in 1939 it changed how it gathered news, with a device worth admiring.** "Beginning with this
+issue… a new system of production will be followed. **Each section will be allotted a full page** and
+will be responsible for the news therein. Consequently, **if part of a page is left blank, the
+omission signifies that not enough news has been received from that section.**"^15 Rather than chase
+contributions — which every editorial from 1932 onward does, increasingly plaintively — the 1939
+editors made the shortfall visible on the page and let each section answer for its own white space.
+
 ## The Green Triangle Award
 
 Separately from the newsletter, "the Green Triangle" was also a coveted camper achievement award, given to a camper who accomplished a series of feats.^7 Charles "Smillie" Buckland, who attended Kanawana from 1944 to 1951, described being its first recipient, circa 1944–1948; he also held the camp's lake swim record.^7 ^8
@@ -163,7 +182,7 @@ The 1978–1982 revival recorded above has a witness from outside the run itself
 ## Open Questions
 
 1. [Important] What did the Green Triangle award's "series of feats" actually consist of, beyond Buckland's single anecdotal account? No source itemizes the specific requirements.
-2. [Nice-to-have] Now that 38 digitized issues are known to exist (rather than one), a systematic issue-by-issue read of the full 1932–1982 run — beyond the six issues read in full so far (1933-07-08, 1935-08-17, 1937-03-30, 1938-07-29, 1939-07-22, 1940-06-27) — would likely surface further camp history not yet captured in this KB.
+2. ~~[Nice-to-have] Now that 38 digitized issues are known to exist (rather than one), a systematic issue-by-issue read of the full 1932–1982 run — beyond the six issues read in full so far (1933-07-08, 1935-08-17, 1937-03-30, 1938-07-29, 1939-07-22, 1940-06-27) — would likely surface further camp history not yet captured in this KB.~~ **[Resolved 2026-09-07 under p_482: the run has now been read issue by issue.** It produced, among other things, a third camp motto, the Fire of Friendship three years earlier than recorded, Cuckoo Day, the Kanawana Circus, the annual reunion, the *Gas Bag* succession, Marois Day's mixed programme, and people including Macdiarmid, Langille and Ross Seaman turning up years before their recorded dates. The one issue that resisted is **27 August 1932**, whose scan is too degraded to read; it needs page images.]
 3. [Nice-to-have] What prompted the newsletter's 1976 and 1978–1982 revivals, and why did each end?
 
 ## Related Articles
@@ -190,6 +209,7 @@ The 1978–1982 revival recorded above has a witness from outside the run itself
 12. *The Green Triangle*, Vol. IV No. 7, **4 August 1935**, and Volume 5, **Re-union Number, 17 October 1936** [src_ymf_the_green_triangle_1935_08_04, src_ymf_the_green_triangle_1936_10_17]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 13. *The Green Triangle*, **1 August 1936** ("An Issue in verse") and the issue opening volume 45, **2 July 1938** [src_ymf_the_green_triangle_1936_08_01, src_ymf_the_green_triangle_1938_06_02]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. **Note the date discrepancy on the second**: the Internet Archive item is identified as `1938-06-02` and the cache file follows it, but the masthead reads "Kamp Kanawana - Saturday, July 2, 1938". July 2 1938 was a Saturday; June 2 was a Thursday. The masthead is preferred.
 14. *The Green Triangle*, **September 1976** and **15 November 1982** [src_ymf_the_green_triangle_1976_09, src_ymf_the_green_triangle_1982_11_15_eng] — the two surviving issues of the revived paper. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+15. *The Green Triangle*, **13 August 1936** (the "Marois Issue"), **1** and **29 July 1939**, **4** and **22 August 1940** [src_ymf_the_green_triangle_1936_08_13, src_ymf_the_green_triangle_1939_07_01, src_ymf_the_green_triangle_1939_07_29, src_ymf_the_green_triangle_1940_08_04, src_ymf_the_green_triangle_1940_08_22]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. With these the whole digitized 1932–1982 run has been read.
 
 ## Research Notes
 

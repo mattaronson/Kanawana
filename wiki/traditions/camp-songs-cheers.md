@@ -1,7 +1,7 @@
 # Camp Songs, Cheers, and Musical Traditions
 
-*Status: E1-reviewed | Sources: 28*
-*Last Updated: 2026-09-07 ("Dear Old Kanawana" printed in 1932, sung on the road, and very probably the unnamed camp song of 1933)*
+*Status: E1-reviewed | Sources: 29*
+*Last Updated: 2026-09-07 (the Harmony Club and the 1939 Sunday Musicals; "Kanawana Melody", 1940)*
 
 ## Overview
 
@@ -187,6 +187,38 @@ Morin Heights: "While passing farmhouses and **D'Arcy McGee Camp** the hikers un
 Yell**."^27 The yell is not transcribed, which is a pity, but its use is: it was what you did when
 passing another camp, and it identified you at a distance. The same passage calls the party "the
 Kanawanians," six years before the "old Kanawanians" this wiki dates to 1938.
+
+## The Sunday Musicals and the Harmony Club, 1939
+
+The camp's Sunday music was not only sing-songs. The opening issue of 1939 reports the season's first
+"Sunday Musical," an hour in the Lodge, and prints the programme:^29 it opened with "a rousing
+rendition of **the camp marching song**"; then **Frank Patterson** played **Rachmaninoff's Prelude in
+C sharp minor**; the camp learned a new song, "**In Poland there's an Inn**"; **Bill Koss** played
+**Mendelssohn's Spring Song** on the violin; "Abide With Me" was sung by **the Harmony Club**;
+Patterson played **Liszt's Liebestraum**; the camp sang "We are climbing Jacob's Ladder"; and the
+Harmony Club led "Now the Day is Over" to close.
+
+**The Harmony Club** is a named camp singing group this project has nowhere else. And the repertoire
+is worth noting for what it is not: a Laurentian boys' camp in 1939 programming Rachmaninoff, Liszt
+and Mendelssohn played by campers, between a marching song and a hymn.
+
+## "Kanawana Melody" (1940)
+
+A second camp verse, printed over the name **Frank Sharpe** — the same man who was Special Events
+Editor of the 1938 *Voice of Youth* broadcast — in the issue of 4 August 1940:^29
+
+> Kanawana's hills and lakes, its trees and sunset glows,
+> Its murmurs of the day and night in never ending flow;
+> Its fireflies like low stars of night, its meal time din and stir;
+> Its rains that spatter of tent flies and mosquitoes' whining burr;
+> Its song and chatter, fun and games, its chapel mid the trees;
+> Its moonlit shores, canoes and boats, and myriad sights like these;
+> And, best of all, its lasting friends that campers brought and brings —
+> Are like a melody of joy that Kanawana sings.
+
+Like Max Ford's verse of 1932 it is a list poem and it names places this wiki holds separately — the
+chapel among the trees, the moonlit shores, the tent flies. Unlike Ford's, nothing in the run shows it
+being sung.
 
 ## Four named songs from 1933
 
@@ -382,6 +414,7 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 26. *The Green Triangle*, Vol. 1 No. 3, **6 August 1932** [src_ymf_the_green_triangle_1932_08_06]. Cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-08-06.txt`; read word for word 2026-09-07 under p_482.
 27. *The Green Triangle*, **13 August 1932** [src_ymf_the_green_triangle_1932_08_13], **20 August 1932** [src_ymf_the_green_triangle_1932_08_20] and **27 August 1932** [src_ymf_the_green_triangle_1932_08_27]. All cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. The 27 August issue survives in a badly degraded scan — much of it is unreadable and only its clearest passages are used here.
 28. *The Green Triangle*, Vol. II Nos. 4 and 5, **29 July** and **5 August 1933** [src_ymf_the_green_triangle_1933_07_29, src_ymf_the_green_triangle_1933_08_05]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+29. *The Green Triangle*, **13 August 1936** (the "Marois Issue"), **1** and **29 July 1939**, **4** and **22 August 1940** [src_ymf_the_green_triangle_1936_08_13, src_ymf_the_green_triangle_1939_07_01, src_ymf_the_green_triangle_1939_07_29, src_ymf_the_green_triangle_1940_08_04, src_ymf_the_green_triangle_1940_08_22]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. With these the whole digitized 1932–1982 run has been read.
 
 ## Research Notes
 
