@@ -3,7 +3,7 @@
 *Status: E1-reviewed | Sources: 17*
 *Last Updated: 2026-09-06 (he entered Association work in 1889, and he is still Physical Director in 1899)*
 
-## Summary
+## Overview
 
 "Billy" Ball of the YMCA of Montreal led the first organized camping trip in the summer of 1894, taking a group of 20 boys to an island on Lake Saint-Joseph in the Township of Howard (now Saint-Adolphe-d'Howard), near Sainte-Agathe, Quebec.^1 ^2 This trip formally established Camp Jubilee, Quebec's first residential summer camp. The camp was named to commemorate the 50th anniversary of the worldwide YMCA movement (founded 1844 in London).^3
 

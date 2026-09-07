@@ -8,10 +8,11 @@ commit that CI then failed on A2 ninety seconds later. CI was doing its job; the
 local check was not a gate, only a display. This makes the local check a gate.
 
 It runs exactly the steps in .github/workflows/verify.yml, in that order, so a
-clean run here means a clean run there. Three of them (staleness, footnote_labels, section_headings)
+clean run here means a clean run there. Two of them (staleness, footnote_labels)
 are advisory and exit 0 by design; they are still run, because their output is
 worth reading, and their exit code is still honoured, because if one ever starts
-failing that is news.
+failing that is news. section_headings was the third until p_481 cleared its
+backlog on 2026-09-07; it now blocks.
 
 Usage:
     python scripts/verify/all.py            # summary lines only
@@ -31,7 +32,7 @@ CHECKS = [
     ("staleness",        "Staleness (advisory)"),
     ("footnote_labels",  "Footnote labels (advisory)"),
     ("restricted_guard", "Embargo labelling"),
-    ("section_headings", "Section headings (advisory)"),
+    ("section_headings", "Section headings"),
 ]
 
 def main() -> int:

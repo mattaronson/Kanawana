@@ -89,12 +89,11 @@ jobs:
         # failure, not present.
         run: python scripts/verify/restricted_guard.py
 
-      - name: Section headings (advisory)
+      - name: Section headings
         # Every registered article carries the sections CLAUDE.md's template
         # names. Written 2026-09-07 after a spinout silently dropped the
         # "## Sources" heading from an article that then passed every other
         # check, because they count entries and markers and nothing looked at
-        # headings. Advisory while the fourteen pre-existing offenders in p_481
-        # remain; it still reports any NEW omission, which is the case it was
-        # built for.
+        # headings. Shipped advisory while the fourteen pre-existing offenders
+        # in p_481 remained; blocking since that backlog cleared the same day.
         run: python scripts/verify/section_headings.py

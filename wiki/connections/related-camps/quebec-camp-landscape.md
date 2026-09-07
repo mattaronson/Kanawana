@@ -286,6 +286,20 @@ Several patterns emerge from the Quebec and Canadian camp landscape:
 5. [Substantially resolved 2026-07-10] What role did the Quebec Camping Association (founded 1937) play in connecting these camps? Its institutional lineage is now documented in detail: Concordia's P0145/12N03 ("Quebec Section, Canadian Camping Association," 1929-1970) and 12N04 ("Quebec Camping Association / Association des camps du Québec," 1978-1980), plus Trent University's own QCA fonds (85-013, 1948-1982), confirm it was "established in 1937 as a chartered unit of the Canadian Camping Association." Neither finding aid names Kamp Kanawana or Camp Perrot as specific members by name — only physical box-level access could establish this.^22 ^23
 6. [Important, new 2026-07-11] Building the "Camps at a Glance" summary table made explicit a gap that existed but wasn't previously visible: this article does not currently confirm whether Camp B'nai Brith, Camp Massad, Colonie de vacances Sainte-Jeanne-d'Arc, Big Cove YMCA Camp, Camp Pine Crest, Camp Wanakita, or John Island Camp are still operating today. Each was originally researched for its historical connection to Kanawana, not its present-day status, so this was never checked. A dedicated round of "is this camp still open" searches would close the gap.
 
+
+## Related Articles
+
+- [[connections/related-camps/points-of-contact|Points of Contact]] — where Kanawana's people and programmes met other camps directly
+- [[connections/related-camps/camp-weredale|Camp Weredale]]
+- [[connections/related-camps/camp-oolahwan|Camp Oolahwan]]
+- [[connections/related-camps/camp-ouareau|Camp Ouareau]]
+- [[connections/related-camps/camp-lighthall|Camp Lighthall]]
+- [[connections/related-camps/camp-pine-crest|Camp Pine Crest]]
+- [[site/camp-otoreke|Camp Otoreke]] — a Montreal YMCA camp, and so core rather than a related camp
+- [[site/camp-becsies|Camp Becsies]]
+- [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]
+- [[connections/institutional-lineage/quebec-camping-association|The Quebec Camping Association]]
+
 ## Sources
 
 1. QAHN, "The YMCA Camp of Saint-Adolphe d'Howard." URL: https://qahn.org/article/ymca-camp-saint-adolphe-dhoward

@@ -4343,3 +4343,37 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   NEW: f_5543; kb 10.07 -> 10.08. Verify green, after A2 caught a source in
   sources_cited that the prose described but never cited.
   Timestamp read from `date -u` in its own call.
+
+[2026-09-07T11:46:31Z] p_481 COMPLETE -- fifteen articles missing template sections.
+  Mostly a NAMING INCONSISTENCY, not missing content. Eight said "## Summary"
+  where the template says "## Overview" and were renamed (founding-1894,
+  centennial-1967, canadian-camping-movement, sources-index, directors-index,
+  billy-ball, da-budge, cushing-family), after grepping the whole wiki for
+  inbound "#summary" anchors and finding none. Four opened with an unheaded
+  paragraph that already was an overview and got the heading (section-names,
+  lv-games, council-ring, wartime-kanawana). quebec-camp-landscape gained a
+  "## Related Articles". Each was read before it was touched, because putting
+  "## Overview" over a paragraph that is not one is worse than the gap.
+  THE ONE REAL FIND was wartime-kanawana, which carried its questions in TWO
+  places under two names: a "## Research Gaps" section in the body and a
+  "### Open Questions" list buried after the Sources inside the verification
+  notes. Consolidated into one "## Open Questions" in the template position,
+  substance unchanged, and build_article_counts.py now counts 8 where it counted
+  0. Those eight questions had been invisible to every count in the project for
+  as long as they have existed -- the article looked like a closed subject and
+  was an unexamined one. That is the failure the heading check was built for,
+  and it was already present before the check existed.
+  TWO ARE EXEMPT, NOT FIXED: sources-index is an index OF sources, and
+  timeline-overview has zero citation markers because every claim in it lives in
+  the article it links to. A "## Sources" heading on either would be a section
+  claiming to hold something and holding nothing -- an unrecorded null in the
+  other direction. Moved from KNOWN to a documented EXEMPT dict, printed every
+  run without failing, because an exemption nobody sees is an exemption nobody
+  re-examines.
+  section_headings.py is now BLOCKING, in all.py and verify.yml, KNOWN emptied
+  and kept as the record of what the backlog was. The blocking path was tested
+  by running a copy with a heading no article has and confirming exit 1: a check
+  never seen to fail is a check never tested. Also fixed a NameError left from
+  the last session (exempt_seen initialised on the wrong line) and camp-otoreke's
+  Open Questions, which were numbered 1,1,2..9 after an insertion at the top.
+  Verify green, all eight checks. Timestamp read from `date -u` in its own call.

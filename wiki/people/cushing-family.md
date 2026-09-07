@@ -3,7 +3,7 @@
 *Status: E1-reviewed | Sources: 15*
 *Last Updated: 2026-09-06 (Percy H. Cushing's career, and four Cushings inside the association in 1892)*
 
-## Summary
+## Overview
 
 The Cushing family had a multi-generational connection to the YMCA of Montreal spanning from the 1860s through at least the 1940s. The patriarch Lemuel Cushing Sr. (1806-1875), a businessman of United Empire Loyalist descent, had thirteen children including eight sons who became prominent in Montreal business and civic life.^1 His son Lemuel Cushing Jr. (1842-1881) served as president of the main Montreal YMCA in 1867-68 and published *The Genealogy of the Cushing Family* (1877).^2 A later Lemuel Cushing — whose exact identity remains uncertain — brought the first group of boys to Lake Saint-Joseph in 1892, inaugurating the Montreal YMCA's camping program two years before the formal establishment of Camp Jubilee.^3 W.E. Cushing wrote historical sketches about the Lake Saint-Joseph camps in 1943, and a Dr. Cushing advised keeping Camp Kanawana open during the 1946 polio outbreak.^4 ^5
 

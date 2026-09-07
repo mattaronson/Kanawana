@@ -3,7 +3,7 @@
 *Status: E1-reviewed | Sources: 25*
 *Last Updated: 2026-09-06 (p_349: Edgar's two later hymns noted)*
 
-## Summary
+## Overview
 
 Canada's Centennial year of 1967 was a landmark moment for Camp Kanawana and the broader Canadian camping movement. Two major canoe events marked the celebrations: the competitive Centennial Voyageur Canoe Pageant, a federal government-sponsored race from Rocky Mountain House, Alberta to Expo '67 in Montreal; and the CCA Centenary Journey, a coast-to-coast youth canoe trip organized by the Canadian Camping Association. Kanawana participated directly in the latter, sending six boys and two counsellors on a 150-mile paddle from Montreal to Ottawa via the Ottawa River.^1 The year also marked the end of Kanawana's boys-only era, with the camp having served exclusively male campers from its founding in 1894 through 1967.^2
 

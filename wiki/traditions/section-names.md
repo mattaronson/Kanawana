@@ -3,6 +3,8 @@
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
 *Last Updated: 2026-08-14*
 
+## Overview
+
 Kanawana's original age groupings were straightforward: Juniors (12 to 14) and Seniors (14 to 17). Two groups, one dividing line. By 1930, the camp had added a Juveniles section for boys aged 10 to 12, recognizing both the demand from younger families and the practical reality that a ten-year-old and a sixteen-year-old do not belong in the same program. The 1935 staff list reflects this three-section structure, with separate directors for Juveniles (Lorne Hamilton), Juniors (Ernie Taylor), and Seniors (Howie Langille).
 
 In 1930, ten-year-olds were admitted for the first time and the Juvenile section (ages 10 to 12) was created.^mc The age range continued to creep downward; by the early 1940s, eight-year-olds were allowed and the youngest campers had their own section: Bantams, covering ages 8 to 10.^mc This brought the total to four sections, roughly dividing the camp population into two-year age bands from 8 through 17. The names at this stage were functional rather than evocative. Bantam, Juvenile, Junior, Senior. They told you where a boy stood in the camp hierarchy and nothing more.

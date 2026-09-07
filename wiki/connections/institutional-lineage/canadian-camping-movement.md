@@ -3,7 +3,7 @@
 *Status: E1-reviewed | Sources: 22*
 *Last Updated: 2026-09-07 (the Commodore identified: A. W. Forgie, boys' work, both his wars, and Madras)*
 
-## Summary
+## Overview
 
 Camp Kanawana, founded in 1894 as Camp Jubilee by the YMCA of Montreal, holds a significant position in the Canadian organized camping movement. It is **Quebec's first residential summer camp and among the oldest in Canada** — long described here as "Canada's second-oldest, after Big Cove YMCA Camp in Nova Scotia (1889)", a ranking this article no longer asserts.^1 ^2 **Three camps now claim a start before 1894** and the evidence for each is set out below; see also conflict `c_031`. Every camp in contention for the earliest start is a YMCA institution, underscoring the YMCA's foundational role in Canadian camping. The organized camping movement grew from antimodernist impulses in the late nineteenth century, with the YMCA as its institutional engine, and was later formalized through the Ontario Camping Association (1933) and the Canadian Camping Association (1936).
 

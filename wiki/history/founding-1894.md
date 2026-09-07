@@ -3,7 +3,7 @@
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
 *Last Updated: 2026-09-06 (the first camp committee's men were already in the association's provincial machinery)*
 
-## Summary
+## Overview
 
 The origins of Camp Kanawana involve two distinct sites and a founding sequence that spans at least three years. In 1892, [[people/cushing-family|Lemuel Cushing]] of the Montreal YMCA brought a group of boys to Lake Saint-Joseph in the Township of Howard (now Saint-Adolphe-d'Howard), near Sainte-Agathe. By 1893, organized camping activity was underway there, with camper lists, fishing rights, and financial records documented in the Concordia archives. In the summer of 1894, [[people/billy-ball|Billy Ball]] formally established Camp Jubilee at the same lake, taking approximately 20 campers to islands in Lake St. Joseph. The name "Jubilee" commemorated the YMCA's fiftieth anniversary (founded 1844, jubilee year 1894). The YMCA subsequently purchased the main island and two others for leadership training.
 

@@ -3,7 +3,7 @@
 *Status: E1-reviewed | Sources: 67*
 *Last Updated: 2026-09-07 (John Bradford, 1917 co-supervisor, found teaching CSET at McGill in February 1918)*
 
-## Summary
+## Overview
 
 This index compiles all known directors of Camp Kanawana (originally Camp Jubilee) from its founding in 1894 to the present, along with documented staff from seasons where source records survive. The directorship has been documented through camp brochures, season reports, YMCA correspondence, oral history, and secondary sources. Detailed staff rosters survive for 1921-1923 (brochures and the *Gas Bag*), 1935 (season chronicle), 1938 (*Green Triangle*), 1939-1941 (McMorris thesis and CFCF broadcast), and 1980 (*Ka-News*). Significant gaps remain, particularly for the 1894-1920 and 1947-2003 periods. **The 1929-1955 Montreal YMCA annual reports are now known to survive as a complete, digitized, text-searchable run** -- the source that added W. H. Spearman (1932-1934) to this table in August 2026, and the most promising unworked seam for the earlier part of the 1947-2003 gap.
 

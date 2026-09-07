@@ -15,15 +15,16 @@ article with no Open Questions section makes no claim about what it does not
 know, so a reader cannot tell a closed subject from an unexamined one -- the same
 failure as an unrecorded null, at the article level.
 
-ADVISORY, NOT BLOCKING, AND ON PURPOSE. Fourteen pre-existing offenders would
-fail every build from now until p_481 clears, which would train everyone to
-ignore the output. This follows the precedent data_integrity.py already sets for
-duplicate source ids and p_303: report it every run, block on it once the
-backlog is gone. WHAT IT DOES CATCH TODAY is a NEW omission -- a heading dropped
-by an edit, which is the case that produced it.
+BLOCKING SINCE 2026-09-07, when p_481 cleared. It shipped advisory because
+fourteen pre-existing offenders would have failed every build until the backlog
+was worked, which trains everyone to ignore the output; that was always meant to
+end the day the backlog did, on the precedent data_integrity.py sets for
+duplicate source ids. It now returns nonzero for any article missing a template
+section, which is the case that produced it: a heading dropped by an edit.
 
-Exit code is 0 by design. all.py still honours it, so if this ever starts
-returning nonzero that is news.
+The two articles in EXEMPT are NOT a residual backlog and do not fail the check.
+They are printed every run anyway, because an exemption nobody sees is an
+exemption nobody re-examines.
 """
 import json
 import os
@@ -32,23 +33,35 @@ import sys
 
 REQUIRED = ('## Overview', '## Open Questions', '## Related Articles', '## Sources')
 
-# Known at the time of writing and queued as p_481. Listed so the output shows
-# only what is NEW, and so this file is the record of what the backlog was.
+# EXEMPT, not backlog. Two articles legitimately lack a section the template
+# names, and the reasons are structural rather than editorial. Recorded here so
+# nobody "fixes" them by bolting on an empty heading -- which would be the same
+# error as an unrecorded null, in the other direction: a section that claims to
+# hold something and holds nothing.
+EXEMPT = {
+    # An index OF sources. A "## Sources" section would either be empty or
+    # duplicate the whole article.
+    'sources-index':     ('Sources',),
+    # Pure synthesis and navigation: ZERO citation markers in the file, because
+    # every claim in it lives in the article it links to. A "## Sources" section
+    # would have to list the entire wiki's sources or nothing.
+    'timeline-overview': ('Sources',),
+}
+
+# The p_481 backlog, CLEARED 2026-09-07. Kept as an empty dict rather than
+# deleted, so this file stays the record of what the backlog was and so a future
+# regression has somewhere obvious to be listed. What the fourteen turned out to
+# be: EIGHT were a naming inconsistency and nothing more -- the article called it
+# "## Summary" where the template says "## Overview", and all eight were renamed
+# (no inbound "#summary" anchors existed, checked first). FOUR had an unheaded
+# opening paragraph that was already an overview, and got the heading.
+# quebec-camp-landscape genuinely lacked "## Related Articles" and now has one.
+# wartime-kanawana carried its questions in TWO places under two names -- a
+# "## Research Gaps" section in the body and a "### Open Questions" list buried
+# after the Sources inside the verification notes -- and they are consolidated,
+# unchanged in substance, into one "## Open Questions" in the template position.
+# The remaining two are in EXEMPT above.
 KNOWN = {
-    'wartime-kanawana':          ('Overview', 'Open Questions'),
-    'sources-index':             ('Overview', 'Sources'),
-    'section-names':             ('Overview',),
-    'quebec-camp-landscape':     ('Related Articles',),
-    'lv-games':                  ('Overview',),
-    'founding-1894':             ('Overview',),
-    'directors-index':           ('Overview',),
-    'da-budge':                  ('Overview',),
-    'cushing-family':            ('Overview',),
-    'council-ring':              ('Overview',),
-    'centennial-1967':           ('Overview',),
-    'canadian-camping-movement': ('Overview',),
-    'billy-ball':                ('Overview',),
-    'timeline-overview':         ('Sources',),
 }
 
 
@@ -59,7 +72,7 @@ def main() -> int:
     for art in (data['articles'] if isinstance(data, dict) else data):
         registered.add(art['article_id'])
 
-    new, known_still = [], []
+    new, known_still, exempt_seen = [], [], []
     for root, _dirs, files in os.walk('wiki'):
         for name in sorted(files):
             if not name.endswith('.md'):
@@ -73,14 +86,21 @@ def main() -> int:
                             if not re.search('^' + re.escape(h), text, re.M))
             if not missing:
                 continue
-            if aid in KNOWN and set(missing) <= set(KNOWN[aid]):
+            if aid in EXEMPT and set(missing) <= set(EXEMPT[aid]):
+                exempt_seen.append((aid, missing))
+            elif aid in KNOWN and set(missing) <= set(KNOWN[aid]):
                 known_still.append((aid, missing))
             else:
                 new.append((aid, missing))
 
     print('=' * 70)
-    print('SECTION HEADINGS (advisory)')
+    print('SECTION HEADINGS')
     print('=' * 70)
+    if exempt_seen:
+        print('  [exempt] %d article(s) legitimately lack a template section; see '
+              'EXEMPT in this file for why. Not a backlog.' % len(exempt_seen))
+        for aid, miss in sorted(exempt_seen):
+            print('               %-32s without: %s' % (aid, ', '.join(miss)))
     if known_still:
         print('  [advisory] %d article(s) missing template sections, known and queued '
               'as p_481 -- advisory until that clears, then make this blocking.'
@@ -91,14 +111,15 @@ def main() -> int:
         print('  NEW -- not in the p_481 backlog, so an edit dropped these:')
         for aid, miss in sorted(new):
             print('    - %-32s missing: %s' % (aid, ', '.join(miss)))
-        print('  Add the section, or add the article to KNOWN in this file with a '
+        print('  Add the section, or add the article to EXEMPT in this file with a '
               'reason if it genuinely should not have one.')
     elif not known_still:
         print('  PASS -- every registered article carries Overview, Open Questions, '
-              'Related Articles and Sources')
+              'Related Articles and Sources%s'
+              % (', bar the exempt above' if exempt_seen else ''))
     else:
         print('  No new omissions.')
-    return 0
+    return 1 if (new or known_still) else 0
 
 
 sys.exit(main())

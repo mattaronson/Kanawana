@@ -3,7 +3,7 @@
 *Status: E1-reviewed | Sources: 8*
 *Last Updated: 2026-09-06 (a probable January 1894 sighting in Toronto)*
 
-## Summary
+## Overview
 
 Daniel Andrew Budge was born April 16, 1851, in Newmarket, Ontario, and served as General Secretary of the Montreal YMCA from 1874 until 1913, a tenure of 39 years. He died February 13, 1933, in Montreal (exact date confirmed 2026-07-09 via direct fetch of the McGill Archival Collections Catalogue). He married Annie Margaret Watson (1852-1931) in 1876. In 1937, four years after his death, the Montreal Central YMCA on Drummond Street renamed its Association Hall the D. A. Budge Memorial Hall in his honour.
 

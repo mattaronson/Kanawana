@@ -3,6 +3,8 @@
 *Status: E1-reviewed | Sources: 19*
 *Last Updated: 2026-09-07 (Eastaugh's claim about Indigenous participation, tested)*
 
+## Overview
+
 The Council Ring was built by senior campers in 1922, sited between the cabins and the chapel. It served from the start as the camp's ceremonial gathering place, a tiered outdoor amphitheatre where the whole community could assemble for evening programs, campfires, and ritual events. The choice of the name "Council Ring" reflected the broader "playing Indian" aesthetic that shaped YMCA camping in this period, drawing on romanticized ideas about Indigenous governance and ceremony that were common across North American organized camping. The council-ring form itself is generally traced to landscape architect Jens Jensen and to Ernest Thompson Seton's Woodcraft Indians (Silver Bay camp, 1910), from which it spread through the camping movement — context for Kanawana's adoption of it in 1922.^11
 
 Under Harold Cross's directorship in 1927, the site gained a totem pole and a teepee constructed from old canvas. These additions were part of Cross's expansion of what McMorris terms the camp's "Indian programming," a suite of activities and symbols that borrowed freely from Indigenous cultures. The totem pole in particular became a lasting visual landmark of the ring.

@@ -3,6 +3,8 @@
 *Status: E1-reviewed | Sources: 8*
 *Last Updated: 2026-09-07 (the 1940 season: hiking as the feature, and a Trading Post to outfit it)*
 
+## Overview
+
 When the Second World War broke out in September 1939, Camp Kanawana had been operating for forty-five seasons. A CFCF radio broadcast from June 10, 1939 — just months before the declaration of war — promoted the upcoming camp season, making it one of the last records of pre-war normalcy at Kanawana. The war years brought a distinctive chapter to the camp's history: while many former counsellors and staff enlisted, the camp itself became a refuge for young evacuees from Britain and continental Europe, and continued its mission of youth development under wartime constraints. The camp operated every summer through the war, though it was not without disruption.
 
 ## The 1941 Season and British Evacuees
@@ -40,27 +42,6 @@ McMorris also notes that wartime Kanawana attracted boys from beyond the British
 ## Multi-Generational Tradition
 
 One detail in the 1941 broadcast that speaks to Kanawana's deep roots: Langille mentioned that fathers who had attended camp as boys were now sending their own sons. By 1941, the camp was old enough for this to be true. A man who attended as a twelve-year-old in 1910 would have been forty-three in 1941, plausibly the father of a camp-age boy. This multi-generational participation is one of the earliest documented references to what would become a defining feature of Kanawana's culture.
-
-## Related Articles
-
-- [[history/timeline-overview|Timeline Overview: Camp Kanawana Decade by Decade]]
-- [[people/rh-hanagan|R.H. Hanagan]]
-- [[people/cushing-family|The Cushing Family]]
-- [[people/directors-index|Directors and Staff of Camp Kanawana]]
-- [[history/founding-1894|Founding of Camp Kanawana (1894)]]
-- [[documents/kanawana-in-media|Kanawana in Media]]
-
-## Research Gaps
-
-The wartime period remains one of the less-documented eras of Kanawana's history. Key gaps include:
-
-- Specific names and stories of evacuee children who attended
-- How rationing and wartime restrictions affected camp operations
-- How many former Kanawana staff and alumni served in the armed forces
-- Whether the camp hosted any military-related activities
-- The transition from Langille to Hanagan as camp leadership
-
-The Concordia University archives (YMCA of Montreal fonds, P145) contain wartime records including annual reports, registration records, brochures (1941, 1942, 1943, 1945, 1946), and correspondence that could fill these gaps. Of particular interest: a 1945-46 comparison document between Kanawana and Camp Perrot, and R.L. Charlton's 1943 "Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana."
 
 ## The 1940 Season: Hiking, and a Trading Post
 
@@ -100,8 +81,28 @@ Fifteen have passed **STAR SWIM**." Style was "judged by two staff members" over
 chute." The camp swimming champions of 1940 were Stan Christie (twelve and under), Bob Mahn (fifteen
 and under) and Roger Jaeger (leaders and staff), with Jack Liddy "the longest under water swimmer."
 
-## Sources
+## Open Questions
 
+*Consolidated 2026-09-07 under p_481. This article previously carried its questions in two places under two names — a "## Research Gaps" section in the body and a "### Open Questions" list buried after the Sources, inside the verification notes. Both lists are merged here, unchanged in substance, in the template's position. The wartime period remains one of the less-documented eras of Kanawana's history.*
+
+1. What was Howie Langille's full tenure as Chief? (Promoted between 1938-1941, replaced by or working alongside Hanagan by 1942)
+2. Did any British evacuees return to Kanawana in subsequent summers?
+3. What was Dr. Cushing's full name and relationship to W.E. Cushing (camp historian)?
+4. Specific names and stories of evacuee children who attended
+5. How rationing and wartime restrictions affected camp operations
+6. How many former Kanawana staff and alumni served in the armed forces
+7. Whether the camp hosted any military-related activities
+8. The transition from Langille to Hanagan as camp leadership
+
+## Related Articles
+
+- [[history/timeline-overview|Timeline Overview: Camp Kanawana Decade by Decade]]
+- [[people/rh-hanagan|R.H. Hanagan]]
+- [[people/cushing-family|The Cushing Family]]
+- [[people/directors-index|Directors and Staff of Camp Kanawana]]
+- [[history/founding-1894|Founding of Camp Kanawana (1894)]]
+- [[documents/kanawana-in-media|Kanawana in Media]]
+## Sources
 
 - ^ar: YMCA of Montreal Annual Reports 1941 and 1947 (Concordia-digitized run, Internet Archive) [src_ia_ymca_montreal_annual_reports_collection]
 - ^gt40: *The Green Triangle*, Issue 2, 21 July 1940, and Vol. 47 No. 4, 29 July 1940 [src_ymf_the_green_triangle_1940_07_21, src_ymf_the_green_triangle_1940_07_29]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. See [f_5520].
@@ -116,9 +117,3 @@ and under) and Roger Jaeger (leaders and staff), with Jack Liddy "the longest un
 ### R3 Verification Notes
 
 Primary source (CFCF broadcast) confirmed on Internet Archive, dated June 26, 1941. All broadcast-derived claims (staff count, evacuee numbers, lifesaving awards, multi-generational attendance) are from this single primary document. CORB historical context independently verified via National Archives UK and multiple secondary sources. Green Triangle 1938 confirmed on Internet Archive. McMorris thesis confirmed on Concordia Spectrum. Disease outbreak details (scarlet fever 1941, mumps 1944, polio 1946) sourced from McMorris citing P145 season reports (single scholarly pathway to archival primary sources). Hanagan as director 1942/1946 confirmed in McMorris and Concordia archives fonds description. Camp operational continuity through all war years confirmed by existence of brochures for 1939-1943, 1945-1946 in P145/12B04.
-
-### Open Questions
-
-- What was Howie Langille's full tenure as Chief? (Promoted between 1938-1941, replaced by or working alongside Hanagan by 1942)
-- Did any British evacuees return to Kanawana in subsequent summers?
-- What was Dr. Cushing's full name and relationship to W.E. Cushing (camp historian)?

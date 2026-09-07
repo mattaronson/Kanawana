@@ -3,7 +3,7 @@
 *Status: E1-reviewed | Sources: 643 (this article catalogs the project's sources; see Source Statistics, below)*
 *Last Updated: 2026-09-06 (p_387: the three structural breaks of 1974-1976 in the *Canadian Camping* run)*
 
-## Summary
+## Overview
 
 This article catalogs all sources consulted for the Kanawana Wiki Builder project. As of March 2026, the knowledge base drew on 138 source records; by 2026-07-09 this had grown to 580, spanning primary camp publications (1921–1980), archival finding aids, academic research, biographical references, and web sources -- including a substantial Phase 2 broad-net expansion into social media, review platforms, job postings, municipal/heritage registries, and Wayback-recovered predecessor-domain documents. The collection is anchored by Grace McMorris's 2023 Concordia MA thesis (now read in full, not just chapters 1-3 + conclusion), Internet Archive primary documents (including a newly mapped ymca-montreal-fonds collection of 25+ items), and Concordia University's YMCA of Montreal Fonds P145.
 
