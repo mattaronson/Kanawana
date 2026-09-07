@@ -1,8 +1,8 @@
 {
-  "version": "8.74",
-  "kb_version": "8.74",
+  "version": "8.75",
+  "kb_version": "8.75",
   "migrated_from": "3.3",
-  "fact_count": 5199,
+  "fact_count": 5201,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93747,6 +93747,42 @@
       "conflicts_with": [],
       "added_version": "8.74",
       "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5238",
+      "category": "programs",
+      "date_ref": "2013",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal",
+        "CUTV Montreal",
+        "Concordia University"
+      ],
+      "claim": "THE CAMP HOSTED AN INTERNATIONAL YOUTH ENGAGEMENT SUMMIT, AND THERE IS FILM OF IT. CUTV Montreal -- the campus and community television station serving Concordia and Montreal -- shot a 2 minute 9 second news item at Camp Kanawana for the YMCA's 'Sommet international de l'engagement jeunesse'. Its reporter, speaking to camera from a canoe on the lake, describes it: 'it's the second year that the Y has been doing this project, and basically it's a five-day summit for people ages 16 to 25 to get involved with their society, their community; it's to promote social engagement.' CUTV was there as a participant, not only as press: 'we were invited here to talk about the reappropriation of public space through media, citizen media, alternative media like what we do at CUTV, and basically teach the participants how to do just that.' SO THE CAMP WAS THE SITE OF A FIVE-DAY INTERNATIONAL YOUTH SUMMIT IN ITS SECOND YEAR, in a season other than the summer camp season if the item's date is the filming date. GREPPED: 'CUTV', 'Sommet international', 'engagement jeunesse' and 'youth summit' occur nowhere else in wiki/ or kb/facts.json. THE FIRST EDITION IS THEREFORE UNRECORDED HERE TOO, and so is whether the summit returned. LIMITS, AND THEY ARE REAL: the film has not been watched. What is held is its two caption tracks, both machine-generated, and the French one is a machine translation of the English rather than a transcription of the French speech. The interview at the centre of the piece is unrecoverable from either -- it degenerates into nonsense strings. NO NAME IN THE CAPTIONS IS RELIABLE; the reporter's own is rendered 'mohammed ur Tala'. The item's date of 17 September 2013 is the Internet Archive's date field for a YouTube capture and may be the upload date rather than the filming date, so the summit is dated to 2013 and not to September.",
+      "sources": [
+        "src_ia_cutv_ymca_youth_summit_2013"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5239",
+      "category": "method",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Internet Archive",
+        "Kamp Kanawana"
+      ],
+      "claim": "THE INTERNET ARCHIVE HOLDS NINETY-SEVEN ITEMS MATCHING 'KANAWANA', AND THIS PROJECT ALREADY HELD NINETY-SIX OF THEM. A full advancedsearch enumeration on 2026-09-07 (q=kanawana, 100 rows, numFound 97) was checked item by item against sources.json, kb/facts.json and the cache filenames. EXACTLY ONE was unrecorded anywhere: cutvqc-YMCA_Sommet_international_de_lengagement_jeunesse, the 2013 CUTV film (f_5238). Everything else -- the Green Triangle run, the Ka-News run, the director's reports, the brochures, the CFCF broadcasts, the maps, the postcard, the Lookout, the two P0145 photographs -- is already in the project. TWO THINGS THE ENUMERATION SETTLES BEYOND THAT. FIRST, THE DIRECTOR'S REPORTS ON THE INTERNET ARCHIVE RUN 1971, 1973, 1974, 1975, 1976, 1977, 1978, 1979 AND THEN JUMP TO 1987, with the annual reports of 1964, 1965, 1966, 1969 and 1970 before them. There is no 1980-1986 report there, which independently corroborates the 'genuine blank' directors-index.md records for those years rather than leaving it as an absence in this project's own collecting. SECOND, NOTHING ON THE INTERNET ARCHIVE ANSWERS p_459: no item dated 1985 or 1986 exists at all, so if Kanawana wrote a camp history for the International Youth Year kit of May 1985 or for the association's fiftieth-anniversary invitation of 1986, it is not there. DO NOT RE-ENUMERATE THIS SEARCH; the identifier list and the method are in this fact.",
+      "sources": [
+        "src_ia_cutv_ymca_youth_summit_2013"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.75",
+      "added_by": "ralph_loop"
     }
   ]
 }

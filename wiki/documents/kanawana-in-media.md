@@ -1,7 +1,7 @@
 # Kanawana in Media and Culture
 
-*Status: E1-reviewed | Sources: 26*
-*Last Updated: 2026-09-06 (the 1938 CBM broadcast, read past its set list at last)*
+*Status: E1-reviewed | Sources: 27*
+*Last Updated: 2026-09-07 (a 2013 news film of the camp, and a youth summit nothing here recorded)*
 
 ## Overview
 
@@ -12,6 +12,10 @@ Camp Kanawana has appeared in a range of media over its 130-year history, from p
 **1960s silent film.** A silent colour film of Kamp Kanawana from the 1960s survives in the Concordia University Archives (P0145-09-0087), showing swimming and diving activities. A YouTube access copy exists, confirmed 2026-07-09 at https://www.youtube.com/watch?v=ZrUuQ1SU7q8, titled "YMCA: Kamp Kanawana (no sound)," uploaded 2022-06-21 by Concordia University Records Management & Archives.^1
 
 **1993 documentary.** *Kamp Kanawana: The Experience that Lasts a Lifetime* (9 minutes, colour) was produced by Laurentien Productions for the Montreal YMCA, directed by Cathy Reeves.^2 It describes Kanawana as the oldest camp in Quebec and second oldest in Canada. The film features "On My Way to Kanawana," a camp song composed and performed by Richard "Itch" Kerr (Pip Award 2007).^3 Originally released on VHS in 1996; a YouTube access copy exists.^3
+
+**2013 community-television news item, and the newest film of the camp this project holds.** **CUTV Montreal** — the campus and community station serving Concordia and Montreal — sent a reporter to Kanawana for the YMCA's **Sommet international de l'engagement jeunesse**, and the two-minute piece survives on the Internet Archive.^27 Speaking to camera from a canoe on the lake, the reporter describes the event: "**it's the second year that the Y has been doing this project, and basically it's a five-day summit for people ages 16 to 25 to get involved with their society, their community; it's to promote social engagement.**" CUTV was there as a participant and not only as press: "**we were invited here to talk about the reappropriation of public space through media, citizen media, alternative media like what we do at CUTV, and basically teach the participants how to do just that.**"
+
+Two things follow. **The camp was the site of a five-day international youth summit, in its second year**, which means a first edition this project has no record of either; and the summit was residential use of the site outside the summer camp season. *What the film would add is the interview at its centre, which is where the summit's own organisers speak.* It has not been watched here: what is held is the item's two machine-generated caption tracks, and the French one turns out to be a machine translation of the English rather than a transcription of the French speech, so both fail in the same places. **No name in them is reliable** — the reporter's own is rendered "mohammed ur Tala." The 2013 date is the Internet Archive's date for a YouTube capture and may be the upload rather than the filming.^27
 
 ## The Archived Recordings
 
@@ -225,6 +229,7 @@ To which can be added a fifth of a different kind: **Armand B. Ball, *Basic Camp
 24. Janet Torge, *Dear Sam: Grieving the Death of My Son* (iUniverse, 2007) [src_torge_dear_sam_2007]. See [f_4953].
 25. "The Voice of Youth — Feature Programme, Thur. 10 Nov. 1938 — CBM", full script [src_ymf_1938_11_10_the_voice_of_youth], and the covering letter "Kanawana Goes on the Air" of 7 November 1938 [src_ymf_1938_11_07_kanawana_goes_on_the_air], both in the Concordia-digitized YMCA of Montreal fonds. **Both had been in this repo's cache, labelled *skimmed*, and read only for the set list**; the skit, its cast, the rehearsal room, the letterhead and the Sunday attendance figure were read on 2026-09-06 under p_441. See [f_5002], and [f_2112] for the music.
 26. Evelyn de R. McMann, *Montreal Museum of Fine Arts, formerly Art Association of Montreal: Spring Exhibitions 1880-1970* (University of Toronto Press, 1988) [src_mcmann_aam_spring_exhibitions_1988]. Doris Robertson's entry reconstructed 2026-09-06 from six overlapping Open Library search-inside queries walked backwards from the Camp Otoreke line to her name, which the original hit did not contain; the book is lending-restricted and has not been read. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-otoreke-corpus-sweep.txt`. See [f_5197].
+27. CUTV Montreal, "YMCA Sommet international de l'engagement jeunesse" [src_ia_cutv_ymca_youth_summit_2013], Internet Archive item `cutvqc-YMCA_Sommet_international_de_lengagement_jeunesse`, originally YouTube `vFvHCELC4zI`. **The film has not been watched.** What is cached is its two machine-generated caption tracks, of which the French is a machine translation of the English rather than a transcription of the French speech; the interview at the centre of the piece is unrecoverable from either, and no name in them is reliable. See [f_5238].
 
 *All four are lending-restricted on the Internet Archive and none has been read; each passage was reconstructed from overlapping Open Library search-inside queries and is cached with its queries under `sources/cache/openlibrary-search-inside/`.*
 

@@ -30311,7 +30311,23 @@
       "extraction_version": "8.69",
       "reliability": "secondary",
       "notes": "The publisher's own catalogue page for the memoir. Carries the 'At a Glance' block, which includes 'Arrived in Canada in 1948', and an excerpt from a 1944 Warsaw chapter. No full text offered."
+    },
+    {
+      "source_id": "src_ia_cutv_ymca_youth_summit_2013",
+      "type": "web",
+      "title": "CUTV Montreal, \"YMCA Sommet international de l'engagement jeunesse\" — a news item filmed at Camp Kanawana",
+      "date": "2013-09-17",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/cutvqc-YMCA_Sommet_international_de_lengagement_jeunesse",
+      "cache_path": "sources/cache/video/2013-cutv-ymca-youth-summit-at-kanawana.txt",
+      "char_count": 6326,
+      "ingested_at": "2026-09-07T00:15:00Z",
+      "extracted": true,
+      "extraction_version": "8.75",
+      "reliability": "primary",
+      "notes": "A 2:09 community-television news item shot at the camp, originally YouTube vFvHCELC4zI. THE FILM ITSELF IS THE SOURCE AND HAS NOT BEEN WATCHED; what is cached is its two machine-generated caption tracks, of which the French is a machine translation of the English ASR. The interview at the centre of the piece is not recoverable from either. No name in the captions is reliable."
     }
   ],
-  "source_count": 1684
+  "source_count": 1685
 }
