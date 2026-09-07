@@ -1,7 +1,7 @@
 # A. Wallace Forgie
 
-*Status: draft | Sources: 6*
-*Last Updated: 2026-09-07*
+*Status: draft | Sources: 7*
+*Last Updated: 2026-09-07 (a document joining Kanawana to CSET, found the same day the article said there was none)*
 
 ## Overview
 
@@ -92,12 +92,53 @@ changed sides of it.
 
 ## Kanawana's stake in any of this
 
-Indirect, and worth stating plainly rather than overclaiming. Kanawana ran a YMCA boys' programme
-through the decades when CSET was the national framework for exactly that, and the fourfold scheme
-turns up in camp evaluation and programme language across the movement. **No document read here shows
-Forgie at Kanawana, corresponding with it, or naming it.** What the material establishes is that the
-framework Kanawana worked inside had two authors rather than one, and that the second of them is the
-man already in this wiki as the Commodore.
+**[SUPERSEDED the same day, 2026-09-07, and kept as written:]** Indirect, and worth stating plainly
+rather than overclaiming. Kanawana ran a YMCA boys' programme through the decades when CSET was the
+national framework for exactly that, and the fourfold scheme turns up in camp evaluation and
+programme language across the movement. **No document read here shows Forgie at Kanawana,
+corresponding with it, or naming it.** What the material establishes is that the framework Kanawana
+worked inside had two authors rather than one, and that the second of them is the man already in
+this wiki as the Commodore.
+
+**The paragraph above was written in the morning and a document turned up the same afternoon.** The
+sentence about Forgie himself still stands — nothing puts *him* at Kanawana. But the camp's stake in
+CSET is no longer a matter of inference from the general.
+
+On the evening of **25 February 1918**, at the McGill Y.M. Bible Study Groups' supper in Strathcona
+Hall, **John Bradford of Central Y.M.C.A.** took an evening left free by a sick guest speaker and
+described to the senior social service class "the most recent developments in 'Boys' Work in
+Canada'" — the Canadian Standard Efficiency Test. He set out its "plan of work… four-fold, its
+divisions being: 1, Mental; 2, Physical; 3, Spiritual, and 4, Social," said "training for leadership
+among boys is the chief point on the Social side," and called the whole thing "one of the most
+sensible and hopeful ideas yet tried in the training of the adolescent for sane, Christian manhood."
+Then: "**In conclusion he asked 'Doc.' Busby to give his point of view. The latter told about the
+valuable work along this line being done at the Kanawana Boys' Camp in the Laurentians.**"^7
+
+**Take it for exactly what it is.** A student paper reporting a speaker at a YMCA supper; "along
+this line" is the report's phrase and not a quotation of Busby; and it is not the camp's own record
+of its own programme. What it establishes is narrower and still worth having: **in February 1918
+people in Montreal YMCA circles took Kanawana's work to be CSET work and said so out loud to a room
+of undergraduates** — five months before the October 1918 date the programme's own board gives, and
+in the same city, at the same time, as the manual that names Forgie its committee secretary.
+
+**And the man saying it had run the camp.** John Bradford appears in this wiki otherwise as a single
+clause — MacKinnon "supervised 1917 with Jos. Dalley and John Bradford" — and here he is seven
+months later, running a McGill class through the term as Montreal's exponent of the national
+programme. The camp's summer supervision and the city association's winter boys' work were the same
+operation and, in his case, the same person. See [[people/directors-index|Directors Index]].
+
+**One detail of the programme belongs to the camp more than to the man.** "Under the head of
+Religion they group **Poetry, Music, Art and Nature**, as well as what we usually connect with
+religious activities."^7 A boys' camp in the Laurentians working inside a framework whose religious
+category formally contains *nature* is running something other than nature study as recreation. That
+is the categorical reason the movement treated the woods as devotional ground, stated in 1918 — see
+[[traditions/environmental-history|Environmental History]] and
+[[connections/institutional-lineage/indian-lore-programming|Indian Lore Programming]].
+
+Bradford also gave the programme's spread a date and a direction: "Although begun in Canada, the
+idea is being taken up rapidly in the **United States** by Churches, Sunday School Associations and
+the Y.M.C.A."^7 This wiki's account of the CSET's reach otherwise rests on later retrospective
+sources.
 
 ## Open Questions
 
@@ -114,7 +155,14 @@ man already in this wiki as the Commodore.
 5. [Nice-to-have] The 1918 C.S.E.T. manual's **programme content** is unread here — only its
    acknowledgements. It would say directly what CSET asked of a camp, which is the part that bears
    on Kanawana.
-6. [Nice-to-have] Seven further books name him and none has been read: a Canadian diplomat's memoir,
+6. [Critical, **new 2026-09-07**] Who was **"Doc." Busby**? He is at the McGill Bible study supper of
+   25 February 1918, he is the man in the room who can speak to what Kanawana does, and he occurs
+   **nowhere else in this project** — greped across `wiki/`, `kb/facts.json`, `project-docs/` and
+   `sources/sources.json` before this was written, zero hits.^7 The quotation marks around "Doc."
+   suggest a nickname rather than a title, which is a caution for any search that starts from
+   physicians. Try: McGill yearbooks and *Old McGill* for the 1910s, the McGill Daily's own run for
+   other Busby mentions, Montreal YMCA staff rosters, and the camp's own 1917–1919 material.
+7. [Nice-to-have] Seven further books name him and none has been read: a Canadian diplomat's memoir,
    a mission history that has him replaced in South India by a man named Dunderdale, and a life
    shaped "chiefly through the inspiration of Mr. Wallace Forgie." All are listed in the cache.
 
@@ -132,3 +180,4 @@ man already in this wiki as the Commodore.
 4. *The International Council of Religious Education Yearbook, 1924* [src_icre_yearbook_1924]. Internet Archive item `yearbook0000inte_m3q0`, full text downloaded; the three Forgie lines read. See [f_5352].
 5. Both 1918 and 1929 passages are quoted in full, with the leads not followed, at `sources/cache/cset/2026-09-07-forgie-and-the-origin-of-cset.txt`.
 6. The disagreement about CSET's founding date and authorship is recorded as conflict **c_069** in `kb/conflicts.json` and is not resolved here.
+7. "Bible Study Supper Was Held Yesterday: Mr. Bradford Spoke on Boys' Work in Canada," *The McGill Daily* Vol. 7 No. 112, 26 February 1918, p. 3 [src_mcgill_daily_1918_02_26]. Reporting the supper of 25 February. Transcribed complete in `sources/cache/mcgill/2026-09-07-mcgill-daily-1918-cset-at-kanawana.txt`. Found by the whole-corpus sweep of 9,890 McGill student publication items under p_479. The OCR renders Y.M.C.A. as "T.M.C.A." throughout. See [f_5391]–[f_5395].

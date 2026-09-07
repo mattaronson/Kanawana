@@ -30939,7 +30939,25 @@
       "notes": "THE FULL OBITUARY OF A. ROSS SEAMAN, printed by his own university three months after his death and transcribed complete in the cache. It carries the birth year -- the headline reads '1921-1987' and the text says he died 'at age 66' -- which closes the first half of open question 1 in wiki/people/a-ross-seaman.md, open since the article was written. It independently confirms the death date of 23 October 1987, previously held on the Canadian Camping Magazine fund notice alone. It is also the first source to say how Seaman came to Sir George: 'to the 1940s when he attended Sir George as a YMCA Fellowship Secretary' -- employed by the Association and studying at once. Further: full-time Leisure Studies faculty from 1985 ('in his third year'), Elderhostel with his wife Margaret 'over the past three summers' (1985-87), 'a primary organizer of the Quebec Camping Association', 'founder of the wilderness program Les Voyageurs de la Verendrye', 'he introduced camping courses to the Sir George curriculum', Applied Social Science 'since the department was formed in 1963', consulting at College Marie-Victorin, and the fund meeting of 10 November 1987 attended by representatives of Concordia, Dawson College, the YMCA and Camp Kanawana. Found by the whole-corpus sweep of rma-concordia-publications under p_479. Note the download trap recorded in the cache: archive.org/download/ returned zero bytes and the text had to be fetched from the direct server path built from the metadata's server and dir fields. See f_5379 through f_5388.",
       "read_state": "extracted",
       "read_state_basis": "direct: full djvu text downloaded 2026-09-07, the obituary read and transcribed word for word, and the remaining 107,758 characters greped for Kanawana (2 occurrences, both in this obituary), Vankleek, Otoreke, Weredale and Perrot (0 each)."
+    },
+    {
+      "source_id": "src_mcgill_daily_1918_02_26",
+      "type": "periodical",
+      "title": "\"Bible Study Supper Was Held Yesterday: Mr. Bradford Spoke on Boys' Work in Canada\", The McGill Daily, Vol. 7 No. 112, 26 February 1918",
+      "date": "1918-02-26",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/McGillLibrary-mcgill-daily-v07-n112-february-26-1918-6306",
+      "cache_path": "sources/cache/mcgill/2026-09-07-mcgill-daily-1918-cset-at-kanawana.txt",
+      "char_count": 69076,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.50",
+      "reliability": "primary",
+      "notes": "THE EARLIEST DOCUMENT FOUND CONNECTING KANAWANA TO THE CANADIAN STANDARD EFFICIENCY TEST, and the one wiki/connections/institutional-lineage/wallace-forgie.md said it did not have when it was written the same day. A report of the McGill Y.M. Bible Study Groups' supper in Strathcona Hall on 25 February 1918. JOHN BRADFORD -- who supervised Camp Kanawana in 1917 per the directors index, and who appears here as 'of Central Y.M.C.A.' running the senior social service class -- described the CSET as 'the most recent developments in Boys' Work in Canada', gave its fourfold divisions as '1, Mental; 2, Physical; 3, Spiritual, and 4, Social', noted that 'under the head of Religion they group Poetry, Music, Art and Nature', and said that 'although begun in Canada, the idea is being taken up rapidly in the United States'. He then 'asked \"Doc.\" Busby to give his point of view. The latter told about the valuable work along this line being done at the KANAWANA BOYS' CAMP IN THE LAURENTIANS.' Busby occurs nowhere else in this project. Found by the whole-corpus sweep of 9,890 McGill student publication items under p_479; 'Kanawana' occurs once in the issue. Transcribed complete in the cache. See f_5391 through f_5395.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded 2026-09-07, the report read and transcribed word for word, and the remaining text greped for Kanawana (1 occurrence, this report), Busby (1), Bradford (4), Forgie (0) and Statten (0)."
     }
   ],
-  "source_count": 1721
+  "source_count": 1722
 }

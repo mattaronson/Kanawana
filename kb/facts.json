@@ -1,8 +1,8 @@
 {
-  "version": "9.49",
-  "kb_version": "9.49",
+  "version": "9.50",
+  "kb_version": "9.50",
   "migrated_from": "3.3",
-  "fact_count": 5352,
+  "fact_count": 5357,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -96544,6 +96544,96 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.49",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5391",
+      "category": "history",
+      "date_ref": "1918-02-25",
+      "entities": [
+        "Camp Kanawana",
+        "Canadian Standard Efficiency Test",
+        "John Bradford",
+        "Doc. Busby",
+        "McGill University"
+      ],
+      "claim": "KANAWANA'S WORK WAS BEING DESCRIBED AS CANADIAN STANDARD EFFICIENCY TEST WORK BY FEBRUARY 1918, WHICH IS THE FIRST DOCUMENT THIS PROJECT HAS JOINING THE CAMP TO THE PROGRAMME. At the McGill Y.M. Bible Study Groups' supper in Strathcona Hall on the evening of 25 February 1918, John Bradford of Central Y.M.C.A. described the CSET to the senior class and then 'asked \"Doc.\" Busby to give his point of view. The latter told about the valuable work along this line being done at the KANAWANA BOYS' CAMP IN THE LAURENTIANS.' STATE WHAT THIS IS AND IS NOT. It is a student newspaper reporting a speaker at a YMCA supper drawing the connection; 'along this line' is the report's phrase, not a quotation of Busby, and it is not the camp's own record of its own programme. What it does establish is that in February 1918 people in Montreal YMCA circles took Kanawana's work to be CSET work and said so to a room of undergraduates. WHY THIS MATTERS TO A SPECIFIC ARTICLE: connections/institutional-lineage/wallace-forgie.md, written on 2026-09-07, has a section headed 'Kanawana's stake in any of this' that begins 'Indirect, and worth stating plainly rather than overclaiming' and argues entirely from the general, because no document had been found. This is the document. It also predates by five months the October 1918 date the CSET's own board gives for the programme -- see conflict c_069 on the 1914 dating question, which this does not settle.",
+      "sources": [
+        "src_mcgill_daily_1918_02_26"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.50",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5392",
+      "category": "people",
+      "date_ref": "1917-1918",
+      "entities": [
+        "John Bradford",
+        "Camp Kanawana",
+        "YMCA of Montreal",
+        "Canadian Standard Efficiency Test"
+      ],
+      "claim": "JOHN BRADFORD, WHO SUPERVISED KANAWANA IN 1917, WAS MONTREAL'S EXPONENT OF THE CSET AT McGILL THAT WINTER. wiki/people/directors-index.md holds him in a single clause: MacKinnon 'supervised 1917 with Jos. Dalley and John Bradford'. The McGill Daily of 26 February 1918 puts flesh on it. He is 'Mr. John Bradford, of Central T.M.C.A.' (the OCR's misread Y), and he is not a guest -- 'the Senior Class CONTINUE to have their interesting social service topics under the leadership of Mr. John Bradford', so he ran that class through the term. When a scheduled outside speaker fell ill he took the evening himself with 'an interesting description of the most recent developments in \"Boys' Work in Canada\"', which he identified as the Canadian Standard Efficiency Test and called 'one of the most sensible and hopeful ideas yet tried in the training of the adolescent for sane, Christian manhood'. THE MAN WHO RAN THE CAMP IN THE SUMMER WAS TEACHING ITS METHOD TO UNDERGRADUATES IN THE WINTER, which is a fact about how the camp's staffing and the city association's boys' work were the same operation.",
+      "sources": [
+        "src_mcgill_daily_1918_02_26"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.50",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5393",
+      "category": "traditions",
+      "date_ref": "1918-02-25",
+      "entities": [
+        "Canadian Standard Efficiency Test"
+      ],
+      "claim": "A CONTEMPORARY DESCRIPTION OF THE CSET FROM OUTSIDE ITS OWN LITERATURE, AND THE ORDER OF ITS FOURFOLD SCHEME IS NOT LUKE'S. Bradford's account as reported: 'This takes the form of a definite programme concerning every phase of the normal boy's activity. It contemplates the development of a new type of Christian leadership. Its plan of work is four-fold, its divisions being: 1, MENTAL; 2, PHYSICAL; 3, SPIRITUAL, and 4, SOCIAL.' The programme's own board traces the fourfold idea to Luke 2:52 -- 'Jesus increased in wisdom and stature and in favour with God and man', which runs mental, physical, spiritual, social in that order. Bradford's order matches; what is worth noting is that he gives the scheme as a plan of work with numbered divisions and never mentions the verse, which is how a national programme reads once it has left its founding rhetoric behind. He also stressed 'the value of school training for life' and 'the importance of habits of observation in the ordinary walks of life', and said 'training for leadership among boys is the chief point on the Social side.'",
+      "sources": [
+        "src_mcgill_daily_1918_02_26"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.50",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5394",
+      "category": "traditions",
+      "date_ref": "1918-02-25",
+      "entities": [
+        "Canadian Standard Efficiency Test",
+        "Camp Kanawana",
+        "nature study"
+      ],
+      "claim": "THE CSET FORMALLY CLASSED NATURE UNDER RELIGION, WHICH IS NOT A SMALL THING FOR A CAMP IN THE LAURENTIANS. 'Under the head of Religion they group POETRY, MUSIC, ART AND NATURE, as well as what we usually connect with religious activities.' A boys' camp working inside a framework whose religious category formally includes nature is running something different from a camp where nature study is recreation with an educational gloss. This bears on the long environmental and nature-study thread in this wiki -- traditions/environmental-history.md and the Indian Lore material -- by supplying, from 1918, the categorical reason the movement treated the woods as devotional ground rather than as scenery. It is a description of the national programme, not of Kanawana's own practice; but it is the programme the same report says Kanawana's work was along the lines of.",
+      "sources": [
+        "src_mcgill_daily_1918_02_26"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.50",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5395",
+      "category": "institutional",
+      "date_ref": "1918-02-25",
+      "entities": [
+        "Canadian Standard Efficiency Test",
+        "YMCA"
+      ],
+      "claim": "A DATED CONTEMPORANEOUS STATEMENT THAT THE CSET WAS SPREADING INTO THE UNITED STATES BY EARLY 1918. 'Although begun in Canada, the idea is being taken up rapidly in the United States by Churches, Sunday School Associations and the Y.M.C.A.' Said in February 1918 by a Central YMCA boys' work man to a McGill audience, and reported by the student paper. The value is the date and the direction: a Canadian programme being exported south, named by the three kinds of body taking it up, five months before the October 1918 date the CSET's own board gives. This wiki's account of the programme's reach rests otherwise on later retrospective sources.",
+      "sources": [
+        "src_mcgill_daily_1918_02_26"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.50",
       "added_by": "ralph_loop"
     }
   ]
