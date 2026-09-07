@@ -2,7 +2,7 @@
   "version": "10.10",
   "kb_version": "10.10",
   "migrated_from": "3.3",
-  "fact_count": 5540,
+  "fact_count": 5542,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99840,6 +99840,41 @@
       "claim": "THE 2010 SEASON, AND KANAWANA AS A FUNDRAISING UNIT OF THE ASSOCIATION. The YMCAs of Québec community report for 2010, read 2026-09-07. THE SEASON: its month-by-month chronology gives '06/28 -- Start of the summer season for Camp Y Kanawana, with 12 NEW THREE-SEASON CABINS ready for MORE THAN 2,000 YOUTH AGED 6 TO 17 YEARS EACH YEAR'. THE 2,000 IS A RECURRING FIGURE, NOT A 2010 COUNT -- the sentence says 'each year' -- so it belongs beside the camp's capacity statements and not in the attendance series, which has a gap across most of 2010-2019. The twelve cabins are already at traditions/environmental-history.md; the OPENING DATE OF 28 JUNE is not. THE STRONG KIDS CAMPAIGN: 'volunteers from the ten Y centres, the International Language School, the Residence, and CAMP Y KANAWANA raised close to $340,000 to help empower youth, the young at heart, families, and individuals in need... A significant part of this sum, NEARLY $50,000, was raised thanks to an ONLINE VIRAL CAMPAIGN which was also promoted through FACEBOOK. A hundred or so \"VOLUNTEER STORYTELLERS\" shared moving stories.' So the camp was a named fundraising unit alongside the branches, and this project's earliest documented instance of the camp inside a social-media fundraising campaign. AND A DEVELOPMENT PROJECT: donors are asked for 'COMMITMENTS TO OUR DEVELOPMENT PROJECTS (CAMP Y KANAWANA AND DESTINATION YOUTH)' -- the camp one of only TWO capital or development projects the association put to its donors that year. NAME FORM RECORDED: the association's own English report calls it 'CAMP Y KANAWANA' throughout, not 'Kamp Kanawana'. The report also gives the association's scale that year: over 115,000 people served across 30 points of service.",
       "sources": [
         "src_ymf_sgw_ymca_community_report_2010"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5579",
+      "category": "program",
+      "date_ref": "2011",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE 2011 SEASON: AN OPEN HOUSE, OVER 700 CAMPERS, A GIRLS' BOOT CAMP AND LANGUAGE CAMPS. The YMCAs of Québec community report for 2011. ITS CHRONOLOGY: '06/19 -- OPEN HOUSE DAY at YMCA Camp Kanawana. Summer is set to begin for OVER 700 CAMPERS!' That is an attendance figure for a year meta/attendance-series.md does not cover -- its gap runs across most of 2010-2019 -- and an open-house date this project did not have. The next entry launches 'the summer session for the LANGUAGE CAMPS at the Downtown YMCA's day camp AND AT YMCA CAMP KANAWANA'. THE ENDOWMENT FUND PAID FOR A NAMED PROGRAMME: 'the Endowment Fund once again supported a dozen or so projects... such as the BOOT CAMP WEEKEND FOR GIRLS at YMCA Camp Kanawana and the Drug Abuse Intervention program for youth at the Pointe-Saint-Charles YMCA, as well as providing financial assistance to more than 300 disadvantaged children.' NEITHER 'BOOT CAMP' NOR 'OPEN HOUSE' OCCURS ANYWHERE IN THIS WIKI, checked before writing. AND A PARENT'S TESTIMONY, in a section about women in French conversation workshops, many of them seeking employment: one 'enthusiastically mentions the family activities and the FINANCIAL ASSISTANCE THAT ALLOWED HER TWO ELDEST CHILDREN TO EXPERIENCE A STAY AT YMCA CAMP KANAWANA'. The camp reached that family through a French-language adult programme at a city branch.",
+      "sources": [
+        "src_ymf_sgw_ymca_community_report_2011"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5580",
+      "category": "program",
+      "date_ref": "2012",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal",
+        "Tremplin Santé"
+      ],
+      "claim": "2012: KANAWANA IN A PROVINCIAL HEALTH PILOT, AND THE COST OF SENDING A CHILD. The YMCAs of Québec community report for 2012. THE PILOT: 'Three of our day camps (Cartierville, Downtown, and Notre-Dame-de-Grace YMCAs) and YMCA CAMP KANAWANA participated in YEAR ONE OF THE TREMPLIN SANTE PILOT PROJECT, an initiative by the FONDATION DES CAMPS ODYSSEE financed by QUEBEC EN FORME. The objective: contribute to the adoption of healthy eating habits and a physically active lifestyle in Québec's summer camps. The target: young campers, their parents, and camp administrators.' 'TREMPLIN' OCCURS NOWHERE ELSE IN THIS WIKI. This is the camp inside a province-wide public-health programme run through the Quebec camping sector's own foundation, not through the YMCA. THE NUMBERS: 'In 2012... 3,000 children were welcomed by our day camps and YMCA Camp Kanawana' -- a COMBINED figure for the day camps and the resident camp together, so it is NOT a Kanawana attendance figure and is not treated as one. And '$255,000 IN FINANCIAL ASSISTANCE was granted by the YMCA to allow OVER 480 CHILDREN attend camp', which works out near $530 a child across the camps. A CAMPER IN HER OWN WORDS, printed by the association: Laurie, 17, a social sciences student at DAWSON COLLEGE, after 'the last seven summers at YMCA Camp Kanawana in Saint-Sauveur' -- so a camper since about 2005 -- says 'KANAWANA TAUGHT ME HOW TO FEEL MORE COMFORTABLE WITH PEOPLE, OPEN UP TO THEM MORE, AND RESPECT THEIR DIFFERENCES', and picks one word for the experience: 'LEARNING! Kanawana is truly an experience that allows you to learn more about yourself, nature, and others.' The report adds that the following summer would be her turn on the other side. Printed with a first name only, and quoted here as the association printed it.",
+      "sources": [
+        "src_ymf_sgw_ymca_community_report_2012"
       ],
       "confidence": "stated",
       "conflicts_with": [],

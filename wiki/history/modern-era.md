@@ -1,6 +1,6 @@
 # The Modern Era: The Two-Tier Era (1995–Present)
 
-*Status: draft | Sources: 21*
+*Status: draft | Sources: 22*
 *Last Updated: 2026-09-06 (the credit directories, which date the Drummond Street move and settle whose staff figures they are)*
 
 ## Overview
@@ -74,6 +74,42 @@ across most of 2010–2019. The twelve cabins are at
 [[traditions/environmental-history|Environmental Education and Stewardship]]. The association served over
 115,000 people at 30 points of service that year, and calls the camp **"Camp Y Kanawana"** throughout its
 own English text.^21
+
+## What the community reports show, 2011 and 2012
+
+**2011 gives a season opening, a camper count and two programmes nobody here had heard of.** The report's
+chronology: "**06/19** — **Open House day** at YMCA Camp Kanawana. Summer is set to begin for **over 700
+campers!**" and, days later, the launch of "the summer session for the **Language Camps** at the Downtown
+YMCA's day camp **and at YMCA Camp Kanawana**."^22 The 700 is an attendance figure for a year
+[[meta/attendance-series|the attendance series]] does not cover, its gap running across most of 2010–2019.
+The association's **Endowment Fund** paid that year for "the **Boot Camp weekend for girls** at YMCA Camp
+Kanawana," listed beside a drug-abuse intervention programme at Pointe-Saint-Charles.^22 Neither "Boot Camp"
+nor "Open House" appeared anywhere in this wiki before.
+
+A parent's account survives from the same report, in a passage about women in the association's French
+conversation workshops, many of them seeking work: one "enthusiastically mentions the family activities and
+the **financial assistance that allowed her two eldest children to experience a stay at YMCA Camp
+Kanawana**."^22 The camp reached that family through a French-language adult programme at a city branch.
+
+**In 2012 the camp joined a provincial public-health pilot.** "Three of our day camps (Cartierville,
+Downtown, and Notre-Dame-de-Grâce YMCAs) and **YMCA Camp Kanawana** participated in **year one of the
+Tremplin Santé pilot project**, an initiative by the **Fondation des Camps Odyssée** financed by **Québec en
+forme**," aimed at healthy eating and active living in Quebec's summer camps, targeting "young campers,
+their parents, and camp administrators."^22 That is Kanawana inside a province-wide programme run through
+the Quebec camping sector's own foundation rather than through the YMCA — see
+[[connections/institutional-lineage/quebec-camping-association|The Quebec Camping Association]].
+
+The same report gives **$255,000 in financial assistance "to allow over 480 children attend camp,"** and a
+combined **3,000 children welcomed by "our day camps and YMCA Camp Kanawana."** *That 3,000 is a combined
+figure across the day camps and the resident camp, so it is not a Kanawana attendance number and is not used
+as one here.*
+
+And it prints a camper in her own words: **Laurie**, seventeen, a social sciences student at Dawson College,
+after "the last seven summers at YMCA Camp Kanawana in Saint-Sauveur" — so a camper from about 2005.
+"Kanawana taught me how to feel more comfortable with people, open up to them more, and **respect their
+differences**." Asked for one word: "**Learning!** Kanawana is truly an experience that allows you to learn
+more about yourself, nature, and others." The following summer, the report notes, would be her turn on the
+other side.^22
 
 ## The camp in the credit directories, 1993–2001
 
@@ -242,6 +278,7 @@ endowment, and the association's endowment reporting is where to look next.
 19. *Canadian Key Business Directory* (Dun & Bradstreet Canada), the volumes for 1993, 1994, 1995, 1997, 1998, 1999, 2000 and 2001, plus one the Internet Archive leaves undated [src_canadian_key_business_directory_1993_2001]. **One entry, walked in each volume from the D-U-N-S number that opens it to the one that opens the next**, reconstructed 2026-09-06 from overlapping Open Library search-inside queries; every volume is lending-restricted, none has been read, and page images return HTTP 403, so the column alignment of the officer titles could not be checked against the page. Cached with its queries, its control test and its access failure at `sources/cache/openlibrary-search-inside/2026-09-06-canadian-key-business-directories-ymca-kanawana.txt`. See [f_4951].
 20. YMCA of Greater Montreal annual report 2004-2005 [src_ymf_sgw_ymca_annual_report_2004_2005], the Endowment Fund pages and the President's report. Read 2026-09-06 under p_454; no Wayback copy of this year exists in this project.
 21. YMCAs of Québec, community report for **2010** [src_ymf_sgw_ymca_community_report_2010]. Cached at `sources/cache/ymca-montreal-fonds/sgw-ymca-community-report-2010.txt`; read for its twenty-three Kanawana passages 2026-09-07 under the sharpened p_441. See [f_5578].
+22. YMCAs of Québec, community reports for **2011** and **2012** [src_ymf_sgw_ymca_community_report_2011, src_ymf_sgw_ymca_community_report_2012]. Both read for their Kanawana passages 2026-09-07 under the sharpened p_441. See [f_5579] and [f_5580].
 
 ## Research Notes
 
