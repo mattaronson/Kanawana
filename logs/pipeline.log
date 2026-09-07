@@ -5734,3 +5734,41 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   New source src_njskylands_ymca_camps, fetched and read. f_5610.
   facts.json v10.21, 5,572 facts, 1,636 sources. Verify green, nine checks.
   Timestamp from `date -u` in its own call.
+
+[2026-09-07T15:32:44Z] RESEARCH -- the camp's own live pages, and the catch-all
+  they were being read through.
+  Started on Christophe Pagé and got nothing: three queries across two surfaces,
+  and the local genealogy page most likely to hold him
+  (freepages.rootsweb.com/~meilleuro/genealogy/PSV.htm) returns HTTP 403 to both
+  curl and the fetch tool. Not exhausted by the Phase 2 standard, and the target
+  may not be a real person anyway -- the 1937 letter's doubled signature
+  ("Alphonse Bertrand, St. Denis / Christophe Pagé") reads like part of the
+  joke, and only the framing text's "Mr. Pagé" is solid. The article already
+  says so.
+  WHAT THE SEARCH TURNED UP INSTEAD: the camp's FRENCH history page and its
+  "Our Team" page, neither of which had a source record. Fetched, extracted,
+  cached, registered.
+  THE FINDING IS A PROVENANCE ONE. BOTH WERE BEING CITED AS [src_ymca_website] --
+  ONE RECORD FOR THE WHOLE OF ymcaquebec.org, CARRYING EIGHTY FACTS.
+  marie-pierre-lacasse.md's footnote 6 read, in full, "YMCA Quebec website, team
+  page [src_ymca_website]": THE ARTICLE KNEW WHICH PAGE IT MEANT AND THE RECORD
+  COULD NOT SAY SO. Same defect as the fonds-level Concordia record fixed this
+  morning under p_488, at four times the scale. Queued as p_489 with a method
+  and with the rule that where a fact cannot be traced to a page, say so on the
+  fact rather than invent a URL.
+  CONTENT TAKEN, f_5611: the current staff qualification floor in the camp's own
+  words -- "MORE THAN 50 HOURS OF TRAINING", CPR and First Aid, the YMCA HEALTHY
+  CHILD DEVELOPMENT programme -- which belongs beside the 1938 report's winter
+  and spring training course and the 1936 script's "all have attended a thorough
+  training course". The off-season training course is one of this camp's longest
+  continuities. Lacasse's own dates put a MONTH on a return this wiki had as
+  "spring 2023" (February 2023), set her camp career back to 1996, and name THE
+  BOATING ROCK, a place not in named-places-and-camp-vocabulary.md. Quinn
+  Durand's role list names FALL CAMP FACILITATOR and SPRING CAMP FACILITATOR as
+  distinct posts.
+  Checked and already held, so not re-recorded: the 1947 L&V origin, the 78th
+  edition and the skipped 2021 season, the 2022 Mountaineer programme, and the
+  "148 years" anniversary clock (f_0462, f_2210). Grepping the destination
+  stopped four duplicate claims in this unit alone.
+  facts.json v10.22, 5,573 facts, 1,638 sources. Verify green, nine checks.
+  Timestamp from `date -u` in its own call.

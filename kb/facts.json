@@ -1,8 +1,8 @@
 {
-  "version": "10.21",
-  "kb_version": "10.21",
+  "version": "10.22",
+  "kb_version": "10.22",
   "migrated_from": "3.3",
-  "fact_count": 5572,
+  "fact_count": 5573,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100388,6 +100388,24 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5611",
+      "category": "programs",
+      "date_ref": "2026",
+      "entities": [
+        "Camp Kanawana",
+        "Marie-Pierre Lacasse",
+        "Justin Caldwell"
+      ],
+      "claim": "THE CAMP'S STAFF TRAINING STANDARD IN ITS OWN WORDS, AND TWO PAGES THAT WERE BEING CITED THROUGH A CATCH-ALL. The 'Our Team' page states the current qualification floor: 'Our experienced staff and counsellors receive MORE THAN 50 HOURS OF TRAINING, are CERTIFIED IN CPR AND FIRST AID and have completed the YMCA HEALTHY CHILD DEVELOPMENT PROGRAM in order to ensure your children receive the highest standard of care.' That is a number and a named curriculum, and it belongs beside the 1938 report's 'most of the 34 tent counsellors attended the training course held during the winter and spring' and the 1936 script's 'all have attended a thorough training course' -- the off-season training course is one of this camp's longest continuities, and this is its modern form. THE PROFILES ADD DETAIL THE ARTICLES DO NOT HAVE. MARIE-PIERRE LACASSE gives her own dates as 'part of the Kanawana family since 2007, WITH A BREAK FROM 2010 TO FEBRUARY 2023' -- which puts a MONTH on her return, where people/marie-pierre-lacasse.md has only 'spring 2023' -- and says she has 'been working in the camp industry SINCE 1996' and 'started integrating the summer camp management team in 2002'. Her favourite place at camp is 'THE BOATING ROCK... a beautiful place with views over Lake Kanawana', a named spot not in site/named-places-and-camp-vocabulary.md. JUSTIN CALDWELL gives his ladder: 'Junior Counsellor, Counsellor, Section Director, Canoe Guide, Camping Programs Coordinator, (Guide Again), Summer Camp Assistant Director', at camp since 2004. AMY THOMSON, assistant to the directors: BA Psychology, Concordia; 'summer camp staff from 2002 to 2008, working in a few different roles (summer 2008 at Kanawana), and in 2023 I returned'. QUINN DURAND, Assistant Summer Camp Director, at Kanawana since 2025: Therapeutic Recreation with Honours, Memorial University of Newfoundland, and a role list -- 'Counsellor, Fall Camp Facilitator, Spring Camp Facilitator, Hike Guide, Sea Kayak Guide, NATURE SPECIALIST, Section Director, Program Director' -- which names FALL AND SPRING CAMP FACILITATOR as distinct posts. THE PROVENANCE POINT, and the reason this fact exists at all: BOTH the team page and the French history page were being cited only as [src_ymca_website], ONE RECORD STANDING FOR THE WHOLE OF ymcaquebec.org AND CARRYING EIGHTY FACTS. people/marie-pierre-lacasse.md's footnote 6 reads 'YMCA Quebec website, team page [src_ymca_website]' -- the article knows which page it means and the record cannot say so. That is the same defect as the fonds-level Concordia record corrected under p_488, at four times the scale. Both pages are now registered and cached; splitting the remaining src_ymca_website facts is NOT done and should be queued.",
+      "sources": [
+        "src_ymcaq_kanawana_our_team_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.22",
       "added_by": "ralph_loop"
     }
   ]

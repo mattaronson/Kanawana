@@ -29409,6 +29409,42 @@
       "notes": "Fetched and read 2026-09-07 under the Ken Westervelt biographical search (p_487 follow-on). Gives Camp Kiamesha as a NEWARK YMCA camp established 1909 at Stillwater, Sussex County, NEW JERSEY, whose \"stone pillars and buildings still stand on state land\". Used to correct the 1939 Green Triangle's \"Camp Kiamesha in northern Pennsylvania\". See f_5610.",
       "read_state": "read",
       "read_state_basis": "direct:fetched-and-read-2026-09-07"
+    },
+    {
+      "source_id": "src_ymcaq_kanawana_our_team_2026",
+      "type": "web",
+      "title": "Camp YMCA Kanawana — \"Our Team\" (management team profiles), ymcaquebec.org, as at September 2026",
+      "date": "2026-09-07",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://www.ymcaquebec.org/en/find-a-y/summer-camp-ymca-kanawana/our-team",
+      "cache_path": "sources/cache/web-pages/ymcaquebec-kanawana-our-team-2026.txt",
+      "char_count": 4828,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v10.21",
+      "reliability": "primary",
+      "notes": "Fetched, extracted and read 2026-09-07. REGISTERED BECAUSE IT WAS BEING CITED THROUGH A CATCH-ALL. Both of this camp's live pages were reachable only as [src_ymca_website], one record standing for the whole of ymcaquebec.org and carrying eighty facts -- so a citation to a specific page named the site instead, and no later pass could tell which page a claim came from. Same shape as the fonds-level Concordia record corrected under p_488. Splitting the remaining src_ymca_website facts is not done.",
+      "read_state": "read",
+      "read_state_basis": "direct:fetched-extracted-and-read-2026-09-07"
+    },
+    {
+      "source_id": "src_ymcaq_kanawana_histoire_fr_2026",
+      "type": "web",
+      "title": "Camp YMCA Kanawana — \"L'histoire du camp YMCA Kanawana\", French edition of the milestone timeline, ymcaquebec.org, as at September 2026",
+      "date": "2026-09-07",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://www.ymcaquebec.org/fr/camp-vacances-kanawana/histoire",
+      "cache_path": "sources/cache/web-pages/ymcaquebec-kanawana-histoire-fr-2026.txt",
+      "char_count": 1670,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v10.21",
+      "reliability": "primary",
+      "notes": "Fetched, extracted and read 2026-09-07. REGISTERED BECAUSE IT WAS BEING CITED THROUGH A CATCH-ALL. Both of this camp's live pages were reachable only as [src_ymca_website], one record standing for the whole of ymcaquebec.org and carrying eighty facts -- so a citation to a specific page named the site instead, and no later pass could tell which page a claim came from. Same shape as the fonds-level Concordia record corrected under p_488. Splitting the remaining src_ymca_website facts is not done.",
+      "read_state": "read",
+      "read_state_basis": "direct:fetched-extracted-and-read-2026-09-07"
     }
   ],
   "source_count": 1757
