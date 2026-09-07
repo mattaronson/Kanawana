@@ -2,7 +2,7 @@
   "version": "10.09",
   "kb_version": "10.09",
   "migrated_from": "3.3",
-  "fact_count": 5521,
+  "fact_count": 5522,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99537,6 +99537,20 @@
         "David W. Robinson"
       ],
       "claim": "A 1997 ONTARIO GOVERNMENT PUBLICATION BY TWYNAM, AND A CO-AUTHOR THIS PROJECT DID NOT HAVE. Ontario Government Publications Monthly Checklist: 'analysis of desired ecotourism opportunities / G. DAVID TWYNAM AND DAVID W. ROBINSON. 1997. 1 v. (various pagings): ill.' The title is truncated at its head by the snippet. It sits in the years wiki/people/dave-twynam.md covers only as 'by the late 1990s he held a faculty position at Lakehead', and it adds a fourth research strand -- ECOTOURISM OPPORTUNITY ANALYSIS, commissioned or at least published by the province -- beside the volunteer-motivation, sport-event and Arctic-tourism lines the article has. DAVID W. ROBINSON is a new name here; the article's named collaborators are Jocelyn M. Farrell, Margaret E. Johnston, R. J. Payne and P. Mason.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5560",
+      "category": "methodology",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "THE p_430 NAME SWEEP, FOURTEEN TERMS RUN AND LOGGED SO NOBODY RUNS THEM AGAIN. Open Library search-inside, exact-phrase, 2026-09-07 midday. PRODUCTIVE (1 of 14): 'G. David Twynam' 12 hits, giving a 1990 NRPA symposium paper and a 1991 Journal of Park and Recreation Administration article eight years earlier than anything the article held, plus a 1997 Ontario government publication and a new co-author. See f_5558, f_5559. ZERO, AND THE ZEROS ARE THE POINT: 'Murray B. Shantz' 0, 'Leo J. Robitaille' 0, 'Kanawanna' 0, 'Lac Kanawana' 0, 'Kanawana, Que' 0. Four of the five camp-name variants p_430 listed as untried are now tried and empty; only 'Lake Kanawana' returns anything (1 hit, Stuart McLean's Vinyl Cafe Notebooks, already held at f_4941). ALREADY HELD, so not claimed as finds -- and this is where the destination-grep earned its place FIVE times today: 'Jay Netherwood' 1 hit, the Porter Sargent guide entry, ALREADY at between-centennials.md:89. 'Nelson McEwen' 9 hits, of which the two real ones are a 1945 national office already established at f_0041/f_0405/f_1388 and the Dominion Bureau of Statistics Biennial Survey, which an earlier sweep THE SAME DAY had already found by the same query and worked properly (src_dbs_biennial_survey_education). 'Hedley S. Dimock' 269 hits, overwhelmingly his own books, which the wiki already cites. NAME COLLISIONS RECORDED SO THEY ARE NOT MISTAKEN LATER, the W. H. Ball trap again: 'Ralph H. Dawson' 12 hits include a First World War private in Under the Red Patch and an interview in La Presse of 5 DECEMBER 1928 cited in La Revanche de Maria Chapdelaine -- the latter is a genuine unexplored lead and is NOT asserted to be Kanawana's Dawson. 'Nelson McEwen' also returns a Weston grand organist, a Vancouver directory, an American men-of-science entry and a Horton genealogy. 'Derek V. Walsh' 2 hits are an occupational-stress researcher publishing with Ronald L. Crawford around 1980; Kanawana's Derek Walsh went to the Victoria YM-YWCA in 1979, so the two are neither identified nor excluded here. WHAT THIS SAYS ABOUT p_430: the sweep is closer to exhausted than its description implies. The names left are the directors in directors-index.md not run above and the Kanawana Committee chairmen.",
       "sources": [],
       "confidence": "stated",
       "conflicts_with": [],

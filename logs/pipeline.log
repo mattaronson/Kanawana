@@ -4697,3 +4697,29 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   record found and the item has not been seen; that is a new open question 5
   rather than a claim.
   Verify green. Timestamp read from `date -u` in its own call.
+
+[2026-09-07T13:18:42Z] p_430 name sweep logged and bounded. NEW: f_5560.
+  FOURTEEN TERMS RUN, ONE PRODUCTIVE. Twynam gave the 1990/1991 paper and the
+  1997 Ontario publication. Everything else was already held, empty, or a name
+  collision -- and all of it is now written down so nobody runs it again.
+  THE ZEROS ARE THE POINT: Shantz 0, Leo J. Robitaille 0, and four of the five
+  camp-name variants p_430 listed as untried are empty (Kanawanna, Lac Kanawana,
+  "Kanawana, Que"; only Lake Kanawana returns anything, and that one hit is
+  Stuart McLean's Vinyl Cafe Notebooks, held since f_4941).
+  THE DESTINATION GREP EARNED ITS PLACE FIVE TIMES TODAY. Jay Netherwood's one
+  hit, a Porter Sargent guide entry, is already at between-centennials.md:89.
+  Nelson McEwen's two real hits are a 1945 national office already at
+  f_0041/f_0405/f_1388 and a Dominion Bureau of Statistics survey that an
+  earlier sweep THE SAME DAY had found by the same query and worked properly.
+  Dimock's 269 are his own books, already cited.
+  NAME COLLISIONS RECORDED, the W. H. Ball trap again: a First World War private
+  named Ralph H. Dawson; a Weston grand organist, a Vancouver directory and a
+  Horton genealogy for McEwen; and a "Derek V. Walsh" publishing on occupational
+  stress around 1980, neither identified with nor excluded from Kanawana's Derek
+  Walsh, who went to Victoria in 1979.
+  ONE NEW LEAD NOT PURSUED: an interview with a "Ralph-H. Dawson" in La Presse
+  of 5 December 1928, cited in La Revanche de Maria Chapdelaine. Whether that is
+  Kanawana's Dawson is unestablished and the fact says so rather than assuming.
+  p_430 moved to partially_complete; what remains is the directors not run above
+  and the Kanawana Committee chairmen.
+  Verify green. Timestamp read from `date -u` in its own call.
