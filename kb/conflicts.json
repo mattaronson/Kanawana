@@ -831,11 +831,12 @@
       "entity": "Dining hall and lodge construction dates",
       "description": "TWO CAMP DOCUMENTS, THIRTY-SEVEN YEARS APART, ON THE SAME TWO BUILDINGS. The 1988 facilities table gives the dining hall as 1919 and the lodge as 1880s. The 1951 camp history gives the dining hall as 1920 and says 'In 1927 the lodge and museum was built.' The dining-hall gap may be construction start against completion. The lodge gap cannot be: 1880s and 1927 are not the same building event, and an 1880s date would predate the camp's arrival on the site.",
       "fact_ids": [
-        "f_2121"
+        "f_2121",
+        "f_5627"
       ],
       "status": "open",
       "flagged_at": "2026-09-05T00:00:00Z",
-      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.",
+      "notes": "Raised by the p_412 triage of facts marked confidence=disputed that carried no conflict record. The disagreement itself is not new -- it was already stated inside the fact(s) listed. What is new is that kb/conflicts.json now carries it, so it is visible to anyone reading the conflict file rather than only to someone who happens to read that fact.\n\nWIDENED 2026-09-07 under p_492, still OPEN. This record counted two dates; the KB holds five. A dining structure is recorded in use in 1913 ('a dining room, kitchen ... is now provided', Camp Committee) and in 1918 ('served in the dining pavilion', Gazette of 27 July), and the 1922 brochure lists a Dining Pavilion among that year's NEW facilities. The 1951 history's own wording removes the two early ones from the tally -- it says 'THE PRESENT dining hall and kitchen unit completed 1920' and separately names 'the lower pavilion on the lake front built early', so the document knows there was a predecessor, and 1913/1918 are that predecessor rather than evidence against 1919-20. 1922 is not explained. The core disagreement is untouched: 1919 against 1920 for the same completion, two camp documents, neither obviously better. Assembled at f_5627.",
       "affects_articles": []
     },
     {

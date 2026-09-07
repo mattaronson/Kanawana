@@ -1,6 +1,6 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 68*
+*Status: E1-reviewed | Sources: 69*
 *Last Updated: 2026-09-07 (the 1936 CFCF script; and what the site costs to rent in 2026)*
 
 ## Overview
@@ -365,6 +365,42 @@ use. The page also gives the staff as three roles: "the **Director**, a **Doctor
 **Educational Supervisor**." A doctor resident at camp in 1919 is earlier than anything else this
 project holds on medical provision, and it sits sixty years before the infirmary standard below.
 
+### The dining hall had no walls until 1977
+
+The 1919 advertisement above is not describing a temporary arrangement. The camp ate under a roof and
+between open posts for close to sixty years, and four independent sources cover the span.^69
+
+The Concordia photograph in the gallery below, captioned only "the dining hall, c.1920s," shows the
+inside of it: a long open-sided pavilion, rows of tables full of boys and staff eating, a hanging banner
+reading **"KAMP KANAWANA"** and a pennant on a post reading **"YMCA."** Several smaller pennants near it
+are too small to read. That banner is worth pausing on. The camp's self-branding with a K is documented
+elsewhere from brochures, a radio script, ribbons and a staff t-shirt; here it is hanging over the room
+where the whole camp ate, in the camp's own photograph, which is a different order of evidence from a
+souvenir.
+
+The *Gas-Bag Extra* of 1923 photographed the same building from outside, as "a large log building with a
+deep overhanging roof and an upper rail or gallery," and the picture is reproduced in
+[[site/places-and-locations|Places and Locations]]. And the walls arrive in the autumn of **1977**, in a
+list of works then under way in the director's report: "renovation of block house and farm house —
+**enclosing and renovating the dining hall** — relocating tent platforms in the new and old sites —
+erecting a new shower building in the senior section."^69 Anyone who was at camp from 1978 onward
+remembers the enclosed hall. It is the late form of the building, not the original one.
+
+**A dining structure is recorded five times between 1913 and 1922, and the conflict record only knows
+about two of them.** Conflict `c_049` sets the 1988 facilities table's **1919** against the 1951 camp
+history's **1920** and asks whether the gap is construction start against completion. But the Camp
+Committee's 1913 description quoted below already says "a dining room, kitchen, with tents, boats, etc.,
+is now provided"; the *Gazette* of 27 July **1918** has meals "served in the dining pavilion"; and the
+**1922** brochure lists a Dining Pavilion among that year's *new* facilities.^69
+
+One word settles most of it, and it is a word `c_049` does not quote. The 1951 history says "**the
+present** dining hall and kitchen unit completed 1920," and in the same breath names "the lower pavilion
+on the lake front built early." The document knows there was something before. On that reading the 1913
+dining room and the 1918 pavilion are the building the 1919-20 work replaced, and Concordia's blueprints
+for a dining pavilion dated 1919 are the drawings for the replacement. Which leaves `c_049` exactly where
+it was — 1919 against 1920 for the same completion — with 1913 and 1918 taken out of the count and 1922
+still unexplained.
+
 **What was actually bought, in 1913 words.** The Camp Committee's description of its two properties
 is the earliest account here of what the Saint-Sauveur holding consisted of: "one for men on Lac St.
 Joseph near Ste. Agathe, consisting of three islands, a club house, boat house, and equipment; and the
@@ -597,6 +633,7 @@ them on every line and by tenfold on revenue.
 66. YMCA of Montreal annual report for the year ending **31 December 1951** [src_ymf_sgw_ymca_annual_report_1951]. Held at read_state *partial*; its capital-works and camps sections read 2026-09-07 under p_490. See [f_5624].
 67. The Kanawana Flickr album of Concordia Archives historical images [src_flickr_kanawana_concordia_historical_album] — the **1941** hand-drawn camp map (three near-identical copies) at [f_1572], and a site map the archive dates to **1980–2001** at [f_1573]. Brought into this article 2026-09-07 under p_492, the orphan-fact sweep.
 68. Kamp Kanawana physical archive scans, 2026 [src_kanawana_physical_archive_scans_2026] — the cyanotype blueprint "Proposed Service Wing to Dining Hall", signed **J. M. Venters, Architect, 1503 Mackay Street, Montreal**, at [f_1579]. Brought into this article 2026-09-07 under p_492, the orphan-fact sweep. The identification of that architect with the **John Venters** who led the **Camp Architecture** workshop at the **1953** conference is at [f_5625], from *Canadian Camping* Vol. 5 No. 3, **June 1953** [src_ia_canadian_camping_1953_06].
+69. The dining hall's open-sided span and the dates around it, assembled 2026-09-07 under p_492 at [f_5627]. The **c.1920s** interior photograph of the open-sided pavilion, with its "KAMP KANAWANA" banner and "YMCA" pennant, is [src_flickr_kanawana_concordia_historical_album] at [f_1727] — the image already sat in this article's gallery with no note and no prose. The **1923** exterior, "a large log building with a deep overhanging roof", is the "PICTORIAL REVIEW" page of *The Gas-Bag Extra* Vol. 13 No. 1 [src_ymf_the_gas_bag_extra_vol_13_no_1] at [f_4927]. The **1977** line "enclosing and renovating the dining hall" is the director's report for that year [src_ia_kanawana_report_1977], quoted from `sources/cache/ymca-montreal-fonds/1977-kamp-kanawana-directors-report.txt` rather than from its paraphrase. The **1918** Gazette's "served in the dining pavilion" is [src_newspapers_gazette_1918b] at [f_2245]; the **1920** completion and the "lower pavilion on the lake front" are the **1951** camp history [src_ia_kanawana_history_1951] at [f_2120]; the **1922** brochure's new Dining Pavilion is [src_brochure_1922] at [f_0303]; and the **1919** blueprints are Concordia P145/12B03 [src_concordia_12B03] at [f_1787].
 
 ## Research Notes
 

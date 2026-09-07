@@ -6436,3 +6436,35 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   a new fetch, or an archive request. The generalisation worth keeping: an orphan fact is not
   necessarily a gap in the record, it is often a gap in the index, and the cheapest test for which one
   it is costs a single grep of what has already been read.
+
+2026-09-07T16:35:25Z  p_492 (orphan facts) -- unit: the dining hall had no walls until 1977.
+  f_1727 (Concordia photograph, interior of a long open-sided dining pavilion, c.1920s, hanging
+  "KAMP KANAWANA" banner and "YMCA" pennant) was orphaned. THE PARTICULAR FAILURE HERE IS WORTH NAMING:
+  the photograph was ALREADY IN the-kanawana-site.md, in the "## Images" gallery at the bottom, captioned
+  "The dining hall, c.1920s" and nothing else. An image in a gallery with a one-line caption looks like
+  the material is used. None of its content was in any article's prose and no article cited it. A gallery
+  is not a citation.
+  Assembling it against the KB produced two results, both in f_5627 (kb/facts.json v10.36, 5589 facts):
+  (1) The building was roofed but not walled from at least 1919 to 1977, from four independent sources --
+      the 1919 Montreal Men ad ("an immense open air roofed dining-hall, and the pavilion for games",
+      f_5178), the c.1920s interior photograph (f_1727), the 1923 Gas-Bag exterior (f_4927), and the 1977
+      director's report listing "enclosing and renovating the dining hall" among work then in progress.
+      That last was quoted from the cache directly, NOT from f_2444's paraphrase, and the cache confirms
+      the wording. The enclosed hall everyone remembers post-1978 is the late form.
+  (2) c_049 counted two dates for the dining hall (1988 table 1919 vs 1951 history 1920) where the KB
+      holds five: 1913 Camp Committee "a dining room, kitchen ... is now provided", 1918 Gazette "served
+      in the dining pavilion", and the 1922 brochure's NEW Dining Pavilion. The 1951 history's own word
+      "PRESENT" -- "the present dining hall and kitchen unit completed 1920", beside "the lower pavilion
+      on the lake front built early" -- takes 1913 and 1918 out of the tally as the predecessor. 1922 is
+      unexplained. c_049 WIDENED IN PLACE, still OPEN: 1919 against 1920 is untouched, and two documented
+      camp sources disagreeing is a human decision point, not mine.
+  New subsection "The dining hall had no walls until 1977" and note 69 in wiki/site/the-kanawana-site.md;
+  six source ids added to sources_cited (42 -> 48). build_article_counts + verify/all.py: all pass.
+  NOT established, and said so: whether 1922's "new" pavilion is a third building, a rebuild or loose
+  brochure copy; whether the 1923 log building is the 1919-20 or the 1922 structure; whether the c.1920s
+  interior is the same building as either. The oral 1911 date (f_2358, f_1198) is left standing, NOT
+  resolved against the documents: it dates the building the operator knew 1985-2002, and no document in
+  this KB dates any dining structure to 1911, so there is nothing documented to prefer.
+  METHOD NOTE, third in a row: an orphan fact is usually a gap in the index, not the record. This one
+  adds a variant -- the material can be physically present in the destination article and still be
+  orphaned, if it is present as decoration.

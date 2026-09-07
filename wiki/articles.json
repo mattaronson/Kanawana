@@ -3669,7 +3669,13 @@
         "src_ymf_sgw_ymca_annual_report_1951",
         "src_flickr_kanawana_concordia_historical_album",
         "src_kanawana_physical_archive_scans_2026",
-        "src_ia_canadian_camping_1953_06"
+        "src_ia_canadian_camping_1953_06",
+        "src_ymf_the_gas_bag_extra_vol_13_no_1",
+        "src_ia_kanawana_report_1977",
+        "src_ia_kanawana_history_1951",
+        "src_newspapers_gazette_1918b",
+        "src_brochure_1922",
+        "src_concordia_12B03"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -3684,7 +3690,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 10449,
+      "word_count": 11072,
       "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral. 2026-06-20: Added Indigenous territory context (f_1315) and Mille-Isles regional history (f_1314). 2026-06-21: Added 1976 Lovell's directory listing (f_1331) and 2023 superintendent's house fire (f_1333). | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph about the Weredale lease into a new Research Notes > Revision History section (this article previously had no Research Notes section at all). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

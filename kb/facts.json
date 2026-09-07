@@ -1,8 +1,8 @@
 {
-  "version": "10.35",
-  "kb_version": "10.35",
+  "version": "10.36",
+  "kb_version": "10.36",
   "migrated_from": "3.3",
-  "fact_count": 5588,
+  "fact_count": 5589,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100670,6 +100670,32 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.35",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5627",
+      "claim": "THE DINING HALL WAS OPEN-SIDED FOR ALMOST SIXTY YEARS, AND THE 1919-VERSUS-1920 CONFLICT IS THE TAIL OF A LONGER SEQUENCE. Raised under p_492 by f_1727, a Concordia photograph of the INTERIOR of a long open-sided dining pavilion, dated c.1920s, showing a hanging banner reading 'KAMP KANAWANA' and a pennant on a post reading 'YMCA'. That photograph is IN the-kanawana-site.md as an undifferentiated image in the gallery at the bottom, captioned 'The dining hall, c.1920s' and nothing else; its content appears in no article's prose and it is cited by none. Assembling it against what the KB already held produces two results.\n\n(1) THE BUILDING WAS ROOFED BUT NOT WALLED FROM AT LEAST 1919 UNTIL 1977, from four independent sources. The 1919 recruiting page in *Montreal Men* advertises 'AN IMMENSE OPEN AIR ROOFED DINING-HALL, AND THE PAVILION FOR GAMES' (f_5178) -- two structures, distinguished, the dining hall roofed and open. The c.1920s Concordia interior photograph shows exactly that from inside (f_1727). The 1923 Gas-Bag 'PICTORIAL REVIEW' photographs it from outside as 'a large LOG BUILDING with a deep overhanging roof and an upper rail or gallery' (f_4927). And the 1977 director's report lists, among work then in progress, 'ENCLOSING AND RENOVATING THE DINING HALL' (src_ia_kanawana_report_1977, quoted here from the cache directly, not from f_2444's paraphrase). So the walls went on in the autumn of 1977 or later. The open-sided period is not a 1920s phase; it is most of the building's life, and the enclosed hall everyone who was at camp after 1978 remembers is the late form.\n\n(2) c_049 IS NARROWER THAN THE EVIDENCE. That conflict record pits the 1988 facilities table's 1919 against the 1951 camp history's 1920 for the dining hall, and calls the gap possibly construction-start against completion (f_2121). But the KB holds three earlier records of a dining structure already in use: the Camp Committee's 1913 description of the Saint-Sauveur property, 'A DINING ROOM, KITCHEN, with tents, boats, etc., is now provided'; the Gazette of 27 July 1918, meals 'SERVED IN THE DINING PAVILION' (f_2245); and the 1919 advertisement above. It also holds a LATER one: the 1922 brochure lists a 'Dining Pavilion' among NEW facilities that year (f_0303). Five dates, not two.\n\nWHAT RECONCILES MOST OF IT is one word the 1951 history uses and c_049 does not quote: 'THE PRESENT dining hall and kitchen unit completed 1920' (f_2120). 'Present' distinguishes it from a predecessor, and the same sentence separately names 'the lower pavilion on the lake front built early.' The 1951 history therefore knows there was an earlier structure. On that reading the 1913 dining room and the 1918 pavilion are not evidence against 1919/1920 at all -- they are the building that 1919/1920 replaced -- and Concordia's blueprints FOR a dining pavilion dated 1919 (f_1787) are the drawings for the replacement. This does NOT resolve c_049: 1919 against 1920 for the same completion is still 1919 against 1920. It removes 1913 and 1918 from the tally and leaves 1922 unexplained.\n\nNOT ESTABLISHED. Whether the 1922 brochure's 'new' Dining Pavilion is a third building, a rebuild, or a brochure listing four-year-old work loosely. Whether the 1923 log building is the 1919/1920 structure or the 1922 one. Whether the c.1920s interior photograph is the same building as either. And the oral history's 1911 dining hall (f_2358, f_1198) is left where it stands: it dates the building the operator knew, 1985-2002, which by then had been enclosed, and no document in this KB dates any dining structure to 1911.",
+      "sources": [
+        "src_flickr_kanawana_concordia_historical_album",
+        "src_ymf_sgw_ymca_annual_report_1919_montreal_men",
+        "src_ymf_the_gas_bag_extra_vol_13_no_1",
+        "src_ia_kanawana_report_1977",
+        "src_ia_kanawana_history_1951",
+        "src_newspapers_gazette_1918b",
+        "src_brochure_1922",
+        "src_ia_kanawana_place_to_grow_1988",
+        "src_concordia_12B03"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Kamp Kanawana",
+        "Dining Hall",
+        "Dining Pavilion"
+      ],
+      "date_ref": "1913-1977",
+      "conflicts_with": [],
+      "added_version": "10.36",
       "added_by": "ralph_loop"
     }
   ]
