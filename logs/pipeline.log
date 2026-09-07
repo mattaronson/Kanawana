@@ -4110,3 +4110,28 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   that they were read and produced nothing -- which is different from not reading them.
   NEW: facts 5487 -> 5491 (f_5526..f_5529); kb 9.98 -> 9.99. Verify green.
   Timestamp read from `date -u` in its own call.
+
+2026-09-07T11:15Z  A third instrument that over-reports, and this one I built today.
+  Having found the identifier test unreliable (f_5472) and the read_state flag
+  unreliable in both directions (f_5475), I built a shingle test to measure how much
+  of the Montreal Y's annual and community reports is genuinely unworked: five-word
+  sequences from around each Kanawana mention, checked against the wiki and the KB.
+  IT REPORTED 56 OF 58 TESTABLE REPORTS AS UNWORKED. THE NUMBER IS WORTHLESS.
+  Two faults, both mine. The first run counted 40 reports WITH NO KANAWANA MENTION AT
+  ALL as "unworked" -- the same FAIL-versus-CLEAN confusion this project has corrected
+  three times already in its own sweep code. An item the test cannot run on is not an
+  item that failed it. And the remaining number is still wrong, because THE TEST ONLY
+  DETECTS VERBATIM QUOTATION and this wiki paraphrases. Three reports I had just
+  checked by hand -- 2010 community, 2007 French annual, 2016 community -- are all
+  fully worked and all three score zero. The 2007 case shows the mechanism: the French
+  says "deux nouveaux batiments sanitaires ecologiques", the wiki says "two
+  eco-friendly sanitary buildings (low-flow taps and showers)". No text-matching test
+  will ever link those, and about half these reports are French.
+  EVERY AUTOMATED SHORTCUT TRIED TODAY -- identifier matching, the read_state field,
+  and now shingles -- HAS OVER-REPORTED NOVELTY, and each looked convincing until it
+  was checked against an item whose answer was already known.
+  p_482 REPRIORITISED accordingly: the modern reports go down the list, since three of
+  three sampled were already worked. Better targets are the 1980 Hub Cities report,
+  the annual reports of 1917-1920 and 1982-1995, the 1851-2001 anniversary
+  publication, and the remaining ka-news issues.
+  NEW: f_5530; kb 9.99 -> 10.00. Verify green. Timestamp read from `date -u`.

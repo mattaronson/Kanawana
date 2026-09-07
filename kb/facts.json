@@ -1,8 +1,8 @@
 {
-  "version": "9.99",
-  "kb_version": "9.99",
+  "version": "10.00",
+  "kb_version": "10.00",
   "migrated_from": "3.3",
-  "fact_count": 5491,
+  "fact_count": 5492,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99015,6 +99015,18 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.99",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5530",
+      "category": "method",
+      "date_ref": "2026-09-07",
+      "entities": [],
+      "claim": "A THIRD INSTRUMENT THAT OVER-REPORTS UNREAD MATERIAL, AND THIS ONE I BUILT TODAY AND ALMOST BELIEVED. Having found the identifier test unreliable (f_5472) and the read_state flag unreliable in both directions (f_5475), I built a shingle test to measure how much of the Montreal YMCA's annual and community reports remains genuinely unworked: take five-word sequences from the text around each Kanawana mention and see whether they appear anywhere in the wiki or the KB. IT REPORTED 56 OF 58 TESTABLE REPORTS AS UNWORKED. THE NUMBER IS WORTHLESS AND MUST NOT BE USED. TWO FAULTS, BOTH MINE. (1) THE FIRST RUN COUNTED 40 REPORTS WITH NO KANAWANA MENTION AT ALL AS 'UNWORKED', which is the same FAIL-versus-CLEAN confusion this project has now corrected three times in its own sweep code -- an item the test cannot run on is not an item that failed the test. Fixed by separating them, and they are reported as untestable. (2) THE REMAINING NUMBER IS STILL WRONG, because THE TEST ONLY DETECTS VERBATIM QUOTATION and this wiki overwhelmingly PARAPHRASES. Three reports checked by hand immediately beforehand -- the 2010 community report, the 2007 French annual report and the 2016 community report -- are all FULLY WORKED, and all three would score zero. The 2007 case shows the mechanism plainly: the French original says 'deux nouveaux batiments sanitaires ecologiques' and environmental-history.md renders it 'two eco-friendly sanitary buildings (low-flow taps and showers)'. NO TEXT-MATCHING TEST WILL EVER LINK THOSE, and roughly half these reports are French. THE RULE THAT SURVIVES IS THE ONE ALREADY IN p_482: work the items ONE AT A TIME with a hand grep of the destination for the CONTENT. Every automated shortcut tried today -- identifier matching, the read_state field, and now shingles -- has over-reported novelty, and each looked convincing until it was checked against an item whose answer was known.",
+      "sources": [],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "10.00",
       "added_by": "ralph_loop"
     }
   ]
