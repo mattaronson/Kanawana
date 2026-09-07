@@ -1,8 +1,8 @@
 {
-  "version": "11.08",
-  "kb_version": "11.08",
+  "version": "11.09",
+  "kb_version": "11.09",
   "migrated_from": "3.3",
-  "fact_count": 5686,
+  "fact_count": 5687,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102552,6 +102552,20 @@
       "date_ref": "2015-2024",
       "conflicts_with": [],
       "added_version": "11.08",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5725",
+      "claim": "THE TOP OF p_451'S CORRECTED LIST IS ALREADY READ, AND THE DERIVED BASIS IS UNDERSTATING RATHER THAN OVERSTATING THERE. Having re-ranked the records marked 'extracted' by inference on stripped text and on how often the camp is named (f_5723), the two heads were checked by reading them. BOTH ARE WORKED. src_kk_prep_guide_2025, the camp's own 43-page parent handbook for 2025, is cited by nine facts that are almost all drawn from its MAP -- zone numbers, building legends, cabin names -- which is what made the record look like a map extraction with 74,000 characters of unread prose behind it. The prose is in history/modern-era.md, which quotes the mission, ALL SIX named values with their paragraphs, the 'over 130 years of summer camping' claim, and the Camper Behavior Agreement, and which connects the values' phrase 'democratic living' back to the 1953 Planned Group Development pilots. It does that through prose and source notes rather than fact ids, WHICH IS EXACTLY WHY THE FACT-COUNT PROXY CANNOT SEE IT -- the same defect as the retracted 'under-populated wiki' measurement, met again from the other side. src_concordia_atom_12A is cited by one fact and used in two articles' source notes. BOTH BASES REWRITTEN AS DIRECT, which is p_451's step (3). THE PATTERN ACROSS FOUR CHECKS TONIGHT IS CONSISTENT AND WORTH STATING AGAINST THE PRIORITY'S PREMISE: the 1969 and 1970 Kanawana reports, the two Pip newsroom pages, the 1918 Gazette page, and now these two. Only the Pip pages held anything unused, and that was one ordinal sentence. A derived read_state_basis is not evidence that a document is unread; on this evidence it is usually evidence that somebody read it and cited it in prose. THE REMAINING VALUE IN p_451 IS THEREFORE NOT THE READING BUT THE 256 RECORDS WITH NO CACHED TEXT AT ALL, whose 'extracted' cannot be tested in either direction and which reading cannot fix.",
+      "sources": [],
+      "confidence": "inferred",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026-09-07",
+      "conflicts_with": [],
+      "added_version": "11.09",
       "added_by": "ralph_loop"
     }
   ]

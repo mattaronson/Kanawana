@@ -684,7 +684,7 @@
       "reliability": "primary",
       "notes": "Key Kanawana items: R.L. Charlton 'Early Days of YMCA Camps at Lake St. Joseph and Kanawana' 1943; Ralph Dawson 'History of Kamp Kanawana' 1933; W.E. Cushing 'Historical sketches—Lake St. Joseph' 1943. Permanent Camp Committee minutes 1895-1896, correspondence/financial 1899-1901, minute book 1911-1926. Co-ed Camping Pilot Project reports 1967-1970. Journal of first YMCA venture to St. Agathe & Summer Camp 1895. Layout/Building Designs/Equipment 1946. Statistical profile camping programs 1977. [SHARED CACHE FILE, cross-referenced 2026-09-07 under p_442. This record's cache_path is shared with 6 other record(s): src_concordia_fonds (extracted); src_concordia_atom_kanawana (extracted); src_concordia_atom_12B01 (extracted); src_concordia_atom_12B04 (extracted); src_concordia_atom_12B07 (extracted); src_concordia_atom_12B05 (extracted). The read_states agree. NOTHING HAS BEEN MERGED -- p_442 requires the operator to choose between merging, cross-referencing and fixing read_state, and this is the cross-reference. A shared path is not always an error: some cached files hold several distinct documents.]",
       "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact"
+      "read_state_basis": "direct: verified as genuinely read 2026-09-07 under p_451, replacing a derived:cited-by-fact basis. Cited by one fact (f_1939, the Permanent Camp Committee minute and correspondence files 1895-1926) and used in two articles' source notes -- people/ralph-dawson.md note 9 and traditions/traditions-and-culture.md note 30, the latter covering 12A alongside 12B04 and its siblings. The cached text is the shared concordia-atom-kanawana-full.txt, one file backing seven sub-series records; see the shared-cache cross-reference note."
     },
     {
       "source_id": "src_wikipedia_murray_ross",
@@ -8514,7 +8514,7 @@
       "reliability": "primary",
       "notes": "Flagged directly by the operator, 2026-07-09. Official current (2025) parent preparation guide -- mission/values statement, packing/safety policy, staff-supervision ratios, daily schedule, current staff team (matching already-documented Caldwell/Lacasse/Durand/Thomson), and a detailed current site map with a full building/cabin-name legend (rendered from PDF page 20 via pdftoppm, since it's graphical, not extractable text). The map is the single richest current-day building-inventory source found this project -- see facts for the full legend transcription.",
       "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact"
+      "read_state_basis": "direct: verified as genuinely read 2026-09-07 under p_451, replacing a derived:cited-by-fact basis. The nine facts citing it are almost all drawn from the camp MAP (zone numbers, building legends, cabin names), which made the record look like a map extraction. The 43 pages of PROSE are worked too, in history/modern-era.md, which quotes the mission, all six named values with their paragraphs, the 'over 130 years of summer camping' claim and the Camper Behavior Agreement -- through prose and source notes rather than fact ids, which is why the fact-count proxy could not see it. Read again 2026-09-07 to confirm; no unused substantive passage found in the front matter, mission, values or camp-life sections."
     },
     {
       "source_id": "src_rpcq_ymca_8364",
