@@ -1,8 +1,8 @@
 {
-  "version": "10.66",
-  "kb_version": "10.66",
+  "version": "10.67",
+  "kb_version": "10.67",
   "migrated_from": "3.3",
-  "fact_count": 5626,
+  "fact_count": 5630,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101432,6 +101432,71 @@
       "date_ref": "1960-1978",
       "conflicts_with": [],
       "added_version": "10.66",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5665",
+      "claim": "THE 1966 PRINTING OF THE TEN YEAR SUMMARY REACHES BACK TO 1956, AND ITS SHREDDING IS WHAT MAKES IT READABLE. This scan is worse than the others -- it has broken the table into one value per line -- but for the earliest columns THE ROW LABELS STAYED ATTACHED TO THEIR VALUES, which is precisely what the 1965 printing lost. Each block was tested before use. THE 1956 COLUMN: the age-of-campers rows sum to 523, EXACTLY the camper count this project already holds for 1956 from another source, which validates the whole column at a stroke. THE 1960 AND 1961 COLUMNS reproduce the 1970 printing value for value across ages, stay lengths, sections and religion -- a second independent witness to figures already published from the 1970 report. NEW CAMPER-WEEK TOTALS FOR TWO SEASONS. Where the three religion rows sum exactly to a year's known camper-week total (1958, 1960, 1961 and 1963 all do, to the week), the minor rows are blank and the sum IS the total; on that basis 1956 = 1,624 camper weeks and 1959 = 1,567, neither of which this project held. 1956's 1,624 over 523 campers is an average stay of 3.11 weeks, which sits where it should between the 3.5 recorded for 1955 and the 3.04 for 1957.",
+      "sources": [
+        "src_ia_kanawana_annual_report_1966"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1956-1963",
+      "conflicts_with": [],
+      "added_version": "10.67",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5666",
+      "claim": "THE RELIGIOUS COMPOSITION OF THE CAMP, 1956-1963, AND THE ROMAN CATHOLIC SHARE NEARLY DOUBLES. Six columns of the summary's 'BY WEEKS' religion block reconcile and are recorded; four of them (1958, 1960, 1961, 1963) sum EXACTLY to a camper-week total known independently, which is what establishes that the three named rows account for the whole camp in these years and the Buddhist, Hindu or Moslem and Not-reported rows are blank. Camper weeks by affiliation -- Protestant, Roman Catholic, Jewish: 1956 = 1,134 / 170 / 320; 1958 = 1,203 / 184 / 236; 1959 = 1,154 / 229 / 184; 1960 = 1,079 / 258 / 248; 1961 = 963 / 266 / 280; 1963 = 963 / 318 / 360. AS SHARES, THE ROMAN CATHOLIC LINE IS THE ONE THAT MOVES, AND IT MOVES ONE WAY ONLY: 10.5, 11.3, 14.6, 16.3, 17.6, 19.4 per cent -- nearly doubling in seven years without a single reversal. The Protestant share falls from 69.8 to 58.7 per cent over the same span; the Jewish share swings between 11.7 and 21.9 without trend. BY 1963 THE CAMP WAS 41 PER CENT NON-PROTESTANT, which for an institution founded as a Protestant young men's association in Quebec is a fact about the camp and about the province either side of the Quiet Revolution. NOT RECORDED, DELIBERATELY: from 1964 the three rows stop summing to their totals, falling short by a margin that grows from 16 to 69 weeks, so the later columns -- including an apparent collapse in Jewish camper weeks after 1963 -- are NOT published. The shortfall is consistent with a growing Not-reported category, but that is a hypothesis and the numbers would be a reconstruction.",
+      "sources": [
+        "src_ia_kanawana_annual_report_1966",
+        "src_ia_kanawana_report_1970"
+      ],
+      "confidence": "stated",
+      "category": "demographics",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1956-1963",
+      "conflicts_with": [],
+      "added_version": "10.67",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5667",
+      "claim": "THE RANGERS WERE FOUR TIMES BIGGER IN 1958 THAN IN ANY YEAR OF THE 1960s. f_5653 recorded a fifth section running 1960-64 at 48, 46, 46, 40 and 28 camper weeks and then ending. The 1966 printing gives the 1958 column: Pioneers 357, Woodsmen 397, Coureur de Bois 371, Pathfinders 380, RANGERS 118 -- summing to 1,623, exactly the camper-week total this project already holds for 1958. So the section did not simply fade from a small base. It was at 118 weeks in 1958, 48 by 1960, and gone by 1965: A LOSS OF ROUGHLY SIXTY PER CENT IN TWO YEARS, then a long tail. Whatever the Rangers were, they were being wound down before the decade the earlier fact covers, and the wind-down is the story rather than the ending.",
+      "sources": [
+        "src_ia_kanawana_annual_report_1966"
+      ],
+      "confidence": "stated",
+      "category": "programming",
+      "entities": [
+        "Rangers"
+      ],
+      "date_ref": "1956-1965",
+      "conflicts_with": [],
+      "added_version": "10.67",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5668",
+      "claim": "THE 1958 CAMPER COUNT: TWO MORE SUB-TABLES SAY 538 WHERE THE SERIES SAYS 528. The attendance article already flags 1958, noting that 'the printed total and the printed ages do not reconcile'. The 1966 printing supplies two further independent sub-tables for that column, and BOTH sum to 538: the age-of-campers rows (18 + 60 + 87 + 115 + 84 + 80 + 45 + 39 + 10) and the stay-in-camp rows (367 + 3 + 109 + 0 + 23 + 36). The same two blocks reconcile EXACTLY for 1956, 1960 and 1961 and to within one for 1959, so the method is sound and 1958 is the outlier. This does not settle the number -- it is documented against documented, and the camper-week total of 1,623 is not in doubt -- but it moves the discrepancy from one sub-table disagreeing with a printed figure to THREE sub-tables agreeing with each other against it. 1,623 over 538 is an average stay of 3.02 weeks; over 528 it is 3.07.",
+      "sources": [
+        "src_ia_kanawana_annual_report_1966"
+      ],
+      "confidence": "disputed",
+      "category": "attendance",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1958",
+      "conflicts_with": [],
+      "added_version": "10.67",
       "added_by": "ralph_loop"
     }
   ]

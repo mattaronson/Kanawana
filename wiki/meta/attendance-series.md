@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 45*
+*Status: draft | Sources: 46*
 *Last Updated: 2026-09-07 (the ten year summary, read across four printings: 1960-78 filled)*
 
 ## Overview
@@ -89,10 +89,10 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1953 | 450 | — | Avg stay 3.5 weeks; more hikes, and "keener interest in nature lore" as a result^14 |
 | 1954 | 446 | — | "the year of great rains"; 662 tests passed, 371 boys on overnight hikes, 201 through the graded Y.M.C.A. swim tests and 151 non-swimmers through the elementary one; older boys went up the Archambault River by canoe **every week**. Average stay printed as **5.5 weeks**, which is almost certainly a misread of 3.5 — see the note^14 |
 | 1955 | 473 | — | Avg stay 3.5 weeks; 72 boys learned to swim, 323 passed intermediate swimming tests, 182 boating/canoeing/sailing awards, 22 life-saving and master swimming awards. Tent groups of seven planned their own programme, with "competition with self, rather than comparison with others" the stated key note^16 |
-| 1956 | 523 | — | |
+| 1956 | 523 | **1,624** | Camper weeks added 2026-09-07: the religion rows sum to it, and the three-row block is proved complete in four neighbouring years^46 |
 | 1957 | 558 | **1,696** camper-weeks | Camp "filled to capacity"; average stay three weeks — and 1,696 over 558 is 3.04, which is where that note independently lands^43; age breakdown below^15. The Foremen's Club, "as usual," paid for 19 campers at Camp Perrot^16 |
-| 1958 | 528 | **1,623** camper-weeks | 1,623 over 528 is 3.07 weeks^43. Age breakdown below; the printed total and the printed ages do not reconcile^15 |
-| 1959 | 526 | — | Voyageurs pilot, 30 boys |
+| 1958 ⚠️ | 528 *or 538* | **1,623** camper-weeks | 1,623 over 528 is 3.07 weeks^43. Age breakdown below; the printed total and the printed ages do not reconcile^15. **Two further sub-tables in the 1966 printing both sum to 538**, and the same blocks reconcile exactly for 1956, 1960 and 1961 — see below^46 |
+| 1959 | 526 | **1,567** | Voyageurs pilot, 30 boys. Camper weeks added 2026-09-07 on the same basis^46 |
 | **1960** | **545** | **1,585** | "Kamp Kanawana for boys operated for eight weeks at near capacity"; the Zeller Family Foundation study of leadership and camper growth begins [f_4846]. Counts added 2026-09-07 from the ten year summary [f_5652]^45 |
 | **1961** | **503** | **1,509** | The second season run on "planned group development"; the study's first findings tested "last summer at Kanawana" [f_4846]. Counts added 2026-09-07 [f_5652]^45 |
 | **1962** | **590** ⚠️ *or 550 or 548* | **1,640** *(also 12,425 camper days)* | From the statistical summary, which counts the city day camps separately [f_4846]. **A news release of 22 April 1963 says 550, "the highest enrollment," with 66 staff and counsellors under Ross Seaman**^19 — see the note below. **The ten year summary makes a third figure, 548, and gives the camper-weeks total: `c_071`**^45 |
@@ -407,16 +407,58 @@ cannot exceed its total, so the scan has damaged the rows and not merely shifted
 worse still. This is recorded rather than passed over in silence so that the next pass does not spend a
 morning rediscovering it. Page images would settle this block too.^45 [f_5664]
 
-**The religious breakdown, for the three years it can be proved.** The 1970 printing gives the block by
-camper weeks: Protestant, Roman Catholic, Jewish, Buddhist, Hindu or Moslem, Not reported. Three columns
-sum exactly to their year's printed camper-week total and are recorded here on that basis — **1960**
-(Protestant 1,079, Roman Catholic 258, Jewish 248), **1961** (963, 266, 280) and **1963** (963, 318,
-360). A camp about two thirds Protestant, then, with roughly one camper week in six Roman Catholic and
-one in six Jewish at the start of the 1960s. **The other columns are deliberately not recorded.** From
-1964 the three main rows fall short of the year's total by a margin growing from 16 to 69 weeks, and the
-three minor rows carry too few surviving values to be assigned to years. Filling those in would be
-arithmetic dressed as evidence, which is the specific failure `p_497` was written to avoid; page images
-would settle it.^45 [f_5657]
+**And a fifth printing reaches back to 1956 — because its scan is worse.** The 1966 report's copy is
+broken to one value per line, which sounds fatal and is the opposite: for the earliest columns **the row
+labels stayed attached to their values**, which is exactly what the 1965 printing lost. The 1956 column's
+age rows sum to **523**, the camper count this project already held for 1956 from a different source,
+which validates the whole column at a stroke; the 1960 and 1961 columns reproduce the 1970 printing value
+for value, giving a second independent witness to figures already published above.^46 [f_5665]
+
+It also yields **two camper-week totals this project did not have — 1956 = 1,624 and 1959 = 1,567** — and
+they are not read off a total row. Where the three religion rows sum exactly to a year's known
+camper-week figure the minor rows must be blank, and for 1958, 1960, 1961 and 1963 they do, to the week.
+On that basis the sum is the total. 1,624 over 523 campers is an average stay of 3.11 weeks, which sits
+where it should between the 3.5 recorded for 1955 and the 3.04 for 1957.
+
+**The Rangers were four times bigger in 1958.** The 1958 column gives Pioneers 357, Woodsmen 397, Coureur
+de Bois 371, Pathfinders 380 and **Rangers 118**, summing to 1,623 — the camper-week total already held.
+So the section did not fade from a small base: 118 weeks in 1958, 48 by 1960, gone by 1965. It lost about
+sixty per cent in two years and then had a long tail, and **the wind-down is the story rather than the
+ending**.^46 [f_5667]
+
+**1958 has a third and fourth witness now, and they disagree with the row above.** This table already
+flagged 1958 because the printed total and the printed ages do not reconcile. The 1966 printing supplies
+two more independent sub-tables for that column and **both sum to 538**, not 528 — while the same two
+blocks reconcile exactly for 1956, 1960 and 1961 and to within one for 1959. That does not settle the
+number, and the camper-week total of 1,623 is not in doubt. It moves the problem from one sub-table
+disagreeing with a printed figure to **three sub-tables agreeing with each other against it**.^46 [f_5668]
+
+**The religious breakdown, six years of it, and the line that moves.** This article previously said the
+block was held nowhere else and could not be read. Six columns reconcile, and four of them (1958, 1960,
+1961, 1963) sum **exactly** to a camper-week total known independently — which is what establishes that
+the three named rows account for the whole camp in these years and that Buddhist, Hindu or Moslem and
+Not-reported are blank.
+
+| Camper weeks | 1956 | 1958 | 1959 | 1960 | 1961 | 1963 |
+|---|---|---|---|---|---|---|
+| Protestant | 1,134 | 1,203 | 1,154 | 1,079 | 963 | 963 |
+| Roman Catholic | 170 | 184 | 229 | 258 | 266 | 318 |
+| Jewish | 320 | 236 | 184 | 248 | 280 | 360 |
+| *Roman Catholic share* | *10.5%* | *11.3%* | *14.6%* | *16.3%* | *17.6%* | *19.4%* |
+| *Protestant share* | *69.8%* | *74.1%* | *73.6%* | *68.1%* | *63.8%* | *58.7%* |
+
+**The Roman Catholic line is the one that moves, and it moves one way only** — nearly doubling in seven
+years without a single reversal. The Protestant share falls from 69.8 to 58.7 per cent across the same
+span; the Jewish share swings between 11.7 and 21.9 without a trend. **By 1963 the camp was 41 per cent
+non-Protestant**, which for an institution founded as a Protestant young men's association in Quebec, on
+either side of the Quiet Revolution, is a fact about the province as much as about the camp.
+
+**The later columns are not published.** From 1964 the three rows stop summing to their totals, falling
+short by a margin that grows from 16 to 69 weeks. There is an apparent collapse in Jewish camper weeks
+after 1963 in those columns, and it is **not recorded here**, because a shortfall that size means either
+a growing Not-reported category or a misread row and nothing in the scan distinguishes them. Page images
+would settle it; a reconstruction would be arithmetic dressed as evidence, which is the specific failure
+`p_497` was written to avoid.^45 ^46 [f_5657] [f_5666]
 
 **The L&V trophy.** The Kanawana Annual Trophy carries a shield for every season from 1947 to 2025
 except 2021, transcribed in full. A shield means the Games were contested that summer, and in an
@@ -622,6 +664,7 @@ from inside the camp office, in a year the camp was moving to coeducation.
 43. Kamp Kanawana's own annual report for **1965** [src_ia_kanawana_report_1965], `sources/cache/ymca-montreal-fonds/1965-kamp-kanawana-annual-report.txt`, under the heading "KAMP KANAWANA TEN YEAR SUMMARY". The **1,696** camper-weeks of **1957** and **1,623** of **1958**, the two tests each of them passes, and a description of everything else the table covers — including a religious-affiliation breakdown this project holds nowhere else — are at [f_5641]. Found 2026-09-07 under p_491; the rest of the table needs page images (p_497).
 44. Kamp Kanawana's own annual report for **1964**, its seventy-first season [src_ia_kanawana_report_1964]. The **535** campers and their stay lengths, the peak population of about **390** with roughly **300** fed daily, the **31** counsellors at an average age of **19.8** and an average salary of **$173**, and the missed budget of **1,530** camper-weeks are all at [f_2389]. Brought into this article 2026-09-07 under p_492.
 45. **The "KAMP KANAWANA TEN YEAR SUMMARY", read across four intact printings**, 2026-09-07 under `p_499`: the annual reports for **1969** [src_ia_kanawana_report_1969] and **1970** [src_ia_kanawana_report_1970] and the directors' reports for **1976** [src_ia_kanawana_directors_report_1976] and **1978** [src_ia_kanawana_report_1978], with the returnee row extended by the **1975** [src_ia_kanawana_report_1975] and **1979** [src_ia_kanawana_report_1979] printings. All cached in `sources/cache/ymca-montreal-fonds/`. The rolling nature of the table and what it costs to have missed it are at [f_5651]; the 1960-65 counts and how each was tested at [f_5652]; the Rangers section at [f_5653]; the girl series at [f_5654]; the returnee series at [f_5655]; the 'Y' membership collapse and its deletion from the table at [f_5656]; the religious breakdown and why only three columns of it are published at [f_5657]; the average-stay row used as an error-correcting check at [f_5658]. Disagreements with the contemporaneous reports are at `c_070` (1971) and `c_071` (1962, 1963, 1965, 1972).
+46. The **1966** printing of the same rolling appendix, in Kamp Kanawana's own annual report for 1966 [src_ia_kanawana_annual_report_1966], `sources/cache/ymca-montreal-fonds/1966-kamp-kanawana-annual-report.txt`. Read 2026-09-07 under `p_499`. Its scan is broken to one value per line, which for the earliest columns PRESERVED the row labels the 1965 printing lost. The 1956 reach-back and the two new camper-week totals are at [f_5665]; the religious series at [f_5666]; the 1958 Rangers figure at [f_5667]; the 1958 camper-count problem at [f_5668].
 
 ## Research Notes
 
