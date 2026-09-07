@@ -7902,3 +7902,22 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   The failure was mine and the harness caught it. Lesson: when a unit writes both prose and articles.json, a failure between them leaves the
   pair inconsistent. Write the prose first and confirm it landed.
   KB v10.89 -> v10.90, 5,655 -> 5,656.
+2026-09-07T20:46:28Z  p_491  ATOMIC UNIT: the 1969 CIT section rewritten -- I had written it from the recommendations without the description.
+  FOURTH TIME TONIGHT, and this one within an hour of a commit message in which I said I had applied the lesson prospectively. I DID apply
+  it to LABELLING (calling the recommendations recommendations). I DID NOT apply it to READING: the descriptive CIT account sits 400 lines
+  earlier in the same file and I had not opened it.
+  WHAT THE DESCRIPTION GIVES. Two innovations in 1969: "FOR THE FIRST TIME OUR C.I.T. PROGRAM WAS COED", and the programme was "FREED OF
+  ITS TRADITIONAL WORK-LEARNING ASPECT... they no longer were involved in such tasks as WAITING ON TABLES". Cohort: "12 MALE and 4 FEMALE
+  C.I.T.s", a male and a female CIT director, "MOST OF OUR C.I.T.s WERE 16 YEARS OF AGE". And they "set up a camp on LAKE WILSON where they
+  built A SMALL MODEL CAMP FROM SCRATCH... an ADIRONDACK SHELTER for sleeping, a shelter for dining, fireplace".
+  THE FINDING THAT ONLY THE PAIR SHOWS: EVERY RECOMMENDATION ANSWERS A PROBLEM THE DESCRIPTION NAMES. Cap at 8 of each sex <- "the large
+  number of participants cut down the ability of the C.I.T. director to have a major impact". Two dovetailing programmes <- conflict
+  between the groups. Junior Counsellor review <- "we will have trouble placing all the qualified C.I.T.s next year". Clarify the CIT role
+  <- "neither staff nor camper". Read alone the recommendations look like free-standing proposals; they are answers.
+  AND 16 IS THE 1969 COHORT SIZE, so the proposed cap is not a reduction but a REDISTRIBUTION -- 8 and 8 instead of 12 and 4.
+  QUOTED WITH ITS FRAME rather than omitted: the report gives as a cause of friction that "the abilities, physical strength and interests of
+  males and females are different and this led to conflict between the groups". Recorded as the document's reasoning in the second
+  coeducational season and the stated basis for the split-programme proposal, explicitly not endorsed.
+  MECHANICAL, SECOND TIME TONIGHT: a trailing comma after a += string made it a tuple concat and raised before the write. Caught by
+  re-reading version and count to confirm facts.json was untouched, rather than assuming. Same slip, same catch, twice in one session.
+  KB v10.90 -> v10.91.

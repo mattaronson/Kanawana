@@ -16,8 +16,40 @@ From 1975 onward — the earliest post-1960 CIT record, a plaque naming Lynne Ro
 ## 1969, inside the gap the plaques cannot cover
 
 The continuity record above runs from a 1960 plaque to a 1975 one. The 1969 annual report speaks into
-that fifteen-year gap — and **everything it says about the CIT programme is a recommendation, not a
-description**, which is how it is recorded here:^16
+that fifteen-year gap, and it does so twice — once describing the season and once recommending changes
+to it, four hundred lines apart.^16
+
+**What the season was.** "This year there were **two major innovations** in our Counsellor-in-Training
+program… 1) **For the first time our C.I.T. program was coed.** 2) The C.I.T. program was **freed of its
+traditional work-learning aspect** and was given the freedom to spend its time learning the various
+skills required to be a camp staff person. This meant that **they no longer were involved in such tasks
+as waiting on tables**."
+
+The cohort: "There were **12 male and 4 female C.I.T.s** in the program this year. There was also a male
+and a female C.I.T. director. **Most of our C.I.T.s were 16 years of age**." And what they did with it:
+"The C.I.T.s set up a camp on **[[site/lake-wilson|Lake Wilson]]** where they built **a small model camp
+from scratch**. They built an **Adirondack shelter** for sleeping, a shelter for dining, fireplace, etc.,
+and did a tremendous job."
+
+*(Added 2026-09-07, correcting this section as first written. It was drafted from the recommendations
+below without the descriptive account having been read, which made the recommendations look like free
+-standing proposals. They are not: **every one of them answers a problem this section names.**)*
+
+**The problems, in the director's words.** The number of participants "cut down the ability of the C.I.T.
+director to have a major impact on a C.I.T."; there were "not enough variety built into the program and
+after awhile some members began to get bored"; the limited Junior Counsellor places meant "we will have
+trouble placing all the qualified C.I.T.s next year"; and "the C.I.T. sits in a difficult position —
+**neither staff nor camper** — and it is difficult to assess his rights and privileges."
+
+One more is quoted here with its frame rather than left out. The report gives, as a cause of friction
+between the two groups, that "the abilities, physical strength and interests of males and females are
+different and this led to conflict between the groups." **That is a 1969 judgement offered as an
+explanation of programme trouble**, recorded as the document's reasoning and not endorsed here; it is
+what the camp thought was happening in the second coeducational season, and it is the stated reason for
+the split-programme proposal that follows. The director's overall verdict, despite the list, is that "the
+program was successful."
+
+**And the recommendations, which now read as answers.**^16
 
 > "a) That we carefully **define the objectives** of the program and the skills we hope to teach and
 > design this program around them. b) That **two separate programs be set up — one for the male C.I.T.s
@@ -26,10 +58,11 @@ description**, which is how it is recorded here:^16
 > eye to involving a larger number of this year's C.I.T.s in the camp next year. e) That we **clarify the
 > role** of the C.I.T. in camp."
 
-**What the recommendations evidence is more than what they say.** A CIT programme was running in 1969 —
-recommendation (d) refers to "this year's C.I.T.s". It was already coeducational in the second
-coeducational season. And its objectives, its size and the CIT's role in camp were all, in its own
-director's account, unsettled.
+**Set against the problems above, the mapping is one to one.** The cap of eight of each sex answers the
+director's inability to reach too large a cohort. The two dovetailing programmes answer the conflict
+between the groups. The Junior Counsellor review answers the placement problem. And "clarify the role of
+the C.I.T. in camp" answers "neither staff nor camper". Sixteen is also **exactly the number who were
+there in 1969**, redistributed evenly by sex rather than 12 and 4.
 
 **What the numbers turned out to be**, from the camp's later acknowledgement lists: **seventeen**
 Counsellors-in-Training in 1975, **fifteen** in 1976, **thirteen** in 1977.^16 The 1969 proposal of eight
