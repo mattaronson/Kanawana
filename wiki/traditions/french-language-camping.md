@@ -1,7 +1,7 @@
 # French-Language Camping and Kanawana, 1967-1973
 
 *Status: draft | Sources: 0 (bullet-style source list, not numbered — see below; six documents, carried over from the parent article's lettered scheme)*
-*Last Updated: 2026-09-07 (French at the camp in 2026 as a hiring rule; and the 1962 prehistory at Otoreke)*
+*Last Updated: 2026-09-07 (French at the camp in 2026; the 1962 Otoreke prehistory; and Little Burgundy, 1971)*
 
 ## Overview
 
@@ -160,6 +160,38 @@ a very different constituency from a boys' camp, and the one a francophone Montr
 Whether anything of this reached Kanawana before 1967 is not documented; the 1962 report says nothing about
 it, and this article should not assume the two camps moved together.
 
+## Little Burgundy, 1971: the other French camp, in a borrowed shower room
+
+The thread above is about French *at Kanawana* and in the association's day camps. One document shows what
+the association's French-language camping looked like at the other end of its range in the same period, and
+it is not a camp in the woods at all.^lb71
+
+"**Rapport été 71, Projet La Petite Bourgogne, Camp de langue française, Y.M.C.A.**", dated 7 September 1971
+and signed **Jacques Dessureault, Directeur**. It ran out of **École Royal Arthur on rue Canning**, in a
+district the report locates "entre les rues Guy et Atwater" and "entre les rues Saint-Antoine et
+Notre-Dame," and describes as "**un milieu industriel qui a été longtemps délaissé par les services
+d'urbanisme de la ville de Montréal**" — so much so that "il était impossible de trouver soit un parc
+valable, soit une piscine à ciel ouvert" anywhere near. **The children swam indoors, at the Bain des
+Seigneurs.**
+
+The camp shared the schoolyard with another summer body, Tyndale House, and shared the building badly. Its
+contract gave it three classrooms, the gymnasium and the yard, but "il fut impossible d'utiliser à notre
+plein gré ces mêmes locaux car souvent nous devions déménager pour cause de ménage, de réparation," and
+after two moves "nous nous sommes retrouvés pour les deux dernières semaines du camp **dans les douches
+attenantes au gymnase**." The director draws the consequence himself: with no room of its own there could be
+no permanent display of the children's work, and "**l'ambiance était toujours à recréer**."
+
+**The scale**: eight staff at the start — seven *moniteurs* and a director — and at the school "le nombre
+d'enfants était très limité soit **15 garçons et 9 filles**." Named in the report: **Pierre-Jules Lavigne**
+and **Carl Leblanc**, "les deux seuls moniteurs masculins du groupe," and **Conrad Tessier**, the
+coordinator. None of the four occurs anywhere else in this project.
+
+**"Kanawana" occurs zero times in it**, and that is recorded rather than passed over. This is context and not
+Kanawana history. It is here because a project whose subject is a Laurentian boys' camp on 550 acres should
+know that in the same summer its own association was running a **coeducational French-language day camp for
+two dozen children out of a borrowed shower room** four miles from its head office — and that the French
+work the policy documents of 1975 onward describe was being done, in 1971, in conditions like that.
+
 ## Open Questions
 
 1. **Did "Living-in-French" run more than one season?** The two 1969 press releases announce it.
@@ -185,6 +217,8 @@ it, and this article should not assume the two camps moved together.
 - [[people/geoff-anderson|Geoff Anderson]] — the director quoted in both 1969 releases
 
 ## Sources
+
+- ^lb71: "Rapport été 71, Projet La Petite Bourgogne, Camp de langue française, Y.M.C.A.", **7 September 1971**, signed Jacques Dessureault, Directeur [src_ymf_1971_09_07_rapport_ete_71_camp_de_langue_francaise]. Concordia-digitized YMCA of Montreal fonds. The **1971** report — École Royal Arthur, **15 garçons et 9 filles**, the shower room — is at [f_5043], which had been in the KB since p_441 and in no article until the p_492 orphan sweep found it.
 
 - ^ot62: YMCA of Montreal annual report for **1962**, the Camp Otoreke section [src_ymf_sgw_ymca_annual_report_1962]. Held at read_state *partial* — its camps listing and title page had been read and the rest had not; read 2026-09-07 under p_490. See [f_5622].
 

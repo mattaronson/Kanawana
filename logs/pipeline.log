@@ -6371,3 +6371,35 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   and no article held both. Orphan facts are not only unused; they are
   UNJOINABLE while they sit apart.
   f_5625. facts.json v10.34, 5,587 facts. Verify green. Timestamp from `date -u`.
+
+[2026-09-07T16:25:43Z] RESEARCH -- p_492 continued, using the Venters move
+  systematically. Extracted the distinctive personal names from the 107 orphan
+  facts (149 full names), kept the 14 whose SURNAME appears nowhere in the wiki,
+  and grepped the whole local cache for each.
+  ONE PAID AND ONE PRODUCED A BETTER NULL.
+  LITTLE BURGUNDY, 1971, into french-language-camping.md. f_5043 had been in the
+  KB since p_441 and in no article: "Rapport ete 71, Projet La Petite Bourgogne,
+  Camp de langue francaise, Y.M.C.A.", 7 September 1971, signed JACQUES
+  DESSUREAULT. A French-language day camp out of Ecole Royal Arthur on rue
+  Canning, in a district with no usable park and no outdoor pool, so THE
+  CHILDREN SWAM INDOORS at the Bain des Seigneurs. It shared a school badly,
+  moved twice, and spent "les deux dernieres semaines du camp DANS LES DOUCHES
+  ATTENANTES AU GYMNASE" -- with the director drawing the consequence himself,
+  that with no room of its own there could be no permanent display of the
+  children's work and "l'ambiance etait toujours a recreer". Eight staff, 15
+  garcons et 9 filles. Named: Pierre-Jules Lavigne, Carl Leblanc, Conrad
+  Tessier, none of whom occurs elsewhere in this project.
+  "Kanawana" occurs ZERO times in it and the article says so. It is there
+  because a project about a Laurentian boys' camp on 550 acres should know that
+  in the same summer its own association was running a coeducational
+  French-language day camp for two dozen children out of a borrowed shower room
+  four miles from head office -- and that the French work the 1975-1981 policy
+  documents describe was being done, in 1971, in conditions like that.
+  JOANNA HOUDE: the null is now wider AND better bounded. "Houde" occurs in six
+  cached files and none is her -- a 1987 branch board member, the Montreal road,
+  and a Hydro-Quebec man who won a 1966 conservation trophy. But THE FONDS THINS
+  AFTER 1990 AND THE MAGAZINE STOPS IN 1988, so neither corpus covers a
+  1995-2000 directorship at all. Recorded on f_1432 as a fact about the
+  corpora's coverage, not about her.
+  citation_aim caught my source note a THIRD time today, same shape. Reworded.
+  Verify green. Timestamp from `date -u` in its own call.
