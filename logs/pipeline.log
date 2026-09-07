@@ -3498,3 +3498,37 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   lakes" of the camp's later advertising.
   NEW: sources 1756 -> 1757; facts 5434 -> 5435 (f_5473); kb 9.78 -> 9.79.
   Verify green across all eight checks.
+
+2026-09-07T10:32Z  A dead citation found, and the fonds backlog measured.
+  Chased the 1978 bulletin's named documents (crest interpretation, Kamper
+  Information Booklet, the May 1978 Green Triangle). NONE is digitized: enumerated
+  the whole ymca-montreal-fonds collection (1,120 items) and the Green Triangle run
+  has only two post-1940 issues, Sept 1976 and 15 Nov 1982. A controlled null --
+  the first four searches returned zero because I queried "rma-ymca-montreal-fonds",
+  which is not the collection's name. The zeros were mine, not the archive's.
+  DEAD CITATION (f_5474). wartime-kanawana.md linked the pre-war broadcast to
+  archive.org/details/1939-06-10-YMCA-kamp-kanawana-broadcast-station-cfcf. No such
+  item -- the real identifier has no "ymca-". The 1941 identifier, which DOES have
+  "ymca-", resolves on the same call in the same minute, so the empty result was
+  about that string and not about the network. sources.json had the right url all
+  along; only the article's Sources list was wrong, and verify checks that source
+  IDS resolve, not that URLS do. Fixed in place, with the four surviving CFCF-related
+  scripts now named in the note.
+  IDENTIFIED the undated "kamp-kanawana-radio-broadcast" as the 10 November 1938
+  Voice of Youth script, already worked in camp-songs-cheers.md -- a duplicate
+  record, not an unread document. Dated by arithmetic first: the script says
+  "twenty-nine years", the 1936 script dates the site purchase to 1909 and calls
+  that twenty-seven, so 1909+29 = 1938. The method reached a date the wiki already
+  held, which is the only honest way to test a dating method.
+  MEASURED THE BACKLOG (f_5475, raised as p_482). 299 fonds records are read_state
+  "skimmed"; 268 appear nowhere in the wiki or KB (6.2M chars); a local grep finds
+  107 that mention Kanawana. BUT THE FLAG IS UNRELIABLE IN BOTH DIRECTIONS and the
+  fact says so: three "skimmed" items tested today (the 1893-94 annual report, the
+  1936 CFCF script, the 1938 broadcast) were all already fully worked under
+  collection-level ids, while ka-news-1978-04-28 was "skimmed", genuinely unread,
+  and yielded eight facts. So 268 is an upper bound, and the 107 must be worked one
+  at a time with a content grep before each.
+  FOUR TIMES TODAY grepping the destination first stopped a duplicate: the 1936
+  broadcast (f_5003 has it in full), the 1938 broadcast, the 1936 Juvenile cabins
+  (programs-activities.md has a section on them), and the 1909 purchase date.
+  NEW: facts 5435 -> 5437 (f_5474, f_5475); kb 9.79 -> 9.80. Verify green.

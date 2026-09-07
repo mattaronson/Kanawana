@@ -1,8 +1,8 @@
 {
-  "version": "9.79",
-  "kb_version": "9.79",
+  "version": "9.80",
+  "kb_version": "9.80",
   "migrated_from": "3.3",
-  "fact_count": 5435,
+  "fact_count": 5437,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -98007,6 +98007,32 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.79",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5474",
+      "category": "method",
+      "date_ref": "2026-09-07",
+      "entities": [],
+      "claim": "A DEAD CITATION IN THE WIKI, AND THE CONTROL THAT PROVED IT WAS THE CITATION'S FAULT. wiki/history/wartime-kanawana.md listed the pre-war broadcast as archive.org/details/1939-06-10-YMCA-kamp-kanawana-broadcast-station-cfcf. THAT ITEM DOES NOT EXIST: the metadata endpoint returns an empty object. The identifier carries an extra 'ymca-' that the real item does not have -- it is 1939-06-10-kamp-kanawana-broadcast-station-cfcf. THE CONTROL MATTERS AS MUCH AS THE FINDING: the 1941 identifier, which DOES contain 'ymca-', resolves normally on the same call in the same minute, so the empty result was a fact about that string and not about archive.org or the network. sources.json had the correct url all along under src_ia_cfcf_1939; only the article's own Sources list was wrong, which is why nothing caught it -- verify checks that source IDS resolve, not that URLS do. FOUR CFCF-RELATED SCRIPTS SURVIVE, and the article now names all four: 1936, 1939-06-10, 1941-06-26, and the undated kamp-kanawana-radio-broadcast, which is the 10 November 1938 Voice of Youth script. A CHECK WORTH ADDING: nothing in this project fetches the URLs its articles print. A link that 404s is indistinguishable, to a reader, from a source that was never there.",
+      "sources": [],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "9.80",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5475",
+      "category": "method",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "YMCA of Montreal"
+      ],
+      "claim": "THE LARGEST UNWORKED CORPUS IN THIS PROJECT, MEASURED RATHER THAN GUESSED -- AND THE MEASUREMENT'S ERROR BAR. Of the 626 source records drawn from the Concordia-digitized YMCA of Montreal fonds, 299 carry read_state 'skimmed': text held in-repo, keyword-swept, never read closely. 268 of those 299 have neither their archive identifier nor their source id appearing anywhere in the wiki or the KB -- 6.2 MILLION CHARACTERS. A local grep of those 268 cached texts finds 107 THAT MENTION KANAWANA, OTOREKE, BECSIES, LAKE WILSON OR SAINT-SAUVEUR. THE ERROR BAR RUNS THE OPPOSITE WAY FROM f_5472's AND MUST NOT BE FORGOTTEN: an item read and cited under a COLLECTION-LEVEL source id looks unreferenced here, so 268 is an UPPER BOUND on unread items, not a lower one. Three items tested this same day proved the point -- the 1893-94 annual report (its Laprairie militia-camp passage is quoted verbatim in t-duncan-patton.md), the 1936 CFCF script (fully extracted at f_5003) and the undated radio broadcast (the 1938 Voice of Youth script, worked in camp-songs-cheers.md) were all 'skimmed' and all already read. AND THE OPPOSITE CASE IS REAL TOO: ka-news-1978-04-28 was 'skimmed', was read closely on the same day, and yielded eight facts nobody held. THE FIELD IS UNRELIABLE IN BOTH DIRECTIONS, so the 107 must be worked one at a time with a content grep before each, never triaged in bulk. HIGHEST-VALUE UNCHECKED CANDIDATES: the 1980 YMCA Hub Cities report (264 KB), the annual reports of 1883-1901 and 1982-2000, the 1441 magazine run, the 1973 wilderness camp director's report, the 1982 Les Voyageurs review, and the 1960 Voyageurs brochure.",
+      "sources": [],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "9.80",
       "added_by": "ralph_loop"
     }
   ]

@@ -5882,6 +5882,20 @@
       "related_facts": [
         "f_5446"
       ]
+    },
+    {
+      "priority_id": "p_482",
+      "rank": 482,
+      "type": "RESEARCH",
+      "weight": 9,
+      "status": "pending",
+      "description": "READ THE 107 FONDS ITEMS THAT MENTION KANAWANA AND ARE CITED BY NOTHING. Measured 2026-09-07, recorded at f_5475. Of 626 source records drawn from the Concordia-digitized YMCA of Montreal fonds, 299 are read_state 'skimmed' -- text held in-repo, keyword-swept, never read closely. 268 of those appear nowhere in the wiki or the KB by identifier or source id (6.2 million characters), and a local grep of the cached texts finds 107 that mention Kanawana, Otoreke, Becsies, Lake Wilson or Saint-Sauveur. These are the camp's and the Montreal Y's OWN records and they are already on disk, so this costs reading time and no network. WORK THEM ONE AT A TIME WITH A CONTENT GREP BEFORE EACH. The 'skimmed' flag is unreliable in BOTH directions: three items tested on the day of measurement (the 1893-94 annual report, the 1936 CFCF script, the undated radio broadcast) were all 'skimmed' and all already fully worked under collection-level source ids, while ka-news-1978-04-28 was 'skimmed', genuinely unread, and yielded eight facts. Bulk-triaging this list would either duplicate finished work or manufacture gaps. HIGHEST-VALUE FIRST: 1980-ymca-hub-cities-report (264 KB), the annual reports 1883-1901, the annual and community reports 1982-2000, the 1441 magazine run, 1973-wilderness-camp-directors-report, 1982-les-voyageurs-de-la-verendrye-review (feeds the new site/les-voyageurs-de-la-verendrye.md), 1960-the-adventures-of-the-voyageurs-of-verendrye-brochure, 1965-the-chestnut, kanawana-kamp-fever, kanawana-post-card.",
+      "blocking": null,
+      "assigned_weight": 9,
+      "created_at": "2026-09-07T10:30:00Z",
+      "notes": "Raised autonomously under the Phase 2 standing order. Reading these does not need the operator or any archive visit.",
+      "tier": "critical",
+      "article_id": null
     }
   ],
   "queue_ordering": {

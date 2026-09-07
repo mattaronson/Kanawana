@@ -1,7 +1,7 @@
 # Kanawana in Wartime (1939-1946)
 
 *Status: E1-reviewed | Sources: 8*
-*Last Updated: 2026-09-05 (KB extraction batch 3, Canadian Camping issues 22-32; the line itself was missing until 2026-09-06)*
+*Last Updated: 2026-09-07 (a dead source URL corrected)*
 
 When the Second World War broke out in September 1939, Camp Kanawana had been operating for forty-five seasons. A CFCF radio broadcast from June 10, 1939 — just months before the declaration of war — promoted the upcoming camp season, making it one of the last records of pre-war normalcy at Kanawana. The war years brought a distinctive chapter to the camp's history: while many former counsellors and staff enlisted, the camp itself became a refuge for young evacuees from Britain and continental Europe, and continued its mission of youth development under wartime constraints. The camp operated every summer through the war, though it was not without disruption.
 
@@ -66,7 +66,7 @@ The Concordia University archives (YMCA of Montreal fonds, P145) contain wartime
 
 
 - ^ar: YMCA of Montreal Annual Reports 1941 and 1947 (Concordia-digitized run, Internet Archive) [src_ia_ymca_montreal_annual_reports_collection]
-- CFCF Radio Broadcast Script, June 10, 1939. [Internet Archive](https://archive.org/details/1939-06-10-ymca-kamp-kanawana-broadcast-station-cfcf) (pre-war)
+- CFCF Radio Broadcast Script, June 10, 1939. [Internet Archive](https://archive.org/details/1939-06-10-kamp-kanawana-broadcast-station-cfcf) (pre-war) [src_ia_cfcf_1939, src_ia_kanawana_broadcast_cfcf_1939]. **[URL corrected 2026-09-07: this link previously carried an identifier with an extra `ymca-` in it, `1939-06-10-ymca-...`, which returns empty metadata — there is no such item. The 1941 identifier below, which does contain `ymca-`, resolves normally on the same call, so the fault was in this line and not in the archive. The camp's four surviving CFCF-related scripts are `1936-kamp-kanawana-broadcast-station-cfcf`, `1939-06-10-kamp-kanawana-broadcast-station-cfcf`, `1941-06-26-ymca-kamp-kanawana-broadcast-station-cfcf` and the undated `kamp-kanawana-radio-broadcast`, which is the 10 November 1938 *Voice of Youth* script used in [[traditions/camp-songs-cheers|Camp Songs and Cheers]].]**
 - CFCF Radio Broadcast Script, June 26, 1941. [Internet Archive](https://archive.org/details/1941-06-26-ymca-kamp-kanawana-broadcast-station-cfcf)
 - The Green Triangle, July 29, 1938. [Internet Archive](https://archive.org/details/the-green-triangle-1938-07-29)
 - McMorris, Grace. *An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967*. MA thesis, Concordia University, 2023. Chapter 1 (disease outbreaks, Hanagan reports). [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
