@@ -1,8 +1,8 @@
 {
-  "version": "10.01",
-  "kb_version": "10.01",
+  "version": "10.02",
+  "kb_version": "10.02",
   "migrated_from": "3.3",
-  "fact_count": 5493,
+  "fact_count": 5495,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99044,6 +99044,40 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.01",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5532",
+      "category": "history",
+      "date_ref": "2001",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Otoreke",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE ASSOCIATION'S OWN 150TH-ANNIVERSARY BOOK DATES THE CAMP TWICE, AND THE TWO DATES ARE EIGHTEEN YEARS APART. The Montreal YMCA 1851-2001 carries Kanawana in two places. ITS TIMELINE, under the year heading 1912 -- the same entry that records the Downtown YMCA's move to 1450 Stanley Street and the founding of the Westmount and Park Avenue centres -- says 'The YMCA opened CAMP OTOREKE FOLLOWED BY KAMP KANAWANA'. ITS FACILITIES DIRECTORY says 'OPENED IN 1894, KANAWANA IS THE OLDEST SUMMER CAMP IN QUEBEC'. THREE THINGS TO SEPARATE. The two passages CONTRADICT EACH OTHER ON THE DATE inside one volume, which is this project's oldest-camp question appearing in the institution's own commemorative history rather than in loose advertising copy. THE ORDER IS RIGHT AND COUNTERINTUITIVE: Otoreke was the earlier NAME of the Lake Saint-Joseph site and Kanawana the later Saint-Sauveur one, so a reader with only this book would take them for two camps opened in sequence rather than one institution that moved and left its old name behind. AND THE CLAIM IS PROVINCIAL, NOT NATIONAL -- 'the oldest summer camp in QUEBEC' -- a narrower and far more defensible statement than the 'oldest in Canada' claim wiki/history/oldest-camp-question.md spends its length testing, and THE ONLY PLACE THIS PROJECT HAS FOUND THE Y MAKING THE PROVINCIAL CLAIM IN A FORMAL PUBLICATION. The publication was cited by no article before today.",
+      "sources": [
+        "src_ymf_the_montreal_ymca_1851_2001_anniversary_publication"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.02",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5533",
+      "category": "attendance",
+      "date_ref": "2001",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "THE SHAPE OF A KANAWANA SEASON AROUND 2001, FROM THE ASSOCIATION'S FACILITIES DIRECTORY. 'Kanawana... welcomes SOME 700 TEENS, boys and girls BETWEEN THE AGES OF 6 AND 16 every summer. Campers stay for FIVE TO TWELVE DAYS, depending on their level of experience and which nature activities interest them most. THE SITE IS ALSO OPEN TO GROUPS DURING WINTER.' READ WITH THE USUAL CAUTION FOR A ROUND NUMBER IN A COMMEMORATIVE BOOK: it describes a typical season rather than counting one, and 'teens' sits oddly against an age range starting at six. What it gives firmly is the SHAPE -- ages 6 to 16, sessions of five to twelve days GRADED BY EXPERIENCE, and winter group use as a standing part of the operation rather than an experiment. The same entry gives the camp office address as 1435 DRUMMOND with postal code H3A 1W3, against the 1441 Drummond and H3G 1W3 of the 1970s and 1980s materials.",
+      "sources": [
+        "src_ymf_the_montreal_ymca_1851_2001_anniversary_publication"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.02",
       "added_by": "ralph_loop"
     }
   ]

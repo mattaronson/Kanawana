@@ -4158,3 +4158,32 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   READ_STATE SET TO "partial", NOT "read": only the Kanawana entries in that volume
   were read. Saying "read" would overstate it, which is the whole purpose of the field.
   NEW: f_5531; kb 10.00 -> 10.01. Verify green. Timestamp read from `date -u`.
+
+2026-09-07T11:21Z  p_482: the Y's own 150th-anniversary book, cited by nothing until now.
+  FIRST, A CORRECTION TO MY OWN PRIORITY NOTE. p_482 listed "1980-ymca-hub-cities-
+  report (264 KB, the largest single item)" first among high-value targets. IT
+  CONTAINS ZERO MENTIONS OF KANAWANA OR OTOREKE -- checked, not assumed. It was never
+  in the 107-item keyword list; I promoted it on SIZE. That is the fourth
+  plausible-looking heuristic to mislead today, after identifier matching, the
+  read_state field and shingles. The note is corrected in the queue.
+  THE ANNIVERSARY PUBLICATION IS THE REAL FIND, and it was cited by no article. The
+  Montreal YMCA 1851-2001 carries Kanawana twice and CONTRADICTS ITSELF EIGHTEEN
+  YEARS APART. Its timeline, under the year heading 1912, says "The YMCA opened Camp
+  Otoreke followed by Kamp Kanawana." Its facilities directory says "Opened in 1894,
+  Kanawana is the OLDEST SUMMER CAMP IN QUEBEC."
+  Three things separated out. The two passages disagree on the date INSIDE ONE
+  VOLUME -- the oldest-camp question appearing in the institution's own commemorative
+  history, not in advertising copy. The ORDER is right and counterintuitive: Otoreke
+  was the earlier NAME of the Lake Saint-Joseph site, so a reader with only this book
+  would take them for two camps opened in sequence rather than one institution that
+  moved and left its old name behind. And the claim is PROVINCIAL, NOT NATIONAL --
+  the only place this project has found the Y making the Quebec claim in a formal
+  publication, and a far more defensible statement than the "oldest in Canada" that
+  article spends its length testing.
+  ALSO the shape of a season around 2001: some 700 campers aged 6 to 16, sessions of
+  five to twelve days graded by experience, winter group use as standing operation.
+  Recorded with the caution a round number in a commemorative book deserves.
+  READ_STATE "partial" again: the Kanawana and Otoreke passages were read, the volume
+  was not.
+  NEW: facts 5493 -> 5495 (f_5532, f_5533); kb 10.01 -> 10.02. Verify green.
+  Timestamp read from `date -u` in its own call.

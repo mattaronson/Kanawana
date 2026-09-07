@@ -1,7 +1,7 @@
 # Is Kanawana the Oldest Camp in Canada?
 
-*Status: draft | Sources: 30*
-*Last Updated: 2026-09-07 (the camp used both age-conventions within five months of 1938)*
+*Status: draft | Sources: 31*
+*Last Updated: 2026-09-07 (both age-conventions in 1938; and the Y's own 2001 anniversary book dating the camp twice)*
 
 ## Overview
 
@@ -575,6 +575,27 @@ the sharpest thing in this article. It is not that Kanawana was confused about i
 ages and used whichever fitted the sentence** — the founding when speaking of the association's work
 in the Laurentians, the permanent site when speaking of the camp people actually went to.
 
+**And the association's own 150th-anniversary book tells both stories, forty pages apart.** *The
+Montreal YMCA 1851–2001* is the parent organisation's formal commemorative history, and it carries the
+camp twice.^31
+
+In its **timeline**, under the year heading **1912** — the entry that also records the Downtown YMCA's
+move to 1450 Stanley Street and the founding of the Westmount and Park Avenue centres — it says: "The
+YMCA opened **Camp Otoreke followed by Kamp Kanawana**."
+
+In its **directory of facilities**, it says: "**Opened in 1894, Kanawana is the oldest summer camp in
+Quebec.**"
+
+**Three things are worth separating out.** The two passages **contradict each other on the date**,
+1912 against 1894, inside one volume — which is this article's whole subject appearing in the
+institution's own commemorative publication, not in loose advertising copy. The **order** is right and
+counterintuitive: Otoreke *was* the earlier name of the Lake Saint-Joseph site, and Kanawana *was* the
+later Saint-Sauveur one, so a reader who knows only this book would take them for two camps opened in
+sequence rather than one institution that moved and left its old name behind. And the claim itself is
+**provincial, not national** — "the oldest summer camp in **Quebec**" — which is a narrower and much
+more defensible statement than the "oldest in Canada" this article spends its length testing. It is
+the only place this project has found the Y making the provincial claim in a formal publication.
+
 ## Open Questions
 
 1. [Critical, advanced 2026-09-05] Close the operation gaps in [[meta/attendance-series|the attendance
@@ -653,3 +674,4 @@ in the Laurentians, the permanent site when speaking of the camp people actually
 28. "The Voice of Youth" No. 30, full script, 10 November 1938 [src_ymf_1938_11_10_the_voice_of_youth_no_30]. Read 2026-09-07 under p_482. See [f_5485].
 29. *The Green Triangle*, Vol. IV No. 7, **4 August 1935**, and Volume 5, **Re-union Number, 17 October 1936** [src_ymf_the_green_triangle_1935_08_04, src_ymf_the_green_triangle_1936_10_17]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 30. *The Green Triangle*, **1 August 1936** ("An Issue in verse") and the issue opening volume 45, **2 July 1938** [src_ymf_the_green_triangle_1936_08_01, src_ymf_the_green_triangle_1938_06_02]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. **Note the date discrepancy on the second**: the Internet Archive item is identified as `1938-06-02` and the cache file follows it, but the masthead reads "Kamp Kanawana - Saturday, July 2, 1938". July 2 1938 was a Saturday; June 2 was a Thursday. The masthead is preferred.
+31. *The Montreal YMCA 1851–2001*, 150th anniversary publication [src_ymf_the_montreal_ymca_1851_2001_anniversary_publication]. Cached at `sources/cache/ymca-montreal-fonds/the-montreal-ymca-1851-2001-anniversary-publication.txt`; the Kanawana and Otoreke passages and the camp's directory entry read word for word 2026-09-07 under p_482, the rest of the volume not read. A French twin of the same publication is held separately.

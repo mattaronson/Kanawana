@@ -10851,7 +10851,8 @@
         "src_ymf_sgw_ymca_annual_report_1904_men_of_montreal",
         "src_ymf_sgw_ymca_annual_report_1905",
         "src_ymf_the_green_triangle_1935_08_04",
-        "src_ymf_the_green_triangle_1936_10_17"
+        "src_ymf_the_green_triangle_1936_10_17",
+        "src_ymf_the_montreal_ymca_1851_2001_anniversary_publication"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -10866,7 +10867,7 @@
         "cca-statistics"
       ],
       "file_id": null,
-      "word_count": 9875,
+      "word_count": 10062,
       "notes": "Created 2026-08-14 (p_256) from the 114-annual-report sweep. ~60 seasons of camper counts and camper-weeks, 1894-2023, with SIX internal inconsistencies carried as flags rather than resolved -- every one of them the association contradicting itself. Kept as a separate article so the contradictions travel with the numbers. No aggregate totals computed: too many missing years, the 1998-2001 rows count a different population, and the two documented lifetime totals (40,000 in 1964, 34,000 in 1984) contradict each other. Marked draft, not stub, because it is transcription of primary figures rather than synthesis; NOT yet VERIFY-passed -- figures should be spot-checked against the OCR before advancing."
     },
     {
@@ -11571,7 +11572,8 @@
         "src_ymf_the_green_triangle_1935_08_04",
         "src_ymf_the_green_triangle_1936_10_17",
         "src_ymf_the_green_triangle_1936_08_01",
-        "src_ymf_the_green_triangle_1938_06_02"
+        "src_ymf_the_green_triangle_1938_06_02",
+        "src_ymf_the_montreal_ymca_1851_2001_anniversary_publication"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -11584,7 +11586,7 @@
         "connections/related-camps/quebec-camp-landscape"
       ],
       "file_id": null,
-      "word_count": 9370
+      "word_count": 9659
     },
     {
       "article_id": "points-of-contact",

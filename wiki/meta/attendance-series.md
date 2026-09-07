@@ -1,7 +1,7 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 38*
-*Last Updated: 2026-09-07 (240 campers in 1936, from the alumni Re-union Number)*
+*Status: draft | Sources: 39*
+*Last Updated: 2026-09-07 (240 in 1936; and "some 700" around 2001)*
 
 ## Overview
 
@@ -363,6 +363,18 @@ same passage independently attests **multi-generational attendance in 1936** —
 fellows whose fathers camped at Kanawana as boys many years ago" — five years before the 1941 CFCF
 broadcast this wiki dates that observation from.
 
+**c. 2001: "some 700 teens."** The Montreal YMCA's 150th-anniversary publication describes the camp in
+its facilities directory: "Kanawana… **welcomes some 700 teens, boys and girls between the ages of 6
+and 16 every summer**. Campers stay for **five to twelve days**, depending on their level of
+experience and which nature activities interest them most. **The site is also open to groups during
+winter.**"^39
+
+Read with the usual caution for a round number in a commemorative book. It is a description of a
+typical season rather than a count of one, and "teens" sits oddly against an age range starting at
+six. What it does give firmly is the **shape** of the season around 2001: ages 6 to 16, sessions of
+five to twelve days graded by experience, and winter group use as a standing part of the operation
+rather than an experiment.
+
 ## Open Questions
 
 1. [Important] Settle the 289-boy season. The FY1919-20 report's own audit date makes 1919 the natural reading, but three later tables disagree. A 1920 or 1921 season report, if one survives at Concordia, would fix the column.
@@ -428,6 +440,7 @@ broadcast this wiki dates that observation from.
 36. YMCA of Montreal, *Sixty-Third Annual Report, Year ending April 30th, 1914* [src_ymf_sgw_ymca_annual_report_1914]. The sentence this row's figure comes from also names the season's staff, which had not been extracted until 2026-09-07. See [f_5282] and [f_5285].
 37. *Men of Montreal* Vol. I No. 6, June 1904 — the association's monthly, this issue mastheaded the "Camp Club House, Lake St. Joseph, and Summer Camp Number" [src_ymf_sgw_ymca_annual_report_1904_men_of_montreal], with the YMCA of Montreal annual report for **1905** [src_ymf_sgw_ymca_annual_report_1905]. Both cached here since before this session. The 1903 season is reported in the June 1904 issue, which also announces the coming 1904 camps. See [f_5332] and [f_5333].
 38. *The Green Triangle*, Vol. IV No. 7, **4 August 1935**, and Volume 5, **Re-union Number, 17 October 1936** [src_ymf_the_green_triangle_1935_08_04, src_ymf_the_green_triangle_1936_10_17]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+39. *The Montreal YMCA 1851–2001*, 150th anniversary publication [src_ymf_the_montreal_ymca_1851_2001_anniversary_publication]. Cached at `sources/cache/ymca-montreal-fonds/the-montreal-ymca-1851-2001-anniversary-publication.txt`; the Kanawana and Otoreke passages and the camp's directory entry read word for word 2026-09-07 under p_482, the rest of the volume not read. A French twin of the same publication is held separately.
 
 ## Research Notes
 
