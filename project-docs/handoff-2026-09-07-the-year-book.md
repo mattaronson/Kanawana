@@ -383,6 +383,17 @@ LinkedIn, YouTube, legacy.com, eBay, Library and Archives Canada — **all almos
 browser, and none of them should be "fixed".** The reason to run this is not tidiness: a 404 sitting
 in a source record reads, to the next person, as evidence that the source is gone.
 
+**Rule 48: an enumeration is a snapshot of our own bookkeeping, not a to-do list.** `p_462` listed
+forty-six "unread" items in the Montreal YMCA fonds. All forty-six were downloaded and searched;
+six carried a named hit and **all six had already been extracted** — one of them, the richest, hours
+earlier under that same priority. **Fifteen of the forty-six are already referenced in
+`sources.json`.** The enumeration decided "unread" by matching Internet Archive identifiers against
+what the project cites, so an item read in a session that recorded it under a source id whose text
+does not contain the identifier shows up as unread. That is the same error class as a mistyped URL
+recorded as a dead site: **a gap in our index read as a gap in the world.** Before working any item
+off a list like this, grep the destination for the item *and for its distinctive contents*. Here that
+check was applied at the last step before writing, which is later than it should have been.
+
 ## The shape of the day, in one line
 
 **The Year Book's real contribution was not its own content but the names and dates that made

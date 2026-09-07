@@ -1,8 +1,8 @@
 {
-  "version": "9.42",
-  "kb_version": "9.42",
+  "version": "9.43",
+  "kb_version": "9.43",
   "migrated_from": "3.3",
-  "fact_count": 5330,
+  "fact_count": 5332,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -96156,6 +96156,38 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.42",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5369",
+      "category": "sources",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "YMCA of Montreal fonds",
+        "Internet Archive"
+      ],
+      "claim": "ALL FORTY-SIX UNREAD TEXT ITEMS IN THE MONTREAL YMCA FONDS ARE NOW SEARCHED, AND THE TEXT HALF OF p_462 CLOSES AS A NULL. Every item on that priority's list was downloaded in full and searched for Kanawana, Otoreke and two OCR variants. SIX CARRY A NAMED HIT AND ALL SIX WERE ALREADY EXTRACTED: the 1939 News Bulletin vol 15 no 1; the short 1959 annual report, whose 'Operation P. G. D.' passage is f_5256, read earlier the same day; National Council Bulletin vol 36 no 4, whose 'F. William Halliday, from Calgary to Ass't and Camp Kanawana' is at directors-index.md:504; vol 40 nos 2 and 3, whose 'So-Ed Youth Cultural Exchange, Otoreke' is at camp-otoreke.md:734; and the bulletin of 13 February 1970, whose West Island family ski paragraph is at winter-programming.md:24, cited there from the Montreal bulletin of 29 January -- the same paragraph in two bulletins a fortnight apart, which is a small thing and not nothing, because it travelled. THE OTHER FORTY HAVE NO OCCURRENCE OF EITHER CAMP'S NAME. That is worth more than it sounds: nobody needs to open them again looking for camp content. ONE SENTENCE IN THE FORTY-SIX IS NOT OBVIOUSLY ALREADY USED -- 'Camps Kanawana, Perrot, and Otoreke benefited $75,000 in capital replacement and addition through the decade', against an association-wide $4,740,000 across the 1950s -- and it is a figure for three camps together over ten years, not for Kanawana.",
+      "sources": [
+        "src_ia_sgw_ymca_annual_report_1959_short"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.43",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5370",
+      "category": "methodology",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "p_462",
+        "sources.json"
+      ],
+      "claim": "AN ENUMERATION IS A SNAPSHOT OF OUR OWN BOOKKEEPING, NOT A TO-DO LIST -- p_462'S 'UNREAD' LIST WAS ABOUT ONE-THIRD STALE WHEN IT WAS WRITTEN. Fifteen of its forty-six items are already referenced somewhere in sources.json, INCLUDING THE ONE WITH THE RICHEST CONTENT, the short 1959 annual report, which had been read hours earlier under that same priority. THE MECHANISM: the enumeration decided 'unread' by matching Internet Archive identifiers against what the project cites, so any item read in a session that recorded it under a source id whose text does not contain the identifier shows as unread. IT IS THE SAME ERROR CLASS AS A MISTYPED URL RECORDED AS A DEAD SITE (f_5364) -- A GAP IN OUR INDEX READ AS A GAP IN THE WORLD. THE RULE THAT FOLLOWS: before working any item off a list like this, grep sources.json, the KB and the wiki for the item AND for its distinctive contents. The check cost seconds here and would have saved a write-up of six findings this project already had; it was applied at the last step before writing, which is later than it should have been.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.43",
       "added_by": "ralph_loop"
     }
   ]
