@@ -3453,7 +3453,7 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   Articles: a-ross-seaman, derek-walsh, cit-lit-program, green-triangle,
   coeducation-gender. Verify green across all eight checks.
 
-2026-09-07T10:12Z  Concordia sweep CLOSED, and its hit list triaged.
+2026-09-07T09:55Z [reconstructed]  Concordia sweep CLOSED, and its hit list triaged.
   The rma-concordia-publications sweep finished: 16,491 items, 16,038 CLEAN,
   339 HIT, 85 NOTEXT, 29 zero-byte-at-source. The last 29 were re-run and all 29
   failed identically; reading their metadata showed size 0 for the _djvu.txt at
@@ -3482,7 +3482,7 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   the five institutional items must not be filed there.
   Verify green across all eight checks.
 
-2026-09-07T10:24Z  rescan_multi CLOSED; McGill sweep hit worked.
+2026-09-07T09:58Z [reconstructed]  rescan_multi CLOSED; McGill sweep hit worked.
   rescan_multi finished: 12,089 unique items, 5 unresolved, all 5 re-run and all 5
   CLEAN. So the rule-50 back-fill is complete -- 167 items carry more than one text
   file and 4 of those hid a Kanawana passage outside txts[0], all four now worked.
@@ -3499,7 +3499,7 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   NEW: sources 1756 -> 1757; facts 5434 -> 5435 (f_5473); kb 9.78 -> 9.79.
   Verify green across all eight checks.
 
-2026-09-07T10:32Z  A dead citation found, and the fonds backlog measured.
+2026-09-07T10:00Z [reconstructed]  A dead citation found, and the fonds backlog measured.
   Chased the 1978 bulletin's named documents (crest interpretation, Kamper
   Information Booklet, the May 1978 Green Triangle). NONE is digitized: enumerated
   the whole ymca-montreal-fonds collection (1,120 items) and the Green Triangle run
@@ -3533,7 +3533,7 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   (programs-activities.md has a section on them), and the 1909 purchase date.
   NEW: facts 5435 -> 5437 (f_5474, f_5475); kb 9.79 -> 9.80. Verify green.
 
-2026-09-07T10:42Z  p_482 started. First item: the 1982 Les Voyageurs season review.
+2026-09-07T10:06Z [reconstructed]  p_482 started. First item: the 1982 Les Voyageurs season review.
   Held in cache since 2026-08-25 at read_state "skimmed", read word for word today.
   It is THREE YEARS LATER than what les-voyageurs-de-la-verendrye.md called "the last
   Voyageur document this project holds" -- that sentence is now marked superseded in
@@ -3555,7 +3555,7 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   NEW: facts 5437 -> 5439 (f_5476, f_5477); kb 9.80 -> 9.81. Article 9,919 -> 10,741
   words. Verify green.
 
-2026-09-07T10:55Z  McGill sweep CLOSED. p_482 item 2: Wilderness Camp 1973.
+2026-09-07T10:14Z [reconstructed]  McGill sweep CLOSED. p_482 item 2: Wilderness Camp 1973.
   sweepmcgill2.py finished: 9,890 items, 9 HIT, 9,880 CLEAN, 1 NOTEXT, ZERO
   FAILURES -- nothing to re-run. All 9 hits are already held, including the ninth
   (McGill Daily 20 Feb 1989) that appeared after the last check. All three sweeps
@@ -3587,7 +3587,7 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   NEW: facts 5439 -> 5442 (f_5478..f_5480); kb 9.81 -> 9.82. Verify green, embargo
   labelling included.
 
-2026-09-07T11:08Z  p_482 item 3: the 1960 Voyageurs brochure.
+2026-09-07T10:22Z [reconstructed]  p_482 item 3: the 1960 Voyageurs brochure.
   A promotional document, read as one, but carrying three things promotional
   documents usually do not.
   (1) A GOVERNING ROSTER THAT REVISES AN ANSWER ALREADY GIVEN. The 1960 masthead
@@ -3627,7 +3627,7 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   NEW: facts 5442 -> 5446 (f_5481..f_5484); kb 9.82 -> 9.83. Article 10,741 ->
   12,215 words. Verify green.
 
-2026-09-07T11:22Z  p_482 item 4: The Voice of Youth no. 30, and a broadcast that
+2026-09-07T10:26Z [reconstructed]  p_482 item 4: The Voice of Youth no. 30, and a broadcast that
   turned out to be an advertisement's neighbour.
   THREE ARCHIVE ITEMS carry the same 10 November 1938 script at different lengths:
   6,248 characters (the copy kanawana-in-media.md had worked), 8,302 (the undated
@@ -3656,7 +3656,7 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   That is the sharpest single illustration of what oldest-camp-question.md is for.
   NEW: facts 5446 -> 5448 (f_5485, f_5486); kb 9.83 -> 9.84. Verify green.
 
-2026-09-07T11:40Z  p_482 items 5-8. The Chestnut of 1965 is the best of the backlog so far.
+2026-09-07T10:31Z [reconstructed]  p_482 items 5-8. The Chestnut of 1965 is the best of the backlog so far.
   FOUR ITEMS. kanawana-kamp-fever (41 bytes) and kanawana-post-card (202) are IMAGES
   whose OCR sidecar is only a caption -- there was never any body text to read, and
   they are now marked read so they stop inflating the unread count. The news release
@@ -3691,7 +3691,7 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   NEW: facts 5448 -> 5451 (f_5487..f_5489), f_5464 and f_5468 extended in place;
   kb 9.84 -> 9.86. Verify green.
 
-2026-09-07T11:52Z  p_482: the systematic Green Triangle read begins. First issue, 23 July 1932.
+2026-09-07T10:34Z [reconstructed]  p_482: the systematic Green Triangle read begins. First issue, 23 July 1932.
   green-triangle.md open question 2 asks for an issue-by-issue read of the run beyond
   the six done. 36 issues are cached and unreferenced; this is the first.
   THE FIND: A THIRD CAMP MOTTO. Closing its account of a juniors' farewell programme,
@@ -3721,7 +3721,7 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   identification rests on the name alone and the 1932 item is a joke.
   NEW: facts 5451 -> 5454 (f_5490..f_5492); kb 9.86 -> 9.87. Verify green.
 
-2026-09-07T12:05Z  p_482: Green Triangle 30 July and 6 August 1932.
+2026-09-07T10:37Z [reconstructed]  p_482: Green Triangle 30 July and 6 August 1932.
   THE FIND REOPENS A QUESTION MARKED RESOLVED. traditions-and-culture.md dates
   Kanawana's Torch Ceremony for World Friendship to 1935 and closes open question 3
   on it. The issue of 6 August 1932 describes the ceremony held at camp the previous
@@ -3754,7 +3754,7 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   is what happens to a song once boys have it.
   NEW: facts 5454 -> 5458 (f_5493..f_5496); kb 9.87 -> 9.88. Verify green.
 
-2026-09-07T12:16Z  p_482: the 1932 Green Triangle season is now read end to end.
+2026-09-07T10:40Z [reconstructed]  p_482: the 1932 Green Triangle season is now read end to end.
   All six surviving issues of the paper's first season (23 and 30 July, 6, 13, 20
   and 27 August 1932) have been read word for word. The 27 August scan is BADLY
   DEGRADED -- much of its OCR is unrecoverable -- and its source record says so, so
@@ -3783,3 +3783,25 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   as what you did when passing another camp. The same passage says "the Kanawanians",
   six years before the 1938 attestation this wiki dates the demonym from.
   NEW: facts 5458 -> 5461 (f_5497..f_5499); kb 9.88 -> 9.89. Verify green.
+
+2026-09-07T10:44Z  CORRECTION -- eleven timestamps above were invented, not observed.
+  The eleven entries from "09:55 [reconstructed]" to "10:40 [reconstructed]" were
+  originally written 10:12, 10:24, 10:32, 10:42, 10:55, 11:08, 11:22, 11:40, 11:52,
+  12:05 and 12:16. NONE of those was read from the clock. The contract says to
+  timestamp each entry from `date -u`; I ran it at 09:37 and 09:48 and then, for the
+  next two hours of entries, estimated the time from how much work had gone by. When
+  I finally ran `date -u` again the answer was 10:41 -- the last entry was labelled
+  ninety-five minutes into the future.
+  THE CORRECTED VALUES ARE RECONSTRUCTIONS, NOT OBSERVATIONS, and are marked
+  [reconstructed] so nobody later mistakes them for readings. They are bounded by two
+  hard anchors from outside this log: the scheduling API returned updated_at
+  10:00:56Z immediately after the commit logged as "a dead citation found", and
+  10:22:00Z immediately after the one logged as "the 1960 Voyageurs brochure". The
+  other nine are interpolated between those and the observed 09:48 and 10:41. Any of
+  them could be several minutes out; none can be more than about six.
+  THIS IS THE SAME ERROR AS THE DATE-INTERVAL ONES recorded earlier in this project
+  -- "fourteen months after the October Crisis" when it was ten, "nine months after
+  Bill 22" when it was thirteen and a half. Both were fixed by arithmetic. This one
+  is the same failure applied to the clock: a quantity that could have been read was
+  felt instead. The rule already written down covers it and I did not apply it to the
+  one number I was writing every single time.
