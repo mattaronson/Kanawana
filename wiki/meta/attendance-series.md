@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 39*
+*Status: draft | Sources: 40*
 *Last Updated: 2026-09-07 (240 in 1936; and "some 700" around 2001)*
 
 ## Overview
@@ -375,6 +375,17 @@ six. What it does give firmly is the **shape** of the season around 2001: ages 6
 five to twelve days graded by experience, and winter group use as a standing part of the operation
 rather than an experiment.
 
+**A booking figure rather than an attendance one, March 1969.** The Montreal YMCA's newsletter of 27
+March 1969: "**Pre-registration for the upcoming summer at Kanawana remains well ahead of last year.**
+The Kamp's **Olga Hall** reports that as of March 26, the total of **camper weeks booked stood at
+420**."^40
+
+This is a different kind of number from the rest of this series and is kept separate for that reason:
+it counts **camper weeks booked three months before the season**, not campers who came. It is useful
+in two ways all the same. It is a **mid-March waypoint**, which no other year in this series has, so a
+future find of the same kind would be comparable. And "well ahead of last year" is a growth statement
+from inside the camp office, in a year the camp was moving to coeducation.
+
 ## Open Questions
 
 1. [Important] Settle the 289-boy season. The FY1919-20 report's own audit date makes 1919 the natural reading, but three later tables disagree. A 1920 or 1921 season report, if one survives at Concordia, would fix the column.
@@ -441,6 +452,7 @@ rather than an experiment.
 37. *Men of Montreal* Vol. I No. 6, June 1904 — the association's monthly, this issue mastheaded the "Camp Club House, Lake St. Joseph, and Summer Camp Number" [src_ymf_sgw_ymca_annual_report_1904_men_of_montreal], with the YMCA of Montreal annual report for **1905** [src_ymf_sgw_ymca_annual_report_1905]. Both cached here since before this session. The 1903 season is reported in the June 1904 issue, which also announces the coming 1904 camps. See [f_5332] and [f_5333].
 38. *The Green Triangle*, Vol. IV No. 7, **4 August 1935**, and Volume 5, **Re-union Number, 17 October 1936** [src_ymf_the_green_triangle_1935_08_04, src_ymf_the_green_triangle_1936_10_17]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 39. *The Montreal YMCA 1851–2001*, 150th anniversary publication [src_ymf_the_montreal_ymca_1851_2001_anniversary_publication]. Cached at `sources/cache/ymca-montreal-fonds/the-montreal-ymca-1851-2001-anniversary-publication.txt`; the Kanawana and Otoreke passages and the camp's directory entry read word for word 2026-09-07 under p_482, the rest of the volume not read. A French twin of the same publication is held separately.
+40. YMCA of Montreal newsletter, **27 March 1969** [src_ymf_newsletter_1969_03_27]. Cached at `sources/cache/ymca-montreal-fonds/newsletter-1969-03-27.txt`; read word for word 2026-09-07 under p_482.
 
 ## Research Notes
 

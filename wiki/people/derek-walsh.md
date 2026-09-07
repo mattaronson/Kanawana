@@ -1,6 +1,6 @@
 # Derek Walsh
 
-*Status: draft | Sources: 17*
+*Status: draft | Sources: 18*
 *Last Updated: 2026-09-07 (his own staff bulletin of April 1978: what a director was doing six weeks out)*
 
 ## Overview
@@ -73,7 +73,7 @@ A camp director whose own 1977 report worried about promotion was, in the same y
 
 The camp's pre-season staff bulletin of **28 April 1978** is the only document in this project written by Walsh to his own staff, and it is worth reading as a portrait of what a Kanawana director was doing in late April.^17 He signs it "Adios, Derek," calls the season "K.K. '78," addresses the staff as "gang," and hopes for "a large group of **Kanawanitans** present" at a workshop — a demonym this wiki has nowhere else, alongside the "old Kanawanians" of 1938.
 
-**He was buying outside training for seasonal staff.** The Quebec Camping Association was running a one-day counsellors' workshop on **Saturday 13 May 1978 at McGill**, in the Sir Arthur Currie Gym, covering "song leading, games, dramatics, attitudes for rainy days, aquatics, nature, folk dancing, campfires, etc." Walsh's line is unambiguous: "**Kamp Kanawana is prepared to sponsor you**, so please let me know if you are able to attend," with registrations through him or **Mrs. Hall** by 4 May to catch the advance rate — **Olga Hall**, the camp secretary, whom a YMCA news release of October 1973 gives at the camp office number and whom the 1977 director's report thanks by name for absorbing the extra work of the renovations and of Walsh's own presidency of the Quebec Camping Association. He points staff who happened to be in Toronto at the Ontario Camping Association's parallel programme on 6 May. That session list is also a direct statement of what the Quebec association thought a counsellor needed in 1978, and its first four items are cultural rather than technical.
+**He was buying outside training for seasonal staff.** The Quebec Camping Association was running a one-day counsellors' workshop on **Saturday 13 May 1978 at McGill**, in the Sir Arthur Currie Gym, covering "song leading, games, dramatics, attitudes for rainy days, aquatics, nature, folk dancing, campfires, etc." Walsh's line is unambiguous: "**Kamp Kanawana is prepared to sponsor you**, so please let me know if you are able to attend," with registrations through him or **Mrs. Hall** by 4 May to catch the advance rate — **Olga Hall**, the camp secretary, whom a YMCA news release of October 1973 gives at the camp office number, and who was already reporting the camp's booking figures to the association's newsletter in **March 1969**^18 and whom the 1977 director's report thanks by name for absorbing the extra work of the renovations and of Walsh's own presidency of the Quebec Camping Association. He points staff who happened to be in Toronto at the Ontario Camping Association's parallel programme on 6 May. That session list is also a direct statement of what the Quebec association thought a counsellor needed in 1978, and its first four items are cultural rather than technical.
 
 **Four directorships were still open six weeks out.** Under "Positions Still Open": **Waterfront Director, Sailing Director, C.I.T. Director, Junior Girls Section Director** — "if perchance you know of someone who may be interested, just have them give me a call." Some staff had not returned their staff agreements. Read as structure rather than as a staffing problem, that list attests a Junior Girls section with its own director in 1978, sailing as a programme with a director distinct from the waterfront, and a CIT programme with a director. **Kerry Finucan** was returning from Nova Scotia to start full-time at the camp on **4 May**, and was co-planning pre-camp training with Walsh, which makes Finucan the season's second-in-command by function whatever the title was.
 
@@ -116,6 +116,7 @@ The camp's pre-season staff bulletin of **28 April 1978** is the only document i
 15. Derek V. Walsh, "Special Ka-News," 5 February 1979 [src_ymf_ka_news_1979_02_05], YMCA of Montreal fonds. His own resignation letter to the Kanawana staff. Read in full 2026-09-06 under p_418. See [f_5219].
 16. Kevin Forster and Dave Twynam, "Ka-News '79," May 1979 [src_ymf_ka_news_1979_05], YMCA of Montreal fonds. Read in full 2026-09-06 under p_418. See [f_5220].
 17. Derek Walsh, *Ka-News '78*, staff bulletin of 28 April 1978 [src_ymf_ka_news_1978_04_28]. Cached in full at `sources/cache/ymca-montreal-fonds/ka-news-1978-04-28.txt`; read word for word 2026-09-07, having been held since 2026-08-25 in a "skimmed" read state. The item also carries a French half (*Nouvelles-KA*), a translation of the same bulletin rather than a second document, surfaced by the rescan for multi-text items.
+18. YMCA of Montreal newsletter, **27 March 1969** [src_ymf_newsletter_1969_03_27]. Cached at `sources/cache/ymca-montreal-fonds/newsletter-1969-03-27.txt`; read word for word 2026-09-07 under p_482.
 
 ## Research Notes
 

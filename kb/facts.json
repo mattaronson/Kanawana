@@ -1,8 +1,8 @@
 {
-  "version": "10.03",
-  "kb_version": "10.03",
+  "version": "10.04",
+  "kb_version": "10.04",
   "migrated_from": "3.3",
-  "fact_count": 5498,
+  "fact_count": 5500,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99133,6 +99133,42 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5537",
+      "category": "people",
+      "date_ref": "1946",
+      "entities": [
+        "Gordon Mackey",
+        "Camp Kanawana",
+        "Camp Perrot",
+        "Les Voyageurs de la Vérendrye"
+      ],
+      "claim": "GORDON MACKEY'S ROUTE FROM KANAWANA CAMPER TO CAMP PERROT DIRECTOR, IN FIVE STAGES AND ONE ASSOCIATION. The 1946 brochure announcing the Montreal YMCA's new camp at Isle Perrot: 'MR. GORDON MACKEY will be the Resident Director of the boys' camp. He has had a number of years camp experience AS A CAMPER, COUNSELLOR AND SECTION DIRECTOR OF KAMP KANAWANA. Mr. Mackey, who has spent the past TWO AND A HALF YEARS AS A FLYING OFFICER IN THE R.C.A.F., has seen service in AFRICA, INDIA, CHINA, and other parts of the world.' Set beside what this wiki holds, the career runs: Kanawana camper; Kanawana counsellor; Kanawana section director; two and a half years flying for the RCAF across three continents; then, within months of demobilisation, RESIDENT DIRECTOR OF A BRAND-NEW MONTREAL YMCA CAMP in 1946. Fourteen years later he is GORDON A. MACKEY, CHAIRMAN of the Camp Committee governing Les Voyageurs de la Verendrye, and he chairs the Camp Perrot committee in that article's own tables. THE ASSOCIATION PROMOTED FROM INSIDE ITS OWN CAMPS, and this is the clearest single instance of it this project holds. The RCAF service is new: 'RCAF' appears in only one other article in this wiki.",
+      "sources": [
+        "src_ymf_1946_the_new_ymca_camp_on_isle_perrot_brochure"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5538",
+      "category": "attendance",
+      "date_ref": "1969-03-26",
+      "entities": [
+        "Camp Kanawana",
+        "Olga Hall"
+      ],
+      "claim": "A BOOKING FIGURE RATHER THAN AN ATTENDANCE ONE, AND OLGA HALL FOUR YEARS EARLIER THAN RECORDED. The Montreal YMCA's newsletter of 27 March 1969: 'PRE-REGISTRATION for the upcoming summer at Kanawana REMAINS WELL AHEAD OF LAST YEAR. The Kamp's OLGA HALL reports that as of March 26, the total of CAMPER WEEKS BOOKED STOOD AT 420.' THIS IS A DIFFERENT KIND OF NUMBER FROM THE REST OF THE ATTENDANCE SERIES and is kept separate for that reason: it counts camper weeks BOOKED three months before the season, not campers who came. It is useful twice over. It is a MID-MARCH WAYPOINT, which no other year in the series has, so a later find of the same kind would be comparable. And 'well ahead of last year' is a growth statement from inside the camp office in the year the camp was moving to coeducation. SEPARATELY IT DATES OLGA HALL: f_5464 identified the 'Mrs. Hall' of the April 1978 staff bulletin as the camp secretary on the strength of an October 1973 news release. She was already reporting the camp's booking figures to the association's newsletter in MARCH 1969, so her span in the camp office runs at least 1969 to 1978 -- consistent with leo-robitaille.md's tribute to her for 'carrying four different camp directors'.",
+      "sources": [
+        "src_ymf_newsletter_1969_03_27"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.04",
       "added_by": "ralph_loop"
     }
   ]

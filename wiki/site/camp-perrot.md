@@ -1,7 +1,7 @@
 # Camp Perrot
 
-*Status: E1-reviewed | Sources: 24*
-*Last Updated: 2026-09-07 (Preston Robb at Kanawana in 1932-33, and entering McGill that autumn)*
+*Status: E1-reviewed | Sources: 25*
+*Last Updated: 2026-09-07 (Preston Robb at Kanawana in 1932-33; and Gordon Mackey's route to Isle Perrot)*
 
 ## Overview
 
@@ -263,6 +263,25 @@ Camp Perrot has sometimes been cited under a "P0145/12G" sub-series designation,
 
 The earliest known Kanawana-side documentary evidence is a "Comparison of Two Boys Camps operated by Montreal YMCA" dated approximately 1945–1946, which formally compared Camp Perrot and Kamp Kanawana.^1 ^3 A second comparison document dates from 1953–1954.^3 The YMCA produced these comparison reports as part of its camping program evaluation, indicating Camp Perrot was considered a peer facility to Kanawana. This is now substantially supplemented by Camp Perrot's own primary-source annual reports and brochures (1945-1969), digitized on Internet Archive.^5 ^6 ^7
 
+## Gordon Mackey's Route to Isle Perrot
+
+The 1946 brochure announcing the new camp introduces its incoming boys'-camp director, and the sketch
+is the fullest biography of him this project holds:^25
+
+> **Mr. Gordon Mackey** will be the Resident Director of the boys' camp. He has had a number of years
+> camp experience **as a camper, counsellor and Section director of Kamp Kanawana**. Mr. Mackey, who
+> has spent the past **two and a half years as a Flying Officer in the R.C.A.F.**, has seen service in
+> **Africa, India, China**, and other parts of the world.
+
+Set beside what this wiki already holds, that gives a career in five stages, all within the same
+association: a Kanawana **camper**; a Kanawana **counsellor**; a Kanawana **section director**; two and
+a half years' war service flying for the RCAF across three continents; and then, within months of
+demobilisation, **Resident Director of the Montreal YMCA's brand-new camp** at Isle Perrot in 1946.
+Fourteen years later he is **Gordon A. Mackey, Chairman** of the Camp Committee that governed
+[[site/les-voyageurs-de-la-verendrye|Les Voyageurs de la Vérendrye]], and he chairs the Camp Perrot
+committee in the tables above. The association promoted from inside its own camps, and this is the
+clearest single instance of it.
+
 ## Open Questions
 
 1. ~~[Critical] What was Camp Perrot's exact location? Was it on Île Perrot?~~ [Resolved 2026-07-10] South shore of Isle Perrot, 45 acres, 600 ft of shoreline, ~28 miles from Montreal.
@@ -309,6 +328,7 @@ The earliest known Kanawana-side documentary evidence is a "Comparison of Two Bo
 22. "Report of the Montreal YMCA Camp Perrot for Boys and Girls", 1948, signed A. T. Dodds, Camp Director [src_ymf_1948_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls]. Transcribed in the relevant part at `sources/cache/mcgill/2026-09-07-kanawana-ad-1989-and-perrot-doctors-1948.txt`. **Recovered 2026-09-07**: the Internet Archive item holds two text files and this project had read only the first, a companion recommendations document, and recorded that the item was "catalogued as a season report; it is not one." It is one. See [f_5431]–[f_5434].
 23. *The Green Triangle*, Vol. 1 No. 1, **23 July 1932** — the first issue [src_ymf_the_green_triangle_1932_07_23]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-07-23.txt`. Held since 2026-08-25 at read_state "skimmed", read word for word 2026-09-07 under p_482, in the systematic issue-by-issue read the article's open question 2 asks for.
 24. *The Green Triangle*, **12 August 1933** and Vol. IV No. 2, **30 June 1935** [src_ymf_the_green_triangle_1933_08_12, src_ymf_the_green_triangle_1935_06_30]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+25. *The New YMCA Camp on Isle Perrot*, brochure, 1946 [src_ymf_1946_the_new_ymca_camp_on_isle_perrot_brochure]. Cached at `sources/cache/ymca-montreal-fonds/1946-the-new-ymca-camp-on-isle-perrot-brochure.txt`; read word for word 2026-09-07 under p_482.
 
 ## Research Notes
 
