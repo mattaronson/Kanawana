@@ -1,7 +1,7 @@
 # A. Ross Seaman
 
-*Status: E1-reviewed | Sources: 27*
-*Last Updated: 2026-09-07 (the awards count from 1989; a school at Vankleek Hill; the 1965 camp nurse; and Seaman arguing for coeducation in 1965)*
+*Status: E1-reviewed | Sources: 28*
+*Last Updated: 2026-09-07 (very probably at Kanawana in 1940, nineteen years before he directed it)*
 
 ## Overview
 
@@ -164,6 +164,21 @@ the camp's size in the same interview — he "likes to see a full camp (**226 ca
 and mentions that his wife was herself a camp director. See
 [[history/coeducation-gender|Coeducation and Gender]] for the staff poll around him.
 
+**He was at Kanawana in 1940, nineteen years before he directed it.** *The Green Triangle*'s account
+of the camp circus of 25 July 1940 ends: "The clowning of **Ross Seaman**, Jack Liddy, and Chief Kolah
+gave the afternoon a real circus spirit."^28 This article begins his Kanawana story with the
+directorship of 1959. Born in 1921, he would have been **nineteen** in the summer of 1940 — the right
+age for a junior counsellor, and consistent with the account elsewhere here of a young man who
+attended Sir George Williams as a **YMCA Fellowship Secretary** in the 1940s, a scheme that placed its
+apprentices in the association's own operations.
+
+**The caution is the ordinary one and it is small.** The paper gives no initial and no role, and
+"Ross Seaman" is not an uncommon pair of names. But a Ross Seaman clowning at a Montreal YMCA camp
+circus in 1940, in a camp this man would run from 1959, at exactly the age and in exactly the years
+his own Fellowship placed him inside the association, is a good deal more than a coincidence of name.
+Recorded as very probably him, and as the earliest date this project has for his connection to
+Kanawana.
+
 ## Open Questions
 
 1. [Critical, **birth year answered 2026-09-07**] What are Seaman's full biographical details — birth year, full name, education beyond SGW? **The birth year is 1921**, from the headline "ROSS SEAMAN / 1921-1987" over Concordia University Magazine's obituary, which also gives his age at death as 66.^19 Since he died on 23 October, his birthday fell on or before that date — a test any birth record found later has to pass, and a narrowing of the search from a year to ten months. The 1967 profile adds that he was "**born and educated in Montreal**" and took a **Master of Education from Springfield College** after the Sir George B.A.,^9 so "education beyond SGW" is answered too; what remains open is the **full given name behind the initial A.**, the exact birth date, and the Springfield years. **The death date is exact: 23 October 1987**, from the memorial fund notice in *Canadian Camping Magazine* (Winter 1988), which narrows any obituary search to the last week of October and the first weeks of November 1987, and is now held on **two** independently produced documents rather than one, the Concordia obituary agreeing with the fund notice.^19 A further pass (genealogy sites, FindAGrave, Vankleek Hill obituary aggregators) found nothing new. The Vankleek Hill newspaper "The Review" (archived from 1893) very likely carries an October/November 1987 obituary, but its own online archive is not full-text searchable — this requires a paid GenealogyBank-style subscription search or direct contact with the newspaper or a Vankleek Hill funeral home, not further web queries.
@@ -210,3 +225,4 @@ and mentions that his wife was herself a camp director. See
 25. "Seaman Awards Given for Community Involvement," by Laurel C. Leduc, *Concordia's Thursday Report*, 12 April 2001 [src_concordia_thursday_report_2001_04_12]. Found by the download-and-grep sweep of the `rma-concordia-publications` collection. Transcribed at `sources/cache/concordia-publications/thursday-report-2001-04-12-seaman.md`.
 26. "Seaman Awards for Community Leadership," photo caption, *Concordia's Thursday Report*, 23 May 2002 [src_concordia_thursday_report_2002_05_23]. A caption, not an article -- the awards got a photograph that year. Transcribed at `sources/cache/concordia-publications/thursday-report-2002-05-23-seaman.md`.
 27. *The Chestnut* ("the pathfinder — Summer Summary"), Kamp Kanawana Pathfinder section publication, 1965 [src_ymf_1965_the_chestnut]. Concordia-digitized YMCA of Montreal fonds; full text cached at `sources/cache/ymca-montreal-fonds/1965-the-chestnut.txt`. Held since 2026-08-25 at read_state "skimmed", read word for word 2026-09-07 under p_482. Its staff-profile pages put the same question to nearly every member of staff, which is why it can be read as a poll.
+28. *The Green Triangle*, Issue 2, **21 July 1940**, and Vol. 47 No. 4, **29 July 1940** [src_ymf_the_green_triangle_1940_07_21, src_ymf_the_green_triangle_1940_07_29]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.

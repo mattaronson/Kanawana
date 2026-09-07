@@ -1,6 +1,6 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 50*
+*Status: E1-reviewed | Sources: 51*
 *Last Updated: 2026-09-07 (the Code of a Good Sport, and the 1935 change to how the Best Camper Shield was decided)*
 
 ## Overview
@@ -145,6 +145,23 @@ and "this little stand pulled in more cash than any other." The straight games w
 hammering the nail, darts, knife throwing, horseshoes and Eric Wright's ball-throwing rig. **Mr.
 Langille** "received over forty Sun kisses; but rumour has it that he paid just about as many dollars
 for them, so he wasn't so hot after all."
+
+**1940, with numbers.** The circus of Thursday 25 July 1940 was held on the Junior Campus and the
+paper counted it: "**330 oranges** were distributed… In all, **5,122 tickets were sold**, and **240
+soft drinks** were imbibed."^51 It reports "literally hundreds of booths, with everything from games
+of skill to riding the graceful and swift steed of **M. Page**" — a horse, in fact a mare, from the
+neighbouring [[people/page-family|Page family]], tame enough to carry most of Juvenile Camp and still
+able to throw the business manager and all three of "Kanawana's 'Three Men On A Horse', **Roby Kidd**,
+Tom Hardwick, and our daring B.M." The best-attended booths were the ice cream and soft drink stand
+and the hamburger shop; one group sold "Surprise Package" tickets "but these turned out to be a lemon
+to most who bought them."
+
+**And the orange-winning was a tracked record.** "**Chief failed to reach the all camp record for
+winning them. He set this record in 1935, when he won 110 oranges, either by hook or by crook.**" So
+the number of oranges a camper could win off the booths was a standing camp record with a holder, and
+the holder in 1940 was the Chief himself, five years on. Beside the 1933 account of the Chief losing
+money at a rigged Junior tent's game, a consistent picture: the circus was the day the staff were
+fair game.
 
 **The later instances.** The 1935 season chronicle records "the annual Circus… of which the **$55**
 proceeds" went to camp funds — five dollars up on 1933. And in **August 1942** Camp Director R. H.
@@ -587,3 +604,4 @@ Kanawana."^40 Whether either was ever held again is not known here.
 48. *The Green Triangle*, Vol. IV Nos. 3 and 4, **6** and **13 July 1935** [src_ymf_the_green_triangle_1935_07_06, src_ymf_the_green_triangle_1935_07_13]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 49. *The Green Triangle*, Vol. IV Nos. 5 and 6, **20** and **27 July 1935** [src_ymf_the_green_triangle_1935_07_20, src_ymf_the_green_triangle_1935_07_27]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 50. *The Green Triangle*, **1 August 1936** ("An Issue in verse") and the issue opening volume 45, **2 July 1938** [src_ymf_the_green_triangle_1936_08_01, src_ymf_the_green_triangle_1938_06_02]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. **Note the date discrepancy on the second**: the Internet Archive item is identified as `1938-06-02` and the cache file follows it, but the masthead reads "Kamp Kanawana - Saturday, July 2, 1938". July 2 1938 was a Saturday; June 2 was a Thursday. The masthead is preferred.
+51. *The Green Triangle*, Issue 2, **21 July 1940**, and Vol. 47 No. 4, **29 July 1940** [src_ymf_the_green_triangle_1940_07_21, src_ymf_the_green_triangle_1940_07_29]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.

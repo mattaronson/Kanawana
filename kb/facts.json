@@ -1,8 +1,8 @@
 {
-  "version": "9.95",
-  "kb_version": "9.95",
+  "version": "9.96",
+  "kb_version": "9.96",
   "migrated_from": "3.3",
-  "fact_count": 5480,
+  "fact_count": 5483,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -98819,6 +98819,58 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.95",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5519",
+      "category": "people",
+      "date_ref": "1940-07-25",
+      "entities": [
+        "A. Ross Seaman",
+        "Camp Kanawana"
+      ],
+      "claim": "ROSS SEAMAN AT KANAWANA IN 1940, NINETEEN YEARS BEFORE HE DIRECTED IT. The Green Triangle's account of the camp circus of 25 July 1940 closes: 'The clowning of ROSS SEAMAN, Jack Liddy, and Chief Kolah gave the afternoon a real circus spirit.' wiki/people/a-ross-seaman.md begins his Kanawana story with the directorship of 1959. BORN IN 1921, HE WOULD HAVE BEEN NINETEEN in the summer of 1940 -- the right age for a junior counsellor, and consistent with the account this project holds of a young man who attended Sir George Williams as a YMCA FELLOWSHIP SECRETARY in the 1940s, a scheme that placed its apprentices inside the association's own operations. THE CAUTION IS THE ORDINARY ONE: the paper gives no initial and no role, and 'Ross Seaman' is not a unique pair of names. But a Ross Seaman clowning at a Montreal YMCA camp circus in 1940, at a camp this man would run from 1959, at exactly the age and in exactly the years his Fellowship placed him inside the association, is well past coincidence. RECORDED AS VERY PROBABLY HIM and as the earliest date this project has for his connection to Kanawana. SEPARATELY, the same sentence names 'ROBY KIDD' among 'Kanawana's Three Men On A Horse'. This project already holds JOHN P. KIDD as a Kanawana leader of 1934 who became Executive Director of the Canadian Citizenship Council and wrote repeatedly in Canadian Camping (f_2288, f_2523, f_2524, f_2714). Whether Roby and John P. are the same man, brothers, or unrelated is NOT determined here; it is flagged as a lead.",
+      "sources": [
+        "src_ymf_the_green_triangle_1940_07_29"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "9.96",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5520",
+      "category": "programs",
+      "date_ref": "1940-07",
+      "entities": [
+        "Camp Kanawana",
+        "Lake Wilson",
+        "Les Voyageurs de la Vérendrye"
+      ],
+      "claim": "THE 1940 SEASON REORGANISED ITSELF AROUND THE BACK COUNTRY, AND OPENED A TRADING POST TO OUTFIT IT. The Green Triangle of 21 July 1940, under its own headline 'HIKING -- FEATURE OF KANAWANA, 1940': '108 KANAWANIANS OUT FOR OVERNIGHT TRIPS DURING THE PAST WEEK.' Some went only to Lake Wilson for 'a little bush-camping'; others went 'COMPASS-HIKING' through country 'between here and Newago'; a Senior hike took 'the trail to FOURTEEN ISLAND LAKE then up to ST. HIPPOLYTE and across to MONT ROLLAND and STE. ADELE'. Three juniors were permitted to hike ALONE and 'proved themselves to be responsible hikers'; four more took an overnight canoe trip 'around the Kanawana Lakes'. TWO PERMANENT BUSH CAMPSITES WERE BUILT ON LAKE WILSON, 'left ready for occupation at any time -- in the true \"big bush\" tradition', with balsam bough beds and campers cooking for themselves. AND A TRADING POST: a leader 'can come to the post, consult maps and get advice about where to go and how to get there (and BACK); his hike is outfitted, supplied with food, his campers are shown how to pack their \"stuff\" and make blanket rolls'. THE STATED AIM IS THE INTERESTING PART: 'EACH HIKE IS A COMPLETE UNIT INDEPENDENT OF VILLAGE STORES AND FARMS -- and so the tendency is AWAY FROM THE BEATEN TRACKS and more towards the \"back-country\".' That is a self-sufficiency doctrine written in the summer of 1940, and it is the same argument Les Voyageurs de la Verendrye would be built on twenty years later. WHETHER THE WAR HAD ANYTHING TO DO WITH IT IS NOT STATED AND IS NOT ASSUMED: the paper gives no reason at all.",
+      "sources": [
+        "src_ymf_the_green_triangle_1940_07_21"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.96",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5521",
+      "category": "traditions",
+      "date_ref": "1940-07-25",
+      "entities": [
+        "Camp Kanawana",
+        "Page family"
+      ],
+      "claim": "THE 1940 CIRCUS, COUNTED, AND AN ORANGE-WINNING RECORD THAT WAS TRACKED ACROSS YEARS. Held on the Junior Campus on Thursday 25 July 1940: 'literally HUNDREDS OF BOOTHS, with everything from games of skill to riding the graceful and swift steed of M. PAGE' -- a mare from the neighbouring Page family, tame enough to carry most of Juvenile Camp and still able to throw the business manager and all three of 'Kanawana's \"Three Men On A Horse\"'. THE COUNTS: '330 ORANGES were distributed... In all, 5,122 TICKETS WERE SOLD, and 240 SOFT DRINKS were imbibed.' The best-attended booths were the ice cream and soft drink stand and the hamburger shop; one group sold 'Surprise Package' tickets 'but these turned out to be a lemon to most who bought them'. AND THE ORANGES WERE A STANDING RECORD: 'CHIEF FAILED TO REACH THE ALL CAMP RECORD FOR WINNING THEM. HE SET THIS RECORD IN 1935, WHEN HE WON 110 ORANGES, EITHER BY HOOK OR BY CROOK.' So the number of oranges a person could win off the booths was a camp record with a holder, and in 1940 the holder was the Chief himself. Beside the 1933 account of the Chief losing money at a rigged Junior tent's game, the picture is consistent: THE CIRCUS WAS THE DAY THE STAFF WERE FAIR GAME.",
+      "sources": [
+        "src_ymf_the_green_triangle_1940_07_29"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.96",
       "added_by": "ralph_loop"
     }
   ]

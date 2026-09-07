@@ -1,7 +1,7 @@
 # Kanawana in Wartime (1939-1946)
 
 *Status: E1-reviewed | Sources: 8*
-*Last Updated: 2026-09-07 (a dead source URL corrected)*
+*Last Updated: 2026-09-07 (the 1940 season: hiking as the feature, and a Trading Post to outfit it)*
 
 When the Second World War broke out in September 1939, Camp Kanawana had been operating for forty-five seasons. A CFCF radio broadcast from June 10, 1939 — just months before the declaration of war — promoted the upcoming camp season, making it one of the last records of pre-war normalcy at Kanawana. The war years brought a distinctive chapter to the camp's history: while many former counsellors and staff enlisted, the camp itself became a refuge for young evacuees from Britain and continental Europe, and continued its mission of youth development under wartime constraints. The camp operated every summer through the war, though it was not without disruption.
 
@@ -62,10 +62,49 @@ The wartime period remains one of the less-documented eras of Kanawana's history
 
 The Concordia University archives (YMCA of Montreal fonds, P145) contain wartime records including annual reports, registration records, brochures (1941, 1942, 1943, 1945, 1946), and correspondence that could fill these gaps. Of particular interest: a 1945-46 comparison document between Kanawana and Camp Perrot, and R.L. Charlton's 1943 "Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana."
 
+## The 1940 Season: Hiking, and a Trading Post
+
+Two issues of *The Green Triangle* survive from July 1940, the first full wartime season, and they
+describe a camp that had reorganised its programme around the back country.^gt40
+
+**"Hiking — feature of Kanawana, 1940."** That is the paper's own headline, and the number under it is
+**"108 Kanawanians out for overnight trips during the past week."** The range is set out: some campers
+"only went as far as **Lake Wilson** to experience a little 'bush-camping'"; others went
+"**compass-hiking**" through country "between here and **Newago**"; one Senior hike "took the trail to
+**Fourteen Island Lake** then up to **St. Hippolyte** and across to **Mont Rolland** and **Ste.
+Adèle**, then hit back for camp." Three juniors were given special permission to hike alone to
+Fourteen Island Lake and back and "proved themselves to be responsible hikers," and four more took an
+overnight canoe trip "around the Kanawana Lakes" and "had such a good time that they didn't come back
+until hunger drove them in."
+
+**Two permanent bush campsites were built on Lake Wilson**, "left ready for occupation at any time —
+in the true 'big bush' tradition," where younger campers slept on balsam bough beds, cooked their own
+meals "and generally fend for themselves. From this first experience they then venture further
+afield."
+
+**And the camp opened a Trading Post to outfit them.** A leader "can come to the post, consult maps
+and get advice about where to go and how to get there (and BACK); his hike is outfitted, supplied with
+food, his campers are shown how to pack their 'stuff' and make blanket rolls; he is told how to
+prepare his food… and generally speaking he and his crew are sent on their way properly equipped."
+The stated aim is the interesting part: "**Each hike is a complete unit independent of village stores
+and farms** — and so the tendency is away from the beaten tracks and more towards the 'back-country'."
+
+That is a self-sufficiency doctrine, written in the summer of 1940, and it is the same argument
+[[site/les-voyageurs-de-la-verendrye|Les Voyageurs de la Vérendrye]] would be built on twenty years
+later. Whether the war had anything to do with the turn towards country where a party carried
+everything it needed is not stated and is not assumed here; the paper gives no reason at all.
+
+**The swimming programme was graded by hat.** "Most of these **RED HATS** have their minds made up to
+win **GREEN HATS** before long," and separately, "to date, over **100 campers have swum the lake**.
+Fifteen have passed **STAR SWIM**." Style was "judged by two staff members" over laps "from dock to
+chute." The camp swimming champions of 1940 were Stan Christie (twelve and under), Bob Mahn (fifteen
+and under) and Roger Jaeger (leaders and staff), with Jack Liddy "the longest under water swimmer."
+
 ## Sources
 
 
 - ^ar: YMCA of Montreal Annual Reports 1941 and 1947 (Concordia-digitized run, Internet Archive) [src_ia_ymca_montreal_annual_reports_collection]
+- ^gt40: *The Green Triangle*, Issue 2, 21 July 1940, and Vol. 47 No. 4, 29 July 1940 [src_ymf_the_green_triangle_1940_07_21, src_ymf_the_green_triangle_1940_07_29]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. See [f_5520].
 - CFCF Radio Broadcast Script, June 10, 1939. [Internet Archive](https://archive.org/details/1939-06-10-kamp-kanawana-broadcast-station-cfcf) (pre-war) [src_ia_cfcf_1939, src_ia_kanawana_broadcast_cfcf_1939]. **[URL corrected 2026-09-07: this link previously carried an identifier with an extra `ymca-` in it, `1939-06-10-ymca-...`, which returns empty metadata — there is no such item. The 1941 identifier below, which does contain `ymca-`, resolves normally on the same call, so the fault was in this line and not in the archive. The camp's four surviving CFCF-related scripts are `1936-kamp-kanawana-broadcast-station-cfcf`, `1939-06-10-kamp-kanawana-broadcast-station-cfcf`, `1941-06-26-ymca-kamp-kanawana-broadcast-station-cfcf` and the undated `kamp-kanawana-radio-broadcast`, which is the 10 November 1938 *Voice of Youth* script used in [[traditions/camp-songs-cheers|Camp Songs and Cheers]].]**
 - CFCF Radio Broadcast Script, June 26, 1941. [Internet Archive](https://archive.org/details/1941-06-26-ymca-kamp-kanawana-broadcast-station-cfcf)
 - The Green Triangle, July 29, 1938. [Internet Archive](https://archive.org/details/the-green-triangle-1938-07-29)
