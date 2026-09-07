@@ -5320,3 +5320,62 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   sentence. Grepping the destination first stopped two duplicate claims in one
   pass; that is now six or seven times today.
   Verify green, nine checks. Timestamp from `date -u` in its own call.
+
+[2026-09-07T14:45:17Z] RESEARCH -- p_482 reopened and re-closed. THE GREEN
+  TRIANGLE RUN WAS NOT READ. Working the sharpened p_441, I found
+  src_ymf_the_green_triangle_1937_03_30 still carrying read_state "skimmed" with
+  basis "asserted:full-text-cached-and-keyword-swept-not-read-closely", which
+  contradicted this session's own claim that the entire run had been read issue
+  by issue. Checking the whole series rather than the one record found FOUR such
+  issues: 1935-08-17, 1937-03-30, 1939-07-22, 1940-06-27.
+  THE PATTERN IS THE FINDING. documents/green-triangle.md's open question 2 had
+  named six issues as "read in full so far". The p_482 campaign read the issues
+  NOT on that list and passed over the ones that were. Four of those six had only
+  ever been keyword-swept; the two that survive are the two separately extracted
+  into facts. So the exhaustive pass excluded precisely the population whose
+  read-state was ASSERTED rather than MEASURED -- f_5577's distinction reappearing
+  inside a completed campaign instead of in a backlog. Recorded at f_5591 and
+  queued as p_487, a sweep of every "complete" campaign for the same hole.
+  All four read word for word. They were not thin. Nine facts, f_5591-f_5599:
+   - THE KANAWANA KIDD IS JOHN. 1935-08-17 names "John Kidd" outright; the 1937
+     roster reads "John Kydd"; f_5589's "which brother is not determined" is
+     superseded in place, text kept. John spans 1934-1937.
+   - AND ROBY IS THERE TOO, running the Senior Section from an armchair on the
+     Lookout veranda, 27 June 1940. I hedged that as a lead, then grepped the
+     destination and found kidd-brothers.md ALREADY carries "Roby Kidd" in full
+     from the circus of 25 July 1940 -- same season, one month later. f_5599
+     upgraded within the hour, hedge kept. Checking the destination is what
+     resolved it, again.
+   - A PAGE WORKING AT THE CAMP. A dialect-caricature letter from "Mr. Page"
+     puts a Page felling trees in Junior camp and sleeping on site in 1936-37 --
+     the family connected to the camp by employment, not only by land sales. It
+     also addresses the Chief as "M. McDiarmid" (a fourth spelling) and records
+     a camp BOOK, photograph of the Chief on page one, "Camping is fun" on page
+     two. No copy held.
+   - TWO 1939 EDITORIALS, the fullest pre-war statement of the camp's own
+     programme philosophy this project has: against "gardens of leafy lethargy"
+     and "Summer Resort" camping, and against leaders who work -- "Their task is
+     to shun work like the plague... It is twice as hard to sit by and watch
+     someone else do it badly. But this is the cross the leader must bear."
+     Both are prescriptive, written because the practice was slipping.
+   - KEN WESTERVELT, nature director, B.A. Colgate, with a nature trail and a
+     camp MUSEUM with a rock and shell collection, July 1939. None of the three
+     appears anywhere else in this project.
+   - THE PANAMA. A camper's hour-by-hour hike log of 18-19 July 1939 crosses it
+     on a felled tree. The wiki already held the Suez; two canal names make it a
+     habit, not a pun.
+   - HAROLD POTTER AT THE 11 AUGUST 1935 MUSICALE, "a program without precedent
+     in the annals of Kanawana", answering half of his article's open question 1,
+     which had stood since July.
+   - A DATED COUNCIL RING CEREMONY, Thursday 15 August 1935, running order
+     intact, with Seton's four-fold fire half-legible in the OCR.
+  Wiki: green-triangle (new section plus TWO false completion claims struck
+  through in place, in the open question and in source entry 15), page-family,
+  kidd-brothers, harold-potter, council-ring, named-places-and-camp-vocabulary,
+  programs-activities, greig-macdiarmid. Source records for the four issues
+  updated to read/direct, and the collection record's asserted basis replaced
+  with a measured one. Also found: the 1938-07-29 fonds cache file is a
+  byte-identical duplicate with no record of its own; noted on the legacy record
+  rather than given a second source id.
+  facts.json v10.11, 5,561 facts. Verify green, nine checks. Timestamp from
+  `date -u` in its own call.

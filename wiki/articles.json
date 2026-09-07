@@ -476,7 +476,8 @@
         "src_ia_kanawana_report_1987",
         "src_ia_ymca_montreal_annual_reports_collection",
         "src_ia_ymca_montreal_fonds_collection",
-        "src_seton_book_of_woodcraft_1912"
+        "src_seton_book_of_woodcraft_1912",
+        "src_ymf_the_green_triangle_1935_08_17"
       ],
       "open_questions": 0,
       "cross_links": [
@@ -488,7 +489,7 @@
         "lv-games"
       ],
       "file_id": "13YtmB0kQvK5oBY-Kz_88vIgztYAH5x2e",
-      "word_count": 5619,
+      "word_count": 6046,
       "notes": "v4.75: 2020 Opening Campfire confirmed (Facebook Live). Tamaracouta totem pole theft noted.",
       "tags": {
         "era": [
@@ -1268,7 +1269,8 @@
         "src_ymf_sgw_ymca_annual_report_1960",
         "src_ymf_sgw_ymca_annual_report_1961",
         "src_ymf_sgw_ymca_annual_report_1997",
-        "src_ymf_1973_wilderness_camp_directors_report"
+        "src_ymf_1973_wilderness_camp_directors_report",
+        "src_ymf_the_green_triangle_1939_07_22"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -1283,7 +1285,7 @@
         "french-language-camping"
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-      "word_count": 12519,
+      "word_count": 13515,
       "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, renamed the orphaned 'R3 Verification Notes' H2 to the standard 'Research Notes' heading and condensed its bullet list into a single HTML-comment process-log entry. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -7196,7 +7198,8 @@
         "src_concordia_12B03",
         "src_mcmorris_thesis",
         "src_oral_aronson",
-        "src_vss_familles_pionnieres"
+        "src_vss_familles_pionnieres",
+        "src_ymf_the_green_triangle_1937_03_30"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -7206,7 +7209,7 @@
         "founding-1894"
       ],
       "file_id": null,
-      "word_count": 1940,
+      "word_count": 2324,
       "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header (already had the new standardized header alongside it), moved the embedded 'Correction (2026-07-09)' paragraph into a new visible Revision History section, rewrote surrounding prose to state current understanding only. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -7764,7 +7767,10 @@
         "f_1449",
         "f_1450"
       ],
-      "sources_cited": [],
+      "sources_cited": [
+        "src_ymf_the_green_triangle_1935_08_17",
+        "src_ymf_the_green_triangle_1937_03_30"
+      ],
       "open_questions": 3,
       "cross_links": [
         "sgw-concordia-connection",
@@ -7774,7 +7780,7 @@
         "ymca-quebec-history"
       ],
       "file_id": null,
-      "word_count": 1552,
+      "word_count": 1914,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass (FINAL article of Wave 2) -- removed a duplicate old-style HTML-comment header, softened a dated bold-label marker in prose. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -9443,7 +9449,11 @@
         "src_ymf_the_green_triangle_1939_07_01",
         "src_ymf_the_green_triangle_1939_07_29",
         "src_ymf_the_green_triangle_1940_08_04",
-        "src_ymf_the_green_triangle_1940_08_22"
+        "src_ymf_the_green_triangle_1940_08_22",
+        "src_ymf_the_green_triangle_1935_08_17",
+        "src_ymf_the_green_triangle_1937_03_30",
+        "src_ymf_the_green_triangle_1939_07_22",
+        "src_ymf_the_green_triangle_1940_06_27"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -9454,7 +9464,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 3496,
+      "word_count": 5107,
       "notes": "2026-07-11: Workstream C3 spawn -- newsletter/award/symbol synthesized into standalone article, cited as a source in 13+ articles but never its own subject. No new research conducted. Corrected two dangling source_id references (src_web_readers_digest_buckland -> src_readers_digest_buckland; src_ia_green_triangle_1938 -> src_green_triangle_1938) in kb/facts.json while preparing this article. | 2026-08-14 p_226: applied the programs/places BLOCKING fixes from the p_218 audit.",
       "tags": {
         "era": [
@@ -10098,7 +10108,8 @@
         "src_ia_ymca_montreal_fonds_collection",
         "src_mcmorris_thesis",
         "src_ymf_the_green_triangle_1933_07_29",
-        "src_ymf_the_green_triangle_1933_08_05"
+        "src_ymf_the_green_triangle_1933_08_05",
+        "src_ymf_the_green_triangle_1937_03_30"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -10108,7 +10119,7 @@
         "camp-becsies"
       ],
       "file_id": null,
-      "word_count": 2474,
+      "word_count": 2611,
       "notes": "2026-07-11: Spawned per operator's revised C5 policy -- mis-categorized originally, since he's a substantially-documented 1935-1938 Camp Chief, not a plaque-only name. No new research conducted.",
       "tags": {
         "era": [
@@ -11224,7 +11235,9 @@
         "src_oral_aronson_sanctum_suez_raku",
         "src_postmedia_nature_deficit_2026",
         "src_ia_kanawana_report_1964",
-        "src_ia_kanawana_report_1987"
+        "src_ia_kanawana_report_1987",
+        "src_ymf_the_green_triangle_1939_07_22",
+        "src_ymf_the_green_triangle_1937_03_30"
       ],
       "open_questions": 1,
       "cross_links": [
@@ -11235,7 +11248,7 @@
         "people/multi-year-index"
       ],
       "file_id": null,
-      "word_count": 1745
+      "word_count": 1959
     },
     {
       "article_id": "plaque-culture",
@@ -12468,7 +12481,10 @@
         "src_kidd_international_legacy",
         "src_georgian_spirit_1967",
         "src_ymf_the_green_triangle_1940_07_29",
-        "src_passionate_educators"
+        "src_passionate_educators",
+        "src_ymf_the_green_triangle_1935_08_17",
+        "src_ymf_the_green_triangle_1937_03_30",
+        "src_ymf_the_green_triangle_1940_06_27"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -12481,7 +12497,7 @@
         "notable-alumni"
       ],
       "file_id": null,
-      "word_count": 1907,
+      "word_count": 2444,
       "notes": "Created 2026-09-07. The two Kidds were on Kanawana's staff six years apart and were brothers; the material had accumulated inside traditions-and-culture.md's 1940 circus passage, which does not fit two biographies. Filed under notable-alumni on the hub-and-spoke test: J. Roby Kidd would warrant an article if Kanawana had never existed. One article rather than two, on the cushing-family and page-family precedent, because the Kanawana story is one story.",
       "tags": {
         "era": [

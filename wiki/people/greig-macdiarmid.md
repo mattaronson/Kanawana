@@ -1,13 +1,13 @@
 # Greig Macdiarmid
 
-*Status: draft | Sources: 12*
-*Last Updated: 2026-09-07 (at camp from at least 1933, two years before his first recorded season)*
+*Status: draft | Sources: 13*
+*Last Updated: 2026-09-07 (a fourth spelling, and the camp book he published)*
 
 ## Overview
 
 **W. J. G. "Greig" Macdiarmid** was Camp Chief of Kanawana from 1935 through 1939 — the longest and best-documented interwar directorship — and was on the camp's staff for at least two seasons before that. His tenure did not trail off into an undocumented gap, as this article previously implied: **it ended in December 1939, when he went overseas with YMCA War Services.**^7 He never returned to Montreal, spending the war as Senior YMCA Supervisor for Great Britain and resigning from the Montreal Association in 1946 to become Executive Secretary of the Toronto Central YMCA.^7
 
-He appears in the archival record under both "Greig Macdiarmid" and the initialed form "W.J.G. Macdiarmid," a variant this KB had already confirmed refers to the same person. A third form now adds a piece of the name: the Montreal YMCA's 1926 Annual Report calls him **"J. Greig Macdiarmid"** twice, in the same document that elsewhere prints "W. J. G. Macdiarmid."^1
+He appears in the archival record under both "Greig Macdiarmid" and the initialed form "W.J.G. Macdiarmid," a variant this KB had already confirmed refers to the same person. A third form now adds a piece of the name: the Montreal YMCA's 1926 Annual Report calls him **"J. Greig Macdiarmid"** twice, in the same document that elsewhere prints "W. J. G. Macdiarmid."^1 A fourth form is phonetic rather than archival: the *Green Triangle*'s Spring Issue of 30 March 1937 prints a comic letter from the camp's workman Mr. Pagé opening **"Mon Cher M. McDiarmid"** — the *Mc* spelling, in a dialect piece written by the paper's own staff, which suggests the name was heard as often as it was read.^13 That letter also places Macdiarmid as Chief through the 1936 season and still in post in March 1937, independently of the annual report; and it records something he did that survives nowhere else: **he published a book for the camp**, whose first page carried his photograph and whose second read "Camping is fun." No copy is held. See [[people/page-family|The Pagé Family of Saint-Sauveur]].
 
 ## Directorship (1935–1939)
 
@@ -106,6 +106,7 @@ directorships and this is not one; what changes is the length of his association
 10. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University [src_mcmorris_thesis].
 11. "In Memoriam: J. G. 'Greig' Macdiarmid, May 21st, 1962," *Canadian Camping* Vol. 15 No. 1, December 1962, p. 17–18 [src_ia_canadian_camping_1962_12]. The obituary itself, read in full. Grace McMorris was quoting this notice; the Toronto General Secretaryship, the Pine Crest, Norval and Wangoma expansions, the twenty-three day camps, the Camp Illahee sentence, the 21 May 1962 death and the "J. G. 'Greig'" heading all come from here, and are cited to it rather than to the thesis quoting it.
 12. *The Green Triangle*, Vol. II Nos. 4 and 5, **29 July** and **5 August 1933** [src_ymf_the_green_triangle_1933_07_29, src_ymf_the_green_triangle_1933_08_05]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+13. *The Green Triangle*, Spring Issue, **30 March 1937** [src_ymf_the_green_triangle_1937_03_30]. Cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1937-03-30.txt`; read word for word 2026-09-07. See [f_5592].
 
 ## Research Notes
 

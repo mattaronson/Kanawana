@@ -1,8 +1,8 @@
 {
-  "version": "10.10",
-  "kb_version": "10.10",
+  "version": "10.11",
+  "kb_version": "10.11",
   "migrated_from": "3.3",
-  "fact_count": 5550,
+  "fact_count": 5561,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100025,6 +100025,202 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5589",
+      "category": "culture",
+      "date_ref": "1936-1937",
+      "entities": [
+        "Camp Kanawana",
+        "Harold H. Potter",
+        "John P. Kidd"
+      ],
+      "claim": "THE GREEN TRIANGLE'S SPRING ISSUE OF 30 MARCH 1937, AND THE CREW THAT OPENED CAMP AS 'ALMOST A LEAGUE OF NATIONS'. Written in the voice of 'Jo Peep, the demon all-seeing, all-telling Green Triangle snooper', looking back on the 1936 season. THE PASSAGE THAT MATTERS: 'It is only the privilege of a few to open camp. Do you remember last year in one of the chapel services, that it was mentioned that in the first truck load of those sent to \"break camp\", there was a group forming ALMOST A LEAGUE OF NATION NATIONALITIES -- JACK CAMERON, THE GOLFING SCOT, CAPT. KIDD, THE PIRATICAL BRITISH COLUMBIAN CANADIAN BUSINESS MAJOR-DOMO, NERI GUADAGNI, THE ITALIAN CARD SHARP, WES WOO, THE STORY-TELLING CHINESE MANDARIN, BUD FLAHERTY, THE AMERICIAN BIOLOGIST, and Jo Peep, the expatriated English Haile Selassie. And this mixture of nationalities, much like the mixture of different types of campers, was banded together to learn how, by experience to get along with each other. Camping is fun, but camping is also Opportunity to meet, play with, work with, and understand those with whom we come in contact.' THAT IS THE CAMP'S INTERNATIONALISM DOCTRINE IN THE CAMP'S OWN VOICE, with named people, in 1937 -- and it is stated of the WORK CREW rather than the campers. The nicknames are period ethnic shorthand and are quoted as printed. 'CAPT. KIDD, THE PIRATICAL BRITISH COLUMBIAN' IS A THIRD KANAWANA KIDD SIGHTING AND THE FIRST TO NAME A PROVINCE. The Kidd brothers were raised in Vancouver and Gibson's Landing, British Columbia (f_5569, f_5573); John P. Kidd was a Kanawana leader in 1934 and Roby arrived in Montreal in 1935. 'Capt. Kidd' is plainly a pun on the pirate, which is what 'piratical' is doing. WHICH BROTHER IS NOT DETERMINED -- both are BC men -- and 'business major-domo' suggests an administrative role that fits either. Recorded as a Kidd at camp in 1936, not as a named one. [SUPERSEDED IN PART 2026-09-07, same day: \"WHICH BROTHER IS NOT DETERMINED\" is no longer the state of the evidence. The 17 August 1935 issue names \"JOHN KIDD\" outright and this issue's own closing staff roster reads \"John Kydd\"; see f_5593. The Kanawana Kidd of 1934-1937 is John. The sentence above is kept rather than rewritten, per the no-silent-overwrite rule. A separate Roby appears in June 1940, f_5599.]",
+      "sources": [
+        "src_ymf_the_green_triangle_1937_03_30"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5590",
+      "category": "culture",
+      "date_ref": "1936",
+      "entities": [
+        "Camp Kanawana",
+        "Harold H. Potter"
+      ],
+      "claim": "A LIST OF TWENTY-FIVE THINGS THE 1936 SEASON WAS REMEMBERED FOR, AND HAROLD POTTER AT THE PIANO. The same Spring Issue prints 'pictures on the roll of film in our mind-camera', a list of one-line recollections: 'The sudden rise of Lake Kanawana when the Chief took his morning dip; the love-light in HAL BETTS' eyes; JOHN PEARSON's trip to the scaffold; CURRY CARMICHAEL's experience with the cow; the Chef's birthday cake of tin; ... MARSHALL LEBEAU's symphonic orchestra; THE PIANO RECITALS OF HAL POTTER; the Champion Junior Camp Baseball team; the Senior Camp's St. Sauveur chorus; the noonday sing-songs; JACK CAMERON's hair cuts; the senior director trying to blow the royal salute; THE CANOE TRIPS TO WEIR AND LAC ARCHAMBAULT; THE HIKES TO LAUREL, MAUROIS [Marois], MORIN HEIGHTS, AND OTOREKE; GRAHAM PELLEY's cheer-leading; the melody of BILL PAUL's violin solo in the woods at chapel service; the Sunday crease in GEORGE FLOWER's pants; John Pearson's amateur hour trumpetting; GORDIE APPLETON's evening strolls to the Junior League Camp; THE MAROIS DAY REGATTA, SHOW, AND DANCE; DICK ABRAHMS singing, mandolining, and mouthorganing; BILL CRAWFORD's morning stroll of Parliamentary inspection.' 'THE PIANO RECITALS OF HAL POTTER' IS HAROLD H. POTTER AT CAMP IN 1936, almost certainly -- people/notable-alumni/harold-potter.md has him a Kanawana counsellor through his Sir George Williams summers of 1935-1939, and this is a specific season and a specific thing he did. 'HAL BETTS' IS PROBABLY HAROLD E. BETTS, who appears in The Georgian Spirit's Bachelor of Arts list beside JOHN P. KIDD (f_5571) -- so two of the six men in that BA list may both have been at this camp. Not asserted. AND THE TWO CAMPFIRES: 'If Jo Peep had to select just two days to spend in camp, and no more, he would choose the day camp opened officially to the campers and THE LAST NIGHT THAT THE WHOLE CAMP GATHERED IN THE COUNCIL RING'-- the opening and closing SPIRIT OF KANAWANA campfires, named as such in 1937.",
+      "sources": [
+        "src_ymf_the_green_triangle_1937_03_30"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5591",
+      "category": "method",
+      "date_ref": null,
+      "entities": [
+        "The Green Triangle"
+      ],
+      "claim": "THE FOUR ISSUES THE EXHAUSTIVE READ SKIPPED WERE EXACTLY THE ONES ALREADY BELIEVED READ. documents/green-triangle.md closed its open question 2 on 2026-09-07 with \"the run has now been read issue by issue\", and its source entry 15 ends \"With these the whole digitized 1932-1982 run has been read.\" BOTH WERE OVERSTATED. Four of the forty Green Triangle source records still carried read_state \"skimmed\" with the basis string \"asserted:full-text-cached-and-keyword-swept-not-read-closely\": 1935-08-17, 1937-03-30, 1939-07-22 and 1940-06-27. THE PATTERN IS THE POINT. The article's own open question 2 had named SIX issues as \"read in full so far\" before the p_482 campaign -- 1933-07-08, 1935-08-17, 1937-03-30, 1938-07-29, 1939-07-22, 1940-06-27. The campaign read the issues NOT on that list and passed over the ones that were, because they were already marked done. But four of those six had only ever been read in the older, looser sense that produced the word \"skimmed\", and the two that survive the check (1933-07-08 and 1938-07-29) are the two that were separately extracted into their own facts. SO THE EXHAUSTIVE PASS EXCLUDED PRECISELY THE POPULATION WHOSE READ-STATE WAS ASSERTED RATHER THAN MEASURED -- which is f_5577's distinction reappearing as a hole in a completed campaign rather than in a backlog. Reading all four on 2026-09-07 produced nine facts (f_5592 through f_5599 and this one), including the identification of the Kanawana Kidd, a named Pagé working at the camp, a 1939 editorial against \"Summer Resort camping\", and a nature director with a documented CV. GENERALISATION FOR LATER PASSES: when a campaign claims to have covered a set, check the set's own read-state field rather than the campaign's summary, and check it hardest on the items the campaign had a reason to skip.",
+      "sources": [
+        "src_ymf_the_green_triangle_1937_03_30",
+        "src_ymf_the_green_triangle_1935_08_17",
+        "src_ymf_the_green_triangle_1939_07_22",
+        "src_ymf_the_green_triangle_1940_06_27"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.11",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5592",
+      "category": "people",
+      "date_ref": "1937-03-30",
+      "entities": [
+        "Camp Kanawana",
+        "Page Family",
+        "Greig Macdiarmid"
+      ],
+      "claim": "A PAGE WORKING AT CAMP KANAWANA IN THE 1930s, AND A FOURTH SPELLING OF MACDIARMID. The Spring Issue of 30 March 1937 prints a comic letter: \"By the way, a letter has just been handed to me. The Chief is supposed to have received it just to-day. What? It's a letter from MR. PAGE\", opening \"MON CHER M. McDIARMID\" and signed \"Votre devoue / Alphonse Bertrand, St. Denis / CHRISTOPHE PAGE\". THE LETTER IS A DIALECT CARICATURE written by the newsletter in stage-French, not Page's own words, and its jokes are at his expense: a camper hatched a dozen eggs in his bed and the chicks followed him about (\"De chickens she's tink I am der mudder\"), and he was chased by bees after cutting down a tree in Junior camp. IT IS STILL EVIDENCE OF THREE THINGS. First, A MAN NAMED PAGE WAS WORKING AT THE CAMP -- felling trees in Junior camp, sleeping there overnight, known well enough to the whole readership to be the subject of a running joke, and a correspondent of the Chief. people/page-family.md has the family only as vendors of land in c.1910 and 1960 and as a hike destination in 1923; this is the family and the camp connected by employment. WHICH Page is not established: no Christophe appears in that article's genealogy, and the doubled signature may itself be part of the joke. Second, IT ADDRESSES THE CHIEF AS \"M. McDIARMID\" -- a fourth form beside \"Greig Macdiarmid\", \"W.J.G. Macdiarmid\" and \"J. Greig Macdiarmid\", and it independently places him as Chief in the 1936 season and still in post in March 1937. Third, THE CAMP PUBLISHED A BOOK: \"the book you have publish for Kamp Kanawana. De firs page she is amuse me... your picture she's got hair on top. De seconde page she's funny. She's say - CAMPING IS FUN.\" So a Kanawana promotional booklet existed by early 1937, opened with a photograph of the Chief, and carried \"Camping is fun\" as its second-page line. That phrase is also the hinge of the same issue's lead essay (\"Camping is fun, but camping is also Opportunity to meet, play with, work with, and understand those with whom we come in contact\", f_5589), so it reads as a camp slogan of the period rather than a stray sentence. NO COPY OF THE BOOKLET IS HELD.",
+      "sources": [
+        "src_ymf_the_green_triangle_1937_03_30"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.11",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5593",
+      "category": "people",
+      "date_ref": "1934-1937",
+      "entities": [
+        "Camp Kanawana",
+        "John P. Kidd",
+        "J. Roby Kidd"
+      ],
+      "claim": "THE KANAWANA KIDD IS JOHN, NAMED TWICE IN THE NEWSLETTER. f_5589 recorded \"Capt. Kidd, the piratical British Columbian Canadian business major-domo\" from the 30 March 1937 issue and left the brother undetermined, both being BC men. TWO PIECES OF THE SAME CORPUS SETTLE IT. (1) The issue of 17 AUGUST 1935 lists, among things campers might write up, \"why JOHN KIDD can never be found in Camp on Saturday evenings\" -- the surname spelled Kidd, with the first name, in a joke that assumes every reader knows him. (2) The SAME 1937 ISSUE that carries the Capt. Kidd line ends with a staff roster of about thirty names carrying handwritten annotations, and the roster reads \"JOHN KYDD\" -- the y is either a period variant or an OCR misread of this poorly-scanned page, but the given name is John in both places. SO: John Kidd was at Kanawana as a leader in 1934 (already held), was a familiar enough figure by August 1935 to be a running joke, was in the crew that opened camp in 1936, and appears on the 1937 roster. \"Capt. Kidd\" is a pun on the pirate, which is what \"piratical\" is doing, and \"business major-domo\" fits an administrative role. THE IDENTIFICATION WITH JOHN P. KIDD is strong but rests on the given name plus British Columbia plus the 1934 attestation, not on a full name printed in the paper. NOT ESTABLISHED: whether J. Roby Kidd is also present in these years -- see f_5599, which finds a \"Roby\" at camp in June 1940. f_5589 is corrected in place by this fact and its \"which brother is not determined\" sentence is superseded, not deleted.",
+      "sources": [
+        "src_ymf_the_green_triangle_1935_08_17",
+        "src_ymf_the_green_triangle_1937_03_30"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.11",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5594",
+      "category": "culture",
+      "date_ref": "1935-08-11",
+      "entities": [
+        "Camp Kanawana",
+        "Harold H. Potter",
+        "Junior League Camp"
+      ],
+      "claim": "THE MUSICALE ON THE LODGE GALLERY, 11 AUGUST 1935, WITH HAROLD POTTER PLAYING. The issue of 17 August 1935 reports: \"Last Sunday evening, on the GALLERY OF THE LODGE, there transpired a program WITHOUT PRECEDENT in the annals of Kanawana -- A MUSICALE. It was very fine, and the degree of attention paid to the artists attending showed in itself to what extent the campers enjoyed the efforts of our musicians. HAROLD [printed 'Harols'] POTTER, BILL PAUL, WILF BUCKLEY, ART MORROW, DOUG REILLY, LES BOURBAE, STEWART MORRISON, NEIL MacKINNON -- all contributed to make it an evening to be long remembered by all who heard. There were present besides our own campers several visitors from Junior League, who declared that it was a rare treat.\" THIS IS HAROLD H. POTTER AT CAMP ON A DATED EVENING IN 1935, at the piano or otherwise performing, two years before the 1937 issue's \"the piano recitals of Hal Potter\" (f_5590) -- and Bill Paul, whose violin solo in the woods at chapel service is remembered in that same 1937 list, is beside him. Together the two issues establish a standing camp music culture with a repeating cast rather than one-off entertainments, and \"without precedent in the annals of Kanawana\" DATES ITS BEGINNING to 11 August 1935. THE SAME ISSUE ALSO REPORTS: \"Sunday, August 11, was a day momentous in the History of Kanawana... some TWENTY GIRLS FROM JUNIOR LEAGUE were our welcome visitors. We certainly were glad to have them here -- especially the directors and certain counselors. In fact, we have it on good authority that they have been asked back for to-morrow.\" A twenty-girl visit from the Junior League camp on a named date in 1935, treated by the paper as an event, bears on history/coeducation-gender.md, which has the two camps' contact only in general terms for this period.",
+      "sources": [
+        "src_ymf_the_green_triangle_1935_08_17"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.11",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5595",
+      "category": "traditions",
+      "date_ref": "1935-08-15",
+      "entities": [
+        "Camp Kanawana",
+        "Council Ring"
+      ],
+      "claim": "A DATED COUNCIL RING CEREMONY, THURSDAY 15 AUGUST 1935, DESCRIBED STEP BY STEP. The issue of 17 August 1935, under the heading \"Council Rings\": \"On Thursday last there was held THE FIRST INDIAN COUNCIL RING CEREMONY OF THE TRIBES OF KANAWANA FOR THIS SEASON. It met with an enthusiastic reception, and bodes well for the future of such fires at Kanawana. Towards nightfall ALL THE BRAVES AND CHIEFS GATHERED ON THE TERRITORY INHABITED BY THE JUNIORS, CLAD IN THE CHARACTERISTIC BLANKET AND FEATHERS, AND PROCEEDED AS TRIBES, EACH WITH A LITTLE CHIEF, TO THE MAIN COUNCIL RING. After their entrance and the CEREMONY OF ROLL CALL the Council was officially opened. THE FIRE WAS LIT FROM FOUR [torches] SYMBOLIC OF TRUTH, OF A BEAUTIFUL BODY [the OCR breaks off here; the remaining two are not legible]. Then the council was thrown open to REPORTS OF INTERESTING PHENOMENA OF NATURE IN THIS SECTION OF THE COUNTRY, followed by CHALLENGES and a particularly fetching DANCE BY THE SENIOR CAMP. The ceremony ended in the CHANTING OF THE OMAHA TRIBAL PRAYER, the braves filed out to the haunting music of the tom-tom. It was a great success, and repeated demands for more make it almost a certainty that next year will witness other similar programs.\" WHAT THIS ADDS to site/council-ring.md, which already traces the Omaha prayer to Seton via Taylor Statten: a DATED performance with the running order intact, and the four-fold fire named. Seton's council fire is lit from four fires standing for truth, beauty, fortitude and love, and \"a beautiful body\" is Seton's own gloss on beauty -- so the ceremony here is Seton's text being performed, not a local invention, which is what the article argues on other grounds. \"NEXT YEAR WILL WITNESS OTHER SIMILAR PROGRAMS\" reads as though the practice was NEW OR RECENTLY REVIVED in 1935 rather than continuous, which sits against the c.1925-1927 script the wiki holds; the sentence is recorded, not resolved. NOTE ALSO the same issue's incidental detail that the camp had a MASCOT, \"Bite the Flea\", killed off in a joke obituary as having fallen from the Chef's mustache into the porridge.",
+      "sources": [
+        "src_ymf_the_green_triangle_1935_08_17"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.11",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5596",
+      "category": "philosophy",
+      "date_ref": "1939-07-22",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "TWO KANAWANA EDITORIALS OF 22 JULY 1939: AGAINST COMFORT, AND AGAINST LEADERS WHO WORK. The first is a statement of camping primitivism in the camp's own voice: \"It is a known fact that throughout the country today there are HUNDREDS OF SUMMER CAMPS PROVIDING FOR IDLERS AND UNEMPLOYED YOUTHS opportunities for A SEASON OF UNSURPASSABLE EASE. In these GARDENS OF LEAFY LETHARGY, the enjoyments of nature are enhanced by movies, trained horses, hot water and other city comforts, beautiful landscaping, well tended trails and chlorinated swimming water. GONE ARE THE DAYS WHEN CAMPS BRED MEN ACCUSTOMED TO HARDSHIP AND ABLE TO WREST FOOD AND SHELTER FROM THEIR ENVIRONMENT. We are now in the period of 'SUMMER RESORT' CAMPING... KANAWANA HAS, FORTUNATELY, NOT YET ACQUIRED A MOVIE HOUSE, HOT WATER IN THE CABINS and many other luxuries which tend to detract from the naturalness of the surroundings. We do not mean to imply that some of these improvements are not desirable but we do urge that Kanawana endeavour to MAINTAIN ITS SPIRIT OF CAMPING despite the inroads which civilization has already made. WE MUST NEVER REACH THE SITUATION WHEN CAMPING BECOMES TOO EASY.\" The second, printed immediately after, is a doctrine of camper-led learning stated as a disciplinary complaint: \"SEVERAL LEADERS AND STAFF MEMBERS HAVE BEEN CAUGHT WORKING. THEY ARE TRAITORS TO AN OLD AND ESTABLISHED TRADITION. Perhaps traitors is too strong a term. It might be preferable to refer to these malefactors as GREENHORNS. These newcomers do not realize that in doing work that should properly be done by campers, they are ROBBING THEM OF A GOLDEN OPPORTUNITY... It has been said that THE LEADERS AND STAFFMEN GET FAR MORE OUT OF CAMP THAN THE CAMPERS. Surely this is a strange situation. It is the campers who pay and the leaders who derive the greatest benefit... THE LEADER AND STAFFMEN ARE EXECUTIVES. THEIR TASK IS TO SHUN WORK LIKE THE PLAGUE. The good leader never does any more work than is absolutely necessary. He does, however, subtly create in the group the desire to do those things themselves... It is relatively easy and far more efficient for the leader to clean the tent, cook the meals on hikes, build a wharf, performing all these tasks himself. IT IS TWICE AS HARD TO SIT BY AND WATCH SOMEONE ELSE DO IT BADLY. BUT THIS IS THE CROSS THE LEADER MUST BEAR. He may plant the seeds of an idea but he must let the campers complete the enterprise.\" A THIRD COLUMN, on HANDICRAFT, runs the same argument for the craftshop: \"Handicraft is a good way to develop desirable traits of character just as swimming or canoeing develop the muscles. In making a purse, belt or any other handicraft article there are lots of chances to lose your temper, growl over having to wait for tools, do careless work... The handicraft teacher can show you how to use a coping saw, a hammer, a copper bowl BUT HE CANNOT TEACH YOU HOW TO BE EVEN TEMPERED, COURTEOUS, THOROUGH... Whether you realize it or not, YOU ARE LEARNING GOOD OR BAD HABITS EVERYTIME YOU COME TO THE CRAFTSHOP.\" TAKEN TOGETHER these are the fullest statement of Kanawana's own programme philosophy this project holds from before the war, and they are prescriptive rather than descriptive -- written because the practice was slipping.",
+      "sources": [
+        "src_ymf_the_green_triangle_1939_07_22"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.11",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5597",
+      "category": "programs",
+      "date_ref": "1939-07-21",
+      "entities": [
+        "Camp Kanawana",
+        "Ken Westervelt"
+      ],
+      "claim": "KANAWANA'S 1939 NATURECRAFT PROGRAMME AND THE MAN HIRED TO RUN IT. The issue of 22 July 1939 announces two staff arrivals of the previous day, Friday 21 July: \"KEN WESTERVELT and LINDSAY MUSSELS made their respective bows to camp society on Friday. KEN WILL TAKE CHARGE OF THE NATURE CRAFTS. HE HOLDS A B.A. FROM COLGATE UNIVERSITY and has studied extensively GEOLOGY, FORESTRY AND BOTANY. He has had camping experience at CAMP KIAMESHA IN NORTHERN PENNSYLVANIA and this season TAUGHT NATURE LORE AT CAMP KERSEY before coming here. LINDSAY hails from WESTMOUNT, attending WESTMOUNT HIGH SCHOOL, and after studying in several Departments at McGILL, including Commerce and Science, finally entered DENTISTRY where he completed three years.\" (A \"Lloyd Mussels\" is among the Kanawana leaders reported registering at McGill in the 17 October 1936 Re-union Number; whether Lindsay and Lloyd are the same man misread is not established.) THE SAME ISSUE CARRIES WESTERVELT'S OWN COLUMN, \"NATURE NOTES\", which is a programme statement: he rejects the term nature study for \"NATURE-CRAFT\", \"because it covers the application of these studies as well as the studies themselves\"; \"THE OBSERVATION OF NATURE CANNOT BE PASSIVE. To observe the trees, we must look for them. To identify them, we must scrutinize them thoroughly and systematically\"; the programme is to include hikes with the specific purpose of observing natural phenomena, THE CONSTRUCTION OF A NATURE TRAIL to make campers familiar with trees, flowers and rocks of the vicinity, \"This will necessitate TRANSPLANTING AND LABELLING\"; early-morning observation because \"birds seem to be more prevalent and less shy during the early morning hours\", with an overnight hike to make that possible; and \"WE WISH TO BUILD UP THE MUSEUM. WE ALREADY HAVE A FINE COLLECTION OF ROCKS AND SHELLS AS A NUCLEUS. About this we can build a very worthwhile Museum of nature lore.\" Campers are asked to bring him specimens for identification and labelling, and to note colour, shape and peculiarities of unknown birds, with findings \"reported each week in the Green Triangle\". SO: A NAMED, CREDENTIALED NATURE DIRECTOR, A NATURE TRAIL, AND A CAMP MUSEUM WITH AN EXISTING ROCK AND SHELL COLLECTION, all in July 1939. Neither Westervelt nor the Museum nor the nature trail appears anywhere else in this project's KB or wiki. The camp's environmental-education history had nothing this early and nothing this specific.",
+      "sources": [
+        "src_ymf_the_green_triangle_1939_07_22"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.11",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5598",
+      "category": "site",
+      "date_ref": "1939-07-18",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Bec-scies",
+        "Tamaracouta"
+      ],
+      "claim": "A TWO-DAY JUNIOR CAMP HIKE LOGGED HOUR BY HOUR, 18-19 JULY 1939, AND A CAMP PLACE NAME NOT PREVIOUSLY HELD. The issue of 22 July 1939 prints \"LOG OF JUNIOR CAMP HIKE THROUGH THE BUSH... Written by ERNIE LATTER. Leaders: ED POWER and DOUG STEWART. Hikers: Doug Kinnear, Henry Giles, Jack McCammon, Don Sutherland, Jim Bloxam, Jordan Beverley, George Osborne, Ernie Latter, Don York, John Hall, James Scott.\" It is a camper's own log, timed throughout, and it maps ground: away 8.10 a.m. Tuesday 18 July; twenty minutes' walk to LAKE BESCIES [Bec-scies] for water; up to the main building, chased cows; compass and map, north-west trail; tamarack trees; a grass snake, then a larger one in a hayfield; a farm-house where a woman offered water; a thick swampy forest where ED POWER BLAZED A TRAIL as there was no path; out onto a sandy hill with a view for miles; dinner of beans, bread and pineapple at 1.00 p.m. sharp, Ed Power showing them HOW TO LIGHT A FIRE WITHOUT PAPER; four miles covered by 2.25 p.m.; the spring on the main road NEAR KERR'S FARM for the night's water; camp near a farmhouse; supper of C.B.D., pineapple and cocoa; \"Just before bed, THE LEADERS MARCHED US INTO A NEARBY FIELD, WHERE WE COULD SEE THE LIGHTS OF MONTREAL.\" Next day: George Osborne had sleepwalked; a five-course breakfast of prunes, grapefruit, bread and jam, bacon, porridge and watermelon, the watermelon a gift from the farm woman; broke camp 11.05 a.m., east-north-east into the forest with compass readings at 11.20, 11.50 and 12.55; a hawk sighted; dinner of corned beef, bread and pears in a field; north to THE SCOUT CAMP to fill canteens; \"On our way we planned to have SUPPER AT THE FALLS NEAR THE HAUNTED HOUSE. A short swim was enjoyed\"; \"As we took the trail WE HAD TO CROSS THE PANAMA. This was accomplished by FELLING A TREE crossing over it. Doug Stewart tested it, and fell in losing his compass\"; and finally \"AT FAREWELL ROCK THERE WAS A CAMPFIRE AND WE GOT A LIFT HOME IN BOATS.\" THE FIND IS \"THE PANAMA\". The wiki holds \"THE SUEZ\" as a Kanawana place name (site/named-places-and-camp-vocabulary.md, and the 1937 issue's \"paddling through the Suez at sunset\", f_5590). A second crossing called THE PANAMA means the camp named at least two of its water passages after the world's two great canals, which makes the Suez a member of a naming habit rather than a one-off. Neither \"Panama\" nor \"Kerr's farm\" appears anywhere else in this project. The log also independently corroborates the falls near the Haunted House and Farewell Rock as real, used places on a real route, and the Scout camp (Tamaracouta) as a waypoint on it.",
+      "sources": [
+        "src_ymf_the_green_triangle_1939_07_22"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.11",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5599",
+      "category": "people",
+      "date_ref": "1940-06-27",
+      "entities": [
+        "Camp Kanawana",
+        "J. Roby Kidd",
+        "Junior League Camp"
+      ],
+      "claim": "A \"ROBY\" DIRECTING THE SENIOR SECTION AT KANAWANA, JUNE 1940. The issue of 27 June 1940 twice names a Roby in its \"PAY DIRT\" gossip column and Senior Section report: \"HOW DID ROBY LIKE JUNIOR LEAGUE; OR HOW DID JUNIOR LEAGUE LIKE ROBY? We wonder!\" and \"Tuesday -- Seniors burst into intense activity on the campus WHILE ROBY AND ERNIE DIRECTED OPERATIONS FROM ARMCHAIRS ON THE LOOKOUT VERANDA.\" WHY THIS MATTERS: Roby is an unusual given name and J. ROBY KIDD, who went by Roby, was in Montreal from 1935; his brother John was at Kanawana across 1934-1937 (f_5593). A Roby in a supervisory position over the Senior Section in 1940 is the best candidate this project has for J. Roby Kidd at the camp, and would make BOTH brothers Kanawana men. IT IS NOT ASSERTED: the paper gives no surname, \"Roby\" could be a surname or an unrelated nickname, and the Ernie beside him is probably Ernie Taylor, Junior Director in 1935. Recorded as a lead for people/notable-alumni/kidd-brothers.md, which currently has Roby with no Kanawana attestation of his own. THE SAME ISSUE ALSO GIVES: the JUNIOR SECTION'S MASCOT, \"SPUD\", a rooster heard \"at 4.30 every morning... answering to his master's call\" (\"Thats something to crow about isn't it?\"); the Juvenile section \"TRIBES ARE GETTING THEIR INDIAN NAMES, AND LITTLE CHIEFS HAVE BEEN APPOINTED. This group of Juveniles is the representative body of the camp\", with NORMAN BROWN and a number of boys preparing an arena for evening programmes; and a Hike Day in which Tent One went to MAROIS and Tent Two to TAMARACOUTA, where \"the Haunted House treated them better than the Boy Scouts\" and the Juveniles joined them -- the Haunted House attestation this wiki already cites from this issue, here in its full context. [UPGRADED WITHIN THE HOUR, 2026-09-07: the caution above is stronger than the evidence warrants. people/notable-alumni/kidd-brothers.md already carries the Green Triangle of 29 July 1940 naming \"ROBY KIDD\" IN FULL, as one of the three men on the borrowed mare in the camp circus of 25 July 1940. That is the same season, one month later. The Roby of 27 June 1940 is J. Roby Kidd, and the June sighting is the EARLIER of the two and the more informative, because it puts him in a SUPERVISORY role over the Senior Section rather than in a circus act. The hedge is kept above rather than deleted, because it was the right hedge before the destination was checked -- and checking the destination is what resolved it.]",
+      "sources": [
+        "src_ymf_the_green_triangle_1940_06_27",
+        "src_ymf_the_green_triangle_1940_07_29"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.11",
       "added_by": "ralph_loop"
     }
   ]

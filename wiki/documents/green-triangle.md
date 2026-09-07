@@ -1,7 +1,7 @@
 # The Green Triangle
 
-*Status: draft | Sources: 15*
-*Last Updated: 2026-09-07 (the whole digitized run read issue by issue, closing open question 2)*
+*Status: draft | Sources: 16*
+*Last Updated: 2026-09-07 (the four issues the run-wide read missed, read and written up)*
 
 ## Overview
 
@@ -179,10 +179,102 @@ The 1978–1982 revival recorded above has a witness from outside the run itself
 
 **So what the revived Green Triangle actually was is a director's circular**, sent out of season over the camp office's name at 1441 Drummond Street, to whichever constituency a given mailing needed — campers and parents in 1976 and 1982, staff in the pre-season of 1978. It carried the old title and almost nothing else of the old paper: no gossip column, no sport section, no campers' contributions, no Snoop and no Dorothy Dix. The 1932–1940 *Green Triangle* was written by boys to be read aloud to boys. Its namesake of 1976–1982 was written by the director to be read at home.
 
+## The Four Issues the Read Missed
+
+The systematic read of the whole run, above, closed this article's open question 2 on 7 September 2026 —
+and it was wrong by four issues.^16 The campaign worked the issues that were *not* already listed as read
+in full, which is the sensible order to work in and is exactly why it failed: the six issues it skipped had
+been marked read in a looser, earlier sense, and four of their source records still carried the read-state
+`skimmed` with the basis string *asserted: full-text cached and keyword-swept, not read closely*. Two of the
+six survived the check because they had been extracted into facts of their own. The other four had never
+been read by anybody. **A campaign that trusts its own summary skips precisely the items it had a reason to
+skip**, which is the same distinction between an asserted read-state and a measured one that this project
+recorded a day earlier at the level of the whole source index. The four were read the same afternoon. They
+were not thin.
+
+**The camp had a slogan, and a book to put it in.** The Spring Issue of 30 March 1937 prints a comic letter
+in stage-French dialect, purportedly from a *Mr. Pagé* and addressed "Mon Cher M. McDiarmid," which thanks
+the Chief for "the book you have publish for Kamp Kanawana. De firs page she is amuse me… your picture she's
+got hair on top. De seconde page she's funny. She's say — **Camping is fun**."^16 The same issue's lead essay
+turns on the same phrase — "Camping is fun, but camping is also Opportunity to meet, play with, work with,
+and understand those with whom we come in contact" — so a Kanawana booklet existed by early 1937, opened
+with a photograph of the Chief, and carried the camp's slogan on its second page. No copy is held. The
+letter is discussed further at [[people/page-family|The Pagé Family of Saint-Sauveur]], because it is also
+the first evidence this project has of a Pagé working *at* the camp rather than selling land to it.
+
+**The crew that opened camp, described as a League of Nations.** The same issue looks back on the 1936
+season: "It is only the privilege of a few to open camp… in the first truck load of those sent to 'break
+camp', there was a group forming almost a League of Nation nationalities — Jack Cameron, the golfing Scot,
+Capt. Kidd, the piratical British Columbian Canadian business major-domo, Neri Guadagni, the Italian card
+sharp, Wes Woo, the story-telling Chinese mandarin, Bud Flaherty, the American biologist, and Jo Peep, the
+expatriated English Haile Selassie. And this mixture of nationalities, much like the mixture of different
+types of campers, was banded together to learn how, by experience to get along with each other."^16 The
+nicknames are period ethnic shorthand and are quoted as printed. What is unusual is that the paper attaches
+its internationalism doctrine to the *work crew* rather than to the campers, and does so in the voice of a
+gossip columnist rather than a director. The rest of the issue is a list of twenty-five things the 1936
+season was remembered for, which is where the piano recitals of Hal Potter, the canoe trips to Weir and Lac
+Archambault, the hikes to Laurel, Marois, Morin Heights and Otoreke, the Marois day regatta, and paddling
+through the Suez at sunset all come from.
+
+**Kanawana against comfort, 1939.** The issue of 22 July 1939 carries the fullest statement of the camp's
+own programme philosophy this project holds from before the war, and it is prescriptive — written because
+the practice was slipping.^16 The first editorial attacks the drift of the whole industry: "throughout the
+country today there are hundreds of summer camps providing for idlers and unemployed youths opportunities
+for a season of unsurpassable ease. In these **gardens of leafy lethargy**, the enjoyments of nature are
+enhanced by movies, trained horses, hot water and other city comforts… Gone are the days when camps bred men
+accustomed to hardship and able to wrest food and shelter from their environment. We are now in the period
+of 'Summer Resort' camping… Kanawana has, fortunately, not yet acquired a movie house, hot water in the
+cabins and many other luxuries… **We must never reach the situation when camping becomes too easy.**" The
+second is stranger and better: "**Several leaders and staff members have been caught working. They are
+traitors to an old and established tradition.**" The offence is doing work the campers should be doing —
+"robbing them of a golden opportunity" — and the doctrine that follows is explicit about the cost of holding
+to it. "The leader and staffmen are executives. **Their task is to shun work like the plague.**… It is
+relatively easy and far more efficient for the leader to clean the tent, cook the meals on hikes, build a
+wharf, performing all these tasks himself. **It is twice as hard to sit by and watch someone else do it
+badly. But this is the cross the leader must bear.**" A third column applies the same argument to the
+craftshop: the handicraft teacher "can show you how to use a coping saw, a hammer, a copper bowl but he
+cannot teach you how to be even tempered, courteous, thorough."
+
+**A nature director with a CV, a nature trail, and a museum.** The same 1939 issue announces two staff
+arrivals of the previous day and gives one of them a column.^16 **Ken Westervelt** took charge of the nature
+crafts, holding a B.A. from Colgate University with extensive study in geology, forestry and botany, camping
+experience at Camp Kiamesha in northern Pennsylvania, and a season teaching nature lore at Camp Kersey
+immediately before. His column rejects "nature study" for "**nature-craft**," "because it covers the
+application of these studies as well as the studies themselves," and states a programme: hikes with the
+specific purpose of observing natural phenomena; the construction of a **nature trail** to make campers
+familiar with the trees, flowers and rocks of the vicinity, which "will necessitate transplanting and
+labelling"; early-morning observation, because "birds seem to be more prevalent and less shy during the
+early morning hours"; and "**We wish to build up the Museum. We already have a fine collection of rocks and
+shells as a nucleus.**" Campers were to bring him specimens for identification and to report unidentified
+birds by colour, shape and peculiarity, with findings printed each week in this paper. Neither Westervelt
+nor the museum nor the nature trail appears anywhere else in this project's record.
+
+**A camper's hike log, and a second canal.** The same issue prints "Log of Junior Camp Hike Through the
+Bush," written by camper **Ernie Latter**, leaders Ed Power and Doug Stewart, eleven boys named, timed hour
+by hour across 18–19 July 1939.^16 It is the most detailed route this project holds for the country around
+the camp: Lake Bec-scies twenty minutes out, a north-west trail read off map and compass, a swamp where Ed
+Power blazed a trail because there was no path, a sandy hill with a view for miles, dinner at 1.00 p.m.
+sharp with a lesson in lighting a fire without paper, the spring near Kerr's farm, a night's camp by a
+farmhouse whose owner gave them water and, in the morning, half a watermelon, and — the detail that gives
+the whole log its shape — "just before bed, the leaders marched us into a nearby field, **where we could see
+the lights of Montreal**." The second day ran east-north-east to the scout camp at Tamaracouta, supper and a
+swim at the falls near the haunted house, and then: "**As we took the trail we had to cross the Panama.**
+This was accomplished by felling a tree crossing over it. Doug Stewart tested it, and fell in losing his
+compass." A campfire at Farewell Rock, and a lift home in boats. **The Panama is new.** This wiki already
+holds *the Suez* as a Kanawana place name; a second crossing called the Panama makes it a naming habit
+rather than a one-off, and the camp evidently named its water passages after the world's two great canals.
+
+**And two people placed.** The 17 August 1935 issue names "**John Kidd**" outright, in a list of things
+campers might write up — "why John Kidd can never be found in Camp on Saturday evenings" — and the 1937
+Spring Issue's closing staff roster reads "John Kydd."^16 Between them they identify the "Capt. Kidd" of the
+League-of-Nations passage as **John**, not his brother Roby, which settles a question
+[[people/notable-alumni/kidd-brothers|the Kidd brothers article]] could not. A **Roby**, however, turns up
+directing the Senior Section from an armchair on the Lookout veranda in the issue of 27 June 1940.^16
+
 ## Open Questions
 
 1. [Important] What did the Green Triangle award's "series of feats" actually consist of, beyond Buckland's single anecdotal account? No source itemizes the specific requirements.
-2. ~~[Nice-to-have] Now that 38 digitized issues are known to exist (rather than one), a systematic issue-by-issue read of the full 1932–1982 run — beyond the six issues read in full so far (1933-07-08, 1935-08-17, 1937-03-30, 1938-07-29, 1939-07-22, 1940-06-27) — would likely surface further camp history not yet captured in this KB.~~ **[Resolved 2026-09-07 under p_482: the run has now been read issue by issue.** It produced, among other things, a third camp motto, the Fire of Friendship three years earlier than recorded, Cuckoo Day, the Kanawana Circus, the annual reunion, the *Gas Bag* succession, Marois Day's mixed programme, and people including Macdiarmid, Langille and Ross Seaman turning up years before their recorded dates. The one issue that resisted is **27 August 1932**, whose scan is too degraded to read; it needs page images.]
+2. ~~[Nice-to-have] Now that 38 digitized issues are known to exist (rather than one), a systematic issue-by-issue read of the full 1932–1982 run — beyond the six issues read in full so far (1933-07-08, 1935-08-17, 1937-03-30, 1938-07-29, 1939-07-22, 1940-06-27) — would likely surface further camp history not yet captured in this KB.~~ **[Resolved 2026-09-07 under p_482: the run has now been read issue by issue.** It produced, among other things, a third camp motto, the Fire of Friendship three years earlier than recorded, Cuckoo Day, the Kanawana Circus, the annual reunion, the *Gas Bag* succession, Marois Day's mixed programme, and people including Macdiarmid, Langille and Ross Seaman turning up years before their recorded dates. The one issue that resisted is **27 August 1932**, whose scan is too degraded to read; it needs page images.] **[Corrected the same day: "read issue by issue" was not yet true when it was written.** The campaign read the issues that were *not* on the six-issue list above, and passed over the ones that were — but four of those six had only ever been keyword-swept, and their source records still said so. 1935-08-17, 1937-03-30, 1939-07-22 and 1940-06-27 were read word for word on 2026-09-07 and produced the section above; the sentence now holds.]^16
 3. [Nice-to-have] What prompted the newsletter's 1976 and 1978–1982 revivals, and why did each end?
 
 ## Related Articles
@@ -209,7 +301,8 @@ The 1978–1982 revival recorded above has a witness from outside the run itself
 12. *The Green Triangle*, Vol. IV No. 7, **4 August 1935**, and Volume 5, **Re-union Number, 17 October 1936** [src_ymf_the_green_triangle_1935_08_04, src_ymf_the_green_triangle_1936_10_17]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 13. *The Green Triangle*, **1 August 1936** ("An Issue in verse") and the issue opening volume 45, **2 July 1938** [src_ymf_the_green_triangle_1936_08_01, src_ymf_the_green_triangle_1938_06_02]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. **Note the date discrepancy on the second**: the Internet Archive item is identified as `1938-06-02` and the cache file follows it, but the masthead reads "Kamp Kanawana - Saturday, July 2, 1938". July 2 1938 was a Saturday; June 2 was a Thursday. The masthead is preferred.
 14. *The Green Triangle*, **September 1976** and **15 November 1982** [src_ymf_the_green_triangle_1976_09, src_ymf_the_green_triangle_1982_11_15_eng] — the two surviving issues of the revived paper. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
-15. *The Green Triangle*, **13 August 1936** (the "Marois Issue"), **1** and **29 July 1939**, **4** and **22 August 1940** [src_ymf_the_green_triangle_1936_08_13, src_ymf_the_green_triangle_1939_07_01, src_ymf_the_green_triangle_1939_07_29, src_ymf_the_green_triangle_1940_08_04, src_ymf_the_green_triangle_1940_08_22]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. With these the whole digitized 1932–1982 run has been read.
+15. *The Green Triangle*, **13 August 1936** (the "Marois Issue"), **1** and **29 July 1939**, **4** and **22 August 1940** [src_ymf_the_green_triangle_1936_08_13, src_ymf_the_green_triangle_1939_07_01, src_ymf_the_green_triangle_1939_07_29, src_ymf_the_green_triangle_1940_08_04, src_ymf_the_green_triangle_1940_08_22]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. ~~With these the whole digitized 1932–1982 run has been read.~~ **Not with these: four issues were still unread when that was written. See entry 16.**
+16. *The Green Triangle*, **17 August 1935**, **30 March 1937** (the Spring Issue), **22 July 1939** and **27 June 1940** [src_ymf_the_green_triangle_1935_08_17, src_ymf_the_green_triangle_1937_03_30, src_ymf_the_green_triangle_1939_07_22, src_ymf_the_green_triangle_1940_06_27]. Cached under `sources/cache/ymca-montreal-fonds/`. **These are the four the p_482 read missed**; read word for word 2026-09-07. See [f_5591] for why they were missed, and [f_5592] through [f_5599] for what they held.
 
 ## Research Notes
 

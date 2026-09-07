@@ -1,7 +1,7 @@
 # The Council Ring
 
-*Status: E1-reviewed | Sources: 19*
-*Last Updated: 2026-09-07 (Eastaugh's claim about Indigenous participation, tested)*
+*Status: E1-reviewed | Sources: 20*
+*Last Updated: 2026-09-07 (a dated ceremony, 15 August 1935, with its running order)*
 
 ## Overview
 
@@ -153,6 +153,35 @@ The spring 1987 issue printed "**A Benediction**", submitted by **Madelene Allen
 
 It bears on this article in a specific way. Kanawana's council-ring texts — the closing invocation, the 1940 firelighting, the Council of Tribes script — have been treated as documents to be dated and sourced. The Seton–Statten chain established above shows that some of the material genuinely was transmitted as fixed text. This shows that some of it was not: **the same benediction existed in at least two forms in the same years, in the same movement, with no author attached to either.** A Kanawana text that does not match a known source exactly is therefore not necessarily a local composition, and one that matches loosely is not necessarily a corruption. Both are what an oral liturgy looks like when it is written down.
 
+### A ceremony with a date on it, 15 August 1935
+
+Most of what this article can say about the Council of Tribes comes from an undated script and from the
+tradition's sources upstream. One issue of the camp newspaper reports a performance, on a day of the week
+and in a named season, with the running order intact.^20
+
+> On Thursday last there was held **the first Indian Council Ring Ceremony of the Tribes of Kanawana for
+> this season**… Towards nightfall all the braves and chiefs gathered on **the territory inhabited by the
+> Juniors**, clad in the characteristic blanket and feathers, and **proceeded as tribes, each with a little
+> Chief**, to the main Council Ring. After their entrance and the **ceremony of Roll Call** the Council was
+> officially opened. **The fire was lit from four** [torches] **symbolic of truth, of a beautiful body**…
+> Then the council was thrown open to **reports of interesting phenomena of nature** in this section of the
+> country, followed by **challenges** and a particularly fetching **dance by the Senior Camp**. The ceremony
+> ended in the **chanting of the Omaha Tribal Prayer**, the braves filed out to the haunting music of the
+> tom-tom.
+
+The Thursday before the issue of Saturday 17 August 1935 is **15 August**. Two details are worth pulling out.
+The **four-fold fire** is Seton's: his council fire is lit from four fires standing for truth, beauty,
+fortitude and love, and "a beautiful body" is Seton's own gloss on beauty rather than a Kanawana coinage.
+The OCR breaks off before the remaining two, so only half the formula survives here. And the **procession
+from the Juniors' ground**, each tribe behind its own little Chief, is a piece of staging the script this
+project holds does not describe — the ceremony began somewhere else and walked to the ring.
+
+One sentence in the report sits awkwardly with the rest of this article: "repeated demands for more make it
+almost a certainty that **next year will witness other similar programs**." That reads as though the
+practice were new or lately revived in 1935, where the c. 1925–1927 script implies a decade of continuity.
+The likeliest reading is that the *ceremony* was continuous and the **first of the season** is what the
+paper is announcing, which is what the sentence literally says. It is recorded here rather than resolved.
+
 ## Location and Modern Use
 
 The Council Ring is located at the far west end of the camp, a ten- to fifteen-minute walk past the Senior Boys section.^6 It remains the primary ceremonial site. In the 2000s era, the ring hosts the Opening Campfire for each session, the opening campfire of the L&V Games, and the Closing Fire of the summer.^6
@@ -202,6 +231,7 @@ The "1970s photograph" showing a standing totem pole is McMorris's thesis Figure
 17. "Personality Profile: W. E. (Ted) Yard (1919-1983)" — interview with Shirley Yard and Ted Yard Jr., pp. 10-15, and the unattributed inter-tribal gift speeches and "Council Closing," p. 24 — *Canadian Camping Magazine* Vol. 38 No. 2 (Fall 1986) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 159).
 18. "Under Open Skies" / "À ciel ouvert" — "A Benediction," submitted by Madelene Allen, Camp Ouareau, St. Donat, Quebec, *Canadian Camping Magazine* Vol. 38 No. 4 (Spring 1987), p. 28 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 161).
 19. Ernest Thompson Seton, *The Book of Woodcraft and Indian Lore* (Doubleday, Page, 1912) [src_seton_book_of_woodcraft_1912]: the Omaha Tribal Prayer at p. 145, the Peace Pipe Ceremony at pp. 148–149, the Scalp Dance, and the Herald and Gleeman degree requirements. Read in full on 2026-09-05. See [f_4854], [f_4855], [f_4856], [f_4857].
+20. *The Green Triangle*, **17 August 1935** [src_ymf_the_green_triangle_1935_08_17]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1935-08-17.txt`. Read word for word 2026-09-07. See [f_5595].
 
 ### R3 Verification Notes
 

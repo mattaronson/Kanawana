@@ -1,7 +1,7 @@
 # The Kidd Brothers
 
-*Status: draft | Sources: 6*
-*Last Updated: 2026-09-07*
+*Status: draft | Sources: 7*
+*Last Updated: 2026-09-07 (John Kidd across four seasons; Roby running the Senior Section in June 1940)*
 
 ## Overview
 
@@ -31,6 +31,24 @@ thanked him for "the way some of you leaders helped me."^1
 He appears again in the *Green Triangle* of 17 October 1936.^1 Sir George Williams's own history names a
 **John P. Kidd** among its Bachelors of Arts.^4
 
+**Three further sightings, and the given name that ties them together.** The four issues the run-wide
+read of the newsletter had missed were read on 2026-09-07, and John Kidd is in three of them.^7 The issue
+of **17 August 1935**, listing things campers might write up for the paper, offers "why **John Kidd** can
+never be found in Camp on Saturday evenings" — a joke that assumes every reader knows him, which puts him
+at camp a year after Caserta's "1934" and makes him a familiar figure rather than a visitor. The Spring
+Issue of **30 March 1937** looks back on the crew sent up in the first truck to open the 1936 season,
+"a group forming almost a League of Nation nationalities — Jack Cameron, the golfing Scot, **Capt. Kidd,
+the piratical British Columbian Canadian business major-domo**, Neri Guadagni, the Italian card sharp,
+Wes Woo, the story-telling Chinese mandarin, Bud Flaherty, the American biologist." And the same issue's
+closing staff roster reads "**John Kydd**" — the *y* either a period variant or a misread of a badly
+scanned page, but the given name is John in both places.
+
+That settles which brother the pun belongs to. "Capt. Kidd" is the pirate, which is what "piratical" is
+doing; "business major-domo" fits an administrative role; and "British Columbian" fits either brother,
+since both were raised in Vancouver and Gibson's Landing. The given name is what separates them, and it
+is John. So John Kidd was at Kanawana across **1934, 1935, 1936 and 1937** — four seasons, not the single
+year his own 1950 anecdote records, and long enough for the paper to build running jokes on him.
+
 ## Roby Kidd at Kanawana, 1940
 
 The *Green Triangle*'s account of the camp circus of 25 July 1940 lists "Kanawana's 'Three Men On A Horse'"
@@ -38,6 +56,16 @@ The *Green Triangle*'s account of the camp circus of 25 July 1940 lists "Kanawan
 Juvenile Camp and still able to throw all three — as "**Roby Kidd**, Tom Hardwick, and our daring B.M."^5
 The same paragraph names [[people/a-ross-seaman|Ross Seaman]] among the clowns, nineteen years before he
 directed the place.
+
+**And a month earlier, running the Senior Section.** The issue of **27 June 1940** names him twice without
+the surname, which is how a paper writes about someone everyone already knows.^7 The gossip column asks
+"How did **Roby** like Junior League; or how did Junior League like Roby? We wonder!" and the Senior
+Section's own report has "Seniors burst into intense activity on the campus while **Roby and Ernie directed
+operations from armchairs on the Lookout veranda**." The Ernie beside him is probably Ernie Taylor, Junior
+Director in 1935. Taken with the circus a month later, this is the more useful of the two: it puts Roby
+Kidd in a **supervisory position over the Senior Section** in the summer of 1940, not merely on the
+programme — and it does so in the same tone of affectionate mockery the paper reserved for staff, which is
+its own evidence that he was a fixture rather than a visitor.
 
 **He was in the right job to be there.** His biography has him "Secretary of the Young Men's Christian
 Association in **Montreal** and Ottawa" from **1935 to 1945**, taking a part-time BA at **Sir George
@@ -112,9 +140,13 @@ Neither year is preferred here.
 
 ## Open Questions
 
-1. [Important] **What did each brother actually do at Kanawana?** John is "a leader" in 1934 on a soldier's
-   recollection and his own reply; Roby is a name in a circus report. Neither section, role nor number of
-   seasons is documented for either. The Montreal YMCA's staff rosters for 1934 and 1940 would settle it.
+1. [Important, advanced 2026-09-07] **What did each brother actually do at Kanawana?** John is "a leader" in
+   1934 on a soldier's recollection and his own reply; Roby was a name in a circus report. **The four
+   newsletter issues read on 2026-09-07 move this a long way**: John is now attested across 1934–1937 and
+   described as a "business major-domo" on the camp-opening crew of 1936, and Roby is directing the Senior
+   Section from the Lookout veranda in June 1940. What remains undocumented is each man's formal title and
+   section. The Montreal YMCA's staff rosters for 1934–1940 would settle that; the 1937 Spring Issue's own
+   closing roster is annotated by hand, and legible page images of it might too.
 2. [Important] **Do the four Kidd-to-Kidd letters mention the camp?** They fall in 1950–51, the year John
    published his Kanawana recollection. This project holds almost nothing in either man's own voice about
    the place. See `p_485`.
@@ -146,6 +178,7 @@ Neither year is preferred here.
 4. Henry F. Hall, *The Georgian Spirit: The Story of Sir George Williams University* [src_georgian_spirit_1967], which names "John P. Kidd" in a list headed "(a) Bachelor of Arts." Reached through Open Library search-inside; the full text was not downloaded. See [f_5571].
 5. *The Green Triangle*, 29 July 1940 [src_ymf_the_green_triangle_1940_07_29], reporting the camp circus of 25 July. See [f_5519].
 6. Ron Faris, *The Passionate Educators: Voluntary Associations and the Struggle for Control of Adult Educational Broadcasting in Canada, 1919-52* (Toronto: P. Martin, 1975) [src_passionate_educators]. **Lending-restricted** — a direct fetch of its text returns HTTP 401, tested rather than assumed — so everything here comes from Open Library search-inside windows, each quoted in the source record so the joins can be checked. See [f_5571] and [f_5572].
+7. *The Green Triangle*, **17 August 1935**, **30 March 1937** and **27 June 1940** [src_ymf_the_green_triangle_1935_08_17, src_ymf_the_green_triangle_1937_03_30, src_ymf_the_green_triangle_1940_06_27]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07. See [f_5589], [f_5593], [f_5599].
 
 ## Research Notes
 

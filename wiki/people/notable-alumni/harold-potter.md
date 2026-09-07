@@ -1,7 +1,7 @@
 # Harold H. Potter
 
-*Status: E1-reviewed | Sources: 9*
-*Last Updated: 2026-07-10*
+*Status: E1-reviewed | Sources: 10*
+*Last Updated: 2026-09-07 (what he did at camp: the 1935 musicale and the 1936 piano recitals)*
 
 ## Overview
 
@@ -24,6 +24,28 @@ Potter attended Sir George Williams College from 1935 to 1939, earning a B.A. Du
 He enrolled in the M.A. program in Sociology at McGill University in 1947, supervised by Oswald Hall, a Chicago School alumnus.^2 His thesis, *The Occupational Adjustments of Montreal Negroes, 1941--48* (defended 1949), documented that nearly 50% of all Black male wage earners in early-1940s Montreal were sleeping car porters, and almost 80% of Black women were employed as domestic servants.^1 ^2 The thesis became a standard citation for decades.
 
 In 1950, Potter went to the University of Chicago to pursue a PhD in Sociology but returned to SGW without completing the degree because he had a teaching position waiting.^2
+
+### What He Actually Did There
+
+Until 2026-09-07 this article could name Potter's Kanawana years but nothing he did in them. The camp's own
+newsletter names him twice, on two things, four summers apart, and both are music.^10
+
+On Sunday **11 August 1935** the camp held what the paper called "a program without precedent in the annals
+of Kanawana — a musicale," on the gallery of the Lodge. "It was very fine, and the degree of attention paid
+to the artists attending showed in itself to what extent the campers enjoyed the efforts of our musicians.
+**Harold Potter**, Bill Paul, Wilf Buckley, Art Morrow, Doug Reilly, Les Bourbae, Stewart Morrison, Neil
+MacKinnon — all contributed to make it an evening to be long remembered by all who heard." (The scan prints
+"Harols"; the OCR of this issue is poor throughout.) Twenty girls visiting from the Junior League camp that
+same day stayed for it and "declared that it was a rare treat."
+
+The Spring Issue of 30 March 1937, looking back over the previous season, lists "**the piano recitals of Hal
+Potter**" among the twenty-five things the 1936 summer was remembered for — in the same list as Bill Paul's
+violin solo in the woods at chapel service, so the same pair of musicians recur.
+
+Two things follow. The first is that Potter's summers at Kanawana were not anonymous: he was one of a named
+group of camp musicians whose performances the paper thought worth reporting, and by 1936 he was giving
+recitals under his own name. The second is smaller and worth stating plainly — **the instrument is only
+attested for 1936**. The 1935 notice calls the participants "musicians" without saying who played what.
 
 ## Academic Career
 
@@ -62,7 +84,7 @@ Potter married Theresia (Theresa) Hebein, an Austrian emigre, in 1970. Their son
 
 ## Open Questions
 
-1. [Important, advanced 2026-07-10] What specific years did Potter serve as a counsellor at Kanawana? Did he work with a specific section or age group? Three specific 1935/1936/1938 Gazette citations now corroborate the years (see Education above), though the clippings themselves are paywalled; section/age group remains undocumented after full-text checks of the 1935 chronicle and 1938 Green Triangle.
+1. [Important, advanced 2026-07-10] What specific years did Potter serve as a counsellor at Kanawana? Did he work with a specific section or age group? Three specific 1935/1936/1938 Gazette citations now corroborate the years (see Education above), though the clippings themselves are paywalled; section/age group remains undocumented after full-text checks of the 1935 chronicle and 1938 Green Triangle. **[Partly answered 2026-09-07:** the *Green Triangle* names him at the 11 August 1935 musicale and credits him with piano recitals in the 1936 season — see "What He Actually Did There" above. His section or age group is still undocumented.**]**
 2. ~~[Important] What is the full text of the Camp Laquemac publication (1953)? Was this a YMCA camp with a Kanawana connection?~~ [Resolved 2026-07-10] Camp Laquemac was Université Laval's own adult-education camp (1947-1957), unconnected to the YMCA or Kanawana institutionally — see Publications above.
 3. [Nice-to-have, advanced 2026-07-10] Are there photographs of Potter at Kanawana in the Concordia Archives? The Harold Potter fonds itself (per repeated, consistent search-engine-indexed descriptions) contains no photographs — only teaching materials and equity/Georgian-related clippings. The broader P0145 YMCA fonds holds Kanawana photographs generally, but not indexed by counsellor name, so a targeted Potter photo can't be located without an in-person box search.
 4. [Nice-to-have] Does the SGW 1973 Yearbook contain a faculty photograph of Potter? The yearbook is confirmed to exist and is publicly hosted on Issuu (issuu.com/concordiayearbooks), but its content could not be extracted by automated fetch tools (JavaScript-rendered viewer) — this is an access gap, not a confirmed absence. A human browsing the Issuu flipbook directly to the Sociology/Arts faculty section is the concrete next step.
@@ -86,3 +108,4 @@ Potter married Theresia (Theresa) Hebein, an Austrian emigre, in 1970. Their son
 7. Ontario Archives: Daniel G. Hill papers, letter from Harold H. Potter, August 8, 1963.
 8. Wikipedia, "Harold H. Potter" footnotes citing three Montreal Gazette items: "Camp group named" (May 15, 1935); "Named to camp staff" (May 13, 1936); "'Y' campers stage reunion meeting" (May 9, 1938).
 9. Chapin, Miriam. *Quebec Now*, Chapter 6 ("The Cleric and the Layman"), 1955; McLean, Scott. "No 'haughty and inaccessible ivory tower': Laval University and Adult Education, 1930–1965." *Canadian Journal of Education/Revue canadienne de l'éducation* 46:2 (2023), pp. 442-465. Camp Laquémac institutional history.
+10. *The Green Triangle*, **17 August 1935** and **30 March 1937** [src_ymf_the_green_triangle_1935_08_17, src_ymf_the_green_triangle_1937_03_30]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07. See [f_5590], [f_5594].

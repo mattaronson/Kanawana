@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-09-07 (Wilderness Camp 1973, a programme sent out without objectives)*
+*Last Updated: 2026-09-07 (the 1939 editorials on comfort and on leaders who work; Westervelt's naturecraft)*
 
 ## Overview
 
@@ -291,6 +291,73 @@ and **eleven matriculated from high school last June**."^ar39 And one structure 
 carried: "**most of the 34 tent counsellors attended the training course held during the winter and
 spring**." By the late 1930s the camp was training its counsellors in the off-season and staffing
 itself substantially with that June's school leavers.
+
+### What the camp said its programme was for, 1939
+
+The staffing tables above say who ran the programme. One issue of the camp newspaper says what they thought
+they were doing, and it is the fullest statement of Kanawana's own programme philosophy this project holds
+from before the war. It is worth reading as **prescription rather than description** — all three of its
+columns are complaints, written because somebody thought the practice was slipping.^gt39
+
+The first attacks the drift of the whole industry. "It is a known fact that throughout the country today
+there are **hundreds of summer camps providing for idlers and unemployed youths** opportunities for a season
+of unsurpassable ease. In these **gardens of leafy lethargy**, the enjoyments of nature are enhanced by
+movies, trained horses, hot water and other city comforts, beautiful landscaping, well tended trails and
+chlorinated swimming water. **Gone are the days when camps bred men accustomed to hardship and able to wrest
+food and shelter from their environment.** We are now in the period of '**Summer Resort**' camping…
+Kanawana has, fortunately, not yet acquired a movie house, hot water in the cabins and many other luxuries
+which tend to detract from the naturalness of the surroundings. We do not mean to imply that some of these
+improvements are not desirable but we do urge that Kanawana endeavour to maintain its spirit of camping
+despite the inroads which civilization has already made. **We must never reach the situation when camping
+becomes too easy.**"
+
+The second is the one worth quoting at length, because it states a doctrine of camper-led learning and is
+honest about what the doctrine costs the person holding to it:
+
+> **Several leaders and staff members have been caught working. They are traitors to an old and established
+> tradition.** Perhaps traitors is too strong a term. It might be preferable to refer to these malefactors
+> as **greenhorns**. These newcomers do not realize that in doing work that should properly be done by
+> campers, they are **robbing them of a golden opportunity** and chance to learn to do things by themselves.
+> It has been said that **the leaders and staffmen get far more out of camp than the campers**. Surely this
+> is a strange situation. It is the campers who pay and the leaders who derive the greatest benefit…
+> **The leader and staffmen are executives. Their task is to shun work like the plague.** The good leader
+> never does any more work than is absolutely necessary. He does, however, subtly create in the group the
+> desire to do those things themselves, the desire to learn, the desire to achieve various satisfactions
+> offered in camp… It is relatively easy and far more efficient for the leader to clean the tent, cook the
+> meals on hikes, build a wharf, performing all these tasks himself. **It is twice as hard to sit by and
+> watch someone else do it badly. But this is the cross the leader must bear.**
+
+The third runs the same argument through the craftshop: handicraft "is a good way to develop desirable
+traits of character just as swimming or canoeing develop the muscles," because "in making a purse, belt or
+any other handicraft article there are lots of chances to lose your temper, growl over having to wait for
+tools, do careless work." The teacher "can show you how to use a coping saw, a hammer, a copper bowl **but
+he cannot teach you how to be even tempered, courteous, thorough**… Whether you realize it or not, you are
+learning good or bad habits everytime you come to the Craftshop."
+
+### Naturecraft, a nature trail and a museum, 1939
+
+The same issue announces two staff arrivals of the previous day and hands one of them a column.^gt39 **Ken
+Westervelt** took charge of the nature crafts: a B.A. from Colgate University, extensive study in geology,
+forestry and botany, camping experience at Camp Kiamesha in northern Pennsylvania, and a season teaching
+nature lore at Camp Kersey immediately before coming to Kanawana. He is the earliest named nature specialist
+in this project's record, and the first with a documented training.
+
+His column is a programme statement. He rejects "nature study" — the term "seems to suggest schools and all
+the confinement associated with that institution" — for **nature-craft**, "because it covers the application
+of these studies as well as the studies themselves." Then the method: "**The observation of nature cannot be
+passive.** To observe the trees, we must look for them. To identify them, we must scrutinize them thoroughly
+and systematically." Then the plan: hikes with the specific purpose of observing natural phenomena; the
+construction of a **nature trail** "to make campers familiar with certain trees, flowers and rocks which may
+be found within the vicinity of the camp," which "will necessitate transplanting and labelling"; early
+morning observation, because "birds seem to be more prevalent and less shy during the early morning hours,"
+with an overnight hike arranged so the boys are already out there; and "**We wish to build up the Museum. We
+already have a fine collection of rocks and shells as a nucleus.** About this we can build a very worthwhile
+Museum of nature lore." Campers were to bring him specimens for identification and labelling, to report
+unfamiliar birds by "colour and shape and its peculiarities," and to see their findings printed in the paper
+each week.
+
+Neither Westervelt, nor the museum, nor the nature trail appears anywhere else in this project's record. The
+camp's environmental-education history, as this wiki has told it, began decades later.
 
 ## The Voyageur and CIT Programmes (1950s-1960s)
 
@@ -619,6 +686,7 @@ report does not say so, and this article does not assume it.
 8. What was the Pathfinder program Summer Summary (1965 archives listing)? Was it the existing boys' section (est. 1959) or something new?
 
 ## Sources
+- ^gt39: *The Green Triangle*, **22 July 1939** [src_ymf_the_green_triangle_1939_07_22], Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1939-07-22.txt`. Held since 2026-08-25 at read_state "skimmed" and **passed over by the issue-by-issue read of the whole run**, because the *Green Triangle* article already listed it among the issues read in full; read word for word 2026-09-07. See [f_5591], [f_5596], [f_5597].
 - **nb59** — YMCA of Montreal Annual Report **1959, short version** [src_ia_sgw_ymca_annual_report_1959_short], Internet Archive item `sgw-ymca-annual-report-1959-short-version`, in the `ymca-montreal-fonds` collection — a short version distinct from the full 1959 report. Found and read 2026-09-07 under p_462. See [f_5256].
 - ^wc73: "Wilderness Camp Director's Report, 1973" [src_ymf_1973_wilderness_camp_directors_report], Internet Archive item `1973-wilderness-camp-directors-report` in the `ymca-montreal-fonds` collection. Full text cached at `sources/cache/ymca-montreal-fonds/1973-wilderness-camp-directors-report.txt`; held since 2026-08-25 at read_state "skimmed" and read word for word 2026-09-07 as the second item worked under p_482. Unsigned — the director writes in the first person and names his two counsellors. See [f_5478] and [f_5479].
 - **nb36** — "Institute for Camp Leaders," *The News Bulletin* Vol. 12 No. 3 (May 1936), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_12_03], Internet Archive item `the-news-bulletin-vol-12-no-03`, in the `ymca-montreal-fonds` collection. Found by the enumeration at [f_5243] and read 2026-09-07 under p_462. See [f_5248].
