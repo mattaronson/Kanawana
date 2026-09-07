@@ -1,8 +1,8 @@
 {
-  "version": "9.31",
-  "kb_version": "9.31",
+  "version": "9.32",
+  "kb_version": "9.32",
   "migrated_from": "3.3",
-  "fact_count": 5301,
+  "fact_count": 5306,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -95641,6 +95641,98 @@
         "f_5329"
       ],
       "added_version": "9.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5340",
+      "category": "people",
+      "date_ref": "1929-1946",
+      "entities": [
+        "R. H. Hanagan",
+        "Ronald Hanagan",
+        "Galt YMCA",
+        "Toronto Central YMCA",
+        "YMCA of Montreal",
+        "Cameron Gorrie"
+      ],
+      "claim": "RONALD HANAGAN'S WHOLE YMCA CAREER, IN FOUR POSTS, FROM THE YEAR BOOK RUN. GALT, ONTARIO: the 1929-30 volume has 'Boys, Ronald Hanagan' in the Galt branch directory and the 1931 volume repeats it -- 'Boys, Ronald Hanagan' under General Secretary Lawrence M. Sommer -- with the alphabetical list giving 'Hanagan, Ronald, Galt, Ont., Boys', 29'. TORONTO CENTRAL BRANCH, 40 COLLEGE ST.: the volumes for 1936, 1937, 1938, 1939 and 1940 all print 'Boys, Ronald Hanagan' in the Central Branch block under the heading 'Toronto, 36 College St., Metro. Bd.', beside Broadview, Danforth, St. Clair, West End and West Toronto branches. MONTREAL CENTRAL BRANCH, 1441 DRUMMOND ST.: the 1941, 1942, 1943 and 1944 volumes have him as its Boys' Secretary, the alphabetical list reading 'Hanagan, R. H., Montreal, Que., Central, Boys, 29'. EASTERN COMMUNITY BRANCH: by the 1945 volume the Central Branch Boys' post has passed to CAMERON GORRIE and Hanagan is 'Executive, Eastern Community Br., 1441 Drummond St.', with the alphabetical list reading 'Montreal, Que., Met. Bd., Eastern Community, 29'; the 1946 volume repeats it. THE 1936 TORONTO POSTING IS THE POINT THAT MATTERS MOST HERE: this project's article on him already carried a 'Ron Hanagan, Toronto Central Y.M.C.A.' from the YMCA of Montreal's News Bulletin of May 1936 and expressly declined to identify him, having only a name and a six-year gap. The Year Book documents the same man in the same branch in five consecutive volumes, and the entry-year figure of 29 runs unchanged from Galt through Toronto to Montreal.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.32",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5341",
+      "category": "people",
+      "date_ref": "1932-1935",
+      "entities": [
+        "Ronald Hanagan",
+        "J. J. Halcrow"
+      ],
+      "claim": "HANAGAN IS ABSENT FROM THE 1932, 1933, 1934 AND 1935 VOLUMES, AND FROM EVERY VOLUME AFTER 1946, AND BOTH NULLS ARE CONTROLLED. The four volumes of the early 1930s exist in the digitized run and are full-text searchable: a search on J. J. HALCROW, a Toronto West End secretary with an entry year of 30, returns hits in all four, and in some fifty volumes besides, running to 1980. A search on Hanagan returns nothing in any of them. So the four-year hole between Galt and Toronto Central is a hole in the roster, not in the scan. The same control holds at the other end -- the Montreal association's own block goes on being indexed through the 1940s, 1950s and beyond -- and Hanagan's last appearance anywhere in the series is the 1946 volume. THAT SITS AWKWARDLY BESIDE THE CONCORDIA FONDS, which holds a Boys' Camping Committee Survey Committee report of his from 1950. The Year Book lists employed officers; a man can leave that list without leaving the association's committee work, and no source read here says which happened.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.32",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5342",
+      "category": "camping_movement",
+      "date_ref": "1939-1942",
+      "entities": [
+        "R. H. Hanagan",
+        "National Council of YMCAs of Canada",
+        "Taylor Statten",
+        "Harry Ballantyne"
+      ],
+      "claim": "HANAGAN SAT ON THE NATIONAL COUNCIL OF THE YMCA OF CANADA, AND GAVE A CONFERENCE PAPER. The 1939 and 1940 volumes print 'THE NATIONAL COUNCIL OF YOUNG MEN'S CHRISTIAN ASSOCIATIONS OF CANADA -- b. Members of National Council', arranged by city, and R. H. Hanagan is listed under TORONTO, ONT. in both -- alongside Taylor Statten, Harry Ballantyne, W. J. Hastie, J. A. Scythes, Geo. S. Patterson and John A. Tory. This is a large body with members from every city that had an association, so it is not an executive office; it is still the national governing council, and it places him on it in the years he was Toronto Central's Boys' Secretary. Separately, the 1942 volume carries a conference programme index reading 'Hanagan, R. H. -- Co-operation with Other Agencies, with Special Reference to Schools and Churches -- Central, Montreal', so he was speaking on inter-agency work in his first years at Montreal.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.32",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5343",
+      "category": "people",
+      "date_ref": "1951",
+      "entities": [
+        "Ron Hanagan",
+        "University of Toronto School of Social Work"
+      ],
+      "claim": "A 'RON HANAGAN' IS A FIELD SUPERVISOR OF THE UNIVERSITY OF TORONTO'S SCHOOL OF SOCIAL WORK IN 1951, AND THIS IS A LEAD, NOT AN IDENTIFICATION. The Canadian Almanac and Directory for 1951 lists the school's staff -- professors including Stuart K. Jaffary and John S. Morgan, then a long roll of Field Supervisors, practitioners in agencies who supervised student placements -- and 'Ron Hanagan' is among them, with no degree letters where most of his neighbours carry them. A Toronto man in social work in 1951 is the right shape for a YMCA boys' worker who leaves the Year Book roster after 1946 and had spent 1936-1940 in Toronto. IT IS ALSO THE WRONG SHAPE IN ONE RESPECT: the Concordia fonds has him writing a Montreal camping report in 1950, and a move to Toronto in the year between is fast. Two men of the name would explain it as easily as one. Nothing read here settles it.",
+      "sources": [
+        "src_canadian_almanac_1917_1918"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "9.32",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5344",
+      "category": "people",
+      "date_ref": "1932-1940",
+      "entities": [
+        "Oscar L. Pearson",
+        "Toronto Central YMCA",
+        "Ronald Hanagan"
+      ],
+      "claim": "PEARSON'S MIDDLE YEARS FILL IN, AND THE YEAR BOOK CORROBORATES MONTREAL'S OWN ACCOUNT OF HIS WAR. The alphabetical list, entry year 12 throughout, gives 'Pearson, O. L., Toronto, Ont., Central, PHYSICAL, 12' in the 1932 and 1933 volumes and 'Toronto, Ont., Central, SEC, 12' in the 1935 volume -- so he rose from physical director to branch secretary at Toronto Central, which is what the 1936 branch directory means by 'Central Br., 40 College St. ... Secretary, Oscar L. Pearson'. THEN, IN THE 1939 AND 1940 VOLUMES, HE IS IN A WAR-SERVICE LIST: 'Pearson, O. L., OVERSEAS', beside George Porteous and E. D. Otter. The YMCA of Montreal's 1942 report says he 'served overseas in the Great War as a Y.M.C.A. officer, and again in the present War, spent eighteen months overseas' before coming to Central Branch as Director of Physical Education -- and the Year Book, which never mentions Montreal in these entries, independently has him overseas in exactly those years. AND IT PUTS HIM AND HANAGAN IN ONE BRANCH: Pearson was Toronto Central's secretary in 1935-36 while Ronald Hanagan was its Boys' Secretary, and both were on Montreal Central's staff from the early 1940s -- not a move made together, since Pearson went overseas in between, but a convergence of two Toronto Central men on the association that ran Kanawana.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.32",
       "added_by": "ralph_loop"
     }
   ]

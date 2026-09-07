@@ -1,6 +1,6 @@
 # The Canadian Camping Movement
 
-*Status: E1-reviewed | Sources: 20*
+*Status: E1-reviewed | Sources: 21*
 *Last Updated: 2026-09-07 (the Commodore identified: A. W. Forgie, boys' work, both his wars, and Madras)*
 
 ## Summary
@@ -418,6 +418,23 @@ staff: "**Oscar L. Pearson, for many years on the staff of the Toronto Associati
 in the Great War as a Y.M.C.A. officer**, and again in the present War, spent eighteen months overseas,
 came to Central Branch as Director of Physical Education."^19 Toronto, the Great War as a YMCA officer,
 then Montreal Central — the roster's three points, in one sentence, from the employer.
+**And the roster says the second war too, without knowing it is agreeing.** The middle of Pearson's
+career fills in from the same alphabetical list: "Pearson, O. L., Toronto, Ont., Central,
+**Physical**, 12" in the 1932 and 1933 volumes, and "Toronto, Ont., Central, **Sec**, 12" in the
+1935 — a physical director who became his branch's secretary, which is what the 1936 branch
+directory means by "Central Br., 40 College St. … Secretary, Oscar L. Pearson." Then the 1939 and
+1940 volumes drop him out of the branch lists altogether and into a war-service roll: "**Pearson,
+O. L., Overseas**," beside George Porteous and E. D. Otter. Montreal's 1942 report says he "again
+in the present War, spent eighteen months overseas" before coming to Central Branch. The *Year
+Book* entries never mention Montreal and are compiled in Toronto; they put him overseas in exactly
+the years Montreal says he was.^21
+
+*One incidental thing falls out of that.* Pearson was Toronto Central's secretary in 1935-36 while
+**Ronald Hanagan** was its Boys' Secretary, and both were on Montreal Central's staff in the early
+1940s — Pearson as Director of Physical Education, Hanagan as Boys' Secretary and camp director.
+They did not move together: Pearson went overseas in between. But two men of one Toronto branch
+converged on the association that ran Kanawana, and the camp got its wartime director out of that
+branch.^21
 
 Which leaves only the 1958 editorial, and it too now has a bridge. The 1947 report: "During the year
 **Oscar L. Pearson, Director of Physical Education resigned to take a position with the city of Toronto
@@ -582,6 +599,7 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 18. *YMCA Year Book and Official Rosters*, 1918-19 volume, page 434: "Overseas Secretaries, Canadian National Council, June 1, 1919" [src_umedia_ymca_yearbook_series], read in the University of Minnesota Libraries' digitized run (ContentDM collection p16022coll351). See [f_5303] and [f_5304].
 19. YMCA of Montreal annual reports for **1942** and **1947** [src_ymf_sgw_ymca_annual_report_1942, src_ymf_sgw_ymca_annual_report_1947], cached here since before this session. See [f_5311] and [f_5323].
 20. J. Harry Ebbs, "Wallace Forgie, International Camper, 1883-1967," *Canadian Camping Magazine* Vol. 20 No. 2, Winter 1968 [src_cache_canadiancampingmagazine_vol20_no2_1968winter], cached here since before this session. Its headline is OCR'd "WALLACE FOKBIE." See [f_5327].
+21. *YMCA Year Book and Official Rosters*, the volumes for **1932, 1933, 1935, 1939 and 1940** [src_umedia_ymca_yearbook_series], read in the University of Minnesota Libraries' digitized run (ContentDM collection p16022coll351). The alphabetical list of employed officers, with its unchanging entry-year figure, and the war-service list of 1939-40. See [f_5344].
 
 ## Research Notes
 

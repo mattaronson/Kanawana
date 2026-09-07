@@ -2643,6 +2643,13 @@
           "at": "2026-09-05T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-07",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Pearson's middle years and his second war added from the Year Book's alphabetical list and war-service roll, independently corroborating Montreal's own 1942 report; plus the Toronto Central overlap with Ronald Hanagan."
         }
       ],
       "ralph_loops_completed": 1,
@@ -2726,7 +2733,8 @@
         "f_4859",
         "f_4863",
         "f_4864",
-        "f_4865"
+        "f_4865",
+        "f_5344"
       ],
       "sources_cited": [
         "src_acq_about_page",
@@ -2761,7 +2769,7 @@
         "movement-archive-turn"
       ],
       "file_id": null,
-      "word_count": 19148,
+      "word_count": 19426,
       "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -5481,6 +5489,13 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-07",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "The whole career, from the Year Book run: Galt 1929-31, a controlled four-year absence, Toronto Central 1936-40, Montreal Central 1941-44, Eastern Community Branch 1945-46, and nothing after. Resolves this article's own flagged non-identification of the 1936 'Ron Hanagan, Toronto Central' -- the superseded paragraph is kept in place. Adds National Council membership, a 1942 conference paper, and a 1951 Toronto social-work lead offered as a lead."
         }
       ],
       "ralph_loops_completed": 2,
@@ -5494,19 +5509,25 @@
         "f_0851",
         "f_0855",
         "f_1170",
-        "f_5248"
+        "f_5248",
+        "f_5340",
+        "f_5341",
+        "f_5342",
+        "f_5343",
+        "f_5344"
       ],
       "sources_cited": [
         "src_ia_ymca_montreal_news_bulletin_12_03",
-        "src_umedia_ymca_yearbook_series"
+        "src_umedia_ymca_yearbook_series",
+        "src_canadian_almanac_1917_1918"
       ],
-      "open_questions": 5,
+      "open_questions": 4,
       "cross_links": [
         "directors-index",
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 1280,
+      "word_count": 2355,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
