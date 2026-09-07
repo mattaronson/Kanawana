@@ -7947,3 +7947,28 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   "still rather late to do much more than run like mad just to keep up" -- the same year-round-staffing argument the 1970 summation makes
   from the other end. And he expected the recommendations to "create a degree of controversy".
   KB v10.91 -> v10.92, 5,656 -> 5,657.
+2026-09-07T21:25:02Z  PUBLICATION PASS, article 1 of 3: julien-tasse taken reader-facing. Operator-approved.
+  WHAT THE PASS ACTUALLY IS, now that one is done. Not a polish. Four kinds of removal, and only the first is mechanical:
+   1. MECHANICAL: fact/priority ids out of prose (13 -> 0), read_state and cache paths out of source notes.
+   2. VOICE: "this project holds / this wiki / this article previously said" -> the subject as subject. 14 -> 2 (the two left are
+      "recorded in this wiki", ordinary encyclopedic self-reference, unlike "this project holds").
+   3. STRUCTURAL: the old "What the record does not have" section was mostly the story of THIS ARTICLE'S OWN EARLIER ERROR. A reader does
+      not need the history of an article's mistakes. Rewritten as "What is not known"; the error moved to Research Notes.
+   4. JUDGEMENT: the Overview's best line was about the project, not the man ("did not know whose room it was until August 2026").
+      Rewriting it to be about Tasse cost more thought than everything mechanical put together.
+  1,891 body words -> 1,392. NOTHING DELETED: every stripped item is in Research Notes -- the superseded claim, the p_304 trace, the
+  table-count comment, the two earlier misreadings.
+  AND THE PASS FOUND A HARNESS HOLE BY FALLING INTO IT. A reader-facing article carries no visible status/sources line, because
+  "R3-verified" is pipeline vocabulary and does not belong in front of a reader. THE HARNESS THEN SAID "ok" BECAUSE IT HAD STOPPED LOOKING:
+  check A1 tested "if mh and ...", so an article with NO header had nothing to compare against and passed silently. Nothing had fallen into
+  that hole before; this rewrite was the first. Same shape as the two scope notes already in that file.
+  FIXED: A1 now fails on "numbered sources present, no header at all", and accepts a machine-readable HTML meta comment a reader never
+  sees. CALIBRATED AGAINST BOTH KNOWN POSITIVES BEFORE BEING TRUSTED -- and the calibration caught a defect in my own fix: the report line
+  formatted the string 'NO HEADER' with %d and crashed instead of reporting. Fixed, re-tested; both cases caught, correct state silent.
+  SCHEMA: publication state recorded as a new "reader_facing": true field rather than overloading "status", so the research pipeline keeps
+  its own vocabulary. data_integrity accepts the extra key.
+  COST, one article: the prose rewrite was the SMALLER half. The larger half was discovering the wiki's own verification does not cover the
+  format, and closing that properly.
+  MECHANICAL NOTE: this log entry failed to write the first time. An unquoted heredoc (needed so the timestamp would expand) also let bash
+  command-substitute the backticks in a code span, and the whole entry was lost while the commit went through without it. Use a QUOTED
+  heredoc and append the timestamp separately.
