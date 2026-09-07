@@ -4409,3 +4409,50 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   transcribing those names now would make the problem larger. The check-in
   prompt's item (c) is therefore answered, not skipped.
   Verify green. Timestamp read from `date -u` in its own call.
+
+[2026-09-07T12:45:04Z] p_483 ANSWERED by the operator: keep it as is. The
+  repository stays public with the material in it, and embargoed material keeps
+  being written into it as kb/restricted/README.md directs. Recorded in the
+  README, in p_483's resolution, and here. What it settles is the SURFACE, not
+  the labelling -- every piece of this material is still extracted, wrapped,
+  registered and dated. It covers this repository and is not permission to
+  reproduce the material elsewhere.
+  THAT UNBLOCKED r_0006, and the re-read that followed found the earlier read of
+  the source had been incomplete. NEW: f_5544-f_5548; kb 10.08 -> 10.09.
+  THE READ WAS RECORDED AS COMPLETE AND WAS NOT (f_5548). The source record said
+  "all 27 Kanawana occurrences read in context" and r_0006's locator listed
+  eleven line ranges ending at 1199. TWELVE OF THE TWENTY-SEVEN FALL AFTER 1199,
+  in a second half of the booklet that is not winners' citations at all. Two
+  causes, both worth naming: reading for the thing expected and stopping when it
+  stopped, and a cache_path pointing at a hand-written NOTE about the booklet
+  rather than the booklet -- so nothing on disk could be greped and the
+  completeness claim could not be checked against anything. The 66,443-character
+  djvu text is now cached and cache_path points at it. Sixth failed coverage
+  heuristic in two days, same shape as the other five: a locator standing in for
+  a document.
+  WHAT THE UNREAD HALF HELD. (1) THE SEAMAN CUP'S OWN YEAR-BY-YEAR HISTORY,
+  1988-2003, with a results table -- and it corrects this wiki's account. The
+  first Cup was TWO bodies, not four: Concordia Leisure Studies against Dawson
+  CRLT at touch football on a snowy field. KANAWANA DEBUTED IN 1991 and WON IN
+  1992 ("Space ball / Concordia / Kamp Kanawana (The Spirit)"), joined the
+  organizing committee in 1995, co-supplied the food in 1999, and put up a camp
+  weekend as the silent-auction prize. The competition ended after 2003; from
+  2004 presentations were decentralized, with 25th-year celebrations planned for
+  2012. (2) THE RANGERS REVIVAL IS NOW DOCUMENTED, not oral history alone: the
+  camp's own award citation credits Heléna Longpré and Louis Lessard with
+  "developing and re-introducing" the program and says what it was -- 15-year-old
+  campers, teamwork and cooperation, canoe tripping, outdoor leadership,
+  naturalism, personal growth. section-names.md's revival claim rested on one
+  oral source; it now has an outside one. (3) YMCA KANAWANA SAT ON THE SEAMAN
+  COMMITTEE IN ITS OWN RIGHT, as a fourth agency beside the YMCA rather than
+  inside it, SEAN DAY its representative, at 1435 Drummond 4th Floor -- an
+  outside document putting Day in the role in May 2007. (4) The committee's own
+  account of Stuart McLean keynoting the 1997 tenth anniversary, adding his
+  Ryerson chair.
+  r_0006 IS NOW AN EMBARGO BLOCK rather than a summary. The fourteen
+  Kanawana-connected citations are transcribed in a-ross-seaman.md inside
+  markers, review 2036. The superseded wording is kept inside f_5412 rather than
+  replaced. Still missing, and a scan problem rather than a decision: several
+  surnames are set in a script face over a KANAWANA wordmark and did not survive
+  the OCR; those need the page images.
+  Verify green, all eight. Timestamp read from `date -u` in its own call.

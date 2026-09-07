@@ -1,8 +1,8 @@
 {
-  "version": "10.08",
-  "kb_version": "10.08",
+  "version": "10.09",
+  "kb_version": "10.09",
   "migrated_from": "3.3",
-  "fact_count": 5505,
+  "fact_count": 5510,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -96927,14 +96927,21 @@
         "A. Ross Seaman",
         "Concordia University"
       ],
-      "claim": "A THIRD WITNESS TO SEAMAN'S MEMORIAL TEXT, WITH THREE VARIANTS RECORDED RATHER THAN SMOOTHED. The booklet reprints the statement the wiki holds from Canadian Camping Magazine's fund notice of Winter 1988 and from Concordia's Applied Human Sciences department. Where they differ: (1) 'One colleague referred to him as A CHEERLEADER FOR THE HUMAN RACE' here, against the wiki's 'a cheerleader OF the human race'; (2) 'community leader; educational innovator; consummate teacher AND MENTOR' here, against 'consummate teacher' alone in the January 1988 obituary; (3) the fund is 'the A. Ross Seaman Leadership Development Fund' here and in the magazine, while the wiki's article and Concordia's own scholarship listing call it the A. Ross Seaman MEMORIAL Leadership Development Fund -- so both names are in use by the university itself and neither is an error to correct. THIS FACT ALSO CARRIES THE LABELLING NOTE FOR r_0006. The booklet names every winner 1989-2006 and describes each in a paragraph; those people are living private individuals and the roster is deliberately not reproduced in the wiki, with the decision registered so that a later pass can tell a silent source from a silent editor.",
+      "claim": "A THIRD WITNESS TO SEAMAN'S MEMORIAL TEXT, WITH THREE VARIANTS RECORDED RATHER THAN SMOOTHED. The booklet reprints the statement the wiki holds from Canadian Camping Magazine's fund notice of Winter 1988 and from Concordia's Applied Human Sciences department. Where they differ: (1) 'One colleague referred to him as A CHEERLEADER FOR THE HUMAN RACE' here, against the wiki's 'a cheerleader OF the human race'; (2) 'community leader; educational innovator; consummate teacher AND MENTOR' here, against 'consummate teacher' alone in the January 1988 obituary; (3) the fund is 'the A. Ross Seaman Leadership Development Fund' here and in the magazine, while the wiki's article and Concordia's own scholarship listing call it the A. Ross Seaman MEMORIAL Leadership Development Fund -- so both names are in use by the university itself and neither is an error to correct. THIS FACT ALSO CARRIES THE LABELLING NOTE FOR r_0006. The booklet names every winner 1989-2006 and describes each in a paragraph; those people are living private individuals. SUPERSEDED 2026-09-07, AND THE SUPERSEDED WORDING IS KEPT HERE: this originally read that the roster was 'deliberately not reproduced in the wiki, with the decision registered so that a later pass can tell a silent source from a silent editor'. Summarising it away was the weaker treatment under kb/restricted/README.md's own reasoning, and it was corrected once the operator settled p_483 on the repository's visibility: the fourteen Kanawana-connected citations are now transcribed in wiki/people/a-ross-seaman.md inside <!-- embargo:r_0006 --> markers, review 2036-09-07. Several surnames are set in a script face over a wordmark and did not survive the OCR; recovering those needs the page images.",
       "sources": [
         "src_concordia_seaman_award_history_2007"
       ],
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.54",
-      "added_by": "ralph_loop"
+      "added_by": "ralph_loop",
+      "publication": {
+        "status": "embargoed",
+        "register_id": "r_0006",
+        "review_on": "2036-09-07",
+        "basis": "living private individuals under CLAUDE.md Phase 2 section 7; not a personal assessment, so the 75/100-year default does not apply",
+        "why": "Concordia's published honour roll describes each bursary winner's character, career and camp service. The material is laudatory and the university published it, so nothing is protected from disclosure; what the marker governs is this wiki assembling a searchable biography of a private person out of an honour roll."
+      }
     },
     {
       "fact_id": "f_5413",
@@ -99257,6 +99264,98 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.08",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5544",
+      "category": "institutional",
+      "date_ref": "1988-2003",
+      "entities": [
+        "A. Ross Seaman Cup",
+        "Camp Kanawana",
+        "Concordia University",
+        "Dawson College",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE SEAMAN CUP'S OWN YEAR-BY-YEAR RECORD, AND KANAWANA WAS NOT THERE AT THE START. The 2007 booklet closes with 'A brief history' of the Cup written by the fund's own committee, a paragraph for every year from 1988 to 2003 plus a results table of Year / Activity / Host / Winners. THE FIRST CUP, spring 1988 at Concordia's Loyola campus, was between TWO bodies only -- the Leisure Studies students of Concordia and the Community Recreation Leadership Training students of Dawson -- playing TOUCH FOOTBALL 'on a very snowy field', then supper at the Golden Moon Restaurant. KANAWANA ENTERED IN THE FOURTH YEAR: '1991 - ... The CRLT students organized floor hockey and KAMP KANAWANA MADE THEIR DEBUT.' AND KANAWANA WON THE NEXT ONE: the table's 1992 row reads 'Space ball / Concordia / KAMP KANAWANA (The Spirit)'. In 1995 'Dawson College students created a committee WITH THE YMCA, KAMP KANAWANA AND CONCORDIA STUDENTS to organize this year's program'. In 1999 'The YMCA of Montreal, YMCA KAMP KANAWANA and Dawson College CRLT provided food and beverages'. The camp also supplied a prize: the last narrated year records 'this year's big winners in the silent auction for THE KAMP KANAWANA WEEKEND were the students from Dawson CRLT'. THE COMPETITION ENDED AFTER 2003: 'In 2004 and subsequent years, awards presentations are decentralized at a time and place best suited for their individual community. SPECIAL 25TH YEAR COMBINED CELEBRATIONS WILL OCCUR IN 2012.' WHY THIS MATTERS TO THE WIKI'S EXISTING ACCOUNT. wiki/people/a-ross-seaman.md, working from The Link and the Thursday Report, has the Cup as a contest between 'the four communities the scholarship's own terms name'. That is true of 1992 onward and NOT of 1988-1990, when it was two student bodies. The camp joined a going concern in its fourth year and won it in its fifth.",
+      "sources": [
+        "src_concordia_seaman_award_history_2007"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5545",
+      "category": "program",
+      "date_ref": "c.2001-2002",
+      "entities": [
+        "Kanawana Rangers",
+        "Héléna Longpré",
+        "Louis Lessard",
+        "Camp Kanawana"
+      ],
+      "claim": "THE RANGERS REVIVAL IS DOCUMENTED, NOT ONLY REMEMBERED, AND THE DOCUMENT SAYS WHAT THE PROGRAM WAS. The booklet's Kanawana-presented award citation: 'YMCA Kamp Kanawana is proud to present this year's A. Ross Seaman Leadership Development Scholarship to HELENA LONGPRE... But it is for her work DEVELOPING AND RE-INTRODUCING THE \"KANAWANA RANGERS\" PROGRAM, that Heléna is being recognized with this great honour. TOGETHER WITH LOUIS LESSARD she developed AN OUTDOOR LEADERSHIP PROGRAM DESIGNED TO CHALLENGE 15-YEAR-OLD CAMPERS IN THE AREAS OF TEAMWORK AND COOPERATION, CANOE TRIPPING, OUTDOOR LEADERSHIP, NATURALISM, AND PERSONAL GROWTH. Heléna's work on the Rangers program will help to ensure Kanawana's role in developing leadership for years to come.' She is at that time a graduate of Vanier's Early Childhood Education program and in her third year of Outdoor Leadership and Recreation at the Université du Québec à Chicoutimi, interning with 'Foundation on the Tip of my Toes' running adventure trips for children with cancer. WHAT IT SETTLES. wiki/traditions/section-names.md states that Rangers, dormant since 1967, was REVIVED IN 2001 and later became the Wolf program -- and that whole lineage rested on ONE SOURCE, the operator's oral history [src_oral_aronson_rangers_wolf_lineage]. Here is an outside document, published by Concordia, using the word RE-INTRODUCING and naming the two people who did it. The wiki knew Lessard and Longpré only as 'co-ordinators' named on the 2002 Rangers plaque; this says they built it. NAME VARIANT, RECORDED NOT SMOOTHED: the booklet spells her 'Héléna Longpré' throughout; the 2002 plaque and the wiki have 'Hélène Longpré'.",
+      "sources": [
+        "src_concordia_seaman_award_history_2007"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5546",
+      "category": "institutional",
+      "date_ref": "2007",
+      "entities": [
+        "A. Ross Seaman Leadership Development Fund",
+        "Camp Kanawana",
+        "Sean Day",
+        "YMCA of Montreal"
+      ],
+      "claim": "KANAWANA HELD A SEAT ON THE SEAMAN FUND'S COMMITTEE, AND SEAN DAY HELD IT. The booklet's closing page lists the 'A. Ross Seaman Committee' agency representatives: Concordia University, 7141 Sherbrooke Street West -- RANDY SWEDBURG, Applied Human Sciences; Dawson College, 3040 Sherbrooke Street West -- HOLLY BOCKUS, CRLT; YMCA, 1435 Drummond, 4th Floor -- MARC CHAMBERLAND; and, LISTED SEPARATELY FROM THE YMCA, 'YMCA KANAWANA, 1435 Drummond, 4th Floor -- SEAN DAY'. Directors at Large: Richard J. Cuttell, Charles Poxon, J. William Russell, with Dr. Steven Henle as Concordia Applied Human Sciences alumni representative. TWO THINGS FOLLOW. The camp sat on the committee IN ITS OWN RIGHT, at the same table and the same address as the association -- a fourth agency, not a YMCA department. And Sean Day, whose Kanawana executive directorship the wiki dates from roughly 2005, is documented in the role by an outside publication in May 2007. The camp's head office was then at 1435 Drummond, 4th Floor, Montreal H3G 1W3.",
+      "sources": [
+        "src_concordia_seaman_award_history_2007"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5547",
+      "category": "institutional",
+      "date_ref": "1997",
+      "entities": [
+        "Stuart McLean",
+        "A. Ross Seaman",
+        "A. Ross Seaman Cup"
+      ],
+      "claim": "A SECOND, INDEPENDENT WITNESS TO STUART McLEAN KEYNOTING THE 1997 CUP. The fund's own history: '1997 - The 10th Anniversary celebration was held at Dawson College Campus. Former A. Ross Seaman Award recipients, C.R.L.T. and RALSA representatives, were this year's organizers. RENOWNED AUTHOR STUART MacLEAN, BROADCASTER AND PROFESSOR OF JOURNALISM AT RYERSON POLYTECHNICAL INSTITUTE, RECOLLECTED ANTIDOTES FROM ROSS' FRIENDS.' The wiki holds this from Concordia's Thursday Report of 27 March 1997; this is the committee's own account of the same evening, and it adds his Ryerson chair. TWO OCR-LEVEL NOTES: the booklet spells him MacLEAN where every other source has McLEAN, and 'antidotes' is plainly 'anecdotes'. The booklet also dates the 10th anniversary event to Dawson College, where the Thursday Report's awards were presented 13 March.",
+      "sources": [
+        "src_concordia_seaman_award_history_2007"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5548",
+      "category": "methodology",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "A READ RECORDED AS COMPLETE THAT WAS NOT, CAUGHT BY RE-FETCHING THE SOURCE. The source record for the 2007 Seaman booklet carried read_state_basis 'all 27 Kanawana occurrences read in context', and r_0006's locator listed the Kanawana-connected citations as OCR lines 69-72, 175, 415, 545, 664, 949-955, 1037, 1067-1072, 1107-1111, 1122-1125 and 1191-1199. TWELVE OF THE TWENTY-SEVEN OCCURRENCES FALL AFTER LINE 1199 and were in none of those ranges. What was in them was not more of the same: the Cup's own year-by-year history 1988-2003 with its results table, the Rangers re-introduction citation, the committee's membership and addresses, and the Stuart McLean keynote. THE CAUSE was reading for the thing expected -- winners' citations -- and stopping when the citations stopped, in a booklet that carries a second half of a different kind. THE OTHER CAUSE was that the full OCR was never cached: cache_path pointed at a hand-written NOTE about the booklet, so nothing on disk could be re-greped and the claim could not be checked against anything. Both fixed: the 66,443-character djvu text is now cached at sources/cache/concordia-publications/2007-05-23-seaman-award-winners-booklet-ocr.txt. SIXTH FAILED HEURISTIC IN TWO DAYS, and the same shape as the other five: a measurement of coverage that over-reported how much had been read. Here it was a locator standing in for the document.",
+      "sources": [
+        "src_concordia_seaman_award_history_2007"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
       "added_by": "ralph_loop"
     }
   ]
