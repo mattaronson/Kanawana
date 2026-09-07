@@ -1,6 +1,6 @@
 # G. David Twynam
 
-*Status: E1-reviewed | Sources: 14*
+*Status: E1-reviewed | Sources: 16*
 *Last Updated: 2026-09-07 (in post to April 1981, and the Nancy of the Ka-News letters)*
 
 ## Overview
@@ -14,6 +14,25 @@ Correspondence from "Camp director Dave Twynam" is dated 1979 in the Concordia U
 Twynam's directorship falls in the late 1970s, within the 1947–2003 gap in the camp's directorial record — a 57-year period for which few directors have been identified through web-accessible sources. **His predecessor is now documented:** Derek V. Walsh signed the Kanawana reports for 1974 through 1978, so Twynam followed Walsh directly. His successor remains unconfirmed; the next named director after him is Jay Netherwood in 1987.^12 ^13
 
 ## Academic Career
+
+### Before Lakehead: a 1990 paper about evaluating staff
+
+**The gap between the camp and the university is half as wide as this article had it.** The earliest
+publication listed below is from 1998; there is one from **1990**. Mark E. Havitz, G. David Twynam and
+John M. DeLorenzo gave "**Importance-Performance Analysis as a Staff Evaluation Tool**" at the National
+Recreation and Park Association's **Leisure Research Symposium in October 1990**, and it appeared as
+Havitz, Twynam and DeLorenzo, *Journal of Park and Recreation Administration* **9(1), pp. 43-54 (1991)**.^15
+So Twynam was publishing in the recreation literature within a decade of leaving Kanawana, where he was
+last documented in April 1981.
+
+The subject is worth noticing. Importance-performance analysis as a way of **evaluating staff** is the
+problem a camp director spends every August on, and Twynam's own 1979 Kanawana director's report is a
+staff-evaluation document. Whether that is a career growing out of the job or a coincidence of field,
+this article does not say.
+
+A second item fills 1997: an Ontario government publication, "…analysis of desired ecotourism
+opportunities," by Twynam and **David W. Robinson**, a collaborator named nowhere else here.^16 Its title
+is cut at the head by the only record of it found, and the item itself has not been seen.
 
 ### Lakehead University
 
@@ -51,7 +70,7 @@ Twynam was also involved in the Heart of Gold Project, an international sustaina
 
 ## Education
 
-Twynam holds a doctorate, as confirmed by the title "Dr." in multiple institutional sources and "Dave Twynam, PhD" on the Heart of Gold Project website.^10 His ResearchGate profile lists an affiliation with the University of British Columbia, which may indicate a UBC connection — possibly for his PhD — but the specific degree-granting institution has not been confirmed.^4 His undergraduate education is unknown.
+Twynam holds a doctorate, as confirmed by the title "Dr." in multiple institutional sources and "Dave Twynam, PhD" on the Heart of Gold Project website.^10 His ResearchGate profile lists an affiliation with the University of British Columbia, which may indicate a UBC connection — possibly for his PhD — but the specific degree-granting institution has not been confirmed.^4 **One more thread to pull, offered as a lead and not an answer:** his earliest known paper, of 1990, is co-authored with **Mark E. Havitz**, a recreation scholar at the University of Waterloo.^15 A symposium paper written with faculty is the sort of thing a doctoral student produces, so Waterloo is worth checking alongside UBC. Nothing here establishes it, and the two possibilities are not weighed against each other. His undergraduate education is unknown.
 
 **He was still in post in February and April 1981**, which moves the last confirmed year on by one.
 Two issues of *Ka-News* survive from that spring, both written in the first person by the camp's
@@ -82,8 +101,9 @@ cards** because "parents are calling wondering what happened to them."
 
 1. ~~[Critical] What were the exact years of Twynam's Kanawana directorship? Archival correspondence is dated 1979 (or possibly 1976 — see conflict c_007)~~ [Resolved 2026-07-09] A full raw fetch (not a search-snippet) of Concordia's 12B01 finding aid confirms exactly one Twynam entry exists — "Camp director Dave Twynam-correspondence. -- 1979" (Box HA2054) — with no separate 1976 entry anywhere in the list, resolving conflict c_007 in favour of 1979. The Ka-News reference still extends his documented tenure to 1980.
 2. [Important] What programs or changes did Twynam introduce at Kanawana during his tenure? (2026-06 search: nothing online; Ka-News 1976–1982 issues at Concordia are the likely source)
-3. [Important] Where did Twynam earn his PhD, and in what field? UBC affiliation on ResearchGate is suggestive but unconfirmed. (2026-06 search: no dissertation record found in open indexes; ProQuest Dissertations access would resolve this)
-4. [Nice-to-have] Did Twynam's later academic interest in outdoor recreation and tourism grow from his camp experience?
+3. [Important, **advanced 2026-09-07**] Where did Twynam earn his PhD, and in what field? UBC affiliation on ResearchGate is suggestive but unconfirmed. **A second candidate now exists:** his earliest known paper (1990) is with **Mark E. Havitz** of the University of Waterloo,^15 and a symposium paper with faculty is what a doctoral student writes. Check Waterloo's thesis catalogue and Havitz's own supervision record alongside UBC's; the 1990 date also brackets the degree, since he was still directing Kanawana in April 1981. (2026-06 search: no dissertation record found in open indexes; ProQuest Dissertations access would resolve this)
+4. [Nice-to-have, **sharpened 2026-09-07**] Did Twynam's later academic interest in outdoor recreation and tourism grow from his camp experience? The question now has a concrete first datum rather than a general resemblance: his earliest traceable publication is about **importance-performance analysis as a tool for evaluating staff**,^15 which is the task his own 1979 Kanawana director's report performs. That is suggestive and not evidence of influence; what would settle it is an interview, or an acknowledgements page.
+5. [Nice-to-have, **new 2026-09-07**] What is the full title of the 1997 Ontario government publication on "analysis of desired ecotourism opportunities," and who commissioned it? The only record found gives the title cut at the head and names **David W. Robinson** as co-author, a collaborator absent from every other source here.^16
 
 ## Related Articles
 
@@ -108,6 +128,8 @@ cards** because "parents are calling wondering what happened to them."
 12. *Kamp Kanawana Director's Report 1979*, YMCA of Montreal (Internet Archive) [src_ia_kanawana_report_1979]; and the 1974-1978 reports establishing Walsh as predecessor [src_ia_kanawana_report_1974, src_ia_kanawana_report_1978].
 13. *Kamp Kanawana Director's Report 1987* [src_ia_kanawana_report_1987].
 14. *Ka-News*, **January 1978**, **1 December 1979**, **6 February 1981** and **21 April 1981** [src_ymf_ka_news_1978_01, src_ymf_ka_news_1979_12_01, src_ymf_ka_news_1981_02_06, src_ymf_ka_news_1981_04_21]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+15. Havitz, M. E., Twynam, G. D. & DeLorenzo, J. M., "Importance-performance analysis as a staff evaluation tool," *Journal of Park and Recreation Administration* 9(1), pp. 43-54 (1991), given at the NRPA Leisure Research Symposium, October 1990 (abstract p. 81). Assembled 2026-09-07 from four overlapping Open Library search-inside windows across *Research & Evaluation in Recreation, Parks & Leisure Studies* and *Evaluating Leisure Services*; neither book was read whole. One of the two printings of the reference misprints the title as "Important-performance analysis." See [f_5558].
+16. *Ontario Government Publications Monthly Checklist*: "…analysis of desired ecotourism opportunities / G. David Twynam and David W. Robinson. 1997. 1 v. (various pagings): ill." Found by the p_430 name sweep, 2026-09-07; the title is truncated at its head by the search snippet and the item itself has not been seen. See [f_5559].
 
 ## Research Notes
 

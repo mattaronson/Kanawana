@@ -2,7 +2,7 @@
   "version": "10.09",
   "kb_version": "10.09",
   "migrated_from": "3.3",
-  "fact_count": 5519,
+  "fact_count": 5521,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99507,6 +99507,37 @@
       "sources": [
         "src_ia_sgw_ymca_annual_report_1959_short"
       ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5558",
+      "category": "people",
+      "date_ref": "1990-1991",
+      "entities": [
+        "G. David Twynam",
+        "Mark E. Havitz",
+        "John M. DeLorenzo"
+      ],
+      "claim": "TWYNAM'S EARLIEST TRACEABLE PUBLICATION IS EIGHT YEARS EARLIER THAN THE ARTICLE HAS, AND IT IS ABOUT EVALUATING STAFF. Assembled through four overlapping search-inside windows across two books: 'from the 1990 NRPA Leisure Research Symposium (October 1990): 81. MARK E. HAVITZ, G. DAVID TWYNAM, and JOHN M. DELORENZO, \"Importance-Performance Analysis as a Staff Evaluation Tool,\" Journal of Park and Recreation...' (Research & Evaluation in Recreation, Parks & Leisure Studies), completed by the reference list of Evaluating Leisure Services: 'Havitz, M. E., Twynam, G. D., and DeLorenzo, J. M. (1991). Importance-performance analysis as a staff evaluation tool. JOURNAL OF PARK AND RECREATION ADMINISTRATION, 9(1), pp. 43-54.' So the paper was given at the National Recreation and Park Association's Leisure Research Symposium in OCTOBER 1990, abstract at page 81, and published in 1991. WHY IT MATTERS TO THIS PROJECT. wiki/people/dave-twynam.md has him directing Kamp Kanawana from 1979 into at least April 1981, and then nothing until a Lakehead faculty post 'by the late 1990s', with 1998 the earliest publication listed. This is 1990-91, which halves that gap and puts him in the academic literature within a decade of leaving the camp. AND THE SUBJECT IS THE JOB HE HAD JUST LEFT: importance-performance analysis as a tool for EVALUATING STAFF. His 1979 Kanawana director's report is itself a staff-evaluation document. ONE OCR VARIANT RECORDED NOT SMOOTHED: one of the two printings of the reference gives the title as 'IMPORTANT-performance analysis', which is a typo in that bibliography rather than a second paper. A LEAD, NOT AN IDENTIFICATION: Mark E. Havitz was a University of Waterloo recreation scholar. The article records that Twynam's doctorate cannot be placed, with a ResearchGate affiliation pointing at UBC. A co-authored 1990 symposium paper is the kind of thing a doctoral student writes with faculty, so Waterloo is worth checking, and nothing here establishes it.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5559",
+      "category": "people",
+      "date_ref": "1997",
+      "entities": [
+        "G. David Twynam",
+        "David W. Robinson"
+      ],
+      "claim": "A 1997 ONTARIO GOVERNMENT PUBLICATION BY TWYNAM, AND A CO-AUTHOR THIS PROJECT DID NOT HAVE. Ontario Government Publications Monthly Checklist: 'analysis of desired ecotourism opportunities / G. DAVID TWYNAM AND DAVID W. ROBINSON. 1997. 1 v. (various pagings): ill.' The title is truncated at its head by the snippet. It sits in the years wiki/people/dave-twynam.md covers only as 'by the late 1990s he held a faculty position at Lakehead', and it adds a fourth research strand -- ECOTOURISM OPPORTUNITY ANALYSIS, commissioned or at least published by the province -- beside the volunteer-motivation, sport-event and Arctic-tourism lines the article has. DAVID W. ROBINSON is a new name here; the article's named collaborators are Jocelyn M. Farrell, Margaret E. Johnston, R. J. Payne and P. Mason.",
+      "sources": [],
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.09",
