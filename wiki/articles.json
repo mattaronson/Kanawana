@@ -9324,7 +9324,8 @@
       "ralph_loops_completed": 1,
       "kb_facts_used": [
         "f_5198",
-        "f_5232"
+        "f_5232",
+        "f_5254"
       ],
       "sources_cited": [
         "src_abrams_retenue_par_un_fil",
@@ -9341,7 +9342,8 @@
         "src_ia_ymca_montreal_annual_reports_collection",
         "src_mcmorris_thesis",
         "src_ney_w_hour_2014",
-        "src_azrieli_w_hour_page_2026"
+        "src_azrieli_w_hour_page_2026",
+        "src_ia_ymca_montreal_news_bulletin_21_04"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -9356,7 +9358,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 2773,
+      "word_count": 3084,
       "notes": "2026-07-11: Workstream C4 spawn (2 of 4). Connective-narrative synthesis, no new research conducted. Directly addresses CLAUDE.md-named \"1947-2003 director gap\" for its earliest, thinnest span. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
       "tags": {
         "era": [

@@ -1,6 +1,6 @@
 # The Postwar Gap (1947–1967)
 
-*Status: draft | Sources: 13*
+*Status: draft | Sources: 14*
 *Last Updated: 2026-09-06 (a camper's letters from the 1950s, described in a published memoir)*
 
 ## Overview
@@ -69,6 +69,16 @@ think to write down.
 The book is lending-restricted and has not been read; this is one caption. Whether Ney went once or
 every summer, how he got there and who paid are unknown.
 
+## What the association said camping was for, June 1946
+
+Almost nothing survives from these years in the camp's own voice. This is the association's, printed under the plain heading **"Camping"** and credited to *Y.M.C.A. News*, Montreal — so Montreal's own words, picked up and reprinted nationally:^14
+
+> "Camping offers to youth the opportunity to experience the unfolding of his highest aspirations and the toughening of his self-reliance **in the presence of grandeur and inexorable law**. For the youth, assistance is necessary in arousing his intelligent interest in the natural world. Camping provides this through **the companionship of an older counsellor more deeply versed in the language of nature**, who can help him enrich his experiences, promote his understanding, awaken his enthusiasm and inspire his purposes **in a greater degree than any formal studies**."
+
+Two things in it are worth the space. It is a **rationale for the counsellor relationship** — the older companion, not the programme, is what the camp is said to provide — which is the same claim the CIT and leadership tracks rest on and which [[traditions/cit-lit-program|the CIT/LIT article]] traces back to a national statement of 1931. And it is a **claim of superiority over schooling**, made without hedging, by the body that ran Kanawana.
+
+*The same issue carries a truncated line worth flagging rather than using.* A staff-changes list of men returning from war service includes "**W. E. Yard (Ted), from Boys-Building,**" and the destination is lost at a column break in the scan.^14 This project holds Ted Yard from 1951 onward; the line puts him in a Boys-Building post by mid-1946 and says nothing more.
+
 ## A. Ross Seaman's Directorship (1959–1967)
 
 A. Ross Seaman directed Kamp Kanawana from 1959 until 1967, overseeing the 1959 section renaming and the launch of the La Vérendrye canoe-trip program, which grew from exploratory trips in 1958 into a formal satellite operation with a lease at Lac Landron by the early 1960s.^4 ^5 The Montreal YMCA's 1966–67 Annual Report, read directly from the Internet Archive, documents Seaman's "participatory democracy" philosophy and that season's structure.^6 Seaman went on to a parallel academic career, joining Sir George Williams University's Department of Applied Social Science as part-time faculty in 1963 — **while still directing Kanawana**, which he continued to do through 1967 — see [[people/a-ross-seaman|A. Ross Seaman]] for his full biography.
@@ -123,6 +133,7 @@ In 1960–1961, Hedley Gardner Dimock — Coordinator of Staff Development and T
 11. Judy Abrams, *Retenue par un fil / Une question de chance* (Azrieli Foundation, French edition of *Tenuous Threads*, 2013), Internet Archive scan leaf 254 [src_abrams_retenue_par_un_fil]. **One passage only**, reconstructed 2026-09-06 from five overlapping Open Library search-inside queries; the book is lending-restricted and has not been read. The reconstruction and its queries are cached at `sources/cache/openlibrary-search-inside/2026-09-06-abrams-kutz-memoir-passages.txt`. See [f_4937].
 12. Arthur Ney, *W Hour* (Toronto: The Azrieli Foundation, 2014) [src_ney_w_hour_2014]. **One photograph caption only**, found 2026-09-06 by an Open Library search-inside sweep on "Otoreke"; the book is lending-restricted and has not been read. See [f_5198].
 13. The Azrieli Foundation, Holocaust Survivor Memoirs Program, publisher page for Arthur Ney, *W Hour* [src_azrieli_w_hour_page_2026]. Fetched and cached in full 2026-09-06. Its "At a Glance" block gives "Postwar France / Arrived in Canada in 1948"; its excerpt is a 1944 Warsaw chapter and no full text is offered. See [f_5232] and conflict [c_068].
+14. "Camping," *The News Bulletin* Vol. 21 No. 4 (June 1946), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_21_04], credited in the bulletin to *Y.M.C.A. News*, Montreal. Internet Archive item `the-news-bulletin-vol-21-no-04`, in the `ymca-montreal-fonds` collection. Found 2026-09-07 by the enumeration at [f_5243]. See [f_5254].
 
 ## Research Notes
 

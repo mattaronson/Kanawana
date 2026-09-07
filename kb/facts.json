@@ -1,8 +1,8 @@
 {
-  "version": "8.87",
-  "kb_version": "8.87",
+  "version": "8.88",
+  "kb_version": "8.88",
   "migrated_from": "3.3",
-  "fact_count": 5215,
+  "fact_count": 5216,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -94055,6 +94055,25 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.87",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5254",
+      "category": "programs",
+      "date_ref": "1946-06",
+      "entities": [
+        "YMCA of Montreal",
+        "Ted Yard",
+        "Kamp Kanawana"
+      ],
+      "claim": "THE MONTREAL ASSOCIATION'S OWN STATEMENT OF WHAT CAMPING IS FOR, JUNE 1946, INSIDE THE POSTWAR GAP. The News Bulletin prints, under the heading 'Camping' and credited '--Y.M.C.A. News, Montreal', so MONTREAL'S OWN WORDS reprinted nationally: 'Camping offers to youth the opportunity to experience the unfolding of his highest aspirations and the toughening of his self-reliance IN THE PRESENCE OF GRANDEUR AND INEXORABLE LAW. For the youth, assistance is necessary in arousing his intelligent interest in the natural world. Camping provides this through THE COMPANIONSHIP OF AN OLDER COUNSELLOR MORE DEEPLY VERSED IN THE LANGUAGE OF NATURE, who can help him enrich his experiences, promote his understanding, awaken his enthusiasm and inspire his purposes IN A GREATER DEGREE THAN ANY FORMAL STUDIES.' That is a rationale for the counsellor relationship and a claim of superiority over schooling, from the association that ran Kanawana, in a decade this project calls the true postwar gap and from which almost nothing survives in the camp's own voice. SECOND ITEM FROM THE SAME ISSUE, AND IT IS TRUNCATED: a staff-changes list of returning war-service men includes 'W. E. Yard (Ted), from Boys-Building,' AND THE DESTINATION IS LOST at a column break in this scan. Ted Yard occurs sixty-two times in this KB but not before 1951; this puts him in a Boys-Building post by mid-1946 and no further. THIRD, from the issue of DECEMBER 1949: a books-received notice for the 'Handbook of Y.M.C.A. Camp Administration, ed. Ledlie and Roehm, Association Press, $4.50', 'Produced by a Commission set up by Y.M.C.A. Boys' Work Secretaries... the one book that no camp director should be without', covering promotion, building and sanitation, health and safety, programme and leadership, records and administration. The title occurs nowhere in this project. Beside it, and ALREADY HELD HERE, Hedley Dimock and Harleigh Trecker's The Supervision of Group Work and Recreation.",
+      "sources": [
+        "src_ia_ymca_montreal_news_bulletin_21_04",
+        "src_ia_ymca_montreal_news_bulletin_24_04"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.88",
       "added_by": "ralph_loop"
     }
   ]
