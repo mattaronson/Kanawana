@@ -1,7 +1,7 @@
 # Camp Songs, Cheers, and Musical Traditions
 
-*Status: E1-reviewed | Sources: 24*
-*Last Updated: 2026-09-05*
+*Status: E1-reviewed | Sources: 26*
+*Last Updated: 2026-09-07 ("Dear Old Kanawana", printed in 1932 and sung on the road home)*
 
 ## Overview
 
@@ -152,6 +152,28 @@ A CBM radio broadcast of 10 November 1938, "The Voice of Youth," was performed b
 **"Johnny Verbec" is a second "Alabama Jubilee"-type lead.** It is the folk song usually spelled *Johnny Verbeck* or *Dunderbeck's Machine*, a comic song about a sausage-machine inventor with a long and traceable history outside camp — yet the script calls it a "Kanawana song specialty," exactly the way a borrowed song becomes a house song.
 
 The same script records where singing happened — "those zippy camp sing-songs in the dining hall, at **Farewell Rock**, around the fire-rafts on the lake, and — of course — at our Saturday Night Shows" — and names **John Pearson** as the song leader, "waving his arms at us when leading the sing-songs."^19 A 1936 broadcast adds that there was a **daily** song-and-music period after dinner at which "new songs are learned."^19
+
+## "Dear Old Kanawana" (1932)
+
+*The Green Triangle* of 30 July 1932 prints a verse over the name **Max Ford** and the year, in the
+place a paper of that era gives a poem:^25
+
+> I'm glad I'm back at dear old Kanawana
+> With her trees so stately and so fair.
+> Let me lie and rest beneath their shadows,
+> And forget my troubles and my cares.
+> For I love her valleys and her mountains,
+> Rocks and trees bring messages to me,
+> Telling me there's one place, Kanawana,
+> Where my tired soul can e'er be free.
+
+**It was sung, not only printed.** A week later the same paper describes juniors walking home in the
+rain from the Shawbridge Boys' Farm: "Some of them were singing the theme song of *Sunshine Susie*,
+while others expressed their feelings by singing '**I wish I was back at dear Old Kanawana**'."^26
+The first line is inverted — glad to be back, in the printed verse; wishing to be back, on a wet road
+eight miles out — which is what happens to a song once boys have it. Whether Ford wrote the words to
+an existing tune, as "Alabama Jubilee" and "Johnny Verbeck" both suggest was the house method, is not
+stated, and the metre is a common one.
 
 ## Four named songs from 1933
 
@@ -343,6 +365,8 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 22. Christine Nixon (Camp Oconto), "Music for Young Campers," *Canadian Camping* Vol. 32 No. 5 (October 1980), pp. 6, 12 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 133). Written about camps generally, not about Kanawana. The thunderstorm advice quoted alongside it is from "Storms Ahead," *Canadian Camping* Vol. 30 No. 4 (June 1978), pp. 4-5 (issue 120). The Camp Howdy "Camper Care Package," from the B.C.C.A. Newsletter of October/November 1980, is reprinted in *Canadian Camping* Vol. 32 No. 6 (December 1980), p. 4 (issue 134).
 23. Marjorie Booth, "Camp Music Idea," *Canadian Camping* Vol. 35 No. 1 (Spring 1983), p. 13 [src_ia_canadian_camping_collection]. Found by the same read (issue 146).
 24. Jack Pearse (Director, Camp Tawingo), "Song Leading," *Canadian Camping* Vol. 22 No. 4 (June 1970), pp. 8-9 [src_ia_canadian_camping_collection]. The five categories, the named repertoire under each, the eight-step method for teaching a round, and the rule that all sing songs end quietly. See [f_4869], [f_4870].
+25. *The Green Triangle*, Vol. 1 No. 2, **30 July 1932** [src_ymf_the_green_triangle_1932_07_30]. Cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-07-30.txt`; read word for word 2026-09-07 under p_482. Previously sampled only for its first 1,200 characters, at [f_2384].
+26. *The Green Triangle*, Vol. 1 No. 3, **6 August 1932** [src_ymf_the_green_triangle_1932_08_06]. Cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-08-06.txt`; read word for word 2026-09-07 under p_482.
 
 ## Research Notes
 

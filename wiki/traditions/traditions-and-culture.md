@@ -1,7 +1,7 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 42*
-*Last Updated: 2026-09-07 (a third motto, "Shoot Straight and hit the mark", from the camp's own paper in 1932)*
+*Status: E1-reviewed | Sources: 44*
+*Last Updated: 2026-09-07 (the Fire of Friendship at Kanawana in 1932, three years earlier than recorded)*
 
 ## Overview
 
@@ -38,6 +38,67 @@ The camp calendar was punctuated by recurring competitive and social events:
 - **Pyjama Parade**: An annual procession to the post office.^5
 - **Eating-Out Day**: At a "haunted house" location, documented in 1935.^5
 - **Torch Ceremony for World Friendship**: Held in 1935, this was part of a YMCA-wide interwar peace tradition.^5 ^22 The movement originated at a 1926 international YMCA conference where representatives from 52 nations lit a "Fire of Friendship" and passed torches to the younger generation, who declared: "We leave this fire with a vision of a great Christian fellowship, conscious of difference but resolved to love."^22 YMCA Camp Fuller (Providence) held a similar "World-Wide Friendship" ceremony in 1932.^22
+
+## The Fire of Friendship at Kanawana, 1932
+
+The entry above dates Kanawana's Torch Ceremony to **1935** and open question 3 below treats the
+matter as resolved. *The Green Triangle* of **6 August 1932** carries a full description of the
+ceremony held at camp the previous Tuesday, which moves Kanawana's participation back **three years**
+and supplies the chain it belonged to.^44
+
+**It was one link in a scheduled worldwide chain.** "Last Tuesday the camp participated in a **world
+wide chain of Fires of Friendship**. Tuesday was the anniversary of the **International Fire of
+Friendship at Toronto last year when 1400 boys** united in pledging themselves to a better and more
+sympathetic understanding of the peoples of other countries." So Kanawana was keeping an anniversary
+of a Toronto gathering of **1931**, on a date other camps were keeping too.
+
+**The Chief dated the origin to Vaumarcus, Switzerland, in 1925.** He "opened the ceremony by telling
+of the first Fire of Friendship at **Vaumarcus, Switzerland, in 1925**," and the reporter thought part
+of what he said worth quoting: "Boys and their leaders from **17 countries** had gathered around that
+Fire. They sought **unity, not uniformity; fellowship not rivalry; the spirit of service rather than
+the spirit of boasting; stern reality, not hazy idealism; the message of Christ to the world today,
+not vague sentimentalism**." This article's entry above gives the origin as a **1926** international
+conference of 52 nations. The two accounts are a year and a good many countries apart, and both are
+kept: 1925 at Vaumarcus with seventeen countries is what Kanawana's own Chief told the campers in 1932.
+
+**The mechanics, which the archive elsewhere holds only as a catalogue title.** "All week long the
+whole camp had been cutting and preparing torches… These torches were **carved and each fellow got a
+number of his friends to sign his torch**." Then "a boy from each of the **13 International Fires of
+Friendship** which have been held since that time stepped forward and, lighting his torch from the one
+held by the Chief, gave to us the message from the Fire he represented" — thirteen fires between 1925
+and 1932. Boys representing each of the continents entered the inner circle with greetings; twenty
+boys stood at the fire with the rest of the camp in a larger circle around them; then "the campers all
+filed past the Fire and one by one lighted their torches," and standing in one great circle repeated
+the pledge brought from Toronto:
+
+> We leave this fire conscious of differences and of the task before us, but with a wider vision of
+> Christian fellowship and a deeper faith in God our Father, and determined to work for peace and good
+> will among men.
+
+That is close to, but not the same as, the declaration quoted in the entry above. Both wordings are
+kept rather than reconciled.
+
+**And the account is signed by a name this wiki dates three years later.** The piece is signed "**Graig
+MacDermaid**," and the issue of 30 July 1932 records the camp welcoming "**Mr. McDermit**" among new
+staff.^43 [[people/greig-macdiarmid|Greig Macdiarmid]] is dated in this wiki to **1935–1939** as Camp
+Chief. The OCR of these mimeographs confuses vowels throughout, and a leader arriving in July 1932 who
+is Chief by 1935 is an ordinary career; but the identification rests on a spelling, so it is recorded
+as likely and the directors' dates are left alone.
+
+## Two 1932 patterns worth naming
+
+**Camp leagues were named after consumer brands.** Across three issues of 1932 the intramural teams
+are: **Cadillacs and Auburns** in juvenile baseball; **Minty's, Forhan's and Pepsodent's** in the
+"**Tooth Paste League**"; and **Harley Davidsons, Hendersons, Indians and Super X** in a motorcycle
+league run as a "reliability tour."^43 ^44 Three different brand categories in one season is a habit
+rather than a joke, and it is a small piece of evidence about how much of the boys' commercial world
+came up the hill with them.
+
+**And camp kept the Los Angeles Olympics as they happened.** The week of 6 August 1932 was "Olympic
+week," with the junior section divided into teams representing **Japan, Canada, the U.S.A., France,
+England and Australia**, points awarded across all games, and a track meet at which the boys
+"impersonated **Percy Williams**, **Phil Edwards** and other Olympic stars" — the two best-known
+Canadian sprinters of the day. Japan and the U.S.A. tied at 23 points; Canada came third.^44
 
 ## L&V Games
 
@@ -258,7 +319,7 @@ newsletter, remains open — but the possibility that the camp used a different 
 
 1. [Critical, re-confirmed dead end 2026-07-09] When did the camp adopt the Latin motto "Non Nobis Solum" in place of "Each for all and all for each"? The English motto is documented in the 1922 and 1927 brochures. The Latin motto is first attested in the 1993 documentary. Even the McMorris thesis, with full archival access, could not narrow this window. A concrete physical-archive target now exists: Concordia's Box HA1874 holds individually itemized (but undigitized) camp brochures from 1950, 1959, [1960s], 1964, 1965, [1968?], [197-], 1978, 1982, and 1983 — inspecting these, particularly the pre-1993 ones, is very likely the only way to narrow the transition window.^30 Note: "Each for all — all for each" is also the motto of Camp Becket (Becket-Chimney Corners YMCA, est. 1903), suggesting a shared YMCA camping tradition.
 2. ~~[Critical] Which pre-WWII traditions survived into the modern era?~~ [Partially resolved] Oral history (2026-06-13) confirms: the Council Ring ceremonies (Opening/Closing/L&V fires), the time capsule burial/retrieval tradition, the section system (renamed 1959), and the Kanawana Marching Song all survived. The dam ceremony did not survive past ~1985. The Shawbridge Meet, Pyjama Parade, and Eating-Out Day/Haunted House status are unknown.
-3. ~~[Important] What was the "Torch Ceremony for World Friendship"?~~ [Resolved] Part of a YMCA-wide interwar peace tradition originating at a 1926 international conference. Camp Fuller (1932) and Kanawana (1935) both held versions.
+3. [Important, **Partially resolved; reopened in part 2026-09-07**] What was the "Torch Ceremony for World Friendship"? Part of a YMCA-wide interwar peace tradition. **Kanawana held it in 1932, not first in 1935** — see the section above, from *The Green Triangle* of 6 August 1932, which describes the ceremony in full. Two things the earlier answer got only partly right: the origin, given here by Kanawana's own Chief as **Vaumarcus, Switzerland, 1925, with seventeen countries** against the 1926 conference of fifty-two nations recorded above; and the chain, which by 1932 ran to **thirteen international fires** and was being kept on a common anniversary date by camps across the world. What remains open is when Kanawana first joined it, since 1932 is now only the earliest year documented rather than the first.
 4. [Important, re-confirmed dead end 2026-07-09] When did the Shawbridge Meet end? It ran from ~1912 through at least 1935. A direct fetch of Concordia's 12A finding aid (1895-1982) and QAHN's dedicated Shawbridge-history article both confirm zero mentions of the meet; the McMorris thesis full text likewise contains zero "Shawbridge" mentions. This is now a confirmed dead end for free online sources — only a BAnQ numérique login/library-card search of the Montreal Star/La Presse (blocked to this tool by paywall) or a direct Concordia annual-report request for the 1936-1946 range could resolve it.
 5. [Important, re-confirmed dead end 2026-07-09] What are the details of the firelighting ceremony (1936) and fire of friendship (1939)? Both are confirmed to be catalog-title-only entries in Concordia's Box HA2315, with no descriptive content in the finding aid itself.^30 One new detail was found: the Fire of Friendship's suggested programme was designed "to be used at the end of a Boy Scout day," per the McMorris thesis (see Ceremonial Traditions above) — but the 1936 firelighting ceremony itself remains wholly undescribed online.
 6. [Nice-to-have, re-confirmed dead end 2026-07-09] Are there other issues of the Green Triangle beyond the 1938-07-29 copy? The full run 1932–1940 is in the Concordia Archives (Box HA1874), but the public finding aid lists it only as a single undifferentiated box-level entry — individual issue dates are not itemized online. Only five total items from this collection are digitized on Internet Archive (the 1923 brochure, 1935 chronicle, the one 1938 Green Triangle issue, the 1941 CFCF broadcast, and a previously uncited May 1980 "Ka-News" issue, which contains no motto/Shawbridge-relevant content). A direct request to Concordia Records Management for the box's item list is the only remaining path.
@@ -343,3 +404,5 @@ Kanawana."^40 Whether either was ever held again is not known here.
 40. Montreal YMCA annual report 2001-2002 [src_ymf_sgw_ymca_annual_report_2001_2002], "YMCA Kamp Kanawana - A Year of Firsts" and the International Programs page. Read 2026-09-06 under p_454.
 41. "Lost Skiers Find Trails," *The McGill Daily* Vol. 27 No. 87, 2 March 1938 [src_mcgill_daily_1938_03_02]. Transcribed in full at `sources/cache/mcgill/2026-09-07-mcgill-daily-1938-and-1941.txt`. Found by the whole-corpus sweep of 9,890 McGill student publication items under p_479. See [f_5405], [f_5406].
 42. *The Green Triangle*, Vol. 1 No. 1, **23 July 1932** — the first issue [src_ymf_the_green_triangle_1932_07_23]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-07-23.txt`. Held since 2026-08-25 at read_state "skimmed", read word for word 2026-09-07 under p_482, in the systematic issue-by-issue read the article's open question 2 asks for.
+43. *The Green Triangle*, Vol. 1 No. 2, **30 July 1932** [src_ymf_the_green_triangle_1932_07_30]. Cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-07-30.txt`; read word for word 2026-09-07 under p_482. Previously sampled only for its first 1,200 characters, at [f_2384].
+44. *The Green Triangle*, Vol. 1 No. 3, **6 August 1932** [src_ymf_the_green_triangle_1932_08_06]. Cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-08-06.txt`; read word for word 2026-09-07 under p_482.

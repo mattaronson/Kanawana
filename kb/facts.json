@@ -1,8 +1,8 @@
 {
-  "version": "9.87",
-  "kb_version": "9.87",
+  "version": "9.88",
+  "kb_version": "9.88",
   "migrated_from": "3.3",
-  "fact_count": 5454,
+  "fact_count": 5458,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -98357,6 +98357,78 @@
       "confidence": "inferred",
       "conflicts_with": [],
       "added_version": "9.87",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5493",
+      "category": "traditions",
+      "date_ref": "1932-08-02",
+      "entities": [
+        "Camp Kanawana",
+        "Greig Macdiarmid",
+        "The Green Triangle"
+      ],
+      "claim": "KANAWANA HELD THE FIRE OF FRIENDSHIP IN 1932, THREE YEARS EARLIER THAN THIS WIKI RECORDED, AND THE 1932 ACCOUNT SUPPLIES THE CHAIN IT BELONGED TO. wiki/traditions/traditions-and-culture.md dates the Torch Ceremony for World Friendship to 1935 and treats the question as resolved. The Green Triangle of 6 AUGUST 1932 describes the ceremony held at camp the previous Tuesday, in full. IT WAS A SCHEDULED WORLDWIDE CHAIN: 'the camp participated in a WORLD WIDE CHAIN OF FIRES OF FRIENDSHIP. Tuesday was the anniversary of the INTERNATIONAL FIRE OF FRIENDSHIP AT TORONTO LAST YEAR WHEN 1400 BOYS united in pledging themselves to a better and more sympathetic understanding of the peoples of other countries' -- so Kanawana kept the anniversary of a Toronto gathering of 1931, on a date other camps kept too. THE ORIGIN, AS KANAWANA'S OWN CHIEF TOLD IT: 'the first Fire of Friendship at VAUMARCUS, SWITZERLAND, IN 1925', where 'boys and their leaders from 17 COUNTRIES had gathered... They sought UNITY, NOT UNIFORMITY; FELLOWSHIP NOT RIVALRY; the spirit of service rather than the spirit of boasting; STERN REALITY, NOT HAZY IDEALISM; the message of Christ to the world today, NOT VAGUE SENTIMENTALISM.' THE ARTICLE'S EXISTING ENTRY gives the origin as a 1926 conference of 52 nations. The two are a year and thirty-five countries apart and BOTH ARE KEPT rather than reconciled. THE MECHANICS, which the Concordia finding aid holds only as a catalogue title: torches cut and prepared all week, 'CARVED AND EACH FELLOW GOT A NUMBER OF HIS FRIENDS TO SIGN HIS TORCH'; a boy from each of the THIRTEEN INTERNATIONAL FIRES held since 1925 lighting his torch from the Chief's and giving that fire's message; boys representing each continent; twenty boys at the fire with the camp in a larger circle; then every camper filing past to light his own torch and the whole camp repeating the Toronto pledge: 'We leave this fire conscious of differences and of the task before us, but with a wider vision of Christian fellowship and a deeper faith in God our Father, and determined to work for peace and good will among men.'",
+      "sources": [
+        "src_ymf_the_green_triangle_1932_08_06"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.88",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5494",
+      "category": "people",
+      "date_ref": "1932",
+      "entities": [
+        "Greig Macdiarmid",
+        "Camp Kanawana"
+      ],
+      "claim": "MACDIARMID MAY HAVE BEEN AT KANAWANA IN 1932, THREE YEARS BEFORE HIS RECORDED DIRECTORSHIP, ON THE STRENGTH OF A SPELLING. The Fire of Friendship account of 6 August 1932 is signed 'GRAIG MacDERMAID', and the issue of 30 July 1932 records the camp welcoming 'MR. McDERMIT' among newly arrived staff. This wiki dates GREIG MACDIARMID to 1935-1939 as Camp Chief. A leader arriving in July 1932 who is Chief by 1935 is an ordinary career, and the OCR of these mimeographs confuses vowels throughout -- Kanawana itself is rendered 'Kanawqna' and 'Kanawane' in the same run. BUT THE IDENTIFICATION RESTS ENTIRELY ON A SPELLING IN A DEGRADED SCAN, so it is recorded as likely and THE DIRECTORS' DATES ARE LEFT ALONE. What would settle it is any 1932-1934 document naming him, or a page image of either issue.",
+      "sources": [
+        "src_ymf_the_green_triangle_1932_07_30",
+        "src_ymf_the_green_triangle_1932_08_06"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "9.88",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5495",
+      "category": "traditions",
+      "date_ref": "1932",
+      "entities": [
+        "Camp Kanawana",
+        "The Green Triangle"
+      ],
+      "claim": "TWO 1932 PATTERNS: CAMP LEAGUES NAMED AFTER CONSUMER BRANDS, AND THE OLYMPICS KEPT AS THEY HAPPENED. Across three issues of the 1932 season the intramural teams are CADILLACS AND AUBURNS in juvenile baseball; MINTY'S, FORHAN'S AND PEPSODENT'S in the 'TOOTH PASTE LEAGUE'; and HARLEY DAVIDSONS, HENDERSONS, INDIANS AND SUPER X in a motorcycle league run as a 'reliability tour'. Three different brand categories in one season is a habit rather than a joke, and it is evidence about how much of the boys' commercial world came up the hill with them. SEPARATELY, the week of 6 August 1932 was 'OLYMPIC WEEK' -- the Los Angeles games ran that fortnight -- with the junior section divided into teams representing JAPAN, CANADA, THE U.S.A., FRANCE, ENGLAND AND AUSTRALIA, points awarded across every game of the week, and a track meet at which the boys 'impersonated PERCY WILLIAMS, PHIL EDWARDS and other Olympic stars', the two best-known Canadian sprinters of the day. Japan and the U.S.A. tied at 23 points; Canada was third.",
+      "sources": [
+        "src_ymf_the_green_triangle_1932_07_30",
+        "src_ymf_the_green_triangle_1932_08_06"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.88",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5496",
+      "category": "traditions",
+      "date_ref": "1932",
+      "entities": [
+        "Camp Kanawana",
+        "The Green Triangle"
+      ],
+      "claim": "A KANAWANA SONG PRINTED IN 1932 AND SUNG ON THE ROAD A WEEK LATER. The Green Triangle of 30 July 1932 prints, over the name MAX FORD and the year: 'I'M GLAD I'M BACK AT DEAR OLD KANAWANA / With her trees so stately and so fair. / Let me lie and rest beneath their shadows, / And forget my troubles and my cares. / For I love her valleys and her mountains, / Rocks and trees bring messages to me, / Telling me there's one place, Kanawana, / WHERE MY TIRED SOUL CAN E'ER BE FREE.' IT WAS SUNG, NOT ONLY PRINTED: the issue of 6 August describes juniors walking home in the rain from the Shawbridge Boys' Farm, where 'some of them were singing the theme song of SUNSHINE SUSIE, while others expressed their feelings by singing \"I WISH I WAS BACK AT DEAR OLD KANAWANA\".' The first line is INVERTED between the two -- glad to be back in the printed verse, wishing to be back on a wet road eight miles out -- which is what happens to a song once boys have it. Whether Ford wrote words to an existing tune, which 'Alabama Jubilee' and 'Johnny Verbeck' both suggest was the house method, is not stated and the metre is a common one.",
+      "sources": [
+        "src_ymf_the_green_triangle_1932_07_30",
+        "src_ymf_the_green_triangle_1932_08_06"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.88",
       "added_by": "ralph_loop"
     }
   ]
