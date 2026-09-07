@@ -3702,6 +3702,13 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-07",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "The Otoreke handover year dated from a student newspaper. All 292 Georgian issues were swept by download; one carries a retirement notice for 'Mr. Mac' -- Clarence J. McGerrigle -- held about 29 September 1961, which closes a gap this article said it could not close. The two spans the 1956 report runs together are separated but not resolved, and the OCR trap that would misread an adjacent Boys Clubs executive as 'Mr. Mac' is recorded with it."
         }
       ],
       "ralph_loops_completed": 1,
@@ -3769,7 +3776,8 @@
         "f_5192",
         "f_5199",
         "f_5200",
-        "f_5246"
+        "f_5246",
+        "f_5374"
       ],
       "sources_cited": [
         "src_concordia_mirror_12c01",
@@ -3820,7 +3828,8 @@
         "src_canadian_almanac_1917_1918",
         "src_ia_ymca_national_council_bulletin_40_02",
         "src_ia_ymca_national_council_bulletin_40_03",
-        "src_umedia_ymca_yearbook_series"
+        "src_umedia_ymca_yearbook_series",
+        "src_ia_georgian_1961_10_03"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -3833,7 +3842,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 13855,
+      "word_count": 14252,
       "notes": "E1 REVIEW (2026-02-19): Removed unverifiable 'Google Maps' source and '20 km' distance claim. Expanded 'Multiple sources' citation into discrete references (Facts sheet + McMorris). Removed src_oral_aronson (no inline citation). Removed unsourced bullet. Fixed postcard inference. Fixed closure section process language. Split 1967 conference/reports sentence. Renumbered sources 1-10. Added camp-otoreke cross-link to centennial-1967. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_008 editorial-resolution narrative into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -7684,6 +7693,13 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-07",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "The Georgian question, open since 2026-07-09, answered by downloading and grepping all 292 issues. 290 carry neither camp's name; the two that do are a staff advertisement and a retirement notice, not reporting -- the paper's relationship to the camp was a labour market, not a subject. Also puts H. G. Dimock inside the association in February 1962, a year before he founded the department this article is about. The article's own claim that searching needs a human is superseded: it needs downloading, and the McGill corpus is raised as p_479."
         }
       ],
       "ralph_loops_completed": 2,
@@ -7702,13 +7718,18 @@
         "f_1411",
         "f_1412",
         "f_1903",
-        "f_1904"
+        "f_1904",
+        "f_5372",
+        "f_5373",
+        "f_5374"
       ],
       "sources_cited": [
         "src_ia_mcgill_daily",
-        "src_ia_the_georgian"
+        "src_ia_the_georgian",
+        "src_ia_georgian_1962_02_20",
+        "src_ia_georgian_1961_10_03"
       ],
-      "open_questions": 5,
+      "open_questions": 4,
       "cross_links": [
         "harold-potter",
         "hedley-dimock",
@@ -7718,7 +7739,7 @@
         "sources-index"
       ],
       "file_id": null,
-      "word_count": 985,
+      "word_count": 1382,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, corrected the Sources count in the header (was 8, actual is 9). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

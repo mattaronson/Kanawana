@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 52*
+*Status: E1-reviewed | Sources: 53*
 *Last Updated: 2026-09-07 (McGerrigle to 1961, and Colin R. McKay after him)*
 
 ## Overview
@@ -323,6 +323,32 @@ occurs nowhere else in this project**, checked by grep across the wiki, the know
 project documents and the source index before this sentence was written. He is a name and a post and
 three years; 1962 produced no hit and it was not established whether the 1962 volume is in the
 collection, so nothing is claimed about the handover year.
+
+**[HANDOVER YEAR DATED 2026-09-07, from a student newspaper.]** *The Georgian*, Sir George Williams
+University's paper, for **3 October 1961**: "A '**Farewell**' to the Y.M.C.A. Camp Otoreke director,
+'**Mr. Mac**', was held in **Budge Hall** of Central YMCA **last Friday evening** … (to whom 'Mr. Mac'
+has been '**Mr. Camp Director**' for **over 15 years**)."^53 The Friday before 3 October 1961 is about
+**29 September 1961**, so McGerrigle retired at the end of that season and **Colin R. McKay's
+appearance in the 1963 volume is the succession, not a gap**. The nickname is the association's own —
+the 1956 report above already has "Mr. and Mrs. '**Mac**'".
+
+*And it separates two spans the 1956 report runs together.* Association from **1935**, twenty-one
+years by 1956; but "Mr. Camp Director for over 15 years" reaches back from 1961 to about **1946**.
+Being associated with a camp and directing it are different things, and the two sources may be
+measuring different ones. **Nothing is resolved here**; the distinction is recorded because a reader
+adding twenty-one to 1935 will otherwise get a directorship that may never have existed.
+
+*The small things a report never carries.* **David Walker** ran the evening's programme and **Mr.
+Starkey** gave the address; the gift was a nineteen-inch console television set to McGerrigle **and
+his wife**, who the 1956 report shows had been in it with him from the beginning; and the proceeds of
+the evening — "dancing, buffet, etc." — went to the **World Services Campaign**, which "Mr. Mac has
+always been known for his terrific support of." That last connects to the 1939 World Service table
+that lists Kanawana and Otoreke as their own contributing units.^53
+
+*One trap travels with this source and is recorded so nobody repeats it.* The newspaper column
+immediately before the notice ends "Mr. V. McAdam, Executive Dir-", cut off at the column break.
+**V. McAdam is an executive of the Boys Clubs of Canada** in an unrelated story on the same page; a
+careless read of the OCR would make him "Mr. Mac".^53
 
 **Hupfield is real too, and the blog has the two men in the wrong order.** The 1947 report appoints
 "**Ronald Hupfield** Men's Programme Secretary at Southwestern Branch"; the 1950 report moves "**J. R.
@@ -892,6 +918,7 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 50. United Church of Canada, Board of Evangelism and Social Service, **Annual Report 1967, vol. 42** [src_ucc_evangelism_social_service_1967], and the McGraw-Hill and *Canadian Almanac* postal directories [src_mcgraw_hill_directory_almanac_canada_1960s, src_canadian_almanac_1917_1918]. Found 2026-09-06 by an Open Library search-inside sweep on "Otoreke"; search highlights only, none of these volumes read here. See [f_5199], [f_5200].
 51. "Note These Dates," *National Council Bulletin* Vol. 40 Nos. 2 and 3 (1967), YMCA of Canada [src_ia_ymca_national_council_bulletin_40_02, src_ia_ymca_national_council_bulletin_40_03]. Internet Archive items in the `ymca-montreal-fonds` collection. The same July entry appears in both issues. Found 2026-09-07 by the enumeration recorded at [f_5243]; read for the Otoreke line only. See [f_5246].
 52. *YMCA Year Book and Official Rosters*, the volumes for **1957** through **1965** [src_umedia_ymca_yearbook_series], read in the University of Minnesota Libraries' digitized run (ContentDM collection p16022coll351, Kautz Family YMCA Archives). Only the Quebec block of the Directory of Associations was read in each. See [f_5272].
+53. "Mr. Mac", *The Georgian* (Sir George Williams University), Vol. 25 No. 2, **3 October 1961** [src_ia_georgian_1961_10_03]. Internet Archive item `1961-10-03-georgian-vol-25-no-02`, found by downloading and grepping all 292 issues of the paper, the only route available since no index reaches this collection's contents. Quoted in full, with the adjacent column that could be misread, at `sources/cache/georgian/2026-09-07-all-292-georgian-issues-swept.txt`. See [f_5374].
 
 ## Research Notes
 

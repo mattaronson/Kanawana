@@ -11029,12 +11029,12 @@
       "cache_path": null,
       "char_count": 0,
       "ingested_at": "2026-07-09T12:00:00Z",
-      "extracted": false,
+      "extracted": true,
       "extraction_version": null,
       "reliability": "primary",
-      "notes": "200+ individual issues (vol. 1-33, covering 1936-37 and 1962-70) digitized by Concordia University Records Management and Archives. Merged with Loyola News in 1980 to form The Link. NOT yet searched for 'Kanawana' mentions -- archive.org's advancedsearch.php text: field does NOT perform true full-text OCR search (confirmed via a positive-control test using the 1969 SGW 'Computer Riot,' which the Georgian covered extensively but which also returned 0 results) -- only a human using the real browser-based search-inside feature, issue by issue, can properly search this collection.",
-      "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact"
+      "notes": "200+ individual issues (vol. 1-33, covering 1936-37 and 1962-70) digitized by Concordia University Records Management and Archives. Merged with Loyola News in 1980 to form The Link. NOT yet searched for 'Kanawana' mentions -- archive.org's advancedsearch.php text: field does NOT perform true full-text OCR search (confirmed via a positive-control test using the 1969 SGW 'Computer Riot,' which the Georgian covered extensively but which also returned 0 results) -- only a human using the real browser-based search-inside feature, issue by issue, can properly search this collection. | [SWEPT WHOLE 2026-09-07. The note above said 'NOT yet searched for Kanawana mentions' and explained that advancedsearch.php does not do true full-text search. That is still true, and so are the other two routes' failures -- the archive's own full-text APIs are unreachable from this environment and Open Library's search/inside indexes books only (f_5371) -- so the collection was searched BY DOWNLOADING IT: 292 issues, six workers, each file deleted after grepping, a few minutes in total. 290 have no occurrence of either camp's name. The two that do are an advertisement and a retirement notice, not articles about the camp, which is itself worth knowing. Per-issue method and both texts at sources/cache/georgian/2026-09-07-all-292-georgian-issues-swept.txt. See f_5372.]",
+      "read_state": "swept",
+      "read_state_basis": "swept 2026-09-07: ALL 292 TEXT ITEMS in the collection downloaded in full and grepped for Kanawana, Otoreke and two OCR variants. TWO HITS, both new and both now their own source records -- src_ia_georgian_1962_02_20 and src_ia_georgian_1961_10_03. The other 290 issues contain neither camp's name."
     },
     {
       "source_id": "src_ia_mcgill_daily",
@@ -30867,7 +30867,43 @@
       "notes": "The published record of D. L. Moody's 1888 Northfield College Students' Conference. FULLY DOWNLOADABLE, in two scans -- collegestudent00shan (the Princeton Theological Seminary copy) and collegestudentsa0000unse. Found 2026-09-07 by a quoted \"R. L. Charlton\" sweep. Its CATALOGUE OF DELEGATES lists an 'R. L. Charlton' in the General section. THE ADDRESS COLUMN CANNOT BE ALIGNED TO THE NAMES IN EITHER SCAN and the join to Kanawana's R. L. Charlton is therefore NOT made; see f_5359 for exactly why the counting fails. Only the delegate catalogue was looked at; the conference proceedings themselves are unread and would show what the Canadian delegates heard.",
       "read_state": "partial",
       "read_state_basis": "direct: both scans' full text downloaded; the General section of the catalogue of delegates read in both and the alignment tested in both and found impossible. Nothing else in either scan was read."
+    },
+    {
+      "source_id": "src_ia_georgian_1962_02_20",
+      "type": "periodical",
+      "title": "\"Summer Employment\" (Kamp Kanawana staff advertisement), The Georgian, Sir George Williams University, Vol. 25 No. 16, 20 February 1962",
+      "date": "1962-02-20",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/1962-02-20-georgian-vol-25-no-16",
+      "cache_path": "sources/cache/georgian/2026-09-07-all-292-georgian-issues-swept.txt",
+      "char_count": 73875,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v9.45",
+      "reliability": "primary",
+      "notes": "Found 2026-09-07 by downloading and grepping ALL 292 Georgian text items, the only route available: no index reaches this collection's contents (f_5371). A KANAWANA STAFF ADVERTISEMENT PLACED IN THE STUDENT NEWSPAPER, which answers an open question standing in sgw-concordia-connection.md since 2026-07-09 -- and answers it with an advertisement rather than an article, which is itself the finding. Names A. Ross Seaman, M.Ed. as Director and Dr. H. G. Dimock as Co-ordinator of staff training and development, Metropolitan YMCA; gives the 1962 season as 23 June to 25 August; offers a truck driver $300 and room and board; and sells the camp on 'a systematic process of planned group development'. THE OCR INTERLEAVES THE ADVERTISEMENT WITH THE SPORTS PAGE beside it, so it survives only in fragments; those fragments are quoted in full at the cache path. See f_5372, f_5373.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded and read 2026-09-07; the advertisement's surviving fragments quoted in full. The rest of the issue is a student newspaper and was not read."
+    },
+    {
+      "source_id": "src_ia_georgian_1961_10_03",
+      "type": "periodical",
+      "title": "\"Mr. Mac\" (retirement notice for the Camp Otoreke director), The Georgian, Sir George Williams University, Vol. 25 No. 2, 3 October 1961",
+      "date": "1961-10-03",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/1961-10-03-georgian-vol-25-no-02",
+      "cache_path": "sources/cache/georgian/2026-09-07-all-292-georgian-issues-swept.txt",
+      "char_count": 159708,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v9.45",
+      "reliability": "primary",
+      "notes": "Found by the same whole-collection sweep. A RETIREMENT NOTICE FOR CLARENCE J. McGERRIGLE, whom this project already had as Otoreke's director from the Year Book for 1951, 1953 and 1957-1961 and from the 1956 annual report's 'Mr. and Mrs. Mac'. IT DATES THE HANDOVER camp-otoreke.md says it could not date: the farewell was the Friday before 3 October 1961, so about 29 September 1961. Also gives 'Mr. Camp Director for over 15 years', which reaches back to about 1946 and may measure a different span from the 1956 report's twenty-one years of association. AN OCR TRAP IS RECORDED WITH IT: the preceding column ends 'Mr. V. McAdam, Executive Dir-', a Boys Clubs of Canada executive in an unrelated story, and a careless read would make him 'Mr. Mac'. See f_5374.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded and read 2026-09-07; the notice quoted in full, with the adjacent column that could be misread. The rest of the issue was not read."
     }
   ],
-  "source_count": 1717
+  "source_count": 1719
 }
