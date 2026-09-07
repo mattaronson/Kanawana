@@ -1,8 +1,8 @@
 {
-  "version": "10.04",
-  "kb_version": "10.04",
+  "version": "10.05",
+  "kb_version": "10.05",
   "migrated_from": "3.3",
-  "fact_count": 5500,
+  "fact_count": 5502,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99169,6 +99169,41 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5539",
+      "category": "people",
+      "date_ref": "2000-12",
+      "entities": [
+        "James Orbinski",
+        "Camp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "KANAWANA NOMINATED JAMES ORBINSKI FOR THE ASSOCIATION'S PEACE AWARD IN 2000, AND THE ENTRY DATES HIS COUNSELLOR YEARS. The Montreal YMCA's bulletin Pour votre information, December 2000, lists that year's peace-award nominations one per unit: 'DR. JAMES ORBINSKY, MIS EN CANDIDATURE PAR LE KAMP KANAWANA. Le Dr. James Orbinsky est actuellement president de Medecins sans frontieres, le plus grand organisme humanitaire medical independant du monde. Recipiendaire du Prix Nobel de la paix en 1999, IL A ETE MONITEUR AU KAMP KANAWANA AVANT DE SE JOINDRE A MSF EN 1990.' TWO THINGS FOLLOW. THE NOMINATION IS A FACT ABOUT THE CAMP as much as about him: Kanawana put him forward as its peace-maker a year after the Nobel, and the entry the association printed LEADS WITH THE CAMP CONNECTION rather than with his medicine. AND IT FIXES AN UPPER BOUND where his article had only a decade: open question 1 there records his Kanawana years as '1980s-1990s'; the parent organisation says he was a counsellor BEFORE JOINING MSF IN 1990, closing the top of the range. NO START YEAR is given by any source read so far. The bulletin quotes his Nobel speech in French as its statement of what a peace-maker is, and spells the surname 'Orbinsky' throughout. Other 2000 nominees came from YMCA Saint-Laurent and YMCA Pointe-Saint-Charles, so this was an association-wide programme and not a Kanawana one.",
+      "sources": [
+        "src_ymf_pour_votre_information_2000_12"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5540",
+      "category": "site",
+      "date_ref": "1963-06",
+      "entities": [
+        "Camp Otoreke",
+        "YMCA of Montreal"
+      ],
+      "claim": "OTOREKE LODGE HOSTED AN INTERFAITH CONFERENCE IN 1963. A Montreal YMCA news release of 14 June 1963 announces the '2ND ANNUAL CONFERENCE, CANADIAN COUNCIL OF CHRISTIANS AND JEWS, AT YMCA OTOREKE LODGE, ST. ADOLPHE DE HOWARD'. A short notice giving no programme, but it places the site in a use wiki/site/camp-otoreke.md does not otherwise document: A RENTED CONFERENCE VENUE FOR AN OUTSIDE INTERFAITH BODY, in the years that article describes it as a camp for young adults and a vacation centre. It is the same kind of use, twenty years earlier, that wiki/history/project-noosphere.md records at Kanawana itself. 'Christians and Jews' occurs nowhere else in this project.",
+      "sources": [
+        "src_ymf_news_release_1963_06_14_2"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.05",
       "added_by": "ralph_loop"
     }
   ]

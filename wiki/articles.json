@@ -3870,7 +3870,8 @@
         "src_ymf_1979_the_montreal_fact_75_79",
         "src_sgw_postgrad_1966_summer",
         "src_sgw_postgrad_1955_04",
-        "src_sgw_build_a_better_future_1952"
+        "src_sgw_build_a_better_future_1952",
+        "src_ymf_news_release_1963_06_14_2"
       ],
       "open_questions": 9,
       "cross_links": [
@@ -3883,7 +3884,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 16581,
+      "word_count": 16695,
       "notes": "E1 REVIEW (2026-02-19): Removed unverifiable 'Google Maps' source and '20 km' distance claim. Expanded 'Multiple sources' citation into discrete references (Facts sheet + McMorris). Removed src_oral_aronson (no inline citation). Removed unsourced bullet. Fixed postcard inference. Fixed closure section process language. Split 1967 conference/reports sentence. Renumbered sources 1-10. Added camp-otoreke cross-link to centennial-1967. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_008 editorial-resolution narrative into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -8556,7 +8557,8 @@
         "src_wikipedia_orbinski",
         "src_ymca_pip_orbinski",
         "src_ymca_pip_orbinski_2024",
-        "src_ymca_quebec_pip_orbinski_2024"
+        "src_ymca_quebec_pip_orbinski_2024",
+        "src_ymf_pour_votre_information_2000_12"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -8565,7 +8567,7 @@
         "john-cleghorn"
       ],
       "file_id": null,
-      "word_count": 463,
+      "word_count": 828,
       "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. Public figure (Nobel Peace Prize acceptance on behalf of MSF, Order of Canada) -- no new research conducted, synthesizes already-cited facts.",
       "tags": {
         "era": [

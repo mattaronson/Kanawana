@@ -1,7 +1,7 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 58*
-*Last Updated: 2026-09-07 (Hupfield twice over, Sallery for 1966, the 1979 linguistic assignment, and the 1952 donor map)*
+*Status: E1-reviewed | Sources: 59*
+*Last Updated: 2026-09-07 (Otoreke Lodge as an interfaith conference venue in 1963)*
 
 ## Overview
 
@@ -957,6 +957,14 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 
 *A note on proportion.* The songbook runs to 64,000 characters and **five lines of it are about the camp**. The rest is the general repertoire of Canadian community singing in 1941 — "There'll Always Be an England", Kipling's "Mandalay" — and is not extracted here. The book had been in this repo's cache, labelled *skimmed*, cited by nothing.^28
 
+**Otoreke Lodge hosted an interfaith conference in 1963.** A Montreal YMCA news release of 14 June
+1963 announces the "**2nd Annual Conference, Canadian Council of Christians and Jews, at YMCA Otoreke
+Lodge, St. Adolphe de Howard**."^59 It is a short notice and gives no programme, but it places the
+site in a use this article does not otherwise document: a **rented conference venue for an outside
+interfaith body**, in the years the article describes it as a camp for young adults and a vacation
+centre. It is the same kind of use, twenty years earlier, that
+[[history/project-noosphere|Project Noosphere]] records at Kanawana itself.
+
 ## Open Questions
 
 1. [Important, **new 2026-09-07**] **What was "Otoreke School, Que."?** *The Postgrad* of Easter 1955 lists it among nine Canadian schools and colleges at a Montreal model UN, beside Assumption College and the Royal Military College.^57 Nothing in this project knows of such a school. Try: Quebec school directories for 1954-55, the YWCA's own record of the event, Montreal newspaper coverage of a model Security Council in February 1955, and the Otoreke rental and conference files in Concordia's Fonds P145 sub-series for those years.
@@ -1039,6 +1047,7 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 56. "The Montreal Fact '75-'79", the YMCA of Montreal's four-year linguistic-policy review [src_ymf_1979_the_montreal_fact_75_79]. Cached at `sources/cache/ymca-montreal-fonds/2026-09-07-the-montreal-fact-75-79-linguistic-policy.txt`. See [f_5436].
 57. *The Postgrad* (Sir George Williams University alumni magazine), Vol. 22 No. 2, Summer 1966 [src_sgw_postgrad_1966_summer]; and Vol. 11 No. 1, Easter 1955 [src_sgw_postgrad_1955_04]. Transcribed in the relevant part at `sources/cache/sgw-publications/2026-09-07-postgrad-alumni-notes-1955-1966.txt`. Found by the accounted sweep of `rma-concordia-publications` under p_479. See [f_5442], [f_5444].
 58. "Build A Better Future" — Sir George Williams College building-fund prospectus, 1952 [src_sgw_build_a_better_future_1952]. The camp names are labels on a map captioned "Here is your Y.M.C.A. of Greater Montreal", not prose; transcribed with that caveat at `sources/cache/sgw-publications/2026-09-07-build-a-better-future-1952-map.txt`. See [f_5445].
+59. YMCA news release, **14 June 1963** [src_ymf_news_release_1963_06_14_2]. Cached at `sources/cache/ymca-montreal-fonds/news-release-1963-06-14-2.txt`; read word for word 2026-09-07 under p_482.
 
 ## Research Notes
 

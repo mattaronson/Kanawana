@@ -4248,3 +4248,25 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   a third time.
   NEW: facts 5498 -> 5500 (f_5537, f_5538); kb 10.03 -> 10.04. Verify green.
   Timestamp read from `date -u` in its own call.
+
+2026-09-07T11:30Z  p_482: Kanawana nominated a Nobel laureate as its peace-maker.
+  The association's staff bulletin of December 2000 lists that year's peace-award
+  nominations, one per unit. Beside a community organiser from YMCA Saint-Laurent and
+  a women's coalition from Pointe-Saint-Charles: "DR. JAMES ORBINSKY, MIS EN
+  CANDIDATURE PAR LE KAMP KANAWANA... Recipiendaire du Prix Nobel de la paix en 1999,
+  IL A ETE MONITEUR AU KAMP KANAWANA AVANT DE SE JOINDRE A MSF EN 1990."
+  TWO THINGS. The nomination is a fact about the camp as much as the man: Kanawana
+  put him forward as its peace-maker a year after the Nobel, and the entry the
+  association printed LEADS WITH THE CAMP CONNECTION rather than with his medicine.
+  And it FIXES AN UPPER BOUND where his article had only a decade -- open question 1
+  there gives his Kanawana years as "1980s-1990s"; the parent organisation says he
+  was a counsellor before joining MSF in 1990. No start year from any source yet.
+  The question is amended rather than closed.
+  ALSO: Otoreke Lodge hosted the 2nd Annual Conference of the CANADIAN COUNCIL OF
+  CHRISTIANS AND JEWS in June 1963 -- a rented conference venue for an outside
+  interfaith body, which camp-otoreke.md does not otherwise document, and the same
+  kind of use project-noosphere.md records at Kanawana twenty years later.
+  ONE MORE READ AND RECORDED AS PRODUCING NOTHING: the 1965 release naming Colin
+  McKay as Director of Camp Otoreke, who is already held.
+  NEW: facts 5500 -> 5502 (f_5539, f_5540); kb 10.04 -> 10.05. Verify green.
+  Timestamp read from `date -u` in its own call.
