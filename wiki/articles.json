@@ -6507,6 +6507,13 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-07",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "A 1993 McGill Daily review of 'Spirit Rhythm', a Montreal dance and music show made by a collective of Kanawana people, quotes Day on his own camp work in the past tense twelve years before the directorship and names the 'earth values' programme. Found by the whole-corpus McGill sweep. The naturalist he worked with is not named and the article says so."
         }
       ],
       "ralph_loops_completed": 3,
@@ -6532,9 +6539,13 @@
         "f_0990",
         "f_0991",
         "f_0992",
-        "f_1797"
+        "f_1797",
+        "f_5376",
+        "f_5377"
       ],
-      "sources_cited": [],
+      "sources_cited": [
+        "src_mcgill_daily_1993_11_25"
+      ],
       "open_questions": 3,
       "cross_links": [
         "directors-index",
@@ -6544,7 +6555,7 @@
         "stuart-mclean"
       ],
       "file_id": null,
-      "word_count": 1860,
+      "word_count": 2184,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical, moved the c_017 editorial-resolution narrative into a new Research Notes > Revision History section, fixed two Sources entries (13, 14) that still labeled the conflict 'unresolved', and fixed Open Questions numbering (was out of sequence: 1, 5, 2, 3, 4). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

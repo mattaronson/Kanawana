@@ -1,11 +1,30 @@
 # Sean Day
 
-*Status: E1-reviewed | Sources: 15*
+*Status: E1-reviewed | Sources: 16*
 *Last Updated: 2026-07-10*
 
 ## Overview
 
 Sean Day served as Director of Camp YMCA Kanawana and Regional Director of Camps for the Quebec YMCAs from 2005 (per editorial resolution of conflict c_017 — see Titles and Scope, below) to April 2023.^1 ^2 ^13 ^14 He grew up at Camp Kanawana and rose from camper to counsellor to director, holding a dual institutional role overseeing both the individual camp and the broader YMCA Quebec camping system.^2 ^3 His directorship spanned several defining periods, including the Stuart McLean partnership, a camp revitalization effort, the COVID-19 pandemic, and post-pandemic staffing challenges. He also served as spokesperson for the Quebec Camping Association (Association des camps du Québec).^4
+
+**And there is one document of him before any of that, speaking for himself.** *The McGill Daily*'s
+culture section for **25 November 1993** reviewed "Spirit Rhythm", an evening of contemporary dance
+and music at the Hive, a Montreal warehouse loft — a collective of eight of whom "**the majority …
+know each other from Camp Kanawana near St. Sauver**", performing music by Day and Hartley Wynberg,
+with Alorani Martin among the dancers and choreographers. Day is quoted on where the songs came from:
+
+> "A lot of my songs are about the earth. **I used to work with a naturalist, mostly in Kanawana. We
+> used to do an 'earth values' program**, and I think the other people who worked on the show are on
+> the same wavelength as far as those things go."^16
+
+*Three things follow, and one of them is a caution.* It puts his camp work **in the past tense in
+1993**, twelve years before the directorship this article dates from 2005 — the "grew up at Kanawana"
+above is documented here rather than only reported. It puts the phrase "**earth values**" **at the
+camp in or before 1993**, which matters because this wiki knows it only from the other end, as the
+name of [[traditions/environmental-history|Chris Adam's later Earthvalues Institute]]; the phrase was
+at Kanawana first. **And the naturalist is not named.** Chris Adam is the obvious candidate — he built
+the camp's Nature Awareness programme in 1980 and is the naturalist this project knows — but Day does
+not name him, and nothing here does. *That is a strong reading and not a document.*^16
 
 ## Early Connection to Kanawana
 
@@ -86,6 +105,7 @@ Day became Director of Fund Development at **Tyndale St-Georges Community Centre
 13. Montreal YMCA annual reports, 2007 and 2008 editions (Wayback Machine). Senior Management listings: Francois Dauphin as "Directeur YMCA Kanawana" (2007 report); Sean Day first appearing in that role (2008 report). One side of conflict c_017, resolved editorially in favour of the other (source 14) -- see Revision History.
 14. ymcakanawana.com, "Pour nous joindre" contact page, Wayback Machine snapshots 2005-12-16 through 2007-12-28. Names "Sean Day, directeur du camp estival et des programmes" continuously across five snapshots; no mention of Francois Dauphin. The side of conflict c_017 favoured in the editorial resolution -- see Revision History.
 15. Camp YMCA Kanawana Facebook page, 120th-anniversary post (September 5, 2014). Labels Day "directeur du camp YMCA Kanawana"; content only partially extractable due to Facebook's mobile wrapper.
+16. Julie Crysler, "Do it yourself, environmental style: Contemporary dance and music at the Hive", *The McGill Daily* (Culture), Vol. 83 No. 46, **25 November 1993** [src_mcgill_daily_1993_11_25]. Internet Archive item `McGillLibrary-mcgill-daily-culture-v83-n046-november-25-1993-13865`, found by a whole-corpus sweep of the McGill student publications, since no index reaches their contents. Quoted in full at `sources/cache/mcgill/2026-09-07-spirit-rhythm-1993.txt`. See [f_5376], [f_5377].
 
 ## Research Notes
 

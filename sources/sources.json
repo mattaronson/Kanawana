@@ -30903,7 +30903,25 @@
       "notes": "Found by the same whole-collection sweep. A RETIREMENT NOTICE FOR CLARENCE J. McGERRIGLE, whom this project already had as Otoreke's director from the Year Book for 1951, 1953 and 1957-1961 and from the 1956 annual report's 'Mr. and Mrs. Mac'. IT DATES THE HANDOVER camp-otoreke.md says it could not date: the farewell was the Friday before 3 October 1961, so about 29 September 1961. Also gives 'Mr. Camp Director for over 15 years', which reaches back to about 1946 and may measure a different span from the 1956 report's twenty-one years of association. AN OCR TRAP IS RECORDED WITH IT: the preceding column ends 'Mr. V. McAdam, Executive Dir-', a Boys Clubs of Canada executive in an unrelated story, and a careless read would make him 'Mr. Mac'. See f_5374.",
       "read_state": "extracted",
       "read_state_basis": "direct: full djvu text downloaded and read 2026-09-07; the notice quoted in full, with the adjacent column that could be misread. The rest of the issue was not read."
+    },
+    {
+      "source_id": "src_mcgill_daily_1993_11_25",
+      "type": "periodical",
+      "title": "Julie Crysler, \"Do it yourself, environmental style: Contemporary dance and music at the Hive\", The McGill Daily (Culture), Vol. 83 No. 46, 25 November 1993",
+      "date": "1993-11-25",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/McGillLibrary-mcgill-daily-culture-v83-n046-november-25-1993-13865",
+      "cache_path": "sources/cache/mcgill/2026-09-07-spirit-rhythm-1993.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v9.47",
+      "reliability": "primary",
+      "notes": "Found by the whole-corpus sweep of 9,890 McGill student publication items under p_479 -- no index reaches this collection's contents (f_5371), so it was downloaded. A REVIEW OF A MONTREAL DANCE AND MUSIC SHOW MADE BY KANAWANA PEOPLE: 'the majority of the members of the as yet unnamed collective know each other from Camp Kanawana near St. Sauver [sic]'. Its value is a quotation from SEAN DAY -- Kanawana's director from 2005 to 2023 -- speaking in 1993, twelve years before that directorship, about what he did at the camp: 'I used to work with a naturalist, mostly in Kanawana. We used to do an \"earth values\" program.' Also names Alorani Martin and Hartley Wynberg, neither of whom occurs anywhere else in this project. See f_5376, f_5377.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded and the passage read and quoted in full 2026-09-07. The rest of the issue is a student newspaper's culture section and was not read."
     }
   ],
-  "source_count": 1719
+  "source_count": 1720
 }
