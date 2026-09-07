@@ -30359,7 +30359,71 @@
       "extraction_version": "8.78",
       "reliability": "tertiary",
       "notes": "A finding aid compiled here, not a source of camp facts. 942 items; 458 already held; 484 not, of which 437 are city-branch photographs and 47 are texts. Carries the list of the 47 and the filename trap."
+    },
+    {
+      "source_id": "src_ia_ymca_national_council_bulletin_36_04",
+      "type": "periodical",
+      "title": "National Council Bulletin, Volume 36, Number 4 (October 1962), YMCA of Canada",
+      "date": "1962-10",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/national-council-bulletin-vol-36-no-04",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-07T00:40:00Z",
+      "extracted": true,
+      "extraction_version": "8.79",
+      "reliability": "primary",
+      "notes": "In the Internet Archive's ymca-montreal-fonds collection. Read 2026-09-07 under p_462 for its camp mentions only; the rest of the issue is not read. The item's plain text is named after its title, not its identifier."
+    },
+    {
+      "source_id": "src_ia_ymca_national_council_bulletin_40_02",
+      "type": "periodical",
+      "title": "National Council Bulletin, Volume 40, Number 2 (1967), YMCA of Canada",
+      "date": "1967",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/national-council-bulletin-vol-40-no-02",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-07T00:40:00Z",
+      "extracted": true,
+      "extraction_version": "8.79",
+      "reliability": "primary",
+      "notes": "In the Internet Archive's ymca-montreal-fonds collection. Read 2026-09-07 under p_462 for its camp mentions only; the rest of the issue is not read. The item's plain text is named after its title, not its identifier."
+    },
+    {
+      "source_id": "src_ia_ymca_national_council_bulletin_40_03",
+      "type": "periodical",
+      "title": "National Council Bulletin, Volume 40, Number 3 (1967), YMCA of Canada",
+      "date": "1967",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/national-council-bulletin-vol-40-no-03",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-07T00:40:00Z",
+      "extracted": true,
+      "extraction_version": "8.79",
+      "reliability": "primary",
+      "notes": "In the Internet Archive's ymca-montreal-fonds collection. Read 2026-09-07 under p_462 for its camp mentions only; the rest of the issue is not read. The item's plain text is named after its title, not its identifier."
+    },
+    {
+      "source_id": "src_ia_ymca_montreal_news_bulletin_15_01",
+      "type": "periodical",
+      "title": "The News Bulletin, Volume 15, Number 1 (1939), YMCA of Montreal",
+      "date": "1939",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/the-news-bulletin-vol-15-no-01",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-07T00:40:00Z",
+      "extracted": true,
+      "extraction_version": "8.79",
+      "reliability": "primary",
+      "notes": "In the Internet Archive's ymca-montreal-fonds collection. Read 2026-09-07 under p_462 for its camp mentions only; the rest of the issue is not read. The item's plain text is named after its title, not its identifier."
     }
   ],
-  "source_count": 1687
+  "source_count": 1691
 }

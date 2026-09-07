@@ -1,6 +1,6 @@
 # Directors and Staff of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 56*
+*Status: E1-reviewed | Sources: 57*
 *Last Updated: 2026-09-06 (who chaired Boys' Camping, 1955 to 1958)*
 
 ## Summary
@@ -407,6 +407,12 @@ That dates a succession this index had only one end of. Mackey was already docum
 
 These were lay chairmen, not paid camp directors, and the same two reports' staff-change lists add nothing to the paid line — the R. D. Locke transfer of 1 September 1954, Murray Shantz's appointment a fortnight later, Locke's 1955 resignation "in order to enter business," and A. R. Seaman succeeding Shantz as "Metropolitan Program Secretary, Secretary and Director of Boys' Camping" are all already recorded in the individual articles.
 
+### A 1962 arrival, from the national staff-changes column
+
+**F. William Halliday came from Calgary in 1962 with Kanawana in his brief.** The *National Council Bulletin* for October 1962, listing YMCA staff moves across the country, records: "**F. William Halliday, from Calgary to Ass't and Camp Kanawana, Montreal-North Mount.**"^57 So the Montreal association's **Northmount** branch took on a man from Calgary whose post carried the camp, in a year this index otherwise has nothing for. He appears nowhere else in this project.
+
+*Two cautions travel with him.* The entry does not say what "Ass't" abbreviates — Assistant Secretary is the likeliest of several — how long he stayed, or whether he directed anything at the camp; it is a national list of moves, not a Montreal roster. And **the surname is a trap**: "Halliday" occurs fifty-one times in this project's knowledge base as **Ferna Halliday** of the Ontario girls'-camping world, who appears alongside Ethel Statten, with a Graham Halliday as a third. Nothing connects the three and no relationship should be read into the name.
+
 ### The 1980 Season
 
 The May 1980 issue of *Ka-News* provides the most complete modern staff snapshot. Under director "Dave," the staff included Nancy Sawyer (Assistant Director), Julian and Yves (maintenance), Chris Adams of Vanier (nature program), Dave O'Donnell (Master Canoeist), Kevin Forster (who later became Director of Camp Glenburn, New Brunswick), Dave Bennett, Dave Scammell, Bob Woodhouse, Sue Armstrong, Jeff Surette, Johanna, Doug Peets, Rosemary, Lynn Pryer, Steve Wells, Kitti Luce, and Lisa Crocker.^6
@@ -628,6 +634,7 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 54. Montreal YMCA news releases of **25 September** and **14 October 1964** [src_ymf_news_release_1964_09_25, src_ymf_news_release_1964_10_14] — the printed letterhead only; both are nulls for Kanawana content. Read 2026-09-06 under p_451. See [f_5106].
 55. YMCA of Montreal annual reports for the years ending 31 March 1925 and 31 March 1926 [src_ymf_sgw_ymca_annual_report_1925, src_ymf_sgw_ymca_annual_report_1926], covering the camping seasons of 1924 and 1925. Read 2026-09-06 under p_454.
 56. YMCA of Montreal annual report for the year ending 30 April 1922 [src_ymf_sgw_ymca_annual_report_1921_1922], the "Camps" section — its fourth entry, the Militia Cadet Camp at Pointe aux Trembles. Read 2026-09-06 under p_454. See [f_5171].
+57. "Staff Changes," *National Council Bulletin* Vol. 36 No. 4 (October 1962), YMCA of Canada [src_ia_ymca_national_council_bulletin_36_04]. Internet Archive item `national-council-bulletin-vol-36-no-04`, in the `ymca-montreal-fonds` collection. Found 2026-09-07 by the enumeration recorded at [f_5243]; read for its Kanawana line only. See [f_5245].
 
 ## Research Notes
 

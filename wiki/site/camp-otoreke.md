@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 50*
+*Status: E1-reviewed | Sources: 51*
 *Last Updated: 2026-09-06 (the camp's 1956 purchase of ninety mainland acres, the first acreage figure this article has had)*
 
 ## Overview
@@ -720,6 +720,12 @@ That bears on Open Question 2 below: the three islands are **not identifiable by
 record**. Whether Île Christie is one of them is not established here, and this article does not assume
 it.
 
+## On the national calendar, July 1967
+
+**In Canada's centennial summer the national YMCA put Otoreke on its list of the year's fixtures.** The *National Council Bulletin*'s "Note These Dates" carries, at **July 9-15**: "**So-Ed Youth Cultural Exchange, Otoreke, Montreal, P.Q.**" — printed in two consecutive issues, in the same week and the same wording.^51 Its neighbours on that calendar are the movement's national fixtures: National YMCA Boys' and Girls' Physical Leaders Training at **Geneva Park**, the International Summer Institute, the Canadian Institute on Public Affairs, and the **Pan-American Games** at Winnipeg. A Quebec camp sitting in that company is worth noticing; Geneva Park is the movement's own national training centre.
+
+**So-Ed** is the YMCA's Social-Educational programme, and neither it nor "Youth Cultural Exchange" occurs anywhere else in this project. *A calendar announces rather than reports*, so who came, from where, and whether it happened at all are unknown here. The timing is the part worth holding on to: Kanawana's own [[history/centennial-1967|Voyageurs de la Vérendrye centenary journey]] ran that same summer, so the association was mounting two differently framed youth events at its two camps in the same weeks.
+
 ## Relationship to Kanawana
 
 Camp Otoreke remained connected to Kanawana as an outpost and trip destination throughout its history:
@@ -875,6 +881,7 @@ Elsewhere in the same book, a local verse is fitted into the widely sung "You ca
 48. YMCA of Montreal annual reports for the years ending 31 March **1931**, **1941** and **1942** [src_ymf_sgw_ymca_annual_report_1931, src_ymf_sgw_ymca_annual_report_1941, src_ymf_sgw_ymca_annual_report_1942] — the Camp Otoreke paragraphs, the ski lodge item and the statistical summaries, covering the summers of 1930, 1940 and 1941. Read 2026-09-06 under p_454. See [f_5190], [f_5191].
 49. YMCA of Montreal annual report for **1969** [src_ymf_sgw_ymca_annual_report_1969], the Camp Otoreke item, **both columns** — the French names a neighbourhood the English does not. Read 2026-09-06 under p_454. See [f_5192].
 50. United Church of Canada, Board of Evangelism and Social Service, **Annual Report 1967, vol. 42** [src_ucc_evangelism_social_service_1967], and the McGraw-Hill and *Canadian Almanac* postal directories [src_mcgraw_hill_directory_almanac_canada_1960s, src_canadian_almanac_1917_1918]. Found 2026-09-06 by an Open Library search-inside sweep on "Otoreke"; search highlights only, none of these volumes read here. See [f_5199], [f_5200].
+51. "Note These Dates," *National Council Bulletin* Vol. 40 Nos. 2 and 3 (1967), YMCA of Canada [src_ia_ymca_national_council_bulletin_40_02, src_ia_ymca_national_council_bulletin_40_03]. Internet Archive items in the `ymca-montreal-fonds` collection. The same July entry appears in both issues. Found 2026-09-07 by the enumeration recorded at [f_5243]; read for the Otoreke line only. See [f_5246].
 
 ## Research Notes
 

@@ -1,8 +1,8 @@
 {
-  "version": "8.78",
-  "kb_version": "8.78",
+  "version": "8.79",
+  "kb_version": "8.79",
   "migrated_from": "3.3",
-  "fact_count": 5206,
+  "fact_count": 5208,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93872,11 +93872,51 @@
       ],
       "claim": "THE CAMPS WERE THEIR OWN FUNDRAISING UNITS IN THE NATIONAL YMCA'S OVERSEAS PROGRAMME. A sample of nine of the forty-seven unread texts was pulled to test whether the run is worth reading. It is. The News Bulletin, Volume 15 Number 1 (1939), prints 'WORLD SERVICE OBJECTIVES SUGGESTED FOR 1939 (As Approved by The Council)' -- a national list of Canadian associations and their World Service objectives -- and under Montreal it lists, as separate line items: Metropolitan, [Central], Westmount, Southwestern, Eastern Community, Point St. Charles, CAMP KANAWANA, Sir George Williams College, CAMP OTOREKE, Lachine. So the two camps carried their own World Service objectives alongside the city branches and the college, which makes each camp a contributing unit of the national association's overseas programme rather than a line inside the Boys' Work budget. THE AMOUNTS ARE NOT GIVEN HERE AND MUST NOT BE GUESSED: the OCR puts the names in one column run and the figures in another, so no name is safely matched to a number from this scan. 'World Service' occurs three times in this project's KB and in one article, none of it about the camps. TWO OTHER RESULTS FROM THE SAME SAMPLE, both negative and both worth having: CANADIAN MANHOOD (1914-1919) is the association's WARTIME magazine and its 'camp' content is MILITARY camps -- 45 hits in one 1915 issue and 71 in a 1917 issue, all of that kind -- so it is a source for the war and not for the summer camp; and the 1874 annual report contains the word 'camp' zero times, twenty years before the camp existed, which is what it should do and confirms the search is working.",
       "sources": [
+        "src_ia_ymca_montreal_news_bulletin_15_01",
         "src_ia_ymca_montreal_fonds_enumeration_2026"
       ],
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.78",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5245",
+      "category": "people",
+      "date_ref": "1962",
+      "entities": [
+        "F. William Halliday",
+        "Kamp Kanawana",
+        "YMCA of Montreal",
+        "Northmount Branch",
+        "Calgary"
+      ],
+      "claim": "A NAMED KANAWANA STAFF APPOINTMENT OF 1962, FROM THE NATIONAL YMCA'S OWN STAFF-CHANGES COLUMN. The National Council Bulletin for October 1962 lists, among moves across the country: 'F. William Halliday, from Calgary to Ass't and Camp Kanawana, Montreal-North Mount.' So a man came from the Calgary association to the Montreal YMCA's NORTHMOUNT branch in 1962 with Camp Kanawana as part of his brief. THIS FALLS INSIDE THE 1947-2003 DIRECTORIAL GAP this project has been filling name by name, and F. William Halliday occurs nowhere in it. CAREFUL WITH THE SURNAME: 'Halliday' occurs fifty-one times in this KB and is a DIFFERENT PERSON -- Ferna Halliday, of the Ontario girls'-camping world, who appears with Ethel Statten; Graham Halliday is a third. Nothing here connects the three and no relationship should be assumed. WHAT THE ENTRY DOES NOT SAY: what 'Ass't' abbreviates (Assistant Secretary is the likeliest of several), how long he stayed, or whether he directed anything at the camp. The column is a national list of staff moves, not a Montreal roster.",
+      "sources": [
+        "src_ia_ymca_national_council_bulletin_36_04"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.79",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5246",
+      "category": "programs",
+      "date_ref": "1967",
+      "entities": [
+        "Camp Otoreke",
+        "YMCA of Canada",
+        "So-Ed"
+      ],
+      "claim": "CAMP OTOREKE HOSTED A NATIONAL YMCA EVENT IN JULY 1967, LISTED IN THE NATIONAL CALENDAR TWICE. The National Council Bulletin's 'Note These Dates' calendar for 1967 carries, at JULY 9-15: 'So-Ed Youth Cultural Exchange, Otoreke, Montreal, P.Q.' It appears in Volume 40 Numbers 2 and 3, in the same week and the same wording, among the year's national fixtures -- National YMCA Boys' and Girls' Physical Leaders Training at Geneva Park, the International Summer Institute, the Canadian Institute on Public Affairs, and the Pan-American Games at Winnipeg. SO A QUEBEC YMCA CAMP WAS ON THE NATIONAL CALENDAR IN CANADA'S CENTENNIAL SUMMER, alongside Geneva Park, which is the movement's own national training centre. 'So-Ed' is the YMCA's Social-Educational programme and OCCURS NOWHERE ELSE IN THIS PROJECT; nor does 'Youth Cultural Exchange'. WHAT IS NOT ESTABLISHED: who came, from where, or whether it happened -- a calendar announces rather than reports. The centennial year matters here: Kanawana's own Voyageurs de la Verendrye centenary journey ran that summer, and the association was running a second, differently framed international youth event at its other camp in the same weeks.",
+      "sources": [
+        "src_ia_ymca_national_council_bulletin_40_02",
+        "src_ia_ymca_national_council_bulletin_40_03"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.79",
       "added_by": "ralph_loop"
     }
   ]
