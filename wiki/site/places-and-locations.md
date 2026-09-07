@@ -1,6 +1,6 @@
 # Places and Locations at Camp Kanawana
 
-*Status: E1-reviewed | Sources: 30*
+*Status: E1-reviewed | Sources: 31*
 *Last Updated: 2026-09-07 (the three section names two years earlier, from the 1936 CFCF script)*
 
 ## Overview
@@ -295,6 +295,33 @@ Fourteen drawings in total, all client = YMCA, location = Saint-Sauveur-des-Mont
 
 A new hospital building was erected in 1922, which "assures comfortable quarters should any boy become ill" [src_brochure_1922]. The 1923 brochure describes it as "a well equipped hospital building where any sick are taken care of" [src_brochure_1923]. Whether the original hospital building still exists or has been replaced is unknown. The Ross & Macdonald "Doctor's Cottage" architectural drawings (above) may refer to this building or an earlier structure.
 
+### The 1936 cabins are in this wiki three times under three names
+
+The building table above says **Bantam**. [[site/the-kanawana-site|The Kanawana Site]] says the first
+**Juvenile** cabins went up that year. And the association's annual report on the same season says
+"at Camp Kanawana, sleeping cabins were erected **for the junior section**, at a cost of
+**$1,250.00**" — with "at Camp Otoreke, two sleeping cabins and a new wharf, etc., … costing
+**$750.00**" in the same sentence.^31 Both costs are new here.
+
+**The third name is the awkward one**, because the camp's own 1936 broadcast settles its sections
+explicitly and in that very year: "The boys in the **Senior and Junior** sections sleep in **tents**,
+each of which is pitched on high dry wooden platforms. The boys in the **Juvenile** section, those under
+twelve years of age, sleep in **cabins which are being erected new this year**." So the camp puts
+Juniors under canvas and Juveniles in the new cabins, and the association says the cabins were for the
+Juniors. They are not using the word the same way.
+
+**The likeliest reading, offered as one:** the annual report is written for subscribers and uses
+"junior" loosely for the younger boys, where the script uses the camp's own three-section vocabulary
+precisely. It cannot be settled from these documents, and the alternatives — cabins for both sections,
+or a mistake in the report — are not excluded. The year, the build and the cost are not in doubt.
+
+**The three labels also come from three different moments**, which explains the spread without anyone
+being careless. *Juvenile* is contemporary and from the camp. *Junior* is contemporary and from the
+association. ***Bantam* is retrospective**, from the 1951 camp history, applying a section name this
+project can only attest later — the 1958 report still speaks of "new cabins erected in the Bantam
+section." A history written in 1951 naming a 1936 building after whoever slept in it by 1951 is ordinary,
+and is not evidence about 1936.
+
 ### Outdoor Chapel
 
 The outdoor chapel was in use by at least 1922, when the brochure describes "Sunday services in the open-air chapel" [src_brochure_1922]. The first service of the 1935 season was held on June 30 in "our beautiful open air chapel" [src_history_1935]. By 1938, Benny Leshley, organist of Christ Church Cathedral in Montreal, had organized a choir at the chapel to lead singing [src_green_triangle_1938]. The chapel was located near the Council Ring — the Council Ring was described as being "between the cabins and the chapel" [f_0232]. Whether the outdoor chapel remains in active use in its historic location is undocumented.
@@ -436,7 +463,7 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 | 1927 | Totem pole and teepee added to Council Ring under Harold Cross | [f_0233, f_0234] |
 | **1928** | Council Ring enlarged and rebuilt to seat 325, under **Karol Perry**. *Corrected from 1929 on 2026-08-14: the annual report describing it is the 1929 one, which covers the 1928 season; the 1932 Green Triangle independently attributes the work to 1928* | ^21 |
 | **1932** | Council Ring **completely rebuilt** with stronger foundations under **Jim Carnegie** | ^21 |
-| **1936** | Bantam cabins erected | ^21 |
+| **1936** | Sleeping cabins erected, **$1,250** — called **Bantam** cabins here (1951 history), **Juvenile** cabins by the camp's own 1936 script, and built "for the junior section" by the 1937 annual report. One build, three names; see below | ^21 ^31 |
 | **1938** | Water system and latrines constructed | ^21 |
 | **1939** | Showers installed | ^21 |
 | **1942** | Junior cabins built and fourteen new tent platforms constructed for Intermediate and Senior campers; in the fall, seven new open-sided Junior cabins under Ross Wiggs, contracted to **E. C. Page** | ^21 |
@@ -552,3 +579,4 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 28. *The Green Triangle*, **9**, **16 July** and **6 August 1938** [src_ymf_the_green_triangle_1938_07_09, src_ymf_the_green_triangle_1938_07_16, src_ymf_the_green_triangle_1938_08_06]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 29. "Kamp Kanawana Broadcast — Station CFCF," 1936 script [src_ymf_1936_kamp_kanawana_broadcast_station_cfcf], cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07. See [f_5605].
 30. YMCA of Montreal annual report for the year ending 31 March **1934** [src_cache_sgw_ymca_annual_report_1934], on the **1933** season: the chapel rebuilt by **15** boys, the **two hundred** at the dedication, the **$1,386.33** deficit and **W. H. Spearman** again in charge. At [f_5646], which also carries the **1926** hike list naming **Becsis** among eight destinations [src_ymf_sgw_ymca_annual_report_1927].
+31. YMCA of Montreal annual report for the year ending 31 March **1937** [src_cache_sgw_ymca_annual_report_1937], on the **1936** season: "at Camp Kanawana, sleeping cabins were erected for the junior section, at a cost of **$1,250.00**; at Camp Otoreke, two sleeping cabins and a new wharf, etc., were built, costing **$750.00**." The three names this one build carries across three documents, and why the **1937** report's "junior" sits badly against the **1936** CFCF script [src_ymf_1936_kamp_kanawana_broadcast_station_cfcf], are at [f_5647].

@@ -1,8 +1,8 @@
 {
-  "version": "10.59",
-  "kb_version": "10.59",
+  "version": "10.60",
+  "kb_version": "10.60",
   "migrated_from": "3.3",
-  "fact_count": 5608,
+  "fact_count": 5609,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101087,6 +101087,27 @@
       "date_ref": "1926-1933",
       "conflicts_with": [],
       "added_version": "10.59",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5647",
+      "claim": "ONE CABIN BUILD IN 1936, THREE DOCUMENTS, THREE SECTION NAMES, AND ONE OF THEM CONTRADICTS THE CAMP'S OWN SCRIPT FROM THAT YEAR. Found under p_491 in the report for the year ending 31 March 1937, one of five 1930s volumes that p_454's read list does not include.\n\nTHE NEW DOCUMENT: 'The buildings and properties of the Association were well maintained, the major items of expenditure having been as follows: AT CAMP KANAWANA, SLEEPING CABINS WERE ERECTED FOR THE JUNIOR SECTION, AT A COST OF $1,250.00; AT CAMP OTOREKE, TWO SLEEPING CABINS AND A NEW WHARF, ETC., WERE BUILT, COSTING $750.00.' Both costs are new to this project.\n\nTHE SAME BUILD IS ALREADY IN THE WIKI TWICE, UNDER TWO OTHER NAMES, IN TWO ARTICLES THAT DO NOT REFERENCE EACH OTHER. site/places-and-locations.md's building chronology has, at 1936, 'BANTAM cabins erected', from the 1951 camp history. site/the-kanawana-site.md has 'the first JUVENILE cabins went up in 1936', from the 1936 CFCF broadcast script (f_5605). Now a third: the JUNIOR section.\n\nAND THE THIRD IS THE PROBLEM, because the CFCF script settles the sections explicitly and in the same year: 'The boys in the SENIOR AND JUNIOR sections sleep in TENTS, each of which is pitched on high dry wooden platforms. The boys in the JUVENILE section, those under twelve years of age, sleep in CABINS WHICH ARE BEING ERECTED NEW THIS YEAR.' So in 1936 the camp's own broadcast puts Juniors under canvas and Juveniles in the new cabins, and the association's annual report for the same season says the cabins were for the Junior section. THEY CANNOT BOTH BE USING THE WORD THE SAME WAY.\n\nTHE LIKELIEST READING, offered as one: the annual report is written for subscribers rather than for the camp, and uses 'junior' loosely for the younger boys, where the script uses the camp's own three-section vocabulary precisely. THE ALTERNATIVE cannot be ruled out from these documents -- that cabins went up for both sections, or that the report is simply wrong. WHAT IS NOT IN DOUBT is the year, the fact of the build and the cost.\n\nTHE THREE LABELS COME FROM THREE DIFFERENT MOMENTS, which is worth stating because it explains the spread without anybody being careless: JUVENILE is contemporary and from the camp (1936 script), JUNIOR is contemporary and from the association (1937 report), and BANTAM is RETROSPECTIVE, from the 1951 camp history, applying a section name that this project can only attest later -- the 1958 report still speaks of 'new cabins erected in the Bantam section'. A retrospective history naming a 1936 building after the section that occupied it in 1951 is ordinary and is not evidence about 1936.\n\nIT ALSO EXTENDS THE CAPITAL-WORKS SERIES AT f_5640 BACKWARD BY FOURTEEN YEARS. That fact tabled the association's schedules of improvements for 1950-1958; the same kind of schedule is being printed in 1937, with costs the later ones do not give.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1937",
+        "src_ymf_1936_kamp_kanawana_broadcast_station_cfcf",
+        "src_ia_kanawana_history_1951"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Kamp Kanawana",
+        "Camp Otoreke",
+        "Juvenile section",
+        "Bantam section"
+      ],
+      "date_ref": "1936",
+      "conflicts_with": [],
+      "added_version": "10.60",
       "added_by": "ralph_loop"
     }
   ]

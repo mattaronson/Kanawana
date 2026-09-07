@@ -296,7 +296,10 @@ Junior sections sleep in **tents**, each of which is pitched on **high dry woode
 the Juvenile section, those under twelve years of age, sleep in **cabins which are being erected new this
 year**."^64 So **the first Juvenile cabins went up in 1936**, each with "bunks for seven boys and a
 counsellor," screened doors and windows, and a view over the lake — while the two older sections stayed
-under canvas on platforms. The same script gives the camp as 150 acres taking in "the complete shore-line of
+under canvas on platforms. *(That build cost **$1,250**, and the association's annual report on the same
+season calls the cabins the **junior** section's while this script puts Juniors in tents — one build
+recorded under three different section names across three documents, set out at
+[[site/places-and-locations|Places and Locations]].)* The same script gives the camp as 150 acres taking in "the complete shore-line of
 three lakes and a portion of the shore-line of a fourth," a fleet of forty boats and canoes, three swimming
 wharves (one per section), two diving boards high and low, "the long **water shute**, where boys slide from
 the top of the hill down into the water," a dispensary and hospital under a resident doctor, "the large
