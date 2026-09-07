@@ -1,8 +1,8 @@
 {
-  "version": "10.91",
-  "kb_version": "10.91",
+  "version": "10.92",
+  "kb_version": "10.92",
   "migrated_from": "3.3",
-  "fact_count": 5656,
+  "fact_count": 5657,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101523,7 +101523,7 @@
     },
     {
       "fact_id": "f_5670",
-      "claim": "THE CAMP'S OWN MAP OF WHERE ITS CAMPERS CAME FROM, MID-1960s -- THE LIST SURVIVES, THE NUMBERS DO NOT. The ten year summary's last block is 'GEOGRAPHICAL DISTRIBUTION OF CAMPERS' by Montreal district and suburb. In the 1966 impression THE COUNTS ARE SHREDDED BEYOND RECOVERY -- the column reduces to strings like 'KH wWOoOoUwmdrwn COrN' -- and no figure from it is recorded anywhere. THE TWENTY-FIVE ROW LABELS ARE INTACT, and in the order printed they run: Ile Perrot, Senneville, Baie d'Urfe, Beaurepaire, Beaconsfield, Pointe Claire, Valois, Dorval, Lachine, Ville St. Pierre, St. Laurent, Ahuntsic and Cartierville, 'N.D.G., Montreal West and Hampstead', Cote St. Luc, Westmount, Snowdon, Central, Outremont, North End, Rosemount, T.M.R., Rosemere, Roxboro, Dollard des Ormeaux, Pierrefonds. The order is geographic: west to east along the Lakeshore, then into the city, then north and off-island, with the two newest suburbs appended at the end. WHAT IS ON THE LIST IS THE WEST ISLAND AND ANGLOPHONE CENTRAL MONTREAL. WHAT IS NOT ON IT: Verdun, LaSalle, the South Shore, and the whole east end -- no Hochelaga, no Maisonneuve, no Pointe-Saint-Charles, no Saint-Henri and NO LITTLE BURGUNDY. Rosemount and 'North End' are the easternmost entries. This is a catchment, not a census, and a district's absence could mean the camp drew nobody from it or that the list follows YMCA branch boundaries; the document does not say which. IT IS WORTH SETTING BESIDE WHAT COMES NEXT. Within about five years the association is describing Kanawana as serving inner-city families, and the 1971 'Projet La Petite Bourgogne' ran a French-language camp out of Little Burgundy -- the one neighbourhood whose absence from this list is most conspicuous.",
+      "claim": "THE CAMP'S OWN MAP OF WHERE ITS CAMPERS CAME FROM, MID-1960s -- THE LIST SURVIVES, THE NUMBERS DO NOT. The ten year summary's last block is 'GEOGRAPHICAL DISTRIBUTION OF CAMPERS' by Montreal district and suburb. In the 1966 impression THE COUNTS ARE SHREDDED BEYOND RECOVERY -- the column reduces to strings like 'KH wWOoOoUwmdrwn COrN' -- and no figure from it is recorded anywhere. THE TWENTY-FIVE ROW LABELS ARE INTACT, and in the order printed they run: Ile Perrot, Senneville, Baie d'Urfe, Beaurepaire, Beaconsfield, Pointe Claire, Valois, Dorval, Lachine, Ville St. Pierre, St. Laurent, Ahuntsic and Cartierville, 'N.D.G., Montreal West and Hampstead', Cote St. Luc, Westmount, Snowdon, Central, Outremont, North End, Rosemount, T.M.R., Rosemere, Roxboro, Dollard des Ormeaux, Pierrefonds. The order is geographic: west to east along the Lakeshore, then into the city, then north and off-island, with the two newest suburbs appended at the end. WHAT IS ON THE LIST IS THE WEST ISLAND AND ANGLOPHONE CENTRAL MONTREAL. WHAT IS NOT ON IT: Verdun, LaSalle, the South Shore, and the whole east end -- no Hochelaga, no Maisonneuve, no Pointe-Saint-Charles, no Saint-Henri and NO LITTLE BURGUNDY. Rosemount and 'North End' are the easternmost entries. This is a catchment, not a census, and a district's absence could mean the camp drew nobody from it or that the list follows YMCA branch boundaries; the document does not say which. IT IS WORTH SETTING BESIDE WHAT COMES NEXT. Within about five years the association is describing Kanawana as serving inner-city families, and the 1971 'Projet La Petite Bourgogne' ran a French-language camp out of Little Burgundy -- the one neighbourhood whose absence from this list is most conspicuous. || [CORRECTED 2026-09-07, same evening, from the 1969 report's own geographical block.] THE INFERENCE DRAWN ABOVE IS WEAKENED AND SHOULD NOT BE CARRIED FORWARD. The observation itself is accurate AS SCOPED -- the 1966 impression's twenty-five row labels do not include Verdun, LaSalle, the South Shore or the east end. But I set it beside the 1971 Projet La Petite Bourgogne and the association's later language about inner-city families, which invited reading the 1966 list as the camp's catchment shape up to that point. IT IS NOT. THE 1969 IMPRESSION CARRIES THE SAME BLOCK WITH A DIFFERENT AND WIDER LIST, comparing TWO YEARS (1965 and 1969), and it explicitly includes SOUTH SHORE and VERDUN-LASALLE -- the two absences I made most of -- along with Hudson, Laval, Rosemere & Lorraine, Roxboro, Dollard des Ormeaux, Pierrefonds & Ile Bizard, Arvida, St. Jerome, Quebec City, Province of Ontario, Province of Nova Scotia and U.S.A. Several 1966 rows are also consolidated differently (Baie d'Urfe & Senneville; Beaconsfield & Kirkland; Lachine & Chateauguay; N.D.G., Montreal West, Hampstead & Cote St. Luc), and KIRKLAND and CHATEAUGUAY appear where the 1966 list had neither. SO THE CATEGORIES CHANGED BETWEEN IMPRESSIONS, and a district's absence from one year's list is evidence about that list rather than about where campers came from. Two years BEFORE the Petite Bourgogne project the camp was already counting Verdun-LaSalle and the South Shore. WHAT IS NOT RECORDED, DELIBERATELY: the counts. The 1969 block interleaves two year-columns in the scan and several labels sit apart from their values. Individual pairings are visible in the OCR but cannot be assigned to 1965 or 1969 with confidence, and assigning them would repeat exactly the column-shift error that produced the wrong Rangers date earlier tonight. The DISTRICT NAMES are certain; the NUMBERS are not, and page images would settle them.",
       "sources": [
         "src_ia_kanawana_annual_report_1966"
       ],
@@ -101968,6 +101968,23 @@
       "date_ref": "1969-1977",
       "conflicts_with": [],
       "added_version": "10.90",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5695",
+      "claim": "THE 1969 REPORT'S INTRODUCTION SETTLES THE ORG-CHART QUESTION IN ONE LINE, AND WARNS HOW TO READ THE WHOLE GENRE. f_5691 corrected this wiki's reading of the 1969 'org chart' as a description of that year's staffing, using three supports from inside the report. A FOURTH AND PLAINER ONE WAS IN THE INTRODUCTION ALL ALONG. Geoff Anderson lists the report's parts: 'a general observation of the camp; recommendations based on these observations; A CHART SHOWING A SUGGESTED STAFF ORGANIZATION FOR NEXT YEAR; an appendix giving statistical data.' The chart is described as suggested and as for next year, in the document's own table of contents in all but name. AND THE INTRODUCTION CARRIES A CAUTION THAT SHOULD ATTACH TO EVERY NEGATIVE QUOTATION THIS PROJECT TAKES FROM THESE REPORTS: 'Any report which has as its major pre-occupation giving recommendations has, OF NECESSITY, TO FOCUS ON ITEMS NEEDING IMPROVEMENTS. THUS A REPORT MAY APPEAR TO BE NEGATIVE. This is not my objective, many positive things happened at camp and should not be forgotten.' The director is telling his own board that the form of the document distorts the picture. This project has quoted these reports heavily for their candour -- the inadequate plant, the smell at camp, the erosion, the low-quality riding programme -- and the caution is a genuine correction to how that material reads in aggregate, not a disclaimer to be waved off. HE ALSO EXPECTED ARGUMENT: 'The recommendations listed in the report call for decision of a varying degree of immediacy and should, in some case, CREATE A DEGREE OF CONTROVERSY.' AND HIS OWN APPOINTMENT: 'I was appointed Director on FEBRUARY 1st, 1969. This was to be a half-time position until May 1st and then full-time. However, the amount of work clearly indicated that the job required someone full-time so I SWITCHED FULLY TO KANAWANA ON APRIL 1st, 1969. This is still rather late to do much more than run like mad just to keep up.' That is the same argument for year-round staffing the 1970 summation makes from the other end.",
+      "sources": [
+        "src_ia_kanawana_report_1969"
+      ],
+      "confidence": "stated",
+      "category": "methodology",
+      "entities": [
+        "Kamp Kanawana",
+        "Geoff Anderson"
+      ],
+      "date_ref": "1969",
+      "conflicts_with": [],
+      "added_version": "10.92",
       "added_by": "ralph_loop"
     }
   ]

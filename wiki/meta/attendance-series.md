@@ -503,11 +503,25 @@ the South Shore, and the entire east end — no Hochelaga, no Maisonneuve, no Po
 Saint-Henri and **no Little Burgundy**. Rosemount and "North End" are the easternmost entries.
 
 This is a catchment and not a census, and a district's absence could mean the camp drew nobody from it or
-that the list follows YMCA branch boundaries; the document does not say which. It is worth setting beside
-what comes next, though. Within about five years the association is describing Kanawana as serving
-inner-city families, and the 1971 *Projet La Petite Bourgogne* ran a French-language camp out of
-[[traditions/french-language-camping|Little Burgundy]] — the one neighbourhood whose absence from this
-list is most conspicuous.^46 [f_5670]
+that the list follows YMCA branch boundaries; the document does not say which.
+
+*(Corrected 2026-09-07, within hours, from the 1969 report's own copy of the same block.* **The list
+changed between impressions, and the absences above are evidence about the 1966 list rather than about
+where campers came from.** *This passage originally set the missing districts beside the 1971* Projet La
+Petite Bourgogne *and the association's later language about inner-city families, which invited reading
+the 1966 list as the camp's shape up to that point. The 1969 impression carries the same block with a
+wider list comparing two years, 1965 and 1969, and it includes* **South Shore** *and* **Verdun-LaSalle**
+*— the two absences I made most of — along with Hudson, Laval, Rosemère & Lorraine, Roxboro,
+Dollard-des-Ormeaux, Pierrefonds & Île Bizard, Arvida, St-Jérôme, Quebec City, Ontario, Nova Scotia and
+the U.S.A. Several 1966 rows are consolidated differently, and Kirkland and Châteauguay appear where the
+1966 list had neither.* **Two years before the Petite Bourgogne project the camp was already counting
+Verdun-LaSalle and the South Shore.** *The inference is withdrawn; the 1966 list stands as a list.)*^48
+
+**The 1969 counts are not recorded here either.** That block does carry numbers, for 1965 and 1969, and
+several label-value pairs are visible in the scan. They are not written down, because the two year-columns
+are interleaved and assigning a value to a year would repeat exactly the column shift that produced this
+wiki's wrong Rangers date, corrected earlier the same day. The district names are certain; the numbers
+are not.^48 [f_5670]
 
 **Both of these questions stopped being asked.** The religion block is printed in the 1965, 1966, 1969
 and 1970 impressions and is **absent entirely** from 1975, 1976, 1978 and 1979 — checked by searching all

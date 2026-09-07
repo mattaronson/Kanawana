@@ -69,6 +69,10 @@ possible to have 5 sections."** *The body of the report agrees in the future ten
 "another problem identified in the camp", and "I would hope that* **next year** *we can divide the senior
 staff functions in such a way that logical groupings can be found."*
 
+*And a fourth support, plainer than the other three, was in the introduction all along: Anderson lists the
+report's parts as "a general observation of the camp; recommendations based on these observations;* **a
+chart showing a suggested staff organization for next year**; *an appendix giving statistical data."* [f_5695]
+
 *So the chart is evidence of what the camp* **intended** *for 1970 and how it thought about gendering its
 sections, which is worth having. It is not evidence of who held what post in 1969. It also makes the
 section structure conditional on a capacity decision the same report calls "the problem of first urgency"
