@@ -1,8 +1,8 @@
 {
-  "version": "10.82",
-  "kb_version": "10.82",
+  "version": "10.83",
+  "kb_version": "10.83",
   "migrated_from": "3.3",
-  "fact_count": 5650,
+  "fact_count": 5651,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101855,6 +101855,24 @@
       "date_ref": "1969",
       "conflicts_with": [],
       "added_version": "10.82",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5689",
+      "claim": "CORRECTION: THE RANGERS SECTION LAST CARRIED CAMPERS IN 1964, NOT 1967, AND THE ARITHMETIC IS UNAMBIGUOUS. section-names.md states 'Rangers last carry campers in 1967' under the heading 'When each section died', attributing it to the camper-weeks tables. THAT IS THREE YEARS TOO LATE. The Rangers row in the 1969 and 1970 impressions of the ten year summary carries five values and then dashes, and the row can be positioned WITHOUT reading it at all, because each year's four surviving sections must sum to that year's printed camper-week total and the residual is the Rangers figure. Testing all eight years: 1960 residual 48 (printed 48); 1961 residual 46 (46); 1962 residual 46 (46); 1963 residual 40 (40); 1964 residual 28 (28); and then 1965, 1966 and 1967 each have a residual of EXACTLY ZERO -- the four sections sum to 1,182, 1,323 and 1,098, which are the printed totals to the week. EIGHT FOR EIGHT. There is no room for a Rangers camper in 1965, 1966 or 1967. THE LIKELY ORIGIN OF THE ERROR is a three-column shift: reading the five printed values against 1963-1967 instead of 1960-1964 produces exactly the claim in the article, and nothing on the page prevents that misreading except the subtraction. THE REST OF THAT SENTENCE STANDS AND IS CONFIRMED: Coureurs de Bois and Pioneers do both last appear in 1972, and from 1973 the tables run only Woodsmen and Pathfinders. So the four-name system collapsed to two within five years of coeducation, as the article says; it is only the Rangers date that moves. Note the consequence for the article's own argument: with Rangers ending in 1964 rather than 1967, its disappearance PRECEDES coeducation by four years instead of following it by one, and cannot be read as a consequence of it.",
+      "sources": [
+        "src_ia_kanawana_report_1969",
+        "src_ia_kanawana_report_1970"
+      ],
+      "confidence": "stated",
+      "category": "programming",
+      "entities": [
+        "Rangers",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1960-1967",
+      "conflicts_with": [],
+      "added_version": "10.83",
       "added_by": "ralph_loop"
     }
   ]
