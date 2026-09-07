@@ -2,7 +2,7 @@
   "version": "10.09",
   "kb_version": "10.09",
   "migrated_from": "3.3",
-  "fact_count": 5527,
+  "fact_count": 5528,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99622,6 +99622,20 @@
         "Camp Kanawana"
       ],
       "claim": "FIVE UNCITED ENTRIES RESOLVED, AND ALL FIVE WERE DIFFERENT PROBLEMS -- which is the case against ever batch-fixing these. 136 -> 129. (1) jared-macsween's entry 2 existed to support a NEGATIVE, that he is not among the named people on the surviving 1979-90 plaques, and the sentence making that claim carried no marker. (2) roy-locke's entry 3 is a THIRD source for a sentence already carrying two. (3) terry-mosher's entry 9 documents one row of an otherwise unmarked awards table, and entry 10 is the biography the whole table rests on -- so one got a row marker and the other an introduction. (4) sean-day's entry 15 is a Facebook post of 5 September 2014 calling him 'directeur du camp YMCA Kanawana', a dated title attestation belonging in the c_017 titles discussion, where it now sits with a note that it does not bear on when the role began; entry 12 is the fund's own page and now sits with the fund. (5) THE MOST INTERESTING ONE: maureen-mcbride's entry 3 recorded A SEARCH THAT FOUND NOTHING -- four queries across web search, two obituary aggregators and the YWCA's own history pages -- and the article never said so anywhere. A null was being held in a source list, which is the one place no reader looks for one, and this project's whole discipline is that a null must be recorded where it can be found. It is now a paragraph in the body, marked as FOUR QUERIES SHORT of the eight-query exhaustion standard, so it reads as a null that was run rather than a subject exhausted. AN UNCITED SOURCE ENTRY CAN THEREFORE BE A HIDDEN NULL, which is a third category neither f_5563 nor f_5564 anticipated.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5566",
+      "category": "methodology",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "AN UNCITED SOURCE ENTRY IS FIVE DIFFERENT THINGS, AND THREE OF THEM ARE SUPPOSED TO BE UNCITED. f_5563 assumed two categories and f_5565 found a third; a second working pass through a dozen articles found all five. (1) A CITATION LOST OR NEVER APPLIED -- the claim is in the article and the marker is not. traditions-and-culture entry 31 records that QAHN's Shawbridge article and Ka-News of May 1980 both contain nothing on the Shawbridge Meet; the article states that null in its own open question 4 and never pointed at the entry. Marked. (2) AN ENTRY FOR A PASSAGE NEVER WRITTEN. (3) A HIDDEN NULL, an entry whose whole content is a search that found nothing, kept in a source list where no reader looks for one (maureen-mcbride 3). (4) A TOMBSTONE, deliberately retained to record a withdrawn entry -- winter-programming entry 4 says so in its own text, 'Superseded 2026-09-06. This entry cited a knowledge-base fact id rather than a source.' LEGITIMATELY UNCITED. (5) A POINTER rather than a source: wallace-forgie entries 5 and 6 point at a cache path and at conflict c_069; edgar-smee entry 8 is 'Concordia University Archives... Potential staff records', a LEAD NOT YET CONSULTED. LEGITIMATELY UNCITED. WHAT FOLLOWS FOR THE CHECK. Deleting them all would risk (1); keeping them all guarantees (2) and (3); forcing a marker onto (4) or (5) would assert a provenance that does not exist -- which is worse than the gap, and is the failure this project has already recorded for empty template headings. SO THE COUNT WILL NEVER REACH ZERO AND THE CHECK SHOULD STAY ADVISORY EVEN AFTER p_484 CLEARS. The number to watch is the DELTA, not the total. That is written into the script's own docstring so the next person does not try to drive it to zero. ALSO CORRECTED WHILE HERE: carol-skinner.md said 'the Internet Archive is blocked by this environment's egress policy', which over-generalises. WEB.ARCHIVE.ORG is unreachable; ARCHIVE.ORG answers normally and is how this project reads hundreds of digitized documents. Narrowed in place, citing the controlled test at f_5460.",
       "sources": [],
       "confidence": "stated",
       "conflicts_with": [],

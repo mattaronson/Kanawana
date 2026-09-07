@@ -9,22 +9,41 @@ reverse -- every entry reached by a marker -- was tested by nothing, so an entry
 could sit uncited indefinitely. It was found by hand, following the mechanics
 list in project-docs/spinout-rule.md.
 
-WHY AN UNCITED ENTRY MATTERS, AND WHY IT CANNOT BE AUTO-FIXED. It is one of two
-quite different things and only reading tells them apart:
+WHY AN UNCITED ENTRY CANNOT BE AUTO-FIXED. It is FIVE quite different things,
+and only reading tells them apart. The first working pass, 2026-09-07, met all
+five inside a dozen articles:
 
-  - a citation LOST in an edit, in which case some claim in the article is now
-    unsourced and the entry is the evidence that it once was not; or
-  - an entry added in anticipation of a passage never written, in which case the
-    article is fine and the entry is noise.
+  1. A citation LOST or never applied, so some claim in the article is now
+     unsourced and the entry is the evidence that it once was not. FIX: mark the
+     claim. (traditions-and-culture 31: the Shawbridge null was written into an
+     open question and the entry recording it was never pointed at.)
+  2. An entry added in anticipation of a passage NEVER WRITTEN. FIX: write the
+     passage, or remove the entry.
+  3. A HIDDEN NULL -- an entry whose whole content is a search that found
+     nothing, sitting in a source list, which is the one place no reader looks
+     for a null. FIX: put the null in the body where it can be found.
+     (maureen-mcbride 3.)
+  4. A TOMBSTONE, deliberately retained to record an entry that was withdrawn.
+     LEGITIMATELY UNCITED -- do not "fix" it. (winter-programming 4, which says
+     so in its own text: "Superseded 2026-09-06.")
+  5. A POINTER rather than a source: to a cache file, to a conflict record, or
+     to a lead not yet consulted. LEGITIMATELY UNCITED. (wallace-forgie 5 and 6
+     point at a cache path and at conflict c_069; edgar-smee 8 is "Concordia
+     University Archives... Potential staff records," a lead.)
 
-Deleting all of them would risk the first; keeping all of them guarantees the
-second. So this reports and never fixes.
+Deleting all of them would risk (1); keeping all of them guarantees (2) and (3);
+forcing a marker onto (4) or (5) would assert a provenance that does not exist.
+So this reports and NEVER fixes, and the count will never reach zero -- some of
+these entries are supposed to be here.
+
+That last point is why this stays advisory even after the backlog is worked: the
+number to watch is the DELTA, not the total.
 
 ADVISORY, ON THE PRECEDENT section_headings.py SET. The first whole-wiki run
 found 136 uncited entries across 34 articles -- places-and-locations.md alone
 has 28 entries and cites 9 of them. That is a backlog, and a blocking check
 against a backlog trains everyone to ignore the output. Queued as p_484; make
-this blocking when it clears. The first pass took it to 129 across 29.
+this blocking when it clears. The first pass took it to 127 across 27.
 
 WHAT IT DOES CATCH TODAY is the number going UP, which means an edit stranded
 something.
@@ -40,7 +59,7 @@ import os
 import re
 import sys
 
-BASELINE = 129          # whole-wiki count after the first p_484 pass, 2026-09-07
+BASELINE = 127          # whole-wiki count after the first p_484 pass, 2026-09-07
 #                         (was 136 when this check was written, the same day)
 
 

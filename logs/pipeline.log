@@ -4820,3 +4820,35 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   exhausted. That is a third category neither f_5563 nor f_5564 anticipated.
   Check baseline moved 136 -> 129. Verify green, nine checks.
   Timestamp read from `date -u` in its own call.
+
+[2026-09-07T13:35:42Z] p_484 second pass, and THE TARGET IS NOT ZERO. NEW:
+  f_5566. 129 -> 127 entries, 29 -> 27 articles.
+  AN UNCITED SOURCE ENTRY IS FIVE THINGS, AND THREE OF THEM ARE SUPPOSED TO BE
+  UNCITED. f_5563 assumed two; f_5565 found a third; a pass through a dozen more
+  articles found all five.
+  (1) A CITATION LOST OR NEVER APPLIED -- both of this pass's fixes.
+  traditions-and-culture entry 31 records that QAHN's Shawbridge article and
+  Ka-News of May 1980 hold nothing on the Shawbridge Meet; the article states
+  that null in its own open question and never pointed at the entry.
+  carol-skinner entry 7 is the vanished ALS blog, whose unavailability paragraph
+  cited a fact id but not the source.
+  (2) An entry for a passage never written.
+  (3) A HIDDEN NULL kept in a source list (maureen-mcbride 3, last pass).
+  (4) A TOMBSTONE deliberately retained -- winter-programming entry 4 says so in
+  its own text, "Superseded 2026-09-06. This entry cited a knowledge-base fact
+  id rather than a source." LEGITIMATELY UNCITED.
+  (5) A POINTER rather than a source -- wallace-forgie 5 and 6 point at a cache
+  path and at conflict c_069; edgar-smee 8 is "Potential staff records," a lead
+  not yet consulted. LEGITIMATELY UNCITED.
+  SO THE COUNT WILL NEVER REACH ZERO and the check should stay ADVISORY even
+  after the backlog is worked. Forcing a marker onto (4) or (5) would assert a
+  provenance that does not exist, which is worse than the gap and is the same
+  error as bolting an empty heading onto an article that should not have one.
+  The number to watch is the DELTA. Written into the script's own docstring so
+  the next person does not try to drive it to zero.
+  ALSO CORRECTED WHILE THERE: carol-skinner.md said "the Internet Archive is
+  blocked by this environment's egress policy," which over-generalises.
+  WEB.ARCHIVE.ORG is unreachable; ARCHIVE.ORG answers normally and is how this
+  project reads hundreds of digitized documents. Narrowed in place against the
+  controlled test at f_5460.
+  Baseline 129 -> 127. Verify green, nine checks. Timestamp from `date -u`.
