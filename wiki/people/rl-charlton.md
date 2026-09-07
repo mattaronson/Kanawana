@@ -1,6 +1,6 @@
 # R.L. Charlton
 
-*Status: draft | Sources: 9*
+*Status: draft | Sources: 10*
 *Last Updated: 2026-09-06 (he chaired the Junior Department in the camp's founding year)*
 
 ## Overview
@@ -83,6 +83,8 @@ The Concordia Archives also hold undated photographs of "R. H. Dawson" (likely R
 
 ## Open Questions
 
+0. **[New 2026-09-07, Critical, and settleable by one page image.]** Is Charlton the **"R. L. Charlton"** listed in the Catalogue of Delegates to **D. L. Moody's Northfield College Students' Conference of 1888**? T. J. Shanks's published record of that conference prints him in the "General" section, between Alexander Arthur and Percy E. Judge.^10 **The address column cannot be aligned to the names in either Internet Archive scan** — one silently drops about twenty-three addresses where the printed table repeats its ditto marks, the other keeps the dittos but loses and garbles names — so counting from either end gives nothing, and no address is assigned to him here. A run of Canadian addresses (Kingston, Toronto, Prince Edward Island, **Montreal**) sits a few entries before his name in both scans, and the addresses just after that run are American; **the suggestion is recorded because it is testable, not because it is believed.** If it is him, it puts Kanawana's name-giver inside the student YMCA movement's founding current **six years before the camp**. What is needed is a legible **image** of that page, not more OCR: the text layer is what has failed, twice.^10
+
 1. [New 2026-08-14, Important] Does R. L. Charlton in fact appear in Joyce Oliver's 1939–1940 "Material for Book of Remembrance and History" (Concordia sub-series 13D)? This article asserted he did, without a source; the assertion has been removed. The project is a real and promising founding-era lead whose contents have never been read.
 2. **[Half answered 2026-09-06 — see above.]** What was Charlton's specific role at Kanawana — was he a committee member, camp visitor, or held some other formal position? His YMCA and CBMU career is documented, and he is now documented on the association board's Training Classes committee for 1892-93; but **a camp role specifically** is still inferred from the two manuscripts and the archival photograph pairing with Dawson.
 3. [Important] The 1943 "Notes re Early Days" manuscript remains undigitized (Concordia Box HA1881); physical archive access is the only path to its full content.
@@ -107,6 +109,7 @@ The Concordia Archives also hold undated photographs of "R. H. Dawson" (likely R
 7. YMCA of Montreal, **Annual Report for the year ending 30 April 1899** [src_ia_ymca_montreal_annual_reports_collection] — the Junior Department, Permanent Camp Committee and Summer Camp lists. Read 2026-09-06. See [f_4908].
 8. YMCA of Montreal, **annual report for the year ending 30 April 1894** [src_ymf_sgw_ymca_annual_report_1893_1894], the Junior Department committee list; and the report for the year ending 30 April 1893 [src_ymf_sgw_ymca_annual_report_1892_1893], which announces D. W. Corbett's resignation as the assistant secretary in charge of that department, on his appointment as secretary of the Honolulu Association. Both cached in this repo and read 2026-09-06 under p_440 — **neither had been read before**. Searched in full for "camp", "tent", "outing", "St. Joseph" and "Agathe": the 1892-93 report returns nothing on any of them, and the 1893-94 report only a militia camp. Cached at `sources/cache/ymca-montreal-fonds/1890-1893-the-cushings-inside-the-association.txt`. See [f_4994], [f_4995].
 9. *Report of the Point St. Charles Institute* (Montreal, 1895), CIHM microform 04413 [src_point_st_charles_institute_1895]. The benefactors page, reconstructed 2026-09-06 from four overlapping Open Library search-inside queries; the item has not been read. Found by the index-form query "Charlton, R. L." See [f_5206].
+10. T. J. Shanks, *College Students at Northfield; or, A College of Colleges, No. 2* (1888) [src_shanks_college_students_at_northfield_1888]. Internet Archive items `collegestudent00shan` and `collegestudentsa0000unse`, both fully downloaded and both read for the Catalogue of Delegates. The column alignment was tested in each and failed in each; why, and what would settle it, is set out at `sources/cache/biographical/2026-09-07-northfield-1888-charlton.txt`. See [f_5359].
 
 ## Research Notes
 

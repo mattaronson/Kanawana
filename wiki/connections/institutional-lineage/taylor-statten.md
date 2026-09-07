@@ -23,8 +23,13 @@ Religious Education Council of Canada, gives a different chronology: the forerun
 published" in **1912** as the Canadian Standard Efficiency ***Tests***, a little red handbook of
 which forty-two thousand were used, and the revised programme complete in **October 1918**, when
 "the name 'Canadian Standard Efficiency ***Training***' became" the name it kept. **The acronym's
-expansion changed**, and neither date is 1914. The 1914 date in this article has not been traced
-back to its own source; the disagreement is recorded as **conflict c_069** and left open.^11
+expansion changed**, and neither date is 1914. **The 1914 date has since been traced, and it rests on
+Wikipedia** — source 4 of this article, the *TUXIS* entry, is the only thing cited for it anywhere in
+this wiki. So the disagreement is not two documented sources of equal standing: it is a tertiary web
+encyclopedia against two contemporaneous publications of the programme itself. **The date is left
+standing anyway**, because changing an E1-reviewed article's central claim about its central figure is
+an editorial decision and because 1914 may be true of some event neither 1918 nor 1929 source
+describes. Recorded as **conflict c_069**, with that recommendation, for a human.^11
 
 **And CSET has a second author this article has never named.** The same 1929 passage: "Messrs.
 **Taylor Statten and Wallace Forgie**, as Boys' Work Secretaries of the Central Branch of the

@@ -1,8 +1,8 @@
 {
-  "version": "9.36",
-  "kb_version": "9.36",
+  "version": "9.37",
+  "kb_version": "9.37",
   "migrated_from": "3.3",
-  "fact_count": 5319,
+  "fact_count": 5321,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -95973,6 +95973,40 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5358",
+      "category": "sources",
+      "date_ref": "1914",
+      "entities": [
+        "CSET",
+        "Taylor Statten",
+        "Wikipedia"
+      ],
+      "claim": "THE 1914 CSET DATE IN THIS WIKI RESTS ON WIKIPEDIA, AND ON NOTHING ELSE. Traced 2026-09-07 through the citation markers: canadian-camping-movement.md's sentence 'In 1914, he established the Canadian Standards Efficiency Training (CSET) program' carries ^6, and source 6 of that article is 'Wikipedia, TUXIS'; taylor-statten.md's CSET paragraph carries ^4, and its source 4 is the same page. No other source in this project is cited for 1914. THAT RESHAPES CONFLICT c_069: it is not two documented sources of equal standing disagreeing but a tertiary web encyclopedia against two contemporaneous publications of the programme itself, the 1918 C.S.E.T. manual and the 1929 Boy's Own Book. The February 2026 verify note does not rescue it either -- it lists 'CSET 1914' among sixteen claims 'independently confirmed' in one pass and never says against what, so a re-reading of the same Wikipedia article cannot be ruled out. THE DATE IS LEFT STANDING and the recommendation recorded, because changing an E1-reviewed article's central claim about its central figure is an editorial decision and because 1914 may be true of an event neither 1918 nor 1929 source describes.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.37",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5359",
+      "category": "people",
+      "date_ref": "1888",
+      "entities": [
+        "R. L. Charlton",
+        "Northfield College Students' Conference",
+        "D. L. Moody"
+      ],
+      "claim": "AN 'R. L. CHARLTON' IS IN THE CATALOGUE OF DELEGATES TO THE 1888 NORTHFIELD COLLEGE STUDENTS' CONFERENCE, AND THIS SCAN CANNOT TELL US WHETHER HE IS OURS. T. J. Shanks, 'College Students at Northfield; or, A College of Colleges' (1888) prints a CATALOGUE OF DELEGATES whose 'General' section -- delegates not attached to a college -- lists 'R. L. Charlton' between Alexander Arthur and Percy E. Judge. THE ADDRESS COLUMN CANNOT BE ALIGNED TO IT. Both Internet Archive scans break the table into separate runs of names, vocations and addresses, and in neither do the runs have equal length: one drops about twenty-three addresses outright, the other preserves the ditto marks as lines but garbles names. Counting from either end therefore gives nothing, and this project's own rule from the postal-directory work -- check the alignment rather than assume it -- rules the join out. WHAT CAN BE SAID: a run of CANADIAN addresses (Kingston Ont., Toronto, P.E.I., Montreal Que.) sits a few entries before his name in both scans. THAT IS SUGGESTIVE AND IT IS NOT EVIDENCE, since twenty-odd unaligned entries lie between. WHY IT MATTERS IF IT IS HIM: Moody's Northfield conferences were the forge of the student YMCA movement, and Kanawana's founding circle came out of exactly that current six years later. THE BOOK IS FULLY DOWNLOADABLE AND THE PAGE IS ONE PAGE; anyone with a legible image of it settles this in a minute.",
+      "sources": [
+        "src_shanks_college_students_at_northfield_1888"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.37",
       "added_by": "ralph_loop"
     }
   ]

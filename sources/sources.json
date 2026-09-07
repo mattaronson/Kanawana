@@ -30849,7 +30849,25 @@
       "notes": "Canada, Department of Trade and Commerce, Dominion Bureau of Statistics, Education Statistics Branch; Ottawa, King's Printer. FULLY DOWNLOADABLE. Found 2026-09-07 by a quoted \"Nelson McEwen\" sweep of the Internet Archive book corpus. THE ITEM'S TITLE PAGE SAYS 1936-38 AND IT BINDS AT LEAST TWELVE SURVEYS -- interior title pages carry 1936-38, 1938-40, 1940-42, 1943-44, 1944-46, 1945-46, 1947-48, 1948-50, 1950-54, 1954-56 and 1956-58 -- so every occurrence must be placed by the interior title page above it. Second bound-run item found in one day. Its national-organizations section carries a standing YMCA entry, reprinted with small edits in the surveys for 1938-40, 1943-44 and 1945-46: the association 'has conducted organized boys' camps since 1889 and is particularly concerned with the educational aspects of camping', with Nelson McEwen named as its chief boys' work director (later secretary) at 21 Dundas Street, later Square, Toronto. Only the YMCA entry and the index line for McEwen were read; the surveys themselves are unread. 'Kanawana' does not occur in the item. See f_5356, f_5357.",
       "read_state": "partial",
       "read_state_basis": "direct: full text downloaded and searched. The YMCA national-organizations entry read in all three surveys that carry it and quoted verbatim in the cache, with the differences between printings set out; the periodical index line for McEwen read. Nothing else in twelve bound surveys was read."
+    },
+    {
+      "source_id": "src_shanks_college_students_at_northfield_1888",
+      "type": "report",
+      "title": "T. J. Shanks, College Students at Northfield; or, A College of Colleges, No. 2 (1888)",
+      "date": "1888",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/collegestudent00shan",
+      "cache_path": "sources/cache/biographical/2026-09-07-northfield-1888-charlton.txt",
+      "char_count": 625280,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v9.37",
+      "reliability": "primary",
+      "notes": "The published record of D. L. Moody's 1888 Northfield College Students' Conference. FULLY DOWNLOADABLE, in two scans -- collegestudent00shan (the Princeton Theological Seminary copy) and collegestudentsa0000unse. Found 2026-09-07 by a quoted \"R. L. Charlton\" sweep. Its CATALOGUE OF DELEGATES lists an 'R. L. Charlton' in the General section. THE ADDRESS COLUMN CANNOT BE ALIGNED TO THE NAMES IN EITHER SCAN and the join to Kanawana's R. L. Charlton is therefore NOT made; see f_5359 for exactly why the counting fails. Only the delegate catalogue was looked at; the conference proceedings themselves are unread and would show what the Canadian delegates heard.",
+      "read_state": "partial",
+      "read_state_basis": "direct: both scans' full text downloaded; the General section of the catalogue of delegates read in both and the alignment tested in both and found impossible. Nothing else in either scan was read."
     }
   ],
-  "source_count": 1716
+  "source_count": 1717
 }

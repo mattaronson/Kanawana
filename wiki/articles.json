@@ -2667,6 +2667,13 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "The A. Wallace name form confirmed from the 1918 manual itself, the Alberta employer corrected to the Alberta Religious Education Council, and Forgie spun out to his own article."
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-07",
+          "by": "auto",
+          "task": "VERIFY",
+          "note": "The 1914 CSET date traced to its source and it is Wikipedia, the only thing this wiki cites for it. Recorded beside the date in the prose; the date is left standing and c_069 carries the recommendation, because changing a central claim of an E1-reviewed article is an editorial call."
         }
       ],
       "ralph_loops_completed": 1,
@@ -2754,7 +2761,8 @@
         "f_5344",
         "f_5349",
         "f_5350",
-        "f_5352"
+        "f_5352",
+        "f_5358"
       ],
       "sources_cited": [
         "src_acq_about_page",
@@ -2793,7 +2801,7 @@
         "wallace-forgie"
       ],
       "file_id": null,
-      "word_count": 19614,
+      "word_count": 19694,
       "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -5429,6 +5437,13 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "CSET's founding date and its authorship both contested by the programme's own publications. Nothing overwritten: the 1914 date stands with conflict c_069 raised beside it, and the Forgie attribution is written as what the 1929 board said rather than as a correction."
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-07",
+          "by": "auto",
+          "task": "VERIFY",
+          "note": "The 1914 CSET date traced to its source and it is Wikipedia, the only thing this wiki cites for it. Recorded beside the date in the prose; the date is left standing and c_069 carries the recommendation, because changing a central claim of an E1-reviewed article is an editorial call."
         }
       ],
       "ralph_loops_completed": 3,
@@ -5457,7 +5472,8 @@
         "f_1918",
         "f_1919",
         "f_5350",
-        "f_5351"
+        "f_5351",
+        "f_5358"
       ],
       "sources_cited": [
         "src_burry_thesis_1985",
@@ -5474,7 +5490,7 @@
         "wallace-forgie"
       ],
       "file_id": null,
-      "word_count": 2342,
+      "word_count": 2420,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_020 editorial-resolution narrative into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -8770,6 +8786,13 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-07",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "An R. L. Charlton found in the 1888 Northfield delegate catalogue by a quoted book-corpus sweep. Written as an open question rather than a fact because the address column cannot be aligned to the names in either scan; the alignment was tested in both and failed in both."
         }
       ],
       "ralph_loops_completed": 1,
@@ -8788,7 +8811,8 @@
         "f_4908",
         "f_4909",
         "f_4910",
-        "f_5206"
+        "f_5206",
+        "f_5359"
       ],
       "sources_cited": [
         "src_1951_kamp_kanawana_history",
@@ -8799,9 +8823,10 @@
         "src_ia_ymca_montreal_annual_reports_collection",
         "src_ymf_sgw_ymca_annual_report_1893_1894",
         "src_ymf_sgw_ymca_annual_report_1892_1893",
-        "src_point_st_charles_institute_1895"
+        "src_point_st_charles_institute_1895",
+        "src_shanks_college_students_at_northfield_1888"
       ],
-      "open_questions": 4,
+      "open_questions": 5,
       "cross_links": [
         "ralph-dawson",
         "directors-index",
@@ -8809,7 +8834,7 @@
         "founding-1894"
       ],
       "file_id": null,
-      "word_count": 2041,
+      "word_count": 2291,
       "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md \"Other Notable Alumni\" section. Synthesizes existing research including myths-and-legends.md Batch 7 finding (1951 primary source naming Charlton as the person who proposed the camp name). Fixed a pre-existing link-text bug in myths-and-legends.md (text \"R.L. Charlton\" was linked to people/ralph-dawson instead of a Charlton article). Corrected a dangling source_id reference (src_concordia_fonds_12A -> src_concordia_p0145_12a_finding_aid, affecting f_1151) in kb/facts.json while preparing this article. | 2026-07-11: p_214 VERIFY -- Open Question 3 marked exhausted (5-surface Furness fleet search, zero matches).",
       "tags": {
         "era": [
