@@ -1,8 +1,8 @@
 {
-  "version": "10.67",
-  "kb_version": "10.67",
+  "version": "10.68",
+  "kb_version": "10.68",
   "migrated_from": "3.3",
-  "fact_count": 5630,
+  "fact_count": 5631,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101497,6 +101497,28 @@
       "date_ref": "1958",
       "conflicts_with": [],
       "added_version": "10.67",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5669",
+      "claim": "THE CAMP STOPPED ASKING ITS CAMPERS TWO QUESTIONS WITHIN A FEW YEARS OF EACH OTHER, AND A SEVENTH RELIGION CATEGORY REFINES AN EARLIER READING OF MINE. TWO ROWS DISAPPEAR FROM THE TEN YEAR SUMMARY. The religious-affiliation block ('BY WEEKS') is printed in the 1965, 1966, 1969 and 1970 impressions and is ABSENT ENTIRELY from 1975, 1976, 1978 and 1979 -- checked by searching all four for every category name, with no hits. The 'Percentage of Y members' row survives slightly longer: present through the 1976 printing but reading '(NO RECORDS)' after 1972, and gone from the table by 1978 (f_5656). So within a few years the camp stopped recording what religion its campers were and whether they belonged to the YMCA -- the two questions that had defined who the institution thought it was serving. Neither disappearance is announced anywhere in the reports; both are visible only by comparing impressions of the same appendix. A CORRECTION TO MY OWN REASONING IN f_5657 AND f_5666. Those facts say the three named rows (Protestant, Roman Catholic, Jewish) account for the whole camp in the years where they sum exactly to the camper-week total, and note that the columns from 1964 fall short by 16 growing to 69 weeks. THE 1969 IMPRESSION LISTS SEVEN CATEGORIES, NOT SIX: Protestant, Roman Catholic, Jewish, Buddhist, Hindu or Moslem, Not reported, and 'NO RELIGION' -- a row the 1970 impression's damaged block does not show. The exact sums in 1956, 1958, 1959, 1960, 1961 and 1963 are unaffected and those figures stand. But the shortfall in the later columns now has a seventh possible home rather than three, which makes reconstructing them worse-founded than when the refusal was written, not better. The refusal stands and is now better supported.",
+      "sources": [
+        "src_ia_kanawana_report_1969",
+        "src_ia_kanawana_report_1970",
+        "src_ia_kanawana_report_1975",
+        "src_ia_kanawana_directors_report_1976",
+        "src_ia_kanawana_report_1978",
+        "src_ia_kanawana_report_1979"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1965-1979",
+      "conflicts_with": [],
+      "added_version": "10.68",
       "added_by": "ralph_loop"
     }
   ]

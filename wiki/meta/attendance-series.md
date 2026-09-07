@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 46*
+*Status: draft | Sources: 47*
 *Last Updated: 2026-09-07 (the ten year summary, read across four printings: 1960-78 filled)*
 
 ## Overview
@@ -456,9 +456,24 @@ either side of the Quiet Revolution, is a fact about the province as much as abo
 **The later columns are not published.** From 1964 the three rows stop summing to their totals, falling
 short by a margin that grows from 16 to 69 weeks. There is an apparent collapse in Jewish camper weeks
 after 1963 in those columns, and it is **not recorded here**, because a shortfall that size means either
-a growing Not-reported category or a misread row and nothing in the scan distinguishes them. Page images
+a growing residual category or a misread row and nothing in the scan distinguishes them. Page images
 would settle it; a reconstruction would be arithmetic dressed as evidence, which is the specific failure
 `p_497` was written to avoid.^45 ^46 [f_5657] [f_5666]
+
+*(Refined 2026-09-07, against my own reasoning above. The paragraph originally said the shortfall meant
+"a growing **Not-reported** category or a misread row", which assumed six categories because that is what
+the 1970 impression's damaged block shows. **The 1969 impression lists seven**, adding a row for **"No
+religion"**. The exact sums in the table above are unaffected and those figures stand. But the shortfall
+now has a seventh possible home rather than three, which makes reconstructing the later columns
+**worse**-founded than when the refusal was written, not better.)*^47 [f_5669]
+
+**Both of these questions stopped being asked.** The religion block is printed in the 1965, 1966, 1969
+and 1970 impressions and is **absent entirely** from 1975, 1976, 1978 and 1979 — checked by searching all
+four for every category name, with no hits. The 'Y' membership row lasts a little longer, reading "(NO
+RECORDS)" after 1972 and gone from the table by 1978. So within a few years the camp stopped recording
+what religion its campers were and whether they belonged to the YMCA: **the two questions that had
+defined who the institution thought it was serving**. Neither disappearance is announced anywhere in the
+reports. Both are visible only by laying the impressions of one appendix side by side.^47 [f_5669]
 
 **The L&V trophy.** The Kanawana Annual Trophy carries a shield for every season from 1947 to 2025
 except 2021, transcribed in full. A shield means the Games were contested that summer, and in an
@@ -665,6 +680,7 @@ from inside the camp office, in a year the camp was moving to coeducation.
 44. Kamp Kanawana's own annual report for **1964**, its seventy-first season [src_ia_kanawana_report_1964]. The **535** campers and their stay lengths, the peak population of about **390** with roughly **300** fed daily, the **31** counsellors at an average age of **19.8** and an average salary of **$173**, and the missed budget of **1,530** camper-weeks are all at [f_2389]. Brought into this article 2026-09-07 under p_492.
 45. **The "KAMP KANAWANA TEN YEAR SUMMARY", read across four intact printings**, 2026-09-07 under `p_499`: the annual reports for **1969** [src_ia_kanawana_report_1969] and **1970** [src_ia_kanawana_report_1970] and the directors' reports for **1976** [src_ia_kanawana_directors_report_1976] and **1978** [src_ia_kanawana_report_1978], with the returnee row extended by the **1975** [src_ia_kanawana_report_1975] and **1979** [src_ia_kanawana_report_1979] printings. All cached in `sources/cache/ymca-montreal-fonds/`. The rolling nature of the table and what it costs to have missed it are at [f_5651]; the 1960-65 counts and how each was tested at [f_5652]; the Rangers section at [f_5653]; the girl series at [f_5654]; the returnee series at [f_5655]; the 'Y' membership collapse and its deletion from the table at [f_5656]; the religious breakdown and why only three columns of it are published at [f_5657]; the average-stay row used as an error-correcting check at [f_5658]. Disagreements with the contemporaneous reports are at `c_070` (1971) and `c_071` (1962, 1963, 1965, 1972).
 46. The **1966** printing of the same rolling appendix, in Kamp Kanawana's own annual report for 1966 [src_ia_kanawana_annual_report_1966], `sources/cache/ymca-montreal-fonds/1966-kamp-kanawana-annual-report.txt`. Read 2026-09-07 under `p_499`. Its scan is broken to one value per line, which for the earliest columns PRESERVED the row labels the 1965 printing lost. The 1956 reach-back and the two new camper-week totals are at [f_5665]; the religious series at [f_5666]; the 1958 Rangers figure at [f_5667]; the 1958 camper-count problem at [f_5668].
+47. The **1969** impression of the rolling appendix [src_ia_kanawana_report_1969] compared against the 1970, 1975, 1976, 1978 and 1979 impressions. Its religion block lists SEVEN categories including "No religion" where the 1970 block shows six, and the block is absent from every impression from 1975 on. Checked 2026-09-07 under `p_499` by searching all four later files for each category name. See [f_5669].
 
 ## Research Notes
 
