@@ -1,8 +1,8 @@
 {
-  "version": "9.38",
-  "kb_version": "9.38",
+  "version": "9.39",
+  "kb_version": "9.39",
   "migrated_from": "3.3",
-  "fact_count": 5323,
+  "fact_count": 5325,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -96038,6 +96038,39 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.38",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5362",
+      "category": "methodology",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Playwright",
+        "Chromium",
+        "agent proxy",
+        "BAnQ numerique"
+      ],
+      "claim": "HEADLESS CHROMIUM CANNOT REACH THE NETWORK IN THIS ENVIRONMENT, AND THIS IS THE CONTROLLED TEST THAT SHOWS IT. Playwright 1.56.1 is installed globally and Chromium is present at /opt/pw-browsers, so a browser looks like the obvious answer to any JavaScript-rendered source. IT IS NOT. Chromium was pointed at https://example.com/ -- not at a hard target -- in three proxy configurations: --proxy-server passed as a launch argument, the proxy passed as a Playwright launch option, and neither, letting the environment variables apply. ALL THREE FAILED WITH net::ERR_CONNECTION_RESET, and all three appear in the proxy's own recentRelayFailures log as 'ws_closed_mid_exchange' for example.com:443. AT THE SAME MOMENT, curl to the same URL through the same proxy returned HTTP 200. So the failure is the browser's, not the network's, and not the target's. WHAT THIS CLOSES: every source that renders its results in JavaScript is out of reach from here by any route, including BAnQ numerique. WHAT IT DOES NOT CLOSE: anything with a server-rendered page or an API, which is most of what this project has used all day.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.39",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5363",
+      "category": "sources",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "BAnQ numerique",
+        "Registraire des entreprises",
+        "Donnees Quebec"
+      ],
+      "claim": "THE THREE QUEBEC ROUTES IN p_375 WERE ALL RE-TESTED AND ALL THREE ARE SHUT, EACH FOR A DIFFERENT REASON. (1) THE REGISTRAIRE DES ENTREPRISES still returns HTTP 403 -- the same 'utilisation excessive' block recorded on 2026-09-05, so it is not a passing rate limit that a later day clears. Its open-data bulk file, on the same host, returns the same 403. (2) BAnQ NUMERIQUE answers 200 but serves a shell: /resultats returns a BYTE-IDENTICAL 33,411-byte page for q=kanawana, q=montreal, search_api_fulltext=montreal, texte=, mots= and even for /oai?verb=Identify. A query that must return thousands of hits and one that returns none produce the same bytes, which is a much stronger control than 'it renders in JavaScript' -- the page carries no results at all, for anyone, without a JS runtime. Its own search.js posts back to /resultats and names no other endpoint. (3) DONNEES QUEBEC IS THE ONE GENUINELY NEW ROUTE AND IT IS EMPTY: its CKAN API answers, the 'registre-des-entreprises' dataset exists with datastore_active true, and datastore_search on it returns a single column literally named '<!DOCTYPE html>' -- the harvester ingested an HTML error page instead of the register. THE GAZETTE OFFICIELLE DU QUEBEC FOR 1961, which p_375 calls the best untried route, IS NOT ON THE INTERNET ARCHIVE EITHER: a title search for it returns zero items.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.39",
       "added_by": "ralph_loop"
     }
   ]

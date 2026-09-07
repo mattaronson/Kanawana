@@ -363,6 +363,16 @@ turned a task filed as blocked into a task prepared to the point where a browser
 minutes. **The same distinction that governs sources governs tools: a negative result from one host
 is a fact about that host.**
 
+**Rule 46: the browser is not the escape hatch, and it is worth knowing that before you plan around
+it.** Playwright 1.56.1 is installed globally here and Chromium sits in `/opt/pw-browsers`, so every
+JavaScript-rendered source looks reachable. **Chromium cannot reach the network at all.** Pointed at
+`example.com` — deliberately not at a hard target — in three proxy configurations, it failed every
+time with `ERR_CONNECTION_RESET`, and all three attempts appear in the proxy's own failure log as
+`ws_closed_mid_exchange`; `curl` to the same URL at the same moment returned 200. So the failure is
+the browser's, not the network's. **A JS-rendered result page is out of reach from here by every
+route**, BAnQ numérique included. Test with a trivial target before concluding anything about a
+difficult one.
+
 ## The shape of the day, in one line
 
 **The Year Book's real contribution was not its own content but the names and dates that made
