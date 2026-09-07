@@ -5359,7 +5359,8 @@
         "src_ia_camp_perrot_collection",
         "src_ia_canadian_camping_collection",
         "src_directory_canadian_welfare_services_1974",
-        "src_ymf_news_release_1969_11_28"
+        "src_ymf_news_release_1969_11_28",
+        "src_concordia_magazine_1988_01"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -5368,7 +5369,7 @@
         "section-names"
       ],
       "file_id": null,
-      "word_count": 3358,
+      "word_count": 4666,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -7747,7 +7748,8 @@
         "src_ia_mcgill_daily",
         "src_ia_the_georgian",
         "src_ia_georgian_1962_02_20",
-        "src_ia_georgian_1961_10_03"
+        "src_ia_georgian_1961_10_03",
+        "src_concordia_magazine_1988_01"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -7759,7 +7761,7 @@
         "sources-index"
       ],
       "file_id": null,
-      "word_count": 1382,
+      "word_count": 1617,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, corrected the Sources count in the header (was 8, actual is 9). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

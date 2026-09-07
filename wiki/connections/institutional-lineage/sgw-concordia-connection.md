@@ -1,7 +1,7 @@
 # Sir George Williams / Concordia University and Camp Kanawana
 
-*Status: E1-reviewed | Sources: 10*
-*Last Updated: 2026-07-09*
+*Status: E1-reviewed | Sources: 11*
+*Last Updated: 2026-09-07 (Seaman put camping courses into the SGW curriculum; the 1963 department founding gets a second source)*
 
 ## Overview
 
@@ -29,6 +29,8 @@ Potter attended SGW College (B.A. 1935--1939) while working summers as a camp co
 ### Hedley G. Dimock and A. Ross Seaman (1963)
 
 In 1963, both Dimock and Seaman moved simultaneously from YMCA/camp roles into SGW -- Dimock as the first Chairman of the Department of Applied Social Science and Director of the Centre for Human Relations and Community Studies (CHRCS), Seaman as part-time faculty.^2 ^3 The CHRCS was described as growing "directly out of Sir George Williams University's roots in the community, specifically through the YMCA of Montreal."^3 The Department of Applied Social Science itself evolved from 1940s-era YMCA/SGW courses in counselling, group work, organization development, and supervision.^3
+
+**The traffic ran the other way as well, and Seaman is the named case.** Concordia's obituary of him, January 1988, says of his YMCA years — the years he was directing Kanawana — that "he **introduced camping courses to the Sir George curriculum**."^11 That is a specific channel with a name on it: not a university extending method to a camp, but a camp director putting his own subject into a university calendar. The obituary also dates the department rather than just his appointment to it — he had been a part-time member "**since the department was formed in 1963**"^11 — which is a second source for the founding year, and it adds how he had come to be at Sir George in the first place: "Ross's history at Concordia goes back to the **1940s** when he attended Sir George as a **YMCA Fellowship Secretary**."^11 He was on the Association's staff while he was its student, which is the personal shape of the institutional relationship this article describes. See [[people/a-ross-seaman|A. Ross Seaman]].
 
 ### Raye Kass (1972--present)
 
@@ -76,3 +78,4 @@ In 2019, Concordia's Faculty of Fine Arts signed a partnership agreement with th
 8. Warren, Jean-Philippe et al. "Reflections: Sociology and Anthropology at Concordia." Concordia University.
 9. Internet Archive, "The Georgian" (rma-concordia-publications collection) [src_ia_the_georgian]; "McGill Student Publications Collection" [src_ia_mcgill_daily].
 10. *The Georgian* (Sir George Williams University), **all 292 digitized issues** [src_ia_the_georgian], swept 2026-09-07 by downloading and grepping each in full; and the two that carry a camp name, Vol. 25 No. 16 of **20 February 1962** [src_ia_georgian_1962_02_20] and Vol. 25 No. 2 of **3 October 1961** [src_ia_georgian_1961_10_03]. Method and both texts at `sources/cache/georgian/2026-09-07-all-292-georgian-issues-swept.txt`. See [f_5372], [f_5373], [f_5374].
+11. "In Memoriam: Ross Seaman 1921-1987," *Concordia University Magazine* Vol. 11 No. 1 (January 1988), p. 28 [src_concordia_magazine_1988_01]. Concordia's own obituary of A. Ross Seaman, transcribed complete in `sources/cache/concordia-publications/2026-09-07-concordia-university-magazine-1988-seaman-obituary.txt`. Found 2026-09-07 by the whole-corpus sweep of the Internet Archive collection `rma-concordia-publications` under p_479. See [f_5380], [f_5385], [f_5386].

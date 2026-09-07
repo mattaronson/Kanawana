@@ -1,8 +1,8 @@
 {
-  "version": "9.48",
-  "kb_version": "9.48",
+  "version": "9.49",
+  "kb_version": "9.49",
   "migrated_from": "3.3",
-  "fact_count": 5340,
+  "fact_count": 5352,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -96332,6 +96332,218 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.48",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5379",
+      "category": "people",
+      "date_ref": "1921-1987",
+      "entities": [
+        "A. Ross Seaman"
+      ],
+      "claim": "A. ROSS SEAMAN WAS BORN IN 1921 AND DIED 23 OCTOBER 1987 AT THE AGE OF 66. Concordia University Magazine's obituary of January 1988 is headed 'ROSS SEAMAN / 1921-1987' and opens: 'Concordia University, the YMCA, and Dawson College lost a community leader, education innovator, and consummate teacher with the passing October 23 of A. Ross Seaman at age 66.' THIS CLOSES THE FIRST HALF OF OPEN QUESTION 1 in wiki/people/a-ross-seaman.md, which had asked for the birth year since the article was written and which a pass on 2026-09-05 could only mark 'partly answered' because the death date alone had been pinned. The two figures constrain each other: dead at 66 on 23 October 1987 having been born in 1921 means his birthday fell on or before 23 October, which is a test any later birth record has to pass. The death date itself is now held on two independently produced documents -- this obituary and the memorial fund notice in Canadian Camping Magazine, Winter 1988 -- rather than on one.",
+      "sources": [
+        "src_concordia_magazine_1988_01"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.49",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5380",
+      "category": "people",
+      "date_ref": "1940s",
+      "entities": [
+        "A. Ross Seaman",
+        "Sir George Williams University",
+        "YMCA of Montreal"
+      ],
+      "claim": "SEAMAN CAME TO SIR GEORGE IN THE 1940s AS A SERVING YMCA STAFF MEMBER, NOT AS AN ORDINARY STUDENT. 'Ross's history at Concordia goes back to the 1940s when he attended Sir George as a YMCA Fellowship Secretary.' The wiki had called him only 'a Sir George Williams University graduate', with no date and no account of the circumstances. Fellowship Secretary was an Association post; the sentence puts him on the YMCA payroll and in the classroom at the same time, which makes the Y the earlier attachment and Sir George -- itself a YMCA institution -- an extension of it rather than a separate chapter. This is the personal instance of the institutional relationship set out in connections/institutional-lineage/sgw-concordia-connection.md.",
+      "sources": [
+        "src_concordia_magazine_1988_01"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.49",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5381",
+      "category": "people",
+      "date_ref": "1985-1987",
+      "entities": [
+        "A. Ross Seaman",
+        "Concordia University"
+      ],
+      "claim": "SEAMAN WAS A FULL-TIME CONCORDIA FACULTY MEMBER IN LEISURE STUDIES FROM 1985, NOT MERELY THE ACTING CHAIR FOR ONE YEAR. 'At the time of his death, he was in his third year as a full-time Concordia faculty member in Leisure Studies, where he served as Acting Chair in 1986-87. He came to Concordia after retiring from Dawson College.' Third year at October 1987 puts the appointment's start in 1985, which sits correctly against the Dawson chairmanship the wiki dates 1974-1984. The wiki previously recorded only the 1986-87 acting chairmanship, which made the last years look like a brief coda; they were a third career of at least three years, cut short.",
+      "sources": [
+        "src_concordia_magazine_1988_01"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.49",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5382",
+      "category": "people",
+      "date_ref": "1985-1987",
+      "entities": [
+        "A. Ross Seaman",
+        "Margaret Seaman",
+        "Concordia University"
+      ],
+      "claim": "ROSS AND MARGARET SEAMAN RAN ELDERHOSTEL AT LOYOLA FOR THREE SUMMERS, 1985 THROUGH 1987. 'While at Concordia, Ross and his wife Margaret played central roles in the development of Elderhostel on Loyola campus, acting as host and hostess of the program over the past three summers.' From a January 1988 issue, three summers back is 1985, 1986 and 1987 -- two summers earlier than the wiki had it, which placed the Elderhostel work in the 1986-87 academic year alone. The role named is hands-on: host and hostess in residence, not committee work. The last of those three summers was the summer before he died.",
+      "sources": [
+        "src_concordia_magazine_1988_01"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.49",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5383",
+      "category": "people",
+      "date_ref": "1959-1967",
+      "entities": [
+        "A. Ross Seaman",
+        "Quebec Camping Association"
+      ],
+      "claim": "A SECOND SOURCE CALLS SEAMAN A PRIMARY ORGANIZER OF THE QUEBEC CAMPING ASSOCIATION. 'He was director of Camp Kanawana for many years, and a primary organizer of the Quebec Camping Association and founder of the wilderness program Les Voyageurs de la Verendrye.' The word is 'organizer', not 'president', and it is compatible with everything the wiki holds: the Canadian Camping mastheads show him as secretary of the association from about 1949 to the forced resignation of 1951 and again, of the national body, from February 1962 to no later than February 1963. What it adds is a second institution, writing at his death, saying his part in building the association was a leading one. It bears on the presidency question separately recorded at f_5390 without settling it either way, since organizing and presiding are different claims.",
+      "sources": [
+        "src_concordia_magazine_1988_01"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.49",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5384",
+      "category": "traditions",
+      "date_ref": null,
+      "entities": [
+        "A. Ross Seaman",
+        "Les Voyageurs de la Verendrye",
+        "Camp Kanawana"
+      ],
+      "claim": "THE OBITUARY NAMES SEAMAN THE FOUNDER OF 'THE WILDERNESS PROGRAM LES VOYAGEURS DE LA VERENDRYE' AND GIVES THE PROGRAMME ITS FULL NAME IN ONE PHRASE. The wiki has the programme from two directions -- the La Verendrye canoe trips launched during Seaman's Kanawana directorship, and 'Les Voyageurs' named as one of three YMCA camping sites in the Montreal Y's release of 28 November 1969 -- without a single statement joining the trip programme to the site name and to a founder. This supplies all three. Note that the obituary places the founding within his YMCA career ('His first career was with the YMCA... During this period'), which is consistent with the wiki's dating of the canoe trip programme to his 1959-1967 directorship.",
+      "sources": [
+        "src_concordia_magazine_1988_01"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.49",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5385",
+      "category": "institutional",
+      "date_ref": null,
+      "entities": [
+        "A. Ross Seaman",
+        "Sir George Williams University",
+        "Camp Kanawana"
+      ],
+      "claim": "SEAMAN PUT CAMPING COURSES INTO THE SIR GEORGE CURRICULUM. 'During this period, he introduced camping courses to the Sir George curriculum' -- 'this period' being his YMCA career, when he was directing Kanawana. This is a specific, named channel by which camp practice entered a university syllabus, and it belongs to connections/institutional-lineage/sgw-concordia-connection.md as much as to the biography. The direction of travel is worth stating plainly: the camp did not receive academic method from the university here, it exported its own into the calendar.",
+      "sources": [
+        "src_concordia_magazine_1988_01"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.49",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5386",
+      "category": "institutional",
+      "date_ref": "1963",
+      "entities": [
+        "A. Ross Seaman",
+        "Sir George Williams University",
+        "Hedley G. Dimock"
+      ],
+      "claim": "THE OBITUARY DATES THE FORMATION OF THE APPLIED SOCIAL SCIENCE DEPARTMENT, NOT JUST SEAMAN'S APPOINTMENT TO IT: 'Ross had been a part-time faculty member in Applied Social Science since the department was formed in 1963.' The wiki already dated Seaman's part-time appointment to 1963; the new clause is that 1963 is the year the department itself came into being, and that Seaman was in it from the start. This is a second source for a founding date the Georgian sweep approached from the other side, where the Kanawana staff advertisement of 20 February 1962 names Dr. H. G. Dimock as 'Co-ordinator of staff training and development, Metropolitan YMCA' -- an association post held the year before he founded the department. Two men who would teach in it were both working for the Y when it was formed.",
+      "sources": [
+        "src_concordia_magazine_1988_01"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.49",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5387",
+      "category": "institutional",
+      "date_ref": "1987-11-10",
+      "entities": [
+        "A. Ross Seaman",
+        "Camp Kanawana",
+        "Concordia University",
+        "Dawson College",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE MEMORIAL FUND MEETING IS DATED 10 NOVEMBER 1987 AND CAMP KANAWANA SENT A REPRESENTATIVE. 'Representatives from Concordia, Dawson College, the YMCA and Camp Kanawana met on November 10 to set up a fund to provide scholarships for students in leadership development programs.' The wiki had this meeting only through the Canadian Camping Magazine notice, which says 'a group of family, friends, and colleagues met in early November' -- undated, and described in personal rather than institutional terms. Near certainly the same meeting. What this adds is the day and the fact that four institutions sent people to it, among them the camp: Kanawana was represented at a Montreal meeting eighteen days after his death and twenty years after his directorship of it had ended. The address for contributions is also given in English here -- 'Financial Aid Office, Loyola Campus, AD-130-4, 7141 Sherbrooke St. West' -- against the French 'Bureau des finances AD 130' of the Canadian Camping notice.",
+      "sources": [
+        "src_concordia_magazine_1988_01"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.49",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5388",
+      "category": "people",
+      "date_ref": null,
+      "entities": [
+        "A. Ross Seaman",
+        "College Marie-Victorin"
+      ],
+      "claim": "SEAMAN CONSULTED AT COLLEGE MARIE-VICTORIN ON SPECIALIZED EDUCATION, ACTIVE RETIREMENT AND VOLUNTEER TRAINING. 'As a consultant, he played a major role in the development of techniques of specialized education, active retire- ment, and volunteer training at Collége Marie-Victorin' (the misaccented 'Collége' is the OCR's). Entirely new to the wiki, and it puts him in a francophone CEGEP, the only French-language institution named anywhere in his record. 'Active retirement' is the same interest as the Elderhostel work at Loyola, pursued in a second place; 'volunteer training' and 'specialized education' are the leadership-development thread that runs from the camp through Dawson's CRLT programme to the fund named after him.",
+      "sources": [
+        "src_concordia_magazine_1988_01"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.49",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5389",
+      "category": "people",
+      "date_ref": "1931",
+      "entities": [
+        "A. Ross Seaman",
+        "Camp Kanawana"
+      ],
+      "claim": "SEAMAN'S FIRST SUMMER AT KANAWANA AS A CAMPER CAN NOW BE DATED TO ABOUT 1931. This is a derivation from two sources and is entered as such. Canadian Camping's profile of June 1967 says 'he really began his career at the age of 10 when he attended Camp Kanawana as a camper. From then on, he spent his summers at camp working his way up from C.I.T. to Director.' Concordia University Magazine's obituary of January 1988 gives the birth year as 1921. Ten years on from 1921 is 1931, which would put his first summer at Kanawana in the camp's 38th season, twenty-eight years before he became its director and thirty-six before he left it. The figure is only as exact as the profile's round 'age of 10', so about 1931 is as far as it can be pushed; but the order of magnitude is the point, and it is now fixed rather than open. Note the consequence for the biography's shape: the boy arrived at camp during the Depression and the man was still at the association's conferences in 1977.",
+      "sources": [
+        "src_concordia_magazine_1988_01",
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "9.49",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5390",
+      "category": "people",
+      "date_ref": "1967-1977",
+      "entities": [
+        "A. Ross Seaman",
+        "Quebec Camping Association"
+      ],
+      "claim": "THE SEAMAN ARTICLE REJECTS A QUEBEC CAMPING ASSOCIATION PRESIDENCY THAT THREE OF ITS OWN OTHER SECTIONS DOCUMENT. FOUND 2026-09-07 WHILE CHECKING A DIFFERENT CLAIM. wiki/people/a-ross-seaman.md carries a paragraph headed 'A press release calls him a past president of the QCA, and this article does not adopt it', which reasons that the Montreal YMCA's release of 28 November 1969 -- 'ancien President de l'Association des Campeurs du Quebec' -- is a French paraphrase turning an English 'secretary' into 'president', and concludes: 'Everything above documents him as its secretary.' IT DOES NOT. Three passages of the same article, all with their own sources, say otherwise. (1) The Early Career section: 'A full biography appeared in Canadian Camping in June 1967, WHEN SEAMAN WAS PRESIDENT OF THE QUEBEC CAMPING ASSOCIATION.' (2) The Moncton seminar of 17-19 November 1967: 'Ross Seaman, IMMEDIATE PAST PRESIDENT OF THE ENGLISH SECTION of the Quebec Camping Association, was the resource person.' (3) The QCA English Section's 40th anniversary conference of 25-27 March 1977, which lists 'an impressive list of PAST PRESIDENTS of Q.C.A. in attendance, namely; Norrey Owens, Zave Ettinger, ROSS SEAMAN, Bob Lazanick, Peter van Wagner, Bill McCarthy and Val Willis.' The refusal paragraph and the masthead argument behind it concern the secretaryships of about 1949-1951 and of 1962-63, and both are sound for those years; what went wrong is the scope of the word 'everything', written without regard to material that stands elsewhere in the same file. THE 1969 PRESS RELEASE WAS RIGHT: he held the presidency of the QCA's English Section, apparently for a term ending in 1967, between the two secretaryships and the 1969 release. The paragraph is superseded in place rather than deleted, since the reasoning it contains about French paraphrase remains a good caution about a different kind of source.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.49",
       "added_by": "ralph_loop"
     }
   ]
