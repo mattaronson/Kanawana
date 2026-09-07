@@ -5418,3 +5418,28 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   dispatched agent's report is the one claim this project cannot re-derive.
   facts.json v10.12, 5,562 facts. Verify green, nine checks. Timestamp from
   `date -u` in its own call.
+
+[2026-09-07T14:53:45Z] VERIFY -- p_487 second pass, Canadian Camping arm closed.
+  Took the nine records carrying "asserted:read-by-dispatched-agent-full-text-
+  grep", the weakest claim in the corpus: a grep is not a read, and a dispatched
+  agent's report is the one kind of claim nothing in this repo can re-derive.
+  SIX OF THE NINE ARE PAGE EXTRACTS FROM ISSUES HELD IN FULL, so they were
+  checkable after all. Spot-checked each against the cached text -- Mutchler's
+  byline in June 1949, the Junior League lines in April 1958, the "Mrs. Seaman
+  directed" passage in June 1967, Lighthall in the 1975 and 1976 directories --
+  and all held. The later independent word-for-word read measures them again,
+  with two ledgers: 164 of 164 read, 164 of 164 extracted with a fact count each.
+  Basis strings rewritten to measured.
+  THE DEFECT WAS THE POINTER, AGAIN. All six carried NO cache_path while the
+  full issue sat in sources/cache/canadian-camping/. An empty field reads as a
+  web source needing a re-fetch from a network this environment half-blocks;
+  the document was on disk the whole time. Paths added, char_count measured.
+  So both defects this arm produced are provenance rot, not overstated reading:
+  nine records naming a directory, six naming nothing. No check looked, because
+  the checks test existence, and a directory always exists while an empty field
+  is not a broken path.
+  Also: "forty-five permanent" returned zero from facts.json and the finding was
+  already there as "45 permanent camps" (f_2583). A clean zero from one string
+  is a fact about the string. Third time this week.
+  f_5601. facts.json v10.13, 5,563 facts. Verify green, nine checks. Timestamp
+  from `date -u` in its own call.

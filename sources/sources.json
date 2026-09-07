@@ -12808,15 +12808,15 @@
       "date_precision": "exact",
       "origin": "internet_archive",
       "origin_url": "https://archive.org/details/canadiancampingmagazine_vol1no3_1949june",
-      "cache_path": null,
-      "char_count": 0,
+      "cache_path": "sources/cache/canadian-camping/canadiancampingmagazine_vol1no3_1949june.txt",
+      "char_count": 82354,
       "ingested_at": "2026-08-25T00:00:00Z",
       "extracted": true,
       "extraction_version": "v5.47",
       "reliability": "secondary",
-      "notes": "Founding statement for the Junior League Camp by its own director. OCR renders Lighthall as \"L'ght-hall\" across a line break.",
+      "notes": "Founding statement for the Junior League Camp by its own director. OCR renders Lighthall as \"L'ght-hall\" across a line break. CACHE PATH ADDED 2026-09-07 under p_487: this record had NO cache_path while the full issue was sitting in sources/cache/canadian-camping/ all along, so it looked like a web read that would have to be re-fetched. It is a page-level extract from an issue this project holds in full.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:read-by-dispatched-agent-full-text-grep"
+      "read_state_basis": "measured:kb/reread/cc_progress.jsonl row 3 marks canadiancampingmagazine_vol1no3_1949june.txt read at 2026-09-04, and kb/reread/cc_extract_progress.jsonl row 3 records 17 facts extracted from its findings block. Basis rewritten 2026-09-07 under p_487: it read \"asserted:read-by-dispatched-agent-full-text-grep\", which was both the weakest claim in the corpus and, as it turns out, an understatement -- a later independent campaign read the whole issue word for word and left two ledgers. The claim was spot-checked against the cached text before rewriting."
     },
     {
       "source_id": "src_ia_canadian_camping_1958_04",
@@ -12826,15 +12826,15 @@
       "date_precision": "exact",
       "origin": "internet_archive",
       "origin_url": "https://archive.org/details/canadiancampingmagazine_vol10_no3_1958april",
-      "cache_path": null,
-      "char_count": 0,
+      "cache_path": "sources/cache/canadian-camping/canadiancampingmagazine_vol10_no3_1958april.txt",
+      "char_count": 132810,
       "ingested_at": "2026-08-25T00:00:00Z",
       "extracted": true,
       "extraction_version": "v5.47",
       "reliability": "secondary",
-      "notes": "Junior League Camp subsidy and scale.",
+      "notes": "Junior League Camp subsidy and scale. CACHE PATH ADDED 2026-09-07 under p_487: this record had NO cache_path while the full issue was sitting in sources/cache/canadian-camping/ all along, so it looked like a web read that would have to be re-fetched. It is a page-level extract from an issue this project holds in full.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:read-by-dispatched-agent-full-text-grep"
+      "read_state_basis": "measured:kb/reread/cc_progress.jsonl row 38 marks canadiancampingmagazine_vol10_no3_1958april.txt read at 2026-09-04, and kb/reread/cc_extract_progress.jsonl row 38 records 12 facts extracted from its findings block. Basis rewritten 2026-09-07 under p_487: it read \"asserted:read-by-dispatched-agent-full-text-grep\", which was both the weakest claim in the corpus and, as it turns out, an understatement -- a later independent campaign read the whole issue word for word and left two ledgers. The claim was spot-checked against the cached text before rewriting."
     },
     {
       "source_id": "src_ia_canadian_camping_1961_12",
@@ -12844,15 +12844,15 @@
       "date_precision": "exact",
       "origin": "internet_archive",
       "origin_url": "https://archive.org/details/canadiancampingmagazine_vol14no1_1961dec",
-      "cache_path": null,
-      "char_count": 0,
+      "cache_path": "sources/cache/canadian-camping/canadiancampingmagazine_vol14no1_1961dec.txt",
+      "char_count": 98514,
       "ingested_at": "2026-08-25T00:00:00Z",
       "extracted": true,
       "extraction_version": "v5.47",
       "reliability": "secondary",
-      "notes": "Contributor note: Mutchler director from 1948, year-round executive director from 1956; camp \"subsidized by the Junior League of Montreal Inc.\"",
+      "notes": "Contributor note: Mutchler director from 1948, year-round executive director from 1956; camp \"subsidized by the Junior League of Montreal Inc.\" CACHE PATH ADDED 2026-09-07 under p_487: this record had NO cache_path while the full issue was sitting in sources/cache/canadian-camping/ all along, so it looked like a web read that would have to be re-fetched. It is a page-level extract from an issue this project holds in full.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:read-by-dispatched-agent-full-text-grep"
+      "read_state_basis": "measured:kb/reread/cc_progress.jsonl row 52 marks canadiancampingmagazine_vol14no1_1961dec.txt read at 2026-09-04, and kb/reread/cc_extract_progress.jsonl row 52 records 12 facts extracted from its findings block. Basis rewritten 2026-09-07 under p_487: it read \"asserted:read-by-dispatched-agent-full-text-grep\", which was both the weakest claim in the corpus and, as it turns out, an understatement -- a later independent campaign read the whole issue word for word and left two ledgers. The claim was spot-checked against the cached text before rewriting."
     },
     {
       "source_id": "src_ia_canadian_camping_1967_06",
@@ -12862,15 +12862,15 @@
       "date_precision": "exact",
       "origin": "internet_archive",
       "origin_url": "https://archive.org/details/canadiancampingmagazine_vol19_no4_1967june",
-      "cache_path": null,
-      "char_count": 0,
+      "cache_path": "sources/cache/canadian-camping/canadiancampingmagazine_vol19_no4_1967june.txt",
+      "char_count": 100505,
       "ingested_at": "2026-08-25T00:00:00Z",
       "extracted": true,
       "extraction_version": "v5.47",
       "reliability": "secondary",
-      "notes": "Profile of the Montreal YMCA Director of Camping. Carries the Mrs. Seaman passage that confirms Margaret Seaman's identity and camp-directing career. Also the last appearance of \"Junior League Camp\" under that name.",
+      "notes": "Profile of the Montreal YMCA Director of Camping. Carries the Mrs. Seaman passage that confirms Margaret Seaman's identity and camp-directing career. Also the last appearance of \"Junior League Camp\" under that name. CACHE PATH ADDED 2026-09-07 under p_487: this record had NO cache_path while the full issue was sitting in sources/cache/canadian-camping/ all along, so it looked like a web read that would have to be re-fetched. It is a page-level extract from an issue this project holds in full.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:read-by-dispatched-agent-full-text-grep"
+      "read_state_basis": "measured:kb/reread/cc_progress.jsonl row 75 marks canadiancampingmagazine_vol19_no4_1967june.txt read at 2026-09-04, and kb/reread/cc_extract_progress.jsonl row 75 records 14 facts extracted from its findings block. Basis rewritten 2026-09-07 under p_487: it read \"asserted:read-by-dispatched-agent-full-text-grep\", which was both the weakest claim in the corpus and, as it turns out, an understatement -- a later independent campaign read the whole issue word for word and left two ledgers. The claim was spot-checked against the cached text before rewriting."
     },
     {
       "source_id": "src_ia_canadian_camping_1975_01",
@@ -12880,15 +12880,15 @@
       "date_precision": "exact",
       "origin": "internet_archive",
       "origin_url": "https://archive.org/details/canadiancampingmagazine_vol27_no2_1975january",
-      "cache_path": null,
-      "char_count": 0,
+      "cache_path": "sources/cache/canadian-camping/canadiancampingmagazine_vol27_no2_1975january.txt",
+      "char_count": 413145,
       "ingested_at": "2026-08-25T00:00:00Z",
       "extracted": true,
       "extraction_version": "v5.47",
       "reliability": "secondary",
-      "notes": "First appearance of \"CAMP LIGHTHALL\" in the directory series.",
+      "notes": "First appearance of \"CAMP LIGHTHALL\" in the directory series. CACHE PATH ADDED 2026-09-07 under p_487: this record had NO cache_path while the full issue was sitting in sources/cache/canadian-camping/ all along, so it looked like a web read that would have to be re-fetched. It is a page-level extract from an issue this project holds in full.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:read-by-dispatched-agent-full-text-grep"
+      "read_state_basis": "measured:kb/reread/cc_progress.jsonl row 103 marks canadiancampingmagazine_vol27_no2_1975january.txt read at 2026-09-04, and kb/reread/cc_extract_progress.jsonl row 103 records 22 facts extracted from its findings block. Basis rewritten 2026-09-07 under p_487: it read \"asserted:read-by-dispatched-agent-full-text-grep\", which was both the weakest claim in the corpus and, as it turns out, an understatement -- a later independent campaign read the whole issue word for word and left two ledgers. The claim was spot-checked against the cached text before rewriting."
     },
     {
       "source_id": "src_ia_canadian_camping_1976_01",
@@ -12898,15 +12898,15 @@
       "date_precision": "exact",
       "origin": "internet_archive",
       "origin_url": "https://archive.org/details/canadiancampingmagazine_vol28_no2_1976january",
-      "cache_path": null,
-      "char_count": 0,
+      "cache_path": "sources/cache/canadian-camping/canadiancampingmagazine_vol28_no2_1976january.txt",
+      "char_count": 411835,
       "ingested_at": "2026-08-25T00:00:00Z",
       "extracted": true,
       "extraction_version": "v5.47",
       "reliability": "secondary",
-      "notes": "Camp Lighthall: 150 girls 6-14, four 12-day sessions, $75.00/12 days, filed under Organizational Residential - Girls. Last known evidence of operation.",
+      "notes": "Camp Lighthall: 150 girls 6-14, four 12-day sessions, $75.00/12 days, filed under Organizational Residential - Girls. Last known evidence of operation. CACHE PATH ADDED 2026-09-07 under p_487: this record had NO cache_path while the full issue was sitting in sources/cache/canadian-camping/ all along, so it looked like a web read that would have to be re-fetched. It is a page-level extract from an issue this project holds in full.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:read-by-dispatched-agent-full-text-grep"
+      "read_state_basis": "measured:kb/reread/cc_progress.jsonl row 107 marks canadiancampingmagazine_vol28_no2_1976january.txt read at 2026-09-04, and kb/reread/cc_extract_progress.jsonl row 107 records 19 facts extracted from its findings block. Basis rewritten 2026-09-07 under p_487: it read \"asserted:read-by-dispatched-agent-full-text-grep\", which was both the weakest claim in the corpus and, as it turns out, an understatement -- a later independent campaign read the whole issue word for word and left two ledgers. The claim was spot-checked against the cached text before rewriting."
     },
     {
       "source_id": "src_mccord_junior_league_p685",

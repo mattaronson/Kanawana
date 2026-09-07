@@ -1,8 +1,8 @@
 {
-  "version": "10.12",
-  "kb_version": "10.12",
+  "version": "10.13",
+  "kb_version": "10.13",
   "migrated_from": "3.3",
-  "fact_count": 5562,
+  "fact_count": 5563,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100238,6 +100238,24 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5601",
+      "category": "method",
+      "date_ref": null,
+      "entities": [
+        "Canadian Camping"
+      ],
+      "claim": "THE WEAKEST BASIS STRING IN THE CORPUS TURNED OUT TO BE AN UNDERSTATEMENT, AND THE REAL DEFECT WAS A MISSING PATH. p_487's second test took the nine records carrying 'asserted:read-by-dispatched-agent-full-text-grep' -- the weakest claim this project holds, because a grep is not a read and a dispatched agent's report is the one kind of claim that cannot be re-derived from anything in the repo. SIX OF THE NINE ARE PAGE-LEVEL EXTRACTS FROM ISSUES OF CANADIAN CAMPING THAT THIS PROJECT HOLDS IN FULL, so the agent's claims were checkable after all: each was spot-checked against the cached text (Mutchler's byline and 'Quebec Camps' in June 1949; the Junior League Camp lines in April 1958; the 'Mrs. Seaman directed' passage in June 1967; Lighthall in the January 1975 and 1976 directories) and each held. Better than that, a LATER AND INDEPENDENT campaign read all 164 issues word for word and left TWO ledgers -- kb/reread/cc_progress.jsonl, 164 of 164 read, and kb/reread/cc_extract_progress.jsonl, 164 of 164 extracted with a fact count each. So the six are measured twice over and their basis strings have been rewritten to say so. THE DEFECT THAT WAS REAL: all six carried NO cache_path AT ALL while the full issue sat in sources/cache/canadian-camping/. A record with no cache_path reads as a web source that must be re-fetched from a network this environment half-blocks; six of them pointed at nothing while the document was on disk. Paths added, char_count measured. TAKEN WITH f_5600 THIS CLOSES THE CANADIAN CAMPING ARM OF p_487: every asserted basis in that corpus was true, and both of the defects found were POINTERS rather than reading -- nine records naming a directory, six naming nothing. THE PATTERN WORTH CARRYING FORWARD is therefore not that reads are overstated but that PROVENANCE FIELDS ROT WHILE THE READING BEHIND THEM STAYS GOOD, and that no check looked at them, because the checks tested existence and a directory always exists while an empty field is not a broken path. A THIRD CAUTION FROM THE SAME HOUR: 'forty-five permanent' returned zero from kb/facts.json and the finding was already there, phrased '45 permanent camps' (f_2583). A clean zero from one string is a fact about the string.",
+      "sources": [
+        "src_ia_canadian_camping_1949_06",
+        "src_ia_canadian_camping_1967_06",
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.13",
       "added_by": "ralph_loop"
     }
   ]
