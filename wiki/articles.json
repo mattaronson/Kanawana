@@ -2743,7 +2743,7 @@
         "movement-archive-turn"
       ],
       "file_id": null,
-      "word_count": 18431,
+      "word_count": 18687,
       "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -5479,15 +5479,16 @@
         "f_5248"
       ],
       "sources_cited": [
-        "src_ia_ymca_montreal_news_bulletin_12_03"
+        "src_ia_ymca_montreal_news_bulletin_12_03",
+        "src_umedia_ymca_yearbook_series"
       ],
-      "open_questions": 6,
+      "open_questions": 5,
       "cross_links": [
         "directors-index",
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 1008,
+      "word_count": 1280,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -8455,7 +8456,8 @@
         "src_oral_aronson",
         "src_ssymca_netherwood",
         "src_ymca_quebec_pip_skinner",
-        "src_ia_the_lookout_1993"
+        "src_ia_the_lookout_1993",
+        "src_umedia_ymca_yearbook_series"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -8466,7 +8468,7 @@
         "maureen-mcbride"
       ],
       "file_id": null,
-      "word_count": 1089,
+      "word_count": 1211,
       "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md AND from directors-index.md Camp Directors table (Bruce Netherwood was already a fully-documented Director 1988-1994, richer than the plan's Pip-Award-only framing suggested). Jay Netherwood folded in as a section rather than a separate stub given near-total absence of independent biographical material. Corrected a dangling source_id reference (src_concordia_p0145_12b04_finding_aid -> src_concordia_atom_12B04, also affecting f_1066) in kb/facts.json while preparing this article.",
       "tags": {
         "era": [

@@ -1,8 +1,8 @@
 {
-  "version": "9.14",
-  "kb_version": "9.14",
+  "version": "9.16",
+  "kb_version": "9.16",
   "migrated_from": "3.3",
-  "fact_count": 5271,
+  "fact_count": 5275,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -95091,6 +95091,76 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.13",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5310",
+      "category": "people",
+      "date_ref": "1929-1943",
+      "entities": [
+        "R.H. Hanagan",
+        "Ronald Hanagan",
+        "Kamp Kanawana"
+      ],
+      "claim": "R. H. HANAGAN IS RONALD HANAGAN, AND THE PROOF IS ONE PUBLICATION PRINTING THE SAME POST TWO WAYS IN THE SAME VOLUME. rh-hanagan.md opens 'This article's subject is initials' and carries as its Critical open question what his first name was. The Year Book settles it without any inference across sources: the 1941 and 1943 volumes print, in the MONTREAL BRANCH DIRECTORY under Central Branch, '... Physical, Oscar L. Pearson / Assistant Physical, ... / BOYS, RONALD HANAGAN', and in the ALPHABETICAL LIST OF EMPLOYED OFFICERS in those same volumes, 'HANAGAN, R. H., Montreal, Que., Central, Boys, 29'. Same association, same branch, same post, same volume, one form spelled out and one abbreviated. HIS YEAR OF ENTRY INTO ASSOCIATION WORK IS 1929, AND THE CAREER STARTS IN ONTARIO: the 1929-30 volume gives 'Gait [Galt]. President, R. M. Fraser / General Secretary, F. J. T. Maines / Physical, J. W. McVicar / BOYS, RONALD HANAGAN'. The article had already guessed at 'a Ron Hanagan at Toronto Central in 1936' as a plausible earlier post and refused to record it as established; this is that identification made from the source rather than around it. The middle initial H is still unaccounted for -- the rosters give 'Ronald' and 'R. H.' and never both together in full.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5311",
+      "category": "people",
+      "date_ref": "1919-1958",
+      "entities": [
+        "Oscar L. Pearson",
+        "C. T. Sharpe",
+        "YMCA of Montreal"
+      ],
+      "claim": "OSCAR L. PEARSON WAS MONTREAL CENTRAL'S PHYSICAL DIRECTOR IN 1941 AND 1943, WHICH TURNS TWO SUSPICIOUS COINCIDENCES INTO ONE PLAUSIBLE CAREER. f_5304 recorded that 'Pearson, Capt. Oscar L.' appears on the Canadian overseas secretaries list of 1 June 1919 and that an Oscar L. Pearson wrote a camp safety editorial in Canadian Camping Magazine in February 1958, and REFUSED TO MERGE THEM: a captain of 1919 in his sixties by 1958 is possible but two independent forty-year coincidences in one pair of decades should raise suspicion in both directions. A MIDDLE TERM HAS NOW TURNED UP, AND IT IS AT MONTREAL. The 1941 and 1943 volumes give the Central Branch block as '... Physical, OSCAR L. PEARSON / Assistant Physical, ... / Boys, Ronald Hanagan' -- so an Oscar L. Pearson is on the staff of KANAWANA'S OWN ASSOCIATION in the years R. H. Hanagan was running the camp. Three points across 1919, 1941-43 and 1958 describe a continuous career in Canadian YMCA and camping work far more economically than three unrelated men of the same name. STILL NOT MERGED, BECAUSE THE RULE IS THE RULE: no source read joins any two of the three, and 'Pearson' is not a rare surname. But the balance has shifted, and the person to ask is the Montreal association's own records, which this project holds for those years. [SETTLED FURTHER, SAME SESSION, BY THE ENTRY-YEAR FIGURE. The alphabetical list gives 'Pearson, O. L.' with a year of entry into Association work of 12 in EVERY volume he appears in, tracing one continuous Canadian career: 'Toronto, West End., Asst. Ph. Dir., 12' in 1913-14; 'Ottawa, Ont., Physical, 12' in 1921-22; 'Toronto, Ont., Central, Physical, 12' in 1922-23; and 'Montreal, Que., Central, Physical, 12' in 1943. SO THE 1919 CAPTAIN AND THE 1941-43 MONTREAL PHYSICAL DIRECTOR ARE ONE MAN, on the roster's own evidence -- a YMCA physical director of seven years' standing in 1919 is exactly the sort released for overseas service, and the entry year carries through unchanged. A man entering the work in 1912 was most likely born between about 1888 and 1892, which puts him in his late sixties in 1958; writing a camp safety editorial at that age, after a thirty-year career in physical work, is unremarkable. THE 1958 LINK REMAINS BY NAME ALONE -- it is in Canadian Camping Magazine, not a YMCA roster, and nothing joins it to the rosters directly -- but calling it the same man is now the economical reading rather than the speculative one.]",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5312",
+      "category": "method",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "YMCA Year Book",
+        "University of Minnesota"
+      ],
+      "claim": "CORRECTION: THE MINNESOTA COLLECTION DOES NOT STOP IN 1982. f_5263 and the cached finding aid describe collection p16022coll351 as the Year Book series 'running 1877 to 1982', which is what the item titles sampled at the time suggested. IT ALSO HOLDS YMCA DIRECTORIES FOR AT LEAST 1996, 2000, 2001 AND 2002 -- record 17305 is the 1996 directory, 47077 the 2000, 41677 the 2001 and 32873 the 2002 -- and they are OCR'd and searchable like the rest. THAT MATTERS BECAUSE IT REACHES THE ERA THIS PROJECT'S DIRECTORS ARE STILL ALIVE IN. They are UNITED STATES directories, so Canadian camps do not appear in them and the Kanawana null of 1957-1968 is unaffected; what they are good for is following a person out of Canada, which is exactly what happened with Bruce Netherwood (f_5313). THE ERROR'S SHAPE, AGAIN: a claim about the extent of a collection was taken from the titles that came back in one enumeration rather than from the collection's own date range. The same species as 'name the list, never the volume'.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5313",
+      "category": "people",
+      "date_ref": "1996-2002",
+      "entities": [
+        "Bruce Netherwood",
+        "Kamp Kanawana"
+      ],
+      "claim": "BRUCE NETHERWOOD'S MASSACHUSETTS YEARS ARE NOW DOCUMENTED AND DATED. bruce-netherwood.md records that he directed Kanawana from 1988 to 1994 and asks, as an open question, what prompted 'his move to Massachusetts YMCA camping after leaving Kanawana in 1994' -- so the move was known, the destination was not. The YMCA Directories in this collection give it: 'NETHERWOOD, BRUCE, EXECUTIVE DIRECTOR' of the RESIDENT CAMPING DIVISION of the SOUTH SHORE YMCA at Sandwich, Massachusetts, in the 1996, 2000, 2001 and 2002 directories. So he was running a resident camping operation there within two years of leaving Kanawana and was still doing so eight years later. RECORDED AS AN INSTITUTIONAL FACT ONLY -- a name, a professional title and an employer, from a published professional directory. The directory also prints organisational telephone, fax and email details; those are not recorded here and should not be, being neither historical nor necessary. The identification rests on an uncommon surname, the right occupation, the right country and a start inside the window the article already had; no source read joins the two explicitly.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.15",
       "added_by": "ralph_loop"
     }
   ]

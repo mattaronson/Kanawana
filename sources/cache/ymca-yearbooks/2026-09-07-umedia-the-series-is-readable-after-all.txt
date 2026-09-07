@@ -726,3 +726,51 @@ silence is about that practice, not about a camp that had been running sixty yea
 
 WORTH KEEPING FOR ITS OWN SAKE: THIS ENDPOINT DOES WILDCARDS. That is the tool rule 37a asks for
 when a name might be mangled, and it was not known here until now.
+
+
+==========================================================================================
+FOURTEENTH PASS — THE DIRECTORS SWEEP, AND THE COLLECTION DOES NOT STOP IN 1982
+==========================================================================================
+
+CORRECTION FIRST. This file and f_5263 describe the collection as the Year Book series "running
+1877 to 1982", taken from the titles that came back in one enumeration. IT ALSO HOLDS YMCA
+DIRECTORIES FOR AT LEAST 1996 (rec 17305), 2000 (47077), 2001 (41677) AND 2002 (32873), OCR'd and
+searchable like the rest. They are UNITED STATES directories, so Canadian camps do not appear and
+the 1957-1968 Kanawana null is unaffected -- what they are good for is following a person OUT of
+Canada. Same species of error as "name the list, never the volume": a claim about a collection's
+extent taken from sampled titles rather than from its date range.
+
+RAN EVERY KNOWN KANAWANA DIRECTOR'S SURNAME AS A LOOSE SEARCH (per 37a). Ereaux and Twynam return
+zero. The rest returned, and three paid:
+
+R. H. HANAGAN IS RONALD HANAGAN, and the proof needs no inference across sources. The 1941 and
+1943 volumes print the SAME POST TWICE:
+    branch directory, Central Br.:  "Physical, Oscar L. Pearson ... BOYS, RONALD HANAGAN"
+    alphabetical list, same volume: "HANAGAN, R. H., Montreal, Que., Central, Boys, 29"
+His year of entry is 1929 and the career starts in Ontario: the 1929-30 volume gives
+"Gait [Galt]. ... Physical, J. W. McVicar / BOYS, RONALD HANAGAN". rh-hanagan.md opened with the
+words "This article's subject is initials" and carried the given name as a CRITICAL open question.
+The middle initial is still unaccounted for.
+
+OSCAR L. PEARSON IS ONE MAN FROM 1912, and this closes most of a question raised two passes ago.
+"Pearson, O. L." carries the entry-year figure 12 in every volume:
+    1913-14   Toronto, West End., Asst. Ph. Dir., 12
+    1921-22   Ottawa, Ont., Physical, 12
+    1922-23   Toronto, Ont., Central, Physical, 12
+    1943      Montreal, Que., Central, Physical, 12
+So the "Pearson, Capt. Oscar L." of the 1919 overseas list and the Montreal Central physical
+director of 1941-43 are ONE MAN -- a physical director of seven years' standing in 1919 is exactly
+who gets released for overseas service, and the figure carries through unchanged. The 1958 camp
+safety editorial in Canadian Camping Magazine is joined by NAME ALONE and is now the economical
+reading rather than the speculative one: entering the work in 1912 puts his birth about 1888-1892
+and his age in 1958 in the late sixties.
+
+BRUCE NETHERWOOD IN MASSACHUSETTS, DATED. bruce-netherwood.md knew he moved to Massachusetts YMCA
+camping after leaving Kanawana in 1994 and did not know where. The directories give
+"NETHERWOOD, BRUCE, EXECUTIVE DIRECTOR" of the RESIDENT CAMPING DIVISION, SOUTH SHORE YMCA,
+Sandwich, Massachusetts, in 1996, 2000, 2001 and 2002. INSTITUTIONAL FACT ONLY -- name, title,
+employer. The directories also carry organisational phone, fax and email; those are not recorded
+and should not be.
+
+THE ENTRY-YEAR FIGURE IS THE BEST INSTRUMENT IN THIS SERIES and it has now settled four separate
+identity questions in one session: Brooks, Holliday, Hanagan and Pearson.

@@ -1,11 +1,11 @@
-# R.H. Hanagan
+# R.H. Hanagan (Ronald Hanagan)
 
-*Status: E1-reviewed | Sources: 7*
-*Last Updated: 2026-06-22*
+*Status: E1-reviewed | Sources: 8*
+*Last Updated: 2026-09-07 (he is Ronald Hanagan, and he began at Galt in 1929)*
 
 ## Overview
 
-R.H. Hanagan served as Montreal YMCA camp director in 1942 and 1946, a period that included managing the camp during wartime conditions and handling a polio outbreak in which six cases were reported.^1 His title — "Montreal YMCA camp director" rather than simply "camp director" — suggests he had broader responsibilities across YMCA camping operations, not limited to Kanawana alone.^1 He is one of the best-documented directors of the 1940s era thanks to his detailed season reports preserved in the Concordia Archives and a 1942 Montreal Gazette article.^1 ^3
+**His given name is Ronald.** R.H. Hanagan served as Montreal YMCA camp director in 1942 and 1946, a period that included managing the camp during wartime conditions and handling a polio outbreak in which six cases were reported.^1 His title — "Montreal YMCA camp director" rather than simply "camp director" — suggests he had broader responsibilities across YMCA camping operations, not limited to Kanawana alone.^1 He is one of the best-documented directors of the 1940s era thanks to his detailed season reports preserved in the Concordia Archives and a 1942 Montreal Gazette article.^1 ^3
 
 ## Appointment and Directorship Structure
 
@@ -33,11 +33,13 @@ Hanagan authored a report to the Camp Board of Management on the American Campin
 
 The YMCA of Montreal's *News Bulletin* for May 1936 names the executive of the **Ontario and Quebec Boys' Work Secretaries Association**, which that spring planned the conference at which the committee to organise the Canadian Camping Association was struck. One of the four is "**Ron Hanagan, Toronto Central Y.M.C.A.**"^7
 
+**[RESOLVED 2026-09-07: he is RONALD HANAGAN, and the *Year Book* settles it without any inference across sources.** The 1941 and 1943 volumes print the same post **twice**: in the Montreal branch directory, under Central Branch, "Physical, Oscar L. Pearson … **Boys, Ronald Hanagan**"; and in the alphabetical list of employed officers in those same volumes, "**Hanagan, R. H.**, Montreal, Que., Central, Boys, **29**." Same association, same branch, same post, same volume — one form spelled out, one abbreviated. His year of entry into Association work is **1929**, and the career starts in Ontario: the 1929-30 volume gives "**Galt.** … Physical, J. W. McVicar — **Boys, Ronald Hanagan**." The middle initial is still unaccounted for; the rosters give "Ronald" and "R. H." and never both in full together.^8 The paragraph that follows is kept as written.]**
+
 **This article's subject is initials.** A Ron Hanagan at Toronto Central in 1936 is a plausible earlier post for a man who was the Montreal association's camp director by 1942, and it would supply the given name this article does not have. *It is not asserted to be the same man.* The surname is uncommon but not unique, no source here connects the two posts, and a move from Toronto Central to Montreal is an inference from nothing but a name and a six-year gap. What makes it worth writing down rather than dropping is that it is **testable**: the association's own staff-change columns, which this project has now found on the Internet Archive for other years, would record such a move if it happened. See [[connections/institutional-lineage/association-founding-dates|Founding Dates of the Camping Associations]] for what that 1936 meeting did.
 
 ## Open Questions
 
-1. [Critical] What are Hanagan's full biographical details — first name, birth/death dates, education? His first name initials "R.H." are the only biographical identifiers documented. (June 2026: searches across obituary databases, first-name expansions, and newspaper indexes all null; newspapers.com and BAnQ remain the unchecked surfaces.)
+1. ~~[Critical] What are Hanagan's full biographical details — first name, birth/death dates, education?~~ **[First name resolved 2026-09-07: RONALD.]** The *Year Book* prints "Boys, Ronald Hanagan" in the Montreal branch directory of 1941 and 1943 and "Hanagan, R. H. … Central, Boys, 29" in the same volumes' alphabetical list, and gives him at **Galt, Ontario** in 1929-30 with a year of entry into Association work of **1929**.^8 **Still open: the middle initial, birth and death dates, and education** — but a given name and a 1929 start in Ontario are two handles a genealogical or newspaper search did not have before.
 2. [Critical] Did Hanagan serve as director in years beyond 1942 and 1946? The gap suggests possible continuous service 1942–1946 or longer.
 3. [Important] What was Hanagan's role in the broader Montreal YMCA organization outside of camping?
 4. [Important] What are the details of the 1946 polio outbreak response? His season report in Concordia Archives (P0145/12A) is the primary source.
@@ -62,3 +64,4 @@ The YMCA of Montreal's *News Bulletin* for May 1936 names the executive of the *
 5. CFCF radio broadcast (1941): Langille season details, staff count, British evacuees.
 6. Connaught Fund (University of Toronto), "Polio Research, Conquering the 'Crippler'" (Ch. 7); Canada's History, "The Polio Epidemic in Canada." URL: https://connaught.research.utoronto.ca/about/history/article7
 7. "Institute for Camp Leaders," *The News Bulletin* Vol. 12 No. 3 (May 1936), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_12_03]. Internet Archive item `the-news-bulletin-vol-12-no-03`. The executive list of the Ontario and Quebec Boys' Work Secretaries Association's 1936 conference. See [f_5248].
+8. *YMCA Year Book and Official Rosters*, the volumes for **1929-30**, **1941** and **1943** [src_umedia_ymca_yearbook_series], read in the University of Minnesota Libraries' digitized run (ContentDM collection p16022coll351). The 1941 and 1943 volumes print the same post twice — spelled out in the Montreal branch directory, abbreviated in the alphabetical list of employed officers — which is what settles the given name. See [f_5310].

@@ -1,7 +1,7 @@
 # Bruce Netherwood
 
-*Status: draft | Sources: 10*
-*Last Updated: 2026-07-11*
+*Status: draft | Sources: 11*
+*Last Updated: 2026-09-07 (South Shore YMCA, Sandwich, Massachusetts — 1996 to 2002)*
 
 ## Overview
 
@@ -26,7 +26,7 @@ Netherwood went on to a long career in YMCA camping, most recently as Vice Presi
 ## Open Questions
 
 1. [Important] What biographical information exists for Jay Netherwood beyond his 1986–1987 directorship and 1988–90 supervisory role? No source found beyond an undiscoverable Facebook profile.
-2. [Nice-to-have] What prompted Bruce Netherwood's move to Massachusetts YMCA camping after leaving Kanawana in 1994?
+2. [Nice-to-have] What prompted Bruce Netherwood's move to Massachusetts YMCA camping after leaving Kanawana in 1994? **The destination and its span are now documented, though not the reason.** The published *YMCA Directory* lists him as **Executive Director of the Resident Camping Division of the South Shore YMCA**, Sandwich, Massachusetts, in **1996, 2000, 2001 and 2002**^11 — so he was running a resident camping operation there within two years of leaving Kanawana and was still doing so eight years later. What prompted the move is still unanswered.
 3. [Nice-to-have] The Pip Award citation describes Netherwood as "YMCA leader and author" — what did he author? No published work has been located via web search; it may refer to internal YMCA materials or reports.
 
 ## Related Articles
@@ -49,6 +49,7 @@ Netherwood went on to a long career in YMCA camping, most recently as Vice Presi
 8. South Shore YMCA, Bruce Netherwood bio [src_ssymca_netherwood].
 9. YMCA Quebec, "ALS Advocate Carol Skinner Receives Camp YMCA Kanawana Pip Alumni Award" (2016), Pip Award recipient list [src_ymca_quebec_pip_skinner].
 10. *The Lookout* Vol. 1 No. 3 (Kanawana Alumni Committee, autumn 1993), "Summer Report" signed by Bruce Netherwood, Director [src_ia_the_lookout_1993]. See [f_5008]. This is the only piece of Netherwood's own writing about a season this project holds.
+11. *YMCA Directory* for **1996**, **2000**, **2001** and **2002** [src_umedia_ymca_yearbook_series], in the University of Minnesota Libraries' ContentDM collection p16022coll351 — which holds the modern United States directories alongside the historical *Year Book* series. Institutional entries only: name, professional title and employer. See [f_5313].
 
 ## Research Notes
 

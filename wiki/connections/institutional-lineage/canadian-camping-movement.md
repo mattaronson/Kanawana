@@ -378,6 +378,23 @@ wrote a camp safety editorial in February 1958. A captain in 1919 would be in hi
 this movement's long careers make possible — but **two** independent forty-year coincidences in one pair
 of decades is the kind of pattern that should raise suspicion in both directions. Neither is merged.^18
 
+**A middle term has since turned up for Pearson, and it is at Montreal.** The 1941 and 1943 volumes give
+the Central Branch block as "Physical, **Oscar L. Pearson** … Boys, Ronald Hanagan" — so an Oscar L.
+Pearson is on the staff of **Kanawana's own association** in the years Hanagan was running the camp.^18
+Three points across 1919, 1941-43 and 1958 describe one continuous career in Canadian YMCA and camping
+work far more economically than three unrelated men of one name. **And the entry-year figure settles the first two.** The alphabetical
+list gives "Pearson, O. L." with a year of entry into Association work of **12** in every volume he
+appears in, tracing one career: Toronto West End as assistant physical director in 1913-14, **Ottawa**
+in 1921-22, **Toronto Central** in 1922-23, **Montreal Central** in 1943.^18 A YMCA physical director of
+seven years' standing in 1919 is exactly the sort released for overseas service, and the figure carries
+through unchanged. **The 1919 captain and the Montreal physical director are one man.**
+
+That leaves only the 1958 editorial, and it is now the economical reading rather than the speculative
+one: a man who entered the work in 1912 was most likely born between about 1888 and 1892, so he would be
+in his late sixties in 1958, and writing on camp safety after thirty years in physical work is
+unremarkable. **The link is still by name alone** — the editorial is in *Canadian Camping Magazine*, not
+a YMCA roster, and nothing joins it to the rosters directly.
+
 **Elsie K. Palter and David Palter**, of Camp Kawagama, appear together on the editorial team of *The
 Camp Counselor's Book* (Northway and Lowes, Longmans Canada, 1963), the standard Canadian text.
 Elsie Palter's own contributions are the ones with teeth: "Counsellors Can Help Their Campers" (April 1964)

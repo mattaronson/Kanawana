@@ -29,7 +29,9 @@ still Cloudflare.)*
 
 University of Minnesota Libraries, **ContentDM collection `p16022coll351`** on
 `cdm16022.contentdm.oclc.org` — "YMCA Yearbooks, Directories, and Proceedings", 173 items,
-Kautz Family YMCA Archives. Two endpoints do everything:
+Kautz Family YMCA Archives. **It does not stop in 1982**, as this handoff first said: it also holds
+the modern US **YMCA Directories for at least 1996, 2000, 2001 and 2002**, which is how Bruce
+Netherwood's Massachusetts years got dated. Two endpoints do everything:
 
 ```
 ENUMERATE / FULL-TEXT SEARCH (page level, returns parentobject = the volume)
@@ -57,15 +59,18 @@ asks for when OCR might have mangled a name, and it was not known here until the
 **Full-text coverage was controlled before any null was trusted**: "Montreal" returns 2,742 pages
 across 124 volumes and reaches every target volume.
 
-## The technique that did most of the work
+## The technique that did most of the work — it settled four identities
 
 The alphabetical list of employed officers prints each man's **year of entry into Association
 work** after his name, and **it does not change as he moves**. One two-digit figure follows one
 man across forty years and separates him from others of the same name. These lists answer only
 to the **inverted** form — `"Brooks, M. G."`, not "M. G. Brooks".
 
-It produced, in one session: Brooks's forty years, Holliday's whole career and his missing
-years, Forgie's career and his 1927 departure from Canada.
+It produced, in one session: Brooks's forty years; Holliday's whole career, his missing years and
+his given name; Forgie's career and his 1927 departure from Canada; **Ronald Hanagan's given name**,
+where the 1941 and 1943 volumes print the same post spelled out in the branch directory and
+abbreviated in the alphabetical list; and **Oscar L. Pearson as one man from 1912**, which joined a
+1919 overseas captain to Montreal Central's physical director of 1941-43.
 
 ## What was found, in order of weight
 
