@@ -951,7 +951,10 @@
         "src_ymf_sgw_ymca_annual_report_1968",
         "src_cyc_youth_and_jobs_1945",
         "src_ymf_ka_news_1978_04_28",
-        "src_ymf_1965_the_chestnut"
+        "src_ymf_1965_the_chestnut",
+        "src_ymf_the_green_triangle_1932_08_13",
+        "src_ymf_the_green_triangle_1932_08_20",
+        "src_ymf_the_green_triangle_1932_08_27"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -966,7 +969,7 @@
         "timeline-overview"
       ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
-      "word_count": 7794,
+      "word_count": 8159,
       "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_001 editorial-resolution narrative into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H2 into Research Notes. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -3361,7 +3364,10 @@
         "src_mcgill_daily_1938_03_02",
         "src_ymf_the_green_triangle_1932_07_23",
         "src_ymf_the_green_triangle_1932_07_30",
-        "src_ymf_the_green_triangle_1932_08_06"
+        "src_ymf_the_green_triangle_1932_08_06",
+        "src_ymf_the_green_triangle_1932_08_13",
+        "src_ymf_the_green_triangle_1932_08_20",
+        "src_ymf_the_green_triangle_1932_08_27"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -3380,7 +3386,7 @@
         "traditions/knights-of-kanawana"
       ],
       "file_id": null,
-      "word_count": 8134,
+      "word_count": 8462,
       "notes": "E1 REVIEW (2026-02-19): Fixed non-existent src_concordia_12B04 in header (removed; src_concordia_atom_12B04 already present). Fixed '131-year history' ambiguity to 'more than 130 years'. All claims cited, dates consistent, names cross-checked, tone encyclopedic. | 2026-08-14: cross-linked to the new traditions/order-of-owens.md. | 2026-08-14: NEW prose section on the Order of the Knights of Kanawana, giving the proclamation text and the six challenges for knighthood (previously the KB held the oath and the 1980-2009 roll but not the criteria). NOTE: this article is E1-reviewed and has received substantive new content; warrants a re-REVIEW pass. | 2026-08-14 (2nd pass): charter mined further -- A/B/C skill-grading system across named activities (f_2004), 'Kamp' spelling in challenge 5 corroborating the pre-2005 usage (f_2005), and the birchbark medium/composition (f_2006).",
       "tags": {
         "era": [
@@ -4764,7 +4770,10 @@
         "src_youtube_live_a_lot",
         "src_ia_canadian_camping_collection",
         "src_ymf_the_green_triangle_1932_07_30",
-        "src_ymf_the_green_triangle_1932_08_06"
+        "src_ymf_the_green_triangle_1932_08_06",
+        "src_ymf_the_green_triangle_1932_08_13",
+        "src_ymf_the_green_triangle_1932_08_20",
+        "src_ymf_the_green_triangle_1932_08_27"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -4777,7 +4786,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 6503,
+      "word_count": 6746,
       "notes": "R1 RALPH completed 2026-02-27. 14 new KB facts. 23 KB facts total. 15 sources. Key findings: Marching Song traced to Alabama Jubilee (1915), lost verses found at Concordia 2006; full 1922 Yo Triumphy cheer; 1923 Gas Bag original songs; 1935 musicale; 1938 choir by Leshley; Kerr song on CD P145/SR0001 (4:30). Blocked on: oral history for section cheers/Grace/campfire repertoire; Concordia archives for song books 1925-1945. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the 'Correction (2026-07-09)' paragraph into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

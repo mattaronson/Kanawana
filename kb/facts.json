@@ -1,8 +1,8 @@
 {
-  "version": "9.88",
-  "kb_version": "9.88",
+  "version": "9.89",
+  "kb_version": "9.89",
   "migrated_from": "3.3",
-  "fact_count": 5458,
+  "fact_count": 5461,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -98429,6 +98429,62 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.88",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5497",
+      "category": "history",
+      "date_ref": "1932-08",
+      "entities": [
+        "Camp Kanawana",
+        "Lake Marois",
+        "The Green Triangle"
+      ],
+      "claim": "MAROIS DAY 1932 HAD A MIXED PROGRAMME, PRINTED BY EVENT, AT A BOYS' CAMP. The Green Triangle of 20 August 1932. The afternoon opened with a regatta for the camp's own Juveniles and Juniors -- rowing, and rowing with cox. Then 'with the arrival of OUR FAIR VISITORS about three thirty, the second part of the regatta, WITH MANY FAIR PARTICIPANTS', whose events are listed: 'DOUBLE CANOEING MIXED. DOUBLE CANOEING LADIES. GUNWALE RACE MEN. CRAB RACE LADIES. HURRY SCURRY MIXED.' TWO OF FIVE EVENTS MIXED AND ONE WOMEN-ONLY. Afterwards a general swim 'enjoyed by all', and at supper the visitors sat with the boys 'and then assist in doing the dishes after the meal'. WHAT IT ADDS. wiki/history/coeducation-gender.md already has girls from the Lake Marois area visiting in 1923 for 'a mixed regatta, ball game, and dance'. This is the same thing nine years later WITH A NAME, a programme printed by category, and enough routine in the telling -- 'everything had previously been arranged by the leaders with the aid of numerous youthful assistants' -- to read as an annual fixture rather than an occasion. IT DOES NOT MAKE KANAWANA COEDUCATIONAL and nobody in 1932 would have said it did; the visitors came at half past three and it was a boys' camp again by nightfall. But the distance between the 'boys-only' label and what the camp actually did on an August Tuesday is measurable, and here it is measured in canoe races.",
+      "sources": [
+        "src_ymf_the_green_triangle_1932_08_20"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.89",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5498",
+      "category": "traditions",
+      "date_ref": "1932",
+      "entities": [
+        "Camp Kanawana",
+        "The Green Triangle",
+        "Douglas Clarke",
+        "Preston Robb"
+      ],
+      "claim": "THE SATURDAY NIGHT SHOW AND SUNDAY, AS A FORM RATHER THAN AN INSTANCE, FROM FOUR CONSECUTIVE 1932 ISSUES. THE SHOW opened with a sing-song; then a talk explicitly called 'THE EDUCATIONAL SECTION' -- a health talk from the camp doctor one week, JIM MILLS ON BIRD LORE another; then campers' sketches and music: cross-talk acts, a dentist's-office sketch by four Junior campers, boy soloists, PRESTON ROBB in 'a clever rendering of a SCOTCHMAN'S ACT', a monologue as an assistant village minister, a tumbling exhibition, BLINDFOLD BOXING THAT FAILED BECAUSE THE BLINDFOLDS WOULD NOT STAY ON, and DOUGLAS CLARKE singing Pagliacci one week and the Serenade from The Barber of Seville another. THE WEEK'S ISSUE OF THE GREEN TRIANGLE WAS READ ALOUD as a fixed item of the programme -- which is how a mimeographed sheet reached a camp of boys, and why its gossip column is written to be heard. The evening closed with a radio parody by two recurring characters, 'SNOOP AND PEEP', broadcasting 'over our super-super-super pterodactyl, 13 cylinder, air-cooled radio'. THE SUNDAY had its own shape: chapel 'in the OPEN CHAPEL ON THE LAKE TRAIL', a hymn, a solo, prayers from a leader, an address -- Reg Kelley's farewell text was 'WATCH, STAND FIRM IN FAITH, PLAY THE MAN AND BE STRONG', illustrated throughout with sport -- and the Benediction by the Chief; then the Sunday night COUNCIL RING assembling 'the CHIEFS AND LITTLE CHIEFS'. A NEW HYMN WRITTEN BY DOUG CLARKE was sung that morning; its words are not printed and no later issue names it.",
+      "sources": [
+        "src_ymf_the_green_triangle_1932_08_13",
+        "src_ymf_the_green_triangle_1932_08_20",
+        "src_ymf_the_green_triangle_1932_08_27"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.89",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5499",
+      "category": "traditions",
+      "date_ref": "1932-08-13",
+      "entities": [
+        "Camp Kanawana",
+        "D'Arcy McGee Camp"
+      ],
+      "claim": "THE KANAWANA YELL WAS WHAT YOU DID WHEN PASSING ANOTHER CAMP, AND 'KANAWANIANS' IS ATTESTED IN 1932. The Green Triangle of 13 August 1932, on a party returning from Morin Heights: 'While passing farmhouses and D'ARCY McGEE CAMP the hikers UNITED IN THE KANAWANA YELL.' The yell is not transcribed, which is a loss, but its FUNCTION is recorded: it was performed at other camps and at farms in passing, and identified the party at a distance. The same passage calls the hikers 'THE KANAWANIANS' -- six years earlier than the 'old Kanawanians' of 1938 that this wiki dates the demonym from, and a different formation again from the 'Kanawanitans' of Derek Walsh's 1978 staff bulletin. D'Arcy McGee Camp appears twice in the 1932 run as a landmark on the walking routes and as somewhere staff went on time off.",
+      "sources": [
+        "src_ymf_the_green_triangle_1932_08_13"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.89",
       "added_by": "ralph_loop"
     }
   ]

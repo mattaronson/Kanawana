@@ -1,6 +1,6 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 44*
+*Status: E1-reviewed | Sources: 45*
 *Last Updated: 2026-09-07 (the Fire of Friendship at Kanawana in 1932, three years earlier than recorded)*
 
 ## Overview
@@ -32,7 +32,7 @@ The camp calendar was punctuated by recurring competitive and social events:
 - **Shawbridge Meet**: An annual athletic competition involving a hike to Shawbridge, with the J. Earl Birks Trophy awarded. As of 1922, it had been running for ten years (since approximately 1912).^2 ^7 Still documented in 1935.^5
 - **Silver Trophies**: Annual inter-branch competition awards; in 1923, Westmount won Athletics and Aquatics for the third consecutive year.^7
 - **Boating Carnival** and **All-Camp Regatta**: Documented in 1935.^5
-- **Marois Day and Marois Regatta**: Events connected to the nearby Marois lake area.^5
+- **Marois Day and Marois Regatta**: Events connected to the nearby Marois lake area — and mixed events; the 1932 programme, with its Ladies' and Mixed races, is set out in [[history/coeducation-gender|Coeducation and Gender]].^5
 - **Annual Circus**: Raised $5 in proceeds during the 1935 season.^5
 - **Fancy Dress Ball**: Documented in the 1938 Green Triangle.^6
 - **Pyjama Parade**: An annual procession to the post office.^5
@@ -99,6 +99,26 @@ week," with the junior section divided into teams representing **Japan, Canada, 
 England and Australia**, points awarded across all games, and a track meet at which the boys
 "impersonated **Percy Williams**, **Phil Edwards** and other Olympic stars" — the two best-known
 Canadian sprinters of the day. Japan and the U.S.A. tied at 23 points; Canada came third.^44
+
+## The Saturday Night Show, 1932
+
+Four consecutive issues describe the Saturday programme, and together they give the form rather than
+one instance.^45 It opened with a sing-song; then a talk that was explicitly "the educational section"
+(a health talk from the camp doctor one week, **Jim Mills on bird lore** another); then sketches and
+music from the campers — cross-talk acts, a dentist's-office sketch by four Junior campers, boy
+soloists, **Preston Robb** doing "a clever rendering of a Scotchman's act," a monologue as an
+assistant village minister, a tumbling exhibition, blindfold boxing that failed because the blindfolds
+would not stay on, and **Douglas Clarke** singing *Pagliacci* one week and the Serenade from *The
+Barber of Seville* another. **The week's issue of the *Green Triangle* was read aloud** as a fixed item
+of the programme — which is how a mimeographed sheet reached a camp of boys, and why its gossip column
+is written to be heard. The evening closed with a radio parody by two recurring characters, "Snoop and
+Peep," broadcasting "over our super-super-super pterodactyl, 13 cylinder, air-cooled radio."
+
+The Sunday that followed had its own shape: chapel "in the open chapel on the lake trail," a hymn, a
+solo, prayers from a leader, an address — Reg Kelley's farewell text was "**Watch, stand firm in
+faith, play the man and be strong**," illustrated throughout with references to sport — and the
+Benediction given by the Chief. The Sunday night **Council Ring** assembled "the Chiefs and Little
+Chiefs," in the last issue of the season.
 
 ## L&V Games
 
@@ -406,3 +426,4 @@ Kanawana."^40 Whether either was ever held again is not known here.
 42. *The Green Triangle*, Vol. 1 No. 1, **23 July 1932** — the first issue [src_ymf_the_green_triangle_1932_07_23]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-07-23.txt`. Held since 2026-08-25 at read_state "skimmed", read word for word 2026-09-07 under p_482, in the systematic issue-by-issue read the article's open question 2 asks for.
 43. *The Green Triangle*, Vol. 1 No. 2, **30 July 1932** [src_ymf_the_green_triangle_1932_07_30]. Cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-07-30.txt`; read word for word 2026-09-07 under p_482. Previously sampled only for its first 1,200 characters, at [f_2384].
 44. *The Green Triangle*, Vol. 1 No. 3, **6 August 1932** [src_ymf_the_green_triangle_1932_08_06]. Cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-08-06.txt`; read word for word 2026-09-07 under p_482.
+45. *The Green Triangle*, **13 August 1932** [src_ymf_the_green_triangle_1932_08_13], **20 August 1932** [src_ymf_the_green_triangle_1932_08_20] and **27 August 1932** [src_ymf_the_green_triangle_1932_08_27]. All cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. The 27 August issue survives in a badly degraded scan — much of it is unreadable and only its clearest passages are used here.

@@ -1,7 +1,7 @@
 # Camp Songs, Cheers, and Musical Traditions
 
-*Status: E1-reviewed | Sources: 26*
-*Last Updated: 2026-09-07 ("Dear Old Kanawana", printed in 1932 and sung on the road home)*
+*Status: E1-reviewed | Sources: 27*
+*Last Updated: 2026-09-07 ("Dear Old Kanawana"; a hymn written at camp in 1932; the Yell on the road)*
 
 ## Overview
 
@@ -174,6 +174,19 @@ The first line is inverted — glad to be back, in the printed verse; wishing to
 eight miles out — which is what happens to a song once boys have it. Whether Ford wrote the words to
 an existing tune, as "Alabama Jubilee" and "Johnny Verbeck" both suggest was the house method, is not
 stated, and the metre is a common one.
+
+**A hymn written at camp, 1932.** The Sunday service of 21 August 1932 was held "in the open chapel on
+the lake trail," and the two hymns sung were "What a Friend We Have In Jesus" and "**the new Hymn
+written by Doug. Clarke**."^27 Clarke is elsewhere in the same season's paper giving "an operatic
+rendering of *Pagliacci*" at a Saturday Night Show and, in the last issue, the Serenade from *The
+Barber of Seville* — so the camp had a musician on staff capable of writing a hymn, and he wrote one.
+The hymn's words are not printed and no later issue names it.
+
+**And the Kanawana Yell on the road.** The paper of 13 August 1932 has a hiking party returning from
+Morin Heights: "While passing farmhouses and **D'Arcy McGee Camp** the hikers united in the **Kanawana
+Yell**."^27 The yell is not transcribed, which is a pity, but its use is: it was what you did when
+passing another camp, and it identified you at a distance. The same passage calls the party "the
+Kanawanians," six years before the "old Kanawanians" this wiki dates to 1938.
 
 ## Four named songs from 1933
 
@@ -367,6 +380,7 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 24. Jack Pearse (Director, Camp Tawingo), "Song Leading," *Canadian Camping* Vol. 22 No. 4 (June 1970), pp. 8-9 [src_ia_canadian_camping_collection]. The five categories, the named repertoire under each, the eight-step method for teaching a round, and the rule that all sing songs end quietly. See [f_4869], [f_4870].
 25. *The Green Triangle*, Vol. 1 No. 2, **30 July 1932** [src_ymf_the_green_triangle_1932_07_30]. Cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-07-30.txt`; read word for word 2026-09-07 under p_482. Previously sampled only for its first 1,200 characters, at [f_2384].
 26. *The Green Triangle*, Vol. 1 No. 3, **6 August 1932** [src_ymf_the_green_triangle_1932_08_06]. Cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-08-06.txt`; read word for word 2026-09-07 under p_482.
+27. *The Green Triangle*, **13 August 1932** [src_ymf_the_green_triangle_1932_08_13], **20 August 1932** [src_ymf_the_green_triangle_1932_08_20] and **27 August 1932** [src_ymf_the_green_triangle_1932_08_27]. All cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. The 27 August issue survives in a badly degraded scan — much of it is unreadable and only its clearest passages are used here.
 
 ## Research Notes
 

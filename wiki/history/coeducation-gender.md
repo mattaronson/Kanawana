@@ -1,7 +1,7 @@
 # Coeducation and Gender at Kanawana
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-09-07 (the 1965 staff poll: seven for coeducation, three against, two years before the announcement)*
+*Last Updated: 2026-09-07 (Marois Day 1932, a mixed regatta programme at a boys' camp; and the 1965 staff poll)*
 
 ## Overview
 
@@ -204,6 +204,34 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 
 **A Junior Girls section had its own director in 1978, and the camp was recruiting one in April.** Kanawana's staff bulletin of 28 April 1978 lists four posts still unfilled six weeks before the season: Waterfront Director, Sailing Director, C.I.T. Director, and **Junior Girls Section Director**.^kn78 The wiki's next-nearest evidence for a named Junior Girls section is a plaque of 1992, fourteen years later. This is a small line in a recruiting notice, but it is the camp's own paper treating a Junior Girls section as an established part of the 1978 structure with a directorship of its own — not as an experiment, and not as girls attached to a boys' camp.
 
+## Marois Day, 1932
+
+[[traditions/traditions-and-culture|Traditions and Culture]] lists "Marois Day and Marois Regatta" as
+"events connected to the nearby Marois lake area," and the songs article notes Marois Day as the 1935
+season's most anticipated event. *The Green Triangle* of **20 August 1932** describes one, and the
+description belongs in this article rather than in either of those, because Marois Day was a **mixed
+event with a mixed programme, at a boys' camp, in 1932**.^gt32
+
+The afternoon opened with a regatta for the camp's own Juveniles and Juniors — rowing and rowing with
+cox. Then: "With the arrival of **our fair visitors** about three thirty, the second part of the
+regatta, with many fair participants." The second programme is printed as a list of events, and it is
+the detail that matters:
+
+> Double canoeing **Mixed** · Double canoeing **Ladies** · Gunwale race **Men** · Crab Race **Ladies**
+> · Hurry Scurry **Mixed**
+
+Two of five events were mixed and one was women-only. Afterwards "a general swim was then enjoyed by
+all," and at supper the visitors "sat with them and then assisted in doing the dishes after the meal."
+
+**What this adds.** This article already has girls from the Lake Marois area visiting in **1923** for
+"a mixed regatta, ball game, and dance." The 1932 account shows the same thing nine years later, with
+a name — *Marois Day* — a printed programme of events by category, and enough routine in the telling
+("everything had previously been arranged by the leaders with the aid of numerous youthful assistants")
+to read as an annual fixture rather than an occasion. It does not make Kanawana coeducational, and
+nobody in 1932 would have said it did: the visitors arrived at half past three and the camp was a
+boys' camp again by nightfall. But the distance between "boys-only" and what the camp actually did on
+an August Tuesday is worth measuring, and here it is measured in canoe races.
+
 ## The 1965 staff poll
 
 The clearest evidence that Kanawana's move to coeducation came from inside the camp is not a report
@@ -280,6 +308,7 @@ coming to Kamp Kanawana each summer."
 - [cp] "Interview: Charles Plewman," Jay Haddad's interview of 15 August 1976 at Plewman's Haliburton rest home, printed with the notice of his death on 28 December 1981, *Canadian Camping* Vol. 33 No. 6 (Winter 1982), pp. 4-5 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 140). Movement context, not a Kanawana document; the interview is one of the CCA/ACC oral history tapes deposited at Trent University.
 - ^ch65: *The Chestnut* ("the pathfinder — Summer Summary"), Kamp Kanawana Pathfinder section publication, 1965 [src_ymf_1965_the_chestnut]. Cached at `sources/cache/ymca-montreal-fonds/1965-the-chestnut.txt`; held since 2026-08-25 at read_state "skimmed" and read word for word 2026-09-07 under p_482. See [f_5487].
 - ^kn78: Derek Walsh, *Ka-News '78*, Kamp Kanawana staff bulletin of 28 April 1978 [src_ymf_ka_news_1978_04_28]. Cached in full at `sources/cache/ymca-montreal-fonds/ka-news-1978-04-28.txt`; read word for word 2026-09-07. See [f_5465].
+- ^gt32: *The Green Triangle*, 13, 20 and 27 August 1932 [src_ymf_the_green_triangle_1932_08_13, src_ymf_the_green_triangle_1932_08_20, src_ymf_the_green_triangle_1932_08_27]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. The 27 August issue survives in a badly degraded scan. See [f_5497].
 - [cm] Concordia University Archives static finding-aid mirror, YMCA of Montreal fonds P145 sub-series 12C01, 12D, 12E, 12I, 12J [src_concordia_mirror_12c01, src_concordia_mirror_12d, src_concordia_mirror_12e, src_concordia_mirror_12i, src_concordia_mirror_12j]. Fetched and extracted 2026-08-25 in the p_268 mirror walk. Finding aids: they establish that a file of a given title and date exists, not its contents. See [f_2258], [f_2264].
 - [lw] "Camping… The Last Word!" (the A.B. Thiessen exchange with editor Jay Haddad); the bilingual editorial "segregation… It Still Exists!!!"; and Sylvia Haynes, "Camping is Fun! And it is For Everyone!", *Canadian Camping* Vol. 36 No. 1 (Spring 1984), pp. 3, 8-9, 19 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 150).
 - [ty] "Personality Profile: W. E. (Ted) Yard (1919-1983)" — interview with Shirley Yard and Ted Yard Jr., *Canadian Camping Magazine* Vol. 38 No. 2 (Fall 1986), pp. 10-15 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 159). Movement context, not a Kanawana document.
