@@ -1,8 +1,8 @@
 {
-  "version": "10.44",
-  "kb_version": "10.44",
+  "version": "10.45",
+  "kb_version": "10.45",
   "migrated_from": "3.3",
-  "fact_count": 5595,
+  "fact_count": 5596,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100822,6 +100822,26 @@
       "date_ref": "1912-1921",
       "conflicts_with": [],
       "added_version": "10.44",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5634",
+      "claim": "THE 1920 ANNUAL REPORT DATES THE DINING PAVILION'S CONSTRUCTION AND GIVES ITS CAUSE, AND IT IS THE THIRD DOCUMENT c_049 DID NOT HAVE. Found under p_491 while reading the 1918-1920 reports for the senior camp, in the paragraph immediately after the boys'-camp attendance -- once again the sentence next door.\n\nTHE REPORT FOR THE YEAR ENDING 30 APRIL 1920, on the 1919 season: 'During the year the Junior Camp was operated from JUNE 25TH TO AUGUST 26TH with an attendance of 289 BOYS ... The accommodations, however, were VERY CROWDED. At one time there were AS MANY AS 165 BOYS, while the Camp CANNOT COMFORTABLY ACCOMMODATE MORE THAN 80 OR 90. The great need of extending the Camp to accomodate a larger number was felt by your Board. Figures were obtained by the Permanent Camp Committee as to the cost of the improvements. INCLUDED IN THE BUDGET OF 1920 IS A SUM SUFFICIENT TO ENLARGE THE CAMP TO ACCOMMODATE 200 BOYS. THE JUNIOR CAMP COMMITTEE HAS BEEN CHARGED WITH THE ERECTION OF A NEW DINING PAVILION AND OTHER BUILDINGS NECESSARY. THIS WORK IS WELL ADVANCED AT THE PRESENT TIME AND WILL BE IN READINESS FOR THE OPENING OF THE CAMP THIS YEAR.'\n\nWHAT IT SETTLES AND WHAT IT DOES NOT. c_049 sets the 1988 facilities table's 1919 against the 1951 camp history's 1920 for the dining hall and asks whether the gap is construction start against completion. This report says the money was in the BUDGET OF 1920, the work was WELL ADVANCED in the spring of 1920, and it would be READY FOR THE 1920 OPENING. Set beside Concordia P145/12B03's BLUEPRINTS FOR A DINING PAVILION DATED 1919 (f_1787), the sequence is: drawn 1919, budgeted 1920, built over the winter and spring, opened summer 1920. BOTH DATES IN c_049 ARE THEN CORRECT ABOUT DIFFERENT EVENTS, which is the explanation c_049 itself proposed and could not test. THIS DOES NOT FORMALLY RESOLVE c_049: two documented sources are still each stating a bare year, and under CLAUDE.md that remains a human decision point. What has changed is that the reconciliation is now evidenced rather than plausible.\n\nAND IT GIVES THE CAUSE, WHICH NOTHING ELSE DID. The dining pavilion was not a routine improvement. It was built because 289 boys came in 1919 and 165 were on site at once in a camp the association itself reckoned held 80 or 90 comfortably -- roughly double. The building this wiki has spent several passes trying to date was an overcrowding response, and the same sentence sets the target: 'sufficient to enlarge the Camp to accommodate 200 boys'.\n\nIT ALSO BEARS ON f_5627, written this morning, which established that the dining hall was open-sided from at least 1919 until it was enclosed in 1977. Nothing here contradicts that; the 1919 recruiting page's 'immense open air roofed dining-hall' is the PREDECESSOR, and the 1920 building replaced it -- which is exactly what the 1951 history means by 'THE PRESENT dining hall and kitchen unit completed 1920' beside 'the lower pavilion on the lake front built early'. The c.1920s Concordia interior photograph of an open-sided pavilion could then be either building, and this fact does not decide which.\n\nNOT ESTABLISHED: who built it, what it cost, whether the 1922 brochure's 'new' Dining Pavilion (f_0303) is this one described two years late or a further building, and whether the 200-boy target was met.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1920",
+        "src_concordia_12B03",
+        "src_ia_kanawana_history_1951"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Kamp Kanawana",
+        "Dining Pavilion",
+        "Permanent Camp Committee"
+      ],
+      "date_ref": "1919-1920",
+      "conflicts_with": [],
+      "added_version": "10.45",
       "added_by": "ralph_loop"
     }
   ]

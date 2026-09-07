@@ -1,6 +1,6 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 69*
+*Status: E1-reviewed | Sources: 70*
 *Last Updated: 2026-09-07 (the 1936 CFCF script; and what the site costs to rent in 2026)*
 
 ## Overview
@@ -393,6 +393,34 @@ Committee's 1913 description quoted below already says "a dining room, kitchen, 
 is now provided"; the *Gazette* of 27 July **1918** has meals "served in the dining pavilion"; and the
 **1922** brochure lists a Dining Pavilion among that year's *new* facilities.^69
 
+**A third document, found later the same day, dates the building and gives its reason.** The annual
+report for the year ending 30 April 1920, describing the 1919 season: "During the year the Junior Camp
+was operated from June 25th to August 26th with an attendance of **289 boys**… The accommodations,
+however, were **very crowded**. At one time there were **as many as 165 boys**, while the Camp **cannot
+comfortably accommodate more than 80 or 90**. The great need of extending the Camp to accomodate a
+larger number was felt by your Board… **Included in the budget of 1920 is a sum sufficient to enlarge
+the Camp to accommodate 200 boys. The Junior Camp Committee has been charged with the erection of a new
+dining pavilion and other buildings necessary. This work is well advanced at the present time and will
+be in readiness for the opening of the Camp this year.**"^70
+
+Read against Concordia's blueprints for a dining pavilion **dated 1919**, the sequence is: drawn in
+1919, budgeted in 1920, built over that winter and spring, open for the summer of 1920. **Both dates in
+`c_049` are then right about different events** — which is the explanation the conflict record itself
+proposed and had no way to test. It does not formally close `c_049`, because two documents still each
+state a bare year and that remains an operator's call; what has changed is that the reconciliation is
+now evidenced instead of merely plausible.
+
+**And it supplies the cause, which nothing else did.** The dining pavilion was not routine improvement.
+It was built because 289 boys came in 1919 and 165 were on site at once in a camp the association itself
+reckoned held eighty or ninety comfortably — roughly double — and the same sentence sets the target the
+building was sized to: "sufficient to enlarge the Camp to accommodate 200 boys." The building this wiki
+has spent several passes trying to date was an overcrowding response.
+
+That also tidies the paragraph above rather than upsetting it: the 1919 recruiting page's "immense open
+air roofed dining-hall" describes the **predecessor**, which is what the 1951 history means by "**the
+present** dining hall and kitchen unit completed 1920" set beside "the lower pavilion on the lake front
+built early." Which building the c.1920s interior photograph shows is still not decided here.
+
 One word settles most of it, and it is a word `c_049` does not quote. The 1951 history says "**the
 present** dining hall and kitchen unit completed 1920," and in the same breath names "the lower pavilion
 on the lake front built early." The document knows there was something before. On that reading the 1913
@@ -634,6 +662,7 @@ them on every line and by tenfold on revenue.
 67. The Kanawana Flickr album of Concordia Archives historical images [src_flickr_kanawana_concordia_historical_album] — the **1941** hand-drawn camp map (three near-identical copies) at [f_1572], and a site map the archive dates to **1980–2001** at [f_1573]. Brought into this article 2026-09-07 under p_492, the orphan-fact sweep.
 68. Kamp Kanawana physical archive scans, 2026 [src_kanawana_physical_archive_scans_2026] — the cyanotype blueprint "Proposed Service Wing to Dining Hall", signed **J. M. Venters, Architect, 1503 Mackay Street, Montreal**, at [f_1579]. Brought into this article 2026-09-07 under p_492, the orphan-fact sweep. The identification of that architect with the **John Venters** who led the **Camp Architecture** workshop at the **1953** conference is at [f_5625], from *Canadian Camping* Vol. 5 No. 3, **June 1953** [src_ia_canadian_camping_1953_06].
 69. The dining hall's open-sided span and the dates around it, assembled 2026-09-07 under p_492 at [f_5627]. The **c.1920s** interior photograph of the open-sided pavilion, with its "KAMP KANAWANA" banner and "YMCA" pennant, is [src_flickr_kanawana_concordia_historical_album] at [f_1727] — the image already sat in this article's gallery with no note and no prose. The **1923** exterior, "a large log building with a deep overhanging roof", is the "PICTORIAL REVIEW" page of *The Gas-Bag Extra* Vol. 13 No. 1 [src_ymf_the_gas_bag_extra_vol_13_no_1] at [f_4927]. The **1977** line "enclosing and renovating the dining hall" is the director's report for that year [src_ia_kanawana_report_1977], quoted from `sources/cache/ymca-montreal-fonds/1977-kamp-kanawana-directors-report.txt` rather than from its paraphrase. The **1918** Gazette's "served in the dining pavilion" is [src_newspapers_gazette_1918b] at [f_2245]; the **1920** completion and the "lower pavilion on the lake front" are the **1951** camp history [src_ia_kanawana_history_1951] at [f_2120]; the **1922** brochure's new Dining Pavilion is [src_brochure_1922] at [f_0303]; and the **1919** blueprints are Concordia P145/12B03 [src_concordia_12B03] at [f_1787].
+70. YMCA of Montreal annual report for the year ending 30 April **1920** [src_ymf_sgw_ymca_annual_report_1920], describing the **1919** season. The **289** boys, the **165** on site at once against a stated comfortable capacity of **80 or 90**, the **200**-boy target, and the Junior Camp Committee charged with "the erection of a new dining pavilion" that "will be in readiness for the opening of the Camp this year", are all at [f_5634]. The **1919** blueprints it is set beside are Concordia P145/12B03 [src_concordia_12B03] at [f_1787], and the **1920** completion is the **1951** camp history [src_ia_kanawana_history_1951] at [f_2120]. Found 2026-09-07 under p_491, in the paragraph after the attendance figure.
 
 ## Research Notes
 
