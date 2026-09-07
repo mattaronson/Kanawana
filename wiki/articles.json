@@ -11459,7 +11459,7 @@
         "src_ia_kanawana_report_1975",
         "src_ymf_1965_the_chestnut"
       ],
-      "open_questions": 4,
+      "open_questions": 5,
       "cross_links": [
         "site/the-kanawana-site",
         "people/multi-year-index",
@@ -11467,7 +11467,8 @@
         "people/directors-index"
       ],
       "file_id": null,
-      "word_count": 2049
+      "word_count": 1746,
+      "reader_facing": true
     },
     {
       "article_id": "derek-walsh",

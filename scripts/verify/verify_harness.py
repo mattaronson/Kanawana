@@ -117,6 +117,11 @@ link_re    = re.compile(r'\[\[([^\]]+?)\]\]')
 cite_re    = re.compile(r'\^(\d+)')
 srcref_re  = re.compile(r'\bsrc_[A-Za-z0-9_]+')   # matches ids inside combined brackets too, e.g. [src_a, src_b]
 hdr_src_re = re.compile(r'^\*Status:\s*([a-zA-Z0-9\-]+)\s*\|\s*Sources:\s*(\d+)', re.M)
+# Reader-facing articles carry no visible status line -- "R3-verified" is pipeline
+# vocabulary and does not belong in front of a reader. They carry the same two
+# fields in an HTML comment instead, which the reader never sees and this harness
+# still binds to. Added 2026-09-07 with the first such article (julien-tasse).
+meta_src_re = re.compile(r'^<!--\s*meta:\s*status=([a-zA-Z0-9\-]+)\s*\|\s*sources=(\d+)', re.M)
 srcline_re = re.compile(r'^(\d+)\.\s', re.M)
 
 def article_path(a):
@@ -228,9 +233,20 @@ for a in arts:
             wide_g[a['article_id']] = (a['status'], dupes, gaps)
 
     # A1 wide: header count against the entries actually present.
-    mh = hdr_src_re.search(tx)
-    if mh and int(mh.group(2)) != len(numbered_list) and numbered_list:
-        wide_a1[a['article_id']] = (a['status'], int(mh.group(2)), len(numbered_list))
+    #
+    # 2026-09-07. This used to be `if mh and ...`, so an article with NO header at
+    # all passed silently -- there was nothing to compare, so nothing was reported.
+    # No article had fallen into that hole until a reader-facing rewrite dropped the
+    # visible status line, and then the harness said "ok" because it had stopped
+    # looking rather than because the article was sound. Same shape as the two scope
+    # notes above: a check that only fires when it finds something to check cannot
+    # tell "correct" from "absent".
+    mh = hdr_src_re.search(tx) or meta_src_re.search(tx)
+    if numbered_list:
+        if not mh:
+            wide_a1[a['article_id']] = (a['status'], 'NO HEADER', len(numbered_list))
+        elif int(mh.group(2)) != len(numbered_list):
+            wide_a1[a['article_id']] = (a['status'], int(mh.group(2)), len(numbered_list))
 
     # D wide: a [src_] reference to an id that is not in sources.json. Widened
     # 2026-09-06 (f_5120). The draft-only D had let src_kk_preparation_guide_2025
@@ -284,7 +300,10 @@ if not wide_a1:
     print('    none')
 for k in sorted(wide_a1):
     st, hdr, n = wide_a1[k]
-    print('    %-32s [%s] header says %d, %d entries present' % (k, st, hdr, n))
+    if hdr == 'NO HEADER':
+        print('    %-32s [%s] NO status/sources header at all, %d entries present' % (k, st, n))
+    else:
+        print('    %-32s [%s] header says %d, %d entries present' % (k, st, hdr, n))
 
 # WHOLE-WIKI: a .md under wiki/ that articles.json has never heard of. Added
 # 2026-09-06. A spinout wrote cca-national-office.md, three articles linked to it,
