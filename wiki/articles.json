@@ -11169,7 +11169,8 @@
         "f_4850",
         "f_4851",
         "f_4862",
-        "f_4950"
+        "f_4950",
+        "f_5249"
       ],
       "sources_cited": [
         "src_cache_sgw_ymca_annual_report_1894_1895",
@@ -11201,7 +11202,8 @@
         "src_ymf_annual_report_1976_125_colourful_years",
         "src_ymf_sgw_ymca_annual_report_1984",
         "src_ymf_sgw_ymca_annual_report_1985",
-        "src_ball_basic_camp_management_2012"
+        "src_ball_basic_camp_management_2012",
+        "src_ia_ymca_montreal_news_bulletin_19_03"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -11214,7 +11216,7 @@
         "connections/related-camps/quebec-camp-landscape"
       ],
       "file_id": null,
-      "word_count": 7881
+      "word_count": 8125
     },
     {
       "article_id": "points-of-contact",

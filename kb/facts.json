@@ -1,8 +1,8 @@
 {
-  "version": "8.81",
-  "kb_version": "8.81",
+  "version": "8.82",
+  "kb_version": "8.82",
   "migrated_from": "3.3",
-  "fact_count": 5210,
+  "fact_count": 5211,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93962,6 +93962,25 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.81",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5249",
+      "category": "institutional",
+      "date_ref": "1944-05",
+      "entities": [
+        "YMCA of Montreal",
+        "Big Cove",
+        "Chance Harbour",
+        "Kamp Kanawana"
+      ],
+      "claim": "KANAWANA'S OWN ASSOCIATION CONCEDED CANADIAN PRIMACY TO NOVA SCOTIA IN 1944, FORTY-FIVE YEARS BEFORE THE CONCESSION THIS PROJECT ALREADY HELD. The YMCA of Montreal's News Bulletin for May 1944 prints a list of YMCA firsts, and one of them reads: 'The first organized boys' camping in North America was begun in the state of New York, and THE FIRST ORGANIZED CAMP IN CANADA WAS CONDUCTED IN 1889 AT CHANCE HARBOUR, NOVA SCOTIA.' oldest-camp-question.md already records that in 1989 the YMCA of Montreal printed an endorsement of 1889 and Big Cove as the origin of Canadian YMCA camping and sent Kanawana to celebrate it, and calls that a concession by the camp's own parent. THIS PUSHES THE SAME CONCESSION BACK TO 1944 AND HARDENS IT: the 1989 statement can be read as centenary courtesy toward a host, and the other Chance Harbour source in this KB hedges with 'so far as we can discover'. THE 1944 ONE DOES NEITHER. It is a flat statement of fact in a list of institutional firsts, printed by Kanawana's own association fifty years into Kanawana's own existence, at a moment when nobody was celebrating anything in Nova Scotia. THE SAME LIST gives three more firsts, of which one is new here: 'The first organized boys' work in Canada was begun by the MONTREAL AND TORONTO Y.M.C.A.'S IN 1873' -- a shared primacy claim for Montreal in boys' work, twenty-one years before the camp. The others are the first building erected solely for YMCA work, Charlottetown 1872, and the first North American foreign-work secretary, 1889. WHAT IT DOES NOT SETTLE: Big Cove's founding year, which oldest-camp-question.md holds open between 1889, 1890 and 1891. A 1944 bulletin is not evidence of what happened in 1889; it is evidence of what the Montreal association believed and published.",
+      "sources": [
+        "src_ia_ymca_montreal_news_bulletin_19_03"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.82",
       "added_by": "ralph_loop"
     }
   ]

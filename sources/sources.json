@@ -30439,7 +30439,23 @@
       "extraction_version": "8.80",
       "reliability": "primary",
       "notes": "In the Internet Archive's ymca-montreal-fonds collection. Read 2026-09-07 under p_462 for its camping content; the rest of the issue is not read. Its \"Institute for Camp Leaders\" report is contemporaneous evidence on the origin of the Canadian Camping Association."
+    },
+    {
+      "source_id": "src_ia_ymca_montreal_news_bulletin_19_03",
+      "type": "periodical",
+      "title": "The News Bulletin, Volume 19, Number 3 (May 1944), YMCA of Montreal",
+      "date": "1944-05",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/the-news-bulletin-vol-19-no-03",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-07T00:50:00Z",
+      "extracted": true,
+      "extraction_version": "8.82",
+      "reliability": "primary",
+      "notes": "In the Internet Archive's ymca-montreal-fonds collection. Read 2026-09-07 under p_462 for its camping content; the rest of the issue, largely war services and prisoner-of-war work, is not read."
     }
   ],
-  "source_count": 1692
+  "source_count": 1693
 }

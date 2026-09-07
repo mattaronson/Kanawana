@@ -1,7 +1,7 @@
 # Is Kanawana the Oldest Camp in Canada?
 
-*Status: draft | Sources: 24*
-*Last Updated: 2026-09-06 (the one published primacy claim from outside the YMCA, and why it moves nothing)*
+*Status: draft | Sources: 25*
+*Last Updated: 2026-09-07 (the association conceded Canadian primacy in 1944, not only in 1989)*
 
 ## Overview
 
@@ -185,6 +185,10 @@ and campfire ashes buried at the Canadian Camping Association congress that Octo
 endorsement of **1889 and Big Cove** as the origin of YMCA camping in Canada, and sent its camp to
 celebrate it. Whatever this article concludes, the camp's own association has already conceded the
 point once, in writing.
+
+**And it had conceded it forty-five years earlier, in flatter terms.** The association's own *News Bulletin* for **May 1944** prints a list of YMCA firsts, one of which reads: "The first organized boys' camping in North America was begun in the state of New York, and **the first organized camp in Canada was conducted in 1889 at Chance Harbour, Nova Scotia**."^25 That matters because of what it is not. The 1989 endorsement can be read as courtesy toward a centenary host, and the other Chance Harbour source this project holds hedges — "so far as we can discover." **The 1944 statement does neither.** It is a flat assertion in a list of institutional firsts, printed by Kanawana's own association in the camp's fiftieth year, at a moment when nobody in Nova Scotia was celebrating anything. *It is not evidence about 1889*; a bulletin of 1944 is evidence of what the Montreal association believed and published. But it means the concession is a settled institutional position of long standing rather than a one-off.
+
+The same list gives Montreal a primacy of its own that this wiki did not have: "**the first organized boys' work in Canada was begun by the Montreal and Toronto Y.M.C.A.'s in 1873**" — shared, and twenty-one years before the camp.^25
 
 **Big Cove's director brought Kanawana's director to the Maritimes.** Tom Creighton, Director of YMCA
 Big Cove Camp and former president of the Nova Scotia Camping Association [f_3590], wrote the Atlantic
@@ -575,3 +579,4 @@ across the country, and the century that closed its own sibling camp on the orig
 22. *125 Colourful Years*, YMCA of Montreal 125th-anniversary publication, 1976 [src_ymf_annual_report_1976_125_colourful_years]. See [f_5045].
 23. YMCA of Montreal annual reports for the years ended **31 May** 1984 and 1985 [src_ymf_sgw_ymca_annual_report_1984, src_ymf_sgw_ymca_annual_report_1985]. See [f_5047]. Their camping seasons are the summers of 1983 and 1984. **[Corrected 2026-09-06:** this note previously read "for the years ending March 1984 and March 1985" and cited [f_5039], the 31 March rule. The seasons are unchanged and still right, but the reason was wrong: the association's year-end was 31 March only through 1950, then 31 December, and by the mid-1960s **31 May**. The 1984 report's own title page reads "for the year ended May 31, 1984," and a June-to-May year contains the earlier summer. See [f_5081]; every other post-1950 season attribution is being audited under p_450.**]**
 24. Armand B. Ball, *Basic Camp Management: An Introduction to Camp Administration* (Monterey, CA: Healthy Learning, 2012), "An American Camp Association book", Internet Archive scan leaf 436 [src_ball_basic_camp_management_2012]. **One sentence only**, reconstructed from seven overlapping Open Library search-inside queries; lending-restricted, page images return HTTP 403, not read. Weighed at length in [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]. See [f_4950].
+25. "YMCA firsts" list, *The News Bulletin* Vol. 19 No. 3 (May 1944), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_19_03]. Internet Archive item `the-news-bulletin-vol-19-no-03`, in the `ymca-montreal-fonds` collection. Found 2026-09-07 by the enumeration at [f_5243]. See [f_5249].
