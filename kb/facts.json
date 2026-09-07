@@ -1,8 +1,8 @@
 {
-  "version": "10.37",
-  "kb_version": "10.37",
+  "version": "10.38",
+  "kb_version": "10.38",
   "migrated_from": "3.3",
-  "fact_count": 5590,
+  "fact_count": 5591,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100718,6 +100718,27 @@
       "date_ref": "1935-07",
       "conflicts_with": [],
       "added_version": "10.37",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5629",
+      "claim": "THE 1937 GREEN TRIANGLE PUTS THE CAMP'S INTERNATIONALISM IN THE WORK CREW, NOT THE CEREMONY, AND IT HANDS OUT NATIONAL CARICATURES IN THE SAME SENTENCE. traditions-and-culture.md's 'Internationalism at Kanawana, 1932-1965' runs 1932, 1935 (twice), 1938 and 1965. 1937 was missing, and the Spring Issue of 30 March 1937 fills it with evidence of a different kind from everything else in the section.\n\nEvery other item there is a ceremony or a statement -- torches, a koinobori, an opening campfire, a camper's essay -- and every one is about CAMPERS. This one is about STAFF, and about the least ceremonial work at camp. 'Jo Peep', the columnist, recalls the chapel service in which it was mentioned that 'IN THE FIRST TRUCK LOAD OF THOSE SENT TO \"BREAK CAMP\", THERE WAS A GROUP FORMING ALMOST A LEAGUE OF NATION NATIONALITIES: JACK CAMERON, THE GOLFING SCOT, CAPT. KIDD, THE PIRATICAL BRITISH COLUMBIAN CANADIAN BUSINESS MAJOR-DOMO, NERI GUADAGNI, THE ITALIAN CARD SHARP, WES WOO, THE STORY-TELLING CHINESE MANDARIN, BUD FLAHERTY, THE AMERICIAN BIOLOGIST, AND JO PEEP, THE EXPATRIATED ENGLISH HAILE SELASSIE.' The writer draws the moral himself: 'AND THIS MIXTURE OF NATIONALITIES, MUCH LIKE THE MIXTURE OF DIFFERENT TYPES OF CAMPERS, WAS BANDED TOGETHER TO LEARN HOW, BY EXPERIENCE, TO GET ALONG WITH EACH OTHER. Camping is fun, but camping is also opportunity to meet, play with, work with, and understand those with whom we come in contact.' Six men in a truck, sent up early to open the place, and the camp treated the composition of that truckload as the thing worth preaching about.\n\nAND THE SAME SENTENCE IS A LIST OF ETHNIC CARICATURES, WHICH SHOULD BE SAID RATHER THAN SMOOTHED OVER. The Italian is a card sharp; the Chinese man is a 'story-telling mandarin'; the Scot golfs. THE SHARPEST OF THEM IS THE DATE. Jo Peep calls himself 'the expatriated English Haile Selassie' -- Haile Selassie had been in exile in Bath since Italy took Addis Ababa in May 1936, ten months before this issue -- and NERI GUADAGNI, 'THE ITALIAN', IS TWO NAMES EARLIER IN THE SAME LIST. The paper is celebrating a League of Nations at camp while making a joke out of the League's most public failure, with an Italian standing beside the man making it. Nothing in the text shows any awareness of this. It is recorded because the section it belongs in argues that the camp's internationalism was deliberate and sustained, which it was, and this is what that looked like from inside in 1937: real, and casually shot through with the racial vocabulary of its decade.\n\nNOT ESTABLISHED: whether any of the six were paid staff or volunteers, what roles they held, or whether 'break camp' here means opening the season (the reading taken, since the truck is sent TO the site and the recollection is of the season's start) rather than closing it. Kidd is presumably one of the Kidd brothers already in this project; Guadagni, Woo and Flaherty are new names. Jack Cameron is at f_5626.",
+      "sources": [
+        "src_ymf_the_green_triangle_1937_03_30"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Jack Cameron",
+        "Capt. Kidd",
+        "Neri Guadagni",
+        "Wes Woo",
+        "Bud Flaherty",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1937-03-30",
+      "conflicts_with": [],
+      "added_version": "10.38",
       "added_by": "ralph_loop"
     }
   ]

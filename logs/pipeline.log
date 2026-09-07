@@ -6503,3 +6503,26 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   who appears not to exist, and the only reason it did not enter the record is that the claim was
   queried before it was believed. A search summary is not a source. It is a claim about sources, and it
   can be wrong in the specific, checkable-looking way that is hardest to catch.
+
+2026-09-07T16:44:01Z  p_492 (orphan facts) -- unit: 1937 fills the gap in the internationalism section.
+  traditions-and-culture.md's "Internationalism at Kanawana, 1932-1965" ran 1932, 1935 (twice), 1938,
+  1965. The Green Triangle Spring Issue of 30 March 1937 -- the fourth thing drawn from that one document
+  today -- fills 1937 with evidence of a different kind from everything else in the section: the other
+  items are ceremonies and statements about CAMPERS, and this one is about STAFF doing the least
+  ceremonial job at camp. The first truckload sent up to break camp was "almost a League of Nation
+  nationalities": Jack Cameron the Scot, Capt. Kidd, Neri Guadagni the Italian, Wes Woo, Bud Flaherty
+  the American, and the columnist himself. The camp made that truckload the subject of a chapel sermon,
+  and the columnist draws the moral in his own words.
+  THE PART THAT WOULD HAVE BEEN EASY TO LEAVE OUT is written in instead: the same sentence is a list of
+  ethnic caricatures, and the columnist calls himself "the expatriated English Haile Selassie" ten months
+  after Italy took Addis Ababa, with Neri Guadagni, "the Italian", two names earlier in the same list.
+  The paper celebrates a League of Nations at camp while joking about the League's most public failure,
+  with an Italian standing beside the man making the joke, and shows no sign of noticing. Quoting it
+  tidied would have made the section's own argument -- that the internationalism was deliberate and
+  sustained -- weaker, not kinder, because the argument is about what these people actually did, and
+  they did it in the vocabulary of 1937.
+  Added f_5629 (kb/facts.json v10.38, 5591 facts). New passage and note 58 in
+  wiki/traditions/traditions-and-culture.md; src_ymf_the_green_triangle_1937_03_30 added to
+  sources_cited (51 -> 52). Cross-linked to canoe-trips for Jack Cameron. verify/all.py: all pass.
+  NEW NAMES for later work: Neri Guadagni, Wes Woo, Bud Flaherty. None has a stub; none meets the
+  five-fact threshold on this one document alone, so none was spawned.

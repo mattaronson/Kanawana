@@ -1,6 +1,6 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 57*
+*Status: E1-reviewed | Sources: 58*
 *Last Updated: 2026-09-07 (the c.1940 badges themselves, labelled by whoever kept the scrapbook)*
 
 ## Overview
@@ -221,6 +221,31 @@ reads "the boys of Cjina" in that one sentence, against "the youth of Japan" and
 friends" either side of it; the OCR of this run is poor and the surrounding text is unambiguous.)* A
 koinobori flying over a Laurentian boys' camp in 1935, six years before Japan and Canada were at war,
 with a reply posted back — this project holds nothing else like it.
+
+**1937: it was in the work crew, not only the ceremony.** Every other item in this section is a
+ceremony or a statement, and every one is about campers. The Spring Issue of *The Green Triangle*, 30
+March 1937, is about staff, and about the least ceremonial job at camp. Its columnist recalls a chapel
+service in which it was mentioned that in the first truckload of those sent up to break camp "there was
+a group forming almost a **League of Nation nationalities**: **Jack Cameron**, the golfing Scot, **Capt.
+Kidd**, the piratical British Columbian Canadian business major-domo, **Neri Guadagni**, the Italian card
+sharp, **Wes Woo**, the story-telling Chinese mandarin, **Bud Flaherty**, the American biologist, and Jo
+Peep, the expatriated English Haile Selassie."^58 He draws the moral himself: "this mixture of
+nationalities, much like the mixture of different types of campers, was banded together to learn how, by
+experience, to get along with each other. **Camping is fun, but camping is also opportunity to meet,
+play with, work with, and understand those with whom we come in contact.**" Six men in a truck, sent
+ahead to open the place, and the camp made the composition of that truckload the subject of a sermon.
+
+**The same sentence is a list of ethnic caricatures, and the date is the sharpest thing in it.** The
+Italian is a card sharp, the Chinese man a "story-telling mandarin," the Scot golfs. And the columnist
+calls himself "the expatriated English Haile Selassie" — Haile Selassie had been living in exile in Bath
+since Italy took Addis Ababa in **May 1936**, ten months before this issue went out — while **Neri
+Guadagni, "the Italian," stands two names earlier in the same list**. The paper celebrates a League of
+Nations at camp in the act of making a joke of the League's most public failure, with an Italian beside
+the man making it, and shows no sign of noticing. It is quoted here rather than tidied because this
+section argues the camp's internationalism was deliberate and sustained, which it was. This is what that
+looked like from the inside in 1937: real, and casually shot through with the racial vocabulary of its
+decade. Jack Cameron, first of the six, turns up again driving canoe trippers north in 1940; see
+[[traditions/canoe-trips|Canoe Trips]].
 
 **1938: fifteen nations, and an argument for why it mattered.** The opening campfire of the 1938
 season, in the Council Ring: "The first part of the programme was an expression of 'goodwill towards
@@ -727,3 +752,4 @@ Kanawana."^40 Whether either was ever held again is not known here.
 55. D. Cochrane and others, *J. R. Kidd: An International Legacy of Learning* (Monographs on Comparative and Area Studies in Adult Education) [src_kidd_international_legacy]. Internet Archive item `ERIC_ED272738`, full djvu text downloaded and read 2026-09-07. **"Kanawana" occurs zero times in it**; what it supplies is Kidd's Montreal YMCA career, his North Branch boys'-work post and his brother John. See [f_5569] and [f_5570].
 56. Henry F. Hall, *The Georgian Spirit: The Story of Sir George Williams University* [src_georgian_spirit_1967], which names "John P. Kidd" in a list headed "(a) Bachelor of Arts"; and *The Passionate Educators* [src_passionate_educators], whose notes cite four letters from J. R. Kidd to J. P. Kidd in 1950-51. Both reached through Open Library search-inside 2026-09-07; **neither full text was downloaded**, so both are snippet evidence. See [f_5571].
 57. Kamp Kanawana physical archive scans, 2026 [src_kanawana_physical_archive_scans_2026] — an operator-supplied set of scanned artefacts. The **c.1940** scrapbook page of felt badges is at [f_1582] and the **Kanawana Outing Club** badge at [f_1583]. Brought into this article 2026-09-07 under p_492, the orphan-fact sweep.
+58. *The Green Triangle*, Spring Issue, **30 March 1937** [src_ymf_the_green_triangle_1937_03_30], cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1937-03-30.txt`. The **1937** break-camp truckload, the "League of Nation nationalities" passage and the caricatures in it are at [f_5629]. **Jack Cameron**, first of the six named, is followed across four documents from **1936** to **1940** at [f_5626].
