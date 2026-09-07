@@ -9784,13 +9784,13 @@
       "date_precision": "range",
       "origin": "user_provided",
       "origin_url": null,
-      "cache_path": "assets/images/artifacts/ and assets/images/art/",
+      "cache_path": "assets/images/artifacts",
       "char_count": 0,
       "ingested_at": "2026-07-02T00:00:00Z",
       "extracted": true,
       "extraction_version": "v4.9x",
       "reliability": "primary",
-      "notes": "Delivered via photodownloads/'Kanawana Archives-3-001.zip' (2026-06-29); Matt's own scans of physical camp memorabilia. Filed to assets/images/artifacts/ and assets/images/art/; see credits.json. 10 near-duplicate scans of the same physical items were skipped (representative kept). Full visual-mining pass completed 2026-07-05: remaining 46 images in assets/images/artifacts/ and assets/images/art/ (beyond the 2 already transcribed) reviewed and transcribed into KB facts (f_1569 onward), including the 1913 reunion banquet menu, the J.M. Venters dining-hall-extension blueprint, the 1920s honour-award ribbon system, and the 1982/1981 print advertisements.",
+      "notes": "Delivered via photodownloads/'Kanawana Archives-3-001.zip' (2026-06-29); Matt's own scans of physical camp memorabilia. Filed to assets/images/artifacts/ and assets/images/art/; see credits.json. 10 near-duplicate scans of the same physical items were skipped (representative kept). Full visual-mining pass completed 2026-07-05: remaining 46 images in assets/images/artifacts/ and assets/images/art/ (beyond the 2 already transcribed) reviewed and transcribed into KB facts (f_1569 onward), including the 1913 reunion banquet menu, the J.M. Venters dining-hall-extension blueprint, the 1920s honour-award ribbon system, and the 1982/1981 print advertisements. || cache_path CORRECTED 2026-09-07: it held TWO paths in a single-path field -- 'assets/images/artifacts/ and assets/images/art/' -- so it resolved to nothing on any check. Both directories exist and both hold this source's scans; cache_path now names assets/images/artifacts and the companion directory assets/images/art is recorded here in prose, where a second path belongs.",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
     },
@@ -27820,7 +27820,7 @@
       "date_precision": "exact",
       "origin": "concordia_archives",
       "origin_url": null,
-      "cache_path": "sources/cache/concordia-findingaid/P0145-ymca-of-montreal-fonds-findingaid-2023-11-24.pdf",
+      "cache_path": "sources/cache/concordia-findingaid/P0145-ymca-of-montreal-fonds-findingaid-2023-11-24.txt",
       "char_count": 386508,
       "ingested_at": "2026-09-02T00:00:00Z",
       "extracted": false,
@@ -27828,7 +27828,7 @@
       "reliability": "primary",
       "read_state": "unread",
       "read_state_basis": "none: catalogued 2026-09-02 from a cached file that belonged to no source record",
-      "notes": "Text was already OCR'd and on disk in concordia-findingaid; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read."
+      "notes": "Text was already OCR'd and on disk in concordia-findingaid; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read. || cache_path CORRECTED 2026-09-07: it read '...findingaid-2023-11-24.pdf' and no such file exists; what is on disk is the .txt of the same name. A path that resolves to nothing is indistinguishable from a source never cached, which is the failure the read-state discipline exists to prevent, so the extension is fixed rather than the file renamed."
     },
     {
       "source_id": "src_ia_kanawana_broadcast_cfcf_1939",

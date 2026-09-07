@@ -199,6 +199,35 @@ def main():
     finally:
         shutil.rmtree(tmp, ignore_errors=True)
 
+    # Every cache_path resolves to something on disk.
+    #
+    # WHY. On 2026-09-07 a source record was found whose cache_path named a .pdf
+    # that does not exist (the file on disk is the .txt of the same name), and
+    # another that held TWO paths in a single-path field, so it resolved to
+    # nothing at all. A path that resolves to nothing is INDISTINGUISHABLE FROM
+    # A SOURCE NEVER CACHED: a later pass greps it, finds nothing, and reads the
+    # absence as an absence of evidence. That is the same failure as an
+    # unrecorded null, one layer down.
+    #
+    # This says nothing about whether the file is the whole document -- 29 cache
+    # files legitimately serve 99 records as shared sweeps, and many caches are
+    # excerpts whose read_state says so. Size proves nothing here and was tried:
+    # a size test flagged 25 records, and every one checked turned out honest,
+    # its read_state_basis naming exactly which part had been read. What is
+    # checkable is existence, so that is what is checked.
+    try:
+        with open(P('sources', 'sources.json'), encoding='utf-8') as fh:
+            _src = json.load(fh)
+        _rows = _src['sources'] if isinstance(_src, dict) else _src
+        for _s in _rows:
+            _cp = _s.get('cache_path')
+            if _cp and not os.path.exists(P(_cp)):
+                bad.append('source %s: cache_path %r does not exist. A path that '
+                           'resolves to nothing looks exactly like a source that was '
+                           'never cached.' % (_s.get('source_id'), _cp))
+    except Exception as exc:                      # sources.json parse is checked above
+        note.append('cache_path existence not checked: %s' % exc)
+
     print('=' * 70)
     print('DATA INTEGRITY')
     print('=' * 70)

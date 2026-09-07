@@ -2,7 +2,7 @@
   "version": "10.09",
   "kb_version": "10.09",
   "migrated_from": "3.3",
-  "fact_count": 5510,
+  "fact_count": 5511,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99353,6 +99353,20 @@
       "sources": [
         "src_concordia_seaman_award_history_2007"
       ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5549",
+      "category": "methodology",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "TWO CACHE PATHS RESOLVED TO NOTHING, AND THE SEVENTH FAILED HEURISTIC LOOKING FOR MORE OF THEM. After f_5548 -- a source whose cache_path pointed at a NOTE about the booklet rather than the booklet, so a false completeness claim could not be checked against anything -- the obvious next question was whether other records do the same. THREE MEASUREMENTS, ONE USEFUL. (1) EXISTENCE, which is true and was worth running: 1,022 of 1,024 cache_paths resolve; TWO DID NOT. src_cache_p0145_..._findingaid_2023_11_24 named a .pdf where the file on disk is the .txt of the same name, and src_kanawana_physical_archive_scans_2026 held TWO paths in a single-path field ('assets/images/artifacts/ and assets/images/art/'), so it resolved to nothing at all. Both fixed, and the check is now in data_integrity.py and BLOCKING, tested by breaking a path and confirming exit 1. WHY IT MATTERS: a path that resolves to nothing is INDISTINGUISHABLE FROM A SOURCE NEVER CACHED -- a later pass greps it, finds nothing, and reads the absence as an absence of evidence. (2) SIZE, which failed. Flagging every cache far smaller than its record's declared char_count gave 46, of which a keyword test for words like 'excerpt' and 'null sweep' called 25 undeclared. EVERY ONE CHECKED WAS HONEST. Their read_state is 'partial', and their read_state_basis says exactly which part was read -- 'the notice quoted in full... the rest of the issue was not read' -- which is the same statement the keyword test was looking for, in words it did not know. SEVENTH FAILED HEURISTIC IN TWO DAYS AND THE SAME SHAPE AS THE OTHER SIX: an instrument over-reporting a defect, a FAIL wearing a HIT's label. (3) SHARING, which is a true structural fact rather than a defect: 29 CACHE FILES SERVE 99 SOURCE RECORDS. These are deliberate sweep files (canadian-camping/, the Georgian 292-issue sweep, the Thursday Report extract, the openlibrary corpus sweeps). Worth knowing because a pass that sets out to 'read the cache files' will read 29 and believe it has covered 99 sources. AND THE CONCLUSION THAT MATTERS: there is NO systematic version of the Seaman defect detectable by file size or by path. What was wrong there was a CLAIM -- 'all 27 occurrences read in context' -- and no property of the filesystem could have contradicted it. Only re-reading the document did.",
+      "sources": [],
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.09",

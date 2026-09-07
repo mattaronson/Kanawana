@@ -4456,3 +4456,30 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   surnames are set in a script face over a KANAWANA wordmark and did not survive
   the OCR; those need the page images.
   Verify green, all eight. Timestamp read from `date -u` in its own call.
+
+[2026-09-07T12:48:11Z] CACHE-PATH INTEGRITY, after f_5548 raised the question of
+  whether other records point at something that is not the document. NEW: f_5549.
+  THREE MEASUREMENTS, ONE USEFUL.
+  EXISTENCE, true and worth running: 1,022 of 1,024 cache_paths resolve; TWO did
+  not. The P0145 finding aid named a .pdf where the disk holds the .txt of the
+  same name, and the physical-archive scans record held TWO paths in a
+  single-path field ("assets/images/artifacts/ and assets/images/art/"), so it
+  resolved to nothing at all. Both fixed in place with the reason in the record.
+  The check is now in data_integrity.py and BLOCKING, tested by breaking a path
+  and confirming exit 1 and restoring. A path that resolves to nothing is
+  indistinguishable from a source never cached: a later pass greps it, finds
+  nothing, and reads that as an absence of evidence.
+  SIZE, which failed. "Cache far smaller than the declared char_count" gave 46,
+  and a keyword test for "excerpt"/"null sweep" called 25 of them undeclared.
+  EVERY ONE CHECKED WAS HONEST -- read_state "partial", and a read_state_basis
+  saying exactly which part was read ("the rest of the issue was not read"),
+  which is what the keyword test was looking for in words it did not know.
+  SEVENTH FAILED HEURISTIC IN TWO DAYS, same shape as the other six.
+  SHARING, a true structural fact and not a defect: 29 cache files serve 99
+  source records -- the canadian-camping directory, the 292-issue Georgian
+  sweep, the openlibrary corpus sweeps. Worth knowing because a pass that sets
+  out to "read the cache files" reads 29 and believes it covered 99 sources.
+  THE CONCLUSION: there is no systematic version of the Seaman defect findable
+  by size or by path. What was wrong there was a CLAIM, and no property of the
+  filesystem could have contradicted it. Only re-reading the document did.
+  Verify green. Timestamp read from `date -u` in its own call.
