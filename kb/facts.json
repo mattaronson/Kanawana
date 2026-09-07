@@ -1,8 +1,8 @@
 {
-  "version": "10.93",
-  "kb_version": "10.93",
+  "version": "10.94",
+  "kb_version": "10.94",
   "migrated_from": "3.3",
-  "fact_count": 5661,
+  "fact_count": 5665,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102067,6 +102067,87 @@
       "date_ref": "1951",
       "conflicts_with": [],
       "added_version": "10.93",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5700",
+      "claim": "CAMP PERROT'S 1953 SEASON, FROM A REPORT WHOSE BODY THIS PROJECT HAD NEVER READ. The tenth annual report, signed DONALD COCHRANE, Director, to the Boys' Camp Committee. Its opening is a director enjoying himself: with Robert Kneeland back on crafts, William Macks back on the junior section and WILLIAM OSTERMAN added with ten years' camping experience, 'I have never enjoyed a camping season as much as this past summer.' TRIPPING: the camp's THREE NINE-MAN WAR CANOES were 'greatly in demand'; life-jackets were added 'as an added safety measure' and tripping was thereby extended to the youngest campers, the director taking three canoes of ten- and eleven-year-olds overnight to Pine Island six miles off and finding them 'very capable and keen'; 'SOME 160 CAMPERS WENT ON TRIPS FROM 2 TO 5 DAYS PLUS 20 COUNSELLORS, C.I.T.s, AND STAFF MEMBERS'. This is the section that contains the sentence this wiki already quotes about canoe trips filling the gap left by flat terrain. WATERFRONT: under STEVE MONTAGUE 'a hundred boys passed Y.M.C.A. Swim cards' -- against 96 boys passing swim tests in 1948 -- and he built a railway-tie wall at the foot of the bank in the swimming area. HEALTH, and it is a measured study rather than a remark: 'Under the able supervision of Miss NORMA ANJO, R.N., the hospital operated smoothly with only minor casualties. From records kept by the nurse, it was found that the average campers gain in weight was 3.3 pounds' (the scan prints '33', which for a season of two to three weeks is not credible; 3.3 is). 'The counsellors' average gain was 6 pounds with ERIC OKE topping the list with a gain of 15 pounds. It is interesting to note that Eric was out on canoe trips most of the summer.' VISITS TO THE HOSPITAL: campers 350, counsellors 100, staff 2. MORNING INTEREST GROUPS ranked by popularity in the report's own order: woodwork in the craft shop first, archery and boating second, then braiding, bait casting, wood carving, clay modelling, nature lore and woodsmanship. THE BACKWOODSMAN'S DAY was 'true competition in log-sawing, pack-sack relay races, knot-tying, tent pitching, fire lighting and pancake cooking', ending with a cookout: 'It was thrilling to see 16 fires, in a large circle, in operation and the campers trying to flip pancakes.' THE PERROT PENNY FAIR sent all proceeds to World Service, as in 1948; 'some campers ate as many as eight hot-dogs, without any ill-effects,' and 'Get a kiss from the Nurse' was the most popular booth. REFORESTATION, cumulative and counted: another 5,000 spruce planted in the back half of the property 'giving a total of 10,000', about 100 spruce along the top of the waterfront bank, 100 cedars around the Council Ring, several pines in the lower camp, ten lilacs moved from the cottage, and 100 poplar ordered from the Government for the following spring. GIFTS: J. ERNEST MILLEN again -- a portable three-speed gramophone, $100 for crafts material and a bandsaw promised for the spring; F. B. WALLS, Vice President of the Montreal YMCA, a nylon Union Jack; FRANK McPHEE, heavy canvas to cover the wharves, which 'eliminates the hazard of boys slipping on the wood'; VICTOR DAOUST, a building contractor, firewood, 'as there is little, if any, wood available on the camp'; and the Y's Men's Club of the Westmount branch painted the hospital and craft shop. THE STATISTICAL TABLE REPRINTS THE CAMPER-WEEK SERIES a fourth time -- 536, 777, 828, 787 are all legible in the shredded columns -- and gives 1953's AVERAGE STAY PER CAMPER AS 2.8 WEEKS. The 1953 column itself did not survive the scan and is not reconstructed here.",
+      "sources": [
+        "src_ymf_1953_camp_perrot_annual_report"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Perrot",
+        "Donald Cochrane",
+        "William Osterman",
+        "Robert Kneeland",
+        "Steve Montague",
+        "Norma Anjo",
+        "Eric Oke",
+        "J. Ernest Millen"
+      ],
+      "date_ref": "1953",
+      "conflicts_with": [],
+      "added_version": "10.94",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5701",
+      "claim": "THE RECREATION HALL CAMP PERROT WAS PROMISED TWICE AND THIS PROJECT CAN FIND NO TRACE OF. In 1948 the Foremen's Club of Montreal, under N. Millington, took the old barn as its service project, laid a new floor and wired it 'toward a planned transformation of the Barn into a Recreational Hall'; Verlie Dodds's girls' camp report adds that a stage went in that autumn. FIVE YEARS LATER THE SAME CLUB IS STILL STARTING. The 1953 report: 'The Foreman's Club of Montreal, after having presented the Camp with TWENTY WHARVES for the Swimming Pool, feels that it cannot do enough for the boys and girls of Montreal and now plans to build a MUCH NEEDED Recreation Hall for Camp Perrot. TWO THOUSAND DOLLARS was donated by this group as the first step towards this noble project.' So the barn conversion had not produced the hall, and a fresh building was proposed with money attached. WHAT COMES AFTER: nothing. The Camp Perrot annual reports for 1954 and 1958 cached in this project contain no occurrence of 'recreation hall', and 1954's building sections are about painting the dining hall, levelling ground around it and reinforcing its tables. The 1958 report names the Foremen's Club only once, in a table of groups using the property. This is an absence in two documents, not a statement that the hall was never built, and the 1955-57 reports are not held. But a $2,000 first step that leaves no second step in the next five years of the camp's own reporting belongs in the record of a camp the association closed at the end of the decade.",
+      "sources": [
+        "src_ymf_1953_camp_perrot_annual_report",
+        "src_ymf_1948_camp_perrot_season_report",
+        "src_ymf_1954_camp_perrot_annual_report",
+        "src_ymf_1958_camp_perrot_annual_report"
+      ],
+      "confidence": "inferred",
+      "category": "site",
+      "entities": [
+        "Camp Perrot",
+        "Foremen's Club of Montreal",
+        "N. Millington"
+      ],
+      "date_ref": "1948-1958",
+      "conflicts_with": [],
+      "added_version": "10.94",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5702",
+      "claim": "CAMP PERROT'S COUNCIL RING IN 1953, AND WHAT THE CAMP CALLED IT. The report's 'Indian Council Fires' section: 'New life was added to the council fire programs with addition of CHIEF TOMAHAWK (BILL OSTERMAN) and his well planned INDIAN WARS which provided a variety of physical activity for the BRAVES AND WARRIORS but nearly crippled older members of the Perrot Council!' The physical setting was built up the same season: 100 cedars planted around the ring, 16 railway ties brought in for seats, TWO MORE TOTEM POLES, and the grass mowed 'which has almost turned the ring into a lawn'. And the costuming was a running problem: 'We are slowly building up our Indian costumes but still have trouble getting turkey feathers.' SET BESIDE THE GIRLS' CAMP OF 1948 -- 'Indian Night... Hiawatha's arrival by canoe; feats of skill by \"Braves\"; Peace Pipe Ceremony' (f_5696) -- the association's second camp was running the same Seton-derived council-ring material as Kanawana, in both its boys' and its girls' sections, across at least five years. THE STAFF MEMBER PLAYING CHIEF WAS THE ONE HIRED FOR HIS EXPERIENCE: William Osterman is introduced in the report's first paragraph as the new man 'with ten years camping experience', and it is his council-fire programme the director singles out. RECORDED AS THE DOCUMENT HAS IT. This is a Montreal YMCA camp in 1953 staging invented Indigenous ceremony as recreation, a practice organized camping in Canada carried from the 1920s into the 1970s and which this wiki traces at Kanawana from the 'Tribes of Kanawana in Council' script of about 1925-27 onward.",
+      "sources": [
+        "src_ymf_1953_camp_perrot_annual_report"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Perrot",
+        "William Osterman",
+        "Donald Cochrane"
+      ],
+      "date_ref": "1953",
+      "conflicts_with": [],
+      "added_version": "10.94",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5703",
+      "claim": "WHAT CAMP PERROT ASKED FOR IN 1953, AND THE CONTRACTOR WHO HAD BEEN THERE SINCE THE BUILDING YEAR. The 1953 report's recommendations are a list of things a camp of that size lacked ten years in. A PROPER WASH HOUSE WITH SHOWERS: the drinking taps in the lower camp are 'an eye sore', badly drained and permanently muddy, and 'the rule has been that the taps are for drinking and teeth brushing only, the river to be used for washing BUT EVERYONE WASHES AT THE TAPS ANYWAY' -- so the camp had no washing facilities other than the river and a row of taps. LIVING QUARTERS FOR THE KITCHEN STAFF: 'There is a real need for living quarters other than tents for the kitchen staff. Both the kitchen and the tents are extremely hot during the summer, then there is no place for them to relax comfortably during their short breaks from the kitchen grind.' A two-room bungalow with a gallery and an inside toilet is proposed behind the kitchen, plus an immersion heater to replace the coal-fired jacket heater and 'eliminate the dirt and dust encountered in handling coal'. ANOTHER WAR CANOE and two dozen shorter paddles. AND THE BANK: the soil washed out of the new embankment should be replaced with stone, 'approximately 400 tons', quoted at $1.75 a ton delivered, $700 in all, BY MR. E. LEDUC, THE CAMP'S LOCAL CONTRACTOR -- the same E. Leduc who built the dining hall, the hospital and the six-drum raft in 1948 and of whom Dodds wrote that he 'fulfilled everyone of the obligations in his contract, and in many other respects did additional work, beyond his job, at no extra cost'. Five years and two directors later he is still the man the camp asks for a price. FINALLY, TREES, and the reasoning is the frankest line in the document: the tents have no windbreak and 'the thoughts of waiting 15 years for trees to grow is very discouraging', so money should be found for larger ones. Cochrane's last visit to the camp that year was 9 OCTOBER, and he reports the trees doing well.",
+      "sources": [
+        "src_ymf_1953_camp_perrot_annual_report",
+        "src_ymf_1948_camp_perrot_season_report"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Camp Perrot",
+        "E. Leduc",
+        "Donald Cochrane"
+      ],
+      "date_ref": "1953",
+      "conflicts_with": [],
+      "added_version": "10.94",
       "added_by": "ralph_loop"
     }
   ]

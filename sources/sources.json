@@ -12073,12 +12073,12 @@
       "cache_path": "sources/cache/ymca-montreal-fonds/1953-camp-perrot-annual-report.txt",
       "char_count": 11630,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
-      "extraction_version": "v5.60",
+      "extracted": true,
+      "extraction_version": "v10.94",
       "reliability": "secondary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. | 2026-09-06 (p_441): PARTIAL -- officers and signatures only.",
-      "read_state": "partial",
-      "read_state_basis": "2026-09-06 under p_441: the title-page officer block and the signature block read (f_5048); the body of the report is NOT read"
+      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. | 2026-09-06 (p_441): PARTIAL -- officers and signatures only. [BODY READ 2026-09-07 under p_491.] CONTENTS: Donald Cochrane's tenth annual report to the Boys' Camp Committee. Tripping extended to ten- and eleven-year-olds by adding life-jackets, 160 campers on trips of 2-5 days plus 20 counsellors and CITs, three nine-man war canoes. Steve Montague on waterfront, a hundred boys passing YMCA swim cards. Miss Norma Anjo R.N. and a weight-gain study: campers averaging 3.3 pounds (printed '33'), counsellors 6, Eric Oke 15; hospital visits campers 350, counsellors 100, staff 2. Chief Tomahawk (Bill Osterman) and the Indian Council Fires, two more totem poles, trouble getting turkey feathers. Backwoodsman's Day, the Penny Fair for World Service. Reforestation to a cumulative 10,000 spruce. The Foremen's Club's $2,000 toward a Recreation Hall that never appears again. Recommendations: a wash house with showers, a bungalow for the kitchen staff, another war canoe, 400 tons of stone quoted at $700 by E. Leduc, and larger trees.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: body read end to end 2026-09-07 under p_491 (f_5700-f_5703). Previously partial -- the title-page officer block and signature only (f_5048). The statistical table at the foot is column-shredded by OCR: the 1948-51 camper-week figures are legible and reprint the series a fourth time, the 1953 column did not survive, and the average stay of 2.8 weeks is the only 1953 attendance figure taken from it."
     },
     {
       "source_id": "src_ymf_1954_camp_perrot_annual_report",
