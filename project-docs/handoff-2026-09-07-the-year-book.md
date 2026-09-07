@@ -233,6 +233,13 @@ check's failure cannot stop the commit — and piping its output to `tail` makes
 whatever the check says. This project already had rule 25, "a claim about a check is a claim."
 This is its sibling: **a check that cannot stop the commit is decoration, not a gate.**
 
+**39a. Run `add_source_note.py` FIRST and use the number it hands back.** *(CLAUDE.md already says
+this; I broke it twice today, so here is why.)* The temptation is to write the prose and its `^N`
+in one edit and add the note afterwards — but the script allocates the next free number by
+scanning what is already there, so a marker you typed in advance makes it skip past you, leaving
+your marker dangling and its entry unreferenced. `verify_harness` catches it every time, which is
+the only reason it cost nothing.
+
 **40. An exact search assumes the source spells a name the way you do — and a wildcard on the
 stem does not save you when the error is *inside* the word.** Three costs today: `H.C.Cross` run
 together with no spaces defeated three exact forms; `Otereke` with an E hid two years of
