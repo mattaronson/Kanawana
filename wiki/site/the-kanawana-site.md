@@ -1,6 +1,6 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 59*
+*Status: E1-reviewed | Sources: 60*
 *Last Updated: 2026-09-06 (a land purchase in 1963-64, which would explain the jump from 600 acres to 1,000)*
 
 ## Overview
@@ -39,7 +39,13 @@ Québec."**^45
 So the office did not exist on 1 March 1909 and did exist by 1 June 1912 — and the closing end of that
 window comes in further. **Rand, McNally & Co.'s Indexed Pocket Map and Shippers' Guide of Quebec**, published at Chicago in **1911**, carries the entry "**Kanawana, Terrebonne, (Summer P. O.)**".^49 So the
 office existed **by 1911**, and it opened either just before or just after the YMCA bought this site in
-**1910**. That entry also puts the word "summer" on the office **eight years earlier** than the
+**1910**. *Canada's own directory agrees, and narrows it by a year.* The **1910** edition of the
+Canadian Almanac runs "Kamouraska | Kamsack | Kananaskis | Kanata | Kanes | Kanyengeh | Kaposvar" —
+clean, alphabetical, ungarbled, and without Kanawana — while the **1911** edition, its title page
+reading "For the Year 1911, Sixty-Fourth Year of Publication", has "Kanata … **Kanawana** … Kanes". A
+directory compiled in 1909 does not have the office; one compiled in 1910 does. *The 1912 edition is
+not evidence either way*: its name column is interleaved with the district and station columns in the
+scan and cannot be read as a run, so the string's absence there says nothing about the page.^60 That entry also puts the word "summer" on the office **eight years earlier** than the
 Sessional Papers of 1919, which was this project's first evidence of it.
 
 *What the entry does not carry is worth noticing too.* It has no map grid reference, no railway number,
@@ -68,13 +74,19 @@ poste dans la province de Québec, arrangés suivant les districts électoraux".
 are Entrelac, Fourteen Island Lake, Ivry Nord, Lac Charlebois, Lac Duhamel, Lac Echo, Lac Guindon, Lac
 Manitou Sud and Lac Marois — every one a Laurentian lake or cottage place, which is the company the
 "summer office" label puts it in.
-The two 1950s volumes carry no legible year of their own; one prints calendars for 1951 and 1952 and
-the other for 1954 and 1955, which dates them to the early and the middle 1950s and no closer. Later
+*[SUPERSEDED 2026-09-07: the two 1950s volumes were described here as carrying "no legible year of
+their own," dated only by the calendars they print. **They state their years on their own title
+pages** — "DIRECTORY FOR 1951" and "DIRECTORY FOR 1954," with matching copyright lines and running
+heads. The earlier pass searched each volume for the place name and never read its front matter. The
+general lesson is worth more than the two dates: the Internet Archive catalogues **every** volume of
+this series as 1848, the series start, so the year has to be read out of the volume, and it sits on
+the title page within the first 45,000 bytes of the text file — a range request, not a download.
+Twenty-seven editions were dated that way in a single pass.]*^60 Later
 still, the *Atlas of Canada* (1981) indexes "Kanawana, UP (Que.)" — UP for unincorporated place.
 
 What this adds to the site's history is a matter of standing rather than detail. **A place gets a post office when enough mail moves through it to be worth a contract**, and Kanawana
 had one within a few years of the YMCA's arrival, with its own named route down to Saint-Sauveur, and
-kept it for about forty years. The boys' letters home, which the camp's own publications treat as a
+kept it for about forty-five years, from 1910 or 1911 to 1956. The boys' letters home, which the camp's own publications treat as a
 domestic detail, were federal mail on a Dominion route — including the long ones a boy wrote from here
 in the 1950s that a Montreal memoir still remembered sixty years later (see
 [[history/postwar-gap|The Postwar Gap]]).
@@ -86,8 +98,34 @@ post office name.)", and in the run between Kanata, Ontario and Kandahar, Saskat
 "**Kanawana, PQ, see St-Sauveur-des-Monts, PQ**".^50 Recovering that heading was the whole job — the
 entry on its own would read as an ordinary gazetteer cross-reference, and under the heading it means
 Kanawana is in the italicised class and Saint-Sauveur is where its mail goes now. Against the 1950s
-almanacs above, **the office ended between about 1955 and the mid-1960s**, which is the first closing
-bracket this project has.
+almanacs above, *[SUPERSEDED 2026-09-07: this read "the office ended between about 1955 and the
+mid-1960s, which is the first closing bracket this project has." The bracket is now about a year
+wide.]*
+
+**The office closed between the 1956 and the 1957 edition.** The almanac's own legend does the work,
+and it had been sitting unread above the table all along: "**Places marked [dagger] are not Post
+Offices.**" A name in this list without a dagger is an operating office and the same name with one is
+not, so the question is only which editions dagger Kanawana. **None of 1951, 1954 or 1956 does. All
+of 1957, 1958, 1960, 1961, 1962 and 1968 do.** Its neighbours calibrate every scan: Kananaskis and
+Kanasuta carry the dagger in all of them, Kanata and Kandahar in none. Since an edition is compiled
+the year before it is dated, **the office closed in 1956, or in the months between the two
+compilations** — and the McGraw-Hill entry above, catalogued a decade later, is not contradicted,
+only late.^60
+
+*It nearly closed a year too early, and the reason is worth writing down.* A plain search for
+"Kanawana" returns nothing in the 1956 volume, and the Internet Archive's own search-inside returns
+nothing, and a story in which the name vanishes after 1954 would have been easy and wrong. **The OCR
+reads the w as two v's**: the line is "Kanavvana", undaggered, exactly where it belongs. It was found
+by searching for **Kanasuta**, which sits two lines above it in every edition, and reading the run
+out. This project learned the same lesson once already on "Otereke". *In a scanned alphabetical
+table, do not search for the target — search for a stable neighbour and read around it. The target is
+the rarest string on the page and therefore the likeliest to be misread.*^60
+
+**And the name outlived the office by at least twelve years.** Kanawana is still in the 1968 table,
+with "Terrebonne … Q … St. Sauveur des Mts 529 or Piedmont 535" beside it, exactly as in 1943 —
+carrying its county, its province and its railway stations, and marked only as a place that is no
+longer a post office.^60
+
 
 Two cautions, both of which the source imposes rather than this article volunteering them. The
 heading puts *three* categories into the same italics — sub post offices, closed ones and renamed
@@ -419,6 +457,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 57. YMCA of Montreal annual report for the year ending 31 March 1933 [src_ymf_sgw_ymca_annual_report_1933], on the Central residence building's laundry. Read 2026-09-06 under p_454. See [f_5181].
 58. YMCA of Montreal annual report for **1913** [src_ymf_sgw_ymca_annual_report_1913], the Camp Committee's description of both camp properties. Read 2026-09-06 under p_454. See [f_5193].
 59. Derek V. Walsh, "Ca-News," 1 December 1977 [src_ymf_ka_news_1977_12_01], YMCA of Montreal fonds. Read in full 2026-09-06 under p_418. See [f_5227].
+60. *The Canadian Almanac and Directory*, "Post Offices and Railroad Stations in Canada", read edition by edition on 2026-09-07 [src_canadian_almanac_1917_1918]: the editions for **1910, 1911, 1943, 1951, 1954, 1956, 1957, 1958, 1960, 1961, 1962 and 1968**, each dated from its own title page. The dagger that the table's legend defines as "not a post office" is what carries the argument, and it is read against Kananaskis and Kanasuta, which carry it throughout, and Kanata and Kandahar, which never do. Every run quoted out in full, with the OCR as it stands, at `sources/cache/postal/2026-09-07-canadian-almanac-edition-by-edition.txt`. See [f_5345], [f_5346], [f_5347], [f_5348].
 
 ## Research Notes
 

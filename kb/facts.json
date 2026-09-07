@@ -1,8 +1,8 @@
 {
-  "version": "9.32",
-  "kb_version": "9.32",
+  "version": "9.33",
+  "kb_version": "9.33",
   "migrated_from": "3.3",
-  "fact_count": 5306,
+  "fact_count": 5310,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -95733,6 +95733,72 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.32",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5345",
+      "category": "context",
+      "date_ref": "1956-1957",
+      "entities": [
+        "Kanawana post office",
+        "Canadian Almanac and Directory",
+        "Saint-Sauveur"
+      ],
+      "claim": "THE KANAWANA POST OFFICE CLOSED BETWEEN THE 1956 AND 1957 EDITIONS OF THE CANADIAN ALMANAC, WHICH REPLACES A BRACKET OF ABOUT A DECADE WITH ONE OF ABOUT A YEAR. The almanac's table of Post Offices and Railroad Stations marks with a dagger those places that are NOT post offices -- its own legend says so -- and Kanawana carries no dagger in the editions for 1951, 1954 and 1956 and carries one in the editions for 1957, 1958, 1960, 1961, 1962 and 1968. Its neighbours Kananaskis and Kanasuta carry the dagger throughout and Kanata and Kandahar never do, which calibrates every scan. Since an edition is compiled the year before it is dated, the office closed in 1956 or in the months between the two compilations. THE PROJECT'S PREVIOUS BRACKET WAS 'BETWEEN ABOUT 1955 AND THE MID-1960S', resting on the two 1950s almanacs being undated and on a McGraw-Hill directory catalogued 1966 that lists Kanawana among closed and renamed offices with mail going to St-Sauveur-des-Monts. That entry is not contradicted, only dated later than the event. AND THE NAME OUTLIVED THE OFFICE: Kanawana is still in the 1968 table, with Terrebonne and St. Sauveur des Monts beside it, marked only as a place that is not a post office.",
+      "sources": [
+        "src_canadian_almanac_1917_1918"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.33",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5346",
+      "category": "sources",
+      "date_ref": "1951-1956",
+      "entities": [
+        "Canadian Almanac and Directory"
+      ],
+      "claim": "THE TWO 1950S ALMANACS ARE THE 1951 AND 1954 EDITIONS, AND THEY SAY SO ON THEIR OWN TITLE PAGES. This project recorded them as carrying 'no legible year of their own', dated only by the calendars they print -- 1951-52 in one, 1954-55 in the other -- and therefore to 'the early and the middle 1950s and no closer'. Both state the year three ways within the first few hundred lines of their text: 'DIRECTORY FOR 1951' and 'Copyright, Canada, 1951' and a running head '[1951'; likewise 1954. THE EARLIER PASS SEARCHED FOR THE PLACE NAME AND NEVER READ THE FRONT MATTER. The general point is worth more than the two dates: the Internet Archive catalogues every volume of this series as 1848, the series start, so a year has to be read out of each volume, and it is on the title page inside the first 45,000 bytes of the text file, reachable with a range request rather than a full download. Twenty-seven editions were dated that way in one pass. A SECOND TRAP GOES WITH IT: the older University of Toronto scans are numbered by VOLUME, not year -- canadianalmanacd63vancuoft is the volume for 1910 and ...d64 the volume for 1911.",
+      "sources": [
+        "src_canadian_almanac_1917_1918"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.33",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5347",
+      "category": "context",
+      "date_ref": "1910-1911",
+      "entities": [
+        "Kanawana post office",
+        "Canadian Almanac and Directory"
+      ],
+      "claim": "KANAWANA IS IN THE ALMANAC FOR 1911 AND NOT IN THE ALMANAC FOR 1910, AND THE ABSENCE IS CONTROLLED. The 1910 edition's run reads 'Kamouraska | Kamsack | Kananaskis | Kanata | Kanes | Kanyengeh | Kaposvar' -- clean, alphabetical, ungarbled, and without Kanawana. The 1911 edition, whose title page reads 'FOR THE YEAR 1911' and 'Sixty-Fourth Year of Publication', has 'Kanata ... Kanawana ... Kanes ... Kanyengeh'. So a Canadian directory compiled in 1909 does not have the office and one compiled in 1910 does, which sits exactly where this project's existing bracket already put it -- after 1 March 1909 by the Universal Postal Union's dictionary, and by 1911 on Rand McNally's Quebec guide -- and puts the first Canadian listing in the very year the YMCA bought the site. THE 1912 EDITION IS NOT EVIDENCE EITHER WAY: its name column is interleaved with the district and station columns in the scan and cannot be read as a run, so the string's absence there says nothing about the page.",
+      "sources": [
+        "src_canadian_almanac_1917_1918"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.33",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5348",
+      "category": "methodology",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Canadian Almanac and Directory",
+        "OCR"
+      ],
+      "claim": "THE 1956 EDITION NEARLY BECAME THE CLOSING YEAR ON A FALSE NULL, BECAUSE ITS OCR READS THE W AS TWO V'S. A plain text search for 'Kanawana' returns nothing in that volume, and the Internet Archive's own search-inside returns nothing, and both would have supported a story in which the name vanishes from the table after 1954 and reappears daggered later. The run actually reads 'Kanavvana', undaggered, exactly where it should be. IT WAS FOUND BY ANCHORING ON A NEIGHBOUR -- searching for Kanasuta, which sits two lines above it in every edition, and reading the run out. THE GENERAL RULE, WHICH THIS PROJECT ALREADY LEARNED ONCE ON 'OTEREKE': in a scanned alphabetical table, never search for the target; search for a stable neighbour and read the surrounding lines. The target is the string most likely to be misread, because it is the rare one.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.33",
       "added_by": "ralph_loop"
     }
   ]
