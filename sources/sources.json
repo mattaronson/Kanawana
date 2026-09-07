@@ -30651,7 +30651,25 @@
       "read_state": "partial",
       "read_state_basis": "direct, targeted: the full 3,038,277-character djvu text was downloaded and searched; the Hollinshead entry, the Epsilon chapter headings and the surrounding class-year markers were read. The rest of the catalogue is unread.",
       "notes": "A fraternity general catalogue, which is a biographical register: each member gets birth place, birth date, degree and current occupation. IT GIVES KENNETH J. HOLLINSHEAD -- Montreal's Boys' Secretary from mid-1910 to 1 August 1913, the office that ran Kanawana in the new site's first years -- a birth place, a birth date and a college class, none of which this project had. Found by exact-phrase search at openlibrary.org/search/inside.json, which is an excellent instrument for an uncommon name and useless for a common one. DOWNLOAD NOTE: archive.org/download/<id>/<id>_djvu.txt returns ZERO BYTES without -L; with redirects followed it returns the full file."
+    },
+    {
+      "source_id": "src_educational_activities_for_boys_1907",
+      "type": "report",
+      "title": "Educational Activities for Boys (1907) — a YMCA volume of papers on boys' work, including C. M. Daggett, \"Practical Talks: Their Operation and the Secret of their Success\"",
+      "date": "1907",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/educationalacti00unkngoog",
+      "cache_path": "sources/cache/biographical/1907-cecil-daggett-practical-talks.txt",
+      "char_count": 3056,
+      "ingested_at": "2026-09-07T14:20:00Z",
+      "extracted": true,
+      "extraction_version": "p_430",
+      "reliability": "primary",
+      "read_state": "partial",
+      "read_state_basis": "direct, targeted: the full 79,471-character djvu text was downloaded and searched; the contents page and the opening of Daggett's paper, including its byline, were read. The other nine papers in the volume are unread.",
+      "notes": "Found by exact-phrase search on 'Cecil M. Daggett' at openlibrary.org/search/inside.json under p_430. THE BYLINE IS THE POINT: 'C. M. Daggett, State Boys' Secretary, Maine' places the man who was to run Kanawana's 1904 season back in his own state by 1907, two years after leaving Montreal for St. Louis. The same sweep returned The Deke Quarterly (DKE, class of 1903), The History of Colby College and the centennial history of Waterville's First Baptist Church, which together make him a Colby man of Waterville, Maine. The volume's other nine papers are a YMCA boys'-work conference in print and have not been read."
     }
   ],
-  "source_count": 1705
+  "source_count": 1706
 }

@@ -1,8 +1,8 @@
 {
-  "version": "9.28",
-  "kb_version": "9.28",
+  "version": "9.29",
+  "kb_version": "9.29",
   "migrated_from": "3.3",
-  "fact_count": 5291,
+  "fact_count": 5293,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -95451,6 +95451,43 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5330",
+      "category": "people",
+      "date_ref": "1903-1907",
+      "entities": [
+        "Cecil M. Daggett",
+        "Kamp Kanawana",
+        "Colby College"
+      ],
+      "claim": "CECIL M. DAGGETT WAS A COLBY MAN OF WATERVILLE, MAINE, AND HE PUBLISHED ON BOYS' WORK. He was nowhere in this project before 2026-09-07, when the Year Book and Men of Montreal made him the man appointed to run the 1904 Kanawana season (f_5286). The book corpus now gives him a life. HIS OWN PAPER: 'Educational Activities for Boys' (1907), a YMCA volume of conference papers, carries 'Practical Talks -- Their Operation and Secret of their Success ... Cecil M. Daggett', bylined 'C. M. DAGGETT, STATE BOYS' SECRETARY, MAINE', and opening with a questionnaire he had sent to boys' work directors asking 'What is a Practical Talk?' HIS COLLEGE AND HIS TOWN, from three further hits in the same sweep: The Deke Quarterly has 'Brothers CECIL M. DAGGETT, '03, and Allen Clark, '04', so Delta Kappa Epsilon, class of 1903; The History of Colby College (1963) has 'on College Sing, under Cecil M. Daggett, 1905'; and the centennial history of the First Baptist Church of Waterville, Maine names 'the Sunday School Superintendent, Mr. Cecil M. Daggett'. COLBY IS AT WATERVILLE. SO THE CAREER RUNS: Colby College, class of 1903; Montreal's boys' work from that September, the association having been without a secretary since R. H. Macdonald left the previous May; appointed to run the 1904 camp; to the Junior Secretaryship at St. Louis in May 1905; and State Boys' Secretary for Maine, back in his own state, by 1907.",
+      "sources": [
+        "src_educational_activities_for_boys_1907"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.29",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5331",
+      "category": "people",
+      "date_ref": "1903-1910",
+      "entities": [
+        "Cecil M. Daggett",
+        "Kenneth J. Hollinshead",
+        "YMCA of Montreal"
+      ],
+      "claim": "TWICE, SEVEN YEARS APART, THE YMCA OF MONTREAL TOOK ITS BOYS' SECRETARY STRAIGHT OUT OF AN AMERICAN COLLEGE -- AND THAT IS THE OFFICE THAT RAN THE CAMP. CECIL M. DAGGETT: Colby College, Waterville, Maine, class of 1903, and in Montreal's boys' work by September of that year, appointed to run the 1904 camp (f_5330). KENNETH J. HOLLINSHEAD: Albion College, Michigan, class of 1910, and taking Montreal's Boys' Secretaryship the same year at twenty-three, in the season the camp opened its new site at Lac Wilson (f_5329). BOTH ARE AMERICANS RECRUITED FROM COLLEGE INTO A MONTREAL POST WITH A CANADIAN CAMP UNDER IT. TWO CASES IS A PATTERN WORTH TESTING, NOT A PRACTICE ESTABLISHED, and the way to test it is the entry-year figures of the men between them: W. A. Maclaren 04, M. G. Brooks 05, W. J. Holliday 06 -- three consecutive years, which is either a coincidence or the same recruiting habit running through the decade. Brooks came from Strathcona Hall, McGill's own student association (f_5294), so at least one of the three is NOT an outside college hire, and the pattern is already mixed.",
+      "sources": [
+        "src_educational_activities_for_boys_1907",
+        "src_delta_tau_delta_catalogue_1917"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.29",
       "added_by": "ralph_loop"
     }
   ]
