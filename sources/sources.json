@@ -14477,7 +14477,7 @@
     {
       "source_id": "src_ymf_1975_09_15_the_y_and_the_montreal_fact",
       "type": "report",
-      "title": "1975 09 15 the y and the montreal fact — \"\\\\ POr: Vou fa\"",
+      "title": "\"The Y and the Montreal Fact\" — the YMCA of Montreal's linguistic policy, approved 15 September 1975 by the Metropolitan Board of Directors (English and French texts)",
       "date": "1975-09-15",
       "date_precision": "exact",
       "origin": "internet_archive",
@@ -14485,12 +14485,12 @@
       "cache_path": "sources/cache/ymca-montreal-fonds/1975-09-15-the-y-and-the-montreal-fact.txt",
       "char_count": 4092,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
-      "extraction_version": "v5.60",
+      "extracted": true,
+      "extraction_version": "9.67",
       "reliability": "primary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "notes": "[READ CLOSELY 2026-09-07, upgraded from 'skimmed', and the FRENCH TEXT ADDED -- the repo had cached only the English half, another instance of rule 50 (f_5427), caught by checking the item's file list before reading rather than after.] THE POLICY ITSELF, AND IT CARRIES ITS OWN DEADLINE: 'To attain a position BY 1979 OR EARLIER whereby the Association in its program delivery and its social mission is reflective of the two major cultures of the Montreal milieu... To conduct the public and internal affairs of the Association in French and English.' That is why a review exists in 1979 -- it is the objective's own target year, not a retrospective someone chose to write. Strategy under STAFFING: bilingual ability 'or the willingness to gain the skills' made significant for designated positions; recruitment attention to cultural background because 'future developments will require staff indigenous to the two predominent cultures'; language training to proceed 'immediately on a priority basis'; and, with a date, 'EFFECTIVE JUNE 1976 ALL PUBLICATIONS DIRECTED TO ASSOCIATION WIDE GROUPS OF LAYMEN AND STAFF MUST BE PUBLISHED IN BOTH LANGUAGES.' NULL RUN IN BOTH LANGUAGES: 'camp' occurs ZERO times in the English text and ZERO in the French, as do Kanawana, Otoreke and Weredale. THE POLICY THAT GOVERNED THE CAMPS FOR A DECADE DOES NOT MENTION CAMPS AT ALL -- it is a staffing, governance, planning and public-image document, and the camps enter only when the Association begins reporting on it. See f_5439.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: both text files read in full 2026-09-07. The repo had cached only the English (4,092 bytes); the French (4,572) was fetched today after checking the item's file list."
     },
     {
       "source_id": "src_ymf_1975_1976_cahier_de_presentation",
@@ -14675,20 +14675,20 @@
     {
       "source_id": "src_ymf_1981_06_09_la_politique_linguistique",
       "type": "report",
-      "title": "1981 06 09 la politique linguistique — \"RAPPORT DU COMITÉ D'ORIENTATION LINGUISTIQUE\"",
+      "title": "\"La politique linguistique — Deuxième étape\", Rapport du Comité d'orientation linguistique, YMCA of Montreal, 9 June 1981",
       "date": "1981-06-09",
       "date_precision": "exact",
       "origin": "internet_archive",
       "origin_url": "https://archive.org/details/1981-06-09-la-politique-linguistique",
-      "cache_path": "sources/cache/ymca-montreal-fonds/1981-06-09-la-politique-linguistique.txt",
+      "cache_path": "sources/cache/ymca-montreal-fonds/2026-09-07-linguistic-policy-trilogy-1975-1979-1981.txt",
       "char_count": 29233,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
-      "extraction_version": "v5.60",
+      "extracted": true,
+      "extraction_version": "9.67",
       "reliability": "primary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "notes": "[READ CLOSELY 2026-09-07 and upgraded from 'skimmed'.] THE SECOND STAGE THAT THE 1979 REVIEW ANNOUNCED, and the only one of the three linguistic-policy documents carrying hard numbers. FRANCOPHONE SHARE OF PARTICIPANTS: 28% in 1975, 35% in 1977, 50% by this report. PROGRAMMES: 36% delivered in French, 37% in English, 27% bilingually, against a stated aim of 50/50 -- set out under the heading 'LES PROGRAMMES NE REPONDENT PAS COMPLETEMENT A NOS ATTENTES', which is unusual candour for a document of this kind. ADVERTISEMENTS English-only fell from 83% (1975) to 12% (1979); INTERNAL NOTICES English-only from 97% to 35%. Signage done 'selon les reglements emis par le gouvernement (Charte de la langue francaise)'. THE CAMPS: the 1979 camp paragraph is reprinted essentially word for word in French, and the camps appear again in the achievement summary -- 'Le YMCA a ouvert de nouvelles succursales en milieux francophone ou bilingue. a) Succursales Rive-Sud, Saint-Laurent, Hochelaga-Maisonneuve, Pointe Saint-Charles. b) CAMPS DE VACANCES: WEREDALE, OTOREKE.' So by 1981 the two camps are listed beside four branches as the Association's francophone and bilingual establishments. KANAWANA IS AGAIN ABSENT: 'Kanawana' occurs ZERO times in the 29,233-character document. New since 1979: a Pointe Saint-Charles branch, and Hochelaga-Maisonneuve now 'une succursale ENTIEREMENT FRANCOPHONE'. See f_5440, f_5441.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full text (29,233 characters, French, single text file) downloaded and read 2026-09-07; the camp passages transcribed and 'Kanawana' greped to zero."
     },
     {
       "source_id": "src_ymf_1982_les_voyageurs_de_la_verendrye_review",

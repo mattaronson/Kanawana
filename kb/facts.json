@@ -1,8 +1,8 @@
 {
-  "version": "9.66",
-  "kb_version": "9.66",
+  "version": "9.67",
+  "kb_version": "9.67",
   "migrated_from": "3.3",
-  "fact_count": 5400,
+  "fact_count": 5403,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -97377,6 +97377,57 @@
       "conflicts_with": [],
       "added_version": "9.66",
       "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5439",
+      "category": "institutional",
+      "date_ref": "1975-09-15",
+      "entities": [
+        "YMCA of Montreal"
+      ],
+      "claim": "THE MONTREAL YMCA'S LINGUISTIC POLICY CARRIES ITS OWN DEADLINE, AND DOES NOT MENTION CAMPS AT ALL. 'The Y and the Montreal Fact', APPROVED SEPTEMBER 15, 1975 BY THE METROPOLITAN BOARD OF DIRECTORS, states as its first objective: 'To attain a position BY 1979 OR EARLIER whereby the Association in its program delivery and its social mission is reflective of the two major cultures of the Montreal milieu while maintaining a sensitivity to the aspirations and needs of other cultural segments', and as its second, 'To conduct the public and internal affairs of the Association in French and English.' THAT EXPLAINS WHY A REVIEW EXISTS IN 1979: it is the objective's own target year. The staffing strategy makes bilingual ability 'or the willingness to gain the skills' significant for designated positions, directs recruitment attention to cultural background because 'future developments will require staff indigenous to the two predominent cultures' [sic], orders language training 'immediately on a priority basis', and sets a date: 'EFFECTIVE JUNE 1976 ALL PUBLICATIONS DIRECTED TO ASSOCIATION WIDE GROUPS OF LAYMEN AND STAFF MUST BE PUBLISHED IN BOTH LANGUAGES.' NULL RUN IN BOTH LANGUAGES: 'camp' occurs ZERO times in the English text and ZERO in the French, as do Kanawana, Otoreke and Weredale. The policy that governed the camps for a decade is a staffing, governance, planning and public-image document that never mentions them; they enter the record only when the Association begins reporting on the policy, four years later. A NOTE ON THE SOURCE: the repo had cached only the English half of a two-file item, which is another instance of the txts[0] problem recorded as rule 50, caught this time by checking the file list BEFORE reading.",
+      "sources": [
+        "src_ymf_1975_09_15_the_y_and_the_montreal_fact"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.67",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5440",
+      "category": "institutional",
+      "date_ref": "1975-1981",
+      "entities": [
+        "YMCA of Montreal"
+      ],
+      "claim": "THE ONLY HARD NUMBERS THE LINGUISTIC-POLICY DOCUMENTS CARRY, FROM THE 1981 SECOND STAGE. FRANCOPHONE SHARE OF PARTICIPANTS: 28 PER CENT IN 1975, 35 IN 1977, 50 BY THIS REPORT -- 'D'apres nos statistiques, 50% de nos participants sont francophones comparativement a 28% en 1975 et a 35% en 1977.' PROGRAMMES: 36 per cent delivered in French, 37 in English, 27 bilingually, against a stated aim of 'a) 50% en anglais b) 50% en francais'. ADVERTISEMENTS English-only fell from 83 per cent in 1975 to 12 per cent in 1979; INTERNAL NOTICES AND MEMORANDA English-only from 97 per cent to 35. Signage was being done 'selon les reglements emis par le gouvernement (Charte de la langue francaise)', naming the Charter directly. THE CANDOUR IS WORTH RECORDING: the section carrying the programme figures is headed 'LES PROGRAMMES NE REPONDENT PAS COMPLETEMENT A NOS ATTENTES', and the report sets the gap out rather than burying it -- half the participants francophone against about a third of the programmes in French. The Association also reports that 'd'autres organismes d'expression francaise font appel a notre expertise', with invitations to government consultations alongside the Ville de Montreal, Centraide and the Federation des centres communautaires.",
+      "sources": [
+        "src_ymf_1981_06_09_la_politique_linguistique"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.67",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5441",
+      "category": "institutional",
+      "date_ref": "1981-06-09",
+      "entities": [
+        "Camp Otoreke",
+        "Camp Weredale",
+        "Camp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "BY 1981 THE ASSOCIATION LISTED ITS TWO CAMPS AMONG ITS FRANCOPHONE AND BILINGUAL ESTABLISHMENTS, AND KANAWANA IS ABSENT FROM THAT LIST TOO. The Rapport du Comite d'orientation linguistique of 9 June 1981 reprints the 1979 camp paragraph essentially word for word in French -- Otoreke at Sainte-Agathe for low-income francophone families, Weredale at lac l'Achigan as 'un camp de vacances francais capable aussi de desservir les participants anglophones' -- and then names them again in its summary of what the policy achieved: 'Le YMCA a ouvert de nouvelles succursales en milieux francophone ou bilingue. a) Succursales Rive-Sud, Saint-Laurent, Hochelaga-Maisonneuve, Pointe Saint-Charles. b) CAMPS DE VACANCES: WEREDALE, OTOREKE.' 'Kanawana' occurs ZERO times in the 29,233-character document, so the absence noted for 1979 holds across the whole reporting sequence. WHAT MUST NOT BE INFERRED: the 1975 policy names no camp at all, so absence there means nothing, and absence from the 1979 and 1981 achievement lists is consistent with several readings -- that Kanawana was already anglophone and stayed so, that it was not thought to need changing, or that its own French work (the 1969 'Living-in-French' section) predated the policy and was not counted as an achievement of it. NOTHING IN THESE DOCUMENTS CHOOSES BETWEEN THOSE. What they establish is only where the Association pointed when asked what it had done. Also new since 1979: a Pointe Saint-Charles branch, and Hochelaga-Maisonneuve described as 'une succursale ENTIEREMENT FRANCOPHONE'.",
+      "sources": [
+        "src_ymf_1981_06_09_la_politique_linguistique"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.67",
+      "added_by": "ralph_loop"
     }
   ]
 }
