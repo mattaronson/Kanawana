@@ -624,3 +624,31 @@ one running head is a change of list.
 AND THE LESSON FOR ANYONE HUNTING THESE: THE SERIES PUTS SEVERAL DATED LISTS IN ONE VOLUME under
 one running head. Searching for a single heading will not find them all. Walk the records
 backwards from a known page until the format or the date changes.
+
+
+==========================================================================================
+ELEVENTH PASS — A CORRECTION, AND THE RULE THAT COMES OUT OF IT
+==========================================================================================
+
+THE 1917-18 VOLUME CARRIES ITS OWN CANADIAN LIST, and Holliday is on it:
+  record 15785, page 404: "OVERSEAS SECRETARIES / CANADIAN NATIONAL COUNCIL, JUNE 1, 1918 /
+  (symbol) Released from regular Y. M. C. A. work for this special service."
+Montreal has him succeeded at the North Branch on 12 FEBRUARY 1918. SO HE LEFT BETWEEN
+12 FEBRUARY AND 1 JUNE 1918, and is on the Canadian overseas lists of BOTH 1918 and 1919.
+
+WHICH MEANS THIS FILE AND f_5296 WERE WRONG, IN A WAY WORTH NAMING. Both said Holliday was
+"ABSENT from the 1917-18 and 1918-19 volumes". HE IS IN BOTH. He is absent from their
+ALPHABETICAL LIST OF PAID OFFICERS and from the MONTREAL DIRECTORY, and present in their
+war-service sections.
+
+WHY THE SEARCH MISSED HIM: THE LISTS USE DIFFERENT NAME FORMS.
+  paid officers        "Holliday, W. J."
+  Canadian overseas    "Holliday, Capt. William J."
+  US home field        "Ballard, J. H., Camp Merritt, N. J."     (surname, initials, posting)
+  US foreign countries "Bogardus, Rollins"                        (full given names, no posting)
+An exact-phrase search on one form searches ONE LIST.
+
+THE RULE: NAME THE LIST, NEVER THE VOLUME. "He is not in the alphabetical list of paid officers"
+is a statement that can be true and checked. "He is not in the volume" is a claim about a dozen
+lists at once and needs a dozen searches behind it. The same slip is what made the war-service
+key look missing in the eighth pass -- it was on a page the search form never reached.

@@ -1,8 +1,8 @@
 {
-  "version": "9.10",
-  "kb_version": "9.10",
+  "version": "9.11",
+  "kb_version": "9.11",
   "migrated_from": "3.3",
-  "fact_count": 5267,
+  "fact_count": 5268,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -94846,7 +94846,7 @@
         "W. J. Holliday",
         "Kamp Kanawana"
       ],
-      "claim": "WHERE KANAWANA'S FIRST CAMP DIRECTOR WENT: SYDNEY, NOVA SCOTIA. f_5279 recorded that W. J. Holliday disappears from the Montreal roster between the 1916-17 and 1917-18 volumes and is back by 1922, and explicitly refused to fill the gap with a war-service guess. The alphabetical list of employed officers, followed on his entry-year figure of 06, gives the destination: 'HOLLIDAY, W. J., SYDNEY, N. S., SEC, 06' in BOTH the 1919-20 and 1920-21 volumes -- secretary of the Sydney, Nova Scotia association. The full run now reads: Montreal Asst. in 1905-06; Montreal Boys in 1907-08; Montreal, Fairmount, Sec in 1910-11; Montreal, North Br., Sec in 1912-13, 1914-15, 1915-16 and 1916-17; ABSENT from the 1917-18 and 1918-19 volumes; Sydney, N. S., Sec in 1919-20 and 1920-21; and back as 'Montreal, Que., North, Sec' in 1922-23 and 1923-24. SO THE FIVE-YEAR HOLE NARROWS TO ABOUT TWO, and the man who opened Kanawana's Lac Wilson site spent the turn of the 1920s running an association in Cape Breton before returning to the branch he had left.",
+      "claim": "WHERE KANAWANA'S FIRST CAMP DIRECTOR WENT: SYDNEY, NOVA SCOTIA. f_5279 recorded that W. J. Holliday disappears from the Montreal roster between the 1916-17 and 1917-18 volumes and is back by 1922, and explicitly refused to fill the gap with a war-service guess. The alphabetical list of employed officers, followed on his entry-year figure of 06, gives the destination: 'HOLLIDAY, W. J., SYDNEY, N. S., SEC, 06' in BOTH the 1919-20 and 1920-21 volumes -- secretary of the Sydney, Nova Scotia association. The full run now reads: Montreal Asst. in 1905-06; Montreal Boys in 1907-08; Montreal, Fairmount, Sec in 1910-11; Montreal, North Br., Sec in 1912-13, 1914-15, 1915-16 and 1916-17; ABSENT FROM THE ALPHABETICAL LIST OF PAID OFFICERS AND FROM THE MONTREAL DIRECTORY in the 1917-18 and 1918-19 volumes [CORRECTED 2026-09-07, later the same session: this first read simply 'ABSENT from the 1917-18 and 1918-19 volumes', WHICH IS TOO BROAD AND IS WRONG. HE IS IN BOTH VOLUMES, in their war-service sections, as 'Holliday, Capt. William J.' -- which is why an exact-phrase search on the roster form 'Holliday, W. J.' missed him. A man can be absent from one list in a volume and present in another, and this project's own phrasing must say WHICH LIST]; Sydney, N. S., Sec in 1919-20 and 1920-21; and back as 'Montreal, Que., North, Sec' in 1922-23 and 1923-24. SO THE FIVE-YEAR HOLE NARROWS TO ABOUT TWO, and the man who opened Kanawana's Lac Wilson site spent the turn of the 1920s running an association in Cape Breton before returning to the branch he had left. AND THE GOING IS NOW BRACKETED TO UNDER FOUR MONTHS. The 1917-18 volume carries its own Canadian list -- 'OVERSEAS SECRETARIES, CANADIAN NATIONAL COUNCIL, JUNE 1, 1918' -- and Holliday is on it. Montreal's report has him succeeded at the North Branch on 12 FEBRUARY 1918 (f_5297). So he left between 12 February and 1 June 1918, and appears on the Canadian overseas lists of BOTH 1918 and 1919.",
       "sources": [
         "src_umedia_ymca_yearbook_series"
       ],
@@ -95021,6 +95021,22 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5306",
+      "category": "method",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "YMCA Year Book"
+      ],
+      "claim": "A VOLUME IS SEVERAL LISTS AND A NAME CAN BE IN ONE AND NOT ANOTHER -- THIS SESSION SAID 'ABSENT FROM THE VOLUME' TWICE AND WAS WRONG BOTH TIMES IN THE SAME WAY. The Year Book prints, in a single volume, an alphabetical list of paid officers, a Directory of Associations, and in the war years several dated war-service lists under one running head. THEY USE DIFFERENT NAME FORMS: the paid-officers list gives 'Holliday, W. J.'; the Canadian overseas list gives 'Holliday, Capt. William J.'; the American home-field list gives surname, initials and posting; the American foreign-countries list gives full given names and no posting at all. SO AN EXACT-PHRASE SEARCH ON ONE FORM SEARCHES ONE LIST. f_5296 recorded Holliday 'ABSENT from the 1917-18 and 1918-19 volumes' when he is in both, in their war-service sections, and only absent from the paid-officers list and the Montreal directory. THE RULE: name the list, never the volume. 'He is not in the alphabetical list of paid officers' is a statement that can be true; 'he is not in the volume' is a claim about a dozen lists at once and needs a dozen searches to support. The same slip made the war-service key look missing when it was simply on a page the search form never reached.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.11",
       "added_by": "ralph_loop"
     }
   ]

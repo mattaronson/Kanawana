@@ -72,7 +72,8 @@ years, Forgie's career and his 1927 departure from Canada.
 man who came back in the mid-1920s to direct Kanawana was returning to the association he began
 in.
 
-**W. J. Holliday is Captain William J. Holliday.** Every roster this project ever saw gave him as
+**W. J. Holliday is Captain William J. Holliday**, and his going is bracketed to between 12
+February and 1 June 1918 by two Canadian overseas lists a year apart. Every roster this project ever saw gave him as
 "W. J." The 1918-19 volume's *Overseas Secretaries, Canadian National Council, June 1, 1919* —
 "released from regular Y. M. C. A. work for this special service" — gives the name and the rank.
 He did **not** recover the Boys' Work directorship; he was a membership assistant in 1909-10 and
@@ -161,6 +162,16 @@ same passage got written up twice, the second time as a discovery.
 **36. The outside source's job is often to make the question precise enough to search the inside
 source with.** Holliday's "overseas service" was in this repo the whole time. What the Year Book
 supplied was a two-year window that made the sentence findable.
+
+**37. Name the list, never the volume.** *(Added after this handoff was first written, from an
+error made an hour later.)* One Year Book volume holds an alphabetical list of paid officers, a
+Directory of Associations, and in the war years several dated war-service lists under one running
+head — **and they use different name forms**: "Holliday, W. J." in one, "Holliday, Capt. William
+J." in another, full given names with no posting in a third. An exact-phrase search on one form
+searches **one list**. This session twice wrote "absent from the volume" when it meant "absent
+from the alphabetical list of paid officers," and Holliday turned out to be in both volumes it
+had called him absent from. "Not in this list" is checkable; "not in the volume" is a claim about
+a dozen lists at once.
 
 ## Where to go next
 
