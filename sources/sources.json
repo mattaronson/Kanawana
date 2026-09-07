@@ -14647,12 +14647,12 @@
       "cache_path": "sources/cache/ymca-montreal-fonds/1980-01-national-linguistic-centre.txt",
       "char_count": 10795,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
-      "extraction_version": "v5.60",
+      "extracted": true,
+      "extraction_version": "v10.08",
       "reliability": "primary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ WORD FOR WORD 2026-09-07 (English half; the item also carries a French text of similar length). The National Council of YMCAs of Canada's statement of its NATIONAL LANGUAGE POLICY, approved by the National Board on 24 FEBRUARY 1979 after a 1976 resolution, counting SIXTEEN Associations serving communities with significant French-speaking populations, with dated objectives for the Toronto and Ottawa offices (June 1983) and for materials, publications and training events (June 1981), all target dates postponed by a year. THE NATIONAL YMCA LINGUISTIC CENTRE WAS A CONTRACTUAL ARRANGEMENT WITH THE YMCA OF MONTREAL, with federal government financial support, beginning operations 1 DECEMBER 1979 under a national co-ordinator, so that Montreal could 'guide and orientate... the other Associations'. ITS ANNEXES II AND III ARE THE MONTREAL FACT AND ITS 1975-1979 ANALYSIS -- the two documents wiki/traditions/french-language-camping.md is built on. CONTAINS NO MENTION OF CAMPS. Found by searching the fonds enumeration for the Montreal/Quebec City agreements the 1979 review names but does not describe; those agreements are still not located.",
+      "read_state": "read",
+      "read_state_basis": "read-word-for-word-2026-09-07-english-half"
     },
     {
       "source_id": "src_ymf_1980_ymca_hub_cities_report",

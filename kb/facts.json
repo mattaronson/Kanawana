@@ -1,8 +1,8 @@
 {
-  "version": "10.07",
-  "kb_version": "10.07",
+  "version": "10.08",
+  "kb_version": "10.08",
   "migrated_from": "3.3",
-  "fact_count": 5504,
+  "fact_count": 5505,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99239,6 +99239,24 @@
       "confidence": "inferred",
       "conflicts_with": [],
       "added_version": "10.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5543",
+      "category": "institutional",
+      "date_ref": "1979-1980",
+      "entities": [
+        "YMCA of Montreal",
+        "National Council of YMCAs of Canada",
+        "Camp Kanawana"
+      ],
+      "claim": "THE MONTREAL FACT BECAME A NATIONAL ANNEX, AND THE NATIONAL LINGUISTIC CENTRE WAS A CONTRACT WITH MONTREAL. The National Council of YMCAs of Canada's 'National Linguistic Centre' of JANUARY 1980. THE POLICY: a NATIONAL LANGUAGE POLICY approved by the National Board on 24 FEBRUARY 1979, following a 1976 resolution 'to provide services and communications bilingually where requested or necessary', counting SIXTEEN ASSOCIATIONS ACROSS CANADA serving communities with significant numbers of French-speaking Canadians, with dated objectives -- Toronto and Ottawa offices bilingual NO LATER THAN JUNE 1983; materials, publications, national projects and training events NO LATER THAN JUNE 1981 -- and a note that 'ALL THE TARGET DATES HAVE BEEN POSTPONED FOR A YEAR'. THE CENTRE: 'A CONTRACTUAL ARRANGEMENT has been made with the Montreal YMCA, an Association that has PROMOTED BILINGUISM IN ITS OPERATIONS SINCE 1975... FINANCIAL SUPPORT FROM THE FEDERAL GOVERNMENT has permitted to put these studies on bilinguism into a more concrete form.' It began operations 1 DECEMBER 1979 under a national co-ordinator, so that 'the Montreal YMCA will be able to GUIDE AND ORIENTATE, up to a certain point, THE OTHER ASSOCIATIONS having to meet the requirements of the Canadian duality'. AND ITS ANNEXES II AND III ARE 'MONTREAL FACT' AND 'MONTREAL FACT - ANALYSIS - 1975-1979' -- the two documents wiki/traditions/french-language-camping.md is built on. They were not only Montreal's own policy; they became the national association's worked example, annexed to its statement and paid for in part by Ottawa. The Montreal narrative here also dates the beginning to the YMCA NATIONAL CONFERENCE AT YORK UNIVERSITY IN 1968, which 'opened the doors'. THE DOCUMENT CONTAINS NO MENTION OF CAMPS: the camp assignments quoted in the 1979 review sit in an annex to this, and the national objectives are about offices, publications and training events. The camps were where a language policy written for an association got tested on children, and nobody at the national level appears to have said so.",
+      "sources": [
+        "src_ymf_1980_01_national_linguistic_centre"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.08",
       "added_by": "ralph_loop"
     }
   ]

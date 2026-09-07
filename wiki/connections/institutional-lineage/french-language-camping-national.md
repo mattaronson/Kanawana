@@ -1,7 +1,7 @@
 # French-Language Camping in the National Association
 
-*Status: draft | Sources: 9*
-*Last Updated: 2026-09-06 (spun out of The Canadian Camping Movement under p_452)*
+*Status: draft | Sources: 10*
+*Last Updated: 2026-09-07 (the National Language Policy of 1979, and the Linguistic Centre contracted to Montreal)*
 
 ## Overview
 
@@ -55,6 +55,45 @@ That is his view and is recorded as his view, not as a finding about what happen
 
 **INCEF '87.** The same note records that "**dès la fin janvier nous publiions la deuxième édition du répertoire des camps d'expression française, hors Québec (Incef '87)**," produced with the **Conseil de la Vie française en Amérique** and the **Ministre des Affaires Intergouvernementales**, with copies held at the CCA office in Toronto and a needs survey of the listed camps under way.^9 The first edition of 1985 carried twenty-four camps; the second exists, is dated, is jointly funded by a French-Canadian cultural body and a Quebec ministry, and was findable in Toronto.
 
+## The National Language Policy of 1979, and why the Centre was in Montreal
+
+This article traces a thread from 1967 to 1987 without the document that formalised it. In **January
+1980** the National Council of YMCAs of Canada issued *National Linguistic Centre*, and it sets out
+both a national policy and the arrangement that put Montreal at the centre of it.^10
+
+**The policy.** A "**National Language Policy**" was approved by the National Board of Directors of the
+YMCAs of Canada on **24 February 1979**, following a **1976 resolution** "to provide services and
+communications bilingually where requested or necessary." It counts **sixteen Associations across
+Canada serving communities where there are significant numbers of French speaking Canadians**, and it
+attaches deadlines to each objective: the Toronto and Ottawa offices able to represent the National
+Council in both official languages **no later than June 1983**; the Council's materials and
+publications reflecting "the linguistic realities of the YMCA federation" and national projects and
+training events able to serve in both languages **no later than June 1981**. The 1980 document notes
+that "**all the target dates have been postponed for a year**."
+
+**And the Centre was a contract with Montreal.** "A **contractual arrangement** has been made with the
+Montreal YMCA, an Association that has **promoted bilinguism in its operations since 1975**… **Financial
+support from the Federal Government** has permitted to put these studies on bilinguism into a more
+concrete form." The Centre **began operations on 1 December 1979** under a national co-ordinator, and
+the document is explicit about the direction of expertise: "Thanks to the National Linguistic Centre,
+**the Montreal YMCA will be able to guide and orientate, up to a certain point, the other Associations**
+having to meet the requirements of the Canadian duality."
+
+**Two things this changes.** The *Montreal Fact* documents that
+[[traditions/french-language-camping|French-Language Camping at Kanawana]] is built on — the policy of
+15 September 1975 and its 1975–1979 review — are **Annexes II and III of this national document**. They
+were not only local policy; they became the national association's worked example, annexed to its own
+statement and paid for in part by Ottawa. And the Montreal narrative here dates the beginning to a
+national event this article's thread already covers: "The **YMCA National Conference at York University
+in 1968** opened the doors and the Montreal YMCA began its efforts."
+
+**What it does not contain is camps.** The word does not appear. The camp assignments quoted in the
+1979 review — Otoreke for French-speaking low-income families, Weredale as a French camp — sit in an
+annex to this, not in the policy itself, and the national policy's objectives are about offices,
+publications and training events. The relationship worth holding is that **the camps were where a
+language policy written for an association got tested on children**, and nobody at the national level
+appears to have said so.
+
 ## Open Questions
 
 1. [Important] **Did Kanawana appear in either edition of the INCEF directory?** It was an English camp,
@@ -90,3 +129,4 @@ That is his view and is recorded as his view, not as a finding about what happen
 7. "Personality Profile: Taylor Statten — Interview with Adele Ebbs," pp. 10-16; "Camping From Coast To Coast," the Quebec column, p. 4; the officer list, p. 2; and the French Language Committee report, p. 7 — all *Canadian Camping Magazine* Vol. 38 No. 1 (Summer 1986), the 50th anniversary issue [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 158).
 8. "Personality Profile: W. E. (Ted) Yard (1919-1983)" — interview with Shirley Yard and Ted Yard Jr., pp. 10-15; Janet Adamson, "The Canadian Camping Association National Workshop," pp. 6-8; "C.C.A./A.C.C. 50th Anniversary Patrons' Fund" over the names of Janet Adamson and Jack Pearse, p. 16; the A.C.Q. summer report and the Commission des Camps d'Expression française report, pp. 4-6; the masthead and board list, p. 2; and the Second International Camping Congress notice, p. 21 — all *Canadian Camping Magazine* Vol. 38 No. 2 (Fall 1986) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 159).
 9. "C.C.A. Salutes You, Patrons!" with the 50th Anniversary Patrons' Fund donor list, p. 8; Committee Notes (Bruno Morawetz, Archives; Gérard Bachand, Commission des camps d'expression française; Dorothy Walter, Professional Development), pp. 6-7; Dick Chamberlain, "The International Camping Congress… an American Viewpoint," p. 8; Ian Fowler, "Impressions — Opening and Closing Plenary Sessions," pp. 16-17; "The International Delegates at the Washington Congress" with the Agreement of International Representatives, p. 18; and "Camping From Coast To Coast," pp. 4-5 — all *Canadian Camping Magazine* Vol. 38 No. 4 (Spring 1987) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 161). Page 7 of this issue, carrying "Between the Covers," produced no machine-readable text in the Internet Archive scan and has not been read.
+10. *National Linguistic Centre*, National Council of YMCAs of Canada / YMCA of Montreal, **January 1980** [src_ymf_1980_01_national_linguistic_centre]. Cached at `sources/cache/ymca-montreal-fonds/1980-01-national-linguistic-centre.txt`; read word for word 2026-09-07. The Internet Archive item carries an English and a French text; this reading is from the English. Found by searching the fonds enumeration for the Montreal/Quebec City agreements named but not described in the 1979 *Montreal Fact* review.

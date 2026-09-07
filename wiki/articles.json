@@ -1348,7 +1348,8 @@
         "src_ymf_1979_the_montreal_fact_75_79",
         "src_ymf_1981_06_09_la_politique_linguistique",
         "src_ymf_news_release_1969_04_24",
-        "src_ymf_news_release_1969_05_13_202501"
+        "src_ymf_news_release_1969_05_13_202501",
+        "src_ymf_1980_01_national_linguistic_centre"
       ],
       "cross_links": [
         "programs-activities",
@@ -1359,7 +1360,7 @@
         "french-language-camping-national"
       ],
       "file_id": null,
-      "word_count": 3445,
+      "word_count": 3613,
       "open_questions": 5
     },
     {
@@ -12066,7 +12067,8 @@
       "ralph_loops_completed": 0,
       "kb_facts_used": [],
       "sources_cited": [
-        "src_ia_canadian_camping_collection"
+        "src_ia_canadian_camping_collection",
+        "src_ymf_1980_01_national_linguistic_centre"
       ],
       "cross_links": [
         "canadian-camping-movement",
@@ -12076,7 +12078,7 @@
         "association-founding-dates"
       ],
       "file_id": null,
-      "word_count": 2949,
+      "word_count": 3492,
       "open_questions": 4
     },
     {

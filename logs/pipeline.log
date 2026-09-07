@@ -4309,3 +4309,37 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   All three marked read_state "partial" with a basis saying read-and-empty, because
   an item read to no result must not look like an item never opened.
   NEW: f_5542; kb 10.06 -> 10.07. Verify green. Timestamp read from `date -u`.
+
+2026-09-07T11:38Z  A backlog lead, chased, and the national frame for the language policy.
+  Read the 19 queued notifications: 18 CI-green events for commits already made, and
+  the 09:36 scheduled trigger I had already acted on. Nothing to fix. But that
+  trigger named three leads as unread, and two of them (the 1975 policy and the 1981
+  second stage) had in fact been worked earlier today. THE THIRD HAD NOT: the
+  Montreal/Quebec City YMCA agreements the 1979 review names without describing.
+  SEARCHING THE FONDS ENUMERATION FOR THEM FOUND SOMETHING BETTER. The 1,120-item
+  list has exactly three items on this theme, two already worked and one not:
+  `1980-01-national-linguistic-centre`, held in cache and marked "skimmed".
+  IT IS THE NATIONAL FRAME FOR EVERYTHING french-language-camping.md DOCUMENTS. A
+  NATIONAL LANGUAGE POLICY approved by the National Board of YMCAs of Canada on 24
+  FEBRUARY 1979, after a 1976 resolution, covering SIXTEEN Associations, with dated
+  objectives (offices by June 1983, publications and training by June 1981) and a
+  note that all target dates had been postponed a year. THE NATIONAL YMCA LINGUISTIC
+  CENTRE WAS A CONTRACT WITH THE MONTREAL YMCA, with FEDERAL GOVERNMENT financial
+  support, operating from 1 DECEMBER 1979, so that Montreal could "guide and
+  orientate... the other Associations having to meet the requirements of the Canadian
+  duality."
+  AND ITS ANNEXES II AND III ARE "MONTREAL FACT" AND "MONTREAL FACT - ANALYSIS -
+  1975-1979" -- the two documents this project's camp-language article is built on.
+  They were not only local policy. They became the national association's worked
+  example, annexed to its own statement and paid for in part by Ottawa.
+  WHAT THE DOCUMENT DOES NOT CONTAIN IS CAMPS. The word does not appear. The camp
+  assignments quoted in the 1979 review sit in an annex to this, while the national
+  objectives are about offices, publications and training events. The camps were
+  where a language policy written for an association got tested on children, and
+  nobody at the national level appears to have said so. That observation is in the
+  article, marked as the reading it is.
+  THE ORIGINAL LEAD IS STILL OPEN: the Montreal/Quebec City agreements are not in
+  this document and are not in the fonds under any title found so far.
+  NEW: f_5543; kb 10.07 -> 10.08. Verify green, after A2 caught a source in
+  sources_cited that the prose described but never cited.
+  Timestamp read from `date -u` in its own call.
