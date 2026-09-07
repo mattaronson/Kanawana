@@ -1,8 +1,8 @@
 {
-  "version": "9.21",
-  "kb_version": "9.21",
+  "version": "9.22",
+  "kb_version": "9.22",
   "migrated_from": "3.3",
-  "fact_count": 5283,
+  "fact_count": 5284,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -12599,6 +12599,286 @@
       "added_by": "ralph_loop"
     },
     {
+      "fact_id": "f_0746",
+      "claim": "Stuart McLean said of Camp Kanawana: 'I began pulling my adult self together at Camp Kanawana, and I benefited greatly from my camp experiences' and called it 'the first place I ever felt I truly belonged.'",
+      "sources": [
+        "src_samaritanmag_mclean"
+      ],
+      "confidence": "stated",
+      "category": "notable-people",
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.18",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0747",
+      "claim": "After Stuart McLean's death in February 2017, his family established the Stuart McLean Camp Kanawana Fund, requesting donations in lieu of flowers to help children without financial means attend Camp YMCA Kanawana.",
+      "sources": [
+        "src_samaritanmag_mclean",
+        "src_cbc_mclean_fund"
+      ],
+      "confidence": "stated",
+      "category": "notable-people",
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana",
+        "Stuart McLean Camp Kanawana Fund"
+      ],
+      "date_ref": "2017-02",
+      "conflicts_with": [],
+      "added_version": "4.18",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0748",
+      "claim": "Stuart McLean attended Sir George Williams University (now Concordia University). He once passed up a chance to study journalism at Carleton University to return to Camp Kanawana as assistant director.",
+      "sources": [
+        "src_samaritanmag_mclean"
+      ],
+      "confidence": "stated",
+      "category": "notable-people",
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana",
+        "Sir George Williams University",
+        "Concordia University",
+        "Carleton University"
+      ],
+      "date_ref": "1969-1973",
+      "conflicts_with": [],
+      "added_version": "4.18",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0749",
+      "claim": "A 1993 documentary 'Kamp Kanawana: The Experience that lasts a lifetime' (9 min) was produced by Laurentien Productions for the Montreal YMCA, directed by Cathy Reeves. It describes Kanawana as the oldest camp in Quebec and second oldest in Canada.",
+      "sources": [
+        "src_concordia_kanawana_documentary"
+      ],
+      "confidence": "stated",
+      "category": "media",
+      "entities": [
+        "Camp Kanawana",
+        "Cathy Reeves",
+        "Laurentien Productions",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1993",
+      "conflicts_with": [],
+      "added_version": "4.18",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0750",
+      "claim": "The YMCA of Quebec ran day camps at Concordia University (Fine Arts Camp, Science and Engineering Camp) alongside Camp Kanawana programs, until discontinuing day camps in fall 2025.",
+      "sources": [
+        "src_ymca_canada_history"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "YMCA of Quebec",
+        "Concordia University",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2025",
+      "conflicts_with": [],
+      "added_version": "4.18",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0751",
+      "claim": "Camp Kanawana's motto is 'Non Nobis Solum' — 'Not for ourselves alone.'",
+      "sources": [
+        "src_ymca_canada_history"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.18",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0752",
+      "claim": "Dave Twynam served as camp director of Kamp Kanawana. Correspondence from 'Camp director Dave Twynam' is dated 1979 in the Concordia YMCA archives (sub-sub-series P0145/12B01).",
+      "sources": [
+        "src_concordia_atom_12B01"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Dave Twynam",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1979",
+      "conflicts_with": [
+        "f_1169"
+      ],
+      "added_version": "4.19",
+      "added_by": "ralph_loop_director_search"
+    },
+    {
+      "fact_id": "f_0753",
+      "claim": "Ross Bannerman authored a 'Report on Kamp Kanawana' in 1969, listed in Concordia YMCA archives (sub-sub-series P0145/12B01). Role at camp not confirmed but authoring a camp report suggests administrative authority.",
+      "sources": [
+        "src_concordia_atom_12B01"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Ross Bannerman",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1969",
+      "conflicts_with": [],
+      "added_version": "4.19",
+      "added_by": "ralph_loop_director_search"
+    },
+    {
+      "fact_id": "f_0754",
+      "claim": "Concordia archives contain 'Camping and Outdoor Education Branch Director's Report' for 1972 (5 copies) and 1970, plus 'Report of the Staff Task Group on Outdoor Education in the Montreal YMCA' from 1974.",
+      "sources": [
+        "src_concordia_ymca_12A"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1970-1974",
+      "conflicts_with": [],
+      "added_version": "4.19",
+      "added_by": "ralph_loop_director_search"
+    },
+    {
+      "fact_id": "f_0755",
+      "claim": "David Leduc managed YMCA Camp Kanawana's summer and winter programs per his LinkedIn (profile: davidgleduc), including recruitment/supervision of 75 employees, all programs and operational budgets, safety/security of 800 participants, reporting to Board of Directors, strategic business planning, and development/implementation of an intensive youth leadership program. Exact dates of tenure not specified but must predate his Oxfam-Quebec Lebanon role (Mar 2000-Jun 2002), placing Kanawana service likely in the late 1990s. Education: BA International Development (Dalhousie), MBA (McGill, 2006-2011). Subsequent career: Oxfam-Quebec Lebanon coordinator (2000-2002), McGill ICAN director of operations (~11 years), Executive Director of Development and Peace (2015-~2020), Director of Philanthropy Quebec at Pathways to Education Canada (current). Based in Greater Montreal (Outremont). Languages: English, French, Spanish, functional Arabic.",
+      "sources": [
+        "src_linkedin_leduc",
+        "src_devp_leduc_2015"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "David Leduc",
+        "Camp Kanawana"
+      ],
+      "date_ref": "late 1990s (estimated)",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0756",
+      "claim": "The anonymous Westmount Magazine commenter who was camp director at Kanawana in 1974-1975 (alongside Stuart McLean as assistant director) also sublet McLean's flat on Dorchester and looked after his piano when McLean moved to Toronto in the late 1970s. The commenter's name is not visible in available web results.",
+      "sources": [
+        "src_westmountmag_mclean"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1974-1975",
+      "conflicts_with": [],
+      "added_version": "4.19",
+      "added_by": "ralph_loop_director_search"
+    },
+    {
+      "fact_id": "f_0757",
+      "claim": "Concordia archives P0145/12B01 contains 'YMCA Kamp Kanawana Facts-timeline 1894-1998' and 'Kanawana Reminiscence (of 1948), by Ben T. Hannah (1989)'. These documents likely contain comprehensive director lists.",
+      "sources": [
+        "src_concordia_atom_12B01"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "Kamp Kanawana",
+        "Ben T. Hannah"
+      ],
+      "date_ref": "1894-1998",
+      "conflicts_with": [],
+      "added_version": "4.19",
+      "added_by": "ralph_loop_director_search"
+    },
+    {
+      "fact_id": "f_0758",
+      "claim": "'Kanawana, a Place to Grow: A Proposal for the Future of Kanawana, by Kanawana Camping Task Force' report from 1988 is held in Concordia archives P0145/12B01.",
+      "sources": [
+        "src_concordia_atom_12B01"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1988",
+      "conflicts_with": [],
+      "added_version": "4.19",
+      "added_by": "ralph_loop_director_search"
+    },
+    {
+      "fact_id": "f_0759",
+      "claim": "Sean Day is described as 'former director of Camp YMCA Kanawana' in recent references (post-2022), indicating he has left the director role. Kate Taylor and Kevin Slezak (Assistant Director) are current leadership.",
+      "sources": [
+        "src_cbc_daybreak_camps_reopen"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Sean Day",
+        "Kate Taylor",
+        "Kevin Slezak",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2022-2025",
+      "conflicts_with": [],
+      "added_version": "4.19",
+      "added_by": "ralph_loop_director_search"
+    },
+    {
+      "fact_id": "f_0760",
+      "claim": "On September 5, 2014, Camp YMCA Kanawana alumni assembled at Victoria Hall to celebrate the camp's 120th anniversary reunion.",
+      "sources": [
+        "src_ymca_120th"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2014-09-05",
+      "conflicts_with": [],
+      "added_version": "4.19",
+      "added_by": "ralph_loop_director_search"
+    },
+    {
+      "fact_id": "f_0761",
+      "claim": "A 1993 documentary about Camp Kanawana was produced, describing it as the oldest camp in Quebec and second oldest in Canada. This was one year before the 1994 centennial.",
+      "sources": [
+        "src_concordia_kanawana_documentary"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1993",
+      "conflicts_with": [],
+      "added_version": "4.19",
+      "added_by": "ralph_loop_director_search"
+    },
+    {
       "fact_id": "f_0800",
       "claim": "Camp Weredale was founded in 1934 by the Rotary Club of Westmount, which bought 260 acres with a mile of shoreline on Lac l'Achigan, 55 miles north of Montreal, and gave the property to Weredale House.",
       "sources": [
@@ -12978,286 +13258,6 @@
       "conflicts_with": [],
       "added_version": "4.18",
       "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0746",
-      "claim": "Stuart McLean said of Camp Kanawana: 'I began pulling my adult self together at Camp Kanawana, and I benefited greatly from my camp experiences' and called it 'the first place I ever felt I truly belonged.'",
-      "sources": [
-        "src_samaritanmag_mclean"
-      ],
-      "confidence": "stated",
-      "category": "notable-people",
-      "entities": [
-        "Stuart McLean",
-        "Camp Kanawana"
-      ],
-      "date_ref": null,
-      "conflicts_with": [],
-      "added_version": "4.18",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0747",
-      "claim": "After Stuart McLean's death in February 2017, his family established the Stuart McLean Camp Kanawana Fund, requesting donations in lieu of flowers to help children without financial means attend Camp YMCA Kanawana.",
-      "sources": [
-        "src_samaritanmag_mclean",
-        "src_cbc_mclean_fund"
-      ],
-      "confidence": "stated",
-      "category": "notable-people",
-      "entities": [
-        "Stuart McLean",
-        "Camp Kanawana",
-        "Stuart McLean Camp Kanawana Fund"
-      ],
-      "date_ref": "2017-02",
-      "conflicts_with": [],
-      "added_version": "4.18",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0748",
-      "claim": "Stuart McLean attended Sir George Williams University (now Concordia University). He once passed up a chance to study journalism at Carleton University to return to Camp Kanawana as assistant director.",
-      "sources": [
-        "src_samaritanmag_mclean"
-      ],
-      "confidence": "stated",
-      "category": "notable-people",
-      "entities": [
-        "Stuart McLean",
-        "Camp Kanawana",
-        "Sir George Williams University",
-        "Concordia University",
-        "Carleton University"
-      ],
-      "date_ref": "1969-1973",
-      "conflicts_with": [],
-      "added_version": "4.18",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0749",
-      "claim": "A 1993 documentary 'Kamp Kanawana: The Experience that lasts a lifetime' (9 min) was produced by Laurentien Productions for the Montreal YMCA, directed by Cathy Reeves. It describes Kanawana as the oldest camp in Quebec and second oldest in Canada.",
-      "sources": [
-        "src_concordia_kanawana_documentary"
-      ],
-      "confidence": "stated",
-      "category": "media",
-      "entities": [
-        "Camp Kanawana",
-        "Cathy Reeves",
-        "Laurentien Productions",
-        "YMCA of Montreal"
-      ],
-      "date_ref": "1993",
-      "conflicts_with": [],
-      "added_version": "4.18",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0750",
-      "claim": "The YMCA of Quebec ran day camps at Concordia University (Fine Arts Camp, Science and Engineering Camp) alongside Camp Kanawana programs, until discontinuing day camps in fall 2025.",
-      "sources": [
-        "src_ymca_canada_history"
-      ],
-      "confidence": "stated",
-      "category": "inter-camp",
-      "entities": [
-        "YMCA of Quebec",
-        "Concordia University",
-        "Camp Kanawana"
-      ],
-      "date_ref": "2025",
-      "conflicts_with": [],
-      "added_version": "4.18",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0751",
-      "claim": "Camp Kanawana's motto is 'Non Nobis Solum' — 'Not for ourselves alone.'",
-      "sources": [
-        "src_ymca_canada_history"
-      ],
-      "confidence": "stated",
-      "category": "traditions",
-      "entities": [
-        "Camp Kanawana"
-      ],
-      "date_ref": null,
-      "conflicts_with": [],
-      "added_version": "4.18",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0752",
-      "claim": "Dave Twynam served as camp director of Kamp Kanawana. Correspondence from 'Camp director Dave Twynam' is dated 1979 in the Concordia YMCA archives (sub-sub-series P0145/12B01).",
-      "sources": [
-        "src_concordia_atom_12B01"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Dave Twynam",
-        "Kamp Kanawana"
-      ],
-      "date_ref": "1979",
-      "conflicts_with": [
-        "f_1169"
-      ],
-      "added_version": "4.19",
-      "added_by": "ralph_loop_director_search"
-    },
-    {
-      "fact_id": "f_0753",
-      "claim": "Ross Bannerman authored a 'Report on Kamp Kanawana' in 1969, listed in Concordia YMCA archives (sub-sub-series P0145/12B01). Role at camp not confirmed but authoring a camp report suggests administrative authority.",
-      "sources": [
-        "src_concordia_atom_12B01"
-      ],
-      "confidence": "inferred",
-      "category": "people",
-      "entities": [
-        "Ross Bannerman",
-        "Kamp Kanawana"
-      ],
-      "date_ref": "1969",
-      "conflicts_with": [],
-      "added_version": "4.19",
-      "added_by": "ralph_loop_director_search"
-    },
-    {
-      "fact_id": "f_0754",
-      "claim": "Concordia archives contain 'Camping and Outdoor Education Branch Director's Report' for 1972 (5 copies) and 1970, plus 'Report of the Staff Task Group on Outdoor Education in the Montreal YMCA' from 1974.",
-      "sources": [
-        "src_concordia_ymca_12A"
-      ],
-      "confidence": "stated",
-      "category": "sources",
-      "entities": [
-        "Kamp Kanawana"
-      ],
-      "date_ref": "1970-1974",
-      "conflicts_with": [],
-      "added_version": "4.19",
-      "added_by": "ralph_loop_director_search"
-    },
-    {
-      "fact_id": "f_0755",
-      "claim": "David Leduc managed YMCA Camp Kanawana's summer and winter programs per his LinkedIn (profile: davidgleduc), including recruitment/supervision of 75 employees, all programs and operational budgets, safety/security of 800 participants, reporting to Board of Directors, strategic business planning, and development/implementation of an intensive youth leadership program. Exact dates of tenure not specified but must predate his Oxfam-Quebec Lebanon role (Mar 2000-Jun 2002), placing Kanawana service likely in the late 1990s. Education: BA International Development (Dalhousie), MBA (McGill, 2006-2011). Subsequent career: Oxfam-Quebec Lebanon coordinator (2000-2002), McGill ICAN director of operations (~11 years), Executive Director of Development and Peace (2015-~2020), Director of Philanthropy Quebec at Pathways to Education Canada (current). Based in Greater Montreal (Outremont). Languages: English, French, Spanish, functional Arabic.",
-      "sources": [
-        "src_linkedin_leduc",
-        "src_devp_leduc_2015"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "David Leduc",
-        "Camp Kanawana"
-      ],
-      "date_ref": "late 1990s (estimated)",
-      "conflicts_with": [],
-      "added_version": "4.20",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0756",
-      "claim": "The anonymous Westmount Magazine commenter who was camp director at Kanawana in 1974-1975 (alongside Stuart McLean as assistant director) also sublet McLean's flat on Dorchester and looked after his piano when McLean moved to Toronto in the late 1970s. The commenter's name is not visible in available web results.",
-      "sources": [
-        "src_westmountmag_mclean"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Stuart McLean",
-        "Camp Kanawana"
-      ],
-      "date_ref": "1974-1975",
-      "conflicts_with": [],
-      "added_version": "4.19",
-      "added_by": "ralph_loop_director_search"
-    },
-    {
-      "fact_id": "f_0757",
-      "claim": "Concordia archives P0145/12B01 contains 'YMCA Kamp Kanawana Facts-timeline 1894-1998' and 'Kanawana Reminiscence (of 1948), by Ben T. Hannah (1989)'. These documents likely contain comprehensive director lists.",
-      "sources": [
-        "src_concordia_atom_12B01"
-      ],
-      "confidence": "stated",
-      "category": "sources",
-      "entities": [
-        "Kamp Kanawana",
-        "Ben T. Hannah"
-      ],
-      "date_ref": "1894-1998",
-      "conflicts_with": [],
-      "added_version": "4.19",
-      "added_by": "ralph_loop_director_search"
-    },
-    {
-      "fact_id": "f_0758",
-      "claim": "'Kanawana, a Place to Grow: A Proposal for the Future of Kanawana, by Kanawana Camping Task Force' report from 1988 is held in Concordia archives P0145/12B01.",
-      "sources": [
-        "src_concordia_atom_12B01"
-      ],
-      "confidence": "stated",
-      "category": "sources",
-      "entities": [
-        "Kamp Kanawana"
-      ],
-      "date_ref": "1988",
-      "conflicts_with": [],
-      "added_version": "4.19",
-      "added_by": "ralph_loop_director_search"
-    },
-    {
-      "fact_id": "f_0759",
-      "claim": "Sean Day is described as 'former director of Camp YMCA Kanawana' in recent references (post-2022), indicating he has left the director role. Kate Taylor and Kevin Slezak (Assistant Director) are current leadership.",
-      "sources": [
-        "src_cbc_daybreak_camps_reopen"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Sean Day",
-        "Kate Taylor",
-        "Kevin Slezak",
-        "Camp Kanawana"
-      ],
-      "date_ref": "2022-2025",
-      "conflicts_with": [],
-      "added_version": "4.19",
-      "added_by": "ralph_loop_director_search"
-    },
-    {
-      "fact_id": "f_0760",
-      "claim": "On September 5, 2014, Camp YMCA Kanawana alumni assembled at Victoria Hall to celebrate the camp's 120th anniversary reunion.",
-      "sources": [
-        "src_ymca_120th"
-      ],
-      "confidence": "stated",
-      "category": "chronology",
-      "entities": [
-        "Camp Kanawana"
-      ],
-      "date_ref": "2014-09-05",
-      "conflicts_with": [],
-      "added_version": "4.19",
-      "added_by": "ralph_loop_director_search"
-    },
-    {
-      "fact_id": "f_0761",
-      "claim": "A 1993 documentary about Camp Kanawana was produced, describing it as the oldest camp in Quebec and second oldest in Canada. This was one year before the 1994 centennial.",
-      "sources": [
-        "src_concordia_kanawana_documentary"
-      ],
-      "confidence": "stated",
-      "category": "sources",
-      "entities": [
-        "Camp Kanawana"
-      ],
-      "date_ref": "1993",
-      "conflicts_with": [],
-      "added_version": "4.19",
-      "added_by": "ralph_loop_director_search"
     },
     {
       "fact_id": "f_0821",
@@ -31637,6 +31637,28 @@
       "added_by": "ralph_loop"
     },
     {
+      "fact_id": "f_1860",
+      "claim": "Two documented sources disagree on institutional continuity for Montreal's mid-century girls'/underprivileged-children's summer camps: the McCord Stewart Museum's own Junior League of Montreal fonds (P685) description states 'today, Camp Amy Molson carries on its mission' -- implying Camp Amy Molson is a successor to the Junior League's 1921 camp. But Camp Amy Molson's own official history states it was founded May 23, 1944 by the Montreal Ladies' Benevolent and Protestant Orphans' Society (not the Junior League), with 58 campers in its first season. See conflict c_018 -- flagged for human/editorial review, not resolved by the 'oral history yields to documents' policy since both sides are documented institutional sources, not an oral-history-vs-document case.",
+      "sources": [
+        "src_mccord_junior_league_fonds",
+        "src_camp_amy_molson_mcgill_paper"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Junior League Camp",
+        "Camp Amy Molson",
+        "Montreal Ladies' Benevolent and Protestant Orphans' Society"
+      ],
+      "date_ref": "1921-1944",
+      "conflicts_with": [
+        "f_1844",
+        "c_018"
+      ],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
       "fact_id": "f_1861",
       "claim": "The YMCA of Montreal's 1994 Annual Report (English and French editions) states under 'Kamp Kanawana': 'This was Kanawana's 100th year of operation. As part of the centennial celebration, an Alumni reunion was held during Labor Day weekend attracting over 200 past campers and staff.' This directly answers how the camp's 1994 centennial was marked: an alumni reunion, Labor Day weekend, 200+ attendees.",
       "sources": [
@@ -31846,28 +31868,6 @@
       ],
       "date_ref": null,
       "conflicts_with": [],
-      "added_version": "v5.04",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_1860",
-      "claim": "Two documented sources disagree on institutional continuity for Montreal's mid-century girls'/underprivileged-children's summer camps: the McCord Stewart Museum's own Junior League of Montreal fonds (P685) description states 'today, Camp Amy Molson carries on its mission' -- implying Camp Amy Molson is a successor to the Junior League's 1921 camp. But Camp Amy Molson's own official history states it was founded May 23, 1944 by the Montreal Ladies' Benevolent and Protestant Orphans' Society (not the Junior League), with 58 campers in its first season. See conflict c_018 -- flagged for human/editorial review, not resolved by the 'oral history yields to documents' policy since both sides are documented institutional sources, not an oral-history-vs-document case.",
-      "sources": [
-        "src_mccord_junior_league_fonds",
-        "src_camp_amy_molson_mcgill_paper"
-      ],
-      "confidence": "stated",
-      "category": "places",
-      "entities": [
-        "Junior League Camp",
-        "Camp Amy Molson",
-        "Montreal Ladies' Benevolent and Protestant Orphans' Society"
-      ],
-      "date_ref": "1921-1944",
-      "conflicts_with": [
-        "f_1844",
-        "c_018"
-      ],
       "added_version": "v5.04",
       "added_by": "ralph_loop"
     },
@@ -95257,7 +95257,7 @@
         "John W. Beaton",
         "YMCA of Montreal"
       ],
-      "claim": "HAROLD C. CROSS WAS ACTING GENERAL SECRETARY FOR AT LEAST FOUR YEARS, NOT ONE, AND THE REASON IS ON THE SAME LINE. f_5314 recorded him as 'Met., Acting Sec' in the 1945 volume. THE MONTREAL BRANCH DIRECTORY CARRIES IT EARLIER AND LONGER: both the 1941 and the 1944 volumes print 'Montreal, 1441 Drummond St., Metro. Bd. ... General Secretary, JOHN W. BEATON [dagger] / ACTING GENERAL SECRETARY, HAROLD C. CROSS / Business, Clarence M. McCulley'. So the association's chief executive is listed AND a man is listed as acting in his place -- and Beaton's name carries the same dagger as W. J. Holliday's on the line below. THE PAGE'S OWN FOOTER SAYS WHAT THE DAGGER POINTS TO: 'See alphabetical list of those in Y.M.C.A. War services following alphabetical Roster of Employed Officers, page 258.' THE NATURAL READING IS THAT BEATON WAS AWAY IN WAR SERVICES AND CROSS RAN THE ASSOCIATION IN HIS ABSENCE, from 1941 to at least 1944 and on the 1945 evidence into that year. IT IS THE NATURAL READING AND NOT A PROVEN KEY: the war-services list itself was not found on the pages read, so the dagger's meaning is taken from the footer's cross-reference rather than from a legend. Recorded that way deliberately. [REFINED 2026-09-07, and the loose end stated exactly. The dagger is SELECTIVE, which strengthens the reading: the alphabetical roster entry is 't*Holliday, W. J., Montreal, Que., Unemployment, 06' -- BOTH a dagger and an asterisk -- while the great majority of names on the same page carry the asterisk alone. So the asterisk is the common marker and the dagger distinguishes a minority, exactly as a war-services flag would. THE LEGEND ITSELF WAS STILL NOT FOUND. The Montreal page's footer points to 'alphabetical list of those in Y.M.C.A. War services following alphabetical Roster of Employed Officers, page 258', but page 258 in this scan is still the roster, the Canada section ends at the next page and the United States section begins, and walking the records forward reaches a third list in a name-and-home-address format whose own heading was not captured. THIS IS RECORDED AS UNSETTLED ON PURPOSE. The reading is well supported and is not proven, and nobody should later find the legend and discover this project had quietly upgraded an inference.]",
+      "claim": "HAROLD C. CROSS WAS ACTING GENERAL SECRETARY FOR AT LEAST FOUR YEARS, NOT ONE, AND THE REASON IS ON THE SAME LINE. f_5314 recorded him as 'Met., Acting Sec' in the 1945 volume. THE MONTREAL BRANCH DIRECTORY CARRIES IT EARLIER AND LONGER: both the 1941 and the 1944 volumes print 'Montreal, 1441 Drummond St., Metro. Bd. ... General Secretary, JOHN W. BEATON [dagger] / ACTING GENERAL SECRETARY, HAROLD C. CROSS / Business, Clarence M. McCulley'. So the association's chief executive is listed AND a man is listed as acting in his place -- and Beaton's name carries the same dagger as W. J. Holliday's on the line below. THE PAGE'S OWN FOOTER SAYS WHAT THE DAGGER POINTS TO: 'See alphabetical list of those in Y.M.C.A. War services following alphabetical Roster of Employed Officers, page 258.' THE NATURAL READING IS THAT BEATON WAS AWAY IN WAR SERVICES AND CROSS RAN THE ASSOCIATION IN HIS ABSENCE, from 1941 to at least 1944 and on the 1945 evidence into that year. IT IS THE NATURAL READING AND NOT A PROVEN KEY: the war-services list itself was not found on the pages read, so the dagger's meaning is taken from the footer's cross-reference rather than from a legend. Recorded that way deliberately. [REFINED 2026-09-07, and the loose end stated exactly. The dagger is SELECTIVE, which strengthens the reading: the alphabetical roster entry is 't*Holliday, W. J., Montreal, Que., Unemployment, 06' -- BOTH a dagger and an asterisk -- while the great majority of names on the same page carry the asterisk alone. So the asterisk is the common marker and the dagger distinguishes a minority, exactly as a war-services flag would. THE LEGEND ITSELF WAS STILL NOT FOUND. The Montreal page's footer points to 'alphabetical list of those in Y.M.C.A. War services following alphabetical Roster of Employed Officers, page 258', but page 258 in this scan is still the roster, the Canada section ends at the next page and the United States section begins, and walking the records forward reaches a third list in a name-and-home-address format whose own heading was not captured. THIS IS RECORDED AS UNSETTLED ON PURPOSE. The reading is well supported and is not proven, and nobody should later find the legend and discover this project had quietly upgraded an inference.] [CONFIRMED 2026-09-07 BY A BETTER SOURCE THAN THE DAGGER: the Canadian National Council section names JOHN W. BEATON as SECRETARY OF THE NATIONAL Y.M.C.A. WAR SERVICES EXECUTIVE COMMITTEE. The four-year Acting Secretaryship and its reason are now both stated rather than inferred. See f_5322.]",
       "sources": [
         "src_umedia_ymca_yearbook_series"
       ],
@@ -95274,7 +95274,7 @@
         "W. J. Holliday",
         "Kamp Kanawana"
       ],
-      "claim": "KANAWANA'S FIRST CAMP DIRECTOR WAS STILL AT THE MONTREAL YMCA IN THE SECOND WORLD WAR, AND APPEARS TO HAVE SERVED IN IT. The 1941 volume's Montreal block reads 'Metro. Bd. ... Acting General Secretary, Harold C. Cross / Business, Clarence M. McCulley / UNEMPLOYMENT, WILLIAM J. HOLLIDAY [dagger] / Office, James A. C. Hastings'. THREE THINGS COME OFF THAT LINE. His career at Montreal runs at least from 1905-06 to 1941, THIRTY-SIX YEARS, where this project's previous latest sighting was the 1923-24 volume. His post is 'UNEMPLOYMENT' -- a Depression-era portfolio this project has never seen attached to anyone. AND HIS GIVEN NAME IS PRINTED IN FULL, INDEPENDENTLY OF THE 1919 OVERSEAS LIST: 'William J. Holliday' here and 'Holliday, Capt. William J.' there, two publications twenty-two years apart agreeing, which puts the identification of f_5299 beyond reasonable doubt. The dagger, per the page's footer, points to the list of those in Y.M.C.A. War services -- SO THE MAN WHO WENT OVERSEAS IN 1918 APPEARS TO HAVE GONE AGAIN AT ABOUT SIXTY. Written as 'appears to' because the war-services list itself was not found and the dagger's meaning rests on the footer's cross-reference. [REFINED 2026-09-07, and the loose end stated exactly. The dagger is SELECTIVE, which strengthens the reading: the alphabetical roster entry is 't*Holliday, W. J., Montreal, Que., Unemployment, 06' -- BOTH a dagger and an asterisk -- while the great majority of names on the same page carry the asterisk alone. So the asterisk is the common marker and the dagger distinguishes a minority, exactly as a war-services flag would. THE LEGEND ITSELF WAS STILL NOT FOUND. The Montreal page's footer points to 'alphabetical list of those in Y.M.C.A. War services following alphabetical Roster of Employed Officers, page 258', but page 258 in this scan is still the roster, the Canada section ends at the next page and the United States section begins, and walking the records forward reaches a third list in a name-and-home-address format whose own heading was not captured. THIS IS RECORDED AS UNSETTLED ON PURPOSE. The reading is well supported and is not proven, and nobody should later find the legend and discover this project had quietly upgraded an inference.]",
+      "claim": "KANAWANA'S FIRST CAMP DIRECTOR WAS STILL AT THE MONTREAL YMCA IN THE SECOND WORLD WAR, AND APPEARS TO HAVE SERVED IN IT. The 1941 volume's Montreal block reads 'Metro. Bd. ... Acting General Secretary, Harold C. Cross / Business, Clarence M. McCulley / UNEMPLOYMENT, WILLIAM J. HOLLIDAY [dagger] / Office, James A. C. Hastings'. THREE THINGS COME OFF THAT LINE. His career at Montreal runs at least from 1905-06 to 1941, THIRTY-SIX YEARS, where this project's previous latest sighting was the 1923-24 volume. His post is 'UNEMPLOYMENT' -- a Depression-era portfolio this project has never seen attached to anyone. AND HIS GIVEN NAME IS PRINTED IN FULL, INDEPENDENTLY OF THE 1919 OVERSEAS LIST: 'William J. Holliday' here and 'Holliday, Capt. William J.' there, two publications twenty-two years apart agreeing, which puts the identification of f_5299 beyond reasonable doubt. The dagger, per the page's footer, points to the list of those in Y.M.C.A. War services -- SO THE MAN WHO WENT OVERSEAS IN 1918 APPEARS TO HAVE GONE AGAIN AT ABOUT SIXTY. Written as 'appears to' because the war-services list itself was not found and the dagger's meaning rests on the footer's cross-reference. [REFINED 2026-09-07, and the loose end stated exactly. The dagger is SELECTIVE, which strengthens the reading: the alphabetical roster entry is 't*Holliday, W. J., Montreal, Que., Unemployment, 06' -- BOTH a dagger and an asterisk -- while the great majority of names on the same page carry the asterisk alone. So the asterisk is the common marker and the dagger distinguishes a minority, exactly as a war-services flag would. THE LEGEND ITSELF WAS STILL NOT FOUND. The Montreal page's footer points to 'alphabetical list of those in Y.M.C.A. War services following alphabetical Roster of Employed Officers, page 258', but page 258 in this scan is still the roster, the Canada section ends at the next page and the United States section begins, and walking the records forward reaches a third list in a name-and-home-address format whose own heading was not captured. THIS IS RECORDED AS UNSETTLED ON PURPOSE. The reading is well supported and is not proven, and nobody should later find the legend and discover this project had quietly upgraded an inference.] [WITHDRAWN IN PART 2026-09-07, WITHIN THE HOUR, AND THIS IS THE HALF THAT WAS WRONG. The suggestion that Holliday served in the SECOND war rested on a dagger against his name plus the page footer's pointer to a war-services list. THE TEST HAS NOW BEEN RUN AND IT FAILS FOR HIM: the volume's war-services material has been found -- the National Y.M.C.A. War Services Executive Committee in the Canadian National Council section (f_5322) -- and JOHN W. BEATON IS IN IT, AS ITS SECRETARY, WHILE HOLLIDAY IS NOT. A loose search for 'Holliday' across the whole volume returns only the two roster pages. So Beaton's absence from Montreal is explained by a NAMED NATIONAL POST rather than by the symbol, and the symbol against Holliday's name remains UNEXPLAINED. NOTHING HERE SAYS HE DID NOT SERVE; it says this project has no evidence that he did, and the sentence suggesting it should not be relied on. EVERYTHING ELSE IN THIS FACT STANDS AND IS INDEPENDENT OF THE DAGGER: he is at Montreal in the 1941 volume in an 'Unemployment' post, thirty-six years after his first appearance, with his given name printed in full a second time.]",
       "sources": [
         "src_umedia_ymca_yearbook_series"
       ],
@@ -95299,6 +95299,26 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5322",
+      "category": "people",
+      "date_ref": "1941-1945",
+      "entities": [
+        "John W. Beaton",
+        "Harold C. Cross",
+        "Gerald W. Birks",
+        "J. W. McConnell",
+        "YMCA of Montreal"
+      ],
+      "claim": "WHY HAROLD C. CROSS WAS ACTING GENERAL SECRETARY, STATED OUTRIGHT INSTEAD OF INFERRED FROM A SYMBOL. The volume's Canadian National Council section prints: 'NATIONAL Y.M.C.A. WAR SERVICES EXECUTIVE COMMITTEE: Hon. Chairman -- J. W. McCONNELL / Chairman -- James Y. Murdoch / SECRETARY -- JOHN W. BEATON / Associate Secretary -- William R. Cook', with Montreal's members given as 'Gerald W. Birks, John B. Frosst, Harold M. Long, George W. Spinney, R. C. Vaughan, Morris W. Wilson'. SO THE MONTREAL YMCA'S GENERAL SECRETARY WAS SECRETARY OF THE NATIONAL WAR SERVICES EXECUTIVE, WHICH IS WHY CROSS RAN THE ASSOCIATION IN HIS PLACE from 1941 to 1945. That was recorded in f_5319 as the natural reading of a dagger; it is now a direct statement, and a better one -- it names the post rather than flagging an absence. THREE OF THE MONTREAL NAMES ARE ALREADY IN THIS PROJECT: GERALD W. BIRKS is the association's president through these years and JOHN B. FROSST its president in 1951, both from the branch directory; and J. W. McCONNELL, the committee's honorary chairman, is the McConnell of the biography that gave this project the Lake Wilson renaming. A national war committee with the camp's own association's president and its historian's chief on it.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.22",
       "added_by": "ralph_loop"
     }
   ]

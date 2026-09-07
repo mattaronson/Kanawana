@@ -229,7 +229,24 @@ together with no spaces defeated three exact forms; `Otereke` with an E hid two 
 McGerrigle's directorship and briefly convinced me the camp entered this series in 1958;
 `Holliday, Capt. William J.` did not match `Holliday, W. J.`
 
-## One thing left deliberately unsettled
+## The thing left unsettled, settled — and it went both ways
+
+*(Written an hour after the section below, which is kept because the reasoning in it was sound
+and the outcome still split.)* The war-services material **was** found: the **National Y.M.C.A.
+War Services Executive Committee**, printed in the Canadian National Council section, with
+**John W. Beaton as its Secretary** — Montreal's own General Secretary running the national war
+executive. So Cross's four years acting in his place are now explained by **a named post rather
+than by a symbol**, which is a better fact than the one it replaces.
+
+**But Holliday is not in it**, and a loose search returns him on the two roster pages and nowhere
+else in the volume. The suggestion that he served in the second war as he had the first is
+**withdrawn**. The dagger against his name is simply unexplained.
+
+**One symbol, two men, and the evidence resolved one and refuted the other.** A shared mark is
+not a shared fact — which is the general form of the error the section below was guarding against,
+and the reason it was worth guarding against.
+
+## The reasoning that guarded it, kept
 
 Two facts (`f_5319`, `f_5320`) rest on the reading that **a dagger in the 1940s Roster of Employed
 Officers marks a man in Y.M.C.A. War Services**. It matters: it is what puts General Secretary
