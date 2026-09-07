@@ -7822,3 +7822,23 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   AND WHAT THIS PROJECT CANNOT SAY, stated in the article rather than papered over: nothing in the reports explains the reversal between
   1969 and 1970. No incident, no cost figure, no change of instructor. The 1970 report simply reclassifies it.
   KB v10.85 -> v10.86, 5,653 -> 5,654.
+2026-09-07T20:35:36Z  p_492  MEASUREMENT: the KB-to-article gap is 4,349 facts, not 107, and most of it is genuinely unwritten.
+  Prompted by closing SIX orphaned facts in one evening, every one found by accident rather than by working the orphan list.
+  RAW COUNT at KB v10.86: of 5,654 facts, 1,305 (23.1%) are cited by at least one article via an [f_NNNN] marker; 4,349 (76.9%) by none.
+  I DID NOT REPORT THAT NUMBER UNTIL IT WAS TESTED, because content can sit in an article credited through a numbered source note instead
+  of a fact id, which would make the raw figure meaningless.
+  FIRST PASS DISCARDED. Loose probes -- "Vice President", "British Columbia", "Canadian Camping" -- matched anything and returned a
+  meaningless 50/50. A generic probe tests nothing.
+  SECOND PASS: only uncited facts carrying a DISTINCTIVE quoted fragment of 30-80 characters (2,167 of the 4,349 qualify), searched as an
+  exact string across the whole wiki. In a random sample of 30, TWENTY-FIVE HAD THEIR CONTENT ABSENT ENTIRELY; five were present. Absent
+  examples: a change-over ritual named in the 1975 director's report, an OCA board meeting reported October 1976, a 1995 session roster,
+  the A. Ross Seaman memorial scholarships.
+  CAVEATS, stated in f_5693 and not buried: exact-string probing reads paraphrase as absence; roughly half the uncited facts carry no
+  quotable fragment and were not measured at all; and some absent content is legitimately not article material (the wider camping movement,
+  procedural records, other camps). THE HONEST CLAIM IS DIRECTIONAL, not a percentage of missing content.
+  WHY IT MATTERS FOR THE OPERATOR'S PUBLICATION QUESTION: this is a bigger and far more tractable problem than the 474 open questions. Open
+  questions measure what is NOT known. This measures what IS known, verified, and never written down. The articles are not merely
+  under-polished; relative to the research already done they are UNDER-POPULATED.
+  p_492 RE-SCOPED in the queue: it is written as a sweep of a 107-entry list. The list is not the population. Generate the uncited set
+  programmatically, group by entity or article subject rather than triaging one fact at a time, and treat it as an article-population job.
+  KB v10.86 -> v10.87, 5,654 -> 5,655. New source id registered for the measurement itself so the fact resolves.

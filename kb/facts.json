@@ -1,8 +1,8 @@
 {
-  "version": "10.86",
-  "kb_version": "10.86",
+  "version": "10.87",
+  "kb_version": "10.87",
   "migrated_from": "3.3",
-  "fact_count": 5654,
+  "fact_count": 5655,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101932,6 +101932,22 @@
       "date_ref": "1969-1971",
       "conflicts_with": [],
       "added_version": "10.86",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5693",
+      "claim": "MEASURED: 77 PER CENT OF THIS PROJECT'S FACTS ARE CITED BY NO ARTICLE, AND A SAMPLE SUGGESTS MOST OF THAT CONTENT IS GENUINELY ABSENT FROM THE WIKI RATHER THAN MERELY UNCITED. Prompted by closing six orphaned facts in one evening, all found incidentally rather than by working the orphan list. THE RAW COUNT, 2026-09-07 at KB v10.86: of 5,654 facts, 1,305 (23.1 per cent) are cited by at least one article via an [f_NNNN] marker and 4,349 (76.9 per cent) are cited by none. THAT NUMBER ALONE WOULD BE MISLEADING and was not reported until it was tested, because content can be present in an article and credited through a numbered source note rather than a fact id. THE TEST. A first pass using loose probes was discarded: generic strings like 'Vice President' and 'British Columbia' matched anything and produced a meaningless 50 per cent. The second pass took only uncited facts carrying a DISTINCTIVE QUOTED FRAGMENT of 30 to 80 characters (2,167 of the 4,349 qualify) and searched the whole wiki for that exact string. In a random sample of 30, TWENTY-FIVE HAD THEIR CONTENT ABSENT FROM THE WIKI ENTIRELY and five were present. Absent examples include a change-over ritual named in the 1975 director's report, an OCA board meeting reported in October 1976, a 1995 session roster, and the A. Ross Seaman memorial scholarships. WHAT THIS DOES AND DOES NOT SUPPORT. It supports: the gap between what the knowledge base holds and what the articles say is very large, and is a bigger and more tractable problem than the 474 open questions, which measure what is NOT known rather than what is known and unused. It does NOT support a precise figure: the probe tests exact strings so paraphrase reads as absence, roughly half the uncited facts carry no quotable fragment and were not measured at all, and some absent content is legitimately not article material -- facts about the wider camping movement, procedural records, and material about other camps. THE HONEST STATEMENT IS DIRECTIONAL: on the order of a thousand-plus facts of usable content have been researched, verified and never written into an article, and the six orphans closed on 7 September were found by accident rather than by search, which suggests the rest will not surface on their own.",
+      "sources": [
+        "src_kb_self_measurement_2026_09_07"
+      ],
+      "confidence": "stated",
+      "category": "methodology",
+      "entities": [
+        "Kanawana wiki project"
+      ],
+      "date_ref": "2026-09-07",
+      "conflicts_with": [],
+      "added_version": "10.87",
       "added_by": "ralph_loop"
     }
   ]
