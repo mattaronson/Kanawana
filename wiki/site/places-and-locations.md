@@ -1,6 +1,6 @@
 # Places and Locations at Camp Kanawana
 
-*Status: E1-reviewed | Sources: 31*
+*Status: E1-reviewed | Sources: 32*
 *Last Updated: 2026-09-07 (the three section names two years earlier, from the 1936 CFCF script)*
 
 ## Overview
@@ -251,6 +251,15 @@ An indoor activity space [src_ymca_website]. Construction date and history undoc
 ### Infirmary
 
 The camp infirmary has 5 beds and a private washroom [src_ymca_website]. An emergency oxygen tank and AED are available. The original camp hospital was a new building in 1922 [src_brochure_1922]; whether the current infirmary occupies the same structure or a replacement is unknown.
+
+**Ten drug companies stocked it.** The 1977 director's report thanks, by name, "the Drug Companies who
+so generously donated medications and supplies for our infirmary — **Burroughs Wellcome, Cooper
+Laboratories, Connaught, Parke-Davis, A. H. Robins, Schering Corporation, Sterling Drug, Syntex, Upjohn
+Company, Winthrop Laboratories**."^32 This project documents the camp's medical provision from 1919
+onward — a resident doctor that year, a hospital building in 1922, an infirmary dated 1945 by the 1988
+facilities table, five beds today — and had **no record at all of where the medicine came from**. In
+1977 it came from ten pharmaceutical firms, donated. Whether that arrangement was long-standing or
+particular to that season is not established; it is the only year read for it.
 
 ### Pavilion for Workshops and Training
 
@@ -580,3 +589,4 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 29. "Kamp Kanawana Broadcast — Station CFCF," 1936 script [src_ymf_1936_kamp_kanawana_broadcast_station_cfcf], cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07. See [f_5605].
 30. YMCA of Montreal annual report for the year ending 31 March **1934** [src_cache_sgw_ymca_annual_report_1934], on the **1933** season: the chapel rebuilt by **15** boys, the **two hundred** at the dedication, the **$1,386.33** deficit and **W. H. Spearman** again in charge. At [f_5646], which also carries the **1926** hike list naming **Becsis** among eight destinations [src_ymf_sgw_ymca_annual_report_1927].
 31. YMCA of Montreal annual report for the year ending 31 March **1937** [src_cache_sgw_ymca_annual_report_1937], on the **1936** season: "at Camp Kanawana, sleeping cabins were erected for the junior section, at a cost of **$1,250.00**; at Camp Otoreke, two sleeping cabins and a new wharf, etc., were built, costing **$750.00**." The three names this one build carries across three documents, and why the **1937** report's "junior" sits badly against the **1936** CFCF script [src_ymf_1936_kamp_kanawana_broadcast_station_cfcf], are at [f_5647].
+32. Kamp Kanawana director's report for **1977** [src_ia_kanawana_report_1977], acknowledgements section: "The Drug Companies who so generously donated medications and supplies for our infirmary — Burroughs Wellcome, Cooper Laboratories, Connaught, Parke-Davis, A. H. Robins, Schering Corporation, Sterling Drug, Syntex, Upjohn Company, Winthrop Laboratories." At [f_5649], with the rest of that season's named donors.

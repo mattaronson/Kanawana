@@ -5084,7 +5084,8 @@
         "src_ymf_1936_kamp_kanawana_broadcast_station_cfcf",
         "src_cache_sgw_ymca_annual_report_1934",
         "src_ymf_sgw_ymca_annual_report_1927",
-        "src_cache_sgw_ymca_annual_report_1937"
+        "src_cache_sgw_ymca_annual_report_1937",
+        "src_ia_kanawana_report_1977"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -5099,7 +5100,7 @@
         "lv-games"
       ],
       "file_id": null,
-      "word_count": 9765,
+      "word_count": 9937,
       "notes": "Stub created 2026-02-27. Comprehensive inventory of named places, buildings, structures (current and historical). Includes Grand Portage and Longhouse from oral tradition (no written documentation found). Superintendent's house fire May 2023. Infirmary (5 beds), 30ft climbing wall, workshop pavilion added from web research. 13 open questions.",
       "tags": {
         "era": [
@@ -7659,7 +7660,8 @@
         "src_history_1935",
         "src_ymf_the_green_triangle_1935_07_20",
         "src_ymf_the_green_triangle_1935_07_27",
-        "src_newspapers_gazette_1918"
+        "src_newspapers_gazette_1918",
+        "src_ia_kanawana_report_1977"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -7673,7 +7675,7 @@
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 6368,
+      "word_count": 6551,
       "tags": {
         "era": [
           "1960s",

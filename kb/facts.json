@@ -1,8 +1,8 @@
 {
-  "version": "10.61",
-  "kb_version": "10.61",
+  "version": "10.62",
+  "kb_version": "10.62",
   "migrated_from": "3.3",
-  "fact_count": 5610,
+  "fact_count": 5611,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101130,6 +101130,27 @@
       "date_ref": "1954-2011",
       "conflicts_with": [],
       "added_version": "10.61",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5649",
+      "claim": "THE 1977 DIRECTOR'S REPORT THANKS ITS SUPPLIERS BY NAME, AND THE LIST IS A PICTURE OF HOW THE CAMP WAS SUPPLIED AND PUBLICISED. Found under p_492 while checking a name; this project had no record of the acknowledgement section of a director's report as a category of evidence at all.\n\nTEN DRUG COMPANIES STOCKED THE INFIRMARY: 'The Drug Companies who so generously donated MEDICATIONS AND SUPPLIES FOR OUR INFIRMARY -- BURROUGHS WELLCOME, COOPER LABORATORIES, CONNAUGHT, PARKE-DAVIS, A. H. ROBINS, SCHERING CORPORATION, STERLING DRUG, SYNTEX, UPJOHN COMPANY, WINTHROP LABORATORIES.' The camp's medical provision is documented here from 1919 onward as a resident doctor and an infirmary with beds; THIS IS THE FIRST RECORD OF WHERE THE MEDICINE CAME FROM, and the answer is ten pharmaceutical firms donating it.\n\nAND THE CAMP WAS ON MONTREAL RADIO IN 1977: 'GEORGE BALCAN AND JACK FINNIGAN OF CJAD RADIO WHO SPOKE ABOUT SOME OF OUR PROGRAMS THIS SUMMER.' documents/kanawana-in-media.md's Radio section runs CFCF 1939 and 1941 and the CBM Voice of Youth of 1938, with the Concordia finding aid putting CFCF broadcasts at 1936-1941. NOTHING AFTER 1941. This extends the camp's radio record by thirty-six years, onto a different station, and names the broadcasters. It is a mention rather than a programme -- the report says they 'spoke about some of our programs', not that they broadcast from camp -- and no recording or date is given.\n\nTHE REST OF THE LIST: 'CANADIAN ERECTORS LIMITED and its President STANLEY HAWKINS'; 'JIM SIMPKINS for his donation of THE DESIGN OF OUR KANAWANA BIRTHDAY CARD'; 'MONTREAL COPY CENTRE for various free printings'; 'the WESTMOUNT, WEST ISLAND and DOWNTOWN BRANCHES for lending us rooms for meetings'; 'the CLOUSTON COMPANY for the loan of a drink machine' (f_5648); 'TOM THOMPSON for the donation of 4000 K.K. POSTCARDS'; and, above these, unnamed neighbours 'who allow us to use their properties and assist us in many ways'.\n\nJIM SIMPKINS IS A NAME WORTH PURSUING AND IS NOT IDENTIFIED HERE. A Jim Simpkins created 'Jasper the Bear' and drew for Maclean's for decades, which would make a donated card design by him a real connection -- but the report gives a name and nothing else, and this project's standard is that a name match is not an identification. Recorded as a candidate.\n\nTHE SECTION CLOSES WITH A POEM, untitled in the report and opening 'Look to this day! For it is life; The very life of life. In its brief course lie all the varieties and realties of your existence. The bliss of growth; The glory of action; The splendor of beauty.' This is the 'Salutation of the Dawn', commonly attributed to Kalidasa, and the report prints it under the heading 'HOPE'. That a director's annual report ends its thanks with a Sanskrit poem is the kind of thing only the whole document shows.",
+      "sources": [
+        "src_ia_kanawana_report_1977"
+      ],
+      "confidence": "stated",
+      "category": "history",
+      "entities": [
+        "CJAD",
+        "George Balcan",
+        "Jack Finnigan",
+        "Jim Simpkins",
+        "Canadian Erectors Limited",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1977",
+      "conflicts_with": [],
+      "added_version": "10.62",
       "added_by": "ralph_loop"
     }
   ]

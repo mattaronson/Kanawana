@@ -1,6 +1,6 @@
 # Kanawana in Media and Culture
 
-*Status: E1-reviewed | Sources: 32*
+*Status: E1-reviewed | Sources: 33*
 *Last Updated: 2026-09-07 (every archival reference code corrected, by one; the Flickr album index read)*
 
 ## Overview
@@ -167,6 +167,16 @@ where to ask. *She was looked for and not found:* a book-corpus search on her na
 - June 26, 1941, 8:50 PM Thursday: Chief [[people/howie-langille|Howie Langille]] was interviewed by an announcer, promoting summer registrations and describing the 48th season, British evacuee children, 68 staff, and multi-generational attendance.^7 ^18
 
 The Concordia Archives (P145/12B04, Communications sub-series) describe CFCF broadcasts promoting Kanawana as running from 1936 to 1941, suggesting further, not-yet-digitized broadcasts beyond these two surviving recordings.^19 See [[people/howie-langille|Howie Langille]] for the 1941 broadcast's fuller biographical context, and [[history/wartime-kanawana|Wartime Kanawana]] for its content in the camp's wartime narrative.
+
+**CJAD, 1977 — and the radio record was stopping in 1941.** Kanawana's own director's report for 1977
+thanks, among its acknowledgements, "**George Balcan and Jack Finnigan of CJAD radio who spoke about
+some of our programs this summer**."^33 Everything above this paragraph is CFCF and CBM between 1936 and
+1941; **this is thirty-six years later and a different station**, and it names the broadcasters.
+
+Read it for exactly what it says. The report thanks two men who "spoke about" the camp's programmes on
+air — **a mention, not a programme**. Nothing says they broadcast from camp, no date is given, and no
+recording is known. What it establishes is that the camp was still getting Montreal radio attention in
+the 1970s and thought it worth thanking by name.
 
 **"The Voice of Youth", CBM, 10 November 1938 — the boys produced the whole thing.** A different broadcast from the CFCF pair, on a different station, and the full script survives along with the note calling the boys to rehearsal.^25 [[traditions/camp-songs-cheers|The songs article]] takes its set list; what follows is everything else in it.
 
@@ -351,6 +361,7 @@ To which can be added a fifth of a different kind: **Armand B. Ball, *Basic Camp
 30. Concordia University Records Management and Archives, *Finding Aid — YMCA of Montreal Fonds (P0145)*, generated 24 November 2023, 125 pp. [src_concordia_p0145_full_findingaid_pdf]. Cached at `sources/cache/concordia-findingaid/P0145-ymca-of-montreal-fonds-findingaid-2023-11-24.txt`. Re-read 2026-09-07 under p_487, which is when the reference codes below were corrected. See [f_5604].
 31. The **1935** government photographer, and his name. "A History of Kamp Kanawana", the **1935** season chronicle [src_history_1935], `sources/cache/green-triangle/1935-history.txt`, carries the fourth-week sentence about the "offielal government photographer" and the "still and moving pictures" — read with its OCR damage intact at [f_0130]. *The Green Triangle* of **20 July 1935** [src_ymf_the_green_triangle_1935_07_20] welcomes "Mr. Fowle, photographer" and reports both the photography class and the mass picture of all campers, and it is the same issue that reports **Howard C. Ross, K.C.** reading modern poetry — the visitor who dates the chronicle's fourth week. The issue of **27 July 1935** [src_ymf_the_green_triangle_1935_07_27] adds Fowle's photographs of the **21 July** chapel service. The two Green Triangle issues are together at [f_5512]; the identification of Fowle with the chronicle's government photographer, the search for him, and the null result are at [f_5628].
 32. *The Gazette* (Montreal), **11 July 1918** [src_newspapers_gazette_1918], `sources/cache/web-pages/newspapers_gazette_1918.txt`. **The cache carries the page OCR, not only the paywall wrapper**, and the paragraph headed "AT CAMP KANAWANA" is in it verbatim — checked 2026-09-07 under p_492, after the sibling record `src_newspapers_com_gazette` turned out to hold nothing but chrome. The **Frank Lawes** filming is at [f_0439] and [f_0608]; the **110**-member attendance and the **1918** activity list are at [f_0437] and [f_0438].
+33. Kamp Kanawana director's report for **1977** [src_ia_kanawana_report_1977], `sources/cache/ymca-montreal-fonds/1977-kamp-kanawana-directors-report.txt`, in its section of acknowledgements. **George Balcan** and **Jack Finnigan** of **CJAD**, the ten drug companies that stocked the infirmary, **Jim Simpkins**'s donated birthday-card design and the rest of the list are at [f_5649]; the **Clouston Company**'s drink machine, from the same page, is at [f_5648].
 
 *All four are lending-restricted on the Internet Archive and none has been read; each passage was reconstructed from overlapping Open Library search-inside queries and is cached with its queries under `sources/cache/openlibrary-search-inside/`.*
 

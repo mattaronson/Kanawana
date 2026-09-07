@@ -6078,6 +6078,20 @@
       "notes": "",
       "tier": "",
       "weight": 4
+    },
+    {
+      "priority_id": "p_499",
+      "rank": 6,
+      "type": "RESEARCH",
+      "article_id": "kanawana-in-media",
+      "description": "READ THE ACKNOWLEDGEMENT SECTIONS OF EVERY KANAWANA DIRECTOR'S REPORT. Raised 2026-09-07 from f_5649. This project has read these reports repeatedly for programme, attendance and staffing and HAS NEVER READ THEIR THANKS. The 1977 one alone gave: ten named DRUG COMPANIES donating the infirmary's medications (Burroughs Wellcome, Cooper Laboratories, Connaught, Parke-Davis, A. H. Robins, Schering, Sterling Drug, Syntex, Upjohn, Winthrop) -- the first record anywhere here of where the camp's medicine came from; GEORGE BALCAN and JACK FINNIGAN of CJAD RADIO speaking about the camp's programmes, which extends the camp's radio record thirty-six years past the CFCF broadcasts that stopped in 1941; CANADIAN ERECTORS LIMITED and its president STANLEY HAWKINS; JIM SIMPKINS donating the design of the camp's birthday card; MONTREAL COPY CENTRE for free printing; the CLOUSTON COMPANY lending a drink machine; TOM THOMPSON donating 4,000 camp postcards; three YMCA branches lending meeting rooms; and unnamed neighbours 'who allow us to use their properties'. It closes with the 'Salutation of the Dawn' under the heading HOPE. THE REPORTS HELD HERE include 1969, 1974, 1976, 1977, 1978, 1979, 1987 and the camp-level annual reports of 1964 and 1965; the 1979 one is already known to thank the Clouston Company and Diana Deakin, 'who conducted the lifesaving exams'. WHAT THIS SECTION IS: the camp's relationship with local business, media and neighbours, which is a whole category of institutional history this wiki does not cover. ONE NAME TO PURSUE CAREFULLY: a JIM SIMPKINS created 'Jasper the Bear' and drew for Maclean's for decades, which would make a donated design by him a real connection -- but the report gives a name and nothing else, and a name match is not an identification.",
+      "blocking": true,
+      "assigned_weight": "",
+      "created_at": "",
+      "status": "open",
+      "notes": "",
+      "tier": "",
+      "weight": 7
     }
   ],
   "queue_ordering": {
