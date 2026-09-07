@@ -1,8 +1,8 @@
 {
-  "version": "9.08",
-  "kb_version": "9.08",
+  "version": "9.09",
+  "kb_version": "9.09",
   "migrated_from": "3.3",
-  "fact_count": 5266,
+  "fact_count": 5267,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -95003,6 +95003,24 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5305",
+      "category": "people",
+      "date_ref": "1915-1919",
+      "entities": [
+        "Harold C. Cross",
+        "W. J. Holliday",
+        "Kenneth J. Hollinshead"
+      ],
+      "claim": "HAROLD C. CROSS IS ON NEITHER WAR-SERVICE LIST, AND THAT IS A CONTROLLED NEGATIVE RATHER THAN A SILENCE. His article's oldest open question is where he was between the 1914-15 and 1918-19 volumes, three editions that name him nowhere (f_5269), with war service the obvious hypothesis. The Year Book carries two rosters that would catch a YMCA man who went: the 1917-18 volume's 'Secretaries and Others in War Service', and the 1918-19 volume's 'Overseas Secretaries, Canadian National Council, June 1, 1919'. SEARCHED AS THE EXACT PHRASES 'Cross, H. C.', 'Cross, Harold' AND 'Harold C. Cross', AND BY READING THE CANADIAN LIST'S FULL TEXT, WHERE THE SURNAME CROSS DOES NOT OCCUR AT ALL. He is on neither. THE CONTROL IS WHAT MAKES THIS WORTH ANYTHING: these same lists DO name his Montreal colleagues -- W. J. Holliday as Capt. William J. Holliday on the Canadian list (f_5299) and Kenneth J. Hollinshead on the United States one (f_5301) -- so the lists reach the right institution in the right years and are not simply blind to Montreal. WHAT IT DOES AND DOES NOT RULE OUT: it makes it unlikely he went overseas AS A YMCA SECRETARY, which was the specific route his colleagues took. It does not rule out military enlistment, which would leave no trace in a YMCA roster, and it does not rule out ordinary civilian work somewhere the roster did not reach. So the CEF personnel records become MORE relevant to his case than to Holliday's, not less -- Holliday was a YMCA officer attached to the forces and may have no service file, whereas an enlisted man would.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.09",
       "added_by": "ralph_loop"
     }
   ]
