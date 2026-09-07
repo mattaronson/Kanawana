@@ -1,8 +1,8 @@
 {
-  "version": "10.09",
-  "kb_version": "10.09",
+  "version": "10.10",
+  "kb_version": "10.10",
   "migrated_from": "3.3",
-  "fact_count": 5534,
+  "fact_count": 5535,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99697,9 +99697,9 @@
         "J. Roby Kidd",
         "Camp Kanawana"
       ],
-      "claim": "THE TWO KIDDS AT KANAWANA ARE VERY PROBABLY BROTHERS, AND THE BIOGRAPHY SUPPLIES THE MECHANISM -- BUT THE IDENTIFICATION IS NOT MADE HERE. Kidd's biography: 'Later, he followed HIS BROTHER JOHN to Sir George Williams University in Montreal. JOHN HAD SUGGESTED THAT ROBY COULD PAY HIS WAY THROUGH UNIVERSITY BY WORKING AT THE Y because the family did not have the financial resources.' Elsewhere: 'His brother, John, worked at the Vancouver centre.' SET THAT BESIDE WHAT THIS PROJECT ALREADY HELD. JOHN P. KIDD was a Kanawana leader in 1934 (f_2288, f_2523) -- documented by his own signed first-person article in Canadian Camping of June 1950, 'Campers Are Citizens', bylined 'John P. Kidd, EXECUTIVE DIRECTOR, CANADIAN CITIZENSHIP COUNCIL, Ottawa', in which he recounts a wounded soldier at Caserta recognising him and saying 'Kamp Kanavana... 1934'. So a John Kidd was in Montreal YMCA camping in 1934, a year BEFORE Roby's Montreal career begins in 1935 -- which is exactly the order the biography describes, the elder brother first and Roby following him. And Roby's 1947 Columbia doctoral thesis 'sought to understand the function of the CANADIAN CITIZENSHIP COUNCIL', the body John P. Kidd was running by 1950. WHY IT IS STILL NOT ASSERTED, AND THE REASON IS A TRAP THIS PROJECT HAS FALLEN INTO BEFORE. The biography never gives brother John a middle initial, never says he went to Montreal camping, and NEVER MENTIONS KANAWANA. Worse, it names a DIFFERENT MAN in the adjacent role: 'JOHN ROBBINS, then Director of the Canadian Council on Education for Citizenship (LATER THE CANADIAN CITIZENSHIP COUNCIL)' -- and Roby's own middle name is ROBBINS. A John Robbins beside a James Robbins Kidd beside a John P. Kidd is precisely the shape of the three-W.-H.-Balls trap. The two directorships may both be true of different men at different times, the council having had a predecessor body. RECORDED AS A STRONG LEAD WITH ITS MECHANISM, NOT AS AN IDENTIFICATION. What would settle it: Sir George Williams registration records, the Montreal YMCA's own staff rosters for 1934, or an obituary giving Roby's brother's full name.",
+      "claim": "SUPERSEDED 2026-09-07, WITHIN THE HOUR, BY f_5573 -- THE TWO KIDDS ARE BROTHERS AND THE BIOGRAPHY SAYS SO. The original text is kept below because its caution was right at the time and its reasoning is the record of how the identification was made. || THE TWO KIDDS AT KANAWANA ARE VERY PROBABLY BROTHERS, AND THE BIOGRAPHY SUPPLIES THE MECHANISM -- BUT THE IDENTIFICATION IS NOT MADE HERE. Kidd's biography: 'Later, he followed HIS BROTHER JOHN to Sir George Williams University in Montreal. JOHN HAD SUGGESTED THAT ROBY COULD PAY HIS WAY THROUGH UNIVERSITY BY WORKING AT THE Y because the family did not have the financial resources.' Elsewhere: 'His brother, John, worked at the Vancouver centre.' SET THAT BESIDE WHAT THIS PROJECT ALREADY HELD. JOHN P. KIDD was a Kanawana leader in 1934 (f_2288, f_2523) -- documented by his own signed first-person article in Canadian Camping of June 1950, 'Campers Are Citizens', bylined 'John P. Kidd, EXECUTIVE DIRECTOR, CANADIAN CITIZENSHIP COUNCIL, Ottawa', in which he recounts a wounded soldier at Caserta recognising him and saying 'Kamp Kanavana... 1934'. So a John Kidd was in Montreal YMCA camping in 1934, a year BEFORE Roby's Montreal career begins in 1935 -- which is exactly the order the biography describes, the elder brother first and Roby following him. And Roby's 1947 Columbia doctoral thesis 'sought to understand the function of the CANADIAN CITIZENSHIP COUNCIL', the body John P. Kidd was running by 1950. WHY IT IS STILL NOT ASSERTED, AND THE REASON IS A TRAP THIS PROJECT HAS FALLEN INTO BEFORE. The biography never gives brother John a middle initial, never says he went to Montreal camping, and NEVER MENTIONS KANAWANA. Worse, it names a DIFFERENT MAN in the adjacent role: 'JOHN ROBBINS, then Director of the Canadian Council on Education for Citizenship (LATER THE CANADIAN CITIZENSHIP COUNCIL)' -- and Roby's own middle name is ROBBINS. A John Robbins beside a James Robbins Kidd beside a John P. Kidd is precisely the shape of the three-W.-H.-Balls trap. The two directorships may both be true of different men at different times, the council having had a predecessor body. RECORDED AS A STRONG LEAD WITH ITS MECHANISM, NOT AS AN IDENTIFICATION. What would settle it: Sir George Williams registration records, the Montreal YMCA's own staff rosters for 1934, or an obituary giving Roby's brother's full name.",
       "sources": [],
-      "confidence": "inferred",
+      "confidence": "disputed",
       "conflicts_with": [],
       "added_version": "10.09",
       "added_by": "ralph_loop"
@@ -99738,6 +99738,27 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5573",
+      "category": "people",
+      "date_ref": "1934-1963",
+      "entities": [
+        "John P. Kidd",
+        "J. Roby Kidd",
+        "Camp Kanawana",
+        "Canadian Citizenship Council"
+      ],
+      "claim": "THE TWO KIDDS AT KANAWANA WERE BROTHERS, AND ROBY'S BIOGRAPHY ATTACHES THE MIDDLE INITIAL TO THE BROTHER TWICE. f_5570 and f_5571 held the identification open for want of one sentence. Reading further into the biography closes it. (1) THE FAMILY MEMOIR NAMES HIM AND DATES HIS DEATH: 'Another member of the family who had great influence on [Roby] was his brother JOHN. He was ten when we lost our father... older than Roby, and someone to look up to.' And: 'JOHN WAS INSTRUMENTAL IN ENCOURAGING ROBY TO ATTEND SIR GEORGE WILLIAMS COLLEGE, and shared his brother's keenness for adult education. WHEN JOHN DIED IN 1963, Roby lost his most valuable sounding board and friend.' (2) THE BOOK CITES THE BROTHER'S OWN REPORT AS 'J. P. KIDD'. Describing the Bon Echo conference centre -- 'ROBY AND HIS BROTHER JOHN envisioned a conference and training centre comparable to the Banff School of Fine Arts... JOHN settled on the site with his family in the summer of 1957' -- it gives the attendance figures and sources them '(J. P. KIDD, 1957)'. (3) AND THEY PUBLISHED TOGETHER. Roby's own bibliography carries '46.03 WITH KIDD, J. P. (Eds.). COMMUNITY CENTERS. Ottawa: Canadian Council of Education for Citizenship' -- the two Kidds co-editing a 1946 book for the predecessor of the Canadian Citizenship Council, the body JOHN P. KIDD was Executive Director of by 1950 (f_2523). SO THE CHAIN IS CLOSED: John P. Kidd, older brother, Sir George Williams, adult educator, the citizenship council, dead in 1962-63 -- and a KANAWANA LEADER IN 1934, from his own signed account. His younger brother James Robbins 'Roby' Kidd followed him to Montreal in 1935, into the YMCA, into Sir George Williams, into the North Branch boys'-work post, and on to the Kanawana circus of 1940 (f_5569) before becoming one of the central figures of adult education worldwide. TWO BROTHERS, SIX YEARS APART, ON THE SAME CAMP'S STAFF. AND THE ROBBINS CONFUSION IS RESOLVED RATHER THAN LEFT STANDING. The book distinguishes them itself: JOHN ROBBINS directed the Canadian Council on Education for Citizenship, while at the same body's February 1960 meeting 'JOHN KIDD made a strong statement to stimulate thinking, and Roby spoke on Emphases and Objectives'. Two different men in the same room. ONE INTERNAL DISCREPANCY, RECORDED NOT SMOOTHED: the family memoir says John died in 1963; the institutional narrative says the Canadian Centenary Council's final meeting of early 1967 'paid tribute to JOHN KIDD, WHO HAD DIED IN 1962'. The same book gives both years. Neither is preferred here.",
+      "sources": [
+        "src_kidd_international_legacy"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [
+        "f_5570"
+      ],
+      "added_version": "10.10",
       "added_by": "ralph_loop"
     }
   ]

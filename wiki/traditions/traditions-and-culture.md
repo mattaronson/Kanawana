@@ -171,44 +171,40 @@ association's Camp Elphinstone.^55
 the man, the city, the years and the job that make this line read as him rather than as a stranger with a
 distinctive name.*
 
-**There is a second Kidd in this wiki, and the two are very probably brothers.** [[people/directors-index|
-John P. Kidd]] was a Kanawana leader in **1934**, documented by his own signed account in *Canadian
-Camping* of June 1950 — a wounded soldier in a Canadian Army hospital at Caserta recognising him and saying
-"Kamp Kanavana… 1934" — bylined "Executive Director, Canadian Citizenship Council, Ottawa." Roby's
-biography says he "**followed his brother John to Sir George Williams University in Montreal**. John had
-suggested that Roby could pay his way through university by working at the Y."^55 An elder brother in
-Montreal YMCA camping in 1934, a younger one arriving in 1935: that is the order the biography describes.
-Roby's 1947 doctoral thesis was on the function of the Canadian Citizenship Council, the body John P. Kidd
-was running by 1950.
+**There is a second Kidd in this wiki, and they were brothers.** [[people/directors-index|John P. Kidd]]
+was a Kanawana leader in **1934**, documented by his own signed account in *Canadian Camping* of June 1950 —
+a wounded soldier in a Canadian Army hospital at Caserta recognising him and saying "Kamp Kanavana… 1934" —
+bylined "Executive Director, Canadian Citizenship Council, Ottawa." Roby's biography, written partly by his
+family, settles the relationship three ways.
 
-*Not asserted, and the reason is a trap this project has fallen into before.* The biography gives brother
-John no middle initial, never places him in Montreal camping, and never mentions Kanawana. It also names a
-**different man** in the neighbouring role: "John Robbins, then Director of the Canadian Council on
-Education for Citizenship (later the Canadian Citizenship Council)" — and Roby's own middle name is
-**Robbins**. A John Robbins beside a James Robbins Kidd beside a John P. Kidd is the same shape as the three
-W. H. Balls that once cost this project five years of a man's career.
+It names him: "Another member of the family who had great influence on [Roby] was **his brother John**. He
+was ten when we lost our father… older than Roby, and someone to look up to." And: "**John was instrumental
+in encouraging Roby to attend Sir George Williams College**, and shared his brother's keenness for adult
+education. **When John died in 1963**, Roby lost his most valuable sounding board and friend."^55
 
-**Two further sources converge on it, and they narrow the gap without closing it.** Sir George Williams's
-own history — Henry F. Hall's *The Georgian Spirit* — names "**John P. Kidd**" in a list headed "(a)
-Bachelor of Arts," beside Harold E. Betts, Douglass Burns Clarke, Norman St.C. Manson and Linwood B.
-Richardson.^56 So a John Kidd took a Sir George Williams degree, which is the institution Roby's biography
-names for his brother, and the university's own record has a John P. Kidd holding one. And the two men
-**corresponded**: *The Passionate Educators* cites four letters from **J. R. Kidd to J. P. Kidd** — 16
-August and 16 November 1950, 3 and 30 August 1951 — written in exactly the years J. P. Kidd ran the
-Canadian Citizenship Council and J. R. Kidd directed the Canadian Association for Adult Education.^56 The
-same page treats **Robbins** and the Kidd correspondence as separate matters, which is worth having against
-the confusion above.
+It attaches the initial to him. Describing the Bon Echo conference centre — "**Roby and his brother John**
+envisioned a conference and training centre comparable to the Banff School of Fine Arts… **John** settled on
+the site with his family in the summer of 1957" — it gives that season's attendance and sources it "**(J. P.
+Kidd, 1957)**."^55
 
-*What is still missing is one sentence.* No source read here says "John P. Kidd was J. Roby Kidd's brother."
-What there is instead: the same surname, the same university, the same city, the right order in time, a
-documented correspondence between them, and a biography naming a brother John at that university. That is a
-great deal and it is not a statement. Sir George Williams registration or alumni records, the Montreal
-YMCA's 1934 staff roster, or an obituary for either man would close it — **and so, most directly, would the
-letters themselves, which are now traceable.** Faris's abbreviation expands in his own notes: "…for Adult
-Education, **Archives** (hereinafter referred to as CAAE)." So the four Kidd-to-Kidd letters of 1950–51 sit
-in the **Canadian Association for Adult Education Archives**.^56 Where that collection is held today is not
-established here and is not guessed at. Four letters between the two men, in an identified collection, are
-the single most likely way to settle whether they were brothers — and they may mention the camp. *(Both of those two sources were reached through search-inside
+And they published together. Roby's own bibliography carries "**46.03 with Kidd, J. P. (Eds.). *Community
+Centers*. Ottawa: Canadian Council of Education for Citizenship**" — the two of them co-editing a 1946 book
+for the predecessor of the very council John P. Kidd was running by 1950.^55
+
+**So two brothers were on this camp's staff six years apart.** The elder, John P. Kidd, a Kanawana leader in
+1934, went on to the citizenship council and died in 1962 or 1963. The younger, James Robbins Kidd, followed
+him to Montreal in 1935 — into the YMCA, into Sir George Williams, into the North Branch boys'-work post —
+turns up clowning at the camp circus in 1940, and became one of the central figures of adult education
+worldwide.
+
+*The Robbins confusion resolves rather than lingering.* The biography distinguishes the two men itself: John
+Robbins directed the Canadian Council on Education for Citizenship, and at that body's meeting of February
+1960 "**John Kidd** made a strong statement to stimulate thinking, and **Roby** spoke on 'Emphases and
+Objectives'."^55 Two different men in the same room.
+
+*One discrepancy, recorded rather than smoothed:* the family memoir says John died in **1963**; the
+institutional narrative in the same book says the Canadian Centenary Council's final meeting of early 1967
+paid tribute to "John Kidd, who had died in **1962**." Neither year is preferred here.
 alone; neither full text has been downloaded, and their records say so.)* The best-attended booths were the ice cream and soft drink stand
 and the hamburger shop; one group sold "Surprise Package" tickets "but these turned out to be a lemon
 to most who bought them."
