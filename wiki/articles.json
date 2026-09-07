@@ -2202,6 +2202,13 @@
           "at": "2026-09-06T00:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-07",
+          "by": "auto",
+          "task": "VERIFY",
+          "note": "Correction to an E1-reviewed article, from re-reading volumes already downloaded. Two of the religious-education yearbook items are BOUND RUNS, six years and four, and were read as single years. The presidency is 1935-1936, not 1933-1936 -- Sydney Comber was president in 1933 and 1934 -- and the 'twelve-year office' is two spells with a five-year gap, controlled by J. P. Copland's presence in all ten officer blocks. Four passages superseded in place, none deleted."
         }
       ],
       "ralph_loops_completed": 3,
@@ -2220,7 +2227,10 @@
         "f_0407",
         "f_0602",
         "f_0603",
-        "f_1519"
+        "f_1519",
+        "f_5353",
+        "f_5354",
+        "f_5355"
       ],
       "sources_cited": [
         "src_icre_yearbook_1936",
@@ -2246,7 +2256,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 4491,
+      "word_count": 4991,
       "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged. | 2026-09-06: two lending-restricted items read through Open Library search-inside -- Henry F. Hall's The Georgian Spirit (1966 preface) names Cross 'historian of the Montreal YMCA'; the American Rose Annual 1970 lead is recorded and deliberately NOT identified.",
       "tags": {
         "era": [
