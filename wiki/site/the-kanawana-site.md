@@ -1,6 +1,6 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 67*
+*Status: E1-reviewed | Sources: 68*
 *Last Updated: 2026-09-07 (the 1936 CFCF script; and what the site costs to rent in 2026)*
 
 ## Overview
@@ -311,6 +311,30 @@ Facilities documented from the 1920s through the 1970s include:^5 ^11
 - Two pavilions (a Dining Pavilion and a lakeside Pavilion, both new as of 1922)
 - **Dining Hall** (1911) — technically **Salle Julien Tassé**, renamed after the camp's caretaker of thirty-odd years following his death c. 1992–95. The name never entered ordinary use; everyone went on calling it the dining hall.^41 It is also the room where Kanawana's plaque wall hangs: all 151 surviving boards are mounted inside it. See [[people/julien-tasse|Julien Tassé]] and [[meta/plaque-audit|The Plaque Audit]].
 - **Infirmary** (1920s?)^23
+### A dining hall extension that was drawn, and an architect who may be in another article
+
+The camp's physical archive holds a **cyanotype blueprint** titled "**Proposed Service Wing to Dining Hall,
+KAMP KANAWANA Y.M.C.A.**"^68 It is signed "**J. M. Venters, Architect, 1503 Mackay Street, Montreal**" and
+itemizes its own cost estimate — store room, tool cupboard, new building, miscellaneous — totalling
+**$5,000**, for a **workshop, office, staff room, laundry and truck-packing** addition to the dining hall.
+The sheet is undated. **Whether it was built is not established here**, and it should not be assumed: a
+proposal drawing is evidence of an intention.
+
+**And the architect was in the camping movement.** The Quebec Camping Association's report of June 1954
+lists "**John Venters**" among the leaders of its 1953 conference, beside Roy Locke, Kanawana's own
+director. That looked like a coincidence of surname until the conference programme itself was checked:
+*Canadian Camping* for June 1953 gives the workshop list as "Administration — Mr. Irwin Haladner (Food
+Cost Control) / **Mr. John Venters (Camp Architecture)**."^68 An architect leading a workshop on camp
+architecture, in Montreal, in the years Roy Locke ran this camp, whose signature is on this camp's dining
+hall drawing.
+
+No source prints both forms of the name together, so this is an identification and not a proof — but the
+workshop subject removes the coincidence. **The dining hall extension was drawn by someone inside the
+camping movement rather than an architect hired off a list**, which is the same pattern as everything else
+in this camp's staffing: the branch secretary seconded for a summer, the fellowship graduate, the cook who
+came up from Montreal High School. Kanawana drew its people from the association and the movement, and it
+drew its buildings the same way.
+
 - **The Lower Pavilion**, on the lake front, one of the earliest structures on the site — and **replaced in 1951**. The association's capital-works list for the year ending 31 December 1951 reads: "Kamp Kanawana — **new refrigeration facilities and replacement of Lower Pavilion building**."^66 The 1951 camp history has the original "built early"; this dates its end.
 - **Grand Portage**: One of the oldest cabins, built after the Lookout, Dining Hall, and Infirmary. Located just north of the Senior Parking Lot, west of the Dining Hall. Served as CIT director's cabin in the 1980s-90s. According to oral history, the end of WWII was heard on the radio here. Demolished c. 2006 for the green shift washroom buildings, which now bear its name.^23
 - **The Longhouse**: A large 2-3 story pavilion/boathouse on the Boating Waterfront (due south of the Dining Hall), right at the shoreline. Used for large group gatherings and dances; the Boating Director ("the Admiral") had living quarters in it. Demolished by controlled fire c. 1979 due to irreparable condition.^23
@@ -572,6 +596,7 @@ them on every line and by tenfold on revenue.
 65. Camp YMCA Kanawana, "Lodging & Equipment Rental" [src_ymcaq_kanawana_lodging_rental_2026], https://www.ymcaquebec.org/en/summer-camp-kanawana/lodging-equipment-rental, read 2026-09-07; cached at `sources/cache/web-pages/ymcaquebec-kanawana-lodging-equipment-rental-2026.txt`. **A different page from the Groups & Rentals one at note 19**, and the one that carries prices. See [f_5615].
 66. YMCA of Montreal annual report for the year ending **31 December 1951** [src_ymf_sgw_ymca_annual_report_1951]. Held at read_state *partial*; its capital-works and camps sections read 2026-09-07 under p_490. See [f_5624].
 67. The Kanawana Flickr album of Concordia Archives historical images [src_flickr_kanawana_concordia_historical_album] — the **1941** hand-drawn camp map (three near-identical copies) at [f_1572], and a site map the archive dates to **1980–2001** at [f_1573]. Brought into this article 2026-09-07 under p_492, the orphan-fact sweep.
+68. Kamp Kanawana physical archive scans, 2026 [src_kanawana_physical_archive_scans_2026] — the cyanotype blueprint "Proposed Service Wing to Dining Hall", signed **J. M. Venters, Architect, 1503 Mackay Street, Montreal**, at [f_1579]. Brought into this article 2026-09-07 under p_492, the orphan-fact sweep. The identification of that architect with the **John Venters** who led the **Camp Architecture** workshop at the **1953** conference is at [f_5625], from *Canadian Camping* Vol. 5 No. 3, **June 1953** [src_ia_canadian_camping_1953_06].
 
 ## Research Notes
 

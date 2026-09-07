@@ -1,8 +1,8 @@
 {
-  "version": "10.33",
-  "kb_version": "10.33",
+  "version": "10.34",
+  "kb_version": "10.34",
   "migrated_from": "3.3",
-  "fact_count": 5586,
+  "fact_count": 5587,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100632,6 +100632,25 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.33",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5625",
+      "category": "people",
+      "date_ref": "1953",
+      "entities": [
+        "John Venters",
+        "Camp Kanawana",
+        "Quebec Camping Association"
+      ],
+      "claim": "THE MAN WHO DREW KANAWANA'S DINING HALL EXTENSION LED THE CAMP ARCHITECTURE WORKSHOP. Raised as p_494 and closed within minutes by a grep this project had never run. A cyanotype blueprint in the camp's physical archive, 'Proposed Service Wing to Dining Hall, KAMP KANAWANA Y.M.C.A.', is signed 'J. M. VENTERS, ARCHITECT, 1503 MACKAY STREET, MONTREAL' (f_1579). Separately, f_2661 had 'John Venters' among the leaders of the 1953 Quebec/National camping conference, beside Roy Locke. Nothing connected them. CANADIAN CAMPING FOR JUNE 1953, in the workshop list, does: 'Administration -- Mr. Irwin Haladner (Food Cost Control) / MR. JOHN VENTERS (CAMP ARCHITECTURE)'. AN ARCHITECT LEADING A WORKSHOP ON CAMP ARCHITECTURE, in Montreal, in the years Roy Locke directed Kanawana, whose signature is on Kanawana's own dining hall drawing. The identification is not formally proved -- no source prints 'J. M. Venters' and 'John Venters' together -- but the workshop subject removes the coincidence, and it is recorded as established rather than as a lead. WHAT IT CHANGES: the camp's dining hall extension was drawn by SOMEONE INSIDE THE CAMPING MOVEMENT, not an architect hired off a list. That is the same pattern as the rest of this project's staffing -- the branch secretary seconded to a camp for a summer, the fellowship graduate sent to Edmonton, the cook who came up from Montreal High School. The camp drew its people from the association and the movement, and it drew its buildings the same way. NOT ESTABLISHED: whether the service wing was built, when the drawing was made, or what else Venters designed. THE METHOD NOTE: the grep that closed this took under a minute across 164 cached issues of Canadian Camping that were already fully read and indexed. The corpus was searchable the whole time; the question had simply never been asked of it, because the blueprint fact and the conference fact sat in different parts of the KB and no article held both.",
+      "sources": [
+        "src_ia_canadian_camping_1953_06",
+        "src_kanawana_physical_archive_scans_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.34",
       "added_by": "ralph_loop"
     }
   ]

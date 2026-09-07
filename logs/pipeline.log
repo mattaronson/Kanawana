@@ -6343,3 +6343,31 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   certificat de sauveteur". THE SOURCE DOES NOT NAME THE LAW and neither does
   the article; flagged as the Quebec regulatory change the QCA article wants.
   Verify green. Timestamp from `date -u` in its own call.
+
+[2026-09-07T16:23:30Z] RESEARCH -- p_494 raised and closed in the same unit, and
+  the closing move is the argument for p_492.
+  The orphan sweep surfaced a cyanotype blueprint, "Proposed Service Wing to
+  Dining Hall, KAMP KANAWANA Y.M.C.A.", signed "J. M. VENTERS, ARCHITECT, 1503
+  MACKAY STREET, MONTREAL" (f_1579), in no article. Writing it up I noticed
+  f_2661 had a "John Venters" among the leaders of the 1953 Quebec/National
+  camping conference, beside Roy Locke. Nothing connected them, so I wrote the
+  article to say so and queued p_494 with a list of places to look, the cheapest
+  being a grep of the 164 cached issues of Canadian Camping.
+  RAN IT. Two hits. The June 1953 workshop list: "Administration -- Mr. Irwin
+  Haladner (Food Cost Control) / MR. JOHN VENTERS (CAMP ARCHITECTURE)."
+  An architect leading a workshop on CAMP ARCHITECTURE, in Montreal, in the
+  years Locke ran this camp, whose signature is on this camp's dining hall
+  drawing. Not a proof -- no source prints both forms together -- but the
+  workshop subject removes the coincidence, and the article now states it as an
+  identification with that caveat rather than as a possibility.
+  WHAT IT CHANGES: the dining hall extension was drawn by SOMEONE INSIDE THE
+  CAMPING MOVEMENT, not an architect hired off a list. Same pattern as the
+  branch secretary seconded for a summer, the fellowship graduate sent to
+  Edmonton, the cook up from Montreal High School. The camp drew its people from
+  the association and the movement, and drew its buildings the same way.
+  THE METHOD NOTE, and it is the case for p_492 in one sentence: THE CORPUS WAS
+  SEARCHABLE THE WHOLE TIME AND THE QUESTION HAD NEVER BEEN ASKED OF IT, because
+  the blueprint fact and the conference fact sat in different parts of the KB
+  and no article held both. Orphan facts are not only unused; they are
+  UNJOINABLE while they sit apart.
+  f_5625. facts.json v10.34, 5,587 facts. Verify green. Timestamp from `date -u`.
