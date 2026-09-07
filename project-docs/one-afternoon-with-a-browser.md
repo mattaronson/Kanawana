@@ -9,7 +9,7 @@ must throw a switch) and `trent-access-plan.md` (a reading room or a paid retrie
 
 ## Why this document exists
 
-Eight distinct obstacles have been tested and named (f_5207, f_5213, f_5214, f_5215, f_5229, f_5260, f_5261) — the eighth being that this project's only working full-text route into the Internet Archive covers books alone.
+Nine distinct obstacles have been tested and named (f_5207, f_5213, f_5214, f_5215, f_5229, f_5260, f_5261, f_5262) — the eighth being that this project's only working full-text route into the Internet Archive covers books alone.
 **Not one of them is an institution refusing this project.**
 
 | What you see | What it is | Hosts |
@@ -94,6 +94,17 @@ control: a phrase from a Kanawana document *held on the Archive* returns zero, w
 returns nineteen book hits in the same minute (f_5261).
 **A person at archive.org can type `kanawana` into the search box with "search text contents" selected.**
 That is the whole task. **`p_463`.**
+
+### 11. A pennant, a badge, a camp blanket — three shopping sites
+CLAUDE.md's Phase 2 mandate asks for Kanawana merchandise to be documented wherever it surfaces, since
+**existence and description are factual record even if the thing is not for sale**. All three named sites
+refuse this environment, each differently: **WorthPoint** answers `403` site-wide with "we believe you are
+using automation tools"; **Etsy** answers `403` with "please enable JS and disable any ad blocker"; **eBay**
+answers `403` with a trace id, as it did when this project last tried it (f_5262).
+*They are ordinary shopping sites to a person.* Search each for **kanawana**, **camp kanawana**, **kanawana
+pennant**, **kanawana badge**, and **YMCA camp Quebec pennant**, and record what is there — seller, date,
+description, photograph — whether or not anybody buys it. Two eBay items are already in this knowledge base
+from other routes, so the material exists.
 
 ## What this list is not
 

@@ -1,8 +1,8 @@
 {
-  "version": "8.95",
-  "kb_version": "8.95",
+  "version": "8.96",
+  "kb_version": "8.96",
   "migrated_from": "3.3",
-  "fact_count": 5223,
+  "fact_count": 5224,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -94200,6 +94200,25 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.95",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5262",
+      "category": "method",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "WorthPoint",
+        "eBay",
+        "Etsy",
+        "Kamp Kanawana"
+      ],
+      "claim": "THE MERCHANDISE AND COLLECTIBLES SURFACE IS SHUT TO THIS ENVIRONMENT, ALL THREE OF IT, AND EACH REFUSAL HAS A DIFFERENT SIGNATURE. CLAUDE.md's Phase 2 mandate names eBay, Etsy and WorthPoint and asks that any Kanawana pennant, badge or paraphernalia found be documented -- 'existence and description is factual record even if not purchasable'. Tested 2026-09-07 with a browser user-agent: (1) WORTHPOINT, which this project had never tried, returns HTTP 403 on both its search URL and its home page with a 3,573-byte page reading 'Access to this page has been denied. Please verify you are a human ... because we believe you are using automation tools to browse the website' -- a human-verification bot wall, and the block is site-wide rather than search-specific. (2) ETSY returns HTTP 403 with 788 bytes reading 'etsy.com Please enable JS and disable any ad blocker' -- the same signature as canlii.org (f_5229), so that is now a two-host pattern rather than a one-off. (3) EBAY returns HTTP 403 with an error page carrying a trace id, which matches what this project already recorded for eBay at both .com and .ca. NONE OF THE THREE IS EVIDENCE THAT NO KANAWANA MERCHANDISE EXISTS. Two eBay items ARE already in this KB (an Otoreke postcard, a 1938 YMCA camp songbook lot), found by other routes, which is proof the material exists and that the surface is worth reaching. ROUTES NOT TRIED: a person with a browser, for whom all three are ordinary shopping sites; Google's cache or image search on site:worthpoint.com; the Wayback Machine on specific listing URLs once a listing id is known from elsewhere; and completed-listing aggregators that republish eBay data. THIS BELONGS IN one-afternoon-with-a-browser.md AND IS ADDED THERE.",
+      "sources": [
+        "src_ia_ymca_montreal_fonds_enumeration_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.96",
       "added_by": "ralph_loop"
     }
   ]
