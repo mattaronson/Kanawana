@@ -4608,3 +4608,35 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   article should exist is now Open Question 7 on the parent, phrased so the
   answer needs the destinations read rather than assumed.
   Verify green. Timestamp read from `date -u` in its own call.
+
+[2026-09-07T13:04:30Z] p_462: status corrected, and the re-walk paid anyway.
+  NEW: f_5557.
+  THE PRIORITY SAID PENDING AND THE WORK WAS DONE. The text half closed on
+  2026-09-07 at f_5262 -- forty-six items downloaded and searched, six named
+  hits all already extracted, forty with no occurrence -- but the status stayed
+  "pending," which sent this pass down the whole list again. A priority whose
+  work is finished and whose status says otherwise costs what an unrecorded null
+  costs. Now "blocked," with only the 437 IMAGE items outstanding; those are
+  catalogued by generic title and not by camp, so finding a Kanawana photograph
+  among them means looking rather than searching, and they are for the operator.
+  THE RE-WALK WAS NOT WASTED. Re-fetching the short 1959 annual report completed
+  a quotation the KB had ITSELF FLAGGED as cut short: f_5256 recorded the
+  Project Findings sentence "runs past the read passage," and the tail is the
+  substantive half. "Most important of all, THE RESULTS ENCOURAGED BRANCHES TO
+  IMPLEMENT THE NEW-TYPE LEADER TRAINING SESSIONS IN THEIR FALL SCHEDULES. These
+  too have shown dramatic results on the qualitative uplift of branch programs,
+  and particularly youth club work. THE NEW HYPOTHESIS OF THE DECADE HAD BEEN
+  PROVEN." The association credits a summer's work at Kanawana with changing how
+  its ten city branches trained leaders that autumn. This wiki holds a great
+  deal about what YMCA doctrine did to the camp and almost nothing running the
+  other way; this runs the other way. Written into programs-activities.md with
+  the nine Values for Living listed in full and the three camps' $75,000 decade
+  capital figure, which f_5262 had flagged as the one sentence not obviously
+  used anywhere.
+  A FLAGGED TRUNCATION IS A TO-DO. This one sat because nothing in the toolchain
+  looks for "(the sentence runs past the read passage)" -- a note to a reader
+  who never came back.
+  Also confirmed already-worked and not re-claimed: the 1970 bulletin's family
+  ski paragraph (winter-programming.md), the 1874 report (camp x0) and the
+  mis-catalogued 1856 Quarterly Reporter (a 1944 periodical).
+  Verify green. Timestamp read from `date -u` in its own call.

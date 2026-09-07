@@ -2,7 +2,7 @@
   "version": "10.09",
   "kb_version": "10.09",
   "migrated_from": "3.3",
-  "fact_count": 5518,
+  "fact_count": 5519,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99489,6 +99489,24 @@
       ],
       "claim": "A SECTION HEADING THAT HAD STOPPED DESCRIBING ITS CONTENTS, FOUND BY MEASURING RATHER THAN READING THE NAME. canadian-camping-movement.md carried a section called \"Kanawana's Place in the Movement\" running to 8,111 words -- 42 per cent of the article and the largest single block in it. Counted subsection by subsection, ABOUT SEVEN THOUSAND OF THOSE WORDS ARE THE CANADIAN CAMPING ASSOCIATION'S RECORD OF ITSELF: 'What the association did, and what it chose not to regulate' (2,883 words, Kanawana named 14 times), 'The association's own record of itself, 1982-1985' (2,185 words, 11 times), 'The magazine's last three years, 1985-1987' (2,058 words, THREE times). The one subsection densely about the camp is 296 words long. RENAMED to 'The National Association's Own Record, and Where Kanawana Appears in It', with a note saying what it was called and why it changed. THE HARM THE OLD NAME DID is the one project-docs/spinout-rule.md already names: spinout_audit.py reports a long section as a candidate for the article its HEADING names, so eight thousand words of association history were being queued as Kanawana material while the association material went unnamed and unfindable. The cause is accretion -- an article grown by reading a magazine run issue by issue ends with headings marking where the reading stopped. TWO THINGS CHECKED BEFORE ANY CUT AND BOTH SAID DO NOT CUT. The Ball textbook subsection looked like a duplicate of the same argument in history/oldest-camp-question.md; reading both showed a deliberate arrangement -- the full three-reason reasoning here, a compressed version with a pointer there, cross-linked both ways -- so nothing was moved. And p_452's item (3), 'the decline of the camping associations', turns out ALREADY SPUN OUT, into cca-national-office and quebec-camping-association; the remaining subsections are pointers to them. ONE ERROR MADE AND CORRECTED IN THE SAME MINUTE: the rename note first linked 'history/canadian-camping-movement-and-kanawana' as where the core-folder treatment lives. NO SUCH ARTICLE EXISTS. It was written from what the hub-and-spoke rule implies OUGHT to exist rather than from what does -- the same error as citing a source from what its filename predicts. The link was removed and the question of whether that article should exist is now Open Question 7 on the parent, phrased so the answer requires reading the destinations rather than being assumed from this note.",
       "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5557",
+      "category": "program",
+      "date_ref": "1959",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal",
+        "Planned Group Development"
+      ],
+      "claim": "THE 1959 P.G.D. FINDING, COMPLETED -- AND WHAT THE CAMP'S EXPERIMENT DID TO THE CITY BRANCHES. f_5256 quoted the short 1959 annual report's Project Findings as far as 'volunteer leaders, advisors, etc., given the proper setting and adequate skilled help, can achieve a high degree of competence in leading a...' and recorded explicitly that '(the sentence runs past the read passage)'. IT DOES NOT ANY MORE. The full passage: '...can achieve a high degree of competence in leading a \"VALUE EDUCATION\" PROGRAM. MOST IMPORTANT OF ALL, THE RESULTS ENCOURAGED BRANCHES TO IMPLEMENT THE NEW-TYPE LEADER TRAINING SESSIONS IN THEIR FALL SCHEDULES. These, too, have shown dramatic results on the qualitative uplift of branch programs, and particularly youth club work. THE NEW HYPOTHESIS OF THE DECADE HAD BEEN PROVEN. With clear purposes, a meaningful set of values, and new education methods, an expansion is possible both in quantity and in quality.' WHY THE TAIL MATTERS MORE THAN THE HEAD. The part already held says the experiment worked. The part missing says WHERE IT WENT: out of the camp and into the city. Kanawana's 1959 staff-training experiment is credited by the association itself with changing how the ten branches ran their FALL leader training, and with a 'qualitative uplift' in branch programmes and youth club work. This project has a great deal on what the association's doctrine did to the camp and almost nothing running the other way; this is the association saying, in its own annual report, that the camp was where a method was proved before the city adopted it. THE REPORT ALSO PRINTS THE NINE 'VALUES FOR LIVING' IN FULL, as a list under that heading: Healthy and Fit; Intelligent and Reasonable; Emotionally Healthy; Self-Reliant and Responsible; Socially Co-operative; Re-Creative; Motivated by Principle; Spiritually Vital; Aesthetically Appreciative. AND A METHOD NOTE: this was found by re-fetching a document whose own KB fact said the quotation was cut short. A flagged truncation is a to-do, and this one had sat since the passage was first read.",
+      "sources": [
+        "src_ia_sgw_ymca_annual_report_1959_short"
+      ],
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.09",
