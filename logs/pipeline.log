@@ -7192,3 +7192,30 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   and boy-weeks, the out-of-town camper lists (Thetford Mines, Kenogami and the rest), and the "twenty-
   ninth season" of 1938 -- all already in attendance-series.md, programs-activities.md and
   founding-1894.md. Four of the five unread 1930s reports turned out to be worked in substance.
+
+2026-09-07T18:58:30Z  p_492 -- unit: the orphan list is not a queue of 107 jobs, and the headline number
+  overstates the work.
+  Recomputed the list against the wiki: 18 of the 107 are now cited, 89 are not. Then sampled the 89
+  rather than starting to grind them, and the sample showed the list mixes AT LEAST FOUR KINDS OF RECORD
+  of which only one is an article's business.
+  (1) Material an article should carry -- the real work, and what f_1727 and f_2391 were.
+  (2) NULLS ABOUT THE WORLD, which articles should carry for exactly the reason the list header already
+      gives: an article that omits them cannot distinguish a searched question from an unasked one.
+  (3) NULLS AND NOTES ABOUT THIS PROJECT'S OWN PROCESS -- "p_457 worked the same day it was raised",
+      "citation corrected via Crossref", "a third independent research pass on..." -- which are NEVER
+      article material. THE DISTINCTION FROM (2) IS THE SUBJECT: a null about Saint-Adolphe's Wikipedia
+      page is about the world; a null about whether p_457 was worked is about us.
+  (4) Metadata about the project's holdings -- Flickr counts, sub-series extents in centimetres, finding
+      aid item titles -- which belong in SOURCE RECORDS, not in prose. An article reciting them would be
+      describing the filing cabinet instead of the camp.
+  TWO MEASURING ATTEMPTS FAILED AND BOTH ARE RECORDED SO THEY ARE NOT RETRIED. A classifier keyed on
+  opening phrases filed f_5116 -- which opens "A CLEAN NULL, RECORDED SO NOBODY READS IT AGAIN" -- as a
+  candidate. A token-presence scorer was right on all three entries I hand-checked (f_1413, f_1415 and
+  f_1422 are all genuinely in the wiki, f_1422 nearly verbatim), but it rests on tokens appearing
+  somewhere in 511,000 words, which is weak evidence that the CLAIM is there. NEITHER NUMBER IS GOOD
+  ENOUGH TO PUBLISH, SO NEITHER IS PUBLISHED. What is published is the four classes, a worked example of
+  each, and the instruction to sort by hand.
+  This is the tenth instrument today to be built and then not shipped, and the reason is the same every
+  time: a check whose findings are mostly wrong teaches people that findings are noise.
+  Header written into kb/reread/orphan_facts.md; p_492 reframed. No fact added -- this unit is about what
+  the queue means, not about the camp.

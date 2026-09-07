@@ -13,6 +13,40 @@ process records and belong nowhere in the wiki; **107 substantive**, listed belo
 Null results are deliberately included: a recorded null is content, and an article that does not carry it
 cannot tell a searched-and-empty question from an unasked one.
 
+---
+
+## Triage, added 2026-09-07 after working the list: this is not a queue of 107 jobs
+
+**18 of the 107 are now cited; 89 are not.** Before working the rest, note that the list mixes at least
+four kinds of record and **only one of them is an article's business**. Triage each entry into one of
+these before spending time on it.
+
+**1. Material an article should carry.** The real work. f_1727 (the c.1920s dining-hall photograph) and
+f_2391 (the 1964 camper origins) were both this, and both are now in articles.
+
+**2. Nulls about the world.** Keep including these, for exactly the reason above. "The Wikipedia articles
+on Saint-Adolphe-d'Howard contain no mention of the YMCA" (f_2196) is a finding about the record, and an
+article that omits it cannot distinguish a searched question from an unasked one.
+
+**3. Nulls and notes about *this project's own process*.** These are **not** article material and never
+will be. "p_457 worked the same day it was raised" (f_5228), "citation corrected via Crossref"
+(f_2222), "a third independent research pass on…" (f_1924), "the near-miss name pairs are now generated
+rather than listed" (f_2370). They exist so nobody repeats a search or an argument, and their home is
+the priority queue and `logs/pipeline.log`. **The distinction from class 2 is the subject:** a null about
+Saint-Adolphe's Wikipedia page is about the world; a null about whether p_457 was worked is about us.
+
+**4. Metadata about the project's holdings.** Flickr photo counts, sub-series extents in centimetres,
+finding-aid item titles (f_1475, f_1545, f_2260). These belong in **source records**, not in prose, and
+an article that recited them would be describing the filing cabinet instead of the camp.
+
+**A caution on measuring this mechanically.** A classifier keyed on opening phrases ("NULL RESULT",
+"CORRECTION") was tried on 2026-09-07 and filed obvious class-3 records as class 1 — f_5116 opens "A
+CLEAN NULL, RECORDED SO NOBODY READS IT AGAIN" and was scored a candidate. A scorer that checks whether
+a fact's distinctive tokens appear anywhere under `wiki/` was also tried; it was right on the three
+entries hand-checked, but a token appearing somewhere in 511,000 words is weak evidence that the *claim*
+is there. **Neither number is trustworthy enough to publish, so neither is published here.** What is
+published is the four classes and the instruction to sort by hand.
+
 | fact | category | claim (opening) |
 |---|---|---|
 | `f_1320` | camping_movement | The 109-page university paper 'Mary S. Edgar's Contribution to the Canadian Camping Movement' in the Sundridge-Strong Digital Collection was authored … |
