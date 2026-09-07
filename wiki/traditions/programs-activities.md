@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-09-06 (the 1929 catchment, which leaves the country)*
+*Last Updated: 2026-09-07 (the indoor camps, for the boys who did not go)*
 
 ## Overview
 
@@ -221,6 +221,12 @@ the **Dominion Department of Forestry** visited again, which makes 1926, 1927 an
 documented years of the same outside instruction.^ar30
 
 ## Interwar Programming (1930s-1940s)
+
+**What the association did for the boys who did not go to camp, and it was the example the country was shown.** At the Institute for Camp Leaders held at Toronto Central in April 1936, one session was given over to "a description of the **indoor camps** conducted each summer by the **Montreal Central Y.M.C.A.** for boys who are unable to attend out-of-the-city camps." The reports that followed "from various Associations" indicated "a general and growing tendency on the part of Associations to use their equipment and leadership to meet the needs of boys who are in the city during the summer," and the programmes "generally include handicrafts, swimming, games, industrial trips, and hikes."^nb36
+
+That is worth holding beside everything else on this page. Kanawana's programme is the programme of the boys who got out of Montreal; the association ran a second summer programme every year for the ones who did not, and in 1936 Montreal's was the one held up to two hundred camp leaders as the model. *The bulletin does not say how many boys it took, where in the building it ran, or who led it.*
+
+**A session on ritual.** The same Institute heard "**Ritual and Initiation Ceremonies**" from **George Ross of Vancouver**, who then sat on the committee appointed to organise a Canadian Camping Association.^nb36 Kanawana's own council-ring material dates from the decade before this; see [[site/council-ring|The Council Ring]].
 
 By 1930, the sections had evolved to Juveniles (10-12), Juniors (12-14), and Seniors (14-17), lowering the minimum age. By the early 1940s, the structure had expanded further to Bantam, Juvenile/Junior, Junior/Intermediate, and Senior divisions. The 1938 weekly program reveals a structured rhythm: Monday and Thursday were project days, Tuesday and Friday were waterfront days, and Wednesday was set aside for hikes.
 
@@ -508,6 +514,7 @@ environmental-education positioning without originating from it.
 8. What was the Pathfinder program Summer Summary (1965 archives listing)? Was it the existing boys' section (est. 1959) or something new?
 
 ## Sources
+- **nb36** — "Institute for Camp Leaders," *The News Bulletin* Vol. 12 No. 3 (May 1936), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_12_03], Internet Archive item `the-news-bulletin-vol-12-no-03`, in the `ymca-montreal-fonds` collection. Found by the enumeration at [f_5243] and read 2026-09-07 under p_462. See [f_5248].
 - **ar30** — YMCA of Montreal annual report for the year ending 31 March 1930 [src_cache_sgw_ymca_annual_report_1930], the Kamp Kanawana section, camping season **1929**. The volume's Becscies extension and its finances were already read into [[site/camp-becsies|Camp Becscies]]; its catchment, church-camp and programme paragraphs are read here, 2026-09-06. See [f_5216], [f_5217] and [f_5218].
 - **ar97** — Montreal YMCA annual report **1997** [src_ymf_sgw_ymca_annual_report_1997], the Westmount and programme-launch items. Read 2026-09-06 under p_454. See [f_5194].
 - **ar96** — Montreal YMCA annual report **1996** [src_cache_sgw_ymca_annual_report_1996], the Kamp Kanawana page. Read 2026-09-06 under p_454; the volume had been marked unread and has no Wayback twin.

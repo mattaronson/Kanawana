@@ -1,8 +1,8 @@
 {
-  "version": "8.80",
-  "kb_version": "8.80",
+  "version": "8.81",
+  "kb_version": "8.81",
   "migrated_from": "3.3",
-  "fact_count": 5209,
+  "fact_count": 5210,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93940,6 +93940,28 @@
         "c_029"
       ],
       "added_version": "8.80",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5248",
+      "category": "programs",
+      "date_ref": "1936-04",
+      "entities": [
+        "YMCA of Montreal",
+        "Ernest Taylor",
+        "Ron Hanagan",
+        "R. H. Hanagan",
+        "George Ross",
+        "Westmount Branch",
+        "Montreal Central"
+      ],
+      "claim": "THREE MORE THINGS FROM THE SAME MAY 1936 BULLETIN, ALL OF THEM MONTREAL'S. (1) THE CONFERENCE FRAME AND A MONTREAL MAN ON ITS EXECUTIVE. The Institute of 4-5 April sat inside the annual conference of the Ontario and Quebec Boys' Work Secretaries Association, held 3-5 April 1936 at Toronto Central; the executive that planned it was Ken Spencer (Toronto West End), RON HANAGAN (Toronto Central), Ken Smith (Brantford) and ERNEST TAYLOR (WESTMOUNT Y.M.C.A.) -- so a Montreal branch secretary helped plan the meeting that struck the committee to organise the Canadian Camping Association. Thirty-three secretaries attended the first day and a half from Windsor, London, Brantford, St. Catharines, Hamilton, Kitchener, Acton, Guelph and the Toronto branches. TWO NAME CAUTIONS, both checked. 'Hanagan' occurs thirty-six times in this KB as R. H. HANAGAN, Montreal YMCA camp director in 1942 and 1946; a 'Ron Hanagan' at Toronto Central in 1936 IS A PLAUSIBLE EARLIER POST FOR THE SAME MAN AND IS NOT ASSERTED TO BE ONE -- it is a lead for rh-hanagan.md, whose subject is otherwise initials. And the 'Ernest Taylor' already in this project is a REV. Ernest Taylor whose materials run 1868-1874, a different man entirely. (2) THE MONTREAL INDOOR CAMPS. Among the Institute's sessions: 'A description of the INDOOR CAMPS conducted each summer by the MONTREAL CENTRAL Y.M.C.A. for boys who are unable to attend out-of-the-city camps was supplemented by reports from various Associations indicating that there is a general and growing tendency on the part of Associations to use their equipment and leadership to meet the needs of boys who are in the city during the summer. The programs of such camps generally include handicrafts, swimming, games, industrial trips, and hikes.' SO THE MONTREAL ASSOCIATION RAN A CITY PROGRAMME EVERY SUMMER FOR THE BOYS WHO DID NOT GO TO KANAWANA, and in 1936 it was the example the national gathering was shown. 'Indoor camp' occurs once elsewhere in this KB, in a different context. (3) A SESSION ON 'RITUAL AND INITIATION CEREMONIES' was given by GEORGE ROSS of Vancouver -- the same George Ross who then sat on the committee to organise the Canadian Camping Association. Kanawana's own council-ring material dates from the decade before this. Neither the session title nor Ross's name occurs elsewhere in this project.",
+      "sources": [
+        "src_ia_ymca_montreal_news_bulletin_12_03"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.81",
       "added_by": "ralph_loop"
     }
   ]

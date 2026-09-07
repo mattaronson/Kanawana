@@ -1,6 +1,6 @@
 # R.H. Hanagan
 
-*Status: E1-reviewed | Sources: 6*
+*Status: E1-reviewed | Sources: 7*
 *Last Updated: 2026-06-22*
 
 ## Overview
@@ -29,6 +29,12 @@ His detailed report on the outbreak is held in the Concordia Archives sub-series
 
 Hanagan authored a report to the Camp Board of Management on the American Camping Association Conference (1946) and a Boys' Camping Committee — Survey Committee report (1950), both held in Concordia's YMCA fonds (P0145/12A).^2 ^4 These sit alongside system-wide documents including a "Comparison of Two Boys Camps operated by Montreal YMCA" (comparing Kanawana and Camp Perrot, c.1945–46) and a "Report of the Montreal YMCA Camps for Boys and Girls" (1946). The 1950 Survey Committee report extends his documented activity to at least that year. This archival grouping confirms that Hanagan's portfolio extended beyond Kanawana to encompass the broader Montreal YMCA camping system.
 
+## A possible earlier post, and it is only possible
+
+The YMCA of Montreal's *News Bulletin* for May 1936 names the executive of the **Ontario and Quebec Boys' Work Secretaries Association**, which that spring planned the conference at which the committee to organise the Canadian Camping Association was struck. One of the four is "**Ron Hanagan, Toronto Central Y.M.C.A.**"^7
+
+**This article's subject is initials.** A Ron Hanagan at Toronto Central in 1936 is a plausible earlier post for a man who was the Montreal association's camp director by 1942, and it would supply the given name this article does not have. *It is not asserted to be the same man.* The surname is uncommon but not unique, no source here connects the two posts, and a move from Toronto Central to Montreal is an inference from nothing but a name and a six-year gap. What makes it worth writing down rather than dropping is that it is **testable**: the association's own staff-change columns, which this project has now found on the Internet Archive for other years, would record such a move if it happened. See [[connections/institutional-lineage/association-founding-dates|Founding Dates of the Camping Associations]] for what that 1936 meeting did.
+
 ## Open Questions
 
 1. [Critical] What are Hanagan's full biographical details — first name, birth/death dates, education? His first name initials "R.H." are the only biographical identifiers documented. (June 2026: searches across obituary databases, first-name expansions, and newspaper indexes all null; newspapers.com and BAnQ remain the unchecked surfaces.)
@@ -55,3 +61,4 @@ Hanagan authored a report to the Camp Board of Management on the American Campin
 4. Concordia University Archives AtoM finding aid: P0145/12A Camping and Outdoor Education sub-series. URL: https://concordia.accesstomemory.org/ymca-of-montreal-fonds-2
 5. CFCF radio broadcast (1941): Langille season details, staff count, British evacuees.
 6. Connaught Fund (University of Toronto), "Polio Research, Conquering the 'Crippler'" (Ch. 7); Canada's History, "The Polio Epidemic in Canada." URL: https://connaught.research.utoronto.ca/about/history/article7
+7. "Institute for Camp Leaders," *The News Bulletin* Vol. 12 No. 3 (May 1936), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_12_03]. Internet Archive item `the-news-bulletin-vol-12-no-03`. The executive list of the Ontario and Quebec Boys' Work Secretaries Association's 1936 conference. See [f_5248].
