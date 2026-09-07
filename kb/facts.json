@@ -1,8 +1,8 @@
 {
-  "version": "11.01",
-  "kb_version": "11.01",
+  "version": "11.02",
+  "kb_version": "11.02",
   "migrated_from": "3.3",
-  "fact_count": 5677,
+  "fact_count": 5678,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102396,6 +102396,20 @@
       "date_ref": "1955-1957",
       "conflicts_with": [],
       "added_version": "11.01",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5716",
+      "claim": "A CHECK BUILT FOR THE DEFECT FOUND TWICE TONIGHT, CALIBRATED BOTH WAYS, AND ITS WIKI-WIDE RUN FOUND NOTHING NEW. scripts/wiki/table_gaps.py reports years an article discusses in prose, near numbers, that do not appear in that article's own year-keyed table. It exists because camp-perrot.md carried '177 boys and 87 girls in 1955, 207 boys and 104 girls in 1957' in a section rebutting a 1969 dormancy claim while its attendance table skipped 1955, 1956 and 1957 entirely, and the argument built on that table dated a change three years late as a result (f_5714). CALIBRATED AGAINST A KNOWN POSITIVE AND A KNOWN NEGATIVE BEFORE BEING TRUSTED, which is now this project's standing rule: run against the pre-fix article at commit 0b05320 it returns exactly 1955 and 1957 and nothing else; run against the fixed article it returns nothing. A FIRST VERSION WAS WRONG AND THE CALIBRATION DID NOT CATCH IT, because the error did not touch the calibration case. It took the range of years to check as the union of every table in the article, so an article with a 1912-1921 table and a 1949-1959 table was treated as claiming to tabulate 1930. Fixed to test each table's own span; eleven of eighty-two hits were that error. WIKI-WIDE: 71 hits, and the top thirty-two by weight were read. EVERY ONE IS EITHER NOISE OR CORRECT AS IT STANDS. The noise is years listed as years -- runs of Year Book volume identifiers, a source index's own last-updated line, the years a name is spelled four different ways, a sentence naming the thirteen years in which an award was recorded. The correct-as-it-stands cases are the more interesting half: meta/attendance-series.md deliberately excludes 2010, 2011 and 2012 and SAYS WHY IN THE ARTICLE -- a capacity statement, a forward-looking sentence at a season's opening, and a figure combining day camps with the resident camp -- and camp-otoreke.md keeps its 1929, 1930, 1940 and 1947 figures in prose because they are in four different units and a table would make them look comparable. A tool that reads structure cannot read either kind of reasoning. WHAT IT CANNOT SEE, and this is the larger part of the defect: the other two shapes of the same thing. A fact written into one article while another article asserts the opposite (f_5432, where camp-perrot.md contradicted its own KB for a day). And a fact written into one article and simply absent from the article whose subject it is. Nothing in this project detects either, prose_dupes.py finds text that repeats rather than text that should be in two places and is in one, and no cheap check suggests itself.",
+      "sources": [],
+      "confidence": "inferred",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026-09-07",
+      "conflicts_with": [],
+      "added_version": "11.02",
       "added_by": "ralph_loop"
     }
   ]
