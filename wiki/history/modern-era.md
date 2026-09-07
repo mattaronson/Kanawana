@@ -1,6 +1,6 @@
 # The Modern Era: The Two-Tier Era (1995–Present)
 
-*Status: draft | Sources: 22*
+*Status: draft | Sources: 23*
 *Last Updated: 2026-09-06 (the credit directories, which date the Drummond Street move and settle whose staff figures they are)*
 
 ## Overview
@@ -110,6 +110,33 @@ after "the last seven summers at YMCA Camp Kanawana in Saint-Sauveur" — so a c
 differences**." Asked for one word: "**Learning!** Kanawana is truly an experience that allows you to learn
 more about yourself, nature, and others." The following summer, the report notes, would be her turn on the
 other side.^22
+
+## The camp's own committee, 2014-2017
+
+**The community reports print the camp's committee year by year, which is the most useful thing in them.**
+The 2014 roster: "Camp YMCA Kanawana — Bennett, Don; **Carter, Morgan (Chair)**; Cordemans, Valerie; **Day,
+Sean**; Frankel, Chris; Fullerton, Tom; Henle, Steven; Lyndsay, Derek; Maas, Adrian; Mannitt, Chris;
+Muszinski, Nick; Valente, Vanessa."^23 In 2015 the same list runs to twelve with **Laura Davis** added and
+Carter's title changed to **President**; by 2017 it has halved to six — Carter as **Président**, with Chris
+Frankel, Tom Fullerton, Steven Henle, Derek Lyndsay and Adrian Maas.^23
+
+[[people/morgan-carter|Morgan Carter]] directed the camp on-site in 2001–2003, sat on this committee in
+2011, chaired it by 2014 and still presided in 2017 — **fourteen years after his paid tenure ended**, which
+answers a question his article had left open. [[people/sean-day|Sean Day]] sits on it in 2014 while
+Executive Director.
+
+**And three of its members had been counsellors-in-training together in 1995.** The "CITS 95" dining-hall
+plaque names twenty-nine CITs, among them **Chris Manitt**, **Laura Davis** and **Nick Muszynski** — all
+three of whom appear on these rosters twenty years later.^23 This wiki has documented the
+camper-to-CIT-to-staff ladder many times; this is the rung above it, and two decades on. *The match is on
+name, which in this project is a caution rather than a formality — see the three W. H. Balls in
+[[people/directors-index|the directors index]]. The names are uncommon, the institution is the same, and the
+interval fits a nineteen-year-old CIT becoming a forty-year-old committee member, so it is recorded as very
+probably the same three people and not as certainly.*
+
+*One further probable identification, not asserted:* **Steven Henle** here and **Dr. Steven Henle**, the
+Concordia Applied Human Sciences alumni representative on the [[people/a-ross-seaman|A. Ross Seaman]]
+committee in 2007, are very likely the same man, which would tie that fund's committee to the camp's own.
 
 ## The camp in the credit directories, 1993–2001
 
@@ -279,6 +306,7 @@ endowment, and the association's endowment reporting is where to look next.
 20. YMCA of Greater Montreal annual report 2004-2005 [src_ymf_sgw_ymca_annual_report_2004_2005], the Endowment Fund pages and the President's report. Read 2026-09-06 under p_454; no Wayback copy of this year exists in this project.
 21. YMCAs of Québec, community report for **2010** [src_ymf_sgw_ymca_community_report_2010]. Cached at `sources/cache/ymca-montreal-fonds/sgw-ymca-community-report-2010.txt`; read for its twenty-three Kanawana passages 2026-09-07 under the sharpened p_441. See [f_5578].
 22. YMCAs of Québec, community reports for **2011** and **2012** [src_ymf_sgw_ymca_community_report_2011, src_ymf_sgw_ymca_community_report_2012]. Both read for their Kanawana passages 2026-09-07 under the sharpened p_441. See [f_5579] and [f_5580].
+23. YMCAs of Québec, community reports for **2014**, **2015** and **2017** [src_ymf_sgw_ymca_community_report_2014, src_ymf_sgw_ymca_community_report_2015, src_ymf_sgw_ymca_community_report_2017], each printing the Camp YMCA Kanawana committee roster; and the "CITS 95" plaque transcribed at [[people/dan-aronson|Dan Aronson]] [src_flickr_kanawana_plaque_album]. See [f_5581] and [f_5582].
 
 ## Research Notes
 

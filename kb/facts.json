@@ -2,7 +2,7 @@
   "version": "10.10",
   "kb_version": "10.10",
   "migrated_from": "3.3",
-  "fact_count": 5542,
+  "fact_count": 5544,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99877,6 +99877,47 @@
         "src_ymf_sgw_ymca_community_report_2012"
       ],
       "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5581",
+      "category": "people",
+      "date_ref": "2014-2017",
+      "entities": [
+        "Camp Kanawana",
+        "Morgan Carter",
+        "Sean Day",
+        "Steven Henle"
+      ],
+      "claim": "THE KANAWANA COMMITTEE ROSTERS FOR 2014, 2015 AND 2017, WHICH ANSWER A STANDING OPEN QUESTION. wiki/people/morgan-carter.md asks, as its open question 2, 'How long did his involvement with the camp's local advisory committee continue? The 2011 roster is documented; a 2012 listing was previously asserted here but could not be verified.' THE ANSWER IS AT LEAST 2017, AND HE ROSE TO CHAIR IT. 2014 (13 names): 'Camp YMCA Kanawana -- Bennett, Don; CARTER, MORGAN (CHAIR); Cordemans, Valerie; DAY, SEAN; Frankel, Chris; Fullerton, Tom; Henle, Steven; Lyndsay, Derek; Maas, Adrian; Mannitt, Chris; Muszinski, Nick; Valente, Vanessa.' 2015 (12 names): the same list with CARTER, MORGAN (PRESIDENT) -- the title changes from Chair to President -- LAURA DAVIS added, and Frankel and Day absent. Muszynski is spelled with a y this year and an i in 2014; recorded both ways rather than smoothed. 2017 (6 names): 'Camp YMCA Kanawana -- MORGAN CARTER (PRESIDENT); Chris Frankel; Tom Fullerton; Steven Henle; Derek Lyndsay; Adrian Maas.' THE COMMITTEE HAS HALVED between 2015 and 2017, which is a fact about the committee and not necessarily about the camp. SO MORGAN CARTER, on-site Camp Director 2001-2003, sat on the camp's committee in 2011, chaired it by 2014 and still presided in 2017 -- fourteen years after his paid tenure ended. SEAN DAY sits on it in 2014 while Executive Director. VALERIE CORDEMANS, CHRIS FRANKEL, TOM FULLERTON, DEREK LYNDSAY, ADRIAN MAAS and VANESSA VALENTE occur nowhere else in this project. ONE PROBABLE IDENTIFICATION, NOT ASSERTED: 'Steven Henle' here and 'Dr. Steven Henle', the Concordia Applied Human Sciences alumni representative on the A. Ross Seaman Committee in the 2007 booklet (f_5546), are very likely the same man -- same name, same Montreal YMCA and Concordia orbit -- which would link the Seaman fund's committee to the camp's own. Nothing here proves it.",
+      "sources": [
+        "src_ymf_sgw_ymca_community_report_2014",
+        "src_ymf_sgw_ymca_community_report_2015",
+        "src_ymf_sgw_ymca_community_report_2017"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5582",
+      "category": "people",
+      "date_ref": "1995-2015",
+      "entities": [
+        "Camp Kanawana",
+        "Chris Manitt",
+        "Laura Davis",
+        "Nick Muszynski"
+      ],
+      "claim": "THREE OF ONE CIT COHORT SAT ON THE CAMP'S COMMITTEE TWENTY YEARS LATER. The 'CITS 95' dining-hall plaque, transcribed in wiki/people/dan-aronson.md, names twenty-nine counsellors-in-training of 1995 among them CHRIS MANITT, LAURA DAVIS and NICK MUSZYNSKI. All three appear on the Kanawana committee rosters printed in the association's community reports: MANITT and MUSZYNSKI in 2014 and 2015, DAVIS in 2015 (f_5581). WHY THIS IS WORTH RECORDING RATHER THAN NOTICING. This project has documented the camper-to-CIT-to-staff ladder repeatedly and inside a single decade. This is the rung ABOVE it and TWENTY YEARS ON: a CIT cohort returning as the camp's volunteer governance. Morgan Carter's article already calls his own 2011 committee seat 'consistent with a pattern seen with several other former Kanawana directors who remained connected as volunteer committee members'; that pattern reaches further down the ladder than directors. THE MATCH IS ON NAME, which in this project is a caution and not a formality -- three W. H. Balls, a Ralph H. Dawson who was a First World War private, a Derek V. Walsh who studied occupational stress. Here the names are uncommon, the institution is the same, and the interval is right for a nineteen-year-old CIT becoming a forty-year-old committee member. It is recorded as very probably the same three people and not as certainly.",
+      "sources": [
+        "src_ymf_sgw_ymca_community_report_2014",
+        "src_ymf_sgw_ymca_community_report_2015"
+      ],
+      "confidence": "inferred",
       "conflicts_with": [],
       "added_version": "10.10",
       "added_by": "ralph_loop"

@@ -1,6 +1,6 @@
 # Morgan Carter
 
-*Status: draft | Sources: 4*
+*Status: draft | Sources: 5*
 *Last Updated: 2026-07-11*
 
 ## Overview
@@ -15,10 +15,12 @@ Carter directed Kanawana on-site for the summers of 2001, 2002, and 2003.^1 The 
 
 Carter reappears on the Montreal YMCA's 2011 Kanawana local advisory committee roster — a decade after his own directorship, consistent with a pattern seen with several other former Kanawana directors who remained connected to the camp as volunteer committee members after their paid tenure ended.^3
 
+**And he went on to chair it.** The YMCAs of Québec community reports print the camp's committee year by year. In **2014** the roster reads "Carter, Morgan **(Chair)**" among thirteen members; in **2015** "Carter, Morgan **(President)**" among twelve; and in **2017** "**Morgan Carter (Président)**" at the head of six.^5 So his committee service runs from at least 2011 to at least 2017, and he led it for at least the last four of those years — **fourteen years after his paid tenure ended**. Sean Day, then Executive Director, sat on the same committee in 2014.
+
 ## Open Questions
 
 1. [Nice-to-have] What was Carter's career before and after his Kanawana directorship?
-2. [Nice-to-have] How long did his involvement with the camp's local advisory committee continue? The 2011 roster is documented; a 2012 listing was previously asserted here but could not be verified.
+2. ~~[Nice-to-have] How long did his involvement with the camp's local advisory committee continue? The 2011 roster is documented; a 2012 listing was previously asserted here but could not be verified.~~ **[Resolved 2026-09-07]** At least to **2017**, and as its chair: the community reports name him Chair in 2014, President in 2015 and Président in 2017.^5 The 2012 listing is still unverified and 2013 and 2016 were not found, so the span is documented at its ends rather than continuously.
 
 ## Related Articles
 
@@ -33,6 +35,7 @@ Carter reappears on the Montreal YMCA's 2011 Kanawana local advisory committee r
 2. Montreal YMCA Annual Report, fiscal year 2002–2003 (Wayback Machine) [src_wayback_ymcamontreal_annualreport_2002_2003].
 3. Les YMCA du Québec, Rapport à la communauté 2011 [src_ymcaquebec_annualreport_2011].
 4. Kanawana Flickr "Plaque" album, 2003 JBC dining-hall plaque [src_flickr_kanawana_plaque_album]. The same plaque underlies conflict c_014 (resolved).
+5. YMCAs of Québec, community reports for **2014**, **2015** and **2017** [src_ymf_sgw_ymca_community_report_2014, src_ymf_sgw_ymca_community_report_2015, src_ymf_sgw_ymca_community_report_2017], each printing the Camp YMCA Kanawana committee roster. Read 2026-09-07 under the sharpened p_441. See [f_5581].
 
 ## Research Notes
 

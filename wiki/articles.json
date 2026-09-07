@@ -9869,7 +9869,10 @@
         "src_ymf_sgw_ymca_annual_report_2004_2005",
         "src_ymf_sgw_ymca_community_report_2010",
         "src_ymf_sgw_ymca_community_report_2011",
-        "src_ymf_sgw_ymca_community_report_2012"
+        "src_ymf_sgw_ymca_community_report_2012",
+        "src_ymf_sgw_ymca_community_report_2014",
+        "src_ymf_sgw_ymca_community_report_2015",
+        "src_ymf_sgw_ymca_community_report_2017"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -9886,7 +9889,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 4375,
+      "word_count": 4724,
       "notes": "2026-07-11: Workstream C4 spawn (4 of 4, final). Connective-narrative synthesis, no new research conducted. Ties together this session's institutional-role-director spawns into continuous narrative history. This completes Workstream C4 and the full operator-approved plan. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
       "tags": {
         "era": [
@@ -10251,9 +10254,12 @@
         "src_flickr_kanawana_plaque_album",
         "src_oral_aronson",
         "src_wayback_ymcamontreal_annualreport_2002_2003",
-        "src_ymcaquebec_annualreport_2011"
+        "src_ymcaquebec_annualreport_2011",
+        "src_ymf_sgw_ymca_community_report_2014",
+        "src_ymf_sgw_ymca_community_report_2015",
+        "src_ymf_sgw_ymca_community_report_2017"
       ],
-      "open_questions": 2,
+      "open_questions": 1,
       "cross_links": [
         "directors-index",
         "david-leduc",
@@ -10261,7 +10267,7 @@
         "modern-era"
       ],
       "file_id": null,
-      "word_count": 436,
+      "word_count": 610,
       "notes": "2026-07-11: Spawned per operator's revised C5 policy. No new research conducted. | 2026-08-14 p_223: applied the Two-Tier Era BLOCKING fixes from the p_218 audit (Gary White tier conflation per resolved c_015; Leduc chronology; uncited load-bearing claims; Garcia/Taylor overlap raised as c_022).",
       "tags": {
         "era": [

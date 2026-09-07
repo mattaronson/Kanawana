@@ -5206,3 +5206,33 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   than banking it. That is the second such refusal in three volumes -- the 2010
   report's "more than 2,000 each year" was the first.
   Verify green, nine checks. Timestamp from `date -u` in its own call.
+
+[2026-09-07T14:19:20Z] THE COMMUNITY REPORTS PRINT THE CAMP'S OWN COMMITTEE, and
+  that is the most useful thing in the series. NEW: f_5581, f_5582.
+  ROSTERS FOR 2014, 2015 AND 2017. 2014, thirteen names: Bennett, CARTER
+  (CHAIR), Cordemans, DAY, Frankel, Fullerton, Henle, Lyndsay, Maas, Mannitt,
+  Muszinski, Valente. 2015, twelve, with LAURA DAVIS added, Carter's title now
+  PRESIDENT, Frankel and Day absent. 2017, halved to six: Carter (Président),
+  Frankel, Fullerton, Henle, Lyndsay, Maas.
+  IT ANSWERS A STANDING OPEN QUESTION. morgan-carter.md asked how long his
+  committee service ran, with 2011 documented and a 2012 listing unverified. It
+  runs to AT LEAST 2017 AND HE CHAIRED IT -- fourteen years after his paid
+  tenure as on-site director ended. Marked resolved there, with the span noted
+  as documented at its ends rather than continuously (2013 and 2016 not found).
+  AND THREE OF THE COMMITTEE WERE CITS TOGETHER IN 1995. The "CITS 95" plaque
+  names twenty-nine, among them CHRIS MANITT, LAURA DAVIS and NICK MUSZYNSKI --
+  all three on these rosters twenty years later. This project has documented the
+  camper-to-CIT-to-staff ladder often; this is the rung above it, two decades
+  on. RECORDED AS VERY PROBABLY AND NOT AS CERTAINLY: the match is on name, and
+  name matching in this project has produced three W. H. Balls, a Ralph H.
+  Dawson who was a wartime private, and a Derek V. Walsh who studied
+  occupational stress.
+  TWO OF MY OWN ERRORS, BOTH THE SAME ONE, BOTH IN THIS UNIT. I typed a
+  footnote marker before running add_source_note.py -- twice. The first time the
+  script assigned 5 where I had written ^4 and verify caught the dead marker.
+  THE SECOND TIME WAS WORSE and is the failure mode this project already
+  recorded: the script COUNTED MY OWN THREE ^23 MARKERS as existing citations,
+  assigned 24, and left a HOLE AT 23. Fixed by renumbering the entry down. The
+  rule exists in the handoff notes and I broke it twice in ten minutes; running
+  the script FIRST costs nothing.
+  Verify green, nine checks. Timestamp from `date -u` in its own call.
