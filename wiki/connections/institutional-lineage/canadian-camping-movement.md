@@ -1,7 +1,7 @@
 # The Canadian Camping Movement
 
 *Status: E1-reviewed | Sources: 18*
-*Last Updated: 2026-09-07 (a Forgie among the YMCA's Canadian overseas secretaries, 1919)*
+*Last Updated: 2026-09-07 (the Commodore's day job, and he leaves Canada in 1927 like the obituary says)*
 
 ## Summary
 
@@ -339,17 +339,37 @@ canoe-tripping line running through this whole story: "her uncle, Wallace Forgie
 big canoe trip through Temagami when she was ten years old."^8bq2 The woman who became the movement's
 matriarch learned to trip from him.
 
-**And a Forgie was a YMCA overseas secretary in 1919.** The *YMCA Year Book* for 1918-19 prints the
-Canadian National Council's list of "Overseas Secretaries … released from regular Y. M. C. A. work for
-this special service" as of 1 June 1919, and on it is "**Forgie, A. W.**" — one of only three names there
-carrying no rank.^18 **This is not an identification and is not written as one**: "A. W." is not
-"Wallace," and no source read here gives Forgie's initials. But four things converge. The surname is
-uncommon; he was in Canada across 1919 by this article's own dates; born in 1883 he was **thirty-six**,
-squarely the age of the captains and lieutenants on that list; and the milieu is the YMCA itself rather
-than merely adjacent to it, Taylor Statten having been Canada's national YMCA Boys' Work Secretary. A
-Forgie among the YMCA's Canadian overseas secretaries is what one would expect, not a coincidence needing
-explanation. His given names — from the Ebbs obituary, from Statten genealogy, or from the *Year Book*'s
-own alphabetical list of employed officers — would settle it in a line.
+**And "the Commodore" was almost certainly a career YMCA boys' work secretary.** The *YMCA Year Book*'s
+alphabetical list of employed officers prints each man's year of entry into Association work and never
+changes it, so one figure follows one man across forty years. **A. W. Forgie, entry year 06:**^18
+
+| Volume | Entry |
+|---|---|
+| 1907-08, 1909-10 | Ottawa, Ont., **Boys** |
+| 1911-12 | **Toronto**, Ont., **Boys'** |
+| 1912-13 | **Boys' Work Secretary, Ontario and Quebec** |
+| 1913-14 | Toronto, Ont., Sec. Nat'l Council |
+| 1917-18 | **Associate National Boys' Work Secretary** |
+| 1 June 1919 | on the Canadian National Council's list of **Overseas Secretaries**, "released from regular Y. M. C. A. work for this special service" |
+| 1919-20 | Boys' Work Secretary, **Calgary** |
+| 1927-28 → 1935 | **India** — Sec. National Council, then Sec. Int. Com. |
+| 1940 | back in Canadian war service: "Early in November, **A. W. Forgie** and W. R. McCoy were despatched for the purpose of making a survey of the needs of Canadian soldiers and airmen in the **St. John's** area" |
+
+**Read the last two rows against the first paragraph of this section.** This article already had Wallace
+Forgie's influence running **"in Canada from 1908 to 1927"** — from J. Harry Ebbs's obituary and Mary
+Northway's profile, sources with no connection whatever to a YMCA roster. **A. W. Forgie leaves Canada
+for India at precisely 1927.** Two independent records agreeing on that year, for a surname this
+uncommon, is the strongest part of it.
+
+The rest converges too. He is in **Toronto boys' work** across exactly the years Adele Ebbs was learning
+to trip from her uncle. And he was **Associate** National Boys' Work Secretary while **Taylor Statten** —
+to whom Wallace Forgie was related by marriage — was **the** National Boys' Work Secretary. That is a
+direct working relationship, not a shared milieu.
+
+**The one gap is the name itself.** No source read here gives Wallace Forgie's initials, and none gives
+A. W. Forgie's full given names. The join is made by everything except the name, and it should not be
+tightened without them. If they match, the man who taught the movement's matriarch to canoe-trip was a
+national YMCA boys' work official who served in both wars and spent eight years in India.
 
 *Two other names on that same list are already in this article's world and are more doubtful, not less.*
 "**Sharpe, Capt. C. T.**" and "**Pearson, Capt. Oscar L.**" sit beside the C. T. Sharpe who was Ontario's
