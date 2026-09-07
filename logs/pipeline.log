@@ -5908,3 +5908,26 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   directors.
   f_5616. facts.json v10.26, 5,578 facts, 1,644 sources. Verify green.
   Timestamp from `date -u` in its own call.
+
+[2026-09-07T15:46:06Z] VERIFY -- p_489's first repointing pass. Eleven of the
+  eighty src_ymca_website facts repointed by hand; SIXTY-NINE LEFT ON THE
+  CATCH-ALL DELIBERATELY.
+  A token-overlap matcher was built against the eight cached pages and then
+  LARGELY DISBELIEVED, which is the record worth keeping. It gave 9 matches at
+  0.8+ and 19 at 0.6+, and its tail is wrong in a way that would be invisible
+  from the number alone: "Camp Kanawana was the first residential camp in
+  Quebec" onto the JOBS page, "The Page family sold the land" onto the
+  EXPEDITION pages, and ALL THREE MOUNTAINEER FACTS onto the expedition pages,
+  WHERE THE WORD DOES NOT OCCUR -- that programme is absent from the current
+  listing entirely (f_5612). High score, common words, no content.
+  Eleven checked by hand and applied: four to lodging, five to facilities, one
+  to the programme listing, one to the international page. An invented page
+  attribution is worse than an honest catch-all, which is p_488's own reasoning
+  one layer up.
+  AND ONE OF THE ELEVEN PROVES THE CAVEAT WRITTEN ONTO ALL OF THEM: f_0473 lists
+  a WATER TRAMPOLINE among waterfront facilities and the 2026 page does not. The
+  page as read today is not necessarily the page the fact was written from.
+  Every repointed fact carries that warning in its own text, so the sharpening
+  cannot later be mistaken for a verification.
+  f_5617. facts.json v10.27, 5,579 facts. Verify green. Timestamp from `date -u`
+  in its own call.

@@ -1,8 +1,8 @@
 {
-  "version": "10.26",
-  "kb_version": "10.26",
+  "version": "10.27",
+  "kb_version": "10.27",
   "migrated_from": "3.3",
-  "fact_count": 5578,
+  "fact_count": 5579,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -7564,9 +7564,9 @@
     },
     {
       "fact_id": "f_0450",
-      "claim": "The Rose des Vents Pavilion includes a kitchen equipped with dishes and pots for a maximum of 16 people, a wood-burning stove, and a common area.",
+      "claim": "The Rose des Vents Pavilion includes a kitchen equipped with dishes and pots for a maximum of 16 people, a wood-burning stove, and a common area. [SOURCE SHARPENED 2026-09-07 under p_489: this fact cited src_ymca_website, ONE RECORD FOR THE WHOLE OF ymcaquebec.org carrying eighty facts, so the citation named a site rather than a document. The page it came from was identified by matching its content against the pages fetched and cached on 2026-09-07, and the match was checked by hand rather than taken from the score. THE CAVEAT THAT MATTERS: the page as read in 2026 is not necessarily the page the fact was written from, and one of these eleven proves it -- f_0473 lists a WATER TRAMPOLINE that the 2026 facilities page does not. The old citation is replaced, not deleted from the record, by this note.]",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_lodging_rental_2026"
       ],
       "confidence": "stated",
       "category": "facilities",
@@ -7600,9 +7600,9 @@
     },
     {
       "fact_id": "f_0452",
-      "claim": "Camp has 12 cabins with electricity (in the Woodsmen and Pioneers sections), 14 prospector tents (in the Coureurs des Bois and Pathfinders sections), and 3 rooms in the Rose des Vents Pavilion.",
+      "claim": "Camp has 12 cabins with electricity (in the Woodsmen and Pioneers sections), 14 prospector tents (in the Coureurs des Bois and Pathfinders sections), and 3 rooms in the Rose des Vents Pavilion. [SOURCE SHARPENED 2026-09-07 under p_489: this fact cited src_ymca_website, ONE RECORD FOR THE WHOLE OF ymcaquebec.org carrying eighty facts, so the citation named a site rather than a document. The page it came from was identified by matching its content against the pages fetched and cached on 2026-09-07, and the match was checked by hand rather than taken from the score. THE CAVEAT THAT MATTERS: the page as read in 2026 is not necessarily the page the fact was written from, and one of these eleven proves it -- f_0473 lists a WATER TRAMPOLINE that the 2026 facilities page does not. The old citation is replaced, not deleted from the record, by this note.]",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_lodging_rental_2026"
       ],
       "confidence": "stated",
       "category": "facilities",
@@ -7936,9 +7936,9 @@
     },
     {
       "fact_id": "f_0471",
-      "claim": "The Camp Kanawana dining hall has a capacity of over 300 people.",
+      "claim": "The Camp Kanawana dining hall has a capacity of over 300 people. [SOURCE SHARPENED 2026-09-07 under p_489: this fact cited src_ymca_website, ONE RECORD FOR THE WHOLE OF ymcaquebec.org carrying eighty facts, so the citation named a site rather than a document. The page it came from was identified by matching its content against the pages fetched and cached on 2026-09-07, and the match was checked by hand rather than taken from the score. THE CAVEAT THAT MATTERS: the page as read in 2026 is not necessarily the page the fact was written from, and one of these eleven proves it -- f_0473 lists a WATER TRAMPOLINE that the 2026 facilities page does not. The old citation is replaced, not deleted from the record, by this note.]",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_facilities_2026"
       ],
       "confidence": "stated",
       "category": "facilities",
@@ -7952,9 +7952,9 @@
     },
     {
       "fact_id": "f_0472",
-      "claim": "Current Camp Kanawana activity facilities include an arts and crafts pavilion, beach lodge, nature nook/nature interpretation area, activity lodge, gaga ball pit, low ropes course, archery range, and activity/sports field.",
+      "claim": "Current Camp Kanawana activity facilities include an arts and crafts pavilion, beach lodge, nature nook/nature interpretation area, activity lodge, gaga ball pit, low ropes course, archery range, and activity/sports field. [SOURCE SHARPENED 2026-09-07 under p_489: this fact cited src_ymca_website, ONE RECORD FOR THE WHOLE OF ymcaquebec.org carrying eighty facts, so the citation named a site rather than a document. The page it came from was identified by matching its content against the pages fetched and cached on 2026-09-07, and the match was checked by hand rather than taken from the score. THE CAVEAT THAT MATTERS: the page as read in 2026 is not necessarily the page the fact was written from, and one of these eleven proves it -- f_0473 lists a WATER TRAMPOLINE that the 2026 facilities page does not. The old citation is replaced, not deleted from the record, by this note.]",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_facilities_2026"
       ],
       "confidence": "stated",
       "category": "facilities",
@@ -7968,9 +7968,9 @@
     },
     {
       "fact_id": "f_0473",
-      "claim": "Camp Kanawana waterfront facilities include a sand beach with marked swimming area, canoes, kayaks, paddleboards, a water trampoline, a barge, and a rescue boat.",
+      "claim": "Camp Kanawana waterfront facilities include a sand beach with marked swimming area, canoes, kayaks, paddleboards, a water trampoline, a barge, and a rescue boat. [SOURCE SHARPENED 2026-09-07 under p_489: this fact cited src_ymca_website, ONE RECORD FOR THE WHOLE OF ymcaquebec.org carrying eighty facts, so the citation named a site rather than a document. The page it came from was identified by matching its content against the pages fetched and cached on 2026-09-07, and the match was checked by hand rather than taken from the score. THE CAVEAT THAT MATTERS: the page as read in 2026 is not necessarily the page the fact was written from, and one of these eleven proves it -- f_0473 lists a WATER TRAMPOLINE that the 2026 facilities page does not. The old citation is replaced, not deleted from the record, by this note.]",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_facilities_2026"
       ],
       "confidence": "stated",
       "category": "facilities",
@@ -9448,9 +9448,9 @@
     },
     {
       "fact_id": "f_0559",
-      "claim": "Camp Kanawana has a 30-foot rock climbing wall among its current facilities.",
+      "claim": "Camp Kanawana has a 30-foot rock climbing wall among its current facilities. [SOURCE SHARPENED 2026-09-07 under p_489: this fact cited src_ymca_website, ONE RECORD FOR THE WHOLE OF ymcaquebec.org carrying eighty facts, so the citation named a site rather than a document. The page it came from was identified by matching its content against the pages fetched and cached on 2026-09-07, and the match was checked by hand rather than taken from the score. THE CAVEAT THAT MATTERS: the page as read in 2026 is not necessarily the page the fact was written from, and one of these eleven proves it -- f_0473 lists a WATER TRAMPOLINE that the 2026 facilities page does not. The old citation is replaced, not deleted from the record, by this note.]",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_facilities_2026"
       ],
       "confidence": "stated",
       "category": "facilities",
@@ -9916,9 +9916,9 @@
     },
     {
       "fact_id": "f_0586",
-      "claim": "Cabins at Camp Kanawana in the junior sections (Woodsmen and Pioneers) accommodate 10 people: 6 upper bunks, 4 lower bunks, with 2 staff members in their own small room within the cabin, and cubbies for each camper.",
+      "claim": "Cabins at Camp Kanawana in the junior sections (Woodsmen and Pioneers) accommodate 10 people: 6 upper bunks, 4 lower bunks, with 2 staff members in their own small room within the cabin, and cubbies for each camper. [SOURCE SHARPENED 2026-09-07 under p_489: this fact cited src_ymca_website, ONE RECORD FOR THE WHOLE OF ymcaquebec.org carrying eighty facts, so the citation named a site rather than a document. The page it came from was identified by matching its content against the pages fetched and cached on 2026-09-07, and the match was checked by hand rather than taken from the score. THE CAVEAT THAT MATTERS: the page as read in 2026 is not necessarily the page the fact was written from, and one of these eleven proves it -- f_0473 lists a WATER TRAMPOLINE that the 2026 facilities page does not. The old citation is replaced, not deleted from the record, by this note.]",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_lodging_rental_2026"
       ],
       "confidence": "stated",
       "category": "buildings",
@@ -9965,9 +9965,9 @@
     },
     {
       "fact_id": "f_0589",
-      "claim": "The Dining Hall at Camp Kanawana has an industrial kitchen that is not available to rental groups.",
+      "claim": "The Dining Hall at Camp Kanawana has an industrial kitchen that is not available to rental groups. [SOURCE SHARPENED 2026-09-07 under p_489: this fact cited src_ymca_website, ONE RECORD FOR THE WHOLE OF ymcaquebec.org carrying eighty facts, so the citation named a site rather than a document. The page it came from was identified by matching its content against the pages fetched and cached on 2026-09-07, and the match was checked by hand rather than taken from the score. THE CAVEAT THAT MATTERS: the page as read in 2026 is not necessarily the page the fact was written from, and one of these eleven proves it -- f_0473 lists a WATER TRAMPOLINE that the 2026 facilities page does not. The old citation is replaced, not deleted from the record, by this note.]",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_lodging_rental_2026"
       ],
       "confidence": "stated",
       "category": "buildings",
@@ -14757,9 +14757,9 @@
     },
     {
       "fact_id": "f_0906",
-      "claim": "Camp Kanawana's site is 550 acres with 3 lakes, located in the Laurentians 45 minutes from Montreal.",
+      "claim": "Camp Kanawana's site is 550 acres with 3 lakes, located in the Laurentians 45 minutes from Montreal. [SOURCE SHARPENED 2026-09-07 under p_489: this fact cited src_ymca_website, ONE RECORD FOR THE WHOLE OF ymcaquebec.org carrying eighty facts, so the citation named a site rather than a document. The page it came from was identified by matching its content against the pages fetched and cached on 2026-09-07, and the match was checked by hand rather than taken from the score. THE CAVEAT THAT MATTERS: the page as read in 2026 is not necessarily the page the fact was written from, and one of these eleven proves it -- f_0473 lists a WATER TRAMPOLINE that the 2026 facilities page does not. The old citation is replaced, not deleted from the record, by this note.]",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_facilities_2026"
       ],
       "confidence": "stated",
       "category": "geography",
@@ -15700,9 +15700,9 @@
     },
     {
       "fact_id": "f_0958",
-      "claim": "As of 2026, Camp Kanawana serves ages 7-17 with programs including Pioneers (6-day and 12-day sessions), canoe-tripping, and leadership programs",
+      "claim": "As of 2026, Camp Kanawana serves ages 7-17 with programs including Pioneers (6-day and 12-day sessions), canoe-tripping, and leadership programs [SOURCE SHARPENED 2026-09-07 under p_489: this fact cited src_ymca_website, ONE RECORD FOR THE WHOLE OF ymcaquebec.org carrying eighty facts, so the citation named a site rather than a document. The page it came from was identified by matching its content against the pages fetched and cached on 2026-09-07, and the match was checked by hand rather than taken from the score. THE CAVEAT THAT MATTERS: the page as read in 2026 is not necessarily the page the fact was written from, and one of these eleven proves it -- f_0473 lists a WATER TRAMPOLINE that the 2026 facilities page does not. The old citation is replaced, not deleted from the record, by this note.]",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_programs_2026"
       ],
       "confidence": "stated",
       "category": "programs",
@@ -15749,9 +15749,9 @@
     },
     {
       "fact_id": "f_0961",
-      "claim": "Camp Kanawana welcomes international campers from the US, UK, Spain, Mexico, Australia, and Zimbabwe, with airport transportation service available from Pierre-Elliot-Trudeau airport",
+      "claim": "Camp Kanawana welcomes international campers from the US, UK, Spain, Mexico, Australia, and Zimbabwe, with airport transportation service available from Pierre-Elliot-Trudeau airport [SOURCE SHARPENED 2026-09-07 under p_489: this fact cited src_ymca_website, ONE RECORD FOR THE WHOLE OF ymcaquebec.org carrying eighty facts, so the citation named a site rather than a document. The page it came from was identified by matching its content against the pages fetched and cached on 2026-09-07, and the match was checked by hand rather than taken from the score. THE CAVEAT THAT MATTERS: the page as read in 2026 is not necessarily the page the fact was written from, and one of these eleven proves it -- f_0473 lists a WATER TRAMPOLINE that the 2026 facilities page does not. The old citation is replaced, not deleted from the record, by this note.]",
       "sources": [
-        "src_ymca_website"
+        "src_ymcaq_kanawana_jobs_intl_leadership_2026"
       ],
       "confidence": "stated",
       "category": "operations",
@@ -100488,6 +100488,18 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.26",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5617",
+      "category": "method",
+      "date_ref": null,
+      "entities": [],
+      "claim": "ELEVEN OF EIGHTY REPOINTED, AND THE MATCHER WAS NOT TRUSTED FOR THE REST. p_489's first repointing pass. src_ymca_website is one record for the whole of ymcaquebec.org carrying eighty facts, so each of those citations named a SITE rather than a document. Eight of the camp's pages are now fetched, cached and registered, so a fact's page can be identified by matching its content against them. THE MATCHER WAS BUILT AND THEN LARGELY DISBELIEVED, which is the point of this record. Scoring each fact's distinctive tokens against each cached page gave 9 matches at 0.8 or better and 19 at 0.6 or better, and the tail is wrong in a way that would have been invisible if the number alone were trusted: it put 'Camp Kanawana was the first residential camp in Quebec' on the JOBS page, 'The Page family sold the land' on the EXPEDITION pages, and all three MOUNTAINEER facts on the expedition pages -- where the word Mountaineer does not occur at all, since that programme is absent from the current listing entirely (f_5612). The score was high because the words were common, not because the content was there. ELEVEN WERE CHECKED BY HAND AND APPLIED: f_0450, f_0452, f_0586 and f_0589 to the lodging page; f_0471, f_0472, f_0473, f_0559 and f_0906 to the facilities page; f_0958 to the programme listing; f_0961 to the international page. SIXTY-NINE REMAIN ON THE CATCH-ALL and are left there deliberately -- an invented page attribution is worse than an honest catch-all, which is p_488's own reasoning applied one layer up. AND ONE OF THE ELEVEN PROVES THE CAVEAT THAT HAD TO BE WRITTEN ONTO ALL OF THEM: f_0473 lists a WATER TRAMPOLINE among the waterfront facilities, and the 2026 facilities page DOES NOT. The page as read today is not necessarily the page the fact was written from. Every repointed fact carries that warning in its own text, so the sharpening cannot later be mistaken for a verification.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.27",
       "added_by": "ralph_loop"
     }
   ]
