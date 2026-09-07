@@ -1,8 +1,8 @@
 {
-  "version": "9.47",
-  "kb_version": "9.47",
+  "version": "9.48",
+  "kb_version": "9.48",
   "migrated_from": "3.3",
-  "fact_count": 5339,
+  "fact_count": 5340,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -96316,6 +96316,22 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.47",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5378",
+      "category": "people",
+      "date_ref": "1986-1994",
+      "entities": [
+        "Jay Netherwood",
+        "Bruce Netherwood",
+        "Camp Kanawana"
+      ],
+      "claim": "BRUCE NETHERWOOD'S ARTICLE CARRIED DATES THE DIRECTORS INDEX HAD CORRECTED THREE WEEKS EARLIER, AND THE ERROR CHANGED WHO WROTE AN ARTICLE. people/bruce-netherwood.md said he 'directed Camp Kanawana from 1988 to 1994, succeeding his brother Jay Netherwood, who had held the role in 1986-1987'. people/directors-index.md corrected exactly those figures on 2026-08-14 and says so in the row: the Montreal YMCA's 1995 annual report states outright that Bruce 'served as Kamp Director FROM 1989 TO 1994', and the Metropolitan Staff rosters name JAY as 'Director, Kamp Kanawana' in FY1986, 1987, 1988 AND 1988-89. THE CORRECTION WAS MADE IN ONE ARTICLE AND NOT PROPAGATED TO THE OTHER. WHY IT MATTERED BEYOND ONE PAGE: Jay Netherwood's 'L'Etranger', the acid-rain article printed in the last issue Canadian Camping ever published, Winter 1988, is described in this wiki as written by 'the camp's own director'. Under the stale dates that gloss looked wrong -- a former director, two years out of the post. Under the corrected ones it is exactly right, AND IT IS THE POINT OF THE PIECE: a sitting camp director writing to the camp directors of his province about the trees his own staff were counting. FOUND 2026-09-07 while checking a Related Articles line in the new acid-rain article, which had repeated the stale span.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.48",
       "added_by": "ralph_loop"
     }
   ]

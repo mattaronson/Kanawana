@@ -122,7 +122,7 @@ In the **last issue *Canadian Camping* ever published**, Winter 1988, that chang
 
 - [[traditions/environmental-history|Environmental and Ecological History]] — the parent article: the Green Shift, conservation programming and the camp's own environmental infrastructure
 - [[site/the-kanawana-site|The Kanawana Site]] — Lac Wilson, and the land the maples stood on
-- [[people/bruce-netherwood|Bruce Netherwood]] — Jay Netherwood's brother, and Kanawana's director 1988-1994
+- [[people/bruce-netherwood|Bruce Netherwood]] — Jay Netherwood's brother, and Kanawana's director 1989-1994; Jay was the sitting director when he wrote "L'Étranger"
 - [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]
 - [[history/between-centennials|Between the Centennials]]
 
