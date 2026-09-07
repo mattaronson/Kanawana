@@ -6937,3 +6937,25 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   source. Yesterday's corrections fixed two articles and left the rule they were correcting intact.
   f_2153 completed and the Dating note extended, both pointing at
   project-docs/annual-report-year-ends.md as the authority (kb v10.53). All checks pass.
+
+2026-09-07T17:35:40Z  p_491 -- unit: a ten-year statistical table, mostly unreadable, and two cells saved.
+  The camp's own 1965 annual report carries a "KAMP KANAWANA TEN YEAR SUMMARY": camper ages, stay
+  lengths by week, RELIGIOUS AFFILIATION (Protestant, Roman Catholic, Jewish, Buddhist, not reported),
+  counsellor ages and colleges, administrative staff, junior counsellors in training, and a geographical
+  distribution by Montreal district and suburb. Ten years of it. The religious breakdown is held nowhere
+  else in this project, and a YMCA camp counting Buddhist campers in the late 1950s is a fact before
+  anyone recovers a single count.
+  MOST OF IT IS NOT TRANSCRIBED, DELIBERATELY. The OCR separated the column headers from the value
+  blocks and interleaved the row labels, so no figure can be tied to a row and a year from the text.
+  Reconstructing it would be guessing, and a plausible-looking reconstruction is worse than a gap
+  because it looks like data. Queued as p_497 with that warning written into it, plus what the table
+  contains so the next worker knows what they are asking for.
+  TWO CELLS SURVIVE BECAUSE THEY CARRY THEIR OWN ARITHMETIC. 1957: components 382, 399, 393, 392, 130
+  against a printed total of 1696, which they sum to exactly. 1958: 357 (scanned "35f"), 397, 371, 380,
+  118 against 1623, which they also sum to exactly -- and that confirms the "35f" reading, since no other
+  digit works. SECOND, INDEPENDENT TEST: both are far larger than enrolment, so they are camper-weeks;
+  1,696 over the 558 campers the attendance series already holds for 1957 is 3.04 weeks, against that
+  article's own note that the 1957 average stay was "three weeks". 1,623 over 528 is 3.07. Both land
+  where a record written from a different source says they should.
+  Two blank cells in meta/attendance-series.md filled, with the arithmetic shown rather than asserted.
+  Added f_5641 (kb v10.54, 5603 facts); note 43; source added (75 -> 76). All checks pass.

@@ -6050,6 +6050,20 @@
       "notes": "",
       "tier": "",
       "weight": 7
+    },
+    {
+      "priority_id": "p_497",
+      "rank": 8,
+      "type": "RESEARCH",
+      "article_id": "attendance-series",
+      "description": "GET PAGE IMAGES OF THE 'KAMP KANAWANA TEN YEAR SUMMARY' IN THE CAMP'S 1965 ANNUAL REPORT. Raised 2026-09-07 from f_5641. The table is in sources/cache/ymca-montreal-fonds/1965-kamp-kanawana-annual-report.txt from about line 728, and it is the densest single body of camp statistics this project has found: AGE OF CAMPERS; STAY IN CAMP by weeks (1, 2, 3, 4, '5 & up', '6 & up', '8 & up'); RELIGIOUS AFFILIATION with the categories PROTESTANT, ROMAN CATHOLIC, JEWISH, BUDDHIST and NOT REPORTED; AGE OF COUNSELLORS in bands 16-18, 19-21, 22-27, 28+; colleges attended; average counsellor figures; administrative staff numbers; junior counsellors in training; and GEOGRAPHICAL DISTRIBUTION OF CAMPERS by Montreal district and suburb, running from Ile Perrot and the West Island through Westmount, Outremont and T.M.R. to the South Shore, with tail entries legible (Roxboro 7, Dollard des Ormeaux 5, Pierrefonds 8, South Shore 26, Hudson 5, Sherbrooke 2, Chomedey 6, Fabreville 2, Montreal East 3, Ville D'Anjou 6, Ontario 5, New Brunswick 1, small towns in Quebec and the U.S.A. 15, Campership Fund 13). TEN YEARS OF IT, roughly 1955-1965. WHY IT IS NOT TRANSCRIBED: the OCR separated the column headers from the value blocks and interleaved the row labels, so no figure can be tied to a row and a year from the text alone. DO NOT RECONSTRUCT IT BY INFERENCE -- the columns are ambiguous and a plausible-looking reconstruction would be worse than a gap, because it would look like data. WHAT WAS SALVAGED, and how: the 1957 and 1958 camper-week totals, 1,696 and 1,623, because each is a printed total whose own components sum to it exactly AND divides by the known camper count to the average stay the attendance article independently records. That is the standard any other cell has to meet. THE ASK: page images or a better scan of those pages, via Concordia (the item is in the YMCA of Montreal fonds) or the Internet Archive scan this text came from. THE RELIGIOUS BREAKDOWN IS THE PRIZE: this project holds no other record of Kanawana's campers by religion, and a YMCA camp counting Roman Catholic, Jewish and Buddhist campers through the late 1950s bears directly on history/coeducation-gender.md's account of who the camp was for.",
+      "blocking": true,
+      "assigned_weight": "",
+      "created_at": "",
+      "status": "open",
+      "notes": "",
+      "tier": "",
+      "weight": 6
     }
   ],
   "queue_ordering": {

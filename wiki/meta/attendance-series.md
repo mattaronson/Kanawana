@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 42*
+*Status: draft | Sources: 43*
 *Last Updated: 2026-09-07 (240 in 1936; and "some 700" around 2001)*
 
 ## Overview
@@ -90,8 +90,8 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1954 | 446 | — | "the year of great rains"; 662 tests passed, 371 boys on overnight hikes, 201 through the graded Y.M.C.A. swim tests and 151 non-swimmers through the elementary one; older boys went up the Archambault River by canoe **every week**. Average stay printed as **5.5 weeks**, which is almost certainly a misread of 3.5 — see the note^14 |
 | 1955 | 473 | — | Avg stay 3.5 weeks; 72 boys learned to swim, 323 passed intermediate swimming tests, 182 boating/canoeing/sailing awards, 22 life-saving and master swimming awards. Tent groups of seven planned their own programme, with "competition with self, rather than comparison with others" the stated key note^16 |
 | 1956 | 523 | — | |
-| 1957 | 558 | — | Camp "filled to capacity"; average stay three weeks; age breakdown below^15. The Foremen's Club, "as usual," paid for 19 campers at Camp Perrot^16 |
-| 1958 | 528 | — | Age breakdown below; the printed total and the printed ages do not reconcile^15 |
+| 1957 | 558 | **1,696** camper-weeks | Camp "filled to capacity"; average stay three weeks — and 1,696 over 558 is 3.04, which is where that note independently lands^43; age breakdown below^15. The Foremen's Club, "as usual," paid for 19 campers at Camp Perrot^16 |
+| 1958 | 528 | **1,623** camper-weeks | 1,623 over 528 is 3.07 weeks^43. Age breakdown below; the printed total and the printed ages do not reconcile^15 |
 | 1959 | 526 | — | Voyageurs pilot, 30 boys |
 | **1960** | *(ran)* | — | "Kamp Kanawana for boys operated for eight weeks at near capacity"; the Zeller Family Foundation study of leadership and camper growth begins [f_4846] |
 | **1961** | *(ran)* | — | The second season run on "planned group development"; the study's first findings tested "last summer at Kanawana" [f_4846] |
@@ -274,6 +274,16 @@ at camp, in that summer, for those people: it is direct physical evidence the se
 alone closes **1981–1984, 1989–90, 1992–93, 1995–97, 2002–04 and 2006–2010** [f_4850]. What it does not
 give is attendance. The corpus counts whoever appears on boards that survived, which swings from two
 names in 1987 to 205 in 2008 and says nothing about how many were at camp.
+
+**A ten-year table nobody can read yet.** The camp's own 1965 report carries a "KAMP KANAWANA TEN YEAR
+SUMMARY" covering camper ages, stay lengths, **religious affiliation** (Protestant, Roman Catholic,
+Jewish, Buddhist, not reported), counsellor ages and colleges, administrative staff, junior counsellors
+in training, and a geographical distribution by Montreal district and suburb. **The scan has separated
+its headers from its values and interleaved the row labels**, so which figure belongs to which row and
+year cannot be established from the text, and it is not guessed at here. Two cells survive because they
+carry their own arithmetic: the 1957 and 1958 camper-week totals above, each confirmed by summing its
+own components and again by the average stay. The rest needs page images, queued as `p_497`. The
+religious breakdown in particular is held nowhere else in this project.^43
 
 **The L&V trophy.** The Kanawana Annual Trophy carries a shield for every season from 1947 to 2025
 except 2021, transcribed in full. A shield means the Games were contested that summer, and in an
@@ -476,6 +486,7 @@ from inside the camp office, in a year the camp was moving to coeducation.
 40. YMCA of Montreal newsletter, **27 March 1969** [src_ymf_newsletter_1969_03_27]. Cached at `sources/cache/ymca-montreal-fonds/newsletter-1969-03-27.txt`; read word for word 2026-09-07 under p_482.
 41. YMCAs of Québec, impact report for **2024** [src_ymf_ymca_impact_report_2024]: "782 kids and teens enjoyed a stay in the great outdoors at Camp Kanawana," printed beside "93 campers in our Companion program." Read 2026-09-07 under the sharpened p_441. See [f_5586].
 42. *Camp Kanawana Preparation Guide, Summer 2026* (parent handbook) [src_kk_prep_guide_2026], cached at `sources/cache/parent-guides/Camp-Kanawana-GUIDE-Parent-EN_2026.txt`; read word for word 2026-09-07 under p_487. See [f_5603].
+43. Kamp Kanawana's own annual report for **1965** [src_ia_kanawana_report_1965], `sources/cache/ymca-montreal-fonds/1965-kamp-kanawana-annual-report.txt`, under the heading "KAMP KANAWANA TEN YEAR SUMMARY". The **1,696** camper-weeks of **1957** and **1,623** of **1958**, the two tests each of them passes, and a description of everything else the table covers — including a religious-affiliation breakdown this project holds nowhere else — are at [f_5641]. Found 2026-09-07 under p_491; the rest of the table needs page images (p_497).
 
 ## Research Notes
 

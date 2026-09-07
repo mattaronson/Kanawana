@@ -1,8 +1,8 @@
 {
-  "version": "10.53",
-  "kb_version": "10.53",
+  "version": "10.54",
+  "kb_version": "10.54",
   "migrated_from": "3.3",
-  "fact_count": 5602,
+  "fact_count": 5603,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100967,6 +100967,22 @@
       "date_ref": "1950-1958",
       "conflicts_with": [],
       "added_version": "10.52",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5641",
+      "claim": "THE CAMP'S OWN 1965 REPORT CARRIES A TEN-YEAR STATISTICAL SUMMARY, THE SCAN HAS DESTROYED MOST OF IT, AND TWO NUMBERS SURVIVE WITH TWO CHECKS EACH. Found under p_491 in sources/cache/ymca-montreal-fonds/1965-kamp-kanawana-annual-report.txt, under the heading 'KAMP KANAWANA TEN YEAR SUMMARY'.\n\nWHAT THE TABLE COVERS, which is worth knowing even where the figures are not: AGE OF CAMPERS; STAY IN CAMP by weeks (rows for 1 week, 2, 3, 4, '5 weeks & up', '6 weeks & up', '8 weeks & up'); RELIGIOUS AFFILIATION with the categories PROTESTANT, ROMAN CATHOLIC, JEWISH, BUDDHIST and NOT REPORTED; AGE OF COUNSELLORS in bands 16-18, 19-21, 22-27 and 28+; college attended by counsellors; average counsellor figures; number of administrative staff; junior counsellors in training; and a GEOGRAPHICAL DISTRIBUTION OF CAMPERS by Montreal district and suburb. That religious breakdown is not held anywhere else in this project, and A YMCA CAMP COUNTING BUDDHIST CAMPERS IN THE LATE 1950s IS ITSELF A FACT even before anyone recovers the counts.\n\nWHY MOST OF IT IS NOT TRANSCRIBED HERE: the OCR has separated the column headers from the value blocks and interleaved the row labels, so which figure belongs to which row and year cannot be established from this text. RECONSTRUCTING IT WOULD BE GUESSING, and this project does not. THE TABLE NEEDS PAGE IMAGES; queued as p_497.\n\nTWO FIGURES DO SURVIVE, and each passes two independent tests. The 1957 block reads 382, 399, 393, 392, 130 with a printed total of 1696, and those five sum to exactly 1696. The 1958 block reads 357 (scanned '35f'), 397, 371, 380, 118 with a printed total of 1623, and those sum to exactly 1623 -- which also confirms the '35f' reading, since no other digit works. SECOND TEST: these are far larger than the camp's enrolment, so they are CAMPER-WEEKS, and 1696 over the 558 campers meta/attendance-series.md gives for 1957 is 3.04 weeks, against that article's own note that the 1957 average stay was 'three weeks'. 1623 over 528 campers in 1958 is 3.07. Both land where the independent record says they should.\n\nSO: KANAWANA'S CAMPER-WEEKS WERE 1,696 IN 1957 AND 1,623 IN 1958, two cells the attendance series has carried as blank. What the five components of each are is NOT established -- they could be sessions, age bands or stay lengths, and the scrambled headers do not say.",
+      "sources": [
+        "src_ia_kanawana_report_1965"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1957-1958",
+      "conflicts_with": [],
+      "added_version": "10.54",
       "added_by": "ralph_loop"
     }
   ]
