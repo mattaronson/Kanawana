@@ -1,8 +1,8 @@
 {
-  "version": "11.05",
-  "kb_version": "11.05",
+  "version": "11.06",
+  "kb_version": "11.06",
   "migrated_from": "3.3",
-  "fact_count": 5681,
+  "fact_count": 5683,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -92259,7 +92259,7 @@
       "entities": [
         "Kanawana wiki project"
       ],
-      "claim": "I DERIVED A SOURCE ID FROM A FILENAME FOR THE THIRD TIME THIS SESSION, AND THE WIDENED CHECK CAUGHT IT. Wrote src_ymf_sgw_ymca_annual_report_1996 into two articles on the pattern of its neighbours; the record is src_cache_sgw_ymca_annual_report_1996. The cached 1996 file is one of the minority catalogued under the src_cache_ prefix rather than src_ymf_, and nothing in the filename says which. Caught by verify_harness's whole-wiki [src_] existence pass, widened earlier the same day under f_5120 -- WHICH IS THE PASS EXISTING FOR EXACTLY THIS, and it caught the E1-reviewed article too, which the old draft-only scope would have missed. THE RULE HAS NOW BEEN BROKEN AFTER BEING WRITTEN DOWN TWICE, so it is worth stating what actually prevents it rather than restating the rule: run the lookup as a command before typing the id, not from memory of the pattern. The neighbouring ids in the same article being src_ymf_ is precisely what makes the wrong guess feel right.",
+      "claim": "I DERIVED A SOURCE ID FROM A FILENAME FOR THE THIRD TIME THIS SESSION, AND THE WIDENED CHECK CAUGHT IT. Wrote src_ymf_sgw_ymca_annual_report_1996 into two articles on the pattern of its neighbours; the record is src_cache_sgw_ymca_annual_report_1996. The cached 1996 file is one of the minority catalogued under the src_cache_ prefix rather than src_ymf_, and nothing in the filename says which. Caught by verify_harness's whole-wiki [src_] existence pass, widened earlier the same day under f_5120 -- WHICH IS THE PASS EXISTING FOR EXACTLY THIS, and it caught the E1-reviewed article too, which the old draft-only scope would have missed. THE RULE HAS NOW BEEN BROKEN AFTER BEING WRITTEN DOWN TWICE, so it is worth stating what actually prevents it rather than restating the rule: run the lookup as a command before typing the id, not from memory of the pattern. The neighbouring ids in the same article being src_ymf_ is precisely what makes the wrong guess feel right. || A FOURTH TIME, 2026-09-07 (f_5721), and this one got past the remedy stated here. I did run a lookup before typing the id -- and asked whether the NAME existed rather than whether the DOCUMENT did, so the file looked unregistered and I created a second record for it. The remedy is narrower than 'run the lookup': grep sources.json for the CACHE PATH.",
       "sources": [],
       "confidence": "stated",
       "conflicts_with": [],
@@ -102414,10 +102414,10 @@
     },
     {
       "fact_id": "f_5717",
-      "claim": "JOANNA HOAD'S KANAWANA DIRECTORSHIP IS DOCUMENTED IN SIX OF THE ASSOCIATION'S OWN ANNUAL REPORTS, AND THIS PROJECT HAS SAID FOR MONTHS THAT NOTHING CORROBORATED IT. directors-index.md: 'Her Kanawana tenure itself is not independently corroborated by any source found (TWO FULL RESEARCH PASSES ACROSS 9+ SURFACES).' plaque-culture.md: 'Hoad's Kanawana tenure is the one span in the directors index that NO DOCUMENT HAS EVER CORROBORATED.' Both are wrong, and the documents have been cached in this project throughout. THE 1995 REPORT ANNOUNCES HER APPOINTMENT AND SAYS SOMETHING NOBODY HERE HAD RECORDED: 'In March 1995, Ms. Joanna Hoad was named Kamp Director. JOANNA IS THE FIRST FEMALE DIRECTOR IN THE OVER 100 YEAR HISTORY OF THE KAMP. Under her leadership, the Kamp had a very successful 1995 summer season. Camper registration and the return rate continued to be among the highest in the country.' THE SENIOR MANAGEMENT ROSTERS THEN CARRY HER FOR FIVE MORE VOLUMES: 'Hoad, Joanna (Director; Kamp Kanawana)' in 1996 and 1997, 'Hoad, Joanna (Director, Kamp Kanawana)' in 1998, and 'Hoad, Joanna / Director / Kamp Kanawana' in 1998-99 and 1999-2000. THE SAME ROSTER DATES THE END: the report for 2000-2001 gives 'White, Gary / Director, Kamp Kanawana'. So her tenure runs March 1995 to some point before the 2000-01 volume, which is the span this wiki already carried from oral history, now with both ends in the association's own print. AND IT MOVES GARY WHITE BACK A YEAR: gary-white.md dates his directorship to fiscal 2001-2002 'per the Montreal YMCA's own annual report'; the 2000-2001 volume already names him. THE SAME 1995 PASSAGE SETTLES THE MAN BEFORE HER, TWICE OVER: 'Bruce Netherwood, who served as Kamp Director FROM 1989 TO 1994, moved to Cape Cod where he is the Director of Camping Services of the South Shore YMCA in Qunicy, Massachusetts.' That is a second document for the 1989-1994 span this project corrected to on 2026-09-07, and it is the only source here for where he went. (The scan's 'Qunicy' is Quincy, Massachusetts, where the South Shore YMCA is; 'Cape Cod' and Quincy are eighty kilometres apart and the report gives both, which is the association writing loosely rather than two places.) HOW IT WAS MISSED IS SHARPER THAN 'NOBODY LOOKED', AND WORSE. THE 1995 REPORT WAS READ. bruce-netherwood.md cites it as its source 12 and takes the 1989-1994 span from it, correcting that article's own dates on 2026-09-07. The Netherwood sentence is the SECOND paragraph of the report's Kanawana section. The Hoad announcement is the FIRST. So this is not an unread document but THE SENTENCE NEXT DOOR, the habit this project named weeks ago and keeps paying for: a passage was opened for one name, the name was taken, and the paragraph above it was not read. Two research passes then went looking for Joanna Hoad across nine or more surfaces -- the open web, genealogy, obituary databases, school records -- and concluded that nothing corroborated her, while the corroboration sat one paragraph above a sentence this project had already quoted. WHAT IS GENUINELY NEW HERE IS THE HOAD MATERIAL AND THE 1996-2000 ROSTERS. Netherwood's destination is already documented in his own article from the YMCA Directory and the South Shore YMCA's own page, and the 1995 report's 'Cape Cod... Quincy' adds nothing to it except the association's looseness about which town.",
+      "claim": "JOANNA HOAD'S KANAWANA DIRECTORSHIP IS DOCUMENTED IN SIX OF THE ASSOCIATION'S OWN ANNUAL REPORTS, AND THIS PROJECT HAS SAID FOR MONTHS THAT NOTHING CORROBORATED IT. directors-index.md: 'Her Kanawana tenure itself is not independently corroborated by any source found (TWO FULL RESEARCH PASSES ACROSS 9+ SURFACES).' plaque-culture.md: 'Hoad's Kanawana tenure is the one span in the directors index that NO DOCUMENT HAS EVER CORROBORATED.' Both are wrong, and the documents have been cached in this project throughout. THE 1995 REPORT ANNOUNCES HER APPOINTMENT AND SAYS SOMETHING NOBODY HERE HAD RECORDED: 'In March 1995, Ms. Joanna Hoad was named Kamp Director. JOANNA IS THE FIRST FEMALE DIRECTOR IN THE OVER 100 YEAR HISTORY OF THE KAMP. Under her leadership, the Kamp had a very successful 1995 summer season. Camper registration and the return rate continued to be among the highest in the country.' THE SENIOR MANAGEMENT ROSTERS THEN CARRY HER FOR FIVE MORE VOLUMES: 'Hoad, Joanna (Director; Kamp Kanawana)' in 1996 and 1997, 'Hoad, Joanna (Director, Kamp Kanawana)' in 1998, and 'Hoad, Joanna / Director / Kamp Kanawana' in 1998-99 and 1999-2000. THE SAME ROSTER DATES THE END: the report for 2000-2001 gives 'White, Gary / Director, Kamp Kanawana'. So her tenure runs March 1995 to some point before the 2000-01 volume, which is the span this wiki already carried from oral history, now with both ends in the association's own print. AND IT MOVES GARY WHITE BACK A YEAR: gary-white.md dates his directorship to fiscal 2001-2002 'per the Montreal YMCA's own annual report'; the 2000-2001 volume already names him. THE SAME 1995 PASSAGE SETTLES THE MAN BEFORE HER, TWICE OVER: 'Bruce Netherwood, who served as Kamp Director FROM 1989 TO 1994, moved to Cape Cod where he is the Director of Camping Services of the South Shore YMCA in Qunicy, Massachusetts.' That is a second document for the 1989-1994 span this project corrected to on 2026-09-07, and it is the only source here for where he went. (The scan's 'Qunicy' is Quincy, Massachusetts, where the South Shore YMCA is; 'Cape Cod' and Quincy are eighty kilometres apart and the report gives both, which is the association writing loosely rather than two places.) HOW IT WAS MISSED IS SHARPER THAN 'NOBODY LOOKED', AND WORSE. THE 1995 REPORT WAS READ. bruce-netherwood.md cites it as its source 12 and takes the 1989-1994 span from it, correcting that article's own dates on 2026-09-07. The Netherwood sentence is the SECOND paragraph of the report's Kanawana section. The Hoad announcement is the FIRST. So this is not an unread document but THE SENTENCE NEXT DOOR, the habit this project named weeks ago and keeps paying for: a passage was opened for one name, the name was taken, and the paragraph above it was not read. Two research passes then went looking for Joanna Hoad across nine or more surfaces -- the open web, genealogy, obituary databases, school records -- and concluded that nothing corroborated her, while the corroboration sat one paragraph above a sentence this project had already quoted. WHAT IS GENUINELY NEW HERE IS THE HOAD MATERIAL AND THE 1996-2000 ROSTERS. Netherwood's destination is already documented in his own article from the YMCA Directory and the South Shore YMCA's own page, and the 1995 report's 'Cape Cod... Quincy' adds nothing to it except the association's looseness about which town. || A CORRECTION TO THIS FACT'S OWN REGISTRATION, 2026-09-07: the 1996 volume was NOT unregistered. Its record is src_cache_sgw_ymca_annual_report_1996, and a duplicate created here under the src_ymf_ pattern was removed the same hour. See f_5721.",
       "sources": [
         "src_ymf_sgw_ymca_annual_report_1995",
-        "src_ymf_sgw_ymca_annual_report_1996",
+        "src_cache_sgw_ymca_annual_report_1996",
         "src_ymf_sgw_ymca_annual_report_1997",
         "src_ymf_sgw_ymca_annual_report_1998",
         "src_ymf_sgw_ymca_annual_report_1998_1999",
@@ -102474,6 +102474,36 @@
       "date_ref": "2000-2001",
       "conflicts_with": [],
       "added_version": "11.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5720",
+      "claim": "FORTY SUBSIDISED CHILDREN IN THE CENTENNIAL SUMMER, AND THE ONLY GROWTH RATE THIS PROJECT HAS FOR CAMPERSHIPS. The 1994 annual report's Kanawana section, read whole 2026-09-07: 'Forty children were subsidized for camp this past summer, A 10 % INCREASE OVER 1993.' So the camp subsidised 40 children in 1994 and, on the report's own arithmetic, about 36 in 1993. THAT EXTENDS A THREAD modern-era.md already works carefully at the other end: 27 children at a total of $13,000 in 2000-01, about $481 each, against $255,000 for over 480 children across all the association's camps eleven years later, about $530 each -- 'the per-child figure barely moves across the decade.' The 1994 line adds no dollar figure and so cannot join that arithmetic, but it does something the dollar figures cannot: it gives a RATE OF CHANGE, stated by the association rather than derived here. THE REST OF THE 1994 SECTION WAS ALREADY WRITTEN UP, checked line by line rather than assumed -- the 100th year, the Labour Day alumni reunion drawing over 200 past campers and staff, the 101 per cent capacity and the 70 per cent return rate 'among the highest in the country' all appear in centennial-1994.md and attendance-series.md. This one sentence sits under a repeated 'KAMP KANAWANA CONTD' heading where the column breaks, which is the likeliest reason it was passed over: the section looks finished before it is.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1994"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1993-1994",
+      "conflicts_with": [],
+      "added_version": "11.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5721",
+      "claim": "THE SAME WRONG SOURCE ID, A FOURTH TIME, AND THIS TIME IT BECAME A DUPLICATE RECORD RATHER THAN A DANGLING ONE. f_5157 records deriving 'src_ymf_sgw_ymca_annual_report_1996' from its neighbours' naming pattern three times in one session, when the record is src_cache_sgw_ymca_annual_report_1996; its stated remedy was to RUN THE LOOKUP AS A COMMAND BEFORE TYPING THE ID rather than restate the rule. On 2026-09-07 I ran a lookup and still got it wrong, because I asked the wrong question: I tested whether the id 'src_ymf_sgw_ymca_annual_report_1996' EXISTED, it did not, and I concluded the FILE was unregistered and created a record for it. THE TEST WAS FOR A NAME AND THE QUESTION WAS ABOUT A DOCUMENT. Both records then pointed at sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-1996.txt, which is the duplicate-source defect p_303 spent a pass removing, reintroduced by the check meant to prevent it. Removed the same hour, f_5717 and the joanna-hoad.md source note repointed to the surviving record, and its read_state and notes carried over. WHAT ACTUALLY PREVENTS IT: before registering any source, grep sources.json FOR THE CACHE PATH, not for a candidate id. A path is what a document has; an id is what somebody chose to call it, and this corpus uses two prefixes with nothing in the filename to say which. THE HARNESS CAUGHT THE CONSEQUENCE, twice over and both times because it was widened earlier the same day: the whole-wiki [src_] existence pass flagged joanna-hoad.md the moment the duplicate was removed, and it flagged it as an E1-REVIEWED article, which the old draft-only scope would not have looked at.",
+      "sources": [],
+      "confidence": "inferred",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026-09-07",
+      "conflicts_with": [],
+      "added_version": "11.06",
       "added_by": "ralph_loop"
     }
   ]

@@ -19875,24 +19875,6 @@
       "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
     },
     {
-      "source_id": "src_ymf_sgw_ymca_annual_report_1996",
-      "type": "report",
-      "title": "Sgw ymca annual report 1996 — \"1996 Annual Report\"",
-      "date": "1996",
-      "date_precision": "year",
-      "origin": "internet_archive",
-      "origin_url": "https://archive.org/details/sgw-ymca-annual-report-1996",
-      "cache_path": "sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-1996.txt",
-      "char_count": 35654,
-      "ingested_at": "2026-09-05T00:00:00Z",
-      "extracted": true,
-      "extraction_version": "v11.03",
-      "reliability": "secondary",
-      "notes": "REGISTERED 2026-09-07 under p_259. The file had been on disk since 2026-09-05 under no source record at all, which is the same defect f_5713 records one level up: the material was reachable and nothing pointed at it. Its Senior Management section names 'Hoad, Joanna (Director; Kamp Kanawana)', one of the six volumes that document a directorship this project had been calling uncorroborated (f_5717).",
-      "read_state": "partial",
-      "read_state_basis": "2026-09-07 under p_259: the Senior Management roster read for the Kanawana director. THE REST OF THE VOLUME IS NOT READ."
-    },
-    {
       "source_id": "src_ymf_sgw_ymca_annual_report_1997",
       "type": "report",
       "title": "Sgw ymca annual report 1997 — \"1997 Annual Report\"",
@@ -25558,8 +25540,8 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "read_state": "unread",
-      "read_state_basis": "none: catalogued 2026-09-02 from a cached file that belonged to no source record",
+      "read_state": "partial",
+      "read_state_basis": "2026-09-07 under p_259: the KAMP KANAWANA section read whole, including the continuation under a repeated 'KAMP KANAWANA CONTD' heading where the column breaks (f_5720). THE REST OF THE VOLUME IS NOT READ.",
       "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read. | 2026-09-06: searched for the McBride name under p_441; committee and board listings extracted to f_5010. This was a NAME SEARCH, not a close read -- the read_state is unchanged deliberately."
     },
     {
@@ -25577,8 +25559,8 @@
       "extraction_version": null,
       "reliability": "primary",
       "read_state": "partial",
-      "read_state_basis": "read for Kanawana content 2026-09-06 under p_454; the rest of the volume not read.",
-      "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read."
+      "read_state_basis": "read for Kanawana content 2026-09-06 under p_454; the rest of the volume not read. || 2026-09-07 under p_259: the Senior Management roster read for the Kanawana director ('Hoad, Joanna (Director; Kamp Kanawana)'), one of the six volumes documenting a directorship this project had been calling uncorroborated (f_5717). THE REST OF THE VOLUME IS NOT READ.",
+      "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read. [2026-09-07: A DUPLICATE OF THIS RECORD WAS BRIEFLY CREATED AND REMOVED THE SAME HOUR. Registering the 1996 volume for f_5717, I tested whether a source existed by searching for the id 'src_ymf_sgw_ymca_annual_report_1996' -- the naming pattern its siblings use -- rather than by cache_path, and this record's id begins src_cache_. So the file appeared unregistered when it was not. The test was for a NAME and the question was about a DOCUMENT, which is the same error as the greps that failed elsewhere this session. Check by cache_path.]"
     },
     {
       "source_id": "src_cache_the_college_bulletin_1932_09",
@@ -29623,5 +29605,5 @@
       "notes": "Not an external source. A measurement run against this repo: fact-id citation coverage across all wiki articles, plus a 30-fact probe sample testing whether uncited content is present under a numbered source note. Method and caveats are in f_5693 and in logs/pipeline.log."
     }
   ],
-  "source_count": 1759
+  "source_count": 1758
 }
