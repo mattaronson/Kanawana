@@ -367,7 +367,8 @@
         "src_ymf_sgw_ymca_annual_report_1946",
         "src_ymf_sgw_ymca_annual_report_1948",
         "src_ymf_sgw_ymca_annual_report_1949",
-        "src_ymf_sgw_ymca_annual_report_1963"
+        "src_ymf_sgw_ymca_annual_report_1963",
+        "src_ymf_1948_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls"
       ],
       "open_questions": 0,
       "cross_links": [
@@ -383,7 +384,7 @@
         "traditions/order-of-owens"
       ],
       "file_id": "13MmwA1lO_3J3rJ7yEZjwsvT--vWooITy",
-      "word_count": 7460,
+      "word_count": 7658,
       "tags": {
         "era": [
           "1920s",
@@ -3588,7 +3589,8 @@
         "src_ymf_sgw_ymca_annual_report_1933",
         "src_ymf_sgw_ymca_annual_report_1913",
         "src_ymf_ka_news_1977_12_01",
-        "src_mcgill_daily_1949_05_25"
+        "src_mcgill_daily_1949_05_25",
+        "src_mcgill_daily_1989_02_20"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -3603,7 +3605,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 8548,
+      "word_count": 8683,
       "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral. 2026-06-20: Added Indigenous territory context (f_1315) and Mille-Isles regional history (f_1314). 2026-06-21: Added 1976 Lovell's directory listing (f_1331) and 2023 superintendent's house fire (f_1333). | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph about the Weredale lease into a new Research Notes > Revision History section (this article previously had no Research Notes section at all). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -5850,7 +5852,7 @@
         "camp-thunderbird"
       ],
       "file_id": null,
-      "word_count": 6116,
+      "word_count": 7056,
       "notes": "RALPH R1 complete (2026-06-21): 30+ web searches returned zero new facts. Article meets draft criteria (Overview summary, 3 content sections, 3 sources). All remaining open questions require physical Concordia Archives access (P0145/12G). BAnQ newspaper facts (f_1326-f_1339) checked — none mention Camp Perrot. Advanced stub→draft. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header, moved the '12G sub-series' correction and the Batch 7 research-pass summary into a new Research Notes > Revision History section (this article previously had no Research Notes section). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -7206,7 +7208,8 @@
         "src_ia_ymca_annual_1994_fr",
         "src_ia_the_lookout_1993",
         "src_ymf_sgw_ymca_annual_report_1984",
-        "src_ymf_sgw_ymca_annual_report_1985"
+        "src_ymf_sgw_ymca_annual_report_1985",
+        "src_mcgill_daily_1989_02_20"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -7221,7 +7224,7 @@
         "oldest-camp-question"
       ],
       "file_id": null,
-      "word_count": 1780,
+      "word_count": 1903,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, softened two dated bold-label markers in prose ('Resolved 2026-07-09', 'Important disambiguation (2026-07-09)') into plain encyclopedic prose since they weren't corrections requiring a Revision History move. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

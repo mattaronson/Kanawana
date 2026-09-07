@@ -1,7 +1,7 @@
 # The 1994 Centennial
 
-*Status: E1-reviewed | Sources: 13*
-*Last Updated: 2026-09-06 (the newsletter redated to autumn 1993; the 75th anniversary of 1983)*
+*Status: E1-reviewed | Sources: 14*
+*Last Updated: 2026-09-07 (the documentary's title was the camp's own slogan first)*
 
 ## Overview
 
@@ -30,6 +30,8 @@ The YMCA of Montreal's 1993 annual report (Board Chairman Marcel Coté; Presiden
 ## The 1993 Documentary
 
 In 1993, one year before the centennial, a documentary titled *Kamp Kanawana: The Experience that Lasts a Lifetime* was produced by Laurentien Productions for the Montreal YMCA, directed by Cathy Reeves. The 9-minute colour VHS (released 1996) features the song "On My Way to Kanawana" by Richard "Itch" Kerr and describes the camp as the oldest in Quebec and second oldest in Canada. An access copy exists on YouTube.^3
+
+**The title was the camp's own advertising line before it was a film.** "The experience that lasts a Lifetime!" closes Kamp Kanawana's counsellor recruitment advertisement in *The McGill Daily* of **20 February 1989**, set as a tagline under the address and telephone number — four years before the documentary.^14 So Laurentien Productions took the camp's slogan for a title rather than giving the camp a phrase, and Grace McMorris's thesis title reaches back past the film to the camp's own marketing language.
 
 ## Context
 
@@ -76,3 +78,4 @@ Bruce Netherwood was Director of Camp Kanawana from 1988 to 1994, meaning the ce
 11. YMCA of Montreal Annual Report 1993 (Internet Archive, item sgw-ymca-annual-report-1993); retrieved via operator browser research, June 2026 [src_ia_ymca_annual_1993].
 12. YMCA of Montreal Annual Reports, 1989 (French), 1990, 1994 (English and French) [src_ia_ymca_annual_1989_fr, src_ia_ymca_annual_1990, src_ia_ymca_annual_1994, src_ia_ymca_annual_1994_fr].
 13. *The Lookout* Vol. 1 No. 3 (Kanawana Alumni Committee, autumn 1993) [src_ia_the_lookout_1993], and the YMCA of Montreal annual reports for the years ended **31 May** 1984 and 1985 [src_ymf_sgw_ymca_annual_report_1984, src_ymf_sgw_ymca_annual_report_1985], whose camping seasons are the summers of 1983 and 1984. See [f_5008] and [f_5047]. **[Corrected 2026-09-06:** this note read "for the years ending March 1984 and March 1985." The 1984 report's title page says "for the year ended May 31, 1984." The seasons are unchanged — a June-to-May year contains the earlier summer — but the association used a 31 March year-end only through 1950. See [f_5081].**]**
+14. Kamp Kanawana counsellor recruitment advertisement, *The McGill Daily* Vol. 78 No. 83, 20 February 1989, p. 14 [src_mcgill_daily_1989_02_20]: "The experience that lasts a Lifetime!" Transcribed at `sources/cache/mcgill/2026-09-07-kanawana-ad-1989-and-perrot-doctors-1948.txt`. Found by the whole-corpus sweep of 9,890 McGill student publication items under p_479. See [f_5428].

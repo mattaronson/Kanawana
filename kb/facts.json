@@ -1,8 +1,8 @@
 {
-  "version": "9.62",
-  "kb_version": "9.62",
+  "version": "9.64",
+  "kb_version": "9.64",
   "migrated_from": "3.3",
-  "fact_count": 5389,
+  "fact_count": 5396,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -97192,6 +97192,126 @@
       "conflicts_with": [],
       "added_version": "9.62",
       "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5428",
+      "category": "documents",
+      "date_ref": "1989-02-20",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "'THE EXPERIENCE THAT LASTS A LIFETIME' WAS THE CAMP'S ADVERTISING SLOGAN BEFORE IT WAS A FILM TITLE. It closes Kanawana's counsellor recruitment advertisement in The McGill Daily of 20 FEBRUARY 1989, set as a tagline. This project knows the phrase only as the title of the 1993 YMCA promotional documentary 'Kamp Kanawana: The Experience that Lasts a Lifetime', produced by Laurentien Productions -- cited that way in history/centennial-1994.md and traditions/myths-and-legends.md -- and as the title Grace McMorris borrowed for her MA thesis (Concordia, 2023 -- written 2019 here in the first draft of this fact and corrected on the spot against the article's own citation). THE ORDER IS THE OTHER WAY ROUND. The phrase was in the camp's own advertising four years before the film, so the documentary took its name from an existing slogan rather than giving one to the camp. That also means McMorris's thesis title reaches back past the film to the camp's own marketing language, whether or not she knew it.",
+      "sources": [
+        "src_mcgill_daily_1989_02_20"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.63",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5429",
+      "category": "site",
+      "date_ref": "1989-02-20",
+      "entities": [
+        "Camp Kanawana",
+        "Lake Wilson"
+      ],
+      "claim": "1200 ACRES AND THREE PRIVATE LAKES, STATED BY THE CAMP ITSELF IN 1989. 'Kamp Kanawana, a coed camp for children aged 7-15, is situated in the heart of the Laurentians near St. Sauver [sic], on 1200 ACRES OF LAND AND THREE PRIVATE LAKES.' site/the-kanawana-site.md tabulates the reported acreage and carries '1,200 acres of private land and lakes' on the authority of The Gazette of 18 April 1974, with a note that the figure 'is not a journalistic outlier -- it is the tail of a period'. THIS EXTENDS THAT PERIOD BY FIFTEEN YEARS AND REMOVES THE JOURNALIST: the camp was still advertising 1200 acres in 1989, in its own words, to prospective employees. The three private lakes match the article's own Three Lakes section and the 1958 annual report's 'three lakes and a part of a fourth'.",
+      "sources": [
+        "src_mcgill_daily_1989_02_20"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.63",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5430",
+      "category": "institutional",
+      "date_ref": "1948-1989",
+      "entities": [
+        "Camp Kanawana",
+        "McGill University"
+      ],
+      "claim": "THE CAMP RECRUITED COUNSELLORS OUT OF McGILL'S STUDENT NEWSPAPER ACROSS FORTY-ONE YEARS. The same corpus sweep supplied Kanawana display advertisements in The McGill Daily of 20 May 1948 ('FIVE VACANCIES on our Counsellor Staff. Phone: R. D. Locke, Director'), 25 May 1949 ('FOUR VACANCIES'), and 20 February 1989 ('a coed camp for children aged 7-15... phone or write to: Kamp Kanawana, 1441 Drummond St.'). Three points forty-one years apart, all of them the camp buying space in a university paper to fill its staff, which is the same practice the 1962 Georgian advertisement and the Sir George Fellowship material show from the other side. NOTE THE SEASONAL SHIFT: the 1948 and 1949 advertisements ran in the LAST WEEK OF MAY, filling a late gap; the 1989 one ran in FEBRUARY, which is recruiting rather than patching. A PHONE NUMBER COINCIDENCE, RECORDED AS ONE AND NOT AS CONTINUITY: the 1948-49 advertisements give 'MA. 8331' and the 1989 one gives 849-8331. Under the letter-exchange system MA maps to 62, which would give 628-8331; and 849 is the exchange of the Y's Metropolitan Offices at 1441 Drummond Street, given as 849-5331 in the bulletin of 29 January 1970. Either the subscriber number survived a change of exchange or the last four digits recur by chance, and nothing here settles it.",
+      "sources": [
+        "src_mcgill_daily_1989_02_20"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.63",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5431",
+      "category": "meta",
+      "date_ref": "1948",
+      "entities": [
+        "Camp Perrot",
+        "research method"
+      ],
+      "claim": "THE txts[0] BUG PUT A SECOND FALSE STATEMENT ABOUT THE ARCHIVE INTO THIS PROJECT'S RECORDS, AND THIS ONE MISCHARACTERISED A WHOLE DOCUMENT. The source record for the 1948 Camp Perrot item was titled 'Suggestions / Recommendations, Camp Perrot 1948 (CATALOGUED AS A SEASON REPORT; IT IS NOT ONE)'. The catalogue was right. The item holds TWO _djvu.txt files -- '1948 Camp Perrot Suggestions and Recommendations' (22,322 bytes) and '1948 Report of the Montreal YMCA Camp Perrot for Boys and Girls' (24,374 bytes) -- and the sweep read only the first alphabetically, found a recommendations document, and concluded the archive had catalogued it wrongly. THE SEASON REPORT WAS THE OTHER FILE ALL ALONG: addressed 'To the: Camp Board of Management', opening 'The fifth season for the YMCA Camp on Ile Perrot may be termed the \"Building Year\"', signed A. T. DODDS, CAMP DIRECTOR. And the report NAMES ITS OWN COMPANION in its Recommendations section: 'A formal and detailed report containing suggestions, recommendations and procedures has been prepared and tabled with the special Committee dealing with Camp Perrot.' So the item is both documents and the report itself says so. RECOVERED BY rescan_multi.py, the back-fill written for f_5427, which hit on this item within its first 224. Two false archival statements from one bug in one afternoon -- the 2005-06 calendar 'gap' and this -- is the measure of what a silent instrument defect costs.",
+      "sources": [
+        "src_ymf_1948_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5432",
+      "category": "traditions",
+      "date_ref": "1948",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Perrot",
+        "canoe trips"
+      ],
+      "claim": "KANAWANA CANOE PARTIES USED CAMP PERROT AS A STOP IN 1948, AND PERROT COUNTED THEM. The 1948 season report's table of overnight boys' hike groups using the property lists, among Central, Westmount, Southwestern and Point St. Charles Y boys: 'KANAWANA CANOE PARTIES (2 VISITS) 20'. This wiki's canoe-trips article records that by 1945 the routes were codified into a tiered system including '7-8 day trips to Ile Perrot and Grenville for intermediates', which is Kanawana's own account of where its trippers went. THIS IS THE OTHER END OF IT -- the receiving camp counting the parties that arrived, twice in one season, twenty boys in all. It also puts the two YMCA camps in an operational relationship rather than merely an institutional one: Kanawana's intermediate trippers paddled to the association's other camp and slept there.",
+      "sources": [
+        "src_ymf_1948_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5433",
+      "category": "people",
+      "date_ref": "1948",
+      "entities": [
+        "Dr. Lougheed",
+        "Dr. Kelso",
+        "Camp Kanawana",
+        "Camp Perrot"
+      ],
+      "claim": "A KANAWANA STAFF DOCTOR TURNS UP AT CAMP PERROT, AND NEITHER PHYSICIAN OCCURS ANYWHERE ELSE IN THIS PROJECT. From the 1948 report's Health and Safety section: 'DR. KELSO OF ST. ANNE'S again gave unstintingly of his skill and professional services... When Dr. Kelso left on his holidays he asked the doctor taking over his practice to keep a watchful eye on his wards. DR. LOUGHEED, HIS SUCCESSOR, CONTINUED THE INTEREST IN OUR CAMP AND WE WERE AGREEABLY SURPRISED TO LEARN THAT DR. LOUGHEED HAD FORMERLY BEEN ON THE STAFF OF KAMP KANAWANA.' Both appear again in the staff roster under HOSPITAL, beside Miss Marie Comeau, R.N. Greped before writing: 'Kelso' and 'Lougheed' occur ZERO times across wiki/, kb/facts.json, project-docs/ and sources/sources.json. WHAT THIS GIVES AND WHAT IT DOES NOT: a named medical member of Kanawana's own staff, a category this project has almost nothing in -- but with no year for that service and no first name. It also documents the mechanism by which a country doctor's unpaid camp duty passed to his locum, and that Dr. Kelso of Sainte-Anne-de-Bellevue had served more than one season ('again').",
+      "sources": [
+        "src_ymf_1948_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5434",
+      "category": "site",
+      "date_ref": "1948",
+      "entities": [
+        "Camp Perrot"
+      ],
+      "claim": "CAMP PERROT'S 1948, THE 'BUILDING YEAR', FROM A SEASON REPORT THIS PROJECT HAD NEVER READ. THE SEASON: the fifth, eight weeks against nine in 1947, with the girls given only two (9-23 August); 251 different campers (162 boys, 89 girls) against 260 in 1947; 546 branch registrations led by the camp office (195) and Lachine (133); 800 parents and friends visiting on Sundays, brought by a special Provincial Transport Company bus; 96 boys passing swim tests; 90 boys on one-day and 63 on overnight canoe trips; and 920 people in non-camping use of the property by twenty-odd organisations before, during and after the season. THE BUILDINGS: a new DINING HALL for 160 campers and staff or 250 for day groups, judged usable year-round including 'small beginner ski parties in the winter', inaugurated TUESDAY 29 JUNE 1948 with COL. GERALD W. BIRKS officiating, its fireplace stonework carried to the roof to make a 'Hearth' for the camp; a kitchen with an 80-gallon jack-heater, automatic electric refrigeration, a cooler room, an automatic bread and meat cutter and a drilled well pumping forty gallons a minute; and the JOHN W. ROSS MEMORIAL HOSPITAL -- surgery, nurse's bed-sitting room, a four-bed ward and an outside convalescent porch -- DEDICATED SUNDAY AFTERNOON 8 AUGUST 1948, the Rev. Leonard Griffiths officiating, Mr. J. W. Beaton speaking on Dr. Ross's life and Mr. JOHN F. LEWIS, Chairman of the Camp Committee, presiding, with the Association 'deeply indebted to Mr. J. Ernest Millen and his family for his very generous bequest'. NAMES: contractor E. LEDUC (who also built the camp's new six-drum raft), architect E. WIGGS, building superintendent L. CLARKE, and H. C. CROSS among the Board of Management friends who dropped in -- see people/harold-cross. The Foremen's Club of Montreal under N. MILLINGTON took the old barn as a service project, laying a new floor and wiring it for a future recreation hall. A 1929 Ford station-wagon was sold to buy a 1935 ton-and-a-half truck whose motor had to be replaced at mid-season. TRAINING: every counsellor received a specially prepared TWELVE-PAGE 'Camp Perrot Counsellors Training Course' booklet, 'a digest of many books, articles and the experience of the Camp Director'; all boys' and girls' counsellors met at camp for a combined course on the weekend of 25-27 June; and over 50 per cent of 1947's leaders returned. ONE AMBIGUITY LEFT OPEN: the Chapel section calls MR. HERB PATTERSON 'the Camp Director' while the report is signed A. T. DODDS, Camp Director. Nothing here reconciles them.",
+      "sources": [
+        "src_ymf_1948_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.64",
+      "added_by": "ralph_loop"
     }
   ]
 }

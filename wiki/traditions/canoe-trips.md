@@ -1,7 +1,7 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 28*
-*Last Updated: 2026-09-07 (Les Voyageurs de la Vérendrye spun out to its own article)*
+*Status: E1-reviewed | Sources: 29*
+*Last Updated: 2026-09-07 (Perrot's own count of Kanawana canoe parties, 1948)*
 
 *Earlier revisions: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
@@ -12,6 +12,8 @@ Canoe trips were introduced to Kanawana's program in 1925, offered as an optiona
 The program expanded significantly through the 1930s. In 1936, trips began departing for the Lake Archambault region north of the camp, and by the following summer eight separate trips were heading to the Archambault area in a single season. The shift from short local paddles to multi-day wilderness expeditions marked a fundamental change in how Kanawana understood its relationship to the Laurentian landscape. Camp was no longer just a fixed site. The backcountry became part of the program itself.
 
 By 1945, the routes were codified into a tiered system: a 3-day Lachute trip for beginners, 7-8 day trips to Île Perrot and Grenville for intermediates, and a 10-day Ottawa River trip for seniors.^mc The program continued to expand: by 1950, six canoe trips per week were departing, with routes extending beyond Archambault to include the Ottawa and Pembina rivers. Six trips per week meant that canoe tripping had become not a special activity but a core, ongoing feature of the summer, with groups constantly rotating through departure and return.
+
+**And the receiving camp counted them.** Camp Perrot's season report for 1948 tabulates the overnight groups that used its property, and among the Central, Westmount, Southwestern and Point St. Charles Y boys it lists "**Kanawana Canoe Parties (2 visits) — 20**."^29 That is the other end of the intermediate route described above: twenty Kanawana trippers, in two parties, paddling to the association's other camp and sleeping there. It puts the two YMCA camps in an operational relationship and not merely an institutional one. See [[site/camp-perrot|Camp Perrot]].
 
 By 1962, the growth of cottager communities near Kanawana meant canoe trips had to drive over 150 km to reach suitable launch points.^mc The appetite for more remote territory led the camp committee to begin searching in 1956 for a northern site that could serve older, more experienced trippers. After three years of scouting, they chose La Vérendrye Park in 1959 as a base camp for campers aged 15 and older. The YMCA secured a 25-acre lease at Lac Landron as a base camp, and the program was formally named **"Les Voyageurs de La Vérendrye."**^mc That first summer, the Pathfinder section alone went on eighteen canoe trips — to the Rouge River, North River, Lake Kiamika, and Taureau.^mc By 1964, over twenty trips were departing each season.^mc The La Vérendrye canoe trip program, and the L&V Games competition that grew up alongside it, became inseparable from the camp's identity in the decades that followed.
 
@@ -206,6 +208,9 @@ One line in the Montreal YMCA foundation's grants table for 2001-2002 lists, und
 - [[site/the-kanawana-site|The Kanawana Site]]
 - [[people/a-ross-seaman|A. Ross Seaman]]
 
+## Sources
+
+*Renumbered 2026-09-07 when Les Voyageurs de la Vérendrye was spun out to `site/les-voyageurs-de-la-verendrye.md`. Seventeen notes moved to the child and one (the YMCA of Montreal's 112th Annual Report) is cited by both and was duplicated rather than moved. Entries 1, 2, 8, 9, 10 and 11 were already uncited before that cut and are kept, since removing a source record is not a renumbering decision.*
 
 1. McMorris, Grace. *An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967*. MA thesis, Concordia University, 2023. Chapter 3. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/) [src_mcmorris_thesis]
 2. Concordia University Records Management and Archives, Fonds P145, Sub-series 12K: Les Voyageurs de la Vérendrye. Includes exploratory canoe trip logs (1958), La Vérendrye Park pilot project budget (c.1959), welcome document (1960s), Lac Landron lease (1962-63), program brochure (1963), camper records (1967-1980), and review booklet (1982). [src_concordia_fonds]
@@ -235,3 +240,4 @@ One line in the Montreal YMCA foundation's grants table for 2001-2002 lists, und
 26. YMCA of Montreal annual reports for the years ending 31 March **1946**, **1948** and **1949** [src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1948, src_ymf_sgw_ymca_annual_report_1949]. Under the 31 March rule (f_5039) these cover the 1945, 1947 and 1948 seasons. Camps sections read 2026-09-06 under p_441. See [f_5076], [f_5077].
 27. YMCA of Montreal, **112th Annual Report**, for the year ended **31 May 1964** [src_ymf_sgw_ymca_annual_report_1963] — a seventeen-month volume covering 1 January 1963 to 31 May 1964, so its camping season is the summer of **1963** (see [f_5090]). Read 2026-09-06 under p_441. See [f_5091], [f_5092].
 28. YMCA *Rapport Annuel 2001-2002*, French edition [src_ia_sgw_ymca_annual_report_2001_2002_fr], Internet Archive item `sgw-ymca-annual-report-2001-2002-fr`, in the `ymca-montreal-fonds` collection. The foundation grants table. Read 2026-09-07 under p_462 as a second scan of a report whose English edition this project already holds. See [f_5257].
+29. "Report of the Montreal YMCA Camp Perrot for Boys and Girls", 1948, signed A. T. Dodds, Camp Director [src_ymf_1948_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls]. The table of overnight groups using the property. Recovered 2026-09-07 from the second text file of an item this project had read only the first of. See [f_5432].

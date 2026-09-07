@@ -1,6 +1,6 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 61*
+*Status: E1-reviewed | Sources: 62*
 *Last Updated: 2026-09-07 (the 600-acre figure attested publicly in May 1949, outside the annual reports)*
 
 ## Overview
@@ -177,6 +177,7 @@ the Kanawana site has ever been surveyed."^35
 | ~1,000 acres | Kamp Kanawana annual report 1964; SGW YMCA annual report 1964; YMCA news release 13 May 1969; Kamp Kanawana annual reports 1969 and 1970^37 |
 | *(a purchase, size unstated)* | **112th annual report**, year ended 31 May 1964: "Additional property was purchased by Kamp Kanawana"^54 |
 | 1,200 acres "of private land and lakes" | *The Gazette*, 18 April 1974^38 |
+| **"1200 acres of land and three private lakes"** | *The McGill Daily*, **20 February 1989** — a Kanawana counsellor recruitment advertisement^62 |
 | 455 acres land / 537 acres total | Royal LePage report to the YMCA, 1989, quoted in the 1988 Task Force report^35 |
 | 1,000 acres "of wooded property" | *Summer Camps & Programs* (American camp guide), 1983^47 |
 | 500 acres | *Canadian Summer Job Directory*, 2006 edition^48 |
@@ -184,6 +185,8 @@ the Kanawana site has ever been surveyed."^35
 | 550 acres | *Canadian Summer Job Directory*, 2008 edition^48 |
 
 **On the jump from 600 to 1,000 acres.** The table above steps from 600 acres, which the annual reports give from 1949 to 1959, to about 1,000, which everything from 1964 onward gives. The 112th annual report, covering 1 January 1963 to 31 May 1964, contains a line that would explain it: "**Additional property was purchased by Kamp Kanawana.**"^54 No acreage, no price, no vendor — four words in a property section otherwise concerned with building repairs. It is the first document this project holds that reports an acquisition at the right moment, and it is the explanation to test rather than the answer: four hundred acres is a great deal to infer from a sentence that gives no quantity. What would settle it is the deed, or the camp committee minutes for 1963-64.
+
+**And the 1,200 figure outlived the newspaper that carried it.** *The Gazette*'s 1974 report is discussed below as "the tail of a period." The camp was still advertising **1200 acres of land and three private lakes** in February 1989, in its own words, to students it hoped to hire.^62 That extends the period by fifteen years and removes the journalist from it: whatever the 1,200 figure was measuring, the camp itself was still using it at the end of the 1980s.
 
 **On the 600 figure, which is no longer inside-only.** Every entry for 600 acres above came from the association's own annual reports until 2026-09-07. The camp also stated it **in public, to strangers**, in a counsellor recruitment advertisement in *The McGill Daily* of 25 May 1949 — "CAMP SITUATED IN LAURENTIANS — 3 LAKES — 600 ACRES OF WOODED PROPERTY" — where an overstatement would have been checkable by anyone who took the job.^61 That is dated to **May 1949**, the very first year of the reports' 600-acre range, so the figure was in circulation from the start of it rather than settling in later. It does not resolve the jump to 1,000 acres and it does not settle the sixty-acre problem below; what it does is remove the possibility that 600 was an internal reporting convention nobody outside the association ever heard. One small difference to keep: the advertisement says **three lakes** flat, where the 1958 report says three and part of a fourth.
 
@@ -462,6 +465,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 59. Derek V. Walsh, "Ca-News," 1 December 1977 [src_ymf_ka_news_1977_12_01], YMCA of Montreal fonds. Read in full 2026-09-06 under p_418. See [f_5227].
 60. *The Canadian Almanac and Directory*, "Post Offices and Railroad Stations in Canada", read edition by edition on 2026-09-07 [src_canadian_almanac_1917_1918]: the editions for **1910, 1911, 1943, 1951, 1954, 1956, 1957, 1958, 1960, 1961, 1962 and 1968**, each dated from its own title page. The dagger that the table's legend defines as "not a post office" is what carries the argument, and it is read against Kananaskis and Kanasuta, which carry it throughout, and Kanata and Kandahar, which never do. Every run quoted out in full, with the OCR as it stands, at `sources/cache/postal/2026-09-07-canadian-almanac-edition-by-edition.txt`. See [f_5345], [f_5346], [f_5347], [f_5348].
 61. Kamp Kanawana counsellor recruitment advertisement, *The McGill Daily* Vol. 38 No. 100, 25 May 1949 [src_mcgill_daily_1949_05_25]: "CAMP SITUATED IN LAURENTIANS — 3 LAKES — 600 ACRES OF WOODED PROPERTY." Transcribed at `sources/cache/mcgill/2026-09-07-kanawana-counsellor-ads-1948-1949.txt`. See [f_5415].
+62. Kamp Kanawana counsellor recruitment advertisement, *The McGill Daily* Vol. 78 No. 83, 20 February 1989 [src_mcgill_daily_1989_02_20]: "on 1200 acres of land and three private lakes." Transcribed at `sources/cache/mcgill/2026-09-07-kanawana-ad-1989-and-perrot-doctors-1948.txt`. See [f_5429].
 
 ## Research Notes
 
