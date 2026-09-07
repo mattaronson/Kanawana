@@ -1,7 +1,7 @@
 # The Modern Era: The Two-Tier Era (1995–Present)
 
-*Status: draft | Sources: 25*
-*Last Updated: 2026-09-06 (the credit directories, which date the Drummond Street move and settle whose staff figures they are)*
+*Status: draft | Sources: 26*
+*Last Updated: 2026-09-07 (the 2026 handbook's mission and six named values)*
 
 ## Overview
 
@@ -318,6 +318,46 @@ same thing**; nothing read says the McBride fund was folded into it. But a donor
 "such as… Camp YMCA Kanawana" is the shape a named campership fund would take inside an institutional
 endowment, and the association's endowment reporting is where to look next.
 
+## What the camp says it stands for, 2026
+
+The camp's current parent handbook opens with a mission and six named values, each with a paragraph of its
+own, and none of the six had appeared anywhere in this wiki before September 2026.^26 They are worth having
+verbatim, because a camp's own statement of what it is for is the kind of document that later reads as
+period evidence, and because two of them say things the historical record of this place does not.
+
+The mission: "Camp YMCA Kanawana strives to create a camp community where everyone feels safe and valued;
+where everyone has a chance to grow; where our actions and behaviors are driven by our common YMCA values,
+including **non nobis solum** (not for ourselves alone); and where we care for each other and the
+environment." The motto, which this wiki traces back through the camp's plaques and publications, is written
+into the mission statement itself.
+
+**Caring** is glossed as connection "with oneself, with others, and with nature," and specifically as
+learning "to disconnect from technology so they can reconnect with each other" — which the handbook backs
+with policy rather than sentiment: campers do not bring phones, may not use the camp telephone as a rule,
+cannot use computers, and write home once a week on a sheet of paper that the office scans and emails. The
+guide calls the place an "**unplugged** environment."
+
+**Inclusion** is the one that states a position: "To be a Kanawanian is to be part of a community that
+embraces diversity and welcomes all, regardless of cultural or socio-economic background, **gender identity,
+or sexual orientation**. Our inclusion program also aims to create a safe and accessible environment for
+children and youth with different needs and diverse abilities, from physical limitations, to behavioral
+challenges, to struggles with mental well-being." Read against
+[[history/coeducation-gender|Coeducation and Gender at Kanawana]], which follows this camp from a boys'
+institution through the 1968 admission of girls, that sentence is the end of a long argument, and it is
+stated in a document handed to every parent rather than in a policy nobody reads.
+
+**Solidarity** puts the motto to work — "campers learn to cooperate, to take care of one another, and to
+build cohesive groups… We emphasize **democratic living** and teamwork in everything we do" — a phrase with a
+history at this camp, since democratic living is what the 1953 Planned Group Development pilots were about.
+**Boldness** is the unusual one: "we choose not to rest on the successes of our past, instead we dare to
+implement intentional change." **Performance** claims "over 130 years of summer camping." **Respect** runs
+from campers and staff through "camp's infrastructure and equipment, the forest and lake on which we live at
+camp, and the natural world on a more global scale."
+
+The handbook also asks families to go through a **Camper Behavior Agreement** with their children — seven
+promises, framed as a commitment to the community and its motto, of which the last is "Contribute with my
+happiness, enthusiasm and humour."
+
 ## Open Questions
 
 1. [Important] How exactly did the annual reports' single "Director" listings track the Executive-versus-on-site split in years like 2001–2007, when the record shows apparent inconsistencies (e.g. François Dauphin's 2007 head-office title alongside Sean Day's on-site presence)? See [[people/directors-index|Directors and Staff of Camp Kanawana]]'s Open Questions for the full discussion.
@@ -366,6 +406,7 @@ endowment, and the association's endowment reporting is where to look next.
 23. YMCAs of Québec, community reports for **2013**, **2014**, **2015** and **2017** [src_ymf_sgw_ymca_community_report_2013, src_ymf_sgw_ymca_community_report_2014, src_ymf_sgw_ymca_community_report_2015, src_ymf_sgw_ymca_community_report_2017], each printing the Camp YMCA Kanawana committee roster; and the "CITS 95" plaque transcribed at [[people/dan-aronson|Dan Aronson]] [src_flickr_kanawana_plaque_album]. See [f_5581] and [f_5582].
 24. YMCAs of Québec, community reports for **2016** and **2021** and impact reports for **2024** and **2025** [src_ymf_sgw_ymca_community_report_2016, src_ymf_ymca_community_report_2021_eng, src_ymf_ymca_impact_report_2024, src_ymf_ymca_impact_report_2025]. Read 2026-09-07 under the sharpened p_441. See [f_5585] and [f_5586].
 25. YMCA of Montreal, annual report for **2000-2001** [src_ymf_sgw_ymca_annual_report_2000_2001]. Read 2026-09-07 under the sharpened p_441. See [f_5588].
+26. *Camp Kanawana Preparation Guide, Summer 2026* (parent handbook) [src_kk_prep_guide_2026], published on ymcaquebec.org and cached at `sources/cache/parent-guides/Camp-Kanawana-GUIDE-Parent-EN_2026.txt`, 74,071 characters; read word for word 2026-09-07 under p_487, having previously been marked *extracted* while its own record said a full extraction was outstanding. See [f_5603].
 
 ## Research Notes
 

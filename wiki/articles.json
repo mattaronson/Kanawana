@@ -1270,7 +1270,8 @@
         "src_ymf_sgw_ymca_annual_report_1961",
         "src_ymf_sgw_ymca_annual_report_1997",
         "src_ymf_1973_wilderness_camp_directors_report",
-        "src_ymf_the_green_triangle_1939_07_22"
+        "src_ymf_the_green_triangle_1939_07_22",
+        "src_kk_prep_guide_2026"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -1285,7 +1286,7 @@
         "french-language-camping"
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-      "word_count": 13515,
+      "word_count": 14175,
       "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, renamed the orphaned 'R3 Verification Notes' H2 to the standard 'Research Notes' heading and condensed its bullet list into a single HTML-comment process-log entry. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -9907,7 +9908,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 5529,
+      "word_count": 6073,
       "notes": "2026-07-11: Workstream C4 spawn (4 of 4, final). Connective-narrative synthesis, no new research conducted. Ties together this session's institutional-role-director spawns into continuous narrative history. This completes Workstream C4 and the full operator-approved plan. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
       "tags": {
         "era": [
@@ -10903,7 +10904,8 @@
         "src_ymf_the_green_triangle_1936_10_17",
         "src_ymf_the_montreal_ymca_1851_2001_anniversary_publication",
         "src_ymf_newsletter_1969_03_27",
-        "src_ymf_ymca_impact_report_2024"
+        "src_ymf_ymca_impact_report_2024",
+        "src_kk_prep_guide_2026"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -10918,7 +10920,7 @@
         "cca-statistics"
       ],
       "file_id": null,
-      "word_count": 10512,
+      "word_count": 10674,
       "notes": "Created 2026-08-14 (p_256) from the 114-annual-report sweep. ~60 seasons of camper counts and camper-weeks, 1894-2023, with SIX internal inconsistencies carried as flags rather than resolved -- every one of them the association contradicting itself. Kept as a separate article so the contradictions travel with the numbers. No aggregate totals computed: too many missing years, the 1998-2001 rows count a different population, and the two documented lifetime totals (40,000 in 1964, 34,000 in 1984) contradict each other. Marked draft, not stub, because it is transcription of primary figures rather than synthesis; NOT yet VERIFY-passed -- figures should be spot-checked against the OCR before advancing."
     },
     {

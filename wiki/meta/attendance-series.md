@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 41*
+*Status: draft | Sources: 42*
 *Last Updated: 2026-09-07 (240 in 1936; and "some 700" around 2001)*
 
 ## Overview
@@ -218,6 +218,8 @@ youth aged 6 to 17 years **each year**" is a recurring capacity statement rather
 figure across the day camps and the resident camp. Both would sit convincingly in a column of camper
 numbers and both would be wrong there. *The value of this series is that its gaps are honest; a figure that
 looks like a data point and is not is worse than the gap it fills.*
+
+**A footnote to the first of those two, added 2026-09-07.** The camp's own 2026 parent guide states, in a passage about lost property rather than about attendance, that "**more than 2,000 participants and staff visit Camp YMCA Kanawana between May and October**."^42 That is the same order of magnitude as the 2010 "more than 2,000 youth aged 6 to 17 each year" and it carries the qualification the 2010 sentence lacked: a **season** rather than a year, and **participants and staff** rather than campers. It is still not a camper count and is still not entered in the table. What it does is explain the 2010 figure: a round number for everyone who comes through the gate across a six-month operating season, which is a real thing the camp knows about itself and simply not the thing this series measures.
 
 ## Where the record disagrees with itself
 
@@ -473,6 +475,7 @@ from inside the camp office, in a year the camp was moving to coeducation.
 39. *The Montreal YMCA 1851–2001*, 150th anniversary publication [src_ymf_the_montreal_ymca_1851_2001_anniversary_publication]. Cached at `sources/cache/ymca-montreal-fonds/the-montreal-ymca-1851-2001-anniversary-publication.txt`; the Kanawana and Otoreke passages and the camp's directory entry read word for word 2026-09-07 under p_482, the rest of the volume not read. A French twin of the same publication is held separately.
 40. YMCA of Montreal newsletter, **27 March 1969** [src_ymf_newsletter_1969_03_27]. Cached at `sources/cache/ymca-montreal-fonds/newsletter-1969-03-27.txt`; read word for word 2026-09-07 under p_482.
 41. YMCAs of Québec, impact report for **2024** [src_ymf_ymca_impact_report_2024]: "782 kids and teens enjoyed a stay in the great outdoors at Camp Kanawana," printed beside "93 campers in our Companion program." Read 2026-09-07 under the sharpened p_441. See [f_5586].
+42. *Camp Kanawana Preparation Guide, Summer 2026* (parent handbook) [src_kk_prep_guide_2026], cached at `sources/cache/parent-guides/Camp-Kanawana-GUIDE-Parent-EN_2026.txt`; read word for word 2026-09-07 under p_487. See [f_5603].
 
 ## Research Notes
 

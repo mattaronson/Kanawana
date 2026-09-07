@@ -5479,3 +5479,45 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   Source basis rewritten from asserted to direct. f_5004 extended in place, text
   kept. facts.json v10.14, 5,564 facts. Verify green, nine checks. Timestamp from
   `date -u` in its own call.
+
+[2026-09-07T15:01:04Z] RESEARCH -- the 2026 parent guide, read properly. Third
+  application of f_5601's tell, and the record contradicted itself in writing:
+  read_state "extracted" while its own note said a full extraction was "flagged
+  as future work". 74,071 characters, seven facts, all logistics.
+  READ IN FULL. What had not been taken, f_5603:
+   - THE DAILY SCHEDULE, hour by hour, the only one this project holds for the
+     modern camp. The MORNING DIP is still first and still optional; the
+     CAMPFIRE is still the last hour for seniors; SECTION CHEERS are still
+     called at lunch "every few days" -- a practice this wiki traces to 1922,
+     with a slot in the printed 2026 timetable. Written into
+     programs-activities.md as a table.
+   - THE SECTION NAMES IN USE: Woodsy, Pioneer, Pathfinder, Coureur des Bois,
+     Voyageur, LIT. Supervision ratios, set by the ACQ not the camp. The
+     kanawoodshop. Overnights on Lake Wilson and OVERDAY trips for 7-9s, which
+     is the shallow end of the tripping ladder.
+   - KANAWOODSTOCK named by the camp as a standing programme; it was in this
+     wiki only as a word on plaques. Also Dancing with the Staff and the
+     Coffee/Cocoa House.
+   - THE SIX NAMED VALUES -- Caring, Inclusion, Solidarity, Boldness,
+     Performance, Respect -- NOT ONE of which appeared anywhere in this project
+     before today. Inclusion states a position: "welcomes all, regardless of
+     cultural or socio-economic background, GENDER IDENTITY, OR SEXUAL
+     ORIENTATION." Read against coeducation-gender.md that is the end of a long
+     argument, printed in a document handed to every parent. Solidarity is
+     glossed "democratic living", which is what the 1953 Planned Group
+     Development pilots were about. Written into modern-era.md.
+   - "MORE THAN 2,000 PARTICIPANTS AND STAFF visit between MAY AND OCTOBER" --
+     the same order of magnitude as the 2010 "more than 2,000 each year" that
+     attendance-series.md declined to take, and carrying the qualification the
+     2010 sentence lacked. Added as a footnote to that refusal; STILL NOT
+     ENTERED IN THE TABLE, because it is a gate count over a six-month season,
+     not campers.
+  THE FRENCH EDITION WAS THE OTHER HALF OF THE DEFECT and is downgraded, not
+  upgraded: it claimed "extracted" with ZERO facts and a note saying its extra
+  length was "worth checking". Table of contents and section order match the
+  English; 27.7% extra length is within ordinary French expansion; nothing
+  FR-only identified. Now read_state "skimmed" with the comparison recorded.
+  Claiming an extraction that never happened is the failure the read-receipt
+  field exists to prevent.
+  facts.json v10.15, 5,565 facts. Verify green, nine checks. Timestamp from
+  `date -u` in its own call.

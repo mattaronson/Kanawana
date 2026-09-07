@@ -1,8 +1,8 @@
 {
-  "version": "10.14",
-  "kb_version": "10.14",
+  "version": "10.15",
+  "kb_version": "10.15",
   "migrated_from": "3.3",
-  "fact_count": 5564,
+  "fact_count": 5565,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100274,6 +100274,23 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5603",
+      "category": "programs",
+      "date_ref": "2026",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA du Quebec"
+      ],
+      "claim": "THE 2026 PARENT GUIDE READ PROPERLY: A DAILY SCHEDULE, THE SECTION NAMES, SUPERVISION RATIOS, AND THE CAMP'S OWN STATEMENT OF VALUES. The 74,071-character 2026 English parent guide had yielded seven facts, all logistics -- bus point, session dates, tuck, staff list, canoe trips, a production artifact -- and its own record said in as many words that a full extraction was 'flagged as future work' while read_state read 'extracted'. Read in full 2026-09-07. WHAT WAS NOT TAKEN: (1) THE DAILY SCHEDULE, printed hour by hour and the only one this project holds for the modern camp -- 7:15-7:45 MORNING DIP (optional); 8:00 breakfast and announcements; 9:00 cabin clean-up; 9:20-10:25 and 10:25-11:30 cabin/tent programs 1 and 2; 11:30-12:15 general swim and open program areas (canoe, archery, nature); 12:30 lunch and announcements, 'plus SECTION CHEERS EVERY FEW DAYS'; 1:30-2:30 SIESTA; 2:30-3:30 and 3:30-4:30 INTEREST GROUPS 1 and 2; 4:30-5:30 general swim and open areas; 5:45 dinner; 6:45 down time; 7:00-8:00 and 8:00-9:00 cabin/tent programs 3 and 4, juniors preparing for bed in the second; 9:00-10:00 CAMPFIRE for seniors; 10:00 lights out. The morning dip and the campfire are both still there, and the section cheers are still called at lunch. (2) THE SECTION NAMES IN CURRENT USE, given as the list a parent must write on an envelope: WOODSY, PIONEER, PATHFINDER, COUREUR DES BOIS, VOYAGEUR, LIT. (3) SUPERVISION RATIOS: juniors aged 6-12 in groups of up to ten with a minimum of two counsellors; seniors 12+ in groups of up to eight with a minimum of one; specialists at rock climbing, nature, arts and crafts, swimming (3-4 staff), boating (2) and KANAWOODSHOP; all swim-area specialists certified lifeguards; ratios governed by the Association des camps certifies du Quebec, which also requires at least one staff member per cabin or tent group to hold a stated qualification. (4) SPECIAL PROGRAMMES NAMED: 'Coffee/Cocoa House (talent shows), campfires, DANCING WITH THE STAFF, KANAWOODSTOCK, overnights, and the LUMBERMEN AND VOYAGEUR GAMES.' Kanawoodstock was known here only from plaques; this is the camp naming it as a standing programme. (5) OVERNIGHTS AND OVERDAYS: every two-week camper gets one night in a tent on Lake Wilson, two staff per cabin group, every campsite equipped with gear, a first aid kit and a walkie-talkie, the summer camp director and infirmary reachable by walkie-talkie 24 hours; the youngest juniors, 'PIONEERS AND WOODSIES AGED 7-9 DEPENDING ON CABIN MAKEUP', do OVERDAY TRIPS instead, paddling or hiking out and back in a day. (6) A FIVE-BED INFIRMARY supervised by two healthcare staff, with a written list of when a camper is sent home (24 hours in the infirmary, contagious symptoms, pain not subsiding in two hours). (7) THE CAMPER BEHAVIOR AGREEMENT, seven promises the guide asks families to discuss, framed by the motto: 'Camp YMCA Kanawana is a community whose motto is NON NOBIS SOLUM (not for ourselves alone)'; the last promise is 'Contribute with my happiness, enthusiasm and humour.' (8) THE CAMP IS AN 'UNPLUGGED' ENVIRONMENT: campers do not bring phones, cannot use computers, and write home once a week on paper that the office scans and emails. (9) SCALE: 'almost 250 children each session', and 'MORE THAN 2,000 PARTICIPANTS AND STAFF visit Camp YMCA Kanawana BETWEEN MAY AND OCTOBER' -- a May-to-October figure, which is the qualification the 2010 'more than 2,000 each year' claim lacked when meta/attendance-series.md declined to take it. (10) THE SIX NAMED VALUES, each with a paragraph: CARING, INCLUSION, SOLIDARITY, BOLDNESS, PERFORMANCE, RESPECT. Inclusion is stated explicitly: 'To be a Kanawanian is to be part of a community that embraces diversity and welcomes all, regardless of cultural or socio-economic background, GENDER IDENTITY, OR SEXUAL ORIENTATION', with an inclusion programme for 'children and youth with different needs and diverse abilities, from physical limitations, to behavioral challenges, to struggles with mental well-being.' Solidarity is glossed as the motto in practice: 'We emphasize DEMOCRATIC LIVING and teamwork in everything we do.' Performance claims 'over 130 years of summer camping.' NOT ONE OF THESE SIX VALUE NAMES appeared in this project's wiki or KB before today. The guide also cites psychologist CHRIS THURBER and the American Camping Association for its homesickness advice, and announces an OPEN HOUSE on Sunday 14 June 2026, 10 a.m. to 4 p.m.",
+      "sources": [
+        "src_kk_prep_guide_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.15",
       "added_by": "ralph_loop"
     }
   ]

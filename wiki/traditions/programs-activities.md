@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-09-07 (the 1939 editorials on comfort and on leaders who work; Westervelt's naturecraft)*
+*Last Updated: 2026-09-07 (the 1939 editorials and Westervelt's naturecraft; a camp day in 2026)*
 
 ## Overview
 
@@ -569,6 +569,62 @@ programme, "Familles en nature: 4 saisons de plaisir," ran an activity at the ca
 hike on spring flora and fauna with canoeing and a campfire dinner.^fn Both fit the camp's
 environmental-education positioning without originating from it.
 
+### A camp day in 2026, hour by hour
+
+This article traces programming across thirteen decades and, until now, stopped short of saying what a day
+at the camp currently looks like. The 2026 parent guide prints it.^pg26
+
+| | |
+|---|---|
+| 7:15–7:45 a.m. | **Morning dip** (optional) |
+| 8:00–9:00 | Breakfast and announcements |
+| 9:00–9:20 | Cabin clean-up and preparation for the day |
+| 9:20–10:25 | Cabin/tent programme #1 |
+| 10:25–11:30 | Cabin/tent programme #2 |
+| 11:30–12:15 p.m. | General swim and open program areas (canoe, archery, nature) |
+| 12:30–1:30 | Lunch and announcements, **plus section cheers every few days** |
+| 1:30–2:30 | Siesta / break time |
+| 2:30–3:30 | Interest Group #1 |
+| 3:30–4:30 | Interest Group #2 |
+| 4:30–5:30 | General swim and open program areas |
+| 5:45–6:45 | Dinner and announcements |
+| 6:45–7:00 | Down time |
+| 7:00–8:00 | Cabin/tent programme #3 |
+| 8:00–9:00 | Cabin/tent programme #4 (junior campers prepare for bed) |
+| 9:00–10:00 | **Campfire** (senior campers prepare for bed) |
+| 10:00 | Lights out |
+
+Two items in it are the same items this article documents in the 1920s and 1930s. The **morning dip** is
+still first, still optional. The **campfire** is still the last hour of the day for seniors. And **section
+cheers are still called at lunch**, "every few days" — the practice
+[[traditions/camp-songs-cheers|Camp Songs, Cheers, and Musical Traditions]] traces to 1922 has a slot in the
+printed 2026 timetable. What has changed shape is the middle: four cabin/tent programmes planned by
+counsellors and section directors bracket two **interest groups** the camper chooses, "two to four" across a
+session, some of them levelled with an in-house certification at the end.
+
+**The sections, as of 2026**, are Woodsy, Pioneer, Pathfinder, Coureur des Bois, Voyageur and LIT — the list
+the guide gives because a parent must write it on an envelope. **Supervision** runs at up to ten juniors
+(6–12) with a minimum of two counsellors, and up to eight seniors (12+) with a minimum of one, with
+specialists at rock climbing, nature, arts and crafts, swimming (three or four staff), boating (two) and the
+**kanawoodshop**; every specialist supervising the swim area is a certified lifeguard, and the ratios
+themselves are set by the Association des camps certifiés du Québec rather than by the camp.
+
+The **special programmes** the guide names are Coffee/Cocoa House talent shows, campfires, **Dancing with
+the Staff**, **Kanawoodstock**, overnights, and the **Lumbermen and Voyageur games**. Kanawoodstock has been
+in this wiki only as a name on plaques; here the camp lists it as a standing part of the programme.
+
+**Overnights and overdays.** Every two-week camper spends one night in a tent on Lake Wilson, two staff per
+cabin group, each campsite holding gear, a first aid kit and a walkie-talkie, with the summer camp director
+and the infirmary reachable on it around the clock. Overnights are not sent out in poor weather and are
+rescheduled only if possible. The youngest juniors — "Pioneers and Woodsies aged 7–9 depending on cabin
+makeup" — do **Overday trips** instead, paddling or hiking to a site, swimming, playing and eating lunch
+before returning in the late afternoon. That is a graded introduction to tripping, and it is the shallow end
+of the same ladder that runs up through the Voyageur programme to the canoe trips.
+
+Camp keeps a **five-bed infirmary** under two healthcare staff, and the guide prints the conditions under
+which a camper goes home: twenty-four hours or more in the infirmary, symptoms of a contagious disease, or
+intense pain that does not subside within two hours of over-the-counter medication.
+
 ## Wilderness Camp, 1973
 
 Kanawana ran a short post-season programme called **Wilderness Camp** in August 1973, and its
@@ -686,6 +742,7 @@ report does not say so, and this article does not assume it.
 8. What was the Pathfinder program Summer Summary (1965 archives listing)? Was it the existing boys' section (est. 1959) or something new?
 
 ## Sources
+- ^pg26: *Camp Kanawana Preparation Guide, Summer 2026* (parent handbook) [src_kk_prep_guide_2026], published on ymcaquebec.org and cached at `sources/cache/parent-guides/Camp-Kanawana-GUIDE-Parent-EN_2026.txt`, 74,071 characters. The record read `extracted` while its own note said a full extraction was "flagged as future work"; read word for word 2026-09-07 under p_487. See [f_5603].
 - ^gt39: *The Green Triangle*, **22 July 1939** [src_ymf_the_green_triangle_1939_07_22], Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1939-07-22.txt`. Held since 2026-08-25 at read_state "skimmed" and **passed over by the issue-by-issue read of the whole run**, because the *Green Triangle* article already listed it among the issues read in full; read word for word 2026-09-07. See [f_5591], [f_5596], [f_5597].
 - **nb59** — YMCA of Montreal Annual Report **1959, short version** [src_ia_sgw_ymca_annual_report_1959_short], Internet Archive item `sgw-ymca-annual-report-1959-short-version`, in the `ymca-montreal-fonds` collection — a short version distinct from the full 1959 report. Found and read 2026-09-07 under p_462. See [f_5256].
 - ^wc73: "Wilderness Camp Director's Report, 1973" [src_ymf_1973_wilderness_camp_directors_report], Internet Archive item `1973-wilderness-camp-directors-report` in the `ymca-montreal-fonds` collection. Full text cached at `sources/cache/ymca-montreal-fonds/1973-wilderness-camp-directors-report.txt`; held since 2026-08-25 at read_state "skimmed" and read word for word 2026-09-07 as the second item worked under p_482. Unsigned — the director writes in the first person and names his two counsellors. See [f_5478] and [f_5479].
