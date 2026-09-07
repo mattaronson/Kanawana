@@ -4881,3 +4881,28 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   advisory: an advisory check whose every finding is wrong is worse than no
   check, because it teaches people that findings are noise.
   Baseline 127 -> 125. Verify green, nine checks. Timestamp from `date -u`.
+
+[2026-09-07T13:42:03Z] A SECOND mis-aimed citation group, and a second check
+  that is not shippable. NEW: f_5568. 125 -> 124.
+  After the absolute footnote-aim test failed at 516 findings, a NARROWER
+  question was tried: does a NEIGHBOURING entry match this sentence's years
+  better than the one cited, and is that neighbour uncited? 12 candidates
+  instead of 516 -- but sampling still shows most are false, the worst being
+  lv-games.md, where "By 1958, MCMORRIS describes the L&V program as
+  well-developed" was flagged for citing McMorris. So it is not a check either.
+  Run as a one-off diagnostic and not kept.
+  IT FOUND ONE REAL THING. directors-index.md carries "^31 ^33 ^34" in THREE
+  places, all about Peter Goddard 1982-1986, and the sentence makes three claims
+  in order: the CCA Publicity report thanking "Peter Goddard and the staff of
+  Kamp Kanawana" for the National Camping Day poster mailing; the IYY Task Force
+  listing "Peter Goddard (Qué.)" in winter 1983-84; and the same task force in
+  spring 1985. Entries 33 and 34 are the second and third exactly. THE FIRST IS
+  ENTRY 32 -- Marnie Ellis's Summer 1983 Publicity report, naming Goddard and
+  the poster mailing -- AND IT WAS CITED NOWHERE. Added in all three places.
+  ^31 LEFT AND FLAGGED RATHER THAN REMOVED, which is the point. Entry 31 is
+  Netherwood's 1988 "L'Étranger" plus oral history; a Winter 1988 article cannot
+  attest a 1983-85 task force, but entry 31's oral-history half may carry
+  something else in those rows, and ^31 is used correctly on the Netherwood row
+  two lines away. Removing a citation on an inference about numbering is the
+  same error as adding one. The doubt is written into the article.
+  Baseline 125 -> 124. Verify green. Timestamp from `date -u`.

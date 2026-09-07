@@ -2,7 +2,7 @@
   "version": "10.09",
   "kb_version": "10.09",
   "migrated_from": "3.3",
-  "fact_count": 5529,
+  "fact_count": 5530,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99650,6 +99650,21 @@
         "Camp Kanawana"
       ],
       "claim": "A MIS-AIMED FOOTNOTE MARKER FOUND, AND THE CHECK FOR IT BUILT, TESTED AND DISCARDED. THE DEFECT IS REAL. connections/related-camps/camp-oolahwan.md read 'described the transfer at length in an interview recorded on 8 MARCH 1980 and published in 1982.^26'. Entry 26 is Cliff Labbett, 'Our New President', DECEMBER 1979. The interview is entry 27. EVERY CHECK PASSED, because verify_harness confirms that ^26 resolves to a real entry and it does. A wrong-but-real marker is invisible to a resolver and reads as authority. Fixed to ^27. AND IT WAS FOUND BY THE UNCITED-ENTRY CHECK, not by reading: entry 27 showed up as cited by nothing (p_484) because the marker that should have been ^27 had been typed ^26. THAT PAIRING IS THE REAL SIGNAL AND IT IS WORTH KEEPING -- an uncited entry is often the SHADOW of a mis-aimed marker elsewhere in the same file. THE CHECK WAS THEN BUILT, on the model of citation_aim.py which does exactly this for [f_NNNN] fact citations, and IT FAILED. Comparing the distinctive tokens of a citing sentence against its source entry gave 516 findings; every one sampled was a CORRECT citation. A narrower variant comparing only four-digit YEARS gave 321, and those were correct too. WHY IT CANNOT WORK, WHICH IS THE POINT WORTH KEEPING. citation_aim succeeds because a KB fact's claim is PROSE RESTATING THE CONTENT, so a correct citation and its fact share words. A SOURCE ENTRY IS BIBLIOGRAPHIC -- author, title, publisher, identifier -- and DESCRIBES THE DOCUMENT RATHER THAN WHAT THE DOCUMENT SAYS. 'Manitoba won with a time of 507 hours' correctly cites 'Wikipedia, Centennial Voyageur Canoe Pageant' and shares nothing with it; McMorris's 2023 thesis correctly supports a sentence about 1935. There is no lexical or temporal relation to test, so the two dimensions are not analogous and the technique does not carry across. TENTH FAILED HEURISTIC IN THREE DAYS. The script was deleted rather than shipped advisory: an advisory check whose every finding is wrong is worse than no check, because it teaches people that findings are noise. What actually catches this class is the uncited-entry pairing above, and a human reading two adjacent entries.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5568",
+      "category": "methodology",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Peter Goddard",
+        "Camp Kanawana"
+      ],
+      "claim": "A SECOND MIS-AIMED CITATION GROUP, FOUND BY A RELATIVE TEST THAT IS ITSELF NOT SHIPPABLE. After the absolute footnote-aim check failed (f_5567), a NARROWER question was tried: not 'is this citation relevant' but 'does a NEIGHBOURING entry match this sentence's years better than the one cited, AND is that neighbour uncited'. That gave 12 candidates instead of 516 -- but sampling shows most are still false, the worst being lv-games.md, where a sentence reading 'By 1958, MCMORRIS describes the L&V program as well-developed' was flagged for citing McMorris. SO IT IS NOT A CHECK EITHER, and was run as a one-off diagnostic and not kept. IT DID FIND ONE REAL THING. people/directors-index.md carries the citation group '^31 ^33 ^34' in THREE places, all about Peter Goddard 1982-1986, and the sentence it supports makes three claims in order: the Canadian Camping Association's Publicity report thanking 'Peter Goddard and the staff of Kamp Kanawana' for mailing the National Camping Day posters; the International Youth Year Task Force listing 'Peter Goddard (Qué.)' in winter 1983-84; and the same task force in spring 1985. Entries 33 and 34 are the second and third exactly. THE FIRST IS ENTRY 32 -- the Summer 1983 Publicity and Public Relations report by Marnie Ellis, naming Goddard and the poster mailing -- AND IT WAS CITED NOWHERE IN THE ARTICLE. Added in all three places. ^31 LEFT IN PLACE AND FLAGGED RATHER THAN REMOVED, and the restraint is the point: entry 31 is Jay Netherwood's 1988 'L'Étranger' plus the operator's oral history, and a Winter 1988 article cannot attest a 1983-85 task force -- but entry 31's ORAL-HISTORY half may be carrying something else in those rows, and ^31 is used correctly on the Netherwood row two lines away. Removing a citation on an inference about numbering would be the same error as adding one. The doubt is written into the article where the next reader meets it.",
       "sources": [],
       "confidence": "stated",
       "conflicts_with": [],
