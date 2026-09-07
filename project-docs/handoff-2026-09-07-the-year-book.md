@@ -313,9 +313,19 @@ route to the **summer of 1914** — the one camp season in the war decade still 
 **Nothing on this board is now reachable from here.** What is left needs a person: the fifty-nine
 fonds images, the eleven browser items, and the operator's own conflicts.
 
-**For the operator, unchanged and not to be ground on:** `c_067`, `c_068`, `p_442`, `p_443`,
-`p_439`, the fifty-nine fonds images that need eyes rather than searches, and the eleven items in
-`one-afternoon-with-a-browser.md`.
+**For the operator:** `c_067`, `c_068`, `p_442`, `p_443`, the fifty-nine fonds images that need
+eyes rather than searches, and the eleven items in `one-afternoon-with-a-browser.md`.
+
+***`p_439` was on that list and should not have been.*** It asks a person to read the 1901-1905
+and 1910-1920 volumes on HathiTrust — **which this session read the same day**, at Minnesota. It
+stayed marked pending, and I repeated it under "for the operator" in report after report. So did
+**`p_433`**, the **highest-weighted pending item in the whole queue**, which is a year-by-year
+sweep of that very series. Both are closed now.
+
+**Rule 42: check the queue before describing the state of the board.** A priority is a claim about
+what remains to be done, and a long session going well is exactly what makes it stale. When a
+session closes a seam, re-read the pending queue for anything the seam has quietly answered —
+*before* writing the summary that tells someone else what is left for them.
 
 ## The shape of the day, in one line
 
