@@ -23110,9 +23110,9 @@
       "extracted": false,
       "extraction_version": "v5.60",
       "reliability": "primary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. || READ AND EMPTY 2026-09-07 (p_482), and recorded that way so it does not look untouched. Its three Kanawana passages are a STRAIGHT TRANSLATION of the English twin -- same figures, same address, same claims -- so it adds nothing. Second confirmation of f_5542's rule, now beyond annual reports: the French half differs for the Montreal Fact and for ka-news, and not for the association's formal publications. One incidental: Kanawana's address is printed H3A 1W3 here and the colophon on the same page gives H3G 1W3 for the same street address. See f_5555.",
+      "read_state": "read",
+      "read_state_basis": "all three Kanawana passages read 2026-09-07 under p_482 and compared line by line against the English twin; the rest of the volume is association history with no Kanawana content"
     },
     {
       "source_id": "src_ymf_the_trained_person_will_get_the_job_brochure",

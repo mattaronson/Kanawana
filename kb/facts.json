@@ -2,7 +2,7 @@
   "version": "10.09",
   "kb_version": "10.09",
   "migrated_from": "3.3",
-  "fact_count": 5516,
+  "fact_count": 5517,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99457,6 +99457,23 @@
       "claim": "THE WEST ISLAND DAY CAMP ON ÎLE PERROT RAN ACTIVITIES FOR DISABLED CHILDREN IN 1969. The same communiqué: 'In co-operation with the QUEBEC ASSOCIATION FOR MENTALLY RETARDED CHILDREN, West Island's day camp complex on ÎLE PERROT will also have SPECIAL ACTIVITIES FOR HANDICAPPED YOUNGSTERS.' (The association's name is given as it was printed in 1969.) The Montreal YMCA's Île Perrot connection is otherwise held here from a 1946 brochure; this is a distinct programme twenty-three years later and an early instance of the association's camping work reaching children with disabilities, which this project has almost nothing on. It is a DAY CAMP on a different site and is not a Kanawana programme.",
       "sources": [
         "src_ymf_p0145_news_release_1969_05_29"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5555",
+      "category": "methodology",
+      "date_ref": "2001",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "READ AND EMPTY, RECORDED AS SUCH: THE FRENCH HALF OF THE 1851-2001 ANNIVERSARY PUBLICATION IS A STRAIGHT TRANSLATION. Both halves were compared at all three Kanawana passages and they say the same things in the two languages: the 1900s-decade entry ('Le YMCA ouvre des camps d'activités: d'abord Le Camp Otoreke, puis Le Kamp Kanawana' / 'the YMCA opened camps: first Camp Otoreke, then Kamp Kanawana'), and the directory entry -- opened 1894, the oldest summer camp in Quebec, near Saint-Sauveur-des-Monts, about 700 boys and girls aged 6 to 16 each summer, stays of five to twelve days, the site also open to groups in winter. Same figures, same address, same claims. NOTHING IN THE FRENCH IS ABSENT FROM THE ENGLISH. This is the second confirmation of the rule at f_5542, now beyond annual reports: the 'the French twin may carry what the English lacks' heuristic holds for the Montreal Fact and for ka-news, and NOT for the association's formal publications, which are translated rather than separately written. ONE THING THE COMPARISON DID TURN UP, small and recorded rather than smoothed: the publication gives Kamp Kanawana's mailing address as 1435 Drummond, Montreal, Quebec H3A 1W3 in both languages, while its own colophon on the same page gives the YMCA de Montréal at 1435, rue Drummond, 4e étage, Montréal (Québec) H3G 1W3. Two postal codes for one street address in one publication. Concordia's 2007 Seaman booklet gives H3G 1W3 for both the YMCA and YMCA Kanawana at that address, so H3A is most likely the typo -- but this is a note, not a correction to make on someone else's behalf. (A further contrast worth holding: the association's own communiqués of 1969 and 1973 head their notepaper 1441 DRUMMOND STREET. The move from 1441 to 1435 is undocumented here.)",
+      "sources": [
+        "src_ymf_the_montreal_ymca_1851_2001_anniversary_publication_fr"
       ],
       "confidence": "stated",
       "conflicts_with": [],
