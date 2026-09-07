@@ -2,7 +2,7 @@
   "version": "10.10",
   "kb_version": "10.10",
   "migrated_from": "3.3",
-  "fact_count": 5538,
+  "fact_count": 5539,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99810,6 +99810,20 @@
       "sources": [
         "src_ia_sgw_ymca_annual_report_1959_short"
       ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5577",
+      "category": "methodology",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "AN ASSERTED READ-STATE IS A CLAIM; A SCRIPT-PRODUCED ONE IS A MEASUREMENT -- AND EVERY HIDDEN FIND OF THE LAST THREE DAYS CAME FROM THE CLAIMS. Sorting all 1,759 source records by the SHAPE of their read_state_basis rather than by read_state gives three populations: 343 beginning 'asserted:', 306 naming a SCRIPT that produced them, 223 beginning 'direct:', and 887 with something else or nothing. THE ASSERTED POPULATION IS WHERE THE MATERIAL HIDES. 241 of the 343 carry the identical string 'asserted:full-text-cached-and-keyword-swept-not-read-closely'. All three of today's p_482 finds came from it -- the 26 October 1973 communiqué with the camp's winter programme, the 29 May 1969 release with the four branch day camps, and the 1978 ka-news -- and their source notes still record that they were 'superseding the skimmed state'. Ten more asserted bases are worse than vague, they are self-refuting in context: 20 records say 'asserted:fetched-and-read-in-full' and 9 say 'asserted:read-by-dispatched-agent-full-text-grep', which asserts a full read AND a grep in one breath. THE SCRIPT-PRODUCED POPULATION IS HONEST, AND THAT WAS TESTED RATHER THAN ASSUMED. Three news releases labelled by scripts/reread/sweep_news_releases.py as 'NO CAMP PATTERN MATCH' were opened and read: a Lachine-Dorval community leadership project of February 1965, the International Branch's back-alley programme at Edward VII School in March 1970, and the national annual meeting at Geneva Park in May 1971. NO CAMP CONTENT IN ANY OF THEM. The label is accurate because a script ran on the text; the population is correctly closed and reading its 400-odd items would be writing Montreal YMCA institutional history, not Kanawana history. SO THE TARGET IS NOT 'THE 729 SKIMMED SOURCES' (p_441) BUT THE 343 ASSERTED ONES, and inside those the 241 identical keyword-swept ones. read_state says what state a record claims; read_state_basis says whether anyone measured it. THE SECOND FIELD IS THE USEFUL ONE and nothing in this project has been sorting on it. ELEVENTH MEASUREMENT OF THREE DAYS, AND THE FIRST WHOSE FINDING IS THAT A LABEL CLASS IS TRUSTWORTHY. It was still sampled before being believed, in both directions.",
+      "sources": [],
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.10",
