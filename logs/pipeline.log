@@ -6910,3 +6910,30 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   hundred.
   Added f_5640 (kb v10.52, 5602 facts). New section, table and note 71 in wiki/site/the-kanawana-site.md;
   eight source ids added to sources_cited (48 -> 52). All checks pass.
+
+2026-09-07T17:32:48Z  p_491 -- unit: the dating rule was fixed everywhere except where people look it up.
+  Reading the 1950 report's narrative I found the association's own statement of the fiscal-year change:
+  "effective January 1st, 1951, the fiscal period should accord with the calendar year ... to bring the
+  Montreal Y.M.C.A. into conformity with the majority of other units of the Movement in North America
+  and facilitate greatly the compilation of statistical material for the annual year book." Grepped the
+  destination before writing it up and found f_2153 already carries the quote. Sixth duplicate avoided
+  today by that habit.
+  BUT f_2153 ENDS THERE, and so does attendance-series.md's Dating note, and those are the two places
+  anyone looks the rule up. Both say the fiscal period "matched the calendar year from 1951" and stop,
+  which reads as calendar years indefinitely. IT IS NOT: per project-docs/annual-report-year-ends.md,
+  31 December holds only from the 100th report (1951) to the 111th (1962), and FROM THE 112TH THE YEAR
+  ENDS 31 MAY and was still doing so in 1989. Verified against the 1964 volume's own title page, which
+  reads "JUNE 1, 1964 - MAY 31, 1965". A June-to-May year contains the PREVIOUS summer, so the rule
+  inverts again after 1962 and anyone applying either statement to a 1970s or 1980s report lands a whole
+  year out. Neither mentioned the two transitional volumes either: the 100th spans twenty-one months
+  (April 1950 to December 1951, which is why the 1950 season is nowhere in the table) and the 112th
+  spans seventeen (January 1963 to May 1964).
+  THE WIKI ALREADY KNEW THIS. oldest-camp-question.md and centennial-1994.md were both corrected on
+  2026-09-06 for exactly this error, citing f_5081 and f_5090, and p_450 audited the post-1950
+  attributions. What had not happened is that the CANONICAL STATEMENT was brought up to date, so the
+  corrections were right and the thing they corrected against was still wrong.
+  THE FAILURE MODE IS WORTH NAMING AND IS NOW WRITTEN INTO BOTH: a rule fixed at every point of use and
+  not at its source will be got wrong again by the next reader, because the next reader goes to the
+  source. Yesterday's corrections fixed two articles and left the rule they were correcting intact.
+  f_2153 completed and the Dating note extended, both pointing at
+  project-docs/annual-report-year-ends.md as the authority (kb v10.53). All checks pass.
