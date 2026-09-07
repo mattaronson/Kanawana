@@ -124,7 +124,8 @@
         "src_ymf_sgw_ymca_annual_report_1892_1893",
         "src_ymf_sgw_ymca_annual_report_1893_1894",
         "src_ymf_news_release_1963_04_22",
-        "src_ia_sgw_ymca_annual_report_1874"
+        "src_ia_sgw_ymca_annual_report_1874",
+        "src_kanawana_physical_archive_scans_2026"
       ],
       "open_questions": 0,
       "cross_links": [
@@ -149,7 +150,7 @@
         "timeline-overview"
       ],
       "file_id": "1h-vki1U2tjYj8-zZ5gzuyW6kQXelcUnB",
-      "word_count": 6514,
+      "word_count": 6856,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- replaced the bold-field header convention with the standardized two-line header, moved the embedded c_005 editorial-resolution paragraph into the existing Revision History section (merged the separate 'Research Notes'/'Revision History' H2 sections into one, per the wiki-wide convention). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -9484,7 +9485,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 5347,
+      "word_count": 5388,
       "notes": "2026-07-11: Workstream C3 spawn -- newsletter/award/symbol synthesized into standalone article, cited as a source in 13+ articles but never its own subject. No new research conducted. Corrected two dangling source_id references (src_web_readers_digest_buckland -> src_readers_digest_camp_shapes_lives; src_ia_green_triangle_1938 -> src_green_triangle_1938) in kb/facts.json while preparing this article. | 2026-08-14 p_226: applied the programs/places BLOCKING fixes from the p_218 audit.",
       "tags": {
         "era": [

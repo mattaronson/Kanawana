@@ -96,7 +96,7 @@ Kanawanians**. Each year our get-togethers include more fellows and more of thei
 friends."^12
 
 So the paper had an **off-season edition printed for an annual alumni reunion**, and the reunion
-itself is an institution this project had no record of. A twenty-seventh reunion in 1936 counts from
+itself is an institution this project had no record of. *(It does now, and earlier: a printed banquet menu card of **26 November 1913**, headed "Kamp Kanawana Kampers' Kluster," survives in the camp's physical archive — twenty-three years before this issue, and about four years into the count. See [[history/founding-1894|Founding, 1894]].)* A twenty-seventh reunion in 1936 counts from
 **1909 or 1910** — the site-purchase convention, the same one behind the 1935 "twenty-sixth year of
 existence," the 1938 broadcast's "twenty-nine years" and the 1983 "past 75 years."
 

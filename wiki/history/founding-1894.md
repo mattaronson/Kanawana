@@ -1,7 +1,7 @@
 # Camp Kanawana: Founding and Early History (1892-1923)
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-09-06 (the first camp committee's men were already in the association's provincial machinery)*
+*Last Updated: 2026-09-07 (what the 1913 reunion menu card actually says)*
 
 ## Overview
 
@@ -218,6 +218,30 @@ The 1923 brochure and 1935 history together describe a camp that had grown into 
 ![1913 reunion banquet menu](../../assets/images/art/reunion-banquet-menu-1913.jpg)
 *Menu and placemat from a 1913 reunion banquet. Copyright All rights reserved by Kanawana.*
 
+### What the 1913 menu card says
+
+The card has been in this article as a picture since July and nothing was written about what is printed on
+it. It is dated "**Wednesday, Nov. 26th, 1913**," printed on autumn-leaf paper, and headed "**Kamp Kanawana
+Kampers' Kluster to kandidly re-konsider their kapricious kapers and knavery under kanvas**."^mc13 The menu
+below is a joke from end to end, and every line is at somebody's expense:
+
+> Cold Meats (**Purloined from Harry**) · Lamb (**not Hal of tent 1**) à la **Filion** · Pork à la
+> **Prevost**, très tough · Rolls… no Tumbling award allowed · "Inexpensive, but highly nutritious" **Doc.
+> H. Griffiths, M a D** · Cake (the kind our Bird-ette) · Fruit Salad "General mix up, see tent B"
+
+**It is the earliest dated document this project holds that names individual campers and staff**, and it
+names them the way the camp actually addressed them — by tent, by nickname, by running joke. "Purloined from
+Harry" is the cook: [[history/interwar-era|the interwar article]] back-calculates **Harry Smith's** start to
+around 1913 from the 1921 and 1922 brochures calling those his ninth and tenth years, and here is a Harry in
+the kitchen being robbed by campers in **November 1913**. The back-calculation lands on its first year.
+
+**And it is a reunion.** [[documents/green-triangle|The Green Triangle]] records the paper's off-season
+"Re-union Number" of 1936 announcing "**the twenty-seventh annual re-union of old Kanawanians**," and calls
+the reunion "an institution this project had no record of." This card is that institution, **twenty-three
+years earlier** — a banquet in the city in late November, with a printed menu, four years or so into the
+count. The Kluster's own alliterative K is the same joke the camp was still making in its newspaper's title
+two decades later.
+
 ## Open Questions
 
 - [Re-confirmed dead end 2026-07-09] What were the terms of the Page family land acquisition (date, price, acreage)? See [[people/page-family|The Pagé Family]] for the fullest treatment; Quebec's Registre foncier (requires a specific lot number plus a paid account) and direct SHGPH contact remain the only unexhausted paths.
@@ -235,6 +259,8 @@ The 1923 brochure and 1935 history together describe a camp that had grown into 
 - [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]
 
 ## Sources
+
+- ^mc13: Kamp Kanawana physical archive scans, 2026 [src_kanawana_physical_archive_scans_2026] — the **1913** reunion banquet menu card pictured above, dated "Wednesday, Nov. 26th, **1913**". See [f_1577]. Brought into this article 2026-09-07 under p_492; the image had been here since July with nothing written about what it says.
 
 - **ar1874** — YMCA of Montreal Annual Report, **1874** [src_ia_sgw_ymca_annual_report_1874], Internet Archive item `sgw-ymca-annual-report-1874`, in the `ymca-montreal-fonds` collection. Found 2026-09-07 by the enumeration at [f_5243]; read for its officers and its boys' work, the rest not read. See [f_5255].
 - YMCA Quebec official history page (ymcaquebec.org/en/summer-camp-kanawana/history)
