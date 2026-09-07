@@ -1,8 +1,8 @@
 {
-  "version": "10.31",
-  "kb_version": "10.31",
+  "version": "10.32",
+  "kb_version": "10.32",
   "migrated_from": "3.3",
-  "fact_count": 5584,
+  "fact_count": 5585,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100598,6 +100598,20 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5623",
+      "category": "method",
+      "date_ref": null,
+      "entities": [],
+      "claim": "THREE UNCITED REPORTS, AND ALL THREE WERE FRENCH TWINS. A measurement worth keeping because it came out CLEAN, which almost nothing in this project's sweeps does. Of the 92 Montreal YMCA annual reports held at read_state 'partial', exactly THREE are cited by no fact and named in no wiki file: src_ymf_sgw_ymca_annual_report_1982_1983_fr, _1984_fr and _1985_fr. All three mention Kanawana, all three are FRENCH EDITIONS of English reports this project has already read, and reading them found NOTHING the English twins do not carry. The 75th-year statement, the 'more than 34,000 people' cumulative figure (both already at f_5047, and f_5047's fiscal-year reasoning is better than a naive reading of the French: the 1984 report covers the year ended 31 May 1984, so its season is the summer of 1983 and the 75th year counts from 1909), the branch list placing the camp tenth at Saint-Sauveur, and the telephone 849-5331 already held twenty times over. THE ONE THING ONLY THE FRENCH SAYS IS PHRASING: the 1985 volume describes the camp as welcoming 'DES JEUNES DE 6 A 18 ANS' with 'LE PLEIN AIR, LA VIE EN GROUPE ET LES RESPONSABILITES PARTAGEES' -- the open air, group living and shared responsibilities. That is the camp describing itself in French in 1985, and it is recorded on the source records rather than as a claim, because the substance is in the English. WHY THE NULL IS THE POINT. p_441 flagged 'mostly French twins' as the shape of the remaining uncited population and this confirms it for the annual-report series specifically. It also means the 89 other partial reports ARE all cited somewhere, so 'partial' in this series has been an honest label rather than a hiding place -- which is the opposite of what f_5591 found for the Green Triangle, and the difference is that these reports were worked title by title while the newspaper run was worked from a summary. The three records are now read_state 'read' with the duplication recorded, so no later pass re-walks them.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1985_fr"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.32",
       "added_by": "ralph_loop"
     }
   ]
