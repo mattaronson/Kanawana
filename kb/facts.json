@@ -1,8 +1,8 @@
 {
-  "version": "9.24",
-  "kb_version": "9.24",
+  "version": "9.25",
+  "kb_version": "9.25",
   "migrated_from": "3.3",
-  "fact_count": 5288,
+  "fact_count": 5289,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -95395,6 +95395,27 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5327",
+      "category": "people",
+      "date_ref": "1883-1967",
+      "entities": [
+        "A. W. Forgie",
+        "Wallace Forgie",
+        "Taylor Statten",
+        "Hedley Dimock",
+        "Adele Statten Ebbs"
+      ],
+      "claim": "A. W. FORGIE IS WALLACE FORGIE, AND THE OBITUARY SETTLES IT WITHOUT NEEDING THE INITIALS AT ALL. p_475 called this a reading job on the Ebbs obituary, and the obituary IS IN THIS PROJECT'S CACHE -- Canadian Camping Magazine, Winter 1968, 'WALLACE FORGIE / INTERNATIONAL CAMPER / 1883-1967 / By J. H. Ebbs, M.D.', its headline OCR'd 'WALLACE FOKBIE'. IT NARRATES, IN ORDER, THE EXACT CAREER THE YEAR BOOK ROSTER GIVES: 'known as Commodore by the many young leaders who came under his influence IN CANADA FROM 1908 UNTIL 1927'; 'Many men knew him when he SERVED FIVE YEARS OVERSEAS IN THE FIRST WORLD WAR WITH THE Y.M.C.A.'; 'BOYS WORK IN WESTERN CANADA then occupied a number of years during which he conducted many canoe trips into the north-west. He was an associate of the late DR. HEDLEY DIMOCK'; 'Y.M.C.A. BOYS WORK then took Uncle Wally TO INDIA where he pioneered in camping. In 1935 he built CAMP TONAKELA NEAR MADRAS, which was officially opened by MR. AND MRS. TAYLOR STATTEN.' SET THAT AGAINST f_5303: Ottawa Boys from 1907-08, Toronto Boys, Boys' Work Secretary for Ontario and Quebec, Associate National Boys' Work Secretary, THE CANADIAN OVERSEAS SECRETARIES LIST OF 1 JUNE 1919, BOYS' WORK SECRETARY AT CALGARY in 1919-20, and INDIA from the 1927-28 volume through 1935. Boys' work, the First World War with the YMCA, western Canada, India from 1927, Madras. EVERY POINT MATCHES AND NOTHING CONFLICTS. The identification no longer rests on 'A. W.' resolving to 'A. Wallace'; two independent records narrate one life. IT ALSO ADDS WHAT THE ROSTER COULD NOT: five years overseas in the first war, the Calgary years as canoe trips into the north-west, an association with Hedley Dimock, and Camp Tonakela near Madras opened by the Stattens themselves -- a Canadian camping movement thread running to south India.",
+      "sources": [
+        "src_cache_canadiancampingmagazine_vol20_no2_1968winter",
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.25",
       "added_by": "ralph_loop"
     }
   ]

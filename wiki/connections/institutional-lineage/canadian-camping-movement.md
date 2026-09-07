@@ -1,7 +1,7 @@
 # The Canadian Camping Movement
 
-*Status: E1-reviewed | Sources: 19*
-*Last Updated: 2026-09-07 (the Commodore's day job, and he leaves Canada in 1927 like the obituary says)*
+*Status: E1-reviewed | Sources: 20*
+*Last Updated: 2026-09-07 (the Commodore identified: A. W. Forgie, boys' work, both his wars, and Madras)*
 
 ## Summary
 
@@ -366,10 +366,27 @@ to trip from her uncle. And he was **Associate** National Boys' Work Secretary w
 to whom Wallace Forgie was related by marriage — was **the** National Boys' Work Secretary. That is a
 direct working relationship, not a shared milieu.
 
-**The one gap is the name itself.** No source read here gives Wallace Forgie's initials, and none gives
-A. W. Forgie's full given names. The join is made by everything except the name, and it should not be
-tightened without them. If they match, the man who taught the movement's matriarch to canoe-trip was a
-national YMCA boys' work official who served in both wars and spent eight years in India.
+**And the obituary closes it, without the initials ever being needed.** J. Harry Ebbs's notice of him —
+"**Wallace Forgie, International Camper, 1883-1967**" — has been in this project's cache all along, and it
+narrates, in order, the exact career the roster gives:^20
+
+> "known as **Commodore** by the many young leaders who came under his influence **in Canada from 1908
+> until 1927**… Many men knew him when he **served five years overseas in the First World War with the
+> Y.M.C.A.** **Boys work in Western Canada** then occupied a number of years during which he conducted
+> many canoe trips into the north-west. He was an associate of the late **Dr. Hedley Dimock**…
+> **Y.M.C.A. boys work** then took "Uncle Wally" **to India** where he pioneered in camping. In 1935 he
+> built **Camp Tonakela near Madras**, which was officially opened by **Mr. and Mrs. Taylor Statten**."
+
+Set that against the table above: boys' work at Ottawa and Toronto and nationally; the **Canadian
+overseas secretaries list of 1919**; **Calgary** in 1919-20; **India** from 1927-28. Boys' work, the
+first war with the YMCA, western Canada, India from 1927, Madras. **Every point matches and nothing
+conflicts.** The identification never needed "A. W." to resolve to "A. Wallace" — two independent records
+narrate one life.
+
+*And the obituary gives what a roster cannot.* Five years overseas in the first war. The Calgary years as
+canoe trips into the north-west. An association with **Hedley Dimock**. And **Camp Tonakela**, opened by
+the Stattens themselves — a thread from this movement running to south India, where he gave thirty-two
+years to orphaned and street children of Madras and was called **"Tah-Tah"** by them.
 
 *Two other names on that same list are already in this article's world and are more doubtful, not less.*
 "**Sharpe, Capt. C. T.**" and "**Pearson, Capt. Oscar L.**" sit beside the C. T. Sharpe who was Ontario's
@@ -557,6 +574,7 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 17. "Come to Kanawana" brochure, 1928 season, YMCA of Montreal fonds [src_ymf_1928_come_to_kanawana_brochure]. See [f_5028].
 18. *YMCA Year Book and Official Rosters*, 1918-19 volume, page 434: "Overseas Secretaries, Canadian National Council, June 1, 1919" [src_umedia_ymca_yearbook_series], read in the University of Minnesota Libraries' digitized run (ContentDM collection p16022coll351). See [f_5303] and [f_5304].
 19. YMCA of Montreal annual reports for **1942** and **1947** [src_ymf_sgw_ymca_annual_report_1942, src_ymf_sgw_ymca_annual_report_1947], cached here since before this session. See [f_5311] and [f_5323].
+20. J. Harry Ebbs, "Wallace Forgie, International Camper, 1883-1967," *Canadian Camping Magazine* Vol. 20 No. 2, Winter 1968 [src_cache_canadiancampingmagazine_vol20_no2_1968winter], cached here since before this session. Its headline is OCR'd "WALLACE FOKBIE." See [f_5327].
 
 ## Research Notes
 

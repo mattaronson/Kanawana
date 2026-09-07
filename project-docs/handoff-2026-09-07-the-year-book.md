@@ -300,17 +300,18 @@ J. Holliday**, now that the given name, the 1906 start and the January 1948 reti
 hand; and the full 1915 annual report, which this project does not hold and which is the only
 route to the **summer of 1914** — the one camp season in the war decade still unnamed.
 
-- **`p_475` is the cheapest high-value item on the board, and it is a reading job, not a search.**
-  Forgie's initials, from the Ebbs obituary or the Northway profile — two documents this project
-  cites and has never opened. If "A. W." is A. Wallace, then the man who taught the Canadian
-  camping movement's matriarch to canoe-trip was a national YMCA boys' work official who served in
-  both wars and spent eight years in India.
-~~- **`p_471`** — the Guiton identification.~~ **Closed, and not by the route the priority proposed.**
-  I had suggested identifying Walt Reeves or Phil Godfrey to fix the poem's cast. Unnecessary: the
-  **1922 Kanawana brochure** lists "G. Guiton, North" among the Boys' Work Secretaries who take
-  camp applications, and the **1922-23 North Branch brochure** gives him as that branch's Boys'
-  Secretary under W. J. Holliday. Both were in the cache. *Fourth time today the answer was already
-  here.*
+~~- **`p_475`** — Forgie's initials.~~ **Closed, and the initials were never needed.** J. Harry
+  Ebbs's obituary — "Wallace Forgie, International Camper, 1883-1967," *Canadian Camping Magazine*
+  Winter 1968, headline OCR'd "WALLACE FOKBIE" — **was in the cache**, and it narrates in order the
+  exact career the roster gives: Canada 1908-1927, **five years overseas in the First World War
+  with the Y.M.C.A.**, **boys' work in Western Canada** with canoe trips into the north-west as an
+  associate of Hedley Dimock, then **India**, where in 1935 he built **Camp Tonakela near Madras**,
+  opened by Mr. and Mrs. Taylor Statten. Every point matches the roster and nothing conflicts. Two
+  independent records narrate one life. *He gave thirty-two years to the orphaned and street
+  children of Madras, who called him "Tah-Tah."*
+
+**Nothing on this board is now reachable from here.** What is left needs a person: the fifty-nine
+fonds images, the eleven browser items, and the operator's own conflicts.
 
 **For the operator, unchanged and not to be ground on:** `c_067`, `c_068`, `p_442`, `p_443`,
 `p_439`, the fifty-nine fonds images that need eyes rather than searches, and the eleven items in
