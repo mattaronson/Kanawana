@@ -71,6 +71,33 @@ subject's consent or on confirmation of death.
 `review_on` is a date to look again. It is never a date to publish
 automatically.
 
+## An assumption in all of this that turned out to be false
+
+**Checked 2026-09-07: this repository is public.** GitHub reports
+`mattaronson/Kanawana` as `visibility: public`, with no licence and no
+distribution notice.
+
+The directive quoted at the top of this file — that "for the purpose of
+collecting the data and writing the articles, the repo and wiki are fine" —
+defers publication policy to a wiki UI layer that will decide what to surface.
+Every embargo written since has been built on it. But an embargo marker is an
+HTML comment. On github.com the marker is invisible and the passage inside it
+renders as ordinary prose to anyone who opens the file. There is no UI layer
+standing between this material and the public. The repository is the surface.
+
+That does not make the reasoning above wrong. Omission really is invisible and
+permanent, and a hole in the record really is a serious thing to manufacture.
+What it means is that a complete working record and a world-readable working
+surface are two different things that have been treated as one, and they can be
+separated — by a private repository, or by holding the embargoed passages
+somewhere the public copy is not.
+
+Which of those to do is the operator's decision, not this project's. It is
+queued as **p_483**, blocked on him. Until it is answered, no further personal
+material about identifiable private individuals is being written into the repo,
+and `r_0006` stays summarised rather than transcribed: on a private repo that
+was the weaker treatment, and on this one it is the safer.
+
 ## The check
 
 `scripts/verify/restricted_guard.py` verifies that every embargoed fact is

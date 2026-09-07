@@ -4377,3 +4377,35 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   the last session (exempt_seen initialised on the wrong line) and camp-otoreke's
   Open Questions, which were numbered 1,1,2..9 after an insertion at the top.
   Verify green, all eight checks. Timestamp read from `date -u` in its own call.
+
+[2026-09-07T12:28:54Z] p_483 RAISED, blocked on the operator. THE REPOSITORY IS
+  PUBLIC AND THE EMBARGO SCHEME ASSUMES IT IS NOT.
+  Found while opening r_0006 to revisit it. Checked against the GitHub API
+  rather than assumed: mattaronson/Kanawana is visibility=public, private=false,
+  no LICENSE, no distribution notice.
+  kb/restricted/README.md records the 2026-09-03 directive that "for the purpose
+  of collecting the data and writing the articles, the repo and wiki are fine,"
+  with publication policy deferred to a future wiki UI layer. Eight register
+  entries, seven embargoed facts and six embargo blocks have been built on it.
+  But an embargo marker is an HTML comment: on github.com the marker is
+  invisible and the passage inside renders as ordinary prose. There is no UI
+  layer between the material and the public. The repo IS the surface.
+  ON THE DEFAULT BRANCH, not merely this one: wiki/people/leo-robitaille.md
+  carries a 1973 director's do-not-re-hire list naming three people and adverse
+  character assessments of two more by name. They were in their late teens and
+  twenties in 1973 and are now in their seventies. On this branch there are also
+  r_0003's named 1963 staff evaluations, r_0007's thirteen named children with
+  ages, and r_0008's thirty named children.
+  NOT AN ARGUMENT FOR DELETION. The README's reasoning against holes in the
+  record stands. The mismatch is between a complete working record and a
+  world-readable working surface, and those are separable.
+  ACTED ON ONLY BY RAISING IT. Repo visibility is the operator's call, and
+  stripping the material unilaterally would be the hole the register exists to
+  prevent. Pending his decision: no further personal material about identifiable
+  private individuals goes into the repo, and r_0006 STAYS SUMMARISED. It was
+  queued for revisiting because summarising a 27-name honour roll rather than
+  transcribing it inside markers was the weaker treatment under the README's own
+  reasoning -- on a private repo. On a public one it was the safer treatment, and
+  transcribing those names now would make the problem larger. The check-in
+  prompt's item (c) is therefore answered, not skipped.
+  Verify green. Timestamp read from `date -u` in its own call.
