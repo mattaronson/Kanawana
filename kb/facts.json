@@ -1,8 +1,8 @@
 {
-  "version": "8.91",
-  "kb_version": "8.91",
+  "version": "8.92",
+  "kb_version": "8.92",
   "migrated_from": "3.3",
-  "fact_count": 5219,
+  "fact_count": 5220,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -94128,6 +94128,24 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.91",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5258",
+      "category": "method",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Internet Archive",
+        "YMCA of Montreal",
+        "Kamp Kanawana"
+      ],
+      "claim": "THE 437 UNREAD PHOTOGRAPHS NARROWED TO FIFTY-NINE, WHICH IS AS FAR AS THIS ENVIRONMENT CAN TAKE THEM. The images in the Internet Archive's Montreal YMCA fonds that this project has not recorded carry generic titles and are NOT catalogued by camp, so a Kanawana photograph among them would never answer a search on the camp's name -- that is why they were counted rather than dismissed (f_5243). Filtering their titles on camp and outdoor words (canoe, camp, lake, cabin, tent, fire, outdoor, wood, paddle, swim, boat, trail, hike, nature, archery, craft, horse, ski, snow, winter) leaves FIFTY-NINE, and the list with identifiers is appended to the cached finding aid. The commonest are 'Day Camp Activity' (7), 'Swimming Class' (5), 'Swimming' (5), 'Winter Activity' (3), 'Ski Activity' (3) and 'Skiing' (3); the most suggestive singletons are 'Kids at a Camp' (2), 'Lodge Camp', 'Camping', 'Camp', 'Camp Activity', 'Boating' and 'Ski School 1964' and '1965'. A SUGGESTIVE TITLE IS NOT EVIDENCE OF ANYTHING AND MOST OF THESE WILL BE CITY POOLS, GYMS AND DAY CAMPS. The value is that it is fifty-nine items rather than four hundred and thirty-seven. TWO OF THE FIFTY-NINE ARE ALREADY-KNOWN SUBJECTS RATHER THAN LEADS, and were checked: 'Christieville Ski Lodge' is the association's own ski property, held here from the Concordia finding aids and the 1959 annual report, and 'In for a Dip - Lake Couchiching' is Geneva Park in Ontario, not Quebec. WHAT WOULD SETTLE ANY OF THEM is looking: a lake with hills behind it, platform tents, a council ring or a log lodge would say Kanawana; a tiled pool or a gymnasium floor would rule it out. Nobody here can tell the difference because nobody here can see them.",
+      "sources": [
+        "src_ia_ymca_montreal_fonds_enumeration_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.92",
       "added_by": "ralph_loop"
     }
   ]
