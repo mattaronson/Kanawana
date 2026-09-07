@@ -306,6 +306,26 @@ The 1965 Concordia archives listing includes "The Pathfinder program Summer Summ
 
 ### 1956-1958: "Values for Living," and the camp reorganised around the tent group
 
+**The framework was not the camp's, and it was not finished when the camp started using it.** The
+association's short annual report for 1959 gives its origin: "**In 1953 the Montreal Association set in
+motion a long-term examination of its goals**… a fresh statement emerged in the form of '*Values for
+Living*'. The new document was **five years in the process, but by 1958 it had been worked through by boards
+and committees** throughout the Montreal Association."^nb59 So the camp ran the framework from 1956, two
+years before the association finished writing it — a draft, tested in the field. The same report calls the
+whole thing a "**seven-year process**" that sharpened the Montreal Y's programme goals "to one of '*Value
+Education*' for young people."
+
+**And a second 1953 decision ran beside it, which is where the camp's 1959 experiment belongs.** Under the
+heading "A Decade of Experimentation": "**In 1953 a program modernization scheme was set in motion by the
+Metropolitan Board**… By the close of 1959 new program techniques have not only been developed, but they
+have been **tested and proven in a number of 'pilot' experimental projects in different branch settings**."
+The named pilots are a "model" extension branch at **Northeastern** from 1954, run as a community club with
+no building, and a **two-year $16,000 project at Notre Dame de Grâce** in 1958-59 on high-school Hi-Y
+clubs.^nb59 That is why the report heads its Kanawana paragraph "*Another* Significant Social Study" — the
+camp was **another** of the board's pilots, not the originator of the method. Both things are true at once:
+Kanawana was a test site in a scheme it did not start, *and* its results were carried back into the
+branches' autumn training (below).
+
 For three consecutive seasons the whole programme ran inside a stated framework. The report for the year ending 31 December 1957 says so plainly: "For the **second successive year** the camp program was conducted within the framework of the '**Values For Living**' and the '**Guide to Conducting Program**.' Camp provides a natural setting for work with **friendship groups** in the accomplishment of Association aims and objectives. The personal identification of staff members with these goals, and the increased interest in **evaluating the causes of individual behaviour rather than merely discipline of existing problems**, results in more meaningful program."^vfl Second successive year makes 1956 the first.
 
 The 1958 report sets out what it meant in practice, and it is the fullest statement of camp pedagogy this project holds for any year:

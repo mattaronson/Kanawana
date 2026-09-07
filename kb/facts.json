@@ -2,7 +2,7 @@
   "version": "10.10",
   "kb_version": "10.10",
   "migrated_from": "3.3",
-  "fact_count": 5537,
+  "fact_count": 5538,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99790,6 +99790,25 @@
       "claim": "A 1942 MONTREAL YMCA BOYS'-WORK PUBLICATION BY A MAN DOCUMENTED AT KANAWANA IN 1940, AND IT IS NOT ONLINE. Roby Kidd's own bibliography, item 42.02: 'A NEW DEED FOR CITY CHILDREN. Montreal: NOTRE DAME DE GRACE YOUNG MEN'S CHRISTIAN ASSOCIATION.' He was Program Secretary at that branch. The companion item 42.01 is 'Citizens are made -- not born', Survey Midmonthly 28, pp. 135-136. WHY IT IS WORTH WANTING. It is a Montreal YMCA publication about CITY CHILDREN, written in 1942 by a branch programme secretary who had run five seasons of a YMCA camp and who appears in Kanawana's own paper two years earlier. This project's wartime record for the camp is thin, and a document of that kind from that branch in that year is the sort of thing that discusses getting city children out of the city -- which is what the camp was for. NOT ASSERTED that it mentions Kanawana; nobody has seen it. THE NULL IS CONTROLLED ON TWO SURFACES: Open Library search-inside returns 0 for the exact title, and the Internet Archive's catalogue returns numFound 0. It is a branch pamphlet, so that is what one would expect. Queued as p_486 with its full citation, because a physical-archive request needs the citation more than it needs a search.",
       "sources": [
         "src_kidd_international_legacy"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5576",
+      "category": "program",
+      "date_ref": "1953-1959",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal",
+        "Values for Living",
+        "Planned Group Development"
+      ],
+      "claim": "'VALUES FOR LIVING' BEGAN IN 1953, THREE YEARS BEFORE THE CAMP USED IT, AND KANAWANA'S 1959 EXPERIMENT WAS ONE PILOT IN A DECADE-LONG BOARD SCHEME. The short 1959 annual report, read whole rather than for its Kanawana paragraph: 'IN 1953 THE MONTREAL ASSOCIATION SET IN MOTION A LONG-TERM EXAMINATION OF ITS GOALS... a fresh statement emerged in the form of \"Values for Living\". THE NEW DOCUMENT WAS FIVE YEARS IN THE PROCESS, BUT BY 1958 IT HAD BEEN WORKED THROUGH BY BOARDS AND COMMITTEES throughout the Montreal Association... In this SEVEN-YEAR PROCESS, the overall program goals of the Montreal Y have been sharpened to one of \"Value Education\" for young people.' AND A SECOND 1953 DECISION RAN BESIDE IT: 'A DECADE OF EXPERIMENTATION... In 1953 A PROGRAM MODERNIZATION SCHEME WAS SET IN MOTION BY THE METROPOLITAN BOARD. Committees at all levels throughout the branches and University took up the challenge. By the close of 1959 new program techniques have not only been developed, but they have been TESTED AND PROVEN IN A NUMBER OF \"PILOT\" EXPERIMENTAL PROJECTS in different branch settings.' Named pilots: a 'model' extension branch at NORTHEASTERN since 1954, run as a community club programme with no central building, and a TWO-YEAR $16,000 PILOT AT NOTRE DAME DE GRACE in 1958-59 on high-school youth in Hi-Y clubs. WHY THIS RESETS THE CAMP MATERIAL. wiki/traditions/programs-activities.md dates the framework by the camp's use of it -- '1956-1958: Values for Living' -- which stays right for the camp and is not the framework's origin. The association began formulating it in 1953 and finished in 1958, so THE CAMP WAS RUNNING A DRAFT. And the report's heading over the Kanawana paragraph, 'ANOTHER SIGNIFICANT SOCIAL STUDY', now reads correctly: the camp's 1959 Planned Group Development work was ANOTHER of the board's pilots, after Northeastern and the NDG Hi-Y project -- not a camp initiative that the branches later borrowed, which is how f_5557's finding could be misread. Both are true: the camp was a pilot site in a scheme it did not start, AND its results were carried back into the branches' fall training.",
+      "sources": [
+        "src_ia_sgw_ymca_annual_report_1959_short"
       ],
       "confidence": "stated",
       "conflicts_with": [],
