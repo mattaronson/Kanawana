@@ -1,8 +1,8 @@
 {
-  "version": "9.58",
-  "kb_version": "9.58",
+  "version": "9.60",
+  "kb_version": "9.60",
   "migrated_from": "3.3",
-  "fact_count": 5383,
+  "fact_count": 5388,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -97092,6 +97092,92 @@
       "conflicts_with": [],
       "added_version": "9.58",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5422",
+      "category": "history",
+      "date_ref": "1972-10-27",
+      "entities": [
+        "Camp Kanawana",
+        "Project Noosphere",
+        "Gabor Zinner"
+      ],
+      "claim": "THE KANAWANA IDENTIFICATION FOR PROJECT NOOSPHERE NO LONGER RESTS ON NEWSPAPER REPORT ALONE. wiki/traditions/programs-activities.md records that Zinner's 176-page MA thesis of 1973 NEVER NAMES Camp Kanawana, the YMCA or Saint-Sauveur, calling the venue only 'a summer camp in the Laurentian Mountains near Montreal', so the identification rested entirely on two French-language newspaper reports, Le Soleil of 7 July 1971 and Montreal-matin of 24 August 1971. The McGill Daily of 27 October 1972 carries an English-language interview with Zinner himself -- fourteen months after the event, a year before the thesis -- and its first sentence is: 'Project Noosphere is a simulation game which was played in the summer of 1971 AT CAMP KANAWANA in the Laurentians.' The research analyst who co-authored the scenario naming the camp in print is a materially better attestation than a report about him. Note what it still does not give: 'YMCA', 'Otoreke' and 'Saint-Sauveur' occur ZERO times in the issue, so the Association's part in hosting the event remains undocumented from any source.",
+      "sources": [
+        "src_mcgill_daily_1972_10_27"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.59",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5423",
+      "category": "history",
+      "date_ref": "1971",
+      "entities": [
+        "Project Noosphere",
+        "Canadian International Development Agency",
+        "CUSO"
+      ],
+      "claim": "THE NOOSPHERE COMMITTEE'S MEMBERS WERE AFFILIATED WITH CIDA AND CUSO. Phyllis Piatt's introduction to the 1972 interview: 'It was conceived of by the Noosphere Committee, individual members of which were affiliated with the CANADIAN INTERNATIONAL DEVELOPMENT AGENCY and with CUSO. The committee created the project to serve as an educational experience of international scope for a test group of young Canadians. The game was financed by an Opportunities for Youth grant.' The wiki had the Opportunities for Youth funding and, from Le Soleil, an attribution to Perspective-Jeunesse; the CIDA and CUSO affiliations are new. They matter because they say what kind of people rented the camp: development professionals building a teaching instrument, not a youth group running an activity.",
+      "sources": [
+        "src_mcgill_daily_1972_10_27"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.59",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5424",
+      "category": "history",
+      "date_ref": "1971",
+      "entities": [
+        "Project Noosphere",
+        "Camp Kanawana"
+      ],
+      "claim": "THE MECHANICS OF THE NOOSPHERE SIMULATION, WHICH THE WIKI'S THESIS-BASED ACCOUNT DOES NOT CARRY. From the 1972 interview. WEAPONS WERE COLOUR-CODED TO ECONOMIC RANK: the rich English village had squirt guns of YELLOW paint representing NUCLEAR capability, which could 'kill'; the middle and poor villages had RED paint, 'conventional weapons', which could only 'wound'. Zinner's reason: 'we had to make military capability a function of economic capability, which is the way it happens in the real world.' DEATH AND WOUNDING HAD DISTINCT COSTS: a killed player 'would be taken to an isolation area, which meant that he couldn't participate in the group's activities or productive processes', while a wounded one stayed in camp but could not contribute, 'which meant that they would actually constitute a burden to the village'. RESOURCES WERE ALLOCATED BY VILLAGE: the rich had running water, electricity, canned goods and video and tape recording; the middle village, in tents on platforms, controlled fresh produce, transportation and real estate; the poor village had one out-house and one pump, had to erect its own shelters, and controlled crude and raw materials -- oil and kerosene -- and was THE ONLY GROUP WITH AN OVEN TO BAKE BREAD. THERE WAS A PRINTED CURRENCY AND IT HAD A NAME: 'We printed up currency. They were referred to simply as NEWSPHERES, and the rich camp started out with I think 55% of all the newspheres programmed into the game. The middle-class camp had 30% and the poor had 20%.' EACH VILLAGE ALSO HAD INTERNAL CLASSES modelled on real economies: the rich village on the United States, with 'vast concentrations of wealth in the hands of a few individuals'; the middle village on 'Scandinavian countries'; the poor village with 'lots of indigents but one or two extremely wealthy people... the oil magnates of the Near East'.",
+      "sources": [
+        "src_mcgill_daily_1972_10_27"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.59",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5425",
+      "category": "history",
+      "date_ref": "1971",
+      "entities": [
+        "Project Noosphere",
+        "Gabor Zinner",
+        "Camp Kanawana"
+      ],
+      "claim": "ZINNER'S OWN READING OF WHAT HAPPENED, AND THE THING THE PLAYERS DID THAT NOBODY DESIGNED. On the national analogy: 'there were also cultural antagonisms which surfaced, which were very analogous to what we have here in Canada, in Quebec (because in part this was a CANADIAN simulation even though it attempted to be international in scope), in that the English were constantly the aggressors, and they espoused a capitalist ideology... whereas the French and bilingual camps were more in accord with a communal spirit. The English camp felt very menaced by demands for equity, and for the abolition of capital, and I would say that THE ENGLISH PARANOIA WAS BASED ON ECONOMICS PRIMARILY, RATHER THAN ON LANGUAGE. They knew they were sitting on the goods, and they knew the other camps weren't.' On what the teenagers did: 'They actually plundered the poor camp and massacred people -- it was really incredible. You couldn't imagine the fervor, I mean there were actual tears. Two guys went and wiped out thirteen people, and one of the guys, when he came back -- these are idealistic kids... they go in with the notion that the adult world is fucked up and that they're really pure, and they see themselves engaging in the same type of phenomena when it comes to haggling over concrete material goods -- and THE KID ACTUALLY CRIED WHEN HE REALIZED WHAT HE'D BEEN REDUCED TO.' AND THE STRANGEST TURN: the players voted capitalism back in, having been given the power to abolish it. They said 'we came here to learn about the real world and we don't want to be fantasizing in an idyllic Noosphere. Let us grapple with structures as they exist in the world... otherwise we're not going to be getting an education.' Zinner adds a second reason: 'they were really bored -- the thing wasn't challenging enough for them -- they wanted stimulus.'",
+      "sources": [
+        "src_mcgill_daily_1972_10_27"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.59",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5426",
+      "category": "meta",
+      "date_ref": "1971",
+      "entities": [
+        "Project Noosphere",
+        "Camp Kanawana"
+      ],
+      "claim": "PROJECT NOOSPHERE SPUN OUT OF traditions/programs-activities.md TO history/project-noosphere.md ON 2026-09-07. It was 421 words in an 11,176-word catch-all article, and the McGill Daily interview found the same day roughly doubled the material. TWO OF THE THREE SPINOUT CRITERIA HOLD -- its own arc (conceived by a committee with CIDA and CUSO affiliations, funded by Opportunities for Youth, played over a fortnight in August 1971, written up as an MA thesis in 1973) and length past a thousand words and growing. THE PLACEMENT ARGUMENT IS THE INTERESTING PART: it went to history/ rather than staying under Programs and Activities because IT IS NOT KANAWANA PROGRAMMING AT ALL. An outside body rented the site and ran a political simulation on it; the camp is the venue and not the author, and the article says so. MECHANICS: the parent uses LETTERED bullet sources and the child was renumbered to ordinary numbered notes 1-4; the three lettered entries the cut orphaned in the parent (ls71, mm71, zinner) were removed after checking that no marker anywhere in the file still cited them, and the parent's sources_cited was rebuilt from its actual text, 39 -> 33. Child registered as draft. ONE ERROR CAUGHT BEFORE IT LANDED: the draft called August 1971 'fourteen months after the October Crisis'. It is TEN. Checked by arithmetic rather than by feel, because a date interval written from impression is exactly the kind of thing that survives review.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.60",
+      "added_by": "manual"
     }
   ]
 }

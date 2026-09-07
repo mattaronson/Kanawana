@@ -31173,7 +31173,25 @@
       "notes": "WEREDALE HOUSE NAMED AS A CENTRAIDE AGENCY IN OCTOBER 1976, ONE YEAR BEFORE THE MERGER INTO YOUTH HORIZONS. Concordia's Chancellor, soliciting faculty and staff: Centraide 'has replaced such appeals as those formerly conducted separately by the Combined Jewish Appeal, the Federation of Catholic Charities, and Red Feather' and 'now raises funds for some 100 different social agencies in the Montreal region, providing assistance (to name only a few) to such groups as Red Cross, Montreal Diet Dispensary, WEREDALE HOUSE, University Settlement, and Y.W.C.A.' Chosen as one of five examples to stand for a hundred agencies, so a recognisable Montreal institution to a general readership. 'Kanawana' occurs ZERO times. See f_5420.",
       "read_state": "extracted",
       "read_state_basis": "direct: full djvu text downloaded 2026-09-07 and the letter read whole; Kanawana 0, Weredale 1, Otoreke 0."
+    },
+    {
+      "source_id": "src_mcgill_daily_1972_10_27",
+      "type": "periodical",
+      "title": "\"Project: Gabor Zinner, interviewed by Phyllis Piatt\" / \"Strange games in the Quebec bush\", The McGill Daily (The Review), Vol. 62 No. 28, 27 October 1972, pp. 2-3",
+      "date": "1972-10-27",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/McGillLibrary-mcgill-daily-v62-n028-october-27-1972-11775",
+      "cache_path": "sources/cache/mcgill/2026-09-07-zinner-noosphere-interview-1972.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.59",
+      "reliability": "primary",
+      "notes": "AN ENGLISH-LANGUAGE INTERVIEW WITH NOOSPHERE'S RESEARCH ANALYST, AND IT NAMES THE CAMP. This wiki records that Zinner's 176-page MA thesis NEVER NAMES Camp Kanawana, the YMCA or Saint-Sauveur, describing the venue only as 'a summer camp in the Laurentian Mountains near Montreal', so the identification rested entirely on two French-language newspaper reports of 1971. This interview, published fourteen months after the event and a year before the thesis, opens: 'Project Noosphere is a simulation game which was played in the summer of 1971 AT CAMP KANAWANA in the Laurentians.' WHAT ELSE IS NEW: the Noosphere Committee's members were affiliated with the CANADIAN INTERNATIONAL DEVELOPMENT AGENCY and CUSO; the weapons were colour-coded, YELLOW paint for the rich village meaning NUCLEAR capability and able to kill, RED for the other two meaning conventional and able only to wound, because 'we had to make military capability a function of economic capability, which is the way it happens in the real world'; resources were allocated by village (canned goods, video and tape recording to the rich; fresh produce, transport and real estate to the middle; crude oil, kerosene and THE ONLY OVEN to the poor); the currency was printed and called NEWSPHERES, split 55/30/20 between rich, middle and poor; death sent a player to an isolation area while a wounding left him in camp as 'a burden to the village'; each village had its own internal class structure, the rich modelled on the United States, the middle on Scandinavia, the poor with 'lots of indigents but one or two extremely wealthy people... the oil magnates of the Near East'; and the players themselves voted capitalism back in because 'they were really bored'. Zinner's own reading of the Anglo-French dynamic is here too: 'the English were constantly the aggressors... THE ENGLISH PARANOIA WAS BASED ON ECONOMICS PRIMARILY, RATHER THAN ON LANGUAGE.' WHERE IT DIFFERS FROM THE THESIS -- 45 participants against 46, ages 15-19 against 15-20, two weeks against three weeks rented, and 'one-third' each against the thesis's 12/17/16 -- PREFER THE THESIS, which he wrote with his notes in front of him; these are the expected slips of a man talking from memory fourteen months on and none is worth a conflict record. 'Kanawana' occurs twice in the issue, both here; YMCA, Otoreke and Saint-Sauveur 0. See f_5422 through f_5425.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded 2026-09-07 and the whole two-page interview read and transcribed at length, then the issue greped for the camp names."
     }
   ],
-  "source_count": 1734
+  "source_count": 1735
 }

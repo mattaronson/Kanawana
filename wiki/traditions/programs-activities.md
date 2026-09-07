@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-09-07 (the indoor camps, for the boys who did not go)*
+*Last Updated: 2026-09-07 (Project Noosphere spun out to history/)*
 
 ## Overview
 
@@ -349,11 +349,9 @@ A press release of 13 May 1969, sent to the *Gazette* and the suburban weeklies,
 
 The arrival of girl campers in 1968 or 1969 (sources differ; see the coeducation article for detailed analysis) necessarily affected programming. The first all-female Voyageur canoe trip in 1972 marked the extension of the camp's most demanding programme to girls within three years of formal coeducation.
 
-In the summer of 1971, Kanawana served as the venue for "Noosphere," an international development education simulation. A pre-event newspaper account (*Le Soleil*, July 7, 1971) described it as organized by Perspective-Jeunesse for approximately 100 young Canadians aged 16 to 19, modeled on a "Third World Village" organized in Winnipeg the previous year and the first such experience attempted in Quebec.^ls71 A second newspaper account appeared in *Montreal-matin* on August 24, 1971.^mm71 The event was the subject of a 1973 McGill MA thesis by Gabor Zinner, "Noosphere — an experiment in simulation" (Department of Political Science) — read in full 2026-07-08 after its host platform migrated to mcgill.scholaris.ca, having previously been access-gated.^zinner
+**In the summer of 1971 an outside body rented Kanawana for a fortnight and used it to run a model of the world.** Project Noosphere was a simulation game conceived by a committee whose members were affiliated with the Canadian International Development Agency and CUSO, financed by a federal Opportunities for Youth grant. Forty-six teenagers were divided into three villages by language — English, bilingual and French, designated rich, middle-class and poor — given unequal money and resources, armed with colour-coded water pistols, and left alone. There were coups, trade agreements and massacres, and the players eventually voted capitalism back in because they were bored.
 
-Zinner's own account gives the final, actual figures rather than the pre-event estimate: 46 participants aged 15–20 (not ~100 aged 16–19), organized under a "Noosphere Committee" funded by the federal "Opportunities for Youth" grant program. The thesis itself explains the gap — organizers "had hoped to attract nearly double the number of participants that were in fact engaged," meaning the ~100 figure reported in July was a recruitment target rather than a final headcount. Participants arrived August 22 and were divided into three villages by language: an English village ("Cannabis," 12 people) housed in an electrified farmhouse with a kitchen and indoor plumbing, a bilingual village ("Slide dans Slutch," 17 people) in tents on platforms, and a French village ("Triquenimo," 16 people, its name drawn from the first syllables of Trois-Rivières, Québec, Nicolet, and Montreal — the home regions of its members) in ground tents with the crudest facilities of the three. The farmhouse-plus-tents arrangement matches Front Camp's documented Farmhouse. The scenario's central turning point came on August 27, when a "capitalist" faction in the English village staged an in-game coup — killing six opposing members with coloured water pistols and co-opting the one neutral holdout — after the village had briefly voted to abolish money. The thesis's acknowledgements credit Pierre Devrud as co-author of the scenario and game master, and Professor Harold M. Waller (McGill Political Science) as Zinner's thesis adviser. Notably, the 176-page thesis never names Camp Kanawana, the YMCA, or Saint-Sauveur anywhere in its text — it describes the venue only as "a summer camp...in the Laurentian Mountains near Montreal," rented for three weeks; the Kanawana identification rests entirely on the newspaper coverage.^zinner
-
-The event remains notable as an early instance of Kanawana's facilities being used for externally organized programming with an international scope, anticipating the camp's later role as a year-round conference and retreat site.
+The full account — the four sources and where they disagree, the design of the money and the weapons, Gabor Zinner's reading of the Anglo-French dynamic, and the fact that nothing in the YMCA's own paper record acknowledges the event at all — is at **[[history/project-noosphere|Project Noosphere (1971)]]**. It was spun out of this article on 2026-09-07, when a McGill Daily interview with the project's research analyst roughly doubled the material. Noosphere is the earliest documented instance of Kanawana's site being rented to an outside organisation for programming unconnected to the YMCA's own aims, anticipating the camp's later role as a year-round conference and retreat site.
 
 Y camp counsellors received three-day leader training courses at Camp Kanawana in 1972, formalizing the pre-season staff preparation that had been part of camp operations in various forms since the 1920s.^sr72
 
@@ -548,10 +546,7 @@ environmental-education positioning without originating from it.
 - [emsb] EMSB school outdoor education programs at Camp YMCA Kanawana (web search results, 2026).
 - [ld37] "La St-Jean Ambulance." *Le Droit* (Ottawa), June 25, 1937. BAnQ numérique.
 - [we62] "Y Plans Bigger, Better Citizen Training." *The Westmount Examiner*, November 16, 1962. BAnQ numérique.
-- [ls71] "Le 'Noosphère' au Camp Kanawana." *Le Soleil* (Québec), July 7, 1971. BAnQ numérique.
 - [sr72] "Y Camp Counselors Get Leader Training." *The Sherbrooke Record*, July 21, 1972. BAnQ numérique.
-- [mm71] *Montreal-matin*, August 24, 1971. BAnQ numérique: https://numerique.banq.qc.ca/patrimoine/details/52327/4512657
-- [zinner] Zinner, Gabor. "Noosphere — an experiment in simulation." MA thesis, McGill University, Department of Political Science, 1973. https://mcgill.scholaris.ca/items/070685e4-ddbd-4a34-9110-8420d80720aa (read in full 2026-07-08).
 - [tb] YMCA Quebec, "Trailblazers CIT (Ages 16-17) – 48 days." URL: https://www.ymcaquebec.org/en/summer-camp-kanawana/trailblazers-counsellor
 - [le] Leigh Evans, "Camp" blog post. URL: https://leighcevans.wordpress.com/about/camp/
 - [comp] "Companion" job posting, Indeed (expired) [src_indeed_companion_job].

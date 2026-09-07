@@ -1223,22 +1223,30 @@
       ],
       "sources_cited": [
         "src_awesome_foundation_familles",
+        "src_cache_sgw_ymca_annual_report_1930",
+        "src_cache_sgw_ymca_annual_report_1937",
+        "src_cache_sgw_ymca_annual_report_1996",
         "src_concordia_12B03",
         "src_concordia_atom_12B04",
         "src_concordia_atom_12B07",
         "src_concordia_p0145_12b01_finding_aid",
         "src_glassdoor_outdoor_ed_director",
         "src_ia_canadian_camping_collection",
+        "src_ia_sgw_ymca_annual_report_1959_short",
+        "src_ia_ymca_montreal_news_bulletin_12_03",
         "src_indeed_companion_job",
         "src_kutz_if_by_miracle",
         "src_lapresse_fitspirit_2011",
+        "src_petit_fute_montreal_2011_2012",
         "src_vss_journee_plein_air",
         "src_wikipedia_woodcraft_league",
-        "src_petit_fute_montreal_2011_2012",
         "src_ymf_1936_kamp_kanawana_broadcast_station_cfcf",
-        "src_ymf_sgw_ymca_annual_report_1928",
+        "src_ymf_news_release_1969_05_13_202501",
+        "src_ymf_sgw_ymca_annual_report_1921_1922",
         "src_ymf_sgw_ymca_annual_report_1927",
-        "src_cache_sgw_ymca_annual_report_1937",
+        "src_ymf_sgw_ymca_annual_report_1928",
+        "src_ymf_sgw_ymca_annual_report_1932",
+        "src_ymf_sgw_ymca_annual_report_1933",
         "src_ymf_sgw_ymca_annual_report_1938",
         "src_ymf_sgw_ymca_annual_report_1939",
         "src_ymf_sgw_ymca_annual_report_1955",
@@ -1246,21 +1254,7 @@
         "src_ymf_sgw_ymca_annual_report_1958",
         "src_ymf_sgw_ymca_annual_report_1960",
         "src_ymf_sgw_ymca_annual_report_1961",
-        "src_ymf_news_release_1969_05_13_202501",
-        "src_ymf_news_release_1969_04_24",
-        "src_cache_sgw_ymca_annual_report_1971_1972",
-        "src_cache_sgw_ymca_annual_report_1972_1973",
-        "src_ymf_1968_05_03_proposal_for_french_language_day_camp",
-        "src_ymf_1968_french_day_camp_report",
-        "src_ymf_1971_01_25_french_program_summer_71",
-        "src_cache_sgw_ymca_annual_report_1996",
-        "src_ymf_sgw_ymca_annual_report_1921_1922",
-        "src_ymf_sgw_ymca_annual_report_1932",
-        "src_ymf_sgw_ymca_annual_report_1933",
-        "src_ymf_sgw_ymca_annual_report_1997",
-        "src_cache_sgw_ymca_annual_report_1930",
-        "src_ia_ymca_montreal_news_bulletin_12_03",
-        "src_ia_sgw_ymca_annual_report_1959_short"
+        "src_ymf_sgw_ymca_annual_report_1997"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -1275,7 +1269,7 @@
         "french-language-camping"
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-      "word_count": 11265,
+      "word_count": 11003,
       "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, renamed the orphaned 'R3 Verification Notes' H2 to the standard 'Research Notes' heading and condensed its bullet list into a single HTML-comment process-log entry. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -12186,7 +12180,42 @@
         "spinout"
       ],
       "notes": "Spun out of traditions/canoe-trips.md on 2026-09-07, where the Voyageurs material had grown to 8,346 words of a 16,292-word article. Seventeen source notes moved exclusively; note 36 (the YMCA of Montreal 112th Annual Report) is shared and was DUPLICATED into both articles rather than moved. The parent was renumbered too. One section that sat inside the moving block -- '1963 at Kanawana, in numbers, and a first for parents' -- STAYED IN THE PARENT because it is about the main camp's season and not the satellite's, and its opening back-reference was rewritten. Three embargo blocks (r_0003, r_0004, r_0005) moved whole with their markers paired."
+    },
+    {
+      "article_id": "project-noosphere",
+      "title": "Project Noosphere (1971)",
+      "wiki_folder": "history",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [],
+      "sources_cited": [
+        "src_banq_le_soleil_1971_07_07",
+        "src_banq_montreal_matin_1971_08_24",
+        "src_mcgill_daily_1972_10_27",
+        "src_mcgill_escholarship_zinner"
+      ],
+      "open_questions": 5,
+      "cross_links": [
+        "traditions/programs-activities",
+        "site/the-kanawana-site",
+        "history/between-centennials",
+        "traditions/french-language-camping"
+      ],
+      "file_id": null,
+      "word_count": 2287,
+      "tags": [
+        "spinout"
+      ],
+      "notes": "Spun out of traditions/programs-activities.md on 2026-09-07, where the Noosphere material was 421 words in an 11,176-word catch-all article and a McGill Daily interview with the project's research analyst roughly doubled it. Own arc, and it is not Kanawana programming at all -- an outside body renting the site -- which is why it went to history/ rather than staying under Programs and Activities. The parent article uses LETTERED bullet sources; the child was renumbered to ordinary numbered notes 1-4. The interview is the first source to name Camp Kanawana in connection with the project other than the two 1971 French newspaper reports: Zinner's own 176-page thesis never names the camp, the YMCA or Saint-Sauveur."
     }
   ],
-  "article_count": 122
+  "article_count": 123
 }
