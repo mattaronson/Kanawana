@@ -1,6 +1,8 @@
 # Handoff, 7 September 2026 — the Year Book, and a guess that was doing a finding's work
 
-*Thirteen commits from `e0f1c79` to `4fb65ff`. KB v8.96 → **v9.09**, 5,224 → **5,267 facts**.
+*Twenty-nine commits from `e0f1c79` to `17122f0`. KB v8.96 → **v9.23**, 5,224 → **5,287 facts**.
+Priorities 468 → **476**, of which 125 pending. 117 articles, ~419,000 words.
+`scripts/verify/all.py` green on every commit but one — `b17ce6b` went red and is the subject of rule 39.*
 Priorities 468 → **474**. `scripts/verify/all.py` green on every commit; CI green on every head.*
 
 ## The one thing to read first
@@ -81,8 +83,16 @@ Charlottetown** in 1914-15, and then **Overseas Representative of the National C
 Canada** in the 1915-16 and 1916-17 volumes before Victoria. *That last one was found only after
 this session had twice written him up as absent* — see the corrections below.
 
-**W. J. Holliday is Captain William J. Holliday**, and his going is bracketed to between 12
-February and 1 June 1918 by two Canadian overseas lists a year apart. Every roster this project ever saw gave him as
+**W. J. Holliday is Captain William J. Holliday**, and the association wrote his whole career out
+when he retired: "**retired after over 41 years** … joined the staff of the Montreal Y.M.C.A. in
+**1906** and, excluding periods of service overseas in **World War I and again in World War II**,
+and **two years on the Sydney, N.S. staff**, has worked throughout his career in this Association."
+Every piece assembled from the rosters is in that sentence, in the same order. He went overseas
+early in **1940**, returned late in **1945**, and retired in **January 1948**.
+
+**Four men who ran Montreal's camps were overseas at once** — Macdiarmid, Spearman, McGerrigle and
+Holliday, four eras of the camp's leadership, named in one paragraph of the 1942 report. That is
+why the camp's own record thins in exactly these years. Every roster this project ever saw gave him as
 "W. J." The 1918-19 volume's *Overseas Secretaries, Canadian National Council, June 1, 1919* —
 "released from regular Y. M. C. A. work for this special service" — gives the name and the rank.
 He did **not** recover the Boys' Work directorship; he was a membership assistant in 1909-10 and
@@ -283,18 +293,28 @@ volume catalogued 1941, and checking whether Beaton or Holliday is in it would s
 
 ## Where to go next
 
-- **`p_475`** — Forgie's initials, from the Ebbs obituary or the Northway profile. Two documents
-  this project cites and has never read in full. Cheapest high-value item on the board.
-- **`p_474`** — the Canadian overseas list is Canada-wide and about a hundred names; only the
-  Montreal ones have been taken. Read the rest against the people index. Also: does the 1917-18 or
-  1919-20 volume carry an equivalent, since presence in 1919 but not 1918 dates a man's going?
-  And the **symbol** prefixed to some names on the United States list — its key was not on any
-  page read, and Hollinshead carries it. Settle what it means before anyone reads significance in.
-- **`p_472`** — Holliday's overseas service and the **Sydney, Nova Scotia** posting, entirely
-  untouched. With "William" in hand a genealogical search is newly possible.
-- **`p_464`** — 1914 and 1915 in the Central boys' post are the last gap in the war-decade line.
-- **`p_467`** — Cross, 1915-1918, with the CEF records now the sharper instrument.
+**Everything the Year Book could answer, it has.** `p_464`, `p_465`, `p_466`, `p_467`, `p_468`,
+`p_469`, `p_470`, `p_472`, `p_473`, `p_474`, `p_476` and `p_477` are all closed. What is left in
+this seam is optional: what Holliday actually *did* at Sydney; a genealogical search on **William
+J. Holliday**, now that the given name, the 1906 start and the January 1948 retirement are all in
+hand; and the full 1915 annual report, which this project does not hold and which is the only
+route to the **summer of 1914** — the one camp season in the war decade still unnamed.
+
+- **`p_475` is the cheapest high-value item on the board, and it is a reading job, not a search.**
+  Forgie's initials, from the Ebbs obituary or the Northway profile — two documents this project
+  cites and has never opened. If "A. W." is A. Wallace, then the man who taught the Canadian
+  camping movement's matriarch to canoe-trip was a national YMCA boys' work official who served in
+  both wars and spent eight years in India.
+- **`p_471`** — the Guiton identification, through the two other names in that 1923 *Gas Bag* poem.
 
 **For the operator, unchanged and not to be ground on:** `c_067`, `c_068`, `p_442`, `p_443`,
 `p_439`, the fifty-nine fonds images that need eyes rather than searches, and the eleven items in
 `one-afternoon-with-a-browser.md`.
+
+## The shape of the day, in one line
+
+**The Year Book's real contribution was not its own content but the names and dates that made
+this project's own cache searchable.** Cross's overseas years, Holliday's war service and
+retirement, Brooks's departure for Ceylon, Pearson's whole identity, the 1913 camp staff — all of
+it was already in this repo, in annual reports marked read, unfindable until an outside source
+made the question precise enough to ask.
