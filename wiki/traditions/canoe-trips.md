@@ -7,6 +7,14 @@
 *2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
 *2026-07-05 (named trip staff added from photo-mined canoe-trip plaques, p_191 ENRICH pass) — photo gallery added 2026-07-02*
 
+## Overview
+
+Canoe tripping is the oldest continuous strand of Kanawana's programming and the one the camp was known for outside its own walls. It begins in 1925 as an optional extra, is a tiered system of graded routes by 1945, produces a separately accredited wilderness camp of its own in the 1960s and 1970s — [[site/les-voyageurs-de-la-verendrye|Les Voyageurs de la Vérendrye]], spun out of this article — and is still being described to American camp guides in the late 1980s as a ladder running "from 2 mile hikes to 100 mile wilderness canoe trips… according to age and ability."
+
+This article covers the camp's own tripping: the early trips and what they cost, the postwar routes, the movement-wide safety reckoning of 1975–1981 that reshaped how every Canadian camp ran a trip, and the boat-building of 2001–02. The wilderness satellite has its own article.
+
+## The early trips, 1925-1948
+
 Canoe trips were introduced to Kanawana's program in 1925, offered as an optional extra at $3.50 per camper on top of the regular camp fee. By 1928, the camp director was already proposing more ambitious expeditions, suggesting 10- to 12-day trips for senior campers.
 
 The program expanded significantly through the 1930s. In 1936, trips began departing for the Lake Archambault region north of the camp, and by the following summer eight separate trips were heading to the Archambault area in a single season. The shift from short local paddles to multi-day wilderness expeditions marked a fundamental change in how Kanawana understood its relationship to the Laurentian landscape. Camp was no longer just a fixed site. The backcountry became part of the program itself.
@@ -16,8 +24,6 @@ By 1945, the routes were codified into a tiered system: a 3-day Lachute trip for
 **And the receiving camp counted them.** Camp Perrot's season report for 1948 tabulates the overnight groups that used its property, and among the Central, Westmount, Southwestern and Point St. Charles Y boys it lists "**Kanawana Canoe Parties (2 visits) — 20**."^29 That is the other end of the intermediate route described above: twenty Kanawana trippers, in two parties, paddling to the association's other camp and sleeping there. It puts the two YMCA camps in an operational relationship and not merely an institutional one. See [[site/camp-perrot|Camp Perrot]].
 
 By 1962, the growth of cottager communities near Kanawana meant canoe trips had to drive over 150 km to reach suitable launch points.^mc The appetite for more remote territory led the camp committee to begin searching in 1956 for a northern site that could serve older, more experienced trippers. After three years of scouting, they chose La Vérendrye Park in 1959 as a base camp for campers aged 15 and older. The YMCA secured a 25-acre lease at Lac Landron as a base camp, and the program was formally named **"Les Voyageurs de La Vérendrye."**^mc That first summer, the Pathfinder section alone went on eighteen canoe trips — to the Rouge River, North River, Lake Kiamika, and Taureau.^mc By 1964, over twenty trips were departing each season.^mc The La Vérendrye canoe trip program, and the L&V Games competition that grew up alongside it, became inseparable from the camp's identity in the decades that followed.
-
-## The early trips, 1925-1948
 
 ### What a ten-day canoe trip cost in 1926
 
@@ -195,6 +201,13 @@ Today, canoe tripping remains central to the Kanawana experience. The 2026 progr
 One line in the Montreal YMCA foundation's grants table for 2001-2002 lists, under **YMCA Kamp Kanawana**, a "**Programme de construction de canots**" — a canoe-*building* programme, as distinct from everything else on this page, which is about canoes being paddled.^28 It sits beside a second Kanawana line, "Accessibilité au YMCA."
 
 *The money is not assigned here.* The scan puts **$16,323** on the accessibility line and leaves the canoe line without a figure of its own, so the amount may belong to either or be a total for both, and nothing in the table decides it. Nor is anything known about what the programme was, who ran it, how long it lasted, or whether a canoe came out of it. **"Canoe building" and "construction de canots" occur nowhere else in this project** — which, for an article this long about canoes, is worth saying plainly.
+
+## Open Questions
+
+1. [Important] **What happened to canoe tripping between 1948 and 1959?** This article jumps from the postwar routes to the founding of the wilderness satellite. The annual reports for those years have been read for other purposes; nobody has read them for tripping.
+2. [Important] **Did the movement's 1975–1981 safety reckoning change anything at Kanawana specifically?** The national material is well documented here — the 1975 flotation regulation, the 1978 fatality and the reckoning that followed, the 1979 rebuilding of the tripping ethic, the 1981 white-water precautions — but no Kanawana document has been found responding to any of it. A director's report from those years would settle it.
+3. [Nice-to-have] **Who were the trippers?** Named trip staff exist from photo-mined dining-hall plaques for 2000–2010 and from the Voyageurs reports; the decades between are anonymous.
+4. [Nice-to-have] **When did the camp stop running its own long trips**, if it did? The Porter Sargent guides describe the ladder in 1983–84 and 1987; the YMCA Quebec material describes present-day trips under different section names, and nothing here bridges them.
 
 ## Related Articles
 
