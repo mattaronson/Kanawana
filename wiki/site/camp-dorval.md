@@ -91,7 +91,19 @@ document connects the two leases.
 
 By **1943** it was "open from **May to October** for a limited number of residents, and in addition, was
 available for boating, swimming, tennis, archery, horse-shoes, picnics, etc. **Several conferences also
-took place on the property**."^4
+took place on the property**." The **1944** entry, its last, is the fullest: "Situated at Dorval, on Lake
+St. Louis, the Club was open May to October. **Twenty residents were accommodated.** Tennis, swimming,
+boating, archery were sports available on the property. **The Lachine 'Y' and the Y.S.O. organized
+several entertainments on the grounds**."^4
+
+**Its whole documented life is 1941 to 1944, which is the war.** Every annual report held here has been
+searched: "Lakeshore Club" occurs in exactly three volumes and nowhere else, and the bare word
+"Lakeshore" from 1946 onward — five and ten hits a volume in the later 1950s — is the **Lakeshore
+Branch**, not the club. The association describes it in 1942 as a long-sought amenity **for members**,
+and it then spends every recorded season serving forces personnel and vanishes as the war ends. **The
+documents do not choose between the two readings** — a members' club the war took over, or a facility
+the war made affordable — and neither does this article. What is established is that its span and the
+war's coincide, and that the association said it wanted to own the place and never reports doing so.
 
 **And the war took it.** The same 1943 report: "**Camp Otoreke at Lake St. Joseph, our Lakeshore Club at
 Dorval, and the Y.M.C.A. Ski Lodge at Ste-Adèle were continuously used, in the[ir] seasons, by men of
@@ -115,8 +127,8 @@ search. No document joins those to Dorval.
 3. [Nice-to-have] Where exactly was the house? "Overlooking the Royal Montreal Golf Club" locates it
    within a few hundred metres on the Dorval shore, and a 1925-1928 fire-insurance plan or lot roll would
    settle it.
-4. [Nice-to-have] What do the Concordia director's report (1926) and season report (1928) add? Neither
-   has been read; both are in Box HA1894.
+4. [Nice-to-have] What does the Concordia **1926 director's report** add? It has not been read; it is in
+   Box HA1894 with the 1928 season report, which has been.
 5. [Nice-to-have] Who were Sessenwein Brothers and what was the Marcil Trust Company's interest in
    lending a house at a nominal rent? Both are Montreal firms of the period and neither appears elsewhere
    in this project.
@@ -134,4 +146,4 @@ search. No document joins those to Dorval.
 1. YMCA of Montreal annual reports for the years ending 30 April **1926** [src_ymf_sgw_ymca_annual_report_1926], **1927** [src_ymf_sgw_ymca_annual_report_1927] and 31 March **1929** [src_ymf_sgw_ymca_annual_report_1929], each describing the previous season. The **1925** founding and MacKinnon's initiative, the **1926** equipment list and the **$1.00** weekend, and the **1928** figures with the proposal to discontinue are transcribed together at [f_5642].
 2. Concordia University Archives, YMCA of Montreal fonds, sub-series **P0145/12E**, Camp Dorval, **1926-1928**, 0.5 cm of textual records [src_concordia_12E]; the "Camp Dorval director's report" (1926) and "Report on Camp Dorval season 1928" are at [f_1852], and the sub-series description at [f_1365]. The **1926** director's report has not been read.
 3. *Report on Camp Dorval for the season of 1928* [src_camp_dorval_1928]. The **$75** lease, the roughly **$500** season, the twenty-cent meals and the recommendation that the camp be continued are at [f_1979]; **Dent Harrison**'s motor launch on **Lake St. Louis** is at [f_5005].
-4. YMCA of Montreal annual reports for the years ending 31 March **1942** [src_ymf_sgw_ymca_annual_report_1942] and **1943** [src_ymf_sgw_ymca_annual_report_1943]. The **Lakeshore Club** leased on Lake St. Louis in **1941**, the "for years the Association has sought a place in near proximity to the city" passage, the **May to October** season, and the wartime use of the association's outdoor properties "by men of the Forces" are all at [f_5644].
+4. YMCA of Montreal annual reports for the years ending 31 March **1942** [src_ymf_sgw_ymca_annual_report_1942] **1943** [src_ymf_sgw_ymca_annual_report_1943] and **1944** [src_ymf_sgw_ymca_annual_report_1944]. The **Lakeshore Club** leased on Lake St. Louis in **1941**, the "for years the Association has sought a place in near proximity to the city" passage, the **May to October** season, and the wartime use of the association's outdoor properties "by men of the Forces" are all at [f_5644].
