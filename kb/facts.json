@@ -1,8 +1,8 @@
 {
-  "version": "9.29",
-  "kb_version": "9.29",
+  "version": "9.30",
+  "kb_version": "9.30",
   "migrated_from": "3.3",
-  "fact_count": 5293,
+  "fact_count": 5296,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -95488,6 +95488,62 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.29",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5332",
+      "category": "chronology",
+      "date_ref": "1903",
+      "entities": [
+        "Harry Ballantyne",
+        "Kamp Kanawana",
+        "Camp Jubilee",
+        "Walter A. Maclaren"
+      ],
+      "claim": "THE 1903 CAMP SEASON, WHICH THIS PROJECT HAD NOTHING FOR: 'The Summer Camp was held as usual at LAC ST. JOSEPH from JUNE 26TH TO JULY 9TH, and was attended by FORTY-NINE BOYS. On account of THE DIFFICULTY IN SECURING PROPER SUPERVISION, it was found necessary to TAKE BOTH BUSINESS AND SCHOOL BOYS IN ONE CAMP. MR. HARRY BALLANTYNE WAS IN CHARGE, assisted by the following efficient corps of leaders: Dr. H. S. Shaw, Messrs. A. E. SHAW, H. H. PATCH, J. K. SHUTTLEWORTH, A. B. DAWSON, J. N. McCUAIG, W. A. MACLAREN and C. S. PATERSON. Excursions, athletic sports, mock trials, elections, boating, swimming, etc., kept the boys busily occupied, and all came home without any accident.' From Men of Montreal, June 1904, reporting the previous summer. THE ATTENDANCE SERIES HAS 1901, 1904 AND 1909 AND NOTHING FOR 1903, so the forty-nine, the dates and the leaders are all new. HARRY BALLANTYNE IS NEW TO THIS PROJECT AS A CAMP FIGURE and must not be confused with the Ballantyne of the 1944 history already here, who is a different man entirely; H. H. PATCH and J. N. McCUAIG are new outright. C. S. PATERSON is already in the directors table for the 1898 junior camp, so he is back five years on, and A. B. DAWSON is the Arthur B. Dawson who was Montreal's assistant physical director in the 1901 and 1902 Year Books.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1904_men_of_montreal"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.30",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5333",
+      "category": "chronology",
+      "date_ref": "1903-1904",
+      "entities": [
+        "Harry Ballantyne",
+        "Cecil M. Daggett",
+        "R. H. Macdonald"
+      ],
+      "claim": "THE SAME PUBLICATION EXPLAINS WHY THE 1903 CAMPS WERE COMBINED, TWO PAGES APART, AND NEITHER PASSAGE POINTS AT THE OTHER. The camp report gives the reason as 'THE DIFFICULTY IN SECURING PROPER SUPERVISION' (f_5332). The Boys' Department report in the same June 1904 issue of Men of Montreal gives the cause: 'Last May MR. R. H. MACDONALD LEFT THE WORK, AND DURING THE SUMMER MONTHS WE WERE WITHOUT A SECRETARY. In September Mr. C. M. Daggett came and took charge' (f_5288). SO THE ASSOCIATION RAN THE SUMMER OF 1903 WITH NO BOYS' SECRETARY AT ALL, and the camp was reduced from two to one for exactly that reason. It is the only year in this project's record where the camp's shape is directly traceable to a staff vacancy, and it explains the 1904 announcement's insistence on TWO camps -- a business boys' camp and a school boys' camp with separate application deadlines -- as a restoration rather than an innovation.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1904_men_of_montreal"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.30",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5334",
+      "category": "people",
+      "date_ref": "1903-1906",
+      "entities": [
+        "Walter A. Maclaren",
+        "Cecil M. Daggett",
+        "Kenneth J. Hollinshead"
+      ],
+      "claim": "W. A. MACLAREN IS WALTER MACLAREN, AND HE CAME UP THROUGH THE CAMP RATHER THAN OUT OF A COLLEGE -- WHICH QUALIFIES THE PATTERN IN f_5331 IMMEDIATELY. The 1905 Montreal annual report's officer list gives 'WALTER MACLAREN, Secretary Boys' Department', supplying a given name the rosters never do; he is the W. A. Maclaren the Year Book has as Boys' Work Director in the 1905-06 volume with an entry into Association work of 04. AND HE IS AT THE CAMP BEFORE HE IS ON THE STAFF: he is one of the eight volunteer leaders assisting Harry Ballantyne at the 1903 season (f_5332), a year before his entry year. SO OF THE FOUR MEN WHO HELD MONTREAL'S BOYS' WORK BETWEEN 1903 AND 1913, TWO WERE RECRUITED STRAIGHT OUT OF AMERICAN COLLEGES (Daggett of Colby 1903, Hollinshead of Albion 1910), ONE CAME FROM McGILL'S OWN STUDENT ASSOCIATION AT STRATHCONA HALL (Brooks), AND ONE CAME UP THROUGH VOLUNTEER CAMP LEADERSHIP (Maclaren). f_5331 called the college route a pattern worth testing and not a practice established; tested, it is one route of at least three.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1905",
+        "src_ymf_sgw_ymca_annual_report_1904_men_of_montreal"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.30",
       "added_by": "ralph_loop"
     }
   ]

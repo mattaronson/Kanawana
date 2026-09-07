@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 36*
+*Status: draft | Sources: 37*
 *Last Updated: 2026-09-07 (who was in charge in 1913, carried across from the directors index)*
 
 ## Overview
@@ -27,6 +27,7 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1901 | 60 | 147 | Split by age: 17 "Business Boys," 43 "School" — the earliest documented sectioning |
 | **1902** | *(ran)* | *(ran)* | The Junior Committee had charge of the Boys' Camp "from the middle of June to the 12th of July," the Senior Committee the balance to 6 September [f_4848] |
 | **1903** | **210** | — | "210 campers attended Camp Jubilee in 1903" — a figure this project already held and this series had never carried [f_0666] |
+| **1903** | **49** | — | **26 June – 9 July, at Lac St. Joseph.** "On account of the difficulty in securing proper supervision, it was found necessary to take both Business and School Boys in one camp." **Mr. Harry Ballantyne in charge**, with eight volunteer leaders. The association had **no Boys' Secretary at all** that summer — R. H. Macdonald left in May and C. M. Daggett did not arrive until September — which is the supervision difficulty the report means^37 |
 | 1904 | 79 | — | "the largest camp ever conducted" |
 | **1905** | *(ran)* | — | "We consider it to have been one of the most successful Camps we have ever held" [f_4848] |
 | **1906** | *(216 total)* | *(in the 216)* | "The Summer Camp was opened at Lac St. Joseph for the Victoria Day party, May 24th"; Business Boys 16–30 June, School Boys 30 June–14 July, Senior Camp 14 July–8 September. The four component figures are illegible in the OCR; only the total survives [f_4852] |
@@ -412,6 +413,7 @@ Three things stand out and none of them is visible from any single article.
 34. YMCA of Montreal annual report for the year ending 30 April 1923 [src_ymf_sgw_ymca_annual_report_1922_1923] — its Verdun branch narrative and its metropolitan enrolment table, which do not agree. Read 2026-09-06 under p_454. See [f_5173].
 35. National review of 1967, *National Council Bulletin* Vol. 41 No. 3 (1968), YMCA of Canada [src_ia_ymca_national_council_bulletin_41_03]. Internet Archive item `national-council-bulletin-vol-41-no-03`, in the `ymca-montreal-fonds` collection. Found 2026-09-07 by the enumeration at [f_5243]. See [f_5253].
 36. YMCA of Montreal, *Sixty-Third Annual Report, Year ending April 30th, 1914* [src_ymf_sgw_ymca_annual_report_1914]. The sentence this row's figure comes from also names the season's staff, which had not been extracted until 2026-09-07. See [f_5282] and [f_5285].
+37. *Men of Montreal* Vol. I No. 6, June 1904 — the association's monthly, this issue mastheaded the "Camp Club House, Lake St. Joseph, and Summer Camp Number" [src_ymf_sgw_ymca_annual_report_1904_men_of_montreal], with the YMCA of Montreal annual report for **1905** [src_ymf_sgw_ymca_annual_report_1905]. Both cached here since before this session. The 1903 season is reported in the June 1904 issue, which also announces the coming 1904 camps. See [f_5332] and [f_5333].
 
 ## Research Notes
 
