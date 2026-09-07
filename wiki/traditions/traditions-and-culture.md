@@ -1,7 +1,7 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 59*
-*Last Updated: 2026-09-07 (the c.1940 badges themselves, labelled by whoever kept the scrapbook)*
+*Status: E1-reviewed | Sources: 60*
+*Last Updated: 2026-09-07 (the Fowle attribution stated as the inference it is)*
 
 ## Overview
 
@@ -352,8 +352,28 @@ Taylor (Juvenile).
 **Two smaller things from the same fortnight.** A photographer, **Mr. Fowle**, spent the week at camp
 teaching a photography class and on the Friday "took a **mass picture of all Campers**," printed and
 displayed in the dining hall — so a whole-camp photograph of 1935 was made, which is worth knowing for
-anyone working through the fonds' image holdings. And **Mr. Spearman**, Camp Chief through 1934,
+anyone working through the fonds' image holdings. He was still there the following week: at the chapel
+service of **21 July**, "Mr. Harold Mills of Montreal sang, and several pictures were [taken] by Mr.
+Fowle. They are now on display in the dining hall."^60 And **Mr. Spearman**, Camp Chief through 1934,
 returned in 1935 to deliver the chapel address under his successor.
+
+**Was he a government photographer?** This project has said so, and the claim should be stated more
+carefully than that. The camp paper says only "photographer, who has done a great deal of work in **all
+parts of Canada**." The word *government* comes from the season chronicle, in a sentence whose scan has
+eaten the name it belongs to: "[unreadable] official government photographer, spent some time in camp
+taking both still and moving pictures."^60 The two accounts describe the same week — Howard C. Ross,
+K.C., reads his poetry in both — but that fixes the week, not the man, and the fourth week may have had
+one visiting photographer or two. **A government photographer named Fowle is an inference**, and the
+moving pictures, which would be the earliest film of Kanawana by twenty-five years, hang on the half of
+it that has no name attached.
+
+Eight further searches on 7 September 2026 — four in the digitised book corpus, two on the open web, and
+two of the archive index — returned nothing on him. The only Fowle the book corpus offers in a
+government-film setting is **"Chick" Fowle**, a cameraman of Britain's GPO Film Unit, which is the wrong
+country and, on the face of it, the wrong decade; it is named here so the next pass does not mistake it
+for a lead. One line remains open and is independent of him: on **13 July**, of the carnival's repeat
+performance for visitors, the paper says "at that time **press photographs** will be taken."^60 Press,
+not Fowle — which puts camp pictures in a Montreal newspaper of July 1935 if any survive. [f_5709]
 
 ## Cuckoo Day, 1938
 
@@ -783,4 +803,7 @@ Kanawana."^40 Whether either was ever held again is not known here.
 56. Henry F. Hall, *The Georgian Spirit: The Story of Sir George Williams University* [src_georgian_spirit_1967], which names "John P. Kidd" in a list headed "(a) Bachelor of Arts"; and *The Passionate Educators* [src_passionate_educators], whose notes cite four letters from J. R. Kidd to J. P. Kidd in 1950-51. Both reached through Open Library search-inside 2026-09-07; **neither full text was downloaded**, so both are snippet evidence. See [f_5571].
 57. Kamp Kanawana physical archive scans, 2026 [src_kanawana_physical_archive_scans_2026] — an operator-supplied set of scanned artefacts. The **c.1940** scrapbook page of felt badges is at [f_1582] and the **Kanawana Outing Club** badge at [f_1583]. Brought into this article 2026-09-07 under p_492, the orphan-fact sweep.
 58. *The Green Triangle*, Spring Issue, **30 March 1937** [src_ymf_the_green_triangle_1937_03_30], cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1937-03-30.txt`. The **1937** break-camp truckload, the "League of Nation nationalities" passage and the caricatures in it are at [f_5629]. **Jack Cameron**, first of the six named, is followed across four documents from **1936** to **1940** at [f_5626].
+
 59. Kamp Kanawana's own annual report for **1964**, its seventy-first season [src_ia_kanawana_report_1964], `sources/cache/ymca-montreal-fonds/1964-kamp-kanawana-annual-report.txt`. The staff of six nationalities in one section and the three English students who flew out on a charter are quoted from it directly; the camper origins — the Bahamas, the U.S.A., the two boys from **Japan**, the boy from **Haiti**, and the "new Canadian" boys — are at [f_2391], and the **535** campers and the counsellor figures at [f_2389]. Brought into this article 2026-09-07 under p_492, the orphan-fact sweep.
+
+60. *The Green Triangle* for **13 July**, **20 July** and **27 July 1935** [src_ymf_the_green_triangle_1935_07_13, src_ymf_the_green_triangle_1935_07_20, src_ymf_the_green_triangle_1935_07_27], and *A History of Kamp Kanawana*, the 1935 season chronicle [src_history_1935], cached at `sources/cache/green-triangle/1935-history.txt`. Read side by side 2026-09-07 under `p_495`; the government question and the null searches are at [f_5709], and the identification they qualify at [f_5628].
