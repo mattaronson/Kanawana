@@ -6156,3 +6156,33 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   [f_5094] shared no name, year or number with either. Reworded so each fact id
   sits beside the years it covers. The check works on notes as well as prose.
   Verify green, nine checks. Timestamp from `date -u` in its own call.
+
+[2026-09-07T16:11:11Z] REVIEW -- ORPHAN FACTS MEASURED FOR THE FIRST TIME.
+  CLAUDE.md's Coverage Analysis names orphan facts first and this project had
+  never counted them. Now it has: kb/reread/orphan_facts.md, queued as p_492.
+  THREE MEASURES, TWO REJECTED, AND THE REJECTIONS ARE WHY THE THIRD IS USABLE.
+  (1) Facts whose FACT ID appears in no article: 4,350 of 5,586. MEANINGLESS --
+  most articles cite sources by footnote, not facts by id.
+  (2) Whether an article cites a fact's SOURCE: this is what over-counted
+  p_491's Otoreke gap by about half an hour ago, because a fact citing an annual
+  report can be about a different camp entirely.
+  (3) THE ONE KEPT: neither the fact_id NOR any of the fact's source ids appears
+  anywhere under wiki/. 238 of 5,586 fail it. 131 of those are method, meta,
+  sources or sources_and_archives records that BELONG nowhere in the wiki --
+  process writing like this log entry. THAT LEAVES 107 SUBSTANTIVE.
+  IT IS STILL ONLY A PROXY AND THE FILE SAYS SO AT THE TOP. f_5608 is on the
+  list and its content went into kanawana-in-media.md the same day, because that
+  article's footnote 14 gives the Flickr URL with no [src_] bracket for the
+  measure to see. Grep the destination for each entry before believing it.
+  WHAT IS ACTUALLY THERE, and it is worth the priority: a 1913 REUNION BANQUET
+  MENU CARD dated 26 November 1913; a KANAWANA BROCHURE OF 1940 at Trent and
+  another from the 1970s; the 1941 HAND-DRAWN CAMP MAP; the 1918 season in
+  detail with the camp cook's name, Harry Smith; the felt-badge AWARD HIERARCHY
+  of c.1940 and a KANAWANA OUTING CLUB badge; a cyanotype blueprint for a
+  PROPOSED SERVICE WING TO THE DINING HALL; the autumn 1978 works and the 1979
+  staff tightening from Ka-News; the 1942 parade and circus.
+  NULL RESULTS ARE ON THE LIST ON PURPOSE. A recorded null is content, and an
+  article that does not carry it cannot tell a searched-and-empty question from
+  an unasked one.
+  Nothing added to the KB this unit; the measurement and its two rejected
+  predecessors are the output. Verify green. Timestamp from `date -u`.
