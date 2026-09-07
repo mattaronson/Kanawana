@@ -1,6 +1,6 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 49*
+*Status: E1-reviewed | Sources: 50*
 *Last Updated: 2026-09-07 (the Code of a Good Sport, and the 1935 change to how the Best Camper Shield was decided)*
 
 ## Overview
@@ -195,6 +195,15 @@ reads "the boys of Cjina" in that one sentence, against "the youth of Japan" and
 friends" either side of it; the OCR of this run is poor and the surrounding text is unambiguous.)* A
 koinobori flying over a Laurentian boys' camp in 1935, six years before Japan and Canada were at war,
 with a reply posted back — this project holds nothing else like it.
+
+**1938: fifteen nations, and an argument for why it mattered.** The opening campfire of the 1938
+season, in the Council Ring: "The first part of the programme was an expression of 'goodwill towards
+men' — goodwill towards the people of all nations and creeds. **The camp itself is cosmopolitan,
+having among its ranks campers who represent some fifteen different nations.** By becoming friendly
+with those fellows we will gain respect for their various countries, and, **because we form a part of
+public opinion, will be a force for internationalism**."^50 Fifteen nations against the nine counted
+in 1935, and a stated theory of why a boys' camp should care: that the campers were future public
+opinion. Written in July 1938.
 
 **1965: three languages a tent.** Thirty years on, a camper's own piece in *The Chestnut*: "In most
 tents, there are **at least three languages**. I think this is good because it helps campers to get
@@ -577,3 +586,4 @@ Kanawana."^40 Whether either was ever held again is not known here.
 47. *The Green Triangle*, **12 August 1933** and Vol. IV No. 2, **30 June 1935** [src_ymf_the_green_triangle_1933_08_12, src_ymf_the_green_triangle_1935_06_30]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 48. *The Green Triangle*, Vol. IV Nos. 3 and 4, **6** and **13 July 1935** [src_ymf_the_green_triangle_1935_07_06, src_ymf_the_green_triangle_1935_07_13]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 49. *The Green Triangle*, Vol. IV Nos. 5 and 6, **20** and **27 July 1935** [src_ymf_the_green_triangle_1935_07_20, src_ymf_the_green_triangle_1935_07_27]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+50. *The Green Triangle*, **1 August 1936** ("An Issue in verse") and the issue opening volume 45, **2 July 1938** [src_ymf_the_green_triangle_1936_08_01, src_ymf_the_green_triangle_1938_06_02]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. **Note the date discrepancy on the second**: the Internet Archive item is identified as `1938-06-02` and the cache file follows it, but the masthead reads "Kamp Kanawana - Saturday, July 2, 1938". July 2 1938 was a Saturday; June 2 was a Thursday. The masthead is preferred.

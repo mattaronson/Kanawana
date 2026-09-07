@@ -1,7 +1,7 @@
 # Is Kanawana the Oldest Camp in Canada?
 
-*Status: draft | Sources: 29*
-*Last Updated: 2026-09-07 (a 1938 broadcast counting from 1909 while calling the camp one of the oldest)*
+*Status: draft | Sources: 30*
+*Last Updated: 2026-09-07 (the camp used both age-conventions within five months of 1938)*
 
 ## Overview
 
@@ -563,6 +563,18 @@ and the 1983 "past 75 years" all count from the same point. Against them stands 
 48th season and the 1988 advertising's 93 years, both counting from the founding. **Two clocks, both
 running, for at least fifty years.**
 
+**And in 1938 the camp used both clocks within five months.** The *Green Triangle* opening the season
+on 2 July 1938: "The Montreal Y.M.C.A. has operated a camp in the Laurentians for the past **forty-four
+years**."^30 That counts from **1894**. On 10 November of the same year, on commercial radio, the
+announcer introducing Kanawana said "**for twenty-nine years now**, Kanawana has been a by-word amongst
+the boys of Montreal" — counting from **1909**.
+
+Both statements are the camp's, in the same season, and neither is careless: the July one is the
+editor's own opening paragraph, the November one was read from a script the camp supplied. This is
+the sharpest thing in this article. It is not that Kanawana was confused about its age. **It had two
+ages and used whichever fitted the sentence** — the founding when speaking of the association's work
+in the Laurentians, the permanent site when speaking of the camp people actually went to.
+
 ## Open Questions
 
 1. [Critical, advanced 2026-09-05] Close the operation gaps in [[meta/attendance-series|the attendance
@@ -640,3 +652,4 @@ running, for at least fifty years.**
 27. Kamp Kanawana recruitment advertisement, *The Link* (Concordia University) Vol. 8 Nos. 39-41, 22 and 29 March 1988 [src_concordia_link_1988_03_22]: "For 93 years we have shared our excitement…" Transcribed at `sources/cache/concordia-publications/2026-09-07-the-link-kanawana-1988-1993.txt`. See [f_5448].
 28. "The Voice of Youth" No. 30, full script, 10 November 1938 [src_ymf_1938_11_10_the_voice_of_youth_no_30]. Read 2026-09-07 under p_482. See [f_5485].
 29. *The Green Triangle*, Vol. IV No. 7, **4 August 1935**, and Volume 5, **Re-union Number, 17 October 1936** [src_ymf_the_green_triangle_1935_08_04, src_ymf_the_green_triangle_1936_10_17]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+30. *The Green Triangle*, **1 August 1936** ("An Issue in verse") and the issue opening volume 45, **2 July 1938** [src_ymf_the_green_triangle_1936_08_01, src_ymf_the_green_triangle_1938_06_02]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. **Note the date discrepancy on the second**: the Internet Archive item is identified as `1938-06-02` and the cache file follows it, but the masthead reads "Kamp Kanawana - Saturday, July 2, 1938". July 2 1938 was a Saturday; June 2 was a Thursday. The masthead is preferred.

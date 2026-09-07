@@ -1,8 +1,8 @@
 {
-  "version": "9.94",
-  "kb_version": "9.94",
+  "version": "9.95",
+  "kb_version": "9.95",
   "migrated_from": "3.3",
-  "fact_count": 5477,
+  "fact_count": 5480,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -98767,6 +98767,58 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.94",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5516",
+      "category": "documents",
+      "date_ref": "1938-07-02",
+      "entities": [
+        "The Green Triangle",
+        "The Gas Bag",
+        "Camp Kanawana"
+      ],
+      "claim": "THE GAS BAG WAS THE GREEN TRIANGLE'S PREDECESSOR, THE PAPER WAS READ ALOUD BEFORE IT WAS PRINTED, AND ITS VOLUME NUMBERING CONTRADICTS ITSELF. The issue opening the 1938 season: 'The Montreal Y.M.C.A. has operated a camp in the Laurentians for the past forty-four years. During those years A WEEKLY CAMP NEWSPAPER HAS BEEN PREPARED, KNOWN FIRST AS THE \"GAS BAG\" AND MORE RECENTLY AS THE \"GREEN TRIANGLE\", which WAS READ ORALLY AT THE SATURDAY NIGHT ENTERTAINMENTS. It was found, however, that there was difficulty in following the reading of the news attentively, and so was born THE PRINTED CAMP NEWSPAPER OF 1937.' THREE REVISIONS TO wiki/documents/green-triangle.md. (1) ONE PAPER, TWO NAMES: the Gas Bag is elsewhere in this wiki as a 1923 reunion newsletter; here it is the same weekly, renamed. A Gas Bag Extra numbered VOL. 13 in the sources supports a continuous series, and BOTH papers issued a Re-union Number for the annual alumni gathering. (2) IT WAS HEARD BEFORE IT WAS READ -- which is exactly what the 1932 issues describe as a fixed item of the Saturday programme -- and THE PRINTED PAPER BEGAN IN 1937 for the stated reason that listeners could not follow it. The 1932-1936 issues should therefore be understood as scripts for performance as much as documents, which is why their gossip columns are built from puns and running jokes. (3) THE NUMBERING DOES NOT AGREE WITH ITSELF: this issue is 'VOLUME FORTY-FIVE', counting from 1894, while the issues four seasons earlier are Vol. 1 in 1932, Vol. II in 1933, Vol. IV in 1935 and Volume 5 in 1936. Both numberings are the paper's own. RECORDED, NOT RESOLVED. Also: an appeal to join the 'PUBLISHER'S GUILD', the only name this project has for the paper's staff as a body.",
+      "sources": [
+        "src_ymf_the_green_triangle_1938_06_02"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.95",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5517",
+      "category": "history",
+      "date_ref": "1938",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "THE CAMP USED BOTH OF ITS AGE-CONVENTIONS WITHIN FIVE MONTHS OF 1938. On 2 JULY 1938 the Green Triangle opened the season: 'The Montreal Y.M.C.A. has operated a camp in the Laurentians for the past FORTY-FOUR YEARS' -- counting from 1894. On 10 NOVEMBER 1938, on commercial radio, the announcer introducing Kanawana said 'FOR TWENTY-NINE YEARS NOW, Kanawana has been a by-word amongst the boys of Montreal' -- counting from 1909 (f_5486). BOTH ARE THE CAMP'S OWN and neither is careless: the July one is the editor's opening paragraph, the November one was read from a script the camp supplied. THIS IS THE SHARPEST INSTANCE IN wiki/history/oldest-camp-question.md. It is not that Kanawana was confused about its age. IT HAD TWO AGES AND USED WHICHEVER FITTED THE SENTENCE -- the founding when speaking of the association's work in the Laurentians, the permanent site when speaking of the camp people actually went to.",
+      "sources": [
+        "src_ymf_the_green_triangle_1938_06_02"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.95",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5518",
+      "category": "traditions",
+      "date_ref": "1938-07",
+      "entities": [
+        "Camp Kanawana",
+        "Council Ring",
+        "Greig Macdiarmid"
+      ],
+      "claim": "FIFTEEN NATIONS IN 1938, AND A STATED THEORY OF WHY IT MATTERED. The opening campfire of the 1938 season, in the council ring: 'The first part of the programme was an expression of \"GOODWILL TOWARDS MEN\" -- goodwill towards the people of all nations and creeds. THE CAMP ITSELF IS COSMOPOLITAN, HAVING AMONG ITS RANKS CAMPERS WHO REPRESENT SOME FIFTEEN DIFFERENT NATIONS. By becoming friendly with those fellows we will gain respect for their various countries, and, BECAUSE WE FORM A PART OF PUBLIC OPINION, WILL BE A FORCE FOR INTERNATIONALISM.' Fifteen nations against the NINE counted at the 1935 torch ceremony (f_5507), and an argument for why a boys' camp should care -- that its campers were future public opinion -- written in July 1938. The Fire of Friendship element of the same ceremony, 'kindled by the torches of campers representing the Spirits of Work, Play, Co-operation and the True Spirit of Kanawana', is already held in wiki/traditions/traditions-and-culture.md; the fifteen nations and the argument are not. SEPARATELY the same issue records a Confederation-themed costume pageant in the Lower Pavilion and the announcement of an ALL-CAMP COUNCIL, a body this project has no other record of.",
+      "sources": [
+        "src_ymf_the_green_triangle_1938_06_02"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.95",
       "added_by": "ralph_loop"
     }
   ]

@@ -1,7 +1,7 @@
 # The Green Triangle
 
-*Status: draft | Sources: 12*
-*Last Updated: 2026-09-07 (the first issue of 1932; and the Re-union Number, an off-season alumni edition)*
+*Status: draft | Sources: 13*
+*Last Updated: 2026-09-07 (the Gas Bag was its predecessor; it was read aloud until the printed paper of 1937)*
 
 ## Overview
 
@@ -107,6 +107,42 @@ them had broken bones playing football, and the Kanawana boys running the Westmo
 membership campaign. The camp's newspaper, in other words, kept following its readers into the winter
 and into the city.
 
+## What the Paper Said About Itself in 1938
+
+The issue opening the 1938 season contains the only account this project has of the newspaper's own
+history, and it revises this article in three places.^13
+
+> The Montreal Y.M.C.A. has operated a camp in the Laurentians for the past forty-four years. During
+> those years **a weekly camp newspaper has been prepared, known first as the "Gas Bag" and more
+> recently as the "Green Triangle"**, which **was read orally at the Saturday night entertainments**.
+> It was found, however, that there was difficulty in following the reading of the news attentively,
+> and so was born **the printed camp newspaper of 1937**.
+
+**One paper, two names.** The *Gas Bag* is elsewhere in this wiki as a 1923 reunion newsletter. Here
+it is the *Green Triangle*'s direct predecessor, the same weekly, renamed. That the sources index
+holds a *Gas Bag Extra* numbered **Vol. 13** supports a continuous series rather than two separate
+publications, and both papers issued a **Re-union Number** for the annual alumni gathering — the
+1923 *Gas Bag* and the 1936 *Green Triangle* described above.
+
+**It was heard before it was read.** The weekly was "read orally at the Saturday night
+entertainments," which is exactly what the 1932 issues describe as a fixed item of the Saturday
+programme. **The printed paper began in 1937**, and for the stated reason that listeners could not
+follow the news read aloud. That is a real bibliographic distinction and it bears on how the
+1932–1936 issues should be understood: as scripts for performance as much as documents for reading,
+which is why their gossip columns are built out of puns and running jokes.
+
+**And the volume numbering does not agree with itself.** This issue presents "**volume forty-five** of
+the paper," hoping to maintain "the high standard of the issues of volume forty-four of last season."
+Volume 45 in 1938 counts from **1894**. But the issues above are numbered **Vol. 1 in 1932**, Vol. II
+in 1933, Vol. IV in 1935 and Volume 5 in 1936 — the *Green Triangle* numbering itself from its own
+first year. Both numberings are the paper's own, four seasons apart. **The contradiction is recorded,
+not resolved**: either the 1938 editors reached back to claim the whole 1894 series, or the earlier
+volumes counted the *Green Triangle* as a new paper and 1938 counted the weekly as one continuous
+thing. Nothing read so far settles which.
+
+The same issue asks readers to join a "**Publisher's Guild**" and turn up to its first meeting, which
+is the only name this project has for the paper's staff as a body.
+
 ## The Green Triangle Award
 
 Separately from the newsletter, "the Green Triangle" was also a coveted camper achievement award, given to a camper who accomplished a series of feats.^7 Charles "Smillie" Buckland, who attended Kanawana from 1944 to 1951, described being its first recipient, circa 1944–1948; he also held the camp's lake swim record.^7 ^8
@@ -148,6 +184,7 @@ The 1978–1982 revival recorded above has a witness from outside the run itself
 10. Derek Walsh, *Ka-News '78*, staff bulletin of 28 April 1978 [src_ymf_ka_news_1978_04_28]. Cached at `sources/cache/ymca-montreal-fonds/ka-news-1978-04-28.txt`.
 11. *The Green Triangle*, Vol. 1 No. 1, **23 July 1932** — the first issue [src_ymf_the_green_triangle_1932_07_23]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-07-23.txt`. Held since 2026-08-25 at read_state "skimmed", read word for word 2026-09-07 under p_482, in the systematic issue-by-issue read the article's open question 2 asks for.
 12. *The Green Triangle*, Vol. IV No. 7, **4 August 1935**, and Volume 5, **Re-union Number, 17 October 1936** [src_ymf_the_green_triangle_1935_08_04, src_ymf_the_green_triangle_1936_10_17]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+13. *The Green Triangle*, **1 August 1936** ("An Issue in verse") and the issue opening volume 45, **2 July 1938** [src_ymf_the_green_triangle_1936_08_01, src_ymf_the_green_triangle_1938_06_02]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. **Note the date discrepancy on the second**: the Internet Archive item is identified as `1938-06-02` and the cache file follows it, but the masthead reads "Kamp Kanawana - Saturday, July 2, 1938". July 2 1938 was a Saturday; June 2 was a Thursday. The masthead is preferred.
 
 ## Research Notes
 
