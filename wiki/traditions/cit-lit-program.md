@@ -1,7 +1,7 @@
 # The CIT/LIT Program
 
-*Status: draft | Sources: 12*
-*Last Updated: 2026-09-06 (p_297: cohorts as the unit of continuity)*
+*Status: draft | Sources: 13*
+*Last Updated: 2026-09-07 (the camp as a laboratory for leaders, stated nationally in 1931)*
 
 ## Overview
 
@@ -12,6 +12,16 @@ Camp Kanawana's Counsellor-in-Training (CIT) and Leader-in-Training (LIT) progra
 **The Counsellor-in-Training programme was running at Kanawana by 1941 at the latest.** This article previously dated its introduction to the 1960s; that was wrong by at least twenty years, and the correction comes from the camp's own radio broadcast. On CFCF on 26 June 1941, Chief Howie Langille set out the whole leadership ladder on air: fifty-eight counsellors took that year's training course, the Personnel Committee under J. W. Perks of the Protestant School Board selected forty-five, others were taken as Assistant Counsellors, and below them "our youngest group to receive leadership training are known as **Counsellors in Training**, and are selected from our most experienced campers. Of course it is the hope and ambition of each of these to become a counsellor after several years of experience and training."^7 A leadership pipeline from experienced camper to counsellor was therefore formal, named and publicly described before the Second World War.^1 A. Ross Seaman's directorship (1959–1967) — which also oversaw the 1959 section renaming and the La Vérendrye canoe-tripping expansion — provides the most likely institutional context for the CIT program's creation, though no source directly credits Seaman with introducing it specifically. The earliest documented CIT cohort is captured on a 1960 dining-hall plaque naming Ron McCallum simply as "Director" — most likely of the CIT/leadership program specifically rather than of the camp, since A. Ross Seaman is documented as overall director that year, though this remains conflict **c_013**, not settled.^2 Grand Portage served as the CIT director's cabin through the 1980s and 1990s.^3
 
 From 1975 onward — the earliest post-1960 CIT record, a plaque naming Lynne Robinson as "Directress" — and regularly through the 1980s, 1990s and into the early 2000s, the program appears on surviving dining-hall and canoe-board plaques, naming successive cohorts and their program directors year over year.^2 This — a continuity record that, taken together with the 1960 plaque, spans at least three and a half decades before the program's most recent documented form. Individual CITs and program directors named on these plaques are already catalogued collectively in [[people/directors-index|Directors and Staff of Camp Kanawana]]'s Section and Program Directors table, consistent with this wiki's policy of treating undocumented recent staff as collective reference-table entries rather than standalone biographical subjects.
+
+## The idea has a date, and it is 1931
+
+**"Camps would then be laboratories for the training of leaders in boys' work."** That sentence is not from Kanawana and not from the 1960s. It is the national **Boys' Work Committee** of the YMCA of Canada, reporting in **January 1931** on what it had learned from visiting sixteen boys' camps, and setting out "three main salients for attack" for improving them.^13
+
+The first was health and safety — "sanitation, culinary arrangements, food supply must be nothing less than the very best if we are to continue to serve the public through boys' camps." The second was the camp as education: **"to afford merely an outing to boys is no longer good enough."** The third was the shift this article is about:
+
+> "Some believe that the emphasis should be shifted **from the boys to their leaders**. Camps would then be **laboratories for the training of leaders** in boys' work… **If any Association had as many leaders in as many hours of training and service in its regular year-round program as it takes for granted in camp, it would consider it the central feature of its year's work.**"^13
+
+A sub-committee was authorised to study it. **The thought that a camp's real product is its leaders was therefore national YMCA policy talk a full generation before Kanawana's own leadership programmes**, and thirty-four years before the camp ran a laboratory training programme for its staff in 1965 and doubled pre-camp from one week to two. *That is an antecedent, not a cause.* Nothing connects the 1931 statement to the 1965 programme, and the two uses of the word differ: in 1931 it is a metaphor for leader-training, in 1965 a specific method out of the human-relations tradition. What it does mean is that when Kanawana began taking its CITs seriously it was not inventing a posture, it was catching up with one.
 
 ## The LIT Track and Notable Participants
 
@@ -154,6 +164,7 @@ As of 2026, the CIT program is branded "Trailblazers": a 48-day program (four se
 10. Mary Milne, "Counsellor in Training Manual Review," p. 15, with the CCA Bookstore order form and chapter list; and the *Camp Counsellor's Handbook* 2nd edition advertisement, p. 8 — both *Canadian Camping* Vol. 36 No. 1 (Spring 1984) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 150).
 11. Madelene Allen (Director, Camp Ouareau, and Quebec Camping Association Standards Committee), *Canadian Camping* Vol. 26 No. 2 (Winter/Spring 1974) [src_ia_canadian_camping_collection]. The night before the visitor, and the five CITs auditing the camp against the standards and their marking scheme. See [f_3784], [f_3785], [f_3823].
 12. Kanawana Flickr "Plaque" album [src_flickr_kanawana_plaque_album], via the plaque index at `kb/plaque-audit/person-index.json` — the boards "CITS 95", "Kanawana Staff 97", the We Shower Tent board of 2nd session 2000, the Leaders in Training of Summer 2008 and the 2009 Junior Counsellors board. Counts re-derived from the index 2026-09-06 under p_297. See [f_4932], [f_2340].
+13. National Boys' Work Committee report, *The News Bulletin* Vol. 7 No. 1 (January 1931), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_07_01]. Internet Archive item `the-news-bulletin-vol-07-no-01`, in the `ymca-montreal-fonds` collection. Found 2026-09-07 by the enumeration at [f_5243]. See [f_5250].
 
 ## Research Notes
 

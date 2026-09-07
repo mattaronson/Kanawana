@@ -1,8 +1,8 @@
 {
-  "version": "8.82",
-  "kb_version": "8.82",
+  "version": "8.83",
+  "kb_version": "8.83",
   "migrated_from": "3.3",
-  "fact_count": 5211,
+  "fact_count": 5212,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93981,6 +93981,25 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.82",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5250",
+      "category": "programs",
+      "date_ref": "1931-01",
+      "entities": [
+        "YMCA of Canada",
+        "Boys' Work Committee",
+        "Kamp Kanawana",
+        "Hedley Dimock"
+      ],
+      "claim": "THE CAMP AS A LABORATORY FOR TRAINING LEADERS IS A NATIONAL YMCA DOCTRINE OF JANUARY 1931, THIRTY-FOUR YEARS BEFORE KANAWANA RAN ONE. The Montreal News Bulletin of January 1931 prints the national Boys' Work Committee's report, which records sixty-two personal visits to forty local Associations and visits to SIXTEEN BOYS' CAMPS OR CAMP SITES, and then sets out 'three main salients for attack' for improving Association boys' camps. (a) HEALTH AND SAFETY: 'Sanitation, culinary arrangements, food supply must be nothing less than the very best if we are to continue to serve the public through boys' camps.' (b) THE CAMP AS EDUCATION: 'to afford merely an outing to boys is no longer good enough. Some Associations are concentrating on ways of making the boys' camp in the best and broadest sense truly an educational experience for their boys. They consciously plan their programs from this point of view.' (c) AND THE ONE THAT MATTERS MOST HERE: 'Some believe that the emphasis should be shifted from the boys to their leaders. CAMPS WOULD THEN BE LABORATORIES FOR THE TRAINING OF LEADERS IN BOYS' WORK. The boys themselves would benefit by more consecrated and better trained leaders and the Association would be using an unsurpassed means of recruiting training and using volunteer leaders. If any Association had as many leaders in as many hours of training and service in its regular year-round program as it takes for granted in camp, it would consider it the central feature of its year's work.' A sub-committee was authorised to study the question. WHY IT MATTERS: this project holds that KANAWANA RAN A LABORATORY TRAINING PROGRAMME FOR ITS STAFF IN 1965, the first year it did so, doubling pre-camp training from one week to two, and connects it to Hedley Dimock and the human-relations laboratory tradition at Sir George Williams. The word and the idea are in the national committee's own report in 1931. THAT IS AN ANTECEDENT, NOT A CAUSE: nothing here links the 1931 statement to the 1965 programme, and the 1931 use is a metaphor for leader-training while the 1965 one is a specific method. The same report also announces the Third World Assembly of Y.M.C.A. Workers Among Boys, to be held in Toronto.",
+      "sources": [
+        "src_ia_ymca_montreal_news_bulletin_07_01"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.83",
       "added_by": "ralph_loop"
     }
   ]

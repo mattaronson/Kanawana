@@ -30455,7 +30455,23 @@
       "extraction_version": "8.82",
       "reliability": "primary",
       "notes": "In the Internet Archive's ymca-montreal-fonds collection. Read 2026-09-07 under p_462 for its camping content; the rest of the issue, largely war services and prisoner-of-war work, is not read."
+    },
+    {
+      "source_id": "src_ia_ymca_montreal_news_bulletin_07_01",
+      "type": "periodical",
+      "title": "The News Bulletin, Volume 7, Number 1 (January 1931), YMCA of Montreal — the National Boys' Work Committee report",
+      "date": "1931-01",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/the-news-bulletin-vol-07-no-01",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-07T00:55:00Z",
+      "extracted": true,
+      "extraction_version": "8.83",
+      "reliability": "primary",
+      "notes": "In the Internet Archive's ymca-montreal-fonds collection. Read 2026-09-07 under p_462 for the national Boys' Work Committee's camp policy; the rest of the issue is not read."
     }
   ],
-  "source_count": 1693
+  "source_count": 1694
 }
