@@ -5079,7 +5079,9 @@
         "src_ymf_the_green_triangle_1938_07_09",
         "src_ymf_the_green_triangle_1938_07_16",
         "src_ymf_the_green_triangle_1938_08_06",
-        "src_ymf_1936_kamp_kanawana_broadcast_station_cfcf"
+        "src_ymf_1936_kamp_kanawana_broadcast_station_cfcf",
+        "src_cache_sgw_ymca_annual_report_1934",
+        "src_ymf_sgw_ymca_annual_report_1927"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -5094,7 +5096,7 @@
         "lv-games"
       ],
       "file_id": null,
-      "word_count": 9070,
+      "word_count": 9322,
       "notes": "Stub created 2026-02-27. Comprehensive inventory of named places, buildings, structures (current and historical). Includes Grand Portage and Longhouse from oral tradition (no written documentation found). Superintendent's house fire May 2023. Infirmary (5 beds), 30ft climbing wall, workshop pavilion added from web research. 13 open questions.",
       "tags": {
         "era": [
@@ -7751,7 +7753,8 @@
         "src_ymf_the_green_triangle_1935_07_20",
         "src_ymf_the_green_triangle_1935_07_27",
         "src_ymf_the_green_triangle_1935_08_04",
-        "src_ymf_the_green_triangle_1936_10_17"
+        "src_ymf_the_green_triangle_1936_10_17",
+        "src_ymf_sgw_ymca_annual_report_1927"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -7761,7 +7764,7 @@
         "site/camp-dorval"
       ],
       "file_id": null,
-      "word_count": 2723,
+      "word_count": 2877,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, softened a dated bold-label marker in prose. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

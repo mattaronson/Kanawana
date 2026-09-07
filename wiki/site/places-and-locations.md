@@ -1,6 +1,6 @@
 # Places and Locations at Camp Kanawana
 
-*Status: E1-reviewed | Sources: 29*
+*Status: E1-reviewed | Sources: 30*
 *Last Updated: 2026-09-07 (the three section names two years earlier, from the 1936 CFCF script)*
 
 ## Overview
@@ -299,6 +299,10 @@ A new hospital building was erected in 1922, which "assures comfortable quarters
 
 The outdoor chapel was in use by at least 1922, when the brochure describes "Sunday services in the open-air chapel" [src_brochure_1922]. The first service of the 1935 season was held on June 30 in "our beautiful open air chapel" [src_history_1935]. By 1938, Benny Leshley, organist of Christ Church Cathedral in Montreal, had organized a choir at the chapel to lead singing [src_green_triangle_1938]. The chapel was located near the Council Ring — the Council Ring was described as being "between the cabins and the chapel" [f_0232]. Whether the outdoor chapel remains in active use in its historic location is undocumented.
 
+**It was rebuilt in 1933, by fifteen boys, and two hundred people came to the dedication.** The association's report on that season: "The spirit of the camp was unusually fine, and **the rebuilding of the outdoor chapel by a group of 15 boys** was a project of exceptional value. **Two hundred people attended the dedication services.** Mr. W. H. Spearman was again in charge of the camp."^30
+
+Two things follow. **The chapel described in 1935 and 1938 above is not the 1922 structure but its 1933 replacement** — which the paragraph before this one had no way to allow for. And two hundred at a dedication is a large number for this camp: it took **232 boys** that whole season, so the service drew something close to the camp plus its visitors. The sentence that reports it opens by naming a deficit of **$1,386.33** standing on the association's books, and it is worth keeping the two halves together: the camp was in the red and led its account of the year with fifteen boys rebuilding a chapel. *(What was wrong with the old one, whether the rebuild moved it, and who the fifteen were are all unrecorded.)*
+
 ### Council Ring (1922)
 
 The Council Ring was built by senior campers in 1922, located between the cabins and the chapel [f_0231, f_0232]. It served as the camp's ceremonial amphitheatre for campfire programs, tribal ceremonies, and community gatherings. Under Harold Cross's directorship in 1927, a **totem pole** and a **teepee** (constructed from old canvas) were added [f_0233, f_0234]. The ring was substantially rebuilt in 1929 to seat 325 people [f_0235]. The totem pole was still visible in photographs from the 1970s [f_0227]. See [[site/council-ring|The Council Ring]] for full details.
@@ -547,3 +551,4 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 27. *The Green Triangle*, Vol. IV Nos. 3 and 4, **6** and **13 July 1935** [src_ymf_the_green_triangle_1935_07_06, src_ymf_the_green_triangle_1935_07_13]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 28. *The Green Triangle*, **9**, **16 July** and **6 August 1938** [src_ymf_the_green_triangle_1938_07_09, src_ymf_the_green_triangle_1938_07_16, src_ymf_the_green_triangle_1938_08_06]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 29. "Kamp Kanawana Broadcast — Station CFCF," 1936 script [src_ymf_1936_kamp_kanawana_broadcast_station_cfcf], cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07. See [f_5605].
+30. YMCA of Montreal annual report for the year ending 31 March **1934** [src_cache_sgw_ymca_annual_report_1934], on the **1933** season: the chapel rebuilt by **15** boys, the **two hundred** at the dedication, the **$1,386.33** deficit and **W. H. Spearman** again in charge. At [f_5646], which also carries the **1926** hike list naming **Becsis** among eight destinations [src_ymf_sgw_ymca_annual_report_1927].

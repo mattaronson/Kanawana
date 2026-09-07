@@ -1,8 +1,8 @@
 {
-  "version": "10.58",
-  "kb_version": "10.58",
+  "version": "10.59",
+  "kb_version": "10.59",
   "migrated_from": "3.3",
-  "fact_count": 5607,
+  "fact_count": 5608,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101067,6 +101067,26 @@
       "date_ref": "1929-1942",
       "conflicts_with": [],
       "added_version": "10.58",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5646",
+      "claim": "THE OUTDOOR CHAPEL WAS REBUILT IN 1933 BY FIFTEEN BOYS AND DEDICATED BEFORE TWO HUNDRED PEOPLE. From the YMCA of Montreal annual report for the year ending 31 March 1934, on the 1933 season, found under p_491 by sweeping the reports for Becsies and reading the paragraph around each hit rather than the hit.\n\n'[the] deficit which now stands on our books at $1,386.33. THE SPIRIT OF THE CAMP WAS UNUSUALLY FINE, and THE REBUILDING OF THE OUTDOOR CHAPEL BY A GROUP OF 15 BOYS WAS A PROJECT OF EXCEPTIONAL VALUE. TWO HUNDRED PEOPLE ATTENDED THE DEDICATION SERVICES. MR. W. H. SPEARMAN was again in charge of the camp.'\n\nWHAT IT ADDS. site/places-and-locations.md's 'Outdoor Chapel' section runs 1922 (the brochure's 'Sunday services in the open-air chapel'), 1935 (the season's first service on 30 June) and 1938 (Benny Leshley's choir), and records no construction event of any kind. THIS IS A DATED REBUILD, with a labour force, a scale and an audience -- and it means the chapel described in 1935 and 1938 is NOT the structure of 1922 but its 1933 replacement, which nothing in that section currently allows for.\n\nTWO HUNDRED PEOPLE AT A DEDICATION IS THE LARGER NUMBER. The camp took 232 boys that season (attendance-series.md). A service drawing two hundred is therefore close to the whole camp plus visitors, and the association thought it worth reporting to its subscribers alongside the year's deficit -- which is the other half of the sentence and worth keeping beside it: the camp was $1,386.33 in the red on the books and led its account of the season with fifteen boys rebuilding a chapel.\n\nW. H. SPEARMAN 'was AGAIN in charge', consistent with his known tenure as Camp Chief through 1934.\n\nNOT ESTABLISHED: what was wrong with the old chapel, whether the rebuild moved it, who the fifteen boys were, or what the dedication service consisted of. The $1,386.33 is described as a deficit standing ON THE BOOKS, which is an accumulated figure and not necessarily the season's own loss.\n\nSEPARATELY, FROM THE SAME SWEEP: the report for the 1926 season lists the camp's hike destinations as 'LAC MANITOU, VAL MORIN, SIXTEEN ISLAND LAKE, L'ACHIGAN, BECSIS, MORIN HEIGHTS, OTOREKE AND SHAWBRIDGE, with TOTAL ATTENDANCE OF 240'. Becsis among them puts boys walking to Lac Becs-scie in 1926, THREE YEARS BEFORE the 1929 development that camp-becsies.md dates its first period from -- so the site was in use as a destination before it was a camp.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1934",
+        "src_ymf_sgw_ymca_annual_report_1927"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Outdoor Chapel",
+        "W. H. Spearman",
+        "Kamp Kanawana",
+        "Lac Becs-scie"
+      ],
+      "date_ref": "1926-1933",
+      "conflicts_with": [],
+      "added_version": "10.59",
       "added_by": "ralph_loop"
     }
   ]

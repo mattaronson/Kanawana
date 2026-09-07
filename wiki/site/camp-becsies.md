@@ -1,6 +1,6 @@
 # Camp Becsies
 
-*Status: E1-reviewed | Sources: 15*
+*Status: E1-reviewed | Sources: 16*
 *Last Updated: 2026-09-07 (Becsies campers in Kanawana's chapel, and a girls' section by 1935)*
 
 ## Overview
@@ -16,6 +16,14 @@ The lake's coordinates (~45°51'12"N, 74°12'53"W) place it approximately 1.5 km
 A limerick in the *Green Triangle* (July 29, 1938) mentions a staff member Wallace who "found at Leke Becsies his solace," confirming that Kanawana staff knew Camp Becsies as a nearby location — consistent with a ~1.5 km walk through the woods.^4
 
 ## First Period: Youth Camp (1929-1936)
+
+**Boys were walking there before it was a camp.** The report on the **1926** season lists where the camp
+hiked: "Hikes were organized to **Lac Manitou, Val Morin, Sixteen Island Lake, L'Achigan, Becsis, Morin
+Heights, Otoreke and Shawbridge**, with total attendance of **240**."^16 That is three years before the
+1929 development below, and it puts Lac Becs-scie in the same list as Otoreke and Shawbridge — a place
+Kanawana boys already went on foot. **The 1929 build did not find the site; it settled on one the camp
+had been using.** Nothing in the report says the two are connected, and the hike list gives no
+indication that anything stood there.
 
 **What was built, and what it was for.** The report for the year ending 31 March 1930 — the site's
 first season — records "the building of a wharf, a new dining pavilion, four new tent floors, and
@@ -135,3 +143,4 @@ went both ways across the gender line.
 13. YMCA of Montreal, **113th Annual Report**, for the year ended **31 May 1965** [src_ymf_sgw_ymca_annual_report_1964] — camping section, "Family Camping." Its camping season is the summer of 1964 (see [f_5090]). Read 2026-09-06 under p_441. See [f_5094].
 14. *The Green Triangle*, Vol. IV Nos. 5 and 6, **20** and **27 July 1935** [src_ymf_the_green_triangle_1935_07_20, src_ymf_the_green_triangle_1935_07_27]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 15. *The Green Triangle*, Vol. IV No. 7, **4 August 1935**, and Volume 5, **Re-union Number, 17 October 1936** [src_ymf_the_green_triangle_1935_08_04, src_ymf_the_green_triangle_1936_10_17]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+16. YMCA of Montreal annual report for the year ending 30 April **1927** [src_ymf_sgw_ymca_annual_report_1927], on the **1926** season: "Hikes were organized to Lac Manitou, Val Morin, Sixteen Island Lake, L'Achigan, **Becsis**, Morin Heights, Otoreke and Shawbridge, with total attendance of **240**." At [f_5646].

@@ -7140,3 +7140,27 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   Added f_5645 (kb v10.58, 5607 facts). Note 30 and a new passage in quebec-camp-landscape.md; two
   sources added (8 -> 10). Caught and fixed a wrong source id before writing: the 1930 volume is
   src_cache_sgw_ymca_annual_report_1930, not src_ymf_..., which the id check surfaced immediately.
+
+2026-09-07T18:50:38Z  p_491 -- unit: the chapel was rebuilt in 1933, and boys walked to Becsies before it
+  was a camp.
+  Swept every annual report for Becsies (all spelling variants) and read the PARAGRAPH around each hit
+  rather than the hit. THE BECSIES MATERIAL ITSELF IS ALREADY WORKED -- camp-becsies.md has the Protestant
+  Orphans' Home's three consecutive summers, the $2,258 capital cost, the family camping grounds and the
+  mile and a half, and attendance-series.md already carries 259 boys and 917 boy-weeks for 1935 and
+  already flags the 1,017-versus-972 discrepancy for 1934. A confirming null on that camp.
+  WHAT THE SWEEP FOUND WAS IN THE NEIGHBOURING SENTENCES. From the report on the 1933 season: "The spirit
+  of the camp was unusually fine, and THE REBUILDING OF THE OUTDOOR CHAPEL BY A GROUP OF 15 BOYS was a
+  project of exceptional value. TWO HUNDRED PEOPLE ATTENDED THE DEDICATION SERVICES. Mr. W. H. Spearman
+  was again in charge of the camp." places-and-locations.md's Outdoor Chapel section ran 1922, 1935 and
+  1938 and recorded no construction event at all, WHICH MEANS THE CHAPEL DESCRIBED IN 1935 AND 1938 IS
+  NOT THE 1922 STRUCTURE BUT ITS 1933 REPLACEMENT -- something that section had no way to allow for.
+  Two hundred at a dedication is large for a camp that took 232 boys that season, and the sentence
+  reporting it opens by naming a deficit of $1,386.33 on the books. The article keeps the two halves
+  together: the camp was in the red and led its account of the year with fifteen boys rebuilding a chapel.
+  AND FROM THE 1927 REPORT, on 1926: "Hikes were organized to Lac Manitou, Val Morin, Sixteen Island
+  Lake, L'Achigan, BECSIS, Morin Heights, Otoreke and Shawbridge, with total attendance of 240." Three
+  years before the 1929 development camp-becsies.md dates its first period from. THE 1929 BUILD DID NOT
+  FIND THE SITE; IT SETTLED ON ONE THE CAMP HAD BEEN WALKING TO. Stated as what the documents show, with
+  the note that neither connects the two and the hike list implies no structure.
+  Added f_5646 (kb v10.59, 5608 facts). Note 30 and a new passage in places-and-locations.md (44
+  sources); note 16 and a new passage in camp-becsies.md (18 sources). All checks pass.
