@@ -1,8 +1,8 @@
 {
-  "version": "10.75",
-  "kb_version": "10.75",
+  "version": "10.76",
+  "kb_version": "10.76",
   "migrated_from": "3.3",
-  "fact_count": 5642,
+  "fact_count": 5644,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101715,6 +101715,43 @@
         "f_4849"
       ],
       "added_version": "10.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5681",
+      "claim": "THE KANAWANA BIRTHDAY CARD: PROPOSED 1970, DOCTRINE BY 1977, DESIGNED THAT YEAR -- AND IT ANSWERS 'WHAT BIRTHDAY?'. Three documents this project already held, none of them joined. (1) The 1970 annual report's recommendations for Camp '71, under Promotion: 'BIRTHDAY CARDS BE DESIGNED FOR CAMP AND SENT TO ALL CAMPERS.' It sits in a list with drench mailings, a better display booth, camper reunions twice a year, media coverage, camp-flavoured writing pads sold at camp, and year-round contact through the branches. (2) f_3940, ORPHANED AND CITED BY NO ARTICLE: John Latimer of Kilcoo Camp setting out the Canadian Camping Association's promotion doctrine in FEBRUARY 1977 -- the primary source of campers is old campers, be wary of large urban newspapers, and then 'BIRTHDAY CARDS, Christmas cards, calendars, two or three newsletters a year, and separate reunions for new campers'. (3) The 1977 Kanawana director's report thanking 'JIM SIMPKINS for his donation of THE DESIGN OF OUR KANAWANA BIRTHDAY CARD' (f_5649). SO THE CARD IS A CAMPER-RETENTION DEVICE SENT TO CHILDREN ON THEIR BIRTHDAYS, not an anniversary card for the camp -- a reading that was flagged as ambiguous when f_5649 was written and is now settled by the 1970 proposal that names its purpose. The sequence also shows Kanawana proposing in 1970 a technique its national association was still circulating as advice seven years later, and having a professionally designed card in the year the advice appeared.",
+      "sources": [
+        "src_ia_kanawana_report_1970",
+        "src_ia_kanawana_report_1977",
+        "src_cache_canadiancampingmagazine_vol29_no1_1977february"
+      ],
+      "confidence": "stated",
+      "category": "promotion",
+      "entities": [
+        "Kamp Kanawana",
+        "Jim Simpkins",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1970-1977",
+      "conflicts_with": [],
+      "added_version": "10.76",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5682",
+      "claim": "WHO WAS JIM SIMPKINS? A PLAUSIBLE IDENTIFICATION THAT IS NOT SUPPORTED, RECORDED AS A QUESTION SO NOBODY ASSERTS IT. The 1977 Kanawana report thanks 'Jim Simpkins' for donating the design of the camp's birthday card and says nothing else about him. THE OBVIOUS CANDIDATE IS JAMES SIMPKINS THE CARTOONIST, and one web search on 2026-09-07 establishes his biography: James Nathaniel Simpkins, born Winnipeg 26 November 1910, died Dundas, Ontario, 1 February 2004; trained at the Winnipeg School of Art; first job illustrating the Hudson's Bay Company's Beaver magazine; army medical corps illustrator in the war; from 1945 a film-strip artist for the NATIONAL FILM BOARD in Ottawa; creator of JASPER THE BEAR, a Maclean's feature from 15 November 1948 (named in the 1 December issue) until SEPTEMBER 1974, syndicated by Canada Wide Services 1967-74, and the mascot of Jasper, Alberta. NOTHING IN THAT CONNECTS HIM TO MONTREAL, TO THE YMCA, OR TO KANAWANA, and his best-known strip had ended three years before the card. He was alive and working in 1977, which makes the identification possible and nothing more. IT IS NOT ASSERTED ANYWHERE IN THIS PROJECT. The null is recorded because the name is distinctive enough that the next reader will have the same idea and should find it already tested rather than repeat the search or, worse, write it down. What would settle it: the card itself, any Kanawana or YMCA of Montreal publication crediting an artist by full name, or a Simpkins finding aid listing commissioned work. Note also that the camp's OTHER documented donated artwork of the period, Eric Sandmark's 1978 t-shirt design, was by a member of a family with three siblings on staff -- so a local, in-house donor is at least as likely a shape for this as a national cartoonist.",
+      "sources": [
+        "src_ia_kanawana_report_1977"
+      ],
+      "confidence": "disputed",
+      "category": "people",
+      "entities": [
+        "Jim Simpkins",
+        "James Simpkins"
+      ],
+      "date_ref": "1977",
+      "conflicts_with": [],
+      "added_version": "10.76",
       "added_by": "ralph_loop"
     }
   ]

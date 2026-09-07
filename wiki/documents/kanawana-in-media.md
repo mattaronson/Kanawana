@@ -1,6 +1,6 @@
 # Kanawana in Media and Culture
 
-*Status: E1-reviewed | Sources: 34*
+*Status: E1-reviewed | Sources: 36*
 *Last Updated: 2026-09-07 (every archival reference code corrected, by one; the Flickr album index read)*
 
 ## Overview
@@ -271,6 +271,45 @@ The centrepiece was not music but a comedy sketch. **Morry Cross** — "Kanawana
 
 *Morry Cross, Allan Steeves, Keith Farquarson, Bob Lemoine and John Houseman occur nowhere else in this project.* The script had been in this repo's cache, read for its songs, with all of the above still in it.
 
+## How the camp sold itself
+
+**The birthday card, 1970 to 1977 — and what birthday it was.** Three documents in this project sat
+unconnected until 2026-09-07, and joined they answer a question the third one raised.
+
+The **1970** report's recommendations for Camp '71, under Promotion: "**Birthday cards be designed for
+camp and sent to all campers.**" It sits in a list with drench mailings, a better display booth "more
+portable and… more like a camp display", camper reunions twice a year, coverage of "all media (ie TV,
+radio, etc.)", camp-flavoured writing pads sold at camp, and year-round contact through the branches.^34
+
+By **February 1977** it was national doctrine. John Latimer of Kilcoo Camp set out the Canadian Camping
+Association's promotion advice in *Canadian Camping*: the primary source of campers is old campers, be
+wary of advertising in large urban newspapers, and then "**birthday cards**, Christmas cards, calendars,
+two or three newsletters a year, and separate reunions for new campers".^35 [f_3940]
+
+And in **1977** the camp's own report thanks "**Jim Simpkins for his donation of the design of our
+Kanawana birthday card**".^33
+
+**So the card is a camper-retention device sent to children on their birthdays**, not an anniversary card
+for the camp — a reading flagged as ambiguous when the 1977 acknowledgement was first recorded, and
+settled by the 1970 proposal that names its purpose. The sequence also shows Kanawana proposing in 1970 a
+technique its national association was still circulating as advice seven years later, and holding a
+professionally designed card in the year the advice appeared. [f_5681]
+
+**Who Jim Simpkins was is not established, and the obvious answer has been tested.** The report names him
+and says nothing else. The candidate that suggests itself is **James Simpkins the cartoonist** — James
+Nathaniel Simpkins, born Winnipeg 1910, died Dundas, Ontario, 2004, creator of **Jasper the Bear**, a
+*Maclean's* feature from November 1948 until **September 1974** and the mascot of Jasper, Alberta; he
+trained at the Winnipeg School of Art and worked from 1945 as a film-strip artist for the National Film
+Board in Ottawa.^36
+
+**Nothing in that connects him to Montreal, to the YMCA, or to this camp**, and his best-known strip had
+ended three years before the card. He was alive and working in 1977, which makes the identification
+possible and nothing more, so it is **not asserted here**. It is written down because the name is
+distinctive enough that the next reader will have the same idea, and should find it already tested rather
+than repeat the search or write it down as fact. Worth weighing against it: the camp's other documented
+donated artwork of the period, **Eric Sandmark's 1978 t-shirt design**, came from a member of a family
+with three siblings on staff — so a local, in-house donor is at least as likely a shape for this. [f_5682]
+
 ## Journalism
 
 **1897 Montreal Gazette.** *The Montreal Gazette* published an article about YMCA Summer Camp Kanawana on July 7, 1897 — just three years after founding. This is the earliest known newspaper coverage of the camp.^13
@@ -401,6 +440,8 @@ To which can be added a fifth of a different kind: **Armand B. Ball, *Basic Camp
 32. *The Gazette* (Montreal), **11 July 1918** [src_newspapers_gazette_1918], `sources/cache/web-pages/newspapers_gazette_1918.txt`. **The cache carries the page OCR, not only the paywall wrapper**, and the paragraph headed "AT CAMP KANAWANA" is in it verbatim — checked 2026-09-07 under p_492, after the sibling record `src_newspapers_com_gazette` turned out to hold nothing but chrome. The **Frank Lawes** filming is at [f_0439] and [f_0608]; the **110**-member attendance and the **1918** activity list are at [f_0437] and [f_0438].
 33. Kamp Kanawana director's report for **1977** [src_ia_kanawana_report_1977], `sources/cache/ymca-montreal-fonds/1977-kamp-kanawana-directors-report.txt`, in its section of acknowledgements. **George Balcan** and **Jack Finnigan** of **CJAD**, the ten drug companies that stocked the infirmary, **Jim Simpkins**'s donated birthday-card design and the rest of the list are at [f_5649]; the **Clouston Company**'s drink machine, from the same page, is at [f_5648].
 34. Kamp Kanawana's own directors' reports for **1976** [src_ia_kanawana_directors_report_1976] and **1978** [src_ia_kanawana_report_1978], cached in `sources/cache/ymca-montreal-fonds/`; their APPRECIATION sections and, in the 1976 report, the poem printed between the acknowledgements and the statistical appendix. Read 2026-09-07 under `p_499`. See [f_5660] for the radio broadcasts and [f_5661] for the poem; [f_5659] sets out the whole 1975-79 run of acknowledgement lists.
+35. John Latimer (Director, Kilcoo Camp), "Promotion", *Canadian Camping* Vol. 29 No. 1, **February 1977** [src_cache_canadiancampingmagazine_vol29_no1_1977february]. The Canadian Camping Association's promotion doctrine, including birthday cards among the retention devices. **John Latimer**'s February 1977 doctrine, birthday cards included, is at [f_3940] — which had been in the KB since before this section existed and was cited by no article.
+36. **James Simpkins, biographical, and a null.** One web search on **2026-09-07** under `p_491`, returning The Canadian Encyclopedia, Wikipedia, the Lambiek Comiclopedia and the Canadian Animation, Cartooning and Illustration encyclopedia. These establish the cartoonist's dates and career and **nothing linking him to Montreal, the YMCA or Kanawana**; the identification is recorded as untested rather than made. See [f_5682].
 
 *All four are lending-restricted on the Internet Archive and none has been read; each passage was reconstructed from overlapping Open Library search-inside queries and is cached with its queries under `sources/cache/openlibrary-search-inside/`.*
 

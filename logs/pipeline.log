@@ -7578,3 +7578,25 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   counts that agree across sixty years. 1892 is not a new candidate anyway -- it is already among the association's own unreliable
   retrospective dates from 1932, 1933, 1954 and 1955.
   KB v10.74 -> v10.75, 5,639 -> 5,642.
+2026-09-07T20:03:52Z  p_491 + p_492  ATOMIC UNIT: the birthday card, joined across seven years -- and a plausible identification refused.
+  Finishing the 1970 report (having been caught twice today for not finishing a document) turned up its Promotion recommendations, and one
+  line joined three documents this project already held and had never connected.
+  1970: "BIRTHDAY CARDS BE DESIGNED FOR CAMP AND SENT TO ALL CAMPERS", in a list with drench mailings, a more portable display booth,
+  camper reunions twice yearly, coverage of "all media (ie TV, radio, etc.)", camp-flavoured writing pads sold at camp.
+  FEBRUARY 1977: f_3940, AN ORPHAN CITED BY NO ARTICLE -- John Latimer of Kilcoo setting out the Canadian Camping Association's promotion
+  doctrine, which lists "birthday cards, Christmas cards, calendars, two or three newsletters a year". p_492 orphan closed.
+  1977: the camp thanks "Jim Simpkins for his donation of the design of our Kanawana birthday card" (f_5649).
+  SO THE CARD IS A CAMPER-RETENTION DEVICE SENT TO CHILDREN ON THEIR BIRTHDAYS, not an anniversary card for the camp. I flagged that
+  ambiguity explicitly when writing f_5649 earlier tonight ("what birthday?") and the 1970 proposal names the purpose. Kanawana proposed in
+  1970 a technique its national association was still circulating as advice seven years later.
+  AND THE IDENTIFICATION IS REFUSED, WHICH IS THE POINT OF THE UNIT. "Jim Simpkins" suggests James Simpkins the cartoonist. One web search
+  establishes him: James Nathaniel Simpkins, Winnipeg 1910 - Dundas ON 2004, Winnipeg School of Art, HBC's Beaver magazine, army medical
+  corps illustrator, NFB film-strip artist in Ottawa from 1945, creator of JASPER THE BEAR in Maclean's Nov 1948 to SEPTEMBER 1974.
+  NOTHING CONNECTS HIM TO MONTREAL, THE YMCA OR THIS CAMP, and the strip had ended three years before the card. He was alive and working in
+  1977; that is all. NOT ASSERTED ANYWHERE. Written down as a tested null so the next reader finds it already checked rather than repeating
+  the search or writing it down. Counter-weight recorded too: the camp's other documented donated artwork of the period, Eric Sandmark's
+  1978 t-shirt, came from a family with three siblings on staff -- a local in-house donor is at least as likely a shape.
+  This is the second time today a name that "looked like" a public figure was queried before being believed. The first was William Fowle.
+  MECHANICAL NOTE: my "Sources: 34" replace failed silently because add_source_note.py had already bumped the header to 35, and the
+  no-assert replace hid it. verify_harness caught the mismatch. Assert on every header edit, not just the prose ones.
+  KB v10.75 -> v10.76, 5,642 -> 5,644.
