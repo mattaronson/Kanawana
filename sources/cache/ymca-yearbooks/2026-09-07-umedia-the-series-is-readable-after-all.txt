@@ -464,3 +464,51 @@ WHAT DID NOT WORK, RECORDED SO IT IS NOT RETRIED: Open Library search-inside on 
 forms. "Brooks, M. G." 934 hits, "M. G. Brooks" 346, "Murray Brooks" 190 -- all noise, the name
 being far too common. The book corpus is the wrong instrument for a man with this name; the
 roster, with its entry-year figure, is the right one.
+
+
+==========================================================================================
+SEVENTH PASS — THE SAME ENTRY-YEAR TRICK, APPLIED TO KANAWANA'S FIRST CAMP DIRECTOR
+==========================================================================================
+
+W. J. HOLLIDAY, followed on his entry-year figure of 06 through the alphabetical list of
+employed officers, exact-phrase "Holliday, W. J.":
+
+  1905-06   "Montreal, Que. Asst., 06"
+  1907-08   "Montreal, Que., Boys, 06"
+  1910-11   "Montreal, Fairmount, Sec, 06"
+  1912-13   "Montreal, North Br., Sec, 06"
+  1914-15   "Montreal, North Br., Sec, 06"
+  1915-16   "Montreal, North Br., Sec, 06"
+  1916-17   "Montreal, North Br., Sec, 06"
+  1917-18   ABSENT
+  1918-19   ABSENT
+  1919-20   "SYDNEY, N. S., Sec, 06"
+  1920-21   "Sydney, N. S., Sec, 06"
+  1922-23   "Montreal, Que., North, Sec, 06"
+  1923-24   "Montreal, Que., North, Sec, 06"
+
+SO THE FIVE-YEAR HOLE NARROWS TO ABOUT TWO, and the destination is Cape Breton.
+
+AND THEN THE CACHE ANSWERED THE REST. Montreal's report for the year ending 30 April 1918:
+  "North Branch. -- MR. W. J. HOLLIDAY, SECRETARY, RESIGNED FOR OVERSEAS SERVICE and was
+   succeeded by MR. T. S. SMITH, OF QUEBEC, ON FEBRUARY 12TH. Mr. W. S. MAGUIRE resigned as
+   Physical Director ON DECEMBER 20TH, to become Secretary of the BRANDON ASSOCIATION.
+   Mr. S. B. CUTHBERT retired APRIL 30TH, to enter business life. Mr. J. G. CRUIKSHANK, A
+   RETURNED SOLDIER who has been doing splendid work with Mr. MacKinnon in Central, succeeds
+   MR. GEO. W. O. MATTHEWS, as Boys' Work Secretary, ON MAY 1ST."
+
+f_5279 had said war service was the obvious hypothesis and REFUSED TO RECORD IT. That refusal
+was right, and the answer was in this project's own cache the whole time -- in a sentence nobody
+had reason to look for until the Year Book narrowed the question to a two-year window. THAT IS
+THE SHAPE OF THE WHOLE DAY: the outside source supplies the question precise enough to search
+the inside source with.
+GEO. W. O. MATTHEWS is new to this project entirely and the Year Book alone never showed him.
+
+A DISTINCTION THAT MUST NOT BE LOST. The report for the year ending 30 April 1917, on the summer
+of 1916, has Holliday "in charge" of a camp for a fortnight -- and it is THE MEN'S CAMP:
+  "The MEN'S CAMP was open last season from July 14th to August 19th with a total attendance of
+   131 ... MR. HENDERSON had charge during the two weeks in July, followed by MR. MACLAREN for
+   one week, and MR. HOLLIDAY FOR THE LAST TWO WEEKS."
+The BOYS' CAMP is the next paragraph: 24 June to 18 August, 175 boys, "Mr. MacKinnon acted as
+Leader throughout." TWO CAMPS, ONE SEASON. Holliday's fortnight is Lake Saint-Joseph, not
+Kanawana, and the phrase "had charge" invites exactly the conflation that must not happen.

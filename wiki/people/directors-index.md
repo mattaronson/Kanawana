@@ -1,7 +1,7 @@
 # Directors and Staff of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 61*
-*Last Updated: 2026-09-07 (M. G. Brooks, Strathcona Hall to Colombo to Barrie)*
+*Status: E1-reviewed | Sources: 62*
+*Last Updated: 2026-09-07 (Holliday resigned for overseas service, and went to Sydney, N.S.)*
 
 ## Summary
 
@@ -335,7 +335,15 @@ What to ask those volumes, in order: **is W. J. Holliday Boys' Work Director aga
 
 **No, Holliday did not get it back.** He is a membership assistant in the 1909-10 volume — "Montreal, Central Dept. … Asst., (Memb.,) W. J. Holliday" — and then a branch secretary for seven straight years: Fairmount Avenue in 1910-11, and the North Branch, 2300 Park Ave., in 1911-12, 1912-13, 1913-14, 1914-15, 1915-16 and 1916-17. He never appears in a boys' work line in any of them.
 
-**And then he vanishes from the roster.** The 1917-18 volume gives the North Branch secretaryship to **Thomas S. Smith**, and so does 1918-19; Holliday is in the Montreal block of neither. The 1922 volume has him back as secretary of the same North Branch.^42 That is a gap of roughly five years in the middle of the career of the man the association's 1931 report calls the camp's first director, and it opens in the last year of the war. **It is a null in one publication, and this page is not going to turn it into a war record.** The far end of the gap is soft as well: the 1919-20 and 1920-21 volumes were read at their North Branch and Westmount blocks, not swept whole for his name. The 1931 report's "first camp director" opened the new site in 1910 while running a branch, not while running boys' work.
+**And then he vanishes from the roster.** The 1917-18 volume gives the North Branch secretaryship to **Thomas S. Smith**, and so does 1918-19; Holliday is in the Montreal block of neither. The 1922 volume has him back as secretary of the same North Branch.^42 That is a gap of roughly five years in the middle of the career of the man the association's 1931 report calls the camp's first director, and it opens in the last year of the war. **It is a null in one publication, and this page is not going to turn it into a war record.**
+
+**It was a war record, and the association says so itself.** The report for the year ending 30 April 1918: "North Branch. — **Mr. W. J. Holliday, Secretary, resigned for overseas service** and was succeeded by **Mr. T. S. Smith, of Quebec, on February 12th**."^62 The refusal above was right to stand — the hypothesis was obvious and the evidence for it was not in the volume — and the answer was in this project's own cache the whole time, in a sentence nobody had reason to look for until the *Year Book* narrowed the question to a two-year window.
+
+**And the roster says where he went next.** Followed on his entry-year figure of 06 through the alphabetical list of employed officers, he is "**Holliday, W. J., Sydney, N. S., Sec, 06**" in *both* the 1919-20 and 1920-21 volumes — running the association at Sydney, Nova Scotia — before returning as "Montreal, Que., North, Sec" in 1922-23 and 1923-24.^58 **So the five-year hole narrows to about two**, and the man who opened Kanawana's Lac Wilson site spent the turn of the 1920s in Cape Breton.
+
+*Three other men move in that same 1918 paragraph.* **W. S. Maguire** resigned as Physical Director on **20 December** to become Secretary of the Brandon association, which dates the Manitoba posting the *Year Book* shows a volume later. **S. B. Cuthbert** retired on 30 April "to enter business life." And **J. G. Cruickshank**, "**a returned soldier** who has been doing splendid work with Mr. MacKinnon in Central," took North Branch's Boys' Work Secretaryship on **1 May** — succeeding **Geo. W. O. Matthews**, a name that occurs nowhere else in this project and that the *Year Book* alone never showed.
+
+**One thing to keep apart.** The report for the year ending 30 April 1917 has Holliday "in charge" of a camp for a fortnight in the summer of 1916 — but it is the **Men's Camp**, at Lake Saint-Joseph, open 14 July to 19 August with 131 men, where "Mr. Henderson had charge during the two weeks in July, followed by Mr. MacLaren for one week, and Mr. Holliday for the last two weeks."^62 The **Boys'** Camp is described separately in the next paragraph, 24 June to 18 August, 175 boys, "Mr. MacKinnon acted as Leader throughout." Two camps, one season. Holliday's fortnight is not a Kanawana season. The 1931 report's "first camp director" opened the new site in 1910 while running a branch, not while running boys' work.
 
 **The Boys' Work line, year by year, as far as these volumes carry it:**
 
@@ -702,6 +710,7 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 59. YMCA of Montreal annual reports for **1910**, **1913** and **1914** [src_cache_sgw_ymca_annual_report_1910, src_ymf_sgw_ymca_annual_report_1913, src_ymf_sgw_ymca_annual_report_1914], all three cached in this project since before this session. The passages below had never been extracted, because the names in them — Hollinshead, Lordly, Murray Brooks — occurred nowhere in this project and so could not be searched for until the *Year Book* supplied them. See [f_5282], [f_5283], [f_5284] and [f_5285].
 60. *Men of Montreal*, Vol. I No. 6, June 1904 — the association's own monthly, this issue mastheaded the "Camp Club House, Lake St. Joseph, and Summer Camp Number" [src_ymf_sgw_ymca_annual_report_1904_men_of_montreal] — with the YMCA of Montreal annual report for **1905** [src_ymf_sgw_ymca_annual_report_1905]. Both cached here since before this session. The 1904 item's cache filename calls it an annual report and it is not one; the source record was corrected 2026-09-07, which matters because its camp passages are announcements of the coming season in the future tense. See [f_5286], [f_5287] and [f_5288].
 61. YMCA of Montreal, annual report for **1893-94** [src_ymf_sgw_ymca_annual_report_1893_1894], cached here since before this session. Consulted 2026-09-07 by grepping the cache for names the 1889 *Year Book* had just supplied. See [f_5293].
+62. YMCA of Montreal annual reports for **1917** and **1918** [src_ymf_sgw_ymca_annual_report_1917, src_ymf_sgw_ymca_annual_report_1918], both cached here since before this session and both consulted 2026-09-07 after the *Year Book* narrowed the question. See [f_5297] and [f_5298].
 
 ## Research Notes
 

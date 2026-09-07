@@ -1,8 +1,8 @@
 {
-  "version": "9.04",
-  "kb_version": "9.04",
+  "version": "9.05",
+  "kb_version": "9.05",
   "migrated_from": "3.3",
-  "fact_count": 5257,
+  "fact_count": 5260,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -94836,6 +94836,64 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5296",
+      "category": "people",
+      "date_ref": "1917-1924",
+      "entities": [
+        "W. J. Holliday",
+        "Kamp Kanawana"
+      ],
+      "claim": "WHERE KANAWANA'S FIRST CAMP DIRECTOR WENT: SYDNEY, NOVA SCOTIA. f_5279 recorded that W. J. Holliday disappears from the Montreal roster between the 1916-17 and 1917-18 volumes and is back by 1922, and explicitly refused to fill the gap with a war-service guess. The alphabetical list of employed officers, followed on his entry-year figure of 06, gives the destination: 'HOLLIDAY, W. J., SYDNEY, N. S., SEC, 06' in BOTH the 1919-20 and 1920-21 volumes -- secretary of the Sydney, Nova Scotia association. The full run now reads: Montreal Asst. in 1905-06; Montreal Boys in 1907-08; Montreal, Fairmount, Sec in 1910-11; Montreal, North Br., Sec in 1912-13, 1914-15, 1915-16 and 1916-17; ABSENT from the 1917-18 and 1918-19 volumes; Sydney, N. S., Sec in 1919-20 and 1920-21; and back as 'Montreal, Que., North, Sec' in 1922-23 and 1923-24. SO THE FIVE-YEAR HOLE NARROWS TO ABOUT TWO, and the man who opened Kanawana's Lac Wilson site spent the turn of the 1920s running an association in Cape Breton before returning to the branch he had left.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5297",
+      "category": "people",
+      "date_ref": "1917-1918",
+      "entities": [
+        "W. J. Holliday",
+        "T. S. Smith",
+        "W. S. Maguire",
+        "J. G. Cruickshank",
+        "Geo. W. O. Matthews",
+        "S. Burton Cuthbert"
+      ],
+      "claim": "AND MONTREAL SAYS WHY HE LEFT, IN ONE SENTENCE THIS PROJECT ALREADY HELD. The annual report for the year ending 30 April 1918: 'North Branch. -- MR. W. J. HOLLIDAY, SECRETARY, RESIGNED FOR OVERSEAS SERVICE and was succeeded by MR. T. S. SMITH, OF QUEBEC, ON FEBRUARY 12TH. Mr. W. S. MAGUIRE resigned as Physical Director ON DECEMBER 20TH, to become Secretary of the BRANDON ASSOCIATION. Mr. S. B. CUTHBERT retired APRIL 30TH, to enter business life. Mr. J. G. CRUIKSHANK, A RETURNED SOLDIER who has been doing splendid work with Mr. MacKinnon in Central, succeeds MR. GEO. W. O. MATTHEWS, as Boys' Work Secretary, ON MAY 1ST.' THIS IS THE ANSWER TO THE GAP, AND IT VINDICATES LEAVING IT OPEN: f_5279 said war service was the obvious hypothesis and refused to record it, and the association states it outright. FOUR MORE THINGS FALL OUT. Smith's arrival is dated to 12 February 1918 and he came FROM QUEBEC CITY. Maguire's move to Brandon, Manitoba, which the Year Book shows in its 1918-19 volume, is dated to 20 December 1917. Cruickshank was A RETURNED SOLDIER and had been working under MacKinnon at Central before taking North Branch on 1 May 1918. And GEO. W. O. MATTHEWS, whom he succeeded, IS NEW TO THIS PROJECT ENTIRELY -- checked against the session's base commit before this was written -- which means the North Branch boys' line recorded in f_5280 has a name in it that the Year Book alone did not show.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1918"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5298",
+      "category": "people",
+      "date_ref": "1916",
+      "entities": [
+        "W. J. Holliday",
+        "W. H. Henderson",
+        "W. A. Maclaren",
+        "Camp Otoreke",
+        "Kamp Kanawana"
+      ],
+      "claim": "HOLLIDAY RAN THE MEN'S CAMP FOR A FORTNIGHT IN 1916, AND IT WAS NOT KANAWANA. The annual report for the year ending 30 April 1917, describing the summer of 1916: 'The MEN'S CAMP was open last season from JULY 14TH TO AUGUST 19TH with a total attendance of 131 -- from the Central Branch 92, North Branch 26, Railroad 8, Westmount 4, McGill 1. MR. HENDERSON had charge during the two weeks in July, followed by MR. MACLAREN for one week, and MR. HOLLIDAY FOR THE LAST TWO WEEKS.' THE DISTINCTION IS THE POINT: the same report describes the BOYS' CAMP separately and immediately afterwards -- opened 24 June, closed 18 August, attendance 175 from Central 68, Westmount 54, North Branch 53, 'Mr. MacKinnon acted as Leader throughout' -- so these are two different camps in one season and Holliday's fortnight belongs to the men's, at Lake Saint-Joseph, not to Kanawana. A man the 1931 report calls Kanawana's first camp director is documented in 1916 running the OTHER camp. Recorded so that a later reader does not fold the two together, which the phrase 'had charge' invites.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1917"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.05",
       "added_by": "ralph_loop"
     }
   ]
