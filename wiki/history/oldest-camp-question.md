@@ -1,6 +1,6 @@
 # Is Kanawana the Oldest Camp in Canada?
 
-*Status: draft | Sources: 31*
+*Status: draft | Sources: 32*
 *Last Updated: 2026-09-07 (both age-conventions in 1938; and the Y's own 2001 anniversary book dating the camp twice)*
 
 ## Overview
@@ -478,7 +478,19 @@ permanent site, the other the founding. This article's point is that **both coun
 once**, and the 1938 broadcast is the clearest single instance of it, because the claim to be "one of
 the oldest" camps was being made publicly on the shorter of the two numbers.
 
-What it is worth is that it is the camp counting **in public, in its own paid advertising**, in a year for which this project holds no other self-description. A run of such figures across the decades — brochures, anniversaries, letterheads — would be a useful series to assemble, and would show whether the camp's own arithmetic was ever consistent. This is one point in it.
+What it is worth is that it is the camp counting **in public, in its own paid advertising**, in a year for which this project holds no other self-description. A run of such figures across the decades — brochures, anniversaries, letterheads — would show whether the camp's own arithmetic was ever consistent. *(Updated 2026-09-07: this sentence used to end "This is one point in it," and asked for the series to be assembled. Enough points now exist to say something, and they are set out below.)*
+
+### The 1982 advertisement, and a claim the camp later gave up
+
+A print advertisement in the camp's own archive, dated **1982**, opens: "**In 1894 the Y.M.C.A. pioneered camping in the Laurentians by opening the first boys camp in Canada. Today, 88 years later, Kamp Kanawana continues to lead the way.**"^32
+
+Two things follow, and the second is the interesting one.
+
+**The arithmetic is exact, and it is the cleanest instance of the 1894 convention in this series.** 1894 + 88 = 1982, and it is the only self-count here that puts the founding year in the same sentence as the number, so there is nothing to reconstruct. Set beside the rest, the picture is not a founding date drifting but **two house conventions running side by side for half a century**, which this article already argues for the 1930s. The 1894 convention: Langille's "48th season" in 1941, this ad in 1982, and *The Link*'s "93 years" in 1988, one short. The site convention of about 1909: "twenty-sixth year of existence" in 1935, "for twenty-nine years now" in 1938, and "past 75 years" in 1983. Six points across forty-eight years, alternating, with no sign that anyone inside the institution noticed they were alternating.
+
+**And in 1982 the camp said it was first in Canada.** Not oldest in Quebec, not among the oldest: *the first boys camp in Canada*, in paid advertising. Eleven years later its own documentary called it "the oldest camp in Quebec and second oldest in Canada" — the same institution, one place lower, with nothing in this project explaining what changed in between. **Institutions do not usually demote themselves.** Somebody between 1982 and 1993 either found something or was told something, and whatever it was is not in any document held here. The 1993 claim has since been withdrawn too, on the reasoning set out at [[traditions/myths-and-legends|Myths and Legends]] — so the sequence runs first, then second, then unranked, and only the last step has its reasons written down.
+
+The rest of the 1982 copy belongs to other articles: coed enrolment at ages 8-15, a 3:1 camper-to-staff ratio, "1200 acres & 3 lakes," membership of the QCA and CCA, and the Drummond Street address it shares with the 1981 *Voyageurs de la Vérendrye* advertisement.^32
 
 ## The tests, and how each contender does
 
@@ -675,3 +687,4 @@ the only place this project has found the Y making the provincial claim in a for
 29. *The Green Triangle*, Vol. IV No. 7, **4 August 1935**, and Volume 5, **Re-union Number, 17 October 1936** [src_ymf_the_green_triangle_1935_08_04, src_ymf_the_green_triangle_1936_10_17]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 30. *The Green Triangle*, **1 August 1936** ("An Issue in verse") and the issue opening volume 45, **2 July 1938** [src_ymf_the_green_triangle_1936_08_01, src_ymf_the_green_triangle_1938_06_02]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. **Note the date discrepancy on the second**: the Internet Archive item is identified as `1938-06-02` and the cache file follows it, but the masthead reads "Kamp Kanawana - Saturday, July 2, 1938". July 2 1938 was a Saturday; June 2 was a Thursday. The masthead is preferred.
 31. *The Montreal YMCA 1851–2001*, 150th anniversary publication [src_ymf_the_montreal_ymca_1851_2001_anniversary_publication]. Cached at `sources/cache/ymca-montreal-fonds/the-montreal-ymca-1851-2001-anniversary-publication.txt`; the Kanawana and Otoreke passages and the camp's directory entry read word for word 2026-09-07 under p_482, the rest of the volume not read. A French twin of the same publication is held separately.
+32. The **1982** Kamp Kanawana print advertisement, from the camp's physical archive scans [src_kanawana_physical_archive_scans_2026] — "In **1894** the Y.M.C.A. pioneered camping in the Laurentians by opening the first boys camp in Canada. Today, **88** years later…" — transcribed at [f_1574]. The reading of it against the rest of the self-count series, and against the **1993** documentary's "second oldest in Canada" [src_concordia_atom_12B04], is at [f_5630]. The **1981** Voyageurs advertisement sharing its Drummond Street address is at [f_1575].

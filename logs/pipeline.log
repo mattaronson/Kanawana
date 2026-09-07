@@ -6558,3 +6558,27 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   project knew. The heading is corrected with the old text quoted, and the 1918 filming is now IN the
   film section where it belongs, cited to src_newspapers_gazette_1918 (real cache) rather than to the
   catch-all. Note 32 added; sources_cited 16 -> 17. Queued p_496.
+
+2026-09-07T16:51:06Z  p_492 -- unit: the camp demoted itself between 1982 and 1993.
+  Orphan f_1574, a 1982 print advertisement from the camp's physical archive, opens: "In 1894 the
+  Y.M.C.A. pioneered camping in the Laurentians by opening the first boys camp in Canada. Today, 88 years
+  later, Kamp Kanawana continues to lead the way."
+  It went into oldest-camp-question.md's "How the camp has counted its own age", which ENDED WITH A
+  REQUEST FOR EXACTLY THIS -- "A run of such figures across the decades ... would be a useful series to
+  assemble ... This is one point in it." That sentence is now updated rather than left standing beside
+  the material it asked for.
+  TWO RESULTS. (1) The arithmetic is exact -- 1894 + 88 = 1982 -- and it is the only self-count in the
+  series that states the founding year in the same sentence as the number, so nothing has to be
+  reconstructed. Set beside the others the pattern is not a drifting founding date but TWO HOUSE
+  CONVENTIONS RUNNING AT ONCE for half a century: 1894 in 1941, 1982 and roughly 1988; the ~1909 site
+  date in 1935, 1938 and 1983. Six points across forty-eight years, alternating, nobody inside
+  apparently noticing. (2) In 1982 the camp claimed IN PAID ADVERTISING to be "the first boys camp in
+  Canada". In 1993 its own documentary said "second oldest in Canada". Institutions do not usually
+  demote themselves, and nothing held here explains what changed. myths-and-legends.md has since
+  withdrawn the 1993 claim too, so the sequence runs first, then second, then unranked -- and only the
+  last step has its reasoning written down.
+  Added f_5630 (kb/facts.json v10.40, 5592 facts). New subsection and note 32 in
+  wiki/history/oldest-camp-question.md; two source ids added to sources_cited (39 -> 41). All checks
+  pass.
+  NOT established, and said so: where the ad ran, who wrote it, or whether anyone at the camp checked
+  "first boys camp in Canada" before printing it.

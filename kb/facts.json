@@ -1,8 +1,8 @@
 {
-  "version": "10.39",
-  "kb_version": "10.39",
+  "version": "10.40",
+  "kb_version": "10.40",
   "migrated_from": "3.3",
-  "fact_count": 5591,
+  "fact_count": 5592,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100739,6 +100739,24 @@
       "date_ref": "1937-03-30",
       "conflicts_with": [],
       "added_version": "10.38",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5630",
+      "claim": "THE CAMP CLAIMED TO BE FIRST IN CANADA IN 1982 AND SECOND IN 1993, AND IT DEMOTED ITSELF. Raised under p_492 from orphan f_1574. A 1982 print advertisement opens: 'IN 1894 THE Y.M.C.A. PIONEERED CAMPING IN THE LAURENTIANS BY OPENING THE FIRST BOYS CAMP IN CANADA. TODAY, 88 YEARS LATER, KAMP KANAWANA CONTINUES TO LEAD THE WAY.' Eleven years on, the camp's own 1993 documentary describes it as 'the oldest camp in Quebec and second oldest in Canada'. INSTITUTIONS DO NOT USUALLY DEMOTE THEIR OWN CLAIMS, and nothing in this project explains what changed between the two. myths-and-legends.md has since withdrawn even the 1993 half.\n\nIT IS ALSO THE CLEANEST SELF-COUNT IN THE SERIES oldest-camp-question.md assembles, and the only one that states the founding year in the same sentence as the arithmetic. 1894 + 88 = 1982 EXACTLY. Set beside the others the pattern is not drift but TWO HOUSE CONVENTIONS RUNNING AT ONCE, which that article already argues for the 1930s and which this extends by half a century: the 1894 convention in 1941 (Langille's '48th season'), in 1982 (this ad), and roughly in 1988 (The Link's 'for 93 years', one short); the site convention of about 1909 in 1935 ('twenty-sixth year of existence'), in 1938 ('for twenty-nine years now') and in 1983 ('past 75 years'). Six points across forty-eight years, alternating, with no sign anyone inside noticed.\n\nTHE REST OF THE 1982 AD, which belongs to other articles rather than this one: coed enrolment ages 8-15; canoeing, hiking, sailing, campcraft, arts and crafts, orienteering and nature lore; '1200 acres & 3 lakes'; a 3:1 camper-to-staff ratio; membership of the QCA and CCA; and the address 1441 Drummond St., Montreal H3G 1W5, (514) 849-5331 -- the same downtown address and number as the 1981 Voyageurs advertisement at f_1575.\n\nNOT ESTABLISHED: where the ad ran, who wrote it, or whether 'first boys camp in Canada' was ever checked by anyone at the camp before it was printed.",
+      "sources": [
+        "src_kanawana_physical_archive_scans_2026",
+        "src_concordia_atom_12B04"
+      ],
+      "confidence": "stated",
+      "category": "history",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1982",
+      "conflicts_with": [],
+      "added_version": "10.40",
       "added_by": "ralph_loop"
     }
   ]
