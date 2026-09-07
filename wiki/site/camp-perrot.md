@@ -1,7 +1,7 @@
 # Camp Perrot
 
-*Status: E1-reviewed | Sources: 23*
-*Last Updated: 2026-09-07 (Preston Robb at Kanawana in 1932, twenty-six years before the chairmanship)*
+*Status: E1-reviewed | Sources: 24*
+*Last Updated: 2026-09-07 (Preston Robb at Kanawana in 1932-33, and entering McGill that autumn)*
 
 ## Overview
 
@@ -158,7 +158,7 @@ directly.^10 ^13
 | **1954** | **Donald Cochrane** | | Gordon Mackey, Camp Perrot; Scott F. Kneeland, Boys' Camping |
 | **1958** | **Donald Cochrane** | **Maureen Ring** | Gordon Mackey, Chairman; George Clouston, Vice-Chairman |
 
-**Robb's connection to the Montreal Y's camps runs back at least twenty-six years before that chairmanship.** The first issue of *The Green Triangle*, 23 July 1932, carries a joke classified advertisement in Kanawana's craft shop: "Wanted: **More Graft for the Graft Shop. See Preston Robb.**"^23 A young man minding the craft shop at Kanawana in 1932, chairman of the Camp Perrot committee in 1958, and on the Advisory Committee of [[site/les-voyageurs-de-la-verendrye|Les Voyageurs]] as **Dr. J. Preston Robb** in 1960 — the same name across twenty-eight years and three of the association's camps. The identification rests on the name alone and the 1932 item is a joke advertisement, so it is offered as a likely arc rather than a documented one.
+**Robb's connection to the Montreal Y's camps runs back at least twenty-six years before that chairmanship.** The first issue of *The Green Triangle*, 23 July 1932, carries a joke classified advertisement in Kanawana's craft shop: "Wanted: **More Graft for the Graft Shop. See Preston Robb.**"^23 A young man minding the craft shop at Kanawana in 1932, chairman of the Camp Perrot committee in 1958, and on the Advisory Committee of [[site/les-voyageurs-de-la-verendrye|Les Voyageurs]] as **Dr. J. Preston Robb** in 1960 — the same name across twenty-eight years and three of the association's camps. The identification rested on the name alone when that was written; the following year's paper strengthens it considerably.^24 *The Green Triangle* of **12 August 1933** reports that "Presty" Robb had fallen seriously ill at camp and left: "After leaving here, Presty has passed through a very strenuous time, such that it has been necessary for him to have a special nurse and medical care up to the present… He is expected to be getting out of bed sometime next week and leave for his summer home at **Portage, Que.**, where he will recuperate for his **fall entry at McGill**. Preston sends his very best regards to all the boys and wished that he could return to Kanawana." A young man entering **McGill in the autumn of 1933** would have been born about 1915 and qualified in medicine around 1940 — the right shape for a **Dr. J. Preston Robb** chairing a camp committee in 1958 and sitting on an advisory committee in 1960. It is still an identification by convergent particulars and not a documented one, but it now rests on a university and a career rather than on a pun in a classified advertisement.
 
 **Donald Cochrane directed Camp Perrot from 1952 to at least 1958** — seven seasons, which makes him
 its longest documented director. This article previously knew him only as the author of a 1959 memo.
@@ -308,6 +308,7 @@ The earliest known Kanawana-side documentary evidence is a "Comparison of Two Bo
 21. Montreal YMCA news releases of **13 November 1964**, **4 January 1965**, **5 December 1966** ("Ile Perrot Day Camp to House Expo Visitors") and **2 September 1969** [src_ymf_news_release_1964_11_13, src_ymf_news_release_1965_01_04, src_ymf_news_release_1966_12_05_2, src_ymf_p0145_news_release_1969_09_02]. Found by sweeping the news-release cache for camp names rather than for Kanawana; read 2026-09-06 under p_451. See [f_5107].
 22. "Report of the Montreal YMCA Camp Perrot for Boys and Girls", 1948, signed A. T. Dodds, Camp Director [src_ymf_1948_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls]. Transcribed in the relevant part at `sources/cache/mcgill/2026-09-07-kanawana-ad-1989-and-perrot-doctors-1948.txt`. **Recovered 2026-09-07**: the Internet Archive item holds two text files and this project had read only the first, a companion recommendations document, and recorded that the item was "catalogued as a season report; it is not one." It is one. See [f_5431]–[f_5434].
 23. *The Green Triangle*, Vol. 1 No. 1, **23 July 1932** — the first issue [src_ymf_the_green_triangle_1932_07_23]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-07-23.txt`. Held since 2026-08-25 at read_state "skimmed", read word for word 2026-09-07 under p_482, in the systematic issue-by-issue read the article's open question 2 asks for.
+24. *The Green Triangle*, **12 August 1933** and Vol. IV No. 2, **30 June 1935** [src_ymf_the_green_triangle_1933_08_12, src_ymf_the_green_triangle_1935_06_30]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 
 ## Research Notes
 

@@ -1,8 +1,8 @@
 {
-  "version": "9.90",
-  "kb_version": "9.90",
+  "version": "9.91",
+  "kb_version": "9.91",
   "migrated_from": "3.3",
-  "fact_count": 5465,
+  "fact_count": 5468,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -98556,6 +98556,59 @@
       "confidence": "inferred",
       "conflicts_with": [],
       "added_version": "9.90",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5504",
+      "category": "site",
+      "date_ref": "1935-06-30",
+      "entities": [
+        "Camp Kanawana",
+        "Greig Macdiarmid",
+        "Shawbridge"
+      ],
+      "claim": "THE KANAWANA GOLF COURSE HAD NINE HOLES AND THE WORKING PARTY CROSSED THE LAKE TO REACH IT. The Green Triangle of 30 June 1935: 'Some of the boys CROSSED THE LAKE and put the NINE-HOLED golf course into shape. So now Chief doesn't have to travel to SHAWBRIDGE at the frequent intervals he wants a game. The result is, he has become expert and established a NEW COURSE RECORD OF 53.' wiki/site/places-and-locations.md has the course from the 1935 History's 'the golf course was conditioned' and from the 1928 and 1941 maps, but not its size, its approach, or that the Chief played. THREE THINGS ADDED. NINE HOLES. The working party REACHED IT ACROSS THE LAKE, which is worth setting against the 1941 map's placing of it in the wooded area near the Junior Camp cluster. And before it was conditioned the Chief -- Greig Macdiarmid that season -- had been DRIVING TO SHAWBRIDGE to play, so a camp golf course was a substitute for a real one nearby. A record of 53 over nine holes is seventeen over a par-36 layout, which suggests a rough course. NOTE ALSO that the History's 'was conditioned' and the newspaper's 'put into shape' are the same event described twice, which shows the 1935 History drawing on the season's own written record.",
+      "sources": [
+        "src_ymf_the_green_triangle_1935_06_30"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.91",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5505",
+      "category": "people",
+      "date_ref": "1933-08-12",
+      "entities": [
+        "J. Preston Robb",
+        "Camp Kanawana",
+        "McGill University"
+      ],
+      "claim": "PRESTON ROBB LEFT THE 1933 SEASON ILL AND ENTERED McGILL THAT AUTUMN, WHICH TURNS A NAME-MATCH INTO A CAREER-MATCH. The Green Triangle of 12 August 1933: 'After leaving here, PRESTY has passed through a very strenuous time, such that it has been necessary for him to have A SPECIAL NURSE AND MEDICAL CARE up to the present... He is expected to be getting out of bed sometime next week and leave for HIS SUMMER HOME AT PORTAGE, QUE., where he will recuperate for HIS FALL ENTRY AT McGILL. Preston sends his very best regards to all the boys and wished that he could return to Kanawana.' f_5492 recorded the Kanawana-to-Camp-Perrot arc as resting on the name alone, from a joke classified advertisement of 1932. A YOUNG MAN ENTERING McGILL IN AUTUMN 1933 would have been born about 1915 and qualified in medicine around 1940 -- the right shape for a DR. J. PRESTON ROBB chairing the Camp Perrot committee in 1958 and sitting on the Voyageurs Advisory Committee in 1960. STILL AN IDENTIFICATION BY CONVERGENT PARTICULARS AND NOT A DOCUMENTED ONE, but it now rests on a university and a career rather than on a pun.",
+      "sources": [
+        "src_ymf_the_green_triangle_1933_08_12"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "9.91",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5506",
+      "category": "traditions",
+      "date_ref": "1935",
+      "entities": [
+        "Camp Kanawana",
+        "The Green Triangle"
+      ],
+      "claim": "THE FANCY DRESS TRADITION IS THREE YEARS OLDER THAN RECORDED, AND THE PAPER'S COMIC PERSONAE WERE INHERITED POSTS. The Green Triangle of 30 June 1935 reports 'a FANCY DRESS CARNIVAL' held the previous Thursday evening, with prizes to five named boys -- 'as a savage tribesman', 'as a rickshaw team', 'as a hula-hula dancer', 'as a bandit', 'as a Chinaman'. wiki/traditions/traditions-and-culture.md dates the Fancy Dress Ball from the 1938 Green Triangle; this is 1935. THE COSTUME LIST IS VERY MUCH OF ITS DATE and is recorded as printed rather than paraphrased away. SEPARATELY, the same issue's masthead names an editorial board with a section representative for each of Senior, Junior and Juvenile camp, and then two bylines that are jokes rather than people: 'KANAWANA THRU' A KEYHOLE -- THE SNOOP' and 'ADVICE TO THE LOVE LORN -- DORTHIE DIX', with 'REPORTERS -- EVERYBODY IN CAMP'. Both pseudonyms were running the same columns that appeared in the paper's FIRST ISSUE THREE SUMMERS EARLIER, so a camp newspaper running 1932-1940 was handing down not only a masthead but two comic personae.",
+      "sources": [
+        "src_ymf_the_green_triangle_1935_06_30"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.91",
       "added_by": "ralph_loop"
     }
   ]

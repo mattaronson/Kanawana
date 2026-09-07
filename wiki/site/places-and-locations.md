@@ -1,7 +1,7 @@
 # Places and Locations at Camp Kanawana
 
-*Status: E1-reviewed | Sources: 25*
-*Last Updated: 2026-09-07 (Lac Landron added: the camp's one site outside the Laurentians)*
+*Status: E1-reviewed | Sources: 26*
+*Last Updated: 2026-09-07 (the golf course had nine holes and lay across the lake)*
 
 ## Overview
 
@@ -309,7 +309,7 @@ An icehouse was part of the camp facilities by 1923, described as "kept well fil
 
 ### Golf Course
 
-A golf course was present at Kanawana by 1935. The *History of Kamp Kanawana* describes that "the golf course was conditioned" during the early rainy period of the 1935 season [src_history_1935]. It's independently confirmed on both the 1928 and 1941 camp maps (the latter labeling it in the wooded area near the Junior Camp building cluster) [f_1789, f_1811] — but it is **absent from the 1962 map**, which shows the same lake and section clusters in detail but no golf course or lacrosse field [f_1812]. This narrows the decommissioning window to sometime between 1941 and 1962, though no exact date is documented. The golf course is not listed among current camp facilities.
+A golf course was present at Kanawana by 1935. The *History of Kamp Kanawana* describes that "the golf course was conditioned" during the early rainy period of the 1935 season [src_history_1935]. **The camp's own newspaper describes the same week's work and adds three things.**^26 *The Green Triangle* of 30 June 1935: "Some of the boys **crossed the lake** and put the **nine-holed** golf course into shape. So now Chief doesn't have to travel to **Shawbridge** at the frequent intervals he wants a game. The result is, he has become expert and established a **new course record of 53**." So the course had **nine holes**; the working party reached it **across the lake**, which is worth setting against the 1941 map's placing of it in the wooded area near the Junior Camp cluster; and before it was conditioned the Chief — Greig Macdiarmid that season — had been driving to Shawbridge to play. A course record of 53 over nine holes is 17 over par on a par-36 layout, which suggests a rough one. The *History*'s "was conditioned" and the newspaper's "put into shape" are plainly the same event described twice, which incidentally shows the 1935 History drawing on the season's own written record. It's independently confirmed on both the 1928 and 1941 camp maps (the latter labeling it in the wooded area near the Junior Camp building cluster) [f_1789, f_1811] — but it is **absent from the 1962 map**, which shows the same lake and section clusters in detail but no golf course or lacrosse field [f_1812]. This narrows the decommissioning window to sometime between 1941 and 1962, though no exact date is documented. The golf course is not listed among current camp facilities.
 
 ### Fenced Swimming Pool (1922)
 
@@ -526,3 +526,4 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 23. Commission de toponymie du Québec: the *Toponymes officiels* and *Toponymes désofficialisés* datasets, and the fiches for Lac Kanawana, Lac Wilson, Camp Kanawana and the lieu-dit Kanawana [src_donneesquebec_bnlq_2026], [src_ct_fiches_kanawana_2026]. Queried 2026-09-06 (p_264). See [f_4874], [f_4877], [f_4890], [f_4891].
 24. *The Gas-Bag Extra*, Volume 13 Number 1 (1923), p. 2, "Kamp Kanawana Pictorial Review" [src_ymf_the_gas_bag_extra_vol_13_no_1]. Page image fetched and read 2026-09-06. Images cropped to `assets/images/historical/` and registered in `assets/images/credits.json`. See [f_4927].
 25. YMCA of Montreal annual report for the year ending 31 March 1926 [src_ymf_sgw_ymca_annual_report_1926], covering the camping season of 1925, the Kamp Kanawana pages. Read 2026-09-06 under p_454.
+26. *The Green Triangle*, **12 August 1933** and Vol. IV No. 2, **30 June 1935** [src_ymf_the_green_triangle_1933_08_12, src_ymf_the_green_triangle_1935_06_30]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.

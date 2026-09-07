@@ -1,6 +1,6 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 46*
+*Status: E1-reviewed | Sources: 47*
 *Last Updated: 2026-09-07 (the Fire of Friendship in 1932; and the Kanawana Circus, documented at last)*
 
 ## Overview
@@ -34,7 +34,7 @@ The camp calendar was punctuated by recurring competitive and social events:
 - **Boating Carnival** and **All-Camp Regatta**: Documented in 1935.^5
 - **Marois Day and Marois Regatta**: Events connected to the nearby Marois lake area — and mixed events; the 1932 programme, with its Ladies' and Mixed races, is set out in [[history/coeducation-gender|Coeducation and Gender]].^5
 - **Annual Circus**: Raised $5 in proceeds during the 1935 season.^5
-- **Fancy Dress Ball**: Documented in the 1938 Green Triangle.^6
+- **Fancy Dress Ball**: Documented in the 1938 *Green Triangle* — and three years earlier, as a "**fancy dress carnival**" on a Thursday evening in June 1935, with prizes to Jimmy Hamilton "as a savage tribesman", Burgess and Drossey "as a rickshaw team", Bruce Johnson "as a hula-hula dancer", Dickie Ott "as a bandit" and Junior Taylor "as a Chinaman"^47 — a costume list very much of its date, recorded as printed.^6
 - **Pyjama Parade**: An annual procession to the post office.^5
 - **Eating-Out Day**: At a "haunted house" location, documented in 1935.^5
 - **Torch Ceremony for World Friendship**: Held in 1935, this was part of a YMCA-wide interwar peace tradition.^5 ^22 The movement originated at a 1926 international YMCA conference where representatives from 52 nations lit a "Fire of Friendship" and passed torches to the younger generation, who declared: "We leave this fire with a vision of a great Christian fellowship, conscious of difference but resolved to love."^22 YMCA Camp Fuller (Providence) held a similar "World-Wide Friendship" ceremony in 1932.^22
@@ -154,6 +154,14 @@ covered it, and the games it names — darts, nail and hammer, hoop-la, coconut 
 the 1933 list nine years on. A camp event that keeps its booth list for a decade is a tradition, not
 a one-off, and the staff losing their own money at rigged games run by twelve-year-olds appears to
 have been the point.
+
+**The paper's standing columns had names and were staffed as posts.** The masthead of 30 June 1935
+lists an editorial board with a section representative for each of Senior, Junior and Juvenile camp,
+then two bylines that are jokes rather than people: "**Kanawana Thru' a Keyhole** — The Snoop" and
+"**Advice to the Love Lorn** — Dorthie Dix," with "**Reporters — Everybody in Camp**."^47 Both
+pseudonyms were running the same columns that appeared in the paper's first issue three summers
+earlier, so a newspaper that lasted from 1932 to 1940 was handing down not only a masthead but two
+comic personae.
 
 ## L&V Games
 
@@ -463,3 +471,4 @@ Kanawana."^40 Whether either was ever held again is not known here.
 44. *The Green Triangle*, Vol. 1 No. 3, **6 August 1932** [src_ymf_the_green_triangle_1932_08_06]. Cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-08-06.txt`; read word for word 2026-09-07 under p_482.
 45. *The Green Triangle*, **13 August 1932** [src_ymf_the_green_triangle_1932_08_13], **20 August 1932** [src_ymf_the_green_triangle_1932_08_20] and **27 August 1932** [src_ymf_the_green_triangle_1932_08_27]. All cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. The 27 August issue survives in a badly degraded scan — much of it is unreadable and only its clearest passages are used here.
 46. *The Green Triangle*, Vol. II Nos. 4 and 5, **29 July** and **5 August 1933** [src_ymf_the_green_triangle_1933_07_29, src_ymf_the_green_triangle_1933_08_05]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+47. *The Green Triangle*, **12 August 1933** and Vol. IV No. 2, **30 June 1935** [src_ymf_the_green_triangle_1933_08_12, src_ymf_the_green_triangle_1935_06_30]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
