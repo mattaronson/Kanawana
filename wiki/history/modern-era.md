@@ -114,7 +114,7 @@ other side.^22
 ## The camp's own committee, 2014-2017
 
 **The community reports print the camp's committee year by year, which is the most useful thing in them.**
-The 2014 roster: "Camp YMCA Kanawana — Bennett, Don; **Carter, Morgan (Chair)**; Cordemans, Valerie; **Day,
+The **2013** roster names Don Bennett, Morgan Carter, **Valery Cordemans (Chair)**, Sean Day, Steven Henle, Derek Lyndsay, Adrian Maas and Chris Mannitt — *the chairmanship is read from the series' own layout convention, which the 2015 volume settles: the title line follows the name it belongs to and precedes the next. These are multi-column rosters in an OCR'd scan, so it is a reading of layout rather than of a sentence.*^23 The 2014 roster: "Camp YMCA Kanawana — Bennett, Don; **Carter, Morgan (Chair)**; Cordemans, Valerie; **Day,
 Sean**; Frankel, Chris; Fullerton, Tom; Henle, Steven; Lyndsay, Derek; Maas, Adrian; Mannitt, Chris;
 Muszinski, Nick; Valente, Vanessa."^23 In 2015 the same list runs to twelve with **Laura Davis** added and
 Carter's title changed to **President**; by 2017 it has halved to six — Carter as **Président**, with Chris
@@ -306,7 +306,7 @@ endowment, and the association's endowment reporting is where to look next.
 20. YMCA of Greater Montreal annual report 2004-2005 [src_ymf_sgw_ymca_annual_report_2004_2005], the Endowment Fund pages and the President's report. Read 2026-09-06 under p_454; no Wayback copy of this year exists in this project.
 21. YMCAs of Québec, community report for **2010** [src_ymf_sgw_ymca_community_report_2010]. Cached at `sources/cache/ymca-montreal-fonds/sgw-ymca-community-report-2010.txt`; read for its twenty-three Kanawana passages 2026-09-07 under the sharpened p_441. See [f_5578].
 22. YMCAs of Québec, community reports for **2011** and **2012** [src_ymf_sgw_ymca_community_report_2011, src_ymf_sgw_ymca_community_report_2012]. Both read for their Kanawana passages 2026-09-07 under the sharpened p_441. See [f_5579] and [f_5580].
-23. YMCAs of Québec, community reports for **2014**, **2015** and **2017** [src_ymf_sgw_ymca_community_report_2014, src_ymf_sgw_ymca_community_report_2015, src_ymf_sgw_ymca_community_report_2017], each printing the Camp YMCA Kanawana committee roster; and the "CITS 95" plaque transcribed at [[people/dan-aronson|Dan Aronson]] [src_flickr_kanawana_plaque_album]. See [f_5581] and [f_5582].
+23. YMCAs of Québec, community reports for **2013**, **2014**, **2015** and **2017** [src_ymf_sgw_ymca_community_report_2013, src_ymf_sgw_ymca_community_report_2014, src_ymf_sgw_ymca_community_report_2015, src_ymf_sgw_ymca_community_report_2017], each printing the Camp YMCA Kanawana committee roster; and the "CITS 95" plaque transcribed at [[people/dan-aronson|Dan Aronson]] [src_flickr_kanawana_plaque_album]. See [f_5581] and [f_5582].
 
 ## Research Notes
 

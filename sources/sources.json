@@ -22153,12 +22153,12 @@
       "cache_path": "sources/cache/ymca-montreal-fonds/sgw-ymca-community-report-2013.txt",
       "char_count": 20705,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
-      "extraction_version": "v5.60",
+      "extracted": true,
+      "extraction_version": "10.10",
       "reliability": "primary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. || READ 2026-09-07 under the sharpened p_441. Two Kanawana blocks: the CAMP COMMITTEE, whose '(Chair)' line falls to VALERY CORDEMANS on the series' own layout convention (f_5583), and the SENIOR MANAGEMENT listing giving SEAN DAY as 'Director, Camp YMCA Kanawana AND YMCA SKI SCHOOL' -- a title pairing this project did not have and the first evidence here that the association ran a named ski school (f_5584).",
+      "read_state": "read",
+      "read_state_basis": "read for its Kanawana passages 2026-09-07; supersedes the asserted keyword-swept state"
     },
     {
       "source_id": "src_ymf_sgw_ymca_community_report_2013_fr",

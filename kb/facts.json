@@ -2,7 +2,7 @@
   "version": "10.10",
   "kb_version": "10.10",
   "migrated_from": "3.3",
-  "fact_count": 5544,
+  "fact_count": 5546,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99918,6 +99918,42 @@
         "src_ymf_sgw_ymca_community_report_2015"
       ],
       "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "10.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5583",
+      "category": "people",
+      "date_ref": "2013",
+      "entities": [
+        "Camp Kanawana",
+        "Valery Cordemans",
+        "Morgan Carter"
+      ],
+      "claim": "THE 2013 COMMITTEE, AND ITS CHAIR WAS NOT CARTER. The YMCAs of Québec community report for 2013: 'Camp YMCA Kanawana -- Bennett, Don; Carter, Morgan; CORDEMANS, VALERY; (CHAIR); Day, Sean; Henle, Steven; Lyndsay, Derek; Maas, Adrian; Mannitt, Chris.' THE ATTRIBUTION RESTS ON THE SERIES' OWN LAYOUT CONVENTION, WHICH THE 2015 VOLUME SETTLES: there the block reads 'Carter, Morgan / (President) / Cordemans, Valerie / Davis, Laura', so THE TITLE LINE FOLLOWS THE NAME IT BELONGS TO AND PRECEDES THE NEXT NAME. Applying that to 2013, '(Chair)' sits after Cordemans and before Day, so it is HERS. The names are otherwise alphabetical, which is a second check: a title attached to Carter would have sat two lines earlier. SO THE SUCCESSION READS: VALERY CORDEMANS CHAIRED IN 2013, MORGAN CARTER FROM 2014 (Chair), and Carter is President in 2015 and Président in 2017 (f_5581). That refines rather than contradicts f_5581, which had Carter chairing from 2014 and said nothing about 2013. THE RESIDUAL RISK IS NAMED: these are MULTI-COLUMN ROSTERS IN AN OCR'D SCAN, and a parenthetical can be displaced by column reflow. The convention is consistent across the volumes checked, which is why the reading is made, but it is a reading of layout and not a sentence. SPELLING VARIANT RECORDED NOT SMOOTHED: 'Cordemans, Valery' in 2013, 'Cordemans, Valerie' in 2014 and 2015.",
+      "sources": [
+        "src_ymf_sgw_ymca_community_report_2013",
+        "src_ymf_sgw_ymca_community_report_2015"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "10.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5584",
+      "category": "people",
+      "date_ref": "2013",
+      "entities": [
+        "Sean Day",
+        "Camp Kanawana"
+      ],
+      "claim": "SEAN DAY RAN THE SKI SCHOOL AS WELL AS THE CAMP. The 2013 community report's SENIOR MANAGEMENT listing: 'Day, Sean -- DIRECTOR, CAMP YMCA KANAWANA AND YMCA SKI SCHOOL.' wiki/people/sean-day.md carries his titles as Director of Camp YMCA Kanawana and Regional Director of Camps for the Quebec YMCAs; THE SKI SCHOOL IS NOT AMONG THEM, and 'Ski School' occurs nowhere in this wiki except in camp-otoreke.md, where it is McGill's. WHY IT MATTERS BEYOND A TITLE. The camp's winter operation is a documented thread here -- the ski tow of 1971-72, the lift and three downhill slopes of 1973, the Kanawana Outing Club with its twenty miles of trails and its clubhouse, all worked earlier today. A 2013 senior-management title pairing the CAMP and a SKI SCHOOL under one director is the late end of that thread, and the first evidence this project holds that the association ran a named ski school at all. WHAT IS NOT ESTABLISHED: whether the YMCA Ski School operated at Kanawana or elsewhere. The listing pairs the two under one man and does not place them on one site.",
+      "sources": [
+        "src_ymf_sgw_ymca_community_report_2013"
+      ],
+      "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.10",
       "added_by": "ralph_loop"

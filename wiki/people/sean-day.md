@@ -1,6 +1,6 @@
 # Sean Day
 
-*Status: E1-reviewed | Sources: 17*
+*Status: E1-reviewed | Sources: 18*
 *Last Updated: 2026-09-07 (a fellow naturalist named, and where the songs were first tried)*
 
 ## Overview
@@ -39,6 +39,16 @@ Day grew up at Camp Kanawana, as he stated in a 2017 CBC interview: "Having live
 ## Directorship (2005–2023; start date resolved editorially — see below)
 
 ### Titles and Scope
+
+**One title this article did not have: the ski school.** The association's 2013 community report lists him
+in Senior Management as "**Director, Camp YMCA Kanawana and YMCA Ski School**."^18 That pairing appears
+nowhere else here, and "Ski School" occurs nowhere in this wiki except at
+[[site/camp-otoreke|Camp Otoreke]], where it is McGill's. It matters beyond a job title: the camp's winter
+operation runs as a documented thread from the ski tow of 1971–72 and the lift and three downhill slopes of
+1973 through the [[traditions/winter-programming|Kanawana Outing Club]], and a 2013 senior-management title
+putting a camp and a ski school under one man is the late end of it. *What the listing does not establish is
+where the ski school was:* it pairs the two under one director without placing them on one site.
+
 
 Oral history and a 2017 CBC profile placed Day in the "Director of Camp Kanawana" role as early as 2005.^3 The Montreal YMCA's 2007 annual report's Senior Management listing instead names Francois Dauphin as "Directeur YMCA Kanawana" that year, with Day's first appearance in that specific internal org-chart role coming only in the 2008 report.^13 This once looked like a clean case for the project's "documented sources take precedence over oral history" policy — but a 2026-07-09 re-check found the camp's own public website (Wayback-archived) naming Day as "directeur du camp estival et des programmes" continuously from December 2005 through December 2007, with no mention of Dauphin anywhere on the site.^14 That makes this a genuine disagreement between two documented institutional sources (the annual report's internal org chart vs. the camp's own public-facing site), not oral history versus a document.
 
@@ -115,6 +125,7 @@ Day became Director of Fund Development at **Tyndale St-Georges Community Centre
 15. Camp YMCA Kanawana Facebook page, 120th-anniversary post (September 5, 2014). Labels Day "directeur du camp YMCA Kanawana"; content only partially extractable due to Facebook's mobile wrapper.
 16. Julie Crysler, "Do it yourself, environmental style: Contemporary dance and music at the Hive", *The McGill Daily* (Culture), Vol. 83 No. 46, **25 November 1993** [src_mcgill_daily_1993_11_25]. Internet Archive item `McGillLibrary-mcgill-daily-culture-v83-n046-november-25-1993-13865`, found by a whole-corpus sweep of the McGill student publications, since no index reaches their contents. Quoted in full at `sources/cache/mcgill/2026-09-07-spirit-rhythm-1993.txt`. See [f_5376], [f_5377].
 17. Sarah Musgrave, "Folk rhythm and light spirits," *The Link* (Concordia University) Vol. 14 No. 20, 26 November 1993 [src_concordia_link_1993_11_26]. The companion review to the *McGill Daily*'s of the day before. Transcribed at `sources/cache/concordia-publications/2026-09-07-the-link-kanawana-1988-1993.txt`. See [f_5450].
+18. YMCAs of Québec, community report for **2013** [src_ymf_sgw_ymca_community_report_2013], Senior Management listing. Read 2026-09-07 under the sharpened p_441. See [f_5584].
 
 ## Research Notes
 
