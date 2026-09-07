@@ -39,6 +39,39 @@ Exit 1 on any BLOCKING failure.
 import json, io, os, re, sys, subprocess, shutil, tempfile, collections
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+# Source records whose cache_path may legitimately name a DIRECTORY rather than
+# a file, with the reason for each. Everything else with a directory cache_path
+# fails, because a directory always exists and so satisfies the existence check
+# below while telling a later reader nothing about which document was consulted.
+#
+# WHY THIS LIST EXISTS. On 2026-09-07, nine item-level records for individual
+# issues of Canadian Camping -- src_ia_canadian_camping_1952_04 and eight
+# siblings -- were found naming `sources/cache/canadian-camping/`, the folder
+# holding all 164 issues. Each claimed read_state "extracted" on the basis
+# "asserted:read-in-full-from-cached-corpus", and each carried char_count 0.
+# So nine records asserted a full read of a document they did not identify, and
+# every existing check passed: the path existed, the id was unique, the record
+# was cited. They were repaired by naming the file and measuring char_count;
+# the read itself stays asserted, because repairing a path does not read a
+# document. Found while working p_487, which exists because the same shape of
+# error -- an asserted state nothing ever measures -- had just been found in
+# the Green Triangle run (f_5591).
+DIR_CACHE_OK = {
+    # Collection-level records. The directory IS the source: these stand for a
+    # whole downloaded run, and the item-level records name the files.
+    'src_ia_green_triangle_collection',
+    'src_ia_canadian_camping_collection',
+    'src_openlibrary_search_inside',
+    # Image sets. There is no single text file to name.
+    'src_flickr_kanawana_plaque_album',
+    'src_flickr_kanawana_concordia_historical_album',
+    'src_kanawana_physical_archive_scans_2026',
+    # Sets of short per-place fiches fetched together in one pass.
+    'src_ct_fiches_kanawana_2026',
+    'src_ct_fiches_neighbour_camps_2026',
+}
+
+
 def P(*p): return os.path.join(ROOT, *p)
 
 JSON_FILES = ['kb/facts.json', 'kb/conflicts.json', 'wiki/articles.json',
@@ -225,6 +258,14 @@ def main():
                 bad.append('source %s: cache_path %r does not exist. A path that '
                            'resolves to nothing looks exactly like a source that was '
                            'never cached.' % (_s.get('source_id'), _cp))
+            elif _cp and os.path.isdir(P(_cp)) \
+                    and _s.get('source_id') not in DIR_CACHE_OK:
+                bad.append('source %s: cache_path %r is a DIRECTORY. Existence is '
+                           'not provenance -- a directory always exists, so this '
+                           'record passes the check above while pointing at every '
+                           'file in the folder at once. Name the file, or add the '
+                           'id to DIR_CACHE_OK in this script with a reason.'
+                           % (_s.get('source_id'), _cp))
     except Exception as exc:                      # sources.json parse is checked above
         note.append('cache_path existence not checked: %s' % exc)
 

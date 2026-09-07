@@ -12978,7 +12978,7 @@
       "reliability": "secondary",
       "notes": "ALL 164 ISSUES downloaded, verified and cached in-repo, 2026-08-25 (p_270). 13.9 MB of full text. Control run: 164/164 verified, zero HTML bodies, zero duplicate bodies. Sweep results -- Kanawana 17 hits across 11 issues; Weredale 11/6; Camp Perrot 15/4; Junior League 10/6; Lighthall 4/2; Kinkora 4/2; Montreal YMCA 12/6; Otoreke 1/1; Tamaracouta 1/1. GENUINE NULLS across all 164: 'Camp Jubilee', 'Becsies', \"D'Arcy McGee\". FETCH NOTE: files are stored under human-readable names, not the item identifier -- query the metadata API for the DjVuTXT filename.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:all-164-issues-downloaded-verified-and-swept"
+      "read_state_basis": "measured:kb/reread/cc_progress.jsonl has 164 of 164 rows marked read, with a per-issue findings block in kb/reread/cc_findings.md carrying an explicit \"nothing\" where that is the answer. Basis rewritten 2026-09-07 under p_487: it read \"asserted:all-164-issues-downloaded-verified-and-swept\", and \"swept\" understated a word-for-word read that has a ledger. The findings file names its own holes -- unreadable scans at issues 161 and 163, two issues printed upside down and machine-decoded -- which is what makes it a measurement rather than a claim."
     },
     {
       "source_id": "src_ia_canadian_camping_1952_04",
@@ -12988,15 +12988,15 @@
       "date_precision": "exact",
       "origin": "internet_archive",
       "origin_url": "https://archive.org/details/canadiancampingmagazine_vol4no2_1952April",
-      "cache_path": "sources/cache/canadian-camping/",
-      "char_count": 0,
+      "cache_path": "sources/cache/canadian-camping/canadiancampingmagazine_vol4no2_1952April.txt",
+      "char_count": 69797,
       "ingested_at": "2026-08-25T00:00:00Z",
       "extracted": true,
       "extraction_version": "v5.49",
       "reliability": "secondary",
-      "notes": "Individual issue from the full 164-issue run cached at src_ia_canadian_camping_collection.",
+      "notes": "Individual issue from the full 164-issue run cached at src_ia_canadian_camping_collection. PATH REPAIRED 2026-09-07 under p_487: cache_path named the collection directory, not this issue. A directory exists, so the cache_path existence check passed while the record pointed at nothing in particular.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:read-in-full-from-cached-corpus"
+      "read_state_basis": "measured:kb/reread/cc_progress.jsonl row 14 marks canadiancampingmagazine_vol4no2_1952April.txt read at 2026-09-04, in the word-for-word read of all 164 issues recorded at kb/reread/cc_findings.md (issue block 14). Basis rewritten 2026-09-07 under p_487: it read \"asserted:read-in-full-from-cached-corpus\", which understated it -- the read has a per-issue ledger and a per-issue findings block, so it is measurable and was measured. cache_path repaired the same day from the collection directory to this file."
     },
     {
       "source_id": "src_ia_canadian_camping_1953_06",
@@ -13006,15 +13006,15 @@
       "date_precision": "exact",
       "origin": "internet_archive",
       "origin_url": "https://archive.org/details/canadiancampingmagazine_vol5no3_1953June",
-      "cache_path": "sources/cache/canadian-camping/",
-      "char_count": 0,
+      "cache_path": "sources/cache/canadian-camping/canadiancampingmagazine_vol5no3_1953June.txt",
+      "char_count": 97442,
       "ingested_at": "2026-08-25T00:00:00Z",
       "extracted": true,
       "extraction_version": "v5.49",
       "reliability": "secondary",
-      "notes": "Individual issue from the full 164-issue run cached at src_ia_canadian_camping_collection.",
+      "notes": "Individual issue from the full 164-issue run cached at src_ia_canadian_camping_collection. PATH REPAIRED 2026-09-07 under p_487: cache_path named the collection directory, not this issue. A directory exists, so the cache_path existence check passed while the record pointed at nothing in particular.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:read-in-full-from-cached-corpus"
+      "read_state_basis": "measured:kb/reread/cc_progress.jsonl row 19 marks canadiancampingmagazine_vol5no3_1953June.txt read at 2026-09-04, in the word-for-word read of all 164 issues recorded at kb/reread/cc_findings.md (issue block 19). Basis rewritten 2026-09-07 under p_487: it read \"asserted:read-in-full-from-cached-corpus\", which understated it -- the read has a per-issue ledger and a per-issue findings block, so it is measurable and was measured. cache_path repaired the same day from the collection directory to this file."
     },
     {
       "source_id": "src_ia_canadian_camping_1953_12",
@@ -13024,15 +13024,15 @@
       "date_precision": "exact",
       "origin": "internet_archive",
       "origin_url": "https://archive.org/details/canadiancampingmagazine_vol5_no4_1953december",
-      "cache_path": "sources/cache/canadian-camping/",
-      "char_count": 0,
+      "cache_path": "sources/cache/canadian-camping/canadiancampingmagazine_vol5_no4_1953december.txt",
+      "char_count": 85550,
       "ingested_at": "2026-08-25T00:00:00Z",
       "extracted": true,
       "extraction_version": "v5.49",
       "reliability": "secondary",
-      "notes": "Individual issue from the full 164-issue run cached at src_ia_canadian_camping_collection.",
+      "notes": "Individual issue from the full 164-issue run cached at src_ia_canadian_camping_collection. PATH REPAIRED 2026-09-07 under p_487: cache_path named the collection directory, not this issue. A directory exists, so the cache_path existence check passed while the record pointed at nothing in particular.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:read-in-full-from-cached-corpus"
+      "read_state_basis": "measured:kb/reread/cc_progress.jsonl row 20 marks canadiancampingmagazine_vol5_no4_1953december.txt read at 2026-09-04, in the word-for-word read of all 164 issues recorded at kb/reread/cc_findings.md (issue block 20). Basis rewritten 2026-09-07 under p_487: it read \"asserted:read-in-full-from-cached-corpus\", which understated it -- the read has a per-issue ledger and a per-issue findings block, so it is measurable and was measured. cache_path repaired the same day from the collection directory to this file."
     },
     {
       "source_id": "src_ia_canadian_camping_1962_12",
@@ -13042,15 +13042,15 @@
       "date_precision": "exact",
       "origin": "internet_archive",
       "origin_url": "https://archive.org/details/canadiancampingmagazine_vol15_no1_1962dec",
-      "cache_path": "sources/cache/canadian-camping/",
-      "char_count": 0,
+      "cache_path": "sources/cache/canadian-camping/canadiancampingmagazine_vol15_no1_1962dec.txt",
+      "char_count": 74634,
       "ingested_at": "2026-08-25T00:00:00Z",
       "extracted": true,
       "extraction_version": "v5.49",
       "reliability": "secondary",
-      "notes": "Individual issue from the full 164-issue run cached at src_ia_canadian_camping_collection.",
+      "notes": "Individual issue from the full 164-issue run cached at src_ia_canadian_camping_collection. PATH REPAIRED 2026-09-07 under p_487: cache_path named the collection directory, not this issue. A directory exists, so the cache_path existence check passed while the record pointed at nothing in particular.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:read-in-full-from-cached-corpus"
+      "read_state_basis": "measured:kb/reread/cc_progress.jsonl row 56 marks canadiancampingmagazine_vol15_no1_1962dec.txt read at 2026-09-04, in the word-for-word read of all 164 issues recorded at kb/reread/cc_findings.md (issue block 56). Basis rewritten 2026-09-07 under p_487: it read \"asserted:read-in-full-from-cached-corpus\", which understated it -- the read has a per-issue ledger and a per-issue findings block, so it is measurable and was measured. cache_path repaired the same day from the collection directory to this file."
     },
     {
       "source_id": "src_ia_canadian_camping_1950_06",
@@ -13060,15 +13060,15 @@
       "date_precision": "exact",
       "origin": "internet_archive",
       "origin_url": "https://archive.org/details/canadiancampingmagazine_vol2no3_1950june",
-      "cache_path": "sources/cache/canadian-camping/",
-      "char_count": 0,
+      "cache_path": "sources/cache/canadian-camping/canadiancampingmagazine_vol2no3_1950june.txt",
+      "char_count": 78138,
       "ingested_at": "2026-08-25T00:00:00Z",
       "extracted": true,
       "extraction_version": "v5.49",
       "reliability": "secondary",
-      "notes": "Individual issue from the full 164-issue run cached at src_ia_canadian_camping_collection.",
+      "notes": "Individual issue from the full 164-issue run cached at src_ia_canadian_camping_collection. PATH REPAIRED 2026-09-07 under p_487: cache_path named the collection directory, not this issue. A directory exists, so the cache_path existence check passed while the record pointed at nothing in particular.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:read-in-full-from-cached-corpus"
+      "read_state_basis": "measured:kb/reread/cc_progress.jsonl row 7 marks canadiancampingmagazine_vol2no3_1950june.txt read at 2026-09-04, in the word-for-word read of all 164 issues recorded at kb/reread/cc_findings.md (issue block 7). Basis rewritten 2026-09-07 under p_487: it read \"asserted:read-in-full-from-cached-corpus\", which understated it -- the read has a per-issue ledger and a per-issue findings block, so it is measurable and was measured. cache_path repaired the same day from the collection directory to this file."
     },
     {
       "source_id": "src_ia_canadian_camping_1983_summer",
@@ -13078,15 +13078,15 @@
       "date_precision": "exact",
       "origin": "internet_archive",
       "origin_url": "https://archive.org/details/canadiancampingmagazine_vol35_no2_1983summer",
-      "cache_path": "sources/cache/canadian-camping/",
-      "char_count": 0,
+      "cache_path": "sources/cache/canadian-camping/canadiancampingmagazine_vol35_no2_1983summer.txt",
+      "char_count": 119362,
       "ingested_at": "2026-08-25T00:00:00Z",
       "extracted": true,
       "extraction_version": "v5.49",
       "reliability": "secondary",
-      "notes": "Individual issue from the full 164-issue run cached at src_ia_canadian_camping_collection.",
+      "notes": "Individual issue from the full 164-issue run cached at src_ia_canadian_camping_collection. PATH REPAIRED 2026-09-07 under p_487: cache_path named the collection directory, not this issue. A directory exists, so the cache_path existence check passed while the record pointed at nothing in particular.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:read-in-full-from-cached-corpus"
+      "read_state_basis": "measured:kb/reread/cc_progress.jsonl row 147 marks canadiancampingmagazine_vol35_no2_1983summer.txt read at 2026-09-04, in the word-for-word read of all 164 issues recorded at kb/reread/cc_findings.md (issue block 147). Basis rewritten 2026-09-07 under p_487: it read \"asserted:read-in-full-from-cached-corpus\", which understated it -- the read has a per-issue ledger and a per-issue findings block, so it is measurable and was measured. cache_path repaired the same day from the collection directory to this file."
     },
     {
       "source_id": "src_ia_canadian_camping_1988_winter",
@@ -13096,15 +13096,15 @@
       "date_precision": "exact",
       "origin": "internet_archive",
       "origin_url": "https://archive.org/details/canadiancampingmagazine_vol39_no3_1988winter",
-      "cache_path": "sources/cache/canadian-camping/",
-      "char_count": 0,
+      "cache_path": "sources/cache/canadian-camping/canadiancampingmagazine_vol39_no3_1988winter.txt",
+      "char_count": 135570,
       "ingested_at": "2026-08-25T00:00:00Z",
       "extracted": true,
       "extraction_version": "v5.49",
       "reliability": "secondary",
-      "notes": "Individual issue from the full 164-issue run cached at src_ia_canadian_camping_collection.",
+      "notes": "Individual issue from the full 164-issue run cached at src_ia_canadian_camping_collection. PATH REPAIRED 2026-09-07 under p_487: cache_path named the collection directory, not this issue. A directory exists, so the cache_path existence check passed while the record pointed at nothing in particular.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:read-in-full-from-cached-corpus"
+      "read_state_basis": "measured:kb/reread/cc_progress.jsonl row 164 marks canadiancampingmagazine_vol39_no3_1988winter.txt read at 2026-09-05, in the word-for-word read of all 164 issues recorded at kb/reread/cc_findings.md (issue block 164). Basis rewritten 2026-09-07 under p_487: it read \"asserted:read-in-full-from-cached-corpus\", which understated it -- the read has a per-issue ledger and a per-issue findings block, so it is measurable and was measured. cache_path repaired the same day from the collection directory to this file."
     },
     {
       "source_id": "src_wikipedia_first_team",
@@ -13168,15 +13168,15 @@
       "date_precision": "exact",
       "origin": "internet_archive",
       "origin_url": "https://archive.org/details/canadiancampingmagazine_vol6no3_1954June",
-      "cache_path": "sources/cache/canadian-camping/",
-      "char_count": 0,
+      "cache_path": "sources/cache/canadian-camping/canadiancampingmagazine_vol6no3_1954June.txt",
+      "char_count": 111913,
       "ingested_at": "2026-08-25T00:00:00Z",
       "extracted": true,
       "extraction_version": "v5.57",
       "reliability": "secondary",
-      "notes": "Individual issue from the cached 164-issue run.",
+      "notes": "Individual issue from the cached 164-issue run. PATH REPAIRED 2026-09-07 under p_487: cache_path named the collection directory, not this issue. A directory exists, so the cache_path existence check passed while the record pointed at nothing in particular.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:read-in-full-from-cached-corpus"
+      "read_state_basis": "measured:kb/reread/cc_progress.jsonl row 23 marks canadiancampingmagazine_vol6no3_1954June.txt read at 2026-09-04, in the word-for-word read of all 164 issues recorded at kb/reread/cc_findings.md (issue block 23). Basis rewritten 2026-09-07 under p_487: it read \"asserted:read-in-full-from-cached-corpus\", which understated it -- the read has a per-issue ledger and a per-issue findings block, so it is measurable and was measured. cache_path repaired the same day from the collection directory to this file."
     },
     {
       "source_id": "src_ia_canadian_camping_1977_03",
@@ -13186,15 +13186,15 @@
       "date_precision": "exact",
       "origin": "internet_archive",
       "origin_url": "https://archive.org/details/canadiancampingmagazine_vol29_no2_1977march",
-      "cache_path": "sources/cache/canadian-camping/",
-      "char_count": 0,
+      "cache_path": "sources/cache/canadian-camping/canadiancampingmagazine_vol29_no2_1977march.txt",
+      "char_count": 31351,
       "ingested_at": "2026-08-25T00:00:00Z",
       "extracted": true,
       "extraction_version": "v5.57",
       "reliability": "secondary",
-      "notes": "Individual issue from the cached 164-issue run.",
+      "notes": "Individual issue from the cached 164-issue run. PATH REPAIRED 2026-09-07 under p_487: cache_path named the collection directory, not this issue. A directory exists, so the cache_path existence check passed while the record pointed at nothing in particular.",
       "read_state": "extracted",
-      "read_state_basis": "asserted:read-in-full-from-cached-corpus"
+      "read_state_basis": "measured:kb/reread/cc_progress.jsonl row 112 marks canadiancampingmagazine_vol29_no2_1977march.txt read at 2026-09-04, in the word-for-word read of all 164 issues recorded at kb/reread/cc_findings.md (issue block 112). Basis rewritten 2026-09-07 under p_487: it read \"asserted:read-in-full-from-cached-corpus\", which understated it -- the read has a per-issue ledger and a per-issue findings block, so it is measurable and was measured. cache_path repaired the same day from the collection directory to this file."
     },
     {
       "source_id": "src_kk_prep_guide_2026_fr",

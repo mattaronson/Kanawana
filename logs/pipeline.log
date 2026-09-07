@@ -5379,3 +5379,42 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   rather than given a second source id.
   facts.json v10.11, 5,561 facts. Verify green, nine checks. Timestamp from
   `date -u` in its own call.
+
+[2026-09-07T14:51:10Z] VERIFY -- p_487 first pass. THE HYPOTHESIS FAILED AND
+  THAT IS THE RESULT. p_487 exists because f_5591 generalised from the Green
+  Triangle that an asserted read-state is unreliable. Two instruments, per the
+  measure-twice rule. (1) Series grouping over 876 groups: reproduces the known
+  Green Triangle case as a control, and returns only three other candidates.
+  (2) Basis-shape counting, sharper: 88 records claim read_state extracted or
+  read on a basis beginning "asserted:". Those are the invisible ones -- a
+  record marked skimmed gets revisited, a record claiming a full read never
+  does.
+  Tested on the nine Canadian Camping issue records, each asserting a full read
+  of an 30-135 KB magazine while yielding one to four facts -- the same thin
+  yield that gave the Green Triangle away. Read the smallest (March 1977) in
+  full. Its content is ALREADY IN THE WIKI, all of it: the QCA English section's
+  40th anniversary conference under Derek Walsh, the CCA's first national
+  statistics for 1976, Madeleine Allen's Ouareau survey. Extracted by an
+  independent campaign with a per-item ledger, kb/reread/cc_progress.jsonl,
+  164 of 164, and a findings block per issue with an explicit "nothing" where
+  that is the answer. The assertion was true and merely written in the weaker
+  vocabulary. Nine basis strings rewritten from asserted to measured, each
+  naming its ledger row; the collection record too. f_5591 narrowed in place.
+  THE RULE IS NOW SHARPER, f_5600: an asserted read is suspect only where no
+  per-item record of it exists OUTSIDE the assertion, and thin yield against a
+  large document is the tell. What the Green Triangle lacked was not honesty but
+  a ledger.
+  SIDE FINDING, WORTH MORE THAN THE MAIN ONE. All nine of those records named
+  the DIRECTORY sources/cache/canadian-camping/ as cache_path, not a file. So
+  nine records claiming a full read did not identify the document read, char_count
+  was 0 on all nine, and every check passed -- because a directory always exists,
+  and yesterday's cache_path check tests existence. Existence is not provenance.
+  Repaired: files named, char_count measured. data_integrity.py now FAILS any
+  directory cache_path outside DIR_CACHE_OK, an eight-entry allow-list with a
+  reason each (collection records, image albums, per-place fiche sets). Blocking
+  path tested by pointing a record back at the directory: it fires.
+  79 of the 88 still unchecked. Next: the 20 "fetched-and-read-in-full" and the
+  9 "read-by-dispatched-agent-full-text-grep" -- a grep is not a read, and a
+  dispatched agent's report is the one claim this project cannot re-derive.
+  facts.json v10.12, 5,562 facts. Verify green, nine checks. Timestamp from
+  `date -u` in its own call.

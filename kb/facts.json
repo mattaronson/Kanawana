@@ -1,8 +1,8 @@
 {
-  "version": "10.11",
-  "kb_version": "10.11",
+  "version": "10.12",
+  "kb_version": "10.12",
   "migrated_from": "3.3",
-  "fact_count": 5561,
+  "fact_count": 5562,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100069,7 +100069,7 @@
       "entities": [
         "The Green Triangle"
       ],
-      "claim": "THE FOUR ISSUES THE EXHAUSTIVE READ SKIPPED WERE EXACTLY THE ONES ALREADY BELIEVED READ. documents/green-triangle.md closed its open question 2 on 2026-09-07 with \"the run has now been read issue by issue\", and its source entry 15 ends \"With these the whole digitized 1932-1982 run has been read.\" BOTH WERE OVERSTATED. Four of the forty Green Triangle source records still carried read_state \"skimmed\" with the basis string \"asserted:full-text-cached-and-keyword-swept-not-read-closely\": 1935-08-17, 1937-03-30, 1939-07-22 and 1940-06-27. THE PATTERN IS THE POINT. The article's own open question 2 had named SIX issues as \"read in full so far\" before the p_482 campaign -- 1933-07-08, 1935-08-17, 1937-03-30, 1938-07-29, 1939-07-22, 1940-06-27. The campaign read the issues NOT on that list and passed over the ones that were, because they were already marked done. But four of those six had only ever been read in the older, looser sense that produced the word \"skimmed\", and the two that survive the check (1933-07-08 and 1938-07-29) are the two that were separately extracted into their own facts. SO THE EXHAUSTIVE PASS EXCLUDED PRECISELY THE POPULATION WHOSE READ-STATE WAS ASSERTED RATHER THAN MEASURED -- which is f_5577's distinction reappearing as a hole in a completed campaign rather than in a backlog. Reading all four on 2026-09-07 produced nine facts (f_5592 through f_5599 and this one), including the identification of the Kanawana Kidd, a named Pagé working at the camp, a 1939 editorial against \"Summer Resort camping\", and a nature director with a documented CV. GENERALISATION FOR LATER PASSES: when a campaign claims to have covered a set, check the set's own read-state field rather than the campaign's summary, and check it hardest on the items the campaign had a reason to skip.",
+      "claim": "THE FOUR ISSUES THE EXHAUSTIVE READ SKIPPED WERE EXACTLY THE ONES ALREADY BELIEVED READ. documents/green-triangle.md closed its open question 2 on 2026-09-07 with \"the run has now been read issue by issue\", and its source entry 15 ends \"With these the whole digitized 1932-1982 run has been read.\" BOTH WERE OVERSTATED. Four of the forty Green Triangle source records still carried read_state \"skimmed\" with the basis string \"asserted:full-text-cached-and-keyword-swept-not-read-closely\": 1935-08-17, 1937-03-30, 1939-07-22 and 1940-06-27. THE PATTERN IS THE POINT. The article's own open question 2 had named SIX issues as \"read in full so far\" before the p_482 campaign -- 1933-07-08, 1935-08-17, 1937-03-30, 1938-07-29, 1939-07-22, 1940-06-27. The campaign read the issues NOT on that list and passed over the ones that were, because they were already marked done. But four of those six had only ever been read in the older, looser sense that produced the word \"skimmed\", and the two that survive the check (1933-07-08 and 1938-07-29) are the two that were separately extracted into their own facts. SO THE EXHAUSTIVE PASS EXCLUDED PRECISELY THE POPULATION WHOSE READ-STATE WAS ASSERTED RATHER THAN MEASURED -- which is f_5577's distinction reappearing as a hole in a completed campaign rather than in a backlog. Reading all four on 2026-09-07 produced nine facts (f_5592 through f_5599 and this one), including the identification of the Kanawana Kidd, a named Pagé working at the camp, a 1939 editorial against \"Summer Resort camping\", and a nature director with a documented CV. GENERALISATION FOR LATER PASSES: when a campaign claims to have covered a set, check the set's own read-state field rather than the campaign's summary, and check it hardest on the items the campaign had a reason to skip. [NARROWED 2026-09-07, same day, by f_5600: \"a campaign that trusts its own summary skips precisely the items it had a reason to skip\" is right, but the generalisation drawn from it -- that an asserted read-state is unreliable as such -- was tested against the Canadian Camping records and failed. Where an INDEPENDENT campaign left a per-item ledger, an asserted basis holds; the Green Triangle's did not. The test is whether a per-item record of the read exists outside the assertion.]",
       "sources": [
         "src_ymf_the_green_triangle_1937_03_30",
         "src_ymf_the_green_triangle_1935_08_17",
@@ -100221,6 +100221,23 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.11",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5600",
+      "category": "method",
+      "date_ref": null,
+      "entities": [
+        "Canadian Camping"
+      ],
+      "claim": "THE FIRST TEST OF p_487 FAILED, WHICH IS THE USEFUL RESULT. f_5591 generalised from the Green Triangle: a campaign that trusts its own summary skips exactly the items the summary already calls done. p_487 was queued to sweep every completed campaign for that hole, and the sweep's first instrument -- grouping source records into series and flagging any series mostly 'read' with a soft minority -- reproduced the known Green Triangle case and returned only three other candidates from 876 groups. A SECOND INSTRUMENT, counting basis-string shapes, gave the sharper population: 88 records carry read_state 'extracted' or 'read' WITH A BASIS BEGINNING 'asserted:'. Those are the invisible ones -- a record marked skimmed will be revisited, a record that asserts a full read never will. THE HYPOTHESIS WAS THAT THESE WOULD BE UNRELIABLE IN THE SAME WAY. Tested on the nine item-level Canadian Camping records, each asserting 'read-in-full-from-cached-corpus' against a magazine issue of 30-135 KB while producing only one to four facts apiece -- the same thin yield that gave the Green Triangle away. THE SMALLEST, Vol. 29 No. 2 (March 1977), WAS READ. Its substantial content -- the Quebec Camping Association English section's 40th anniversary conference of 25-27 March 1977 under Derek Walsh, the CCA's first national statistics for the 1976 season (68,000 camper spaces, 260,000 campers, 32,000 staff), and Madeleine Allen's Camp Ouareau parental-motivation survey -- IS ALL ALREADY IN THE WIKI, in people/derek-walsh.md, connections/institutional-lineage/cca-statistics.md and connections/related-camps/camp-ouareau.md. IT WAS EXTRACTED BY A DIFFERENT CAMPAIGN: kb/reread/cc_findings.md, a word-for-word read of all 164 issues completed 2026-09-05, with a per-issue ledger at kb/reread/cc_progress.jsonl showing 164 of 164 read and an explicit 'nothing' block where that is the honest answer. THE ASSERTED BASIS WAS TRUE. It was merely written in the weaker vocabulary, and the nine records have been rewritten to point at the ledger row and findings block that measure them. SO THE LESSON IN f_5591 IS NARROWER THAN IT WAS STATED. What is unreliable is not an asserted read-state as such; it is a read-state asserted by the campaign that is about to decide what to skip. Where an independent campaign left a per-item ledger, the assertion holds. THE CORRECTIVE TEST IS THEREFORE: does a per-item record of the read exist somewhere outside the assertion? If yes, the assertion is checkable and usually right. If no, it is a claim, and thin yield against a large document is the tell. THE REAL DEFECT FOUND IN THIS POPULATION WAS DIFFERENT AND WORTH MORE: all nine records named the COLLECTION DIRECTORY sources/cache/canadian-camping/ as their cache_path rather than a file, so nine records claiming a full read did not identify the document read, and every check passed -- a directory always exists. Seventeen records in all carry a directory cache_path; eight are legitimately collection- or album-level. The nine were repointed at their files, char_count measured, and scripts/verify/data_integrity.py now fails any directory cache_path outside a documented allow-list.",
+      "sources": [
+        "src_ia_canadian_camping_1977_03",
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.12",
       "added_by": "ralph_loop"
     }
   ]
