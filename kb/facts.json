@@ -1,8 +1,8 @@
 {
-  "version": "11.04",
-  "kb_version": "11.04",
+  "version": "11.05",
+  "kb_version": "11.05",
   "migrated_from": "3.3",
-  "fact_count": 5680,
+  "fact_count": 5681,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102456,6 +102456,24 @@
       "date_ref": "2002-2009",
       "conflicts_with": [],
       "added_version": "11.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5719",
+      "claim": "GARY WHITE'S KANAWANA DIRECTORSHIP BEGINS A YEAR EARLIER THAN THIS WIKI HAS IT, AND THE HANDOVER FROM HOAD IS NOW CLEAN. gary-white.md and the directors index both date him to 'fiscal year 2001-2002, per the Montreal YMCA's own annual report', citing the FY2001-2002 volume. THE FY2000-2001 VOLUME ALREADY NAMES HIM. Its Senior Management roster ends, in alphabetical order after St-Yves, Tremblay and Weil: 'White. Gary / Director, / Kamp Kanawana'. The reading is unambiguous -- the list is alphabetical, White is its last entry, and the title sits directly beneath the name in the same column. SET AGAINST f_5717 THE SUCCESSION CLOSES WITHOUT A GAP OR AN OVERLAP: Joanna Hoad appears as Director, Kamp Kanawana in the rosters for 1996, 1997, 1998, 1998-99 and 1999-2000, and White appears in 2000-2001 and 2001-2002. So the handover falls between the 1999-2000 and 2000-2001 volumes, which is what this wiki already said from oral history and now has in print at both ends. IT DOES NOT REOPEN CONFLICT c_015, which was about the far end -- oral history giving White 2001 to 2005 against the reports ending him at FY2001-2002 -- and is resolved in the reports' favour. This extends the documented start backwards; the documented end is unchanged. A SWEEP OF EVERY CACHED ANNUAL REPORT FROM 1984 TO 2004 FOUND NOTHING ELSE NEW, and that is worth recording as a measurement rather than left unsaid. The roster series it produced -- Goddard in 1986, Jay Netherwood in 1987 and 1988, Bruce Netherwood with Jay as Supervisor in 1990, Hoad from 1996, White, then 'Carter, Morgan M. -- Interim Director' in 2002-2003 -- is already in the wiki in every particular, including Carter's interim title and the association's own 75th-anniversary statement of 1983 and its two consecutive 100th-anniversary statements in 1993 and 1994. SO THE HOAD MISS WAS A SINGLE UNREAD PARAGRAPH AND NOT A SYSTEMATIC GAP IN THAT ERA. That is the more useful conclusion, and it is the opposite of what the size of the Hoad finding suggested.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2000_2001"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Gary White",
+        "Joanna A.A. Hoad",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "2000-2001",
+      "conflicts_with": [],
+      "added_version": "11.05",
       "added_by": "ralph_loop"
     }
   ]

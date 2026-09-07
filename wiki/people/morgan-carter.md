@@ -5,7 +5,7 @@
 
 ## Overview
 
-Morgan Carter served as Kanawana's on-site Camp Director for the summers of 2001 through 2003. He worked under Executive Director Gary White for **2001–2002 only** — White's documented Kanawana tenure ends there (conflict c_015, resolved) — and no Executive Director is documented for Carter's final year. His on-site predecessor was [[people/joanna-hoad|Joanna A.A. Hoad]] (1995–2000), not White, whose role was the separate year-round Executive Directorship; his on-site successor was [[people/david-leduc|Dave Leduc]] in 2004.
+Morgan Carter served as Kanawana's on-site Camp Director for the summers of 2001 through 2003. He worked under Executive Director Gary White for **2001–2002 only** — White's documented Kanawana tenure ends there (conflict c_015, resolved), though it is now documented to have *begun* a year earlier, in FY2000–2001 ([f_5719]) — and no Executive Director is documented for Carter's final year. His on-site predecessor was [[people/joanna-hoad|Joanna A.A. Hoad]] (1995–2000), not White, whose role was the separate year-round Executive Directorship; his on-site successor was [[people/david-leduc|Dave Leduc]] in 2004.
 
 ## Directorship (2001–2003)
 

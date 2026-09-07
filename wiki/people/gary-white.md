@@ -1,13 +1,19 @@
 # Gary White
 
-*Status: stub | Sources: 3*
-*Last Updated: 2026-07-11*
+*Status: stub | Sources: 4*
+*Last Updated: 2026-09-07 (the directorship starts a year earlier)*
 
 ## Overview
 
-Gary White served as Director of Camp Kanawana during fiscal year 2001–2002, per the Montreal YMCA's own annual report, before moving to lead the Westmount YMCA branch. He is one of the more thinly-documented figures in the camp's "Two-Tier Era" leadership.
+Gary White served as Director of Camp Kanawana across fiscal years **2000–2001 and 2001–2002**, per the Montreal YMCA's own annual reports, before moving to lead the Westmount YMCA branch. He is one of the more thinly-documented figures in the camp's "Two-Tier Era" leadership.
 
-## Kanawana Directorship (FY2001–2002)
+## Kanawana Directorship (FY2000–2002)
+
+**The start moves back a year.** Until 2026-09-07 this article dated his directorship to FY2001–2002 alone,
+because that is the volume it had been shown. The **FY2000–2001** report already names him: its Senior
+Management roster ends, alphabetically after St-Yves, Tremblay and Weil, with "**White. Gary / Director, /
+Kamp Kanawana**."^4 Set against the same rosters naming [[people/joanna-hoad|Joanna A.A. Hoad]] through
+1999–2000, **the handover falls between the two volumes**, with no gap and no overlap. [f_5719]
 
 The Montreal YMCA's Annual Report for fiscal year 2001–2002 lists, in its Senior Management section: "White, Gary — Director, YMCA Kamp Kanawana."^1 By the following fiscal year's report (2002–2003), White appears instead as "Director, Westmount YMCA," with Morgan Carter listed as "Interim Director, YMCA Kamp Kanawana" — indicating White had moved to a different branch entirely within roughly a year of his documented Kanawana directorship.^2 The 2003–2004 report confirms him continuing at Westmount, not Kanawana.^2 His Westmount YMCA tenure is independently extended through at least 2007 by that year's annual report, which lists him on the Westmount YMCA board.^3
 
@@ -30,6 +36,7 @@ Oral history originally recorded White's Kanawana tenure as running from 2001 to
 1. Montreal YMCA Annual Report, fiscal year 2001–2002 (Wayback Machine) [src_wayback_ymcamontreal_annualreport_2001_2002].
 2. Montreal YMCA Annual Reports, fiscal years 2002–2003 and 2003–2004 (Wayback Machine) [src_wayback_ymcamontreal_annualreport_2002_2003].
 3. Montreal YMCA Annual Report, 2007 [src_ymcaquebec_annualreport_2007].
+4. YMCA of Montreal annual report for **2000–2001** [src_ymf_sgw_ymca_annual_report_2000_2001], its Senior Management roster; cached at `sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-2000-2001.txt`, read 2026-09-07 under `p_259`. See [f_5719].
 
 ## Research Notes
 
