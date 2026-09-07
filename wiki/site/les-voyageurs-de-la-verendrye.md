@@ -1,7 +1,7 @@
 # Les Voyageurs de la Vérendrye
 
-*Status: draft | Sources: 17*
-*Last Updated: 2026-09-07 (spun out of traditions/canoe-trips.md, where it was 8,346 of 16,292 words)*
+*Status: draft | Sources: 18*
+*Last Updated: 2026-09-07 (a 1982 season review, three years later than the article's previous last document)*
 
 ## Overview
 
@@ -514,8 +514,11 @@ and repairing the Voyageur's equipment in May and June."
 
 ### 1979: coed by default, and "very little wilderness left"
 
-Robert D. Woodhouse's report for 1979 is the last Voyageur document this project holds, and two
-things in it reverse positions the programme had held for years.
+**[SUPERSEDED 2026-09-07: it is no longer the last. A 1982 season review, held in cache since August at
+read_state "skimmed", was read under p_482 and is three years later. The sentence is kept as written
+because the reading of the 1979 report below does not change.]** Robert D. Woodhouse's report for 1979
+is the last Voyageur document this project holds, and two things in it reverse positions the
+programme had held for years.
 
 **Coeducation is routine and argued on its merits.** "Two out of five trips this summer were coed
 trips. I can see no reason for not continuing this practice. I think it would be best that if there
@@ -602,6 +605,57 @@ camp of its own. Its trips had a stated **length**, fourteen days. And the whole
 described in one line, from a two-mile hike to a hundred-mile wilderness route, **graded by age and
 ability** rather than by section — which is how the camp itself described the trip programme to
 outsiders in the 1980s, and the only such description this project holds for the decade.
+### 1982: the last report, and a director arguing against his own camp's absorption
+
+The 1982 season review is the latest Voyageur document this project holds, and it was written by a
+director who could see what was coming.^18 Its author is not named — the signature survives in the
+scan but not legibly — and its opening concedes the year plainly: "Although this year, 'Les
+Voyageurs' cannot boast about the number of campers we had, we can boast about the things that did
+happen with the small number who were there."
+
+**The programme still ran the 1979 shape.** Trips were **125 miles over twelve days**, "ten hours a
+day for twelve days straight," preparing **seven campers** at a time — the same seven-camper standard
+Woodhouse had introduced in 1979 and Mongraw had argued against in 1974. Campers went home feeling
+they had "made it," and the report is emphatic that they were taught rather than merely taken: "you
+can still have a challenging experience in the bush **without taking unnecessary risks with the
+safety of the group**." Coeducation is now so settled it appears only as a description of what
+campers learn — "how they function in a **co-ed group**."
+
+**The Park was being abandoned, and it had been recommended twice before.** "Each year there seems to
+be more and more people and garbage in the area where we have always tripped… the fees are getting so
+high that we have been taking most of our trips **north east of the Park**." The report credits the
+warning to its predecessors by name and year: "It has been suggested, in past Directors' reports,
+(**Paul Mongraw in 1974** and **Bob Woodhouse in 1978**) that we start looking elsewhere to trip
+because of people and garbage." So a programme named for a park had, by 1982, largely stopped
+tripping in it — and both earlier reports that said so are documents this project has read.
+
+**The scale had collapsed to one trip at a time.** The equipment, "in the boxes in the trip shed
+beside the farm house," was "enough… to take out **three six-man trips**," but "as there has only
+been **one trip out at a time in the past two years**, much of the equipment has gone unused."
+Kanawana's own paddle supply was "often low and generally of poor quality," so Voyageurs were to be
+told at parents' night in May to buy their own in the city.
+
+**And the absorption this article traces was being resisted, in writing, by the man running the
+programme.** "Personally I think it would be **a sin if our camp were to be absorbed by Kamp
+Kanawana**. Les Voyageurs is a **different camp** than Kanawana and would therefore lose its
+identity. Les Voyageurs should be dealt as separate by the 'Y'." The structural problem he names is
+the one that made absorption likely: "unlike most other camps, **Les Voyageurs has only one year
+campers**, and because of this more time must be spent in trying to 'sell' the camp." A programme
+whose campers never return has to recruit its whole enrolment every winter, and the 1982 recruitment
+came too late — "I, along with some of the other K.K. staff posted **two hundred posters** for Les
+Voyageurs in May. Unfortunately we later found that these posters should have been posted **three
+months earlier**." His remedies read like a list made by someone who has stopped being heard: a story
+on page three of the *Gazette* in **Ted Blackman's or Nick Auf Der Maur's** column, a spot on
+*McGowan's Montreal*, advertisements in the Sunday camps section of the *New York Times*, T-shirts,
+and "**1,000 posted before April**." Of the suggestions in earlier reports he notes only that "it
+appears that for the most part these suggestions fell upon deaf ears."
+
+**One archival lead, precisely located.** "Bob Woodhouse (Director, 1978-79) put together a fantastic
+map of **all the Voyageur routes used in the past ten years**. It is in the equipment box at the farm
+house… it must be taken care of." A route map covering roughly 1972 to 1982, drawn by a director this
+article already quotes, was a physical object in a named building at Kanawana in 1982. Whether it
+survives is a question for the camp and for the fonds, not for the open web.
+
 ## Open Questions
 
 1. [Critical] **When was the Lac Landron lease actually signed?** Two documented institutional sources disagree, and this article sets both out rather than choosing. The camp's own season report of late summer 1963 and the association's annual report closing 31 May 1964 can both be satisfied by a lease signed between them — but that reading does not explain the 1966 report still asking about it. Concordia's Fonds P145 sub-series 12K is where a lease would be.
@@ -640,3 +694,4 @@ outsiders in the 1980s, and the only such description this project holds for the
 15. "Les Voyageurs de la Vérendrye, report for 1979", signed Robert D. Woodhouse, Director [src_ymf_1979_les_voyageurs_de_la_verendrye_report]. Read whole 2026-09-06 under p_441. See [f_5057] and [f_5058]. **More than half the report is named individual staff evaluations, embargoed as register entry r_0005** (review 2060); the names and roles are recorded openly, the judgements are not.
 16. *Canadian Camping* Vol. 27 No. 2 (January 1975), the Canadian Camping Association Directory Issue — Quebec Camping Association accredited member camps listing. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 103).
 17. Porter Sargent Publishers, *The Guide to Summer Camps and Summer Schools*, 1983-1984 (23rd edition) and December 1987, the KANAWANA entries [src_porter_sargent_guides_1983_1987]. **One entry from each edition**, reconstructed 2026-09-06 from fifteen overlapping Open Library search-inside queries; both books are lending-restricted and neither has been read. Cached with the queries at `sources/cache/openlibrary-search-inside/2026-09-06-porter-sargent-guides-1983-84-and-1987.txt`. See [f_4946].
+18. Les Voyageurs de la Vérendrye, director's season review for 1982 [src_ymf_1982_les_voyageurs_de_la_verendrye_review]. Concordia-digitized YMCA of Montreal fonds; full text cached at `sources/cache/ymca-montreal-fonds/1982-les-voyageurs-de-la-verendrye-review.txt`. Held since 2026-08-25 at read_state "skimmed" and read word for word 2026-09-07 under p_482. The author's signature is present but illegible in the OCR, so the report is cited unsigned.

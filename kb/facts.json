@@ -1,8 +1,8 @@
 {
-  "version": "9.80",
-  "kb_version": "9.80",
+  "version": "9.81",
+  "kb_version": "9.81",
   "migrated_from": "3.3",
-  "fact_count": 5437,
+  "fact_count": 5439,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -98033,6 +98033,44 @@
       "confidence": "inferred",
       "conflicts_with": [],
       "added_version": "9.80",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5476",
+      "category": "programs",
+      "date_ref": "1982",
+      "entities": [
+        "Les Voyageurs de la Vérendrye",
+        "Camp Kanawana",
+        "Paul Mongraw",
+        "Bob Woodhouse",
+        "Parc de la Vérendrye"
+      ],
+      "claim": "THE LAST VOYAGEUR REPORT, AND ITS DIRECTOR ARGUING AGAINST THE ABSORPTION THIS PROJECT HAD ONLY INFERRED. The unsigned 1982 season review, three years later than what was previously the latest Voyageur document held. THE PROGRAMME STILL RAN THE 1979 SHAPE: 125-mile trips over twelve days, 'ten hours a day for twelve days straight', SEVEN CAMPERS -- Woodhouse's 1979 standard, which Mongraw had argued against in 1974 -- and coeducation so settled it appears only in passing, as what campers learn about 'how they function in a CO-ED GROUP'. THE PARK WAS BEING ABANDONED: 'more and more people and garbage in the area where we have always tripped… the fees are getting so high that we have been taking most of our trips NORTH EAST OF THE PARK', a move recommended in 'past Directors' reports, (PAUL MONGRAW IN 1974 and BOB WOODHOUSE IN 1978)'. A programme named for a park had largely stopped tripping in it. THE SCALE HAD COLLAPSED: equipment for 'three six-man trips' but 'ONLY ONE TRIP OUT AT A TIME IN THE PAST TWO YEARS'. THE ABSORPTION, RESISTED IN WRITING: 'Personally I think it would be A SIN IF OUR CAMP WERE TO BE ABSORBED BY KAMP KANAWANA. Les Voyageurs is a DIFFERENT CAMP than Kanawana and would therefore lose its identity.' He names the structural cause: 'unlike most other camps, LES VOYAGEURS HAS ONLY ONE YEAR CAMPERS', so its whole enrolment had to be recruited afresh every winter -- and in 1982 two hundred posters went up in May, 'three months' too late. His remedies (the Gazette's page three via Ted Blackman or Nick Auf Der Maur, a spot on McGowan's Montreal, the Sunday New York Times camps section, T-shirts, a thousand posters before April) close with the observation that earlier reports' suggestions 'fell upon deaf ears'.",
+      "sources": [
+        "src_ymf_1982_les_voyageurs_de_la_verendrye_review"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.81",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5477",
+      "category": "documents",
+      "date_ref": "1972-1982",
+      "entities": [
+        "Bob Woodhouse",
+        "Les Voyageurs de la Vérendrye",
+        "Camp Kanawana"
+      ],
+      "claim": "A ROUTE MAP OF TEN YEARS OF VOYAGEUR TRIPS, LOCATED TO A BUILDING. The 1982 review: 'BOB WOODHOUSE (DIRECTOR, 1978-79) put together a fantastic map of ALL THE VOYAGEUR ROUTES USED IN THE PAST TEN YEARS. It is IN THE EQUIPMENT BOX AT THE FARM HOUSE. As it has taken many long hours of work to put this map together, and is an extremely useful tool, IT MUST BE TAKEN CARE OF.' A map covering roughly 1972 to 1982, drawn by a director whose own reports this project has read, was a physical object in a named Kanawana building in 1982 -- the Farmhouse in Front Camp, which wiki/site/places-and-locations.md describes as still standing and winterized. THIS IS AN ARCHIVE QUESTION, NOT A SEARCH QUESTION: it would be found by the camp or in the fonds, never on the open web. The same passage incidentally fixes Woodhouse's tenure as 1978-79 in his successor's words, which agrees with the two reports of his this project holds.",
+      "sources": [
+        "src_ymf_1982_les_voyageurs_de_la_verendrye_review"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.81",
       "added_by": "ralph_loop"
     }
   ]

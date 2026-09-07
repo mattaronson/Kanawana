@@ -12196,7 +12196,8 @@
         "src_ymf_sgw_ymca_annual_report_1961",
         "src_ymf_sgw_ymca_annual_report_1963",
         "src_ymf_sgw_ymca_annual_report_1964",
-        "src_ymf_sgw_ymca_annual_report_1968"
+        "src_ymf_sgw_ymca_annual_report_1968",
+        "src_ymf_1982_les_voyageurs_de_la_verendrye_review"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -12210,7 +12211,7 @@
         "traditions/lv-games"
       ],
       "file_id": null,
-      "word_count": 9919,
+      "word_count": 10741,
       "tags": [
         "spinout"
       ],
