@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 43*
+*Status: draft | Sources: 44*
 *Last Updated: 2026-09-07 (240 in 1936; and "some 700" around 2001)*
 
 ## Overview
@@ -97,7 +97,7 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | **1961** | *(ran)* | — | The second season run on "planned group development"; the study's first findings tested "last summer at Kanawana" [f_4846] |
 | **1962** | **590** ⚠️ *or 550* | 12,425 *camper days* | From the statistical summary, which counts the city day camps separately [f_4846]. **A news release of 22 April 1963 says 550, "the highest enrollment," with 66 staff and counsellors under Ross Seaman**^19 — see the note below |
 | 1963 | 602 | — | Includes Voyageurs; 75 leaders |
-| 1964 | 535 (+64 leaders) | — | 120 acres acquired |
+| 1964 | 535 (+64 leaders) | **budgeted 1,530, missed** | 120 acres acquired. Stays: about two thirds two weeks, **131** four weeks, **12** six, **20** the whole season. Peak population about **390**, roughly **300** fed daily^44 |
 | 1965 | 420 | 1,200 or 1,182 ⚠️ | Attributed to weather, summer school, changed family holidays |
 | 1966 | 488 | 1,323 | 73rd year |
 | 1967 | 421 | 1,098 | Plus 3,000 meals and 2,170 bed-nights for 664 Expo visitors. **32% of campers were Y members; almost 40% had spent one or more two-week periods at Kanawana in previous summers**^18 |
@@ -274,6 +274,17 @@ at camp, in that summer, for those people: it is direct physical evidence the se
 alone closes **1981–1984, 1989–90, 1992–93, 1995–97, 2002–04 and 2006–2010** [f_4850]. What it does not
 give is attendance. The corpus counts whoever appears on boards that survived, which swings from two
 names in 1987 to 205 in 2008 and says nothing about how many were at camp.
+
+**What a counsellor was paid, and what the camp had to sell.** The 1964 report is the only document
+here that prices the staff. Thirty-one counsellors at an **average age of 19.8** years, up 1.2 on 1962;
+**eighteen of them (60%) university students** and three graduates; an **average salary of $173** against
+a range of **$100 to $280**, with six over $200; and nine who had counselled at Kanawana before.^44
+
+The same page states the camp's commercial problem in one line. It **budgeted 1,530 camper-weeks and
+missed**, running a deficit, and **about half of each year's campers returned** — so "roughly 250 new
+campers" had to be recruited every year simply to hold the budget. That is the arithmetic behind every
+recruitment advertisement in [[documents/kanawana-in-media|the media article]], and it is the only place
+in this project where the camp writes down what its churn actually was.
 
 **A ten-year table nobody can read yet.** The camp's own 1965 report carries a "KAMP KANAWANA TEN YEAR
 SUMMARY" covering camper ages, stay lengths, **religious affiliation** (Protestant, Roman Catholic,
@@ -487,6 +498,7 @@ from inside the camp office, in a year the camp was moving to coeducation.
 41. YMCAs of Québec, impact report for **2024** [src_ymf_ymca_impact_report_2024]: "782 kids and teens enjoyed a stay in the great outdoors at Camp Kanawana," printed beside "93 campers in our Companion program." Read 2026-09-07 under the sharpened p_441. See [f_5586].
 42. *Camp Kanawana Preparation Guide, Summer 2026* (parent handbook) [src_kk_prep_guide_2026], cached at `sources/cache/parent-guides/Camp-Kanawana-GUIDE-Parent-EN_2026.txt`; read word for word 2026-09-07 under p_487. See [f_5603].
 43. Kamp Kanawana's own annual report for **1965** [src_ia_kanawana_report_1965], `sources/cache/ymca-montreal-fonds/1965-kamp-kanawana-annual-report.txt`, under the heading "KAMP KANAWANA TEN YEAR SUMMARY". The **1,696** camper-weeks of **1957** and **1,623** of **1958**, the two tests each of them passes, and a description of everything else the table covers — including a religious-affiliation breakdown this project holds nowhere else — are at [f_5641]. Found 2026-09-07 under p_491; the rest of the table needs page images (p_497).
+44. Kamp Kanawana's own annual report for **1964**, its seventy-first season [src_ia_kanawana_report_1964]. The **535** campers and their stay lengths, the peak population of about **390** with roughly **300** fed daily, the **31** counsellors at an average age of **19.8** and an average salary of **$173**, and the missed budget of **1,530** camper-weeks are all at [f_2389]. Brought into this article 2026-09-07 under p_492.
 
 ## Research Notes
 
