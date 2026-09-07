@@ -105,8 +105,12 @@ above is a search highlight.^7
 4. [Important] Which school in India, and when? The single highlight in *Journey to India* names
    neither.
 5. [Nice-to-have] **Charles G. Hewett**, whom Guiton served under in 1919-20, and **Robert E.
-   Blake** and **G. S. Mooney**, who served under him — none appears anywhere else in this
+   Blake**, who served under him — ~~none~~ neither appears anywhere else in this
    project. Each was a Montreal YMCA boys' worker in the years the camp was running.
+   *(Partially resolved 2026-09-07: **G. S. Mooney** was on this list and is now off it. The annual
+   report for the year ending 30 April 1928 names "Mr. Geo. S. Mooney" among the secretaries who had
+   charge of Camp Otoreke's programme in the 1927 season — see
+   [[site/camp-otoreke|Camp Otoreke]]. Hewett and Blake are still nowhere else.)*
 
 ## Related Articles
 

@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 65*
+*Status: E1-reviewed | Sources: 66*
 *Last Updated: 2026-09-07 (McKay dated to May 1962; the 1,507-camper season; and who was responsible for the camp)*
 
 ## Overview
@@ -254,6 +254,40 @@ is "experimenting."
 And the man in charge on the ground for two months that summer was **W. J. Holliday**, who came back to
 Montreal that winter, found the work beyond his strength and tried to resign; see
 [[people/w-j-holliday|W. J. Holliday]].
+
+### And the handover worked
+
+The next two reports count the recovery, and they are worth reading in sequence with the deficit above.
+
+**1925, before any of it**, the camp was very nearly break-even — expenditures $1,423.95 against income
+$1,395.75, a deficit of **$28.20** — and the association was using it for its own staff: "the Secretaries
+of the Association held their **Annual Conference and review of their work at Otoreke prior to the
+opening**, and voted the facilities for fellowship and work to be excellent."^66
+
+**1927**, the first season under the new committee: "**One hundred and sixty young men** used the camp
+for vacation periods ranging from **a few days to six weeks**, this being **double the number in 1926**
+and the **third highest attendance since 1920**… Among the Secretaries who had charge of the programme
+were **Mr. Sydney Chard, Mr. R. P. Thomas, Mr. Howard R. Ellis, and Mr. Geo. S. Mooney**. The camp
+operated at a deficit of **$115.00**."^66 Attendance doubled and the deficit fell to a fifth in one
+season. "Double the number in 1926" is also the only figure anyone gives for that year: **about
+eighty**.
+
+**1928**: "The attendance of young men at Camp Otoreke **totalled 211** as against 160 the previous year.
+**This is within five of the record attendance in the year 1920**… The financial statement for the year
+showed **$4,492.44** receipts and **$4,407.83** expenditures. The **Metropolitan Board has loaned
+$2,000.00 to the Camp Committee** for the purpose of increasing the accommodation and modernizing the
+equipment, **some of which has been in use since the camp was organized**."^66 A surplus of $84.61, and a
+board lending into the camp instead of covering its losses.
+
+**Two reports seven years apart agree on a number neither took from the other.** "Within five of the
+record attendance in the year 1920," set against 211, gives **216** — which is exactly what the
+1921-1922 report says from the opposite direction, "126, as compared with 216 in 1920." One of them
+states the figure only by subtraction. It is the firmest number in the whole senior-camp series.
+
+**Sydney Chard, R. P. Thomas and Howard R. Ellis are new here.** **Geo. S. Mooney** is not:
+[[people/geoffrey-guiton|Geoffrey Guiton]] lists a "G. S. Mooney" as an assistant boys' worker and says
+of him that he appears nowhere else in this project. He appears here, running Camp Otoreke's programme
+in 1927.
 
 The men's camp is thinly documented between the move north and the ski lodge, and two consecutive
 annual reports fill part of that gap — the more usefully because they contradict each other.
@@ -1233,6 +1267,7 @@ centre. It is the same kind of use, twenty years earlier, that
 63. YMCA of Montreal annual reports for the years ending 30 April **1914** [src_ymf_sgw_ymca_annual_report_1914], **1916** [src_ymf_sgw_ymca_annual_report_1916] and **1917** [src_ymf_sgw_ymca_annual_report_1917], each describing the previous summer under the Dating rule at [[meta/attendance-series|The Attendance Series]]. The **1913** season (160 men, 5 July to 2 September, H. C. Patterson), the **1915** season (141, 9 July to 23 August) and the **1916** season (131, 14 July to 19 August, with the branch breakdown and the Henderson–MacLaren–Holliday rotation) are together at [f_5632], which also records the count of the name "Otoreke" across every report from **1913** to **1922**. The **1921-1922** volume that first uses the name is [src_ymf_sgw_ymca_annual_report_1921_1922].
 64. YMCA of Montreal annual reports for the years ending 30 April **1918** [src_ymf_sgw_ymca_annual_report_1918], **1919** [src_ymf_sgw_ymca_annual_report_1919_montreal_men] and **1920** [src_ymf_sgw_ymca_annual_report_1920], each describing the previous summer. The **1917** season (90, under W. H. Henderson, W. A. MacLaren and M. F. Furey), the **1918** season (72, and the two-week 13–29 July season with the enlistment sentence) and the **1919** season (106, Herb Patterson released to take charge) are at [f_5633], which also corrects the three-stage naming count and the four names that gain initials. The earlier **1913–1916** seasons are at [f_5632].
 65. YMCA of Montreal annual report for the year ending 30 April **1927** [src_ymf_sgw_ymca_annual_report_1927], on the **1926** season: the deficit of **$589.03**, the transfer of the camp's operation to the Metropolitan Physical and Recreational Committee, the Lac St. Joseph regatta and concert, and the Sunday services "much appreciated by Lake residents and campers". All at [f_5635], with **W. J. Holliday**'s two months in charge that summer.
+66. YMCA of Montreal annual reports for the years ending 30 April **1926** [src_ymf_sgw_ymca_annual_report_1926], **1928** [src_ymf_sgw_ymca_annual_report_1928] and **1929** [src_ymf_sgw_ymca_annual_report_1929], each on the previous summer. The **1925** secretaries' conference and its $28.20 deficit, the **1927** recovery to **160** with Chard, Thomas, Ellis and Mooney in charge, and the **1928** total of **211** with the $2,000 Metropolitan Board loan are together at [f_5636] — which also shows that "within five of the record attendance in the year 1920" and the **1921-1922** report's "216 in 1920" [src_ymf_sgw_ymca_annual_report_1921_1922] confirm each other.
 
 ## Research Notes
 

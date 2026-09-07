@@ -1,8 +1,8 @@
 {
-  "version": "10.46",
-  "kb_version": "10.46",
+  "version": "10.47",
+  "kb_version": "10.47",
   "migrated_from": "3.3",
-  "fact_count": 5597,
+  "fact_count": 5598,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100860,6 +100860,29 @@
       "date_ref": "1926-1927",
       "conflicts_with": [],
       "added_version": "10.46",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5636",
+      "claim": "THE 1926 HANDOVER OF CAMP OTOREKE WORKED, AND THE REPORTS COUNT THE RECOVERY. Following the governance change at f_5635 forward through the next three annual reports, under p_491. Dating on the fiscal convention throughout.\n\n1925 (report for the year ending 30 April 1926): 'THE SECRETARIES OF THE ASSOCIATION HELD THEIR ANNUAL CONFERENCE AND REVIEW OF THEIR WORK AT OTOREKE PRIOR TO THE OPENING, and voted the facilities for fellowship and work to be excellent.' Expenditures $1,423.95, income $1,395.75, DEFICIT $28.20. So the association used its own camp as a staff conference site before the season, and the year was very nearly break-even.\n\n1926: deficit $589.03 'due to falling off in attendance', and the Otoreke Committee's own recommendation to hand the camp to the Metropolitan Physical and Recreational Committee (f_5635).\n\n1927 (report for the year ending 30 April 1928): 'One of the major responsibilities of this Committee has been the carrying on of Camp Otoreke, the Association camp for young men at St. Adolphe de Howard. ONE HUNDRED AND SIXTY YOUNG MEN used the camp for VACATION PERIODS RANGING FROM A FEW DAYS TO SIX WEEKS, THIS BEING DOUBLE THE NUMBER IN 1926 and THE THIRD HIGHEST ATTENDANCE SINCE 1920. ... Among the Secretaries who had charge of the programme were MR. SYDNEY CHARD, MR. R. P. THOMAS, MR. HOWARD R. ELLIS, and MR. GEO. S. MOONEY. The camp operated at a DEFICIT OF $115.00.' Attendance doubled in one year and the deficit fell to a fifth. 'Double the number in 1926' also gives 1926 as ABOUT EIGHTY, a figure no report states directly.\n\n1928 (report for the year ending 30 April 1929): 'The attendance of young men at Camp Otoreke TOTALLED 211 AS AGAINST 160 THE PREVIOUS YEAR. THIS IS WITHIN FIVE OF THE RECORD ATTENDANCE IN THE YEAR 1920. A great deal of attention was given to improving the camp equipment... The financial statement for the year showed $4,492.44 RECEIPTS and $4,407.83 EXPENDITURES. THE METROPOLITAN BOARD HAS LOANED $2,000.00 TO THE CAMP COMMITTEE for the purpose of increasing the accommodation and modernizing the [equipment], SOME OF WHICH HAS BEEN IN USE SINCE THE CAMP WAS ORGANIZED.' A surplus of $84.61, and the board lending into the camp rather than covering its losses.\n\nAN INDEPENDENT CONFIRMATION FALLS OUT OF IT. 'Within five of the record attendance in the year 1920' against 211 gives 216, which is exactly the 1920 figure the 1921-1922 report states from the other direction ('126, as compared with 216 in 1920'). TWO REPORTS SEVEN YEARS APART AGREE ON A NUMBER NEITHER REPEATS FROM THE OTHER, and one of them states it only by subtraction. That is the strongest corroboration in the senior-camp series.\n\nSO THE FULL SERIES NOW READS 1912-1928: 123, 160, 160, 141, 131, 90, 72, 106, 216, 126, -, -, -, -, ~80, 160, 211. The 1920 peak, the post-war collapse to 126, the trough of about eighty in 1926 that triggered the handover, and a recovery to within five of the record two seasons after it.\n\nFOUR NAMES, AND ONE OF THEM CLOSES A STATED NULL. Sydney Chard, R. P. Thomas and Howard R. Ellis are new to this project. GEO. S. MOONEY IS NOT: people/geoffrey-guiton.md lists 'G. S. Mooney' as an Assistant Boys' worker under Guiton and says of him and Robert E. Blake that 'none appears anywhere else in this' project. He does now, running Camp Otoreke's programme in 1927.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1926",
+        "src_ymf_sgw_ymca_annual_report_1928",
+        "src_ymf_sgw_ymca_annual_report_1929",
+        "src_ymf_sgw_ymca_annual_report_1921_1922"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Camp Otoreke",
+        "Sydney Chard",
+        "R. P. Thomas",
+        "Howard R. Ellis",
+        "George S. Mooney"
+      ],
+      "date_ref": "1925-1928",
+      "conflicts_with": [],
+      "added_version": "10.47",
       "added_by": "ralph_loop"
     }
   ]
