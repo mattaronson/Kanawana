@@ -94,6 +94,7 @@ Two tools came out of the verify pass on the articles above, and both exist beca
 - [[people/multi-year-index|Named People Across Multiple Years]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[traditions/traditions-and-culture|Traditions and Culture]]
+- [[traditions/plaque-culture|What the Plaques Say Besides Names]] — what the boards carry when they are not listing people
 
 ## Sources
 

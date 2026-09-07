@@ -7683,3 +7683,23 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   1969 report NOT yet worked beyond this; its COED CAMPING section (425) and appendix (769) are read, its PROGRAM, REGISTRATION/CAPACITY,
   FOOD SERVICES, OUTSIDE GROUPS and FINANCIAL sections are not.
   KB v10.79 -> v10.80, 5,648 facts unchanged.
+2026-09-07T20:15:48Z  ASSESSMENT + FIX: plaque-culture was invisible from the hub.
+  Operator asked for a state-of-the-build assessment. Measured rather than recalled; the numbers are in the reply. Headline findings:
+  (1) "E1-reviewed" does not mean finished. 49 of 52 E1-reviewed articles were edited in the last three days -- directors-index 57 times,
+      camp-otoreke 55. The label records which process an article went through, not whether its sources are exhausted.
+  (2) The proof of (1) is tonight's own work: the 1970 report carried 28 facts, looked worked, and yielded twelve more plus a correction to
+      a passage written two hours earlier and the answer to an Important open question.
+  (3) REGISTER IS THE BIGGER PUBLICATION BLOCKER. Reader-facing prose (excluding Research Notes) carries 2,136 internal identifiers
+      (f_/p_/c_) and 838 mentions of grep, OCR, scans, caches and regexes, plus 394 "this project holds" and 213 dated found-on notes.
+      Correct for a research corpus, wrong for a reader-facing wiki. A publication pass is a DIFFERENT JOB from E1 and should be a fifth
+      stage, not a re-run of the fourth.
+  (4) 474 open questions (median 4/article), 40 open conflicts, 30 correction markers across 12 articles, 18 warning flags.
+  FIXED HERE, because it is a plain defect rather than a scope question: wiki/traditions/plaque-culture.md -- a 10,089-byte R3-verified
+  article on what the dining-hall plaques carry BESIDES names (mottos, catchphrases, a 1985 setlist, Kanawoodstock, raku, cabin naming) --
+  had ZERO inbound links and was unreachable from wiki/README.md. It links OUT to plaque-audit; nothing linked in. Added to Related
+  Articles on traditions-and-culture.md (the traditions hub) and on meta/plaque-audit.md, which it cites. Reachability now 127 of 129, the
+  two remaining being folder READMEs and not articles.
+  NOT DONE, because it is the operator's call: the publication pass itself. My recommendation was to pick a handful of articles whose
+  source base is genuinely bounded, run the pass on those, and measure what it costs before committing at scale -- my estimate of that cost
+  is unreliable until one has been done.
+  Also still open and unrelated to publication: the 1969 report is barely started, Perrot 1948 and 1953 unread.

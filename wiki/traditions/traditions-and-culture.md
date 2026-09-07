@@ -721,6 +721,7 @@ Kanawana."^40 Whether either was ever held again is not known here.
 - [[traditions/camp-songs-cheers|Camp Songs, Cheers, and Musical Traditions]]
 - [[traditions/myths-and-legends|Kanawana Myths and Legends]]
 - [[traditions/order-of-owens|The Order of Owens]]
+- [[traditions/plaque-culture|What the Plaques Say Besides Names]]
 
 ## Sources
 
