@@ -314,9 +314,10 @@ undertaking for twenty-one years**. Mr. and Mrs. '**Mac**' have a deep interest 
 Twenty-one years back from 1956 is **1935** — the year this camp went coeducational on its own staff's
 proposal, described above. The McGerrigles arrive with that reorganisation and are still there two
 decades on, which makes them the longest documented tenure anywhere in Otoreke's record. **And they
-were still there for five years more.** The North American *YMCA Year Book* prints "Dir. Camp Otoreke,
-Clarence J. McGerrigle" in the Montreal Metropolitan Board's staff block for 1957, 1958, 1959, 1960
-and 1961 — carrying the association to twenty-six years — and then, in 1963, a different name:
+were still there for ten years more.** The North American *YMCA Year Book* prints "Dir. Camp Otereke,
+Clarence J. McGerrigle" — **spelled with an E** — in the Montreal Metropolitan Board's staff block for
+**1951 and 1953**, and "Dir. Camp Otoreke" for 1957, 1958, 1959, 1960
+and 1961 — carrying the association to twenty-six years, and the spelling is why the earlier two took a second pass to find: a search for "Otoreke" cannot match "Otereke," and a wildcard on the stem does not help when the error is inside the word — and then, in 1963, a different name:
 "**Program, Camp Otoreke, Colin R. McKay**," who holds it in 1964 and 1965 as well.^52 **Colin R. McKay
 occurs nowhere else in this project**, checked by grep across the wiki, the knowledge base, the
 project documents and the source index before this sentence was written. He is a name and a post and

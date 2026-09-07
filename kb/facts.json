@@ -1,8 +1,8 @@
 {
-  "version": "9.16",
-  "kb_version": "9.16",
+  "version": "9.17",
+  "kb_version": "9.17",
   "migrated_from": "3.3",
-  "fact_count": 5275,
+  "fact_count": 5278,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -95161,6 +95161,57 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5314",
+      "category": "people",
+      "date_ref": "1927-1951",
+      "entities": [
+        "Harold C. Cross",
+        "YMCA of Montreal",
+        "Roy D. Locke"
+      ],
+      "claim": "HAROLD C. CROSS'S MONTREAL TITLES, WHICH HIS ARTICLE HAS BEEN ASKING FOR SINCE FEBRUARY. harold-cross.md's second open question is what his official title at the Montreal YMCA was, and says of the later career that 'nothing yet says what he was in 1936 ... or in 1951 when he wrote the centenary'. The Year Book answers across four decades. THE BRANCH DIRECTORY: 'Montreal, 1441 Drummond St., Metro. Bd. ... PROGRAM, HAROLD C. CROSS / Boys, Roy D. Locke' in the 1948, 1950 AND 1951 volumes -- so he was the METROPOLITAN BOARD'S PROGRAM SECRETARY in exactly the years he was writing the association's centennial history, published 1951. THE ALPHABETICAL LIST: 'Cross, H. C., Montreal, Que., Westmount, SEC, 12' in the 1927-28 volume, corroborating from a second source the 1928 brochure's 'Executive Secretary of Westmount Y.M.C.A.'; and 'Cross, H. C., Montreal, Que, Met., ACTING SEC, 12' in the 1945 volume -- ACTING SECRETARY OF THE METROPOLITAN ASSOCIATION, which is the senior professional post of the whole Montreal YMCA and by some distance the highest office this project has ever documented for him. His year of entry into Association work is given as 12 throughout, matching the 1921 figure already held.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.17",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5315",
+      "category": "people",
+      "date_ref": "1953-1969",
+      "entities": [
+        "Harold C. Cross"
+      ],
+      "claim": "HAROLD C. CROSS RETIRED ON 1 MARCH 1953, AND WAS ALIVE AND IN QUEBEC FOR AT LEAST SIXTEEN YEARS AFTER. His article states that no birth date, death date, education or personal background has been located. The Year Book's RETIRED SECRETARIES section -- a table of name, association, mail address and date of retirement -- carries 'CROSS, H. C. ... Montreal, Que., Met. Bd. ... RETIRED MARCH 1, 1953', and he appears in that section in the volumes for 1953, 1957, 1958, 1959, 1961, 1962, 1963, 1965, 1966, 1967, 1968 and 1969. THE LIST IS EFFECTIVELY A LIFE-TRACKING RECORD, since a man drops off it when he dies, SO HE WAS ALIVE INTO 1969 AT LEAST -- consistent with, and independent of, the 1971 photograph in the Concordia fonds that was previously the only evidence he lived that long. He is given at Montreal in 1953 and at BAIE D'URFE, QUEBEC by 1959, where he still is in 1965. (The table prints street addresses; only the locality is recorded here, the street adding nothing historical.) STILL NOT KNOWN: birth, death, education. But retirement at 1 March 1953 and entry into Association work in 1912 bracket a forty-one-year career and imply a birth around 1885-1892, which is the first age estimate this project has been able to make for him.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.17",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5316",
+      "category": "people",
+      "date_ref": "1951-1961",
+      "entities": [
+        "Clarence J. McGerrigle",
+        "Camp Otoreke"
+      ],
+      "claim": "McGERRIGLE'S DOCUMENTED OTOREKE DIRECTORSHIP GOES BACK SIX YEARS FURTHER, AND A SPELLING IS WHY IT DID NOT. f_5272 recorded 'Dir. Camp Otoreke, Clarence J. McGerrigle' in the 1957 through 1961 volumes. The 1951 AND 1953 volumes carry him too -- but spelled 'DIR. CAMP OTEREKE', with an E, which is why a search for 'Otoreke' returned nothing before 1958 and why this project's own note that Otoreke first appears in this series in 1958 was wrong. THE CAMP'S NAME IS MISSPELLED IN THE SOURCE, and a wildcard on the stem ('Otorek*') does not catch it either, since the error is inside the word. Found instead by reading the Montreal branch block year by year. This is the same failure as 'H.C.Cross' run together (f_5308) in a different dress: an exact search assumes the source spells a name the way you do.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.17",
       "added_by": "ralph_loop"
     }
   ]

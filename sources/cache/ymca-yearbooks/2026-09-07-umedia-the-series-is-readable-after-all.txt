@@ -774,3 +774,39 @@ and should not be.
 
 THE ENTRY-YEAR FIGURE IS THE BEST INSTRUMENT IN THIS SERIES and it has now settled four separate
 identity questions in one session: Brooks, Holliday, Hanagan and Pearson.
+
+
+==========================================================================================
+FIFTEENTH PASS — THE 1945-1957 MONTREAL BLOCK, WHICH THE ANNUAL REPORTS LEAVE BLANK
+==========================================================================================
+
+The collection holds a near-complete run for this stretch (1949 missing): 24768=1945, 19116=1946,
+43814=1947, 28960=1948, 27959=1950, 33718=1951, 46083=1952, 29289=1953, 37438=1954, 48058=1955,
+45418=1956, 45747=1957. FINDING THE MONTREAL PAGE: "Otoreke" does not work before 1958 (see the
+spelling note below) -- search "VERDUN", which is a Montreal branch and lands on the Quebec block.
+
+HAROLD C. CROSS'S TITLES, WHICH HIS ARTICLE HAS WANTED SINCE FEBRUARY:
+  1927-28  alphabetical list: "Cross, H. C., Montreal, Que., WESTMOUNT, SEC, 12"
+  1945     alphabetical list: "Cross, H. C., Montreal, Que, Met., ACTING SEC, 12"
+  1948     branch directory:  "Metro. Bd. ... PROGRAM, HAROLD C. CROSS / Boys, Roy D. Locke"
+  1950     same
+  1951     same
+  1953     RETIRED SECRETARIES: "Cross, H. C. ... Montreal Que Met. Bd. ...
+                                 RETIRED MARCH 1, 1953"
+He is in the Retired Secretaries section of the 1953, 1957, 1958, 1959, 1961, 1962, 1963, 1965,
+1966, 1967, 1968 and 1969 volumes, at Montreal in 1953 and BAIE D'URFE by 1959. A man leaves that
+list when he dies, SO HE WAS ALIVE INTO 1969 -- independent of the 1971 photograph that was the
+only prior evidence. Entry 1912 to retirement 1953 is a FORTY-ONE-YEAR CAREER and implies a birth
+about 1885-1892, the first age estimate this project has had for him.
+ACTING SECRETARY OF THE METROPOLITAN ASSOCIATION IN 1945 is the highest office ever documented for
+him, and PROGRAM SECRETARY 1948-1951 is what he was while writing the 1951 centennial history.
+
+ROY D. LOCKE, entry year 44: "Met. Bd., Boys" in 1950, 1951 and 1953; "Westmount, Exec" by 1955;
+"Metro., Financial Devel." in 1969; "Metro, Asst. and Dir., Operations" in 1973. All of which
+corroborates directors-index.md's account from the annual reports, and adds the entry year.
+
+AND A SPELLING THAT COST TWO VOLUMES. The 1951 and 1953 blocks read "DIR. CAMP OTEREKE, Clarence
+J. McGerrigle" -- WITH AN E. That is why a search for "Otoreke" returns nothing before 1958, and
+why this project briefly believed the camp first appears in this series in 1958. A WILDCARD ON THE
+STEM DOES NOT HELP WHEN THE ERROR IS INSIDE THE WORD. Same failure as "H.C.Cross" run together,
+in a different dress. McGerrigle's documented Otoreke directorship now runs 1951-1961.
