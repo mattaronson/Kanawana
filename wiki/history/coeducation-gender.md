@@ -134,8 +134,18 @@ The undated Facts sheet's "1969" is an error, not a second milestone. The phased
 
 ### What the camp thought it was for, 1970
 
-That phrase — "third year as a coeducational camp" — has been used here only to settle a date. The
-section it sits in is a statement of purpose, and it has not been read.^kk70
+That phrase — "third year as a coeducational camp" — has been used here only to settle a date, and the
+section it sits in is a statement of purpose. Part of it is quoted below under
+[What the camp said about it at the time](#what-the-camp-said-about-it-at-the-time), against the 1969
+report's anxieties; what follows is the rest of that section and the argument underneath it.^kk70
+
+*(Corrected 2026-09-07, within the hour. This paragraph first said the section "has not been read," which
+is false — the passage below has quoted its central phrase since before this section existed. The check
+that produced the error is worth naming: a grep for the exact string `coeducational experience` returns
+**zero** here, because the article writes it as `not 'coed' camping but a 'coeducational' experience`
+and the apostrophes fall inside the phrase. **An exact-phrase search fails on precisely the text most
+likely to be a quotation.** Grepping the destination is not the same as reading it, and a
+quotation-bearing phrase needs a looser pattern than the words themselves.)*
 
 "**The key to a successful operation this year was not 'coed' camping but a 'coeducational'
 experience.** Our goal was the education and development of a better understanding and acceptance of the
@@ -225,7 +235,7 @@ So the sequence is: surveyed and supported before 1965, recommended with costing
 
 ### What the camp said about it at the time
 
-The candour of the internal reports is worth recording directly, because the register changes sharply within a year. The 1969 report anticipates trouble: coeducation "creates some problems for a camp that has dealt with boys only for 3/4 of a century… Some of the specific problems that can be seen include establishing an identity, showing off, sex experimentation, loss of focus on the tent group."^ia The 1970 report, after two seasons, reverses that entirely and is genuinely thoughtful: "There were no 'mother or father' roles played (ie boys gathering wood while the girls cooked). Each person shared the responsibility and the dialogue around the fire at night took on extra significance. School, sex, the world, war, ecology, sing songs, etc., were all part of the campfires." The same report frames the whole enterprise as "**not 'coed' camping but a 'coeducational' experience**."^ia
+The candour of the internal reports is worth recording directly, because the register changes sharply within a year. The 1969 report anticipates trouble: coeducation "creates some problems for a camp that has dealt with boys only for 3/4 of a century… Some of the specific problems that can be seen include establishing an identity, showing off, sex experimentation, loss of focus on the tent group."^ia The 1970 report, after two seasons, reverses that entirely and is genuinely thoughtful: "There were no 'mother or father' roles played (ie boys gathering wood while the girls cooked). Each person shared the responsibility and the dialogue around the fire at night took on extra significance. School, sex, the world, war, ecology, sing songs, etc., were all part of the campfires." The same report frames the whole enterprise as "**not 'coed' camping but a 'coeducational' experience**."^ia The rest of that section, and the much longer appendix carrying the argument behind it, are at [What the camp thought it was for, 1970](#what-the-camp-thought-it-was-for-1970) and the two sections after it.
 
 The first female waterfront staff were hired in **1969**.^ia
 

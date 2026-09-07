@@ -7665,3 +7665,21 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   riding cancellation that preceded the one I had written up, the summation answering an Important open question, and this. TWELVE FACTS
   FROM ONE DOCUMENT THAT SHOWED 28 FACTS AND LOOKED WORKED.
   KB v10.78 -> v10.79, 5,646 -> 5,648.
+2026-09-07T20:12:25Z  p_491  CORRECTION UNIT: I claimed a section "has not been read" when the article had been quoting its central phrase all along.
+  Reading the 1969 report -- the twin of the 1970 one -- to give it the same treatment, I hit the coeducation article's existing section
+  "What the camp said about it at the time". IT ALREADY QUOTES the 1970 report's central phrase, "not 'coed' camping but a 'coeducational'
+  experience", set against the 1969 report's anxieties. My new section from earlier tonight opened by saying that section "has not been
+  read". FALSE. Corrected in place in the article and in f_5677, superseded text kept, and the two passages now cross-reference instead of
+  duplicating.
+  THE CHECK THAT PRODUCED THE ERROR IS THE POINT, and it will recur. Earlier I grepped the article for "coeducational experience" and got
+  ZERO. The article's text is: not 'coed' camping but a 'coeducational' experience. THE APOSTROPHES FALL INSIDE THE PHRASE, so an
+  exact-phrase search misses it. AN EXACT-PHRASE SEARCH FAILS ON PRECISELY THE TEXT MOST LIKELY TO BE A QUOTATION -- and a quotation is the
+  most likely form a distinctive phrase takes in a destination article. This is a specific, mechanical failure mode of the
+  grep-the-destination rule, and it is worse than a plain miss because a zero result reads as confident evidence of absence.
+  THE FIX, for next time: when testing whether a QUOTED phrase is already present, search on a distinctive SINGLE WORD, or a fragment short
+  enough to sit between the quote marks. Never on a multi-word phrase that might itself contain internal quotation.
+  What WAS genuinely new in that unit stands: the rest of the 1970 section, the 40% figure, the physically-separated-acting-as-one line,
+  and the whole appendix argument at f_5678. The framing phrase was not new and no longer claims to be.
+  1969 report NOT yet worked beyond this; its COED CAMPING section (425) and appendix (769) are read, its PROGRAM, REGISTRATION/CAPACITY,
+  FOOD SERVICES, OUTSIDE GROUPS and FINANCIAL sections are not.
+  KB v10.79 -> v10.80, 5,648 facts unchanged.
