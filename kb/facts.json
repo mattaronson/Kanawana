@@ -1,8 +1,8 @@
 {
-  "version": "8.76",
-  "kb_version": "8.76",
+  "version": "8.77",
+  "kb_version": "8.77",
   "migrated_from": "3.3",
-  "fact_count": 5203,
+  "fact_count": 5204,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93820,6 +93820,26 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.76",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5242",
+      "category": "institutional",
+      "date_ref": "1920s",
+      "entities": [
+        "Margaret Eaton School",
+        "McGill School of Physical Education",
+        "Camp Oolahwan",
+        "Montreal",
+        "Toronto"
+      ],
+      "claim": "THE REST OF THE ALBUM READ, AND IT HOLDS NOTHING FURTHER ON OOLAHWAN. All six PDFs of MargaretEatonSchool_redeemer_168 were downloaded and searched, not only the one containing the 1928 clippings. 'Oolahwan' occurs in item 168.4 alone; the archive's own item-by-item description of all fifty-eight items names one other camp, an American 'Camp Poch-a-W...'. So p_461's third task is closed: THE ALBUM'S OOLAHWAN CONTENT IS THE TWO CLIPPINGS ALREADY EXTRACTED (f_5240, f_5241), and nobody need download the other five PDFs. ONE MARGINAL FIND ON THE WAY, kept because this project's own framing calls the Margaret Eaton / Glen Bernard / Havergal network the connective tissue of Canadian camping. Two clippings in the album, one from each city, report a basketball game described as 'THE FIRST TIME CANADA'S TWO SCHOOLS OF PHYSICAL EDUCATION MET': the McGill School of Physical Education, Montreal, against the Margaret Eaton School, Toronto, played at the West End Y.M.C.A., Toronto, under Girls' Canadian Intercollegiate rules, Margaret Eaton winning 52-20, with Flora Musgrave and Evelyn Davis named. THE DATE IS NOT SETTLED AND IS NOT ASSERTED: the Toronto write-up says 'last Saturday night, March 5th', the Canadian Press item is datelined 'Montreal, March 4' and describes the game as played 'Saturday night', and neither gives a year -- the album spans 1925-1930. Those two cannot both be right as OCR'd. WHAT IT ADDS: that McGill's was one of only two schools of physical education in Canada in the 1920s, which sharpens the pipeline argument this project traces through Arthur S. Lamb and the McGill camping school of 1937-40.",
+      "sources": [
+        "src_ia_margaret_eaton_album_168_1928"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.77",
       "added_by": "ralph_loop"
     }
   ]
