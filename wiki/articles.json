@@ -104,7 +104,8 @@
         "f_1816",
         "f_1938",
         "f_1939",
-        "f_5255"
+        "f_5255",
+        "f_5163"
       ],
       "sources_cited": [
         "src_gazette_1897",
@@ -125,7 +126,8 @@
         "src_ymf_sgw_ymca_annual_report_1893_1894",
         "src_ymf_news_release_1963_04_22",
         "src_ia_sgw_ymca_annual_report_1874",
-        "src_kanawana_physical_archive_scans_2026"
+        "src_kanawana_physical_archive_scans_2026",
+        "src_stadolphedhoward_patrimoine"
       ],
       "open_questions": 0,
       "cross_links": [
@@ -150,7 +152,7 @@
         "timeline-overview"
       ],
       "file_id": "1h-vki1U2tjYj8-zZ5gzuyW6kQXelcUnB",
-      "word_count": 6973,
+      "word_count": 7246,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- replaced the bold-field header convention with the standardized two-line header, moved the embedded c_005 editorial-resolution paragraph into the existing Revision History section (merged the separate 'Research Notes'/'Revision History' H2 sections into one, per the wiki-wide convention). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

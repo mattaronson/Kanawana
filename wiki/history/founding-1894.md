@@ -184,6 +184,24 @@ The Pagé family were not the only pre-camp landowners at the site. Olivier Char
 
 Separately, a Quebec government cultural-heritage registry entry for the YMCA (Répertoire du patrimoine culturel du Québec, id 8364) independently corroborates the 1894 founding date, describing Kanawana as the YMCA's first vacation camp located outside the city.^rpcq
 
+**And a third body says 1893, which is worth printing here rather than leaving for a reader to find.**
+The municipality of Saint-Adolphe-d'Howard's own *Patrimoine* page states that "**le Y.M.C.A. s'établit
+sur une des îles du lac Saint-Joseph en 1893**."^sadh It is a municipal heritage page with no citation —
+a tertiary source — and it names neither Camp Jubilee nor Camp Otoreke, adding only that the vacation
+colony no longer exists while several other historical camps in the municipality remain active.
+
+**It is not evidence against 1894, and the reason is the same one this article argues above from primary
+sources.** 1893 is the *precursor* year: Concordia holds an 1893 "Report — trip to St. Agathe" recording
+a venture "to explore the country round about St. Agathe with the view of securing a lake," and the
+association's own 1893-94 annual report contains **no mention of a lake, lease or camp** while the
+following one records "Attendance at Summer Camp … 23." A body writing a heritage page a century later
+and rounding the arrival back to the year of the search is doing an ordinary thing.
+
+It is recorded because **this is the third independent body to arrive at the same 1893-versus-1894
+confusion**, after QAHN and BaladoDécouverte, and because an article that prints the provincial registry
+corroborating 1894 while omitting the municipal page contradicting it would be showing a reader one
+side.^sadh
+
 ## Early Organization at the Saint-Sauveur Site (1910s-1920s)
 
 McMorris confirms 1910 as the first season at the new site, with sixty-six members attending between June 19 and July 17. Of those sixty-six, thirty-one boys "decided for the Christian life," reflecting the YMCA's evangelistic mission.^mc By 1912, Kanawana served boys from four YMCA branches: Westmount, Point St. Charles, North, and Central.^mc
@@ -283,6 +301,7 @@ two decades later.
 - ^q: Quebec Anglophone Heritage Network, "The YMCA Camp of Saint-Adolphe d'Howard": "That camp, called Camp Jubilee after the fiftieth anniversary of the YMCA…" [src_qahn_howard]
 - ^op: Operator determinations (Matt Aronson), 2026-08-14 — resolving conflict `c_024`: "Lac La Croix was the first one they picked until Lake Saint-Joseph was found, which was a better option" — reading the 1919 memoir as a site-selection sequence rather than as a competing account of where the 1894 season was held [src_oral_aronson_c024_resolution]; and resolving `p_255`: "I concur on keeping the Jubilee name with the explanation" [src_oral_aronson_p255_naming]
 - ^rpcq: Répertoire du patrimoine culturel du Québec, "Young Men's Christian Association" (id 8364) [src_rpcq_ymca_8364]
+- ^sadh: Municipalité de Saint-Adolphe-d'Howard, "Patrimoine" [src_stadolphedhoward_patrimoine] — "le Y.M.C.A. s'établit sur une des îles du lac Saint-Joseph **en 1893**." A tertiary source with no citation; assessed against the primary record at [f_5163]. Brought into this article 2026-09-07 under p_492.
 
 ## Research Notes
 
