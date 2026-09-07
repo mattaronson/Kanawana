@@ -1,8 +1,8 @@
 {
-  "version": "9.55",
-  "kb_version": "9.55",
+  "version": "9.56",
+  "kb_version": "9.56",
   "migrated_from": "3.3",
-  "fact_count": 5378,
+  "fact_count": 5380,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -97001,11 +97001,48 @@
       ],
       "claim": "KANAWANA IS NAMED IN THE SEAMAN SCHOLARSHIP'S OWN TERMS AS ONE OF FOUR CONSTITUENCIES, WHICH QUALIFIES f_5409 AND THE ARTICLE PASSAGE WRITTEN FROM IT. Six editions of Concordia's Undergraduate Calendar -- 2000-01 through 2006-07 -- carry the same entry word for word: 'A. Ross Seaman Memorial Scholarship. Established in 1987 to honour the memory of A. Ross Seaman for his life-long dedication to the communities of Concordia University, Dawson College, Kamp Kanawana and the YMCA. EACH YEAR, STUDENTS FROM THESE FOUR INSTITUTIONS ARE RECOGNIZED for their leadership and scholarship. Eligibility: Students can apply or be nominated.' f_5409 read the twenty-seven Kanawana mentions in the fund's 1989-2006 honour roll as the camp being 'a standing feeder community' and as 'the circuit Seaman ran, still running'. THAT OVERSTATED IT. The award is by its own terms allocated across four named communities, so the camp's recurrence in the roster is partly STRUCTURAL and is not evidence that Kanawana spontaneously kept producing winners. THE FINDING SURVIVES IN A BETTER FORM: the fund's founders wrote the camp into the constitution of the award, alongside two colleges and the association, and kept it there for at least twenty years. That is a stronger statement about what those founders thought Kanawana was than the reading it replaces. The entry also gives the mechanism -- apply or be nominated, through the Department of Applied Human Sciences -- and uses the 'Memorial' form of the name that the 2007 booklet drops.",
       "sources": [
-        "src_concordia_undergraduate_calendars_2000_2007"
+        "src_concordia_undergraduate_calendars_1995_2007"
       ],
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.55",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5417",
+      "category": "traditions",
+      "date_ref": "1970-02-13",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal",
+        "West Island Branch",
+        "James H. Turner"
+      ],
+      "claim": "KANAWANA'S FAMILY SKI DAY WAS REPRINTED IN A NATIONAL YMCA BULLETIN A FORTNIGHT AFTER THE MONTREAL COMMUNIQUE, AND THE VALUE IS THE REACH RATHER THAN THE CONTENT. traditions/winter-programming.md already carries the passage word for word from the Montreal YMCA's bilingual communique of 29 January 1970. The bulletin of 13 February 1970 is a different document, headed 'for information / all staff / key lay persons', whose other items are National Council business -- the Annual Meeting of 21-24 May at the National Capital YMCA-YWCA in Ottawa, appointments per Les Vipond's memo of 3 February, National Council's Records Office, the National YMCA Supplies Office. TWO EDITORIAL DECISIONS ARE VISIBLE IN THE REPRINT. It adds '(Montreal)' after 'West Island Branch' -- a gloss the Montreal communique did not need, and the evidence that the readership is national. AND IT TOOK THE SKI ITEM WHILE DROPPING THE ITEM PRINTED IMMEDIATELY BEFORE IT IN JANUARY: 'TURNER TO KANAWANA: Jim Turner, associate executive of the amalgamated operations of West Island and Lachine-Dorval Branches, will be the on-site director and head of program at Kamp Kanawana this summer.' So the national office judged an oversubscribed family ski day at a Montreal camp worth circulating to YMCAs across Canada, and the appointment of that camp's director not worth circulating. Otherwise the text is identical, down to the comma splice before 'Free soup'.",
+      "sources": [
+        "src_ymca_bulletin_1970_02_13"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.56",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5418",
+      "category": "institutional",
+      "date_ref": "1995-2007",
+      "entities": [
+        "A. Ross Seaman",
+        "Camp Kanawana",
+        "Concordia University"
+      ],
+      "claim": "THE SEAMAN SCHOLARSHIP ENTRY RUNS IN CONCORDIA'S CALENDAR FROM AT LEAST 1995-96 TO 2006-07, AND ITS WORDING CHANGES ONCE IN A WAY WORTH KEEPING. Eleven editions carry it. The 1995-96 form: 'A. Ross Seaman Memorial SCHOLARSHIPS: The memorial fund was established in 1987 to honour the memory of A. Ross Seaman for his lifelong dedication to the communities of Concordia University, Dawson College, Kamp Kanawana, and the YMCA. EVERY year, students from these four institutions are recognized for their leadership and scholarship. Students can apply or be nominated. Application information is available from the DEPARTMENTS OF APPLIED SOCIAL SCIENCE AND LEISURE STUDIES at Concordia University.' By 2000-01 it is a single SCHOLARSHIP, 'EACH year', and the DEPARTMENT OF APPLIED HUMAN SCIENCES. THREE THINGS. The award was plural in the 1990s, so more than one was given a year. Its administration followed the department's own renaming, Applied Social Science and Leisure Studies becoming Applied Human Sciences. And those two 1990s departments are EXACTLY THE TWO SEAMAN HIMSELF TAUGHT IN -- part-time in Applied Social Science from its formation in 1963, and full-time in Leisure Studies from 1985 until his death, acting chair in 1986-87. The scholarship was administered, for at least its first decade, by the two units that had employed him.",
+      "sources": [
+        "src_concordia_undergraduate_calendars_1995_2007"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.56",
       "added_by": "ralph_loop"
     }
   ]

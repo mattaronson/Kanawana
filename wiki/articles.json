@@ -5355,7 +5355,7 @@
         "src_concordia_magazine_1988_01",
         "src_sgw_yearbook_1943",
         "src_concordia_seaman_award_history_2007",
-        "src_concordia_undergraduate_calendars_2000_2007"
+        "src_concordia_undergraduate_calendars_1995_2007"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -5364,7 +5364,7 @@
         "section-names"
       ],
       "file_id": null,
-      "word_count": 5547,
+      "word_count": 5676,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -7864,7 +7864,8 @@
         "src_ymf_1985_07_montreal_ymca_day_camp_report",
         "src_ymf_1987_10_montreal_ymca_day_camp_report",
         "src_ymf_1988_02_26_day_camp_recommendations",
-        "src_ymf_sgw_ymca_annual_report_2001_2002"
+        "src_ymf_sgw_ymca_annual_report_2001_2002",
+        "src_ymca_bulletin_1970_02_13"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -7874,7 +7875,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 3676,
+      "word_count": 3930,
       "tags": {
         "era": [
           "1970s",

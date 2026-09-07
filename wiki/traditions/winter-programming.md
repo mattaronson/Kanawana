@@ -1,7 +1,7 @@
 # Winter and Year-Round Programming
 
-*Status: E1-reviewed | Sources: 21*
-*Last Updated: 2026-09-06 (the site as the association's own training ground in the 1980s)*
+*Status: E1-reviewed | Sources: 22*
+*Last Updated: 2026-09-07 (the family ski day went national a fortnight later, and the camp's own director did not)*
 
 ## Overview
 
@@ -28,6 +28,10 @@ Between the 1940s ski camp and the ski tow of 1971-72 sits a programme this arti
 > Here's the package. **A network of cross-country trails. Firmly-packed hills for downhill runs and instructions. Skiing lessons. A well-equipped nursery, supervised by experienced baby sitters. Facilities for preparing lunch. Free soup.**^16
 
 The French column of the same bulletin says the same: "Ce programme fonctionne déjà à pleine capacité."
+
+**And the national office picked it up.** A fortnight later, on **13 February 1970**, the same item ran again in a bulletin headed "for information / all staff / key lay persons," whose other contents are National Council business — the Annual Meeting of 21–24 May at the new National Capital YMCA-YWCA in Ottawa, appointments made under a memo of 3 February, the National Council's Records Office, the National YMCA Supplies Office.^22 The text is identical down to the comma splice before "Free soup," with one addition: "West Island Branch **(Montreal)**." The Montreal communiqué needed no such gloss. That parenthesis is how you can tell the readership had become national.
+
+**Two things the national editor did, and the second is the more interesting.** Kanawana's family ski day was judged worth circulating to YMCAs across Canada — which is a measure of the programme this article could not otherwise take. And the item printed *immediately before* it in January was left out: "**TURNER TO KANAWANA**: Jim Turner, associate executive of the amalgamated operations of West Island and Lachine-Dorval Branches, will be the on-site director and head of program at Kamp Kanawana this summer."^22 The appointment of the camp's own director was local news; the soup was not. See [[people/james-h-turner|James H. Turner]].
 
 **A third document, and the programme has grown to weekends.** The annual report for the year ended 31 May 1971 says it twice, once in each language: "West Island Y **ski school involved 2,137 different persons**... **Family ski weekends at Kanawana at capacity**," and "Les week-end de ski familial à Kanawana fonctionnent à pleine vapeur."^18
 
@@ -179,6 +183,7 @@ David Leduc managed Camp Kanawana's summer and winter programs, including recrui
 19. YMCA of Montreal annual reports for the years ended **31 May 1972** and **31 May 1973** [src_cache_sgw_ymca_annual_report_1971_1972, src_cache_sgw_ymca_annual_report_1972_1973]. Read 2026-09-06 under p_441. See [f_5111].
 20. Montreal YMCA day camp reports of **July 1985** and **October 1987**, and the **Day Camp Recommendations of 26 February 1988** [src_ymf_1985_07_montreal_ymca_day_camp_report, src_ymf_1987_10_montreal_ymca_day_camp_report, src_ymf_1988_02_26_day_camp_recommendations]. Read for their Kanawana content 2026-09-06 under p_441; these are day camp documents and the camp appears once or twice in each. See [f_5117].
 21. Montreal YMCA annual report 2001-2002 [src_ymf_sgw_ymca_annual_report_2001_2002], "YMCA Kamp Kanawana - A Year of Firsts". Read 2026-09-06 under p_454.
+22. YMCA Bulletin, 13 February 1970, "for information / all staff / key lay persons" [src_ymca_bulletin_1970_02_13]. A national reprint of the 29 January Montreal item; transcribed at `sources/cache/ymca-national/2026-09-07-national-bulletin-1970-reprints-the-soup-item.txt`. Found by the accounted sweep of `rma-concordia-publications` under p_479. See [f_5417].
 
 ## Research Notes
 
