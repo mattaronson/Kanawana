@@ -1,8 +1,8 @@
 {
-  "version": "11.03",
-  "kb_version": "11.03",
+  "version": "11.04",
+  "kb_version": "11.04",
   "migrated_from": "3.3",
-  "fact_count": 5679,
+  "fact_count": 5680,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102435,6 +102435,27 @@
       "date_ref": "1995-2001",
       "conflicts_with": [],
       "added_version": "11.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5718",
+      "claim": "FOUR MORE YEARS OF THE SOCIAL AUDIT'S KANAWANA ROW, FROM THE FRENCH EDITIONS, AND ONE OF THEM IS PRINTED TWICE. attendance-series.md's source note 24 records that the association's PROGRAMS / PERSONS table 'appears in the 2002-2003, 2003-2004, 2004-2005 and 2007 reports but its number column is separated from its labels by the OCR in those years, so only 2008 and 2009 are legible here.' THE FRENCH EDITIONS ARE NOT DAMAGED IN THE SAME PLACES, which is the whole premise of reading them, and they give: 2002-03, 'Camp residentiel - YMCA Kamp Kanawana 2 350'; 2005-06 and 2007, 'Camp residentiel - Camp YMCA Kanawana 1 020' in each. THE 2002-03 COLUMN RECONCILES EXACTLY. Its thirty-two data rows sum to 129,038, which is the figure printed as its TOTAL and repeated in the sentence above the table ('le YMCA de Montreal a rejoint 129 038 personnes'). That validates every number in it, including the 2,350, and it also settles a thing worth settling: the row above Kanawana's reads 'Camps de jour 2 359', within nine of it, and the reconciliation shows those really are two similar numbers rather than one number scanned twice. A CONTROL CONFIRMS THE METHOD: the French 2008 and 2009 editions give 1 091 and 1 281, which are exactly the English figures this wiki already carries for those years. THE REPEATED 1,020 IS THE FINDING TO BE CAREFUL WITH. It is printed identically in two consecutive volumes while every other row moves substantially -- day camps 3,404 then 1,842, swimming 8,890 then 5,361, the language school 8,742 then 4,274 -- and the only other row unchanged between them is Eco-quartier at a round 3,000 in both. A figure that does not move in a table where everything else does is more likely carried forward than measured, and 1,020 is recorded here as ONE printing appearing twice rather than as two data points. WHAT THE ROW IS, WHICH HAS NOT CHANGED: a programme participation count on the same footing as 'Cours de natation', not a season registration. The 2002-2003 volume's own prose gives 770 Kampers for that summer while its table gives 2,350, which is the same split this wiki already documents for 2001, where the prose gave 'more than 220' and the table 1,332.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2002_2003_fr",
+        "src_ymf_sgw_ymca_annual_report_2005_2006_fr",
+        "src_ymf_sgw_ymca_annual_report_2007_fr",
+        "src_ymf_sgw_ymca_annual_report_2008_fr",
+        "src_ymf_sgw_ymca_annual_report_2009_fr"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "2002-2009",
+      "conflicts_with": [],
+      "added_version": "11.04",
       "added_by": "ralph_loop"
     }
   ]

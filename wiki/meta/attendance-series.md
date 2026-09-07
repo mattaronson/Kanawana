@@ -1,7 +1,7 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 48*
-*Last Updated: 2026-09-07 (the ten year summary, read across four printings: 1960-78 filled)*
+*Status: draft | Sources: 49*
+*Last Updated: 2026-09-07 (four more Social Audit years, out of the French editions)*
 
 ## Overview
 
@@ -128,6 +128,8 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | **2001** | **"more than 220"** *and* **1,332** | — | **One report, two numbers, and they cannot both be season registrations.** The 2001-2002 annual report's "A Year of Firsts" says "during the summer, the camp welcomed **more than 220 campers, up 19% from last year. Registration has never been this high!**" Its own Social Audit table gives "**YMCA Kamp Kanawana 1,332**". The 1,332 is a programme persons count like the 2008 and 2009 rows below. **The 220 is the problem**: a camp that took 473 in 1955 and 770 the following summer cannot have set a registration record at 220, so either the figure is scoped to something the sentence does not name, or a digit is lost in the scan. Both are recorded; neither is preferred, and no trend should be drawn through the 220^25 |
 | **2002** | **770** | — | "On site at Kamp Kanawana, **770 Kampers** enjoyed a whole range of outdoor activities", and "registration has increased **40% over the past three years**", in the annual report for the **year ended 31 May 2003** — so this is the summer of 2002. **Corrected 2026-09-06: this row previously read 2005 and carried no citation at all**, and no fact in the KB supported it; the figure matches this report exactly and its year does not.^23 |
 | *(a round figure, not a season count)* | *"800 children and youth"* | — | The association's own 2004-2005 annual report describes the camp as host to 800 "every year", which is a descriptor rather than a registration; it sits beside the 770 above rather than replacing it^22 |
+| **2002–03** | **2,350** | — | *Persons, not campers*, from the same Social Audit table as the 2008 and 2009 rows below, **recovered from the French edition** where the English scan separates the numbers from their labels.^49 The column reconciles exactly: its thirty-two data rows sum to 129,038, the figure printed as the total and repeated in the sentence above the table. **The same volume gives 770 Kampers in prose**, which is the split this series already records for 2001 |
+| **2005–06** *and* **2007** | **1,020**, printed identically in both | — | *Persons, not campers*, French editions again.^49 **Recorded as one printing appearing twice rather than two data points**: every other row moves substantially between the two volumes — day camps 3,404 then 1,842, swimming 8,890 then 5,361 — and the only other unchanged row is a round 3,000. A figure that does not move where everything else does is more likely carried forward than measured |
 | **2008** | **1,091** | — | *Persons, not campers.* The association's "Social Audit" table, headed PROGRAMS / PERSONS, gives "Residential camp - YMCA Kanawana **1,091**" for the year ended 31 December 2008 — a programme participation count on the same footing as "Swimming lessons 5,449", so it is not a season registration and should not be compared with one^24 |
 | **2009** | **1,281** | — | *Same table, same caveat*: "Residential camp - Y Kanawana **1,281**", year ended 31 December 2009^24 |
 | **2020–21** | *(no season)* | — | Two summers lost to COVID-19 |
@@ -738,6 +740,8 @@ from inside the camp office, in a year the camp was moving to coeducation.
 46. The **1966** printing of the same rolling appendix, in Kamp Kanawana's own annual report for 1966 [src_ia_kanawana_annual_report_1966], `sources/cache/ymca-montreal-fonds/1966-kamp-kanawana-annual-report.txt`. Read 2026-09-07 under `p_499`. Its scan is broken to one value per line, which for the earliest columns PRESERVED the row labels the 1965 printing lost. The 1956 reach-back and the two new camper-week totals are at [f_5665]; the religious series at [f_5666]; the 1958 Rangers figure at [f_5667]; the 1958 camper-count problem at [f_5668].
 47. The **1969** impression of the rolling appendix [src_ia_kanawana_report_1969] compared against the 1970, 1975, 1976, 1978 and 1979 impressions. Its religion block lists SEVEN categories including "No religion" where the 1970 block shows six, and the block is absent from every impression from 1975 on. Checked 2026-09-07 under `p_499` by searching all four later files for each category name. See [f_5669].
 48. Kamp Kanawana's own annual reports for **1969** [src_ia_kanawana_report_1969] and **1970** [src_ia_kanawana_report_1970], their capacity passages: the 1969 "Registration, Capacity, Facilities and Land Utilization" section and the 1970 REGISTRATION section. Read 2026-09-07 under `p_491`. See [f_5687], and the note added to `c_067`.
+
+49. The **French editions** of the association's annual reports for **2002-2003**, **2005-2006**, **2007**, **2008** and **2009** [src_ymf_sgw_ymca_annual_report_2002_2003_fr, src_ymf_sgw_ymca_annual_report_2005_2006_fr, src_ymf_sgw_ymca_annual_report_2007_fr, src_ymf_sgw_ymca_annual_report_2008_fr, src_ymf_sgw_ymca_annual_report_2009_fr], their PROGRAMMES / PERSONNES tables. Read 2026-09-07 under `p_259`, on the premise that the OCR damage falls differently — which is what note 24 above says defeated the English scans for these years. **Controlled**: the French 2008 and 2009 tables give 1 091 and 1 281, exactly the English figures at note 24. See [f_5718].
 
 ## Research Notes
 
