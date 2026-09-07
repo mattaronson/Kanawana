@@ -1,6 +1,6 @@
 # The CIT/LIT Program
 
-*Status: draft | Sources: 15*
+*Status: draft | Sources: 16*
 *Last Updated: 2026-09-07 (how leadership places are applied for, and the LIT as a hiring credential)*
 
 ## Overview
@@ -12,6 +12,30 @@ Camp Kanawana's Counsellor-in-Training (CIT) and Leader-in-Training (LIT) progra
 **The Counsellor-in-Training programme was running at Kanawana by 1941 at the latest.** This article previously dated its introduction to the 1960s; that was wrong by at least twenty years, and the correction comes from the camp's own radio broadcast. On CFCF on 26 June 1941, Chief Howie Langille set out the whole leadership ladder on air: fifty-eight counsellors took that year's training course, the Personnel Committee under J. W. Perks of the Protestant School Board selected forty-five, others were taken as Assistant Counsellors, and below them "our youngest group to receive leadership training are known as **Counsellors in Training**, and are selected from our most experienced campers. Of course it is the hope and ambition of each of these to become a counsellor after several years of experience and training."^7 A leadership pipeline from experienced camper to counsellor was therefore formal, named and publicly described before the Second World War.^1 A. Ross Seaman's directorship (1959–1967) — which also oversaw the 1959 section renaming and the La Vérendrye canoe-tripping expansion — provides the most likely institutional context for the CIT program's creation, though no source directly credits Seaman with introducing it specifically. The earliest documented CIT cohort is captured on a 1960 dining-hall plaque naming Ron McCallum simply as "Director" — most likely of the CIT/leadership program specifically rather than of the camp, since A. Ross Seaman is documented as overall director that year, though this remains conflict **c_013**, not settled.^2 Grand Portage served as the CIT director's cabin through the 1980s and 1990s.^3
 
 From 1975 onward — the earliest post-1960 CIT record, a plaque naming Lynne Robinson as "Directress" — and regularly through the 1980s, 1990s and into the early 2000s, the program appears on surviving dining-hall and canoe-board plaques, naming successive cohorts and their program directors year over year.^2 This — a continuity record that, taken together with the 1960 plaque, spans at least three and a half decades before the program's most recent documented form. Individual CITs and program directors named on these plaques are already catalogued collectively in [[people/directors-index|Directors and Staff of Camp Kanawana]]'s Section and Program Directors table, consistent with this wiki's policy of treating undocumented recent staff as collective reference-table entries rather than standalone biographical subjects.
+
+## 1969, inside the gap the plaques cannot cover
+
+The continuity record above runs from a 1960 plaque to a 1975 one. The 1969 annual report speaks into
+that fifteen-year gap — and **everything it says about the CIT programme is a recommendation, not a
+description**, which is how it is recorded here:^16
+
+> "a) That we carefully **define the objectives** of the program and the skills we hope to teach and
+> design this program around them. b) That **two separate programs be set up — one for the male C.I.T.s
+> and one for the female — dovetailing where there is an area of mutual interest**. c) That we **limit
+> the C.I.T. program to 8 of each sex**. d) That we review the role of the **Junior Counsellor** with an
+> eye to involving a larger number of this year's C.I.T.s in the camp next year. e) That we **clarify the
+> role** of the C.I.T. in camp."
+
+**What the recommendations evidence is more than what they say.** A CIT programme was running in 1969 —
+recommendation (d) refers to "this year's C.I.T.s". It was already coeducational in the second
+coeducational season. And its objectives, its size and the CIT's role in camp were all, in its own
+director's account, unsettled.
+
+**What the numbers turned out to be**, from the camp's later acknowledgement lists: **seventeen**
+Counsellors-in-Training in 1975, **fifteen** in 1976, **thirteen** in 1977.^16 The 1969 proposal of eight
+of each sex is a cap of sixteen, close to the scale the programme actually ran at six years later. That
+is an observation and not a causal claim: nothing connects the proposal to the outcome, and no report
+says whether it was adopted. [f_5694]
 
 ## The idea has a date, and it is 1931
 
@@ -201,6 +225,7 @@ experience, which is the clearest statement this article has of what the program
 13. National Boys' Work Committee report, *The News Bulletin* Vol. 7 No. 1 (January 1931), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_07_01]. Internet Archive item `the-news-bulletin-vol-07-no-01`, in the `ymca-montreal-fonds` collection. Found 2026-09-07 by the enumeration at [f_5243]. See [f_5250].
 14. Derek Walsh, *Ka-News '78*, staff bulletin of 28 April 1978 [src_ymf_ka_news_1978_04_28]. Kanawana's own pre-season mailing to staff, cached at `sources/cache/ymca-montreal-fonds/ka-news-1978-04-28.txt`.
 15. Camp YMCA Kanawana, "Applying for a Leadership Program" and "Summer Camp Jobs" [src_ymcaq_kanawana_jobs_intl_leadership_2026], under `ymcaquebec.org/en/summer-camp-kanawana/`. Read 2026-09-07; cached with two sibling pages at `sources/cache/web-pages/ymcaquebec-kanawana-jobs-international-leadership-2026.txt`, one header line per page giving its own URL. See [f_5616].
+16. Kamp Kanawana's own annual report for **1969** [src_ia_kanawana_report_1969], its COUNSELLOR-IN-TRAINING recommendations; with CIT cohort sizes for **1975**, **1976** and **1977** from the acknowledgement sections of those years' directors' reports [src_ia_kanawana_report_1975, src_ia_kanawana_directors_report_1976, src_ia_kanawana_report_1977]. All cached in `sources/cache/ymca-montreal-fonds/`; read 2026-09-07 under `p_491`. See [f_5694] and [f_5659].
 
 ## Research Notes
 

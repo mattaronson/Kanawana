@@ -1,8 +1,8 @@
 {
-  "version": "10.89",
-  "kb_version": "10.89",
+  "version": "10.90",
+  "kb_version": "10.90",
   "migrated_from": "3.3",
-  "fact_count": 5655,
+  "fact_count": 5656,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101948,6 +101948,26 @@
       "date_ref": "2026-09-07",
       "conflicts_with": [],
       "added_version": "10.87",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5694",
+      "claim": "THE CIT PROGRAMME IN 1969, IN A DOCUMENTARY GAP THE PLAQUE SERIES CANNOT COVER -- AND IT IS RECOMMENDATIONS, NOT DESCRIPTION. The CIT article's continuity record runs from a 1960 plaque to a 1975 one, which it calls 'the earliest post-1960 CIT record'; that claim is about the PLAQUE series and is not contradicted here. The 1969 annual report speaks into the fifteen-year gap between them. ITS COUNSELLOR-IN-TRAINING SECTION IS ENTIRELY RECOMMENDATIONS, and is recorded as such rather than as a description of how the programme ran: 'a) That we carefully DEFINE THE OBJECTIVES of the program and the skills we hope to teach and design this program around them. b) That TWO SEPARATE PROGRAMS BE SET UP - one for the male C.I.T.s and one for the female - DOVETAILING WHERE THERE IS AN AREA OF MUTUAL INTEREST. c) That we LIMIT THE C.I.T. PROGRAM TO 8 OF EACH SEX. d) That we review the role of the JUNIOR COUNSELLOR with an eye to involving a larger number of this year\\'s C.I.T.s in the camp next year. e) That we CLARIFY THE ROLE of the C.I.T. in camp.' WHAT THE RECOMMENDATIONS THEMSELVES EVIDENCE, which is more than their content: a CIT programme was running in 1969 (recommendation d refers to 'this year\\'s C.I.T.s'), it was already coeducational in the second coeducational season, and its objectives, size and the CIT's role in camp were all considered unsettled by its own director. WHAT ACTUALLY HAPPENED TO THE NUMBERS, from the acknowledgement lists recorded at f_5659: SEVENTEEN Counsellors-in-Training in 1975, FIFTEEN in 1976, THIRTEEN in 1977. The 1969 proposal of eight of each sex is a cap of sixteen, which is close to the scale the programme actually ran at six years later -- an observation only, since nothing connects the proposal to the outcome and the reports do not say whether it was adopted.",
+      "sources": [
+        "src_ia_kanawana_report_1969",
+        "src_ia_kanawana_report_1975",
+        "src_ia_kanawana_directors_report_1976",
+        "src_ia_kanawana_report_1977"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Kamp Kanawana",
+        "CIT programme"
+      ],
+      "date_ref": "1969-1977",
+      "conflicts_with": [],
+      "added_version": "10.90",
       "added_by": "ralph_loop"
     }
   ]

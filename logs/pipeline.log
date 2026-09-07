@@ -7882,3 +7882,23 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   p_492's re-scoping note is retracted in place. Do not rebuild a string-matching proxy for this; it needs semantic comparison or a
   hand-audit of a random sample.
   KB v10.88 -> v10.89.
+2026-09-07T20:43:57Z  p_491  ATOMIC UNIT: the CIT programme in 1969, inside a gap the plaque series cannot cover.
+  BACK TO THE METHOD THAT WORKS after three failed instruments: read a source whole, grep the destination, write what is new. No proxies.
+  cit-lit-program.md's continuity record runs from a 1960 plaque to a 1975 one, calling the latter "the earliest post-1960 CIT record".
+  THAT CLAIM IS ABOUT THE PLAQUE SERIES AND IS NOT CONTRADICTED -- checked before writing, and the article's wording is precise. The 1969
+  annual report speaks INTO the fifteen-year gap between those plaques.
+  AND IT IS ENTIRELY RECOMMENDATIONS, LABELLED AS SUCH -- the lesson from the org-chart correction applied prospectively for once rather
+  than after the fact. "That we carefully DEFINE THE OBJECTIVES of the program... That TWO SEPARATE PROGRAMS BE SET UP - one for the male
+  C.I.T.s and one for the female - DOVETAILING WHERE THERE IS AN AREA OF MUTUAL INTEREST... That we LIMIT THE C.I.T. PROGRAM TO 8 OF EACH
+  SEX... That we review the role of the JUNIOR COUNSELLOR... That we CLARIFY THE ROLE of the C.I.T. in camp."
+  WHAT THE RECOMMENDATIONS EVIDENCE IS MORE THAN THEIR CONTENT: a CIT programme WAS running in 1969 (rec. d says "this year's C.I.T.s"); it
+  was already coeducational in the second coeducational season; and its objectives, size and the CIT's role in camp were all unsettled in
+  its own director's account.
+  WHAT THE NUMBERS TURNED OUT TO BE, from f_5659's acknowledgement lists: 17 CITs in 1975, 15 in 1976, 13 in 1977. The 1969 proposed cap of
+  8 of each sex is 16, close to the actual scale six years on -- STATED AS AN OBSERVATION, NOT A CAUSAL CLAIM, since nothing connects the
+  proposal to the outcome and no report says it was adopted.
+  MECHANICAL: my first attempt assumed labelled markers and the marker regex found none, so the article write never happened -- but the
+  SEPARATE articles.json update DID run, registering four sources the article did not yet cite, and verify_harness failed on exactly that.
+  The failure was mine and the harness caught it. Lesson: when a unit writes both prose and articles.json, a failure between them leaves the
+  pair inconsistent. Write the prose first and confirm it landed.
+  KB v10.89 -> v10.90, 5,655 -> 5,656.
