@@ -31137,7 +31137,43 @@
       "notes": "A NATIONAL REPRINT OF THE KANAWANA FAMILY SKI ITEM, AND THE VALUE IS THE REACH RATHER THAN THE CONTENT. The passage is already in traditions/winter-programming.md word for word from the Montreal YMCA's bilingual communique of 29 JANUARY 1970 (src_ymf_p0145_news_release_1970_01_29); the destination was checked before writing. This is a different document a fortnight later, headed 'for information / all staff / key lay persons / BULLETIN', whose other items are National Council business -- the Annual Meeting of 21-24 May at the National Capital YMCA-YWCA in Ottawa, appointments per Les Vipond's 3 February memo, National Council's Records Office, the National YMCA Supplies Office. TWO EDITORIAL DECISIONS ARE VISIBLE. It adds '(Montreal)' after 'West Island Branch', which the Montreal communique did not need and which is the evidence of a national readership. And it takes the ski item while dropping the item printed immediately before it in January -- 'TURNER TO KANAWANA', naming Jim Turner as on-site director and head of programme for the coming summer. The national office judged an oversubscribed family ski day at a Montreal camp to be of national interest and the appointment of that camp's director not to be. 'Kanawana' occurs once; Otoreke, Perrot and Voyageurs 0. See f_5417.",
       "read_state": "extracted",
       "read_state_basis": "direct: full djvu text downloaded 2026-09-07, the whole 4,164-character bulletin read, the Kanawana item transcribed complete and diffed against the January communique's cache."
+    },
+    {
+      "source_id": "src_loyola_happening_1974_03_11",
+      "type": "periodical",
+      "title": "\"Want to help\" (Loyola Volunteer Bureau and Help-Bank), The Happening (Loyola College), 11 March 1974",
+      "date": "1974-03-11",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/happening-1974-03-11",
+      "cache_path": "sources/cache/concordia-publications/2026-09-07-weredale-house-in-loyola-and-concordia-newsletters.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.58",
+      "reliability": "primary",
+      "notes": "WEREDALE HOUSE TOOK UNIVERSITY STUDENT VOLUNTEERS AS TUTORS BY MARCH 1974. Loyola's Volunteer Bureau lists among its on-going projects 'TUTORING BOYS FROM THE WEREDALE HOME', alongside the John Birk Association, the Benedict Labre House, the Lethbridge Rehabilitation Centre, the Montreal Association for the Blind and the Griffith McConnel Home; the bureau's new 'Help-Bank' is described by its co-ordinator Lorraine Street. NOTE THE INSTITUTION: The Happening was LOYOLA COLLEGE's paper and this is Loyola's bureau, not Sir George Williams -- the two merged into Concordia in 1974, the year of this issue, so this sits on the other half of the merger from everything else this project holds about the university connection. 'Kanawana' occurs ZERO times; the item matched on the Weredale keyword. Thin, and recorded as thin. See f_5420.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded 2026-09-07, the volunteer-bureau item read whole and transcribed; Kanawana 0, Weredale 1, Otoreke 0."
+    },
+    {
+      "source_id": "src_concordia_fyi_1976_10_07",
+      "type": "periodical",
+      "title": "Chancellor's open letter on the Centraide appeal, FYI (Concordia University), Vol. 3 No. 5, 7 October 1976",
+      "date": "1976-10-07",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/fyi-1976-october-7",
+      "cache_path": "sources/cache/concordia-publications/2026-09-07-weredale-house-in-loyola-and-concordia-newsletters.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.58",
+      "reliability": "primary",
+      "notes": "WEREDALE HOUSE NAMED AS A CENTRAIDE AGENCY IN OCTOBER 1976, ONE YEAR BEFORE THE MERGER INTO YOUTH HORIZONS. Concordia's Chancellor, soliciting faculty and staff: Centraide 'has replaced such appeals as those formerly conducted separately by the Combined Jewish Appeal, the Federation of Catholic Charities, and Red Feather' and 'now raises funds for some 100 different social agencies in the Montreal region, providing assistance (to name only a few) to such groups as Red Cross, Montreal Diet Dispensary, WEREDALE HOUSE, University Settlement, and Y.W.C.A.' Chosen as one of five examples to stand for a hundred agencies, so a recognisable Montreal institution to a general readership. 'Kanawana' occurs ZERO times. See f_5420.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded 2026-09-07 and the letter read whole; Kanawana 0, Weredale 1, Otoreke 0."
     }
   ],
-  "source_count": 1732
+  "source_count": 1734
 }

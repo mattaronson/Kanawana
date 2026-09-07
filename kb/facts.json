@@ -1,8 +1,8 @@
 {
-  "version": "9.57",
-  "kb_version": "9.57",
+  "version": "9.58",
+  "kb_version": "9.58",
   "migrated_from": "3.3",
-  "fact_count": 5381,
+  "fact_count": 5383,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -97058,6 +97058,40 @@
       "conflicts_with": [],
       "added_version": "9.57",
       "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5420",
+      "category": "institutional",
+      "date_ref": "1974-1976",
+      "entities": [
+        "Weredale House",
+        "Loyola College",
+        "Concordia University"
+      ],
+      "claim": "TWO DATED PLACEMENTS OF WEREDALE HOUSE IN MONTREAL'S INSTITUTIONAL LANDSCAPE, FROM UNIVERSITY NEWSLETTERS, AND NEITHER ANSWERS THE QUESTION THE WEREDALE ARTICLE ACTUALLY HAS. (1) The Happening, LOYOLA COLLEGE's paper, 11 March 1974, lists among the on-going projects of Loyola's Volunteer Bureau 'TUTORING BOYS FROM THE WEREDALE HOME' -- alongside the John Birk Association, the Benedict Labre House, the Lethbridge Rehabilitation Centre, the Montreal Association for the Blind and the Griffith McConnel Home, which shows what kind of agency it was grouped with. (2) FYI, Concordia, 7 October 1976: the Chancellor's Centraide letter names 'Weredale House' as one of five examples standing for 'some 100 different social agencies in the Montreal region', beside the Red Cross, the Montreal Diet Dispensary, University Settlement and the Y.W.C.A. -- so a recognisable institution to a general readership ONE YEAR BEFORE the 1977 merger into Youth Horizons. NOTE WHICH INSTITUTION THE 1974 ITEM IS: LOYOLA's bureau, not Sir George Williams. The two merged into Concordia in 1974, the year of the issue, so this sits on the other half of the merger from everything else this project holds about the university connection, and filing it under the SGW-YMCA story would be wrong. NEITHER TOUCHES connections/related-camps/camp-weredale.md's open question 4, which asks about connections between Weredale House and the MONTREAL YMCA beyond the 1977-1980 two-site planning documents. These are university connections on a different axis. 'Kanawana' occurs ZERO times in either item; both matched on the Weredale keyword.",
+      "sources": [
+        "src_loyola_happening_1974_03_11",
+        "src_concordia_fyi_1976_10_07"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.58",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5421",
+      "category": "meta",
+      "date_ref": "1975-01-23",
+      "entities": [
+        "research method",
+        "Weredale House"
+      ],
+      "claim": "A FALSE POSITIVE RECORDED SO IT IS NOT CHASED TWICE. Concordia's FYI of 23 January 1975 matches the sweep's 'Weredale' keyword on 'St. Stephen's Church Hall, 1B WEREDALE RD.', in a listing for the Arcadians Musical Theatre Society's production of The Boy Friend. Weredale Road in Westmount is the street the institution was named for -- the Boys' Home of Montreal built on Weredale Park in 1930 -- but this is an address and nothing in the item concerns Weredale House or its camp. Written down because an unrecorded false positive costs the same half hour every time the corpus is swept, and because a later pass finding the string and no note would have no way to tell that it had already been read.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.58",
+      "added_by": "ralph_loop"
     }
   ]
 }
