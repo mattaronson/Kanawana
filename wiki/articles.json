@@ -2718,10 +2718,11 @@
         "cca-national-office",
         "cca-statistics",
         "cca-director-certification",
-        "french-language-camping-national"
+        "french-language-camping-national",
+        "movement-archive-turn"
       ],
       "file_id": null,
-      "word_count": 19635,
+      "word_count": 17889,
       "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -2780,10 +2781,11 @@
         "a-ross-seaman",
         "cca-statistics",
         "cca-director-certification",
-        "french-language-camping-national"
+        "french-language-camping-national",
+        "movement-archive-turn"
       ],
       "file_id": null,
-      "word_count": 3642,
+      "word_count": 3662,
       "open_questions": 4
     },
     {
@@ -9415,10 +9417,11 @@
         "bruce-netherwood",
         "centennial-1967",
         "centennial-1994",
-        "timeline-overview"
+        "timeline-overview",
+        "movement-archive-turn"
       ],
       "file_id": null,
-      "word_count": 4159,
+      "word_count": 4192,
       "notes": "2026-07-11: Workstream C4 spawn (3 of 4). Connective-narrative synthesis, no new research conducted. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit. | 2026-08-14 p_225 research: deep web research resolved three long-standing questions against PRIMARY sources (YMCA of Montreal news release 1970 + annual reports 1977-79 on Internet Archive; Camp Pascobac's own history page; broadcasting-history.ca).",
       "tags": {
         "era": [
@@ -11559,7 +11562,8 @@
         "taylor-statten",
         "founding-1894",
         "quebec-camping-association",
-        "french-language-camping-national"
+        "french-language-camping-national",
+        "movement-archive-turn"
       ],
       "file_id": null,
       "word_count": 1873,
@@ -11598,7 +11602,8 @@
         "cca-national-office",
         "cca-statistics",
         "cca-director-certification",
-        "french-language-camping-national"
+        "french-language-camping-national",
+        "movement-archive-turn"
       ],
       "file_id": null,
       "word_count": 9524,
@@ -11664,7 +11669,37 @@
       "file_id": null,
       "word_count": 2949,
       "open_questions": 4
+    },
+    {
+      "article_id": "movement-archive-turn",
+      "title": "The Movement's Archive Turn, 1985-1987",
+      "wiki_folder": "connections/institutional-lineage",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07",
+          "by": "auto",
+          "task": "WRITE",
+          "note": "Twelfth cut under p_452, and a merge as well as a cut: it joins the history-making paragraphs from 'The magazine's last three years, 1985-1987' to the whole of the separate archives section, which were one subject filed in two places. Thirteen paragraphs, 1,493 words. Its first open question is the sharpest lead in the article: twice in two years every member camp in Canada was asked in writing to produce its own history, and Kanawana was a member camp both years."
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [],
+      "sources_cited": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "cross_links": [
+        "canadian-camping-movement",
+        "cca-national-office",
+        "association-founding-dates",
+        "quebec-camping-association",
+        "between-centennials"
+      ],
+      "file_id": null,
+      "word_count": 2947,
+      "open_questions": 4
     }
   ],
-  "article_count": 116
+  "article_count": 117
 }

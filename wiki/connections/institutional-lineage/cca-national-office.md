@@ -140,6 +140,7 @@ Janet Adamson counts the association at "**nine provincial associations and six 
 
 ## Related Articles
 
+- [[connections/institutional-lineage/movement-archive-turn|The Movement's Archive Turn, 1985-1987]] — what the association did with its own past while the money ran out
 - [[connections/institutional-lineage/cca-director-certification|Certifying the Camp Director]] — what the association did with its professional-standards question in the same years
 - [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]] — the parent article
 - [[connections/institutional-lineage/quebec-camping-association|The Quebec Camping Association / Association des Camps du Québec]] — the provincial body, whose seat on the national executive this reorganisation created

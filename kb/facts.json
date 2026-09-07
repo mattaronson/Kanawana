@@ -1,8 +1,8 @@
 {
-  "version": "8.73",
-  "kb_version": "8.73",
+  "version": "8.74",
+  "kb_version": "8.74",
   "migrated_from": "3.3",
-  "fact_count": 5198,
+  "fact_count": 5199,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -93727,6 +93727,25 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "8.73",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5237",
+      "category": "method",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "Canadian Camping Association",
+        "Kamp Kanawana",
+        "Mary Northway",
+        "Association des Camps du Québec"
+      ],
+      "claim": "TWELFTH CUT UNDER p_452, AND A MERGE AS WELL AS A CUT. connections/institutional-lineage/movement-archive-turn.md, 'The Movement's Archive Turn, 1985-1987', 2,947 words, draft. FOURTEEN PARAGRAPHS, about 1,750 words, joining the history-making material stranded in 'The magazine's last three years, 1985-1987' to the whole of the article's separate archives section -- ONE SUBJECT THAT HAD BEEN FILED IN TWO PLACES, which is the fifth mis-filing of this kind found in this article. WHAT IT HOLDS: the International Youth Year kit of camp-history activities mailed to every member camp in May 1985 with Bob Stewart's 'Tracing Your Roots' genealogy primer; the 'Camping... A Retrospective' quarterly reprints begun in the summer of 1985; 'An Adventure into the Past', the fiftieth-anniversary invitation of 1986 for every camp in Canada to stage its own history; Bruno Morawetz's archives reports and the February 1987 letter instructing the provincial associations to record oral history; the ACQ's own summer of 1986, when an Employment and Immigration Canada team of three reclassified all its archives and camp dossiers, which is the arrangement anyone asking the ACQ about Kanawana meets today; Mary Northway's death on 26 February 1987 and her part in the archives now at Trent; and the magazine's plainest statement of practice, 'today's snapshots, camp brochures, crests, cards and programs are tomorrow's priceless archives. Every camp should be actively archiving.' THE LEAD THAT COMES OUT OF IT IS THE SHARPEST IN THE ARTICLE AND IS NOW ITS FIRST OPEN QUESTION: TWICE IN TWO YEARS, IN MAY 1985 AND FOR THE SUMMER OF 1986, EVERY MEMBER CAMP IN CANADA WAS ASKED IN WRITING TO PRODUCE AN ACCOUNT OF ITS OWN HISTORY. Kanawana was a member camp both years. If it answered either call the document exists, and this project has never looked for it -- in the decade between-centennials.md is thinnest on. THREE BACK-REFERENCES BROKE ON THE MOVE and all three were caught by grepping the child for pointing phrases: 'recorded above' twice and 'from this issue' once. Two were fixed by moving the paragraph they pointed at (the ACQ reclassification) and one by naming and linking its target (the Neathern Trust, which stays in the parent). PARENT 19,635 -> 17,889 words, from 36,649 when p_452 began; 'Kanawana's Place in the Movement' 9,804 -> 8,182.",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "8.74",
       "added_by": "manual"
     }
   ]

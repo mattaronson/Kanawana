@@ -118,6 +118,7 @@ The 1980s are, after the 1947–1958 postwar gap, the thinnest-documented decade
 
 ## Related Articles
 
+- [[connections/institutional-lineage/movement-archive-turn|The Movement's Archive Turn, 1985-1987]] — twice in two years every member camp in Canada was asked in writing to produce its own history, and Kanawana was a member camp both years
 - [[history/coeducation-gender|Coeducation and Gender at Kanawana]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[people/notable-alumni/stuart-mclean|Stuart McLean]]
