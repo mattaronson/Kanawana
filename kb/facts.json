@@ -1,8 +1,8 @@
 {
-  "version": "9.93",
-  "kb_version": "9.93",
+  "version": "9.94",
+  "kb_version": "9.94",
   "migrated_from": "3.3",
-  "fact_count": 5474,
+  "fact_count": 5477,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -98716,6 +98716,57 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.93",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5513",
+      "category": "documents",
+      "date_ref": "1936-10-17",
+      "entities": [
+        "Camp Kanawana",
+        "The Green Triangle"
+      ],
+      "claim": "THE GREEN TRIANGLE HAD AN OFF-SEASON ALUMNI EDITION, AND KANAWANA HELD AN ANNUAL REUNION FROM ABOUT 1909. Two of the thirty-eight digitized issues fall outside the camp season, and the first explains the type: its masthead reads 'VOLUME 5, RE-UNION NUMBER' and it opens 'This issue of the Green Triangle marks THE TWENTY-SEVENTH ANNUAL RE-UNION OF OLD KANAWANIANS. Each year our get-togethers include more fellows and more of their parents and friends.' TWO THINGS NEITHER OF WHICH THIS PROJECT HELD. The paper had an OFF-SEASON EDITION PRINTED FOR AN ANNUAL ALUMNI REUNION. And KANAWANA HELD AN ANNUAL REUNION, in its twenty-seventh year in 1936, which counts the first to 1909 OR 1910 -- the site-purchase convention. A numbered series of annual events is harder to round off casually than a phrase like 'for 93 years', which makes this the firmest instance of that counting the project has. The issue's 'Social Notes' follow Kanawana leaders into the winter: which had registered at McGill that autumn (Currie Carmichael, GEORGE FLOWER -- the paper's own editor the year before -- Doug Reilly and Lloyd Mussels in first year, Neri Guadagni and Wesley Woo in third), which had broken bones playing football, and which were running the Westmount branch's membership campaign.",
+      "sources": [
+        "src_ymf_the_green_triangle_1936_10_17"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.94",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5514",
+      "category": "attendance",
+      "date_ref": "1936",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "claim": "TWO HUNDRED AND FORTY CAMPERS IN 1936, AND A ROUND FIGURE FOR THE BEGINNING. The Re-union Number of 17 October 1936, addressing alumni: 'Things have changed at Camp since those early days. WHERE FIFTY BOYS ONCE CAMPED TWO HUNDRED AND FORTY NOW LIVE. We have THREE SECTIONS INSTEAD OF ONE. Some of us now sleep in CABINS WHERE OUR DADS SLEPT IN TENTS ON THE BARE GROUND.' READ AS WHAT IT IS: 240 is a round number in a speech to alumni, not a registration count, and it describes the summer of 1936. FIFTY IS ROUNDER STILL AND UNDATED -- 'those early days' could mean the 1894 founding, the 1909-10 move, or the speaker's own boyhood -- so it is recorded as a rhetorical baseline and not as a datum. THE SAME PASSAGE INDEPENDENTLY ATTESTS MULTI-GENERATIONAL ATTENDANCE IN 1936: 'among the crowd here tonight there are a number of fellows WHOSE FATHERS CAMPED AT KANAWANA AS BOYS many years ago' -- five years before the 1941 CFCF broadcast from which wiki/history/wartime-kanawana.md dates that observation. And the cabins-versus-tents line dates the transition in the campers' own memory rather than from a building record.",
+      "sources": [
+        "src_ymf_the_green_triangle_1936_10_17"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.94",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5515",
+      "category": "site",
+      "date_ref": "1935-08",
+      "entities": [
+        "Camp Becsies",
+        "Camp Kanawana",
+        "Harold C. Cross"
+      ],
+      "claim": "CAMP BECSIES HAD A GIRLS' SECTION BY 1935, AND HAROLD CROSS WAS SUMMERING AT MAROIS. THE REGATTA: Kanawana's annual all-camp regatta of 1 August 1935 'seemed to attract more participants and more out-of-camp spectators than ever before. THE WHOLE GIRLS' SECTION OF CAMP BECSIS WAS THERE.' wiki/site/camp-becsies.md describes that camp through trails, portages and shared shoreline and carries no mention of girls at all. 'The whole girls' SECTION' says two things: Becsies was ORGANISED IN SECTIONS like Kanawana, and at least one was for girls, and its girls came over in a body to a Kanawana event. Set beside the Becsies campers who filled Kanawana's chapel a fortnight earlier, traffic between the two camps in the summer of 1935 was routine and crossed the gender line. CROSS: 'Last Sunday morning MR. H. C. CROSS, A FORMER KANAWANA CHIEF, addressed the camp assembled in chapel. It seemed just like old times to have Mr. Cross back with us; perhaps we shall see him again, since HE AND HIS FAMILY ARE AT PRESENT SUMMERING AT MAROIS.' The chiefship is not new -- the directors index has him at Kanawana in 1913 and as Chief about 1926-1928 -- but this is the camp's own contemporary description of him in the role, and the domestic detail is the only glimpse this project has of him off duty.",
+      "sources": [
+        "src_ymf_the_green_triangle_1935_08_04"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.94",
       "added_by": "ralph_loop"
     }
   ]

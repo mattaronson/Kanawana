@@ -1,6 +1,6 @@
 # Is Kanawana the Oldest Camp in Canada?
 
-*Status: draft | Sources: 28*
+*Status: draft | Sources: 29*
 *Last Updated: 2026-09-07 (a 1938 broadcast counting from 1909 while calling the camp one of the oldest)*
 
 ## Overview
@@ -553,6 +553,16 @@ Big Cove's and Camp Stephens', not only Kanawana's.** What distinguishes Kanawan
 longer without stopping than any of them** — through two world wars, a polio epidemic that closed camps
 across the country, and the century that closed its own sibling camp on the original site.
 
+**And a third self-count on the same convention, from the alumni side.** The *Green Triangle*'s
+Re-union Number of 17 October 1936 opens: "This issue marks the **twenty-seventh annual re-union of
+old Kanawanians**."^29 Twenty-seven annual reunions by 1936 counts the first to **1909 or 1910** — the
+site-purchase convention again, and this time not in a description of the camp but in the numbering of
+a recurring event, which is harder to round off casually than a phrase like "for 93 years." The
+reunion series, the 1935 "twenty-sixth year of existence," the 1938 broadcast's "twenty-nine years"
+and the 1983 "past 75 years" all count from the same point. Against them stands the 1941 broadcast's
+48th season and the 1988 advertising's 93 years, both counting from the founding. **Two clocks, both
+running, for at least fifty years.**
+
 ## Open Questions
 
 1. [Critical, advanced 2026-09-05] Close the operation gaps in [[meta/attendance-series|the attendance
@@ -629,3 +639,4 @@ across the country, and the century that closed its own sibling camp on the orig
 26. Canada, Department of Trade and Commerce, Dominion Bureau of Statistics, *Elementary and Secondary Education in Canada*, being Part I of the *Biennial Survey of Education in Canada* [src_dbs_biennial_survey_education], the surveys for **1938-40**, **1943-44** and **1945-46**, printed at Ottawa by the King's Printer. Internet Archive item `31761119680775`, full text downloaded 2026-09-07. The entry quoted is a standing one, reprinted across surveys with only an address and a job title amended, and is weighed as such. Set out with its variants at `sources/cache/government/2026-09-07-dbs-biennial-survey-ymca-entry.txt`. See [f_5356].
 27. Kamp Kanawana recruitment advertisement, *The Link* (Concordia University) Vol. 8 Nos. 39-41, 22 and 29 March 1988 [src_concordia_link_1988_03_22]: "For 93 years we have shared our excitement…" Transcribed at `sources/cache/concordia-publications/2026-09-07-the-link-kanawana-1988-1993.txt`. See [f_5448].
 28. "The Voice of Youth" No. 30, full script, 10 November 1938 [src_ymf_1938_11_10_the_voice_of_youth_no_30]. Read 2026-09-07 under p_482. See [f_5485].
+29. *The Green Triangle*, Vol. IV No. 7, **4 August 1935**, and Volume 5, **Re-union Number, 17 October 1936** [src_ymf_the_green_triangle_1935_08_04, src_ymf_the_green_triangle_1936_10_17]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.

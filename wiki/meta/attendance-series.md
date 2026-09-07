@@ -1,7 +1,7 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 37*
-*Last Updated: 2026-09-07 (who was in charge in 1913, carried across from the directors index)*
+*Status: draft | Sources: 38*
+*Last Updated: 2026-09-07 (240 campers in 1936, from the alumni Re-union Number)*
 
 ## Overview
 
@@ -350,6 +350,19 @@ Three things stand out and none of them is visible from any single article.
 
 **Camper-weeks and camper-counts diverge from the 1950s.** Headcounts rise (450 → 558 across 1953–57) while average stay falls (3.5 weeks in 1953, 3.1 in 1956, "about 3" in 1957). More children for less time each — the same shift that shows up as shorter sessions in the modern programme.
 
+**1936: two hundred and forty, and a figure for the beginning.** The *Green Triangle*'s Re-union
+Number of 17 October 1936, addressing an alumni audience: "Things have changed at Camp since those
+early days. **Where fifty boys once camped two hundred and forty now live.** We have three sections
+instead of one. Some of us now sleep in cabins where our dads slept in tents on the bare ground."^38
+
+Read this as what it is. **240** is a round number given in a speech to alumni, not a registration
+count, and the season it describes is the summer of 1936. **Fifty** is rounder still and undated — "those
+early days" could mean the 1894 founding, the 1909–10 move, or simply the speaker's own boyhood. The
+figure worth relying on is the 240; the fifty is a rhetorical baseline and is recorded as one. The
+same passage independently attests **multi-generational attendance in 1936** — "there are a number of
+fellows whose fathers camped at Kanawana as boys many years ago" — five years before the 1941 CFCF
+broadcast this wiki dates that observation from.
+
 ## Open Questions
 
 1. [Important] Settle the 289-boy season. The FY1919-20 report's own audit date makes 1919 the natural reading, but three later tables disagree. A 1920 or 1921 season report, if one survives at Concordia, would fix the column.
@@ -414,6 +427,7 @@ Three things stand out and none of them is visible from any single article.
 35. National review of 1967, *National Council Bulletin* Vol. 41 No. 3 (1968), YMCA of Canada [src_ia_ymca_national_council_bulletin_41_03]. Internet Archive item `national-council-bulletin-vol-41-no-03`, in the `ymca-montreal-fonds` collection. Found 2026-09-07 by the enumeration at [f_5243]. See [f_5253].
 36. YMCA of Montreal, *Sixty-Third Annual Report, Year ending April 30th, 1914* [src_ymf_sgw_ymca_annual_report_1914]. The sentence this row's figure comes from also names the season's staff, which had not been extracted until 2026-09-07. See [f_5282] and [f_5285].
 37. *Men of Montreal* Vol. I No. 6, June 1904 — the association's monthly, this issue mastheaded the "Camp Club House, Lake St. Joseph, and Summer Camp Number" [src_ymf_sgw_ymca_annual_report_1904_men_of_montreal], with the YMCA of Montreal annual report for **1905** [src_ymf_sgw_ymca_annual_report_1905]. Both cached here since before this session. The 1903 season is reported in the June 1904 issue, which also announces the coming 1904 camps. See [f_5332] and [f_5333].
+38. *The Green Triangle*, Vol. IV No. 7, **4 August 1935**, and Volume 5, **Re-union Number, 17 October 1936** [src_ymf_the_green_triangle_1935_08_04, src_ymf_the_green_triangle_1936_10_17]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 
 ## Research Notes
 

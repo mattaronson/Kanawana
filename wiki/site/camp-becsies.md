@@ -1,7 +1,7 @@
 # Camp Becsies
 
-*Status: E1-reviewed | Sources: 14*
-*Last Updated: 2026-09-07 (Becsies campers filling Kanawana's chapel in 1935)*
+*Status: E1-reviewed | Sources: 15*
+*Last Updated: 2026-09-07 (Becsies campers in Kanawana's chapel, and a girls' section by 1935)*
 
 ## Overview
 
@@ -89,6 +89,15 @@ filling the chapel.**"^14 The two camps were close enough that one walked to the
 service in numbers large enough to fill the building, which is a different kind of relationship from
 the canoe portages and hiking-trail references that make up most of the Becsies material here.
 
+**Becsies had a girls' section by 1935.** Kanawana's annual all-camp regatta that August "seemed to
+attract more participants and more out-of-camp spectators than ever before. **The whole girls' section
+of Camp Becsis was there**."^15 This article otherwise describes Becsies through trails, portages and
+the shared shoreline; the phrase "the whole girls' section" says something different — that Becsies
+was **organised in sections like Kanawana** and that at least one of them was for girls, and that its
+girls came over in a body to a Kanawana event. Set beside the Becsies campers who filled Kanawana's
+chapel a fortnight earlier, the traffic between the two camps in the summer of 1935 was routine and it
+went both ways across the gender line.
+
 ## Open Questions
 
 1. [Important, narrowed 2026-07-09] Why did Camp Becsies close after 1936 and not resume operations until 1960? A comprehensive 21-year annual-report check (1938-1962) confirms the end-date and rules out visible Kanawana-side financial distress as the cause (Kanawana had record attendance the very next season), but the actual reason remains undocumented online -- likely requires a physical Concordia Archives visit or Protestant Orphans'/Ladies' Benevolent Society records.
@@ -124,3 +133,4 @@ the canoe portages and hiking-trail references that make up most of the Becsies 
 12. YMCA of Montreal annual reports for the years ending 31 March **1930, 1934, 1935 and 1936** [src_cache_sgw_ymca_annual_report_1930, src_cache_sgw_ymca_annual_report_1934, src_cache_sgw_ymca_annual_report_1935, src_cache_sgw_ymca_annual_report_1936] — camping seasons 1929, 1933, 1934 and 1935. Camps sections read 2026-09-06 under p_441. See [f_5070]. **Note the spelling**: these volumes write the lake *Becscies*, which a grep for *Becsies* does not find.
 13. YMCA of Montreal, **113th Annual Report**, for the year ended **31 May 1965** [src_ymf_sgw_ymca_annual_report_1964] — camping section, "Family Camping." Its camping season is the summer of 1964 (see [f_5090]). Read 2026-09-06 under p_441. See [f_5094].
 14. *The Green Triangle*, Vol. IV Nos. 5 and 6, **20** and **27 July 1935** [src_ymf_the_green_triangle_1935_07_20, src_ymf_the_green_triangle_1935_07_27]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+15. *The Green Triangle*, Vol. IV No. 7, **4 August 1935**, and Volume 5, **Re-union Number, 17 October 1936** [src_ymf_the_green_triangle_1935_08_04, src_ymf_the_green_triangle_1936_10_17]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.

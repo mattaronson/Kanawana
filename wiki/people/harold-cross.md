@@ -1,7 +1,7 @@
 # Harold C. Cross
 
-*Status: E1-reviewed | Sources: 14*
-*Last Updated: 2026-09-07 (Acting General Secretary 1941-45 while Beaton was at the war)*
+*Status: E1-reviewed | Sources: 15*
+*Last Updated: 2026-09-07 (called a former Kanawana Chief by the camp's own paper, and summering at Marois in 1935)*
 
 ## Overview
 
@@ -67,6 +67,19 @@ The McMorris thesis cites the full publication as: Harold C. Cross, *One Hundred
 
 A continuation was later written by F.G. Hubbard: *First Quarter of Second Century of Service to Youth of Montreal, 1951-1976* (1976).^1
 
+**Kanawana's own newspaper calls him a former Chief, and puts him at Marois in 1935.** *The Green
+Triangle* of 4 August 1935: "Last Sunday morning **Mr. H. C. Cross, a former Kanawana Chief**,
+addressed the camp assembled in chapel. It seemed just like old times to have Mr. Cross back with us;
+perhaps we shall see him again, since **he and his family are at present summering at Marois**."^15
+
+The chiefship itself is not new — [[people/directors-index|the directors index]] has him at Kanawana
+in 1913 and as Camp Chief about 1926–1928 — but this is the camp's own contemporary description of him
+in that role, printed for campers who would have had no reason to be told anything but the plain fact.
+What is new is the domestic detail: in the summer of 1935 he was **holidaying with his family at Lake
+Marois**, close enough to walk over and preach, and familiar enough that his return read as "just like
+old times." For a man this project knows mainly through his later administrative posts and his history
+of the association, it is the only glimpse of him off duty.
+
 ## Open Questions
 
 1. [Critical] What are Harold C. Cross's birth and death dates? The 1971 photograph and 1938-1957 correspondence bracket his active years but biographical details remain unknown.
@@ -100,6 +113,7 @@ A continuation was later written by F.G. Hubbard: *First Quarter of Second Centu
 12. *YMCA Year Book and Official Rosters*, the volumes for **1911-12, 1912-13, 1913-14, 1914-15, 1915-16, 1916-17, 1917-18** and **1918-19** [src_umedia_ymca_yearbook_series], read in the University of Minnesota Libraries' digitized run (ContentDM collection p16022coll351, Kautz Family YMCA Archives). These are years the Internet Archive does not hold at all and this project had recorded as unreachable; the route is documented at `sources/cache/ymca-yearbooks/2026-09-07-umedia-the-series-is-readable-after-all.txt`. Only the Quebec, Prince Edward Island and British Columbia blocks of the Directory of Associations were read in each. The absence of the name from the 1915-16, 1916-17 and 1917-18 volumes was established by exact-phrase search after confirming those volumes are OCR'd and searchable. See [f_5269].
 13. YMCA of Montreal, *Sixty-Third Annual Report, Year ending April 30th, 1914* [src_ymf_sgw_ymca_annual_report_1914]. Cached at `sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-1914.txt`, in this project since before this session and already the source of the 1913 attendance figure in [[meta/attendance-series|the attendance series]] — the camp staff named in the same sentence had not been extracted. See [f_5282].
 14. The two MULTI-YEAR items of the yearbook series, re-read 2026-09-07: [src_icre_yearbook_1933], whose title page says 1933 but which binds the yearbooks for **1933 through 1938**, and [src_icre_yearbook_undated], which binds **1939 through 1942** and whose running heads carry all four. Each Quebec officer block placed by the dated year-marks bracketing it in the same text, monotonic across ten blocks, with J. P. Copland present as Honorary Treasurer in every one as a control. Set out year by year at `sources/cache/religious-education/2026-09-07-quebec-council-year-by-year.txt`. See [f_5353], [f_5354], [f_5355].
+15. *The Green Triangle*, Vol. IV No. 7, **4 August 1935**, and Volume 5, **Re-union Number, 17 October 1936** [src_ymf_the_green_triangle_1935_08_04, src_ymf_the_green_triangle_1936_10_17]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 
 ## Research Notes
 

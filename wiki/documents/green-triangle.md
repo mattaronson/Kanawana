@@ -1,7 +1,7 @@
 # The Green Triangle
 
-*Status: draft | Sources: 11*
-*Last Updated: 2026-09-07 (the first issue of 23 July 1932, read in full)*
+*Status: draft | Sources: 12*
+*Last Updated: 2026-09-07 (the first issue of 1932; and the Re-union Number, an off-season alumni edition)*
 
 ## Overview
 
@@ -87,6 +87,26 @@ be the highest mountain this side of the Rockies." The gossip column asks "why c
 leaders portage canoes to **Becsis**" — [[site/camp-becsies|Camp Becsies]] — and repeatedly places
 staff at **Marois** and Saint-Sauveur on their time off.
 
+## The Re-union Number
+
+Two of the thirty-eight digitized issues fall outside the camp season — 17 October 1936 and 30 March
+1937 — and the first of them explains the type. Its masthead reads "**Volume 5, Re-union Number**,"
+and it opens: "This issue of the *Green Triangle* marks the **twenty-seventh annual re-union of old
+Kanawanians**. Each year our get-togethers include more fellows and more of their parents and
+friends."^12
+
+So the paper had an **off-season edition printed for an annual alumni reunion**, and the reunion
+itself is an institution this project had no record of. A twenty-seventh reunion in 1936 counts from
+**1909 or 1910** — the site-purchase convention, the same one behind the 1935 "twenty-sixth year of
+existence," the 1938 broadcast's "twenty-nine years" and the 1983 "past 75 years."
+
+Its contents are what an alumni number would be: "Social Notes" reporting which Kanawana leaders had
+registered at McGill that autumn (Currie Carmichael, George Flower — the paper's own editor the year
+before — Doug Reilly and Lloyd Mussels in first year; Neri Guadagni and Wesley Woo in third), which of
+them had broken bones playing football, and the Kanawana boys running the Westmount branch's
+membership campaign. The camp's newspaper, in other words, kept following its readers into the winter
+and into the city.
+
 ## The Green Triangle Award
 
 Separately from the newsletter, "the Green Triangle" was also a coveted camper achievement award, given to a camper who accomplished a series of feats.^7 Charles "Smillie" Buckland, who attended Kanawana from 1944 to 1951, described being its first recipient, circa 1944–1948; he also held the camp's lake swim record.^7 ^8
@@ -127,6 +147,7 @@ The 1978–1982 revival recorded above has a witness from outside the run itself
 9. Spirit of Kanawana (blog by Matt Aronson); oral history, Matt Aronson [src_spirit_kanawana_blog].
 10. Derek Walsh, *Ka-News '78*, staff bulletin of 28 April 1978 [src_ymf_ka_news_1978_04_28]. Cached at `sources/cache/ymca-montreal-fonds/ka-news-1978-04-28.txt`.
 11. *The Green Triangle*, Vol. 1 No. 1, **23 July 1932** — the first issue [src_ymf_the_green_triangle_1932_07_23]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-07-23.txt`. Held since 2026-08-25 at read_state "skimmed", read word for word 2026-09-07 under p_482, in the systematic issue-by-issue read the article's open question 2 asks for.
+12. *The Green Triangle*, Vol. IV No. 7, **4 August 1935**, and Volume 5, **Re-union Number, 17 October 1936** [src_ymf_the_green_triangle_1935_08_04, src_ymf_the_green_triangle_1936_10_17]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 
 ## Research Notes
 
