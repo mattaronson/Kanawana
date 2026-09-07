@@ -1,8 +1,8 @@
 {
-  "version": "10.16",
-  "kb_version": "10.16",
+  "version": "10.17",
+  "kb_version": "10.17",
   "migrated_from": "3.3",
-  "fact_count": 5566,
+  "fact_count": 5567,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100308,6 +100308,23 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.16",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5605",
+      "category": "site",
+      "date_ref": "1936",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE 1936 CFCF SCRIPT, READ THROUGH: THE JUVENILE CABINS WERE BUILT THAT YEAR, AND THE THREE-SECTION NAMES ARE TWO YEARS EARLIER THAN RECORDED. f_5003 read this 13,201-character script for its origins passage and its statement of camping philosophy. The rest of it is a room-by-room, hour-by-hour description of the camp, and several details in it are dated events. (1) THE CABINS: 'The boys in the Senior and Junior sections sleep in TENTS, each of which is pitched on high dry WOODEN PLATFORMS. The boys in the Juvenile section, those under twelve years of age, sleep in CABINS WHICH ARE BEING ERECTED NEW THIS YEAR. These cabins are well constructed and contain BUNKS FOR SEVEN BOYS AND A COUNSELOR. There is lots of light and air, with all doors and windows well screened. All tents and cabins look out over the lake.' THAT DATES THE FIRST JUVENILE CABINS TO 1936 and states the accommodation split of the period: platform tents for the two older sections, new cabins for the under-twelves. (2) THE SECTION NAMES: 'The camp is divided into three sections, JUVENILES, for boys under twelve years of age, JUNIORS, for boys twelve to fourteen, and SENIOR, for boys fifteen to seventeen. Each section is organized with its own director and staff of counselors. Each section has its own campus and recreation hall for rainy weather and carries on its own program of activities, graded properly according to the age and interest of the campers.' site/places-and-locations.md dates the Junior/Juvenile/Senior names to 'at least 1938'; this is 1936, with the age bands attached. (3) STAFF AND RATIOS, 1936: the camp director 'is one of the senior secretaries of the Montreal Y.M.C.A.'; thirty-five trained counsellors, 'each in charge of a tent or cabin group of six or seven boys', 'many of these counselors are old Kanawana boys', all having attended a training course; a camp doctor resident at all times, 'a graduate of McGill University, with some years of hospital experience'; and a chef working to a qualified dietitian's menus who 'has been at Kanawana for the PAST TEN YEARS' -- so a chef in post since about 1926. Swimming ran at 'ONE LIFE GUARD FOR EVERY TEN BOYS', with guards 'placed at strategic points along the waterfront and in boats'. (4) THE SITE AS DESCRIBED: 150 acres including 'the complete shore-line of THREE LAKES and a portion of the shore-line of a FOURTH'; a fleet of forty boats and canoes, usable only after passing tests; three swimming wharves, one per section; two diving boards, one high and one low; 'the long WATER SHUTE, where boys slide from the top of the hill down into the water'; a dispensary and hospital under a resident doctor; 'the large CEDAR LOG DINING PAVILION'; two playfields, one on either side of the lake; the outdoor chapel along the shore; and 'behind the chapel, on the hill, the COUNCIL RING'. (5) THE DAY: rising bell, wash and dip in the lake, 'the daily SOAP BATH... followed by an INSPECTION FOR CUTS, BRUISES OR SORES of any kind', all reported to the doctor; breakfast; a ten-minute chapel service taken by a staff member; forty-five minutes cleaning dining hall, tents and campus; INTEREST GROUPS in basketry, woodworking, leatherwork, metalcraft, nature study, photography, dramatics, bird lore, campcraft, woodcraft, canoeing and boating, with self-chosen projects -- 'One group may build a cabin in the woods, another a lean-to across the lake, in which they will later sleep... Some boys decide to build a boat, and then there is great scurrying around to find wood'; swimming instruction graded to national YMCA life-saving certification; general swim; dinner, then 'a SONG AND MUSIC PERIOD. New songs are learned, and campers with musical ability take turns in playing for the rest of the camp'; an enforced rest hour; a free afternoon with no coercion to join organised games; a second swim before supper; and campfires at nightfall in FOUR PLACES -- 'sometimes in the Council Ring, sometimes on the campus, sometimes on the hill across the lake, or ON COLD NIGHTS IN THE LARGE OPEN FIREPLACES IN THE RECREATION HALLS'. (6) THE CLOSING PURPOSE STATEMENT, which is the camp's own aim in 1936: a camp 'where a boy is safe, morally and physically', filling each day 'brimful of fun and happiness, and the keen zest of healthful living; and, through personal attention, to inspire our boys with the ideals of CHRISTIAN CITIZENSHIP, that they may make a worthy contribution to the life of their home and community.' Enquiries went to 'any of the EIGHT BRANCHES of the Y.M.C.A. in Montreal'. NOTE ON OVERLAP: documents/kanawana-in-media.md records a 1939 CFCF broadcast listing four lakes, three swimming wharves and a fleet of forty boats -- the same figures in the same order. The two scripts share stock text, which is itself worth knowing when either is used as evidence for a given year.",
+      "sources": [
+        "src_ymf_1936_kamp_kanawana_broadcast_station_cfcf"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.17",
       "added_by": "ralph_loop"
     }
   ]

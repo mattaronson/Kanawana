@@ -1,7 +1,7 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 63*
-*Last Updated: 2026-09-07 (the camp's book value in 1920, and the Men's Camp still carried separately)*
+*Status: E1-reviewed | Sources: 64*
+*Last Updated: 2026-09-07 (the 1936 CFCF script: the Juvenile cabins dated, and the site described building by building)*
 
 ## Overview
 
@@ -258,6 +258,22 @@ The modern camp includes:^7 ^9
 - **Fire Bowls** for campfires and cookouts
 
 ### Historical Facilities
+
+**A dated construction event, and the accommodation split it belonged to.** The 1936 CFCF broadcast script
+describes the camp building by building, and one sentence in it is a date: "The boys in the Senior and
+Junior sections sleep in **tents**, each of which is pitched on **high dry wooden platforms**. The boys in
+the Juvenile section, those under twelve years of age, sleep in **cabins which are being erected new this
+year**."^64 So **the first Juvenile cabins went up in 1936**, each with "bunks for seven boys and a
+counsellor," screened doors and windows, and a view over the lake — while the two older sections stayed
+under canvas on platforms. The same script gives the camp as 150 acres taking in "the complete shore-line of
+three lakes and a portion of the shore-line of a fourth," a fleet of forty boats and canoes, three swimming
+wharves (one per section), two diving boards high and low, "the long **water shute**, where boys slide from
+the top of the hill down into the water," a dispensary and hospital under a resident doctor, "the large
+**cedar log dining pavilion**," two playfields one on either side of the lake, the outdoor chapel along the
+shore, and "behind the chapel, on the hill, the Council Ring." Campfires were lit in four places: the
+Council Ring, the campus, the hill across the lake, "or on cold nights in the large open fireplaces in the
+recreation halls."
+
 Facilities documented from the 1920s through the 1970s include:^5 ^11
 
 - **The Lookout**: A pre-existing structure on the site before Kanawana was founded — the oldest structure on the property^23
@@ -491,6 +507,7 @@ them on every line and by tenfold on revenue.
 61. Kamp Kanawana counsellor recruitment advertisement, *The McGill Daily* Vol. 38 No. 100, 25 May 1949 [src_mcgill_daily_1949_05_25]: "CAMP SITUATED IN LAURENTIANS — 3 LAKES — 600 ACRES OF WOODED PROPERTY." Transcribed at `sources/cache/mcgill/2026-09-07-kanawana-counsellor-ads-1948-1949.txt`. See [f_5415].
 62. Kamp Kanawana counsellor recruitment advertisement, *The McGill Daily* Vol. 78 No. 83, 20 February 1989 [src_mcgill_daily_1989_02_20]: "on 1200 acres of land and three private lakes." Transcribed at `sources/cache/mcgill/2026-09-07-kanawana-ad-1989-and-perrot-doctors-1948.txt`. See [f_5429].
 63. YMCA of Montreal Annual Report **1920** [src_ymf_sgw_ymca_annual_report_1920], the association's asset schedule. Cached at `sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-1920.txt`; the Kanawana entries read word for word 2026-09-07 under p_482, the rest of the volume not read.
+64. "Kamp Kanawana Broadcast — Station CFCF," 1936 script [src_ymf_1936_kamp_kanawana_broadcast_station_cfcf]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/1936-kamp-kanawana-broadcast-station-cfcf.txt`, 13,201 characters. The earliest surviving CFCF text; read word for word 2026-09-07 under p_487. See [f_5003] and [f_5605].
 
 ## Research Notes
 

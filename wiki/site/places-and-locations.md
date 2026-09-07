@@ -1,7 +1,7 @@
 # Places and Locations at Camp Kanawana
 
-*Status: E1-reviewed | Sources: 28*
-*Last Updated: 2026-09-07 (the golf course had nine holes and lay across the lake)*
+*Status: E1-reviewed | Sources: 29*
+*Last Updated: 2026-09-07 (the three section names two years earlier, from the 1936 CFCF script)*
 
 ## Overview
 
@@ -87,7 +87,7 @@ The traditional residential core of the camp, consisting of small cabins without
 - **Coureurs des Bois** (ages 12–13): 14 prospector tents [src_ymca_website]
 - **Pathfinders** (ages 14–15): Same tent area as Coureurs des Bois [src_ymca_website]
 
-These section names date to 1959, when they replaced the earlier Junior, Juvenile, and Senior designations used since at least 1938 [f_0216]. The 1959 names remain in use today [f_0217].
+These section names date to 1959, when they replaced the earlier Junior, Juvenile, and Senior designations used since at least **1936** [f_0216] — the 1936 CFCF broadcast script sets out all three with their age bands: "Juveniles, for boys under twelve years of age, Juniors, for boys twelve to fourteen, and Senior, for boys fifteen to seventeen," each with its own director, staff, campus and recreation hall.^29 *(Corrected from "at least 1938" on 2026-09-07.)* The 1959 names remain in use today [f_0217].
 
 In the camp's earliest years, boys slept in tents with wood floors, each housing eight to ten boys under a tent leader [src_brochure_1923].
 
@@ -546,3 +546,4 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 26. *The Green Triangle*, **12 August 1933** and Vol. IV No. 2, **30 June 1935** [src_ymf_the_green_triangle_1933_08_12, src_ymf_the_green_triangle_1935_06_30]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 27. *The Green Triangle*, Vol. IV Nos. 3 and 4, **6** and **13 July 1935** [src_ymf_the_green_triangle_1935_07_06, src_ymf_the_green_triangle_1935_07_13]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 28. *The Green Triangle*, **9**, **16 July** and **6 August 1938** [src_ymf_the_green_triangle_1938_07_09, src_ymf_the_green_triangle_1938_07_16, src_ymf_the_green_triangle_1938_08_06]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+29. "Kamp Kanawana Broadcast — Station CFCF," 1936 script [src_ymf_1936_kamp_kanawana_broadcast_station_cfcf], cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07. See [f_5605].
