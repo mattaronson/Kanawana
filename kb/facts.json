@@ -1,8 +1,8 @@
 {
-  "version": "11.06",
-  "kb_version": "11.06",
+  "version": "11.07",
+  "kb_version": "11.07",
   "migrated_from": "3.3",
-  "fact_count": 5683,
+  "fact_count": 5684,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102504,6 +102504,20 @@
       "date_ref": "2026-09-07",
       "conflicts_with": [],
       "added_version": "11.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5722",
+      "claim": "THE 43 SHARED-CACHE GROUPS NOW POINT AT EACH OTHER, WHICH IS THE HALF OF p_442 THAT DOES NOT NEED THE OPERATOR. p_442's complaint was precise and it was not about the duplication itself: 'NEITHER POINTS AT THE OTHER. So the same document was simultaneously extracted and unread depending on which record you happened to read.' Of 1,647 source records, 119 share a cache_path with at least one other, in 43 groups, and the project's own detector reports 17 of those groups DISAGREEING about read_state -- one record 'skimmed' and its twin 'extracted' for the same file. Every one of the 119 now carries a note naming the other records on its path and their read_states, and saying outright where the states disagree. NOTHING WAS MERGED, which p_442 requires: it asks for the count first and says merging is not obviously right, because the two records in a pair may carry different provenance -- one made by hand when a document was read, one generated from the cache directory -- and the no-silent-overwrite rule applies to source records as much as to facts. The choice between merging, cross-referencing and fixing read_state is the operator's; this is the cross-reference, it is purely additive, and it removes the trap without pre-empting the decision. AND A SHARED PATH IS NOT ALWAYS AN ERROR, which the note says on every record so nobody merges on the strength of the flag alone. Seven records share concordia-atom-kanawana-full.txt because that one file holds seven AtoM sub-series descriptions; two share a memoir-passages file because it holds snippets from two books. Those are one FILE and many DOCUMENTS, the opposite of the defect. The Canadian Camping pairs -- src_ia_canadian_camping_1958_04 against src_cache_canadiancampingmagazine_vol10_no3_1958april and fifteen more like them -- are the real thing. WHAT PROMPTED IT: I created a forty-fourth group myself an hour earlier (f_5721), by testing for an id instead of a path.",
+      "sources": [],
+      "confidence": "inferred",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026-09-07",
+      "conflicts_with": [],
+      "added_version": "11.07",
       "added_by": "ralph_loop"
     }
   ]
