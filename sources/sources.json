@@ -18607,12 +18607,12 @@
       "cache_path": "sources/cache/ymca-montreal-fonds/news-release-1973-10-26.txt",
       "char_count": 5808,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
-      "extraction_version": "v5.60",
+      "extracted": true,
+      "extraction_version": "10.09",
       "reliability": "primary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. || READ WORD FOR WORD 2026-09-07 (p_482). A bilingual staff communiqué from the Metropolitan Offices at 1441 Drummond, and NOT a thin item: its Kanawana paragraph is the earliest full description of the camp's winter programme this project holds -- a lift, THREE downhill slopes (two the previous winter), twenty miles of cross-country and snowshoe trails, a club house and a baby-sitting service, with instruction directed by LEO ROBITAILLE and contacts Mrs. Olga Hall and Mrs. Elaine Robitaille. It moves the twenty miles, the clubhouse and the babysitting three years earlier than the 1976 guidebook wiki/traditions/winter-programming.md credited them to, fills the 1973-74 gap in that article's timeline, and gives a name to start from for the Châteauguay address the Outing Club used in 1977. The release also shows CAMPING constituted as a BRANCH with its own chairman in the 1974 financial campaign. See f_5550, f_5551, f_5552.",
+      "read_state": "read",
+      "read_state_basis": "read word for word 2026-09-07 under p_482, superseding the \"skimmed\" state of 2026-08-25"
     },
     {
       "source_id": "src_ymf_news_release_1973_11_28",

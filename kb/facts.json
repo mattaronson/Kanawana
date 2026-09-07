@@ -2,7 +2,7 @@
   "version": "10.09",
   "kb_version": "10.09",
   "migrated_from": "3.3",
-  "fact_count": 5511,
+  "fact_count": 5514,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -97776,7 +97776,7 @@
         "A. Ross Seaman",
         "Concordia University"
       ],
-      "claim": "THE SEAMAN FUND HAD ITS OWN WEBSITE IN 2001, AND IT IS GONE. The 2001 report closes: 'For more information on the A. Ross Seaman Memorial Leadership Development Fund, visit their Web site at: HTTP://AROSSSEAMAN.TRIPOD.COM/.' A fund website would be the natural place for a full winners list, the award's terms and the fund's own account of Seaman -- material this project has had to assemble from a dozen scattered notices. THE WAYBACK MACHINE HAS NO CAPTURE OF IT. The availability API returns an empty archived_snapshots object for arossseaman.tripod.com, for arossseaman.tripod.com/index.html and for www.arossseaman.tripod.com, AGAINST A CONTROL (concordia.ca) THAT RETURNS A SNAPSHOT ON THE SAME CALL, so the null is the site's and not the tool's. ONE LIMIT ON THAT NULL, STATED SO IT IS NOT READ AS MORE THAN IT IS: the fuller CDX enumeration, which would catch captures of deeper pages under a differently-keyed host, COULD NOT BE RUN -- web.archive.org/cdx is unreachable from this environment (connection reset through the agent proxy), while archive.org itself answers normally. So 'no capture' rests on the availability API alone and should be re-run from an environment that can reach CDX before the site is called definitively lost.",
+      "claim": "THE SEAMAN FUND HAD ITS OWN WEBSITE IN 2001, AND IT IS GONE. The 2001 report closes: 'For more information on the A. Ross Seaman Memorial Leadership Development Fund, visit their Web site at: HTTP://AROSSSEAMAN.TRIPOD.COM/.' A fund website would be the natural place for a full winners list, the award's terms and the fund's own account of Seaman -- material this project has had to assemble from a dozen scattered notices. THE WAYBACK MACHINE HAS NO CAPTURE OF IT. The availability API returns an empty archived_snapshots object for arossseaman.tripod.com, for arossseaman.tripod.com/index.html and for www.arossseaman.tripod.com, AGAINST A CONTROL (concordia.ca) THAT RETURNS A SNAPSHOT ON THE SAME CALL, so the null is the site's and not the tool's. ONE LIMIT ON THAT NULL, STATED SO IT IS NOT READ AS MORE THAN IT IS: the fuller CDX enumeration, which would catch captures of deeper pages under a differently-keyed host, COULD NOT BE RUN -- web.archive.org/cdx is unreachable from this environment (connection reset through the agent proxy), while archive.org itself answers normally. So 'no capture' rests on the availability API alone and should be re-run from an environment that can reach CDX before the site is called definitively lost. || RE-TESTED 2026-09-07, AND THE CDX LIMIT IS NOW CONTROLLED RATHER THAN ASSUMED. The availability API was re-run and returns the same empty archived_snapshots for arossseaman.tripod.com, arossseaman.tripod.com/, www.arossseaman.tripod.com, arossseaman.tripod.com/index.html and members.tripod.com/arossseaman -- against a CONTROL of tripod.com itself, which on the same call returns a live snapshot (20260425163023). AND THE CDX FAILURE WAS ITSELF CONTROLLED: cdx was queried for tripod.com, which certainly has captures, and returned HTTP 000 exactly as the arossseaman query did. So the CDX null is the TOOL'S and not the site's, which is what 'unreachable' asserted without testing. THE UNDERLYING CONSTRAINT, worth knowing for every future pass: WEB.ARCHIVE.ORG IS UNREACHABLE FROM THIS ENVIRONMENT WHILE ARCHIVE.ORG IS NOT. web.archive.org/ returns 000, web.archive.org/cdx/... returns 000, web.archive.org/web/timemap/... returns 000, and a direct snapshot URL returns 403; the agent proxy reports ws_closed_mid_exchange on three of them. archive.org/wayback/available, archive.org/metadata and archive.org/download all answer normally. The conclusion stands and the reservation stands with it: the site has no capture that the availability API can see, and the deeper CDX enumeration still needs an environment that can reach web.archive.org.",
       "sources": [
         "src_concordia_thursday_report_2001_04_12"
       ],
@@ -99367,6 +99367,62 @@
       ],
       "claim": "TWO CACHE PATHS RESOLVED TO NOTHING, AND THE SEVENTH FAILED HEURISTIC LOOKING FOR MORE OF THEM. After f_5548 -- a source whose cache_path pointed at a NOTE about the booklet rather than the booklet, so a false completeness claim could not be checked against anything -- the obvious next question was whether other records do the same. THREE MEASUREMENTS, ONE USEFUL. (1) EXISTENCE, which is true and was worth running: 1,022 of 1,024 cache_paths resolve; TWO DID NOT. src_cache_p0145_..._findingaid_2023_11_24 named a .pdf where the file on disk is the .txt of the same name, and src_kanawana_physical_archive_scans_2026 held TWO paths in a single-path field ('assets/images/artifacts/ and assets/images/art/'), so it resolved to nothing at all. Both fixed, and the check is now in data_integrity.py and BLOCKING, tested by breaking a path and confirming exit 1. WHY IT MATTERS: a path that resolves to nothing is INDISTINGUISHABLE FROM A SOURCE NEVER CACHED -- a later pass greps it, finds nothing, and reads the absence as an absence of evidence. (2) SIZE, which failed. Flagging every cache far smaller than its record's declared char_count gave 46, of which a keyword test for words like 'excerpt' and 'null sweep' called 25 undeclared. EVERY ONE CHECKED WAS HONEST. Their read_state is 'partial', and their read_state_basis says exactly which part was read -- 'the notice quoted in full... the rest of the issue was not read' -- which is the same statement the keyword test was looking for, in words it did not know. SEVENTH FAILED HEURISTIC IN TWO DAYS AND THE SAME SHAPE AS THE OTHER SIX: an instrument over-reporting a defect, a FAIL wearing a HIT's label. (3) SHARING, which is a true structural fact rather than a defect: 29 CACHE FILES SERVE 99 SOURCE RECORDS. These are deliberate sweep files (canadian-camping/, the Georgian 292-issue sweep, the Thursday Report extract, the openlibrary corpus sweeps). Worth knowing because a pass that sets out to 'read the cache files' will read 29 and believe it has covered 99 sources. AND THE CONCLUSION THAT MATTERS: there is NO systematic version of the Seaman defect detectable by file size or by path. What was wrong there was a CLAIM -- 'all 27 occurrences read in context' -- and no property of the filesystem could have contradicted it. Only re-reading the document did.",
       "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5550",
+      "category": "program",
+      "date_ref": "1973-10-26",
+      "entities": [
+        "Camp Kanawana",
+        "Kanawana Outing Club",
+        "Leo Robitaille",
+        "Elaine Robitaille",
+        "Olga Hall",
+        "YMCA of Montreal"
+      ],
+      "claim": "THE WINTER PROGRAMME AT KANAWANA, DESCRIBED IN FULL IN OCTOBER 1973, THREE YEARS BEFORE THE SOURCE THE WIKI CREDITS WITH FIRST DESCRIBING IT. The YMCA of Montreal's bilingual staff communiqué of 26 OCTOBER 1973, from the Metropolitan Offices at 1441 Drummond Street: 'SKIING AND SNOWSHOEING AT KANAWANA: Programs for outdoor people of all ages WILL AGAIN be carried on at Kamp Kanawana this winter. FACILITIES INCLUDE A LIFT, THREE DOWNHILL SLOPES, 20 MILES OF TRAILS FOR CROSS-COUNTRY SKIING AND SNOWSHOEING, A CLUB HOUSE AND A BABY-SITTING SERVICE. Instructional courses will be directed by LEO ROBITAILLE. For complete information please contact MRS. OLGA HALL at 849-5331 or MRS. ELAINE ROBITAILLE at 691-1118.' Printed again in French as 'SKI ET A KANAWANA', so the programme was advertised to staff in both languages. THREE THINGS IT SETTLES OR REVISES. (1) THE SLOPES GREW FROM TWO TO THREE. The 1972-73 Annual Report has a ski lift installed and TWO slopes groomed; by the autumn of 1973 there are THREE. (2) THE TRAILS, THE CLUBHOUSE AND THE BABYSITTING ARE 1973, NOT 1976. wiki/traditions/winter-programming.md credits Buxton and Guernsey's Montréal Inside Out (1976) with 'twenty miles of blazed trails, a clubhouse and babysitting -- a size and a building this project had from nowhere'. All three are in this release three years earlier, in the association's own words, with the same twenty-mile figure. What the 1976 guidebook is first for is describing the club TO THE PUBLIC; it is not first for the facts. (3) THE 1973-74 WINTER IS NOT THE FIRST: 'will AGAIN be carried on'. AND IT FILLS A GAP IN THE TIMELINE, which runs 1972-73 straight to 1975.",
+      "sources": [
+        "src_ymf_news_release_1973_10_26"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5551",
+      "category": "people",
+      "date_ref": "1973-10-26",
+      "entities": [
+        "Leo Robitaille",
+        "Elaine Robitaille",
+        "Kanawana Outing Club"
+      ],
+      "claim": "A SECOND ROBITAILLE, AND A POSSIBLE ANSWER TO WHOSE HOUSE THE OUTING CLUB'S ADDRESS WAS. The October 1973 communiqué gives two contacts for Kanawana's winter programme: MRS. OLGA HALL at 849-5331, which is the YMCA's own Metropolitan Offices number, and MRS. ELAINE ROBITAILLE at 691-1118, which is not -- a second, non-YMCA line, so almost certainly a home. LEO ROBITAILLE directs the instructional courses in the same notice. WHY THIS IS A LEAD RATHER THAN AN ANSWER. wiki/traditions/winter-programming.md records that in 1977 the Kanawana Outing Club was listed in a provincial ski-club register at '882, Montmorency, Châteauguay, Québec J6J 1S5' -- neither the camp nor 1441 Drummond, but a house on the far side of Montreal, which on a club list means an officer's or a secretary's home, and the article names finding whose as the thing worth chasing. FOUR YEARS EARLIER the club's public contact is a woman answering a private line, sharing a surname with the man who ran its instruction. THAT IS SUGGESTIVE AND IT IS NOT PROOF: nothing here ties 691-1118 to Châteauguay or to 882 Montmorency, and the surname could be coincidence. What would settle it is a 1970s Montreal-area telephone directory, or the club's own papers. Recorded so the next pass starts from a name rather than from nothing.",
+      "sources": [
+        "src_ymf_news_release_1973_10_26"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5552",
+      "category": "institutional",
+      "date_ref": "1973-10-26",
+      "entities": [
+        "YMCA of Montreal",
+        "Camp Kanawana"
+      ],
+      "claim": "THE CAMPING BRANCH HAD ITS OWN DIVISION CHAIRMAN IN THE YMCA'S ANNUAL FUNDRAISING CAMPAIGN. The same communiqué, under CAMPAIGN '74: David Braide, a Vice-president with CIL, as general chairman of the Montreal YMCA's 1974 financial campaign; Logan Brown, President of Robin Hood Multifoods, heading Corporate and Special Names; Murray Robinson, Manager, Mutual Life Insurance Co., as Chairman of Branch Divisions. Four branch division chairmen are named, and the FIRST OF THEM IS CAMPING: 'P. Davey, CAMPING BRANCH; John Rogers, Downtown; Graham Ballantyne, Northwestern; J. Normandin, Verdun-LaSalle.' So camping was constituted as a BRANCH alongside the geographic branches for fundraising purposes, with its own volunteer chairman, rather than being funded out of a general pool. (Surnames as OCR'd: 'Murcay Robinson', 'Robin Esod Multifoods' and 'Nerthwestern' are read here as Murray Robinson, Robin Hood Multifoods and Northwestern.) The Metropolitan Offices are at 1441 DRUMMOND STREET in 1973; Concordia's 2007 Seaman booklet puts both the YMCA and YMCA Kanawana at 1435 Drummond, 4th Floor -- a different number on the same street, thirty-four years apart, recorded rather than reconciled.",
+      "sources": [
+        "src_ymf_news_release_1973_10_26"
+      ],
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "10.09",

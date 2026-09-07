@@ -1,6 +1,6 @@
 # Winter and Year-Round Programming
 
-*Status: E1-reviewed | Sources: 23*
+*Status: E1-reviewed | Sources: 24*
 *Last Updated: 2026-09-07 ("White Kanawana", a named four-day winter programme of 1982-83)*
 
 ## Overview
@@ -80,6 +80,16 @@ Front Camp houses the Farmhouse and Blockhouse, which are winterized facilities 
 
 - **1971-72**: A ski tow was installed "to broaden the scope of winter programming," per the YMCA of Montreal's own Annual Report — the earliest documented step toward winter operations.^9
 - **1972-73**: Resolved precise dating (2026-07-09) for what had only been broadly dated to "the 1970s": that year's Annual Report states a ski lift was installed, two slopes groomed for downhill runs, miles of cross-country/snowshoe trails marked, all-ages instructional courses offered, and a babysitting service enabled parents with toddlers to participate. This is the specific "Winter Outdoor Family Camping" program.^9
+- **1973-74**: The association's own bilingual staff communiqué of **26 October 1973** describes the coming
+  winter's programme in full, and it is the earliest full description this project holds. "Programs for outdoor
+  people of all ages **will again** be carried on at Kamp Kanawana this winter. Facilities include **a lift, three
+  downhill slopes, 20 miles of trails for cross-country skiing and snowshoeing, a club house and a baby-sitting
+  service**. Instructional courses will be directed by **[[people/leo-robitaille|Leo Robitaille]]**." Contacts were
+  Mrs. Olga Hall at the YMCA's own 849-5331 and Mrs. Elaine Robitaille at 691-1118. It ran in French too, as
+  "Ski et à Kanawana," so it was put to the whole association in both languages.^24 **The slopes had grown from
+  two to three** since the previous winter's annual report, and "will *again*" says plainly that 1973-74 was not
+  the first year.
+
 - **1975 to 1980-81**: Camper counts recorded in annual reports: **475 campers in 1975** ("second
   highest registration in 25 years," despite a national decline in resident camping); a
   capital-planning process for new facilities began in 1976-77; over 750 children attended by
@@ -94,8 +104,8 @@ Front Camp houses the Farmhouse and Blockhouse, which are winterized facilities 
 - **1976**: The Outing Club is described in a **commercial Montreal guidebook**, which is the first account of it
   written for people outside the camp. Bonnie Buxton and Betty Guernsey, *Montréal Inside Out* (1976), under
   cross-country skiing: "**Kanawana Outing Club, operated by the YMCA near St-Sauveur, has 20 miles of blazed trails,
-  a clubhouse and babysitting. Instruction and rentals available.**"^12 Four things follow. The club had **twenty
-  miles of blazed trails** and a **clubhouse** — a size and a building this project had from nowhere. It **rented
+  a clubhouse and babysitting. Instruction and rentals available.**"^12 Four things follow, and the first of them has since been **corrected**. The club had **twenty
+  miles of blazed trails** and a **clubhouse** — which this article, when it was written, said it "had from nowhere." It did: the association's own communiqué of October 1973 gives the same twenty miles, the same clubhouse and the same babysitting three years earlier.^24 What the 1976 guidebook is genuinely first for is describing the club **to the public**, not for the facts of it. It **rented
   equipment and taught**, so the camp kept a stock of skis for public hire. It offered **babysitting**, which is the
   first thing to connect the Outing Club to the babysitting service the 1972-73 Annual Report describes for Winter
   Outdoor Family Camping — the two have been treated as separate programmes here. And it was **advertised to the
@@ -107,7 +117,7 @@ Front Camp houses the Farmhouse and Blockhouse, which are winterized facilities 
   belongs to is a register of ski clubs, alongside McGill's — which is what the 1976 guidebook entry above
   already implied and this confirms from a different publisher. And **its mailing address is neither the camp
   nor 1441 Drummond**. It is a house in Châteauguay, forty kilometres the other side of Montreal from
-  Saint-Sauveur, which on a club list means an officer's or a secretary's home. That is the **second**
+  Saint-Sauveur, which on a club list means an officer's or a secretary's home. **There is now a name to start from.** Four years earlier the communiqué gave two numbers for the winter programme: Mrs. Olga Hall on the YMCA's own switchboard, and **Mrs. Elaine Robitaille on 691-1118**, which is not a YMCA line and so is almost certainly a house — sharing a surname with the man running the club's instruction.^24 That is suggestive and it is not proof: nothing connects 691-1118 to Châteauguay or to 882 Montmorency, and the surname could be coincidence. A 1970s Montreal-area directory would settle it. That is the **second**
   independent sighting of a Châteauguay connection: Lovell's Montreal City Directory for 1976 carried a
   second Kanawana listing under Châteauguay at **692-2801**, and 514-692 is the Châteauguay exchange (see
   [[site/the-kanawana-site|The Kanawana Site]]). Across at least 1976 and 1977 the Outing Club was run from a
@@ -199,6 +209,7 @@ residential offering beside it, or a single season's experiment is not stated.
 21. Montreal YMCA annual report 2001-2002 [src_ymf_sgw_ymca_annual_report_2001_2002], "YMCA Kamp Kanawana - A Year of Firsts". Read 2026-09-06 under p_454.
 22. YMCA Bulletin, 13 February 1970, "for information / all staff / key lay persons" [src_ymca_bulletin_1970_02_13]. A national reprint of the 29 January Montreal item; transcribed at `sources/cache/ymca-national/2026-09-07-national-bulletin-1970-reprints-the-soup-item.txt`. Found by the accounted sweep of `rma-concordia-publications` under p_479. See [f_5417].
 23. *The Green Triangle*, **September 1976** and **15 November 1982** [src_ymf_the_green_triangle_1976_09, src_ymf_the_green_triangle_1982_11_15_eng] — the two surviving issues of the revived paper. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+24. YMCA of Montreal, bilingual staff communiqué, 26 October 1973 [src_ymf_news_release_1973_10_26]. Metropolitan Offices, 1441 Drummond Street. Cached at `sources/cache/ymca-montreal-fonds/news-release-1973-10-26.txt`. Read in full 2026-09-07 under p_482. See [f_5550], [f_5551], [f_5552].
 
 ## Research Notes
 

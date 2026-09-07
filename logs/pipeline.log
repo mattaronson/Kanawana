@@ -4483,3 +4483,47 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   by size or by path. What was wrong there was a CLAIM, and no property of the
   filesystem could have contradicted it. Only re-reading the document did.
   Verify green. Timestamp read from `date -u` in its own call.
+
+[2026-09-07T12:53:43Z] p_482: the 26 October 1973 news release, read word for
+  word. NEW: f_5550, f_5551, f_5552. Also f_5460 updated.
+  FINDING IT REQUIRED DISBELIEVING A ZERO. The obvious measure -- fonds items
+  that are read_state "skimmed", mention Kanawana, and are cited nowhere in
+  wiki/ or kb/ -- returned ZERO, which would have closed p_482. A second,
+  stricter measure (no FACT names the id in its sources array) returned 54. The
+  two disagree because this project records citation in article source NOTES,
+  not in fact sources arrays, so the first measure counts a passing mention as
+  worked. Most of the 54 are the annual-report series already ruled exhausted at
+  f_5542 and their French twins. ONE was genuinely untouched, and its own record
+  said so in words: "not read closely and no fact has been extracted from it
+  individually."
+  WHAT IT HELD. The camp's WINTER PROGRAMME, described in full: "a lift, THREE
+  downhill slopes, 20 miles of trails for cross-country skiing and snowshoeing,
+  a club house and a baby-sitting service," instruction directed by LEO
+  ROBITAILLE, contacts Mrs. Olga Hall on the YMCA switchboard and Mrs. Elaine
+  Robitaille on a private line. Printed in French as well.
+  IT CORRECTS THIS WIKI. winter-programming.md credited the 1976 guidebook with
+  "twenty miles of blazed trails and a clubhouse -- a size and a building this
+  project had from nowhere." All three of those, babysitting included, are in
+  the association's own words THREE YEARS EARLIER, with the same twenty-mile
+  figure. The guidebook is first for describing the club to the PUBLIC, not for
+  the facts. Corrected in place with the superseded wording kept. The slopes had
+  also grown from two to three since the 1972-73 report, and "will AGAIN be
+  carried on" says 1973-74 was not the first winter. Fills the 1972-73 to 1975
+  gap in that timeline.
+  AND A LEAD, marked as a lead. The article names finding whose house the Outing
+  Club's 1977 Châteauguay address was as the thing worth chasing. Four years
+  earlier its public contact is a Mrs. ELAINE ROBITAILLE on a non-YMCA line,
+  sharing a surname with the man running its instruction. Suggestive, not proof
+  -- nothing ties that number to Châteauguay -- and written that way.
+  ALSO: camping was constituted as a BRANCH in the 1974 financial campaign, with
+  its own volunteer chairman (P. Davey) beside Downtown, Northwestern and
+  Verdun-LaSalle, so it was not funded out of a general pool.
+  SEPARATELY, f_5460's reservation is now CONTROLLED rather than asserted. The
+  Wayback availability API still returns empty for five arossseaman.tripod.com
+  variants against a live control (tripod.com). And the CDX failure was itself
+  controlled: cdx queried for tripod.com, which certainly has captures, returns
+  HTTP 000 exactly as the arossseaman query does. web.archive.org is unreachable
+  from this environment -- root, cdx and timemap all 000, a direct snapshot 403,
+  the proxy reporting ws_closed_mid_exchange -- while archive.org answers
+  normally. The conclusion and the reservation both stand.
+  Verify green. Timestamp read from `date -u` in its own call.

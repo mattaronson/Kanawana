@@ -7977,7 +7977,8 @@
         "src_ymf_sgw_ymca_annual_report_2001_2002",
         "src_ymca_bulletin_1970_02_13",
         "src_ymf_the_green_triangle_1976_09",
-        "src_ymf_the_green_triangle_1982_11_15_eng"
+        "src_ymf_the_green_triangle_1982_11_15_eng",
+        "src_ymf_news_release_1973_10_26"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -7987,7 +7988,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 4128,
+      "word_count": 4441,
       "tags": {
         "era": [
           "1970s",
