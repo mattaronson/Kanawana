@@ -7940,7 +7940,9 @@
         "src_ymf_1987_10_montreal_ymca_day_camp_report",
         "src_ymf_1988_02_26_day_camp_recommendations",
         "src_ymf_sgw_ymca_annual_report_2001_2002",
-        "src_ymca_bulletin_1970_02_13"
+        "src_ymca_bulletin_1970_02_13",
+        "src_ymf_the_green_triangle_1976_09",
+        "src_ymf_the_green_triangle_1982_11_15_eng"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -7950,7 +7952,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 3930,
+      "word_count": 4128,
       "tags": {
         "era": [
           "1970s",
@@ -9394,7 +9396,9 @@
         "src_ymf_the_green_triangle_1935_08_04",
         "src_ymf_the_green_triangle_1936_10_17",
         "src_ymf_the_green_triangle_1936_08_01",
-        "src_ymf_the_green_triangle_1938_06_02"
+        "src_ymf_the_green_triangle_1938_06_02",
+        "src_ymf_the_green_triangle_1976_09",
+        "src_ymf_the_green_triangle_1982_11_15_eng"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -9405,7 +9409,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 2887,
+      "word_count": 3136,
       "notes": "2026-07-11: Workstream C3 spawn -- newsletter/award/symbol synthesized into standalone article, cited as a source in 13+ articles but never its own subject. No new research conducted. Corrected two dangling source_id references (src_web_readers_digest_buckland -> src_readers_digest_buckland; src_ia_green_triangle_1938 -> src_green_triangle_1938) in kb/facts.json while preparing this article. | 2026-08-14 p_226: applied the programs/places BLOCKING fixes from the p_218 audit.",
       "tags": {
         "era": [

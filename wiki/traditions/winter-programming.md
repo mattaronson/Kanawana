@@ -1,7 +1,7 @@
 # Winter and Year-Round Programming
 
-*Status: E1-reviewed | Sources: 22*
-*Last Updated: 2026-09-07 (the family ski day went national a fortnight later, and the camp's own director did not)*
+*Status: E1-reviewed | Sources: 23*
+*Last Updated: 2026-09-07 ("White Kanawana", a named four-day winter programme of 1982-83)*
 
 ## Overview
 
@@ -145,6 +145,20 @@ David Leduc managed Camp Kanawana's summer and winter programs, including recrui
 ![“Kanawana Outing Club” badge, c.1960s](../../assets/images/artifacts/badge-outing-club.jpg)
 *A “Kanawana Outing Club” YMCA cloth badge, c.1960s — evidence of an off-season/outing program. Copyright All rights reserved by Kanawana.*
 
+**"White Kanawana", 1982–83.** The camp's November 1982 circular to campers and parents carries a full
+prospectus and registration form for a named winter programme.^23 **Four days**, **$85.00** with a $25
+deposit, **35 campers** with "priority going to 1982 senior campers," first come first served, accepted
+campers "notified by phone by December 3." The registration form asks three questions that describe the
+programme better than its prose does — whether the camper has their own **cross-country skis**,
+**snowshoes** and **skates** — and the staffing is "myself plus at least six others from our summer
+staff," so the winter programme was run by the summer people. The mailing address is "**WHITE
+KANAWANA**, YMCA of Montreal, 1441 Drummond Street."
+
+The name occurs nowhere else in this project. It sits between the Kanawana Outing Club, which the
+September 1976 circular announces as coming, and the winter operations documented elsewhere in this
+article; whether White Kanawana was a rebranding of the Outing Club's camper programme, a separate
+residential offering beside it, or a single season's experiment is not stated.
+
 ## Open Questions
 
 1. ~~[Important] When exactly did Winter Outdoor Family Camping begin in the 1970s? What did it involve?~~ [Resolved 2026-07-09 as to the named programme; **qualified 2026-09-06** — a West Island Branch family ski day was running Saturdays at Kanawana and already at capacity in the winter of 1969-70, three years earlier; see the section above and [f_5101]] Winter 1972-73, per the YMCA's own Annual Report: ski lift, two groomed downhill slopes, cross-country/snowshoe trails, all-ages courses, toddler babysitting service — one year after an initial 1971-72 ski tow.
@@ -184,6 +198,7 @@ David Leduc managed Camp Kanawana's summer and winter programs, including recrui
 20. Montreal YMCA day camp reports of **July 1985** and **October 1987**, and the **Day Camp Recommendations of 26 February 1988** [src_ymf_1985_07_montreal_ymca_day_camp_report, src_ymf_1987_10_montreal_ymca_day_camp_report, src_ymf_1988_02_26_day_camp_recommendations]. Read for their Kanawana content 2026-09-06 under p_441; these are day camp documents and the camp appears once or twice in each. See [f_5117].
 21. Montreal YMCA annual report 2001-2002 [src_ymf_sgw_ymca_annual_report_2001_2002], "YMCA Kamp Kanawana - A Year of Firsts". Read 2026-09-06 under p_454.
 22. YMCA Bulletin, 13 February 1970, "for information / all staff / key lay persons" [src_ymca_bulletin_1970_02_13]. A national reprint of the 29 January Montreal item; transcribed at `sources/cache/ymca-national/2026-09-07-national-bulletin-1970-reprints-the-soup-item.txt`. Found by the accounted sweep of `rma-concordia-publications` under p_479. See [f_5417].
+23. *The Green Triangle*, **September 1976** and **15 November 1982** [src_ymf_the_green_triangle_1976_09, src_ymf_the_green_triangle_1982_11_15_eng] — the two surviving issues of the revived paper. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 
 ## Research Notes
 

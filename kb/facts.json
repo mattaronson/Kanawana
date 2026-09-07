@@ -1,8 +1,8 @@
 {
-  "version": "9.96",
-  "kb_version": "9.96",
+  "version": "9.97",
+  "kb_version": "9.97",
   "migrated_from": "3.3",
-  "fact_count": 5483,
+  "fact_count": 5485,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -97898,9 +97898,11 @@
         "The Green Triangle",
         "Derek Walsh"
       ],
-      "claim": "THREE KANAWANA DOCUMENTS ARE NAMED IN THE 1978 BULLETIN THAT THIS PROJECT DOES NOT HOLD. (1) 'Enclosed is THE KANAWANA CREST AND INTERPRETATION' -- so a written interpretation of the camp crest was circulated to staff in 1978. This wiki has no document explaining the crest. (2) A 'KAMPER INFORMATION BOOKLET', sent to campers, containing the staff medical form, which staff were told to be familiar with. (3) 'A GREEN TRIANGLE WILL FOLLOW NEXT WEEK.' THE THIRD REFINES SOMETHING THE WIKI ALREADY HAS RATHER THAN ADDING IT: wiki/documents/green-triangle.md already records the 1978-1982 revival, so a Green Triangle in early May 1978 is expected. What is new is the ADDRESSEE. That article describes the Green Triangle as the CAMPERS' newsletter; this issue was promised to STAFF, in the pre-season, alternating with Ka-News as a staff mailing. The revived Green Triangle was therefore not simply the 1930s campers' paper resumed.",
+      "claim": "THREE KANAWANA DOCUMENTS ARE NAMED IN THE 1978 BULLETIN THAT THIS PROJECT DOES NOT HOLD. (1) 'Enclosed is THE KANAWANA CREST AND INTERPRETATION' -- so a written interpretation of the camp crest was circulated to staff in 1978. This wiki has no document explaining the crest. (2) A 'KAMPER INFORMATION BOOKLET', sent to campers, containing the staff medical form, which staff were told to be familiar with. (3) 'A GREEN TRIANGLE WILL FOLLOW NEXT WEEK.' THE THIRD REFINES SOMETHING THE WIKI ALREADY HAS RATHER THAN ADDING IT: wiki/documents/green-triangle.md already records the 1978-1982 revival, so a Green Triangle in early May 1978 is expected. What is new is the ADDRESSEE. That article describes the Green Triangle as the CAMPERS' newsletter; this issue was promised to STAFF, in the pre-season, alternating with Ka-News as a staff mailing. The revived Green Triangle was therefore not simply the 1930s campers' paper resumed. [CORRECTED 2026-09-07, later the same day: the last sentence above is too narrow. Both surviving issues of the revived Green Triangle -- September 1976 and 15 November 1982 -- are addressed to CAMPERS AND THEIR PARENTS, not to staff. The revived title was a DIRECTOR'S CIRCULAR sent to whichever constituency a mailing needed. See f_5522. The sentence is kept because the 1978 observation it rests on is correct; what was wrong was generalising from it.]",
       "sources": [
-        "src_ymf_ka_news_1978_04_28"
+        "src_ymf_ka_news_1978_04_28",
+        "src_ymf_the_green_triangle_1976_09",
+        "src_ymf_the_green_triangle_1982_11_15_eng"
       ],
       "confidence": "stated",
       "conflicts_with": [],
@@ -98871,6 +98873,41 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.96",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5522",
+      "category": "documents",
+      "date_ref": "1976-1982",
+      "entities": [
+        "The Green Triangle",
+        "Camp Kanawana"
+      ],
+      "claim": "THE REVIVED GREEN TRIANGLE WAS A DIRECTOR'S CIRCULAR, NOT A NEWSPAPER -- CORRECTING A READING MADE EARLIER THE SAME DAY. f_5467 concluded from Derek Walsh's staff bulletin of April 1978, which promises 'a Green Triangle will follow next week', that the revived title was used 'in rotation for pre-season staff communication'. TOO NARROW. BOTH SURVIVING REVIVED ISSUES ARE ADDRESSED TO CAMPERS AND THEIR PARENTS. September 1976 opens 'Greetings to all Kanawanians!' and closes with lost-property hours, 'the enclosed letter is for your parents', and notice of the coming Kanawana Outing Club ski season. November 1982 opens 'To all campers, and their parents, Greetings!' and runs to a registration form with a line for a parent's signature. SO WHAT IT ACTUALLY WAS is a director's circular sent out of season over the camp office's name at 1441 Drummond Street, to whichever constituency a given mailing needed -- campers and parents in 1976 and 1982, staff in the pre-season of 1978. IT CARRIED THE OLD TITLE AND ALMOST NOTHING ELSE OF THE OLD PAPER: no gossip column, no sport section, no campers' contributions, no Snoop and no Dorothy Dix. The 1932-1940 Green Triangle was written by boys to be read aloud to boys; its namesake of 1976-1982 was written by the director to be read at home. THE EARLIER SENTENCE IS KEPT IN THE ARTICLE AND CORRECTED BENEATH IT.",
+      "sources": [
+        "src_ymf_the_green_triangle_1976_09",
+        "src_ymf_the_green_triangle_1982_11_15_eng"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.97",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5523",
+      "category": "programs",
+      "date_ref": "1982-11",
+      "entities": [
+        "Camp Kanawana",
+        "White Kanawana"
+      ],
+      "claim": "'WHITE KANAWANA', A NAMED FOUR-DAY WINTER PROGRAMME FOR 1982-83. The camp's circular of 15 November 1982 carries a full prospectus and registration form: FOUR DAYS, $85.00 with a $25 REFUNDABLE DEPOSIT, THIRTY-FIVE CAMPERS with 'priority going to 1982 senior campers', first come first served, accepted campers 'notified by phone by December 3'. Staffing is 'MYSELF PLUS AT LEAST SIX OTHERS FROM OUR SUMMER STAFF', so the winter programme was run by the summer people. The registration form asks three questions that describe the programme better than its prose: whether the camper has their own CROSS-COUNTRY SKIS, SNOWSHOES and SKATES. The mailing address is 'WHITE KANAWANA, YMCA of Montreal, 1441 Drummond Street'. THE NAME OCCURS NOWHERE ELSE IN THIS PROJECT. It sits between the Kanawana Outing Club, announced as coming in the September 1976 circular, and the winter operations documented elsewhere; whether it was a rebranding of the Outing Club's camper programme, a separate residential offering, or one season's experiment is not stated. THE SAME LETTER gives a 1982 programme list -- Klondike Day, the Eagle, Kanawoodstock, Indian Day, the Totem Pole, swim meet, M.I. Day, the Lumbermen-Voyageurs Games and Green Triangle -- 250 people in camp at once, and 54 staff and C.I.T.s returning on 2-3 October to help YVES TASSE bring in the swimming and boating docks. Its author says '**it was my first summer at Kanawana**', which is a directorial datum for a thinly documented decade, but the letter is UNSIGNED in this scan.",
+      "sources": [
+        "src_ymf_the_green_triangle_1982_11_15_eng"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.97",
       "added_by": "ralph_loop"
     }
   ]

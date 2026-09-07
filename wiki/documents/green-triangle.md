@@ -1,7 +1,7 @@
 # The Green Triangle
 
-*Status: draft | Sources: 13*
-*Last Updated: 2026-09-07 (the Gas Bag was its predecessor; it was read aloud until the printed paper of 1937)*
+*Status: draft | Sources: 14*
+*Last Updated: 2026-09-07 (the Gas Bag was its predecessor; and the revived paper was a director's circular, correcting an earlier reading)*
 
 ## Overview
 
@@ -156,6 +156,10 @@ Beyond the publication and the award, "Green Triangle" functioned more broadly a
 
 The 1978–1982 revival recorded above has a witness from outside the run itself, and it changes the readership. Derek Walsh's staff bulletin of **28 April 1978** — an issue of *Ka-News*, the other revived title — signs off: "That's all for now gang… **A Green Triangle will follow next week**."^10 The Green Triangle promised there was going to the camp's **staff**, in the pre-season, in April, alternating with *Ka-News* as a staff mailing. This article describes the Green Triangle throughout as the campers' newsletter, which the 1932–1940 run plainly was. The revived paper of 1976–1982 was, at least in this instance, something else: the two titles appear to have been used in rotation for pre-season staff communication, not resumed as a summer paper for boys.
 
+**[CORRECTED 2026-09-07, later the same day. The sentence above concluded from that one document that the two titles were used "in rotation for pre-season staff communication." That was too narrow, and the two surviving revived issues show why. It is kept as written and corrected here.]** Both surviving issues of the revived paper are addressed to **campers and their parents**, not to staff.^14 September 1976 opens "Greetings to all Kanawanians!" and closes with lost property, an enclosed letter "for your parents," and notice of the coming Kanawana Outing Club ski season. November 1982 opens "To all campers, and their parents, Greetings!" and runs to a registration form with a line for a parent's signature.
+
+**So what the revived Green Triangle actually was is a director's circular**, sent out of season over the camp office's name at 1441 Drummond Street, to whichever constituency a given mailing needed — campers and parents in 1976 and 1982, staff in the pre-season of 1978. It carried the old title and almost nothing else of the old paper: no gossip column, no sport section, no campers' contributions, no Snoop and no Dorothy Dix. The 1932–1940 *Green Triangle* was written by boys to be read aloud to boys. Its namesake of 1976–1982 was written by the director to be read at home.
+
 ## Open Questions
 
 1. [Important] What did the Green Triangle award's "series of feats" actually consist of, beyond Buckland's single anecdotal account? No source itemizes the specific requirements.
@@ -185,6 +189,7 @@ The 1978–1982 revival recorded above has a witness from outside the run itself
 11. *The Green Triangle*, Vol. 1 No. 1, **23 July 1932** — the first issue [src_ymf_the_green_triangle_1932_07_23]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1932-07-23.txt`. Held since 2026-08-25 at read_state "skimmed", read word for word 2026-09-07 under p_482, in the systematic issue-by-issue read the article's open question 2 asks for.
 12. *The Green Triangle*, Vol. IV No. 7, **4 August 1935**, and Volume 5, **Re-union Number, 17 October 1936** [src_ymf_the_green_triangle_1935_08_04, src_ymf_the_green_triangle_1936_10_17]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 13. *The Green Triangle*, **1 August 1936** ("An Issue in verse") and the issue opening volume 45, **2 July 1938** [src_ymf_the_green_triangle_1936_08_01, src_ymf_the_green_triangle_1938_06_02]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. **Note the date discrepancy on the second**: the Internet Archive item is identified as `1938-06-02` and the cache file follows it, but the masthead reads "Kamp Kanawana - Saturday, July 2, 1938". July 2 1938 was a Saturday; June 2 was a Thursday. The masthead is preferred.
+14. *The Green Triangle*, **September 1976** and **15 November 1982** [src_ymf_the_green_triangle_1976_09, src_ymf_the_green_triangle_1982_11_15_eng] — the two surviving issues of the revived paper. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 
 ## Research Notes
 
