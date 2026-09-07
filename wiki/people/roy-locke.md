@@ -1,7 +1,7 @@
 # Roy D. Locke
 
-*Status: draft | Sources: 13*
-*Last Updated: 2026-08-14*
+*Status: draft | Sources: 14*
+*Last Updated: 2026-09-06 (his obituary found; the Montreal West identification settled)*
 
 ## Overview
 
@@ -73,6 +73,48 @@ Locke … June 1953**" a decade later.^11
 most valuable single documents for the camp's 1950s operation, and it is a specific thing to ask
 Concordia for — tracked as `p_285`.
 
+## Death, full name, and the identification this article had refused to make
+
+**Roy Douglas Locke died at Montreal West on 19 September 1991, aged 71.** He was born in Toronto about
+1920, which makes him about twenty-seven when he became Camp Chief in 1947. His entry in *The Canadian
+Obituary Record* runs:^14
+
+> "**LOCKE, ROY** municipal politician [b. Toronto, Ont., c. 1920; d. Montreal West, Que., 19 September
+> 1991, age 71]. **Roy Douglas Locke** was a former mayor of the suburban Montreal community of Montreal
+> West. Locke graduated from the **University of Toronto** and worked initially with the Young Men's
+> Christian Association (YMCA) in Toronto[…] **business from 1954 to 1969, then returned to the YMCA as
+> director of financial development until 1986**. He served on the **town commission of Montreal West
+> from 1973 to 1989, first as commissioner of recreation, then for 12 years as mayor**. Locke was
+> particularly proud of his work in developing parks and protecting green spaces in the community. Locke
+> headed the financial campaign for the **Fraser Hickson Library** in Notre Dame de Grace, Quebec, **and
+> was a director of Camp Kanawana**, a children's camp in the Laurentians. He is survived by his wife,
+> **Patricia, née Binns**, daughter **Vicky Chantler** and three grandchildren. (MG 20 and 21 Sep [1991])"
+
+**The section below this one was written to say that the mayor of Montreal West and the Kanawana camp
+chief were probably the same man and that no document joined them.** One does. The obituary gives both
+in a single entry, and the middle initial matches: the camp's records say "Roy D. Locke", and the
+obituary says Roy **Douglas** Locke. The section is kept as written, because the reasoning that declined
+the identification was right to decline it on what was then available.
+
+Two more things fall into place. The 1986 Metropolitan Staff roster listing him as **Director, Funding
+Development** is the end of the YMCA return the obituary dates "until 1986". And the 1978 director's
+report thanking "the Town of Montreal West and **Mayor Roy Locke**" for the loan of water meters falls
+inside a mayoralty of twelve years within a commission service of 1973–1989 — so the camp borrowed its
+water meters from its own former camp chief.
+
+**One tension, not smoothed over.** The obituary puts him in business from 1954 to 1969. The Montreal
+YMCA's own 1954 Annual Report has him succeeding N. A. Millington at Westmount Branch on 1 September
+1954.^2 Either the Westmount posting was brief and he left the association soon after taking it, or the
+obituary compresses fifteen years into a phrase. Both are documented; neither is preferred here. The
+gap in the reconstruction falls exactly there — the clause between "in Toronto" and "business from 1954
+to 1969" was not recovered, and it is the clause that would cover his Montreal years, Kanawana included.
+
+*How this was read.* The volume is lending-restricted on the Internet Archive and cannot be opened from
+here. The entry was assembled from about a dozen overlapping phrase queries against Open Library's
+search-inside endpoint, which returns snippets from restricted books; the method and its limits are at
+[f_4933], and the reconstruction with its queries is cached.^14 The underlying obituary — the *Montreal
+Gazette* of 20 and 21 September 1991 — has not been read, and would carry more.
+
 ## A Possible Later Life
 
 The 1978 Kamp Kanawana director's report thanks, among its donors and lenders, "**the Town of Montreal
@@ -123,6 +165,7 @@ That is the direct ancestor of the **Camp Plant Manual** the 1965 annual report 
 11. *Canadian Camping* Vol. 16 No. 1, December 1963 — cumulative subject index [src_ia_canadian_camping_collection].
 12. *Kamp Kanawana Director's Report 1978*, acknowledgements [src_ia_ymca_montreal_fonds_collection].
 13. *Canadian Camping*: officer lists June 1949, February 1951, April 1952 and April 1954, and Roy D. Locke, "A Manual of Operations," June 1953 [src_ia_canadian_camping_collection]. See [f_2472]. The 1965 successor is at [f_2403].
+14. Robert M. Stamp (ed.), *The Canadian Obituary Record* (Toronto: Dundurn Press), entry "LOCKE, ROY", Internet Archive scan leaf 266 [src_stamp_canadian_obituary_record]. **One entry only**, reconstructed 2026-09-06 from about a dozen overlapping Open Library search-inside queries, with one internal gap not recovered; the volume is lending-restricted and has not been read, and the printed page number is unknown. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-stamp-obituary-roy-locke.txt`. See [f_4935], [f_4933].
 
 ## Research Notes
 

@@ -1,7 +1,7 @@
 # A. Ross Seaman
 
-*Status: E1-reviewed | Sources: 15*
-*Last Updated: 2026-09-05*
+*Status: E1-reviewed | Sources: 18*
+*Last Updated: 2026-09-06 (Cornwall answered: Executive Director of the YM-YWCA there by 1974, after Kanawana)*
 
 ## Overview
 
@@ -28,7 +28,7 @@ camping movement itself described him in 1967, and it begins at **age ten**. And
 wife: **"Mr. Seaman married Margaret Bradley and has three children, Derek, aged 16, Suzanne, aged 14
 and Dawn aged 3."**^9 Margaret Seaman's maiden name was **Bradley**, which this wiki did not have.
 
-After graduating from Sir George Williams University, Seaman entered community work and the camping movement through the YMCA.^2 ^3 At some point in his career, he offered a colleague a position at the Cornwall YMCA.^3 The chronology and extent of his YMCA roles before Kanawana are undocumented. A newly found lead (2026-07-10): Camp Perrot's 1952 annual report thanks Seaman as "Past Director of Camp Perrot," a YMCA service camp on Île Perrot, and a 1959 internal memo from that camp records him personally planting trees there "about 1950" — placing a Camp Perrot directorship before his Kanawana tenure.^7 A "Margaret Seaman" served as Camp Perrot's Girls' Camp Director in 1952, plausibly the same Margaret who was Seaman's wife (see Personal Life and Legacy, below). **[Confirmed 2026-08-25.]** A June 1967 profile of Seaman in *Canadian Camping* states of his wife: "Mrs. Seaman, also a keen camper, has directed Camp Perrot (girls' section), Camp Chapleau of the Old Brewery Mission and the Junior League Camp of Montreal."^8 That attributes the Camp Perrot girls'-section directorship to Mrs. Seaman directly, closing the identification, and establishes a camp-directing career of her own across three separate organizations — the YMCA, the Old Brewery Mission, and the Junior League of Montreal. See [[connections/related-camps/camp-lighthall|Camp Lighthall]], which is the Junior League camp under its later name. See [[site/camp-perrot|Camp Perrot]] for the primary-source detail.
+After graduating from Sir George Williams University, Seaman entered community work and the camping movement through the YMCA.^2 ^3 At some point in his career, he offered a colleague a position at the Cornwall YMCA^3 — and by **1974** he was that association's **Executive Director**, at 421 - 5th Street East, per the *Directory of Canadian Welfare Services* for that year.^17 Cornwall therefore comes **after** Kanawana, not before. The chronology and extent of his YMCA roles before Kanawana are undocumented. A newly found lead (2026-07-10): Camp Perrot's 1952 annual report thanks Seaman as "Past Director of Camp Perrot," a YMCA service camp on Île Perrot, and a 1959 internal memo from that camp records him personally planting trees there "about 1950" — placing a Camp Perrot directorship before his Kanawana tenure.^7 A "Margaret Seaman" served as Camp Perrot's Girls' Camp Director in 1952, plausibly the same Margaret who was Seaman's wife (see Personal Life and Legacy, below). **[Confirmed 2026-08-25.]** A June 1967 profile of Seaman in *Canadian Camping* states of his wife: "Mrs. Seaman, also a keen camper, has directed Camp Perrot (girls' section), Camp Chapleau of the Old Brewery Mission and the Junior League Camp of Montreal."^8 That attributes the Camp Perrot girls'-section directorship to Mrs. Seaman directly, closing the identification, and establishes a camp-directing career of her own across three separate organizations — the YMCA, the Old Brewery Mission, and the Junior League of Montreal. See [[connections/related-camps/camp-lighthall|Camp Lighthall]], which is the Junior League camp under its later name. See [[site/camp-perrot|Camp Perrot]] for the primary-source detail.
 
 ## Camp Kanawana (1959–1967)
 
@@ -56,7 +56,30 @@ Seaman held office in organised camping for most of his career, and the camping 
 
 He was **Secretary of the Quebec Camping Association** from about 1949, and the April 1951 issue records how it ended: "Ross Seaman, secretary of the QCA for the past two years, has been **forced to resign from that position due to his recent appointment to the Lachine YMCA**." That independently dates his move to the Lachine branch, which this article had from the YMCA's own records alone. He was in charge of registration for the National-Quebec Conference held that spring at the Sir Arthur Currie Gymnasium.
 
-He is QCA Secretary again in the 1962 and 1963 officer lists.
+**The 1962-63 secretaryship was national, and this article had it wrong.** An earlier version of this
+paragraph read "He is QCA Secretary again in the 1962 and 1963 officer lists." The list in question is
+the **Canadian Camping Association's** masthead, printed under the heading "CANADIAN CAMPING
+ASSOCIATION, 2233 Belgrave Avenue, Montreal 28, Quebec," and it reads "Secretary — Mr. A. Ross Seaman,
+4140 Jean Renou, Lachine, Que."^16 The address is the giveaway: 4140 Jean Renou is his own, and it is
+printed in the *national* masthead. He stands there in February 1962, June 1962 and February 1963,
+having taken the post from **Mrs. Agnes Mutchler**, who held it as Corresponding Secretary in December
+1961.^16 So while he was directing Kanawana he was also secretary of the national association — an
+office that was in Montreal at all only because the CCA's head office was, throughout **Kenneth H.
+Murray's** presidency.
+
+It ended when the office left town. The **April 1963** masthead is headed "CANADIAN CAMPING
+ASSOCIATION, 4322-4a Street S.W., Calgary, Alberta," with **Miss Eleanor Logan** of the Edmonton YMCA as
+Secretary under a new president, **Dr. Don Smith** of Edmonton.^16 Seaman's national secretaryship
+therefore ran from February 1962 to no later than February 1963, and the Montreal era of the CCA ended
+with it.
+
+*Whether he held the provincial secretaryship in those same years is not settled here, only unproven.*
+No Quebec Camping Association officer list appears in any cached issue between December 1961 and June
+1963 — across those eight issues the phrase "Quebec Camping Association" occurs exactly once, in the
+notice of the joint CCA / QCA / Association des camps du Québec convention of 22-24 March 1962 at the
+Sheraton Mount Royal — and the April 1962 and December 1962 issues carry no masthead page in the
+digitized text at all.^16 That is a fact about what survives in this run, not about what the
+association did.
 
 **His two association offices can now be dated exactly, where this article previously had only a range.** He became the **Canadian Camping Association's vice-president for Quebec** in **December 1966**, replacing Robert Lazanik on the masthead, and was off the national executive by the **spring 1968** masthead, which gives Quebec's vice-presidency to Mrs. N. D. Demetelin.^13 And he was **president of the Quebec Camping Association** until **23 September 1967**, when a new Provincial Board was elected at International Camping Day at Expo 67 — Sophia Demetelin president, with "Robert Lazanik, **A. Ross Seaman** and Reverend Lionel Perras, vice-presidents" — so he stepped down from the presidency to a vice-presidency on that date, which brackets his QCA presidency to roughly 1966 to September 1967.^14 The winter 1968 issue's description of him as "immediate past president" of the English section follows from this. **So through the whole of Kanawana's centennial year Seaman was simultaneously the camp's director, the province's association president, and Quebec's vice-president on the national board** — which is worth holding beside the [[history/centennial-1967|Centenary Journey]], since the man writing Kanawana's letters to parents that August was also the man Quebec camping was being run by.
 
@@ -64,12 +87,18 @@ He is QCA Secretary again in the 1962 and 1963 officer lists.
 
 **He was still in Quebec camping ten years after leaving Kanawana.** The report of the Quebec Camping Association English Section's **40th anniversary conference, 25-27 March 1977**, names "an impressive list of past presidents of Q.C.A. in attendance, namely; **Norrey Owens, Zave Ettinger, Ross Seaman, Bob Lazanick, Peter van Wagner, Bill McCarthy and Val Willis**."^11 That is a dated appearance for Seaman a full decade after his Kanawana directorship ended and twenty-eight years after he first became the association's secretary — and it places him in the same room as **O. N. H. Owens**, the Kanawana Committee chairman who had endowed the Order of Owens at Kanawana the previous summer (see [[traditions/order-of-owens|The Order of Owens]]). The two men had also served together on the QCA executive in 1954, Owens as president and Seaman as conference chairman.
 
+**A press release calls him a past president of the QCA, and this article does not adopt it.** The Montreal YMCA's bilingual release of 28 November 1969 announces that the three main camping sites — "Kanawana, Les Voyageurs et Perrot" — now constitute a special branch of the association, headed by "Monsieur A. Ross Seaman, du Métropolitain, **ancien Directeur de Kanawana et ancien Président de l'Association des Campeurs du Québec**."^18
+
+That is a claim of the **presidency** of the Quebec Camping Association. Everything above documents him as its **secretary**, from about 1949 until the forced resignation of 1951, and the 1962-63 office as secretary of the *national* association rather than the provincial one. A French press column paraphrasing an English-language office is exactly where "secretary" becomes "président," and the QCA's own officer lists in *Canadian Camping* are the better evidence. Recorded as a claim someone made in 1969, not as an office he held.
+
+**The same release dates the camping branch.** "Les trois principaux sites de campement du YMCA — Kanawana, Les Voyageurs et Perrot — **constituent maintenant une succursale spéciale du Y**," with Seaman directing it.^18 This wiki knows that reorganisation only from a Concordia listing, "Montreal YMCA Camping Branch Board of Management. – 1969-1970." The release puts it in place by **November 1969**, names its head, and lists its three constituent sites — which is also independent evidence that Camp Perrot was still an active YMCA camping site at the end of 1969.
+
 ## Open Questions
 
 1. [Critical, **partly answered 2026-09-05**] What are Seaman's full biographical details — birth year, full name, education beyond SGW? **The death date is now exact: 23 October 1987**, from the memorial fund notice in *Canadian Camping Magazine* (Winter 1988), which narrows any obituary search to the last week of October and the first weeks of November 1987. The rest is unresolved. A further pass (genealogy sites, FindAGrave, Vankleek Hill obituary aggregators) found nothing new. The Vankleek Hill newspaper "The Review" (archived from 1893) very likely carries an October/November 1987 obituary, but its own online archive is not full-text searchable — this requires a paid GenealogyBank-style subscription search or direct contact with the newspaper or a Vankleek Hill funeral home, not further web queries.
 2. ~~[Important] What specific programming changes did Seaman make at Kanawana during 1959–1967?~~ [Largely resolved] The 1966-67 Annual Report documents his "participatory democracy" philosophy and 1966 season structure directly (see above); earlier years of his tenure remain undocumented.
 3. [Important, re-confirmed 2026-07-09] Who succeeded Seaman as director after 1967? (Ross Bannerman authored a Kanawana report in 1969 and had a YMCA International Branch file c.1968–1970. Concordia sub-sub-series P0145/12B01 holds a May 1969 director's report and a run of unattributed "Director's Annual Reports" for 1970-1975 — the online finding aid does not name authors for these; physical consultation remains the only path to identify the author/successor.)
-4. [Nice-to-have] What was Seaman's role at Cornwall YMCA — was this before or after his Kanawana directorship?
+4. ~~[Nice-to-have] What was Seaman's role at Cornwall YMCA — was this before or after his Kanawana directorship?~~ **[Answered 2026-09-06.] After, and the role was the whole association's.** The *Directory of Canadian Welfare Services* for **1974** lists "**YM-YWCA of Cornwall — A. Ross Seaman, Executive Director — 421 - 5th Street East, P.O. Box 332**".^17 He directed Kamp Kanawana from 1959 to 1967 and is Executive Director at Cornwall by 1974. This project had only an oral-history fragment for the Cornwall connection — that he "offered a colleague a position" there — and now has a dated printed entry with a title and a street address.
 5. [Nice-to-have] Is Margaret Seaman still involved with the memorial fund?
 
 ## Related Articles
@@ -96,3 +125,8 @@ He is QCA Secretary again in the 1962 and 1963 officer lists.
 13. *Canadian Camping* Vol. 19 No. 2 (December 1966) masthead, naming A. Ross Seaman vice-president for Quebec in place of Robert Lazanik, and the Spring 1968 masthead showing the office passed to Mrs. N. D. Demetelin [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issues 72 and 78). See [f_3226], [f_3296].
 14. Sophia Demetelin, "International Camping Day at Expo," *Canadian Camping*, Winter 1968 — report and photograph caption giving the QCA Provincial Board elected 23 September 1967 [src_ia_canadian_camping_collection]. Found by the re-read (issue 77). See [f_3287].
 15. Tom Creighton, Atlantic Provinces report on the first Atlantic Provinces Regional Camp Directors' and Administrators' Seminar, Moncton, N.B., 17–19 November 1967, *Canadian Camping*, Winter 1968 [src_ia_canadian_camping_collection]. Found by the re-read (issue 77). See [f_3288].
+16. *Canadian Camping* mastheads, Vol. 13 No. 4 (June 1961) through Vol. 16 No. 2 (February 1964) [src_ia_canadian_camping_collection]; cached in full under `sources/cache/canadian-camping/`. The four that carry the point: December 1961 (Agnes Mutchler, Corresponding Secretary), February 1962 and June 1962 (Seaman, Secretary, Montreal office), February 1963 (Seaman still), April 1963 (Eleanor Logan, Calgary office). See [f_4928], [f_2991], [f_3051].
+
+
+17. *Directory of Canadian Welfare Services / Répertoire des services sociaux canadiens* (Ottawa: Canadian Council on Social Development, 1974), Internet Archive scan leaf 218 [src_directory_canadian_welfare_services_1974]. **One entry only**, recovered 2026-09-06 by Open Library search-inside; the volume is lending-restricted, page images return HTTP 403, and it has not been read. See [f_4962].
+18. Montreal YMCA bilingual news release, **28 November 1969** [src_ymf_news_release_1969_11_28], French column. Cached at `sources/cache/ymca-montreal-fonds/news-release-1969-11-28.txt`; read 2026-09-06 under p_451. See [f_5104].

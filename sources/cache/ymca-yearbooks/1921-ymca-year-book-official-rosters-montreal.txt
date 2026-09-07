@@ -1,0 +1,180 @@
+SOURCE EXTRACT — read from the full djvu text, 2026-09-06
+=========================================================
+YMCA YEAR BOOK AND OFFICIAL ROSTERS (1921)
+New York: Association Press. Internet Archive: ymcayearbookoffi00youn
+
+NOT LENDING-RESTRICTED. The complete djvu text (1,826,321 bytes) was downloaded and searched.
+
+IT IS AN ANNUAL North American roster of every YMCA association, branch by branch, with every paid
+officer named and titled — plus an alphabetical index of employed officers giving each man's post AND
+HIS YEAR OF ENTRY INTO ASSOCIATION WORK. This volume was found by running "Harold C. Cross" in the
+p_430 name sweep.
+
+[CORRECTED 2026-09-06, within the hour. This file first said "THIS SERIES WAS UNKNOWN TO THIS
+PROJECT BEFORE 2026-09-06". IT WAS NOT. Five volumes of the same series — 1893, 1894, 1895, 1896,
+1897 — were downloaded and cached in this repo on 2026-09-05 under p_405, sitting in this very
+directory as ymca_yearbook_189N_djvu.txt, all marked read_state: read. The claim was written without
+running the one grep that rule 2 exists to require.
+
+WHAT IS ACTUALLY TRUE IS WORSE AND MORE USEFUL. Those five volumes were read for their PROVINCIAL
+NARRATIVE REPORTS, and searched for "camp", "tent" and "Ottawa". None of those strings reaches a line
+that reads "Phys. Director, W. H. Ball, Jr." So the founding-era staff of the association that
+founded the camp sat in this project's own cache for a day, in files marked read. **A source marked
+READ is read FOR SOMETHING**, and the next question is not covered by the last one's search terms.
+The 1893-97 rosters are now read and recorded at f_4966.]
+
+FIRST, THE NULL, BECAUSE IT MATTERS FOR HOW THE SERIES IS USED:
+  "Kanawana" occurs ZERO times in the volume.
+  "summer camp" and "boys' camp" occur ZERO times.
+  The Quebec section contains the word "camp" ZERO times.
+THIS IS A ROSTER OF ASSOCIATIONS AND THEIR STAFF, NOT OF THEIR PROGRAMMES. It will never name the
+camp. What it names is THE MEN, with their posts and their start dates, which is precisely what this
+project lacks for the camp's first forty years.
+
+
+===============================================================================
+1. THE YMCA OF MONTREAL, COMPLETE STAFF ROSTER, 1921
+===============================================================================
+
+QUEBEC
+Montreal, 127 Dnimmond St.
+President, A. O. Dawson
+Gen. Secy., J. W. Beaton
+Consisting, D. A. Budge
+Associate, J. O. Lough
+Business, John S. Gibb
+Industrial, John G. MacKinnon
+Community, R. Gordon Burgoyne
+Community, Grant D. Brandon
+Central Br., 127 Drummond St.
+Chairman, A. J. Meiklejohn
+Secy., J. Morley Carson
+Asst. {Office), Frank Spence
+Asst. {Office), William Henry Caradine
+Membership, F. B. Wilson
+Social, H. J. Swetman
+Educational, Anson W. Young
+Physical, Merwin F. Furey
+Asst. Physical, Hay Finlay
+Asst. Physical, O. S. McCutcheon
+Asst. Physical, W. C. White
+Boys, R. E. G. Davis
+Asst. Boys, F. Owen Stredder
+North Br., 2300 Park Ave.
+Chairman, Gordon L. Cohoon
+Secy.,
+Montreal, North Br.
+Physical, Reginald P. Thomas
+Boys, Geoffrey Guiton
+Asst. Boys, Robert E. Blake
+Asst. Boys, G. S. Mooney
+Westmount Br., 4585 Sherbrooke St., West
+Chairman, J. P. Atkinson
+Secy., Cecil L. Brown
+Physical, H. C. Patterson
+Boys,
+Asst. Boys, Percy H. Long
+R. R. Br., 2 Sebastapol St.
+Chairman, Charles Manning
+Secy., J. S. Teet
+Turcot R. R. Br., Turcot Roundhouse
+Chairman, C. A. Manning
+Secy.,
+McGill University
+Gen. Secy., J. G. McKay
+
+
+WHAT IS IN THAT LIST FOR KANAWANA:
+
+  **Industrial, John G. MacKinnon** — the camp's leader in 1916, 1917, part of 1918 and 1919. THE
+  FULL FIRST NAME IS NEW, and it probably resolves a split in `directors-index.md`, which carries
+  "John McKinnon, Boys' Work Secretary at Central" for the 1915 split season and "J. G. MacKinnon"
+  for 1916-19 as if they might be two men. The index below gives his entry into Association work as
+  1915, which is exactly when "John McKinnon" appears. Same man, on this evidence, with the 1915
+  annual report spelling the surname Mc.
+
+  **Community, Grant D. Brandon** — the camp's director in 1921 and its relief director for a
+  fortnight in August 1918. THE FULL FIRST NAME IS NEW: this project had only "G. D. Brandon".
+
+  **Asst. Physical, Hay Finlay** (Central Branch) — the camp's Senior Section Director in 1922. Note
+  the title carefully: the 1922 brochure calls him "ex-Central YMCA Boys' Physical Director", and the
+  1921 roster has him as ASSISTANT PHYSICAL at Central, with the Boys' secretary at Central being
+  R. E. G. Davis. The brochure's phrasing is looser than the roster's. RECORDED, NOT RECONCILED.
+  Note also that "Hay" is printed as a given name in an alphabetical list of surnames — so it is his
+  name and not an initial, which the name sweep could not settle from the camp's own paper.
+
+  **Consulting, D. A. Budge** — the general secretary of the founding era, still on the staff in
+  1921 in a consulting role, forty-seven years after entering Association work (see the index).
+
+  **President, A. O. Dawson** — noted only because `people/ralph-dawson.md` cannot identify Ralph H.
+  Dawson. A. O. Dawson is a DIFFERENT man and no connection is claimed; the name is recorded so that
+  a later pass does not mistake one for the other.
+
+AND THE ADDRESS: **127 Drummond St.** in 1921, for the association and for the Central Branch. Every
+later directory this project holds gives 1441 Drummond. The move is undated here.
+
+
+===============================================================================
+2. THE ALPHABETICAL LIST OF EMPLOYED OFFICERS
+===============================================================================
+Its own header and legend, printed at the top of the list:
+
+    "ALPHABETICAL LIST OF EMPLOYED OFFICERS
+     June 1, 1921
+     The figures after each name indicate THE YEAR OF ENTRY INTO ASSOCIATION WORK"
+
+The entries for men this project has reason to care about, quoted exactly:
+
+    Cross, H. C., Victoria, B. C., Boys', 12
+    Brandon, G. D., Montreal, Que., Community, 13
+    Finlay, Hay, Montreal, Que., Central, Asst. Physical, 14
+    MacKinnon, J. G., Montreal, Que., Industrial, 15
+    McEwen, N. F., St. John, N. B., Boys', 18
+    Budge, D. A., Montreal, Que., Consulting, 74
+
+**HAROLD C. CROSS IS THE BIG ONE.** `harold-cross.md` says he was "based at the Victoria, British
+Columbia YMCA from 1919 to 1925 (role unspecified; LIKELY Boys' Work Secretary or similar)". The
+1921 roster prints, under BRITISH COLUMBIA / Victoria: "Physical, W. S. Maguire — **Boys, Harold C.
+Cross**". So the role is no longer "likely". And the index's "12" pushes his entry into YMCA employed
+work back to **1912**, seven years before the Victoria period this project dates from — which opens a
+question that did not exist yesterday: **where was he between 1912 and 1919?**
+
+Others: NELSON F. McEWEN gains a middle initial and a start — Saint John, New Brunswick, Boys' Work,
+entered 1918 — a quarter-century before the national boys' work secretaryship this project holds him
+in. D. A. BUDGE entered Association work in **1874**.
+
+NOT IN THE 1921 LIST AT ALL: Spinney, Powter, Ereaux, Charlton, Owens. That is not a null about the
+men; the list is of PAID OFFICERS, and Spinney was a schoolmaster and Powter a schoolmaster with his
+own camp. It is consistent with what f_4958 and f_4960 established — the camp's educational and
+section staff were volunteers and seasonal employees drawn from the schools, not association
+secretaries.
+
+
+===============================================================================
+3. WHAT THE SERIES IS WORTH — the reason this file exists
+===============================================================================
+This is ONE YEAR of an annual series. Every volume gives, for every association in the United States
+and Canada: the complete named staff by branch, and an index of every employed officer with his post
+and his year of entry. For a project whose hardest problem is that its camp directors are initials on
+a brochure, that is the single most useful reference series found so far — better than the camping
+literature, because the camping literature starts in 1936 and this does not.
+
+THE SERIES IS ENUMERATED. The Internet Archive's scrape API
+(`services/search/v1/scrape?q=identifier:ymcayearbook*`) returns NINETEEN items:
+
+  ymcayearbookof1891younuoft   ymcayearbookof1895younuoft   ymcayearbookof1907younuoft
+  ymcayearbookof1892younuoft   ymcayearbookof1896younuoft   ymcayearbookof1908younuoft
+  ymcayearbookof1893younuoft   ymcayearbookof1897younuoft   ymcayearbookoffi00youn  (1921)
+  ymcayearbookof1894younuoft   ymcayearbookof1906younuoft   ymcayearbookoffi01youn  (1922)
+  ymcayearbookand00amergoog (1907)   ymcayearbookand00assogoog (1896)
+  ymcayearbookand01amergoog (1882)   ymcayearbookand01assogoog (1921)
+  ymcayearbookand02amergoog (1886)   ymcayearbookand02assogoog (1891)
+  ymcayearbookoffi0000unse  (1936, the only one that may be restricted)
+
+THE CATALOGUE'S `year` FIELD IS WRONG FOR THE younuoft SCANS — it gives 1890 for all ten. The year
+is in the identifier and should be confirmed from inside the volume; the 1894 one carries a Redpath
+Lyceum advertisement for "the Season of 1894-95" and an insurance statement dated 31 December 1893.
+
+Five volumes (1893-97) are ALREADY IN THIS REPO and their rosters are now read (f_4966). The
+remaining unread years are **1891, 1892, 1906, 1907, 1908, 1922** and the four Google scans, plus
+1936. Tracked as p_433.

@@ -1,7 +1,7 @@
 # Camp Kanawana: Founding and Early History (1892-1923)
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-08-14*
+*Last Updated: 2026-09-06 (the first camp committee's men were already in the association's provincial machinery)*
 
 ## Summary
 
@@ -19,7 +19,7 @@ The same report's statistical summary confirms it — "Attendance at Summer Camp
 
 **Two streams, one lake.** The same 1894-95 report records, in its *Physical Department* section rather than the Junior one: "The Association has leased land from the Government and the fishing rights of a lake near St. Agathe, and purpose using it as a summer camp for our members… Last year **53 members** took advantage of this privilege." From 1896 the reports state the split explicitly — "28 junior members and 40 senior members." So the boys' camp of 23 and an adult members' camp of 53 ran in parallel on the same leased water. *Inference, labelled:* only the Junior line becomes Kanawana; the Senior line stays on Lac St. Joseph and becomes [[site/camp-otoreke|Camp Otoreke]]. The association later says so itself — its 1965 report calls the Otoreke site "**the original location of Kamp Kanawana**."^ar
 
-**The first committee**, from the same report's officers list: "Summer Camp. **John W. Ross**, Chairman. **E. J. Coyle**. **R. L. Charlton**." By 1896 this is a standing "Permanent Camp Committee" of John W. Ross, Jas. Wilson, **W. E. Cushing** and R. B. Ross Jr.^ar
+**The first committee**, from the same report's officers list: "Summer Camp. **John W. Ross**, Chairman. **E. J. Coyle**. **R. L. Charlton**." *All three were already association men when they took it on.* Ross would be **President of the YMCA of Montreal** by the 1906 Year Book and was still on the YMCA's International Committee in 1921; **R. L. Charlton** had sat on the **Ontario and Quebec Provincial Committee appointed in February 1891**, three years before this, alongside D. A. Budge, the reformer Herbert Ames and the banker George Hague — so the camp's first committee was not assembled from enthusiasts but from men already inside the association's provincial machinery.^ymcayb By 1896 this is a standing "Permanent Camp Committee" of John W. Ross, Jas. Wilson, **W. E. Cushing** and R. B. Ross Jr.^ar
 
 ### "Camp Jubilee" is not the association's name for it
 
@@ -98,6 +98,16 @@ Its title is itself evidence: a *seventh* annual report in 1900 counts the serie
 the Camp Committee reported annually from the founding year. Only two of those reports are digitized,
 both from 1900; the other six are not online. Getting them read is tracked as `p_288`.
 
+## Twenty years before: what the association's boys' work was in 1874
+
+The association's annual report for **1874** — a volume this project did not hold until 2026-09-07 — lists among its regular meetings a **Boys' Prayer Meeting on Friday evenings**, and describes where it came from:^ar1874
+
+> "This work commenced with **a few school boys**, who, by prayer, and earnest work amongst their fellows, in a short time succeeded in frequently gathering **an attendance of 120 and upwards**. There were occasions when the supervision of a responsible representative of the Committee, became needful; but on the whole, a good work was accomplished… This meeting is still held every Friday evening, but **the attendance now averages about 20 to 25**."
+
+**The association's work with boys began as something the boys ran and adults supervised when they had to**, reached over 120, and had fallen to a fifth of that by 1874. That is the state of Montreal boys' work twenty years before the first camp, and it sits directly beside the claim the association printed in 1944 that "the first organized boys' work in Canada was begun by the Montreal and Toronto Y.M.C.A.'s in **1873**" (see [[history/oldest-camp-question|The Oldest Camp Question]]). This is Montreal's report for the very next year, saying what that work actually was.
+
+**Two names on the same pages matter here.** The secretary is **D. A. Budge**, twenty years before he is the general secretary at the camp's founding. And the board includes a **C. Cushing** — which pushes that family's service to the association back thirteen years before the 1887 *Year Book* lists Charles Cushing as corresponding member for Quebec, and twenty-one before the Point St. Charles benefactors' list of 1895. *Which Cushing is not established*: the report gives an initial in a damaged scan and no first name, and the surname is not rare. The word "camp" does not occur anywhere in the report.^ar1874
+
 ## Precursors: Cushing and the Lake St. Joseph Trips (1892-1893)
 
 According to the Quebec Anglophone Heritage Network (QAHN), Lemuel Cushing brought a group of boys to Lake Saint-Joseph in Saint-Adolphe-d'Howard in 1892. The Concordia archives (fonds P145, sub-series 12L) contain camper lists, financial records, and fishing rights documentation dating to 1893, confirming organized activity at the site a full year before the conventional 1894 founding. Separately, sub-series 12A holds a "Report — trip to St. Agathe" dated 1893/1895, described as the "Journal of the first Montreal YMCA venture to explore the country round about St. Agathe with the view of securing a lake on which to establish a Summer Camp." This document confirms the YMCA was actively scouting the Laurentian territory for a permanent camp site as early as 1893. Whether 1893 represents a continuation of Cushing's initiative or a separate test run by Ball is not established. What *is* now established is the planning body behind it: the 1951 "Kamp Kanawana History" records that in the fall of 1892 "a Committee of Messrs. J. W. Ross, W. E. Cushing, W. W. Wilson, T. Duncan Patton and W. H. Ball, was appointed," and that the origin lay in a fishing trip General Secretary D. A. Budge made to Lac Des Isles that summer with a Director of the Association — the train then running only as far as Ste-Jérôme, the rest by horse and cart.^h51
@@ -116,7 +126,11 @@ Concordia's 1893 "Report — trip to St. Agathe" journal — explicitly the reco
 
 The relationship between Cushing's 1892 trip and Ball's 1894 Camp Jubilee remains unclear. They may represent successive stages of the same initiative, with Cushing's trip being an informal precursor and Ball's the formal institutional launch. A direct re-read of the QAHN article (2026-07-09) confirms this ambiguity is real, not a research gap: the article treats the two as separate, non-linked mentions with no stated causal or organizational relationship, and does not mention Billy Ball at all. The only material that could resolve this — W.E. Cushing's 1943 "Historical sketches — Lake St. Joseph" and R.L. Charlton's 1943 "Notes re Early Days," both in Concordia Box HA2307 — exist only as physical, non-digitized items.
 
-Two YMCA institutional publications confirm — by their silence — that no permanent camp existed before 1894. The 41st Annual Report of the YMCA of Montreal (published May 19, 1892) states the Association had no suitable grounds: "The Out-door Work suffers from the disadvantage of not owning suitable grounds," with land priorities centred on an athletic ground at Point St. Charles rather than a rural camp.^br Likewise, the 1901 *Historical Sketch of the YMCA of the City of Montreal, 1851-1901*, prepared for the YMCA's own jubilee, contains no reference whatsoever to summer camping — all of its "camp" references concern militia camps.^br That a 50-year retrospective written in 1901 omits the camp suggests that, even seven years after Camp Jubilee's 1894 founding, summer camping was not yet regarded as a significant institutional program. The Cushing family appear in both documents as YMCA officers (Charles, Walter, and P.H. Cushing in 1891-92), but in connection with governance, not camping.^br
+Two YMCA institutional publications confirm — by their silence — that no permanent camp existed before 1894. The 41st Annual Report of the YMCA of Montreal (published May 19, 1892) states the Association had no suitable grounds: "The Out-door Work suffers from the disadvantage of not owning suitable grounds," with land priorities centred on an athletic ground at Point St. Charles rather than a rural camp.^br Likewise, the 1901 *Historical Sketch of the YMCA of the City of Montreal, 1851-1901*, prepared for the YMCA's own jubilee, contains no reference whatsoever to summer camping — all of its "camp" references concern militia camps.^br That a 50-year retrospective written in 1901 omits the camp suggests that, even seven years after Camp Jubilee's 1894 founding, summer camping was not yet regarded as a significant institutional program.
+
+**The two reports that would cover the 1892 trip are silent too, and they had never been searched for it.** The annual reports for the years ending 30 April 1893 and 30 April 1894 were read in full for "camp", "tent", "outing", "excursion", "St. Joseph", "Howard" and "Agathe". **The 1892-93 report returns nothing on any of them.** The 1893-94 report returns only a militia camp, where "the Association placed a tent with full equipment for reading" — and the word *Jubilee* in its own sense, the YMCA's fiftieth anniversary, which that report celebrates at length and which is presumably why the camp founded that summer took the name.^aa
+
+A trip in the summer of 1892 falls inside the year the 1892-93 report covers, so its absence there is evidence — weak but real — that the trip was not an association activity, or was not one the association reported. It is not proof of anything: these are OCR'd scans, a section can be lost or illegible, and the association plainly did not report everything its members did. It sits **against**, not over, the QAHN account and the Concordia fonds' camper lists and fishing-rights documentation dated 1893. The Cushing family appear in both documents as YMCA officers (Charles, Walter, and P.H. Cushing in 1891-92), but in connection with governance, not camping.^br
 
 ## Camp Jubilee at Lake St. Joseph (1894-c.1910)
 
@@ -154,6 +168,7 @@ This article notes above that "both countings were used contemporaneously." The 
 |---|---|---|
 | "Camping since 1894" | 1946 ("the 52nd for boys arranged by the Montreal Association"), 1948 (54th), 1949 (55th), 1966-67 (73rd), 1967 (74th), 1968 (75th), 1977-78, 2005-06 | The first Junior camp at Lac St. Joseph |
 | "Kanawana since 1910" | 1931 ("twenty-one years in its present location"), 1939 (29th season), 1984 ("its 75th year of service"), 1985 ("for the past 75 years") | The Saint-Sauveur site |
+| *(loose publicity arithmetic)* | 1963 news release: "In the **68 years** that Kamp Kanawana has been in existence" — which lands on 1895, not 1894^nr63 | Neither of the above |
 
 **So the 75th anniversary was celebrated twice — in 1968 and again in 1984.** And the camp has two centennials in the record: the 1993 report says Kanawana is "celebrating its 100th anniversary this year," while the 1994 report says "This was Kanawana's 100th year of operation." Neither is an error; they are different clocks, and the 1993 one is running on yet a third date (1893). See [[history/centennial-1994|The 1994 Centennial]].
 
@@ -221,6 +236,7 @@ The 1923 brochure and 1935 history together describe a camp that had grown into 
 
 ## Sources
 
+- **ar1874** — YMCA of Montreal Annual Report, **1874** [src_ia_sgw_ymca_annual_report_1874], Internet Archive item `sgw-ymca-annual-report-1874`, in the `ymca-montreal-fonds` collection. Found 2026-09-07 by the enumeration at [f_5243]; read for its officers and its boys' work, the rest not read. See [f_5255].
 - YMCA Quebec official history page (ymcaquebec.org/en/summer-camp-kanawana/history)
 - QAHN article: "The YMCA Camp of Saint-Adolphe d'Howard" (qahn.org)
 - Concordia University Archives, YMCA of Montreal fonds P145, sub-series 12L (Lac St-Joseph/Camp Jubilee)
@@ -228,6 +244,8 @@ The 1923 brochure and 1935 history together describe a camp that had grown into 
 - 1923 Kanawana brochure (previously extracted)
 - 1935 History of Kamp Kanawana (Internet Archive, djvu.txt extraction)
 - 1941 CFCF radio broadcast script (Langille)
+- **^ymcayb** — *Year Book and Official Roster of the Young Men's Christian Associations of North America*, the volumes for **1891** (the Ontario and Quebec Provincial Committee, appointed February 1891) and **1906-1908** (John W. Ross as President of the Montreal association) [src_ymca_yearbook_1891], [src_ymca_yearbook_1906], [src_ymca_yearbook_1907], [src_ymca_yearbook_1908]. None is lending-restricted; all were downloaded whole and searched, and "Kanawana" occurs in none of them. Cached at `sources/cache/ymca-yearbooks/`. See [f_4970], [f_4967].
+- **^nr63** — Montreal YMCA news release, **22 April 1963** [src_ymf_news_release_1963_04_22]. Cached at `sources/cache/ymca-montreal-fonds/news-release-1963-04-22.txt`; read 2026-09-06 under p_451. A publicity summary of the association's year, not a history — its "68 years" is recorded as a datum about how the camp described itself, not as a third considered founding date. See [f_5105].
 - Montreal Gazette, July 7, 1897: "YMCA Summer Camp Kanawana" — earliest known newspaper reference [src_gazette_1897]
 - Montreal Gazette, July 11, 1918: "At Camp Kanawana" — record 110 attendance, YMCA London filming [src_gazette_1918]
 - ^br: YMCA of Montreal 41st Annual Report (1892) and Historical Sketch of the YMCA of Montreal 1851-1901, both on Internet Archive; retrieved via operator browser research, June 2026 [src_ia_ymca_annual_1891_92, src_ia_historical_sketch_1901]
@@ -250,3 +268,5 @@ The 1923 brochure and 1935 history together describe a camp that had grown into 
 - **2026-02-05** (v1) — Initial draft from KB synthesis.
 
 [jc] *Report of the Junior Camp Committee, 1900* [src_ymf_1900_11_30_report_of_the_junior_camp_committee], read in full 2026-08-25; and *Seventh Annual Report of the Current Camp Committee*, 10 December 1900, digitized without an OCR layer and therefore unread. See [f_2322], [f_2323].
+
+aa. YMCA of Montreal, annual reports for the years ending **30 April 1893** [src_ymf_sgw_ymca_annual_report_1892_1893] and **30 April 1894** [src_ymf_sgw_ymca_annual_report_1893_1894]. Both cached in this repo; **searched for the camp for the first time 2026-09-06** under p_440. See [f_4995], and [f_4994] for the Junior Department committee the 1893-94 report prints.

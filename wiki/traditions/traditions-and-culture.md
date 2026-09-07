@@ -1,7 +1,7 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 35*
-*Last Updated: 2026-08-14*
+*Status: E1-reviewed | Sources: 40*
+*Last Updated: 2026-09-06 (a last-day ritual the camp never printed, from an American family's memoir of the late 1920s)*
 
 ## Overview
 
@@ -67,6 +67,10 @@ Documented ceremonies from the archives include:^10 ^11
 
 End-of-season traditions included all-season camper banquets (1938 and 1939), Best Camper Shields, and time capsule burials.^5 ^11
 
+**And one the camp itself never printed.** Everything above comes from Kanawana's own paper — programmes, newsletters, catalogue titles, a thesis working from the fonds. A book about something else entirely gives a ceremony none of them mentions. Jan Elvin's *The Box from Braunau: In Search of My Father's War* (2009), describing her father's Quebec boyhood, says that at the end of a session "**early in the morning, all the campers observed the camp ritual of jumping into the cool lake bare naked**."^37 Her father and his brother went "every summer" after the family moved to Drummondville in 1926, so this is the Harold Cross years.
+
+It is worth being plain about why this is not in the camp's own record. A camp writing to parents prints the 6.30 morning dip with its physical exercises, which this project has from the camp's own early literature, and does not print the naked one on the last morning. That is not concealment; it is what a brochure is for. The consequence for anyone using this wiki is that **the absence of a tradition from the camp's publications is not evidence that it did not exist**, and the way to find the rest of them is books by people who were not writing for the camp.
+
 ## The Camper's Oath
 
 Every camper and their parent/guardian must read and sign a formal bilingual "Serment du campeur / Camper's Oath," explicitly tied to the motto Non Nobis Solum. Recovered copies from 2010 and 2013 are nearly word-for-word identical, indicating a stable, standardized text across at least that period. The oath commits campers to respect the natural environment, treat campers and staff with respect and courtesy, use appropriate language, respect others' belongings, follow all safety regulations (on camp and on canoe trip expeditions), abstain from alcohol, illegal substances, and tobacco during their stay or expedition, and contribute to the camp community through joy, enthusiasm, and humour. Breach of the safety provisions can result in immediate dismissal from camp or from a canoe trip expedition. The signed copy is kept on file at the camp office.^29
@@ -95,13 +99,30 @@ Crucially it was an **inter-branch** competition — North Branch, Central and W
 | Year | Aquatics | Athletics |
 |---|---|---|
 | 1917 | North Branch | Westmount |
-| 1918 | *[ditto]* | Central |
-| 1919 | *[ditto]* | *[ditto]* |
-| 1920 | Central | *[ditto]* |
+| 1918 | " | Central |
+| 1919 | " | " |
+| 1920 | Central | " |
 | 1921 | Westmount | Westmount |
-| 1922 | *[ditto]* | *[ditto]* |
+| 1922 | " | " |
 
-**The ditto readings are an inference and are marked as such.** The OCR renders the repeat marks as garbage characters — "sf", "s", "ce", "ef", "es" — which is consistent with ditto marks but not proof of them. The *named* entries are certain; the repeats need a page image to confirm. Who M. E. Williams was, when the cups were first given, and when they lapsed are all undocumented.
+So in full: **Aquatics** — North Branch 1917–19, Central 1920, Westmount 1921–22. **Athletics** — Westmount
+1917, Central 1918–20, Westmount 1921–22.
+
+**Confirmed from the page image, 2026-09-06.** This table previously carried its repeats as
+*[ditto]* with a note that the reading was an inference, because the OCR renders the marks as "sf", "s",
+"ce", "ef" and "es". The page was fetched and read directly: the marks are plain double quotes and the
+inference was right.^36 The heading above the table is a question, not a record — "Which branch will win
+the M. E. Williams cups?" — so 1923 itself is not a result.
+
+**Who M. E. Williams was is still unknown, and there are four Williamses to keep apart.** The name occurs
+**exactly once** in this project's entire source cache: here. The annual reports for 1917 through 1924
+mention no cup, trophy or shield in a camp context, so neither the gift of the cups nor their lapse is
+documented. The reports do carry a **George E. Williams** — on the board 1913–18, an advisory member of
+the Italian Y.M.C.A. board from June 1915, chairman of the committee for Work Amongst Foreigners from
+January 1916 — whose initials are *G. E.*, not M. E., and none of whose recorded work is camp work. He is
+a candidate on dates alone and is not identified here. Two more Williamses are traps: **Sir George
+Williams**, the YMCA's founder, died in 1905 and gave his name to Sir George Williams College; and
+**C. T. Williams** was the association's President around 1899–1902.^36
 
 ### Two lost honours, recovered 2026-08-14
 
@@ -146,6 +167,27 @@ The order overlaps in membership with [[traditions/order-of-owens|the Order of O
 
 **The roll itself.** Twenty-nine people were invested between 1980 and 2009, each named on a dining-hall board with their year and the title Sir or Lady. This wiki recorded three of them until the [[meta/plaque-audit|plaque audit]] of August 2026 recovered the full list. The roll, the cross-references it opens up, and what its considerable gaps might mean are set out in **[[traditions/knights-of-kanawana|The Order of the Knights of Kanawana]]**.
 
+## "We are all Kanawanians": a counsellor's account, 2004-05
+
+The YMCA of Greater Montreal's annual report for 2004-2005 profiles **Ayunda Dube**, and it is the
+only first-person account of arriving at Kanawana as a counsellor that this project holds from any
+year. A native of **Zimbabwe**, he came to Montreal as a refugee at nineteen and found "his first
+home away from home and contacts at the Downtown YMCA"; three years later he was asked to become a
+counsellor at the camp and agreed "without hesitation".^38
+
+What he says about the first day is the part worth keeping, because the camp's own literature never
+puts it this way. **"After having said 'yes', I was scared — scared of being the only black guy at
+the camp — and of not being accepted by the other counsellors."** He had never been to a summer
+camp. On the first day the fear "was immediately dispelled": the counsellors "came from all over in
+the world. There were no racial or cultural distinctions in the group. **At Kanawana, the only
+culture that exists is the camp culture. We are all Kanawanians.**"^38
+
+**Two cautions.** This is a testimonial published by the association in its own annual report, so it
+is the camp describing itself through someone it chose to profile, and it reads as such. And it is
+one person's account of one year, which is what makes it valuable and also what limits it: nothing
+here says the counsellor body was as diverse in any other season, and this project has no other
+account to set beside it.
+
 ## Images
 
 ![The Order of the Knights of Kanawana, 1981](../../assets/images/art/knights-of-kanawana-charter.jpg)
@@ -172,6 +214,29 @@ The order overlaps in membership with [[traditions/order-of-owens|the Order of O
 5. [Important, re-confirmed dead end 2026-07-09] What are the details of the firelighting ceremony (1936) and fire of friendship (1939)? Both are confirmed to be catalog-title-only entries in Concordia's Box HA2315, with no descriptive content in the finding aid itself.^30 One new detail was found: the Fire of Friendship's suggested programme was designed "to be used at the end of a Boy Scout day," per the McMorris thesis (see Ceremonial Traditions above) — but the 1936 firelighting ceremony itself remains wholly undescribed online.
 6. [Nice-to-have, re-confirmed dead end 2026-07-09] Are there other issues of the Green Triangle beyond the 1938-07-29 copy? The full run 1932–1940 is in the Concordia Archives (Box HA1874), but the public finding aid lists it only as a single undifferentiated box-level entry — individual issue dates are not itemized online. Only five total items from this collection are digitized on Internet Archive (the 1923 brochure, 1935 chronicle, the one 1938 Green Triangle issue, the 1941 CFCF broadcast, and a previously uncited May 1980 "Ka-News" issue, which contains no motto/Shawbridge-relevant content). A direct request to Concordia Records Management for the box's item list is the only remaining path.
 7. [Nice-to-have, re-confirmed dead end 2026-07-09] Did "Kamp Kanawana" persist informally (merchandise, staff/alumni culture, signage) after the official spring-2005 spelling change to "Camp"? A fresh sweep across Facebook, Instagram, TikTok, Reddit, Etsy, eBay, Worthpoint, and Wikimapia found no dated evidence of post-2005 informal "Kamp" usage — every hit is either a citation of an object whose own original title used the old spelling, or an unrelated legacy URL slug. One operator recollection places the change in the mid-to-late 2010s — a decade after the documented institutional switch — which may reflect informal persistence not yet found in any dated source, but this remains unconfirmed after two independent search passes.
+
+**The staff turned the motto into an organisation, and it reached Haiti.** The Montreal YMCA's
+annual report for the year ended 31 May 2003: "The Kamp's summer staff founded a **volunteer group
+called Non Nobis Solum** (Kanawana's motto, which means 'not for ourselves alone') whose goal is to
+**organize community outreach projects and raise funds to sponsor youth in our partner YMCA in
+Haiti**."^39 Nothing else in this project mentions the group, a Haitian partner YMCA, or what became
+of either. It is the only instance found so far of Kanawana staff constituting themselves as a body
+outside the camp's own structures.
+
+**And the Haitian partner has a name and a date.** The previous year's report announces it: under
+"**International Programs — Inauguration of the YMCA of Haiti**", "the new YMCA in **Port-au-Prince**
+began its activities with the opening of the **Konbit Youth Centre**", the Creole word *konbit*
+meaning the pooling of community resources.^40 So the association opened a YMCA in Port-au-Prince in
+2001-02, and Kanawana's summer staff formed a group the following year to raise money for youth
+there. **The two reports are one year apart and this article joins them; neither says the other's
+name**, and no source read here follows the group or the partnership past 2003.
+
+**Two more things the same "Year of Firsts" records**, neither of them anywhere else in this
+project. In November, "a large number of the summer campers met up again at the **Westmount YMCA**
+for **Kamp Kabaret** — an evening of songs, skits and laughs", an off-season reunion of campers.
+And "**Kanapalooza** was another first for the camp that could well become an annual event.
+**Monitors past and present staged a benefit concert at Club Soda and raised $2,000** for Kamp
+Kanawana."^40 Whether either was ever held again is not known here.
 
 ## Related Articles
 
@@ -222,4 +287,8 @@ The order overlaps in membership with [[traditions/order-of-owens|the Order of O
 33. Kamp Kanawana season reports and newsletters in the Concordia-digitized YMCA of Montreal fonds: *The Green Triangle*, 29 July 1940 (Red Feather); the 1965 camp publication *The Chestnut* (Golden Arrow, Red Feather Revue); *Kanawana… A Place to Grow*, 1988 (founding dates for the Order of Owens, Knights of Kanawana and Walden Solos); *Kamp Kanawana Director's Report 1987* [src_ia_ymca_montreal_fonds_collection, src_ia_kanawana_place_to_grow_1988, src_ia_kanawana_report_1987].
 34. *The Gas Bag*, "Extra, Vol. 13 No. 1" (1923), Kamp Kanawana official paper (Internet Archive, Concordia-digitized fonds) [src_ia_ymca_montreal_fonds_collection].
 35. *The Green Triangle*, issues of 2 June 1938 and 21 July 1940 [src_ia_green_triangle_collection]. Full-text read of the verified 38-issue corpus, 2026-08-25. See [f_2281].
-
+36. The 1923 *Gas-Bag Extra*, page 1, **read from the page image** on 2026-09-06 [src_ymf_the_gas_bag_extra_vol_13_no_1]; and the YMCA of Montreal annual reports 1913–1924 for the Williams disambiguation [src_ia_ymca_montreal_annual_reports_collection]. See [f_4925], [f_4926].
+37. Jan Elvin, *The Box from Braunau: In Search of My Father's War* (New York: AMACOM, 2009), Internet Archive scan leaf 296 [src_elvin_box_from_braunau_2009]. **One passage only**, reconstructed 2026-09-06 from thirty-eight overlapping Open Library search-inside queries and walked to a subject boundary in both directions; the book is lending-restricted, page images return HTTP 403, and it has not been read. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-two-family-memoirs-elvin-and-torge.txt`. See [f_4952].
+38. YMCA of Greater Montreal annual report 2004-2005 [src_ymf_sgw_ymca_annual_report_2004_2005], the "People with Strong Values" profile of Ayunda Dube. Read 2026-09-06 under p_454. A SELF-AUTHORED PUBLISHED TESTIMONIAL, given by name to the association for its own annual report, not a third-party assessment of a private individual, so the embargo procedure for personal assessments does not apply.
+39. Montreal YMCA annual report 2002-2003, year ended 31 May 2003 [src_ymf_sgw_ymca_annual_report_2002_2003]: the Non Nobis Solum staff volunteer group. Read 2026-09-06 under p_454.
+40. Montreal YMCA annual report 2001-2002 [src_ymf_sgw_ymca_annual_report_2001_2002], "YMCA Kamp Kanawana - A Year of Firsts" and the International Programs page. Read 2026-09-06 under p_454.

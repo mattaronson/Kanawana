@@ -1,13 +1,80 @@
 # Places and Locations at Camp Kanawana
 
-*Status: E1-reviewed | Sources: 22*
-*Last Updated: 2026-08-14*
+*Status: E1-reviewed | Sources: 25*
+*Last Updated: 2026-09-06*
 
 ## Overview
 
 Camp Kanawana occupies a 550-acre site in Saint-Sauveur (municipality of Mille-Isles), in the Laurentian Mountains approximately 90 km north of Montreal [src_ymca_website, src_kanawana_facts]. Over more than a century of continuous operation since 1894, the site has accumulated a complex built landscape: buildings erected and demolished, areas renamed and repurposed, and infrastructure adapted to evolving programming needs. This article inventories the named places, buildings, structures, and features of the Kanawana site, both current and historical.
 
 For the overall site description, lakes, and general geography, see [[site/the-kanawana-site|The Kanawana Site]]. For the Council Ring specifically, see [[site/council-ring|The Council Ring]]. For Lake Wilson, see [[site/lake-wilson|Lake Wilson]].
+
+## The camp on the official map
+
+Everything Kanawana calls a place has, or does not have, a counterpart in Quebec's own toponymic
+register. Read on 6 September 2026, the register settles one name this article had never matched and
+supplies coordinates for the rest.^23
+
+| Camp's name | Official Quebec name | Coordinates | Officialised |
+|---|---|---|---|
+| Lake Kanawana | **Lac Kanawana** | 45.85126 / -74.19633 | 1968-12-05, origin recorded as Algonquin |
+| Lake Wilson | **Lac Wilson** | 45.84374 / -74.19541 | 1968-12-05, origin recorded as English |
+| **Round Lake** | **Lac Rond** | 45.84582 / -74.20147 | 1970-02-27 |
+| the camp itself | **Camp Kanawana**, entity class *Camp* | 45.85444 / -74.19306 | 1985-11-07 |
+| the settlement | **Kanawana**, entity class *lieu-dit* | 45.85 / -74.18333 | 1968-12-05 |
+
+**Round Lake is the one that had been missing.** This wiki has carried it as the third of the camp's
+three lakes since the beginning, on the camp's own word, without a coordinate or an official name
+against it. It is **Lac Rond**, registered in 1970, immediately south-west of Lake Wilson.^23
+
+**Lac des Becs-Scie sits at 45.84855 / -74.20959** — a few hundred metres west of Lac Rond, which is
+exactly why it keeps being mistaken for one of the camp's lakes. It is not: **Lac des Becs-Scie has
+some 240 homes on its shores and an owners' association of its own**, and is not one of Kanawana's
+three private lakes [f_1428].^23
+
+**No island is registered in any of the three lakes.** Whatever the camp has called an island on its own
+water, the province has never named one there.^23
+
+*The immediate neighbours, for anyone reading an old map:* Lac Loranger a kilometre north was **Lac
+Raquette** until 1988; Lac aux Castors east of camp was **Lac Thibault** until 2000; Lac Dawson, over the
+line in Mille-Isles, was **Lac Black** until 1985. And **Lac Tamaracouta**, the Scouts' lake immediately
+south that Kanawana's 1964 purchase reached, is registered with its origin recorded as **Algonquin** —
+the same classification the register gives Kanawana.^23
+
+**Three other camps are official toponyms within a few kilometres**, which makes the register a rough
+map of the local camping trade: **Camp Olier** and **Camp de l'Avenir**, both at Sainte-Anne-des-Lacs,
+neither of which appears anywhere else in this project; and, up at Saint-Adolphe-d'Howard beside the old
+Otoreke site, **Camp Kinkora**, which sits in the *de-officialised* register — "Camp-Kinkora" was
+replaced by "Kinkora, Camp" in 1984, a change of form rather than of name. Camp Tamaracouta itself is
+not registered; only its lake is.^23
+
+## Seven photographs of the camp, 1923
+
+The second page of the *Gas-Bag Extra* of 1923 is headed **"KAMP KANAWANA PICTORIAL REVIEW"** and carries
+seven halftones with blackletter captions, and a wide panorama beneath.^24 It had never been looked at:
+the captions are set inside the plate in blackletter and the OCR read only three of them, so no text
+search this project ran could see the page.
+
+![Kamp Kanawana Pictorial Review, 1923](../../assets/images/historical/1923-kamp-kanawana-pictorial-review.jpg)
+*"KAMP KANAWANA PICTORIAL REVIEW," The Gas-Bag Extra, Vol. 13 No. 1, 1923. Public domain in Canada.*
+
+The captions, in order: **"Stories around the Fire"** (a dark campfire scene); **"Dining Pavilion"**;
+**"Senior Tent-site"** — white wall tents pitched among trees; **"A popular Spot"** — the crowded interior
+of an open-sided pavilion; **"Next?"** — a barber at work on a veranda with boys watching; **"Basketry
+Instruction"** — a table of baskets and craftwork; and **"Wrestling Class."**
+
+**The dining pavilion**, upper right, is a large **log building** with a deep overhanging roof and an
+upper rail or gallery, boys standing along its front. The 1988 facilities table dates the dining hall and
+kitchen to 1919, which would make this a photograph of it four years old.
+
+![Dining Pavilion, 1923](../../assets/images/historical/1923-kanawana-dining-pavilion.jpg)
+*"Dining Pavilion," 1923.*
+
+And the panorama beneath is captioned **"Kanawana from the Water"** — the camp shoreline seen from the
+lake, a tent above the beach and a line of boats or canoes drawn up along the shore.^24
+
+![Kanawana from the Water, 1923](../../assets/images/historical/1923-kanawana-from-the-water.jpg)
+*"Kanawana from the Water," 1923.*
 
 ## Camp Areas and Sections
 
@@ -55,6 +122,32 @@ The camp's indoor gymnasium is named the **Katimavik** [src_ymca_website]. The w
 **A note on how this article first got it wrong.** For a few hours this section said the letter was *undated*, and dated it to 1978 by matching it against the report. The letter was never undated — the first photograph of it was simply cropped above the dateline. The inference happened to land on the right year, which is the uncomfortable part: a correct answer from a false premise leaves nothing to trip over. Where a document is known only from an image, "the document does not say X" should be written as "the image does not show X" [f_4834].
 
 **A coincidence this article declines to resolve.** In the same year the camp opened a hall called Katimavik, a Kanawana staff member was living inside the *federal* **Katimavik** programme — the national youth service created in 1977 — with the October 1978 Ka-News listing "John Lawrence, c/o Katimavik, Box 354, Bridgetown, N.S." and the December issue reporting he "heads out west soon with his group" [f_4832]. The Prime Minister whose government created that programme is the one who signed this camp's letter. **No source connects the two**, and a camp naming a building in Inuktitut in the 1970s needs no federal explanation, so the question is recorded rather than answered [f_4833].
+
+### The Trimingham beacon (unveiled 23 August 1925)
+
+**The camp's earliest documented memorial, and it was a light.** The association's annual report for
+the year ending 31 March 1926, covering the season of 1925: "**A memorial monument in the form of a
+beacon light** in memory of the late **John Trimingham**, a former camp leader, was unveiled on
+**Sunday, August 23rd**, **Rev. Canon Howard** conducting the ceremony of dedication in the presence
+of a large company of campers and friends."^25
+
+The report prints the tablet's wording in full:
+
+> "In memory of
+> **JOHN LOCH TRIMINGHAM**
+> who as a Camper
+> and Leader in Kanawana
+> inspired others by
+> his unselfish life."^25
+
+**Nothing else in this project mentions Trimingham, the beacon, or Canon Howard.** Three things
+follow that are worth stating as questions rather than filling in. **Whether the beacon still
+stands** is unknown — it appears on no map or plaque inventory held here, and a beacon light on a
+lake shore is the kind of structure that is replaced rather than preserved. **How he died** is not
+stated; "the late" and a memorial raised by campers suggest a young death, and 1925 is seven years
+after the Great War, but the report says nothing and neither does this article. And **it predates
+the [[#millen-memorial-craft-shop-dedicated-1960|Millen Memorial Craft Shop]] by thirty-five years**,
+which makes it the earliest memorial structure at Kanawana this project can date.
 
 ### Millen Memorial Craft Shop (dedicated 1960)
 
@@ -111,7 +204,7 @@ Direct re-examination of the 1941, 1980-2001, and 2025 camp maps (2026-07-09) id
 - **Lodge** — a large building near the Post Office/Program Office [f_1791, f_1800].
 - **Bunkhouse** — near the Tee Pee building and the Lookout [f_1791].
 - **Tee Pee** — a specific building on a hill near the Lookout on the 1980-2001 map, distinct from a separately labeled "Tee Pee site" nearer the south shore [f_1791]; the 2025 map lists a "Teepee" building in its F-series (waterfront cluster), suggesting continuity of the name if not necessarily the exact structure [f_1801].
-- **Business Office (B.O.)** and **Program Office (P.O.)** — both appear, unlabeled beyond their initials, on the 1980-2001 map; the 2025 map's fuller legend confirms "B.O." = Business Office and "P.O." = Program Office, correcting an earlier assumption that "P.O." meant Post Office [f_1791, f_1800].
+- **Business Office (B.O.)** and **Program Office (P.O.)** — both appear, unlabeled beyond their initials, on the 1980-2001 map; the 2025 map's fuller legend confirms "B.O." = Business Office and "P.O." = Program Office, correcting an earlier assumption that "P.O." meant Post Office [f_1791, f_1800]. *(A footnote to that correction, added 2026-09-06: the assumption was wrong about the map and right about the institution. Kanawana really did have a post office — a non-accounting summer office of the Dominion of Canada, listed in the Post Office Department's report for 1914-15 and named as a summer office in the Sessional Papers for 1919. See [[site/the-kanawana-site|The Kanawana Site]] and [f_4936]. It is not what "P.O." means on the 1980-2001 map, and the correction stands.)*
 - **Sanctuary**, **Softball Diamond**, **Car Wash** — all labeled on the 1980-2001 map, in the same western cluster as Katimavik and the Rock Climbing Wall [f_1791].
 - **Reseau épurateur** (water-treatment/purification network) — a large building shown on the 2025 map near the Staff Village, part of the camp's environmental infrastructure [f_1800].
 
@@ -230,7 +323,7 @@ A lacrosse field was among the historical camp facilities [f_0230]. The sport re
 
 ### "Indian Grave" Marking
 
-An "Indian Grave" marking existed on the Kanawana camp map [f_0226]. Direct re-examination of the 1941 map (2026-07-09) locates it precisely: on the shoreline/peninsula between Lake Wilson and Lake Kanawana, immediately next to a place labeled "Camp Cliff" [f_1789]. This resolves *where* the marking sits on camp maps, but not what it refers to — no documentation has been found explaining whether this referred to an actual burial site, a naturalistic feature given a romantic name, or a campfire-story location. The marking is consistent with the early camp's broader engagement with romanticized Indigenous imagery documented in the McMorris thesis [src_mcmorris_thesis].
+An "Indian Grave" marking existed on the Kanawana camp map [f_0228]. Direct re-examination of the 1941 map (2026-07-09) locates it precisely: on the shoreline/peninsula between Lake Wilson and Lake Kanawana, immediately next to a place labeled "Camp Cliff" [f_1789]. This resolves *where* the marking sits on camp maps, but not what it refers to — no documentation has been found explaining whether this referred to an actual burial site, a naturalistic feature given a romantic name, or a campfire-story location. The marking is consistent with the early camp's broader engagement with romanticized Indigenous imagery documented in the McMorris thesis [src_mcmorris_thesis].
 
 ### Superintendent's House (Destroyed by Fire, 2023)
 
@@ -347,6 +440,7 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 | 1928 | Boathouse construction records | [f_1787] |
 | 1937 | Trail mapping | [f_1786] |
 | 1941 | Camp map shows Golf Course, Lacrosse Field, Camp Cliff, Indian Grave, Mountain House, Junior Camp | [f_1789, f_1790] |
+| **1925** | **Trimingham memorial beacon light unveiled, 23 August** | ^25 |
 | 1960 | Millen Memorial Craft Shop dedicated | [f_1788] |
 | 1980-2001 | Site map shows Katimavik, Chief's, Lodge, Bunkhouse, Farm House, Block House, and more | [f_1791] |
 | 2018 | Desjardins donates $1M for new community pavilion | [src_lapresse_ymca_2018] |
@@ -400,6 +494,7 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 - [[traditions/traditions-and-culture|Traditions and Culture at Kanawana]]
 - [[traditions/myths-and-legends|Kanawana Myths and Legends]]
 - [[traditions/lv-games|The L&V Games]]
+- [[traditions/winter-programming|Winter and Year-Round Programming]]
 
 ## Sources
 
@@ -425,3 +520,6 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 20. Camp YMCA Kanawana Preparation Guide, Summer 2025 [src_kk_prep_guide_2025]
 21. Kanawana material in the Concordia-digitized YMCA of Montreal fonds: the camp orienteering map (catalogued 1974, internally c.1978+); "Kamp Kanawana History," 6 June 1951 [src_ia_kanawana_history_1951]; YMCA of Montreal Annual Reports 1929, 1952, 1953, 1954 [src_ia_ymca_montreal_annual_reports_collection]; *The Green Triangle* 13 August 1932; Kanawana season reports 1969, 1974, 1976, 1978, 1979 and 1987 [src_ia_kanawana_report_1969, src_ia_kanawana_report_1974, src_ia_kanawana_directors_report_1976, src_ia_kanawana_report_1978, src_ia_kanawana_report_1979, src_ia_kanawana_report_1987]; and *Kanawana… A Place to Grow*, 1988 [src_ia_kanawana_place_to_grow_1988] — whose facilities table gives bracketed construction years including house [1935], infirmary [1945], **lodge [1880's]**, dining hall/kitchen [1919], arts & crafts centre [1932] and bathroom buildings [1945]. *Two of those conflict with the 1951 history, which gives the dining hall as 1920 and the lodge as 1927. The 1880s lodge date is the harder problem: the site was not purchased until 1910, so it would have to be a pre-existing farm structure later converted. Both readings are defensible and neither is adopted here.*
 22. Letter from Prime Minister Pierre Elliott Trudeau to Kamp Kanawana on the opening of its new recreational building, framed original photographed by the operator, 2026-09-05 [src_photo_trudeau_letter_1978]; and the *Kamp Kanawana Director's Annual Report 1978* [src_ia_kanawana_report_1978], which prints an abridged version of the same letter as its frontispiece and supplies the date. Image at `assets/images/documents/trudeau-letter-1978-katimavik.jpg`. See [f_4828], [f_4829], [f_4830].
+23. Commission de toponymie du Québec: the *Toponymes officiels* and *Toponymes désofficialisés* datasets, and the fiches for Lac Kanawana, Lac Wilson, Camp Kanawana and the lieu-dit Kanawana [src_donneesquebec_bnlq_2026], [src_ct_fiches_kanawana_2026]. Queried 2026-09-06 (p_264). See [f_4874], [f_4877], [f_4890], [f_4891].
+24. *The Gas-Bag Extra*, Volume 13 Number 1 (1923), p. 2, "Kamp Kanawana Pictorial Review" [src_ymf_the_gas_bag_extra_vol_13_no_1]. Page image fetched and read 2026-09-06. Images cropped to `assets/images/historical/` and registered in `assets/images/credits.json`. See [f_4927].
+25. YMCA of Montreal annual report for the year ending 31 March 1926 [src_ymf_sgw_ymca_annual_report_1926], covering the camping season of 1925, the Kamp Kanawana pages. Read 2026-09-06 under p_454.

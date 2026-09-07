@@ -1,7 +1,7 @@
 # The CIT/LIT Program
 
-*Status: draft | Sources: 10*
-*Last Updated: 2026-09-04*
+*Status: draft | Sources: 13*
+*Last Updated: 2026-09-07 (the camp as a laboratory for leaders, stated nationally in 1931)*
 
 ## Overview
 
@@ -13,9 +13,52 @@ Camp Kanawana's Counsellor-in-Training (CIT) and Leader-in-Training (LIT) progra
 
 From 1975 onward — the earliest post-1960 CIT record, a plaque naming Lynne Robinson as "Directress" — and regularly through the 1980s, 1990s and into the early 2000s, the program appears on surviving dining-hall and canoe-board plaques, naming successive cohorts and their program directors year over year.^2 This — a continuity record that, taken together with the 1960 plaque, spans at least three and a half decades before the program's most recent documented form. Individual CITs and program directors named on these plaques are already catalogued collectively in [[people/directors-index|Directors and Staff of Camp Kanawana]]'s Section and Program Directors table, consistent with this wiki's policy of treating undocumented recent staff as collective reference-table entries rather than standalone biographical subjects.
 
+## The idea has a date, and it is 1931
+
+**"Camps would then be laboratories for the training of leaders in boys' work."** That sentence is not from Kanawana and not from the 1960s. It is the national **Boys' Work Committee** of the YMCA of Canada, reporting in **January 1931** on what it had learned from visiting sixteen boys' camps, and setting out "three main salients for attack" for improving them.^13
+
+The first was health and safety — "sanitation, culinary arrangements, food supply must be nothing less than the very best if we are to continue to serve the public through boys' camps." The second was the camp as education: **"to afford merely an outing to boys is no longer good enough."** The third was the shift this article is about:
+
+> "Some believe that the emphasis should be shifted **from the boys to their leaders**. Camps would then be **laboratories for the training of leaders** in boys' work… **If any Association had as many leaders in as many hours of training and service in its regular year-round program as it takes for granted in camp, it would consider it the central feature of its year's work.**"^13
+
+A sub-committee was authorised to study it. **The thought that a camp's real product is its leaders was therefore national YMCA policy talk a full generation before Kanawana's own leadership programmes**, and thirty-four years before the camp ran a laboratory training programme for its staff in 1965 and doubled pre-camp from one week to two. *That is an antecedent, not a cause.* Nothing connects the 1931 statement to the 1965 programme, and the two uses of the word differ: in 1931 it is a metaphor for leader-training, in 1965 a specific method out of the human-relations tradition. What it does mean is that when Kanawana began taking its CITs seriously it was not inventing a posture, it was catching up with one.
+
 ## The LIT Track and Notable Participants
 
 A parallel or overlapping "Leader-in-Training" (LIT) designation is also documented: [[people/notable-alumni/notable-alumni|notable alumnus]] Leigh Evans attended Kanawana for six summers — one as a camper, one as a Leader-in-Training, and four as staff — before being named Capitaine of the Voyageur team in the 2012 L&V Games.^4
+
+## A Quebec camp handed its CITs the accreditation standards, 1974
+
+Three years before the association set out what a CIT was owed, the director of a Quebec camp did
+something with CITs that no Kanawana record describes and that is worth setting beside anything this
+wiki says about what CIT training was for.
+
+**Madelene Allen**, Director of Camp Ouareau at St. Donat and a member of the Quebec Camping Association
+Standards Committee, wrote in Winter/Spring 1974 about living with the provincial standards from inside
+an accredited camp: "We view this tome in different lights depending on the time of year… Even though we
+know we have done our best, **we view it with slight trepidation as we leaf through its pages the night
+before the visitor is expected**."^11
+
+Then she gave the standards *and their marking scheme* to her five CITs at the six-week point of their
+training. In pairs, a week each on different sections, they audited the camp: they **interviewed the
+director with pencil and notebook**, shadowed senior staff, were handed the records of programmes and
+the staff lists, and "**inspected the waterfront, examined the canoes, counted the toilets, and checked
+the outlets of the septic tanks after a heavy rain**."^11
+
+**Two things come out of that paragraph.** The first is what a Quebec standards visitation actually
+covered in 1974 — waterfront, craft, sanitation, programme records, personnel records, and the director
+himself under questioning — which is the same inspection Kanawana submitted to, in the same province,
+under the same association, in the same years [f_3785]. The second is that **there was a written marking
+scheme as well as a standards document**: two record classes rather than one, and both worth naming
+explicitly when asking Concordia after Kanawana's accreditation file (`p_339`). If Quebec re-accredited
+annually, what is missing is not a document but a series — an itemised, externally written assessment of
+Kanawana's administration, personnel, site, programme, health and safety, running from about 1960
+[f_3823].
+
+**And as a piece of CIT training it is unusually pointed.** Handing trainees the instrument by which
+adults judge the camp, and letting them apply it to the people training them, is a different proposition
+from the evaluation obligations the association would spell out three years later. No source says
+Kanawana ever did anything of the kind; no source says it did not.
 
 ## What a CIT Was Owed, Nationally, in 1977
 
@@ -47,6 +90,48 @@ Its eleven chapters were: **Camp History & Philosophy**; Camp Facilities, Polici
 
 **The first chapter is camp history**, which continues the pattern this article traces from the 1980 national training outline: a camp's own past was treated as formal curriculum for the people about to lead it, not as folklore. It also means that Kanawana CITs of the mid-1980s — if the camp used the CCA package, which is not documented — would have been taught the camp's history from material the camp itself compiled, and that such material would have been written for teaching rather than for the record. In the same season **the second edition of *The Camp Counsellor's Handbook* by Brian Blackstock and John Latimer** appeared (March 1984, $9.95), "totally revised," covering programme, daily life, the needs and characteristics of different age groups, counselling physically or mentally disabled campers, and activities — the standard Canadian counselling text, by the magazine's former editor and the chairman of the 1983 International Camping Congress.^10
 
+## Cohorts moved together, not one by one
+
+This wiki has described the camper-to-staff progression as a set of individual careers, and the
+[[people/multi-year-index|multi-year index]] now counts it in aggregate — 161 people traceable across
+more than one year, 69 of them from a junior rung to a staff-grade title. Neither of those shows the
+thing the boards actually record, which is that **people came up in groups**. Three cohorts can be
+counted directly, and the counts below were re-derived from the plaque index rather than repeated from
+the knowledge base.^12
+
+**Two-fifths of the 1995 CITs were on staff by 1997.** The "CITS 95" board carries 31 painted entries:
+29 CITs and their two directors. **Twelve of the 29 stand on the "Kanawana Staff 97" board** two
+summers later. That board has 76 names on it, so one CIT cohort supplied roughly a sixth of a staff of
+seventy-six, two years after the fact.
+
+**A whole tent of campers, all of them.** The "We Shower Tent" board of second session 2000 carries ten
+entries — eight campers, plus a counsellor and a tripper. **All eight campers appear on a later
+board**: two as 2002 LITs, two as 2001 CITs and again on Staff 02, two on the Malibu trip of 2001, one
+on a nature trip in 2003 and Malibu in 2006, one as a 2002 Ranger. Not most of the tent. The tent.
+
+**Seven of twenty-four LITs became Junior Counsellors together.** Of the 24 Leaders in Training of
+2008, **seven are on the 2009 Junior Counsellors board**, which has eighteen names — so the 2008 LIT
+cohort was better than a third of the next year's JCs.
+
+The point is not that individuals stayed, which is unremarkable, but that **the unit of continuity at
+Kanawana is the cohort**. A tent or a CIT class formed in one summer is visible as a group on boards
+painted two, three and six years later, in different programmes and at different ranks. That is what
+the 1941 broadcast describes as an ambition — "it is the hope and ambition of each of these to become a
+counsellor after several years of experience and training" — and the boards show it happening to
+groups of friends at once rather than to promising individuals one at a time.
+
+*A note on how the third count was arrived at, because it says something about the method.* The
+knowledge base recorded seven of the 2008 LITs as 2009 JCs; the index could only show six. Checking one
+against the other found the reason: the 2008 board paints "Justin 'JT' Pulfer" and the 2009 board
+"Justin J. Pulfer", and the index normaliser strips a quoted nickname but keeps a middle initial, so
+one person sat in two rows. It is the seventh split of its kind found in this index, and the first
+found by **using the knowledge base as a test of the index rather than as a consumer of it**.^12
+
+*No new names are printed here.* Every individual in these three cohorts is already listed, board by
+board, in the [[people/multi-year-index|multi-year index]] and in
+[[people/directors-index|Directors and Staff of Camp Kanawana]]; this section counts them and does not
+re-publish them.
+
 ## Current Structure: Trailblazers
 
 As of 2026, the CIT program is branded "Trailblazers": a 48-day program (four sessions of 12 days each) for campers aged 16–17.^5 Participants complete over 200 hours of workshops, training sessions, and activities covering creative programming, risk management, team building, and effective communication, capped by a five-day canoe trip.^5 Certifications earned include Standard First Aid and CPR (a 16-hour course) and a CIT certificate from the Association des camps certifiés du Québec (ACC).^5 A separate "Leaders in Training Information Guide" for Summer 2026 documents the current LIT program structure specifically, published as a PDF on the YMCA Quebec website.^6
@@ -77,6 +162,9 @@ As of 2026, the CIT program is branded "Trailblazers": a 48-day program (four se
 8. Barry Lowes, "And How Was Your Summer? — Evaluating Your Camp," *Canadian Camping* Vol. 29 No. 5 (October 1977), p. 4 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 115).
 9. "A Counsellor and C.I.T. Training Program," *Canadian Camping* Vol. 32 No. 5 (October 1980), pp. 4-5, 12 [src_ia_canadian_camping_collection]. Found by the same read (issue 133). A national outline circulated to member camps, not a Kanawana document.
 10. Mary Milne, "Counsellor in Training Manual Review," p. 15, with the CCA Bookstore order form and chapter list; and the *Camp Counsellor's Handbook* 2nd edition advertisement, p. 8 — both *Canadian Camping* Vol. 36 No. 1 (Spring 1984) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 150).
+11. Madelene Allen (Director, Camp Ouareau, and Quebec Camping Association Standards Committee), *Canadian Camping* Vol. 26 No. 2 (Winter/Spring 1974) [src_ia_canadian_camping_collection]. The night before the visitor, and the five CITs auditing the camp against the standards and their marking scheme. See [f_3784], [f_3785], [f_3823].
+12. Kanawana Flickr "Plaque" album [src_flickr_kanawana_plaque_album], via the plaque index at `kb/plaque-audit/person-index.json` — the boards "CITS 95", "Kanawana Staff 97", the We Shower Tent board of 2nd session 2000, the Leaders in Training of Summer 2008 and the 2009 Junior Counsellors board. Counts re-derived from the index 2026-09-06 under p_297. See [f_4932], [f_2340].
+13. National Boys' Work Committee report, *The News Bulletin* Vol. 7 No. 1 (January 1931), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_07_01]. Internet Archive item `the-news-bulletin-vol-07-no-01`, in the `ymca-montreal-fonds` collection. Found 2026-09-07 by the enumeration at [f_5243]. See [f_5250].
 
 ## Research Notes
 

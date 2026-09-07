@@ -1,7 +1,7 @@
 # The 1994 Centennial
 
-*Status: E1-reviewed | Sources: 12*
-*Last Updated: 2026-07-09*
+*Status: E1-reviewed | Sources: 13*
+*Last Updated: 2026-09-06 (the newsletter redated to autumn 1993; the 75th anniversary of 1983)*
 
 ## Overview
 
@@ -11,7 +11,9 @@ Camp Kanawana's centennial was observed in 1994, marking 100 years since Billy B
 
 A commemorative poster titled "Kanawana: 100 years of spirit and leadership" was produced in 1994. It is held in the Concordia University Archives (YMCA of Montreal fonds, sub-sub-series P0145/12B04, Communications).^1 ^2
 
-An alumni newsletter called *The Look Out* was published in 1994 (Vol. 1, No. 3), likely launched in connection with the centennial. The "Vol. 1, No. 3" designation suggests the newsletter was started no earlier than 1993. It is held in Concordia Archives P0145/12B04, Box HA1874, alongside a newly-identified "Kanawana calendar 1993/94" item in the same box.^2 ^12
+An alumni newsletter called *The Lookout* — Vol. 1, No. 3 — was published by the Kanawana Alumni Committee **in the autumn of 1993**, and it is a centennial document: it opens "As Kanawana enters its 100th year the work of the Alumni Committee will become more visible," and it advertises a coffee house at the Block House for Saturday 20 November 1993.^13 [SUPERSEDED 2026-09-06: this paragraph read "was published in 1994 (Vol. 1, No. 3), likely launched in connection with the centennial. The 'Vol. 1, No. 3' designation suggests the newsletter was started no earlier than 1993." The issue itself is dated by its own contents to autumn 1993 — it carries Bruce Netherwood's report on "Kanawana's 99th summer" — and the connection to the centennial is not a suggestion but its own first sentence.] It is held in Concordia Archives P0145/12B04, Box HA1874, alongside a "Kanawana calendar 1993/94" item in the same box.^2 ^12
+
+**The camp had celebrated a different anniversary eleven years earlier.** The association's annual report covering the summer of 1983 records that "Kamp Kanawana celebrated its **75th year of service**," and the following year's report says the camp has been running "for the past 75 years."^13 A 75th year in 1983 counts from **1909** — the Saint-Sauveur site and the Kanawana name — and the camp's own brochures had been counting that way since at least 1929. Somewhere between 1985 and the autumn of 1993 the institution changed its birthday to Billy Ball's 1894 trip and mounted this centennial on it. See [[history/oldest-camp-question|Was Kanawana the First?]].
 
 Tear sheets from local newspapers with advertisements for Kamp Kanawana from 1993–1994 are also held in the same archival sub-series, indicating promotional activity around the centennial period.^1
 
@@ -73,3 +75,4 @@ Bruce Netherwood was Director of Camp Kanawana from 1988 to 1994, meaning the ce
 10. Camp Nakanawa (Tennessee) centennial as comparator. Research campaign 2026-06-22.
 11. YMCA of Montreal Annual Report 1993 (Internet Archive, item sgw-ymca-annual-report-1993); retrieved via operator browser research, June 2026 [src_ia_ymca_annual_1993].
 12. YMCA of Montreal Annual Reports, 1989 (French), 1990, 1994 (English and French) [src_ia_ymca_annual_1989_fr, src_ia_ymca_annual_1990, src_ia_ymca_annual_1994, src_ia_ymca_annual_1994_fr].
+13. *The Lookout* Vol. 1 No. 3 (Kanawana Alumni Committee, autumn 1993) [src_ia_the_lookout_1993], and the YMCA of Montreal annual reports for the years ended **31 May** 1984 and 1985 [src_ymf_sgw_ymca_annual_report_1984, src_ymf_sgw_ymca_annual_report_1985], whose camping seasons are the summers of 1983 and 1984. See [f_5008] and [f_5047]. **[Corrected 2026-09-06:** this note read "for the years ending March 1984 and March 1985." The 1984 report's title page says "for the year ended May 31, 1984." The seasons are unchanged — a June-to-May year contains the earlier summer — but the association used a 31 March year-end only through 1950. See [f_5081].**]**

@@ -1,0 +1,100 @@
+RECONSTRUCTED TEXT — Open Library search-inside, 2026-09-06
+===========================================================
+GUIDE PETIT FUTÉ — CITY GUIDE MONTRÉAL, ÉDITION 2011-2012 (Le Petit Futé, ISBN 9782746930636)
+Internet Archive: guidepetitfuteci0000coll — scan leaf 342; the guide's own index gives page 236.
+
+NOT A SCAN. The book is lending-restricted and has not been read. The entry below was assembled
+from twenty-eight overlapping twelve-word windows returned by
+https://openlibrary.org/search/inside.json (contract at f_4933). Page images return HTTP 403.
+
+
+THE ENTRY, walked forward from the heading
+------------------------------------------
+
+    "CAMP Y KANAWANA
+    514-849-5331
+    www.ymcakanawana.ca
+
+    Premier camp de vacances au Québec, situé à Saint-Sauveur, et membre fondateur de
+    l'Association des camps du Québec, celui-ci propose des programmes de camp d'été résidentiels
+    de 6 à 12 jours aux jeunes de 7 à 16 ans, ainsi que des programmes de leadership et d'aventures
+    en plein air aux campeurs de 11 à 20 ans. En opération du 28 juin au 20 août, le camp Y
+    Kanawana organise des séjours de six jours à huit semaines. Selon leurs intérêts, les jeunes
+    ont accès à des activités de baignade, canot, kayak, trampoline aquatique, tir à l'arc,
+    escalade, hébertisme, cours de survie en plein air, danse, école du rock, théâtre, etc. Les
+    jeunes participent également à des ateliers de sciences naturelles ou à des activités comme
+    La faune gagne du terrain qui permet de les conscientiser à la biodiversité. Cette année, les
+    mordus de rafting et de kayak âgés de 13 à 16 ans pourront profiter au maximum du tout nouveau
+    programme Aventurier Extrême, leur permettant de faire du rafting et du kayak en eau vive, de
+    l'escalade sur roche, ainsi qu'un parcours dans les arbres. Pour les autres, tout aussi
+    téméraires, le camp propose des expéditions de canot-camping inoubliables! Les activités
+    Explorateurs (11 et 12 ans) et Aventuriers (13 à 16 ans) proposent en effet aux jeunes de vivre
+    une excursion de quatre jours, ..."
+
+THE WALK STOPS THERE, mid-sentence. "Une excursion de quatre jours" returns thirty-three hits
+across the corpus — a French guidebook commonplace — and no longer isolates this book. The tail of
+the entry is unrecovered. Accents and apostrophes have been restored from the OCR ("intéréts",
+"tir a Varc", "13 416 ans", "13 8 16 ans", "|'Association"); the words are the book's.
+
+
+WHAT IS NEW HERE
+----------------
+- A SEASON: 28 June to 20 August.
+- A STAY RANGE: six days to eight weeks, with residential programmes of 6-12 days for ages 7-16
+  and leadership and outdoor-adventure programmes for 11-20.
+- ACTIVITIES this project does not hold: **trampoline aquatique**, **école du rock**, **danse**,
+  **théâtre**, and **cours de survie en plein air**.
+- A NAMED BIODIVERSITY ACTIVITY: **"La faune gagne du terrain"**, described as consciousness-raising
+  about biodiversity — which belongs with the environmental-education material and is not in it.
+- **AVENTURIER EXTRÊME**, called "tout nouveau" in this edition: whitewater rafting and kayaking,
+  rock climbing and a tree-top course, for 13-16s. **"Cette année" dates its introduction to 2011
+  or 2012**, and this is the only date this project has for it.
+- The **Explorateurs (11-12)** and **Aventuriers (13-16)** tiers, each running a four-day excursion.
+
+
+TWO CLAIMS THAT ARE THE GUIDE'S, NOT FINDINGS
+---------------------------------------------
+**"Premier camp de vacances au Québec."** A primacy claim in a commercial tourist guide, whose
+entry reads throughout like copy the camp supplied. `canadian-camping-movement.md` has spent three
+revisions taking an ordinal ranking out of this wiki, because Big Cove and Camp Stephens both put
+dates in front of 1894. One more repetition of the camp's own line does not put it back.
+
+**"Membre fondateur de l'Association des camps du Québec."** This is new here and it is not
+verified. This project holds the Quebec association's English Section as founded in **1937** and
+holds **no membership roll for that year**. Whether Kanawana was among the founders is therefore an
+open question — and, unlike the primacy claim, a **checkable** one: the ACQ's own records, or the
+English Section's minutes for 1937-49, would settle it. Recorded as a question, not an answer.
+
+
+QUERIES RUN, in order:
+  "Kanawana" "Westbury" (which surfaced this item by accident, while controlling the 1991 ski
+  guide's telephone columns) · "CAMP Y KANAWANA 514-849-5331" · "www.ymcakanawana.ca Premier camp"
+  (non-JSON) · "ymcakanawana.ca Premier camp de" (0) · "514-849-5331 www.ymcakanawana.ca Premier
+  camp de" (0) · "Premier camp de vacances" (14, generic) · "Premier camp" "ymcakanawana" (0) ·
+  "Kanawana" "Premier camp" · "Premier camp de vacances au Québec" · "situé a Saint-Sauveur, et
+  membre" · "dateur de l'Association des camps" (0) · "et membre fon- dateur de" · "Association des
+  camps du Québec, celui-ci" · "celui-ci propose des program- mes de camp" (non-JSON) · "propose
+  des program- mes de camp" · "camp d'été résidentiels de 6 a 12 jours" · "aux jeunes de 7 4 16
+  ans, ainsi" · "que des programmes de leadership et" · "d'aventures en plein air aux campeurs" ·
+  "de 11 a 20 ans. En opération du" · "le camp Y Kanawana orga- nise des séjours" (non-JSON) ·
+  "Kanawana orga- nise des séjours de six jours" (non-JSON) · "nise des séjours de six jours a
+  huit" · "maines. Selon leurs intéréts" · "les jeunes ont accés a des activités" · "de baignade,
+  canot, kayak, trampoline" · "aquatique, tir a Varc, escalade" · "hébertisme, cours de survie en
+  plein" · "air, danse, école du rock, théatre" · "etc. Les jeunes participent également" · "a des
+  ateliers de sciences naturelles" · "ou a des activités comme La faune" (non-JSON) · "des activités
+  comme La faune" · "gagne du terrain qui permet de les conscientiser" · "a la biodiversité. Cette
+  année" · "les mordus de rafting et de kayak" · "agés de 13 416 ans pourront profiter" · "au
+  maximum du tout nouveau programme" · "Aventurier Extréme, leur permettant" · "de faire du rafting
+  et du kayak en" · "eau vive, de l'escalade sur roche" · "ainsi qu'un par- cours dans les arbres" ·
+  "Pour les autres, tout aussi téméraires" · "le camp propose des expéditions" · "de canot-camping
+  inoubliables! Les" · "activités Explorateurs (11 et 12" · "ans) et Aventuriers (13 8 16 ans)"
+  (non-JSON) · "et Aventuriers (13 8 16 ans)" · "proposent en effet aux jeunes de vivre" · "une
+  excursion de quatre jours," (33 hits, too generic — walk ends)
+
+HOW IT WAS FOUND, which is the point worth keeping. This item is on p_430's group 6 list, described
+there as "the Petit Futé Montreal city guide 2011-12" among items that "may simply cite the camp as
+an example". It does nothing of the kind — it carries the longest French-language description of
+Kanawana's programme this project holds. It surfaced not from the worklist but from a query run for
+a completely different purpose: **"Kanawana" "Westbury"**, run to fix a telephone number in the 1991
+ski guide. A worklist entry written from a catalogue title underestimated it, and a control query
+for another book found what was in it.

@@ -1,7 +1,7 @@
 # Stuart McLean
 
-*Status: E1-reviewed | Sources: 15*
-*Last Updated: 2026-07-09*
+*Status: E1-reviewed | Sources: 17*
+*Last Updated: 2026-09-06 (the Dictionary of Literary Biography entry, and an unpublished 2010 interview it quotes)*
 
 ## Overview
 
@@ -15,11 +15,53 @@ McLean was born in Montreal West, the eldest of three children.^7 He attended Lo
 
 ## Camp Kanawana Years (1969–1975)
 
-McLean visited a friend working at Kanawana in summer 1969 and was hired on the spot as a counsellor in the senior boys' section.^1 ^2 He worked five summers at the camp, passing up an opportunity to study journalism at Carleton University to return to camp.^1 ^2 By the summers of 1974 and 1975, he served as assistant summer camp director.^1 ^10
+McLean visited a friend working at Kanawana in summer 1969 and was hired on the spot as a counsellor in the senior boys' section.^1 ^2 He worked five summers at the camp, passing up an opportunity to study journalism at Carleton University to return to camp.^1 ^2 He was a section director by the summer of 1971 — the camp's own 1974 director's report says so in passing ("He was a Section Director in 71 and had been on staff for several years before that"), and the *Dictionary of Literary Biography* arrives at the same year independently.^10 ^17 By the summers of 1974 and 1975, he served as assistant summer camp director.^1 ^10 ^17
 
 McLean spoke repeatedly about the camp's formative impact: "When I got to camp, I found a place where I was accepted by others and I was able to contribute to the greater good. It worked its magic on me. Camp is where I found my confidence."^2 ^5 In a 2008 interview, he said: "I began pulling my adult self together at Camp Kanawana, and I benefited greatly from my camp experiences."^8 A Globe and Mail arts profile (c. 2003) described his time as a counsellor at Kanawana in his 20s as "at once magical and developmentally critical."^15 In a speech to YMCA camp directors, later excerpted in the John Island Alumni Newsletter (Spring 2012), he described arriving at camp as "a wholly unsuccessful boy" carrying "a packsack full of fears." He said: "the best I can say is that camp happened." He linked his writerly preoccupation with "the world of the family, the neighbourhood" and "the safe places that foster a sense of belonging" directly to "the kinds of places that are created at YMCA camps across North America."^3
 
 His first opportunity to mentor children and stage a variety show — skills that would define his broadcasting career — came at Camp Kanawana.^2 A frequently-quoted line — "It was the first place, as a young person, that I felt I could contribute to the greater good" — was originally said in a CBC Montreal Radio Noon interview, per OurKids.net's own framing ("in an interview with CBC Montreal's Radio Noon two years ago"), adding provenance to a quote already documented from the OurKids piece itself.^2
+
+### In his own book, and in his own sentences
+
+Every quotation above is McLean talking — an interview, a speech excerpt, a profile, somebody else's
+transcription of him. **He also wrote it down himself.** *The Vinyl Cafe Notebooks* (Viking Canada,
+2010) carries this:^16
+
+> "[Kanawana is] where it all began for me. In the summer of 1969, [I] got a job at Kamp Kanawana on
+> the shores of Lake Kanawana in the Laurentian Mountains. **Kanawana is where I found my sea legs,
+> where I was able to leave the shaky and uncertain turbulence of my adolescence behind** and find the
+> road, or, more to the point, find the where[with]al…"
+
+It says what the interviews say and it says it as a writer: not "I found my confidence" to a reporter,
+but *sea legs* and *shaky and uncertain turbulence*, forty-one years afterwards, in a book he chose to
+put it in. It also confirms **1969** from his own hand, where this article had the date from a profile.
+
+*This bears on Open Question 2 below*, which asks whether any *Vinyl Cafe* material references camp.
+This is not a Dave and Morley story — it is an essay in the *Notebooks* — but it is Vinyl Cafe material
+that names Kanawana, and it was found only because a search paired the camp's name with Sir George
+Williams University, which McLean writes about on the same page.
+
+### What he told an interviewer in 2010, at length
+
+The line most often quoted about McLean and the camp — "It was the first place, as a young person,
+that I felt I could contribute to the greater good" — is one sentence, said to CBC Montreal's Radio
+Noon. He said the same thing at length to somebody else. The *Dictionary of Literary Biography*'s
+entry on him, written by David C. Greer for volume 362, *Canadian Literary Humorists* (Gale, 2011),
+quotes "an unpublished 19 May 2010 interview":^17
+
+> "For the first time in my life, I realized I had found a place where I could be good at
+> something … or as good as everyone else anyway … a place where I could fit in and be competent and
+> contribute to the greater good. Which is a very important thing for a young person's growth and
+> development."
+
+The ellipses are the book's. The hedge in the middle — *or as good as everyone else anyway* — is the
+part the one-sentence version loses, and it is the part that sounds like the boy who repeated Grade 11
+at Lower Canada College rather than the broadcaster remembering him.
+
+**And the interview itself is a lead.** It was conducted for the volume, nine months before it went to
+press, and it has never been published. Greer, who also wrote the volume's W. P. Kinsella entry,
+presumably still holds it. Nothing else in this project is an interview with McLean about the camp
+conducted by someone who then wrote 3,000 words about him.
 
 ## Career in Broadcasting and Writing
 
@@ -43,7 +85,7 @@ McLean was a professor of journalism at Ryerson Polytechnic Institute from 1984 
 
 ## The 2005 Return Visit
 
-In 2005, McLean returned to Camp Kanawana for a week and hosted one of his *Vinyl Cafe* shows at the camp. [[people/sean-day|Sean Day]], then Regional Director of Camps, was present for the visit.^1 ^4
+In 2005, McLean returned to Camp Kanawana for a week and hosted one of his *Vinyl Cafe* shows at the camp. [[people/sean-day|Sean Day]], then Regional Director of Camps, was present for the visit.^1 ^4 The *Dictionary of Literary Biography* dates the recording to **July 2005**, which is the only month this project has for it.^17
 
 ## The Stuart McLean Fund
 
@@ -81,6 +123,12 @@ McLean recorded "A Letter from Camp" for the *Vinyl Cafe* album *Up & Away* (201
 3. [Nice-to-have, advanced 2026-07-09] What is the date and venue of McLean's speech to YMCA camp directors? The John Island Alumni Newsletter (Spring 2012) excerpted it but did not date the original speech. A candidate source file, Box 76/F.5 "YMCA Speech, n.d." in the McMaster fonds, was found but not confirmed as a match — would require an in-person/archival-request follow-up.
 4. ~~[Nice-to-have] Does the McMaster fonds contain camp-related materials?~~ [Resolved, expanded 2026-07-09] Yes — well beyond the three files previously known. The full finding aid (983 lines, retrieved directly) surfaces address lists (1971-1975), dried flowers and decals (1970s), a 1969 YMCA membership card, 1976 correspondence, a 2008 NAYDO conference keynote-speaker file, and a probable canoeing-instructor-course connection (1974) — see "Death and Legacy" above. The photo series (Box 97) was confirmed to contain no camp photos.
 5. [Nice-to-have] What is the cumulative total raised by the Stuart McLean Fund since 2017?
+6. [Important, new 2026-09-06] Where is David C. Greer's unpublished 19 May 2010 interview with
+   McLean? It was conducted for *Dictionary of Literary Biography* volume 362 and only three
+   sentences of it are printed.^17 A published fragment implies a transcript or a recording, and this
+   would be the only extended interview about the camp conducted by someone writing a full
+   biographical entry. Greer is identifiable from the volume's own contents list; nothing further
+   about him has been looked for yet.
 
 ## Related Articles
 
@@ -106,6 +154,9 @@ McLean recorded "A Letter from Camp" for the *Vinyl Cafe* album *Up & Away* (201
 13. McMaster University, "Stuart McLean fonds." URL: https://archives.mcmaster.ca/index.php/stuart-mclean-fonds
 14. Stuart McLean, "A Letter from Camp," *The Vinyl Cafe: Up & Away* 4-CD collection, Disc Three (2016). Spotify: https://open.spotify.com/track/5Zg6psuVWQQbZb2p4Ij0JC
 15. Globe and Mail, "Stuart McLean's bent vision" (c. 2003). URL: https://www.theglobeandmail.com/arts/stuart-mcleans-bent-vision/article1047308/
+16. Stuart McLean, *The Vinyl Cafe Notebooks* (Toronto: Viking Canada, 2010), Internet Archive scan leaf 378 [src_mclean_vinyl_cafe_notebooks_2010]. **One passage only**, reconstructed 2026-09-06 from ten overlapping Open Library search-inside queries; the book is lending-restricted and has not been read, so what precedes and follows the passage is unknown, and the bracketed words are supplied. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-mclean-notebooks-and-montreal-inside-out.txt`. See [f_4941].
+
+17. *Dictionary of Literary Biography*, Volume 362: *Canadian Literary Humorists* (Detroit: Gale Cengage Learning, 2011), the Stuart McLean entry by David C. Greer, Internet Archive scan leaf 456 [src_dlb_362_canadian_literary_humorists_2011]. **One passage only**, reconstructed 2026-09-06 from thirty-five overlapping Open Library search-inside queries and walked to a sentence boundary in both directions; the volume is lending-restricted, page images return HTTP 403, and it has not been read. The quotation above is given as the search index returns it, with the OCR's line-break hyphens and irregular ellipsis spacing normalised. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-dlb-362-mclean-and-basic-camp-management.txt`. See [f_4949].
 
 ## Research Notes
 

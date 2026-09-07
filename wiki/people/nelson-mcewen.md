@@ -1,7 +1,7 @@
 # Nelson McEwen
 
-*Status: draft | Sources: 10*
-*Last Updated: 2026-07-11*
+*Status: draft | Sources: 12*
+*Last Updated: 2026-09-06 (Saint John in 1918, a middle initial, and the only quotation of his own words)*
 
 ## Overview
 
@@ -17,9 +17,15 @@ McEwen was recruited from Winnipeg to the Montreal YMCA as Boys' Work Secretary,
 
 The Camp Stephens alumni blog also credits McEwen as a co-founder of the Canadian Camping Association alongside Taylor Statten, serving as Secretary while Statten served as President, dating this to 1946.^6 The CCA's own official history instead dates its founding to May 20, 1936, at the Central YMCA in Toronto, with Dr. George S. Patterson as secretary — not McEwen.^7 This discrepancy is unresolved; McEwen's actual role may relate to a 1946 reorganization or national assembly rather than the CCA's original 1936 founding, but no source confirms this directly.
 
+## Before Montreal: Saint John, 1918–1921 at least
+
+**He was at Saint John a generation before he went back to run it.** The YMCA's own *Year Book and Official Rosters* for 1921 lists him in its Alphabetical List of Employed Officers as "**McEwen, N. F., St. John, N. B., Boys', 18**", and the list's printed legend says the figure is "the year of entry into Association work".^11 So he entered YMCA employed service in **1918**, as **Boys' Work Secretary at Saint John, New Brunswick** — and this article's account of him "leaving Montreal in 1947 to become General Secretary of the Saint John YMCA" is a **return**, not an arrival. It also gives the middle initial, **F.**, which this article did not have.
+
+**And an academic historian quotes him.** Christopher J. Greig's *Ontario Boys: Masculinity and the Idea of Boyhood in Postwar Ontario, 1945-1960* (Wilfrid Laurier University Press, 2014): "In 1945, Nelson McEwen, **national boys work secretary of the Canadian YMCA**, told members at a father-and-son banquet that boys 'needed the help of the experience of older men.' He further urged 'fathers to unite with their sons' in carrying out boys work programs."^12 That is the title this article has from YMCA-adjacent sources, given independently by a historian working from the period press, and it is the only quotation of McEwen's own words this project holds.
+
 ## Later Career and Death (1947–1956)
 
-McEwen left Montreal in 1947 to become General Secretary of the Saint John YMCA in New Brunswick, where he recruited several men to YMCA careers, including Ross Bannerman, Lloyd and Niles Ring, and Doug Allen.^8 Bannerman went on to direct Camp Pascobac (1951) and Camp Stephens (1956), and later authored a 1969 report on Kamp Kanawana held in the Concordia Archives — see [[site/camp-perrot|Camp Perrot]] and [[people/directors-index|Directors and Staff of Camp Kanawana]] for Bannerman's own documented Kanawana connections.^9
+McEwen returned to Saint John in 1947 to become General Secretary of the Saint John YMCA in New Brunswick, where he recruited several men to YMCA careers, including Ross Bannerman, Lloyd and Niles Ring, and Doug Allen.^8 Bannerman went on to direct Camp Pascobac (1951) and Camp Stephens (1956), and later authored a 1969 report on Kamp Kanawana held in the Concordia Archives — see [[site/camp-perrot|Camp Perrot]] and [[people/directors-index|Directors and Staff of Camp Kanawana]] for Bannerman's own documented Kanawana connections.^9
 
 In 1951, McEwen became the first Metropolitan General Secretary of the Winnipeg YMCA, a position he held until his death in active service in 1956.^1
 
@@ -54,6 +60,8 @@ Doug McEwen served as director of Camp Stephens from 1966 to 1970 and as Preside
 8. Camp Stephens Alumni Blog, 2013 (Saint John recruitment) [src_camp_stephens_alumni_blog].
 9. Concordia University Archives, YMCA of Montreal fonds P0145/12B01 (Ross Bannerman's 1969 report and YMCA International Branch file) [src_concordia_atom_12B01].
 10. Canadian Camps Association, "Our History"; Trent University Archives CCA fonds (Doug McEwen / Camp Wa-Sa-Ah-Dun) [src_cca_history].
+11. *YMCA Year Book and Official Rosters* (New York: Association Press, 1921), "Alphabetical List of Employed Officers, June 1, 1921" [src_ymca_year_book_official_rosters_1921]. **Not lending-restricted**: the full djvu text was downloaded and searched 2026-09-06. See [f_4965].
+12. Christopher J. Greig, *Ontario Boys: Masculinity and the Idea of Boyhood in Postwar Ontario, 1945-1960* (Waterloo: Wilfrid Laurier University Press, 2014), Internet Archive scan leaf 218 [src_greig_ontario_boys_2014]. **One passage only**, reconstructed 2026-09-06 from eight overlapping Open Library search-inside queries; the book is lending-restricted, page images return HTTP 403, and it has not been read. See [f_4963].
 
 ## Research Notes
 

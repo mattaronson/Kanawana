@@ -1,7 +1,7 @@
 # Thomas Duncan Patton (1865–1944)
 
-*Status: draft | Sources: 10*
-*Last Updated: 2026-08-25*
+*Status: draft | Sources: 18*
+*Last Updated: 2026-09-06 (the 1922 roster has him as Assistant Territorial Secretary)*
 
 ## Overview
 
@@ -19,7 +19,9 @@ the single richest first-person account of Kanawana's origins in this project's 
 And he was **one of the two captains in the first game of basketball ever played**, on 21 December
 1891 at the International YMCA Training School in Springfield, under James Naismith. That is not a
 family legend or a claim resting on his own memoir: he is named in the documented roster of the
-eighteen original players, and two independent sources identify him as a captain.^6 ^7 ^8
+eighteen original players, and two independent sources identify him as a captain.^6 ^7 ^8 **Two published books carry it as well** — a photograph caption of the first-game players in Terry Dunnahoo's *Basketball Hall of Fame* (1994) reads "…Libby, Edwin Ruggles, William Chase and **T. Duncan Patton**" — so the claim no longer rests only on web sources.^18
+
+**And the fullest account of him anywhere is named, unread, and probably obtainable.** Rob Rains's *James Naismith: The Man Who Invented Basketball* (Temple University Press, 2009) **indexes T. Duncan Patton on five pages — 28, 35, 45, 60 and 192**. That is not a roster listing but a man appearing five times across a scholarly biography, very likely the fullest treatment of Patton outside this article. None of those passages has been recovered: the book is lending-restricted, and phrase queries return its index entry alone, which means the running text uses the surname by itself and the window-walking method cannot reach it. **A library copy would settle it in an afternoon.**^18
 
 ## The Identification
 
@@ -105,6 +107,85 @@ the modern physical-education movement was being invented.
 > Montreal. On the arrival of help the next day the camp was broken up and the site was never again
 > used for this purpose."^1
 
+### The association's own paperwork, found 2026-09-06
+
+Until now the 1891 camp was attested only by Patton's memoir of August 1919, twenty-eight years after
+the fact. **The YMCA of Montreal's Annual Report for 1890-91**, presented 28 May 1891, records under
+EXECUTIVE:^15
+
+> "**The Volunteer Camp work was successfully carried out under the [affiliation] and assistance of Mr.
+> Patton.**"
+
+*(The OCR reads "ahielation"; the sense is not in doubt.)* That is the association writing about camp
+work in its own annual report for the year of Patton's camp, and it establishes that **the YMCA of
+Montreal had a thing it called "Volunteer Camp work" in 1890-91, and Patton ran it.**
+
+**What it does not establish is what that work was — and a paragraph written here an hour earlier
+implied more than the evidence carries.**^17 The 1893-94 report has a section headed **MILITARY CAMP**:
+
+> "The Association placed a tent with full equipment for reading-room, library, games, etc., in the
+> grounds at **Laprairie in June last**. **Mr. T. Duncan Patton had charge**, and conducted evangelistic
+> meetings every night amongst the men… The influence of this work **for many years** has been most
+> beneficial upon the whole character of the camp life."
+
+So the association ran a tented operation at the militia camp at Laprairie, for years before 1894, and
+Patton had charge of it. **"Volunteer Camp work" in 1890-91 may well be that**, not boys' camping — and
+this wiki already recorded, at [f_1537], that in the 1901 Historical Sketch every "camp" reference is
+militia rather than summer camping. That reading would also dissolve the oddity of "successfully carried
+out" sitting beside a memoir about a camp broken up on its first day by a drowning: they would simply be
+two different things.
+
+**The phrase is not decided either way**, and it should not be cited as evidence for boys' camping in
+1890-91. What survives unqualified is the second quotation below, on his departure — and the fact that
+Patton is the association's camp man in three different forms: the militia tent, the Volunteer Camp
+work, and Jones' Island.
+
+**And it dates his departure.** The same report, in the Sunday Morning Bible Class section: "**Early
+last spring, our leader Mr. Patton resigned to enter the Springfield School for training secretaries.**"
+That independently puts him at Springfield from the spring of 1891 — and therefore in place for
+Naismith's first game that December, which this article had only from the American side.^15
+
+**The next year's report puts him back.** The 41st Annual Report, for 1891-92, prints **T. Duncan
+Patton** in its staff list between the assistant secretary and the physical director, and on the board's
+**Training Classes** committee for 1892-93 with Budge, Corbett, Ball and **R. L. Charlton**.^16 Read
+against the memoir — "During the vacation period of 1891 **I returned to Montreal** and took out to
+Jones' Island… the first Montreal Boys' Camp" — the sequence the documents and the memoir agree on is:
+Montreal staff to spring 1891, Springfield, back in Montreal for the 1891 vacation period and the Jones'
+Island camp, at Springfield again that December for Naismith's first game, and on the Montreal staff and
+board committee through 1892-93. **The Montreal and Springfield records are not competing claims**;
+they are a man moving between a city job and a training school.
+
+*A note on where this was hiding.* The report is cached in this repo under the filename
+`sgw-ymca-annual-report-1990-1991.txt`. Its Internet Archive identifier is misnumbered by a century, and
+three genuinely twentieth-century reports sit beside it in the same directory. Nobody had read it for
+Patton.
+
+### Where the island is
+
+Quebec's toponymic register holds **exactly one island named Jones**: **Île Jones**, at 45.5199 /
+-74.2924 in **Saint-André-d'Argenteuil**, and the Commission de toponymie places it "à l'entrée de la
+baie de Carillon, entre l'île de Carillon et la terre ferme, dans l'estuaire de la rivière des
+Outaouais."^14 That is in the Ottawa River, about 56 kilometres — thirty-five miles — west-north-west of
+downtown Montreal, against Patton's "about 40 miles north-west of Montreal in the Ottawa River."
+
+**This is an identification by geography and by the uniqueness of the name, not a document.** Nothing
+found says the 1891 camp was pitched there. Two things are unchecked and are named so a later pass does
+not mistake this for settled: Ontario's own toponymic register was not searched, and whether some
+smaller unregistered island went by the name locally in 1891 is unknown.
+
+The island's own history is documented, and it is older than the camp by a century. The Commission gives
+the etymology outright: the name "reprend celui du premier propriétaire de l'île, **Martin Jones
+(1747–1843)**. Après avoir combattu aux États-Unis durant la Révolution américaine, il arriva en 1788 au
+Canada avec sa femme, **Hannah Brant (1761–1854)**. Le couple s'installa à l'extrémité sud-est de la
+seigneurie d'Argenteuil" — Martin farming, Hannah attending births and the sick.^14 A Loyalist's island
+in the seigneury of Argenteuil, named for a man dead half a century before a Montreal YMCA secretary
+took a dozen boys there for a night.
+
+The Commission's own authority for that is **Benjamin N. Wales, *Memories of old St. Andrews and
+historical sketches of the seigniory of Argenteuil*** (Watchman Press, Lachute, 1934, 135 pp.), which is
+not on the Internet Archive and has not been read here. It is the obvious next document for anyone
+pursuing the island itself.
+
 See [[history/founding-1894|Founding and Early History]] for what this means for the founding sequence.
 In short: the men who planned Camp Jubilee were not starting fresh.
 
@@ -134,7 +215,38 @@ a cost of $100,000.^1
 that date on camps were promoted and held annually." The five islands, about seven miles north-west of
 Kenora through the Devil's Gap and totalling roughly 27 acres, passed to the Winnipeg YMCA in 1907. The
 largest was named "Copeland," another "Sir George" after the Association's founder, and **the smaller
-island to the east "Patton."** The camp was styled **Camp Stephens**.^1 This wiki already touches Camp
+island to the east "Patton."** The camp was styled **Camp Stephens**.^1
+
+**Corroborated from outside the memoir, ninety-seven years later.** The Lake of the Woods Museum's own
+newsletter of Summer 2016 names the 1893 search party — R. C. Richardson, C. M. Copeland, W. D. Bayly Sr.
+and J. Ball, rowing weekends until they found the five islands — and gives all five namesakes: Copeland,
+Mr. Fleming, **Mr. T. D. Patton**, Mr. James Ball and Sir George Williams. Patton's memoir gave three of
+the five; the museum supplies the other two, from a source with no connection to it [f_4839].^11 That a
+Winnipeg island still carried his name in a Kenora museum's account in 2016 is the longest-lived trace of
+him this project has found.
+
+**The man who found the islands was the YMCA's own provincial chairman.** The 1893 and 1895 Year Books
+of the YMCAs of North America list "**CANADIAN NORTHWEST. Headquarters, Winnipeg, Man. R. D. Richardson,
+Win'p'g, Man., Chairman**," and he signs the province's narrative report in both — "Robert D.
+Richardson, Cor. Mem." in 1893, "Robt. D. Richardson" in 1895. So the party rowing the Lake of the Woods
+for a camp site in 1893 was led by the chairman of the YMCA's own committee for the Canadian Northwest,
+in the year Patton was about to arrive in Winnipeg. It also settles a small disagreement between the two
+accounts of that party: Camp Stephens's own page gives **R.D.** Richardson and the Lake of the Woods
+Museum gives R.C. — the contemporaneous printed record gives D, twice [f_4860].^13
+
+*A lead, and only that:* the same 1895 committee lists **George Fleming of Brandon** beside Richardson
+and John Norris, and one of the five islands is named for a "Mr. Fleming" nobody has identified. Fleming
+is a common name and no source connects the two. It is written down so that whoever reaches the Winnipeg
+association's records knows which Fleming to check first [f_4861].
+
+**And the camp's own anniversary service puts him at the start of its boys' camping.** The script of the
+Camp Stephens 125th Anniversary Chapel Service, read on Copeland Island on 31 July 2016, says the first
+twenty years there were "predominantly an adult and family Bible camp" and that "it wasn't until 1911
+that the first boys' camp was organized at Camp Stephens," with "men like T.D. Patton, H.R. Hadcock and
+Fletcher Argue" giving it leadership [f_4840].^12 If that is right, the man who took Montreal's boys to
+Jones' Island in 1891 and sat on the committee that planned Camp Jubilee in 1892 started boys' camping in
+Winnipeg too, twenty years later. It is a commemorative script rather than a history and it contradicts
+itself on dates elsewhere, so it is recorded as **conflict c_063** and not relied on. This wiki already touches Camp
 Stephens through [[people/nelson-mcewen|Nelson McEwen]] and [[people/ross-bannerman|Ross Bannerman]];
 its camping programme was begun by a Kanawana founder.
 
@@ -165,7 +277,7 @@ District No. 10** (Saskatchewan) in May 1916, and in the 1918 Dominion-wide camp
 of Saskatchewan, where an allotment of $175,000 returned **$508,709 in cash**.^1
 
 **After the memoir.** Patton's account stops in 1919; his career did not. He was National Territorial
-Secretary at Winnipeg (1920–22) and Territorial Secretary at Toronto (1922–26), then left the
+Secretary at Winnipeg (1920–22) and Territorial Secretary at Toronto (1922–26) — where the YMCA's own roster for **1922** is more precise, listing him as "**T. D. Patton, Assistant Territorial Secretary**" of the Ontario and Quebec Territory, under Territorial Secretary Harry Ballantyne, at 86 Adelaide Street East^13 — then left the
 Association: organizer for the **Ontario Prohibition Union** (1926–27), Executive Secretary of **Dixon
 Hall** in Toronto (1927–32), and Treasurer of the **Christian Social Council of Canada** (1932–41). He
 died in Toronto on **1 April 1944**, aged 78.^8
@@ -194,13 +306,19 @@ neither is obviously wrong.
    Quebec**, died **1 April 1944 in Toronto**, aged 78.^8
 2. ~~**[Important]** Is he named in the roster of Naismith's first basketball game?~~
    **[ANSWERED 2026-08-25 — yes, and as a captain.]** See above.^6 ^7 ^8
-3. **[Important, narrowed 2026-08-25]** Where exactly is Jones' Island, and does any other record of
+3. **[Half answered 2026-09-06 — the island is located, the drowning is not.]** Where exactly is Jones' Island, and does any other record of
    the 1891 camp or of David Louden's death survive? **Searched and not found:** the YMCA of Montreal
    annual reports 1889–1899 contain no "Louden" — every hit is "Lowden, J. R." in subscriber lists, a
    different man — and no mention of Jones' Island or of the 1891 camp.^9 The contrast is worth noting:
    the 1893–94 report *does* print a list of members who died that year, including two drownings, so
    the association published such notices when it chose to. Patton's memoir remains the only known
-   account. A Montreal newspaper of summer 1891 is the route.
+   account. **The island itself is now identified** as Île Jones at Saint-André-d'Argenteuil, on
+   geography and on the fact that Quebec's register holds no other island of the name — see above.^14
+   **David Louden's drowning is still unrecorded anywhere but Patton's memoir.** A Montreal newspaper
+   of summer 1891 was the route, and it is now known to be closed from here: the Gazette's page images
+   are reachable by date but its full text is not searchable from this environment, and at the only
+   zoom the archive serves, body text is illegible [f_4886], [f_4887]. Quebec's civil death registers
+   for 1891, and the Wales history of Argenteuil, are the untried routes.
 4. **[Nice-to-have]** What was Mrs. Patton's name?
 5. **[Nice-to-have]** Did he ever return to Kanawana, or comment on it after 1919?
 
@@ -224,6 +342,14 @@ neither is obviously wrong.
 8. "Thomas D. Patton," *The First Basket Ball Players* exhibit [src_omeka_first_basketball_players]. Birth 15 April 1865, Danville, Quebec; death 1 April 1944, Toronto; full YMCA career 1892–1941.
 9. YMCA of Montreal Annual Reports, 1889–90, 1892–93, 1893–94, 1895–96, 1897–98 and 1899 [src_ia_ymca_montreal_annual_reports_collection]. Read 2026-08-25. See [f_2299], [f_2300].
 10. "Y.M.-Y.W.C.A. Camp Stephens," by Grant Platts, Scott McGregor and Juliane Schaible, p. 21, and "What's In A Name? Camp Stephens," p. 27, *Canadian Camping Magazine* Vol. 39 No. 1 (Summer 1987) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 162).
+11. Katelyn Charlebois, "Camp Stephens Celebrates 125 Years," Lake of the Woods Museum Newsletter Vol. 26 No. 3, Summer 2016 [src_muse_kenora_camp_stephens_125]. The 1893 search party and all five island namesakes. See [f_4839].
+12. "Camp Stephens 125th Anniversary Chapel Service ~ July 31, 2016," Camp Stephens Alumni blog [src_campstephens_125_chapel_2016]. The 1911 first boys' camp and Patton's part in it; a commemorative script, not a history. See [f_4840].
+13. *Year Book and Official Roster of the Young Men's Christian Associations of North America*, 1893 and 1895 [src_ymca_yearbook_1893], [src_ymca_yearbook_1895]. The Canadian Northwest and Canadian West provincial committees at Winnipeg, and Richardson's signed provincial reports. See [f_4860], [f_4861]. **And the 1922 volume** [src_ymca_yearbook_1922], "Ontario and Quebec Territory", which lists him as *Assistant* Territorial Secretary under Harry Ballantyne; not lending-restricted, full djvu text downloaded and searched 2026-09-06. See [f_4968].
+14. Commission de toponymie du Québec, fiche for **Île Jones** (no_seq 31476), and the *Toponymes officiels* dataset [src_ct_fiches_kanawana_2026], [src_donneesquebec_bnlq_2026]. Read 2026-09-06. The fiche's own authority for the Martin Jones etymology is Benjamin N. Wales, *Memories of old St. Andrews and historical sketches of the seigniory of Argenteuil* (Watchman Press, Lachute, 1934), which this project has not read. See [f_4889].
+15. YMCA of Montreal, **Annual Report 1890-91**, presented 28 May 1891 [src_ymf_sgw_ymca_annual_report_1990_1991] — cached under a filename misnumbered by a century; see [f_4901]. The Volunteer Camp work under Mr. Patton, and his resignation to enter the Springfield School. Read 2026-09-06 (p_253). See [f_4902].
+16. YMCA of Montreal, **41st Annual Report, 1891-92** (published 19 May 1892) [src_cache_sgw_ymca_annual_report_1991_1992] — the staff list and "Committees of the Board, 1892-93". Also cached under a filename misnumbered by a century; see [f_4901]. Read 2026-09-06 (p_253). See [f_4904], [f_4905].
+17. YMCA of Montreal, **Annual Report 1893-94**, section "MILITARY CAMP" [src_ia_ymca_montreal_annual_reports_collection]. Read 2026-09-06. The Laprairie tent under Patton's charge in June 1893, and the work running "for many years". See [f_4906] for the Laprairie tent under Patton in June 1893; and [f_1537] for the same militia-not-summer-camping pattern in the 1901 Historical Sketch.
+18. Terry Dunnahoo, *Basketball Hall of Fame* (Crestwood House, 1994) [src_dunnahoo_basketball_hall_of_fame_1994], a photograph caption of the first-game players; and Rob Rains, *James Naismith: The Man Who Invented Basketball* (Temple University Press, 2009) [src_rains_naismith_2009], **cited here for its index alone** — the book is lending-restricted, none of its five Patton pages has been recovered, and it is a named lead rather than a source used. Found 2026-09-06 under p_430 by the index-form query "Patton, T. Duncan". See [f_5205].
 
 ## Research Notes
 

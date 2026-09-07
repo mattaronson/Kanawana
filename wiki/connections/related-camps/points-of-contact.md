@@ -1,6 +1,6 @@
 # Points of Contact: Kanawana and the Other YMCA Camps
 
-*Status: draft | Sources: 26*
+*Status: draft | Sources: 27*
 *Last Updated: 2026-09-05*
 
 ## Overview
@@ -116,9 +116,20 @@ early as 1902**.^17
 
 **None of the other three dates its Games.** Neither Kitchikewana's camp page nor its programmes page
 says when the tradition began or where it came from;^15 neither does RKY's history page.^17 **Kanawana's
-1947 is the only dated adoption in the group** [f_4777]. Know History's commissioned study *Rooted:
-Beausoleil Island* has a chapter on Kitchikewana and is the most likely published source for one of
-them; it returns HTTP 403 to this project's fetch tool and **has not been read** [f_4769].
+1947 is the only dated adoption in the group** [f_4777].
+
+**The Know History source has now been heard, and it is not what this article said it was.** *Rooted:
+Beausoleil Island* was described here as a commissioned historical *study* with a chapter on
+Kitchikewana, unread behind an HTTP 403. It is an eight-chapter **audio podcast**, published 18 October
+2021 — there was never anything to read. Chapter 5, twelve minutes long, was downloaded and transcribed
+by machine on 2026-09-05 and read in full. It is about the archaeology of the camp's sandy point, the
+camp's partnership with Parks Canada, and what the place did for a former camper and director. **It
+says nothing about the Lumberman and Voyageur Games** — not the words lumberman, voyageur, games,
+competition, team, colour war, Kanawana or Pine Crest, in any spelling variant searched [f_4841].^27
+The caveat travels with the null: a machine transcript is evidence about the audio filtered through a
+model, never checked by ear, and the model mangles proper nouns throughout. **The 403 was a fact about
+the fetch tool, exactly as it was recorded** — but the thing behind it was a different kind of object
+than anyone here assumed, which is the more useful lesson.
 
 **What the four have in common, and what that shape suggests.** All four have YMCA roots — RKY through
 the Kingston association, one of its three founders. **Three of the four are in Ontario**; Kanawana, in
@@ -268,8 +279,9 @@ examples are now documented: RKY (Rotary, Kiwanis and the Kingston YMCA, 1930), 
 **Where the survey leaves the question.** No Games dated beyond Pine Crest's 1940 and Kanawana's 1947;
 neither Kitchikewana (1919) nor RKY (1930) dates its own. **The direction of travel is not established,
 and on present evidence nothing short of the two published camp histories or the four camps' archives
-will settle it** [f_4791] — *Lumbermen & Voyageurs: The YMCA Pine Crest Story* (`p_404`) and Know
-History's *Rooted: Beausoleil Island* (`p_408`).
+will settle it** [f_4791]. One of the two has now been struck off: Know History's *Rooted: Beausoleil
+Island* is a podcast and its Kitchikewana chapter is silent on the Games [f_4841]. **What is left is
+*Lumbermen & Voyageurs: The YMCA Pine Crest Story*** (`p_404`), and the camps' own archives.
 
 ## Resemblances that are not contact
 
@@ -341,7 +353,9 @@ decline should be tested against the YMCA's own records before it is asserted.
    and none runs it, so the route was specific rather than systemic — look for a person who moved
    between the four camps. Kitchikewana (founded 1919) predates the Pine Crest Games
    (1940) by twenty-one years, so the assumption that Pine Crest originated the competition is now
-   untested. Read Know History's *Rooted: Beausoleil Island*, chapter 5.
+   untested. **[Narrowed 2026-09-05.]** *Rooted: Beausoleil Island* has been heard — a podcast, not a
+   study — and its Kitchikewana chapter says nothing about the Games [f_4841]. The Pine Crest centennial
+   history (`p_404`) is now the only identified published route.
 5. [Important] **Are there Canadian YMCA camps beyond the seven listed here?** This list grew by one the
    day after it was written, on the operator's recognition rather than on any search result.
 6. [Important] **What is the actual number of YMCA camps in Canada, now and over time?** The 1989 figure
@@ -389,3 +403,4 @@ decline should be tested against the YMCA's own records before it is asserted.
 24. Photographs of the Kanawana Annual Trophy for Lumbermen Voyageur Games, supplied by the operator 2026-08-14 [src_photo_lv_annual_trophy]. A perpetual trophy whose shields run from 47 to 25; the first reads 1947, Voyageurs. Transcribed in full at [[traditions/lv-games|The L&V Games]]. See [f_1996], [f_2000], [f_2001].
 25. *Kanawana… A Place to Grow*, YMCA of Montreal report, 1988, "Programme Highlights" [src_ia_kanawana_place_to_grow_1988]. States the 1947 creation of the Lumbermen and Voyageurs competition outright. See [f_4798].
 26. Operator account (Matt Aronson), 2026-08-14: the 2020 Games were contested remotely and the 2021 Games were not held [src_oral_aronson_lv_2020_remote]; and the four shields illegible in the photographs, supplied directly [src_oral_aronson_lv_trophy_gaps_2026]. See [f_2007], [f_2010].
+27. "Chapter 5: Camp Kitchikewana," *Rooted: Beausoleil Island* (Know History podcast), 18 October 2021, 12m10s [src_rooted_beausoleil_ch5]; the series page [src_knowhistory_beausoleil]. Heard via a machine transcript made on 2026-09-05 and cached with its provenance, since no transcript is published. See [f_4841], [f_4842].

@@ -1,7 +1,7 @@
 # Camp Songs, Cheers, and Musical Traditions
 
-*Status: E1-reviewed | Sources: 23*
-*Last Updated: 2026-09-04*
+*Status: E1-reviewed | Sources: 24*
+*Last Updated: 2026-09-05*
 
 ## Overview
 
@@ -215,6 +215,38 @@ A morning devotional practice at meals is documented from at least 1922. The bro
 
 By the 2000s era, Grace was not a single fixed prayer but a rotation of several **sung graces**. Two identified graces are: (1) **"Johnny Appleseed"** — the folk grace widely used at North American camps ("Oh, the Lord is good to me, and so I thank the Lord..."); and (2) the lyrics of **"Joy to the World"** by Three Dog Night ("Jeremiah was a bullfrog...") adapted as a grace.^14
 
+## What the movement taught about singing, 1970 — and where Kanawana's songs sit in it
+
+**Jack Pearse**, director of Camp Tawingo, set out the period's own theory of camp singing in *Canadian
+Camping* in June 1970, in five categories with a named repertoire under each.^24
+
+| Category | What it is, in his words | Some of his named songs |
+|---|---|---|
+| **1. Novelty number** | "our broadest category" — tongue twisters, nonsense songs, familiar songs given a novel touch; "the backbone of the sing song" | One Flea Fly · Hole in the Bottom of the Sea · Tipperary · She'll be Coming Round the Mountain · Bingo · My Bonnie · Old MacDonald |
+| **2. Action songs** | "the novelty number makes the sing song successful, action songs make the song *leader* successful" | My Hat it Has Three Corners · Under the Spreading Chestnut Tree · Heads and Shoulders, Knees and Toes · This Old Man · Grand Old Duke of York |
+| **3. Rounds** | for "a change of pace… harmony, without any effort on the part of the singers", with an eight-step teaching method | *Rousers:* Little Tommy Tinker · Row, Row, Row Your Boat · *Fun:* Kookaburra · Three Blind Mice · *Quiet:* Fire's Burning · Oh How Lovely is the Evening |
+| **4. Spirituals and folk songs** | "a change of rhythm, mood and atmosphere" | Swing Low Sweet Chariot · He's Got the Whole World · Where Have All the Flowers Gone · This Land is Your Land · We Shall Overcome · **Kum Ba Yah** |
+| **5. Quiet songs** | "we have passed through the era when the louder and more boisterous was the singing, the more successful was the sing song" | **Stephen Foster songs** · Harvest Moon · Moonlight Bay · Tell Me Why |
+
+And a rule he prints in capitals: **"ALL SING SONGS SHOULD END WITH QUIET SINGING."** [f_4869]
+
+**Two of Kanawana's recorded songs are in his lists, and that settles what they are.** *Kum Bah Yah*
+appears here under spirituals and folk songs, and *My Old Kentucky Home* — sung solo by a twelve-year-old
+in the 1938 broadcast, above — is a Stephen Foster song, the first entry in his quiet category. **Neither
+is Kanawana property.** They are the movement's common stock, and a later pass should not read either as
+evidence of anything local [f_4870].
+
+**And the camp's own songs are exactly what the movement told leaders to make.** "On My Way to
+Kanawana," the Marching Song, "Dear Old Kanawana" to the Battle Hymn of the Republic, the local
+adaptation of "Alabama Jubilee" — these fall under Pearse's instruction for the novelty category, which
+is not a description but an order: "**Find some novelty numbers. Invent some.**" A camp with its own
+songs was a camp doing what the association's magazine taught, in the years Kanawana's repertoire was
+being sung. That is a better-founded claim than either "Kanawana's songs are unusual" or "Kanawana's
+songs are borrowed," and it is the one the sources support [f_4870].
+
+His closing rule also matches the shape already documented here: Kay McClelland's 1956 campfire
+structure, in the section below, ends the same way.
+
 ## How the repertoire was passed on
 
 The transmission of a camp's songs is almost never described, because it happened in the ordinary run of the day and nobody wrote it down. One counsellor did, in October 1980. Christine Nixon of Camp Oconto, writing on music for young campers, sets out the mechanism:^22
@@ -268,10 +300,11 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 4. ~~[Important] What are the words of Grace as said at Kanawana?~~ [Partially resolved] Rotating sung graces: Johnny Appleseed and Joy to the World ("Jeremiah was a Bullfrog") identified (f_1195).^14 Remaining: any other graces in the rotation, and when the rotation replaced a single fixed grace.
 5. [Important, re-confirmed dead end 2026-07-09] What songs are in the 1925/1927 song sheets and the 1941-1945 Kanawana song books? Box number now confirmed (HA2315, along with two previously undocumented adjacent items — "KK pageant scripts" 1931-32 and "Fire of Friendship, Kanawana show" 1939 — see [[traditions/traditions-and-culture|Traditions and Culture]]) but the finding aid is folder-level only; no song titles are itemized online.
 6. [PARTIALLY ANSWERED 2026-08-25] When was the "Yo Triumphy" cheer replaced by the Marching Song? Did both coexist? **The cheer was already described as a "former Kanawana yell" in *The Green Triangle* of 9 July 1938, and reprinted so campers could learn it again** — so it fell out of general use between 1933 (when campers were still singing it) and 1938, and was the object of a deliberate revival attempt that year. Whether the Marching Song displaced it, and whether the two overlapped, remains open. The earlier note that "only physical Green Triangle/Ka-News issues (1932-1982, Concordia) can resolve this" was correct — this came from the digitized 1938 run. The 1941-1975 issues remain undigitized and would settle the rest.
-7. [Critical, new 2026-09-04] Did the Canadian Camping Association's 1972 national songbook appeal produce a published songbook, and did Kanawana submit a song to it? The appeal asked every camp in Canada for the words and the tune of its camp song.^21 Two searches follow: forward through the 1973-1975 issues of *Canadian Camping* for an announcement of the songbook, and for the disposition of the "C.C.A. Archives" named in the same notice, which was collecting camp brochures at the time.
 7. [Nice-to-have] What songs were commonly sung at campfire sing-songs across different eras?
 8. ~~[Nice-to-have] Did the camp song change over time, or has "On My Way to Kanawana" always been the primary camp song?~~ [Resolved] Yes — "Dear Old Kanawana" (to the Battle Hymn of the Republic) was the camp song during the pre-war and mid-century periods. "On My Way to Kanawana" by Richard Kerr is a later composition (date unknown).^13
 9. [Nice-to-have, re-confirmed dead end 2026-07-09] Who adapted "Alabama Jubilee" into the Kanawana Marching Song, and when? Independently re-searched this session (web, LinkedIn/Facebook, the primary blog source) — only the famous pop songwriter Richard Kerr (co-writer of "Mandy") surfaces, with no documented YMCA/camp connection; the Kanawana alumnus "Richard Itch Kerr" has no trace anywhere online outside the Concordia catalog entry and Pip Award recipient lists. This is now independently confirmed exhausted across two separate sessions.
+
+10. [Critical, new 2026-09-04] [renumbered 2026-09-05: this was written as a second "7."] Did the Canadian Camping Association's 1972 national songbook appeal produce a published songbook, and did Kanawana submit a song to it? The appeal asked every camp in Canada for the words and the tune of its camp song.^21 Two searches follow: forward through the 1973-1975 issues of *Canadian Camping* for an announcement of the songbook, and for the disposition of the "C.C.A. Archives" named in the same notice, which was collecting camp brochures at the time.
 
 ## Related Articles
 
@@ -309,6 +342,7 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 21. "Attention! All Camp Directors" (boxed notice), *Canadian Camping* Vol. 25 No. 1 (Fall 1972), p. 3. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 96).
 22. Christine Nixon (Camp Oconto), "Music for Young Campers," *Canadian Camping* Vol. 32 No. 5 (October 1980), pp. 6, 12 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 133). Written about camps generally, not about Kanawana. The thunderstorm advice quoted alongside it is from "Storms Ahead," *Canadian Camping* Vol. 30 No. 4 (June 1978), pp. 4-5 (issue 120). The Camp Howdy "Camper Care Package," from the B.C.C.A. Newsletter of October/November 1980, is reprinted in *Canadian Camping* Vol. 32 No. 6 (December 1980), p. 4 (issue 134).
 23. Marjorie Booth, "Camp Music Idea," *Canadian Camping* Vol. 35 No. 1 (Spring 1983), p. 13 [src_ia_canadian_camping_collection]. Found by the same read (issue 146).
+24. Jack Pearse (Director, Camp Tawingo), "Song Leading," *Canadian Camping* Vol. 22 No. 4 (June 1970), pp. 8-9 [src_ia_canadian_camping_collection]. The five categories, the named repertoire under each, the eight-step method for teaching a round, and the rule that all sing songs end quietly. See [f_4869], [f_4870].
 
 ## Research Notes
 

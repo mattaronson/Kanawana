@@ -1,6 +1,6 @@
 # Hedley Dimock and the Science of Camping
 
-*Status: E1-reviewed | Sources: 24*
+*Status: E1-reviewed | Sources: 25*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -53,6 +53,16 @@ Hedley Gardner Dimock earned a BA from Beloit College; MA and EdD from Columbia 
 
 In 1960–1961, Dimock conducted research at Camp Kanawana on camp counsellor effectiveness, publishing two studies: "A Study of the Change in Attitudes and Temperament of Counselors during a Summer in Camp" (1961) and "A Study of the Prediction of Success of Twenty-Seven Camp Counselors" (1961).^2 ^3 **Resolved 2026-07-09**: these are unpublished internal YMCA/camp administrative research reports, not journal articles -- both sit in Concordia Archives Box HA2323, alongside "Interpretation of scores for counselors participating in a research project at Kamp Kanawana" (1960, sub-series P0145/12B) and 1961 opinion/attitude questionnaires and score sheets.^P This explains why no journal-publication citation for either study exists in JSTOR, Google Scholar, HathiTrust, or ERIC (all checked, all null) -- the material was never published outside internal YMCA channels. Related preliminary materials sit in Box HA2317: a "Camp Leadership Project Interim Report" (1959), an application questionnaire (1960), and "Montreal YMCA 1960 Research Project -- Study Group One/Two" plus "1960 YMCA Camping Research Project" folders 1-7 (1960-1961). A previously undocumented **third** report extends Dimock's Kanawana-linked research to 1970: "Research on the Selection and Training of Camp Leaders" (1970), also in Box HA2323.^P Separately, a full-text search of Grace McMorris's thesis found zero mentions of "Dimock" anywhere in the 129-page document -- it is not a source for his counsellor-research studies, despite being cited elsewhere in this KB.
 
+**Who paid for it, and what the association said it found.** The YMCA of Montreal's own annual reports carry a summary of the study while it was running, which is not the study but is more than this article had. Under the heading "Kamp Kanawana 'Study' Findings Are Promising," the report for the year ending 31 December 1960 says: "The Montreal YMCA has been working at the development of techniques which measure the **character growth of members in program**. A Kamp Kanawana study project, **financed by a $1,200 grant from the Zeller Family Foundation, co-ordinated by Dr. Hedley G. Dimock**, tackled this problem last summer. The results reported by Dr. Dimock are encouraging."^25
+
+The finding, as the association stated it: "**The change of attitudes and temperament in selected camp counsellors has been successfully measured.** As a result of these findings, youth programs aimed at attitude change and character growth can now be more exactly planned and their effect on youth more precisely anticipated."^25 The 1961 report repeats the passage with the tense moved from future to present — programmes "are now being more exactly planned."^25
+
+Read that carefully: what the association reports is a **methodological** result. The change was successfully *measured*. Neither report says which way counsellors changed over a summer, and this article does not infer it.
+
+The onward use is stated, though: "The findings are considered of extreme importance for the YMCA's '**value education**' programs now operating in **teenage Hi-Y club programs throughout the city**."^25 So the Kanawana study fed the city branches, not only the camp.
+
+This does not close open question 2 below. The instruments, the scores and the counsellors themselves are still in Concordia Box HA2323 and still unread. What it adds is the funder, the amount, Dimock's stated role, the association's own summary of the result, and where the result went.
+
 ### The 1967 keynote, and "participative camping"
 
 Dimock's influence on Canadian camping ran well beyond the Kanawana studies, and the national camping magazine records it in three places.
@@ -64,6 +74,8 @@ It took effect quickly. By the autumn 1967 issue a Manitoba camp director was wr
 That is a measurable trace. A man who had spent 1960–61 studying counsellor effectiveness at Kanawana went on to give the address that put "participative camping" into the vocabulary of Canadian camp directors, and camps were still citing it by name in 1974. It also gives the Kanawana research a purpose it did not obviously have on its own: the studies of what makes a counsellor effective sit directly behind an argument that camps should stop programming *at* their campers.
 
 **The 1967 address itself has not been located.** It was delivered to the CCA conference and reported in the magazine but not, so far as this read has found, printed there. The OCA Conference Digests for 1966–68 (sold by the CCA at the time) and the Canadian Camping Association's own archive — the collection the CCA resolved in 1973 to deposit at the University of Waterloo — are the places to look for a text.
+
+**Two more surfaces searched, 2026-09-05, and both null.** The complete cached run of *Canadian Camping* — 164 issues — contains the phrase "resistance to change" in exactly one place: Knox's 1974 article. The magazine reported the address twice and printed it never. And the Internet Archive holds twenty-two items under Dimock's name, from *Camping and Character* (1931, his father's) through the 1969 *Studies on the Affect of Participation in Training and Supervisory Programs* to the later organisational-development titles; none of them is the address [f_4858]. **A caution about the title while it is unfound:** "Canadian Camping — Its Resistance to Change" is Knox's wording, seven years after the fact. The contemporaneous report calls it a keynote "on the Individual," delivered from "Springboard No. 1." They may be one address or two, and this article should not treat Knox's title as the document's own until somebody sees it.
 
 ### Founding the Department (1963)
 
@@ -98,7 +110,7 @@ Both George Williams College in Chicago (where H.S. Dimock held a deanship) and 
 ## Open Questions
 
 1. [Substantially resolved] What is the familial relationship between Hedley S. Dimock and Hedley G. Dimock? FamilySearch shows H.S. Dimock had a son **Hedley Jr. born 1928**, matching H.G. Dimock (b. c.1928) — strong evidence for father and son.^17 A source explicitly stating the relationship would close it fully.
-2. [Largely resolved 2026-07-09] What were the findings of the 1960–1961 Kanawana counsellor effectiveness studies? These are unpublished internal reports (Concordia Box HA2323), not journal articles -- confirmed genuine dead end for the actual findings/content without physical archive access; explains why no publication record exists in any academic index.
+2. [Largely resolved 2026-07-09; **advanced 2026-09-06**, and the "genuine dead end" was overstated] What were the findings of the 1960–1961 Kanawana counsellor effectiveness studies? The studies themselves are unpublished internal reports (Concordia Box HA2323), not journal articles, and their data still needs physical archive access — that part stands, and explains why no publication record exists in any academic index. **But the association published its own summary of the findings in its annual reports for 1960 and 1961, which nobody here had looked at**: the change in selected counsellors' attitudes and temperament over a summer "has been successfully measured," the work was funded by a $1,200 Zeller Family Foundation grant with Dimock as co-ordinator, and the result went into the city Hi-Y clubs' "value education" programmes. See the section above and [f_5087]. **What remains open** is substantive rather than bibliographic: in which direction did counsellors change, on what instrument, and against what comparison? The annual reports report a method succeeding, not a result.
 3. [Important] Did Hedley S. Dimock ever visit Camp Kanawana or Camp Otoreke, given his YMCA-Montreal connections and the camp's role in early Canadian camping research?
 4. [Nice-to-have] When exactly did Hedley G. Dimock begin working for the Montreal YMCA?
 5. [Largely resolved 2026-07-09] Can a complete list of ACA Dimock Award recipients be compiled? Extended to 2015 (medium confidence) and 2022-2026 (high confidence, direct primary-source fetch) -- see [[traditions/pip-alumni-award|The Pip Alumni Award]] for the parallel Kanawana-specific award and its own recipient-list gap. 2019-2021 remain unresolved; two specific 2019 claims were checked and could not be confirmed against any primary source.
@@ -137,6 +149,7 @@ P. Concordia University Archives, P0145/12B: "Interpretation of scores for couns
 22. Al Knox (former Director, Camp Wanakita), "A Case for 'Participative' Camping," *Canadian Camping* Vol. 26 No. 2 (Winter/Spring 1974), pp. 6-7, which names the address as "Canadian Camping — Its Resistance to Change" and dates the meeting 2-4 March 1967. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 101).
 23. Manitoba camp director quoted in *Canadian Camping* Vol. 20 No. 1 (Autumn 1967), p. 11 [src_ia_canadian_camping_collection].
 24. John Latimer, "International Camping Congress Update," *Canadian Camping* Vol. 34 No. 1 (Spring 1982), p. 13, with the accompanying fund-raising appeal signed by Al Goodman [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 141). A list of speakers committed as of spring 1982, not the final programme.
+25. YMCA of Montreal annual reports for the years ending **31 December 1960** and **31 December 1961** [src_ymf_sgw_ymca_annual_report_1960, src_ymf_sgw_ymca_annual_report_1961]. December-year volumes, so their seasons are 1960 and 1961 (see [f_5081]). Camps sections read 2026-09-06 under p_441. See [f_5087], [f_5088].
 
 ## Research Notes
 

@@ -1,7 +1,7 @@
 # The Postwar Gap (1947–1967)
 
-*Status: draft | Sources: 10*
-*Last Updated: 2026-08-14*
+*Status: draft | Sources: 14*
+*Last Updated: 2026-09-06 (a camper's letters from the 1950s, described in a published memoir)*
 
 ## Overview
 
@@ -18,6 +18,66 @@ Nelson McEwen, who had directed Kanawana in an administrative capacity since rou
 What is known from this window comes from people who passed through Kanawana on their way elsewhere, rather than from any camp record itself. In 1951, McEwen — by then General Secretary of the Saint John YMCA, having held the National Council Boys' Work Secretary role earlier, 1941–1945 — recruited Ross Bannerman into YMCA camp work at Camp Pascobac; Bannerman went on to direct Camp Stephens in Winnipeg in 1956 before eventually authoring his own 1969 report on Kamp Kanawana. See [[people/nelson-mcewen|Nelson McEwen]] and [[people/ross-bannerman|Ross Bannerman]] for both men's fuller Kanawana-adjacent careers. Separately, A. Ross Seaman himself had directed Camp Perrot before arriving at Kanawana — a 1952 Camp Perrot annual report thanks him as "Past Director of Camp Perrot," and a 1959 internal memo records him personally planting trees there "about 1950."^3 See [[site/camp-perrot|Camp Perrot]] for the primary-source detail.
 
 **A document that should carry Kanawana's own late-1950s figures exists, and it was written by an outsider.** In 1986 *Canadian Camping Magazine* interviewed the widow of **W. E. (Ted) Yard**, YMCA Camp Pine Crest's director from 1946 to 1963 and CCA president 1953-55, who listed among his work "a project of the **Boys' Work Committee of the National Council YMCA**. It is **a survey of costs and factors in Canadian YMCA Camps**. This is probably what he did his thesis on when he completed his Master's degree at **George Williams College in 1958/59**."^10 A national YMCA costing survey of that date is very unlikely to have omitted the YMCA of Montreal's own resident camp. **It would fall squarely inside the span this article cannot document, and it would report Kanawana from outside the YMCA of Montreal's own files** — which is exactly what is missing, since the Montreal annual reports of these years name no camp director and give the camp no separate accounting. Nothing here establishes that Kanawana appears in it; the survey has not been seen. It is a lead, tracked as `p_319`, and the places to look are the George Williams College thesis holdings (now Aurora University) and the YMCA of the USA archives at the University of Minnesota, which hold the Canadian National Council material of this period. The same interview names a second Yard document then still in circulation, the **Ted Yard Camp Director's Calendar**, compiled in 1959.
+
+### A camper's letters out of the empty decade, described in a published memoir
+
+Almost nothing survives from 1947 to 1958 in this project's own records. One thing that survives is
+outside them, in a Holocaust survivor's memoir published in 2013.^11
+
+**Judy Abrams** was born in Budapest on 28 April 1937 and came to Montreal in 1949. Writing about a
+summer of her Montreal adolescence — so the early or middle 1950s — she says: "Durant l'été, lorsque je
+suis partie dans un camp de vacances privé, appelé Escobar, **il a pour sa part rejoint le camp Kanawana
+du YMCA. Il m'a écrit de longues lettres décrivant de manière détaillée ses voyages en canoë dans la
+nature sauvage des Laurentides**."
+
+*He is not named, and the relationship is not stated.* The passage was recovered from a
+lending-restricted book in windows of a dozen words at a time, and neither his name nor the year is in
+what came back. Nothing should be inferred about either.
+
+What it is evidence of is worth having anyway. **Boys at Kanawana in the 1950s wrote long letters home
+describing their canoe trips in detail** — long enough, and vivid enough, that sixty years later the
+person who received them remembered them as long and detailed and put them in a book. This project holds
+directors' reports, annual reports and plaques for this camp; it holds almost nothing written by a
+camper. Those letters, if any survive in a family's papers, are exactly the missing kind of document,
+and this is the first evidence that they were ever written.
+
+**A third survivor memoir, and the first with a photograph.** Arthur Ney's *W Hour* — the title is
+the hour the Warsaw Uprising began — carries a caption: "**Summer vacation with friends at ymca
+Camp Otoreke in the Laurentians. Arthur is in front, centre.**"^12 Ney was born in Warsaw on 25 June
+1930 and reached Canada in 1948, so this is a young survivor, eighteen or older, photographed with
+friends at the association's camp on Lac Saint-Joseph in one of the earliest summers of this gap.
+
+*[Corrected 2026-09-06. This paragraph read "**1947.** Summer vacation…" and called him "a
+seventeen-year-old survivor newly arrived in Canada… in the first summer of this gap." The publisher's
+own page for the book says he arrived in Canada in **1948**, and independent biographical summaries
+agree.^13 He was not in the Laurentians in the summer of 1947. The likelier explanation is not that
+either source is wrong: the search-inside snippet this project read runs as "1947. 2  SUMMER VACATION
+WITH FRIENDS AT YMCA CAMP OTOREKE…", which looks like two captions run together — the year belonging to
+photograph 1 and the Otoreke photograph being number 2, with no year of its own. The year is therefore
+dropped from the quotation above rather than replaced with a guess. Recorded as conflict **c_068**, and
+settled only by the book's photo insert read on the page; it is lending-restricted and the publisher
+offers no full text.]*
+
+**Three published memoirs now put Jewish refugee and survivor children at a Montreal YMCA camp in
+these years** — Judy Abrams, Michael Kutz and now Ney, all in the Azrieli Foundation's series, all
+found within a week of each other and none of them looking for a camp. That is a pattern rather than
+a coincidence, and **this project has no institutional record of it at all**: no camp document held
+here mentions refugee or survivor children, and the annual reports of these years say nothing. The
+memoirs are the only evidence, and they are evidence of something the camp's own paperwork did not
+think to write down.
+
+The book is lending-restricted and has not been read; this is one caption. Whether Ney went once or
+every summer, how he got there and who paid are unknown.
+
+## What the association said camping was for, June 1946
+
+Almost nothing survives from these years in the camp's own voice. This is the association's, printed under the plain heading **"Camping"** and credited to *Y.M.C.A. News*, Montreal — so Montreal's own words, picked up and reprinted nationally:^14
+
+> "Camping offers to youth the opportunity to experience the unfolding of his highest aspirations and the toughening of his self-reliance **in the presence of grandeur and inexorable law**. For the youth, assistance is necessary in arousing his intelligent interest in the natural world. Camping provides this through **the companionship of an older counsellor more deeply versed in the language of nature**, who can help him enrich his experiences, promote his understanding, awaken his enthusiasm and inspire his purposes **in a greater degree than any formal studies**."
+
+Two things in it are worth the space. It is a **rationale for the counsellor relationship** — the older companion, not the programme, is what the camp is said to provide — which is the same claim the CIT and leadership tracks rest on and which [[traditions/cit-lit-program|the CIT/LIT article]] traces back to a national statement of 1931. And it is a **claim of superiority over schooling**, made without hedging, by the body that ran Kanawana.
+
+*The same issue carries a truncated line worth flagging rather than using.* A staff-changes list of men returning from war service includes "**W. E. Yard (Ted), from Boys-Building,**" and the destination is lost at a column break in the scan.^14 This project holds Ted Yard from 1951 onward; the line puts him in a Boys-Building post by mid-1946 and says nothing more.
 
 ## A. Ross Seaman's Directorship (1959–1967)
 
@@ -70,6 +130,10 @@ In 1960–1961, Hedley Gardner Dimock — Coordinator of Staff Development and T
 8. "Kamp Kanawana History," presented at a Training Course, 6 June 1951 [src_ia_kanawana_history_1951]; YMCA of Montreal Annual Reports 1950, 1954, 1955, 1959 and 1962 [src_ia_ymca_montreal_annual_reports_collection].
 9. *Kamp Kanawana Annual Report 1969* [src_ia_kanawana_report_1969]; *Kamp Kanawana Director's Report 1976* [src_ia_kanawana_directors_report_1976].
 10. "Personality Profile: W. E. (Ted) Yard (1919-1983)" — interview with Shirley Yard and Ted Yard Jr., *Canadian Camping Magazine* Vol. 38 No. 2 (Fall 1986), pp. 10-15 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 159).
+11. Judy Abrams, *Retenue par un fil / Une question de chance* (Azrieli Foundation, French edition of *Tenuous Threads*, 2013), Internet Archive scan leaf 254 [src_abrams_retenue_par_un_fil]. **One passage only**, reconstructed 2026-09-06 from five overlapping Open Library search-inside queries; the book is lending-restricted and has not been read. The reconstruction and its queries are cached at `sources/cache/openlibrary-search-inside/2026-09-06-abrams-kutz-memoir-passages.txt`. See [f_4937].
+12. Arthur Ney, *W Hour* (Toronto: The Azrieli Foundation, 2014) [src_ney_w_hour_2014]. **One photograph caption only**, found 2026-09-06 by an Open Library search-inside sweep on "Otoreke"; the book is lending-restricted and has not been read. See [f_5198].
+13. The Azrieli Foundation, Holocaust Survivor Memoirs Program, publisher page for Arthur Ney, *W Hour* [src_azrieli_w_hour_page_2026]. Fetched and cached in full 2026-09-06. Its "At a Glance" block gives "Postwar France / Arrived in Canada in 1948"; its excerpt is a 1944 Warsaw chapter and no full text is offered. See [f_5232] and conflict [c_068].
+14. "Camping," *The News Bulletin* Vol. 21 No. 4 (June 1946), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_21_04], credited in the bulletin to *Y.M.C.A. News*, Montreal. Internet Archive item `the-news-bulletin-vol-21-no-04`, in the `ymca-montreal-fonds` collection. Found 2026-09-07 by the enumeration at [f_5243]. See [f_5254].
 
 ## Research Notes
 

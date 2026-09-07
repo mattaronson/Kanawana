@@ -1,13 +1,16 @@
 # The Quebec Camping Landscape
 
-*Status: E1-reviewed | Sources: 25*
-*Last Updated: 2026-09-04*
+*Status: E1-reviewed | Sources: 29*
+*Last Updated: 2026-09-06*
 
 ## Overview
 
 Camp Kanawana (1894) is the oldest residential summer camp in Quebec, but it has never existed in isolation. From its founding, Kanawana operated within an expanding ecosystem of camps — YMCA, YWCA, Scout, religious, and private — that collectively shaped the Laurentian and broader Quebec camp tradition. Several of these camps shared staff, programming ideas, and institutional connections with Kanawana, while others developed independently but occupied the same regional landscape. This article surveys the camps that form Kanawana's wider context, focusing on those without standalone articles elsewhere in this wiki.
 
 This is also the wiki's answer to a question the folder structure alone doesn't explain: why do some sibling camps (Otoreke, Perrot, Becsies) live under `places/`, while others (Oolahwan, Ouareau, Weredale) live under `context/`? The split is real, not arbitrary — `places/` is for camps the YMCA of Montreal itself directly operated as part of the same institution as Kanawana; `context/` is for camps run by a distinct organization (the YWCA, an independent foundation, etc.) that nonetheless intersected with Kanawana's history. The table below tabulates every camp on this page by that same distinction (the "Operating Body" column), so the folder split should now read as a documented fact rather than an unexplained inconsistency.
+
+The body that accredited most of the camps named here, and through which they were
+members of the national association, has its own article: [[connections/institutional-lineage/quebec-camping-association|The Quebec Camping Association / Association des Camps du Québec]].
 
 ## Camps at a Glance
 
@@ -32,6 +35,58 @@ This is also the wiki's answer to a question the folder structure alone doesn't 
 | Camp Wanakita | YMCA Hamilton-Burlington-Brantford | National peer | 1953– | Not confirmed in current sources | *(covered above, no standalone article)* |
 | John Island Camp | YMCA of Northeastern Ontario | National peer | 1954– | Not confirmed in current sources | *(covered above, no standalone article)* |
 
+## The province in one list: the CCA Directory of January 1975
+
+The Canadian Camping Association's Directory Issue for January 1975 prints every member camp by
+province, with a founding year beside each name. The Quebec section lists **64 camps**, and it is the
+closest thing this project has to a census of the field Kanawana operated in.^26
+
+**Kanawana's own entry, field by field:** "KANAWANA (1894) (YMCA)"; director **Derek V. Walsh**; camp at
+P.O. Box 310, St. Sauveur des Monts (514-227-2414); winter office at 1441 Drummond Street, Montreal;
+activities **tripping, swimming, sailing, arts & crafts, C.I.T. program**; capacity **90 boys 8–15 and
+90 girls 8–15** [f_4866]. That last figure is the useful one — an even ninety and ninety, seven years
+after coeducation began, in a year for which this project's Kanawana record is otherwise thin.
+
+*(Three unlabelled columns follow the address in every Quebec entry, reading "X X C" for Kanawana. The
+header row is not recoverable from this scan, so they are left uninterpreted here rather than guessed
+at.)*
+
+**Kanawana carries the earliest founding year in the province, by twelve years.** Sorted by the date the
+directory itself prints:
+
+| Founded | Camp |
+|---|---|
+| **1894** | **Kanawana** |
+| 1906 | Brewery Mission |
+| 1917 | Oolahwan |
+| 1918 | Lewis |
+| 1921 | B'nai B'rith |
+| 1922 | Ouareau |
+| 1924 | Oasis Notre-Dame |
+| 1925 | Nominingue · Santé Bruchési |
+
+*(A query against that table, added 2026-09-06: Larue and Bélec's *Le Québec en plein air* (2016) dates **Camp Nominingue to 1911** and calls it the first francophone camp, fourteen years earlier than the association's own directory has it here. The two may be measuring different things — a site occupied against a camp incorporated — and neither is preferred. The 1911 Nominingue sentence is quoted in full at [f_4939] — "En 1911, le Camp Nominingue, le premier camp francophone, s'installe sur la rive de ce grand lac des Laurentides" — which also records what the same page of Larue and Bélec gets wrong about Kanawana; see [[site/camp-otoreke|Camp Otoreke]].)*
+| 1926 | Wa-Thik-Ane · Kinkora · Ste-Jeanne d'Arc |
+
+**What that is and is not.** It is the association's own compilation of what its Quebec member camps
+told it in 1974–75 — not an independent test of anyone's founding date, and not a survey of the
+province, since a camp outside the association is not in it. It says nothing about the national question
+argued in [[history/oldest-camp-question|Is Kanawana the Oldest Camp in Canada?]]. What it does show is
+that within Quebec, in the association's own book, the date was not contested: it sits in the listing as
+a plain fact, twelve years ahead of the next camp [f_4867].
+
+**And the shape of the field.** Six of the 64 were founded after 1970 and about a quarter before 1940.
+The list names camps this wiki already follows — Oolahwan, Lewis, Ouareau, Nominingue, Kinkora, Weredale
+(1933), the Crippled Children's camp (1938) that
+[[people/tony-shorgan|Tony Shorgan]] directed, Perrot Day Camp (1948), Carowanis (1958) — beside a long
+tail it does not: Santé Bruchési (1925), Wa-Thik-Ane (1926), Frontier Lodge (1933), Enfants Infirmes
+(1938), Quebec Lodge (1943), Amy Molson (1944), Massad and Pembina (1947), Pine Valley and Trail's End
+(1949), Massawippi (1951), Olier (1954), Mère M. L. Clarac (1957), Robinson, Val Heureux and Wilvaken
+(1958), Demetelin (1960), Savio (1961), Kennebec (1967), Maro Mac (1968) [f_4868]. **Francophone and
+anglophone camps are interleaved in one alphabetical list**, fifteen years after the French section
+formed and fourteen after it joined the QCA — see
+[[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]].
+
 ## The YMCA Montreal Camp Network
 
 The YMCA of Montreal operated multiple camps alongside Kanawana. The Concordia University Archives (P0145) document at least four distinct YMCA Montreal camp properties:
@@ -44,11 +99,112 @@ The YMCA of Montreal operated multiple camps alongside Kanawana. The Concordia U
 
 **[[site/camp-becsies|Camp Becsies]]**. Another YMCA Montreal camp on Lac des Becs-scie, approximately 1.5 km west of Camp Kanawana. Documented in P0145/12D, with records spanning 1929–1936 and 1960–1971.^2 The camp served youth (including children from the Montreal Protestant Orphans' Home) in its first period, and was repurposed for family camping in its second.
 
+**Camp Macaulay** (at least 1932). Named once, in the YMCA of Montreal's annual report for the year
+ending 31 March 1933: "the boys' section at **Camp Macaulay** was under the charge of **C. J.
+McGerrigle**, who chose his staff of councillors from members of this branch."^29 The sentence sits
+under **International Branch** — the association's immigrant-services branch, whose next paragraph
+describes its "major task, viz., service to the foreigner in our midst, enabling him to adjust
+himself to his new surroundings, to learn the language of his adopted homeland" — so its boys went to
+camp under the man who was North Branch's Executive Secretary and, from about 1935, Camp Otoreke's
+director. **This is the only Montreal YMCA camp operation this project has connected to immigrant
+communities**, and the name appears in no other document held here.
+
+*Two open questions about it, neither answered.* A corpus search finds "Camp Macaulay" in **Union
+United Church's centennial history** — Montreal's historic Black congregation, in Little Burgundy —
+as a photograph caption on page 67, beside a Canadian Girls In Training photograph.^29 Same name,
+same city, same era. **That is not evidence they are the same camp**: the International Branch worked
+with immigrant Montrealers (the same report describes Boy Scout work with Italian and Syrian boys) and
+Union United served Black Montrealers, and those are not one constituency. And the *name* itself is
+unexplained: Robertson and T. B. Macaulay of Sun Life were the association's subscribers from the
+1880s, which makes a donor naming plausible and nothing more. See `p_456`.
+
 **YMCA Day Camps**. In recent decades, the YMCA of Quebec ran day camps at Concordia University (Fine Arts Camp, Science and Engineering Camp) alongside Camp Kanawana programs, until discontinuing day camps in fall 2025.^4
 
 ## Laurentian Neighbours
 
 The Laurentian Mountains north of Montreal became one of Canada's densest concentrations of summer camps in the twentieth century. Several camps near Kanawana have their own significant histories.
+
+### The camps Quebec has officially named
+
+Quebec's toponymic register has an entity class called **Camp**, and it was swept province-wide on
+6 September 2026 on the hope that it would amount to a map of the province's camps that no directory
+gives.^27 **It does not, and the hope is worth correcting rather than quietly dropping.** Of the
+**87 entries**, about forty are on **Île d'Anticosti** — Jupiter-12, Jupiter-24, Chicotte-la-Mer,
+Baie-de-la-Tour — and most of the remainder are outfitters' camps in the Laurentides and Jacques-Cartier
+wildlife reserves. Thirty-two of the eighty-seven were officialised in 2026 alone, in two batches, which
+is a mapping exercise and not a wave of camp founding. A hunting camp and a children's camp are the same
+word in this file.
+
+What survives the sieve is a genuine band of **children's camps through the Laurentians and Lanaudière**,
+and seven of them appear nowhere else in this project:^27
+
+| Camp | Where | Officialised | Register's note |
+|---|---|---|---|
+| **Camp Hiawatha** | Sainte-Agathe-des-Monts | 1984-09-06 | origin recorded as **Mohawk** |
+| **Camp Olier** | Sainte-Anne-des-Lacs | 1985-11-07 | 3 km from Kanawana |
+| **Camp de l'Avenir** | Sainte-Anne-des-Lacs | 2005-12-08 | 3 km from Kanawana |
+| **Camp Aurelda** | Mandeville | 1981-07-09 | beside Camp Marian, same day |
+| **Village-des-Jeunes** | Saint-Côme | 1986-06-12 | |
+| **Colonie de Granby** | Clarenceville | 1983-09-01 | |
+| **Camp Glen Emma** | Routhierville | 1989-02-07 | Gaspé, far outside the usual band |
+
+**Two of the seven have origin notes, and both are Catholic orders' camps three kilometres from
+Kanawana.**^28 The Commission on **Camp de l'Avenir**: "Ce camp de vacances, situé sur la rive sud du
+**lac Ouimet**, fut fondé en **1964** par les **clercs de Saint-Viateur**" — a dated founding, a named
+order and a named lake, in three lines, for a camp this project had never heard of. And on **Camp
+Olier**: "Son nom rappelle le souvenir de **Jean-Jacques Olier**" (Paris, 1608–1657), founder of the
+Compagnie des prêtres de Saint-Sulpice and, with Jérôme Le Royer de La Dauversière and Pierre Chevrier,
+of the Société de Notre-Dame de Montréal — the society that founded Ville-Marie. The camp three
+kilometres from the YMCA's is named for one of the founders of Montreal.
+
+**That is the same confessional density this wiki already describes twenty kilometres north**, at
+Saint-Adolphe-d'Howard, where a Catholic camp and a Jewish camp sat beside the YMCA's Otoreke — except
+that it is on Kanawana's own doorstep, and nobody here had noticed. See
+[[site/camp-otoreke|Camp Otoreke]].
+
+**And both are in the January 1975 directory this article already quotes, under names nobody here had
+looked up.**^26 The entries settle what the fiches only implied:
+
+> **OLIER (1954)** — M. **Côme Lalande, PSS** — 1931 ouest, Sherbrooke, Montréal H3H 1E3 — R.R. no. 1,
+> Piedmont, Ste-Anne des Lacs — **60 garçons 12-16** — Arts plastiques, Exp. corporelle, Artisanat,
+> Hébertisme, Camping
+
+> **HIAWATHA (1932)** — Mr. & Mrs. **B. Jacobson** — 6595 Côte St. Luc Rd. No. 203 — R.R. no. 2, Ste.
+> Agathe des Monts — **85 boys 5-16, 85 girls 5-16** — Tennis, Golf, Ice Hockey, Fine Arts, Riding
+> (extra); season **June 24 – August 18**
+
+**"PSS" is *Prêtres de Saint-Sulpice*.** So the Commission's note that Camp Olier's name "rappelle le
+souvenir de Jean-Jacques Olier" understates it: the camp was **run by the order Olier founded**, not
+merely named after him — a Sulpician boys' camp of sixty, aged 12 to 16, eight kilometres from Kanawana,
+founded in 1954.^26 *(A coincidence worth following rather than asserting: the de-officialised register
+has "Lac des Frères" renamed **Lac Côme-Lalande** at Sainte-Anne-des-Lacs in 2005. Almost certainly the
+same man. Nothing read here says so.)*
+
+**Hiawatha was co-ed from 1932** — 85 boys and 85 girls, from age five, family-run, twenty kilometres
+away. **Kanawana did not admit girls until 1968**, and declined an internal recommendation to do so in
+1965. That is not a criticism of the YMCA's decision; it is the market the decision was taken in, and it
+belongs beside [[history/coeducation-gender|Coeducation and Gender at Kanawana]].
+
+**Camp Hiawatha, Old Brewery Mission, Camp Marian and Camp Aurelda all say "origin not determined."**^28
+Their fiches carry the identical sentence the Commission gives for Lac Kanawana and Camp Kanawana
+themselves. Hiawatha is the interesting one: the dataset records its origine linguistique as **Mohawk**
+while the fiche disclaims knowing where the name came from — the same split found for Kanawana's own
+Algonquin classification. Twenty kilometres apart, two Laurentian camps carry names of that kind and the
+province can account for neither.
+
+Alongside them the register carries camps this wiki already follows — Kanawana, Kinkora, Ouareau,
+Nominingue, Quatre-Saisons, Sainte-Jeanne-d'Arc, Bosco, Marian, Gatineau — and one institutional
+neighbour worth a second look: **Old Brewery Mission**, registered as a camp at **Wentworth-Nord**
+(45.89028 / -74.42083) in 1986. Montreal's oldest homeless mission had a named camp in the Laurentians,
+about 20 km west of Kanawana.^27
+
+**Two things follow, and only one of them is comfortable.** Camp Hiawatha is twenty kilometres from
+Kanawana, its name is registered as Mohawk in origin, and it is not mentioned anywhere in this project —
+which matters for the argument in
+[[site/indigenous-names-and-land|Indigenous Place Names and Land History]], because it shows Kanawana
+was not alone in the district in carrying a name of that kind. And **Camp Tamaracouta, whose lot
+Kanawana bought into in 1964, is not a registered camp at all** — only its lake is, with its origin
+recorded as Algonquin. Registration in this file tracks nothing about a camp's size or age.
 
 ### Camp Tamaracouta (1912)
 
@@ -157,6 +313,10 @@ Several patterns emerge from the Quebec and Canadian camp landscape:
 23. Trent University Archives, Quebec Camping Association fonds (85-013, 1948-1982) [src_trent_qca_fonds].
 24. Wilfred A. Jackson, "Planning Your Years — A Maintenance Program," and "Trampolines," *Canadian Camping* Vol. 30 No. 2 (April 1978), pp. 8-9, 11-12 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 118); Jackson's role at the QCA's 40th anniversary conference is from Vol. 29 No. 2 (March 1977), p. 1 (issue 112).
 25. "Y.M.-Y.W.C.A. Camp Stephens," by Grant Platts, Scott McGregor and Juliane Schaible, p. 21, and "What's In A Name? Camp Stephens," p. 27, *Canadian Camping Magazine* Vol. 39 No. 1 (Summer 1987); with Kelley Byrne, "A Tribute to the Oldest Camp in Canada! Big Cove YMCA Camp," *Canadian Camping Magazine* Vol. 38 No. 3 (Winter 1987), p. 8 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issues 160 and 162).
+26. *Canadian Camping* Vol. 27 No. 2 (January 1975), the Canadian Camping Association Directory Issue, Quebec section [src_ia_canadian_camping_collection]. Kanawana's entry and the 64 Quebec member camps with their printed founding years, extracted 2026-09-05. See [f_4866], [f_4867], [f_4868].
+27. Commission de toponymie du Québec, *Toponymes officiels*, entity class **Camp**, swept province-wide 2026-09-06 [src_donneesquebec_bnlq_2026]. All 87 entries read. See [f_4893], and [f_4891] for the Kanawana district. The register records a place name, not an institution: it says nothing about who ran a camp, when it opened, or whether it is still running.
+28. Commission de toponymie du Québec, fiches for **Camp Olier** (no_seq 145208), **Camp de l'Avenir** (393822), **Camp Hiawatha** (137664), **Old Brewery Mission** (150335), **Camp Marian** (105558) and **Camp Aurelda** (105559) [src_ct_fiches_neighbour_camps_2026]. Fetched and read 2026-09-06 (p_423); cached at `sources/cache/toponymie/`. See [f_4894], [f_4895].
+29. YMCA of Montreal annual report for the year ending 31 March 1933 [src_ymf_sgw_ymca_annual_report_1933], the International Branch section; and Maranda Moses, *Proud Past, Bright Future* ([Montreal]: Union United Church, 2008) [src_moses_union_united_proud_past_2008], one line of a photo-caption list. Read 2026-09-06 under p_456. The Moses book is lending-restricted and has not been read. See [f_5201].
 
 ## Research Notes
 

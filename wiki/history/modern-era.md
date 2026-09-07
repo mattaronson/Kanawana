@@ -1,7 +1,7 @@
 # The Modern Era: The Two-Tier Era (1995–Present)
 
-*Status: draft | Sources: 17*
-*Last Updated: 2026-08-28*
+*Status: draft | Sources: 20*
+*Last Updated: 2026-09-06 (the credit directories, which date the Drummond Street move and settle whose staff figures they are)*
 
 ## Overview
 
@@ -18,6 +18,64 @@ The Executive Director role passed from Boyer to [[people/gary-white|Gary White]
 ## The Green Shift (2006–2012)
 
 Beginning in 2006, Kanawana undertook a "virage vert" (green shift) aimed at reducing its ecological footprint and repositioning itself as an outdoor education centre; the Montreal YMCA's 2007 annual report frames it as a $5 million development and Quebec's first "green camp."^6 The Grand Portage cabin was demolished around 2006 to make way for new washroom buildings housing 16 commercial Clivus Multrum composting units and 32 dry toilets, installed specifically to protect Lake Kanawana from septic pollution.^10 ^11 Two green sanitary installations were tested during the summers of 2007 and 2008.^11 By December 2008, $1.48 million had been raised toward the $5 million goal;^7 by 2009 Phase I was nearly complete, with twelve new three-season cabins erected for younger campers and counsellors.^8 The project earned an honourable mention for environmental achievement at Saint-Sauveur's 2010 Gala Méritas, and a new eco-educational pavilion opened in 2012.^9 TELUS contributed $50,000 in 2010 toward a three-season educational pavilion at the camp;^12 whether that grant funded the pavilion that opened in 2012 is not stated by any source and is not assumed here. The green shift enabled the camp to serve "four times more young people" than before, transforming it from a summer-only operation into a three-season facility — see [[traditions/environmental-history|Environmental Education and Stewardship at Kanawana]] for the full year-by-year account, including subsequent water-quality monitoring data and school-partnership conservation programming.
+
+### The camp as it described itself to job-seekers, 2006 and 2008
+
+The green shift is documented from the YMCA's side. What the camp told **applicants** in the same years
+is in a commercial job directory, and it is the plainest self-description this article holds for the
+period.^18
+
+> "YMCA Kamp Kanawana is located outside of St.-Sauveur-des-Monts, Quebec, about an hour North of
+> Montreal. The camp is nestled in the heart of the Laurentian Mountains on **500 acres** [2006] /
+> **550 acres** [2008] of pristine wilderness with 3 private lakes. Kanawana offers programming for boys
+> and girls **aged 5 to 16**, including canoeing, nature, hiking, sailing, **rockclimbing**, kayaking,
+> swimming, **ropes course activities**, arts & crafts, drama…"
+
+Four things it settles or moves. The winter address is **1435 Drummond**, not the 1441 printed in every
+earlier directory this project holds, from 1975 to 1987 — and, it now turns out, through 2001. The **age floor is five**, against 7 in the
+1983-84 and 1987 guides and 8 in 1975-76. **Rockclimbing and a ropes course** appear in the activity
+list, which they do in none of the earlier ones. And the **acreage moves between the two editions**, 500
+to 550, in copy that is otherwise word for word the same — so the camp's own figure changed between 2006
+and 2008 and landed on the number the YMCA still uses (see
+[[site/the-kanawana-site|The Kanawana Site]]).
+
+**And the staff structure is named post by post**, which is as close to an organigram as this article
+gets for the 2000s: "junior counselor (17 years), counselor (18 years and over), lifeguard, program
+specialist (such as canoeing specialist, sailing specialist…), maintenance assistant/counselor, office
+assistant, **counselor-in-training director**, **out-trip director**, **assistant out-trip director**,
+**nature leader/counselor**, **head lifeguard/counselor**, and counsellors."^18 The out-trip
+directorship with its own assistant is the tripping programme's line of command a generation after
+[[traditions/canoe-trips|Les Voyageurs]] stopped being listed as a camp of its own.
+
+*A caution kept with the source.* The directory page carries several employers' entries, and other
+plausible-looking post lists came back in the same search windows. None of those is attributed here.
+Only the text walked contiguously from Kanawana's own heading is quoted.
+
+
+## The camp in the credit directories, 1993–2001
+
+Dun & Bradstreet's *Canadian Key Business Directory* lists the association every year through the
+1990s, and in four of those years — 1994, 1997, 1999 and 2000 — the entry carries a division line for
+the camp: "**Y M C A de Montreal, Kamp Kanawana Div Of, 1441 rue Drummond, Montreal, PQ H3G 1W3, Tel
+514-849-5331**", under SIC 8399, Social Services.^19 Five further volumes (1993, 1995, 1998, 2001 and
+one the catalogue leaves undated) carry the same association entry at the same address without naming
+the camp. Nothing should be read into which years do and don't: on a scanned directory page that is
+far likelier to be OCR or the publisher's own rotating level of detail than anything that happened at
+Kanawana.
+
+What it is good for is the address. **1441 rue Drummond through 2001**, against 1435 in the 2006
+job directory above, dates the association's move to between those two years — the only bracket this
+project has for it.
+
+*What it is not good for, and the trap in it.* The entry carries employment and sales figures, and
+"Emp Here 55" is exactly the sort of number one would like for a camp staff — David Leduc's own
+account gives 75. It is not the camp's. The entry's D-U-N-S number, 20-765-0813, appears in
+twenty-four cross-reference listings in older volumes of the same directory, and every one of them
+reads "YOUNG MENS CHRISTIAN ASSOC MTL, 1441 Rue Drummond". The number belongs to the association;
+the camp had none of its own; and "Emp Here", "Emp Total 1,750" and "Sales 52,600,000" describe the
+YMCA of Montreal at its downtown office. The sales figure repeats unchanged across 1995, 1997, 1998
+and 1999 and is then replaced wholesale — a credit file's estimate carried forward and revised, not
+an annual series, and not a source for anything about the camp's finances.
 
 ## Gender-Expansive Programming and the Mountaineers (2022)
 
@@ -93,6 +151,30 @@ one alumnus calling another, three decades after both had left staff. Manitt was
 staff in 1997; both plaques name him.^17 That is the documented distance between the two men: shared
 seasons in the mid-1990s, thirty-one years before the phone call.
 
+## The Endowment Fund, and where Kanawana sat in it
+
+The 2004-2005 annual report sets out the association's **Endowment Fund**, whose capital is held "in
+perpetuity" with annual revenues distributed under Board policy so that "even during turbulent
+market conditions, the capital of the Fund is protected and continues to provide a steady source of
+financial support for the community programs offered by the nine YMCA centres **and its camp, YMCA
+Kanawana**." **As at 31 May 2005 the fund's market value was $4.3 million**, up "more than 16%
+compared to the previous year". Of the annual revenues, **$39,000 went to programmes selected by
+donors, "such as international development and Camp YMCA Kanawana"**, and **$63,650 to special
+projects** chosen by an Allocations Committee of Board volunteers and staff, from ten selected
+applications.^20
+
+The same report's President's message records that careful financial management "will help us
+implement an **extensive re-investment plan in our Pointe-St-Charles and Kanawana facilities**" —
+written in the year before the green shift's design work began, and the earliest signal this project
+has of the money behind it.^20
+
+**A lead, not an answer, for a question open elsewhere.** [[people/maureen-mcbride|Maureen
+McBride]]'s article asks what became of the **Maureen McBride Endowment Fund**, established in 1993
+to provide camperships. The fund described here is the association's general one and **is not the
+same thing**; nothing read says the McBride fund was folded into it. But a donor-selected allocation
+"such as… Camp YMCA Kanawana" is the shape a named campership fund would take inside an institutional
+endowment, and the association's endowment reporting is where to look next.
+
 ## Open Questions
 
 1. [Important] How exactly did the annual reports' single "Director" listings track the Executive-versus-on-site split in years like 2001–2007, when the record shows apparent inconsistencies (e.g. François Dauphin's 2007 head-office title alongside Sean Day's on-site presence)? See [[people/directors-index|Directors and Staff of Camp Kanawana]]'s Open Questions for the full discussion.
@@ -132,6 +214,10 @@ seasons in the mid-1990s, thirty-one years before the phone call.
 15. Kamp Kanawana parent preparation guides, 2025 and 2026 [src_kk_prep_guide_2026], [src_kk_prep_guide_2025]. See [f_2314].
 16. Oral history, Matt Aronson, 28 August 2026 [src_oral_aronson_westmount_bus_2026]. See [f_2324], [f_2325]. Uncorroborated by any document; the operator is a participant in the account.
 17. "CITS 95" and "Kanawana Staff 97" plaques, Kanawana Flickr "Plaque" album [src_flickr_kanawana_plaque_album]; oral history, Matt Aronson, 28 August 2026 [src_oral_aronson_cit_1995]. See [f_2326], [f_2327], [f_1614], [f_1705].
+18. *The Canadian Summer Job Directory*, 2006 and 2008 editions, the entry "YMCA KAMP KANAWANA" [src_canadian_summer_job_directory_2006_2008]. **One entry from each edition**, reconstructed 2026-09-06 from ten overlapping Open Library search-inside queries; both books are lending-restricted and neither has been read, and the tail of the activities list was not recovered. Cached with the queries, and with the caution about the page's other employers, at `sources/cache/openlibrary-search-inside/2026-09-06-canadian-summer-job-directory-2006-2008.txt`. See [f_4947].
+
+19. *Canadian Key Business Directory* (Dun & Bradstreet Canada), the volumes for 1993, 1994, 1995, 1997, 1998, 1999, 2000 and 2001, plus one the Internet Archive leaves undated [src_canadian_key_business_directory_1993_2001]. **One entry, walked in each volume from the D-U-N-S number that opens it to the one that opens the next**, reconstructed 2026-09-06 from overlapping Open Library search-inside queries; every volume is lending-restricted, none has been read, and page images return HTTP 403, so the column alignment of the officer titles could not be checked against the page. Cached with its queries, its control test and its access failure at `sources/cache/openlibrary-search-inside/2026-09-06-canadian-key-business-directories-ymca-kanawana.txt`. See [f_4951].
+20. YMCA of Greater Montreal annual report 2004-2005 [src_ymf_sgw_ymca_annual_report_2004_2005], the Endowment Fund pages and the President's report. Read 2026-09-06 under p_454; no Wayback copy of this year exists in this project.
 
 ## Research Notes
 

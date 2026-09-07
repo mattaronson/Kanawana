@@ -97,7 +97,7 @@ Faubourg Building FG A112, 1250 Guy.
 > been working from your published finding aid for the YMCA of Montreal fonds (P0145, generated
 > 24 November 2023), which has been invaluable.
 >
-> I have four requests, in descending order of importance.
+> I have six requests, in descending order of importance.
 >
 > **1. P0145/12C01 — "Evaluation, recommendations re Camp Otoreke as a mixed [gender] camp, 1936"
 > (Box HA2315).** This is the single document I would most like to see. Kanawana did not admit girls
@@ -141,6 +141,17 @@ Faubourg Building FG A112, 1250 Guy.
 > contemporaneous voices would be genuinely significant. I note that RMA posted P0145-09-0066 ("Canoe
 > Trips") to your YouTube channel in February 2026 — if any of these are already digitized, or are
 > candidates for it, I would be glad to know.
+>
+> **6. P145/12N04 — the Quebec Camping Association / Association des camps du Québec papers (Box
+> HA1888).** Your finding aid lists, among the 1978-1980 material in this sub-sub-series, an item called
+> "**Annuaire 1979, liste des membres**." The provincial association published one of these each year and
+> Kanawana was a member camp; the 1979 volume is the earliest I have been able to locate anywhere, and
+> published copies of the series appear not to have reached the digitized collections. If it is a camp
+> directory rather than a bare membership list, it would give me Kanawana's own entry — address,
+> director, capacity, ages served — for a period the project is otherwise thin on. I would be glad to
+> pay for a scan of the Kanawana entry, or of the whole volume if that is simpler. The same box's
+> "Constitution et règlements" (1979) and "Publications, public relations" (1978-1979) would be worth
+> seeing in the same visit.
 >
 > I am in Montreal and can come to the Reading Room at your convenience.
 >

@@ -1,0 +1,277 @@
+NAME SWEEP LOG — Open Library search-inside, 2026-09-06
+=======================================================
+p_430 asks for the camp's PEOPLE to be run against the Internet Archive book corpus, and CLAUDE.md's
+Phase 2 mandate says to "log every search attempted and its result (even null results) so the same
+ground is not re-covered." This file is that log. It is the authoritative record of which names have
+been run; if a name is not here, it has not been swept.
+
+Method: bare-name phrase query against https://openlibrary.org/search/inside.json (contract at
+f_4933). Where a name returns many hits, they were read far enough to say whose they are.
+
+
+THE CAMP'S OWN NAME — ALTERNATIVE SPELLINGS
+--------------------------------------------
+  "Kanawana"        76 items   (swept earlier 2026-09-06; the enumeration is in p_430)
+  "Camp Kanawana"    8 items   (the phrase every earlier pass used, and the reason this was late)
+  "Kamp Kanawana"   13 items   ** TWO OF THEM IN NEITHER LIST ABOVE ** — the DLB entry on Stuart
+                               McLean (f_4949) and the American Camp Association textbook (f_4950)
+  "Kanawanna"        0
+  "Lac Kanawana"     0
+  "Kanawana, Que"    0
+  "Lake Kanawana"    1 item    — the Stuart McLean passage already read (f_4941)
+
+CONCLUSION: run BOTH "Kanawana" and "Kamp Kanawana". The other spellings are dead and need not be
+run again.
+
+
+PEOPLE — SWEPT 2026-09-06
+--------------------------
+
+  Lemuel P. Ereaux ........ 0 hits.  NULL.
+  Lemuel Ereaux ........... 0 hits.  NULL.
+  Allan B. Cornell ........ 0 hits.  NULL.
+  R.H. Hanagan ............ 0 hits.  NULL.
+  Philip G. Paterson ...... 0 hits.  NULL.
+  G.D. Brandon ............ 0 hits.  NULL.
+
+  Edwin M. Crawford ....... 65 hits, EVERY ONE an American university-relations officer of the 1980s
+                            and 90s (Auburn, Ohio State, CASE). None is Kanawana's 1922 Junior
+                            Section Director. A common name in a large corpus costs reading and
+                            returns nothing; do not re-run it bare.
+
+  W.J. Holliday ........... 243 hits, essentially all an Indianapolis art collector and an
+                            Indianapolis steel company of the same name. Do not re-run bare; pair
+                            with "Montreal" or "Y.M.C.A." if it is run again at all.
+                            *** AND THIS ENTRY WAS WRONG AS A CONCLUSION, THE SAME DAY. He is in the
+                            YMCA's own Year Book and Official Roster -- a series ALREADY IN THIS
+                            REPO'S CACHE -- under his own name, with his job title and his start
+                            year: "Asst., W. J. Holliday" at Montreal in the 1906 volume, "Boys'
+                            Work Dir., W. J. Holliday" in 1907 and 1908, and "Holliday, W. J.,
+                            Montreal, Que., Boys, 06" in the employed-officers index (f_4967). The
+                            man who opened Kanawana was findable in one grep of this project's own
+                            files while a full-text search of millions of books returned an
+                            Indianapolis art collector. BEFORE RUNNING A NAME AGAINST THE CORPUS,
+                            GREP THE CACHE. ***
+
+  Johnston W. Abraham ..... 1 hit, AND IT IS AN OPEN LEAD, NOT A FINDING. The Union List of
+                            Manuscripts in Canadian Repositories, supplement 1979-1980 (Public
+                            Archives Canada, 1982), leaf 288: "... Annual reports, correspondence,
+                            membership lists, memorabilia and press clippings. Ref./Réf.: P.A.C.,
+                            MG 28 (I 280). Provenance: Johnston W. Abraham, DeWittville, Que."
+                            The fonds runs 1917-1978, 10 cm. THE COLLECTION'S NAME WAS NOT
+                            RECOVERED: the Union List is set in two columns, the OCR interleaves
+                            them, and six attempts to walk backwards to the heading ran into
+                            entries for the Sherbrooke and District University Women's Club on both
+                            sides. Nor is it established that this is Kanawana's Johnston W. Abraham
+                            (Business Manager from about 1914, documented in his ninth year in
+                            1922) rather than another man of the same name.
+                            WHY IT IS WORTH KEEPING ANYWAY: it is a precise archival reference at
+                            Library and Archives Canada — MG 28 (I 280) — which a person with
+                            ordinary browser access resolves in one lookup, and this environment
+                            cannot, the LAC gateway returning HTTP 403 (see p_428). Tracked there.
+
+  F. H. Spinney ........... 12 hits. FOUR are a different F. H. Spinney of Hudson, New Hampshire,
+                            a volunteer variable-star observer in Harvard College Observatory annual
+                            reports 1913-1916. ONE IS HIM: "School: a magazine devoted to elementary
+                            and secondary education", vol. 1 (Toronto, 1912-13) — "F. H. SPINNEY,
+                            Principal Alexandra School, Montreal", author of the eight-part column
+                            "In the Little Red Schoolhouse", with a second series commissioned.
+                            f_4958, and p_432 for the rest of that run.
+                            [UPDATED 2026-09-06, same day: p_432 IS DONE. Ten volumes of The School
+                            were read. HIS FIRST NAME IS FREDERICK — printed fourteen times in
+                            volumes 2, 4 and 5. This log and f_4958 both said it was in no source
+                            found; it was in the corpus the whole time, and the reason the search
+                            missed it belongs in the ZEROTH STEP below: THE SCAN'S OCR DOUBLE-SPACES
+                            BETWEEN WORDS, so a grep for "FREDERICK H. SPINNEY" with single spaces
+                            returns ZERO across all ten volumes while the double-spaced form returns
+                            fourteen. Search these texts with [[:space:]]\+ or a bare substring,
+                            never with literal single spaces. Also from that pass: he started an
+                            after-school basketry class at his Montreal school about autumn 1914,
+                            six years before the camp brochure has him teaching basketry (f_4973);
+                            the second series WAS written; and his run in the magazine ends June
+                            1917. Volume 3 is not on the Archive — p_434. f_4972, f_4974, f_4975.]
+
+  Hay Finlay .............. 19 hits, four items. One is a 1769 Scottish tenant farmer ("HAY, FINLAY,
+                            joint tenant farmer in Easter Croftmartage"), one a comparative
+                            psychology study citing an unrelated pair of researchers. TWO ARE HIM:
+                            a McGill history (Nurmberg1970) which has McGill "engage Mr. Hay Finlay
+                            as the gymnastic coach", and "The McGill You Knew: An Anthology of
+                            Memories, 1920-1960" (1975), which gives him as gymnastics and soccer
+                            coach and has him and Van Wagner developing Camp Nominingue, "known as
+                            'Camp McGill' to all the residents of the area". f_4959.
+                            NOTE: the Nurmberg1970 item was NOT walked and may hold more.
+
+
+  C. B. Powter ............ 19 hits, most of them a modern Alberta land-reclamation editor with the
+                            same initials. TWO ARE HIM, AND BOTH ARE UNRESTRICTED, so both were
+                            downloaded whole: the Commercial and Technical High School (Montreal)
+                            Prospectus for Session 1908-1909, which gives him as PHYSICAL TRAINING
+                            master (f_4960); and the guide-souvenir of the Exposition pour le
+                            bien-etre des enfants, October 1912, whose "Programme des Amusements"
+                            committee names both him and D. J. EVANS, Kanawana's 1913 director, and
+                            which has him directing the English schools' drill and chorus with
+                            W. H. Smith, the music master on his own school's staff list (f_4961).
+
+  Greig Macdiarmid ........ 0 hits.  NULL.
+  Howie Langille .......... 0 hits.  NULL.
+  J. G. MacKinnon ......... 244 hits, all an econometrician (Davidson and MacKinnon) and a Cape
+                            Breton Gaelic editor. Do not re-run bare.
+
+
+  T. Duncan Patton ........ 24 hits, and they are him -- basketball histories, because he was one of
+                            the eighteen who played the first game under Naismith at Springfield in
+                            December 1891. "Canada's Other Game" adds "included four Canadians:
+                            T. Duncan Patton from Montreal". ALL OF IT CORROBORATES FACTS THIS
+                            PROJECT ALREADY HOLDS -- the roster and the Montreal origin are in
+                            t-duncan-patton.md from his own 1919 memoir and from Library and
+                            Archives Canada. Nothing recorded. His one live open question is Jones'
+                            Island and the 1891 drowning, which basketball histories cannot touch.
+
+  A. Ross Seaman .......... 1 hit, AND IT ANSWERS AN OPEN QUESTION. The Directory of Canadian
+                            Welfare Services (Canadian Council on Social Development, 1974) lists
+                            "YM-YWCA of Cornwall -- A. Ross Seaman, Executive Director -- 421 - 5th
+                            Street East, P.O. Box 332". a-ross-seaman.md asked whether Cornwall came
+                            before or after Kanawana. After, and as Executive Director of the whole
+                            association (f_4962).
+
+  Nelson McEwen ........... 9 hits. ONE IS HIM AND IT IS ACADEMIC: Christopher J. Greig, Ontario
+                            Boys (Wilfrid Laurier UP, 2014), quoting him in 1945 as "national boys
+                            work secretary of the Canadian YMCA" at a father-and-son banquet
+                            (f_4963). A second, item 31761119680775, has "Nelson McEwen on the
+                            National Council of Y.M.C.A. of Canada" in a list about "the educational
+                            aspects of camping" and WAS NOT WALKED -- an open thread.
+
+  Leo J. Robitaille ....... 0 hits.  NULL.
+  O. N. H. Owens .......... 0 hits.  NULL.
+  Murray B. Shantz ........ 0 hits.  NULL.
+  R. L. Charlton .......... 13 hits, none of them him (a physics lecturer, a health-education
+                            researcher, an 1814 Rhode Island birth register).
+  James H. Turner ......... 482 hits, none identifiable as his. Do not re-run bare.
+
+
+  Harold C. Cross ......... 20 hits and FOUR ARE HIM. The biggest single return of the sweep.
+                            (a) THE YMCA YEAR BOOK AND OFFICIAL ROSTERS (1921), unrestricted --
+                            an annual continent-wide roster this project had never heard of, giving
+                            every association's complete named paid staff and an employed-officers
+                            index with each man's YEAR OF ENTRY INTO ASSOCIATION WORK. It documents
+                            Cross as Boys' Work Secretary at Victoria B.C. and dates his entry to
+                            1912 (f_4964, f_4965, and p_433 for the rest of the series).
+                            (b) HENRY FOSS HALL, THE GEORGIAN SPIRIT (1967) -- p_430's second
+                            standing lead, NOW CLOSED AS A NULL. Its acknowledgement thanks "my
+                            friend, Mr. Harold C. Cross, dedicated professional leader and historian
+                            of the Montreal YMCA". Pairing that phrase with "Montreal" returns the
+                            item, so the AND works; pairing it with Kanawana, Kamp Kanawana, summer
+                            camp, boys camp, camping and Laurentians returns zero every time. The
+                            Montreal YMCA's own historian supplied the research for the university's
+                            history and the camp is nowhere in it.
+                            (c) AMERICAN ROSE ANNUAL 1970 -- "North American Rose Gardens of 1851,
+                            Harold C. Cross, St. Anne de Bellevue, Quebec". A retirement address and
+                            a second subject. NOT PURSUED.
+                            (d) The International Council of Religious Education Yearbook 1936,
+                            already read (f_4943) -- checked, and it is the same volume, not a new
+                            year of the series.
+
+  G. David Twynam ......... 12 hits, all a tourism and outdoor-recreation academic at Lakehead and
+                            Thompson Rivers. PLAUSIBLE AS THE SAME MAN and NOT CHECKED -- an
+                            outdoor-recreation academic is exactly the career a camp person might
+                            have. Left as an open thread rather than a null.
+  John Lummis ............. 95 hits, all 18th-century English estate correspondence and an American
+                            small town. NULL.
+  W. F. Chapman ........... 0 hits.  NULL.
+
+
+THE ZEROTH STEP, RUN PROPERLY — a word-boundary grep of the nine YMCA Year Book volumes now held
+--------------------------------------------------------------------------------------------------
+After the Holliday failure above, every name in this file plus the unswept list below was grepped,
+with word boundaries, across the nine volumes of the Year Book and Official Roster this project now
+holds (1893, 1894, 1895, 1896, 1897, 1906, 1907, 1908, 1921), and every hit checked for a Montreal
+or Quebec context. Result:
+
+  MONTREAL-CONTEXT HITS — two, and both already recorded:
+    A. O. Dawson, President of the Montreal association, 1921 volume (and a member of the
+      International Committee's own board) — recorded in f_4964, and NOT Ralph H. Dawson.
+    H. C. Paterson, Montreal, Westmount, Physical, entered 08 — recorded in f_4964's roster.
+
+  EVERYTHING ELSE IS A NULL, and an informative one. Owens, Shantz, Charlton, Cornell, Seaman,
+  Potts, Ellis, Dimock, Abraham, Cowan, Bradford, Turner, Miller, Lummis, Twynam, Langille,
+  Macdiarmid, Hanagan, Robitaille and Ereaux appear in these volumes ONLY as other men in other
+  cities. (R. L. Charlton's two hits are an English YMCA secretary at "Worcester Copenhagen St" —
+  Charlton Jones — in the British section.)
+
+  WHAT THE NULL MEANS. These volumes roster PAID ASSOCIATION OFFICERS. The men absent from them are
+  the camp's volunteers, committee members and seasonal staff — which is the same conclusion the
+  Spinney and Powter finds produced from the other direction (f_4958, f_4960, f_4966). The Montreal
+  YMCA's paid officers are now known for nine years; the camp's own people mostly were not paid
+  officers, and will be found in schools, universities and city directories instead.
+
+
+STILL TO SWEEP — the rest of directors-index.md and the committee chairmen
+---------------------------------------------------------------------------
+A. Ross Seaman · Alexandra Olshefsky · Bex Finnigan Reisler · Billy Ball · Carol Skinner ·
+Chris Adam · Dr. Amy Ornstein · Dr. James Orbinski · Dr. Karl Cernovich · Durga Chew-Bose ·
+Ernie Taylor · Harold C. Cross · Howard Ellis · Howie Langille · J. G. MacKinnon ·
+Jay Netherwood · Jeniene Phillips Birks · John Cleghorn · John Lummis · John Roy · Kevin Slezak ·
+Lorna McNeish · Lorne Hamilton · Lynne Robinson · Maria English · Marina Sharpe · Matt Hamerman ·
+Peter Goddard · Quinn Durand · Ralph Dawson · Reiko Webster · Richard Patten · Rick Cordi ·
+Ron McCallum · Sean Day · Tom Potts · Amy Thomson · Arleen Boyer · Audrey Dowse · Derek Walsh ·
+Gary White · Manuel Quiroga · Ross Bannerman · Greig Macdiarmid · Harry Smith · Reg Cowan ·
+H. H. Hart · Nelson McEwen · R. L. Charlton · O. N. H. Owens · James H. Turner · Leo J. Robitaille ·
+G. David Twynam · Bruce Netherwood · Murray B. Shantz · T. Duncan Patton · Hedley S. Dimock
+
+THREE PIECES OF ADVICE, THE FIRST OF WHICH IS NEW AND COST SOMETHING.
+
+  ZERO. GREP THE CACHE FIRST. `grep -ril "<name>" sources/cache/` takes one command. The Holliday
+  entry above is what happens when it is skipped: a full-text index of millions of books returned
+  243 hits about the wrong man, and the right one was in this repo. Sixteen of the twenty-four
+  names swept so far returned nothing usable from the corpus, and at least one of them was here.
+  AND BEFORE ANY OF THAT, READ THIS: THE OPEN LIBRARY SEARCH-INSIDE API PAGES, AND EVERY NAME SWEPT
+  THROUGH IT BEFORE 2026-09-06 SAW ONE PAGE. A query reports its total and returns TWENTY hits. The
+  parameter is &page=N; &from= and &offset= are accepted and silently ignored. So a name recorded
+  here as returning "N hits, none of them him" was checked against at most twenty of them, and a
+  name with 243 hits was checked against 8% of them. THE HIGH-COUNT NAMES IN THIS FILE ARE NOT
+  SWEPT, THEY ARE SAMPLED — Holliday's 243 Indianapolis hits above are the clearest case, and he
+  turned out to be in this repo's own cache all along. Re-run the common names with paging before
+  trusting any null recorded here. See f_4998.
+
+  (Word boundaries matter when you do it: "Ereaux" matches "Devereaux" and "Spinney" matches the
+  noun "spinneys", both of which produced false hits in the first pass. AND SPACING MATTERS AS MUCH:
+  these scans' OCR routinely puts TWO OR MORE SPACES between words, so a full name typed naturally —
+  "Frederick H. Spinney" — can return ZERO against a corpus that contains it fourteen times. That is
+  exactly what happened to Spinney's first name for a day. Match on the surname alone and read the
+  context, or use [[:space:]]\+ between the parts; never grep a multi-word name with single spaces
+  and then record the zero as a fact about the world.)
+
+TWO MORE PIECES OF ADVICE FROM THE NAMES ALREADY RUN, THE FIRST OF WHICH WAS WRONG.
+[CORRECTED 2026-09-06 by testing it.] This file used to say: 'Names that are common in English
+(Crawford, Holliday) return hundreds of hits about other people and should be paired with
+"Montreal", "Y.M.C.A." or "Kanawana" from the start.'
+
+PAIRING WITH A CONTEXT WORD DOES NOT DISAMBIGUATE IN THIS API. Multiple quoted phrases are ANDed
+ACROSS THE WHOLE ITEM, not required to appear near each other. '"W. J. Holliday" "Montreal"' was
+run with paging on 2026-09-06: 134 hits, and every one examined is still the INDIANAPOLIS ART
+COLLECTOR AND RARE-BOOK MAN of the earlier sweep — the Indianapolis Museum of Art donor, the
+neo-impressionist collection, the Plains-and-Rockies bibliography — with "Montreal" matching
+somewhere else entirely in the same volume, usually in a bibliography of Canadiana. The pairing
+narrowed 243 hits to 134 and changed nothing about who they are.
+
+SO: pairing with "Kanawana" is worth doing, because the word is rare enough that co-occurrence in
+one book means something. Pairing with "Montreal" or "Y.M.C.A." is nearly worthless — both are
+common enough to co-occur with anything Canadian. For a common name, the honest options are to
+page the whole result set and read it, or to find a source where the man is likely to be indexed
+and search THAT, which is what actually worked for Harold C. Cross (the International Council of
+Religious Education Yearbooks) and for W. J. Holliday himself (this repo's own cache).
+
+AND THE HOLLIDAY NULL NOW STANDS PROPERLY: the Montreal YMCA's W. J. Holliday is not in this book
+corpus under that name. The earlier sweep reached the right conclusion by a method that could not
+have supported it; it is now supported. (One caveat on that run: page 4 of 7 returned an empty
+body, so 100 of the 134 were collected, not all of them.)
+
+THE SECOND PIECE OF ADVICE STANDS. Names that are rare (Ereaux, Hanagan, Brandon with
+initials) return zero, and a zero here is a fact about a book corpus and not about the world — these
+men are in city directories, church records and newspapers that the Internet Archive's book
+collection does not contain.
+
+AND THE YIELD IS NOT PROPORTIONAL TO THE NAMES. Of the first nine names swept, six returned nothing
+usable, one returned an open archival lead, and two opened real biographies — one of which
+(Hay Finlay) turned out to answer a standing open question in another article using facts this
+project had already had for weeks. There is no way to tell in advance which is which.

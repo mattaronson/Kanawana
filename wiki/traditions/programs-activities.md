@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
-*Status: E1-reviewed | Sources: 0*
-*Last Updated: 2026-09-04*
+*Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
+*Last Updated: 2026-09-07 (the indoor camps, for the boys who did not go)*
 
 ## Overview
 
@@ -23,7 +23,210 @@ The 1923 Gas Bag, the camp's first known in-house publication, provides a camper
 
 The Camp Leaders' Training Class, documented in the Concordia archives with evaluations and charting from 1922-1927 and 1930, represents an early formalization of the idea that camp should produce leaders, not just entertain children. This training infrastructure would later evolve into the CIT programme.
 
+### 1921: what the badges were actually for, and the first outside examiner
+
+The badge systems above are known by their subject counts — 32 in 1922, 42 by 1923 — but not by what
+boys actually earned. The annual report for the year ending 30 April 1922 gives the only itemised
+tally in this project's 1920s sources, for the summer of 1921: "A total of 812 badges were won by the
+boys for proficiency in the following subjects:- Camp improvement 65; life saving 30; rowing 38;
+beginners' swimming 20; hikes 105; resuscitation 35; wood craft 20; bandaging 20; simple remedies 26;
+basketry 30."^ar22
+
+*The ten figures sum to 389, not 812.* The list may be partial, the total may be a misprint, or 812
+may count every badge awarded against a list of only the proficiency subjects — 389 doubled is 778,
+so a doubling does not explain it. The subject counts are the usable part and the total is not; the
+discrepancy is carried as the seventh entry in [[meta/attendance-series|the attendance
+series]]'s list of the association contradicting itself.
+
+Read as a picture of the programme, the ten subjects say something the subject *counts* cannot.
+**Hikes are the largest single category at 105**, more than a quarter of the itemised badges, in a
+season 67 days long. First aid in its three forms — resuscitation 35, bandaging 20, simple remedies
+26 — accounts for 81, more than swimming and life saving together. And "camp improvement" at 65 is
+second: boys were being badged for building and maintaining the place they were staying in, which is
+the practical end of the same instinct the 1927 report would state as policy five years later, when
+it turned away from "city" games toward "individual and group projects, mostly of a constructive
+type."
+
+The same report records the first outside examiner to come to camp that this project has found. "The
+Royal Life Saving Society held an examination of the boys in Camp at which seven won the award of
+merit; 23 won the proficiency medal; 15, the bronze medallion; and 2 received the honor instruction
+badges."^ar22 Forty-seven awards in four grades, and — the distinction matters — RLSS qualifications
+recognised outside the YMCA, where the badge scheme in the same paragraph was the association's own,
+awarded in-house. It places the society at Kanawana **six years before A. W. Ross's two examinations
+of 1927**, and it makes that year's "record for Kanawana" claim checkable: 60 awards against 47, so
+the record stands.
+
+### 1926: evenings, elections, and the "Kanawana spirit"
+
+The previous year's report describes what filled "evenings, rainy days and open periods": weekly
+entertainments, the **council ring**, popcorn and marshmallow roasts, camp fires, ping-pong,
+checkers, **quoits**, story telling, **mock trials**, treasure hunts, and "games of attackers and
+defenders, Indians and settlers." And one tradition this article has not carried: "**The elections
+always proved a real entertainment, with the 'King,' election speeches, etc.**"^ar27
+
+The report also names the thing the camp thought it was really running on: "A sincere attempt was
+made to continue and intensify the **'Kanawana spirit' of other years, the something which actually
+decided the degree of success of our Camp season**. The majority of the campers gradually absorb
+this intangible camp spirit and are helped by it. Some need encouragement and handling of a
+disciplinary nature; very few give any real trouble."^ar27 In 1926 the spirit was already being
+described as an inheritance.
+
+**The religious practice is set out in full**, where this wiki has mostly had to infer it: chapel
+every morning around the flag pole; an evening quiet hour in the tents following "a series of
+devotional topics issued by the New York State Y.M.C.A. for camp use"; Bible study weekly as part
+of regular instruction; church in the outdoor chapel on every Sunday morning but two, when weather
+drove it into the lower pavilion; and song services every Sunday evening "either around the camp
+fire **or on the lake with the boats and canoes grouped for the sing**."^ar27 The Sunday
+collections — $73.00, against $57.00 the previous year — went to the **Boys of India Fund**, and
+officials of the **Pocket Testament League** visited, after which "a large number of boys pledged
+themselves to read daily, and were donated Testaments."
+
+### Who was at camp in 1926, in the report's own words
+
+Immediately after the Boys of India collection, the same report says this:
+
+> "We feel that a real step was taken in the long process of building up in our boys new attitudes
+> in the important matter of **inter-racial relationships**. It is interesting to note that we had
+> in our camp this season the following nationalities:— **French, American, German, Dutch, Negro,
+> Greek, Italian, Syrian, besides our British boys**. It is significant that lads of these varying
+> nationalities can live together so satisfactorily, appreciating the good in each."^ar27
+
+It is quoted exactly because the phrasing is the evidence. "Nationalities" is doing the work of
+several categories at once — French and Greek and Syrian are origins, "Negro" is not a nationality
+at all, and *besides our British boys* marks the default against which everyone else is counted.
+The achievement claimed is that the boys "can live together so satisfactorily," which is a low bar
+described as a real step, and for a Protestant boys' camp in a Montreal organised along confessional
+and linguistic lines it plausibly was one.
+
+What the passage does not give: how many boys of any group, whether any came on the Fossils Club
+scholarships, or whether the categories were self-reported or assigned.
+
+**It was made once.** Every cached annual report from 1901 to 1948 was searched for "nationalit" and
+"racial," and no other camp season is counted this way.^ar27 Every other nationality count in those
+reports belongs to the **Eastern Branch**, the association's immigrant-serving city branch —
+eighteen nationalities in the 1925 report, nineteen among its students in 1926, twenty-six by 1928
+when it is called "very much in the nature of an international unit in the Montreal Association's
+work," and in 1929 a full country-by-country table of 601 members across 34 countries. By 1931 the
+branch describes itself in capitals: "**our little League of Nations demonstrates daily that it is
+possible for men of different tongues and customs and traditions to live together in peace and
+mutual appreciation.**" The 1930s and 1940s hits for "racial" are the association's standing formula
+for its world programme, not camp records.
+
+So the camp's 1926 list is a single deliberate act of counting, and it borrows the vocabulary the
+institution had already built for its immigrant branch and its international work. That is more
+telling than a series would have been: **Kanawana described its own composition once, in words the
+YMCA had developed for describing somebody else's.** It is the earliest statement this project holds about who was at Kanawana beyond
+its Anglo-Protestant core.
+
+### 1927: fifteen subjects, and a shift away from "city" games
+
+The association's annual report for the year ending 31 March 1928 describes the **summer of 1927**
+and gives the season's teaching in full. Instruction by staff and leaders covered **rowing,
+canoeing, simple remedies, bandaging, athletics, basketry, camp craft, trees, boxing, knot tying,
+swimming, diving, birds, archery and life saving**, with chapel every morning around the
+flagpole.^ar28
+
+**And it states a change of direction as policy.** "Experiment was made last year with encouraging
+boys to undertake **individual and group projects**, mostly of a constructive type. These proved
+most successful, in fact we would say that these were the most popular part of our programme.
+**There was less attempt to encourage the 'city' type of games, and more to encourage the building
+of new interests, associated with out-door life.** Wherever possible, those interests which might be
+followed up after Camp was over, were encouraged."^ar28
+
+Outside instructors came in: representatives of the **Forestry Department at Ottawa** "again spent
+several days in camp," so 1926 as well. And the waterfront had a record year — two examinations by
+**A. W. Ross** of the Royal Life Saving Society produced **60 awards including seven Awards of
+Merit**, "we believe… a record for Kanawana."^ar28 *The same examiner turns up the following summer at the Montreal YWCA's Laurentian camp: an untitled 1928 clipping reports Royal Life Saving Society classes at Camp Oolahwan with "A. W. Ross represented the R.L.S.S." So one man carried the qualification into the boys' camp and the girls' camp a year apart, which is the first personal link between them this project holds. See [[connections/related-camps/camp-oolahwan|Camp Oolahwan]] [f_5240].*
+
+*One contradiction between the camp's own documents, recorded rather than resolved.* The 1928
+brochure announces that "**archery** will be introduced to Kanawana this season," but archery is
+already on this 1927 subject list.^ar28 Either "introduced" means formalised or newly equipped
+rather than first taught, or one of the two documents is wrong. Neither is preferred here.
+
+### Who paid for the boys who could not pay, 1927
+
+The same report names the sources of thirty-one subsidised places in a single season, and both are
+Westmount.^ar28
+
+The **Fossils Club**, "a young men's club in the Westmount Branch," financed **camp scholarships for
+14 boys** from across the city — "these boys, who would not otherwise have been able to get to Camp,
+were **chosen on the basis of their leadership possibilities**," and were given two weeks each. Note
+the criterion: leadership, not need alone.
+
+And "a group of business men members and dormitory residents of the Westmount Y.M.C.A. were
+responsible for making possible a two weeks' camp experience for **15 boys from the Protestant
+Orphanage and 2 boys from the School for the Blind**."^ar28
+
+**The Fossils kept scaling up as the Depression deepened, and Kanawana was not where most Westmount
+boys went.** Two later reports carry the same club. For the summer of 1931, Westmount's own branch
+report: "The Branch had **122 members at our own Kamp Kanawana** last summer and **269 members
+attended 13 other camps in Canada and the United States**. Westmount supplied 50 older boys for camp
+leadership — **12 for Kanawana and 38 for seven other camps**. Westmount also made it possible for
+**43 underprivileged boys** to enjoy two weeks at camp — **the Fossils paying for 24**, the Westmount
+Rotary Club for 5, and friends for 4."^ar32 For the summer of 1932, under Central's Senior Division:
+"The Fossils and Grads. Club held weekly supper meetings with speakers and special programs. **The
+Fossils Show enabled them to send 35 boys to Kanawana for two weeks each.**"^ar33
+
+So the scholarship series runs **14 in 1927, 15 in 1929, 24 in 1931, 35 in 1932** — flat for the
+first two and then rising as the Depression bit, which is the opposite of what a club's fundraising
+might be expected to do. The 1929 figure arrives with the same pairing as 1927 and smaller numbers:
+Westmount business men underwrote **twelve boys from the Protestant Orphans' Home and one from the
+School for the Blind** that season, against fifteen and two two years before.^ar30 Two cautions: the 1931
+figure is the Fossils' share of a branch total rather than the club's own programme, so the three
+numbers may not measure quite the same thing; and the club's branch moves between the reports, from
+"a young men's club in the Westmount Branch" in 1928 to "the Fossils and Grads. Club" under Central
+in 1933. Whether that is one club that moved, a second chapter or a reporting convention, the reports
+do not say. (The 1931 subsidy split does not close either: 24 and 5 and 4 make 33, not 43. The page
+is an all-capitals scan with visible character damage in the same paragraph, so a dropped funder line
+is as likely as an error in the report.)
+
+The other number is the one worth sitting with. **Two Westmount boys went to somebody else's camp for
+every one who went to Kanawana**, and on the leadership side it was better than three to one across
+seven other camps. This project treats Kanawana as the Montreal YMCA's camp and the branches as its
+feeders; on one branch's figures, in one year, the branch was feeding the whole North American camp
+market and Kanawana took about a third of it. The report does not name the thirteen camps.
+
+The season took 329 boys with 19 tent leaders and a staff of 13, "the second largest attendance ever
+known at Kanawana," drawing not only from the association's eight city branches but from Quebec,
+Farnham, Ormstown, Thetford Mines, Châteauguay, Longueuil and Pointe Claire.^ar28
+
+**Over Labour Day the camp hosted a conference of representative boys from the whole association**,
+planned and chaired by a committee of older boys who reported back to their own Boys' Divisions
+afterwards. The sessions were "What is the Y.M.C.A.?", "Do we put the 'C' in Y.M.C.A.?", "How do
+activities develop character?" and "Testing our activities."^ar28
+
+**Two seasons later the catchment left the country.** The report for the year to 31 March 1930,
+covering the summer of **1929**, lists where the boys came from: Montreal, Westmount, Outremont,
+Montreal West, Maisonneuve, Pointe Claire, Verdun, Côte St. Paul, Chateauguay Basin, Ormstown,
+Frelighsburg, Thetford Mines, "Jamaica Plains," New York City, White Plains, Toronto, St. Hilaire
+and Quebec City.^ar30 Eighteen places, of which four are outside Quebec and three are outside
+Canada. Grepped against the whole project: this is the earliest **camper**-origin list here that
+leaves Canada. The other foreign names the project holds — the six countries read off a Pathfinder
+paddle — are *staff* origins from 1964 [f_2388], and the 1935 *Westmount Examiner* line about a
+Mr. Buckley's experience "at other camps in Canada and the United States" is about where a man had
+worked, not where a boy came from [f_1328]. The report gives no explanation for White Plains or
+Jamaica Plain, names nobody, and nothing here should be read as American recruitment.
+
+**The camp actively discouraged rival church camps.** "Each year we encourage Sunday School classes
+to use the Camp rather than establish separate camps of their own." A group from Chateauguay Basin
+led by **Rev. E. T. Prittie** had by 1929 used Kanawana three years running, "with profit to
+themselves and a real benefit to Kanawana." That is the policy stated outright for the only time in
+the reports read so far: a branch camp positioning itself as the Protestant city's shared facility
+rather than one option among many.^ar30
+
+Instruction that season ran to **rowing, canoeing, first aid, athletics, tree lore, boxing,
+swimming, wrestling, archery, life saving and photography**, with model aircraft and basketry
+alongside the carpentry that had just earned the camp a purpose-built craft shop. Tree experts from
+the **Dominion Department of Forestry** visited again, which makes 1926, 1927 and 1929 three
+documented years of the same outside instruction.^ar30
+
 ## Interwar Programming (1930s-1940s)
+
+**What the association did for the boys who did not go to camp, and it was the example the country was shown.** At the Institute for Camp Leaders held at Toronto Central in April 1936, one session was given over to "a description of the **indoor camps** conducted each summer by the **Montreal Central Y.M.C.A.** for boys who are unable to attend out-of-the-city camps." The reports that followed "from various Associations" indicated "a general and growing tendency on the part of Associations to use their equipment and leadership to meet the needs of boys who are in the city during the summer," and the programmes "generally include handicrafts, swimming, games, industrial trips, and hikes."^nb36
+
+That is worth holding beside everything else on this page. Kanawana's programme is the programme of the boys who got out of Montreal; the association ran a second summer programme every year for the ones who did not, and in 1936 Montreal's was the one held up to two hundred camp leaders as the model. *The bulletin does not say how many boys it took, where in the building it ran, or who led it.*
+
+**A session on ritual.** The same Institute heard "**Ritual and Initiation Ceremonies**" from **George Ross of Vancouver**, who then sat on the committee appointed to organise a Canadian Camping Association.^nb36 Kanawana's own council-ring material dates from the decade before this; see [[site/council-ring|The Council Ring]].
 
 By 1930, the sections had evolved to Juveniles (10-12), Juniors (12-14), and Seniors (14-17), lowering the minimum age. By the early 1940s, the structure had expanded further to Bantam, Juvenile/Junior, Junior/Intermediate, and Senior divisions. The 1938 weekly program reveals a structured rhythm: Monday and Thursday were project days, Tuesday and Friday were waterfront days, and Wednesday was set aside for hikes.
 
@@ -33,7 +236,61 @@ In 1937, the St-Jean Ambulance Association sent a qualified instructor to Kanawa
 
 The Council Ring tradition, analyzed in a separate wiki article, was well established by this era, with its blend of Indigenous-inspired ceremony and YMCA moral instruction forming a central ritual element of camp life.
 
+**A whole day of the camp, from 1936, in the camp's own words.** A CFCF broadcast script of that year — the earliest of a series the Concordia Archives describe as running to 1941, and the only one that survives as text rather than audio — sets out the programme in detail.^cfcf36
+
+The day opened with the rising bell and a trip "down to the lake for their wash and dip", then **the daily soap bath**, "an important feature of the day's programme", followed by an inspection for cuts, bruises or sores, all of them "immediately reported to the doctor". Breakfast, at which "it is very seldom that a second call is needed"; a ten-minute chapel service taken by a member of staff; three-quarters of an hour putting dining hall, tents and campus "shipshape"; and then the **interest groups**:
+
+> basketry, woodworking, leatherwork, metalcraft, nature study, photography, dramatics, **bird lore**, campcraft, woodcraft, canoeing, boating, and many others
+
+**Basketry was still on that list in 1936** — fourteen years after the 1922 brochure records [[people/directors-index|F. H. Spinney]] teaching it, and twenty-two after he started an after-school basketry class at his own Montreal school.
+
+Beyond the set groups, boys built things: "One group may build a cabin in the woods, another a lean-to across the lake, in which they will later sleep." A group deciding a trail bridge needed rebuilding would set out to do it. And some built boats — "sawing and hammering going on at a great rate, until the great day comes when the boat is launched and named, and the proud builders take a trip up the lake."
+
+Swimming was taught in three streams — beginners individually, improvers, and advanced swimmers "anxious to improve their stroke" — with elementary and fancy diving, and Life Saving "leading to the certificates of the National Council of the Y.M.C.A." Then General Swim, with two diving boards, one high and one low, and **the long water shute, "where boys slide from the top of the hill down into the water with a mighty splash"**.
+
+**The staff, the same year.** The camp director "has charge of all activities" and "is one of the senior secretaries of the Montreal Y.M.C.A." — not a seasonal appointment. Under him, Section Directors experienced with boys "either in the Y.M.C.A. or in school", and **thirty-five trained counsellors, each in charge of a tent or cabin group of six or seven boys**, "many of these counselors ... old Kanawana boys". A camp doctor, a McGill graduate with hospital experience, in camp at all times. And a chef who by 1936 had been at Kanawana **ten years**, cooking to menus "drawn up by a qualified dietitian".
+
 In 1947, the Lumbermen and Voyageur Games were introduced, inspired by YMCA Camp Pine Crest's similar tradition (Muskoka, Ontario). The history of the L&V tradition at Pine Crest is documented in the book "Lumbermen & Voyageurs: The YMCA Pine Crest Story.". The L&V Games quickly became Kanawana's signature competitive event, dividing the entire camp into two teams for a multi-day competition. As of 2025, the games have run for 78 editions (with one year skipped, likely 2020 due to COVID-19). The L&V Games are covered in detail in a separate wiki article.
+
+### 1936: cabins, canoe trips, and a summer school
+
+The association named **three new features** at Kanawana that year, and set them side by side:^ar37
+
+1. **Seven sleeping cabins in the juvenile section**, "which resulted in a marked improvement in the
+   health of the younger boys." The youngest campers had been under canvas.
+2. **Coaching classes in school studies for pupils requiring help, in which thirty-seven boys were
+   enrolled** — academic tutoring at a summer camp, taking better than one camper in ten of a season
+   of 310, and recorded nowhere else in this project.
+3. **"The commencement of long canoe trips to the north country beyond Lake Archambault"** — note
+   *beyond*, not *to*. This article already dates the Archambault trips to 1936 from the McMorris
+   thesis; what the report adds is that the camp counted them as one of three deliberate innovations
+   of the year, alongside cabins and tutoring.
+
+Instruction that season covered "twenty-three different handicraft and athletic activities," and the
+page carries a photograph captioned "O.N.H. Owens, Chairman, Kanawana Com."^ar37
+
+### Who taught, and how far the campers came, 1937-1938
+
+In **1937** — 407 boys, 1,442 camper weeks, an average weekly registration of 160, and "for the first
+time in many years it was necessary to refuse registration for periods in July" — the camp drew from
+well beyond the city: Quebec City, Shawinigan Falls, Thetford Mines, Three Rivers, Grand Mère,
+Kenogami, Châteauguay, Valleyfield, St. Timothée, Huntingdon, Pointe Claire, Lachine, Valois,
+Ste-Anne-de-Bellevue, St. Lambert, Greenfield Park, Hawkesbury, Ottawa, Toronto, **Rouses Point,
+N.Y., Winnipeg, and Berlin, Germany**.^ar38 The report offers no comment on the last of those and
+neither does this article.
+
+The staff are described by what they were the rest of the year. In 1937 "the camp director, the
+three section directors, and the business manager were all members of the permanent staff of the
+Y.M.C.A.," while of the forty tent leaders and second staff "one was a teacher in the public
+schools, five were students at McGill, two at the University of Montreal."^ar38
+
+In **1938**, "the twenty-ninth season," the emphasis is continuity: the director, the business
+manager, the senior section director, **the canoe trip leader** and eleven tent leaders had all been
+on staff the previous year, and of the leaders "two were school teachers, six were college students
+and **eleven matriculated from high school last June**."^ar39 And one structure this article had not
+carried: "**most of the 34 tent counsellors attended the training course held during the winter and
+spring**." By the late 1930s the camp was training its counsellors in the off-season and staffing
+itself substantially with that June's school leavers.
 
 ## The Voyageur and CIT Programmes (1950s-1960s)
 
@@ -47,7 +304,48 @@ By 1962, the YMCA was planning "bigger and better" citizenship training and educ
 
 The 1965 Concordia archives listing includes "The Pathfinder program Summer Summary," suggesting at least one additional programme stream was being tested in this period.
 
+### 1956-1958: "Values for Living," and the camp reorganised around the tent group
+
+For three consecutive seasons the whole programme ran inside a stated framework. The report for the year ending 31 December 1957 says so plainly: "For the **second successive year** the camp program was conducted within the framework of the '**Values For Living**' and the '**Guide to Conducting Program**.' Camp provides a natural setting for work with **friendship groups** in the accomplishment of Association aims and objectives. The personal identification of staff members with these goals, and the increased interest in **evaluating the causes of individual behaviour rather than merely discipline of existing problems**, results in more meaningful program."^vfl Second successive year makes 1956 the first.
+
+The 1958 report sets out what it meant in practice, and it is the fullest statement of camp pedagogy this project holds for any year:
+
+> Program is everything that happens to a boy... not just the organized activities. It is the medium for influencing growth toward Values for Living. At Kanawana in 1958 **the entire program emphasis centered on the tent group**. The counsellor tried to know each of **his seven boys** well enough that he could help them work out a satisfying set of activities suited to their own interests.^vfl
+
+Four results are claimed: group decision-making "far beyond previous years"; more variety, because tent groups "showed an amazing ability to come up with program ideas that resourcefully used the facilities already existent in the camp or the natural outdoor setting"; appreciative letters from parents; and one that deserves more attention than the report gives it — "**all program including camp traditions were appraised on the basis of their importance and place in realizing these program objectives**."^vfl
+
+A camp that puts its own traditions up for appraisal against a list of objectives is a camp that may drop some. This wiki's [[traditions/traditions-and-culture|traditions]] articles carry no account of anything being dropped in the late 1950s. What was appraised, by whom, and what survived is not in this report, and it is a specific thing to look for in the camp's own season reports for 1956 through 1958, none of which survive in the digitized set.
+
+The staff training was rebuilt to match: "In a series of pre-camp sessions the Counsellor and staff group discussed, worked through, and accepted the Values for Living as personal objectives... a training process evolved **to develop an awareness in counsellors of how youngsters learn** and the role of the Counsellor and Staff person in **facilitating this learning**."^vfl That is 1958. [[people/hedley-dimock|Hedley Dimock]] began his research at Kanawana on camp counsellor effectiveness in 1960-61. The reports do not connect the two, and neither does this article.
+
+### 1960-1961: the method gets a name, and a research project
+
+The 1961 report supplies the term the 1958 description lacked. "**For the second season** Kamp Kanawana program and camp supervision operated on what the 'Y' has called a basis of '**planned group development**.' The intention is to make use of the relationships between small groups of campers as **educational tools** for the benefit of each camper."^pgd Second season makes 1960 the first.
+
+Running alongside it, and described in the same paragraph: "Parallel to this program innovation, the Montreal YMCA has been working at the development of techniques which **measure the character growth of members in program**, and last summer at Kanawana **the first findings were tested**."^pgd That is [[people/hedley-dimock|Hedley Dimock]]'s counsellor study, funded by a $1,200 Zeller Family Foundation grant, described here from the camp's side rather than the researcher's. The reports set the method and the measurement side by side; they do not say Dimock designed the method, and neither does this article.
+
+The staff training was built to carry it. In 1960 it "started in May with three All Staff Sessions," two of them at the Westmount Branch with practical pool work on water safety and canoeing, followed by "an additional **six-day** training program, held in camp."^pgd In 1961 the same three May sessions ran, the pool work moved to the Central Branch, and the in-camp programme grew to **seven days**. The 1961 report explains why: "The success of planned group development like any education program depends to a great measure upon the skill and personal qualities of the '**leader-educator**.' For this reason staff qualifications and training have received close attention at Kanawana and have been the subject of **special test studies over the past two years**."^pgd
+
+The programme itself, in the association's own list for 1960: "Camp fires, regattas, swim meets, banquets, Indian ceremonies, **Lumberman-Voyageur Day**, special meals."^pgd
+
+The tent group itself predates the framework. The 1955 report already has "each tent group of 7 campers planned their own program together," with "**competition with self, rather than comparison with others**" as the stated key note in all activities.^vfl
+
+**And "Planned Group Development" was being run on the staff a year before it was run on the campers.** The short version of the 1959 annual report, under the heading "Another Significant Social Study," records that "**Kamp Kanawana in 1959 was the centre of a unique social study project**… an outgrowth of the **staff training retreat** earlier in the year. The Camp Committee studied and approved a proposed program of '**Planned Group Development**' **for camp counsellor and staff training in the 1959 season**."^nb59 Its aim was to raise "the level of '**Value Education**' in all camp program, first by increasing the skill of counsellors and staff to recognize '**Value Learning**' opportunities in the general program, and second, to be sensitive to symptoms of emotional or 'Value' problems in their young campers," and its finding was that "volunteer leaders, advisors, etc., given the proper setting and adequate skilled help, can achieve a high degree of competence."
+
+*This does not contradict the 1961 report's "for the second season," which dates the camper-facing programme to 1960; it separates two uses of one name.* The 1959 text is explicitly about **counsellor and staff training**, not about how campers were grouped. The plainest reading is that PGD was worked on the staff first and on the tent groups afterwards — which is exactly the order the association's own 1931 doctrine recommended, that the camp's real product is its leaders (see [[traditions/cit-lit-program|The CIT/LIT Program]]). *Not asserted*: that the two are the same programme under one name.^nb59
+
 ## Coeducation and Reorganization (1968-1970s)
+
+### 1968-69: horses, a doubled co-ed intake, and what else the seasons held
+
+A press release of 13 May 1969, sent to the *Gazette* and the suburban weeklies, gives the camp's own account of what had just changed and what was about to.^nr69
+
+"**In 1968 it was girls and horses.** In response to enthusiastic requests from parents, **capacity of the co-ed sections is being doubled**."^nr69 Horseback riding arrived in the same season as the girls, and it appears in this article nowhere else. The doubling matters for a different reason: it is a plain explanation of why some sources point at 1969 as the year of coeducation. 1968 was the first year and 1969 was the expansion, and the association's press office attributes the expansion to parent demand.
+
+**The French-language thread of these years is at [[traditions/french-language-camping|French-Language Camping and Kanawana, 1967-1973]].** Kanawana ran a residential French immersion section for English-speaking boys aged 12 to 16 in 1969, called "Living-in-French", and it was one branch of a Montreal YMCA programme that had been running French-language day camps for immigrant children since 1967. That article carries the two 1969 press releases, the day camps' proposal and season report, and the Mile End West submission of January 1971.
+
+**Staffing and the rest of the programme.** "In addition to section directors, supervisors, a diversified team of activity specialists, a resident doctor and nurse, and a **dietician** — Kanawana's staff includes **one counsellor for every seven campers**."^nr69 The seven-camper unit of the 1955 and 1958 reports was still the unit fourteen years later. The activity list adds two items new to this article: "horseback riding; swimming; canoeing; rowing; sailing; arts & crafts; **skin diving**; naturelore; archery; **riflery**; hiking; sports instruction."
+
 
 The arrival of girl campers in 1968 or 1969 (sources differ; see the coeducation article for detailed analysis) necessarily affected programming. The first all-female Voyageur canoe trip in 1972 marked the extension of the camp's most demanding programme to girls within three years of formal coeducation.
 
@@ -63,6 +361,41 @@ The Concordia archives show institutional restructuring through this period. A "
 
 The Concordia archives also list Director's Reports from the 1970s (1973, 1975, 1977, 1978) and a "Proposed two-site operation, Kanawana and Weredale" document from 1977, suggesting that programming decisions in this era were made in the context of a multi-site camping operation.
 
+### Diabetic children at Kanawana, from a source outside the camp
+
+Nothing in this project's own records mentions diabetic campers. A Montreal memoir does.^mk
+
+**Michael Kutz** — born 1930, a Holocaust survivor who settled in Montreal — describes his fraternal
+work there: "[We visited the children] at the **Montreal Children's Hospital**, bringing them toys and
+refreshments and singing songs with them. Every December, we arranged a party for the children, most of
+whom were bedridden or in wheelchairs, **as well as for diabetic children from Camp Kanawana**. Our
+organization's donations helped create one of the largest science libraries at the hospital. Through the
+**Knights of Pythias**, I also visited hundreds of war veterans…"
+
+The phrase is "diabetic children **from** Camp Kanawana", which reads as a standing group rather than an
+incident — but the passage gives no year, does not say whether they came as a session or as individuals,
+and does not say whether the December party was at the hospital or at camp. Kutz settled in Canada after
+the war and died in 2018, so the period is somewhere in the second half of the twentieth century.
+
+The context this project already holds makes the claim easy to believe and worth pursuing. Canada had
+**exactly two diabetic camps in 1954** [f_2673], and the first diabetic children's camp in Quebec ran from
+18 to 28 August 1958 at **Camp Jackson Dodds** [f_2849], organised by a medical committee drawn from Montreal's
+English-speaking hospitals and sponsored by **The Montreal Children's Hospital** — the same hospital
+Kutz names. A YMCA camp taking diabetic children, with a fraternal order paying and a teaching hospital
+behind it, is exactly the shape those arrangements took. **Whether Kanawana was one of them is now a
+specific question with two institutions to ask**: the Montreal Children's Hospital and the Knights of
+Pythias.
+
+### The aquatic award system, and the 1976 changeover
+
+Any swimming award named in a Kanawana staff list, plaque or camper's memory belongs to one of three national schemes, and in the mid-1970s the relationship between them changed. Doug Dent, past director of Camp Wabanaki, set the whole system out for camp directors in the January 1976 issue of *Canadian Camping*, in a column that opens with the division of labour: "**The Red Cross and YMCA are basically involved in swimming and water safety instruction, and the RLSS, in lifesaving programs**," the three bodies working towards "a cohesive, well developed national aquatic program" with standardization as the objective.^dd76
+
+The change is in his first sentence: "**First of all, the YMCA lifesaving program was revamped, and in its place the RLSS program (Bronze Medallion and upwards) has been adopted.**"^dd76 So by January 1976 the YMCA no longer ran a lifesaving scheme of its own; a YMCA camp's swimmers were graded on YMCA **Star** levels for swimming and then handed to the Royal Life Saving Society for lifesaving. In the same reorganisation the RLSS dropped its own Elementary and Intermediate levels and replaced them with **Life Saving I, II and III**.
+
+Dent's three-column chart is what makes an award datable. Pre-Beginner and Beginner are common to the YMCA and Red Cross; **Star I** stands level with Red Cross **Junior** and RLSS **Life Saving I**; **Star III** with **Intermediate** and **Life Saving II**; **Star V** with **Senior** and **Life Saving III**; then Star VI, Masters, Bronze Medallion, Bronze Cross, Assistant Instructor or Leaders, and the **Award of Merit** at the top. Star II covers synchronised swimming and Star IV diving. The age floors are fixed: Senior Red Cross at 12, Bronze Medallion and Bronze Cross at 14, and Red Cross Leaders, YMCA Assistant Instructor and the Award of Merit at 15.^dd76 An award named without a date can therefore be placed on a scale, and a **Star** level dates a swimmer to the YMCA scheme while a **Life Saving I, II or III** dates them after the RLSS renumbering.
+
+One thing about Kanawana itself is worth setting beside this. The camp's own top water award of 1923, the **KLS — Kanawana Life Saver — was keyed to the RLSS Award of Merit**, as recorded above. That is half a century before the YMCA nationally handed its lifesaving over to the same society. It does not show that Kanawana was ahead of its parent body, and nothing here says what the camp taught in the intervening decades; what it does show is that the Royal Life Saving Society was the standard a Montreal YMCA camp reached for when it wanted its own award to mean something, long before 1976 made that the YMCA's official answer.
+
 ## The Kanawana Outing Club and Winter Programming
 
 Resolved 2026-07-09: the "Kanawana Outing Club," previously known only from a felt badge, is confirmed via direct fetches of the Concordia finding aid (sub-sub-series 12B03, 12B04, and 12B07) as a distinct WINTER-season hiking/trail program, with its own trail system ("Kanawana Outing Club trails"), promotional poster, and printing artwork, running at least from the 1970s through 1979 per the archivist's own bracketed dating on the 12B07 item. The same finding aid lists earlier winter-camping precedents than previously known: a "Winter ski camp" (1945-1947) and a one-off "Winter camp" (January 28-29, 1961) -- whether either is the same program as the later Winter Outdoor Family Camping is not confirmed, only a plausible link. Separately, a 1969 "Working paper on year-round use" (12B01) shows the YMCA formally studying year-round use of the site 27 years before the 1996 year-round programming launch, directly preceding the 1994-95 leadership restructuring into a year-round Executive Director plus a three-season on-site Camp Director.^oc
@@ -71,7 +404,7 @@ Resolved 2026-07-09: the "Kanawana Outing Club," previously known only from a fe
 
 The 1990s brought significant programme expansion:
 
-In 1996, Kanawana began offering year-round residential programming, extending the camp's operational calendar beyond the traditional summer season. In 1997, the Kanawana-Be programme was introduced for children aged 5-6, lowering the entry age. In 1998, the Adventurer programme launched as a one-month canoe camping trip, representing the most intensive wilderness offering in the camp's history.
+In 1996, Kanawana began offering year-round residential programming, extending the camp's operational calendar beyond the traditional summer season. In 1997, the Kanawana-Be programme was introduced. **The association's own report for that year says it was "especially designed for children between the ages of 6 and 8"**^ar97 — *[superseded 2026-09-06: this sentence read "for children aged 5-6, lowering the entry age"; the source for that band is not recorded in this article, and the annual report is the association speaking in the launch year itself. If a source giving 5-6 turns up, this becomes a conflict rather than a correction.]* At 6 to 8 it still lowers the entry age against a camp the 1988 annual report describes as serving 7 to 15, but by a year rather than two, and it overlaps the main camp rather than sitting wholly below it. In 1998, the Adventurer programme launched as a one-month canoe camping trip, representing the most intensive wilderness offering in the camp's history.
 
 The current programme structure, as described on the YMCA Quebec website, includes Pioneers (ages 7-12, cabin-based), Voyageur canoe-camping trips, and leadership programmes for older teens. The Voyageurs Ultimate program runs approximately July 20 to August 14 (26 days) for ages 15–17, representing the most intensive current Voyageur stream. The Rangers program (ages 15-16) provides DAFA certification from the Conseil québécois du loisir. The Trailblazers CIT (Counsellor-in-Training) programme is a 48-day commitment across four 12-day sessions, during which participants complete over 200 hours of workshops covering creative programming, risk management, team building, and effective communication; the programme includes a 5-day canoe trip and certifications in Standard First Aid/CPR and a CIT certificate from the Association des camps certifiés du Québec.^tb The 2022 Mountaineer programme added an all-gender tent option for transgender, non-binary, and gender non-conforming campers. Kanawana operates as a technology-free camp with no cellphones or Wi-Fi permitted.^pm The camp describes itself as an English camp that is accessible to children who speak many other languages including French.^pm International campers are actively recruited, with airport transfer services offered. Pre-COVID enrollment was approximately 900 campers per year. Programs for ages 7-17 are offered in regular, leadership, and expedition streams lasting between 12 and 48 days.^pm Financial assistance is available through the YMCA's financial assistance program.^pm
 
@@ -83,7 +416,40 @@ Current job postings document a "Companion" staff role providing dedicated one-o
 
 An annual municipal event, "Journée plein air" (Outdoor Day), is hosted at Camp YMCA Kanawana as a partnership between the Ville de Saint-Sauveur and the Club Optimiste de la Vallée de Saint-Sauveur. The 2023 edition (Sunday, August 27, 2023) offered guided hiking, archery, fishing, free canoe/kayak/paddleboard use, rock climbing, and beach access, with a free shuttle from Mont-Habitant. The event historically focused on trout fishing and has expanded in scope since approximately 2022.^jpa
 
+### The whole programme, in French, in a tourist guide (2011-12)
+
+The fullest single description of Kanawana's programme this project holds in French is not a camp
+document. It is the *Guide Petit Futé — City Guide Montréal* for **2011-2012**, which gives the camp a
+paragraph among the city's things to do.^pf11 It reads like copy the camp supplied, which is what makes it
+useful and also what limits it.
+
+The operating facts: the season ran **28 June to 20 August**; stays ran **six days to eight weeks**;
+residential programmes were **6 to 12 days for ages 7 to 16**, and leadership and outdoor-adventure
+programmes ran **for 11 to 20**. The activity list carries five things this wiki has from nowhere else —
+**trampoline aquatique, école du rock, danse, théâtre** and a **cours de survie en plein air** — beside the
+familiar swimming, canoeing, kayaking, archery, climbing and hébertisme. It also names a biodiversity
+activity, "**La faune gagne du terrain**", run "pour les conscientiser à la biodiversité" (see
+[[traditions/environmental-history|Environmental Education and Stewardship]]).
+
+Two programme names are datable from it. **Aventurier Extrême** is called "tout nouveau" — whitewater
+rafting and kayaking, rock climbing and a tree-top course for 13- to 16-year-olds — which puts its
+introduction in **2011 or 2012** and is the only date this project has for it. And the **Explorateurs**
+(11-12) and **Aventuriers** (13-16) tiers each ran a **four-day excursion**.
+
+*Two sentences in it are the guide's and are not treated as findings here.* It calls Kanawana "**le premier
+camp de vacances au Québec**" — a primacy claim, in a commercial tourist guide, of exactly the kind
+[[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]] has spent
+three revisions removing from this wiki; repeating the camp's own line in French does not make it evidence.
+And it calls the camp "**membre fondateur de l'Association des camps du Québec**". That one is new, and
+unlike the first it is **checkable**: this project holds the Quebec association's English Section as founded
+in 1937 and holds no membership roll for that year. Whether Kanawana was among the founders is an open
+question, and the association's own records would answer it.
+
 ### The Site as a Venue for Outside Programmes
+
+**The first time, and it is dated: summer 1996.** The Montreal YMCA's annual report for that year says so plainly: "Kamp Kanawana's year was one full of tradition and innovation. **This was the first time that programs were offered to groups other than summer campers.** A group of **50 Korean students between the ages of 11 and 15** participated in traditional camp activities for **four days**, sleeping in tents, cooking on open fires and **integrating with the campers**."^ar96 That sets a date on the practice this section describes, and the form of the first instance is worth noting: not a rental of an empty site out of season, but a visiting group placed inside the running camp.
+
+**The same page gives the summer's occupancy and where the campers came from.** "The occupancy rate during the **Summer of 96 was 92%**. In addition to campers from Quebec and several other Provinces, campers came from as far afield as the **Arctic, Iceland, England, France, Germany, Spain, Russia, Hungary, Korea and the USA**."^ar96 The 92% is already in [[meta/attendance-series|The Attendance Series]]; the eleven origins are not, and the Korean entry on that list is presumably the visiting group above rather than registered campers, which the sentence does not distinguish.
 
 Kanawana is also used by organizations with no institutional tie to the YMCA, a pattern that predates
 the current rentals business and is documented from at least the early 2010s. In September 2011 the
@@ -126,6 +492,8 @@ environmental-education positioning without originating from it.
 - [[history/founding-1894|Founding of Camp Kanawana (1894)]]
 - [[traditions/traditions-and-culture|Traditions and Culture at Kanawana]]
 - [[connections/related-camps/quebec-camp-landscape|The Quebec Camp Landscape]]
+- [[traditions/winter-programming|Winter and Year-Round Programming]]
+- [[traditions/french-language-camping|French-Language Camping and Kanawana, 1967-1973]] — spun out of this article, 2026-09-06
 
 ## Images
 
@@ -150,6 +518,20 @@ environmental-education positioning without originating from it.
 8. What was the Pathfinder program Summer Summary (1965 archives listing)? Was it the existing boys' section (est. 1959) or something new?
 
 ## Sources
+- **nb59** — YMCA of Montreal Annual Report **1959, short version** [src_ia_sgw_ymca_annual_report_1959_short], Internet Archive item `sgw-ymca-annual-report-1959-short-version`, in the `ymca-montreal-fonds` collection — a short version distinct from the full 1959 report. Found and read 2026-09-07 under p_462. See [f_5256].
+- **nb36** — "Institute for Camp Leaders," *The News Bulletin* Vol. 12 No. 3 (May 1936), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_12_03], Internet Archive item `the-news-bulletin-vol-12-no-03`, in the `ymca-montreal-fonds` collection. Found by the enumeration at [f_5243] and read 2026-09-07 under p_462. See [f_5248].
+- **ar30** — YMCA of Montreal annual report for the year ending 31 March 1930 [src_cache_sgw_ymca_annual_report_1930], the Kamp Kanawana section, camping season **1929**. The volume's Becscies extension and its finances were already read into [[site/camp-becsies|Camp Becscies]]; its catchment, church-camp and programme paragraphs are read here, 2026-09-06. See [f_5216], [f_5217] and [f_5218].
+- **ar97** — Montreal YMCA annual report **1997** [src_ymf_sgw_ymca_annual_report_1997], the Westmount and programme-launch items. Read 2026-09-06 under p_454. See [f_5194].
+- **ar96** — Montreal YMCA annual report **1996** [src_cache_sgw_ymca_annual_report_1996], the Kamp Kanawana page. Read 2026-09-06 under p_454; the volume had been marked unread and has no Wayback twin.
+- **ar32** — YMCA of Montreal annual report for the year ending 31 March 1932 [src_ymf_sgw_ymca_annual_report_1932], the Westmount branch report, camping season **1931**. Read 2026-09-06 under p_454. See [f_5179].
+- **ar33** — YMCA of Montreal annual report for the year ending 31 March 1933 [src_ymf_sgw_ymca_annual_report_1933], Central's Senior Division, camping season **1932**. Read 2026-09-06 under p_454. See [f_5180].
+- **ar37** — YMCA of Montreal Annual Report for the year ending 31 March 1937 [src_cache_sgw_ymca_annual_report_1937], camping season **1936**. See [f_5072].
+- **ar38** — the same series for the year ending 31 March 1938 [src_ymf_sgw_ymca_annual_report_1938], camping season **1937**. See [f_5073].
+- **ar39** — the same series for the year ending 31 March 1939 [src_ymf_sgw_ymca_annual_report_1939], camping season **1938**. See [f_5073].
+- **ar22** — YMCA of Montreal annual report for the year ending 30 April 1922 [src_ymf_sgw_ymca_annual_report_1921_1922], the "Camps" section, covering the summer of **1921**. Read 2026-09-06 under p_454; the volume had been marked *skimmed* since August and cited by no article. See [f_5167] and [f_5168].
+- **ar27** — YMCA of Montreal, 76th Annual Report, for the year ending 31 March 1927 [src_ymf_sgw_ymca_annual_report_1927]. Its camping season is the summer of **1926**. Read for its Kanawana season narrative 2026-09-06 under p_441; the rest is not read. See [f_5067] and [f_5068].
+- **ar28** — YMCA of Montreal, 77th Annual Report, for the year ending 31 March 1928 [src_ymf_sgw_ymca_annual_report_1928]. Its camping season is the summer of **1927** (see [f_5039] on the reports' 31 March year-end). Read for its Boys' Work and Kanawana sections 2026-09-06 under p_441; the rest of a 105,000-character report is not read. See [f_5064].
+- CFCF radio broadcast script, 1936, "Kamp Kanawana Broadcast — Station CFCF" [src_ymf_1936_kamp_kanawana_broadcast_station_cfcf], Concordia-digitized YMCA of Montreal fonds. Marked `cfcf36` above. **The earliest of the CFCF series and the only one surviving as text**; it had been in this repo's cache labelled *skimmed*, cited by no article, and was read on 2026-09-06 under p_441. See [f_5003].
 
 - YMCA Kamp Kanawana Facts sheet (undated institutional document).
 - McMorris, Grace. "An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967." MA thesis, Concordia University, 2023. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
@@ -180,6 +562,12 @@ environmental-education positioning without originating from it.
 - [fn] "Familles en nature: 4 saisons de plaisir," Awesome Foundation project record [src_awesome_foundation_familles]. See [f_1117].
 - [cc82] Cousineau, Claude (Department of Recreology, University of Ottawa). "Hebertisme." *Canadian Camping*, Vol. 21 No. 3, Spring 1969, pp. 62-67, 82. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 82).
 - [oc] Concordia University Archives, YMCA of Montreal fonds, sub-sub-series 12B01, 12B03, 12B04, 12B07 [src_concordia_p0145_12b01_finding_aid, src_concordia_12B03, src_concordia_atom_12B04, src_concordia_atom_12B07].
+- [dd76] Doug Dent (Past Director, Camp Wabanaki), "Aquatics, Water Safety & Watercraft," The Business of Camping series, *Canadian Camping* Vol. 28 No. 2 (January 1976), p. 9 [src_ia_canadian_camping_collection]. Carries the YMCA-to-RLSS lifesaving changeover and the three-column YMCA / Red Cross / RLSS equivalence chart with its age prerequisites. Cached at `sources/cache/canadian-camping/canadiancampingmagazine_vol28_no2_1976january.txt`. See [f_4929].
+- [pf11] *Guide Petit Futé — City Guide Montréal*, édition 2011-2012 (Le Petit Futé, ISBN 9782746930636), the entry "CAMP Y KANAWANA", Internet Archive scan leaf 342; the guide's own index gives page 236 [src_petit_fute_montreal_2011_2012]. **One entry only**, reconstructed 2026-09-06 from twenty-eight overlapping Open Library search-inside queries; the book is lending-restricted, page images return HTTP 403, and it has not been read. The walk stops mid-sentence at "une excursion de quatre jours", where the phrase became too common to isolate, so the tail of the entry is unrecovered; accents and apostrophes have been restored from the OCR. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-petit-fute-montreal-2011-2012-kanawana.txt`. See [f_4957].
+- [mk] Michael Kutz, *If, By Miracle* (Azrieli Foundation, 2013), Internet Archive scan leaf 190; the book's own index gives the printed page as 87 [src_kutz_if_by_miracle]. **One passage only**, reconstructed 2026-09-06 from seven overlapping Open Library search-inside queries; the book is lending-restricted and has not been read, and the opening words in square brackets are supplied because the window begins mid-sentence. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-abrams-kutz-memoir-passages.txt`. See [f_4938]. The Quebec context is at [f_2673] (Canada had exactly two diabetic camps in 1954) and [f_2849] (the diabetic children's camp at Camp Jackson Dodds, 18-28 August 1958, sponsored by The Montreal Children's Hospital), both from the *Canadian Camping* run [src_ia_canadian_camping_collection].
+- **vfl** — YMCA of Montreal annual reports for the years ending **31 December 1955**, **1957** and **1958** [src_ymf_sgw_ymca_annual_report_1955, src_ymf_sgw_ymca_annual_report_1957, src_ymf_sgw_ymca_annual_report_1958]. December-year volumes, so their seasons are 1955, 1957 and 1958 (see [f_5081]). Camps sections read 2026-09-06 under p_441. See [f_5084], [f_5086].
+- **pgd** — YMCA of Montreal annual reports for the years ending **31 December 1960** and **31 December 1961** [src_ymf_sgw_ymca_annual_report_1960, src_ymf_sgw_ymca_annual_report_1961]. December-year volumes, so their seasons are 1960 and 1961 (see [f_5081]). Camps sections read 2026-09-06 under p_441. See [f_5088], [f_5087].
+- **nr69** — Montreal YMCA news release, **13 May 1969**, "YMCA's Kamp Kanawana Set for Record Summer," quoting Geoff Anderson, Director of Kanawana [src_ymf_news_release_1969_05_13_202501]. Cached at `sources/cache/ymca-montreal-fonds/news-release-1969-05-13_202501.txt`; read 2026-09-06 under p_451. See [f_5100].
 
 ## Research Notes
 

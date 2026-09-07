@@ -1,7 +1,7 @@
 # Is Kanawana the Oldest Camp in Canada?
 
-*Status: draft | Sources: 15*
-*Last Updated: 2026-09-05*
+*Status: draft | Sources: 25*
+*Last Updated: 2026-09-07 (the association conceded Canadian primacy in 1944, not only in 1989)*
 
 ## Overview
 
@@ -113,6 +113,44 @@ it would be exactly the kind of self-flattering reading it withdrew the "second-
 The three camps became permanent institutions at roughly the same time and by the same mechanism:
 acquiring land.
 
+**The association's own anniversary publication tells a shorter story.** *125 Colourful Years*
+(1976), raising money and looking back, gives the whole founding in two sentences: "**1894 The Y
+opened the first organized boys' camp at St. Adolphe de Howard. Shortly after the boys' section
+moved to St. Sauveur, and organized Kamp Kanawana.**"^22 Three things are worth pulling out. The
+claim is "**the first organized boys' camp**," unqualified — not the first in Quebec, not the first
+YMCA one — which is this article's own question, asserted by the institution in an anniversary
+publication rather than a press release. It places the 1894 camp at **Saint-Adolphe-d'Howard**,
+where Lac Saint-Joseph is, corroborating the location from the association's own memory. And
+"shortly after" compresses sixteen years, skipping the 1909 renaming to Otoreke entirely.
+
+Set that beside the brochures below and the same institution is telling two different stories about
+its own age: to donors in 1976 the camp begins in 1894 and moves; to parents in 1929 it is in its
+twentieth season.
+
+**And it held both birthdays, eleven years apart.** The annual report covering the summer of 1983
+lists among the year's highlights: "**Kamp Kanawana celebrated its 75th year of service.** More
+than 34,000 people have benefited over the years from their involvement at Kanawana." The next
+report says the camp "has been offering outdoor adventure to young people, ages 6 to 18, **for the
+past 75 years**."^23 A 75th year in 1983 counts from **1909**. Eleven years later the camp kept its
+**centennial**, counting from 1894 — see [[history/centennial-1994|The 1994 Centennial]].
+
+So the count from the Saint-Sauveur site held from at least 1929 to at least 1985, and the count
+from Billy Ball's 1894 trip replaced it somewhere between 1985 and the autumn of 1993, when the
+alumni newsletter announces that Kanawana "enters its 100th year." Four data points, two
+birthdays, one camp. **The useful way to hold this is as evidence about institutional memory
+rather than about founding**: the camp has believed both, and what changed in the late 1980s was
+the story, not the record.
+
+**And the camp itself counted from 1910.** The "Come to Kanawana" brochure for 1929 prints on its
+title page: "KANAWANA / Operated by the Young Men's Christian Association of Montreal / **20th
+Season** / June 24 to September 2nd."^21 Counting 1910 as the first season makes 1929 the twentieth
+exactly. That is the institution's own arithmetic, printed for parents, and it dates Kanawana's
+self-understanding to the Saint-Sauveur site and the Kanawana name — not to 1894, not to Camp
+Jubilee, not to the Lake Saint-Joseph islands. It is evidence about how the camp counted itself,
+which is a different question from when boys first went to camp under the association's auspices,
+and both bear on this article. *(The 1928 brochure carries the same line and its season number is
+OCR-damaged. Nineteen would fit; no number is assigned to it here.)*
+
 **Kanawana is the unusual case, because its founding camp still exists as a separate camp.** The YMCA
 acquired islands in Lake Saint-Joseph for Camp Jubilee [f_0486]. In **1909** Camp Jubilee was **renamed
 Camp Otoreke**, and in **1910** the main boys' camp moved to the Saint-Sauveur site and took the name
@@ -147,6 +185,10 @@ and campfire ashes buried at the Canadian Camping Association congress that Octo
 endorsement of **1889 and Big Cove** as the origin of YMCA camping in Canada, and sent its camp to
 celebrate it. Whatever this article concludes, the camp's own association has already conceded the
 point once, in writing.
+
+**And it had conceded it forty-five years earlier, in flatter terms.** The association's own *News Bulletin* for **May 1944** prints a list of YMCA firsts, one of which reads: "The first organized boys' camping in North America was begun in the state of New York, and **the first organized camp in Canada was conducted in 1889 at Chance Harbour, Nova Scotia**."^25 That matters because of what it is not. The 1989 endorsement can be read as courtesy toward a centenary host, and the other Chance Harbour source this project holds hedges — "so far as we can discover." **The 1944 statement does neither.** It is a flat assertion in a list of institutional firsts, printed by Kanawana's own association in the camp's fiftieth year, at a moment when nobody in Nova Scotia was celebrating anything. *It is not evidence about 1889*; a bulletin of 1944 is evidence of what the Montreal association believed and published. But it means the concession is a settled institutional position of long standing rather than a one-off.
+
+The same list gives Montreal a primacy of its own that this wiki did not have: "**the first organized boys' work in Canada was begun by the Montreal and Toronto Y.M.C.A.'s in 1873**" — shared, and twenty-one years before the camp.^25
 
 **Big Cove's director brought Kanawana's director to the Maritimes.** Tom Creighton, Director of YMCA
 Big Cove Camp and former president of the Nova Scotia Camping Association [f_3590], wrote the Atlantic
@@ -197,7 +239,47 @@ as a live rival until it was tested.
 **What survives from Ottawa is 1893.** Charles Plewman, who directed for the Ottawa YMCA himself, wrote
 in December 1964: "When the **Ottawa YMCA in 1893**, and Camp Temagami in 1900, began taking older boys
 to camp, they were really breaking new ground" [f_3121]. That is one year before Kanawana's first
-season, it comes from a participant, and **it has not been tested** [f_4756].
+season, and until 2026-09-05 the Ottawa 1893 claim stood untested in this project [f_4756].
+
+**Tested, 2026-09-05, and it holds up less well than it reads.** Two things came out of the test, and
+the first is a word this article had passed over. The documentary half of the Ottawa 1893 claim is not
+an Ottawa YMCA record. It is Arnold Fraser's June 1954 profile of Ace Milks, which says: "the origin of
+Y.M.C.A. camping in Ottawa is somewhat lost in the mists of history. The first actual word of the camp,
+which was to become Camp On-Da-Da-Waks, is to be found in the minutes of an **Ottawa Y.W.C.A. Board
+meeting**. It states that a camp had been held in 1893 on the Ottawa River across from Quyon, Quebec"
+[f_4835]. Because a W and an M are the kind of thing OCR invents, the printed page was checked
+directly — the Internet Archive scan of that issue, leaf 12, at the line itself — and it reads Y.W.C.A.
+[f_4835].^16 So the one piece of paper behind Ottawa 1893 is a minute of the **YWCA** recording that a
+camp was held, the man writing the Ottawa Y camp's own history says its origins are lost, and the next
+dated point in his account is Marshall's Bay in **1907**, fourteen years later [f_2662]. What is left
+on the YMCA side is Plewman's sentence, written seventy-one years after the fact.
+
+**The contemporaneous record says nothing, about anyone.** The obvious place to test a claim about
+YMCA camping in 1893 is the movement's own annual volume, the *Year Book and Official Roster of the
+Young Men's Christian Associations of North America*, which prints a narrative report for every state
+and province written by its corresponding member. All five volumes from 1893 to 1897 were read: the
+Ontario and Quebec reports in full, the whole of each volume searched for "camp" and "tent". Neither
+Ottawa nor Montreal has a camp in any of them. The volumes are perfectly capable of reporting camps
+where they existed — boys' summer camps in New York state in 1893, a boys' camp at Campobello Island in
+1895, boys' camps "increasing" as a summer recreation, a "leader of the Maritime camps" in 1897 — but
+Ontario's report is about secretaries and Bible classes and Quebec's is about buildings, libraries and
+educational work [f_4836].^17
+
+**This is a null that cuts both ways, and it is the reason to state it.** The 1895 volume reports on
+the year 1894 and does not mention Kanawana's first season either; the 1897 volume, which would be
+Kanawana's fourth, mentions no camp in Quebec at all [f_4836]. A negative from a source that would not
+have recorded the thing anyway is a fact about the source. So the Year Book cannot be used to knock
+down Ottawa 1893, and could not be used to knock down Kanawana 1894 — which is worth saying plainly,
+because the temptation runs the other way when the null is convenient. **The 1899 and 1900 volumes, read
+on 2026-09-06, extend the same null by two more years and in a way that makes the point harder:** by 1899
+Montreal had been running its camp for five summers, and the 1899 volume's own Quebec pages name the man
+running it, W. H. Ball, Jr., as the association's Physical Director. **Neither the 1899 nor the 1900 volume
+records a camp** — not for Montreal, not for anyone in Quebec; "Kanawana", "summer camp" and "camping"
+occur zero times in either [f_4977].^20 A source that omits a camp it demonstrably knew about is not evidence
+about camps at all. **Ottawa 1893 is now tested and
+stands as one man's recollection, with a YWCA minute behind a differently-sponsored camp.** The
+untried routes are named in the Open Questions: the Ottawa YMCA's own annual reports of the 1890s,
+which are not online, and the Ottawa YWCA minute book itself.
 
 **Chance Harbour, 1889.** A claim about the first Canadian YMCA boys' camp, printed in February 1959
 from "the depths of a file of O.C.A. research material" and written by the late Ace Milks [f_2843]. It
@@ -249,12 +331,35 @@ own history: "**In 1943 RKY Camp was forced to close down due to a lack of staff
 for 1944**, the second its highest figure of the war. A camp of the same movement, five hundred
 kilometres away, could not find the staff to open while Kanawana was posting its best wartime numbers.
 
-**And Camp Stephens lost a season to the First.** Its alumni association, writing in December 2020,
-records that COVID restrictions "made it impossible to open camp this past summer (**the first closure
-since 1917**)"
-[f_4744]^11. Secondary summaries of the camp's history give the wartime closure as **1918** instead. The
-two are not reconciled by any source consulted, and the year is recorded here as disputed. Either way,
-**Kanawana operated the season Camp Stephens lost.**
+**And Camp Stephens lost a season to the First: 1918.** This wiki carried the year as disputed until
+2026-09-05, because the alumni association, writing in December 2020, recorded that COVID restrictions
+"made it impossible to open camp this past summer (**the first closure since 1917**)" [f_4744]^11 while
+summaries of the camp's history gave 1918. The disagreement dissolved on reading the alumni blog past
+its front page. **The camp's own 125th Anniversary Chapel Service**, read on Copeland Island on 31 July
+2016 and posted there in full, says: "Even camp faced difficulties like food rationing and some of the
+favourite camp leaders were overseas. **In 1918 there were not enough men to act as counselors and camp
+closed for that season**" [f_4838]^18. The Lake of the Woods Museum's own newsletter agrees in the same
+year: the camp "has only closed for one summer, **1918**, due to World War I," and 54 of the older
+campers who enlisted did not come home [f_4838]^19. The 1917 was a parenthesis in a fundraising appeal,
+contradicted by its own site. **The year is 1918, and Kanawana operated the season Camp Stephens
+lost.**
+
+**A larger question came out of the same document, and it is not resolved here.** The chapel service
+narrates that "for the first twenty years of Stephens, it was predominantly an adult and family Bible
+camp," and that "it wasn't until **1911** that the first boys' camp was organized at Camp Stephens" —
+under, among others, **T. D. Patton**, the same man who ran Montreal's 1891 Jones' Island camp and sat
+on the 1892 committee that planned Camp Jubilee [f_4840]. If that holds, the institution on the Lake of
+the Woods is older than Kanawana but its *boys' camp* is seventeen years younger, and the comparison
+this article makes is between two different kinds of place for its first two decades. It is **not**
+being written up as a finding. The script is a commemorative performance, it contradicts itself (it has
+the Bible Institute founded in 1898, which its own 125-year occasion denies), and the reading happens to
+favour this project's own camp — which is a reason to go slower, not faster. It is recorded as
+**conflict c_063**, and what would settle it is the Winnipeg YMCA's annual reports of the 1890s and
+1900s. **Not, it turns out, the Year Books used above.** Their Manitoba and Canadian West reports for
+1893, 1895 and 1897 describe conventions, secretaries, buildings and college associations and mention no
+camp at all; "Lake of the Woods" does not occur in any of the five volumes. The same books that fail to
+record Kanawana's 1894 season fail to record whatever was happening on those islands, and they cannot be
+used to prefer 1891 over 1911 or the reverse [f_4862].
 
 ### The 1918 influenza pandemic does not appear in these records at all
 
@@ -264,7 +369,8 @@ a camp season — an explicit null across the annual reports, the camp's own pub
 the pandemic's lethal Canadian wave fell in the autumn of 1918, after the camp season had closed. That
 explanation is general historical context, not a finding from this project's sources, and is offered as
 such. What the sources establish is only the null, and that Camp Stephens' 1917-or-1918 closure is
-attributed by its own alumni to **the war**, not to influenza.
+attributed by its own alumni to **the war** — specifically to a shortage of men to counsel — not to
+influenza [f_4838].
 
 ### Polio was the pandemic that reached the camps
 
@@ -290,7 +396,7 @@ it "**closed in 1976 for want of repairs and reopened in 1980**" [f_4623].
 
 **This was a closure and a recovery, not a planned fallow period.** Both independent accounts describe a
 cessation followed by a reopening, and both attribute it to the physical condition of the plant. Neither
-describes a deliberate resting of the site [f_4742].
+account of Big Cove's four-summer gap describes a deliberate resting of the site [f_4742].
 
 **And the same publication calls the camp continuously running.** Twenty pages before that timeline, on
 page 8, the yearbook states: "Our very own Big Cove YMCA Camp… is **the oldest continuously running
@@ -339,16 +445,43 @@ different reason: it makes **2019 a clean common cutoff** for measuring what cam
 | **Oldest continuously operating, strictly** | **Nobody.** All three have interruptions | Fails (2020-21) |
 | **Longest unbroken run of seasons** | **Kanawana — 126, 1894 to 2019** | **First**, by roughly 25 seasons |
 
-Camp Stephens' longest unbroken run is about **102 seasons** (1918-2019, after its wartime closure).
+Camp Stephens' longest unbroken run is **101 seasons** (1919-2019, after the 1918 closure). *Corrected
+2026-09-05: this article said "about 102" for a few hours after the closure year was settled at 1918.
+The 102 was correct while the run was dated 1918-2019; once the closure moved into 1918 the run starts
+in 1919, and 1919 to 2019 inclusive is 101. Settling Camp Stephens's 1918 closure and leaving the
+arithmetic beside it alone is the exact error this article warns about elsewhere* [f_4838].
 Big Cove's is about **87** (to 1975), with only 40 since reopening in 1980. Kanawana leads on any of
 Big Cove's three candidate founding dates [f_4751].
 
 **The assumption inside the 126 is named, not buried.** It requires that Kanawana missed no season
 between 1894 and 2019. No source records a missed season, and the years most likely to have broken the
 run are documented as operating — both wars, 1918 specifically, and the 1946 polio season. But
-[[meta/attendance-series|the attendance series]] has no figure at all for many of those years, and
-**absence of a figure is not evidence of operation** [f_4752]. Closing those gaps is queued as `p_403`,
-and the figure should not be used publicly until it is done.
+[[meta/attendance-series|the attendance series]] had no figure at all for many of those years, and
+**absence of a figure is not evidence of operation** [f_4752].
+
+**Twenty-two of those years were closed on 2026-09-05** from documents already in this repository — the
+camp's own directors' reports and the association's annual reports — covering 1900, 1902-03, 1905,
+1907-08, 1950-51, 1960-62, 1970-71, 1973-79 and 1985-87, with the 1970s now unbroken and carrying a
+camper-week figure for every season [f_4843, f_4846, f_4848]. A second pass read the plaque corpus and
+the L&V trophy as season records and closed every remaining year from 1976 forward [f_4850, f_4851].
+**Three seasons are still blank: 1911, 1914 and 1920**, each needing an annual-report volume this
+project does not hold. One caveat travels with the trophy: a 2020 shield exists and the camp did not run
+in 2020, so a shield attests a season, not necessarily a residential one.
+
+**One published source outside the YMCA does award Kanawana a primacy, and it moves nothing in the
+table above.** Armand B. Ball's *Basic Camp Management*, "An American Camp Association book" and the
+volume a North American camp administrator is handed at the start, says: "In Canada, the first
+**organizational** camp and first **independent** camp were both organized in the same year: 1894 —
+YMCA Kamp Kanawana in Quebec and Camp Keewaydin (formerly Kamp Kah Kiou) in Ontario."^24 It is the only
+statement of the kind this project has found in a professional reference work, and it is worth very
+little. *Organizational camp* is a term of art meaning a camp run by an organisation rather than a
+private owner, so the sentence sorts two categories and does not say Kanawana was the first camp of any
+kind. Ball cites nothing. And he is wrong about the other half of his own sentence: Keewaydin dates its
+founding to **1893, in Maine**, and Ontario is its later Temagami operation. A source a year out and a
+country over on one half is not one to lean on for the other. It is recorded here because a reader who
+meets it elsewhere should find it already weighed, and because the next such source will need the same
+three tests. [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping
+Movement]] sets out the reasoning in full.
 
 ## What Kanawana actually is
 
@@ -376,12 +509,19 @@ across the country, and the century that closed its own sibling camp on the orig
 
 ## Open Questions
 
-1. [Critical] Close the operation gaps in [[meta/attendance-series|the attendance series]] for
-   1894-2019 so that the 126-season figure rests on evidence of operation rather than on the absence of
-   evidence of closure (`p_403`).
+1. [Critical, advanced 2026-09-05] Close the operation gaps in [[meta/attendance-series|the attendance
+   series]] for 1894-2019 so that the 126-season figure rests on evidence of operation rather than on
+   the absence of evidence of closure (`p_403`). Twenty-two seasons closed; **1911, 1914, 1919, 1920,
+   1981-1984, 1989-1993, 1995-1997, 2002-04 and most of 2006-19 remain**. The 1990s are within reach
+   through the plaque corpus and the L&V winners roll, the 2010s through the YMCAs of Quebec annual
+   reports; 1911, 1914 and 1915 need annual-report volumes this project does not hold.
 2. [Important] Did Camp Stephens operate in the summer of 2021? Currently an explicit null [f_4747].
-3. [Important] Was Camp Stephens' wartime closure in 1917 or 1918? Its alumni say 1917; secondary
-   summaries say 1918 [f_4744].
+3. ~~[Important] Was Camp Stephens' wartime closure in 1917 or 1918?~~ **[Resolved 2026-09-05 — 1918.]**
+   The camp's own 125th Anniversary Chapel Service and the Lake of the Woods Museum newsletter both give
+   1918 with the same mechanism, a shortage of men to counsel; the 1917 was a parenthesis in a
+   fundraising post [f_4838]. **In its place, a bigger question:** the same chapel service dates the
+   first boys' camp at Stephens to 1911 and calls the first twenty years an adult and family Bible camp
+   [f_4840]. Conflict c_063; the Winnipeg YMCA's own annual reports would settle it.
 4. [Important] What is Big Cove's actual founding year? Three values are in play — 1889, 1890 and 1891
    — the last from the camp's own director [f_4622].
 5. [Nice-to-have] Did the 1918-19 influenza pandemic affect any Canadian camp season? This project holds
@@ -389,14 +529,21 @@ across the country, and the century that closed its own sibling camp on the orig
 6. [Nice-to-have] Is there a documented date for the start of Big Cove's *continuous annual* series, as
    distinct from its first camp? Byrne's "quickly became an annual event" implies one exists.
 7. ~~[Critical] Resolve the Ottawa YMCA / Golden Lake claim.~~ **[Resolved 2026-09-05]** The 1884
-   figure is Sumner Dudley's, not Ottawa's, and Golden Lake dates to 1908 [f_4754]. **What remains open
-   is the narrower question**: Plewman dates Ottawa YMCA camping to 1893, one year before Kanawana, and
-   that has not been tested against Ottawa YMCA records [f_4756].
+   figure is Sumner Dudley's, not Ottawa's, and Golden Lake dates to 1908 [f_4754]. **The narrower
+   1893 question was then tested on 2026-09-05** and narrowed again rather than closed: the documentary
+   half of it is an Ottawa *YWCA* board minute, checked against the page image, and the *Year Book of
+   the YMCAs of North America* records no camp for Ottawa in 1893-1897 — nor for Montreal, which is why
+   that null settles nothing [f_4835, f_4836]. **Two routes remain untried, both offline:** the Ottawa
+   YMCA's own annual reports of the 1890s, and the Ottawa YWCA minute book that Fraser was reading in
+   1954. Ottawa's own Y and the City of Ottawa Archives are the places to ask. Until one of them is
+   read, Ottawa 1893 is one man's recollection plus a minute about a camp whose sponsor is not stated.
 8. [Important] Is **Chance Harbour, N.S., 1889** the same camp as Big Cove, or a separate one? [f_2843]
 9. [Important] Fold the six competing origin claims into **one conflict record**, as [f_2845] already
    recommends, rather than leaving them scattered across facts and articles.
 
 ## Related Articles
+
+*This article is the canonical home for the oldest-camp argument. [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]] carried a second, earlier version of the same case until 2026-09-06; the two were compared paragraph by paragraph, nothing there was found that is not here, and that copy was deleted rather than merged. If the argument changes, it changes here.*
 
 - [[history/founding-1894|Founding of Camp Kanawana (1894)]]
 - [[history/timeline-overview|Timeline Overview: Camp Kanawana Decade by Decade]]
@@ -423,3 +570,13 @@ across the country, and the century that closed its own sibling camp on the orig
 13. CBC News, "In the summers without summer camps, staff get creative to stay afloat" [src_cbc_bigcove_pandemic_summers]. **Not read directly** — cbc.ca returns HTTP 403 to this project's fetch tool while serving browsers; known only through search-result summaries and recorded `read_state: unavailable`. See [f_4749].
 14. YMCAs of Quebec impact report 2022 [src_ymf_ymca_impact_report_2022_eng]; CBC News, 29 April 2021 [src_cbc_wong_camps_2021]. The two lost Kanawana seasons. See [f_2135], [f_2256].
 15. RKY Camp history page [src_rky_camp] — the 1943-1945 wartime closure. See [f_4776].
+16. Arnold Fraser, "Personality: A. 'Ace' Milks," *Canadian Camping* Vol. 6 No. 3, June 1954 [src_ia_canadian_camping_1954_06]. The Ottawa YWCA board minute of 1893, the Marshall's Bay camp of 1907 and the 1908 move to Golden Lake. The Y.W.C.A. reading was checked against the page image of the Internet Archive scan, leaf 12, rather than taken from the OCR. See [f_2662], [f_4835].
+17. *Year Book and Official Roster of the Young Men's Christian Associations of North America*, 1893, 1894, 1895, 1896 and 1897 [src_ymca_yearbook_1893], [src_ymca_yearbook_1894], [src_ymca_yearbook_1895], [src_ymca_yearbook_1896], [src_ymca_yearbook_1897]. Ontario and Quebec narrative reports read in full; each volume searched whole for "camp" and "tent". See [f_4836], [f_4837].
+18. "Camp Stephens 125th Anniversary Chapel Service ~ July 31, 2016," Camp Stephens Alumni blog [src_campstephens_125_chapel_2016]. The 1918 closure for want of counsellors, the first twenty years as an adult and family Bible camp, and the 1911 first boys' camp. A dramatised commemorative script read by alumni, not a history. See [f_4838], [f_4840].
+19. Katelyn Charlebois, "Camp Stephens Celebrates 125 Years," Lake of the Woods Museum Newsletter Vol. 26 No. 3, Summer 2016 [src_muse_kenora_camp_stephens_125]. "Only closed for one summer, 1918"; 54 enlisted campers who did not return; the five islands' namesakes, T. D. Patton among them. See [f_4838], [f_4839].
+20. *Year Book of the Young Men's Christian Associations of North America*, the volumes for **1899** [src_ymca_yearbook_1899] and **1900** [src_ymca_yearbook_1900] — both bound into a single Internet Archive scan whose catalogue record names only 1899. **Not lending-restricted**; downloaded and searched 2026-09-06. "Kanawana", "summer camp" and "camping" occur zero times in either, and the only "camp" near Montreal or Quebec is "winter campaign work" — while the same 1899 volume's Quebec branch directory names the Montreal association's Physical Director as W. H. Ball, Jr. Cached at `sources/cache/ymca-yearbooks/1899-1900-ymca-year-book-montreal-roster.txt`. See [f_4976], [f_4977].
+21. "Come to Kanawana" brochures for the 1928 and 1929 seasons, YMCA of Montreal fonds [src_ymf_1928_come_to_kanawana_brochure, src_ymf_1929_come_to_kanawana_brochure]. See [f_5030].
+22. *125 Colourful Years*, YMCA of Montreal 125th-anniversary publication, 1976 [src_ymf_annual_report_1976_125_colourful_years]. See [f_5045].
+23. YMCA of Montreal annual reports for the years ended **31 May** 1984 and 1985 [src_ymf_sgw_ymca_annual_report_1984, src_ymf_sgw_ymca_annual_report_1985]. See [f_5047]. Their camping seasons are the summers of 1983 and 1984. **[Corrected 2026-09-06:** this note previously read "for the years ending March 1984 and March 1985" and cited [f_5039], the 31 March rule. The seasons are unchanged and still right, but the reason was wrong: the association's year-end was 31 March only through 1950, then 31 December, and by the mid-1960s **31 May**. The 1984 report's own title page reads "for the year ended May 31, 1984," and a June-to-May year contains the earlier summer. See [f_5081]; every other post-1950 season attribution is being audited under p_450.**]**
+24. Armand B. Ball, *Basic Camp Management: An Introduction to Camp Administration* (Monterey, CA: Healthy Learning, 2012), "An American Camp Association book", Internet Archive scan leaf 436 [src_ball_basic_camp_management_2012]. **One sentence only**, reconstructed from seven overlapping Open Library search-inside queries; lending-restricted, page images return HTTP 403, not read. Weighed at length in [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]. See [f_4950].
+25. "YMCA firsts" list, *The News Bulletin* Vol. 19 No. 3 (May 1944), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_19_03]. Internet Archive item `the-news-bulletin-vol-19-no-03`, in the `ymca-montreal-fonds` collection. Found 2026-09-07 by the enumeration at [f_5243]. See [f_5249].

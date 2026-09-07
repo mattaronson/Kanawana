@@ -1,7 +1,7 @@
 # The Cushing Family and YMCA Camping
 
-*Status: E1-reviewed | Sources: 12*
-*Last Updated: 2026-07-10*
+*Status: E1-reviewed | Sources: 15*
+*Last Updated: 2026-09-06 (Percy H. Cushing's career, and four Cushings inside the association in 1892)*
 
 ## Summary
 
@@ -46,6 +46,63 @@ Lemuel Jr.'s eldest son **Walter Edgar Cushing** (b. 1870, d. January 13, 1935) 
 
 The 1905 genealogy contains no mention of Lake Saint-Joseph, camping, or YMCA activity beyond Lemuel Jr.'s presidency — the 1892 trip is unrecorded in the family's own published history.^6 The QAHN attribution to "Lemuel Cushing" may reflect a name conflation or the use of a family surname rather than a specific individual's given name. Resolution requires the 1893 camper lists in Concordia Archives sub-series 12L.
 
+## Two more Cushings in the association, from its own rosters
+
+This article had the family's YMCA involvement running from Lemuel Jr.'s presidency in 1867-68 to the annual reports of 1891 onward, with two decades in between unaccounted for. The YMCA's own continent-wide *Year Book*, read in September 2026, puts a Cushing in the association in both of the gaps that mattered.
+
+**Charles held the Quebec corresponding membership for at least nine years, from 1887.**^14 That was the association's senior volunteer post in the province — held in the 1886 volume by D. A. Budge, the General Secretary himself, so Charles either succeeded him or they alternated. The table above records Charles as a notary and a Sun Life director with **no YMCA connection at all**, which is what this corrects.
+
+This wiki already had him in the chair in **1893, 1894 and 1895**.^13 The volumes now add **1887, 1888 and 1891** at the front.^14 So he is not a Cushing who appears in the provincial chair five years before the Lake Saint-Joseph trip. **He is a Cushing who holds it before, during and after the trip and the camp's founding**, from 1887 until at least 1895, with **William Tees** in the post by 1897 — which the 1897 volume, read directly, confirms: "Quebec ... Wm. Tees, Montreal", and the province's report signed "William Tees, Cor. Mem."^14
+
+<!-- CORRECTION, 2026-09-06, within the hour. This passage said Cushing held the post "for at least eleven years", adding an 1898 signature at the back and raising it against this article's own record of William Tees in 1897 as a loose end to resolve. THE 1898 VOLUME WAS NOT AN 1898 VOLUME: it is the 1893 volume bound into ymcayearbookand02assogoog, whose title page the OCR renders "FOR THE YEAR 1898" and whose contents are all 1892 and early 1893. That signature is the 1893 one this article already had, and the tension with Tees was built out of a misread digit. What exposed it was two scans of the same year disagreeing — the genuine 1898 volume, in another item, has no Cushing in it at all. A title page beats a catalogue year, and a volume's own contents beat its title page's OCR. See f_4985 and f_4987. -->
+
+The identification is by name, city, period and calling: Charles Cushing of Montreal, born Chatham 1848, McGill B.C.L. 1869, notary, and — in the 1905 genealogy's own words — "an active member of the Congregational Church" who "has always taken a leading part in promoting the interests of this body, both in its college and in its missionary efforts."^1 A professional man of thirty-nine, prominent in Protestant church work, is exactly who held that post. No source says outright that the Year Book's Charles Cushing is Lemuel Sr.'s son, and this is written as an identification rather than a fact.
+
+What it changes is the shape of the family's presence. Across the whole founding period — the 1892 trip, the 1894 Camp Jubilee, the seasons after — **a Cushing was the YMCA's senior Quebec volunteer**, which makes the family's involvement continuous rather than a presidency in the 1860s and a reappearance in the 1890s with nothing between.
+
+**And "Percy H. Cushing" probably has a first name, a father, and a reason for disappearing.**^14 The *Year Book* volumes for 1894 and 1895 give Montreal's assistant secretaries as **Percy H. Cushing** and W. F. Chapman; from 1896 he is gone, C. K. Calhoun in his place. The 1905 genealogy already cited here gives, among the children of **Col. James Brock Cushing** — another of the eight sons — "**Percy Hill, b. 9 July 1872; d. 22 Dec. 1896**", born at Chatham.^1
+
+Four things converge. The name, with the H matching **Hill**. The timing of the city: the genealogy says James Brock Cushing "resided at Cushing until October, 1890, when he removed with his family to Montreal" — so a Percy H. Cushing becomes available for a Montreal post exactly when one appears. The age: twenty-two in 1894, which is what an assistant secretary was. And the disappearance: he **dies on 22 December 1896**, which accounts for a man leaving the rosters without surfacing at another association, as secretaries who merely change jobs do.
+
+Cushing is not a rare surname in Montreal and no source joins the two men, so this is an identification on four converging fields and nothing stronger. If it holds, the family sat in the association more densely than this article has recorded: Lemuel Jr. as president in 1867-68, his brother Charles in the Quebec chair in 1887, and their nephew on the paid staff in the two seasons immediately after the camp was founded.
+
+## Four Cushings inside the association at once, 1890-1893
+
+The section above rests on the *Year Book*, which is a continental roster. The association's **own
+annual reports** — cached in this repo and, until now, never read for this family — say more, and
+they say it about exactly the years the camp began.^15
+
+**Charles was on the Board of Directors, and by 1892-93 he was Recording Secretary.** All three
+reports for 1890-91, 1891-92 and 1892-93 list him among "Abner Kingman, Robert Henderson, John Kennedy, **Charles Cushing**, Wm. Tees, David Yuile", and the 1892-93 officers read "Vice-President, **William Tees**. Treasurer, Warden King. Recording Secretary, **Chas. Cushing**."^15
+
+That closes the identification the section above left open. A Charles Cushing of Montreal sat on the association's board and served as its recording secretary in exactly the years a Charles Cushing of Montreal was the International Committee's corresponding member for Quebec. It is the same man by any reasonable reading — no single document says so in one line, and it is written that way. **William Tees**, who takes the Quebec corresponding membership by 1897, sits beside him on that same board: the post passed from one Montreal board member to another.
+
+**And the staff list for 1892-93 puts two more careers back years.**^15
+
+> D. A. **Budge** — General Secretary · T. Duncan **Patton** — Assistant Secretary · **Percy H. Cushing** — *[title illegible]* · W. H. **Ball** — Physical Director · C. B. **Powter** — *"Asset."*
+
+*Two cautions the scan forces, because the temptation is to tidy this.* **Percy H. Cushing's title is OCR'd "sp be" and cannot be read.** He is unambiguously in the staff list, between the Assistant Secretary and the Physical Director, so he is on the association's staff — what he was called is not recoverable and is not supplied here. **Powter's title is the single mangled word "Asset."**, directly under Ball; "Asst." is the obvious reading and Assistant Physical Director the obvious sense, since the 1896 *Year Book* gives him exactly that under exactly Ball, but the label is quoted rather than expanded.
+
+**Percy H. Cushing** is therefore on the staff in **1892-93**, two years before the *Year Book* that was all this project had of him — and the reports that follow give him a whole career.^15
+
+He did not start in boys' work: **D. W. Corbett** held that post until "the departure of Mr. D. W. Corbett in June, 1893, left this work in great need, and we feared the result, but **Mr. P. H. Cushing was secured as his successor**, and has done excellent work." (Corbett had gone to be secretary of the Honolulu Association.) By the 1893-94 staff list he is **Assistant Secretary**, under Budge and beside W. F. Chapman as Office Secretary and W. H. Ball as Physical Director — and he is **Secretary of the Junior Department** committee under R. L. Charlton's chairmanship.
+
+**So the man in charge of Montreal's boys' work from June 1893 to September 1895 — which spans the founding of Camp Jubilee in the summer of 1894 — was Percy H. Cushing.**
+
+He left for the same school W. H. Ball had come from. The 1894-95 report: "Mr. Percy H. Cushing, who has been an efficient Assistant for the past two years, **will enter the Springfield School in September** for further training. It is a pleasant fact to record that the men from Montreal have done our Association honor both while at Springfield and after they have entered active work." The 1895-96 report confirms it: "In September, Mr. P. H. Cushing, **Assistant Secretary in charge of the Junior Department, resigned to enter the Springfield Training School**." His successor was **C. K. Calhoun** of Lindsay, Ontario, formerly Assistant Secretary at Toronto.
+
+The Junior Department's own farewell is the part worth quoting whole, because it says what he was to them: "we are losing one who has **grown up among the boys**, and has been a great blessing and help to many of them during his presence among them, **both as one of their members and as the Secretary of the Department**."
+
+*And then the arithmetic turns grim.* If he is the Percy Hill Cushing of the genealogy — an identification on four converging fields, not a documented link — he **died on 22 December 1896**, about fifteen months after leaving Montreal for Springfield, at twenty-four. And earlier still: the Boys' Department's own report for 1890-91 records that "a recommendation was sent to the Provincial Committee, to have 'boys' work' brought prominently before the Kingston Convention. This was agreed, and **a paper was presented by Mr. Percy H. Cushing**. As a result, a new interest was awakened for work among boys, which led to the revival of old meetings and the formation of new."^15
+
+**W. E. Cushing** chairs a committee supervising work at the Methodist Institute in 1890-91, and is in the committee lists of the two following years — the same W. E. Cushing the 1951 camp history names on the committee appointed in the autumn of 1892. A **Walter Cushing** sits on another committee in 1891-92; whether he is Walter Edgar, or the same man as W. E., these lists do not settle.
+
+**What that does and does not do to the 1892 trip.** None of these reports mentions Lake Saint-Joseph, a camp, or a summer outing in the passages read. They establish a setting, not an event.
+
+But it is a dense setting. In the year the trip happened and the founding committee was appointed, the association's **recording secretary was a Cushing**, a **Cushing was on its staff**, a **Cushing chaired one of its committees** and a fourth sat on another — while its Physical Director and its Assistant Secretary were **two of the five men that committee comprised**. The reading that the trip was a private initiative the association later absorbed now has to account for that. The open question is no longer whether a Cushing was involved; it is whether the association minuted it.
+
+Which is answerable from files already on disk: the **Boys' Department sections of the 1892-93 and 1893-94 reports, read in full** rather than searched for a surname. Not yet done.
+
 ## The Cushing Family in YMCA Governance (1891–1902)
 
 The Cushing family's involvement in YMCA Montreal governance is documented in the Association's own annual reports. The 41st Annual Report (published May 19, 1892) lists Charles Cushing on the Board of Directors and Building Committee, Walter Cushing on the Young Men's Meeting committee, and P.H. Cushing on the Junior Department committee.^11 Notably, that same report states the Association had no outdoor camp or grounds — "The Out-door Work suffers from the disadvantage of not owning suitable grounds" — confirming that the YMCA's camping program did not yet exist in spring 1892, the very year a "Lemuel Cushing" is said to have taken boys to Lake Saint-Joseph.^11 The 1901 historical sketch lists Charles Cushing as a Board Director with a term expiring May 1, 1902.^11
@@ -63,6 +120,8 @@ The full 1905-1969 Cushing genealogy supplement states that Walter Edgar Cushing
 His identification as the manuscript's author is retained here on the judgment that the "1943" date most likely reflects Concordia's own archival filing/cataloguing date rather than the date of composition — a common archival phenomenon for donated or transcribed personal papers — rather than positing an otherwise entirely undocumented second "W.E. Cushing." No trace of any other Cushing with those initials appears anywhere in the extensive genealogy work done for this KB, which weighs against the "different person" explanation on Occam's-razor grounds. Under this reading, Walter Edgar Cushing likely wrote the historical sketches at some point before his 1935 death, with the material only reaching the archive's 1943 accession/filing date afterward. This is an editorial call, not new evidence — the manuscript itself (does it carry an internal composition date distinct from the archive's date?) remains the only way to confirm this directly, and the identification should be treated as probable rather than settled.
 
 **Charles Cushing** is mentioned in YMCA research reports held in Concordia Archives sub-series 13D, suggesting involvement with YMCA governance or legal affairs alongside his notarial career.^5
+
+**Charles Cushing held a named office in the international YMCA, and it dates.** The *Year Book and Official Roster of the Young Men's Christian Associations of North America* lists "Quebec — CHARLES CUSHING, Montreal" as the International Committee's **Corresponding Member for the province** in its 1893, 1894 and 1895 volumes, and he signs Quebec's annual narrative report in 1893 and 1895 — the second of which covers the year 1894, Kanawana's first season. By the 1897 volume the office has passed to William Tees.^13 The name was read off the page image rather than the OCR, which renders it "GUSHING" in both the 1893 and 1895 volumes; the 1894 roster prints it plainly [f_4837]. This is the first dated YMCA office this project has for any Charles Cushing. It does **not** establish that the corresponding member, the notary (son of Lemuel Sr., active 1869-1910), and the Charles Cushing named in the Concordia research reports are one man — three appearances of a common name in one city are three appearances of a common name. What it does is give the name a place and a date to be tested against: whoever wrote those reports was the province's link to the International Committee in the two years on either side of Kanawana's founding, and his own reports say nothing about a camp.
 
 **Dr. Cushing** advised keeping Camp Kanawana open during the 1946 polio outbreak — six cases were reported, canoe trips were cancelled, but the camp remained open on his advice.^4 Phase 2 research confirmed that Harold Beveridge Cushing founded McGill's Department of Pediatrics in 1937 and co-founded the Montreal Children's Hospital in 1904 — as the leading pediatric specialist in Montreal, he was the natural choice for advising on a children's camp during a polio outbreak.^8
 
@@ -100,6 +159,9 @@ A different **Walter Edgar Cushing** (Dartmouth College, Class of 1909) served w
 10. FamilySearch, Cushing genealogy supplement 1905-1969 (item 235744).
 11. YMCA of Montreal Annual Report (41st, 1892) and Historical Sketch of the YMCA of Montreal 1851-1901 (Internet Archive), read in full 2026-07-08. Its own presidents list gives 1867-68 for Lemuel Cushing Jr.'s main-organization presidency, 1869-73 for T. James Claxton, and separately names Cushing as president of a distinct Point St. Charles branch YMCA — see conflict c_012 (likely resolved).
 12. Cushing genealogy supplement, 1905-1969, FamilySearch item 235744 — read in full 2026-07-09 [src_familysearch_cushing_supp]. McMorris thesis, full-text search for "Cushing"/"1892" [src_mcmorris_thesis].
+13. *Year Book and Official Roster of the Young Men's Christian Associations of North America*, 1893, 1894, 1895 and 1897 [src_ymca_yearbook_1893], [src_ymca_yearbook_1894], [src_ymca_yearbook_1895], [src_ymca_yearbook_1897], downloaded from the Internet Archive and cached 2026-09-05. The Quebec corresponding-member listings and provincial reports; the 1895 signature verified against the page image, leaf 0072. See [f_4837].
+14. *Year Book of the Young Men's Christian Associations of North America*, the volumes for **1886** and **1887** (the corresponding members for Quebec) and for **1894**, **1895** and **1896** (the Montreal assistant secretaries) [src_ymca_yearbook_ia_inventory_2026, src_ymca_yearbook_1894, src_ymca_yearbook_1895, src_ymca_yearbook_1896]. The 1886 and 1887 volumes are bound into Internet Archive item `ymcayearbookand02amergoog`, which is catalogued 1886 and in fact holds four annual volumes; the series is inventoried at `sources/cache/ymca-yearbooks/2026-09-06-complete-ia-inventory-of-the-series.txt`. See [f_4987], [f_4988].
+15. YMCA of Montreal, annual reports for **1890-91**, **1891-92** and **1892-93** [src_ymf_sgw_ymca_annual_report_1990_1991, src_cache_sgw_ymca_annual_report_1991_1992, src_ymf_sgw_ymca_annual_report_1892_1893]. Cached in this repo and read for the Cushings 2026-09-06 under p_438 — no previous pass had done so. The Board of Directors and officers lists, the 1892-93 staff list, the Boys' Department's account of the Kingston Convention paper, and the committee lists. The 1893-94, 1894-95 and 1895-96 reports carry Cushing mentions that were counted but **not read**. Quoted with the OCR's slips, and with the two illegible titles left illegible, at `sources/cache/ymca-montreal-fonds/1890-1893-the-cushings-inside-the-association.txt`. See [f_4992], [f_4993].
 
 ## Research Notes
 

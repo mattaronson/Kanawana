@@ -1,7 +1,7 @@
 # J.W. McConnell
 
-*Status: E1-reviewed | Sources: 12*
-*Last Updated: 2026-07-09*
+*Status: E1-reviewed | Sources: 14*
+*Last Updated: 2026-09-06 (Fong's whole paragraph recovered, and it is the only one in the book)*
 
 ## Overview
 
@@ -32,7 +32,54 @@ McConnell married Lily May Griffith in 1905.^1 They had four children, all given
 
 ## The Lake Wilson Naming Question
 
-It has been claimed that Lake Wilson at Camp Kanawana is named for McConnell's eldest son, Wilson Griffith McConnell. This claim is plausible but unverified:
+**Answered, twice, and this article was the last place to hear it.** Everything below the next four
+paragraphs was written when the question was open, and is kept because the reasoning is worth reading;
+but the balance of evidence it weighs has been settled since, first by a document this project already
+held and then by one it could not read.
+
+**The camp's own 1951 history says it.** "Kamp Kanawana History", read to a staff training course on
+6 June 1951 and read end to end by this project on 2026-09-02: "A short time later Mr. J. W. McConnell
+purchased the land around Lake Desjardins. This he presented to the Y.M.C.A., and the lake was renamed
+'Lake Wilson' after Mr. McConnell's son."^13 That resolution was written into
+[[site/lake-wilson|Lake Wilson]] four days ago and **not** into this article, which went on saying the
+claim was unverified. Recorded as the failure it is.
+
+**And a source outside the institution says it too, with a year.** William Fong's biography, McGill-Queen's
+University Press, 2008: "… 1912, in that year he also bought a site at **Lake Desjardins, near
+Saint-Sauveur, for a new Camp Kanawana, which was renamed Lake Wilson after his first son**."^14 So the
+purchase is dated to 1912, Lake Desjardins is named by an author working from McConnell's papers rather
+than the camp's, and "his first son" agrees with Wilson Griffith McConnell without naming him.
+
+**The whole paragraph is now recovered, and it is the only one.** Walked out in both directions from
+that sentence, Fong reads:^14
+
+> "…this will be brought to pass?"⁷ **Although he never devoted himself full-time to the
+> organization, McConnell's support for the 'Y' was to continue through his life.** In addition to
+> his work for the campaign of 1912, in that year he also bought a site at Lake Desjardins, near
+> Saint-Sauveur, for a new Camp Kanawana, which was renamed Lake Wilson after his first son.
+> **Further, the YMCA campaign provided the model for a fundraising campaign of McGill University**,
+> also in…"
+
+Two things to take from the surround. Fong's own summary of the relationship is **lifelong support
+without full-time involvement**, which is a more measured claim than the camp's own literature makes
+of him. And the camp's purchase is placed inside a sentence about *fundraising method*: Fong's
+interest is that the 1912 YMCA campaign became the template for McGill's, and the Lake Desjardins
+purchase is an aside in that argument.
+
+*And it is the only mention.* "Camp Kanawana" occurs on **exactly one leaf** of Fong's
+seven-hundred-page biography of the man who bought the camp's site. That is worth writing down: the
+camp is a footnote in his life, whatever it makes of him in its own.
+
+**What survives of the case below.** The pattern evidence about other Quebec Lac Wilsons is still good
+evidence — it just governs those lakes and not this one, which has a naming of its own on record twice.
+The observation that Wilson was McConnell's own middle name is still true and is now beside the point.
+The 1923 *Gas Bag* listing "Lac Wilson" among external hike destinations is no longer a difficulty: by
+1923 the lake had been the camp's for a decade, and a hike destination on the property is still a hike
+destination.
+
+*The case as it stood before, retained:*
+
+It was claimed that Lake Wilson at Camp Kanawana is named for McConnell's eldest son, Wilson Griffith McConnell. This claim was then plausible but unverified:
 
 **Evidence supporting plausibility:**
 - McConnell's eldest son was named Wilson
@@ -61,7 +108,7 @@ Conflict c_006 is now substantially resolved: oral history explains the renaming
 
 ## Open Questions
 
-1. [Critical, confirmed dead end 2026-07-09] Does the Fong biography mention Camp Kanawana, land donations, or lake naming? An attempt to search inside the book via the Internet Archive's own search-inside API (having resolved the correct server/directory via the metadata endpoint) returned HTTP 403 "Item not available due to issues with the item's content" for every query tried — the print-disabled status blocks search-inside just as it blocks borrowing. Reviews/excerpts on Project MUSE, ResearchGate, JSTOR, Goodreads, Amazon, 49thShelf, and MQUP were also checked — none discuss camp/land/lake donations. Genuine dead end; only physical/operator access to the book remains.
+1. ~~[Critical] Does the Fong biography mention Camp Kanawana, land donations, or lake naming?~~ **[Answered 2026-09-06. It does, in one sentence — see above.]** This entry read, from 2026-07-09 until today, that it was a "genuine dead end" and that "only physical/operator access to the book remains", because the Internet Archive's own search-inside API returned HTTP 403 for every query against the print-disabled item. **That was a fact about one API.** Open Library's search-inside endpoint answers the same corpus, restricted books included, and the passage was assembled from seven overlapping phrase queries in about ten minutes; the method is at [f_4933]. **What is still open is everything else the book says.** One passage has been read out of a 700-page biography — chapter 5 on the 1909 YMCA campaign, anything on the land, and anything on the McConnell Foundation's later relations with the camp are all still unread, and the same endpoint can now be pointed at them.
 2. ~~[Critical] Does the McMorris thesis full text discuss the Lake Wilson naming origin or McConnell donations?~~ [Resolved 2026-07-09] No. A full-text extraction of the complete 129-page thesis found zero matches for "McConnell" and exactly two trivial matches for "Wilson" (both simply listing "Lake Kanawana and Lake Wilson" as the camp's two lakes, no naming discussion). The thesis is not a source for this question and can be marked exhausted.
 3. ~~[Critical] What lake is "Lake Desjardins"?~~ [Substantially resolved] Oral history: Lac Desjardins was the original name of Lake Wilson, renamed after McConnell donation. Pagé family genealogy: Magloire Pagé fils married Olivine Desjardins (1875), linking the name to landowner family. Remaining: land registry confirmation.
 4. [Important, confirmed dead end for content 2026-07-09] Do the 1933 Ralph Dawson or 1943 R.L. Charlton camp histories mention McConnell by name? Concordia's public finding-aid summary page confirms exact box locations (Dawson, Box HA2307; Charlton, Box HA1881) but no secondary source anywhere reproduces or summarizes their content. Requires physical archive access.
@@ -90,6 +137,8 @@ Conflict c_006 is now substantially resolved: oral history explains the renaming
 10. Additional Commission de toponymie du Québec "Lac Wilson" fiches: Brownsburg-Chatham (451695), Saint-Théophile (67250), Grenville-sur-la-Rouge (67246) [src_toponymie_lac_wilson_additional].
 11. Concordia University Archives, YMCA of Montreal fonds sub-series 12A/12L (Dawson 1933, Charlton 1943 box locations) [src_concordia_12L].
 12. Concordia University AccessToMemory, "Wilson Griffith McConnell collection" (search-snippet only) [src_concordia_wilson_mcconnell_collection].
+13. "Kamp Kanawana History," presented at a staff Training Course, 6 June 1951 [src_ia_kanawana_history_1951]; full text cached at `sources/cache/src_ia_kanawana_history_1951.txt`, read end to end 2026-09-02. See [f_2371].
+14. William Fong, *J.W. McConnell: Financier, Philanthropist, Patriot* (Montreal: McGill-Queen's University Press, 2008), Internet Archive scan leaf 766 [src_fong_mcconnell_2008]. **One passage only**, reconstructed 2026-09-06 from seven overlapping Open Library search-inside queries; the book is lending-restricted and has not been read, and the printed page number is unknown. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-fong-mcconnell-lake-wilson.txt`. See [f_4934], [f_4933].
 
 ## Research Notes
 

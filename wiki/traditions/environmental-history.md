@@ -1,7 +1,7 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 45*
-*Last Updated: 2026-09-04*
+*Status: E1-reviewed | Sources: 52*
+*Last Updated: 2026-09-06 (p_349: Mary Edgar's 1970 conservation hymn)*
 
 ## Overview
 
@@ -13,9 +13,117 @@ The camp's environmental identity rests on three pillars: infrastructure investm
 
 ### The Green Shift (2006–2012)
 
+**Except that the idea is thirty years older than the green shift.** In 1976, raising a
+$9.5 million building fund for its 125th anniversary, the YMCA of Montreal listed three items under
+"Camping & Outdoor Education," and all three were about this camp: "Development of a northern base
+camp for tripping and wilderness survival programs"; "Development of **year-round facilities** for
+the YMCA, community and education groups at Kamp Kanawana"; and "**Development of an Ecology Centre
+at Kamp Kanawana**."^47 The campaign's own summary said the money would "make Kamp Kanawana a
+**year-round camping and outdoor education centre**" — which is the 2006 repositioning, proposed
+and costed in 1976. The French text uses the same words: *un centre d'écologie au Kamp Kanawana*.
+
+**Was any of it built? Not so far as the association ever reported.** The YMCA of Montreal's annual
+reports for 1977-78 through 1986 and Kanawana's own directors' reports for 1976 through 1979 were
+searched for it. "Ecolog" occurs in exactly one of the thirteen documents, and it is a staff
+training course — the 1976 director's report sends "Misty McKay, Vermont Ecology School, Vermont."
+There is no ecology centre, no year-round facility and no northern base camp in any of them; the
+"Camping and Outdoor Education" that does appear is the name of a branch committee.^48
+
+**That is a null, not a demolition.** It shows the association never reported building the thing,
+which is not the same as showing it was never built. What the money demonstrably did: the 1980-81
+balance sheet still carries "Due to 1976 Capital Campaign Fund — 342,526"; the 1984 report has the
+Foundation laying groundwork for "a much needed major Capital Development Program to commence in
+1985," a second campaign; and the 1985 report describes funds applied "exclusively to repair the
+buildings and replace equipment at our branches and Kamp Kanawana."^48 Repair and replacement, in
+other words, and not an ecology centre.
+
+**And this does not answer it either.** Nor is the sum
+recoverable: the amounts are right-aligned in both language columns and the OCR drifts them, so the
+figure against "Camping & Outdoor Education" is illegible and has not been guessed.^47 What the
+document establishes is intent, named, in print, in 1976.
+
 The camp's "virage vert" (green shift) began in 2006 with the goal of reducing Kanawana's ecological footprint and repositioning it as an outdoor education centre; every building renovated or constructed from 2006 onward was energy-efficient and incorporated educational elements.^17 The green shift enabled the camp to serve "four times more young people" than before, transforming it from a summer-only operation into a three-season environmental education facility.^22 In February 2009, Les Y du Québec announced a further revitalization phase with new accommodation facilities; environmental features documented at the time included green sanitary installations, heat exchangers, composting toilets, and an artificial wetland system (marais artificiel) for wastewater treatment.^17 In 2010, TELUS contributed $50,000 toward a three-season educational pavilion at the camp.^23
 
 The Montreal YMCA's own annual reports, mined directly in 2026-07-07 (project-docs/research-log.md Campaign 25), give a year-by-year primary-source account of the project's scale and progress. The 2007 annual report frames it as a $5 million development, describing it as Quebec's first "green camp": by that spring, two eco-friendly sanitary buildings (low-flow taps and showers, heat-recovery systems) were already built and in use, and a garden/composting education program had launched in partnership with YMCA Pointe-Saint-Charles, pairing seniors and youth for seedling production, planting, and composting under a specialist gardener; 19% of Kanawana campers received financial assistance that year, a figure the report described as rising annually.^24 By December 2008, $1.48 million had been raised toward the $5 million goal.^25 By 2009, Phase I was nearly complete, with twelve new three-season cabins erected at the Saint-Sauveur site for campers aged 7–12 and their counsellors.^26 The project's environmental merit was recognized outside the YMCA itself: in December 2010, Kanawana received an honourable mention for environmental achievement at the City of Saint-Sauveur's annual Gala Méritas award.^27 Construction began in October 2011 on educational pavilions for nature classes and community groups,^27 and a new eco-educational pavilion opened in 2012.^28
+
+**Four things the Concordia-digitized copy of the 2007 report adds, which the Wayback copy's
+extraction did not carry.** The sanitary complex has "a new **artesian well**, a **wastewater
+treatment and distribution system**, as well as an **artificial marsh**"; the low-flow taps and
+showers, the heat-recovery system and **composting toilets together "help reduce water consumption
+by 50%"**; the next phase of the fundraising campaign was to "build **three-season facilities for
+schools and community groups** that will visit Kanawana in the spring and fall"; and the report's
+grants table prices two of the programmes — **Multigenerational Organic Garden, Pointe-St-Charles
+YMCA and YMCA Kanawana, $17,100**, "organic gardening to increase awareness of healthy eating
+habits, organic agriculture, and composting among children and adults", and **Environmental
+Education, YMCA Kanawana, $6,700**, "environmental education program for campers".^49
+
+**The two copies are the same report reached by two routes**, and this project holds a separate
+source record for each: the Wayback copy behind note 24 has no cache file, and the Internet Archive
+copy of the Concordia digitization sits in the cache and had been cited nowhere. Both give the $5
+million framing and the 19% assistance figure, which is what confirms them identical. The duplicate
+pair is logged for `p_442`.
+
+**The 2006 report is where the project starts, and it had never been read by any route.** Unlike
+2007, 2008 and 2009, no Wayback copy of the 2006 annual report exists in this project, so nothing in
+it had reached the wiki before 2026-09-06. It dates the idea: "In the **fall of 2005**, we began
+dreaming of developing our camp YMCA Kanawana into **Quebec's first 'green' camp** — a year-round
+centre dedicated to outdoor and environmental education." A "multi-disciplinary team of
+professionals and stakeholders" then worked through "a **non-traditional integrated design
+process**".^50
+
+**The budget was $4.4 million before it was $5 million.** The 2006 report describes a "**4-season
+eco-pavilion and 3-season installations** to welcome children, youth and families year-round" as
+"an investment of **$4.4 million**"; the 2007 report gives "close to $5 million in total". The
+figure was revised upward between the two years, and neither is wrong.^50
+
+**Construction started in December 2006, and the specification is precise.** "In **December 2006**,
+we began the construction of **2 new sanitary installations** which will include **16 toilets, sinks
+and showers each**. These **3-season buildings** will use **natural light and ventilation** and water
+will be heated by **high-efficiency wood boilers that produce only trace emissions**. Toilets will be
+composting — **a first for Quebec camps** — which will significantly reduce water and energy use."^50
+
+**And the access programme has a three-year series, not a single figure.** In summer 2006, "**12% of
+campers received financial assistance to go to camp, a threefold increase over 2004**" — which puts
+2004 at about **4%** — against the **19%** the 2007 report gives. The 2006 report also names the
+partners doing it: "our **9 YMCA Centers** and community partners such as **Toujours Ensemble**,
+**Batshaw Youth and Family Centres**, the **Centre communautaire de la Montérégie** and the
+**Municipality of Saint-Sauveur**." Its list of who came that summer is worth keeping whole: **28
+children from the Pointe-Saint-Charles YMCA Homework Club** for a week; **10 low-income families**
+referred by the **Saint-Laurent CLSC**; **refugee claimants from the YMCA Residence** on day trips;
+**a class of Japanese children** from the YMCA Language School's English immersion course; the
+**Municipality of Saint-Sauveur's day camp** for overnight trips; and **17 youth from
+Saint-Michel** involved in **C-Vert**, "a collaborative project with the **Stephen Bronfman
+Foundation** and **TOHU** (the Cité des arts du cirque)". All staff that year "were trained in human
+rights and **40 Developmental Assets** educational approaches", and the year's environmental
+programme was named "**Wildlife Gaining Ground**".^50
+
+**The year before that, and the only copy of it is in French.** There is no English 2005-2006
+annual report in this project and no Wayback copy, so the French edition is the sole witness to the
+year in which the project was being designed. The Foundation "s'est aussi chargée de soutenir le
+développement d'un lieu unique… le camp YMCA Kanawana", and: "Le projet de développement en fera
+**un centre d'éducation à l'environnement et au plein air ouvert à l'année, accueillant plus de
+5 000 personnes** provenant de tous les milieux et ce, dans un climat de tolérance et de respect.
+**Une campagne de financement de 4 millions $ est présentement en cours et permettra le début des
+travaux en 2007.**"^51
+
+**Three money figures, and they are not three versions of one number.** The **$4 million** here is a
+**fundraising campaign** then under way; the **$4.4 million** in the 2006 report and the "close to
+**$5 million** in total" in 2007 are the **project investment**. A campaign target and a project cost
+are different quantities, and this article does not present them as one figure revised twice.
+
+**A target the outcome can be measured against: over 5,000 people a year.** Set beside the 800
+children and youth the association described the camp as hosting in 2004-2005 (see
+[[meta/attendance-series|The Attendance Series]]), that is a sixfold ambition, resting on the
+year-round and three-season use the new buildings were designed for.
+
+**One association-wide figure worth not misreading.** The same report says the *Politique d'accès
+équitable* "aide financièrement **4 523 personnes** afin qu'elles puissent participer à nos
+programmes" — that is **every YMCA programme across the association**, not Kanawana, and it is not
+comparable to the camp's own 12% and 19% assistance shares.
+
+**Where Phase I got to, and what it cost in donations.** The report for the year ended 31 December 2009: "Phase I of the Kanawana Development Project is coming to an end. The camp's young campers and counsellors will soon be able to experience the **12 new three-season cabins erected this year** on its wonderfully forested site in Saint-Sauveur. The cabins and the two sanitary facilities (completed in 2007), were made possible thanks to **over $1.8 million in donations**. The fundraising campaign is ongoing with the final objective being the construction of **two learning pavilions in 2010-2011**, thus completing Phase I."^52
+
+**That is a fourth money figure and it measures something different again.** The $1.8 million is **donations actually received** by the end of 2009, against the **$4 million campaign target** of 2005-06 and the **$4.4 to $5 million project investment** of 2006 and 2007. Set together they say the campaign was somewhat under halfway at the point Phase I's buildings were finished, which is a fact about the fundraising and not about the buildings.
 
 ### Composting System
 
@@ -72,6 +180,40 @@ In 2018, Desjardins donated $1 million to the YMCA for renovations at Camp Kanaw
 The camp's engagement with nature is not entirely modern. The 1918 summer season offered instruction in "nature study" alongside first aid, basket-making, and camp sanitation.^13 By 1922, the camp held a chartered tribe in the Woodcraft League of America, whose nature study and outdoor skills programming embedded ecological awareness in the badge system.^17b The broader Woodcraft and nature study traditions of the early camping movement provided the philosophical groundwork for contemporary environmental education.
 
 A dedicated Nature Awareness program was created by Chris Adam (listed as "Chris Adams" in the 1980 *Ka-News*; from Vanier) in 1980, alongside new orienteering methods with a nature trail.^12 A Nature Nook / Nature Interpretation Area remains on the current site.^4 The 1980 initiatives mark the earliest identifiable moment when environmental education became a distinct programming stream rather than a diffuse element of outdoor camping.
+
+### A conservation hymn from the movement's honorary president, 1970
+
+The earliest environmental statement in the national camping press this project holds is not an
+article. It is a hymn, printed in November 1970 by **Mary S. Edgar** — founder of Glen Bernard, first
+director of the YWCA's Camp Oolahwan in the Laurentians, and by then Honorary President of the Canadian
+Camping Association — as one of four texts under the heading "A Page of Poems."^46 It is called
+"**Hymn for the Space-Age**", set to the tune **Forest Green**, and its third and fourth verses are a
+conservation argument in the form of a doxology:
+
+> This land of ours is vast and fair, / Shaped through the ages gone, /
+> **Inheritors, our debt is paid / By passing beauty on.**
+>
+> **Keeping our skies and waters clean / Our forests freshly green** /
+> Thus through the ever-circling years / True gratitude is seen.
+
+Two things are worth noticing. The first is the date: eight months before Kanawana's own erosion
+confession and nine years before "No Trace Camping", the movement's senior figure was already putting
+stewardship to camps as a debt owed forward rather than as a technique. The second is the frame. The
+hymn opens on space — "Great Spirit of the universe / Infinity of space, / **We Earth-born mortals
+venture far / Your mysteries to trace**" — and turns from there to the planet as the thing worth
+looking at, which is the argument the Apollo photographs were making everywhere in 1970. Edgar was
+eighty-one when she wrote it.
+
+**It is her third Centennial-era hymn**, after "Canada's Our Country", sung at the National Centenary
+Campfire of 9 August 1967 (see [[history/centennial-1967|Kanawana's Centennial]]), and "This Fair Land,
+Our Canada" in the spring of 1969.^46 The through-line from the first two to this one is the country;
+what is new in 1970 is that keeping it clean is what the gratitude consists of.
+
+Edgar's own camp connection to Kanawana runs through [[connections/related-camps/camp-oolahwan|Camp
+Oolahwan]], the Montreal YWCA camp she directed from 1915 to 1919, whose campers visited Kanawana
+through the 1940s. No source says any Kanawana camper ever sang this hymn. What it establishes is what
+the movement's own elder was saying about the land in the year Kanawana's directors were reading the
+same magazine.
 
 ### "Leave no trace" reaches Canadian camping, 1979
 
@@ -239,6 +381,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 - [[people/dave-twynam|Dave Twynam]]
 - [[people/j-w-mcconnell|J.W. McConnell]]
 - [[traditions/pip-alumni-award|The Pip Alumni Award]]
+- [[traditions/winter-programming|Winter and Year-Round Programming]]
 
 ## Sources
 
@@ -289,6 +432,13 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 43. Jean Funk, "Environment Committee," in the CCA/ACC Annual Report 1983, *Canadian Camping* Vol. 36 No. 2 (Summer 1984) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 151).
 44. Jean Funk, "Dear CCA Member Camps," and the full text of the "Canadian Camping Association Environmental Ethic," *Canadian Camping* Vol. 36 No. 4 (Winter 1985), pp. 5-6 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 153).
 45. Jay Netherwood (Camp Kanawana), "L'Étranger" / "The Stranger," *Canadian Camping Magazine* Vol. 39 No. 3 (Winter 1988), pp. 18-19, printed in French and English [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 164). The only article by a Kanawana person in the magazine's 1949-1988 run.
+46. Mary S. Edgar, "A Page of Poems" — "A Director's Meditation," "Hymn for the Space-Age" (Tune: Forest Green), "Postpone the Verdict" and "Outdoor Blessing" — *Canadian Camping* Vol. 23 No. 1 (November 1970) [src_ia_canadian_camping_collection]. Her two earlier Centennial hymns are "Canada's Our Country," printed with the National Campfire ceremony in Vol. 19 No. 4 (June 1967), and "This Fair Land, Our Canada — A Centennial Hymn" in the Spring 1969 issue. Written up 2026-09-06 under p_349. See [f_3453], [f_3454], [f_3343].
+47. *125 Colourful Years*, YMCA of Montreal 125th-anniversary publication, 1976 [src_ymf_annual_report_1976_125_colourful_years]. Cached at `sources/cache/ymca-montreal-fonds/annual-report-1976-125-colourful-years.txt`. See [f_5044]. Read 2026-09-06 under p_441 for its timeline and its building-fund plan; the branch reporting that makes up most of the volume is not read.
+48. YMCA of Montreal annual reports for 1977-78 through 1986, and the Kamp Kanawana directors' reports for 1976-1979 [src_cache_sgw_ymca_annual_report_1977_1978, src_cache_sgw_ymca_annual_report_1978_1979, src_ymf_sgw_ymca_annual_report_1979_1980, src_ymf_sgw_ymca_annual_report_1980_1981, src_ymf_sgw_ymca_annual_report_1981_1982, src_ymf_sgw_ymca_annual_report_1982_1983, src_ymf_sgw_ymca_annual_report_1984, src_ymf_sgw_ymca_annual_report_1985, src_ymf_sgw_ymca_annual_report_1986, src_ia_kanawana_directors_report_1976]. Searched for the 1976 campaign's promises. See [f_5046].
+49. YMCA of Montreal annual report 2007, the Concordia-digitized copy [src_ymf_sgw_ymca_annual_report_2007], pp. on the Kanawana Development Project and the grants table. THE SAME DOCUMENT AS NOTE 24, reached by a different route: note 24 is the Wayback copy (src_ymcaquebec_annualreport_2007, no cache file), this is the Internet Archive copy of the Concordia digitization, and the two carry the same $5 million framing and the same 19% assistance figure. Read 2026-09-06; the duplicate pair is logged for p_442.
+50. YMCA of Montreal annual report 2006, the Concordia-digitized copy [src_ymf_sgw_ymca_annual_report_2006], the "YMCA Kanawana Development Project" and "Community Outreach" pages. NO WAYBACK COPY OF THIS YEAR EXISTS in this project, unlike 2007-2009, so nothing in it had been read by any route before 2026-09-06.
+51. YMCA du Grand Montréal, rapport annuel 2005-2006 [src_ymf_sgw_ymca_annual_report_2005_2006_fr], the Foundation pages and the President's message. THE ONLY COPY OF THIS YEAR THIS PROJECT HOLDS IS THE FRENCH EDITION -- there is no English 2005-2006 file in the cache and no Wayback copy -- so nothing in it had been read before 2026-09-06.
+52. Montreal YMCA annual report for the year ended 31 December 2009 [src_ymf_sgw_ymca_annual_report_2009], "Kanawana: significant progress". Read 2026-09-06 under p_454.
 
 ## Research Notes
 

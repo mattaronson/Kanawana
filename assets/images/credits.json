@@ -1,8 +1,127 @@
 {
   "_comment": "Provenance manifest for the Camp Kanawana visual archive. Every identified pre-2016 image gets an entry here BEFORE the image file lands, so provenance and rights are recorded. When an image is added to this directory, set status='acquired' and fill 'filename'. Canadian copyright note: photographs created before 1949 are generally public domain in Canada (and most pre-1972 published works), so the early archival images below are safely displayable. Photo-integration batch 'photodownloads-2026-06-29' added 2026-07-02: 234 images filed from three delivered archives (Concordia historical album, dining-hall plaque album, physical-artifact/art scans). See project-docs/research-log.md.",
   "version": "1.0",
-  "updated": "2026-09-05",
+  "updated": "2026-09-06",
   "images": [
+    {
+      "id": "img_kanawana_from_the_water_1923",
+      "title": "Kanawana from the Water",
+      "caption_on_original": "Kanawana from the Water.",
+      "date": "1923",
+      "date_precision": "year",
+      "source": "The Gas-Bag Extra, Volume 13 Number 1 (1923), p. 2",
+      "source_ref": "same plate, panorama beneath",
+      "source_url": "https://archive.org/details/the-gas-bag-extra-vol-13-no-1",
+      "rights": "Published 1923 -- public domain in Canada.",
+      "linked_facts": [
+        "f_4927"
+      ],
+      "suggested_articles": [
+        "places-and-locations",
+        "the-kanawana-site",
+        "lake-wilson"
+      ],
+      "target_filename": "1923-kanawana-from-the-water.jpg",
+      "filename": "1923-kanawana-from-the-water.jpg",
+      "status": "acquired",
+      "priority": 1,
+      "notes": "The camp shoreline from the lake: a tent above the beach and a line of boats or canoes drawn up along the shore."
+    },
+    {
+      "id": "img_kanawana_dining_pavilion_1923",
+      "title": "Dining Pavilion, Kamp Kanawana",
+      "caption_on_original": "Dining Pavilion",
+      "date": "1923",
+      "date_precision": "year",
+      "source": "The Gas-Bag Extra, Volume 13 Number 1 (1923), p. 2",
+      "source_ref": "same plate, upper right",
+      "source_url": "https://archive.org/details/the-gas-bag-extra-vol-13-no-1",
+      "rights": "Published 1923 -- public domain in Canada.",
+      "linked_facts": [
+        "f_4927"
+      ],
+      "suggested_articles": [
+        "places-and-locations",
+        "the-kanawana-site"
+      ],
+      "target_filename": "1923-kanawana-dining-pavilion.jpg",
+      "filename": "1923-kanawana-dining-pavilion.jpg",
+      "status": "acquired",
+      "priority": 1,
+      "notes": "A large log building with a deep overhanging roof and an upper rail or gallery, boys along its front. The 1988 facilities table dates the dining hall and kitchen to 1919."
+    },
+    {
+      "id": "img_kanawana_pictorial_review_1923",
+      "title": "Kamp Kanawana Pictorial Review",
+      "caption_on_original": "KAMP KANAWANA PICTORIAL REVIEW",
+      "date": "1923",
+      "date_precision": "year",
+      "source": "The Gas-Bag Extra, Volume 13 Number 1 (1923), p. 2",
+      "source_ref": "Internet Archive item the-gas-bag-extra-vol-13-no-1, leaf n1",
+      "source_url": "https://archive.org/details/the-gas-bag-extra-vol-13-no-1",
+      "rights": "Published 1923 -- public domain in Canada. Credit the YMCA of Montreal fonds, digitized by Concordia University Records Management and Archives.",
+      "linked_facts": [
+        "f_4927"
+      ],
+      "suggested_articles": [
+        "places-and-locations",
+        "the-kanawana-site",
+        "green-triangle"
+      ],
+      "target_filename": "1923-kamp-kanawana-pictorial-review.jpg",
+      "filename": "1923-kamp-kanawana-pictorial-review.jpg",
+      "status": "acquired",
+      "priority": 1,
+      "notes": "Seven halftones with blackletter captions -- Stories around the Fire, Dining Pavilion, Senior Tent-site, A popular Spot, Next?, Basketry Instruction, Wrestling Class -- plus a shoreline panorama captioned 'Kanawana from the Water'. Found 2026-09-06 while fetching this issue's page image for the M. E. Williams cups table (p_261). Invisible to text search: the captions are blackletter set inside the plate and the OCR read only three."
+    },
+    {
+      "id": "img_camp_club_house_1904",
+      "title": "Camp Club House, Lake St. Joseph",
+      "caption_on_original": "CAMP CLUB HOUSE, LAKE ST. JOSEPH",
+      "date": "1904",
+      "date_precision": "year",
+      "source": "YMCA of Montreal, 'Men of Montreal': Fifty-Third Annual Report and Summer Camp Number, 1904 -- front cover",
+      "source_ref": "Internet Archive item sgw-ymca-annual-report-1904-men-of-montreal, leaf n0",
+      "source_url": "https://archive.org/details/sgw-ymca-annual-report-1904-men-of-montreal",
+      "rights": "Halftone published 1904 -- public domain in Canada. Credit the YMCA of Montreal fonds, digitized by Concordia University Records Management and Archives.",
+      "linked_facts": [
+        "f_4918",
+        "f_4920"
+      ],
+      "suggested_articles": [
+        "camp-otoreke",
+        "founding-1894"
+      ],
+      "target_filename": "1904-camp-club-house-lake-st-joseph.jpg",
+      "filename": "1904-camp-club-house-lake-st-joseph.jpg",
+      "status": "acquired",
+      "priority": 1,
+      "notes": "The Log Club House completed September 1898, photographed for the cover of the 1904 report. A dozen or more boys and young men on the veranda, the steps and the path; a canvas blind let down at the left end of the veranda; the lake beyond. The full cover is filed alongside as 1904-men-of-montreal-summer-camp-number-cover.jpg. Found 2026-09-06 by ranking the item's djvu pages by word count and looking at the sparsest -- the caption sweep of the cached OCR missed it because the OCR runs the caption into the cover text."
+    },
+    {
+      "id": "img_association_summer_camp_1899",
+      "title": "The Association Summer Camp, Lake St. Joseph",
+      "caption_on_original": "THE ASSOCIATION SUMMER CAMP, LAKE ST. JOSEPH.",
+      "date": "1898 or 1899",
+      "date_precision": "approximate",
+      "source": "YMCA of Montreal, Annual Report for the year ending 30 April 1899, p. 13 (facing the President's and Secretary's signatures)",
+      "source_ref": "Internet Archive item sgw-ymca-annual-report-1899, leaf n14",
+      "source_url": "https://archive.org/details/sgw-ymca-annual-report-1899",
+      "rights": "Halftone published 1899 -- public domain in Canada. Credit the YMCA of Montreal fonds, digitized by Concordia University Records Management and Archives.",
+      "linked_facts": [
+        "f_4910",
+        "f_4914"
+      ],
+      "suggested_articles": [
+        "camp-otoreke",
+        "founding-1894"
+      ],
+      "target_filename": "1899-association-summer-camp-lake-st-joseph.jpg",
+      "filename": "1899-association-summer-camp-lake-st-joseph.jpg",
+      "status": "acquired",
+      "priority": 1,
+      "notes": "THE EARLIEST KNOWN PHOTOGRAPH OF THE CAMP THIS PROJECT'S HISTORY BEGINS WITH, four or five seasons after the first. Found 2026-09-06 by reading the report's page images: the OCR preserves the caption but not the plate, so no text search this project ever ran could see it. Cropped from the page scan at archive.org/download/sgw-ymca-annual-report-1899/page/n14_w1600.jpg (that endpoint needs a Referer header and -L)."
+    },
     {
       "id": "img_flagraising_c1910",
       "title": "Flag-raising ceremony, Kamp Kanawana",

@@ -1,7 +1,7 @@
 # Sam Lazarus
 
-*Status: draft | Sources: 6*
-*Last Updated: 2026-08-14*
+*Status: draft | Sources: 8*
+*Last Updated: 2026-09-06 (his mother's book, cited here since March from listings alone, finally read where it touches the camp)*
 
 ## Overview
 
@@ -11,16 +11,62 @@ Samuel Karl Lazarus (born March 3, 1978, Montreal; died January 14, 2004, in Kum
 
 Lazarus was a camper and staff member at Kanawana for much of his childhood and youth.^1 After camp, he volunteered at an orphanage in Kumasi, Ghana, where he died of cerebral malaria on January 14, 2004, at age 25.^1 His obituary, published January 23, 2004, gives his birth as March 3, 1978, records the death at Kumasi, and directed donations to the Samuel Lazarus Fund at Kamp Kanawana, 1435 Drummond Street; a memorial was held at Montreal's Rialto Theatre on January 25, 2004.^3 The stated age of twenty-five settles a birth-year discrepancy in the KB, which had also carried 1979 — a 1979 birth would make him twenty-four at death, so 1978 is the only reading consistent with the obituary's own arithmetic, and CBC's 2015 coverage independently says twenty-five.^3 ^5
 
+## What his mother's book says about camp
+
+This article has cited *Dear Sam: Grieving the Death of My Son* since March 2026 — as a title, from a bookseller's listing, for the fact that it exists. It has now been read where it touches Kanawana, and it turns out to answer a question this article was asking itself.
+
+Sam Lazarus was a camper at Kanawana "**practically every summer since he was eight**."^7 He was born on 3 March 1978, so that is **from the summer of 1986**. Open Question 1 below asked what years he attended; that settles the start of it, and "practically every summer" settles the shape.
+
+The way he came onto staff is less tidy than a CIT track. Torge writes that his "employment options in Montreal were severely limited by his poor grasp of French," and that "**to escape the decision about what to do next, he applied for a position as a counselor-in-training at Kamp Kanawana** … and was accepted."^7 He had left school and did not want to go back; the camp was where he went instead. **No year is given**, and the sequence puts the CIT year later than a sixteen-year-old's — so it should not be turned into a year by arithmetic from his birth date, and is not.
+
+> "That summer was terrific. Sam was considered a good counselor with the kids, especially the younger ones, **who called him 'Daddy'** and ran to him whenever a bout of homesickness came over them. He was able to share with them a child's enthusiasm for the outdoors while using a firm, older hand to keep them in line."^7
+
+He returned for at least one further summer as a counsellor, and he meant to return again — "to spend the summer again as a counselor at Kamp Kanawana, but he continued making arrangements to leave" — the summer he instead went to Ghana.^7 And of the funeral in January 2004, his mother wrote the sentence that says what the camp was to him more economically than anything else in this article: "**Counselors and kids from Kamp Kanawana are everywhere, many at their first funeral.**"^7
+
+*A lead, and not an identification.* The camp's **2003 Junior Boys counsellors plaque carries a "Sam L" and a "Sam W"** — two Sams distinguished by initial, which is why neither has a surname on the board. On the account above, 2003 would have been his last summer. It fits. It is also one initial, and one initial is not a name, so it is recorded here as a lead and deliberately not folded into the [[people/multi-year-index|plaque index]].
+
+## An award in his name, and what the association wrote
+
+The YMCA of Greater Montreal's annual report for 2003-2004 carries the association's own memorial,
+and it adds a thing this article did not have: **an annual staff award**. "Sam's co-workers and
+friends decided to pay tribute to this **tireless ambassador of Kanawana** by creating **an award in
+his name**. The award will be presented every year to a **staff member who best exemplifies the Kamp
+Kanawana motto: *Non Nobis Solum* (Not for Ourselves Alone)**."^8
+
+The same page gives the association's description of him as a counsellor — "much appreciated for his
+**kindness and dedication**, as well as for his **extraordinary ability to inspire and motivate
+children**" — and states the death plainly: "**Samuel Lazarus died of malaria in January while
+working as a volunteer in a daycare in Ghana**." (His mother's book and this article give the place
+as an orphanage in Kumasi and the cause as cerebral malaria; the annual report's "daycare" is the
+association writing at a distance, and the difference is noted rather than resolved.)
+
+**Whether the award was ever presented is not known here.** This project has no list of its
+recipients and no later mention of it in anything read. It is a specific, findable thing to ask the
+camp about, and it would be a second named staff award beside the
+[[traditions/pip-alumni-award|Pip Award]].
+
+**It does not settle the "Sam L" plaque question.** The report says nothing about which section he
+counselled in 2003, so Open Question 1 stands exactly where it did.
+
 ## The Sam Lazarus Fund
 
 Lazarus's mother, Janet Torge — a Montreal-based writer and television documentary producer with a varied career spanning radio talk-show hosting, traffic reporting, a Montreal Gazette column, prenatal teaching and doula work, construction site management, and co-founding Canada's first Rape Relief Centre in 1973 — and his brother Riel Lazarus, an archivist and researcher for film and TV, established the Sam Lazarus Fund to send children who otherwise could not afford it to Kanawana.^2 Torge published *Dear Sam: Grieving the Death of My Son* (iUniverse), a memoir of letters written to cope with her loss, and later *I Can't Believe I'm Old: Essays on Aging* (Linda Leith Publishing).^4 ^2
+
+**The fund's early figures, from the association's own report.** By 2003-2004 the endowment "is now
+worth **$22,000**", and "**two children benefitted from the fund this past summer**". Family and
+friends contributed "individually and through various events, such as a **benefit hockey tournament
+that raised more than $9,000**, **Allison Leduc's first marathon**, as well as weddings and
+retirement parties." The report states the fund's purpose as enabling "children from underprivileged
+families to attend the summer camp", and closes with the family's own hope "that it will remind us
+all that **out of tragedy can come hope and inspiration**."^8
 
 The annual "Five-Hole Sam Street Hockey Jamboree" (Sam Jam), organized by Riel Lazarus, had raised over $260,000 and sent more than 70 children to camp as of 2015 — the name references Sam's reputation as a street hockey goalie prone to letting goals through "the five-hole."^5 The fund continues through the Fondation des YMCA du Québec; as of 2024 it accepts donations via Zeffy, and over 17 years has provided camperships to dozens of families.^6
 
 ## Open Questions
 
-1. [Nice-to-have] What years specifically did Lazarus attend Kanawana as a camper and staff member?
+1. [Partially resolved 2026-09-06] What years specifically did Lazarus attend Kanawana as a camper and staff member? **The camper years start in 1986** — "practically every summer since he was eight", on a 3 March 1978 birth.^7 The staff years are still open: the CIT year is undated in his mother's account and came after he left school rather than at sixteen, and the number of counsellor summers after it is given only as "another".
 2. [Nice-to-have] What was the nature of Lazarus's volunteer placement in Kumasi, Ghana — which orphanage, and under what organization's auspices?
+3. [Nice-to-have, new 2026-09-06] Is the "Sam L" on the 2003 Junior Boys counsellors plaque Sam Lazarus? The dates fit and the initial is all the board gives. A photograph, a staff list, or anyone who was on Junior Boys staff that summer would settle it.
 
 ## Related Articles
 
@@ -35,6 +81,8 @@ The annual "Five-Hole Sam Street Hockey Jamboree" (Sam Jam), organized by Riel L
 4. Amazon, *Dear Sam: Grieving the Death of My Son* by Janet Torge (iUniverse) [src_amazon_dear_sam].
 5. CBC News, "Annual street hockey jamboree honours Montreal West native" (August 21, 2015) [src_cbc_sam_jam_2015].
 6. The Sam Lazarus Fund, Zeffy donation page [src_zeffy_lazarus_fund].
+7. Janet Torge, *Dear Sam: Grieving the Death of My Son* (iUniverse, 27 May 2007), Internet Archive scan leaf 150 [src_torge_dear_sam_2007]. **Four passages only**, reconstructed 2026-09-06 from twenty-five overlapping Open Library search-inside queries; the book is lending-restricted, page images return HTTP 403, and it has not been read. The walk was stopped at the camp material and the sentences that place it, and was not extended into the surrounding chapters — this is a mother's book of letters to a dead son, and reading a published book is not the same as mining it. Everything found is recorded and nothing was withheld. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-two-family-memoirs-elvin-and-torge.txt`. See [f_4953].
+8. YMCA of Greater Montreal annual report 2003-2004 [src_ymf_sgw_ymca_annual_report_2003_2004], the memorial pages. Read 2026-09-06 under p_454.
 
 ## Research Notes
 

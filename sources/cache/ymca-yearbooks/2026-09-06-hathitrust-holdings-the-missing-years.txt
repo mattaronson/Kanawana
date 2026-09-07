@@ -1,0 +1,123 @@
+WHERE THE MISSING YEAR BOOK YEARS ARE — HATHITRUST, AND THIS ENVIRONMENT CANNOT READ THEM
+==========================================================================================
+
+[SUPERSEDED 2026-09-07 IN ITS CONCLUSION, NOT IN ITS FACTS. Everything below about HathiTrust's
+holdings and about the Cloudflare wall is still true and still useful. THE TITLE'S SECOND CLAUSE
+IS NOT. This environment CAN read the missing years — all of them, including the three
+HathiTrust itself lacks — at the University of Minnesota's ContentDM collection p16022coll351,
+which is open. The route was sitting inside this very file, in the ROUTES NOT TRIED list, as
+"the Kautz Family YMCA Archives, University of Minnesota, WHICH HOLDS THE SERIES IN PRINT" —
+where the last clause was an assumption written down as though it were a finding, and it closed
+the route off. See 2026-09-07-umedia-the-series-is-readable-after-all.txt and f_5263. Google
+Books was retried on 2026-09-07 as this file asks: still 429, and naming the same consumer
+project number, so it is a shared key exhausted by other traffic rather than a daily quota that
+resets — the "retry on a later day" advice below is wrong and should not be followed again.]
+Compiled 2026-09-06 (p_436). This is a finding aid and an ACCESS FAILURE RECORD, not a source of
+camp facts. Nothing below has been read.
+
+THE QUESTION
+------------
+The Internet Archive inventory compiled earlier today (f_4985) established that the YMCA *Year
+Book* is unavailable there for 1883, 1885, 1889, 1901-1905, 1910-1920 and 1923-1935 — holes that
+survived four separately corrected search methods. 1910-1920 is the costly one: the new site's
+first decade, the whole First World War, and the years in which W. J. Holliday either did or did
+not recover the Boys' Work directorship he had lost to M. G. Brooks by 1909.
+
+THE ANSWER: HATHITRUST HAS ESSENTIALLY ALL OF THEM, AND THEY ARE PUBLIC DOMAIN
+------------------------------------------------------------------------------
+HathiTrust's Bib API works from here. Its search interface and every reading endpoint do not —
+see the access note below. Two catalogue records hold the series, and THEY MUST BOTH BE QUERIED:
+the OCLC lookup returns one record and 42 items; the LCCN lookup returns that record AND a second
+one (011919824) with eleven further items, including the cleanest run of the 1901-1906 years.
+
+    OCLC 6996715   ->  record 000528855              42 items
+    LCCN 29015142  ->  records 000528855 + 011919824  53 items
+
+THE HOLES, AND THE HATHITRUST ITEM ID FOR EACH. All are rightsCode "pd" — public domain, full
+view to anyone who can reach the site.
+
+  1901        ien.35556001609783
+  1902        ien.35556001609791      (also mdp.39015069277856, and mdp.39015069278029 for 1902-03)
+  1903        ien.35556001609809      (also mdp.39015069278011 for 1903-04)
+  1904        ien.35556001609817      (also mdp.39015069278003 for 1904-05)
+  1905        ien.35556001609825      (also mdp.39015069245861 for 1905-06)
+  1909-1910   mdp.39015069245812
+  1910-11     uiug.30112109814126
+  1911/12     uiug.30112109814233
+  1913/14     uiug.30112109814225
+  1915/16     uiug.30112109814217
+  1916/17     uiug.30112109814209
+  1917/18     uiug.30112109814191
+  1918/19     uiug.30112086367254
+  1919/20     uiug.30112109814183
+
+Also there, and useful as independent second copies of years already held: 1891, 1896, 1897,
+1898, 1899, 1906 (the ien. run), 1921 (mdp.39015069245804), 1923/24 and 1924.
+
+STILL MISSING EVEN FROM HATHITRUST, on these two records: 1883, 1885, 1889, and — within the war
+decade — 1912/13, 1914/15 and 1920/21. The 1942-1962 volumes are held but are rightsCode "ic",
+in copyright and not viewable.
+
+WHAT THIS DOES AND DOES NOT SETTLE
+----------------------------------
+IT SETTLES WHERE THE YEARS ARE. This project had recorded them as unavailable. They are
+available, they are public domain, and each one now has an identifier. "Not on the Internet
+Archive" was never the same statement as "not digitised", and the distinction was worth the hour.
+
+IT DOES NOT GET THEM READ. See below.
+
+
+ACCESS FAILURE — RECORDED AS ONE, WITH THE ROUTES NAMED
+--------------------------------------------------------
+HATHITRUST. The Bib API (catalog.hathitrust.org/api/volumes/...) RETURNS JSON NORMALLY; it was
+control-tested against a known OCLC before any of the above was trusted. Everything else returns
+HTTP 403 with a Cloudflare interstitial ("Just a moment..."):
+
+    catalog.hathitrust.org/Search/Home            403, 5,810-byte challenge page
+    babel.hathitrust.org/cgi/ls (full-text search) 403
+    babel.hathitrust.org/cgi/pt (the reader)       403, 5,534 bytes
+    babel.hathitrust.org/cgi/imgsrv/html           403, 66,875 bytes
+    babel.hathitrust.org/cgi/imgsrv/download/pdf   403, 66,875 bytes
+
+So this environment can ENUMERATE HathiTrust precisely and READ NOTHING FROM IT. That is a fact
+about the gateway, not about the volumes.
+
+GOOGLE BOOKS. Not a null either. The API returned HTTP 429: "Quota exceeded for quota metric
+'Queries' and limit 'Queries per day'". The control query failed identically, so this says
+nothing about what Google holds. IT IS A DAILY QUOTA AND MAY RESET — retry on a later day before
+concluding anything. Worth retrying specifically: the mdp. and uiug. scans are University of
+Michigan and University of Illinois copies, both Google-digitised, so Google Books plausibly has
+the same volumes.
+
+ROUTES NOT TRIED
+  - The HathiTrust Data API, which needs OAuth credentials. A person can request them.
+  - ANY PERSON WITH A BROWSER. These volumes are public domain and full-view; the Cloudflare
+    challenge is aimed at automation, not at readers. This is a good candidate for a human task:
+    the pages wanted are the Quebec branch directory and the Montreal block of the alphabetical
+    list of employed officers, which in every volume of this series sit about a quarter and about
+    three-quarters of the way in respectively.
+  - Google Books on a later day, per the quota above.
+  - The Kautz Family YMCA Archives, University of Minnesota, which holds the series in print.
+
+WHAT TO ASK THE VOLUMES WHEN SOMEONE CAN OPEN THEM
+--------------------------------------------------
+In priority order, because 1910-11 answers the sharpest question:
+
+  1. 1910-11 and 1911/12 — IS W. J. HOLLIDAY BOYS' WORK DIRECTOR AGAIN? He holds that post in the
+     1907 and 1908 volumes, is listed as plain "Asst." in 1909 with M. G. BROOKS in the post
+     (f_4983), and opens the camp's new site in 1910, which the association's 1910 annual report
+     announces without giving him any boys' work title. The answer bears directly on a claim this
+     project has already had to withdraw once.
+  2. Every volume 1910-1920 — the Montreal Boys' Work Director year by year. The Boys' Department
+     ran the camp, so this is the closest thing to a list of the men over Kanawana through the war.
+  3. 1901-1905 — the years between W. H. Ball leaving the Physical Directorship (he holds it in
+     1900, J. E. Merritt has it by 1906) and Merritt's arrival. Ball's departure is currently
+     bounded only to 1901-1905.
+  4. M. G. BROOKS in any of them — he is new to this project entirely and held the Boys' Work
+     directorship in the year before the new site opened.
+
+QUERIES RUN: catalog.hathitrust.org/api/volumes/full/oclc/6996715.json;
+.../full/lccn/29015142.json; a control on .../brief/oclc/1481153.json; the five babel and catalog
+endpoints listed above; googleapis.com/books/v1/volumes with a control query. The OCLC and LCCN
+themselves came from the Internet Archive metadata of items already held
+(ymcayearbookand00assogoog and ymcayearbookoffi00youn both carry lccn 29015142).

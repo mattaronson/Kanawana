@@ -1,7 +1,7 @@
 # The Order of Owens
 
-*Status: draft | Sources: 9*
-*Last Updated: 2026-08-14*
+*Status: draft | Sources: 11*
+*Last Updated: 2026-09-06 (a second Owens, a Kanawana directorship in 1965, and a son called Norrey)*
 
 ## Overview
 
@@ -47,6 +47,29 @@ The same-named-son reading, which the earlier version of this section could not 
 here: a son would not appear on the roll of the association's past presidents. **This article now
 treats Norrey Owens and O. N. H. Owens as one man**, and his documented service runs **1929 to 1977 —
 forty-eight years**, longer than the thirty-five previously recorded.
+
+**And now we know what he did for a living, and what his first name was.** The Financial Post's
+*Directory of Directors* for 1947 carries his own index entry: "**OWENS, O. N. H.; man. dir. Central
+Investment Corp., 1240 Phillips Sq., Montreal**."^11 Phillips Square is where Birks' flagship store
+stands, and the company's own entry explains why: "Directors — **H. G. Birks, pres.; V. M. Birks,
+vice-pres.; O. N. H. Owens, man. dir.**; R. R. Johnson, **G. D. Birks**."^11 He ran a Birks family
+investment company and sat on its board with three Birkses — and **Gerald W. Birks was president of
+the YMCA of Montreal in 1922**.
+
+The *Art Index* supplies the rest of the name: "**OWENS, Owen N. H.** Incorporating a parking garage
+in the office building. *Arch Forum* 52:897-902."^11 *Architectural Forum* volume 52 is 1930, and the
+article is still cited — the Canadian Centre for Architecture's *Montreal Metropolis, 1880-1930*
+quotes it in both its English and French editions.
+
+The two entries are joined by initials, surname, city and subject: a Montreal investment-company
+managing director writing on how to put a parking garage inside an office building is a man writing
+about his own trade. **That is a strong reading and not a document**, and nothing found names both
+the Central Investment post and the *Architectural Forum* article in one place.
+
+*This does move the LAC question, though it does not close it.* "**Owen** N. H." supplies exactly the
+leading given name this article says no document in the corpus spells out, and it makes sense of the
+1929 YMCA listing as "N. H. Owens" — a man called Owen Owens dropping the first of them. The file
+remains a name match, now a fuller one.
 
 What is still *not* confirmed is the further step to the Library and Archives Canada file. The name
 link there remains suggestive but unproven. A Library and Archives Canada First World War personnel file exists for **"OWENS, OWEN NORREYS HARRINGTON"** — initials matching O.N.H. exactly, with "Norrey" a natural short form of *Norreys*, and the 1929 listing as "N. H. Owens" independently suggesting a man who dropped his leading given name.^5 Against it: the LAC record could not be opened, no document in the digitized corpus spells his given names out, and thirty-eight years separate the 1938 chairmanship from the 1976 presentation — the 1964 reference narrows that to twelve and makes the same-man reading comfortable, but a same-named son cannot be excluded. Recorded here as a strong lead, not an identification.
@@ -143,9 +166,34 @@ Notably, the camp's other great annual honour did **not** lapse for both years. 
 
 The award resumed in 2022 and has run annually since.
 
+## A second Owens, and a family name
+
+*Who's Who in Canada* carries an entry for **OWENS, Owen Ernest, Ph.D.**, Vice-President for
+Exploration at Cominco: born **Montreal, 30 March 1925**, educated at St. George's, Montreal and
+Westmount High School, three McGill degrees ending in a 1955 doctorate, and — under **Clubs**, in a
+list with two ski clubs — "**Kamp Kanawana (YMCA), Director, 1965**".^10 His only son is named
+**David Norrey**.
+
+*Norrey* is not a common given name. Its appearance as a middle name in a Montreal Owens family, one
+generation below a man who was a Kanawana director in 1965 and two below a Kanawana Committee
+chairman called Norrey, is real corroboration for reading **O. N. H.** as **Owen NORREYS
+Harrington** — which Open Question 1 above carries as an unproven lead from a Library and Archives
+Canada war file.
+
+**It is not proof, and no source here says the two men are related.** What this project has is a
+surname, a city, a camp and an uncommon family name recurring across generations. The test is cheap
+for anyone with genealogical access: **a Montreal birth record for Owen Ernest Owens, 30 March 1925,
+would name his father.** The shape of the succession — O. N. H. Owens chairing the committee from
+1929 into the 1960s, Owen Ernest Owens a director of the camp in 1965 — is suggestive and equally
+unproven.
+
+*(Note what "Director" means in that entry: it sits under Clubs, and [[people/directors-index|the
+directors index]] has A. Ross Seaman as Camp Director from 1959 to 1967. This is a governance seat,
+not the summer directorship.)*
+
 ## Open Questions
 
-1. [**RESOLVED IN PART 2026-08-25.**] Who was Norrey Owens? **He is O. N. H. Owens** — established by
+1. [**RESOLVED IN PART 2026-08-25; corroborated from a new direction 2026-09-06.**] Who was Norrey Owens? **He is O. N. H. Owens** — established by
    the Quebec Camping Association presidency, which both forms of the name hold (see above). What
    remains open is only his full given names and his dates: whether he is the "OWENS, OWEN NORREYS
    HARRINGTON" of the LAC First World War file is still unproven, and birth and death dates are
@@ -178,6 +226,8 @@ The award resumed in 2022 and has run annually since.
 7. *Canadian Camping Magazine* Vol. 28 No. 2, January 1976 — QCA membership roll [src_ia_canadian_camping_1976_01].
 8. *Canadian Camping Magazine* Vol. 29 No. 2, March 1977 — conference report naming QCA past presidents [src_ia_canadian_camping_1977_03].
 9. Editorial, "Competition in Camps: Values in Turmoil!" / "L'esprit de compétition dans les camps perturbe nos valeurs," and "Interview: June Labbett," *Canadian Camping* Vol. 34 No. 1 (Spring 1982), pp. 3-5 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 141). A national editorial addressed to all member camps, not a Kanawana document.
+10. *Who's Who in Canada* (Toronto: International Press), the entry for Owen Ernest Owens, Ph.D., Internet Archive scan leaf 1546, printed page 790 [src_whos_who_in_canada_owens]. **Not lending-restricted**: the complete djvu text was downloaded and searched 2026-09-06, and "Kanawana" occurs exactly once in the volume, in this entry. The Internet Archive dates the item 1911, which is the series start; the entry's own latest datum is February 1976. Cached with the entry in full, and with what it does and does not establish, at `sources/cache/biographical/whos-who-in-canada-owen-ernest-owens.txt`. See [f_4971].
+11. Financial Post, *Directory of Directors* (Toronto, 1947) [src_financial_post_directory_of_directors_1947], his own index entry and the company entry, reconstructed 2026-09-06 from five overlapping Open Library search-inside queries; and the *Art Index*, vol. 1 [src_art_index_vol_1], one author heading. Both books are lending-restricted and neither was read. Cached with the queries at `sources/cache/openlibrary-search-inside/2026-09-06-owens-day-job.txt`. See [f_5204].
 
 ## Research Notes
 

@@ -1,0 +1,57 @@
+SOURCE: "The Canadian Summer Job Directory", 2006 and 2008 editions.
+        Internet Archive items canadiansummerjo0000unse (2006) and canadiansummerjo0000unse_q4r4
+        (2008), both at scan leaf 246. Both lending-restricted; NEITHER can be read from here.
+        Assembled 2026-09-06 from ten overlapping Open Library search-inside windows.
+        RECONSTRUCTIONS, not transcriptions.
+
+The two entries are word for word identical except where marked. Nearly every query returned both
+books at once, which is itself the evidence that the copy was reprinted rather than resubmitted.
+
+  YMCA KAMP KANAWANA
+  1435 rue Drummond, 4e étage, Montreal, QC        [2006]
+  1435 Drummond, 4th Floor, Montréal, QC H3G 1W3   [2008]
+
+  Summer Camp and Programs
+  Description: YMCA Kamp Kanawana is located outside of St.-Sauveur-des-Monts, Quebec, about an
+  hour North of Montreal. The camp is nestled in the heart of the Laurentian Mountains on
+  500 acres   [2006]
+  550 acres   [2008]
+  of pristine wilderness with 3 private lakes. Kanawana offers programming for boys and girls
+  aged 5 to 16, including canoeing, nature, hiking, sailing, rockclimbing, kayaking, swimming,
+  ropes course activities, arts & crafts, drama[...]
+
+  There are many positions available at YMCA Kamp Kanawana, including junior counselor
+  (17 years), counselor (18 years and over), lifeguard, program specialist (such as canoeing
+  specialist, sailing specialist[...]), maintenance assistant/counselor, office assistant,
+  counselor-in-training director, out-trip director, assistant out-trip director, nature
+  leader/counselor, head lifeguard/counselor, and counsellors.
+
+  How to Apply: Online application package on their website [2006 window; the 2008 window breaks
+  at "How to Apply:"]
+
+THE ONE SUBSTANTIVE DIFFERENCE between the editions is the acreage: 500 in 2006, 550 in 2008, in
+otherwise identical copy. Since this is the camp's own return to a commercial publisher, the
+figure changed on the camp's own account between those two years.
+
+WHAT WAS NOT RECOVERED: the tail of the activities list after "drama"; the parenthetical list of
+program specialisms after "sailing specialist"; and the full How to Apply text.
+
+A CAUTION ON THE PAGE. Leaf 246 carries several employers' entries. Windows returned from this
+page also contained "summer director, assistant director, summer staff, cook, nurse", "equipment
+coordinator, site/vehicle coordinator, office assistant and cook", "adventure program director
+(ropes course manager)" and "assistant caretaker, assistant director, and head cook/food service
+director". NONE of those is attributed to Kanawana here, because a directory page packs many
+employers and adjacency in a twelve-word window is not attribution. Only the strings walked
+contiguously from the Kanawana heading are given above.
+
+QUERIES: "Kamp Kanawana" ; "YMCA Kamp Kanawana is located outside of St.-Sauveur-des-Monts" ;
+         "about an hour North of Montreal" Kanawana ;
+         "acres of pristine wilderness with 3 private lakes" ;
+         "offers programming for boys and girls aged 5 to 16, including canoeing" ;
+         "nature, hiking" Kanawana "aged 5 to 16" ;
+         "junior counselor (17 years), counselor" ; "(18 years and over), lifeguard" ;
+         "program specialist (such as canoeing" ;
+         "counselor-in-training director, out-trip director" ;
+         "assistant out-trip director, nature leader/counselor" ;
+         "nature leader/counselor, head lifeguard/counselor" ;
+         "sailing specialist" "office assistant" Kanawana

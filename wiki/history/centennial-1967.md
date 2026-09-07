@@ -1,7 +1,7 @@
 # The 1967 Centennial and Kanawana
 
-*Status: E1-reviewed | Sources: 24*
-*Last Updated: 2026-09-04*
+*Status: E1-reviewed | Sources: 25*
+*Last Updated: 2026-09-06 (p_349: Edgar's two later hymns noted)*
 
 ## Summary
 
@@ -47,11 +47,15 @@ Latimer's own prospectus for the relay, "Our Centenary Journey," appeared in *Ca
 
 ## Kanawana's Participation
 
-Six Kanawana boys and two counsellors paddled from Deep River, Ontario to Britannia Beach on the west side of Ottawa — a distance described as 150 miles — between August 2 and August 9, 1967.^1 This account does not originate with the thesis: McMorris cites it to a contemporaneous "Letter to Parents, 1 August 1967, from A. Ross Seaman, Camp Director," written by Kanawana's own director the day before the party set out and held at Concordia in P145/12B07.^20 Deep River, historically the oldest and most well-established site of voyageur ritual baptism on the fur trade route, was chosen as the starting point for the Quebec section.^1 Yves St. Pierre — described in the thesis as "one of the trip leaders," not merely the report's author — wrote the required historical essay documenting the route, covering the Ottawa River valley from its archaeological prehistory through Champlain's 1613 exploration and the fur trade era.^1 Phase 2 research identified an obituary lead: an Yves St-Pierre died on January 31, 2020, at age 76, in Montreal — consistent with a person who would have been approximately 23 in 1967 and thus of counsellor age.^17 Participants wore colourful plaid "lumberman" shirts and decorated their canoes with decals and crests.^1 [*Note: The navigable Ottawa River distance between these points is approximately 120 miles; the 150-mile figure may include tributary detours or portage distances.*]
+Six Kanawana boys and two counsellors — **or seven; see below** — paddled from Deep River, Ontario to Britannia Beach on the west side of Ottawa — a distance described as 150 miles — between August 2 and August 9, 1967.^1 This account does not originate with the thesis: McMorris cites it to a contemporaneous "Letter to Parents, 1 August 1967, from A. Ross Seaman, Camp Director," written by Kanawana's own director the day before the party set out and held at Concordia in P145/12B07.^20 Deep River, historically the oldest and most well-established site of voyageur ritual baptism on the fur trade route, was chosen as the starting point for the Quebec section.^1 Yves St. Pierre — described in the thesis as "one of the trip leaders," not merely the report's author — wrote the required historical essay documenting the route, covering the Ottawa River valley from its archaeological prehistory through Champlain's 1613 exploration and the fur trade era.^1 Phase 2 research identified an obituary lead: an Yves St-Pierre died on January 31, 2020, at age 76, in Montreal — consistent with a person who would have been approximately 23 in 1967 and thus of counsellor age.^17 Participants wore colourful plaid "lumberman" shirts and decorated their canoes with decals and crests.^1 [*Note: The navigable Ottawa River distance between these points is approximately 120 miles; the 150-mile figure may include tributary detours or portage distances.*]
 
 Derek Walsh represented "Kamp Kanawana, YMCA, Montreal, Quebec" in CCA Centenary Journey planning, as documented in the CCA fonds at Trent University Archives. It is unclear whether Walsh served as the second counsellor or was involved only in planning.^16
 
-Upon the paddlers' arrival at Britannia Beach, a busload of Kanawana campers greeted them, singing the Kanawana camp song.^1 The *Ottawa Journal* covered the arrival on August 10, 1967 (Figure 3.5 in the McMorris thesis shows the campers arriving).^1 ^15
+**Six boys, or seven.** This article says six, from McMorris's thesis. Two Montreal YMCA documents say seven, and they agree with each other. The news release of 28 July 1967: "**Seven 14-15 year old boys and two counsellors** from the Montreal YMCA's Kamp Kanawana plan to re-trace 150 miles of Canada's original east-west fur trade route in canoes."^25 The association's annual report for the year says the same. The two are not independent — the report may well be drawn from the release — and it is a one-boy difference that changes nothing else, so it is flagged here rather than resolved. McMorris may be working from a roster this project has not seen.
+
+**The logistics, from the release.** "The group will be **moved by truck** from Kanawana, in St. Sauveur, Que., to Deep River, Ont., **on August 2**. They will leave **next day, via water**, for Britannia Beach, Ottawa, which they expect to reach on August 9."^25 So 2 August was the drive and 3 August the launch. The release also states the framing plainly: "The trip is part of a **Centennial Project of the Canadian Camping Association**."
+
+Upon the paddlers' arrival at Britannia Beach, a busload of Kanawana campers greeted them, singing the Kanawana camp song. The release, written a fortnight ahead, describes a larger reception than the thesis does: "When the YMCA group arrives in Ottawa, it will be greeted by **200 fellow campers from Kanawana** who, after a **chuckwagon lunch**, will **tour the Parliament Buildings**."^25 Two hundred is a good deal more than a busload. It is also a plan rather than a report, and what actually happened at Britannia Beach comes from the thesis and the *Ottawa Journal*, not from here.^1 The *Ottawa Journal* covered the arrival on August 10, 1967 (Figure 3.5 in the McMorris thesis shows the campers arriving).^1 ^15
 
 A published account of the full journey, *A Log of Canada's Centenary Journey* (1971), likely contains participant rosters by section, but appears out of print and not digitized.^16
 
@@ -95,6 +99,13 @@ by a Toronto boys' choir at the March annual meeting.^22 Its first verse and cho
 >
 > *Chorus:* Proudly we proclaim it / Over land and sea, / Canada's our Country! / May we
 > worthier be.
+
+**She wrote two more.** "This Fair Land, Our Canada — A Centennial Hymn" appeared in the spring of
+1969, and in November 1970 "Hymn for the Space-Age", set to *Forest Green*, turned the same
+country-and-gratitude form into an explicit conservation hymn — "Keeping our skies and waters clean /
+Our forests freshly green." The Centennial hymn form outlived the Centennial by three years and became
+an environmental one; the 1970 text is set out at
+[[traditions/environmental-history|Environmental Education and Stewardship]].^22
 
 The middle of the campfire was left to each camp, with suggestions including a "Council Ring
 ceremony with challenges," pageants, tableaux and dramatized historical incidents. The
@@ -168,6 +179,7 @@ The McMorris thesis devotes its third chapter — "The National(ist) Vehicle" �
 22. "Across the Land" (the National Campfire ceremony, printed in full, including Mary S. Edgar's "Canada's Our Country"), and May Brown, "Annual Meeting 1967," *Canadian Camping* Vol. 19 No. 4, June 1967, pp. 122–123, 130–133, in the digitized 1949–1988 run [src_ia_canadian_camping_magazine]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 75); an earlier pass took the A. Ross Seaman profile from this same issue and left the ceremony untouched.
 23. "Interview: May Brown," Jay Haddad's interview at Vancouver, 25 November 1976, *Canadian Camping* Vol. 34 No. 2 (Summer 1982), pp. 4-5 [src_ia_canadian_camping_collection]. Found by the same read (issue 142). May Brown was CCA President 1965-67.
 24. Douglas G. McEwen, "Canadian Camping Association Comes of Age," *Canadian Camping*, Autumn 1967, reprinted in Vol. 37 No. 3 (Autumn 1985), pp. 11-12 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 156).
+25. Montreal YMCA news release, **28 July 1967** [src_ymf_news_release_1967_07_28_202412]. Cached at `sources/cache/ymca-montreal-fonds/news-release-1967-07-28_202412.txt`; read 2026-09-06 under p_451. See [f_5102].
 
 ## Research Notes
 

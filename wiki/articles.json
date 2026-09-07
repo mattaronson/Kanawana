@@ -103,7 +103,8 @@
         "f_1815",
         "f_1816",
         "f_1938",
-        "f_1939"
+        "f_1939",
+        "f_5255"
       ],
       "sources_cited": [
         "src_gazette_1897",
@@ -115,7 +116,15 @@
         "src_ia_ymca_annual_1891_92",
         "src_ia_ymca_montreal_annual_reports_collection",
         "src_rpcq_ymca_8364",
-        "src_vss_familles_pionnieres"
+        "src_vss_familles_pionnieres",
+        "src_ymca_yearbook_1891",
+        "src_ymca_yearbook_1906",
+        "src_ymca_yearbook_1907",
+        "src_ymca_yearbook_1908",
+        "src_ymf_sgw_ymca_annual_report_1892_1893",
+        "src_ymf_sgw_ymca_annual_report_1893_1894",
+        "src_ymf_news_release_1963_04_22",
+        "src_ia_sgw_ymca_annual_report_1874"
       ],
       "open_questions": 0,
       "cross_links": [
@@ -140,7 +149,7 @@
         "timeline-overview"
       ],
       "file_id": "1h-vki1U2tjYj8-zZ5gzuyW6kQXelcUnB",
-      "word_count": 5662,
+      "word_count": 6514,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- replaced the bold-field header convention with the standardized two-line header, moved the embedded c_005 editorial-resolution paragraph into the existing Revision History section (merged the separate 'Research Notes'/'Revision History' H2 sections into one, per the wiki-wide convention). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -212,7 +221,8 @@
         "f_1913"
       ],
       "sources_cited": [
-        "src_concordia_13D_joyce_oliver"
+        "src_concordia_13D_joyce_oliver",
+        "src_ymf_1920_biography_of_r_j_colville"
       ],
       "open_questions": 0,
       "cross_links": [
@@ -223,7 +233,7 @@
         "harold-cross"
       ],
       "file_id": "1iOHcDJeDgo5VFTfb46EQ6JrFYuZaZie5",
-      "word_count": 850,
+      "word_count": 1048,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, nested the standalone 'Revision History' heading under a new parent 'Research Notes' heading per the wiki-wide convention. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -294,6 +304,12 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 132 (Vol. 32 No. 4, June 1980): new section 'What a Canadian camp canoe trip looked like in 1980' -- Michael Hoyer's report of the Society of Camp Directors' survey of about sixty camps across eight provinces, with leader and camper ages and qualifications, staff-camper ratios, equipment rankings, hull types (two-thirds still canvas), trip sizes, and the finding that five years after the federal flotation regulation only about a third of camps required lifejackets to be worn. Also names trip logs and camper and staff trip evaluations as a further record class to seek. A national survey, not a Kanawana document. Source 16."
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
         }
       ],
       "ralph_loops_completed": 2,
@@ -327,21 +343,51 @@
         "f_1905",
         "f_1906",
         "f_1907",
-        "f_1908"
+        "f_1908",
+        "f_4061",
+        "f_4082",
+        "f_4091",
+        "f_4092",
+        "f_5135",
+        "f_5257"
       ],
       "sources_cited": [
         "src_concordia_fonds",
         "src_flickr_kanawana_plaque_album",
         "src_history_1935",
+        "src_ia_canadian_camping_collection",
         "src_ia_kanawana_directors_report_1976",
         "src_mcmorris_thesis",
+        "src_porter_sargent_guides_1983_1987",
         "src_radiocanada_sepaq_laverendrye_2022",
         "src_reserve_laverendrye_history",
         "src_wikipedia_lac_landron",
-        "src_ia_canadian_camping_collection"
+        "src_ia_the_lookout_1993",
+        "src_ymf_1959_report_of_older_boys_camps_summer",
+        "src_ymf_1967_les_voyageurs_de_la_verendrye_camp_directors_report",
+        "src_ymf_1960_les_voyageurs_de_la_verendrye_report",
+        "src_ymf_1963_les_voyageurs_de_la_verendrye_annual_report",
+        "src_ymf_1974_les_voyageurs_de_la_verendrye_report_on_summer",
+        "src_ymf_1979_les_voyageurs_de_la_verendrye_report",
+        "src_ymf_1970_les_voyageurs_de_la_verendrye_directors_report",
+        "src_ymf_1966_les_voyageurs_de_la_verendrye_report",
+        "src_ymf_1969_les_voyageurs_de_la_verendrye_report",
+        "src_ymf_1973_08_19_les_voyageurs_de_la_verendrye_final_report",
+        "src_ymf_sgw_ymca_annual_report_1946",
+        "src_ymf_sgw_ymca_annual_report_1948",
+        "src_ymf_sgw_ymca_annual_report_1949",
+        "src_ymf_sgw_ymca_annual_report_1961",
+        "src_ymf_sgw_ymca_annual_report_1963",
+        "src_ymf_sgw_ymca_annual_report_1964",
+        "src_cache_sgw_ymca_annual_report_1966_67",
+        "src_cache_sgw_ymca_annual_report_1967",
+        "src_ymf_p0145_news_release_1970_2",
+        "src_ymf_sgw_ymca_annual_report_1968",
+        "src_ia_sgw_ymca_annual_report_2001_2002_fr"
       ],
       "open_questions": 0,
       "cross_links": [
+        "a-ross-seaman",
         "camp-otoreke",
         "canadian-camping-movement",
         "centennial-1967",
@@ -349,11 +395,11 @@
         "lv-games",
         "programs-activities",
         "the-kanawana-site",
-        "a-ross-seaman",
+        "traditions/environmental-history",
         "traditions/order-of-owens"
       ],
       "file_id": "13MmwA1lO_3J3rJ7yEZjwsvT--vWooITy",
-      "word_count": 5891,
+      "word_count": 16292,
       "tags": {
         "era": [
           "1920s",
@@ -407,9 +453,15 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 125: new section on a third Canadian camp with the Wakonda invocation -- Blackstock had Fred Hagan carve 'May Wakonda whose messenger is the Thunderbird, smile upon His children and send down the sacred fire from Heaven' over the lodge fireplace at Camp Mazinaw, and had been waterfront director at Camp Ahmek in 1930-31, which is the Seton-Statten transmission route Eastaugh describes. Sources 13 -> 14."
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0031",
         "f_0038",
@@ -427,14 +479,19 @@
         "f_1563",
         "f_1925",
         "f_1926",
-        "f_1927"
+        "f_1927",
+        "f_4854",
+        "f_4855",
+        "f_4856",
+        "f_4857"
       ],
       "sources_cited": [
+        "src_ia_canadian_camping_collection",
         "src_ia_kanawana_place_to_grow_1988",
         "src_ia_kanawana_report_1987",
         "src_ia_ymca_montreal_annual_reports_collection",
         "src_ia_ymca_montreal_fonds_collection",
-        "src_ia_canadian_camping_collection"
+        "src_seton_book_of_woodcraft_1912"
       ],
       "open_questions": 0,
       "cross_links": [
@@ -446,7 +503,7 @@
         "lv-games"
       ],
       "file_id": "13YtmB0kQvK5oBY-Kz_88vIgztYAH5x2e",
-      "word_count": 4869,
+      "word_count": 5617,
       "notes": "v4.75: 2020 Opening Campfire confirmed (Facebook Live). Tamaracouta totem pole theft noted.",
       "tags": {
         "era": [
@@ -575,7 +632,7 @@
         "traditions-and-culture"
       ],
       "file_id": "1EmzjwZxmQKJhFrNsbFGn1HbdseFBM9E7",
-      "word_count": 7020,
+      "word_count": 7028,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed header (Status casing 'E1 Reviewed' -> 'E1-reviewed', Sources field was free-text descriptions instead of a count), moved the 'Correction, 2026-07-09' paragraph into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H3 (no parent heading) into Research Notes. No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-link to Camp Pine Crest (now a standalone article) in prose and Related Articles. | 2026-08-14: NEW Annual Trophy section from operator photographs -- the L&V perpetual trophy (winners shields 1947-2025) documented for the first time; no winners table published as the shields are not reliably legible in the current images. NOTE: this article is E1-reviewed and has received substantive new content; warrants a re-REVIEW pass. | 2026-08-14 (2nd pass): winners roll TRANSCRIBED from the trophy photos -- 74 of 79 seasons legible; 1949/1958/1961 obscured, 1952 team illegible, no 2021 shield found. Surfaced conflict c_021 (trophy 2020 shield vs Owens skipping both 2020-21 vs Day's documented two-season closure vs YMCA's '78th edition'). New lead: 'Kanawana Stampede 1976 Champions' plaque, undocumented anywhere. | 2026-08-14 (3rd pass): c_021 RESOLVED -- the 2020 Games were played remotely, 2021 not held. Corrected the body's standing inference that the skipped season was 'most likely 2020' to the now-documented 2021. | 2026-08-14 (4th pass): winners roll now 78 of 79 contested seasons -- 1949/1952/1958 supplied, 2026 (Lumbermen) added. Only 1961 unknown. Standings L41 V37. | 2026-08-14 (5th pass): added a Balance of the Series analysis (running lead 1947-2026, Lumbermen peak +7 in 1978, Voyageur recovery 1979-95). 1961 kept UNKNOWN -- operator recalls Voyageurs but the reasoning is abductive and cannot confirm the run it would create. | 2026-08-14 (6th pass): CORRECTED the balance section -- running totals had omitted the unknown 1961 rather than treating it as displacing all later totals, making the published 'Voyageurs led only in the first two seasons' claim false under either reading. Now given both ways. Added a levelling analysis: earliest possible tie 2029 (if 1961=V) or 2031 (if 1961=L).",
       "tags": {
         "era": [
@@ -669,7 +726,7 @@
         "timeline-overview"
       ],
       "file_id": "1FzPFWuQ3jBYZdPOSVC_xjANKsWr7RjSK",
-      "word_count": 1484,
+      "word_count": 1502,
       "tags": {
         "era": [
           "1910s",
@@ -759,7 +816,7 @@
         "a-ross-seaman"
       ],
       "file_id": "1vObPDCKcgzCi8HVCEMuBzQCMPd0jk2ua",
-      "word_count": 2333,
+      "word_count": 2340,
       "tags": {
         "era": [
           "1920s",
@@ -878,17 +935,37 @@
         "f_1818",
         "f_1851",
         "f_1852",
-        "f_1366"
+        "f_1366",
+        "f_5196"
       ],
       "sources_cited": [
         "src_concordia_12L",
+        "src_concordia_mirror_12c01",
+        "src_concordia_mirror_12d",
+        "src_concordia_mirror_12e",
+        "src_concordia_mirror_12i",
+        "src_concordia_mirror_12j",
+        "src_concordia_p0145_full_findingaid_pdf",
         "src_facebook_trans_inclusion",
+        "src_ia_canadian_camping_collection",
         "src_ia_kanawana_place_to_grow_1988",
         "src_ia_kanawana_report_1965",
         "src_ia_kanawana_report_1969",
-        "src_ia_kanawana_report_1970"
+        "src_ia_kanawana_report_1970",
+        "src_newspapers_gazette_1974",
+        "src_cache_sgw_ymca_annual_report_1936",
+        "src_ymf_sgw_ymca_annual_report_1944",
+        "src_ymf_sgw_ymca_annual_report_1945",
+        "src_ymf_sgw_ymca_annual_report_1946",
+        "src_ymf_sgw_ymca_annual_report_1947",
+        "src_ymf_sgw_ymca_annual_report_1948",
+        "src_ymf_sgw_ymca_annual_report_1949",
+        "src_cache_sgw_ymca_annual_report_1967",
+        "src_ymf_news_release_1969_05_13_202501",
+        "src_ymf_sgw_ymca_annual_report_1968",
+        "src_cyc_youth_and_jobs_1945"
       ],
-      "open_questions": 3,
+      "open_questions": 8,
       "cross_links": [
         "camp-otoreke",
         "canoe-trips",
@@ -901,7 +978,7 @@
         "timeline-overview"
       ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
-      "word_count": 5170,
+      "word_count": 7115,
       "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_001 editorial-resolution narrative into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H2 into Research Notes. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -1147,19 +1224,60 @@
         "f_1847",
         "f_1848",
         "f_1849",
-        "f_1850"
+        "f_1850",
+        "f_5167",
+        "f_5168",
+        "f_5179",
+        "f_5180",
+        "f_5194",
+        "f_5216",
+        "f_5217",
+        "f_5218",
+        "f_5248",
+        "f_5256"
       ],
       "sources_cited": [
+        "src_awesome_foundation_familles",
         "src_concordia_12B03",
         "src_concordia_atom_12B04",
         "src_concordia_atom_12B07",
         "src_concordia_p0145_12b01_finding_aid",
         "src_glassdoor_outdoor_ed_director",
+        "src_ia_canadian_camping_collection",
         "src_indeed_companion_job",
+        "src_kutz_if_by_miracle",
+        "src_lapresse_fitspirit_2011",
         "src_vss_journee_plein_air",
-        "src_wikipedia_woodcraft_league"
+        "src_wikipedia_woodcraft_league",
+        "src_petit_fute_montreal_2011_2012",
+        "src_ymf_1936_kamp_kanawana_broadcast_station_cfcf",
+        "src_ymf_sgw_ymca_annual_report_1928",
+        "src_ymf_sgw_ymca_annual_report_1927",
+        "src_cache_sgw_ymca_annual_report_1937",
+        "src_ymf_sgw_ymca_annual_report_1938",
+        "src_ymf_sgw_ymca_annual_report_1939",
+        "src_ymf_sgw_ymca_annual_report_1955",
+        "src_ymf_sgw_ymca_annual_report_1957",
+        "src_ymf_sgw_ymca_annual_report_1958",
+        "src_ymf_sgw_ymca_annual_report_1960",
+        "src_ymf_sgw_ymca_annual_report_1961",
+        "src_ymf_news_release_1969_05_13_202501",
+        "src_ymf_news_release_1969_04_24",
+        "src_cache_sgw_ymca_annual_report_1971_1972",
+        "src_cache_sgw_ymca_annual_report_1972_1973",
+        "src_ymf_1968_05_03_proposal_for_french_language_day_camp",
+        "src_ymf_1968_french_day_camp_report",
+        "src_ymf_1971_01_25_french_program_summer_71",
+        "src_cache_sgw_ymca_annual_report_1996",
+        "src_ymf_sgw_ymca_annual_report_1921_1922",
+        "src_ymf_sgw_ymca_annual_report_1932",
+        "src_ymf_sgw_ymca_annual_report_1933",
+        "src_ymf_sgw_ymca_annual_report_1997",
+        "src_cache_sgw_ymca_annual_report_1930",
+        "src_ia_ymca_montreal_news_bulletin_12_03",
+        "src_ia_sgw_ymca_annual_report_1959_short"
       ],
-      "open_questions": 4,
+      "open_questions": 7,
       "cross_links": [
         "lv-games",
         "canoe-trips",
@@ -1168,10 +1286,11 @@
         "council-ring",
         "founding-1894",
         "traditions-and-culture",
-        "quebec-camp-landscape"
+        "quebec-camp-landscape",
+        "french-language-camping"
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-      "word_count": 4000,
+      "word_count": 11265,
       "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, renamed the orphaned 'R3 Verification Notes' H2 to the standard 'Research Notes' heading and condensed its bullet list into a single HTML-comment process-log entry. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -1203,6 +1322,49 @@
         ],
         "is_hub": true
       }
+    },
+    {
+      "article_id": "french-language-camping",
+      "title": "French-Language Camping and Kanawana, 1967-1973",
+      "wiki_folder": "traditions",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06",
+          "by": "auto",
+          "task": "WRITE",
+          "note": "Spun out of programs-activities.md under p_452. NOT the stub p_452 called for: the material was already written into a fitting article, so spawning a stub from the five-fact threshold would have duplicated it. It spins out because the thread has its own arc across 1967-1973, four documents and several parts of the Montreal YMCA, and because the section holding it was 2,401 words naming three unrelated subjects."
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [
+        "f_5100",
+        "f_5103",
+        "f_5113",
+        "f_5114",
+        "f_5115"
+      ],
+      "sources_cited": [
+        "src_cache_sgw_ymca_annual_report_1971_1972",
+        "src_cache_sgw_ymca_annual_report_1972_1973",
+        "src_ymf_1968_05_03_proposal_for_french_language_day_camp",
+        "src_ymf_1968_french_day_camp_report",
+        "src_ymf_1971_01_25_french_program_summer_71",
+        "src_ymf_news_release_1969_04_24",
+        "src_ymf_news_release_1969_05_13_202501"
+      ],
+      "cross_links": [
+        "programs-activities",
+        "coeducation-gender",
+        "camp-otoreke",
+        "modern-era",
+        "geoff-anderson",
+        "french-language-camping-national"
+      ],
+      "file_id": null,
+      "word_count": 2330,
+      "open_questions": 5
     },
     {
       "article_id": "ralph-dawson",
@@ -1278,9 +1440,10 @@
       ],
       "sources_cited": [
         "src_concordia_13D_joyce_oliver",
-        "src_concordia_atom_12A"
+        "src_concordia_atom_12A",
+        "src_ia_ymca_montreal_annual_reports_collection"
       ],
-      "open_questions": 6,
+      "open_questions": 5,
       "cross_links": [
         "camp-jubilee",
         "directors-index",
@@ -1289,7 +1452,7 @@
         "myths-and-legends"
       ],
       "file_id": "1sAGFRKb22uggFeMgrSJLllgpSZoAGxa4",
-      "word_count": 1335,
+      "word_count": 1594,
       "notes": "v47 protocol test subject. Formal RALPH caught factual conflation. v4.24 RALPH loop (2026-03-15): 8-query web search saturation. No biographical details found online. New facts f_0927-f_0931. Resolution requires Concordia Archives physical/remote access. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -1380,6 +1543,19 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-07",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "The G. Guiton paragraph resolved to Geoffrey Guiton and spun out to people/geoffrey-guiton.md. The paragraph is kept because it is the evidence for his camp role -- the 1922 brochure and the North Branch brochure -- and the note added points at the new article for the church half and for why the two halves are not joined."
         }
       ],
       "ralph_loops_completed": 2,
@@ -1581,7 +1757,10 @@
         "f_1825",
         "f_1826",
         "f_1827",
-        "f_2359"
+        "f_2359",
+        "f_5171",
+        "f_5204",
+        "f_5245"
       ],
       "sources_cited": [
         "src_application_2006",
@@ -1608,9 +1787,73 @@
         "src_ia_ymca_news_release_1971_01",
         "src_reportage_vecu_2007",
         "src_ymcakanawana_2005_handbook",
-        "src_ia_canadian_camping_collection"
+        "src_ia_canadian_camping_collection",
+        "src_the_school_magazine_vol1_1912_13",
+        "src_mcgill_you_knew_1975",
+        "src_commercial_technical_high_school_prospectus_1908",
+        "src_exposition_bien_etre_enfants_1912",
+        "src_ymca_year_book_official_rosters_1921",
+        "src_ymca_yearbook_1893",
+        "src_ymca_yearbook_1894",
+        "src_ymca_yearbook_1895",
+        "src_ymca_yearbook_1896",
+        "src_ymca_yearbook_1897",
+        "src_ymca_yearbook_1906",
+        "src_ymca_yearbook_1907",
+        "src_ymca_yearbook_1908",
+        "src_ymca_yearbook_1922",
+        "src_the_school_magazine_vol2_1913_14",
+        "src_the_school_magazine_vol4_1915_16",
+        "src_the_school_magazine_vol5_1916_17",
+        "src_the_school_magazine_vols6_11_null_sweep",
+        "src_ymca_yearbook_1899",
+        "src_ymca_yearbook_1900",
+        "src_ymca_yearbook_1898",
+        "src_ymca_yearbook_1900_second_copy",
+        "src_ymca_yearbook_1909",
+        "src_ymca_yearbook_ia_inventory_2026",
+        "src_ymca_yearbook_hathitrust_holdings_2026",
+        "src_ymf_sgw_ymca_annual_report_1892_1893",
+        "src_ymf_sgw_ymca_annual_report_1893_1894",
+        "src_cache_sgw_ymca_annual_report_1894_1895",
+        "src_ymf_sgw_ymca_annual_report_1895_1896",
+        "src_ymf_1967_les_voyageurs_de_la_verendrye_camp_directors_report",
+        "src_ymf_1960_les_voyageurs_de_la_verendrye_report",
+        "src_ymf_1963_les_voyageurs_de_la_verendrye_annual_report",
+        "src_ymf_1966_les_voyageurs_de_la_verendrye_report",
+        "src_ymf_1969_les_voyageurs_de_la_verendrye_report",
+        "src_ymf_1970_les_voyageurs_de_la_verendrye_directors_report",
+        "src_ymf_1973_08_19_les_voyageurs_de_la_verendrye_final_report",
+        "src_ymf_1974_les_voyageurs_de_la_verendrye_report_on_summer",
+        "src_ymf_1979_les_voyageurs_de_la_verendrye_report",
+        "src_ia_the_lookout_1993",
+        "src_ymf_1928_come_to_kanawana_brochure",
+        "src_ymf_1929_come_to_kanawana_brochure",
+        "src_ymf_sgw_ymca_annual_report_1956",
+        "src_ymf_sgw_ymca_annual_report_1959",
+        "src_ymf_news_release_1964_09_25",
+        "src_ymf_news_release_1964_10_14",
+        "src_ymf_sgw_ymca_annual_report_1925",
+        "src_ymf_sgw_ymca_annual_report_1926",
+        "src_ymf_sgw_ymca_annual_report_1921_1922",
+        "src_ia_ymca_national_council_bulletin_36_04",
+        "src_umedia_ymca_yearbook_series",
+        "src_cache_sgw_ymca_annual_report_1910",
+        "src_ymf_sgw_ymca_annual_report_1913",
+        "src_ymf_sgw_ymca_annual_report_1914",
+        "src_ymf_sgw_ymca_annual_report_1904_men_of_montreal",
+        "src_ymf_sgw_ymca_annual_report_1905",
+        "src_ymf_sgw_ymca_annual_report_1917",
+        "src_ymf_sgw_ymca_annual_report_1918",
+        "src_ymf_sgw_ymca_annual_report_1942",
+        "src_ymf_sgw_ymca_annual_report_1946",
+        "src_ymf_sgw_ymca_annual_report_1948",
+        "src_brochure_1922",
+        "src_ymf_1922_1923_ymca_north_branch_brochure",
+        "src_delta_tau_delta_catalogue_1917",
+        "src_educational_activities_for_boys_1907"
       ],
-      "open_questions": 14,
+      "open_questions": 7,
       "cross_links": [
         "a-ross-seaman",
         "arleen-boyer",
@@ -1634,6 +1877,8 @@
         "morgan-carter",
         "nelson-mcewen",
         "nicolas-garcia",
+        "people/jared-macsween",
+        "people/tony-shorgan",
         "pip-alumni-award",
         "ralph-dawson",
         "rh-hanagan",
@@ -1642,10 +1887,14 @@
         "stuart-mclean",
         "timeline-overview",
         "traditions-and-culture",
-        "wartime-kanawana"
+        "wartime-kanawana",
+        "maureen-mcbride",
+        "hay-finlay",
+        "cca-director-certification",
+        "geoffrey-guiton"
       ],
       "file_id": null,
-      "word_count": 15685,
+      "word_count": 31340,
       "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article. | 2026-07-11: Added wiki-links to Gary White, David Leduc, Kate Taylor, Marie-Pierre Lacasse table rows and Related Articles, pointing to new standalone institutional-role-director articles. | 2026-07-11: Added wiki-links to Greig Macdiarmid, Francois Dauphin, Nicolas Garcia, Morgan Carter, Arleen Boyer, Justin Caldwell (Two-Tier Era + Staff by Era tables) and Matt/Dan Aronson (Related Articles), per the operator's revised C5 policy.",
       "tags": {
         "era": [
@@ -1680,6 +1929,41 @@
         ],
         "is_hub": true
       }
+    },
+    {
+      "article_id": "hay-finlay",
+      "title": "Hay Finlay",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06",
+          "by": "auto",
+          "task": "WRITE",
+          "note": "Third spinout under p_452, and the one the operator's own example describes: a person named in the historical overview whose career belongs in its own article. Assembled from the Finlay block of canadian-camping-movement.md and the career paragraphs of directors-index.md, which were two drifted copies of the same argument. Entered as draft: two new facts were established while writing it, from a cached document neither parent had read closely."
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [],
+      "sources_cited": [
+        "src_ia_canadian_camping_collection",
+        "src_mcgill_you_knew_1975",
+        "src_brochure_1921",
+        "src_brochure_1922",
+        "src_brochure_1923",
+        "src_ymca_year_book_official_rosters_1921",
+        "src_ymca_yearbook_1922"
+      ],
+      "cross_links": [
+        "directors-index",
+        "canadian-camping-movement",
+        "quebec-camping-association",
+        "quebec-camp-landscape"
+      ],
+      "file_id": null,
+      "word_count": 1393,
+      "open_questions": 4
     },
     {
       "article_id": "sources-index",
@@ -1818,13 +2102,16 @@
         "f_1983"
       ],
       "sources_cited": [
-        "src_concordia_finding_aid_master_pdf",
-        "src_concordia_12N_camping_associations",
-        "src_trent_qca_fonds",
+        "src_ballantyne_1944",
         "src_banq_numerique_general",
-        "src_ballantyne_1944"
+        "src_concordia_12N_camping_associations",
+        "src_concordia_finding_aid_master_pdf",
+        "src_kk_prep_guide_2025",
+        "src_kk_prep_guide_2026",
+        "src_three_books_naming_kanawana_2026",
+        "src_trent_qca_fonds"
       ],
-      "open_questions": 7,
+      "open_questions": 2,
       "cross_links": [
         "founding-1894",
         "centennial-1967",
@@ -1836,7 +2123,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 4450,
+      "word_count": 5454,
       "notes": "E1 REVIEW (2026-02-19): Fixed source counts (85 total, 74 extracted, 11 IA documents). Restructured with newspaper sources, Pip Award pages, biographical sources. 2026-06-21: Added 1966-67 annual report (f_1335), expanded 12B01/14D holdings detail (f_1337), expanded Kautz YMCA Archives entry (f_1339). Updated statistics to 138 sources, 1355 facts, KB v4.74. 2026-07-09: Resolved/clarified 3 of 7 open questions (McMorris thesis now read in full; Trent OCA/CCA fonds largely resolved via Derek Walsh; BAnQ Advitam notice clarified as a separate deposit from the Concordia fonds). Refreshed Source/KB Statistics tables to current totals (580 sources, 1790 facts, KB v5.02) -- the detailed primary/secondary/tertiary category breakdown remains a March-2026 tally, flagged stale, not recomputed this pass. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header, replaced with the standardized header (Sources field uses the project's current total-sources count, since this meta article is itself a sources catalog rather than a cited-source article). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -1909,9 +2196,15 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-06T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0038",
         "f_0039",
@@ -1929,8 +2222,21 @@
         "f_0603",
         "f_1519"
       ],
-      "sources_cited": [],
-      "open_questions": 6,
+      "sources_cited": [
+        "src_icre_yearbook_1936",
+        "src_ymca_year_book_official_rosters_1921",
+        "src_icre_yearbook_1933",
+        "src_icre_yearbook_1942",
+        "src_icre_yearbook_1943",
+        "src_icre_yearbook_1945",
+        "src_icre_yearbook_undated",
+        "src_georgian_spirit_1967",
+        "src_american_rose_annual_1970",
+        "src_ymf_1928_come_to_kanawana_brochure",
+        "src_umedia_ymca_yearbook_series",
+        "src_ymf_sgw_ymca_annual_report_1914"
+      ],
+      "open_questions": 5,
       "cross_links": [
         "centennial-1967",
         "council-ring",
@@ -1940,8 +2246,8 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 1216,
-      "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
+      "word_count": 4491,
+      "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged. | 2026-09-06: two lending-restricted items read through Open Library search-inside -- Henry F. Hall's The Georgian Spirit (1966 preface) names Cross 'historian of the Montreal YMCA'; the American Rose Annual 1970 lead is recorded and deliberately NOT identified.",
       "tags": {
         "era": [
           "1920s",
@@ -2081,9 +2387,10 @@
         "src_concordia_p0145_12a_finding_aid",
         "src_ia_canadian_camping_magazine",
         "src_mesaieux_st_pierre",
-        "src_seaman_letter_parents_1967"
+        "src_seaman_letter_parents_1967",
+        "src_ymf_news_release_1967_07_28_202412"
       ],
-      "open_questions": 6,
+      "open_questions": 5,
       "cross_links": [
         "camp-otoreke",
         "canadian-camping-movement",
@@ -2096,7 +2403,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 3654,
+      "word_count": 4030,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header, replaced with the standardized two-line header. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -2312,6 +2619,37 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 137 (Vol. 33 No. 3, May 1981): new section on Robert E. Wilkinson's 'Camps, Their Planning and Management' (C.V. Mosby, 1981) -- the first comprehensive Canadian camp administration text, by a McGill physical education professor who was a CCA member through the Association des Camps du Quebec and associated with Camp Nominingue, containing specimens of every kind of camp business form and the CCA's national code of ethics. Also added the association's May 1981 memo that 'accredited by C.C.A.' is incorrect wording some camps were still using, with the consequence that any such Kanawana material should not be read as evidence of a second accreditation. Sub-source 8ao; feeds p_323."
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-07",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Pearson's middle years and his second war added from the Year Book's alphabetical list and war-service roll, independently corroborating Montreal's own 1942 report; plus the Toronto Central overlap with Ronald Hanagan."
         }
       ],
       "ralph_loops_completed": 1,
@@ -2371,23 +2709,67 @@
         "f_1360",
         "f_1883",
         "f_1884",
-        "f_1889"
+        "f_1889",
+        "f_2567",
+        "f_2686",
+        "f_2745",
+        "f_2815",
+        "f_3060",
+        "f_3108",
+        "f_3247",
+        "f_3286",
+        "f_3352",
+        "f_3395",
+        "f_3801",
+        "f_4280",
+        "f_4838",
+        "f_4843",
+        "f_4845",
+        "f_4846",
+        "f_4847",
+        "f_4848",
+        "f_4850",
+        "f_4851",
+        "f_4859",
+        "f_4863",
+        "f_4864",
+        "f_4865",
+        "f_5344"
       ],
       "sources_cited": [
+        "src_acq_about_page",
+        "src_cache_canadiancampingmagazine_vol17no3_1965april",
         "src_concordia_atom_12B05",
+        "src_ia_canadian_camping_collection",
         "src_trent_oca_fonds_72_007",
-        "src_ia_canadian_camping_collection"
+        "src_ball_basic_camp_management_2012",
+        "src_mcgill_you_knew_1975",
+        "src_ymf_1920_biography_of_r_j_colville",
+        "src_ymf_1928_come_to_kanawana_brochure",
+        "src_umedia_ymca_yearbook_series",
+        "src_ymf_sgw_ymca_annual_report_1942",
+        "src_ymf_sgw_ymca_annual_report_1947",
+        "src_cache_canadiancampingmagazine_vol20_no2_1968winter"
       ],
-      "open_questions": 6,
+      "open_questions": 5,
       "cross_links": [
         "canoe-trips",
         "centennial-1967",
         "cushing-family",
         "founding-1894",
-        "sources-index"
+        "people/tony-shorgan",
+        "sources-index",
+        "association-founding-dates",
+        "quebec-camping-association",
+        "hay-finlay",
+        "cca-national-office",
+        "cca-statistics",
+        "cca-director-certification",
+        "french-language-camping-national",
+        "movement-archive-turn"
       ],
       "file_id": null,
-      "word_count": 31733,
+      "word_count": 19426,
       "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -2418,6 +2800,74 @@
         ],
         "is_hub": false
       }
+    },
+    {
+      "article_id": "cca-national-office",
+      "title": "The National Office and the Federal Money, 1969-1988",
+      "wiki_folder": "connections/institutional-lineage",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06",
+          "by": "auto",
+          "task": "WRITE",
+          "note": "Seventh cut under p_452. The funding arc was scattered through a 5,566-word chronological section named 'The money stops' that mostly was not about the money stopping. Pulled into one arc: the Ottawa office of 1969, its abandonment inside two years, the 1971 Toronto arrangement and the end of the travelling executive, Fitness Canada's withdrawal in November 1984, the 1986 appeal and Patrons' Fund, survival as a delivery agent, and 'Will we survive?'. Entered as draft: the material was E1-reviewed inside the parent but the arc, its overview and its open questions are new."
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [],
+      "sources_cited": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "cross_links": [
+        "canadian-camping-movement",
+        "quebec-camping-association",
+        "association-founding-dates",
+        "sources-index",
+        "a-ross-seaman",
+        "cca-statistics",
+        "cca-director-certification",
+        "french-language-camping-national",
+        "movement-archive-turn"
+      ],
+      "file_id": null,
+      "word_count": 3662,
+      "open_questions": 4
+    },
+    {
+      "article_id": "cca-statistics",
+      "title": "The Association's Own Statistics, and the One Camp in Ten",
+      "wiki_folder": "connections/institutional-lineage",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06",
+          "by": "auto",
+          "task": "WRITE",
+          "note": "Eighth cut under p_452. The statistics thread was the last coherent subject buried in the 6,840-word 'A textbook says Kanawana was first' subsection. It is the denominator article: every national figure this wiki quotes counts member camps only, and member camps were about a tenth of the field, so attendance-series and anything else comparing Kanawana to 'Canadian camps' needs it."
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [
+        "f_5252"
+      ],
+      "sources_cited": [
+        "src_ia_canadian_camping_collection",
+        "src_ia_ymca_national_council_bulletin_39_03",
+        "src_ia_ymca_national_council_bulletin_38_04"
+      ],
+      "cross_links": [
+        "canadian-camping-movement",
+        "quebec-camping-association",
+        "cca-national-office",
+        "attendance-series",
+        "quebec-camp-landscape"
+      ],
+      "file_id": null,
+      "word_count": 3043,
+      "open_questions": 4
     },
     {
       "article_id": "billy-ball",
@@ -2487,9 +2937,18 @@
         "src_ia_ymca_annual_1890_91",
         "src_ia_ymca_annual_1902",
         "src_ia_ymca_montreal_annual_reports_collection",
-        "src_lovells_montreal_directory_1893_94"
+        "src_lovells_montreal_directory_1893_94",
+        "src_ymca_yearbook_1893",
+        "src_ymca_yearbook_1894",
+        "src_ymca_yearbook_1895",
+        "src_ymca_yearbook_1896",
+        "src_ymca_yearbook_1897",
+        "src_ymca_yearbook_1891",
+        "src_ymca_yearbook_1892",
+        "src_ymca_yearbook_1899",
+        "src_ymca_yearbook_1900"
       ],
-      "open_questions": 8,
+      "open_questions": 4,
       "cross_links": [
         "camp-otoreke",
         "cushing-family",
@@ -2498,7 +2957,7 @@
         "founding-1894"
       ],
       "file_id": null,
-      "word_count": 2099,
+      "word_count": 3595,
       "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header (article had no standardized header at all), softened a dated bold-label marker in prose. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -2575,6 +3034,12 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 4,
@@ -2598,6 +3063,11 @@
         "f_0483",
         "f_0484",
         "f_0485",
+        "f_1160",
+        "f_1161",
+        "f_1162",
+        "f_1163",
+        "f_1164",
         "f_1171",
         "f_1172",
         "f_1173",
@@ -2605,11 +3075,6 @@
         "f_1175",
         "f_1176",
         "f_1177",
-        "f_1160",
-        "f_1161",
-        "f_1162",
-        "f_1163",
-        "f_1164",
         "f_1511",
         "f_1512",
         "f_1513",
@@ -2624,13 +3089,26 @@
         "f_1779",
         "f_1909",
         "f_1910",
-        "f_1911"
+        "f_1911",
+        "f_4837"
       ],
       "sources_cited": [
         "src_familysearch_cushing_supp",
-        "src_mcmorris_thesis"
+        "src_mcmorris_thesis",
+        "src_ymca_yearbook_1893",
+        "src_ymca_yearbook_1894",
+        "src_ymca_yearbook_1895",
+        "src_ymca_yearbook_1897",
+        "src_ymca_yearbook_ia_inventory_2026",
+        "src_ymca_yearbook_1896",
+        "src_ymf_sgw_ymca_annual_report_1990_1991",
+        "src_cache_sgw_ymca_annual_report_1991_1992",
+        "src_ymf_sgw_ymca_annual_report_1892_1893",
+        "src_ymf_sgw_ymca_annual_report_1893_1894",
+        "src_cache_sgw_ymca_annual_report_1894_1895",
+        "src_ymf_sgw_ymca_annual_report_1895_1896"
       ],
-      "open_questions": 6,
+      "open_questions": 4,
       "cross_links": [
         "billy-ball",
         "camp-otoreke",
@@ -2640,7 +3118,7 @@
         "founding-1894"
       ],
       "file_id": null,
-      "word_count": 2613,
+      "word_count": 4869,
       "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header, moved the c_019 contradiction/editorial-resolution narrative into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -2840,7 +3318,9 @@
         "f_1999",
         "f_2004",
         "f_2005",
-        "f_2006"
+        "f_2006",
+        "f_4925",
+        "f_4926"
       ],
       "sources_cited": [
         "src_camper_oath_2010_2013",
@@ -2852,9 +3332,15 @@
         "src_ia_ymca_montreal_fonds_collection",
         "src_ka_news_1980",
         "src_oral_aronson",
-        "src_photo_knights_charter_challenges"
+        "src_photo_knights_charter_challenges",
+        "src_ymf_the_gas_bag_extra_vol_13_no_1",
+        "src_ia_ymca_montreal_annual_reports_collection",
+        "src_elvin_box_from_braunau_2009",
+        "src_ymf_sgw_ymca_annual_report_2004_2005",
+        "src_ymf_sgw_ymca_annual_report_2002_2003",
+        "src_ymf_sgw_ymca_annual_report_2001_2002"
       ],
-      "open_questions": 7,
+      "open_questions": 5,
       "cross_links": [
         "camp-songs-cheers",
         "centennial-1967",
@@ -2871,7 +3357,7 @@
         "traditions/knights-of-kanawana"
       ],
       "file_id": null,
-      "word_count": 5320,
+      "word_count": 6503,
       "notes": "E1 REVIEW (2026-02-19): Fixed non-existent src_concordia_12B04 in header (removed; src_concordia_atom_12B04 already present). Fixed '131-year history' ambiguity to 'more than 130 years'. All claims cited, dates consistent, names cross-checked, tone encyclopedic. | 2026-08-14: cross-linked to the new traditions/order-of-owens.md. | 2026-08-14: NEW prose section on the Order of the Knights of Kanawana, giving the proclamation text and the six challenges for knighthood (previously the KB held the oath and the 1980-2009 roll but not the criteria). NOTE: this article is E1-reviewed and has received substantive new content; warrants a re-REVIEW pass. | 2026-08-14 (2nd pass): charter mined further -- A/B/C skill-grading system across named activities (f_2004), 'Kamp' spelling in challenge 5 corroborating the pre-2005 usage (f_2005), and the birchbark medium/composition (f_2006).",
       "tags": {
         "era": [
@@ -3039,23 +3525,47 @@
         "f_2252",
         "f_2253",
         "f_2254",
-        "f_2255"
+        "f_2255",
+        "f_5178",
+        "f_5181",
+        "f_5193"
       ],
       "sources_cited": [
         "src_batshaw_camp_weredale",
+        "src_canadian_almanac_1917_1918",
+        "src_canadian_summer_job_directory_2006_2008",
         "src_concordia_atom_12B01",
         "src_concordia_atom_12F",
+        "src_flickr_kanawana_plaque_album",
+        "src_guide_officiel_postal_1917",
+        "src_ia_canadian_camping_collection",
         "src_ia_kanawana_place_to_grow_1988",
         "src_ia_kanawana_report_1964",
         "src_ia_kanawana_report_1970",
         "src_oral_aronson",
+        "src_oral_aronson_julien_tasse_caretaker",
+        "src_oral_aronson_sanctum_suez_raku",
+        "src_po_dept_annual_report_1915",
+        "src_rand_mcnally_quebec_1911",
+        "src_sessional_papers_1919",
+        "src_summer_camps_and_programs_1983",
+        "src_upu_dictionnaire_bureaux_poste_1909_1912",
         "src_vss_plan_urbanisme_2024",
         "src_vss_reglement_zonage_222_2008",
         "src_wikimapia_kanawana",
-        "src_oral_aronson_julien_tasse_caretaker",
-        "src_ia_canadian_camping_collection"
+        "src_mcgraw_hill_directory_almanac_canada_1960s",
+        "src_ymf_sgw_ymca_annual_report_1952",
+        "src_ymf_sgw_ymca_annual_report_1953",
+        "src_ymf_sgw_ymca_annual_report_1957",
+        "src_ymf_sgw_ymca_annual_report_1958",
+        "src_ymf_sgw_ymca_annual_report_1963",
+        "src_ymf_sgw_ymca_annual_report_2006",
+        "src_ymf_sgw_ymca_annual_report_1919_montreal_men",
+        "src_ymf_sgw_ymca_annual_report_1933",
+        "src_ymf_sgw_ymca_annual_report_1913",
+        "src_ymf_ka_news_1977_12_01"
       ],
-      "open_questions": 6,
+      "open_questions": 3,
       "cross_links": [
         "founding-1894",
         "council-ring",
@@ -3068,7 +3578,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 4305,
+      "word_count": 7670,
       "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral. 2026-06-20: Added Indigenous territory context (f_1315) and Mille-Isles regional history (f_1314). 2026-06-21: Added 1976 Lovell's directory listing (f_1331) and 2023 superintendent's house fire (f_1333). | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph about the Weredale lease into a new Research Notes > Revision History section (this article previously had no Research Notes section at all). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -3186,12 +3696,90 @@
         "f_1835",
         "f_1836",
         "f_1837",
-        "f_1838"
+        "f_1838",
+        "f_4892",
+        "f_4903",
+        "f_4908",
+        "f_4909",
+        "f_4910",
+        "f_4911",
+        "f_4912",
+        "f_4913",
+        "f_4914",
+        "f_4915",
+        "f_4916",
+        "f_4917",
+        "f_4918",
+        "f_4919",
+        "f_4920",
+        "f_4921",
+        "f_5169",
+        "f_5170",
+        "f_5172",
+        "f_5185",
+        "f_5186",
+        "f_5187",
+        "f_5188",
+        "f_5189",
+        "f_5190",
+        "f_5191",
+        "f_5192",
+        "f_5199",
+        "f_5200",
+        "f_5246"
       ],
       "sources_cited": [
-        "src_otoreke_blog_2005"
+        "src_concordia_mirror_12c01",
+        "src_concordia_mirror_12c02",
+        "src_concordia_mirror_12c03",
+        "src_concordia_mirror_12c04",
+        "src_concordia_mirror_12c05",
+        "src_concordia_mirror_12c07",
+        "src_concordia_mirror_12h",
+        "src_donneesquebec_bnlq_2026",
+        "src_ia_seventh_annual_report_current_camp_1900",
+        "src_ia_ymca_montreal_annual_reports_collection",
+        "src_larue_belec_quebec_plein_air_2016",
+        "src_otoreke_blog_2005",
+        "src_ymf_1900_11_30_report_of_the_junior_camp_committee",
+        "src_ymf_sgw_ymca_annual_report_1990_1991",
+        "src_ymf_1941_camp_otoreke_songs",
+        "src_ymf_1928_come_to_kanawana_brochure",
+        "src_ymf_1961_the_otoreke_ymca_ski_lodge_a_review",
+        "src_ymf_sgw_ymca_annual_report_1929",
+        "src_cache_sgw_ymca_annual_report_1934",
+        "src_cache_sgw_ymca_annual_report_1936",
+        "src_ymf_sgw_ymca_annual_report_1948",
+        "src_cache_sgw_ymca_annual_report_1967",
+        "src_ymf_news_release_1969_11_28",
+        "src_ymf_sgw_ymca_annual_report_1970_1971",
+        "src_cache_sgw_ymca_annual_report_1972_1973",
+        "src_ymf_sgw_ymca_annual_report_1956",
+        "src_ymf_sgw_ymca_annual_report_1949",
+        "src_ymf_sgw_ymca_annual_report_1950",
+        "src_ymf_sgw_ymca_annual_report_1924",
+        "src_flaneries_laurentiennes",
+        "src_ymf_sgw_ymca_annual_report_1921_1922",
+        "src_ymf_sgw_ymca_annual_report_1922_1923",
+        "src_ymf_sgw_ymca_annual_report_1965",
+        "src_ymf_sgw_ymca_annual_report_1976_1977",
+        "src_ymf_sgw_ymca_annual_report_1933",
+        "src_ymf_sgw_ymca_annual_report_1938",
+        "src_ymf_sgw_ymca_annual_report_1940",
+        "src_ymf_sgw_ymca_annual_report_1944",
+        "src_ymf_sgw_ymca_annual_report_1947",
+        "src_ymf_sgw_ymca_annual_report_1931",
+        "src_ymf_sgw_ymca_annual_report_1941",
+        "src_ymf_sgw_ymca_annual_report_1942",
+        "src_ymf_sgw_ymca_annual_report_1969",
+        "src_ucc_evangelism_social_service_1967",
+        "src_mcgraw_hill_directory_almanac_canada_1960s",
+        "src_canadian_almanac_1917_1918",
+        "src_ia_ymca_national_council_bulletin_40_02",
+        "src_ia_ymca_national_council_bulletin_40_03",
+        "src_umedia_ymca_yearbook_series"
       ],
-      "open_questions": 7,
+      "open_questions": 8,
       "cross_links": [
         "billy-ball",
         "canoe-trips",
@@ -3202,7 +3790,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 2284,
+      "word_count": 13855,
       "notes": "E1 REVIEW (2026-02-19): Removed unverifiable 'Google Maps' source and '20 km' distance claim. Expanded 'Multiple sources' citation into discrete references (Facts sheet + McMorris). Removed src_oral_aronson (no inline citation). Removed unsourced bullet. Fixed postcard inference. Fixed closure section process language. Split 1967 conference/reports sentence. Renumbered sources 1-10. Added camp-otoreke cross-link to centennial-1967. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_008 editorial-resolution narrative into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -3340,8 +3928,11 @@
         "f_1897",
         "f_1898"
       ],
-      "sources_cited": [],
-      "open_questions": 5,
+      "sources_cited": [
+        "src_mclean_vinyl_cafe_notebooks_2010",
+        "src_dlb_362_canadian_literary_humorists_2011"
+      ],
+      "open_questions": 4,
       "cross_links": [
         "coeducation-gender",
         "directors-index",
@@ -3351,7 +3942,7 @@
         "sean-day"
       ],
       "file_id": null,
-      "word_count": 1970,
+      "word_count": 2793,
       "notes": "E1 REVIEW (2026-02-19): Fixed header source IDs. All 7 checklist items PASS. RALPH R1: 26 new facts, 10 new sources. Pip Award year resolved (2009). Full biography: 1400 words, 13 sources, 9 sections. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header again (had drifted back to raw IDs since the 2026-02-19 fix). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -3419,6 +4010,12 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
         }
       ],
       "ralph_loops_completed": 1,
@@ -3501,9 +4098,10 @@
         "src_oral_aronson",
         "src_ymca_quebec_pip_macsween_2026"
       ],
-      "open_questions": 6,
+      "open_questions": 4,
       "cross_links": [
         "directors-index",
+        "people/jared-macsween",
         "sources-index",
         "stuart-mclean",
         "traditions-and-culture",
@@ -3618,9 +4216,11 @@
       "sources_cited": [
         "src_concordia_12L",
         "src_concordia_wilson_mcconnell_collection",
+        "src_fong_mcconnell_2008",
+        "src_ia_kanawana_history_1951",
         "src_toponymie_lac_wilson_additional"
       ],
-      "open_questions": 6,
+      "open_questions": 3,
       "cross_links": [
         "the-kanawana-site",
         "lake-wilson",
@@ -3628,7 +4228,7 @@
         "cushing-family"
       ],
       "file_id": null,
-      "word_count": 1844,
+      "word_count": 2556,
       "notes": "RALPH R1 (2026-02-26): Lake Wilson naming claim CANNOT BE VERIFIED — plausible but no documentary evidence. McConnell family tree confirmed. YMCA connection 1901-1963 documented. 10 new KB facts (f_0516-f_0525). 1 new source (Fong biography). Research SATURATED for online sources. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header (was listing raw source IDs). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -3714,11 +4314,12 @@
       ],
       "sources_cited": [
         "src_concordia_12L",
+        "src_fong_mcconnell_2008",
+        "src_ia_kanawana_history_1951",
         "src_mcmorris_thesis",
-        "src_toponymie_lac_wilson_additional",
-        "src_ia_kanawana_history_1951"
+        "src_toponymie_lac_wilson_additional"
       ],
-      "open_questions": 6,
+      "open_questions": 4,
       "cross_links": [
         "the-kanawana-site",
         "j-w-mcconnell",
@@ -3726,7 +4327,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 1430,
+      "word_count": 1892,
       "notes": "RALPH R1 (2026-02-26): Two parallel research agents. First reference 1923 (Gas Bag). Dam ceremony since 1935. Two separate Lac Wilsons in region (camp vs Saint-Adolphe-d'Howard). Naming origin UNKNOWN. Added Lac Desjardins oral history (f_1206) 2026-06-20. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, removed a minor dated-label sediment marker from prose. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -3911,7 +4512,7 @@
         "src_wikipedia_big_cove",
         "src_ymca_website"
       ],
-      "open_questions": 10,
+      "open_questions": 5,
       "cross_links": [
         "canadian-camping-movement",
         "council-ring",
@@ -3923,7 +4524,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 8398,
+      "word_count": 8509,
       "notes": "R1-R2 RALPH completed 2026-02-27. Four myths documented (oldest camp, name meaning, Indian heritage, founding narrative). Legends: haunted house (1935), Cropsey archetype, Anson Minor (Canadian parallel), Chopsy (Kanawana-local). Quebec folklore context. Fireside Canada podcast as source. 17 KB facts cited. 19 sources. Chopsy needs oral history. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical, moved the embedded 'Update (2026-07-10)' and 'Correction (2026-07-10)' paragraphs into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Fixed link-text bug (\"R.L. Charlton\" text was linked to people/ralph-dawson); now correctly points to the new people/rl-charlton.md. | 2026-07-11: p_214 VERIFY -- searched Furness Withy/Bermuda Line fleet records for a ship named Kanawana (5 surfaces, zero matches); updated Myth 2 prose and Sources with the null result.",
       "tags": {
         "era": [
@@ -4023,6 +4624,12 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 134 (Vol. 32 No. 6, December 1980): added Camp Howdy's Camper Care Package as a second, paper-producing route by which a camp's repertoire left the site -- song words, graces and announcements packed into every camper's luggage on the last day -- with the archival point that a camp song sheet can therefore survive in a family's papers when nothing survives in the camp's. Source 22 extended."
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
         }
       ],
       "ralph_loops_completed": 2,
@@ -4064,7 +4671,10 @@
         "f_1817",
         "f_1932",
         "f_1933",
-        "f_1934"
+        "f_1934",
+        "f_2725",
+        "f_4869",
+        "f_4870"
       ],
       "sources_cited": [
         "src_aca_camp_songs_history",
@@ -4089,7 +4699,7 @@
         "src_youtube_live_a_lot",
         "src_ia_canadian_camping_collection"
       ],
-      "open_questions": 10,
+      "open_questions": 7,
       "cross_links": [
         "council-ring",
         "green-triangle",
@@ -4100,7 +4710,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 5622,
+      "word_count": 6216,
       "notes": "R1 RALPH completed 2026-02-27. 14 new KB facts. 23 KB facts total. 15 sources. Key findings: Marching Song traced to Alabama Jubilee (1915), lost verses found at Concordia 2006; full 1922 Yo Triumphy cheer; 1923 Gas Bag original songs; 1935 musicale; 1938 choir by Leshley; Kerr song on CD P145/SR0001 (4:30). Blocked on: oral history for section cheers/Grace/campfire repertoire; Concordia archives for song books 1925-1945. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the 'Correction (2026-07-09)' paragraph into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -4172,8 +4782,8 @@
         "f_0196",
         "f_0216",
         "f_0217",
-        "f_0226",
         "f_0227",
+        "f_0228",
         "f_0230",
         "f_0231",
         "f_0232",
@@ -4208,14 +4818,14 @@
         "f_0663",
         "f_0664",
         "f_0686",
-        "f_0843",
         "f_0725",
         "f_0726",
+        "f_0843",
+        "f_1089",
         "f_1113",
         "f_1118",
         "f_1120",
         "f_1123",
-        "f_1089",
         "f_1152",
         "f_1530",
         "f_1785",
@@ -4238,7 +4848,12 @@
         "f_1811",
         "f_1812",
         "f_1813",
-        "f_1814"
+        "f_1814",
+        "f_4874",
+        "f_4877",
+        "f_4890",
+        "f_4891",
+        "f_4927"
       ],
       "sources_cited": [
         "src_brochure_1921",
@@ -4248,12 +4863,19 @@
         "src_clivus_multrum_projects",
         "src_concordia_12B03",
         "src_concordia_fonds",
+        "src_ct_fiches_kanawana_2026",
+        "src_donneesquebec_bnlq_2026",
         "src_gas_bag_1923",
         "src_green_triangle_1938",
         "src_history_1935",
+        "src_ia_kanawana_directors_report_1976",
         "src_ia_kanawana_history_1951",
         "src_ia_kanawana_place_to_grow_1988",
+        "src_ia_kanawana_report_1969",
+        "src_ia_kanawana_report_1974",
         "src_ia_kanawana_report_1978",
+        "src_ia_kanawana_report_1979",
+        "src_ia_kanawana_report_1987",
         "src_ia_ymca_montreal_annual_reports_collection",
         "src_journal_acces_fire_2023",
         "src_ka_news_1980",
@@ -4265,9 +4887,11 @@
         "src_mysummercamps_kanawana",
         "src_oral_aronson",
         "src_photo_trudeau_letter_1978",
-        "src_ymca_website"
+        "src_ymca_website",
+        "src_ymf_the_gas_bag_extra_vol_13_no_1",
+        "src_ymf_sgw_ymca_annual_report_1926"
       ],
-      "open_questions": 13,
+      "open_questions": 6,
       "cross_links": [
         "the-kanawana-site",
         "council-ring",
@@ -4280,7 +4904,7 @@
         "lv-games"
       ],
       "file_id": null,
-      "word_count": 7360,
+      "word_count": 8468,
       "notes": "Stub created 2026-02-27. Comprehensive inventory of named places, buildings, structures (current and historical). Includes Grand Portage and Longhouse from oral tradition (no written documentation found). Superintendent's house fire May 2023. Infirmary (5 beds), 30ft climbing wall, workshop pavilion added from web research. 13 open questions.",
       "tags": {
         "era": [
@@ -4363,6 +4987,12 @@
           "at": "2026-09-04",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 2,
@@ -4376,16 +5006,16 @@
         "f_0598",
         "f_0599",
         "f_0600",
-        "f_0639",
-        "f_0640",
-        "f_0641",
-        "f_0642",
-        "f_0643",
         "f_0631",
         "f_0632",
         "f_0633",
         "f_0634",
         "f_0635",
+        "f_0639",
+        "f_0640",
+        "f_0641",
+        "f_0642",
+        "f_0643",
         "f_0646",
         "f_0647",
         "f_0648",
@@ -4404,19 +5034,22 @@
         "f_0661",
         "f_0662",
         "f_0937",
-        "f_1279",
         "f_1092",
         "f_1093",
         "f_1094",
+        "f_1279",
         "f_1548",
         "f_1878",
         "f_1879",
         "f_1880",
-        "f_1881"
+        "f_1881",
+        "f_4858"
       ],
       "sources_cited": [
         "src_aca_dimock_award_recipients_2022_2026",
-        "src_concordia_p0145_12a_finding_aid"
+        "src_concordia_p0145_12a_finding_aid",
+        "src_ymf_sgw_ymca_annual_report_1960",
+        "src_ymf_sgw_ymca_annual_report_1961"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -4426,7 +5059,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 3474,
+      "word_count": 4081,
       "notes": "E1 REVIEW (2026-03-02): 10 fixes applied. Father-son inference reframed as neutral hypothesis. Earliest publication contradiction resolved. Kamp→Camp standardized. Hendry relocated. Unsourced synthesis removed. All 7 criteria PASS. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -4525,11 +5158,16 @@
         "f_1157",
         "f_1956",
         "f_1957",
-        "f_1958"
+        "f_1958",
+        "f_5174",
+        "f_5202"
       ],
       "sources_cited": [
         "src_batshaw_timeline_page",
-        "src_concordia_atom_12F"
+        "src_concordia_atom_12F",
+        "src_ymf_sgw_ymca_annual_report_1921_1922",
+        "src_ia_canadian_camping_collection",
+        "src_ymf_news_release_1964_7"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -4538,7 +5176,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 1408,
+      "word_count": 1908,
       "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass (final article of 8) -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph into a new Research Notes > Revision History section, and fixed a real inconsistency the sediment had introduced: the Overview still described the two-site plan as 'ultimately abandoned' even though the article's own later correction established a signed 1979 lease and joint files through 1981-82 -- rewritten to match. Corrected open_questions count (was stale at 5, actual is 6, counting sub-item 2a). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -4657,16 +5295,18 @@
       "sources_cited": [
         "src_camp_perrot_1959_fresh_look",
         "src_ia_camp_perrot_collection",
-        "src_ia_canadian_camping_collection"
+        "src_ia_canadian_camping_collection",
+        "src_directory_canadian_welfare_services_1974",
+        "src_ymf_news_release_1969_11_28"
       ],
-      "open_questions": 5,
+      "open_questions": 2,
       "cross_links": [
         "directors-index",
         "canoe-trips",
         "section-names"
       ],
       "file_id": null,
-      "word_count": 2543,
+      "word_count": 3358,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -4779,7 +5419,7 @@
         "src_burry_thesis_1985",
         "src_ia_canadian_camping_collection"
       ],
-      "open_questions": 5,
+      "open_questions": 3,
       "cross_links": [
         "canadian-camping-movement",
         "hedley-dimock",
@@ -4849,6 +5489,13 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-07",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "The whole career, from the Year Book run: Galt 1929-31, a controlled four-year absence, Toronto Central 1936-40, Montreal Central 1941-44, Eastern Community Branch 1945-46, and nothing after. Resolves this article's own flagged non-identification of the 1936 'Ron Hanagan, Toronto Central' -- the superseded paragraph is kept in place. Adds National Council membership, a 1942 conference paper, and a 1951 Toronto social-work lead offered as a lead."
         }
       ],
       "ralph_loops_completed": 2,
@@ -4861,16 +5508,26 @@
         "f_0738",
         "f_0851",
         "f_0855",
-        "f_1170"
+        "f_1170",
+        "f_5248",
+        "f_5340",
+        "f_5341",
+        "f_5342",
+        "f_5343",
+        "f_5344"
       ],
-      "sources_cited": [],
-      "open_questions": 6,
+      "sources_cited": [
+        "src_ia_ymca_montreal_news_bulletin_12_03",
+        "src_umedia_ymca_yearbook_series",
+        "src_canadian_almanac_1917_1918"
+      ],
+      "open_questions": 4,
       "cross_links": [
         "directors-index",
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 773,
+      "word_count": 2355,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -5082,17 +5739,44 @@
         "src_camp_perrot_1959_fresh_look",
         "src_camp_perrot_1969_family_centre",
         "src_concordia_finding_aid_master_pdf",
-        "src_ia_camp_perrot_collection"
+        "src_ia_camp_perrot_collection",
+        "src_ymf_1947_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls",
+        "src_ymf_1948_report_of_the_montreal_ymca_camp_perrot_for_boys_and_girls",
+        "src_ymf_sgw_ymca_annual_report_1944",
+        "src_ymf_1950_camp_perrot_annual_report",
+        "src_ymf_1951_camp_perrot_annual_report",
+        "src_ymf_1952_camp_perrot_annual_report",
+        "src_ymf_1953_camp_perrot_annual_report",
+        "src_ymf_1954_camp_perrot_annual_report",
+        "src_ymf_1958_camp_perrot_annual_report",
+        "src_ymf_1929_come_to_kanawana_brochure",
+        "src_ymf_sgw_ymca_annual_report_1945",
+        "src_ymf_sgw_ymca_annual_report_1946",
+        "src_ymf_sgw_ymca_annual_report_1947",
+        "src_ymf_sgw_ymca_annual_report_1948",
+        "src_ymf_sgw_ymca_annual_report_1949",
+        "src_ymf_sgw_ymca_annual_report_1951",
+        "src_ymf_sgw_ymca_annual_report_1952",
+        "src_ymf_sgw_ymca_annual_report_1961",
+        "src_ymf_sgw_ymca_annual_report_1963",
+        "src_cache_sgw_ymca_annual_report_1966_67",
+        "src_cache_sgw_ymca_annual_report_1967",
+        "src_cache_1969_camp_perrot_family_centre",
+        "src_ymf_news_release_1964_11_13",
+        "src_ymf_news_release_1965_01_04",
+        "src_ymf_news_release_1966_12_05_2",
+        "src_ymf_p0145_news_release_1969_09_02"
       ],
-      "open_questions": 6,
+      "open_questions": 1,
       "cross_links": [
         "directors-index",
         "rh-hanagan",
         "canoe-trips",
-        "sources-index"
+        "sources-index",
+        "camp-thunderbird"
       ],
       "file_id": null,
-      "word_count": 1678,
+      "word_count": 6116,
       "notes": "RALPH R1 complete (2026-06-21): 30+ web searches returned zero new facts. Article meets draft criteria (Overview summary, 3 content sections, 3 sources). All remaining open questions require physical Concordia Archives access (P0145/12G). BAnQ newspaper facts (f_1326-f_1339) checked — none mention Camp Perrot. Advanced stub→draft. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header, moved the '12G sub-series' correction and the Batch 7 research-pass summary into a new Research Notes > Revision History section (this article previously had no Research Notes section). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -5247,7 +5931,9 @@
         "f_1857",
         "f_1858",
         "f_1859",
-        "f_1860"
+        "f_1860",
+        "f_5240",
+        "f_5241"
       ],
       "sources_cited": [
         "src_chenier_junior_league_chr",
@@ -5255,18 +5941,23 @@
         "src_macleans_1956_junior_league",
         "src_mccord_junior_league_fonds",
         "src_trent_mary_edgar_finding_aid",
-        "src_ia_canadian_camping_collection"
+        "src_ia_canadian_camping_collection",
+        "src_ia_the_lookout_1993",
+        "src_cache_canadiancampingmagazine_vol18no1_1965dec",
+        "src_cache_canadiancampingmagazine_vol19no1_1966dec",
+        "src_ia_margaret_eaton_album_168_1928"
       ],
-      "open_questions": 8,
+      "open_questions": 2,
       "cross_links": [
         "camp-ouareau",
         "canadian-camping-movement",
         "taylor-statten",
         "traditions-and-culture",
-        "coeducation-gender"
+        "coeducation-gender",
+        "maureen-mcbride"
       ],
       "file_id": null,
-      "word_count": 6275,
+      "word_count": 7418,
       "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header, moved the c_018 and c_002 editorial-resolution narratives out of prose into a new visible Revision History section, trimmed the header's dated parenthetical. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -5375,7 +6066,7 @@
         "src_ia_kanawana_report_1987",
         "src_twynam_johnston_2004"
       ],
-      "open_questions": 4,
+      "open_questions": 3,
       "cross_links": [
         "directors-index",
         "programs-activities",
@@ -5762,7 +6453,7 @@
         "f_1797"
       ],
       "sources_cited": [],
-      "open_questions": 4,
+      "open_questions": 3,
       "cross_links": [
         "directors-index",
         "matt-aronson",
@@ -5858,16 +6549,17 @@
         "src_ymca_canada_history",
         "src_ymcaquebec_downtown_sale_2023"
       ],
-      "open_questions": 4,
+      "open_questions": 3,
       "cross_links": [
         "founding-1894",
         "directors-index",
         "stuart-mclean",
         "camp-weredale",
-        "canadian-camping-movement"
+        "canadian-camping-movement",
+        "association-founding-dates"
       ],
       "file_id": null,
-      "word_count": 1560,
+      "word_count": 1583,
       "tags": {
         "era": [
           "1850s",
@@ -6001,7 +6693,7 @@
         "f_1882"
       ],
       "sources_cited": [],
-      "open_questions": 7,
+      "open_questions": 4,
       "cross_links": [
         "bruce-netherwood",
         "carol-skinner",
@@ -6165,9 +6857,24 @@
         "src_ia_ymca_montreal_fonds_collection",
         "src_mediaterre_kanawana_2009",
         "src_parkslopeparents_2023",
-        "src_ia_canadian_camping_collection"
+        "src_ia_canadian_camping_collection",
+        "src_ymf_annual_report_1976_125_colourful_years",
+        "src_cache_sgw_ymca_annual_report_1977_1978",
+        "src_cache_sgw_ymca_annual_report_1978_1979",
+        "src_ymf_sgw_ymca_annual_report_1979_1980",
+        "src_ymf_sgw_ymca_annual_report_1980_1981",
+        "src_ymf_sgw_ymca_annual_report_1981_1982",
+        "src_ymf_sgw_ymca_annual_report_1982_1983",
+        "src_ymf_sgw_ymca_annual_report_1984",
+        "src_ymf_sgw_ymca_annual_report_1985",
+        "src_ymf_sgw_ymca_annual_report_1986",
+        "src_ia_kanawana_directors_report_1976",
+        "src_ymf_sgw_ymca_annual_report_2007",
+        "src_ymf_sgw_ymca_annual_report_2006",
+        "src_ymf_sgw_ymca_annual_report_2005_2006_fr",
+        "src_ymf_sgw_ymca_annual_report_2009"
       ],
-      "open_questions": 5,
+      "open_questions": 2,
       "cross_links": [
         "the-kanawana-site",
         "programs-activities",
@@ -6181,7 +6888,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 8251,
+      "word_count": 10447,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical; fixed a genuine citation-numbering bug where the Sources list had two entries each numbered '17.' and '22.' (disambiguated as 17b./22b., three inline markers corrected to point at the right one). No facts, source content, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -6402,9 +7109,12 @@
         "src_ia_ymca_annual_1990",
         "src_ia_ymca_annual_1993",
         "src_ia_ymca_annual_1994",
-        "src_ia_ymca_annual_1994_fr"
+        "src_ia_ymca_annual_1994_fr",
+        "src_ia_the_lookout_1993",
+        "src_ymf_sgw_ymca_annual_report_1984",
+        "src_ymf_sgw_ymca_annual_report_1985"
       ],
-      "open_questions": 5,
+      "open_questions": 4,
       "cross_links": [
         "founding-1894",
         "billy-ball",
@@ -6413,10 +7123,11 @@
         "notable-alumni",
         "kanawana-in-media",
         "pip-alumni-award",
-        "timeline-overview"
+        "timeline-overview",
+        "oldest-camp-question"
       ],
       "file_id": null,
-      "word_count": 1468,
+      "word_count": 1780,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, softened two dated bold-label markers in prose ('Resolved 2026-07-09', 'Important disambiguation (2026-07-09)') into plain encyclopedic prose since they weren't corrections requiring a Revision History move. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -6491,17 +7202,28 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 118 (Vol. 30 No. 2, April 1978): new paragraph naming two Quebec camping institutions the article had not recorded -- Pripstein's Camp identified as a QCA member, and Wilfred A. Jackson, chairman of the QCA English Section's 40th anniversary conference, as Director of Camps and Conference Centre of the Catholic Community Services, Inc., Montreal. Sources 23 -> 24."
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
         }
       ],
       "ralph_loops_completed": 2,
       "kb_facts_used": [
+        "f_0220",
         "f_0750",
+        "f_0800",
+        "f_0804",
+        "f_0810",
         "f_0811",
         "f_0815",
         "f_0817",
         "f_0872",
         "f_0873",
         "f_0874",
+        "f_1288",
         "f_1290",
         "f_1291",
         "f_1292",
@@ -6511,25 +7233,34 @@
         "f_1302",
         "f_1303",
         "f_1304",
-        "f_0220",
-        "f_0800",
-        "f_0804",
-        "f_0810",
-        "f_1288",
         "f_1976",
         "f_1977",
         "f_1978",
         "f_1982",
         "f_1983",
-        "f_1984"
+        "f_1984",
+        "f_4866",
+        "f_4867",
+        "f_4868",
+        "f_4893",
+        "f_4891",
+        "f_4894",
+        "f_4895",
+        "f_4896",
+        "f_4897",
+        "f_5201"
       ],
       "sources_cited": [
         "src_camp_dorval_1928",
         "src_concordia_12N_camping_associations",
+        "src_ct_fiches_neighbour_camps_2026",
+        "src_donneesquebec_bnlq_2026",
+        "src_ia_canadian_camping_collection",
         "src_trent_qca_fonds",
-        "src_ia_canadian_camping_collection"
+        "src_ymf_sgw_ymca_annual_report_1933",
+        "src_moses_union_united_proud_past_2008"
       ],
-      "open_questions": 3,
+      "open_questions": 4,
       "cross_links": [
         "a-ross-seaman",
         "camp-oolahwan",
@@ -6540,10 +7271,13 @@
         "camp-weredale",
         "canadian-camping-movement",
         "founding-1894",
-        "lv-games"
+        "history/oldest-camp-question",
+        "lv-games",
+        "people/tony-shorgan",
+        "quebec-camping-association"
       ],
       "file_id": null,
-      "word_count": 3682,
+      "word_count": 5688,
       "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- folded the former 'R3 Verification Notes'/'E1 Review Notes' H3 sub-headings into a proper '## Research Notes' section (HTML-comment process log), trimmed the header's dated parenthetical. This article's main body had no embedded prose sediment to begin with. No facts, citations, or open questions changed; status unchanged. | 2026-07-11 (Workstream B): added the \"Camps at a Glance\" summary table and an explanatory paragraph tying it to the places/-vs-context/ folder split, per the approved wiki-expansion plan -- this page now serves as the satellite/peer-camp hub. No new facts/sources; surfaced a new open question (#6, present-day status of several camps unconfirmed). | 2026-07-11: Linked \"Camp Pine Crest\" table row and prose bullet to the new standalone places/camp-pine-crest.md article. | 2026-08-14 p_226: L&V origin claim softened from 'direct origin/source' to the documented 'inspired by' (YMCA Quebec's own wording); duplicate Pine Crest blog source consolidated; quebec-camp-landscape's stale Hayo-Went-Ha reading, retracted in lv-games.md on 2026-07-09, corrected here too.",
       "tags": {
         "era": [
@@ -6622,11 +7356,21 @@
         "f_1891",
         "f_1892",
         "f_1897",
-        "f_1899"
+        "f_1899",
+        "f_5197",
+        "f_5238"
       ],
       "sources_cited": [
         "src_cfcf_1941",
-        "src_concordia_atom_12B04"
+        "src_concordia_atom_12B04",
+        "src_mclean_vinyl_cafe_notebooks_2010",
+        "src_dlb_362_canadian_literary_humorists_2011",
+        "src_elvin_box_from_braunau_2009",
+        "src_torge_dear_sam_2007",
+        "src_ymf_1938_11_10_the_voice_of_youth",
+        "src_ymf_1938_11_07_kanawana_goes_on_the_air",
+        "src_mcmann_aam_spring_exhibitions_1988",
+        "src_ia_cutv_ymca_youth_summit_2013"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -6640,7 +7384,7 @@
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 2420,
+      "word_count": 4188,
       "tags": {
         "era": [
           "1960s",
@@ -6719,16 +7463,22 @@
         "src_ia_ymca_annual_1934",
         "src_ia_ymca_annual_1935",
         "src_ia_ymca_annual_1936",
-        "src_ia_ymca_annual_1937"
+        "src_ia_ymca_annual_1937",
+        "src_ymf_sgw_ymca_annual_report_1929",
+        "src_cache_sgw_ymca_annual_report_1930",
+        "src_cache_sgw_ymca_annual_report_1934",
+        "src_cache_sgw_ymca_annual_report_1935",
+        "src_cache_sgw_ymca_annual_report_1936",
+        "src_ymf_sgw_ymca_annual_report_1964"
       ],
-      "open_questions": 7,
+      "open_questions": 6,
       "cross_links": [
         "the-kanawana-site",
         "camp-otoreke",
         "quebec-camp-landscape"
       ],
       "file_id": null,
-      "word_count": 1686,
+      "word_count": 2441,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, softened a dated bold-label marker in prose. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -6805,7 +7555,7 @@
         "f_1450"
       ],
       "sources_cited": [],
-      "open_questions": 4,
+      "open_questions": 3,
       "cross_links": [
         "sgw-concordia-connection",
         "hedley-dimock",
@@ -6924,7 +7674,7 @@
       "article_id": "winter-programming",
       "title": "Winter and Year-Round Programming",
       "wiki_folder": "traditions",
-      "status": "R3-verified",
+      "status": "E1-reviewed",
       "status_history": [
         {
           "status": "stub",
@@ -6949,6 +7699,12 @@
           "at": "2026-09-02T00:00:00Z",
           "by": "auto",
           "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-06T03:40:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 1,
@@ -6971,15 +7727,32 @@
         "f_1870",
         "f_1871",
         "f_1872",
-        "f_1873"
+        "f_1873",
+        "f_4843",
+        "f_2434"
       ],
       "sources_cited": [
+        "src_buxton_guernsey_montreal_inside_out_1976",
+        "src_concordia_atom_12B07",
+        "src_ia_kanawana_report_1975",
         "src_ia_ymca_annual_1971_72",
         "src_ia_ymca_annual_1972_73",
         "src_ia_ymca_annual_1996",
-        "src_concordia_atom_12B07"
+        "src_veillette_pistes_ski_fond_quebec_1977",
+        "src_guide_plein_air_quebec_1991",
+        "src_ymf_sgw_ymca_annual_report_1945",
+        "src_ymf_sgw_ymca_annual_report_1947",
+        "src_ymf_p0145_news_release_1970_01_29",
+        "src_ymf_news_release_1969_11_28",
+        "src_ymf_sgw_ymca_annual_report_1970_1971",
+        "src_cache_sgw_ymca_annual_report_1971_1972",
+        "src_cache_sgw_ymca_annual_report_1972_1973",
+        "src_ymf_1985_07_montreal_ymca_day_camp_report",
+        "src_ymf_1987_10_montreal_ymca_day_camp_report",
+        "src_ymf_1988_02_26_day_camp_recommendations",
+        "src_ymf_sgw_ymca_annual_report_2001_2002"
       ],
-      "open_questions": 4,
+      "open_questions": 3,
       "cross_links": [
         "environmental-history",
         "programs-activities",
@@ -6987,7 +7760,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 1107,
+      "word_count": 3676,
       "tags": {
         "era": [
           "1970s",
@@ -7060,6 +7833,12 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 136 (Vol. 33 No. 2, April 1981): extended the Seton section with the dated trajectory of the association's Indigenous-themed material -- Seton's composite creed unattributed in February 1978, Chief Dan George's 'And My Heart Soars' in May 1979, and a Sioux prayer in translation in April 1981. The framework of borrowing is unchanged; the sources it draws on are not. Sources 19 -> 20."
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 1,
@@ -7078,10 +7857,16 @@
         "f_1527",
         "f_1557",
         "f_1558",
-        "f_1559"
+        "f_1559",
+        "f_4855",
+        "f_4857",
+        "f_5230",
+        "f_5251"
       ],
       "sources_cited": [
-        "src_ia_canadian_camping_collection"
+        "src_ia_canadian_camping_collection",
+        "src_seton_book_of_woodcraft_1912",
+        "src_ia_ymca_montreal_news_bulletin_08_02"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -7094,7 +7879,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 6910,
+      "word_count": 8887,
       "tags": {
         "era": [],
         "region": "not-applicable",
@@ -7117,7 +7902,7 @@
       "article_id": "joanna-hoad",
       "title": "Joanna A.A. Hoad",
       "wiki_folder": "people",
-      "status": "R3-verified",
+      "status": "E1-reviewed",
       "status_history": [
         {
           "status": "stub",
@@ -7136,6 +7921,12 @@
           "at": "2026-07-09T18:00:00Z",
           "by": "auto",
           "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-06T03:50:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 4,
@@ -7150,10 +7941,12 @@
       "sources_cited": [],
       "open_questions": 4,
       "cross_links": [
-        "directors-index"
+        "directors-index",
+        "arleen-boyer",
+        "modern-era"
       ],
       "file_id": null,
-      "word_count": 987,
+      "word_count": 1313,
       "tags": {
         "era": [
           "1990s",
@@ -7209,7 +8002,7 @@
         "src_reportage_vecu_2007",
         "src_seaman_letter_parents_1967"
       ],
-      "open_questions": 4,
+      "open_questions": 2,
       "cross_links": [
         "canoe-trips",
         "directors-index"
@@ -7338,7 +8131,9 @@
         "src_concordia_14D10",
         "src_concordia_atom_12B01",
         "src_concordia_fonds_14D",
-        "src_mcmorris_thesis"
+        "src_mcmorris_thesis",
+        "src_ymca_year_book_official_rosters_1921",
+        "src_greig_ontario_boys_2014"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -7348,7 +8143,7 @@
         "camp-perrot"
       ],
       "file_id": null,
-      "word_count": 1119,
+      "word_count": 1453,
       "notes": "2026-07-11: Workstream C1 spawn. Synthesizes an already-completed formal RALPH campaign (documented in directors-index.md's R8/R9 research notes, 2026-06-22) into a standalone article -- no new research conducted. Single-source reliance on the Camp Stephens Alumni blog for most biographical detail is preserved as an explicit limitation.",
       "tags": {
         "era": [
@@ -7459,7 +8254,7 @@
         "src_ia_ymca_annual_report_1978_79",
         "src_ia_ymca_news_release_1970_11_27"
       ],
-      "open_questions": 4,
+      "open_questions": 2,
       "cross_links": [
         "nelson-mcewen",
         "directors-index",
@@ -7572,16 +8367,18 @@
         "src_oral_aronson",
         "src_wikipedia_john_cleghorn",
         "src_ymca_quebec_pip_skinner",
-        "src_flickr_kanawana_plaque_album"
+        "src_flickr_kanawana_plaque_album",
+        "src_cache_sgw_ymca_annual_report_1996",
+        "src_ymf_ka_news_1979_02"
       ],
-      "open_questions": 3,
+      "open_questions": 2,
       "cross_links": [
         "notable-alumni",
         "pip-alumni-award",
         "james-orbinski"
       ],
       "file_id": null,
-      "word_count": 692,
+      "word_count": 1168,
       "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. Combines oral history (src_oral_aronson) with documented sources (Wikipedia, Canadian Encyclopedia); no conflict exists between them so no resolution needed. Corrected dangling source_id reference (src_cleghorn_wikipedia -> src_wikipedia_john_cleghorn) in kb/facts.json while preparing this article.",
       "tags": {
         "era": [
@@ -7697,17 +8494,20 @@
         "src_ia_ymca_annual_1993",
         "src_oral_aronson",
         "src_ssymca_netherwood",
-        "src_ymca_quebec_pip_skinner"
+        "src_ymca_quebec_pip_skinner",
+        "src_ia_the_lookout_1993",
+        "src_umedia_ymca_yearbook_series"
       ],
       "open_questions": 3,
       "cross_links": [
         "directors-index",
         "notable-alumni",
         "pip-alumni-award",
-        "centennial-1994"
+        "centennial-1994",
+        "maureen-mcbride"
       ],
       "file_id": null,
-      "word_count": 874,
+      "word_count": 1211,
       "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md AND from directors-index.md Camp Directors table (Bruce Netherwood was already a fully-documented Director 1988-1994, richer than the plan's Pip-Award-only framing suggested). Jay Netherwood folded in as a section rather than a separate stub given near-total absence of independent biographical material. Corrected a dangling source_id reference (src_concordia_p0145_12b04_finding_aid -> src_concordia_atom_12B04, also affecting f_1066) in kb/facts.json while preparing this article.",
       "tags": {
         "era": [
@@ -7876,15 +8676,17 @@
         "src_cbc_sam_jam_2015",
         "src_legacy_lazarus_obituary_2004",
         "src_myjewishlearning_lazarus",
-        "src_zeffy_lazarus_fund"
+        "src_zeffy_lazarus_fund",
+        "src_torge_dear_sam_2007",
+        "src_ymf_sgw_ymca_annual_report_2003_2004"
       ],
-      "open_questions": 2,
+      "open_questions": 3,
       "cross_links": [
         "notable-alumni",
         "pip-alumni-award"
       ],
       "file_id": null,
-      "word_count": 1080,
+      "word_count": 2124,
       "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. No new research conducted. Noted but did not fix a pre-existing fact-to-source mis-citation (f_0611 cites src_newspapers_gazette_1913, an unrelated 1913 article) -- flagged as a KB cleanup item rather than guessed at.",
       "tags": {
         "era": [
@@ -7925,15 +8727,25 @@
         "f_1060",
         "f_1061",
         "f_1151",
-        "f_1969"
+        "f_1969",
+        "f_4904",
+        "f_4908",
+        "f_4909",
+        "f_4910",
+        "f_5206"
       ],
       "sources_cited": [
         "src_1951_kamp_kanawana_history",
         "src_cbmu_history",
         "src_concordia_fonds",
-        "src_concordia_p0145_12a_finding_aid"
+        "src_concordia_p0145_12a_finding_aid",
+        "src_cache_sgw_ymca_annual_report_1991_1992",
+        "src_ia_ymca_montreal_annual_reports_collection",
+        "src_ymf_sgw_ymca_annual_report_1893_1894",
+        "src_ymf_sgw_ymca_annual_report_1892_1893",
+        "src_point_st_charles_institute_1895"
       ],
-      "open_questions": 5,
+      "open_questions": 4,
       "cross_links": [
         "ralph-dawson",
         "directors-index",
@@ -7941,7 +8753,7 @@
         "founding-1894"
       ],
       "file_id": null,
-      "word_count": 1024,
+      "word_count": 2041,
       "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md \"Other Notable Alumni\" section. Synthesizes existing research including myths-and-legends.md Batch 7 finding (1951 primary source naming Charlton as the person who proposed the camp name). Fixed a pre-existing link-text bug in myths-and-legends.md (text \"R.L. Charlton\" was linked to people/ralph-dawson instead of a Charlton article). Corrected a dangling source_id reference (src_concordia_fonds_12A -> src_concordia_p0145_12a_finding_aid, affecting f_1151) in kb/facts.json while preparing this article. | 2026-07-11: p_214 VERIFY -- Open Question 3 marked exhausted (5-surface Furness fleet search, zero matches).",
       "tags": {
         "era": [
@@ -8401,6 +9213,12 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 133 (Vol. 32 No. 5, October 1980): new section on the association's national counsellor and CIT training outline, whose first heading is Camp History -- camps were expected to give trainees an annual account of their own founding, traditions and how they came by their land -- and on the recommended camp manual as 'a written report for future directors and boards'. Makes a Kanawana staff or camp manual a specific document to look for, and explains the form of the already-cached 1951 'Kamp Kanawana History, presented at a Training Course'. Sources 8 -> 9."
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
         }
       ],
       "ralph_loops_completed": 1,
@@ -8419,17 +9237,22 @@
         "f_1614",
         "f_1615",
         "f_1654",
-        "f_1796"
+        "f_1796",
+        "f_3784",
+        "f_3785",
+        "f_3823",
+        "f_5250"
       ],
       "sources_cited": [
         "src_flickr_kanawana_plaque_album",
+        "src_ia_canadian_camping_collection",
+        "src_ia_kanawana_broadcast_cfcf_1941",
         "src_kanawana_facts",
         "src_leigh_evans_blog",
         "src_oral_aronson",
         "src_ymcaq_lit_guide_2026",
         "src_ymcaq_trailblazers_2026",
-        "src_ia_kanawana_broadcast_cfcf_1941",
-        "src_ia_canadian_camping_collection"
+        "src_ia_ymca_montreal_news_bulletin_07_01"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -8440,7 +9263,7 @@
         "notable-alumni"
       ],
       "file_id": null,
-      "word_count": 2115,
+      "word_count": 3503,
       "notes": "2026-07-11: Workstream C3 spawn -- structured, decades-spanning program synthesized from 5 scattered articles into a standalone article. No new research conducted. Individual plaque-roster names deliberately not reproduced here (privacy carve-out for C5-listed names already collectively catalogued in directors-index.md). | 2026-08-14 p_226: applied the programs/places BLOCKING fixes from the p_218 audit.",
       "tags": {
         "era": [
@@ -8492,7 +9315,8 @@
         "f_1407",
         "f_1408",
         "f_1846",
-        "f_1847"
+        "f_1847",
+        "f_5178"
       ],
       "sources_cited": [
         "src_brochure_1921",
@@ -8504,7 +9328,8 @@
         "src_mcmorris_thesis",
         "src_newspapers_gazette_1918",
         "src_wikipedia_woodcraft_league",
-        "src_woodcraft_birch_bark"
+        "src_woodcraft_birch_bark",
+        "src_ymf_sgw_ymca_annual_report_1919_montreal_men"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -8516,7 +9341,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 1260,
+      "word_count": 1413,
       "notes": "2026-07-11: Workstream C4 spawn (1 of 4). Connective-narrative synthesis, no new research conducted. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
       "tags": {
         "era": [
@@ -8556,8 +9381,13 @@
         }
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": [],
+      "kb_facts_used": [
+        "f_5198",
+        "f_5232",
+        "f_5254"
+      ],
       "sources_cited": [
+        "src_abrams_retenue_par_un_fil",
         "src_camp_perrot_1959_fresh_look",
         "src_camp_stephens_alumni_blog",
         "src_concordia_chrcs_fonds",
@@ -8569,7 +9399,10 @@
         "src_ia_kanawana_report_1969",
         "src_ia_ymca_annual_report_1966_67",
         "src_ia_ymca_montreal_annual_reports_collection",
-        "src_mcmorris_thesis"
+        "src_mcmorris_thesis",
+        "src_ney_w_hour_2014",
+        "src_azrieli_w_hour_page_2026",
+        "src_ia_ymca_montreal_news_bulletin_21_04"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -8584,7 +9417,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 1976,
+      "word_count": 3084,
       "notes": "2026-07-11: Workstream C4 spawn (2 of 4). Connective-narrative synthesis, no new research conducted. Directly addresses CLAUDE.md-named \"1947-2003 director gap\" for its earliest, thinnest span. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
       "tags": {
         "era": [
@@ -8644,6 +9477,7 @@
         "src_concordia_fonds",
         "src_goddard_obituary",
         "src_goddard_obituary_condolence",
+        "src_ia_canadian_camping_collection",
         "src_ia_kanawana_report_1977",
         "src_ia_kanawana_report_1978",
         "src_ia_ymca_annual_report_1977_78",
@@ -8652,11 +9486,12 @@
         "src_kanawana_facts",
         "src_mcmaster_mclean_fonds",
         "src_oral_aronson",
+        "src_porter_sargent_guides_1983_1987",
+        "src_summer_camps_and_programs_1983",
         "src_ymca_john_island_newsletter",
-        "src_ymca_kanawana_history",
-        "src_ia_canadian_camping_collection"
+        "src_ymca_kanawana_history"
       ],
-      "open_questions": 4,
+      "open_questions": 3,
       "cross_links": [
         "coeducation-gender",
         "directors-index",
@@ -8666,10 +9501,11 @@
         "bruce-netherwood",
         "centennial-1967",
         "centennial-1994",
-        "timeline-overview"
+        "timeline-overview",
+        "movement-archive-turn"
       ],
       "file_id": null,
-      "word_count": 2855,
+      "word_count": 4192,
       "notes": "2026-07-11: Workstream C4 spawn (3 of 4). Connective-narrative synthesis, no new research conducted. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit. | 2026-08-14 p_225 research: deep web research resolved three long-standing questions against PRIMARY sources (YMCA of Montreal news release 1970 + annual reports 1977-79 on Internet Archive; Camp Pascobac's own history page; broadcasting-history.ca).",
       "tags": {
         "era": [
@@ -8719,25 +9555,28 @@
         "f_2328"
       ],
       "sources_cited": [
+        "src_canadian_summer_job_directory_2006_2008",
+        "src_cbc_wong_camps_2021",
         "src_clivus_multrum_projects",
+        "src_flickr_kanawana_plaque_album",
         "src_ia_ymca_montreal_fonds_collection",
+        "src_kk_prep_guide_2025",
+        "src_kk_prep_guide_2026",
         "src_mediaterre_kanawana_2009",
         "src_montreal_families_gender",
         "src_msn_kanawana_closed_2021",
         "src_oral_aronson",
+        "src_oral_aronson_cit_1995",
         "src_oral_aronson_lv_2020_remote",
+        "src_oral_aronson_westmount_bus_2026",
         "src_telus_kanawana",
         "src_wayback_ymcamontreal_annualreport_2001_2002",
         "src_ymcaquebec_annualreport_2007",
         "src_ymcaquebec_annualreport_2008",
         "src_ymcaquebec_annualreport_2009",
         "src_ymcaquebec_annualreport_2011",
-        "src_oral_aronson_westmount_bus_2026",
-        "src_cbc_wong_camps_2021",
-        "src_kk_prep_guide_2025",
-        "src_kk_prep_guide_2026",
-        "src_oral_aronson_cit_1995",
-        "src_flickr_kanawana_plaque_album"
+        "src_canadian_key_business_directory_1993_2001",
+        "src_ymf_sgw_ymca_annual_report_2004_2005"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -8754,7 +9593,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 2453,
+      "word_count": 3613,
       "notes": "2026-07-11: Workstream C4 spawn (4 of 4, final). Connective-narrative synthesis, no new research conducted. Ties together this session's institutional-role-director spawns into continuous narrative history. This completes Workstream C4 and the full operator-approved plan. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
       "tags": {
         "era": [
@@ -8929,6 +9768,12 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -8938,18 +9783,19 @@
         "f_0083",
         "f_0670",
         "f_0716",
-        "f_1841"
+        "f_1841",
+        "f_4853"
       ],
       "sources_cited": [
         "src_green_triangle_1938",
         "src_history_1935",
+        "src_ia_canadian_camping_1962_12",
         "src_ia_ymca_annual_1937",
         "src_ia_ymca_montreal_annual_reports_collection",
         "src_ia_ymca_montreal_fonds_collection",
-        "src_mcmorris_thesis",
-        "src_ia_canadian_camping_1962_12"
+        "src_mcmorris_thesis"
       ],
-      "open_questions": 5,
+      "open_questions": 3,
       "cross_links": [
         "directors-index",
         "howie-langille",
@@ -8957,7 +9803,7 @@
         "camp-becsies"
       ],
       "file_id": null,
-      "word_count": 1965,
+      "word_count": 2183,
       "notes": "2026-07-11: Spawned per operator's revised C5 policy -- mis-categorized originally, since he's a substantially-documented 1935-1938 Camp Chief, not a plaque-only name. No new research conducted.",
       "tags": {
         "era": [
@@ -9288,7 +10134,8 @@
         "f_1993",
         "f_1994",
         "f_1995",
-        "f_2009"
+        "f_2009",
+        "f_5204"
       ],
       "sources_cited": [
         "src_ia_kanawana_directors_report_1976",
@@ -9300,9 +10147,12 @@
         "src_ia_canadian_camping_1954_06",
         "src_ia_canadian_camping_1976_01",
         "src_ia_canadian_camping_1977_03",
-        "src_ia_canadian_camping_collection"
+        "src_ia_canadian_camping_collection",
+        "src_whos_who_in_canada_owens",
+        "src_financial_post_directory_of_directors_1947",
+        "src_art_index_vol_1"
       ],
-      "open_questions": 9,
+      "open_questions": 6,
       "cross_links": [
         "traditions/canoe-trips",
         "traditions/pip-alumni-award",
@@ -9310,7 +10160,7 @@
         "people/sean-day"
       ],
       "file_id": null,
-      "word_count": 3230,
+      "word_count": 3942,
       "tags": [
         "awards",
         "canoe-tripping",
@@ -9398,7 +10248,8 @@
         "src_ia_canadian_camping_collection",
         "src_ia_kanawana_history_1951",
         "src_ia_ymca_montreal_annual_reports_collection",
-        "src_ia_ymca_montreal_fonds_collection"
+        "src_ia_ymca_montreal_fonds_collection",
+        "src_stamp_canadian_obituary_record"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -9409,7 +10260,7 @@
         "site/camp-perrot"
       ],
       "file_id": null,
-      "word_count": 1931,
+      "word_count": 2568,
       "notes": "Created 2026-08-14 (p_250). First name filling the 1947-1958 postwar gap. Documented Montreal YMCA span of ~40 years: Kanawana Camp Chief 1947, Camping Branch executive secretary 1970-72, Metropolitan Staff 1986. Status stub not draft -- no dedicated RALPH cycle, no VERIFY pass."
     },
     {
@@ -9615,21 +10466,118 @@
           "at": "2026-08-14T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
-      "ralph_loops_completed": 0,
-      "kb_facts_used": [],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0666",
+        "f_2007",
+        "f_2015",
+        "f_4843",
+        "f_4844",
+        "f_4845",
+        "f_4846",
+        "f_4847",
+        "f_4848",
+        "f_4849",
+        "f_4850",
+        "f_4851",
+        "f_4852",
+        "f_4911",
+        "f_4912",
+        "f_4913",
+        "f_5166",
+        "f_5167",
+        "f_5175",
+        "f_5176",
+        "f_5177",
+        "f_5182",
+        "f_5183",
+        "f_5184",
+        "f_5193",
+        "f_5195",
+        "f_5203",
+        "f_5173",
+        "f_5253"
+      ],
       "sources_cited": [
+        "src_flickr_kanawana_plaque_album",
+        "src_high_school_magazine_montreal_1916",
+        "src_ia_kanawana_directors_report_1976",
         "src_ia_kanawana_place_to_grow_1988",
         "src_ia_kanawana_report_1964",
         "src_ia_kanawana_report_1969",
+        "src_ia_kanawana_report_1970",
+        "src_ia_kanawana_report_1971",
+        "src_ia_kanawana_report_1973",
+        "src_ia_kanawana_report_1974",
+        "src_ia_kanawana_report_1975",
+        "src_ia_kanawana_report_1977",
+        "src_ia_kanawana_report_1978",
         "src_ia_kanawana_report_1979",
+        "src_ia_kanawana_report_1987",
         "src_ia_sgw_annual_report_1894_1895",
         "src_ia_sgw_annual_report_1910",
         "src_ia_ymca_montreal_annual_reports_collection",
-        "src_ia_ymca_montreal_fonds_collection"
+        "src_ia_ymca_montreal_fonds_collection",
+        "src_photo_lv_annual_trophy",
+        "src_ymf_1900_11_30_report_of_the_junior_camp_committee",
+        "src_ymf_sgw_ymca_annual_report_1903",
+        "src_ymf_sgw_ymca_annual_report_1906",
+        "src_ymf_sgw_ymca_annual_report_1907",
+        "src_ymf_sgw_ymca_annual_report_1908",
+        "src_ymf_sgw_ymca_annual_report_1909",
+        "src_ymf_sgw_ymca_annual_report_1951",
+        "src_ymf_sgw_ymca_annual_report_1960",
+        "src_ymf_sgw_ymca_annual_report_1961",
+        "src_ymf_sgw_ymca_annual_report_1962",
+        "src_ia_the_lookout_1993",
+        "src_ymf_sgw_ymca_annual_report_1943",
+        "src_ymf_sgw_ymca_annual_report_1944",
+        "src_ymf_sgw_ymca_annual_report_1945",
+        "src_ymf_sgw_ymca_annual_report_1946",
+        "src_ymf_sgw_ymca_annual_report_1947",
+        "src_ymf_sgw_ymca_annual_report_1953",
+        "src_ymf_sgw_ymca_annual_report_1954",
+        "src_ymf_sgw_ymca_annual_report_1955",
+        "src_ymf_sgw_ymca_annual_report_1957",
+        "src_ymf_sgw_ymca_annual_report_1958",
+        "src_ymf_sgw_ymca_annual_report_1948",
+        "src_ymf_sgw_ymca_annual_report_1950",
+        "src_ymf_sgw_ymca_annual_report_1963",
+        "src_cache_sgw_ymca_annual_report_1967",
+        "src_ymf_news_release_1963_04_22",
+        "src_ymf_p0145_news_release_1970_05_28",
+        "src_ymf_sgw_ymca_annual_report_1974_1975",
+        "src_ymf_sgw_ymca_annual_report_2004_2005",
+        "src_ymf_sgw_ymca_annual_report_2002_2003",
+        "src_ymf_sgw_ymca_annual_report_2008",
+        "src_ymf_sgw_ymca_annual_report_2009",
+        "src_ymf_sgw_ymca_annual_report_2001_2002",
+        "src_ymf_sgw_ymca_annual_report_1921_1922",
+        "src_ymf_sgw_ymca_annual_report_1919_montreal_men",
+        "src_ymf_sgw_ymca_annual_report_1988",
+        "src_ymf_sgw_ymca_annual_report_1998",
+        "src_ymf_sgw_ymca_annual_report_1998_1999",
+        "src_ymf_sgw_ymca_annual_report_1988_fr",
+        "src_ymf_sgw_ymca_annual_report_2000_2001_fr",
+        "src_ymf_sgw_ymca_annual_report_2006_fr",
+        "src_ymf_sgw_ymca_annual_report_1913",
+        "src_ymf_sgw_ymca_annual_report_1999_2000",
+        "src_ymf_sgw_ymca_annual_report_1965",
+        "src_ymf_sgw_ymca_annual_report_1922_1923",
+        "src_ia_ymca_national_council_bulletin_41_03",
+        "src_ymf_sgw_ymca_annual_report_1914",
+        "src_ymf_sgw_ymca_annual_report_1904_men_of_montreal",
+        "src_ymf_sgw_ymca_annual_report_1905"
       ],
-      "open_questions": 5,
+      "open_questions": 4,
       "cross_links": [
         "history/timeline-overview",
         "history/founding-1894",
@@ -9637,17 +10585,19 @@
         "history/postwar-gap",
         "history/coeducation-gender",
         "history/modern-era",
-        "site/camp-otoreke"
+        "site/camp-otoreke",
+        "camp-thunderbird",
+        "cca-statistics"
       ],
       "file_id": null,
-      "word_count": 2596,
+      "word_count": 9665,
       "notes": "Created 2026-08-14 (p_256) from the 114-annual-report sweep. ~60 seasons of camper counts and camper-weeks, 1894-2023, with SIX internal inconsistencies carried as flags rather than resolved -- every one of them the association contradicting itself. Kept as a separate article so the contradictions travel with the numbers. No aggregate totals computed: too many missing years, the 1998-2001 rows count a different population, and the two documented lifetime totals (40,000 in 1964, 34,000 in 1984) contradict each other. Marked draft, not stub, because it is transcription of primary figures rather than synthesis; NOT yet VERIFY-passed -- figures should be spot-checked against the OCR before advancing."
     },
     {
       "article_id": "camp-lighthall",
       "title": "Camp Lighthall",
       "wiki_folder": "connections/related-camps",
-      "status": "draft",
+      "status": "R3-verified",
       "status_history": [
         {
           "status": "stub",
@@ -9660,6 +10610,12 @@
           "at": "2026-08-25T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-09-06T06:50:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -9667,7 +10623,10 @@
         "f_2234",
         "f_2277",
         "f_2278",
-        "f_2279"
+        "f_2279",
+        "f_4898",
+        "f_4899",
+        "f_5202"
       ],
       "sources_cited": [
         "src_ia_canadian_camping_1949_06",
@@ -9683,7 +10642,7 @@
         "src_trent_cca_fonds_umbrella",
         "src_mcmorris_thesis_spectrum"
       ],
-      "open_questions": 0,
+      "open_questions": 6,
       "cross_links": [
         "quebec-camp-landscape",
         "camp-oolahwan",
@@ -9693,7 +10652,7 @@
         "camp-perrot"
       ],
       "file_id": null,
-      "word_count": 2048
+      "word_count": 2734
     },
     {
       "article_id": "t-duncan-patton",
@@ -9706,6 +10665,18 @@
           "at": "2026-08-25T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 1,
@@ -9716,20 +10687,43 @@
         "f_2297",
         "f_2298",
         "f_2299",
-        "f_2300"
+        "f_2300",
+        "f_4839",
+        "f_4840",
+        "f_4860",
+        "f_4861",
+        "f_4889",
+        "f_4901",
+        "f_4902",
+        "f_4904",
+        "f_4905",
+        "f_4906",
+        "f_4907",
+        "f_5205"
       ],
       "sources_cited": [
         "src_camp_stephens_alumni_blog",
+        "src_campstephens_125_chapel_2016",
         "src_ia_autobiographical_sketch_1919",
         "src_ia_canadian_camping_collection",
         "src_ia_kanawana_history_1951",
         "src_ia_ymca_montreal_annual_reports_collection",
         "src_lac_first_basketball_game",
+        "src_muse_kenora_camp_stephens_125",
         "src_omeka_first_basketball_players",
         "src_qahn_howard",
-        "src_wikipedia_first_team"
+        "src_wikipedia_first_team",
+        "src_ymca_yearbook_1893",
+        "src_ymca_yearbook_1895",
+        "src_ct_fiches_kanawana_2026",
+        "src_donneesquebec_bnlq_2026",
+        "src_ymf_sgw_ymca_annual_report_1990_1991",
+        "src_cache_sgw_ymca_annual_report_1991_1992",
+        "src_ymca_yearbook_1922",
+        "src_dunnahoo_basketball_hall_of_fame_1994",
+        "src_rains_naismith_2009"
       ],
-      "open_questions": 0,
+      "open_questions": 3,
       "cross_links": [
         "founding-1894",
         "billy-ball",
@@ -9738,7 +10732,7 @@
         "camp-otoreke"
       ],
       "file_id": null,
-      "word_count": 2810
+      "word_count": 4877
     },
     {
       "article_id": "multi-year-index",
@@ -9783,14 +10777,14 @@
         "src_oral_aronson_tasse_family",
         "src_oral_aronson_julien_tasse_caretaker"
       ],
-      "open_questions": 4,
+      "open_questions": 3,
       "cross_links": [
         "people/directors-index",
         "traditions/cit-lit-program",
         "meta/plaque-audit"
       ],
       "file_id": null,
-      "word_count": 4250
+      "word_count": 4443
     },
     {
       "article_id": "plaque-audit",
@@ -9866,7 +10860,7 @@
         "src_photo_knights_charter_challenges",
         "src_ymca_quebec_pip_macsween_2026"
       ],
-      "open_questions": 6,
+      "open_questions": 5,
       "cross_links": [
         "traditions/traditions-and-culture",
         "traditions/order-of-owens",
@@ -9915,7 +10909,7 @@
         "src_ia_kanawana_report_1964",
         "src_ia_kanawana_report_1987"
       ],
-      "open_questions": 4,
+      "open_questions": 1,
       "cross_links": [
         "site/the-kanawana-site",
         "traditions/section-names",
@@ -9969,7 +10963,7 @@
         "src_ia_kanawana_report_1987",
         "src_oral_aronson_sanctum_suez_raku"
       ],
-      "open_questions": 5,
+      "open_questions": 4,
       "cross_links": [
         "traditions/traditions-and-culture",
         "traditions/camp-songs-cheers",
@@ -10023,7 +11017,7 @@
         "src_ia_kanawana_report_1974",
         "src_ia_kanawana_report_1975"
       ],
-      "open_questions": 5,
+      "open_questions": 4,
       "cross_links": [
         "site/the-kanawana-site",
         "people/multi-year-index",
@@ -10124,17 +11118,20 @@
         "src_ia_kanawana_report_1973",
         "src_ia_kanawana_report_1974",
         "src_ia_kanawana_report_1977",
-        "src_ia_ymca_montreal_annual_reports_collection"
+        "src_ia_ymca_montreal_annual_reports_collection",
+        "src_ymf_ka_news_1979_02_05",
+        "src_ymf_ka_news_1979_05"
       ],
-      "open_questions": 4,
+      "open_questions": 2,
       "cross_links": [
         "people/directors-index",
         "people/leo-robitaille",
         "people/a-ross-seaman",
-        "connections/institutional-lineage/canadian-camping-movement"
+        "connections/institutional-lineage/canadian-camping-movement",
+        "quebec-camping-association"
       ],
       "file_id": null,
-      "word_count": 3472
+      "word_count": 3898
     },
     {
       "article_id": "oldest-camp-question",
@@ -10147,9 +11144,33 @@
           "at": "2026-09-05T16:19:54Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0018",
         "f_0224",
@@ -10209,25 +11230,56 @@
         "f_4754",
         "f_4755",
         "f_4756",
-        "f_4776"
+        "f_4776",
+        "f_4835",
+        "f_4836",
+        "f_4837",
+        "f_4838",
+        "f_4839",
+        "f_4840",
+        "f_4843",
+        "f_4846",
+        "f_4848",
+        "f_4850",
+        "f_4851",
+        "f_4862",
+        "f_4950",
+        "f_5249"
       ],
       "sources_cited": [
         "src_cache_sgw_ymca_annual_report_1894_1895",
+        "src_campstephens_125_chapel_2016",
         "src_campstephens_alumni_blog",
         "src_cbc_bigcove_pandemic_summers",
         "src_cbc_wong_camps_2021",
         "src_concordia_fonds",
+        "src_ia_canadian_camping_1954_06",
         "src_ia_canadian_camping_collection",
         "src_ia_ymca_montreal_fonds_collection",
         "src_mcmorris_thesis",
+        "src_muse_kenora_camp_stephens_125",
         "src_newspapers_gazette_1918",
         "src_rky_camp",
         "src_ymca_halifax_165th_yearbook",
+        "src_ymca_yearbook_1893",
+        "src_ymca_yearbook_1894",
+        "src_ymca_yearbook_1895",
+        "src_ymca_yearbook_1896",
+        "src_ymca_yearbook_1897",
         "src_ymcahfx_bigcove_page",
         "src_ymf_ymca_impact_report_2022_eng",
-        "src_ywinnipeg_camp_stephens"
+        "src_ywinnipeg_camp_stephens",
+        "src_ymca_yearbook_1899",
+        "src_ymca_yearbook_1900",
+        "src_ymf_1928_come_to_kanawana_brochure",
+        "src_ymf_1929_come_to_kanawana_brochure",
+        "src_ymf_annual_report_1976_125_colourful_years",
+        "src_ymf_sgw_ymca_annual_report_1984",
+        "src_ymf_sgw_ymca_annual_report_1985",
+        "src_ball_basic_camp_management_2012",
+        "src_ia_ymca_montreal_news_bulletin_19_03"
       ],
-      "open_questions": 9,
+      "open_questions": 7,
       "cross_links": [
         "history/founding-1894",
         "history/timeline-overview",
@@ -10238,7 +11290,7 @@
         "connections/related-camps/quebec-camp-landscape"
       ],
       "file_id": null,
-      "word_count": 5161
+      "word_count": 8125
     },
     {
       "article_id": "points-of-contact",
@@ -10251,9 +11303,15 @@
           "at": "2026-09-05T16:53:19Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0193",
         "f_0194",
@@ -10312,7 +11370,9 @@
         "f_4793",
         "f_4794",
         "f_4795",
-        "f_4796"
+        "f_4796",
+        "f_4841",
+        "f_4842"
       ],
       "sources_cited": [
         "src_cache_sgw_ymca_annual_report_1894_1895",
@@ -10327,6 +11387,7 @@
         "src_oral_aronson_lv_trophy_gaps_2026",
         "src_photo_lv_annual_trophy",
         "src_rky_camp",
+        "src_rooted_beausoleil_ch5",
         "src_wikipedia_big_cove_sections",
         "src_ymca_ontario_camp_enumeration",
         "src_ymca_simcoe_kitchikewana",
@@ -10346,8 +11407,437 @@
         "connections/institutional-lineage/canadian-camping-movement"
       ],
       "file_id": null,
-      "word_count": 4770
+      "word_count": 5026
+    },
+    {
+      "article_id": "jared-macsween",
+      "title": "Jared MacSween",
+      "wiki_folder": "people",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_4805",
+        "f_4806",
+        "f_4810",
+        "f_4850"
+      ],
+      "sources_cited": [
+        "src_ymca_quebec_pip_macsween_2026",
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "traditions/pip-alumni-award",
+        "people/bruce-netherwood",
+        "people/notable-alumni/carol-skinner",
+        "people/hedley-dimock",
+        "connections/related-camps/points-of-contact"
+      ],
+      "file_id": null,
+      "word_count": 992,
+      "tags": [
+        "people",
+        "pip-award",
+        "ymca-camping"
+      ],
+      "notes": "Created 2026-09-05 (p_414) as a stub. One carrying source -- the 2026 Pip release -- plus one negative from the plaque corpus. Spawned on the camp record (camper 1982-86, staff 1987-91), which clears the article-spawning threshold before the later career is considered. Placed in core people/ rather than notable-alumni/ on CLAUDE.md's folder test: his camp role is the reason he is here, and he would not carry a Wikipedia-notable article without it."
+    },
+    {
+      "article_id": "tony-shorgan",
+      "title": "Tony Shorgan",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_2870",
+        "f_2871",
+        "f_2873",
+        "f_2932",
+        "f_2933",
+        "f_3146",
+        "f_3147",
+        "f_3149",
+        "f_3821",
+        "f_3826",
+        "f_4617",
+        "f_4620",
+        "f_4863",
+        "f_4864"
+      ],
+      "sources_cited": [
+        "src_cache_canadiancampingmagazine_vol17no3_1965april",
+        "src_ia_canadian_camping_collection"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "connections/institutional-lineage/canadian-camping-movement",
+        "people/directors-index"
+      ],
+      "file_id": null,
+      "word_count": 1324,
+      "tags": [
+        "people",
+        "quebec-camping-association",
+        "acq",
+        "institutions"
+      ],
+      "notes": "Created 2026-09-05 (p_336). Draft rather than stub: six sources, a dated chronology in his own words and a career across three decades of the provincial association. NO Kanawana connection is asserted -- he is here because the association he built accredits Kanawana and because this wiki's account of that association's descent rests on his testimony, and Open Question 3 says plainly that no source puts him and Kanawana's people in a room together."
+    },
+    {
+      "article_id": "maureen-mcbride",
+      "title": "Maureen McBride",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-09-06T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-06T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_5009",
+        "f_5010"
+      ],
+      "sources_cited": [
+        "src_ia_the_lookout_1993",
+        "src_ymf_annual_report_1989_202301",
+        "src_cache_sgw_ymca_annual_report_1990",
+        "src_cache_sgw_ymca_annual_report_1991",
+        "src_ymf_sgw_ymca_annual_report_1992",
+        "src_cache_sgw_ymca_annual_report_1993",
+        "src_cache_sgw_ymca_annual_report_1994",
+        "src_ymf_sgw_ymca_annual_report_1995"
+      ],
+      "open_questions": 5,
+      "cross_links": [
+        "camp-oolahwan",
+        "bruce-netherwood",
+        "camp-songs-cheers",
+        "centennial-1994",
+        "directors-index"
+      ],
+      "file_id": null,
+      "word_count": 1044,
+      "notes": "Spawned 2026-09-06 under p_441 from the first cover-to-cover read of The Lookout Vol. 1 No. 3.",
+      "tags": {
+        "era": [
+          "1980s",
+          "1990s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "committee",
+        "topics": [
+          "people",
+          "ymca_montreal",
+          "related_camps",
+          "songs"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "camp-thunderbird",
+      "title": "Camp Thunderbird",
+      "wiki_folder": "site",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-09-06T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-06T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_5035",
+        "f_5036",
+        "f_5037",
+        "f_1366",
+        "f_5038"
+      ],
+      "sources_cited": [
+        "src_ymf_1943_08_15_report_on_camp_thunderbird",
+        "src_ymf_1943_camp_thunderbird_brochure",
+        "src_ymf_sgw_ymca_annual_report_1944",
+        "src_ymf_sgw_ymca_annual_report_1943",
+        "src_ymf_sgw_ymca_annual_report_1945",
+        "src_ymf_sgw_ymca_annual_report_1946",
+        "src_ymf_sgw_ymca_annual_report_1947"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "camp-perrot",
+        "camp-otoreke",
+        "directors-index",
+        "coeducation-gender",
+        "attendance-series"
+      ],
+      "file_id": null,
+      "word_count": 1653,
+      "notes": "Spawned 2026-09-06 under p_441 from the first read of the 1943 season report. The camp was previously known to this project only as a Concordia sub-series number.",
+      "tags": {
+        "era": [
+          "1940s"
+        ],
+        "region": "laval",
+        "location_refs": [
+          "riviere des Mille Iles",
+          "Sainte-Rose",
+          "Sainte-Eustache",
+          "Plage Laval"
+        ],
+        "person_type": null,
+        "topics": [
+          "related_camps",
+          "ymca_montreal",
+          "site"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "association-founding-dates",
+      "title": "Founding Dates of the Camping Associations",
+      "wiki_folder": "connections/institutional-lineage",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06",
+          "by": "auto",
+          "task": "WRITE",
+          "note": "Spun out of canadian-camping-movement.md under p_452. Not a new research pass: the material was already E1-reviewed inside the parent, and it is entered as draft because the article's own structure, overview and open questions are new and have not been verified as a whole."
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [
+        "f_5247"
+      ],
+      "sources_cited": [
+        "src_ia_canadian_camping_collection",
+        "src_ia_ymca_montreal_news_bulletin_12_03"
+      ],
+      "cross_links": [
+        "canadian-camping-movement",
+        "oldest-camp-question",
+        "taylor-statten",
+        "founding-1894",
+        "quebec-camping-association",
+        "french-language-camping-national",
+        "movement-archive-turn"
+      ],
+      "file_id": null,
+      "word_count": 2424,
+      "open_questions": 3
+    },
+    {
+      "article_id": "quebec-camping-association",
+      "title": "The Quebec Camping Association / Association des Camps du Québec",
+      "wiki_folder": "connections/institutional-lineage",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06",
+          "by": "auto",
+          "task": "WRITE",
+          "note": "Second spinout from canadian-camping-movement.md under p_452, and the first one taken after the cross-article prose duplication audit (project-docs/prose-duplication-audit.md) established that the block was not already written elsewhere. 4,434 words of the parent's body moved, plus a new overview, open questions and cross-links. Entered as draft, not at the parent's E1-reviewed: the material was reviewed inside the parent, but this article's structure and framing are new and have not been verified as a whole."
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [],
+      "sources_cited": [
+        "src_ia_canadian_camping_collection",
+        "src_kk_prep_guide_2025",
+        "src_banq_acq_rapport_annuel",
+        "src_concordia_mirror_12n04"
+      ],
+      "cross_links": [
+        "canadian-camping-movement",
+        "association-founding-dates",
+        "derek-walsh",
+        "quebec-camp-landscape",
+        "camp-ouareau",
+        "oldest-camp-question",
+        "ymca-quebec-history",
+        "cca-national-office",
+        "cca-statistics",
+        "cca-director-certification",
+        "french-language-camping-national",
+        "movement-archive-turn"
+      ],
+      "file_id": null,
+      "word_count": 9524,
+      "open_questions": 8
+    },
+    {
+      "article_id": "cca-director-certification",
+      "title": "Certifying the Camp Director",
+      "wiki_folder": "connections/institutional-lineage",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06",
+          "by": "auto",
+          "task": "WRITE",
+          "note": "Tenth cut under p_452, and the first since the rule was written down. 1,861 words moved out of 'What the association did, and what it chose not to regulate', which the eighth cut had already flagged as honestly named but still more than one subject. This is the coherent arc inside it: the association declined to certify camp directors in 1982 and produced a literature instead, including the staff-manual specification and the first Canadian textbook of camp administration, written by a McGill professor who held his membership through Kanawana's own provincial association."
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [],
+      "sources_cited": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "cross_links": [
+        "canadian-camping-movement",
+        "quebec-camping-association",
+        "cca-national-office",
+        "cca-statistics",
+        "directors-index",
+        "derek-walsh"
+      ],
+      "file_id": null,
+      "word_count": 2886,
+      "open_questions": 4
+    },
+    {
+      "article_id": "french-language-camping-national",
+      "title": "French-Language Camping in the National Association",
+      "wiki_folder": "connections/institutional-lineage",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06",
+          "by": "auto",
+          "task": "WRITE",
+          "note": "Eleventh cut under p_452. Fourteen non-contiguous paragraphs, 1,735 words, drawn from two sections of the parent -- 'What the association did, and what it chose not to regulate' and 'The magazine's last three years, 1985-1987'. The thread runs 1967 to 1987: the Regina 1971 constitutional change and Abbe Paul Belanger, John Latimer's dissent, the French section of the Quebec association still outside the national body in 1967, the Commission des Camps d'Expression francaise, the two INCEF directory editions, and the 1987 language policy adopted to comply rather than on the association's own initiative."
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [],
+      "sources_cited": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "cross_links": [
+        "canadian-camping-movement",
+        "quebec-camping-association",
+        "french-language-camping",
+        "cca-national-office",
+        "association-founding-dates"
+      ],
+      "file_id": null,
+      "word_count": 2949,
+      "open_questions": 4
+    },
+    {
+      "article_id": "movement-archive-turn",
+      "title": "The Movement's Archive Turn, 1985-1987",
+      "wiki_folder": "connections/institutional-lineage",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07",
+          "by": "auto",
+          "task": "WRITE",
+          "note": "Twelfth cut under p_452, and a merge as well as a cut: it joins the history-making paragraphs from 'The magazine's last three years, 1985-1987' to the whole of the separate archives section, which were one subject filed in two places. Thirteen paragraphs, 1,493 words. Its first open question is the sharpest lead in the article: twice in two years every member camp in Canada was asked in writing to produce its own history, and Kanawana was a member camp both years."
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [],
+      "sources_cited": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "cross_links": [
+        "canadian-camping-movement",
+        "cca-national-office",
+        "association-founding-dates",
+        "quebec-camping-association",
+        "between-centennials"
+      ],
+      "file_id": null,
+      "word_count": 2947,
+      "open_questions": 4
+    },
+    {
+      "article_id": "geoffrey-guiton",
+      "title": "Geoffrey Guiton",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07",
+          "by": "auto",
+          "task": "WRITE",
+          "note": "Spun out of a paragraph in directors-index.md on the first criterion of the spinout rule -- his arc runs before and after the camp, and after it by a great deal. The Year Book gave the given name, the entry year of 1920 and an unbroken eight-volume run at North Branch; a QUOTED sweep of the book corpus gave a Rev. Geoffrey Guiton (1892-1947) of Montreal who founded the Fellowship of the West in 1929 and ended as a missionary schoolmaster in India. The article is deliberately written in two halves because the join between them is not established, and a fourth section plus f_5338 exist to stop a later pass promoting it quietly."
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_5326",
+        "f_5335",
+        "f_5336",
+        "f_5337",
+        "f_5338",
+        "f_5339"
+      ],
+      "sources_cited": [
+        "src_brochure_1922",
+        "src_ymf_1922_1923_ymca_north_branch_brochure",
+        "src_gas_bag_1923",
+        "src_umedia_ymca_yearbook_series",
+        "src_carrington_anglican_church_in_canada",
+        "src_cooper_blessed_communion",
+        "src_reisner_measure_of_faith",
+        "src_storrs_companions_of_the_peace",
+        "src_storrs_gods_galloping_girl",
+        "src_thomas_journey_to_india"
+      ],
+      "open_questions": 5,
+      "cross_links": [
+        "directors-index",
+        "founding-1894",
+        "canadian-camping-movement"
+      ],
+      "file_id": null,
+      "word_count": 1417
     }
   ],
-  "article_count": 93
+  "article_count": 118
 }

@@ -1,11 +1,34 @@
 # R.L. Charlton
 
-*Status: draft | Sources: 5*
-*Last Updated: 2026-08-14*
+*Status: draft | Sources: 9*
+*Last Updated: 2026-09-06 (he chaired the Junior Department in the camp's founding year)*
 
 ## Overview
 
 R.L. Charlton was a Montreal marine surveyor and "ardent YMCA worker" active in the camp's founding-era circle. A 1951 primary source credits him as the person who personally proposed the name "Kanawana," by analogy to a Furness Line steamship, and he later wrote one of the two foundational 1943 manuscript histories of the camp's earliest years.
+
+## The 1895 benefactors page, and the circle he belonged to
+
+One Montreal document places Charlton among the men this project has otherwise assembled separately.
+The *Report of the Point St. Charles Institute* for 1895 — a settlement mission in a working-class
+district — prints on consecutive lines: "**Life Benefactors: Charles Cushing, Robertson Macaulay, T.
+B. Macaulay, James Cochrane. Benefactors, 1894-95: Alexander, Chas.; Charlton, R. L.; Ames, H. B.;
+Cowan, Robt.; Armstrong, Dr.; Dougall, John & Son.**"^9
+
+Read against what this wiki already holds, that page is a map of a circle in the camp's founding year.
+**Charlton** was on Kanawana's first camp committee that same year, with John W. Ross and E. J. Coyle.
+**H. B. Ames**, the reformer, had sat with him on the Ontario and Quebec Provincial Committee
+appointed in February 1891. **Charles Cushing** was the notary son of [[people/cushing-family|Lemuel
+Cushing]], who took boys to Lake Saint-Joseph in 1892, and he had married Lily Macaulay — so he is
+listed here immediately before his father-in-law and brother-in-law, the two Sun Life Macaulays. And
+**Chas. Alexander** is the name of the confectioner who founded the Boys' Home of Montreal in 1870,
+which became Weredale House, whose camp the YMCA's Eastern District would be using by 1921 (see
+[[connections/related-camps/camp-weredale|Camp Weredale]]).
+
+*Three of those five are name matches rather than documented identifications* — "Alexander, Chas.",
+"Charlton, R. L." and "Charles Cushing" are common enough forms that only the city, the year and the
+milieu join them to the men named here. The Macaulay pair is near-certain, appearing in that order
+throughout the Sun Life literature. And nothing on the page mentions a camp.
 
 ## Career and YMCA Service
 
@@ -14,6 +37,41 @@ Charlton was a Montreal-based independent marine surveyor who maintained his own
 ## Proposing the Name "Kanawana"
 
 A 1951 primary source, "Kamp Kanawana History" (presented at a training course on June 6, 1951), states: "A great deal of thought was given to choosing a name for the camp. Mr. Charlton suggested Kanawana which was like the name of a Furness Steamer. At a later meeting the name Kanawana was adopted, which means in the Indian language lots to eat."^2 This is the only source identifying who specifically proposed the camp's name, and independently confirms the "lots to eat" translation from a primary rather than secondary account. No corroboration has been found of an actual ship named "Kanawana" in Furness Withy or Furness Bermuda Line vessel records, despite a four-surface search (two published fleet lists, a general Furness Withy history, and Lloyd's Register Foundation's digitized register collection) turning up zero matches. See [[traditions/myths-and-legends|Myths and Legends of Camp Kanawana]] for the full naming-origin discussion and search detail.
+
+## A documented seat, 1892-93
+
+The 41st Annual Report of the YMCA of Montreal, for 1891-92, prints "COMMITTEES OF THE BOARD, 1892-93",
+and under **Training Classes**:^6
+
+> "D. A. Budge, D. W. Corbett, T. D. Patton, W. H. Ball, **R. L. Charlton**."
+
+The same report's staff list gives **D. A. Budge** as General Secretary, **D. W. Corbett** as Assistant
+Secretary, **T. Duncan Patton**, and **W. H. Ball** as Physical Director.^6 So Charlton sat on an
+association board committee in **the year the camp syndicate was formed**, beside the general secretary,
+the assistant secretary who ran boys' work, the man who took out the 1891 camp, and the physical
+director who took out the 1894 one.
+
+**He chaired boys' work in the year the camp began.** The annual report for the year ending 30 April 1894 prints the committee in full:^8
+
+> **JUNIOR DEPARTMENT. R. L. CHARLTON, Chairman. P. H. CUSHING, Secretary.** F. W. Sharpe · R. C. Paterson · R. B. Ross, Jr. · G. W. Jones · Jno. J. Lomax · L. Winter · E. Evans · A. Arthur · **W. E. Cushing** · A. J. Lee · J. Radford · Geo. A. McBean · T. S. Somers · F. L. Whitby
+
+The Junior Department *is* boys' work, and the camp came out of boys' work — so in the summer Camp Jubilee was founded, the man at the head of the department that ran boys was Charlton. Note too that **R. B. Ross, Jr.**, who chairs the same committee five years later, sits on it here as an ordinary member; and that **two Cushings** are on it, P. H. Cushing as secretary and W. E. Cushing as a member, the same pairing the 1899 report shows on the Permanent Camp Committee.
+
+**A second seat, later, in the same department.** The annual report for the year ending 30 April 1899 puts him on the
+**Junior Department** committee again, this time as an ordinary member — R. B. Ross Jr. in the chair, F. A. Crowe secretary, and among the
+members **W. E. Cushing**, who wrote the companion 1943 manuscript, along with three more Cushings.^7
+That is closer to the camp than Training Classes was: the Junior Department is boys' work, and the same
+report prints the **Permanent Camp Committee** under **Chas. Cushing** with W. E. Cushing on it too.
+Charlton is not on the camp committees themselves.
+
+**This answers half of Open Question 2 and not the other half.** He held a documented formal position in
+the association. **It is not a camp role**: Training Classes is not a camp committee, and nothing here
+puts him at Lac St. Joseph.
+
+**What it does change is the standing of his 1943 manuscript.** He was in the association's committee
+rooms in 1892. "Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana" is therefore a
+participant's account written fifty-one years later, not a later hand compiling from papers — which
+raises it among the things worth asking Concordia for.
 
 ## The 1943 "Early Days" Manuscript
 
@@ -26,7 +84,7 @@ The Concordia Archives also hold undated photographs of "R. H. Dawson" (likely R
 ## Open Questions
 
 1. [New 2026-08-14, Important] Does R. L. Charlton in fact appear in Joyce Oliver's 1939–1940 "Material for Book of Remembrance and History" (Concordia sub-series 13D)? This article asserted he did, without a source; the assertion has been removed. The project is a real and promising founding-era lead whose contents have never been read.
-2. [Important] What was Charlton's specific role at Kanawana — was he a committee member, camp visitor, or held some other formal position? His YMCA and CBMU career is documented, but his direct camp involvement is inferred from the two manuscripts and the archival photograph pairing with Dawson.
+2. **[Half answered 2026-09-06 — see above.]** What was Charlton's specific role at Kanawana — was he a committee member, camp visitor, or held some other formal position? His YMCA and CBMU career is documented, and he is now documented on the association board's Training Classes committee for 1892-93; but **a camp role specifically** is still inferred from the two manuscripts and the archival photograph pairing with Dawson.
 3. [Important] The 1943 "Notes re Early Days" manuscript remains undigitized (Concordia Box HA1881); physical archive access is the only path to its full content.
 4. ~~[Nice-to-have] Can the "Furness Steamer" analogy be corroborated against actual Furness Withy or Furness Bermuda Line vessel names of the period?~~ [Exhausted 2026-07-11; count corrected 2026-08-14] A **four**-surface search (two fleet lists, a general history, Lloyd's Register Foundation's digitized collection) found zero matches — the article said "five" twice while enumerating four both times, and the KB fact lists four. Does not rule out an unindexed register year or smaller subsidiary, but remains uncorroborated.
 5. [Nice-to-have] What was Charlton's relationship to Ralph Dawson — co-leaders, committee colleagues, or fellow alumni? The only documented connection is the shared archival photo filing.
@@ -45,6 +103,10 @@ The Concordia Archives also hold undated photographs of "R. H. Dawson" (likely R
 3. Concordia Archives P0145/12A Finding Aid — Committees (Camping, Outdoor Programs) [src_concordia_p0145_12a_finding_aid].
 4. Concordia Archives — YMCA of Montreal Fonds P145 [src_concordia_fonds].
 5. Concordia Archives P0145/12A Finding Aid, photograph filing with R.H. Dawson [src_concordia_p0145_12a_finding_aid].
+6. YMCA of Montreal, **41st Annual Report, 1891-92** (published 19 May 1892) [src_cache_sgw_ymca_annual_report_1991_1992] — the staff list and "Committees of the Board, 1892-93". Cached under a filename misnumbered by a century; see [f_4901]. Read 2026-09-06 (p_253). See [f_4904].
+7. YMCA of Montreal, **Annual Report for the year ending 30 April 1899** [src_ia_ymca_montreal_annual_reports_collection] — the Junior Department, Permanent Camp Committee and Summer Camp lists. Read 2026-09-06. See [f_4908].
+8. YMCA of Montreal, **annual report for the year ending 30 April 1894** [src_ymf_sgw_ymca_annual_report_1893_1894], the Junior Department committee list; and the report for the year ending 30 April 1893 [src_ymf_sgw_ymca_annual_report_1892_1893], which announces D. W. Corbett's resignation as the assistant secretary in charge of that department, on his appointment as secretary of the Honolulu Association. Both cached in this repo and read 2026-09-06 under p_440 — **neither had been read before**. Searched in full for "camp", "tent", "outing", "St. Joseph" and "Agathe": the 1892-93 report returns nothing on any of them, and the 1893-94 report only a militia camp. Cached at `sources/cache/ymca-montreal-fonds/1890-1893-the-cushings-inside-the-association.txt`. See [f_4994], [f_4995].
+9. *Report of the Point St. Charles Institute* (Montreal, 1895), CIHM microform 04413 [src_point_st_charles_institute_1895]. The benefactors page, reconstructed 2026-09-06 from four overlapping Open Library search-inside queries; the item has not been read. Found by the index-form query "Charlton, R. L." See [f_5206].
 
 ## Research Notes
 

@@ -1,7 +1,7 @@
 # Between Centennials (1968–1993)
 
-*Status: draft | Sources: 19*
-*Last Updated: 2026-09-04*
+*Status: draft | Sources: 22*
+*Last Updated: 2026-09-06 (p_367's 'Threat to Camping' frame; then the 1983 guide entry and conflict c_065)*
 
 ## Overview
 
@@ -35,6 +35,38 @@ Several things follow for this decade. **Coeducation is registered as near-parit
 
 The **1976 season also ran straight through the Montreal Olympics** (17 July – 1 August), which fell across the end of the second session and the start of the third; camps nearer the city were advertising group accommodation to Olympic visitors in the same issue.^14 Whether that affected Kanawana's registration or programme is not recorded anywhere read so far, and is worth asking of the 1976 director's report.
 
+### The movement dated its own crisis, and Kanawana's 1970s should be read inside it
+
+Before any of the above is read as a story about one camp, it is worth knowing that the whole
+Canadian camping movement believed itself to be in trouble from 1972, and said so in its own
+president's voice.^20
+
+**John Latimer**, president of the Canadian Camping Association, in the autumn of 1972: "**Camping is
+having difficulties** and it is now our job to seek out the reasons and endeavour to overcome the
+causes. **Government legislation and 'red tape'; increased operational and land costs; more
+competition; more alternatives for parents and children; less public awareness; higher standards** …
+the list could go on and on." He closes: "**We are being threatened and we must do something about
+it!**" The association acted on it as a question about survival: the National Camp Directors Workshop
+held at **Geneva Park, Ontario, 1–4 February 1973**, was titled "**The Threat to Camping — What does
+Camping have to do to survive?**"^20
+
+**One of the cost pressures is federal, dated, and applies to Kanawana directly.** From 1972,
+counsellors and instructors in summer camps were in insurable employment: "Unemployment Insurance
+payments are required and **the Camp itself must also pay a premium**," with **no minimum age
+exemption**, no exemption for citizens of other countries, and none any longer for camp staff who were
+teachers or nurses the rest of the year. The threshold was published the following season: "anyone who
+receives a **minimum salary (including room and board) of $30.00 a week or more** must pay unemployment
+insurance — no matter what age — no matter what nationality." A reduced rate applied for 1972-73-74
+where the camp was run by a charitable institution, which the YMCA of Montreal was, and again for staff
+whose work was mostly teaching or instructing.^20
+
+Two consequences. **The camp's payroll costs rose in 1972 by an amount set in Ottawa**, at the front
+end of the decade in which its own record thins — so the thinning, the 1978 Quebec enrolment findings
+below, and this are three views of one squeeze rather than three separate facts. And **from 1972 every
+Kanawana counsellor and instructor generated federal employment paper**, which is a body of record
+about the camp's staff that exists outside the YMCA's own files and that this project has never looked
+for.
+
 ### Quebec camps were losing campers, and said so in 1978
 
 Kanawana's own enrolment through the 1970s is thinly documented, but the wider Quebec position is not. In October 1978 the Canadian Camping Association published the findings of **Marvin Granek's master's thesis in Recreation at the University of Waterloo**, a survey of Canadian resident-camp administrators' attitudes to what they regarded as their critical problems.^15 Two of its regional findings bear directly on this decade at Kanawana:
@@ -49,6 +81,32 @@ This is external, dated and regional rather than about Kanawana specifically, an
 
 ## The 1980s: The Second Thin Decade
 
+**One outside number for the decade, and one name this article cannot place.** An American guide, *Summer Camps & Programs* (1983), gives Kanawana a two-page entry and prints its registered particulars: **190 boys and girls, ages 7-19**, at Box 310, St. Sauveur des Monts, with the winter office at 1441 Drummond Street.^21 Both addresses and both telephone numbers match the 1975 and 1976 national directories exactly, so this is the camp's own return rather than a compiler's guess. **190 continues the registered-capacity series** — 180 in 1975, 189 in 1976 — into the decade this section calls thin, and **the age band has widened at both ends**, from 8-15 to 7-19, which is what an entry covering the CIT and LIT programmes alongside the camp proper would look like.
+
+The same entry names the **Director** as "**Louis Jean**", and that name occurs nowhere else in this project. It is **not** written into the record below, and Peter Goddard's account there is unchanged — **and a second American guide of the same season settles which way to lean.** Porter Sargent's *Guide to Summer Camps and Summer Schools* for **1983-84** prints "KANAWANA 189 Boys and Girls 7-15. St. Sauveur des Monts, Quebec. Est. 1894. **Peter G. Goddard**, Montreal Y.M.C.A., 1441 Drummond St."^22 So the disagreement is two published directories and the CCA's own 1982-83 report against a single occurrence of "Louis Jean". Four readings are open — a truncated "Louis-Jean [surname]", a directory working from stale returns, two different jobs under one word, or a Goddard span thinner than it looks — and they are set out at conflict `c_065` rather than decided here. A single unsupported occurrence in a scanned directory is exactly the shape a transcription error takes.
+
+**The Porter Sargent guides give the decade four more things.** The same series, in **1987**, prints
+"KANAWANA 190 Boys and Girls 7-15… Est. 1894. **Jay Netherwood**, Montreal Y.M.C.A." — which
+corroborates from outside the YMCA's own files a directorship this article had from the camp's records
+alone.^22 **"Est. 1894" is printed in both editions**, by an American publisher with no stake in the
+Canadian oldest-camp argument (see [[history/oldest-camp-question|Is Kanawana the Oldest Camp in
+Canada?]]). The **fee** is **$380 for two weeks** in 1983-84, with "Extras $20" appearing by 1987,
+against $210 in 1976. And accommodation is given as "**Tents. Cabins. C.I.T.**" — both kinds at once,
+with the CIT programme listed as a feature of the camp rather than a separate operation.
+
+**The Voyageurs programme was still running, and now has a shape.** Both editions carry the same
+sentence: "Canoe tripping is featured and trips range from **2 mile hikes to 100 mile wilderness canoe
+trips through northern Quebec according to age and ability of campers**… In **The Voyageurs Program**,
+**14-day wilderness canoe tripping** is featured for teenagers **13-18**."^22 This wiki has Les
+Voyageurs de la Vérendrye separately accredited in 1975 at fifteen boys and five girls aged 13-17, and
+folded into Kanawana's single directory entry in 1976. These two guides carry it a further decade, with
+a stated trip length and the same age band, which is the longest continuous run this project has for
+the programme. See [[traditions/canoe-trips|Canoe Trips at Kanawana]].
+
+**The rest of that entry, recovered on a slower second pass.** Sessions: **four two-week**, from the end of June to the third week in August, "depending on program". Fees: **Residential $370 for two weeks; Wilderness $385** — a two-tier price that keeps the wilderness programme separately costed seven years after it stopped being separately accredited, against **$210** a fortnight in the 1976 national directory. And the description: "Located 50 miles north of Montreal on **1,000 acres of wooded property**, this is a resident camp, with programs in wilderness tripping and counselor-training offered. **Both French- and English-speaking children attend, although the program is conducted in English.**"^21 The acreage is a third figure for the site and is recorded as a claim rather than a measurement at [[site/the-kanawana-site|The Kanawana Site]].
+
+*One thing that pass did settle about the name.* The Director field is **exactly two words** and runs straight into the next label, so **no surname was printed**. Nothing was lost to the scan, because nothing stood there — which weakens the easiest of the four readings at `c_065` without touching the other three.
+
 The 1980s are, after the 1947–1958 postwar gap, the thinnest-documented decade in Kanawana's directorial record. Twynam's tenure is last confirmed in 1980. Peter Gilling Goddard (1953–2016) is understood to have served as director for some or all of the 1981–1985 span. His connection was for a long time confirmed only by an obituary condolence mentioning "Kamp Kanawana," but two documents now place him there: he signs a Kanawana newsletter of **15 November 1982** "Peter G. Goddard, Director," and the Canadian Camping Association's Publicity and Public Relations report for **1982-83** thanks "**Peter Goddard and the staff of Kamp Kanawana in Montreal** for accepting the tremendous task of mailing to every camp" the 6,500 posters for the first National Camping Day of 14 April 1983 — work completed before that date, and the only known instance of Kanawana acting on behalf of the national camping association. That second item does not state his title, so it attests presence and responsibility in early 1983 rather than the office; the 1982 signature supplies the office. A third document places him at the turn of 1983-84: the association's President's Perspective for Winter 1984 lists its International Year of Youth Task Force as "Ian Fowler (N.B.), John Latimer (Ont.), **Peter Goddard (Qué.)** and Sylvia Haynes (B.C.)" — by province, not by camp, and again without a title. (Those pages are printed upside down in the scan and were machine-decoded; the name was checked glyph by glyph.) A fourth document, in clean type, closes the far end: in the spring of 1985 the president thanked her International Youth Year committee — "Sylvia Haynes, Vancouver, **Peter Goddard, Montreal**, John Latimer, Toronto and Ian Fowler, Moncton" — for work done "over many months," and the same issue's colophon lists "**Peter Goddard (Quebec)**" among the task force. **Five fixed points now span November 1982 to FY1986 with no year uncovered.** What they document is continuous presence in Montreal camping, at national level, across the whole period. The office of director is stated at both ends — the November 1982 signature and the FY1986 roster — and at neither of the points in between, and is not claimed here for those years.^7 ^16 ^17 ^18 Jay Netherwood directed the camp in 1986 and 1987, succeeded in 1988 by his brother Bruce Netherwood, whose own directorship would carry through to the camp's 1994 Centennial.^8 **And Netherwood is the one Kanawana director of this whole period documented from outside the YMCA of Montreal's own files.** In the Winter 1988 issue of *Canadian Camping Magazine* — the last the magazine ever published — he wrote a bilingual article on acid rain in the Laurentians, "L'Étranger / The Stranger," bylined "by Jay Netherwood, Camp Kanawana," calling on Quebec's camp directors to organise as the maple syrup producers had in 1978: "**Our responsibility must expand beyond ensuring that our campers have a safe and rewarding summer experience, it must also include that we are guardians of our fragile environment.**"^19 It is the only article by a Kanawana person in the magazine's entire 1949-1988 run, and it is set out in full at [[traditions/environmental-history|Environmental and Ecological History]]. Concordia's archives record "Situation reports profiling Kamp Kanawana, Camp Otoreke and Camp Weredale" from 1980, suggesting the three camps were being assessed together as a portfolio around this time — a rare institutional record from an otherwise sparse decade.^1 See [[people/directors-index|Directors and Staff of Camp Kanawana]] and [[people/bruce-netherwood|Bruce Netherwood]] for full detail on this transition.
 
 ## Open Questions
@@ -60,6 +118,7 @@ The 1980s are, after the 1947–1958 postwar gap, the thinnest-documented decade
 
 ## Related Articles
 
+- [[connections/institutional-lineage/movement-archive-turn|The Movement's Archive Turn, 1985-1987]] — twice in two years every member camp in Canada was asked in writing to produce its own history, and Kanawana was a member camp both years
 - [[history/coeducation-gender|Coeducation and Gender at Kanawana]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[people/notable-alumni/stuart-mclean|Stuart McLean]]
@@ -91,6 +150,9 @@ The 1980s are, after the 1947–1958 postwar gap, the thinnest-documented decade
 17. Jocelyn Palm, "President's Perspective," *Canadian Camping* Vol. 35 No. 4, Winter 1984, p. 6 [src_ia_canadian_camping_collection] — a 180° rotated scan, decoded with `scripts/reread/unrotate.py` and verified character by character.
 18. Jocelyn Palm, "President's Perspective," p. 3, and the International Youth Year Task Force colophon, p. 4 — *Canadian Camping* Vol. 37 No. 1, Spring 1985 [src_ia_canadian_camping_collection]. Clean type.
 19. Jay Netherwood (Camp Kanawana), "L'Étranger" / "The Stranger," *Canadian Camping Magazine* Vol. 39 No. 3 (Winter 1988), pp. 18-19 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 164).
+20. John Latimer, "A Letter from the President," and the calendar of meetings in "Cross Canada Checkup," *Canadian Camping* Vol. 25 No. 1 (Fall 1972), pp. 4-5 and 20; John Latimer, "Unemployment Insurance Changes," Vol. 24 No. 3 (Spring 1972); and "FLASH! Re: Unemployment Insurance," Vol. 24 No. 4 (Summer 1972) [src_ia_canadian_camping_collection]. Written up 2026-09-06 under p_367. See [f_4931].
+21. *Summer Camps & Programs* (1983), the entry "Kamp Kanawana-Montreal YMCA", pp. 172-173 per the book's own index [src_summer_camps_and_programs_1983]. **The head of the entry only**, reconstructed 2026-09-06 from nine overlapping Open Library search-inside queries; the book is lending-restricted and has not been read, and the walk stopped at the fees. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-summer-camps-and-programs-1983-kanawana.txt`. See [f_4945] and conflict `c_065`.
+22. Porter Sargent Publishers, *The Guide to Summer Camps and Summer Schools*, 1983-1984 (23rd edition) and December 1987 [src_porter_sargent_guides_1983_1987]. **One entry from each edition**, reconstructed 2026-09-06 from fifteen overlapping Open Library search-inside queries; both books are lending-restricted and neither has been read. The 1987 fee figure and the full in-camp activities list were not recovered. Cached with the queries at `sources/cache/openlibrary-search-inside/2026-09-06-porter-sargent-guides-1983-84-and-1987.txt`. See [f_4946].
 
 ## Research Notes
 
