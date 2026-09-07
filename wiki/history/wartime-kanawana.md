@@ -1,7 +1,7 @@
 # Kanawana in Wartime (1939-1946)
 
 *Status: E1-reviewed | Sources: 8*
-*Last Updated: 2026-09-07 (the 1940 season: hiking as the feature, and a Trading Post to outfit it)*
+*Last Updated: 2026-09-07 (a 1940 Kanawana brochure at Trent, unrestricted and not obtained)*
 
 ## Overview
 
@@ -81,6 +81,28 @@ Fifteen have passed **STAR SWIM**." Style was "judged by two staff members" over
 chute." The camp swimming champions of 1940 were Stan Christie (twelve and under), Bob Mahn (fifteen
 and under) and Roger Jaeger (leaders and staff), with Jack Liddy "the longest under water swimmer."
 
+## A document that exists and has not been obtained
+
+**Trent University Archives holds a Kanawana camp brochure dated 1940**, and this article should say so
+plainly because 1940 is a season it documents almost entirely at second hand.^trent The record is in the
+Ontario Camps Association fonds, **accession 72-007, Series 1 (Camp Brochures and Photographs), Box 1,
+Folder 5**, listed simply as "Kanawana (1940)", and **access is explicitly unrestricted**.
+
+Two things make it worth a request rather than a footnote. It sits **outside the YMCA's own archive**, so it
+is independent of the Concordia fonds this project otherwise leans on entirely for the period. And a
+brochure is a *recruiting* document: it states what the camp was offering the summer after the war began, in
+the camp's own promotional voice, which is a different register from the annual report and the newsletter
+that supply everything else here.
+
+The same fonds holds a second Kanawana brochure from **circa the 1970s** (accession 78-006, Series F, Box
+24, Folder 25) and a folder titled simply "**YMCA - Montreal**" (accession 84-019, Box 1, Folder 10). The
+association's own filing put Kanawana among "'Y' camps: Wanakita, Wa-sa-ah-bun, Tapatoo, Tapawingo,
+**Pinecrest**, Camp Stephens and Kanawana" — grouping it with the camp its
+[[traditions/lv-games|Lumbermen and Voyageurs Games]] were modelled on.
+
+**Neither brochure has been obtained.** Both are physical holdings requiring a request to Trent, which is
+operator work rather than something this project can do from here.
+
 ## Open Questions
 
 *Consolidated 2026-09-07 under p_481. This article previously carried its questions in two places under two names — a "## Research Gaps" section in the body and a "### Open Questions" list buried after the Sources, inside the verification notes. Both lists are merged here, unchanged in substance, in the template's position. The wartime period remains one of the less-documented eras of Kanawana's history.*
@@ -103,6 +125,8 @@ and under) and Roger Jaeger (leaders and staff), with Jack Liddy "the longest un
 - [[history/founding-1894|Founding of Camp Kanawana (1894)]]
 - [[documents/kanawana-in-media|Kanawana in Media]]
 ## Sources
+
+- ^trent: Ontario Camping Association fonds finding aid, Trent University Archives [src_trent_oca_finding_aid_pdf, src_trent_oca_fonds_78_006] — the **1940** Kanawana brochure at accession 72-007 Box 1 Folder 5, and the circa-**1970s** brochure at accession 78-006 Box 24 Folder 25. See [f_2231] and [f_2232]. Brought into this article 2026-09-07 under p_492.
 
 - ^ar: YMCA of Montreal Annual Reports 1941 and 1947 (Concordia-digitized run, Internet Archive) [src_ia_ymca_montreal_annual_reports_collection]
 - ^gt40: *The Green Triangle*, Issue 2, 21 July 1940, and Vol. 47 No. 4, 29 July 1940 [src_ymf_the_green_triangle_1940_07_21, src_ymf_the_green_triangle_1940_07_29]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. See [f_5520].
