@@ -1,7 +1,7 @@
 # Between Centennials (1968–1993)
 
-*Status: draft | Sources: 23*
-*Last Updated: 2026-09-07 (Twynam confirmed in post to April 1981)*
+*Status: draft | Sources: 24*
+*Last Updated: 2026-09-07 (the autumn 1978 works, and the four things the camp changed for 1979)*
 
 ## Overview
 
@@ -66,6 +66,41 @@ below, and this are three views of one squeeze rather than three separate facts.
 Kanawana counsellor and instructor generated federal employment paper**, which is a body of record
 about the camp's staff that exists outside the YMCA's own files and that this project has never looked
 for.
+
+### What Kanawana did in the same autumn
+
+The section below has the association's diagnosis of a declining market in October 1978. The camp's own
+staff bulletin, the same month, has what Kanawana was doing about it, and the two read as one story.^24
+
+**It dug.** *Ka-News* for October 1978: "at Kamp, we are in the midst of **installing a new septic system**.
+It will be large enough to 'accommodate' all Kamp wastes. In addition, **renovations are taking place in
+most of the staff quarters, dining hall, kitchen and Lodge**. Some of this work has been long overdue." By
+December "the new septic system is half complete and will also provide **a large new play field near the
+chief's cabin**." One works season put in the camp's first whole-site sewage capacity, renovated four
+buildings, and turned the spoil into a playing field.
+
+**And it tightened.** The December issue lists four changes for 1979, in writing, to the staff:
+
+- the **counsellor salary range increased by 25 per cent**, other salaries essentially unchanged;
+- anyone wishing to work as **tripper or tripper-counsellor** must hold a **St. John Ambulance First Aid
+  Certificate** and a minimum of a **Bronze Medallion**;
+- the positions of **Arts and Crafts assistant** and **waterfront auxiliary** were **abolished**;
+- and this: "**Kamp will be operated a little differently next year. A number of things that were tolerated
+  in the past will not be in '79.** Details will be discussed when you have your interview. **Senior
+  positions will in most cases require two or more interviews.**"
+
+That last is unusually blunt for a staff newsletter and names nothing at all. What it names *around* itself
+is a camp raising counsellor pay by a quarter, imposing certification on its trip staff, cutting two junior
+posts, and doubling the interview load for senior ones — in the same season as the association's report that
+Quebec resident camping may have peaked. Whether the bluntness follows an incident or a policy is not
+documented here.
+
+**One part of it was law rather than choice.** The French-language *Ka-News* of 29 March 1978 had already
+told staff that "il existe maintenant **une nouvelle loi** qui exige que **tout personnel aquatique possède
+son certificat de sauveteur**," with the next National Lifeguard Service course starting 22 April 1978 at
+the Westmount YMCA.^24 **The source does not name the law** and this article does not identify it; it is
+the kind of Quebec regulatory change [[connections/institutional-lineage/quebec-camping-association|the
+association article]] has been looking for.
 
 ### Quebec camps were losing campers, and said so in 1978
 
@@ -154,6 +189,7 @@ The 1980s are, after the 1947–1958 postwar gap, the thinnest-documented decade
 21. *Summer Camps & Programs* (1983), the entry "Kamp Kanawana-Montreal YMCA", pp. 172-173 per the book's own index [src_summer_camps_and_programs_1983]. **The head of the entry only**, reconstructed 2026-09-06 from nine overlapping Open Library search-inside queries; the book is lending-restricted and has not been read, and the walk stopped at the fees. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-summer-camps-and-programs-1983-kanawana.txt`. See [f_4945] and conflict `c_065`.
 22. Porter Sargent Publishers, *The Guide to Summer Camps and Summer Schools*, 1983-1984 (23rd edition) and December 1987 [src_porter_sargent_guides_1983_1987]. **One entry from each edition**, reconstructed 2026-09-06 from fifteen overlapping Open Library search-inside queries; both books are lending-restricted and neither has been read. The 1987 fee figure and the full in-camp activities list were not recovered. Cached with the queries at `sources/cache/openlibrary-search-inside/2026-09-06-porter-sargent-guides-1983-84-and-1987.txt`. See [f_4946].
 23. *Ka-News*, **January 1978**, **1 December 1979**, **6 February 1981** and **21 April 1981** [src_ymf_ka_news_1978_01, src_ymf_ka_news_1979_12_01, src_ymf_ka_news_1981_02_06, src_ymf_ka_news_1981_04_21]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
+24. *Ka-News*, the camp's staff bulletin, for **October 1978**, **December 1978** and **29 March 1978** [src_ymf_ka_news_1978_10, src_ymf_ka_news_1978_12, src_ymf_ka_news_1978_03_29]. The autumn **1978** works are at [f_5222]; the four staffing changes announced for **1979** are at [f_5223]. Brought into this article 2026-09-07 under p_492, the orphan-fact sweep.
 
 ## Research Notes
 

@@ -9816,7 +9816,10 @@
         "src_ymf_ka_news_1981_02_06",
         "src_ymf_ka_news_1981_04_21",
         "src_ymf_ka_news_1978_01",
-        "src_ymf_ka_news_1979_12_01"
+        "src_ymf_ka_news_1979_12_01",
+        "src_ymf_ka_news_1978_10",
+        "src_ymf_ka_news_1978_12",
+        "src_ymf_ka_news_1978_03_29"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -9832,7 +9835,7 @@
         "movement-archive-turn"
       ],
       "file_id": null,
-      "word_count": 4238,
+      "word_count": 4703,
       "notes": "2026-07-11: Workstream C4 spawn (3 of 4). Connective-narrative synthesis, no new research conducted. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit. | 2026-08-14 p_225 research: deep web research resolved three long-standing questions against PRIMARY sources (YMCA of Montreal news release 1970 + annual reports 1977-79 on Internet Archive; Camp Pascobac's own history page; broadcasting-history.ca).",
       "tags": {
         "era": [
