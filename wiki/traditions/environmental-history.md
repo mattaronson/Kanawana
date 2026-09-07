@@ -1,7 +1,7 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 52*
-*Last Updated: 2026-09-06 (p_349: Mary Edgar's 1970 conservation hymn)*
+*Status: E1-reviewed | Sources: 43*
+*Last Updated: 2026-09-07 (the acid-rain thread spun out; the mis-headed section renamed)*
 
 ## Overview
 
@@ -18,7 +18,7 @@ $9.5 million building fund for its 125th anniversary, the YMCA of Montreal liste
 "Camping & Outdoor Education," and all three were about this camp: "Development of a northern base
 camp for tripping and wilderness survival programs"; "Development of **year-round facilities** for
 the YMCA, community and education groups at Kamp Kanawana"; and "**Development of an Ecology Centre
-at Kamp Kanawana**."^47 The campaign's own summary said the money would "make Kamp Kanawana a
+at Kamp Kanawana**."^38 The campaign's own summary said the money would "make Kamp Kanawana a
 **year-round camping and outdoor education centre**" — which is the 2006 repositioning, proposed
 and costed in 1976. The French text uses the same words: *un centre d'écologie au Kamp Kanawana*.
 
@@ -27,19 +27,19 @@ reports for 1977-78 through 1986 and Kanawana's own directors' reports for 1976 
 searched for it. "Ecolog" occurs in exactly one of the thirteen documents, and it is a staff
 training course — the 1976 director's report sends "Misty McKay, Vermont Ecology School, Vermont."
 There is no ecology centre, no year-round facility and no northern base camp in any of them; the
-"Camping and Outdoor Education" that does appear is the name of a branch committee.^48
+"Camping and Outdoor Education" that does appear is the name of a branch committee.^39
 
 **That is a null, not a demolition.** It shows the association never reported building the thing,
 which is not the same as showing it was never built. What the money demonstrably did: the 1980-81
 balance sheet still carries "Due to 1976 Capital Campaign Fund — 342,526"; the 1984 report has the
 Foundation laying groundwork for "a much needed major Capital Development Program to commence in
 1985," a second campaign; and the 1985 report describes funds applied "exclusively to repair the
-buildings and replace equipment at our branches and Kamp Kanawana."^48 Repair and replacement, in
+buildings and replace equipment at our branches and Kamp Kanawana."^39 Repair and replacement, in
 other words, and not an ecology centre.
 
 **And this does not answer it either.** Nor is the sum
 recoverable: the amounts are right-aligned in both language columns and the OCR drifts them, so the
-figure against "Camping & Outdoor Education" is illegible and has not been guessed.^47 What the
+figure against "Camping & Outdoor Education" is illegible and has not been guessed.^38 What the
 document establishes is intent, named, in print, in 1976.
 
 The camp's "virage vert" (green shift) began in 2006 with the goal of reducing Kanawana's ecological footprint and repositioning it as an outdoor education centre; every building renovated or constructed from 2006 onward was energy-efficient and incorporated educational elements.^17 The green shift enabled the camp to serve "four times more young people" than before, transforming it from a summer-only operation into a three-season environmental education facility.^22 In February 2009, Les Y du Québec announced a further revitalization phase with new accommodation facilities; environmental features documented at the time included green sanitary installations, heat exchangers, composting toilets, and an artificial wetland system (marais artificiel) for wastewater treatment.^17 In 2010, TELUS contributed $50,000 toward a three-season educational pavilion at the camp.^23
@@ -55,7 +55,7 @@ schools and community groups** that will visit Kanawana in the spring and fall";
 grants table prices two of the programmes — **Multigenerational Organic Garden, Pointe-St-Charles
 YMCA and YMCA Kanawana, $17,100**, "organic gardening to increase awareness of healthy eating
 habits, organic agriculture, and composting among children and adults", and **Environmental
-Education, YMCA Kanawana, $6,700**, "environmental education program for campers".^49
+Education, YMCA Kanawana, $6,700**, "environmental education program for campers".^40
 
 **The two copies are the same report reached by two routes**, and this project holds a separate
 source record for each: the Wayback copy behind note 24 has no cache file, and the Internet Archive
@@ -69,18 +69,18 @@ it had reached the wiki before 2026-09-06. It dates the idea: "In the **fall of 
 dreaming of developing our camp YMCA Kanawana into **Quebec's first 'green' camp** — a year-round
 centre dedicated to outdoor and environmental education." A "multi-disciplinary team of
 professionals and stakeholders" then worked through "a **non-traditional integrated design
-process**".^50
+process**".^41
 
 **The budget was $4.4 million before it was $5 million.** The 2006 report describes a "**4-season
 eco-pavilion and 3-season installations** to welcome children, youth and families year-round" as
 "an investment of **$4.4 million**"; the 2007 report gives "close to $5 million in total". The
-figure was revised upward between the two years, and neither is wrong.^50
+figure was revised upward between the two years, and neither is wrong.^41
 
 **Construction started in December 2006, and the specification is precise.** "In **December 2006**,
 we began the construction of **2 new sanitary installations** which will include **16 toilets, sinks
 and showers each**. These **3-season buildings** will use **natural light and ventilation** and water
 will be heated by **high-efficiency wood boilers that produce only trace emissions**. Toilets will be
-composting — **a first for Quebec camps** — which will significantly reduce water and energy use."^50
+composting — **a first for Quebec camps** — which will significantly reduce water and energy use."^41
 
 **And the access programme has a three-year series, not a single figure.** In summer 2006, "**12% of
 campers received financial assistance to go to camp, a threefold increase over 2004**" — which puts
@@ -95,7 +95,7 @@ referred by the **Saint-Laurent CLSC**; **refugee claimants from the YMCA Reside
 Saint-Michel** involved in **C-Vert**, "a collaborative project with the **Stephen Bronfman
 Foundation** and **TOHU** (the Cité des arts du cirque)". All staff that year "were trained in human
 rights and **40 Developmental Assets** educational approaches", and the year's environmental
-programme was named "**Wildlife Gaining Ground**".^50
+programme was named "**Wildlife Gaining Ground**".^41
 
 **The year before that, and the only copy of it is in French.** There is no English 2005-2006
 annual report in this project and no Wayback copy, so the French edition is the sole witness to the
@@ -104,7 +104,7 @@ développement d'un lieu unique… le camp YMCA Kanawana", and: "Le projet de d�
 **un centre d'éducation à l'environnement et au plein air ouvert à l'année, accueillant plus de
 5 000 personnes** provenant de tous les milieux et ce, dans un climat de tolérance et de respect.
 **Une campagne de financement de 4 millions $ est présentement en cours et permettra le début des
-travaux en 2007.**"^51
+travaux en 2007.**"^42
 
 **Three money figures, and they are not three versions of one number.** The **$4 million** here is a
 **fundraising campaign** then under way; the **$4.4 million** in the 2006 report and the "close to
@@ -121,7 +121,7 @@ year-round and three-season use the new buildings were designed for.
 programmes" — that is **every YMCA programme across the association**, not Kanawana, and it is not
 comparable to the camp's own 12% and 19% assistance shares.
 
-**Where Phase I got to, and what it cost in donations.** The report for the year ended 31 December 2009: "Phase I of the Kanawana Development Project is coming to an end. The camp's young campers and counsellors will soon be able to experience the **12 new three-season cabins erected this year** on its wonderfully forested site in Saint-Sauveur. The cabins and the two sanitary facilities (completed in 2007), were made possible thanks to **over $1.8 million in donations**. The fundraising campaign is ongoing with the final objective being the construction of **two learning pavilions in 2010-2011**, thus completing Phase I."^52
+**Where Phase I got to, and what it cost in donations.** The report for the year ended 31 December 2009: "Phase I of the Kanawana Development Project is coming to an end. The camp's young campers and counsellors will soon be able to experience the **12 new three-season cabins erected this year** on its wonderfully forested site in Saint-Sauveur. The cabins and the two sanitary facilities (completed in 2007), were made possible thanks to **over $1.8 million in donations**. The fundraising campaign is ongoing with the final objective being the construction of **two learning pavilions in 2010-2011**, thus completing Phase I."^43
 
 **That is a fourth money figure and it measures something different again.** The $1.8 million is **donations actually received** by the end of 2009, against the **$4 million campaign target** of 2005-06 and the **$4.4 to $5 million project investment** of 2006 and 2007. Set together they say the campaign was somewhat under halfway at the point Phase I's buildings were finished, which is a fact about the fundraising and not about the buildings.
 
@@ -175,7 +175,7 @@ The McConnell Foundation provided $700,000 in funding (2023–2027) for major re
 
 In 2018, Desjardins donated $1 million to the YMCA for renovations at Camp Kanawana, including a new community pavilion to expand the camp's environmental education mission.^11
 
-## Historical Antecedents
+## Before the Green Shift: antecedents, and the movement's environmental turn, 1918-1982
 
 The camp's engagement with nature is not entirely modern. The 1918 summer season offered instruction in "nature study" alongside first aid, basket-making, and camp sanitation.^13 By 1922, the camp held a chartered tribe in the Woodcraft League of America, whose nature study and outdoor skills programming embedded ecological awareness in the badge system.^17b The broader Woodcraft and nature study traditions of the early camping movement provided the philosophical groundwork for contemporary environmental education.
 
@@ -186,7 +186,7 @@ A dedicated Nature Awareness program was created by Chris Adam (listed as "Chris
 The earliest environmental statement in the national camping press this project holds is not an
 article. It is a hymn, printed in November 1970 by **Mary S. Edgar** — founder of Glen Bernard, first
 director of the YWCA's Camp Oolahwan in the Laurentians, and by then Honorary President of the Canadian
-Camping Association — as one of four texts under the heading "A Page of Poems."^46 It is called
+Camping Association — as one of four texts under the heading "A Page of Poems."^37 It is called
 "**Hymn for the Space-Age**", set to the tune **Forest Green**, and its third and fourth verses are a
 conservation argument in the form of a doxology:
 
@@ -206,7 +206,7 @@ eighty-one when she wrote it.
 
 **It is her third Centennial-era hymn**, after "Canada's Our Country", sung at the National Centenary
 Campfire of 9 August 1967 (see [[history/centennial-1967|Kanawana's Centennial]]), and "This Fair Land,
-Our Canada" in the spring of 1969.^46 The through-line from the first two to this one is the country;
+Our Canada" in the spring of 1969.^37 The through-line from the first two to this one is the country;
 what is new in 1970 is that keeping it clean is what the gratitude consists of.
 
 Edgar's own camp connection to Kanawana runs through [[connections/related-camps/camp-oolahwan|Camp
@@ -246,26 +246,6 @@ Several of the twenty are worth recording for what they show about 1979 practice
 
 Read against Kanawana's own record, the code names, in 1979, several things the camp would come to in its own time — the erosion problem it had confessed in 1970, the trail resting and reforestation of the 1980 Nature Awareness programme, and the composting and waste separation of the Green Shift a generation later.
 
-### Acid rain reaches the camping press, 1979
-
-In October 1979 the association reprinted a long article from *The Probe Post* on acid rain, addressed explicitly to "those of us who are concerned with children living near 'living lakes'."^37 It is the first environmental threat in this run that a camp could do nothing about from inside its own fence, and Quebec is named among the places receiving it: Ontario "emits large quantities of acids that cause acid rains in the province and **in Quebec, Eastern Canada and Northeastern U.S.**"
-
-The figures given are those of the period: uncontaminated rain has a pH of about 5.6, while the mean pH of precipitation in south-central Ontario was between **3.95 and 4.38**, with one snowfall measured at **2.97 — "over 400 times the acidity of normal precipitation"**; of 209 lakes tested near Sudbury, **20 per cent were "dead" and another 50 per cent threatened**; Inco's 1,250-foot stack emitted "an average of **3,600 tons of sulphur dioxide daily**", more than any other single source in North America, and in July 1979 Ontario had just revised its 1970 control order to let that rate continue. The article also notes a second effect beyond fish kills — "**there seems to be a connection between relatively small rises in lake acidity and significant increases in mercury levels in fish**."
-
-Nothing here is about Kanawana, and no measurement of its own lakes from this period is known to this project. What the article establishes is that by 1979 the acidification of Canadian Shield lakes was being put to camp directors as their problem, in their own trade press, with Quebec named as downwind of Ontario's emissions — which is the context for any later water-quality record from Lake Kanawana, Lake Wilson or Round Lake, and a reason to look for one from these years (see [[site/lake-wilson|Lake Wilson]]).
-
-**Two years later the projection had hardened into a number.** In October 1981 the association gave six of its pages to a National Survival Institute fact sheet, "Preservation of Wildlife and its Habitat: just one aspect of Stewardship," whose acid-rain line is a single sentence: "**in Ontario alone some 200 lakes are already 'dead' and 48,000 may be lost by the turn of the century**."^38 Against the 1979 article's count of 209 lakes tested near Sudbury with a fifth dead, that is a claim about the whole province and about a horizon nineteen years out. The rest of the sheet moves the subject beyond acidification to the things a camp's own naturalist could not see from the waterfront: mercury dumped into the English-Wabigoon River by Dryden Chemicals between 1962 and 1970, "making its fish — the staple diet of the Indian villages of White Dog and Grassy Narrows — unsafe to eat"; the 1979 federal regulation allowing molybdenum tailings to be dumped into Alice Arm at "concentrations 16,000 times higher than allowed by the Fisheries Act"; the Dempster Highway across the range of the Porcupine caribou herd; the George River herd endangered "because of excessive hunting in **Northern Quebec**"; and, as counterweight, the Berger Inquiry's proposed sanctuaries and peregrine falcons "being bred at centres in Alberta, Saskatchewan and **Quebec**" and released to the wild. Its closing list of what a reader can do is aimed squarely at a camp: walk a nature trail, join a wildlife association, write to your elected representative, borrow a wildlife film from the National Film Board, start a children's wildlife club, put up a bird feeder — and subscribe children to *Chickadee* and *Owl*.
-
-Neither piece is a Kanawana document, and neither names the camp. Together they date what the environmental content of a Canadian camp's own nature programme was being fed from the outside between 1979 and 1981: not general conservation sentiment, but named companies, named rivers, named herds and a projected count of dead lakes.
-
-### An acid rain teaching kit was posted to member camps, 1982
-
-Three months later the association turned the subject into something a camp could hold. In Winter 1982 it announced the National Survival Institute's **Acid Rain Awareness Twinning Project**, "suitable for **10-13 year-olds**", whose aim was "to twin organized youth groups (**in our case, CAMPS**) to exchange information, project ideas, and points of view" — hoping for pairings between Canadian and American groups, "or at least two groups from different regions of Canada".^39 A free **ACID RAIN EDUCATION KIT** was offered to any participating camp, containing a **colouring poster** for every child, a **map of North America showing all areas subject to acid rain**, take-home information, fact sheets for leaders on causes, effects and proposed solutions, resource information, and project ideas and discussion questions. "**The CCA/ACC Environment Committee heartily endorses this project and encourages the CCA/ACC Member Camps to take advantage of this offer**", with the note that "**le 'kit' est également disponible en français**". To order, a camp sent its name, its director's name, its address, its telephone, **the number of campers participating** and the number of leaders' kits required to the Institute at 229 College Street, Toronto.
-
-This is the only item in the run that is neither a policy, an article nor a standard but a **physical teaching package addressed to camps**. Kanawana was a member camp of the association and was therefore eligible; **whether it ordered a kit is not known and is not claimed here.** Two things follow. A list of participating camps, with camper counts, once existed at the National Survival Institute — worth asking for. And a colouring poster and a North American acid-rain map are the kind of object that survives in a craft cupboard, a scrapbook or a cabin wall long after the paperwork is gone, so they are worth asking former staff and campers about by name.
-
-The same issue records the committee's own next step. **Peter Rasberry**, its chairman, reported that "**the first task of the committee is to prepare an Environmental Ethic — a statement of our values and concerns for our natural world. This ethic will become the basis for a set of principles and practices (personal and institutional) to guide us in continued enjoyment, appreciation, and sensible interaction with Nature**", and asked provincial environmental committees to send representatives, since the working core was "necessarily formed by folks living somewhat close to each other — in this case — Southern Ontario".^39 That is the stage after the twenty Environmental Maintenance Standards of 1979 described above: a national statement of environmental ethics under drafting in 1982, which if completed would have gone to every accredited camp. Whether it was finished is not known to this project, but it slipped: three months later the committee reported that the ethic "**initially… was to be completed by March 1982, as per the CCA/ACC Action Plan, but this date has now been extended to September 1982**", with drafting help from **Jim Hopkins, Tom Knowlton, Grant Linney, Diane Bertling and Susan Erskine**, joined by Kevin Moore of Newfoundland, Rob McIntosh of Alberta and John Jorgenson of Ontario.^40 September 1982 is therefore the date from which to look for a finished text, in the CCA fonds at Trent or in the association's own newsletter. It is worth noting what the association already had in print while that ethic was being drafted: **Kirk Wipper's *Woodsmanship Leaders' Guide*** (CCA, 155 pp., 1979, $6.00), an outgrowth of the national Woodsmanship Leaders' Schools, which "presents the **Woodsman's Code, a list of thirty-three points** anyone using the wilderness should obey in order to make a minimum impact there", and which appeared in French as ***Le Manuel du Coureur des Bois*** — same length, same year, translated by Rosaire Corbin of the Quebec association, its French text naming the doctrine as "le mouvement '**impact minimum**' en camping".^41 So alongside the twenty Environmental Maintenance Standards of 1979 described above, a thirty-three point wilderness code was in print in both official languages and on sale to every member camp from that year, published with federal money. The same report records the committee's other two subjects that spring — circulating the National Survival Institute's Acid Rain Education Kit to member camps, and "the potential for input by our association to the development of **skills programs in Canada's National Parks**" — both driven by the executive director, Marjorie Booth.^40
-
 ### The 1970 erosion crisis
 
 The camp's environmental awareness did not begin with the 2006 Green Shift, and its most striking early statement is a confession rather than a programme. The *Kamp Kanawana Annual Report 1970* records:^33
@@ -273,16 +253,6 @@ The camp's environmental awareness did not begin with the 2006 Green Shift, and 
 > "Since we use only a small area of our 1,000 acres we have finally worn all the earth away. One section (Pioneers) is eroded so badly that there is no green area over most of the section… The main areas we use 90% of the time (camp proper) **do not look like a camp but a section of St. Catherine Street**."
 
 That is a camp comparing its own grounds to a downtown Montreal shopping street, in its own internal report, thirty-six years before the "green camp" branding.
-
-### 1987: restoration, and acid rain
-
-Seventeen years later the same report series documents four camper-led restoration projects in a single season — a Junior Boys forest project planting 100 seedlings, a CIT reforestation project, a CIT stair-and-retaining-wall project specifically for erosion control, and path closures directed by the camp's naturalist, **Chris Adam**.^33 The erosion problem of 1970 was being worked on by campers, which is a more interesting institutional history than a policy adopted from above.
-
-The same 1987 report records a problem the camp could not fix by itself:^33
-
-> "Many of our large maples are dead or dying and the Tassés must cut more down each year. At this rate, **in 5-7 years there will be no large trees left**."
-
-That is acid rain, at its Quebec peak, recorded from the ground by the people watching it happen. Whether the projection came true is not documented here, and would be worth checking against the present tree cover.
 
 ### Land area: an unresolved discrepancy
 
@@ -298,47 +268,22 @@ The camp's stated acreage varies by a factor of nearly seven across the record, 
 
 The 1964 purchase is itself notable: lot 215 was bought **jointly with the Boy Scouts' Camp Tamaracouta**, and lots 216–217 outright, expressly to block "a proposed summer colony of some 200 lots."^33 And the 1988 report contains the line that explains the whole table: **"There was no record found that showed the Kanawana site has ever been surveyed."**
 
-### Acid rain reaches the Laurentians by name, 1984
 
-The whole of the Winter 1984 issue of *Canadian Camping* was given to acid rain, and it carries the first statement in the magazine's entire run that describes the acidification of **Kanawana's own water by region** rather than by national aggregate. Jeff Reading of Kilcoo Camp wrote:
+### Acid rain — moved to its own article
 
-> "**In Quebec the problem may be more serious.** When the glaciers retreated across this region they removed much of the buffering material from the northern lakes and deposited them in the south. **Most lakes north of the St. Lawrence River have already been acidified. Further, eighty percent of the lakes and streams in the Laurentian Shield have acid levels high enough to kill plankton and interfere with fish reproduction.**"^42
+**The acid-rain material that stood here has become an article.** It ran to 3,420 words inside a
+section that was headed "Historical Antecedents" and whose antecedents amounted to about 140 words —
+the mis-heading is corrected above, and the thread itself now sits at
+[[traditions/acid-rain|Acid Rain and the Camps, 1979-1988]].
 
-Kanawana sits on Lac Wilson at Saint-Sauveur, in the Laurentians, north of the St. Lawrence. Reading gives the mechanism — glacial stripping of buffering material from the northern lakes — a national average rainfall pH of **4.3**, the "spring shock" of acid stored in snow releasing at melt, and the finding that acid kills or deforms fry "before acid levels reach a point dangerous to adult fish," so a lake could be failing while still looking and fishing normally to the people on it. The accompanying editorial adds *TIME*'s figure of "**some 1,300 [lakes] in Quebec… in the process of being destroyed**" and a Gallup finding that **77% of Canadians thought acid rain the gravest environmental problem the country faced**. None of this is a measurement of Lac Wilson, and none is presented as one; it is the contemporary description of the water system Kanawana's canoe trips ran through, published in the year the camp's own record is thinnest.^42
-
-**What a camp was being asked to do about it.** Reading set out five experiments requiring almost no equipment: wind charts traced back to the emitting region; a four-container pH comparison of rainwater, distilled water, vinegar and ammonia, with questions about where in a storm, where on a site and in what season a sample is taken; daily pH logging of lake water, rainfall, post-rain lake water and tap water as part of a camp weather station; a bedrock-sensitivity experiment comparing marble against crushed local granite; and **"Canoe Trip Testing" — "if you are a camp that has a reasonably extensive canoe tripping program (to distinctly different water sheds) then test the pH levels of the various lakes visited over the course of the summer… examine how the pH of frequently visited lakes changes during the summer."** Kanawana was exactly such a camp; **no evidence has been found that it did this**, and the proposal is recorded here as what the movement was asking of tripping camps in 1984, not as Kanawana practice. Reading also warned camps in affected areas to run the taps for several minutes after a period of non-use, because acidified water leaches aluminum, lead and copper out of plumbing — a closing-and-opening precaution with obvious application to a seasonal camp.^42
-
-**And the association itself had said nothing — its own magazine says so.** The editorial of the same issue:
-
-> "Yet **the Canadian Coalition on Acid Rain has indicated that the Canadian Camping Association is not even a member!!** Why is it that those with so much to lose often have little to say?… **We have, on paper, a national environment committee and still no word on acid rain, no position, no dissemination of information, no commitment!**"
-
-A member's letter in the same issue makes the charge from outside: Doug Caldwell of the Federation of Ontario Naturalists lists the fifty organizations in the Canadian Coalition on Acid Rain — from the Inuit Tapirisat of Canada to Resorts Ontario — and observes that "**noticeably absent in this list is the Canadian Camping Association or any Provincial Camping Associations. Is it the mandate of your Association to remain apolitical?**"^42 That is the national environment committee traced above, from Peter Rasberry's 1981 report through the 1982 Environmental Ethic and the Acid Rain Education Kit, assessed by its own association's magazine as having produced nothing on the defining environmental question of the period. In the same issue **Jean Funk of Alberta** is announced as the committee's new chairperson, and her own report a few months later shows how little had been in place: "**October 1983 saw a fresh start for the Environment Committee**," with a revised action plan, a review of Environment Canada material, a recommended liaison with the National Trail Association, correspondence with forestry industries, a proposed **Energy Camp as a joint venture with the Terry Fox Centre in Ottawa** — and, listed among the year's initiatives, "**drafted the 'CCA Environmental Ethic'**," with the hope of "the acceptance of the 'CCA Environmental Ethic' in 1984."^43 **The Environmental Ethic traced above from 1982 was therefore still an unadopted draft in the spring of 1984** — which is the measure of the inertia the Winter 1984 editorial was complaining about.
-
-**It was adopted that summer, and every member camp received one.** Writing to member camps in the winter of 1985, Funk opens: "**This summer you received the Canadian Camping Association Environmental Ethic, and the accompanying sheet 'We, the campers and staff of Camp ______'**."^44 The Ethic's text is short — a preamble recognising "the finiteness of the earth's natural resources," the "sensitive dynamic balance which exists among all living organisms and the non-living elements," and "the moral and ethical responsibility of each person to care for the earth, both now and for future generations"; a personal pledge "to strive to learn and live in a manner in which I use responsibly the earth's resources" and a professional one "to design, develop, operate and maintain all programs, sites and facilities in an ecologically sound manner"; and five undertakings, of which the last is "to promote the wise use of our natural heritage — woods, water, wildlife, air and soils."
-
-**Two things follow for Kanawana.** It was an accredited member camp of the ACQ, and in Quebec every member camp was an accredited one, so **the Ethic and its pledge sheet reached Kanawana in the summer of 1984**. And the sheet was meant to become an object: camps were asked to have "all participating campers and staff **sign**" it and "**post it in a visible place, near the Ethic Statement, at your camp**" — so a Kanawana sheet bearing a season's signatures may survive in the camp's papers or in a photograph, and is worth looking for. What Kanawana did with either document is not recorded anywhere this project has found; the despatch is what is documented.^44
-
-Funk's accompanying suggestions are the era's environmental programme menu in one page: adopt a stream, a series of out-trip sites or a roadway and keep it clean; run water, light, heating, waste-recycling and transport conservation programmes, "skills and knowledge to campers and staff — and savings for you"; reclaim an eyesore; teach planting, thinning and pruning, and "**plan for the campers of 2085, by planting trees this year**"; build a nest-box trail and feed birds in winter; and ask "**where does your waste water go? What garbage can you reuse, reduce, or recycle?**"^44
-
-### Kanawana's own director answers, 1988
-
-The acid-rain thread above runs from October 1979, when the movement first put the subject to camp directors as their own problem, through the 1982 teaching kit posted to member camps, Jeff Reading's "Understanding the Problem at Camp" in 1984, and the Environmental Ethic adopted that year. In every one of those, Kanawana is part of the audience and never part of the record.
-
-In the **last issue *Canadian Camping* ever published**, Winter 1988, that changes. The magazine printed, in French and then in English, an article bylined "**by Jay Netherwood, Camp Kanawana**" — the camp's own director, writing to the camp directors of his province.^45 It is titled "**L'Étranger / The Stranger**":
-
-> "**Would you let a stranger walk around your camp with a chain saw, cutting down all the mature trees? Of course not. Well in fact we camp directors in Quebec are doing exactly that. The stranger's name is acid rain**, or more properly, acid precipitation, for melting snow is the deadliest form this stranger assumes.
->
-> **If your camp is located in the Canadian Shield (especially the Laurentians) or south of the St.-Lawrence River then your flora and fauna have been irreparably damaged.**… The problem with acid precipitation is that it is a slow killer; our lakes look healthy, the outer branches of our coniferous trees look green and vibrant… **But walk away from your birches and maples and look at the top, where the new growth should be — notice the bare branches? Look at the inside part of the branch of your pines and spruces — are the needles brown? Have you seen more dead tadpoles floating near the edge of your lake? Have you noticed how much quieter your site is on a warm July night when you used to be able to drift off to sleep, serenaded by a frog chorus?**
->
-> **Our lakes are becoming vinegar.** Our mature trees are suffering from die-back… **Our amphibious life is dying. And what are we doing? Nothing.**
->
-> **In 1978, concerned maple syrup producers banded together to form a body to lobby governments and industry, but in 1987 what have we camp directors done?**… **Our responsibility must expand beyond ensuring that our campers have a safe and rewarding summer experience, it must also include that we are guardians of our fragile environment**… what is at stake here is much more than a few camp directors' jobs — **it's an industry devoted to people — an industry that is concerned and scared.**
->
-> Individually, we should as educators, promote environmental literacy, **for our campers and staff of today will become tomorrow's industrialists and politicians. Let's become acquainted with this stranger. Let's take the chain saw out of its hands.**"
-
-**This is the only article by a Kanawana person in the 164 issues of the run**, and it is the only place in that run where someone at Kanawana acts on the movement's environmental programme rather than being counted by it. It also corrects this project's own earlier note: the article was catalogued as French-language; **it is bilingual, French set first**.
-
-**What it is not.** Netherwood names no lake, gives no pH, cites no measurement, and does not mention Kanawana's own water. Nothing here is a record of the chemistry of Lake Kanawana, Lake Wilson or Round Lake, and none is inferred. **What it is** is a general statement made by a person with particular knowledge: the sentence "if your camp is located in the Canadian Shield (especially the Laurentians)… then your flora and fauna have been irreparably damaged" is written by the director of a camp in exactly that position, and the questions he puts to his readers — bare crowns on the birches, brown needles on the inside of the spruce branches, dead tadpoles at the lake edge, a July night gone quiet — read as a list of things he had gone and looked for. That is the closest this project has come to an observation of Kanawana's own ecology in the 1980s, and it is offered at that strength and no higher.
+**What belongs here is the shape of it.** *Canadian Camping* first put acid rain to camp directors as
+their own problem in **October 1979**; the association posted a teaching kit to every member camp in
+**1982**; the whole **Winter 1984** issue was given to the subject and named the Laurentians; every
+accredited Quebec member camp received the association's **Environmental Ethic** that summer; the
+camp's own **1987** report recorded its large maples "dead or dying"; and in **Winter 1988**, in the
+last issue the magazine ever published, **Jay Netherwood of Camp Kanawana** wrote to the movement
+about it. The 1987 camper-led restoration projects moved with that subsection, because the report
+that records them is the report that records the maples.
 
 ## Alumni Environmental Impact
 
@@ -372,6 +317,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 ## Related Articles
 
 - [[history/timeline-overview|Timeline Overview: Camp Kanawana Decade by Decade]]
+- [[traditions/acid-rain|Acid Rain and the Camps, 1979-1988]] — the movement's argument, and Kanawana's own dying maples
 - [[site/the-kanawana-site|The Kanawana Site]]
 - [[traditions/programs-activities|Programs and Activities at Kanawana]]
 - [[people/notable-alumni/notable-alumni|Notable Alumni of Camp Kanawana]]
@@ -423,22 +369,13 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 34. Kevin Redmond, "No Trace Camping," *Canadian Camping* Vol. 31 No. 2 (March 1979), pp. 6-7, 12 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 124). A statement of wilderness ethics circulated to every accredited Canadian camp, not a Kanawana document.
 35. "Your Camp and Its Environment," *Canadian Camping* Vol. 31 No. 4 (June 1979), pp. 3, 12 [src_ia_canadian_camping_collection] — twenty Environmental Maintenance Standards developed at a Conference of Canadian Interpreters, reprinted from the Alberta Camping Association *Newsletter*, May 1979. Found by the same read (issue 126). A national code circulated to accredited camps, not a Kanawana document.
 36. Karl Hartwick, John Jorgenson and Jim Gear, "Canoe Tripping in the Twentieth Century," *Canadian Camping* Vol. 31 No. 5 (October 1979), pp. 4-5 [src_ia_canadian_camping_collection]. Found by the same read (issue 127).
-37. "Acid Rain," reprinted from *The Probe Post* (Probe, 43 Queen's Park Crescent E., Toronto), in *Canadian Camping* Vol. 31 No. 5 (October 1979), pp. 3, 9-10 [src_ia_canadian_camping_collection]. Found by the same read (issue 127).
-38. "Preservation of Wildlife and its Habitat: just one aspect of Stewardship," a fact sheet prepared by and reprinted with the permission of the National Survival Institute, 229 College St., Toronto, in *Canadian Camping* Vol. 33 No. 5 (October 1981), pp. 3-4, 15, 21-24 [src_ia_canadian_camping_collection]. Found by the same read (issue 139).
-39. "Announcing: Acid Rain Awareness Twinning Project" and Peter Rasberry, "From the Environment Committee," *Canadian Camping* Vol. 33 No. 6 (Winter 1982), pp. 14-15 [src_ia_canadian_camping_collection]. Found by the same read (issue 140).
-40. Peter Rasberry, "Environment Committee," in the CCA/ACC Annual Report 1981, *Canadian Camping* Vol. 34 No. 2 (Summer 1982), pp. 9-10 [src_ia_canadian_camping_collection]. Found by the same read (issue 142).
-41. CCA/ACC *Publications 1982-83* catalogue, bound as an insert to *Canadian Camping* Vol. 34 No. 3 (Autumn 1982), pp. 17-18 [src_ia_canadian_camping_collection]. Found by the same read (issue 144).
-42. Jeff Reading (Kilcoo Camp), "Acid Rain: Understanding the Problem at Camp," pp. 13-16; the bilingual editorial "Acid Rain: Not Just A Catchphrase!"; the letter from Doug Caldwell; and Jocelyn Palm, "President's Perspective" — all in *Canadian Camping* Vol. 35 No. 4 (Winter 1984) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 149). The President's Perspective page is printed 180° rotated in the scan and was decoded with `scripts/reread/unrotate.py`.
-43. Jean Funk, "Environment Committee," in the CCA/ACC Annual Report 1983, *Canadian Camping* Vol. 36 No. 2 (Summer 1984) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 151).
-44. Jean Funk, "Dear CCA Member Camps," and the full text of the "Canadian Camping Association Environmental Ethic," *Canadian Camping* Vol. 36 No. 4 (Winter 1985), pp. 5-6 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 153).
-45. Jay Netherwood (Camp Kanawana), "L'Étranger" / "The Stranger," *Canadian Camping Magazine* Vol. 39 No. 3 (Winter 1988), pp. 18-19, printed in French and English [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 164). The only article by a Kanawana person in the magazine's 1949-1988 run.
-46. Mary S. Edgar, "A Page of Poems" — "A Director's Meditation," "Hymn for the Space-Age" (Tune: Forest Green), "Postpone the Verdict" and "Outdoor Blessing" — *Canadian Camping* Vol. 23 No. 1 (November 1970) [src_ia_canadian_camping_collection]. Her two earlier Centennial hymns are "Canada's Our Country," printed with the National Campfire ceremony in Vol. 19 No. 4 (June 1967), and "This Fair Land, Our Canada — A Centennial Hymn" in the Spring 1969 issue. Written up 2026-09-06 under p_349. See [f_3453], [f_3454], [f_3343].
-47. *125 Colourful Years*, YMCA of Montreal 125th-anniversary publication, 1976 [src_ymf_annual_report_1976_125_colourful_years]. Cached at `sources/cache/ymca-montreal-fonds/annual-report-1976-125-colourful-years.txt`. See [f_5044]. Read 2026-09-06 under p_441 for its timeline and its building-fund plan; the branch reporting that makes up most of the volume is not read.
-48. YMCA of Montreal annual reports for 1977-78 through 1986, and the Kamp Kanawana directors' reports for 1976-1979 [src_cache_sgw_ymca_annual_report_1977_1978, src_cache_sgw_ymca_annual_report_1978_1979, src_ymf_sgw_ymca_annual_report_1979_1980, src_ymf_sgw_ymca_annual_report_1980_1981, src_ymf_sgw_ymca_annual_report_1981_1982, src_ymf_sgw_ymca_annual_report_1982_1983, src_ymf_sgw_ymca_annual_report_1984, src_ymf_sgw_ymca_annual_report_1985, src_ymf_sgw_ymca_annual_report_1986, src_ia_kanawana_directors_report_1976]. Searched for the 1976 campaign's promises. See [f_5046].
-49. YMCA of Montreal annual report 2007, the Concordia-digitized copy [src_ymf_sgw_ymca_annual_report_2007], pp. on the Kanawana Development Project and the grants table. THE SAME DOCUMENT AS NOTE 24, reached by a different route: note 24 is the Wayback copy (src_ymcaquebec_annualreport_2007, no cache file), this is the Internet Archive copy of the Concordia digitization, and the two carry the same $5 million framing and the same 19% assistance figure. Read 2026-09-06; the duplicate pair is logged for p_442.
-50. YMCA of Montreal annual report 2006, the Concordia-digitized copy [src_ymf_sgw_ymca_annual_report_2006], the "YMCA Kanawana Development Project" and "Community Outreach" pages. NO WAYBACK COPY OF THIS YEAR EXISTS in this project, unlike 2007-2009, so nothing in it had been read by any route before 2026-09-06.
-51. YMCA du Grand Montréal, rapport annuel 2005-2006 [src_ymf_sgw_ymca_annual_report_2005_2006_fr], the Foundation pages and the President's message. THE ONLY COPY OF THIS YEAR THIS PROJECT HOLDS IS THE FRENCH EDITION -- there is no English 2005-2006 file in the cache and no Wayback copy -- so nothing in it had been read before 2026-09-06.
-52. Montreal YMCA annual report for the year ended 31 December 2009 [src_ymf_sgw_ymca_annual_report_2009], "Kanawana: significant progress". Read 2026-09-06 under p_454.
+37. Mary S. Edgar, "A Page of Poems" — "A Director's Meditation," "Hymn for the Space-Age" (Tune: Forest Green), "Postpone the Verdict" and "Outdoor Blessing" — *Canadian Camping* Vol. 23 No. 1 (November 1970) [src_ia_canadian_camping_collection]. Her two earlier Centennial hymns are "Canada's Our Country," printed with the National Campfire ceremony in Vol. 19 No. 4 (June 1967), and "This Fair Land, Our Canada — A Centennial Hymn" in the Spring 1969 issue. Written up 2026-09-06 under p_349. See [f_3453], [f_3454], [f_3343].
+38. *125 Colourful Years*, YMCA of Montreal 125th-anniversary publication, 1976 [src_ymf_annual_report_1976_125_colourful_years]. Cached at `sources/cache/ymca-montreal-fonds/annual-report-1976-125-colourful-years.txt`. See [f_5044]. Read 2026-09-06 under p_441 for its timeline and its building-fund plan; the branch reporting that makes up most of the volume is not read.
+39. YMCA of Montreal annual reports for 1977-78 through 1986, and the Kamp Kanawana directors' reports for 1976-1979 [src_cache_sgw_ymca_annual_report_1977_1978, src_cache_sgw_ymca_annual_report_1978_1979, src_ymf_sgw_ymca_annual_report_1979_1980, src_ymf_sgw_ymca_annual_report_1980_1981, src_ymf_sgw_ymca_annual_report_1981_1982, src_ymf_sgw_ymca_annual_report_1982_1983, src_ymf_sgw_ymca_annual_report_1984, src_ymf_sgw_ymca_annual_report_1985, src_ymf_sgw_ymca_annual_report_1986, src_ia_kanawana_directors_report_1976]. Searched for the 1976 campaign's promises. See [f_5046].
+40. YMCA of Montreal annual report 2007, the Concordia-digitized copy [src_ymf_sgw_ymca_annual_report_2007], pp. on the Kanawana Development Project and the grants table. THE SAME DOCUMENT AS NOTE 24, reached by a different route: note 24 is the Wayback copy (src_ymcaquebec_annualreport_2007, no cache file), this is the Internet Archive copy of the Concordia digitization, and the two carry the same $5 million framing and the same 19% assistance figure. Read 2026-09-06; the duplicate pair is logged for p_442.
+41. YMCA of Montreal annual report 2006, the Concordia-digitized copy [src_ymf_sgw_ymca_annual_report_2006], the "YMCA Kanawana Development Project" and "Community Outreach" pages. NO WAYBACK COPY OF THIS YEAR EXISTS in this project, unlike 2007-2009, so nothing in it had been read by any route before 2026-09-06.
+42. YMCA du Grand Montréal, rapport annuel 2005-2006 [src_ymf_sgw_ymca_annual_report_2005_2006_fr], the Foundation pages and the President's message. THE ONLY COPY OF THIS YEAR THIS PROJECT HOLDS IS THE FRENCH EDITION -- there is no English 2005-2006 file in the cache and no Wayback copy -- so nothing in it had been read before 2026-09-06.
+43. Montreal YMCA annual report for the year ended 31 December 2009 [src_ymf_sgw_ymca_annual_report_2009], "Kanawana: significant progress". Read 2026-09-06 under p_454.
 
 ## Research Notes
 

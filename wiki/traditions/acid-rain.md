@@ -1,0 +1,140 @@
+# Acid Rain and the Camps, 1979-1988
+
+*Status: draft | Sources: 10*
+*Last Updated: 2026-09-07*
+
+## Overview
+
+Between 1979 and 1988 the Canadian camping movement argued with itself about acid rain, and the
+argument ended with **Kanawana's own director writing the last word in the last issue the movement's
+magazine ever published**.
+
+The arc is unusually complete for anything in this wiki. In **October 1979** *Canadian Camping* first
+put acid rain to camp directors as their own problem. In **1982** the association posted a teaching
+kit to every member camp. The whole of the **Winter 1984** issue was given to the subject, and it
+carries the first statement in the magazine's entire run describing the acidification of **Kanawana's
+own water by region** rather than by national aggregate — while its editorial admitted that the
+Canadian Camping Association "is not even a member" of the Canadian Coalition on Acid Rain. That
+summer every member camp received the association's **Environmental Ethic** and a pledge sheet. In
+**1987** Kanawana's own report recorded the thing itself: "Many of our large maples are dead or dying
+… at this rate, in 5-7 years there will be no large trees left." And in **Winter 1988** the magazine
+printed "**by Jay Netherwood, Camp Kanawana**": *"Would you let a stranger walk around your camp with
+a chain saw, cutting down all the mature trees? … The stranger's name is acid rain."*
+
+**Kanawana is not a spectator here**, which is what distinguishes this from the movement's other
+internal arguments. The camp sits on Lac Wilson, north of the St. Lawrence, in exactly the region the
+1984 issue identified as worst placed — glaciers having stripped the buffering material from the
+northern lakes — and its own staff were counting dead maples three years before its director wrote to
+the movement about them.
+
+Split out of [[traditions/environmental-history|Environmental and Ecological History]] on 2026-09-07,
+where it had grown to 3,420 words inside a section headed "Historical Antecedents" — of whose 5,435
+words only about 140 were antecedents.
+
+### Acid rain reaches the camping press, 1979
+
+In October 1979 the association reprinted a long article from *The Probe Post* on acid rain, addressed explicitly to "those of us who are concerned with children living near 'living lakes'."^1 It is the first environmental threat in this run that a camp could do nothing about from inside its own fence, and Quebec is named among the places receiving it: Ontario "emits large quantities of acids that cause acid rains in the province and **in Quebec, Eastern Canada and Northeastern U.S.**"
+
+The figures given are those of the period: uncontaminated rain has a pH of about 5.6, while the mean pH of precipitation in south-central Ontario was between **3.95 and 4.38**, with one snowfall measured at **2.97 — "over 400 times the acidity of normal precipitation"**; of 209 lakes tested near Sudbury, **20 per cent were "dead" and another 50 per cent threatened**; Inco's 1,250-foot stack emitted "an average of **3,600 tons of sulphur dioxide daily**", more than any other single source in North America, and in July 1979 Ontario had just revised its 1970 control order to let that rate continue. The article also notes a second effect beyond fish kills — "**there seems to be a connection between relatively small rises in lake acidity and significant increases in mercury levels in fish**."
+
+Nothing here is about Kanawana, and no measurement of its own lakes from this period is known to this project. What the article establishes is that by 1979 the acidification of Canadian Shield lakes was being put to camp directors as their problem, in their own trade press, with Quebec named as downwind of Ontario's emissions — which is the context for any later water-quality record from Lake Kanawana, Lake Wilson or Round Lake, and a reason to look for one from these years (see [[site/lake-wilson|Lake Wilson]]).
+
+**Two years later the projection had hardened into a number.** In October 1981 the association gave six of its pages to a National Survival Institute fact sheet, "Preservation of Wildlife and its Habitat: just one aspect of Stewardship," whose acid-rain line is a single sentence: "**in Ontario alone some 200 lakes are already 'dead' and 48,000 may be lost by the turn of the century**."^2 Against the 1979 article's count of 209 lakes tested near Sudbury with a fifth dead, that is a claim about the whole province and about a horizon nineteen years out. The rest of the sheet moves the subject beyond acidification to the things a camp's own naturalist could not see from the waterfront: mercury dumped into the English-Wabigoon River by Dryden Chemicals between 1962 and 1970, "making its fish — the staple diet of the Indian villages of White Dog and Grassy Narrows — unsafe to eat"; the 1979 federal regulation allowing molybdenum tailings to be dumped into Alice Arm at "concentrations 16,000 times higher than allowed by the Fisheries Act"; the Dempster Highway across the range of the Porcupine caribou herd; the George River herd endangered "because of excessive hunting in **Northern Quebec**"; and, as counterweight, the Berger Inquiry's proposed sanctuaries and peregrine falcons "being bred at centres in Alberta, Saskatchewan and **Quebec**" and released to the wild. Its closing list of what a reader can do is aimed squarely at a camp: walk a nature trail, join a wildlife association, write to your elected representative, borrow a wildlife film from the National Film Board, start a children's wildlife club, put up a bird feeder — and subscribe children to *Chickadee* and *Owl*.
+
+Neither piece is a Kanawana document, and neither names the camp. Together they date what the environmental content of a Canadian camp's own nature programme was being fed from the outside between 1979 and 1981: not general conservation sentiment, but named companies, named rivers, named herds and a projected count of dead lakes.
+### An acid rain teaching kit was posted to member camps, 1982
+
+Three months later the association turned the subject into something a camp could hold. In Winter 1982 it announced the National Survival Institute's **Acid Rain Awareness Twinning Project**, "suitable for **10-13 year-olds**", whose aim was "to twin organized youth groups (**in our case, CAMPS**) to exchange information, project ideas, and points of view" — hoping for pairings between Canadian and American groups, "or at least two groups from different regions of Canada".^3 A free **ACID RAIN EDUCATION KIT** was offered to any participating camp, containing a **colouring poster** for every child, a **map of North America showing all areas subject to acid rain**, take-home information, fact sheets for leaders on causes, effects and proposed solutions, resource information, and project ideas and discussion questions. "**The CCA/ACC Environment Committee heartily endorses this project and encourages the CCA/ACC Member Camps to take advantage of this offer**", with the note that "**le 'kit' est également disponible en français**". To order, a camp sent its name, its director's name, its address, its telephone, **the number of campers participating** and the number of leaders' kits required to the Institute at 229 College Street, Toronto.
+
+This is the only item in the run that is neither a policy, an article nor a standard but a **physical teaching package addressed to camps**. Kanawana was a member camp of the association and was therefore eligible; **whether it ordered a kit is not known and is not claimed here.** Two things follow. A list of participating camps, with camper counts, once existed at the National Survival Institute — worth asking for. And a colouring poster and a North American acid-rain map are the kind of object that survives in a craft cupboard, a scrapbook or a cabin wall long after the paperwork is gone, so they are worth asking former staff and campers about by name.
+
+The same issue records the committee's own next step. **Peter Rasberry**, its chairman, reported that "**the first task of the committee is to prepare an Environmental Ethic — a statement of our values and concerns for our natural world. This ethic will become the basis for a set of principles and practices (personal and institutional) to guide us in continued enjoyment, appreciation, and sensible interaction with Nature**", and asked provincial environmental committees to send representatives, since the working core was "necessarily formed by folks living somewhat close to each other — in this case — Southern Ontario".^3 That is the stage after the twenty Environmental Maintenance Standards of 1979 (set out at [[traditions/environmental-history|Environmental and Ecological History]]): a national statement of environmental ethics under drafting in 1982, which if completed would have gone to every accredited camp. Whether it was finished is not known to this project, but it slipped: three months later the committee reported that the ethic "**initially… was to be completed by March 1982, as per the CCA/ACC Action Plan, but this date has now been extended to September 1982**", with drafting help from **Jim Hopkins, Tom Knowlton, Grant Linney, Diane Bertling and Susan Erskine**, joined by Kevin Moore of Newfoundland, Rob McIntosh of Alberta and John Jorgenson of Ontario.^4 September 1982 is therefore the date from which to look for a finished text, in the CCA fonds at Trent or in the association's own newsletter. It is worth noting what the association already had in print while that ethic was being drafted: **Kirk Wipper's *Woodsmanship Leaders' Guide*** (CCA, 155 pp., 1979, $6.00), an outgrowth of the national Woodsmanship Leaders' Schools, which "presents the **Woodsman's Code, a list of thirty-three points** anyone using the wilderness should obey in order to make a minimum impact there", and which appeared in French as ***Le Manuel du Coureur des Bois*** — same length, same year, translated by Rosaire Corbin of the Quebec association, its French text naming the doctrine as "le mouvement '**impact minimum**' en camping".^5 So alongside those same twenty Environmental Maintenance Standards, a thirty-three point wilderness code was in print in both official languages and on sale to every member camp from that year, published with federal money. The same report records the committee's other two subjects that spring — circulating the National Survival Institute's Acid Rain Education Kit to member camps, and "the potential for input by our association to the development of **skills programs in Canada's National Parks**" — both driven by the executive director, Marjorie Booth.^4
+### Acid rain reaches the Laurentians by name, 1984
+
+The whole of the Winter 1984 issue of *Canadian Camping* was given to acid rain, and it carries the first statement in the magazine's entire run that describes the acidification of **Kanawana's own water by region** rather than by national aggregate. Jeff Reading of Kilcoo Camp wrote:
+
+> "**In Quebec the problem may be more serious.** When the glaciers retreated across this region they removed much of the buffering material from the northern lakes and deposited them in the south. **Most lakes north of the St. Lawrence River have already been acidified. Further, eighty percent of the lakes and streams in the Laurentian Shield have acid levels high enough to kill plankton and interfere with fish reproduction.**"^6
+
+Kanawana sits on Lac Wilson at Saint-Sauveur, in the Laurentians, north of the St. Lawrence. Reading gives the mechanism — glacial stripping of buffering material from the northern lakes — a national average rainfall pH of **4.3**, the "spring shock" of acid stored in snow releasing at melt, and the finding that acid kills or deforms fry "before acid levels reach a point dangerous to adult fish," so a lake could be failing while still looking and fishing normally to the people on it. The accompanying editorial adds *TIME*'s figure of "**some 1,300 [lakes] in Quebec… in the process of being destroyed**" and a Gallup finding that **77% of Canadians thought acid rain the gravest environmental problem the country faced**. None of this is a measurement of Lac Wilson, and none is presented as one; it is the contemporary description of the water system Kanawana's canoe trips ran through, published in the year the camp's own record is thinnest.^6
+
+**What a camp was being asked to do about it.** Reading set out five experiments requiring almost no equipment: wind charts traced back to the emitting region; a four-container pH comparison of rainwater, distilled water, vinegar and ammonia, with questions about where in a storm, where on a site and in what season a sample is taken; daily pH logging of lake water, rainfall, post-rain lake water and tap water as part of a camp weather station; a bedrock-sensitivity experiment comparing marble against crushed local granite; and **"Canoe Trip Testing" — "if you are a camp that has a reasonably extensive canoe tripping program (to distinctly different water sheds) then test the pH levels of the various lakes visited over the course of the summer… examine how the pH of frequently visited lakes changes during the summer."** Kanawana was exactly such a camp; **no evidence has been found that it did this**, and the proposal is recorded here as what the movement was asking of tripping camps in 1984, not as Kanawana practice. Reading also warned camps in affected areas to run the taps for several minutes after a period of non-use, because acidified water leaches aluminum, lead and copper out of plumbing — a closing-and-opening precaution with obvious application to a seasonal camp.^6
+
+**And the association itself had said nothing — its own magazine says so.** The editorial of the same issue:
+
+> "Yet **the Canadian Coalition on Acid Rain has indicated that the Canadian Camping Association is not even a member!!** Why is it that those with so much to lose often have little to say?… **We have, on paper, a national environment committee and still no word on acid rain, no position, no dissemination of information, no commitment!**"
+
+A member's letter in the same issue makes the charge from outside: Doug Caldwell of the Federation of Ontario Naturalists lists the fifty organizations in the Canadian Coalition on Acid Rain — from the Inuit Tapirisat of Canada to Resorts Ontario — and observes that "**noticeably absent in this list is the Canadian Camping Association or any Provincial Camping Associations. Is it the mandate of your Association to remain apolitical?**"^6 That is the national environment committee traced at [[traditions/environmental-history|Environmental and Ecological History]], from Peter Rasberry's 1981 report through the 1982 Environmental Ethic and the Acid Rain Education Kit, assessed by its own association's magazine as having produced nothing on the defining environmental question of the period. In the same issue **Jean Funk of Alberta** is announced as the committee's new chairperson, and her own report a few months later shows how little had been in place: "**October 1983 saw a fresh start for the Environment Committee**," with a revised action plan, a review of Environment Canada material, a recommended liaison with the National Trail Association, correspondence with forestry industries, a proposed **Energy Camp as a joint venture with the Terry Fox Centre in Ottawa** — and, listed among the year's initiatives, "**drafted the 'CCA Environmental Ethic'**," with the hope of "the acceptance of the 'CCA Environmental Ethic' in 1984."^7 **The Environmental Ethic, under drafting since 1982, was therefore still unadopted in the spring of 1984** — which is the measure of the inertia the Winter 1984 editorial was complaining about.
+
+**It was adopted that summer, and every member camp received one.** Writing to member camps in the winter of 1985, Funk opens: "**This summer you received the Canadian Camping Association Environmental Ethic, and the accompanying sheet 'We, the campers and staff of Camp ______'**."^8 The Ethic's text is short — a preamble recognising "the finiteness of the earth's natural resources," the "sensitive dynamic balance which exists among all living organisms and the non-living elements," and "the moral and ethical responsibility of each person to care for the earth, both now and for future generations"; a personal pledge "to strive to learn and live in a manner in which I use responsibly the earth's resources" and a professional one "to design, develop, operate and maintain all programs, sites and facilities in an ecologically sound manner"; and five undertakings, of which the last is "to promote the wise use of our natural heritage — woods, water, wildlife, air and soils."
+
+**Two things follow for Kanawana.** It was an accredited member camp of the ACQ, and in Quebec every member camp was an accredited one, so **the Ethic and its pledge sheet reached Kanawana in the summer of 1984**. And the sheet was meant to become an object: camps were asked to have "all participating campers and staff **sign**" it and "**post it in a visible place, near the Ethic Statement, at your camp**" — so a Kanawana sheet bearing a season's signatures may survive in the camp's papers or in a photograph, and is worth looking for. What Kanawana did with either document is not recorded anywhere this project has found; the despatch is what is documented.^8
+
+Funk's accompanying suggestions are the era's environmental programme menu in one page: adopt a stream, a series of out-trip sites or a roadway and keep it clean; run water, light, heating, waste-recycling and transport conservation programmes, "skills and knowledge to campers and staff — and savings for you"; reclaim an eyesore; teach planting, thinning and pruning, and "**plan for the campers of 2085, by planting trees this year**"; build a nest-box trail and feed birds in winter; and ask "**where does your waste water go? What garbage can you reuse, reduce, or recycle?**"^8
+### 1987: restoration, and acid rain
+
+Seventeen years later the same report series documents four camper-led restoration projects in a single season — a Junior Boys forest project planting 100 seedlings, a CIT reforestation project, a CIT stair-and-retaining-wall project specifically for erosion control, and path closures directed by the camp's naturalist, **Chris Adam**.^9 The erosion problem of 1970 was being worked on by campers, which is a more interesting institutional history than a policy adopted from above.
+
+The same 1987 report records a problem the camp could not fix by itself:^9
+
+> "Many of our large maples are dead or dying and the Tassés must cut more down each year. At this rate, **in 5-7 years there will be no large trees left**."
+
+That is acid rain, at its Quebec peak, recorded from the ground by the people watching it happen. Whether the projection came true is not documented here, and would be worth checking against the present tree cover.
+### Kanawana's own director answers, 1988
+
+The acid-rain thread above runs from October 1979, when the movement first put the subject to camp directors as their own problem, through the 1982 teaching kit posted to member camps, Jeff Reading's "Understanding the Problem at Camp" in 1984, and the Environmental Ethic adopted that year. In every one of those, Kanawana is part of the audience and never part of the record.
+
+In the **last issue *Canadian Camping* ever published**, Winter 1988, that changes. The magazine printed, in French and then in English, an article bylined "**by Jay Netherwood, Camp Kanawana**" — the camp's own director, writing to the camp directors of his province.^10 It is titled "**L'Étranger / The Stranger**":
+
+> "**Would you let a stranger walk around your camp with a chain saw, cutting down all the mature trees? Of course not. Well in fact we camp directors in Quebec are doing exactly that. The stranger's name is acid rain**, or more properly, acid precipitation, for melting snow is the deadliest form this stranger assumes.
+>
+> **If your camp is located in the Canadian Shield (especially the Laurentians) or south of the St.-Lawrence River then your flora and fauna have been irreparably damaged.**… The problem with acid precipitation is that it is a slow killer; our lakes look healthy, the outer branches of our coniferous trees look green and vibrant… **But walk away from your birches and maples and look at the top, where the new growth should be — notice the bare branches? Look at the inside part of the branch of your pines and spruces — are the needles brown? Have you seen more dead tadpoles floating near the edge of your lake? Have you noticed how much quieter your site is on a warm July night when you used to be able to drift off to sleep, serenaded by a frog chorus?**
+>
+> **Our lakes are becoming vinegar.** Our mature trees are suffering from die-back… **Our amphibious life is dying. And what are we doing? Nothing.**
+>
+> **In 1978, concerned maple syrup producers banded together to form a body to lobby governments and industry, but in 1987 what have we camp directors done?**… **Our responsibility must expand beyond ensuring that our campers have a safe and rewarding summer experience, it must also include that we are guardians of our fragile environment**… what is at stake here is much more than a few camp directors' jobs — **it's an industry devoted to people — an industry that is concerned and scared.**
+>
+> Individually, we should as educators, promote environmental literacy, **for our campers and staff of today will become tomorrow's industrialists and politicians. Let's become acquainted with this stranger. Let's take the chain saw out of its hands.**"
+
+**This is the only article by a Kanawana person in the 164 issues of the run**, and it is the only place in that run where someone at Kanawana acts on the movement's environmental programme rather than being counted by it. It also corrects this project's own earlier note: the article was catalogued as French-language; **it is bilingual, French set first**.
+
+**What it is not.** Netherwood names no lake, gives no pH, cites no measurement, and does not mention Kanawana's own water. Nothing here is a record of the chemistry of Lake Kanawana, Lake Wilson or Round Lake, and none is inferred. **What it is** is a general statement made by a person with particular knowledge: the sentence "if your camp is located in the Canadian Shield (especially the Laurentians)… then your flora and fauna have been irreparably damaged" is written by the director of a camp in exactly that position, and the questions he puts to his readers — bare crowns on the birches, brown needles on the inside of the spruce branches, dead tadpoles at the lake edge, a July night gone quiet — read as a list of things he had gone and looked for. That is the closest this project has come to an observation of Kanawana's own ecology in the 1980s, and it is offered at that strength and no higher.
+
+
+## Open Questions
+
+1. [Critical] **Did the projection come true?** The 1987 report gives the camp five to seven years
+   before "there will be no large trees left". Nothing here documents what happened. Present tree
+   cover, or any report from the 1990s, would settle it.
+2. [Important] **Did Kanawana return the Environmental Ethic pledge sheet?** Every accredited Quebec
+   member camp received one in the summer of 1984 and it was meant to be signed and sent back. The
+   Concordia camping sub-series is where a returned sheet would be.
+3. [Important] **What did Jay Netherwood's 1988 article produce?** It ran in the magazine's final
+   issue, so the movement had no forum left to answer in. Whether the Quebec association carried the
+   argument on is not known here.
+4. [Nice-to-have] Did the camp run any of the five experiments the 1984 issue set out — the wind
+   charts, the four-container pH comparison — with campers? The programme records for 1984-1988 have
+   not been read against this.
+5. [Nice-to-have] The Canadian Coalition on Acid Rain's membership list of fifty organizations,
+   printed in the same 1984 issue, is a map of who was engaged and who was not. The CCA's absence is
+   documented; when or whether it joined is not.
+
+## Related Articles
+
+- [[traditions/environmental-history|Environmental and Ecological History]] — the parent article: the Green Shift, conservation programming and the camp's own environmental infrastructure
+- [[site/the-kanawana-site|The Kanawana Site]] — Lac Wilson, and the land the maples stood on
+- [[people/bruce-netherwood|Bruce Netherwood]] — Jay Netherwood's brother, and Kanawana's director 1988-1994
+- [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]
+- [[history/between-centennials|Between the Centennials]]
+
+## Sources
+
+1. "Acid Rain," reprinted from *The Probe Post* (Probe, 43 Queen's Park Crescent E., Toronto), in *Canadian Camping* Vol. 31 No. 5 (October 1979), pp. 3, 9-10 [src_ia_canadian_camping_collection]. Found by the same read (issue 127).
+2. "Preservation of Wildlife and its Habitat: just one aspect of Stewardship," a fact sheet prepared by and reprinted with the permission of the National Survival Institute, 229 College St., Toronto, in *Canadian Camping* Vol. 33 No. 5 (October 1981), pp. 3-4, 15, 21-24 [src_ia_canadian_camping_collection]. Found by the same read (issue 139).
+3. "Announcing: Acid Rain Awareness Twinning Project" and Peter Rasberry, "From the Environment Committee," *Canadian Camping* Vol. 33 No. 6 (Winter 1982), pp. 14-15 [src_ia_canadian_camping_collection]. Found by the same read (issue 140).
+4. Peter Rasberry, "Environment Committee," in the CCA/ACC Annual Report 1981, *Canadian Camping* Vol. 34 No. 2 (Summer 1982), pp. 9-10 [src_ia_canadian_camping_collection]. Found by the same read (issue 142).
+5. CCA/ACC *Publications 1982-83* catalogue, bound as an insert to *Canadian Camping* Vol. 34 No. 3 (Autumn 1982), pp. 17-18 [src_ia_canadian_camping_collection]. Found by the same read (issue 144).
+6. Jeff Reading (Kilcoo Camp), "Acid Rain: Understanding the Problem at Camp," pp. 13-16; the bilingual editorial "Acid Rain: Not Just A Catchphrase!"; the letter from Doug Caldwell; and Jocelyn Palm, "President's Perspective" — all in *Canadian Camping* Vol. 35 No. 4 (Winter 1984) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 149). The President's Perspective page is printed 180° rotated in the scan and was decoded with `scripts/reread/unrotate.py`.
+7. Jean Funk, "Environment Committee," in the CCA/ACC Annual Report 1983, *Canadian Camping* Vol. 36 No. 2 (Summer 1984) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 151).
+8. Jean Funk, "Dear CCA Member Camps," and the full text of the "Canadian Camping Association Environmental Ethic," *Canadian Camping* Vol. 36 No. 4 (Winter 1985), pp. 5-6 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 153).
+9. Kamp Kanawana season reports in the Concordia-digitized YMCA of Montreal fonds: *Annual Report 1964* [src_ia_kanawana_report_1964], *1969* [src_ia_kanawana_report_1969], *1970* [src_ia_kanawana_report_1970], *Director's Report 1987* [src_ia_kanawana_report_1987], and *Kanawana… A Place to Grow*, 1988 [src_ia_kanawana_place_to_grow_1988]; earlier acreage figures from the YMCA of Montreal annual reports and the 1936 CFCF broadcast [src_ia_ymca_montreal_annual_reports_collection, src_ia_ymca_montreal_fonds_collection].
+10. Jay Netherwood (Camp Kanawana), "L'Étranger" / "The Stranger," *Canadian Camping Magazine* Vol. 39 No. 3 (Winter 1988), pp. 18-19, printed in French and English [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 164). The only article by a Kanawana person in the magazine's 1949-1988 run.
