@@ -3977,7 +3977,9 @@
       ],
       "sources_cited": [
         "src_mclean_vinyl_cafe_notebooks_2010",
-        "src_dlb_362_canadian_literary_humorists_2011"
+        "src_dlb_362_canadian_literary_humorists_2011",
+        "src_concordia_thursday_report_1997_03_27",
+        "src_concordia_thursday_report_2004_10_07"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -3989,7 +3991,7 @@
         "sean-day"
       ],
       "file_id": null,
-      "word_count": 2793,
+      "word_count": 3129,
       "notes": "E1 REVIEW (2026-02-19): Fixed header source IDs. All 7 checklist items PASS. RALPH R1: 26 new facts, 10 new sources. Pip Award year resolved (2009). Full biography: 1400 words, 13 sources, 9 sections. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header again (had drifted back to raw IDs since the 2026-02-19 fix). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -5365,7 +5367,9 @@
         "src_concordia_link_1992_03_17",
         "src_concordia_thursday_report_1990_11_15",
         "src_concordia_thursday_report_1991_06_06",
-        "src_concordia_thursday_report_1992_03_19"
+        "src_concordia_thursday_report_1992_03_19",
+        "src_concordia_thursday_report_1994_03_03",
+        "src_concordia_thursday_report_1997_03_27"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -5374,7 +5378,7 @@
         "section-names"
       ],
       "file_id": null,
-      "word_count": 6491,
+      "word_count": 6638,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

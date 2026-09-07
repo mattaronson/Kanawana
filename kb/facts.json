@@ -1,8 +1,8 @@
 {
-  "version": "9.75",
-  "kb_version": "9.75",
+  "version": "9.76",
+  "kb_version": "9.76",
   "migrated_from": "3.3",
-  "fact_count": 5416,
+  "fact_count": 5419,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -97659,6 +97659,63 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5455",
+      "category": "people",
+      "date_ref": "1994-03-03",
+      "entities": [
+        "A. Ross Seaman",
+        "Vankleek Hill"
+      ],
+      "claim": "THE HOME COMMUNITY IS NAMED AS VANKLEEK HILL, AND A DEPARTMENT VARIES. Concordia's Thursday Report of 3 March 1994: 'At the time of his death in 1987, Ross Seaman was a PROFESSOR OF APPLIED SOCIAL SCIENCE, but the awards named in his memory are part of each of the communities he touched. There are A. Ross Seaman Awards in Leisure Studies, and at Dawson College, the YMCA (INCLUDING ITS CAMP KANAWANA), and his home community of VANKLEEK HILL, ONT.' The 1991 report gave that community as Prescott-Russell, the counties; this gives the town, which matches wiki/people/a-ross-seaman.md. THE DEPARTMENT IS A VARIANCE WORTH RECORDING AND NOT A CONFLICT: Concordia University Magazine's obituary of January 1988 says that at his death he was 'in his third year as a full-time Concordia faculty member in LEISURE STUDIES', having been its Acting Chair in 1986-87. The obituary is the closer witness -- same university, three months after the death, against a looser summary six years on -- and he taught in both departments, so the 1994 note names the other. Prefer the obituary where they differ.",
+      "sources": [
+        "src_concordia_thursday_report_1994_03_03"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.76",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5456",
+      "category": "institutional",
+      "date_ref": "1997-03-13",
+      "entities": [
+        "A. Ross Seaman",
+        "Camp Kanawana",
+        "Concordia University",
+        "Dawson College"
+      ],
+      "claim": "THE SEAMAN CUP RAN FROM 1988 AND THE AWARDS HAD GROWN FROM FIVE TO NINE BY 1997. Concordia's Thursday Report of 27 March 1997: 'Three Concordia students were presented with A. Ross Seaman Awards on MARCH 13. Students are involved in planning this event, which includes FRIENDLY COMPETITION IN NOVELTY EVENTS THAT CHANGE FROM YEAR TO YEAR, and are affectionately known as THE SEAMAN CUP. This year, ABOUT 250 PEOPLE ATTENDED. This year was THE TENTH ANNIVERSARY... THE NINE SEAMAN AWARDS for leadership in the community, the department and university life are presented in honour of the former Concordia and Dawson College professor, YMCA director and community activist, and have been given annually for 10 years.' FOUR THINGS FOLLOW. The Cup ran from 1988, THE YEAR AFTER HIS DEATH, so the fund founded at the meeting of 10 November 1987 had its first event within months. The competition was NOVELTY EVENTS CHANGING YEARLY, which is why 1992 was Spaceball and why the wiki's earlier note about 'an annual awards evening with auction' was so vague. THE AWARDS GREW FROM FIVE IN 1990 TO NINE IN 1997. And the event drew about 250 people, with Rector FREDERICK LOWY, Dawson Director-General PATRICK WOODSWORTH and RUSS WILLIAMS, MNA for Nelligan, in attendance.",
+      "sources": [
+        "src_concordia_thursday_report_1997_03_27"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.76",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5457",
+      "category": "people",
+      "date_ref": "1997-1971",
+      "entities": [
+        "Stuart McLean",
+        "A. Ross Seaman",
+        "Camp Kanawana",
+        "Concordia University",
+        "Dawson College"
+      ],
+      "claim": "STUART McLEAN AND A. ROSS SEAMAN ARE CONNECTED, AND McLEAN KEYNOTED THE MEMORIAL EVENT. Concordia's Thursday Report of 27 March 1997, on the Seaman Cup's tenth anniversary: 'THE KEYNOTE SPEAKER WAS STUART McLEAN, who graduated from Concordia's Applied Social Sciences program WHEN SEAMAN TAUGHT HERE. He was a student advisor at Dawson, and a camper at the Y's Kamp Kanawana. McLEAN TALKED ABOUT HIS MEMORIES OF SEAMAN, and DONATED COPIES OF HIS NATIONAL BESTSELLERS FOR AUCTION. Altogether, the auction raised MORE THAN $2,000 for the Awards fund.' THIS JOINS TWO PEOPLE THIS WIKI HOLDS SEPARATELY. wiki/people/notable-alumni/stuart-mclean.md has him graduating in 1971 and then working at Dawson College Student Services; wiki/people/a-ross-seaman.md has Seaman as part-time Applied Social Science faculty from 1963 and the man who built Dawson's CRLT programme. McLean was taught in Seaman's department while Seaman taught in it, worked at Seaman's college, and came back a quarter-century later to speak about him and auction his own books for the fund. ONE CLAIM NOT ADOPTED: 'A CAMPER at the Y's Kamp Kanawana'. The McLean article documents him visiting a friend at the camp in the summer of 1969 and being hired ON THE SPOT as a counsellor, then working five summers; it does not have him as a camper. A university paper's one-line summary of a keynote speaker's biography is a weaker witness than that detailed sourced account, and the discrepancy is recorded rather than resolved. THE 2004 REPORT ADDS THE OTHER END: at a Concordia alumni luncheon on 30 September 2004, McLean, by then 'a TENURED PROFESSOR AT RYERSON UNIVERSITY', told the audience 'how much his years at Sir George Williams University meant to him, PARTICULARLY HIS COURSES IN APPLIED HUMAN SCIENCE AND SUMMERS WORKING AT CAMP KANAWANA' -- pairing the courses and the camp as the two things that mattered, said to the university's own alumni. Note 'Applied Human Science' in 2004 against 'Applied Social Sciences' in 1997: the department was renamed between them.",
+      "sources": [
+        "src_concordia_thursday_report_1997_03_27",
+        "src_concordia_thursday_report_2004_10_07"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.76",
       "added_by": "ralph_loop"
     }
   ]

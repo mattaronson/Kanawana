@@ -31389,7 +31389,61 @@
       "notes": "THE CUP'S OWN INVITATION, WITH A THEME. 'TO THE STUDENTS OF CONCORDIA UNIVERSITY LEISURE STUDIES AND A.P.S.S., DAWSON COLLEGE C.R.L.T. AND YMCA CAMP KANAWANA. You are invited to participate in this year's A. Ross Seaman Memorial Cup, \"RECREATION AND LEISURE, A DOOR TO THE FUTURE.\" This is a ONE-DAY MISSION TO RAISE MONEY FOR THE SCHOLARSHIP FUND, learn leadership development and have a great time. The day will kick off with an INTERGALACTIC GAME OF SPACEBALL and includes other OUT-OF-THIS-WORLD EVENTS, such as variety show, t-shirts, free dinner, an auction and awards. Time: 2:30 p.m. Location: Loyola Campus - Athletics Complex (7200 Sherbrooke St. W.)' The Link's notice of the same event gives the venue as 7141 Sherbrooke St. W. against this 7200 -- a street-number discrepancy for the same complex, recorded and not resolved. See f_5454.",
       "read_state": "extracted",
       "read_state_basis": "direct: full djvu text downloaded 2026-09-07 (single text file, checked) and the notice read whole and transcribed."
+    },
+    {
+      "source_id": "src_concordia_thursday_report_1994_03_03",
+      "type": "periodical",
+      "title": "Note on the A. Ross Seaman Awards, Concordia's Thursday Report, Vol. 18 No. 19, 3 March 1994",
+      "date": "1994-03-03",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/thursday-report-1994-march-3",
+      "cache_path": "sources/cache/concordia-publications/2026-09-07-thursday-report-seaman-awards-1990-1992.txt",
+      "char_count": 76862,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.76",
+      "reliability": "secondary",
+      "notes": "NAMES VANKLEEK HILL DIRECTLY AND VARIES ON HIS DEPARTMENT AT DEATH. 'At the time of his death in 1987, Ross Seaman was a PROFESSOR OF APPLIED SOCIAL SCIENCE, but the awards named in his memory are part of each of the communities he touched. There are A. Ross Seaman Awards in Leisure Studies, and at Dawson College, the YMCA (INCLUDING ITS CAMP KANAWANA), and his home community of VANKLEEK HILL, ONT.' The 1991 Thursday Report gave the home community as Prescott-Russell, the counties; this gives the town, matching the wiki. THE DEPARTMENT IS A VARIANCE WORTH RECORDING: Concordia University Magazine's obituary of January 1988 says that at his death he was 'in his third year as a full-time Concordia faculty member in LEISURE STUDIES', having served as Acting Chair in 1986-87. The obituary is the closer witness, published by the same university three months after the death; he taught in both departments and this 1994 note names the other. Not a conflict record -- a looser summary six years on. See f_5455.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded 2026-09-07 (single text file, checked) and the passage read whole and transcribed."
+    },
+    {
+      "source_id": "src_concordia_thursday_report_1997_03_27",
+      "type": "periodical",
+      "title": "Eugenia Xenos, \"Seaman Awards presented to Leisure Studies and APSS students: Community involvement counts\", Concordia's Thursday Report, Vol. 21 No. 13, 27 March 1997",
+      "date": "1997-03-27",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/thursday-report-1997-march-27",
+      "cache_path": "sources/cache/concordia-publications/2026-09-07-thursday-report-seaman-awards-1990-1992.txt",
+      "char_count": 114779,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.76",
+      "reliability": "secondary",
+      "notes": "THE SEAMAN CUP'S TENTH ANNIVERSARY, AND STUART McLEAN KEYNOTED IT. 'Three Concordia students were presented with A. Ross Seaman Awards on MARCH 13. Students are involved in planning this event, which includes FRIENDLY COMPETITION IN NOVELTY EVENTS THAT CHANGE FROM YEAR TO YEAR, and are affectionately known as THE SEAMAN CUP. This year, ABOUT 250 PEOPLE ATTENDED. This year was THE TENTH ANNIVERSARY, and Rector FREDERICK LOWY attended, as did PATRICK WOODSWORTH, the Director-General of Dawson, and RUSS WILLIAMS, MNA for Nelligan. THE KEYNOTE SPEAKER WAS STUART McLEAN, who graduated from Concordia's Applied Social Sciences program WHEN SEAMAN TAUGHT HERE. He was a student advisor at Dawson, and A CAMPER AT THE Y'S KAMP KANAWANA. McLean talked about his memories of Seaman, and DONATED COPIES OF HIS NATIONAL BESTSELLERS FOR AUCTION. Altogether, the auction raised MORE THAN $2,000 for the Awards fund. THE NINE SEAMAN AWARDS for leadership in the community, the department and university life... have been given annually for 10 years.' FOUR THINGS: the Cup ran from 1988, the year after his death; the novelty event changed yearly, which explains 1992's Spaceball; the awards had grown from FIVE in 1990 to NINE by 1997; and it links two people in this wiki -- McLean was taught by Seaman in APSS and worked at Dawson where Seaman built CRLT. ONE CLAIM NOT ADOPTED: 'a camper at the Y's Kamp Kanawana'. wiki/people/notable-alumni/stuart-mclean.md documents him visiting a friend at the camp in 1969 and being hired on the spot as a counsellor, and working five summers; it does not have him as a camper. A university paper's one-line summary of a keynote speaker's biography is a weaker witness than the detailed sourced account, and the discrepancy is recorded rather than resolved. See f_5456, f_5457.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: full djvu text downloaded 2026-09-07 (single text file, checked) and the whole report read and transcribed."
+    },
+    {
+      "source_id": "src_concordia_thursday_report_2004_10_07",
+      "type": "periodical",
+      "title": "\"Stuart McLean tells stories\", Concordia's Thursday Report, Vol. 29 No. 3, 7 October 2004",
+      "date": "2004-10-07",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/thursday-report-2004-october-7",
+      "cache_path": "sources/cache/concordia-publications/2026-09-07-thursday-report-seaman-awards-1990-1992.txt",
+      "char_count": 0,
+      "ingested_at": "2026-09-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "9.76",
+      "reliability": "secondary",
+      "notes": "McLEAN CREDITS THE CAMP FROM A CONCORDIA PODIUM IN 2004. 'Stuart McLean, host of CBC Radio's The Vinyl Cafe and a TENURED PROFESSOR AT RYERSON UNIVERSITY, read one of his droll short stories at an alumni luncheon at a downtown hotel on SEPT. 30. Before he did so, he told the audience how much his years at Sir George Williams University meant to him, PARTICULARLY HIS COURSES IN APPLIED HUMAN SCIENCE AND SUMMERS WORKING AT CAMP KANAWANA. He graduated in 1971, and went on to make a career as a broa[dcaster]...' The wiki has the five summers and the 1971 graduation; what is new is McLean pairing the courses and the camp as the two things that mattered, said to a Concordia alumni audience, and the Ryerson tenure. Note 'Applied Human Science' here against 'Applied Social Sciences' in the 1997 report -- the department was renamed between the two. See f_5457.",
+      "read_state": "extracted",
+      "read_state_basis": "direct: the passage read in full from the sweep's context window; the item's single text file was confirmed by metadata."
     }
   ],
-  "source_count": 1746
+  "source_count": 1749
 }

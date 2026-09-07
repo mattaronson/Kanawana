@@ -1,7 +1,7 @@
 # Stuart McLean
 
-*Status: E1-reviewed | Sources: 17*
-*Last Updated: 2026-09-06 (the Dictionary of Literary Biography entry, and an unpublished 2010 interview it quotes)*
+*Status: E1-reviewed | Sources: 18*
+*Last Updated: 2026-09-07 (he was taught by Ross Seaman, and keynoted the memorial cup in 1997)*
 
 ## Overview
 
@@ -65,7 +65,13 @@ conducted by someone who then wrote 3,000 words about him.
 
 ## Career in Broadcasting and Writing
 
-After graduating in 1971, McLean worked at Dawson College Student Services and edited the college newspaper *The Dawson Forum*.^8 He managed Nick Auf der Maur's first successful Montreal city council campaign, and through Auf der Maur's journalism connections entered CBC Radio.^7 ^8
+After graduating in 1971, McLean worked at Dawson College Student Services and edited the college newspaper *The Dawson Forum*.
+
+**Both of those put him in A. Ross Seaman's orbit, and he said so twenty-six years later.** Concordia's *Thursday Report* of 27 March 1997, covering the tenth anniversary of the A. Ross Seaman Cup: "**The keynote speaker was Stuart McLean, who graduated from Concordia's Applied Social Sciences program when Seaman taught here.** He was a student advisor at Dawson… McLean talked about his memories of Seaman, and **donated copies of his national bestsellers for auction**. Altogether, the auction raised more than $2,000 for the Awards fund."^18 [[people/a-ross-seaman|Seaman]] was part-time faculty in Applied Social Science from 1963 and the man who built Dawson's Community Recreation and Leadership Training programme — so McLean was taught in his department while he taught in it, worked at his college, and came back a quarter of a century later to speak about him and auction his own books for the fund.
+
+*One line in that report is not adopted here.* It calls McLean "**a camper** at the Y's Kamp Kanawana." This article documents him visiting a friend at the camp in the summer of 1969 and being hired on the spot as a counsellor, then working five summers; nothing has him as a camper. A university paper's one-line summary of a keynote speaker's biography is a weaker witness than the detailed account above, and the discrepancy is recorded rather than resolved.
+
+**And he paired the camp with the classroom, from a Concordia podium in 2004.** At an alumni luncheon on 30 September that year, McLean — by then "a tenured professor at Ryerson University" — "told the audience how much his years at Sir George Williams University meant to him, **particularly his courses in Applied Human Science and summers working at Camp Kanawana**."^18 (The department had been renamed between the two reports; it is Applied Social Sciences in 1997 and Applied Human Science in 2004.)^8 He managed Nick Auf der Maur's first successful Montreal city council campaign, and through Auf der Maur's journalism connections entered CBC Radio.^7 ^8
 
 At CBC, McLean served as a researcher for *Cross Country Checkup* (1974), a documentarian for *Sunday Morning* (winning an ACTRA Award in 1979 for his Jonestown massacre documentary), and executive producer of *Sunday Morning* (1982–1984).^7 He was a regular contributor and occasional host on *Morningside* with Peter Gzowski through the 1980s.^7
 
@@ -157,6 +163,7 @@ McLean recorded "A Letter from Camp" for the *Vinyl Cafe* album *Up & Away* (201
 16. Stuart McLean, *The Vinyl Cafe Notebooks* (Toronto: Viking Canada, 2010), Internet Archive scan leaf 378 [src_mclean_vinyl_cafe_notebooks_2010]. **One passage only**, reconstructed 2026-09-06 from ten overlapping Open Library search-inside queries; the book is lending-restricted and has not been read, so what precedes and follows the passage is unknown, and the bracketed words are supplied. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-mclean-notebooks-and-montreal-inside-out.txt`. See [f_4941].
 
 17. *Dictionary of Literary Biography*, Volume 362: *Canadian Literary Humorists* (Detroit: Gale Cengage Learning, 2011), the Stuart McLean entry by David C. Greer, Internet Archive scan leaf 456 [src_dlb_362_canadian_literary_humorists_2011]. **One passage only**, reconstructed 2026-09-06 from thirty-five overlapping Open Library search-inside queries and walked to a sentence boundary in both directions; the volume is lending-restricted, page images return HTTP 403, and it has not been read. The quotation above is given as the search index returns it, with the OCR's line-break hyphens and irregular ellipsis spacing normalised. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-dlb-362-mclean-and-basic-camp-management.txt`. See [f_4949].
+18. Concordia's Thursday Report, Vol. 21 No. 13, 27 March 1997 [src_concordia_thursday_report_1997_03_27], and Vol. 29 No. 3, 7 October 2004 [src_concordia_thursday_report_2004_10_07]. Transcribed at `sources/cache/concordia-publications/2026-09-07-thursday-report-seaman-awards-1990-1992.txt`. See [f_5457].
 
 ## Research Notes
 
