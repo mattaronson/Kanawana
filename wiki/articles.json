@@ -6006,10 +6006,11 @@
         "rh-hanagan",
         "canoe-trips",
         "sources-index",
-        "camp-thunderbird"
+        "camp-thunderbird",
+        "site/camp-dorval"
       ],
       "file_id": null,
-      "word_count": 7647,
+      "word_count": 7650,
       "notes": "RALPH R1 complete (2026-06-21): 30+ web searches returned zero new facts. Article meets draft criteria (Overview summary, 3 content sections, 3 sources). All remaining open questions require physical Concordia Archives access (P0145/12G). BAnQ newspaper facts (f_1326-f_1339) checked — none mention Camp Perrot. Advanced stub→draft. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header, moved the '12G sub-series' correction and the Batch 7 research-pass summary into a new Research Notes > Revision History section (this article previously had no Research Notes section). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -7537,10 +7538,11 @@
         "history/oldest-camp-question",
         "lv-games",
         "people/tony-shorgan",
-        "quebec-camping-association"
+        "quebec-camping-association",
+        "site/camp-dorval"
       ],
       "file_id": null,
-      "word_count": 5750,
+      "word_count": 5815,
       "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- folded the former 'R3 Verification Notes'/'E1 Review Notes' H3 sub-headings into a proper '## Research Notes' section (HTML-comment process log), trimmed the header's dated parenthetical. This article's main body had no embedded prose sediment to begin with. No facts, citations, or open questions changed; status unchanged. | 2026-07-11 (Workstream B): added the \"Camps at a Glance\" summary table and an explanatory paragraph tying it to the places/-vs-context/ folder split, per the approved wiki-expansion plan -- this page now serves as the satellite/peer-camp hub. No new facts/sources; surfaced a new open question (#6, present-day status of several camps unconfirmed). | 2026-07-11: Linked \"Camp Pine Crest\" table row and prose bullet to the new standalone places/camp-pine-crest.md article. | 2026-08-14 p_226: L&V origin claim softened from 'direct origin/source' to the documented 'inspired by' (YMCA Quebec's own wording); duplicate Pine Crest blog source consolidated; quebec-camp-landscape's stale Hayo-Went-Ha reading, retracted in lv-games.md on 2026-07-09, corrected here too.",
       "tags": {
         "era": [
@@ -7749,10 +7751,11 @@
       "cross_links": [
         "the-kanawana-site",
         "camp-otoreke",
-        "quebec-camp-landscape"
+        "quebec-camp-landscape",
+        "site/camp-dorval"
       ],
       "file_id": null,
-      "word_count": 2720,
+      "word_count": 2723,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, softened a dated bold-label marker in prose. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -12586,7 +12589,47 @@
         ],
         "is_hub": false
       }
+    },
+    {
+      "article_id": "camp-dorval",
+      "title": "Camp Dorval",
+      "wiki_folder": "site",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-09-07T17:45:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_5642",
+        "f_1365",
+        "f_1852",
+        "f_0873",
+        "f_1979",
+        "f_5005"
+      ],
+      "sources_cited": [
+        "src_ymf_sgw_ymca_annual_report_1926",
+        "src_ymf_sgw_ymca_annual_report_1927",
+        "src_ymf_sgw_ymca_annual_report_1929",
+        "src_concordia_12E",
+        "src_camp_dorval_1928"
+      ],
+      "open_questions": 5,
+      "cross_links": [
+        "site/camp-perrot",
+        "site/camp-becsies",
+        "site/camp-otoreke",
+        "people/directors-index",
+        "connections/related-camps/quebec-camp-landscape"
+      ],
+      "file_id": null,
+      "word_count": 1188
     }
   ],
-  "article_count": 125
+  "article_count": 126
 }

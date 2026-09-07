@@ -113,6 +113,7 @@ went both ways across the gender line.
 - [[site/the-kanawana-site|The Kanawana Site]]
 - [[site/lake-wilson|Lake Wilson]]
 - [[site/camp-otoreke|Camp Otoreke]]
+- [[site/camp-dorval|Camp Dorval]]
 - [[connections/related-camps/quebec-camp-landscape|The Quebec Camp Landscape]]
 - [[connections/institutional-lineage/ymca-quebec-history|The YMCA of Montreal / YMCAs of Quebec]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]

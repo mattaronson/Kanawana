@@ -1,8 +1,8 @@
 {
-  "version": "10.54",
-  "kb_version": "10.54",
+  "version": "10.55",
+  "kb_version": "10.55",
   "migrated_from": "3.3",
-  "fact_count": 5603,
+  "fact_count": 5604,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -100983,6 +100983,27 @@
       "date_ref": "1957-1958",
       "conflicts_with": [],
       "added_version": "10.54",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5642",
+      "claim": "CAMP DORVAL'S WHOLE LIFE IS IN FOUR ANNUAL REPORTS AND NOBODY HAD READ THEM AS A RUN. Camp Dorval had thirteen facts in this KB, all of them about ARCHIVAL RECORDS -- sub-series sizes, finding-aid item titles, box numbers -- and none about the camp. The reports of 1926 through 1929 describe it in operation, and read in sequence they give a founding, a purpose, an equipment list, a price, a membership curve and a stated reason for ending.\n\nFOUNDED 1925, BY ONE MAN'S INITIATIVE. The report for 1925: 'An OVER-NIGHT CAMP was organized and maintained at Dorval during the warm summer months FOR THE BOYS OF COTE ST. PAUL, and DUE ENTIRELY TO THE INITIATIVE OF MR. J. G. MacKINNON.' That is the same J. G. MacKinnon who was Boys' Work Secretary at Central and ran Kanawana through the 1917, 1918 and 1919 seasons.\n\nWHAT IT WAS FOR, AND WHAT IT HAD, from the 1926 season: 'This camp, OVERLOOKING THE ROYAL MONTREAL GOLF CLUB, IS IN SINGULAR CONTRAST TO IT! Carried on FOR BOYS IN ST. PAUL AND VERDUN WHO WOULD OTHERWISE HAVE NO VACATION, it has for equipment the use of A HOUSE LEASED FROM THE MARCIL TRUST COMPANY AT A NOMINAL RENTAL; CANVAS COTS FOR THIRTY BOYS MADE FROM MATERIAL GIVEN BY THE DOMINION TEXTILE COMPANY AND STEEL PIPE DONATED BY SESSENWEIN BROTHERS; FOUR TENTS, TWO BOATS, THREE CANOES; A FOOTBALL; SOFT BALL; TABLE AND CHAIRS. And this equipment SERVED LAST YEAR OVER TWO HUNDRED WORKING BOYS. THE COMPLETE COST PER WEEK-END WAS $1.00 PLUS TWENTY CENTS FOR CAR FARE. This camp has meant so much to the boys south of the canal.' Membership 'increased during the year FROM 193 TO 248'.\n\nTHE WHOLE THING IS AN ARGUMENT ABOUT CLASS AND DISTANCE, and the report makes it itself. Kanawana was forty-five miles north in the Laurentians at $5.00 a week in 1916; Dorval was a leased house on the island at a dollar twenty a weekend, for working boys from Côte St. Paul and Verdun who could not go. The sentence about the golf club is the association noticing the contrast and printing it.\n\nHOW IT ENDED, from the 1928 season: 'Camp Dorval was AGAIN OPERATED JOINTLY BY THE VERDUN AND COTE ST. PAUL BRANCHES using the large house leased from the Marcil Trust Company IN 1925. EIGHTY-ONE BOYS SPENT 214 WEEK-ENDS in this camp, which was operated for TWO FULL WEEKS AND TEN WEEK-ENDS. We have EXPERIMENTED WITH THE IDEA OF A \"NEAR-THE-CITY\" CAMP FOR OLDER BOYS and have found that THERE IS A VERY IMPORTANT NEED FOR SUCH AN ENTERPRISE. The facilities available, however, are SO INADEQUATE that UNLESS SOME PROPERTY CAN BE SECURED which will better meet the needs of the situation, IT IS PROPOSED TO DISCONTINUE THIS SERVICE.'\n\nSO THE CAMP DID NOT FAIL FOR LACK OF DEMAND -- the report says the need is 'very important' in the same breath -- IT FAILED FOR LACK OF A SITE, and it was proposing its own discontinuation. That explains why Concordia's records stop in 1928 without anyone having to infer it. It also puts the search for property in a sequence: Dorval asks for a site in 1928, CAMP BECSIES IS BUILT AS AN ANNEX IN 1929 (f_1839), and CAMP PERROT IS FINALLY BOUGHT IN 1945 'AFTER MANY YEARS OF SEARCH' (f_5074) -- and Perrot is the near-the-city camp Dorval was asking for, seventeen years later. THE LINK IS NOT STATED IN ANY DOCUMENT and is offered as a reading.\n\nNOT ESTABLISHED: whether the 1929 season ran, when the lease ended, what became of the house, or whether the 81 boys of 1928 against 'over two hundred' in 1926 is a real collapse or a change in what was being counted (the 1926 figure counts boys served, the 1928 counts boys attending week-ends).",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1926",
+        "src_ymf_sgw_ymca_annual_report_1927",
+        "src_ymf_sgw_ymca_annual_report_1929"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Camp Dorval",
+        "J. G. MacKinnon",
+        "Marcil Trust Company",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1925-1928",
+      "conflicts_with": [],
+      "added_version": "10.55",
       "added_by": "ralph_loop"
     }
   ]
