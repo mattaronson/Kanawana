@@ -1,8 +1,8 @@
 {
-  "version": "10.80",
-  "kb_version": "10.80",
+  "version": "10.81",
+  "kb_version": "10.81",
   "migrated_from": "3.3",
-  "fact_count": 5648,
+  "fact_count": 5649,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -101822,6 +101822,23 @@
       "date_ref": "1970-1971",
       "conflicts_with": [],
       "added_version": "10.79",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5687",
+      "claim": "THE CAMP CALLED DEFINING ITS OWN CAPACITY 'THE PROBLEM OF FIRST URGENCY' IN 1969, AND WAS STILL ASKING THE SAME QUESTION IN 1970. This bears directly on c_067 without resolving it. THE 1969 REPORT, under REGISTRATION, CAPACITY, FACILITIES AND LAND UTILIZATION: 'Registration at Kamp Kanawana is not evenly divided throughout the Summer. This is a well known fact but causes serious problems nonetheless. If it were not so, much more rational judgment could be made on optimum number of staff required, number and type of facilities required, etc. IT SEEMS TO BE THEN, THAT THE PROBLEM OF FIRST URGENCY IS ESTABLISHING A REASONABLE CAPACITY FOR KAMP KANAWANA. This should be based upon DINING AND PROGRAM FACILITIES AND SLEEPING ACCOMMODATION.' THE 1970 REPORT ASKS IT AGAIN, UNANSWERED, and lists the candidate definitions: 'Our second period, as usual, was our biggest registration. We were not overcrowded as far as sleeping and eating facilities went but our program areas were taxed to their limits. A DECISION SHOULD BE MADE AS TO THE MAXIMUM NUMBER OF CAMPERS WE ACCOMMODATE EACH PERIOD - IS IT BASED ON BUDGET, SEATING IN DINING HALL, NUMBER OF BEDS OR WHAT CRITERIA?' WHY THIS MATTERS FOR c_067. That conflict sets the 1987 director's report (1,412 camper weeks at 93 per cent occupancy) against the annual report for the year ended 31 May 1988 ('750 out of the 756 camper weeks available', 99.2 per cent), and part of what is in dispute is what 'capacity' denotes when the two denominators differ by nearly half. These two passages show the institution ITSELF had no settled definition and knew it: its own director named establishing one as the first-urgency problem in 1969, and a different director was still listing four possible criteria in 1970. TWO CAPACITY FIGURES FROM ONE INSTITUTION THAT NEVER AGREED WITH ITSELF ON THE DEFINITION ARE NOT NECESSARILY CONTRADICTORY. This does not resolve c_067 -- both sides remain documented and the which-summer half of the dispute is untouched -- but it removes the assumption, never stated but doing work, that the association had one capacity in mind throughout.",
+      "sources": [
+        "src_ia_kanawana_report_1969",
+        "src_ia_kanawana_report_1970"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1969-1970",
+      "conflicts_with": [],
+      "added_version": "10.81",
       "added_by": "ralph_loop"
     }
   ]

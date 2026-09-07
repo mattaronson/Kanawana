@@ -7703,3 +7703,23 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   source base is genuinely bounded, run the pass on those, and measure what it costs before committing at scale -- my estimate of that cost
   is unreliable until one has been done.
   Also still open and unrelated to publication: the 1969 report is barely started, Perrot 1948 and 1953 unread.
+2026-09-07T20:19:04Z  p_491 + p_492  ATOMIC UNIT: the camp did not know what its own capacity meant, and said so twice.
+  NEW (f_5687): the 1969 report, under "Registration, Capacity, Facilities and Land Utilization" -- registration is unevenly spread across
+  the summer, and "IT SEEMS TO BE THEN, THAT THE PROBLEM OF FIRST URGENCY IS ESTABLISHING A REASONABLE CAPACITY FOR KAMP KANAWANA. This
+  should be based upon dining and program facilities and sleeping accommodation." A YEAR LATER IT IS STILL OPEN and the 1970 report lists
+  the candidates rather than choosing: "A decision should be made as to the maximum number of campers we accommodate each period - IS IT
+  BASED ON BUDGET, SEATING IN DINING HALL, NUMBER OF BEDS OR WHAT CRITERIA?"
+  THIS BEARS ON c_067 WITHOUT RESOLVING IT, and a note saying so was added to the conflict. Part of what is disputed there is what
+  "capacity" denotes when one document's denominator is 756 camper weeks and the other's season runs to 1,412. These passages show the
+  institution ITSELF had no settled definition and knew it, twice, under two directors. Two capacity figures from a body that never agreed
+  with itself on the denominator are not necessarily contradictory. WHAT IS REMOVED IS AN UNSTATED ASSUMPTION that was doing work -- that
+  the association had one capacity in mind throughout. The which-summer half is untouched, both sides stay documented, c_067 STAYS OPEN.
+  ORPHAN CLOSED (f_2413): Geoff Anderson's 1969 land argument -- "We occupy 1000 acres of valuable land... We use only a very small portion
+  of this land and it is A LUXURY THAT WE WILL SOON NOT BE ABLE TO JUSTIFY either on social or economic grounds... Kamp Kanawana is in use
+  only 1/6TH OF THE YEAR." In the KB since long before winter-programming.md existed and cited by NO article. Placed there because that
+  article treats year-round use as a 1990s development; the argument was being made inside the camp in 1969 on economic and social grounds,
+  and the plant ("an old and inadequate dining hall and kitchen, lack of program space... lack of storage") was the stated reason it did not
+  happen. Second p_492 orphan closed today.
+  CHECKED FIRST AND FOUND ALREADY HELD, so not written twice: the whole land/1000-acres/1-6th-of-the-year passage was f_2413's already. The
+  destination grep is now catching a duplicate roughly every other unit; that is the rule earning its keep rather than a run of luck.
+  KB v10.80 -> v10.81, 5,648 -> 5,649.

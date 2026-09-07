@@ -1,6 +1,6 @@
 # Winter and Year-Round Programming
 
-*Status: E1-reviewed | Sources: 24*
+*Status: E1-reviewed | Sources: 25*
 *Last Updated: 2026-09-07 ("White Kanawana", a named four-day winter programme of 1982-83)*
 
 ## Overview
@@ -44,6 +44,24 @@ So three separate documents now put an at-capacity family ski programme at Kanaw
 So the winter of 1969-70 had two distinct programmes running at Kanawana, and this article had neither. One was a popular Saturday ski day run by a city branch and oversubscribed. The other was the [[site/places-and-locations|Long House]] — the 1952 waterfront recreation hall, demolished in 1978 — opened under a stated policy of aid to disadvantaged families. The release gives no numbers, no dates and no organiser for it, only that the preparations were finished.
 
 So in the winter of 1969-70 there were groomed downhill runs at Kanawana, ski instruction, a supervised nursery, and more demand than the programme could take — run by a **city branch**, not by the camp. The Timeline below dates a ski tow to 1971-72 and Winter Outdoor Family Camping to 1972-73. Those entries stand: the 1972-73 report describes *infrastructure*, a lift and two groomed slopes, which this bulletin does not mention, and "Winter Outdoor Family Camping" may be a distinct named programme. What does not stand is the shape of the story. Organised, advertised, oversubscribed winter family programming was happening here three years before the date this article gives for its beginning.
+
+## And the camp's own director was arguing for year-round use in 1969
+
+The family ski day above was the West Island Branch's programme, not the camp's. In the same season
+Kanawana's own director was making the general case, and this article has treated year-round use as a
+1990s development.
+
+Geoff Anderson, in the 1969 annual report: "**We occupy 1000 acres of valuable land** which will be under
+increasing pressure as the surge of population continues. **We use only a very small portion of this land
+and it is a luxury that we will soon not be able to justify** either on social or economic grounds…
+Basically, **Kamp Kanawana is in use only 1/6th of the year. We must make plans to develop a much greater
+use of our property year round.**"^25
+
+He names the obstacle in the same passage: "an old and inadequate dining hall and kitchen, lack of
+program space and facilities, lack of storage". The 1966 report had already called the plant "1940
+specifications… for youth designed and educated for the space-plus age". **The argument for year-round
+use is not a green-shift idea arriving from outside in the 1990s; it was being made inside the camp in
+1969, on economic and social grounds, and the plant was the reason it did not happen.** [f_2413]
 
 ## The 1980s: the site as the association's training ground
 
@@ -210,6 +228,7 @@ residential offering beside it, or a single season's experiment is not stated.
 22. YMCA Bulletin, 13 February 1970, "for information / all staff / key lay persons" [src_ymca_bulletin_1970_02_13]. A national reprint of the 29 January Montreal item; transcribed at `sources/cache/ymca-national/2026-09-07-national-bulletin-1970-reprints-the-soup-item.txt`. Found by the accounted sweep of `rma-concordia-publications` under p_479. See [f_5417].
 23. *The Green Triangle*, **September 1976** and **15 November 1982** [src_ymf_the_green_triangle_1976_09, src_ymf_the_green_triangle_1982_11_15_eng] — the two surviving issues of the revived paper. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 24. YMCA of Montreal, bilingual staff communiqué, 26 October 1973 [src_ymf_news_release_1973_10_26]. Metropolitan Offices, 1441 Drummond Street. Cached at `sources/cache/ymca-montreal-fonds/news-release-1973-10-26.txt`. Read in full 2026-09-07 under p_482. See [f_5550], [f_5551], [f_5552].
+25. Kamp Kanawana's own annual report for **1969** [src_ia_kanawana_report_1969], its "Registration, Capacity, Facilities and Land Utilization" section, signed by Geoff Anderson. Cached at `sources/cache/ymca-montreal-fonds/1969-kamp-kanawana-annual-report.txt`. See [f_2413], which had been in the KB since long before this article and was cited by no article at all.
 
 ## Research Notes
 

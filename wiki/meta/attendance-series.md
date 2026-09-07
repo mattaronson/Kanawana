@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 47*
+*Status: draft | Sources: 48*
 *Last Updated: 2026-09-07 (the ten year summary, read across four printings: 1960-78 filled)*
 
 ## Overview
@@ -148,6 +148,26 @@ annual reports are written after their year-end and routinely describe the summe
 director's own 93% for that season, and the six-consecutive-full-seasons reading below loses its first
 year. Logged as **`c_067`** and left for a human. What would settle it is the camp's 1988 season report,
 which this project does not hold, or the annual report for the year ended 31 May 1989.
+
+**And the camp did not know what its own capacity meant.** That is not an inference; it is stated twice,
+by two different directors, in the two years the series is otherwise best documented. The **1969** report,
+under a heading that runs "Registration, Capacity, Facilities and Land Utilization", says registration is
+unevenly spread across the summer and then: "**It seems to be then, that the problem of first urgency is
+establishing a reasonable capacity for Kamp Kanawana.** This should be based upon dining and program
+facilities and sleeping accommodation."^48
+
+A year later it is still open, and the **1970** report lists the candidate definitions rather than
+choosing one: "We were not overcrowded as far as sleeping and eating facilities went but our program
+areas were taxed to their limits. **A decision should be made as to the maximum number of campers we
+accommodate each period — is it based on budget, seating in dining hall, number of beds or what
+criteria?**"^48
+
+This bears on `c_067` without settling it. Part of what is in dispute there is what "capacity" denotes
+when one document's denominator is 756 camper weeks and another's season runs to 1,412. **Two capacity
+figures from an institution that never agreed with itself on the denominator are not necessarily
+contradictory** — and the assumption that the association had a single capacity in mind throughout was
+never stated, but was doing work. The which-summer half of the conflict is untouched, both sides remain
+documented, and it stays open. [f_5687]
 
 **What else that report says about the camp**, none of it in dispute: the age range was **7 to 15**;
 **20 children with special needs** were supported at camp through linkages with the **Montreal Oral School
@@ -703,6 +723,7 @@ from inside the camp office, in a year the camp was moving to coeducation.
 45. **The "KAMP KANAWANA TEN YEAR SUMMARY", read across four intact printings**, 2026-09-07 under `p_499`: the annual reports for **1969** [src_ia_kanawana_report_1969] and **1970** [src_ia_kanawana_report_1970] and the directors' reports for **1976** [src_ia_kanawana_directors_report_1976] and **1978** [src_ia_kanawana_report_1978], with the returnee row extended by the **1975** [src_ia_kanawana_report_1975] and **1979** [src_ia_kanawana_report_1979] printings. All cached in `sources/cache/ymca-montreal-fonds/`. The rolling nature of the table and what it costs to have missed it are at [f_5651]; the 1960-65 counts and how each was tested at [f_5652]; the Rangers section at [f_5653]; the girl series at [f_5654]; the returnee series at [f_5655]; the 'Y' membership collapse and its deletion from the table at [f_5656]; the religious breakdown and why only three columns of it are published at [f_5657]; the average-stay row used as an error-correcting check at [f_5658]. Disagreements with the contemporaneous reports are at `c_070` (1971) and `c_071` (1962, 1963, 1965, 1972).
 46. The **1966** printing of the same rolling appendix, in Kamp Kanawana's own annual report for 1966 [src_ia_kanawana_annual_report_1966], `sources/cache/ymca-montreal-fonds/1966-kamp-kanawana-annual-report.txt`. Read 2026-09-07 under `p_499`. Its scan is broken to one value per line, which for the earliest columns PRESERVED the row labels the 1965 printing lost. The 1956 reach-back and the two new camper-week totals are at [f_5665]; the religious series at [f_5666]; the 1958 Rangers figure at [f_5667]; the 1958 camper-count problem at [f_5668].
 47. The **1969** impression of the rolling appendix [src_ia_kanawana_report_1969] compared against the 1970, 1975, 1976, 1978 and 1979 impressions. Its religion block lists SEVEN categories including "No religion" where the 1970 block shows six, and the block is absent from every impression from 1975 on. Checked 2026-09-07 under `p_499` by searching all four later files for each category name. See [f_5669].
+48. Kamp Kanawana's own annual reports for **1969** [src_ia_kanawana_report_1969] and **1970** [src_ia_kanawana_report_1970], their capacity passages: the 1969 "Registration, Capacity, Facilities and Land Utilization" section and the 1970 REGISTRATION section. Read 2026-09-07 under `p_491`. See [f_5687], and the note added to `c_067`.
 
 ## Research Notes
 
