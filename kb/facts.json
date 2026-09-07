@@ -1,8 +1,8 @@
 {
-  "version": "10.98",
-  "kb_version": "10.98",
+  "version": "10.99",
+  "kb_version": "10.99",
   "migrated_from": "3.3",
-  "fact_count": 5671,
+  "fact_count": 5674,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102262,6 +102262,80 @@
       "date_ref": "1935",
       "conflicts_with": [],
       "added_version": "10.98",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5710",
+      "claim": "KANAWANA WAS A CONTRIBUTING UNIT OF THE MONTREAL YMCA'S WORLD SERVICE CAMPAIGN FOR AT LEAST TWENTY-FOUR YEARS, AND THE ASSOCIATION PRINTED ITS FIGURE EVERY YEAR BESIDE THE BRANCHES. Extracted 2026-09-07 under p_259, seam (b), from the association's own annual reports. The World Service tables list the camps as administrative units alongside Central, Westmount, N.D.G., Lachine and the rest. KANAWANA'S LINE, BY REPORT YEAR: 1940, 71.43. 1943, 55.85 (with 1942 at 47.34 beside it). 1944, 63.36. 1945, 79.03. 1946, 62.14. 1947, 71.79 (see the correction below). 1949, budget 100.00 and secured 154.64. 1950, budget 100.00 and secured 94.65. 1951, budget 115 and secured 119.04. 1952, budget about 135. 1953, budget about 135 and secured about 122. 1954, budget 150 and secured 169. 1955, budget 165 and secured 165 exactly. 1956, budget 165 and secured 257.33. 1957, budget 250 and secured 280.40. 1958, 485 in a single-column list. 1961, secured 400 against a DASH in the objective column, so no target was set for the camp that year while Otoreke was given 3,000 and secured 1,200. 1962, 288 in a single column under a total of $37,750. 1963, 433 in a single column under a total of $40,000. THE TABLE SHAPE CHANGES AND THE CHANGE IS DOCUMENTED IN THE TABLES THEMSELVES. Through 1946 each report prints two columns that are THIS YEAR AND LAST YEAR, which is provable rather than assumed: the second column of the 1944 report equals the first column of the 1943 report on EVERY legible row -- N.D.G. 695.95, North 350.00, Southwestern 275.00, International 257.76, Lachine 76.10, Otoreke 82.56, Kanawana 55.85 -- and the 1945 and 1946 reports repeat the pattern against 1944 and 1945. So every year in that era is printed twice, in two separate volumes. From 1949 the columns are labelled BUDGET (or OBJECTIVE) and SECURED, which is a different pair and must not be read as the earlier one. WHAT THE SERIES SHOWS: a camp contributing in the tens of dollars through the war, crossing a hundred at the end of the 1940s, and reaching the high hundreds by the early 1960s, while Camp Otoreke's line runs several times larger through the same period (300 budgeted in 1951 and 1,000 in 1955 and 1957 against Kanawana's 115 and 165 and 250). WHAT IS NOT ESTABLISHED IS THE MECHANISM. The tables do not say where a camp's World Service money came from. Camp Perrot's own reports say plainly that its Penny Fair proceeds and its chapel collections went to the World Service Fund; no Kanawana document read so far says the same of Kanawana, and the assumption that these figures are campers' Sunday collections is an assumption. || A NOTE ON WHAT IS AND IS NOT VERIFIED HERE. Only the 1947 and 1957 tables have been reconciled against their own printed totals; 1947 corrected a figure and recovered another (f_5711), and 1957's budget and secured columns both close exactly, which validates Kanawana's 250 and 280.40 and every other figure in that table. The 1949 objective column overshoots its printed total by 20 and the 1955 budget column by 200, so both carry OCR damage somewhere that has not been located, and their Kanawana lines are legible but not column-verified. The 1952 and 1953 figures are printed as '1356', which is read here as about 135 on the strength of every other budget in the run being a round figure; it is the weakest reading in the series and is marked as such.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1940",
+        "src_ymf_sgw_ymca_annual_report_1943",
+        "src_ymf_sgw_ymca_annual_report_1944",
+        "src_ymf_sgw_ymca_annual_report_1945",
+        "src_ymf_sgw_ymca_annual_report_1946",
+        "src_ymf_sgw_ymca_annual_report_1947",
+        "src_ymf_sgw_ymca_annual_report_1949",
+        "src_ymf_sgw_ymca_annual_report_1950",
+        "src_ymf_sgw_ymca_annual_report_1951",
+        "src_ymf_sgw_ymca_annual_report_1955",
+        "src_ymf_sgw_ymca_annual_report_1957"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "Kamp Kanawana",
+        "Camp Otoreke",
+        "Camp Perrot",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1940-1963",
+      "conflicts_with": [],
+      "added_version": "10.99",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5711",
+      "claim": "A COLUMN THAT ADDS UP CORRECTS KANAWANA'S 1947 FIGURE AND RECOVERS CAMP PERROT'S, WHICH THE SCAN LOST ENTIRELY. The 1947 report's World Service results are a single column of fourteen units under a printed total of $18,100.68, and the scan gives Kanawana as 671.79 and Camp Perrot as unreadable. 671.79 CANNOT BE RIGHT: the eleven legible lines above Kanawana sum to 17,797.17, so adding 671.79 and Otoreke's 209.89 reaches 18,678.85 BEFORE Perrot is added at all, overshooting the printed total by 578.17. Read as 71.79 the column closes exactly and hands back the missing line: 17,797.17 plus 71.79 plus 209.89 is 18,078.85, leaving CAMP PERROT AT $21.83. TWO INDEPENDENT SUPPORTS FOR THE READING. It requires only an inserted leading digit, the commonest OCR failure of all; and 71.79 sits inside the series where 671.79 is an order of magnitude outside it, the camp having given 62.14 the year before, 79.03 the year before that and 71.43 in 1940, and having secured 154.64 two years later. IT ALSO RESTORES THE ORDER OF THE TWO CAMPS. Otoreke's line is larger than Kanawana's in every other year checked; at 671.79 Kanawana would outgive Otoreke threefold in 1947 alone and fall back to two fifths of it by 1949. THE METHOD IS THE POINT AND IT IS THE SAME ONE THAT CORRECTED THE 1948 PERROT BRANCH TABLE (f_5697): where a table prints its parts and its total, derive the parts and check, and OCR damage announces itself. Here it did more than announce damage -- it recovered a figure that is not on the page at all in any legible form.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1947"
+      ],
+      "confidence": "inferred",
+      "category": "institutional",
+      "entities": [
+        "Kamp Kanawana",
+        "Camp Perrot",
+        "Camp Otoreke"
+      ],
+      "date_ref": "1947",
+      "conflicts_with": [],
+      "added_version": "10.99",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5712",
+      "claim": "KANAWANA'S BOOK VALUE, 1920 TO 1958, FROM THE ASSOCIATION'S OWN ASSET SCHEDULES -- AND THE THREE CAMPS DIVERGE AT THE END OF IT. Extracted 2026-09-07 under p_259, seam (a). The YMCA of Montreal's annual reports carry a schedule of land, buildings and furnishings by unit, and Kanawana is on it. THE SERIES: 1920, $2,500 in all (land $900, buildings $1,000, equipment $600, itemised separately that year). 1925, $17,876.39 as 'Land and Buildings'. 1926, $17,876.39 unchanged. 1927, $18,026.39. 1928, $18,026.39 unchanged. 1949, $55,750.30. 1951, $70,567.80. 1956, $83,687.39. 1958, $91,850.75. THE FIRST INTERVAL IS THE STEEPEST IN THE WHOLE RUN: sevenfold between 1920 and 1925, which is the building era this project already tracks through the Ross and Macdonald drawings, and then almost flat for the rest of the decade. AND THE LAST INTERVAL SEPARATES THE THREE CAMPS. In the 1956 schedule Otoreke stands at $75,687.65 and Perrot at $46,335.91; in the 1958 schedule Otoreke stands at $75,687.65 and Perrot at $46,335.91, THE SAME FIGURES TO THE CENT, while Kanawana rises from $83,687.39 to $91,850.75, a gain of $8,163.36. So in those two years the association capitalised nothing at its other two camps and over eight thousand dollars at this one. CAMP PERROT'S OWN REPORTS FOR THOSE YEARS ARE ASKING FOR A WASH HOUSE, A BUNGALOW FOR THE KITCHEN STAFF AND FOUR HUNDRED TONS OF STONE, and the committee that met in July 1958 listed reasons to close it. A book value is not a decision and none is claimed here, but a flat line on one camp's assets beside a rising line on another's is the shape of the decision as it appears in the ledger.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1920",
+        "src_ymf_sgw_ymca_annual_report_1925",
+        "src_ymf_sgw_ymca_annual_report_1926",
+        "src_ymf_sgw_ymca_annual_report_1927",
+        "src_ymf_sgw_ymca_annual_report_1928",
+        "src_ymf_sgw_ymca_annual_report_1949",
+        "src_ymf_sgw_ymca_annual_report_1951",
+        "src_ymf_sgw_ymca_annual_report_1956",
+        "src_ymf_sgw_ymca_annual_report_1958"
+      ],
+      "confidence": "stated",
+      "category": "property",
+      "entities": [
+        "Kamp Kanawana",
+        "Camp Otoreke",
+        "Camp Perrot",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1920-1958",
+      "conflicts_with": [],
+      "added_version": "10.99",
       "added_by": "ralph_loop"
     }
   ]

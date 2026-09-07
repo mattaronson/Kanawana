@@ -1,7 +1,7 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 60*
-*Last Updated: 2026-09-07 (the Fowle attribution stated as the inference it is)*
+*Status: E1-reviewed | Sources: 61*
+*Last Updated: 2026-09-07 (twenty-four years of the camp's World Service giving, and a column that corrected itself)*
 
 ## Overview
 
@@ -24,6 +24,29 @@ A systematic search for post-2005 "Kamp Kanawana" usage (2026-07-07) found no ge
 ## Spiritual Life
 
 The YMCA's Christian character shaped daily routines throughout the camp's early decades. Morning devotions were held around the flagpole, and evening vespers provided a contemplative close to each day.^4 An open-air chapel held its first service of the 1935 season on June 30, with an organized choir documented in the 1938 Green Triangle.^5 ^6 On final nights of the camp season, conversion commitments were sought from campers.^4 The extent to which formal spiritual observances continue in the modern camp is undocumented.
+
+**The camp gave money away, and the association printed how much.** From at least 1940 to 1963, the
+YMCA of Montreal's World Service tables list Kanawana as a contributing unit in its own right, on the
+same page as Central, Westmount, Notre Dame de Grace and Lachine.^61 The line runs in the tens of
+dollars through the war (**$47.34** in 1942, **$55.85** in 1943, **$63.36** in 1944, **$79.03** in 1945,
+**$62.14** in 1946), crosses a hundred at the end of the decade (**$154.64** secured in 1949 against a
+budget of $100), and reaches **$280.40** in 1957 and **$485** in 1958. By 1961 the association set the
+camp no target at all and it turned in **$400** anyway.
+
+Two things about that series are worth keeping. **Camp Otoreke's line is several times larger
+throughout** — budgeted at $1,000 in 1955 and 1957 where Kanawana was budgeted $165 and $250 — which is
+a difference in what the two camps were for as much as in what they raised. And **the tables do not say
+where a camp's money came from.** Camp Perrot's own reports say plainly that its Penny Fair proceeds and
+its chapel collections went to the World Service Fund; no Kanawana document read so far says the same of
+Kanawana, so reading these figures as the campers' Sunday collections is an assumption and is left as
+one here.^61 [f_5710]
+
+**One year in that run was wrong on the page and a column of addition fixed it.** The 1947 table gives
+Kanawana **$671.79** under a printed total of $18,100.68. The eleven legible lines above it already sum
+to $17,797.17, so 671.79 plus Otoreke's 209.89 overshoots the total before Camp Perrot's line is added
+at all. Read as **$71.79** the column closes exactly, and hands back the line the scan had lost
+entirely: **Camp Perrot, $21.83**. The reading needs only an inserted leading digit, and it puts the
+year back inside a series that runs 62.14, 79.03 and 71.43 on either side of it.^61 [f_5711]
 
 ## Annual Events and Competitions
 
@@ -807,3 +830,5 @@ Kanawana."^40 Whether either was ever held again is not known here.
 59. Kamp Kanawana's own annual report for **1964**, its seventy-first season [src_ia_kanawana_report_1964], `sources/cache/ymca-montreal-fonds/1964-kamp-kanawana-annual-report.txt`. The staff of six nationalities in one section and the three English students who flew out on a charter are quoted from it directly; the camper origins — the Bahamas, the U.S.A., the two boys from **Japan**, the boy from **Haiti**, and the "new Canadian" boys — are at [f_2391], and the **535** campers and the counsellor figures at [f_2389]. Brought into this article 2026-09-07 under p_492, the orphan-fact sweep.
 
 60. *The Green Triangle* for **13 July**, **20 July** and **27 July 1935** [src_ymf_the_green_triangle_1935_07_13, src_ymf_the_green_triangle_1935_07_20, src_ymf_the_green_triangle_1935_07_27], and *A History of Kamp Kanawana*, the 1935 season chronicle [src_history_1935], cached at `sources/cache/green-triangle/1935-history.txt`. Read side by side 2026-09-07 under `p_495`; the government question and the null searches are at [f_5709], and the identification they qualify at [f_5628].
+
+61. YMCA of Montreal annual reports for **1940**, **1943**–**1947**, **1949**–**1958** and **1961**–**1963** [src_ymf_sgw_ymca_annual_report_1940, src_ymf_sgw_ymca_annual_report_1943, src_ymf_sgw_ymca_annual_report_1944, src_ymf_sgw_ymca_annual_report_1945, src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1947, src_ymf_sgw_ymca_annual_report_1949, src_ymf_sgw_ymca_annual_report_1950, src_ymf_sgw_ymca_annual_report_1951, src_ymf_sgw_ymca_annual_report_1955, src_ymf_sgw_ymca_annual_report_1957], their World Service tables. Swept 2026-09-07 under `p_259`. **Only the 1947 and 1957 tables have been reconciled against their own printed totals**; the 1949 and 1955 columns each overshoot theirs, so their Kanawana lines are legible but not column-verified. The series is at [f_5710] and the 1947 correction at [f_5711].

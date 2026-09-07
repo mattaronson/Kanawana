@@ -1,7 +1,7 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 74*
-*Last Updated: 2026-09-07 (who used the property in 1970, named)*
+*Status: E1-reviewed | Sources: 75*
+*Last Updated: 2026-09-07 (the camp's book value to 1958, and the year the other two camps stopped moving)*
 
 ## Overview
 
@@ -635,6 +635,37 @@ The second is that **the Men's Camp was still a separate property with its own l
 this shows the two still carried apart a quarter-century later, the boys' side by then the larger of
 them on every line and by tenfold on revenue.
 
+### The book value to 1958
+
+The same schedule runs for decades, and Kanawana stays on it. Figures are "land and buildings", later
+"land, buildings and furnishings", as the reports themselves label the column.^75
+
+| Report year | Kanawana on the books |
+|---|---|
+| 1920 | **$2,500** *(land $900, buildings $1,000, equipment $600)* |
+| 1925 | **$17,876.39** |
+| 1926 | $17,876.39, unchanged |
+| 1927 | **$18,026.39** |
+| 1928 | $18,026.39, unchanged |
+| 1949 | **$55,750.30** |
+| 1951 | **$70,567.80** |
+| 1956 | **$83,687.39** |
+| 1958 | **$91,850.75** |
+
+**The first interval is the steepest in the run**, sevenfold in five years, and it is the building era
+this article tracks elsewhere through the Ross and Macdonald drawings. Then almost nothing for the rest
+of the decade: $150 added between 1926 and 1928, which is a repair rather than a building.
+
+**And the last interval separates the three camps.** In 1956 Camp Otoreke stands at $75,687.65 and Camp
+Perrot at $46,335.91. In 1958 Camp Otoreke stands at $75,687.65 and Camp Perrot at $46,335.91, the same
+figures to the cent, while Kanawana rises by **$8,163.36**. In those two years the association
+capitalised nothing at its other two camps and over eight thousand dollars at this one. Camp Perrot's
+own reports for those years are asking for a wash house, a bungalow for the kitchen staff and four
+hundred tons of stone, and its committee met in July 1958 with a list of reasons to close it. A book
+value is not a decision and none is claimed here, but a flat line on one camp's assets beside a rising
+line on another's is the shape of the decision as it appears in the ledger. See
+[[site/camp-perrot|Camp Perrot]] and [[site/camp-otoreke|Camp Otoreke]]. [f_5712]
+
 ## Open Questions
 
 1. ~~[Important] The YMCA Kanawana Facts sheet dates the site purchase to 1910. Was the first season at Saint-Sauveur in 1910 or 1911?~~ [Resolved] McMorris confirms 1910 as the first season at the Saint-Sauveur site. The 1935 History's reference to the camp's "twenty-sixth year of existence" counts from 1910.^12
@@ -735,6 +766,7 @@ them on every line and by tenfold on revenue.
 72. Kamp Kanawana director's report for **1979** [src_ia_kanawana_report_1979]: the **plastic enclosures** tested that year for the dining hall with the recommendation to buy enough for the rest, the room "quite dark on even the sunniest days", and Julien Tassé's season of work including the new dining-hall stairs. At [f_5650], which corrects the **1977** enclosure date given at [f_5627].
 73. Kamp Kanawana's own directors' reports for **1976** [src_ia_kanawana_directors_report_1976], **1977** [src_ia_kanawana_report_1977] and **1978** [src_ia_kanawana_report_1978], in their APPRECIATION sections; cached in `sources/cache/ymca-montreal-fonds/`. Read 2026-09-07 under `p_499`. See [f_5662].
 74. *Kamp Kanawana Annual Report 1970* [src_ia_kanawana_report_1970], its RENTALS and VISITORS section; cached at `sources/cache/ymca-montreal-fonds/1970-kamp-kanawana-annual-report.txt`. Read end to end 2026-09-07 under `p_491`. See [f_5704].
+75. YMCA of Montreal annual reports for **1925**, **1926**, **1927**, **1928**, **1949**, **1951**, **1956** and **1958** [src_ymf_sgw_ymca_annual_report_1925, src_ymf_sgw_ymca_annual_report_1926, src_ymf_sgw_ymca_annual_report_1927, src_ymf_sgw_ymca_annual_report_1928, src_ymf_sgw_ymca_annual_report_1949, src_ymf_sgw_ymca_annual_report_1951, src_ymf_sgw_ymca_annual_report_1956, src_ymf_sgw_ymca_annual_report_1958], their asset schedules of land, buildings and furnishings by unit. Cached under `sources/cache/ymca-montreal-fonds/`; swept 2026-09-07 under `p_259`, the seam the annual-report pass identified and did not attempt. See [f_5712].
 
 ## Research Notes
 

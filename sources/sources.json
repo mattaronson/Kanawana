@@ -2345,7 +2345,7 @@
     {
       "source_id": "src_ebay_valcartier_ymca_postcard",
       "type": "catalog_reference",
-      "title": "eBay listing — Valcartier YMCA Camp Quebec Canada Unused c1915 Postcard (TH Davies Litho)",
+      "title": "eBay listing (unread, 403) -- Valcartier YMCA Camp postcard, c.1915. NOT KANAWANA-RELEVANT; reclassified 2026-09-07, see notes",
       "date": "1915",
       "date_precision": "approximate",
       "origin": "web",
@@ -2356,7 +2356,7 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "tertiary",
-      "notes": "Not Camp Kanawana but relevant to YMCA camp visual culture in Quebec. Unused c1915 lithograph postcard of Valcartier YMCA Camp. TH Davies litho. Demonstrates YMCA camp postcard tradition existed in Quebec in early 20th century.",
+      "notes": "RECLASSIFIED 2026-09-07 under p_266. THIS IS NOT EVIDENCE ABOUT KANAWANA AND SHOULD NOT BE CITED AS THOUGH IT WERE. Camp Valcartier is a First World War ARMY training camp near Quebec City, about 250 km from Saint-Sauveur, with a YMCA wartime presence and no documented connection to the YMCA of Montreal or to boys' camping. The record was filed as Kanawana-relevant material culture on the reasoning that it shows a YMCA camp postcard tradition existing in Quebec in the early twentieth century. That reasoning is weak even if the listing were readable, and IT IS NOT: eBay returned HTTP 403 anti-bot refusals at both .com and .ca and no mirror carried the body, so only the listing TITLE is confirmed, via a search-engine index (f_2199). THE DATE, PUBLISHER AND IMAGERY ARE A SELLER'S CATALOGUING CLAIMS THAT NOBODY IN THIS PROJECT HAS CHECKED AGAINST THE OBJECT. The record is kept rather than deleted, because a deleted record cannot tell a later pass that this ground was covered and why it was dropped. IF THE POINT IS EVER WORTH MAKING -- that YMCA camps in Quebec were photographed and printed as postcards before the First World War -- IT SHOULD REST ON A CARD IN A PERMANENT COLLECTION WITH A CATALOGUE ENTRY, not on a marketplace listing that will vanish when the item sells. The former title read: 'eBay listing -- Valcartier YMCA Camp Quebec Canada Unused c1915 Postcard (TH Davies Litho)'.",
       "read_state": "unavailable",
       "read_state_basis": "asserted:blocked-403-anti-bot-body-never-seen"
     },
