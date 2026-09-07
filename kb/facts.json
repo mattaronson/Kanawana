@@ -2,7 +2,7 @@
   "version": "10.09",
   "kb_version": "10.09",
   "migrated_from": "3.3",
-  "fact_count": 5514,
+  "fact_count": 5516,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -99422,6 +99422,41 @@
       "claim": "THE CAMPING BRANCH HAD ITS OWN DIVISION CHAIRMAN IN THE YMCA'S ANNUAL FUNDRAISING CAMPAIGN. The same communiqué, under CAMPAIGN '74: David Braide, a Vice-president with CIL, as general chairman of the Montreal YMCA's 1974 financial campaign; Logan Brown, President of Robin Hood Multifoods, heading Corporate and Special Names; Murray Robinson, Manager, Mutual Life Insurance Co., as Chairman of Branch Divisions. Four branch division chairmen are named, and the FIRST OF THEM IS CAMPING: 'P. Davey, CAMPING BRANCH; John Rogers, Downtown; Graham Ballantyne, Northwestern; J. Normandin, Verdun-LaSalle.' So camping was constituted as a BRANCH alongside the geographic branches for fundraising purposes, with its own volunteer chairman, rather than being funded out of a general pool. (Surnames as OCR'd: 'Murcay Robinson', 'Robin Esod Multifoods' and 'Nerthwestern' are read here as Murray Robinson, Robin Hood Multifoods and Northwestern.) The Metropolitan Offices are at 1441 DRUMMOND STREET in 1973; Concordia's 2007 Seaman booklet puts both the YMCA and YMCA Kanawana at 1435 Drummond, 4th Floor -- a different number on the same street, thirty-four years apart, recorded rather than reconciled.",
       "sources": [
         "src_ymf_news_release_1973_10_26"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5553",
+      "category": "program",
+      "date_ref": "1969-05-29",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal",
+        "Geoff Anderson"
+      ],
+      "claim": "A THIRD 1969 NEWS RELEASE ON THE FRENCH SECTION, AND IT PUTS KANAWANA INSIDE AN ASSOCIATION-WIDE PUSH RATHER THAN ON ITS OWN. The Montreal YMCA communiqué of 29 MAY 1969, under the headline 'B & B AT KANAWANA AND DAY CAMPS': 'Kamp Kanawana will this summer operate a special FRENCH-LANGUAGE SECTION FOR ENGLISH-SPEAKING BOYS AGE 12-16. It is designed to encourage the campers to learn the language naturally while enjoying all the fun and benefits and an all-round program. For further information please contact GEOFF ANDERSON at 849-5331 or your local YMCA.' The section, the age range and Anderson are all already in wiki/traditions/french-language-camping.md from the releases of 24 April and 13 May 1969, so this is a third witness to them and not a new fact. WHAT IS NEW IS THE SECOND HALF OF THE ITEM: 'In the city, day camp programs of INTERNATIONAL, VERDUN-LASALLE, WEST ISLAND and WESTMOUNT BRANCHES will either be BILINGUAL or have SPECIAL FRENCH-LANGUAGE SECTIONS.' The wiki's earliest evidence for day-camp French sections beyond the International Branch is the annual report for the year to 31 May 1972, which has N.D.G. and Westmount doing it 'again'. THIS IS THREE YEARS EARLIER AND FOUR BRANCHES. Kanawana's residential section was therefore one arm of a co-ordinated association-wide programme in the same summer, not an isolated experiment at one camp. AND THE HEADLINE IS A READING WORTH RECORDING AS A READING: 'B & B' in a Montreal institution's 1969 communiqué is almost certainly the Royal Commission on BILINGUALISM AND BICULTURALISM, whose first volume appeared in 1967. The release does not expand the abbreviation and nothing here proves it, but it would make the whole 1969 programme an answer to the Commission rather than a camp initiative.",
+      "sources": [
+        "src_ymf_p0145_news_release_1969_05_29"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "10.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5554",
+      "category": "institutional",
+      "date_ref": "1969-05-29",
+      "entities": [
+        "YMCA of Montreal",
+        "Ile Perrot"
+      ],
+      "claim": "THE WEST ISLAND DAY CAMP ON ÎLE PERROT RAN ACTIVITIES FOR DISABLED CHILDREN IN 1969. The same communiqué: 'In co-operation with the QUEBEC ASSOCIATION FOR MENTALLY RETARDED CHILDREN, West Island's day camp complex on ÎLE PERROT will also have SPECIAL ACTIVITIES FOR HANDICAPPED YOUNGSTERS.' (The association's name is given as it was printed in 1969.) The Montreal YMCA's Île Perrot connection is otherwise held here from a 1946 brochure; this is a distinct programme twenty-three years later and an early instance of the association's camping work reaching children with disabilities, which this project has almost nothing on. It is a DAY CAMP on a different site and is not a Kanawana programme.",
+      "sources": [
+        "src_ymf_p0145_news_release_1969_05_29"
       ],
       "confidence": "stated",
       "conflicts_with": [],

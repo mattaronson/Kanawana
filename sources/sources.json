@@ -14827,12 +14827,12 @@
       "cache_path": "sources/cache/ymca-montreal-fonds/P0145-news-release-1969-05-29.txt",
       "char_count": 5875,
       "ingested_at": "2026-08-25T00:00:00Z",
-      "extracted": false,
-      "extraction_version": "v5.60",
+      "extracted": true,
+      "extraction_version": "10.09",
       "reliability": "primary",
-      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
-      "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. || READ WORD FOR WORD 2026-09-07 (p_482). Its Kanawana item, headlined 'B & B at Kanawana and day camps', is a THIRD witness to the 1969 French-language section for English-speaking boys aged 12-16 and to Geoff Anderson as its contact -- both already held from the releases of 24 April and 13 May 1969, so nothing new there. WHAT IS NEW is the item's second half: the day camps of INTERNATIONAL, VERDUN-LASALLE, WEST ISLAND and WESTMOUNT branches 'will either be bilingual or have special French-language sections' in 1969 -- three years earlier and four branches wider than the 1972 annual report this wiki had been relying on, which makes Kanawana's section the resident arm of an association-wide programme rather than one camp's experiment. Also records West Island's Île Perrot day camp running activities for disabled children with the Quebec Association for Mentally Retarded Children. The rest of the release is city-branch business with no Kanawana content: a Task Force on Canadian Sports comment, a Downtown fitness banquet, the National Council's annual meeting at Geneva Park (where Susan Young became one of the first three women on the national board and Fred Hubbard, former General Secretary of the Montreal YMCA, was made an Honorary Lifetime Member), Verdun detached work, the Westmount residence, and 'Aventure Canadienne'. See f_5553, f_5554.",
+      "read_state": "read",
+      "read_state_basis": "read word for word 2026-09-07 under p_482, superseding the \"skimmed\" state of 2026-08-25"
     },
     {
       "source_id": "src_ymf_p0145_news_release_1969_09_02",
