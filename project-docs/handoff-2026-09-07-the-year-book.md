@@ -346,6 +346,14 @@ worked because both of his tokens are individually rare. **A rule about how an i
 is a claim like any other, and two observations do not establish one.** The cost here was nearly
 closing two names as dead ends on a property the instrument does not have.
 
+**Rule 44: run `date -u` before you write a timestamp.** Every entry this session put into
+`logs/pipeline.log` was stamped by continuing the sequence above it — 13:45, 14:05, 14:30 — and the
+machine's actual time was 04:59Z. The pattern goes back through the file well before this session,
+so the log's stamps are a plausible fiction throughout. Order and content are sound; **elapsed time
+is not, and nothing should be derived from these stamps.** This session's eight entries are
+corrected against `git log --date=iso-strict`, which is the only real clock in the repository. A
+timestamp is a claim about the world, like any other.
+
 ## The shape of the day, in one line
 
 **The Year Book's real contribution was not its own content but the names and dates that made
