@@ -1,6 +1,6 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 58*
+*Status: E1-reviewed | Sources: 59*
 *Last Updated: 2026-09-07 (the c.1940 badges themselves, labelled by whoever kept the scrapbook)*
 
 ## Overview
@@ -255,6 +255,35 @@ with those fellows we will gain respect for their various countries, and, **beca
 public opinion, will be a force for internationalism**."^50 Fifteen nations against the nine counted
 in 1935, and a stated theory of why a boys' camp should care: that the campers were future public
 opinion. Written in July 1938.
+
+**1964: it was in the staff again, and the camp counted who came.** Thirty years after the
+League-of-Nations truckload, the camp's own annual report describes the same thing without the
+epithets: "**In one section alone six different countries were represented on the staff**, one from
+Holland, one from Poland, three from England, one from France, one from Australia and of course from
+Canada. **Three of the staff were English University students who came to Canada on a student chartered
+plane and stayed nine weeks in camp** before making a tour of parts of Canada and the United States."
+Staff came "from as far east in Canada as Cape Breton Island to Toronto in the west and as far south as
+Virginia in the United States."^59
+
+The campers were counted the same way. Two boys came **from Japan**, their fathers posted to Montreal
+with the **International Civil Aviation Organization**; their counsellor was **from Malaysia** and spoke
+four eastern languages, none of them Japanese. One boy came **from Haiti**, "his father being the
+commander of the army of that country." Others came from the Bahamas and the United States, and the
+report notes "an increasing number of **French campers, many of whom are sent to Kanawana to learn
+English**," alongside "many '**new Canadian**' boys… from such countries as Hungary, Holland, Germany,
+France and Italy."^59
+
+**And one paragraph is about who was choosing not to go elsewhere.** "The new **YMHA** camp has made no
+difference to the total number of **Jewish boys** attending Kanawana. It would seem reasonable to
+predict that we will always retain a fair number of Jewish campers, as **the parents of many of them
+feel that this is a good opportunity for them to get outside of the Jewish community for a period of
+time**."^59 It is the camp's own reading of other people's motives, written by a director watching a
+competitor open, and it should be read as that rather than as testimony from the families concerned.
+What it does establish is that Kanawana enrolled Jewish campers in numbers the director thought worth a
+paragraph, and that he expected to go on doing so. The camp's own ten-year statistical table of the same
+period counts campers as Protestant, Roman Catholic, Jewish, Buddhist and not reported; those figures
+are not recoverable from the scan, and what they would show is set out at
+[[meta/attendance-series|The Attendance Series]].
 
 **1965: three languages a tent.** Thirty years on, a camper's own piece in *The Chestnut*: "In most
 tents, there are **at least three languages**. I think this is good because it helps campers to get
@@ -753,3 +782,4 @@ Kanawana."^40 Whether either was ever held again is not known here.
 56. Henry F. Hall, *The Georgian Spirit: The Story of Sir George Williams University* [src_georgian_spirit_1967], which names "John P. Kidd" in a list headed "(a) Bachelor of Arts"; and *The Passionate Educators* [src_passionate_educators], whose notes cite four letters from J. R. Kidd to J. P. Kidd in 1950-51. Both reached through Open Library search-inside 2026-09-07; **neither full text was downloaded**, so both are snippet evidence. See [f_5571].
 57. Kamp Kanawana physical archive scans, 2026 [src_kanawana_physical_archive_scans_2026] — an operator-supplied set of scanned artefacts. The **c.1940** scrapbook page of felt badges is at [f_1582] and the **Kanawana Outing Club** badge at [f_1583]. Brought into this article 2026-09-07 under p_492, the orphan-fact sweep.
 58. *The Green Triangle*, Spring Issue, **30 March 1937** [src_ymf_the_green_triangle_1937_03_30], cached at `sources/cache/ymca-montreal-fonds/the-green-triangle-1937-03-30.txt`. The **1937** break-camp truckload, the "League of Nation nationalities" passage and the caricatures in it are at [f_5629]. **Jack Cameron**, first of the six named, is followed across four documents from **1936** to **1940** at [f_5626].
+59. Kamp Kanawana's own annual report for **1964**, its seventy-first season [src_ia_kanawana_report_1964], `sources/cache/ymca-montreal-fonds/1964-kamp-kanawana-annual-report.txt`. The staff of six nationalities in one section and the three English students who flew out on a charter are quoted from it directly; the camper origins — the Bahamas, the U.S.A., the two boys from **Japan**, the boy from **Haiti**, and the "new Canadian" boys — are at [f_2391], and the **535** campers and the counsellor figures at [f_2389]. Brought into this article 2026-09-07 under p_492, the orphan-fact sweep.
