@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 67*
+*Status: E1-reviewed | Sources: 68*
 *Last Updated: 2026-09-07 (McKay dated to May 1962; the 1,507-camper season; and who was responsible for the camp)*
 
 ## Overview
@@ -391,6 +391,35 @@ Petite-Bourgogne — Little Burgundy, the working-class district southwest of do
 
 A man who had spent two years supervising forty-eight refugee youth centres across four Middle Eastern territories came home to run a family camp in the Laurentians. The Y connection runs both ways: he built the programme that sent twenty-two Canadian students, three of them Sir George men, to the Middle East as YMCA summer service volunteers. His wife is named as Janet Marilyn, née Pickford of Westmount.
 
+### Christieville at its peak, 1949-50
+
+The ski lodge was **secured in the autumn of 1947** "after being used on a rental basis for two
+seasons" — so rented from about 1945 — which dates it earlier than Concordia's finding-aid file
+"Christieville property, 1948-1951" would suggest, and fits its "Memorandum proposing ski club, 1941."^68
+
+The 1949-50 season was "successful in spite of poor skiing conditions during the month of January and
+**the curtailment of all C.N.R. special ski train service** during January and February": the lodge ran
+on excursion trains. That autumn "a **new chimney** replaced the old one and the **fireplace was
+rebuilt**. The **dining hall was enlarged to seat 80**, and a **new sleeping cabin** was built to
+accommodate 36. Sleeping accommodation is now provided for **85**."^68
+
+And it was busy. "**One hundred and fifty young people were members of the ski club.** These were given
+**first call on the accommodation** and a slightly lower weekend rate than non-members. Altogether,
+**558 persons were guests at the lodge** during the season. This number does not include the many who
+had **meals only**."^68 A committee of seven young people and the Director ran weekly Saturday-night
+programmes of movies and dancing, beginners' ski instruction was provided, and **three young women and
+seven young men**, all lodge members, "served on the **Laurentian Zone Ski Patrol**, doing duty on the
+hills in the vicinity of Christieville."
+
+**Otoreke's own 1949 summer** is on the same page. "Since **canoe trips** became a part of Otoreke
+programme, their popularity has increased to such an extent that registrations for last summer's **six
+trips were filled before the camp opening date**. Parties of **18–21 young people** spent **six days** on
+each," heading for the water west of Lake Labelle. The camp installed "**Liquigas ranges**, a **Hobart
+mixer** and **Whirlpool dishwasher** for the kitchen, and **plastic dishes** for the dining room. **Ten
+modified water system toilets** were installed. **A direct telephone service to the camp island** has
+also been provided."^68 That last phrase is worth keeping for the island question above: in 1949 the
+camp was on the island, and the association ran a telephone line out to it.
+
 ### 1959: not a camp any more, a lodge — and the report says why
 
 The annual report for the year ending 31 December 1959 files Otoreke under a heading it had not used
@@ -407,13 +436,21 @@ with regular weekend outings**. This appears to be **the new role that Otoreke i
 likely that **as the Laurentians become more and more a suburb of Montreal** we can anticipate an
 increase of short-term guests." And a proposed second role: "increased requests from various youth
 organizations for **summer conference facilities**… such a scheme would go a long way to **fill the
-growing gap between mid-week and weekend occupancy**."^67
+growing gap between mid-week and weekend occupancy**."^67 **That "second new role" was a decade old.** The 1950 report
+records "**seven weekend conferences**" held at Otoreke in June and September 1949 "for branch programme
+planning, training in leadership and committee work" — the shoulder months, exactly the gap the 1959
+writer proposes filling.^68 Either the practice lapsed in between or he did not know his own camp's
+recent past. Nothing here says which, and it is a standing caution about an annual report's word "new."
 
 The association had watched cheap travel and Laurentian suburbanisation change what its members did with
 a summer, and was rewriting a residential camp as a weekend lodge with a midweek conference trade to
 fill the hole. It names the mechanism, not just the symptom.
 
-**And Christieville had a club.** "This Lodge is the **winter camp for many of the Otoreke guests, who
+**And Christieville still had a club.** *(This paragraph read "had a club" until the 1950 report was
+read twenty minutes later. The club is not a 1959 development — see the section above, where it has 150
+members and the lodge takes 558 guests in 1949-50. Set beside those figures the numbers below are not a
+report of activity but of decline: roughly half the membership and a sixth of the traffic, ten years
+on.)* "This Lodge is the **winter camp for many of the Otoreke guests, who
 have formed an Otoreke Ski Club**. Its **membership during the year was 87** with **close to 100 guests
 and members** visiting the Lodge during the ski weekends. It is situated in the heart of the ski country
 with **hills and tows on the property**, or easy access to St. Sauveur, Morin Heights, Mont Gabrielle,
@@ -1306,6 +1343,7 @@ centre. It is the same kind of use, twenty years earlier, that
 65. YMCA of Montreal annual report for the year ending 30 April **1927** [src_ymf_sgw_ymca_annual_report_1927], on the **1926** season: the deficit of **$589.03**, the transfer of the camp's operation to the Metropolitan Physical and Recreational Committee, the Lac St. Joseph regatta and concert, and the Sunday services "much appreciated by Lake residents and campers". All at [f_5635], with **W. J. Holliday**'s two months in charge that summer.
 66. YMCA of Montreal annual reports for the years ending 30 April **1926** [src_ymf_sgw_ymca_annual_report_1926], **1928** [src_ymf_sgw_ymca_annual_report_1928] and **1929** [src_ymf_sgw_ymca_annual_report_1929], each on the previous summer. The **1925** secretaries' conference and its $28.20 deficit, the **1927** recovery to **160** with Chard, Thomas, Ellis and Mooney in charge, and the **1928** total of **211** with the $2,000 Metropolitan Board loan are together at [f_5636] — which also shows that "within five of the record attendance in the year 1920" and the **1921-1922** report's "216 in 1920" [src_ymf_sgw_ymca_annual_report_1921_1922] confirm each other.
 67. YMCA of Montreal annual report for the year ending 31 December **1959** [src_ymf_sgw_ymca_annual_report_1959], under the heading "OTOREKE SUMMER LODGE FOR ADULTS". The changed holiday habits, the **weekend** role, the conference proposal, and the Christieville **Otoreke Ski Club** with its **87** members are all at [f_5637]. Read 2026-09-07 under p_491.
+68. YMCA of Montreal annual report for the year ending 31 December **1950** [src_ymf_sgw_ymca_annual_report_1950], on the **1949** summer and the **1949-50** ski season. The **150**-member ski club and its **558** guests, the lodge "secured in the Fall of **1947** after being used on a rental basis for two seasons", the **1949** building work and the **seven** weekend conferences of June and September **1949** are all at [f_5638] — which corrects the impression left by the **1959** material at [f_5637].
 
 ## Research Notes
 
