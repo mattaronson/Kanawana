@@ -7842,3 +7842,21 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   p_492 RE-SCOPED in the queue: it is written as a sweep of a 107-entry list. The list is not the population. Generate the uncited set
   programmatically, group by entity or article subject rather than triaging one fact at a time, and treat it as an article-population job.
   KB v10.86 -> v10.87, 5,654 -> 5,655. New source id registered for the measurement itself so the fact resolves.
+2026-09-07T20:38:34Z  p_492  TESTED MY OWN CLAIM: duplication among uncited facts is ~3%, not enough to explain the gap.
+  Having told the operator the KB-to-article gap is 4,349 facts, I found evidence it might be inflated and chased it rather than leaving it.
+  THE CHALLENGE: listing Seaman's uncited facts (107 total, 69 uncited, only 19 cited in his own 9,538-word article) showed obvious
+  near-duplicates by eye -- f_0632/f_0916 are the same CRLT sentence, one a subset of the other; f_0631/f_1148 likewise.
+  FIRST INSTRUMENT FAILED, AND THE FAILURE IS THE POINT. A 5-word-shingle Jaccard at threshold 0.6 flagged 0.6% of uncited facts as
+  duplicates. CALIBRATED AGAINST THE PAIRS I HAD ALREADY SEEN: 0.57, 0.26, 0.23, 0.19, 0.07 -- EVERY KNOWN DUPLICATE SCORED BELOW THE
+  THRESHOLD. The 0.6% was a fact about the instrument. This is the project's own rule (a negative from a tool is a fact about the tool)
+  catching a number I had generated myself, three minutes after generating it.
+  SECOND INSTRUMENT, CALIBRATED BEFORE USE. Containment (shared 4-word shingles over the smaller fact) scores the known pairs 1.00, 1.00,
+  0.53, 0.44, 0.28 and unrelated pairs 0.00. It separates. At 0.50 it finds 204 pairs covering 117 of 4,178 uncited facts = 2.8%, AND THAT
+  IS A LOWER BOUND -- two calibration pairs are genuine overlaps sitting below the threshold.
+  THE FINDING SURVIVES: duplication is a few per cent, not a large fraction, and does not account for a 4,349-fact gap.
+  TEXTURE WORTH KEEPING: the Seaman cluster is far more duplicative than the corpus average, because person-biography facts extracted from
+  overlapping web sources repeat each other in a way document-derived facts do not. AN ESTIMATE TAKEN FROM A BIOGRAPHY CLUSTER WOULD
+  OVERSTATE THE WHOLE -- which is exactly the mistake I was about to make by eye.
+  NEXT, NOT YET DONE: populate one bounded slice as a demonstration of what the job costs. Seaman is the natural candidate -- a dedicated
+  article, 69 uncited facts, and a subject central to the camp (director 1959-67).
+  KB v10.87 -> v10.88.
