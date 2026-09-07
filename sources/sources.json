@@ -3328,7 +3328,7 @@
       "extracted": true,
       "extraction_version": "4.20",
       "reliability": "primary",
-      "notes": "CCODP press release announcing David Leduc as Executive Director. Provides biographical details: BA International Development (Dalhousie), MBA (McGill), 11 years at McGill ICAN as director of operations, Oxfam-Quebec Lebanon program. Does not mention YMCA/Kanawana role but confirms career timeline that brackets Kanawana service to pre-2000.",
+      "notes": "CCODP press release announcing David Leduc as Executive Director. Provides biographical details: BA International Development (Dalhousie), MBA (McGill), 11 years at McGill ICAN as director of operations, Oxfam-Quebec Lebanon program. Does not mention YMCA/Kanawana role but confirms career timeline that brackets Kanawana service to pre-2000. | [LINK AUDIT 2026-09-07: the live URL now returns 404. THE INTERNET ARCHIVE HAS IT: capture 2016-06-26T14:32:56, HTTP 200, at http://web.archive.org/web/20160626143256/https://www.devp.org/en/pressroom/2015/comm2015-07-28 . Reachable by anyone with a browser; web.archive.org is blocked in the agent environment (f_5361). Do not read this record's 404 as the source being gone. See f_5368.]",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
     },
@@ -3418,7 +3418,7 @@
       "extracted": true,
       "extraction_version": "ralph-twynam-2026-03-15",
       "reliability": "primary",
-      "notes": "VIU press release re Twynam receiving Transfer & Articulation Community Leadership Award. Confirms Dean of Faculty of Management at VIU, previously Dean of School of Tourism at TRU for over a decade, 15 years as SLP for Tourism Management Articulation Committee.",
+      "notes": "VIU press release re Twynam receiving Transfer & Articulation Community Leadership Award. Confirms Dean of Faculty of Management at VIU, previously Dean of School of Tourism at TRU for over a decade, 15 years as SLP for Tourism Management Articulation Committee. | [LINK AUDIT 2026-09-07: the live URL now returns 404. THE INTERNET ARCHIVE HAS IT: capture 2022-10-02T06:17:21, HTTP 200, at http://web.archive.org/web/20221002061721/https://news.viu.ca/dean-twynam-awarded-leadership-tourism-education . Reachable by anyone with a browser; web.archive.org is blocked in the agent environment (f_5361). Do not read this record's 404 as the source being gone. See f_5368.]",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
     },
@@ -3688,7 +3688,7 @@
       "extracted": true,
       "extraction_version": "4.20",
       "reliability": "secondary",
-      "notes": "West Island Blog article on Camp Oolahwan centennial celebration. Gives dates August 25-27, 2017.",
+      "notes": "West Island Blog article on Camp Oolahwan centennial celebration. Gives dates August 25-27, 2017. | [LINK AUDIT 2026-09-07: the live URL now returns 404. THE INTERNET ARCHIVE HAS IT: capture 2020-10-27T21:11:28, HTTP 200, at http://web.archive.org/web/20201027211128/https://www.westislandblog.com/camp-oolahwan-centennial-celebration-august-25-27-2017/ . Reachable by anyone with a browser; web.archive.org is blocked in the agent environment (f_5361). Do not read this record's 404 as the source being gone. See f_5368.]",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
     },
@@ -4570,7 +4570,7 @@
       "extracted": true,
       "extraction_version": "ralph-mosher-r1-2026-03-15",
       "reliability": "primary",
-      "notes": "NFB documentary profiling Mosher and Chapleau.",
+      "notes": "NFB documentary profiling Mosher and Chapleau. | [LINK AUDIT 2026-09-07: the live URL returns 404 -- 410, meaning deliberately withdrawn rather than lost -- AND THE INTERNET ARCHIVE HAS NO CAPTURE OF IT AT ANY DATE TRIED. This one really is gone from the open web. See f_5368.]",
       "read_state": "skimmed",
       "read_state_basis": "asserted:catalogue-metadata-read-film-unviewable"
     },
@@ -5157,14 +5157,14 @@
       "date": "2015",
       "date_precision": "year",
       "origin": "web",
-      "origin_url": "https://www.thecanadianencyclopedia.ca/en/article/ymca",
+      "origin_url": "https://www.thecanadianencyclopedia.ca/en/article/young-mens-christian-association",
       "cache_path": null,
       "char_count": 0,
       "ingested_at": "2026-03-16T07:00:00Z",
       "extracted": true,
       "extraction_version": "v4.28",
       "reliability": "secondary",
-      "notes": "YMCA in Canada overview, Montreal founding context.",
+      "notes": "YMCA in Canada overview, Montreal founding context. | [CORRECTED 2026-09-07 BY THE LINK AUDIT: this record held https://www.thecanadianencyclopedia.ca/en/article/ymca, which 404s. The article is live at /en/article/young-mens-christian-association. THE URL IN OUR OWN RECORD WAS WRONG -- the second such case found today, after the McGill News article. See f_5368.]",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
     },
@@ -5614,7 +5614,7 @@
       "extracted": true,
       "extraction_version": "v4.32",
       "reliability": "primary",
-      "notes": "Chris Adam biography, Earthvalues Institute, Dawson CRLT career",
+      "notes": "Chris Adam biography, Earthvalues Institute, Dawson CRLT career | [LINK AUDIT 2026-09-07: the live URL now returns 404. THE INTERNET ARCHIVE HAS IT: capture 2019-07-20T11:37:14, HTTP 200, at http://web.archive.org/web/20190720113714/https://www.dawsoncollege.qc.ca/research/researchers/adam-chris/ . Reachable by anyone with a browser; web.archive.org is blocked in the agent environment (f_5361). Do not read this record's 404 as the source being gone. See f_5368.]",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
     },
@@ -6154,7 +6154,7 @@
       "extracted": true,
       "extraction_version": "v4.54",
       "reliability": "primary",
-      "notes": "Morgan Carter bio: non-profit YMCA + Canada World Youth background, Kanawana board member, architect, McGill/UdeM adjunct.",
+      "notes": "Morgan Carter bio: non-profit YMCA + Canada World Youth background, Kanawana board member, architect, McGill/UdeM adjunct. | [LINK AUDIT 2026-09-07: the live URL returns 404  AND THE INTERNET ARCHIVE HAS NO CAPTURE OF IT AT ANY DATE TRIED. This one really is gone from the open web. See f_5368.]",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
     },
@@ -8008,7 +8008,7 @@
       "extracted": true,
       "extraction_version": "4.77",
       "reliability": "primary",
-      "notes": "Kate Taylor as guest consultant on staff training. WebFetch 403.",
+      "notes": "Kate Taylor as guest consultant on staff training. WebFetch 403. | [LINK AUDIT 2026-09-07: the live URL now returns 404. THE INTERNET ARCHIVE HAS IT: capture 2021-11-23T21:05:17, HTTP 200, at http://web.archive.org/web/20211123210517/https://www.camphacker.tv/camp-code/learning-loss-staff . Reachable by anyone with a browser; web.archive.org is blocked in the agent environment (f_5361). Do not read this record's 404 as the source being gone. See f_5368.]",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
     },
@@ -8314,7 +8314,7 @@
       "extracted": true,
       "extraction_version": "4.78",
       "reliability": "primary",
-      "notes": "LCC school song first sung 1936. Fosbery family crest adopted for school 1909.",
+      "notes": "LCC school song first sung 1936. Fosbery family crest adopted for school 1909. | [LINK AUDIT 2026-09-07: the live URL returns 404  AND THE INTERNET ARCHIVE HAS NO CAPTURE OF IT AT ANY DATE TRIED. This one really is gone from the open web. See f_5368.]",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
     },
@@ -11284,7 +11284,7 @@
       "extracted": true,
       "extraction_version": "batch6",
       "reliability": "primary",
-      "notes": "Defines an 'Affectation récréative et de conservation (RC)' zoning category whose stated example use is a 'camp de vacances'; a 'RC 123' zone code appears near a Sainte-Elmire road reference but the camp parcel's actual zone could not be confirmed from extracted text (zone maps are graphical).",
+      "notes": "Defines an 'Affectation récréative et de conservation (RC)' zoning category whose stated example use is a 'camp de vacances'; a 'RC 123' zone code appears near a Sainte-Elmire road reference but the camp parcel's actual zone could not be confirmed from extracted text (zone maps are graphical). | [LINK AUDIT 2026-09-07: the live URL returns 404  AND THE INTERNET ARCHIVE HAS NO CAPTURE OF IT AT ANY DATE TRIED. This one really is gone from the open web. See f_5368.]",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
     },

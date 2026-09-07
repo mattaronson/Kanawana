@@ -1,8 +1,8 @@
 {
-  "version": "9.41",
-  "kb_version": "9.41",
+  "version": "9.42",
+  "kb_version": "9.42",
   "migrated_from": "3.3",
-  "fact_count": 5329,
+  "fact_count": 5330,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -96141,6 +96141,21 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.41",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5368",
+      "category": "sources",
+      "date_ref": "2026-09-07",
+      "entities": [
+        "sources.json",
+        "Internet Archive"
+      ],
+      "claim": "THE SOURCE INDEX'S LINKS ARE MOSTLY FINE, THE ROT IS ELEVEN URLS, AND MOST OF THAT IS RECOVERABLE. 441 distinct URLs tested in one pass -- everything with a URL except archive.org item pages, Wikipedia, the paywalled and login-walled hosts, and web.archive.org, which this environment cannot reach for its own reasons. 347 RETURNED 200. THE FIFTY 403s, FIVE 429s AND FIVE 999s ARE NOT LINK ROT AND MUST NOT BE 'FIXED': they cluster exactly on hosts that refuse automated requests -- legacy.com, acacamps.org, ebay.com, tandfonline.com, LinkedIn (999 is LinkedIn's own bot-refusal code), YouTube, Instagram, Library and Archives Canada -- and are almost certainly live in a browser. GENUINE ROT IS ELEVEN URLS. SIX HAVE INTERNET ARCHIVE CAPTURES, all HTTP 200: the CMAT Caddell obituary (2021-12-02), Development and Peace on Leduc (2016-06-26), VIU on Dean Twynam's award (2022-10-02), the West Island Blog on Camp Oolahwan's centennial (2020-10-27), Dawson College on Chris Adam (2019-07-20) and Camp Code episode 95 (2021-11-23). ONE WAS OUR OWN TYPO AND IS FIXED LIVE: the Canadian Encyclopedia's YMCA article is at /en/article/young-mens-christian-association, not /en/article/ymca -- the second wrong URL in this project's own records found today, after the McGill News article. FOUR HAVE NO CAPTURE AND NO REPLACEMENT: the NFB page (410, deliberately withdrawn rather than lost), schleisscarter.com/iteami (a path that is not a word), the Lower Canada College issuu account, and a Saint-Sauveur zoning by-law PDF. THE POINT IS NOT TIDINESS: a 404 in a source record reads to the next person as evidence that the source is gone, and today two of them were typos and six more are one click from readable.",
+      "sources": [],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.42",
       "added_by": "ralph_loop"
     }
   ]

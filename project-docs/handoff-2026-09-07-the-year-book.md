@@ -373,6 +373,16 @@ the browser's, not the network's. **A JS-rendered result page is out of reach fr
 route**, BAnQ numérique included. Test with a trivial target before concluding anything about a
 difficult one.
 
+**Rule 47: a 404 in one of our own records is our typo until proved otherwise, and a 403 is not rot
+at all.** A link-health pass over the source index — 441 URLs, about ninety seconds at eight workers
+— found 347 live, eleven genuinely rotted, and **two whose URLs were simply wrong in this project's
+own records**: the McGill News article (two characters and a path segment short) and the Canadian
+Encyclopedia's YMCA article. Six of the eleven have Internet Archive captures and are one click from
+readable. And the fifty 403s, five 429s and five 999s are hosts refusing automated requests —
+LinkedIn, YouTube, legacy.com, eBay, Library and Archives Canada — **all almost certainly live in a
+browser, and none of them should be "fixed".** The reason to run this is not tidiness: a 404 sitting
+in a source record reads, to the next person, as evidence that the source is gone.
+
 ## The shape of the day, in one line
 
 **The Year Book's real contribution was not its own content but the names and dates that made
