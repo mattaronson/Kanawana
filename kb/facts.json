@@ -1,8 +1,8 @@
 {
-  "version": "9.19",
-  "kb_version": "9.19",
+  "version": "9.20",
+  "kb_version": "9.20",
   "migrated_from": "3.3",
-  "fact_count": 5280,
+  "fact_count": 5283,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -94829,7 +94829,7 @@
         "M. G. Brooks",
         "Kamp Kanawana"
       ],
-      "claim": "THE WHOLE OF M. G. BROOKS'S CAREER, FROM THE ALPHABETICAL LIST OF EMPLOYED OFFICERS, EVERY ENTRY CARRYING THE SAME YEAR OF ENTRY, 05. 1907-08: 'McGill Univ., Montreal, Sec'. 1908-09: 'Montreal, Que., Boys'. 1909: Montreal's Boys' Work Director (f_4983). Then COLOMBO, CEYLON, 'Sec. Int. Com.' -- secretary of the International Committee, the YMCA's foreign-work arm -- in the volumes for 1910-11, 1911-12, 1912-13, 1913-14, 1915-16, 1916-17, 1917-18, 1918-19, 1919-20, 1921-22 and 1922-23, an unbroken run of more than a decade. By 1934 he is 'Toronto, Ont., Sec. National Council'. By 1938 he is 'BURMA, SEC WORLD SERVICE'. And the 1944 volume's SECTION IV, RETIRED SECRETARIES, as of 1 April 1945, gives 'Brooks, M. G. ... Montreal, Que., Central ... 456 Pine Ave., W., Montreal, Que. ... RETIRED MARCH 11, 1945' -- so he came home, and the association credited with his retirement is Montreal Central, the one he began with. The 1957 volume still carries him among the retired, at 93 Berczy St., Barrie, Ontario. ONE CAUTION: the retired list's 'Association' column may name the association through which a man was pensioned rather than where he last served, and Brooks was in Burma in 1938, so 'Montreal, Que., Central' in 1945 should not be read as a return to Montreal service.",
+      "claim": "THE WHOLE OF M. G. BROOKS'S CAREER, FROM THE ALPHABETICAL LIST OF EMPLOYED OFFICERS, EVERY ENTRY CARRYING THE SAME YEAR OF ENTRY, 05. 1907-08: 'McGill Univ., Montreal, Sec'. 1908-09: 'Montreal, Que., Boys'. 1909: Montreal's Boys' Work Director (f_4983). Then COLOMBO, CEYLON, 'Sec. Int. Com.' -- secretary of the International Committee, the YMCA's foreign-work arm -- in the volumes for 1910-11, 1911-12, 1912-13, 1913-14, 1915-16, 1916-17, 1917-18, 1918-19, 1919-20, 1921-22 and 1922-23, an unbroken run of more than a decade. By 1934 he is 'Toronto, Ont., Sec. National Council'. By 1938 he is 'BURMA, SEC WORLD SERVICE'. And the 1944 volume's SECTION IV, RETIRED SECRETARIES, as of 1 April 1945, gives 'Brooks, M. G. ... Montreal, Que., Central ... 456 Pine Ave., W., Montreal, Que. ... RETIRED MARCH 11, 1945' -- so he came home, and the association credited with his retirement is Montreal Central, the one he began with. The 1957 volume still carries him among the retired, at 93 Berczy St., Barrie, Ontario. ONE CAUTION: the retired list's 'Association' column may name the association through which a man was pensioned rather than where he last served, and Brooks was in Burma in 1938, so 'Montreal, Que., Central' in 1945 should not be read as a return to Montreal service. [CAUTION RETIRED 2026-09-07: the warning above, that the retired list's association column might name where a man was pensioned rather than where he last served, was unnecessary. The 1941 volume's Montreal block has him as 'Program, MURRAY G. BROOKS' at Central Branch, so he really had returned to Montreal from India and the 1945 retirement is credited to the association he was actually in. See f_5321.]",
       "sources": [
         "src_umedia_ymca_yearbook_series"
       ],
@@ -95246,6 +95246,59 @@
       "confidence": "stated",
       "conflicts_with": [],
       "added_version": "9.19",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5319",
+      "category": "people",
+      "date_ref": "1941-1945",
+      "entities": [
+        "Harold C. Cross",
+        "John W. Beaton",
+        "YMCA of Montreal"
+      ],
+      "claim": "HAROLD C. CROSS WAS ACTING GENERAL SECRETARY FOR AT LEAST FOUR YEARS, NOT ONE, AND THE REASON IS ON THE SAME LINE. f_5314 recorded him as 'Met., Acting Sec' in the 1945 volume. THE MONTREAL BRANCH DIRECTORY CARRIES IT EARLIER AND LONGER: both the 1941 and the 1944 volumes print 'Montreal, 1441 Drummond St., Metro. Bd. ... General Secretary, JOHN W. BEATON [dagger] / ACTING GENERAL SECRETARY, HAROLD C. CROSS / Business, Clarence M. McCulley'. So the association's chief executive is listed AND a man is listed as acting in his place -- and Beaton's name carries the same dagger as W. J. Holliday's on the line below. THE PAGE'S OWN FOOTER SAYS WHAT THE DAGGER POINTS TO: 'See alphabetical list of those in Y.M.C.A. War services following alphabetical Roster of Employed Officers, page 258.' THE NATURAL READING IS THAT BEATON WAS AWAY IN WAR SERVICES AND CROSS RAN THE ASSOCIATION IN HIS ABSENCE, from 1941 to at least 1944 and on the 1945 evidence into that year. IT IS THE NATURAL READING AND NOT A PROVEN KEY: the war-services list itself was not found on the pages read, so the dagger's meaning is taken from the footer's cross-reference rather than from a legend. Recorded that way deliberately.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5320",
+      "category": "people",
+      "date_ref": "1941",
+      "entities": [
+        "W. J. Holliday",
+        "Kamp Kanawana"
+      ],
+      "claim": "KANAWANA'S FIRST CAMP DIRECTOR WAS STILL AT THE MONTREAL YMCA IN THE SECOND WORLD WAR, AND APPEARS TO HAVE SERVED IN IT. The 1941 volume's Montreal block reads 'Metro. Bd. ... Acting General Secretary, Harold C. Cross / Business, Clarence M. McCulley / UNEMPLOYMENT, WILLIAM J. HOLLIDAY [dagger] / Office, James A. C. Hastings'. THREE THINGS COME OFF THAT LINE. His career at Montreal runs at least from 1905-06 to 1941, THIRTY-SIX YEARS, where this project's previous latest sighting was the 1923-24 volume. His post is 'UNEMPLOYMENT' -- a Depression-era portfolio this project has never seen attached to anyone. AND HIS GIVEN NAME IS PRINTED IN FULL, INDEPENDENTLY OF THE 1919 OVERSEAS LIST: 'William J. Holliday' here and 'Holliday, Capt. William J.' there, two publications twenty-two years apart agreeing, which puts the identification of f_5299 beyond reasonable doubt. The dagger, per the page's footer, points to the list of those in Y.M.C.A. War services -- SO THE MAN WHO WENT OVERSEAS IN 1918 APPEARS TO HAVE GONE AGAIN AT ABOUT SIXTY. Written as 'appears to' because the war-services list itself was not found and the dagger's meaning rests on the footer's cross-reference.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5321",
+      "category": "people",
+      "date_ref": "1941-1945",
+      "entities": [
+        "M. G. Brooks",
+        "Murray Brooks",
+        "YMCA of Montreal"
+      ],
+      "claim": "MURRAY BROOKS CAME BACK TO MONTREAL FROM INDIA, WHICH CORRECTS A CAUTION I ATTACHED TO HIS RETIREMENT. f_5295 traced him to India from the 1927-28 volume through 1935 and found him in the 1944 volume's Retired Secretaries section, retired 11 March 1945, with his association given as 'Montreal, Que., Central' -- and I warned that the column might name where a man was PENSIONED rather than where he last served, since he had been in Burma in 1938. THE WARNING WAS UNNECESSARY. The 1941 volume's Montreal block prints 'Central Br., 1441 Drummond St. ... Membership, William H. White / PROGRAM, MURRAY G. BROOKS / Dormitory, Reginald S. Cuffe / Physical, Oscar L. Pearson / Boys, Ronald Hanagan'. HE IS BACK AT MONTREAL CENTRAL, IN POST, UNDER HIS FULL GIVEN NAME -- the same 'Murray' the 1910 annual report used when it announced his resignation for Ceylon thirty-one years earlier. By the 1943 and 1944 volumes the Program post has passed to Alfred J. Davis, so his second Montreal spell is short. THE ARC IS NOW CLOSED: Strathcona Hall, Montreal boys' work, Colombo, Toronto, Burma, MONTREAL CENTRAL AGAIN, retirement in 1945 from the association he began with in 1905.",
+      "sources": [
+        "src_umedia_ymca_yearbook_series"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "9.20",
       "added_by": "ralph_loop"
     }
   ]
