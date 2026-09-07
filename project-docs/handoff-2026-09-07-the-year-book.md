@@ -229,6 +229,26 @@ together with no spaces defeated three exact forms; `Otereke` with an E hid two 
 McGerrigle's directorship and briefly convinced me the camp entered this series in 1958;
 `Holliday, Capt. William J.` did not match `Holliday, W. J.`
 
+## The most expensive mistake of the session, in three moves
+
+**Infer → withdraw → restore, and the middle move was the wrong one.**
+
+1. A dagger against W. J. Holliday's name in the 1941 roster, plus the page footer's pointer to
+   a war-services list, suggested he served in the Second World War as he had the First.
+2. An hour later the war-services material turned up — the **National Y.M.C.A. War Services
+   Executive Committee** — with Beaton in it and Holliday not. I **withdrew** the suggestion.
+3. Montreal's own annual reports, in this cache the whole time, say he served: *"C. J. McGerrigle
+   and W. J. Holliday are also serving in the War Services overseas"* (1942); *"went overseas
+   early in 1940, returned to Canada late in 1945"* (1946); and the 1948 retirement paragraph.
+
+**The test was the error, not the inference.** That committee is a governing body of about a
+dozen men, not a roster of everyone serving — Beaton is on it because he *ran* it. **Absence from
+a committee is not absence from service.**
+
+**Rule 41: before treating a null as refutation, ask whether the list you searched is one the
+claim would have put the man ON.** A null in a list that could not have held him refutes nothing,
+and is more dangerous than no test at all, because it feels like diligence.
+
 ## The thing left unsettled, settled — and it went both ways
 
 *(Written an hour after the section below, which is kept because the reasoning in it was sound
