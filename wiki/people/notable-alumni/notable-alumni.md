@@ -13,23 +13,23 @@ For alumni who have standalone articles, see: [[people/notable-alumni/stuart-mcl
 
 ### Richard "Itche" Kerr (Pip Award 2007)
 
-Richard Kerr, known by his camp nickname "Itche," was the inaugural Pip Award recipient, recognized for his volunteer work with the physically challenged.^1 He is also the composer and performer of "On My Way to Kanawana," a camp song preserved on CD in the Concordia Archives (P145/SR0001, duration 4'30").^5 The song is featured in the 1993 documentary *Kamp Kanawana: The Experience that Lasts a Lifetime* by Cathy Reeves.^5
+Richard Kerr, known by his camp nickname "Itche," was the inaugural Pip Award recipient, recognized for his volunteer work with the physically challenged.^12 *That marker read ^1 until 2026-09-08, pointing a 2007 claim at the 2017 Chris Adam release; note 12 is the run of Pip announcements that actually carries it.* He is also the composer and performer of "On My Way to Kanawana," a camp song preserved on CD in the Concordia Archives (P145/SR0001, duration 4'30").^5 The song is featured in the 1993 documentary *Kamp Kanawana: The Experience that Lasts a Lifetime* by Cathy Reeves.^5
 
 ### Richard Patten (1942–2021) (Pip Award 2008)
 
-Liberal Ontario MPP for Ottawa Centre (1987–90, 1995–2007) with an extensive prior YMCA international career. See [[people/notable-alumni/richard-patten|Richard Patten]] for full biography.
+Liberal Ontario MPP for Ottawa Centre (1987–90, 1995–2007) with an extensive prior YMCA international career.^2 ^17 See [[people/notable-alumni/richard-patten|Richard Patten]] for full biography.
 
 ### Bruce Netherwood (Pip Award 2011)
 
-Directed Camp Kanawana **1989–1994**, succeeding his brother Jay Netherwood; later VP Camping & Social Responsibility, South Shore YMCA, Massachusetts. See [[people/bruce-netherwood|Bruce Netherwood]] for full biography.
+Directed Camp Kanawana **1989–1994**, succeeding his brother Jay Netherwood; later VP Camping & Social Responsibility, South Shore YMCA, Massachusetts.^3 See [[people/bruce-netherwood|Bruce Netherwood]] for full biography.
 
 ### John Cleghorn (Pip Award 2012)
 
-Former Chairman and CEO of the Royal Bank of Canada (1994–2001), Kanawana camper, and lifelong canoe-tripper there with his own children. See [[people/notable-alumni/john-cleghorn|John Cleghorn]] for full biography.
+Former Chairman and CEO of the Royal Bank of Canada (1994–2001), Kanawana camper, and lifelong canoe-tripper there with his own children.^18 See [[people/notable-alumni/john-cleghorn|John Cleghorn]] for full biography.
 
 ### Sam Lazarus (1978–2004) (Pip Award 2013, posthumous)
 
-Camper and staff member who died volunteering in Ghana at 25; the Sam Lazarus Fund, established by his family, continues to send children to Kanawana. See [[people/sam-lazarus|Sam Lazarus]] for full biography. His mother, Janet Torge, is a Montreal-based writer and television documentary producer whose varied career has included radio talk-show host, traffic reporter, Montreal Gazette columnist, prenatal teacher and doula, construction site manager, and co-founder of Canada's first Rape Relief Centre (1973);^25 she published *Dear Sam: Grieving the Death of My Son* (iUniverse) and *I Can't Believe I'm Old: Essays on Aging* (Linda Leith Publishing),^26 ^27 founded Radical Resthomes, a co-living housing model for seniors, and serves on the CIHR Institute of Aging Older Adult Advisory Council.^25 Her documentary producer credits include *Harry Gulkin: Red Dawn on Main Street* (2004) and *The Gig Is Up* (2021).^28
+Camper and staff member who died volunteering in Ghana at 25;^8 the Sam Lazarus Fund, established by his family, continues to send children to Kanawana, and a Montreal West street-hockey jamboree has been held in his memory since.^9 ^29 ^30 See [[people/sam-lazarus|Sam Lazarus]] for full biography. His mother, Janet Torge, is a Montreal-based writer and television documentary producer whose varied career has included radio talk-show host, traffic reporter, Montreal Gazette columnist, prenatal teacher and doula, construction site manager, and co-founder of Canada's first Rape Relief Centre (1973);^25 she published *Dear Sam: Grieving the Death of My Son* (iUniverse) and *I Can't Believe I'm Old: Essays on Aging* (Linda Leith Publishing),^26 ^27 founded Radical Resthomes, a co-living housing model for seniors, and serves on the CIHR Institute of Aging Older Adult Advisory Council.^25 Her documentary producer credits include *Harry Gulkin: Red Dawn on Main Street* (2004) and *The Gig Is Up* (2021).^28
 
 ### Jeniene Phillips Birks (Pip Award 2014)
 
@@ -37,11 +37,11 @@ CBC Montreal television journalist who served as fill-in anchor on the evening n
 
 ### Carol Skinner (Pip Award 2016)
 
-Counsellor and section director at Kanawana (1990–1995); later ALS advocate. See [[people/notable-alumni/carol-skinner|Carol Skinner]] (stub — sourcing is currently thin) for what's documented so far.
+Counsellor and section director at Kanawana (1990–1995); later ALS advocate.^11 See [[people/notable-alumni/carol-skinner|Carol Skinner]] (stub — sourcing is currently thin) for what's documented so far.
 
 ### Chris Adam (Pip Award 2017)
 
-Coordinator of the Sustainability Office at Dawson College; ran Kanawana's Nature Awareness program in 1980. See [[people/notable-alumni/chris-adam|Chris Adam]] for full biography.
+Coordinator of the Sustainability Office at Dawson College; ran Kanawana's Nature Awareness program in 1980.^1 ^21 ^22 ^31 ^32 See [[people/notable-alumni/chris-adam|Chris Adam]] for full biography.
 
 ### Dr. Marina Sharpe (Pip Award 2018)
 
@@ -49,7 +49,7 @@ Former camper and Kanawana staff member.^13 Educated at McGill (BA Economics, LL
 
 ### Dr. James Orbinski (Pip Award 2024)
 
-Camper and counsellor at Kanawana in the 1980s–1990s.^15 Co-founder of MSF Canada and President of the International Council of MSF (1998–2001), he accepted the 1999 Nobel Peace Prize on the organization's behalf; he is an Officer of the Order of Canada and Principal of Massey College at the University of Toronto.^6 ^15 See [[people/notable-alumni/james-orbinski|James Orbinski]] for the full biography.
+Camper and counsellor at Kanawana in the 1980s–1990s.^15 Co-founder of MSF Canada and President of the International Council of MSF (1998–2001), he accepted the 1999 Nobel Peace Prize on the organization's behalf^24; he is an Officer of the Order of Canada and Principal of Massey College at the University of Toronto.^6 ^15 See [[people/notable-alumni/james-orbinski|James Orbinski]] for the full biography.
 
 ## Other Notable Alumni
 
@@ -63,7 +63,7 @@ Grandson of Pip. Camper and counsellor 1983–1991. McGill BA 1997, RMC War Stud
 
 ### R. L. Charlton (fl. 1917–1943)
 
-Montreal marine surveyor and "ardent YMCA worker" credited by a 1951 primary source as the person who proposed the camp's name. See [[people/rl-charlton|R.L. Charlton]] for full biography.
+Montreal marine surveyor and "ardent YMCA worker" credited by a 1951 primary source as the person who proposed the camp's name.^4 See [[people/rl-charlton|R.L. Charlton]] for full biography.
 
 ### John P. Kidd (d. 1962 or 1963) and J. Roby Kidd (1915–1982)
 
@@ -167,14 +167,14 @@ establishes: a former counsellor and section leader, and a camp parent.
 4. CBMU History (R.L. Charlton).
 5. Concordia Archives P0145 finding aids.
 6. Wikipedia: Richard Patten, John Cleghorn, James Orbinski.
-7. Oral history, Matt Aronson.
+7. *Deliberately uncited.* Oral history, Matt Aronson — the operator's own recollection, which supplied several of the names above before any document did. Where it is the sole support for a claim this article says so in the text; where a document has since been found, that document is cited instead and this entry stays as the record of where the name came from.
 8. Montreal Gazette, obituary for Samuel Karl Lazarus (January 24, 2004).
 9. My Jewish Learning, "Tikkun Olam: Doing Stuff" (2014). URL: https://www.myjewishlearning.com/2014/09/08/tikkun-olam-doing-stuff/
 10. YMCA Quebec, "Terry 'Aislin' Mosher Receives YMCA Kanawana Pip Alumni Award" (2015). URL: https://www.ymcaquebec.org/en/About-Us/Newsroom/2015-en/Terry-Aislin-Mosher-Receives-YMCA-Kanawana-Pip
 11. YMCA Quebec, "Carol Skinner Receives Camp YMCA Kanawana Pip Alumni Award" (2016). URL: https://www.ymcaquebec.org/en/news/als-advocate-carol-skinner-receives-camp-ymca-kanawana
 12. YMCA Quebec, Pip Award news releases (2007–2024).
 13. YMCA Quebec, "Marina Sharpe Receives Camp YMCA Kanawana Pip Award" (2018). URL: https://www.ymcaquebec.org/en/About-Us/Newsroom/2018/Refugee-Advocate-Marina-Sharpe-Receives-Camp-YMCA
-14. Kanawana Alumni News (1980).
+14. *A lead, not a source, and deliberately uncited.* *Kanawana Alumni News*, 1980 — the issue that carried the camp's nature-awareness programme and, on the reading at Open Question 6 below, the "Chris Adams" whose identification with Chris Adam this article treats as very likely. It is named in the source list rather than cited because no copy has been read here; note 21 and note 32 carry the Dawson-side evidence instead.
 15. YMCA Quebec, "Dr. James Orbinski Receives the Camp YMCA Kanawana Pip Award" (2024). URL: https://www.ymcaquebec.org/en/about-us/newsroom/2024/dr-james-orbinski-receives-the-camp-ymca-kanawana-pip-award
 16. Leonowicz, Ursula. "Rewilding childhood: How one summer camp is tackling nature-deficit disorder among Montreal youth." Postmedia Content Works (on behalf of YMCAs of Québec), March 4, 2026.
 17. Wikipedia, "Richard Patten"; CBC obituary, Richard Patten (2021); HP McGarry obituary.

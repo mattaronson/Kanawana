@@ -1,8 +1,8 @@
 {
-  "version": "11.15",
-  "kb_version": "11.15",
+  "version": "11.16",
+  "kb_version": "11.16",
   "migrated_from": "3.3",
-  "fact_count": 5693,
+  "fact_count": 5694,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102669,6 +102669,21 @@
       "date_ref": "2026-09-08",
       "conflicts_with": [],
       "added_version": "11.15",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5732",
+      "claim": "p_484 EIGHTH PASS: POPULATION B IS CLEARED. 87 uncited entries to 71, and the eighteen in people/notable-alumni/notable-alumni.md were a single structural fault rather than eighteen separate ones. THAT ARTICLE IS AN INDEX OF POINTERS: each Pip recipient gets a two-sentence summary and a link to a standalone article, and the summaries were written without markers on the reasoning that the detail lives in the child. So the index carried twenty-eight source entries and cited ten of them, while stating in its own voice that Bruce Netherwood directed the camp 1989-1994, that John Cleghorn chaired the Royal Bank 1994-2001, that Sam Lazarus died in Ghana at 25, and that R. L. Charlton proposed the camp's name -- every one of those a factual claim in this article, whatever the child article says. SAME DEFECT AS THE THREE POINTER PARAGRAPHS FOUND EARLIER TODAY, at the scale of a whole article. AND A MIS-AIMED MARKER UNDER IT (the third this week): the sentence making Richard 'Itche' Kerr the inaugural 2007 Pip recipient cited entry 1, which is YMCA Quebec's news release announcing CHRIS ADAM's award in 2017. Entry 12, the run of Pip announcements 2007-2024, is the source that carries it; entry 1 now sits where it belongs, in the Chris Adam subsection. Both halves showed here as uncited entries and neither showed anywhere else. TWO ENTRIES KEPT DELIBERATELY UNCITED and marked so: entry 7, the operator's oral history, which supplied several names before any document did and is now described as the record of where the name came from rather than as support for a claim; and entry 14, the 1980 Kanawana Alumni News, of which no copy has been read here. THE REMAINING 71 ARE 52 POPULATION A AND 19 DELIBERATE. Population A -- places-and-locations 19, myths-and-legends 16, lv-games 8, da-budge 6, council-ring 3 -- is bibliographies predating the inline-marker convention, where the claims are supported and only the mapping was never recorded, and where a WRONG marker is worse than none because it asserts a provenance the source may not carry. That is an editorial project and needs reading claim by claim, not another cleanup pass.",
+      "sources": [],
+      "confidence": "stated",
+      "category": "project_method",
+      "entities": [
+        "p_484",
+        "notable-alumni"
+      ],
+      "date_ref": "2026-09-08",
+      "conflicts_with": [],
+      "added_version": "11.16",
       "added_by": "manual"
     }
   ]
