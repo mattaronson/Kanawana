@@ -1,8 +1,8 @@
 {
-  "version": "11.14",
-  "kb_version": "11.14",
+  "version": "11.15",
+  "kb_version": "11.15",
   "migrated_from": "3.3",
-  "fact_count": 5692,
+  "fact_count": 5693,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102652,6 +102652,23 @@
       "date_ref": "2026-09-08",
       "conflicts_with": [],
       "added_version": "11.14",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5731",
+      "claim": "THE DANGLING LETTERED MARKER IS A WIKI-WIDE DEFECT AND NOW HAS ITS OWN BLOCKING CHECK. Generalising the canoe-trips find (f_5730) across all 128 articles turned up FIVE ARTICLES CITING LABELS THAT RESOLVE TO NOTHING: canoe-trips (^mc x5), founding-1894 (^mc x6, ^jc x2, ^aa, ^gaz1897), coeducation-gender (^mc, ^mtl), wartime-kanawana (^mc x3) and section-names (^mc x2). ALL BUT ONE OF THEM IS McMORRIS. The pattern is legible: the McMorris thesis is the single most-cited document in this project, its entry is written as an unlabelled bullet in the bulleted-source articles, and at some point the label was dropped from the entry while the markers stayed in the body -- so four articles have been citing the project's most important source to a label that does not exist. In founding-1894 the entry is not merely unlabelled but ABSENT, six markers deep, with McMorris named in the prose and no bibliographic entry for the thesis anywhere in the file. WHY NOTHING SAW IT: verify_harness resolves NUMERIC markers and does not look at lettered ones; the uncited-entries check sees the other half of the same defect, an entry nothing points at, and cannot connect the two. THE DETECTOR TOOK THREE ATTEMPTS AND THE FIRST TWO WERE WORSE THAN USELESS. Version 1 required a caret in the entry and reported every `- **nb59** --` entry as missing; version 2 added a bold-label pattern and reported MORE, not fewer, because the third form `- ^kw:` and hyphenated labels fell outside it. Version 3 abandoned pattern-matching the entry format entirely and asks only whether the label occurs as a standalone token anywhere in the Sources section, which is loose in the forgiving direction: a real dangling marker is never missed, and a label that merely appears in prose there is passed over. A CHECK THAT MISREADS ITS OWN CORPUS'S CONVENTIONS MANUFACTURES A BACKLOG THAT IS NOT THERE, and both bad versions would have shipped a false 45-item finding. All 15 markers were restored to entries and scripts/verify/dangling_labels.py ships BLOCKING, unlike uncited_sources: a marker resolving to nothing has no legitimate case, and the fix is always to restore the entry, never to delete the marker, since the marker is the evidence that the claim was sourced.",
+      "sources": [],
+      "confidence": "stated",
+      "category": "project_method",
+      "entities": [
+        "dangling_labels.py",
+        "founding-1894",
+        "coeducation-gender",
+        "McMorris"
+      ],
+      "date_ref": "2026-09-08",
+      "conflicts_with": [],
+      "added_version": "11.15",
       "added_by": "manual"
     }
   ]

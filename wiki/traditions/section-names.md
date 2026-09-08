@@ -98,7 +98,7 @@ Beyond the Camp Director who ran the whole operation, individual sections and pr
 
 
 - ^ia: Kamp Kanawana season reports 1964-1966, 1969-1971, 1974-1979 and the YMCA of Montreal annual reports 1948-1959, in the Concordia-digitized fonds on Internet Archive [src_ia_kanawana_report_1964, src_ia_kanawana_report_1969, src_ia_kanawana_report_1970, src_ia_kanawana_report_1971, src_ia_ymca_montreal_annual_reports_collection]
-- McMorris, Grace. *An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967*. MA thesis, Concordia University, 2023. Chapter 1. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
+- **mc** — McMorris, Grace. *An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967*. MA thesis, Concordia University, 2023. Chapter 1. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
 - YMCA Quebec, "Summer Camp Kanawana" (ymcaquebec.org, 2026). Confirms Pioneers, Woodsmen, Coureurs de Bois, Pathfinders still in active use with current age/gender assignments. [YMCA Quebec](https://www.ymcaquebec.org/en/summer-camp-kanawana)
 - YMCA Kamp Kanawana Facts (undated). [Internet Archive](https://archive.org/details/ymca-kamp-kanawana-facts). Confirms 1969 coeducation.
 - KB: staff_1935 (section directors named by section), section_names (full evolution timeline).

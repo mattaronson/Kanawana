@@ -8150,3 +8150,14 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   Cleared: canoe-trips 8, 9, 10, 12, 24; attendance-series 5, 8, 9, 10; directors-index 5, 12, 13,
     16, 23, 24, 25. Marked as moved-with-subject: canoe-trips 2 and 11.
   BASELINE 103 -> 87. Population B is down to notable-alumni alone.
+2026-09-08T00:49:04Z
+  p_502 raised and closed -- DANGLING LETTERED MARKERS generalised wiki-wide. f_5731, KB 11.14 -> 11.15.
+  Five articles, fifteen markers resolving to no entry: canoe-trips (^mc x5), founding-1894
+    (^mc x6, ^jc x2, ^aa, ^gaz1897), coeducation-gender (^mc, ^mtl), wartime-kanawana (^mc x3),
+    section-names (^mc x2). All but one is McMorris, whose entry label was dropped in the
+    bulleted-source articles while the markers stayed. founding-1894 had no McMorris entry at all.
+  All fifteen restored, three entries written back into founding-1894.
+  scripts/verify/dangling_labels.py written, wired into all.py and verify.yml as a tenth check,
+    BLOCKING -- a marker pointing at nothing has no legitimate case.
+  The detector took three attempts; the first two pattern-matched the entry format and each
+    reported ~45 false findings, this wiki writing labels three different ways.

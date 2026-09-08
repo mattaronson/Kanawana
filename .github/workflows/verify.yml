@@ -100,6 +100,17 @@ jobs:
         # unsourced, or an entry added for a passage never written.
         run: python scripts/verify/uncited_sources.py
 
+      - name: Dangling lettered markers
+        # Lettered markers (^mc, ^ymcayb) that resolve to no entry in their own
+        # article. Written 2026-09-08 after canoe-trips.md was found citing ^mc
+        # five times, for its whole 1945-1964 chronology, with no entry "mc" in
+        # the file -- and passing every check, because verify_harness resolves
+        # numeric markers and ignores lettered ones. Four more articles were in
+        # the same state. Blocking from the start: unlike an uncited entry, a
+        # marker pointing at nothing has no legitimate case, and the backlog was
+        # cleared to zero the day the check was written.
+        run: python scripts/verify/dangling_labels.py
+
       - name: Section headings
         # Every registered article carries the sections CLAUDE.md's template
         # names. Written 2026-09-07 after a spinout silently dropped the

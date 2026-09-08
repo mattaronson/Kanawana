@@ -34,6 +34,7 @@ CHECKS = [
     ("restricted_guard", "Embargo labelling"),
     ("section_headings", "Section headings"),
     ("uncited_sources", "Uncited source entries (advisory)"),
+    ("dangling_labels", "Dangling lettered markers"),
 ]
 
 def main() -> int:

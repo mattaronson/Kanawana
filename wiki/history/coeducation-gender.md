@@ -430,7 +430,7 @@ coming to Kamp Kanawana each summer."
 - **cyc** — Canadian Youth Commission, *Youth & Jobs in Canada* (Toronto: The Ryerson Press, 1945) [src_cyc_youth_and_jobs_1945]. **Two search highlights only**, found 2026-09-06 by an Open Library search-inside sweep on "Otoreke"; the book is lending-restricted and has not been read. Cached with the sweep at `sources/cache/openlibrary-search-inside/2026-09-06-otoreke-corpus-sweep.txt`. See [f_5196].
 - **ar36** — YMCA of Montreal Annual Report for the year ending 31 March 1936 [src_cache_sgw_ymca_annual_report_1936], covering the camping season of **1935**. Read for its camps section 2026-09-06 under p_441. See [f_5071], and [f_5039] on these reports' 31 March year-end.
 - **kk70** — *Kamp Kanawana Annual Report 1970* [src_ia_kanawana_report_1970], cached at `sources/cache/ymca-montreal-fonds/1970-kamp-kanawana-annual-report.txt`; its COED CAMPING section. Read whole 2026-09-07 under `p_491`. See [f_5677].
-- McMorris, Grace. "An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967." MA thesis, Concordia University, 2023. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
+- **mc** — McMorris, Grace. "An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967." MA thesis, Concordia University, 2023. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
 - YMCA Quebec. "The Kanawana Story." https://www.ymcaquebec.org/en/summer-camp-kanawana/history
 - YMCA Quebec. "Summer Camp Kanawana." https://www.ymcaquebec.org/en/summer-camp-kanawana (section structure and gender assignments).
 - YMCA Kamp Kanawana Facts sheet (undated institutional document, cached in project source-documents folder). [Internet Archive](https://archive.org/details/ymca-kamp-kanawana-facts)
@@ -440,7 +440,7 @@ coming to Kamp Kanawana each summer."
 - ^k65: *Kamp Kanawana Annual Report 1965*, YMCA of Montreal [src_ia_kanawana_report_1965], "Co-ed Camping" section. Full text cached at `sources/cache/ymca-montreal-fonds/1965-kamp-kanawana-annual-report.txt`; read end to end 2026-09-03 under p_304. See [f_2395].
 - ^ia: Kamp Kanawana season reports for 1965, 1969 and 1970, and the 1988 report *Kanawana… A Place to Grow*, all in the Concordia-digitized YMCA of Montreal fonds on Internet Archive [src_ia_kanawana_report_1965, src_ia_kanawana_report_1969, src_ia_kanawana_report_1970, src_ia_kanawana_place_to_grow_1988]
 - Concordia University Archives, YMCA of Montreal fonds, sub-sub-series 12B04. https://www.concordia.ca/offices/archives/ymca-fonds-sub-sub-series-12B04.html
-- Montreal Families, "Gender-Expansive Options at Summer Camp" (article discussing Kanawana's approach under Kate Taylor).
+- **mtl** — Montreal Families, "Gender-Expansive Options at Summer Camp" (article discussing Kanawana's approach under Kate Taylor).
 - [fb] "Camp YMCA Kanawana Stands with Trans Campers," official Facebook video/post [src_facebook_trans_inclusion].
 - Concordia University Archives, YMCA of Montreal fonds, sub-series 12D (Camp Becsies), 12E (Camp Dorval), 12I (Camp Thunderbird), 12J (Wilderness Survival Camp) [src_concordia_12L].
 - [gz] *The Gazette* (Montreal), summer-camp feature, 18 April 1974 [src_newspapers_gazette_1974]. See [f_2248].
