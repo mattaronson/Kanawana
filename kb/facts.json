@@ -1,8 +1,8 @@
 {
-  "version": "11.48",
-  "kb_version": "11.48",
+  "version": "11.49",
+  "kb_version": "11.49",
   "migrated_from": "3.3",
-  "fact_count": 5738,
+  "fact_count": 5740,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103554,6 +103554,50 @@
       "date_ref": "2010",
       "conflicts_with": [],
       "added_version": "11.48",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5777",
+      "claim": "THE CAMP BECAME A BRANCH WITH ITS OWN BOARD IN 1989, AND THE FIRST ROSTER NAMES A DIRECTOR TEN YEARS OUT OF POST. The Montreal YMCA's Branch Boards of Management lists for 1985, 1986, 1987 and 1988 carry eight or nine branches each -- Centre-ville/Downtown, Guy-Favreau, Hochelaga-Maisonneuve, International, Notre-Dame-de-Grace, Pointe-Saint-Charles, Saint-Laurent, West Island, Westmount -- AND NO CAMP. The 1989 volume adds one, headed KAMP KANAWANA, of ten: 'Andre Herard, CHRIS ADAM, Keith Farquharson, PAUL CAPPELLI, DEREK WALSH, Tom Snabl, Bruce Netherwood (YMCA), MAUREEN MCBRIDE, Jay Netherwood (YMCA), Bill Pigott (YMCA).' So the whole governance arc this project has been assembling starts here: 1989 board -> Kamp Kanawana Committee 1991-92 -> Advisory Board 1994 -> Local Board 1995-96 -> six years absent -> Local Advisory Council 2002-03 -> committee to 2017 (f_5768, f_5771). THREE THINGS IN THE FIRST ROSTER. DEREK WALSH, who directed the camp 1974-1979, sits on its first board a decade after leaving the post -- the earliest instance in this project of the former-director-returns-as-volunteer pattern later seen with Morgan Carter, Arleen Boyer and others. THREE of the ten are marked (YMCA), Bruce Netherwood in his first year as director, Jay Netherwood in the supervisory role he moved to that year, and Bill Pigott, the association's Director of Operations -- so the staff presence on a branch board could run to three. AND PAUL CAPPELLI is here two years before the 1991 and 1992 association board lists that print him as 'Capelli, Paul (Dawson College)', the entry maureen-mcbride.md uses to show that those lists give members' employers.",
+      "sources": [
+        "src_ymf_annual_report_1989_202301",
+        "src_ymf_sgw_ymca_annual_report_1985",
+        "src_ymf_sgw_ymca_annual_report_1986",
+        "src_ymf_sgw_ymca_annual_report_1987",
+        "src_ymf_sgw_ymca_annual_report_1988"
+      ],
+      "confidence": "stated",
+      "category": "governance",
+      "entities": [
+        "Kamp Kanawana Board of Management",
+        "Derek Walsh",
+        "Chris Adam",
+        "Maureen McBride",
+        "Bruce Netherwood",
+        "Jay Netherwood",
+        "Bill Pigott",
+        "Paul Cappelli"
+      ],
+      "date_ref": "1985-1989",
+      "conflicts_with": [],
+      "added_version": "11.49",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5778",
+      "claim": "MICHAEL WEIL AT SAINT-LAURENT IN 1988, WHICH DATES ONE LINE OF HIS OWN CAREER SUMMARY. The 1997 annual report's account of his arrival as President and CEO says he 'launched his career at the Montreal YMCA in 1979 as director of community justice initiatives, DIRECTOR OF THE SAINT-LAURENT YMCA, director of special projects and director of the Downtown YMCA' (f_5764), with no dates on any of the four posts. The 1988 report's Branch Boards of Management list gives the Saint-Laurent board as 'Berger, Craig; Bisscheroux, John; Brownrigg, Marlyn; Buteau, Georges; Daly, Henry A.; Girard, Robert; Manios, Irene; Parent, Roch; WEIL, MICHAEL (YMCA)' -- the (YMCA) marker being the convention for the branch's own staff member on its board. So he was running Saint-Laurent in 1988, nine years before the chief executive's office and nine years after joining.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1988"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Michael Weil",
+        "Saint-Laurent YMCA"
+      ],
+      "date_ref": "1988",
+      "conflicts_with": [],
+      "added_version": "11.49",
       "added_by": "ralph_loop"
     }
   ]

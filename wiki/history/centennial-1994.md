@@ -1,7 +1,7 @@
 # The 1994 Centennial
 
-*Status: E1-reviewed | Sources: 16*
-*Last Updated: 2026-09-08 (the committee 1990-1996 in full, its chair, and a stale directorship date corrected)*
+*Status: E1-reviewed | Sources: 17*
+*Last Updated: 2026-09-08 (the camp's first board of management, 1989, and the committee to 1996)*
 
 ## Overview
 
@@ -54,6 +54,22 @@ appears separately in the same volume as a director.
 
 So the Centennial committee of 1994 looks less like a body raised for an anniversary and more like a
 standing camp committee that took one on. **Danielle Delhaes** is a name this project holds nowhere else.
+
+**The body has a first year, and it is 1989.** The association's *Branch Boards of Management* lists for
+**1985, 1986, 1987 and 1988** carry eight or nine branches each — Centre-ville, Guy-Favreau,
+Hochelaga-Maisonneuve, International, Notre-Dame-de-Grâce, Pointe-Saint-Charles, Saint-Laurent, West Island,
+Westmount — **and no camp**. The 1989 volume adds one, headed **KAMP KANAWANA**: André Hérard,
+**Chris Adam**, Keith Farquharson, Paul Cappelli, **[[people/derek-walsh|Derek Walsh]]**, Tom Snabl, Bruce
+Netherwood (YMCA), **[[people/maureen-mcbride|Maureen McBride]]**, Jay Netherwood (YMCA) and Bill Pigott
+(YMCA).^17 [f_5777]
+
+Three things sit in that first roster. **Derek Walsh directed the camp from 1974 to 1979 and is on its first
+board a decade later** — the earliest instance in this project of the pattern later seen with Morgan Carter,
+Arleen Boyer, Roxanne Martel and Matt Hamerman. **Three of the ten are marked "(YMCA)"**: Bruce Netherwood in
+his first year as director, his brother Jay in the supervisory role he moved to that year, and Bill Pigott,
+the association's Director of Operations — so the staff presence on a branch board could run to three. And
+**Paul Cappelli** appears two years before the association board lists that print him as "Capelli, Paul
+(Dawson College)."
 
 **The intervening volumes carry the whole body, and it has a chair.** The committee is older than 1990 —
 [[people/maureen-mcbride|Maureen McBride]]'s article tracks her own membership of it back to the **1988-89**
@@ -115,3 +131,4 @@ telephone at Saint-Sauveur as 1-227-2414.
 14. Kamp Kanawana counsellor recruitment advertisement, *The McGill Daily* Vol. 78 No. 83, 20 February 1989, p. 14 [src_mcgill_daily_1989_02_20]: "The experience that lasts a Lifetime!" Transcribed at `sources/cache/mcgill/2026-09-07-kanawana-ad-1989-and-perrot-doctors-1948.txt`. Found by the whole-corpus sweep of 9,890 McGill student publication items under p_479. See [f_5428].
 15. YMCA of Montreal annual report **1990**, French edition [src_ymf_sgw_ymca_annual_report_1990_fr], and the annual report **1986**, French edition [src_ymf_sgw_ymca_annual_report_1986_fr]. Cached under `sources/cache/ymca-montreal-fonds/`; the Kanawana entries read word for word 2026-09-07 under p_482, the volumes not read.
 16. YMCA of Montreal annual reports for **1991**, **1992**, **1994**, **1995** and **1996** [src_cache_sgw_ymca_annual_report_1991, src_ymf_sgw_ymca_annual_report_1992, src_cache_sgw_ymca_annual_report_1994, src_ymf_sgw_ymca_annual_report_1995, src_cache_sgw_ymca_annual_report_1996], the branch committee pages, and the 1995 volume's Kamp Kanawana page for Bruce Netherwood's 1989-1994 span. Read 2026-09-08 under p_487. See [f_5771] and [f_5772].
+17. YMCA of Montreal annual reports for **1985**, **1986**, **1987**, **1988** and **1989** [src_ymf_sgw_ymca_annual_report_1985, src_ymf_sgw_ymca_annual_report_1986, src_ymf_sgw_ymca_annual_report_1987, src_ymf_sgw_ymca_annual_report_1988, src_ymf_annual_report_1989_202301], the *Branch Boards of Management* pages. Read 2026-09-08 under p_487. The camp is absent from the first four lists and heads its own board in the fifth. See [f_5777].

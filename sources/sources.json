@@ -13230,7 +13230,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. | 2026-09-06: searched for the McBride name under p_441; committee and board listings extracted to f_5010. This was a NAME SEARCH, not a close read -- the read_state is unchanged deliberately.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "2026-09-08 under p_487, zone 1: the Branch Boards of Management page, which gives the camp's FIRST board of management -- ten names including Derek Walsh, ten years after his directorship. f_5777. The rest of the volume is not read closely; its five-year $250,000 rejuvenation passage was already worked into centennial-1994.md."
     },
     {
       "source_id": "src_ymf_bulletin_1967_11_13",
@@ -19656,7 +19656,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "2026-09-08 under p_487, zone 1: the Branch Boards of Management page checked and the camp confirmed ABSENT from it. Supersedes the asserted keyword-swept state for that page only; the rest of the volume is not read."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1987_fr",
@@ -19692,7 +19692,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "partial",
-      "read_state_basis": "2026-09-06 under p_454: the section headed 'KAMP KANAWANA: NON NOBIS SOLUM' read whole, and the year-end line on p. [1498 of the OCR] checked -- FOR THE YEAR ENDED MAY 31, 1988 (f_5182, c_067). THE REST OF THE VOLUME IS NOT READ: branch reports, the staff list beyond Jay Netherwood's entry, finance."
+      "read_state_basis": "2026-09-06 under p_454: the section headed 'KAMP KANAWANA: NON NOBIS SOLUM' read whole. RE-READ 2026-09-08 under p_487, zone 1: the Branch Boards of Management page -- the camp absent from it, and Michael Weil marked (YMCA) on the Saint-Laurent board (f_5777, f_5778)."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1988_fr",

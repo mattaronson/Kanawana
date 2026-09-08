@@ -1,6 +1,6 @@
 # The YMCA of Montreal / YMCAs of Quebec
 
-*Status: E1-reviewed | Sources: 14*
+*Status: E1-reviewed | Sources: 15*
 *Last Updated: 2026-09-08 (the chief-executive succession 1980-2009, and Michael Weil's marriage to the chair of Kanawana's advisory committee)*
 
 ## Overview
@@ -58,7 +58,11 @@ and Publisher of *The Gazette*." **Matte was an insider**, elected effective the
 years as a volunteer and a term as Chairman of the Board from 1985 to 1988. **Weil came back**: he had begun
 his career at the Montreal YMCA in 1979, ran the Saint-Laurent and Downtown branches among other posts, left
 to be CEO of the YM-YWCA of Winnipeg, and returned in April 1997 to the chief executive's office.^13 [f_5764]
-[f_5765]
+[f_5765] *One of those four posts now has a date.* The 1988 report's Branch Boards of Management list gives
+the Saint-Laurent board as "Berger, Craig; Bisscheroux, John; Brownrigg, Marlyn; Buteau, Georges; Daly, Henry
+A.; Girard, Robert; Manios, Irène; Parent, Roch; **Weil, Michael (YMCA)**" — the "(YMCA)" marker being this
+series' convention for the branch's own staff member on its board. So he was running Saint-Laurent in **1988**,
+nine years after joining the association and nine before the chief executive's office.^15 [f_5778]
 
 **And one of them came back.** Michael Goldbloom signs the association's community reports for **2010, 2011
 and 2012** as **Chair of the Board of Directors**, sixteen years after resigning its chief executive's office
@@ -127,6 +131,7 @@ The YMCA of Montreal established Camp Kanawana in 1894, making it one of the old
 12. YMCA Canada, institutional history: 1912 "National Federation" formation [src_ymca_canada_history].
 13. YMCA of Montreal annual reports, the signature blocks and governance pages of the volumes for **1980-81, 1981-82, 1984, 1985, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1998-99, 1999-2000, 2000-01, 2001-02, 2002-03, 2004-05** and **2009** [src_ymf_sgw_ymca_annual_report_1980_1981, src_ymf_sgw_ymca_annual_report_1981_1982, src_ymf_sgw_ymca_annual_report_1984, src_ymf_sgw_ymca_annual_report_1985, src_ymf_sgw_ymca_annual_report_1992, src_cache_sgw_ymca_annual_report_1993, src_cache_sgw_ymca_annual_report_1994, src_ymf_sgw_ymca_annual_report_1995, src_cache_sgw_ymca_annual_report_1996, src_ymf_sgw_ymca_annual_report_1997, src_ymf_sgw_ymca_annual_report_2001_2002, src_ymf_sgw_ymca_annual_report_2002_2003, src_ymf_sgw_ymca_annual_report_2004_2005, src_ymf_sgw_ymca_annual_report_2009]. Read 2026-09-08 under p_487. The 1997 volume's outgoing board chairman's message for Michael Weil's arrival and prior career; the 1994 volume for Goldbloom's resignation and Matte's election; the 2009 volume for the Heritage Club dinner and the Massé Award. See [f_5764] and [f_5765].
 14. The YMCAs of Québec, community reports for **2010**, **2011**, **2012**, **2013**, **2014**, **2015**, **2017** and **2018** [src_ymf_sgw_ymca_community_report_2010, src_ymf_sgw_ymca_community_report_2011, src_ymf_sgw_ymca_community_report_2012, src_ymf_sgw_ymca_community_report_2013, src_ymf_sgw_ymca_community_report_2014, src_ymf_sgw_ymca_community_report_2015, src_ymf_sgw_ymca_community_report_2017, src_ymf_sgw_ymca_community_report_2018], the signature blocks and board and donor lists. Read 2026-09-08 under p_487. See [f_5775].
+15. YMCA of Montreal annual report **1988** [src_ymf_sgw_ymca_annual_report_1988], the *Branch Boards of Management* page. Read 2026-09-08 under p_487. See [f_5778].
 
 ## Research Notes
 
