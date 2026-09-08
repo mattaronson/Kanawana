@@ -1,6 +1,6 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 43*
+*Status: E1-reviewed | Sources: 44*
 *Last Updated: 2026-09-07 (the acid-rain thread spun out; the mis-headed section renamed)*
 
 ## Overview
@@ -258,11 +258,25 @@ That is a camp comparing its own grounds to a downtown Montreal shopping street,
 
 The camp's stated acreage varies by a factor of nearly seven across the record, and the 1989 document conceding the problem is the most useful one.^33
 
+**[CORRECTED 2026-09-08.** The table below read "1949–1959 annual reports | 600 acres" and dismissed the
+small figure as "'a sixty acre site' — almost certainly an OCR or typographic error for 600," on the
+strength of the 1957 report alone. **It is in six consecutive volumes.** The reports for **1952, 1954,
+1955, 1956 and 1957** print "**sixty acres**" spelled out, and the **1953** report prints "**60 acres**" —
+so it is neither a dropped digit nor a scanner's misreading, but a figure the association used in print
+for six years running. Only the **1949** volume in that run gives 600.^34
+
+*What it probably means, offered as a reading rather than a finding.* The 1956 and 1957 wording is
+"Kamp Kanawana … **is a sixty acre site** of woodland and lakes **with** a beautiful hillside Summer
+Vacation Camp", which distinguishes a *site* from the *property* around it — and the 1989 Royal LePage
+valuation makes the same distinction from the other end, "455 acres land, 537 acres total". A camp of
+sixty developed acres inside a property of several hundred would reconcile the whole run. **No document
+read here says so**, and the figures are left standing against each other.]
+
 | Source | Area |
 |---|---|
 | 1936 CFCF broadcast | 150 acres |
-| 1949–1959 annual reports | 600 acres |
-| 1957 annual report | "a sixty acre site" — almost certainly an OCR or typographic error for 600 |
+| 1949 annual report | "covering an area of **600 acres**" |
+| **1952–1957 annual reports** | "**sixty acres**" or "**60 acres**", in six consecutive volumes |
 | 1964, 1969, 1970 reports | "approximately 1,000 acres," after a 1964 purchase of ~120 acres at the south end of Lake Wilson |
 | 1989 (Royal LePage figure, in the 1988 report) | **455 acres land, 537 acres total** |
 
@@ -377,6 +391,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 42. YMCA du Grand Montréal, rapport annuel 2005-2006 [src_ymf_sgw_ymca_annual_report_2005_2006_fr], the Foundation pages and the President's message. THE ONLY COPY OF THIS YEAR THIS PROJECT HOLDS IS THE FRENCH EDITION -- there is no English 2005-2006 file in the cache and no Wayback copy -- so nothing in it had been read before 2026-09-06.
 43. Montreal YMCA annual report for the year ended 31 December 2009 [src_ymf_sgw_ymca_annual_report_2009], "Kanawana: significant progress". Read 2026-09-06 under p_454.
 
+44. YMCA of Montreal annual reports for **1949** and for **1952 through 1957** [src_ymf_sgw_ymca_annual_report_1949, src_ymf_sgw_ymca_annual_report_1952, src_ymf_sgw_ymca_annual_report_1953, src_ymf_sgw_ymca_annual_report_1954, src_ymf_sgw_ymca_annual_report_1955, src_ymf_sgw_ymca_annual_report_1956, src_ymf_sgw_ymca_annual_report_1957], the Kamp Kanawana descriptions. Read 2026-09-08 under p_490, in the course of testing whether the 1947-1958 director gap could be closed from these volumes. See [f_5754].
 ## Research Notes
 
 ### Revision History

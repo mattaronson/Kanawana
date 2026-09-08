@@ -1,8 +1,8 @@
 {
-  "version": "11.28",
-  "kb_version": "11.28",
+  "version": "11.29",
+  "kb_version": "11.29",
   "migrated_from": "3.3",
-  "fact_count": 5715,
+  "fact_count": 5716,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103067,6 +103067,29 @@
       "date_ref": "1968-69",
       "conflicts_with": [],
       "added_version": "11.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5754",
+      "claim": "'SIXTY ACRES' IS IN SIX CONSECUTIVE REPORTS, SO IT IS NOT AN OCR ERROR, AND THE 1947-1958 DIRECTOR GAP IS NOW A TESTED NULL. Two results from reading the postwar reports' Kamp Kanawana paragraphs end to end. (1) THE ACREAGE. traditions/environmental-history.md carried a table of the camp's stated size and dismissed the small figure: \"1957 annual report | 'a sixty acre site' -- almost certainly an OCR or typographic error for 600\", on the strength of that one volume. IT IS IN SIX. The reports for 1952, 1954, 1955, 1956 and 1957 print 'SIXTY ACRES' SPELLED OUT and the 1953 report prints '60 acres'; only the 1949 volume in that run gives 600. A dropped digit does not survive six volumes and cannot be spelled out in words. Corrected in the article, with the reading offered rather than asserted: the 1956 and 1957 wording is 'Kamp Kanawana ... IS A SIXTY ACRE SITE of woodland and lakes WITH a beautiful hillside Summer Vacation Camp', which distinguishes a SITE from the PROPERTY around it, and the 1989 Royal LePage valuation makes the same distinction from the other end at '455 acres land, 537 acres total'. Sixty developed acres inside a property of several hundred would reconcile the whole run; no document read here says so and the figures are left standing against each other. (2) THE DIRECTOR GAP. people/directors-index.md says of 1947-1958 that 'the annual reports of these years name no paid camp director at all'. That was true and untested. Every cached report for 1941 and 1944-1958 has now been searched with a hyphenation-tolerant pattern, in both its camp paragraph and its personnel section: the camp paragraphs give attendance, acreage and facilities and NO PERSONAL NAMES IN ANY YEAR, and the personnel sections touch the camps only twice in the entire postwar run, in 1965 (Colin McKay leaving Otoreke) and 1968. The gap is now a tested absence rather than an assumed one, and the article says so, which should stop the same ground being re-covered.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1949",
+        "src_ymf_sgw_ymca_annual_report_1952",
+        "src_ymf_sgw_ymca_annual_report_1953",
+        "src_ymf_sgw_ymca_annual_report_1954",
+        "src_ymf_sgw_ymca_annual_report_1955",
+        "src_ymf_sgw_ymca_annual_report_1956",
+        "src_ymf_sgw_ymca_annual_report_1957"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Camp Kanawana acreage",
+        "directors-index"
+      ],
+      "date_ref": "1949-1958",
+      "conflicts_with": [],
+      "added_version": "11.29",
       "added_by": "ralph_loop"
     }
   ]
