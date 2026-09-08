@@ -20322,7 +20322,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "partial",
-      "read_state_basis": "read for Kanawana content 2026-09-06 under p_454. RE-READ 2026-09-08 for the Heritage Club dinner and the Massé Award to Judy and Michael Weil (f_5764). The rest of the volume is not read."
+      "read_state_basis": "read for Kanawana content 2026-09-06 under p_454; re-read 2026-09-08 for the Massé Award (f_5764). RE-READ AGAIN 2026-09-08 to the END of the Kanawana Development Project paragraph, whose last two sentences -- the project's stated aim and the 4%-to-26% financial-assistance rise -- had been quoted past twice. f_5780, f_5781."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_2009_fr",
@@ -20340,7 +20340,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487. Confirms the 4 % to 26 % sentence and the Phase I paragraph against the English edition; produced no facts of its own."
     },
     {
       "source_id": "src_ymf_sgw_ymca_community_report_2010",
@@ -20394,7 +20394,7 @@
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. || READ FOR ITS KANAWANA PASSAGES 2026-09-07 under the sharpened p_441. Holds the 2011 OPEN HOUSE of 19 JUNE and 'over 700 campers' -- an attendance figure for a year the series does not cover; the LANGUAGE CAMPS running at Kanawana as well as the Downtown day camp; the Endowment Fund paying for a BOOT CAMP WEEKEND FOR GIRLS at the camp; and a mother in a French conversation workshop whose two eldest children reached Kanawana on financial assistance. Neither 'Boot Camp' nor 'Open House' occurred anywhere in the wiki before. See f_5579.",
       "read_state": "read",
-      "read_state_basis": "RE-READ 2026-09-08 under p_487, zones 1 and 2: the fund's yearly revenue and the signature block. f_5774, f_5775."
+      "read_state_basis": "RE-READ 2026-09-08 under p_487, zones 2 and 3: the fund's yearly revenue, the signature block, and the 1 October entry dating the start of construction on one of the two educational pavilions. f_5774, f_5775, f_5781."
     },
     {
       "source_id": "src_ymf_sgw_ymca_community_report_2011_fr",
@@ -20430,7 +20430,7 @@
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. || READ FOR ITS KANAWANA PASSAGES 2026-09-07 under the sharpened p_441. Holds YEAR ONE OF THE TREMPLIN SANTE PILOT -- an initiative of the Fondation des Camps Odyssée financed by Québec en forme, with Kanawana beside three day camps -- which is the camp inside a province-wide public-health programme run through the Quebec camping sector rather than the YMCA, and a word that occurred nowhere in this wiki. Also $255,000 in financial assistance for over 480 children, a COMBINED 3,000 children across day camps and Kanawana (NOT a camp attendance figure and not treated as one), and a camper's own testimony after seven summers. See f_5580.",
       "read_state": "read",
-      "read_state_basis": "read for its Kanawana passages 2026-09-07. RE-READ 2026-09-08 under p_487, zones 1 and 2: the Foundation page (no figures) and the signature block -- f_5775."
+      "read_state_basis": "read for its Kanawana passages 2026-09-07. RE-READ 2026-09-08 under p_487: the Foundation page, the signature block, and the 2012 highlight inaugurating the outdoor education pavilion. f_5775, f_5781."
     },
     {
       "source_id": "src_ymf_sgw_ymca_community_report_2012_fr",

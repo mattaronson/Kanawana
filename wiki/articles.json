@@ -7188,7 +7188,11 @@
         "src_ymf_sgw_ymca_annual_report_1955",
         "src_ymf_sgw_ymca_annual_report_1956",
         "src_ymf_sgw_ymca_annual_report_1957",
-        "src_ymf_sgw_ymca_annual_report_2007_fr"
+        "src_ymf_sgw_ymca_annual_report_2007_fr",
+        "src_ymf_sgw_ymca_community_report_2010",
+        "src_ymf_sgw_ymca_community_report_2011",
+        "src_ymf_sgw_ymca_community_report_2012",
+        "src_ymf_sgw_ymca_annual_report_2009_fr"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -7205,7 +7209,7 @@
         "acid-rain"
       ],
       "file_id": null,
-      "word_count": 7406,
+      "word_count": 7825,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical; fixed a genuine citation-numbering bug where the Sources list had two entries each numbered '17.' and '22.' (disambiguated as 17b./22b., three inline markers corrected to point at the right one). No facts, source content, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -10059,7 +10063,8 @@
         "src_ymf_sgw_ymca_annual_report_1998_1999",
         "src_ymf_sgw_ymca_annual_report_2006",
         "src_ymf_sgw_ymca_annual_report_2007",
-        "src_ymf_sgw_ymca_annual_report_2008"
+        "src_ymf_sgw_ymca_annual_report_2008",
+        "src_ymf_sgw_ymca_annual_report_2009"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -10076,7 +10081,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 8442,
+      "word_count": 8594,
       "notes": "2026-07-11: Workstream C4 spawn (4 of 4, final). Connective-narrative synthesis, no new research conducted. Ties together this session's institutional-role-director spawns into continuous narrative history. This completes Workstream C4 and the full operator-approved plan. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
       "tags": {
         "era": [

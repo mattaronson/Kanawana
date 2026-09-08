@@ -1,7 +1,7 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 45*
-*Last Updated: 2026-09-07 (the acid-rain thread spun out; the mis-headed section renamed)*
+*Status: E1-reviewed | Sources: 46*
+*Last Updated: 2026-09-08 (4% to 26% on financial assistance; the two learning pavilions became one)*
 
 ## Overview
 
@@ -122,6 +122,30 @@ programmes" — that is **every YMCA programme across the association**, not Kan
 comparable to the camp's own 12% and 19% assistance shares.
 
 **Where Phase I got to, and what it cost in donations.** The report for the year ended 31 December 2009: "Phase I of the Kanawana Development Project is coming to an end. The camp's young campers and counsellors will soon be able to experience the **12 new three-season cabins erected this year** on its wonderfully forested site in Saint-Sauveur. The cabins and the two sanitary facilities (completed in 2007), were made possible thanks to **over $1.8 million in donations**. The fundraising campaign is ongoing with the final objective being the construction of **two learning pavilions in 2010-2011**, thus completing Phase I."^43
+
+**The same paragraph does not stop where this article stopped quoting it.** Two sentences further on, the
+report gives the project's own stated aim and a number for it: "The aim of the Kanawana Development Project is
+to welcome even more children and youth from all walks of life and to give them a memorable experience through
+environmental education. **Since 2004, the percentage of campers receiving financial assistance to attend camp
+has grown from 4% to 26%.**"^43 The French edition says the same. *A sixfold rise in five years, and it
+reframes everything above it:* the project's stated purpose here is **access**, with the environmental
+programming as the means rather than the end. The 2010 report adds the mechanism — the camp "has been able to
+provide financial assistance to more children and youth thanks to the support of the **private sector**" and
+will now reach more "as a result of its **eligibility for government subsidies**"^46 — so the first stretch of
+that rise was privately funded and a public subsidy arrived in 2010. [f_5780]
+
+**And Phase I ended one building short of what it set out to build.** The 2009 report names the last item:
+"the final objective being the construction of **two learning pavillons in 2010-2011**, thus completing Phase
+I."^43 Read the next three reports in sequence and the number retreats. **2010**: "at least **one of the two**
+ecological learning pavilions will soon become a reality thanks to generous donations, such as the one
+received from **TELUS Québec**" — which places the $50,000 TELUS grant recorded further down this article
+inside the project it paid for. **2011**, dated to 1 October: "Construction begins on **one of two**
+educational pavilions at YMCA Camp Kanawana which will allow more outdoor education classes and community
+groups to be accommodated as of next spring." **2012**, as that year's highlight: "Inauguration of **a new
+outdoor education pavilion** that will allow for three-season programming," beside "2,215 participants in the
+outdoor education classes" and "30 leaders-in-training."^46 One pavilion, opened in 2012 on a 2010–2011
+target. *Nothing read here says the second was ever built*, and the retreat from "two" to "one of two" to an
+unnumbered single pavilion is visible only with the four reports side by side. [f_5781]
 
 **That is a fourth money figure and it measures something different again.** The $1.8 million is **donations actually received** by the end of 2009, against the **$4 million campaign target** of 2005-06 and the **$4.4 to $5 million project investment** of 2006 and 2007. Set together they say the campaign was somewhat under halfway at the point Phase I's buildings were finished, which is a fact about the fundraising and not about the buildings.
 
@@ -413,9 +437,9 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 
 44. YMCA of Montreal annual reports for **1949** and for **1952 through 1957** [src_ymf_sgw_ymca_annual_report_1949, src_ymf_sgw_ymca_annual_report_1952, src_ymf_sgw_ymca_annual_report_1953, src_ymf_sgw_ymca_annual_report_1954, src_ymf_sgw_ymca_annual_report_1955, src_ymf_sgw_ymca_annual_report_1956, src_ymf_sgw_ymca_annual_report_1957], the Kamp Kanawana descriptions. Read 2026-09-08 under p_490, in the course of testing whether the 1947-1958 director gap could be closed from these volumes. See [f_5754].
 45. **Les YMCA du Québec, rapport annuel 2007, French edition** [src_ymf_sgw_ymca_annual_report_2007_fr], the Kanawana development pages and the Foundation's list of projects funded in 2007. Read 2026-09-08 under p_487, which was working the records marked "keyword-swept, not read closely": the French editions carry material their English twins do not, and this project had read the English 2007 report for the $5 million framing and the 19% assistance figure without reaching these. See [f_5760].
+46. The YMCAs of Québec, community reports for **2010**, **2011** and **2012** [src_ymf_sgw_ymca_community_report_2010, src_ymf_sgw_ymca_community_report_2011, src_ymf_sgw_ymca_community_report_2012], the Foundation page and the year-in-review timelines, with the French edition of the 2009 annual report [src_ymf_sgw_ymca_annual_report_2009_fr] read alongside. Read 2026-09-08 under p_487. See [f_5780] and [f_5781].
 ## Research Notes
 
 ### Revision History
 
 - **2026-07-11** — Fixed a citation-numbering bug: the Sources list had two entries each numbered "17." and "22.", leaving inline ^17/^22 markers ambiguous. Disambiguated by renaming the second entry in each pair to "17b."/"22b." and updating the three inline markers that referred to the CRE Laurentides technical data (not the YMCA promotional-materials or Médiaterre entries) to point at the correct one. No source content changed, only the numbering.
-

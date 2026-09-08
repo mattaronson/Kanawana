@@ -1,8 +1,8 @@
 {
-  "version": "11.50",
-  "kb_version": "11.50",
+  "version": "11.51",
+  "kb_version": "11.51",
   "migrated_from": "3.3",
-  "fact_count": 5741,
+  "fact_count": 5743,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103619,6 +103619,47 @@
       "date_ref": "1990",
       "conflicts_with": [],
       "added_version": "11.50",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5780",
+      "claim": "THE SHARE OF KANAWANA CAMPERS ON FINANCIAL ASSISTANCE WENT FROM 4% TO 26% BETWEEN 2004 AND 2009, AND THE SENTENCE HAS BEEN QUOTED PAST TWICE. The association's report for the year ended 31 December 2009, closing the paragraph on the Kanawana Development Project: 'The aim of the Kanawana Development Project is to welcome even more children and youth from all walks of life and to give them a memorable experience through environmental education. SINCE 2004, THE PERCENTAGE OF CAMPERS RECEIVING FINANCIAL ASSISTANCE TO ATTEND CAMP HAS GROWN FROM 4% TO 26%.' The French edition says the same ('est passe de 4 % a 26 %'). environmental-history.md quotes this very paragraph, from its first sentence through the $1.8 million in donations, and stops two sentences short. A SIXFOLD RISE IN FIVE YEARS is the single most consequential social fact this project holds about the modern camp, and it reframes the green shift: the development project's own stated aim is stated here as access, not ecology, with the environmental programming as the means. It also puts numbers around the 2016 letter from Star, whose son Bishop had been going since 2009 on assistance, and around the 2010 Access for All breakdown giving Camp Y Kanawana 3.24% (f_5776). THE 2010 REPORT ADDS THE MECHANISM: 'Camp Y Kanawana, which has been able to provide financial assistance to more children and youth thanks to the support of the private sector, will now be able to welcome even more of those in need AS A RESULT OF ITS ELIGIBILITY FOR GOVERNMENT SUBSIDIES.' So the first stretch of the rise was privately funded and a public subsidy arrived in 2010.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2009",
+        "src_ymf_sgw_ymca_annual_report_2009_fr",
+        "src_ymf_sgw_ymca_community_report_2010"
+      ],
+      "confidence": "stated",
+      "category": "access",
+      "entities": [
+        "Camp YMCA Kanawana",
+        "financial assistance",
+        "Kanawana Development Project"
+      ],
+      "date_ref": "2004-2010",
+      "conflicts_with": [],
+      "added_version": "11.51",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5781",
+      "claim": "THE TWO LEARNING PAVILIONS, FROM TARGET TO OPENING, ACROSS FOUR REPORTS. The 2009 report closes Phase I of the Kanawana Development Project with an unfinished item: 'The fundraising campaign is ongoing with the final objective being the construction of TWO LEARNING PAVILLONS IN 2010-2011, thus completing Phase I of the development project.' The 2010 report: 'at least ONE OF THE TWO ecological learning pavilions will soon become a reality thanks to generous donations, such as the one received from TELUS Quebec' -- the $50,000 TELUS grant this wiki already holds, now placed inside the project it paid for. The 2011 report dates the start: under '10/01', 'Construction begins on ONE OF TWO educational pavilions at YMCA Camp Kanawana which will allow more outdoor education classes and community groups to be accommodated AS OF NEXT SPRING.' The 2012 report gives the opening as that year's highlight: 'Inauguration of a NEW OUTDOOR EDUCATION PAVILION that will allow for three-season programming,' alongside '2,215 participants in the outdoor education classes' and '30 leaders-in-training'. SO ONE PAVILION WAS BUILT, ON A 2010-2011 TARGET, OPENING IN 2012. Nothing read says the second was ever built, and the wording moves from 'two' in 2009 to 'at least one of the two' in 2010 to 'one of two' in 2011 to a single unnumbered pavilion in 2012 -- a retreat visible only when the four reports are read in sequence.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2009",
+        "src_ymf_sgw_ymca_community_report_2010",
+        "src_ymf_sgw_ymca_community_report_2011",
+        "src_ymf_sgw_ymca_community_report_2012"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "learning pavilion",
+        "Kanawana Development Project",
+        "TELUS"
+      ],
+      "date_ref": "2009-2012",
+      "conflicts_with": [],
+      "added_version": "11.51",
       "added_by": "ralph_loop"
     }
   ]
