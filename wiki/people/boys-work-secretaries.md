@@ -1,21 +1,33 @@
-# Montreal's Boys' Work Secretaries, 1900–1923
+# Montreal's Boys' Work Secretaries, 1900–1939
 
-*Status: draft | Sources: 8*
+*Status: draft | Sources: 9*
 *Last Updated: 2026-09-08 (the 1919 and 1920 staff-changes sections, under p_490)*
 
 ## Overview
 
 Camp Kanawana was run, for its first thirty years, by whoever held the Montreal YMCA's boys' work post.
 That office has its own succession, its own recruiting habits and its own war, none of which fit inside an
-index of camp directors, and this article follows it from 1900 to the early 1920s.
+index of camp directors, and this article follows it from 1900 to the eve of the second war. **The spine of
+the account is the *Year Book*'s continental roster, which this project holds for 1900 to 1923**; after
+that the article runs on the Montreal association's own annual reports, which are thinner on the year-by-year
+line and much better on what became of the men.
 
 The line matters to the camp in a specific way. For the back half of the 1910s the camp's director and the
 Central Branch's boys' worker were **the same man**, established by two records that do not depend on each
 other. For the front half it is a lead rather than an answer. And the men who held the post came into it by
 at least three different routes, one of which was the camp itself.
 
+And the shape that comes out of it, stated once here because the sections below keep meeting it: **the
+boys' work secretaryship was a rung and not a career.** Of the men followed here, one left it to run a
+branch, one for a general secretaryship in another city, one for a theological college, one for the
+national office, one for business, one for China, and one to enter college. The association's own words
+for George S. Mooney — "after a brief term as Boys' Work Secretary in the North Branch" — are the plainest
+statement any of these documents makes of it.
+
 Individual biographies live in their own articles where they exist: [[people/w-j-holliday|Captain William
-J. Holliday]], [[people/harold-cross|Harold C. Cross]], [[people/geoffrey-guiton|Geoffrey Guiton]].
+J. Holliday]], [[people/harold-cross|Harold C. Cross]], [[people/geoffrey-guiton|Geoffrey Guiton]],
+[[people/howie-langille|Howie Langille]], [[people/nelson-mcewen|Nelson McEwen]] and
+[[people/notable-alumni/kidd-brothers|the Kidd brothers]].
 
 ## The route that opened the volumes
 
@@ -256,6 +268,28 @@ Mooney is the "Asst. Boys, G. S. Mooney" of the 1920-21 volume in the table abov
 which the boys' work is a brief term at the start** — which is the sixth career in this article to take
 that shape, and the plainest statement of it any of these documents makes.
 
+### E. I. Taylor, whose whole career one sentence gives
+
+**One man's arc runs Central's boys' desk, the International Branch, five years in China, and back to a
+branch boys' desk — and the association wrote it out in a single paragraph.** The report for the year
+ending 31 March 1935: "**Mr. Ernest I. Taylor was appointed Boys' Work Secretary at Westmount Branch on
+return from spending five years in Boys' and Student Work in Amoy, China. Previously he served the
+Montreal Y.M.C.A. for six years, first as Boys' Work Secretary of Central Branch and later as Executive
+Secretary of the International Branch.**"^9
+
+That closes a loop this project already held one end of without knowing it. The report for the year
+ending 31 March 1930 records "Mr. D. J. F. Scott, B.A., was appointed Executive Secretary of the
+International Branch, **succeeding Mr. Taylor**", who had "gone to **Amoy, China**, where Mr. Taylor is on
+the staff of the Association."^9 Same man, leaving in 1929-30 and returning in 1934-35. **Six years'
+Montreal service before China puts his Central boys' work at about 1923-24** — immediately after the last
+row of the table above.
+
+*And he is very probably at Kanawana that summer.* The 1935 season chronicle names "**Ernie Taylor**" as
+the camp's **Junior Director**, under Camp Chief [[people/greig-macdiarmid|Greig Macdiarmid]] — the same
+season the association appointed Ernest I. Taylor to Westmount's boys' desk, and exactly the pattern this
+article keeps finding, a branch boys' secretary running a section at camp. **It is not asserted**: the
+chronicle gives no initials, and Taylor is a common name.
+
 ## The branch secretaries, and the camp's own contact
 
 **A North Branch boys' secretary was the camp's own contact for his branch.** The **1922 Kamp Kanawana
@@ -313,6 +347,7 @@ autumn.** Moving up and out, not down. See [[people/w-j-holliday|Captain William
 7. YMCA of Montreal annual reports for the years ending **30 April 1919** and **30 April 1920** [src_ymf_sgw_ymca_annual_report_1919_montreal_men, src_ymf_sgw_ymca_annual_report_1920], the *Staff Changes* sections read branch by branch on 2026-09-08 under p_490. Both had been read for their camps sections only. See [f_5736].
 
 8. YMCA of Montreal annual reports for the years ending **30 April 1917** and **31 March** of **1936**, **1938** and **1939** [src_ymf_sgw_ymca_annual_report_1917, src_cache_sgw_ymca_annual_report_1936, src_ymf_sgw_ymca_annual_report_1938, src_ymf_sgw_ymca_annual_report_1939], the staff-changes sections. Read 2026-09-08 under p_490. Three of the four came from the supplement of passages the priority's first sweep could not see, its search having been blind to the OCR's line-end hyphenation. See [f_5751].
+9. YMCA of Montreal annual reports for the years ending **31 March 1930** and **31 March 1935** [src_cache_sgw_ymca_annual_report_1930, src_cache_sgw_ymca_annual_report_1935], the staff-changes sections: Taylor's departure for Amoy and D. J. F. Scott's succession at the International Branch; and Taylor's return and appointment to Westmount, with the summary of his previous six years. Read 2026-09-08 under p_490. See [f_5752].
 ## Research Notes
 
 *Spun out of `people/directors-index.md` on 2026-09-08 under `p_452`, from two sections totalling about 2,800 words.*

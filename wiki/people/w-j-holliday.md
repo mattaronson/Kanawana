@@ -1,6 +1,6 @@
 # Captain William J. Holliday
 
-*Status: draft | Sources: 5*
+*Status: draft | Sources: 6*
 *Last Updated: 2026-09-07*
 
 ## Overview
@@ -51,6 +51,29 @@ a Mr. Holliday in charge of it in 1916 than a stranger.
 
 ## Between the wars, and the second
 
+**What "Unemployment, William J. Holliday" meant.** The roster line above gives him a portfolio and
+nothing else. The association's report for the year ending **31 March 1935** says what the job was, and
+it is the fullest account of his working life this project holds.^6
+
+The Montreal YMCA ran a **Registration Bureau for Office Workers** through the Depression — relief for
+the city's "white collar" families and single unemployed men, at a time when the average age of convicts
+in Canadian penitentiaries had fallen below twenty-two, a figure the report puts at the head of the
+section. The Bureau closed on **31 January 1935**, the city having taken over relief for single men. In
+its life it distributed **over $335,000 of public and private funds** and dealt with **over 10,000
+people**, "given counsel and assistance of a most personal nature. In many cases these contacts are
+still being maintained."
+
+**Holliday ran it.** "**Our Mr. W. J. Holliday, who directed the Registration Bureau throughout the
+period of its operation**, was appointed honorary executive secretary" of the **Protestant Bureau for
+Homeless Men**, at that bureau's own request, when the Council of Social Agencies transferred the
+service to it on the Registration Bureau's closing.^6
+
+*So the 1930s are not a gap in him after all.* The man who opened Kanawana's Lac Wilson site in 1910,
+broke down in 1926-27 and was carried by the association for a year on full salary, spent the Depression
+running its unemployment relief — and was asked to keep doing it, unpaid, by the body that inherited the
+work. The dagger on the 1941 roster line is the tail of that, six years later.
+
+
 *[A short-lived correction is recorded here rather than deleted, because its shape is worth more than its content. The sentence above was **first written** from the dagger, then **withdrawn** an hour later when the National Y.M.C.A. War Services Executive Committee turned up with Beaton in it and Holliday not — and is now **restored**, because Montreal's own reports say he served. The withdrawal was the error: that committee is a **governing body of about a dozen men**, not a roster of everyone serving. Beaton is on it because he ran it; Holliday is absent because he was in the field. **Absence from a committee is not absence from service**, and a null in a list that could not have held the man refutes nothing while feeling like diligence.]*
 
 ## What is not his
@@ -67,7 +90,7 @@ a Mr. Holliday in charge of it in 1916 than a stranger.
 
 ## Related Articles
 
-- [[people/boys-work-secretaries|Montreal's Boys' Work Secretaries, 1900–1923]]
+- [[people/boys-work-secretaries|Montreal's Boys' Work Secretaries, 1900–1939]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]] — the index this article was separated from
 - [[history/founding-1894|Founding of Camp Kanawana (1894)]]
 - [[site/the-kanawana-site|The Kanawana Site]] — the Lac Wilson site he opened in 1910
@@ -83,6 +106,7 @@ a Mr. Holliday in charge of it in 1916 than a stranger.
 4. YMCA of Montreal annual reports for **1942**, **1946** and **1948** [src_ymf_sgw_ymca_annual_report_1942, src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1948]. The 1948 report's retirement paragraph is the fullest account of his career the association ever printed.
 5. YMCA of Montreal annual report for the year ending 30 April **1927** [src_ymf_sgw_ymca_annual_report_1927], `sources/cache/ymca-montreal-fonds/sgw-ymca-annual-report-1927.txt`. The two months at **Camp Otoreke**, the three months in **Georgia**, the resumption on **1 January** and the year's leave on full salary are at [f_5635], which also carries the **1926** Otoreke deficit of **$589.03** and the transfer of the camp to the Metropolitan Physical and Recreational Committee. Found 2026-09-07 under p_491.
 
+6. YMCA of Montreal annual report for the year ending **31 March 1935** [src_cache_sgw_ymca_annual_report_1935], the *Unemployment* section. The Registration Bureau for Office Workers, its closing on 31 January 1935, the $335,000 and the ten thousand people, and Holliday's direction of it and his honorary appointment to the Protestant Bureau for Homeless Men. Read 2026-09-08 under p_490, from the supplement of passages the priority's first sweep could not see. See [f_5752].
 ## Research Notes
 
 ### Revision History

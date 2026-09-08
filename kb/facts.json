@@ -1,8 +1,8 @@
 {
-  "version": "11.26",
-  "kb_version": "11.26",
+  "version": "11.27",
+  "kb_version": "11.27",
   "migrated_from": "3.3",
-  "fact_count": 5713,
+  "fact_count": 5714,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103030,6 +103030,25 @@
       "date_ref": "1917/1936/1938/1939",
       "conflicts_with": [],
       "added_version": "11.26",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5752",
+      "claim": "TWO CAREERS OUT OF THE 1935 REPORT, AND THE BOYS' WORK ARTICLE OUTGREW ITS OWN TITLE. (1) W. J. HOLLIDAY SPENT THE DEPRESSION RUNNING MONTREAL'S UNEMPLOYMENT RELIEF. The 1941 Year Book's Montreal block gives him as 'Unemployment, William J. Holliday' and this project had no idea what that meant. The report for the year ending 31 March 1935 says: the association ran a REGISTRATION BUREAU FOR OFFICE WORKERS through the Depression, relief for the city's 'white collar' families and single unemployed men, opened in the section that reports the average age of convicts in Canadian penitentiaries having fallen below twenty-two. It closed 31 JANUARY 1935, the city having taken over relief for single men, having distributed OVER $335,000 of public and private funds and dealt with OVER 10,000 PEOPLE 'given counsel and assistance of a most personal nature'. 'OUR MR. W. J. HOLLIDAY, WHO DIRECTED THE REGISTRATION BUREAU THROUGHOUT THE PERIOD OF ITS OPERATION, was appointed honorary executive secretary' of the PROTESTANT BUREAU FOR HOMELESS MEN at that bureau's own request when the work transferred to it. So the man who opened Kanawana's Lac Wilson site in 1910 and broke down in 1926-27 spent the 1930s on relief work and was asked to keep doing it unpaid. The 1930s are not a gap in him. (2) E. I. TAYLOR'S WHOLE ARC IN ONE SENTENCE: 'Mr. ERNEST I. TAYLOR was appointed Boys' Work Secretary at Westmount Branch ON RETURN FROM SPENDING FIVE YEARS IN BOYS' AND STUDENT WORK IN AMOY, CHINA. Previously he served the Montreal Y.M.C.A. for six years, FIRST AS BOYS' WORK SECRETARY OF CENTRAL BRANCH and later as Executive Secretary of the International Branch.' It closes a loop the project held one end of: the 1930 report has D. J. F. Scott appointed to the International Branch 'succeeding Mr. Taylor', who had gone to Amoy. Six years' Montreal service before China puts his Central boys' work at about 1923-24, immediately after the last row of the article's table. AND HE IS PROBABLY AT CAMP THAT SUMMER: the 1935 season chronicle names 'Ernie Taylor' as Kanawana's Junior Director in the same year the association appointed Ernest I. Taylor to Westmount's boys' desk. NOT ASSERTED -- the chronicle gives no initials. THE ARTICLE IS RETITLED 1900-1939 and its overview now says the Year Book roster is the spine to 1923 and the annual reports carry it after, being thinner on the year-by-year line and much better on what became of the men.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1935",
+        "src_cache_sgw_ymca_annual_report_1930"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "W. J. Holliday",
+        "Ernest I. Taylor",
+        "D. J. F. Scott"
+      ],
+      "date_ref": "1930/1935",
+      "conflicts_with": [],
+      "added_version": "11.27",
       "added_by": "ralph_loop"
     }
   ]

@@ -300,7 +300,7 @@ Three other things come off the same page. **Herbert C. Patterson** supplies the
 
 **And that is the end of what the Internet Archive holds.** The series is now inventoried in full: thirteen items carrying twenty-three annual volumes, six of the items holding more than one.^47 It is available for 1881-82, 1884, 1886-1888, 1890-1900, 1906-1909, 1921, 1922 and a restricted 1936. **It is not available anywhere on the Archive for 1901-1905 or 1910-1920** — and those holes are not an artefact of a bad query, since four separately corrected search methods converge on them.
 
-**[SUPERSEDED 2026-09-07: the paragraph that follows was true about HathiTrust and wrong about the conclusion. The missing years are readable from here, through the University of Minnesota Libraries' digitised run of the same series, and the three questions the next paragraph poses are now answered in [[people/boys-work-secretaries|Montreal's Boys' Work Secretaries, 1900–1923]].]**
+**[SUPERSEDED 2026-09-07: the paragraph that follows was true about HathiTrust and wrong about the conclusion. The missing years are readable from here, through the University of Minnesota Libraries' digitised run of the same series, and the three questions the next paragraph poses are now answered in [[people/boys-work-secretaries|Montreal's Boys' Work Secretaries, 1900–1939]].]**
 
 **They are on HathiTrust, they are public domain, and this environment cannot read them.**^48 Every one of the missing years has an identifier there: 1901 through 1905 as single volumes, and 1909-1910, 1910-11, 1911/12, 1913/14, 1915/16, 1916/17, 1917/18, 1918/19 and 1919/20 in a run from the University of Illinois. HathiTrust's catalogue API answers normally; every reading and search endpoint returns HTTP 403 behind a Cloudflare challenge. That is a fact about the gateway, not about the volumes — **a person with a browser can open all of them**, and the identifiers are listed in the cache file so that nobody has to find them again. Google Books may hold the same scans, the Illinois and Michigan copies both being Google-digitised, but its API is at its daily quota and returned 429 to the control query as well, so it says nothing yet either way.
 
@@ -339,7 +339,7 @@ The 1921 brochure puts him at Kanawana in his fifth year, which means he started
 The Montreal YMCA's boys' work post has its own succession from 1900 to the early 1920s, its own recruiting
 habits and its own war record, and for the back half of the 1910s **the camp's director and the Central
 Branch's boys' worker were the same man**. That is now its own article: see
-[[people/boys-work-secretaries|Montreal's Boys' Work Secretaries, 1900–1923]], which carries the year-by-year
+[[people/boys-work-secretaries|Montreal's Boys' Work Secretaries, 1900–1939]], which carries the year-by-year
 line from the *Year Book* volumes, the three routes into the office, Kenneth J. Hollinshead and Murray
 Brooks, the department's two wars, and the reason W. J. Holliday's title changed in 1909.
 
@@ -560,7 +560,7 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 
 ## Related Articles
 
-- [[people/boys-work-secretaries|Montreal's Boys' Work Secretaries, 1900–1923]]
+- [[people/boys-work-secretaries|Montreal's Boys' Work Secretaries, 1900–1939]]
 - [[connections/institutional-lineage/cca-director-certification|Certifying the Camp Director]] — nobody had to hold anything to direct a camp, and the associations decided in 1982 to keep it that way
 - [[history/timeline-overview|Timeline Overview: Camp Kanawana Decade by Decade]]
 - [[people/nelson-mcewen|Nelson McEwen]]

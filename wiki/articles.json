@@ -12335,7 +12335,7 @@
     },
     {
       "article_id": "boys-work-secretaries",
-      "title": "Montreal's Boys' Work Secretaries, 1900–1923",
+      "title": "Montreal's Boys' Work Secretaries, 1900-1939",
       "wiki_folder": "people",
       "status": "draft",
       "status_history": [
@@ -12378,7 +12378,9 @@
         "src_ymf_sgw_ymca_annual_report_1917",
         "src_cache_sgw_ymca_annual_report_1936",
         "src_ymf_sgw_ymca_annual_report_1938",
-        "src_ymf_sgw_ymca_annual_report_1939"
+        "src_ymf_sgw_ymca_annual_report_1939",
+        "src_cache_sgw_ymca_annual_report_1930",
+        "src_cache_sgw_ymca_annual_report_1935"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -12390,7 +12392,7 @@
         "history/wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 4483
+      "word_count": 4966
     },
     {
       "article_id": "wallace-forgie",
@@ -12641,7 +12643,8 @@
         "src_ymf_sgw_ymca_annual_report_1942",
         "src_ymf_sgw_ymca_annual_report_1946",
         "src_ymf_sgw_ymca_annual_report_1948",
-        "src_ymf_sgw_ymca_annual_report_1927"
+        "src_ymf_sgw_ymca_annual_report_1927",
+        "src_cache_sgw_ymca_annual_report_1935"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -12653,7 +12656,7 @@
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 2373,
+      "word_count": 2719,
       "notes": "Created 2026-09-07 by a p_452 spinout from people/directors-index.md, where 1,143 words about Holliday had accumulated under a heading naming the research episode rather than the man. Entered as draft per project-docs/spinout-rule.md: the prose was reviewed in the index, the structure was not."
     },
     {
