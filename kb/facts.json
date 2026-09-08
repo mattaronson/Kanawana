@@ -1,8 +1,8 @@
 {
-  "version": "11.13",
-  "kb_version": "11.13",
+  "version": "11.14",
+  "kb_version": "11.14",
   "migrated_from": "3.3",
-  "fact_count": 5691,
+  "fact_count": 5692,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102635,6 +102635,23 @@
       "date_ref": "2026-09-08",
       "conflicts_with": [],
       "added_version": "11.13",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5730",
+      "claim": "p_484 SEVENTH PASS: 103 UNCITED ENTRIES TO 87, POPULATION B ALL BUT CLEARED, AND A DANGLING MARKER NO CHECK COULD SEE. traditions/canoe-trips.md used a LETTERED marker '^mc' five times, for the article's central 1945-1964 chronology -- the tiered route system, the 150-kilometre drives, the 1959 choice of La Verendrye, the Lac Landron lease, the eighteen Pathfinder trips of 1959 and the twenty-plus seasons of 1964. THERE WAS NO ENTRY 'mc' ANYWHERE IN THE ARTICLE. Every verify check passed because the citation checks resolve NUMERIC markers and ignore lettered ones, and the uncited-entries check saw entry 1, the McMorris thesis, sitting unpointed-at while five markers meant to point at it pointed nowhere. Both halves were the same defect seen from opposite ends. Repointed to ^1. LESSON: an article part-way between a lettered and a numbered scheme can carry markers that resolve to nothing, and the existing checks are blind to it -- worth a check of its own if more are found. ALSO THE THIRD POINTER PARAGRAPH MAKING UNMARKED CLAIMS. canoe-trips line 71, left behind by the Voyageurs spinout of 2026-09-07, asserts the Lac Landron base three hundred miles north and the Canadian Camping Association's January 1975 listing of the programme as a camp in its own right, with no marker at all, while entries 8 and 12 -- exactly those two sources -- sat uncited. Same shape as the Hay Finlay paragraph in canadian-camping-movement earlier today. A SPINOUT LEAVES A POINTER PARAGRAPH THAT STATES FACTS AND CITES NOTHING; that is now three instances and belongs in the spinout rule's mechanics list. Also cleared: canoe-trips 9 (the 1935 history's 'Four-day trip to Otoreke', which is the earliest dated trip the article has and was not in the body at all), 10 and 24; attendance-series 5, 8, 9 and 10; directors-index 13 and 16 and, by writing entry numbers into the tables' own Source column, 5, 12, 23, 24 and 25. TWO ARTICLES TURNED OUT TO HAVE A SECOND CITATION CHANNEL -- directors-index and attendance-series both cite through a table's Source column or through block sources covering runs of rows, which is why their entries read as uncited. Each now carries a short note under Sources saying so, and the entry numbers were written into the columns where they join up. POPULATION B IS DOWN TO ONE ARTICLE, notable-alumni at 18. Of the 87 remaining, 17 are explicitly deliberate and 52 are Population A.",
+      "sources": [],
+      "confidence": "stated",
+      "category": "project_method",
+      "entities": [
+        "p_484",
+        "canoe-trips",
+        "attendance-series",
+        "directors-index"
+      ],
+      "date_ref": "2026-09-08",
+      "conflicts_with": [],
+      "added_version": "11.14",
       "added_by": "manual"
     }
   ]

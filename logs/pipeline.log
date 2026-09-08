@@ -8137,3 +8137,16 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   Marked as leads: j-w-mcconnell 11, t-duncan-patton 5.
   BASELINE 110 -> 103. Eleven of the 103 are now explicitly deliberate. Population B outside those
     is directors-index 7, attendance-series 7, canoe-trips 8.
+2026-09-08T00:45:26Z
+  p_484 seventh pass -- uncited entries 103 -> 87. f_5730, KB 11.13 -> 11.14.
+  canoe-trips.md used the lettered marker ^mc five times and had NO entry "mc". The citation checks
+    resolve numeric markers only, so nothing saw it; entry 1 (McMorris) showed here as uncited
+    because the five markers meant for it pointed nowhere. Repointed to ^1.
+  Third pointer-paragraph-with-no-markers found (canoe-trips line 71, after the Voyageurs spinout).
+    Both mechanics written into project-docs/spinout-rule.md.
+  directors-index and attendance-series each have a second citation channel -- a table Source column
+    and three block sources over runs of rows. Noted in both articles under Sources; entry numbers
+    written into the columns where they join up.
+  Cleared: canoe-trips 8, 9, 10, 12, 24; attendance-series 5, 8, 9, 10; directors-index 5, 12, 13,
+    16, 23, 24, 25. Marked as moved-with-subject: canoe-trips 2 and 11.
+  BASELINE 103 -> 87. Population B is down to notable-alumni alone.

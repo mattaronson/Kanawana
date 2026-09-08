@@ -23,14 +23,14 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1897 | 24 | — | 25 June – 9 July |
 | 1898 | 20 | 85 | Junior camp 23 June – 7 July under W. F. Chapman and C. S. Paterson, with five visitors on Dominion Day; senior camp 9 July – 4 September under **Archibald McKellar** (given as "A. Mackellar" in the report, and identified from the association's 1898 roster, where he is an Assistant Secretary [f_4980]), **C. B. Powter**, A. R. Ross and W. H. Ball. Senior 85 = 19 + 11 + 42 + 13. **Length of stay:** 2 men four weeks, 1 three, 3 two-and-a-half, 1 two, 28 between one and two, 15 one week, 28 odd days [f_4912], [f_4913] |
 | 1899 | 37 | 72 | Log clubhouse opened, cost $700. **Possibly a year out:** the report for the year ending 30 April 1899 says the Log Club house was "completed in **September**", i.e. September 1898, and free of debt. Completion and opening may differ; not resolved [f_4912] |
-| **1900** | **45** | — | 28 June – 14 July, under Mr. Calhoun and Mr. Brown; 6 leaders, 17 visitors, six tents; eleven wet days out of sixteen; the cook "disgustingly dirty in his work"; balance $5.05 [f_4848] |
+| **1900** | **45** | — | 28 June – 14 July, under Mr. Calhoun and Mr. Brown; 6 leaders, 17 visitors, six tents; eleven wet days out of sixteen; the cook "disgustingly dirty in his work"; balance $5.05 [f_4848]^8 |
 | 1901 | 60 | 147 | Split by age: 17 "Business Boys," 43 "School" — the earliest documented sectioning |
 | **1902** | *(ran)* | *(ran)* | The Junior Committee had charge of the Boys' Camp "from the middle of June to the 12th of July," the Senior Committee the balance to 6 September [f_4848] |
 | **1903** | **210** | — | "210 campers attended Camp Jubilee in 1903" — a figure this project already held and this series had never carried [f_0666] |
 | **1903** | **49** | — | **26 June – 9 July, at Lac St. Joseph.** "On account of the difficulty in securing proper supervision, it was found necessary to take both Business and School Boys in one camp." **Mr. Harry Ballantyne in charge**, with eight volunteer leaders. The association had **no Boys' Secretary at all** that summer — R. H. Macdonald left in May and C. M. Daggett did not arrive until September — which is the supervision difficulty the report means^37 |
 | 1904 | 79 | — | "the largest camp ever conducted" |
 | **1905** | *(ran)* | — | "We consider it to have been one of the most successful Camps we have ever held" [f_4848] |
-| **1906** | *(216 total)* | *(in the 216)* | "The Summer Camp was opened at Lac St. Joseph for the Victoria Day party, May 24th"; Business Boys 16–30 June, School Boys 30 June–14 July, Senior Camp 14 July–8 September. The four component figures are illegible in the OCR; only the total survives [f_4852] |
+| **1906** | *(216 total)* | *(in the 216)* | "The Summer Camp was opened at Lac St. Joseph for the Victoria Day party, May 24th"; Business Boys 16–30 June, School Boys 30 June–14 July, Senior Camp 14 July–8 September. The four component figures are illegible in the OCR; only the total survives [f_4852] ^10 |
 | **1907** | **77** | — | Two sections from 15 June: 28 Business Boys, then 41 School Boys with eight leaders [f_4848] |
 | **1908** | *(ran)* | — | The report thanks "the volunteer leaders with the Junior Camp" for making "this season's Camp a success" [f_4848] |
 | 1909 | 66 | — | 19 June – 17 July |
@@ -117,7 +117,7 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | **1985** | — | **1,214** | 80% occupancy [f_4844] |
 | **1986** | — | **1,400** | 92.5% occupancy; Les Voyageurs de la Verendrye 22 weeks [f_4844] |
 | **1987** | — | **1,412** | 93% occupancy; Les Voyageurs 46 weeks [f_4844] |
-| 1988 ⚠️ | — | 750 of 756 available = **99.2% occupancy** — *a different unit from the rows above, and possibly a different season*^28 | See `c_067` below |
+| 1988 ⚠️ | — | 750 of 756 available = **99.2% occupancy** — *a different unit from the rows above, and possibly a different season*^5 ^28 | See `c_067` below |
 | **1989–1993** | **over 99% of capacity, five years running** | — | The camp's own director, writing for alumni at the close of the 99th summer: "For the fifth consecutive year camper registration was filled to over 99% capacity." Counting back from 1993 that covers 1989 through 1993, and it joins directly onto the 99.2% recorded for 1988 above — **a full house for six consecutive seasons, 1988 to 1993**, running into the centennial year's 101%. No per-year figure survives inside the 1989–1993 band, only Netherwood's "fifth consecutive year" [f_5008]^12 |
 | 1994 | 101% of capacity | — | 70% return rate; centennial |
 | 1996 | 92% occupancy | — | |
@@ -293,7 +293,7 @@ seasons the reports never mention.
 index built from them carries dated appearances for 1955, 1956, 1959–65, 1968, 1970, 1972, 1973, 1975,
 1979–90 and 1992–2010. A board naming a cabin's campers and their counsellor in a given summer was made
 at camp, in that summer, for those people: it is direct physical evidence the season happened. That
-alone closes **1981–1984, 1989–90, 1992–93, 1995–97, 2002–04 and 2006–2010** [f_4850]. What it does not
+alone closes **1981–1984, 1989–90, 1992–93, 1995–97, 2002–04 and 2006–2010** [f_4850].^9 What it does not
 give is attendance. The corpus counts whoever appears on boards that survived, which swings from two
 names in 1987 to 205 in 2008 and says nothing about how many were at camp.
 
@@ -691,6 +691,14 @@ from inside the camp office, in a year the camp was moving to coeducation.
 - [[connections/institutional-lineage/cca-statistics|The Association's Own Statistics, and the One Camp in Ten]] — the national denominator, and why it counts only the accredited tenth
 
 ## Sources
+
+*A note on how the tables cite.* Rows carry a marker where a single document gives that season's
+figure. Three entries below are **block sources** covering runs of rows rather than single ones, and
+they are named here rather than repeated down a column: **note 4**, the season reports of 1964-1979 and
+1987, for the figures the annual reports omit; **note 6**, the directors' reports of 1971 and 1973-1979
+and 1987; and **note 7**, the association's annual reports for 1903, 1906, 1908, 1909, 1951, 1960, 1961
+and 1962, read specifically for the gap seasons. Where a row in those ranges carries no marker of its
+own, one of those three is its source.
 
 1. YMCA of Montreal Annual Reports, digitized run 1856–2009 (Internet Archive), read in full for Kanawana content in August 2026. All camper counts, boy-/camper-week figures, fees and inconsistencies 1-6 above are drawn from this run [src_ia_ymca_montreal_annual_reports_collection].
 2. YMCA of Montreal Annual Report 1894-95, for the founding season and the parallel Junior/Senior camps [src_ia_sgw_annual_report_1894_1895]; and the 1910 report for Kanawana's opening capacity [src_ia_sgw_annual_report_1910].
