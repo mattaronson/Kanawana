@@ -1,8 +1,8 @@
 {
-  "version": "11.53",
-  "kb_version": "11.53",
+  "version": "11.54",
+  "kb_version": "11.54",
   "migrated_from": "3.3",
-  "fact_count": 5745,
+  "fact_count": 5747,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103699,6 +103699,44 @@
       "date_ref": "2016-2017",
       "conflicts_with": [],
       "added_version": "11.53",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5784",
+      "claim": "A BEQUEST ENDOWS CIT PLACES AT KANAWANA, AND ONLY THE FRENCH EDITION IS LEGIBLE. The YMCAs of Quebec's 2013 community report, under the heading 'AU REVOIR MONSIEUR RIDLEY !': 'Un grand merci a feu monsieur BILL RIDLEY, benevole et donateur de longue date de la Fondation des YMCA du Quebec. AYANT LUI-MEME BENEFICIE DES PROGRAMMES DU YMCA TOUT AU LONG DE SA JEUNESSE, M. Ridley a voulu, a son tour, investir dans le leadership et le potentiel des jeunes moins favorises. SON DON PAR TESTAMENT permettra, entre autres, a des jeunes dans le besoin de PARTICIPER AU PROGRAMME D'APPRENTIS-MONITEURS AU CAMP YMCA KANAWANA, et ainsi d'acquerir des nouvelles aptitudes et une experience de travail precieuse.' A named legacy gift funding CIT places for young people in need -- the first endowed source this project holds for that specific programme. THE ENGLISH EDITION OF THE SAME REPORT IS UNREADABLE HERE: its OCR gives 'ling donorand / . Having benefited / Ridley wanted to give / ential of disadvantaged / he opportunity to acquire / y participating in / ing program.' Every noun phrase is truncated at the left margin. This is the case the French-edition triage exists for -- not a duplicate of the English but the only legible print. VERY PROBABLY THE SAME MAN AS the 'William Ridley' the 1996 annual report names, with Suzanne Aboud, as organiser of the Heritage Club's 13th annual banquet and as a former recipient of the Gabrielle and Maurice Masse Award. Same surname, same Foundation and Heritage Club orbit, Bill for William. Recorded as very probable and not as certain, on this project's standing caution about name matches.",
+      "sources": [
+        "src_ymf_sgw_ymca_community_report_2013_fr",
+        "src_ymf_sgw_ymca_community_report_2013",
+        "src_cache_sgw_ymca_annual_report_1996"
+      ],
+      "confidence": "stated",
+      "category": "finance",
+      "entities": [
+        "Bill Ridley",
+        "CIT programme",
+        "YMCAs of Quebec Foundation"
+      ],
+      "date_ref": "2013",
+      "conflicts_with": [],
+      "added_version": "11.54",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5785",
+      "claim": "NINE SUMMERS, THEN THE LIFEGUARD INTERVIEW. The YMCAs of Quebec's 2015 community report, in a run of short profiles: 'Determined young adults... like NORA, 19, WHO HAS SPENT THE LAST NINE SUMMERS AT CAMP YMCA KANAWANA, and is now being interviewed for a LIFEGUARD POSITION.' The French edition says the same. Nine consecutive summers puts her first season at about age ten, and the sentence catches the camper-to-staff ladder at the moment of the hiring interview rather than after it -- which is rarer in this corpus than the finished version. It sits beside the 2016 letter from Star about her son Bishop's seven summers on financial assistance and the 2012 profile of Laurie, seventeen, seven summers, at Dawson College. Three consecutive community reports profile a young person by COUNTING THEIR SUMMERS, which is the association's own way of arguing that the camp works.",
+      "sources": [
+        "src_ymf_sgw_ymca_community_report_2015",
+        "src_ymf_sgw_ymca_community_report_2015_fr"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "camper-to-staff pipeline",
+        "Camp YMCA Kanawana"
+      ],
+      "date_ref": "2015",
+      "conflicts_with": [],
+      "added_version": "11.54",
       "added_by": "ralph_loop"
     }
   ]

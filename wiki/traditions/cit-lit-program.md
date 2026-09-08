@@ -1,7 +1,7 @@
 # The CIT/LIT Program
 
-*Status: draft | Sources: 16*
-*Last Updated: 2026-09-07 (how leadership places are applied for, and the LIT as a hiring credential)*
+*Status: draft | Sources: 18*
+*Last Updated: 2026-09-08 (a bequest endowing CIT places, and a camper of nine summers at her hiring interview)*
 
 ## Overview
 
@@ -189,6 +189,39 @@ board, in the [[people/multi-year-index|multi-year index]] and in
 [[people/directors-index|Directors and Staff of Camp Kanawana]]; this section counts them and does not
 re-publish them.
 
+
+## Who paid for a CIT place, and who took one
+
+**A bequest endows CIT places, and only the French edition of the report is legible.** The YMCAs of Québec's
+2013 community report, under "**AU REVOIR MONSIEUR RIDLEY !**": "Un grand merci à feu monsieur **Bill
+Ridley**, bénévole et donateur de longue date de la Fondation des YMCA du Québec. **Ayant lui-même bénéficié
+des programmes du YMCA tout au long de sa jeunesse**, M. Ridley a voulu, à son tour, investir dans le
+leadership et le potentiel des jeunes moins favorisés. **Son don par testament** permettra, entre autres, à
+des jeunes dans le besoin de **participer au programme d'apprentis-moniteurs au Camp YMCA Kanawana**, et ainsi
+d'acquérir des nouvelles aptitudes et une expérience de travail précieuse."^17 A man who had been through the
+association's programmes as a boy leaving money so that others could take the leadership one. It is the first
+endowed source this article holds for CIT places specifically.
+
+*The English edition of the same report cannot be read here at all.* Its scan gives "ling donorand / . Having
+benefited / Ridley wanted to give / ential of disadvantaged / he opportunity to acquire / y participating in /
+ing program." Every noun phrase is cut at the left margin. The French edition is not a duplicate of it; it is
+the only legible print. [f_5784]
+
+**He is very probably a man this wiki already had.** The 1996 annual report names **William Ridley**, with
+Suzanne Aboud, as organiser of the Heritage Club's thirteenth annual banquet, and both as former recipients of
+the Gabrielle and Maurice Massé Award.^17 Same surname, same Foundation and Heritage Club orbit, Bill for
+William. *Recorded as very probable rather than certain* — this article's own tables carry the standing
+caution about matching on a name.
+
+**And the other end of the ladder, caught mid-step.** The 2015 report: "Determined young adults… like **Nora,
+19, who has spent the last nine summers at Camp YMCA Kanawana**, and is now being **interviewed for a lifeguard
+position**."^18 Nine consecutive summers puts her first season at about ten. What is unusual is the tense: this
+project holds many accounts of the camper-to-staff ladder completed, and this is one at the interview. It sits
+in a run of three consecutive reports that profile a young person **by counting their summers** — Laurie,
+seventeen, seven summers, in 2012; Nora's nine in 2015; Bishop's seven on financial assistance in the 2016
+letter from his mother. Counting summers is the association's own way of arguing the camp works. [f_5785]
+
+
 ## Current Structure: Trailblazers
 
 As of 2026, the CIT program is branded "Trailblazers": a 48-day program (four sessions of 12 days each) for campers aged 16–17.^5 Participants complete over 200 hours of workshops, training sessions, and activities covering creative programming, risk management, team building, and effective communication, capped by a five-day canoe trip.^5 Certifications earned include Standard First Aid and CPR (a 16-hour course) and a CIT certificate from the Association des camps certifiés du Québec (ACC).^5 A separate "Leaders in Training Information Guide" for Summer 2026 documents the current LIT program structure specifically, published as a PDF on the YMCA Quebec website.^6
@@ -259,6 +292,8 @@ experience, which is the clearest statement this article has of what the program
 14. Derek Walsh, *Ka-News '78*, staff bulletin of 28 April 1978 [src_ymf_ka_news_1978_04_28]. Kanawana's own pre-season mailing to staff, cached at `sources/cache/ymca-montreal-fonds/ka-news-1978-04-28.txt`.
 15. Camp YMCA Kanawana, "Applying for a Leadership Program" and "Summer Camp Jobs" [src_ymcaq_kanawana_jobs_intl_leadership_2026], under `ymcaquebec.org/en/summer-camp-kanawana/`. Read 2026-09-07; cached with two sibling pages at `sources/cache/web-pages/ymcaquebec-kanawana-jobs-international-leadership-2026.txt`, one header line per page giving its own URL. See [f_5616].
 16. Kamp Kanawana's own annual report for **1969** [src_ia_kanawana_report_1969], its COUNSELLOR-IN-TRAINING recommendations; with CIT cohort sizes for **1975**, **1976** and **1977** from the acknowledgement sections of those years' directors' reports [src_ia_kanawana_report_1975, src_ia_kanawana_directors_report_1976, src_ia_kanawana_report_1977]. All cached in `sources/cache/ymca-montreal-fonds/`; read 2026-09-07 under `p_491`. See [f_5694] and [f_5659].
+17. The YMCAs of Québec, community report **2013**, French edition [src_ymf_sgw_ymca_community_report_2013_fr], the "Au revoir monsieur Ridley !" notice, with the English edition [src_ymf_sgw_ymca_community_report_2013] checked and found illegible at that passage; and the YMCA of Montreal annual report **1996** [src_cache_sgw_ymca_annual_report_1996] for William Ridley at the Heritage Club banquet. Read 2026-09-08 under p_487, reached through the French-edition triage. See [f_5784].
+18. The YMCAs of Québec, community report **2015**, English and French editions [src_ymf_sgw_ymca_community_report_2015, src_ymf_sgw_ymca_community_report_2015_fr], the short-profile run. Read 2026-09-08 under p_487. See [f_5785].
 
 ## Research Notes
 

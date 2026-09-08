@@ -20466,7 +20466,7 @@
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. || READ 2026-09-07 under the sharpened p_441. Two Kanawana blocks: the CAMP COMMITTEE, whose '(Chair)' line falls to VALERY CORDEMANS on the series' own layout convention (f_5583), and the SENIOR MANAGEMENT listing giving SEAN DAY as 'Director, Camp YMCA Kanawana AND YMCA SKI SCHOOL' -- a title pairing this project did not have and the first evidence here that the association ran a named ski school (f_5584).",
       "read_state": "read",
-      "read_state_basis": "RE-READ 2026-09-08 under p_487, zone 1: the board list, which gives Goldbloom as Chair of the Board and Bishop's University -- f_5775."
+      "read_state_basis": "RE-READ 2026-09-08 under p_487: the Ridley bequest passage, found ILLEGIBLE in this edition and taken from the French instead. f_5784."
     },
     {
       "source_id": "src_ymf_sgw_ymca_community_report_2013_fr",
@@ -20484,7 +20484,7 @@
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487 via the absent-token triage. THE ONLY LEGIBLE PRINT of the Bill Ridley bequest notice endowing CIT places at Kanawana -- the English edition's scan cuts every noun phrase at the left margin. f_5784."
     },
     {
       "source_id": "src_ymf_sgw_ymca_community_report_2014",
@@ -20538,7 +20538,7 @@
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. || READ FOR ITS KANAWANA PASSAGES 2026-09-07 under the sharpened p_441. This series prints the CAMP'S OWN COMMITTEE ROSTER year by year, which is where its value for this project sits: see f_5581 for the 2014, 2015 and 2017 lists and f_5582 for three members who were CITs together in 1995.",
       "read_state": "read",
-      "read_state_basis": "read for its Kanawana passages 2026-09-07; supersedes the asserted keyword-swept state"
+      "read_state_basis": "RE-READ 2026-09-08 under p_487: the short-profile run, Nora's nine summers and lifeguard interview. f_5785."
     },
     {
       "source_id": "src_ymf_sgw_ymca_community_report_2015_fr",
@@ -20556,7 +20556,7 @@
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487 via the absent-token triage ('Nora', 'Elie'). Gives the nine-summers profile; the English edition is clean for the same passage. f_5785."
     },
     {
       "source_id": "src_ymf_sgw_ymca_community_report_2016",

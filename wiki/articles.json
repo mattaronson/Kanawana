@@ -9701,7 +9701,12 @@
         "src_ia_kanawana_report_1969",
         "src_ia_kanawana_report_1975",
         "src_ia_kanawana_directors_report_1976",
-        "src_ia_kanawana_report_1977"
+        "src_ia_kanawana_report_1977",
+        "src_ymf_sgw_ymca_community_report_2013_fr",
+        "src_ymf_sgw_ymca_community_report_2013",
+        "src_cache_sgw_ymca_annual_report_1996",
+        "src_ymf_sgw_ymca_community_report_2015",
+        "src_ymf_sgw_ymca_community_report_2015_fr"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -9712,7 +9717,7 @@
         "notable-alumni"
       ],
       "file_id": null,
-      "word_count": 4866,
+      "word_count": 5375,
       "notes": "2026-07-11: Workstream C3 spawn -- structured, decades-spanning program synthesized from 5 scattered articles into a standalone article. No new research conducted. Individual plaque-roster names deliberately not reproduced here (privacy carve-out for C5-listed names already collectively catalogued in directors-index.md). | 2026-08-14 p_226: applied the programs/places BLOCKING fixes from the p_218 audit.",
       "tags": {
         "era": [
