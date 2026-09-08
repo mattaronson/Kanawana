@@ -1,7 +1,7 @@
 # Maureen McBride
 
 *Status: draft | Sources: 3*
-*Last Updated: 2026-09-06*
+*Last Updated: 2026-09-08 (the committee she sat on, by name)*
 
 ## Overview
 
@@ -36,6 +36,13 @@ The annual reports name her four years running, and they show two offices rather
 | 1991 | yes | yes |
 | 1992 | yes | yes |
 | 1993 and after | absent | absent |
+
+**Who she sat with, for the two years the roster was transcribed.** The 1991 committee is
+**Chris Adam, Andrew Caddell, Danielle Delhaes, Harvey Eldinger, Susan Khan, McBride, Bruce Netherwood
+(YMCA), Tom Snabl, Gordon Wallace and Maureen Wallace**; 1992 is the same ten less Eldinger.^2 By 1994,
+the year after her death, the body is renamed the Kamp Kanawana Advisory Board with **Sue Khan** in the
+chair, and Caddell and Snabl still on it. The whole sequence, 1988-89 to 1996, is at
+[[history/centennial-1994|The 1994 Centennial]]. [f_5771]
 
 *The Lookout* calls her "a member of the Board of Directors of Kamp Kanawana," which is a
 compression of the two: the camp had a committee, the association had a board, and she was on

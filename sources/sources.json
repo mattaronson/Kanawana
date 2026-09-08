@@ -19782,7 +19782,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. | 2026-09-06: searched for the McBride name under p_441; committee and board listings extracted to f_5010. This was a NAME SEARCH, not a close read -- the read_state is unchanged deliberately.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "RE-READ 2026-09-08 under p_487: the Kamp Kanawana Committee roster and the governance block naming Sol Kasimer as Director General alongside Michael Goldbloom as President and CEO -- f_5765, f_5771."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1992_fr",
@@ -25487,7 +25487,7 @@
       "extraction_version": null,
       "reliability": "primary",
       "read_state": "unread",
-      "read_state_basis": "none: catalogued 2026-09-02 from a cached file that belonged to no source record",
+      "read_state_basis": "RE-READ 2026-09-08 under p_487 (zone 1, the branch committee pages): the KAMP KANAWANA COMMITTEE roster in full -- f_5771.",
       "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read. | 2026-09-06: searched for the McBride name under p_441; committee and board listings extracted to f_5010. This was a NAME SEARCH, not a close read -- the read_state is unchanged deliberately."
     },
     {
@@ -25541,7 +25541,7 @@
       "extraction_version": null,
       "reliability": "primary",
       "read_state": "partial",
-      "read_state_basis": "2026-09-07 under p_259: the KAMP KANAWANA section read whole, including the continuation under a repeated 'KAMP KANAWANA CONTD' heading where the column breaks (f_5720). THE REST OF THE VOLUME IS NOT READ.",
+      "read_state_basis": "RE-READ 2026-09-08 under p_487: the Kamp Kanawana Advisory Board roster with Sue Khan as Chairperson, and the President's message on Goldbloom's resignation and Matte's election -- f_5765, f_5771.",
       "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read. | 2026-09-06: searched for the McBride name under p_441; committee and board listings extracted to f_5010. This was a NAME SEARCH, not a close read -- the read_state is unchanged deliberately."
     },
     {

@@ -7429,7 +7429,12 @@
         "src_ymf_sgw_ymca_annual_report_1985",
         "src_mcgill_daily_1989_02_20",
         "src_ymf_sgw_ymca_annual_report_1990_fr",
-        "src_ymf_sgw_ymca_annual_report_1986_fr"
+        "src_ymf_sgw_ymca_annual_report_1986_fr",
+        "src_cache_sgw_ymca_annual_report_1991",
+        "src_ymf_sgw_ymca_annual_report_1992",
+        "src_cache_sgw_ymca_annual_report_1994",
+        "src_ymf_sgw_ymca_annual_report_1995",
+        "src_cache_sgw_ymca_annual_report_1996"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -7444,7 +7449,7 @@
         "oldest-camp-question"
       ],
       "file_id": null,
-      "word_count": 2110,
+      "word_count": 2516,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, softened two dated bold-label markers in prose ('Resolved 2026-07-09', 'Important disambiguation (2026-07-09)') into plain encyclopedic prose since they weren't corrections requiring a Revision History move. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -12066,7 +12071,7 @@
         "directors-index"
       ],
       "file_id": null,
-      "word_count": 1159,
+      "word_count": 1251,
       "notes": "Spawned 2026-09-06 under p_441 from the first cover-to-cover read of The Lookout Vol. 1 No. 3.",
       "tags": {
         "era": [

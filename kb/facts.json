@@ -1,8 +1,8 @@
 {
-  "version": "11.43",
-  "kb_version": "11.43",
+  "version": "11.45",
+  "kb_version": "11.45",
   "migrated_from": "3.3",
-  "fact_count": 5732,
+  "fact_count": 5734,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103434,6 +103434,49 @@
       "date_ref": "2006-2008",
       "conflicts_with": [],
       "added_version": "11.43",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5771",
+      "claim": "THE KANAWANA COMMITTEE IS CONTINUOUS FROM 1990 TO 1996, UNDER FOUR DIFFERENT NAMES, AND SUE KHAN CHAIRED IT ACROSS THE CENTENNIAL. centennial-1994.md holds a four-name list from the 1990 report and reads it as evidence that the Centennial committee was a standing body. The intervening volumes carry the whole thing. 1991, 'KAMP KANAWANA COMMITTEE': Chris Adam, Andrew Caddell, Danielle Delhaes, Harvey Eldinger, Susan Khan, Maureen McBride, Bruce Netherwood (YMCA), Tom Snabl, Gordon Wallace, Maureen Wallace -- ten. 1992, 'Kamp Kanawana Committee': the same ten less Eldinger. 1994, 'Kamp Kanawana Advisory Board': Andrew Caddell, Tom Castle, Tim Clark, Barbara Drury, Cheryl Gamberg, SUE KHAN (Chairperson), Bob Lewandowski, Bruce Netherwood (YMCA), Tom Snabl, Wendy Watt. 1995, 'Local Boards': fourteen, Sue Khan still Chairperson, Joanna Hoad and Bruce Netherwood both marked (YMCA). 1996: seven, Barbara Drury in the chair. SO THE BODY RUNS UNBROKEN FROM AT LEAST 1988-89 TO 1996 -- people/maureen-mcbride.md already tracked her own membership of it from the 1988-89 volume, which is the earliest sighting this project has -- and is renamed three times -- Committee, Advisory Board, Local Board -- before disappearing from the branch lists for six years and returning in 2002-03 as a Local Advisory Council (f_5768). ANDREW CADDELL, who chaired the Centennial committee, and TOM SNABL are on every list from 1990 to 1994. SUE/SUSAN KHAN is on it from 1991 and chairs it in 1994 and 1995, which makes her the committee chair through the Centennial year itself -- a role this project did not have. FIVE NAMES ARE NEW: Harvey Eldinger, Gordon Wallace, Maureen Wallace, Bob Lewandowski, and Cheryl Gamberg. ONE ROSTER STILL MISSING FROM THIS: the 1988-89, 1990 and 1993 volumes, whose Kanawana entries are known to exist (McBride is tracked through them in her own article) but whose full membership was not transcribed in this pass.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1991",
+        "src_ymf_sgw_ymca_annual_report_1992",
+        "src_cache_sgw_ymca_annual_report_1994",
+        "src_ymf_sgw_ymca_annual_report_1995",
+        "src_cache_sgw_ymca_annual_report_1996"
+      ],
+      "confidence": "stated",
+      "category": "governance",
+      "entities": [
+        "Kamp Kanawana Committee",
+        "Sue Khan",
+        "Andrew Caddell",
+        "Tom Snabl",
+        "Maureen McBride",
+        "Chris Adam"
+      ],
+      "date_ref": "1990-1996",
+      "conflicts_with": [],
+      "added_version": "11.44",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5772",
+      "claim": "A STALE DIRECTORSHIP DATE STILL STANDING IN AN E1-REVIEWED ARTICLE. history/centennial-1994.md says 'Bruce Netherwood was Director of Camp Kanawana from 1988 to 1994... he had succeeded his brother Jay Netherwood, who directed the camp in 1986-1987.' people/bruce-netherwood.md corrected both on 2026-09-07: Bruce from 1989, Jay from 1986 to 1989, with the earlier reading marked SUPERSEDED in that article's own text. The correction was never carried across, so the wiki has printed two different spans for the same man in two articles for a day. The 1995 annual report now settles it from the association's own pen: 'Bruce Netherwood, who served as Kamp Director FROM 1989 TO 1994' (f_5769). WHY THIS ONE IS INSTRUCTIVE: the superseding article marked its own correction properly and the check suite has nothing that compares a date in one article against the same date in another, so a correction that stops at the article it was found in leaves no trace anywhere that it did not travel.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1995"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Bruce Netherwood",
+        "Jay Netherwood",
+        "centennial-1994"
+      ],
+      "date_ref": "2026-09-08",
+      "conflicts_with": [],
+      "added_version": "11.44",
       "added_by": "ralph_loop"
     }
   ]
