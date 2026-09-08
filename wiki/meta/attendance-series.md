@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 56*
+*Status: draft | Sources: 57*
 *Last Updated: 2026-09-08 (what the parents thought, 1974-1978; 1916 by branch)*
 
 ## Overview
@@ -138,6 +138,14 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | **2020–21** | *(no season)* | — | Two summers lost to COVID-19 |
 | **2022** | **655** | — | Reopening season |
 | **2023** | **780** | — | |
+
+**A staff returnee rate, and it is not the campers'.** This article holds a twenty-year camper returnee
+series for 1960–1979. The 1975 director's report gives the other one, once: "our returnee rate **decreased
+from 72% last season to 52% this year**. Most of Kanawana's new staff were in **senior capacities**."^57 A
+twenty-point fall in a single season with the churn at the senior end, and the only staff figure of its kind
+here. The same page is unusually candid about why the summer felt difficult — the director was "disappointed
+in performance of others due to their **selfish attitude** in working with other staff," a "diverse minority"
+who "caused feelings of frustration with other staff including myself at times." [f_5807]
 
 **How families found the camp, 1979.** The same run of questionnaires asked new campers' parents how they
 had heard of Kanawana. The 1975–1978 columns are too damaged to use — stray characters, dropped values, a
@@ -826,6 +834,7 @@ own, one of those three is its source.
 54. The YMCAs of Québec, community reports for **2016** and **2017**, English and French editions [src_ymf_sgw_ymca_community_report_2016, src_ymf_sgw_ymca_community_report_2016_fr, src_ymf_sgw_ymca_community_report_2017, src_ymf_sgw_ymca_community_report_2017_fr], the headline infographics. Read 2026-09-08 under p_487, reached through the French editions' absent-token triage. **The number precedes its label** in both years and both languages; the 2017 English prints "5,700" and "700" close enough to read as a pair, and the scale settles the assignment. See [f_5783].
 55. YMCA of Montreal, **sixty-sixth annual report, year ending 30 April 1917** [src_ymf_sgw_ymca_annual_report_1917], the Boys' Camp paragraph. Read 2026-09-08 under p_441, reached through `scripts/reread/skimmed_triage.py`. See [f_5790].
 56. *Kamp Kanawana Director's Annual Report* for **1976**, **1978** and **1979** [src_ia_kanawana_directors_report_1976, src_ia_kanawana_report_1978, src_ia_kanawana_report_1979], their conclusions and questionnaire tables. Read 2026-09-08 under p_441, reached through `scripts/reread/skimmed_triage.py` run over the **extracted** population. See [f_5795].
+57. *Kamp Kanawana Director's Report 1975* [src_ia_kanawana_report_1975], its Kampers and Staff sections. Read 2026-09-08 under p_441. See [f_5807].
 ## Research Notes
 
 <!-- Created 2026-08-14 (p_256) from the 114-annual-report sweep. No new research for this spawn.

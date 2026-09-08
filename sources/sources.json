@@ -10421,8 +10421,8 @@
       "extraction_version": "v5.20",
       "reliability": "primary",
       "notes": "Signed \"Derek V. Walsh, Director, Kamp Kanawana '75.\"",
-      "read_state": "extracted",
-      "read_state_basis": "RE-READ 2026-09-08 under p_441 for its FOOD SERVICES section, which shows the camp still employing its own Head Chef (Mrs Madeline Wundele) and kitchen staff under Ed Neal of the Downtown Branch -- the evidence that disproves programs-activities.md's dating of the kitchen's contracting-out to 1970 (f_5802)."
+      "read_state": "partial",
+      "read_state_basis": "RE-READ 2026-09-08 under p_441. Its FOOD SERVICES section gave the evidence that corrected the wiki's 1970 dating of the kitchen handover (f_5802); its Kampers and Staff sections gave the 1975 staff returnee collapse from 72% to 52%, the four section directors by name, the director's candid account of a difficult staff summer, and the camp's own assessment of Stuart McLean as Assistant Kamp Director in his second year (f_5807). Its staff-training and physical-site sections are a named residue."
     },
     {
       "source_id": "src_ia_kanawana_report_1977",

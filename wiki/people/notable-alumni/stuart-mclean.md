@@ -1,7 +1,7 @@
 # Stuart McLean
 
-*Status: E1-reviewed | Sources: 18*
-*Last Updated: 2026-09-07 (he was taught by Ross Seaman, and keynoted the memorial cup in 1997)*
+*Status: E1-reviewed | Sources: 19*
+*Last Updated: 2026-09-08 (his director's own account of him, 1975)*
 
 ## Overview
 
@@ -15,7 +15,7 @@ McLean was born in Montreal West on **19 April 1948**, the eldest of three child
 
 ## Camp Kanawana Years (1969–1975)
 
-McLean visited a friend working at Kanawana in summer 1969 and was hired on the spot as a counsellor in the senior boys' section.^1 ^2 He worked five summers at the camp, passing up an opportunity to study journalism at Carleton University to return to camp.^1 ^2 He was a section director by the summer of 1971 — the camp's own 1974 director's report says so in passing ("He was a Section Director in 71 and had been on staff for several years before that"), and the *Dictionary of Literary Biography* arrives at the same year independently.^10 ^17 By the summers of 1974 and 1975, he served as assistant summer camp director.^1 ^10 ^17
+McLean visited a friend working at Kanawana in summer 1969 and was hired on the spot as a counsellor in the senior boys' section.^1 ^2 He worked five summers at the camp, passing up an opportunity to study journalism at Carleton University to return to camp.^1 ^2 He was a section director by the summer of 1971 — the camp's own 1974 director's report says so in passing ("He was a Section Director in 71 and had been on staff for several years before that"), and the *Dictionary of Literary Biography* arrives at the same year independently.^10 ^17 By the summers of 1974 and 1975, he served as assistant summer camp director.^1 ^10 ^17 **The camp's own 1975 report confirms the second of those years and says what his director thought of him**: "Stuart McLean was the **Assistant Kamp Director for his second year**. He has made an outstanding contribution to Kanawana. His warm outgoing personality together with his genuine interest and ability to help people has **endeared him to all who have had the opportunity of working with him**. He has done much to contribute to the growth of many Kanawanians and kamp itself."^19 The dates were already held from three secondary sources; this is the camp's own paper, and the only in-period assessment of him at Kanawana in this project. [f_5807]
 
 McLean spoke repeatedly about the camp's formative impact: "When I got to camp, I found a place where I was accepted by others and I was able to contribute to the greater good. It worked its magic on me. Camp is where I found my confidence."^2 ^5 In a 2008 interview, he said: "I began pulling my adult self together at Camp Kanawana, and I benefited greatly from my camp experiences."^8 A Globe and Mail arts profile (c. 2003) described his time as a counsellor at Kanawana in his 20s as "at once magical and developmentally critical."^15 In a speech to YMCA camp directors, later excerpted in the John Island Alumni Newsletter (Spring 2012), he described arriving at camp as "a wholly unsuccessful boy" carrying "a packsack full of fears." He said: "the best I can say is that camp happened." He linked his writerly preoccupation with "the world of the family, the neighbourhood" and "the safe places that foster a sense of belonging" directly to "the kinds of places that are created at YMCA camps across North America."^3
 
@@ -164,6 +164,7 @@ McLean recorded "A Letter from Camp" for the *Vinyl Cafe* album *Up & Away* (201
 
 17. *Dictionary of Literary Biography*, Volume 362: *Canadian Literary Humorists* (Detroit: Gale Cengage Learning, 2011), the Stuart McLean entry by David C. Greer, Internet Archive scan leaf 456 [src_dlb_362_canadian_literary_humorists_2011]. **One passage only**, reconstructed 2026-09-06 from thirty-five overlapping Open Library search-inside queries and walked to a sentence boundary in both directions; the volume is lending-restricted, page images return HTTP 403, and it has not been read. The quotation above is given as the search index returns it, with the OCR's line-break hyphens and irregular ellipsis spacing normalised. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-dlb-362-mclean-and-basic-camp-management.txt`. See [f_4949].
 18. Concordia's Thursday Report, Vol. 21 No. 13, 27 March 1997 [src_concordia_thursday_report_1997_03_27], and Vol. 29 No. 3, 7 October 2004 [src_concordia_thursday_report_2004_10_07]. Transcribed at `sources/cache/concordia-publications/2026-09-07-thursday-report-seaman-awards-1990-1992.txt`. See [f_5457].
+19. *Kamp Kanawana Director's Report 1975* [src_ia_kanawana_report_1975], its Staff section. Read 2026-09-08 under p_441. See [f_5807].
 
 ## Research Notes
 

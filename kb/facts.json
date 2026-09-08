@@ -1,8 +1,8 @@
 {
-  "version": "11.69",
-  "kb_version": "11.69",
+  "version": "11.70",
+  "kb_version": "11.70",
   "migrated_from": "3.3",
-  "fact_count": 5768,
+  "fact_count": 5769,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -104146,6 +104146,27 @@
       "date_ref": "1976",
       "conflicts_with": [],
       "added_version": "11.69",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5807",
+      "claim": "THE STAFF RETURNEE RATE COLLAPSED IN 1975, AND THE DIRECTOR SAID WHY HE THOUGHT SO. The 1975 director's report: 'our returnee rate DECREASED FROM 72% LAST SEASON TO 52% THIS YEAR. Most of Kanawana's new staff were in SENIOR CAPACITIES.' This is a STAFF returnee rate, distinct from the twenty-year CAMPER returnee series meta/attendance-series.md holds for 1960-1979, and it is the only staff figure of its kind in this project. A twenty-point fall in one season, with the churn concentrated at the senior end. THE SAME PAGE IS UNUSUALLY CANDID: 'I was very pleased with most of our staff but was also DISAPPOINTED IN PERFORMANCE OF OTHERS DUE TO THEIR SELFISH ATTITUDE in working with other staff. This diverse minority of staff certainly did not help in the operations this summer and CAUSED FEELINGS OF FRUSTRATION with other staff including myself at times.' A director writing that about his own season, to his own board, is rare in this corpus. IT ALSO NAMES THE 1975 SECTION DIRECTORS: JUDY HARPER, SHEILA HAUGHTON, DENIS BASQUILL and JOHN PROCTOR -- four names new to this project -- 'their maturity and sensitivity made them most effective in their work'. AND IT CORROBORATES STUART MCLEAN FROM THE CAMP'S OWN PEN: 'STUART MCLEAN WAS THE ASSISTANT KAMP DIRECTOR FOR HIS SECOND YEAR. He has made an outstanding contribution to Kanawana. His warm outgoing personality together with his genuine interest and ability to help people has endeared him to all who have had the opportunity of working with him.' people/notable-alumni/stuart-mclean.md dates his assistant directorship to 1974 and 1975 from three secondary sources; this is the camp's own record of the second of those years, and the only in-period character assessment of him at Kanawana this project holds.",
+      "sources": [
+        "src_ia_kanawana_report_1975"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "staff returnee rate",
+        "Stuart McLean",
+        "Judy Harper",
+        "Sheila Haughton",
+        "Denis Basquill",
+        "John Proctor"
+      ],
+      "date_ref": "1975",
+      "conflicts_with": [],
+      "added_version": "11.70",
       "added_by": "ralph_loop"
     }
   ]
