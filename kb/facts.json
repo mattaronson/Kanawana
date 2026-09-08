@@ -1,8 +1,8 @@
 {
-  "version": "11.67",
-  "kb_version": "11.67",
+  "version": "11.68",
+  "kb_version": "11.68",
   "migrated_from": "3.3",
-  "fact_count": 5765,
+  "fact_count": 5767,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -104088,6 +104088,44 @@
       "date_ref": "1974-1979",
       "conflicts_with": [],
       "added_version": "11.67",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5804",
+      "claim": "A WHOLE TRIPPING SEASON COUNTED, 1977, AND CANOE TRIPS ARE A QUARTER OF IT. The 1977 director's report gives 'Hike & Trip statistics' in six lines: BACKPACKING TRIPS (VERMONT) 6; EXTENDED CANOE TRIPS 19; LOCAL HIKES & OVERNIGHTS 38; SNEAKOUTS 12; TOTAL NUMBER OF OUT-TRIPS 75; TOTAL NUMBER OF PEOPLE NIGHTS 1,196. canoe-trips.md says of Bruce Netherwood's 1993 count -- four Voyageur trips and 38 camper trips, over four hundred Kanawanians -- that it is 'the only whole-season trip count this article holds for any year'. THIS IS A SECOND ONE, sixteen years earlier and broken down by kind. THREE THINGS IN IT. (1) EXTENDED CANOE TRIPS ARE 19 OF 75 -- a quarter of the out-trips in a camp whose tripping identity this wiki writes almost entirely in canoes. Local hikes and overnights are half. (2) 'SNEAKOUTS' IS A FORMAL CATEGORY IN A DIRECTOR'S REPORT TO THE ASSOCIATION, counted at twelve, which makes an unofficial-sounding thing an accounted programme item. (3) The backpacking trips go to VERMONT, out of the province and the country, and the same report says 'our truck travelled over 19,000 MILES, with trips to Vermont, 31 MILE LAKE, POST RIVER, WHITE FISH RESERVOIR, MONT LAURIER, LAC LEGARE & CLEAR LAKE among other regions'. PEOPLE NIGHTS AT 1,196 against a season of about 400 campers means roughly three out-trip nights per camper, and the report says 'almost every Kanawanian had some sort of overnight experience'.",
+      "sources": [
+        "src_ia_kanawana_report_1977"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Hike and Trip",
+        "sneakouts",
+        "Vermont",
+        "31 Mile Lake"
+      ],
+      "date_ref": "1977",
+      "conflicts_with": [],
+      "added_version": "11.68",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5805",
+      "claim": "THE 1977 SPECIAL-PROGRAMME LIST, AND THE CAMP NAMED A GOLF TOURNAMENT AFTER ITS SITTING DIRECTOR. The 1977 director's report: 'Some of the special programs we experienced included: Christmas Day; SWIM MEET WITH LAC MAROIS ASSOCIATION; Topsy-Turvy Day; The Energetic Company (skits on energy conservation); KANAWANA 500 cross-country car rally; Santa Claus Parade; OLYMPICS DAY; Klondyke Day; World Record Day; DEREK WALSH INVITATIONAL GOLF TOURNAMENT; Fishermen's Supper; PYJAMA BREAKFASTS; LETTER LUNCHES, etc.; Lumbermen-Voyageur Competitions; GREEN TRIANGLE BANQUET (Lumbermen won).' Credited in part to 'the Junior Boys Section Director, KEVIN FORSTER, who initiated a number of the above in his section' -- the same Kevin Forster who co-wrote Ka-News in 1979 with Dave Twynam, already in this project through derek-walsh.md. WHAT IT ADDS TO THE 1978 LIST (f_5798). Seven items recur across both years -- The Energetic Company, Santa Claus Parade, Klondyke Day, World Record Day, Pyjama Breakfasts, Lumbermen-Voyageurs and the Green Triangle Banquet -- so these are fixtures rather than one-offs, and the LUMBERMEN WON IN BOTH YEARS, which is what the 1978 report's 'Lumbermen won ... again' refers to. Six are new: Christmas Day, a SWIM MEET WITH THE LAC MAROIS ASSOCIATION (a neighbouring lake community, and the only inter-community sporting fixture in this project), Topsy-Turvy Day, the KANAWANA 500 car rally, Olympics Day, and LETTER LUNCHES. And the DEREK WALSH INVITATIONAL GOLF TOURNAMENT is named for the man who signed the report -- a camp naming an event after its own sitting director, which is either affection or a joke and the document does not say which.",
+      "sources": [
+        "src_ia_kanawana_report_1977"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Kanawana 500",
+        "Lac Marois Association",
+        "Kevin Forster",
+        "Derek Walsh"
+      ],
+      "date_ref": "1977",
+      "conflicts_with": [],
+      "added_version": "11.68",
       "added_by": "ralph_loop"
     }
   ]

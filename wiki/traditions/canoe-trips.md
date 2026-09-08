@@ -1,7 +1,7 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 35*
-*Last Updated: 2026-09-08 (the fifteen rivers of the 2026 trip programme; the back-country evacuation clause)*
+*Status: E1-reviewed | Sources: 36*
+*Last Updated: 2026-09-08 (a whole tripping season counted, 1977; the fifteen rivers of 2026)*
 
 *Earlier revisions: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
@@ -209,7 +209,21 @@ Two related national facts of the same year belong beside it. The **Canadian Rec
 
 Canoe-trip plaques recovered from the dining hall document a "Tripper" (trip leader) role distinct from the section directors who ran the camp-based program. Rob Shackell appears as Tripper across at least four documented trips between 2001 and 2010 — the 2001 Voyageurs 4th-session portage, the 2005 Swazi trip, the 2008 Missinaibi River 21-day Voyageurs Ultimate expedition, and the 2010 Ashuapmushuan River trip — the longest documented tripping tenure of any named individual in the plaque archive. Steve Wesley co-led the 2010 Voyageurs 3rd-session and Ashuapmushuan trips alongside Shackell. Other named trip leaders include Lorna McNeish, credited "Capitaine" of the 2000 Voyageurs cohort, and Mark Chamandy-Cook, Tripper on a 2009 Talahassee trip through the Papineau-Labelle wildlife reserve.^10
 
-**How much tripping a single season actually was, in 1993.** Director Bruce Netherwood's report on the 99th summer counts it: **four Voyageur trips and 38 camper trips**, three of the latter Junior excursions, and **over four hundred Kanawanians** on the water across Papineau-Labelle and Parc La Vérendrye.^25 That is the only whole-season trip count this article holds for any year. Netherwood's "over four hundred" counts campers and staff together and cannot be turned into a participation rate, but it is a large fraction of a camp that ran at over 99% of capacity that summer, and the reserve pairing the 2026 programme still uses — Papineau-Labelle and La Vérendrye — was already the shape of it.
+**A whole tripping season counted, 1977, and canoes are a quarter of it.** The director's report for that
+year gives "Hike & Trip statistics" in six lines: **backpacking trips (Vermont) 6; extended canoe trips 19;
+local hikes and overnights 38; sneakouts 12; total number of out-trips 75; total number of people nights
+1,196**.^36
+
+*Three things sit in that.* **Extended canoe trips are 19 of 75** — a quarter of the out-trips, in a camp
+whose tripping identity this wiki writes almost entirely in canoes; local hikes and overnights are half.
+**"Sneakouts" is a formal category in a report to the association**, counted at twelve, which turns an
+unofficial-sounding thing into an accounted programme item. And the backpacking goes to **Vermont**, out of
+the country: the same report says "our truck travelled over **19,000 miles**, with trips to Vermont, **31 Mile
+Lake, Post River, White Fish Reservoir, Mont Laurier, Lac Légaré and Clear Lake** among other regions."
+1,196 people-nights against a season of about four hundred campers is roughly three out-trip nights each, and
+the report claims "almost every Kanawanian had some sort of overnight experience." [f_5804]
+
+**How much tripping a single season actually was, in 1993.** Director Bruce Netherwood's report on the 99th summer counts it: **four Voyageur trips and 38 camper trips**, three of the latter Junior excursions, and **over four hundred Kanawanians** on the water across Papineau-Labelle and Parc La Vérendrye.^25 That is the only *other* whole-season trip count this article holds, and unlike 1977's it is not broken down by kind. Netherwood's "over four hundred" counts campers and staff together and cannot be turned into a participation rate, but it is a large fraction of a camp that ran at over 99% of capacity that summer, and the reserve pairing the 2026 programme still uses — Papineau-Labelle and La Vérendrye — was already the shape of it.
 
 **Where the trips actually go, in 2026, and it is not the Laurentians.** The parent guide names the water:
 "Our Hike and Trip program runs canoe trips on the following rivers: **Noire, Dumoine, Coulonge, Bazin, Rouge,
@@ -317,3 +331,4 @@ mother, and the unit she measures the trip in is a school year. See
 33. The YMCAs of Québec, community report **2010** [src_ymf_sgw_ymca_community_report_2010], the Access for All page. Read 2026-09-08 under p_487. See [f_5776].
 34. Camp YMCA Kanawana, the registration package published at ymcaquebec.org [src_ymcaq_kanawana_jobs_intl_leadership_2026], its emergency and inherent-risk clauses. Read 2026-09-08 under p_441. See [f_5791].
 35. *Camp Kanawana Parent Guide 2026*, English and French editions [src_kk_prep_guide_2026, src_kk_prep_guide_2026_fr], the Hike and Trip programme page. Read 2026-09-08 under p_441. The English guide is cited elsewhere in this wiki as ^pg26 and this list was not taken from it. See [f_5792].
+36. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977], its Hike & Trip statistics and special-programme list. Read 2026-09-08 under p_441. See [f_5804] and [f_5805].

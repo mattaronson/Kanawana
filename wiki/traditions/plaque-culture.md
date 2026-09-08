@@ -1,6 +1,6 @@
 # What the Plaques Say Besides Names
 
-*Status: R3-verified | Sources: 4*
+*Status: R3-verified | Sources: 5*
 *Last Updated: 2026-09-08 (Kanawoodstock in 1978)*
 
 ## Overview
@@ -72,7 +72,23 @@ movie nights, a **Monks Meal**, a Réveillon, **Canoe Hockey**, a Craft Shop Qui
 Derby, the **Lumbermen–Voyageurs** contest ("Lumbermen won… again"), and **Kanawana Day at Olympic Stadium on
 10 September** with an Expos ballgame.^4
 
-*Three of those land on things this article already holds.* **Viking Day** is on a 1972 board above and
+**The year before gives fifteen more, and seven of them recur.** The 1977 report lists "Christmas Day; **swim
+meet with Lac Marois Association**; **Topsy-Turvy Day**; The Energetic Company; the **Kanawana 500**
+cross-country car rally; Santa Claus Parade; **Olympics Day**; Klondyke Day; World Record Day; the **Derek
+Walsh invitational golf tournament**; Fishermen's Supper; Pyjama Breakfasts; **Letter Lunches**;
+Lumbermen–Voyageur Competitions; Green Triangle Banquet (Lumbermen won)."^5 Seven of those appear again in
+1978 — The Energetic Company, the Santa Claus Parade, Klondyke Day, World Record Day, Pyjama Breakfasts, the
+Lumbermen–Voyageurs and the Green Triangle Banquet — so they are fixtures, not one-offs, and **the Lumbermen
+won in both years**, which is what 1978's "Lumbermen won… again" is referring to.
+
+*Two of the new ones are worth their own line.* The **swim meet with the Lac Marois Association** is the only
+inter-community sporting fixture in this project, against a neighbouring lake's residents rather than another
+camp. And the **Derek Walsh invitational golf tournament** is named for the man who signed the report — a camp
+naming an event after its own sitting director, which is either affection or a joke, and the document does not
+say which. The 1977 programmes are credited in part to **Kevin Forster**, the Junior Boys Section Director,
+"who initiated a number of the above in his section." [f_5805]
+
+*Three of the 1978 items land on things this article already holds.* **Viking Day** is on a 1972 board above and
 running again six years later. **Pyjama Breakfasts** answer the "pyjama parade" of the 1935 season chronicle,
 forty-three years apart. And **Star Wars Day** is a year after the film, which is the same
 reach-for-the-moment the Kanawoodstock objects show across three decades. The credit goes to "the four Section
@@ -126,6 +142,7 @@ The boards draw on two visual vocabularies that do not mix:^1
 2. Oral history, Matt Aronson, 28 August 2026 [src_oral_aronson_sanctum_suez_raku]. See [f_2353].
 3. *Kamp Kanawana Director's Report 1987*, Jay Netherwood [src_ia_kanawana_report_1987], "Programs — Mini Programs". See [f_2457].
 4. *Kamp Kanawana Director's Annual Report 1978* [src_ia_kanawana_report_1978], signed by Derek V. Walsh, its list of the season's special programmes. Read 2026-09-08 under p_441. See [f_5798].
+5. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977], its special-programme list. Read 2026-09-08 under p_441. See [f_5805].
 
 ## Research Notes
 
