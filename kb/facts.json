@@ -1,8 +1,8 @@
 {
-  "version": "11.55",
-  "kb_version": "11.55",
+  "version": "11.56",
+  "kb_version": "11.56",
   "migrated_from": "3.3",
-  "fact_count": 5750,
+  "fact_count": 5751,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103794,6 +103794,26 @@
       "date_ref": "2014",
       "conflicts_with": [],
       "added_version": "11.55",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5789",
+      "claim": "THE EARLIEST CAMPERSHIP FUNDRAISER THIS PROJECT HOLDS, AND IT SENT CHILDREN TO QUITO AS WELL AS TO KANAWANA. The Montreal YMCA's 1993 annual report: 'On April 25, 1993, the Downtown branch held its 14TH CONSECUTIVE BILL LEWIS SPRING RACE. Close to 800 RUNNERS participated in this event, whose success can be attributed to a team of over 150 VOLUNTEERS. FOR THE FIRST TIME THIS YEAR, the receipts from the race, that is $5,000, served to SUBSIDIZE CHILDREN FROM DISADVANTAGED FAMILIES who, otherwise, would not have been able to attend camp HERE, AT KAMP KANAWANA, OR IN QUITO, IN ECUADOR. Thank you to Pharmaprix and Boutique Courir de Longueuil, for their sponsorships.' The French edition agrees in every particular. THREE THINGS. (1) It is FIVE YEARS EARLIER than the 1998-99 endowment line ('access to the YMCA camp for youth from families in financial difficulty', $6,137) that this project had as the earliest documented campership funding, and it is a public event rather than an endowment draw. (2) The race was ALREADY FOURTEEN YEARS OLD in 1993, so it runs from about 1980, though only this year's proceeds went to camperships. (3) THE QUITO PAIRING IS NEW: nothing in this wiki connects Kanawana to Ecuador, and the sentence puts a Montreal YMCA fundraiser paying for children to attend camp at both. The same report's Foundation pages record a separate effort raising $50,800, of which $37,000 went into an endowment; whether any of that was Kanawana's is not stated.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1993",
+        "src_ymf_sgw_ymca_annual_report_1993_fr"
+      ],
+      "confidence": "stated",
+      "category": "finance",
+      "entities": [
+        "Bill Lewis Spring Race",
+        "camperships",
+        "Quito",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1993",
+      "conflicts_with": [],
+      "added_version": "11.56",
       "added_by": "ralph_loop"
     }
   ]

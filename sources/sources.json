@@ -19674,7 +19674,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487 via scripts/reread/fr_destination_triage.py. Every distinctive token near a camp mention checked against the wiki IN ENGLISH; all of them resolve to material already held from the English edition, or to the adjacent paragraph rather than the camp's. No facts of its own."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1988",
@@ -19764,7 +19764,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487. ONE camp mention in the whole volume: the branch committee page, headed 'COMITÉ DU KAMP KANAWANA', giving the same ten names as the English edition and confirming them name for name (f_5771)."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1992",
@@ -19800,7 +19800,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487 via scripts/reread/fr_destination_triage.py. Every distinctive token near a camp mention checked against the wiki IN ENGLISH; all of them resolve to material already held from the English edition, or to the adjacent paragraph rather than the camp's. No facts of its own."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1993_fr",
@@ -19818,7 +19818,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487 via the absent-token triage ('Quito', 'Équateur', 'Bill-Lewis'). Confirms the English edition's Bill Lewis Spring Race passage in every particular. f_5789."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1995",
@@ -19854,7 +19854,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487 via scripts/reread/fr_destination_triage.py. Every distinctive token near a camp mention checked against the wiki IN ENGLISH; all of them resolve to material already held from the English edition, or to the adjacent paragraph rather than the camp's. No facts of its own."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1996_fr",
@@ -19908,7 +19908,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487 via scripts/reread/fr_destination_triage.py. Every distinctive token near a camp mention checked against the wiki IN ENGLISH; all of them resolve to material already held from the English edition, or to the adjacent paragraph rather than the camp's. No facts of its own."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1998",
@@ -19962,7 +19962,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487 via scripts/reread/fr_destination_triage.py. Every distinctive token near a camp mention checked against the wiki IN ENGLISH; all of them resolve to material already held from the English edition, or to the adjacent paragraph rather than the camp's. No facts of its own."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1998_fr",
@@ -19980,7 +19980,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487 via scripts/reread/fr_destination_triage.py. Every distinctive token near a camp mention checked against the wiki IN ENGLISH; all of them resolve to material already held from the English edition, or to the adjacent paragraph rather than the camp's. No facts of its own."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1999_2000",
@@ -20016,7 +20016,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487 via scripts/reread/fr_destination_triage.py. Every distinctive token near a camp mention checked against the wiki IN ENGLISH; all of them resolve to material already held from the English edition, or to the adjacent paragraph rather than the camp's. No facts of its own."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_2000_2001",
@@ -20412,7 +20412,7 @@
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487 via scripts/reread/fr_destination_triage.py. Every distinctive token near a camp mention checked against the wiki IN ENGLISH; all of them resolve to material already held from the English edition, or to the adjacent paragraph rather than the camp's. No facts of its own."
     },
     {
       "source_id": "src_ymf_sgw_ymca_community_report_2012",
@@ -20448,7 +20448,7 @@
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487 via scripts/reread/fr_destination_triage.py. Every distinctive token near a camp mention checked against the wiki IN ENGLISH; all of them resolve to material already held from the English edition, or to the adjacent paragraph rather than the camp's. No facts of its own."
     },
     {
       "source_id": "src_ymf_sgw_ymca_community_report_2013",
@@ -20664,7 +20664,7 @@
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487 via scripts/reread/fr_destination_triage.py. Every distinctive token near a camp mention checked against the wiki IN ENGLISH; all of them resolve to material already held from the English edition, or to the adjacent paragraph rather than the camp's. No facts of its own."
     },
     {
       "source_id": "src_ymf_skin_scuba_dive_brochure_1976",
@@ -21474,7 +21474,7 @@
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-2026-09-08-p_487. ZERO mentions of the camp in the cached text, which is 10,553 bytes -- a short document. Recorded as a null rather than left asserted: the camp is not in it."
     },
     {
       "source_id": "src_ymf_ymca_community_report_2020_eng",
@@ -21510,7 +21510,7 @@
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487 via scripts/reread/fr_destination_triage.py. Every distinctive token near a camp mention checked against the wiki IN ENGLISH; all of them resolve to material already held from the English edition, or to the adjacent paragraph rather than the camp's. No facts of its own."
     },
     {
       "source_id": "src_ymf_ymca_community_report_2021_eng",
@@ -21546,7 +21546,7 @@
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487 via scripts/reread/fr_destination_triage.py. Every distinctive token near a camp mention checked against the wiki IN ENGLISH; all of them resolve to material already held from the English edition, or to the adjacent paragraph rather than the camp's. No facts of its own."
     },
     {
       "source_id": "src_ymf_ymca_impact_report_2022_eng",
@@ -21618,7 +21618,7 @@
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487 via scripts/reread/fr_destination_triage.py. Every distinctive token near a camp mention checked against the wiki IN ENGLISH; all of them resolve to material already held from the English edition, or to the adjacent paragraph rather than the camp's. No facts of its own."
     },
     {
       "source_id": "src_ymf_ymca_impact_report_2024",
@@ -25505,7 +25505,7 @@
       "extraction_version": null,
       "reliability": "primary",
       "read_state": "unread",
-      "read_state_basis": "none: catalogued 2026-09-02 from a cached file that belonged to no source record",
+      "read_state_basis": "RE-READ 2026-09-08 under p_487: the Foundation's events pages, giving the 14th Bill Lewis Spring Race and the first year its receipts went to camperships at Kanawana and Quito. f_5789.",
       "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read. | 2026-09-06: searched for the McBride name under p_441; committee and board listings extracted to f_5010. This was a NAME SEARCH, not a close read -- the read_state is unchanged deliberately."
     },
     {
