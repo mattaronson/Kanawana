@@ -1,8 +1,8 @@
 {
-  "version": "11.30",
-  "kb_version": "11.30",
+  "version": "11.31",
+  "kb_version": "11.31",
   "migrated_from": "3.3",
-  "fact_count": 5717,
+  "fact_count": 5718,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103108,6 +103108,26 @@
       "date_ref": "1892",
       "conflicts_with": [],
       "added_version": "11.30",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5756",
+      "claim": "THE VOLUNTEER WHO REBUILT CAMP PERROT'S BARN WAS A YMCA SECRETARY ON HIS WAY UP, AND THE 1947 REPORT GIVES HIS FIRST NAME. The 1948 Camp Perrot season report records that 'The Foremen's Club of Montreal, WITH THE LEADERSHIP OF MR. N. MILLINGTON, have taken over the old Barn as their service project. They came out several Saturday afternoons and have laid a new floor, installed electric lights' -- the start of the recreation hall that site/camp-perrot.md follows across two documents and that is never finished. The article had the club and the barn and not the man. He is NORMAN J. MILLINGTON: the Montreal annual report for the year ending 31 March 1947 has 'Central Branch was strengthened by the appointment of NORMAN J. MILLINGTON as Membership Secretary', so the barn project falls about a year into his Montreal career; and the 1954 report has 'Mr. N. A. Millington, Executive Secretary of Westmount Branch' appointed Metropolitan Assistant Secretary on 1 September 1954 AND SUCCEEDED AT WESTMOUNT BY R. D. LOCKE. The 1954 volume's middle initial A is very probably a scan of the J the 1947 volume spells out; both readings are shown. SO THE MAN ROY LOCKE FOLLOWED INTO THE WESTMOUNT CHAIR had led the volunteer club that rebuilt another of the association's camps six years earlier, and people/roy-locke.md had him only as the initials 'N. A. Millington'. WHAT THE JOIN SHOWS BEYOND THE NAME: a 'service project' at this association meant paid staff and lay members in the same club, working on a camp neither of them ran.",
+      "sources": [
+        "src_ymf_1948_camp_perrot_season_report",
+        "src_ymf_sgw_ymca_annual_report_1947",
+        "src_ymf_sgw_ymca_annual_report_1954"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Norman J. Millington",
+        "Roy D. Locke",
+        "Camp Perrot"
+      ],
+      "date_ref": "1947/1948/1954",
+      "conflicts_with": [],
+      "added_version": "11.31",
       "added_by": "ralph_loop"
     }
   ]

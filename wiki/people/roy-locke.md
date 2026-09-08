@@ -1,6 +1,6 @@
 # Roy D. Locke
 
-*Status: draft | Sources: 17*
+*Status: draft | Sources: 18*
 *Last Updated: 2026-09-08 (the branch chair between the camp and the metropolitan portfolio)*
 
 ## Overview
@@ -121,7 +121,7 @@ water meters from its own former camp chief.
 
 **One tension, not smoothed over.** The obituary puts him in business from 1954 to 1969. The Montreal
 YMCA's own 1954 Annual Report has him succeeding N. A. Millington at Westmount Branch on 1 September
-1954.^2 Either the Westmount posting was brief and he left the association soon after taking it, or the
+1954.^2 *That man is **Norman J. Millington***, appointed Membership Secretary of Central Branch in the year ending 31 March 1947, whose given name the 1947 report spells out and whose initial the 1954 scan renders as an A; he led the Foremen's Club that rebuilt [[site/camp-perrot|Camp Perrot]]'s barn in 1948.^18 Either the Westmount posting was brief and he left the association soon after taking it, or the
 obituary compresses fifteen years into a phrase. Both are documented; neither is preferred here. The
 gap in the reconstruction falls exactly there — the clause between "in Toronto" and "business from 1954
 to 1969" was not recovered, and it is the clause that would cover his Montreal years, Kanawana included.
@@ -202,6 +202,7 @@ That is the direct ancestor of the **Camp Plant Manual** the 1965 annual report 
 
 16. YMCA of Montreal annual report for the year ending **31 March 1948** [src_ymf_sgw_ymca_annual_report_1948], the secretarial-staff paragraph: Locke's move from the Notre Dame de Grace boys' work secretaryship to the Eastern Communities executive secretaryship, succeeding R. H. Hanagan. Read 2026-09-08 under p_490. See [f_5745].
 17. YMCA of Montreal, **117th Annual Report**, for the fiscal year ended **31 May 1969** [src_ymf_sgw_ymca_annual_report_1968], the personnel section. Read 2026-09-08 under p_490. The section is a two-column table the OCR has reflowed into a single stream, so the line "R. Locke - Assistant to the General Secretary" cannot be assigned to its heading from the text layer. See [f_5753].
+18. YMCA of Montreal annual report for the year ending **31 March 1947** [src_ymf_sgw_ymca_annual_report_1947], the staff paragraph: "Central Branch was strengthened by the appointment of **Norman J. Millington** as Membership Secretary." Read 2026-09-08 under p_490. See [f_5756].
 ## Research Notes
 
 <!-- Created 2026-08-14 (p_250) from facts established by the director-gap research campaign of the same day (f_2079, f_2084, f_2120). No new research was conducted for this spawn.
