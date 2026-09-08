@@ -1,8 +1,8 @@
 {
-  "version": "11.29",
-  "kb_version": "11.29",
+  "version": "11.30",
+  "kb_version": "11.30",
   "migrated_from": "3.3",
-  "fact_count": 5716,
+  "fact_count": 5717,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103090,6 +103090,24 @@
       "date_ref": "1949-1958",
       "conflicts_with": [],
       "added_version": "11.29",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5755",
+      "claim": "1892 IS THE ASSOCIATION'S OWN DOMINANT RETROSPECTIVE FOUNDING DATE, SIX VOLUMES TO TWO. The 1956 and 1957 annual reports both read 'Camp Otoreke - Ste. Adolphe de Howard, Quebec - ESTABLISHED IN 1892 at Lake St. Joseph, sixty-five miles north of Montreal, is an Island Camp for Young Adults.' This project already recorded the drift in the association's retrospective dates -- 1898 in the 1931 report, 1891 or 1892 in 1932 and 1933, 1892 in 1954 and 1955, 1893 in 1953 and 1965 -- and these two volumes extend the 1892 side to SIX against TWO for 1893 and one for 1898. IT QUALIFIES A STANDING ARGUMENT. site/camp-otoreke.md argues that five sources cluster on 1893 and that the cluster 'can no longer be described as entirely outside the institution' because the YMCA's own 114th annual report says the Otoreke site 'has been owned by the YMCA since 1893'. That report is now the institution's MINORITY view of its own history, not its settled one; both articles say so. NOTHING HERE SETTLES THE ACTUAL DATE and neither article claims it does: every one of these figures is retrospective, written decades after, and the contemporaneous reports of 1892-94 remain the only primary evidence. What changes is how much weight the 114th report can carry for the 1893 side. ALSO WORTH KEEPING: these sentences date CAMP OTOREKE and the association's FIRST camp, not Kanawana, which is a distinction easy to lose when a search returns '1892' beside the word Kanawana in the same paragraph -- the 1953 and 1954 volumes put the two camps in consecutive sentences.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1956",
+        "src_ymf_sgw_ymca_annual_report_1957"
+      ],
+      "confidence": "stated",
+      "category": "history",
+      "entities": [
+        "Camp Otoreke",
+        "founding date"
+      ],
+      "date_ref": "1892",
+      "conflicts_with": [],
+      "added_version": "11.30",
       "added_by": "ralph_loop"
     }
   ]

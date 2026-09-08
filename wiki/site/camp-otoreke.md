@@ -790,8 +790,7 @@ to his own 1898, and it dates nothing.
 
 The association's retrospective founding dates do drift, and
 [[history/founding-1894|The Founding of Camp Kanawana]] documents the drift more fully than this
-paragraph originally did: 1898 in the 1931 report, 1891 or 1892 in 1932 and 1933, 1892 in 1954 and
-1955, 1893 in 1953 and 1965. What this passage adds is only that the 1931 report treated Otoreke as a
+paragraph originally did: 1898 in the 1931 report, 1891 or 1892 in 1932 and 1933, 1892 in 1954, 1955 and — added 2026-09-08 — **1956 and 1957**, where the reports read "Camp Otoreke … **established in 1892** at Lake St. Joseph"; 1893 in 1953 and 1965. **So the institution's own retrospective is six volumes for 1892 against two for 1893**, which qualifies the paragraph above: the 114th report is not the institution's settled view but its minority one. What this passage adds is only that the 1931 report treated Otoreke as a
 decades-old institution with a settled programme in the same breath as reporting its attendance down
 by 46 in a year.
 

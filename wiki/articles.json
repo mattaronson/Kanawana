@@ -128,7 +128,9 @@
         "src_ia_sgw_ymca_annual_report_1874",
         "src_kanawana_physical_archive_scans_2026",
         "src_stadolphedhoward_patrimoine",
-        "src_ia_kanawana_report_1970"
+        "src_ia_kanawana_report_1970",
+        "src_ymf_sgw_ymca_annual_report_1956",
+        "src_ymf_sgw_ymca_annual_report_1957"
       ],
       "open_questions": 0,
       "cross_links": [
@@ -153,7 +155,7 @@
         "timeline-overview"
       ],
       "file_id": "1h-vki1U2tjYj8-zZ5gzuyW6kQXelcUnB",
-      "word_count": 7582,
+      "word_count": 7625,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- replaced the bold-field header convention with the standardized two-line header, moved the embedded c_005 editorial-resolution paragraph into the existing Revision History section (merged the separate 'Research Notes'/'Revision History' H2 sections into one, per the wiki-wide convention). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -3955,7 +3957,8 @@
         "src_ymf_sgw_ymca_annual_report_1955",
         "src_ymf_sgw_ymca_annual_report_1958",
         "src_ymf_sgw_ymca_annual_report_1943",
-        "src_ymf_sgw_ymca_annual_report_1946"
+        "src_ymf_sgw_ymca_annual_report_1946",
+        "src_ymf_sgw_ymca_annual_report_1957"
       ],
       "open_questions": 9,
       "cross_links": [
@@ -3968,7 +3971,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 22564,
+      "word_count": 22617,
       "notes": "E1 REVIEW (2026-02-19): Removed unverifiable 'Google Maps' source and '20 km' distance claim. Expanded 'Multiple sources' citation into discrete references (Facts sheet + McMorris). Removed src_oral_aronson (no inline citation). Removed unsourced bullet. Fixed postcard inference. Fixed closure section process language. Split 1967 conference/reports sentence. Renumbered sources 1-10. Added camp-otoreke cross-link to centennial-1967. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_008 editorial-resolution narrative into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

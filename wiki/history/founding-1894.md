@@ -180,7 +180,7 @@ among the association's own unreliable retrospective dates, given in the reports
 
 **So the 75th anniversary was celebrated twice — in 1968 and again in 1984.** And the camp has two centennials in the record: the 1993 report says Kanawana is "celebrating its 100th anniversary this year," while the 1994 report says "This was Kanawana's 100th year of operation." Neither is an error; they are different clocks, and the 1993 one is running on yet a third date (1893). See [[history/centennial-1994|The 1994 Centennial]].
 
-A caution about the early claims. The association's own retrospective founding dates from the 1930s and 1950s are unreliable and mutually inconsistent — 1898 (per the 1931 report), 1891/92 (1932, 1933), 1892 (1954, 1955), 1893 (1953, 1965). All postdate the events by three to four decades and all conflict with the 1894-95 report's first-person "our first Summer Camp."^ar
+A caution about the early claims. The association's own retrospective founding dates from the 1930s and 1950s are unreliable and mutually inconsistent — 1898 (per the 1931 report), 1891/92 (1932, 1933), **1892 (1954, 1955, and — added 2026-09-08 — 1956 and 1957)**, 1893 (1953, 1965). *That makes 1892 the association's own dominant retrospective, in six volumes against two for 1893 and one for 1898*, which is worth knowing when weighing the outside sources that cluster on 1893; see [[site/camp-otoreke|Camp Otoreke]]. All postdate the events by three to four decades and all conflict with the 1894-95 report's first-person "our first Summer Camp."^ar
 
 
 
