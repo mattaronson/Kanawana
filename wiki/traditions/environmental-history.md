@@ -147,6 +147,18 @@ outdoor education classes" and "30 leaders-in-training."^46 One pavilion, opened
 target. *Nothing read here says the second was ever built*, and the retreat from "two" to "one of two" to an
 unnumbered single pavilion is visible only with the four reports side by side. [f_5781]
 
+**A third funding channel, and it paid for the teaching materials.** The 2008 report describes an
+**Innovation, Research and Development Fund**, "created in 2003-2004 and financed entirely by The YMCAs of
+Québec… to support new community initiatives. With **$69,170** at its disposal this year, the fund helped
+projects that, among others, developed a day centre for seniors at the Downtown Y centre, **developed an
+educational kit for the outdoor education program at Camp YMCA Kanawana**, and established a C-Vert program
+at the Hochelaga-Maisonneuve Y centre."^46 The French edition calls it a *trousse éducative pour le programme
+de classe nature*. So the outdoor-education programme's own teaching materials date to **2008** — inside the
+green shift, and **two years before** the Social Audit table first counts "classes nature" separately at 1,450
+participants. The curriculum came before the separate accounting of the people using it. And this is a third
+channel distinct from the Endowment Fund and the development campaign: an internally financed pot with its own
+annual figure. [f_5787]
+
 **A fifth figure, dated to a month, sits a year earlier.** The 2008 report's section "Camp YMCA Kanawana:
 Objectives all but met": "In **December**, **$1.48 million** was collected for this unprecedented
 environmental development project. The results encourage us to continue our efforts and collect the

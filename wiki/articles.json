@@ -7212,7 +7212,7 @@
         "acid-rain"
       ],
       "file_id": null,
-      "word_count": 7984,
+      "word_count": 8151,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical; fixed a genuine citation-numbering bug where the Sources list had two entries each numbered '17.' and '22.' (disambiguated as 17b./22b., three inline markers corrected to point at the right one). No facts, source content, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -9094,7 +9094,9 @@
         "src_myjewishlearning_lazarus",
         "src_zeffy_lazarus_fund",
         "src_torge_dear_sam_2007",
-        "src_ymf_sgw_ymca_annual_report_2003_2004"
+        "src_ymf_sgw_ymca_annual_report_2003_2004",
+        "src_ymf_ymca_impact_report_2022_fr",
+        "src_ymf_ymca_impact_report_2022_eng"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -9102,7 +9104,7 @@
         "pip-alumni-award"
       ],
       "file_id": null,
-      "word_count": 2124,
+      "word_count": 2378,
       "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. No new research conducted. Noted but did not fix a pre-existing fact-to-source mis-citation (f_0611 cites src_newspapers_gazette_1913, an unrelated 1913 article) -- flagged as a KB cleanup item rather than guessed at.",
       "tags": {
         "era": [
@@ -10072,7 +10074,8 @@
         "src_ymf_sgw_ymca_annual_report_2006",
         "src_ymf_sgw_ymca_annual_report_2007",
         "src_ymf_sgw_ymca_annual_report_2008",
-        "src_ymf_sgw_ymca_annual_report_2009"
+        "src_ymf_sgw_ymca_annual_report_2009",
+        "src_ymf_sgw_ymca_community_report_2014_fr"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -10089,7 +10092,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 8594,
+      "word_count": 8767,
       "notes": "2026-07-11: Workstream C4 spawn (4 of 4, final). Connective-narrative synthesis, no new research conducted. Ties together this session's institutional-role-director spawns into continuous narrative history. This completes Workstream C4 and the full operator-approved plan. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
       "tags": {
         "era": [

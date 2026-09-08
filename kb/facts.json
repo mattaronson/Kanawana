@@ -1,8 +1,8 @@
 {
-  "version": "11.54",
-  "kb_version": "11.54",
+  "version": "11.55",
+  "kb_version": "11.55",
   "migrated_from": "3.3",
-  "fact_count": 5747,
+  "fact_count": 5750,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103737,6 +103737,63 @@
       "date_ref": "2015",
       "conflicts_with": [],
       "added_version": "11.54",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5786",
+      "claim": "THE SAM LAZARUS ENDOWMENT HAS RAISED OVER $455,000, AND THE FAMILY WAS STILL RAISING IT IN 2022. The YMCAs of Quebec's 2022 impact report, French edition: 'Pour une autre annee encore, la FAMILLE ET LES AMI.E.S DE SAM LAZARUS, qui nous a quitte en 2004, se sont reuni.e.s pour amasser des fonds afin d'offrir a davantage d'enfants l'occasion de vivre la magie du Camp YMCA Kanawana. DEPUIS 2004, PLUS DE 455 000 $ ONT ETE RECUEILLIS POUR CE FONDS DE DOTATION cree en l'honneur de Sam.' A THIRD POINT ON THE FUND'S CURVE, and the three do not measure the same thing: $22,000 is the ENDOWMENT'S VALUE in 2003-04, $260,000 is what the Five-Hole Sam Street Hockey Jamboree had RAISED by 2015, and $455,000 is the CUMULATIVE RAISED FOR THE FUND since 2004 as of 2022 -- a broader base than the Jamboree alone, so the two are not a growth rate. What the sentence does establish is that the gathering was still annual eighteen years after his death, and the report calls the fund 'essential'. THE ENGLISH EDITION IS INTERLEAVED WITH AN ADJACENT COLUMN at this passage -- 'was back in hybrid format for the second year. =, 2004, over $455,000 has been / Participants were asked to set three goals for ro | .) raised for this essential endowment' -- so the figure survives in it but the sentence does not. Second instance today of the French edition carrying the only clean print.",
+      "sources": [
+        "src_ymf_ymca_impact_report_2022_fr",
+        "src_ymf_ymca_impact_report_2022_eng"
+      ],
+      "confidence": "stated",
+      "category": "finance",
+      "entities": [
+        "Sam Lazarus",
+        "Sam Lazarus Fund",
+        "Camp YMCA Kanawana"
+      ],
+      "date_ref": "2022 (on 2004-2022)",
+      "conflicts_with": [],
+      "added_version": "11.55",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5787",
+      "claim": "AN INNOVATION FUND PAID FOR THE OUTDOOR-EDUCATION PROGRAMME'S TEACHING MATERIALS, 2008. The association's 2008 report: 'INNOVATION, RESEARCH AND DEVELOPMENT FUND: Concrete Results for the Community. CREATED IN 2003-2004 and financed entirely by The YMCAs of Quebec, this fund aims to support new community initiatives. With $69,170 at its disposal this year, the fund helped projects that, among others, developed a day centre for seniors at the Downtown Y centre, DEVELOPED AN EDUCATIONAL KIT FOR THE OUTDOOR EDUCATION PROGRAM AT CAMP YMCA KANAWANA, and established a C-Vert program at the Hochelaga-Maisonneuve Y centre.' The French edition says 'concevoir une TROUSSE EDUCATIVE pour le PROGRAMME DE CLASSE NATURE du camp YMCA Kanawana'. This dates the outdoor-education programme's own teaching materials to 2008, inside the green shift and two years before the 2010 Social Audit table first counts 'classes nature' separately at 1,450 participants -- so the curriculum materials precede the separate accounting of the people using them. It is also a THIRD funding channel at the camp, distinct from the Endowment Fund and from the development campaign: an internally financed innovation fund with its own annual pot.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2008",
+        "src_ymf_sgw_ymca_annual_report_2008_fr"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Innovation Research and Development Fund",
+        "outdoor education",
+        "Camp YMCA Kanawana"
+      ],
+      "date_ref": "2008",
+      "conflicts_with": [],
+      "added_version": "11.55",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5788",
+      "claim": "TWO NAMED DONOR DESIGNATIONS AT THE CAMP, 2014. The YMCAs of Quebec's 2014 community report lists the year's donor-designated allocations, and Kanawana appears twice under distinct headings: 'BOURSE POUR JEUNES CAMPEURS (Camp YMCA Kanawana)' -- a bursary for young campers, listed twice in the French edition's column -- and 'SOUTIEN AU DEVELOPPEMENT DU LEADERSHIP ET A L'EMPLOYABILITE (Camp YMCA Kanawana)', which the English edition renders as 'Support for leadership development and employability (Camp YMCA Kanawana)'. The camperships line this project has traced from 1998-99 ('access to the YMCA camp for youth from families in financial difficulty') through 'Accessibility' (2000-02), 'camperships' (2006), 'camper funds' (2008) and 'subsidies for campers' (2010) is therefore still running in 2014 under a sixth name. THE SECOND DESIGNATION IS NEW IN KIND: leadership development and employability is not bursary money for a camper's stay but support for the CIT and staff-training track, which is the same thing Bill Ridley's bequest funds from 2013 (f_5784) -- two separate designated sources for the leadership programme in consecutive years.",
+      "sources": [
+        "src_ymf_sgw_ymca_community_report_2014_fr",
+        "src_ymf_sgw_ymca_community_report_2014"
+      ],
+      "confidence": "stated",
+      "category": "finance",
+      "entities": [
+        "camperships",
+        "CIT programme",
+        "Camp YMCA Kanawana"
+      ],
+      "date_ref": "2014",
+      "conflicts_with": [],
+      "added_version": "11.55",
       "added_by": "ralph_loop"
     }
   ]

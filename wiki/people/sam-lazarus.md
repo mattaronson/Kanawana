@@ -1,7 +1,7 @@
 # Sam Lazarus
 
-*Status: draft | Sources: 8*
-*Last Updated: 2026-09-06 (his mother's book, cited here since March from listings alone, finally read where it touches the camp)*
+*Status: draft | Sources: 9*
+*Last Updated: 2026-09-08 (the fund at over $455,000, and still being raised in 2022)*
 
 ## Overview
 
@@ -62,6 +62,24 @@ all that **out of tragedy can come hope and inspiration**."^8
 
 The annual "Five-Hole Sam Street Hockey Jamboree" (Sam Jam), organized by Riel Lazarus, had raised over $260,000 and sent more than 70 children to camp as of 2015 — the name references Sam's reputation as a street hockey goalie prone to letting goals through "the five-hole."^5 The fund continues through the Fondation des YMCA du Québec; as of 2024 it accepts donations via Zeffy, and over 17 years has provided camperships to dozens of families.^6
 
+**A third figure, and eighteen years on the family was still raising it.** The YMCAs of Québec's 2022 impact
+report: "Pour une autre année encore, **la famille et les ami.e.s de Sam Lazarus**, qui nous a quitté en 2004,
+se sont réuni.e.s pour amasser des fonds afin d'offrir à davantage d'enfants l'occasion de vivre la magie du
+Camp YMCA Kanawana. **Depuis 2004, plus de 455 000 $ ont été recueillis pour ce fonds de dotation** créé en
+l'honneur de Sam."^9 The report calls it an "essential endowment fund."
+
+*The three figures do not measure the same thing and are not a growth curve.* **$22,000** is what the
+endowment was **worth** in 2003-04. **$260,000** is what the **Sam Jam alone had raised** by 2015.
+**$455,000** is the **cumulative raised for the fund** since 2004, as of 2022, across every source. What the
+2022 sentence does establish is that the annual gathering was still happening eighteen years after his death.
+[f_5786]
+
+*The English edition of that report is interleaved with an adjacent column at this passage* — "was back in
+hybrid format for the second year. =, 2004, over $455,000 has been / Participants were asked to set three
+goals for ro | .) raised for this essential endowment" — so the figure survives in it but the sentence does
+not. The French edition is the clean print.
+
+
 ## Open Questions
 
 1. [Partially resolved 2026-09-06] What years specifically did Lazarus attend Kanawana as a camper and staff member? **The camper years start in 1986** — "practically every summer since he was eight", on a 3 March 1978 birth.^7 The staff years are still open: the CIT year is undated in his mother's account and came after he left school rather than at sixteen, and the number of counsellor summers after it is given only as "another".
@@ -83,6 +101,7 @@ The annual "Five-Hole Sam Street Hockey Jamboree" (Sam Jam), organized by Riel L
 6. The Sam Lazarus Fund, Zeffy donation page [src_zeffy_lazarus_fund].
 7. Janet Torge, *Dear Sam: Grieving the Death of My Son* (iUniverse, 27 May 2007), Internet Archive scan leaf 150 [src_torge_dear_sam_2007]. **Four passages only**, reconstructed 2026-09-06 from twenty-five overlapping Open Library search-inside queries; the book is lending-restricted, page images return HTTP 403, and it has not been read. The walk was stopped at the camp material and the sentences that place it, and was not extended into the surrounding chapters — this is a mother's book of letters to a dead son, and reading a published book is not the same as mining it. Everything found is recorded and nothing was withheld. Cached with its queries at `sources/cache/openlibrary-search-inside/2026-09-06-two-family-memoirs-elvin-and-torge.txt`. See [f_4953].
 8. YMCA of Greater Montreal annual report 2003-2004 [src_ymf_sgw_ymca_annual_report_2003_2004], the memorial pages. Read 2026-09-06 under p_454.
+9. The YMCAs of Québec, impact report **2022**, French edition [src_ymf_ymca_impact_report_2022_fr], with the English edition [src_ymf_ymca_impact_report_2022_eng] checked and found interleaved with an adjacent column at the same passage. Read 2026-09-08 under p_487. See [f_5786].
 
 ## Research Notes
 

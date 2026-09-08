@@ -20502,7 +20502,7 @@
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. || READ FOR ITS KANAWANA PASSAGES 2026-09-07 under the sharpened p_441. This series prints the CAMP'S OWN COMMITTEE ROSTER year by year, which is where its value for this project sits: see f_5581 for the 2014, 2015 and 2017 lists and f_5582 for three members who were CITs together in 1995.",
       "read_state": "read",
-      "read_state_basis": "read for its Kanawana passages 2026-09-07; supersedes the asserted keyword-swept state"
+      "read_state_basis": "RE-READ 2026-09-08 under p_487: the donor-designated allocation list, whose English rendering of the leadership-and-employability designation confirms the French. f_5788. Its Kanawana committee roster was already worked on 2026-09-07."
     },
     {
       "source_id": "src_ymf_sgw_ymca_community_report_2014_fr",
@@ -20520,7 +20520,7 @@
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487 via the absent-token triage ('Bourse', 'Appui', 'Soutien'). The donor-designated allocation list, naming the camp twice. f_5788."
     },
     {
       "source_id": "src_ymf_sgw_ymca_community_report_2015",
@@ -21564,7 +21564,7 @@
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "read for Kanawana content earlier (the reopening and Ukrainian-refugee passages, in modern-era.md). RE-READ 2026-09-08 under p_487: the Sam Lazarus paragraph, found interleaved with an adjacent column and taken from the French instead. f_5786."
     },
     {
       "source_id": "src_ymf_ymca_impact_report_2022_fr",
@@ -21582,7 +21582,7 @@
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487 via the absent-token triage ('455 000'). THE CLEAN PRINT of the Sam Lazarus endowment's $455,000 sentence, which the English edition interleaves with an adjacent column. f_5786."
     },
     {
       "source_id": "src_ymf_ymca_impact_report_2023_eng",

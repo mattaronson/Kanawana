@@ -1,6 +1,6 @@
 # The Modern Era: The Two-Tier Era (1995–Present)
 
-*Status: draft | Sources: 33*
+*Status: draft | Sources: 34*
 *Last Updated: 2026-09-08 (the advisory committee from 1995, its six-year lapse and its rosters; four years of endowment allocations)*
 
 ## Overview
@@ -446,6 +446,17 @@ end what the 1998–99 table said in full: the recurring Kanawana endowment line
 bursaries, in precisely the years [[traditions/environmental-history|the green-camp construction]] was under
 way. [f_5770]
 
+**The camperships line is still running in 2014, under a sixth name, and it has acquired a companion.** The
+2014 community report's list of donor-designated allocations names the camp twice: "**Bourse pour jeunes
+campeurs** (Camp YMCA Kanawana)" and "**Support for leadership development and employability** (Camp YMCA
+Kanawana)."^34 The first is the same line this article has traced from "access to the YMCA camp for youth from
+families in financial difficulty" (1998–99) through "Accessibility" (2000–02), "camperships" (2006), "camper
+funds" (2008) and "subsidies for campers" (2010) — six names for one thing across sixteen years. *The second
+is new in kind:* leadership development and employability is not money for a camper's stay but for the CIT and
+staff-training track, and it appears a year after
+[[traditions/cit-lit-program|Bill Ridley's bequest]] endowed places on that same programme. Two separate
+designated sources for the leadership track in consecutive years. [f_5788]
+
 *A small link back.* The same tables carry the **"Gabrielle et Maurice Massé" Award** as an endowment line in
 its own right, $1,545 in 2000–01 and $1,418 in 2001–02. That is the award the association gave to Judy and
 Michael Weil in March 2009, she being the chair of Kanawana's own advisory committee and he the association's
@@ -582,6 +593,7 @@ One absence is worth noting rather than passing over: the page says the alumni n
 31. YMCA of Montreal, annual reports for **1995**, **1996**, **1998**, **1998-1999**, **1999-2000**, **2000-2001** and **2001-2002** [src_ymf_sgw_ymca_annual_report_1995, src_cache_sgw_ymca_annual_report_1996, src_ymf_sgw_ymca_annual_report_1998, src_ymf_sgw_ymca_annual_report_1998_1999, src_ymf_sgw_ymca_annual_report_1999_2000, src_ymf_sgw_ymca_annual_report_2000_2001, src_ymf_sgw_ymca_annual_report_2001_2002], the *Local Boards* and *Local Advisory Councils* pages. Read 2026-09-08 under p_487, correcting the same day's earlier reading of source 28. Kanawana has a board in the first two volumes and is absent from the branch list in the last five. See [f_5768].
 32. YMCA of Montreal / The YMCAs of Québec, annual reports for **2006**, **2007** and **2008** [src_ymf_sgw_ymca_annual_report_2006, src_ymf_sgw_ymca_annual_report_2007, src_ymf_sgw_ymca_annual_report_2008], the *Projects supported by the Endowment Fund* and Foundation pages. Read 2026-09-08 under p_487. See [f_5770].
 33. Montreal YMCA / The YMCAs of Québec, annual report for the year ended **31 December 2009** [src_ymf_sgw_ymca_annual_report_2009] and community reports for **2010** and **2011** [src_ymf_sgw_ymca_community_report_2010, src_ymf_sgw_ymca_community_report_2011], the Foundation pages. Read 2026-09-08 under p_487. See [f_5774].
+34. The YMCAs of Québec, community report **2014**, French and English editions [src_ymf_sgw_ymca_community_report_2014_fr, src_ymf_sgw_ymca_community_report_2014], the donor-designated allocation list. Read 2026-09-08 under p_487, reached through the French-edition triage. See [f_5788].
 
 ## Research Notes
 
