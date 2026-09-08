@@ -8716,3 +8716,28 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
           grant this wiki already held inside the project it paid for.
   ARTICLES: environmental-history.md (src 46), modern-era.md.
   KB 11.50/5741 -> 11.51/5743. SOURCES: 4 more measured.
+
+[2026-09-08T03:11:20Z] p_487 -- a triage instrument for the French editions, and what it found
+  NEW: scripts/reread/fr_destination_triage.py. For each French-edition source
+  still marked asserted, take the lines around every camp mention, pull the
+  distinctive tokens (figures with separators or percent signs, capitalised words
+  that are not French function words) and report which appear NOWHERE in wiki/.
+  Never searches for French WORDING -- the destination is checked in the wiki's
+  own language, which is the rule f_5759 cost a retraction to learn. A present
+  token proves nothing; an ABSENT one is a specific place to look.
+  Most of the output is noise by design: adjacent roster entries, phone numbers,
+  other branches, and the sentence next door (the 1996 hits are the Tower Run
+  paragraph above the camp's).
+  f_5782  From the 2008 report's section "Camp YMCA Kanawana: Objectives all but
+          met", surfaced by the triage's 80 %/91% tokens. $1.48 MILLION collected
+          by December 2008 against $3.5 MILLION remaining -- the association's own
+          arithmetic implying a ~$4.98M target, inside the $4.4-5M band already
+          recorded, and dating the run-up to the $1.8M of a year later. And
+          OCCUPANCY 80% in 2007 to 91% in 2008, the first occupancy percentages
+          here after 1996 and the only ones for the 2000s.
+  Also from the triage: the 1996 French edition says "pour la premiere fois
+          DEPUIS SON OUVERTURE" where the English says only "this was the first
+          time" -- an all-time claim rather than a recent-memory one. Cited as
+          ^ar96f in programs-activities.md.
+  ARTICLES: attendance-series.md (src 53), environmental-history.md,
+    programs-activities.md. KB 11.51/5743 -> 11.52/5744.

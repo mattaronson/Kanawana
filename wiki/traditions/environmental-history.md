@@ -147,6 +147,16 @@ outdoor education classes" and "30 leaders-in-training."^46 One pavilion, opened
 target. *Nothing read here says the second was ever built*, and the retreat from "two" to "one of two" to an
 unnumbered single pavilion is visible only with the four reports side by side. [f_5781]
 
+**A fifth figure, dated to a month, sits a year earlier.** The 2008 report's section "Camp YMCA Kanawana:
+Objectives all but met": "In **December**, **$1.48 million** was collected for this unprecedented
+environmental development project. The results encourage us to continue our efforts and collect the
+**remaining $3.5 million** to turn this dream into reality."^46 The association's own arithmetic there implies
+a target of about **$4.98 million** — inside the $4.4-to-$5-million project-investment band recorded below and
+above the $4 million campaign target of 2005-06 — and it dates the approach to the $1.8 million the next
+report gives: $1.48M in December 2008, $1.8M a year later. *The same section carries the occupancy rise,
+80% of capacity in 2007 to 91% in 2008, which the association attributes in part to this project; that is at
+[[meta/attendance-series|The Attendance Series]].* [f_5782]
+
 **That is a fourth money figure and it measures something different again.** The $1.8 million is **donations actually received** by the end of 2009, against the **$4 million campaign target** of 2005-06 and the **$4.4 to $5 million project investment** of 2006 and 2007. Set together they say the campaign was somewhat under halfway at the point Phase I's buildings were finished, which is a fact about the fundraising and not about the buildings.
 
 ### Composting System
@@ -437,7 +447,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 
 44. YMCA of Montreal annual reports for **1949** and for **1952 through 1957** [src_ymf_sgw_ymca_annual_report_1949, src_ymf_sgw_ymca_annual_report_1952, src_ymf_sgw_ymca_annual_report_1953, src_ymf_sgw_ymca_annual_report_1954, src_ymf_sgw_ymca_annual_report_1955, src_ymf_sgw_ymca_annual_report_1956, src_ymf_sgw_ymca_annual_report_1957], the Kamp Kanawana descriptions. Read 2026-09-08 under p_490, in the course of testing whether the 1947-1958 director gap could be closed from these volumes. See [f_5754].
 45. **Les YMCA du Québec, rapport annuel 2007, French edition** [src_ymf_sgw_ymca_annual_report_2007_fr], the Kanawana development pages and the Foundation's list of projects funded in 2007. Read 2026-09-08 under p_487, which was working the records marked "keyword-swept, not read closely": the French editions carry material their English twins do not, and this project had read the English 2007 report for the $5 million framing and the 19% assistance figure without reaching these. See [f_5760].
-46. The YMCAs of Québec, community reports for **2010**, **2011** and **2012** [src_ymf_sgw_ymca_community_report_2010, src_ymf_sgw_ymca_community_report_2011, src_ymf_sgw_ymca_community_report_2012], the Foundation page and the year-in-review timelines, with the French edition of the 2009 annual report [src_ymf_sgw_ymca_annual_report_2009_fr] read alongside. Read 2026-09-08 under p_487. See [f_5780] and [f_5781].
+46. YMCA of Montreal annual report **2008**, English and French editions [src_ymf_sgw_ymca_annual_report_2008, src_ymf_sgw_ymca_annual_report_2008_fr], the section "Camp YMCA Kanawana: Objectives all but met"; and the YMCAs of Québec community reports for **2010**, **2011** and **2012** [src_ymf_sgw_ymca_community_report_2010, src_ymf_sgw_ymca_community_report_2011, src_ymf_sgw_ymca_community_report_2012], the Foundation page and the year-in-review timelines, with the French edition of the 2009 annual report [src_ymf_sgw_ymca_annual_report_2009_fr] read alongside. Read 2026-09-08 under p_487. See [f_5780] and [f_5781].
 ## Research Notes
 
 ### Revision History

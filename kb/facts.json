@@ -1,8 +1,8 @@
 {
-  "version": "11.51",
-  "kb_version": "11.51",
+  "version": "11.52",
+  "kb_version": "11.52",
   "migrated_from": "3.3",
-  "fact_count": 5743,
+  "fact_count": 5744,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103660,6 +103660,25 @@
       "date_ref": "2009-2012",
       "conflicts_with": [],
       "added_version": "11.51",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5782",
+      "claim": "TWO OCCUPANCY FIGURES AND A DATED MIDPOINT FOR THE GREEN-SHIFT CAMPAIGN, FROM A KANAWANA-HEADED SECTION. The association's 2008 report carries a section headed 'Camp YMCA Kanawana: Objectives all but met' (fr: 'objectif atteint ou presque'). TWO THINGS IN IT. (1) MONEY, DATED: 'In DECEMBER, $1.48 MILLION was collected for this unprecedented environmental development project. The results encourage us to continue our efforts and collect the REMAINING $3.5 MILLION to turn this dream into reality.' So a target of about $4.98 million is implied by the association's own arithmetic, which lands inside the $4.4-to-$5-million project-investment band environmental-history.md already records from 2006 and 2007, and above the $4 million campaign target of 2005-06. It also dates the run-up to the $1.8 million in donations the 2009 report reports: $1.48M in December 2008, $1.8M a year later. (2) OCCUPANCY: 'The nature of the project and the quality of the camp's programming explain in part the significant increase in camper registration, which ROSE FROM 80% CAPACITY IN 2007, TO 91% IN 2008.' The French says taux d'occupation, the same measure. Those are the first occupancy percentages this project holds after 1996's 92%, and the only ones for the 2000s. The wiki's occupancy column otherwise runs 1985 at 80%, 1986 at 92.5%, 1987 at 93%, 1988 at 99.2% on a different unit, and 1996 at 92%.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2008",
+        "src_ymf_sgw_ymca_annual_report_2008_fr"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Camp YMCA Kanawana",
+        "occupancy",
+        "green shift"
+      ],
+      "date_ref": "2007-2008",
+      "conflicts_with": [],
+      "added_version": "11.52",
       "added_by": "ralph_loop"
     }
   ]

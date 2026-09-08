@@ -19872,7 +19872,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487. The Kanawana page duplicates the English edition read on 2026-09-06, with ONE stronger wording -- 'pour la premiere fois depuis son ouverture' where the English says only 'this was the first time' -- now cited in programs-activities.md as ^ar96f. Its other absent tokens are the adjacent Tower Run paragraph, not the camp."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1997",
@@ -20286,7 +20286,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "partial",
-      "read_state_basis": "RE-READ 2026-09-08 under p_487 on the four-zone rule; the Endowment Fund page's 31 December 2008 value, distribution and camper-funds language -- f_5770."
+      "read_state_basis": "RE-READ 2026-09-08 under p_487, twice: the Endowment Fund page (f_5770) and the section headed 'Camp YMCA Kanawana: Objectives all but met', which gives $1.48M collected by December 2008 against $3.5M remaining, and occupancy rising from 80% in 2007 to 91% in 2008 (f_5782)."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_2008_fr",
@@ -20304,7 +20304,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487 via scripts/reread/fr_destination_triage.py, whose absent-token list surfaced the 80%/91% occupancy pair and the 1,48 M $ / 3,5 M $ figures. Confirms the English edition; f_5782."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_2009",
