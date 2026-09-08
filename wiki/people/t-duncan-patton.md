@@ -232,7 +232,7 @@ Richardson, Cor. Mem." in 1893, "Robt. D. Richardson" in 1895. So the party rowi
 for a camp site in 1893 was led by the chairman of the YMCA's own committee for the Canadian Northwest,
 in the year Patton was about to arrive in Winnipeg. It also settles a small disagreement between the two
 accounts of that party: Camp Stephens's own page gives **R.D.** Richardson and the Lake of the Woods
-Museum gives R.C. — the contemporaneous printed record gives D, twice [f_4860].^13
+Museum gives R.C. — the contemporaneous printed record gives D, twice [f_4860].^4 ^13
 
 *A lead, and only that:* the same 1895 committee lists **George Fleming of Brandon** beside Richardson
 and John Norris, and one of the five islands is named for a "Mr. Fleming" nobody has identified. Fleming
@@ -334,9 +334,9 @@ neither is obviously wrong.
 
 1. "Brief Autobiographical Sketch of Association Career," August 1919 [src_ia_autobiographical_sketch_1919]. Read in full 2026-08-25. Signature illegible in the OCR; authorship established from internal evidence as set out above.
 2. "Kamp Kanawana History," 1951 [src_ia_kanawana_history_1951], naming the fall-1892 committee.
-3. YMCA of Montreal Annual Reports [src_ia_ymca_montreal_annual_reports_collection].
+3. **Superseded 2026-09-08 and retained to show what it said.** YMCA of Montreal Annual Reports [src_ia_ymca_montreal_annual_reports_collection], the collection-level record. Notes 15, 16 and 17 name the individual reports this article actually rests on — 1890-91, 1891-92 and 1893-94 — which is what a citation to a forty-volume run should do.
 4. Camp Stephens Alumni Blog [src_camp_stephens_alumni_blog], for the Winnipeg camp's later history.
-5. Quebec Anglophone Heritage Network [src_qahn_howard], for the Lake St. Joseph founding context.
+5. *Entered for a passage never written, and kept as a lead.* Quebec Anglophone Heritage Network [src_qahn_howard], on the Lake St. Joseph founding context — the site of the camp Patton's 1892 committee planned. This article follows him to Winnipeg instead; the Lake St. Joseph material is at [[site/camp-otoreke|Camp Otoreke]], which cites QAHN directly.
 6. "The First Team," Wikipedia [src_wikipedia_first_team]. Roster of the eighteen original players, including "Thomas Duncan Patton"; names the captains as "T. B. Patten and C. B. Libby," a garbling discussed above.
 7. Library and Archives Canada, "125 years ago today: the invention of basketball and the Canadian participants in the first ever basketball game," 21 December 2016 [src_lac_first_basketball_game]. "Originally from Montreal… one of the two team captains selected by Naismith for the first game."
 8. "Thomas D. Patton," *The First Basket Ball Players* exhibit [src_omeka_first_basketball_players]. Birth 15 April 1865, Danville, Quebec; death 1 April 1944, Toronto; full YMCA career 1892–1941.

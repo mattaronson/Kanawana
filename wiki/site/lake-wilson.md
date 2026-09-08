@@ -29,9 +29,9 @@ Lake Wilson serves as a destination for overnight camping excursions. Two-week c
 
 > "A short time later Mr. J. W. McConnell purchased the land around Lake Desjardins. This he presented to the Y.M.C.A., and the lake was renamed 'Lake Wilson' after Mr. McConnell's son."
 
-That is a primary in-house document, and it confirms both halves of what this article had held as unverified. The lake **was** formerly Lac Desjardins; it **was** bought and given to the YMCA by J.W. McConnell; and it **was** named for his son — Wilson Griffith McConnell (1908–1966), on the identification argued at [[people/j-w-mcconnell|J.W. McConnell]]. The oral history recorded here was right, and a document independently reached the same account.
+That is a primary in-house document, and it confirms both halves of what this article had held as unverified. The lake **was** formerly Lac Desjardins; it **was** bought and given to the YMCA by J.W. McConnell; and it **was** named for his son — Wilson Griffith McConnell (1908–1966), on the identification argued at [[people/j-w-mcconnell|J.W. McConnell]]. The oral history recorded here was right, and a document independently reached the same account.^7
 
-Two things about how this was missed are worth keeping. The source has been in the knowledge base since July 2026 marked as read; what "read" meant was that a previous pass had quoted the passages it went looking for. And this section previously named the 1933 Dawson history and the 1943 Charlton account as "the most likely sources, but confirmed archive-only" — treating the answer as out of reach while it sat in a cached document nobody had read through.^12
+Two things about how this was missed are worth keeping. The source has been in the knowledge base since July 2026 marked as read; what "read" meant was that a previous pass had quoted the passages it went looking for. And this section previously named the 1933 Dawson history and the 1943 Charlton account as "the most likely sources, but confirmed archive-only" — treating the answer as out of reach while it sat in a cached document nobody had read through.^12 Those two remain unread and remain in Concordia sub-series 12A and 12L, whose box locations are known.^10
 
 ### An outside source says the same thing, and puts a year on it
 
@@ -74,9 +74,9 @@ about one API.
 
 The alternatives previously canvassed here were a pre-existing settler-family name, J.W. McConnell's own middle name ("Wilson," his mother's maiden name), and an unrelated YMCA Wilson. The pattern evidence that favoured a settler origin is real and is retained below, because it explains why the *other* Quebec Lac Wilsons are named as they are — it simply does not govern this one, which has a documented naming of its own.
 
-The Commission de toponymie du Québec has no entry for this specific Lac Wilson, which is consistent with the 1951 account: a private lake renamed by its owner has no reason to enter the official register under either name. A full-text extraction of the complete McMorris thesis (129 pages) found zero mentions of "McConnell" and exactly two trivial mentions of "Wilson" — the thesis is not a source for this question.
+The Commission de toponymie du Québec has no entry for this specific Lac Wilson, which is consistent with the 1951 account: a private lake renamed by its owner has no reason to enter the official register under either name. A full-text extraction of the complete McMorris thesis (129 pages) found zero mentions of "McConnell" and exactly two trivial mentions of "Wilson" — the thesis is not a source for this question.^8
 
-Pattern evidence on comparable toponyms, retained: three further official Quebec "Lac Wilson" entries beyond Sainte-Lucie-des-Laurentides — Brownsburg-Chatham (fiche 451695, named for a landowning family who also built a dam to create the lake), Saint-Théophile (fiche 67250, named for a man named Wilson who built a fishing camp there) and others — all favour settler-family origins in the general case.
+Pattern evidence on comparable toponyms, retained: three further official Quebec "Lac Wilson" entries beyond Sainte-Lucie-des-Laurentides — Brownsburg-Chatham (fiche 451695, named for a landowning family who also built a dam to create the lake), Saint-Théophile (fiche 67250, named for a man named Wilson who built a fishing camp there) and Grenville-sur-la-Rouge (fiche 67246) — all favour settler-family origins in the general case.^9
 
 ## The Dam
 

@@ -8126,3 +8126,14 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
     sgw-concordia-connection 9.
   uncited_sources.py BASELINE 120 -> 110. Remainder is almost all Population A.
   Full verify suite clean; prose_dupes shows only the pre-existing 25-word shared quotation.
+2026-09-08T00:39:49Z
+  p_484 sixth pass -- uncited entries 110 -> 103, 18 articles -> 17. f_5729, KB 11.12 -> 11.13.
+  A SEVENTH THING AN UNCITED ENTRY CAN BE, added to uncited_sources.py as case 6: a SUPERSEDED
+    GENERIC, a collection-level entry a later pass replaced with entries naming the volume.
+    t-duncan-patton 3 (superseded by notes 15-17), j-w-mcconnell 5 (by note 14), camp-perrot 2
+    (by note 8). Legitimately uncited: it is the citation improving, not a defect.
+  Case 1 cleared: lake-wilson 7, 8, 9, 10 and j-w-mcconnell 10, 12 -- all six already stated in
+    the body without their markers.
+  Marked as leads: j-w-mcconnell 11, t-duncan-patton 5.
+  BASELINE 110 -> 103. Eleven of the 103 are now explicitly deliberate. Population B outside those
+    is directors-index 7, attendance-series 7, canoe-trips 8.

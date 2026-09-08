@@ -9,9 +9,9 @@ reverse -- every entry reached by a marker -- was tested by nothing, so an entry
 could sit uncited indefinitely. It was found by hand, following the mechanics
 list in project-docs/spinout-rule.md.
 
-WHY AN UNCITED ENTRY CANNOT BE AUTO-FIXED. It is FIVE quite different things,
-and only reading tells them apart. The first working pass, 2026-09-07, met all
-five inside a dozen articles:
+WHY AN UNCITED ENTRY CANNOT BE AUTO-FIXED. It is SIX quite different things,
+and only reading tells them apart. The first working pass, 2026-09-07, met the
+first five inside a dozen articles; the sixth turned up on 2026-09-08:
 
   1. A citation LOST or never applied, so some claim in the article is now
      unsourced and the entry is the evidence that it once was not. FIX: mark the
@@ -30,9 +30,17 @@ five inside a dozen articles:
      to a lead not yet consulted. LEGITIMATELY UNCITED. (wallace-forgie 5 and 6
      point at a cache path and at conflict c_069; edgar-smee 8 is "Concordia
      University Archives... Potential staff records," a lead.)
+  6. A SUPERSEDED GENERIC -- a collection-level entry ("YMCA of Montreal Annual
+     Reports", "Fong's biography, borrowable") that a later pass replaced with
+     entries naming the individual volume or the passage actually recovered.
+     LEGITIMATELY UNCITED, and the opposite of a defect: it is the citation
+     improving. FIX: say in the entry that it was superseded and by which note.
+     Do not delete it and do not force a marker onto it. (t-duncan-patton 3,
+     superseded by notes 15-17; j-w-mcconnell 5 by note 14; camp-perrot 2 by
+     note 8. Found 2026-09-08, f_5729.)
 
 Deleting all of them would risk (1); keeping all of them guarantees (2) and (3);
-forcing a marker onto (4) or (5) would assert a provenance that does not exist.
+forcing a marker onto (4), (5) or (6) would assert a provenance that does not exist.
 So this reports and NEVER fixes, and the count will never reach zero -- some of
 these entries are supposed to be here.
 
@@ -60,7 +68,7 @@ found 136 uncited entries across 34 articles -- places-and-locations.md alone
 has 28 entries and cites 9 of them. That is a backlog, and a blocking check
 against a backlog trains everyone to ignore the output. Queued as p_484; make
 this blocking when it clears. The first passes took it to 124 across 25, and the
-2026-09-08 passes to 110 across 18.
+2026-09-08 passes to 103 across 17.
 
 WHAT IT DOES CATCH TODAY is the number going UP, which means an edit stranded
 something.
@@ -76,7 +84,7 @@ import os
 import re
 import sys
 
-BASELINE = 110          # whole-wiki count after the 2026-09-08 p_484 passes
+BASELINE = 103          # whole-wiki count after the 2026-09-08 p_484 passes
 #                         (was 136 when this check was written, the same day)
 
 

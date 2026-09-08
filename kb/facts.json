@@ -1,8 +1,8 @@
 {
-  "version": "11.12",
-  "kb_version": "11.12",
+  "version": "11.13",
+  "kb_version": "11.13",
   "migrated_from": "3.3",
-  "fact_count": 5690,
+  "fact_count": 5691,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102618,6 +102618,23 @@
       "date_ref": "2026-09-08",
       "conflicts_with": [],
       "added_version": "11.12",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5729",
+      "claim": "p_484 SIXTH PASS: 110 UNCITED ENTRIES TO 103, AND THE FLOOR IS NOW VISIBLE. lake-wilson 7, 8, 9 and 10 were all case 1: the oral history the article says was right, the McMorris null the article states in a sentence, the three comparable Quebec Lac Wilson fiches the article lists by number, and the Dawson 1933 and Charlton 1943 box locations -- every one of them written into the body already and none of them carrying its marker. j-w-mcconnell 10 and 12 the same. THE OTHER SIX WERE SUPERSEDED GENERICS, WHICH IS A SEVENTH THING AN UNCITED ENTRY CAN BE and was not on the list. j-w-mcconnell 5 is the bare Fong book record, listed as a lead for two years and superseded by note 14, the passage actually recovered from it; t-duncan-patton 3 is 'YMCA of Montreal Annual Reports', the collection-level record, superseded by notes 15, 16 and 17 naming the three individual reports the article rests on; camp-perrot 2 the same shape against note 8. A COLLECTION-LEVEL ENTRY GOES UNCITED BECAUSE SOMEBODY LATER DID THE WORK OF NAMING THE VOLUME, which is the opposite of a defect -- it is the citation improving -- and the right treatment is to say in the entry that it was superseded and by which note, not to delete it and not to force a marker onto it. j-w-mcconnell 11 and t-duncan-patton 5 are ordinary category-5 leads and are marked so. THE FLOOR: of the 103 remaining, eleven are now explicitly marked as deliberately uncited, and Population B outside those is down to three articles -- directors-index 7, attendance-series 7, canoe-trips 8. The rest, 62 entries in five articles, is Population A, which is bibliographies predating the inline-marker convention and an editorial project rather than a cleanup.",
+      "sources": [],
+      "confidence": "stated",
+      "category": "project_method",
+      "entities": [
+        "p_484",
+        "lake-wilson",
+        "j-w-mcconnell",
+        "t-duncan-patton"
+      ],
+      "date_ref": "2026-09-08",
+      "conflicts_with": [],
+      "added_version": "11.13",
       "added_by": "manual"
     }
   ]
