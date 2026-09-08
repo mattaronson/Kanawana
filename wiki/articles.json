@@ -1915,7 +1915,7 @@
         "geoffrey-guiton"
       ],
       "file_id": null,
-      "word_count": 30915,
+      "word_count": 28104,
       "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article. | 2026-07-11: Added wiki-links to Gary White, David Leduc, Kate Taylor, Marie-Pierre Lacasse table rows and Related Articles, pointing to new standalone institutional-role-director articles. | 2026-07-11: Added wiki-links to Greig Macdiarmid, Francois Dauphin, Nicolas Garcia, Morgan Carter, Arleen Boyer, Justin Caldwell (Two-Tier Era + Staff by Era tables) and Matt/Dan Aronson (Related Articles), per the operator's revised C5 policy.",
       "tags": {
         "era": [
@@ -12310,7 +12310,59 @@
         "canadian-camping-movement"
       ],
       "file_id": null,
-      "word_count": 1469
+      "word_count": 1475
+    },
+    {
+      "article_id": "boys-work-secretaries",
+      "title": "Montreal's Boys' Work Secretaries, 1900–1923",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-09-08T00:30:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [
+        "f_5282",
+        "f_5283",
+        "f_5284",
+        "f_5285",
+        "f_5323",
+        "f_5324",
+        "f_5325",
+        "f_5326",
+        "f_5329",
+        "f_5330",
+        "f_5331"
+      ],
+      "sources_cited": [
+        "src_umedia_ymca_yearbook_series",
+        "src_delta_tau_delta_catalogue_1917",
+        "src_educational_activities_for_boys_1907",
+        "src_cache_sgw_ymca_annual_report_1910",
+        "src_ymf_sgw_ymca_annual_report_1913",
+        "src_ymf_sgw_ymca_annual_report_1914",
+        "src_ymf_sgw_ymca_annual_report_1942",
+        "src_ymf_sgw_ymca_annual_report_1946",
+        "src_ymf_sgw_ymca_annual_report_1948",
+        "src_brochure_1922",
+        "src_ymf_1922_1923_ymca_north_branch_brochure"
+      ],
+      "open_questions": 5,
+      "cross_links": [
+        "people/directors-index",
+        "people/w-j-holliday",
+        "people/geoffrey-guiton",
+        "people/harold-cross",
+        "history/founding-1894",
+        "history/wartime-kanawana"
+      ],
+      "file_id": null,
+      "word_count": 3156
     },
     {
       "article_id": "wallace-forgie",
@@ -12573,7 +12625,7 @@
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 2367,
+      "word_count": 2373,
       "notes": "Created 2026-09-07 by a p_452 spinout from people/directors-index.md, where 1,143 words about Holliday had accumulated under a heading naming the research episode rather than the man. Entered as draft per project-docs/spinout-rule.md: the prose was reviewed in the index, the structure was not."
     },
     {
@@ -12689,5 +12741,5 @@
       "word_count": 1795
     }
   ],
-  "article_count": 126
+  "article_count": 127
 }

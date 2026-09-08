@@ -67,6 +67,7 @@ a Mr. Holliday in charge of it in 1916 than a stranger.
 
 ## Related Articles
 
+- [[people/boys-work-secretaries|Montreal's Boys' Work Secretaries, 1900–1923]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]] — the index this article was separated from
 - [[history/founding-1894|Founding of Camp Kanawana (1894)]]
 - [[site/the-kanawana-site|The Kanawana Site]] — the Lac Wilson site he opened in 1910

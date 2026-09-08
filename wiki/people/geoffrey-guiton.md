@@ -114,6 +114,7 @@ above is a search highlight.^7
 
 ## Related Articles
 
+- [[people/boys-work-secretaries|Montreal's Boys' Work Secretaries, 1900–1923]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[history/founding-1894|The Founding of Camp Kanawana]]
 - [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]
