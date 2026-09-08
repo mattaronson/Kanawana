@@ -38,7 +38,13 @@ DEFAULT_GLOB = "sources/cache/ymca-montreal-fonds/*.txt"
 def loose(name: str) -> re.Pattern:
     """A pattern matching the name across any OCR line break or hyphenation."""
     parts = [re.escape(c) for c in name if not c.isspace()]
-    return re.compile(r"\s*-?\s*".join(parts), re.I)
+    # Word boundaries matter more than they look. Without them "Ball" matches
+    # inside "basketball", "football" and "Ballantyne", and the first run of this
+    # tool reported 1,253 hits for it across ninety-two reports (f_5749). \b is
+    # no good here because a hyphenated break puts a non-word character inside
+    # the name, so the boundary is asserted only at the two ends.
+    return re.compile(r"(?<![A-Za-z])" + r"\s*-?\s*".join(parts) + r"(?![A-Za-z])",
+                      re.I)
 
 
 def main() -> int:

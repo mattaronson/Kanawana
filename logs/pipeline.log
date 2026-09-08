@@ -8276,3 +8276,19 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   Over-read caught before commit: "On August 1st" opens a four-transfer paragraph and may govern only
     the first; the year is dated in the article and the day is not.
   NEW TOOL: scripts/reread/name_search.py, hyphenation-tolerant, with --hyphen-only.
+2026-09-08T01:30:50Z
+  p_490 fifth pass -- re-ran the four remaining declared nulls through the new tool. f_5749, f_5750.
+  KB 11.23 -> 11.25.
+  BILLY BALL: the 1902 report has him resigning for the PROSPECT PARK BRANCH OF THE BROOKLYN
+    ASSOCIATION, succeeded by J. E. Merritt from that same branch; calls him "the Association's first
+    Physical Director" and gives "the past ten years". First documented destination for him, and it
+    CORRECTS directors-index, which had listed the Brooklyn W. H. Ball among "three other men".
+    Same paragraph: John Roy, the camp's first named director, leaving 1 September for Springfield.
+  DAWSON: the camp committee chairman who resigned after NINETEEN YEARS in 1931 is R. H. DAWSON,
+    named plainly in the 1924, 1926, 1927, 1929 and 1930 reports. About 1912-13 to 1931 -- the
+    longest documented tenure in any single Kanawana role, and invisible to a directors index
+    because it is a committee chairmanship. Whether he is "Ralph Dawson" is NOT settled; three other
+    Dawsons are in the record, and "Mrs. Ralph Dawson" appears in the 1910 auxiliary list.
+  Charlton and Cushing return only board-election and family mentions. Those nulls stand, now tested.
+  TOOL DEFECT caught on first real run: no word boundaries, so "Ball" matched inside "basketball"
+    and returned 1,253 hits. Boundaries added at the two ends only.

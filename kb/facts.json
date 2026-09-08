@@ -1,8 +1,8 @@
 {
-  "version": "11.23",
-  "kb_version": "11.23",
+  "version": "11.25",
+  "kb_version": "11.25",
   "migrated_from": "3.3",
-  "fact_count": 5710,
+  "fact_count": 5712,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102963,6 +102963,49 @@
       "date_ref": "1935/1940",
       "conflicts_with": [],
       "added_version": "11.23",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5749",
+      "claim": "BILLY BALL RESIGNED FOR BROOKLYN, AND THE WIKI HAD ALREADY DECIDED THAT WAS A DIFFERENT MAN. The YMCA of Montreal's fifty-first annual report, for the year ending 30 April 1902, under The Staff: 'Mr. W. H. Ball, THE ASSOCIATION'S FIRST PHYSICAL DIRECTOR, who rendered such helpful service during THE PAST TEN YEARS in directing the Physical training and development of the members, RESIGNED AND ACCEPTED A SIMILAR POSITION WITH THE PROSPECT PARK BRANCH OF THE BROOKLYN ASSOCIATION. He was succeeded by Mr. J. E. Merritt, FROM THE SAME BRANCH of the Brooklyn Association.' Four things: Montreal calls him its first Physical Director in its own voice; 'the past ten years' puts his start about 1892; he has a documented destination for the first time; and his successor came the other way out of the same branch, a straight exchange between two associations. THE CORRECTION IS THE PART THAT MATTERS. people/directors-index.md, tracing him through the Year Book, warned that an exact-phrase search for 'W. H. Ball' returns forty-four pages and that the hits in 1902 and after are 'three OTHER men -- a W. H. Ball at Brooklyn's Prospect Park Branch, one at Springfield, and one who is Detroit's Physical Director.' THE BROOKLYN ONE IS NOT ANOTHER MAN. He is Montreal's, in the post Montreal's own report says he took, in the year it says he took it. A caution about a common surname, correct in general, had thrown away the one hit that was him. Corrected in both articles; the caution stands for Springfield and Detroit. AND THE SAME PARAGRAPH MOVES THE CAMP'S FIRST NAMED DIRECTOR: 'Mr. John Roy, who has had charge of the Membership, Social and Employment work, expects to leave on Sept. 1st, to enter the Association Training School, Springfield, Mass.' John Roy directed the camp in 1901 and left for Springfield in September 1902 -- the school Ball had come from. It does not settle whether Roy and John W. Ross are two men (billy-ball.md's Open Question 8) but it gives the Roy half a documented departure.",
+      "sources": [
+        "src_cache_sgw_ymca_annual_report_1902"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Billy Ball",
+        "John Roy",
+        "J. E. Merritt"
+      ],
+      "date_ref": "1902",
+      "conflicts_with": [],
+      "added_version": "11.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5750",
+      "claim": "THE KANAWANA COMMITTEE CHAIRMAN OF 1912/13-1931 IS R. H. DAWSON, NAMED IN SIX REPORTS, AND THAT IS AS FAR AS 'RALPH DAWSON' GOES. The 1932 report records that at the close of the 1931 season 'the CHAIRMAN OF THE COMMITTEE, MR. R... DAWSON, TENDERED HIS RESIGNATION AFTER NINETEEN YEARS OF SERVICE ON THE COMMITTEE. His fine contribution to the Boys' Camp was recognized by the Metropolitan Board AT A DINNER GIVEN IN HIS HONOR.' The given name is illegible there, but it does not need to be: the reports name him plainly elsewhere. 1924 -- the camp 'open under the direction of Mr. R. E. G. Davis, backed by an efficient Committee under the CHAIRMANSHIP OF MR. R. H. DAWSON'; 1926 -- 'PERMANENT CAMP: R. H. Dawson, J. K. McNutt'; 1927 -- 'The Camp Committee, WITH MR. R. H. DAWSON AS CHAIRMAN, did excellent work'; and the 1929 and 1930 reports print 'R. H. Dawson, Chairman' in the margin beside the camp director of the year. NINETEEN YEARS BACK FROM 1931 IS ABOUT 1912-13, which makes this the longest documented tenure in any single Kanawana role -- and it is a committee chairmanship, not a directorship, so it never appeared in a directors index built from camp staff. RALPH DAWSON IS ONE OF PHASE 2'S NAMED TARGETS and this project had him only as the author of a 1933 'History of Kamp Kanawana', a face in an 1898 Camp Jubilee photograph, and McMorris's reading of him as an alumnus rather than a director or committee member. THE JOIN IS NOT MADE. The reports give R. H. and never a given name; McMorris's reading points away from a committee role; and the association's record holds at least three other Dawsons -- Dr. A. O. DAWSON, its president in 1920-21 and a $10,000 conditional donor in the 1934 campaign; ARTHUR B. DAWSON, assistant physical director about 1902-04; and REGINALD DAWSON on a branch committee in 1930. ONE THING POINTS THE OTHER WAY AND IS WRITTEN DOWN RATHER THAN USED: the 1910 report lists 'MRS. RALPH DAWSON' as Junior governor among the Ladies' Auxiliary committees, so a Ralph Dawson is in the association's orbit two or three years before R. H. Dawson takes the camp committee. A wife's name in an auxiliary list is a lead, not a join.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1932",
+        "src_ymf_sgw_ymca_annual_report_1924",
+        "src_ymf_sgw_ymca_annual_report_1926",
+        "src_ymf_sgw_ymca_annual_report_1927",
+        "src_ymf_sgw_ymca_annual_report_1929",
+        "src_cache_sgw_ymca_annual_report_1930",
+        "src_cache_sgw_ymca_annual_report_1910"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "R. H. Dawson",
+        "Ralph Dawson",
+        "A. O. Dawson",
+        "Arthur B. Dawson"
+      ],
+      "date_ref": "1912/13-1931",
+      "conflicts_with": [],
+      "added_version": "11.24",
       "added_by": "ralph_loop"
     }
   ]

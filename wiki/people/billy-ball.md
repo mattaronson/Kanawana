@@ -1,7 +1,7 @@
 # Billy Ball
 
-*Status: E1-reviewed | Sources: 17*
-*Last Updated: 2026-09-06 (he entered Association work in 1889, and he is still Physical Director in 1899)*
+*Status: E1-reviewed | Sources: 18*
+*Last Updated: 2026-09-08 (he resigned for Brooklyn's Prospect Park Branch in 1901-02)*
 
 ## Overview
 
@@ -63,6 +63,46 @@ At the other end, the same volume still lists him as **Physical Director of the 
 
 <!-- CORRECTION, 2026-09-06, within the hour. This paragraph first said the 1900 volume "would narrow that by a year and it cannot be read: it is bound into the same scan as the 1899 one, its OCR is far worse, and the alphabetical list breaks in the B's exactly where his name falls. That silence is the scanner's, not his." The silence was mine. The Year Book lists staff twice, in an alphabetical list and in a branch directory by city; only the alphabetical list is degraded, and the branch directory -- which had not been looked at -- prints his name cleanly. See f_4979. -->
 
+## Where he went, and what the association called him
+
+**The Montreal association's own report says he resigned, why, and where to.** The fifty-first annual
+report, for the year ending **30 April 1902**, under *The Staff*: "The following changes were made on the
+staff during the year. **Mr. W. H. Ball, the Association's first Physical Director**, who rendered such
+helpful service **during the past ten years** in directing the Physical training and development of the
+members, **resigned and accepted a similar position with the Prospect Park Branch of the Brooklyn
+Association**. He was **succeeded by Mr. J. E. Merritt, from the same Branch of the Brooklyn
+Association**, who has continued on the work most acceptably."^18
+
+Four things, and one correction to another article.
+
+**"The Association's first Physical Director."** Montreal says it in its own voice, which this project had
+only by inference from the rosters.
+
+**"The past ten years"**, written in a report covering the year to April 1902, puts his start about 1892 —
+consistent with the 1890-91 report announcing his engagement and the 1892 *Year Book* calling him "a new
+man, from the Springfield Training School."
+
+**He went to Brooklyn**, to the **Prospect Park Branch**, and his successor came the other way out of the
+same branch. That is a straight exchange between two associations, and it is the first documented
+destination this project has ever had for him. *It is also the lead his Open Question 4 needs*: a
+Brooklyn association's own records, city directories and press for 1902 onward are a searchable place for
+the Montreal-era detail and the dates that are still missing.
+
+**AND IT CORRECTS [[people/directors-index|the directors index]].** That article, tracing him through the
+*Year Book*, warns that "an exact-phrase search for 'W. H. Ball' returns forty-four pages across the
+series, and the hits in 1902, 1904-05, 1905-06 and 1906-07 are three *other* men — **a W. H. Ball at
+Brooklyn's Prospect Park Branch**, one at Springfield, and one who is Detroit's Physical Director." The
+Brooklyn one is not another man. **He is this one**, in the post Montreal's report says he took, in the
+year it says he took it. The warning about following a common name was right in general and wrong about
+this hit, and the index now says so.
+
+*And the same paragraph moves the camp's first named director.* "**Mr. John Roy**, who has had charge of
+the Membership, Social and Employment work, **expects to leave on Sept. 1st, to enter the Association
+Training School, Springfield, Mass.**"^18 John Roy is this wiki's earliest identified camp director, for
+**1901**; so he ran the camp and then left for Springfield the following September — the same school Ball
+had come from. Open Question 8 below asks whether he is a different man from John W. Ross, and this does
+not answer that, but it gives the Roy half of it a documented departure and a destination.
+
 ## Open Questions
 
 1. ~~[Critical] What was Billy Ball's full name? Only referenced as "Billy" Ball.~~ [Largely resolved] Strongly corroborated as William Henry Ball, though no period document uses the "Billy" nickname itself.
@@ -102,6 +142,7 @@ At the other end, the same volume still lists him as **Physical Director of the 
 16. *Year Book and Official Roster of the Young Men's Christian Associations of North America*, the volumes for **1891** and **1892** [src_ymca_yearbook_1891, src_ymca_yearbook_1892]. **Neither is lending-restricted**: both djvu texts were downloaded whole and searched 2026-09-06, and "Kanawana" occurs in neither. The Quebec narrative report, both Montreal rosters and what they do and do not establish are cached at `sources/cache/ymca-yearbooks/1891-1892-ymca-year-book-ball-springfield.txt`. See [f_4969].
 
 17. *Year Book of the Young Men's Christian Associations of North America*, the volume **for 1899** [src_ymca_yearbook_1899]. **Not lending-restricted**; downloaded and searched 2026-09-06. Gives the Montreal branch directory ("Phys. Director, W. H. Ball, Jr.") and the alphabetical list of paid officers with its entry-year legend. The list's OCR renders the surname "BiUl"; it is read as Ball because it sits between "Ball, W. D., Los Angeles" and "Ballantine", where a name spelled Bill would sort two hundred entries later, and because the branch directory prints it cleanly. **The 1900 volume is bound into the same scan and is not named by its catalogue record** [src_ymca_yearbook_1900]; its Montreal roster could not be read. Cached at `sources/cache/ymca-yearbooks/1899-1900-ymca-year-book-montreal-roster.txt`. See [f_4976], [f_4977].
+18. YMCA of Montreal, **Fifty-first Annual Report**, for the year ending **30 April 1902** [src_cache_sgw_ymca_annual_report_1902], the section headed *The Staff*. Ball's resignation for the Prospect Park Branch of the Brooklyn Association, J. E. Merritt's arrival from the same branch, and John Roy's departure for Springfield on 1 September. Read 2026-09-08 under p_490 with a hyphenation-tolerant search; the priority's finding aid had listed Ball among the names returning nothing. See [f_5749].
 ## Research Notes
 
 <!-- R1 RALPH loop completed 2026-02-14. Exhaustive web research: 20+ searches across YMCA archives, genealogy databases, Dictionary of Canadian Biography, Montreal city directories, BAnQ, Internet Archive. Billy Ball has virtually no biographical footprint. Key contextual discoveries: (1) Camp Jubilee renamed Camp Otoreke 1909, operated until 1982. (2) D.A. Budge bio confirmed (1851-1933, Newmarket ON, Gen Sec 1874-1913). (3) 1893 St. Agathe exploration journal in Concordia Archives predates Ball's 1894 trip. (4) William Ball 1910 swimming instructor may be same person. Research SATURATED for online sources. Physical archives (Concordia 12L, McGill Budge collection, 1895 Summer Camp journal) are the only path to Ball's identity. -->
