@@ -1,11 +1,11 @@
 # The Green Triangle
 
-*Status: draft | Sources: 17*
-*Last Updated: 2026-09-07 (the four issues the run-wide read missed, read and written up)*
+*Status: draft | Sources: 18*
+*Last Updated: 2026-09-08 (four issues in 1975, from the camp's own promotion report)*
 
 ## Overview
 
-The Green Triangle was Camp Kanawana's campers' newsletter, published from 1932 to at least 1940 and revived intermittently through 1982. Beyond the publication itself, "Green Triangle" also named a coveted camper achievement award and served more broadly as a symbolic identity marker for the camp, referenced even in the modern-era Kanawana marching cheer. 38 digitized issues spanning 1932–1982, held on Internet Archive, were discovered in 2026-07 research, correcting an earlier assumption that only a single 1938 issue survived online.
+The Green Triangle was Camp Kanawana's campers' newsletter, published from 1932 to at least 1940 and revived intermittently through 1982. **One year of that revival is now dated from the camp's own pen**: the 1975 director's report, listing the season's promotion programme, says "the kamp's **bi-monthly newspaper 'The Green Triangle' had four issues**," and that **Kanawana postcards were included with one of them**.^18 That is a harder statement of the paper's later life than this article had — a stated frequency, a stated count, and an insert — though none of those four issues is among the 38 digitized. [f_5815] Beyond the publication itself, "Green Triangle" also named a coveted camper achievement award and served more broadly as a symbolic identity marker for the camp, referenced even in the modern-era Kanawana marching cheer. 38 digitized issues spanning 1932–1982, held on Internet Archive, were discovered in 2026-07 research, correcting an earlier assumption that only a single 1938 issue survived online.
 
 ## The Full Run, Read (2026-08-25)
 
@@ -318,6 +318,7 @@ directing the Senior Section from an armchair on the Lookout veranda in the issu
 15. *The Green Triangle*, **13 August 1936** (the "Marois Issue"), **1** and **29 July 1939**, **4** and **22 August 1940** [src_ymf_the_green_triangle_1936_08_13, src_ymf_the_green_triangle_1939_07_01, src_ymf_the_green_triangle_1939_07_29, src_ymf_the_green_triangle_1940_08_04, src_ymf_the_green_triangle_1940_08_22]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. ~~With these the whole digitized 1932–1982 run has been read.~~ **Not with these: four issues were still unread when that was written. See entry 16.**
 16. *The Green Triangle*, **17 August 1935**, **30 March 1937** (the Spring Issue), **22 July 1939** and **27 June 1940** [src_ymf_the_green_triangle_1935_08_17, src_ymf_the_green_triangle_1937_03_30, src_ymf_the_green_triangle_1939_07_22, src_ymf_the_green_triangle_1940_06_27]. Cached under `sources/cache/ymca-montreal-fonds/`. **These are the four the p_482 read missed**; read word for word 2026-09-07. See [f_5591] for why they were missed, and [f_5592] through [f_5599] for what they held.
 17. YMCA of Montreal annual report for **1938**, the staff-changes and fellowships section [src_ymf_sgw_ymca_annual_report_1938]. Held at read_state *partial* — its camps section had been read and its staff section had not; read 2026-09-07. See [f_5620].
+18. *Kamp Kanawana Director's Report 1975* [src_ia_kanawana_report_1975], its PROMOTION section. Read 2026-09-08 under p_441. See [f_5815].
 
 ## Research Notes
 

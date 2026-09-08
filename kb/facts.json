@@ -1,8 +1,8 @@
 {
-  "version": "11.75",
-  "kb_version": "11.75",
+  "version": "11.77",
+  "kb_version": "11.77",
   "migrated_from": "3.3",
-  "fact_count": 5775,
+  "fact_count": 5778,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -104282,6 +104282,63 @@
       "date_ref": "1975",
       "conflicts_with": [],
       "added_version": "11.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5814",
+      "claim": "WHAT THE CAMPERS THEMSELVES SAID THEY LIKED, 1974 AND 1975, IN ORDER. The 1975 director's report closes with 'RESULTS OF KAMPER QUESTIONNAIRE -- In Order of Popularity', two ranked lists. 1974: CANOEING, Arts & Crafts, CANOE TRIPS, Swimming, Sailing, Campfires, Hikes, Archery, FREE PERIODS, Boating, All Camp Programs, Nature Lore, Projects, Fishing, Diving, Snorkeling -- sixteen. 1975: ARTS & CRAFTS, Canoeing, Sailing, Swimming, DANCES, JAZZ BALLET, Campfires, Snorkeling, Hikes, Archery, CANOE TRIPS, Gunwaling ['Gunelling' in the scan], Orienteering, Kamp Kraft, Diving, Boating, LUMBERMEN-VOYAGEURS, Music, KLONDIKE DAY, Drama, GREEN TRIANGLE, Cook-outs -- twenty-two. THIS IS THE CAMPERS' OWN VOICE ON PROGRAMME AND THIS PROJECT HAD NONE OF IT. Everything else here on what the camp was for comes from directors, the association, or parents. FOUR THINGS IN THE MOVEMENT BETWEEN THE TWO YEARS. (1) ARTS & CRAFTS OVERTAKES CANOEING for first place, in a camp whose identity this wiki writes in canoes. (2) CANOE TRIPS FALL FROM THIRD TO ELEVENTH -- the single largest move on the list, and it happens in the year the Hike & Trip department was rebuilt under a new director (f_5813). (3) THE 1975 LIST IS HALF AS LONG AGAIN AND THE ADDITIONS ARE NAMED EVENTS -- Lumbermen-Voyageurs, Klondike Day, the Green Triangle banquet, Dances, Jazz Ballet -- so the campers were being asked about, or were volunteering, the special-programme culture that f_5798 and f_5805 document from the directors' side. (4) 'FREE PERIODS' RANKS NINTH IN 1974 AND VANISHES IN 1975, which may be a change in the question rather than in the campers. The two column headers are printed '25.' and '27' above the year labels in the scan and are not interpreted here.",
+      "sources": [
+        "src_ia_kanawana_report_1975"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "kamper questionnaire",
+        "Arts and Crafts",
+        "canoe trips",
+        "Klondike Day"
+      ],
+      "date_ref": "1974-1975",
+      "conflicts_with": [],
+      "added_version": "11.76",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5815",
+      "claim": "THE GREEN TRIANGLE RAN FOUR ISSUES IN 1975, AND THE CAMP'S PROMOTION THAT YEAR WAS A TWELVE-ITEM PROGRAMME. The 1975 director's report sets out 'the promotion program for the 1975 season' in full: a NEW BROCHURE for Kanawana, Les Voyageurs and the C.I.T. programme covering all the Montreal Y's camp programmes, '3,200 were distributed or mailed with the balance of the 7,000 produced to be used for 1976'; the Kanawana Director interviewed ON CBC RADIO and in the MONTREAL STAR AND GAZETTE on behalf of the QUEBEC CAMPING ASSOCIATION; KANAWANA DECALS given to all registered kampers with their information booklets; 'the kamp's BI-MONTHLY NEWSPAPER THE GREEN TRIANGLE had FOUR ISSUES'; KANAWANA POSTCARDS included with one of those issues; 'the KANAWANA CARTOON MAP idea was RESURRECTED and copies were given to all'; KANAWANA CHRISTMAS CARDS sent to former kampers of the last three years; 'A KAMP KANAWANA REUNION was held IN MARCH with attendance by OVER 200 KANAWANIANS'; brochures distributed AT EATON'S through the Y's P.R. Department; advertisements in local newspapers and the Gazette and Star; and brochures in all branches of the Montreal Y. THE GREEN TRIANGLE LINE IS THE IMPORTANT ONE. documents/green-triangle.md holds 38 digitized issues, dense across 1932-1940 and then stopping, with 'revived intermittently through 1982' resting on thin evidence. THIS DATES A FOUR-ISSUE 1975 RUN AND CALLS THE PAPER BI-MONTHLY, from the camp's own report, which is a harder statement of the revival than the article has. AND THE MARCH REUNION OF OVER 200 is an off-season alumni event three years before the Kanawana Day at Olympic Stadium of 1978 (f_5798), so the camp was gathering its alumni in numbers well before that.",
+      "sources": [
+        "src_ia_kanawana_report_1975"
+      ],
+      "confidence": "stated",
+      "category": "media",
+      "entities": [
+        "The Green Triangle",
+        "promotion",
+        "Kanawana reunion",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1975",
+      "conflicts_with": [],
+      "added_version": "11.77",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5816",
+      "claim": "A HOT SUMMER RAISED THE LAKE'S BACTERIA COUNT IN 1975, AND THE GIRLS' SECTION STILL HAD NO SEPTIC FIELD. The 1975 director's report, HEALTH & SAFETY: 'Due to our exceptionally warm weather this summer, THE WATER LEVEL OF THE LAKE WAS DOWN ABOUT ONE FOOT and the WATER TEMPERATURE WAS UP ABOUT 5 DEGREES F. These factors caused A GREAT INCREASE IN THE BACTERIA COUNT OF OUR LAKE WATER. Consequently, we experienced MANY COLDS, SORE THROATS AND EAR ACHES, etc. I should add that our Nurse, MRS. DIANE GRAY, did an admirable job in coping with the many patients at our infirmary.' AND PHYSICAL SITE: work done that summer -- replacing the Junior Waterfront, the wash areas and the 'carwash' system, rebuilding the walk-in fridge, refinishing and painting the lodge and staff lounge -- and then 'there are numerous other pieces of work required before next summer. SOME OF THESE ARE URGENTLY NEEDED (i.e. SEPTIC FIELD - GIRLS SECTION)'. TWO CONNECTIONS. traditions/environmental-history.md has a Lake Monitoring section and the camp's later composting-toilet programme; this is a DATED WATER-QUALITY EVENT with a stated mechanism -- low water plus high temperature -- and a measured health consequence, six years before the camp's own erosion reckoning of 1970 was followed up. AND history/coeducation-gender.md establishes from the 1969-70 reports that coeducation was added to the site without the support facilities to carry it, sanitation included. HERE IS 1975 AND THE GIRLS' SECTION SEPTIC FIELD IS STILL ON THE URGENT LIST, six years after the girls arrived.",
+      "sources": [
+        "src_ia_kanawana_report_1975"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "lake water quality",
+        "Diane Gray",
+        "septic field",
+        "girls section"
+      ],
+      "date_ref": "1975",
+      "conflicts_with": [],
+      "added_version": "11.77",
       "added_by": "ralph_loop"
     }
   ]

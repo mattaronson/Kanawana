@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-09-08 (the 1987 farm programme; the cords and the Mile Swim; nineteen groups using the site in 1978)*
+*Last Updated: 2026-09-08 (what the campers said they liked, 1974-75; the 1987 farm programme)*
 
 ## Overview
 
@@ -532,6 +532,27 @@ whom a month proved too long.
 A separate line in the same list would have ended a long-standing fixture: "That we **discontinue
 visitors days** during camp for parents and friends." Whether either was adopted is not established
 here.^kk70 [f_5683]
+
+### What the campers said they liked, 1974 and 1975
+
+Everything else in this article about what the camp was *for* comes from directors, from the association, or
+from parents. The 1975 report closes with the other side of it: "**Results of Kamper Questionnaire — In Order
+of Popularity**," two ranked lists.^kk75
+
+**1974**, sixteen items: **Canoeing**, Arts & Crafts, **Canoe Trips**, Swimming, Sailing, Campfires, Hikes,
+Archery, **Free Periods**, Boating, All Camp Programs, Nature Lore, Projects, Fishing, Diving, Snorkeling.
+
+**1975**, twenty-two: **Arts & Crafts**, Canoeing, Sailing, Swimming, **Dances**, **Jazz Ballet**, Campfires,
+Snorkeling, Hikes, Archery, **Canoe Trips**, Gunwaling, Orienteering, Kamp Kraft, Diving, Boating,
+**Lumbermen–Voyageurs**, Music, **Klondike Day**, Drama, **Green Triangle**, Cook-outs.
+
+*Four things move between the two years.* **Arts & Crafts overtakes canoeing for first place**, in a camp
+whose identity this wiki writes in canoes. **Canoe trips fall from third to eleventh** — the largest single
+move on the list, and it happens in the very year the Hike & Trip department was rebuilt under a new director.
+**The 1975 list is half as long again, and the additions are named events** — the Lumbermen–Voyageurs, Klondike
+Day, the Green Triangle banquet, Dances, Jazz Ballet — so the campers were ranking the special-programme
+culture this article documents from the directors' side. And **"Free Periods" ranks ninth in 1974 and vanishes
+in 1975**, which may be a change in the question rather than in the campers. [f_5814]
 
 **In 1987 the camp tried to treat it with animals.** Jay Netherwood's director's report for that year, under
 *Farm Program*: "**Horses, sheep, goats, rabbits and chickens** shared their summer with our campers **for the

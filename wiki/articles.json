@@ -1321,7 +1321,7 @@
         "french-language-camping"
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-      "word_count": 17688,
+      "word_count": 17916,
       "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, renamed the orphaned 'R3 Verification Notes' H2 to the standard 'Research Notes' heading and condensed its bullet list into a single HTML-comment process-log entry. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -7209,7 +7209,8 @@
         "src_ymf_sgw_ymca_annual_report_2009_fr",
         "src_ymf_sgw_ymca_annual_report_2008",
         "src_ymf_sgw_ymca_annual_report_2008_fr",
-        "src_cache_1988_kanawana_a_place_to_grow_report"
+        "src_cache_1988_kanawana_a_place_to_grow_report",
+        "src_ia_kanawana_report_1975"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -7226,7 +7227,7 @@
         "acid-rain"
       ],
       "file_id": null,
-      "word_count": 8534,
+      "word_count": 8761,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical; fixed a genuine citation-numbering bug where the Sources list had two entries each numbered '17.' and '22.' (disambiguated as 17b./22b., three inline markers corrected to point at the right one). No facts, source content, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -9621,7 +9622,8 @@
         "src_ymf_the_green_triangle_1937_03_30",
         "src_ymf_the_green_triangle_1939_07_22",
         "src_ymf_the_green_triangle_1940_06_27",
-        "src_ymf_sgw_ymca_annual_report_1938"
+        "src_ymf_sgw_ymca_annual_report_1938",
+        "src_ia_kanawana_report_1975"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -9632,7 +9634,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 5388,
+      "word_count": 5483,
       "notes": "2026-07-11: Workstream C3 spawn -- newsletter/award/symbol synthesized into standalone article, cited as a source in 13+ articles but never its own subject. No new research conducted. Corrected two dangling source_id references (src_web_readers_digest_buckland -> src_readers_digest_camp_shapes_lives; src_ia_green_triangle_1938 -> src_green_triangle_1938) in kb/facts.json while preparing this article. | 2026-08-14 p_226: applied the programs/places BLOCKING fixes from the p_218 audit.",
       "tags": {
         "era": [

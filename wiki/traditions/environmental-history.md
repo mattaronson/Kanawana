@@ -1,7 +1,7 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 47*
-*Last Updated: 2026-09-08 (the encroaching city, 1988; 4% to 26% on financial assistance)*
+*Status: E1-reviewed | Sources: 48*
+*Last Updated: 2026-09-08 (the 1975 bacteria count and the girls' septic field; the encroaching city, 1988)*
 
 ## Overview
 
@@ -174,6 +174,22 @@ report gives: $1.48M in December 2008, $1.8M a year later. *The same section car
 ### Composting System
 
 The camp replaced its entire septic system with 16 commercial Clivus Multrum composting units accommodating 22,500 uses each per year, plus 32 dry toilets that save 576,000 gallons of water annually.^2 Two central buildings contain all bathroom and shower facilities. The system was installed specifically to protect Lake Kanawana from septic pollution.^2 The Grand Portage cabin was demolished around 2006 to make way for the new washroom buildings housing the system, and two green sanitary installations were tested during the summers of 2007 and 2008.^17 ^18
+
+### A hot summer and the bacteria count, 1975
+
+The camp's own director's report for that year, under *Health & Safety*: "Due to our exceptionally warm
+weather this summer, the **water level of the lake was down about one foot** and the **water temperature was
+up about 5° F**. These factors caused a **great increase in the bacteria count of our lake water**.
+Consequently, we experienced many colds, sore throats and ear aches, etc."^48 The nurse, Mrs. Diane Gray, is
+credited with "an admirable job in coping with the many patients at our infirmary."
+
+That is a dated water-quality event with a stated mechanism — low water plus high temperature — and a measured
+health consequence, five years after the camp's own erosion confession and three decades before the monitoring
+programme below. *The same report's Physical Site section names what had not been built.* Among "numerous
+other pieces of work required before next summer," it singles out one as urgent: a "**septic field — girls
+section**." [[history/coeducation-gender|Coeducation and Gender]] establishes from the 1969–70 reports that
+girls were added to the site without the support facilities to carry them, sanitation included. **Six years
+on, that septic field was still on the urgent list.** [f_5816]
 
 ### Lake Monitoring
 
@@ -492,6 +508,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 45. **Les YMCA du Québec, rapport annuel 2007, French edition** [src_ymf_sgw_ymca_annual_report_2007_fr], the Kanawana development pages and the Foundation's list of projects funded in 2007. Read 2026-09-08 under p_487, which was working the records marked "keyword-swept, not read closely": the French editions carry material their English twins do not, and this project had read the English 2007 report for the $5 million framing and the 19% assistance figure without reaching these. See [f_5760].
 46. YMCA of Montreal annual report **2008**, English and French editions [src_ymf_sgw_ymca_annual_report_2008, src_ymf_sgw_ymca_annual_report_2008_fr], the section "Camp YMCA Kanawana: Objectives all but met"; and the YMCAs of Québec community reports for **2010**, **2011** and **2012** [src_ymf_sgw_ymca_community_report_2010, src_ymf_sgw_ymca_community_report_2011, src_ymf_sgw_ymca_community_report_2012], the Foundation page and the year-in-review timelines, with the French edition of the 2009 annual report [src_ymf_sgw_ymca_annual_report_2009_fr] read alongside. Read 2026-09-08 under p_487. See [f_5780] and [f_5781].
 47. *Kanawana… A Place to Grow* (1988) [src_cache_1988_kanawana_a_place_to_grow_report], its SITE and FACILITIES sections. Read 2026-09-08 under p_441, reached through `scripts/reread/skimmed_triage.py`. See [f_5808].
+48. *Kamp Kanawana Director's Report 1975* [src_ia_kanawana_report_1975], its Health & Safety and Physical Site sections. Read 2026-09-08 under p_441. See [f_5816].
 ## Research Notes
 
 ### Revision History
