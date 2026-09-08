@@ -1,8 +1,8 @@
 {
-  "version": "11.09",
-  "kb_version": "11.09",
+  "version": "11.10",
+  "kb_version": "11.10",
   "migrated_from": "3.3",
-  "fact_count": 5687,
+  "fact_count": 5688,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102567,6 +102567,22 @@
       "conflicts_with": [],
       "added_version": "11.09",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5726",
+      "claim": "THE SIXTH MIS-NAMED CONTAINER, AND THIS ONE RESOLVED TO A RE-HEADING RATHER THAN A CUT. people/directors-index.md carried a subsection headed 'The 1920s: Brochure and Gas Bag Staff (1921-1923)' running to 3,925 words, of which about 1,200 are the 1921-23 brochures and the F. H. Spinney identification. The other 2,700 are the YMCA Year Book and Official Roster's Montreal staff tables for 1893, 1894-97, 1898, 1899, 1900 and 1906-1908, plus the reading notes on them -- W. H. Ball Jr's printed suffix, W. F. Chapman as Office Secretary in 1893-94, the 1898 row that names three of the four camp leaders, E. G. Randal's move to Taunton, W. A. Maclaren's 1906 Boys' Work directorship and Holliday's 1909 change of title. That is 1893-1909 material filed under a 1921-23 heading, and it is the sixth instance of the pattern found under p_452 (after Hay Finlay, 'The money stops', 'A textbook says Kanawana was first', the French-language block in programs-activities, and 'And then the names unlocked the reports we already had'). THE SPINOUT RULE WAS APPLIED AND RETURNED DO NOT CUT. Test 1, own arc: yes, the Montreal association's senior staff line 1893-1909. Test 3, size: 2,700 words, over the line. Test 2 failed on the destination check that project-docs/spinout-rule.md requires first: every finding in the block has ALREADY been written into the article that wants it -- Ball's Jr and his Springfield origin into people/billy-ball.md, Patton's provincial chairmanship into people/t-duncan-patton.md, John W. Ross and R. L. Charlton into history/founding-1894.md, the boys' work column into the new people/boys-work-secretaries.md. What is left in the index is the EVIDENCE BASE those articles draw on, and an index is the right home for it. A separate article would either duplicate the person articles or strand the tables away from the index that cites them. THE ACTUAL DEFECT WAS ORDER AS WELL AS NAME: an 1893-1909 block sat second in a section called 'Staff by Era' whose other subsections run 1920s, mid-1930s, war years, post-war, 1962, 1980. Moved to the head of the section under the heading 'The association's own roster, 1893-1909', and its opening sentence, which began 'And the YMCA's own North American roster...' and pointed back at the 1921 season paragraph it used to follow, rewritten to open a section rather than continue one. renumber_sources.py reported nothing to renumber, so the tool does not enforce first-occurrence ordering of markers -- worth knowing before relying on it to catch a reordering.",
+      "sources": [],
+      "confidence": "stated",
+      "category": "project_method",
+      "entities": [
+        "directors-index",
+        "p_452",
+        "spinout rule"
+      ],
+      "date_ref": "2026-09-08",
+      "conflicts_with": [],
+      "added_version": "11.10",
+      "added_by": "manual"
     }
   ]
 }

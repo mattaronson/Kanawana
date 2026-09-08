@@ -8085,3 +8085,18 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   wartime-kanawana) were checked and do not need one yet.
   articles.json now 127 articles. prose_dupes.py clean; scripts/verify/all.py clean.
   Committed 6c614a4, pushed to claude/kanawana-research-continue-spy7u9.
+2026-09-08T00:28:00Z
+  p_452 -- two checks, one already done, one do-not-cut. f_5726, KB 11.09 -> 11.10.
+  (a) The stranded 1986 ACQ accreditation paragraph is already in quebec-camping-association.md
+      line 77. Checked the destination before acting; that is the only reason it was not moved twice.
+  (b) directors-index.md "The 1920s: Brochure and Gas Bag Staff (1921-1923)", 3,925 words, is the
+      sixth mis-named container under this priority: ~2,700 of those words are Year Book roster
+      tables for 1893-1909. Own-arc and size tests pass; the DESTINATION CHECK fails, every finding
+      in the block already being written into billy-ball, t-duncan-patton, founding-1894
+      and boys-work-secretaries. What is left is the evidence base, and an index is its right home.
+      NOT CUT. Re-headed "The association's own roster, 1893-1909" and moved to the head of
+      "Staff by Era", which now runs by era. Opening sentence rewritten -- it began "And the YMCA's
+      own..." and pointed back at the 1921 paragraph it used to follow.
+  renumber_sources.py reported nothing to renumber after an 83-line block moved to the top of the
+  file, so it does not enforce first-occurrence marker ordering. Recorded for the next mover.
+  Full verify suite clean. directors-index 28,104 -> 28,150 words.
