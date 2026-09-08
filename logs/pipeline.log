@@ -8065,3 +8065,23 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
 2026-09-07T23:40Z  p_451 steps (1) and (2) done. 546 records carry a derived read_state basis; the low-yield tail is 263 and 256 of them have NO cache_path, so they cannot be re-read at all and their defect is an unverifiable claim rather than an unread document. The real reading list is 36 records with cached Kanawana text, headed by two Montreal newspaper files of 754K and 533K characters cited by five and six facts (f_5723). Tested the ranking on the two Pip newsroom pages and it held: both cached and cited for eight facts each with their ordinal sentences unused, and the 2015 page gives "Mosher is the eighth person to receive the award", a third fixed point that corroborates the blank 2010 row from outside the table and corrects a one-digit slip in the article's open question 2 (f_5724). pip-alumni-award.md updated, new source 27, header count fixed by the harness. AND A CORRECTION I OWED THE OPERATOR: p_500 and the oral history instrument both said the Pip years 2019-2023 were blank. They are not -- the article carries a year-by-year table 2007-2026. I wrote both from a KB fact without reading the article, which is the exact defect f_5432 and f_5714 record, committed while raising a priority about lost sources. Both corrected in place with the error shown. KB 11.08, 5,686 facts. All nine verify scripts pass.
 2026-09-07T23:42Z  Corrected my own p_451 ranking within the hour. I ranked the reading list by cached FILE SIZE, which for a web capture is markup, and that is the char_count failure this project already retired. The two Gazette files at the head are that failure twice: src_newspapers_com_gazette strips from 533,290 bytes to 2,126 characters of Newspapers.com paywall shell with no article in it (and is the very file already recorded as 533,742 bytes holding 2,148 characters of text), and src_newspapers_gazette_1918 strips to 40,948 characters whose Kanawana passage is already in programs-activities.md sentence for sentence. Re-ranked on stripped text and on how often the camp is named: src_concordia_atom_12A (cited once, 50 mentions) and src_kk_prep_guide_2025 (cited nine times, 119 mentions, 73,926 characters) are the real head. f_5723 amended, p_451 updated. All nine verify scripts pass.
 2026-09-07T23:45Z  p_451 step (3) begun. Read both heads of the corrected list: src_kk_prep_guide_2025 and src_concordia_atom_12A are both already worked, and their read_state_basis is rewritten from derived to direct. The prep guide's nine facts come almost entirely from its map, which is what made its 74,000 characters of prose look untouched; the prose is in history/modern-era.md through prose and source notes rather than fact ids, which is exactly why a fact-count proxy cannot see it. Four checks tonight now point the same way and only the Pip pages held anything unused. A derived read_state_basis is not evidence a document is unread; the real remaining work in p_451 is the 256 records with no cached text at all, which reading cannot fix. f_5725. KB 11.09, 5,687 facts. All nine verify scripts pass.
+2026-09-08T00:23:47Z
+  p_452 SPINOUT EXECUTED -- wiki/people/boys-work-secretaries.md created (draft, 3,156 words)
+  Source: wiki/people/directors-index.md lines 335-391, 2,816 words moved.
+  Prediction check: p_452 estimated ~4,500 words off a line range; the actual move
+  was 2,816. Line ranges over-count when the lines are table rows. Measure words.
+  Orphan diff against pre-cut backup: 59, 62, 63, 64 orphaned and removed; 58 and 65
+  stayed. Matches the map prepared in p_452 exactly. Entries 5, 12, 13, 16, 23, 24, 25
+  were already orphaned before the cut and were left alone.
+  renumber_sources.py --write applied; it also corrected pre-existing 27-35 ordering
+  drift, an unavoidable side effect of an all-or-nothing renumberer.
+  Parent header set to 62 sources. Counting numbered lines document-wide returned 76;
+  the count must be scoped to the "## Sources" section.
+  Parent heading "And then the names unlocked the reports we already had" was a
+  research-episode heading, fifth instance under this priority; now "What else the
+  Year Book volumes gave". Pointer section added so the parent still reads whole.
+  Cross-links: directors-index.md, w-j-holliday.md, geoffrey-guiton.md. The other four
+  articles p_452 predicted would link (harold-cross, hay-finlay, founding-1894,
+  wartime-kanawana) were checked and do not need one yet.
+  articles.json now 127 articles. prose_dupes.py clean; scripts/verify/all.py clean.
+  Committed 6c614a4, pushed to claude/kanawana-research-continue-spy7u9.
