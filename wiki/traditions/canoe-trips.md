@@ -1,7 +1,7 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 34*
-*Last Updated: 2026-09-08 (a second year of the canoe-building programme; the 2026 back-country evacuation clause)*
+*Status: E1-reviewed | Sources: 35*
+*Last Updated: 2026-09-08 (the fifteen rivers of the 2026 trip programme; the back-country evacuation clause)*
 
 *Earlier revisions: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
@@ -211,6 +211,18 @@ Canoe-trip plaques recovered from the dining hall document a "Tripper" (trip lea
 
 **How much tripping a single season actually was, in 1993.** Director Bruce Netherwood's report on the 99th summer counts it: **four Voyageur trips and 38 camper trips**, three of the latter Junior excursions, and **over four hundred Kanawanians** on the water across Papineau-Labelle and Parc La Vérendrye.^25 That is the only whole-season trip count this article holds for any year. Netherwood's "over four hundred" counts campers and staff together and cannot be turned into a participation rate, but it is a large fraction of a camp that ran at over 99% of capacity that summer, and the reserve pairing the 2026 programme still uses — Papineau-Labelle and La Vérendrye — was already the shape of it.
 
+**Where the trips actually go, in 2026, and it is not the Laurentians.** The parent guide names the water:
+"Our Hike and Trip program runs canoe trips on the following rivers: **Noire, Dumoine, Coulonge, Bazin, Rouge,
+Gatineau, Missinaibi, Mistassini, Mistassibi, Lièvre, Jacques Cartier, Batiscan, Pontax, Ashuapmushuan, and
+the Chochocouane**. We also paddle flatwater trips" in the **La Vérendrye** and **Papineau-Labelle** reserves.^35
+Fifteen rivers, and the reach is the point: the **Missinaibi** is in Ontario and drains to James Bay; the
+**Pontax** is on the eastern James Bay coast in Eeyou Istchee; the Ashuapmushuan, Mistassini and Mistassibi are
+the Lac Saint-Jean rivers; the Jacques-Cartier and Batiscan run to the St Lawrence north of Quebec City.
+
+*And one name on the list closes a loop.* The **Chochocouane** appears once before in this project — in
+[[site/les-voyageurs-de-la-verendrye|Les Voyageurs de la Vérendrye]], as a river a trip under Heyer
+**attempted to reach and failed**. [f_5792]
+
 Today, canoe tripping remains central to the Kanawana experience. The 2026 program structure offers multiple expedition pathways: Adventurers Coureurs des Bois (boys and non-binary, 13–16) provides 4–6 day introductory canoe trips in La Vérendrye Wildlife Reserve; Adventurers Pathfinders (girls and non-binary, 13–16) offers the same format, with flat-water trips in La Vérendrye or white-water trips on Quebec and Ontario rivers; and Voyageurs Ultimate (15–17) is a 26-day *programme* built around a **19-day** white-water canoe expedition.^4 ^5 ^30 *(Corrected 2026-09-07: this read "runs a 26-day white-water canoe expedition". Twenty-six days is the programme; the camp's own page puts the expedition inside it at nineteen. The distinction matters here, because the 2008 Missinaibi River trip below is recorded at 21 days — a shortening against 26 and a lengthening against 19, and the difference is what is being counted.)* **The longest trip the camp runs is not in this article.** The **Foresters canoe-guides-in-training**
 programme — 48 days, ages 16 and 17, mixed — trains participants "for the role of a canoe trip guide"
 through "hands-on workshops and **a canoe expedition consisting of 28 to 32 days of whitewater travel and
@@ -304,3 +316,4 @@ mother, and the unit she measures the trip in is a school year. See
 32. YMCA of Montreal annual report **2002-2003**, English and French editions [src_ymf_sgw_ymca_annual_report_2002_2003, src_ymf_sgw_ymca_annual_report_2002_2003_fr], the Foundation's endowment allocation table. Read 2026-09-08 under p_487. The four-year series is at [[history/modern-era|The Modern Era]]. See [f_5766].
 33. The YMCAs of Québec, community report **2010** [src_ymf_sgw_ymca_community_report_2010], the Access for All page. Read 2026-09-08 under p_487. See [f_5776].
 34. Camp YMCA Kanawana, the registration package published at ymcaquebec.org [src_ymcaq_kanawana_jobs_intl_leadership_2026], its emergency and inherent-risk clauses. Read 2026-09-08 under p_441. See [f_5791].
+35. *Camp Kanawana Parent Guide 2026*, English and French editions [src_kk_prep_guide_2026, src_kk_prep_guide_2026_fr], the Hike and Trip programme page. Read 2026-09-08 under p_441. The English guide is cited elsewhere in this wiki as ^pg26 and this list was not taken from it. See [f_5792].

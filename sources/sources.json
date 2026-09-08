@@ -8748,7 +8748,7 @@
       "reliability": "primary",
       "notes": "Found live on ymcaquebec.org (created 2026-06-16), superseding both the January 2026 and 2025 preparation guides already cached (src_kk_prep_guide_2025). Same 43-page structure per a site-crawl agent's comparison; the canoe-trip complement is embedded in this same PDF (pages 29+), not a separate document. READ WORD FOR WORD 2026-09-07 under p_487 and extracted at f_5603 (the record said this was \"flagged as future work\" while read_state said \"extracted\" -- the contradiction was in the record itself). Formerly: not yet re-extracted in full, flagged as future work (the 2025 version's site-map legend and staff-team facts are still current per this campaign's spot-checks, but a full re-diff has not been done). | 2026-08-25 (p_273): the priority recorded this as already cached; it was NOT -- cache_path was null and no file existed on disk. Downloaded (8.77 MB PDF), extracted (74,071 chars) and cached, along with the FR edition and the 2025 guide for diffing.",
       "read_state": "extracted",
-      "read_state_basis": "direct:read-word-for-word-2026-09-07-under-p_487"
+      "read_state_basis": "marked 'extracted' and cited as ^pg26 in programs-activities.md, but RE-READ 2026-09-08 under p_441 found two passages never taken from it -- the fifteen rivers and the Chris Thurber citation (f_5792, f_5793). An 'extracted' state is a claim about what was taken, not about what is left."
     },
     {
       "source_id": "src_ymcakanawana_predecessor_domain_cache",
@@ -11519,8 +11519,8 @@
       "extraction_version": "v5.59",
       "reliability": "primary",
       "notes": "French edition of the 2026 parent guide. 94,612 chars extracted — longer than the English, so worth checking for content the EN edition omits.",
-      "read_state": "skimmed",
-      "read_state_basis": "direct:structure-compared-against-the-EN-edition-2026-09-07-not-read-in-full. This record said \"extracted\" on an asserted PDF-extraction basis while carrying ZERO facts and a note saying its extra length was \"worth checking\" -- so the state was wrong in both directions. The table of contents and section order match the English edition; the 27.7% extra length is within what French expansion explains, and nothing FR-only has been identified. Downgraded to skimmed rather than left claiming an extraction that never happened."
+      "read_state": "partial",
+      "read_state_basis": "2026-09-08 under p_441, reached through scripts/reread/skimmed_triage.py, whose absent tokens 'Chris Thurber' and 'Jacques Cartier' led to two passages neither edition had been mined for: the fifteen named rivers of the Hike and Trip programme (f_5792) and the Chris Thurber / American Camping Association homesickness advice (f_5793). Both are in the English edition too. The staff contact page was read and deliberately not transcribed beyond roles."
     },
     {
       "source_id": "src_ymf_1441_special_edition",

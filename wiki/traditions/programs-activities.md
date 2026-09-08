@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-09-08 (1998: initiation stays for younger children, and the site let to outside groups)*
+*Last Updated: 2026-09-08 (1998's two additions; Chris Thurber and the homesickness advice of 2026)*
 
 ## Overview
 
@@ -532,6 +532,19 @@ whom a month proved too long.
 A separate line in the same list would have ended a long-standing fixture: "That we **discontinue
 visitors days** during camp for parents and friends." Whether either was adopted is not established
 here.^kk70 [f_5683]
+
+**Fifty-six years later the camp addresses the same problem by citing an outside expert to the parents.** The
+2026 parent guide opens its preparation advice by naming its authorities: children "feel excitement, anxiety,
+fear and nervousness before going to camp. **All of these emotions are normal!**"; the tips that follow are
+"from **Chris Thurber** (psychologist and summer camp expert) and the **American Camping Association**, as well
+as from our own experience."^pg26 The advice is practical — rehearse nights away from home before the season,
+walk through a typical camp day together.
+
+*Two things are worth noting about that sentence.* It is **the first time in this project that Kanawana cites
+a named external expert in a document addressed to parents**, and the association it names is the **American**
+one, where this wiki's institutional-lineage articles trace the camp's affiliations to the Canadian and Quebec
+associations. And it inverts the 1970 report above, which located the problem in the parents; the 2026 guide
+addresses them as the people who can solve it. [f_5793]
 
 **And the kitchen stopped being the camp's own.** The same report's food services section opens: "The
 food services at camp this year were **catered for the first time**. The food, service and rapport with

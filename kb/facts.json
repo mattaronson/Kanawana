@@ -1,8 +1,8 @@
 {
-  "version": "11.58",
-  "kb_version": "11.58",
+  "version": "11.59",
+  "kb_version": "11.59",
   "migrated_from": "3.3",
-  "fact_count": 5753,
+  "fact_count": 5755,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103852,6 +103852,46 @@
       "date_ref": "2026",
       "conflicts_with": [],
       "added_version": "11.58",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5792",
+      "claim": "FIFTEEN RIVERS NAMED, AND THE CAMP'S TRIPPING GEOGRAPHY IS MUCH LARGER THAN THIS PROJECT HAD IT. The camp's 2026 parent guide, in both editions. French: 'Notre programme de randonnees pedestres et d'expeditions offre des excursions en canot sur les rivieres suivantes : NOIRE, DUMOINE, COULONGE, BAZIN, ROUGE, GATINEAU, MISSINAIBI, MISTASSINI, MISTASSIBI, LIEVRE, JACQUES CARTIER, BATISCAN, PONTAX, ASHUAPMUSHUAN et CHOCHOCOUANE. Nous offrons egalement des expeditions en canot EN EAU CALME dans les magnifiques reserves fauniques LA VERENDRYE et PAPINEAU-LABELLE.' canoe-trips.md describes the 2026 programme in terms of its streams and their lengths and names only La Verendrye, Papineau-Labelle and 'Quebec and Ontario rivers'. THE FIFTEEN CHANGE THE PICTURE OF SCALE. The Missinaibi is in ONTARIO and drains to James Bay; the Pontax is on the EASTERN JAMES BAY coast in Eeyou Istchee; the Ashuapmushuan, Mistassini and Mistassibi are the Lac Saint-Jean rivers; the Jacques-Cartier and Batiscan run to the St Lawrence north of Quebec City. This is not a Laurentian camp's local water. IT ALSO CLOSES A LOOP: the CHOCHOCOUANE appears once before in this project, in les-voyageurs-de-la-verendrye.md, as a river a trip under Heyer ATTEMPTED TO REACH AND FAILED. It is on the 2026 list. AND THIS IS NOT A FRENCH-ONLY FIND: the English edition says the same -- 'Our Hike and Trip program runs canoe trips on the following rivers: Noire, Dumoine, Coulonge, Bazin, Rouge, Gatineau, Missinaibi, Mistassini, Mistassibi, Lievre, Jacques Cartier, Batiscan, Pontax, Ashuapmushuan, and the Chochocouane. We also paddle flatwater trips...' -- and the English guide is already cited in programs-activities.md as ^pg26. The list was in a document this project had open and was not taken.",
+      "sources": [
+        "src_kk_prep_guide_2026_fr",
+        "src_kk_prep_guide_2026"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "canoe tripping",
+        "Missinaibi",
+        "Pontax",
+        "Chochocouane",
+        "Ashuapmushuan"
+      ],
+      "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "11.59",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5793",
+      "claim": "THE CAMP NAMES ITS OUTSIDE AUTHORITY ON HOMESICKNESS, AND IT IS AN AMERICAN CAMP PSYCHOLOGIST. The 2026 French parent guide, introducing its preparation advice: children 'ressentent de la febrilite, de l'anxiete, de la crainte et de la nervosite avant d'aller au camp. Toutes ces emotions sont normales ! Pour bien preparer votre enfant a son sejour loin de la maison, voici quelques conseils pratiques DE CHRIS THURBER (PSYCHOLOGUE ET EXPERT EN CAMPS DE VACANCES), DE L'AMERICAN CAMPING ASSOCIATION, ainsi que quelques trucs tires de notre experience.' The advice that follows includes rehearsing nights away from home before the season and walking through a typical camp day together. THIS IS THE FIRST TIME IN THIS PROJECT THAT KANAWANA CITES AN EXTERNAL EXPERT BY NAME in a document addressed to parents. The wiki's institutional-lineage articles trace the camp's affiliations to the Canadian Camping Association and the Quebec association; this is the AMERICAN one, plus a named individual, in the camp's own 2026 guide. THE ENGLISH EDITION SAYS THE SAME -- 'here are a few tips from Chris Thurber (psychologist and summer camp expert) and the American Camping Association, as well as from our own experience' -- so this was not hidden in the French edition; it was in a guide this project already cites as ^pg26 and did not extract.",
+      "sources": [
+        "src_kk_prep_guide_2026_fr",
+        "src_kk_prep_guide_2026"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Chris Thurber",
+        "American Camping Association",
+        "homesickness"
+      ],
+      "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "11.59",
       "added_by": "ralph_loop"
     }
   ]
