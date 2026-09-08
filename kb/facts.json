@@ -1,8 +1,8 @@
 {
-  "version": "11.39",
-  "kb_version": "11.39",
+  "version": "11.41",
+  "kb_version": "11.41",
   "migrated_from": "3.3",
-  "fact_count": 5729,
+  "fact_count": 5730,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103227,7 +103227,7 @@
     },
     {
       "fact_id": "f_5762",
-      "claim": "KANAWANA'S LOCAL ADVISORY COMMITTEE HAS A FOUNDING DATE AND AN ORIGINAL PURPOSE, AND BOTH SAT BETWEEN TWO SENTENCES THIS PROJECT HAD ALREADY QUOTED. The Montreal YMCA's annual report for the year ended 31 May 2003, in its Kamp Kanawana paragraph: 'This summer, we upgraded a number of our facilities and programs, ESTABLISHED A NEW LOCAL ADVISORY COUNCIL TO CONDUCT SAFETY AUDITS, and welcomed one of the most mature and culturally diverse groups of counselors and program staff ever.' The French edition of the same report puts the purpose the same way: 'Il a etabli un nouveau conseil consultatif charge de veiller a LA SECURITE DU CAMP.' So the body whose rosters this wiki records from 2011 to 2017, and which the camp's 2026 alumni page describes as meeting quarterly to discuss Kanawana's needs and future directions, began in the summer of 2002 as a SAFETY AUDIT body. THE MISS IS THE POINT: f_5150 quotes the sentence immediately BEFORE this one ('770 Kampers enjoyed a whole range of outdoor activities') and f_5149 quotes the paragraph immediately AFTER it (the Non Nobis Solum volunteer group), both extracted 2026-09-06 under p_454 from this same volume, whose source record reads 'read for Kanawana content'. The sentence in between was passed over twice. A pass that reads for a keyword reads the sentences a keyword lands in, and this one does not contain the word Kanawana.",
+      "claim": "KANAWANA'S LOCAL ADVISORY COMMITTEE HAS A FOUNDING DATE AND AN ORIGINAL PURPOSE, AND BOTH SAT BETWEEN TWO SENTENCES THIS PROJECT HAD ALREADY QUOTED. The Montreal YMCA's annual report for the year ended 31 May 2003, in its Kamp Kanawana paragraph: 'This summer, we upgraded a number of our facilities and programs, ESTABLISHED A NEW LOCAL ADVISORY COUNCIL TO CONDUCT SAFETY AUDITS, and welcomed one of the most mature and culturally diverse groups of counselors and program staff ever.' The French edition of the same report puts the purpose the same way: 'Il a etabli un nouveau conseil consultatif charge de veiller a LA SECURITE DU CAMP.' CORRECTED THE SAME DAY BY f_5768: a Kamp Kanawana LOCAL BOARD existed in 1995 and 1996 and then lapses out of the branch lists for six years, so 2002 is a RE-ESTABLISHMENT and the safety-audit brief is what was new. So the body whose rosters this wiki records from 2011 to 2017, and which the camp's 2026 alumni page describes as meeting quarterly to discuss Kanawana's needs and future directions, began in the summer of 2002 as a SAFETY AUDIT body. THE MISS IS THE POINT: f_5150 quotes the sentence immediately BEFORE this one ('770 Kampers enjoyed a whole range of outdoor activities') and f_5149 quotes the paragraph immediately AFTER it (the Non Nobis Solum volunteer group), both extracted 2026-09-06 under p_454 from this same volume, whose source record reads 'read for Kanawana content'. The sentence in between was passed over twice. A pass that reads for a keyword reads the sentences a keyword lands in, and this one does not contain the word Kanawana.",
       "sources": [
         "src_ymf_sgw_ymca_annual_report_2002_2003",
         "src_ymf_sgw_ymca_annual_report_2002_2003_fr"
@@ -103246,7 +103246,7 @@
     },
     {
       "fact_id": "f_5763",
-      "claim": "THREE CONSECUTIVE ROSTERS OF THE KANAWANA LOCAL ADVISORY COMMITTEE, ITS FIRST THREE YEARS, AND A CHAIR HANDOVER. The Montreal YMCA's annual reports print the branch committees under LOCAL ADVISORY COUNCILS. FY2002-2003 (the founding year), six members: 'YMCA Kamp Kanawana -- Brown-Poole, Lynn; Carter, Morgan M.; Cochand, Toni; Lozoff, Rick; Morriss, Marley; Weil, Judy', no chair marked in either the English or the French edition. FY2003-2004, six: 'Boyer, Arleen; Brown-Poole, Lynn; Cochand, Toni (Chair); Lozoff, Rick; Morriss, Marley; Weil, Judy' -- the French edition gives the same six and styles the chair '(presidente)'. FY2004-2005, four: 'Boyer, Arleen; Lozoff, Rick; Morriss, Marley; Weil, Judy (Chair)'. So the chairmanship passes from TONI COCHAND to JUDY WEIL between 2003-04 and 2004-05; Brown-Poole and Cochand leave; Boyer joins in the second year and stays. MORGAN CARTER SAT ON THE COMMITTEE IN ITS FOUNDING YEAR WHILE HE WAS THE CAMP'S OWN INTERIM DIRECTOR, which is a different thing from the former-director-returns-as-volunteer pattern his article and the directors index both read into his 2011 appearance. The FY2002-2003 roster is eleven lines below the Senior Management entry naming him Interim Director in the same document, which morgan-carter.md has cited as its source 2 since the article was spawned. The FY2003-2004 roster was extracted in full as f_1751 on 2026-07-07 and only Arleen Boyer's name from it was ever written into an article.",
+      "claim": "THREE CONSECUTIVE ROSTERS OF THE KANAWANA LOCAL ADVISORY COMMITTEE, ITS FIRST THREE YEARS, AND A CHAIR HANDOVER. The Montreal YMCA's annual reports print the branch committees under LOCAL ADVISORY COUNCILS. FY2002-2003 (called the founding year when this was written; CORRECTED THE SAME DAY BY f_5768, which finds Kanawana local boards in 1995 and 1996 and a six-year lapse between -- 2002 is a re-establishment), six members: 'YMCA Kamp Kanawana -- Brown-Poole, Lynn; Carter, Morgan M.; Cochand, Toni; Lozoff, Rick; Morriss, Marley; Weil, Judy', no chair marked in either the English or the French edition. FY2003-2004, six: 'Boyer, Arleen; Brown-Poole, Lynn; Cochand, Toni (Chair); Lozoff, Rick; Morriss, Marley; Weil, Judy' -- the French edition gives the same six and styles the chair '(presidente)'. FY2004-2005, four: 'Boyer, Arleen; Lozoff, Rick; Morriss, Marley; Weil, Judy (Chair)'. So the chairmanship passes from TONI COCHAND to JUDY WEIL between 2003-04 and 2004-05; Brown-Poole and Cochand leave; Boyer joins in the second year and stays. MORGAN CARTER SAT ON THE COMMITTEE IN ITS FOUNDING YEAR WHILE HE WAS THE CAMP'S OWN INTERIM DIRECTOR, which is a different thing from the former-director-returns-as-volunteer pattern his article and the directors index both read into his 2011 appearance. THAT IS ALSO OVERSTATED, per f_5768: the 1995 and 1996 boards mark the camp's own director '(YMCA)' as a member, so the branch's staff sitting on the branch's board is the convention rather than an anomaly. The FY2002-2003 roster is eleven lines below the Senior Management entry naming him Interim Director in the same document, which morgan-carter.md has cited as its source 2 since the article was spawned. The FY2003-2004 roster was extracted in full as f_1751 on 2026-07-07 and only Arleen Boyer's name from it was ever written into an article.",
       "sources": [
         "src_ymf_sgw_ymca_annual_report_2002_2003",
         "src_ymf_sgw_ymca_annual_report_2002_2003_fr",
@@ -103327,8 +103327,9 @@
     },
     {
       "fact_id": "f_5766",
-      "claim": "FOUR YEARS OF WHAT THE ENDOWMENT FUND ACTUALLY BOUGHT AT KANAWANA, WITH LINE ITEMS. modern-era.md describes the association's Endowment Fund from the 2004-2005 report, which says only that donor-selected revenues went to programmes 'such as international development and Camp YMCA Kanawana'. The reports for 1999-2000 through 2002-2003 print the allocation table itself, centre by centre. KAMP KANAWANA'S LINES: 1999-2000, 'Development funding' $2,874 of a $48,982 total; 2000-2001, 'Young campers video project' and 'Accessibility', $20,143 of $106,025; 2001-2002, 'Canoe building program' and 'Accessibility', $16,323 of $106,127; 2002-2003, 'Canoe building program' $2,000 of $90,114, confirmed in the French edition as 'Programme de construction de canots, 2 000 $'. A CAVEAT ON THE TWO MIDDLE YEARS: in the 1999-2000 and 2002-2003 tables each amount sits on its own programme line, but in 2000-2001 and 2001-2002 the amount is printed once against the LAST programme line of a centre, so $20,143 and $16,323 are read as each year's Kanawana TOTAL across its two listed programmes rather than as the Accessibility line alone. THREE PROGRAMME NAMES NEW TO THIS PROJECT: a canoe building programme running at least 2001-02 and 2002-03; a young campers video project in 2000-01; and an 'Accessibility' line in two consecutive years, which is the shape a camperships allocation takes. The same tables show the 'Gabrielle et Maurice Masse' Award as an endowment line in 2000-01 ($1,545) and 2001-02 ($1,418) -- the award Judy and Michael Weil received in March 2009 (f_5764).",
+      "claim": "FOUR YEARS OF WHAT THE ENDOWMENT FUND ACTUALLY BOUGHT AT KANAWANA, WITH LINE ITEMS. modern-era.md describes the association's Endowment Fund from the 2004-2005 report, which says only that donor-selected revenues went to programmes 'such as international development and Camp YMCA Kanawana'. The reports for 1999-2000 through 2002-2003 print the allocation table itself, centre by centre. KAMP KANAWANA'S LINES: 1998-1999, 'Access to the YMCA camp for youth from families in financial difficulty' $6,137 of an $82,230 total -- WHICH NAMES IN FULL WHAT THE LATER TABLES ABBREVIATE TO 'Accessibility', settling that line as camperships rather than physical access; 1999-2000, 'Development funding' $2,874 of a $48,982 total; 2000-2001, 'Young campers video project' and 'Accessibility', $20,143 of $106,025; 2001-2002, 'Canoe building program' and 'Accessibility', $16,323 of $106,127; 2002-2003, 'Canoe building program' $2,000 of $90,114, confirmed in the French edition as 'Programme de construction de canots, 2 000 $'. A CAVEAT ON THE TWO MIDDLE YEARS: in the 1999-2000 and 2002-2003 tables each amount sits on its own programme line, but in 2000-2001 and 2001-2002 the amount is printed once against the LAST programme line of a centre, so $20,143 and $16,323 are read as each year's Kanawana TOTAL across its two listed programmes rather than as the Accessibility line alone. THREE PROGRAMME NAMES NEW TO THIS PROJECT: a canoe building programme running at least 2001-02 and 2002-03; a young campers video project in 2000-01; and an 'Accessibility' line in two consecutive years, which is the shape a camperships allocation takes. The same tables show the 'Gabrielle et Maurice Masse' Award as an endowment line in 2000-01 ($1,545) and 2001-02 ($1,418) -- the award Judy and Michael Weil received in March 2009 (f_5764).",
       "sources": [
+        "src_ymf_sgw_ymca_annual_report_1998_1999",
         "src_ymf_sgw_ymca_annual_report_1999_2000",
         "src_ymf_sgw_ymca_annual_report_2000_2001",
         "src_ymf_sgw_ymca_annual_report_2001_2002",
@@ -103343,7 +103344,7 @@
         "canoe building program",
         "Kamp Kanawana"
       ],
-      "date_ref": "1999-2000 to 2002-2003",
+      "date_ref": "1998-1999 to 2002-2003",
       "conflicts_with": [],
       "added_version": "11.39",
       "added_by": "ralph_loop"
@@ -103365,6 +103366,35 @@
       "date_ref": "1998",
       "conflicts_with": [],
       "added_version": "11.39",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5768",
+      "claim": "THE KANAWANA ADVISORY COMMITTEE DID NOT BEGIN IN 2002, AND THE WORD 'NEW' IN THE 2002 REPORT MEANS SOMETHING NARROWER THAN THIS PROJECT READ INTO IT. f_5762 and f_5763, written earlier on 2026-09-08, took the 2002-03 report's 'established a new Local Advisory Council to conduct safety audits' as the body's founding. The same series of reports shows a KAMP KANAWANA LOCAL BOARD six and seven years earlier. 1995, under the heading LOCAL BOARDS, fourteen members: 'Boghen, Mark; Castle, Tom; Clark, Tim; Drury, Barbara; Flashner, Bill; Fripp, Alison; Gamberg, Cheryl; HOAD, JOANNA (YMCA); KHAN, SUE (Chairperson); LOZOFF, RICK; Netherwood, Bruce (YMCA); Shannon, Dianna; Watt, Wendy'. 1996, seven: 'Boghen, Mark; DRURY, BARBARA (chair); Flashner, Bill; HOAD, JOANNA (YMCA); LOZOFF, RICHARD; Shannon, Dianna; Watt, Wendy'. THEN IT LAPSES: the 1998, 1998-99, 1999-2000, 2000-2001 and 2001-2002 volumes all print the branch list (renamed LOCAL ADVISORY COUNCILS from 1999-2000) and KANAWANA IS NOT ON ANY OF THEM, while six to nine other branches are. So the 2002 body is a RE-ESTABLISHMENT after roughly a six-year lapse, which is what 'new' fairly means, and the safety-audit purpose is what was new about it. TWO CONSEQUENCES. RICK LOZOFF is on the 1995 and 1996 boards and again on all three of 2002-03, 2003-04 and 2004-05 -- a decade of service across the lapse, and the longest-serving committee volunteer this project has. AND MORGAN CARTER'S PRESENCE ON THE 2002-03 ROSTER IS ORDINARY, NOT REMARKABLE: the 1995 and 1996 boards mark JOANNA HOAD, the camp's own director, '(YMCA)', alongside Bruce Netherwood in 1995 -- the branch's staff sit on the branch's board as a matter of form. The '(YMCA)' marker is gone from the 2002-03 list, so that document alone does not say in which capacity Carter sat; the 1995-96 convention makes ex officio much the likelier reading. Correcting what f_5763 said about him.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1995",
+        "src_cache_sgw_ymca_annual_report_1996",
+        "src_ymf_sgw_ymca_annual_report_1998",
+        "src_ymf_sgw_ymca_annual_report_1998_1999",
+        "src_ymf_sgw_ymca_annual_report_1999_2000",
+        "src_ymf_sgw_ymca_annual_report_2000_2001",
+        "src_ymf_sgw_ymca_annual_report_2001_2002",
+        "src_ymf_sgw_ymca_annual_report_2002_2003"
+      ],
+      "confidence": "stated",
+      "category": "governance",
+      "entities": [
+        "Local Advisory Committee",
+        "Kamp Kanawana Local Board",
+        "Rick Lozoff",
+        "Joanna Hoad",
+        "Barbara Drury",
+        "Sue Khan",
+        "Morgan Carter"
+      ],
+      "date_ref": "1995-2003",
+      "conflicts_with": [],
+      "added_version": "11.40",
       "added_by": "ralph_loop"
     }
   ]

@@ -1,7 +1,7 @@
 # The Modern Era: The Two-Tier Era (1995–Present)
 
-*Status: draft | Sources: 30*
-*Last Updated: 2026-09-08 (the advisory committee's founding and first rosters; four years of endowment allocations)*
+*Status: draft | Sources: 31*
+*Last Updated: 2026-09-08 (the advisory committee from 1995, its six-year lapse and its rosters; four years of endowment allocations)*
 
 ## Overview
 
@@ -172,9 +172,19 @@ Seven consecutive summers on assistance, 2009 to 2016. The reason she gives is t
 Work Committee gave in 1931 and the "Values for Living" framework at [[traditions/programs-activities|Programs and Activities]]
 gave in the 1950s, in institutional language: character formed somewhere the pressure is off.
 
-## The camp's own committee, 2002-2017
+## The camp's own committee, 1995-2017
 
-**It began in the summer of 2002, and it began as a safety body.** The Montreal YMCA's report for the year
+**There was a Kanawana board from at least 1995, it disappears for six years, and it comes back in 2002 with
+a safety brief.** *Written earlier on 2026-09-08 as "it began in the summer of 2002"; corrected the same day
+once the earlier volumes were opened.* The 1995 report lists a **Kamp Kanawana Local Board** of fourteen under
+the heading *Local Boards*: Mark Boghen, Tom Castle, Tim Clark, Barbara Drury, Bill Flashner, Alison Fripp,
+Cheryl Gamberg, **Joanna Hoad (YMCA)**, **Sue Khan (Chairperson)**, **Rick Lozoff**, Bruce Netherwood (YMCA),
+Dianna Shannon and Wendy Watt. In 1996 it is down to seven, with **Barbara Drury** now in the chair. Then
+Kanawana falls off the list entirely: the 1998, 1998-99, 1999-2000, 2000-01 and 2001-02 volumes all print the
+branch bodies — renamed *Local Advisory Councils* from 1999-2000 — with six to nine branches on them and no
+camp.^31 [f_5768]
+
+*So "new" in the 2002 report is fair, and means re-established.* The Montreal YMCA's report for the year
 ended 31 May 2003 says so in the middle of its Kanawana paragraph: "This summer, we upgraded a number of our
 facilities and programs, **established a new Local Advisory Council to conduct safety audits**, and welcomed
 one of the most mature and culturally diverse groups of counselors and program staff ever." The French
@@ -189,8 +199,8 @@ taken out of this volume on 2026-09-06, whose source record says it was read for
 council sentence sits between them and does not contain the word Kanawana, which is the whole of the
 explanation. [f_5762]
 
-**The first three rosters, and a chair who has been missing from this project.** The same reports print the
-branch committees under *Local Advisory Councils*. The founding year, FY2002-2003, six members: "Brown-Poole,
+**The rosters after it came back, and a chair who has been missing from this project.** The same reports print
+the branch committees under *Local Advisory Councils*. The first year back, FY2002-2003, six members: "Brown-Poole,
 Lynn; **Carter, Morgan M.**; Cochand, Toni; Lozoff, Rick; Morriss, Marley; Weil, Judy," with no chair marked
 in either edition. FY2003-2004, six: "Boyer, Arleen; Brown-Poole, Lynn; **Cochand, Toni (Chair)**; Lozoff,
 Rick; Morriss, Marley; Weil, Judy." FY2004-2005, four: "Boyer, Arleen; Lozoff, Rick; Morriss, Marley; **Weil,
@@ -198,11 +208,19 @@ Judy (Chair)**." So **Toni Cochand** chaired it and handed the chair to **Judy W
 left, and [[people/arleen-boyer|Arleen Boyer]] joined in the second year — five years after her own
 directorship ended.^29 [f_5763]
 
-**And Morgan Carter sat on it while he was running the camp.** Both his article and the directors index read
-his 2011 appearance as a former director returning as a volunteer, which is a real pattern here and is not
-what the founding roster shows: in FY2002-2003 he is the camp's Interim Director *and* on its new advisory
-council, eleven lines below the Senior Management entry that gives him the job. That entry is
-[[people/morgan-carter|his article]]'s source 2 and has been since the article was spawned.
+**And Morgan Carter sat on it while he was running the camp — which turns out to be the normal arrangement.**
+In FY2002-2003 he is the camp's Interim Director *and* on its restored advisory council, eleven lines below the
+Senior Management entry that gives him the job; that entry is [[people/morgan-carter|his article]]'s source 2
+and has been since the article was spawned. *The first reading of this, written earlier today, was that it
+undercut the former-director-returns-as-volunteer pattern. It does less than that.* The 1995 and 1996 boards
+mark **Joanna Hoad (YMCA)** — the camp's own director — as a member, with Bruce Netherwood (YMCA) beside her
+in 1995, so a branch's staff sitting on the branch's board is the convention and not an anomaly. The
+"(YMCA)" marker is gone from the 2002-03 list, so that document by itself does not say in which capacity
+Carter sat. The earlier convention makes *ex officio* much the likelier reading.
+
+**Rick Lozoff is the long one.** He is on the 1995 and 1996 boards, and on all three of FY2002-03, FY2003-04
+and FY2004-05 — a decade of service straddling the lapse, and the longest committee tenure this project has
+for anyone but Morgan Carter.
 
 **The community reports print the camp's committee year by year, which is the most useful thing in them.**
 The **2013** roster names Don Bennett, Morgan Carter, **Valery Cordemans (Chair)**, Sean Day, Steven Henle, Derek Lyndsay, Adrian Maas and Chris Mannitt — *the chairmanship is read from the series' own layout convention, which the 2015 volume settles: the title line follows the name it belongs to and precedes the next. These are multi-column rosters in an OCR'd scan, so it is a reading of layout rather than of a sentence.*^23 The 2014 roster: "Camp YMCA Kanawana — Bennett, Don; **Carter, Morgan (Chair)**; Cordemans, Valerie; **Day,
@@ -350,6 +368,7 @@ at Kanawana can be read line by line.**^30
 
 | Year | Kanawana's programmes | Amount | Association total |
 |---|---|---|---|
+| 1998–99 | Access to the YMCA camp for youth from families in financial difficulty | $6,137 | $82,230 |
 | 1999–2000 | Development funding | $2,874 | $48,982 |
 | 2000–01 | Young campers video project; Accessibility | $20,143 | $106,025 |
 | 2001–02 | Canoe building program; Accessibility | $16,323 | $106,127 |
@@ -364,8 +383,9 @@ than as the Accessibility line alone. The French edition of the 2002–03 report
 Three of those programme names are new to this project. **A canoe building programme** ran for at least two
 consecutive years, which is a workshop and not a trip, and belongs beside
 [[traditions/canoe-trips|the canoe trips]] rather than inside them. **A young campers video project** in
-2000–01. And **"Accessibility"** in two consecutive years, which is the shape a camperships allocation takes
-in a table like this — no report read here says so in as many words. [f_5766]
+2000–01. And **"Accessibility"** in two consecutive years, which the 1998–99
+row settles: the same line, written out in full that year, is "access to the YMCA camp for youth from
+families in financial difficulty." It is camperships, not ramps. [f_5766]
 
 *A small link back.* The same tables carry the **"Gabrielle et Maurice Massé" Award** as an endowment line in
 its own right, $1,545 in 2000–01 and $1,418 in 2001–02. That is the award the association gave to Judy and
@@ -499,7 +519,8 @@ One absence is worth noting rather than passing over: the page says the alumni n
 
 28. YMCA of Montreal, annual report for the year ended **31 May 2003**, English and French editions [src_ymf_sgw_ymca_annual_report_2002_2003, src_ymf_sgw_ymca_annual_report_2002_2003_fr], the Kamp Kanawana paragraph. Read 2026-09-08. The volume had been read for Kanawana content on 2026-09-06 under p_454, which took the sentence before this one and the paragraph after it. See [f_5762].
 29. YMCA of Montreal, annual reports for **FY2002-2003**, **FY2003-2004** and **FY2004-2005**, both editions of each where cached [src_ymf_sgw_ymca_annual_report_2002_2003, src_ymf_sgw_ymca_annual_report_2002_2003_fr, src_ymf_sgw_ymca_annual_report_2003_2004, src_ymf_sgw_ymca_annual_report_2003_2004_fr, src_ymf_sgw_ymca_annual_report_2004_2005, src_ymf_sgw_ymca_annual_report_2004_2005_fr], the *Local Advisory Councils* pages. The FY2003-2004 roster had been extracted in full on 2026-07-07 as [f_1751] and only Arleen Boyer's name from it was ever written into an article. See [f_5763].
-30. YMCA of Montreal / Montreal YMCA Foundation, the *Allocation of funds generated by YMCA Endowment Fund investments* tables in the annual reports for **1999-2000**, **2000-2001**, **2001-2002** and **2002-2003**, with the French edition of the last [src_ymf_sgw_ymca_annual_report_1999_2000, src_ymf_sgw_ymca_annual_report_2000_2001, src_ymf_sgw_ymca_annual_report_2001_2002, src_ymf_sgw_ymca_annual_report_2002_2003, src_ymf_sgw_ymca_annual_report_2002_2003_fr]. Read 2026-09-08 under p_487. Only these four volumes carry the table. See [f_5766].
+30. YMCA of Montreal / Montreal YMCA Foundation, the *Allocation of funds generated by YMCA Endowment Fund investments* tables in the annual reports for **1998-1999**, **1999-2000**, **2000-2001**, **2001-2002** and **2002-2003**, with the French edition of the last [src_ymf_sgw_ymca_annual_report_1998_1999, src_ymf_sgw_ymca_annual_report_1999_2000, src_ymf_sgw_ymca_annual_report_2000_2001, src_ymf_sgw_ymca_annual_report_2001_2002, src_ymf_sgw_ymca_annual_report_2002_2003, src_ymf_sgw_ymca_annual_report_2002_2003_fr]. Read 2026-09-08 under p_487. Only these five volumes carry the table. See [f_5766].
+31. YMCA of Montreal, annual reports for **1995**, **1996**, **1998**, **1998-1999**, **1999-2000**, **2000-2001** and **2001-2002** [src_ymf_sgw_ymca_annual_report_1995, src_cache_sgw_ymca_annual_report_1996, src_ymf_sgw_ymca_annual_report_1998, src_ymf_sgw_ymca_annual_report_1998_1999, src_ymf_sgw_ymca_annual_report_1999_2000, src_ymf_sgw_ymca_annual_report_2000_2001, src_ymf_sgw_ymca_annual_report_2001_2002], the *Local Boards* and *Local Advisory Councils* pages. Read 2026-09-08 under p_487, correcting the same day's earlier reading of source 28. Kanawana has a board in the first two volumes and is absent from the branch list in the last five. See [f_5768].
 
 ## Research Notes
 

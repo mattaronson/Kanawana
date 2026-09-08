@@ -1307,7 +1307,7 @@
         "french-language-camping"
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-      "word_count": 16084,
+      "word_count": 16197,
       "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, renamed the orphaned 'R3 Verification Notes' H2 to the standard 'Research Notes' heading and condensed its bullet list into a single HTML-comment process-log entry. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -1926,7 +1926,7 @@
         "geoffrey-guiton"
       ],
       "file_id": null,
-      "word_count": 29889,
+      "word_count": 29988,
       "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article. | 2026-07-11: Added wiki-links to Gary White, David Leduc, Kate Taylor, Marie-Pierre Lacasse table rows and Related Articles, pointing to new standalone institutional-role-director articles. | 2026-07-11: Added wiki-links to Greig Macdiarmid, Francois Dauphin, Nicolas Garcia, Morgan Carter, Arleen Boyer, Justin Caldwell (Two-Tier Era + Staff by Era tables) and Matt/Dan Aronson (Related Articles), per the operator's revised C5 policy.",
       "tags": {
         "era": [
@@ -10037,7 +10037,11 @@
         "src_ymf_sgw_ymca_annual_report_2003_2004_fr",
         "src_ymf_sgw_ymca_annual_report_2004_2005_fr",
         "src_ymf_sgw_ymca_annual_report_1999_2000",
-        "src_ymf_sgw_ymca_annual_report_2001_2002"
+        "src_ymf_sgw_ymca_annual_report_2001_2002",
+        "src_cache_sgw_ymca_annual_report_1996",
+        "src_ymf_sgw_ymca_annual_report_1995",
+        "src_ymf_sgw_ymca_annual_report_1998",
+        "src_ymf_sgw_ymca_annual_report_1998_1999"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -10054,7 +10058,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 7397,
+      "word_count": 7755,
       "notes": "2026-07-11: Workstream C4 spawn (4 of 4, final). Connective-narrative synthesis, no new research conducted. Ties together this session's institutional-role-director spawns into continuous narrative history. This completes Workstream C4 and the full operator-approved plan. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
       "tags": {
         "era": [
@@ -10435,7 +10439,7 @@
         "modern-era"
       ],
       "file_id": null,
-      "word_count": 834,
+      "word_count": 992,
       "notes": "2026-07-11: Spawned per operator's revised C5 policy. No new research conducted. | 2026-08-14 p_223: applied the Two-Tier Era BLOCKING fixes from the p_218 audit (Gary White tier conflation per resolved c_015; Leduc chronology; uncited load-bearing claims; Garcia/Taylor overlap raised as c_022).",
       "tags": {
         "era": [
