@@ -1,8 +1,8 @@
 {
-  "version": "11.77",
-  "kb_version": "11.77",
+  "version": "11.78",
+  "kb_version": "11.78",
   "migrated_from": "3.3",
-  "fact_count": 5778,
+  "fact_count": 5779,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -104339,6 +104339,26 @@
       "date_ref": "1975",
       "conflicts_with": [],
       "added_version": "11.77",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5817",
+      "claim": "THE TWO-SITE PLAN HAD NUMBERS AND A PLACE, AND A STAFF COMMITTEE HAD BEEN PLANNING SINCE DECEMBER. The 1977 director's report, MONTREAL OFFICE section: 'During the past year, THE BRANCH BUILDING COMMITTEE has refined the plans for the new construction and renovation of the Kanawana property. 1978 WILL INITIATE A TWO SITE OPERATION. The present site will have 98 SENIOR KAMPERS while the NEW YEAR ROUND SITE, AT THE WEST END OF LAKE KANAWANA BEYOND FAREWELL ROCK, will house 98 JUNIORS.' site/the-kanawana-site.md has the plan, its $850,000 figure, the line 'this is the last year of K.K. as we've known it' and the fact that construction never started. IT DOES NOT HAVE THE SHAPE OF THE THING PLANNED: two sites of 98 each, juniors separated from seniors, and the new one YEAR-ROUND and sited BEYOND FAREWELL ROCK -- a landmark already on the camp's 1928 map. THE SAME SECTION NAMES THE OFFICE AND ITS COST. 'It was a busy year for our camp secretary, OLGA HALL. The extra work related to the building and renovations of K.K. as well as THE CAMP DIRECTOR BEING PRESIDENT OF THE Q.C.A. substantially increased her work load.' Derek Walsh's QCA presidency is already dated in this wiki to by October 1976 from the association's own listings; this is the camp's side of it, and it records that a director's provincial office was paid for in his secretary's hours. AND A STAFF COMMITTEE PREDATES THE SEASON BY SEVEN MONTHS: 'Since last December, A GROUP OF 12 K.K. STAFF have worked with me planning for this summer. Some items dealt with, developed or recommended were: staff manual; policies for staff and kampers; INTEREST GROUP SYSTEM; C.I.T. program; STAFF AGREEMENT; building plans... This work not only was a big help to Kanawana but also DEVELOPED A COMMITMENT TO KAMP AT AN EARLY STAGE.' A winter planning committee of seasonal staff, with the retention motive stated outright, in the years either side of the 1975 staff-returnee collapse from 72% to 52% (f_5807).",
+      "sources": [
+        "src_ia_kanawana_report_1977"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "two-site operation",
+        "Farewell Rock",
+        "Olga Hall",
+        "Branch Building Committee",
+        "Staff Committee"
+      ],
+      "date_ref": "1977 (on 1978)",
+      "conflicts_with": [],
+      "added_version": "11.78",
       "added_by": "ralph_loop"
     }
   ]

@@ -56,6 +56,17 @@ THIS INSTRUMENT ON SCANNED TEXT, and it is high: expect roughly a third of the
 tokens in an OCR'd document to be absent because they are damaged, not because
 they are new. Read the ratio against that floor, not against zero.
 
+WHEN INSPECTING ONE SOURCE it also prints the document's SECTION HEADINGS with
+line numbers, and that is not decoration. On 2026-09-08 the 1975 director's
+report took FIVE separate passes in one evening: Food Services, then Kampers and
+Staff, then Hike & Trip, then the camper questionnaire, then the rest. The first
+four each read the document for one thing and left the next -- the failure this
+project has catalogued for weeks, committed four times against one file by the
+person cataloguing it. The fifth pass began by listing the headings and working
+them in order, and that is what finished it. So the instrument that sends you to
+a document now hands you its map at the same time: a heading list is a checklist,
+and a document read against one is finishable.
+
 NOT A CHECK. No baseline, not in all.py, exits 0 always. Its output is a queue.
 """
 import json
@@ -71,6 +82,15 @@ WS = re.compile(r'[ \t\xa0]+')
 NAME = re.compile(r"\b[A-Z][a-zA-Z'’-]{2,}\s+[A-Z][a-zA-Z'’-]{2,}\b")
 # A figure worth checking: money, a percentage, or a number with a separator.
 FIGURE = re.compile(r'\$\s?\d[\d, ]*\d|\b\d{1,3}(?:[, ]\d{3})+\b|\b\d+(?:\.\d+)?\s?%')
+
+# A section heading in these documents: a short line, mostly capitals or title
+# case, no sentence punctuation. Deliberately loose -- a heading list with a few
+# false entries is still a map; a strict pattern that drops PROGRAM AREAS is not.
+# ALL CAPS, or Title Case ending in a colon. A first version allowed any short
+# capitalised line and returned the 1977 report's entire staff roster as
+# "headings" -- ninety names, each a short Title Case line. Two words with no
+# colon is a person, not a section.
+HEADING = re.compile(r'^(?:[A-Z][A-Z0-9 &/\'.-]{3,44}|[A-Z][A-Za-z0-9 &/\'.-]{2,44}:)\s*$')
 
 NOISE = re.compile(r'(YMCA|Camp|Kamp|Montreal|Montr|Quebec|Qu.bec|Internet Archive'
                    r'|Annual Report|Saint|St\.|Canada|Canadian)', re.I)
@@ -189,6 +209,13 @@ def main() -> int:
         if only:
             for t in alist[:60]:
                 print('          %s' % t)
+            heads = [(n + 1, l.strip()) for n, l in enumerate(lines)
+                     if HEADING.match(l.strip()) and len(l.strip().split()) <= 6]
+            if heads:
+                print()
+                print('        SECTION HEADINGS -- read them in order, tick them off:')
+                for n, h in heads[:60]:
+                    print('        %6d  %s' % (n, h))
     if not only and len(rows) > limit:
         print('  … %d more below the top %d' % (len(rows) - limit, limit))
     return 0

@@ -9239,3 +9239,31 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   finished it. The source record says so.
   ARTICLES: programs-activities.md, green-triangle.md (src 18),
     environmental-history.md (src 48). KB 11.75/5775 -> 11.77/5778.
+
+[2026-09-08T04:15:09Z] INSTRUMENT: the triage now prints a document's heading map
+  Made structural what the 1975 report taught by costing five passes: when
+  inspecting one source, skimmed_triage.py now prints its SECTION HEADINGS with
+  line numbers. The instrument that sends you to a document hands you its map at
+  the same time, so "read it end to end" becomes a checklist rather than an
+  intention.
+  ITS FIRST PATTERN WAS TOO LOOSE and returned the 1977 report's entire staff
+  roster as headings -- ninety names, each a short Title Case line. Tightened to
+  ALL CAPS or Title Case ending in a colon: two words with no colon is a person,
+  not a section. Twenty real headings for the 1977 report.
+  f_5817  Worked straight off that map. THE TWO-SITE PLAN HAD NUMBERS AND A
+          PLACE: "1978 will initiate a two site operation. The present site will
+          have 98 SENIOR KAMPERS while the NEW YEAR ROUND SITE, AT THE WEST END
+          OF LAKE KANAWANA BEYOND FAREWELL ROCK, will house 98 JUNIORS", refined
+          by the BRANCH BUILDING COMMITTEE. the-kanawana-site.md had the plan,
+          the $850,000 and the fact it never started, but not its shape.
+          THE OFFICE AND ITS COST: camp secretary OLGA HALL, whose workload rose
+          from the building work "as well as THE CAMP DIRECTOR BEING PRESIDENT OF
+          THE Q.C.A." -- Walsh's provincial office paid for in his secretary's
+          hours, from the camp's own side.
+          AND A WINTER STAFF COMMITTEE: twelve staff working with the director
+          "since last December" on the staff manual, policies, the interest group
+          system, the CIT programme, a staff agreement and building plans, which
+          "developed A COMMITMENT TO KAMP AT AN EARLY STAGE" -- the retention
+          motive stated outright, either side of the 1975 returnee collapse.
+  The 1977 source record now lists its unread sections BY HEADING.
+  ARTICLES: the-kanawana-site.md (src 77). KB 11.77/5778 -> 11.78/5779.

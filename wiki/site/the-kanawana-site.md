@@ -1,7 +1,7 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 76*
-*Last Updated: 2026-09-08 (a baseball field authorised in 1916)*
+*Status: E1-reviewed | Sources: 77*
+*Last Updated: 2026-09-08 (the two-site plan's numbers and place; a baseball field authorised in 1916)*
 
 ## Overview
 
@@ -556,6 +556,14 @@ Lac Kanawana is monitored by the Conseil régional de l'environnement des Lauren
 
 From 1977 to 1980, plans existed for a proposed two-site operation using Kanawana and Camp Weredale.^13 Camp Weredale was founded in 1934 to serve orphaned or at-risk boys and is now an independent non-profit operated by the Weredale Foundation, serving ages 6–17 in foster care or youth protection services.^15 A direct fetch of Batshaw Centres' own institutional history pages for Camp Weredale (2026-07-09) confirms they make zero mention of the YMCA, Kanawana, or any two-site plan at all.^32 This was not simply a proposal that went unrealized: Concordia's finding aid for sub-series 12F documents an actual signed 1979 lease between the Weredale Foundation and the Montreal YMCA, plus joint files running through 1981-1982 (a day-camp proposal, a "YMCA staff cottage rental," a "Comité Weredale"; see Revision History and [[connections/related-camps/camp-weredale|Camp Weredale and Its Relationship to Kanawana]] for the full finding). Both camps operate independently today; why and when the 1979-1982 arrangement ended remains undocumented online.^34
 
+**What was actually planned had numbers and a place.** The same 1977 report's Montreal Office section:
+"During the past year, the **Branch Building Committee** has refined the plans for the new construction and
+renovation of the Kanawana property. **1978 will initiate a two site operation. The present site will have 98
+senior kampers while the new year round site, at the west end of Lake Kanawana beyond Farewell Rock, will
+house 98 juniors.**"^77 Two sites of ninety-eight each, juniors separated from seniors, and the new one
+**year-round** — sited beyond **Farewell Rock**, a landmark already on the camp's 1928 map
+([[site/places-and-locations|Places and Locations]] has it). [f_5817]
+
 **The reconstruction was announced, then did not start, and the staff were told so.** The 1977 director's report opens with bulldozers arriving for an $850,000 two-site reconstruction and the line "this is the last year of K.K. as we've known it." Nine months later the camp's own staff newsletter reports the opposite: "At this point, we have not started construction of the new site. **So here we go again with another 'last' summer.**"^59 The "again" is the useful word. It says the staff had been told more than once that a given season would be the last on the present site, which puts the 1977 announcement in a sequence rather than at the head of one, and it dates the stall to **1 December 1977**. Nothing in the newsletter says what the new site was to be, and it should not be assumed to be the Weredale arrangement above; the two are contemporaneous and the newsletter does not join them.
 
 
@@ -784,6 +792,7 @@ line on another's is the shape of the decision as it appears in the ledger. See
 74. *Kamp Kanawana Annual Report 1970* [src_ia_kanawana_report_1970], its RENTALS and VISITORS section; cached at `sources/cache/ymca-montreal-fonds/1970-kamp-kanawana-annual-report.txt`. Read end to end 2026-09-07 under `p_491`. See [f_5704].
 75. YMCA of Montreal annual reports for **1925**, **1926**, **1927**, **1928**, **1949**, **1951**, **1956** and **1958** [src_ymf_sgw_ymca_annual_report_1925, src_ymf_sgw_ymca_annual_report_1926, src_ymf_sgw_ymca_annual_report_1927, src_ymf_sgw_ymca_annual_report_1928, src_ymf_sgw_ymca_annual_report_1949, src_ymf_sgw_ymca_annual_report_1951, src_ymf_sgw_ymca_annual_report_1956, src_ymf_sgw_ymca_annual_report_1958], their asset schedules of land, buildings and furnishings by unit. Cached under `sources/cache/ymca-montreal-fonds/`; swept 2026-09-07 under `p_259`, the seam the annual-report pass identified and did not attempt. See [f_5712].
 76. YMCA of Montreal, **sixty-sixth annual report, year ending 30 April 1917** [src_ymf_sgw_ymca_annual_report_1917], the Boys' Camp paragraph. Read 2026-09-08 under p_441. See [f_5790].
+77. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977], its Montreal Office section. Read 2026-09-08 under p_441. See [f_5817].
 
 ## Research Notes
 
