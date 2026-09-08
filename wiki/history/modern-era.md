@@ -1,7 +1,7 @@
 # The Modern Era: The Two-Tier Era (1995–Present)
 
-*Status: draft | Sources: 27*
-*Last Updated: 2026-09-07 (the 2026 handbook's values; the volunteer scheme and the Non Nobis Solum Committee)*
+*Status: draft | Sources: 29*
+*Last Updated: 2026-09-08 (the Local Advisory Committee's founding year, purpose and first three rosters)*
 
 ## Overview
 
@@ -172,7 +172,37 @@ Seven consecutive summers on assistance, 2009 to 2016. The reason she gives is t
 Work Committee gave in 1931 and the "Values for Living" framework at [[traditions/programs-activities|Programs and Activities]]
 gave in the 1950s, in institutional language: character formed somewhere the pressure is off.
 
-## The camp's own committee, 2014-2017
+## The camp's own committee, 2002-2017
+
+**It began in the summer of 2002, and it began as a safety body.** The Montreal YMCA's report for the year
+ended 31 May 2003 says so in the middle of its Kanawana paragraph: "This summer, we upgraded a number of our
+facilities and programs, **established a new Local Advisory Council to conduct safety audits**, and welcomed
+one of the most mature and culturally diverse groups of counselors and program staff ever." The French
+edition puts it the same way, *un nouveau conseil consultatif chargé de veiller à la sécurité du camp*.^28
+Set that against the camp's 2026 description of the same body, quoted further down this article — quarterly
+meetings, "a say on how Kanawana is managed… to discuss Kanawana's needs and future directions" — and the
+committee has travelled a long way from an audit function in twenty-four years.
+
+*This wiki quoted the sentence before it and the paragraph after it and never quoted this one.* The 770-camper
+figure two lines above is [f_5150]; the Non Nobis Solum volunteer group two lines below is [f_5149]; both were
+taken out of this volume on 2026-09-06, whose source record says it was read for Kanawana content. The
+council sentence sits between them and does not contain the word Kanawana, which is the whole of the
+explanation. [f_5762]
+
+**The first three rosters, and a chair who has been missing from this project.** The same reports print the
+branch committees under *Local Advisory Councils*. The founding year, FY2002-2003, six members: "Brown-Poole,
+Lynn; **Carter, Morgan M.**; Cochand, Toni; Lozoff, Rick; Morriss, Marley; Weil, Judy," with no chair marked
+in either edition. FY2003-2004, six: "Boyer, Arleen; Brown-Poole, Lynn; **Cochand, Toni (Chair)**; Lozoff,
+Rick; Morriss, Marley; Weil, Judy." FY2004-2005, four: "Boyer, Arleen; Lozoff, Rick; Morriss, Marley; **Weil,
+Judy (Chair)**." So **Toni Cochand** chaired it and handed the chair to **Judy Weil**, Brown-Poole and Cochand
+left, and [[people/arleen-boyer|Arleen Boyer]] joined in the second year — five years after her own
+directorship ended.^29 [f_5763]
+
+**And Morgan Carter sat on it while he was running the camp.** Both his article and the directors index read
+his 2011 appearance as a former director returning as a volunteer, which is a real pattern here and is not
+what the founding roster shows: in FY2002-2003 he is the camp's Interim Director *and* on its new advisory
+council, eleven lines below the Senior Management entry that gives him the job. That entry is
+[[people/morgan-carter|his article]]'s source 2 and has been since the article was spawned.
 
 **The community reports print the camp's committee year by year, which is the most useful thing in them.**
 The **2013** roster names Don Bennett, Morgan Carter, **Valery Cordemans (Chair)**, Sean Day, Steven Henle, Derek Lyndsay, Adrian Maas and Chris Mannitt — *the chairmanship is read from the series' own layout convention, which the 2015 volume settles: the title line follows the name it belongs to and precedes the next. These are multi-column rosters in an OCR'd scan, so it is a reading of layout rather than of a sentence.*^23 The 2014 roster: "Camp YMCA Kanawana — Bennett, Don; **Carter, Morgan (Chair)**; Cordemans, Valerie; **Day,
@@ -381,7 +411,7 @@ a camperships mechanism as much as a staffing one.
 
 The same page names the camp's **two standing committees**. The **Local Advisory Committee** meets
 quarterly, to "have a say on how Kanawana is managed… to discuss Kanawana's needs and future directions" —
-the body whose 2013–2017 rosters this article records above. And the **Non Nobis Solum Committee** is "the
+the body whose rosters this article records above, from its founding year of 2002 to 2017. And the **Non Nobis Solum Committee** is "the
 perfect committee to get your hands dirty," an on-call group for coordinated volunteering events such as the
 spring clean-up. The camp's Latin motto is the name of its working party, which is about as literal a use of
 *not for ourselves alone* as the phrase admits.
@@ -439,6 +469,9 @@ One absence is worth noting rather than passing over: the page says the alumni n
 25. YMCA of Montreal, annual report for **2000-2001** [src_ymf_sgw_ymca_annual_report_2000_2001]. Read 2026-09-07 under the sharpened p_441. See [f_5588].
 26. *Camp Kanawana Preparation Guide, Summer 2026* (parent handbook) [src_kk_prep_guide_2026], published on ymcaquebec.org and cached at `sources/cache/parent-guides/Camp-Kanawana-GUIDE-Parent-EN_2026.txt`, 74,071 characters; read word for word 2026-09-07 under p_487, having previously been marked *extracted* while its own record said a full extraction was outstanding. See [f_5603].
 27. Camp YMCA Kanawana, "Kanawana Alumni" [src_ymcaq_kanawana_alumni_2026], https://www.ymcaquebec.org/en/summer-camp-kanawana/alumni, read 2026-09-07; cached at `sources/cache/web-pages/ymcaquebec-kanawana-alumni-2026.txt`. Carries the Volunteer Recognition Guidelines and the camp's two named committees. See [f_5613].
+
+28. YMCA of Montreal, annual report for the year ended **31 May 2003**, English and French editions [src_ymf_sgw_ymca_annual_report_2002_2003, src_ymf_sgw_ymca_annual_report_2002_2003_fr], the Kamp Kanawana paragraph. Read 2026-09-08. The volume had been read for Kanawana content on 2026-09-06 under p_454, which took the sentence before this one and the paragraph after it. See [f_5762].
+29. YMCA of Montreal, annual reports for **FY2002-2003**, **FY2003-2004** and **FY2004-2005**, both editions of each where cached [src_ymf_sgw_ymca_annual_report_2002_2003, src_ymf_sgw_ymca_annual_report_2002_2003_fr, src_ymf_sgw_ymca_annual_report_2003_2004, src_ymf_sgw_ymca_annual_report_2003_2004_fr, src_ymf_sgw_ymca_annual_report_2004_2005, src_ymf_sgw_ymca_annual_report_2004_2005_fr], the *Local Advisory Councils* pages. The FY2003-2004 roster had been extracted in full on 2026-07-07 as [f_1751] and only Arleen Boyer's name from it was ever written into an article. See [f_5763].
 
 ## Research Notes
 

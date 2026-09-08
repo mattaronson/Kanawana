@@ -1,8 +1,8 @@
 {
-  "version": "11.36",
-  "kb_version": "11.36",
+  "version": "11.38",
+  "kb_version": "11.38",
   "migrated_from": "3.3",
-  "fact_count": 5723,
+  "fact_count": 5727,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103223,6 +103223,106 @@
       "date_ref": "c. 2004 / 2007",
       "conflicts_with": [],
       "added_version": "11.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5762",
+      "claim": "KANAWANA'S LOCAL ADVISORY COMMITTEE HAS A FOUNDING DATE AND AN ORIGINAL PURPOSE, AND BOTH SAT BETWEEN TWO SENTENCES THIS PROJECT HAD ALREADY QUOTED. The Montreal YMCA's annual report for the year ended 31 May 2003, in its Kamp Kanawana paragraph: 'This summer, we upgraded a number of our facilities and programs, ESTABLISHED A NEW LOCAL ADVISORY COUNCIL TO CONDUCT SAFETY AUDITS, and welcomed one of the most mature and culturally diverse groups of counselors and program staff ever.' The French edition of the same report puts the purpose the same way: 'Il a etabli un nouveau conseil consultatif charge de veiller a LA SECURITE DU CAMP.' So the body whose rosters this wiki records from 2011 to 2017, and which the camp's 2026 alumni page describes as meeting quarterly to discuss Kanawana's needs and future directions, began in the summer of 2002 as a SAFETY AUDIT body. THE MISS IS THE POINT: f_5150 quotes the sentence immediately BEFORE this one ('770 Kampers enjoyed a whole range of outdoor activities') and f_5149 quotes the paragraph immediately AFTER it (the Non Nobis Solum volunteer group), both extracted 2026-09-06 under p_454 from this same volume, whose source record reads 'read for Kanawana content'. The sentence in between was passed over twice. A pass that reads for a keyword reads the sentences a keyword lands in, and this one does not contain the word Kanawana.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2002_2003",
+        "src_ymf_sgw_ymca_annual_report_2002_2003_fr"
+      ],
+      "confidence": "stated",
+      "category": "governance",
+      "entities": [
+        "Local Advisory Committee",
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "summer 2002 / FY2002-2003",
+      "conflicts_with": [],
+      "added_version": "11.37",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5763",
+      "claim": "THREE CONSECUTIVE ROSTERS OF THE KANAWANA LOCAL ADVISORY COMMITTEE, ITS FIRST THREE YEARS, AND A CHAIR HANDOVER. The Montreal YMCA's annual reports print the branch committees under LOCAL ADVISORY COUNCILS. FY2002-2003 (the founding year), six members: 'YMCA Kamp Kanawana -- Brown-Poole, Lynn; Carter, Morgan M.; Cochand, Toni; Lozoff, Rick; Morriss, Marley; Weil, Judy', no chair marked in either the English or the French edition. FY2003-2004, six: 'Boyer, Arleen; Brown-Poole, Lynn; Cochand, Toni (Chair); Lozoff, Rick; Morriss, Marley; Weil, Judy' -- the French edition gives the same six and styles the chair '(presidente)'. FY2004-2005, four: 'Boyer, Arleen; Lozoff, Rick; Morriss, Marley; Weil, Judy (Chair)'. So the chairmanship passes from TONI COCHAND to JUDY WEIL between 2003-04 and 2004-05; Brown-Poole and Cochand leave; Boyer joins in the second year and stays. MORGAN CARTER SAT ON THE COMMITTEE IN ITS FOUNDING YEAR WHILE HE WAS THE CAMP'S OWN INTERIM DIRECTOR, which is a different thing from the former-director-returns-as-volunteer pattern his article and the directors index both read into his 2011 appearance. The FY2002-2003 roster is eleven lines below the Senior Management entry naming him Interim Director in the same document, which morgan-carter.md has cited as its source 2 since the article was spawned. The FY2003-2004 roster was extracted in full as f_1751 on 2026-07-07 and only Arleen Boyer's name from it was ever written into an article.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_2002_2003",
+        "src_ymf_sgw_ymca_annual_report_2002_2003_fr",
+        "src_ymf_sgw_ymca_annual_report_2003_2004",
+        "src_ymf_sgw_ymca_annual_report_2003_2004_fr",
+        "src_ymf_sgw_ymca_annual_report_2004_2005",
+        "src_ymf_sgw_ymca_annual_report_2004_2005_fr"
+      ],
+      "confidence": "stated",
+      "category": "governance",
+      "entities": [
+        "Local Advisory Committee",
+        "Toni Cochand",
+        "Judy Weil",
+        "Morgan Carter",
+        "Arleen Boyer",
+        "Lynn Brown-Poole",
+        "Rick Lozoff",
+        "Marley Morriss"
+      ],
+      "date_ref": "FY2002-2003 to FY2004-2005",
+      "conflicts_with": [],
+      "added_version": "11.37",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5764",
+      "claim": "THE CHAIR OF KANAWANA'S ADVISORY COMMITTEE WAS MARRIED TO THE ASSOCIATION'S CHIEF EXECUTIVE, AND THE ASSOCIATION SAID SO IN PRINT. Michael Weil joined the Montreal YMCA as President and Chief Executive Officer in APRIL 1997, per the outgoing board chairman's message in that year's annual report: 'Mr. Weil is back in Montreal after spending several years in Winnipeg where he held the position of CEO of the YM-YWCA of Winnipeg. He LAUNCHED HIS CAREER AT THE MONTREAL YMCA IN 1979 as director of community justice initiatives, director of the Saint-Laurent YMCA, director of special projects and director of the Downtown YMCA.' He signs the reports as President and CEO through FY2000-2001; the FY2001-2002 report refers to him in the past tense -- 'Michael Weil, one of the architects behind the major rethinking process, who UNTIL RECENTLY was President & CEO of the Montreal YMCA' -- so his tenure ends in or shortly before that fiscal year. THE LINK TO THE CAMP IS HIS SPOUSE. The association's 2009 report records 'the presentation of the Gabrielle and Maurice A. Masse Award to JUDY AND MICHAEL WEIL, A COUPLE who has contributed greatly to the successes of The YMCAs of Quebec through their involvement over many years as directors, employees, and volunteers', at the 21st Heritage Club dinner in March 2009. Judy Weil sat on Kanawana's local advisory committee from its founding year FY2002-2003 and chaired it in FY2004-2005 (f_5763), the years immediately after her husband left the chief executive's office. THE KINSHIP IS DOCUMENTED, NOT INFERRED -- this project has been burned by name-matching before, and this is the association naming them as a couple in its own report. Michael Weil appears nowhere else in this wiki or KB; gary-white.md reads him as an alphabetical neighbour in a Senior Management roster ('after St-Yves, Tremblay and Weil') without registering that the neighbour is the chief executive.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1997",
+        "src_ymf_sgw_ymca_annual_report_2001_2002",
+        "src_ymf_sgw_ymca_annual_report_2009"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Michael Weil",
+        "Judy Weil",
+        "YMCA of Montreal",
+        "Gabrielle and Maurice A. Masse Award"
+      ],
+      "date_ref": "April 1997 to c. 2001-2002; award March 2009",
+      "conflicts_with": [],
+      "added_version": "11.37",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5765",
+      "claim": "A CHIEF-EXECUTIVE SUCCESSION FOR THE MONTREAL YMCA, 1980-2009, WHICH THIS WIKI HELD NONE OF. connections/institutional-lineage/ymca-quebec-history.md has a Current Leadership section naming exactly one chief executive, Pascale Audette from January 2025. The cached annual reports sign themselves, and the signature blocks give: K. W. JOHNSTON, 'Directeur general / Director General and Chief Executive Officer', FY1980-1981; S. (SOL) KASIMER in the same title from FY1981-1982 through at least 1985, and still listed as 'Director General' in the 1992 report ALONGSIDE a separate President and CEO, so the two titles coexisted rather than one replacing the other; MICHAEL GOLDBLOOM, President and Chief Executive Officer, by 1992 until 'On June 1, 1994, Michael Goldbloom RESIGNED as the President and Chief Executive Officer of the Montreal YMCA to become the PRESIDENT AND PUBLISHER OF THE GAZETTE'; BERNARD W. MATTE, 'elected President and Chief Executive Officer effective June 1, 1994', a volunteer at the association for the previous fifteen years and its Chairman of the Board 1985-1988, signing through 1996; MICHAEL WEIL from April 1997 (f_5764) through FY2000-2001; STEPHANE VAILLANCOURT by FY2002-2003, whose first report speaks of 'a smooth transition with senior management', through at least 2009. The 1986-1991 volumes were not checked for this and the 2010-2024 span is not covered by the cached reports.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1980_1981",
+        "src_ymf_sgw_ymca_annual_report_1981_1982",
+        "src_ymf_sgw_ymca_annual_report_1984",
+        "src_ymf_sgw_ymca_annual_report_1985",
+        "src_ymf_sgw_ymca_annual_report_1992",
+        "src_cache_sgw_ymca_annual_report_1993",
+        "src_cache_sgw_ymca_annual_report_1994",
+        "src_ymf_sgw_ymca_annual_report_1995",
+        "src_cache_sgw_ymca_annual_report_1996",
+        "src_ymf_sgw_ymca_annual_report_2002_2003",
+        "src_ymf_sgw_ymca_annual_report_2004_2005"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "K. W. Johnston",
+        "Sol Kasimer",
+        "Michael Goldbloom",
+        "Bernard W. Matte",
+        "Michael Weil",
+        "Stephane Vaillancourt",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1980-2009",
+      "conflicts_with": [],
+      "added_version": "11.38",
       "added_by": "ralph_loop"
     }
   ]

@@ -1,7 +1,7 @@
 # Morgan Carter
 
 *Status: draft | Sources: 5*
-*Last Updated: 2026-07-11*
+*Last Updated: 2026-09-08 (the founding-year committee roster)*
 
 ## Overview
 
@@ -11,16 +11,21 @@ Morgan Carter served as Kanawana's on-site Camp Director for the summers of 2001
 
 Carter directed Kanawana on-site for the summers of 2001, 2002, and 2003.^1 The Montreal YMCA's Annual Report for fiscal year 2002–2003 lists, in its Senior Management roster, "Carter, Morgan M. — Interim Director, YMCA Kamp Kanawana," alongside "White, Gary — Director, Westmount YMCA" — by that fiscal year, White had moved to head a different Montreal YMCA branch entirely, with Carter holding the Kamp Kanawana directorship on an interim basis. The report's own org chart shows one "Director" per branch rather than an explicit two-tier Executive/on-site split, an open structural nuance also affecting how several other Two-Tier Era directors are documented.^2 Carter's tenure extending into 2003 is independently corroborated by a dining-hall plaque from that year — the article's only documentary support for the 2003 endpoint.^4 He was succeeded by Dave Leduc for the single summer of 2004.^1
 
-## Later Institutional Connection
+## The Advisory Committee, 2002–2017
 
-Carter reappears on the Montreal YMCA's 2011 Kanawana local advisory committee roster — a decade after his own directorship, consistent with a pattern seen with several other former Kanawana directors who remained connected to the camp as volunteer committee members after their paid tenure ended.^3
+**His committee service starts in the same year as his directorship, not a decade later.** Until 2026-09-08 this section opened by saying he "reappears" on the 2011 roster, reading it as the familiar pattern of a former director coming back as a volunteer. The founding roster says otherwise. The Montreal YMCA established the camp's Local Advisory Council in the summer of 2002 to conduct safety audits, and its first membership list — in the FY2002–2003 report, eleven lines below the Senior Management entry that names him Interim Director — reads "Brown-Poole, Lynn; **Carter, Morgan M.**; Cochand, Toni; Lozoff, Rick; Morriss, Marley; Weil, Judy," no chair marked.^2 So he sat on it *while running the camp*, from the day it existed. That report has been this article's source 2 since it was spawned; the roster page was never opened. [f_5763]
+
+He is absent from the FY2003–2004 and FY2004–2005 rosters, which are otherwise continuous, so the service is documented at 2002–03 and again from 2011 rather than straight through.^2
+
+Carter appears again on the 2011 roster, nine years after the founding one and eight after his last summer.^3
 
 **And he went on to chair it.** The YMCAs of Québec community reports print the camp's committee year by year. In **2014** the roster reads "Carter, Morgan **(Chair)**" among thirteen members; in **2015** "Carter, Morgan **(President)**" among twelve; and in **2017** "**Morgan Carter (Président)**" at the head of six.^5 So his committee service runs from at least 2011 to at least 2017, and he led it for at least the last four of those years — **fourteen years after his paid tenure ended**. Sean Day, then Executive Director, sat on the same committee in 2014.
 
 ## Open Questions
 
 1. [Nice-to-have] What was Carter's career before and after his Kanawana directorship?
-2. ~~[Nice-to-have] How long did his involvement with the camp's local advisory committee continue? The 2011 roster is documented; a 2012 listing was previously asserted here but could not be verified.~~ **[Resolved 2026-09-07]** At least to **2017**, and as its chair: the community reports name him Chair in 2014, President in 2015 and Président in 2017.^5 The 2012 listing is still unverified and 2013 and 2016 were not found, so the span is documented at its ends rather than continuously.
+2. ~~[Nice-to-have] How long did his involvement with the camp's local advisory committee continue? The 2011 roster is documented; a 2012 listing was previously asserted here but could not be verified.~~ **[Resolved 2026-09-07]** At least to **2017**, and as its chair: the community reports name him Chair in 2014, President in 2015 and Président in 2017.^5 The 2012 listing is still unverified and 2013 and 2016 were not found, so the span is documented at its ends rather than continuously. **[Extended backwards 2026-09-08]** It also runs earlier than this article knew: he was on the founding roster in FY2002–2003, during his own interim directorship, and off it for the two following years.^2 [f_5763]
+3. [Nice-to-have] Why is he absent from the FY2003–2004 and FY2004–2005 committee rosters, and when between 2005 and 2011 did he rejoin? The reports for those middle years are the gap.
 
 ## Related Articles
 

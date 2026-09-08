@@ -1926,7 +1926,7 @@
         "geoffrey-guiton"
       ],
       "file_id": null,
-      "word_count": 29400,
+      "word_count": 29889,
       "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article. | 2026-07-11: Added wiki-links to Gary White, David Leduc, Kate Taylor, Marie-Pierre Lacasse table rows and Related Articles, pointing to new standalone institutional-role-director articles. | 2026-07-11: Added wiki-links to Greig Macdiarmid, Francois Dauphin, Nicolas Garcia, Morgan Carter, Arleen Boyer, Justin Caldwell (Two-Tier Era + Staff by Era tables) and Matt/Dan Aronson (Related Articles), per the operator's revised C5 policy.",
       "tags": {
         "era": [
@@ -6849,7 +6849,7 @@
         "association-founding-dates"
       ],
       "file_id": null,
-      "word_count": 1583,
+      "word_count": 2137,
       "tags": {
         "era": [
           "1850s",
@@ -9412,7 +9412,7 @@
         "sean-day"
       ],
       "file_id": null,
-      "word_count": 570,
+      "word_count": 610,
       "notes": "2026-07-11: Workstream C (institutional-role director) spawn, split from directors-index.md. Set to stub given genuine thinness beyond annual-report tenure records. Follows the already-resolved conflict c_015 (documented dates over oral history, per operator directive 2026-07-07) rather than re-litigating it.",
       "tags": {
         "era": [
@@ -10030,7 +10030,12 @@
         "src_ymf_ymca_impact_report_2025",
         "src_ymf_sgw_ymca_community_report_2016",
         "src_ymf_sgw_ymca_annual_report_2000_2001",
-        "src_ymcaq_kanawana_alumni_2026"
+        "src_ymcaq_kanawana_alumni_2026",
+        "src_ymf_sgw_ymca_annual_report_2002_2003",
+        "src_ymf_sgw_ymca_annual_report_2002_2003_fr",
+        "src_ymf_sgw_ymca_annual_report_2003_2004",
+        "src_ymf_sgw_ymca_annual_report_2003_2004_fr",
+        "src_ymf_sgw_ymca_annual_report_2004_2005_fr"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -10047,7 +10052,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 6509,
+      "word_count": 7033,
       "notes": "2026-07-11: Workstream C4 spawn (4 of 4, final). Connective-narrative synthesis, no new research conducted. Ties together this session's institutional-role-director spawns into continuous narrative history. This completes Workstream C4 and the full operator-approved plan. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
       "tags": {
         "era": [
@@ -10420,7 +10425,7 @@
         "src_ymf_sgw_ymca_community_report_2015",
         "src_ymf_sgw_ymca_community_report_2017"
       ],
-      "open_questions": 1,
+      "open_questions": 2,
       "cross_links": [
         "directors-index",
         "david-leduc",
@@ -10428,7 +10433,7 @@
         "modern-era"
       ],
       "file_id": null,
-      "word_count": 624,
+      "word_count": 834,
       "notes": "2026-07-11: Spawned per operator's revised C5 policy. No new research conducted. | 2026-08-14 p_223: applied the Two-Tier Era BLOCKING fixes from the p_218 audit (Gary White tier conflation per resolved c_015; Leduc chronology; uncited load-bearing claims; Garcia/Taylor overlap raised as c_022).",
       "tags": {
         "era": [

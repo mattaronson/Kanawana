@@ -1,7 +1,7 @@
 # Gary White
 
 *Status: stub | Sources: 4*
-*Last Updated: 2026-09-07 (the directorship starts a year earlier)*
+*Last Updated: 2026-09-08 (the Senior Management neighbour identified)*
 
 ## Overview
 
@@ -12,7 +12,10 @@ Gary White served as Director of Camp Kanawana across fiscal years **2000–2001
 **The start moves back a year.** Until 2026-09-07 this article dated his directorship to FY2001–2002 alone,
 because that is the volume it had been shown. The **FY2000–2001** report already names him: its Senior
 Management roster ends, alphabetically after St-Yves, Tremblay and Weil, with "**White. Gary / Director, /
-Kamp Kanawana**."^4 Set against the same rosters naming [[people/joanna-hoad|Joanna A.A. Hoad]] through
+Kamp Kanawana**."^4 *That alphabetical
+neighbour is worth a second look: "Weil" there is **Michael Weil**, the association's President and Chief
+Executive Officer from April 1997, whose wife **Judy Weil** chaired Camp Kanawana's advisory committee in
+FY2004-05 [f_5764]. Noted 2026-09-08; see [[people/directors-index|the directors index]].* Set against the same rosters naming [[people/joanna-hoad|Joanna A.A. Hoad]] through
 1999–2000, **the handover falls between the two volumes**, with no gap and no overlap. [f_5719]
 
 The Montreal YMCA's Annual Report for fiscal year 2001–2002 lists, in its Senior Management section: "White, Gary — Director, YMCA Kamp Kanawana."^1 By the following fiscal year's report (2002–2003), White appears instead as "Director, Westmount YMCA," with Morgan Carter listed as "Interim Director, YMCA Kamp Kanawana" — indicating White had moved to a different branch entirely within roughly a year of his documented Kanawana directorship.^2 The 2003–2004 report confirms him continuing at Westmount, not Kanawana.^2 His Westmount YMCA tenure is independently extended through at least 2007 by that year's annual report, which lists him on the Westmount YMCA board.^3

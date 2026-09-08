@@ -19890,7 +19890,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "partial",
-      "read_state_basis": "2026-09-06 under p_454: the Kanawana passages read in context. THE REST OF THE VOLUME IS NOT READ."
+      "read_state_basis": "2026-09-06 under p_454: the Kanawana passages read in context. RE-READ 2026-09-08 for the outgoing board chairman's message, which gives Michael Weil's April 1997 arrival as President and CEO and his prior career (f_5764, f_5765). The rest of the volume is not read."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_1997_fr",
@@ -20088,7 +20088,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "partial",
-      "read_state_basis": "read for Kanawana content 2026-09-06 under p_454; the rest of the volume not read. Produced f_5148, f_5149 and/or f_5150."
+      "read_state_basis": "read for Kanawana content 2026-09-06 under p_454; produced f_5148, f_5149 and/or f_5150. RE-READ 2026-09-08 under p_487, which found the Local Advisory Council's founding sentence sitting BETWEEN two sentences the earlier pass had quoted, plus the committee roster page (f_5762, f_5763). The rest of the volume is still not read."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_2002_2003_fr",
@@ -20106,7 +20106,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "2026-09-08 under p_487: read closely for Kanawana. The Kanawana paragraph (the new conseil consultatif for camp safety, the Non Nobis Solum volunteer group, off-season programming) and the Local Advisory Councils page. Produced f_5762 and f_5763."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_2003_2004",
@@ -20142,7 +20142,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "2026-09-08 under p_487: read closely for Kanawana. Confirms the FY2003-2004 local advisory committee roster (six names, Toni Cochand '(présidente)') independently of the English edition, and carries the Sam Lazarus memorial already worked from the English volume. Produced f_5763."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_2004_2005",
@@ -20322,7 +20322,7 @@
       "reliability": "secondary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "partial",
-      "read_state_basis": "read for Kanawana content 2026-09-06 under p_454; the rest of the volume not read."
+      "read_state_basis": "read for Kanawana content 2026-09-06 under p_454. RE-READ 2026-09-08 for the Heritage Club dinner and the Massé Award to Judy and Michael Weil (f_5764). The rest of the volume is not read."
     },
     {
       "source_id": "src_ymf_sgw_ymca_annual_report_2009_fr",
