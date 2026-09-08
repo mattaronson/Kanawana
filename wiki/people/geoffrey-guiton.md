@@ -1,6 +1,6 @@
 # Geoffrey Guiton
 
-*Status: draft | Sources: 9*
+*Status: draft | Sources: 12*
 *Last Updated: 2026-09-07*
 
 ## Overview
@@ -44,6 +44,47 @@ corroboration than most names here get.
 He appears in **eight consecutive volumes, 1919-20 through 1926-27, and in none after**. In the
 last of them the branch has moved and been renamed — "East Montreal, North Br., **5550 Park
 Ave.**" — and he is still its Boys' Secretary.^2
+
+### He ran the branch for a while, and then he left it for a theological college
+
+**Two paragraphs in the association's own annual reports say why the roster stops, and neither had been
+read.** Both reports are already in this project — the 1928 volume is cited above for Geo. S. Mooney at
+Otoreke — but they were read for their camps sections, and these sentences are in the *staff changes*
+section several pages away.
+
+**First, he was acting head of the branch.** W. J. Holliday, North Branch's Executive Secretary, was ill
+through 1926, and the report for the year ending 31 March 1927 records that "Mr. T. F. Best, one of the
+veteran retired Secretaries of the Association … **relieved Mr. Guiton who had been Acting Secretary in
+Mr. Holliday's absence, on February 1st**."^10 So the branch Boys' Secretary had been running the whole
+branch, for some months up to **1 February 1927**, in the year the roster last carries him.
+
+**Then he resigned, and the report says where he went.** The report for the year ending 31 March 1928:
+"**Mr. Geoffrey Guiton resigned as Boys' Work Secretary in September in order to complete his
+theological course at the Diocesan College**, and was succeeded by **Mr. George Porteous, B.A., of
+Saskatoon**."^11 On that report's fiscal year the September is **September 1927**, which is exactly where
+the *Year Book* run stops.
+
+**This is what Open Question 2 was asking for**, and it comes from the YMCA's side of the record rather
+than the church's. The association states, in its own annual report, that its North Branch Boys' Work
+Secretary left the post to finish a theological course **at the Diocesan College** — the Montreal
+Diocesan Theological College that Open Question 1 names as the register to check. *It does not prove the
+two Guitons are one man*, and the section below stands: a man completing a theological course in
+1927-28 and a priest appearing in the diocese in 1929 is a fit, not an identification, and the two
+records still never name each other. What has changed is the shape of the gap. It is no longer two or
+three unaccounted years at the end of a YMCA career; it is a documented move from youth work into
+training for ordination, in the right city, at the right college, at the right time. **The next document
+to find is the college's own register for 1927-29**, and it is now being asked a much narrower question.
+
+*And his successor is a camp director.* **George Porteous, B.A., of Saskatoon** takes the North Branch
+boys' desk in September 1927 and is Kanawana's Chief Director in **1929** — see
+[[people/directors-index|the directors index]]. The 1937 report adds his arrival and his departure: he
+"came to us from Western Canada some ten years ago", which puts him in Montreal about 1927, and on **1
+September 1937** he "resigned the Executive Secretaryship of the North Branch to accept the position of
+General Secretary" of the **Brantford** association, being succeeded there by **C. J. McGerrigle**, "a
+graduate of McGill University and the United Theological College", who "first served the Montreal
+Association at Notre Dame de Grace, later transferring to North Branch" — and who ran Camp Otoreke.^12
+**So the North Branch boys' desk passed from Guiton to Porteous to, in time, the branch itself**, and two
+of the three men in that line ran a Y camp.
 
 ## The priest, who has the same name and a much larger life
 
@@ -93,12 +134,17 @@ above is a search highlight.^7
 
 ## Open Questions
 
-1. [Critical] Is the North Branch Boys' Secretary the same man as the Rev. Geoffrey Guiton
-   (1892-1947)? Check the Montreal Diocesan Theological College register for admissions in
-   1926-1929, and Montreal newspapers for a 1947 death notice.
-2. [Critical] What did he do between the 1926-27 Year Book volume and the founding of the
-   Fellowship of the West in 1929? A gap of two or three years, at either end of which he is
-   documented.
+1. [Critical, **narrowed 2026-09-08**] Is the North Branch Boys' Secretary the same man as the Rev.
+   Geoffrey Guiton (1892-1947)? The YMCA's own 1928 annual report now says its Guiton left in
+   September 1927 to complete a theological course **at the Diocesan College**, so the register to
+   check is no longer a guess: **the Montreal Diocesan Theological College, admissions and graduations
+   1927-1929**. A Montreal newspaper death notice for 1947 remains the other route.
+2. ~~[Critical] What did he do between the 1926-27 Year Book volume and the founding of the
+   Fellowship of the West in 1929?~~ **[Answered 2026-09-08, from the YMCA side.]** He resigned the
+   North Branch boys' secretaryship in **September 1927** "in order to complete his theological
+   course at the Diocesan College," having acted as head of the branch during Holliday's illness up to
+   1 February that year. See the section above. What is still open is the church side: whether the man
+   who entered that college is the man who founded the Fellowship of the West in 1929.
 3. [Important] Did Guiton go to Kanawana himself in seasons other than 1923? The *Gas Bag*
    places a Guiton in camp with the North Branch tribe that year; the brochures make him the
    branch's camp contact but say nothing about attendance.
@@ -130,3 +176,6 @@ above is a search highlight.^7
 7. *Companions of the Peace: Diaries and Letters of Monica Storrs, 1931-1939* (1999) [src_storrs_companions_of_the_peace] and *God's Galloping Girl: The Peace River Diaries of Monica Storrs* (1984) [src_storrs_gods_galloping_girl]. Search highlights only; neither read. The 1892-1947 dates are from an editor's footnote in the former. See [f_5337].
 8. *Journey to India* (1992) [src_thomas_journey_to_india]. One search highlight; not read. See [f_5336].
 9. That the YMCA Guiton and the priest Guiton are not shown to be one man is recorded as its own fact, so that a later pass cannot quietly promote the join: see [f_5338].
+10. YMCA of Montreal annual report for the year ending **31 March 1927** [src_ymf_sgw_ymca_annual_report_1927], the *staff changes* section: Holliday's illness and Guiton's acting secretaryship of the North Branch to 1 February 1927. Read 2026-09-08 under p_490. See [f_5742].
+11. YMCA of Montreal annual report for the year ending **31 March 1928** [src_ymf_sgw_ymca_annual_report_1928], the *staff changes* section: Guiton's resignation in September for the Diocesan College, and Porteous's succession. The same volume was already cited at note 1's neighbours for Camp Otoreke's 1927 programme; this paragraph is several pages from the camps section and had not been read. See [f_5742].
+12. YMCA of Montreal annual report for the year ending **31 March 1937** [src_cache_sgw_ymca_annual_report_1937], the *staff changes* section: Porteous's ten years in Montreal, his departure on 1 September 1937 for the Brantford general secretaryship, and C. J. McGerrigle succeeding him at North Branch. Read 2026-09-08 under p_490. See [f_5743].

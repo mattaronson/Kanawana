@@ -1,8 +1,8 @@
 {
-  "version": "11.20",
-  "kb_version": "11.20",
+  "version": "11.21",
+  "kb_version": "11.21",
   "migrated_from": "3.3",
-  "fact_count": 5703,
+  "fact_count": 5706,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102835,6 +102835,61 @@
       "date_ref": "1919-11-01",
       "conflicts_with": [],
       "added_version": "11.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5742",
+      "claim": "GEOFFREY GUITON LEFT THE YMCA FOR A THEOLOGICAL COLLEGE, AND THE ASSOCIATION'S OWN REPORT SAYS WHICH ONE. The YMCA of Montreal annual report for the year ending 31 March 1928, staff changes: 'Mr. Geoffrey Guiton resigned as Boys' Work Secretary in September in order to complete his theological course at the Diocesan College, and was succeeded by Mr. George Porteous, B.A., of Saskatoon.' On that fiscal year the September is SEPTEMBER 1927, which is exactly where his Year Book run stops (eight consecutive volumes, 1919-20 through 1926-27, and none after). The previous year's report adds that he had been running the branch: 'Mr. T. F. Best ... relieved Mr. Guiton who had been ACTING SECRETARY IN MR. HOLLIDAY'S ABSENCE, on February 1st', Holliday having been ill through 1926. THIS IS THE ANSWER TO people/geoffrey-guiton.md's OPEN QUESTION 2 and it comes from the YMCA side of the record rather than the church's. IT DOES NOT PROVE THE IDENTIFICATION the article's Critical question asks about: a man completing a theological course in 1927-28 and a Rev. Geoffrey Guiton appearing in the Montreal diocese in 1929 is a fit, not an identification, and the two records still never name each other. What changed is the shape of the gap -- no longer two or three unaccounted years but a documented move from youth work into training for ordination, in the right city, at the named college, at the right time. The next document is the Montreal Diocesan Theological College's register for 1927-29, now asked a much narrower question. HOW IT WAS MISSED: both reports are already in this project and the 1928 volume is already cited in geoffrey-guiton.md's neighbourhood for Geo. S. Mooney at Otoreke. They were read for their CAMPS sections; these sentences are in the staff-changes section several pages away, which is p_490's whole premise.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1927",
+        "src_ymf_sgw_ymca_annual_report_1928"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Geoffrey Guiton",
+        "W. J. Holliday",
+        "T. F. Best",
+        "George Porteous"
+      ],
+      "date_ref": "1927-09",
+      "conflicts_with": [],
+      "added_version": "11.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5743",
+      "claim": "GEORGE PORTEOUS'S MONTREAL CAREER, END TO END, AND C. J. McGERRIGLE'S EDUCATION. The 1928 report has Porteous, 'B.A., of Saskatoon', succeeding Guiton as North Branch Boys' Work Secretary in September 1927; the directors index already has him as Kanawana's Chief Director in 1929. The report for the year ending 31 March 1937 closes it: 'On September 1st, Mr. George Porteous, B.A., resigned the Executive Secretaryship of the North Branch to accept the position of General [Secretary of the] Brantford Association. Mr. Porteous came to us from Western Canada some ten years ago' -- which puts his arrival about 1927 and agrees with the 1928 report. He was succeeded at North Branch by C. J. McGERRIGLE, 'a graduate of McGill University and the United Theological College', who 'first served the Montreal Association at Notre Dame de Grace, later transferring to North Branch'. McGerrigle ran Camp Otoreke from about 1935, so this dates his move into the branch executive secretaryship to 1 September 1937 and gives his education, neither of which this project had. THE NORTH BRANCH BOYS' DESK IS A CAMP-DIRECTOR PIPELINE: Guiton (the camp's contact for his branch), then Porteous (Chief Director 1929), and the man who took the branch from Porteous ran Otoreke.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1928",
+        "src_cache_sgw_ymca_annual_report_1937"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "George Porteous",
+        "C. J. McGerrigle"
+      ],
+      "date_ref": "1937-09-01",
+      "conflicts_with": [],
+      "added_version": "11.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5744",
+      "claim": "W. J. HOLLIDAY'S 1926 CHARGE OF CAMP OTOREKE WAS IN THE WIKI AND NOT IN THE ARTICLE THAT NEEDED IT. The 1927 report's sentence -- 'after two months in the Laurentians in charge of Camp Otoreke and three months' leave of absence in Georgia' -- was read into people/w-j-holliday.md on 2026-09-07 and never reached site/camp-otoreke.md, which cites THE SAME REPORT, at the same entry number, for the 1926 season's deficit and governance change while saying nothing about who ran the camp that summer. Worse, that article's own 1916 passage discusses whether an unattributed 'Mr. Holliday' is W. J. Holliday and concludes 'he is a candidate and not an identification' -- with a document naming W. J. Holliday in charge of the same camp ten years later already in the corpus. Both places fixed. TWO LESSONS, BOTH OLD ONES RECURRING: when a fact lands, check every article AND SECTION it bears on; and a grep for 'charge of Camp Otoreke' returned zero because the article writes it as 'in charge\\n**of Camp Otoreke**' -- MARKUP AND LINE WRAP BREAK PHRASE GREPS, so join the words with a whitespace-and-markup-tolerant pattern before believing a null.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1927"
+      ],
+      "confidence": "stated",
+      "category": "project_method",
+      "entities": [
+        "W. J. Holliday",
+        "Camp Otoreke"
+      ],
+      "date_ref": "1926",
+      "conflicts_with": [],
+      "added_version": "11.21",
       "added_by": "ralph_loop"
     }
   ]

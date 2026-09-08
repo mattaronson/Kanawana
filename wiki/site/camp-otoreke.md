@@ -223,7 +223,10 @@ from elsewhere.
 the same adult clientele and the same institution, four to seven years after the stated rename. No
 document held here joins the two names.* "Mr. Holliday" is a candidate for
 [[people/w-j-holliday|W. J. Holliday]]; the report gives no initials, so he is a candidate and not an
-identification. **Henderson and MacLaren gain theirs** from the later reports: W. H. Henderson and W. A.
+identification. *It is a stronger candidacy than it was*, because the 1927 report puts **W. J.**
+Holliday, in full initials, in charge of Camp Otoreke for two months in 1926 — the same man, the same
+camp, ten years after this season. That is a reason to expect him here and still not a document saying
+so, and the 1916 report gives what it gives. **Henderson and MacLaren gain theirs** from the later reports: W. H. Henderson and W. A.
 MacLaren.^64 So does a third man — **M. F. Furey**, third in charge of the 1917 senior camp, is the M. F.
 Furey the *Gazette* of 7 July 1913 names as the association's physical director, speaking as the boys
 left for Kanawana; see [[history/founding-1894|Founding, 1894]]. And "**Mr. Herb Patterson**," released
@@ -250,6 +253,18 @@ Otoreke Committee **to place its operation in charge of the Metropolitan Physica
 Committee**." A losing season, and the Otoreke Committee's own recommendation that the camp be handed to
 somebody else — a governance change not recorded anywhere else here. The word the directors chose for it
 is "experimenting."
+
+**And the same report names the man who ran that season, in a sentence about his health rather than
+about the camp.** Describing **W. J. Holliday**, the North Branch's Executive Secretary, it accounts for
+his year: "after **two months in the Laurentians in charge of Camp Otoreke** and three months' leave of
+absence in Georgia, [he] resumed his duties on January 1st but, finding his work too heavy for his
+depleted strength, was forced to tender his resignation."^65 On the report's fiscal convention that is
+the **summer of 1926 at Otoreke**, and it puts the man who opened Kanawana's Lac Wilson site in 1910 in
+charge of the older camp sixteen years later — in the losing season that ended with the camp handed to
+another committee. *The report frames it as convalescence*: two months in the Laurentians and three in
+Georgia, read in one breath, are a warm-and-quiet posting for a sick man rather than a promotion. See
+[[people/w-j-holliday|Captain William J. Holliday]], where the passage is read for what it says about
+him.
 
 And the man in charge on the ground for two months that summer was **W. J. Holliday**, who came back to
 Montreal that winter, found the work beyond his strength and tried to resign; see
@@ -1434,7 +1449,7 @@ centre. It is the same kind of use, twenty years earlier, that
 62. YMCA of Montreal annual reports for the years ending **31 December 1953**, **1954**, **1964** and **1965** [src_ymf_sgw_ymca_annual_report_1953, src_ymf_sgw_ymca_annual_report_1954, src_ymf_sgw_ymca_annual_report_1964, src_ymf_sgw_ymca_annual_report_1965]. The **1953** and **1954** volumes, describing the Christieville Ski Lodge and its two lodges, are at [f_5083]; the **1964** and **1965** volumes, with Otoreke's 1,052 campers, are at [f_5094]. Both were read 2026-09-06 under p_441 and brought into **this** article 2026-09-07 under p_491.
 63. YMCA of Montreal annual reports for the years ending 30 April **1914** [src_ymf_sgw_ymca_annual_report_1914], **1916** [src_ymf_sgw_ymca_annual_report_1916] and **1917** [src_ymf_sgw_ymca_annual_report_1917], each describing the previous summer under the Dating rule at [[meta/attendance-series|The Attendance Series]]. The **1913** season (160 men, 5 July to 2 September, H. C. Patterson), the **1915** season (141, 9 July to 23 August) and the **1916** season (131, 14 July to 19 August, with the branch breakdown and the Henderson–MacLaren–Holliday rotation) are together at [f_5632], which also records the count of the name "Otoreke" across every report from **1913** to **1922**. The **1921-1922** volume that first uses the name is [src_ymf_sgw_ymca_annual_report_1921_1922].
 64. YMCA of Montreal annual reports for the years ending 30 April **1918** [src_ymf_sgw_ymca_annual_report_1918], **1919** [src_ymf_sgw_ymca_annual_report_1919_montreal_men] and **1920** [src_ymf_sgw_ymca_annual_report_1920], each describing the previous summer. The **1917** season (90, under W. H. Henderson, W. A. MacLaren and M. F. Furey), the **1918** season (72, and the two-week 13–29 July season with the enlistment sentence) and the **1919** season (106, Herb Patterson released to take charge) are at [f_5633], which also corrects the three-stage naming count and the four names that gain initials. The earlier **1913–1916** seasons are at [f_5632].
-65. YMCA of Montreal annual report for the year ending 30 April **1927** [src_ymf_sgw_ymca_annual_report_1927], on the **1926** season: the deficit of **$589.03**, the transfer of the camp's operation to the Metropolitan Physical and Recreational Committee, the Lac St. Joseph regatta and concert, and the Sunday services "much appreciated by Lake residents and campers". All at [f_5635], with **W. J. Holliday**'s two months in charge that summer.
+65. YMCA of Montreal annual report for the year ending 30 April **1927** [src_ymf_sgw_ymca_annual_report_1927], on the **1926** season: the deficit of **$589.03**, the transfer of the camp's operation to the Metropolitan Physical and Recreational Committee, **W. J. Holliday's two months in charge of the camp**, read here 2026-09-08 under p_490 from the report's staff paragraph rather than its camps section, the Lac St. Joseph regatta and concert, and the Sunday services "much appreciated by Lake residents and campers". All at [f_5635], with **W. J. Holliday**'s two months in charge that summer.
 66. YMCA of Montreal annual reports for the years ending 30 April **1926** [src_ymf_sgw_ymca_annual_report_1926], **1928** [src_ymf_sgw_ymca_annual_report_1928] and **1929** [src_ymf_sgw_ymca_annual_report_1929], each on the previous summer. The **1925** secretaries' conference and its $28.20 deficit, the **1927** recovery to **160** with Chard, Thomas, Ellis and Mooney in charge, and the **1928** total of **211** with the $2,000 Metropolitan Board loan are together at [f_5636] — which also shows that "within five of the record attendance in the year 1920" and the **1921-1922** report's "216 in 1920" [src_ymf_sgw_ymca_annual_report_1921_1922] confirm each other.
 67. YMCA of Montreal annual report for the year ending 31 December **1959** [src_ymf_sgw_ymca_annual_report_1959], under the heading "OTOREKE SUMMER LODGE FOR ADULTS". The changed holiday habits, the **weekend** role, the conference proposal, and the Christieville **Otoreke Ski Club** with its **87** members are all at [f_5637]. Read 2026-09-07 under p_491.
 68. YMCA of Montreal annual report for the year ending 31 December **1950** [src_ymf_sgw_ymca_annual_report_1950], on the **1949** summer and the **1949-50** ski season. The **150**-member ski club and its **558** guests, the lodge "secured in the Fall of **1947** after being used on a rental basis for two seasons", the **1949** building work and the **seven** weekend conferences of June and September **1949** are all at [f_5638] — which corrects the impression left by the **1959** material at [f_5637].
