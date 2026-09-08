@@ -1,8 +1,8 @@
 {
-  "version": "11.59",
-  "kb_version": "11.59",
+  "version": "11.61",
+  "kb_version": "11.61",
   "migrated_from": "3.3",
-  "fact_count": 5755,
+  "fact_count": 5758,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103558,7 +103558,7 @@
     },
     {
       "fact_id": "f_5777",
-      "claim": "THE CAMP BECAME A BRANCH WITH ITS OWN BOARD IN 1989, AND THE FIRST ROSTER NAMES A DIRECTOR TEN YEARS OUT OF POST. The Montreal YMCA's Branch Boards of Management lists for 1985, 1986, 1987 and 1988 carry eight or nine branches each -- Centre-ville/Downtown, Guy-Favreau, Hochelaga-Maisonneuve, International, Notre-Dame-de-Grace, Pointe-Saint-Charles, Saint-Laurent, West Island, Westmount -- AND NO CAMP. The 1989 volume adds one, headed KAMP KANAWANA, of ten: 'Andre Herard, CHRIS ADAM, Keith Farquharson, PAUL CAPPELLI, DEREK WALSH, Tom Snabl, Bruce Netherwood (YMCA), MAUREEN MCBRIDE, Jay Netherwood (YMCA), Bill Pigott (YMCA).' So the whole governance arc this project has been assembling starts here: 1989 board -> Kamp Kanawana Committee 1991-92 -> Advisory Board 1994 -> Local Board 1995-96 -> six years absent -> Local Advisory Council 2002-03 -> committee to 2017 (f_5768, f_5771). THREE THINGS IN THE FIRST ROSTER. DEREK WALSH, who directed the camp 1974-1979, sits on its first board a decade after leaving the post -- the earliest instance in this project of the former-director-returns-as-volunteer pattern later seen with Morgan Carter, Arleen Boyer and others. THREE of the ten are marked (YMCA), Bruce Netherwood in his first year as director, Jay Netherwood in the supervisory role he moved to that year, and Bill Pigott, the association's Director of Operations -- so the staff presence on a branch board could run to three. AND PAUL CAPPELLI is here two years before the 1991 and 1992 association board lists that print him as 'Capelli, Paul (Dawson College)', the entry maureen-mcbride.md uses to show that those lists give members' employers.",
+      "claim": "THE CAMP'S OWN BOARD APPEARS IN THE BRANCH LIST IN 1989 AFTER FOUR YEARS' ABSENCE, AND THE ROSTER NAMES A DIRECTOR TEN YEARS OUT OF POST. || CORRECTED THE SAME DAY BY f_5794. THIS FACT FIRST READ 'THE CAMP BECAME A BRANCH WITH ITS OWN BOARD IN 1989', WHICH IS WRONG IN ITS FIRST HALF AND THE EVIDENCE WAS ALREADY IN THE WIKI: people/directors-index.md has recorded since before this session that Kanawana appears AS A BRANCH, with its own chairman, in the association's BRANCHES / CHAIRMEN / EXECUTIVE SECRETARY table from the 1966-67 report through 1979, and on the association's printed letterhead from 1964. And the camp's own directors' reports for 1976, 1977 and 1978 thank 'the Camping Branch Board of Management' and its 'Chairman Phil Davey'. So the camp had branch standing from at least 1966 and was governed through the Camping Branch's board in the 1970s. WHAT IS TRUE IS NARROWER AND STILL WORTH HAVING: the camp is absent from the association's BRANCH BOARDS OF MANAGEMENT lists in 1985, 1986, 1987 and 1988, which carry eight or nine other branches each, and it heads its own board of ten in 1989. The Montreal YMCA's Branch Boards of Management lists for 1985, 1986, 1987 and 1988 carry eight or nine branches each -- Centre-ville/Downtown, Guy-Favreau, Hochelaga-Maisonneuve, International, Notre-Dame-de-Grace, Pointe-Saint-Charles, Saint-Laurent, West Island, Westmount -- AND NO CAMP. The 1989 volume adds one, headed KAMP KANAWANA, of ten: 'Andre Herard, CHRIS ADAM, Keith Farquharson, PAUL CAPPELLI, DEREK WALSH, Tom Snabl, Bruce Netherwood (YMCA), MAUREEN MCBRIDE, Jay Netherwood (YMCA), Bill Pigott (YMCA).' So the whole governance arc this project has been assembling starts here: 1989 board -> Kamp Kanawana Committee 1991-92 -> Advisory Board 1994 -> Local Board 1995-96 -> six years absent -> Local Advisory Council 2002-03 -> committee to 2017 (f_5768, f_5771). THREE THINGS IN THE FIRST ROSTER. DEREK WALSH, who directed the camp 1974-1979, sits on its first board a decade after leaving the post -- the earliest instance in this project of the former-director-returns-as-volunteer pattern later seen with Morgan Carter, Arleen Boyer and others. THREE of the ten are marked (YMCA), Bruce Netherwood in his first year as director, Jay Netherwood in the supervisory role he moved to that year, and Bill Pigott, the association's Director of Operations -- so the staff presence on a branch board could run to three. AND PAUL CAPPELLI is here two years before the 1991 and 1992 association board lists that print him as 'Capelli, Paul (Dawson College)', the entry maureen-mcbride.md uses to show that those lists give members' employers.",
       "sources": [
         "src_ymf_annual_report_1989_202301",
         "src_ymf_sgw_ymca_annual_report_1985",
@@ -103892,6 +103892,64 @@
       "date_ref": "2026",
       "conflicts_with": [],
       "added_version": "11.59",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5794",
+      "claim": "THE CAMP HAD BRANCH STANDING AND A BOARD LONG BEFORE 1989, AND I ASSERTED OTHERWISE THIS MORNING FROM EVIDENCE THE WIKI ALREADY CONTRADICTED. f_5777, written 2026-09-08, said 'the camp became a branch with its own board in 1989' on the strength of the Branch Boards of Management lists for 1985-1988, which do not name it. TWO THINGS ALREADY IN THE PROJECT SAY OTHERWISE. (1) people/directors-index.md, unchanged for weeks: 'Kanawana appears as a BRANCH from the 1966-67 report, in a BRANCHES / CHAIRMEN / EXECUTIVE SECRETARY table', and the association's printed letterhead of September and October 1964 lists KAMP KANAWANA among the branches, two years earlier still. (2) The camp's OWN directors' reports: 1976 thanks 'The Camping Branch Board of Management for their hundreds [of hours]'; 1977 and 1978 thank 'our Board of Management and CHAIRMAN PHIL DAVEY'. PHIL DAVEY IS A NEW NAME IN THIS PROJECT and he chaired that board across at least two seasons. SO THE CORRECTED PICTURE: branch standing from at least 1964-66; a chairman in the association's branch table 1966-67 to 1979; governance through the CAMPING BRANCH's Board of Management in the 1970s; absence from the Branch Boards of Management lists 1985-1988; and a board of the camp's own in the 1989 list. What changed in 1989 is the camp's appearance in THAT list, not the existence of a governing body. THE LESSON IS THE ONE THIS PROJECT KEEPS RE-LEARNING: I checked four annual reports and did not check the wiki's own index page on the same question, which is the destination-check rule applied to my own claim instead of to a source.",
+      "sources": [
+        "src_ia_kanawana_report_1978",
+        "src_ia_kanawana_report_1977",
+        "src_ia_kanawana_directors_report_1976"
+      ],
+      "confidence": "stated",
+      "category": "governance",
+      "entities": [
+        "Phil Davey",
+        "Camping Branch",
+        "Board of Management",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1964-1989",
+      "conflicts_with": [],
+      "added_version": "11.60",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5795",
+      "claim": "A FIVE-YEAR PARENT SATISFACTION SERIES, 1974-1978, FROM THE CAMP'S OWN POST-SEASON QUESTIONNAIRE. Derek Walsh's 1978 director's report: 'In our POST-KAMP QUESTIONNAIRE, the parents were asked of their appraisal of Kanawana. Here is their answer' -- then a table across 1974, 1975, 1976, 1977 and 1978. EXCELLENT: 28%, 29%, 30%, 39.42%, 39.26%. VERY GOOD: 60, 56, 53, 54.02, 54.81. GOOD: 12, 14, 13, 6.57, 5.93. FAIR: 0, [2.5 -- the scan reads '235' and the column must sum to 100], 4, 0, 0. POOR: 0, [2.5 -- scan reads '25'], 0, 0, 0. THE 1974-1976 COLUMNS ARE WHOLE NUMBERS AND THE 1977-1978 COLUMNS CARRY TWO DECIMALS, which is the camp changing how it counted rather than a change in the parents: the later two are computed from a denominator, the earlier three rounded. Excellent-plus-Very-Good runs 88, 85, 83, 93.44, 94.07 -- a rise concentrated entirely in the last two years. NOTHING IN THIS PROJECT ELSE MEASURES WHAT PARENTS THOUGHT, in any year. The 1975 Fair and Poor figures are the only non-zero entries in either row across five years and their exact values are a reading of a damaged scan, so they are given here with that stated.",
+      "sources": [
+        "src_ia_kanawana_report_1978"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "parent questionnaire",
+        "Derek Walsh",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1974-1978",
+      "conflicts_with": [],
+      "added_version": "11.61",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5796",
+      "claim": "WHO USED THE SITE IN 1978, BY NAME, AND IT IS NINETEEN GROUPS. Derek Walsh's 1978 director's report carries a section headed 'GROUP USEAGE - KAMP KANAWANA SITE' with three categories. YMCA BRANCHES: International (5 uses), St. Laurent (4), West Island (5), Operations Management. SCHOOLS: St. Eustache Elementary, St. Paul's, Victoria, St. Patrick's, LaSalle College, Macdonald High, College de l'Assomption, Vanier College. OTHER: Cadets, Mary Queen of Peace Cubs & Scouts, Resurrection Cubs & Scouts, OTTAWA GENERAL HOSPITAL, Staff-Family Weekend, Eastern District Boy Scouts, Dawson Boys & Girls Club (2), Chateauguay Canoe Club. THE ACCOMPANYING NIGHTS / PEOPLE / PEOPLE NIGHTS COLUMNS ARE DESTROYED BY THE SCAN -- they read 'NNM—-NPHPN FS Ao vl', 'NN —', '—-BNN', 'aod' -- so the volumes are not recoverable and no total is computed here. THIS PUSHES THE SITE'S USE BY OUTSIDE GROUPS BACK EIGHTEEN YEARS. programs-activities.md has a section on the camp as a venue for outside programmes whose earliest dated instance is summer 1996, on the 1996 annual report's own claim that it was 'the first time that programs were offered to groups other than summer campers'. THE TWO ARE NOT IN CONFLICT and the distinction is the report's own: 1996 describes a visiting group placed INSIDE THE RUNNING CAMP and offered its programme; 1978 is site usage -- schools, scout troops, a hospital and a canoe club occupying the property, in the shoulder seasons, without the camp's programme. The article already drew that distinction before this document was read; it now has the evidence for the other half of it.",
+      "sources": [
+        "src_ia_kanawana_report_1978"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "group usage",
+        "Kamp Kanawana site",
+        "Ottawa General Hospital",
+        "Chateauguay Canoe Club"
+      ],
+      "date_ref": "1978",
+      "conflicts_with": [],
+      "added_version": "11.61",
       "added_by": "ralph_loop"
     }
   ]

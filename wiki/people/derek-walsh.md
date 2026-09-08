@@ -27,14 +27,17 @@ The directory also fills a gap in the table above. The Quebec Camping Associatio
 
 One other name on that list is worth noting: **A. Ross Seaman**, Kanawana's director from 1959 to 1968, sits as an Honorary Member of the same section in the same year.^6 Two Kanawana directors, a generation apart, on one provincial executive.
 
-**And he came back to the camp, a decade after leaving it.** The Montreal YMCA's 1989 annual report is the
-first to give Kanawana its own **Board of Management** — the camp is absent from the branch lists for 1985
-through 1988 — and Walsh is on that founding board of ten, beside Chris Adam,
+**And he came back to the camp, a decade after leaving it.** The Montreal YMCA's 1989 annual report gives
+Kanawana its own board in the **Branch Boards of Management** list, where the camp is absent for 1985 through
+1988, and Walsh is on that board of ten, beside Chris Adam,
 [[people/maureen-mcbride|Maureen McBride]], Tom Snabl, both Netherwoods and the association's Director of
 Operations.^19 He directed the camp from **1974 to 1979**; this is 1989. It is the earliest instance in this
 project of a former Kanawana director returning as a volunteer, a pattern later documented with Morgan Carter,
-Arleen Boyer, Roxanne Martel and Matt Hamerman. The board's whole run, 1989 to 1996 and again from 2002, is at
-[[history/centennial-1994|The 1994 Centennial]]. [f_5777]
+Arleen Boyer, Roxanne Martel and Matt Hamerman. The board's run in that list, 1989 to 1996 and again from 2002, is at
+[[history/centennial-1994|The 1994 Centennial]], which also sets out what came before it: the camp held branch
+standing from at least 1964 and answered to the **Camping Branch's** Board of Management through the 1970s —
+the board Walsh himself thanked, under **Chairman Phil Davey**, in his own 1977 and 1978 season reports. So his
+1989 seat is a return to a body he had reported to as director. [f_5777] [f_5794]
 
 ## The national career
 
@@ -127,7 +130,7 @@ The camp's pre-season staff bulletin of **28 April 1978** is the only document i
 17. Derek Walsh, *Ka-News '78*, staff bulletin of 28 April 1978 [src_ymf_ka_news_1978_04_28]. Cached in full at `sources/cache/ymca-montreal-fonds/ka-news-1978-04-28.txt`; read word for word 2026-09-07, having been held since 2026-08-25 in a "skimmed" read state. The item also carries a French half (*Nouvelles-KA*), a translation of the same bulletin rather than a second document, surfaced by the rescan for multi-text items.
 18. YMCA of Montreal newsletter, **27 March 1969** [src_ymf_newsletter_1969_03_27]. Cached at `sources/cache/ymca-montreal-fonds/newsletter-1969-03-27.txt`; read word for word 2026-09-07 under p_482.
 
-19. YMCA of Montreal annual report **1989** [src_ymf_annual_report_1989_202301], the *Branch Boards of Management* page, with the 1985-1988 volumes checked for the camp's absence from the same list [src_ymf_sgw_ymca_annual_report_1985, src_ymf_sgw_ymca_annual_report_1986, src_ymf_sgw_ymca_annual_report_1987, src_ymf_sgw_ymca_annual_report_1988]. Read 2026-09-08 under p_487. See [f_5777].
+19. YMCA of Montreal annual report **1989** [src_ymf_annual_report_1989_202301], the *Branch Boards of Management* page, with the camp's own directors' reports for **1977** and **1978** [src_ia_kanawana_report_1977, src_ia_kanawana_report_1978] for the Camping Branch board and Chairman Phil Davey, with the 1985-1988 volumes checked for the camp's absence from the same list [src_ymf_sgw_ymca_annual_report_1985, src_ymf_sgw_ymca_annual_report_1986, src_ymf_sgw_ymca_annual_report_1987, src_ymf_sgw_ymca_annual_report_1988]. Read 2026-09-08 under p_487. See [f_5777].
 ## Research Notes
 
 <!-- Spawned 2026-09-04 from the Canadian Camping re-read (p_304). Enters at STUB

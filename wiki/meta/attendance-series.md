@@ -1,7 +1,7 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 55*
-*Last Updated: 2026-09-08 (1916 by branch, and an advertised season against a real one)*
+*Status: draft | Sources: 56*
+*Last Updated: 2026-09-08 (what the parents thought, 1974-1978; 1916 by branch)*
 
 ## Overview
 
@@ -138,6 +138,26 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | **2020–21** | *(no season)* | — | Two summers lost to COVID-19 |
 | **2022** | **655** | — | Reopening season |
 | **2023** | **780** | — | |
+
+**What the parents thought, five years running.** This article counts campers and camper-weeks and has
+nothing on satisfaction in any year but these. Derek Walsh's 1978 director's report prints the camp's own
+post-season questionnaire:^56
+
+| Appraisal | 1974 | 1975 | 1976 | 1977 | 1978 |
+|---|---|---|---|---|---|
+| Excellent | 28% | 29% | 30% | **39.42%** | **39.26%** |
+| Very Good | 60 | 56 | 53 | 54.02 | 54.81 |
+| Good | 12 | 14 | 13 | 6.57 | 5.93 |
+| Fair | 0 | *2.5?* | 4 | 0 | 0 |
+| Poor | 0 | *2.5?* | 0 | 0 | 0 |
+
+*Two cautions.* The 1974–76 columns are whole numbers and the 1977–78 columns carry two decimals, which is
+**the camp changing how it counted** rather than the parents changing how they answered: the later two are
+computed from a denominator and the earlier three rounded. And the 1975 Fair and Poor entries are the only
+non-zero values in either row across five years; the scan reads them as "235" and "25", and 2.5 in each is the
+reading that makes the column sum to 100. They are given with that stated rather than silently repaired.
+Excellent-plus-Very-Good runs **88, 85, 83, 93.44, 94.07** — whatever the change in method was, the rise sits
+entirely in the last two years. [f_5795]
 
 **An advertised season and a season are not the same thing.** This table gave 1916 as "24 June – 12 August"
 from a **Kamp Kanawana advertisement** in *The High School Magazine*, printed before the summer. The
@@ -779,6 +799,7 @@ own, one of those three is its source.
 53. YMCA of Montreal / The YMCAs of Québec, annual report **2008**, English and French editions [src_ymf_sgw_ymca_annual_report_2008, src_ymf_sgw_ymca_annual_report_2008_fr], the section headed "Camp YMCA Kanawana: Objectives all but met". Read 2026-09-08 under p_487. See [f_5782].
 54. The YMCAs of Québec, community reports for **2016** and **2017**, English and French editions [src_ymf_sgw_ymca_community_report_2016, src_ymf_sgw_ymca_community_report_2016_fr, src_ymf_sgw_ymca_community_report_2017, src_ymf_sgw_ymca_community_report_2017_fr], the headline infographics. Read 2026-09-08 under p_487, reached through the French editions' absent-token triage. **The number precedes its label** in both years and both languages; the 2017 English prints "5,700" and "700" close enough to read as a pair, and the scale settles the assignment. See [f_5783].
 55. YMCA of Montreal, **sixty-sixth annual report, year ending 30 April 1917** [src_ymf_sgw_ymca_annual_report_1917], the Boys' Camp paragraph. Read 2026-09-08 under p_441, reached through `scripts/reread/skimmed_triage.py`. See [f_5790].
+56. *Kamp Kanawana Director's Annual Report 1978* [src_ia_kanawana_report_1978], signed by Derek V. Walsh, its conclusion. Read 2026-09-08 under p_441, reached through `scripts/reread/skimmed_triage.py` run over the **extracted** population. See [f_5795].
 ## Research Notes
 
 <!-- Created 2026-08-14 (p_256) from the 114-annual-report sweep. No new research for this spawn.

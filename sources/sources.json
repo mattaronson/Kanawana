@@ -10457,8 +10457,8 @@
       "extraction_version": "v5.20",
       "reliability": "primary",
       "notes": "Signed \"Derek V. Walsh, Director of Camping.\" Names Kerry Finucan as Assistant Camp Director. Notes the Camp Director was interviewed on 2 television and 3 radio outlets and wrote stories on Kanawana for 3 French publications.",
-      "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact | cached text linked 2026-09-02: the file was on disk under no record"
+      "read_state": "partial",
+      "read_state_basis": "2026-09-08 under p_441, reached through scripts/reread/skimmed_triage.py run over the EXTRACTED population, where it scored 95 absent tokens of 162 across 67 camp mentions. Read for its GROUP USEAGE section (nineteen named users of the site, f_5796), its conclusion (the 1974-1978 parent-satisfaction series, f_5795; Walsh's 'six years at Kanawana'; the Camping Branch board under Chairman Phil Davey, f_5794) and its ten-year summary appendix, which the attendance series already works. The PROGRAM section and the event names in it (Klondyke, Kountry Fair, Kabarets, Laurentian Day, Canoe Hockey, Lumbermen-Voyageurs Derby) are NOT yet worked and remain a specific residue."
     },
     {
       "source_id": "src_ia_kanawana_report_1979",

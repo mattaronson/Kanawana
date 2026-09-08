@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
 *Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
-*Last Updated: 2026-09-08 (1998's two additions; Chris Thurber and the homesickness advice of 2026)*
+*Last Updated: 2026-09-08 (nineteen groups using the site in 1978; Chris Thurber and the homesickness advice)*
 
 ## Overview
 
@@ -668,6 +668,21 @@ question, and the association's own records would answer it.
 
 **The first time, and it is dated: summer 1996.** The Montreal YMCA's annual report for that year says so plainly: "Kamp Kanawana's year was one full of tradition and innovation. **This was the first time that programs were offered to groups other than summer campers.** A group of **50 Korean students between the ages of 11 and 15** participated in traditional camp activities for **four days**, sleeping in tents, cooking on open fires and **integrating with the campers**."^ar96 That sets a date on the practice this section describes, and the form of the first instance is worth noting: not a rental of an empty site out of season, but a visiting group placed inside the running camp. *The French edition of the same report puts the claim more strongly than the English does:* "**pour la première fois depuis son ouverture**, le Kamp a offert des programmes à des groupes autres que des campeurs estivaux" — for the first time **since it opened**, which makes it an all-time claim rather than a recent-memory one.^ar96f
 
+**And the site itself was being used by outside groups eighteen years before that.** Derek Walsh's 1978
+director's report carries a section headed "**GROUP USEAGE — KAMP KANAWANA SITE**" listing nineteen users in
+three categories. **YMCA branches**: International (5 uses), St. Laurent (4), West Island (5), Operations
+Management. **Schools**: St. Eustache Elementary, St. Paul's, Victoria, St. Patrick's, LaSalle College,
+Macdonald High, Collège de l'Assomption, Vanier College. **Other**: Cadets, Mary Queen of Peace Cubs and
+Scouts, Resurrection Cubs and Scouts, **Ottawa General Hospital**, a Staff-Family Weekend, Eastern District
+Boy Scouts, Dawson Boys and Girls Club (2), Chateauguay Canoe Club.^kk78
+
+*That does not contradict the 1996 claim above, and the distinction is the reports' own.* 1996 describes a
+group **placed inside the running camp and offered its programme**; 1978 is the property being **occupied** by
+schools, scout troops, a hospital and a canoe club in the shoulder seasons. This section drew that line before
+this document was read; it now has the evidence for the other half of it. *The accompanying nights, people and
+people-nights columns are destroyed by the scan* — they read "NNM—-NPHPN FS Ao vl", "NN —", "—-BNN", "aod" —
+so no volume of use is recoverable and none is estimated here. [f_5796]
+
 **Two years on it was no longer an experiment.** The 1998 report: "Kamp Kanawana **expanded its activities this year** by hosting youth from the **Diversion and Impact programs**, **scout and guide troops**, and a variety of other groups. The camp also **provided a venue for students in immersion programs offered by several Montreal area school boards**."^ar98 Diversion and Impact were the association's own youth-justice programmes, so two of the groups are internal and the rest are not. The immersion detail is the odd one: school boards were bringing immersion classes to Kanawana in 1998, twenty-nine years after the camp ran [[traditions/french-language-camping|its own French immersion section]] in 1969 — the same site, the same idea, a different institution paying for it. The 1998-99 report continues the run without naming the groups: "Camp facilities were also used to **train counsellors**, and hold **anti-violence programs for teenage girls** and other groups."^ar98 [f_5767]
 
 *This paragraph was first written, on 2026-09-08, into the Contemporary Programmes section above, calling 1998 "the earliest date this project has for the site being let to outside groups." It is not: this section, in the same file, has said since 2026-09-06 that the first time was 1996 and that the report says so in as many words. Moved here and corrected the same hour. A section written to hold exactly this material does not help if the next fact is filed by where the year sounds like it belongs.*
@@ -886,6 +901,7 @@ report does not say so, and this article does not assume it.
 - **nb36** — "Institute for Camp Leaders," *The News Bulletin* Vol. 12 No. 3 (May 1936), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_12_03], Internet Archive item `the-news-bulletin-vol-12-no-03`, in the `ymca-montreal-fonds` collection. Found by the enumeration at [f_5243] and read 2026-09-07 under p_462. See [f_5248].
 - **ar30** — YMCA of Montreal annual report for the year ending 31 March 1930 [src_cache_sgw_ymca_annual_report_1930], the Kamp Kanawana section, camping season **1929**. The volume's Becscies extension and its finances were already read into [[site/camp-becsies|Camp Becscies]]; its catchment, church-camp and programme paragraphs are read here, 2026-09-06. See [f_5216], [f_5217] and [f_5218].
 - **ar97** — Montreal YMCA annual report **1997** [src_ymf_sgw_ymca_annual_report_1997], the Westmount and programme-launch items. Read 2026-09-06 under p_454. See [f_5194].
+- **kk78** — *Kamp Kanawana Director's Annual Report 1978* [src_ia_kanawana_report_1978], signed by Derek V. Walsh, its GROUP USEAGE section. Read 2026-09-08 under p_441. See [f_5796].
 - **ar96f** — Montreal YMCA annual report **1996, French edition** [src_ymf_sgw_ymca_annual_report_1996_fr], the Kamp Kanawana page. Read 2026-09-08 under p_487, checking the French editions' camp passages against their English destinations. Its wording of the outside-groups claim is stronger than the English edition's.
 - **ar98** — Montreal YMCA annual reports **1998** and **1998-1999** [src_ymf_sgw_ymca_annual_report_1998, src_ymf_sgw_ymca_annual_report_1998_1999], the year-in-review bullets and the Kanawana page. Read 2026-09-08 under p_487; the 1998 volume had been read for Kanawana content on 2026-09-06 under p_454 and these items were not taken. See [f_5767].
 - **ar96** — Montreal YMCA annual report **1996** [src_cache_sgw_ymca_annual_report_1996], the Kamp Kanawana page. Read 2026-09-06 under p_454; the volume had been marked unread and has no Wayback twin.

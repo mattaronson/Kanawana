@@ -123,7 +123,19 @@ def tokens(text):
 
 
 def main() -> int:
-    only = sys.argv[1] if len(sys.argv) > 1 else None
+    # One positional argument. A source_id fragment inspects that record and
+    # prints its absent tokens; a read_state word ("extracted", "partial",
+    # "swept") scans that population instead of the default "skimmed". Added
+    # 2026-09-08 after the 2026 parent guide -- read_state "extracted", cited in
+    # the wiki as ^pg26 -- turned out to hold two whole passages nobody had
+    # taken: the fifteen rivers of the trip programme and the camp's named
+    # authority on homesickness. AN "EXTRACTED" STATE IS A CLAIM ABOUT WHAT WAS
+    # TAKEN OUT OF A DOCUMENT, NOT ABOUT WHAT IS LEFT IN IT, which makes the
+    # 720 extracted records a population worth the same treatment (p_451).
+    STATES = {'skimmed', 'extracted', 'partial', 'swept', 'read', 'snippet', 'unread'}
+    arg = sys.argv[1] if len(sys.argv) > 1 else None
+    state = arg if arg in STATES else 'skimmed'
+    only = None if arg in STATES else arg
     limit = 40
     with open('sources/sources.json', encoding='utf-8') as fh:
         data = json.load(fh)
@@ -135,7 +147,7 @@ def main() -> int:
         if only:
             if only not in s['source_id']:
                 continue
-        elif s.get('read_state') != 'skimmed':
+        elif s.get('read_state') != state:
             continue
         cp = s.get('cache_path') or ''
         if not cp or not os.path.exists(cp) or os.path.isdir(cp):
@@ -168,6 +180,7 @@ def main() -> int:
     print('=' * 78)
     print('SKIMMED SOURCES, RANKED BY DISTINCTIVE TOKENS ABSENT FROM THE PROJECT')
     print('=' * 78)
+    print('  read_state = %s' % state)
     print('  %d source(s) measured, of those that name the camp at all.\n  A token absent is a place to look, not a verdict; on scanned text expect about\n  a third to be absent through OCR damage alone (see the docstring).' % len(rows))
     print()
     print('  %-5s %-5s %-5s %-8s  %s' % ('ABSNT', 'TOKS', 'MENT', 'CHARS', 'source_id'))

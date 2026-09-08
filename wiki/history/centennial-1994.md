@@ -1,6 +1,6 @@
 # The 1994 Centennial
 
-*Status: E1-reviewed | Sources: 17*
+*Status: E1-reviewed | Sources: 18*
 *Last Updated: 2026-09-08 (the camp's first board of management, 1989, and the committee to 1996)*
 
 ## Overview
@@ -55,15 +55,28 @@ appears separately in the same volume as a director.
 So the Centennial committee of 1994 looks less like a body raised for an anniversary and more like a
 standing camp committee that took one on. **Danielle Delhaes** is a name this project holds nowhere else.
 
-**The body has a first year, and it is 1989.** The association's *Branch Boards of Management* lists for
-**1985, 1986, 1987 and 1988** carry eight or nine branches each — Centre-ville, Guy-Favreau,
-Hochelaga-Maisonneuve, International, Notre-Dame-de-Grâce, Pointe-Saint-Charles, Saint-Laurent, West Island,
-Westmount — **and no camp**. The 1989 volume adds one, headed **KAMP KANAWANA**: André Hérard,
+**The camp's own board appears in the branch list in 1989, after four years' absence.** *This paragraph said
+"the body has a first year, and it is 1989" until later the same day; that was wrong and the correction is
+below it.* The association's *Branch Boards of Management* lists for **1985, 1986, 1987 and 1988** carry eight
+or nine branches each — Centre-ville, Guy-Favreau, Hochelaga-Maisonneuve, International, Notre-Dame-de-Grâce,
+Pointe-Saint-Charles, Saint-Laurent, West Island, Westmount — **and no camp**. The 1989 volume adds one, headed
+**KAMP KANAWANA**: André Hérard,
 **Chris Adam**, Keith Farquharson, Paul Cappelli, **[[people/derek-walsh|Derek Walsh]]**, Tom Snabl, Bruce
 Netherwood (YMCA), **[[people/maureen-mcbride|Maureen McBride]]**, Jay Netherwood (YMCA) and Bill Pigott
 (YMCA).^17 [f_5777]
 
-Three things sit in that first roster. **Derek Walsh directed the camp from 1974 to 1979 and is on its first
+*What 1989 changed was the camp's appearance in that list, not the existence of a governing body.*
+[[people/directors-index|The directors index]] has recorded all along that Kanawana appears **as a branch, with
+its own chairman**, in the association's *Branches / Chairmen / Executive Secretary* table from the **1966-67**
+report through 1979, and on the association's printed letterhead from **1964**. And the camp's own directors'
+reports name the body it answered to in the 1970s: 1976 thanks "**the Camping Branch Board of Management** for
+their hundreds" of hours, and 1977 and 1978 thank "our Board of Management and **Chairman Phil Davey**."^18
+Davey is a name new to this project, and he chaired that board across at least two seasons. So: branch standing
+from at least 1964–66, a chairman in the association's table to 1979, governance through the **Camping
+Branch's** board in the 1970s, absence from the branch-board lists 1985–88, and a board of the camp's own in
+1989. [f_5794]
+
+Three things sit in the 1989 roster. **Derek Walsh directed the camp from 1974 to 1979 and is on its first
 board a decade later** — the earliest instance in this project of the pattern later seen with Morgan Carter,
 Arleen Boyer, Roxanne Martel and Matt Hamerman. **Three of the ten are marked "(YMCA)"**: Bruce Netherwood in
 his first year as director, his brother Jay in the supervisory role he moved to that year, and Bill Pigott,
@@ -137,3 +150,4 @@ telephone at Saint-Sauveur as 1-227-2414.
 15. YMCA of Montreal annual report **1990**, French edition [src_ymf_sgw_ymca_annual_report_1990_fr], and the annual report **1986**, French edition [src_ymf_sgw_ymca_annual_report_1986_fr]. Cached under `sources/cache/ymca-montreal-fonds/`; the Kanawana entries read word for word 2026-09-07 under p_482, the volumes not read.
 16. YMCA of Montreal annual reports for **1991**, **1992**, **1994**, **1995** and **1996** [src_cache_sgw_ymca_annual_report_1991, src_ymf_sgw_ymca_annual_report_1992, src_cache_sgw_ymca_annual_report_1994, src_ymf_sgw_ymca_annual_report_1995, src_cache_sgw_ymca_annual_report_1996], the branch committee pages, and the 1995 volume's Kamp Kanawana page for Bruce Netherwood's 1989-1994 span. The **French edition of the 1991 report** [src_ymf_sgw_ymca_annual_report_1991_fr] was read alongside and gives the same ten names under the heading *Comité du Kamp Kanawana*. Read 2026-09-08 under p_487. See [f_5771] and [f_5772].
 17. YMCA of Montreal annual reports for **1985**, **1986**, **1987**, **1988**, **1989** and **1990** [src_ymf_sgw_ymca_annual_report_1985, src_ymf_sgw_ymca_annual_report_1986, src_ymf_sgw_ymca_annual_report_1987, src_ymf_sgw_ymca_annual_report_1988, src_ymf_annual_report_1989_202301, src_cache_sgw_ymca_annual_report_1990], the *Branch Boards of Management* pages. Read 2026-09-08 under p_487. The camp is absent from the first four lists, heads its own board of ten in the fifth, and is down to four in the sixth. See [f_5779] for the 1990 contraction, confirmed against the French edition already cited above. See [f_5777].
+18. *Kamp Kanawana Director's Annual Report* for **1976**, **1977** and **1978** [src_ia_kanawana_directors_report_1976, src_ia_kanawana_report_1977, src_ia_kanawana_report_1978], their closing acknowledgements. Read 2026-09-08 under p_441. See [f_5794].
