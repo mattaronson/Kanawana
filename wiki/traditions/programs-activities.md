@@ -692,6 +692,16 @@ Macdonald High, Collège de l'Assomption, Vanier College. **Other**: Cadets, Mar
 Scouts, Resurrection Cubs and Scouts, **Ottawa General Hospital**, a Staff-Family Weekend, Eastern District
 Boy Scouts, Dawson Boys and Girls Club (2), Chateauguay Canoe Club.^kk78
 
+**The next year's table survives with its columns, and gives the first quantified measure of that use.** The
+1979 report prints the same section under headings *Days/Nights, People, People Days/Nights*: NDG (4 uses)
+8 / 65 / 130; West Island (4) 5 / 42 / 60; **John Rennie High School** (3) 7 / 147 / 328; **Fine Arts
+Elementary** 4 / 65 / 260; Lakeshore School Board 2 / 10 / 20; **MEYO** 2 / 9 / 18; Mary Queen of Peace Cubs
+and Scouts 26 / 52; **St. Suzanne's Parish** 2 / 14 / 28; **Eastern District Boy Scouts** 2 / 118 / 236; and
+**CEGEP Rosemont** 2 / 47 / 47.^kk79 Ten users where 1978 had nineteen, about **543 people** and roughly
+**1,159 people-days** across the nine legible rows. Four of the ten carry over from 1978 — West Island, the
+two scout bodies and the Lakeshore board's schools — and the Boy Scouts are the largest single body at 118.
+[f_5800]
+
 *That does not contradict the 1996 claim above, and the distinction is the reports' own.* 1996 describes a
 group **placed inside the running camp and offered its programme**; 1978 is the property being **occupied** by
 schools, scout troops, a hospital and a canoe club in the shoulder seasons. This section drew that line before
@@ -917,6 +927,7 @@ report does not say so, and this article does not assume it.
 - **nb36** — "Institute for Camp Leaders," *The News Bulletin* Vol. 12 No. 3 (May 1936), YMCA of Montreal [src_ia_ymca_montreal_news_bulletin_12_03], Internet Archive item `the-news-bulletin-vol-12-no-03`, in the `ymca-montreal-fonds` collection. Found by the enumeration at [f_5243] and read 2026-09-07 under p_462. See [f_5248].
 - **ar30** — YMCA of Montreal annual report for the year ending 31 March 1930 [src_cache_sgw_ymca_annual_report_1930], the Kamp Kanawana section, camping season **1929**. The volume's Becscies extension and its finances were already read into [[site/camp-becsies|Camp Becscies]]; its catchment, church-camp and programme paragraphs are read here, 2026-09-06. See [f_5216], [f_5217] and [f_5218].
 - **ar97** — Montreal YMCA annual report **1997** [src_ymf_sgw_ymca_annual_report_1997], the Westmount and programme-launch items. Read 2026-09-06 under p_454. See [f_5194].
+- **kk79** — *Kamp Kanawana Director's Report 1979* [src_ia_kanawana_report_1979], its group-usage table and its questionnaire results. Read 2026-09-08 under p_441. See [f_5800] and [f_5801].
 - **kk78** — *Kamp Kanawana Director's Annual Report 1978* [src_ia_kanawana_report_1978], signed by Derek V. Walsh, its GROUP USEAGE section. Read 2026-09-08 under p_441. See [f_5796].
 - **ar96f** — Montreal YMCA annual report **1996, French edition** [src_ymf_sgw_ymca_annual_report_1996_fr], the Kamp Kanawana page. Read 2026-09-08 under p_487, checking the French editions' camp passages against their English destinations. Its wording of the outside-groups claim is stronger than the English edition's.
 - **ar98** — Montreal YMCA annual reports **1998** and **1998-1999** [src_ymf_sgw_ymca_annual_report_1998, src_ymf_sgw_ymca_annual_report_1998_1999], the year-in-review bullets and the Kanawana page. Read 2026-09-08 under p_487; the 1998 volume had been read for Kanawana content on 2026-09-06 under p_454 and these items were not taken. See [f_5767].

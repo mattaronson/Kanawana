@@ -1,8 +1,8 @@
 {
-  "version": "11.63",
-  "kb_version": "11.63",
+  "version": "11.65",
+  "kb_version": "11.65",
   "migrated_from": "3.3",
-  "fact_count": 5760,
+  "fact_count": 5763,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103990,6 +103990,61 @@
       "date_ref": "1978",
       "conflicts_with": [],
       "added_version": "11.63",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5799",
+      "claim": "THE POEM THAT CLOSES THE 1979 REPORT HAS A TITLE AND A TEXT, AND THIS PROJECT HAD ONLY THE FACT OF IT. people/dave-twynam.md records that his 1979 season report 'closes the report with a poem by Joan Dalrymple' -- the existence, not the work. It is titled 'GOD'S BACK YARD' and runs twenty lines in rhyming couplets, signed 'Joan Dalrymple'. It opens 'Close your eyes and think real hard / Imagine kamp as God's back yard. / The grass so green, the hills so tall / Close your eyes and think of all / The beauty of our life at kamp, / The morning sun on the grass so damp.' It works through images of the site and the season -- 'FLAGS IN A CIRCLE FROM COUNTRIES BRAVE / Close your eyes and see them wave', 'Children together and children apart / Some grown up and some ready to start', 'Can you picture your cabin or a favorite tree?', 'The sounds of night time, dark and still / The laughter from a far away hill' -- and closes 'Remember the good times with friends old and new. / Take all of these memories home with you. / Yes, we've worked together and played so hard, / AT KANAWANA, IN GOD'S BACK YARD.' TWO THINGS WORTH NOTING. The refrain 'Close your eyes' structures it, and the flags in a circle are a fact about the site as well as an image -- an international flag circle is not otherwise documented here for 1979. AND THE FRAME IS RELIGIOUS, in a season report from a camp whose YMCA religious programming this project traces thinning through the century; the title is the only place the camp's own paper calls the site God's. Full text at lines 990-1026 of the cached file; quoted here in part rather than whole, the work being one identified person's.",
+      "sources": [
+        "src_ia_kanawana_report_1979"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Joan Dalrymple",
+        "God's Back Yard",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1979",
+      "conflicts_with": [],
+      "added_version": "11.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5800",
+      "claim": "THE 1979 GROUP-USAGE TABLE SURVIVES INTACT, WITH THE COLUMNS 1978'S LOST. Where the 1978 report's group-usage figures are destroyed by the scan (f_5796), the 1979 report prints them under headings DAYS/NIGHTS, PEOPLE, PEOPLE DAYS/NIGHTS. YMCA BRANCHES: NDG (4 uses) 8 / 65 / 130; West Island (4) 5 / 42 / 60. SCHOOLS: JOHN RENNIE HIGH SCHOOL (3) 7 / 147 / 328; FINE ARTS ELEMENTARY 4 / 65 / 260; LAKESHORE SCHOOL BOARD 2 / 10 / 20. OTHER: MEYO 2 / 9 / 18; Mary Queen of Peace Cubs & Scouts [days illegible] / 26 / 52; ST. SUZANNE'S PARISH 2 / 14 / 28; EASTERN DISTRICT BOY SCOUTS 2 / 118 / 236; CEGEP ROSEMONT 2 / 47 / 47. TEN USERS AGAINST NINETEEN THE YEAR BEFORE, and the people column totals about 543 with roughly 1,159 people-days -- the first quantified measure of off-season site use this project holds for any year. FOUR OF THE TEN ARE CONTINUOUS WITH 1978: West Island, Mary Queen of Peace Cubs & Scouts, Eastern District Boy Scouts and the Lakeshore board's schools. SIX ARE NEW: NDG, John Rennie High School, Fine Arts Elementary, MEYO, St. Suzanne's Parish and CEGEP Rosemont. The Eastern District Boy Scouts are the largest single body at 118 people. CAUTION: the Mary Queen of Peace days figure is illegible and the totals above are computed from the nine legible rows.",
+      "sources": [
+        "src_ia_kanawana_report_1979"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "group usage",
+        "John Rennie High School",
+        "Eastern District Boy Scouts",
+        "CEGEP Rosemont"
+      ],
+      "date_ref": "1979",
+      "conflicts_with": [],
+      "added_version": "11.65",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5801",
+      "claim": "HOW FAMILIES FOUND THE CAMP IN 1979, AND MORE THAN HALF OF THEM CAME THROUGH SOMEONE WHO HAD BEEN. The 1979 director's report: 'In regards to how our new kampers heard of Kamp Kanawana, the following is the result of our questionnaire to parents this year', with columns for 1975 to 1979. THE 1975-1978 COLUMNS ARE TOO DAMAGED TO USE -- stray characters, dropped values, a 'Friend or neighbour' figure of 8% against 51, 47 and 49 in the neighbouring years, which is a scanning error rather than a collapse. THE 1979 COLUMN IS LEGIBLE: Friend or neighbour 26.06%; YMCA Branch 9.97; Advertising 4.25; School 0.06; RELATIVE OF FORMER KAMPER 12.75; OTHER 40.88, with the report's own footnote '*This figure is largely FORMER KAMPERS'. Three rows -- Quebec Camping Association, K.K. Staff member, Newspaper article -- have no legible 1979 value, so the column sums to 93.97 rather than 100 and the residue is those three. THE FINDING SURVIVES THE DAMAGE: 'Other', which the report itself says is largely former campers, is THE LARGEST SINGLE CHANNEL, and taken with 'relative of former kamper' at 12.75 it means over half of new campers in 1979 arrived through someone who had been to Kanawana. Advertising brought 4.25% and schools effectively none. A camp recruiting through its own alumni rather than through its parent association -- the YMCA branches supplied under a tenth.",
+      "sources": [
+        "src_ia_kanawana_report_1979"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "recruitment",
+        "former campers",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1979",
+      "conflicts_with": [],
+      "added_version": "11.65",
       "added_by": "ralph_loop"
     }
   ]

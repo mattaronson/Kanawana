@@ -1,7 +1,7 @@
 # Camp Songs, Cheers, and Musical Traditions
 
-*Status: E1-reviewed | Sources: 30*
-*Last Updated: 2026-09-07 (the 1941 Otoreke songbook read in full and its 94-song repertoire enumerated)*
+*Status: E1-reviewed | Sources: 31*
+*Last Updated: 2026-09-08 ("God's Back Yard", the poem closing the 1979 report)*
 
 ## Overview
 
@@ -242,6 +242,36 @@ This is the only complete Kanawana cheer text recovered from the corpus besides 
 
 The article printing it explains its function: "This yell, which was original to the Pathfinders in 1965, required maximum participation and group effort in order for it to sound really good **in the dining hall**." It gives the section's motto — "one for all and all for one" — and a closing call-and-response: "Pathfinders, ARE YOU READY?" answered "WE ARE." The dining hall was the venue for section yells generally: the 1970 season report notes a section that "seemed to act and react as one section most of the time (ie Pathfinder yell in the dining hall)," and an all-camp "Kanawana Yell" existed as early as 1932.^19
 
+
+## "God's Back Yard" (1979)
+
+The camp's own director's report for 1979 closes not with a summary but with a poem, titled **"God's Back
+Yard"** and signed **Joan Dalrymple**.^31 [[people/dave-twynam|Dave Twynam]]'s article has recorded for
+months that the report ends with a poem by her; the poem itself was never taken out of the document.
+
+It runs twenty lines in rhyming couplets, structured by a refrain. It opens:
+
+> Close your eyes and think real hard / Imagine kamp as God's back yard. / The grass so green, the hills so
+> tall / Close your eyes and think of all / The beauty of our life at kamp, / The morning sun on the grass so
+> damp.
+
+and closes:
+
+> Remember the good times with friends old and new. / Take all of these memories home with you. / Yes, we've
+> worked together and played so hard, / **At Kanawana, in God's back yard.**
+
+Between them it works through the site and the season — "**Flags in a circle from countries brave** / Close
+your eyes and see them wave"; "Children together and children apart / Some grown up and some ready to start";
+"Can you picture your cabin or a favorite tree?"; "The sounds of night time, dark and still / The laughter
+from a far away hill." *It is quoted in part rather than whole here, the work being one identified person's;
+the full text is at lines 990–1026 of the cached report.*
+
+**Two things in it are evidence and not only imagery.** The **flags in a circle from countries brave** are a
+detail of the site that nothing else in this project records for 1979. And the frame is religious: this wiki
+traces the camp's explicitly Christian programming thinning steadily across the century, and this is the only
+place in the camp's own paper where the site is called God's. [f_5799]
+
+
 ## Section Cheers
 
 One section cheer has been recorded in a written source (see Revision History): the handwritten "Medley '81" cheer sheet (see Images below) records an actual Voyageurs sound-off chant ("Said 1-2-3-4-5 / Said Junior Girls don't take no jive / Ya-Ya") and a girls'-section cheer verbatim (f_1566). No further Voyageur, Lumberman, or other section cheers beyond what's on that one sheet have been recorded in any accessible archive or publication. The Color War / L&V Games tradition at YMCA camps across North America typically features team cheers, fight songs, and an "Alma Mater" presented during a culminating event called "Sing."^9 This framework almost certainly applies to the L&V Games at Kanawana.
@@ -477,6 +507,7 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 28. *The Green Triangle*, Vol. II Nos. 4 and 5, **29 July** and **5 August 1933** [src_ymf_the_green_triangle_1933_07_29, src_ymf_the_green_triangle_1933_08_05]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482.
 29. *The Green Triangle*, **13 August 1936** (the "Marois Issue"), **1** and **29 July 1939**, **4** and **22 August 1940** [src_ymf_the_green_triangle_1936_08_13, src_ymf_the_green_triangle_1939_07_01, src_ymf_the_green_triangle_1939_07_29, src_ymf_the_green_triangle_1940_08_04, src_ymf_the_green_triangle_1940_08_22]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. With these the whole digitized 1932–1982 run has been read.
 30. *Camp Otoreke songbook*, 1941 [src_ymf_1941_camp_otoreke_songs]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/1941-camp-otoreke-songs.txt`, 64,053 characters. Held since 2026-08-25 at basis "asserted: keyword-swept, not read closely" on a record marked *extracted*; read word for word 2026-09-07 under p_487, and the repertoire enumerated. See [f_5004] and [f_5602].
+31. *Kamp Kanawana Director's Report 1979* [src_ia_kanawana_report_1979], its closing page. Read 2026-09-08 under p_441. See [f_5799].
 
 ## Research Notes
 
