@@ -1,7 +1,7 @@
 # Derek Walsh
 
-*Status: draft | Sources: 19*
-*Last Updated: 2026-09-08 (on the camp's first board of management, 1989)*
+*Status: draft | Sources: 20*
+*Last Updated: 2026-09-08 (nineteen years of camping by 1977, and a provincial presidency doing the camp's publicity)*
 
 ## Overview
 
@@ -81,6 +81,34 @@ The citation for that award is the fullest single summary of him anywhere: it th
 
 A camp director whose own 1977 report worried about promotion was, in the same years, the national association's authority on it.
 
+## Nineteen years of camping, and what the provincial presidency bought the camp
+
+The 1977 director's report dates his career from inside it. Praising that summer's staff, he writes: "**in my
+19 years of camping**, I don't believe I've seen a finer and more dedicated crew of people working at any
+camp."^20 Counted back from 1977 that puts his start in organised camping at about **1958**, sixteen years
+before the Kanawana directorship this article runs from and fifteen before the 1973 return as programme
+co-ordinator. It says nothing about where those years were spent, and the "camper many years ago" of the
+overview is presumably inside them. [f_5819]
+
+The same report shows the Quebec Camping Association presidency working in both directions. It cost the camp
+office real hours: the extra work of the renovations "**as well as the Camp Director being President of the
+Q.C.A.** substantially increased" Olga Hall's load, in the report's own words. And it paid the camp back in
+coverage that would otherwise have had to be bought. Under promotion: "**on behalf of the Q.C.A. I was
+interviewed on CFCF, CJAD, CBC and CJFM radio stations**", and "**feature articles appeared in the *Montreal
+Star* and *Gazette*** for which I was interviewed on behalf of the Q.C.A."^20 [f_5825] Four radio stations —
+CFCF, CJAD, CBC and CJFM — and both English dailies in one season, in a year when the camp's own paid
+advertising was down to 4% of how new families heard of it, against 14.9% in 1974. The publicity portfolio he
+had chaired provincially since 1975 and would chair nationally for the CCA was not an outside interest; it was
+the camp's press operation.
+
+**And the assistant directorship goes back a year.** [[history/between-centennials|Between Centennials]] dates
+Kerry Finucan's assistant directorship from the 1978 report. He held it in 1977, and Walsh devotes a paragraph
+to him: "under Kerry's excellent direction, **a more flexible and relevant system of interest groups** was
+successfully carried out. His mature, energetic and innovative approach... made him a real asset to the Kamp
+and myself... Kanawana will be truly fortunate to have him back in '78."^20 [f_5819] The report also measures
+the staff Walsh was writing about: average age **20.7 years**, **66% of them former campers**, and two
+dismissed during the season for behavioural reasons, neither named.
+
 ## His own voice, six weeks before a season (1978)
 
 The camp's pre-season staff bulletin of **28 April 1978** is the only document in this project written by Walsh to his own staff, and it is worth reading as a portrait of what a Kanawana director was doing in late April.^17 He signs it "Adios, Derek," calls the season "K.K. '78," addresses the staff as "gang," and hopes for "a large group of **Kanawanitans** present" at a workshop — a demonym this wiki has nowhere else, alongside the "old Kanawanians" of 1938.
@@ -131,6 +159,7 @@ The camp's pre-season staff bulletin of **28 April 1978** is the only document i
 18. YMCA of Montreal newsletter, **27 March 1969** [src_ymf_newsletter_1969_03_27]. Cached at `sources/cache/ymca-montreal-fonds/newsletter-1969-03-27.txt`; read word for word 2026-09-07 under p_482.
 
 19. YMCA of Montreal annual report **1989** [src_ymf_annual_report_1989_202301], the *Branch Boards of Management* page, with the camp's own directors' reports for **1977** and **1978** [src_ia_kanawana_report_1977, src_ia_kanawana_report_1978] for the Camping Branch board and Chairman Phil Davey, with the 1985-1988 volumes checked for the camp's absence from the same list [src_ymf_sgw_ymca_annual_report_1985, src_ymf_sgw_ymca_annual_report_1986, src_ymf_sgw_ymca_annual_report_1987, src_ymf_sgw_ymca_annual_report_1988]. Read 2026-09-08 under p_487. See [f_5777].
+20. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977], its STAFF, PROMOTION and MONTREAL OFFICE sections and its staff list. Cached at `sources/cache/ymca-montreal-fonds/1977-kamp-kanawana-directors-report.txt`; read against the document's own heading list 2026-09-08 under p_441. See [f_5819] and [f_5825].
 ## Research Notes
 
 <!-- Spawned 2026-09-04 from the Canadian Camping re-read (p_304). Enters at STUB

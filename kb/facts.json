@@ -1,8 +1,8 @@
 {
-  "version": "11.78",
-  "kb_version": "11.78",
+  "version": "11.79",
+  "kb_version": "11.79",
   "migrated_from": "3.3",
-  "fact_count": 5779,
+  "fact_count": 5791,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -104359,6 +104359,255 @@
       "date_ref": "1977 (on 1978)",
       "conflicts_with": [],
       "added_version": "11.78",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5818",
+      "claim": "SIXTY-SEVEN NAMED STAFF AGAINST SIXTY-SEVEN JOBS: THE 1977 REPORT PRINTS A COMPLETE ESTABLISHMENT, AND THE COLUMNS CAN BE RE-PAIRED. Under 'The staff of 1977 were:' the report sets names in a left column and titles in a right one. The OCR breaks that layout into four runs -- 35 names, then 35 titles, then 32 names, then 32 titles -- so the pairing has to be rebuilt by position. IT REBUILDS EXACTLY, AND TWELVE INTERNAL ANCHORS PROVE IT: position 15 of the first block gives Jean-Claude Deglaire the title Chef and the report's FOOD SERVICES section names 'our Chef, Jean-Claude Deglaire'; position 18 gives Kerry Finucan Assistant Kamp Director, as the STAFF section says; position 28 gives Olga Hall Camp Secretary, as the MONTREAL OFFICE section says; position 31 gives Richard (Itche) Kerr Counsellor-in-Training Director, as the C.I.T. section says. In the second block, position 5 (Sharon Levine) and position 23 (Don Smith) both read Doctor and HEALTH & SAFETY names exactly those two; position 9 (Melanie Moynan) reads Nurse, as that section says; position 18 (Stewart Sandmark) reads Arts & Crafts Director, position 24 (Donald Southern) Hike & Trip Director and position 31 (Al Vaughan) Senior Waterfront Director, which is the trio PROGRAM thanks by name for exactly those three areas; position 25 (Julien Tasse) reads Maintenance Supervisor, and MAINTENANCE is written around him. THE ESTABLISHMENT, AS PRINTED. Block one: Cynthia Aboud, Senior Girls Rover-Counsellor; Susan Ambrose, Junior Girls Rover-Counsellor; Brian Arbuthnot, Senior Boys Section Director; Joanne Armstrong, Waterfront Auxiliary; Susan Armstrong, Junior Girls Rover-Counsellor; Michael Arscott, Senior Boys Counsellor; Steve Bauman, Junior Waterfront Director; Chris Bishop, Senior Boys Counsellor; Claude Boucher, Senior Girls Counsellor; Ian Chester, Senior Boys Counsellor; Christiane Corbin, Kitchen; Kelly Curtiss, Business Office Assistant; Susan Davis, Junior Girls Counsellor; Susan Dean, Senior Girls Counsellor; Jean-Claude Deglaire, Chef; Trudy Duivenvoorden, Junior Girls Section Director; Patricia Evans, Junior Girls Counsellor; Kerry Finucan, Assistant Kamp Director; Bill Flaschner, Senior Boys Counsellor; Kevin Forster, Junior Boys Section Director; Geoffrey Fox, Business Office Manager; Richard Fray, Junior Boys Counsellor; Cathy Fryer, Senior Girls Section Director; Nancy Fulford, Senior Girls Tripper-Counsellor; Ross Gill, Kitchen; Julie Greenwood, Kitchen; David Grimala, Senior Boys Counsellor; Olga Hall, Camp Secretary; David Hart, Junior Boys Counsellor; John Hergel, Junior Boys Counsellor; Richard (Itche) Kerr, Counsellor-in-Training Director; Amy Kuntz, Kitchen; Jacques Labelle, Maintenance; Terry Lamb, Hike & Trip Auxiliary and Counsellor; Michel Lane, Truck Driver. Block two: Tony Latimer, Junior Boys Rover-Counsellor; Burke Lawrence, Tripper; John Lawrence, Senior Boys Counsellor and Hike & Trip Auxiliary; Genevieve L'Esperance, Junior Girls Rover-Counsellor; Sharon Levine, Doctor; Adele (Misty) McKay, Junior Girls Counsellor; Alison Marshall, Senior Girls Counsellor; Beverley Membride, Junior Girls Counsellor; Melanie Moynan, Nurse; David O'Donnell, Canoeing Director; David Paittel, Junior Boys Counsellor; Bill Perras, Maintenance; Wendy Prince, Junior Girls Counsellor; Peter Reizes, Senior Boys Tripping-Counsellor; Jeff Roberts, Les Voyageurs Director; Eric Sandmark, Arts & Crafts Assistant; Peter Sandmark, Junior Boys Counsellor; Stewart Sandmark, Arts & Crafts Director; John Savage, Kitchen; Nancy (Chad) Sawyer, Assistant Hike & Trip Director; Kate Schissler, Nurse's Assistant; John Siverson, Maintenance; Don Smith, Doctor; Donald Southern, Hike & Trip Director; Julien Tasse, Maintenance Supervisor; Yves Tasse, Maintenance; Lisa Taylor, Senior Girls Counsellor; Rod Taylor, Junior Boys Counsellor; David Townson, Senior Boys Rover-Counsellor; David Vaillancourt, Kitchen; Al Vaughan, Senior Waterfront Director; Robert Woodhouse, Les Voyageurs Tripper. SEVEN NAMES CARRY OCR DAMAGE REPAIRED HERE: Curlitss/Curtiss, Dulvenvoorden/Duivenvoorden, 'Miche]!'/Michel, Relzes/Reizes, Palttel/Paittel, 'O'Donnel |'/O'Donnell, Jullen/Julien. Sawyer's title is printed 'Assistant Hike & Trip PiTSeTer', the only word on the list the scan destroys outright; Director is read from the pattern of the other three assistant titles and should be treated as a reconstruction. THE SOURCE RECORD SAID '~90 NAMES'; IT IS 67, and the estimate was made by eye without counting.",
+      "sources": [
+        "src_ia_kanawana_report_1977"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "1977 staff roster",
+        "Kerry Finucan",
+        "Richard (Itche) Kerr",
+        "Olga Hall",
+        "Julien Tasse",
+        "Nancy Sawyer",
+        "Al Vaughan",
+        "Donald Southern",
+        "Stewart Sandmark"
+      ],
+      "date_ref": "1977",
+      "conflicts_with": [],
+      "added_version": "11.79",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5819",
+      "claim": "THE 1977 STAFF, MEASURED: AVERAGE AGE 20.7, TWO-THIRDS FORMER CAMPERS, TWO DISMISSED. The report's STAFF section: 'The average age of program staff was 20.7 YEARS with 66% of these being FORMER KANAWANTANS. During the summer, TWO STAFF WERE DISMISSED FOR BEHAVIOURAL REASONS. It was unfortunate but necessary to adhere to our policies of work at Kanawana.' THAT 66% IS THE STAFF ANALOGUE OF THE CAMPER RETURNEE RATE the attendance series carries for 1960-1979, and 1977's camper figure was 54.83%, itself the highest in the twenty-year run. So in the camp's best season of the decade by its director's own reckoning, two-thirds of the people running it had been campers there. The same section dates Walsh's career: 'IN MY 19 YEARS OF CAMPING, I don't believe I've seen a finer and more dedicated crew of people working at any camp' -- which puts his start in organised camping at about 1958, sixteen years before the 1974 directorship this project dates him from. AND IT NAMES THE ASSISTANT A YEAR EARLIER THAN THE WIKI HAD HIM: 'Our Assistant Kamp Director, KERRY FINUCAN, deserves a special mention here... Under Kerry's excellent direction, A MORE FLEXIBLE AND RELEVANT SYSTEM OF INTEREST GROUPS was successfully carried out... Kanawana will be truly fortunate to have him back in '78.' between-centennials.md dates Finucan's assistant-directorship from the 1978 report; he held it in 1977 and was invited back. THE DISMISSALS NAME NOBODY, and the SPECIFIC RECOMMENDATIONS section keeps it that way: 'Virtually all staff from '77 could be rehired in '78. There are, however, a small number that should not be considered. The personnel confidential file in the Camp Office should be consulted for details.' No individual is identifiable from either sentence, so no part of this needs an embargo -- which is worth recording, because a 67-name roster printed beside a sentence about dismissals is exactly the shape of thing that usually does.",
+      "sources": [
+        "src_ia_kanawana_report_1977"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Kerry Finucan",
+        "Derek Walsh",
+        "staff returnee rate",
+        "interest groups"
+      ],
+      "date_ref": "1977",
+      "conflicts_with": [],
+      "added_version": "11.79",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5820",
+      "claim": "STAFF TRAINING IN 1977 WAS PAID FOR PARTLY BY THE QUEBEC WORKMEN'S COMPENSATION BOARD, AND THE CAMP SENT PEOPLE TO NINE OUTSIDE COURSES. 'Training of staff started early in May with TWENTY-SEVEN of our program staff successfully completing the standard ST. JOHN'S AMBULANCE FIRST-AID COURSE. THIS WAS PAID FOR BY THE QUEBEC WORKMEN'S COMPENSATION BOARD.' A provincial workers' compensation body funding first-aid certification for summer camp counsellors is a piece of the camp's operating economy this project has nowhere else. THE OUTSIDE PLACEMENTS, WITH HEADCOUNTS: Ontario Camping Association Conference, 4 people; O.C.A. Counsellors Workshop, 1; QUEBEC CAMPING ASSOCIATION CONFERENCE, 6; Canadian Yachting Association Instructors Course, 1; CANADIAN RECREATIONAL CANOEING ASSOCIATION INSTRUCTORS SCHOOL, 2; Archery Instructors School, 1; NATIONAL WOODSMANSHIP SCHOOL, 1; visits to the ST. HILAIRE CONSERVATION CENTRE, 2; YMCA AQUATICS INSTRUCTION SCHOOL, 1. Nineteen placements across nine bodies, in a season with 67 staff. THE CAMP SENT MORE PEOPLE TO THE ONTARIO ASSOCIATION'S EVENTS THAN TO ANY OTHER EXCEPT ITS OWN PROVINCE'S, which is the practical form of a link this project has mostly documented through magazines and office-holding. AND THERE WAS A MANUAL: 'The 8 DAY PRE-KAMP PROGRAM was good... It was augmented beforehand by a 28 PAGE STAFF MANUAL which was developed by THE STAFF COMMITTEE LAST WINTER.' Walsh credits both for the season: 'I believe the staff manual and the pre-kamp program both contributed significantly.' The staff committee is the twelve-person group meeting from December 1976 already recorded at f_5817, and the manual is one of the six things it produced.",
+      "sources": [
+        "src_ia_kanawana_report_1977"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "St. John Ambulance",
+        "Quebec Workmen's Compensation Board",
+        "Ontario Camping Association",
+        "Quebec Camping Association",
+        "staff manual",
+        "pre-camp training"
+      ],
+      "date_ref": "1977",
+      "conflicts_with": [],
+      "added_version": "11.79",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5821",
+      "claim": "THE 1977 C.I.T. PROGRAMME RAN EIGHT WEEKS UNDER ITCHE KERR AND SENT ITS TRAINEES ON AN EXCHANGE WITH THE YWCA'S CAMP OOLAHWAN. 'For the first time since I've been at Kanawana, I can say WE HAD AN EXCELLENT 8 WEEK C.I.T. PROGRAM. Under its Director, ITCHE KERR, the group of 13 C.I.T.S were exposed to on-the-job training in virtually every area of Kamp. Also included were: A 6 DAY CANOE TRIP; BRONZE MEDALLION LIFESAVING COURSE; C.I.T. EXCHANGE WITH THE YWCA'S CAMP OOLAHWAN AND THE LAC MAROIS ASSOCIATION; skill sessions in canoeing, campcraft, sailing, etc.; sessions in GROUP DYNAMICS, PHILOSOPHIES OF CAMPING, THE YMCA AND KAMP KANAWANA.' The APPRECIATION section thanks 'our 13 C.I.T.s for their work and assistance at Kamp this summer.' FOUR THINGS FOLLOW. (1) THE EXCHANGE IS THE LATEST DIRECT KANAWANA-OOLAHWAN PROGRAMME CONTACT THIS PROJECT HOLDS. camp-oolahwan.md documents Oolahwan visits to Kanawana in the 1940s and then has nothing programmatic; this is 1977, and it runs the other way as well as this one. It also puts Oolahwan in operation in 1977, consistent with Marjorie Booth running it until late 1979, and it is a second fixture with the LAC MAROIS ASSOCIATION in the same season -- the swim meet at f_5805 is the other. (2) IT DATES ITCHE KERR. directors-index.md lists Richard 'Itche' Kerr as the 2007 Pip Award winner with camp years 'unknown', and camp-songs-cheers.md has him as the composer of the camp song; the 1977 staff list gives him the title Counsellor-in-Training Director and this section says he ran it well. That is a year and a job for a man the project has held only as a name. (3) EIGHT WEEKS IS THE FULL SEASON, so the CIT programme in 1977 was not a session but the whole summer. (4) 'FOR THE FIRST TIME SINCE I'VE BEEN AT KANAWANA' is a judgement on the years before it, from a director in post since 1974: the programme existed and, in his view, had not worked.",
+      "sources": [
+        "src_ia_kanawana_report_1977"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "CIT program",
+        "Richard (Itche) Kerr",
+        "Camp Oolahwan",
+        "Lac Marois Association",
+        "Bronze Medallion"
+      ],
+      "date_ref": "1977",
+      "conflicts_with": [],
+      "added_version": "11.79",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5822",
+      "claim": "TWO RESIDENT DOCTORS, A NURSE AND AN ASSISTANT FOR ABOUT 250 PEOPLE, AND THE SEASON'S CASUALTY COUNT. HEALTH & SAFETY, 1977: 'Again this year we were fortunate to have a resident doctor. DOCTORS SHARON LEVINE (SECTION DIRECTOR 1973) AND DON SMITH were always available to treat all the aches, pains, scrapes, etc. of OUR 250 OR SO PEOPLE AT KAMP. Our Nurse, MELANIE MOYNAN did an admirable job in coping with the general running of THE HOSPITAL, feeding patients, etc.' The staff list adds Kate Schissler as Nurse's Assistant. THE FIGURE OF 250 IS A POPULATION, not a registration: campers and staff on site at one time, against 414 different children across the season and 67 staff. THE CASUALTIES: 'The actual number of colds, sore throats, etc. DID DECREASE FROM '76. During the summer, 2 KAMPERS WERE SENT HOME DUE TO ACCIDENTS AND 2 DUE TO ILLNESS. TWO STAFF WERE HOSPITALIZED IN MONTREAL - one for appendicitis and the other for unknown reasons.' AND A CAUSE IS CLAIMED FOR THE IMPROVEMENT: 'One thing that I believe helped our health situation this summer was THE USE OF DISPOSABLE DISHES IN OUR KITCHEN. So much so that I recommend they be used at both sites next year.' A 1977 camp treating disposable tableware as a public-health measure is worth setting beside the environmental record this wiki keeps for later decades. SHARON LEVINE IS THE SHARPEST DETAIL: a section director in 1973 returning four years later as the camp's doctor, which is the camper-to-staff progression this project traces on plaques, carried one rung further into a profession.",
+      "sources": [
+        "src_ia_kanawana_report_1977"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Sharon Levine",
+        "Don Smith",
+        "Melanie Moynan",
+        "Kate Schissler",
+        "infirmary",
+        "disposable dishes"
+      ],
+      "date_ref": "1977",
+      "conflicts_with": [],
+      "added_version": "11.79",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5823",
+      "claim": "THE KITCHEN WAS CATERED BY FAN FARE FOODS IN 1977, AND A 30% SPENDING INCREASE SHOWS UP IN THE PARENTS' SURVEY WITHIN A YEAR. 'A year ago, I RECOMMENDED THAT WE INCREASE OUR FOOD SPENDING BY 30%. I now believe that in so doing a right decision was made. OUR FOOD SERVICE WAS MANAGED BY BOB GILL OF FAN FARE FOODS. I have nothing but praise for Bob and our Chef, JEAN-CLAUDE DEGLAIRE... it was still more satisfactory this summer than it has been in the last five years.' programs-activities.md already has the 1975 report saying the food was 'catered for the first time'; THIS NAMES THE CATERER AND THE CHEF, and shows the arrangement two seasons on. THE PARENTS' RATING OF THE FOOD, 1974-1977, as the report prints it: Excellent 9%(scan-damaged, printed '94'), 8%, 6%, 32.66%; Very Good 25%, 34%, 17%, 36.86%; Good 35%, 37%, 44%, 24.14%; Fair 23%, 19%, 23%, 5.6%; Poor 5%, 2%, 10%, 1.42%. THE 1976 COLUMN IS THE FLOOR AND 1977 IS A REVERSAL: Excellent-plus-Very-Good goes 34, 42, 23, 69.52; Fair-plus-Poor goes 28, 21, 33, 7.02. A THIRD OF PARENTS RATED THE FOOD EXCELLENT IN 1977 AGAINST SIX PER CENT IN 1976. Two cautions carried from attendance-series.md's handling of the same report's appraisal table: the 1974-76 columns are whole numbers and 1977 carries two decimals, so they were computed differently; and the 1974 Excellent cell reads '94' in the scan, which cannot be right against a column summing to 100 and is read here as 9%.",
+      "sources": [
+        "src_ia_kanawana_report_1977"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Fan Fare Foods",
+        "Bob Gill",
+        "Jean-Claude Deglaire",
+        "food services",
+        "parent survey"
+      ],
+      "date_ref": "1977",
+      "conflicts_with": [],
+      "added_version": "11.79",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5824",
+      "claim": "WHAT THE CARETAKER'S CREW BUILT IN 1977, ITEM BY ITEM. MAINTENANCE: 'It was a busy summer for JULIEN TASSE AND HIS CREW as we began some of our planned renovations. I'm still overwhelmed at the amount of patching up, transplants, repair work and construction that this man does every summer. Kanawana is truly fortunate to have SUCH A CAPABLE CARETAKER as Julien, particularly during this time of construction and renovation.' THE LIST, over and above regular repairs: REPLACING THE KAMP SIGN; ERECTING A NEW GATE; painting the caretaker's house; staining and painting THE LODGE AND BUSINESS OFFICE BUILDING; REPAIR AND REPAINTING OF THE 16 ROWBOATS; installing A NEW SEPTIC TANK FOR THE B.O.; replacing or repairing various doors, balconies, cabins. 'A special thanks to our Arts & Crafts Director, STEWART SANDMARK who made THE NEW SIGNS FOR KAMP KANAWANA AND THE OUTING CLUB.' THREE THINGS THIS SETTLES OR ADDS. (1) THE FLEET IS COUNTED: sixteen rowboats, a hard number for a waterfront this project describes mostly in canoes, and the SPECIFIC RECOMMENDATIONS section proposes 'replacing ALL CANOES AND ROWBOATS WITH LOW MAINTENANCE ONES, (ie ALUMINUM or whatever)... over a 5 TO 10 YEAR PERIOD.' (2) THE CAMP SIGN AND THE GATE THAT STOOD THROUGH THE LATE 1970s AND 1980s WERE PUT UP IN 1977, and lettered by the arts and crafts director rather than bought. (3) THE KANAWANA OUTING CLUB HAD ITS OWN SIGN ON THE SITE, made at the same time -- and the promotion section's survey lists 'Kanawana Outing Club member' as one of the ways new campers heard of the camp, at 2%. The staff list gives Julien Tasse the title MAINTENANCE SUPERVISOR and puts YVES TASSE, Bill Perras, John Siverson and Jacques Labelle on maintenance under him: the crew is five, and two of them are Tasses.",
+      "sources": [
+        "src_ia_kanawana_report_1977"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Julien Tasse",
+        "Yves Tasse",
+        "Stewart Sandmark",
+        "camp sign",
+        "Kanawana Outing Club",
+        "rowboats"
+      ],
+      "date_ref": "1977",
+      "conflicts_with": [],
+      "added_version": "11.79",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5825",
+      "claim": "HOW THE CAMP SOLD ITSELF IN 1977, AND THE SURVEY SAYING WHICH OF IT WORKED. PROMOTION: 2,300 BROCHURES distributed via phone inquiries, YMCA branches and staff; a CALENDAR-REVIEW again produced, 1,000 COPIES sent to 1976 Kanawantans and friends; 'The Montreal YMCA placed numerous ads in several Montreal newspapers'; the camp LISTED IN THE AMERICAN DIRECTORY OF SCHOOLS AND CAMPS and in the QUEBEC CAMPING ASSOCIATION DIRECTORY (14,000 DISTRIBUTED); 'On behalf of the Q.C.A. I was interviewed on CFCF, CJAD, CBC AND CJFM radio stations'; 'FEATURE ARTICLES APPEARED IN THE MONTREAL STAR AND GAZETTE for which I was interviewed on behalf of the Q.C.A.'; SIX ISSUES OF THE GREEN TRIANGLE sent to all 1976 Kanawantans; a K.K. BIRTHDAY CARD sent to all Kanawantans on their birthdays; 'THE KANAWANA REUNION WAS HELD IN APRIL WITH OVER 200 KAMPERS ATTENDING'; and a booth at the conference of the QUEBEC FEDERATION OF THE HOME & SCHOOL ASSOCIATION. THE SURVEY, 1974-1977, answering 'If your child was a new Kanawantan this year, how did you hear about Kamp Kanawana?': FRIEND OR NEIGHBOUR 30%, 8%, 51%, 47%; YMCA BRANCH 15, 20, 18, 19; Q.C.A. -, 6, 3, 7; ADVERTISING 14.9, 9, 7, 4; SCHOOL 2, 4, 1, 4; RELATIVE OF FORMER KAMPER 36, 20, 20, 9; K.K. staff member -, -, -, 5; newspaper article -, -, -, 3; Kanawana Outing Club member -, -, -, 2. THE FINDING WALSH DRAWS IS THE ONE THE NUMBERS SUPPORT: 'most of our new kampers hear about Kanawana FROM FRIENDS OR NEIGHBOURS.' PAID ADVERTISING FELL FROM 14.9% TO 4% ACROSS FOUR YEARS while word of mouth rose, and he says so about the money: 'The amount of money spent on promotion was MINIMAL as compared to a few years ago. I am not convinced that it is really necessary to spend large sums of money, however, DUE TO OUR LOWER REGISTRATION, IT MUST BE CONSIDERED FOR '78.' THE 1974-76 AND 1977 COLUMNS DO NOT MEAN QUITE THE SAME THING: the last three rows appear only in 1977, so 'relative of former kamper' falling from 20% to 9% may partly be respondents who now had a staff-member or newspaper box to tick. THE SIX GREEN TRIANGLE ISSUES ARE A FREQUENCY the newsletter's own article can use, and the APRIL REUNION WITH OVER 200 ATTENDING is the largest alumni gathering this project has a number for before the 1994 centennial.",
+      "sources": [
+        "src_ia_kanawana_report_1977"
+      ],
+      "confidence": "stated",
+      "category": "documents",
+      "entities": [
+        "Green Triangle",
+        "Kanawana reunion",
+        "Quebec Camping Association directory",
+        "CJAD",
+        "CFCF",
+        "CJFM",
+        "Montreal Star",
+        "Gazette",
+        "Quebec Federation of Home & School Associations"
+      ],
+      "date_ref": "1977",
+      "conflicts_with": [],
+      "added_version": "11.79",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5826",
+      "claim": "THE TWO-SITE BUILD IN PROGRESS, PRICED AND STAFFED, AND THE AMERICAN CAMPS IT WAS COPIED FROM. Beyond the plan already recorded at f_5817, the 1977 report's 1978 section says what was physically underway and what it would produce. 'DURING THE SUMMER, A GROUP OF US VISITED THREE YMCA YEAR ROUND CAMPS IN THE U.S. Much was learned from an ARCHITECTURAL, ENGINEERING AND PROGRAM standpoint that will be of value for the future.' WORK UNDER WAY IN AUTUMN 1977: renovation of THE BLOCK HOUSE AND FARM HOUSE; ENCLOSING AND RENOVATING THE DINING HALL; RELOCATING TENT PLATFORMS IN THE NEW AND OLD SITES; erecting A NEW SHOWER BUILDING IN THE SENIOR SECTION; and over the winter 'some buildings will be RELOCATED OR DEMOLISHED.' THE PRODUCT PROMISED: 'BY JUNE 1978 the new site will be in operation with FOUR DOUBLE SELF-CONTAINED LIVING UNITS, SIX TENT PLATFORMS and A LARGE MULTI-PURPOSE DINING-RECREATION HALL. THE PROJECT WILL COST APPROXIMATELY $850,000. WE HAVE HIRED THREE ADDITIONAL FULLTIME MAINTENANCE PEOPLE to assist in the carrying out of the above work.' AND THE BULLDOZERS WERE ALREADY THERE IN THE SUMMER: the report's second paragraph opens 'This year is a turning point for dear old Kanawana. THE BULLDOZERS HAVE STARTED WORK FOR THE NEW YEAR ROUND SITE. As this is THE LAST YEAR OF K.K. AS WE'VE KNOWN IT...' THE ENCLOSURE OF THE DINING HALL IS THE DETAIL WORTH KEEPING: an open-sided summer building being made a winter one is the single physical change that a year-round camp actually requires, and it is listed as work in hand, not proposed. Three permanent maintenance posts were created for it.",
+      "sources": [
+        "src_ia_kanawana_report_1977"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "two-site operation",
+        "dining hall",
+        "block house",
+        "farm house",
+        "year-round site",
+        "tent platforms"
+      ],
+      "date_ref": "1977 (on 1978)",
+      "conflicts_with": [],
+      "added_version": "11.79",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5827",
+      "claim": "FIVE OPERATING DECISIONS OF 1977, EACH RECOMMENDED FOR REPEAT, AND THE COST OF LATE CANCELLATION. SPECIFIC RECOMMENDATIONS: (1) 'This year BUSES WERE RENTED FROM THE LAURENTIANS RATHER THAN MONTREAL. This enabled us to have a 3 HOUR BREAK AT KAMP BETWEEN GROUPS. It was also LESS EXPENSIVE.' A three-hour turnaround between departing and arriving sessions is a piece of camp logistics nothing else in this project records. (2) 'Our REVISED POLICIES (as written in the staff manual) REGARDING CIGARETTES IN KAMP FOR STAFF AND KAMPERS was well accepted by parents and Kanawantans alike' -- a 1977 camp writing a smoking policy covering campers as well as staff, and reporting parental approval of it. (3) 'The introduction of HEALTH FOOD AND FRUIT JUICES IN THE BUSINESS OFFICE was well received' -- the tuck shop, changed. (4) 'The NON-REFUNDABLE DEPOSIT required for the registration of kampers should be INCREASED SUBSTANTIALLY next year. SINCE JUNE 1ST, 1977, THERE WERE 108 KAMPER WEEKS OF CANCELLATIONS.' attendance-series.md already carries the 108 figure; this gives the response to it. (5) The boat replacement programme at f_5824. A SIXTH ITEM IS ABOUT COMMUNICATION, NOT OPERATIONS: 'Due to the operation of 2 SITES next year, it will be necessary to keep our STAFF, PARENTS AND KAMPERS INFORMED of the changes. Perhaps A BULLETIN explaining the physical and program changes should be widely circulated.' Whether that bulletin was ever produced is not established, and it would be a findable document if it was.",
+      "sources": [
+        "src_ia_kanawana_report_1977"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "transportation",
+        "smoking policy",
+        "business office",
+        "registration deposit",
+        "cancellations"
+      ],
+      "date_ref": "1977",
+      "conflicts_with": [],
+      "added_version": "11.79",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5828",
+      "claim": "THE SOURCE RECORD LISTED 'APPRECIATION' AS UNREAD, AND IT HAD BEEN FULLY EXTRACTED FIVE DAYS EARLIER. src_ia_kanawana_report_1977's read_state_basis, written 2026-09-08, names ten sections 'STILL UNREAD, by heading', APPRECIATION among them. But f_5649 and f_5648, both raised 2026-09-07 under p_492, take that section apart item by item: the ten drug companies stocking the infirmary, George Balcan and Jack Finnigan of CJAD, Canadian Erectors Limited and Stanley Hawkins, Jim Simpkins and the birthday card, Montreal Copy Centre, the Westmount, West Island and Downtown branches lending meeting rooms, the Clouston Company's drink machine, Tom Thompson's 4,000 postcards, the unnamed neighbours whose land the camp used by permission, and the 'Salutation of the Dawn' the report closes on. Ivanhoe Corporation and the Dorval Gardens parking lot are in the-kanawana-site.md from the same pass. NOTHING IN THAT SECTION WAS LEFT. THE ERROR IS IN THE OPPOSITE DIRECTION TO THE ONE THIS PROJECT KEEPS MAKING. The standing lesson is that an 'extracted' read_state is a claim about what was taken out, not about what is left in -- a record can say read and hide unmined passages. Here a record said UNREAD about a section already mined, which wastes a pass rather than losing material, but comes from the same root: the heading list was written by looking at the document, not by checking the headings against the facts already citing it. THE CHEAP FIX IS TO CHECK BOTH WAYS. Before writing 'still unread, by heading', grep the KB for facts already citing that source and strike the headings they cover. Three of the ten headings in this list -- PROGRAM, STAFF COMMITTEE and MONTREAL OFFICE -- were correctly excluded that way, because their facts were raised in the same session and were in mind; APPRECIATION's were five days old and were not. PROXIMITY IN TIME, NOT THE RECORD, IS WHAT MADE THE DIFFERENCE, which is exactly the thing a written record is supposed to replace.",
+      "sources": [
+        "src_ia_kanawana_report_1977"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "src_ia_kanawana_report_1977",
+        "read_state_basis",
+        "p_492",
+        "f_5649",
+        "f_5648"
+      ],
+      "date_ref": "2026-09-08",
+      "conflicts_with": [],
+      "added_version": "11.79",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5829",
+      "claim": "AN OPEN CAVEAT IN between-centennials.md IS CONTRADICTED BY directors-index.md AND BY THE 1977 REPORT ITSELF. between-centennials.md still reads: 'whether Walsh was also running the camp on-site in those summers is NOT STATED BY ANY DOCUMENT READ SO FAR.' directors-index.md settled this on 2026-08-14 and again since: 'The title change from Director to Director of Camping in 1976 is settled and means nothing: HE WAS THE ON-SITE DIRECTOR THROUGHOUT', citing among other things the 1977 report's line that 'the Camp Director' was President of the Q.C.A., which Walsh was. THE 1977 DOCUMENT SUPPORTS IT THREE MORE WAYS: it is headed CAMP DIRECTOR'S REPORT 1977; it calls Kerry Finucan 'OUR ASSISTANT KAMP DIRECTOR', a title that presupposes a Kamp Director writing; and it is written throughout in the first person of a man on site, counting 'OUR 250 OR SO PEOPLE AT KAMP'. THIS IS THE p_503 FAILURE AGAIN, in the same shape: a correction made in the index article and never carried to the narrative article that repeats the old claim. It is the fifth instance found. The span-drift checker cannot see this one, because the stale text is a CAVEAT IN PROSE rather than a date range.",
+      "sources": [
+        "src_ia_kanawana_report_1977"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Derek Walsh",
+        "p_503",
+        "stale cross-article claim"
+      ],
+      "date_ref": "1977",
+      "conflicts_with": [],
+      "added_version": "11.79",
       "added_by": "ralph_loop"
     }
   ]

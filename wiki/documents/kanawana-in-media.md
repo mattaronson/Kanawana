@@ -1,7 +1,7 @@
 # Kanawana in Media and Culture
 
-*Status: E1-reviewed | Sources: 38*
-*Last Updated: 2026-09-08 (the camp's whole publicity plan for 1987)*
+*Status: E1-reviewed | Sources: 39*
+*Last Updated: 2026-09-08 (the whole 1977 promotion effort, and the survey saying which of it worked)*
 
 ## Overview
 
@@ -295,6 +295,41 @@ settled by the 1970 proposal that names its purpose. The sequence also shows Kan
 technique its national association was still circulating as advice seven years later, and holding a
 professionally designed card in the year the advice appeared. [f_5681]
 
+**The whole 1977 promotion budget, itemised, and the survey saying which of it worked.** The same report's
+promotion section is the most complete account this article has of how the camp reached families in any one
+year.^39 It distributed **2,300 brochures** through phone inquiries, YMCA branches and staff; produced a
+**calendar-review** again and sent **1,000 copies** to the previous year's campers and friends; had the
+Montreal YMCA place "numerous ads in several Montreal newspapers"; appeared in the American directory of
+schools and camps and in the **Quebec Camping Association directory, 14,000 of them distributed**; sent
+**six issues of [[documents/green-triangle|the *Green Triangle*]]** to all 1976 Kanawantans; sent the
+birthday card above; held **a reunion in April with over 200 campers attending**; and took a booth at the
+conference of the **Quebec Federation of the Home & School Association**. Derek Walsh, then president of the
+Quebec Camping Association, was interviewed on **CFCF, CJAD, CBC and CJFM** and for **feature articles in the
+*Montreal Star* and the *Gazette*** — on the association's behalf rather than the camp's, which is the
+distinction the report itself draws and which makes provincial office a promotional asset. [f_5825]
+
+Then it asks the parents. To "if your child was a new Kanawantan this year, how did you hear about Kamp
+Kanawana?", across 1974, 1975, 1976 and 1977:
+
+| Source | 1974 | 1975 | 1976 | 1977 |
+|---|---|---|---|---|
+| Friend or neighbour | 30% | 8% | 51% | **47%** |
+| YMCA branch | 15 | 20 | 18 | 19 |
+| Quebec Camping Association | — | 6 | 3 | 7 |
+| Advertising | 14.9 | 9 | 7 | **4** |
+| School | 2 | 4 | 1 | 4 |
+| Relative of former camper | 36 | 20 | 20 | 9 |
+| K.K. staff member | — | — | — | 5 |
+| Newspaper article | — | — | — | 3 |
+| Kanawana Outing Club member | — | — | — | 2 |
+
+**Paid advertising fell from 14.9% to 4% across four years while word of mouth held near half**, and Walsh
+drew the conclusion the numbers support: "the amount of money spent on promotion was minimal as compared to a
+few years ago. I am not convinced that it is really necessary to spend large sums of money, however, due to
+our lower registration, it must be considered for '78." One caution on the table: the last three rows exist
+only in the 1977 column, so "relative of former camper" falling from 20% to 9% may be partly respondents who
+finally had a staff-member or newspaper box to tick.
+
 **And the camp was doing radio and television as routine promotion in 1969.** The radio section below
 runs CFCF and CBM between 1936 and 1941 and then jumps to CJAD in 1976. The 1969 report closes part of
 that gap, not with a named broadcast but with a description of standing practice. After the brochure,
@@ -489,6 +524,7 @@ To which can be added a fifth of a different kind: **Armand B. Ball, *Basic Camp
 36. **James Simpkins, biographical, and a null.** One web search on **2026-09-07** under `p_491`, returning The Canadian Encyclopedia, Wikipedia, the Lambiek Comiclopedia and the Canadian Animation, Cartooning and Illustration encyclopedia. These establish the cartoonist's dates and career and **nothing linking him to Montreal, the YMCA or Kanawana**; the identification is recorded as untested rather than made. See [f_5682].
 37. Kamp Kanawana's own annual report for **1969** [src_ia_kanawana_report_1969], its PROMOTION section. Cached at `sources/cache/ymca-montreal-fonds/1969-kamp-kanawana-annual-report.txt`; read 2026-09-07 under `p_491`. See [f_5688].
 38. *Kamp Kanawana Director's Report 1987* [src_ia_kanawana_report_1987], Jay Netherwood, its Publicity and Free Publicity tables. Read 2026-09-08 under p_441. See [f_5810].
+39. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977], its PROMOTION section and the how-did-you-hear survey table. The same document as 33, whose acknowledgement section was read under p_492; the promotion section was read 2026-09-08 under p_441, working the document's own heading list. See [f_5825].
 
 *All four are lending-restricted on the Internet Archive and none has been read; each passage was reconstructed from overlapping Open Library search-inside queries and is cached with its queries under `sources/cache/openlibrary-search-inside/`.*
 

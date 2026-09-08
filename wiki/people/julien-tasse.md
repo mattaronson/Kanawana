@@ -2,7 +2,7 @@
 
 *Camp Kanawana's caretaker, c. 1958 – c. 1992*
 
-<!-- meta: status=reader-facing | sources=7 | updated=2026-09-07 -->
+<!-- meta: status=reader-facing | sources=8 | updated=2026-09-08 -->
 
 ## Overview
 
@@ -47,7 +47,11 @@ The Director's Report for 1976 prints a full staff list with roles, and two line
 
 The camp's own title for him was **Maintenance Supervisor**, not caretaker — which is what everyone called the job. And Yves was on the payroll in 1976, ten years before the board on which he first appears.
 
-Tassé is named in every Kanawana director's report from 1964 to 1976, usually in the same register. In 1970 he "once again did a fantastic job holding the camp together with chewing gum, etc." In 1971 the stables "were placed in excellent condition due to the work of Julien Tasse during pre-camp." In 1973: "Julien Tasse and his crew did their usual tremendous job of keeping our ageing facilities in top shape… How he ever manages to satisfy them all in addition to the regular work load and still keep smiling will always be a mystery to me." Two successive directors, in 1974 and 1975, close their reports by naming him and the office secretary Olga Hall as the two people they could not have done without.
+**1977 repeats both lines and names the whole crew.** That year's report gives him the same title and Yves the same one under him, and adds three more men to maintenance — Bill Perras, John Siverson and Jacques Labelle — so the crew was **five, two of them Tassés**.^8 The prose is the warmest any director gives him: "It was a busy summer for **Julien Tasse and his crew** as we began some of our planned renovations. I'm still **overwhelmed at the amount of patching up, transplants, repair work and construction that this man does every summer**. Kanawana is truly fortunate to have such a capable caretaker as Julien, particularly during this time of construction and renovation." Note the word: the director who titles him Maintenance Supervisor on the staff list calls him **caretaker** in the sentence, which is the answer to how the two names sat together.
+
+What the crew got through in 1977, over and above regular repairs: replacing the camp sign, erecting a new gate, painting the caretaker's own house, staining and painting the Lodge and Business Office, repairing and repainting the sixteen rowboats, installing a new septic tank for the Business Office, and replacing or repairing doors, balconies and cabins.^8 [f_5824] That is the only itemised list of a single season's work by this crew anywhere in the project, and it was done in the summer the bulldozers arrived for the site's planned reconstruction.
+
+Tassé is named in every Kanawana director's report from 1964 to 1977, usually in the same register. In 1970 he "once again did a fantastic job holding the camp together with chewing gum, etc." In 1971 the stables "were placed in excellent condition due to the work of Julien Tasse during pre-camp." In 1973: "Julien Tasse and his crew did their usual tremendous job of keeping our ageing facilities in top shape… How he ever manages to satisfy them all in addition to the regular work load and still keep smiling will always be a mystery to me." Two successive directors, in 1974 and 1975, close their reports by naming him and the office secretary Olga Hall as the two people they could not have done without.
 
 ## A profile, 1965
 
@@ -93,6 +97,7 @@ Naming it after him was fitting and, apparently, futile. The failure of the name
 5. *Kamp Kanawana Director's Report 1976* [src_ia_kanawana_directors_report_1976], staff list. Further appearances: the annual reports for 1965 [src_ia_kanawana_report_1965], 1970 [src_ia_kanawana_report_1970] and 1971 [src_ia_kanawana_report_1971], and the director's reports for 1973 [src_ia_kanawana_report_1973], 1974 [src_ia_kanawana_report_1974] and 1975 [src_ia_kanawana_report_1975].
 6. *The Chestnut* ("the pathfinder — Summer Summary"), Kamp Kanawana Pathfinder section publication, 1965 [src_ymf_1965_the_chestnut]. Its staff-profile pages put the same questions to nearly every member of staff, which is why it can be read as a poll.
 7. See [[site/the-kanawana-site|The Kanawana Site]] for the dining hall's construction and capacity.
+8. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977], its staff list and MAINTENANCE section. Cached at `sources/cache/ymca-montreal-fonds/1977-kamp-kanawana-directors-report.txt`; read 2026-09-08 under `p_441`. The staff list is printed in two columns that the scan breaks apart; the name-to-title pairing is reconstructed by position and checked at twelve internal anchors, of which Tassé's own is one. See [f_5824] and [f_5818].
 
 ## Research Notes
 

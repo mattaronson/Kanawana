@@ -1,7 +1,7 @@
 # The CIT/LIT Program
 
-*Status: draft | Sources: 18*
-*Last Updated: 2026-09-08 (a bequest endowing CIT places, and a camper of nine summers at her hiring interview)*
+*Status: draft | Sources: 19*
+*Last Updated: 2026-09-08 (the 1977 programme in full: eight weeks under Itche Kerr, and an exchange with Camp Oolahwan)*
 
 ## Overview
 
@@ -116,6 +116,14 @@ Kanawana's administration, personnel, site, programme, health and safety, runnin
 adults judge the camp, and letting them apply it to the people training them, is a different proposition
 from the evaluation obligations the association would spell out three years later. No source says
 Kanawana ever did anything of the kind; no source says it did not.
+
+## 1977: eight weeks, thirteen trainees, and an exchange with a YWCA camp
+
+The 1977 director's report gives this article its fullest description of the programme in any single year, and it opens with a verdict on the years before it: "For the first time since I've been at Kanawana, I can say we had an **excellent 8 week C.I.T. program**."^19 Derek Walsh had been in post since 1974, so that is a judgement on at least three previous cohorts by the man who ran them. Thirteen counsellors-in-training "were exposed to on-the-job training in virtually every area of Kamp", under a director named for the first time: **Richard "Itche" Kerr**, whom the same report's staff list titles Counsellor-in-Training Director and whom [[people/directors-index|the directors and staff index]] has otherwise held only as the 2007 Pip Award winner with his camp years unknown. He is also the composer of the camp song at [[traditions/camp-songs-cheers|Camp Songs and Cheers]]. [f_5821]
+
+What the eight weeks contained, as the report lists it: a **six-day canoe trip**; a **Bronze Medallion lifesaving course**; a **C.I.T. exchange with the YWCA's Camp Oolahwan and the Lac Marois Association**; skill sessions in canoeing, campcraft and sailing; and sessions in "group dynamics, philosophies of camping, the YMCA and Kamp Kanawana". Walsh asked for no changes for the following year beyond working out how it would run across two sites, and credited the director by name.^19
+
+Three of those items are worth separating out. **Eight weeks is the whole summer**, so a CIT in 1977 was not attached to a session but to the season. The **group-dynamics and philosophy sessions** are the earliest evidence this article holds that Kanawana taught its trainees the theory of the work and the institution's own history alongside the skills, which is the shape the CCA's published curriculum would take in 1984 and which appears here seven years before it. And the **exchange with [[connections/related-camps/camp-oolahwan|Camp Oolahwan]]** is the only inter-camp placement in the programme's documented history: Kanawana's trainees went to a YWCA girls' camp and, on the plain reading of "exchange", Oolahwan's came the other way. The Lac Marois Association appears twice in the same season, here and in the swim meet listed among that summer's special programmes.
 
 ## What a CIT Was Owed, Nationally, in 1977
 
@@ -294,6 +302,7 @@ experience, which is the clearest statement this article has of what the program
 16. Kamp Kanawana's own annual report for **1969** [src_ia_kanawana_report_1969], its COUNSELLOR-IN-TRAINING recommendations; with CIT cohort sizes for **1975**, **1976** and **1977** from the acknowledgement sections of those years' directors' reports [src_ia_kanawana_report_1975, src_ia_kanawana_directors_report_1976, src_ia_kanawana_report_1977]. All cached in `sources/cache/ymca-montreal-fonds/`; read 2026-09-07 under `p_491`. See [f_5694] and [f_5659].
 17. The YMCAs of Québec, community report **2013**, French edition [src_ymf_sgw_ymca_community_report_2013_fr], the "Au revoir monsieur Ridley !" notice, with the English edition [src_ymf_sgw_ymca_community_report_2013] checked and found illegible at that passage; and the YMCA of Montreal annual report **1996** [src_cache_sgw_ymca_annual_report_1996] for William Ridley at the Heritage Club banquet. Read 2026-09-08 under p_487, reached through the French-edition triage. See [f_5784].
 18. The YMCAs of Québec, community report **2015**, English and French editions [src_ymf_sgw_ymca_community_report_2015, src_ymf_sgw_ymca_community_report_2015_fr], the short-profile run. Read 2026-09-08 under p_487. See [f_5785].
+19. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977], its COUNSELLOR-IN-TRAINING PROGRAM section in full, with the staff list read alongside it for Kerr's title. Cached at `sources/cache/ymca-montreal-fonds/1977-kamp-kanawana-directors-report.txt`; read 2026-09-08 under `p_441`, working the document's own heading list. See [f_5821] and [f_5818].
 
 ## Research Notes
 

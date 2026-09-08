@@ -7101,3 +7101,45 @@ itself in the single year before 1959.
 
 Every one of those corrections came from reading the *next* document. That is now the working rule, and
 the last several units were done that way with no correction needed afterwards.
+
+---
+
+## 2026-09-08 — one document, finished
+
+The 1977 director's report is the first source in this project read by listing its own headings and
+working them in order rather than reading it for whatever was being looked for that hour. It took five
+passes across one evening to learn that, and this is the sixth: the whole document, every section,
+nothing left.
+
+**What the last pass got.** The staff list is the piece worth the trouble. Sixty-seven names on the left,
+sixty-seven titles on the right, and a scan that breaks the two columns into four separate runs so the
+pairing has to be rebuilt by position. It rebuilds exactly, and the report's own prose checks it at twelve
+points — the chef, the assistant director, the camp secretary, the C.I.T. director, both doctors, the
+nurse, the three programme heads thanked by name, the maintenance supervisor — every one of them falling
+where the reconstruction puts it. That gives the camp's whole establishment for one summer, which this
+project has for no other year in the 1970s.
+
+It also fills a hole that had been open since the article was written. Richard "Itche" Kerr, the composer
+of the camp song, has sat in the directors index as the 2007 Pip Award winner with his camp years listed
+"unknown", and in the songs article as a man whose only trace outside a Concordia catalogue entry was his
+own 1993 memoir. He was Counsellor-in-Training Director in 1977, in the camp's own paperwork, running a
+programme the director called excellent for the first time in his tenure. The memoir's frame is
+corroborated; the composition itself still rests on his word.
+
+**Two things nobody was looking for.** The C.I.T. programme that year included "a C.I.T. exchange with the
+YWCA's Camp Oolahwan and the Lac Marois Association" — the latest direct programme contact between
+Kanawana and Oolahwan anywhere in this project, thirty-one years after the last documented 1940s visit,
+and the only one where the traffic ran both ways by arrangement. And the promotion section says six issues
+of the *Green Triangle* went out to all the previous year's campers, which closes a year the newsletter's
+own article had implicitly counted as a gap between the 1976 and 1978 revivals.
+
+**And an error in the opposite direction to the usual one.** This source's own record listed APPRECIATION
+among ten sections "still unread, by heading". It had been taken apart item by item five days earlier —
+the ten drug companies, the CJAD broadcasters, the donated birthday-card design, the neighbours whose land
+the camp used by permission. The standing lesson here has been that an "extracted" read state is a claim
+about what was taken out, not about what is left in. This is the mirror image: a record saying unread
+about a section already mined. Same root, though. The heading list was written by looking at the document
+instead of by checking its headings against the facts already citing it. Three of the ten headings were
+correctly excluded that way, and the difference was that those facts were hours old and in mind while
+APPRECIATION's were five days old and were not. Proximity in time did the work a written record is
+supposed to do. The fix costs one grep and is now written into f_5828.

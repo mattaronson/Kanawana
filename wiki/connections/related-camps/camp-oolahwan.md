@@ -1,7 +1,7 @@
 # Camp Oolahwan
 
-*Status: E1-reviewed | Sources: 35*
-*Last Updated: 2026-09-07 (the summer of 1928, from two clippings in a Toronto student's album)*
+*Status: E1-reviewed | Sources: 36*
+*Last Updated: 2026-09-08 (a 1977 C.I.T. exchange with Kanawana, thirty-one years after the last documented visit)*
 
 ## Overview
 
@@ -114,6 +114,10 @@ A previously undocumented second girls' camp also had contact with Kanawana: the
 
 Camp Amy Molson and the Junior League Camp are treated in this KB as two distinct organizations rather than a case of institutional succession: Camp Amy Molson's own official history is weighted as the more authoritative source for its own origin (founded independently in 1944 by the Montreal Ladies' Benevolent and Protestant Orphans' Society, a different body from the Junior League), and the McCord Museum's "carries on its mission" phrasing is read as a loose, thematic mission-continuity claim rather than a literal successor-organization claim. This is an editorial reading, not new evidence, and remains open to revision (see Revision History).
 
+**And in 1977 the two camps exchanged trainees.** Kanawana's director's report for that summer, describing its counsellor-in-training programme, lists among the eight weeks' contents a "**C.I.T. exchange with the YWCA's Camp Oolahwan and the Lac Marois Association**."^36 That is thirty-one years after the last dated 1940s visit and it is a different kind of contact: not a camp hosting another camp's outing for a day but the two camps placing their trainee staff with each other. Thirteen Kanawana C.I.T.s were in the cohort. [f_5821]
+
+Three things follow for this article. It puts **Oolahwan in operation in 1977 with a leadership programme of its own to exchange into**, which sits with Marjorie Booth running the camp until late 1979 and adds a year inside the 1948-1979 blank at Open Question 8. It is the **latest documented direct programme contact between the two camps** anywhere in this project. And it is the only evidence here that the traffic ran both ways by arrangement rather than by invitation, which is what "exchange" means and is worth marking as the word the source uses rather than a characterisation added afterwards. What Oolahwan's own trainees did at Kanawana, and whether the arrangement continued past 1977, is not recorded on the Kanawana side; the Library and Archives Canada series named at Open Question 3, "Camp Oolahwan committee minutes, reports and training programmes, 1916-1974," ends three years too early to settle it.
+
 Programming overlap is also now documented: a 1970s photograph from Camp Oolahwan itself (reproduced in McMorris's thesis) shows girls in "Indian" costumes -- direct evidence Oolahwan practiced its own "playing Indian" tradition, paralleling Kanawana's, answering Open Question #7 below.^6
 
 ## Closure and Aftermath
@@ -189,6 +193,7 @@ The name "Oolahwan" may derive from the Lakota word *olówaŋ* meaning "song" or
 33. "Personality Profile: Lorne Brown (1908-1976)" — interview with May Brown, *Canadian Camping Magazine* Vol. 39 No. 3 (Winter 1988), pp. 12-18 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 164), the final issue of the run.
 34. *The Lookout* Vol. 1 No. 3 (Kanawana Alumni Committee, autumn 1993), obituary of Maureen McBride [src_ia_the_lookout_1993]. A Kanawana newsletter, so this is a YWCA camp named in passing in a YMCA camp's paper — which is why no amount of searching the YWCA's own record would have turned it up. See [f_5009] and [[people/maureen-mcbride|Maureen McBride]].
 35. Two 1928 newspaper clippings, "Girls Make Films: YWCA Camp Oolahwan Will Be Open to Sunday Visitors" and "Life-Saving Tests in the Laurentians," pasted into the photograph album of **Elizabeth Pitt Barron** (1904-1997) of the Margaret Eaton School, Toronto [src_ia_margaret_eaton_album_168_1928]. Internet Archive item `MargaretEatonSchool_redeemer_168`. **Neither clipping names its newspaper or its date**; 1928 is the archive's dating of the folder, and both are almost certainly Montreal papers. Found 2026-09-07 by an Internet Archive enumeration on "oolahwan," which returns exactly one item this project did not already hold. See [f_5240] and [f_5241].
+36. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977], its COUNSELLOR-IN-TRAINING PROGRAM section. Cached at `sources/cache/ymca-montreal-fonds/1977-kamp-kanawana-directors-report.txt`; read 2026-09-08 under `p_441`. A Kanawana document, so this is the Kanawana side of the exchange only. See [f_5821].
 
 ## Research Notes
 

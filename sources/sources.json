@@ -10436,11 +10436,11 @@
       "char_count": 20874,
       "ingested_at": "2026-08-14T00:00:00Z",
       "extracted": true,
-      "extraction_version": "v5.20",
+      "extraction_version": "v11.79",
       "reliability": "primary",
       "notes": "Titled \"CAMP DIRECTOR'S REPORT 1977\"; signed \"Derek V. Walsh, Director of Camping.\" Records the Camp Director as President of the Quebec Camping Association.",
-      "read_state": "partial",
-      "read_state_basis": "2026-09-08 under p_441. Its PROGRAM and Hike & Trip statistics gave f_5804 and f_5805; its STAFF COMMITTEE and MONTREAL OFFICE sections gave f_5817 (the two-site plan's numbers and siting beyond Farewell Rock, the Branch Building Committee, Olga Hall, and a twelve-member staff planning committee working from December). WORKED AGAINST THE DOCUMENT'S OWN HEADING LIST, printed by scripts/reread/skimmed_triage.py. STILL UNREAD, by heading: STAFF and the 1977 staff roster (~90 names, publishable as a roster under the r_0001/r_0005 standard but not yet checked against multi-year-index.md), STAFF TRAINING, COUNSELLOR-IN-TRAINING PROGRAM, HEALTH & SAFETY, FOOD SERVICES, MAINTENANCE, PROMOTION, SPECIFIC RECOMMENDATIONS, CONCLUSION, APPRECIATION."
+      "read_state": "extracted",
+      "read_state_basis": "2026-09-08 under p_441: READ END TO END against the document's own heading list, printed by scripts/reread/skimmed_triage.py. Every section is now taken. KAMPERS, PROGRAM, Hike & Trip statistics, STAFF COMMITTEE and MONTREAL OFFICE were done earlier the same day (f_5804, f_5805, f_5817) and the attendance figures earlier still under p_499. This pass took STAFF and the full staff list (f_5818, f_5819), STAFF TRAINING (f_5820), COUNSELLOR-IN-TRAINING PROGRAM (f_5821), HEALTH & SAFETY (f_5822), FOOD SERVICES (f_5823), MAINTENANCE (f_5824), PROMOTION and its survey table (f_5825), the 1978 construction section (f_5826) and SPECIFIC RECOMMENDATIONS (f_5827). APPRECIATION and the closing poem were NOT unread: they had been taken on 2026-09-07 under p_492 (f_5648, f_5649), and this record's previous basis listed them as unread anyway -- see f_5828 on how that happened and the cheap check that prevents it. The staff list is printed in two columns the scan breaks into four runs; the name-to-title pairing is reconstructed by position and verified at twelve internal anchors. 67 names, not the '~90' the previous basis estimated by eye. Nothing in the document remains unmined."
     },
     {
       "source_id": "src_ia_kanawana_report_1978",

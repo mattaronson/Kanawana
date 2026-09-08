@@ -1,7 +1,7 @@
 # Camp Songs, Cheers, and Musical Traditions
 
-*Status: E1-reviewed | Sources: 31*
-*Last Updated: 2026-09-08 ("God's Back Yard", the poem closing the 1979 report)*
+*Status: E1-reviewed | Sources: 32*
+*Last Updated: 2026-09-08 (Itche Kerr in a contemporaneous document at last, as C.I.T. Director in 1977)*
 
 ## Overview
 
@@ -18,6 +18,8 @@ The official camp song, **"On My Way to Kanawana,"** was composed and performed 
 > "My invitation to this year's closing banquet was written at **summer's end 1977**. I wrote it myself late one night with some help from **three friends**. What we wrote was as spontaneous as love itself. One moment there was nothing the next, a song which payed tribute to friends, a place, an experience we loved. I had forgotten all about the song. Something as ethereal as a song at a summer camp should have easily vanished into the mists of time. Somehow, **the next summer it was remembered and it has been sung every summer since**. Much like the names on the ancient plaques that haunt the dining hall; my Kamp nickname has always accompanied any introduction to the song as the mysterious author of long ago."^19
 
 So: written in one night at the end of summer **1977**, by Kerr with three unnamed collaborators; revived in **1978** and sung annually thereafter. Kerr was on the Kanawana staff in 1975 (filling in as a counsellor for a week), 1976 (taking over the CIT program mid-summer) and 1977 (CIT Director), and returned to run a song workshop at pre-camp in 1992.^19 **Note what this account does not support:** no contemporaneous 1977 or 1978 document naming Kerr as composer has been found. His own 1993 retrospective is the sole source, and it is a memoir written sixteen years after the fact — reliable on authorship, less so on detail.
+
+**One half of that memoir is now corroborated by a contemporaneous document.** The camp's own director's report for 1977 lists Richard "(Itche)" Kerr on the staff with the title **Counsellor-in-Training Director**, and devotes a paragraph to him: "Under its Director, Itche Kerr, the group of 13 C.I.T.s were exposed to on-the-job training in virtually every area of Kamp... The success of the program was due to Itche for the commendable way he ran it."^32 So the man was where his 1993 account says he was, in the job it says he held, in the summer it says the song was written. [f_5821] That does not make him the composer — the report says nothing about a song, and the banquet he describes falls at the end of the same season the report is summing up — but it moves him from a name traceable only through a Concordia catalogue entry and a Pip Award list, as Open Question 9 below still records, to a person documented in the camp's own paperwork at the time. The composition itself still rests on his word alone.
 
 The song held particular significance in camp culture. In 1967, a busload of Kanawana campers singing the camp song greeted the CCA Centenary Journey paddlers upon their arrival in Ottawa.^13 No lyrics, sheet music, or digital copy of the recording have been found in any online source. The Concordia Archives CD is the sole known copy. Its exact box number is now confirmed: Concordia's static finding-aid page for sub-sub-series 12B04 gives the catalog entry "On My Way to Kanawana. Song composed and performed by Richard Itch Kerr. CD. 4'30. - nd." at **Box HA2559**; the item is undated ("nd") in the finding aid itself.^16
 
@@ -508,6 +510,7 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 29. *The Green Triangle*, **13 August 1936** (the "Marois Issue"), **1** and **29 July 1939**, **4** and **22 August 1940** [src_ymf_the_green_triangle_1936_08_13, src_ymf_the_green_triangle_1939_07_01, src_ymf_the_green_triangle_1939_07_29, src_ymf_the_green_triangle_1940_08_04, src_ymf_the_green_triangle_1940_08_22]. Cached under `sources/cache/ymca-montreal-fonds/`; read word for word 2026-09-07 under p_482. With these the whole digitized 1932–1982 run has been read.
 30. *Camp Otoreke songbook*, 1941 [src_ymf_1941_camp_otoreke_songs]. Concordia-digitized YMCA of Montreal fonds; cached at `sources/cache/ymca-montreal-fonds/1941-camp-otoreke-songs.txt`, 64,053 characters. Held since 2026-08-25 at basis "asserted: keyword-swept, not read closely" on a record marked *extracted*; read word for word 2026-09-07 under p_487, and the repertoire enumerated. See [f_5004] and [f_5602].
 31. *Kamp Kanawana Director's Report 1979* [src_ia_kanawana_report_1979], its closing page. Read 2026-09-08 under p_441. See [f_5799].
+32. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977], its staff list and COUNSELLOR-IN-TRAINING PROGRAM section. Cached at `sources/cache/ymca-montreal-fonds/1977-kamp-kanawana-directors-report.txt`; read 2026-09-08 under `p_441`. See [f_5821] and [f_5818].
 
 ## Research Notes
 

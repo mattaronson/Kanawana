@@ -1,7 +1,7 @@
 # The Green Triangle
 
-*Status: draft | Sources: 18*
-*Last Updated: 2026-09-08 (four issues in 1975, from the camp's own promotion report)*
+*Status: draft | Sources: 19*
+*Last Updated: 2026-09-08 (six issues between the 1976 and 1977 seasons, closing the 1977 gap)*
 
 ## Overview
 
@@ -171,6 +171,24 @@ Separately from the newsletter, "the Green Triangle" was also a coveted camper a
 Beyond the publication and the award, "Green Triangle" functioned more broadly as a symbolic identity marker for the camp. It appears in the coda of the Kanawana marching cheer as performed in the 2000s ("What's the matter with the Green Triangle?"), and the camp historian [[people/matt-aronson|Matt Aronson]] has theorized — without yet elaborating publicly — that the Kanawana Marching Song itself arrived via "the tradition of Green Triangle."^9
 
 
+## Six issues between the 1976 and 1977 seasons, and the gap that closes
+
+The 1977 director's report, listing that year's promotion, says: "**Six issues of the Green Triangle were
+sent to all '76 Kanawantans**."^19 Read beside the 1975 report's "four issues" of a paper it calls
+bi-monthly, that is a second year with a hard count, and a higher one. [f_5825]
+
+It also closes a hole this article records above. The publication history here has the paper "revived under
+the names *Ka-News* and *Green Triangle* in 1976 and again from 1978 to 1982", with the two surviving revived
+issues dated September 1976 and November 1982 — a shape that leaves **1977 looking like a year the paper did
+not run**. It ran, six times, and the mailing list says what it was for: every camper of the previous summer,
+which is a recruitment circular for the coming one. That fits what the paper is shown to be further down this
+page — a director's circular sent out of season to whichever constituency a given mailing needed — and it
+makes 1976 to 1982 continuous rather than two revivals with a year between them.
+
+Two things it does not settle. None of the six is among the 38 digitized issues, so the count is the camp's
+own accounting and not a survival. And "six issues" does not say whether any of them carried the *Ka-News*
+title instead; the 1977 report names only the one paper, where the 1978 bulletin uses both.
+
 ## Who the Revived Green Triangle Was For (1978)
 
 The 1978–1982 revival recorded above has a witness from outside the run itself, and it changes the readership. Derek Walsh's staff bulletin of **28 April 1978** — an issue of *Ka-News*, the other revived title — signs off: "That's all for now gang… **A Green Triangle will follow next week**."^10 The Green Triangle promised there was going to the camp's **staff**, in the pre-season, in April, alternating with *Ka-News* as a staff mailing. This article describes the Green Triangle throughout as the campers' newsletter, which the 1932–1940 run plainly was. The revived paper of 1976–1982 was, at least in this instance, something else: the two titles appear to have been used in rotation for pre-season staff communication, not resumed as a summer paper for boys.
@@ -319,6 +337,7 @@ directing the Senior Section from an armchair on the Lookout veranda in the issu
 16. *The Green Triangle*, **17 August 1935**, **30 March 1937** (the Spring Issue), **22 July 1939** and **27 June 1940** [src_ymf_the_green_triangle_1935_08_17, src_ymf_the_green_triangle_1937_03_30, src_ymf_the_green_triangle_1939_07_22, src_ymf_the_green_triangle_1940_06_27]. Cached under `sources/cache/ymca-montreal-fonds/`. **These are the four the p_482 read missed**; read word for word 2026-09-07. See [f_5591] for why they were missed, and [f_5592] through [f_5599] for what they held.
 17. YMCA of Montreal annual report for **1938**, the staff-changes and fellowships section [src_ymf_sgw_ymca_annual_report_1938]. Held at read_state *partial* — its camps section had been read and its staff section had not; read 2026-09-07. See [f_5620].
 18. *Kamp Kanawana Director's Report 1975* [src_ia_kanawana_report_1975], its PROMOTION section. Read 2026-09-08 under p_441. See [f_5815].
+19. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977], its PROMOTION section. Cached at `sources/cache/ymca-montreal-fonds/1977-kamp-kanawana-directors-report.txt`; read 2026-09-08 under p_441, working the document's own heading list. See [f_5825].
 
 ## Research Notes
 

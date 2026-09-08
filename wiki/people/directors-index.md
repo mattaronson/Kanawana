@@ -1,7 +1,7 @@
 # Directors and Staff of Camp Kanawana
 
 *Status: E1-reviewed | Sources: 66*
-*Last Updated: 2026-09-08 (Porteous's Montreal service dated at both ends, under p_490)*
+*Last Updated: 2026-09-08 (the whole 1977 establishment, 67 names against 67 jobs)*
 
 ## Overview
 
@@ -472,6 +472,86 @@ These were lay chairmen, not paid camp directors, and the same two reports' staf
 
 *Two cautions travel with him.* The entry does not say what "Ass't" abbreviates — Assistant Secretary is the likeliest of several — how long he stayed, or whether he directed anything at the camp; it is a national list of moves, not a Montreal roster. And **the surname is a trap**: "Halliday" occurs fifty-one times in this project's knowledge base as **Ferna Halliday** of the Ontario girls'-camping world, who appears alongside Ethel Statten, with a Graham Halliday as a third. Nothing connects the three and no relationship should be read into the name.
 
+### The 1977 Season: the whole establishment, 67 names against 67 jobs
+
+The 1977 director's report prints its staff list in two columns, names on the left and titles on the right.^33 The scan breaks that layout into four runs — 35 names, then 35 titles, then 32 names, then 32 titles — so the pairing has to be rebuilt by position. It rebuilds exactly, and the report's own prose anchors it at twelve points: the food services section names Jean-Claude Deglaire as chef, the staff section names Kerry Finucan as assistant director, the office section names Olga Hall as camp secretary, the C.I.T. section names Itche Kerr as its director, health and safety names Sharon Levine and Don Smith as the doctors and Melanie Moynan as the nurse, the programme section thanks Don Southern, Al Vaughan and Stewart Sandmark for hike and trip, the waterfront and arts and crafts, and the maintenance section is written around Julien Tasse. Every one of those twelve falls at the position the reconstruction puts it. [f_5818]
+
+| Name | Title |
+|---|---|
+| Cynthia Aboud | Senior Girls Rover-Counsellor |
+| Susan Ambrose | Junior Girls Rover-Counsellor |
+| Brian Arbuthnot | Senior Boys Section Director |
+| Joanne Armstrong | Waterfront Auxiliary |
+| Susan Armstrong | Junior Girls Rover-Counsellor |
+| Michael Arscott | Senior Boys Counsellor |
+| Steve Bauman | Junior Waterfront Director |
+| Chris Bishop | Senior Boys Counsellor |
+| Claude Boucher | Senior Girls Counsellor |
+| Ian Chester | Senior Boys Counsellor |
+| Christiane Corbin | Kitchen |
+| Kelly Curtiss | Business Office Assistant |
+| Susan Davis | Junior Girls Counsellor |
+| Susan Dean | Senior Girls Counsellor |
+| Jean-Claude Deglaire | **Chef** |
+| Trudy Duivenvoorden | Junior Girls Section Director |
+| Patricia Evans | Junior Girls Counsellor |
+| Kerry Finucan | **Assistant Kamp Director** |
+| Bill Flaschner | Senior Boys Counsellor |
+| Kevin Forster | Junior Boys Section Director |
+| Geoffrey Fox | Business Office Manager |
+| Richard Fray | Junior Boys Counsellor |
+| Cathy Fryer | Senior Girls Section Director |
+| Nancy Fulford | Senior Girls Tripper-Counsellor |
+| Ross Gill | Kitchen |
+| Julie Greenwood | Kitchen |
+| David Grimala | Senior Boys Counsellor |
+| Olga Hall | **Camp Secretary** |
+| David Hart | Junior Boys Counsellor |
+| John Hergel | Junior Boys Counsellor |
+| Richard ("Itche") Kerr | **Counsellor-in-Training Director** |
+| Amy Kuntz | Kitchen |
+| Jacques Labelle | Maintenance |
+| Terry Lamb | Hike & Trip Auxiliary and Counsellor |
+| Michel Lane | Truck Driver |
+| Tony Latimer | Junior Boys Rover-Counsellor |
+| Burke Lawrence | Tripper |
+| John Lawrence | Senior Boys Counsellor and Hike & Trip Auxiliary |
+| Geneviève L'Espérance | Junior Girls Rover-Counsellor |
+| Sharon Levine | **Doctor** (Section Director 1973) |
+| Adele ("Misty") McKay | Junior Girls Counsellor |
+| Alison Marshall | Senior Girls Counsellor |
+| Beverley Membride | Junior Girls Counsellor |
+| Melanie Moynan | **Nurse** |
+| David O'Donnell | **Canoeing Director** |
+| David Paittel | Junior Boys Counsellor |
+| Bill Perras | Maintenance |
+| Wendy Prince | Junior Girls Counsellor |
+| Peter Reizes | Senior Boys Tripping-Counsellor |
+| Jeff Roberts | **Les Voyageurs Director** |
+| Eric Sandmark | Arts & Crafts Assistant |
+| Peter Sandmark | Junior Boys Counsellor |
+| Stewart Sandmark | **Arts & Crafts Director** |
+| John Savage | Kitchen |
+| Nancy ("Chad") Sawyer | Assistant Hike & Trip Director |
+| Kate Schissler | Nurse's Assistant |
+| John Siverson | Maintenance |
+| Don Smith | **Doctor** |
+| Donald Southern | **Hike & Trip Director** |
+| Julien Tasse | **Maintenance Supervisor** |
+| Yves Tasse | Maintenance |
+| Lisa Taylor | Senior Girls Counsellor |
+| Rod Taylor | Junior Boys Counsellor |
+| David Townson | Senior Boys Rover-Counsellor |
+| David Vaillancourt | Kitchen |
+| Al Vaughan | **Senior Waterfront Director** |
+| Robert Woodhouse | Les Voyageurs Tripper |
+
+*Two cautions on the transcription.* Seven names carry obvious scan damage and are repaired here: Curlitss/Curtiss, Dulvenvoorden/Duivenvoorden, "Miche]!"/Michel, Relzes/Reizes, Palttel/Paittel, "O'Donnel |"/O'Donnell, Jullen/Julien. And **Nancy Sawyer's title is the one word the scan destroys outright** — it reads "Assistant Hike & Trip PiTSeTer"; "Director" is read from the pattern of the other assistant titles and is a reconstruction, not a reading.
+
+**What the list settles.** It gives **Richard "Itche" Kerr** a camp year and a job, where the Pip Award table below has had him at "unknown" since this article was written: he ran the C.I.T. programme in 1977, and ran it well enough for the director to say so twice. It puts **Kerry Finucan** in the assistant directorship a year earlier than [[history/between-centennials|Between Centennials]] had him, which dated it from the 1978 report. It shows the maintenance crew as five men under Julien Tasse, **two of them Tasses**. And it overlaps the 1980 *Ka-News* snapshot below at seven people — Sawyer, the two Tasses, Forster, O'Donnell, Woodhouse and Sue Armstrong — with **Nancy "Chad" Sawyer moving from assistant hike-and-trip director in 1977 to assistant camp director by 1980**.
+
+The report also measures the group it lists: "the average age of program staff was **20.7 years** with **66% of these being former Kanawantans**", and two staff were dismissed during the season for behavioural reasons, neither named. [f_5819] That staff returnee figure sits beside the camper one for the same summer, 54.83%, the highest in the twenty-year series at [[meta/attendance-series|the attendance series]]: in the season its director called the best in five years, two-thirds of the people running the camp had been campers there.
+
 ### The 1980 Season
 
 The May 1980 issue of *Ka-News* provides the most complete modern staff snapshot. Under director "Dave," the staff included Nancy Sawyer (Assistant Director), Julian and Yves (maintenance), Chris Adams of Vanier (nature program), Dave O'Donnell (Master Canoeist), Kevin Forster (who later became Director of Camp Glenburn, New Brunswick), Dave Bennett, Dave Scammell, Bob Woodhouse, Sue Armstrong, Jeff Surette, Johanna, Doug Peets, Rosemary, Lynn Pryer, Steve Wells, Kitti Luce, and Lisa Crocker.^6
@@ -482,7 +562,7 @@ The "Pip" Alumni Award, named after Philip "Pip" Caddell (1913-2004, camper 1928
 
 | Name | Camp Years | Achievement | "Pip" Award |
 |------|-----------|-------------|-------------|
-| Richard "Itche" Kerr | unknown | Volunteer working with the physically challenged | 2007 |
+| Richard "Itche" Kerr | **Counsellor-in-Training Director, 1977**^33 (earlier years unknown) | Volunteer working with the physically challenged | 2007 |
 | Richard Patten | 1960s (day camps) | Ontario MPP, YMCA Executive Director Montreal 1976-79^16 | 2008 |
 | Stuart McLean | 1969-1975 | Author, CBC radio host (*Vinyl Cafe*) | 2009 |
 | [[people/bruce-netherwood\|Bruce Netherwood]] | late 1980s-1990s | VP Camping Services, South Shore YMCA; YMCA leader and author | 2011 |

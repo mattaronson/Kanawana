@@ -1,7 +1,7 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 77*
-*Last Updated: 2026-09-08 (the two-site plan's numbers and place; a baseball field authorised in 1916)*
+*Status: E1-reviewed | Sources: 78*
+*Last Updated: 2026-09-08 (the 1978 build in progress, and what the caretaker's crew put up in 1977)*
 
 ## Overview
 
@@ -564,6 +564,32 @@ house 98 juniors.**"^77 Two sites of ninety-eight each, juniors separated from s
 **year-round** — sited beyond **Farewell Rock**, a landmark already on the camp's 1928 map
 ([[site/places-and-locations|Places and Locations]] has it). [f_5817]
 
+**And work was already under way, priced, and staffed for.** The same report's 1978 section lists what was
+being done that autumn: renovation of the **block house and farm house**; **enclosing and renovating the
+dining hall**; relocating tent platforms on both the new and old sites; and a **new shower building in the
+senior section**, with more buildings to be "relocated or demolished" over the winter. What it was to produce
+by June 1978: "**four double self-contained living units, six tent platforms and a large multi-purpose
+dining-recreation hall**", at a cost of "approximately **$850,000**", for which "we have hired **three
+additional fulltime maintenance people**."^78 The detail worth keeping is the dining hall. Enclosing an
+open-sided summer building is the one physical change a year-round camp actually requires, and it is listed as
+work in hand rather than proposed. The design had been shopped for as well: "during the summer, a group of us
+visited **three YMCA year round camps in the U.S.**", learning "from an architectural, engineering and program
+standpoint." [f_5826]
+
+**What the caretaker's crew built that summer.** Over and above regular repairs, the 1977 maintenance section
+lists: **replacing the camp sign**; **erecting a new gate**; painting the caretaker's house; staining and
+painting the Lodge and the Business Office building; **repairing and repainting the 16 rowboats**; a new
+septic tank for the Business Office; and replacing or repairing doors, balconies and cabins. The signs were
+made in-house: "a special thanks to our Arts & Crafts Director, **Stewart Sandmark** who made the new signs
+for Kamp Kanawana **and the Outing Club**."^78 [f_5824] Three things come out of that list. **Sixteen** is a
+hard count of a boat fleet this wiki otherwise describes almost entirely in canoes, and the same report
+proposes replacing all canoes and rowboats with aluminium over five to ten years. The camp sign and gate that
+stood through the late 1970s and 1980s went up in **1977**, lettered by the arts and crafts director rather
+than bought. And the **[[traditions/programs-activities|Kanawana Outing Club]] had a sign of its own on the
+site**, made at the same time — the club appears in the same report's promotion survey as one of the ways new
+campers heard of the camp, at 2%. The crew under Julien Tasse, per the report's staff list, was five men, two
+of them Tasses.
+
 **The reconstruction was announced, then did not start, and the staff were told so.** The 1977 director's report opens with bulldozers arriving for an $850,000 two-site reconstruction and the line "this is the last year of K.K. as we've known it." Nine months later the camp's own staff newsletter reports the opposite: "At this point, we have not started construction of the new site. **So here we go again with another 'last' summer.**"^59 The "again" is the useful word. It says the staff had been told more than once that a given season would be the last on the present site, which puts the 1977 announcement in a sequence rather than at the head of one, and it dates the stall to **1 December 1977**. Nothing in the newsletter says what the new site was to be, and it should not be assumed to be the Weredale arrangement above; the two are contemporaneous and the newsletter does not join them.
 
 
@@ -793,6 +819,7 @@ line on another's is the shape of the decision as it appears in the ledger. See
 75. YMCA of Montreal annual reports for **1925**, **1926**, **1927**, **1928**, **1949**, **1951**, **1956** and **1958** [src_ymf_sgw_ymca_annual_report_1925, src_ymf_sgw_ymca_annual_report_1926, src_ymf_sgw_ymca_annual_report_1927, src_ymf_sgw_ymca_annual_report_1928, src_ymf_sgw_ymca_annual_report_1949, src_ymf_sgw_ymca_annual_report_1951, src_ymf_sgw_ymca_annual_report_1956, src_ymf_sgw_ymca_annual_report_1958], their asset schedules of land, buildings and furnishings by unit. Cached under `sources/cache/ymca-montreal-fonds/`; swept 2026-09-07 under `p_259`, the seam the annual-report pass identified and did not attempt. See [f_5712].
 76. YMCA of Montreal, **sixty-sixth annual report, year ending 30 April 1917** [src_ymf_sgw_ymca_annual_report_1917], the Boys' Camp paragraph. Read 2026-09-08 under p_441. See [f_5790].
 77. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977], its Montreal Office section. Read 2026-09-08 under p_441. See [f_5817].
+78. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977], its MAINTENANCE section and its 1978 construction section. The same document as 77, read against its own heading list 2026-09-08 under p_441 in a later pass that took the sections the first one left. See [f_5824] and [f_5826].
 
 ## Research Notes
 

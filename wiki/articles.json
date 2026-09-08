@@ -1306,7 +1306,8 @@
         "src_kk_prep_guide_2026_fr",
         "src_ia_kanawana_report_1979",
         "src_ia_kanawana_report_1975",
-        "src_ia_kanawana_report_1987"
+        "src_ia_kanawana_report_1987",
+        "src_ia_kanawana_report_1977"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -1321,7 +1322,7 @@
         "french-language-camping"
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-      "word_count": 17916,
+      "word_count": 18686,
       "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, renamed the orphaned 'R3 Verification Notes' H2 to the standard 'Research Notes' heading and condensed its bullet list into a single HTML-comment process-log entry. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -1940,7 +1941,7 @@
         "geoffrey-guiton"
       ],
       "file_id": null,
-      "word_count": 30018,
+      "word_count": 30997,
       "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article. | 2026-07-11: Added wiki-links to Gary White, David Leduc, Kate Taylor, Marie-Pierre Lacasse table rows and Related Articles, pointing to new standalone institutional-role-director articles. | 2026-07-11: Added wiki-links to Greig Macdiarmid, Francois Dauphin, Nicolas Garcia, Morgan Carter, Arleen Boyer, Justin Caldwell (Two-Tier Era + Staff by Era tables) and Matt/Dan Aronson (Related Articles), per the operator's revised C5 policy.",
       "tags": {
         "era": [
@@ -3737,7 +3738,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 13498,
+      "word_count": 13933,
       "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral. 2026-06-20: Added Indigenous territory context (f_1315) and Mille-Isles regional history (f_1314). 2026-06-21: Added 1976 Lovell's directory listing (f_1331) and 2023 superintendent's house fire (f_1333). | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph about the Weredale lease into a new Research Notes > Revision History section (this article previously had no Research Notes section at all). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -4923,7 +4924,8 @@
         "src_ymf_the_green_triangle_1940_08_04",
         "src_ymf_the_green_triangle_1940_08_22",
         "src_ymf_1941_camp_otoreke_songs",
-        "src_ia_kanawana_report_1979"
+        "src_ia_kanawana_report_1979",
+        "src_ia_kanawana_report_1977"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -4936,7 +4938,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 8635,
+      "word_count": 8847,
       "notes": "R1 RALPH completed 2026-02-27. 14 new KB facts. 23 KB facts total. 15 sources. Key findings: Marching Song traced to Alabama Jubilee (1915), lost verses found at Concordia 2006; full 1922 Yo Triumphy cheer; 1923 Gas Bag original songs; 1935 musicale; 1938 choir by Leshley; Kerr song on CD P145/SR0001 (4:30). Blocked on: oral history for section cheers/Grace/campfire repertoire; Concordia archives for song books 1925-1945. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the 'Correction (2026-07-09)' paragraph into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -6235,7 +6237,8 @@
         "src_ia_the_lookout_1993",
         "src_cache_canadiancampingmagazine_vol18no1_1965dec",
         "src_cache_canadiancampingmagazine_vol19no1_1966dec",
-        "src_ia_margaret_eaton_album_168_1928"
+        "src_ia_margaret_eaton_album_168_1928",
+        "src_ia_kanawana_report_1977"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -6247,7 +6250,7 @@
         "maureen-mcbride"
       ],
       "file_id": null,
-      "word_count": 7418,
+      "word_count": 7687,
       "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header, moved the c_018 and c_002 editorial-resolution narratives out of prose into a new visible Revision History section, trimmed the header's dated parenthetical. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -7755,7 +7758,7 @@
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 8209,
+      "word_count": 8709,
       "tags": {
         "era": [
           "1960s",
@@ -9623,7 +9626,8 @@
         "src_ymf_the_green_triangle_1939_07_22",
         "src_ymf_the_green_triangle_1940_06_27",
         "src_ymf_sgw_ymca_annual_report_1938",
-        "src_ia_kanawana_report_1975"
+        "src_ia_kanawana_report_1975",
+        "src_ia_kanawana_report_1977"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -9634,7 +9638,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 5483,
+      "word_count": 5761,
       "notes": "2026-07-11: Workstream C3 spawn -- newsletter/award/symbol synthesized into standalone article, cited as a source in 13+ articles but never its own subject. No new research conducted. Corrected two dangling source_id references (src_web_readers_digest_buckland -> src_readers_digest_camp_shapes_lives; src_ia_green_triangle_1938 -> src_green_triangle_1938) in kb/facts.json while preparing this article. | 2026-08-14 p_226: applied the programs/places BLOCKING fixes from the p_218 audit.",
       "tags": {
         "era": [
@@ -9740,7 +9744,7 @@
         "notable-alumni"
       ],
       "file_id": null,
-      "word_count": 5375,
+      "word_count": 5786,
       "notes": "2026-07-11: Workstream C3 spawn -- structured, decades-spanning program synthesized from 5 scattered articles into a standalone article. No new research conducted. Individual plaque-roster names deliberately not reproduced here (privacy carve-out for C5-listed names already collectively catalogued in directors-index.md). | 2026-08-14 p_226: applied the programs/places BLOCKING fixes from the p_218 audit.",
       "tags": {
         "era": [
@@ -9999,7 +10003,7 @@
         "movement-archive-turn"
       ],
       "file_id": null,
-      "word_count": 6112,
+      "word_count": 6214,
       "notes": "2026-07-11: Workstream C4 spawn (3 of 4). Connective-narrative synthesis, no new research conducted. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit. | 2026-08-14 p_225 research: deep web research resolved three long-standing questions against PRIMARY sources (YMCA of Montreal news release 1970 + annual reports 1977-79 on Internet Archive; Camp Pascobac's own history page; broadcasting-history.ca).",
       "tags": {
         "era": [
@@ -11580,7 +11584,8 @@
         "src_ia_kanawana_report_1973",
         "src_ia_kanawana_report_1974",
         "src_ia_kanawana_report_1975",
-        "src_ymf_1965_the_chestnut"
+        "src_ymf_1965_the_chestnut",
+        "src_ia_kanawana_report_1977"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -11590,7 +11595,7 @@
         "people/directors-index"
       ],
       "file_id": null,
-      "word_count": 1746,
+      "word_count": 2040,
       "reader_facing": true
     },
     {
@@ -11705,7 +11710,7 @@
         "quebec-camping-association"
       ],
       "file_id": null,
-      "word_count": 4829
+      "word_count": 5254
     },
     {
       "article_id": "oldest-camp-question",
