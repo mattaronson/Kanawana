@@ -25000,8 +25000,8 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "read_state": "extracted",
-      "read_state_basis": "confirmed 2026-09-06 under p_451: this cached file and the pathless record src_ia_kanawana_place_to_grow_1988 are the same document, proved by matching a phrase QUOTED IN A FACT that cites src_ia_kanawana_place_to_grow_1988 against this file's text (\"1968 Kamp Kanawana admits female campers for the...\"). The file was read; the 'unread' came from its auto-cataloguing on 2026-09-02 as an orphan cache file, not from anyone opening it and finding nothing. The duplicate pair itself is p_442's to resolve.",
+      "read_state": "partial",
+      "read_state_basis": "confirmed 2026-09-06 under p_451: this cached file and the pathless record src_ia_kanawana_place_to_grow_1988 are the same document, proved by matching a phrase QUOTED IN A FACT that cites src_ia_kanawana_place_to_grow_1988 against this file's text (\"1968 Kamp Kanawana admits female campers for the...\"). The file was read; the 'unread' came from its auto-cataloguing on 2026-09-02 as an orphan cache file, not from anyone opening it and finding nothing. The duplicate pair itself is p_442's to resolve. || RE-READ 2026-09-08 under p_441 for its SITE and FACILITIES sections (f_5808: the camp's own account of Saint-Sauveur's development closing in on it -- 1,000 condominium units in 1987, 130 restaurants, strangers walking into camp, two overnight sites lost to the Lac Racquette development, Camp Tamarcouta reporting the same). Its programme listing, mission and philosophy pages, and its Kanawana Task Force material are a named residue.",
       "notes": "Text was already OCR'd and on disk in ymca-montreal-fonds; no record pointed at it, so nothing downstream could see it. Catalogued by scripts/reread/catalog_orphans.py for the p_304 re-read."
     },
     {

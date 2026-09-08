@@ -7206,7 +7206,8 @@
         "src_ymf_sgw_ymca_community_report_2012",
         "src_ymf_sgw_ymca_annual_report_2009_fr",
         "src_ymf_sgw_ymca_annual_report_2008",
-        "src_ymf_sgw_ymca_annual_report_2008_fr"
+        "src_ymf_sgw_ymca_annual_report_2008_fr",
+        "src_cache_1988_kanawana_a_place_to_grow_report"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -7223,7 +7224,7 @@
         "acid-rain"
       ],
       "file_id": null,
-      "word_count": 8151,
+      "word_count": 8534,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical; fixed a genuine citation-numbering bug where the Sources list had two entries each numbered '17.' and '22.' (disambiguated as 17b./22b., three inline markers corrected to point at the right one). No facts, source content, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

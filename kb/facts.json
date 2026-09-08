@@ -1,8 +1,8 @@
 {
-  "version": "11.70",
-  "kb_version": "11.70",
+  "version": "11.71",
+  "kb_version": "11.71",
   "migrated_from": "3.3",
-  "fact_count": 5769,
+  "fact_count": 5770,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -104167,6 +104167,25 @@
       "date_ref": "1975",
       "conflicts_with": [],
       "added_version": "11.70",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5808",
+      "claim": "THE CAMP SAID IN 1988 THAT ITS PROBLEM WAS BEING TOO CLOSE TO MONTREAL, AND COUNTED WHAT IT HAD ALREADY LOST. The 1988 report 'Kanawana... A Place to Grow', under SITE: 'When first opened on its present site, Kanawana was A 1/2 DAY JOURNEY AWAY FROM MONTREAL BY TRAIN AND WAGON. IT CAN NOW BE REACHED BY CAR IN 45 MINUTES. This is advantageous in cutting transportation costs and in attracting off season clients, but is threatening in a manner that was not foreseen even five years ago: IT IS TOO CLOSE TO MONTREAL. St. Sauveur has become A MECCA FOR DEVELOPERS with OVER 1,000 CONDOMINIUM UNITS CONSTRUCTED IN 1987 ALONE. What was once a rural village now has OVER 130 RESTAURANTS. St. Sauveur has become a suburb of Montreal.' THEN IT LISTS THE CONSEQUENCES, WHICH ARE OPERATIONAL AND SPECIFIC: 'a sharp increase in STRANGERS WHO STROLL OR DRIVE INTO KAMP. With a programme that has 200 children this is very worrisome for a staff that are entrusted with their safe keeping. ACTS OF VANDALISM HAVE INCREASED IN THE OFF SEASON when the site is not in use. Development of LAC RACQUETTE, the northern neighbor of Kanawana, has meant that discussion and instruction have either become accompanied by THE LOW RUMBLE OF HEAVY TRUCKS OR PUNCTUATED BY CHAIN SAWS. TRAILS LEADING TO THE LAKE WILL HAVE TO BE BLOCKED, and 2 OVERNIGHT CAMPING SITES HAVE BEEN LOST. Overnight sites on Kanawana's property have become more of a headache for the tripping programme. Frequently, camp groups discover that THE SITE THEY WERE ASSIGNED HAS BEEN OCCUPIED BY A GROUP OF STRANGERS. CAMP TAMARCOUTA [connected to the southern end of Lac Wilson] is facing the same difficulties with overnight sites, vandalism, and unwanted visitors. The site, in all its splendor, remains a powerful drawing card... The problem is trying to KEEP THE ENCROACHING CITY OUT.' AND ON THE BUILDINGS: 'The GRAVEST PROBLEM facing Kanawana is the LACK OF ADEQUATE FACILITIES. ALMOST ALL BUILDINGS ARE OLD AND NEED TO BE REPLACED.' THIS IS A DIFFERENT KIND OF ENVIRONMENTAL HISTORY FROM THE ONE THIS WIKI HOLDS. traditions/environmental-history.md is largely about what the camp did to its own ground -- the 1970 erosion crisis, composting toilets, the green shift. This is about what was done to it from outside, dated, quantified and named, with a peer camp corroborating.",
+      "sources": [
+        "src_cache_1988_kanawana_a_place_to_grow_report"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Lac Racquette",
+        "Camp Tamarcouta",
+        "Saint-Sauveur",
+        "encroachment"
+      ],
+      "date_ref": "1988",
+      "conflicts_with": [],
+      "added_version": "11.71",
       "added_by": "ralph_loop"
     }
   ]

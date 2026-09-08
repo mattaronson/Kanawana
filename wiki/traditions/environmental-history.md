@@ -1,7 +1,7 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 46*
-*Last Updated: 2026-09-08 (4% to 26% on financial assistance; the two learning pavilions became one)*
+*Status: E1-reviewed | Sources: 47*
+*Last Updated: 2026-09-08 (the encroaching city, 1988; 4% to 26% on financial assistance)*
 
 ## Overview
 
@@ -320,6 +320,37 @@ The camp's environmental awareness did not begin with the 2006 Green Shift, and 
 
 That is a camp comparing its own grounds to a downtown Montreal shopping street, in its own internal report, thirty-six years before the "green camp" branding.
 
+
+### The encroaching city, 1988
+
+Everything above concerns what the camp did to its own ground. The 1988 report *Kanawana… A Place to Grow*
+is about what was being done to it from outside, and it says so plainly:^47
+
+> "When first opened on its present site, Kanawana was **a 1/2 day journey away from Montreal by train and
+> wagon. It can now be reached by car in 45 minutes.** This is advantageous in cutting transportation costs
+> and in attracting off season clients, but is threatening in a manner that was not foreseen even five years
+> ago: **it is too close to Montreal.** St. Sauveur has become **a mecca for developers with over 1,000
+> condominium units constructed in 1987 alone**. What was once a rural village now has **over 130
+> restaurants**. St. Sauveur has become a suburb of Montreal."
+
+**The consequences it lists are operational and countable, not atmospheric.** A "sharp increase in **strangers
+who stroll or drive into kamp**," which "with a programme that has 200 children… is very worrisome for a staff
+that are entrusted with their safe keeping." Vandalism up in the off season. The development of **Lac
+Racquette**, the camp's northern neighbour, so that "discussion and instruction have either become accompanied
+by the **low rumble of heavy trucks** or punctuated by **chain saws**." Trails to the lake that "will have to
+be blocked." **Two overnight camping sites lost.** And tripping groups arriving at an assigned site to find it
+"occupied by a group of strangers."
+
+*A peer camp corroborates it.* "**Camp Tamarcouta** [connected to the southern end of Lac Wilson] is facing the
+same difficulties with overnight sites, vandalism, and unwanted visitors." The section ends: "The site, in all
+its splendor, remains a powerful drawing card in attracting summer and off season clientele. **The problem is
+trying to keep the encroaching city out.**"
+
+**And the buildings were failing at the same time.** "The **gravest problem** facing Kanawana is the **lack of
+adequate facilities**. Almost all buildings are old and need to be replaced." Read forward, that sentence is
+the beginning of the argument that ends in the green shift's construction two decades later. [f_5808]
+
+
 ### Land area: an unresolved discrepancy
 
 The camp's stated acreage varies by a factor of nearly seven across the record, and the 1989 document conceding the problem is the most useful one.^33
@@ -460,6 +491,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 44. YMCA of Montreal annual reports for **1949** and for **1952 through 1957** [src_ymf_sgw_ymca_annual_report_1949, src_ymf_sgw_ymca_annual_report_1952, src_ymf_sgw_ymca_annual_report_1953, src_ymf_sgw_ymca_annual_report_1954, src_ymf_sgw_ymca_annual_report_1955, src_ymf_sgw_ymca_annual_report_1956, src_ymf_sgw_ymca_annual_report_1957], the Kamp Kanawana descriptions. Read 2026-09-08 under p_490, in the course of testing whether the 1947-1958 director gap could be closed from these volumes. See [f_5754].
 45. **Les YMCA du Québec, rapport annuel 2007, French edition** [src_ymf_sgw_ymca_annual_report_2007_fr], the Kanawana development pages and the Foundation's list of projects funded in 2007. Read 2026-09-08 under p_487, which was working the records marked "keyword-swept, not read closely": the French editions carry material their English twins do not, and this project had read the English 2007 report for the $5 million framing and the 19% assistance figure without reaching these. See [f_5760].
 46. YMCA of Montreal annual report **2008**, English and French editions [src_ymf_sgw_ymca_annual_report_2008, src_ymf_sgw_ymca_annual_report_2008_fr], the section "Camp YMCA Kanawana: Objectives all but met"; and the YMCAs of Québec community reports for **2010**, **2011** and **2012** [src_ymf_sgw_ymca_community_report_2010, src_ymf_sgw_ymca_community_report_2011, src_ymf_sgw_ymca_community_report_2012], the Foundation page and the year-in-review timelines, with the French edition of the 2009 annual report [src_ymf_sgw_ymca_annual_report_2009_fr] read alongside. Read 2026-09-08 under p_487. See [f_5780] and [f_5781].
+47. *Kanawana… A Place to Grow* (1988) [src_cache_1988_kanawana_a_place_to_grow_report], its SITE and FACILITIES sections. Read 2026-09-08 under p_441, reached through `scripts/reread/skimmed_triage.py`. See [f_5808].
 ## Research Notes
 
 ### Revision History
