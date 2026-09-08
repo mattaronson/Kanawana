@@ -1,7 +1,7 @@
 # Montreal's Boys' Work Secretaries, 1900–1923
 
-*Status: draft | Sources: 6*
-*Last Updated: 2026-09-08 (spun out of the directors index under p_452)*
+*Status: draft | Sources: 7*
+*Last Updated: 2026-09-08 (the 1919 and 1920 staff-changes sections, under p_490)*
 
 ## Overview
 
@@ -170,6 +170,56 @@ December** to become Secretary of the Brandon association, which dates the Manit
 shows a volume later. **S. B. Cuthbert** retired on 30 April "to enter business life." And Cruickshank took
 North Branch, as above.^4
 
+## What the peace did to the department, 1919-1920
+
+**The two reports either side of the armistice are the fullest staff record this office has, and they had
+never been read.** The Montreal association's annual reports print a *Staff Changes* section branch by
+branch, and the volumes for the years ending **30 April 1919** and **30 April 1920** carry between them the
+end of one boys'-work career, the start of another, and the exact span of a third.^7
+
+**W. A. Maclaren's Montreal career ends here, and not in boys' work.** "Central—On March 31, Mr. W. A.
+MacLaren resigned as Membership Secretary, to become General Secretary of the Quebec City Association. He was
+succeeded by Mr. David M. Watson."^7 Set that beside the rest of him: a volunteer leader at the **1903**
+camp season, into Association work in **1904**, Montreal's **Boys' Work Director in 1905-06**, secretary of
+the **Fairmount** branch by 1909, and out in **March 1919** as Membership Secretary, for a general
+secretaryship of his own. **Fifteen years, of which the boys' work is one rung near the bottom** — which is
+the shape this article's other careers keep taking.
+
+**G. D. Brandon leaves the boys' department two years before he runs the camp.** The same section: "Mr. G. D.
+Brandon resigned as Physical Director of Boys' Work to become Community Secretary at Point St. Charles and
+Verdun on May 1."^7 [[people/directors-index|The directors index]] has him relieving MacKinnon at Kanawana
+for a fortnight in **August 1918**, and directing the camp in **1921**. So he was the Boys' Work physical
+director when he first took charge at camp, had moved to community work by May 1919, and **came back to
+direct the 1921 season from outside the boys' department.** *That is a fourth route into the camp's
+leadership*, beside the two American college hires, the McGill student association and the camp's own
+volunteer corps set out above.
+
+**J. G. Cruickshank's tenure was exactly two years, and both ends are now documented.** The 1919 report
+corroborates the start independently of the 1918 report that announced it — "Mr. J. G. Cruickshank, Boys'
+Secretary, joining the staff on **May 1, 1918**" — and the 1920 report gives the end: "North Branch—Mr. J. G.
+Cruickshank, resigned **April 30th** from the Boys' Secretaryship to enter business."^7 A returned soldier
+put into a branch boys' secretaryship in the last summer of the war, gone to business at the first
+opportunity after it.
+
+**And a branch boys' secretaryship was a step to running the branch.** Westmount, in the same section: "Mr.
+Cecil L. Brown became Secretary of this Branch in February of this year. Mr. E. M. Crawford, on February 24,
+became Boys' Work Secretary, **replacing Mr. C. L. Brown**."^7 The boys' secretary moved up and his
+successor took the desk he left. That is the same move [[people/w-j-holliday|Holliday]] made to Fairmount in
+1909 and Maclaren made to Quebec City in 1919, and it is worth naming because it explains why this office
+turns over as fast as the table above shows: **it was a rung, not a career.**
+
+**E. T. Armitage came the other way, from a branch into Central.** He "became Boys' Work Secretary on
+December 18, 1918" at the Railroad branch, and the following year's Central staff-changes paragraph reads
+"During the year Mr. E. T. Armitage and **Mr. Hay Finlay** joined the Boys' Department staff."^7 The two men
+arrive in one sentence; [[people/hay-finlay|Finlay]] would be Kanawana's senior section director in 1922.
+
+*What the same paragraph settles about the man above them.* "Mr. W. H. Henderson, Executive Secretary,
+resigned in September to take the Executive Secretaryship at Halifax. He was succeeded by **Major J. W.
+Beaton on November 1st**."^7 Henderson had charge of the Senior Camp in July 1918; Beaton is the John W.
+Beaton who was still Montreal's General Secretary when he died in office in 1951, so his Montreal career
+begins on a dated day — **1 November 1919** — and runs thirty-two years. See
+[[people/harold-cross|Harold C. Cross]], who acted in his place twice.
+
 ## The branch secretaries, and the camp's own contact
 
 **A North Branch boys' secretary was the camp's own contact for his branch.** The **1922 Kamp Kanawana
@@ -221,9 +271,10 @@ autumn.** Moving up and out, not down. See [[people/w-j-holliday|Captain William
 1. *YMCA Year Book and Official Rosters* [src_umedia_ymca_yearbook_series], read in the University of Minnesota Libraries' digitised run (ContentDM collection p16022coll351, Kautz Family YMCA Archives), which holds every year the Internet Archive lacks and three that HathiTrust lacks too. The volumes drawn on here run from the 1900s through 1957: the Montreal blocks, the war-service sections of the 1917-18 and 1918-19 volumes, and the alphabetical list of employed officers wherever an entry-year figure is followed across volumes. In every case the Quebec block and the employed-officers list were read and the rest of the volume was not.
 2. *The Seventh General Catalogue of the Delta Tau Delta Fraternity* (1917) [src_delta_tau_delta_catalogue_1917], Internet Archive item `seventhgeneralca00delt`, full text downloaded and searched. A fraternity general catalogue is a biographical register: birth place, birth date, degree and current occupation for each member. Found by exact-phrase search at `openlibrary.org/search/inside.json` under p_430. See [f_5329].
 3. *Educational Activities for Boys* (1907), a YMCA volume of conference papers [src_educational_activities_for_boys_1907], Internet Archive item `educationalacti00unkngoog`, full text downloaded and the contents page and Daggett's paper read. With three further hits from the same p_430 sweep: *The Deke Quarterly*, *The History of Colby College* (1963), and the centennial history of the First Baptist Church of Waterville, Maine. See [f_5330] and [f_5331].
-4. YMCA of Montreal annual reports for **1910**, **1913** and **1914** [src_cache_sgw_ymca_annual_report_1910, src_ymf_sgw_ymca_annual_report_1913, src_ymf_sgw_ymca_annual_report_1914], all three cached in this project since before the session that used them. The passages had never been extracted, because the names in them — Hollinshead, Lordly, Murray Brooks — occurred nowhere in this project and so could not be searched for until the *Year Book* supplied them. See [f_5282], [f_5283], [f_5284] and [f_5285].
+4. YMCA of Montreal annual reports for **1910**, **1913**, **1914** and **1918** [src_cache_sgw_ymca_annual_report_1910, src_ymf_sgw_ymca_annual_report_1913, src_ymf_sgw_ymca_annual_report_1914, src_ymf_sgw_ymca_annual_report_1918], all cached in this project since before the session that used them. **This entry read "1910, 1913 and 1914" until 2026-09-08 while it was also carrying the 1918 report's Cruickshank and Maguire passages** — the same fault as directors-index's entry 58 (f_5713), written once and reused as each new read was made, in an article a day old. See [f_5736]. The passages had never been extracted, because the names in them — Hollinshead, Lordly, Murray Brooks — occurred nowhere in this project and so could not be searched for until the *Year Book* supplied them. See [f_5282], [f_5283], [f_5284] and [f_5285].
 5. YMCA of Montreal annual reports for **1942**, **1946** and **1948** [src_ymf_sgw_ymca_annual_report_1942, src_ymf_sgw_ymca_annual_report_1946, src_ymf_sgw_ymca_annual_report_1948]. The 1948 report's retirement paragraph is the fullest account of W. J. Holliday's career in any source this project holds. See [f_5323], [f_5324] and [f_5325].
 6. *Kamp Kanawana* brochure, 1922 season [src_brochure_1922], and the *YMCA North Branch* brochure for 1922-23 [src_ymf_1922_1923_ymca_north_branch_brochure]. The Guiton identification was made by asking them a question, not by fetching anything. See [f_5326].
+7. YMCA of Montreal annual reports for the years ending **30 April 1919** and **30 April 1920** [src_ymf_sgw_ymca_annual_report_1919_montreal_men, src_ymf_sgw_ymca_annual_report_1920], the *Staff Changes* sections read branch by branch on 2026-09-08 under p_490. Both had been read for their camps sections only. See [f_5736].
 
 ## Research Notes
 

@@ -2,7 +2,7 @@
 
 *YMCA of Montreal secretary and the association's historian, 1912–1953*
 
-<!-- meta: status=reader-facing | sources=16 | updated=2026-09-07 -->
+<!-- meta: status=reader-facing | sources=17 | updated=2026-09-08 -->
 
 ## Overview
 
@@ -82,7 +82,7 @@ Secretary**, was appointed. Mr. Cross gave a great deal of his time to this work
 months**, the Association making his services available **without cost**."^16
 
 **There were two Acting General Secretaryships, and both cover the same man's absences.** The 1941–1945 spell is on the roster, and the 1942 report says "**John W.
-Beaton, our General Secretary, has continued as Senior Secretary for National War Services**." Beaton held the top post, was seconded to national war work, and **Cross was acting in his place**. Then Beaton returned — and in 1951 he died in office. The 1951 report records the
+Beaton, our General Secretary, has continued as Senior Secretary for National War Services**." Beaton held the top post, was seconded to national war work, and **Cross was acting in his place**. Then Beaton returned — and in 1951 he died in office. *Beaton's own Montreal service can now be dated at both ends*: the annual report for the year ending 30 April 1920 records that "Mr. W. H. Henderson, Executive Secretary, resigned in September to take the Executive Secretaryship at Halifax. He was succeeded by **Major J. W. Beaton on November 1st**",^17 so the man Cross deputised for twice arrived on **1 November 1919** and served thirty-two years, to his death in post. The 1951 report records the
 second caretakership, with its cause: "**Following the death of John W. Beaton, General
 Secretary, Harold C. Cross, formerly Programme Secretary, was appointed Acting General Secretary.**"^16 The
 caretakership ended the next year, and he did not leave: "F. G. Hubbard, formerly of Vancouver, assumed the
@@ -145,6 +145,7 @@ This is the camp's own contemporary description of him as Chief, printed for cam
 14. The two MULTI-YEAR items of the yearbook series,: [src_icre_yearbook_1933], whose title page says 1933 but which binds the yearbooks for **1933 through 1938**, and [src_icre_yearbook_undated], which binds **1939 through 1942** and whose running heads carry all four. Each Quebec officer block placed by the dated year-marks bracketing it in the same text, monotonic across ten blocks, with J. P. Copland present as Honorary Treasurer in every one as a control.txt`.
 15. *The Green Triangle*, Vol. IV No. 7, **4 August 1935**, and Volume 5, **Re-union Number, 17 October 1936** [src_ymf_the_green_triangle_1935_08_04, src_ymf_the_green_triangle_1936_10_17].
 16. YMCA of Montreal annual reports for **1926, 1927, 1938, 1951, 1952** and **1953**, the STAFF-CHANGES sections [src_ymf_sgw_ymca_annual_report_1926, src_ymf_sgw_ymca_annual_report_1927, src_ymf_sgw_ymca_annual_report_1938, src_ymf_sgw_ymca_annual_report_1951, src_ymf_sgw_ymca_annual_report_1952, src_ymf_sgw_ymca_annual_report_1953]. All six are held at read_state *partial*: their CAMPS sections had been read and their staff sections had not, which is why none of this was here. Read 2026-09-07; passages indexed at `kb/reread/ymca_annual_report_staff_changes.md`.
+17. YMCA of Montreal annual report for the year ending **30 April 1920** [src_ymf_sgw_ymca_annual_report_1920], the Central Branch *Staff Changes* paragraph. Read 2026-09-08 under p_490, which found it by sweeping the staff-changes sections of ninety-two reports that had been read for their camps sections only. See [f_5736].
 
 ## Research Notes
 

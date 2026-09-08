@@ -1,8 +1,8 @@
 {
-  "version": "11.19",
-  "kb_version": "11.19",
+  "version": "11.20",
+  "kb_version": "11.20",
   "migrated_from": "3.3",
-  "fact_count": 5697,
+  "fact_count": 5703,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -102735,6 +102735,107 @@
       "conflicts_with": [],
       "added_version": "11.19",
       "added_by": "manual"
+    },
+    {
+      "fact_id": "f_5736",
+      "claim": "p_490 WORKED: THE 1919 AND 1920 STAFF-CHANGES SECTIONS, AND AN ENTRY-58 DEFECT IN AN ARTICLE ONE DAY OLD. The Montreal association's annual reports print a Staff Changes section branch by branch; the volumes for the years ending 30 April 1919 and 30 April 1920 had been read for their CAMPS sections only, which is p_490's whole premise. Read on 2026-09-08 they gave five things for people/boys-work-secretaries.md and one for people/harold-cross.md, all written up. AND THEY EXPOSED THE SAME FAULT AS f_5713, IN AN ARTICLE WRITTEN THE DAY BEFORE: boys-work-secretaries entry 4 read 'YMCA of Montreal annual reports for 1910, 1913 and 1914' while it was also carrying the 1918 report's Cruickshank and Maguire passages. The entry was written once, for the first read, and reused as the next read was made -- exactly the pattern found in directors-index entry 58 the previous night, in an article a day old, by the person who had just recorded the lesson. Corrected, and a new entry 7 written for the 1919 and 1920 reports rather than folded into 4.",
+      "sources": [],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "p_490",
+        "boys-work-secretaries"
+      ],
+      "date_ref": "2026-09-08",
+      "conflicts_with": [],
+      "added_version": "11.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5737",
+      "claim": "W. A. MACLAREN LEFT MONTREAL IN MARCH 1919 FOR A GENERAL SECRETARYSHIP OF HIS OWN. The YMCA of Montreal annual report for the year ending 30 April 1919, Staff Changes, Central: 'On March 31, Mr. W. A. MacLaren resigned as Membership Secretary, to become General Secretary of the Quebec City Association. He was succeeded by Mr. David M. Watson.' Set beside what this project already had -- a volunteer leader at the 1903 camp season, entry into Association work in 1904 per the Year Book legend, Montreal's Boys' Work Director in 1905-06, secretary of the Fairmount branch by 1909 -- his Montreal career runs about fifteen years and ends outside boys' work, in membership. DAVID M. WATSON is a name new to this project.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1919_montreal_men"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "W. A. Maclaren",
+        "David M. Watson"
+      ],
+      "date_ref": "1919-03-31",
+      "conflicts_with": [],
+      "added_version": "11.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5738",
+      "claim": "G. D. BRANDON LEFT THE BOYS' DEPARTMENT TWO YEARS BEFORE HE DIRECTED KANAWANA, AND CAME BACK FROM OUTSIDE IT. The 1919 report's Staff Changes: 'Mr. G. D. Brandon resigned as Physical Director of Boys' Work to become Community Secretary at Point St. Charles and Verdun on May 1.' The directors index already has him relieving J. G. MacKinnon at Kanawana for a fortnight in August 1918 and directing the camp in 1921. So he was the Boys' Work physical director when he first took charge at camp, had moved to community work by May 1919, and directed the 1921 season from outside the boys' department -- a FOURTH ROUTE into the camp's leadership beside the two American college hires, the McGill student association and the camp's own volunteer corps.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1919_montreal_men"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "G. D. Brandon"
+      ],
+      "date_ref": "1919-05-01",
+      "conflicts_with": [],
+      "added_version": "11.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5739",
+      "claim": "J. G. CRUICKSHANK'S BRANCH BOYS' SECRETARYSHIP LASTED EXACTLY TWO YEARS, AND BOTH ENDS ARE DOCUMENTED. The 1919 report corroborates the start independently of the 1918 report that announced it -- 'Mr. J. G. Cruickshank, Boys' Secretary, joining the staff on May 1, 1918' -- and the 1920 report gives the end: 'North Branch -- Mr. J. G. Cruickshank, resigned April 30th from the Boys' Secretaryship to enter business.' A returned soldier put into a branch boys' secretaryship in the last summer of the war, gone to business at the first opportunity after it.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1919_montreal_men",
+        "src_ymf_sgw_ymca_annual_report_1920"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "J. G. Cruickshank"
+      ],
+      "date_ref": "1918-05-01/1920-04-30",
+      "conflicts_with": [],
+      "added_version": "11.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5740",
+      "claim": "THE BRANCH BOYS' SECRETARYSHIP WAS A RUNG, AND THE 1919 REPORT SHOWS THE STEP BEING TAKEN. Westmount, in the same Staff Changes section: 'Mr. Cecil L. Brown became Secretary of this Branch in February of this year. Mr. E. M. Crawford, on February 24, became Boys' Work Secretary, replacing Mr. C. L. Brown.' The boys' secretary moved up to run the branch and his successor took the desk he left. That is the same move W. J. Holliday made to Fairmount in 1909 and W. A. Maclaren made to Quebec City in 1919, and it explains the turnover rate in Montreal's boys' work line. E. M. CRAWFORD and the sequence are new to this project. The same section also has E. T. ARMITAGE becoming Boys' Work Secretary at the Railroad branch on 18 December 1918, and the 1920 report has him joining Central's Boys' Department the following year in the same sentence as Hay Finlay -- a documented branch-to-Central move inside the boys' work line.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1919_montreal_men",
+        "src_ymf_sgw_ymca_annual_report_1920"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Cecil L. Brown",
+        "E. M. Crawford",
+        "E. T. Armitage"
+      ],
+      "date_ref": "1919-02-24",
+      "conflicts_with": [],
+      "added_version": "11.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5741",
+      "claim": "JOHN W. BEATON'S MONTREAL CAREER BEGAN ON 1 NOVEMBER 1919, AND RAN THIRTY-TWO YEARS TO HIS DEATH IN OFFICE. The 1920 report's Central Branch Staff Changes: 'Mr. W. H. Henderson, Executive Secretary, resigned in September to take the Executive Secretaryship at Halifax. He was succeeded by Major J. W. Beaton on November 1st.' This project already had Beaton as Montreal's General Secretary, seconded to National YMCA War Services during the second war with Harold C. Cross acting in his place, and dying in office in 1951 -- which produced Cross's second Acting General Secretaryship. The start date was missing. W. H. HENDERSON, whom he succeeded, had charge of the Senior Camp in July 1918 with W. A. MacLaren, per the 1919 report.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1920"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "John W. Beaton",
+        "W. H. Henderson"
+      ],
+      "date_ref": "1919-11-01",
+      "conflicts_with": [],
+      "added_version": "11.20",
+      "added_by": "ralph_loop"
     }
   ]
 }

@@ -2274,7 +2274,8 @@
         "src_ymf_sgw_ymca_annual_report_1938",
         "src_ymf_sgw_ymca_annual_report_1951",
         "src_ymf_sgw_ymca_annual_report_1952",
-        "src_ymf_sgw_ymca_annual_report_1953"
+        "src_ymf_sgw_ymca_annual_report_1953",
+        "src_ymf_sgw_ymca_annual_report_1920"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -2286,7 +2287,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 5666,
+      "word_count": 5783,
       "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged. | 2026-09-06: two lending-restricted items read through Open Library search-inside -- Henry F. Hall's The Georgian Spirit (1966 preface) names Cross 'historian of the Montreal YMCA'; the American Rose Annual 1970 lead is recorded and deliberately NOT identified.",
       "tags": {
         "era": [
@@ -12350,7 +12351,10 @@
         "src_ymf_sgw_ymca_annual_report_1946",
         "src_ymf_sgw_ymca_annual_report_1948",
         "src_brochure_1922",
-        "src_ymf_1922_1923_ymca_north_branch_brochure"
+        "src_ymf_1922_1923_ymca_north_branch_brochure",
+        "src_ymf_sgw_ymca_annual_report_1918",
+        "src_ymf_sgw_ymca_annual_report_1919_montreal_men",
+        "src_ymf_sgw_ymca_annual_report_1920"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -12362,7 +12366,7 @@
         "history/wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 3156
+      "word_count": 3918
     },
     {
       "article_id": "wallace-forgie",
