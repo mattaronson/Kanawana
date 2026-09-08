@@ -1,7 +1,7 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: 33*
-*Last Updated: 2026-09-08 (a second year of the canoe-building programme, and a parent's letter about a trip)*
+*Status: E1-reviewed | Sources: 34*
+*Last Updated: 2026-09-08 (a second year of the canoe-building programme; the 2026 back-country evacuation clause)*
 
 *Earlier revisions: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
@@ -156,6 +156,15 @@ Two answers are worth keeping for what they say about why camps tripped at all: 
 
 **And a written emergency procedure, adopted as policy.** In the same issue the Ontario Camping Association printed the emergency procedures it had distributed to all member camps, together with a reporting rule "**adopted as policy of the O.C.A. effective February, 1980**".^15 The procedure for a serious accident or death on camp property runs to fifteen steps, and its shape is legal as much as medical: establish the emergency and confirm care is under way; **"begin to log each action; both the time and procedure, including all phone calls"**; summon help with a stated form of words; call legal counsel and, in the case of death, the police, who "**MUST be called**"; inform staff, then campers, then the parents named on the camper application; **initiate written statements from everyone involved, each writing their own, plus a record of conditions before the accident and photographs "if at all possible"**; take a lawyer's advice on any letter to parents and any press release; and "**only the Camp Director or his designate speaks to the press**". A parallel procedure covers accidents on excursions off the property, where the trip leader delegates first aid, sends a message by the fastest route with someone kept at the telephone, logs every call in and out, and the senior person on the trip must recommend "concerning the remainder of the trip, that is, to be continued, aborted, altered". It ends: "**The Camp stands behind its staff members and expects each member to perform to the best of his/her capabilities and training.**"
 
+**Forty-six years on, the same problem is addressed from the other end, and it names a contractor.** The
+camp's 2026 registration package asks a parent to acknowledge: "In case of a serious emergency during a
+**back-country trip** where an **evacuation by plane or helicopter** is required to ensure my child's safety
+and health, I understand that a third-party organization, **AirMedic**, will be responsible for evacuating my
+child."^34 The 1980 procedure above is what staff do once something has happened; this is what a parent is
+told before it does. The same package's list of inherent risks names **"contact with water or drowning"**
+among seven categories — the only place in this project where the camp states drowning as a risk of its own
+programme in its own words. The full list is at [[history/modern-era|The Modern Era]]. [f_5791]
+
 The reporting policy required a member camp to telephone the association's president within 24 hours and file a written report within 20 days naming the person injured or deceased with the date, time and place, and set out what the association would then decide — including "**the position to be taken by the O.C.A. at the inquest**", who would appear as its witness, and "**methods by which the learning gained as a result of the incident might be usefully shared with the membership**".
 
 This is an Ontario policy, not a Quebec one, and there is no evidence here of what the Quebec association adopted. But it establishes that by February 1980 the reporting of a camp death to the provincial association was a written rule with a deadline — which is another reason to expect that Quebec's accreditation file on Kanawana, if it survives, contains more than annual inspection reports.
@@ -294,3 +303,4 @@ mother, and the unit she measures the trip in is a school year. See
 31. *The Green Triangle*, Issue 2, **21 July 1940** [src_ymf_the_green_triangle_1940_07_21], and a Concordia Archives photograph captioned "Pop Cameron and the Canoe Trippers", dated by its **1941** Quebec licence plate [src_flickr_kanawana_concordia_historical_album]. The **1940** canoe-trip log naming **Jack Cameron's car** and the **1941** photograph naming **Pop Cameron** are joined at [f_5626]; the photograph alone is at [f_1571].
 32. YMCA of Montreal annual report **2002-2003**, English and French editions [src_ymf_sgw_ymca_annual_report_2002_2003, src_ymf_sgw_ymca_annual_report_2002_2003_fr], the Foundation's endowment allocation table. Read 2026-09-08 under p_487. The four-year series is at [[history/modern-era|The Modern Era]]. See [f_5766].
 33. The YMCAs of Québec, community report **2010** [src_ymf_sgw_ymca_community_report_2010], the Access for All page. Read 2026-09-08 under p_487. See [f_5776].
+34. Camp YMCA Kanawana, the registration package published at ymcaquebec.org [src_ymcaq_kanawana_jobs_intl_leadership_2026], its emergency and inherent-risk clauses. Read 2026-09-08 under p_441. See [f_5791].

@@ -1,7 +1,7 @@
 # The Modern Era: The Two-Tier Era (1995–Present)
 
-*Status: draft | Sources: 34*
-*Last Updated: 2026-09-08 (the advisory committee from 1995, its six-year lapse and its rosters; four years of endowment allocations)*
+*Status: draft | Sources: 35*
+*Last Updated: 2026-09-08 (the advisory committee's history; the endowment; what a parent signs)*
 
 ## Overview
 
@@ -509,6 +509,40 @@ The handbook also asks families to go through a **Camper Behavior Agreement** wi
 promises, framed as a commitment to the community and its motto, of which the last is "Contribute with my
 happiness, enthusiasm and humour."
 
+
+## What a parent signs, 2026
+
+The camp's registration package is published on the association's site, and it is the plainest statement this
+project holds of the relationship between the camp and a family — plainer than any brochure, because it is
+written to be agreed to.^35
+
+**Medication.** Staff may dispense over-the-counter medication "for common ailments such as headaches,
+earaches, fever," and the package names them: **acetaminophen, ibuprofen, anti-nausea drugs,
+antihistamines**. **Lice.** Staff "can check my child for lice"; a child with lice or nits either goes home for
+treatment or is treated at camp, "the cost of which will be paid by the parents." **Behaviour.** The camp
+"reserves the right to remove a camper from a program if their behaviour puts them or others at risk of
+**physical or emotional harm**," with the parent to collect the child "within a reasonable amount of time" and
+to "assume any expense(s) arising from such a dismissal." **Property.** The YMCA "is not responsible for the
+loss, theft or damage of my child's property."
+
+**And one clause names a contractor.** "In case of a serious emergency during a **back-country trip** where an
+**evacuation by plane or helicopter** is required to ensure my child's safety and health, I understand that a
+third-party organization, **AirMedic**, will be responsible for evacuating my child." That is the only named
+external emergency provider in this project's whole record of the camp.
+
+**The inherent risks, seven of them, named "in particular, but not limited to."** Falls and other movements
+(sprain, strain, fracture, head injury); blunt or sharp objects, "branches, equipment"; exposure to weather,
+"cold, hypothermia"; contact between individuals, "accidental or otherwise"; allergies, "food, insects,
+sunscreen, bug repellent"; **contact with water or drowning** during water activities; and burns or
+heat-induced injury, "hyperthermia, heat stroke."
+
+*Read it beside the 1980 emergency procedure* this wiki holds at
+[[traditions/canoe-trips|Canoe Trips]] — fifteen steps, a log of every action and phone call, the police who
+"MUST be called." That document is what staff do once something has happened. This one is what a parent is
+told can happen before it does, and it is **the only place in this project where the camp names drowning as a
+risk of its own programme, in its own words**. [f_5791]
+
+
 ## Volunteers, paid in camper fees
 
 The camp's alumni page sets out **Volunteer Recognition Guidelines**, and describes them as "back" — so this
@@ -594,6 +628,7 @@ One absence is worth noting rather than passing over: the page says the alumni n
 32. YMCA of Montreal / The YMCAs of Québec, annual reports for **2006**, **2007** and **2008** [src_ymf_sgw_ymca_annual_report_2006, src_ymf_sgw_ymca_annual_report_2007, src_ymf_sgw_ymca_annual_report_2008], the *Projects supported by the Endowment Fund* and Foundation pages. Read 2026-09-08 under p_487. See [f_5770].
 33. Montreal YMCA / The YMCAs of Québec, annual report for the year ended **31 December 2009** [src_ymf_sgw_ymca_annual_report_2009] and community reports for **2010** and **2011** [src_ymf_sgw_ymca_community_report_2010, src_ymf_sgw_ymca_community_report_2011], the Foundation pages. Read 2026-09-08 under p_487. See [f_5774].
 34. The YMCAs of Québec, community report **2014**, French and English editions [src_ymf_sgw_ymca_community_report_2014_fr, src_ymf_sgw_ymca_community_report_2014], the donor-designated allocation list. Read 2026-09-08 under p_487, reached through the French-edition triage. See [f_5788].
+35. Camp YMCA Kanawana, the registration package published at ymcaquebec.org/en/summer-camp-kanawana/jobs [src_ymcaq_kanawana_jobs_intl_leadership_2026], its consent and inherent-risk sections. Cached at `sources/cache/web-pages/ymcaquebec-kanawana-jobs-international-leadership-2026.txt`; read 2026-09-08 under p_441, reached through `scripts/reread/skimmed_triage.py`. See [f_5791].
 
 ## Research Notes
 

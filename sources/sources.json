@@ -29569,8 +29569,8 @@
       "extraction_version": "v10.25",
       "reliability": "primary",
       "notes": "Four pages fetched, extracted and read 2026-09-07 under p_489, cached as one file with a header line per page giving that page's own URL. The origin_url is the jobs page; the rest are inside. Terms and Conditions is cached and is NOT read closely -- only the other three are. See f_5616.",
-      "read_state": "skimmed",
-      "read_state_basis": "direct:three-of-four-pages-read-in-full-2026-09-07; the Terms and Conditions block (9,247 chars) is cached and unread, which is why this record says skimmed rather than read"
+      "read_state": "partial",
+      "read_state_basis": "2026-09-08 under p_441, reached through scripts/reread/skimmed_triage.py, whose absent-token list flagged INHERENT RISKS / POSSIBLE AGGRAVATION / WILLINGLY AND as boilerplate that turned out to be the registration package's consent and risk disclosure. Those sections read in full: f_5791. The page's job listings and international-leadership content were worked earlier and are not re-read here."
     },
     {
       "source_id": "src_ymcaq_kanawana_session_pages_2026",

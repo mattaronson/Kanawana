@@ -1,8 +1,8 @@
 {
-  "version": "11.57",
-  "kb_version": "11.57",
+  "version": "11.58",
+  "kb_version": "11.58",
   "migrated_from": "3.3",
-  "fact_count": 5752,
+  "fact_count": 5753,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103833,6 +103833,25 @@
       "date_ref": "1916 season / report year ending 30 April 1917",
       "conflicts_with": [],
       "added_version": "11.57",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5791",
+      "claim": "WHAT THE CAMP ASKS A PARENT TO SIGN, 2026. The camp's own registration package, published on ymcaquebec.org, sets out the consents and the risk disclosure. MEDICATION: 'I will allow Camp YMCA Kanawana's staff to dispense OVER-THE-COUNTER MEDICATION to my child for common ailments such as headaches, earaches, fever' and names them -- 'ACETAMINOPHEN - IBUPROFEN - ANTINAUSEA DRUGS - ANTIHISTAMI[NES]'. LICE: staff 'can check my child for lice. Should my child have lice or nits, they will either RETURN HOME to receive treatment, or they will be TREATED AT CAMP, the cost of which will be paid by the parents.' BEHAVIOUR: the camp 'reserves the right to REMOVE A CAMPER from a program if their behaviour puts them or others AT RISK OF PHYSICAL OR EMOTIONAL HARM', with the parent responsible for collecting the child 'within a reasonable amount of time' and for 'any expense(s) arising from such a dismissal'. PROPERTY: 'The YMCA, its employees and partners are NOT RESPONSIBLE for the loss, theft or damage of my child's property.' EMERGENCY: where a parent cannot be reached, staff are authorised to 'secure proper medical treatment... including admission to an emergency unit, hospital and related treatments, such as X-rays'. AND THE BACK-COUNTRY CLAUSE, which names a contractor: 'In case of a serious emergency during a BACK-COUNTRY TRIP where an EVACUATION BY PLANE OR HELICOPTER is required, I understand that A THIRD-PARTY ORGANIZATION, AIRMEDIC, will be responsible for evacuating my child.' INHERENT RISKS, seven categories named 'in particular, but not limited to': falls and other movements (sprain, strain, fracture, head injury); blunt or sharp objects (branches, equipment); exposure to weather (cold, hypothermia); contact between individuals, accidental or otherwise; allergies (food, insects, sunscreen, bug repellent); CONTACT WITH WATER OR DROWNING during water activities; and burns or heat-induced injury (hyperthermia, heat stroke). SET AGAINST THE 1980 OCA EMERGENCY PROCEDURE this wiki holds -- fifteen steps, a log of every action, the police who 'MUST be called' -- the 2026 document is the same institutional problem addressed from the other end: not what staff do when it happens, but what a parent is told can happen before it does. It is also the only place in this project where the camp names DROWNING as a risk of its own programme in its own words.",
+      "sources": [
+        "src_ymcaq_kanawana_jobs_intl_leadership_2026"
+      ],
+      "confidence": "stated",
+      "category": "safety",
+      "entities": [
+        "Camp YMCA Kanawana",
+        "AirMedic",
+        "inherent risks",
+        "registration package"
+      ],
+      "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "11.58",
       "added_by": "ralph_loop"
     }
   ]
