@@ -1,8 +1,8 @@
 {
-  "version": "11.52",
-  "kb_version": "11.52",
+  "version": "11.53",
+  "kb_version": "11.53",
   "migrated_from": "3.3",
-  "fact_count": 5744,
+  "fact_count": 5745,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103679,6 +103679,26 @@
       "date_ref": "2007-2008",
       "conflicts_with": [],
       "added_version": "11.52",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5783",
+      "claim": "TWO CAMPER FIGURES FOR THE MIDDLE 2010s, WHERE THE ATTENDANCE SERIES JUMPS FROM 2010 TO 2020. The YMCAs of Quebec's community reports print an annual infographic of headline numbers. 2016: '5,500 + children learned how to swim', then '800 + youth had a transformative experience in nature at CAMP YMCA KANAWANA', then '7,750 seniors'. 2017: '5,700 + children learned how to swim', '700 + youth had a transformative experience in nature at Camp YMCA Kanawana', '7,300 seniors'. HOW THE ALIGNMENT IS ESTABLISHED, since this is a reflowed infographic and this project has been wrong about exactly that before: the number PRECEDES its label in both years and both languages, the 2017 English prints '5,700' and '700' close enough together to read as a pair, and the scale settles it -- a swimming programme reaching five thousand and a camp reaching several hundred is the only assignment that makes sense of either year. The French editions were the route in: scripts/reread/fr_destination_triage.py flagged '7750' and '7300' as absent from the wiki, and they turned out to be the seniors row NEXT TO the camp's. THE UNIT IS NOT STATED. 'Youth had a transformative experience in nature at' is the association's own phrase and does not say whether it counts residential campers only or includes outdoor-education and nature-class participants. Against the 2010 Social Audit split of 780 residential and 1,450 nature classes, 800 and 700 sit close to the residential figure and far below the combined one, which suggests residential-only without establishing it.",
+      "sources": [
+        "src_ymf_sgw_ymca_community_report_2016",
+        "src_ymf_sgw_ymca_community_report_2016_fr",
+        "src_ymf_sgw_ymca_community_report_2017",
+        "src_ymf_sgw_ymca_community_report_2017_fr"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Camp YMCA Kanawana",
+        "attendance"
+      ],
+      "date_ref": "2016-2017",
+      "conflicts_with": [],
+      "added_version": "11.53",
       "added_by": "ralph_loop"
     }
   ]

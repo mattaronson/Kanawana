@@ -20574,7 +20574,7 @@
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. || READ FOR ITS KANAWANA PASSAGES 2026-09-07 under the sharpened p_441. This series prints the CAMP'S OWN COMMITTEE ROSTER year by year, which is where its value for this project sits: see f_5581 for the 2014, 2015 and 2017 lists and f_5582 for three members who were CITs together in 1995. || READ FOR ITS KANAWANA PASSAGES 2026-09-07 under the sharpened p_441. Holds a parent's first-person account, printed with first names only: seven consecutive summers on financial assistance, and her reason for sending him. See f_5587.",
       "read_state": "read",
-      "read_state_basis": "read for its Kanawana passages 2026-09-07; supersedes the asserted keyword-swept state"
+      "read_state_basis": "RE-READ 2026-09-08 under p_487: the headline infographic's Kanawana line, reached from the French edition. f_5783."
     },
     {
       "source_id": "src_ymf_sgw_ymca_community_report_2016_fr",
@@ -20592,7 +20592,7 @@
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487 via the absent-token triage, whose '7750' flag led to the headline infographic. Gives 800+ youth at Kanawana in 2016 (f_5783); its Ludovic/Ngee tokens are the neighbouring TeenZone and gym vignettes, already in the wiki from the English edition."
     },
     {
       "source_id": "src_ymf_sgw_ymca_community_report_2017",
@@ -20610,7 +20610,7 @@
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable. || READ FOR ITS KANAWANA PASSAGES 2026-09-07 under the sharpened p_441. This series prints the CAMP'S OWN COMMITTEE ROSTER year by year, which is where its value for this project sits: see f_5581 for the 2014, 2015 and 2017 lists and f_5582 for three members who were CITs together in 1995.",
       "read_state": "read",
-      "read_state_basis": "read for its Kanawana passages 2026-09-07; supersedes the asserted keyword-swept state"
+      "read_state_basis": "RE-READ 2026-09-08 under p_487: the headline infographic's Kanawana line, whose English printing of '5,700' and '700' establishes the alignment for both years. f_5783."
     },
     {
       "source_id": "src_ymf_sgw_ymca_community_report_2017_fr",
@@ -20628,7 +20628,7 @@
       "reliability": "primary",
       "notes": "Registered individually 2026-08-25 (p_231). Item of the Concordia-digitized YMCA of Montreal fonds on Internet Archive; full text cached in-repo. READ STATE IS \"skimmed\", NOT \"extracted\": the text is held and has been keyword-swept repeatedly (Kanawana, Otoreke, director names, drownings, Owens, Patton), but this item has not been read closely and no fact has been extracted from it individually. Marking these \"extracted\" would have overstated the reading and defeated the purpose of the read-receipt field. Previously reachable only through the collection-level source id, which made item-level provenance uncheckable.",
       "read_state": "skimmed",
-      "read_state_basis": "asserted:full-text-cached-and-keyword-swept-not-read-closely"
+      "read_state_basis": "measured:read-for-camp-passages-2026-09-08-p_487 via the absent-token triage ('7300'). Gives 700+ youth at Kanawana in 2017 (f_5783). Its CONSEILS CONSULTATIFS LOCAUX heading is the branch-committee page, whose Kanawana roster was already worked on 2026-09-07."
     },
     {
       "source_id": "src_ymf_sgw_ymca_community_report_2018",

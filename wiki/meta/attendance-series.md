@@ -1,7 +1,7 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 53*
-*Last Updated: 2026-09-08 (occupancy for 2007 and 2008)*
+*Status: draft | Sources: 54*
+*Last Updated: 2026-09-08 (occupancy 2007-08; camper figures for 2016 and 2017)*
 
 ## Overview
 
@@ -133,6 +133,8 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | **2008** | **1,091** | — | *Persons, not campers.* The association's "Social Audit" table, headed PROGRAMS / PERSONS, gives "Residential camp - YMCA Kanawana **1,091**" for the year ended 31 December 2008 — a programme participation count on the same footing as "Swimming lessons 5,449", so it is not a season registration and should not be compared with one^24 | **The same year's occupancy is 91%**, up from 80% in 2007 — the association attributing the rise to "the nature of the project and the quality of the camp's programming." These are the first occupancy percentages here after 1996's 92%, and the only ones for the 2000s.^53
 | **2009** | **1,281** | — | *Same table, same caveat*: "Residential camp - Y Kanawana **1,281**", year ended 31 December 2009^24 |
 | **2010** | **780** *residential*; **1,450** *nature classes* | — | **The same table, and in 2010 it splits the camp in two**: "Camp résidentiel - Camp Y Kanawana **780**" and "**Classes nature** - Camp Y Kanawana **1 450**", from the French community report.^51 *Two things follow.* The residential figure is **down 39% on 2009** in one year, which no document here explains; and the split shows the camp's school-season nature programme carrying nearly twice the residential count, which the 2008 and 2009 rows — labelled "Residential camp" alone — may or may not have excluded. **The 2007 report says what that programme was built for**, three years before it appears in the table: the fundraising campaign would pay for "la construction d'**installations trois saisons** pour accueillir **des écoles et des groupes communautaires** le printemps et l'automne."^52 So *Classes nature* is the green shift's stated purpose arriving as a number. *A cross-check written here on 2026-09-08 was withdrawn the same hour*: the report's "plus de 2 000 jeunes de 6 à 17 ans" looked like a total the two rows sum toward, and 780 + 1,450 is 2,230 — but [[history/modern-era|the modern era article]] had already established that figure as **a standing capacity claim the association repeats every year**, not a count for 2010. Two numbers agreeing does not make either a measurement of the other |
+| **2016** | **"800 +"** | — | *Unit unstated.* The community report's headline infographic: "**800 + youth had a transformative experience in nature at Camp YMCA Kanawana**," between "5,500 + children learned how to swim" and a seniors count. The phrase does not say whether it counts residential campers only or includes nature classes. Against 2010's split of 780 residential and 1,450 nature classes, it sits close to the residential figure and far below the combined one — suggestive, not established.^54 [f_5783] |
+| **2017** | **"700 +"** | — | The same infographic, same phrase, between "5,700 +" swimmers and "7,300" seniors.^54 |
 | **2020–21** | *(no season)* | — | Two summers lost to COVID-19 |
 | **2022** | **655** | — | Reopening season |
 | **2023** | **780** | — | |
@@ -768,6 +770,7 @@ own, one of those three is its source.
 51. **Les YMCA du Québec, rapport communautaire 2010, French edition** [src_ymf_sgw_ymca_community_report_2010_fr], the *Bilan social* table and the June entry of the year's chronology. Read 2026-09-08 under p_487: the record was marked "full-text-cached-and-keyword-swept-not-read-closely" and carries twenty-four mentions of the camp against no facts, the most of any record in that population. See [f_5759].
 52. **Les YMCA du Québec, rapport annuel 2007, French edition** [src_ymf_sgw_ymca_annual_report_2007_fr], the Foundation section on the Kanawana development. Read 2026-09-08 under p_487. See [f_5760].
 53. YMCA of Montreal / The YMCAs of Québec, annual report **2008**, English and French editions [src_ymf_sgw_ymca_annual_report_2008, src_ymf_sgw_ymca_annual_report_2008_fr], the section headed "Camp YMCA Kanawana: Objectives all but met". Read 2026-09-08 under p_487. See [f_5782].
+54. The YMCAs of Québec, community reports for **2016** and **2017**, English and French editions [src_ymf_sgw_ymca_community_report_2016, src_ymf_sgw_ymca_community_report_2016_fr, src_ymf_sgw_ymca_community_report_2017, src_ymf_sgw_ymca_community_report_2017_fr], the headline infographics. Read 2026-09-08 under p_487, reached through the French editions' absent-token triage. **The number precedes its label** in both years and both languages; the 2017 English prints "5,700" and "700" close enough to read as a pair, and the scale settles the assignment. See [f_5783].
 ## Research Notes
 
 <!-- Created 2026-08-14 (p_256) from the 114-annual-report sweep. No new research for this spawn.
