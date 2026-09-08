@@ -111,6 +111,19 @@ jobs:
         # cleared to zero the day the check was written.
         run: python scripts/verify/dangling_labels.py
 
+      - name: Near-miss year spans
+        # A person given two nearly-agreeing spans in two different articles.
+        # Written 2026-09-08 after centennial-1994.md was found still printing
+        # Bruce Netherwood's directorship as 1988-1994 a day after his own
+        # article corrected it to 1989-1994 and marked the old reading
+        # superseded -- with all ten checks passing, because nothing in the
+        # suite compares a claim in one article against the same claim in
+        # another. The first run found four uncarried corrections, all four
+        # made in the directors index on the same day, 2026-08-14. ADVISORY:
+        # a near-miss pair is as often a real second span or an ambiguity held
+        # open on purpose, and only reading tells them apart.
+        run: python scripts/verify/span_drift.py
+
       - name: Section headings
         # Every registered article carries the sections CLAUDE.md's template
         # names. Written 2026-09-07 after a spinout silently dropped the

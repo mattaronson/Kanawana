@@ -35,6 +35,7 @@ CHECKS = [
     ("section_headings", "Section headings"),
     ("uncited_sources", "Uncited source entries (advisory)"),
     ("dangling_labels", "Dangling lettered markers"),
+    ("span_drift",      "Near-miss year spans (advisory)"),
 ]
 
 def main() -> int:

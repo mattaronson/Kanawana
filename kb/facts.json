@@ -1,8 +1,8 @@
 {
-  "version": "11.45",
-  "kb_version": "11.45",
+  "version": "11.46",
+  "kb_version": "11.46",
   "migrated_from": "3.3",
-  "fact_count": 5734,
+  "fact_count": 5735,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -103477,6 +103477,24 @@
       "date_ref": "2026-09-08",
       "conflicts_with": [],
       "added_version": "11.44",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5773",
+      "claim": "FOUR UNCARRIED CORRECTIONS, ALL MADE ON THE SAME DAY, ALL FOUND BY ONE NEW CHECK. scripts/verify/span_drift.py was written on 2026-09-08 after f_5772: it looks for a person given two NEARLY-AGREEING year spans -- sharing one endpoint, differing by one or two years at the other -- in two different articles, which is the shape of a transcription slip or a correction that stopped where it was found. First whole-wiki run: thirteen pairs across nine people, and FOUR ARE REAL. (1) A. ROSS SEAMAN: people/directors-index.md reads '1959-1968, Extended from 1959-1967 on 2026-08-14', with the branch officers table and every YMCA Year Book volume behind it, while NINE OTHER ARTICLES still say 1959-1967 -- a-ross-seaman.md itself three times, postwar-gap.md four, timeline-overview.md twice, plus cit-lit-program, order-of-owens, taylor-statten, camp-perrot, derek-walsh and les-voyageurs-de-la-verendrye. (2) GREIG MACDIARMID: the index says 1935-1939, four other articles say 1935-1938. (3) G. DAVID TWYNAM: the index says 1979-1982, timeline-overview says 1979-1980. (4) BRUCE NETHERWOOD: fixed in centennial-1994.md hours earlier, but the index's own plaque note at line 141 still reads '(1988-1994)'. ALL FOUR WERE CORRECTED IN THE DIRECTORS INDEX ON 2026-08-14 AND NONE TRAVELLED. bruce-netherwood.md's superseded note says the quiet part outright -- 'those dates were corrected in the directors index on 2026-08-14 and this article did not catch up' -- so the project had already met this failure once, for one person, and treated it as one person's problem. The remaining nine pairs are legitimate: gary-white's three spans are an ambiguity held open on purpose, roy-locke's two are a documented span against an open question, harold-cross's 1938-1957 is a manuscript date range and not a tenure, and the billy-ball and rob-braide pairs are the check's own 70-character window catching a range belonging to another person in the same sentence.",
+      "sources": [],
+      "confidence": "inferred",
+      "category": "meta",
+      "entities": [
+        "span_drift.py",
+        "A. Ross Seaman",
+        "Greig Macdiarmid",
+        "G. David Twynam",
+        "Bruce Netherwood"
+      ],
+      "date_ref": "2026-09-08",
+      "conflicts_with": [],
+      "added_version": "11.46",
       "added_by": "ralph_loop"
     }
   ]

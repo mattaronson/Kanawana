@@ -8580,3 +8580,23 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
           leaves no trace that it did not travel.
   ARTICLES: centennial-1994.md (src 16), maureen-mcbride.md.
   KB 11.43/5732 -> 11.45/5734.
+
+[2026-09-08T02:46:23Z] NEW CHECK: scripts/verify/span_drift.py (eleventh, advisory)
+  f_5773  Written from f_5772: look for a person given two NEARLY-agreeing year
+          spans -- sharing one endpoint, differing by one or two at the other --
+          in two different articles. First run: 13 pairs across 9 people, FOUR
+          REAL. Seaman 1959-1967 still in nine articles against the index's
+          1959-1968. Macdiarmid 1935-1938 in four against 1935-1939. Twynam
+          1979-1980 against 1979-1982. Netherwood (1988-1994) still in the
+          index's own plaque note. ALL FOUR WERE CORRECTED IN THE DIRECTORS INDEX
+          ON 2026-08-14 AND NONE TRAVELLED -- and bruce-netherwood.md's own
+          superseded note says so about itself, so the failure had been met once
+          and treated as one person's problem.
+          A first prototype with a 90-char window and no name filter returned 272
+          names and matched "Kamp Kanawana 1894-1967" as a person; restricting to
+          wiki/people ids and to near-miss pairs made it readable. Ranges quoted
+          inside a correction are skipped -- the check reported its own repair
+          work on the first run.
+          Wired into all.py and .github/workflows/verify.yml. ADVISORY: nine of
+          the thirteen are legitimate and enumerated in the docstring.
+  QUEUED p_503 to carry the four. KB 11.45/5734 -> 11.46/5735.
