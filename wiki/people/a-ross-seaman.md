@@ -113,8 +113,19 @@ The four teams are the four communities the scholarship's own terms name — Lei
 - **Justin "Guzzo" Desforges** — "an important part of the YMCA Kamp Kanawana landscape ever since the **summer of 1992**. As a camper, counsellor-in-training, junior counsellor, and finally as a senior counselor… volunteering his time to help out with **camper reunions and staff bowling nights**, or spending a weekend at camp **painting cabins during the off-season**. As a result of his dedication to his campers and his tireless commitment to Kanawana, he was **selected as the 'Capitaine' of the Voyageurs for the annual summer-ending Lumbermen and Voyageurs games**." At school, treasurer of the student newspaper; also Chez Doris and Centraide.
 - **Marc Raymond** — "a long time Kanawanian. He first came as a camper, as a **Leader in Training** and as a staff member… He has also volunteered his time to camp in the off-season sharing his creative skills as a **graphic designer**. Marc embodies the camp motto **Non Nobis Solum**, which means not for our selves alone."
 - **Avra [surname lost]** — "has been at YMCA Kamp Kanawana for **12 years**. She experienced the magic and benefits of camp first hand and then passed on that magic as a **staff member for 3 years**." Then studying International Development, fundraising for breast cancer, hoping "to continue working with kids."
+- **Patric Levesque** — "**Senior boys section director**," with "support and involvement in the CRLT community, co-chairperson of the Activities Committee, volunteer work for the Golden Age Association, Arts Westmount, 'Fêtes et Festival du Québec', and A. Ross Seaman Cup. Community involvement with Missing Children's Network, church youth groups and camps." *Added 2026-09-08: this is a **fifteenth** citation, at OCR line 216. It was in neither the original register locator nor the 2026-09-07 re-read that added eight more line ranges, and it was not in the fourteen bullets above. See the note after this block.*
 - **Héléna Longpré** — the Rangers citation, given in full at [[traditions/section-names|Section and Program Names]] because what it documents is a programme rather than a person.
 <!-- /embargo:r_0006 -->
+
+**A note on the list's own completeness, which is the point of registering it at all.** The register record
+`r_0006` describes "the fourteen Kanawana-connected award citations" and lists the OCR line ranges they sit in.
+Its own text records that the first eleven ranges were the whole of the original locator and that a re-read
+added the rest. **A third pass, on 2026-09-08, found one more** — Patric Levesque at line 216, now the
+fifteenth entry above. The 2026-09-03 amendment's argument for registering embargoed material is that a hole
+in the record looks exactly like an absence of evidence, and the register is what lets a later reader tell them
+apart. *A locator that misses a citation asserts that a document's sensitive content is fully accounted for
+when it is not, which manufactures the very hole the register exists to prevent.* The locator now carries line
+216 and says how it was found. [f_5811]
 
 Two things in that list are institutional facts that happen to arrive attached to a name, and they are used as such elsewhere in this wiki: the Capitaine selection, which is the only outside document attesting that role with a holder and a date, and the camp-nurse mentorship, which is the only testimony this project holds from someone Seaman taught.
 

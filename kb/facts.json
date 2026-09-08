@@ -1,8 +1,8 @@
 {
-  "version": "11.73",
-  "kb_version": "11.73",
+  "version": "11.74",
+  "kb_version": "11.74",
   "migrated_from": "3.3",
-  "fact_count": 5772,
+  "fact_count": 5774,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -104226,6 +104226,43 @@
       "date_ref": "1987",
       "conflicts_with": [],
       "added_version": "11.73",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5811",
+      "claim": "A FIFTEENTH KANAWANA CITATION IN THE SEAMAN BOOKLET, MISSED BY TWO PASSES AND BY THE REGISTER'S OWN LOCATOR. r_0006 embargoes 'the fourteen Kanawana-connected award citations, 1989-2006' in the 2007 A. Ross Seaman award booklet, and its locator lists the OCR line ranges: 69-72, 175, 415, 545, 664, 949-955, 1037, 1067-1072, 1107-1111, 1122-1125, 1191-1199, 1375-1393, 1527-1533 and 1652-1660. The register's own note records that the first eleven ranges were the whole of the ORIGINAL locator and that a re-read added the rest (f_5548). A THIRD PASS FINDS ONE MORE: LINE 216, 'Patric Levesque *KANANVANA', whose citation reads 'Senior boys section director. Support and involvement in the CRLT community, co-chairperson of the Activities Committee, volunteer work for the Golden Age Association, Arts Westmount, Fetes et Festival du Quebec, and A. Ross Seaman Cup. Community involvement with Missing Children's Network, church youth groups and camps.' It is not in the locator and it is not among the article's fourteen bullets. WHY THIS MATTERS MORE THAN ONE NAME. The 2026-09-03 amendment's whole argument for registering embargoed material is that a hole in the record looks exactly like an absence of evidence, and the register is what lets a later reader tell them apart. A LOCATOR THAT MISSES A CITATION MANUFACTURES THE VERY HOLE THE REGISTER EXISTS TO PREVENT -- it says, in effect, that the document's Kanawana content is fully accounted for when it is not. Found by scripts/reread/skimmed_triage.py, whose absent-token list flagged 'KANANVANA Doug' and the surrounding fragments; the instrument does not know what an embargo is and found the gap anyway.",
+      "sources": [
+        "src_concordia_seaman_award_history_2007"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "r_0006",
+        "A. Ross Seaman Award",
+        "register locator"
+      ],
+      "date_ref": "2026-09-08 (on a 2007 document)",
+      "conflicts_with": [],
+      "added_version": "11.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_5812",
+      "claim": "THE BILL LEWIS RACE CORROBORATED FROM OUTSIDE THE ASSOCIATION, AND IT SAT BESIDE THE SEAMAN CUP. Tonight's f_5789 established the Bill Lewis Spring Race from the Montreal YMCA's own 1993 annual report -- its fourteenth consecutive running, about 800 runners, and the first year its receipts went to camperships at Kanawana and at Quito. The 2007 Concordia Seaman award booklet has it independently, in a winner's citation: the recipient 'worked on the T-shirt Committee, A. ROSS SEAMAN CUP AND BILL LEWIS RACE AT THE YMCA'. TWO THINGS FOLLOW. The race was a fixture a Dawson CRLT student could volunteer on and have it count toward a leadership award, so it was not merely a fundraising morning but part of the same student-volunteer world as the Seaman Cup. AND THE TWO EVENTS ARE NAMED IN ONE BREATH, which places the Bill Lewis Race inside the Concordia-Dawson-YMCA circuit this wiki documents around the Seaman Cup rather than beside it. The citation is inside r_0006's embargo; the institutional fact -- that the race existed and sat in that circuit -- is taken here and the person is not.",
+      "sources": [
+        "src_concordia_seaman_award_history_2007",
+        "src_cache_sgw_ymca_annual_report_1993"
+      ],
+      "confidence": "stated",
+      "category": "finance",
+      "entities": [
+        "Bill Lewis Race",
+        "A. Ross Seaman Cup",
+        "CRLT"
+      ],
+      "date_ref": "2007 booklet, on a race documented from 1993",
+      "conflicts_with": [],
+      "added_version": "11.74",
       "added_by": "ralph_loop"
     }
   ]

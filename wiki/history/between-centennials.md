@@ -1,6 +1,6 @@
 # Between Centennials (1968–1993)
 
-*Status: draft | Sources: 29*
+*Status: draft | Sources: 30*
 *Last Updated: 2026-09-08 (the camp in the 1990 strategic plan; the Bill Lewis race and camperships, 1993)*
 
 ## Overview
@@ -219,6 +219,13 @@ And **nothing else in this wiki connects Kanawana to Ecuador**: a Montreal road 
 attend camp at Saint-Sauveur *and* at Quito is a shape of institutional relationship the project has not
 recorded before. [f_5789]
 
+*A second document has the race, from outside the association.* The 2007 booklet of the
+[[people/a-ross-seaman|A. Ross Seaman Award]] carries a winner's citation crediting work on "the T-shirt
+Committee, **A. Ross Seaman Cup and Bill Lewis Race at the YMCA**."^30 So the race was a fixture a Dawson CRLT
+student could volunteer on and have it count toward a leadership award, and it is named in the same breath as
+the Cup — which puts it inside the Concordia–Dawson–YMCA circuit this wiki documents around the Seaman Cup
+rather than alongside it. [f_5812]
+
 **And at the end of the period the camp is one of three buildings the association is planning around.** The
 1990 annual report's opening message describes a strategic-planning process running over **five years**, and
 names what it is waiting on: "given the length of time required to put the finishing touches to the strategies
@@ -280,6 +287,7 @@ association is documenting about Kanawana in these years. [f_5779]
 27. Kamp Kanawana's own directors' reports for **1975** [src_ia_kanawana_report_1975] and **1979** [src_ia_kanawana_report_1979], on the children sponsored into camp each year. See [f_2452], also uncited by any article until now, and [f_4849].
 28. YMCA of Montreal annual report **1990** [src_cache_sgw_ymca_annual_report_1990], the opening message and the *Branch Boards of Management* page. Read 2026-09-08 under p_487. See [f_5779].
 29. YMCA of Montreal annual report **1993**, English and French editions [src_cache_sgw_ymca_annual_report_1993, src_ymf_sgw_ymca_annual_report_1993_fr], the Foundation's events pages. Read 2026-09-08 under p_487, reached through the French-edition triage. See [f_5789].
+30. *A. Ross Seaman Award: A History* (2007), the Concordia booklet [src_concordia_seaman_award_history_2007]. Read 2026-09-08 under p_441. The citation itself is inside the embargo registered as `r_0006`; the institutional fact is taken here and the person is not. See [f_5812].
 
 ## Research Notes
 
